@@ -1,0 +1,50 @@
+{{atsauces+}}
+{{Zinātnieka infokaste
+|             platums = 
+|               vārds = Džeimss Preskots Džouls
+|          vārds_orig = ''James Prescott Joule''
+|              attēls = Joule_James_sitting.jpg
+|          att_izmērs = 235px
+|       att_nosaukums = 
+|          dz_dat_alt =
+|             dz_gads = 1818
+|          dz_mēnesis = 12
+|            dz_diena = 24
+|            dz_vieta = {{flaga|Lielbritānija}} [[Salforda]], [[Apvienotā Karaliste|Lielbritānija]]
+|              m_gads = 1889
+|           m_mēnesis = 10
+|             m_diena = 11
+|             m_vieta = {{flaga|Lielbritānija}} [[Seila]], [[Apvienotā Karaliste|Lielbritānija]]
+|        dzīves_vieta = 
+|           pilsonība = {{GBR}}
+|             tautība = anglis
+|            paraksts = 
+|            darba_vietas = 
+|            alma_mater = 
+|            zinātne = [[fizika]]
+|            pasniedzēji = [[Džons Daltons]]
+|            studenti = 
+|            sasniegumi = [[Džoula-Lenca likums]]<br />eksperimentāli pierādīja [[enerģijas nezūdamības likums|enerģijas nezūdamības likumu]]
+|            piezīmes = 
+|            kategorijas = 
+}}
+
+'''Džeimss Preskots Džouls''' ({{val-en|James Prescott Joule}}, {{dat|1818|12|24|N}} — {{dat|1889|10|11|N}}) bija angļu fiziķis, [[Karaliskā biedrība|Londonas Karaliskās biedrības loceklis]] (1850).
+
+Džouls pētīja [[siltums|siltuma]] dabu un atklāja tās saistību ar mehānisko [[darbs (fizika)|darbu]] (1842-1847), kam bija liela nozīme [[enerģijas nezūdamības likums|enerģijas nezūdamības teorijas]] attīstībā. Džouls noteica arī siltuma mehānisko ekvivalentu (1843) un elektriskās strāvas izdalītā siltuma daudzumu ([[Džoula—Lenca likums]], 1841).
+
+Viņš gribēja noteikt sakarību starp mehānisko darbu un [[siltums|siltumu]], kas radies uz darba rēķina. Zinātniski izsakoties bija jāatrod darba un siltuma ekvivalents. Džouls pirmos rezultātus ieguva [[1843]]. gadā. Tas bija vienu gadu pēc tam, kad Maiers publicēja savus apsvērumus par dzīvā spēka nezūdamību. Jāteic, ka gandrīz visu 19. gadsimtu fizikas zinātnē tika jaukti jēdzieni [[spēks]] un [[enerģija]], pareizāk sakot, jēdziens enerģija vēl nemaz nebija ieviests. Tās vietā runāja par spēku. Tas apliecina, ka ķermeņu mijiedarbībā, ko tagad saprot kā enerģijas pāreju darba procesā no viena ķermeņa uz otru, patiešām spēks un enerģija ir cieši saistīti. [[Kalorimetrija|Kalorimetrijā]], kura iekšējam traukam ar apkārtējo gaisu [[siltumapmaiņa]] ir niecīga, ierīkota ass ar sānu lāpstiņām. Kalorimetrā ieliets zināms ūdens daudzums. Lāpstiņas griežoties rada ūdenī [[berze|berzi]], tāpēc ūdens sasilst. Lai ass varētu griezties, tās augšējai daļai uzlikts koka cilindrs, ap kuru aptītas divas auklas. Tās pārmestas diviem nekustīgiem trīšiem. Abu auklu brīvajos galos piekārti atvari. Atsvariem slīdot uz leju, sāk griezties [[cilindrs]] un ass ar lāpstiņām. Zinot augstumu, no kura noslīd [[atsvars|atsvari]], un šo atsvaru masu, var aprēķināt smaguma spēka pastrādāto darbu. Savukārt zinot kalorimetra ielietā ūdens masu un tā temperatūras izmaiņu, var aprēķināt ūdenim pievadīto siltuma daudzumu. Ja Džoula eksperimentu veiktu mūsdienās, tad ar abu lielumu vienībām grūtību nebūtu. Katram zināms, ka gan darbam, gan jebkurai enerģijas formai, arī siltumam ir viena un tā pati vienība — džouls. Džoula eksperimenti siltuma mehāniskā ekvivalenta noteikšanā turpinājās vairākus gadus. Iemesls tam bija vēlēšanās iegūt aizvien precīzākus rezultātus. Džoula darbība un rezultātu publikācijas pamatoti ļāva viņu uzskatīt par [[enerģijas nezūdamības likums|enerģijas nezūdamības]] un [[pārvēršanās likums|pārvēršanās likuma]] atklājēju. Taču prioritāte tomēr piederēja Maieram.
+
+Viņa vārdā nosaukta [[Starptautiskā mērvienību sistēma|SI]] darba mērvienība [[džouls]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{zinātnieks-aizmetnis}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Džouls, Džeimss Preskots}}
+[[Kategorija:Lielajā Mančestrā dzimušie]]
+[[Kategorija:Angļu fiziķi]]

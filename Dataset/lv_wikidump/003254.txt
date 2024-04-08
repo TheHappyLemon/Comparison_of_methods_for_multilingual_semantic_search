@@ -1,0 +1,191 @@
+{{Planētas infokaste
+| bgcolour = #E8AB79
+| name = Marss 
+| symbol = [[Attēls:Mars symbol (bold).svg|20px|alt=♂|Marsa astronomiskais simbols]]
+| image = [[Attēls:OSIRIS Mars true color.jpg|240px|The planet Mars]]
+| caption = Marsa attēlojums 2007. gadā
+| orbit_ref =
+<ref name=horizons>{{Tīmekļa atsauce
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08}} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Mars" and "Center: Sun".</ref>
+| epoch = [[J2000]]
+| aphelion = 249 209 300 km<br />
+1.665861 [[astronomiskā vienība|AU]]
+| perihelion = 206 669 000 km<br />
+1,381497 AU
+| semimajor = 227 939 100 km<br />
+1,523679 AU
+| eccentricity = 0,093315
+| period = 686,971 dienas<br />
+1.8808 [[julian year (astronomy)|Julian years]]<br />
+668.5991 [[Timekeeping on Mars|sols]]
+| synodic_period = 779,96 dienas<br />
+2.135 Julian years
+| avg_speed = 24,077 km/s
+| inclination = 1,850°<br />
+5,65° (pret [[Saule]]s ekvatoru)
+| asc_node = 49,562°
+| arg_peri = 286,537°
+| satellites = [[Marsa pavadoņi|2]]
+| physical_characteristics = yes
+| equatorial_radius = 3 396,2 ± 0.1&nbsp;km<ref name=Seidelmann2007>{{Laikraksta atsauce
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; et.al.
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155—180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28}}</ref><ref name=bfe>Best fit ellipsoid</ref><br />
+0,533 Earths
+| polar_radius = 3 376,2 ± 0.1&nbsp;km<ref name=Seidelmann2007/><ref name=bfe/><br />
+0,531 Earths
+| flattening = 0,00589 ± 0,00015 <!-- calculated from data in ref name=Seidelmann2007 -->
+| surface_area = 144 798 500&nbsp;km²<br />
+0,284 Earths
+| volume = 1,6318{{e|11}} km³<br />
+0,151 Earths
+| mass = 6,4185{{e|23}} kg<br />
+0,107 Earths
+| density = 3,934 g/cm³
+| surface_grav = 3,69 [[Acceleration|m/s²]]<br />
+0,376 ''[[g-force|g]]''
+| escape_velocity = 5,027 km/s
+| sidereal_day = 1,025957 dienas<br />
+ 24,62296 h
+| rot_velocity = 868,22 km/h
+| axial_tilt = 25,19°
+| right_asc_north_pole = 21 h 10 min 44 s<br />
+317,68143°
+| declination = 52,88650°
+| albedo = 0,15
+| magnitude = +1,8 līdz -2,91
+| angular_size = 3,5" — 25,1"
+| temperatures = yes
+| temp_name1 = [[kelvins|kelvinos]]
+| min_temp_1 = 186&nbsp;K
+| mean_temp_1 = 227&nbsp;K
+| max_temp_1 = 268&nbsp;K<ref>{{Tīmekļa atsauce
+ | title = Mars: Facts & Figures
+ | publisher = NASA
+ | url = http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric
+ | accessdate = 2007-03-06
+ | archive-date = 2003-01-27
+ | archive-url = https://web.archive.org/web/20030127213743/http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric
+ }}</ref>
+| temp_name2 = pēc [[Celsija grāds|Celsija]]
+| min_temp_2 = −87&nbsp;°C
+| mean_temp_2 = −46&nbsp;°C
+| max_temp_2 = −5&nbsp;°C
+| adjectives = marsieši
+| atmosphere = yes
+| surface_pressure = 0,7—0,9 [[paskāls|kPa]]
+| atmosphere_density =
+| atmosphere_composition = 95,72% [[oglekļa dioksīds]]<br />
+2,7% [[slāpeklis]]<br />
+1,6% [[argons]]<br />
+0,2% [[skābeklis]]<br />
+0,07% [[oglekļa monoksīds]]<br />
+0,03% [[ūdens]] tvaiks<br />
+0,01% [[slāpekļa oksīds]]<br />
+2,5 [[Parts per million|ppm]] [[neons]]<br />
+300 [[Parts per billion|ppb]] [[kriptons]]<br />
+130 [[Parts per billion|ppb]] [[formaldehīds]]<br />
+80 [[Parts per billion|ppb]] [[ksenons]]<br />
+30 [[Parts per billion|ppb]] [[ozons]]<br />
+10 [[Parts per billion|ppb]] [[metāns]]<!-- Hope this has formatted properly now. --> <!-- Hope this has formatted properly now. -->
+}}
+
+'''Marss''' ir [[Saules sistēma]]s ceturtā [[planēta]], kuru nereti dēvē arī par "Sarkano planētu".<ref>Zubrin, R., Wagner, R. ''Case for Mars: The Plan to Settle the Red Planet and Why We Must''. New York: Touchstone, 1997.</ref> Marss nosaukts [[Marss (dievs)|romiešu kara dieva]] vārdā. Marsam ir divi pavadoņi — [[Foboss (pavadonis)|Foboss]] un [[Deimoss (pavadonis)|Deimoss]]. Marss pieder pie [[Zemes grupas planētas|Zemes grupas planētām]] un tiek klasificēts kā auksta un sausa [[tuksneša planēta]].<ref>{{tīmekļa atsauce|url=https://www.diena.lv/raksts/pasaule/cits/nasa-zonde-sasniegusi-marsa-orbitu-14070867|title=NASA zonde sasniegusi Marsa orbītu|work=diena.lv|first=Juris|last=Tihonovs|date=23 September 2014|accessdate=26 May 2017}}</ref>
+
+Marss ir otra tuvākā planēta [[Zeme]]i (uzreiz aiz [[Venera (planēta)|Venera]]s), līdz ar to daudzas valstis mūsdienās izvēlas iesaistīties aktīvā [[Marsa izpēte|Marsa izpētē]], kas galvenokārt tiek veikta caur vairākām [[starpplanētu zonde|starpplanētu zondēm]] un pašgājēju robotiem. Tāpat tuvākajās desmitgadēs starp vairākām valstu kosmosa aģentūrām un privātajām kosmosa kompānijām tiek apsvērta arī potenciāla [[cilvēku misija uz Marsu]],<ref name="natgeo">{{tīmekļa atsauce|url= https://news.nationalgeographic.com/2018/01/nasa-orion-recovery-tests-humans-moon-space-science/|title= How NASA Plans to Send Humans Back to the Moon|first=Ramin|last=Skibba|work=nationalgeographic.com|publisher=National Geographic|date=26 January 2018|accessdate=2 April 2018}}</ref><ref name="cbc.ca">{{tīmekļa atsauce|url= http://www.cbc.ca/news/technology/spacex-mars-rocket-elon-musk-1.4312878|title= This is how SpaceX will get humans to Mars by 2024|work=cbc.ca|publisher=CBC News|date=29 September 2017|accessdate=2 April 2018}}</ref> kurai teorētiski varētu sekot arī [[Marsa kolonizācija|planētas kolonizācija]]s un [[Marsa teraformēšana|teraformēšanas]] process.
+
+Marsa [[diametrs]] ir apmēram 6 792,4 [[Kilometrs|km]],<ref name=":0">[http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html "Mars Fact Sheets"] {{Webarchive|url=https://web.archive.org/web/20100612092806/http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html |date={{dat|2010|06|12||bez}} }}. ''NASA''. Retrieved January 7, 2016.</ref> tas ir aptuveni divreiz mazāks nekā [[Zeme]]i. Marsam ir relatīvi blīva [[atmosfēra]], kas sastāv lielākoties no [[ogleklis|oglekļa dioksīda]] (95,32%), [[Slāpeklis|slāpekļa]] (2,7%), [[Argons|argona]] (1,6%) un [[Skābeklis|skābekļa]] (0,13%).<ref name=":0" /> Marsa virsmas vidējā [[temperatūra]] ir −63 °C. Marsa diennakts garums ir aptuveni 24,6 stundas.<ref name=":0" />
+
+Marsa astronomiskais simbols ir [[Attēls:Mars symbol.svg|15px]] (aplis ar no tā ziemeļaustrumu virzienā izejošu bultu). Šis simbols attēlo dieva Marsa vairogu un šķēpu ([[bioloģija|bioloģijā]] tas apzīmē vīrišķo dzimumu).
+
+== Orbīta un rotācija==
+Minimālais attālums starp Marsu un [[Zeme|Zemi]] ir 55,7 [[Miljons|mlj]]. kilometru (Zemei atrodoties tieši starp [[Saule|Sauli]] un Marsu), maksimālais — ap 401,3 mlj. kilometru (Saulei atrodoties starp Zemi un Marsu).<ref name=":0" /> Vidējais attālums no Marsa līdz Saulei ir 228 mlj. kilometru jeb 1,52 [[Astronomiskā vienība|AU]] Marsa [[gads]] ilgst 687 Zemes [[Diennakts|diennaktis]]. Marsa orbītai ir salīdzinoši liela ekscentritāte (0,0933), tāpēc attālums līdz Saulei mainās no 206,6 mlj. līdz 249,2 mlj. kilometriem. Marsa orbītas slīpums ir 1,85°.
+
+Kad Zeme savā orbitālajā riņķojumā ap Sauli nostājas pretī Marsam, to sauc par Marsa opozīciju. Opozīcijas atkārtojas katrus 26 mēnešus dažādos Marsa un Zemes orbītu punktos. Reizi 15 — 17 gados opozīcija iestājas laikā, kad Marss atrodas tuvu savam [[Perihēlijs|perihēlijam]]. Šādu stāvokli sauc par Marsa lielo opozīciju. Marsa lielās opozīcijas laikā tas pietuvojas Zemei vistuvāk un var sasniegt vislielāko leņķisko diametru 25,1" un redzamo spožumu −2,91m.
+
+Marsa diennakts jeb [[sols]] ilgst 24 stundas 37 minūtes un 35,24409 sekundes, kas ir tikai par 2,7% vairāk par Zemes diennakti. Marsa gads ilgst 668,6 solus. Marss griežas ap savu asi, kuras slīpums pret orbītas plakni ir 25,19° leņķī. Šis griešanās ass slīpums nodrošina uz planētas [[Gadalaiks|gadalaiku]] maiņu. Turklāt [[orbītas ekscentritāte]] rada lielu atšķirību starp gadalaiku ilgumiem. Tādējādi, [[ziemeļu puslode]]s [[pavasaris]] un [[vasara]] kopā ilgst 371 solu, t.i. būtiski pārsniedzot pusi no Marsa gada. Tajā pat laikā tie iekrīt laikā, kad Marss ir vistālāk no Saules. Tāpēc Marsa ziemeļu puslodē vasara ir gara un vēsa, bet [[Dienvidu puslode|dienvidu puslodē]] īsa un silta.
+
+== Fiziskie raksturlielumi ==
+=== Diametrs ===
+[[Attēls:Mars, Earth size comparison.jpg|thumb|left|[[Zeme]]s un Marsa fizikālo parametru salīdzinājums]]
+
+Pēc izmēriem Marss ir gandrīz divreiz mazāks par Zemi; tā ekvatoriālais rādiuss ir 3396,9 km. jeb 53,2% no Zemes rādiusa. Marsa virsmas laukums apmēram atbilst Zemes sauszemes laukumam. Marsa polārais rādiuss ir apmēram par 20 km mazāks par ekvatoriālo.
+
+=== Masa ===
+Planētas kopējā masa ir aptuveni viena desmitā daļa no Zemes masas jeb 6,4169 x 10<sup>23</sup> kg.<ref>{{tīmekļa atsauce|url=https://www.universetoday.com/14888/mars-mass/|title=Mars Mass|work=universetoday.com|publisher=Universe Today|first=Jerry|last=Coffey|date=6 June 2008|accessdate=7 April 2019}}</ref>
+
+Atsevišķi pētījumi caur datorsimulācijām liecina, ka Marsa kopējai masai vajadzēja būt aptuveni 1,5 līdz 2 reizes lielākai nekā pašreizējai [[Zeme]]s masai, kur visticamāk liela daļa no planētas potenciālās masas tika zaudēta tās veidošanās pirmsākumos [[Jupiters (planēta)|Jupitera]] [[gravitācija]]s ietekmes rezultātā.<ref>{{tīmekļa atsauce|url=https://www.newscientist.com/article/2127273-mars-is-so-small-because-jupiter-shook-up-its-formation/|title=Mars is so small because Jupiter shook up its formation|work=newscientist.com|publisher=NewScientist|first=Abigail|last=Beall|date=7 April 2017|accessdate=7 April 2019}}</ref>
+
+== Atmosfēra un klimats ==
+[[Temperatūra]] uz ekvatora svārstās no +30 °C pusdienlaikā līdz −80 °C pusnaktī. Polu tuvumā temperatūra var kristies līdz −143 °C.
+
+Marsa [[atmosfēra]], kas sastāv galvenokārt no [[ogļskābā gāze|ogļskābās gāzes]], ir ļoti retināta. [[Atmosfēras spiediens]] uz Marsa virsmas ir 160 reizes mazāks nekā uz Zemes virsmas — 6,1 milibārs vidējā Marsa virsmas līmenī (uz Zemes 1013,25 milibāri). Lielo virsmas augstuma atšķirību dēļ spiediens ļoti atšķiras. Lielākais līdz šim zināmais spiediens uz Marsa virsmas ir 8,4 milibāri Ellādas baseinā (4 km zem vidējā virsmas līmeņa), bet [[Olimpa kalns (Marss)|Olimpa kalna]] virsotnē (27 km virs vidējā līmeņa) tas ir 0,5 milibāri.
+
+Marsam ir gadalaiki, tāpat kā Zemei. Atšķirībā no Zemes, Marsa atmosfēras masa mainās gada laikā sakarā ar polāro "cepuru" ikgadējo iztvaikošanu un izveidošanos, kuras satur daudz ogļskābās gāzes.
+
+=== Klimats senatnē ===
+[[Attēls:An artist’s impression of Mars four billion years ago.jpg|thumb|left|Mākslinieka attēlojums, kā Marss varēja izskatīties pirms 4 [[miljards|miljardiem]] gadu]]
+Tagad Marss ir sauss un auksts, bet par to, kāds klimats bijis senatnē, eksistē vairākas hipotēzes.
+
+Viena no tām apgalvo, ka sauss un auksts Marss ir bijis arī agrāk. Ūdens izveidoto ieleju un citu ģeoloģisko veidojumu rašanās tiek saistīta ar karstuma uzliesmojumiem, kas bijuši ierobežoti laikā un telpā. Tie nav radījuši ievērojamus okeānus.
+
+Karsta un mitra Marsa teorija apgalvo, ka uz planētas bijuši ievērojami ezeri un jūras, un lietus bijis ilgu periodu.
+
+Jaunākie pētījumi rāda, ka senatnē klimats varētu būt bijis auksts, bet mitrs. Par to liecina [[aisbergs|aisbergu]] sanestie akmeņi ziemeļu līdzenumos, tātad jūras klājis ledus.<ref>[http://www.space.com/scienceastronomy/ancient-icebergs-mars-oceans-101001.html New Evidence Suggests Icebergs in Frigid Oceans on Ancient Mars] space.com, 2010-10-01</ref>
+
+Zinātnieki uzskata, ka pirms 4 miljardiem gadu uz Marsa kopējais ūdens apjoms varēja būt līdzvērtīgs Zemes [[Ziemeļu Ledus okeāns|Ziemeļu Ledus okeānam]], un šāda okeāna dziļums vietām varēja sasniegt pat 1,6 kilometrus.<ref name="Marsa ūdens">{{tīmekļa atsauce|url=http://www.starspace.lv/lv/saules-sistema/marss/planeta-kura-zaudeja-okeanu-06032015.html|title=Planēta, kura zaudēja okeānu|work=starspace.lv|date=6 March 2015|accessdate=22 April 2017}}</ref> Ņemot vērā Marsa topogrāfiju, okeāns visticamāk klāja ziemeļu puslodes līdzenumus ar kopējo platību 19 % no planētas virsmas.<ref name="Marsa ūdens"/>
+
+== Virsma ==
+[[Attēls:PIA17944-MarsCuriosityRover-AfterCrossingDingoGapSanddune-20140209.jpg|thumb|Marsa virsmas attēlojums no ''Curiosity'' pašgājēja uzņemtas fotogrāfijas 2014. gadā.]]
+Divas trešdaļas no Marsa virsmas aizņem gaišie apgabali, kas tiek saukti par kontinentiem, bet vienu trešdaļu klāj tumšie apgabali, saukti par jūrām. Jūras koncentrējas pārsvarā planētas [[Dienvidu puslode|dienvidu puslodē]] starp 10 un 40 platuma grādiem. [[Ziemeļu puslode|Ziemeļu puslodē]] ir tikai divas lielas jūras — [[Acidālija]] un [[Lielais Sirts]].
+
+Tumšo apgabalu raksturs līdz pat šim laikam paliek strīdīgs. Šie apgabali saglabājas, neskatoties uz Marsa bieži notiekošajām [[smilšu vētra|smilšu vētrām]]. Savā laikā tas kalpoja par argumentu pieņēmumam, ka tumšos apgabalus klāj [[Augi|augu]] sega. Pašlaik uzskata, ka tie ir apgabali, no kuriem to [[Reljefs|reljefa]] īpatnību dēļ [[smiltis]] tiek viegli aizpūstas prom. Liela mēroga [[Attēls|attēli]] rāda, ka patiesībā tumšie apgabali sastāv no tumšu joslu un plankumu grupām, kas savienotas ar [[krāteris|krāteriem]], [[pauguri]]em u.c. šķēršļiem valdošo [[Vējš|vēju]] ceļā. Sezonālās un ilgtermiņa izmaiņas to izmēros un formā acīmredzot ir saistītas ar izmaiņām apgabalu attiecībās, ko klāj gaišas un tumšas vielas segkārta.
+
+Pēc virsmas rakstura abas Marsa puslodes ir stipri atšķirīgas. Dienvidu puslodē virsma ir par 1—2 km augstāka par vidējo līmeni un samērā blīvi nosēta ar [[triecienkrāteris|triecienkrāteriem]]. Šī Marsa daļa atgādina [[Mēness]] kontinentus. Ziemeļu puslodē virsmas lielākā daļa atrodas zem vidējā līmeņa. Šeit ir maz triecienkrāteru un lielāko daļu aizņem salīdzinoši gludi līdzenumi, kas, domājams, veidojušies izplūdušās lavas un erozijas rezultātā. Šīs atšķirības starp puslodēm joprojām paliek diskusiju objekts. Robeža starp puslodēm velkas pa lielu apli, 30° slīpumā attiecībā pret [[Ekvators|ekvatoru]]. Šī robeža ir plata un nevienmērīga, veidojot nogāzi virzienā uz ziemeļiem. Gar to ir sastopami viserodētākie Marsa virsmas apgabali.
+
+Ir izvirzītas divas alternatīvas [[hipotēze]]s, kas skaidro pusložu asimetriju. Saskaņā ar vienu hipotēzi, agrīnajā ģeoloģiskajā etapā [[litosfēras plātnes]] dreifējot sadūrās savā starpā (iespējams, nejauši) vienā puslodē, līdzīgi [[Pangeja]]i uz [[Zeme]]s, bet pēc tam "sastinga" šādā stāvoklī. Otra hipotēze pieņem, ka Marss saskrējās ar [[Plutons (pundurplanēta)|Plutona]] lieluma kosmisku ķermeni.
+
+[[Attēls:Perspective view of Korolev crater.jpg|thumb|left|Sasaluša ūdens ledus krātera attēlojums uz Marsa virsmas 2018. gadā.]]
+Lielais krāteru blīvums dienvidu puslodē liek domāt, ka šī virsma ir ap 3—4 mljrd. gadu sena. Tiek izdalīti vairāki krāteru tipi: lielie krāteri ar plakanu dibenu, mazāki un jaunāki bļodveida krāteri, līdzīgi Mēness krāteriem, ar valni norobežotie krāteri un paaugstinātie krāteri. Pedējie divi krāteru tipi ir unikāli Marsam. Krāteri ar valni izveidojās tur, kur pa virsmu tecēja šķidri izmeši, bet paaugstinātie krāteri veidojās tur, kur krātera izmešu kārta sargāja apkārtējo virsmu no vēja [[erozija]]s. Pats lielākais trieciena rezultātā veidojies objekts ir [[Hellādas līdzenums]] (apm. 2100 km platumā).
+
+Haotisko virsmas ainavu apgabalos pie pusložu robežas virsma tika pakļauta lielu reģionu lūzumiem un spiediena izraisītām deformācijām, pēc kurām reizēm sekoja erozija ([[Šļūdonis|šļūdoņu]] un katastrofiskas pazemes ūdeņu izdalīšanās rezultātā), kā arī applūšana ar šķidru lavu. Haotiskās ainavas bieži vien atrodas pie [[ūdens]] izgrauztu lielu kanālu iztekām. Pieņemamākā hipotēze to kopējo izcelšanos skaidro ar pēkšņu pazemes ledus kušanu.
+
+Ziemeļu puslodē, bez plašajiem vulkāniskajiem līdzenumiem, atrodas divu lielu [[Vulkāns|vulkānu]] [[Tarsīdas apgabals|Tarsīdas]] un [[Elīzija apgabals|Elīzija apgabali]]. Tarsīda ir liels vulkānisks līdzenums 2000 km garumā, kas sasniedz 10 km augstumu virs vidējā līmeņa. Uz tā atrodas trīs lieli vairogveida vulkāni: [[Arsija kalns]], [[Pavoņa kalns]] un [[Askreus kalns]]. Tarsīdas malā atrodas augstākais Marsa (un arī [[Saules sistēma]]s) kalns — [[Olimps (Marss)|Olimps]]. Olimpa kalns sasniedz 27 km augstumu attiecībā pret kalna pamatni un 25 km attiecībā pret vidējo Marsa virsmas līmeni. Tas aizņem laukumu ap 550 km diametrā, un to ieskauj [[krauja]], kas vietām sasniedz 7 km augstumu. Olimpa tilpums 10 reizes pārsniedz Zemes lielākā vulkāna, [[Maunakea]], tilpumu. Šeit pat atrodas arī daži mazāki vulkāni.
+Elīzijs ir paaugstinājums līdz 6 km virs vidējā līmeņa ar trim vulkāniem: [[Hekatas kupols|Hekatas kupolu]], [[Elīzija kalns|Elīzija kalnu]] un [[Albotras kupols|Albotras kupolu]].
+
+== Attēlu galerija ==
+<gallery widths="135px" heights="100px" perrow="4">
+Attēls:PIA08440-Mars Rover Spirit-Volcanic Rock Fragment.jpg|Vulkāniskie ieži uz Marsa
+Attēls:Burns cliff.jpg|Klints ''Endurance'' krāterī
+Attēls:MarsSunset.jpg|Saulriets uz Marsa
+Attēls:Opportunity - Cratera Eagle.jpg|''Eagle'' krāteris
+</gallery>
+
+== Skatīt arī ==
+{{Portāls|Astronomija}}
+* [[Cilvēku misija uz Marsu]]
+* [[Marsa izpēte]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Marss (planēta)| ]]
+[[Kategorija:Saules sistēmas planētas]]

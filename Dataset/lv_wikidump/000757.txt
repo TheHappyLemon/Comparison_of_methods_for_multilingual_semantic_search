@@ -1,0 +1,114 @@
+'''Tīmekļa serveris''' ir [[serveris]], kuru var attiecināt uz divām lietām:
+# [[dators]], kurš ir atbildīgs par tīmekļa lappušu, pamatā [[HTML]] dokumentu, pasniegšanu klientiem, pamatā [[tīmekļa pārlūkprogramma|tīmekļa pārlūkprogrammām]], caur [[HTTP]] protokolu;
+# datorprogramma, kura darbojas, kā dēmons tīmekļa dokumentu pasniegšanai.
+
+Ikkatrs tīmekļa serveris (pirmajā nozīmē) darbina tīmekļa servera programmatūru (otrā nozīme).
+
+== Pārskats ==
+Primārā tīmekļa servera funkcija ir sniegt tīmekļa lapu pieprasījumu klientiem, izmantojot hiperteksta pārsūtīšanas protokolu ([[HTTP]]). Tas nozīmē [[HTML]] dokumentu un jebkādu papildu saturu piegādi, kas var tikt iekļauta dokumentos, kā piemēram, [[attēls|attēli]], stila lapas un [[skripts|skripti]].
+Lietotāja klients, parasti interneta pārlūks, uzsāk pieprasījumu serverim izmantojot [[HTTP]], un serveris atbild ar izvēlēto saturu vai ar kļūdas paziņojumu, ja nespēj šo saturu atrast vai attēlot. Resurss parasti ir reāls fails uz servera papildus glabātuves, taču nevienmēr, un tas lielā atkarīgs no kā [[serveris]] ir īstenots.
+Kamēr primārā [[serveris|servera]] funkcija ir sniegt saturu klientam, tomēr nedrīkst aizmirst par iespēju saņemtsaturu no klienta, kas tiek īstenots dažādās tīmekļa veidlapās un klienta failu augšupielādē.
+Tīmekļa serveri netiek izmantoti tikai tīmekī. Tie var tikt iestrādātāti [[printeris|printeros]], [[maršutētātājs|maršutētājos]], [[tīmekļa kamera|tīmekļa kamerās]], kā arī tie var tikt izmantoti tikai, lai apkalpotu vietējo [[Lokālais tīkls|tīklu]]. Šajā gadījumā tīmekļa severis var tikt izmantots šo sistēmu pārraudzībai un administrēšanai. Tādā veidā klientam nav nepieciešams uzstādīt papildus [[programmatūra|programmatūru]], bet pietiek vienīgi ar [[tīmekļa pārlūks|tīmekļa pārlūku]], kas kalpo kā administrēšanas rīks.
+{| class="wikitable"
+!Servera tips
+!Mērķis
+!Klienti
+|-
+|Lietojumprogrammu  serveris
+|Tiek uzturētas tīmekļa lietotnes (datorprogrammas, kas darbojas tīmekļa pārlūkprogrammā), kas tīkla lietotājiem ļauj tās palaist un izmantot, neinstalējot kopiju uz saviem datoriem. Atšķirībā no tā, ko var norādīt nosaukums, šiem serveriem nav jābūt daļai no globālā tīmekļa; jebkurš vietējais tīkls to darītu.
+|Datori ar interneta pārlūku.
+|-
+|Katalogu serveris
+|Uztur informācijas indeksu vai satura tabulu, ko var atrast lielā izplatītā tīklā, piemēram, datoros, lietotājiem, failos, kas koplietoti failu serveros, un tīmekļa lietotnēs. Katalogu serveru piemēri ir direktoriju serveri un vārdu serveri.
+|Jebkura datorprogramma, kurai jāatrod kaut kas tīklā, piemēram, domēna dalībnieks, kurš mēģina pieteikties, e-pasta klients, kurš meklē e-pasta adresi, vai lietotājs, kurš meklē failu
+|-
+|Komunikāciju serveris
+|Uztur vidi, kas nepieciešama vienam komunikācijas galapunktam (lietotājam vai ierīcēm), lai atrastu citus galapunktus un sazinātos ar tiem. Atkarībā no tīkla atvērtības un drošības parametriem tajā var būt komunikāciju galapunktu direktorijs un klātbūtnes noteikšanas pakalpojums.
+|Sakaru galapunkti (lietotāji vai ierīces)
+|-
+|Datoru serveri
+|Tīklā tiek koplietots liels daudzums skaitļošanas resursu, īpaši CPU un brīvpiekļuves atmiņa.
+|Var atļauties jebkura datorprogramma, kurai vajadzīgs vairāk procesora jaudas un operatīvās atmiņas nekā personālajam datoram. Klientam jābūt ar datoru savienotam tīklā; pretējā gadījumā nebūtu klienta-servera modeļa.
+|-
+|Databāžu serveri
+|Uztur un koplieto jebkura veida datu bāzes (organizētas datu kolekcijas ar iepriekš noteiktiem rekvizītiem, kuras var tikt parādītas tabulā) tīklā.
+|Izklājlapas, grāmatvedības programmatūra, aktīvu pārvaldības programmatūra vai praktiski jebkura datorprogramma, kas patērē labi sakārtotus datus, īpaši lielos apjomos
+|-
+|Fax serveri
+|Kopīgi tīklā dalās viena vai vairākas faksa aparāti, tādējādi novēršot fiziskas piekļuves grūtības
+|Jebkurš faksa sūtītājs vai saņēmējs
+|-
+|Failu serveri
+|Koplieto failus un mapes, krātuves vietu failu un mapju vai abu turēšanai tīklā
+|Tīkla datori ir paredzētie klienti, kaut arī vietējās programmas var būt klienti
+|-
+|Spēļu serveri
+|Ļauj vairākiem datoriem vai spēļu ierīcēm spēlēt vairāku spēlētāju videospēles
+|Personālie datori vai spēļu konsoles
+|-
+|Pasta serveri
+|Padara saziņu pa e-pastu tādā pašā veidā, kā pasts padara iespējamu saziņu ar gliemežu pastu
+|E-pasta sūtītāji un saņēmēji
+|-
+|Media serveri
+|Koplieto digitālo video vai digitālo audio tīklā, izmantojot multivides straumēšanu (satura pārraidīšana tādā veidā, lai saņemtās daļas varētu skatīties vai klausīties, kad tās pienāk, nevis lejupielādēt visu failu un pēc tam to izmantot)
+|Lietotāju personālie datori, kas aprīkoti ar monitoru un skaļruni
+|-
+|Printera serveri
+|Kopīgi tīklā koplieto vienu vai vairākus printerus, tādējādi novēršot fiziskās piekļuves grūtības
+|Datori, kuriem kaut kas jāizdrukā
+|-
+|Skaņas serveri
+|Ļauj datorprogrammām atskaņot un ierakstīt skaņu atsevišķi vai sadarbībā
+|Tā paša datora un tīkla klientu datorprogrammas.
+|-
+|Starpniekserveris
+|Darbojas kā starpnieks starp klientu un serveri, pieņemot ienākošo trafiku no klienta un nosūtot to uz serveri. Iemesli tam ir satura kontrole un filtrēšana, trafika veiktspējas uzlabošana, nesankcionētas piekļuves tīklam novēršana vai trafika vienkārša maršrutēšana lielā un sarežģītā tīklā.
+|Jebkurš tīkla dators
+|-
+|Virtuālais serveris
+|Koplieto aparatūras un programmatūras resursus ar citiem virtuālajiem serveriem. Tas pastāv tikai kā noteikts specializētajā programmatūrā, ko sauc par hipervizoru. Hipervizors uzrāda serverim virtuālo aparatūru tā, it kā tā būtu īsta fiziskā aparatūra. Servera virtualizācija ļauj efektīvāk izmantot infrastruktūru.
+|Jebkurš tīkla dators
+|-
+|Web serveris
+|Uztur tīmekļa lapas. Tīmekļa serveris padara to iespējamu globālajā tīmeklī. Katrā vietnē ir viens vai vairāki tīmekļa serveri.
+|Datori ar interneta pārlūku.
+|}
+
+== Vēsture ==
+1989. gadā Tims Berners-Lī rosināja ideju par jaunu projektu savam darba devējam CERN, ar mērķi atvieglot informācijas apmaiņu starp zinātniekiem, izmantojot hiperteksta sistēmu. Projekta rezultātā 1990. gadā Berners-Lī izveidoja divas programmas:
+* Pārluku WorldWideWeb
+* Pasaulē pirmo tīmekļ serveri ar nosaukumu CERN httpd, kurš darbojās uz [[opretājsistēma|operētājsimas]] NeXTSTEP
+
+No 1991. gada līdz 1994. gadam šī agrīnā tehnoļiģija palīdzēja sazināties starp dažādām [[operētāksistēmas|operētājsistēmām]], kuras izmantoja zinātniskās organizācijas un augstskolas.
+1994. gadā Tims Berners-Lī nolēma veidot World Wide Web Consortium (W3C), lai reglamentētu tālāku attīstību daudzu iesaistīto tehnoloģiju (HTTP, HTML, u.c.) lietošanā, izmantojot standartizācijas procesu.
+
+{{noformējums}}
+{| class="wikitable"
+|'''1995. gads'''
+|'''Februāris'''. Globālais tīmeklis kļūst par G7 konferences galveno iemeslu. Konference notiek Briselē Eiropas Parlamentu ēkās un to organizē  Eiropas Komisija.
+
+'''26. maijs'''. Parādās viena no pirmajām mājaslapām Latvijā:  www.lanet.lv [19].
+
+'''Aprīlis'''. Trešā globāla tīmekļa pasaules konference: “Rīki un lietojumi”.
+
+'''Augusts'''. Microsoft uzsāk “Pārlūkprogrammu karu” – jaunā pārlūkprogramma Internet Explorer (16. ilustrācija) sāk iekārot savu daļu tirgū.
+|}
+
+== Programmatūra ==
+Populārākās tīmekļa (HTTP) servera programmas ir:
+* [[Apache HTTP Server]] no [[Apache Software Foundation]]
+* [[Internet Information Server]] (IIS) no [[Microsoft]]
+* [[Zeus Web Server]] no [http://www.zeus.com/ Zeus Technology]
+* [[Sun ONE]] no [[Sun Microsystems]]
+* [[Lighttpd]]
+* [[Nginx]]
+* [[thttpd]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20050703011719/http://www.ietf.org/rfc/rfc2616.txt RFC2616] - HTTP 1.1 protokols
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vispasaules tīmeklis]]
+[[Kategorija:Tīmekļa serveri| ]]

@@ -1,0 +1,31 @@
+{{ezera infokaste
+|ezers=Siljans
+|attēls=View over Siljan.jpg
+|paraksts=Siljana ainava
+| map = Zviedrija
+| map_size = 200px
+| plat_d=60 | plat_m=51 | plat_s= | plat_NS=N
+| gar_d=14 | gar_m=48 | gar_s= | gar_EW=E
+|vieta={{SWE}}
+|platība=354
+|garums=
+|Vid_dziļums=
+|Max_dziļums=120
+|tilpums=42
+|augstums_vjl=161
+|izteka=[[Esterdālelvena]]
+|baseins=
+|valstis=[[Zviedrija]]<br />[[Norvēģija]]
+|salas=
+|pilsētas=[[Mūra (pilsēta)|Mūra]], [[Retvīka]]
+}}
+'''Siljans''' ({{val|sv|Siljan}}) ir liels [[ezers]] [[Zviedrija|Zviedrijā]], [[Dālarna]]s lēnē. Pēc platības sestais lielākais ezers Zviedrijā. Kopā ar savienotajiem, mazākajiem ezeriem (Orsašens u.c.) platība sasniedz 354 km².
+
+Siljana baseinā ap 20% platības aizņem [[purvs|purvi]] un ap 70% platības — [[mežs]]. No ezera iztek [[Esterdālelvena]], kas drīz sasniedz [[Dālelvena]]s upi, kas savukārt ietek [[Botnijas līcis|Botnijas līcī]].
+
+Ezers atrodas ap 365 miljonus gadu sena [[meteorīts|meteorīta]] krātera Siljansringena (''Siljansringen'') dienvidrietumu perifērijā. Šī krātera diametrs ir ap 50 km. Meklējot [[dabas gāze]]s atradnes, meteorīta sašķeltajā [[granīts|granīta]] masīvā ziemeļos no ezera ir izveidoti divi dziļurbumi, kas sasniedz 6,7 km un 6,5 km dziļumu.
+
+{{zviedrija-aizmetnis}}
+
+[[Kategorija:Zviedrijas ezeri]]
+[[Kategorija:Meteorītu krāteri]]

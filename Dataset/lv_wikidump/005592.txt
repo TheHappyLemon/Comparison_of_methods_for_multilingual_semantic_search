@@ -1,0 +1,127 @@
+{{Vieglatlēta infokaste
+ |           vārds = Endrū Hovs
+ |      vārds_orig = ''Andrew Howe''
+ |          attēls = Osaka07 D6A Andrew Howe celebrating.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1985|5|12}}
+ |         dz_viet = {{vieta|ASV|Losandželosa}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{ITA}}
+ |     dzīvesvieta = 
+ |          garums = 
+ |           svars = 
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = [[Tāllēkšana]]
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 
+ |           PR1_d = 
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = 
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Endrū Hovs''' ({{val|it|Andrew Howe}}; dzimis {{dat|1985|5|12}} [[Losandželosa|Losandželosā]], [[Amerikas Savienotās Valstis|ASV]]) ir [[Itālija]]s [[Tāllēkšana|tāllēcējs]]. Hovs uzvarēja 2004. gada Pasaules čempionātā junioriem gan tāllēkšanā, gan 200 metru skrējienā. Starptautisku atpazīstamību Hovs ieguva 2006. gada pasaules čempionātā telpās [[Maskava|Maskavā]], kur ieguva trešo vietu. [[2006. gada Eiropas čempionāts vieglatlētikā|2006. gada Eiropas čempionātā]] Hovs uzvarēja tāllēkšanas sacensībās ar rezultātu 8 metri 20 centimetri, bet pēc gada [[2007. gada Pasaules čempionāts vieglatlētikā|Pasaules čempionātā]] kļuva par vicečempionu, sasniedzot jaunu [[Itālija]]s rekordu - 8,47.
+
+== Sasniegumi ==
+{| border="1" cellspacing="2" cellpadding="1" style="border-collapse: collapse; font-size: 95%;"
+|- bgcolor="cccccc"
+!Gads
+!Turnīrs
+!Notikumu vieta
+!Vieta
+!Veids
+|-
+|2001
+|Pasaules Jaunatnes čempionāts
+|[[Debrecena]], [[Ungārija]]
+|bgcolor="cc9966" align="center" | 3
+|Tāllēkšana
+|-
+|2004
+|Pasaules Junioru čempionāts
+|[[Groseto]], [[Itālija]]
+|bgcolor="gold" align="center" | 1
+|Tāllēkšana
+|-
+|
+|Pasaules Junioru čempionāts
+|[[Groseto]], [[Itālija]]
+|bgcolor="gold" align="center" | 1
+|200 metri
+|-
+|2006
+|Pasaules čempionāts telpās
+|[[Maskava]], [[Krievija]]
+|bgcolor="cc9966" align="center" | 3
+|Tāllēkšana
+|-
+|2006
+|[[2006. gada Eiropas čempionāts vieglatlētikā|Eiropas čempionāts]] 
+|[[Gēteborga]], [[Zviedrija]]
+|bgcolor="gold" align="center" | 1
+|Tāllēkšana
+|-
+|2007
+|[[2007. gada Eiropas čempionāts vieglatlētikā telpās|Eiropas čempionāts telpās]] 
+|[[Turīna]], [[Itālija]]
+|bgcolor="gold" align="center" | 1
+|Tāllēkšana
+|-
+|2007
+|[[2007. gada Pasaules čempionāts vieglatlētikā|Pasaules čempionāts]]
+|[[Osaka]], [[Japāna]]
+|bgcolor="silver" align="center" | 2 
+|Tāllēkšana
+|}
+
+== Personīgie rekordi ==
+* 100 metri - 10,68 (2003)
+* 200 metri - 20,28 (2004)
+* 400 metri - 46,03 (2006)
+* Tāllēkšana - 8,47 (VR) (2007)
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+
+{{vieglatlēts-aizmetnis}}
+{{Olimpisko spēļu dalībnieks-aizmetnis}}
+{{DEFAULTSORT:Hovs, Endrū}}
+
+[[Kategorija:1985. gadā dzimušie]]
+[[Kategorija:Itālijas vieglatlēti]]
+[[Kategorija:2004. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2008. gada vasaras olimpisko spēļu dalībnieki]]

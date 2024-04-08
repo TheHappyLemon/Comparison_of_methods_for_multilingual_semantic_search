@@ -1,0 +1,27 @@
+'''Nevienādība''' ir apgalvojums vai izteiksme, kurā tiek salīdzināta divu lielumu savstarpējā vērtība.
+
+Visvienkāršākās nevienādības starp diviem lielumiem apzīmē šādi:
+
+* <math>a > b \,</math>, nozīmē "<math>a</math> ir lielāks par <math>b</math>";
+* <math>a \ge b</math>, nozīmē "<math>a</math> ir lielāks vai vienāds par <math>b</math>";
+* <math>a < b \,</math>, nozīmē "<math>a</math> ir mazāks par <math>b</math>";
+* <math>a \le b</math>, nozīmē "<math>a</math> ir mazāks vai vienāds par <math>b</math>".
+
+== Pazīstamas nevienādības ==
+
+Minēsim dažas labi zināmas nevienādības:
+
+* Jebkuram reālam <math>x</math> <math>x^2 \geq 0</math>
+* Jebkuram reālam <math>x</math> <math>|x| \geq 0</math>
+* Ja <math>x > 0</math>, tad <math>x + \frac{1}{x} \geq 2</math>
+* Ja <math>x > 0</math>, tad <math>\sin x < x</math>
+* [[Nevienādība starp aritmētisko vidējo un ģeometrisko vidējo|Nevienādība starp vidējo aritmētisko un vidējo ģeometrisko]]:
+: <math>\frac{a_1 + a_2 + \dots + a_n}{n} \ge \sqrt[n]{a_1 \cdot a_2 \cdot \dots \cdot a_n}.</math>
+
+== Skatīt arī ==
+
+* [[Pakāpju nevienādība]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Matemātika]]

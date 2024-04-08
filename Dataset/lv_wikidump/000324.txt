@@ -1,0 +1,300 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Canada''
+|    pilnais_valsts_nosaukums = Kanāda
+|            valsts_nosaukums = Canada
+|               karoga_attēls = Flag of Canada.svg
+|            karoga_nosaukums = Kanādas karogs
+|              ģerboņa_attēls = Coat_of_arms_of_Canada.svg
+|           ģerboņa_nosaukums = Kanādas ģerbonis
+|             ģerboņa_platums = 80px
+|                 valsts_moto = ''A Mari Usque Ad Mare'' ([[latīņu valoda|latīņu]])<br />tulk. "No jūras līdz jūrai"
+|                valsts_himna = ''[[Kanādas himna|O Canada]]''<br />'''[[Karaliskā himna]]:''' ''[[God Save the King]]''
+|               kartes_attēls = Canada (orthographic projection).svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Otava]]
+| latd= | latm= | latNS= | longd= | longm= | longEW=
+|             lielākā_pilsēta = [[Toronto]]
+|              valsts_valodas = [[angļu valoda|angļu]], [[franču valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Federācija (valsts)|Federāla]] [[parlamentāra demokrātija]] un [[konstitucionālā monarhija]]
+|        valsts_galvas_tituls = [[Monarhs]]
+|                valsts_galva = [[Čārlzs III Vindzors]]
+|       valsts_galvas_tituls2 = [[Kanādas administrators]]<!--[[Kanādas ģenerālgubernators|Ģenerālgubernators]]-->
+|               valsts_galva2 = [[Marija Simona]]
+|       valsts_galvas_tituls3 = [[Kanādas premjerministrs|Premjerministrs]]
+|               valsts_galva3 = [[Žistēns Trido]]
+|        neatkarības_iegūšana = [[Kanādas vēsture|Neatkarība]]
+|         neatkarības_piezīme = no [[Apvienotā Karaliste|Apvienotās Karalistes]]
+|        neatkarības_notikums = Deklarēta
+|          neatkarības_datums = {{dat|1931|12|11}}
+|                 platība_km2 = 9 984 670
+|               platība_rangs = 2.
+|              procenti_ūdens = 8,92
+|          iedzīvotāju_skaits = 34 500 000<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.statcan.gc.ca/pub/82-003-x/pop/pop-h-clock-eng.htm | title= Canada's population clock | publisher= Statistics Canada | accessdate= 2011–06-29 | archiveurl= https://web.archive.org/web/20110615050454/http://www.statcan.gc.ca/pub/82-003-x/pop/pop-h-clock-eng.htm | archivedate= {{dat|2011|06|15||bez}} }}</ref>
+|     iedzīvotāju_skaita_gads = 2011
+|    iedzīvotāju_skaits_rangs = 36.
+|    apdzīvotības_blīvums_km2 = 3,41
+|  apdzīvotības_blīvums_rangs = 228.
+|                     IKP_PPP = $1,330 triljoni<ref name=imf2>{{Tīmekļa atsauce|url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=156&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=32&pr.y=9 |title=Canada|publisher=International Monetary Fund|accessdate=2011-05-23}}</ref>
+|                IKP_PPP_gads = 2010
+|               IKP_PPP_rangs = 14.
+|          IKP_PPP_per_capita = $39 057<ref name="imf2"/>
+|    IKP_PPP_per_capita_rangs = 12.
+|                         HDI = {{palielinājās}} 0,929
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color="#009900">ļoti augsts</font>
+|                   HDI_rangs = 16.
+|                        Gini = 32,1
+|                   Gini_gads = 2005
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Kanādas dolārs]] ($)
+|                valūtas_kods = CAD
+|                  laika_zona = 
+|                  utc_offset = -3,5 līdz -8
+|              laika_zona_DST = 
+|              utc_offset_DST = -2,5 līdz -7
+|                      domēns = [[.ca]]
+|              tālsarunu_kods = 1
+|                iso_kods_num = 124
+|              iso_kods_alfa2 = CA
+|              iso_kods_alfa3 = CAN
+}}
+'''Kanāda''' ({{val|fr|Canada}}, {{val|en|Canada}}) ir [[valsts]], kas aizņem lielāko daļu no [[Ziemeļamerika]]s ziemeļiem. Tā plešas no [[Atlantijas okeāns|Atlantijas okeāna]] austrumos līdz [[Klusais okeāns|Klusajam okeānam]] rietumos, bet ziemeļos to apskalo [[Ziemeļu Ledus okeāns]]. Kanāda ir pasaulē [[valstu uzskaitījums pēc platības|otra lielākā valsts pēc platības]].<ref name="cia_factbook">{{en ikona}} {{Tīmekļa atsauce |author=Central Intelligence Agency |publisher=Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html |title=The World Factbook: Canada |date=2006-05-16 |accessdate=2007-05-06 |archive-date=2019-04-30 |archive-url=https://web.archive.org/web/20190430234227/https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html }}</ref> Sauszemes robeža dienvidos un rietumos tai ir ar [[Amerikas Savienotās Valstis|Amerikas Savienotajām Valstīm]] un austrumos [[Dānija|Dāniju]] (robeža [[Hansa sala|Hansa salā]]).<ref>{{Tīmekļa atsauce|url=https://m.travelnews.lv/http:s//m.travelnews.lv/?pid=134096|title=Starp Kanādu un Eiropu tagad ir arī sauszemes robeža|website=http://s//m.travelnews.lv/?pid=134096|access-date=2022-06-17|date=2022-06-16|language=lv}}{{Novecojusi saite}}</ref>
+
+Zemi, kur mūsdienās atrodas Kanāda, vairākus tūkstošus gadu apdzīvoja dažādas [[Amerikas pamatiedzīvotāji|ieziemiešu ciltis]]. [[15. gadsimts|15. gadsimta]] beigās [[briti|britu]] un [[franči|franču]] ekspedīcijas devās izpētīt mūsdienu Kanādas austrumu krastu, bet vēlāk šeit arī apmetās uz dzīvi. [[1763]]. gadā pēc [[Septiņgadu karš|Septiņgadu kara]] [[Francija]] atdeva gandrīz [[Jaunfrancija|visas savas kolonijas]] britiem. [[1867]]. gadā, Kanādas provincei apvienojoties ar vēl divām Britu Ziemeļamerikas kolonijām, tika izveidota federāla [[domīnija]], kura sastāvēja no četrām provincēm.<ref>{{Tīmekļa atsauce| title = Territorial evolution| work = Atlas of Canada| publisher = Natural Resources Canada| url = http://atlas.nrcan.gc.ca/site/english/maps/reference/anniversary_maps/terr_evol| format = html/pdf| accessdate = 2007-10-09| quote = In 1867, the colonies of Canada, Nova Scotia and New Brunswick are united in a federal state, the Dominion of Canada....| archiveurl = https://web.archive.org/web/20070809154930/http://atlas.nrcan.gc.ca/site/english/maps/reference/anniversary_maps/terr_evol| archivedate = 2007-08-09}}</ref><ref>{{Tīmekļa atsauce| title = Canada: History| work = Country Profiles| publisher = Commonwealth Secretariat| url = http://www.thecommonwealth.org/YearbookInternal/145152/history/| format = html/pdf| accessdate = 2007-10-09| quote = The British North America Act of 1867 brought together four British colonies ... in one federal Dominion under the name of Canada.| archiveurl = https://web.archive.org/web/20071012021238/http://www.thecommonwealth.org/YearbookInternal/145152/history/| archivedate = 2007-10-12}}</ref><ref>{{Tīmekļa atsauce| last = Hillmer| first = Norman| authorlink = | author2 = W. David MacIntyre| title = Commonwealth| work = Canadian Encyclopedia| publisher = Historica Project| url = http://thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001798| format = html| accessdate = 2007-10-09| quote = With CONFEDERATION in 1867, Canada became the first federation in the British Empire ...| archive-date = 2007-09-27| archive-url = https://web.archive.org/web/20070927193413/http://thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001798}}</ref> Ar to sākās citu provinču un teritoriju pievienošana, pastiprinoties tās autonomijai no [[Apvienotā Karaliste|Apvienotās Karalistes]], kas īpaši tika uzsvērts [[1931]]. gadā, kad tika pieņemts [[Vestminsteras statūts]]. Šis process sasniedza kulmināciju [[1982]]. gadā, kad tika parakstīts [[Kanādas akts]], kurš formāli atbrīvoja Kanādu no [[Apvienotās Karalistes parlaments|Britu parlamenta]] varas.
+
+Kanāda atrodas vistālāk ziemeļos no visām valstīm. Tā aizņem divas piektdaļas no Ziemeļamerikas un valsti šķērso 5 [[laika joslas]]. Kanāda ir decentralizēta [[federācija (valsts)|federācija]] no 10 provincēm un 3 teritorijām, ko valda kā [[konstitucionālā monarhija|konstitucionālu monarhiju]]. Mūsdienās Kanāda ir attīstīta industriāla [[lielvalsts]] un viena no bagātākajām valstīm pasaulē. [[Rūpniecība]] visvairāk balstās uz bagātajiem [[dabas resursi]]em: [[koksne]]s, dažādu [[rūda|rūdu]], [[nafta]]s un [[koksa ogles|koksa ogļu]] krājumiem. Kanādas galvaspilsēta ir [[Otava]], kurā atrodas tās parlaments, [[ģenerālgubernators]] un premjerministrs. Kanāda ir tehnoloģiski attīstīta valsts, bet tās [[saimniecība]] tradicionāli balstās uz dabas resursu pārpilnību.
+
+Tā sākotnēji ir bijusi [[Francija]]s, bet pēc tam [[Lielbritānija]]s kolonija, tāpēc tajā pastāv oficiāla divvalodība. Kanādā ir problēmas ar šo divu valodu līdzāspastāvēšanu, un frančvalodīgo apdzīvotā [[Kvebeka]]s province regulāri cenšas atdalīties no valsts.
+
+== Etimoloģija ==
+Nosaukums ''Kanāda'' ir cēlies no [[Sentlorensas irokēzi|Sentlorensas irokēzu]] vārda ''kanata'', kas nozīmē ‘ciemats’ vai ‘apmetne’. [[1535]]. gadā vietējie iedzīvotāji mūsdienu [[Kvebeka (pilsēta)|Kvebekas]] pilsētas apkārtnē šo vārdu attiecināja uz franču pētnieka [[Žaks Kartjē|Žaka Kartjē]] dibināto [[Stadakona]]s ciematu.<ref name="Maura577—603">aura, Juan Francisco, 2009, (p.577—603).</ref><ref>{{Grāmatas atsauce| first=Bruce G.| last=Trigger|author2=Pendergast, James F.| year=1978| chapter=Saint-Lawrence Iroquoians| title=Handbook of North American Indians Volume 15| location=Washington| publisher=Smithsonian Institution |pages=357—361 |id=OCLC 58762737}}</ref> Kartjē vēlāk lietoja vārdu ''Kanāda'' ne tikai saistībā ar šo ciematu, bet arī apkārtējās teritorijas apzīmēšanai. [[1545]]. gadā Eiropā rakstītajās grāmatās un zīmētajās kartēs šo reģionu sāka dēvēt par "Kanādu".<ref>aura, Juan Francisco, 2009, (p.603).</ref><ref>{{Tīmekļa atsauce| url=http://www.gutenberg.org/files/12356/12356-h/12356-h.htm| title=Relation originale de Jacques Cartier| publisher=Tross (1863 edition)| author=Jacques Cartier| year=1545| accessdate=2007-02-23}}</ref>
+
+[[17. gadsimts|17. gadsimta]] sākumā teritorija no [[Sentlorensa]]s upes līdz [[Lielie ezeri|Lielo ezeru]] ziemeļu krastam tika nosaukta par "Kanādu". Tobrīd tā bija daļa no [[Jaunā Francija|Jaunās Francijas]]. Vēlāk, kad šī teritorija nonāca [[briti|britu]] pakļautībā, tā tika sadalīta divās atsevišķās kolonijās: [[Augškanāda|Augškanādā]] un [[Lejaskanāda|Lejaskanādā]]. [[1841]]. gadā abas kolonijas tika atkal apvienotas un nosauktas par [[Kanādas province|Kanādas provinci]].<ref name=Rayburn>Rayburn, Alan (2001) (p.1-22).</ref> [[1867]]. gadā nosaukums "Kanāda" tika pieņemts par oficiālo nosaukumu jaunai valstij, kuru izveidoja pēc [[Kanādas konfederācija]]s,<ref name="Martin">{{Laikraksta atsauce| last=Martin| first=Robert| title=1993 Eugene Forsey Memorial Lecture: A Lament for British North America| journal=The Machray Review| publisher=Prayer Book Society of Canada| year=1993| url=http://www.prayerbook.ca/library/machray/issue5/machray5d.htm| accessdate=2008-11-05| quote=Strictly speaking, the official name of the new country was, simply, "Canada," but usage sanctioned "Dominion of Canada".| archiveurl=https://web.archive.org/web/20051017043704/http://prayerbook.ca/library/machray/issue5/machray5d.htm| archivedate=2005-10-17}}</ref> vienīgi nosaukumam papildus tika pievienots vārds "[[domīnija]]".<ref>{{Grāmatas atsauce| first=J. E.| last=Hodgetts|author2=Gerald Hallowell| year=2004| chapter=Dominion| title=Oxford Companion to Canadian History| location=Toronto| publisher=Oxford University Press| isbn=0195415590| quote=The title conferred on Canada by the preamble to the Constitution Act, 1867, whereby the provinces declare 'their desire to be federally united into one Dominion under the Crown of the United Kingdom.'| page=183}}</ref> Nosaukums "Kanādas domīnija" tika lietots līdz pat 1950. gadiem. Pēc tam, kad Kanāda ieguva politisku [[autonomija|autonomiju]] no [[Apvienotā Karaliste|Apvienotās Karalistes]], federālā valdība arvien biežāk oficiālos valsts dokumentos un līgumos sāka izmantot nosaukumu "Kanāda" bez papildus vārda "domīnija". [[1982]]. gadā valsts svētkiem oficiāli tika nomainīts nosaukums no "Domīnijas dienas" uz "Kanādas dienu".<ref>{{Tīmekļa atsauce| title=Government of Canada Events 2009 Canada Site| publisher=Her Majesty the Queen in Right of Canada| work=Minister of Public Works and Government Services Canada| date=2009-10-19| accessdate=2009-10-19| url=http://canada.gc.ca/whats-quoi/nel_fg-eng.html#July| quote=Canada Day was established in 1879 under the name "Dominion Day" and became known by its current name in 1982.| archiveurl=https://web.archive.org/web/20100221230102/http://www.canada.gc.ca/whats-quoi/nel_fg-eng.html#July| archivedate=2010-02-21}}</ref>
+
+== Vēsture ==
+[[Attēls:Non-Native-American-Nations-Territorial-Claims-over-NAFTA-countries-1750-2008.gif|thumb|200px|Kanādas (sarkanā krāsā) izveidošanās un paplašināšanās (kopš 1770. gada).]]
+
+Saskaņā ar [[arheoloģija|arheoloģiskajiem]] un [[ģenētika|ģenētiskajiem]] pētījumiem [[Ziemeļamerika]] un [[Dienvidamerika]] bija pēdējie kontinenti, kurus apdzīvoja cilvēki. Visplašāk pieņemtā teorija ir tāda, ka cilvēki ieradās Kanādā no [[Sibīrija]]s, šķērsojot zemes tiltu, kas pēdējā [[ledus laikmets|ledus laikmetā]] savienoja [[Āzija|Āziju]] ar Ziemeļameriku. Šajā laikā [[Beringa šaurums|Beringa šauruma]] nebija, jo [[jūras līmenis]] bija stipri zemāks nekā mūsdienās. Tā kā lielāko daļu no Kanādas teritorijas klāja masīvi [[ledājs|ledāji]], tad neliela cilvēku populācija apmetās [[Aļaska|Aļaskā]], kura tobrīd nebija klāta ar ledājiem. Pirmie cilvēki Kanādas teritorijā, konkrēti [[Jukona (teritorija)|Ziemeļjukonā]], mitinājušies pirms 26 500 gadiem. Tikai pirms 16 500 gadiem, kad ledāji sāka kust, cilvēki sāka pārvietoties vairāk uz dienvidiem. Kanādas dienvidaustrumos, mūsdienu [[Ontārio]] provincē, cilvēki sāka dzīvot pirms aptuveni 9 500 gadiem.<ref>{{Laikraksta atsauce| last=Cinq-Mars| first=J.| year=2001| title=On the significance of modified mammoth bones from eastern Beringia| journal=The World of Elephants - International Congress, Rome| url=http://www.palanth.com/forum/upload_download/articles/cinqmars_elefanti_01.pdf| format=PDF| accessdate=2009-10-19| archiveurl=https://web.archive.org/web/20071027011528/http://www.palanth.com/forum/upload_download/articles/cinqmars_elefanti_01.pdf| archivedate=2007-10-27}}</ref><ref>{{Tīmekļa atsauce| author=Wright, J.V| publisher=Canadian Museum of Civilization Corporation| url=http://www.civilization.ca/cmc/exhibitions/archeo/hnpc/npvol04e.shtml| title=A History of the Native People of Canada: Early and Middle Archaic Complexes| date=September 27, 2001| accessdate=2009-10-19}}</ref>
+
+Saskaņā ar islandiešu sāgām, pirmais eiropietis, kurš ieradās Kanādā, bija [[Bjarni Herjolfsons]]. Viņš uz rietumiem no [[Islande]]s un [[Grenlande]]s bija devies [[985]]. vai [[986]]. gada vasarā. Herjolfsons esot atklājis ar bieziem mežiem klātu zemi. Ap [[1000]]. gadu Herjolfsonam sekoja [[Leifs Eriksons]]. Visticamāk, ka Eriksons sākotnēji nokļuva [[Bafina Zeme|Bafina Zemē]], pēc tam [[Labradoras pussala|Labradorā]], bet pēc tam [[Ņūfaundlenda|Ņūfaundlendā]], kuru nosauca par [[Vīnlande|Vīnlandi]]. Pēc Eriksona [[vikingi]] vairākas reizes mēģināja kolonizēt šīs zemes, bet dēļ konfliktiem ar [[Amerikas pamatiedzīvotāji|vietējiem iedzīvotājiem]] viņi tās pameta.<ref>{{Grāmatas atsauce | last = Pálsson | first = Hermann | title = The Vinland sagas: the Norse discovery of America | publisher = Penguin Classics | date = 1965 | isbn = 0140441549}}</ref> Arheoloģiski pierādījumi vikingu klātbūtnei ir atrasti Ņūfaundlendas ziemeļos, [[Lansomedousa|Lansomedousā]].
+
+[[Attēls:Voyageur canoe.jpg|thumbnail|200px|left|Līdz pat 19. gadsimtam nozīmīgā tirdzniecības prece bija kažokādas]]
+Tikai [[1497]]. gadā eiropieši atkārtoti nokļuva Kanādā. Tas bija [[Anglija]]s karaļa [[Henrijs VII Tjudors|Henrija VII]] uzdevumā nosūtītais pētnieks [[Džons Kabots]] (''John Cabot''). Viņa uzdevums bija atrast tirdzniecības ceļu uz Austrumu zemēm. Viņš bija pārliecināts, ka to bija paveicis, un nākamajā gadā atgriezās, lai izpētītu Ziemeļamerikas krastu no [[Bafina sala]]s līdz [[Mērilenda]]i.<ref>{{Enciklopēdijas atsauce| title=John Cabot| encyclopedia=Encyclopædia Britannica Online| publisher=Encyclopædia Britannica| url=http://www.britannica.com/EBchecked/topic/87681/John-Cabot|accessdate=2009-10-19}}</ref> [[1498]]. gadā arī [[Portugāle]] izvirzīja savas pretenzijas uz teritoriju, nosūtot ekspedīcijā [[Žoao Fernandezs Labradors|Žoao Fernandezu Labradoru]] (''João Fernandes Lavrador''); viņš izsēdās Labradoras krastos.<ref name="jorg">Rodrigues, Jorge Nascimento; Devezas, Tessaleno Portugal — O Pioneiro da Globalização. Famalicão, Portugal:Centro Atlântico, 2007. {{ISBN|978-989-615-042-6}}.</ref> [[1534]]. gadā arī [[Francija]]s karaļa uzdevumā uz Kanādu devās pētnieks [[Žaks Kartjē]].<ref name=Morton>Morton, Desmond (2001) (p.9-17)</ref><ref>{{Enciklopēdijas atsauce| encyclopedia=World book Encyclopedia| title=Cartier, Jacques| accessdate=2007-09-01| publisher=World Book, Inc.| isbn=071660101X}}</ref> [[1603]]. gadā Kanādā ieradās franču ceļotājs [[Semuels de Šampleins]], kurš [[1605]]. gadā [[Portrojala|Portrojalā]] un [[1608]]. gadā [[Kvebeka (pilsēta)|Kvebekā]] izveidoja pirmās pastāvīgās eiropiešu apmetnes.<ref name="nosaukums-1">Morton, Desmond (2001) (p.17-19)</ref><ref name="legal11">{{Tīmekļa atsauce|url=http://www.parl.gc.ca/37/2/parlbus/commbus/senate/Com-e/lega-e/11eva-e.htm?Language=E&Parl=37&Ses=2&comm_id=11|title=Proceedings of the Standing Senate Committee on Legal and Constitutional Affairs|date=May 28, 2003|work=Issue 11 - Evidence for May 28, 2003|publisher=Government of Canada|accessdate=2009-09-18|archiveurl=https://web.archive.org/web/20070328191633/http://www.parl.gc.ca/37/2/parlbus/commbus/senate/Com-e/lega-e/11eva-e.htm?Language=E&Parl=37&Ses=2&comm_id=11|archivedate=2007-03-28}}</ref><ref name="armstrong">{{Grāmatas atsauce|last=Armstrong|first=Joe|title=Samuel de Champlain|url=https://archive.org/details/champlain0000arms|publisher=Macmillan of Canada|location=Toronto|date=1987|isbn=9780771595011|accessdate=2009-10-19}}</ref> Portrojala atradās vietā, kur mūsdienās ir [[Anapolisrojala]]s pilsēta. Tā kļuva par nozīmīgāko koloniju Jaunskotijā, tolaik zināma kā [[Akādija]]. Akādijā ļoti lēni pieauga iedzīvotāju skaits. [[1713]]. gadā šeit dzīvoja tikai 5 tūkstoši iedzīvotāju. Akādijā galvenokārt nodarbojās ar [[kažokādas|kažokādu]] tirdzniecību.
+
+Savukārt [[Kvebeka (pilsēta)|Kvebeka]], kuru Šampleins [[Sentlorensa]]s upes ielejā dibināja trīs gadus pēc Portrojalas, drīz vien kļuva par [[Jaunā Francija|Jaunās Francijas]] galvaspilsētu. Arī Kvebekā dzīves apstākļi nebija no tiem vieglākajiem, tāpēc arī šeit iedzīvotāju skaits sākotnēji pieauga ļoti lēni. Bet ar apmetņu izveidošanu Šampleins neapstājās. Viņš devās arī pētīt tuvāko apkārtni. [[1609]]. gadā viņš atklāja [[Šampleina ezers|Šampleina ezeru]]. [[1615]]. gadā Šampleins ar [[kanoe]] laivām pa [[Otava (upe)|Otavas]] upi nokļuva [[Nipisinga ezers|Nipisinga ezerā]] un pēc tam arī [[vjandoti|vjandotu]] apdzīvotajā teritorijā pie [[Hūrons|Hūrona]] ezera [[Džordža līcis|Džordža līča]] krastos. Šajos ceļojumos Šampleins iesaistījās viandotu cīņās ar [[irokēzi]]em, līdz ar to franči kļuva par irokēzu ļaunākajiem ienaidniekiem. [[1629]]. gadā Šampleinu sagūstīja angļi, un kā ieslodzīto nosūtīja uz Angliju. Pāris gadus vēlāk Šampleins atgriezās un [[1633]]. gadā kļuva par Jaunās Francijas gubernatoru. Turpmāk kolonijas attīstību ietekmēja tā sauktie [[Bebru kari]] starp frančiem un irokēziem, jo tieši tāpēc franči nevarēja veiksmīgi izpētīt apkārtni un tirgoties ar kažokādām.<ref name="nosaukums-2">Morton, Desmond (2001) (p.33)</ref>
+
+[[Attēls:Benjamin West 005.jpg|thumbnail|200px|Glezna "Ģenerāļa Volfa nāve", kur attēlots skats no [[Septiņgadu karš|Septiņgadu kara]]]]
+Līdz [[1682]]. gadam Jaunās Francijas pakļautība nonāca arī [[Ohaio (upe)|Ohaio]] upes ieleja, kā arī [[Misisipi (upe)|Misisipi]] upe līdz pat [[Luiziāna]]i. Tas pilnībā neapmierināja britus, kuri ap [[1610]]. gadu bija dibinājuši [[Trīspadsmit kolonijas]] Atlantijas okeāna krastā, tāpēc tā pieteica teritoriālas pretenzijas uz [[Hudzona līcis|Hudzona līča]] baseinu (pazīstama arī kā [[Rūperta Zeme]]). Briti izveidoja savas apmetnes arī Ņūfaundlendā.<ref name="mun">{{Tīmekļa atsauce|url=http://www.heritage.nf.ca/govhouse/governorship/proprietary.html| title= Proprietary Governors, 1610-1728|date=August 2000|work=Newfoundland and Labrador Heritage Web Site Project| publisher= Memorial University of Newfoundland|accessdate=2009-09-18}}</ref> Tikai [[1670]]. gadā, lai apturētu franču izplešanos, briti dibināja [[Hudzona līča kompānija|Hudzona līča kompāniju]]. [[1686]]. gadā [[Pjērs Troije|Pjēra Troijes]] (''Pierre Troyes'') vadībā franči pa sauszemi no [[Monreāla]]s devās uzbrukumā līča kompānijai. Viņam izdevās pārsteigt angļus un iekarot vairākus kompānijas [[forts|fortus]]. Pēc tam arī ar floti vairākus gadus pēc kārtas izdevās veiksmīgi uzbrukt kompānijai un frančiem gandrīz izdevās padzīt angļus pavisam prom no šīs kontinenta daļas. Laika posmā no [[1689]]. līdz [[1763]]. gadam norisinājas četri kari starp frančiem un angļiem.<ref name="nosaukums-4">Morton, Desmond (2001) (p.89-104)</ref> Abu valstu flotes cīnījās galvenokārt [[Karību reģions|Karību reģionā]], bet nozīmīgākās sauszemes kaujas notika Kanādā un tās tuvumā. Pirmās teritorijas, kuras ieguva briti, bija [[Piejūras provinces]] (mūsdienās [[Jaunskotija]], [[Ņūbransvika]] un [[Prinča Edvarda Sala (Kanāda)|Prinča Edvarda Sala]]). [[1713]]. gadā pēc [[Ūtrehtas miera līgums|Ūtrehtas miera līguma]] noslēgšanas britiem palika tikai Jaunskotija, izņemot [[Keipbretona|Keipbretonu]],<ref name="novascotia">{{Grāmatas atsauce |last= Orser |first= Charles E. |title=Encyclopedia of historical archaeology |url=http://books.google.ca/books?id=lqvnthcE19cC&pg=PA1&lpg=PA1&dq=nova+scotia+treaty+of+utrecht+government+of+Canada&source=bl&ots=bRqTRdDxzZ&sig=GY0W4t1pb2eXbhBukevAEit498k&hl=en&ei=Cg_dSrTwEIzuMau0_fcN&sa=X&oi=book_result&ct=result&resnum=6&ved=0CBkQ6AEwBQ#v=onepage&q=nova%20scotia%20treaty%20of%20utrecht%20government%20of%20Canada&f=false |format=Digitised online by Google Books | accessdate= 2009-10-19 |date=2002 |publisher=Routledge |isbn=0415215447, 9780415215442 |pages=1}}</ref> bet Hudzona līča teritorijas kontrolēja franči. [[1757]]. gadā sākās [[Septiņgadu karš]], kurš beidzās [[1763]]. gadā, kad tika noslēgts [[Parīzes miera līgums]]. Pēc šī kara briti bija ieguvuši lielāko daļu no [[Jaunā Francija|Jaunās Francijas]].<ref name="marianopolis">{{Tīmekļa atsauce|url= http://faculty.marianopolis.edu/c.belanger/QuebecHistory/encyclopedia/TreatyofParis1763-QuebecHistory.htm| title= Treaty of Paris|date=2005|work=The Quebec History Encyclopedia|publisher=Marianopolis College| accessdate= 2009-09-18}}</ref>
+
+Pēc Karaliskās proklamācijas no Jaunās Francijas tika atdalīta [[Kvebekas province]] un [[Keipbretona]], un pievienota Jaunskotijai.<ref>{{Tīmekļa atsauce|url=http://www.historicalatlas.ca/website/hacolp/national_perspectives/boundaries/UNIT_17/excel/Boundary_Changes_1670_2001.xls|title=Territorial Evolution, 1670-2001|publisher=Historical Atlas of Canada Online Learning Project|accessdate=2009-10-19}}</ref> [[1769]]. gadā Svētā Džona sala (mūsdienās [[Prinča Edvarda Sala (Kanāda)|Prinča Edvarda sala]]) kļuva par atsevišķu koloniju.<ref name="peigov">{{Tīmekļa atsauce|url=http://www.gov.pe.ca/photos/original/arm_bearings.pdf|title=The Armorial Bearings of the Province of Prince Edward Island|publisher=Government of Prince Edward Island|accessdate=2009-09-18|archiveurl=https://web.archive.org/web/20081209184003/http://www.gov.pe.ca/photos/original/arm_bearings.pdf|archivedate=2008-12-09}}</ref> Lai novērstu konfliktus Kvebekā, ar [[Kvebekas akts|Kvebekas aktu]] 1774. gadā Kvebekas teritorija tika paplašināta līdz pat Lielajiem ezeriem un [[Ohaio ieleja]]i, atjaunots [[franču valoda]]s oficiālais statuss, kā arī atjaunota [[katoļticība]]s piekopšanas brīvība un Francijas civillikums. Tas sadusmoja daudzus Trīspadsmit koloniju iedzīvotājus, kuri atbalstīja [[ASV revolūcija|Amerikas revolūciju]].<ref>{{Tīmekļa atsauce |author=  |publisher= Canadian War Museum |title= From Conquest to Revolution |accessdate= 2009-10-19 |url= http://www.warmuseum.ca/cwm/exhibitions/permanent-exhibitions/battleground/clash-of-empires/from-conquest-to-revolution }}{{Novecojusi saite}}</ref>
+
+[[1784]]. gadā noslēgtais [[Parīzes miera līgums]] atjaunoja Savienoto Valstu neatkarību un teritorijas uz dienvidiem no Lielajiem ezeriem tika atdotas ASV. Aptuveni 50 tūkstoši britu lojālisti pameta Savienotās Valstis un devās uz Kanādu.<ref name="moore">{{Grāmatas atsauce |first= Christopher |last=Moore |year=1994 |title=The Loyalist: Revolution Exile Settlement |url= https://archive.org/details/loyalists00chri |publisher=McClelland & Stewart |location= Toronto |isbn=0-7710-6093-9|accessdate=2009-10-19}}</ref> [[Ņūbransvika]] tika atdalīta no Jaunskotijas, jo tur apmetās uz dzīvi lojālisti.<ref name="nb225">{{Tīmekļa atsauce|url=http://www.gnb.ca/0131/PDF/H/HW/NewBrunswick225.pdf|title=New Brunswick at 225|last=Andrews|first=Ian|date=2009|publisher=Government of New Brunswick|page=1|accessdate=2009-09-18|archive-date=2011-08-08|archive-url=https://web.archive.org/web/20110808191751/http://www.gnb.ca/0131/PDF/H/HW/NewBrunswick225.pdf}}</ref> [[1791]]. gadā konstitucionālais akts provinci 
+sadalīja frančvalodīgajā [[Auģskanāda|Augškanādā]] un angļvalodīgajā [[Lejaskanāda|Lejaskanādā]], piešķirot katrai pašai savu ievēlētu likumdevēja varu. Gan Augškanāda, gan Lejaskanāda bija nozīmīgākā fronte [[1812. gada karš (ASV)|1812. gada karā]] starp Savienotajām Valstīm un Britu impēriju. Kanādas aizsardzība veicināja vienotības apziņu starp britu ziemeļamerikāņiem.<ref name="wallace">{{Laikraksta atsauce|last=Wallace|first=W.S.|date=1920|title=The Growth of Canadian National Feeling|url=https://archive.org/details/sim_canadian-historical-review_1920-06_1_2/page/136| journal= Canadian Historical Review|publisher=University of Toronto Press |location= Toronto| volume= 1| issue= 2| pages= 136-165|issn=0008-3755}}</ref> [[1815]]. gadā sākās liela mēroga imigrācija no Lielbritānijas un [[Īrija]]s.<ref name="haines">{{Grāmatas atsauce|last=Haines|first=Michael|author2=Richard Hall Steckel|title=A population history of North America|publisher=Cambridge University Press|date=2000}}</ref> 19. gadsimta sākumā [[mežizstrāde]] kļuva par noteicošo tirdzniecības nozari, nomainot [[kažokādas|kažokādu]] tirdzniecību.
+
+1867. gadā tika pieņemts Britu Ziemeļamerikas konstitucionālais akts, saskaņā ar kuru tika izveidota Kanādas [[domīnija]], kas sākotnēji sastāvēja no četrām provincēm- Ontārio, Kvebekas, Jaunskotijas un Ņūbransvikas. 1931. gadā saskaņā ar Vestminsteras statūtu tika apstiprināta Kanādas neatkarība.
+1949. gadā Kanādai pievienojās Ņūfaundlenda (kopš 2001. gada [[Ņūfaundlenda un Labradora]]).
+
+== Ģeogrāfija ==
+[[Attēls:Canada topo.jpg|thumbnail|200px|Kanādas topogrāfiskā karte]]
+Kanāda atrodas [[Ziemeļamerika]]s ziemeļos. Kanādas [[platība]] ir 9 984 670 km². Tā veido divas piektdaļas no kontinenta, un pēc platības Kanāda ir [[valstu uzskaitījums pēc platības|otra lielākā valsts]] pasaulē uzreiz aiz [[Krievija]]s. Ziemeļrietumos tā robežojas [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] pakļautībā esošo [[Aļaska|Aļasku]], bet dienvidos ar Savienoto Valstu [[kontinentālie štati|kontinentālajiem štatiem]]. Rietumos to apskalo [[Klusais okeāns]], austrumos — [[Atlantijas okeāns]], bet ziemeļos — [[Ziemeļu Ledus okeāns]]. Kanādas augstākā [[virsotne]] ir [[Logans (kalns)|Logans]] (5959 m). Tā atrodas [[Jukona (teritorija)|Jukonā]] pie [[Aļaska]]s robežas. Savukārt garākā [[upe]] ir [[Makenzi]] (4241 km), kuras [[sateces baseins|baseins]] lielākoties atrodas [[Ziemeļrietumu Teritorijas|Ziemeļrietumu Teritorijās]], bet lielākais ezers ir [[Greitbērleiks]] (31 153 km²).
+
+Kanādas [[fizikālā ģeogrāfija]] ir ļoti dažāda. Valstī dominējošā [[bioma]] ir [[taiga]]. Arktiskos reģionus un [[Klinšu kalni|Klinšu kalnus]] klāj [[sniegs]] un [[ledus]]. Valsts dienvidrietumos plešas [[prērija]]s, kur iedzīvotāji veiksmīgi var nodarboties ar [[lauksaimniecība|lauksaimniecību]], bet dienvidaustrumos atrodas [[Lielie ezeri]] un [[Sentlorensa]]s upes ieleja, kuras zemienē dzīvo lielākā daļa Kanādas iedzīvotāji.
+
+[[Apalači|Apalaču kalnu sistēma]] stiepjas no [[Alabama]]s, Savienotajās Valstīs, līdz pat [[Gaspē pussala]]i, Kanādā. Apalači ir daļa no [[Kvebeka]]s provinces dienvidu daļas. Šī kalnu sistēma, īpaši [[Notrdamas kalni]] un [[Longreindža]], ir aptuveni 380 miljonus gadu veca. Augstākās virsotnes ir [[Žaka Kartjē kalns]] (1268 m) un [[Kārltona kalns]] (817 m).
+
+== Administratīvais iedalījums ==
+{{Pamatraksts|Kanādas administratīvais iedalījums}}
+Kanāda ir [[Federācija (valsts)|federācija]], kura sastāv no 10 provincēm un 3 teritorijām. Kanādu neoficiāli iedala vairākos reģionus: [[Rietumkanāda]], [[Ziemeļkanāda]], [[Centrālā Kanāda]] un [[Atlantijas Kanāda]]. Dažreiz vēl ir [[Austrumkanāda]], kurā ietilpst Centrālā Kanāda un Atlantijas Kanāda.
+
+{| width=520px align=right
+|-
+|
+{{Image label begin|image=Canada location map.svg|width=520|float=none}}
+
+{{Image label small|x=0.080|y=0.320|scale=500|text=[[Jukona (teritorija)|Jukona]]}}
+{{Image label small|x=0.860|y=0.670|scale=500|text=[[Prinča Edvarda Sala (Kanāda)|Prinča Edvarda<br />Sala]]}}
+{{Image label small|x=0.900|y=0.740|scale=500|text=[[Jaunskotija]]}}
+{{Image label small|x=0.070|y=0.525|scale=500|text=[[Britu Kolumbija|Britu<br />Kolumbija]]}}
+{{Image label small|x=0.180|y=0.390|scale=500|text=[[Ziemeļrietumu Teritorijas|Ziemeļrietumu<br />Teritorijas]]}}
+{{Image label small|x=0.430|y=0.380|scale=500|text=[[Nunavuta]]}}
+{{Image label small|x=0.270|y=0.620|scale=500|text=[[Saskačevana]]}}
+{{Image label small|x=0.810|y=0.710|scale=500|text=[[Ņūbransvika]]}}
+{{Image label small|x=0.550|y=0.690|scale=500|text=[[Ontārio]]}}
+{{Image label small|x=0.850|y=0.550|scale=500|text=[[Ņūfaundlenda un Labradora|Ņūfaundlenda<br />un Labradora]]}}
+{{Image label small|x=0.700|y=0.640|scale=500|text=[[Kvebeka]]}}
+{{Image label small|x=0.190|y=0.580|scale=500|text=[[Alberta]]}}
+{{Image label small|x=0.400|y=0.580|scale=500|text=[[Manitoba]]}}
+{{Image label small|x=0.200|y=0.800|scale=500|text=''[[Amerikas Savienotās Valstis|<span style="color: #a6997b;">Amerikas Savienotās Valstis</span>]]''}}
+{{Image label small|x=0.040|y=0.200|scale=500|text=''[[Amerikas Savienotās Valstis|<span style="color: #a6997b;">ASV</span>]]''}}
+{{Image label small|x=0.680|y=0.100|scale=500|text=''[[Grenlande|<span style="color: #a6997b;">Grenlande</span>]]''}}
+{{Image label small|x=0.960|y=0.050|scale=500|text=''[[Islande|<span style="color: #a6997b;">Islande</span>]]''}}
+{{Image label end}}
+|}
+
+{| style="background:transparent;" cellspacing="2px"
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="140px" | [[Kanādas provinces un teritorijas|Province]] || Admin. centrs || [[Platība]] (km²) || [[Iedzīvotāju skaits|Iedzīvotāji]]<br />(2008. gadā) </tr>
+|-
+| [[Alberta]] || [[Edmontona]] || 661848 || 3512368
+|-
+| [[Britu Kolumbija]] || [[Viktorija (Britu Kolumbija)|Viktorija]] || 944735 || 4428356
+|-
+| [[Jaunskotija]] || [[Helifeksa]] || 55284 || 935962
+|-
+| [[Kvebeka]] || [[Kvebeka (pilsēta)|Kvebeka]] || 1542056 || 7744530
+|-
+| [[Manitoba]] || [[Vinipega]] || 647797 || 1196291
+|-
+| [[Ņūbransvika]] || [[Frederiktona]] || 72908 || 751527
+|-
+| [[Ņūfaundlenda un Labradora]] || [[Sentdžonsa (Kanāda)|Sentdžonsa]] || 405212 || 508270
+|-
+| [[Ontārio]] || [[Toronto]] || 1076395 || 12891787
+|-
+| [[Prinča Edvarda Sala (Kanāda)|Prinča Edvarda Sala]] || [[Šarlotauna]] || 5660 || 139407
+|-
+| [[Saskačevana]] || [[Ridžaina]] || 651036 || 1010146
+|}
+|}
+
+{| style="background:transparent;" cellspacing="2px"
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="140px" | [[Kanādas provinces un teritorijas|Teritorija]] || Admin. centrs || [[Platība]] (km²) || [[Iedzīvotāju skaits|Iedzīvotāji]]<br />(2008. gadā) </tr>
+|-
+| [[Jukona (teritorija)|Jukona]] || [[Vaithorsa]] || 482443 || 31530
+|-
+| [[Nunavuta]] || [[Ikaluita]] || 2093190 || 31152
+|-
+| [[Ziemeļrietumu Teritorijas]] || [[Jelounaifa]] || 1346106 || 42514
+|}
+|}
+
+== Valdība ==
+Kanāda ir [[parlamentārisms|parlamentāra]] [[Federācija (valsts)|federatīva]] [[monarhija]]. [[Kanādas konstitūcija]] ir spēkā kopš {{dat|1982|6|17}}. Valsts galva ir [[Apvienotā Karaliste|Apvienotās Karalistes]] karalis [[Čārlzs III Vindzors|Čārlzs III]], ko pārstāv [[Kanādas ģenerālgubernators]].
+Ja gubernators atkāpjas no amata, nomirst vai, ja gubernators atstāj valsti ilgāk par vienu mēnesi, Kanādas galvenais tiesnesis kalpo kā valdības administrators un īsteno visas gubernatora pilnvaras.
+
+Tā kā Apvienotās Karalistes karalim formāli ir [[likumdošanas vara]] un [[izpildvara]], tad visi [[Kanādas parlaments|Kanādas parlamenta]] likumi un valdības lēmumi tiek pieņemti karaļa vārdā. Likumdevēja orgāns ir divpalātu parlaments, kas sastāv no [[Kanādas apakšnams|apakšnama]] un [[Kanādas senāts|senāta]]. Apakšnamu uz pieciem gadiem ievēlē tiešās un vispārīgās [[vēlēšanas|vēlēšanās]]. Senātā darbojas 105 locekļi (pa 24 locekļiem ir no [[Ontārio]] un [[Kvebeka]]s provincēm, pa 10 ir no [[Ņūbransvika]]s un [[Jaunskotija]]s, pa 6 no [[britu Kolumbija]]s, [[Alberta]]s, [[Manitoba]]s, [[Saskačevana]]s un [[Ņūfaundlenda un Labradora|Ņūfaundlendas un Labradoras]], 4 locekļi ir no [[Prinča Edvarda Sala (Kanāda)|Prinča Edvarda Salas]], bet pa 1 no trim teritorijām). Senāta locekļus ieceļ ģenerālgubernators pēc premjerministra ieteikuma. Katrs senāta loceklis savā amatā ir līdz mūža beigām vai līdz brīdim, kad sasniedz 75 gadu vecumu.
+
+Provincēs izpildvaras galva ir [[leitnantgubernators]], ko ieceļ ģenerālgubernators pēc valdības ieteikuma. Katrā provincē ir valdība un likumdevēja vara — Likumdevēja sapulce. Vietējās pašvaldības orgāni ir grāfistu un lauku apgabalu padomes. Municipalitātes faktiski ir pakļautas provinču pārvaldei.
+
+Kanādas tiesu sistēmā ietilpst [[Kanādas augstākā tiesa]], provinču augstākās tiesas, grāfistu tiesas un miertiesas.
+
+== Ārpolitika ==
+Kanāda visvairāk ārpolitikā sadarbojas ar [[Amerikas Savienotās Valstis|Amerikas Savienotajām Valstīm]] un [[Apvienotā Karaliste|Apvienoto Karalisti]]. Kanādai ir arī ļoti ciešas un pozitīvas attiecības ar [[Nīderlande|Nīderlandi]], kuru Kanāda palīdzēja atbrīvot [[Otrais pasaules karš|Otrā pasaules kara]] laikā. Tā ir [[Apvienoto Nāciju Organizācija]]s, [[Nāciju Sadraudzība]]s, [[NATO|Ziemeļatlantijas līguma organizācijas]] (NATO) un ''[[La Francophonie]]'' locekle.
+
+Kanādas un Savienoto Valstu [[valsts robeža|robeža]] ir garākā un neapsargātākā robeža pasaulē.<ref name="wilson">{{Tīmekļa atsauce|url=http://www.canadainternational.gc.ca/washington/offices-bureaux/amb/080418.aspx?lang=eng|title=The World's Longest Undefended Border|last=Wilson|first=Michael|date=April 2008|publisher=Government of Canada|accessdate=2009-09-20|archiveurl=https://web.archive.org/web/20091001072043/http://www.canadainternational.gc.ca/washington/offices-bureaux/amb/080418.aspx?lang=eng|archivedate=2009-10-01}}</ref> Abas valstis ļoti cieši sadarbojas militāro kampaņu un uzdevumu izpildē, lai gan Kanādā saglabāja neitralitāti, kad Savienotajām Valstīm bija konflikts ar [[Kuba|Kubu]], kā arī tā neiesaistījās [[Irākas karš|Irākas karā]].<ref name="cuba">{{Tīmekļa atsauce|url=http://www.canadainternational.gc.ca/cuba/bilateral_relations_bilaterales/canada_cuba.aspx?menu_id=7&menu=L|title=Canada - Cuba Relations|date=2009|publisher=Government of Canada| accessdate =2009-09-20}}</ref><ref name="delvoie">{{Tīmekļa atsauce|url=http://www.journal.forces.gc.ca/vo4/no4/views-vues-eng.asp | title =The Iraq War: Why Canada Was Right Not To Participate |last= Delvoie| first= Louis| date= 2008| work= Canadian Military Journal|publisher=Department of National Defence|accessdate=2009-09-20}}</ref>
+
+== Bruņotie spēki ==
+[[Attēls:BCR mounted gunner.JPG|thumbnail|200px|Britu Kolumbijas pulka artilērists]]
+[[Kanādas bruņotie spēki|Kanādas bruņoto spēku]] augstākais virspavēlnieks ir ģenerālgubernators (pašlaik [[Mikaela Žana]]), kas kopā ar [[Kanādas Aizsardzības padome|Aizsardzības padomi]] un [[Kanādas Aizsardzības ministrija|Aizsardzības ministriju]] īsteno bruņoto spēku vispārēju vadību. 2009. gadā septembrī aktīvajā dienestā dienēja 66 949 cilvēku,<ref name="Strength">{{Tīmekļa atsauce| url=http://www.forces.gc.ca/site/news-nouvelles/view-news-afficher-nouvelles-eng.asp?id=3162| title=Recruiting and Retention in the Canadian Forces > Canada > Military| publisher=Department of National Defence| date=6 October 2009| accessdate=6 october 2009}}{{Novecojusi saite}}</ref> kas ir 58. lielākais militārais personāls pasaulē. Militārājā dienestā var dienēt no 16 līdz 60 gadu vecumam (personām, kurām ir 16 gadi, vajadzīga vecāku vai aizbildņa atļauja), bet obligātās [[karaklausība]]s valstī nepastāv. 2009./2010. gadā militārais budžets bija 19 miljardi [[ASV dolars|ASV dolāri]],<ref>{{Tīmekļa atsauce |url=http://www.tbs-sct.gc.ca/rpp/2008-2009/inst/dnd/dnd01-eng.asp#sec1g_e |title=Departmental Planned Spending and Full-Time Equivalents |access-date={{dat|2009|11|21||bez}} |archiveurl=https://web.archive.org/web/20080925125317/http://www.tbs-sct.gc.ca/rpp/2008-2009/inst/dnd/dnd01-eng.asp#sec1g_e |archivedate={{dat|2008|09|25||bez}} }}</ref><ref>[http://www.xe.com/ucc/convert.cgi?Amount=20056703&From=CAD&To=USD&image.x=60&image.y=8&image=Submit Exchange rates 8 Oct 2009]{{Novecojusi saite}}</ref> tas ir 1,14% no [[iekšzemes kopprodukts|iekšzemes kopprodukta]].
+
+== Tautsaimniecība ==
+[[Attēls:TD Centre View from Yonge and King.JPG|thumbnail|left|150px|Biroju ēkas Toronto centrā]]
+Kanādai ir [[Valstu uzskaitījums pēc nominālā IKP|desmitā lielākā ekonomika pasaulē]] pēc [[iekšzemes kopprodukts|iekšzemes kopprodukta]], kā arī tā ir viena no bagātākajām valstīm. Tā ir [[Ekonomiskās sadarbības un attīstības organizācija]]s un [[Lielais septītnieks|Lielā septītnieka]] locekle. Tāpat kā citās attīstītās valstīs, Kanādā dominē [[trešā sektora ekonomika|pakalpojumu industrija]], kurā nodarbojās aptuveni trīs ceturtdaļas kanādiešu.<ref>{{Tīmekļa atsauce| url=http://www40.statcan.ca/l01/cst01/labr68a.htm| title=Actual hours worked per week by industry, seasonally adjusted (monthly)| publisher=Statistics Canada| access-date={{dat|2016|02|05||bez}}| archiveurl=https://web.archive.org/web/20081103232711/http://www40.statcan.ca/l01/cst01/labr68a.htm| archivedate={{dat|2008|11|03||bez}}}}</ref> [[Pirmā sektora ekonomika|Pirmā sektora ekonomikā]] dominē [[mežizstrāde]] un [[nafta]]s rūpniecība, kas nav rakstūrīgi citām attīstītajām valstīm. Valsts centrālajā daļā dominē arī ražošanas nozares, kurā nozīmīga loma ir [[automašīna|automašīnu]] ražošanai.
+
+Kanāda ir ar vienu no augstākajiem [[ekonomiskā brīvība|ekonomiskās brīvības]] līmeņiem pasaulē.<ref>[[:en:List of countries by economic freedom]]</ref> Mūsdienās Kanādā ir līdzīga uz tirgus orientēta ekonomikas sistēma kā [[Amerikas Savienotās Valstis|Savienotajām Valstīm]].<ref name="nosaukums-3">{{Tīmekļa atsauce |author=Central Intelligence Agency |publisher=Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html |title=The World Factbook: Canada |date=2006-05-16 |accessdate=2007-05-06 |archive-date=2019-04-30 |archive-url=https://web.archive.org/web/20190430234227/https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html }}</ref> 2009. gada jūlijā [[bezdarbs|bezdarba]] līmenis sasniedza 8,6%, kas ir sekas no [[2008. gada krīze|globālās ekonomiskās krīzes]]. Saskaņā ar žurnāla "''[[Forbes]]''" publicēto iznformāciju, 2008. gadā Kanādā bāzējās 69 no 2000 pasaules lielākajiem uzņēmumiem.<ref name="2008 [[Forbes]] Global 2000">{{Tīmekļa atsauce | author=forbes|authorlink= forbes|publisher= forbes| url= http://www.forbes.com/lists/2008/18/biz_2000global08_The-Global-2000-Canada_10Rank.html|title=Latest release |date= 2008-04-02 |accessdate=2006-07-01}}</ref>
+
+[[Starptautiskā tirdzniecība]] veido lielu daļu no Kanādas saimniecības. Visvairāk tiek [[eksports|eksportēti]] tās [[dabas resursi]]. 2007. gadā 76% eksporta preces tika vestas uz [[Amerikas Savienotās Valstis|Savienotajām Valstīm]], arī 65% no [[imports|importa]] precēm Kanādā tiek ievestas no ASV.<ref>{{Tīmekļa atsauce|url= http://www40.statcan.ca/l01/cst01/gblec02a.htm|title= Imports, exports and trade balance of goods on a balance-of-payments basis, by country or country grouping|publisher= Statistics Canada|access-date= {{dat|2006|06|18||bez}}|archiveurl= https://web.archive.org/web/20060618224937/http://www40.statcan.ca/l01/cst01/gblec02a.htm|archivedate= {{dat|2006|06|18||bez}}}}</ref> 2006. gadā Kanāda starp visām valstīm ierindojās astotajā vietā pēc eksporta un importa. [[Britu Kolumbija|Britu Kolumbijā]] dominē mežizstrāde, bet [[Alberta|Albertā]] un [[Ņūfaundlenda un Labradora|Ņūfaundlendā un Labradorā]] naftas rūpniecība. Savukārt [[Ontārio]] provinces ziemeļos ir daudz dažādu [[raktuve|raktuvju]]. Kanādā lielos apmēros iegūst [[akmeņogles]], [[varš|varu]], [[dzelzs|dzelzi]] un [[zelts|zeltu]]. Piejūras provincēs dominējošā sfēra ir [[zvejniecība]].
+
+== Demogrāfija ==
+[[2006. gads|2006]]. gadā pēc [[tautas skaitīšana]]s Kanādā dzīvoja 31 612 897 iedzīvotāji. Salīdzinot ar [[2001. gads|2001]]. gadā veikto tautas skaitīšanu, iedzīvotāju skaits bija pieaudzis par 5,4%.<ref name="statcan_population_clock">{{Tīmekļa atsauce |author=Beauchesne, Eric |publisher=National Post |url=http://www.canada.com/nationalpost/financialpost/story.html?id=73b94aac-08f0-477f-a72a-b8b640f6658f&k=90795 |title=We are 31,612,897 |date=2007-03-13 |accessdate=2007-03-13 |archiveurl=https://www.webcitation.org/616iHdSfl?url=http://www.canada.com/nationalpost/financialpost/story.html?id=73b94aac-08f0-477f-a72a-b8b640f6658f |archivedate=2011-08-21 }}</ref> Iedzīvotāju skaita pieaugums bija galvenokārt [[imigrācija]]s nevis dabiskā pieauguma dēļ. Aptuveni trīs ceturtdaļas Kanādas iedzīvotāju dzīvo 150 km attālumā no [[Amerikas Savienotās Valstis|Savienoto Valstu]] robežas.<ref>{{Tīmekļa atsauce |date = 2005-01-25 |accessdate = 2006-10-03 |title = Canada World View — Issue 24 |first = Norman |last = Hillmer |publisher = Foreign Affairs and International Trade Canada |url = http://ecalib.uneca.org/ipac20/ipac.jsp?session=1F4L7859644R7.561749&profile=ecal&uri=link=3100006@!90415@!3100001@!3100002&aspect=power&menu=search&ri=1&source=157.150.130.29@!horizon&term=World+view&index=ALLTITL |format = Journal available from the Online Catalogue of the ECA Library, UN Economic Commission for Africa |archiveurl = https://web.archive.org/web/20120306113243/http://ecalib.uneca.org/ipac20/ipac.jsp?session=1F4L7859644R7.561749&profile=ecal&uri=link=3100006@!90415@!3100001@!3100002&aspect=power&menu=search&ri=1&source=157.150.130.29@!horizon&term=World+view&index=ALLTITL |archivedate = 2012-03-06 }}</ref> Lielākā etniskā grupa ir [[angļi]] (21%), kuriem seko [[franči]] (15,8%), [[skoti]] (15,2%), [[īri]] (13,9%), [[vācieši]] (10,2%), [[itāļi]] (5%), [[ķīnieši]] (3,9%), [[ukraiņi]] (3,6%) un [[Amerikas pirmiedzīvotāji|pirmiedzīvotāji]] (3,5%). Aptuveni viena trešdaļa respondentu ir atbildējuši, ka viņa tautība ir "kanādietis".<ref>{{Tīmekļa atsauce |url = http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title = Ethnocultural Portrait of Canada Highlight Tables, 2006 Census |publisher = Statistics Canada |accessdate = 2008-06-30 |archive-date = 2019-01-06 |archive-url = https://web.archive.org/web/20190106221808/https://www12.statcan.gc.ca/census-recensement/2006/dp-pd/hlt/97-562/pages/page.cfm?Lang=E&Geo=PR&Code=01&Table=2&Data=Count&StartRec=1&Sort=3&Display=All&CSDFilter=5000 }}</ref> Lielākās indiāņu tautas ir [[algokini]], [[kri]], [[irokēzi]], [[atapaski]] un [[seliši]]. Kanādas ziemeļos, [[Arktika]]s piekrastē dzīvo aptuveni 20 tūkstoši [[inuīti]].
+
+Lielākā daļa no iedzīvotājiem ir [[katoļi]] (frankokanādieši un īru izcelsmes anglokanādieši) un [[protestanti]].
+
+{| class="infobox" style="text-align:center; width:97%; margin-right:10px; font-size:90%"
+|-
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Vieta]]
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Pilsēta]]
+! align=center style="background:#f5f5f5;" | [[Kanādas provinces un teritorijas|Province]]
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Iedz.]]
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Vieta]]
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Pilsēta]]
+! align=center style="background:#f5f5f5;" | [[Kanādas provinces un teritorijas|Province]]
+! align=center style="background:#f5f5f5;" | [[Kanādas pilsētu uzskaitījums|Iedz.]]
+! rowspan=11 |
+[[Attēls:Toronto skyline in September 2008.jpg|border|135px|Toronto]]<br />[[Toronto]]<br />[[Attēls:VuedeMontreal.jpg|border|135px|Monreāla]]<br />[[Monreāla]]<br />
+|-
+| align=center style="background:#f0f0f0;" | 1 ||align=left | '''[[Toronto]]''' || [[Ontārio]] || 5,113,149 || align=center style="background:#f0f0f0;" | 11 ||align=left | '''[[Kičenera]]''' || [[Ontārio]] || 451,235
+|-
+| align=center style="background:#f0f0f0;" | 2 ||align=left | '''[[Monreāla]]''' || [[Kvebeka]] || 3,635,571 || align=center style="background:#f0f0f0;" | 12 ||align=left | '''[[Sentkatarinsa]]''' || [[Ontārio]] || 390,317
+|-
+| align=center style="background:#f0f0f0;" | 3 ||align=left | '''[[Vankūvera]]''' || [[Britu Kolumbija]] || 2,116,581 || align=center style="background:#f0f0f0;" | 13 || align=left | '''[[Helifeksa]]''' || [[Jaunskotija]] || 372,858
+|-
+| align=center style="background:#f0f0f0;" | 4 ||align=left | '''[[Otava]]''' || [[Ontārio]] || 1,130,761 || align=center style="background:#f0f0f0;" | 14 ||align=left | '''[[Ošava]]''' || [[Ontārio]] || 330,594
+|-
+| align=center style="background:#f0f0f0;" | 5 ||align=left | '''[[Kalgari]]''' || [[Alberta]] || 1,079,310 || align=center style="background:#f0f0f0;" | 15 ||align=left | '''[[Viktorija (Britu Kolumbija)|Viktorija]]''' || [[Britu Kolumbija]] || 330,088
+|-
+| align=center style="background:#f0f0f0;" | 6 ||align=left | '''[[Edmontona]]''' || [[Alberta]] || 1,034,945 || align=center style="background:#f0f0f0;" | 16 ||align=left | '''[[Vindzora (Ontārio)|Vindzora]]''' || [[Ontārio]] || 323,342
+|-
+| align=center style="background:#f0f0f0;" | 7 ||align=left | '''[[Kvebeka (pilsēta)|Kvebeka]]''' || [[Kvebeka]] || 715,515 || align=center style="background:#f0f0f0;" | 17 ||align=left | '''[[Saskatūna]]''' || [[Saskačevana]] || 233,923
+|-
+| align=center style="background:#f0f0f0;" | 8 ||align=left | '''[[Vinipega]]''' || [[Manitoba]] || 694,668 || align=center style="background:#f0f0f0;" | 18 ||align=left | '''[[Ridžaina]]''' || [[Saskačevana]] || 194,971
+|-
+| align=center style="background:#f0f0f0;" | 9 ||align=left | '''[[Hamiltona (Ontario)|Hamiltona]]''' || [[Ontārio]] || 692,911 || align=center style="background:#f0f0f0;" | 19 ||align=left | '''[[Šērbrūka]]''' || [[Kvebeka]] || 186,952
+|-
+| align=center style="background:#f0f0f0;" | 10 ||align=left | '''[[Landona]]''' || [[Ontārio]] || 457,720 || align=center style="background:#f0f0f0;" | 20 ||align=left | '''[[Sentdžonsa (Kanāda)|Sentdžonsa]]''' || [[Ņūfaundlenda un Labradora]] || 181,113
+|}
+{{clear}}
+
+== Kultūra ==
+[[Attēls:The Jack Pine, by Tom Thomson.jpg|thumbnail|200px|Toma Tomsona 1916. gada glezna "''The Jack Pine''", tulkojumā "Benksa priede"]]
+Kanādas kultūra ir veidojusies galvenokārt tās vēsturisko notikumu un ģeogrāfiskā stāvokļa dēļ. Lielākā daļa no Kanādas bija neapdzīvota un tika atklāta daudz vēlāk nekā citas eiropiešu kolonijas [[Amerika|Amerikā]]. Kanādas kultūras pirmsākumā nozīmīga loma bija pētnieku, mednieku un tirgotāju tradīcijām.<ref name="pioneer lit">{{Tīmekļa atsauce |url=http://www.canadiana.org/citm/themes/pioneers/pioneers7_e.html |title=Canada in the Making: Pioneers and Immigrants |publisher=The History Channel |date=2005-08-25 |accessdate=2006-11-30}}</ref> [[1759]]. gadā [[Lielbritānijas Karaliste]] iekaroja Kanādu, pakļaujot frančvalodīgos iedzīvotājus britu likumiem. Britu un [[Amerikas Savienotās Valstis|amerikāņu]] kultūras spēcīga ietekme bija arī vēlāk, kad Kanādā ieceļoja liels skaits [[Savienotās impērijas lojālisti]] no [[Trīspadsmit kolonijas|Trīspadsmit kolonijām]]. Lai gan ne bez konfliktiem, Kanādas attiecības ar [[indiāņi]]em un [[inuīti]]em salīdzinot ar Savienoto Valstu pieredzi bija relatīvi mierīgas. Tieši tāpēc liela ietekme uz kultūru bija arī šīm tautām.<ref name="cultural influences">{{cite paper |url=http://www.foreign-policy-dialogue.ca/pdf/DialogueEng.pdf |title=A Dialogue on Foreign Policy |publisher=Department of Foreign Affairs and International Trade |date=2003-01 |pages=15-16 |accessdate=2006-11-30 |archiveurl=https://web.archive.org/web/20031211170059/http://www.foreign-policy-dialogue.ca/pdf/DialogueEng.pdf |archivedate=2003-12-11 }}</ref>
+
+Kanādas oficiālie simboli ir [[kļavas lapa]], [[Kanādas bebrs]] un [[Kanādas zirgs]].<ref>[http://www.canlii.org/ca/sta/n-10.7/ National Horse of Canada Act]</ref><ref>{{Tīmekļa atsauce |url=http://www.pch.gc.ca/pgm/ceem-cced/symbl/o1-eng.cfm |title=The beaver |access-date={{dat|2009|11|21||bez}} |archive-date={{dat|2018|12|26||bez}} |archive-url=https://web.archive.org/web/20181226002505/https://www.canada.ca/home.html }}</ref><ref>{{Tīmekļa atsauce |url=http://www.pch.gc.ca/pgm/ceem-cced/symbl/o3-eng.cfm |title=The Maple Leaf |access-date={{dat|2009|11|21||bez}} |archive-date={{dat|2013|12|22||bez}} |archive-url=https://web.archive.org/web/20131222010103/http://pch.gc.ca/eng/1363626184104/1363626227047 }}</ref> Laika gaitā Kanādas oficiālie simboli ir mainīti, piemēram, [[Kanādas karogs]]. Monarhijas simboli ir joprojām manāmi [[Kanādas ģerbonis|Kanādas ģerbonī]].
+
+Kanādas māksla uzplauka 20. gadsimtā, it īpaši pēc [[Otrais pasaules karš|Otrā pasaules kara]] beigām [[1945]]. gadā. Valdība apstiprināja, ka tai ir vitāla nozīme turpmākā valsts attīstībā, tāpēc visā valstī tika dibinātas daudzas mākslas skolas un koledžas. 18. gadsimta vidū [[Kornēliuss Krīghofs]] (''Cornelius Krieghoff'') savas gleznās atainoja ainas no frankokanādiešu lauku dzīves, savukārt [[Pols Keins]] (''Paul Kane'') gleznoja skatus no indiāņu dzīves Kanādas rietumos.
+
+Tā kā Kanādā ir divas valsts valodas, tad literatūra bieži tiek iedalīta [[angļu valoda|angļu valodā]] un [[franču valoda|franču valodā]] sarakstītājā literatūrā. Kanādiešu literatūrā abās valodās bieži tiek aprakstīta valsts daba, pierobežas dzīve un Kanādas stāvoklis pasaulē. [[1992]]. gadā [[Maikls Ondātšī]] (''Michael Ondaatje'') ar darbu "[[Angļu pacients]]" kļuva par pirmo kanādieti, kurš ieguva [[Bukera balva|Bukera balvu]] (''Man Booker Prize''). [[2000. gads|2000]]. gadā šo balvu par darbu "''[[The Blind Assassin]]''" saņēma arī [[Margarēta Etvuda]] (''Margaret Atwood''), bet 2002. gadā [[Jans Martels]] (''Yann Martel'') par "''[[Life of Pi (stāsts)|Life of Pi]]''". Savukārt [[Pulicera balva|Pulicera balvu]] daiļliteratūrā [[1995]]. gadā saņēma [[Kerola Šīldsa|Kerolas Šīldsas]] darbs "[[The Stone Diaries]]".
+
+== Sports ==
+[[Attēls:McGill hockey match.jpg|thumbnail|200px|Hokeja spēle Monreālā pie [[Makgila Universitāte]]s 1901. gadā]]
+Kanādā vispopulārākie [[sports|sporta]] veidi ir [[hokejs]], [[kanādiešu futbols]], [[basketbols]], [[futbols]] un [[beisbols]]. Hokejs oficiāli ir atzīts par nacionālo ziemas [[sporta veidi|sporta veidu]].<ref name="National Sports of Canada Act">{{Tīmekļa atsauce | url= http://lois.justice.gc.ca/en/N-16.7/251603.html | title= National Sports of Canada Act (1994) | work= Consolidated Statutes and Regulations | accessdate= 2006-07-20 | publisher= [[Department of Justice (Canada)|Department of Justice]] | archiveurl= https://web.archive.org/web/20110520115256/http://lois.justice.gc.ca/en/N-16.7/251603.html | archivedate= 2011-05-20 }}</ref> Hokejs ir skatītāju visapmeklētākais sporta veids, kā arī [[Kanādas hokeja izlase]] allaž ir favorīti uz uzvaru jebkurā starptautiskā hokeja turnīrā. Vasaras oficiālais sporta veids ir [[lakross]].<ref name="National Sports of Canada Act" /> Tas ir vecākais sporta veids valstī un ar to aizsāka nodarboties [[Amerikas pirmiedzīvotāji]]. Apmeklētības ziņā otrs populārākais sporta veids ir [[kanādiešu futbols]].<ref name="Canadian Press 2006-06-08">{{Tīmekļa atsauce | author = Canadian Press | authorlink = Canadian Press | date = 2006-06-08 | url = http://www.theglobeandmail.com/servlet/story/RTGAM.20060608.wsurvey8/BNStory/Sports/home | title = Survey: Canadian interest in pro football is on the rise | publisher = Globe and Mail | accessdate = 2006-06-08 | archive-date = 2010-02-01 | archive-url = https://www.webcitation.org/5nDjFCLrm?url=http://www.theglobeandmail.com/servlet/story/RTGAM.20060608.wsurvey8/BNStory/Sports/home }}</ref> [[Kanādas futbola federācija]]s rīkotais "''[[Grey Cup]]''" ir lielākais ikgadējais sporta notikums valstī.<ref name="Houston 2006-12-20">{{Tīmekļa atsauce|url=http://www.theglobeandmail.com/servlet/story/RTGAM.20061220.wsptcfl20/GSStory/GlobeSportsFootball/GlobeSports/?query=|title=Grey Cup moves to TSN in new deal|accessdate=2006-12-23|publisher=The Globe And Mail|year=2006-12-20|author=William Houston|archiveurl=https://web.archive.org/web/20070930060621/http://www.theglobeandmail.com/servlet/story/RTGAM.20061220.wsptcfl20/GSStory/GlobeSportsFootball/GlobeSports/?query=|archivedate=2007-09-30}}</ref> Savukārt visvairāk reģistrēto spēlētāju ir [[futbols|futbolā]], kuru Kanādā vairāk dēvē par sokeru (''soccer''), bet šis sporta veids nav iekarojis popularitāti skatītāju vidū.
+
+Citi pietiekami populāri komandu sporta veidi ir [[kērlings]], [[ielu hokejs]], [[krikets]], [[regbijs]] un [[softbols]]. Īpaši strauja attīstība pēdējā laikā ir vērojama kriketā. No individuālajiem sporta veidiem populāri ir [[autosports]], [[bokss]], [[riteņbraukšana]], [[golfs]], [[zirgu skriešanās sacīkstes]], [[daiļslidošana]], [[rodeo]], [[skeitbords]], [[snovbords]], [[peldēšana]], [[teniss]], [[triatlons]], [[vieglatlētika]] un [[cīņas sports]].
+
+Kanādas ģeogrāfiskā stāvokļa dēļ, tas ir, valsts atrašanās vairāk uz ziemeļiem, tā labākus panākumus gūst [[ziemas olimpiskās spēles|ziemas olimpiskajās spēlēs]] nekā [[vasaras olimpiskās spēles|vasaras olimpiskajās spēlēs]]. Kanādā trīs reizes ir organizētas [[olimpiskās spēles]]. Pirmo reizi [[1976. gada vasaras olimpiskās spēles|1976]]. gadā [[Monreāla|Monreālā]] tika organizētas vasaras olimpiskās spēles, bet [[1988. gada ziemas olimpiskās spēles|1988]]. gadā [[Kalgari]] notika ziemas olimpiskās spēles. [[2010. gads|2010]]. gadā Kanāda rīkoja [[2010. gada ziemas olimpiskās spēles|otrās ziemas olimpiskās spēles]], tās norisinājās [[Vankūvera|Vankūverā]].
+
+== Skatīt arī ==
+* [[Kanādas latvieši]]
+
+== Atsauces un piezīmes ==
+<div class="reflist4" style="height: 220px; overflow: auto; padding: 3px" >
+{{atsauces|2}}
+</div>
+
+== Ārējās saites ==
+{{Vikikrātuves kategorija|Canada|Kanāda}}
+{{refbegin}}
+; Valdība
+* [https://web.archive.org/web/20060505002938/http://atlas.gc.ca/site/index.html Official Government of Canada online Atlas of Canada]
+* [http://www.gc.ca Official website of the Government of Canada]
+* [http://www.gg.ca Official website of the Governor General of Canada]
+* [http://www.pm.gc.ca Official website of the Prime Minister of Canada] {{Webarchive|url=https://web.archive.org/web/20151022181355/http://www.pm.gc.ca/ |date={{dat|2015|10|22||bez}} }}
+* [https://web.archive.org/web/20060821223902/http://www.international.gc.ca/canada_un/new_york/ Permanent Mission of Canada to the United Nations]
+* [https://web.archive.org/web/20091026201811/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/canada.html Chief of State and Cabinet Members]
+
+; Citas
+{{wikivoyage|Canada}}
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html CIA — Th World Factbook — Canada] {{Webarchive|url=https://web.archive.org/web/20190430234227/https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html |date={{dat|2019|04|30||bez}} }}
+* [https://web.archive.org/web/20090204012447/http://ucblibraries.colorado.edu/govpubs/for/canada.htm Canada] at ''UCB Libraries GovPubs''
+* [http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001216 Canada from ''The Canadian Encyclopedia''] {{Webarchive|url=https://web.archive.org/web/20070930055853/http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001216 |date={{dat|2007|09|30||bez}} }}
+* [https://web.archive.org/web/20140821200252/http://www.iccs-ciec.ca/blackwell.html Canadian Studies: A Guide to the Sources]
+* [https://web.archive.org/web/20091128205033/http://tonto.eia.doe.gov/country/country_energy_data.cfm?fips=CA Energy Information Administration] — Official Energy Statistics for Canada from the U.S. Government
+* [https://web.archive.org/web/20080323075300/http://www.statcan.ca/english/edu/clock/population.htm Statistics Canada with Canada's population clock]
+* [http://www.canadiangeographic.ca/atlas/ The Canadian Atlas Online]
+{{refend}}
+
+{{G8}}
+{{NATO}}
+{{Nāciju sadraudzība}}
+{{Ziemeļamerikas valstis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kanāda| ]]

@@ -1,0 +1,672 @@
+{{Vērtīgs saraksts}}
+{{Starptautiska sporta turnīra infokaste
+ |             sports = futbols
+ |          nosaukums = 2005. gada Pasaules čempionāts hokejā
+ |             valsts = {{AUT}}
+ |            pilsēta = [[Vīne]] un [[Insbruka]]
+ |              laiks = {{dat||4|30|n|bez}}—{{dat||5|15|n|bez}}
+ |     komandu_skaits = 16
+ |             arēnas = 2
+ |           pilsētas = 2
+ |           čempioni = {{ih|CZE}}
+ |             tituls = 5
+ |              otrie = {{ih|CAN}}
+ |             trešie = {{ih|RUS}}
+ |           ceturtie = {{ih|SWE}}
+ |             spēles = 56
+ |          skatītāji = 323974
+ |    rezultatīvākais = {{flaga|Kanāda}} [[Džo Torntons]] (16 punkti)
+ |                mvp = {{flaga|Kanāda}} [[Džo Torntons]]
+}}
+'''2005. gada Pasaules čempionāts hokejā''' A divīzijā notika no 2005. gada 30. aprīļa līdz 15. maijam - [[Vīne]] un [[Insbruka|Insbrukā]], [[Austrija|Austrijā]]. Šis bija 69. [[Pasaules hokeja čempionāts|Pasaules čempionāts hokejā]]. Čempionāts izvērtās ļoti spēcīgs, jo [[Nacionālā hokeja līga|NHL]] bija lokauts.
+
+== A divīzija ==
+=== Kopvērtējums ===
+{| style="border-style:solid;border-width:1px;border-color:#808080;background-color:#FFFFFF" cellspacing="2" cellpadding="2"; width="100%""
+|- 
+! Vieta
+! Komanda
+|-  align="center" valign="top" bgcolor="#F7F9A8"
+! 1
+| align="left" | {{ih|CZE}}
+|- align="center" valign="top" bgcolor="#DCE5E5"
+! 2
+| align="left" | {{ih|CAN}}
+|- align="center" valign="top" bgcolor="#FFDAB9"
+! 3
+| align="left" | {{ih|RUS}}
+|- align="center" valign="top" bgcolor="#DEDAC7"
+! 4
+| align="left" | {{ih|SWE}}
+|- align="center" valign="top" bgcolor="#DEDAC7"
+! 5
+| align="left" | {{ih|SVK}}
+|-  align="center" valign="top" bgcolor="#DEDAC7"
+! 6
+| align="left" | {{ih|USA}}
+|-  align="center" valign="top" bgcolor="#CEDAB0"
+! 7
+| align="left" | {{ih|FIN}}
+|-  align="center" valign="top" bgcolor="#CEDAB0"
+! 8
+| align="left" | {{ih|SUI}}
+|- align="center" valign="top" bgcolor="#DEDBB0" 
+! 9
+| align="left" | {{ih|LAT}}
+|- align="center" valign="top" bgcolor="#DEDBB0"
+! 10
+| align="left" | {{ih|BLR}}
+|- align="center" valign="top" bgcolor="#DEDAB0"
+! 11
+| align="left" | {{ih|UKR}}
+|- align="center" valign="top" bgcolor="#DEDAB0"
+! 12
+| align="left" | {{ih|KAZ}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+! 13
+| align="left" | {{ih|SLO}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+! 14
+| align="left" | {{ih|DEN}}
+|- align="center" valign="top" bgcolor="#DEAAB0" 
+! 15
+| align="left" | {{ih|GER}}
+|- align="center" valign="top" bgcolor="#DEAAB0" 
+! 16
+| align="left" | {{ih|AUT}}
+|}
+
+=== Priekšsacīkstes ===
+==== A grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SVK}}
+|3||2||0||1||13||5||'''5'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|RUS}}
+|3||2||0||1||9||5||'''5'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|BLR}}
+|3||1||2||0||6||4||'''2'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|AUT}}
+|3||0||3||0||3||17||'''0'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|RUS}}||4||-||2||{{ih|AUT}}
+|-
+|{{ih|SVK}}||2||-||1||{{ih|BLR}}
+|-
+|{{ih|SVK}}||3||-||3||{{ih|RUS}}
+|-
+|{{ih|BLR}}||5||-||0||{{ih|AUT}}
+|-
+|{{ih|RUS}}||2||-||0||{{ih|BLR}}
+|-
+|{{ih|AUT}}||1||-||8||{{ih|SVK}}
+|}
+
+==== B grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|CAN}}
+|3||3||0||0||17||5||'''6'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|USA}}
+|3||2||1||0||11||4||'''4'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|LAT}}
+|3||1||2||0||8||10||'''2'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|SLO}}
+|3||0||3||0||1||18||'''0'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|LAT}}||4||-||6||{{ih|CAN}}
+|-
+|{{ih|USA}}||7||-||0||{{ih|SLO}}
+|-
+|{{ih|CAN}}||8||-||0||{{ih|SLO}}
+|-
+|{{ih|USA}}||3||-||1||{{ih|LAT}}
+|-
+|{{ih|SLO}}||1||-||3||{{ih|LAT}}
+|-
+|{{ih|CAN}}||3||-||1||{{ih|USA}}
+|}
+
+==== C grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SWE}}
+|3||3||0||0||15||3||'''6'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|FIN}}
+|3||2||1||0||7||7||'''4'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|UKR}}
+|3||1||2||0||5||8||'''2'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|DEN}}
+|3||0||3||0||2||11||'''0'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|FIN}}||2||-||1||{{ih|DEN}}
+|-
+|{{ih|UKR}}||2||-||3||{{ih|SWE}}
+|-
+|{{ih|FIN}}||4||-||1||{{ih|UKR}}
+|-
+|{{ih|SWE}}||7||-||0||{{ih|DEN}}
+|-
+|{{ih|DEN}}||1||-||2||{{ih|UKR}}
+|-
+|{{ih|SWE}}||5||-||1||{{ih|FIN}}
+|}
+
+==== D grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|CZE}}
+|3||3||0||0||6||1||'''6'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SUI}}
+|3||2||1||0||8||4||'''4'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|KAZ}}
+|3||1||2||0||3||2||'''2'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|GER}}
+|3||0||3||0||2||9||'''0'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|SUI}}||1||-||3||{{ih|CZE}}
+|-
+|{{ih|GER}}||1||-||2||{{ih|KAZ}}
+|-
+|{{ih|KAZ}}||1||-||2||{{ih|SUI}}
+|-
+|{{ih|CZE}}||2||-||0||{{ih|GER}}
+|-
+|{{ih|CZE}}||1||-||0||{{ih|KAZ}}
+|-
+|{{ih|GER}}||1||-||5||{{ih|SUI}}
+|}
+
+=== Izslēgšanas kārta ===
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SLO}}
+|3||2||1||0||11||14||'''4'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|DEN}}
+|3||2||1||0||10||9||'''4'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|GER}}
+|3||1||1||1||13||5||'''3'''
+|- align=center bgcolor="ffccff"
+|align=left|{{ih|AUT}}
+|3||0||2||1||7||12||'''1'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|AUT}}||2||-||2||{{ih|GER}}
+|-
+|{{ih|SLO}}||4||-||3||{{ih|DEN}}
+|-
+|{{ih|DEN}}||4||-||3||{{ih|AUT}}
+|-
+|{{ih|SLO}}||1||-||9||{{ih|GER}}
+|-
+|{{ih|GER}}||2||-||3||{{ih|DEN}}
+|-
+|{{ih|AUT}}||2||-||6||{{ih|SLO}}
+|}
+
+<small>[[Vācijas hokeja izlase|Vācijas]] un [[Austrijas hokeja izlase|Austrijas]] izlases tiek nosūtītas uz 1. divīziju un nākamgad šo izlašu vietā A divīzijā startēs [[Norvēģijas hokeja izlase|Norvēģijas]] un [[Itālijas hokeja izlase|Itālijas]] hokeja izlases.</small>
+
+=== Kvalifikācijas kārta ===
+==== E grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|RUS}}
+|5||3||0||2||13||8||'''8'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|CZE}}
+|5||4||1||0||15||5||'''8'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SVK}}
+|5||3||1||1||12||11||'''7'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SUI}}
+|5||2||2||1||9||10||'''5'''
+|- align=center 
+|align=left|{{ih|BLR}}
+|5||1||4||0||4||11||'''2'''
+|- align=center
+|align=left|{{ih|KAZ}}
+|5||0||5||0||3||11||'''0'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|RUS}}||3||-||3||{{ih|SUI}}
+|-
+|{{ih|BLR}}||2||-||0||{{ih|KAZ}}
+|-
+|{{ih|SVK}}||1||-||5||{{ih|CZE}}
+|-
+|{{ih|SVK}}||3||-||1||{{ih|SUI}}
+|-
+|{{ih|CZE}}||1||-||2||{{ih|RUS}}
+|-
+|{{ih|RUS}}||3||-||1||{{ih|KAZ}}
+|-
+|{{ih|SUI}}||2||-||0||{{ih|BLR}}
+|-
+|{{ih|KAZ}}||3||-||1||{{ih|SVK}}
+|-
+|{{ih|CZE}}||5||-||1||{{ih|BLR}}
+|}
+
+==== F grupa ====
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|SWE}}
+|5||4||1||0||23||13||'''8'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|CAN}}
+|5||3||1||1||18||14||'''7'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|USA}}
+|5||2||1||2||14||10||'''6'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|FIN}}
+|5||1||1||3||12||13||'''5'''
+|- align=center
+|align=left|{{ih|LAT}}
+|5||1||3||1||9||18||'''3'''
+|- align=center
+|align=left|{{ih|UKR}}
+|5||0||4||1||5||13||'''1'''
+|}
+
+{| bgcolor="efefef"
+!|
+!|
+!|
+!|
+!|
+|-
+|{{ih|USA}}||4||-||4||{{ih|FIN}}
+|-
+|{{ih|LAT}}||3||-||0||{{ih|UKR}}
+|-
+|{{ih|CAN}}||4||-||5||{{ih|SWE}}
+|-
+|{{ih|CAN}}||3||-||3||{{ih|FIN}}
+|-
+|{{ih|SWE}}||1||-||5||{{ih|USA}}
+|-
+|{{ih|USA}}||1||-||1||{{ih|UKR}}
+|-
+|{{ih|FIN}}||0||-||0||{{ih|LAT}}
+|-
+|{{ih|UKR}}||1||-||2||{{ih|CAN}}
+|-
+|{{ih|SWE}}||9||-||1||{{ih|LAT}}
+|}
+
+=== Fināli ===
+{{8komandas | 
+| group1=
+| group2=
+
+| RD1-seed1=F1
+| RD1-team1={{ih|SWE}}
+| RD1-score1=2
+| RD1-seed2=E4
+| RD1-team2={{ih|SUI}}
+| RD1-score2=1
+
+| RD1-seed3=E2
+| RD1-team3={{ih|CZE}}
+| RD1-score3=3
+| RD1-seed4=F3
+| RD1-team4={{ih|USA}}
+| RD1-score4=2
+
+| RD1-seed5=F2
+| RD1-team5={{ih|CAN}}
+| RD1-score5=5
+| RD1-seed6=E3
+| RD1-team6={{ih|SVK}}
+| RD1-score6=4
+
+| RD1-seed7=E1
+| RD1-team7={{ih|RUS}}
+| RD1-score7=4
+| RD1-seed8=F4
+| RD1-team8={{ih|FIN}}
+| RD1-score8=3
+
+| RD2-seed1=F1
+| RD2-team1={{ih|SWE}}
+| RD2-score1=2
+| RD2-seed2=E2
+| RD2-team2={{ih|CZE}}
+| RD2-score2=3
+
+| RD2-seed3=F2
+| RD2-team3={{ih|CAN}}
+| RD2-score3=4
+| RD2-seed4=E1
+| RD2-team4={{ih|RUS}}
+| RD2-score4=3
+
+| RD3-seed1=E2
+| RD3-team1={{ih|CZE}}
+| RD3-score1='''3'''
+| RD3-seed2=F2
+| RD3-team2={{ih|CAN}}
+| RD3-score2=0
+}}
+
+=== Labākie spēlētāji ===
+==== Rezultatīvākie spēlētāji ====
+* [[Džo Torntons]] {{ih|CAN}} - 16 punkti
+* [[Riks Nešs]] {{ih|CAN}} - 15 punkti
+* [[Saimons Gaņjē]] {{ih|CAN}} - 10 punkti
+* [[Žigmunds Pālfijs]] {{ih|SVK}} - 9 punkti
+* [[Dāniels Sēdins]] {{ih|SWE}} - 9 punkti
+
+==== Labākie vārtsargi ====
+* [[Andrejs Mezins]] {{ih|BLR}} - 97,14 %
+* [[Tomāšs Vokouns]] {{ih|CZE}} - 95,26 %
+* [[Vitālijs Kolešniks]] {{ih|KAZ}} - 95,24 %
+* [[Martins Gerbers]] {{ih|SUI}} - 94,62 %
+* [[Artūrs Irbe]] {{ih|LAT}} - 94,35 %
+
+== 1. divīzija ==
+=== A grupa ===
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|NOR}}
+|5||4||0||1||43||8||'''9'''
+|- align=center 
+|align=left|{{ih|POL}}
+|5||3||1||1||16||8||'''7'''
+|- align=center 
+|align=left|{{ih|HUN}}
+|5||2||1||2||15||6||'''6'''
+|- align=center 
+|align=left|{{ih|GBR}}
+|5||2||3||0||19||15||'''4'''
+|- align=center 
+|align=left|{{ih|JPN}}
+|5||2||3||0||14||14||'''4'''
+|- align=center bgcolor="#ffccff"
+|align=left|{{ih|CHN}}
+|5||0||5||0||5||61||'''0'''
+|}
+
+<small>[[Ķīnas hokeja izlase|Ķīnas]] izlase tiek nosūtīta uz 2. divīziju.</small>
+
+=== B grupa ===
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|ITA}}
+|5||4||0||1||17||3||'''9'''
+|- align=center 
+|align=left|{{ih|FRA}}
+|5||3||1||1||16||9||'''7'''
+|- align=center 
+|align=left|{{ih|NED}}
+|5||1||1||3||13||11||'''5'''
+|- align=center 
+|align=left|{{ih|EST}}
+|5||1||1||3||16||15||'''5'''
+|- align=center 
+|align=left|{{ih|LTU}}
+|5||1||2||2||16||17||'''4'''
+|- align=center bgcolor="#ffccff"
+|align=left|{{ih|ROM}}
+|5||0||5||0||7||30||'''0'''
+|}
+
+<small>[[Rumānijas hokeja izlase|Rumānijas]] izlase tiek nosūtīta uz 2. divīziju.</small>
+
+== 2. divīzija ==
+=== A grupa ===
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|CRO}}
+|5||5||0||0||46||6||'''10'''
+|- align=center 
+|align=left|{{ih|AUS}}
+|5||4||1||0||34||5||'''8'''
+|- align=center 
+|align=left|{{ih|KOR}}
+|5||3||2||0||26||9||'''6'''
+|- align=center 
+|align=left|{{ih|BUL}}
+|5||2||3||0||22||26||'''4'''
+|- align=center 
+|align=left|{{ih|NZL}}
+|5||1||4||0||14||31||'''2'''
+|- align=center bgcolor="#ffccff"
+|align=left|{{ih|TUR}}
+|5||0||5||0||5||70||'''0'''
+|}
+
+<small>[[Turcijas hokeja izlase|Turcijas]] izlase tiek nosūtīta uz 3. divīziju, bet [[Horvātijas hokeja izlase|Horvātijas]] izlase nākamgad spēlēs 1. divīzijā.</small>
+
+=== B grupa ===
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|ISR}}
+|5||4||0||1||21||11||'''9'''
+|- align=center 
+|align=left|{{ih|SCG}}
+|5||4||1||0||30||10||'''8'''
+|- align=center 
+|align=left|{{ih|PRK}}
+|5||2||2||1||14||17||'''5'''
+|- align=center 
+|align=left|{{ih|BEL}}
+|5||2||3||0||13||19||'''4'''
+|- align=center 
+|align=left|{{ih|ESP}}
+|5||1||4||0||8||15||'''2'''
+|- align=center bgcolor="#ffccff"
+|align=left|{{ih|ISL}}
+|5||1||4||0||12||26||'''2'''
+|}
+
+<small>[[Islandes hokeja izlase|Islandes]] izlase tiek nosūtīta uz 3. divīziju, bet [[Izraēlas hokeja izlase|Izraēlas]] izlase nākamgad spēlēs 1. divīzijā.</small>
+
+== 3. divīzija ==
+<small>SP - spēles, U - uzvaras, Z - zaudējumi, N - neizšķirti, V - iesistie vārti, VI - zaudētie vārti, P - punkti</small>
+{| class="wikitable"
+|-
+!width=165|Komanda
+!width=20|SP
+!width=20|U
+!width=20|Z
+!width=20|N
+!width=20|V
+!width=20|VI
+!width=20|P
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|MEX}}
+|4||4||0||0||60||3||'''8'''
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ih|RSA}}
+|4||3||1||0||47||12||'''6'''
+|- align=center
+|align=left|{{ih|LUX}}
+|4||2||2||0||49||16||'''4'''
+|- align=center 
+|align=left|{{ih|IRL}}
+|4||1||3||0||32||20||'''2'''
+|- align=center 
+|align=left|{{ih|ARM}}
+|4||0||4||0||5||142||'''0'''
+|}
+
+<small>[[Meksikas hokeja izlase|Meksikas]] un [[Dienvidāfrikas hokeja izlase|Dienvidāfrikas]] izlases tiek paaugstinātas un nākamgad spēlēs 2. divīzijā.</small>
+
+{{Pasaules čempionāts hokejā}}
+
+[[Kategorija:2005. gads sportā]]
+[[Kategorija:Pasaules čempionāts hokejā]]
+[[Kategorija:Hokejs Austrijā]]

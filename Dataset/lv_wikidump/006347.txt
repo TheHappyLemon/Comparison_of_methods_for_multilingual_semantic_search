@@ -1,0 +1,36 @@
+{{Minerāla infokaste
+|minerāls=Adelīts
+|attēls=
+|klase=Arsenāts, No ūdens brīvi arsenāti ar svešiem anjoniem
+|ŠtruncaID=7/B.26-10
+|ķīm_formula=CaMg<nowiki>[OH|</nowiki>AsO<sub>4</sub><nowiki>]</nowiki>
+|singonija=[[Rombiskā singonija|Rombiskā]]
+|krāsa=Bezkrāsas, pelēks, zili pelēks, dzeltens, gaiši zaļš
+|svītra=Balta
+|habituss=Masīvs
+|skaldnība=Slikta, neizteikta
+|lūzums=Nelīdzens, gliemežnīcas
+|cietība=5
+|spīdums=Sveķains
+|caurspīdīgums=Caurspīdīgs, puscaurspīdīgs
+|laušanas_koef=n<sub>α</sub> = 1,712 n<sub>β</sub> = 1,721 n<sub>γ</sub> = 1,731
+|pleohroisms=
+|blīvums=3,78
+}}
+'''Adelīts''' (no {{val|el|άδηλος}} (''adelos'') — 'nenoteikts') ir rets [[minerāls]], kas pirmoreiz aprakstīts [[1891]]. gadā, [[Zviedrija|Zviedrijā]], [[Vermlande|Vermlandē]]. Veido pakāpeniskas pārejas sēriju ar [[vanādijs|vanādiju]] saturošu minerālu [[gotlobīts|gotlobītu]].
+
+Izdala vanādiju saturoša adelīta paveidu — '''vanādija adelītu''', kur vanādijs daļēji aizstāj arsēnu. Atrasts [[Vācija|Vācijā]], [[Tīringene|Tīringenē]].
+
+== Atradnes ==
+* [[Amerikas Savienotās Valstis|ASV]] — [[Jūta]], [[Ņūdžersija]]
+* [[Francija]] — [[Provansa]]
+* [[Vācija]] — [[Lejassaksija]], [[Tīringene]]
+* [[Zviedrija]] — [[Vermlande]]
+
+== Ārējās saites ==
+* [http://www.mindat.org/min-23.html Mindat.org] {{angliski}}
+* [http://www.webmineral.com/data/Adelite.shtml Webmineral] {{angliski}}
+
+[[Kategorija:Kalcija minerāli]]
+[[Kategorija:Magnija minerāli]]
+[[Kategorija:Arsenātu minerāli]]

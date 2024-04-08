@@ -1,0 +1,41 @@
+[[Attēls:Earth to Sun - en.png|235px|thumbnail|Saules gaisma līdz Zemei nonāk vidēji 8 minūtēs un 17 sekundēs]]
+'''Gaismas ātrums''' (parasti apzīmēts ar ''c'', zināms arī kā [[Alberts Einšteins|Einšteina]] konstante) ir ātrums, ar kuru [[vakuums|vakuumā]] pārvietojas [[elektromagnētiskais starojums]] — [[fotons|fotoni]]. Tas ir tieši {{nobr|299 792 458}} [[metrs|metri]] [[sekunde|sekundē]] (jeb {{nobr|1 079 252 848,8 km/h}}) — tas nav mērījums, bet gan definīcija; metru definē, ņemot vērā gaismas ātrumu un sekundes ilgumu. Gaismas ātrums citās vidēs, piemēram, [[gaiss|gaisā]], [[ūdens|ūdenī]], [[stikls|stiklā]], ir mazāks par ''c''. [[Daba|Dabā]] nekas nevar pārvietoties ātrāk par [[gaisma|gaismu]] vakuumā.
+
+== Formulas ==
+
+Svarīgi atzīmēt, ka gaismas ātrums ''c'' ir konstante, kas ietilpst vairākās fizikas formulās. Piemēram,<br />
+* pilnā enerģija: <math>E = mc^2</math>
+
+== Vēsture ==
+Jau no seniem laikiem cilvēki ir aizdomājušies par gaismas izplatīšanās ātrumu. Daži, piemēram, [[Johanness Keplers]], [[Renē Dekarts]], uzskatīja, ka gaismas ātrums ir bezgalīgs. Toties tā paša laikmeta zinātnieki [[Īzaks Ņūtons]], [[Roberts Huks]] uzskatīja, ka gaismas ātrums ir ļoti liels, bet tā vērtība ir noteikta, nav bezgalīga.
+
+16. gadsimtā gaismas ātrumu mēģināja noteikt [[Galileo Galilejs]]. Viņš ar palīgiem izmantoja sveču lukturus. Palīgi nostājās uz kalna vairāku kilometru attālumā un tiklīdz palīgi redz Galileja spīdināto gaismu, tā viņi momentā spīdina atpakaļ. Izmērot šī procesa laiku, viņš cerēja noteikt gaismas ātrumu. Šis eksperiments viņam neļāva aprēķināt gaismas ātrumu, jo, zinot gaismas ātrumu, tas būtībā notika momentāni.
+
+Pirmais, kas noteica gaismas ātruma skaitlisko vērtību, bija dāņu astronoms [[Ole Rēmers]]. Viņš pētīja [[Jupiters (planēta)|Jupitera]] pavadoni [[Jo (pavadonis)|Jo]]. Viņš novēroja, ka tas ik pēc noteikta laika ieiet Jupitera ēnā un no Zemes nav redzams. Zinādams pavadoņa [[apriņķojuma periods|apriņķojuma periodu]], varēja aprēķināt, kad vajadzētu sākties kārtējam aptumsumam. Patiesībā katru gadu Jo aptumsumi kavējās. Veicot laika mērījumus par aptumsumu kavēšanos, 1676. gadā Rēmers noteica, ka gaismas ātrums ir {{nobr|214 000 km/s}}.
+
+[[Attēls:Fizeau.JPG|thumbnail|200px|Fizo iekārtas diagramma]]
+Uz Zemes gaismas ātrums tika izmērīts aptuveni 100 gadus vēlāk. Ar tā mērīšanu nodarbojās franču zinātnieki [[Ipolits Fizo]] un [[Žans Fuko]]. Ipolits Fizo izveidoja iekārtu no nekustīga [[spogulis|spoguļa]] un rotējoša [[zobrats|zobrata]] ar 720 zobiem. Eksperimenta laikā gaismas stars izgāja caur vienu no zobrata zobiem un tika fokusēts uz 7 [[jūdze|jūdžu]] attālo spoguli kalna virsotnē. Gaismas stars [[atstarošana|atstarojas]] no tā atpakaļ un gaisma nonāca acī. Zinot zobrata [[leņķiskais ātrums|griešanās ātrumu]] un zobu platumu, Fizo aprēķinātais gaismas ātrums bija {{nobr|313 300 km/s}}.
+
+[[Žans Fuko]] izgatavoja citu ierīci ar rotējošu spoguli. Tas, līdzīgi kā Fuko zobrats, gaismu sadalīja īsos impulsos un ļāva noteikt impulsa ceļā pavadīto laiku prom un atpakaļ no atstarotāja. Fuko aprēķinātais gaismas ātrums bija {{nobr|298 000 km/s}}.
+
+1926. gadā amerikāņu fiziķis [[Alberts Maikelsons]] pilnveidoja Fuko ierīci, spoguļa vietā izmantojot astoņstūru spoguļprizmu. Sagatavošanās eksperimentam ilga teju vai trīs gadus. Tolaik tas bija precīzākais gaismas ātruma mērījums. Viņa gaismas ātrums bija {{nobr|299 796 ± 4 km/s}}.
+
+Vēlāk gaismas ātrums tika noteikts, izmantojot [[lāzers|lāzera]] starojumu. Mērījumus veica vairāki zinātnieki. 1975. gadā [[Starptautiskā mēru un svaru komiteja]] rekomendēja izmantošanai gaismas ātruma vakuumā vērtību {{nobr|299 792 458 ± 1,2 m/s}}.
+
+Mūsdienās gaismas ātrums ir viena no fizikas fundamentālajām [[konstante|konstantēm]]. Ar to tiek izteikti citi fizikāli lielumi un konstantes.
+
+== Skatīt arī ==
+* [[Gaisma]]
+
+== Atsauces ==
+{{atsauces+}}
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jēdzieni fizikā]]
+[[Kategorija:Fundamentālās fizikas konstantes]]
+[[Kategorija:Gaisma]]
+[[Kategorija:Relativitātes teorija]]
+[[Kategorija:Ātrums]]

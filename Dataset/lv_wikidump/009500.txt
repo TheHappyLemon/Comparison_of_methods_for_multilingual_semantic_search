@@ -1,0 +1,545 @@
+{{TCPIPmodelis}}
+{{OSI protokolu steks}}
+'''ICMP''' ({{val|en|'''Internet Control Message Protocol'''}} - "interneta vadības ziņojumu protokols") - [[tīkla slānis|tīkla slāņa]] protokols, kas ietilpst [[TCP/IP steks|TCP/IP stekā]]. Šo protokolu izmanto, lai informētu par kļūdām un citiem gadījumiem, kas radušies datu pārraides laikā. Tāpat ICMP izmanto, lai sūtītu testu paketes un citus informatīvos ziņojumus.
+
+== Tehniskās detaļas ==
+ICMP ir definēts {{RFC|792}} (ar papildinājumiem {{RFC|950}}). Tas ir [[IP protokols|IP protokola]] neatņemama sastāvdaļa. ICMP versija [[IPv4]] tiek saukta par '''ICMPv4''', [[IPv6]] ir ekvivalents protokols - '''ICMPv6'''.
+
+ICMP ziņojumi tiek inkapsulēti IP datagrammās, bet tas, tāpat kā [[UDP protokols|UDP]], negarantē mērķa sasniegšanu.
+
+Daudzi tīkla diagnosticēšanas rīki izmanto ICMP. Piemēram, komanda [[traceroute]] sūta īpaši sagatavotas UDP datagrammas un gaida ICMP atbildes "''Time to live exceeded in transit''" vai "''Destination unreachable''".
+Savukārt rīks [[ping]] izmanto ICMP "''Echo''" un "''Echo reply''" paziņojumus.
+
+=== ICMP paketes struktūra ===
+{| class="wikitable" text-align: center;"
+|+ '''ICMP paketes formāts'''
+|- align="center"
+! colspan="1"|[[bits|Biti]]
+! colspan="8"|0 — 7
+! colspan="8"|8 — 15
+! colspan="16"|16 — 31
+|- align="center"
+! colspan="1"|0
+| colspan="8"|Tips
+| colspan="8"|Kods
+| colspan="16"|[[Kontrolsumma]]
+|- align="center"
+! colspan="1"|32
+| colspan="32"|Specifiskie tipa dati
+|}
+* Tips (''Type'') - 8 bitu lauks, kurā norādīts ICMP paziņojuma tips (sk. zemāk sarakstu);
+* Kods (''Code'') - 8 bitu lauks, kurā norāda vienu no vairākām iespējamām funkcijām šim tipam;
+* Kontrolsumma (''Checksum'') - 16 biti, paketes kontrolsumma;
+* Specifiskie tipa dati (''Type-Specific Data'') - papildu dati, atkarīgi no tipa un koda.
+
+=== ICMP paziņojumu tipu saraksts ===
+* 0 - Echo Reply
+* 1 - Rezervēts
+* 2 - Rezervēts
+* 3 - Destination Unreachable
+* 4 - Source Quench
+* 5 - Redirect Message
+* 6 - Alternate Host Address
+* 7 - Rezervēts
+* 8 - Echo Request
+* 9 - Router Advertisement
+* 10 - Router Solicitation
+* 11 - Time Exceeded
+* 12 - Parameter Problem
+* 13 - Timestamp
+* 14 - Timestamp Reply
+* 15 - Information Request
+* 16 - Information Reply
+* 17 - Address Mask Request
+* 18 - Address Mask Reply
+* 19 - Rezervēts drošībai
+* 20-29 - Rezervēti eksperimentiem
+* 30 - Traceroute
+* 31 - Datagram Conversion Error
+* 32 - Mobile Host Redirect
+* 33 - IPv6 Where-Are-You
+* 34 - IPv6 Here-I-Am
+* 35 - Mobile Registration Request
+* 36 - Mobile Registration Reply
+* 38 - Domain Name Reply
+* 39 - SKIP Algorithm Discovery Protocol
+* 40 - Photuris, Security failures
+* 41 - ICMP eksperimentaliem protokoliem, piem., [[Seamoby]] [RFC4065]
+* 42-255 - Rezervēti
+
+==Kontroles ziņas==
+Kontroles ziņojumi tiek identificēti pēc to vērtības ''tipa'' laukā. ''Koda'' lauks sniedz papildu informāciju par kontekstu. Daži kontroles ziņojumi ir novecojuši kopš protokols tika ieviests.
+
+{| class="wikitable"
+|+Būtiski vadības ziņojumi<ref>{{Tīmekļa atsauce|url=http://www.iana.org/assignments/icmp-parameters |title=IANA ICMP Parameters |publisher=Iana.org |date=2012-09-21 |accessdate=2013-01-07}}</ref><ref>{{Grāmatas atsauce |title=Computer Networking: A Top-Down Approach, |author1=Kurose, J.F |author2=Ross, K.W. |isbn=9780321418494 |series=World student series |url=https://books.google.com/books?id=QXIwPwAACAAJ |date=2006 |publisher=Addison-Wesley}}</ref>
+!         Tips !! Kods !! Statuss !! Apraksts
+|-
+||0 – [[Ping (networking utility)|Echo Reply]]<ref name=rfc792>{{cite rfc|title=Internet Control Message Protocol|rfc=792|last=Postel|first=J.|date=September 1981|publisher=[[Internet Engineering Task Force|IETF]]}}</ref>{{rp|14}}
+|                 0    || || Echo reply (used to [[Ping (networking utility)|ping]])
+|-
+||1 and 2
+|                      || {{n/a|unassigned}} || ''Reserved''
+|-
+|rowspan=16|3 – Destination Unreachable<ref name=rfc792/>{{rp|4}}
+|                  0   || || Destination network unreachable
+|-
+|                  1   || || Destination host unreachable
+|-
+|                  2   || || Destination protocol unreachable
+|-
+|                  3   || || Destination port unreachable
+|-
+|                  4   || || Fragmentation required, and [[IPv4 packet|DF flag]] set
+|-
+|                  5   || || Source route failed
+|-
+|                  6   || || Destination network unknown
+|-
+|                  7   || || Destination host unknown
+|-
+|                  8   || || Source host isolated
+|-
+|                  9   || || Network administratively prohibited
+|-
+|                 10   || || Host administratively prohibited
+|-
+|                 11   || || Network unreachable for [[Type of service|ToS]]
+|-
+|                 12   || || Host unreachable for [[Type of service|ToS]]
+|-
+|                 13   || || Communication administratively prohibited
+|-
+|                 14   || || Host Precedence Violation
+|-
+|                 15   || || Precedence cutoff in effect
+|-
+| 4 – Source Quench
+|                  0   || {{dc|deprecated}} || Source quench (congestion control)
+|-
+|rowspan=4| 5 – Redirect Message
+|                  0   || || Redirect Datagram for the Network
+|-
+|                  1   || || Redirect Datagram for the Host
+|-
+|                  2   || || Redirect Datagram for the [[Type of service|ToS]] & network
+|-
+|                  3   || || Redirect Datagram for the [[Type of service|ToS]] & host
+|-
+| 6            ||      || {{dc|deprecated}} || Alternate Host Address
+|-
+| 7            ||      || {{n/a|unassigned}} || ''Reserved''
+|-
+| 8 – [[Ping (networking utility)|Echo Request]]
+|                  0   || || Echo request (used to ping)
+|-
+| 9 – [[ICMP Router Discovery Protocol|Router Advertisement]]
+|                  0   || || Router Advertisement
+|-
+| 10 – [[ICMP Router Discovery Protocol|Router Solicitation]]
+|                  0   || || Router discovery/selection/solicitation
+|-
+|rowspan=2| 11 – [[ICMP Time Exceeded|Time Exceeded]]<ref name=rfc792/>{{rp|6}}
+|                  0   || || TTL expired in transit
+|-
+|                  1   || || Fragment reassembly time exceeded
+|-
+|rowspan=3| 12 – Parameter Problem: Bad IP header
+|                  0   || || Pointer indicates the error
+|-
+|                  1   || || Missing a required option
+|-
+|                  2   || || Bad length
+|-
+| 13 – Timestamp
+|                  0   || || Timestamp
+|-
+| 14 – Timestamp Reply
+|                  0   || || Timestamp reply
+|-
+| 15 – Information Request
+|                  0   || {{dc|deprecated}} || Information Request
+|-
+| 16 – Information Reply
+|                  0   || {{dc|deprecated}} || Information Reply
+|-
+| 17 – Address Mask Request
+|                  0   || {{dc|deprecated}} || Address Mask Request
+|-
+| 18 – Address Mask Reply
+|                  0   || {{dc|deprecated}} || Address Mask Reply
+|-
+| 19           ||      || reserved || ''Reserved'' for security
+|-
+| 20 through 29||      || reserved || ''Reserved'' for robustness experiment
+|-
+| 30 – [[Traceroute]]
+|                  0   || {{dc|deprecated}} || Information Request
+|-
+| 31           ||      || {{dc|deprecated}} || Datagram Conversion Error
+|-
+| 32           ||      || {{dc|deprecated}} || Mobile Host Redirect
+|-
+| 33           ||      || {{dc|deprecated}} || Where-Are-You (originally meant for [[IPv6]])
+|-
+| 34           ||      || {{dc|deprecated}} || Here-I-Am (originally meant for IPv6)
+|-
+| 35           ||      || {{dc|deprecated}} || Mobile Registration Request
+|-
+| 36           ||      || {{dc|deprecated}} || Mobile Registration Reply
+|-
+| 37           ||      || {{dc|deprecated}} || Domain Name Request
+|-
+| 38           ||      || {{dc|deprecated}} || Domain Name Reply
+|-
+| 39           ||      || {{dc|deprecated}} || SKIP Algorithm Discovery Protocol, [[Simple Key-Management for Internet Protocol]]
+|-
+| 40           ||      || || [[Photuris (protocol)|Photuris]], Security failures
+|-
+| 41           ||      || {{table-experimental}} || ICMP for experimental mobility protocols such as [[Seamoby]] [RFC4065]
+|-
+| 42 – Extended Echo Request<ref name="RFC 8335">{{cite IETF |title=PROBE: A Utility for Probing Interfaces |rfc=8335}}</ref>
+|                  0   || || No Error
+|-
+| rowspan=5| 43 – Extended Echo Reply<ref name="RFC 8335"/>
+|                  0   || || No Error
+|-
+|                  1   || || Malformed Query
+|-
+|                  2   || || No Such Interface
+|-
+|                  3   || || No Such Table Entry
+|-
+|                  4   || || Multiple Interfaces Satisfy Query
+|-
+| 44 through 252 ||     || {{n/a|unassigned}} || ''Reserved''
+|-
+| 253 || || {{table-experimental}} || RFC3692-style Experiment 1 (RFC 4727)
+|-
+| 254 || || {{table-experimental}} || RFC3692-style Experiment 2 (RFC 4727)
+|-
+| 255 || || reserved || Reserved
+|}
+
+===Avota dzēšana===
+''Avota dzēšana'' pieprasa, lai sūtītājs samazinātu ziņojumu skaitu, kas tiek nosūtīti uz maršrutētāju vai resursdatoru. Šis ziņojums var tikt ģenerēts, ja maršrutētājam vai resursdatoram nav pietiekamas bufertelpas, lai apstrādātu pieprasījumu, vai arī, ja maršrutētājam vai resursdatoram buferis tuvojas ierobežojumam.
+
+Dati tiek nosūtīti ļoti ātri no resursdatora vai no vairākiem resursdatoriem vienlaikus uz noteiktu maršrutētāju tīklā. Lai gan maršrutētājam ir bufera iespējas, buferēšana ir ierobežota noteiktā diapazonā. Maršrutētājs nevar sarakstīt vairāk datu nekā ierobežotās bufertelpas ietilpība. Tādējādi, ja rinda tiek aizpildīta, ienākošie dati tiek atmesti, līdz rinda vairs nav pilna. Bet, tā kā tīkla slānī nav neviena apliecinājuma mehānisma, klients nezina, vai dati ir veiksmīgi sasnieguši galamērķi. Tādēļ tīkla slānim jāveic daži koriģējoši pasākumi, lai izvairītos no šādām situācijām. Šie pasākumi tiek saukti par avota dzēšanu. Avota dzēšanas mehānismā maršrutētājs redz, ka ienākošo datu pārraides ātrums ir daudz ātrāks nekā izejošo datu pārraides ātrums, un nosūta klientiem ICMP ziņojumu, informējot, ka ir jāpalēnina datu pārsūtīšanas ātrums vai jāgaida noteikts laiks, pirms mēģināt nosūtīt vairāk datu. Kad klients saņem šo ziņojumu, tas automātiski palēnina izejošo datu pārraides ātrumu vai gaida pietiekami daudz laika, kas maršrutētājam ļauj iztukšot rindu. Tādējādi avota dzēšanas ICMP ziņojums darbojas kā plūsmas vadība tīkla slānī.
+
+Tā kā pētījumi liecināja, ka “ICMP avota dzēšana [bija] neefektīvs (un negodīgs) pretlīdzeklis pārslodzes gadījumā”,<ref>{{IETF RFC|6633}}</ref> [[RFC 1812]] 1995. gadā noraidīja maršrutētāju veikto avota dzēšanas ziņojumu izveidi. Turklāt [[RFC 6633]] no 2012. gada ir noraidījusi ziņojumu par avotu dzēšanu nosūtīšanu un jebkāda veida reakciju uz tiem.
+
+{| class="wikitable"
+|+Avota dzēšanas ziņojums<ref name=rfc792/>{{rp|9}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 4
+| colspan="8"| Kods = 0
+| colspan="16"| Kontrolsumma
+|-
+| colspan="32" style="text-align:center;"| nelietots
+|-
+| colspan="32" style="text-align:center;"| IP galvene un pirmie 8 baiti oriģinālo datu
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 4
+:'''Kodam''' jābūt iestatītam uz 0
+:Sūtītājs izmanto '''IP galveni''' un papildu datus, lai saskaņotu atbildi ar saistīto pieprasījumu
+
+===Novirzīšana===
+''Novirzīšanas'' pieprasījumu datu paketes tiek nosūtītas alternatīvā maršrutā. ICMP novirzīšana ir maršrutētāju mehānisms, kas nodrošina maršrutēšanas informāciju resursdatoriem. Ziņojums informē resursdatoru, lai atjauninātu maršruta informāciju (lai nosūtītu paketes alternatīvā maršrutā). Ja resursdators mēģina nosūtīt datus caur [[Maršrutētājs|maršrutētāju]] (R1) un R1 nosūta datus ar citu maršrutētāju (R2) un tiešais ceļš no resursdatora uz R2 ir pieejams (tas ir, resursdators un R2 atrodas vienā Ethernet segmentā), tad R1 nosūtīs novirzīšanas ziņojumu, lai informētu resursdatoru, ka labākais maršruts galamērķim ir pa R2. Pēc tam resursdatoram jānosūta paketes adresātam tieši uz R2. Maršrutētājs joprojām nosūtīs sākotnējo datu failu uz paredzēto galamērķi.<ref>{{Tīmekļa atsauce |url=http://www.cisco.com/en/US/tech/tk365/technologies_tech_note09186a0080094702.shtml |title=When Are ICMP Redirects Sent? |publisher=[[Cisco Systems]] |date=2008-06-28 |accessdate=2013-08-15}}</ref> Tomēr, ja datagramma satur maršruta informāciju, šis ziņojums netiks nosūtīts pat tad, ja būs pieejams labāks maršruts. RFC 1122 nosaka, ka novirzītāji ir jāsūta tikai pa [[Vārteja|vārtejām]], un tos nedrīkst sūtīt interneta saimnieki.
+
+{| class="wikitable"
+|+Novirzīšanas ziņojums<ref name=rfc792/>{{rp|11}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 5
+| colspan="8"| Kods
+| colspan="16"| Kontrolsumma
+|-
+| colspan="32" style="text-align:center;"| IP adrese
+|-
+| colspan="32" style="text-align:center;"| IP galvene un pirmie 8 baiti oriģinālo datu
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 5.
+:'''Kods''' norāda novirzīšanas iemeslu. Var būt viens no šiem:
+::{|class="wikitable"
+|-
+! Kods
+! Apraksts
+|-
+! 0
+| Redirect for Network
+|-
+! 1
+| Redirect for Host
+|-
+! 2
+| Redirect for Type of Service and Network
+|-
+! 3
+| Redirect for Type of Service and Host
+|}
+:'''IP adrese''' ir vārtejas 32 bitu adrese, uz kuru jānosūta novirzīšana.
+:'''IP galvene''' un papildu dati ir iekļauti, lai ļautu resursdatoram saskaņot atbildi ar pieprasījumu, kas izraisīja novirzīšanas atbildi.
+
+===Pārsniegts laiks===
+''Laiku'', kas tiek ''pārsniegts'', ģenerē [[vārteja]], kas informē izbrāķētās datagrammas avotu, jo "dzīvošanas" [[time to live|laiks]], kas vajadzīgs, lai sāktu darbu, sasniedz nulli. Ziņojums, kas pārsniegts laikā, var tikt nosūtīts arī no resursdatora, ja tā laikā neizdodas atkārtoti samontēt [[IP fragmentēšana|fragmentētu]] datagrammu.
+Pārsniegto laiku ziņojumi tiek izmantoti [[traceroute]] utilītā, lai noteiktu ceļa vārtejas starp diviem resursdatoriem.
+
+{| class="wikitable"
+|+Pārsniegtā laika ziņojums<ref name=rfc792/>{{rp|5}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 11
+| colspan="8"| Kods
+| colspan="16"| Kontrolsumma
+|-
+| colspan="32" style="text-align:center;"| nelietots
+|-
+| colspan="32" style="text-align:center;"| IP galvene un pirmie 8 baiti oriģinālo datu
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 11
+:'''Kods''' norāda pārsniegtās laika ziņas iemeslu:
+::{| class="wikitable"
+! Kods || Apraksts
+|-
+! 0
+| [[Time-to-live]] exceeded in transit.
+|-
+! 1
+| Fragment reassembly time exceeded.
+|}
+:'''IP galvene''' un pirmie 64 biti oriģinālajā vērtumā tiek izmantoti avota resursdatorā, lai saskaņotu pārsniegto laiku ar atmesto datagrammu. Augstākā līmeņa protokoliem, piemēram, [[Lietotāja datogrammu protokols|UDP]] un [[Pārraides vadības protokols|TCP]], 64 bitu lietderīgā slodze ietvers izmestās paketes avotu un mērķa portus.
+
+===Laika zīmogs===
+'''Laika zīmogu''' izmanto laika sinhronizācijai. Sākuma [[laika zīmogs]] tiek iestatīts uz laiku (milisekundēs kopš pusnakts), kad sūtītājs pēdējo reizi pieskārās paketei. Saņemšanas un nosūtīšanas laika zīmogi netiek izmantoti.
+
+{| class="wikitable"
+|+Laika zīmoga ziņojums<ref name=rfc792/>{{rp|15}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 13
+| colspan="8"| Kods = 0
+| colspan="16"| Kontrolsumma
+|- style="text-align:center;"
+| colspan="16"| Identifikators
+| colspan="16"| Kārtas numurs
+|-
+| colspan="32" style="text-align:center;"| Izcelsmes laika zīmogs
+|-
+| colspan="32" style="text-align:center;"| Saņemšanas laika zīmogs
+|-
+| colspan="32" style="text-align:center;"| Nosūtīšanas laika zīmogs
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 13
+:'''Kodam''' jābūt iestatītam uz 0
+:Klients var izmantot '''identifikatoru''' un '''secības numuru''', lai saskaņotu laika zīmoga atbildi ar laika zīmoga pieprasījumu.
+:'''Izcelsmes laika zīmogs''' ir milisekunžu skaits kopš Universālā laika ([[Universal Time|UT]]) pusnakts. Ja UT atsauce nav pieejama, visnozīmīgāko bitu var iestatīt, lai norādītu nestandarta laika vērtību.
+
+===Laika zīmoga atbilde===
+''Laika zīmoga atbilde'' atbild uz [[Laika zīmogs|laika zīmoga]] ziņojumu. Tas sastāv no sākuma laika zīmoga, ko nosūta ''laika zīmoga'' sūtītājs, kā arī saņemšanas laika zīmogs, kas norāda ''laika zīmoga'' saņemšanas laiku, un nosūtīšanas laika zīmoga, kas norāda, kad ''laika zīmoga atbilde'' tika nosūtīta.
+
+{| class="wikitable"
+|+Laika zīmogs atbilde<ref name=rfc792/>{{rp|15}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 14
+| colspan="8"| Kods = 0
+| colspan="16"| Kontrolsumma
+|- style="text-align:center;"
+| colspan="16"| Identifikators
+| colspan="16"| Secības numurs
+|-
+| colspan="32" style="text-align:center;"| Izcelsmes laika zīmogs
+|-
+| colspan="32" style="text-align:center;"| Saņemšanas laika zīmogs
+|-
+| colspan="32" style="text-align:center;"| Nosūtīšanas laika zīmogs
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 14
+:'''Kodam''' jābūt iestatītam uz 0
+:Klients var izmantot '''identifikatoru''' un '''secības numuru''', lai saskaņotu atbildi ar pieprasījumu, kas izraisīja atbildi.
+:'''Izcelsmes laika zīmogs''' ir laiks, kad sūtītājs pēdējo reizi ir pieskāries ziņojumam pirms tā nosūtīšanas.
+:'''Saņemšanas laika zīmogs''' ir laiks, kad atbalsis pirmoreiz pieskārās, to saņemot.
+:Raidīšanas laika zīmogs ir laiks, kad atbalsis pēdējo reizi pieskārās ziņojumam, to nosūtot.
+Visi laika zīmogi kopš Universālā laika pusnakts ir milisekundēs. Ja laiks nav pieejams milisekundēs vai to nevar nodrošināt attiecībā uz pusnakti [[Universal Time|UT]], tad jebkuru laiku var ievietot laika zīmogā, ja arī laika zīmoga augstas secības bits ir iestatīts, lai norādītu šo nestandarta vērtību.
+
+===Adreses maskas pieprasījums===
+''Adrešu maskas pieprasījumu'' parasti nosūta [[serveris]] maršrutētājam, lai iegūtu atbilstošu apakštīkla masku.
+Adresātiem uz šo ziņojumu ir jāatbild ar ''[[#Adreses maskas atbilde|adreses maskas atbildes]]'' ziņojumu.
+
+{| class="wikitable"
+|+Address mask request
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 17
+| colspan="8"| Kods = 0
+| colspan="16"| Kontrolsumma
+|- style="text-align:center;"
+| colspan="16"| Identifikators
+| colspan="16"| Secības numurs
+|-
+| colspan="32" style="text-align:center;"| Adreses maska
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 17
+:'''Kodam''' jābūt iestatītam uz 0
+:'''Adreses masku''' var iestatīt uz 0
+
+ICMP adrešu maskas pieprasījumu var izmantot kā daļu no izlūkošanas uzbrukuma, lai apkopotu informāciju par mērķa tīklu, tāpēc ICMP adrešu maskas atbilde pēc noklusējuma ir atspējota Cisco IOS.<ref>{{Tīmekļa atsauce |url=http://www.cisco.com/en/US/docs/ios/12_3/ipaddr/command/reference/ip1_i2g.html |title=Cisco IOS IP Command Reference, Volume 1 of 4: Addressing and Services, Release 12.3 - IP Addressing and Services Commands: ip mask-reply through ip web-cache |publisher=[[Cisco Systems]] |accessdate=2013-01-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20130102124241/http://www.cisco.com/en/US/docs/ios/12_3/ipaddr/command/reference/ip1_i2g.html#wp1078496 |archivedate=2013-01-02 |df= }}</ref>
+
+===Adreses maskas atbilde===
+''Adreses maskas atbildi'' izmanto, lai atbildētu uz adreses maskas pieprasījuma ziņojumu ar atbilstošu apakštīkla masku.
+
+{| class="wikitable"
+|+Adreses maskas atbilde
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 18
+| colspan="8"| Kods = 0
+| colspan="16"| Kontrolsumma
+|- style="text-align:center;"
+| colspan="16"| Identifikators
+| colspan="16"| Secības numurs
+|-
+| colspan="32" style="text-align:center;"| Adreses maska
+|}
+
+Kur:
+:'''Tipam''' jābūt iestatītam uz 18
+:'''Kodam''' jābūt iestatītam uz 0
+:'''Adreses maska''' jāiestata uz apakštīkla masku
+
+===Galamērķis nav sasniedzams===
+''Galamērķi'', kas ''nav sasniedzams'', ģenerē resursdators vai tā ienākošā vārteja,<ref name=rfc792/> lai informētu klientu, ka galamērķis kāda iemesla dēļ nav sasniedzams. Mērķa nesasniedzams ziņojums var tikt ģenerēts TCP vai UDP rezultātā. Nesasniedzamie [[Pārraides vadības protokols|TCP]] porti jo īpaši reaģē ar '''TCP RST''' (RST - (Reset) aiztaisa savienojumu piespiedu kārtā, šo lieto arī lai atteiktu savienojumu), nevis galamērķi, kas nav sasniedzams 3. tipam, kā varētu cerēt.
+
+Kļūda netiks ģenerēta, ja sākotnējam datu avotam ir [[Tilta apraide un multiraide|multiraides]] galamērķa adrese. Šī ziņojuma iemesli var būt šādi: fiziskais savienojums ar resursdatoru nepastāv (attālums ir bezgalīgs); norādītais protokols vai ports nav aktīvs; datiem jābūt fragmentētiem, bet karodziņš 'nefragmentēt' ir ieslēgts.
+
+{| class="wikitable"
+|+Nesasniedzamā galamērķa ziņojums<ref name=rfc792/>{{rp|3}}
+! 00 || 01 || 02 || 03 || 04 || 05 || 06 || 07
+! 08 || 09 || 10 || 11 || 12 || 13 || 14 || 15
+! 16 || 17 || 18 || 19 || 20 || 21 || 22 || 23
+! 24 || 25 || 26 || 27 || 28 || 29 || 30 || 31
+|- style="text-align:center;"
+| colspan="8"| Tips = 3
+| colspan="8"| Kods
+| colspan="16"| Kontrolsumma
+|- style="text-align:center;"
+| colspan="16"| nelietots
+| colspan="16"| ''Next-hop'' MTU
+|-
+| colspan="32" style="text-align:center;"| IP galvene un pirmie 8 baiti oriģinālo datu
+
+|}
+
+Kur:
+:'''Tipa''' laukam (Biti 0-7) jābūt iestatītam uz 3
+:'''Koda''' lauku (8. –15. biti) izmanto, lai norādītu kļūdas tipu, un tas var būt:
+::{| class="wikitable"
+! Kods || Apraksts
+|-
+! 0
+| Network unreachable error.
+|-
+! 1
+| Host unreachable error.
+|-
+! 2
+| Protocol unreachable error (the designated transport protocol is not supported).
+|-
+! 3
+| Port unreachable error (the designated protocol is unable to inform the host of the incoming message).
+|-
+! 4
+| The datagram is too big. Packet fragmentation is required but the 'don't fragment' (DF) flag is on.
+|-
+! 5
+| Source route failed error.
+|-
+! 6
+| Destination network unknown error.
+|-
+! 7
+| Destination host unknown error.
+|-
+! 8
+| Source host isolated error.
+|-
+! 9
+| The destination network is administratively prohibited.
+|-
+! 10
+| The destination host is administratively prohibited.
+|-
+! 11
+| The network is unreachable for Type Of Service.
+|-
+! 12
+| The host is unreachable for Type Of Service.
+|-
+! 13
+| Communication administratively prohibited (administrative filtering prevents packet from being forwarded).
+|-
+! 14
+| Host precedence violation (indicates the requested precedence is not permitted for the combination of host or network and port).
+|-
+! 15
+| Precedence cutoff in effect (precedence of datagram is below the level set by the network administrators).
+|}
+:''' ''Next-hop'' MTU''' laukā (48. –63. biti) ir next-hop tīkla MTU, ja rodas 4. koda kļūda.
+(''Next-hop'' - nākamais tuvākais maršrutētājs, kuram var tikt izmantota pakete) 
+:Ir iekļauta '''IP galvene''' un papildu dati, kas ļauj klientam saskaņot atbildi ar pieprasījumu, kas izraisīja mērķa nesasniedzamo atbildi.
+
+==Skatīt arī==
+{{Div col|colwidth=25em}}
+* [[Ping ir datortīkla utilītprogramma|Ping]]
+{{div col end}}
+
+==Atsauces==
+{{Reflist|30em}}
+
+==RFCs==
+* RFC 792, ''Internet Control Message Protocol''
+* RFC 950, ''Internet Standard Subnetting Procedure''
+* RFC 1016, ''Something a Host Could Do with Source Quench: The Source Quench Introduced Delay (SQuID)''
+* RFC 1122, ''Requirements for Internet Hosts – Communication Layers''
+* RFC 1716, ''Towards Requirements for IP Routers''
+* RFC 1812, ''Requirements for IP Version 4 Routers''
+
+== Ārējās saites ==
+* [http://www.iana.org/assignments/icmp-parameters IANA ICMP Parameters]
+* [http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml IANA protocol numbers]
+* [http://support.microsoft.com/kb/195686 Explanation of ICMP Redirect Behavior]
+
+[[Kategorija:TCP/IP]]

@@ -1,0 +1,51 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Bitlisas ils
+| official_name = ''Bitlis ili''
+| image_skyline = Ancient tombstones in the historical cemetery of Selcuk Turks from 12th century, in the town of Ahlat, Turkey.jpg
+| imagesize = 
+| image_caption = Ahlatas 12. gadsimta seldžuku kapsēta
+| settlement_type = [[Turcijas administratīvais iedalījums|ils]]
+| total_type = Kopā
+| image_flag = 
+| image_shield =
+| image_map = Bitlis in Turkey.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{TUR}}
+| subdivision_type1 = Reģions
+| subdivision_name1 = Austrumanatolija
+| subdivision_type2 = Subreģions
+| subdivision_name2 = Vana
+| area_total_km2 = 8294
+| population_total = 338023
+| population_as_of = 2021
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = | latm = | lats =| latNS = 
+| longd = | longm = | longs =| longEW = 
+| seat_type = Centrs
+| seat = [[Bitlisa]]
+| parts_type = Ilčes
+| parts = 7
+| p1 = Adildževaza
+| p2 = Ahlata
+| p3 = Bitlisa
+| p4 = Girojmaka
+| p5 = Hizana
+| p6 = Mutki
+| p7 = Tatvana
+| website = {{URL|http://www.bitlis.gov.tr/}}
+}}
+
+'''Bitlisas ils''' ({{val|tr|Bitlis ili}}) ir [[Turcija]]s pirmās pakāpes administratīvā iedalījuma vienība. Atrodas valsts austrumdaļā [[Armēnijas kalniene|Armēnijas kalnienē]] [[Vana ezers|Vana ezera]] rietumu krastā. Ila teritorija ir daļa no vēsturiskās armēņu apdzīvotās teritorijas, mūsdienās — daļa no [[Turcijas Kurdistāna]]s.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Turcija-aizmetnis}}
+
+{{Turcijas provinces}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bitlisas ils| ]]

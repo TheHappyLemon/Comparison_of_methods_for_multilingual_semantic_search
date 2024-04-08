@@ -1,0 +1,149 @@
+{{Futbola kluba infokaste
+| text_color = #000000
+| bg_color = #FFD700
+| nos = FK Smiltene/BJSS
+| logo = [[Attēls:FK Smiltene.png|190px]]
+| pilns = Futbola klubs "Smiltene"/BJSS
+| pilsēta = {{Vieta|Latvija|Smiltene}}
+| dib = 2000
+| dib_com = (kā FK Abuls)
+| stad = [[Tepera stadions]]
+| ietilp = 
+| prez = 
+| tren = {{flaga|Latvija}} [[Normunds Zvejnieks]]
+| līga = [[Latvijas futbola 1. līga|1. līga]]
+| sez = [[2023. gada Latvijas futbola 1. līgas sezona|2023.]]
+| poz = 12. vieta
+| mediji = [http://www.fksmiltene.lv/ Oficiālā vietne]
+| pattern_la1 = 
+| pattern_b1 = 
+| pattern_ra1 = 
+| leftarm1 = ed0505
+| body1 = ed0505
+| rightarm1 = ed0505
+| shorts1 = ed0505
+| socks1 = ed0505
+| pattern_la2 = 
+| pattern_b2 = 
+| pattern_ra2 = 
+| leftarm2 = ed0505
+| body2 = ed0505
+| rightarm2 = ed0505
+| shorts2 = 000000
+| socks2 = ed0505|
+}}
+'''FK Smiltene/BJSS''' ir [[Latvija]]s [[futbols|futbola]] klubs no [[Smiltene]]s, kas pašlaik spēlē Latvijas čempionāta [[Latvijas futbola 1. līga|1. līgā]]. Klubs dibināts [[2000. gads|2000]]. gadā kā Smiltenes futbola klubs "Abuls". 2010. gadā tika mainīts nosaukums uz FK Smiltene.<ref>{{Tīmekļa atsauce|url=http://www.fksmiltene.lv/?page_id=150|title=Klubs|accessdate={{dat|2016|04|18||bez}}|publisher=FK Smiltene/BJSS|archiveurl=https://web.archive.org/web/20160331193213/http://www.fksmiltene.lv/?page_id=150|archivedate={{dat|2016|03|31||bez}}}}</ref> Mājas spēles aizvada [[Tepera stadions|Tepera stadionā]].
+
+== Iegūtās vietas Latvijas čempionātā ==
+<timeline>
+ImageSize = width:750 height:60
+PlotArea = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period = from:01/07/1999 till:01/07/2018
+ScaleMajor = unit:year increment:1 start:2000 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)
+  id:bl3  value:rgb(0.9,0.5,0.5)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|6]]
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|5]]
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|1]]
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|5]]
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|2]]
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|1]]
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:[[Latvijas futbola 1. līga 2006|16]]
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:[[Latvijas futbola 1. līga 2007|15]]
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:[[Latvijas futbola 1. līga 2008|15]]
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|11]]
+  from:01/07/2009 till:01/07/2010  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|6]]
+  from:01/07/2010 till:01/07/2011  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|3]]
+  from:01/07/2011 till:01/07/2012  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|5]]
+  from:01/07/2012 till:01/07/2013  shift:(0,-4) text:[[Vidzemes čempionāts futbolā|1]]
+  from:01/07/2013 till:01/07/2014  shift:(0,-4) text:[[Latvijas futbola 1. līga 2014|14]]
+  from:01/07/2014 till:01/07/2015  shift:(0,-4) text:[[Latvijas futbola 1. līga 2015|15]]
+  from:01/07/2015 till:01/07/2016  shift:(0,-4) text:[[Latvijas futbola 1. līga 2016|7]]
+  from:01/07/2016 till:01/07/2017  shift:(0,-4) text:[[2017. gada Latvijas futbola 1. līgas sezona|8]]
+  from:01/07/2017 till:01/07/2018  shift:(0,-4) text:[[2018. gada Latvijas futbola 1. līgas sezona|7]]
+
+  from:01/07/1999 till:01/07/2005  color:bl3  shift:(0,13)  text: "[[Vidzemes čempionāts futbolā|2. līga (Vidzeme)]]"
+  from:01/07/2005 till:01/07/2008  color:bl2  shift:(0,13)  text: "[[Latvijas futbola 1. līga|1. līga]]"
+  from:01/07/2008 till:01/07/2013  color:bl3  shift:(0,13)  text: "[[Vidzemes čempionāts futbolā|2. līga (Vidzeme)]]"
+  from:01/07/2013 till:01/07/2018  color:bl2  shift:(0,13)  text: "[[Latvijas futbola 1. līga|1. līga]]"
+</timeline>
+
+== Latvijas kausa izcīņā ==
+* [[2007. gads|2007]] - 2. kārta (→ 3. kārta → astotdaļfināls)
+* [[2006. gads|2006]] - 3. kārta (→ astotdaļfināls)
+* [[2021. gads|2021]] - 3. kārta (→ astotdaļfināls)
+
+== Komandas sastāvs ==
+:''{{dat|2017|4|27||bez}}.''<ref>{{Tīmekļa atsauce |url=http://online.lff.lv/clubs/fk-smiltenebjss-11936/ |title=FK Smiltene/BJSS |accessdate={{dat|2017|4|27||bez}} |publisher=[[Latvijas Futbola federācija|LFF]] |archiveurl=https://web.archive.org/web/20170414203132/http://online.lff.lv/clubs/fk-smiltenebjss-11936/ |archivedate={{dat|2017|04|14||bez}} }}</ref>
+{{Fs start}}
+{{Fs player | no=|nat=LAT| pos=GK| name=Toms Mežulis}}
+{{Fs player | no=|nat=LAT| pos=GK| name=Dagnis Sausais|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Eduards Deičs}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Dāvis Gaigals}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Reinholds Klots}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Kristaps Kuprišs}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Mārtiņš Rakštelis}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Rūdis Rozītis}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Artūrs Stūris}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Eduards Veģeris}}
+{{Fs player | no=|nat=LAT| pos=DF| name=Dairis Zariņš}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Jurģis Dudelis}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Eduards Emulovs}}
+{{Fs mid}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Jānis Mežiels}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Mairis Paeglis}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Jānis Priede}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Kristers Aldis Puriņš}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Reinis Putrālis}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Ričards Rullis}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Valters Valts Siliņš}}
+{{Fs player | no=|nat=LAT| pos=MF| name=Eduards Stīpnieks}}
+{{Fs player | no=|nat=LAT| pos=FW| name=Edgars Jansons}}
+{{Fs player | no=|nat=LAT| pos=FW| name=Rinalds Kaņipovs}}
+{{Fs player | no=|nat=LAT| pos=FW| name=Kristaps Ozols}}
+{{Fs player | no=|nat=LAT| pos=FW| name=Kārlis Rozītis}}
+{{Fs player | no=|nat=LAT| pos=FW| name=Elvis Teremko}}
+{{Fs end}}
+
+== Komandas personāls ==
+{| class="wikitable"
+! Amats
+! Vārds, uzvārds
+|- 
+| Galvenais treneris
+| {{flaga|Latvija}} [[Normunds Zvejnieks]]
+|-
+| Trenera asistents
+| {{flaga|Latvija}} 
+|-
+| Valdes loceklis
+| {{flaga|Latvija}} Uldis Rudzītis
+|-
+| Ārsts
+| {{flaga|Latvija}} Agrita Nulle
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20160430211042/http://www.fksmiltene.lv/ Oficiālā vietne]
+* [https://twitter.com/FKSmiltene/ Kluba oficiālais konts vietnē "Twitter"]
+* [http://www.lff.lv/ Latvijas Futbola federācija]
+
+{{futbols-stub}}
+{{Latvijas futbola 1. līga}}
+{{Latvijas futbola 1. līgas sezonas}}
+
+[[Kategorija:Latvijas futbola klubi|Smiltene/BJSS]]
+[[Kategorija:Smiltene]]

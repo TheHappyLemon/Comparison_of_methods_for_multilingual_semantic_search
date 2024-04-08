@@ -1,0 +1,19 @@
+<div style="float:left;border:solid #6ef7a7 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#c5fcdc"><tr>
+<td style="width:45px;height:45px;background:#6ef7a7;text-align:center;font-size:14pt">'''[[Jaungrieķu valoda|el]]'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em"> Αυτός ο χρήστης έχει ως '''[[:Kategorija:User el-N|μητρική γλώσσα]]''' την '''[[:Kategorija:User el|Ελληνική]]'''.
+</td>
+</tr></table></div><includeonly>
+[[Kategorija:User el|{{PAGENAME}}]]
+[[Kategorija:User el-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User el]]
+* [[:Kategorija:User el-N]]
+
+[[Kategorija:Valodu lietotāju veidnes|el]]
+
+</noinclude>

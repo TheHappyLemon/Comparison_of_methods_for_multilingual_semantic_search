@@ -1,0 +1,129 @@
+[[Attēls:Europe-Ukraine (disputed territory).svg|250px|thumbnail|[[Ukraina]]s novietojums]]
+'''[[Ukraina]]s administratīvo iedalījumu''' veido 27 reģioni:<ref>[https://web.archive.org/web/20160304212744/http://zakon3.rada.gov.ua/laws/show/156-19/paran6#n14 ЗАКОН УКРАЇНИ Про засади державної регіональної політики (Відомості Верховної Ради (ВВР), 2015, № 13, ст.90)]</ref> 24 apgabali ({{val|uk|область}}), 1 autonomā republika ({{val|uk|Автономна Республіка}}) un 2 pilsētas ar speciālu statusu ({{val|uk|місто зі спеціальним статусом}}). Kopš 2014. gada [[Krievija]] ir okupējusi [[Krimas Autonomā Republika|Krimas Autonomo Republiku]] un [[Sevastopole|Sevastopoli]], taču ''de iure'' tās vēl joprojām ir [[Ukraina]]s sastāvdaļa. Apgabali un autonomā republika sīkāk iedalās 136 [[Ukrainas rajoni|rajonos]] (''район'') un 1469 pašpārvaldes [[Ukrainas teritoriālās kopienas|teritoriālās kopienās]] (''територіальна громада'').
+
+== Administratīvo līmeņu shēma ==
+{| class="wikitable"
+! Augstākais līmenis !! Vidējais līmenis !! Primārais līmenis
+|-
+| 24 apgabali,<br />1 autonomā republika,<br />2 pilsētas ar speciālu statusu || 136 rajoni || 409 pilsētu kopienas,<br />435 ciematu kopienas,<br />625 lauku kopienas
+|}
+
+== Pirmā līmeņa administratīvais iedalījums ==
+{| width=650px align=center
+|-
+|
+{{Image label begin|image=Ukraine adm location map improved.svg|width=650|float=none}}
+{{Image label small|x=0.06|y=0.33|scale=650|text=[[Aizkarpatu apgabals|Aizkarpatu<br />apgabals]]}}
+{{Image label small|x=0.5|y=0.27|scale=650|text=[[Čerkasu apgabals|Čerkasu<br />apgabals]]}}
+{{Image label small|x=0.51|y=0.12|scale=650|text=[[Čerņihivas apgabals|Čerņihivas<br />apgabals]]}}
+{{Image label small|x=0.21|y=0.35|scale=650|text=[[Čerņivcu apgabals|Čerņivcu<br />apgabals]]}}
+{{Image label small|x=0.65|y=0.33|scale=650|text=[[Dņipropetrovskas apgabals|Dņipropetrovskas<br />apgabals]]}}
+{{Image label small|x=0.82|y=0.36|scale=650|text=[[Doneckas apgabals|Doneckas<br />apgabals]]}}
+{{Image label small|x=0.76|y=0.24|scale=650|text=[[Harkivas apgabals|Harkivas<br />apgabals]]}}
+{{Image label small|x=0.61|y=0.47|scale=650|text=[[Hersonas apgabals|Hersonas<br />apgabals]]}}
+{{Image label small|x=0.25|y=0.25|scale=650|text=[[Hmeļnickas apgabals|Hmeļnickas<br />apgabals]]}}
+{{Image label small|x=0.11|y=0.31|scale=650|text=[[Ivanofrankivskas apgabals|Ivanofrankivskas<br />apgabals]]}}
+{{Image label small|x=0.44|y=0.22|scale=650|text=[[Kijivas apgabals|Kijivas<br />apgabals]]}}
+{{Image label small|x=0.51|y=0.33|scale=650|text=[[Kirovohradas apgabals|Kirovohradas<br />apgabals]]}}
+{{Image label small|x=0.88|y=0.3|scale=650|text=[[Luhanskas apgabals|Luhanskas<br />apgabals]]}}
+{{Image label small|x=0.10|y=0.22|scale=650|text=[[Ļvivas apgabals|Ļvivas<br />apgabals]]}}
+{{Image label small|x=0.51|y=0.41|scale=650|text=[[Mikolajivas apgabals|Mikolajivas<br />apgabals]]}}
+{{Image label small|x=0.44|y=0.46|scale=650|text=[[Odesas apgabals|Odesas<br />apgabals]]}}
+{{Image label small|x=0.61|y=0.22|scale=650|text=[[Poltavas apgabals|Poltavas<br />apgabals]]}}
+{{Image label small|x=0.24|y=0.14|scale=650|text=[[Rivnes apgabals|Rivnes<br />apgabals]]}}
+{{Image label small|x=0.63|y=0.13|scale=650|text=[[Sumu apgabals|Sumu<br />apgabals]]}}
+{{Image label small|x=0.18|y=0.26|scale=650|text=[[Ternopiļas apgabals|Ternopiļas<br />apgabals]]}}
+{{Image label small|x=0.35|y=0.3|scale=650|text=[[Vinnicas apgabals|Vinnicas<br />apgabals]]}}
+{{Image label small|x=0.16|y=0.13|scale=650|text=[[Volīnijas apgabals|Volīnijas<br />apgabals]]}}
+{{Image label small|x=0.71|y=0.42|scale=650|text=[[Zaporižjas apgabals|Zaporižjas<br />apgabals]]}}
+{{Image label small|x=0.33|y=0.15|scale=650|text=[[Žitomiras apgabals|Žitomiras<br />apgabals]]}}
+{{Image label small|x=0.46|y=0.18|scale=650|text='''[[Kijiva]]'''}}
+{{Image label small|x=0.58|y=0.64|scale=650|text=''[[Sevastopole]]''}}
+{{Image label small|x=0.64|y=0.57|scale=650|text=''[[Krimas Autonomā Republika|Krimas<br />Autonomā<br />Republika]]''}}
+{{Image label end}}
+|}
+
+=== Pilsētas ar speciālu statusu ===
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Pilsēta !! Nosaukums<br />ukraiņu valodā !! Platība !! Iedzīvotāju skaits<br />(2021) !! ISO 3166-2
+|-
+| [[Attēls:Kiev (city) in Ukraine.svg|100px]] || [[Attēls:Flag of Kyiv Kurovskyi.svg|70px]] || [[Attēls:COA of Kyiv Kurovskyi.svg|40px]] || '''[[Kijiva]]''' || ''Київ'' || {{nts|839}} || {{nts|2962180}}|| UA-30
+|-
+| [[Attēls:Sevastopol in Ukraine.svg|100px]] || [[Attēls:Sevastopol-flag.gif|70px]] || [[Attēls:COA of Sevastopol.svg|45px]] || '''[[Sevastopole]]'''† || ''Севастополь'' || {{nts|864}} || {{nts|509992}}|| UA-40
+|}
+† — Sevastopole ir [[Ukraina]]s sastāvdaļa, kuru 2014. gadā okupēja [[Krievija]].
+
+=== Autonomā Republika ===
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Autonomā Republika !! Nosaukums<br />ukraiņu valodā !! Administratīvais<br />centrs !! Platība !! Iedzīvotāju skaits<br />(2014)<ref name="I.2014">Укрстат: [http://ukrstat.org/operativ/operativ2014/ds/kn/kn_r/kn0314_r.html Численность населения на 1 марта 2014 года и средняя численность за январь-февраль 2014 года] {{Webarchive|url=https://web.archive.org/web/20160304104130/http://ukrstat.org/operativ/operativ2014/ds/kn/kn_r/kn0314_r.html |date={{dat|2016|03|04||bez}} }}</ref> !! Rajoni !! Teritoriālās kopienas !! ISO 3166-2
+|-
+| [[Attēls:Crimea in Ukraine.svg|100px]] || [[Attēls:Flag of Crimea.svg|70px]] || [[Attēls:Emblem of Crimea.svg|45px]] || '''[[Krimas Autonomā Republika]]'''† || ''Автономна Республіка Крим'' || [[Simferopole]] || {{nts|26081}} || {{nts|1957801}} || 10 (14) || - || UA-43
+|}
+† — Krimas Autonomā Republika ir [[Ukraina]]s daļa, kuru 2014. gadā okupēja [[Krievija]].
+
+=== Apgabali ===
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Apgabals !! Nosaukums<br />ukraiņu valodā !! Administratīvais<br />centrs !! Platība !! Iedzīvotāju skaits<br />(2021) !! Rajoni !! Teritoriālās kopienas !! ISO 3166-2
+|-
+| [[Attēls:Zakarpattia in Ukraine.svg|100px]] || [[Attēls:Flag of Transcarpathian Oblast.png|70px]] || [[Attēls:CarpathianRutheniaCoA.svg|40px]] || '''[[Aizkarpatu apgabals]]''' || ''Закарпатська область'' || [[Užhoroda]] || {{nts|12777}} || 1 250 129 || 6 || 64 || UA-21
+|-
+| [[Attēls:Cherkasy in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Cherkasy Oblast.png|70px]] || [[Attēls:Coat of Arms of Cherkasy Oblast.svg|40px]] || '''[[Čerkasu apgabals]]''' || ''Черкаська область'' || [[Čerkasi]] || {{nts|20900}} || {{nts|1178266}}|| 4 || 66 || UA-71
+|-
+| [[Attēls:Chernihiv in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Chernihiv Oblast.svg|70px]] || [[Attēls:Coat of Arms of Chernihiv Oblast.svg|40px]] || '''[[Čerņihivas apgabals]]''' || ''Чернігівська область'' || [[Čerņihiva]] || {{nts|31865}} || {{nts|976701}}|| 5 || 57 || UA-74
+|-
+| [[Attēls:Chernivtsi in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Chernivtsi Oblast.svg|70px]] || [[Attēls:Coat of Arms of Chernivtsi Oblast.svg|40px]] || '''[[Čerņivcu apgabals]]''' || ''Чернівецька область'' || [[Čerņivci]] || {{nts|8097}} || {{nts|896566}}|| 3 || 52 || UA-77
+|-
+| [[Attēls:Dnipropetrovsk in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Dnipropetrovsk Oblast.svg|70px]] || [[Attēls:Middle Coat of Arms of Dnipropetrovsk Oblast.svg|40px]] || '''[[Dņipropetrovskas apgabals]]''' || ''Дніпропетровська область'' || [[Dņipro]] || {{nts|31914}} || {{nts|3142035}}|| 7 || 86 || UA-12
+|-
+| [[Attēls:Donetsk in Ukraine.svg|100px]] || [[Attēls:Flag of Donetsk Oblast.svg|70px]] || [[Attēls:Coat of Arms of Donetsk Oblast 1999.svg|40px]] || '''[[Doneckas apgabals]]*''' || ''Донецька область'' || [[Donecka]] || {{nts|26517}} || {{nts|4100280}}|| 8 || 66 || UA-14
+|-
+| [[Attēls:Kharkiv in Ukraine.svg|100px]] || [[Attēls:Flag of Kharkiv Oblast.svg|70px]] || [[Attēls:COA of Kharkiv Oblast.svg|40px]] || '''[[Harkivas apgabals]]''' || ''Харківська область'' || [[Harkiva]] || {{nts|31415}} || {{nts|2633834}}|| 7 || 56 || UA-63
+|-
+| [[Attēls:Kherson in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Kherson Oblast.svg|70px]] || [[Attēls:Coat of Arms of Kherson Oblast.svg|40px]] || '''[[Hersonas apgabals]]''' || ''Херсонська область'' || [[Hersona]] || {{nts|28461}} || {{nts|1016707}}|| 5 || 49 || UA-65
+|-
+| [[Attēls:Khmelnytskyi in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Khmelnytskyi Oblast.svg|70px]] || [[Attēls:Coat of Arms of Khmelnytskyi Oblast.svg|40px]] || '''[[Hmeļnickas apgabals]]''' || ''Хмельницька область'' || [[Hmeļnicka]] || {{nts|20629}} || {{nts|1243787}}|| 3 || 60 || UA-68
+|-
+| [[Attēls:Ivano-Frankivsk in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Ivano-Frankivsk Oblast2.svg|70px]] || [[Attēls:Coat of Arms of Ivano-Frankivsk Oblast.svg|40px]] || '''[[Ivanofrankivskas apgabals]]''' || ''Івано-Франківська область'' || [[Ivanofrankivska]] || {{nts|13928}} || {{nts|1361109}}|| 6 || 62 || UA-26
+|-
+| [[Attēls:Kiev (oblast) in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Kiev Oblast.svg|70px]] || [[Attēls:Coat of Arms of Kyiv Oblast.png|40px]] || '''[[Kijivas apgabals]]''' || ''Київська область'' || [[Kijiva]] || {{nts|28131}} || {{nts|1788530}}|| 7 || 69 || UA-32
+|-
+| [[Attēls:Kirovohrad in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Kirovohrad Oblast.svg|70px]] || [[Attēls:Coat of Arms of Kirovohrad Oblast.svg|40px]] || '''[[Kirovohradas apgabals]]''' || ''Кіровоградська область'' || [[Kropivnicka]] || {{nts|24588}} || {{nts|920128}}|| 4 || 49 || UA-35
+|-
+| [[Attēls:Luhansk in Ukraine.svg|100px]] || [[Attēls:Flag of Luhansk Oblast.svg|70px]] || [[Attēls:Coat of Arms Luhansk Oblast.svg|40px]] || '''[[Luhanskas apgabals]]'''* || ''Луганська область'' || [[Luhanska]] || {{nts|26684}} || {{nts|2121322}}|| 8 || 37 || UA-09
+|-
+| [[Attēls:Lviv in Ukraine.svg|100px]] || [[Attēls:Flag of Lviv Oblast.svg|70px]] || [[Attēls:Герб Львовской области.png|40px]] || '''[[Ļvivas apgabals]]''' || ''Львівська область'' || [[Ļviva]] || {{nts|21833}} || {{nts|2497750}}|| 7 || 73 || UA-46
+|-
+| [[Attēls:Mykolaiv in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Mykolaiv Oblast.svg|70px]] || [[Attēls:Coat of Arms of Mykolaiv Oblast.svg|40px]] || '''[[Mikolajivas apgabals]]''' || ''Миколаївська область'' || [[Mikolajiva]] || {{nts|24598}} || {{nts|1108394}}|| 4 || 52 || UA-48
+|-
+| [[Attēls:Odessa in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Odesa Oblast.svg|70px]] || [[Attēls:Coat of Arms of Odesa Oblast.svg|40px]] || '''[[Odesas apgabals]]''' || ''Одеська область'' || [[Odesa]] || {{nts|33310}} || {{nts|2368107}}|| 7 || 91 || UA-51
+|-
+| [[Attēls:Poltava in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Poltava Oblast.svg|70px]] || [[Attēls:Coat of Arms of Poltava Oblast.svg|40px]] || '''[[Poltavas apgabals]]''' || ''Полтавська область'' || [[Poltava]] || {{nts|28748}} || {{nts|1371529}}|| 4 || 61 || UA-53
+|-
+| [[Attēls:Rivne in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Rivne Oblast.svg|70px]] || [[Attēls:Coat of Arms of Rivne Oblast.svg|40px]] || '''[[Rivnes apgabals]]''' || ''Рівненська область'' || [[Rivne]] || {{nts|20047}} || {{nts|1148456}}|| 4 || 64 || UA-56
+|-
+| [[Attēls:Sumy in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Sumy Oblast.svg|70px]] || [[Attēls:Coat of Arms of Sumy Oblast.svg|40px]] || '''[[Sumu apgabals]]''' || ''Сумська область'' || [[Sumi]] || {{nts|23834}} || {{nts|1053452}}|| 5 || 51 || UA-59
+|-
+| [[Attēls:Ternopil in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Ternopil Oblast.svg|70px]] || [[Attēls:Coat of Arms of Ternopil Oblast.svg|40px]] || '''[[Ternopiļas apgabals]]''' || ''Тернопільська область'' || [[Ternopiļa]] || {{nts|13823}} || {{nts|1030562}}|| 3 || 55 || UA-61
+|-
+| [[Attēls:Vinnytsia in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Vinnytsia Oblast.svg|70px]] || [[Attēls:Coat of Arms of Vinnytsa Oblast.svg|40px]] || '''[[Vinnicas apgabals]]''' || ''Вінницька область'' || [[Vinnica]] || {{nts|26513}} || {{nts|1529123}}|| 6 || 63 || UA-05
+|-
+| [[Attēls:Volyn in Ukraine (claims hatched).svg|100px]] || [[Attēls:Volyn flag.svg|70px]] || [[Attēls:Coat of Arms of Volyn Oblast.svg|40px]] || '''[[Volīnijas apgabals]]''' || ''Волинська область'' || [[Lucka]] || {{nts|20143}} || {{nts|1027397}}|| 4 || 54 || UA-07
+|-
+| [[Attēls:Zaporizhia in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Zaporizhia Oblast.svg|70px]] || [[Attēls:Coat of arms of Zaporizhia Oblast.svg|40px]] || '''[[Zaporižjas apgabals]]''' || ''Запорізька область'' || [[Zaporižja]] || {{nts|27180}} || {{nts|1666515}}|| 5 || 67 || UA-23
+|-
+| [[Attēls:Zhytomyr in Ukraine (claims hatched).svg|100px]] || [[Attēls:Flag of Zhytomyr Oblast.svg|70px]] || [[Attēls:Coat of Arms of Zhytomyr Oblast.svg|40px]] || '''[[Žitomiras apgabals]]''' || ''Житомирська область'' || [[Žitomira]] || {{nts|29832}} || {{nts|1195495}}|| 4 || 65 || UA-18
+|}
+
+* Daļu no Doneckas, Hersonas, Luhanskas uz Zaporižjas apgabaliem okupēja un anektēja Krievija.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Eiropas valstu administratīvie iedalījumi}}
+{{Ukrainas administratīvais iedalījums}}
+
+[[Kategorija:Ukrainas administratīvais iedalījums| ]]
+[[Kategorija:Valstu administratīvais iedalījums]]

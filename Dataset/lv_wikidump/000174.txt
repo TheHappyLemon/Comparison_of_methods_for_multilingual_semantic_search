@@ -1,0 +1,65 @@
+[[Attēls:Ada lovelace.jpg|thumb|[[Ada Lavleisa]] izstrādāja pirmo [[algoritms|algoritmu]] ar lietojumu datorsistēmās]]
+
+'''Datorzinātne''' pēta [[informācija]]s un [[skaitļošana]]s teorētiskos pamatus, kā arī praktiskas metodes teorētisko pamatu ieviešanā un lietošanā [[Datorsistēma|datorsistēmās]].<ref>"''Computer science is the study of information''" [https://web.archive.org/web/20090529005415/http://www.njit.edu/v2/archivecatalog/undergraduate/91/19-und.html Department of Computer and Information Science], Guttenberg Information Technologies Center</ref><ref>"''Computer science is the study of computation.''" [http://www.csbsju.edu/computerscience/curriculum Computer Science Department, College of Saint Benedict] {{Webarchive|url=https://web.archive.org/web/20070203190237/http://www.csbsju.edu/computerscience/curriculum/ |date={{dat|2007|02|03||bez}} }}, Saint John's University</ref><ref>"''Computer Science is the study of all aspects of computer systems, from the theoretical foundations to the very practical aspects of managing large software projects.''" [http://study.massey.ac.nz/major.asp?major_code=2010&prog_code=93068 Massey University] {{Webarchive|url=https://web.archive.org/web/20060619125916/http://study.massey.ac.nz/major.asp?major_code=2010&prog_code=93068 |date={{dat|2006|06|19||bez}} }}</ref>
+
+Datorzinātne nereti tiek jaukta ar nozarēm, kurās noris darbs ar [[Dators|datoru]], piemēram, [[informācijas tehnoloģijas|informācijas tehnoloģijām]], — tiek domāts, ka tā ir saistīta ar tādām nodarbēm kā datorspēļu spēlēšana, interneta pārlūkošana vai rakstīšana ar teksta redaktoru.<ref>"''Common myths and preconceptions about Cambridge Computer Science''"[https://web.archive.org/web/20101227044526/http://www.cl.cam.ac.uk/admissions/undergraduate/myths/ Computer Laboratory], University of Cambridge</ref> Nīderlandes datorzinātnieks [[Edsgers Deikstra]] ir teicis: "Datorzinātne ir par datoriem tikpat, cik astronomija ir par teleskopiem",<ref>{{Atsauce
+ | last1=Brookshear
+ | first1=J Glenn
+ | year=1997
+ | title=Computer Science: An Overview
+ | publisher=Addison-Wesley
+ | edition=5th
+}}</ref> tā norādot, ka dators ir vien instruments, ar kuru strādā datorzinātnieki.
+
+== Datorzinātnes nozares ==
+Organizācija CSAB, kura atbild par datorzinātnes studiju programmu akreditāciju ASV un citur pasaulē, ir noteikusi četras datorzinātnes pamata sastāvdaļas:<ref>{{Tīmekļa atsauce|author=Computing Sciences Accreditation Board|title=Computer Science as a Profession|url=http://www.csab.org/comp_sci_profession.html|date=28 May 1997|accessdate=2009-01-17|archive-date=2009-01-17|archive-url=https://web.archive.org/web/20090117183438/http://www.csab.org/comp_sci_profession.html}}</ref>
+# [[Skaitļošanas matemātika|skaitļošanas teorija]];
+# [[Algoritms|algoritmi]] un [[datu struktūras]]
+# [[Programmatūras izstrādes process#Metodoloģijas|programmēšanas metodoloģija]] un [[Programmēšanas valoda|valodas]]
+# [[Dators#Mūsdienu datoru komponentes|datoru uzbūves elementi]] un [[Datoru arhitektūra|arhitektūra]].
+
+=== Latvijā ===
+Pēc Jāņa Zutera, [[Latvijas Universitātes Datorikas fakultāte|Latvijas Universitāte Datorikas fakultāte]] profesora, datorzinātne var iedalīt 12 galvenajās sadaļās:<ref>{{Publikācijas atsauce|last=Zuters|first=Jānis|date=2007-2021|title=Programmēšana un C++|url=http://home.lu.lv/~janiszu/courses/eprg/eprg.all.pdf|publisher=Latvijas Universitāte|page=7|pages=217}}</ref>
+* [[Algoritms|Algoritmi]] un [[datu struktūras]].
+* [[Programmēšanas valoda|Programmēšanas valodas]].
+* [[Datora arhitektūra|Datoru arhitektūra]].
+* [[Operētājsistēma|Operētājsistēmas]] un [[Datortīkls|datortīkli]].
+* [[Programmatūras izstrāde]].
+* [[Datubāze|Datu bāzes]] un informācijas meklēšana.
+* [[Mākslīgais intelekts]] un [[Robottehnika|robotu tehnika]].
+* [[Datorgrafika]].
+* Cilvēka un datora sadarbība.
+* [[Skaitļošanas matemātika]].
+* Lietišķā informātika.
+* [[Bioinformātika]].
+
+[[Latvijas Universitātes Datorikas fakultāte]]s datorzinātņu [[Bakalaurs (grāds)|bakalaura]] studiju programmā obligātajā daļā iekļauti šādi kursi: ''Programmēšana'', ''Datu struktūras un pamatalgoritmi'', ''Datorsistēmu uzbūve'', ''Datubāzes'', ''Internets, tīkla etiķete un tiesiskais regulējums'', ''Formālās gramatikas'', ''Diskrētā matemātika'', ''Matemātiskā analīze'', ''Varbūtību teorija un matemātiskā statistika'', ''Datubāzes pārvaldības sistēmas'', ''Programmēšanas valodas'', ''Automātu teorija'', ''Algebra'', ''Programminženierija'', ''Nozares tiesību pamati, standarti'', ''Darba aizsardzība un ergonomika'', ''Formālās specifikācijas'', ''Fizika'', ''Operētājsistēmas''.<ref>{{Tīmekļa atsauce
+ |url         = http://www.lu.lv/gribustudet/katalogs/programmu-mekletajs/?user_phpfileexecutor_pi1%5bprogram_id%5d=22302
+ |title       = Datorzinātnes - bakalaura studiju programma
+ |accessdate  = 2015-04-12
+ |publisher   = Latvijas Universitāte
+ |archiveurl  = https://web.archive.org/web/20150224181512/http://www.lu.lv/gribustudet/katalogs/programmu-mekletajs/?user_phpfileexecutor_pi1%5Bprogram_id%5D=22302
+ |archivedate = 2015-02-24
+}}</ref>{{jāprecizē}}
+
+== Datorzinātnes studijas ==
+
+Augstskolas visā pasaulē piedāvā apgūt datorzinātni bakalaura, [[Maģistra grāds|maģistra]] un [[Doktora grāds|doktora]] līmenī.
+
+Datorzinātnes bakalaura grādu Latvijā var iegūt [[Daugavpils Universitāte|Daugavpils Universitātē]], [[Latvijas Universitāte|Latvijas Universitātē]], [[Latvijas Lauksaimniecības Universitāte|Latvijas Lauksaimniecības Universitātē]], [[Rīgas Tehniskā universitāte|Rīgas Tehniskajā universitātē]], [[Liepājas Universitāte|Liepājas Universitātē]], [[Transporta un sakaru institūts|Transporta un sakaru institūtā]] un [[Ventspils Augstskola|Ventspils Augstskolā]].<ref>{{Tīmekļa atsauce |url=http://www.aiknc.lv/lv/prog_list3.php?id=2 |title=AIKNC: Akreditētās programmas, pēc iegūstamā grāda - Bakalaura studiju programma. |access-date={{dat|2009|03|25||bez}} |archiveurl=https://web.archive.org/web/20100224074917/http://www.aiknc.lv/lv/prog_list3.php?id=2 |archivedate={{dat|2010|02|24||bez}} }}</ref>{{jāprecizē}}
+
+== Atsauces ==
+
+{{atsauces}}
+
+== Skatīt arī ==
+{{Commons category|Computer science}}
+* [[Algoritms]]
+* [[Dators]]
+* [[Mākslīgais intelekts]]
+* [[Programmēšanas valoda]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datorzinātne]]
+[[Kategorija:Formālās zinātnes]]

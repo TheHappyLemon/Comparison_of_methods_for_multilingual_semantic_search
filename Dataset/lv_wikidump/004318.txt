@@ -1,0 +1,143 @@
+{{noformējums+|Vajadzīgs noformēt slīpraksta un pēdiņu izmantojumus}}
+{{DISPLAYTITLE:''macOS''}}
+{{Operētājsistēmas infokaste|
+ name = macOS
+|logo = MacOS wordmark (2017).svg
+|screenshot = [[Attēls:Leopard Desktop.png|300px]]
+|caption =  Mac OS X 10.5 "Leopard"
+|developer = [[Apple Inc.]]
+|family = [[Unix]]
+|source_model = Aizvērtais kods ar ([[Brīvā programmatūra|atvērtā koda]] komponentēm)
+|latest_release_version = 10.13.6
+|latest_release_date = {{dat|2018|7|8|N|bez}}
+|kernel_type = [[Hibrīda kodols]]
+|ui = [[Aqua]]
+|license = [[EULA]]
+|website = [http://www.apple.com/macosx/ Apple - Mac OS X]
+|supported_platforms = [[x86]], [[x86-64]], [[PowerPC]] (32-bitu & 64-bitu), [[ARM]]
+|logo size=}}
+
+'''''macOS''''' (agrāk: Mac OS X un OS X) ir grafisku [[operētājsistēma|operētājsistēmu]] līnija, kuru izstrādā un tirgo [[Apple Inc.|''Apple Inc.'']]; tās pēdējā versija tika pievienota visiem pašlaik piegādātajiem [[Macintosh]] datoriem. macOS ir pēctecis sākotnējai [[Mac OS|''Mac OS'']], kas bija Apple primārā operētājsistēma kopš 1984. gada. Atšķirībā no priekšgājējiem, macOS ir [[Unix|''Unix'']] bāzēta operētājsistēma, kas izveidota uz [[NeXT|''NeXT'']] 80. gadu otrajā pusē izstrādātas tehnoloģijas pamata, līdz Apple iegādājās kompāniju 1997. gada sākumā.
+
+Pirmā izlaistā versija ir ''Mac OS X Server 1.0'' 1999. gadā un galda datoriem orientēta versija, ''Mac OS X 10.0'', kas sekoja 2001. gada martā. Kopš tā laika ir izlaistas sešas atšķirīgas „gala lietotāja” un „servera” versijas, pēdējā no tām ''OS X 10.11'' 2015. gada septembrī. ''OS X'' izlaidumi bija nosaukti plēsīgo kaķu vārdos, piemēram, ''Mac OS X 10.5'' parasti no Apple un lietotāju puses tiek pieminēts kā „Leopard” (latviski: leopards). Sākot no ''OS X 10.9 Mavericks,'' nosaukumos vairs nebija plēsīgo kaķu vārdi, bet gan Kalifornijas vietu nosaukumi. Kopš 2016. gada WWDC 2016 konferences, kad tika paziņots par operētājsistēmas nosaukuma maiņu uz macOS, Apple sāka izmantot savai jaunākajai operētājsistēmai vārdu "Sierra", kas [[Spāņu valoda|spāņu valodā]] nozīmē "kalns".
+
+[[serveris|Servera]] versija, ''Mac OS X Server'', bija arhitektoniski ļoti līdzīga galda datora versijai, taču parasti tika darbināta uz ''[[Macintosh|Apple Macintosh]]'' servera līnijas aparatūras. ''OS X'' servera versijā ir iekļauti grupu pārvaldības un administrācijas programmatūras rīki, kas nodrošina iespēju ērti piekļūt pie galvenajiem tīkla servisiem, tai skaitā, pasta serverim, Samba serverim, direktorija serveriem un DNS serverim. 2012. gadā Apple paziņoja, ka maina nosaukumu no ''Mac OS X'' uz '''''OS X'''''.
+
+Apple ražo arī pielāgotas macOS versijas, kas paredzētas lietošanai kādā no trim speciālajām ierīcēm — [[Apple TV|''Apple TV'']], [[iPhone|''iPhone'']] un [[iPod touch|''iPod touch'']]. Modificētā OS ietver tikai to, kas nepieciešams šai attiecīgajai ierīcei (nevajadzīgie draiveri un komponentes ir noņemtas), lai arī daži avoti norāda, ka ar vienkāršiem paņēmieniem tos varēja uzinstalēt arī apgrieztajā ''Mac OS'' versijā.
+
+''[[WWDC 2016]]'' konferencē ''[[Apple Inc.|Apple]]'' paziņoja, ka mainīs operētājsistēmas nosaukumu uz '''''macOS''''', lai tas būtu līdzīgs citiem Apple operētājsistēmu nosaukumiem, kā ''[[iOS]]'', ''[[watchOS]]'' un ''[[tvOS]]''.
+
+== Vēsture ==
+
+OS X ir bāzēts uz [[Mach kodols|Mach kodola]] un atvasināts no [[BSD]] [[Unix]] implementācijas [[Nextstep]] ietvaros. Nextstep bija [[objektorientēta operētājsistēma]], ko izstrādāja [[Stīvs Džobss|Stīva Džobsa]] kompānija „[[NeXT|Next]]”, pēc tam, kad viņš 1985. gadā pameta Apple. Kamēr Džobss bija aizgājis no Apple, Apple centās radīt nākamās paaudzes OS ar [[Taligent]] un [[Copland]] projektiem, taču bez panākumiem.
+
+Galu galā NeXT izveidotā operētājsistēma — tajā laikā saukta par [[OpenStep]] — tika izvēlēta par pamatu Apple jaunajai OS un Apple pilnībā iegādājās NeXT kompāniju. Stīvs Džobss atgriezās Apple kā pagaidu CEO un vēlāk atkal kļuva par CEO, vadot programmētājiem draudzīgās Openstep pārveidošanu par tādu sistēmu, kuru pieņemtu Apple pamata tirgus — mājas lietotāji un radošie profesionāļi. Projekts sākotnēji bija pazīstams kā [[Rhapsody]], vēlāk tas tika pārdēvēts par Mac OS X.
+
+Ar katru jaunu versiju OS X pakāpeniski samazina uzmanību attiecībā uz savietojamību ar iepriekšējām OS X versijām un palielina uzsvaru uz „digitālā dzīves stila” lietojumprogrammām, piemēram, [[iLife]] komplektu, uzlabotām biznesa lietojumprogrammām ([[iWork]]), integrētu mājas izklaides ([[Front Row]]) mediju centru. Katra versija ietver arī izmaiņas vispārējā saskarnē, piemēram, sukātā metāla (brushed metal) āriene tika pievienota versijā 10.2, vienotās virsrakstjoslas āriene versijā 10.4, un nelielas izmaiņas „ielas gaismu” pogu ārienē.
+
+== Apraksts ==
+[[Attēls:OSXBoxes.png|thumbnail|right|400px| Mac OS X iepakojuma izskats. No kreisās uz labo: Cheetah/Puma (1), Jaguar (2), Panther (3), Tiger (4), un Leopard (5).]]
+
+Mac OS X ir radikāla novirzīšanās no iepriekšējām Macintosh operētājsistēmām; tā pamatā esošā kodu bāze ir pilnīgi atšķirīga no iepriekšējām versijām. Tā [[Kodols (operētājsistēma)|kodols]], saukts [[Darwin (operētājsistēma)|Darwin]] (pirms tam Mach), ir [[Brīvā programmatūra|brīva un atvērtā pirmkoda]] [[Unix]] operētājsistēma (OS) kas ir izveidota, balstoties uz [[XNU]] kodola, kurai ar komandrindas saskarni ir pieejamas standarta Unix iespējas. Apple pār Darwin izveidoja slāni ar vairākām komponentēm, tai skaitā [[Aqua]] saskarni un jaunu [[Finder]], lai nobeigtu uz [[Lietotāja saskarne|lietotāja saskarni]] bāzētu operētājsistēmu, kas ir OS X.
+
+OS X ietver vairākas iezīmes, kas bija paredzētas, lai OS padarītu stabilāku un uzticamāku, nekā Apple iepriekšējās operētājsistēmas. Piemēram, [[prioritārais vairākuzdevumu režīms]] un [[atmiņas aizsardzība]] uzlabo sistēmas spēju darbināt vairākas [[lietotne]]s vienlaikus bez to savstarpējas pārtraukšanas vai sagrozīšanas. Vairāki OS X arhitektūras aspekti ir atvasināti no Openstep, kas tika plānots kā pārnesams no vienas platformas uz citu. Piemēram, Nextstep tika pārnests no sākotnējām [[68k]]-bāzētām NeXT darba stacijām un citu arhitektūru, pirms Apple nopirka NeXT, un Openstep vēlāk tika pārnests uz [[PowerPC]] arhitektūru kā daļa no [[Rhapsody]] projekta.
+
+Pati redzamākā izmaiņa ir Aqua tēma. Noapaļoto stūru, [[Caurspīdīgums (datorgrafika)|caurspīdīgu]] krāsu un iesvītrojuma lietojums — līdzīgi, kā pirmajā [[iMac]] korpusa dizainā — dod vairāk tekstūru un krāsu, salīdzinot ar to, ko piedāvāja OC 9 „[[Platinium]]” lietotāja saskarne. Daudzi operētājsistēmas vecāko versiju lietotāji nopēla jauno izskatu kā klīrīgu un bez profesionālas elegances. Taču citi uzskatīja Aqua par drosmīgu un inovatīvu soli uz priekšu, laikā, kad lietotāju saskarnes tika uzskatītas par „blāvām un garlaicīgām”. Neskatoties uz strīdīgo diskusiju, izskats bija tūlīt atpazīstams un pat vēl pirms tam, kad tika izlaista pirmā OS X versija, citi izstrādātāji sāka veidot izskatus pielāgojamām lietotnēm. kas atdarināja Aqua izskatu. Zināmā mērā Apple izmantoja veiksmīgo pāreju uz šo jauno dizainu kā līdzekli, vairākkārt draudot ar tiesu darbiem pret personām, kas radīja vai izplatīja programmatūru ar saskarni, ko kompānija uzskatīja par atvasinātu no tās ar autortiesībām aizsargātā dizaina.
+
+OS X ietver savus programmatūras izstrādes rīkus, no kuriem prominentākais bija [[integrētā izstrādes vide]] ar nosaukumu [[Xcode]]. Xcode nodrošina ar [[kompilators|kompilatora]] saskarni, kas atbalsta vairākās [[programmēšanas valoda]]s, tai skaitā [[C (programmēšanas valoda)|C]], [[C++]], [[Objective-C]], un [[Java (valoda)|Java]]. [[Apple Intel pārejai]], tā tika pārveidota, lai izstrādātāji varētu vienkārši radīt universālās programmas ar mērķi nodrošināt savietojamību gan ar Intel bāzētiem, gan PowerPC bāzētiem Makintošiem.
+
+== Savietojamība ==
+
+=== Programmatūra ===
+
+Lai nodrošinātu vienmērīgu pāreju no Mac OS 9 uz Mac OS X, tika izveidots [[Carbon]] (API). Lietojumprogrammas, kas ir sarakstītas ar Carbon, var tikt dabiski izpildītas abās sistēmās. No otras puses, API, ko OS X mantoja no [[Openstep]] nav atpakaļ savietojamas ar agrākām Mac OS versijām. Šos API šobrīd no Apple sauc par [[Cocoa]]. Šis mantojums ir acīmredzams no Cocoa izstrādātāju puses, ņemot vērā, ka lielākā daļa klašu nosaukumu sākas ar prefiksu „NS”, kas nozīmē Nextstep.
+
+OS X atbalsta [[Java (valoda)|Java]] kā „priekšrokas programmatūras pakotni” — praksē tas nozīmē, ka lietojumprogrammas, kas ir sarakstītas Java, iekļaujas operētājsistēmā pēc iespējas glītāk, lai arī joprojām ir savietojama starp platformām un ka [[lietotāja saskarne]], kas ir sarakstīta [[Swing]], izskatās gandrīz tieši tāpat kā dabīgā Cocoa saskarne. Tradicionāli, Cocoa programmas pārsvarā ir sarakstītas [[Objective-C]], un Java ir kā alternatīva. Taču 2005. gada 11. jūlijā Apple paziņoja, ka „iezīmes, kas ir pievienotas Cocoa OS X versijās vēlāk kā 10.4, netiks pievienotas Cocoa-Java programmēšanas saskarnei.”
+
+Tā kā OS X ir bāzēts uz UNIX, vairums programmatūras pakotņu, kas sarakstītas lietošanai [[BSD]] vai [[Linux]], var tikt pārkompilētas lietošanai OS X. Tādi projekti, kā [[Fink]], [[MacPorts]] un [[pkgsrc]] nodrošina jau sakompilētas vai saformatētas pakotnes. Kopš 10.3 versijas OS X ietvēra [[X11.app]], [[X Window System]] grafisko saskarni Unix programmām Apple versiju, kā izvēles komponenti instalācijas laikā. Līdz OS X (Tiger) ieskaitot, Apple implementācija bija bāzēta uz [[X11 license]]s [[XFree86]] 4.3 un X11R6.6. Visas sakomplektētās [[X11]] versijas, kas ietver logu pārvaldnieku, kas ir līdzīgs OS X izskatam un bija samērā labi integrēts OS X, arī lieto dabisko [[Quartz]] renderēšanas sistēmu. Agrākās OS X versijas (kurās X11 netika iekļauts) arī vaējar izpildīt X11 lietojumprogrammas izmantojot [[XDarwin]].
+
+=== Aparatūra ===
+
+Agrīnākajām OS X versijām, standarta atbalstītā aparatūras platforma ir pilna Macintosh datoru līnija (pārnēsājamie, galda vai serveri), kas bāzēti uz [[PowerPC]] G3, G4 un G5 procesoriem. Vēlākās versijas pārtrauca atbalstu atsevišķai vecākai aparatūrai, piemēram, Panther neatbalsta „smilškrāsas” G3 procesorus un Tiger neatbalsta sistēmas, kas tika izlaistas, pirms Apple ieviesa [[FireWire]] portus. OS X versija Leopard bija pārtraukusi atbalstu visiem PowerPC G3 un PowerPC G4 procesoriem ar takts frekvenci, kas ir zemāka kā 867 MHz. Ieviešot [[MacBook Air]], kam nav FireWire portu, Leopard nav nepieciešams FireWire ports. Tomēr trešās puses ir izstrādājušas tādus rīkus, kā [[XPostFacto]] un ielāpus, kas uzlikti instalācijas diskam, lai dotu iespēju instalēt OS X jaunākas versijas uz sistēmām, ko Apple oficiāli neatbalsta, tai skaitā atsevišķas pirms G3 sistēmas. Izņemot iezīmes, kurām ir nepieciešama specifiska aparatūra (piemēram, grafiskā akcelerācija un [[DVD]] rakstīšana), operētājsistēma piedāvā tādu pašu funkcionalitāti uz visām atbalstītām aparatūrām.
+
+OS X PowerPC versijas pirms Leopard saglabā savietojamību ar vecākām Mac OS lietojumprogrammām ar emulācijas vidi [[Classic]], kas lietotājiem ļauj palaist [[Mac OS 9]] kā procesu OS X ietvaros, tādējādi lielākā daļa programmu, kas darbojas uz Mac OS 9, bija lietojamas arī OS X. Classic netiek atbalstīts uz Intel-bāzētiem Makintošiem un Mac OS X 10.5 „Leopard” versijā. Sākot ar 10.6 "Snow Leopard", PPC arhitektūra vairs netiek atbalstīta, tādēļ Classic arī šajā operētājsistēmā nebija iekļauts.
+
+Daži lietotāji bija pārsteigti, ka OS X tika atbalstīts uz sistēmām, kas nāca ar G3 vai vēlāku procesoru no rūpnīcas, taču netika atbalstītas mašīnas ar trešās puses procesoru kartēm. Piemēram, Power Mac 7300, ja tā procesors sabojājās, to varēja viegli atjaunināt ar G3 procesoru uz meitas plates, kas bieži maksāja gandrīz tikpat, kā identiska oriģinālās shēmas aizvietošana. Lietotājs vēlāk varēja doties uz to pašu veikalu un iegādāties OS X jauninājumu uz CD, lai arī nav garantēts, ka šī procedūra noteikti strādās.
+
+==== Apple pāreja uz Intel procesoriem ====
+2002. gada aprīlī eWeek ziņoja par baumām, ka Apple bija OS X versija ar segvārdu Marklar, kas var tikt darbināta uz [[Intel x86]] procesoriem. Marklar idejas pamatā bija nodrošināt OS X funkcionēšanu uz alternatīvas platformas gadījumā, ja Apple kļūtu neapmierināta ar PowerPC platformas progresu. Šīs baumas norima 2005. gada maijā, kad vairāki mediju avoti, kā [[Wall Street Journal]] un [[CNET]] ziņoja, ka Apple tuvākajos mēnešos paziņos par Marklar.
+
+2005. gada 6. jūnijā Stīvs Džobss apstiprināja šīs baumas, paziņojot savā runā gadskārtējās Apple Pasaules izstrādātāju konferences (Apple WWDC) laikā, ka Apple veiks pāreju no PowerPC uz [[Intel]] procesoriem nākamo divu gadu laikā un ka Apple atbalstīs abas platformas pārejas laikā. Iepriekšējā reizē, kad Apple mainīja procesoru saimes no [[Motorola]] 68K procesora uz [[IBM]]/Motorola PowerPC — Apple iekļāva jaunajā OS Motorola 68K emulatoru, kas nodrošināja gandrīz visu 68K programmatūru darbību automātiski uz jaunās aparatūras. Apple atbalstīja 68K emulatoru 11 gadus, un pārtrauca atbalstu pārejas uz Intel procesoriem laikā. Jaunajā OS, kas paredzēta Intel bāzētajiem Makiem, ir iekļauts [[Rosetta]] [[binārās translēšanas]] slānis, kas nodrošina, ka PowerPC kompilētās programmatūras darbību uz Intel OS X mašīnām, tomēr jaunajos Intel Mac datoros Apple pārtrauca atbalstu Classic režīmam. Trešās puses emulācijas programmas kā [[Mini vMac]], [[Basilisk II]] un [[SheepShaver]] nodrošina atbalstu agrākajām Mac OS versijām arī uz Intel datoriem. Xcode jaunā versija un tās pamata komandrindas kompilatori atbalsta [[universālais kods|universālā koda]] izveidi, kas darbotos uz abām arhitektūrām.
+
+Programmatūra, kas ir tikai pieejama PowerPC, tiek atbalstīta ar Rosetta, taču Apple mudina izstrādātājus veidot universālos kodus ar atbalstu gan PoverPC, gan x86. Uz Intel bāzētajiem Makiem universālā koda programmatūrai vajadzētu darboties ātrāk nekā programmatūrai, kas ir paredzēta tikai PowerPC, un darbināta ar Rosetta. Turklāt atsevišķa PowerPC programmatūra, kā kodola paplašinājumi un sistēmas uzstādījumu spraudņi, netiek atbalstīta uz Intel Makiem. Lai gan un Intel Makintošiem var darbināt PowerPC, x86 un universālos kodus, PowerPC Maki atbalsta tikai universālos un PowerPC kodus.
+
+Mac OS X v10.5 saglabājas atbalsts PowerPC platformai. Džobss ir arī apstiprinājis baumas, ka Apple visu izstrādes laiku ir bijušas OS X versijas, kas ir darbināmas uz Intel procesoriem. Kā jau tika minēts, šāda starp platformu iespēja jau eksistēja no pašiem OS X iesākumiem. Openstep tika portēts uz vairākām arhitektūrām, tai skaitā x86, un Darwin ietvēra atbalstu gan PowerPC, gan x86. Apple izstrādātais OS X nedarbojas uz citiem Intel kompjūteriem, tādēļ [[OSx86]] kopiena izstrādā modificētas OS X versijas un īpašu programmatūru, kas ļauj darbināt šo sistēmu arī uz citiem Intel x86 datoriem. Lai gan ar minēto programmatūru iespējams instalēt oriģinālu, legāli iegādātu Mac OS uz ne-Apple datoriem, pats instalēšanas process uz ne-Makintoša pārkāpj Apple lietotāja vienošanos (EULA)..
+
+== Galvenās iezīmes ==
+[[Attēls:Dashboardanim.gif|thumb|right|[[Dashboard]] ļauj izsaukt pāri galda virsmai miniatūras programmas - „vidžetus” (widgets). Aktivizēšanas brīdī Dashboard pārlido pāri ekrānam.]]
+* '''[[Aqua]]''' — plūstoša grafiskais lietotāja interfeiss ar ūdenim līdzīgiem elementiem.
+* '''[[Automator]]''' — lietotājprogramma, kas paredzēta automātisku dažādu uzdevumu izpildi (ieviesta 10.4 versijā).
+* '''[[Dashboard]]''' — mazu lietotājprogrammu — galda virsmas [[vidžets|vidžetu]] [[pilnekrāna grupa]], ko var izsaukt un aizraidīt ar vienu taustiņu (ieviesta 10.4 versijā).
+* '''[[Exposé]]''' — ietver trīs funkcijas, kas uzlabo pieejamību starp logiem un galda virsmu. Funkcijas nodrošina tūlītēju visu atvērto logu parādīšanu miniatūru veidā vieglākai navigācijai starp dažādiem uzdevumiem, parādīt visus atvērtos logus kā miniatūras no pašreizējās lietojumprogrammas un noslēpt visus logus lai piekļūtu galda virsmai (ieviesta 10.3 versijā). Ar 10.6 Exposé iegūst jaunu dizainu un piedāvā dažādas aktivizēšanas, programmu pārslēgšanas, logu kārtošanas un logu priekšskatīšanas (līdzīgi Quick Look) funkcijas.
+* '''[[Finder]]''' — failu pārlūks, kas nodrošina ātru piekļuvi visiem datora apgabaliem.
+** [[Quick Look]] nodrošina dinamisku datu apskatus (tai skaitā video un vairāku lapu dokumentus) bez to galveno lietojumprogrammu atvēršanas (ieviests 10.5 versijā). Objekta saturu iespējams aplūkot, iezīmējot to un nospiežot taustiņu Space.
+** [[Spotlight (lietotne)|Spotlight]] meklētāja tehnoloģija nodrošina ātrus reāllaika failu, vēstuļu un citas informācijas meklēšanu, kas balstīta uz objekta rekvizītiem un/vai saturu (ieviesta 10.4 versijā).
+* '''[[FileVault]]''' — fakultatīva lietotāja datņu kriptēšana ar ar AES standartu (128 bitu atslēgas tika ieviestas 10.3 versijā un 256 bitu atslēgas 10.5 versijā).
+* '''[[Front Row]]''' — mediju skatītāja saskarne, kur piekļuvei tiek izmantota tastatūra un tālvadība - [[Apple Remote]] (ieviesta 10.4 versijā).
+* '''Globāla lietojumprogrammu [[Servisu izvēlne]]''' — pareizrakstības pārbaudītājs, īpašo rakstzīmju palete, krāsu izvēlne, fontu izvēlne un vārdnīca.
+* '''Integrētie sinhronizācijas servisi''' — sistēma, kas ļauj lietojumprogrammām piekļūt centralizētai dažādu lietotāju datu elementu datubāzei, tai skaitā kalendāra un kontaktu vienumiem. Operētājsistēma pārvalda konfliktējošus rediģējumus un datu atbilstību (ieviesta 10.4 versijā).
+* '''[[Spaces]]''' — galda virsmas organizācijas rīks, kas var radīt un pārvaldīt vairākas [[virtuālā galda virsma|virtuālās galda virsmas]] un attēlot tās līdzīgi Exposé saskarnei (ieviests 10.5 versijā).
+* '''[[Cover Flow]]''' — trīsdimensionāla grafiskā lietotājsaskarne, kas ir ietverta [[iTunes]], [[Macintosh Finder]] un citos [[Apple Inc.]] produktos, kas paredzēta virtuālai datņu un ciparu mediju bibliotēku pārmeklēšanai (ieviesta 10.5 versijā)
+* '''[[Time Machine]]''' — automātiska rezerves kopiju tehnoloģija, kas lietotājiem ļauj apskatīt un atjaunot datņu un lietojumprogrammu iepriekšējās versijas (ieviesta 10.5 versijā).
+
+== Versijas ==
+Rakstzīme ''X'' ir [[romiešu cipari|romiešu cipars]], un oficiāli tiek izrunāta kā „desmitais”. Tas ir nākamais izlaidums, sekojot iepriekšējo ''Macintosh'' operētājsistēmu numerācijā (piemēram, [[Mac OS 8]] un [[Mac OS 9]]).
+
+''OS X'' versijas bija nosauktas plēsīgo kaķu vārdos līdz 10.9 versijai kad Apple sāka lietot OS X nosaukumos Kalifornijas vietas. ''Apple'' iekšējai lietošanai versijai 10.0 pirms izlaišanas bija segvārds „''Cheetah'' (latv. "[[gepards]]"), un 10.1 versija bija ar segvārdu „''Puma''. Pēc nebeidzamajām baumām ap 10.2 versiju ar segvārdu „Jaguar”, Apple produktu mārketinga nodaļa sāka atklāti lietot šo segvārdu, lai sekmētu operētājsistēmas pārdošanu. Versija 10.3 tika izplatīta kā „''Panther", 10.4 kā „''Tiger'', 10.5 „''Leopard'',10.6 "Snow Leopard", 10.7 <nowiki>''Lion'', 10.8 ''Mountain Lion''</nowiki>'' un ''10.9 <nowiki>''Mavericks''</nowiki>. "''Panther''", "''Tiger'', "''Leopard''" un "Snow Leopard"ir reģistrētas kā Apple' preču zīmes, taču "''Cheetah''", "''Puma''" un "''Jaguar''" netika reģistrētas. Tāpat Apple ir reģistrējusi preču zīmes "Lynx" (latv. lūsis) un "Cougar" (latv. kuguārs).
+
+Datoru mazumtirgotājs [[Tiger Direct]] iesūdzēja ''Apple'' par nosaukuma „''Tiger''” lietošanu, taču 2005. gada 16. maijā ASV federālā tiesa lēma, ka ''Apple'', lietojot šo nosaukumu, neierobežo ''Tiger Direct'' preču zīmes tiesības.
+
+{{Macintosh operētājsistēmu hronoloģija}}
+
+=== Mac OS X 10.0 (Cheetah) ===
+[[Attēls:Macosx10.png|thumb|150px|Mac OS X 10.0 "Cheetah"]]
+
+[[2001. gads|2001]]. gada 24. martā Apple izlaida ''Mac OS X v10.0'' (kompānijas iekšienē tam tika lietots segvārds Cheetah). Sākotnējā versija bija lēna un ar iespējām nepabeigta, un tās izlaišanas brīdī pieejamas bija maz lietojumprogrammas, no kurām lielākā daļa bija no neatkarīgajiem izstrādātājiem. Lai arī vairāki kritiķi vedināja, ka operētājsistēma nebija gatava adaptācijai no vairākuma patērētāju, kritiķi arī atzina tās sākotnējās izlaides nozīmi, kā pamatam, uz kura veikt uzlabojumus. Tikai Mac OS X izlaide vien tika uzņemta no Macintosh sabiedrības kā liels sasniegums, jo mēģinājumi pilnībā pārstrādāt Mac OS bija notikuši jau kopš 1996. gada un aizkavējušies dēļ neskaitāmām neveiksmēm. Pēc vairāku kļūdu labojumiem (bugfixes), operētājsistēma kļuva ievērojami stabilāka.
+
+=== Mac OS X 10.5 (Leopard) ===
+[[Attēls:Leopard Desktop.png|thumb|150px|Mac OS X 10.5 "Leopard"]]
+
+''Mac OS X v10.5 "Leopard"'' tika izlaists 2007. gada 26. oktobrī. Apple to dēvēja par lielāko ''Mac OS X'' atjauninājumu. Tas ietvēra vairāk kā 300 jaunas iespējas. Leopard atbalsta gan [[PowerPC|''PowerPC'']] gan [[X86|''Intel x86'']] bāzētos ''Macintosh'' datorus. Viens ''DVD'' darbojas uz visiem atbalstītajiem Makiem (tai skaitā uz 64-bitu mašīnām). Jaunās iespējas ietver atjaunināto ''[[Finder|Finder]],'' [[Time Machine|''Time Machine'']], ''[[Spaces|Spaces]]'', [[Boot Camp|''Boot Camp'']], pilnu atbalstu 64-bitu lietojumprogrammām (tai skaitā grafiskās lietojumprogrammas), jaunas iespējas tādās lietojumprogrammās kā ''[[Mail|Mail]]'' un [[iChat|''iChat'']] un vairākas jaunas drošības iespējas.
+
+Leopard ir [[Single UNIX Specification|''UNIX 03 specifikācijai'']] atbilstošs produkts. Tā ir arī pirmā uz ''BSD'' bāzētā ''OS'', kas ir saņēmusi ''UNIX 03 sertifikāciju''. Standarta ''[[Mac OS]]'' jaunākā atjauninājuma pakotne par nelielu piegādes un apstrādes samaksu ir pieejama visiem patērētājiem, kas 2007. gada 1. oktobrī vai vēlāk no ''[[Apple Inc.|Apple]]'' vai ''[[Apple Inc.|Apple]]'' autorizētā izplatītāja ir iegādājušies atbilstošu ''[[Macintosh]]'' sistēmu.
+
+=== Mac OS X 10.6 (Snow Leopard) ===
+''Mac OS X v10.6 <nowiki>''Snow Leopard''</nowiki>'' tika izlaists 2009. gada 28. augustā. Nevis sniedzot lielas izmaiņas izskatam un galalietotāja funkcionalitātei, kā tas bija uz iepriekšējām ''OS X'' versijām, ''Snow'' ''Leopard'' fokusējās uz nelielām izmaiņām kā piemēram: palielinot veiktspēju, efektivitāti un operētājsistēmas stabilitāti. Vairumam lietotāju, visvairāk pamanāmākās izmaiņas bija: diskā, operētājsistēma sastingst pēc tam kad ir veikta tīrā instalēšana salīdzinot ar ''Mac OS X 10.5 Leopard'', atsaucīgāku ''[[Finder]]'' pārrakstītu ''[[Cocoa]]'', kā arī uzlaboto [[Safari (pārlūkprogramma)|''Safari'']] kurš kļuva ātrāks.
+
+=== Mac OS X 10.7 (Lion) ===
+''Mac OS X v10.7 <nowiki>''Lion''</nowiki>'' tika izlaists 2011. gada 20. jūlijā. Tas atnesa uzlabojumus iekš ''[[IOS|Apple iOS]]'', kā piemēram: vieglāk navigāciju displejam priekš instalētajām aplikācijām un citas jaunas funkcijas.
+
+=== OS X 10.8 (Mountain Lion) ===
+''OS X v10.8 <nowiki>''Mountain Lion''</nowiki>'' tika izlaists 2012. gada 25. jūlijā. Tas iekļāva funkcijas kuras jau bija redzētas uz ''[[IOS|iOS 5]]'', kā piemēram: ''[[Game Center]]'', atbalstu priekš [[iMessage]] jaunajā īsziņu lietotnē, atgādinājumu lietotni atdalītu no ''[[iCal]]'' (kas vēlāk tika pārsaukts uz vārdu <nowiki>''</nowiki>''Kalendārs''<nowiki>''</nowiki> kā piemēram [[IOS|''iOS'']] lietotnē). Tas ieviesa arī atbalstu priekš ''[[iWork]]'' lai varētu noglabāt ''iWork'' dokumentus iekš ''[[iCloud]]''. Paziņojumu centrs tiek atklāts, kura datora versija ir līdzīga ''[[IOS|iOS 5]]'' un augstākai versijai. ''Mountain Lion'' iekļauj arī atbalstu vairākām Ķīniešu funkcijām, kā piemēram: ''[[Baidu]]'' tiek iekļauta kā viena no meklētājprogrammām ''[[Safari (pārlūkprogramma)|Safari]]'' pārlūkprogrammā, ''[[QQ]]'', ''[[163.com]]'' un ''[[126.com]]'' servisus priekš ''[[E-pasts|ē-pasta]]'', ''[[kontaktiem]]'' un ''[[kalendāram]]''. Šajā versijā arī tika mainīts operētājsistēmas vārds no ''Mac OS X'' uz ''OS X''.
+
+=== OS X 10.9 (Mavericks) ===
+''OS X v10.9 <nowiki>''Mavericks''</nowiki>'' tika izlaists 2013. gada 22. oktobrī. Sī versija bija pieejama kā bezmaksas atjaunojums visiem kuri lieto ''Mac OS X 10.6 Snow Leopard'' vai augstāku versiju.Tam ir 64- bitu ''[[Intel]]'' procesors.  Jaunajā versijā tiek iekļautas lietotnes kuras bija tika uz ''iOS'', kā piemēram: ''[[Karte]]'' un ''[[iBooks]]''. Jaunajā versijā ir arī uzlabojumi ''Paziņojumu Centram'', uzlabojumi citām aplikācijām un daudzi ne tik pamanāmi uzlabojumi
+
+=== OS X 10.10 (Yosemite) ===
+''OS X v10.10 <nowiki>''Yosemite''</nowiki>'' tika izlaists 2014. gada 16. oktobrī. Šajā versijā tika ieviests jauns dizains kurš bija līdzīgs ''[[IOS|iOS 7]]'' versijai, kurš paredzēts, lai iezīmētu vairāk minimālu, teksta pamatā <nowiki>''platu'' dizainu ar caurspīdīguma efektiem un intensīvāki piesātinātām krāsām. Apple jaunā iezīme Yosemite operētājsistēmā ir ''Handoff''</nowiki>, kas atļauj lietotājiem kuri lieto ''[[iPhone]]'' ar ''[[iOS 8.1]]'' vai jaunāku versiju, atbildēt uz telefona zvaniem, saņemt uz sūtīt īsziņas un pabeigt nepabeigtus ē- pastus uz savu Mac datoru.
+
+=== OS X 10.11 (El Capitan) ===
+''OS X v10.11 <nowiki>''El Capital''</nowiki>'' tika izlaists 2015. gada 30. septembrī. Apple nodēvēja šo versiju kā <nowiki>''Precizējumi priekš Mac pieredzes'' un ''Uzlabojumi sistēmas darbībai''</nowiki>, nekā jaunas funkcijas. Uzlabojumi iekļauj publisko transportu karšu lietotnē, GUI uzlabojumi piezīmju lietotnē, San Francisko kā sistēmas fona attēls un  iepazīstināšanu ar Sistēmas Integritātes Aizsardzību. ''[[Metal API|Metal]]'' [[Metal API|''API'']], lietotne uzlabojot programmatūru, tika atklāta šajā operētājsistēmas versijā, kurš pieejams visos Mac datoros no 2012. gada.
+
+=== macOS 10.12 (Sierra) ===
+''macOS v10.12 <nowiki>''Sierra''</nowiki>'' tika izlaista ''[[WWDC 2016]]'' konferencē. Apple paziņoja ka mainīs operētājsistēmas nosaukumu no ''Mac OS X'' uz ''macOS'', lai jaunais nosaukums būtu līdzīgs citām ''Apple'' operētājsistēmām, kā piemēram: ''[[iOS]]'', ''[[watchOS]]'' un ''[[tvOS]]''. Jaunās funkcijas ir: ''[[Siri]] Mac'' datoros, optimizēta datora glabātuve un uzlabojumi attēlu, īsziņu un ''[[iTunes]]'' aplikācijās.
+
+== Ārējās saites ==
+* [http://www.apple.com/macosx/ Oficiālā mājaslapa]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:BSD]]
+[[Kategorija:Operētājsistēmas]]

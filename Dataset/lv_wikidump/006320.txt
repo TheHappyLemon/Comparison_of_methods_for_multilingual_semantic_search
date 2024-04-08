@@ -1,0 +1,80 @@
+{{Lidostas infokaste
+| nosaukums                  = Viļņas Starptautiskā lidosta
+| nosaukums_originalvaloda   = Tarptautinis Vilniaus oro uostas
+| nosaukums_originalvaloda-a = 
+| nosaukums_originalvaloda-r = 
+| attels                     = 
+| attela-platums             = 
+| paraksts                   = 
+| attels2                    = EYVI-VNO by Augustas Didzgalvis.jpg
+| attela2-platums            = 250px
+| paraksts2                  = Viļņas lidosta (2022)
+| IATA                       = VNO
+| ICAO                       = EYVI
+| FAA                        = 
+| LID                        = 
+| karte                      = Lithuania
+| plat_d = 54 | plat_m  = 38 | plat_s = 13 | plat_NS = N
+| gar_d  = 25 | gar_m   = 17 | gar_s  = 16 | gar_EW  = E
+| coordinates_region         = 
+| lidostas_tips              = 
+| ipasnieks-operators        = 
+| ipasnieks                  = Lietuvas Satiksmes ministrija
+| operators                  = VĮ "Lietuvos oro uostai"
+| apkalpo                    = 
+| atrasanas_vieta            = 
+| uzcelta                    = <!-- for military airports -->
+| used                       = <!-- for military airports -->
+| komandieris                = <!-- for military airports -->
+| metric-elev                = 
+| elevation-f                = 646
+| elevation-m                = 197
+| koordinates                = 
+| majas_lapa                 = {{URL|http://www.vilnius-airport.lt/}}
+| r1-number                  = 
+| r1-length-m                = 
+| r1-surface                 = 
+<!--- ja ir vairāk skrejceļu, var pievienot līdz pat 8, nomainot numerāciju (r2-number, r2-lenght-m, r2-surface, ... r8-number, r8-lenght-m, r8-surface)--->
+| pasazieru_skaits           = 
+| lidojumu_skaits            = 
+| krava                      = 
+}}
+
+'''Viļņas starptautiskā lidosta''' ({{val|lt|Tarptautinis Vilniaus oro uostas}}) ir [[Lietuva]]s lielākā civilā [[lidosta]], atrodas apmēram 7 kilometrus uz dienvidiem no [[Viļņa]]s centra. Viļņas lidosta uzsāka darbu [[1932]]. gadā, terminālis celts [[1954]]. gadā. [[2007. gads|2007]]. gadā lidosta apkalpoja 1 717 222 pasažieru.
+
+Lidostu pārvalda valsts uzņēmums "Tarptautinis Vilniaus oro uostas", kas ir Lietuvas Satiksmes un Komunikāciju ministrijas pārziņā. Viļņas lidosta ir lidsabiedrību ''[[flyLAL]]'' un ''[[airBaltic]]'' bāzes lidosta.
+
+Lidostai ir viens 2515 m garš skrejceļš.
+ 
+Starp Viļņas lidostu un Rīgu ir mikroautobusu satiksme, kuru nodrošina lidostas transfēra operators flyBus.
+
+== Satiksme ar lidostu ==
+
+=== Autobusi ===
+Starp lidostu un Viļņas centru (pietura Centrālā stacija) kursē 1. un 2. maršruta autobusi, kas atiet no Šeškinės ielas. Autobuss kursē ik pēc 15 — 30 minūtēm. Maksa — 1,10 Lt.
+
+Starp Rīgu un Viļņas lidostu kursē mikroautobusi flyBus (www.flybus.lv). Tiešais transfērs tiek veikts vairākas reizes nedēļā. flyBus maršruts ir caur Bausku un Paņevēžu.
+
+== Statistika ==
+{{Lidostas-statistika|iata=VNO}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20060831103005/http://www.vilnius-airport.lt/index.php?lang=en Lidostas mājaslapa] {{en ikona}} {{lt ikona}}
+
+== Galerija ==
+<gallery>
+Vilnius airport terminal building.JPG|2008
+FlyLAL at Vilnius airport1.JPG|FlyLAL lidmašīna Viļņas lidostā
+AirBaltic at Vilnius airport.JPG|AirBaltic lidmašīna Viļņas lidostā
+FlyLAL technics hangar at Vilnius airport.JPG|FlyLAL tehniķu angārs
+Non-Schengen sector at Vilnius airport.JPG|Ne-Šengenas valstu pasažieru zona Viļņas lidostā
+Duty free shop at Vilnius airport.JPG|''Duty free'' veikals Viļņas lidostā
+Bus service at Vilnius airport.JPG|Autobusu satiksme Viļņas lidostā
+Vilnius airport railway station (1).jpg|Dzelzceļa satiksme Viļņas lidostā
+</gallery>
+
+
+{{Lietuva-aizmetnis}}
+
+[[Kategorija:Viļņa|Starptautiska lidosta]]
+[[Kategorija:Lidostas Lietuvā]]

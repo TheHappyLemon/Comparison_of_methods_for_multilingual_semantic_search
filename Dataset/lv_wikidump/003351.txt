@@ -1,0 +1,25 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Acetylene-2D.svg|100px]] [[Attēls:Acetylene-3D-vdW.png|100px]]<br />Acetilēna struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>2</sub>H<sub>2</sub>
+|molmasa=26,04
+|blīvums=1,097
+|kušanas temperatūra=-84&nbsp;°C
+|viršanas temperatūra=-80,8&nbsp;°C
+}}
+'''Acetilēns''' (no {{val|la|acetum}} — [[etiķis]] — un {{val|el|hyle}} — viela; '''etīns''', C<sub>2</sub>H<sub>2</sub>) ir vienkāršākais [[alkīni|alkīns]] — [[ogļūdeņradis]] ar trīskāršo saiti molekulā. Acetilēns ir bezkrāsaina, degtspējīga gāze, kas šķīst [[acetons|acetonā]]. Acetilēnu var iegūt, [[kalcija karbīds|kalcija karbīdam]] reaģējot ar ūdeni, vai arī pirolizējot [[metāns|metānu]]. Saspiestā un sašķidrinātā veidā acetilēns ir nestabils un var spontāni sadalīties, tāpēc to uzglabā, izšķīdinātu acetonā, vai arī iegūst uz vietas. Acetilēnu lieto metināšanai un metālapstrādei (dzelzs virsmas cietināšanai). Acetilēnu agrāk lietoja arī par ķīmisko izejvielu, taču šādiem mērķiem mūsdienās vairāk lieto naftas [[ogļūdeņraži|ogļūdeņražus]], jo tie ir lētāki.
+
+Acetilēna [[jonizācijas potenciāls]] ir 11,4 [[elektronvolts|eV]].<ref>[http://www.ximicat.com/ebook.php?file=nekrasov1_neo.djvu&page=344 Основы общей химии. Том 1] {{ru ikona}}</ref>
+
+== Skatīt arī ==
+* [[Organiskās vielas]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{organiskā ķīmija-aizmetnis}}
+
+{{Nepiesat}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogļūdeņraži]]

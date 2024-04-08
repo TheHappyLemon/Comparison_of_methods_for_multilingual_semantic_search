@@ -1,0 +1,54 @@
+{{Elementa infokaste
+|                 tips = lantanīds
+|      kārtas skaitlis = 64
+|             6. čaula = 2
+|             5. čaula = 9
+|             4. čaula = 25
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Gd
+|             atommasa = 157,25
+|   valences elektroni = [Xe]4f<sup>7</sup>5d<sup>1</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Gd-TableImage.svg|250px]]
+|               attēls = [[Attēls:Gadolinium-crop.jpg|190px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Gadolinium-2.jpg|150px]]<br />Gadolīnija paraugi
+|  oksidēšanas pakāpes = '''+3''', '''+2'''
+|  elektronegativitāte = 1,20
+|              blīvums = 7900
+|  kušanas temperatūra = 1585 K (1312&nbsp;°C)
+| viršanas temperatūra = 3546 K (3273&nbsp;°C)
+}}
+'''Gadolīnijs''' ir [[ķīmiskais elements]] ar simbolu '''Gd''' un [[atomskaitlis|atomskaitli]] 64. Tas ir sudrabbalts, mīksts [[metāls]]. Salīdzinot ar citiem [[lantanīdi]]em, tas ir relatīvi stabils gaisā (oksidējas lēnām, veidojot melnu pārklājumu). Zem tā [[Kirī temperatūra|kirī temperatūras]] gadolīnijs ir [[feromagnētisks]]. Virs [[Kirī temperatūra|kirī temperatūras]] tas ir [[paramagnētisks]]. Dabā gadolīnijs sastopams oksīda formā un to atdalot tam ir citu reto metālu piejaukumi to līdzīgo ķīmisko īpašību dēļ. Gadolīniju iegūst no [[polimetāliskās rūdas|polimetāliskajām rūdām]]. 
+
+Gadolīnijs tika atklāts 1880. gadā izmantojot spektroskopiju, bet izolēts tas tika 1886. gadā. Gadolīnijs nosaukts pēc somu ķīmiķa [[Johans Gadolins|Johana Gadolina]]. Viņa vārdā nosaukts arī minerāls gadolinīts, bet tas satur ļoti nelielus daudzumus gadolīnija.
+
+Gadolīnija(III) joni šķīstošos sāļos ir toksiski.
+
+== Pielietojums ==
+
+=== Metalurģija ===
+Gadolīnijam piemīt īpašas metalurģiskās īpašības. Pat ļoti nelieli daudzumi gadolīnija var palielināt [[dzelzs]], [[Hroms|hroma]] un citu līdzīgu metālu noturību pret koroziju augstās temperatūrās. 
+
+=== Neitronu aizturēšana ===
+Gadolīnijs, kā metāls vai sāls, apsorbē [[Neitrons|neitronus]], tāpēc to var pielietot neitronu aizturēšanai [[Radiogrāfija|radiogrāfijā]] vai [[Kodolreaktors|kodolreaktoros]]. Gadolīnija nitrātu izmanto [[Kodolreaktors|kodolreaktoru]] darbības pārtraukšanai avārijas gadījumos. 
+
+=== Medicīna ===
+Radioloģijā gadolīniju-157 izmanto audzēju ārstēšanai. Organiski gadolīnija savienojumi tiek izmantoti kā magnētiskās rezonanses kontrastviela.
+
+=== Magnētiskā dzesēšana ===
+Gadolīnijam piemīt liels [[magnetokaloriskais efekts]] ap tā kirī temperatūru. Magnētiskajai dzesēšanai ar gadolīniju vai tā savienojumiem ir potenciāls aizvietot pašreizējās dzesēšanas sistēmas, kas izmanto dabai nedraudzīgas vielas.
+
+Gadolīnija savienojumus lieto par [[luminofors|luminoforiem]] [[kineskops|kineskopos]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]

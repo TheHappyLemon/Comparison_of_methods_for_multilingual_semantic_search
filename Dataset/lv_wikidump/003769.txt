@@ -1,0 +1,51 @@
+{{Personas infokaste
+|          vārds = Johans Heinrihs Pestaloci
+|     vārds_orig = ''Johann Heinrich Pestalozzi''
+|         attēls = Johann Heinrich Pestalozzi (Real Academia de Bellas Artes de San Fernando, Madrid).jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1746
+|     dz_mēnesis = 1
+|       dz_diena = 12
+|       dz_vieta = [[Cīrihe]], {{CHE}}
+|      m_dat_alt = 
+|         m_gads = 1827
+|      m_mēnesis = 2
+|        m_diena = 17
+|        m_vieta = [[Bruga]], [[Ārgava]], {{CHE}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|   nodarbošanās = pedagogs
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|       piezīmes = 
+|    kategorijas = 
+|    citas daļas = 
+}}
+
+
+'''Johans Heinrihs Pestaloci''' ({{val|de|Johann Heinrich Pestalozzi}}; dzimis {{dat|1746|1|12}}, miris {{dat|1827|2|17}}) bija [[Šveice|šveiciešu]] [[pedagoģija|pedagogs]] un [[filantropija|filantrops]].
+
+Ieviesis vairākus mūsdienu pedagoģijas principus. Vairākas reizes dibinājis skolas zemnieku bērniem. Kaut arī skolas nācās slēgt, Pestaloci uzskati ieguva popularitāti. Galvenos savas pedagoģijas principus aprakstijis darbā "Kā Ģertrūde māca bērnus" (''Wie Gertrud ihre Kinder lehrt''). Pēc Pestaloci domām, galvenais labas pedagoģijas pamats ir cilvēka dabīgo īpašību ievērošana.
+
+Viņa sekotājs Latvijā bija [[Alberts Holanders]] (1796-1868), kas 1825. gadā Vecbrenguļos nodibināja privāto skolu, uz kuras pamatiem vēlāk izveidoja [[Bērzaines ģimnāzija|Bērzaines ģimnāziju]] pie Cēsīm.
+
+{{commons|Johann Heinrich Pestalozzi|Johans Heinrihs Pestaloci}}
+{{Cilvēks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Pestaloci, Johans Heinrihs}}
+[[Kategorija:1746. gadā dzimušie]]
+[[Kategorija:1827. gadā mirušie]]
+[[Kategorija:Cīrihes kantonā dzimušie]]
+[[Kategorija:Šveices cilvēki]]
+[[Kategorija:Pedagogi]]
+[[Kategorija:Filantropi]]

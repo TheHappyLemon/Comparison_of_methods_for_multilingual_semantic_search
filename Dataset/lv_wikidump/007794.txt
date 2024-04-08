@@ -1,0 +1,66 @@
+{{Latvijas novada infokaste
+| nosaukums         = Dignājas pagasts
+| karte             = Dignājas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Dignājas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Dignājas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Dignāja
+| platība           = 83,44
+| iedzīvotāji       = 578<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 578 / 83.44 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Dignājas pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām tā austrumos, [[Daugava]]s kreisajā krastā. Robežojas ar sava novada [[Dunavas pagasts|Dunavas]], [[Zasas pagasts|Zasas]], [[Leimaņu pagasts|Leimaņu]] un [[Ābeļu pagasts|Ābeļu]] pagastu, kā arī [[Līvānu novads|Līvānu novada]] [[Līvāni|Līvānu]] pilsētu un [[Turku pagasts|Turku]] un [[Jersikas pagasts|Jersikas]] pagastu. Pagasta pārvalde izvietojas Vandānu ciema «Kamenēs».
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Daugava]], [[Meņķa upīte]], [[Slīterānu upīte]].
+
+== Vēsture ==
+Mūsdienu Dignājas pagasta teritorijā vēsturiski atradās Dignājas muiža (''Gut Dubena'', [[Dignāja]]), Menkes muiža (''Gut Menkenhof'').
+
+1935. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Dignājas pagasta platība bija 215,6 km² un tajā dzīvoja 2956 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Bērzones ciems|Bērzones]], Dignājas, [[Drēģu ciems|Drēģu]] un [[Eglones ciems|Eglones]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Dignājas ciems''' ietilpis [[Aknīstes rajons|Aknīstes]] (1949-1954) un [[Jēkabpils rajons|Jēkabpils]] (pēc 1954. gada) rajonos. Dignājas ciemam 1954. gadā pievienoja Drēģu ciema K. Barona [[kolhozs|kolhoza]] teritoriju, 1956. gadā — [[Dunavas ciems|Dunavas ciema]] Sudrabkalna kolhoza teritoriju, bet 1968. gadā — [[padomju saimniecība]]s «Dunava» teritoriju pievienoja Dunavas ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Dignājas pagastu kā administratīvo teritoriju iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+Pilskalns: [[Dignājas pilskalns]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Dignāja]], [[Dignājas skola]], [[Kaļvāres]], [[Meņķis]], [[Slīterāni]], [[Vandāni]]. 
+
+=== Ievērojamas personības ===
+* [[Pēteris Dardzāns]] (1889—1985), tautsaimnieks, latviešu strēlnieku virsnieks, vēsturnieks.
+* [[Jānis Akuraters]] (1876—1937), dzejnieks, rakstnieks un politiķis, latviešu strēlnieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Ārējās saites ==
+
+* [https://web.archive.org/web/20120826141247/http://www.panoramio.com/user/4074187/tags/%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BD%D0%B8%20-%20%D0%94%D0%B8%D0%B3%D0%BD%D0%B0%D1%8F%20-%20%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0 Dignājas, Vandāņu un Dunavas attēlu kolekcija]
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Jēkabpils rajons}}
+{{Jēkabpils apriņķis}}
+}}
+
+{{DEFAULTSORT:Dignajas pagasts}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Dignājas pagasts| ]]

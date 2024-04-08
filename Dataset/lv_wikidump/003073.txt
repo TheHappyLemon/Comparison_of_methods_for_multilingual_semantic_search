@@ -1,0 +1,16 @@
+'''Lasāmatmiņa''' ({{val-en|Read Only Memory}} - '''ROM''') ir [[dators|datoru]] atmiņa, kuru ir iespējams tikai nolasīt, bet ne ierakstīt (vai arī ir iespējams ierakstīt, taču tas notiek daudz lēnāk, un pieejas metode atšķiras no tās, kuru lieto nolasīšanai). Tajā uzglabā datus, kurus parasti nevajag izmainīt (''firmware''), visbiežāk - [[BIOS]] programma. [[Centrālais procesors]] lasāmatmiņai spēj piekļūt tādā pašā veidā kā [[brīvpiekļuves atmiņa]]i, tāpēc no tās ir iespējams tiešā veidā izpildīt programmas instrukcijas. Mūsdienās sastopamās lasāmatmiņas ir lēnākas par brīvpiekļuves atmiņām.
+
+== Lasāmatmiņas veidi ==
+Uz [[pusvadītāji]]em bāzētās:
+* neprogrammējamās ROM - masveida lasāmatmiņas, kuras ieraksta jau rūpnīcā.
+* [[PROM]] (''programmable read only memory'') vienreiz ierakstāmas (programmējamas) atmiņas. To veic ar speciālu iekārtu (lietojot palielinātus barošanas spriegumus). 
+* [[EPROM]] (''erasable programmable read only memory''), atšķirībā no PROM, var arī izdzēst ar [[ultravioletais starojums|UV starojumu]] un pārprogrammēt vēlreiz. Atkārtota dzēšana (vairāk par 1000 reižu) ierīci ar laiku sagrauj.
+* [[EEPROM]] (''electrically erasable PROM''), atšķirībā no EPROM, var dzēst un ierakstīt elektriski (nav nepieciešams UV starojums). Izplatītākās šāda veida atmiņas ir [[zibatmiņa]]s, kuras dzēš un ieraksta pa lieliem segmentiem. Ir iespējamas arī EEPROM, kur var mainīt katru bitu atsevišķi. Dzēšot EEPROM tās nolietojas, parasti EEPROM iztur ~1000 dzēšanas ciklus (flašatmiņas - līdz 100000).
+Citu veidu (nosacīti):
+* [[Kompaktdisks|CD-ROM]] un citi optiskie diski. Tie ir vai nu rūpnieciski ierakstīti (CD-ROM) (analogs rūpnieciski programmētām PROM), vienrez ierakstāmi (CD-R) (analogs ierakstāmām PROM) vai pārrakstāmi (CD-RW) (analogs EPROM un EEPROM).
+* [[Diode|Diožu]] matricu atmiņa, kuru lietoja [[1960. gadi|1960. gados]]. To programmēja, izvietojot attiecīgajās vietās pusvadītāju diodes.
+* [[Rezistors|Rezistoru]], [[kondensators|kondensatoru]] matricu atmiņa, kuras lietoja līdz [[1970. gadi]]em. Pēc uzbūves līdzīga PROM, tikai būvēta no atsevišķiem komponentiem (nevis vienā mikroshēmā). Šo iemeslu dēļ tai ir ļoti mazs informācijas blīvums taču to var mehāniski izmainīt.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datoratmiņa]]

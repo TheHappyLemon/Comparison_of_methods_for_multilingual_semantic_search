@@ -1,0 +1,52 @@
+[[Attēls:Aviatik B.I.jpg|thumb|270px|Aviatik B.I]]
+
+Pirmie, [[Vācija|vācu]] firmas [[Automobil und Aviatik|"Automobil und Aviatik"]] [[Lidaparāts|lidaparāti]] bija nokopēti no franču paraugiem, bet pakāpeniski, pieaugot pieredzei, firma sāka izstrādāt arī savus modeļus. Divvietīgā [[Rekognoscēšana|rekognoscēšanas]] [[lidmašīna]] [[Aviatik B.I|B.I]], kas tika pieņemta bruņojumā 1914. gada augustā, tika izgatavota uz sacīkšu [[Divplāksnis|divplākšņa]] (biplāna) bāzes, kurš bija konstruēts 1913. gadā.
+Kā jau vairumam tā laika [[Izlūklidmašīna|izlūklidmašīnu]] — novērotājs atradās priekšējā [[Kabīne|kabīnē]]. Lidmašīna bija aprīkota ar 100 z.s. jaudīgu [[Mercedes D.I]] [[Dzinējs|dzinēju]], kas tika dzesēts ar diviem [[Radiators|radiatoriem]], kas atradās virs zemākā spārna pie abiem bortiem.
+== Tehniskie parametri ==
+{|cellpadding="2"
+|----- bgcolor="#DDDDDD"
+! Škirklis
+! Parametri
+|-----  bgcolor="#EEEEEE"
+| Konstruēšanas gads || 1915
+|-----  bgcolor="#EEEEEE"
+| Ražotājs || Automobil und Aviatik
+|----- bgcolor="#EEEEEE"
+| Konstruktori: || 
+|-----  bgcolor="#EEEEEE"
+| Spārnu izmērs || 12.50 m
+|-----  bgcolor="#EEEEEE"
+| Lidmašīnas garums || 7.10 m
+|-----  bgcolor="#EEEEEE"
+| Lidmašīnas augstums || 3.3 m
+|-----  bgcolor="#EEEEEE"
+| Spārna laukums || 34.20m²
+|-----  bgcolor="#EEEEEE"
+| Tukšas lidm. masa || 672 kg
+|-----  bgcolor="#EEEEEE"
+| Maksimālā lidm. masa || 1,089 kg
+|-----  bgcolor="#EEEEEE"
+| Maksimālais ātrums || 100-120 km/h
+|-----  bgcolor="#EEEEEE"
+| Lidošanas maks. augstums || 6,100 m
+|-----  bgcolor="#EEEEEE"
+| Nolidošanas attālums || 4 h
+|-----  bgcolor="#EEEEEE"
+| Ekipāža || 2 (Pilots un novērotājs)
+|-----  bgcolor="#EEEEEE"
+| Dzinējs || 1x Mercedes D.I
+|-----  bgcolor="#EEEEEE"
+| Jauda || 100 zs
+|-----  bgcolor="#EEEEEE"
+| Bruņojums || nav 
+|}
+== Informācija ==
+* [https://web.archive.org/web/20060113075941/http://www.luftfahrtmuseum.com/htmd/dth/aviatik.htm Automobil- und Aviatik-AG, Abt. Flugmaschinenbau]
+* [https://web.archive.org/web/20051103221552/http://www.wwiaviation.com/german1914.shtml German Aviation 1914]
+* [https://web.archive.org/web/20061006004349/http://www.constable.ca/aviatik.htm Automobil und Aviatik AG "Aviatik" B, C and D Series]
+* [http://www.cofe.ru/avia/A/A-112.htm Aviatik B.I and B.II (Авиатик В.I и В.II)]
+* [http://wp.scn.ru/ru/ww1/o/1123/59/0 Aviatik B.I/B.II/C.I/C.III]{{Novecojusi saite}}
+* [http://www.designation-systems.net/non-us/germany-ww1.html German and Austro-Hungarian Military Aircraft Designations (1914-1918)]
+* [http://www.airwar.ru/enc/other1/aviatb1.html Aviatik B.I]
+
+[[Kategorija:Aviatik|B.I]]

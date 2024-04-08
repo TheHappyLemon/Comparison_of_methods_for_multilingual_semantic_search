@@ -1,0 +1,180 @@
+{{cita nozīme|pilsētu|bijušo dzelzceļa staciju|Limbaži (stacija)}}
+{{Apdzīvotas vietas infokaste
+| name = Limbaži
+| native_name = 
+| settlement_type = Novada pilsēta
+| other_name = {{val|liv|Limbaž}}
+| nickname = 
+| motto = 
+| image_skyline = Limbažu vecpilsēta.jpg
+| imagesize = 
+| image_caption = Limbažu centrālais laukums
+| image_flag = Bandera Limbazi.png
+| flag_link = Limbažu karogs
+| image_shield = Limbazi COA.svg
+| shield_link = Limbažu ģerbonis
+| pushpin_map = Latvija
+| pushpin_label_position = 
+| latd = 57
+| latm = 30
+| lats = 41
+| latNS = N
+| longd = 24
+| longm = 43
+| longs = 09
+| longEW = E
+| subdivision_type = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name = '''{{karogs|Latvija}}'''
+| subdivision_type1 = Novads
+| subdivision_name1 = [[Limbažu novads]]
+| subdivision_type2 = 
+| subdivision_name2 = 
+| established_title = Pilsētas tiesības
+| established_date = kopš 1385. gada
+| established_title2 = 
+| established_date2 = 
+| leader_title = Limbažu apvienības pārvaldes vadītājs
+| leader_name = Viktors Zujevs
+| seat_type = Vēsturiskie<br />nosaukumi
+| seat = {{val|de|Lemsal}}<br />{{val|ru|Лемзаль}}
+| area_total_km2 = 9.01
+| population_footnotes = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+| population_total = {{iedzsk|dati|Limbaži}}
+| population_as_of = {{iedzsk|dat}}
+| population_rank = 
+| population_density_km2 = auto
+| timezone = [[Austrumeiropas laiks|EET]]
+| utc_offset = +2
+| timezone_DST = [[Austrumeiropas laiks|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = Pasta indeksi
+| postal_code = LV-4001
+| area_code = 
+| website = {{URL|www.limbazunovads.lv}}
+| footnotes = 
+}}
+'''Limbaži''' ({{val|liv|Limbaž}})<ref>{{Tīmekļa atsauce|url=https://livonian.tech/|title=livonian.tech – Lībiešu-latviešu-igauņu vārdnīca|access-date=2023-07-30|language=lv}}</ref> ir [[pilsēta]] [[Vidzeme|Vidzemē]], [[Limbažu novads|Limbažu novada]] centrs. Sena [[Hanzas savienība]]s pilsēta, bijušais [[Rīgas arhibīskapija]]s tā sauktā [[Līvu gals|Līvu gala]] administratīvais centrs un [[Rīgas arhibīskapi (1255—1562)|Rīgas arhibīskapa]] rezidences pilsēta 14.—16. gadsimtā.
+
+== Nosaukuma izcelsme ==
+10.—12. gadsimtā mūsdienu Limbažu vietā atradusies [[Lībieši|līvu]] pils '''Lemisele'''<ref name="LME">{{LME|2|382}}</ref> (arī '''Lembsele''' vai '''Lemesele'''), kas nozīmējis "plaša sala mežainā purvā." Šajā laikā Ziemeļvidzeme tiešām bija klāta ar bieziem mežiem un purviem. Izskaņa "-aži" (kā Pabaži, Allaži, Ainaži, Ropaži u.c.) ir raksturīga pārlatviskoto līvu apvidiem Vidzemē. Kopš viduslaikiem Limbažu pils un pilsētas nosaukums vāciski bijis '''Lemsal'''.
+
+Toties pēc tautas nostāstiem 17. gadsimtā kāds zviedru mācītājs nejauši izdzirdētos vārdus "Limba" un "āži", salicis kopā, domādams ar to vietas nosaukumu, un tā esot cēlies pilsētas pašreizējais nosaukums Limbaži.
+
+== Ģeogrāfija ==
+
+Limbažu apkārtne ir samērā līdzena un auglīga platforma ar lēzeniem reljefa viļņiem, uz kuru mugurām mālaina zeme. Lēzenās ieplakas starp reljefa viļņiem un dziļās glaciālās renes, kur tagad ezeri, atvieglina ūdeņu noteku no reljefa viļņu mugurām.<ref>{{lkv||23521.—23522}}</ref> Limbažu rietumpusē atrodas izstiepti [[Limbažu Lielezers|Lielezers]] un [[Dūņezers (Limbažu pagasts)|Dūņezers]], kurus savieno caurteka [[Donaviņa]]. No Dūņezera ziemeļos no Limbažiem iztek [[Svētupe]].
+
+Limbaži atrodas [[Idumejas augstiene]]s Limbažu viļņotajā līdzenumā, uz rietumiem no Limbažiem atrodas [[Metsepoles līdzenums]].
+
+Vidējā gaisa temperatūra janvārī ir −5,5 °C, jūlijā — +16,5 — +17 °C. Nokrišņu daudzums 800 mm gadā, bezsala perioda vidējais ilgums ap 145 dienām.<ref name="LGA">''Latvijas ģeogrāfijas atlants''. "Jāņa sēta", 2020</ref>
+
+== Vēsture ==
+{{pamatraksts|Limbažu vēsture}}
+[[Attēls:Panorama of Limbaži after the great fire of 1747 and description from Broce's collection (1773).jpg|thumb|left|280px|Limbažu panorāma pēc lielā 1747. gada ugunsgrēka un apraksts no [[Broce]]s kolekcijas (1773)]]
+
+Limbažu kā pilsētas izveidošanās saistāma ar Rīgas arhibīskapa [[Limbažu pils]] celtniecību 13. gadsimtā. Literatūrā atrodamas norādes, ka [[Alberts fon Bukshēvdens|bīskaps Alberts]] 1223. gadā sev cēlis pili Limbažos. Līdz ar to iedibinājās tradīcija šo laiku uzskatīt par pilsētas dibināšanas gadu, kaut gan [[Indriķa hronika|Indriķa Livonijas hronikā]] par to nekas nav teikts.
+
+1385. gadā [[Rīgas arhibīskapi (1255—1562)|Rīgas arhibīskaps]] [[Johans IV fon Zintens|Johans IV]] dāvināja zemes gabalu pilsētas tālākai izbūvei, oficiāli piešķirot pilsētas tiesības, un nocietināja to ar mūriem un aizsarggrāvjiem. Tolaik pilsētas tirgus laukumā atradies ģilžu nams (trim ģildēm), rātsnams un [[Svētais Labrencis|Sv. Labrenča]] (Sv. Laurencija) baznīca. Viduslaikos Svētais Laurencijs, domājams, bijis arī svarīgs pilsētas simbols, jo ar Evaņģēliju un dzelzs restēm attēlots arī uz pilsētas spiedoga (1418), vēlākajos gados (1546) tikai viņa režģis.<ref>{{Grāmatas atsauce|title=Est- und Livländische brieflade : eine sammlung von urkunden zur Adels- und Gütergeschichte Est- und Livlands, in Uebersetzungen und Auszügen. Vierter Theil.|last=|first=|publisher=|year=1887|isbn=|location=|pages=Tafel 19, S.85.}}</ref> Dzīvojamo ēku skaits lēsts ap 400, bet iedzīvotāju skaita ziņā Limbaži atpalikuši tikai no Rīgas. Pilsēta bija [[Hanzas savienība]]s locekle un vienlaikus arī plaša [[Rīgas arhibīskapija]]s novada saimnieciskais centrs. No Limbažiem pa [[Svētupe|Svētupi]] iekšzemes preces (medu, vasku, ādu, labību) veda līdz jūrai, kur pārkrāva jūras kuģos, kas tās nogādāja [[Lībeka]]s, [[Visbija]]s un citu Hanzas pilsētu ostās.
+
+16. gadsimta sākumā pilsētas kā tirdzniecības centra nozīme mazinājās, jo sakarā ar [[Dūņezers (Limbažu pagasts)|Dūņezera]] un Svētupes aizsērēšanu tie vairs nebija izmantojami upju transportam un līdzšinējās novadā ražoto preču eksporta funkcijas lielā mērā pārņēma Rīga un Salacgrīva. Bez tam pilsētu cita pēc citas piemeklēja dažādas nelaimes. 1558. gadā to nodedzināja [[Jānis Briesmīgais|cara Ivana IV (Bargā)]] karaspēks, 1567. gadā to pašu izdarīja zviedri, bet 1575. gadā atkal krievi. Pēc atkārtotas Limbažu ieņemšanas 1602. gadā zviedri galīgi nopostīja pilsētu un tās nocietinājumus, kurus pēc tam vairs neatjaunoja.
+
+1747. gada ugunsgrēkā pāris stundu laikā nodega visa pilsēta, neskarot tikai 4 ēkas. Kaut arī pilsēta tika atjaunota, tās turpmākā attīstība bija gausa.
+
+Aktīvāka saimnieciskā rosība sākās 1877. gadā, kad ar likumu Limbažus atbrīvoja no līdzšinējās pakļautības Rīgai. 1876. gadā Limbažos nodibinājās vecākais uzņēmums, kas vairākām pilsētnieku paaudzēm nodrošināja darbu - A. Tīla cepuru fabrika un vilnas vērptuve (vēlākais "Limbažu filcs"). 1913. gadā to pārveidoja par [[Beļģija]]s akciju sabiedrību ar direktoru rīkotāju J. Husmani.
+
+[[Attēls:The march of soldiers mobilized by the Latvian Provisional Government along Jūras Street in Limbaži in 1919.jpg|thumb|[[Latvijas Pagaidu valdība|Latvijas pagaidu valdības]] mobilizēto karavīru gājiens pa Jūras ielu Limbažos 1919. gadā]]
+Pēc Pirmā pasaules kara gadu panīkuma saimnieciskā un kultūras dzīve Limbažos atjaunojās ar jaunu sparu, tomēr, tāpat kā pirms kara, tā bija neliela [[Valmieras apriņķis|Valmieras apriņķa]] pilsētiņa, kuras iedzīvotāju galvenā nodarbošanās bija tirdzniecība un amatniecība. Limbažu attīstību veicināja 1934. gadā izbūvētā [[Dzelzceļa līnija Rīga—Rūjiena|Rīgas-Limbažu dzelzceļa līnija]]. 1936. gadā atklāja jauno slimnīcu (50 vietas), bet 1939. gadā - Vienības namu. Otrā pasaules kara laikā vācu armija atkāpšanās laikā 1944. gadā dzelzceļu nopostīja, un to atjaunoja tikai 10 gadus vēlāk.
+
+Strauja pilsētas izaugsme sākās pēc 1967. gada, kad izveidoja [[Limbažu rajons|Limbažu rajonu]] un pilsētā sākās intensīva celtniecība. Ar barakām aizņemto Stacijas ielas rajonu apbūvēja ar bezpersoniskām tipveida piecstāvu dzīvojamām ēkām. Individuālā būvniecība koncentrējās Rīgas un Alojas šoseju virzienos. 1970. gadu sākumā aizsākās savrupmāju celtniecība Kaupiņciemā. Par galveno saimniecības nozari pilsētā kļūst rūpniecība, bet par lielākajiem pilsētas uzņēmumiem līdzās "Limbažu filcam" kļuva pienotava, mežrūpniecības saimniecība un "Lauktehnika".
+
+== Mūsdienas ==
+
+Mūsdienās Limbažu dzīve pārsvarā ir saistīta ar [[lauksaimniecība|lauksaimniecību]] un [[pārtika]]s pārstrādi. Lauksaimniecībā izmantojamās zemes Limbažu rajonā sastāda gandrīz trešdaļu no kopējās rajona zemes platības. Attīstās arī [[mežsaimniecība]] un [[kokapstrāde]] un citas [[apstrādes rūpniecība]]s nozares.
+
+== Iedzīvotāju skaita izmaiņas Limbažos ==
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|footnote    = 
+|ap 1385|ap 6000
+|1622|12
+|1773|549
+|1800|600
+|1840|877
+|1863|1134
+|1881|1814
+|1897|2412
+|1905|5000
+|1914|4700
+|1920|2501
+|1925|3085
+|1930|2935
+|1935|2870
+|1943|2806
+|1959|4823
+|1970|5791
+|1979|8257
+|1989|9985
+|1997|9522
+|2000|9179
+|2004|8934
+|2007|8686
+|2008|8657
+|2009|8619
+|2010|8559
+|2011|8406
+|2012|8290
+|2013|8186
+|2014|8022
+|2015|7957
+|2016|7805
+|2017|7652
+|2018|7498
+|2019|7393
+|2020|7306
+|2021|7253
+|2022|7139
+}}
+
+== Cilvēki ==
+[[Attēls:Karlis Baumanis Denkmal Limbazi.jpg|thumb|Piemineklis [[Baumaņu Kārlis|Baumaņu Kārlim]] Cēsu ielā. Tēln. Z. Rapa, J. Rapa, 1998.]]
+* [[Baumaņu Kārlis]] (1835—1905) — Latvijas Republikas himnas "Dievs, svētī Latviju!” autors, kopš 1882. gada dzīvoja Limbažos, apbedīts Limbažu kapos
+* [[Ivars Auziņš]] (1969) — [[Dailes teātris|Dailes teātra]] aktieris
+
+== Apskates vietas ==
+* Limbažu pils (1223.-1602.) drupas
+* Evaņģēliski luteriskā Sv. Jāņa baznīca (arh. R.Bindenšū, 1679.-80.)
+* Vecais rātsnams Burtnieku ielā 14 (18. gadsimts)
+* Rātsnams Baumaņu Kārļa laukumā (bijušajā Tirgus laukumā, 1825.)
+* Bijusī Rīgas rātes Limbažu pilsmuižas pārvaldnieka māja, tagad pilsētas muzejs (19. gadsimta sākums)
+* Limbažu Kristus Apskaidrošanas draudzes ortodoksā baznīca (1900.-1903.)
+* Piemineklis Latvijas Brīvības cīņās kritušajiem Sv. Jāņa luterāņu baznīcas pagalmā (arhitekts P. Kundziņš, 1923.)
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [https://web.archive.org/web/20110305223229/http://www.limbazi.lv/ Agrākā oficiālā mājaslapa]
+* [http://www.visitlimbazi.lv Tūrisma mājaslapa]
+* [https://web.archive.org/web/20070928022233/http://www.daily-tangents.com/Gerboni/Cities/index.php3?city=Limbazi Limbaži]
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Limbažu novads}}
+{{Latvijas pilsētas}}
+{{Novadu centri}}
+{{Navboxes|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Limbažu rajons}}
+{{Limbažu apriņķis}}
+{{Valmieras apriņķis}}
+}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hanzas pilsētas]]
+[[Kategorija:Vidzeme]]
+[[Kategorija:Limbaži| ]]

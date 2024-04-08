@@ -1,0 +1,131 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #EE2722
+| nos     = ''AS Monaco''
+| logo    = [[Attēls:Association Sportive de Monaco.png|120px]]
+| pilns   = ''Association Sportive Monaco <br/>Football Club'' 
+| iesauka = ''Les Rouges et Blancs'' (Sarkanbaltie)
+| pilsēta = {{Vieta|Monako}}
+| dib     = 1924
+| dib_mēn = 8
+| dib_dat = 23
+| stad    = [[Luija II stadions]]
+| ietilp  = 18 523
+| prez    = {{flaga|Krievija}} Dmitrijs Ribolovļevs
+| tren    = {{flaga|Austrija}} [[Adi Hiters]]
+| līga    = [[Francijas futbola 1. līga|Francijas 1. līga]]
+| sez     = [[2022.—2023. gada Francijas futbola 1. līgas sezona|2022.—2023.]]
+| poz     = 6. vieta
+| pattern_la1 = _monaco2122h
+| pattern_b1 = _monaco2122h
+| pattern_ra1 = _monaco2122h
+| pattern_sh1 = _monaco2021h
+| pattern_so1 = _monaco2122h
+| leftarm1 = FFFFFF
+| body1 = FF0000
+| rightarm1 = FFFFFF
+| shorts1 = FF0000
+| socks1 = FFFFFF
+| pattern_la2 = _monaco2122a
+| pattern_b2 = _monaco2122a
+| pattern_ra2 = _monaco2122a
+| pattern_sh2 = _monaco2122a
+| pattern_so2 = _monaco2122a
+| leftarm2 = 2E2E29
+| body2 = 2E2E29
+| rightarm2 = 2E2E29
+| shorts2 = 2E2E29
+| socks2 = 2E2E29
+| pattern_la3 = _monaco2122t
+| pattern_b3 = _monaco2122t
+| pattern_ra3 = _monaco2122t
+| pattern_sh3 = _monaco2122t
+| pattern_so3 = _monaco2122t
+| leftarm3 = FFF8ED
+| body3 = FFF8ED
+| rightarm3 = FFF8ED
+| shorts3 = FFF8ED
+| socks3 = FFF8ED
+}}
+
+'''''Association Sportive de Monaco Football Club''''' ({{IPA|a.sɔ.sja.sjɔ̃ spɔrtɪv də mɔnaˈkɔ}}), biežāk zināms kā '''''AS Monaco''''' vai vienkārši '''''Monaco''''', ir [[Monako]] [[futbols|futbola]] klubs no [[Monako|Monako Firstistes]]. Klubs spēlē [[Francijas futbola 1. līga|Francijas futbola augstākajā līgā]] un ir viens no veiksmīgākajiem klubiem, astoņas reizes uzvarot Francijas čempionātā un piecas reizes [[Coupe de France|Francijas kausā]]. ''Monaco'' regulāri piedalās arī Eiropas klubu turnīros, 1992. gadā sasniedzot [[Kausu ieguvēju kauss|Kausu ieguvēju kausa]] finālu, bet 2004. gadā [[UEFA Čempionu līga|Čempionu līgas]] finālu.
+
+''AS Monaco'' ir vienīgais klubs Francijas futbola līgās, kurs neatrodas pašā Francijā, bet gan tās kaimiņvalstī Monako. Kluba veiksmīgākās sezonas bija 1970. un vēlos 1980. gados, kad to vadīja ievērojamie treneri [[Lisjēns Lediks]] un [[Arsēns Vengers]] un klubs bija viens no vadošajiem Eiropā. ''Monaco'' tradicionālās krāsas ir sarkans un balts, kā rezultātā radusies iesauka ''Les Rouge et Blanc'' ({{val-lv|Sarkanbaltie}}). Klubs kopš 1985. gada savas mājas spēles aizvada ''[[Stade Louis II]]'' stadionā, kur ir 18 523 skatītāju vietas.<ref>{{Tīmekļa atsauce|url=http://www.asmonaco.com/en/article/stade-louis-ii-presentation-62962.html|title=Presentation of the Louis II Stadium|accessdate={{dat|2015|10|7}}|publisher=AS Monaco FC|archiveurl=https://web.archive.org/web/20150923095948/http://www.asmonaco.com/en/article/stade-louis-ii-presentation-62962.html|archivedate={{dat|2015|09|23||bez}}}} {{Webarchive|url=https://web.archive.org/web/20150923095948/http://www.asmonaco.com/en/article/stade-louis-ii-presentation-62962.html |date={{dat|2015|09|23||bez}} }}</ref> ''Monaco'' ir [[Eiropas Klubu asociācija]]s dalībnieks.
+
+Neskatoties uz to, ka Monako pamatiedzīvotāji ir [[monegaski]], šo klubu ir trenējis tikai viens šīs tautības treneris - [[Armāns Forčerio]].
+
+== Komandas sastāvs ==
+''{{Dat|2022|3|28||bez}}''.
+{{Fs start}}
+{{Fs player|no= 1|nat=POL|pos=GK|name=[[Radoslavs Majeckis]]}}
+{{Fs player|no= 2|nat=BRA|pos=DF|name=[[Vandersons]]}}
+{{Fs player|no= 3|nat=CHI|pos=DF|name=[[Giljermo Maripans]]}}
+{{Fs player|no= 4|nat=ESP|pos=MF|name=[[Sesks Fabregass]]}}
+{{Fs player|no= 5|nat=FRA|pos=DF|name=[[Benuā Badjašils]]}}
+{{Fs player|no= 6|nat=FRA|pos=DF|name=[[Aksels Disasī]]}}
+{{Fs player|no= 7|nat=POR|pos=FW|name=[[Želsons Martinšs]]}}
+{{Fs player|no= 8|nat=FRA|pos=MF|name=[[Oreljēns Tšuamenī]]}}
+{{Fs player|no= 9|nat=NED|pos=FW|name=[[Mairons Boadu]]}}
+{{Fs player|no=10|nat=FRA|pos=FW|name=[[Visams Ben Jeders]]|other=[[kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no=11|nat=BRA|pos=MF|name=[[Žeans Lukass]]}}
+{{Fs player|no=12|nat=BRA|pos=DF|name=[[Kaju Enriki]]}}
+{{Fs player|no=14|nat=GER|pos=DF|name=[[Ismails Jakobss]]}}
+{{Fs mid}}
+{{Fs player|no=16|nat=GER|pos=GK|name=[[Aleksandrs Nībels]]|other=īrē no [[FC Bayern Munich|Bayern Munich]]}}
+{{Fs player|no=17|nat=RUS|pos=MF|name=[[Aleksandrs Golovins (futbolists)|Aleksandrs Golovins]]}}
+{{Fs player|no=19|nat=FRA|pos=DF|name=[[Džibrils Sidibē]]}}
+{{Fs player|no=22|nat=FRA|pos=MF|name=[[Jūsufs Fofana]]}}
+{{Fs player|no=26|nat=FRA|pos=DF|name=[[Rubēns Aguilārs]]}}
+{{Fs player|no=27|nat=SEN|pos=FW|name=[[Krepins Djata]]}}
+{{Fs player|no=28|nat=GNB|pos=MF|name=[[Pelē (futbolists, dzimis 1991. gadā)|Pelē]]}}
+{{Fs player|no=30|nat=ITA|pos=GK|name=[[Vito Mannone]]}}
+{{Fs player|no=31|nat=GER|pos=FW|name=[[Kevins Follands]]}}
+{{Fs player|no=33|nat=FRA|pos=MF|name=[[Magnē Akliušē]]}}
+{{Fs player|no=34|nat=FRA|pos=DF|name=[[Krislains Matsima]]}}
+{{Fs player|no=36|nat=BEL|pos=MF|name=[[Eliots Mataco]]}}
+{{Fs player|no=37|nat=FRA|pos=MF|name=[[Sofīns Diops]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Francijas futbola 1. līga|Francijas čempionāts (''Ligue 1'')]]'''
+** Čempioni (8): 1960–61, 1962–63, 1977–78, 1981–82, 1987–88, 1996–97, 1999–2000, [[2016.—2017. gada Francijas futbola 1. līgas sezona|2016–17]]
+** Vicečempioni (7): 1963–64, 1983–84, 1990–91, 1991–92, 2002–03, 2013–14, [[2017.—2018. gada Francijas futbola 1. līgas sezona|2017–18]]
+* '''[[Francijas kauss futbolā|Francijas kauss]]'''
+** Kausa ieguvēji (5): 1959–60, 1962–63, 1979–80, 1984–85, 1990–91
+** Finālisti (5): 1973–74, 1983–84, 1988–89, 2009–10, 2020–21
+* '''Francijas līgas kauss'''
+** Kausa ieguvēji (1): 2002–03
+** Finālisti (3): 2000–01, 2016–17, 2017–18
+* '''Francijas superkauss'''
+** Kausa ieguvēji (4): 1961, 1985, 1997, 2000
+** Finālisti (3): 1960, 2017, 2018
+* '''Šarla Drago kauss'''
+** Kausa ieguvēji (1): 1961
+* '''[[Francijas futbola 2. līga|Francijas 2. līga]]'''
+** Čempioni (1): 2012–13
+** Vicečempioni (3): 1952–53, 1970–71, 1976–77
+* '''[[UEFA Čempionu līga]]'''
+** Finālisti (1): 2003–04
+* '''[[UEFA Kausu ieguvēju kauss]]'''
+** Finālisti (1): 1991–92
+* '''Alpu kauss'''
+** Uzvarētāji (3): 1979, 1983, 1984
+** Finālisti (1): 1985 <ref>{{Tīmekļa atsauce|url=http://www.asmonaco.com/en/history/trophy-room-303.html|title=Trophy Room|accessdate={{dat|2015|10|7}}|publisher=AS Monaco FC|archiveurl=https://web.archive.org/web/20151027010700/http://www.asmonaco.com/en/history/trophy-room-303.html|archivedate={{dat|2015|10|27||bez}}}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+* [http://asmonaco.com/ Oficiālā kluba mājaslapa] {{fr ikona}} {{en ikona}} {{es ikona}} {{ru ikona}} {{pt ikona}}
+
+{{futbols-aizmetnis}}
+{{Ligue 1}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Monaco}}
+[[Kategorija:AS Monaco FC]]
+[[Kategorija:Francijas futbola klubi]]
+[[Kategorija:Monako]]

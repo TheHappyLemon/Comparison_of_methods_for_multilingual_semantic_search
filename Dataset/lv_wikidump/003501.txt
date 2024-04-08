@@ -1,0 +1,49 @@
+{{Infokaste
+| abovestyle = background-color:#cef2e0
+| headerstyle = background-color:#cef2e0
+| above = Apollons
+| image = {{#invoke:InfoboxImage|InfoboxImage|image=Apollo kitharoides Drottningholm.jpg}}
+| caption = Statuja, kurā redzams Apollons ar [[cītara|cītaru]]
+| header1 = Sengrieķu mitoloģija
+| label2 = Aizgādnis par
+| data2= mūziku, dzeju, mākslu, dejām, veselībus, ārstniecību, pareģojumiem, gaismu, sauli, zināšanām, kolonizatoriem un loka šaušanu
+| label3 = Uzturēšanās vieta
+| data3= [[Olimpa kalns]]
+| label4 = Simboli
+| data4= [[lira (mūzikas instruments)|lira]], [[lauru lapas|lauru]] vainags, [[pitons (mitoloģija|pitons]], [[krauklis (mitoloģija|krauklis]], [[gulbis (mitoloģija)|gulbis]], [[loks (ierocis)|loks]] un [[bulta]]s
+| header5 = Personīgā informācija
+| label6 = Vecāki
+| data6 = [[Zevs]], [[Lēto]]
+| label7 = Brāļi un māsas
+| data7 = [[Artemīda]] (dvīņumāsa)
+| label8 = Bērni
+| data8 = [[Asklēpijs]], [[Troils]], [[Aristejs]], [[Orfejs]]
+| label9 = Romiešu analogs
+| data9 = [[Fēbs]] (tiek arī saukts par Apollonu)
+}}
+
+'''Apollons''' ({{val|grc|Ἀπόλλων}}, ''Apóllōn'') ir viens no divpadsmit [[Olimpa dievi|Olimpa dieviem]], mākslas aizbildnis [[sengrieķu mitoloģija|sengrieķu mitoloģijā]]. Viņš ir [[Zevs|Zeva]] un [[Lēto]] dēls, [[Artemīda]]s dvīņubrālis. Apollons ir pār daiļajām mākslām valdošo [[mūzas|mūzu]] aizgādnis, dziedātāju un dzejnieku patrons. Sākotnēji ganāmpulku aizgādnis, pamazām viņš arvien vairāk kļuva par gaismas dievu, [[saule (mitoloģija)|saules]] dievu. Vēlāk viņu sāka uzskatīt par izceļotāju un jaundibināto grieķu koloniju aizstāvi un pēc tam arī par mākslas, dzejas un mūzikas aizgādni. [[Romiešu mitoloģija|Romiešu mitoloģijā]] Apollona analogs ir [[Fēbs]], dažreiz tiek saukts arī par Apollonu.
+
+== Mīts ==
+Gaismas dievs zeltmatis Apollons dzimis [[Dēla]]s salā. Viņa māte ir [[Lēto]] un tēvs [[Zevs]]. Lēto vajāja sadusmotā Zeva sieva [[Hēra]]. Hēras uzsūtītā drakona [[Pitons (mitoloģija)|Pitona]] vajāta, viņa klīda pa visu pasauli, kamēr beidzot patvērās Dēlas salā, kas šai laikā klejoja pa vētrainās jūras viļņiem.
+
+Apollonam bija deviņas [[mūzas]] — [[Kalliope]] (episkā dzeja un daiļruna), [[Klio]] (mūza, kas dara slavenu, vēstures mūza), [[Melpomene]] (traģēdija), [[Eiterpe]] (poēzijas un mūzikas), [[Erato]] (liriskā un mīlestības poēzija), [[Terpsihora]] (dejas un kora dziedāšanas), [[Talija]] (komēdija), [[Polihimnija]] (himnas), [[Urānija]] (astronomija), kā arī māsa [[Artemīda]] — medību un mēness dieviete.
+
+Apollonam bija dēls [[Asklēpijs]], ārstniecības dievs. To izskoloja [[kentaurs]] [[Hīrons]], bet Apollona dēls drīz pārspēja to, jo ne tikai prata ārstēt slimības, bet arī atdzīvināt mirušos. Par to sadusmojās [[Aīds]] un Zevs, kurš Asklēpiju nogalināja. Lai mierinātu Apollonu, Zevs to uznesis debesīs un padarījis par [[Čūsknesis|Čūskneša zvaigznāju]].
+
+== Kulta vietas ==
+Visā senajā pasaulē bija pazīstama Apollona svētnīca [[Delfi|Delfos]], kur svētceļniekiem pareģoja priesteriene [[Pītija]]. Līdz mūsdienām ir saglabājušies tikai Apollona tempļa pamati, tomēr arī tie ir ļoti iespaidīgi. Tempļa celtniecība tika sākta 370. gadā p.m.ē., un tā ilgusi 30 gadus.
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{mitoloģija-aizmetnis}}
+
+{{Sengrieķu mitoloģija}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Grieķu dievi]]

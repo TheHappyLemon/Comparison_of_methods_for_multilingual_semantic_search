@@ -1,0 +1,88 @@
+{{Navbox
+|name       = ASV štati
+|title      = [[Amerikas Savienotās Valstis|ASV]] [[ASV administratīvais iedalījums|administratīvais iedalījums]] {{flaga|ASV}}
+|image      = [[Attēls:Great Seal of the United States (obverse).svg|80px|ASV ģerbonis]]
+|bodyclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1 = [[ASV štati]]
+|list1 = 
+* [[Aidaho]]
+* [[Aiova]]
+* [[Alabama]]
+* [[Aļaska]]
+* [[Arizona]]
+* [[Ārkanzasa]]
+* [[Delavēra]]
+* [[Dienviddakota]]
+* [[Dienvidkarolīna]]
+* [[Džordžija]]
+* [[Florida]]
+* [[Havajas]]
+* [[Ilinoisa]]
+* [[Indiāna]]
+* [[Jūta]]
+* [[Kalifornija]]
+* [[Kanzasa]]
+* [[Kentuki]]
+* [[Kolorādo]]
+* [[Konektikuta]]
+* [[Luiziāna]]
+* [[Masačūsetsa]]
+* [[Meina]]
+* [[Mērilenda]]
+* [[Mičigana]]
+* [[Minesota]]
+* [[Misisipi (štats)|Misisipi]]
+* [[Misūri (štats)|Misūri]]
+* [[Montāna]]
+* [[Nebraska]]
+* [[Nevada]]
+* [[Ņūdžersija]]
+* [[Ņūhempšīra]]
+* [[Ņujorka (štats)|Ņujorka]]
+* [[Ņūmeksika]]
+* [[Ohaio (štats)|Ohaio]]
+* [[Oklahoma]]
+* [[Oregona]]
+* [[Pensilvānija]]
+* [[Rietumvirdžīnija]]
+* [[Rodailenda]]
+* [[Teksasa]]
+* [[Tenesī]]
+* [[Vaiominga]]
+* [[Vašingtona (štats)|Vašingtona]]
+* [[Vērmonta]]
+* [[Virdžīnija]]
+* [[Viskonsina]]
+* [[Ziemeļdakota]]
+* [[Ziemeļkarolīna]]
+
+|group2 = [[Federālais apgabals]]
+|list2 = 
+* [[Vašingtona|Kolumbijas apgabals]]
+
+|group3 = [[ASV salu teritorijas|Salu teritorijas]]
+|list3 = 
+* [[ASV Samoa]]
+* [[Guama]]
+* [[Ziemeļu Marianas Salas]]
+* [[Puertoriko]]
+* [[ASV Virdžīnas]]
+
+|group4 = [[ASV Mazās Aizjūras Salas|Mazās salas]]
+|list4 = 
+* [[Beikera sala]]
+* [[Haulenda sala]]
+* [[Džērvisa sala]]
+* [[Džonstona atols]]
+* [[Kingmena rifs]]
+* [[Midveja atols]]
+* [[Navasa]]
+* [[Palmiras atols]]
+* [[Veika sala]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes|Asv sztati]]
+</noinclude>

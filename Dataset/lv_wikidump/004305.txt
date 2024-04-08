@@ -1,0 +1,25 @@
+{{Vielas infokaste
+|attēls=<table><tr><td>[[Attēls:Aniline.svg|100px]]</td><td>[[Attēls:Aniline-3D-vdW.png|140px]]</td></tr><tr><td>Anilīna struktūrformula</td><td>Anilīna molekulas modelis</td></tr></table>
+|ķīmiskā formula=C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>
+|molmasa=93,13
+|blīvums=1021,7
+|kušanas temperatūra=-6,3&nbsp;°C
+|viršanas temperatūra=184,13&nbsp;°C
+}}
+'''Anilīns''' (fenilamīns, aminobenzols) ir [[organiskās vielas|organisks savienojums]] ar ķīmisko formulu C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>. Sastāvot no benzola gredzena un aminogrupas, tas ir tipisks [[aromātiskie ogļūdeņraži|aromātisko ogļūdeņražu]] atvasinājums. Anilīns ir vienkāršākais aromātiskais [[amīni|amīns]]. Kā vairumam gaistošo amīnu, tam piemīt nepatīkama puvušu zivju smaka. Anilīnu iegūst, reducējot [[nitrobenzols|nitrobenzolu]]. Līdzīgā veidā var iegūt arī anilīna atvasinājumus (aromātiskos amīnus, kam benzola gredzenā ir aizvietotāji). Tīrs anilīns ir caurspīdīgs, bezkrāsains šķidrums, tas gaisā oksidējas un ar laiku kļūst brūngans. Oksidējot anilīnu, iegūst dažādas [[organiskās krāsvielas]], tas vienmēr ir bijis galvenais anilīna pielietojums. Anilīns ir vāja bāze.
+
+== Izmantošana ==
+
+Pārsvarā anilīns tiek izmantots [[metilēndianilīns|metilēndianilīna]] iegūšanai.<ref name=Ullmann>Thomas Kahl, Kai-Wilfrid Schröder, F. R. Lawrence, W. J. Marshall, Hartmut Höke, Rudolf Jäckh "Aniline" in Ullmann's Encyclopedia of Industrial Chemistry 2007; John Wiley & Sons: New York.</ref> Citi pielietošanas virzieni ietver [[gumija]]s apstrādes ķimikālijas (9%), [[herbicīdi|herbicīdu]] (2%), krāsvielu un pigmentu (2%) ražošanu.<ref name="CPoA">{{cite news|title=Aniline|publisher=The Chemical Market Reporter|url=http://www.the-innovation-group.com/ChemProfiles/Aniline.htm|accessdate=2007-12-21|archiveurl=https://archive.today/20020219104231/http://www.the-innovation-group.com/ChemProfiles/Aniline.htm|archivedate=2002-02-19}}</ref> Dažādi anilīna atvasinājumi tiek izmantoti kā piedevas gumijai — [[antioksidants|antioksidanti]]. Anilīnu izmanto par izejvielu [[paracetamols|paracetamola]], kā arī [[indigo]] krāsvielas ražošanai. Indigo tiek izmantota audumu (piemēram, zilu džinsu), gan arī ēdiena (pārtikas piedeva E132) krāsošanai.<ref name=Ullmann/><ref name=Ullmann2>Elmar Steingruber "Indigo and Indigo Colorants" Ullmann's Encyclopedia of Industrial Chemistry 2004, Wiley-VCH, Weinheim.</ref>
+
+=== Atsauces ===
+
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Amīni]]
+[[Kategorija:Herbicīdi]]
+
+
+{{Org-stub}}

@@ -1,0 +1,1 @@
+This repository contains a source code for 2024 bachelor thesis paper "Comparison of methods for multilingual semantic search"

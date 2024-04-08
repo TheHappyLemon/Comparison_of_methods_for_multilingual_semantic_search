@@ -1,0 +1,25 @@
+{{Bruņu mašīnas infokaste 
+|     nosaukums=Panzerkampfwagen I Ausf. B (Sd.Kfz 101)
+|        attēls=
+|    virsraksts=
+|       apkalpe=2 komandieris un vadītājs
+|        garums=4,43 m
+|       platums=2,06 m
+|      augstums=1,72 m
+|          masa=5,8 t
+|        bruņas=13-19 mm
+|     primārais=2×7,92&nbsp;mm ložmetēji un 2250 patronas
+|   sekundārais=
+|       dzinējs=[[Maybach]] NL38TR
+| dzinēja_jauda=100 ZS (73 kW) 
+|ātrums_uz ceļa=40 km/h
+| zs_koeficents=17 ZS/t
+|maks. attālums=180 km uz ceļa, 130 km apvidū
+}}
+
+'''Panzerkampfwagen I Ausf.B (Sd.Kfz 101)''' bija [[Vācija]]s vieglais [[tanks]], kuru uzsāka ražot [[1935]]. gadā uzņēmumos ''Henkell'', ''MAN'' un ''Vegmann''. Ražošana turpinājās līdz [[1939]]. gadam.
+''MAN'' laikaposmā no 1936. līdz 1937. gadam izgatavoja 75 tankus. ''Vegmann'' ražoja tanku no 1936. līdz 1939. gadam, bet ''Henkell'' — no 1935. līdz 1939. gadam.
+Kopumā izgatavoja 1016 tankus Panzerkampfwagen I Ausf. B (Sd.Kfz 101).
+Salīdzinot ar [[Panzerkampfwagen I Ausf.A (Sd.Kfz 101)|Panzerkampfwagen I Ausf.A]], šim tankam bija uzstādīts jaudīgāks dzinējs ''Maybach NL38TR'' un pielikts viens atbalsta ritenis un vadošo (pakaļējo) riteni pacēla augstāk no zemes. Uz šī tanka šasijas bāzes tika izveidota arī 150 mm [[haubice]] '''sIG 33 auf PzKpfw 1 Ausf В'''.
+
+[[Kategorija:Panzerkampfwagen I]]

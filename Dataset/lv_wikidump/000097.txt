@@ -1,0 +1,57 @@
+{{Citas nozīmes|jēdzienu bioloģijā un ķīmijā|DNS (nozīmju atdalīšana)|DNS}}
+[[Attēls:DNA animation.gif|thumbnail|200px|DNS fragments. DNS sastāv no divām savītām spirālēm]]
+'''Dezoksiribonukleīnskābe''' ('''DNS''') ir viena no [[nukleīnskābes|nukleīnskābēm]]. Pēc ķīmiskās uzbūves DNS ir [[dezoksiribonukleotīdi|dezoksiribonukleotīdu]] lineārs [[polimērs]]. Tā [[monomērs|monomēri]] ir [[nukleotīdi]], t.i., [[slāpeklis|slāpekļa]] bāzes, [[ogleklis|oglekļa]] [[dezoksiriboze]]s un [[fosforskābe]]s atlikuma savienojumi. DNS praktiski ir visu dzīvo [[organisms|organismu]] (izņemot daļu no [[vīruss|vīrusiem]]) [[ģenētika|ģenētiskās]] informācijas glabātājs (tāda ir tikai 1 no 2 DNS ķēdēm, no kurām viena ir aktīvā ķēde — informācijas glabātāja, bet otra — pasīvā jeb sedzējķēde, no kuras matricas jeb [[informācijas RNS]] norakstīs [[komplementaritāte|komplementāro]] DNS). Divpavedienu DNS divi komplementāri DNS pavedieni (polimēri) veido DNS dubultspirāli, ko veido divas savītas spirāles. Abas DNS veidojošās polinukleotīdķēdes ir savienotas ar [[ūdeņraža saite|ūdeņraža saitēm]]. DNS ir sastopams arī viena pavediena veidā. DNS spirāle var būt pat vairākus [[milimetrs|milimetrus]] gara.<ref name="biogrāmata"/><ref name="piezīme"/> [[Eikariots|Eikariotu]] šūnās lielākā daļa DNS atrodas [[šūnas kodols|šūnas kodolā]], [[hromosoma|hromosomās]]. [[Prokariots|Prokariotos]] ([[baktērijas|baktērijās]] un [[arhebaktērijas|arhebaktērijās]]) DNS brīvi peld [[citoplazma|citoplazmā]]. Hromosomās [[hromatīns|hromatīnu]] olbaltumviela [[histons]] veic DNS organizāciju un kompaktās struktūras nodrošināšanu.
+
+== Pētīšanas vēsture ==
+[[Attēls:Maclyn McCarty with Francis Crick and James D Watson - 10.1371 journal.pbio.0030341.g001-O.jpg|thumb|Dubultspirāles modeļa izveidotāji [[Džeimss Votsons]] un [[Frānsiss Kriks]] (attēlā pa labi) ar Maklīnu Makkārtiju (attēlā pa kreisi).]]
+
+1869. gadā šveicietis [[Fridrihs Mišers]] no [[strutas|strutās]] esošajām [[leikocīts|leikocītu]] šūnām izdalīja kodolus un atklāja, ka to sastāvā ir no [[olbaltumvielas|olbaltumvielām]] atšķirīga viela, kuras sastāvā ir daudz [[fosfors|fosfora]] un maz [[sērs|sēra]], un nosauca to par nukleīnu (no {{val|la|nucleus}} — 'kodols'). Tālāk citi ķīmiķi turpināja nukleīna pētīšanu un atklāja tajā skābu vielu, ko nosauca par [[nukleīnskābe|nukleīnskābi]]. Vēlāk atklāja, ka t.s. nukleīna sastāvā ir divu veidu nukleīnskābes: dezoksiribonukleīnskābe un [[ribonukleīnskābe]].<ref name="S.S.Madera">{{Grāmatas atsauce |title= Bioloģija 1. daļa  |author=Silvija S. Madera |year=2001 |publisher=[[Zvaigzne ABC]] |isbn=9789984174747 |page=222}}</ref>
+
+[[1953]]. gadā dezoksiribonukleīnskābes molekulas struktūru izpētīja [[Džeimss Votsons]] un [[Frānsiss Kriks]],<ref name="biogrāmata" /> un par to viņi [[1962]]. gadā saņēma [[Nobela prēmija fizioloģijā vai medicīnā|Nobela prēmiju fizioloģijā vai medicīnā]].
+
+== Jaunas DNS ķēdes veidošanās ==
+DNS dubultošanos un jaunas DNS ķēdes veidošanos sauc par [[DNS replikācija|replikāciju]]. Tā notiek pirms [[Bezdzimumvairošanās|šūnu dalīšanās]].
+
+Replikācijai ir trīs posmi:
+
+# Attīšanās - DNS ķēdes atvijas un saites starp bāzu pāriem enzīma ietekmē tiek sarautas
+# Komplementāru (atbilstošu) pāru veidošanās - jauni komplementāri nukleotīdi, kuri vienmēr atrodas kodolā, tiek pievienoti aktīvajai DNS ķēdei pēc bāzu komplementaritātes principa (Adenīns - Timīns; Guanīns - Citozīns)
+# Savienošanās - pievienotie komplementārie nukleotīdi savienojas un veido jaunu ķēdi. 
+
+== DNS bojājumi un mutācijas ==
+Vides faktoru un normālu [[Vielmaiņa|vielmaiņas]] procesu rezultātā notiek DNS bojājumi. Bojājumi svarīgos [[Gēns|gēnos]] var traucēt šūnas funkcijas un palielināt [[Audzējs|audzēju]] veidošanās varbūtību. Lielākā daļa bojājumu rada izmaiņas DNS ķēdes primārajā struktūrā, ķīmiski modificējoties bāzēm. Dažreiz, šūnām daloties, jaunizveidotajā šūnā var pazust vai parādīties no jauna kāda hromosoma. Šīs izmaiņas sauc par [[Mutācija|mutācijām]].
+
+DNS bojājumi var rasties gan endogēno (iekšējo), gan eksogēno (ārējo) faktoru iedarbībā.
+
+Galvenie izraisītie bojājumu veidi ir šādi:
+* bāzu [[Oksidēšanās-reducēšanās reakcijas|oksidēšanās]] un DNS pavediena pārtraukšana [[Brīvais radikālis|brīvo radikāļu]] iedarbībā;
+* bāzu alkilēšanās (parasti metilēšanās);
+* bāzu [[hidrolīze]] — deaminēšana, depurinēšana, depirimidēšana;
+* bāzu sajaukšana — kļūdas replikācijas procesā, kad tiek pievienota nepareiza bāze vai bāze ir izlaista, vai ievietota nepareizā vietā. Eksogēno faktoru iedarbība var būt dažāda:
+* citozīna un timīna bāzu kroslinkings, ko izraisa [[Ultravioletais starojums|ultravioletā gaisma]], veidojot [[Pirimidīns|pirimidīna]] [[Dimēri|dimērus]];
+* DNS pavedienu bojājumi, ko izraisa [[jonizējošais starojums]];
+* ķīmikālijas ([[vinilhlorīds]], [[ūdeņraža peroksīds]], [[Policikliskie aromātiskie ogļūdeņraži|policikliskie ogļūdeņraži]] u. c.) izraisa DNS bāzu ķīmisko modifikāciju.
+Šūnās eksistē speciāli mehānismi, lai iespēju robežās novērstu radušos bojājumus DNS. Šo iespēju nodrošina DNS dubultspirāles uzbūve. Ja bojāts ir tikai viens no abiem dubultspirāles pavedieniem, otrs tiek lietots kā šablons, lai veiktu korekcijas.
+
+== Atsauces un piezīmes ==
+{{refbegin}}
+* [http://www.neslimo.lv/pme/?name=dezoksiribonukleinskabe-dns Dezoksiribonukleīnskābe| Medicīnas termins] {{lv ikona}}
+{{refend}}
+{{Commons category|DNA|dezoksiribonukleīnskābe}}
+{{atsauces|refs=
+<ref name="biogrāmata">{{Grāmatas atsauce |title= Bioloģijas rokasgrāmata |location= Rīga |publisher= [[Zvaigzne ABC]] |year= 1995 |page= 24}}</ref>
+<ref name="piezīme">DNS molekulu garums ir simtiem reižu lielāks nekā [[olbaltumvielas|olbaltumvielu]] molekulām</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://www.youtube.com/watch?language=lv&v=aeAL6xThfL8 DNS: grāmata par jums — Džo Hansons] {{latviski}}. ''TED-Ed'' (2012. gada 26. novembris).
+
+{{bioķīmija-aizmetnis}}
+
+{{ģenētika}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bioķīmija]]
+[[Kategorija:Ģenētika]]

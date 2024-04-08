@@ -1,0 +1,36 @@
+{| class="infobox" style="font-size:75%; text-align:center; background-color:#fefefc"
+|-
+| style="font-size:110%; text-align:left; padding-left: 5px; padding-right: 5px; background-color:#f0f0ee; "| '''[[Gadsimtu saraksts|Gadsimti]]:'''
+| style="text-align:center;" class="hlist" | 
+* [[{{{cp}}}]]
+* '''[[{{{c}}}]]'''
+* [[{{{cf}}}]]
+|-
+| style="font-size:110%; text-align:left; padding-left: 5px; padding-right: 5px; background-color:#f0f0ee; border-top: 1px solid #AAAAAA; "  | '''[[Desmitgažu saraksts|Desmitgades]]:''' 
+| style="text-align:center; border-top: 1px solid #AAAAAA;" class="hlist" | 
+{{#if:{{{dd|}}}|
+* {{{ddp1}}}
+* '''{{{dd}}}'''
+* {{{ddn1}}}
+|
+* [[{{{dp3}}}]]
+* [[{{{dp2}}}]]
+* [[{{{dp1}}}]]
+* '''[[{{{d}}}]]'''
+* [[{{{dn1}}}]]
+* [[{{{dn2}}}]]
+* [[{{{dn3}}}]] 
+}}
+|-
+| style="font-size:110%; text-align:left; padding-left: 5px; padding-right: 5px; background-color:#f0f0ee; border-top: 1px solid #AAAAAA; "  | '''[[Gadu saraksts|Gadi]]:'''
+| style="text-align:center; border-top: 1px solid #AAAAAA;" class="hlist" | 
+* [[{{{yp1}}}. gads|{{{yp1}}}]]
+* [[{{{yp2}}}. gads|{{{yp2}}}]]
+* [[{{{yp3}}}. gads|{{{yp3}}}]]
+* {{resize|150%|'''[[{{{year}}}. gads|{{{year}}}]]'''}}
+* [[{{{ya1}}}. gads|{{{ya1}}}]]
+* [[{{{ya2}}}. gads|{{{ya2}}}]]
+* [[{{{ya3}}}. gads|{{{ya3}}}]]
+|}<noinclude>
+[[Kategorija:Laika veidnes]]
+</noinclude>

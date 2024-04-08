@@ -1,0 +1,61 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 73
+|             6. čaula = 2
+|             5. čaula = 11
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Ta
+|             atommasa = 180,9479
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>3</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Ta-TableImage.svg|250px]]
+|               attēls = [[Attēls:Tantalum single crystal and 1cm3 cube.jpg|190px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Tantalum.jpg|150px]]<br />Tantala monokristāli un 1 cm<sup>3</sup> kubiņš; tantala paraugs
+|  oksidēšanas pakāpes = '''+5'''
+|  elektronegativitāte = 1,5
+|              blīvums = 16690
+|  kušanas temperatūra = 3290 K (3017&nbsp;°C)
+| viršanas temperatūra = 5731 K (5458&nbsp;°C)
+}}
+
+'''Tantals''', agrāk '''tantāls''', ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ta''' un [[atomskaitlis|atomskaitli]] 73. Tas ir [[korozija]]s izturīgs [[pārejas metāli|pārejas metāls]] un ir sastopams [[minerāls|minerālā]] [[tantalīts|tantalītā]]. Tantalu lieto galvenokārt elektrolītiskajiem [[kondensators|kondensatoriem]], jo uz tantala virsmas veidojas plānāka [[oksīds|oksīda]] kārtiņa, kā uz [[alumīnijs|alumīnija]], tāpēc ir iespējams izgatavot tāda paša izmēra kondensatoru ar lielāku [[elektriskā kapacitāte|kapacitāti]]. Savienojumos tantalam parasti ir oksidēšanas pakāpe +5.
+
+== Vēsture ==
+Tantalu 1802. gadā atklāja zviedru ķīmiķis [[Anderss Gustavs Ekebergs]] (''Anders Gustaf Ekeberg''). Sākotnēji tika uzskatīts, ka tantals ir [[niobijs|kolumbija]], kas tika atklāts gadu iepriekš, [[alotropija|alotropiskā]] forma. 1844. gadā tika noskaidrots, ka kolumbijs patiesībā ir divi atšķirīgi ķīmiskie elementi. Tantals tika nosaukts sengrieķu mitoloģiskā tēla [[Tantals (mitoloģija)|Tantala]] vārdā, bet otrs bija [[niobijs]], kas tika nosaukts Tantala meitas [[Nioba]]s vārdā.
+
+Pirmo reizi tantals tīrā veidā tika iegūts 1907. gadā. To paveica vācu ķīmiķis [[Verners fon Boltons]] (''Werner von Bolton'').
+
+== Atrašanās dabā ==
+Tantals [[Zemes garoza|Zemes garozā]] ir aptuveni no vienas līdz divām daļiņām no miljona. Tantalu satur vairāki [[minerāli]]. Izplatītākie no tiem ir [[tantalīts]], [[mikrolīts]] un [[eiksenīts]]. Nozīmīgākās tantala ieguves vietas atrodas [[Austrālija|Austrālijā]], [[Kongo Demokrātiskā Republika|Kongo Demokrātiskajā Republikā]], [[Ruanda|Ruandā]], [[Brazīlija|Brazīlijā]] un [[Ķīna|Ķīnā]].
+
+=== Izotopi ===
+Dabā ir sastopami divi tantala [[izotops|izotopi]]. Vislielāko daļu veido stabilais izotops tantals-181 (99,988% no visa kopējā tantala daudzuma).<ref name="jlab"/> Otrs ir nestabilais tantals-180 (0,012%), kura [[pussabrukšanas periods]] ir 1,2{{E|15}} gadi.<ref name="jlab"/>
+
+Laboratorijas apstākļos ir iegūti vēl vairāki izotopi. Kopā tantala izotopu skaits pārsniedz 30, un to [[atommasa]]s ir no 155 līdz 192.<ref name="jlab"/>
+
+== Fizikālās īpašības ==
+Tantalam ir salīdzinoši augsta [[kušanas temperatūra]], tas ir, 3017 °C, savukārt [[viršanas temperatūra]] ir 5458 °C. Tā [[blīvums]] ir {{nobr|16 690}} kg/m³. Tantala krāsa ir zili pelēka.
+
+== Ķīmiskās īpašības ==
+[[Normāli apstākļi|Normālos apstākļos]] tantals ir mazaktīvs. Gaisā tas oksidējas 280 °C lielā temperatūrā, veidojot uz virsmas [[tantala oksīds|tantala oksīda]] (Ta<sub>2</sub>O<sub>5</sub>) kārtiņu. Ar [[halogēni]]em reaģē temperatūrā, kas ir augstāka par 250 °C. Kad silda, reaģē ar [[ogleklis|oglekli]], [[bors|boru]], [[silīcijs|silīciju]], [[fosfors|fosforu]], [[selēns|selēnu]], [[telūrs|telūru]], [[ūdens|ūdeni]], [[oglekļa dioksīds|oglekļa dioksīdu]], [[slāpekļa(II) oksīds|slāpekļa(II) oksīdu]], [[hlorūdeņradis|hlorūdeņradi]] un [[sērūdeņradis|sērūdeņradi]].
+
+Ķīmiski tīrs tantals ir ļoti izturīgs pret [[sārmu metāli|sārmu metālu]] šķīdumiem.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso073.html | title= Isotopes of the Element Tantalum | publisher= Jefferson Lab | accessdate= 2013. gada 7. augustā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

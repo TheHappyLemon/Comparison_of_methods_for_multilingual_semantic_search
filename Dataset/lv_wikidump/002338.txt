@@ -1,0 +1,10 @@
+<div style="float:left;border:solid #99B3FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#D0F8FF"
+| style="width:45px;height:45px;background:#77E0E8;text-align:center;font-size:14pt" | '''[[krievu valoda|ru]]-2'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | Этот участник '''[[:Kategorija:User ru-2|хорошо]]''' знает '''[[:Kategorija:User ru|русский язык]]'''. 
+|}</div><includeonly>
+[[Kategorija:User ru|{{PAGENAME}}]]
+[[Kategorija:User ru-2|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Kategorija:Valodu lietotāju veidnes|ru-2]]
+</noinclude>

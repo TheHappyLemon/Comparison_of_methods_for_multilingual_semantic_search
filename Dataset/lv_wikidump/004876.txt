@@ -1,0 +1,100 @@
+{{Futbola izlases infokaste
+| Name               = Baltkrievijas futbola izlase
+| Badge              = Futbols-Baltkrievija.gif
+| FIFA Trigramme     = BLR
+| Nickname           = 
+| Association        = [[Baltkrievijas Futbola federācija]]
+| Confederation      = [[UEFA]]
+| Coach              = {{flaga|Spānija}} [[Karloss Aloss]]
+| Captain            = [[Jevgeņijs Jablonskis]]
+| Most caps          = [[Aleksandrs Kuļčijs]] (102)
+| Top scorer         = [[Maksims Romaščenko]] (20)
+| Home Stadium       = [[Dinamo stadions (Minska)|Dinamo stadions]]
+| FIFA Rank          = {{Nft rank|94|steady||date=2022. gada 10. februāris}}|
+| FIFA max = 57
+| FIFA max date = 2008. gada jūnijs/augusts
+| FIFA min = 142
+| FIFA min date = 1994. gada marts
+| Elo Rank = 68
+| Elo max = 54
+| Elo max date = 2005
+| Elo min = 122
+| Elo min date =  1997-1998
+| pattern_la1        = _blr20h
+| pattern_b1         = _blr20h
+| pattern_ra1        = _blr20h
+| pattern_sh1        = _blr20h
+| pattern_so1        = _blr20h
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| pattern_la2        = _blr20a
+| pattern_b2         = _blr20a
+| pattern_ra2        = _blr20a
+| pattern_sh2        = _blr20a
+| pattern_so2        = _whitetop
+| leftarm2           = EE0000
+| body2              = EE0000
+| rightarm2          = EE0000
+| shorts2            = EE0000
+| socks2             = EE0000
+|First game = {{fb|LTU}} 1 - 1 {{fb|BLR|1991}} <br />([[Viļņa]], [[Lietuva]]; {{dat|1992|7|20|SK}}) 
+|Largest win = {{fb|BLR}} 5 - 0 {{fb|LTU}} <br />([[Minska]], [[Baltkrievija]]; {{dat|1998|6|7|SK}}) 
+|Largest loss = {{fb|AUT}} 5 - 0 {{fb|BLR}} <br />([[Insbruka]], [[Austrija]]; {{dat|2003|6|11|SK}}) 
+}}
+
+'''Baltkrievijas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Baltkrievija|Baltkrievijas valsti]] starptautiskās futbola sacensībās. Baltkrievijas futbola izlasi pārvalda [[Baltkrievijas Futbola Federācija]]. Savu pirmo spēli pēc [[Padomju Savienība|PSRS]] sabrukšanas izlase aizvadīja 1992. gada 20. jūlijā pret [[Lietuvas futbola izlase|Lietuvas izlasi]]. Baltkrievijas izlase nekad nav piedalījusies ne [[FIFA Pasaules kauss|Pasaules]], ne [[Eiropas čempionāts futbolā|Eiropas]] čempionātu finālturnīros.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1994. gada FIFA Pasaules kauss|1994]] — ''Nepiedalījās, atradās [[Padomju Savienība|PSRS]] sastāvā''
+* [[1998. gada FIFA Pasaules kauss|1998]]-[[2010. gada FIFA Pasaules kauss|2010]] — ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] — ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+* [[2018. gada FIFA Pasaules kauss|2018]] — ''Nekvalificējās''
+* [[2022. gada FIFA Pasaules kauss|2022]] — ''[[2022. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1992. gada Eiropas čempionāts futbolā|1992]] — ''Nepiedalījās, atradās [[Padomju Savienība|PSRS]] sastāvā''
+* [[1996. gada Eiropas čempionāts futbolā|1996]]-[[2008. gada Eiropas čempionāts futbolā|2008]] — ''Nekvalificējās''
+* [[2012. gada Eiropas čempionāts futbolā|2012]] — [[Eiropas čempionāta 2012 kvalifikācija — D grupa|''Nekvalificējās'']]
+*[[2016. gada Eiropas čempionāts futbolā|2016]] — [[2016. gada Eiropas čempionāta futbolā kvalifikācija|''Nekvalificējās'']]
+*[[2020. gada Eiropas čempionāts futbolā|2020]] — [[2020. gada Eiropas čempionāts futbolā|''Nekvalificējās'']]
+
+== Sastāvs ==
+Šāds sastāvs tika izsaukts [[Draudzības spēle|Pārbaudes spēlēm]] pret [[Armēnijas futbola izlase|Armēniju]] un [[Gruzijas futbola izlase|Gruziju]], 9 un 13 novembrī 2017.{{nat fs g start|background=#C80020|color=#FFFFFF}}
+{{nat fs g player|no=1|pos=GK|name=[[Alyaksandr Hutar]]|age={{birth date and age|1989|4|18|df=yes}}|caps=9|goals=0|club=[[FC Chornomorets Odesa|Chornomorets Odesa]]|clubnat=UKR}}
+{{nat fs g player|no=22|pos=GK|name=[[Syarhey Ignatovich]]|age={{birth date and age|1992|6|26|df=yes}}|caps=0|goals=0|club=[[FC Dinamo Minsk|Dinamo Minsk]]|clubnat=BLR}}
+{{nat fs g player|no=12|pos=GK|name=[[Pavel Pavlyuchenko]]|age={{birth date and age|1998|1|1|df=yes}}|caps=0|goals=0|club=[[FC Dinamo Brest|Dinamo Brest]]|clubnat=BLR}}
+{{nat fs break|background=#C80020}}
+{{nat fs g player|no=6|pos=DF|name=[[Syarhey Palitsevich]]|age={{birth date and age|1990|4|9|df=yes}}|caps=22|goals=1|club=[[Gençlerbirliği S.K.|Gençlerbirliği]]|clubnat=TUR}}
+{{nat fs g player|no=5|pos=DF|name=[[Maksim Valadzko]]|age={{birth date and age|1992|11|10|df=yes}}|caps=21|goals=2|club=[[FC BATE Borisov|BATE Borisov]]|clubnat=BLR}}
+{{nat fs g player|no=3|pos=DF|name=[[Syarhey Matsveychyk]]|age={{birth date and age|1988|6|5|df=yes}}|caps=8|goals=0|club=[[FC Shakhtyor Soligorsk|Shakhtyor Soligorsk]]|clubnat=BLR}}
+{{nat fs g player|no=19|pos=DF|name=[[Ihar Burko]]|age={{birth date and age|1988|9|8|df=yes}}|caps=5|goals=0|club=[[FC Shakhtyor Soligorsk|Shakhtyor Soligorsk]]|clubnat=BLR}}
+{{nat fs g player|no=20|pos=DF|name=[[Aleksandr Pavlovets]]|age={{birth date and age|1996|8|13|df=yes}}|caps=2|goals=0|club=[[FC Torpedo-BelAZ Zhodino|Torpedo-BelAZ Zhodino]]|clubnat=BLR}}
+{{nat fs g player|no=4|pos=DF|name=[[Alyaksey Hawrylovich]]|age={{birth date and age|1990|1|5|df=yes}}|caps=1|goals=0|club=[[FC Dinamo Brest|Dinamo Brest]]|clubnat=BLR}}
+{{nat fs g player|no=13|pos=DF|name=[[Nikita Naumov]]|age={{birth date and age|1989|11|15|df=y}}|caps=1|goals=0|club=[[FC Vitebsk|Vitebsk]]|clubnat=BLR}}
+{{nat fs break|background=#C80020}}
+{{nat fs g player|no=9|pos=MF|name=[[Ihar Stasevich]]|age={{birth date and age|1985|10|21|df=yes}}|caps=33|goals=2|club=[[FC BATE Borisov|BATE Borisov]]|clubnat=BLR}}
+{{nat fs g player|no=17|pos=MF|name=[[Pavel Nyakhaychyk]]|age={{birth date and age|1988|5|17|df=yes}}|caps=23|goals=1|club=[[FC Dinamo Brest|Dinamo Brest]]|clubnat=BLR}}
+{{nat fs g player|no=21|pos=MF|name=[[Nikita Korzun]]|age={{birth date and age|1995|3|6|df=yes}}|caps=10|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=16|pos=MF|name=[[Alexei Rios]]|age={{birth date and age|1987|5|14|df=yes}}|caps=8|goals=1|club=[[FC BATE Borisov|BATE Borisov]]|clubnat=BLR}}
+{{nat fs g player|no=7|pos=MF|name=[[Artem Bykov]]|age={{birth date and age|1992|10|19|df=yes}}|caps=8|goals=0|club=[[FC Dinamo Minsk|Dinamo Minsk]]|clubnat=BLR}}
+{{nat fs g player|no=14|pos=MF|name=[[Alyaksandr Karnitsky]]|age={{birth date and age|1989|2|14|df=yes}}|caps=3|goals=0|club=[[FC Tosno|Tosno]]|clubnat=RUS}}
+{{nat fs g player|no=23|pos=MF|name=[[Yury Kavalyow]]|age={{birth date and age|1993|1|27|df=yes}}|caps=2|goals=0|club=[[FC Shakhtyor Soligorsk|Shakhtyor Soligorsk]]|clubnat=BLR}}
+{{nat fs g player|no=2|pos=MF|name=[[Oleg Yevdokimov]]|age={{birth date and age|1994|2|25|df=y}}|caps=2|goals=0|club=[[FC Minsk|Minsk]]|clubnat=BLR}}
+{{nat fs g player|no=11|pos=MF|name=[[Vladislav Klimovich]]|age={{birth date and age|1996|6|12|df=y}}|caps=1|goals=0|club=[[Grodņas "Nioman" (futbols)|Neman Grodno]]|clubnat=BLR}}
+{{nat fs g player|no=8|pos=MF|name=[[Pavel Sedko]]|age={{birth date and age|1998|4|3|df=y}}|caps=1|goals=0|club=[[FC Dinamo Brest|Dinamo Brest]]|clubnat=BLR}}
+{{nat fs break|background=#C80020}}
+{{nat fs g player|no=15|pos=FW|name=[[Dzyanis Laptsew]]|age={{birth date and age|1991|8|1|df=yes}}|caps=8|goals=0|club=[[FC Shakhtyor Soligorsk|Shakhtyor Soligorsk]]|clubnat=BLR}}
+{{nat fs g player|no=10|pos=FW|name=[[Anton Saroka]]|age={{birth date and age|1992|3|5|df=yes}}|caps=5|goals=2|club=[[FC Dinamo Minsk|Dinamo Minsk]]|clubnat=BLR}}
+{{nat fs end|background=#C80020}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Baltkrievijas futbola izlase| ]]

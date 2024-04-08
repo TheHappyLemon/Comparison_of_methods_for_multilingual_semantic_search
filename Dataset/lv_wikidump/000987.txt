@@ -1,0 +1,75 @@
+{{Valsts amatpersonas infokaste
+| vārds               = Rafaels Kaldera
+| vārds_orģ           = ''Rafael Caldera''
+| attēls              = Rafael Caldera, 1971.jpg
+| mazs_att            = 
+| apraksts            = 
+<!------ Pirmais amats ------>
+| amats               = [[Venecuēlas prezidenti|Venecuēlas prezidents]]
+| term_sākums         = {{dat|1969|3|11|N}} 
+| term_beigas         = {{dat|1974|3|12|N}}
+| viceprezidents      = 
+| vicepremjers        = 
+| vietnieks           = 
+| prezidents          = 
+| premjers            = 
+| priekštecis         = [[Rauls Leoni]]
+| pēctecis            = [[Karloss Peress]]
+<!------ Otrais amats ------>
+| amats2              = 
+| term_sākums2        = {{dat|1994|2|2|N}} 
+| term_beigas2        = {{dat|1999|2|2|N}}
+| viceprezidents2     = 
+| vicepremjers2       = 
+| vietnieks2          = 
+| prezidents2         = 
+| premjers2           = 
+| priekštecis2        = [[Ramons Valaskess]]
+| pēctecis2           = [[Ugo Čavess]]
+<!------ Personas dati ------>
+| dzim_dati           = {{dat|1916|1|24}}
+| dzim_vieta          = {{vieta|Venecuēla|Sanfelipe}}
+| dzīves_vieta        = 
+| mir_dati            = {{miršanas datums un vecums|2009|12|24|1916|1|24}}
+| mir_vieta           = {{vieta|Venecuēla|Karakasa}}
+| apglabāts           = 
+| tautība             = Venecuēlietis
+| partija             = 
+| dinastija           = 
+| tēvs                = 
+| māte                = 
+| dzīvesb             = 
+| bērni               = 
+| profesija           = 
+| alma_mater          = 
+| reliģija            = 
+| paraksts            = Rafael_Caldera_Signature.svg
+| paraksts_izm        = 
+| piezīmes            = 
+}}
+
+'''Rafaels Kaldera''' (''Rafael Caldera Rodriguez''; dzimis {{dat|1916|1|24}}, miris {{dat|2009|12|24}}) bija [[Venecuēla]]s jurists, [[socioloģija]]s profesors, [[Venecuēlas prezidenti|valsts prezidents]] ([[1969]]-[[1974]], [[1994]]-[[1999]]). [[kristīgā demokrātija|Kristīgās demokrātijas]] iedibinātājs Venecuēlā.
+
+== Biogrāfija ==
+Dzimis {{dat|1916|1|24||bez}} [[Sanfelipe|Sanfelipē]], Venecuēlā.
+
+1936. gada janvārī tika ievēlēts Venecuēlas parlamentā. No 1936. līdz 1938. gadam bija darba lietu ministrs. Parlamentā nodarbojās ar civilo un darba likumdošanu. 1943. gadā pameta parlamentu, lai strādātu universitātē. 1946. gadā Kalderu ievēlēja Venecuēlas Satversmes sapulcē, kur viņš piedalījās jaunās [[konstitūcija]]s izstrādē.
+
+1946. gadā viņš nodibināja [[kristīgā demokrātija|kristīgi demokrātisko]] [[Venecuēlas Sociāli Kristīgā partija|Venecuēlas Sociāli Kristīgo partiju]] (''COPEI - Comité de Organización Política Electoral Independiente''). {{dat|1947|10|14|L|bez}} kļuva par COPEI kandidātu prezidenta vēlēšanās, bet zaudēja [[Romulo Betankūrs|Romulo Betankūram]]. [[Markoss Himeness|Markosa Himenesa]] diktatūras laikā bija opozīcijā, par ko vairākkārt arestēts. 1963. gadā atkal kandidēja par Venecuēlas prezidentu, bet zaudēja [[Rauls Leoni|Raulam Leoni]], saņemot 19,0% balsu.
+
+1968. gadā Kaldera tika ievēlēts par Venecuēlas prezidentu, iegūstot 29,13% balsu. Tas bija pirmais gadījums Venecuēlas vēsturē, kad mierīgā ceļā vara tika nodota opozīcijas kandidātam. Likumdošanas darbs ritēja grūti, jo parlaments pretojās prezidenta iniciatīvām.
+
+Pēc [[Karloss Peress|Karlosa Peresa]] impīčmenta [[korupcija]]s skandālu dēļ 1993. gadā Kaldera 77 gadu vecumā otrreiz kandidēja par prezidentu kā neatkarīgais kandidāts. Viņš uzvarēja vēlēšanās, iegūstot 30,26% balsu. Tiek uzskatīts, ka vēlētāji Kalderu ievēlēja tāpēc, ka viņš protestēja pret [[brīvais tirgus|brīvo tirgu]], taupības režīmu un [[globalizācija|globalizāciju]]. Kaldera uzstājas kā globalizācijas mērens, sociāli orientēts kritiķis. Otro '''Kalderas''' prezidenta darbības termiņu raksturo liela [[inflācija]], finanšu krīze un pieaugošs valsts ārējais parāds. Savas prezidentūras laikā Kaldera amnestēja [[Ugo Čavess|Ugo Čavesu]] un viņa piekritējus. 1999. gadā Kaldera vecuma dēļ vairs nepiedalījās vēlēšanās, un Čavess viegli uzvarēja prezidenta vēlēšanās.
+
+{{kastes sākums}}
+{{s-amati}}
+{{Amatu secība | pirms=[[Rauls Leoni]] | virsraksts = [[Venecuēlas prezidenti|Venecuēlas prezidents]] | periods=[[1969]]—[[1974]] | pēc =[[Karloss Peress]]}}
+{{Amatu secība | pirms=[[Ramons Valaskess]] | virsraksts = [[Venecuēlas prezidenti|Venecuēlas prezidents]] | periods=[[1994]]—[[1999]] | pēc =[[Ugo Čavess]] }}
+{{kastes beigas}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Kaldera, Rafaels}}
+[[Kategorija:1916. gadā dzimušie]]
+[[Kategorija:2009. gadā mirušie]]
+[[Kategorija:Venecuēlas prezidenti]]

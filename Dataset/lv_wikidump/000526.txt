@@ -1,0 +1,55 @@
+{{Valodas infokaste
+ |name          = Korejiešu valoda
+ |nativename    = 한국어, 조선말<br />''hangugeo'', ''chosŏnmal''
+ |pronunciation = 
+ |states        = {{KOR}},<br />{{PRK}},<br />{{CHN}},<br />{{JPN}}
+ |region        = [[Koreja]], [[Austrumāzija]]
+ |speakers      = 78 miljoni<ref name="Ethnologue"/>
+ |family        = tiek diskutēta
+ |script        = [[hangils]], [[handža]]
+ |nation        = {{PRK}}<br />{{KOR}}
+ |agency        = Korejas Republikā: Korejiešu valodas nacionālais institūts (국립국어원/ 國立國語院)<br />Korejas TDR: ''Sahoe Kwahagwon Ŏhak Yŏnguso'' (사회과학원 어학연구소)
+ |map           = [[Attēls:Idioma coreano.png|center|235px]] <small><center>Korejiešu valodas izplatība [[Korejas pussala|Korejas pussalā]]</center></small>
+ |iso1          = ko
+ |iso2          = kor
+ |iso3          = kor
+ |lc1           = kor | ld1= korejiešu valoda
+ |lc2           = kvk | ld2= korejiešu zīmju valoda
+ |familycolor   = Altajiešu
+}}
+
+
+'''Korejiešu valoda''' (한국어, ''hangugeo''; 조선말, ''chosŏnmal'') ir oficiālā valoda [[Korejas Republika|Korejas Republikā]] (Dienvidkorejā) un [[Korejas TDR]] (Ziemeļkorejā). Korejiešu valodā runā aptuveni 78 miljoni cilvēku,<ref name="Ethnologue"/> no kuriem 48 miljoni dzīvo Korejas Republikā, 24 miljoni — Korejas TDR, vairāk nekā 2 miljoni — [[Ķīna|Ķīnā]], aptuveni 1 miljons — [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]], ap 0,5 miljoniem — [[Japāna|Japānā]], bet pārējie 2,5 miljoni — atlikušajās pasaules valstīs. Korejiešu valodai ir divas atšķirīgas [[rakstības sistēma]]s: [[hangils]] un [[handža]]. Korejiešu literārā valoda balstās uz [[Seulas dialekts|Seulas dialektu]].<ref name="liis"/>
+
+Valodnieki diskutē par korejiešu valodas piederību kādai konkrētai [[valodu saime]]i. Daudzi speciālisti uzskata, ka tā ir [[izolēta valoda]], bet daži valodnieki uzskata, ka tā ir viena no [[altajiešu valodas|altajiešu valodām]].<ref name="liis"/>
+[[Attēls:Koreandialects.png|alt=|left|thumb|Korejiešu valodas dialektu izplatība [[Korejas pussala|Korejas pussalā]]]]
+
+== Vēsture ==
+Korejiešu valodas vēsturisko posmu periodizācija ir šāda:
+* korejiešu pirmvaloda (pirms 1. gadsimta);
+* senā korejiešu valoda (no 1. līdz 10. gadsimtam);
+* viduslaiku korejiešu valoda (no 10. līdz 16. gadsimta);
+* mūsdienu korejiešu valoda (sākot ar 17. gadsimtu).
+
+== Īpašvārdu atveidošana ==
+{{pamatraksts|korejiešu īpašvārdu atveidošana}}
+Korejiešu valodas īpašvārdu atveidošana [[latviešu valoda]]s vidē tiek veikta pēc fonētiskās [[transliterācija]]s principa. Korejiešu valodas [[hangils|hangila]] burti tiek pārlikti latviešu valodas ortogrāfijā pēc to formālās vērtības, pakļaujot vārdus [[gramatizācija]]i.
+
+Pēc šiem noteikumiem atveidojami [[Ziemeļkoreja]]s un [[Dienvidkoreja]]s cilvēku personvārdi un ģeogrāfiskie nosaukumi. Korejiešu izcelsmes personvārdi sastopami arī [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]], [[Kanāda|Kanādā]], [[Austrālija|Austrālijā]], [[Krievija|Krievijā]], [[Ķīna|Ķīnā]], [[Japāna|Japānā]], retāk citur pasaulē. Atveidojot citu pasaules reģionu korejiešu izcelsmes personu vārdus, jāņem vērā šajā zemē pieņemtā izrunas prakse un vārdu pierakstu sistēmas.
+
+== Skatīt arī ==
+* [[Korejiešu vārdi]]
+
+== Atsauces ==
+{{InterWiki|code=ko}}
+{{commonscat|Korean language|korejiešu valoda}}
+{{atsauces|refs=
+<ref name="Ethnologue">{{tīmekļa atsauce | url= http://www.ethnologue.com/14/show_iso639.asp?code=kor | title= Korean | work= Ethnologue, 14th ed. | accessdate= 2011-07-29 | language= angliski | archiveurl= https://web.archive.org/web/20070212081300/http://www.ethnologue.com/14/show_iso639.asp?code=kor | archivedate= 2007-02-12 }}</ref>
+<ref name="liis">{{tīmekļa atsauce | url= http://www.liis.lv/latval/valoda/v5-11.htm | title= Korejiešu valoda | publisher= www.liis.lv | accessdate= 2011-10-28 | language= latviski | archiveurl= https://web.archive.org/web/20120329123809/http://www.liis.lv/latval/valoda/v5-11.htm | archivedate= 2012-03-29 }}</ref>
+}}
+
+{{valoda-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Korejiešu valoda| ]]

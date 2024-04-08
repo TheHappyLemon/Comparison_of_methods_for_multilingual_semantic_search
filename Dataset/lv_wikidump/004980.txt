@@ -1,0 +1,65 @@
+'''Kompresors''' ir mehāniska ierīce, kas palielina [[gāze]]s [[Spiediens|spiedienu]], samazinot tās [[Tilpums|tilpumu]]. Tajā gāzes spiediens aiz iekārtas ir vismaz 3 reizes lielāks nekā pirms. Gaisa kompresors ir īpašs gāzes kompresoru veids.
+
+Kompresori ir līdzīgi [[Sūknis|sūkņiem]]: abi palielina spiedienu uz šķidrumu un abi var transportēt šķidrumu caur cauruli. Tā kā gāzes ir saspiežamas, kompresors samazina arī gāzes tilpumu. Šķidrumi ir samērā nesaspiežami; kamēr dažus var saspiest, sūkņa galvenā darbība ir šķidrumu spiediena paaugstināšana un transportēšana.
+
+Daudzus kompresorus var izmantot posmos, tas ir, šķidrums tiek saspiests vairākas reizes pa posmiem, lai palielinātu izplūdes spiedienu. Bieži vien otrais posms ir fiziski mazāks nekā pirmais, lai uzņemtu jau saspiesto gāzi, nesamazinot tās spiedienu. Katrs posms vēl vairāk saspiež gāzi un palielina tās spiedienu un arī [[Temperatūra|temperatūru]] (ja starpdzesēšana starp posmiem netiek izmantota).
+
+== Iedalījums ==
+
+Kompresorus iedala:
+* '''Virzuļkompresori''' var sasniegt vislielākos spiedienus, efektīvi nelieliem gāzu daudzumiem. Ļoti plaši izplatīti.
+* '''Turbokompresori''' piemēroti lielām jaudām (sākot no 0,5 MW), mazākiem daudzumiem sarežģītāk izgatavot efektīvus. Efektivitāte atkarīga no saspiežamās gāzes [[molmasa]]s (jo lielāka, jo efektīvāk). Konstruktīvi līdzīgi centrbēdzes sūkņiem un ventilatoriem.
+* '''Aksiāli kompresori''' ir līdzīgi aksiālajiem [[ventilators|ventilatoriem]], maza spiediena starpība starp pakāpēm, tāpēc vajag daudz pakāpju, toties konstrukciju ir iespējams izgatavot tievu, lieto tikai lidmašīnu gāzturbīnās.
+* '''Rotācijas kompresori''' nevar sasniegt tik augstus spiedienus, kā virzuļkompresori, taču vienkāršākas konstrukcijas, dažiem nav nepieciešama eļļošana (vai arī var eļļot ar ūdeni).
+* '''Strūklas kompresori''' (ežektora paveids).
+
+Saspiežot gāzes, to temperatūra parasti palielinās, tāpēc kompresoros parasti uzsilst. Gāzu saspiešana var notikt 3 termodinamiskos apstākļos:
+* '''Izotermiski''' (ideāla dzesēšana) — praksē nav sastopams, visaugstākais [[lietderības koeficients]], viss saspiešanas procesā izdalījies [[siltums]] tiek aizvadīts prom.
+* '''Adiabātiski''' (bez siltumapmaiņas ar apkārtējo vidi) — praksē sastopams kompresoros, kam nobeigusies dzesēšana, ar to jārēķinās avārijas apstākļos. Viszemākais lietderības koeficients, viss saspiešanas procesā izdalījies siltums palielina gāzes temperatūru.
+* '''Politropiski''' (kaut kas pa vidu starp izotermu un adiabātu) — lielākā daļa kompresoru darbojas šajā režīmā, daļā izdalītā siltuma aizvada prom, bet daļa uzsilda gāzi.
+
+Lielākā daļa gāzu saspiežot uzsilst un izplešoties atdziest. To lieto saldēšanas iekārtām. Dažas gāzes saspiežot neuzsilst un izplešoties uzsilst ([[ūdeņradis]]), tāpēc to noplūde var būt bīstama, jo var notikt sprādziens.
+
+=== Virzuļkompresori ===
+[[Attēls:Kompresors.svg|right|320px]]
+Virzuļkompresoros gāzi saspiež ar noblīvētu [[Virzulis|virzuli]], kas kustas cilindrā. Parasti virzuli piedzen kloķvārpsta, taču var iztikt arī bez kloķvārpstas (tieši savienots ar tvaika mašīnu)(šādi ir reti sastopami). Virzuļkompresors sastāv no cilindra (2), kurā atrodas virzulis (1), kas parasti ir noblīvēts ar gredzeniem (3). Virzuli kustina kloķvārpsta (nav parādīta). Iesūkšanas laikā gāze ieplūst caur vārstu (4), un saspiešanas laikā, kad ir sasniegts beigu spiediens — izplūst caur vārstu (5). Kompresoram parasti ir arī dzesēšana (vai nu ribas ap cilindru, vai (jaudīgājiem kompresoriem) ūdens apvalks. (attēlā nav parādīts)).
+
+Maksimālo sasniedzamo spiedienu nosaka vārstu (4, 5) un blīvējuma (3) izturība, kā arī kaitīgā telpa. Tā, kā parasti nav iespējams panākt, lai virzulis tālākajā punktā pieskartos gala virsmai, tur paliek telpa, no kuras nevar izspiest gāzi, un pēc saspiešanas cikla beigām tur esošā gāze izplešas un iesūkšana var sākties tikai tad, kad tā gāze ir izpletusies līdz ieejas spiedienam. To telpu sauc par kaitīgo telpu un tās kaitīgais efekts palielinās palielinoties spiedienu starpībai. Lai sasniegtu ļoti lielus spiedienus, šī iemesla dēļ lieto vairākpakāpju kompresorus. Tajos ir vairāki cilindri, un tālākie cilindri gāzi iesūc no iepriekšējiem. Starp pakāpēm gāzi parasti dzesē.
+
+Virzuļkompresoriem parasti ir nepieciešama eļļošana (lai arī ir sastopami daži paveidi, kam to nevajag). Kompresoru eļļai parasti ir nepieciešama augsta uzliesmošanas temperatūra, lai gadījumā ja nojūk dzesēšana, tā neaizdegtos. Virzuļkompresoros saspiestās gāzes parasti satur nelielu daudzumu kompresoru eļļas, un to bieži vien nākas speciāli atdalīt.
+
+=== Turbokompresori ===
+Tajos gāzi saspiež paātrinot līdz lielam ātrumam (darba ratā) un pēc tam samazinot plūsmas šķērsgriezumu. Spiediens ir atkarīgs no gāzes plūsmas ātruma darba rata ārpusē (un no gāzes blīvuma), tāpēc lai sasniegtu lielu saspiešanas pakāpi, vajag lielu darba rata aploces lineāro ātrumu (lielu diametru un rotācijas ātrumu). Turbokompresoriem bieži vien ir vairākas pakāpes, jo ar vienu pakāpi nevar sasniegt lielu spiedienu. Turbokompresori ir līdzīgi centrbēdzes sūkņiem un centrbēdzes ventilatoriem. No ventilatoriem un gāzpūtējiem turbokompresori atšķiras ar to, ka tiem ir dažāda izmēra darba rati un tiem ir dzesēšana.
+
+Tos dažreiz lieto gāzturbīnu kompresoru pēdējām pakāpēm, dažiem turbopropelleru dzinējiem visas kompresora pakāpes ir centrbēdzes kompresori. Centrbēdzes kompresori, salīdzinot ar tāda paša ražīguma aksiālajiem kompresoriem ir resnāki (lielāks diametrs), kas ir galvenais iemesls, kāpēc lidmašīnu gāzturbīnām zemspiediena kompresoram lieto aksiālo kompresoru.
+
+== Pielietojumi ==
+[[Attēls:Lednička Zanussi ZRA 319 SW, kompresor s odpařovací miskou (002).JPG|thumb|Mazam, hermētiski noslēgtam kompresoram [[Ledusskapis|ledusskapjos vai saldētavās]] parasti ir noapaļots tērauda ārējais apvalks, kas sametināts, un tas noslēdz sistēmas iekšējās darbības gāzes, šajā gadījumā — R600a [[Freoni|dzesētāju]]. Šajā veidā nav gāzes noplūdes ceļa, piemēram, ap motora vārpstas blīvēm. Virs kompresora, plastmasas augšējā daļa ir daļa no automātiskās atkausēšanas sistēmas, kas ūdens iztvaikošanai izmanto motora siltumu.]]
+Gāzu kompresori tiek izmantoti dažādās vietās, kur nepieciešams vai nu lielāks spiediens, vai mazāks gāzes daudzums:
+
+* Pārvadājot attīrītu [[Dabasgāze|dabasgāzi]] no ražošanas vietas līdz patērētājam, kompresoru darbina ar motoru, kuru darbina no cauruļvadā izvadītā gāze. Tādējādi nav nepieciešams ārējs enerģijas avots.
+* [[Nafta#Naftas pārstrāde|Naftas pārstrādes]] rūpnīcās, dabasgāzes pārstrādes rūpnīcās, naftas ķīmijas un ķīmiskās rūpnīcās un līdzīgās lielās rūpniecības rūpnīcās ir nepieciešams saspiest starpproduktu un galaproduktu gāzes.
+* [[Ledusskapis|Saldēšanas, ledusskapju]] un gaisa kondicionēšanas iekārtas izmanto kompresorus, lai pārvietotu siltumu dzesēšanas šķidruma ciklos (sk. Tvaika saspiešanas dzesēšanu).
+* Gāzes turbīnu sistēmas saspiež ieplūdes degšanas gaisu.
+* Maza apjoma attīrītām vai ražotām gāzēm nepieciešama saspiešana, lai piepildītu augstspiediena balonus medicīniskām, metināšanas un citām vajadzībām.
+* Dažādiem rūpniecības, ražošanas un celtniecības procesiem ir nepieciešams saspiests gaiss, lai darbinātu pneimatiskos instrumentus.
+* PET plastmasas pudeļu un konteineru ražošanā un izpūšanā.
+* Dažiem [[Lidaparāts|lidaparātiem]] ir nepieciešami kompresori, lai uzturētu salona spiedienu lielā augstumā.
+* Daži [[Reaktīvais dzinējs|reaktīvo dzinēju]] veidi, piemēram, turbodzinēji un ventilatori, saspiež degvielas sadegšanai nepieciešamo gaisu. Reaktīvā dzinēja turbīnas darbina degšanas gaisa kompresoru.
+* Zemūdens [[Niršana|niršanā]], autonomos elpošanas aparātos, hiperbariskajā skābekļa terapijā un citos dzīvības uzturēšanas aprīkojumos kompresori nodrošina elpošanas gāzes spiedienu tieši vai caur augstspiediena gāzes uzglabāšanas konteineriem, piemēram, niršanas cilindriem.<ref name="evil">{{cite journal|vauthors=Millar IL, Mouldey PG|year=2008|title=Compressed breathing air – the potential for evil from within|url=http://archive.rubicon-foundation.org/7964|journal=Diving and Hyperbaric Medicine|publisher=[[South Pacific Underwater Medicine Society]]|volume=38|issue=2|pages=145–51|pmid=22692708|archive-url=https://web.archive.org/web/20101225063245/http://archive.rubicon-foundation.org/7964|archive-date=2010-12-25|access-date=2009-02-28|dead-url=no}}</ref><ref name="oxyhackers">{{grāmatas atsauce|author=Harlow, V|title=Oxygen Hacker's Companion|publisher=Airspeed Press|year=2002|isbn=0-9678873-2-1}}</ref> Ūdens niršanas laikā gaisa kompresoru parasti izmanto zema spiediena (10 līdz 20 [[Bārs (mērvienība)|bar]]) gaisa piegādei, elpošanai.
+* [[Zemūdene]]s izmanto kompresorus, lai uzglabātu gaisu vēlākai izmantošanai, izspiežot ūdeni no peldspējas kamerām, lai pielāgotu peldspēju.
+* Turbokompresori un superkompresori (''supercharger'') ir kompresori, kas palielina [[Iekšdedzes dzinējs|iekšdedzes dzinēja]] darbību, palielinot gaisa masas plūsmu cilindra iekšpusē, tādējādi motors var sadedzināt vairāk degvielas un radīt vairāk jaudas.
+* [[Vagons|Dzelzceļa]] un smagie [[Autotransports|autotransporta]] līdzekļi izmanto saspiestu gaisu, lai darbinātu dzelzceļa transportlīdzekļu vai autotransporta līdzekļu [[Bremžu sistēma (automašīna)|bremzes]] un dažādas citas sistēmas (durvis, priekšējā [[Stikla tīrītājs (transports)|stikla tīrītājus]], dzinēju, pārnesumkārbas vadību utt.).
+* [[Degvielas uzpildes stacija]]s un autoservisi izmanto saspiestu gaisu, lai piepildītu [[Riepa|pneimatiskās riepas]] un darbinātu pneimatiskos instrumentus.
+* Uguns virzuļi un [[Siltumsūknis|siltumsūkņi]] tiek izmantoti gaisa vai citu gāzu sildīšanai, un gāzes saspiešana ir tikai līdzeklis šajā nolūkā.
+* Rotējošās daivas kompresori bieži tiek izmantoti, lai nodrošinātu gaisu pulverveida vai cietu vielu pneimatiskajās transportēšanas līnijās. Sasniegtais spiediens var svārstīties no 0,5 līdz 2 bar g.<ref>{{tīmekļa atsauce|url=http://www.powderprocess.net/Equipments%20html/Blowers.html|title=Blowers (Roots)|publisher=www.powderprocess.net|work=Engineering resources for powder processing industries|access-date=15 August 2017|dead-url=no|archive-url=https://web.archive.org/web/20170814175023/http://www.powderprocess.net/Equipments%20html/Blowers.html|archive-date=14 August 2017}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+=== Izmantotā literatūra ===
+* L. Osipovs ''Ķīmijas tehnoloģijas procesi un aparāti. 1. daļa'' 1962.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ierīces]]

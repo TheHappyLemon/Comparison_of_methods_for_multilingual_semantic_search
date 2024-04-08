@@ -1,0 +1,58 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Benzene structure.png]] <br />Benzola struktūrformula un [[molekula]]s modelis
+|ķīmiskā formula=C<sub>6</sub>H<sub>6</sub>
+|molmasa=78,11
+|blīvums=876,6
+|kušanas temperatūra=278,6 [[Kelvins|K]] (5,5[[°C]])
+|viršanas temperatūra=353,2 K (80,1&nbsp;°C)
+}}
+'''Benzols''' (fenilūdeņradis, C<sub>6</sub>H<sub>6</sub>) parastos apstākļos ir bezkrāsains degtspējīgs [[šķidrums]] ar saldenu [[smarža|smaržu]]. Tā molekula sastāv no 6 oglekļa atomiem, kas ir savienoti gredzenā un katram no šīem oglekļiem ir pievienots viens ūdeņradis. Benzols ir vienkāršākais [[arēni|arēns]] jeb [[Aromātiskie savienojumi|aromātiskais]] [[Ogļūdeņraži|ogļūdeņradis]]. To plaši izmanto [[Rūpniecība|rūpniecīb]]ā, tā ir izejviela [[Zāles|zāļu]], dažādu [[Plastmasas|plastmasu]], sintētiskās [[gumija]]s<!-- kaučuka? -->, [[krāsviela|krāsvielu]] ražošanā. Benzols ietilpst jēlnaftas sastāvā, tomēr rūpnieciski to iegūst sintētiski no citiem [[nafta]]s komponentiem. Benzols ir [[Toksiskums|toksisks]] un [[Vēzis (slimība)|kancerogēns]] savienojums. Tas ir arī kaitīgs apkārtējai videi un [[ugunsbīstamība|ugunsbīstams]] (tvaiki aizdegas −11&nbsp;°C temperatūrā, patvaļīgi benzols aizdegas 561&nbsp;°C temperatūrā).
+
+== Īpašības ==
+Benzols ir [[ūdens|ūdenī]] [[Šķīdība|mazšķīstošs]] savienojums (šķīdība ir 1,79 g/l 25&nbsp;°C temperatūrā), kas toties veido ar ūdeni [[Azeotrops maisījums|azeotropu maisījumu]] (tā viršanas temperatūra ir 69,25&nbsp;°C, benzola saturs masas procentos ir 91%<ref name=XuMuK.ru>{{Tīmekļa atsauce |url=http://www.xumuk.ru/encyklopedia/524.html |title=Arhivēta kopija |access-date={{dat|2009|10|13||bez}} |archiveurl=https://web.archive.org/web/20090428060036/http://www.xumuk.ru/encyklopedia/524.html |archivedate={{dat|2009|04|28||bez}} }}</ref>). Tīra benzola [[stigrība]] ir 0,652 [[Puāzs|puāzi]] 20&nbsp;°C temperatūrā.<!--  Isāk sakot, es mēģinu tulkot latviski ru-wiki rakstu. -->
+Benzolam ir mazāka reaģētspēja nekā aizvietotajiem arēniem. Visas saites starp oglekļa atomiem benzolā ir vienāda garuma (140 pm). Tās ir īsākas par vienkāršajām saitēm (147 pm) un garākas par dubultsaitēm (134pm). Benzola molekulā π orbitāles elektroni ir vienmērīgi izkliedēti starp visiem 6 oglekļa atomiem, tāpēc benzola struktūrformulu dažreiz zīmē kā sešstūri ar ievilktu apli. Aizvietotajiem aromātiskajiem ogļūdeņražiem tas vairs pilnībā nav spēkā un π orbitāles elektronu sadalījums vairs nav vienmērīgs.
+
+Aizvietojot benzola [[molekula|molekulā]] vienu vai vairākus ūdeņraža atomus ar funkcionālajām grupām, var iegūt citus arēnus:
+
+:Alkilaizvietotāji
+::[[Toluols]] - C<sub>6</sub>H<sub>5</sub>-CH<sub>3</sub>
+::[[Ksilols|Ksiloli]] - C<sub>6</sub>H<sub>4</sub>-(CH<sub>3</sub>)<sub>2</sub>
+::[[Stirols]] - C<sub>6</sub>H<sub>5</sub>-C<sub>2</sub>H<sub>3</sub>
+
+:Citi aizvietotāji
+::[[Fenols]] - C<sub>6</sub>H<sub>5</sub>-OH
+::[[Anilīns]] - C<sub>6</sub>H<sub>5</sub>-NH<sub>2</sub>
+::[[Hlorbenzols]] - C<sub>6</sub>H<sub>5</sub>-Cl
+::[[Nitrobenzols]] - C<sub>6</sub>H<sub>5</sub>-NO<sub>2</sub>
+::[[Benzoskābe]] - C<sub>6</sub>H<sub>5</sub>-COOH
+
+:Kondensētas aromātiskas struktūras
+::[[Naftalīns]]
+::[[Antracēns]]
+::[[Benzpirēns]]
+
+== Izmantošana ==
+Benzolam ir relatīvi liels [[oktānskaitlis]], tāpēc agrāk to lietoja kā [[degviela]]s komponentu, taču benzols ir kancerogēns, tāpēc to degvielām vairs nelieto (legāli).
+
+Gan Eiropā, gan ASV benzolu izmanto citu ķimikāliju ieguvei, piemēram, etilbenzola, kumola vai cikloheksāna.
+
+== Skatīt arī ==
+* [[Djuāra benzols]]
+* [[Ladenburga benzols]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Aromat}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogļūdeņraži]]
+[[Kategorija:Šķīdinātāji]]
+
+
+{{Org-stub}}

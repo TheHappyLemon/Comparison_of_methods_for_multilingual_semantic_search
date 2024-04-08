@@ -1,0 +1,39 @@
+{{enciklopēdiskais stils}}
+'''Atvērtais pirmkods''' jeb '''atvērtā pirmkoda '''prece ({{val-en|open source}}) ir prece, kuras [[pirmkods]] ir brīvi pieejams apskatei, lietošanai un rediģēšanai visiem [[patērētāji]]em, kur atsevišķos gadījumos par preces izplatīšanu izplatītājiem tiek prasīta [[autoratlīdzība]]. Apzīmējums pirmkods pārnestā nozīmē lietojams arī kā vārds recepte. Jēdziena regulārāka pielietošana praksē ir uzskatāma '90. gadu sākumā, kad jēdziens tiek saistīts ar preču ražošanas patērētājiem, galvenokārt informatīvo tehnoloģiju nozarēm. 
+Atvērtā pirmkoda preces viena no svarīgākajām īpašībām ir spēja ģenerēt kreativitāti pašos lietotājos, ļaujot tiem radīt apstākļus, kādi ir nepieciešami konkrēto vajadzību apmierināšanai. Tas ir iespējams kā mikro līmenī, strādājot atsevišķiem indivīdiem, tā arī makro līmenī, atsevišķiem indivīdiem kooperējoties grupās, izstrādājot sabiedriskā labuma ({{val-en|public good}}) preces. 
+Atvērtā pirmkoda prece var būt gan pilnībā pieejama lietotājam, gan daļēji autorizēta prece, kur kāda daļa no preces izgatavošanas procesiem ir autorizēta un nedrīkst tikt mainīta vai reproducēta citos līdzīgos produktos. Šādos gadījumos tiek izmantots autortiesību nodrošinājums vai dažādas patenta likumu iespējas, vai citi juridiski nodrošinājumi.<ref>[http://www.valt.helsinki.fi/vol/eu/tdt/2b.2%29%20Weber-%20Political%20Economy%20of%20Open%20Source%20Software.pdf The Political Economy of Open Source Software]{{Novecojusi saite}} {{en ikona}}</ref>
+
+== Raksturojums ==
+Atvērtā koda princips mūsdienās tiek izmantots ne tikai programmatūras izstrādē. Piemēram, Vikipēdija ir atvērta satura enciklopēdija, kuras materiālus ikviens var labot, lasīt un brīvi kopēt saskaņā ar [[GFDL]] brīvās dokumentācijas licenci.
+
+Pasaulē ir plaši pazīstami un pielietoti tādi atvērtā koda risinājumi kā [[Apache HTTP serveris|Apache]], [[PHP]], [[MySQL]], [[GNU/Linux]], [[LibreOffice]], [[BSD]] un citi. Piemēram, vairākas valstis atvērtā pirmkoda risinājumus pieņem kā pamatu valsts neatkarībai un iespējai brīvi attīstīt [[Informācijas tehnoloģijas|IT]] risinājumus.
+
+== Priekšrocības un trūkumi ==
+Atvērtā pirmkoda produkta priekšrocības: 
+* Produkts parasti ir bez maksas. 
+* Iespēja produktu modificēt pēc lietotāja vajadzībām.
+* Pilnībā pieejams un analizējams pirmkods, kas ļauj pārliecināties par produkta autentiskumu.
+* Produktam ir liela patērētāju auditorija, kas nepārtraukti rada idejas, kā produktu uzlabot, kā arī atrast kļūdainās produkta īpašības. 
+* Atvērtā pirmkoda produkts sniedz iespēju prognozēt tā attīstību un pieprasījumu.
+
+Atvērtā pirmkoda produkta trūkumi:
+* Maza konkurētspēja ar [[komercuzņēmumi]]em.
+* Ietilpīgs laika posms, lai aprastu ar produktu, jo nav konkrētu speciālistu, kas apmācītu patērētāju.
+* Nav atbildību uzturošu juridisku līgumu par produkta kvalitātes trūkumiem. Nav atbildīgo personu, kas garantē produkta kvalitāti.
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Atvērtā un slēgtā koda salīdzinājums]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20190925114617/http://www.laka.lv/ LAKA - Latvijas atvērtā koda asociācija]
+* [https://web.archive.org/web/20100127100659/http://lata.org.lv/ LATA - Latvijas atvērto tehnoloģiju asociācija]
+* [http://atveries.lv Brīvās programmas]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Programmatūra]]

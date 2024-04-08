@@ -1,0 +1,58 @@
+{{Elementa infokaste
+ |                  tips = pārejas metāls
+ |       kārtas skaitlis = 21
+ |              1. čaula = 2
+ |              2. čaula = 8
+ |              3. čaula = 9
+ |              4. čaula = 2
+ |               simbols = Sc
+ |              atommasa = 44,955912
+ |    valences elektroni = [Ar]3d<sup>1</sup>4s<sup>2</sup>
+ |        tabulas attēls = [[Attēls:Sc-TableImage.svg|250px]]
+ |                attēls = [[Attēls:Scandium.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Scandium sublimed dendritic and 1cm3 cube.jpg|160px]]<br />Skandija gabaliņš, [[kubs]] no skandija un sublimēti skandija kristāli ([[dendrīti]])
+ |   oksidēšanas pakāpes = '''+3'''
+ |   elektronegativitāte = 1,36
+ |               blīvums = 2990
+ |   kušanas temperatūra = 1814 K (1541&nbsp;°C)
+ |  viršanas temperatūra = 3109 K (2836&nbsp;°C)
+ |    trīskāršais punkts = 
+ |     kritiskais punkts = 
+ |   īpatnējā pretestība = 5,62{{E|-7}}
+ |         skaņas ātrums = 
+ | Van der Vālsa rādiuss = 0,211
+}}
+
+'''Skandijs''' ir [[ķīmiskais elements]] ar simbolu '''Sc''' un [[atomskaitlis|atomskaitli]] 21. Tas ir ļoti reti sastopams, izkliedēts [[pārejas metāli|pārejas metāls]] un nelielos daudzumos ir sastopams dažādos [[minerāls|minerālos]]. Skandijs ir pirmais ''d'' elements periodiskajā sistēmā — tā [[atoms|atomā]] [[elektrons|elektroni]] sāk aizpildīt ''d'' līmeni trešajā čaulā. Skandiju iegūst [[metalotermija|metalotermiski]] vai [[elektrolīze|elektrolizējot]] [[skandija hlorīds|skandija hlorīda]] kausējumu. Savienojumos skandijs lielākoties ir trīsvērtīgs, ar oksidēšanas pakāpi +3.
+
+== Izotopi ==
+Dabā ir sastopams tikai viens stabils skandija [[izotops]] — skandijs-45.<ref name="jlab"/> Ir zināmi vēl seši nestabili izotopi, kuri ir iegūti tikai laboratorijās.
+
+== Iegūšana ==
+Ik gadu kopējā iegūtā skandija masa ir ap 50 [[kilograms|kilogramiem]].<ref name="lenntech"/> Nav zināms, cik potenciāli ir iespējams iegūt pavisam kopā. Tīrā veidā skandiju dabā atrast nevar. Tas ir sastopams aptuveni 800 [[minerāls|minerālos]].<ref name="lanl"/> No tiem nozīmīgākais ir [[tortveitīts]] ((Sc,[[itrijs|Y]])<sub>2</sub>[[silīcijs|Si]]<sub>2</sub>[[skābeklis|O]]<sub>7</sub>). Otrs nozīmīgākais skandija iegūšanas avots ir [[urāns (elements)|urāna]] rūdās.
+
+== Izmantošana ==
+Skandijs ir reti sastopams metāls, bet tomēr mājas apstākļos to var atrast krāsu [[televizors|televizoros]], [[fluorescējošā spuldze|fluorescējošajās spuldzēs]] un [[ekonomiskā spuldze|ekonomiskajās spuldzēs]].<ref name="lenntech"/> Skandiju lieto galvenokārt [[sakausējums|sakausējumiem]] ar [[alumīnijs|alumīniju]] un [[dzīvsudrabs|dzīvsudraba]] spuldzēs, kā piedevu pie [[luminofors|luminofora]], lai uzlabotu gaismas [[spektrālais sastāvs|spektrālo sastāvu]]. Skandijam nav bioloģiska loma dzīvības procesos uz Zemes.<ref name="lenntech"/>
+
+== Vēsture ==
+Ķīmisko elementu skandiju 1879. gadā atklāja zviedru ķīmiķis [[Lars Fredrik Nilson|Larss Fredriks Nilsons]]. Viņa vadītā zinātnieku grupa šo elementu atklāja [[euksenīts|euksenīta]] un [[gadolinīts|gadolinīta]] minerālos, kas ir sastopami tikai [[Skandināvija|Skandināvijā]]. Tādēļ elementa nosaukums ir radies no [[latīņu valoda|latīņu vārda]] ''Scandia'', kas nozīmē "Skandināvija".<ref name="lanl"/> Tomēr tikai 1960. gadā tika iegūts skandijs, kura tīrība bija 99%.
+
+== Atsauces ==
+{{commonscat|Scandium|skandijs}}
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso021.html | title= Isotopes of the Element Scandium | publisher= Jefferson Lab | accessdate= 2012-11-01 | language= angliski}}</ref>
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/sc.htm | title= Scandium | publisher= Lenntech | accessdate= 2012-11-01 | language= angliski}}</ref>
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/21.shtml | title= Scandium | publisher= Los Alamos National Laboratory | accessdate= 2012-11-01 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Metāli]]

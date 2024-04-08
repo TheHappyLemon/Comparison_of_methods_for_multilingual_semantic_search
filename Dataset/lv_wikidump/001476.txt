@@ -1,0 +1,62 @@
+[[Attēls:Aldehyde2.png|right|thumb|Aldehīdu vispārēja struktūrformula]]
+'''Aldehīdi''' ir [[skābeklis|skābekli]] saturoši [[organiskās vielas|organiski savienojumi]], kurus var iegūt, dehidrogenējot pirmējos [[spirti|spirtus]]. No tā arī cēlies aldehīdu nosaukums ({{Val-la|al(cohol) dehyd(rogenatum)}} — dehidrogenēts spirts). Aldehīdi var izomerizēties par [[enoli]]em, taču aldehīda forma ir daudz stabilāka. Aldehīdi var oksidēties, veidojot [[karbonskābes]].
+
+Aldehīdus kopā ar [[ketoni]]em pieskaita pie karbonilsavienojumiem. Aldehīda grupa sastāv no [[karbonilgrupa]]s, kam viens no aizvietotājiem ir [[ūdeņradis]]. Savienojumos, kas satur aizvietotājus ar lielāku prioritāti, aldehīda grupu nosauc kā ''formil-'', piem 4-formilbenzoskābe (OHC-C<sub>6</sub>H<sub>4</sub>-COOH). Aldehīdi ir ķīmiski aktīvāki par ketoniem, un tos dažreiz lieto par reducētājiem.
+
+Visiem aldehīdiem piemīt raksturīgs aromāts. Zemākajiem aldehīdiem ir asa, nepatīkama smaka, bet aizvietotāja oglekļa atomu ķēdei pagarinoties, aldehīdu smarža kļūst līdzīga augļu un ziedu smaržai. Šādas funkcionālās grupas kā aldehīdgrupu, kas padara vielu aromātisku, sauc par ''osmoforām grupām''. Vairāki aldehīdi piešķir raksturīgo smaržu un garšu augļiem, garšvielām, un to smarža ir ļoti patīkama.
+
+Aldehīdiem ir zema [[viršanas temperatūra]]. To var izskaidrot tādējādi, ka starp aldehīdu molekulām neveidojas [[ūdeņraža saite]]. Aldehīdu šķīdība, pieaugot to [[molekulmasa]]i, ievērojami samazinās. Ūdenī praktiski šķīst tikai vienkāršākie aldehīdi.
+
+== Reakcijas ==
+
+=== Nukleofilā pievienošanās ===
+
+Viens no aldehīdu reakciju pamattipiem ir nukleofilā pievienošanās pie C=O dubultsaites. Šajā gadījumā reakcijas centrs aldehīda molekulā ir oglekļa atoms, kas tieši saistīts ar skābekļa atomu.
+
+==== Hidratācija ====
+
+Aldehīdi var veidot [[hidrāti|hidrātus]], pievienojot [[Ūdens|ūdeni]], taču parasti brīvā veidā šādi savienojumi ir ļoti nestabili, kā visi savienojumi, kam ir geminālās (abas pie viena [[ogleklis|oglekļa]] [[atoms|atoma]]) [[hidroksilgrupa]]s. Tomēr vienkāršākie aldehīdi un aldehīdi, kuriem aldehīdgrupas tuvumā ir aizvietotāji ar pietiekoši stipru negatīvo [[Indukcijas efekts|indukcijas efektu]] hidratējas diezgan viegli.<ref>V. Kokara lekcijas RTU.</ref> [[Formaldehīds]] ūdens [[šķīdums|šķīdumā]] par 99,96[[%]] pāriet hidrāta formā, acetaldehīdam hidrātā pārvēršas apmēram puse [[molekula|molekulu]], bet ''terc''-butilaldehīds hidratējas apmēram par 19%. Tas izskaidrojams ar aizvietotāju atšķirīgām elektrondonorām īpašībām — vienam vienīgajam ūdeņraža atomam formaldehīdā nav tik stipra pozitīvā indukcijas efekta kā ''terc''-butilgrupai, tātad pozitīvais daļlādiņš uz [[karbonilsavienojumi|karbonilgrupas]] paliek nekompensēts, kas palielina šīs grupas oglekļa atoma elektrofilitāti un skābekļa atoma nukleofilitāti (resp., tā kļūst aktīvāka). Savukārt [[Hlorāls|hlorāla]] jeb trihloracetaldehīda gadījumā aizvietotājs tik stipri "atvelk" karbonilgrupas elektronus, ka hidratācija ir izteikti patvaļīga, un hidrātu ([[hlorālhidrāts|hlorālhidrātu]]) iespējams izolēt pat cietā veidā.
+
+[[Attēls:Aldehyde_hydrate_formation.svg|600px|center‎]]
+
+==== Pusacetālu un acetālu veidošanās ====
+
+Ja aldehīdu hidrātu hidroksilgrupām ūdeņraža atomus aizvieto ar organiskiem [[Brīvais radikālis|radikāļiem]], šādi savienojumi arī ir stabili un tos dēvē par [[acetāli]]em:
+
+: R−CH(O−R')<sub>2</sub> .
+
+Tie veidojas aldehīdu reakcijās ar spirtiem, kuri šeit acīmredzami darbojas kā ūdens analogi, kuros viena H vietā ir ogļūdeņraža atlikums<!-- šito lūdzu kādu gudrāku cilvēku pārrakstīt normāli -->. Viena aizvietotā atoma gadījumā savienojumu dēvē par [[pusacetāli|pusacetālu]].
+
+[[Attēls:AcetalFormation.png|600px]]
+
+==== Ciānhidrīnu veidošanās ====
+
+Pazīstams nukleofils aģents ir cianogrupa, un reakcijā ar to no aldehīdiem veidojas [[ciānhidrīni]]. Šīs reakcijas mehānisms ir ļoti vienkāršs un labi der par sākuma piemēru visai reakciju klasei.
+
+[[Attēls:Cyanohydrin-mechanism-2D.png|500px]]
+
+==== N nukleofilu pievienošanās ====
+
+Parasti tā ir [[Amīni|amīnu]] pievienošana.
+
+* Pirmējo amīnu pievienošanās procesā veidojas [[imīni]] jeb azometīni. Gadījumā, ja pievienojas [[hidroksilamīns]], rodas [[oksīmi]], bet [[hidrazīns]] dod [[hidrazoni|hidrazonus]]. Tad shēmā attēlotais R<sub>3</sub> atbilst attiecīgi -OH vai -NH<sub>2</sub> grupai.
+
+[[Attēls:Imine_Synthesis_V.1.png|400px]]
+
+* Otrējiem amīniem reakcijas gaitā nav iespējama otrā ūdeņraža atoma atšķelšana pie slāpekļa atoma, jo tāda ūdeņraža vienkārši nav (pirmais H atoms pāriet pie skābekļa atoma; ne obligāti tas ir tas pats H atoms, kas atdalās no slāpekļa un pievienojas pie skābekļa, jo parasti pastāv mijiedarbība ar šķīdinātāja molekulām). Tāpēc vai nu tiek atšķelts α-H atoms un veidojas [[enamīns]], vai nu pievienojas vēl viena amīna molekula, rodoties diamīnam. Šis pēdējais variants ir īpaši raksturīgs gadījumā, ja aldehīdā neeksistē α ūdeņraža atoms, kā tas ir formaldehīdam un aromātiskajiem aldehīdiem, ja formilgrupa ir tieši saistīta ar aromātisko sistēmu.
+
+[[Attēls:Enamine formation.png|400px]]
+
+== Savienojumu piemēri ==
+
+Pazīstamākais aldehīds ir [[formaldehīds]]. Pie aldehīdiem var pieskaitīt arī [[glicerīns|glicerīna]] termiskās sadalīšanās produktu - [[akroleīns|akroleīnu]].
+
+== Atsauces ==
+{{atsauces}}
+
+{{Aldehīdi}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Organiskā ķīmija]]
+[[Kategorija:Aldehīdi| ]]

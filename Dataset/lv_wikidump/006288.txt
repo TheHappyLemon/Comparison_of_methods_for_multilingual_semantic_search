@@ -1,0 +1,47 @@
+[[Matemātika|Matemātikā]] par divu vai vairāk [[vesels skaitlis|veselu skaitļu]] '''lielāko kopīgo dalītāju''' sauc lielāko [[naturāls skaitlis|naturālo skaitli]], ar kuru katrs no dotajiem skaitļiem [[dalītājs|dalās]] bez [[atlikums|atlikuma]]. Piemēram, skaitļu 12 un 30 lielākais kopīgais dalītājs ir LKD(12,&nbsp;30) = 6, jo gan 12, gan 30 dalās ar 6, bet nav neviena lielāka naturāla skaitļa, ar kuru tie abi dalītos. Lielākais kopīgais dalītājs nav definēts skaitļiem, kuri visi ir vienādi ar 0.
+
+Efektīvs [[algoritms]] divu skaitļu lielākā kopīgā dalītāja aprēķināšanai ir [[Eiklīda algoritms]].<br />
+Lielākā kopīgā dalītāja jēdzienu var attiecināt arī uz [[polinoms|polinomiem]].<ref>[http://estudijas.lu.lv/file.php/43/6-3LKD.pdf Lielākais kopīgais dalītājs]{{Novecojusi saite}}, lekciju materiāli kursam Mate1009: Algebra, LU.</ref>
+
+== Apzīmējumi un terminoloģija ==
+
+Literatūrā, kas ir latviešu valodā, skaitļu ''a'' un ''b'' lielāko kopīgo dalītāju parasti apzīmē ar LKD(''a'',&nbsp;''b'') vai retāk ar ld(''a'',&nbsp;''b''). Angļu valodā visbiežāk ir sastopams apzīmējums gcd(''a'',&nbsp;''b''), kas ir saīsinājums no ''greatest common divisor''. Reizēm lieto saīsinātu apzīmējumu (''a'', ''b'').
+
+Divus skaitļus, kuru lielākais kopīgais dalītājs ir 1, sauc par '''[[savstarpēji pirmskaitļi|savstarpējiem pirmskaitļiem]]'''. Piemēram, LKD(5,&nbsp;14) = 1, tāpēc 5 un 14 ir savstarpēji pirmskaitļi.
+
+== Īpašības ==
+
+Operācijai LKD piemīt šādas īpašības (šeit ''a'', ''b'', ''c'' un ''m'' ir [[naturāls skaitlis|naturāli skaitļi]]):
+* LKD(''a'',&nbsp;''a'') = ''a'' ([[idempotence]]).
+* LKD(''a'',&nbsp;1) = 1 (jebkurš naturāls skaitlis ir savstarpējs pirmskaitlis ar skaitli 1).
+* LKD(''a'',&nbsp;''b'') = LKD(''b'',&nbsp;''a'') ([[komutativitāte]]).
+* LKD(''a'',&nbsp;''a''&nbsp;+&nbsp;1) = 1 (secīgi naturāli skaitļi ir savstarpēji pirmskaitļi).
+* LKD(''a'',&nbsp;LKD(''b'',&nbsp;''c'')) = LKD(LKD(''a'',&nbsp;''b''),&nbsp;''c'') = LKD(''a'',&nbsp;''b'',&nbsp;''c'') ([[asociativitāte]]).
+* LKD(''m''&nbsp;·&nbsp;''a'',&nbsp;''m''&nbsp;·&nbsp;''b'') = ''m'' · LKD(''a'',&nbsp;''b'') ([[multiplikativitāte]]).
+* Ja ''a'' un ''b'' dalās ar ''m'', tad LKD(''a'',&nbsp;''b'') arī dalās ar ''m'', pie kam LKD(''a''/''m'',&nbsp;''b''/''m'') = LKD(''a'',&nbsp;''b'') / ''m''.
+* LKD(''a''<sup>''m''</sup>,&nbsp;''b''<sup>''m''</sup>) = LKD(''a'',&nbsp;''b'')<sup>''m''</sup>.
+
+== Pielietojumi ==
+
+Lielāko kopīgo dalītāju ir nepieciešams atrast, lai saīsinātu [[daļskaitlis|daļskaitļus]].<ref>[http://www.liis.lv/matpam/Algebra/2dalskaitli/Parstie/2_1teorija.htm Parastie daļskaitļi] {{Webarchive|url=https://web.archive.org/web/20100323081243/http://www.liis.lv/matpam/Algebra/2dalskaitli/Parstie/2_1teorija.htm |date={{dat|2010|03|23||bez}} }}, liis.lv.</ref> Piemēram, lai saīsinātu daļskaitli 12/16, aprēķina LKD(12,&nbsp;16) = 4 un veic saīsināšanu ar 4:
+:<math> \frac{12}{16} = \frac{12/4}{16/4} = \frac{3}{4}. </math>
+
+To lieto arī lai vienkāršotu dažādas algebriskas izteiksmes, piemēram:
+:<math>\sqrt[6]{x^3}=x^\frac{3}{6}=x^\frac{1}{2}=\sqrt{x}</math>.
+
+== Skatīt arī ==
+
+* [[Dalītājs]]
+* [[Mazākais kopīgais dalāmais]]
+* [[Eiklīda algoritms]]
+* [[Paplašinātais Eiklīda algoritms]]
+
+== Atsauces ==
+
+{{atsauces}}
+
+== Ārējās saites ==
+* Eric W. Weisstein, [http://mathworld.wolfram.com/GreatestCommonDivisor.html Greatest Common Divisor], MathWorld.
+{{Polinomi|state=expanded}}
+[[Kategorija:Elementārā aritmētika]]
+[[Kategorija:Skaitļu teorija]]

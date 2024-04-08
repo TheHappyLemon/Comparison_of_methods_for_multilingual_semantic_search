@@ -1,0 +1,27 @@
+[[Attēls:Keynes 1933.jpg|thumb|120px|Džons Meinards Keinss]]'''Makroekonomika''' (burtiski "lielā ekonomika") ir ekonomikas zinātnes nozare, kas pēta [[Ekonomika|ekonomiku]] kopumā. Tās priekšmets ir apkopojoši (agreģēti) [[Tautsaimniecība|tautsaimniecību]] raksturojoši rādītāji un to izmaiņas, atšķirībā no [[mikroekonomika]]s, kas nodarbojas ar atsevišķu tautsaimniecības sektoru vai pat indivīdu un [[Uzņēmums|uzņēmumu]] darbības pētīšanu. Pie svarīgākajiem makroekonomiskajiem rādītājiem parasti pieskaita [[Iekšzemes kopprodukts|iekšzemes kopproduktu]], [[Nacionālais kopprodukts|nacionālo kopproduktu]], [[Inflācija|inflāciju]], [[Bezdarbs|bezdarba]] līmeni, valsts [[Budžets|budžeta]] [[Deficīts|deficītu]], [[Eksports|eksportu]], [[Imports|importu]], u.c.
+
+Makroekonomika ir svarīga valsts [[Ekonomiskā politika|ekonomiskās]] un [[Sociālā politika|sociālās politikas]] izstrādāšanā un īstenošanā, jo katra [[valdība]], kā arī politiskās [[Partija|partijas]] kas to veido, ir atbildīga gan par valsts [[Ekonomiskā izaugsme|ekonomisko izaugsmi]], gan arī par iedzīvotāju [[Dzīves līmenis|dzīves līmeni]]. Vēsturiski tieši ekonomiskās politikas trūkums 20.gs. trīsdesmitajos gados un ar to saistītā [[Lielā depresija]], kas sāpīgi skāra praktiski visas tā laika [[ekonomiski attīstītās valstis]], noveda pie atziņas par makroekonomiskās teorijas nepieciešamību.
+
+Viens no galvenajiem makroekonomikas pamatlicējiem ir britu ekonomists [[Džons Meinards Keinss]] (1883-1946). Viņš bija viens no pirmajiem, kas mēģināja izskaidrot ekonomiskās depresijas cēloņus un [[Ekonomiskā krīze|ekonomiskās krīzes]] mehānismu. Savukārt holandiešu ekonomists [[Jans Tinbergens]] (1903-1994) radīja pasaulē pirmo matemātisko makroekonomikas modeli. Sākotnēji viņš šo modeli pielietoja [[Nīderlande]]s ekonomikas modelēšanai, bet vēlāk ar savas metodes palīdzību viņš modelēja arī [[Lielbritānija]]s un [[Amerikas Savienotās Valstis|ASV]] ekonomisko attīstību.
+
+Dž.M.Keinss radīja arī ekonomisko skolu, kas ieguva viņa vārdu - [[keinsisms]]. Arī mūsdienās pastāv dažādas skolas un teorijas, kas atšķirīgi interpretē makroekonomiskos procesus. Taču vairumā gadījumu tās var iedalīt divās galvenajās kategorijās:
+
+1. Keinsisms, kura uzmanības centrā ir [[agreģētais piedāvājums]] un, ar kura palīdzību tiek skaidrots bezdarba līmenis un [[Biznesa cikls|biznesa cikla]] mehānisms. Par svarīgākajiem valdības ekonomiskās politikas instrumentiem keinsisti uzskata [[Fiskālā politika|fiskālo politiku]] un valsts budžeta ieņēmumu un izdevumu līdzsvaru.
+
+2. [[Piedāvājuma teorija]]s ekonomiskā skola liek uzsvaru uz [[Monetārā politika|monetāro politiku]] kā izšķirošo makroekonomiskās regulēšanas instrumentu. Taču arī fiskālajai politikai ir liela nozīme tajā ziņā, ka valsts budžets un [[nodokļu politika]] būtiski ietekmē [[investīcija]]s tautsaimniecībā, tādējādi stimulējot vai, tieši otrādi, kavējot ekonomisko attīstību.
+
+Ekonomisko skolu un teoriju dalījums divās atšķirīgās kategorijās nenozīmē, ka tās izslēdz viena otru. Runa drīzāk ir par uzsvaru uz vieniem vai otriem [[Makroekonomiskā politika|makroekonomiskās politikas]] instrumentiem. Tādēļ mūsdienu ekonomiski attīstītajās valstīs, atkarībā no konkrētās ekonomiskās situācijas, parasti pielieto abu ekonomisko teoriju elementus.
+
+== Literatūra ==
+* Bikse V. Makroekonomikas pamati. Teorija, problēmas, politika — R.: LU, 1998 — {{ISBN|9984-712-01-X}}
+* {{citation|first=Olivier|last= Blanchard|year=2000|title=Macroeconomics|publisher=[[Prentice Hall]]|isbn= 0-13-013306-X}}.
+* {{Grāmatas atsauce | last = Blanchard | first = Olivier | title = Macroeconomics Updated | publisher = Prentice Hall | location = Englewood Cliffs | year = 2011 |edition =5th | isbn = 978-0-13-215986-9}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20160212001439/http://balticexport.com/?article=latvijas-ekonomika Latvijas ekonomika 2011. gadā]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Makroekonomika| ]]

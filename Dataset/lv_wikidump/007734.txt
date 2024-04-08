@@ -1,0 +1,67 @@
+{{Futbola kluba infokaste
+ |text_color  = #FFFFFF
+ |bg_color    = #006e44
+ | nos     = ''Fluminense''
+ | logo    = [[Attēls:Fluminense logo.gif|170px]]
+ | pilns   = ''Fluminense Football Club''
+ |pilsēta = {{vieta|Brazīlija|Riodežaneiro}}
+ | dib     = 1902
+ | dib_mēn = 7
+ | dib_dat = 21
+ | stad    = [[Marakanas stadions]]
+ | ietilp  = 78 838
+ | prez    = {{flagicon|Brazil}} Mario Bitenkurts
+ | tren    = {{flagicon|Brazil}} [[Fernandu Diniss]]
+ | līga    = [[Brazīlijas futbola čempionāta A sērija|Brazīlijas A sērija]]
+ | sez     = 2022.
+ | poz     = 3. vieta
+| pattern_la1 = _fluminense23h
+| pattern_b1 = _fluminense23h
+| pattern_ra1 = _fluminense23h
+| pattern_sh1 = _sport23a
+| pattern_so1 = _fluminense22hl
+| leftarm1 = 800000
+| body1 = 800000
+| rightarm1 = 800000
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _fluminense23a
+| pattern_b2 = _fluminense23a
+| pattern_ra2 = _fluminense23a
+| pattern_sh2 = _fluminense23a
+| pattern_so2 = 
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = A00101
+| socks2 = A00101
+| pattern_la3 = _fluminense23t
+| pattern_b3 = _fluminense23t
+| pattern_ra3 = _fluminense23t
+| pattern_sh3 = _fluminense23t
+| pattern_so3 = _fluminense23t
+| leftarm3 =
+| body3 =_fluminense23t
+| rightarm3 =
+| shorts3 =
+| socks3 = 003E3E
+}}
+
+'''''Fluminense Football Club''''' ir [[Brazīlija]]s futbola klubs no [[Riodežaneiro]]. Četras reizes komanda ir kļuvusi par Brazīlijas čempioniem (1970., 1984., 2010. un 2012. gadā). 2023. gadā pirmo reizi uzvarēja Dienvidamerikas nozīmīgākajā klubu turnīrā ''[[Copa Libertadores]]''.<ref>{{Tīmekļa atsauce |url=https://sportacentrs.com/futbols/05112023-kenedijs_iesit_libertadores_kausa_uzvaras |title=Kenedijs iesit "Libertadores" kausa uzvaras vārtus un uzreiz tiek noraidīts |date={{dat|2023|11|5||bez}}|website=[[sportacentrs.com]] |accessdate={{dat|2023|11|5||bez}}}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+* [http://www.canalfluminense.com.br Kluba ziņu lapa] {{Webarchive|url=https://web.archive.org/web/20210126022444/http://www.canalfluminense.com.br/ |date={{dat|2021|01|26||bez}} }} {{pt ikona}}
+
+{{īss aizmetnis}}
+{{futbols-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Fluminense, Riodezzaneiro}}
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Riodežaneiro "Fluminense"]]

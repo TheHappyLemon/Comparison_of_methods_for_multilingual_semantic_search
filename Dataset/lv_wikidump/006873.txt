@@ -1,0 +1,21 @@
+<div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#C5FCDC"
+|style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt"| '''[[Latgaliešu valoda|ltg]]'''
+|style="font-size:8pt;padding:4pt;line-height:1.25em"| '''[[:Kategorija:User ltg|Latgaļu volūda]]''' irā ituo lītuotuoja '''[[:Kategorija:User ltg-N|dzymtuo volūda]]'''.
+|}</div><includeonly>
+[[Kategorija:User ltg|{{PAGENAME}}]]
+[[Kategorija:User ltg-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+{{-}}
+== Lietojums ==
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User ltg]]
+* [[:Kategorija:User ltg-N]]
+
+== Skatīt arī ==
+* [[Veidne:User ltg-4|Iepriekšējais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|ltg]]
+
+</noinclude>

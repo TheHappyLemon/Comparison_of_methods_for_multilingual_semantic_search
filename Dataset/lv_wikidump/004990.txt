@@ -1,0 +1,25 @@
+{{Enciklopēdiskais stils}}
+[[Image:Mars 6.jpg|thumb|''Mars-6'']]
+'''''Mars-6''''' ([[Krievu valoda|Krievu:]] Марс-6), zināms arī kā '''3MP No.50P''', bija [[Padomju Savienība|padomju]] kosmosa kuģis [[Marss (planēta)|Marsa]] izpētei. Tas sastāvēja no [[Nolaižamais aparāts|nolaižamā aparāta]] un orbitālā moduļa.
+
+== Kuģa uzbūve ==
+Mars-6 nolaižamajā aparātā atradās [[termometrs]] un [[barometrs]] atmosfēras izpētei, [[Akselerometrs|akselerometru]] un [[Altimetrs|altimetru]] nolaišanās procedūrai, kā arī vairākus instrumentus virsmas izpētei, t.s. [[Masspektrometrija|masas spektrometru]]. 
+Orbitālais modulis saturēja [[Magnetometrs|magnetometru]], kosmiskā starojuma un mikrometeroīdu detektorus.
+
+== Misijas gaita ==
+"Mars-6" startēja 1973. gada 5. augustā un uzreiz pēc starta tika ievadīts orbītā uz Marsu. Planētu aparāts sasniedza 1974. gada 12. martā un orbitālais modulis pārlidoja Marsu, tuvakājā punktā atrodoties 1600 kilometrus virs planētas virsmas, un iegāja [[Heliocentrisms|heliocentriskā orbītā]]. Nolaižamais aparāts tika atdalīts pirms Marsa pārlidojuma (brīdī, kad aparāts atradās 48000 kilometrus no Marsa). 
+Lai neatkārtotos iepriekšējās ([[Mars-3]]) kļūmes, nolaižamais aparāts visus datus, kurus tas ieguva nosēšanās laikā uzreiz retranslēja orbitālajam modulim. Diemžēl sakari ar nolaižamo aparātu tika pazaudēti uzreiz pēc nosēšanās - iespējams, ka modulis tika sabojāts tieši nosēšanās brīdī. Nosēšanās laikā, nolaižamais modulis veica 224 sekundes garu radiopārraidi, pārraidot informāciju par Marsa atmosfēras uzbūvi, sastāvu un temperatūru. Datorprocesora kļūmes dēļ liela daļa no ierakstītās informācijas tika izkropļota un ievērojama daļa iegūtās informācijas tika zaudēti, tomēr tieši "Mars-6" nolaižamā aparāta iegūtie dati ļāva izveidot pašus pirmos Marsa atmosfēras modeļus.
+
+== Vēlākā izpēte ==
+2014. gadā astronautikas entuziasti Vitālija Jegorova vadībā vizuāli pārskatīja un analizēja augstas izšķirtspējas attēlus no piedāvātās nolaišanās moduļa nolaišanās zonas, kas tika uzņemti no [[Mars Reconnaissance Orbiter]] (MRO) pavadoņa.<ref>{{Tīmekļa atsauce|url=https://zelenyikot.livejournal.com/31885.html|title=Ищем "Марс-6" на Марсе|last=zelenyikot|website=Открытый космос Зеленого кота|access-date=2023-10-14|date=2014-03-01}}</ref><ref>{{Tīmekļa atsauce|url=http://ria.ru/space/20140301/997665314.html|title=Блогеры начинают поиски советского зонда "Марс-6"|website=ria.ru|access-date={{dat|2023|10|14||bez}}|archive-date={{dat|2014|03|31||bez}}|archive-url=https://web.archive.org/web/20140331142445/http://ria.ru/space/20140301/997665314.html}}</ref>
+
+2018. gadā Krievijas pētnieki atklāja iespējamo vietu, kur avarēja nolaišanās iekārta. Modelēšana parādīja, ka Marsam-6 bija jāatstāj krāteris, kura diametrs ir aptuveni četri metri, krītot uz cietas zemes, un aptuveni piecu metru diametrs, krītot mīkstākā zemē.<ref>{{Tīmekļa atsauce|url=http://multiphysics.ru//stati/proekty/modelirovanie-padeniia-spuskaemogo-apparata-mars-6.htm|title=Моделирование падения спускаемого аппарата «Марс-6» {{!}} Инженерные расчеты|website=АО ЦИФРА|access-date=2023-10-14|language=ru}}</ref> Pēc trieciena stacija varētu atlēkt līdz pat 99 metriem. Pētnieki atrada tieši šādu krāteri [[Eritrejas jūra|Eritrejas jūras]] zemajā daļā planētas dienvidu puslodē.<ref>{{Tīmekļa atsauce|url=https://vz.ru/news/2018/7/20/933364.html|title=Найдено место падения советской космической станции «Марс-6»|website=vz.ru|access-date={{dat|2023|10|14||bez}}|archive-date={{dat|2018|07|20||bez}}|archive-url=https://web.archive.org/web/20180720062717/https://vz.ru/news/2018/7/20/933364.html}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+
+{{1973. gada orbitālie starti}}
+
+[[Kategorija:Starpplanētu zondes]]
+[[Kategorija:Marsa izpēte]]

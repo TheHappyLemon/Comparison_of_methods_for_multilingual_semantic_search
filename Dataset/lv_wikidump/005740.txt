@@ -1,0 +1,73 @@
+{{novecojis}}
+{{nosaukums slīprakstā}}
+{{Uzņēmuma infokaste v2
+| name = ''Google LLC''
+| logo = [[Attēls:Google 2015 logo.svg|frameless|alt=Google Logo]]
+| type = Sabiedrība ar ierobežotu atbildību
+| traded_as = 
+| industry = Interneta pakalpojumi<br />[[programmatūra|Datorprogrammatūra]]<br />Telesakaru iekārtas
+| foundation = 1998. gada 4. septembrī<br />{{vieta|ASV|Kalifornija|Menloparks}}<ref>{{Tīmekļa atsauce|title=Company|url=http://www.google.com/intl/en/about/corporate/company/|publisher=Google|accessdate=August 31, 2011|archive-date={{dat|2014|11|17||bez}}|archive-url=https://web.archive.org/web/20141117163856/http://www.google.com/intl/en/about/corporate/company/}}</ref><ref>{{Tīmekļa atsauce|last=Claburn|first=Thomas|title=Google Founded By Sergey Brin, Larry Page... And Hubert Chang?!?|url=http://www.informationweek.com/news/internet/google/210603678|publisher=InformationWeek|accessdate=August 31, 2011|archive-date={{dat|2011|06|28||bez}}|archive-url=https://web.archive.org/web/20110628231125/http://www.informationweek.com/news/internet/google/210603678}}</ref>
+| founder = [[Lerijs Peidžs]], [[Sergejs Brins]]
+| location = {{vieta|ASV|Kalifornija|Mauntinvjū}}
+| area_served = Pasaule
+| key_people = [[Sundars Pičai]]<br />(izpilddirektors)<br />Ruta Porata<br />(galvenā finanšu direktore)
+| products = 
+| revenue = {{Increase}} US$ 50,18 miljardi (2012)<ref name="Google-Inc-Jan-2013-10-K">{{Tīmekļa atsauce|url=http://edgar.secdatabase.com/1404/119312513028362/filing-main.htm |title=Google Inc, Form 10-K, Annual Report, Filing Date Jan 29, 2013 |publisher=secdatabase.com |accessdate =Mar 8, 2013}}</ref>
+| operating_income = {{Increase}} US$ 12.76 miljardi (2012)<ref name="Google-Inc-Jan-2013-10-K"/>
+| net_income = {{Increase}} US$ 10.74 miljardi (2012)<ref name="Google-Inc-Jan-2013-10-K"/>
+| assets = {{Increase}} US$ 93.80 miljardi (2012)<ref name="Google-Inc-Jan-2013-10-K"/>
+| equity = {{Increase}} US$ 71.72 miljardi (2012)<ref name="Google-Inc-Jan-2013-10-K"/>
+| num_employees = 139 995 (2023)
+| parent = ''[[Alphabet|Alphabet Inc.]]''
+| subsid = ''[[AdMob]], [[DoubleClick]], [[On2 Technologies]], [[Picnik]], [[YouTube]], [[Zagat]]''
+| homepage = {{URL|google.com}}
+| intl = yes
+| footnotes = <ref name="form 10-k">{{Tīmekļa atsauce |url=http://www.sec.gov/Archives/edgar/data/1288776/000119312511032930/d10k.htm |title=Form 10-K |publisher=U.S. Securities and Exchange Commission |year=2010 |location=Washington, D.C. |at=Part II, Item 6 |accessdate=June 29, 2011 |archiveurl=https://web.archive.org/web/20110629093647/http://www.sec.gov/Archives/edgar/data/1288776/000119312511032930/d10k.htm |archivedate={{dat|2011|06|29||bez}} }}</ref>
+}}
+'''''Google LLC''''' ir [[Amerikas Savienotās Valstis|ASV]] [[kapitālsabiedrība]], ''[[Alphabet (uzņēmums)|Alphabet Inc.]]'' meitas uzņēmums. To 1998. gadā dibināja [[Sergejs Brins]] un [[Lerijs Peidžs]]. Tā izstrādā un pārvalda populārāko [[Internets|Interneta]] [[meklētājprogramma|meklētājprogrammu]] ''[[Google meklētājs|Google Search]]''. ''Google'' galvenais birojs ir [[Sanfrancisko]] piepilsētā [[Mauntinvjū]]. Uzņēmuma izpilddirektors ir [[Sundars Pičai]].
+
+Vārds ''Google'' ir radies no nepareizi izrunāta vārda "[[gugols]]", ar ko apzīmē skaitli 10<sup>100</sup> (1 ar 100 nullēm). ''Google'' ir tieši ietekmējis tiešsaites kultūru. Nesen vairākās angļu valodas vārdnīcās ticis ievietots darbības vārds ''google'', ar ko apzīmē informācijas meklēšanu Internetā.<ref>Anderss Bailunds. "[http://www.fool.com/investing/dividends-income/2006/07/05/to-google-or-not-to-google.aspx To Google or Not to Google]." ''[[The Motley Fool]].'' 2006. gada 5. jūlijs. Iegūts 2007. gada 28. martā. {{en ikona}}</ref>
+
+''Google'' piedāvāto servisu darbību nodrošina vairākas [[serveru ferma]]s, katra no kurām sastāv no tūkstošiem vienkāršu, lētu datoru, kas darbojas zem [[GNU/Linux]] operacionālās sistēmas.<ref name="linux"/> Lai arī uzņēmums oficiāli neizpauž pilnīgu informāciju par tās rīcībā esošajiem serveriem, tiek lēsts, ka 2006. gadā ''Google's'' servisus kopumā darbināja ap 450 000 datoru, kas savienoti klāsteros, kuri izvietoti datu centros visā pasaulē. 2010. gada jūnijā [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] pēc ''Nielsen'' datiem ''Google's'' piedāvātais tīmekļa meklētājs bija populārākais, sastādot 65,0% tirgus daļas, kam seko ''[[Yahoo!]]'' ar 13,7% un ''[[MSN]]'' ar 13,4%.<ref name="Nielsen"/>
+
+2009. gadā 96,7% no ''Google'' ieņēmumiem veidoja [[reklāma|reklāmu]] pakalpojumi, respektīvi, no 23,65 miljardiem [[ASV dolārs|ASV dolāru]] (USD) lieliem ieņēmumiem reklāmu pakalpojumi bija 22,89 miljardi USD.<ref name="reklāma"/> ''Google'' ir realizējusi vairākus jauninājumus tiešsaistes reklāmas tirgū, kas to ir padarījusi par vienu no veiksmīgākajām šajā jomā.
+2019. gadā uzņēmumā strādāja {{nobr|114 096}} darbinieki.
+
+== Vēsture ==
+Uzņēmumu ''Google'' 1998. gada 4. septembrī dibināja Sergejs Brins un Lerijs Peidžs. Tas tika dibināts kā izpētes projekts, kad abi dibinātāji studēja [[Stenforda Universitāte|Stenforda Universitātē]]. Domēna vārds ''Google'' tika reģistrēts 1997. gada 15. septembrī.<ref>{{publikācijas atsauce|last=Brin|first=Sergey|author-link=Sergejs Brins|last2=Page|first2=Lawrence|author-link2=Larry Page|year=1998|title=The anatomy of a large-scale hypertextual Web search engine|url=http://infolab.stanford.edu/pub/papers/google.pdf|journal=Computer Networks and ISDN Systems|volume=30|issue=1–7|pages=107–117|citeseerx=10.1.1.115.5930|doi=10.1016/S0169-7552(98)00110-X}}</ref><ref>{{publikācijas atsauce |last=Barroso |first=L.A. |last2=Dean |first2=J. |last3=Holzle |first3=U. |date=April 29, 2003 |title=Web search for a planet: the google cluster architecture |journal=IEEE Micro |volume=23 |issue=2 |pages=22–28 |doi=10.1109/mm.2003.1196112 |quote=We believe that the best price/performance tradeoff for our applications comes from fashioning a reliable computing infrastructure from clusters of unreliable commodity PCs.|url=https://semanticscholar.org/paper/8db8e53c92af2f97974707119525aa089f6ed53a }}</ref>
+
+2011. gada 15. augustā ''Google'' paziņoja, ka par 12,5 miljardiem [[ASV dolārs|USD]] iegādāsies [[mobilais telefons|mobilo telefonu]] ražotāju ''[[Motorola Mobility]]'', 7 mēnešus pēc tam, kad ''[[Motorola]]'' tika sadalīts divos uzņēmumos. Pirkšanas darījums tika pabeigts 2012. gada 22. maijā.<ref name="Motorola Mobility 2012" />
+2014. gada 29. janvārī ''Google'' paziņoja, ka pārdod ''Motorola Mobility'' Ķīnas datoru ražotājam ''[[Lenovo]]'' par 2,91 miljardu dolāru. ''Google'' paturēja nodaļu ''Advanced Technologies & Projects'', kas tiks integrēta ''[[Android]]'' komandā, kā arī aptuveni 2000 ''Motorola'' patentu.<ref name="apollo: pārdošana Lenovo" />
+
+2014. gada 1. jūlijā tika nopirkts mūzikas straumēšanas un rekomendēšanas pakalpojumu uzņēmums ''Songza''.<ref name="Delfi 2014.07.02" />
+
+2015. gada 10. augustā ''Google'' paziņoja par plānu reorganizēt uzņēmuma grupu, izveidojot [[pārvaldītājsabiedrība|pārvaldītājsabiedrību]] ''[[Alphabet (uzņēmums)|Alphabet Inc.]]'', kurā ''Google Inc.'' būtu vadošais meitas uzņēmums. Par ''Google Inc.'' izpilddirektoru kļuva [[Sundars Pičai]].<ref name="blogspot.com 2015.08" />
+
+2019. gada 4. februārī tika paziņots, ka 2. aprīlī tiks slēgta sociālā tīkla platforma ''[[Google+]]''.<ref name="DB 2019-02-04" />
+
+2022. gada 4. janvārī mākoņskaitļošanas nodaļa iegādājās Izraēlas kiberdrošības jaunuzņēmumu ''Siemplify''.
+8. martā tika paziņots, ka ''Google'' par 5,4 miljardiem ASV dolāru iegādāsies kiberaizsardzības uzņēmumu ''Mandiant''; darījums pabeigts 12. septembrī.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="linux">{{tīmekļa atsauce | url= https://lwn.net/Articles/357658/ | title= KS2009: How Google uses Linux (LWN.net) | language= angliski}}</ref>
+<ref name="Nielsen">{{tīmekļa atsauce | url= http://blog.nielsen.com/nielsenwire/online_mobile/top-u-s-search-sites-for-june-2010/ | title= Top U.S. Search Sites for June 2010 | publisher= nielsen.com | accessdate= 2011-10-29 | language= angliski | archiveurl= https://web.archive.org/web/20111109172128/http://blog.nielsen.com/nielsenwire/online_mobile/top-u-s-search-sites-for-june-2010 | archivedate= 2011-11-09 }}</ref>
+<ref name="reklāma">{{tīmekļa atsauce | url= http://investor.google.com/financial/2009/tables.html | title= 2009 Financial Tables | publisher= Google Investor Relations | accessdate= 2012-01-17 | language= angliski}}</ref>
+<ref name="Motorola Mobility 2012">{{Tīmekļa atsauce |url=https://investor.google.com/releases/2012/0522.html |title=Google Acquires Motorola Mobility |access-date={{dat|2013|07|30||bez}} |archiveurl=https://web.archive.org/web/20130728171205/http://investor.google.com/releases/2012/0522.html |archivedate={{dat|2013|07|28||bez}} }}</ref>
+<ref name="apollo: pārdošana Lenovo">[http://www.apollo.lv/zinas/google-pazino-par-motorola-mobility-pardosanu-lenovo/634708 «Google» paziņo par «Motorola Mobility» pārdošanu «Lenovo»] LETA, 2014. gada 30. janvāris</ref>
+<ref name="Delfi 2014.07.02">[http://www.delfi.lv/bizness/tehnologijas/google-iegadajies-muzikas-straumesanas-uznemumu-songza.d?id=44676900 'Google' iegādājies mūzikas straumēšanas uzņēmumu 'Songza'] Delfi Bizness, 02. jūlijs 2014</ref>
+<ref name="blogspot.com 2015.08">[http://googleblog.blogspot.com/2015/08/google-alphabet.html G is for Google] googleblog.blogspot.com, August 10, 2015</ref>
+<ref name="DB 2019-02-04">[http://www.db.lv/zinas/slegs-socialo-mediju-platformu-google-483938 Slēgs sociālo mediju platformu Google+] LETA, 2019. gada 04. februāris</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.google.lv | title= Google.lv}}
+* {{tīmekļa atsauce | url= http://lifestyle.iloveindia.com/lounge/history-of-google-6623.html | title= History of Google | publisher= Iloveindia.com | language= angliski}}
+
+{{Google Inc.|state=uncollapsed}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Google| ]]

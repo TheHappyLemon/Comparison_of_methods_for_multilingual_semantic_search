@@ -1,0 +1,25 @@
+{{Valodas infokaste
+|name=Gruzīnu valoda
+|nativename={{lang|ka|ქართული}} ''Kartuli''
+|familycolor=Kaukāziešu
+|states={{GEO}}<br />{{RUS}}<br />{{TUR}}<br />{{UKR}}<br />{{IRN}}<br />{{AZE}}
+|speakers=4,1 milj. 
+|fam1=[[Kartvelu valodas|Kartvelu]]
+|script=[[Gruzīnu alfabēts]]
+|nation={{GEO}}
+|iso1=ka|iso2b=geo|iso2t=kat|iso3=kat}}
+
+{{InterWiki|code=ka}}
+
+'''Gruzīnu valoda''' (''Kartuli'') ir [[kartvelu valodas|kartvelu]] grupas valoda. Dzimtā valoda [[gruzīni]]em. Runā [[Gruzija|Gruzijā]] — 3,7 milj cilvēku; [[Krievija|Krievijā]] — 130 tūkst; [[Turcija|Turcijā]] — 100 tūkst; [[Ukraina|Ukrainā]] 23 tūkst; [[Irāna|Irānā]] — 10 tūkst; [[Azerbaidžāna|Azerbaidžānā]] — 14,2 tūkst.
+
+== Dialekti ==
+Gruzīnu valodas dialekti atbilst [[gruzīni|gruzīnu]] etnogrāfiskajam iedalījumam. Kopumā 17 dialekti. Rietumgruzijā — [[Adžārija|adžāru]], [[Gurija|guriešu]], [[Imeretija|imeretiešu]], [[lečhumieši|lečhumiešu]] un [[račinieši|račiniešu]] dialekti. Austrumgruzijā — [[Kartlija|kartliešu]] ([[literārā valoda|literārās valodas]] pamatā), [[Kahetija|kahetiešu]], [[mohevieši|moheviešu]], [[mtiuli|mtiulu]], [[pšavi|pšavu]], [[tušini|tušinu]] un [[hevsūri|hevsūru]] dialekti. Dienvidgruzijā — [[džavahi|džavahu]] un [[meshi|meshu]] dialekti. Ārpus Gruzijas — [[ingoloici|ingoloicu]] (Azerbaidžānā), [[fereidanieši|fereidaniešu]] (Irānā) un [[imerhevci|imerhevcu]] (Turcijā). Kaut arī [[mengreli]], [[svani]] un [[lazi (tauta)|lazi]] tiek uzskatīti par gruzīnu etnogrāfiskajām grupām, tie runā atsevišķās valodās.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Gruzīnu valoda]]

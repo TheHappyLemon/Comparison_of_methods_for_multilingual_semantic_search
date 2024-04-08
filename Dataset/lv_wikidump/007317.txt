@@ -1,0 +1,92 @@
+{{Latvijas novada infokaste
+| nosaukums         = Sērenes pagasts
+| karte             = Sērenes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Sērene
+| centrs2           = <!-- izmantot konstrukcijām [[Ērgļi (Brunavas pagasts)|Ērgļi]] -->
+| platība           = 119,08
+| iedzīvotāji       = 857<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 857 / 119.08 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Sērenes pagasts''' ir viena no Aizkraukles novada administratīvajām teritorijām tā centrālajā daļā. Robežojas ar sava novada [[Aizkraukle]]s un [[Jaunjelgava]]s pilsētām, [[Jaunjelgavas pagasts|Jaunjelgavas]], [[Aizkraukles pagasts|Aizkraukles]], [[Daudzeses pagasts|Daudzeses]], [[Kokneses pagasts|Kokneses]], [[Seces pagasts|Seces]] un [[Skrīveru pagasts|Skrīveru]] pagastiem, [[Bauskas novads|Bauskas novada]] [[Valles pagasts|Valles pagastu]], kā arī [[Ogres novads|Ogres novada]] [[Birzgales pagasts|Birzgales pagastu]].
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Daugava]], [[Dešupīte (Lauces pieteka)|Dešupīte]], [[Iecava (upe)|Iecava]], [[Lauce]].
+
+Ūdenstilpes: [[Pļaviņu ūdenskrātuve]], [[Sērenes dīķi]], [[Valaka ezers]].
+
+== Vēsture ==
+Mūsdienu Sērenes pagasta teritorijā vēsturiski atradās Vecsērenes muiža (''Gut Alt-Seren'', [[Vecsērene]]).
+
+1935. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Sērenes pagasta platība bija 206,8 km² un tajā dzīvoja 2195 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Sērenes un [[Vecsērenes ciems|Vecsērenes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Sērenes ciems''' ietilpis [[Jaunjelgavas rajons|Jaunjelgavas]] (1949-1956) un [[Jēkabpils rajons|Jēkabpils]] (1956-1957) rajonos. Sērenes ciemam 1954. gadā pievienoja likvidēto Vecsērenes ciemu. 1957. gada 7. janvārī Sērenes ciemu likvidēja un pievienoja [[Jaunjelgava]]i, izveidojot '''Jaunjelgavas lauku teritoriju'''.<ref>{{Latvijas PSR iedalījums}}</ref> 1992. gada 2. aprīlī Jaunjelgavas lauku teritoriju reorganizēja par '''Sērenes pagastu''', pievienojot tam daļu no [[Daudzeses pagasts|Daudzeses pagasta]] teritorijas.<ref>[https://likumi.lv/ta/id/84698 Par Latvijas Republikas Aizkraukles, Kuldīgas, Rīgas, Talsu un Valkas rajonu administratīvo teritoriju robežu grozīšanu]</ref> 1996. gada 29. maijā daļa Sērenes pagasta teritorijas tika pievienota Jaunjelgavai kā [[Jaunjelgavas pagasts|lauku teritorija]].<ref>[https://likumi.lv/ta/id/40347 Noteikumi par Aizkraukles rajona Jaunjelgavas pilsētas ar lauku teritoriju izveidošanu, Ogres rajona Ķeguma pilsētas ar lauku teritoriju un Rembates pagasta, kā arī Ogres rajona Ogres pilsētas un Ogresgala pagasta administratīvo robežugrozīšanu]</ref> 2009. gadā Sērenes pagastu kā administratīvo teritoriju iekļāva [[Jaunjelgavas novads|Jaunjelgavas novadā]]. 2021. gadā, kā viena no Jaunjelgavas novada administratīvajām teritorijām, iekļauta [[Aizkraukles novads|Aizkraukles novadā]].
+
+=== Pieminekļi ===
+* nr. 121.: Sērenes pilskalns pie Pilskalniem<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1545
+|1959|1309
+|1967|1250
+|1979|1096
+|1989|1006
+|2000|834
+|2011|760
+|2021|683
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Sērene]]''' (pagasta centrs), [[Dīķi]], [[Krolīši]], [[Menta (stacija)|Menta]], [[Talsiņa]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<gallery widths="100px" heights="70px" perrow="4">
+Attēls:Autoceļš P87 Sērenē.JPG|<center><small>Autoceļš P87 Sērenē</small></center>
+Attēls:serenes karsta kritenis.JPG|<center><small>Sērenes karsta kritenis</small></center>
+Attēls:Mentas stacija.JPG|<center><small>[[Menta (stacija)|Mentas dzelzceļa stacija]]</small></center>
+Attēls:Sērenes pagastnams.JPG|<center><small>Sērenes pagastnams</small></center>
+Attēls:dzivojama maja serene.JPG|<center><small>Dzīvojāma māja Sērenē</small></center>
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Jaunjelgavas novads}}
+{{Aizkraukles rajons}}
+{{Jēkabpils rajons}}
+{{Jaunjelgavas rajons}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Sērenes pagasts| ]]

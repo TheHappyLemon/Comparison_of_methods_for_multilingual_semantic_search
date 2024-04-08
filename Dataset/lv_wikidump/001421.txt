@@ -1,0 +1,138 @@
+{{Infobox flag
+| Name = ASV
+| Image = Flag of the United States (DoS ECA Color Standard).svg
+| Alt = Flag of the United States of America
+| Nickname = The American flag
+| Morenicks = {{plainlist|
+* The Stars and Stripes
+* Red, White, and Blue
+* [[Old Glory]]
+* [[Star-Spangled Banner (flag)|The Star-Spangled Banner]]
+* United States (U.S.) flag
+}}
+| Use = 111111
+| Symbol = {{FIAV|111111}} {{FIAV|normal}} {{FIAV|Vertical normal}}
+| Proportion = 10:19
+| Adoption = {{unbulleted list|1775. gada 3. decembris<br />([[Grand Union karogs]])|1777. gada 14. jūnijs<br />(13-zvaigžņu variants)|1960. gada 4. jūlijs<br />(pašreizējais 50-zvaigžņu variants)}}
+| Design = Trīspadsmit horizontālas svītras, kas mijas sarkanā un baltā krāsā; kantonā 50 baltas zvaigznes ar mainīgiem cipariem seši un pieci katrā horizontālajā rindā zilā laukā
+| Designer = 
+| Image2 = Flag of the United States (Pantone).svg
+| Nickname2 = Pantone
+| Image3 = 
+| Nickname3 = 
+}}
+
+'''Amerikas Savienoto Valstu karogā''' redzamās 50 zvaigznes simbolizē [[Amerikas Savienotās Valstis|ASV]] 50 [[ASV politiskais iedalījums|štatus]], bet 13 svītras (7 sarkanas un 6 baltas) - pirmos ASV štatus austrumu piekrastē. Sākumā uz karoga atradās 13 zvaigznes un 13 svītras, bet nākot klāt jauniem štatiem nāca klāt arī jaunas zvaigznes, svītru skaits gan palika nemainīgs. Karoga krāsas ņemtas no [[Lielbritānijas karogs|Lielbritānijas karoga]], kurai līdz pat 1776. gadam piederēja koloniālā vara. Pēdējā zvaigznīte karogā tika iezīmēta 1960. gadā, kad par atsevišķu štatu kļuva [[Havajas|Havaju salas]].
+== Vēsture ==
+=== Karoga dizaina vēsturiskā attīstība ===
+{| class="sortable wikitable"
+|- style="background:#ccc;"
+! Zvaigžņu <br />skaits
+! Svītru <br />skaits
+! class="unsortable" | Karoga dizains
+! class="unsortable" | Štati kas pārstāvēti<br />ar jaunām zvaigznēm
+! Izmantošanas laiks
+! Termiņš
+|- valign="top"
+| 0 || 13 || [[File:Flag of the United States (1776–1777).svg|84px]] || [[Lielbritānijas karogs|Karaļa karogs]] pirms zvaigznēm attēlo sarkanas un baltas svītras [[Konektikuta]], [[Delavēra]], [[Džordžija]], [[Mērilenda]], [[Masačūseta]], [[Ņūhempšīra]], [[Ņūdžersija]], [[Ņujorka (štats)|Ņujorka]], [[Ziemeļkarolīna]], [[Pensilvānija]], [[Rodailenda]], [[Dienvidkarolīna]], [[Virdžīnija]] || {{nowrap|1775. gada 3. decembris}}<ref name=leepson>Leepson, Marc. (2005). ''Flag: An American Biography.'' New York: [[St. Martin's Press]].</ref>&nbsp;– 1777.gada 14. jūnijs
+| style="text-align:left;"| {{Sort|018|{{frac|1|1|2}} gadi}}
+|- valign="top"
+| 13 || 13 || [[File:US flag 13 stars.svg|border|84px]]<br />[[File:Hopkinson Flag.svg|border|84px]]<br />[[File:John Trumbull's Depiction of the Flag of the USA.svg|border|84px]]<br />[[File:US flag 13 stars – Betsy Ross.svg|border|84px]]<br />[[File:Cowpens Flag.svg|border|84px]]<br />[[File: Flag of the United States (4-5-4 pattern).svg |border|84x84px]]
+| [[Konektikuta]], [[Delavēra]], [[Džordžija]], [[Mērilenda]], [[Masačūsetsa]], [[Ņūhempšīra]], [[Ņūdžersija]], [[Ņujorka (štats)|Ņujorka]], [[Ziemeļkarolīna]], [[Pensilvānija]], [[Rodailenda]], [[Dienvidkarolīna]], [[Virdžīnija]] || 1777. gada 14. jūnijs – 1795. gada 1. maijs
+| style="text-align:left;"| {{Sort|215|18 gadi}}
+|- valign="top"
+| 15 || 15 || [[File:US flag 15 stars.svg|border|84px]]<br />[[File:Star-Spangled Banner flag.svg|border|84px]] ||[[Vērmonta]], [[Kentuki]] || 1795. gada 1. maijs– 1818. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|278|23 gadi}}
+|- valign="top"
+| 20 || 13 || [[File:US flag 20 stars.svg|border|84px]]<br />[[File:US 20 Star GreatStar Flag.svg|border|84px]] || [[Tenesī]], [[Ohaio]], [[Luiziāna]], [[Indiāna]], [[Misisipi (štats)|Misisipi]] || 1818. gada 4. jūlijs – 1819. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 21 || 13 || [[File:US flag 21 stars.svg|border|84px]] || [[Ilinoisa]] || 1819. gada 4. jūlijs – 1820. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 23 || 13 || [[File:US flag 23 stars.svg|border|84px]] || [[Alabama]], [[Meina]] || 1820. gada 4. jūlijs – 1822. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|024|2 gadi}}
+|- valign="top"
+| 24 || 13 || [[File:US flag 24 stars.svg|border|84px]] || [[Misūri]] || 1822. gada 4. jūlijs – 1836. gada 3. jūlijs<br />1831. radās termins "Old Glory".
+| style="text-align:left;"| {{Sort|168|14 gadi}}
+|- valign="top"
+| 25 || 13 || [[File:US flag 25 stars.svg|border|84px]]
+[[File:25 star linear pattern.png|border|84x84px]]
+
+[[File:25 star staggered pattern.png|border|84x84px]]
+| [[Ārkanzasa]] || 1836. gada 4. jūlijs– 1837. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 26 || 13 || [[File:US flag 26 stars.svg|border|84px]]<br />[[File:US 26 Star GreatStar Flag.svg|border|84px]] || [[Mičigana]] || 1837. gada 4. jūlijs – 1845. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|096|8 gadi}}
+|- valign="top"
+| 27 || 13 || [[File:US flag 27 stars.svg|border|84px]] || [[Florida]] || 1845. gada 4. jūlijs – 1846. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 28 || 13 || [[File:US flag 28 stars.svg|border|84px]] || [[Teksasa]] || 1846. gada 4. jūlijs – 1847. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 29 || 13 || [[File:US flag 29 stars.svg|border|84px]]<br />[[File:US 29 Star Diamond Pattern Flag.svg|border|84px]] || [[Aiova]] || 1847. gada 4. jūlijs – 1848. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 30 || 13 || [[File:US flag 30 stars.svg|border|84px]] || [[Viskonsina]] || 1848. gada 4. jūlijs– 1851. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|036|3 gadi}}
+|- valign="top"
+| 31 || 13 || [[File:US flag 31 stars.svg|border|84px]] || [[Kalifornija]] || 1851. gada 4. jūlijs – 1858. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|084|7 gadi}}
+|- valign="top"
+| 32 || 13 || [[File:US flag 32 stars.svg|border|84px]] || [[Minesota]] || 1858. gada 4. jūlijs – 1859. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 33 || 13 || [[File:US flag 33 stars.svg|border|84px]]<br />[[File:US 33 Star Fort Sumter Flag.svg|84px|border]]<br />[[File:US 33 Star GreatStar Flag.svg|84px|border]]<br />[[File:US 33 Star Flag 2.svg|84px|border]] || [[Oregona]] || 1859.gada 4. jūlijs– 1861. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|024|2 gadi}}
+|- valign="top"
+| 34 || 13 || [[File:US flag 34 stars.svg|border|84px]]<br />[[File:Flag of the United States of America (1861-1863).svg|border|84px]] || [[Kanzasa]] || 1861. gada 4. jūlijs– 1863. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|024|2 gadi}}
+|- valign="top"
+| 35 || 13 || [[File:US flag 35 stars.svg|border|84px]]<br />[[File:U.S. flag (35 stars).svg|border|84px]] || [[Rietumvirdžīnija]] || 1863. gada 4. jūlijs– 1865. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|024|2 gadi}}
+|- valign="top"
+| 36 || 13 || [[File:US flag 36 stars.svg|border|84px]]<br />[[File:US 36 Star Wagon Wheel Flag.svg|border|84px]] || [[Nevada]] || 1865. gada 4. jūlijs – 1867. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|024|2 gadi}}
+|- valign="top"
+| 37 || 13 || [[File:US flag 37 stars.svg|border|84px]]<br />[[File:Flag of the United States (1867-1877).svg|border|84px]]<br />[[File:US 37 Star Medallion Centennial Flag.svg|border|84px]] || [[Nebraska]] || 1867. gada 4. jūlijs– 1877. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|120|10 gadi}}
+|- valign="top"
+| 38 || 13 || [[File:US flag 38 stars.svg|border|84px]]<br />[[File:US 38 Star Flag concentric circles.svg|border|84px]] || [[Kolorādo]] || 1877. gada 4. jūlijs – 1890. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|156|13 gadi}}
+|- valign="top"
+| 43 || 13 || [[File:US flag 43 stars.svg|border|84px]] || [[Ziemeļdakota]], [[Dienviddakota]], [[Montāna]], [[Vašingtona (štats)|Vašingtona]], [[Aidaho]] || 1890. gada 4. jūlijs– 1891. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 44 || 13 || [[File:US flag 44 stars.svg|border|84px]] || [[Vaiominga]] || 1891. gada 4. jūlijs– 1896. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|060|5 gadi}}
+|- valign="top"
+| 45 || 13 || [[File:US flag 45 stars.svg|border|84px]] || [[Jūta]] || 1896. gada 4. jūlijs– 1908. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|144|12 gadi}}
+|- valign="top"
+| 46 || 13 || [[File:US flag 46 stars.svg|border|84px]] || [[Oklahoma]] || 1908. gada 4. jūlijs– 1912. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|048|4 gadi}}
+|- valign="top"
+| 48 || 13 || [[File:US flag 48 stars.svg|border|84px]] || [[Ņūmeksika]],<ref>{{Cite web |url=https://www.nmhistorymuseum.org/blog/2011/09/the-officially-unofficial-kind-of-illegal-47-star-flag-comes-in-for-repairs/ |title=The Officially Unofficial Kind of Illegal 47-Star Flag Comes in for Repairs |date=September 8, 2011 |access-date=June 21, 2022 |archive-date=August 18, 2022 |archive-url=https://web.archive.org/web/20220818080058/https://www.nmhistorymuseum.org/blog/2011/09/the-officially-unofficial-kind-of-illegal-47-star-flag-comes-in-for-repairs/}}</ref> [[Arizona]] || 1912. gada 4. jūlijs– 1959. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|564|47 gadi}}
+|- valign="top"
+| 49 || 13 || [[File:US flag 49 stars.svg|border|84px]] || [[Aļaska]] || 1959. gada 4. jūlijs– 1960. gada 3. jūlijs
+| style="text-align:left;"| {{Sort|012|1 gads}}
+|- valign="top"
+| 50 || 13 ||[[File:Flag of the United States (Pantone).svg|84x84px|border]] <br> [[File:Flag of the United States.svg|border|84x84px]] <br> [[File:Flag of the United States  (DoS ECA Color Standard).svg|84x84px|border]] 
+|[[Havajas]]|| 1960. gada 4. jūlijs – pašlaik
+| style="text-align:left;"| {{Sort|{{Age in months|1960|7|4}}|{{age|1960|7|4}}}} gadi
+|}
+
+== Atsauces ==
+<references />
+== Ārējās saites ==
+* [http://www.si.edu/Encyclopedia_SI/nmah/flag.htm Encyclopedia Smithsonian: Facts About the United States Flag]
+* [https://www.law.cornell.edu/uscode/text/4/chapter-1 Text] of the [[United States Flag Code]] (chap. 1 of Title 4 of the United States Code)
+* [https://www.archives.gov/federal-register/codification/executive-order/10834.html Executive Order No. 10798], with specifications and regulations for the current flag
+* [http://americanhistory.si.edu/1942/index.html July 1942: United We Stand] {{Webarchive|url=https://web.archive.org/web/20120511164748/http://americanhistory.si.edu/1942/index.html |date=May 11, 2012 }} – [[National Museum of American History]] online exhibition highlighting some 500 magazines featuring the American flag on their cover during World War II
+
+[[Kategorija:ASV nacionālie simboli|Karogs]]
+[[Kategorija:Nacionālie karogi]]
+[[Kategorija:Ziemeļamerikas valstu karogi]]

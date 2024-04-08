@@ -1,0 +1,23 @@
+{{atsauces+}}
+
+'''Datorprogramma''' (bieži saukta arī vienkārši par '''programmu''') ir instrukciju saraksts, kas nosaka [[dators|datoram]] veicamās darbības. Lielākā daļa programmu sastāv no ielādējamas instrukciju kopas, kura nosaka, kā dators reaģēs uz lietotāja ievadi programmas darbības laikā. Datorprogrammu parasti sastāda [[programmētājs]] kādā noteiktā [[programmēšanas valoda|programmēšanas valodā]]. Mūsdienās dažādi programmēšanas aspekti ir automatizēti, tāpēc bieži vien viena datorprogramma izveido citu (piemēram, [[Vikipēdija]]s lapas kods tiek automātiski ģenerēts no [[datubāze|datubāzē]] esošās informācijas).
+
+== Skatīt arī ==
+* [[Operētājsistēma]]
+* [[Pirmkods]]
+* [[Programmētājs]]
+* [[Programmēšanas valoda]]
+* [[Tjūringa mašīna]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Datorzinātne-aizmetnis}}
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datorzinātne]]
+[[Kategorija:Programmatūra]]
+[[Kategorija:Programmēšana]]

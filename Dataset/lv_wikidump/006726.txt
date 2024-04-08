@@ -1,0 +1,10 @@
+{{mazais burts}}
+'''hCalendar''' ir [[mikroformāti|mikroformāts]], kas ļauj semantiski pierakstīt [[tīmekļa lappuse|tīmekļa lappusēs]] [[iCalendar]] formāta notikumu aprakstus.
+
+== Ārējās saites ==
+* [http://microformats.org/wiki/hcalendar hCalendar mikroformāta apraksts]
+
+{{IT-aizmetnis}}
+{{īss-aizmetnis}}
+
+[[Kategorija:Mikroformāti]]

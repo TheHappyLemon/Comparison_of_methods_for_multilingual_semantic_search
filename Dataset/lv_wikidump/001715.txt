@@ -1,0 +1,67 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Terva
+| official_name           = Tõrva
+| settlement_type         = Apriņķa pilsēta
+| image_skyline           = Tõrva church 2008 1.jpg
+| imagesize               = 
+| image_caption           = Tervas baznīca
+| image_flag              = Flag of Tõrva.svg
+| flag_size               = 125px
+| image_seal              = 
+| seal_size               = 
+| image_shield            = Torva_coatofarms.png
+| shield_size             = 65px
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Estonia
+| pushpin_label_position  = right
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd  = 58|latm  = 0|lats  = 10|latNS  = N
+| longd = 25|longm = 55|longs = 25|longEW = E
+| coordinates_display        = inline,title
+| coordinates_region        = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Valgamaa lipp.svg|25px]] [[Valgas apriņķis]]
+| established_title       = Pilsētas tiesības
+| established_date        = {{dat|1926|7|2}}
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_total_km2          = 4.80
+| population_total        = 2690
+| population_as_of        = 01.01.2021
+| population_density_km2  = auto
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             = 
+| website                 = [http://www.torva.ee www.torva.ee]
+}}
+
+'''Terva''' ({{val|et|Tõrva}}) ir otra lielākā pilsēta [[Valgas apriņķis|Valgas apriņķī]]. Pilsēta ir izvietojusies [[Ehne]]s upes krastos. Kopēja platība — 4,80 km², iedzīvotāju skaits — 2690. [[Igaunijas PSR]] laikā šeit atradās [[Padomju armija]]s aviobāze.
+
+Netālu no pilsētas atrodas viduslaiku [[Helmetas pils]]drupas.
+
+== Iedzīvotāji ==
+=== Ievērojamas personības ===
+Tervā ir dzimuši vai dzīvojuši:
+* [[Magnuss Kirts]] (''Magnus Kirt''; 1990) ir igauņu vieglatlēts, startē šķēpa mešanas sacensībās.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Valgas apriņķis]]

@@ -1,0 +1,83 @@
+{{Enciklopēdiskais stils}}
+{{nepieciešamas atsauces}}
+'''Iekšdedzes dzinējs ''' ir [[dzinējs]], kura darbināšanai nepieciešamo [[enerģija|enerģiju]] iegūst, degkamerā sadedzinot no [[benzīns|benzīna]] un [[gaiss|gaisa]] sastāvošu [[degmaisījums|degmaisījumu]] vai iesmidzinot [[dīzeļdegviela]]s tvaikus. Iegūtā [[mehāniskā enerģija]] tālāk, lietojot [[transmisija|transmisiju]] (ķēdes pārvadu, kardāna pārvadu) tiek pievadīta citām mehānisma daļām (riteņiem, zobratiem, jūgvārpstai utt.).
+
+Dzinējs sastāv no šādiem pamatmehānismiem:
+* Kloķa—klaņa mehānisma taisnvirziena kustības pārveidošanai rotācijas kustībā. Šajā mehānismā ietilpst: virzulis ar gredzeniem, klanis, virzuļa pirksts, kloķvārpsta, spara rats, cilindrs un [[karteris]].
+* Gāzu sadales mehānisma gāzu maisījuma pievadīšanai cilindriem un sadegšanas gāzu izvadīšanai no cilindra. Šis mehānisms sastāv no vārstiem, bīdītājiem, [[atspere|atsperēm]], sadales vārpstas, sadales zobratiem. Dzinēju darbību nodrošina vairākas ierīces, kuras veido eļļošanas sistēmu, degvielas piegādes sistēmu un aizdedzes sistēmu.
+
+Ceļu, ko virzulis noiet no visaugstākā līdz viszemākam stāvoklim, sauc par virzuļa gājienu. Virzuļa galējos stāvokļus sauc par maiņas punktiem — augšējo (AMP) (vistālāk no [[kloķvārpsta]]s) un zemāko (ZMP) (vistuvāk kloķvārpstai). Cilindra telpu starp AMP un ZMP sauc par cilindra darba tilpumu. Telpu, kurā notiek sadegšana, sauc par darba telpu, jeb degkameru, bet telpu starp maiņas punktiem — par kompresijas telpu. Dzinēja [[jauda|jaudu]] raksturo kompresijas pakāpe — kompresijas telpas attiecība pret darba telpu. Lai dzinējs darbotos, nepieciešams dzinēja cilindrā ievadīt gāzes maisījumu, to saspiest, aizdedzināt un atbrīvot cilindru no sadegšanas produktiem. Procesus, kas atkārtojas noteiktā kārtībā, visus kopā sauc par darba ciklu. Darba cikla daļu, kas norisinās virzuļa viena gājiena laikā, sauc par takti.
+
+Atkarībā no tā, ar cik kloķvārpstas apgriezieniem noslēdzas pilns darba cikls, dzinējus iedala divtaktu un četrtaktu dzinējos.
+
+== Četrtaktu dzinējs ==
+[[Attēls:4-Stroke-Engine.gif|right|154px|thumb|Četrtaktu dzinējs]]
+Par četrtaktu dzinēju to sauc tādēļ, ka tā darbība tiek sadalīta četrās daļās - četrās taktīs.
+
+Tā darbība noris divos pilnos kloķvārpstas apgriezienos ''(720 grādi)'', jo darba gājiens noris tikai katrā otrajā kloķvārpstas apgriezienā.
+
+Dzinējs sastāv no [[cilindrs|cilindra]], kloķvārpstas, [[virzulis|virzuļa]], [[klanis|klaņa]] (tas savieno kloķvārpstu ar virzuli), gāzu sadales vārpstas, bīdītājiem, divplecu sviras, ieplūdes un izplūdes vārstiem (pa vienam vai diviem), [[aizdedzes svece]]s, kas aizdedzina degmaisījumu vai sprauslas [[degviela]]s iesmidzināšanai cilindrā.
+
+Par degvielu galvenokārt tiek izmantots [[benzīns]] vai [[dīzeļdegviela]], tomēr iekšdedzes dzinēju ir iespējams darbināt arī ar [[dabasgāze|dabasgāzi]] vai (galvenokārt no koka klucīšiem [[gāzģenerators|gāzģeneratorā]] iegūtu) [[metāns|metānu]].
+
+1893. gadā [[Rūdolfs Dīzels]] patentēja dīzeļa [[motors|motoru]].
+
+Četrtaktu dzinējus uzstāda galvenokārt [[automašīna|automašīnām]], motoblokiem, zāles pļāvējiem. Dīzeļdegvielas īpatnības ļauj sasniegt lielāku kompresijas pakāpi, tādēļ ar dīzeļmotoriem bieži tiek aprīkota [[lauksaimniecība]]s (piem. [[traktors|traktori]]) un militārā tehnika ([[tanks|tanki]], [[zemūdene]]s utt).
+
+=== Četrtaktu dzinēja darbība ===
+<gallery>
+Attēls:Four stroke cycle start.png|Cikla sākums
+Attēls:Four stroke cycle intake.png|Ieplūde
+Attēls:Four stroke cycle compression.png|Kompresija
+Attēls:Four stroke cycle spark.png|Degvielas aizdedzināšana
+Attēls:Four stroke cycle power.png|Darba takts
+Attēls:Four stroke cycle exhaust.png|Izplūde
+</gallery>
+* '''1. takts''' — ieplūde. Virzulis virzās no AMP uz ZMP. Cilindra telpa nonāk sakarā ar ieplūdes kolektoru, no kura ieplūst degmaisījums, dīzeļmotoriem - gaiss. Virzulim pārvietojoties uz leju, cilindā rodas retināta telpa, kur spiediens zemāks par atmosfētas spiedienu. Virzulim sasniedzot ZMP ieplūe beidzas un ieplūdes vārsts tiek noslēgts.
+* '''2. takts''' — kompresija (compressio - "saspiešana" (latīņu val.)). Virzulim pārvietojoties uz AMP pie noslēgtiem vārstiem, gāzes maisījums tiek saspiests, un līdz ar to ceļas temperatūra un spiediens. Kompresijas takts izbeidzas, kad virzulis sasniedzis AMP.
+* '''3. takts''' — darba takts. Virzulim tuvojoties augšējam maiņas punktam, starp cilindrā ieskrūvētās aizdedzināšanas sveces elektrodiem pārlec elektriska dzirkstele un aizdedzina saspiesto gāzu maisījumu. Dīzeļmotorā šajā taktī pa īpašu, cilindrā ieskrūvētu sprauslu iesmidzina dīzeļdegvielas migliņu. Maisījuma sadegšanas rezultātā temperatūra un spiediens cilindra iekšpusē stipri pieaug un spiež virzuli uz leju.
+* '''4. takts''' — izplūde. Virzulis virzās uz augšu, atveras izplūdes vārsts un sadegšanas gāzes tiek izvadītas pa izplūdes kolektoru uz izvadkanālu.
+
+=== Četrtaktu dzinēju eļļošanas sistēmas ===
+* ''Eļļošana ar izšķaidīšanu'' — eļļošana notiek ar izšķaidīšanu. Spara rati izšķaida eļļu, kas ielieta karterī līdz zināmam līmenim. Pateicoties gaisa cirkulācijai karterī un klaņa straujai kustībai, eļļa tiek sašķaidīta sīkās daļiņās un pārvēršas eļļainā miglā, kas eļļo detaļas berzes virsmas.
+* ''Eļļošana zem spiediena'' — eļļošana notiek zem spiediena, kad eļļu ar sūkni pa īpašiem kanāliem un caurulēm pievada berzes virsmām.
+* ''Jauktā eļļošanas sistēma'' — eļļošana, kur daļa no berzes virsmām tiek eļļotas zem spiediena, bet daļa - ar izšķaidīšanu. Šo eļļošanu sistēmu izmanto motociklu dzinēju eļļošanā.
+
+=== Četrtaktu dzinēja darba kārtība ===
+Par četrtaktu dzinēja darba kārtību sauc secību, kādā dzinēja cilindros notiek darba takts. Parastā četrcilindru četrtaktu dzinēja darba kārtība ir 1—3—4—2. Tas nozīmē, ka tad, kad pirmajā cilindrā ir darba takts, otrajā notiek ieplūde, trešajā — kompresija, bet ceturtajā — izplūde.
+
+== Divtaktu dzinējs ==
+[[Attēls:mov_motors.gif|right|thumb|200px|Divtaktu dzinējs]]
+
+=== Divtaktu dzinēja darbība ===
+* '''1. takts''' — sadegušā degmaisījuma izplūde un jauna degmaisījuma ieplūde cilindrā no kartera (karterī ir ievietota kloķvārpsta)
+* '''2. takts''' — darba gājiens (degmaisījuma sadegšana cilindrā) un jauna degmaisījuma ieplūde karterī.
+
+=== Divtaktu dzinēju konstrukciju īpatnības ===
+Divtaktu dīzeļmotori mūsdienās tiek lietoti kā kuģa galvenā propulsijas iekārta. 
+Ne visi mūsdienu divtaktu motori ir karburatormotori. Pastāv arī divtaktu motori ar elektronisko degvielas injekciju. 
+Divtaktu dzinēji pēc savas konstrukcijas ievērojami atšķiras no četrtaktu dzinējiem. Divtaktu dzinēja viss darbs gājiens (iesūkšana, kompresija, darba gājiens, un sadegšanas gāzu izgrūšana) notiek kloķa vārpstas viena apgrieziena laikā.
+* Divtaktu dzinējiem nav vārstu un sadalīšanas mehānisma. Vārstu uzdevumu izpilda virzulis, kas savos dažādajos stāvokļos pārsedz cilindra spraugas. Gāzes maisījums tiek iesūkts nevis sadegšanas kamerā, bet dzinēja karterī, no kurienes maisījums zem spiediena, ko rada virzulis, pa īpašām spraugām nokļūst cilindrā.
+* Divtaktu dzinēju otra īpatnība ir vienkāršība lietošanā un kopšanā, tādēļ tas ir neapšaubāmi daudz vieglāk apgūstams nekā četrtaktu dzinējs.
+* Divtaktu dzinēja trešā īpatnība ir tā griezes spēka lielāka vienmērība, salīdzinot ar četrtaktu dzinēju. Šī vienmērība sevišķi izpaužas pie maziem apgriezieniem, jo uz katru vārpstas apgriezienu iznāk viens darba gājiens.
+
+=== Divtaktu dzinēja eļļošana ===
+Divtaktu dzinēju eļļošana ir pavisam vienkārša: degvielai piejauc zināmu daudzumu motoreļļas. Eļļa, kas kopā ar degvielu nokļūst dzinēja karterī, nogulstas uz kartera sienām, gultņiem, cilindra un virzuļa sienām. Tieši eļļošanas īpatnības ir iemesls galvenajam šo dzinēju trūkumam — eļļai sadegot, cilindrā rodas piedegumi, kas ievērojami samazina dzinēja jaudu, tādēļ praksē divtaktu motori ir mazāk jaudīgi nekā četrtaktu dzinēji.
+Ar divtaktu motoriem tiek aprīkoti mazāki transporta līdzekļi: [[motocikls|motocikli]], [[motorolleris|motorolleri]], [[kvadricikls|kvadricikli]], kā arī darbam āra apstākļos domātas ierīces (piemēram, [[motorzāģis|motorzāģi]]). Divtaktu motorus dažkārt [[starteris|startera]] vietā lieto jaudīgu četrtaktu motoru iedarbināšanai ([[lokomotīve|lokomotīvēs]], [[kuģis|kuģos]] un citur).
+
+Pirmais divtaktu dzinējs bija darbināms ar gāzi un to izgudroja [[Etjēns Lenuārs]] (''Etienne Lenoir'') [[1860]]. gadā.
+
+==Dzesēšanas sistēma==
+Iekšdedzes dzinēja darbības laikā izdalās siltums. Siltums rodas, dzinēja cilindros sadegot degvielai: benzīnam vai dīzeļdegvielai. Izdaloties augstai temperatūrai, daudzas dzinēja detaļas, kuras ir izgatavotas no alumīnija, temperatūras iedarbībā var izkust un deformēties. Lai tas nenotiktu, liekais siltuma daudzums no virzuļu bloka ir jāaizvada prom. Iekšdedzes dzinējiem ir divi dzesēšanas veidi: šķidruma dzesēšana un dzesēšana ar gaisa plūsmu. Drošuma ziņā stabilāka ir virzuļu bloka dzesēšana ar šķidrumu. Gaisa dzesēšana bieži var izrādīties nepietiekama. Sākotnēji dzinējā kā dzesēšanas šķidrumu izmantoja ūdeni. Ap cilindriem ir speciālas ūdens kameras. Ar ūdens sūkņa palīdzību ūdeni sūknē pa sistēmas kontūru. Lai palielinātu dzesēšanas laukumu, dzinēja priekšā ir uzstādīts radiators. Papildu dzesēšana notika ar ventilatoru, kas vērsa gaisa plūsmu pret radiatoru. Ūdens papildināšana radiatorā notika caur ieliešanas caurumu radiatora virspusē, atverot vāciņu. Ūdenim galvenais nosacījums būt pietiekami tīram. Sistēma bija samērā efektīva. Tomēr problēmas ar ūdens dzesēšanu ir tajā, ka ziemas apstākļos, ūdenim sasalstot un izplešoties, tiek saplēsts radiators un dzinējs. Tāpēc salā no mašīnas ūdens bija jānolej vai arī tā bija jāiedzen siltā garāžā, kad tā netiek ekspluatēta. Tas bija ļoti neērti, tāpēc tika uzsākta ūdens aizvietošana ar [[Antifrīzs|antifrīzu]] vai [[Tosols|tosolu]], kas ziemas apstākļos sasalstot nekristalizējas. Pēc savām dzesēšanas tehniskām raksturīpašībām no ūdens šie šķidrumi īpaši neatšķiras. Galvenais trūkums ir to ķīmiskā agresivitāte pret dažādiem metāliem, kas var noēst (izkorodēt) metālu: čugunu un alumīniju. Uz dzesēšanas šķidruma iepakojuma jāpārliecinās, vai tam ir pievienota nepieciešamā attiecīgo metālu aizsardzība. Katrai mašīnai tās ražotāja tehniskajā raksturojumā ir noteikts, kāda veida dzesēšanas šķidrums jāielej. Tas var atšķirties. Otrs galvenais ziemas dzesēšanas šķidruma trūkums ir tāds, ka tas ievērojamāk izplešas, tam uzkarstot, nekā ūdens. Ūdens dzesēšanā vāciņā ir vārsta atspere, kas lieko ūdeni izgrūda no sistēmas. Tosolam un antifrīzam ir lielāks temperatūras izplešanās koeficients nekā ūdenim un tie arī ir dārgi, lai tos vienkārši laistītu uz āru. Tāpēc kā risinājums ir atsevišķs izplešanās rezervuārs ar vāciņu, līdz ar ko vāciņš, pa kuru iepriekš lēja ūdeni, radiatoram vairs nebija vajadzīgs. Dzinējam sakarstot, sakarsētais šķidrums - ''+90 - +100 C'' izplešoties ieplūst rezervuārā. Rezervuārā nepieciešams pastāvīgi kontrolēt šķidruma daudzumu. Tāpēc uz rezervuāra ir divas līmeņa atzīmes: ''min'' un ''max''. Aukstam dzinējam šķidrumam jābūt līmenī intervālā starp šīm zīmēm, jo sakarstot tas ievērojami izpletīsies. Ja dzesēšanas šķidrums rezervuārā ir nepietiekošā līmenī, nepieciešams to papildināt intervālā starp atzīmēm. Uz rezervuāra vāciņa attēlota pārspiediena piktogrammiņa, kas nozīmē, ka sakarsušam dzinējam vāciņu atvērt aizliegts, jo šādi var iegūt apdegumus no eļļainā dzesēšanas šķidruma. Lai negūtu ķermeņa applaucējumus, jāgaida, kad motors atdzisīs un tikai tad drīkst atvērt vāciņu. Neliels spiediens sistēmā saglabājas arī atdzisušam dzinējam, bet tas nerada bīstamību. Ziemas apstākļos, aukstai mašīnai atrodoties ārā, dzinējs arī atdziest tuvu tai pašai āra temperatūrai. Lai dzinēju sasildītu, dzesēšanas sistēmā ir speciāls termostats, kas strādā kā ventilis un neizlaiž dzesēšanas šķidrumu ārpus dzinēja bloka sistēmas uz radiatoru, kamēr neuzsilst līdz nepieciešamajai temperatūrai. Karstā laikā, kad nepieciešama papildu radiatora atvēsināšana, stāvot sastrēgumā, automātiski ieslēdzas radiatora ventilators, kas periodiski samazina temperatūru un uztur to intervālā no ''+80 - +85 C''. Tas notiek diezgan strauji. Izbraucot no sastrēguma, gaisa plūsma radiatoru parasti pietiekami atvēsina bez piespiedu atdzesēšanas ar ventilatoru. Dzesēšanas šķidruma temperatūru pastāvīgi rāda temperatūras rādītājs uz [[Kontrolpanelis (transports)|kontrolpaneļa]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Automašīnas]]
+[[Kategorija:Autotransports]]
+[[Kategorija:Dzinēji]]
+[[Kategorija:Tehnika]]
+[[Kategorija:Iekšdedzes dzinēji]]

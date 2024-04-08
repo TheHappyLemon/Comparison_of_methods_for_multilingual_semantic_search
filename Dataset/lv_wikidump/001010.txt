@@ -1,0 +1,28 @@
+{{Navbox
+|name=Polijas vojevodistes
+|title=[[Polija|Polijas]] [[Polijas vojevodistes|vojevodistes]] {{flaga|Polija}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Kujāvijas-Pomožes vojevodiste|Kujāvijas-Pomožes]]
+* [[Lejassilēzijas vojevodiste|Lejassilēzijas]]
+* [[Lielpolijas vojevodiste|Lielpolijas]]
+* [[Lodzas vojevodiste|Lodzas]] 
+* [[Lubušas vojevodiste|Lubušas]]
+* [[Ļubļinas vojevodiste|Ļubļinas]]
+* [[Mazovijas vojevodiste|Mazovijas]]
+* [[Mazpolijas vojevodiste|Mazpolijas]]
+* [[Opoles vojevodiste|Opoles]]
+* [[Piekarpatu vojevodiste|Piekarpatu]]
+* [[Podlases vojevodiste|Podlases]]
+* [[Pomožes vojevodiste|Pomožes]]
+* [[Rietumpomožes vojevodiste|Rietumpomožes]]
+* [[Silēzijas vojevodiste|Silēzijas]]
+* [[Sventokšiskas vojevodiste|Sventokšiskas]]
+* [[Varmijas-Mazūrijas vojevodiste|Varmijas-Mazūrijas]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

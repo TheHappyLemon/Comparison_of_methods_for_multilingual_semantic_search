@@ -1,0 +1,64 @@
+{{Apdzīvotas vietas infokaste
+| name = Malborka
+| image_skyline = Panorama of Malbork Castle, part 4.jpg
+| imagesize = 300px
+| image_caption = Malborkas pils
+| image_flag = POL Malbork flag.svg
+| image_shield = POL Malbork COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Pomožes vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Malborkas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1286
+| area_total_km2 = 17.15
+| population_as_of = 2006
+| population_total    = 38478
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 54 
+| latm = 02 
+| lats = 00 
+| latNS = N 
+| longd = 19 
+| longm = 02 
+| longs = 00
+| longEW = E
+| elevation_m = 6-30
+| website = {{url|http://www.malbork.pl/}} }}
+
+'''Malborka''' ({{val|pl|Malbork}}) ir pilsēta [[Polija]]s ziemeļos, [[Pomožes vojevodiste|Pomožes vojevodistē]] pie [[Visla]]s attekas Nogatas. Slavena ar savu [[gotika|gotisko]] [[Malborkas pils|Marienburgas pili]].
+
+== Vēsture ==
+Malborka biežāk vēsturiski ir pazīstama ar [[vācieši|vācu]] nosaukumu '''Marienburga''' ({{val|de|Marienburg}}). Pilsētas vēsture ir cieši saistīta ar [[Malborkas pils]] — [[Vācu ordenis|Vācu ordeņa]] rezidences — vēsturi. No [[1309]]. gada, kad Vācu ordeņa mītnes vieta tika pārcelta no [[Venēcija]]s uz Marienburgu, līdz [[Grīnvaldes kauja]]i pils bija [[Prūsija]]s ordeņa valsts politiskais centrs — [[lielmestrs|lielmestru]] dzīvesvieta.
+
+Pēc [[Trīspadsmitgadu karš|Trīspadsmitgadu kara]] Malborka nokļuva poļu [[Karaļa Prūsija]]s sastāvā, bet pēc [[Polijas dalīšanas|Polijas dalīšanām]] — atkal Prūsijā. Šajā periodā pils pamazām kļuva dzīvošanai nederīga.
+19. gadsimtā sākta pils restaurācija, kas ar dažādu intensitāti veikta līdz Otrā pasaules kara sākumam. [[Nacionālsociālisms|Nacistu]] laikā pils bija simbols "teitoņu garam", un šeit bieži notika dažādi svētki un piemiņas pasākumi.
+
+Pils ievērojami cieta [[Otrais Pasaules karš|Otrā pasaules kara]] laikā, bet pēc kara, kad [[Austrumprūsija]]s dienviddaļa nokļuva Polijā, tā tika atjaunota. Restaurācijas darbi turpinās arī mūsdienās.
+
+== Malborkas pils UNESCO pasaules mantojuma sarakstā ==
+{{main|Malborkas pils}}
+1997. gadā Malborkas pili iekļāva [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]], jo tā ir lielākā, labi saglabātā [[ķieģeļu gotika]]s aizsardzības būve pasaulē (kompleksa kopējā platība — 210 000 m²), kas uzskatāmi raksturo Vācu ordeņa [[krustneši|krustnešu]] arhitektūru. Pils ir sava laika modernās restaurācijas tehnikas un filozofijas paraugs, daudzi no izmantotajiem restaurācijas principiem kļuvuši par aksiomām.
+
+== Cilvēki ==
+Malborka ir vācu astronoma [[Adalberts Krīgers|Adalberta Krīgera]] (''Adalbert Krüger'', 1832 — 1896), kā arī poļu futbolistu [[Gžegožs Lato|Gžegoža Lato]] (''Grzegorz Lato'', 1950) un [[Rafals Muravskis|Rafala Muravska]] (''Rafał Murawski'', 1981) dzimtā pilsēta.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20051108104819/http://www.zamek.malbork.pl/ Malborkas pils muzejs] {{pl ikona}} {{en ikona}} {{de ikona}}
+* [http://www.polska.lv/info/centrs/lv/katalog/Informacija/Apskates_objekti/Pilis_un_cietoksni/2_4_3/Malborka/6 Malborkas pils vēsture] {{lv ikona}} {{ru ikona}}
+* [http://www.polska.lv/info/centrs/lv/foto/Malborka-Krustnesu_pils/5 Fotogrāfijas no Malborkas pils]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Pomožes vojevodistes pilsētas]]
+[[Kategorija:Hanzas pilsētas]]
+[[Kategorija:Bijušās galvaspilsētas]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Polijā]]

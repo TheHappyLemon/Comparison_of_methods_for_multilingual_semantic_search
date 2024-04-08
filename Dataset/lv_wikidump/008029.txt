@@ -1,0 +1,33 @@
+{{Futbola kluba infokaste|
+nos=Vélez Sársfield|
+logo=[[Attēls:Sarsfield.gif|120px]]|
+pilns=Club Atlético Vélez Sársfield|
+dib=1910|
+stad=Estadio José Amalfitani,<br />[[Buenosairesa]], [[Argentīna]]|
+ietilp=49 747|
+prez={{flaga|Argentīna}} Fernando Rafaini|
+tren={{flaga|Argentīna}} [[Miguel Ángel Russo]]<ref>http://www.velezsarsfield.com.ar/futbol/plantel/</ref>|
+līga=[[Argentīnas Primera División|Primera División]]|
+sez=2016.-2017.|
+poz=19.
+|pattern_la1=|pattern_b1=_Vbodywhite|pattern_ra1=
+|leftarm1=FFFFFF|body1=000040|rightarm1=FFFFFF|shorts1=FFFFFF|socks1=FFFFFF
+|pattern_la2=|pattern_b2=_whiteVarms|pattern_ra2=
+|leftarm2=000040|body2=000040|rightarm2=000040|shorts2=000040|socks2=000040
+|t=s
+| pattern_la3=_velezitalia|pattern_b3=_velezitalia|pattern_ra3=_velezitalia
+| leftarm3=007819|body3=FFFFFF|rightarm3=007819|shorts3=FFFFFF|socks3=FF0000
+}}
+[[Attēls:1942VelezRugilo.jpg|thumb|300px|left|<center>Šis ir attēls 1942 Velez Sarsfield komanda, kas spēlēja otrajā līgā. vārtsargs ir Miguel Rugilo "Lion of Wembley". José M. Noguera arī spēlēja šajā komandu.</center>]]
+'''Club Atlético Vélez Sársfield''',<ref>[http://www.velezsarsfield.com.ar/club/datos/ : C. A. Vélez Sarsfield | Club » Datos :<!-- Bota izveidots nosaukums -->]</ref> parasti saukts par '''Vélez Sársfield''' vai vienkārši '''Vélez''', ir [[Argentīna]]s [[sporta klubs]], plašāk pazīstams pēc tā profesionālās [[futbols|futbola]] komandas, no [[Liniers]] apkaimes [[Buenosairesa]]s rietumu daļā. Vélez futbola komanda spēlē [[Argentīnas Primera División]], kas ir augstakā līga Argentīnā. Kluba mājas stadions ir ''[[Estadio José Amalfitani]]''. Vélez Argentīnas čempionāta ir uzvarējusi 10 reizes, kā arī ieguvusi 5 starptautiskus kausus (ieskaitot [[Copa Libertadores]] un [[Starpkontinentālais kauss (futbols)|Starpkontinentālo kausu]]). Gan klubam, gan stadionam ir iesauka ''el Fortín'' ("mazais forts"), bet faniem ir iesauka ''Fortineros'' ("no maza forta").
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Argentīnas futbola klubi]]
+[[Kategorija:Buenosairesas "Velez Sarsfield"]]
+
+
+{{futbols-stub}}

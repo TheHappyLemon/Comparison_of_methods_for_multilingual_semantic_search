@@ -1,0 +1,83 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = British Virgin Islands
+|    pilnais_valsts_nosaukums = Britu Virdžīnas
+|            valsts_nosaukums = British Virgin Islands
+|               karoga_attēls = Flag of the British Virgin Islands.svg
+|            karoga_nosaukums = Britu Virdžīnas karogs
+|              ģerboņa_attēls =Coat_of_arms_of_the_British_Virgin_Islands.svg
+|           ģerboņa_nosaukums = Britu Virdžīnas ģerbonis
+|             ģerboņa_platums = 80px
+|                 valsts_moto =
+|                valsts_himna = [[God Save the King]]
+|               kartes_attēls = LocationBritishVirginIslands.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Rodtauna]]
+| latd= | latm= | latNS= | longd= | longm= | longEW= <!-- kordinātas galvaspilsētai -->
+| largest_settlement_type = stacija
+|             lielākā_pilsēta = 
+|              valsts_valodas = [[angļu valoda|angļu]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = 
+|        valsts_galvas_tituls = 
+|                valsts_galva = 
+|       valsts_galvas_tituls2 = 
+|               valsts_galva2 = 
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = [[Apvienotā Karaliste|Apvienotās Karalistes]] ārējā teritorija
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = Teritorija izveidota [[1657]]. gadā
+|          neatkarības_datums = 
+|                 platība_km2 = 151
+|               platība_rangs = 
+|              procenti_ūdens = 
+|     iedzīvotāju_skaita_gads = 
+|          iedzīvotāju_skaits = 21 573
+|    iedzīvotāju_skaits_rangs = 
+|    apdzīvotības_blīvums_km2 = 
+|  apdzīvotības_blīvums_rangs = 
+|                     IKP_PPP = 
+|                IKP_PPP_gads = 
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = 
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 
+|                    HDI_gads = 
+|              HDI_kategorija = 
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[ASV dolārs]]
+|                valūtas_kods = USD
+|                  laika_zona = [[Coordinated Universal Time|UTC]] -4
+|                  utc_offset = 
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .VG
+|              tālsarunu_kods = 1-284
+|                iso_kods_num = 
+|              iso_kods_alfa2 = 
+|              iso_kods_alfa3 = 
+}}
+
+'''Britu Virdžīnas''' ir [[Apvienotās Karalistes aizjūras teritorija]] [[Karību reģions|Karību reģionā]], austrumos no [[Puertoriko]]. Visa teritorija atrodas Virdžīnu salu austrumos. Salu rietumos atrodas [[ASV Virdžīnas]].
+
+Britu Virdžīnu lielākās salas pēc iedzīvotāju skaita ir [[Tortola]], [[Virdžingorda]], [[Anegada]] un [[Jostvandaika]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{Ziemeļamerikas valstis}}
+{{Lielbritānijas teritorijas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Salas]]

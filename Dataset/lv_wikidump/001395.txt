@@ -1,0 +1,54 @@
+{{cita nozīme|upi Čehijā un Polijā|upi Baltkrievijā|Bobra (Baltkrievija)}}
+
+{{Upes infokaste 
+| nosaukums         = Bobra
+| citvaloda         = cs
+| oriģinālnosaukums = Bobr
+| citvaloda1        = pl
+| oriģinālnosaukums1= Bóbr
+| attēls            = Bobr river winter 03.jpg
+| attēla_izmērs     = 
+| paraksts          = HES uz bobras upes
+| karte             = Upe_Bobra.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Krkonoše]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Odra]]
+| baseina_valstis   = 
+| tek_caur          = {{CZE}}<br />{{POL}}
+| garums            = 272 
+| iztekas_augstums  = 780
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 
+| caurtece_vieta    = 
+| gada_notece       = 
+| baseins           = 5 876
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d=52 | iet_plat_m=3 | iet_plat_s=3 | iet_plat_NS=N 
+| iet_gar_d=15 | iet_gar_m=4 | iet_gar_s=19 | iet_gar_EW=E
+}}
+'''Bobra''' ({{val|pl|Bóbr}}, {{val|cs|Bobr}}, {{val|de|Bober}}) ir upe [[Polija]]s dienvidrietumos. [[Odra]]s kreisā krasta pieteka. Sākas [[Sudeti|Sudetos]], pirmos kilometrus plūst pa [[Čehija]]s teritoriju. Krastos vairāki kūrorti. Augštecē ūdenstūrisms. 19. gadsimta beigās, 20. gadsimta sākumā uz Bobras upes tika uzcelti vairāki aizsprosti, kas tagad ir tehnikas pieminekļi.
+
+== Liela pilsēta Bobras krastos ==
+
+* [[Jeleņa Gura]] (''Jelenia Góra'')
+
+[[Attēls:Kamienna Góra, Bóbr - 27 listopada 2010 r..JPG|left|thumb|250px|Bobra — Kamienna Gura]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Čehijas upes]]
+[[Kategorija:Polijas upes]]
+[[Kategorija:Oderas pietekas]]
+[[Kategorija:Lejassilēzijas vojevodiste]]
+[[Kategorija:Lubušas vojevodiste]]

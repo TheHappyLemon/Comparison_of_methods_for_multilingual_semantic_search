@@ -1,0 +1,204 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 79
+|             7. čaula =
+|             6. čaula = 1
+|             5. čaula = 18
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Au
+|             atommasa = 196,966569
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>10</sup>6s<sup>1</sup>
+|       tabulas attēls = [[Attēls:Au-TableImage.svg|250px]]
+|               attēls = [[Attēls:Or Venezuela.jpg|140px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Gold-crystals.jpg|180px]]<br /> Zelta tīrradnis un tīra zelta kristāli
+|  oksidēšanas pakāpes = -1, 1, 2, '''3''', 4, 5
+|  elektronegativitāte = 2,54
+|              blīvums = 19300
+|  kušanas temperatūra = 1337,33 K (1064,18&nbsp;°C)
+| viršanas temperatūra = 3129 K (2856&nbsp;°C)
+}}
+
+'''Zelts''' ir [[ķīmiskais elements]] ar simbolu '''Au''' ({{val-la|aurum}}) un [[atomskaitlis|atomskaitli]] 79. Tas ir viens no [[pārejas metāli]]em, kas [[ķīmisko elementu periodiskā tabula|periodiskajā tabulā]] atrodas [[11. grupas elementi|11. grupā]] un [[6. perioda elementi|6. periodā]]. Zelts ir viens no [[dārgmetāls|dārgmetāliem]] un nedaudzajiem [[krāsainais metāls|krāsainajiem metāliem]].
+
+Zelts jau vairākus tūkstošus gadu ir izmantots dažādos [[rituāls|rituālos]] un [[rotaslieta|rotaslietās]]. Kopš [[6. gadsimts p.m.ē.|6. gadsimta p.m.ē.]] no zelta izgatavotās [[monēta]]s ir izmantotas kā [[nauda|norēķinu līdzekļi]]. Arī mūsdienās zelts joprojām tiek izmantots naudas izgatavošanā.
+
+== Zelta īpašības ==
+Dabā zelts ir sastopams galvenokārt [[zelta tīrradnis|brīvā veidā]], jo tas ir ķīmiski inerts. Zelts ir salīdzinoši mīksts, dzeltenas krāsas [[metāls]] ar ļoti labu korozijas izturību, augstu [[elektrovadītspēja|elektrovadītspēju]].
+
+Zelta īpatnējā dzeltenā, citiem metāliem maz raksturīgā, krāsa izskaidrojama ar mazo enerģētisko atšķirību starp zelta atoma pilnīgi aizpildītajām 5''d'' [[orbitāle|orbitālēm]] un pusaizpildīto 6''s'' orbitāli.<ref name="Pas2017">{{publikācijas atsauce|author=Pašteka L. F. et al.|title=Relativistic Coupled Cluster Calculations with Variational Quantum Electrodynamics Resolve the Discrepancy between Experiment and Theory Concerning the Electron Affinity and Ionization Potential of Gold|year=2017|journal=Physical Review Letters|volume=118|pages=023002|doi=10.1103/PhysRevLett.118.023002}}</ref> Tādēļ zelta atomi absorbē gaismu jau redzamajā diapazonā ([[zilā krāsa|zilajā]] spektra daļā, sākot no 500 nm), savukārt fotonus ar mazāku enerģiju (lielāku viļņa garumu), kas nespēj pārnest elektronu no 5''d'' orbitāles uz brīvo 6''s'' orbitāli, zelts atstaro, līdz ar to baltā gaismā izskatās spilgti dzeltens. Enerģiju starpība starp 6''s'' un 5''d'' orbitālēm samazinās [[Speciālā relativitātes teorija|relatīvistisko]] efektu dēļ — zelta [[atoma kodols|atoma kodola]] spēcīgajā [[elektriskais lauks|elektriskajā laukā]] elektroni kodola tuvumā kustas ar ātrumu, kas tuvojas [[gaismas ātrums|gaismas ātrumam]], bet tieši ''s'' orbitālēm kodola tuvumā ir vislielākais [[elektronu mākonis|elektronu mākoņa]] blīvums, atšķirībā no ''p'', ''d'' un ''f'' orbitālēm, kam kodola tuvumā elektronu mākoņa blīvums tuvojas nullei.  Bez tam ''s'' orbitāļu relatīvistiskā saspiešanās ekranē atoma kodolu un samazina pārējo orbitāļu elektronu pievilkšanās spēku kodolam. Tādējādi 6''s'' orbitāles enerģijas līmenis samazinās, bet 5''d'' — pieaug.<ref name="PekkaPyykko">{{publikācijas atsauce|author=Pyykko P., Desclaux J. P.|title=Relativity and the periodic system of elements|year=1979|journal=Accounts of Chemical Research|volume=12|issue=8|pages=276|doi=10.1021/ar50140a002}}</ref><ref name=pyy2012>{{publikācijas atsauce|author=Pyykko P.|title=Relativistic Effects in Chemistry: More Common Than You Thought|year=2012|journal=Annual Review of Physical Chemistry|volume=63|pages=45—64|doi=10.1146/annurev-physchem-032511-143755 }}</ref>
+
+Zelta savienojumi ir visai nestabili. Savienojumos zeltam var būt [[oksidēšanas pakāpe]] +1 un +3, piemēram, [[zelta(III) oksīds]] Au<sub>2</sub>O<sub>3</sub>. Biežāk zelts ir trīsvērtīgs. Ekstremālos apstākļos var veidoties arī savienojumi, kur zeltam ir oksidēšanas pakāpe +5 ([[zelta pentafluorīds]]) vai -1 ([[cēzija aurīds]]). Negatīvas oksidēšanas pakāpes ir metāliem ļoti netipiskas.
+
+Atšķirībā no vairuma [[metāls|metālu]], zelts vairāk veido [[kompleksie savienojumi|kompleksos savienojumus]] nekā vienkāršos savienojumus. Zelta savienojumiem galvenokārt raksturīga violeta un brūna nokrāsa.
+
+== Zelta izmantošana un ieguve ==
+Zeltu plaši izmanto [[rotaslieta|rotaslietu]] izgatavošanā.
+
+Zelta ieguve ir sarežģīta. Šahtas atrodas pat līdz 4000 metru dziļumā, kur temperatūra pārsniedz +30 °C un tāpēc ir grūti elpot. Zeltu saturošo rūdu paceļ virszemē un izskalo no tās zeltu. No vienas tonnas rūdas parasti iegūst tikai 5 gramus zelta.
+
+No 1905. līdz 2006. gadam ik gadu visvairāk zelta ieguva [[Dienvidāfrika|Dienvidāfrikā]]. Kopš 2007. gada visvairāk zelta ik gadu tiek izrakts [[Ķīna|Ķīnā]].
+
+[[Attēls:Kalgoorlie The Big Pit DSC04498.JPG|thumbnail|200px|''The Super Pit'' — Austrālijas lielākās zelta raktuves.]]
+
+{| class="wikitable"
+|-
+! rowspan=2 | #
+! rowspan=2 | Valsts
+! colspan=8 align=center | Iegūtā zelta daudzums (tonnās)<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.goldsheetlinks.com/production.htm | title= Historical World Gold Production | accessdate=  | archiveurl= https://web.archive.org/web/20101007212710/http://www.goldsheetlinks.com/production.htm | archivedate=07-10-2010}}</ref>
+|-
+! 2005
+! 2006
+! 2007
+! 2008
+! 2011
+! 2014
+! 2019
+! 2020
+|-
+| 1.
+| {{flaga|Ķīna}} [[Ķīna]]
+| 224
+| 240
+| 276
+| 288
+| 355
+| 450
+| 380
+| 365
+|-
+| 2.
+| {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+| 262
+| 260
+| 238
+| 234
+| 237
+| 211
+| 200
+| 193
+|-
+| 3.
+| {{flaga|Dienvidāfrika}} [[Dienvidāfrika]]
+| 296
+| 275
+| 254
+| 232
+| 190
+| 150
+| 105
+| 96
+|-
+| 4.
+| {{flaga|Austrālija}} [[Austrālija]]
+| 263
+| 251
+| 246
+| 225
+|270
+|270
+|325
+|328
+|-
+| 5.
+| {{flaga|Peru}} [[Peru]]
+| 207
+| 203
+| 170
+| 175
+| 150
+| 150
+| 128
+| 87
+|-
+| 6.
+| {{flaga|Krievija}} [[Krievija]]
+| 156
+| 153
+| 144
+| 164
+| 200
+|245
+|305
+|305
+|-
+| 7.
+| {{flaga|Kanāda}} [[Kanāda]]
+| 118,5
+| 104
+| 101
+| 100
+| 110
+| 160
+| 175
+| 170
+|-
+| 8.
+| {{flaga|Indonēzija}} [[Indonēzija]]
+| 167
+| 167
+| 118
+| 90
+| 100
+| 65
+| 139
+| 86
+|-
+| 9.
+| {{flaga|Uzbekistāna}} [[Uzbekistāna]]
+| -
+| -
+| 85
+| 85
+| 90
+| 102
+| 93
+| 101
+|-
+| 10.
+| {{flaga|Gana}} [[Gana]]
+| 63
+| 63,1
+| 78
+| 81
+| 100
+| 90
+| 142
+| 125
+|-
+! colspan=2 | {{flaga|}} Pasaulē (kopā):
+! 2 518
+! 2 469
+! 2 444
+! 2 356
+! 2 700
+! 2 860
+! 3 300
+! 3 030
+|}
+
+== Zelts Latvijā ==
+Arī [[Latvija|Latvijā]] ir atrasti daži zelta gabaliņi smilšu grauda lielumā sanesumu iežos - [[morēnas|morēnās]],<ref>{{lv ikona}} [http://www.hc.lv/dzivesveids/zalais/raksti/zelts-dimanti-urans/ Zelts, dimanti un urāns atrodami Latvijā] {{Webarchive|url=https://web.archive.org/web/20080717062552/http://www.hc.lv/dzivesveids/zalais/raksti/zelts-dimanti-urans/ |date={{dat|2008|07|17||bez}} }} HC.LV</ref> tāpēc, visticamāk, ka tie ir atnesti no [[Skandināvija]]s (kur arī atrodas tuvākās zelta raktuves). Zelta putekļi ir atrasti arī 100–200 m dziļurbumos, kur zelta koncentrācija ir 0,008 g uz tonnu iežu, kas padara šī zelta iegūšanu rūpnieciski neizdevīgu.
+
+== Skatīt arī ==
+* [[Zelts kā investīcija]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{lv ikona}} [https://web.archive.org/web/20170709224644/http://www.zelts24.lv/ Par Zeltu] Latvijas Zelta informācijas resurss
+* {{en ikona}} [http://periodic.lanl.gov/elements/79.html Gold] {{Webarchive|url=https://web.archive.org/web/20080610082459/http://periodic.lanl.gov/elements/79.html |date={{dat|2008|06|10||bez}} }} Los Alamos National Laboratory’s Chemistry Division
+* {{en ikona}} [http://www.galleries.com/minerals/elements/gold/gold.htm The Mineral Native Gold] Amethyst Galleries
+* {{en ikona}} [http://www.webelements.com/gold/ Gold] Webelements.com
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zelts| ]]

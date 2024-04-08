@@ -1,0 +1,72 @@
+{{Latvijas novada infokaste
+| nosaukums         = Otaņķu pagasts
+| karte             = Otaņķu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Otaņķu pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Otaņķu pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Dienvidkurzemes novads
+| centrs2           = [[Rude (Otaņķu pagasts)|Rude]]
+| platība           = 120,5
+| iedzīvotāji       = 962<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 962 / 120.5 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Otaņķu pagasts''' ir viena no [[Dienvidkurzemes novads|Dienvidkurzemes novada]] administratīvajām teritorijām [[Liepājas ezers|Liepājas ezera]] austrumu krastā. Robežojas ar sava novada [[Nīcas pagasts|Nīcas]], [[Bārtas pagasts|Bārtas]], [[Grobiņas pagasts|Grobiņas]] un [[Dunikas pagasts|Dunikas]] pagastiem. 
+
+== Daba ==
+Atrodas [[Piejūras zemiene]]s [[Bārtavas līdzenums|Bārtavas līdzenumā]]. Augstums no 20,8 m vjl. līdz 0,2 m vjl.
+
+=== Hidrogrāfija ===
+==== Upes ====
+Ap Liepājas ezeru izrakts apvadkanāls ([[Maģistrālais kanāls]]), kas novada ezerā ieplūstošās upes uz [[Bārta (upe)|Bārtu]]. Ezerā ietek tikai:
+* [[Bārta (upe)|Bārta]]
+** [[Ķīburu strauts]]
+* [[Otaņķe]]
+
+Apvadkanālā ievadītas šādas upes:
+* [[Dorupe (upe)|Dorupe]]
+* [[Līčupe (Otaņķi)|Līčupe]]
+* [[Orbupe]]
+
+==== Ezeri ====
+* daļa no [[Liepājas ezers|Liepājas ezera]]
+
+== Vēsture ==
+1945. gadā [[Liepājas apriņķis|Liepājas apriņķa]] [[Nīcas pagasts|Nīcas pagastā]] tika izveidota Otaņķu [[ciema padome]].<ref>{{EncLP}}</ref> 1951. gadā Otaņķu ciemam pievienoja likvidētā [[Banažu ciems|Banažu ciema]] kolhoza «Zelta zvaigzne» teritoriju, 1954. gadā - likvidēto [[Baltpurvu ciems|Baltpurvu ciemu]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Nīcas novads|Nīcas novadā]]. 2021. gadā Nīcas novadu iekļāva [[Dienvidkurzemes novads|Dienvidkurzemes novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Rude (Otaņķu pagasts)|Rude]] (pagasta centrs), [[Otaņķi]], [[Upmaļciems]], [[Dorupe (Otaņķu pagasts)|Dorupe]], [[Mežgals]], [[Laukgals]], [[Banažgals]], [[Laurciems]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dienvidkurzemes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Nīcas novads}}
+{{Liepājas rajons}}
+}}
+
+{{DEFAULTSORT:Otanzkzu pagasts}}
+[[Kategorija:Kurzeme]]
+[[Kategorija:Dienvidkurzemes novada pagasti]]
+[[Kategorija:Otaņķu pagasts| ]]
+[[Kategorija:Nīcas pagasts]]

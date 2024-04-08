@@ -1,0 +1,24 @@
+{{ezera infokaste
+|ezers=Kasbas ezers
+|attēls=
+|map = Kanāda
+| plat_d=60 | plat_m=17 | plat_s= | plat_NS=N
+| gar_d=102 | gar_m=0 | gar_s= | gar_EW=W
+|vieta={{CAN}}
+|platība=1317
+|garums=
+|Vid_dziļums=
+|Max_dziļums=
+|tilpums=
+|augstums_vjl=336
+|izteka=[[Kazana (upe)|Kazana]]
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+'''Kasbas ezers''' ({{val|en|Kasba Lake}}) ir liels [[ezers]] [[Kanāda|Kanādā]] uz [[Ziemeļrietumu Teritorijas|Ziemeļrietumu Teritoriju]] un [[Nunavuta]]s robežas. Populāra sporta zveja, līdzās ezeram izbūvēta lidosta un pieczvaigžņu viesnīca. Ezeram cauri plūst [[Kazana (upe)|Kazanas]] upe.
+
+{{Kanāda-aizmetnis}}
+
+[[Kategorija:Kanādas ezeri]]

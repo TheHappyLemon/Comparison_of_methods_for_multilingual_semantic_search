@@ -1,0 +1,468 @@
+{{Hokejista infokaste v2
+ |           vārds = Marians Hosa
+ |      vārds_orig = ''Marián Hossa''
+ |          attēls = Hossa-Hawks.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1979|1|12}}
+ |         dz_viet = {{Vieta|Čehoslovākija|Stara Ļubovņa}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          garums = 187 [[centimetrs|cm]]
+ |           svars = 95 [[kilograms|kg]]
+ |         iesauka = 
+ |             poz = [[Uzbrucējs (hokejs)|Labās malas uzbrucējs]]
+ |        tvēriens = Kreisais
+ |         kar_sāk = 2003
+ |        kar_beig = 2017
+ |       izglītība = 
+<!------ Kluba informācija ------>
+ |             kom = 
+ |          numurs = 
+ |           amats = 
+ |            līga = 
+<!------ Drafts ------>
+ |          drafts = 12., 1. kārtā
+ |         dr_gads = [[1997. gada NHL drafts|1997]]
+ |         dr_līga = NHL
+ |          dr_kom = [[Otavas "Senators"]]
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 1997—2014
+ |          taut 1 = {{ih|SVK}}
+<!------ Papildinformācija ------>
+ |            balv =
+* [[Stenlija kauss]] — 2010, 2013, 2015
+* [[NHL simboliskā izlase|NHL otrā simboliskā izlase]] — 2009
+* [[NHL Zvaigžņu spēle]] — 2001, 2003, 2004, 2007, 2008, 2012
+ |           slavz = [[Hokeja slavas zāle]] (2020)
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = {{dat|2020|9|11||bez}}
+<!------ Medaļas ------>
+ |   rādīt_medaļas = jā
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Marians Hosa''' ({{val|sk|Marián Hossa}}; dzimis 1979. gada 12. janvārī [[Stara Ļubovņa|Stara Ļubovņā]], [[Čehoslovākija|Čehoslovākijā]]) ir bijušais slovāku [[hokejs|hokejists]], [[uzbrucējs (hokejā)|uzbrucējs]], [[Slovākijas hokeja izlase]]s dalībnieks. Karjeras laikā aizvadījis 19 sezonas un 1309 spēles dažādos [[Nacionālā hokeja līga|Nacionālās hokeja līgas]] klubos, guvis 1134 punktus. Kopā ar [[Čikāgas "Blackhawks"]] kļuvis par 2010., 2013. un 2015. gada [[Stenlija kauss|Stenlija kausa]] čempionu. 2020. gadā uzņemts [[Hokeja slavas zāle|Hokeja slavas zālē]].
+
+Mariana jaunākais brālis [[Marcels Hosa|Marcels]] arī bija profesionāls hokejists.
+
+== Spēlētāja karjera ==
+1998. gadā kopā ar [[WHL]] klubu [[Portlendas "Winterhawks"]] izcīnīja [[Kanādas hokeja līga|CHL]] čempiones titulu - [[Memoriālais kauss|Memoriālo kausu]].
+
+Savu NHL karjeru Hosa iesāka [[Otavas "Senators"]], kuras sastāvā aizvadīja 7 sezonas. Hosu 1997. gada NHL draftā 1. kārtā ar kopējo 12. numuru draftēja Otavas "Senators". Pirmā pilnā sezona kopā ar "Senators" Hosam bija 1998-99 sezona un viņam pietrūka pavisam nedaudz, lai iegūtu [[Kaldera balva|Kaldera balvu]], jo labāks izrādījās tikai [[Kriss Drarijs]] no [[Kolorādo "Avalanche"]].
+
+2010., 2013. un 2015. gadā, spēlējot [[Čikāgas "Blackhawks"]] sastāvā, izcīnījis [[Stenlija kauss|Stenlija kausu]]. Pirms 2017.—18. gada sezonas "Blackhawks" paziņoja, ka savainojuma dēļ Hosa gaidāmo sezonu izlaidīs. 2018. gada maijā hokejists paziņoja, ka vairs nevarēs spēlēt profesionālu hokeju.
+
+[[Slovākijas hokeja izlase]]s sastāvā viņš piedalījies 1997., 1999., 2001., [[2004. gada Pasaules čempionāts hokejā|2004.]], [[2005. gada Pasaules čempionāts hokejā|2005.]], [[2006. gada Pasaules čempionāts hokejā|2006.]] un [[2007. gada Pasaules čempionāts hokejā|2007.]] gada [[Pasaules čempionāts hokejā|Pasaules čempionātos]], kā arī 2002. , 2006. un 2010. gadā [[ziemas olimpiskās spēles|olimpiskajās spēlēs]], kopā izlasē 66 spēlēs gūstot 31 [[vārti (hokejā)|vārtus]].
+
+== Klubu statistika ==
+{| border="0" cellpadding="3" cellspacing="0" style="text-align:center"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff" | &nbsp;
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Regulārā sezona
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Izslēgšanas spēles
+|- bgcolor="#e0e0e0"
+! Sezona !! Klubs !! Līga !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}} !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}}
+|-
+| 1995–96
+| [[HK Trenčinas "Dukla"]]
+| SVK-Jr.
+| 53
+| 42
+| 49
+| 91
+| 26
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 1996–97
+| [[HK Trenčinas "Dukla"]]
+| [[Slovākijas Ekstralīga|SVK]]
+| 46
+| 25
+| 19
+| 44
+| 33
+| 7
+| 5
+| 5
+| 10
+| —
+|- 
+| 1997–98
+| [[Portlendas "Winter Hawks"]]
+| [[WHL]]
+| 53
+| 45
+| 40
+| 85
+| 50
+| 16
+| 13
+| 6
+| 19
+| 6
+|- bgcolor="#f0f0f0"
+| 1997–98
+| [[Otavas "Senators"]]
+| [[National Hockey League|NHL]]
+| 7
+| 0
+| 1
+| 1
+| 0
+| —
+| —
+| —
+| —
+| —
+|-
+| 1998–99
+| Otavas "Senators"
+| NHL
+| 60
+| 15
+| 15
+| 30
+| 37
+| 4
+| 0
+| 2
+| 2
+| 4
+|- bgcolor="#f0f0f0"
+| 1999–00
+| Otavas "Senators"
+| NHL
+| 78
+| 29
+| 27
+| 56
+| 32
+| 6
+| 0
+| 0
+| 0
+| 2
+|-
+| 2000–01
+| Otavas "Senators"
+| NHL
+| 81
+| 32
+| 43
+| 75
+| 44
+| 4
+| 1
+| 1
+| 2
+| 4
+|- bgcolor="#f0f0f0"
+| 2001–02
+| HC Dukla Trenčín
+| SVK
+| 8
+| 3
+| 4
+| 7
+| 16
+| —
+| —
+| —
+| —
+| —
+|-
+| 2001–02
+| Otavas "Senators"
+| NHL
+| 80
+| 31
+| 35
+| 66
+| 50
+| 12
+| 4
+| 6
+| 10
+| 2
+|- bgcolor="#f0f0f0"
+| 2002–03
+| Otavas "Senators"
+| NHL
+| 80
+| 45
+| 35
+| 80
+| 34
+| 18
+| 5
+| 11
+| 16
+| 6
+|-
+| 2003–04
+| Otavas "Senators"
+| NHL
+| 81
+| 36
+| 46
+| 82
+| 46
+| 7
+| 3
+| 1
+| 4
+| 0
+|- bgcolor="#f0f0f0"
+| 2004–05
+| [[Mora IK]]
+| [[Elitserien|SWE]]
+| 24
+| 18
+| 14
+| 32
+| 22
+| —
+| —
+| —
+| —
+| —
+|-
+| 2004–05
+| HC Dukla Trenčín
+| SVK
+| 25
+| 22
+| 20
+| 42
+| 38
+| 5
+| 4
+| 5
+| 9
+| 14
+|- bgcolor="#f0f0f0"
+| 2005–06
+| [[Atlantas "Thrashers"]]
+| NHL
+| 80
+| 39
+| 53
+| 92
+| 67
+| —
+| —
+| —
+| —
+| —
+|-
+| 2006–07
+| Atlantas "Thrashers"
+| NHL
+| 82
+| 43
+| 57
+| 100
+| 49
+| 4
+| 0
+| 1
+| 1
+| 6
+|- bgcolor="#f0f0f0"
+| 2007–08
+| Atlantas "Thrashers"
+| NHL
+| 60
+| 26
+| 30
+| 56
+| 30
+| —    
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2007–08
+| [[Pitsburgas "Penguins"]]
+| NHL
+| 12
+| 3
+| 7
+| 10
+| 6
+| 20    
+| 12
+| 14
+| 26
+| 12
+|-  
+| 2008–09
+| [[Detroitas "Red Wings"]]
+| NHL
+| 74
+| 40
+| 31
+| 71
+| 63
+| 22
+| 6
+| 9
+| 15
+| 10
+|- bgcolor="#f0f0f0"
+| [[2009–10 NHL season|2009–10]]
+| [[Čikāgas Blackhawks]]
+| NHL
+| 57
+| 24
+| 27
+| 51
+| 18
+| 22    
+| 3
+| 12
+| 15
+| 25
+|-  
+| [[2010–11 NHL season|2010–11]]
+| Čikāgas Blackhawks
+| NHL
+| 65
+| 25
+| 32
+| 57
+| 32
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2011–12
+| Čikāgas Blackhawks
+| NHL
+| 81
+| 29
+| 48
+| 77
+| 20
+| 3    
+| 0
+| 0
+| 0
+| 0
+|- 
+| 2012–13
+| Čikāgas Blackhawks
+| NHL
+| 40
+| 17
+| 14
+| 31
+| 16
+| 22   
+| 7
+| 9
+| 16
+| 2
+|- bgcolor="#f0f0f0"
+| 2013–14
+| Čikāgas Blackhawks
+| NHL
+| 72
+| 30
+| 30
+| 60
+| 20
+| 19   
+| 2
+| 12
+| 14
+| 8
+|- 
+| 2014–15
+| Čikāgas Blackhawks
+| NHL
+| 82
+| 22
+| 39
+| 61
+| 32
+| 23   
+| 4
+| 13
+| 17
+| 10
+|- bgcolor="#f0f0f0"
+| 2015–16
+| Čikāgas Blackhawks
+| NHL
+| 64
+| 13
+| 20
+| 33
+| 24
+| 7   
+| 3
+| 2
+| 5
+| 0
+|- 
+| 2016–17
+| Čikāgas Blackhawks
+| NHL
+| 73
+| 26
+| 19
+| 45
+| 8
+| 4   
+| 0
+| 0
+| 0
+| 2
+|- bgcolor="e0e0e0"
+! colspan="3" | Kopā NHL
+! 1309
+! 525
+! 609
+! 1134
+! 628
+! 205
+! 52
+! 97
+! 149
+! 95
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites|nhl=8466148}}
+
+{{DEFAULTSORT:Hosa, Marians}}
+[[Kategorija:1979. gadā dzimušie]]
+[[Kategorija:Prešovas apgabalā dzimušie]]
+[[Kategorija:Slovākijas hokejisti]]
+[[Kategorija:Otavas "Senators" spēlētāji]]
+[[Kategorija:Atlantas "Thrashers" spēlētāji]]
+[[Kategorija:Pitsburgas "Penguins" spēlētāji]]
+[[Kategorija:Detroitas "Red Wings" spēlētāji]]
+[[Kategorija:Čikāgas "Blackhawks" spēlētāji]]
+[[Kategorija:Hokejisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokejisti 2006. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokejisti 2010. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Stenlija kausa ieguvēji]]
+[[Kategorija:NHL drafta pirmās kārtas izvēles]]
+[[Kategorija:Hokejisti 2014. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokeja slavas zālē uzņemtie]]

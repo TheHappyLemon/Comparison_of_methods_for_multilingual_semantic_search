@@ -1,0 +1,26 @@
+{{Citas nozīmes|mērvienību|Mols (nozīmju atdalīšana)|Mols}}
+'''Mols''' ir [[Starptautiskā mērvienību sistēma|SI]] [[vielas daudzums|vielas daudzuma]] mērvienība. 1 molā vielas ir ''6,022×10<sup>23</sup>'' ([[Avogadro skaitlis]]) molekulu vai citu elementārobjektu. Mols ir tāda paša veida [[mērvienība]] kā, piemēram, [[ducis]], tāpēc molos principā var mērīt arī makroskopiskus objektus, tikai tādā gadījumā viens mols būs ļoti liels daudzums.
+
+Vēsturiski viens mols bija definēts kā vielas daudzums, kas satur tikpat daļiņu ([[atoms|atomu]], [[molekula|molekulu]], [[jons|jonu]], [[elektrons|elektronu]]), cik atomu ir '''12''' [[grams|gramos]] tīra [[ogleklis|oglekļa]] [[izotops|izotopa]] (<sup>12</sup>C), kura relatīvā [[atommasa]] ir 12.
+
+Mola jēdzienu ķīmijā ap 1900. gadu ieviesa [[Vilhelms Ostvalds]]. 1971. gadā tā kļuva par septīto [[SI pamatvienības|SI pamatvienību]].<ref>[http://www.bipm.org/en/CGPM/db/14/3/ 14th CGPM (1971):Resolution 3]</ref>
+
+24. [[Ģenerālā mēru un svaru konference|Ģenerālajā mēru un svaru konferencē]] 2011. gadā tika pieņemta rezolūcija, kur tika ierosināta arī mola definīcijas maiņa.<ref name="Resolution1">[http://www.bipm.org/utils/en/pdf/24_CGPM_Resolution_1.pdf On the possible future revision of the International System of Units, the SI]</ref> Jaunā definīcija pamatojās uz Avogadro skaitļa vērtību, kas tiek pieņemta par pilnīgi precīzu. Līdz ar to mols tika definēts kā pilnīgi neatkarīga mērvienība, nevis piesaistīts masas mērvienībai.<ref>[http://www.bipm.org/en/si/new_si/why.html Why change the SI?]</ref> 2018. gadā [[IUPAC]] nolēma atbalstīt jauno definīciju.<ref>Pure and Applied Chemistry, 2018, 90, 175; {{doi|10.1515/pac-2017-0106}}</ref> 2018. gada novembrī 26. Ģenerālajā mēru un svaru konferencē notika balsošana par dažu SI mērvienību, tai skaitā mola, pārdefinēšanu. Mols tika definēts kā vielas daudzums, kurā ir precīzi 6,02214076{{e|23}} elementārobjektu.<ref>[https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf?page=23 CIPM Report of 106th Meeting] {{webarchive|url=https://web.archive.org/web/20180127202612/https://www.bipm.org/utils/en/pdf/CIPM/CIPM2017-EN.pdf?page=23 |date=2018-01-27 }} Retrieved 7 April, 2018</ref> Jaunā definīcija stājās spēkā no 2019. gada 20. maija.<ref>{{Tīmekļa atsauce |title=Redefining the Mole |url=https://www.nist.gov/si-redefinition/redefining-mole |website=NIST |publisher=NIST |accessdate=24 October 2018|date=2018-10-23 }}</ref>
+
+== Skatīt arī ==
+* [[Molmasa]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+{{fizika-aizmetnis}}
+
+{{SI}}
+
+[[Kategorija:SI pamatvienības]]
+[[Kategorija:Vielas daudzuma mērvienības]]

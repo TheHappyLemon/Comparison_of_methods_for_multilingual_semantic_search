@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:RoundN|main|columns =3}}</includeonly><noinclude>
+{{lua|Modulis:RoundN}}
+[[Kategorija:Izslēgšanas spēļu veidnes]]</noinclude>

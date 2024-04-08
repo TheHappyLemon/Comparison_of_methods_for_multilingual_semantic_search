@@ -1,0 +1,57 @@
+{{Krievijas republikas infokaste
+| nosaukums = Stavropoles novads 
+| karte = Russia - Stavropol Krai (2008-01).svg
+| oriģ = Ставропольский край
+| karoga_attēls = Flag of Stavropol Krai.svg
+| karoga_nosaukums = Stavropoles novada karogs
+| ģerboņa_attēls = Coat of arms of Stavropol Krai.svg
+| ģerboņa_nosaukums = Stavropoles novada ģerbonis
+| ģerboņa_platums = 80px
+| galvaspilsēta = [[Stavropole]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (81,60%)<br />[[armēņi]] (5,46%)
+| platība = 66 500
+| iedzīvotāji = 2 735 139
+| iedz blīvums = 41
+| pilsētas = 10
+| rajoni = 26
+| fedapgabals = [[Ziemeļkaukāza federālais apgabals|Ziemeļkaukāza]]
+| url = http://www.stavkray.ru/
+|ainavas_skats=Вид_на_гору_Верблюд.jpg}}
+'''Stavropoles novads''' ({{val|ru|Ставропольский край}}) ir viens no [[Krievijas Federācija]]s novadiem [[Ziemeļkaukāzs|Ziemeļkaukāzā]]. Tas robežojas ar [[Krasnodaras novads|Krasnodaras novadu]] rietumos, [[Rostovas apgabals|Rostovas apgabalu]] un [[Kalmikija|Kalmikiju]] ziemeļos, [[Dagestāna|Dagestānu]] un [[Čečenija|Čečeniju]] austrumos, [[Kabarda-Balkārija|Kabardu-Balkāriju]] un [[Karačaja-Čerkesija|Karačaju Čerkesiju]] dienvidos.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Stavropoles novads|width=400 |float=center|caption = Stavropoles apgabala pilsētu izvietojums; '''trenkrakstā''' — novada centrs
+|places =
+{{VietasKarte~|Stavropoles novads|lat=45.033333|long=41.966667|position = right |label='''[[Stavropole]]'''}}
+{{VietasKarte~|Stavropoles novads|lat=45.102904|long=43.425151|position = right |label=[[Blagodarnija]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.79|long=44.14|position = left |label=[[Budjonnovska (Krievija)|Budjonovska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.15|long=43.466667|position = top |label=[[Georgijevska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.043056|long=42.864444|position = left |label=[[Esentuki]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.133333|long=43.033333|position = left |label=[[Žeļeznovodska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.407012|long=43.873124|position = top |label=[[Zeļenokumska]]}}
+{{VietasKarte~|Stavropoles novads|lat=45.366667|long=41.716667|position = right |label=[[Izobiļnija]]}}
+{{VietasKarte~|Stavropoles novads|lat=45.716667|long=42.9|position = top |label=[[Ipatova]]}}
+{{VietasKarte~|Stavropoles novads|lat=43.903333|long=42.724444|position = left |label=[[Kislovodska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.105278|long=42.971667|position = right |label=[[Ļermontova]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.200833|long=43.1125|position = left |label=[[Miņeraļnije Vodi]]}}
+{{VietasKarte~|Stavropoles novads|lat=45.13947|long=42.033799|position = left |label=[[Mihailovska (Stavropoles novads)|Mihailovska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.633333|long=41.933333|position = top |label=[[Ņevinnomiska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.750556|long=44.979722|position = top |label=[[Ņeftekumska]]}}
+{{VietasKarte~|Stavropoles novads|lat=45.493333|long=41.218333|position = right |label=[[Novoaleksandrovska]]}}
+{{VietasKarte~|Stavropoles novads|lat=43.963611|long=43.639444|position = right |label=[[Novopavlovska]]}}
+{{VietasKarte~|Stavropoles novads|lat=44.049966|long=43.060055|position = bottom |label=[[Pjatigorska]]}}
+{{VietasKarte~|Stavropoles novads|lat=45.330833|long=42.851111|position = right |label=[[Svetlograda]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Ziemeļkaukāza federālais apgabals}}
+
+[[Kategorija:Stavropoles novads| ]]

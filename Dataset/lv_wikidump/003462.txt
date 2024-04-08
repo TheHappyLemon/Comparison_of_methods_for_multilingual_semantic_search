@@ -1,0 +1,14 @@
+[[Attēls:Acceleration-lv.svg|thumb|235px|Paātrinājums ir ķermeņa ātruma izmaiņa laika vienībā.]]
+
+'''Paātrinājums''' ir ķermeņa [[ātrums|ātruma]] maiņas temps. Paātrinājumu fizikā apzīmē ar burtu ''a''. Tas var būt gan negatīvs, gan pozitīvs. Paātrinājums, tāpat kā [[spēks]], ir [[vektors|vektoriāls]] lielums. Ja paātrinājuma vektora virziens sakrīt ar ātruma vektora virzienu, tad pieņem, ka paātrinājums ir pozitīvs. Ja paātrinājuma vektors ir vērsts pretēji ātruma vektoram, tad pieņem, ka paātrinājums ir negatīvs. Paātrinājuma vektors vienmēr sakrīt ar spēka vektoru, jo paātrinājumu izraisa spēks. [[Starptautiskā mērvienību sistēma|''SI'']] paātrinājuma mērvienība ir m/s<sup>2</sup>. Paātrinājumu var uzskatīt arī par [[ātrums|ātruma]] atvasinājumu pēc [[laiks|laika]] vai [[Trajektorija|ceļa]] otrās kārtas atvasinājumu pēc laika.
+
+Izšķir arī konstanta lieluma paātrinājumus. Piemēram, [[brīvās krišanas paātrinājums]], kas ir apmēram 9,8&nbsp;m/s<sup>2</sup>. Uz materiālu, kas atrodas noteiktā [[centrifūga]]s punktā, arī iedarbojas konstants paātrinājums, kas ir atkarīgs no centrifūgas griešanās ātruma un attāluma no ass. Spēks, kas iedarbojas uz ķermeni, kas atrodas konstanta paātrinājuma laukā. ir atkarīgs no paātrinājuma un ķermeņa masas. Spēku, kas iedarbojas uz ķermeņiem, kas atrodas zemes pievilkšanas spēka laukā, sauc par [[svars|svaru]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+[[Kategorija:Fizikāli lielumi]]
+[[Kategorija:Paātrinājums| ]]

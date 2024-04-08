@@ -1,0 +1,28 @@
+[[Attēls:Pressure exerted by collisions.svg|thumb|300x300px|Spiediens kā daļiņu sadursmes noslēgtā konteinerā]]
+[[Attēls:02.Пиштол епрувета со алкохол.ogv|thumb|300x300px|[[Mēģene]] satur šķidru [[Etanols|etanolu]] un gaisu, tā ir aiztaisīta ar [[Korķis|korķi]]. Sildot etanolu, mēģenē palielinās etanola [[tvaiks|tvaika]] spiediens, līdz korķis izsprāgst]]
+'''Spiediens''' ir perpendikulārs [[spēks]], kas iedarbojas uz virsmas [[laukums|laukuma]] vienību. [[Starptautiskā mērvienību sistēma|SI]] spiedienu mēra [[ņūtons|ņūtonos]] uz kvadrātmetru jeb [[paskāls|paskālos]]. 1 Pa = 1N/m<sup>2</sup>. Parasti spiedienu mēra arī [[atmosfēra (mērvienība)|atmosfērās]], kas ir apmēram [[Zemes atmosfēra]]s spiediens jūras līmenī, kura vērtība ir 101325 Pa. Plaši lieto arī citas spiediena mērvienības.
+
+== Mērvienības ==
+* bārs (bar) - 100000 Pa
+* [[Atmosfēra (mērvienība)|tehniskā atmosfēra]] (at) - 1&nbsp;kg/cm<sup>2</sup> - 98066 Pa
+* [[Atmosfēra (mērvienība)|fizikālā atmosfēra]] (atm) - 101325 Pa (parasti ar atmosfēru saprot šo)
+* tors ([[dzīvsudrabs|dzīvsudraba]] staba milimetrs) (mm Hg) - 133,322 Pa - lieto gaisa spiediena mērīšanai [[meteoroloģija|meteoroloģijā]]
+* [[mārciņa (mērvienība)|mārciņa]] uz kvadrātcollu (psi)(''pound''/''square inch'') - 6894,76 Pa - lieto [[Amerikas Savienotās Valstis|ASV]] un citur, kur attālumu mēra collās, un masu — mārciņās.
+
+==== Spiediena mērīšana ====
+Spiedienu var mērīt attiecībā pret spiedienu, kas atbilst absolūtam [[vakuums|vakuumam]], vai arī no līmeņa, kas atbilst [[atmosfēras spiediens|atmosfēras spiedienam]]. Mērot pret vakuumu, iegūst absolūto spiedienu. Mērot spiedienu pret esošo atmosfēras spiedienu, iegūst [[manometriskais spiediens|manometrisko spiedienu]] jeb virsspiedienu. Mehāniskie [[manometrs|manometri]] parasti rāda virsspiedienu, elektroniskos manometrus var iestatīt gan manometriskā, gan absolūtā spiediena mērīšanai, bet [[barometrs|barometri]] vienmēr rāda absolūto spiedienu.
+
+{{spiediena mērvienības}}
+
+== Parciālspiediens ==
+Gāzu maisījumos kādas noteiktas komponentes daudzumu dažreiz izsaka kā '''parciālo spiedienu'''. Tas ir gāzes moldaļas reizinājums ar kopējo gāzu maisījuma spiedienu. Pēc [[Daltona likums|Daltona likuma]], ja gāze ir [[Ideāla gāze|ideāla]] un atrodas [[Termodinamiskais līdzsvars|termodinamiskā līdzsvarā]], tad visu parciālo spiedienu summa ir kopējais spiediens.<ref>{{Tīmekļa atsauce|url=https://dom.lndb.lv/data/obj/416676.html|title=Fizikas rokasgrāmata {{!}} LNB Digitālā bibliotēka - DOM PIEEJA|website=dom.lndb.lv|access-date=2023-06-20|pages=120.-121.}}</ref> Šis lielums ir ekvivalents koncentrācijai [[šķidrums|šķidrumos]].
+
+== Skatīt arī ==
+* [[Hidrostatiskais spiediens]]
+* [[Spēks]]
+* [[Laukums]]
+
+== Atsauces ==
+[[Kategorija:Fizikāli lielumi]]
+[[Kategorija:Termodinamika]]
+<references />{{autoritatīvā vadība}}

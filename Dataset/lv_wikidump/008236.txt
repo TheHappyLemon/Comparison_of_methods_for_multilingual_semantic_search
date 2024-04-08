@@ -1,0 +1,43 @@
+{{ezera infokaste
+|ezers=Bangveulu
+|attēls=Bangweulu Swamps.jpg
+|paraksts=Bangveulu piekrastes purvājs
+|map = Zambija
+| plat_d=11 | plat_m=5 | plat_s= | plat_NS=S
+| gar_d=29 | gar_m=45 | gar_s= | gar_EW=E
+|vieta={{ZMB}}
+|platība= 2870
+|garums=74
+|Vid_dziļums=4
+|Max_dziļums=10
+|tilpums=7,44
+|augstums_vjl=1140
+|izteka=
+|baseins=109 469
+|valstis=
+|salas=
+|pilsētas=[[Samfja]]
+}}
+<mapframe text="Bangveulu" width=300 height=300 zoom=9 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q673169"
+}
+</mapframe>
+'''Bangveulu''' (''Bangweulu'') ir liels [[ezers]] [[Zambija]]s ziemeļaustrumu daļā. Sekls. Daļa no [[Kongo (upe)|Kongo]] baseina. Ap ezeru plešas [[Bangveulu purvs]]. Īsa atteka savieno ar netālo [[Luapula]]s upi.<ref>{{PZT|94|Bangveuls}}</ref> Ezerā ļoti daudz [[krokodilu kārta|krokodilu]], daudz zivju. Mitrajā periodā no novembra līdz martam ezers appludina apkārtējos purvājus; vietām krasta līnija pārvietojas pat par 45 kilometriem. Ezera platība svārstās no 1510 līdz {{nobr|10 000 km²}} platībai.
+
+Dienvidos smilšu strēle atdala [[Kampolombo ezers|Kampolombo]] ezeru. Kopējā ezera salu platība ir 218 km².
+
+[[1873]]. gadā ezera dienvidu piekrastē virsaiša Čitambo ciematā no slimībām mira izcilais ceļotājs [[Dāvids Livingstons]], kurš bija pirmais eiropietis, kas atklāja šo ezeru [[1868]]. gadā.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zambijas ezeri]]

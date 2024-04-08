@@ -1,0 +1,37 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Acetone-2D-skeletal.svg|100px]] [[Attēls:Acetone-3D-vdW.png|100px]]<br />Acetona struktūrformula un molekulas modelis
+|ķīmiskā formula=(CH<sub>3</sub>)<sub>2</sub>CO
+|molmasa=58,08
+|blīvums=790
+|kušanas temperatūra=178,2 K (-94,9&nbsp;°C)
+|viršanas temperatūra=329,4 K (56,3&nbsp;°C)
+}}
+'''Acetons''' (propanons, dimetilketons, 2-propanons; (CH<sub>3</sub>)<sub>2</sub>CO) ir vienkāršākais, pazīstamākais un svarīgākais [[ketoni|ketons]]. Acetons ir gaistošs, bezkrāsains, viegli uzliesmojošs šķidrums ar raksturīgu smaržu.
+
+== Atrašanās dabā ==
+Acetons kopā ar [[etanols|spirtu]] veidojas no [[ciete]]s, [[dekstrīns|dekstrīna]], [[maltoze]]s dažu baktēriju (''Bacterium acetoaethylicum, Bacillus macerans'') iedarbībā.
+
+Acetonu ievērojamā daudzumā satur [[diabēts|diabēta]] slimnieku [[urīns]], tas tur veidojas, atšķeļoties CO<sub>2</sub> no vielmaiņas produkta [[acetoetiķskābe]]s CH<sub>3</sub>COCH<sub>2</sub>COOH.
+
+== Iegūšana ==
+Acetons samērā lielā daudzumā atrodas [[koksne]]s sausās [[destilācija]]s produktos, taču atdalīt acetonu no tiem ir sarežģīti.
+
+Var iegūt, laižot [[etiķskābe]]s tvaikus pāri sakarsētam [[cērija karbonāts|cērija karbonātam]].
+
+Rūpnieciski acetonu iegūst pēc [[kumols|kumola]] metodes no [[benzols|benzola]] un [[propēns|propilēna]] (sk. [[Ūdra—Sergejeva—Hoka reakcija]]).
+
+== Īpašības ==
+Reaģējot ar [[ūdeņraža peroksīds|ūdeņraža peroksīdu]], var veidoties [[acetona peroksīds]], kas ir nestabila sprāgstviela.
+
+== Izmantošana ==
+[[Attēls:Acetone1.jpg|thumb|150px|Acetons]]
+Acetonu plaši lieto kā [[šķīdinātājs|šķīdinātāju]]. Acetons ir vērtīga izejviela daudzu organisku savienojumu iegūšanai.
+
+{{organiskā ķīmija-aizmetnis}}
+{{Ketoni}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ketoni]]
+[[Kategorija:Šķīdinātāji]]
+[[Kategorija:Sadzīves ķīmija]]

@@ -1,0 +1,25 @@
+{{Futbola kluba infokaste|
+nos=América|
+logo=[[Attēls:America_natal_football.png|120px]]|
+pilns=América Futebol Clube|
+dib=1915|
+dib_mēn=7|
+dib_dat=14|
+stad=Machadão, [[Natala]], [[Brazīlija]]|
+ietilp=35 000|
+prez={{flaga|Brazīlija}} Hosē Marija Figueiredu|
+tren={{flaga|Brazīlija}} Flavio Araujo|
+līga=[[Brazīlijas Série B]]|
+sez=2010|
+poz=[[Brazīlijas Série B]], 20.
+|pattern_la1=_whiteborder|pattern_b1=_whitecollar|pattern_ra1=_whiteborder|
+  leftarm1=FF0000|body1=FF0000|rightarm1=FF0000|shorts1=FFFFFF|socks1=FF0000|
+  pattern_la2=_redborder|pattern_b2=_collaronwhite|pattern_ra2=_redborder|
+  leftarm2=FFFFFF|body2=FF0000|rightarm2=FFFFFF|shorts2=FF0000|socks2=FFFFFF|
+}}
+
+'''América Futebol Clube''', arī vienkārši '''América''' (vai '''América de Natal'''), ir [[Brazīlija]]s [[futbols|futbola]] komanda no [[Natala]]s, [[Riugrandi du Norti]] štatā. Klubs dibināts 1915. gada 14. jūlijā.
+
+{{futbols-stub}}
+
+[[Kategorija:Brazīlijas futbola klubi]]

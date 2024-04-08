@@ -1,0 +1,10 @@
+{{userbox-level
+| level    = 
+| id       = [[latviešu valoda|lv]]
+| info     = Šim lietotājam '''[[:Category:User lv|latviešu valoda]]''' ir '''[[:Category:User lv-N|dzimtā valoda]]'''.
+| usercategory  = User lv
+| usercategory2 = User lv-N
+| nocat = {{{nocat|}}}
+}}<noinclude>
+{{Documentation|Template:User x}}
+</noinclude>

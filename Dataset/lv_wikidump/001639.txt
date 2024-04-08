@@ -1,0 +1,143 @@
+{{Citas nozīmes|pilsētu|Stende (nozīmju atdalīšana)|Stende}}
+{{Apdzīvotas vietas infokaste
+| name = Stende
+| settlement_type = Novada pilsēta
+| image_skyline = Stendes stacija.jpg
+| imagesize = 
+| image_caption = Stendes stacijas ēka
+| image_flag = Stende town flag.png
+| flag_link = Stendes karogs
+| image_shield = Stende COA.svg
+| shield_link = Stendes ģerbonis
+| shield_size = 70px
+| pushpin_map = Latvija
+| pushpin_label_position = <!-- left/right -->
+| latd = 57
+| latm = 08
+| lats = 43
+| latNS = N
+| longd = 22
+| longm = 32
+| longs = 05
+| longEW = E
+| subdivision_type = Valsts
+| subdivision_name = '''{{karogs|Latvija}}'''
+| subdivision_type1 = Novads
+| subdivision_name1 = [[Talsu novads]]
+| established_title = Pilsētas tiesības
+| established_date = kopš [[1991]]. gada
+| established_title2 = 
+| established_date2 = 
+| seat_type = Vēsturiskie<br />nosaukumi
+| seat = {{val|de|Stenden}}
+| area_total_km2 = 4.5
+| population_footnotes = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+| population_total = {{iedzsk|dati|Stende}}
+| population_as_of = {{iedzsk|dat}}
+| population_rank = 
+| population_density_km2 = auto
+| elevation_m = 72
+| timezone = [[Austrumeiropas laiks|EET]]
+| utc_offset = +2
+| timezone_DST = [[Austrumeiropas laiks|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = Pasta indeksi
+| postal_code = LV-3257
+| website = {{URL|www.stende.lv}}
+| footnotes = 
+}}
+'''Stende''' ir [[pilsēta]] [[Talsu novads|Talsu novadā]], robežojas ar [[Lībagu pagasts|Lībagu pagastu]] rietumos un ziemeļos, ar [[Virbu pagasts|Virbu pagastu]] austrumos un ar [[Abavas pagasts|Abavas pagastu]] dienvidos. Pilsētu šķērso autoceļš [[P120]] Talsi—Kuldīga un [[dzelzceļa līnija Ventspils—Tukums II]].
+
+== Vēsture ==
+Vēsturiski ciemats šai apkaimē pastāvējis [[Dižstende|Dižstendē]] ap [[Stendes muiža|Stendes muižu]], kura ilgstoši bija plaša un bagāta. Tagadējā Stende sākusi veidoties 1897. gadā sakarā ar [[Dzelzceļa līnija Ventspils—Maskava|Ventspils—Ribinskas]] dzelzceļa būvi,<ref>Latviešu konversacijas vārdnīca. XX sēj., 40601. lpp.</ref> 1900. gadā sāka darbu [[Stende (stacija)|Stendes stacija]] un 1904. gadā līnija tika pabeigta.<ref name="Vēsture">{{Tīmekļa atsauce |url=http://www.stende.lv/stendes-vesture/ |title=Stende.lv. Stendes vēsture |access-date={{dat|2022|02|01||bez}} |archive-date={{dat|2022|02|01||bez}} |archive-url=https://web.archive.org/web/20220201142107/http://www.stende.lv/stendes-vesture/ }}</ref> 1925. gadā ar nosaukumu Renčuciems (vēlāk — Stendesciems) iekļauts [[ciems (BAV)|biezi apdzīvoto vietu]] kategorijā.<ref>Valdības Vēstnesis: Piektdiena, 18. decembris, 1925</ref>
+
+Ciema apbūve sākta mūsdienu Robežu, Rožu un Ozolu ielās. Līdz [[Pirmais pasaules karš Latvijā|Pirmajam pasaules karam]] ciema apbūve bijusi haotiska.<ref name="Vēsture" />
+
+Otrajā pasaules karā [[Latvijas vācu okupācija (1941—1945)|Latvijas vācu okupācija]]s laikā Stendē atradās koncentrācijas nometne.<ref name="LME">{{LME|3|416}}</ref>
+
+[[Pilsētciemats|Strādnieku ciemata]] (no 1961. gada — pilsētciemata) tiesības ieguva [[1949]]. gadā. 1978. gadā izstrādāja ciemata attīstības plānu, kurš netika īstenots. Tajā bija paredzēta piena kombināta būvniecība, arodskolas un kinoteātra celtniecība, apvedceļa būve u.c.<ref name="Vēsture" /> Pilsētas statuss Stendei ir kopš [[1991]]. gada.
+
+== Ģeogrāfija ==
+Stende atrodas [[Kursas zemiene]]s [[Ugāles līdzenums|Ugāles līdzenumā]] pie robežas ar [[Austrumkursas augstiene]]s [[Vanemas pauguraine|Vanemas pauguraini]], kas sākas uz austrumiem un ziemeļiem no pilsētas. Līdzenās virsas augstums ir ap 90 m vjl., nedaudz pazeminās dienvidrietumu virzienā.
+
+Pilsētas nosaukums cēlies no dzelzceļa stacijas nosaukuma, kas savukārt nosaukta pēc netālās [[Dižstende|Stendes]] (Dižstendes) muižas. Pati muiža nosaukta pēc tās zemēs tekošās [[Stende (upe)|Stendes upes]]. Upes nosaukums kā ''Testenden'' dokumentos pirmoreiz minēts 1288. gadā.<ref name="Vēsture" />
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 2
+| graph-pos = bottom
+|1935|719
+|1959|1850
+|1970|1951
+|1973|1956
+|1979|2034
+|1989|2134
+|2000|2012
+|2011|1732
+}}
+
+=== Tautības ===
+{| class="wikitable"
+|-
+! gads!! iedzīvotāju skaits!! latvieši!! krievi!! baltkrievi!! ukraiņi!! poļi!! lietuvieši!! ebreji!! čigāni!! tatāri!! vācieši!! igauņi!! pārējie
+|-
+| 1935|| 719|| 690|| 9|| 0|| 0|| 13|| 0|| 3|| 0|| 0|| 4|| 0|| 0
+|-
+| 1970|| 1951|| 1593|| 160|| 30|| 10|| 26|| 10|| -|| nez.|| nez.|| nez.|| nez.|| 22
+|-
+| 1979|| 2034|| 1743|| 174|| 30|| 15|| 24|| 14|| 5|| nez.|| nez.|| nez.|| nez.|| 29
+|-
+| 1989|| 2134|| 1851|| 161|| 33|| 21|| 25|| 15|| 1|| 18|| 4|| 0|| 1|| 4
+|-
+| 2000|| 2012|| 1800|| 116|| 26|| 17|| 20|| 15|| 1|| 9|| nez.|| nez.|| 0|| 8
+|-
+| 2011|| 1732|| 1603|| 80|| 15|| 13|| 7|| 6|| nez.|| nez.|| nez.|| nez.|| nez.|| 8
+|-
+| 2022|| 1550|| 1430|| 63|| nez.|| nez.|| nez.|| nez.|| nez.|| nez.|| nez.|| nez.|| nez.|| 57
+
+|}
+
+== Transports ==
+
+Kopš 2010. gada [[Stende (stacija)|Stendes stacijā]] vairs nepietur pasažieru vilcieni, vienīgais transports pilsētiņā ir autoceļi. No to šķērsojošā ceļa [[P120]] Talsi—[[Kuldīga]] (pilsētā — Brīvības iela) pie Stendes atzarojas ceļi [[V1401]] Stende-[[Mērsrags]], [[V1402]] Stende—[[Sabile]]—[[Pūces (ciems)|Pūces]] un pašvaldības ceļš caur Prāmniekiem uz Dižstendi, kā arī daži [[Latvijas valsts meži|Latvijas valsts mežu]] vai pašvaldības meža ceļi — Aizpuru dambis, Alkšņu strauts, Bebru ceļš, Jēkaba dambis, Vecais Sabiles ceļš, Zemdegu dambis.<ref>[https://www.openstreetmap.org/#map=15/57.1382/22.5370 OpenStreetMap. Stende]</ref>
+
+=== Šaursliežu dzelzceļu vēsture ===
+
+Kā savienotājsaikni starp līniju Rīga-Ventspils, Ziemeļkurzemi un Rīgas līča piekrastes ostām, 1916. gadā [[Kurzeme|Kurzemi]] okupējusī vācu armija uzbūvēja [[Stendes—Ventspils lauku dzelzceļi|šaursliežu dzelzceļu tīklu]], kas no Stendes veda uz [[Roja|Roju]], [[Mērsrags|Mērsragu]] un [[Dundaga|Dundagu]]—[[Mazirbe|Mazirbi]]—Ventspili. Līnijas smagi cieta abos pasaules karos, kad atkāpjošās armijas tās sabojāja, bet tika atjaunotas. Tīkls darbojās līdz 1963. gadam, Stendes staciju slēdza 1968. gadā.<ref name="Vēsture" /><ref>[https://web.archive.org/web/20150118203614/http://www.balticgreenbelt.uni-kiel.de/fileadmin/fileexchange/OutcomesDocumentation/Brochures/PP7_SNP_brochure_HistRailway_LV.pdf «Ziemeļkurzemes šaursliežu dzelzceļš 1916-1963»]</ref>
+
+== Apskates vietas ==
+
+Vietējā laika Saules pulkstenis, Karoga laukums Brīvības ielā. Mototrase, estrāde, deportāciju piemiņas akmens.<ref>{{Tīmekļa atsauce |url=http://www.stende.lv/apskates-vietas/ |title=Stende.lv. Apskates vietas |access-date={{dat|2022|02|01||bez}} |archive-date={{dat|2022|02|01||bez}} |archive-url=https://web.archive.org/web/20220201142109/http://www.stende.lv/apskates-vietas/ }}</ref>
+
+== Attēli ==
+<gallery>
+Stendes pilsēta - panoramio.jpg
+Stende, Stendes pilsēta, Latvia - panoramio.jpg|Nākotnes iela
+Stendes pilsētas dome 2000-09-16 - panoramio.jpg|Pilsētas dome
+Latvija, Stende, veikals "Elvi" - panoramio.jpg|Lielveikals "Elvi"
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Talsu novads}}
+{{Latvijas pilsētas}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Talsu rajons}}
+{{Talsu apriņķis}}
+}}
+
+[[Kategorija:Kurzeme]]
+[[Kategorija:Stende| ]]
+[[Kategorija:Latvijas pilsētciemati]]

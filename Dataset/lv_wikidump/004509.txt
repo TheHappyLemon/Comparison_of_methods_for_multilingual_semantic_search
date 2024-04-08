@@ -1,0 +1,54 @@
+{{Personas infokaste
+|        platums = 
+|          vārds = Artūrs Šnābels
+|     vārds_orig = Artur Schnabel
+|         attēls = ArturSchnabel.png
+|     att_izmērs = 250px
+|  att_nosaukums = Artūra Šnābela portrets 1909. gada uzdevumā
+|     dz_dat_alt = 
+|        dz_gads = 1882
+|     dz_mēnesis = 04
+|       dz_diena = 17
+|       dz_vieta = Lipņika (''Lipnik'') pie [[Belsko-Bjala]]s, [[Austroungārija]]<br />(mūsdienās {{POL}})
+|      m_dat_alt = 
+|         m_gads = 1951
+|      m_mēnesis = 8
+|        m_diena = 15
+|        m_vieta = Aksenšteina, {{CHE}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = [[ebreji|ebrejs]]
+|   nodarbošanās = pianists, komponists
+|  darbības_gadi = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|       piezīmes = 
+|    kategorijas = 
+|    citas daļas = 
+}}
+
+'''Artūrs Šnābels''' ({{val|de|Artur Schnabel}}, dzimis {{dat|1882|04|17}}, miris {{dat|1951|08|15}}) bija [[ebreji|ebreju]] izcelsmes [[Austrija|austriešu]] pianists un komponists. Pazīstams ar [[Bēthovens|Bēthovena]] un [[Šūberts|Šūberta]] klaviermūzikas izpildījumu.
+
+Dzimis 1881 .gadā [[Austroungārija|Austroungārijā]]. Mācījās [[Vīne|Vīnē]]. 1900. gadā pārcēlās uz [[Berlīne|Berlīni]], kur uzsāka profesionāla painista karjeru. Pēc [[nacionālsociālisms|nacistu]] nākšanas pie varas, pārcēlās uz [[Lielbritānija|Lielbritāniju]], bet 1939. gadā — uz [[Amerikas Savienotās Valstis|ASV]]. 1944. gadā kļuva par ASV pilsoni. Pēc kara turpināja koncertēt Eiropā un Amerikā.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120114153536/http://www.schnabelmusicfoundation.com/ Šnābela mūzikas fonds] {{en ikona}}
+* [http://www.allmusic.com/artist/artur-schnabel-q5586 Artūrs Šnābels allmusic.com] {{en ikona}}
+
+{{commonscat|Artur Schnabel|Artūrs Šnābels}}
+
+{{mūziķis-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Šnābels, Artūrs}}
+[[Kategorija:Austriešu komponisti]]
+[[Kategorija:Austriešu pianisti]]
+[[Kategorija:Vācijas komponisti]]
+[[Kategorija:Vācijas pianisti]]
+[[Kategorija:Ebreju komponisti]]

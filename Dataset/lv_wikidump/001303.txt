@@ -1,0 +1,47 @@
+{{Apdzīvotas vietas infokaste
+| name = Ostrolenka
+| image_skyline = Plac Bema.jpg
+| imagesize = 300px
+| image_caption = Ostrolenkas centrālais laukums (Juzefa Bema laukums) no putna lidojuma
+| image_flag = POL Ostrołęka flag.svg
+| image_shield = POL Ostrołęka COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Mazovijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1373
+| area_total_km2 = 29.00
+| population_as_of = 2008
+| population_total = 53982
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 53 
+| latm = 04 
+| lats = 00
+| latNS = N 
+| longd = 21 
+| longm = 34 
+| longs = 00
+| longEW = E
+| elevation_m = 92 m
+| website = http://www.ostroleka.pl/ }}
+
+'''Ostrolenka''' ({{val|pl|Ostrołęka}}) - pilsēta [[Polija]]s ziemeļaustrumos [[Mazovijas vojevodiste|Mazovijas vojevodistē]] pie [[Nareva]]s upes.
+
+15.-16.gs Ostrolenka bija amatniecības centrs. 1807.gadā netālu no pilsētas notika kauja starp [[Napoleons|Napoleona]] un [[Krievija]]s karaspēku, bet [[1831.gada Polijas sacelšanās|1831.gada sacelšanās]] laikā Ostrolenkā notika liela kauja starp [[Krievija|cara]] karaspēku un [[poļi|poļu]] nemierniekiem [[Juzefs Bems|Juzefa Bema]] vadībā. Arī [[poļu-padomju karš|poļu-padomju kara]] laikā pilsētā notika sīvas kaujas.
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Mazovijas vojevodistes pilsētas]]
+[[Kategorija:Mazovijas vojevodistes apriņķi]]

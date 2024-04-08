@@ -1,0 +1,58 @@
+{{Citas nozīmes|programmēšanas valodu|Java|Java}}
+{{Programmēšanas valodas infokaste
+| name                   = Java
+| logo                   = [[Attēls:Java logo.svg|100px]]
+| caption                =
+| paradigm               = [[Objektorientētā programmēšana|Objektorientēta]], [[strukturētā programmēšana|strukturēta]], [[imperatīvā programmēšana|imperatīva]]
+| year                   = [[1995]]
+| designer               = [[Sun Microsystems]]
+| latest_release_version = Java Standard Edition 7 (1.7.0_51)
+| latest_release_date    = {{Release date and age|2014|01|14}}
+| latest_test_version    =
+| latest_test_date       = 
+| turing-complete        = Yes
+| typing                 = 
+| implementations        = Vairākas
+| influenced_by          = [[Ada (programmēšanas valoda)|Ada 83]], [[C++]], [[C Sharp|C#]],<ref>Java 5.0 added several new language features (the [[foreach|enhanced for loop]], [[autoboxing]], [[variadic function|varargs]] and [[Java annotation|annotations]]), after they were introduced in the similar (and competing) [[C Sharp (programming language)|C#]] language [http://www.barrycornelius.com/papers/java5/][http://www.levenez.com/lang/]</ref> [[Object Pascal|Delphi Object Pascal]],<ref>{{Tīmekļa atsauce|url=http://java.sun.com/docs/white/delegates.html|title=About Microsoft's "Delegates"|accessdate=2010-01-11|quote=We looked very carefully at [[Object Pascal|Delphi Object Pascal]] and built a working prototype of bound method references in order to understand their interaction with the Java programming language and its APIs. [...] Our conclusion was that bound method references are unnecessary and detrimental to the language. This decision was made in consultation with Borland International, who had previous experience with bound method references in [[Object Pascal|Delphi Object Pascal]].}}</ref> [[Eiffel (programming language)|Eiffel]],<ref>{{Tīmekļa atsauce | authors = Gosling and McGilton | title = The Java Language Environment | date=  May 1996 | url = http://java.sun.com/docs/white/langenv/Intro.doc1.html#943}}</ref> [[Generic Java]], [[Mesa (programming language)|Mesa]],<ref>{{Tīmekļa atsauce | authors = J. Gosling, B. Joy, G. Steele, G. Brachda | title = The Java Language Specification, 2nd Edition | url= http://java.sun.com/docs/books/jls/second_edition/html/intro.doc.html#237601}}</ref> [[Modula-3]],<ref>{{Tīmekļa atsauce |url=http://www.computerworld.com.au/index.php/id;1422447371;pp;3;fp;4194304;fpid;1 |title=The A-Z of Programming Languages: Modula-3 - a-z of programming languages - Computerworld |access-date={{dat|2010|06|09||bez}} |archiveurl=https://web.archive.org/web/20090105145818/http://www.computerworld.com.au/index.php/id%3B1422447371%3Bpp%3B3%3Bfp%3B4194304%3Bfpid%3B1 |archivedate={{dat|2009|01|05||bez}} }}</ref> [[Objective-C]],<ref>[[Patrick Naughton]] cites [[Objective-C]] as a strong influence on the design of the Java programming language, stating that notable direct derivatives include Java interfaces (derived from Objective-C's [[Objective-C#Protocols|protocol]]) and primitive wrapper classes. [http://cs.gmu.edu/~sean/stuff/java-objc.html]</ref> [[UCSD Pascal]],<ref>{{Tīmekļa atsauce|url=http://www.fscript.org/prof/javapassport.pdf|quote=The project went ahead under the name "green" and the language was based on an old model of [[UCSD Pascal]], which makes it possible to generate interpretive code|title=History of Java|work=Java Application Servers Report|author=TechMetrix Research|date=1999|access-date={{dat|2009|10|16||bez}}|archiveurl=https://web.archive.org/web/20101229090912/http://www.fscript.org/prof/javapassport.pdf|archivedate={{dat|2010|12|29||bez}}}}</ref><ref>[http://queue.acm.org/detail.cfm?id=1017013 A Conversation with James Gosling - ACM Queue]</ref> [[Smalltalk]]
+| influenced             = [[Ada (programmēšanas valoda)|Ada&nbsp;2005]], [[C Sharp (programmēšanas valoda)|C#]], [[Clojure]], [[D (programmēšanas valoda)|D]], [[ECMAScript]], [[Groovy (programmēšanas valoda)|Groovy]], [[J Sharp|J#]], [[PHP]], [[Scala (programmēšanas valoda)|Scala]], [[JavaScript]], [[Python]], [[BeanShell]]
+| dialects = [[Generic Java]], [[Pizza (programming language)|Pizza]]
+| operating_system       = [[Vairākplatformu programmatūra|Vairākplatformu]]
+| license                = [[GNU Vispārējā publiskā licence]]&nbsp;/ [[Java kopienas process]]
+| website                = {{URL|https://www.oracle.com/java/}}
+}}
+
+'''Java''' ir firmas [[Sun Microsystems]] izstrādāta [[objektorientēts|objektorientēta]] [[programmēšanas valoda]]. Valoda, kuras sākotnējais nosaukums bija '''Oak''', tika veidota kā [[C++]] aizstājēja, lai gan tās funkcionalitāte ir tuvāka [[Objective C]].
+
+== Vēsture ==
+Valodu 1991. gadā izstrādāja [[Džeimss Goslings]] (''James Gosling''), [[Patriks Noutons]] (''Patrick Naughton''), [[Kriss Varts]] (''Chris Warth''), [[Eds Franks]] (''Ed Frank'') un [[Maiks Šeridans]] (''Mike Sheridan'') no kompānijas Sun Microsystems, kā daļu no Zaļā projekta (''Green project''). Bija nepieciešami 18 mēneši, lai radītu strādājošu versiju. Toties atklātībā primo reizi tā tika laista 1994. gadā, bet 1995. gadā kļuva plašāk pazīstama pēc tam, kad [[Netscape Communications Corporation|Netscape]] paziņoja par nodomiem iekļaut tās atbalstu savā [[Netscape Navigator|Navigator]] pārlūkprogrammā.
+
+== Mērķi ==
+Valodas Java izstrādes galvenie mērķi bija šādi:
+* tai jābūt [[objektorientētā programmēšana|objektorientētai]] valodai
+* tai jābūt vairāk vai mazāk neatkarīgai no datora platformas
+* tai jāatbalsta [[datortīkls|tīkli]]
+* tai jāvar droši izpildīt kodu no attālinātiem avotiem
+
+== [[Sveika, pasaule!]] ==
+ public class HelloWorld 
+ {
+     public static void main(String[] args) 
+     {
+         System.out.println("Sveika, pasaule!");
+     }
+ }
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://www.oracle.com/java/ Java lapa Oracle vietnē] {{en ikona}}
+
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Java (programmēšanas valoda)| ]]

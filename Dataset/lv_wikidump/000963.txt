@@ -1,0 +1,125 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Oklahoma
+| native_name             = ''Oklahoma''
+| other_name              = 
+| settlement_type         = ASV štats
+| image_skyline           = AntelopeHills.jpg
+| imagesize               = 250px
+| image_caption           = Antilopes pauguri Oklahomas rietumu daļā
+| image_flag              = Flag of Oklahoma.svg
+| flag_size               = 130px
+| image_seal              = Seal of Oklahoma.svg
+| seal_size               = 80px
+| nickname                = ''Sooner State''
+| motto                   = ''Labor omnia vincit''
+| anthem                  = 
+| capital                 = [[Oklahomasitija]]
+| largest_city            = 
+| official_language       = [[angļu valoda]]
+| spoken_language         = 
+| image_map               = Oklahoma in United States.svg
+| mapsize                 = 250px
+| map_caption             = Oklahomas atrašanās vieta ASV
+| subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+| leader_party            =R 
+| leader_title            = Gubernators
+| leader_name             =Kevins Stits 
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 181195
+| area_land_km2           = 177934
+| area_water_km2          = 3261
+| area_water_percent      = 1.8
+| area_rank               = 
+| elevation_min_m         = 
+| population_footnotes    = 
+| population_total        = 4019800
+| population_as_of        = 2022. gadā
+| population_rank         = 
+| population_density_km2  = auto
+| population_blank1_title = Rasu sastāvs
+| population_blank1       = baltie — 82.2%<br />melnie — 8.55%
+| population_blank2_title = Reliģijas
+| population_blank2       = [[protestanti]] — 77%<br />[[katoļi]] — 4.89%<br />nereliģiozi — 39%
+| elevation_max_m         = [[Blekmesas kalns]], 1515
+| timezone                = UTC
+| utc_offset              = -6
+| timezone_DST            = UTC
+| utc_offset_DST          = -5
+| website                 = {{url|http://www.ok.gov/}}
+| footnotes               = 
+}}
+
+'''Oklahoma''' ({{val-en|Oklahoma}}, {{izrunā|ˌoʊkləˈhoʊmə}}) ir viens no [[Amerikas Savienotās Valstis|ASV]] centrālajiem dienvidu [[ASV štats|štatiem]]. Tas pēc [[platība]]s ir 20. lielākais štats ASV, bet pēc [[iedzīvotāju skaits|iedzīvotāju skaita]] — 28. lielākais štats. Oklahomā dzīvo mazliet vairāk par 4,2 miljoniem iedzīvotāju.<ref>https://eu.oklahoman.com/story/news/local/2023/01/06/oklahoma-population-2023-passes-4m-mark-mirroring-oklahoma-city-growth/69782081007/</ref> Štata nosaukums ir veidojies no [[čoktavi|čoktavu]] cilts vārdiem ''okla'' un ''humma'', kas nozīmē "sarkanais cilvēks".<ref name="Oklahoma's Name"/> Oklahomas administratīvais centrs ir [[Oklahomasitija]].
+
+Oklahoma robežojas ar [[Ārkanzasa]]s, [[Kanzasa]]s, [[Kolorādo]], [[Misūri (štats)|Misūri]], [[Ņūmeksika]]s un [[Teksasa]]s štatiem. Štatam raksturīga vislielākā reljefa daudzveidība ASV un viena no augstākajām ekoloģiskajām daudzveidībām.{{fact}}
+
+== Oklahomā dzimuši cilvēki ==
+{{nepilnīgs}}
+* [[Džons Maikls Talbots]] (dziedātājs un dziesmu autors)
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=https://www.census.gov/quickfacts/fact/table/OK/PST045221|title=Oklahoma Population|publisher=U.S. Census Bureau|access-date=17.03.2022}}</ref>
+|-
+|1
+|[[Oklahomasitija]]
+|681 054
+|-
+|2
+|[[Talsa]]
+|413 066
+|-
+|3
+|[[Normana]]
+|128 026
+|-
+|4
+|[[Broukenarova]]
+|113 540
+|-
+|5
+|[[Edmonda]]
+|94 428
+|-
+|6
+|[[Lotona]]
+|90 381
+|-
+|7
+|[[Mūra (Oklahoma)|Mūra]]
+|62 793
+|-
+|8
+|[[Midvestsitija]]
+|58 409
+|-
+|9
+|[[Īnida]]
+|51 308
+|-
+|10
+|[[Stillvotera]]
+|48 394
+|}
+
+== Atsauces ==
+{{atsauces|refs=
+</ref>{{Tīmekļa atsauce | date=2008-07-02 | accessdate=2008-07-10 | url=http://www.ers.usda.gov/statefacts/ok.htm | title=State Fact Sheets: Oklahoma | work=Economic Research Service | publisher=United States Department of Agriculture | archiveurl=https://web.archive.org/web/20070811174038/http://www.ers.usda.gov/StateFacts/OK.HTM | archivedate=2007-08-11 }}</ref>
+<ref name="Oklahoma's Name">{{Tīmekļa atsauce | title = Chronicles of Oklahoma | first = Muriel | last = Wright | publisher = Oklahoma State University | date = June 1936 | url = http://digital.library.okstate.edu/Chronicles/v014/v014p156.html | accessdate = 2007-07-31 | archiveurl = https://web.archive.org/web/20071013231154/http://digital.library.okstate.edu/Chronicles/v014/v014p156.html | archivedate = 2007-10-13 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Oklahoma| ]]

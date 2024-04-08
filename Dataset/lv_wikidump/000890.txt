@@ -1,0 +1,68 @@
+{{cita nozīme|Brazīlijas štatu|laukuma mērvienību|akrs}}
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Akri
+ | native_name             = ''Acre''
+ | settlement_type         = [[Brazīlijas štati|Štats]]
+ | image_skyline           = Trevo BR-364.2.jpg
+ | imagesize               = 
+ | image_caption           = 
+ | image_flag              = Bandeira do Acre.svg
+ | image_shield            = Brasão do Acre.svg
+ | shield_size             = 
+ | capital                 = [[Riubranku]]
+ | largest_city            = 
+ | image_map               = Acre in Brazil.svg
+ | mapsize                 = 250px
+ | map_caption             = 
+ | latd  = 9 | latm  = 6 | lats  = 36 | latNS  = S
+ | longd = 70 | longm = 31 | longs = 12 | longEW = W
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{BRA}}
+ | subdivision_type1       = Reģions
+ | subdivision_name1       = [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]]
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 164123
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 
+ | elevation_min_m         = 
+ | population_footnotes    = <ref>{{Tīmekļa atsauce|url=http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|title=Instituto Brasileiro de Geografia e Estatística|access-date={{dat|2013|04|06||bez}}|archiveurl=https://web.archive.org/web/20170622170435/http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|archivedate={{dat|2017|06|22||bez}}}}</ref>
+ | population_total        = 790101
+ | population_as_of        = 2014
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = BRT
+ | utc_offset              = -1
+ | timezone_DST            = 
+ | utc_offset_DST          = 
+ | website                 = {{url|http://www.ac.gov.br/}}
+ | footnotes               = 
+}}
+
+'''Akri''' ({{val|pt|Acre}}) ir viens no divdesmit sešiem [[Brazīlija]]s štatiem valsts ziemeļrietumu daļā, kas ietilpst valsts [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģionā]]. Robežojas ar [[Amazonasa]]s štatu ziemeļos un [[Rondonija]]s štatu austrumos, kā arī ar [[Bolīvija|Bolīviju]] dienvidaustrumos un [[Peru]] dienvidrietumos. Štata administratīvais centrs un lielākā pilsēta ir [[Riubranku]]. Akri kopējā platība ir 164 123 [[km²]], pēc 2014. gada datiem štatā dzīvo 790 101 iedzīvotāji. Tas ir sešpadsmitais lielākais štats Brazīlijā pēc platības un divdesmit piektais pēc iedzīvotāju skaita.
+
+Štata nosaukums cēlies no [[Akri (upe)|Akri]] upes, [[Purusa]]s pietekas, nosaukuma.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Brazīlija-aizmetnis}}
+
+{{Brazīlijas štati}}
+
+[[Kategorija:Brazīlijas štati]]

@@ -1,0 +1,30 @@
+{{Elektrodinamika}}
+
+'''Elektriskā lādiņa nezūdamības likums''': no apkārtējiem ķermeņiem izolētas sistēmas kopējais [[elektriskais lādiņš]] laikā nemainās (to nevar patvaļīgi radīt vai iznīcināt). <ref name=":0">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=157.--158|last2=Kolangs|first2=I.|last3=Puķītis|first3=P.|last4=Šilters|first4=E.}}</ref>
+
+== Izolēta sistēma ==
+
+Ja sistēma sastāv no vairākiem ķermeņiem, kuru kopējais elektriskais lādiņš <math>q = q_1 + q_2 + ... + q_n \ </math>, tad no elektriskā lādiņa nezūdamības likuma izriet, ka <math>q = const \ </math> jeb <math>\frac{\mathrm{d}q}{\mathrm{d}t} = 0\ </math>. Elektriskie lādiņi ķermeņu [[mijiedarbība|mijiedarbībā]] var pārkārtoties, bet tikai tā, lai saglabātos sistēmas kopējais lādiņš <math>q \ </math>.
+
+Lādiņa nezūdamības likums ir universāls likums, un [[daba|dabā]] nav sastopami izņēmumi. Tas ir spēkā visās [[Elementārdaļiņa|elementārdaļiņu]] reakcijās, kā arī ķermeņu elektriskās uzlādēšanās un [[polalizācija|polarizēšanās]] procesos. 
+
+== Neizolēta sistēma ==
+
+Gadījumā, kad sistēma nav izolēta (slēgta), [[elektriskais lādiņš]] no tās var aizplūst vai arī tajā ieplūst. Iedomājoties, ka elektriski lādētu ķermeņu vai daļiņu kopu aptver noslēgta virsma <math>S \ </math>, caur kuru var pastāvēt lādiņa <math>q \ </math> plūsma. Tādā gadījumā lādiņu nezūdamības likumu raksta šādi: 
+
+: <math>- \frac{\mathrm{d}q}{\mathrm{d}t} = I \ </math>, 
+::: kur
+:::: <math>I \ </math> - [[elektriskā strāva]], kura šķērso slēgto virsmu <math>S \ </math> ([[ampērs|A]])
+:::: <math>\frac{\mathrm{d}q}{\mathrm{d}t} \ </math> - sistēmas summārā lādiņa izmaiņas [[ātrums]] ([[kulons|C]]/[[sekunde|s]])
+
+Mīnusa zīme nozīmē to, ka ir pieņemts, ka, samazinoties pozitīvajam lādiņam <math>q \ </math>, lādiņnesēji aizplūst no virsmas <math>S \ </math> ierobežotā [[tilpums|tilpuma]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+[[Kategorija:Elektriskais lauks]]
+[[Kategorija:Fizikas likumi]]

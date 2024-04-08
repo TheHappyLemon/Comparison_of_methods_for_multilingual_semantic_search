@@ -1,0 +1,73 @@
+{{infokaste+}}
+{| class="infobox vcard" style="width:250px; font-size:90%; line-height:1.40em; text-align:left; background-color:#F9F9F9; border: 1px solid #D9D9D9;"
+|-
+| colspan=2 bgcolor=#99BADD align=center | <big>'''Panzerkampfwagen I'''</big>
+|-
+| colspan=2 align=center | [[Attēls:SdKfz101.jpg|250px|Panzerkampfwagen I Ausf. A.]]<br /><small>Panzerkampfwagen I Ausf. A.</small>
+|-
+| '''Klasifikācija''' || [[vieglais tanks]]
+|-
+| '''Izcelsme''' || [[Attēls:Flag of Germany 1933.svg|22px]] [[Trešais reihs|Nacistiskā Vācija]]
+|-
+| colspan=2 bgcolor=#99BADD align=center | '''Izmantošanas vēsture'''
+|-
+| '''Laiks''' || no [[1934]]. līdz [[1954]]. gadam
+|-
+| '''Izmantoja''' || [[Trešais reihs|Nacistiskā Vācija]], [[Spānija]], [[Bulgārija]], [[Ungārija]], [[Ķīna]]
+|-
+| '''Kari''' || [[Spānijas pilsoņu karš]],<br />[[Otrais pasaules karš]],<br />[[Otrais Ķīnas—Japānas karš]]
+|-
+| colspan=2 bgcolor=#99BADD align=center | '''Ražošanas vēsture'''
+|-
+| '''Izveidots''' || [[1934]]. gadā
+|-
+| '''Ražotāji''' || [[Krupp]], [[Mercedes-Benz Group|Daimler]], [[Henschel]], [[MAN]]
+|-
+| '''Ražoja''' || no [[1934]]. līdz [[1943]]. gadam
+|-
+| '''Skaits''' || 1574 vienības
+|-
+| colspan=2 bgcolor=#99BADD align=center | '''Parametri'''
+|-
+| '''Masa''' || 5,4 [[tonna|t]]
+|-
+| '''Garums''' || 4,02 [[metrs|m]]
+|-
+| '''Platums''' || 2,06 m
+|-
+| '''Augstums''' || 1,72 m
+|-
+| '''Apkalpe''' || 2; komandieris un vadītājs
+|}
+
+'''Panzerkampfwagen I''' ('''PzKpfw I''', no {{val-de|"Bruņota kaujas mašīna 1"}}) ir [[Vācija|vācu]] vieglais [[tanks]], kas tika ražots 20. gadsimta [[1930. gadi|30. gados]]. Rietumos izplatīts apzīmējums šiem tankiem ir '''Panzer I''', bet krievu literatūrā nereti tos dēvē par '''T-1'''. Vācijas resorsu sistēma tai piešķīra kara tehnikas apzīmējumu '''Sd.Kfz.101'''. Šī bija pirmā Vācijas tanku sērija pēc [[Pirmais pasaules karš|Pirmā pasaules kara]] beigām. Panzer I prototipus no 1930. līdz 1934. gadam ražoja uzņēmumi "[[Krupp]]" un "[[Daimler-Benz]]". Tikai no 1934. gada tika uzsākta masveida Panzer I ražošana un līdz 1943. gadam tika izlaisti 1574 šāda tipa tanki.
+
+30. gadu vidū ''Panzer I'' tanki sastādīja lielāko daļu no atjaunotās Vācijas armijas [[bruņutehnika]]s. Tikai 1937. gadā situācija mainījās, jo tika uzsākta cita modeļa tanku masveida ražošana, kuri bija daudz labāki. ''Panzer I'' pirmo reizi kaujas laukā tika izmantoti [[Spānijas pilsoņu karš|Spānijas pilsoņu karā]] 1936. gadā, vēlāk, [[Otrais pasaules karš|Otrā pasaules kara]] sākumā, tie tika arī izmantoti vācu karaspēkā. 1941.—1942. gadā tie tika pilnībā aizstāti ar modernākiem tankiem. Tie tika izņemti no bruņojuma arsenāla kā novecojuši, tomēr treniņu nolūkos ''Panzer I'' tika izmantots līdz pat kara beigām. ''Panzer I'' tanki līdz pat 40. gadu beigām tika ekspluatēti arī citās valstīs, kurām [[Vērmahts]] bija šos tankus piegādājis nelielos daudzumos, it īpaši [[Spānija|Spānijā]].
+
+Šis modelis kalpoja par bāzi komandiera tankam ({{val-de|Kleiner Panzerbefehlswagen}}) KIPzBfWg, pašgājēj prettanku lielgabalam ar čehu 47&nbsp;mm lielgabalu '4.7-cm PaK(t) Sfl auf PzKpfw I Ausf В, tilta licējam Bruckenleger auf PzKpfw IA, munīcijas transportierim Munitionschlepper I (SdKfz 111) un citiem.
+
+== Izveidošanas un ražošanas vēsture ==
+Pēc [[Versaļas līgums|Versaļas līguma]] nosacījumiem Vācijai pēc [[Pirmais pasaules karš|Pirmā pasaules kara]] nedrīkstēja būt [[bruņutehnika]], izņemot nenozīmīgu daudzumu [[bruņuautomobilis|bruņautomobiļu]], kas bija nepieciešamas [[policija]]s vajadzībām. Praktiski Vācija 20. gados nebija spējīga ražot bruņutehniku arī tāpēc, ka Vācijas ekonomika un rūpniecība atradās sliktā stāvoklī — to bija izpostījis un novājinājis karš, kā arī pēckara [[reparācija]]s, kas Vācijai bija regulāri jānomaksā. Tomēr jau 1925. gadā [[Reihsvērs]] slepus uzsāka darbu pie jaunu tanku izveidošanas.
+
+Līdz 1930. gadam jau bija izveidoti daži paraugi, bet netika uzsāka to masveida ražošana. Tie kalpoja par pamatu turpmākai tanku izstrādei.
+
+Panzer I vēsture sākās 1930. gadā, kad Reihsvēra apbruņojuma administrācija uzsāka jaunu mašīnu izstrādāšanu, kuru slepenības saglabāšanai nosauca par "mazo traktoru" ({{val-de|Kleintraktor}}). Tos bija paredzēts izmantot kā "mazos traktorus", kuru uzdevums būtu veikt izlūkošanu un atbalstīt [[artilērija|artilēriju]] un [[kājnieki|kājniekus]], bet rezultātā to izmantošana bija zem jautājuma. Mašīnu izstrādāšana tika uzticēta uzņēmumam "[[Krupp]]". Saskaņā ar sākotnējām prasībām, kuras uzstādīja apbruņojuma administrācija, tanka [[masa]] nedrīkstēja pārsniegt trīs [[tonna]]s. Apbruņojumā bija paredzēts arī 20&nbsp;mm automātiskais [[lielgabals]]. Sākotnēji uz tankiem bija uzstādīti divi [[MG-13]] ložmetēji, kuri vēlāk tika nomainīti ar [[MG-34]] tipa ložmetējiem.
+
+Pirmais "mazā traktora" projekts, kuru {{dat|1931|6|2}} pabeidza izstrādāt "Krupp", būtiski atšķīrās no nākamajiem Panzer I projektiem. Tā oriģinālajā izkārtojumā [[iekšdedzes dzinējs|dzinējs]] un [[transmisija]] tika paredzēts, ka atradīsies priekšējā daļā, bet cīņas nodalījums un riteņu pagriešanas mehānisms - pakaļgalā. Izstrādātājs šādu izkārtojumu pamatoja ar to, ka ir nepieciešams palielināt cīņas nodalījuma apjomu, kā arī tas izlīdzinātu slodzi uz mašīnas, kas būtu labvēlīgāka priekš citu smagu iekārtu vilkšanas. Mašīnas [[bruņas|bruņu]] biezums priekšējā daļā un virs tās būtu 13&nbsp;mm, pakaļgalā - 10&nbsp;mm, bet apakšā - 5&nbsp;mm. Šāda mašīna, kuras masa tomēr sasniegtu 3,5 tonnas, būtu spējīga sasniegt 45&nbsp;km/h lielu ātrumu, tās [[jauda]] būtu 60 [[zirgspēja]]s. Virsbūves (korpusa virsdaļas) izstrāde norisinājās atsevišķi no [[šasija]]s izstrādes. Sākotnējā virsbūves variantā bija paredzēts uzstādīts 20&nbsp;mm lielgabalu, kas būtu ar ierobežotu apšaudes [[leņķis|leņķi]].
+
+[[Attēls:Kleinstraktor-Fahrgestell.jpg|thumb|235px|Pirmais "mazā traktora" prototips.]]
+Tomēr šis "mazā traktora" variants palika tikai [[makets|maketa]] līmenī. Ap to laiku tika pabeigts arī "vieglā traktora" ({{val-de|Leichttraktor}}) prototips, kuram riteņi tika nomainīti pret [[kāpurķēde|kāpurķēdēm]]. Tā izmēģinājumi tika veikti jau 1930. gadā. Sakarā ar to {{dat|1931|9|18}} apbruņojuma administrācija deva rīkojumu uzņēmumam "Krupp" pārlikt šasiju, kā arī pārcelt dzinēju uz tanka aizmuguri, bet dzinējratu - uz priekšu. Pirmais prototips parādījās jau 1932. gadā. Tas saucās '''LaS''' (saīsināti no {{val-de|Landwirtschaftlicher Schlepper}}). Nākamā gada vasarā pirmās piecas šasijas tika pārbaudītas [[Kummersdorfa]]s poligonā un pēc rezultātu pārbaudes to konstrukcijas tika uzlabotas. Pirmie 15 sērijveida tanku ražošana tika pabeigta 1934. gada aprīļa beigās un saņēma apzīmējumu (indeksu) '''1 LaS Krupp'''. Tie tika nodoti autospēku mācību daļai, kura dislocējās [[Cosene|Cosenē]]. Pēc tam, kad [[Hitlers]] atteicās ievērot Versaļas ierobežojumus, tanka nosaukumu nomainīja uz ''PzKpfw I Ausf A''.
+
+== Modifikācijas ==
+Panzerkampfwagen I bija vairākas modifikācijas:
+* [[Panzerkampfwagen I Ausf. A (Sd.Kfz 101)]]
+* [[Panzerkampfwagen I Ausf. B (Sd.Kfz 101)]]
+* [[Panzerkampfwagen I Ausf. C (VK601)]]
+* Panzerkampfwagen I Ausf. D - izgatavots tikai 1 eksemplārs
+* [[Panzerkampfwagen I Ausf. F]]
+
+{{commons|Panzerkampfwagen I}}
+
+{{Militārisms-aizmetnis}}
+
+[[Kategorija:Panzerkampfwagen I| ]]

@@ -1,0 +1,81 @@
+{{Futbola izlases infokaste
+| Name                   = Irāka
+| Badge                  = Iraq National Team Badge 2021 v2.svg
+| Nickname               = Mezopotāmijas lauvas
+| Association            = Irākas Futbola asociācija
+| Confederation          = [[Āzijas Futbola konfederācija|AFC]] (Āzija)
+| Coach                   = {{flaga|ESP}} [[Hesuss Kasass]]
+| Captain                = 	Dželals Hasans
+| Most caps              = Jūniss Mahmuds (148)
+| Top scorer             = Huseins Saīds (78)
+| Home Stadium           = Basras starptautiskais stadions
+| FIFA Trigramme         = IRQ
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1              = _iraq23h
+| pattern_b1               = _iraq23h
+| pattern_ra1              = _iraq23h
+| pattern_sh1              = _iraq23h
+| pattern_so1              = _iraq23h
+| leftarm1                 = 00AB66
+| body1                    = 00AB66
+| rightarm1                = 00AB66
+| shorts1                  = 00AB66
+| socks1                   = 00AB66
+| pattern_la2              = _iraq23a
+| pattern_b2               = _iraq23a
+| pattern_ra2              = _iraq23a
+| pattern_sh2              = _iraq23a
+| pattern_so2              = _iraq23a
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = ffffff
+| socks2                   = ffffff
+| First game               = {{fb|MAR}} 3:3 {{fb-rt|IRQ|1924}}<br>([[Beirūta]], [[Libāna]]; {{dat|1957|10|19|N|bez}})
+| Largest win              = {{fb|IRQ|1991}} 13:0 {{fb-rt|ETH|1991}}<br>([[Irbida]], [[Jordānija]]; {{dat|1992|8|18|N|bez}})
+| Largest loss             = {{fb|TUR}} 7:1 {{fb-rt|IRQ|1959}}<br>([[Adana]], [[Turcija]]; {{dat|1959|12|6|N|bez}})<br>{{fb|BRA}} 6:0 {{fb-rt|IRQ}}<br>([[Malme]], [[Zviedrija]]; {{dat|2012|10|11|N|bez}})<br>{{fb|CHI}} 6:0 {{fb-rt|IRQ}}<br>([[Kopenhāgena]], [[Dānija]]; {{dat|2013|8|14|N|bez}})
+| World cup apps         = 1
+| World cup first        = 1986
+| World cup best         = Grupu turnīrs ([[1986. gada FIFA Pasaules kauss|1986]])
+| Regional name          = [[Āzijas kauss futbolā]]
+| Regional cup apps      = 9
+| Regional cup first     = [[1972. gada Āzijas kauss futbolā|1972]]
+| Regional cup best      = '''Čempioni''' (2007)
+| Confederations cup apps  =  1
+| Confederations cup first = 2009
+| Confederations cup best  = Grupu turnīrs ([[2009. gada FIFA Konfederāciju kauss|2009]])
+}}
+
+'''Irākas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Irāka|Irāku]] starptautiskās futbola sacensībās. Irākas futbola izlasi pārvalda Irākas Futbola asociācija. Savu pirmo spēli izlase aizvadīja 1957. gadā pret [[Marokas futbola izlase|Marokas izlasi]]. Pirmo un pagaidām vienīgo reizi [[FIFA Pasaules kauss|FIFA Pasaules kausa]] finālturnīrā Irāka ir piedalījusies [[1986. gada FIFA Pasaules kauss|1986. gadā]], kad gan neizkļuva no apakšgrupas. [[Āzijas Kauss futbolā|Āzijas kausa izcīņā]] Irākas izlase ir piedalījusies 9 reizes, un tās augstākais sasniegums ir iegūtais čempionu tituls 2007. gadā.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1970. gada FIFA Pasaules kauss|1970]] - ''Nepiedalījās''
+* [[1974. gada FIFA Pasaules kauss|1974]] - ''Nekvalificējās''
+* [[1978. gada FIFA Pasaules kauss|1978]] - ''Izstājās''
+* [[1982. gada FIFA Pasaules kauss|1982]] - ''Nekvalificējās''
+* [[1986. gada FIFA Pasaules kauss|1986]] - Grupu turnīrs
+* [[1990. gada FIFA Pasaules kauss|1990]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — AFC zona|Nekvalificējās]]''
+* [[2018. gada FIFA Pasaules kauss|2018]]- ''Nekvalificējās''
+
+== Āzijas kausā ==
+* 1956—1968 — ''Nepiedalījās''
+* 1972 — Grupu turnīrs
+* 1976 — 4. vieta
+* 1980—1992 — ''Nepiedalījās''
+* 1996 — Ceturtdaļfināls
+* 2000 — Ceturtdaļfināls
+* 2004 — Ceturtdaļfināls
+* 2007 — '''Čempioni'''
+* 2011 — Ceturtdaļfināls
+* 2015 — 4. vieta
+*2019 - Astoņdaļfināls
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{AFC izlases}}
+
+[[Kategorija:Irākas futbola izlase| ]]
+[[Kategorija:Āzijas futbola izlases]]

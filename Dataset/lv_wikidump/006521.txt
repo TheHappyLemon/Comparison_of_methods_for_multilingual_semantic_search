@@ -1,0 +1,107 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Vantā
+ | official_name            = ''Vantaa''
+ | settlement_type          = Pilsēta
+ | image_skyline            = Kielotorni4.JPG
+ | image_caption            = 
+ | image_flag               = Vantaa.lippu.svg
+ | image_seal               = 
+ | image_shield             = Vantaa.vaakuna.svg
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Somija
+ | pushpin_label_position   = 
+ | map_caption              = Vantā atrašanās vieta [[Somija|Somijā]]
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = {{flag|Somija}}
+ | subdivision_type1        = [[Somijas administratīvais iedalījums|Reģions]]
+ | subdivision_name1        = [[Ūsimā]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pilsētas tiesības
+ | established_date         = {{dat|1972}}
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 240.34
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = {{dat|2012|8|31|SK|bez}}
+ | population_footnotes     = 
+ | population_total         = 204545
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = 
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 60 | latm = 17 | lats = 40 | latNS = N
+ | longd = 25 | longm = 2 | longs = 25 | longEW = E 
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 
+ | website                  = http://www.vantaa.fi/
+ | footnotes                = 
+}}
+'''Vantā''' ({{val|fi|Vantaa}}, {{val|sv|Vanda}}) ir [[Somija]]s ceturtā lielākā pilsēta.<ref>[http://www.citypopulation.de/Finland-Mun.html Finland. Principal Cities] Citypopulation.de</ref> Atrodas [[Ūsimā]] reģionā uz ziemeļiem no [[Helsinki]]em un ietilpst Helsinku aglomerācijā.
+
+Pilsētas iedalījums: Tikurila (''Tikkurila''), Mīrmeki (''Myyrmäki''), Martinlākso (''Martinlaakso''), Hakunila (''Hakunila''), Koivukile (''Koivukylä'') un Korso (''Korso'').
+
+Vantā atrodas Somijas galvenā lidosta — [[Helsinku-Vantā lidosta]]. Pilsētā atrodas zinātnes centrs ''Heureka''.
+
+== Vēsture ==
+Pirmoreiz rakstos kā Helsinge (''Helsinge'') pieminēta 1351. gadā.
+
+Vantā pilsētas tiesības ieguva 1972. gadā.
+
+2002. gada 11. oktobrī kāds Helsinki-Vantā Tehnoloģiskā institūta students nenoskaidrotu iemeslu dēļ uzspridzinājās Vantā rajona Mīrmeki lielveikalā, nogalinot septiņus cilvēkus (starp tiem vienu 7 gadus vecu bērnu) un ievainojot vēl 80 cilvēkus.
+
+== Ekonomika ==
+[[Attēls:Vantaa-heureka.jpg|Zinātnes centrs ''Heureka'' Vantā|thumbnail|250px|left]]
+Uzņēmumi un to galvenie biroji Vantā:
+* ''[[Air Finland]]'', pasažieru aviopārvadājumi
+* ''[[Atea]]'', IT produkti, risinājumi un apkalpošana
+* ''[[Blue1]]'', pasažieru aviopārvadājumi
+* ''[[Cramo]]'', celtniecības mašīnu un iekārtu ražošana, pārdošana un iznomāšana
+* ''[[DNA (uzņēmums)|DNA]]'', sakaru pakalpojumi
+* ''[[Fazer]]'', saldumu ražošana
+* ''[[Finavia]]'', lidostas un gaisa navigācijas apkalpošana
+* ''[[Finnair]]'', pasažieru un kravu aviopārvadājumi
+* ''[[Finnkino]]'', filmu demonstrēšana
+* ''[[Nordqvist]]'', tējas ražošana
+* ''[[Onninen]]'', inženiertehnisko izstrādājumu vairumtirdzniecība
+* ''[[Paroc]]'', izolācijas materiālu ražošana
+* ''[[Pekkaniska]]'', celtņu iznomāšana un pārdošana
+* ''[[Royal Dutch Shell|Shell]]'', naftas izstrādājumu tirdzniecība (Somijas birojs)
+* ''[[Seppälä]]'', apģērbu mazumtirdzniecība
+* ''[[Suunto]]'', sporta instrumentu ražošana
+* ''[[Tamro]]'', zāļu vairumtirgošana
+* ''[[Tikkurila]]'', krāsu ražošana
+* ''[[Vantaan Energia]]'', energouzņēmums
+
+== Cilvēki ==
+Vantā dzimuši:
+
+* [[Mika Hekinens]] (''Mika Häkkinen'', dz. [[1968]]) - [[Formula 1]] ekspilots
+* [[Jāko Hintika]] (''Jaakko Hintikka'', dz. [[1929]]) - filozofs
+* [[Tami Kiuru]] (''Tami Kiuru'', dz. [[1976]]) - tramplīnlēcējs
+* [[Ville Peltonens]] (''Ville Peltonen'', dz. [[1973]]) - hokejists
+* [[Jarko Rūtu]] (''Jarkko Ruutu'', dz. [[1975]]) - hokejists
+* [[Tuomo Rūtu]] (''Tuomo Ruutu'', dz. [[1983]]) - hokejists
+* [[Jere Peihenens]] (''Jere Pöyhönen'' jeb ''Käärija'', dz. [[1993]]) - reperis un dziedātājs
+
+== Atsauces ==
+{{atsauces}}
+
+{{commonscat|Vantaa|Vantā}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Somijas pilsētas]]
+[[Kategorija:Ūsimā]]

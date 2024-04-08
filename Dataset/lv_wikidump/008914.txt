@@ -1,0 +1,68 @@
+{{Elektrodinamika}}
+'''Lorenca spēks''' ir spēks, ar kādu [[klasiskā fizika|klasiskajā fizikā]] [[elektromagnētiskais lauks]] darbojas uz ikvienu kustībā esošu punktveida [[elektriskais lādiņš|lādiņu]]. Lorenca spēks magnētiskajā laukā piešķir daļiņai centrtieces paātrinājumu, tā rezultātā daļiņa sāk vienmērīgi kustēties pa riņķa līniju. Lorenca spēka darbību izmanto [[Masspektrogrāfs|masspektrogrāfā]] un [[Ciklotrons|ciklotronā]]. Lorenca spēka iedarbībā daļiņas kustības trajektorija izliecas. Nosaukts [[nīderlandieši|nīderlandiešu]] fiziķa [[Hendriks Lorencs|Hendrika Antona Lorenca]] vārdā.
+
+== Skalārā forma ==
+[[Attēls:Lorenca_speks.JPG|400px|thumb|left|Magnētiskā lauka indukcijas līnijas (sarkanā krāsā) darbojas uz lādiņu pretēji y ass virzienam. Ātruma vektora virziens (zilā krāsā) sakrīt ar z asi. Tādā gadījumā Lorenca spēka virziens (pelēkā krāsā) sakrīt ar x ass virzienu. Ja lādiņš ir negatīvs, tad Lorenca spēks darbojas pretējā virzienā.]]
+Lorenca spēku aprēķina pēc formulas:
+
+: <math>F_L = qBv \sin\alpha \ </math>
+::: kur
+:::: <math>F_L \ </math> - Lorenca spēks ([[ņūtons|N]]);
+:::: <math>q \ </math> - lādiņš, uz kuru darbojas Lorenca spēks ([[kulons|C]]);
+:::: <math>B \ </math> - magnētiskā lauka indukcija ([[tesla|T]]);
+:::: <math>v \ </math> - lādiņa ātrums ([[metrs|m]]/[[sekunde|s]]);
+:::: <math>\alpha \ </math> - leņķis starp lādiņa kustības virzienu un indukcijas līniju virzienu ([[radiāns|rad]]).
+
+Lorenca spēka virzienu nosaka pēc kreisās rokas likuma, tas ir:
+* Indukcijas līnijas ieiet plaukstā;
+* Lādiņa kustība notiek izstiepto pirkstu virzienā;
+* Lorenca spēka virziens sakrīt ar atliektā īkšķa virzienu (ja lādiņš ir negatīvs, tad spēks darbojas pretējā virzienā).
+
+== Vektoriālā forma ==
+
+Lorenca spēka darbības virziens ir atkarīgs no lādiņa ātruma un [[magnētiskais lauks|magnētiskā lauka]] indukciju līniju darbības virziena.
+
+: <math>\vec{F}_L = q (\vec{v} \times \vec{B}) \ </math>
+
+== Magnētiskā indukcija ==
+
+Lorenca spēka formulu var izmantot, lai definētu [[magnētiskā indukcija|magnētisko indukciju]].
+
+* ātruma vektors tiek sadalīts:
+: <math>\vec{v} = \vec{v}_T + \vec{v}_{II} \ </math>
+::: kur
+:::: <math>\vec{v}_T \ </math> - magnētiskajai indukcijai perpendikulārā ātruma komponente;
+:::: <math>\vec{v}_{II} \ </math> - magnētiskajai indukcijai paralēlā ātruma komponente.
+
+* Lorenca spēka formulas abas puses vektoriāli reizina ar ātruma perpendikulāro komponenti <math>\vec{v}_T \ </math>:
+: <math>\vec{v}_T \times \vec{F}_L = q (\vec{v}_T \times ((\vec{v}_{II} + \vec{v}_T) \times \vec{B})) = q (\vec{v}_T \times (\vec{v}_T \times \vec{B})) = - q v_T^2 \vec{B} \ </math>
+
+* no tā izriet:
+: <math>\vec{B} = \frac{1}{q v_T^2} \vec{F}_L \times \vec{v}_T \ </math>
+
+== Skatīt arī ==
+
+* [[Ampēra spēks]]
+* [[Arhimēda spēks]]
+* [[Atgrūšanās spēks]]
+* [[Ārējie spēki]]
+* [[Berzes spēks]]
+* [[Cēlējspēks]]
+* [[Elastības spēks]]
+* [[Gravitācijas spēks]]
+* [[Iekšējie spēki]]
+* [[Kulona spēks]]
+* [[Mijiedarbības spēks]]
+* [[Molekulārie spēki]]
+* [[Pievilkšanās spēks]]
+* [[Pretestības spēks]]
+* [[Reakcijas spēks]]
+* [[Sastiepuma spēks]]
+* [[Smaguma spēks]]
+* [[Svars]]
+* [[Trieciena spēks]]
+* [[Vilcējspēks]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Magnētiskais lauks]]

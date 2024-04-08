@@ -1,0 +1,259 @@
+{{Citas nozīmes|Itālijas galvaspilsētu|Roma (nozīmju atdalīšana)|Roma}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Roma
+ | native_name              = ''Roma''
+ | settlement_type          = [[Itālijas galvaspilsēta]]
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Collage Rome.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Rome.svg
+ | image_shield             = [[Attēls:Insigne Romanum coronatum.svg|70px]]
+ | pushpin_map              = Itālija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 41 | latm  = 54 | lats  =  | latNS  = N
+ | longd = 12 | longm = 30 | longs =  | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Itālija}}'''
+ | subdivision_type1        = Reģions
+ | subdivision_name1        = [[Lacio]]
+ | subdivision_type2        = Province
+ | subdivision_name2        = [[Romas province]]
+ | area_total_km2           = 1285.3
+ | elevation_m              = 20
+ | population_total         = 2645907
+ | population_as_of         = {{dat|2013|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_density_sq_mi = 
+ | population_urban         = 
+ | population_metro         = 
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = 00100; 00121 līdz 00199
+ | area_code                = 06
+ | website                  = {{URL|http://www.comune.roma.it/}}
+ | footnotes                = 
+ | embedded    = {{Designation list
+|    embed = yes
+|             designation1 = WHS
+|     designation1_offname = Romas vēsturiskais centrs, Svētā Krēsla īpašumi šajā pilsētā ar ekstrateritoriālajām tiesībām un Svētā Pāvila bazilika ārpus mūriem
+|        designation1_type = Kultūra
+|    designation1_criteria = i, ii, iii, iv, vi
+|        designation1_date = 1980. gads
+|           delisted1_date = 
+|      designation1_partof = 
+|      designation1_number = [http://whc.unesco.org/en/list/91 91]
+|   designation1_free1name = Valsts
+|  designation1_free1value = {{ITA}}
+|   designation1_free2name = Platība
+|  designation1_free2value = 1430,8 ha
+|   designation1_free3name = 
+|  designation1_free3value = 
+}}
+}}
+<mapframe text="Roma" width=260 height=260 zoom=9 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q220"
+}
+</mapframe>
+
+'''Roma''' ({{val|it|Roma}}, {{izrunā|ˈroːma}}) ir vēsturiska pilsēta, [[Itālija]]s valsts [[galvaspilsēta]], kā arī [[Lacio]] reģiona un [[Romas province]]s administratīvais centrs. Roma atrodas [[Apenīnu pussala]]s centrālajā daļā, [[Tibra]]s upes krastos, aptuveni 24&nbsp;km attālumā no [[Tirēnu jūra]]s. Roma bija senās [[Romas Republika]]s un [[Romas impērija]]s galvaspilsēta. Tas ir arī garīgais un fiziskais [[Romas Katoļu baznīca]]s centrs. Bieži vien Roma tiek saukta par "Mūžīgo pilsētu". Roma ir Itālijas politiskais centrs un nozīmīgs tautsaimniecības centrs. Uz Romu, lai to apskatītu, regulāri dodas [[tūrisms|tūristi]] no visas pasaules. Roma ir viena no tūristu apmeklētākajām pilsētām pasaulē. Uz Romu dodas ne tikai tūristi, bet arī [[svētceļotājs|svētceļotāji]], [[zinātnieks|zinātnieki]] un [[māksla]]s mīļotāji.
+
+Vairāk nekā 3000 gadu ilgā laika periodā Roma vairākas reizes ir bijusi iekarota un izpostīta. Roma ir viens no Rietumu civilizācijas "šūpuļiem", jo [[senie laiki|antīkajā pasaulē]] bija [[Senā Roma|Senās Romas]] galvenais centrs. Pilsētas centrā atrodas [[Vatikāns]] — suverēna valsts, [[Romas pāvests|pāvesta]] rezidence. Līdz ar to Roma ir visas [[katolisms|katoļu]] pasaules centrs.
+
+== Vēsture ==
+Pilsētai ir apmēram 2500 gadu gara vēsture, un tā ir bijusi [[Romas karaliste]]s, [[Romas republika]]s un [[Romas impērija]]s, [[Pāvesta valsts]] un [[Itālija]]s centrs.
+
+[[Attēls:Capitoline she-wolf Musei Capitolini MC1181.jpg|thumbnail|200px|left|Vilcene, kura baro dvīņubrāļus Romulu un Remu. Pēc leģendas viņi dibināja Romu]]
+Pēc leģendas Romu 753. gadā p.m.ē. dibinājis [[Romuls un Rems|Romuls]] — viens no dvīņubrāļiem. Romuls pēc tradīcijas tiek uzskatīts par pirmo [[Romas karaļi|Romas karali]] (ķēniņu). Pilsēta tika dibināta uz viena no septiņiem Romas pakalniem — [[Palatīns|Palatīna]] (''Palatinus'') (pārējie pakalni ir Aventīns (''Aventinus''), Eskvilīns (''Esquilinus''), Kapitolijs (''Capitolinus''), Kelijs (''Collis Caelius''), Kvirināls (''Quirinalis'') un Vimināls (''Viminalis'')).
+
+Tiek lēsts, ka pēc 650. g. p.m.ē. Roma nokļuva [[etruski|etrusku]] varā, tomēr ap 500. g. [[latīņi]] sacēlās pret tiem un 509. g. nodibināja Romas republiku.
+
+390. gadā p.m.ē. [[galli]] izlaupīja Romu. 246.-146. g. norisinājās Romai ļoti grūtie [[Pūniešu kari]] ar [[Kartāga|Kartāgu]], pēc kuriem Romas republika kļuva [[Vidusjūra]]s lielvalsti.
+
+146.-44. g. p.m.ē. — nemieru un pilsoņu karu laiks ([[Sulla]], [[Pompejs]], [[Jūlijs Cēzars]]).
+
+44.-14. g. p.m.ē. [[Oktaviāns|Augusts Oktaviāns]] nodibināja [[Romas impērija|Romas impēriju]].
+
+68.-96. g. — [[Flāviji|Flāviju dianstijas]] laiks. [[Kolizejs|Kolizeja]] celniecība.
+
+III gs. — Romas impērijas krīze. Karakalla termu un Aurēlija mūru celtniecība.
+
+284.-337. g. — [[Diokletiāns|Diokletiāna]] un [[Konstantīns Lielais|Konstantīna]] valdīšana. Pirmās [[kristietība|kristiešu]] bazilikas. [[Kauja pie Milviāna tilta]]. 313. gadā kristietība kļuva par legālu Romas impērijas reliģiju ([[Milānas edikts]]). Romā bija vairāk kā miljons iedzīvotāju, bet tā vairs nebijs impērijas galvaspilsēta, tomēr saglabāka ietekmi un kļuva par baznīcas centru. 395. gadā notika [[Rietumromas impērija]]s un [[Austrumromas impērija]]s (Bizantijas) atdalīšanās.
+
+410. gadā [[vestgoti]] [[Alariks|Alarika]] vadībā ieņēma Romu, bet 45. gadā [[vandaļi]] otrreiz ieņēma un izpostīja Romu, no kurienes radies [[vandalisms|vandalisma]] apzīmējums.
+ 
+880. gadā [[Kārlis Lielais]] Romā, [[Svētā Pētera bazilika|Svētā Pētera bazilikā]] kronēha sevi par [[Svētā Romas impērija|Svētās Romas impērijas]] imperatoru.
+
+836. gadā [[musulmaņi]] izlaupa Sv. Pētera katedrāli, bet 1000. gadā Romu izlaupīja [[vikingi]]. 114. gadā nodibinājās Romas [[komūna]]. 
+ 
+1303. gadā nodibināja Romas Universitāti, bet 1309. gadā [[Romas pāvests]] [[Klements V]] pārcēla savu rezidenci uz [[Aviņona|Aviņonu]]. 1347. gadā [[Kola di Rienco]] pārņēma varu Romā, bet 1377. gadā pāvests [[Gregors XI]] atgriezās Romā.
+
+No 1420.-1519. gadam Roma kļuva par Itālijas [[renesanse]]s centru. Tika uzcelta jaunā Sv. Pētera katedrāle un [[Siksta kapella]].
+
+1527. gadā [[landsknehti]] ieņēma Romu.
+ 
+1638. g. — 1667. g. — [[baroks|Baroka]] laiks. Romā darbojās [[Bernīni]] un [[Boromīni]]. Romā bija 120 000 iedzīvotāju.
+
+[[Attēls:Bundesarchiv Bild 101I-310-0880-38, Italien, Rom, Tiger I vor Vittoriano.jpg|thumbnail|200px|Vācu karaspēka vienības Romas centrā 1943. gadā]]
+1798. g.-1799. g. un 1800. g.-1814. g. Roma atradās [[Francija|franču]] okupācijā.
+
+1848. g.-1849. g. — [[Romas republika]] [[Mazīni]] un [[Garibaldi]] vadībā. 1870. gadā Romā ienāca [[Itālija|itāļu]] karaspēks.
+
+1922. gada oktobrī — [[Musolīni]] vadītais [[maršs uz Romu]], pēc kura Itālijā varu ieguva [[fašisms|fašisti]]. 1929. gadā [[Laterāna pils|Laterāna pilī]] tika noslēgts [[Laterāna pakts]].
+ 
+1943. gadā [[Sabiedrotie (Otrais pasaules karš)|Sabiedrotie]] bombardēja Romu.
+
+1978. gadā [[Sarkanās brigādes]] Romā nolaupīja, bet pēc tam nogalināja Itālijas premjerministru [[Aldo Moro]], 1981. gadā [[Turcija|turku]] [[terorisms|terorists]] [[Mehmeds Ali Agdža]] veica atentātu pret pāvestu [[Jānis Pāvils II|Jāni Pāvilu II]].
+
+1960. gadā Romā notika vasaras [[olimpiskās spēles]], bet 1990. gadā [[Pasaules čempionāts futbolā]].
+
+== Ģeogrāfija ==
+Roma atrodas [[Tibra]]s upes krastos [[Itālija]]s centrālās daļas rietumos, aptuveni 24&nbsp;km no [[Tirēnu jūra]]s, kur atradās senā ostas pilsēta [[Ostija]]. Roma ir uzcelta piekrastes zemienē, kuras augsni veido vulkāniskie ieži un māls. Šī zemiene austrumos robežojas ar [[Apenīni|Apenīnu]] kalniem. Dienvidaustrumos Romu ieskauj [[Albani pakalni]] (''Colli Albani''), austrumos — [[Prenestīni pakalni]] (''Monti Prenestini''), ziemeļaustrumos — [[Sabīni pakalni]], bet ziemeļrietumos — [[Sabatīni pakalni]] (''Monti Sabatini'').
+
+Pilsētas ziemeļu nomalē Tibrā ietek [[Anjēne]]s upe. Tibra plūst uz dienvidiem caur ieleju, kuras vidējais platums ir aptuveni 120 metri. Tādējādi gadsimtiem ilgā laika periodā ir attīstījusies salīdzinoši vienkārša tiltu būvniecība. Upe nekad nav bijusi nozīmīgs traucēklis pilsētas attīstībai, vēl jo vairāk tāpēc, ka upes vidū atrodas [[Tiberinas sala]] (''Isola Tiberina''), kas kalpojusi kā dabiska upes šķērsošanas vieta.
+== Administratīvais iedalījums ==
+[[Attēls:Roma municipi locator map with numbers.svg|thumbnail|200px|Romas administratīvās vienības]]
+Roma ir sadalīta 15 administratīvās vienības, kuras itāliski sauc par ''municipi''. Tās tika izveidotas [[1972]]. gadā. Nav īpašu nosaukumu katrai administratīvajai vienībai. Tās itāliski tiek sauktas par ''Municipio I'', ''Municipio II'', ''Municipio III'' un tā tālāk. Ikdienā iedzīvotāji izmanto vēsturiskos pilsētas daļu nosaukumus, kā ''[[Monti]]'', ''[[Trevi]]'', ''[[Colonna]]'', ''[[Campo Marzio]]'' un tā tālāk.
+
+== Ievērojamākās vietas ==
+Roma ir ārkārtīgi bagāta ar dažādu laiku arhitektūras pieminekļiem. Būtiskākie no tiem saistās ar Senās Romas un [[baroks|baroka]] attīstību. Daži no tiem:
+
+* apmēram 900 baznīcu (no tām 25 [[bazilika]]s)
+* ''[[Circus Maximus]]'' — antīkais [[cirks]]
+* ''[[Forum Romanum]]'' — antīkās Romas centrs ar daudzām romiešu celtņu drupām
+* [[Kolizejs]] — Romas [[amfiteātris]]
+* [[Panteons (Roma)|Panteons]] — romiešu templis, pārbūvēts par baznīcu
+* [[Romas katakombas]] — seno kristiešu pazemes kapenes
+* [[Trevi strūklaka]] (''Fontana di Trevi'') — ievērojamākā Romas strūklaka
+* vairākas seno romiešu [[triumfa arka]]s
+== Arhitektūra ==
+Vairākstāvu īres nami Romā aizņēma veselus kvartālus. Līdzīgus namus mēs varam arī redzēt mūsdienās. Vietām pat bija redzami 5 līdz 7 metrus augsti īres nami. Tiesa gan, tie nebija paši labākie mājokļi. Šajās ēkās bija redzami paša zemākā slāņa romieši. Visapkārt valdīja netīrība, troksnis, viss nelabi oda, jo šie nami nebija pieslēgti kanalizācijai.
+
+[[Attēls:Colosseo 2020.jpg|thumbnail|200px|Kolizejs]]
+Mūsu ēras 75.—80. gadā celtā [[Kolizejs|Kolizeja]] augstums sasniedza 49 metrus. Šīs ēkas centrālo daļu aizņēma arēna, kuras grīda bija paceļama un nolaižama. Šeit notika [[gladiators|gladiatoru cīņas]] un dažādi citi pasākumi.
+
+Ļoti daudz ūdens patērēja romiešu pirtis, tāpēc Romā tika ieviesti pazemes un virszemes ūdensvadi. Šo sistēmu izmanto arī mūsdienās. Romā bija aptuveni 13 šādu sistēmu. Bez ūdensvadiem Romā arī atradās neskaitāmi daudzas strūklakas un citas ūdenskrātuves.
+
+Senie romieši bija ļoti iecienījuši [[termas]]. Tās atvēra pēcpusdienā, un to izziņoja ar zvanu, kuru dzirdēja visā pilsētā. Dažas no šīm termām bija milzīgas. Tās varēja uzņemt līdz pat 3000 apmeklētāju. Tajās atradās siltā un aukstā ūdens baseini, sporta telpas, pirtis ar silto ūdeni, bibliotēka un lasītava u.c.
+
+Romiešu ģimenē jeb ''famīlijā'' visa vara piederēja tēvam. Kad bērns piedzima, tēvs varēja izlemt viņa likteni. To varēja pieņemt vai arī izlikt. Visbiežāk izlikšanas gadījumā bērns mira. Dēli nedrīkstēja pirkt zemi bez tēva atļaujas. Dēli, viņu sievas ar bērniem dzīvoja vienā mājā ar ģimenes galvu. Ļoti tika godināti senči. Goda istabā atradās senču krūšutēli un portreti.
+
+2. gadsimtā p.m.ē parādījās liels daudzums vidēja lieluma muižu. [[Muiža]] bija samērā grezna savrupmāja, kurā vasarās dzīvoja muižas īpašnieks, jo pilsētā bija neciešami karsts. Aiz kunga mājās atradās arī virtuve, pirts un kūts. Tālāk saimnieciskās telpas, piemēram, dzirnavas. Muižās arī audzēja labību, olīves, vīnogulājus u.c. Vēl dārzos auga ābeles, bumbieres, vīģes un citi augļu koki. Kūtīs galvenokārt atradās zirgi, govis, aitas un vistas. Muižu pārvaldīja pārvaldnieks, kuram bija jāseko līdzi vergu darbam un kārtībai muižā. Visbiežāk arī viņš bija vergs. Muižā izaudzētos produktus veda pārdot uz Romu.
+
+==Universitātes==
+*[[Kūsas Nikolaja universitāte]]
+
+== Sports ==
+[[Attēls:Stadio Olimpico 2008.JPG|thumbnail|200px|''Stadio Olimpico'']]
+Romā ir notikušas [[1960. gada vasaras olimpiskās spēles]].
+
+Tāpat kā visā [[Itālija|Itālijā]], Romā populārākais sporta veids ir [[futbols]]. [[1934. gada FIFA Pasaules kauss|1934. gada]] un [[1990. gada FIFA Pasaules kauss|1990. gada FIFA Pasaules kausa]] finālspēles ir norisinājušās Romā. Pilsētas labākajā stadionā ''[[Stadio Olimpico]]'' mājas spēles aizvada divi Itālijas augstākās futbola līgas ''[[Itālijas futbola A sērija|Serie A]]'' futbola klubi "[[Romas "Lazio"|Lazio]]" un "[[AS Roma|Roma]]". Šo divu klubu derbijs ir kļuvis par Romas ikgadējo sporta centrālo notikumu. Augstā cieņā ir tie futbolisti, kuri ir dzimuši Romā un spēlē šajos divos klubos, piemēram, [[Frančesko Toti]] un [[Daniels De Rossi]].
+
+Plašs skatītāju loks ir arī [[regbijs|regbijā]]. [[Itālijas regbija izlase]] mājas spēlēs aizvada ''[[Stadio Flaminio]]'' stadionā. Labākās Romas regbija komandas ir ''[[Unione Rugby Capitolina]]'', ''[[Rugby Roma]]'' un ''[[S.S. Lazio (regbijs)|S.S. Lazio]]''.
+
+Katru gadu [[maijs|maijā]] Romā, ''[[Foro Italico]]'' kortos, notiek viens no deviņiem [[ATP World Tour Masters 1000|''ATP Masters Series'']] [[teniss|tenisa]] turnīriem. Romā ir populāri arī citi sporta veidi. [[Basketbols|Basketbolā]] labākā komanda ir [[Pallacanestro Virtus Roma|''Virtus Roma'']].
+
+== Cilvēki ==
+Romā ir dzimuši tādi pazīstami cilvēki kā:
+{|
+|width=450 valign=top|
+* [[Svētā Agnese]] (Sancta Agnes) (ap 250. g) — mocekle;
+* [[Džulio Andreoti]] (Giulio Andreotti) (1919) — politiķis;
+* [[Gijoms Apolinērs]] (Guillaume Apollinaire) (1880—1918) — dzejnieks;
+* [[Dario Ardžento]] (Dario Argento) (1940) — kinorežisors;
+* [[Cecīlija Bartoli]] (Cecilia Bartoli) (1966) — operdziedātāja;
+* [[Lukrēcija Bordžija]] (Lucrezia Borgia) (1480—1519) — augstmane;
+* [[Cezāre Bordžija]] (Cesare Borgia) (1475—1507) — augstmanis;
+* [[Jūlijs Cēzars]] (Gaius Julius Caesar) (100 p.m.ē.—44 p.m.ē.) — imperators;
+* [[Tonino Delli Kolli]] (Tonino Delli Colli) (1923-2005) — kinooperators;
+* [[Oracio Džentileski]] (Artemisia Gentileschi) (1593—1653) — gleznotājs;
+* [[Domiciāns]] (Titus Flavius Domitianus) (51—96) — imperators;
+* [[Jūliuss Evola]] (Julius Evola) (1898—1974) — filozofs;
+* [[Enriko Fermi]] (Enrico Fermi) (1901-1954) — fiziķis;
+* [[Gregorijs I]] (Gregorius Magnus) (ap 540—604) — pāvests;
+* [[Honorijs III]] (Honorius III) (1148—1227) — pāvests;
+* [[Huans Karloss I]] (Juan Carlos I) (1975-) — karalis;
+* [[Džulio Kačīni]] (Giulio Caccini) (ap 1545—1618) — komponists;
+* [[Katons Jaunākais]] (Marcus Porcius Cato Uticencis) (95 p.m.ē.—46 p.m.ē.) — politiķis;
+|width=450 valign=top|
+* [[Sv.Klements I]] (Clemente I) (ap 98.g) — pāvests;
+* [[Muzio Klementi]] (Muzio Clementi) (1752—1832) — komponists;
+* [[Maikls Kolinss]] (Michael Collins) (1930-2021) — astronauts;
+* [[Serdžo Leone]] (Sergio Leone) (1929—1989) — kinorežisors;
+* [[Sofija Lorena]] (Sophia Loren) (1934) — aktrise;
+* [[Anna Manjāni]] (Anna Magnani) (1908—1973) — aktrise;
+* [[Marks Aurēlijs]] (Marcus Aurelius) (121—180) — imperators;
+* [[Franko Modiljāni]] (Franco Modigliani) (1918—2003) — ekonomists;
+* [[Alberto Moravia]] (Alberto Moravia) (1907—1990) — rakstnieks;
+* [[Noemi]] — itāliešu popmūzikas dziedātāja (1982);
+* [[Džakopo Peri]] (Jacopo Peri) (1561—1633) — komponists;
+* [[Pijs XII]] (Pius XII) (1876—1958) — pāvests;
+* [[Džakomo della Porta]] (Giacomo della Porta) (1533—1602) — arhitekts;
+* [[Kola di Rienco]] (Cola di Rienzo) (1313—1354) — politiķis;
+* [[Roberto Rosselini]] (Roberto Rossellini) (1906—1977) — kinorežisors ;
+* [[Frančesko Toti]] (Francesco Totti) (1976) — futbolists;
+* [[Lorenco Valla]] (Lorenzo Valla) (1406—1457) — filozofs;
+* [[Monika Viti]] (Monica Vitti) (1931—2022) — aktrise;
+* [[Džons Voterhauss]] (John William Waterhouse) (1849—1917) — gleznotājs;
+* [[Fransuā Žerārs]] (François Gérard) (1770—1837) — gleznotājs.
+|}
+
+== Sadraudzības pilsētas ==
+{|
+|width=250 valign=top|
+* {{flaga|Bolīvija}} [[Ačakači]], [[Bolīvija]]
+* {{flaga|Alžīrija}} [[Alžīra]], [[Alžīrija]]
+* {{flaga|Serbija}} [[Belgrada]], [[Serbija]]
+* {{flaga|Brazīlija}} [[Brazilja]], [[Brazīlija]]
+* {{flaga|Ēģipte}} [[Kaira]], [[Ēģipte]]
+* {{flaga|Ukraina}} [[Kijiva]], [[Ukraina]]
+* {{flaga|Apvienotā Karaliste}} [[Londona]], [[Apvienotā Karaliste]]
+|width=250 valign=top|
+* {{flaga|Spānija}} [[Madride]], [[Spānija]]
+* {{flaga|Spānija}} [[Marvelja]], [[Spānija]]
+* {{flaga|Kanāda}} [[Monreāla]], [[Kanāda]]
+* {{flaga|Pakistāna}} [[Multāna]], [[Pakistāna]]
+* {{flaga|ASV}} [[Ņujorka]], [[Amerikas Savienotās Valstis|ASV]]
+* {{flaga|Francija}} [[Parīze]], [[Francija]]
+* {{flaga|Ķīna}} [[Pekina]], [[Ķīna]]
+|width=250 valign=top|
+* {{flaga|Bulgārija}} [[Plovdiva]], [[Bulgārija]]
+* {{flaga|Dienvidkoreja}} [[Seula]], [[Dienvidkoreja]]
+* {{flaga|Austrālija}} [[Sidneja]], [[Austrālija]]
+* {{flaga|Albānija}} [[Tirāna]], [[Albānija]]
+* {{flaga|Japāna}} [[Tokija]], [[Japāna]]
+* {{flaga|Beļģija}} [[Tongerena]], [[Beļģija]]
+* {{flaga|Tunisija}} [[Tunisa]], [[Tunisija]]
+|}
+
+== Atsauces ==
+{{atsauces+}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{catholic|13164a}}
+* {{en ikona}} [http://travel.nationalgeographic.com/travel/city-guides/rome-italy/ Rome] National Geographic — Travel and Cultures
+* {{en ikona}} [https://web.archive.org/web/20100326090746/http://geography.howstuffworks.com/europe/geography-of-rome-italy.htm Geography of Rome] How Stuff Works — Geography
+
+{{Eiropas galvaspilsētas}}
+{{VOS norises vietas}}
+{{Itālija UNESCO}}
+{{Vatikāns UNESCO}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Roma| ]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Vatikānā]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Itālijā]]

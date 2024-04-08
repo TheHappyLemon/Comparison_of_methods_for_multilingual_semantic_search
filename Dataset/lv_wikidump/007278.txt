@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Naudītes pagasts
+| karte             = Naudītes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Naudīte
+| platība           = 89,7
+| iedzīvotāji       = 858<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 858 / 89.7 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = 
+}}
+'''Naudītes pagasts''' ir [[pagasts]] [[Dobeles novads|Dobeles novada]] centrālajā daļā, [[Zemgale|Zemgalē]]. Robežojas ar sava novada [[Annenieku pagasts|Annenieku]], [[Auru pagasts|Auru]], [[Penkules pagasts|Penkules]], [[Bēnes pagasts|Bēnes]] un [[Īles pagasts|Īles]] pagastiem. 
+
+== Daba ==
+Rietumu daļa atrodas [[Austrumkursas augstiene]]s malā, [[Lielauces pauguraine|Lielauces paugurainē]]. Austrumu daļa atrodas [[Viduslatvijas zemiene]]s [[Zemgales līdzenums|Zemgales līdzenumā]]. Augstākā vieta atrodas [[Pokaiņu mežs|Pokaiņu mežā]] pagasta ziemeļrietumos - 112,7 m vjl.<ref>{{Topokarte}}</ref>
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Sesava (Bērzes pieteka)|Sesava]], [[Jugliņa]], [[Gardene (upe)|Gardene]]
+
+==== Ezeri ====
+[[Apguldes ezers]] (43 ha), [[Naudītes ūdenskrātuve]]
+
+== Vēsture ==
+Naudītes pagastā vēsturiski atradās Āķu muiža (''Ahken''), Jaunsesavas muiža (''Neu-Sessau''), Lielapguldes jeb Zaķu muiža (''Groß-Abgulden'', [[Lielapgulde]]), Naudītes muiža (''Nauditen''), Pētervaldes muiža (''Peterwalde''), Vecapguldes jeb Ānbomes muiža (''Alt-Abgulden'', [[Apgulde]]).
+
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Naudītes pagasta platība bija 120,4 km² un tajā dzīvoja 1550 iedzīvotāju.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Naudītes un [[Upes ciems|Upes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā [[Dobeles rajons|Dobeles rajona]] '''Naudītes ciemam''' pievienoja likvidētos [[Slagunes ciems|Slagunes]] un [[Upes ciems|Upes]] ciemus. 1958. gadā [[kolhozs|kolhoza]] «Vārpa» teritoriju pievienoja [[Annenieku ciems|Annenieku ciemam]], bet 1975. gadā daļu teritorijas pievienoja [[Lielauces ciems|Lielauces ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Naudītes pagastu kā administratīvo teritoriju iekļāva [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+
+* Vecapguldes muižas apbūve<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Naud%C4%ABtes+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Lielapguldes muižas apbūve
+* Spurīšu apmetne
+* Dēliņkalns - pilskalns
+* Jāņogānu senkapi
+* Ogānu pilskalns
+* Vecpokaiņu senkapi I, II ( Kapiņu kalns)
+* Pokaiņu senkapi (Metamais kalns)
+* Soda kalniņš - nostāstu vieta
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Apgulde (ciems)|Apgulde]], [[Līdumi (Naudītes pagasts)|Līdumi]], [[Naudīte]] (pagasta centrs).
+=== Ievērojamas personības ===
+* [[Jānis Vagris]] (1930—2023), latviešu inženieris un valsts pārvaldes darbinieks, komunistiskās partijas funkcionārs
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Naudites pagasts}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Naudītes pagasts| ]]

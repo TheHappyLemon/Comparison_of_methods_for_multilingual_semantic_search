@@ -1,0 +1,63 @@
+{{Krievijas republikas infokaste
+| nosaukums = Vladimiras apgabals 
+| karte = Russia - Vladimir Oblast (2008-01).svg
+| oriģ = Владимирская область
+| karoga_attēls =Flag of Vladimir Oblast.svg
+| karoga_nosaukums = Vladimiras apgabala karogs
+| ģerboņa_attēls = Coat of arms of Vladimiri Oblast.svg
+| ģerboņa_nosaukums = Vladimiras apgabala ģerbonis
+| ģerboņa_platums = 80px
+| galvaspilsēta = [[Vladimira]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (94,74%)
+| platība = 29 000
+| iedzīvotāji = 1 574 000
+| iedz blīvums = 54,3
+| pilsētas = 10
+| rajoni = 16
+| fedapgabals = [[Centrālais federālais apgabals|Centrālais]]
+| url = http://www.avo.ru/
+|ainavas_skats=Russia-Vladimir-Vicinity.jpg}}
+'''Vladimiras apgabals''' ({{val|ru|Владимирская область}}) ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Maskavas apgabals|Maskavas apgabalu]] dienvidrietumos un rietumos, [[Jaroslavļas apgabals|Jaroslavļas apgabalu]] ziemeļos, [[Ivanovas apgabals|Ivanovas apgabalu]] ziemeļaustrumos, [[Ņižņijnovgorodas apgabals|Ņižņijnovgorodas apgabalu]] dienvidaustrumos un [[Rjazaņas apgabals|Rjazaņas apgabalu]] dienvidrietumos.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Vladimiras apgabals|width=400 |float=center|caption = Vladimiras apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Vladimiras apgabals|lat=56.133333|long= 40.416667|position = top |label='''[[Vladimira]]''' }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.393611|long= 38.715|position = right |label=[[Aleksandrova (pilsēta)|Aleksandrova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.243333|long= 42.129167|position = bottom |label=[[Vjazņiki]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.202778|long= 42.6925|position = top |label=[[Gorohoveca]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.616667|long= 40.65|position = top |label=[[Gushrustaļnija]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=  56.349167|long= 40.997778|position = top |label=[[Kameškova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=  56.308889|long= 38.701389|position = bottom |label=[[Karabanova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.15|long= 38.866667|position = left |label=[[Kiržača]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.360556|long= 41.319722|position = right |label=[[Kovrova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.31|long= 39.383333|position = right |label=[[Koļčugina]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=  55.933333|long= 39.633333|position = bottom |label=[[Kosterjova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=  55.45|long= 40.616667|position = left |label=[[Kurlova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.016944|long= 39.949444|position = top |label=[[Lakinska]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.333333|long= 41.633333|position = top |label=[[Meļenki (pilsēta)|Meļenki]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.5725|long= 42.051389|position = top |label=[[Muroma]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.933333|long= 39.466667|position = top |label=[[Petuški (pilsēta)|Petuški]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.917778|long= 39.175|position = left |label=[[Pokrova (Vladimiras apgabals)|Pokrova]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.997778|long= 40.329722|position = right |label=[[Radužnija]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.99|long= 40.016667|position = bottom |label=[[Sobinka]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.373333|long= 38.585|position = top |label=[[Struņina]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=55.95|long= 40.866667|position = right |label=[[Sudogda]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.421111|long= 40.448889|position = left |label=[[Suzdaļa]] }}
+{{VietasKarte~|Vladimiras apgabals|lat=56.51|long= 39.683333|position = top |label=[[Jurjevpoļska]] }}
+}}
+
+[[Attēls:Vyazniki asv2019-05 img13 Klyazma River.jpg|thumb|250px|Vladimiras apgabala ainava]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas administratīvais iedalījums}}
+{{Centrālais federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Vladimiras apgabals| ]]

@@ -1,0 +1,62 @@
+{{Elektrodinamika}}
+'''Elektromagnētiskās indukcijas likums''' ir
+
+: <math>\epsilon_i = - \frac{\Delta \Phi}{\Delta t} \ </math>
+::: kur
+:::: <math>\epsilon_i \ </math> ir [[Magnētiskā lauka indukcija|indukcijas]] [[elektrodzinējspēks]], kuru rada mainīga magnētiskā plūsma ([[volts|V]])
+:::: <math>\Delta \Phi \ </math> ir [[Magnētiskās indukcijas plūsma|magnētiskās plūsmas]] izmaiņa ([[vēbers|Wb]])
+:::: <math>\Delta t \ </math> ir [[laiks]], kurā notiek magnētiskās plūsmas izmaiņa ([[sekunde|s]])
+
+== Likuma atklāšana ==
+
+[[1831]]. gadā [[Maikls Faradejs]] atklāja šo likumu, kurš ir viens no svarīgākajiem [[elektromagnētisms|elektromagnētisma]] likumiem. Elektromagnētiskās indukcijas likums M. Faradejs formulēja, izmantojot [[elektriskās intensitātes cirkulācija]]s jēdzienu.
+
+== Elektromagnētiskās indukcijas likuma iegūšana ==
+
+Pieņemot, ka [[telpa|telpā]] ir [[magnētiskais lauks]], kura [[Magnētiskā lauka indukcija|indukcija]] <math>\vec{B} \ </math> ir tāda, ka pastāv tās [[Magnētiskās indukcijas plūsma|plūsma]] <math>\Phi = \oint_S \vec{B} \mathrm{d}\vec{S} \ </math> caur noslēgtu vadošu [[kontūrs|kontūru]] <math>l \ </math>, kura ierobežo [[virsma|virsmu]] <math>S \ </math>. Saskaņā ar [[Faradeja likums|Faradeja likumu]], [[laiks|laikā]] mainoties (ar kontūru saķēdētai) [[Magnētiskās indukcijas plūsma|magnētiskajai plūsmai]], t.i., <math>\frac{\mathrm{d} \Phi}{\mathrm{d}t} \ne 0 \ </math>, kontūrā plūst [[indukcijas strāva]]. Tātad vadītājā ir radies [[elektriskais lauks]] <math>\vec{E} \ </math>, kurš pārvieto [[lādiņnesēji|lādiņnesējus]], veicot [[darbs (fizika)|darbu]].
+
+Tā kā [[elektriskais lauks|elektriskā lauka]] darbs ir [[elektriskā lauka cirkulācija]] <math>\oint_l \vec{E} \mathrm{d} \vec{r} \ </math>, tad elektromagnētiskās indukcijas likums ir
+
+: <math>\oint_l \vec{E} \mathrm{d} \vec{r} = - \frac{\mathrm{d}\Phi}{\mathrm{d} t}\ </math>
+
+=== Mīnusa zīme ===
+
+[[Vektors|Vektorus]] <math>\vec{B} \ </math> un <math>\vec{E} \ </math> virzienus vienmēr saista [[magnētiskais lauks|labās vītnes skrūves likums]]. Tomēr, ja <math>\frac{\mathrm{d}\Phi}{\mathrm{d}t} > 0 \ </math>, tad [[mīnuss|mīnusa]] zīmes dēļ <math>\vec{E} \ </math> ir vērsts pretējā virzienā.
+
+[[Inducētā strāva|Inducētās strāvas]] [[magnētiskais lauks]] ([[sekundārais magnētiskais lauks]]) ir vērsts pretī sākotnējam laukam un kavē tā pieaugšanu ([[Lenca likums]]).
+
+Ja <math>\frac{\mathrm{d}\Phi}{\mathrm{d}t} < 0 \ </math>, [[inducētā strāva]] cenšas zūdošo lauku uzturēt. Arī šeit darbojas [[Lenca likums]].
+
+=== Lenca likums ===
+{{main|Lenca likums}}
+Lenca likums: [[inducētā strāva]] vienmēr darbojas pretī tām [[magnētiskais lauks|magnētiskā lauka]] izmaiņām, kuras šo [[elektriskā strāva|strāvu]] ir inducējušas.
+
+== Indukcijas elektrodzinējspēks ==
+{{main|Elektrodzinējspēks}}
+Indukcijas elektrodzinējspēks apzīmē ar <math>\epsilon_i \ </math> vai <math>\oint_l \vec{E} \mathrm{d} \vec{r} \ </math>. Un kā jau tika noskaidrots, elektrodzinējspēks ir
+
+: <math>\oint_l \vec{E} \mathrm{d} \vec{r} = - \frac{\mathrm{d}\Phi}{\mathrm{d} t}\ </math>
+
+== Elektromagnētiskās indukcijas likuma vispārinājums ==
+
+Vadītāja [[kontūrs|kontūra]] [[magnētiskais lauks|magnētiskajā laukā]] ''var arī nebūt''.
+
+[[Laiks|Laikā]] mainīgs magnētiskais lauks vienmēr ap [[Magnētiskā lauka indukcija|indukcijas]] <math>\vec{B} \ </math> līnijām inducē [[elektriskais virpuļlauks|elektrisko virpuļlauku]] <math>\vec{E} \ </math>, kura [[Elektriskā lauka cirkulācija|cirkulācija]] pa jebkuru (arī iedomātu) [[kontūrs|kontūru]] ir atšķirīga no [[nulle]]s.
+
+=== Virpuļlauks ===
+
+Virpuļlauks nav [[Potenciāls elektriskais lauks|potenciāls]]. Tas, pārvietojot [[lādiņš|lādiņu]] pa noslēgtu kontūru <math>l \ </math>, veic no nulles atšķirīgu [[darbs (fizika)|darbu]].
+
+== Magnētiskās indukcijas plūsma ==
+
+[[Magnētiskās indukcijas plūsma]], kura šķeļ [[kontūrs|kontūra]] <math>l \ </math> aptverto [[virsma|virsmu]] <math>S \ </math>, var mainīties divējādi:
+* Var deformēties pats kontūrs. Tādējādi mainās virsma, kuru šķeļ plūsma, un <math>\frac{\mathrm{d}\Phi}{\mathrm{d}t} \ne 0 \ </math>.
+* [[Magnētiskais lauks]] var būt [[nestacionārs]], proti, <math>\frac{\mathrm{d} \vec{B}}{\mathrm{d} t} \ </math> nav vienāds ar [[nulle|nulli]]. Šajā gadījumā ar kontūru saķēdētā [[Magnētiskā lauka indukcija|indukcijas]] plūsma mainās [[laiks|laikā]]. [[Džeimss Klarks Maksvels]] bija pirmais, kurš saskatīja šo iespēju. Viņš vienā [[diferenciālvienādojums|diferenciālvienādojumā]] sasaistīja laikā mainīgu [[magnētiskais lauks|magnētisko lauku]] ar tā inducēto [[elektriskais virpuļlauks|elektrisko virpuļlauku]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Fizikas likumi]]
+[[Kategorija:Elektromagnētisms]]

@@ -1,0 +1,105 @@
+{{Mājaslapas infokaste
+| nosaukums            = Vikipēdija (''Wikipedia'')
+| logo_attēls          = [[Attēls:Wikipedia-logo-v2.svg|135px]]
+| lapas_attēls         = [[Attēls:Www.wikipedia screenshot (2021).png|250px]]
+| lozungs              = Brīva enciklopēdija, ko<br />ikviens var labot
+| veids                = [[interneta enciklopēdija]]
+| valsts               = {{flaga|ASV}} [[Santakrusa]], [[Amerikas Savienotās Valstis|ASV]]
+| īpašnieks            = ''[[Wikimedia Foundation]]''
+| izveidotāji          = [[Džimijs Veilss]],<br />[[Lerijs Sendžers]]<ref name=Sidener>{{en ikona}} {{Ziņu atsauce | url = http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html | author = Jonathan Sidener | title = Everyone's Encyclopedia | work = The San Diego Union-Tribune | accessdate = 2006-10-15}}</ref>
+| darbību_uzsāka       = {{dat|2001|1|15}}
+| valodas              = 269 aktīvas (281 kopā)
+| komerciāla           = Nē
+| reģistrācija         = Iespējama
+| reģistrēti_lietotāji = 
+| popularitāte         = {{flaga|ASV}} 6. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/US | title= Alexa - Top Sites in United States | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2016-04-09 | archive-url= https://web.archive.org/web/20160409001248/http://www.alexa.com/topsites/countries/US }}</ref><br />{{flaga|Vācija}} 7. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/DE | title= Alexa - Top Sites in Germany | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2014-08-28 | archive-url= https://web.archive.org/web/20140828060304/http://www.alexa.com/topsites/countries/DE }}</ref><br />{{flaga|Igaunija}} 7. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/EE | title= Alexa - Top Sites in Estonia | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2011-09-02 | archive-url= https://web.archive.org/web/20110902102932/http://www.alexa.com/topsites/countries/EE }}</ref><br />{{flaga|Francija}} 5. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/FR | title= Alexa - Top Sites in France | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2016-04-04 | archive-url= https://web.archive.org/web/20160404030104/http://www.alexa.com/topsites/countries/FR }}</ref><br />{{flaga|Lietuva}} 9. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/LT | title= Alexa - Top Sites in Lithuania | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2015-02-07 | archive-url= https://web.archive.org/web/20150207100004/http://www.alexa.com/topsites/countries/LT }}</ref><br />{{flaga|Apvienotā Karaliste}} 9. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/GB | title= Alexa - Top Sites in United Kingdom | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2014-07-13 | archive-url= https://web.archive.org/web/20140713140702/http://www.alexa.com/topsites/countries/GB }}</ref><br />{{flaga|Latvija}} 13. vieta<ref>{{en ikona}} {{tīmekļa atsauce | url= http://www.alexa.com/topsites/countries/LV | title= Alexa - Top Sites in Latvia | publisher= alexa.com | accessdate= 2014-05-20 | archive-date= 2014-11-13 | archive-url= https://web.archive.org/web/20141113065637/http://www.alexa.com/topsites/countries/LV }}</ref>
+| mājas_lapa           = [http://www.wikipedia.org/ wikipedia.org]
+}}
+
+'''Vikipēdija''' (''Wikipedia'') ir brīva, daudzvalodu [[enciklopēdija]] ar bezmaksas saturu, kuras ikdienas darbību nodrošina [[bezpeļņas organizācija]] ''[[Wikimedia Foundation]]''. Kopš tās dibināšanas 2001. gadā, Vikipēdija ir kļuvusi par vienu no populārākajām uzziņu un ziņu vietnēm [[vispasaules tīmeklis|vispasaules tīmeklī]], kā arī vienu no apmeklētākajām [[mājaslapa|mājaslapām]] visā pasaulē.<ref name="AlexaStats" /><ref name=Tancer /><ref name=Woodson /><ref name="AlexaTop500" />
+
+Nosaukums "Vikipēdija" ir hibrīdvārds, kas cēlies no vārdiem "[[wiki]]" un "[[enciklopēdija]]". Vikipēdija tika palaista darbībā {{dat|2001|1|15||bez}}. Par tās dibinātājiem uzskata [[Džimijs Veilss|Džimiju Veilsu]] un [[Lerijs Sendžers|Leriju Sendžeru]].<ref name="MiliardWho" /> Vikipēdijā ir vairāk nekā 55 miljons rakstu, no tiem visvairāk ir [[angļu valodas Vikipēdija|angļu valodā]] (vairāk nekā 6 000 000), [[zviedru valodas Vikipēdija|zviedru]] (vairāk nekā 3 000 000), [[vācu valodas Vikipēdija|vācu]], [[franču valodas Vikipēdija|franču]]  (vairāk nekā 2 000 000), [[nīderlandiešu valodas Vikipēdija|nīderlandiešu]], [[krievu valodas Vikipēdija|krievu]],  [[itāļu valodas Vikipēdija|itāļu]], [[spāņu valodas Vikipēdija|spāņu]], [[poļu valodas Vikipēdija|poļu]],  [[vjetnamiešu valodas Vikipēdija|vjetnamiešu]],  [[japāņu valodas Vikipēdija|japāņu]], [[ķīniešu valodas Vikipēdija|ķīniešu]], [[arābu valodas Vikipēdija|arābu]], [[portugāļu valodas Vikipēdija|portugāļu]] un dažu citu valodu (vairāk nekā 1 000 000) Vikipēdijas versijās.
+
+Vikipēdijas kritiķi norāda uz tās sistemātisko aizspriedumainību un nesaskaņotību,<ref name="SangerElitism" /> kā arī uz to, ka rakstus var labot arī tādi cilvēki, kam nav zināšanu konkrētajā jomā.<ref name="AcademiaAndWikipedia" />
+
+{{dat|2020|1|15||bez}} Vikipēdijā bija 309 dažādu valodu versijas (262 no tām bija vairāk nekā 1000 rakstu). Vikipēdija darbojas, izmantojot [[wiki]] programmatūru ''[[MediaWiki]]''.
+
+[[Vikipēdija latviešu valodā]] tika izveidota [[2003. gads|2003]]. gada jūnijā, un tajā pašlaik ir vairāk nekā {{formatnum:{{#invoke:math|round|{{NUMBEROFARTICLES:R}}|-3}}}} rakstu.
+
+== Vēsture ==
+Vikipēdija bija turpinājums projektam ''[[Nupedia]]'', kur [[angļu valoda|angļu valodā]] tika rakstīti raksti, kurus publicēja tikai pēc tam, kad tos bija caurskatījuši eksperti.<ref>[[Andreas Kaplan|Kaplan Andreas]], Haenlein Michael (2014) Collaborative projects (social media application): About Wikipedia, the free encyclopedia. Business Horizons, Volume 57 Issue 5, pp.617-626</ref> ''Nupedia'' tika izveidota {{dat|2000|3|9||bez}}.
+
+Tā kā šis process bija ļoti laikietilpīgs, tad [[Džimijs Veilss]], ''Nupedia'' veidotājs, nolēma izveidot Vikipēdiju, kur ikviens var veidot, mainīt un uzlabot enciklopēdiskos rakstus.
+
+== Vikipēdijas būtība ==
+Vikipēdija paredzēta plašam lasītāju lokam — no skolēniem līdz pat zinātniekiem.
+
+=== Rakstu labošana ===
+Atšķirībā no tradicionālajām enciklopēdijām, piemēram, ''[[Encyclopædia Britannica]]'', nevienu rakstu Vikipēdijā nenovērtē eksperti. Neviens raksts nepieder tā izveidotājam vai kādam citam dalībniekam. Tā kā Vikipēdija aptver dažādas tēmas, tajā var ietilpt materiāli, ko daži cilvēki, tostarp Vikipēdijas dalībnieki,<ref>{{Ziņu atsauce |url=http://www.news.com.au/technology/story/0,25642,24318423-5014239,00.html |title=Wikipedia users divided over sexual material |date=2008-09-09 |last=Schliebs |first=Mark |publisher=news.com.au |archiveurl=https://web.archive.org/web/20080911235604/http://www.news.com.au/technology/story/0,25642,24318423-5014239,00.html |archivedate=2008-09-11 |access-date=2012-10-20 }}</ref> var uzskatīt par nevēlamiem, aizskarošiem vai pornogrāfiskiem.<ref>{{Tīmekļa atsauce |url=http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not#Wikipedia_is_not_censored |title=Wikipedia is not censored |publisher=Wikipedia |accessdate=2008-04-30}}</ref>
+
+=== Rakstu izveidošana ===
+Vikipēdijas rakstus brīvprātīgi veido tās dalībnieki. Jebkuru no šiem rakstiem, izņemot aizsargātos, var labot ikviens, kam ir nodrošināta pieeja Vikipēdijai.<ref>Dažās pasaules vietās ir (vai ir bijusi) bloķēta pieeja Vikipēdijai</ref> Vikipēdijā nav apmaksātu autoru un dalībnieku, visa informācija tiek pievienota bez atlīdzības, Vikipēdijas dalībnieki to dara brīvprātīgi. Dalībnieki, kas Vikipēdijā apzinīgi darbojas jau ilgāku laiku un snieguši devumu Vikipēdijas attīstībā, var kļūt arī par [[Vikipēdija:Administratori|administratoriem]]. Administratori palīdz uzturēt Vikipēdiju, novērst vandalismu, bet viņiem nav nekādu priekšrocību rakstu izveidošanas vai labošanas ziņā salīdzinājumā ar pārējiem dalībniekiem.
+
+Veidojot rakstus, dalībnieku darbībām jābūt saskaņotām ar [[:en:Fair use under United States law|autortiesību likumiem]], kas darbojas ASV un [[Floridas štats|Floridas štatā]].
+
+Publicējot savus darbus Vikipēdijā, tās autori piekrīt, ka viss raksta saturs ir brīvi izmantojams pēc ''[[Creative Commons]] Attribution/Share-Alike License''<ref>[http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License]</ref> licences. Turklāt tiek ievērotas visas [[Vikipēdija:Autortiesības|autortiesības]].
+
+=== Vikipēdijas kritika ===
+[[Attēls:John Seigenthaler Sr. speaking.jpg|right|200px|thumb|Džons Saigentalers raksturo Vikipēdiju kā "nekorektu un bezatbildīgu izpētes instrumentu"<ref name="Seigenthaler">{{Ziņu atsauce |url= http://www.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm | last= Seigenthaler | first= John | title= A False Wikipedia 'biography' | date= 2005-11-29 | publisher= USA Today}}</ref>]]
+Kā jebkuram lielam projektam, arī Vikipēdijai ir savi trūkumi.
+
+Tomēr brīvajā enciklopēdijā (tajā katrs var papildināt informāciju), pastāv mehānismi, kuri nodrošina atbildes uz šo kritiku un vismaz daļēji izskaidro, kā vajag cīnīties ar trūkumiem vai arī kāpēc ar tiem var samierināties.
+
+==== Informācijas nepatiesums ====
+Galvenais kritikas iemesls ir tas, ka Vikipēdiju var papildināt ikviens cilvēks, līdz ar to vairumā gadījumu neviens nevar garantēt, ka informācija ir patiesa. Tēmas nav apskatītas vienādā daudzumā (par vienu tēmu var būt uzrakstīts daudz labu rakstu, bet par citu — tikai kāds īss raksts). Pastāv arī zināms risks, ka kāds administrators varētu izmantot savas tiesības sliktiem mērķiem, kā arī Vikipēdijas izmantošana viltus ziņu izplatīšanai.
+
+==== Anonīmās izmaiņas un vandalisms ====
+Vikipēdijā jaunu informāciju var ievietot ikviens, tāpēc var gadīties, ka tiek ievietota ļoti zemas kvalitātes informācija. Dažkārt dalībnieki veic vandalismu — lapu satura dzēšanu vai bojāšanu, lai tajā būtu nepatiesa informācija un mazinātos tās autoritāte. Visbiežāk vandalisms ir lapas satura dzēšana, lamuvārdu vai nesakarīgu simbolu sakopojumu ierakstīšana tekstā, skaitļu vai dzimšanas datu pārlabošana un citi labojumi, kam nav nekāda sakara ar lapas tekstu. Parasti to dara anonīmie dalībnieki, kuri nav reģistrējuši savu [[Lietotājvārds|lietotājvārdu]], taču ir arī gadījumi, kad dalībnieks piereģistrējas, bet lielākā daļa no viņa darbībām ir vandalisms.
+
+== Logo evolūcija ==
+<gallery mode="packed">
+File:Wiki logo Nupedia.jpg|Dibināšana — 2001. gada beigas (pagaidu)
+File:Wiki logo The Cunctator.png|2001. gada beigas — 2003. gada 12. oktobris
+File:Wikipedia-logo-en.png|2003. gada 13. oktobris – 2010. gada 13. maijs
+File:Wikipedia-logo-v2.svg|2010. gada 13. maijs – pašlaik
+</gallery>
+
+== Skatīt arī ==
+* [[Vikipēdija angļu valodā]]
+* [[Vikipēdija latviešu valodā]]
+* [[274301 Wikipedia]]
+* [[Vikipēdijas piemineklis]]
+
+== Atsauces un piezīmes ==
+{{atsauces|2|refs=
+
+<ref name=MiliardWho>{{en ikona}} {{Ziņu atsauce | url = http://www.cityweekly.net/utah/article-5129-feature-wikipediots-who-are-these-devoted-even-obsessive-contributors-to-wikipedia.html|author=Mike Miliard | title = Wikipediots: Who Are These Devoted, Even Obsessive Contributors to Wikipedia? | work = Salt Lake City Weekly | date = 2008-03-01 | accessdate = 2008. gada 18. decembrī}}</ref>
+
+<ref name="AlexaStats">{{en ikona}} {{Tīmekļa atsauce | url = http://www.alexa.com/data/details/traffic_details/wikipedia.org?range=5y&size=large&y=t | title = Five-year Traffic Statistics for Wikipedia.org | publisher = Alexa Internet | accessdate = 2008. gada 15. jūlijā | archive-date = {{dat|2022|01|24||bez}} | archive-url = https://web.archive.org/web/20220124042758/https://www.alexa.com/siteinfo/wikipedia.org?range=5y }}</ref>
+
+<ref name=Tancer>{{en ikona}} {{Ziņu atsauce | url = http://www.time.com/time/business/article/0,8599,1595184,00.html | title = Look Who's Using Wikipedia | author = Bill Tancer | date = 2007-05-01 | publisher = ''Time'' | accessdate = 2007. gada 1. decembrī | quote = The sheer volume of content [...] is partly responsible for the site's dominance as an online reference. When compared to the top 3,200 educational reference sites in the U.S., Wikipedia is #1, capturing 24.3% of all visits to the category | archive-date = 2012-08-03 | archive-url = https://web.archive.org/web/20120803185245/http://www.time.com/time/business/article/0,8599,1595184,00.html }} Cf. Bill Tancer (Global Manager, Hitwise), [http://weblogs.hitwise.com/bill-tancer/2007/03/wikipedia_search_and_school_ho.html "Wikipedia, Search and School Homework"] {{Webarchive|url=https://web.archive.org/web/20120325220239/http://weblogs.hitwise.com/bill-tancer/2007/03/wikipedia_search_and_school_ho.html |date={{dat|2012|03|25||bez}} }}, ''Hitwise'': An Experian Company (Blog), March 1, 2007. Atjaunots 2008. gada 18. decembrī</ref>
+
+<ref name=Woodson>{{en ikona}} {{Ziņu atsauce | url = http://www.reuters.com/article/internetNews/idUSN0819429120070708 | title = Wikipedia remains go-to site for online news | date = 2007-07-08 | author = Alex Woodson | work = Reuters | accessdate = 2007. gada 16. decembrī | quote = Online encyclopedia Wikipedia has added about 20 million unique monthly visitors in the past year, making it the top online news and information destination, according to Nielsen//NetRatings.}}</ref>
+
+<ref name="AlexaTop500">{{en ikona}} {{Tīmekļa atsauce | url = http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none | title = Top 500 | publisher = Alexa | accessdate = 2007. gda 4. decembrī | archive-date = {{dat|2007|12|21||bez}} | archive-url = https://web.archive.org/web/20071221013528/http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none }}</ref>
+
+<ref name="SangerElitism">{{en ikona}} Larry Sanger, [http://www.kuro5hin.org/story/2004/12/30/142458/25 Why Wikipedia Must Jettison Its Anti-Elitism], Kuro5hin, December 31, 2004.</ref>
+
+<ref name="AcademiaAndWikipedia">{{en ikona}} {{Tīmekļa atsauce | author = Danah Boyd | url = http://many.corante.com/archives/2005/01/04/academia_and_wikipedia.php | title = Academia and Wikipedia | work = Many 2 Many: A Group [[Blog|Weblog]] on Social Software | publisher = Corante | date = 2005-01-04 | accessdate = 2008. gada 18. decembrī | quote = [The author, Danah Boyd, describes herself as] an expert on social media[,] ... a doctoral student in the School of Information at the University of California, Berkeley[,] and a fellow at the Harvard University Berkman Center for Internet & Society [at Harvard Law School.] | archiveurl = https://web.archive.org/web/20060316184224/http://many.corante.com/archives/2005/01/04/academia_and_wikipedia.php | archivedate = 2006-03-16 }}</ref>
+}}
+
+== Ārējās saites ==
+{{refbegin}}
+* [http://wikipedia.org wikipedia.org], daudzvalodu portāls
+* [http://www.wikimediafoundation.org Wikimedia Foundation]
+* [http://twitter.com/Wikipedia Vikipēdija ''twitterī'']
+* [https://web.archive.org/web/20170710105853/https://www.wikistatistics.net/ Statistika]
+* Žurnāls "Nedēļa" (2008. gada 18. aprīlis). [http://tvnet.lv/tehnologijas/internets/102937-cirpt_vai_neapcirpt_vikipediju Cirpt vai neapcirpt Vikipēdiju]. [[tvnet.lv]].
+{{refend}}
+
+{{Wikimedia Foundation}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vikipēdija| ]]
+[[Kategorija:Wikimedia projekti]]

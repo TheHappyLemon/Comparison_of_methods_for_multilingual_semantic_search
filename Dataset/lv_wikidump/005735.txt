@@ -1,0 +1,79 @@
+{{citas nozīmes|pilsētu Ukrainā|Nikolajeva (nozīmju atdalīšana)|Nikolajeva}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Mikolajiva
+ | official_name            = ''Миколаїв''
+ | settlement_type          = pilsēta
+ | image_skyline            = {{Photomontage|position=center
+ | photo1a                       = Музей суднобудування та флоту, Миколаїв.jpg
+ | photo2a                       = 48-101-0110 Адміральська, 20.jpg
+ | photo2b                       = Mykolaiv. Russian Drama Theatre.jpg
+ | photo3a                       = Николаев. Строительный колледж..JPG
+ | photo3b                       = Николаев. Краеведческий музей..JPG
+ | photo4a                       = Кирха - panoramio.jpg
+ | photo4b                       = Католицький костьол у місті Миколаїв.jpg
+ | photo4c                       = Кафедральный собор Касперовской иконы Божьей Матери.JPG
+   | size                       = 250
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+ | image_caption            = 
+ | image_flag               = Flag of Mykolaiv.svg
+ | image_seal               = 
+ | image_shield             = Coat of arms of Nikolayev.svg
+ | shield_link              = 
+ | flag_size                = 
+ | shield_size              = 75px
+ | pushpin_map              = Ukraina#Mikolajivas apgabals
+ | pushpin_label_position   = 
+ | latd = 46| latm = 58| lats =31| latNS = N
+ | longd = 31| longm = 59| longs = 37| longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{UKR}}
+ | subdivision_type1        = Apgabals
+ | subdivision_name1        = [[Attēls:Flag of Mykolaiv Oblast.svg|23px|border]] [[Mikolajivas apgabals|Mikolajivas apg.]]
+ | subdivision_type2        = Rajons
+ | subdivision_name2        = [[Mikolajivas rajons (Mikolajivas apgabals)|Mikolajivas rajons]]
+ | established_title        = Dibināta
+ | established_date         = 1788. gadā
+ | established_title1       = Pilsētas tiesības
+ | established_date1        = 1790. gadā
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 260
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2014
+ | population_footnotes     = 
+ | population_total         = 494638
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas vasaras laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 54000—54490
+ | area_code                = +380-512
+ | elevation_footnotes      = 
+ | elevation_m              = 42
+ | website                  = {{URL|http://www.gorsovet.mk.ua/home.ua}}
+ | footnotes                = 
+}}
+'''Mikolajiva'''<ref>{{Tīmekļa atsauce |url=https://www.lsm.lv/raksts/kultura/kulturtelpa/tulkotaji-rakstnieki-un-valodnieki-aicina-valodas-centru-parskatit-ukrainas-pilsetu-nosaukumus-latviesu-valoda.a445822/ |title=Tulkotāji, rakstnieki un valodnieki aicina valodas centru pārskatīt Ukrainas pilsētu nosaukumus latviešu valodā |date=2022. gada 1. februāris |publisher=[[Latvijas Sabiedriskais medijs]] |access-date=2022. gada 1. februārī}}</ref> ({{val|uk|Миколаїв}}) jeb iepriekš '''Nikolajeva'''<ref>{{Laikraksta atsauce |url=https://www.vestnesis.lv/op/2017/208.18 |title=Par Ukrainas pilsētu nosaukumu atveidi latviešu valodā |journal=[[Latvijas Vēstnesis]] |author=[[Valsts valodas centrs]] |issue=Nr. 208 |date=2017. gada 19. oktobris |access-date=2018. gada 23. jūlijā}}</ref> ({{val|ru|Никола́ев}}) ir pilsēta [[Ukraina]]s dienvidos, [[Mikolajivas apgabals|Mikolajivas apgabala]] administratīvais centrs. Izvietojusies apgabala dienviddaļā pie [[Inhula]]s ietekas [[Dienvidu Buga|Dienvidu Bugā]] {{nobr|470 km}} no valsts galvaspilsētas [[Kijiva]]s. [[Mikolajivas rajons (Mikolajivas apgabals)|Mikolajivas]] rajona administratīvais centrs. Pilsēta administratīvi iedalās četros rajonos.<ref>[http://w1.c1.rada.gov.ua/pls/z7503/A008?rdat1=14.06.2014&rf7571=22930 Склад адміністративно-територіальної одиниці. Миколаївська область, м Миколаїв]</ref> Ievērojams kuģubūves centrs [[Melnā jūra|Melnās jūras]] reģionā.
+
+== Vēsture ==
+Pilsētu kā kuģubūvētavu 1788. gadā [[Inhula]]s upes grīvā sāka būvēt pēc kņaza [[Grigorijs Potjomkins|Potjomkina]] rīkojuma. Savu nosaukumu pilsēta ieguva 1789. gadā par godu [[Turcija|turku]] [[Očakiva]]s cietokšņa ieņemšanai jūrnieku aizbildņa [[Svētais Nikolajs|Svētā Nikolaja]] dienā. 1862. gadā pilsētā tika atvērta tirdzniecības osta un pilsētā ļāva apmesties ārzemniekiem, kas ļāva attīstīties tirdzniecībai un komercijai. Padomju laikā Mikolajiva bija valsts lielākais [[kuģubūve]]s centrs, kur darbojās trīs kuģubūves rūpnīcas. Attīstīta arī [[mašīnbūve]], krāsainā [[metalurģija]] un citas nozares.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Mikolajivas apgabala pilsētas}}
+{{Ukrainas varoņpilsētas}}

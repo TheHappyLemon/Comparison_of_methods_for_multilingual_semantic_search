@@ -1,0 +1,4697 @@
+'''Latvijas ezeru uzskaitījums''' uzrāda 20 Latvijas dziļākos ezerus pēc to maksimālā dziļuma [[metrs|metros]] un 143 Latvijas lielākos [[ezers|ezerus]], kuru virsmas platība pārsniedz 1 km<sup>2</sup>, izņemot zivju dīķus.
+
+Latvijā ir 2256 ezeri, kuru virsmas platība pārsniedz 1 hektāru.
+
+== Latvijas lielākie ezeri ==
+
+{| class="wikitable"
+! width="20" | Nr.
+! Foto
+! align="left" | Nosaukums
+! Platība (km<sup>2</sup>)
+! Garums (km)
+! Vidējais dziļums (m)
+! Lielākais dziļums (m)
+! Augstums v.j.l. (m)
+! Salu skaits
+! Lielbaseins
+! Pašvaldība
+! Koordinātas
+! Karte
+|-
+|1.
+| [[Attēls:Lubans R piekr.jpg|180px]]
+| align="left" | [[Lubāns]]
+| align="right" | 80,70
+| align="right" | 15,7
+| 1,6
+| 2,5
+| 90
+| 1
+| [[Daugava]]s
+| [[Madonas novads|Madonas]] un [[Rēzeknes novads]]
+| 56°46′Z 26°52′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Lubāns}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|46}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|52}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|2.
+| [[Attēls:Rāznas ezers, Mākoņkalna pagasts, Rēzeknes novads, Latvia - panoramio.jpg|180px]]
+| align="left" | [[Rāznas ezers]]
+| align="right" | 57,56
+| align="right" | 12,1
+| 7,0
+| 17,0
+| 163,8
+| 10
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°19′Z 27°27′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Rāznas ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|19}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|27}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|3.
+| [[Attēls:Engures ezers (Lake Engure) - Uldis Osis - Panoramio.jpg|180px]]
+| align="left" | [[Engures ezers]]
+| align="right" | 40,46
+| align="right" | 17,9
+| 0,4
+| 2,1
+| 3,2
+| 9
+| [[Mērsraga kanāls|Mērsraga kanāla]]
+| [[Talsu novads|Talsu]] un [[Tukuma novads]]
+| 57°16′Z 23°6′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Engures ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|16}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|23}}}}}<!--
+       -->|{{ifempty|{{{gar_m|6}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|4.
+| [[Attēls:Burtnieku_ezers_pie_Burtniekiem.jpg|180px]]
+| align="left" | [[Burtnieks]]
+| align="right" | 40,07
+| align="right" | 13,3
+| 2,9
+| 4,1
+| 39,5
+| 2
+| [[Salaca]]s
+| [[Valmieras novads]]
+| 57°44′Z 25°14′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Burtnieks}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|44}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|14}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|5.
+| [[Attēls:Liepājas lake and damb - panoramio.jpg|180px]]
+| align="left" | [[Liepājas ezers]]
+| align="right" | 37,15
+| align="right" | 16,2
+| 2
+| 3
+| 0,2
+| 15
+| [[Bārta]]s
+| [[Dienvidkurzemes novads]]
+| 56°28′Z 21°4′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Liepājas ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|28}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|4}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|6.
+| [[Attēls:Rīgas HES ūdenskrātuve, dienvidu krasts.jpg|180px]]
+| align="left" | [[Rīgas ūdenskrātuve]]
+| align="right" | 35,8
+| align="right" | 35
+| 7,1
+| 17,4
+| 17,4
+| 5
+| [[Daugava]]s
+| [[Ķekavas novads|Ķekavas]], [[Ogres novads|Ogres]] un [[Salaspils novads]]
+| 56°50′32″Z 24°18′1″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Rīgas ūdenskrātuve}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|50}}}}}<!--
+       -->|{{ifempty|{{{plat_s|32}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|18}}}}}<!--
+       -->|{{ifempty|{{{gar_s|1}}}}}<!--
+       -->}}
+}}
+|-
+|7.
+| [[Attēls:Daugava near Plavinas.jpg|180px]]
+| align="left" | [[Pļaviņu ūdenskrātuve]]
+| align="right" | 35
+| align="right" | 45
+| 14,6
+| 47
+| 71,5
+| 50
+| [[Daugava]]s
+| [[Aizkraukles novads|Aizkraukles]] un [[Jēkabpils novads]]
+| 56°35′15″Z 25°15′58″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Pļaviņu ūdenskrātuve}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|35}}}}}<!--
+       -->|{{ifempty|{{{plat_s|15}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|15}}}}}<!--
+       -->|{{ifempty|{{{gar_s|58}}}}}<!--
+       -->}}
+}}
+|-
+|8.
+| [[Attēls:Usmas ezers.JPG|180px]]
+| align="left" | [[Usmas ezers]]
+| align="right" | 34,69
+| align="right" | 13,5
+| 5,4
+| 27
+| 21,1
+| 7
+| [[Irbe (upe)|Irbes]]
+| [[Ventspils novads]]
+| 57°12′Z 22°10′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Usmas ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|10}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|9.
+| [[Attēls:Babītes ezers 01.jpg|180px]]
+| align="left" | [[Babītes ezers]]
+| align="right" | 25,56
+| align="right" | 14
+| 0,9
+| 1,7
+| 0,2
+| 1
+| [[Lielupe]]s
+| [[Mārupes novads]]
+| 56°55′23″Z 23°45′1″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Babītes ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|55}}}}}<!--
+       -->|{{ifempty|{{{plat_s|23}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|23}}}}}<!--
+       -->|{{ifempty|{{{gar_m|45}}}}}<!--
+       -->|{{ifempty|{{{gar_s|1}}}}}<!--
+       -->}}
+}}
+|-
+|10.
+| [[Attēls:Puduri - panoramio - Dmitrij M (2).jpg|180px]]
+| align="left" | [[Ķeguma ūdenskrātuve]]
+| align="right" | 24,9
+| align="right" | 50
+| 6,3
+| 16,5
+| 32
+| 9
+| [[Daugava]]s
+| [[Aizkraukles novads|Aizkraukles]] un [[Ogres novads]]
+| 56°44′Z 24°43′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Ķeguma ūdenskrātuve}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|44}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|43}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|11.
+| [[Attēls:Rušons.jpg|180px]]
+| align="left" | [[Rušons]]
+| align="right" | 23,73
+| align="right" | 13
+| 2,9
+| 29,9
+| 149,8
+| 20
+| [[Daugava]]s
+| [[Preiļu novads|Preiļu]] un [[Rēzeknes novads]]
+| 56°11′Z 27°2′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Rušons}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|11}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|2}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|12.
+| [[Attēls:Sīvera_ezers.jpg|180px]]
+| align="left" | [[Sivers]]
+| align="right" | 17,59
+| align="right" | 8,1
+| 6,3
+| 24,5
+| 159,4
+| 20
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°1′Z 27°20′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Sivers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|1}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|20}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|13.
+| [[Attēls:Kisezers zoo.jpg|180px]]
+| align="left" | [[Ķīšezers]]
+| align="right" | 17,30
+| align="right" |8,4
+| 2,4
+| 4,5
+| 0,1
+| 3
+| [[Daugava]]s
+| [[Rīga]]
+| 57°01′Z 24°11′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Ķīšezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|01}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|11}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|14.
+| [[Attēls:Alūksne lake.jpg|180px]]
+| align="left" | [[Alūksnes ezers]]
+| align="right" | 15,43
+| align="right" | 6,6
+| 6,7
+| 20,0
+| 183,7
+| 4
+| [[Daugava]]s
+| [[Alūksnes novads]]
+| 57°27′Z 27°5′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Alūksnes ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|27}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|5}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|15.
+| [[Attēls:Вид на озеро Ричу.jpg|180px]]
+| align="left" | [[Riču ezers]]
+| align="right" | 12,83 (Latvijā 5,88)
+| align="right" | 5,8
+| 9,7
+| 51,9
+| 146,2
+| 5
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°42′9″Z 26°42′35″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Riču ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|42}}}}}<!--
+       -->|{{ifempty|{{{plat_s|9}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|42}}}}}<!--
+       -->|{{ifempty|{{{gar_s|35}}}}}<!--
+       -->}}
+}}
+|-
+|16.
+| [[Attēls:Skats uz Cirma ezeru, 14.07.2007..jpg|180px]]
+| align="left" | [[Cirms]]
+| align="right" | 12,61
+| align="right" |
+| 3,0
+| 8,5
+| 137,8
+| 0
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°33′Z 27°36′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Cirms}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|33}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|36}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|17.
+| [[Attēls:Papes ezers sept2013.jpg|180px]]
+| align="left" | [[Papes ezers]]
+| align="right" | 12,05
+| align="right" | 8,3
+| 0,5
+| 1,1
+| 0,1
+| 12
+| [[Papes ezera kanāls|Papes ezera kanāla]]
+| [[Dienvidkurzemes novads]]
+| 56°12′Z 21°3′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Papes ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|3}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|18.
+| [[Attēls:Kanieris 21mai2022.jpg|180px]]
+| align="left" | [[Kaņieris]]
+| align="right" | 11,28
+| align="right" | 5,2
+| 0,6
+| 1,8
+| 2,2
+| 14
+| [[Starpiņupīte]]s
+| [[Tukuma novads]]
+| 57°0′11″Z 23°28′9″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Kaņieris}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|01}}}}}<!--
+       -->|{{ifempty|{{{plat_s|11}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|23}}}}}<!--
+       -->|{{ifempty|{{{gar_m|28}}}}}<!--
+       -->|{{ifempty|{{{gar_s|9}}}}}<!--
+       -->}}
+}}
+|-
+|19.
+| [[Attēls:Ežezers pie Ezernieku - Andzeļu ceļa.JPG|180px]]
+| align="left" | [[Ežezers]]
+| align="right" | 9,88
+| align="right" | 8,2
+| 6,4
+| 21,0
+| 169,4
+| 41 — 45
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°10′Z 27°35′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Ežezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|10}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|35}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|20.
+| [[Attēls:Greater Lake Ludza.JPG|180px]]
+| align="left" | [[Lielais Ludzas ezers]]
+| align="right" | 8,46
+| align="right" | 7,0
+| 3,5
+| 6,5
+| 132,3
+| 4
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°33′Z 27°44′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|}}}|Lielais Ludzas ezers}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|33}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|44}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|21.
+| [[Attēls:Alauksta ezers pie Cēsu - Madonas ceļa.jpg|180px]]
+| align="left" | [[Alauksts]]
+| align="right" | 7,75
+| align="right" | 4,8
+| 3,3
+| 7,0
+| 202,3
+| 2
+| [[Daugava]]s
+| [[Cēsu novads]]
+| 57°5′39″Z 25°46′33″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Alauksts}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|5}}}}}<!--
+       -->|{{ifempty|{{{plat_s|39}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|46}}}}}<!--
+       -->|{{ifempty|{{{gar_s|33}}}}}<!--
+       -->}}
+}}
+|-
+|22.
+| [[Attēls:Saukas ezers.JPG|180px]]
+| align="left" | [[Saukas ezers]]
+| align="right" | 7,71
+| align="right" | 6,2
+| 5,1
+| 9,5
+| 78,7
+| 0
+| [[Lielupe]]s
+| [[Jēkabpils novads]]
+| 56°15′47″Z 25°28′4″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Saukas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|15}}}}}<!--
+       -->|{{ifempty|{{{plat_s|47}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|28}}}}}<!--
+       -->|{{ifempty|{{{gar_s|4}}}}}<!--
+       -->}}
+}}
+|-
+|23.
+| [[Attēls:Drīdzis-laivu piestātne. Lake Dridzis - panoramio.jpg|180px]]
+| align="left" | [[Drīdzis]]
+| align="right" | 7,53
+| align="right" | 9,8
+| 12,8
+| 66,17
+| 159,2
+| 9
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 55°58′Z 27°16′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Drīdzis}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|58}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|16}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|24.
+| [[Attēls:Sventes ezers 2010.jpg|180px]]
+| align="left" | [[Sventes ezers]]
+| align="right" | 7,348
+| align="right" | 
+| 7,8
+| 38,0
+| 137,0
+| 4
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°51′Z 26°21′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sventes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|51}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|21}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|25.
+| 
+| align="left" | [[Durbes ezers]]
+| align="right" | 6,705
+| align="right" | 5,2
+| 1,5
+| 2,3
+| 23,2
+| 0
+| [[Saka (upe)|Sakas]]
+| [[Dienvidkurzemes novads]]
+| 56°36′56″Z 21°21′12″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Durbes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|36}}}}}<!--
+       -->|{{ifempty|{{{plat_s|56}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|21}}}}}<!--
+       -->|{{ifempty|{{{gar_s|12}}}}}<!--
+       -->}}
+}}
+|-
+|26.
+| [[Attēls:Cirišs, Aglonas pagasts.jpg|180px]]
+| align="left" | [[Cirišs]]
+| align="right" | 6,306
+| align="right" | 
+| 4,1
+| 10,0
+| 143,5
+| 8
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°8′Z 26°58′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Cirišs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|8}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|58}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|27.
+| [[Attēls:Feimaņu ezers.jpg|180px]]
+| align="left" | [[Feimaņu ezers]]
+| align="right" | 6,257
+| align="right" | 5
+| 1,1
+| 3,8
+| 153,9
+| 0
+| [[Daugava]]s
+| [[Preiļu novads|Preiļu]] un [[Rēzeknes novads]]
+| 56°16′Z 27°0′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Feimaņu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|16}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|28.
+| [[Attēls:Lielais Baltezers ar Priežu salu 2002-07-13.jpg|180px]]
+| align="left" | [[Lielais Baltezers]]
+| align="right" | 5,975
+| align="right" | 
+| 2,7
+| 5,9
+| 0,1
+| 5
+| [[Daugava]]s
+| [[Ādažu novads]]
+| 57°1′47″Z 24°17′46″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielais Baltezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|1}}}}}<!--
+       -->|{{ifempty|{{{plat_s|47}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|17}}}}}<!--
+       -->|{{ifempty|{{{gar_s|46}}}}}<!--
+       -->}}
+}}
+|-
+|29.
+| [[Attēls:Juglas ezers pie Berģiem.jpg|180px]]
+| align="left" | [[Juglas ezers]]
+| align="right" | 5,7
+| align="right" | 4,6
+| 1,7
+| 5,0
+| 0,2
+| 1
+| [[Daugava]]s
+| [[Rīga]]
+| 56°58.6′Z 24°17′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Juglas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|58}}}}}<!--
+       -->|{{ifempty|{{{plat_s|6}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|17}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|30.
+| [[Attēls:Raipole, Nirza Lake.jpg|180px]]
+| align="left" | [[Nierzas ezers]]
+| align="right" | 5,516
+| align="right" | 
+| 8,2
+| 21,0
+| 155,9
+| 0
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°23′Z 27°53′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Nierzas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|23}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|53}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|31.
+| [[Attēls:Puzes ezers.jpg|180px]]
+| align="left" | [[Puzes ezers]]
+| align="right" | 5,205
+| align="right" | 4,4
+| 12,1
+| 33,6
+| 12,3
+| 0
+| [[Irbe (upe)|Irbes]]
+| [[Ventspils novads]]
+| 57°20′Z 21°58′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Puzes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|20}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|58}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|32.
+| [[Attēls:Озеро Инесис.jpg|180px]]
+| align="left" | [[Inesis]]
+| align="right" | 5,19
+| align="right" | 3,8
+| 2,8
+| 4,9
+| 194,7
+| 7
+| [[Daugava]]s
+| [[Cēsu novads]]
+| 57°1′55″Z 25°47′21″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Inesis}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|1}}}}}<!--
+       -->|{{ifempty|{{{plat_s|55}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|47}}}}}<!--
+       -->|{{ifempty|{{{gar_s|21}}}}}<!--
+       -->}}
+}}
+|-
+|33.
+| [[Attēls:Озеро Лобес.jpg|180px]]
+| align="left" | [[Lobes ezers]]
+| align="right" | 4,97
+| align="right" | 
+| 0,9
+| 2,2
+| 
+| 0
+| [[Daugava]]s
+| [[Ogres novads]]
+| 56°43′20″Z 25°16′41″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lobes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|43}}}}}<!--
+       -->|{{ifempty|{{{plat_s|20}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|16}}}}}<!--
+       -->|{{ifempty|{{{gar_s|41}}}}}<!--
+       -->}}
+}}
+|-
+|34.
+| [[Attēls:Dagdas ezers, Dagdas pagasts, Dagdas novads, Latvia.jpg|180px]]
+| align="left" | [[Dagdas ezers]]
+| align="right" | 4,841
+| align="right" | 
+| 5,2
+| 19,2
+| 
+| 11
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°5′Z 27°37′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dagdas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|5}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|37}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|35.
+| [[Attēls:Plisuns Lake.jpg|180px]]
+| align="left" | [[Plisūns]]
+| align="right" | 4,8
+| align="right" | 
+| 1,8
+| 3,8
+| 150,1
+| 1
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°13′16″Z 28°0′31″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Plisūns}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|13}}}}}<!--
+       -->|{{ifempty|{{{plat_s|16}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|28}}}}}<!--
+       -->|{{ifempty|{{{gar_m|}}}}}<!--
+       -->|{{ifempty|{{{gar_s|31}}}}}<!--
+       -->}}
+}}
+|-
+|36.
+| [[Attēls:Zebrus ezers, 01.10.2017. - 37005320533.jpg|180px]]
+| align="left" | [[Zebrus]]
+| align="right" | 4,43
+| align="right" | 3,6
+| 1,5
+| 3,9
+| 86,5
+| 1
+| [[Lielupe]]s
+| [[Dobeles novads]]
+| 56°38′Z 22°59′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Zebrus}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|38}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|59}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|37.
+| [[Attēls:Stropu_lake.jpg|180px]]
+| align="left" | [[Lielais Stropu ezers]]
+| align="right" | 4,18
+| align="right" | 3,35
+| 3,6
+| 6,3
+| 110,6
+| 0
+| [[Daugava]]s
+| [[Daugavpils]]
+| 55°54′43″Z 26°35′42″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielais Stropu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|54}}}}}<!--
+       -->|{{ifempty|{{{plat_s|43}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|35}}}}}<!--
+       -->|{{ifempty|{{{gar_s|42}}}}}<!--
+       -->}}
+}}
+|-
+|38.
+| [[Attēls:8. Вид на католический костел.jpg|180px]]
+| align="left" | [[Luknas ezers (Višķu pagasts)|Luknas ezers]]
+| align="right" | 4,09
+| align="right" | 
+| 2,4
+| 6,1
+| 100,0
+| 1
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 56°4′Z 26°46′A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Luknas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|4}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|46}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|39.
+| [[Attēls:IMG Kāla ezers2.jpg|180px]]
+| align="left" | [[Kālezers]]
+| align="right" | 4,071
+| align="right" | 3,4
+| 5,3
+| 14,8
+| 187,8
+| 5
+| [[Daugava]]s
+| [[Madonas novads]]
+| 56°51′44″Z 25°49′42″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Kālezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|51}}}}}<!--
+       -->|{{ifempty|{{{plat_s|44}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|49}}}}}<!--
+       -->|{{ifempty|{{{gar_s|42}}}}}<!--
+       -->}}
+}}
+|-
+|40.
+| [[Attēls:Tosmares Lake.jpg|180px]]
+| align="left" | [[Tosmares ezers]]
+| align="right" | 4,05
+| align="right" | 
+| 0,5
+| 1,2
+| 1,0
+| 1
+| [[Bārta]]s
+| [[Dienvidkurzemes novads]] un [[Liepāja]]
+| 56°34′47″Z 21°3′13″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Tosmares ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|34}}}}}<!--
+       -->|{{ifempty|{{{plat_s|47}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|3}}}}}<!--
+       -->|{{ifempty|{{{gar_s|13}}}}}<!--
+       -->}}
+}}
+|-
+|41.
+| [[Attēls:Augstroze.jpg|180px]]
+| align="left" | [[Augstrozes Lielezers]]
+| align="right" | 4
+| align="right" | 
+| 2,3
+| 4,2
+| 77,3
+| 0
+| [[Salaca]]s
+| [[Limbažu novads]]
+| 57°31′46″Z 25°0′54″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Augstrozes Lielezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|31}}}}}<!--
+       -->|{{ifempty|{{{plat_s|46}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|0}}}}}<!--
+       -->|{{ifempty|{{{gar_s|54}}}}}<!--
+       -->}}
+}}
+|-
+|42.
+| [[Attēls:View from the east shore of Ungurs.jpg|180px]]
+| align="left" | [[Ungurs]]
+| align="right" | 3,936
+| align="right" | 2,9
+| 3,5
+| 7,0
+| 69,4
+| 0
+| [[Gauja]]s
+| [[Cēsu novads]]
+| 57°20′21″Z 25°4′57″A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ungurs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|20}}}}}<!--
+       -->|{{ifempty|{{{plat_s|21}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|4}}}}}<!--
+       -->|{{ifempty|{{{gar_s|57}}}}}<!--
+       -->}}
+}}
+|-
+|43.
+| [[Attēls:Lielauces ezers - panoramio.jpg|180px]]
+| align="left" | [[Lielauces ezers]]
+| align="right" | 3,72
+| align="right" | 3
+| 1,5
+| 3,5
+| 100,8
+| 2
+| [[Lielupe]]s
+| [[Dobeles novads]]
+| 56°32′N 22°53′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielauces ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|32}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|53}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|44.
+| 
+| align="left" | [[Zolvas ezers]]
+| align="right" | 3,65
+| align="right" | 5,5
+| 2,8
+| 6,5
+| 149,8
+| 7
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°13′30″N 26°59′14″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Zolvas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|13}}}}}<!--
+       -->|{{ifempty|{{{plat_s|30}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|59}}}}}<!--
+       -->|{{ifempty|{{{gar_s|14}}}}}<!--
+       -->}}
+}}
+|-
+|45.
+| [[Attēls:Višķu ezers.jpg|180px]]
+| align="left" | [[Višķu ezers]]
+| align="right" | 3,601
+| align="right" | 2,6
+| 6,7
+| 20,8
+| 100,0
+| 1
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 56°3′N 26°49′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Višķu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|3}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|49}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|46.
+|
+| align="left" | [[Peiteļa ezers]]
+| align="right" | 3,47
+| align="right" | 2,5
+| 1,3
+| 2,2
+| 107,8
+| 0
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°36′16″N 28°2′22″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Peiteļa ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|36}}}}}<!--
+       -->|{{ifempty|{{{plat_s|16}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|28}}}}}<!--
+       -->|{{ifempty|{{{gar_m|2}}}}}<!--
+       -->|{{ifempty|{{{gar_s|22}}}}}<!--
+       -->}}
+}}
+|-
+|47.
+| [[Attēls:Būšnieku lake panorama.jpg|180px]]
+| align="left" | [[Būšnieku ezers]]
+| align="right" | 3,3
+| align="right" | 3
+| 1,2
+| 2,8
+| 11,1
+| 1
+| [[Baltijas jūra]]s piekrastes
+| [[Ventspils]]
+| 57°26′44″N 21°38′39″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Būšnieku ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|26}}}}}<!--
+       -->|{{ifempty|{{{plat_s|44}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|38}}}}}<!--
+       -->|{{ifempty|{{{gar_s|39}}}}}<!--
+       -->}}
+}}
+|-
+|48.
+| [[Attēls:Ilzas ezers 1999-08-17.jpg|180px]]
+| align="left" | [[Geraņimovas Ildzs]]
+| align="right" | 3,28
+| align="right" | 
+| 9,8
+| 46,0
+| 150,6
+| 1
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°9′25″N 27°9′25″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Geraņimovas Ildzs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|9}}}}}<!--
+       -->|{{ifempty|{{{plat_s|25}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|9}}}}}<!--
+       -->|{{ifempty|{{{gar_s|25}}}}}<!--
+       -->}}
+}}
+|-
+|49.
+|
+| align="left" | [[Aijažu ezers]]
+| align="right" | 3,114
+| align="right" | 2,4
+| 1,1
+| 1,8
+| 62,4
+| 0
+| [[Baltijas jūra]]s piekrastes
+| [[Siguldas novads]]
+| 57°22′55″N 24°43′12″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Aijažu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|22}}}}}<!--
+       -->|{{ifempty|{{{plat_s|55}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|43}}}}}<!--
+       -->|{{ifempty|{{{gar_s|12}}}}}<!--
+       -->}}
+}}
+|-
+|50.
+|
+| align="left" | [[Pildas ezers]]
+| align="right" | 2,946
+| align="right" | 3,2
+| 2,1
+| 4,5
+| 138,4
+| 9
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°28′16″N 27°46′18″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Pildas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|28}}}}}<!--
+       -->|{{ifempty|{{{plat_s|16}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|46}}}}}<!--
+       -->|{{ifempty|{{{gar_s|18}}}}}<!--
+       -->}}
+}}
+|-
+|51.
+|
+| align="left" | [[Ludza ezers]]
+| align="right" | 2,81
+| align="right" | 2,9
+| 4,0
+| 11,0
+| 124,5
+| 2
+| [[Daugava]]s
+| [[Gulbenes novads]]
+| 57°15′50″N 26°53′00″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ludza ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|15}}}}}<!--
+       -->|{{ifempty|{{{plat_s|50}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|53}}}}}<!--
+       -->|{{ifempty|{{{gar_s|00}}}}}<!--
+       -->}}
+}}
+|-
+|52.
+| [[Attēls:Cieceres ezers pie Brocēniem 2000-05-13.jpg|180px]]
+| align="left" | [[Cieceres ezers]]
+| align="right" | 2,768
+| align="right" | 9,5
+| 7,2
+| 22,0
+| 100,3
+| 1 (Ozolu sala)
+| [[Venta]]s
+| [[Saldus novads]]
+| 56°39′21″N 22°33′38″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Cieceres ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|39}}}}}<!--
+       -->|{{ifempty|{{{plat_s|21}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|33}}}}}<!--
+       -->|{{ifempty|{{{gar_s|38}}}}}<!--
+       -->}}
+}}
+|-
+|53.
+| 
+| align="left" | [[Dūņezers (Ādažu novads)|Dūņezers]]
+| align="right" | 2,741
+| align="right" | 4,0
+| 1,6
+| 3,3
+| 0,7
+| 1 (Pērssala)
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Ādažu novads]]
+| 57°09′00″N 24°21′30″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dūņezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|09}}}}}<!--
+       -->|{{ifempty|{{{plat_s|00}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|21}}}}}<!--
+       -->|{{ifempty|{{{gar_s|30}}}}}<!--
+       -->}}
+}}
+|-
+|54.
+| [[Attēls:Biržkalna ezers, Aglona Parish, Latvia.jpg|180px]]
+| align="left" | [[Bieržgaļa ezers]]
+| align="right" | 2,722
+| align="right" | 3,0
+| 2,7
+| 3,9
+| 149,8
+| 0
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°8′58″N 27°6′50″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Bieržgaļa ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|8}}}}}<!--
+       -->|{{ifempty|{{{plat_s|58}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|6}}}}}<!--
+       -->|{{ifempty|{{{gar_s|50}}}}}<!--
+       -->}}
+}}
+|-
+|55.
+| [[Attēls:Medumu_ezers_pie_Medumiem_2001-08-11.jpg|180px]]
+| align="left" | [[Meduma ezers]]
+| align="right" | 2,69
+| align="right" | 3,1
+| 6,9
+| 25,3
+| 135,9
+| 4
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°47′30″N 26°20′22″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Meduma ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|47}}}}}<!--
+       -->|{{ifempty|{{{plat_s|30}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|20}}}}}<!--
+       -->|{{ifempty|{{{gar_s|22}}}}}<!--
+       -->}}
+}}
+|-
+|56.
+| [[Attēls:Odzes_ezers.jpg|180px]]
+| align="left" | [[Odzes ezers]]
+| align="right" | 2,69
+| align="right" | 3
+| 3,7
+| 6,6
+| 92,1
+| 1
+| [[Daugava]]s
+| [[Aizkraukles novads]]
+| 56°40′11″N 25°42′33″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Odzes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|40}}}}}<!--
+       -->|{{ifempty|{{{plat_s|11}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|42}}}}}<!--
+       -->|{{ifempty|{{{gar_s|33}}}}}<!--
+       -->}}
+}}
+|-
+|57.
+|
+| align="left" | [[Ižuņa]]
+| align="right" | 2,652
+| align="right" | 3,5
+| 5,5
+| 18,0
+| 159,9
+| 4
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°09′26″N 27°16′30″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ižuņa}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|09}}}}}<!--
+       -->|{{ifempty|{{{plat_s|26}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|16}}}}}<!--
+       -->|{{ifempty|{{{gar_s|30}}}}}<!--
+       -->}}
+}}
+|-
+|58.
+| [[Attēls:Озеро_Язинска.jpg|180px]]
+| align="left" | [[Jazinks]]
+| align="right" | 2,369
+| align="right" | 4,2
+| 8,1
+| 33
+| 155,7
+| 1 (Čaika)
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°4′21″N 27°8′21″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Jazinks}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|4}}}}}<!--
+       -->|{{ifempty|{{{plat_s|21}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|8}}}}}<!--
+       -->|{{ifempty|{{{gar_s|21}}}}}<!--
+       -->}}
+}}
+|-
+|59.
+|
+| align="left" | [[Sila ezers (Skrudalienas pagasts)|Sila ezers]]
+| align="right" | 2,62
+| align="right" | 
+| 4,1
+| 6,8
+| 146,3
+| 1 (Liepu sala)
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°44′00″N 26°47′30″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sila ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|44}}}}}<!--
+       -->|{{ifempty|{{{plat_s|00}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|47}}}}}<!--
+       -->|{{ifempty|{{{gar_s|30}}}}}<!--
+       -->}}
+}}
+|-
+|60.
+| [[Attēls:Limbažu_lielezers_-_panoramio.jpg|180px]]
+| align="left" | [[Limbažu Lielezers]]
+| align="right" | 2,564
+| align="right" | 
+| 3,8
+| 6,5
+| 49,6
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Limbažu novads]]
+| 57°28′52″N 24°42′05″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Limbažu Lielezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|28}}}}}<!--
+       -->|{{ifempty|{{{plat_s|52}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|42}}}}}<!--
+       -->|{{ifempty|{{{gar_s|05}}}}}<!--
+       -->}}
+}}
+|-
+|61.
+| [[Attēls:Piksteres_ezers.JPG|180px]]
+| align="left" | [[Piksteres ezers]]
+| align="right" | 2,55
+| align="right" | 
+| 1,1
+| 4,2
+| 91,5
+| 0
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°27′00″N 25°34′10″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Piksteres ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|27}}}}}<!--
+       -->|{{ifempty|{{{plat_s|00}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|34}}}}}<!--
+       -->|{{ifempty|{{{gar_s|10}}}}}<!--
+       -->}}
+}}
+|-
+|62.
+|
+| align="left" | [[Šķaunes ezers]]
+| align="right" | 2,549
+| align="right" | 
+| 5,7
+| 12,6
+| 148,3
+| 0
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°15′44″N 28°3′34″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Šķaunes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|15}}}}}<!--
+       -->|{{ifempty|{{{plat_s|44}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|28}}}}}<!--
+       -->|{{ifempty|{{{gar_m|3}}}}}<!--
+       -->|{{ifempty|{{{gar_s|34}}}}}<!--
+       -->}}
+}}
+|-
+|63.
+| [[Attēls:Sasmakas_ezers.jpg|180px]]
+| align="left" | [[Sasmakas ezers]]
+| align="right" | 2,52
+| align="right" | 7,2
+| 6,4
+| 12,0
+| 36,5
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Talsu novads]]
+| 57°21′51″N 22°36′36″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sasmakas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|21}}}}}<!--
+       -->|{{ifempty|{{{plat_s|51}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|36}}}}}<!--
+       -->|{{ifempty|{{{gar_s|36}}}}}<!--
+       -->}}
+}}
+|-
+|64.
+| [[Attēls:Slokas_ezers_pie_Jaunķemeriem.jpg|180px]]
+| align="left" | [[Slokas ezers]]
+| align="right" | 2,5
+| align="right" | 2,98
+| 0,6
+| 1,5
+| 1,4
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Jūrmala]]
+| 56°57′27″N 23°33′40″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Slokas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|57}}}}}<!--
+       -->|{{ifempty|{{{plat_s|27}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|23}}}}}<!--
+       -->|{{ifempty|{{{gar_m|33}}}}}<!--
+       -->|{{ifempty|{{{gar_s|40}}}}}<!--
+       -->}}
+}}
+|-
+|65.
+| [[Attēls:Lādes_ezers_pie_Lādes_muižas.jpg|180px]]
+| align="left" | [[Lādes ezers]]
+| align="right" | 2,46
+| align="right" | 
+| 5,0
+| 8,0
+| 47,7
+| 1
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Limbažu novads]]
+| 57°26′10″N 24°41′44″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lādes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|26}}}}}<!--
+       -->|{{ifempty|{{{plat_s|10}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|41}}}}}<!--
+       -->|{{ifempty|{{{gar_s|44}}}}}<!--
+       -->}}
+}}
+|-
+|66.
+| [[Attēls:Vilgāles_ezers.jpg|180px]]
+| align="left" | [[Vilgāles ezers]]
+| align="right" | 2,425
+| align="right" | 2,5
+| 1,9
+| 3,6
+| 62,2
+| 1
+| [[Baltijas jūra]]s piekrastes
+| [[Kuldīgas novads]]
+| 56°52′36″N 21°48′31″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Vilgāles ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|52}}}}}<!--
+       -->|{{ifempty|{{{plat_s|36}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|21}}}}}<!--
+       -->|{{ifempty|{{{gar_m|48}}}}}<!--
+       -->|{{ifempty|{{{gar_s|31}}}}}<!--
+       -->}}
+}}
+|-
+|67.
+| [[Attēls:Pušas_ezers.jpg|180px]]
+| align="left" | [[Pušas ezers]]
+| align="right" | 2,41
+| align="right" | 
+| 3,2
+| 6,9
+| 158,9
+| 1
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°14′30″N 27°12′8″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Pušas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|14}}}}}<!--
+       -->|{{ifempty|{{{plat_s|30}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|12}}}}}<!--
+       -->|{{ifempty|{{{gar_s|8}}}}}<!--
+       -->}}
+}}
+|-
+|68.
+| [[Attēls:Viesītes_ezers.jpg|180px]]
+| align="left" | [[Viesītes ezers]]
+| align="right" | 2,322
+| align="right" | 7,5
+| 5,9
+| 24,0
+| 96,2
+| 0
+| [[Lielupe]]s
+| [[Jēkabpils novads]]
+| 56°21′5″N 25°39′10″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Viesītes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|21}}}}}<!--
+       -->|{{ifempty|{{{plat_s|5}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|39}}}}}<!--
+       -->|{{ifempty|{{{gar_s|10}}}}}<!--
+       -->}}
+}}
+|-
+|69.
+| [[Attēls:Ārdavs.jpg|180px]]
+| align="left" | [[Ārdavs]]
+| align="right" | 2,298
+| align="right" | 4,1
+| 4,6
+| 14
+| 158,7
+| 2
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°0′49″N 27°15′25″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ārdavs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|0}}}}}<!--
+       -->|{{ifempty|{{{plat_s|49}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|15}}}}}<!--
+       -->|{{ifempty|{{{gar_s|25}}}}}<!--
+       -->}}
+}}
+|-
+|70.
+| 
+| align="left" | [[Pērkonu ezers]]
+| align="right" | 2,28
+| align="right" | 4,6
+| 1,3
+| 2,3
+| 101,3
+| 0
+| [[Daugava]]s
+| [[Balvu novads]]
+| 57°8′N 27°18′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Pērkonu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|8}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|18}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|71.
+| [[Attēls:Cārmaņa_ezers.jpg|180px]]
+| align="left" | [[Cārmins]]
+| align="right" | 2,218
+| align="right" | 
+| 9,3
+| 31
+| 158,5
+| 1
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°02′49″N 27°10′55″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Cārmins}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|02}}}}}<!--
+       -->|{{ifempty|{{{plat_s|49}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|10}}}}}<!--
+       -->|{{ifempty|{{{gar_s|55}}}}}<!--
+       -->}}
+}}
+|-
+|72.
+| 
+| align="left" | [[Zilezers]]
+| align="right" | 2,18 (Latvijā 0,98)
+| align="right" | 2,2
+| 2,5
+| 3,5
+| 104,6
+| 0
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°30′48″N 28°7′14″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Zilezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|30}}}}}<!--
+       -->|{{ifempty|{{{plat_s|48}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|28}}}}}<!--
+       -->|{{ifempty|{{{gar_m|7}}}}}<!--
+       -->|{{ifempty|{{{gar_s|14}}}}}<!--
+       -->}}
+}}
+|-
+|73.
+| [[Attēls:Černostes_ezers,_Maltas_pagasts,_Latvia.jpg|180px]]
+| align="left" | [[Černostes ezers]]
+| align="right" | 2,133
+| align="right" | 
+| 1,9
+| 4,0
+| 163,6
+| 1
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°16′58″N 27°8′24″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Černostes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|16}}}}}<!--
+       -->|{{ifempty|{{{plat_s|58}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|8}}}}}<!--
+       -->|{{ifempty|{{{gar_s|24}}}}}<!--
+       -->}}
+}}
+|-
+|74.
+|
+| align="left" | [[Indrs]]
+| align="right" | 2,023
+| align="right" | 
+| 4,3
+| 7,8
+| 157,2
+| 3
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 55°59′45″N 27°27′55″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Indrs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|59}}}}}<!--
+       -->|{{ifempty|{{{plat_s|45}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|27}}}}}<!--
+       -->|{{ifempty|{{{gar_s|55}}}}}<!--
+       -->}}
+}}
+|-
+|75.
+| [[Attēls:Spāres_ezera_ziemeļu_daļa.JPG|180px]]
+| align="left" | [[Spāres ezers]]
+| align="right" | 2,011
+| align="right" | 2,9
+| 2,3
+| 5,6
+| 26,8
+| 0
+| [[Irbe (upe)|Irbes]]
+| [[Talsu novads]]
+| 57°12′53″N 22°18′25″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Spāres ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|53}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|18}}}}}<!--
+       -->|{{ifempty|{{{gar_s|25}}}}}<!--
+       -->}}
+}}
+|-
+|76.
+| [[Attēls:Mazais_Baltezers_pie_Alderiem.jpg|180px]]
+| align="left" | [[Mazais Baltezers]]
+| align="right" | 1,987
+| align="right" | 
+| 4,6
+| 10,3
+| 0,1
+| 1
+| [[Daugava]]s
+| [[Ādažu novads]]
+| 57°2′48″N 24°19′38″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Mazais Baltezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|2}}}}}<!--
+       -->|{{ifempty|{{{plat_s|48}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|19}}}}}<!--
+       -->|{{ifempty|{{{gar_s|38}}}}}<!--
+       -->}}
+}}
+|-
+|77.
+| [[Attēls:Aulejs,_Auleja,_Aulejas_pagasts,_Krāslavas_novads,_Latvia.jpg|180px]]
+| align="left" | [[Aulejs]]
+| align="right" | 1,904
+| align="right" | 2,8
+| 2,7
+| 4,3
+| 159,6
+| 0
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°3′4″N 27°16′38″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Aulejs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|3}}}}}<!--
+       -->|{{ifempty|{{{plat_s|4}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|16}}}}}<!--
+       -->|{{ifempty|{{{gar_s|38}}}}}<!--
+       -->}}
+}}
+|-
+|78.
+| [[Attēls:Sāruma_ezers.jpg|180px]]
+| align="left" | [[Sāruma ezers]]
+| align="right" | 1,89
+| align="right" | 
+| 2,3
+| 6,0
+| 50,8
+| 3
+| [[Gauja]]s
+| [[Cēsu novads]]
+| 57°25′10″N 24°49′24″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sāruma ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|25}}}}}<!--
+       -->|{{ifempty|{{{plat_s|10}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|49}}}}}<!--
+       -->|{{ifempty|{{{gar_s|24}}}}}<!--
+       -->}}
+}}
+|-
+|79.
+| [[Attēls:Lilastes_upes_izteka_no_Lilastes_ezera.jpg|180px]]
+| align="left" | [[Lilastes ezers]]
+| align="right" | 1,87
+| align="right" | 
+| 2,0
+| 3,2
+| 0,5
+| 1
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Ādažu novads]]
+| 57°10′55″N 24°21′21″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lilastes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|10}}}}}<!--
+       -->|{{ifempty|{{{plat_s|55}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|21}}}}}<!--
+       -->|{{ifempty|{{{gar_s|21}}}}}<!--
+       -->}}
+}}
+|-
+|80.
+| [[Attēls:Adamovas_ezers_2004-08-05.jpg|180px]]
+| align="left" | [[Adamovas ezers (Vērēmu pagasts)|Adamovas ezers]]
+| align="right" | 1,865
+| align="right" | 2,5
+| 3,8
+| 7,4
+| 147,6
+| 5-8
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°33′N 27°23′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Adamovas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|33}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|23}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|81.
+| [[Attēls:Laukesas001.JPG|180px]]
+| align="left" | [[Laucesas ezers]]
+| align="right" | 1,86
+| align="right" | 2,2
+| 5,4
+| 15,5
+| 122,8 
+| 7
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°45′11″N 26°17′49″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Laucesas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|45}}}}}<!--
+       -->|{{ifempty|{{{plat_s|11}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|17}}}}}<!--
+       -->|{{ifempty|{{{gar_s|49}}}}}<!--
+       -->}}
+}}
+|-
+|82.
+| 
+| align="left" | [[Sitas ezers]]
+| align="right" | 1,86 (Latvijā 0,431)
+| align="right" | 3,8
+| 5,3
+| 28,5
+| 152,4
+| 1
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°40′17″N 26°47′36″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sitas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|40}}}}}<!--
+       -->|{{ifempty|{{{plat_s|17}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|47}}}}}<!--
+       -->|{{ifempty|{{{gar_s|36}}}}}<!--
+       -->}}
+}}
+|-
+|83.
+|
+| align="left" | [[Sudalezers]]
+| align="right" | 1,823
+| align="right" | 
+| 3,6
+| 10,2
+| 108,1
+| 0
+| [[Gauja]]s
+| [[Alūksnes novads|Alūksnes]] un [[Gulbenes novads]]
+| 57°18′52″N 26°41′22″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Sudalezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|18}}}}}<!--
+       -->|{{ifempty|{{{plat_s|52}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|41}}}}}<!--
+       -->|{{ifempty|{{{gar_s|22}}}}}<!--
+       -->}}
+}}
+|-
+|84.
+|
+| align="left" | [[Baļotes ezers]]
+| align="right" | 1,8
+| align="right" | 2,37
+| 2,6
+| 4,76
+| 98,2
+| 0
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°32′40″N 26°00′59″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Baļotes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|32}}}}}<!--
+       -->|{{ifempty|{{{plat_s|40}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|00}}}}}<!--
+       -->|{{ifempty|{{{gar_s|59}}}}}<!--
+       -->}}
+}}
+|-
+|85.
+| [[Attēls:Tiskādu_ezers.jpg|180px]]
+| align="left" | [[Tiskādu ezers]]
+| align="right" | 1,795
+| align="right" | 2,2
+| 3,0
+| 7,0
+| 129,9
+| 
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°27′7″N 27°4′43″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Tiskādu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|27}}}}}<!--
+       -->|{{ifempty|{{{plat_s|7}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|4}}}}}<!--
+       -->|{{ifempty|{{{gar_s|43}}}}}<!--
+       -->}}
+}}
+|-
+|86.
+| [[Attēls:Lejsezers.jpg|180px]]
+| align="left" | [[Lejs]]
+| align="right" | 1,774
+| align="right" | 3,5
+| 8,2
+| 34,0
+| 158,6
+| 3
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°1′2″N 27°12′16″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lejs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|1}}}}}<!--
+       -->|{{ifempty|{{{plat_s|2}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|12}}}}}<!--
+       -->|{{ifempty|{{{gar_s|16}}}}}<!--
+       -->}}
+}}
+|-
+|87.
+| [[Attēls:Озеро_Юмурда.jpg|180px]]
+| align="left" | [[Jumurdas ezers]]
+| align="right" | 1,77
+| align="right" | 
+| 2,7
+| 4,0
+| 186,6
+| 5
+| [[Daugava]]s
+| [[Madonas novads]]
+| 56°56′44″N 25°45′17″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Jumurdas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|56}}}}}<!--
+       -->|{{ifempty|{{{plat_s|44}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|45}}}}}<!--
+       -->|{{ifempty|{{{gar_s|17}}}}}<!--
+       -->}}
+}}
+|-
+|88.
+| [[Attēls:Viešūrs2.jpg|180px]]
+| align="left" | [[Viešūrs]]
+| align="right" | 1,76
+| align="right" | 2,4
+| 5,2
+| 35,0
+| 221,6
+| 2
+| [[Daugava]]s
+| [[Madonas novads]]
+| 56°53′51″N 25°58′9″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Viešūrs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|53}}}}}<!--
+       -->|{{ifempty|{{{plat_s|51}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|58}}}}}<!--
+       -->|{{ifempty|{{{gar_s|9}}}}}<!--
+       -->}}
+}}
+|-
+|89.
+|
+| align="left" | [[Lielais Kolupa ezers]]
+| align="right" | 1,75
+| align="right" | 
+| 1,6
+| 3,8
+| 93,9
+| 0
+| [[Daugava]]s
+| [[Augšdaugavas novads|Augšdaugavas]] un [[Preiļu novads]]
+| 56°08′50″N 26°31′29″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielais Kolupa ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|08}}}}}<!--
+       -->|{{ifempty|{{{plat_s|50}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|31}}}}}<!--
+       -->|{{ifempty|{{{gar_s|29}}}}}<!--
+       -->}}
+}}
+|-
+|90.
+| [[Attēls:Salāja_ezers.jpg|180px]]
+| align="left" | [[Solojs]]
+| align="right" | 1,747
+| align="right" | 
+| 4,8
+| 16,5
+| 163,9
+| 10
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°12′27″N 27°24′39″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Solojs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|27}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|24}}}}}<!--
+       -->|{{ifempty|{{{gar_s|39}}}}}<!--
+       -->}}
+}}
+|-
+|91.
+|
+| align="left" | [[Bižas ezers (Andrupenes pagasts)|Bižas ezers]]
+| align="right" | 1,736
+| align="right" | 2,65
+| 1,1
+| 2,5
+| 172,3
+| 6
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°9′55″N 27°22′18″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Bižas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|9}}}}}<!--
+       -->|{{ifempty|{{{plat_s|55}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|22}}}}}<!--
+       -->|{{ifempty|{{{gar_s|18}}}}}<!--
+       -->}}
+}}
+|-
+|92.
+| [[Attēls:Dzirnezers.jpg|180px]]
+| align="left" | [[Dzirnezers]]
+| align="right" | 1,73
+| align="right" | 
+| 1,9
+| 5,0
+| 0,6
+| 5
+| [[Gauja]]s
+| [[Ādažu novads]]
+| 57°8′26″N 24°18′56″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dzirnezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|8}}}}}<!--
+       -->|{{ifempty|{{{plat_s|26}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|18}}}}}<!--
+       -->|{{ifempty|{{{gar_s|56}}}}}<!--
+       -->}}
+}}
+|-
+|93.
+|
+| align="left" | [[Pakuļu ūdenskrātuve]]
+| align="right" | 1,724
+| align="right" | 
+| 2,4
+| 6,1
+| 67,8
+| 2
+| [[Venta]]s
+| [[Saldus novads]]
+| 56°41′24″N 22°19′22″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Pakuļu ūdenskrātuve}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|41}}}}}<!--
+       -->|{{ifempty|{{{plat_s|24}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|19}}}}}<!--
+       -->|{{ifempty|{{{gar_s|22}}}}}<!--
+       -->}}
+}}
+|-
+|94.
+| [[Attēls:Laidzes_ezers.jpg|180px]]
+| align="left" | [[Laidzes ezers]]
+| align="right" | 1,705
+| align="right" | 2,8
+| 4,4
+| 12,2
+| 42,3
+| 1
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Talsu novads]]
+| 57°17′51″N 22°41′00″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Laidzes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|17}}}}}<!--
+       -->|{{ifempty|{{{plat_s|51}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|41}}}}}<!--
+       -->|{{ifempty|{{{gar_s|00}}}}}<!--
+       -->}}
+}}
+|-
+|95.
+| [[Attēls:Balupes_ieteka_Balvu_ezerā.jpg|180px]]
+| align="left" | [[Balvu ezers]]
+| align="right" | 1,68
+| align="right" | 3,2
+| 2,2
+| 3,9
+| ~101
+| 0
+| [[Daugava]]s
+| [[Balvu novads]]
+| 57°7′52″N 27°14′9″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Balvu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|7}}}}}<!--
+       -->|{{ifempty|{{{plat_s|52}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|14}}}}}<!--
+       -->|{{ifempty|{{{gar_s|9}}}}}<!--
+       -->}}
+}}
+|-
+|96.
+|
+| align="left" | [[Olovecas ezers]]
+| align="right" | 1,67
+| align="right" | 
+| 3,1
+| 5,0
+| 175,8
+| 4
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°10′N 27°26'E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Olovecas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|10}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|26}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|97.
+|
+| align="left" | [[Bižas ezers (Rundēnu pagasts)|Bižas ezers]]
+| align="right" | 1,66
+| align="right" | 3
+| 6,9
+| 22,1
+| 171,7
+| 5
+| [[Daugava]]s
+| [[Ludzas novads]]
+| 56°15′38″N 27°43′25″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Bižas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|15}}}}}<!--
+       -->|{{ifempty|{{{plat_s|38}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|43}}}}}<!--
+       -->|{{ifempty|{{{gar_s|25}}}}}<!--
+       -->}}
+}}
+|-
+|98.
+|
+| align="left" | [[Ramatas Lielezers]]
+| align="right" | 1,62
+| align="right" | 
+| 2,3
+| 3,4
+| 58,8
+| 1
+| [[Salaca]]s
+| [[Valmieras novads]]
+| 57°59′32″N 24°56′2″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ramatas Lielezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|59}}}}}<!--
+       -->|{{ifempty|{{{plat_s|32}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|56}}}}}<!--
+       -->|{{ifempty|{{{gar_s|2}}}}}<!--
+       -->}}
+}}
+|-
+|99.
+|
+| align="left" | [[Ušurs]]
+| align="right" | 1,608
+| align="right" | 3,2
+| 6,8
+| 40,0
+| 112,5
+| 1 (Līņsaliņa)
+| [[Daugava]]s
+| [[Gulbenes novads]]
+| 57°3′N 26°39′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ušurs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|3}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|39}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|100.
+| [[Attēls:Radžu_ūdenskrātuves_pludmale.JPG|180px]]
+| align="left" | [[Radžu ūdenskrātuve]]
+| align="right" | 1,58
+| align="right" | 2,15
+|
+|
+| ~78
+| 8
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°28′40″N 25°51′25″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Radžu ūdenskrātuve}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|28}}}}}<!--
+       -->|{{ifempty|{{{plat_s|40}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|51}}}}}<!--
+       -->|{{ifempty|{{{gar_s|25}}}}}<!--
+       -->}}
+}}
+|-
+|101.
+|
+| align="left" | [[Zosnas ezers]]
+| align="right" | 1,565
+| align="right" | 
+| 6,0
+| 15,4
+| 163,5
+| 2
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°20′00″N 27°19′15″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Zosnas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|20}}}}}<!--
+       -->|{{ifempty|{{{plat_s|00}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|19}}}}}<!--
+       -->|{{ifempty|{{{gar_s|15}}}}}<!--
+       -->}}
+}}
+|-
+|102.
+|
+| align="left" | [[Istras ezers]]
+| align="right" | 1,553
+| align="right" | 
+| 3,1
+| 5,5
+| 145,8
+| 4
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°14′30″N 27°58′30″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Istras ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|14}}}}}<!--
+       -->|{{ifempty|{{{plat_s|30}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|58}}}}}<!--
+       -->|{{ifempty|{{{gar_s|30}}}}}<!--
+       -->}}
+}}
+|-
+|103.
+|
+| align="left" | [[Dziļezers (Istras pagasts)|Dziļezers]]
+| align="right" | 1,51
+| align="right" | 2,3
+| 3,7
+| 5,6
+| 145,4
+| 3
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°15′18″N 27°59′36″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dziļezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|15}}}}}<!--
+       -->|{{ifempty|{{{plat_s|18}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|59}}}}}<!--
+       -->|{{ifempty|{{{gar_s|36}}}}}<!--
+       -->}}
+}}
+|-
+|104.
+| [[Attēls:Early_morning_at_Lake_Bicānu_-_Agrs_rīts_pie_Bicānu_ezera.jpg|180px]]
+| align="left" | [[Bicānu ezers]]
+| align="right" | 1,494
+| align="right" | 3
+| 4,1
+| 18,8
+| 149,2
+| 6
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°13′29″N 26°54′32″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Bicānu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|13}}}}}<!--
+       -->|{{ifempty|{{{plat_s|29}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|54}}}}}<!--
+       -->|{{ifempty|{{{gar_s|32}}}}}<!--
+       -->}}
+}}
+|-
+|105.
+|
+| align="left" | [[Lazdags]]
+| align="right" | 1,481
+| align="right" | 
+| 1,4
+| 2,0
+| 98,9
+| 0
+| [[Daugava]]s
+| [[Balvu novads|Balvu]] un [[Gulbenes novads]]
+| 57°3′31″N 26°57′23″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lazdags}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|3}}}}}<!--
+       -->|{{ifempty|{{{plat_s|31}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|57}}}}}<!--
+       -->|{{ifempty|{{{gar_s|23}}}}}<!--
+       -->}}
+}}
+|-
+|106.
+|
+| align="left" | [[Stirns]]
+| align="right" | 1,48
+| align="right" | 
+| 7,7
+| 25,8
+| 144,2
+| 3
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 55°55′36″N 27°23′22″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Stirns}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|55}}}}}<!--
+       -->|{{ifempty|{{{plat_s|36}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|23}}}}}<!--
+       -->|{{ifempty|{{{gar_s|22}}}}}<!--
+       -->}}
+}}
+|-
+|107.
+| [[Attēls:Ismeru_ezers,_Lūznavas_pagasts,_Rēzeknes_novads,_Latvia.jpg|180px]]
+| align="left" | [[Ismeru ezers]]
+| align="right" | 1,47
+| align="right" | 
+| 2,2
+| 4,6
+| 167,3
+| 1
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°23′N 27°20′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ismeru ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|23}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|20}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|108.
+|
+| align="left" | [[Indzeris]]
+| align="right" | 1,453
+| align="right" | 
+| 5,0
+| 8,6
+| 168,3
+| 3
+| [[Gauja]]s
+| [[Alūksnes novads]]
+| 57°22′50″N 27°0′13″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Indzeris}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|22}}}}}<!--
+       -->|{{ifempty|{{{plat_s|50}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|0}}}}}<!--
+       -->|{{ifempty|{{{gar_s|13}}}}}<!--
+       -->}}
+}}
+|-
+|109.
+|
+| align="left" | [[Kustaru ezers]]
+| align="right" | 1,442
+| align="right" | 
+| 10,5
+| 24,0
+| 155,6
+| 4
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°6′40″N 27°13′11″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Kustaru ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|6}}}}}<!--
+       -->|{{ifempty|{{{plat_s|40}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|13}}}}}<!--
+       -->|{{ifempty|{{{gar_s|11}}}}}<!--
+       -->}}
+}}
+|-
+|110.
+|
+| align="left" | [[Dukanu ezers]]
+| align="right" | 1,438
+| align="right" | 
+| 2,4
+| 4,2
+| 134,9
+| 3
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°29′54″N 27°38′27″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dukanu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|29}}}}}<!--
+       -->|{{ifempty|{{{plat_s|54}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|38}}}}}<!--
+       -->|{{ifempty|{{{gar_s|27}}}}}<!--
+       -->}}
+}}
+|-
+|111.
+|
+| align="left" | [[Micānu ezers]]
+| align="right" | 1,428
+| align="right" | 
+| 1,3
+| 3,4
+| 138,7
+| 2
+| [[Veļikaja|Mudes]]
+| [[Rēzeknes novads]]
+| 56°37′11″N 27°29′49″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Micānu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|37}}}}}<!--
+       -->|{{ifempty|{{{plat_s|11}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|29}}}}}<!--
+       -->|{{ifempty|{{{gar_s|49}}}}}<!--
+       -->}}
+}}
+|-
+|112.
+|
+| align="left" | [[Bižu ezers]]
+| align="right" | 1,401
+| align="right" | 2,65
+| 2,5
+| 3,6
+| 142,3
+| 0
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°31′29″N 27°29′28″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Bižu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|31}}}}}<!--
+       -->|{{ifempty|{{{plat_s|29}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|29}}}}}<!--
+       -->|{{ifempty|{{{gar_s|28}}}}}<!--
+       -->}}
+}}
+|-
+|113.
+| [[Attēls:Viļakas_ezers.jpg|180px]]
+| align="left" | [[Viļakas ezers]]
+| align="right" | 1,38
+| align="right" | 
+| 3,3
+| 5,6
+| 87,7
+| 1
+| [[Veļikaja|Mudes]]
+| [[Balvu novads]]
+| 57°11′33″N 27°41′24″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Viļakas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|11}}}}}<!--
+       -->|{{ifempty|{{{plat_s|33}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|41}}}}}<!--
+       -->|{{ifempty|{{{gar_s|24}}}}}<!--
+       -->}}
+}}
+|-
+|114.
+|
+| align="left" | [[Briģenes ezers]]
+| align="right" | 1,364
+| align="right" | 3,9
+| 10,0
+| 32,0
+| 147,9
+| 1
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°44′39″N 26°32′36″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Briģenes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|44}}}}}<!--
+       -->|{{ifempty|{{{plat_s|39}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|32}}}}}<!--
+       -->|{{ifempty|{{{gar_s|36}}}}}<!--
+       -->}}
+}}
+|-
+|115.
+|
+| align="left" | [[Dūņezers (Limbažu pagasts)|Dūņezers]]
+| align="right" | 1,356
+| align="right" | 
+| 1,1
+| 1,4
+| 49,0
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Limbažu novads]]
+| 57°31′56″N 26°42′11″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Dūņezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|31}}}}}<!--
+       -->|{{ifempty|{{{plat_s|56}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|42}}}}}<!--
+       -->|{{ifempty|{{{gar_s|11}}}}}<!--
+       -->}}
+}}
+|-
+|116.
+|
+| align="left" | [[Cierps]]
+| align="right" | 1,349
+| align="right" | 
+| 5,8
+| 14,0
+| 163,6
+| 6
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°4′55″N 27°15′34″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Cierps}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|4}}}}}<!--
+       -->|{{ifempty|{{{plat_s|55}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|15}}}}}<!--
+       -->|{{ifempty|{{{gar_s|34}}}}}<!--
+       -->}}
+}}
+|-
+|117.
+| [[Attēls:Озеро_Звиргздене.jpg|180px]]
+| align="left" | [[Zvirgzdenes ezers]]
+| align="right" | 1,342
+| align="right" | 
+| 2,6
+| 4,7
+| 133,6
+| 6
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°33′34″N 27°41′12″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Zvirgzdenes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|33}}}}}<!--
+       -->|{{ifempty|{{{plat_s|34}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|41}}}}}<!--
+       -->|{{ifempty|{{{gar_s|12}}}}}<!--
+       -->}}
+}}
+|-
+|118.
+|
+| align="left" | [[Svātovas ezers]]
+| align="right" | 1,333
+| align="right" | 
+| 3,5
+| 6,1
+| 164,2
+| 0
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°12′56″N 27°8′30″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Svātovas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|56}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|8}}}}}<!--
+       -->|{{ifempty|{{{gar_s|30}}}}}<!--
+       -->}}
+}}
+|-
+|119.
+|
+| align="left" | [[Kategrada ezers]]
+| align="right" | 1,331
+| align="right" | 
+| 1,6
+| 3,0
+| 149,2
+| 0
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°13′48″N 26°56′13″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Kategrada ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|13}}}}}<!--
+       -->|{{ifempty|{{{plat_s|48}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|56}}}}}<!--
+       -->|{{ifempty|{{{gar_s|13}}}}}<!--
+       -->}}
+}}
+|-
+|120.
+|
+| align="left" | [[Lubezers]]
+| align="right" | 1,296
+| align="right" | 5
+| 1,7
+| 3,3
+| 37,9
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Talsu novads]]
+| 57°23′41″N 22°38′26″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lubezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|23}}}}}<!--
+       -->|{{ifempty|{{{plat_s|41}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|38}}}}}<!--
+       -->|{{ifempty|{{{gar_s|26}}}}}<!--
+       -->}}
+}}
+|-
+|121.
+|
+| align="left" | [[Veirūgnas ezers]]
+| align="right" | 1,284
+| align="right" | 
+| 3,8
+| 6,1
+| 57°23′41″N 22°38′26″E
+| 0
+| [[Daugava]]s
+| [[Augšdaugavas novads|Augšdaugavas]] un [[Preiļu novads]]
+| 56°6'17"Z 26°44'26"A
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Veirūgnas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|6}}}}}<!--
+       -->|{{ifempty|{{{plat_s|17}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|38}}}}}<!--
+       -->|{{ifempty|{{{gar_s|26}}}}}<!--
+       -->}}
+}}
+|-
+|122.
+|
+| align="left" | [[Kurjanovas ezers]]
+| align="right" | 1,278
+| align="right" | 1,68
+| 2,4
+| 5,8
+| 111,0
+| 1
+| [[Veļikaja|Mudes]]
+| [[Ludzas novads]]
+| 56°31′54″N 27°59′14″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Kurjanovas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|31}}}}}<!--
+       -->|{{ifempty|{{{plat_s|54}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|59}}}}}<!--
+       -->|{{ifempty|{{{gar_s|14}}}}}<!--
+       -->}}
+}}
+|-
+|123.
+|
+| align="left" | [[Viraudas ezers]]
+| align="right" | 1,241
+| align="right" | 
+| 5,0
+| 10,0
+| 164,0
+| 5
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°13′21″N 27°23′42″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Viraudas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|13}}}}}<!--
+       -->|{{ifempty|{{{plat_s|21}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|23}}}}}<!--
+       -->|{{ifempty|{{{gar_s|42}}}}}<!--
+       -->}}
+}}
+|-
+|124.
+|
+| align="left" | [[Viņaukas ezers]]
+| align="right" | 1,236
+| align="right" | 
+| 1,7
+| 3,0
+| 85,9
+| 0
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°11′13″N 25°28′44″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Viņaukas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|11}}}}}<!--
+       -->|{{ifempty|{{{plat_s|13}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|28}}}}}<!--
+       -->|{{ifempty|{{{gar_s|44}}}}}<!--
+       -->}}
+}}
+|-
+|125.
+|
+| align="left" | [[Ots (ezers)|Ots]]
+| align="right" | 1,228
+| align="right" | 
+| 2,4
+| 7,4
+| 159,0
+| 4
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 55°59′29″N 27°16′38″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ots}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|59}}}}}<!--
+       -->|{{ifempty|{{{plat_s|29}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|16}}}}}<!--
+       -->|{{ifempty|{{{gar_s|38}}}}}<!--
+       -->}}
+}}
+|-
+|126.
+| [[Attēls:Lielais_Gusena_ezers_pie_Robežniekiem_2002-08-11.jpg|180px]]
+| align="left" | [[Lielais Gusena ezers]]
+| align="right" | 1,205
+| align="right" | 
+| 9,3
+| 38,0
+| 160,6
+| 3
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 55°58′N 27°37′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielais Gusena ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|58}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|37}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|127.
+|
+| align="left" | [[Kalnis]]
+| align="right" | 1,195
+| align="right" | 
+| 1,8
+| 4,9
+| 102,8
+| 0
+| [[Daugava]]s
+| [[Balvu novads|Balvu]] un [[Gulbenes novads]]
+| 57°5′42″N 26°58′58″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Kalnis}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|5}}}}}<!--
+       -->|{{ifempty|{{{plat_s|42}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|58}}}}}<!--
+       -->|{{ifempty|{{{gar_s|58}}}}}<!--
+       -->}}
+}}
+|-
+|128.
+|
+| align="left" | [[Spruktu ūdenskrātuve]]
+| align="right" | 1,19
+| align="right" | 
+| 2,1
+| 8,5
+| 156,4
+| 4
+| [[Daugava]]s
+| [[Rēzeknes novads]]
+| 56°26′40″N 27°33′06″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Spruktu ūdenskrātuve}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|26}}}}}<!--
+       -->|{{ifempty|{{{plat_s|40}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|33}}}}}<!--
+       -->|{{ifempty|{{{gar_s|06}}}}}<!--
+       -->}}
+}}
+|-
+|129.
+|
+| align="left" | [[Biržu ūdenskrātuve]]
+| align="right" | 1,16
+| align="right" | 
+|
+| 17
+| ~87
+| ~15
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°25′08″N 25°44′00″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Biržu ūdenskrātuve}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|25}}}}}<!--
+       -->|{{ifempty|{{{plat_s|08}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|44}}}}}<!--
+       -->|{{ifempty|{{{gar_s|00}}}}}<!--
+       -->}}
+}}
+|-
+|130.
+| [[Attēls:Gulbju_ezers_pie_Spāres.jpg|180px]]
+| align="left" | [[Gulbju ezers (Talsu novads)|Gulbju ezers]]
+| align="right" | 1,155
+| align="right" | 1,63
+| 1,5
+| 2,1
+| 29,0
+| 0
+| [[Irbe (upe)|Irbes]]
+| [[Talsu novads]]
+| 57°12′48″N 22°15′16″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Gulbju ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|48}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|22}}}}}<!--
+       -->|{{ifempty|{{{gar_m|15}}}}}<!--
+       -->|{{ifempty|{{{gar_s|16}}}}}<!--
+       -->}}
+}}
+|-
+|131.
+| 
+| align="left" | [[Aksenovas ezers]]
+| align="right" | 1,15
+| align="right" | 1,6
+| 3,5
+| 9,4
+| 140,9
+| 7
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°2′N 27°3′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Aksenovas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|2}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|3}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|132.
+| [[Attēls:Lielais_Ilgas_ezers.jpg|180px]]
+| align="left" | [[Lielais Ilgas ezers]]
+| align="right" | 1,148
+| align="right" | 
+| 5,4
+| 12,6
+| 135,8
+| 0
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 55°48′N 26°19′E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Lielais Ilgas ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|55}}}}}<!--
+       -->|{{ifempty|{{{plat_m|48}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|19}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}}}<!--
+       -->}}
+}}
+|-
+|133.
+| [[Attēls:Meirānu_lake_in_Bērzgale.jpg|180px]]
+| align="left" | [[Meirānu ezers (Bērzgales pagasts)|Meirānu ezers]]
+| align="right" | 1,147
+| align="right" | 1,95
+| 3,3
+| 6,9
+| 138,3
+| 2
+| [[Veļikaja|Mudes]]
+| [[Rēzeknes novads]]
+| 56°37′50″N 27°31′50″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Meirānu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|37}}}}}<!--
+       -->|{{ifempty|{{{plat_s|50}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|31}}}}}<!--
+       -->|{{ifempty|{{{gar_s|50}}}}}<!--
+       -->}}
+}}
+|-
+|134.
+|
+| align="left" | [[Aģes ezers]]
+| align="right" | 1,13
+| align="right" | 2,2
+| 1,2
+| 2,7
+| 51,4
+| 0
+| [[Rīgas līcis|Rīgas līča]] piekrastes
+| [[Siguldas novads]]
+| 57°17′56″N 24°49′9″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Aģes ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|17}}}}}<!--
+       -->|{{ifempty|{{{plat_s|56}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|24}}}}}<!--
+       -->|{{ifempty|{{{gar_m|49}}}}}<!--
+       -->|{{ifempty|{{{gar_s|9}}}}}<!--
+       -->}}
+}}
+|-
+|135.
+|
+| align="left" | [[Skuķu ezers]]
+| align="right" | 1,1
+| align="right" | 
+| 0,5
+| 1,1
+| 86,5
+| 0
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 56°3′48″N 26°12′31″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Skuķu ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|3}}}}}<!--
+       -->|{{ifempty|{{{plat_s|48}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|12}}}}}<!--
+       -->|{{ifempty|{{{gar_s|31}}}}}<!--
+       -->}}
+}}
+|-
+|136.
+|
+| align="left" | [[Mazais Kolupa ezers]]
+| align="right" | 1,1
+| align="right" | 
+| 3,3
+| 9,8
+| 94,3
+| 0
+| [[Daugava]]s
+| [[Augšdaugavas novads]]
+| 56°6′41″N 26°32′6″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Mazais Kolupa ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|6}}}}}<!--
+       -->|{{ifempty|{{{plat_s|41}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|32}}}}}<!--
+       -->|{{ifempty|{{{gar_s|6}}}}}<!--
+       -->}}
+}}
+|-
+|137.
+|
+| align="left" | [[Jāšezers]]
+| align="right" | 1,076
+| align="right" | 
+| 2,8
+| 4,4
+| 149,2
+| 1
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°12′38″N 26°53′26″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Jāšezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|12}}}}}<!--
+       -->|{{ifempty|{{{plat_s|38}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|53}}}}}<!--
+       -->|{{ifempty|{{{gar_s|26}}}}}<!--
+       -->}}
+}}
+|-
+|138.
+| [[Attēls:Liezeres_ezers.jpg|180px]]
+| align="left" | [[Liezēris]]
+| align="right" | 1,059
+| align="right" | 
+| 4,6
+| 13
+| 185,1
+| 1
+| [[Daugava]]s
+| [[Madonas novads]]
+| 57°0′20″N 26°3′10″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Liezēris}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|57}}}}}<!--
+       -->|{{ifempty|{{{plat_m|0}}}}}<!--
+       -->|{{ifempty|{{{plat_s|20}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|3}}}}}<!--
+       -->|{{ifempty|{{{gar_s|10}}}}}<!--
+       -->}}
+}}
+|-
+|139.
+|
+| align="left" | [[Salmejs]]
+| align="right" | 1,043
+| align="right" | 
+| 2,8
+| 6,2
+| 148,8
+| 4
+| [[Daugava]]s
+| [[Preiļu novads]]
+| 56°17′22″N 26°52′28″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Salmejs}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|17}}}}}<!--
+       -->|{{ifempty|{{{plat_s|22}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|52}}}}}<!--
+       -->|{{ifempty|{{{gar_s|28}}}}}<!--
+       -->}}
+}}
+|-
+|140.
+|
+| align="left" | [[Garais ezers (Robežnieku pagasts)|Garais ezers]]
+| align="right" | 1,031
+| align="right" | 
+| 5,5
+| 25,1
+| 158,4
+| 1
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°00′15″N 27°31′47″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Garais ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|00}}}}}<!--
+       -->|{{ifempty|{{{plat_s|15}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|31}}}}}<!--
+       -->|{{ifempty|{{{gar_s|47}}}}}<!--
+       -->}}
+}}
+|-
+|141.
+| 
+| align="left" | [[Pečora ezers]]
+| align="right" | 1,026
+| align="right" | 
+| 0,9
+| 3,2
+| 91,5
+| 3
+| [[Daugava]]s
+| [[Ogres novads]]
+| 56°53′15″N 25°08′00″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Pečora ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|53}}}}}<!--
+       -->|{{ifempty|{{{plat_s|15}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|25}}}}}<!--
+       -->|{{ifempty|{{{gar_m|08}}}}}<!--
+       -->|{{ifempty|{{{gar_s|00}}}}}<!--
+       -->}}
+}}
+|-
+|142.
+| [[Attēls:Ižiuna_ezers,_Skaistas_pagasts,_Krāslavas_novads,_Latvia.jpg|180px]]
+| align="left" | [[Ižiuns]]
+| align="right" | 1,014
+| align="right" | 
+| 1,6
+| 2,4
+| 159,5
+| 1
+| [[Daugava]]s
+| [[Krāslavas novads]]
+| 56°2′6″N 27°26′26″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Ižiuns}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|2}}}}}<!--
+       -->|{{ifempty|{{{plat_s|6}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|27}}}}}<!--
+       -->|{{ifempty|{{{gar_m|26}}}}}<!--
+       -->|{{ifempty|{{{gar_s|26}}}}}<!--
+       -->}}
+}}
+|-
+|143.
+| [[Attēls:Timsmales_ezers.JPG|180px]]
+| align="left" | [[Baltezers (Variešu pagasts)|Timsmales ezers]]
+| align="right" | 1,01
+| align="right" | 1,5
+| 3,7
+| 8,5
+| 110,9
+| 0
+| [[Daugava]]s
+| [[Jēkabpils novads]]
+| 56°37′59″N 26°10′58″E
+|{{Kartes infokaste
+| map = Latvija
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}|jā}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{map_label|}}}|{{{name|Timsmales ezers}}}|}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Orange_pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_width|}}}|9}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|N}}}}}<!--
+       -->|{{ifempty|{{{plat_d|56}}}}}<!--
+       -->|{{ifempty|{{{plat_m|37}}}}}<!--
+       -->|{{ifempty|{{{plat_s|59}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|E}}}}}<!--
+       -->|{{ifempty|{{{gar_d|26}}}}}<!--
+       -->|{{ifempty|{{{gar_m|10}}}}}<!--
+       -->|{{ifempty|{{{gar_s|58}}}}}<!--
+       -->}}
+}}
+|}
+
+== Latvijas dziļākie ezeri ==
+
+{| class="wikitable"
+! Nr.
+! Ezers
+! Dziļums, metri
+|-
+| 1
+| [[Drīdzis]]
+| 66,2
+|-
+| 2
+| [[Garais ezers (Indras pagasts)|Garais ezers]]
+| 56,0
+|-
+| 3
+| [[Riču ezers]]
+| 51,9 (Latvijā 39,7)
+|-
+| 4
+| [[Pļaviņu ūdenskrātuve]]
+| 47,0
+|-
+| 5
+| [[Geraņimovas Ilzas ezers]]
+| 46,0
+|-
+| 6
+| [[Ormijs]]
+| 43,0
+|-
+| 7
+| [[Ojatu ezers]]
+| 40,5
+|-
+| 8
+| [[Ušurs]]
+| 40,0
+|-
+| 9
+| [[Lielais Gusena ezers]]
+| 38,0
+|-
+| 10
+| [[Sventes ezers]]
+| 38,0
+|-
+| 11
+| [[Ciriša ūdenskrātuve]]
+| 36,5
+|-
+| 12
+| [[Ērkulis]]
+| 36,0
+|-
+| 13
+| [[Viešūrs]]
+| 35,0
+|-
+| 14
+| [[Raipala ezers]]
+| 35,0
+|-
+| 15
+| [[Lejs]]
+| 34,0
+|-
+| 16
+| [[Puzes ezers]]
+| 33,6
+|-
+| 17
+| [[Jazinks]]
+| 33,0
+|-
+| 18
+| [[Dziļezers (Limbažu pagasts)|Dziļezers]]
+| 32,1
+|-
+| 19
+| [[Briģenes ezers]]
+| 32,0
+|-
+| 20
+| [[Mazais Baltiņš]]
+| 32,0
+|-
+|}
+
+== Skatīt arī ==
+* [[Pasaules lielāko ezeru saraksts]]
+* [[Pasaules lielākie ezeri pēc tilpuma]]
+* [[Pasaulē dziļākie ezeri]]
+* [[Eiropas lielākie ezeri]]
+
+== Atsauces ==
+* Visi dati no http://www.ezeri.lv
+
+[[Kategorija:Latvijas ezeri| ]]

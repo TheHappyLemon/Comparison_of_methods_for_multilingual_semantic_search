@@ -1,0 +1,17 @@
+'''Parseks''' ('''pc''') — [[Astronomija|astronomijā]] plaši izmantota garuma mērvienība. Nosaukums atvasināts no [[angļu valoda|angļu]] vārdiem "'''''par'''allax of one arc '''sec'''ond''" (vienas leņķa sekundes [[paralakse]]).
+
+Parseks ir attālums, no kura [[Zeme]]s [[orbīta]]s rādiuss būtu redzams vienā leņķa sekundē.
+
+* 1 pc = <math>\frac{360\cdot60\cdot60}{2\pi}</math> [[Astronomiskā vienība|AU]] = 206&nbsp;264,8062 AU
+* 1 pc = 3,08567758×10<sup>16</sup> [[metrs|m]]
+* 1 pc = 3,26156378 [[gaismas gads|ly]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+{{Garuma mērvienības}}
+
+[[Kategorija:Garuma mērvienības]]
+[[Kategorija:Astronomiskās mērvienības]]

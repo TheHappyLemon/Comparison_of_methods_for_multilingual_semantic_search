@@ -1,0 +1,109 @@
+{{infobox
+|bodyclass      = vcard plainlist
+|bodystyle      = width:304px; background-color: #EFF0F3;
+|labelstyle    = padding-left: 5px; background-color: #BEC3DC; border-top: 1px solid #8996C4; border-bottom: 1px solid #8996C4;
+
+|abovestyle     = font-size: 130%; background-color: #BEC3DC; text-align: center; border-top: 2px solid #8996C4; border-bottom: 2px solid #8996C4;
+|above          = {{ifempty|{{{jūra|}}}|{{PAGENAME}}}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{attēls|}}}|size={{{attēls_izm|}}}|sizedefault=300px}}|border
+| caption     = {{{attēls_paraksts|}}}
+
+| image2      = {{#invoke:InfoboxImage|InfoboxImage|image={{{karte|}}}|size={{{karte_izmērs|}}}|sizedefault=300px}}
+| caption2      = {{{kartes_paraksts|}}}
+
+| data2      = {{#if:{{{vietaskarte|}}}{{{map|}}}{{{pushpin_map|}}}{{{map_type|}}}|
+{{Kartes infokaste<!--  |label_size    = {{{label_size|}}} -->
+| map = {{ifempty|{{{vietaskarte|}}}|{{{map|}}}|{{{pushpin_map|}}}|{{{map_type|}}}}}
+| map_alt = {{ifempty|{{{karte_alt_teksts|}}}|{{{map_alt|}}}}}
+| alternative = {{ifempty|{{{alt_karte|}}}|{{{pushpin_image|}}}}}
+| map_width = {{ifempty|{{{kartes_izmērs|}}}|{{{mapwidth|{{{map_size|}}}}}}|300}}
+| map_caption = {{ifempty|{{{kartes_paraksts|}}}|{{{caption|}}}}}
+| relief = {{ifempty|{{{reljefa_karte|}}}|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}}}
+| label = {{ifempty|{{{kartes_marķieris|}}}||{{{label|}}}|{{{jūra|}}}|{{PAGENAME}}}}
+| label_position = {{ifempty|{{{paraksta_izvietojums|}}}|{{{label_position|}}}|{{{map_label_position|}}}}}
+| mark = {{ifempty|{{{marķieris|}}}|{{{mark|}}}|Cyan pog.svg}}
+| mark_width = {{ifempty|{{{marķiera_lielums|}}}|{{{mark_size|}}}|8}}
+| lat = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{plat_NS|}}}|{{{lat_dir|}}}|{{{latNS|}}}|{{{lat_NS|}}}}}<!--
+       -->|{{ifempty|{{{plat_d|}}}|{{{lat_deg|}}}|{{{latd|}}}|{{{lat_d|}}}}}<!--
+       -->|{{ifempty|{{{plat_m|}}}|{{{lat_min|}}}|{{{latm|}}}|{{{lat_m|}}}}}<!--
+       -->|{{ifempty|{{{plat_s|}}}|{{{lat_sec|}}}|{{{lats|}}}|{{{lat_s|}}}}}<!--
+       -->}}
+| long = {{#Invoke:Coordinates|dms2dec<!--
+       -->|{{ifempty|{{{gar_EW|}}}|{{{lon_dir|}}}|{{{longEW|}}}|{{{long_EW|}}}}}<!--
+       -->|{{ifempty|{{{gar_d|}}}|{{{lon_deg|}}}|{{{longd|}}}|{{{long_d|}}}}}<!--
+       -->|{{ifempty|{{{gar_m|}}}|{{{lon_min|}}}|{{{longm|}}}|{{{long_m|}}}}}<!--
+       -->|{{ifempty|{{{gar_s|}}}|{{{lon_sec|}}}|{{{longs|}}}|{{{long_s|}}}}}<!--
+       -->}}
+| x = {{{x|}}}
+| y = {{{y|}}}
+| x% = {{{x%|}}}
+| y% = {{{y%|}}} }}}}
+
+| label3     = Koordinātas
+| data3      = {{#if:{{both|{{{latitude|{{{lat_deg|{{{latd|}}}}}}}}}|{{{longitude|{{{lon_deg|{{{longd|}}}}}}}}}}}|
+{{Infobox coord
+| lat_d   = {{{latitude|{{{lat_deg|{{{latd|{{{lat_d|}}}}}}}}}}}}
+| lat_m   = {{{lat_min|{{{latm|{{{lat_m|}}}}}}}}}
+| lat_s   = {{{lat_sec|{{{lats|{{{lat_s|}}}}}}}}}
+| lat_NS  = {{{lat_dir|{{{latNS|{{{lat_NS|}}}}}}}}}
+| long_d  = {{{longitude|{{{lon_deg|{{{longd|{{{long_d|}}}}}}}}}}}}
+| long_m  = {{{lon_min|{{{longm|{{{long_m|}}}}}}}}}
+| long_s  = {{{lon_sec|{{{longs|{{{long_s|}}}}}}}}}
+| long_EW = {{{lon_dir|{{{longEW|{{{long_EW|}}}}}}}}}
+| type    = {{{coords_type|{{{coordinates_type|}}}}}}
+| region  = {{{coordinates_region|{{{region|}}}}}}
+| dim     = {{ifempty|{{{dim|}}}|{{#if:{{{garums|}}}|{{{garums|}}}km}}}}
+| scale   = {{{scale|}}}
+| source  = {{{source|}}}
+| display = {{{coordinates_display|{{{display|}}}}}}
+| format  = {{{coordinates_format|{{{format|}}}}}}
+}}|{{#if:{{{coordinates|}}}|{{{coordinates|}}}}}}}
+
+| label4     = Okeāns
+| data4      = {{Br separated entries
+	|1={{#if:{{{okeāns|}}}|[[{{{okeāns|}}}]]}}
+	|2={{#if:{{{okeāns2|}}}|[[{{{okeāns2|}}}]]}}
+	}}
+
+| label5     = Platība
+| data5      = {{#if:{{{platība|}}}|{{{platība|}}} km<sup>2</sup>}}
+
+| label6     = Platība bez jūrām
+| data6      = {{#if:{{{platība_bez_jūrām|}}}|{{{platība_bez_jūrām|}}} km<sup>2</sup>}}
+
+| label7     = Garums
+| data7      = {{#if:{{{garums|}}}|{{{garums|}}} km}}
+
+| label8     = Platums
+| data8      = {{#if:{{{platums|}}}|{{{platums|}}} km}}
+
+| label9     = Vid. dziļums
+| data9      = {{#if:{{{Vid_dziļums|}}}|{{{Vid_dziļums|}}} m}}
+
+| label10    = Maks. dziļums
+| data10     = {{#if:{{{Max_dziļums|}}}|{{{Max_dziļums|}}} m}}
+
+| label11    = Tilpums
+| data11     = {{#if:{{{tilpums|}}}|{{{tilpums|}}} km<sup>3</sup>}}
+
+| label12    = Baseins
+| data12     = {{#if:{{{baseins|}}}|{{{baseins|}}} km<sup>2</sup>}}
+
+| label13    = Sāļums
+| data13     = {{#if:{{{sāļums|}}}|{{{sāļums|}}}‰}}
+
+| label14    = Ūdens temperatūra
+| data14     = {{#if:{{{temperatūra|}}}|{{{temperatūra|}}}&nbsp;°C}}
+
+| label15    = Valstis un teritorijas
+| data15     = {{{valstis|}}}
+
+| label16    = Lielākās pilsētas
+| data16     = {{{pilsētas|}}}
+
+|belowstyle     = text-align:center; font-size: 110%; background-color:#EFF0F3; color:black; border: 1px solid #8996C4; padding: 2px; margin-top: 4px
+|below          = {{#if:{{wikidata|property|p373}}{{{commons kategorija|}}}{{{Commons kategorija|}}}|[[Attēls:Commons-logo.svg|12px|link=|alt=]] '''[[:commons:Category:{{wikidata|property|p373|{{{commons kategorija|{{{Commons kategorija|}}}}}}|plain=1}}|{{ifempty|{{{jūra|}}}|{{PAGENAME}}}} Vikikrātuvē]]'''}}
+}}<includeonly>{{#if:{{{vietaskarte|}}}|{{#ifeq: {{VietasKarte {{{vietaskarte|}}}}}|||[[Kategorija:Raksti ar neizveidotām novietojuma kartēm]]}}}}</includeonly><noinclude>{{Dokumentācija}}
+[[Kategorija:Ģeogrāfijas infokastes|Jūra]]</noinclude>

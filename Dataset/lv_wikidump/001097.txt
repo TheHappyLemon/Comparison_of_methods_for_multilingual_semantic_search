@@ -1,0 +1,81 @@
+{{Personas infokaste
+|        platums = 
+|          vārds = Bills Geitss
+|     vārds_orig = ''Bill Gates''
+|         attēls = Bill Gates 2018.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = Bills Geitss 2018. gadā
+|        dz_gads = 1955
+|     dz_mēnesis = 10
+|       dz_diena = 28
+|       dz_vieta = {{vieta|ASV|Vašingtonas štats|Sietla|2s=Vašingtona (štats)}}
+|      m_dat_alt = 
+|         m_gads = 
+|      m_mēnesis = 
+|        m_diena = 
+|        m_vieta = 
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = amerikānis
+|   nodarbošanās = {{ubl|''Microsoft'' priekšsēdētājs|''Corbis'' priekšsēdētājs}}
+|  darbības_gadi = 1975—pašlaik
+|         vecāki = Viljams Henrijs Geitss<br />Marija Maksvela Geitsa
+|          brāļi = 
+|          māsas = divas
+|   dzīvesbiedrs = [[Melinda Geitsa]] (1994—2021, šķīrušies)
+|          bērni = Dženifera Ketrīna Geitsa (1996)<br />Rorijs Džons Geitss (1999)<br />Fēbe Adele Geitsa (2002)
+|       paraksts = BillGates Signature.svg
+|       piezīmes = 
+|     alma_mater = [[Hārvarda Universitāte]] (nepabeigta)
+|    kategorijas = nē
+|    citas daļas =
+}}
+
+'''Viljams Henrijs Geitss III''' ({{val|en|William Henry Gates III}}, {{izrunā|ˈwɪljəm ˈhɛnɹɪ geɪts}}, dzimis {{dat|1955|10|28}}), plašāk pazīstams kā '''Bills Geitss''' (''Bill Gates''), ir [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] uzņēmējs, filantrops, investors un [[programmētājs]]. Viņš kopā ar citiem sarakstīja ''[[Altair BASIC]]'' [[interpretators|interpretatora]] sākotnējo versiju ''[[Altair 8800]]'' datoriem (pirmais komerciāli veiksmīgais [[personālais dators|personālā datora]] modelis). Viņš ir ''[[Microsoft]]'' korporācijas līdzdibinātājs un karjeras laikā bija tās valdes priekšsēdētājs, izpilddirektors un galvenais programmatūras arhitekts.
+
+Pēc žurnāla ''[[Forbes]]'' datiem Bills Geitss ir viens no pasaules bagātākajiem cilvēkiem. Laika posmā no 1996. līdz 2017. gadam (izņemot no 2010. līdz 2013. gadam) viņš bija bagātākais cilvēks pasaulē.<ref name="forbes"/> Viņa bagātība 2011. gada novembrī tika lēsta ap 59 miljardiem [[ASV dolārs|ASV dolāru]].<ref name="forbes"/> 2013. gadā pēc ''[[Bloomberg  (telvīzija)|Bloomberg]]'' datiem Geitss atkal kļuva par pasaules bagātāko cilvēku ar 72,7 miljardiem dolāru, apsteidzot Meksikas mobilo sakaru biznesmeni [[Karloss Slims|Karlosu Slimu]].<ref name="Delfi 2013" /> 2016. gadā pēc žurnāla ''Forbes'' datiem Geitsa bagātība bija sasniegusi 78,6 miljardus dolārus.<ref>{{Tīmekļa atsauce|url=http://www.forbes.com/profile/bill-gates/|title=Bill GatesBill Gates|publisher=forbes.com}}</ref> Uz 2021. gada augustu Geitsas bagātība bija 152 miljardi ASV dolāru, padarot viņu par ceturto bagātāko cilvēku pasaulē.<ref>{{Tīmekļa atsauce|url=https://www.bloomberg.com/billionaires/profiles/william-h-gates/|title=Bloomberg Billionaires Index|publisher=Bloomberg}}</ref>
+
+Bills Geitss ir aktīvs ziedotājs, t.sk. izglītības institūcijām, piemēram, 1999. gadā Geitss ziedoja 20 miljonus dolāru [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtam]] datoru laboratorijas būvniecībai, kas tika nosaukta par "Viljama H. Geitsa ēku" un kuru projektēja arhitekts [[Frenks Gērijs]]. 2000. gadā kopā ar savu sievu [[Melinda Geitsa|Melindu Geitsu]] izveidoja [[Billa un Melindas Geitsu fonds|Billa un Melindas Geitsu fondu]]. 2008. gada jūnijā Geitss pārgāja uz nepilna laika darbu ''Microsoft'' un pilna laika darbu fondā. 2020. gada martā Geitss atstāja savu amatu ''[[Microsoft]]'' valdē un ''[[Berkshire Hathaway]]'' kompānijā, lai koncentrētos uz savu [[filantropija|filantropisko]] darbību, tai skaitā, attiecībā uz klimata pārmaiņām, globālo veselību un attīstību, un izglītību. Viņš ir piešķīris ievērojamas naudas summas dažādām labdarības organizācijām un zinātniskās pētniecības programmām, izmantojot Billa un Melindas Geitsu fondu, kas viena no pasaulē lielākajām privātajām labdarības organizācijām.
+
+2016. gadā par filantropisko darbību ASV prezidents [[Baraks Obama]] Billam un Melindai Geitsiem pasniedza [[Prezidenta brīvības medaļa|Prezidenta brīvības medaļu]].<ref>{{Tīmekļa atsauce|url=https://obamawhitehouse.archives.gov/the-press-office/2016/11/16/president-obama-names-recipients-presidential-medal-freedom|title=President Obama Names Recipients of the Presidential Medal of Freedom|publisher=obamawhitehouse.archives.gov}}</ref>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="forbes">{{tīmekļa atsauce | url= http://www.forbes.com/profile/bill-gates | title= Bill Gates | publisher= Forbes.com | accessdate= 2012-01-23 | language= angliski}}</ref>
+<ref name="Delfi 2013">[http://www.delfi.lv/bizness/pasaule/bloomberg-geitss-atkal-kluvis-par-pasaules-bagatako-cilveku.d?id=43322551 ‘Bloomberg’: Geitss atkal kļuvis par pasaules bagātāko cilvēku] Delfi</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.microsoft.com/presspass/exec/billg/default.mspx | title= Bila Geitsa Microsoft mājaslapa | publisher= microsoft.com | language= angliski | access-date= {{dat|2006|12|31||bez}} | archiveurl= https://web.archive.org/web/20071027002957/http://www.microsoft.com/presspass/exec/billg/default.mspx | archivedate= {{dat|2007|10|27||bez}} }}
+
+
+{{cilvēks-aizmetnis}}
+
+{{kastes sākums}}
+{{amatu secība
+ | virsraksts = Bagātākais cilvēks pasaulē
+ | periods    = {{ubl| 1996—2007 | 2009 | 2014—2017}}
+ | pirms      = {{ubl| [[Vorens Bafets]] | Vorens Bafets | Karloss Slims}}
+ | pēc        = {{ubl| Vorens Bafets | [[Karloss Slims]] | [[Džefs Beizoss]]}}
+}}
+{{amatu secība
+ | virsraksts = [[Gada cilvēks (Time)|Žurnāla ''Time'' gada cilvēks]]
+ | periods    = kopā ar [[Bono]] un sievu [[Melinda Geitsa|Melindu Geitsu]]<br />{{ubl|2005}}
+ | pirms      = [[Džordžs V. Bušs]]
+ | pēc        = [[Tu ("Time" gada cilvēks)|Tu]]
+}}
+{{kastes beigas}}
+{{Gada cilvēks (Time) 2001—2025}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Geitss, Bills}}
+[[Kategorija:1955. gadā dzimušie]]
+[[Kategorija:Microsoft darbinieki]]
+[[Kategorija:ASV programmētāji]]
+[[Kategorija:ASV uzņēmēji]]
+[[Kategorija:Filantropi]]
+[[Kategorija:Atzinības krusta lielvirsnieki]]
+[[Kategorija:Vašingtonas štatā dzimušie]]

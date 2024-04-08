@@ -1,0 +1,39 @@
+{{ezera infokaste
+|ezers=Tenizs
+|attēls=Tengiz-Korgalzhyn Lake System MODIS 250m.jpg
+|paraksts=Teniza satelītattēls
+|map = Kazahstāna
+| plat_d=50 | plat_m=25 | plat_s= | plat_NS=N
+| gar_d=68 | gar_m=54 | gar_s= | gar_EW=E
+|vieta={{KAZ}}
+|platība=1590
+|garums=75
+|platums=32
+|Vid_dziļums=2,5
+|Max_dziļums=6,7
+|tilpums=
+|augstums_vjl=304
+|izteka=beznoteces
+|baseins=94 900
+|valstis=[[Kazahstāna]]
+|salas=
+|pilsētas=
+}}
+'''Tenizs''' (agrāk arī '''Tengizs'''; {{val|kk|Теңіз көлі}}, {{val|ru|Тенгиз}}) ir liels [[sālsezers]] [[Kazahstāna]]s ziemeļdaļā [[Akmolas apgabals|Akmolas apgabalā]]. Nosaukums cēlies no kazahu valodas — "jūra". Atrodas [[tektonika|tektoniskā]] ieplakā. Nozīmīga gājputnu atpūtas vieta, [[Rāmsaras konvencija]]s vieta. Tenizā novērotas 318 putnu sugas (arī 14 000 pāri [[sārtais flamingo|sārto flamingo]]), tai skaitā 22 pasaulē apdraudētas sugas.<ref>{{Tīmekļa atsauce |url=http://www.livinglakes.org/tengiz/index.html |title=Living Lakes |access-date={{dat|2011|02|23||bez}} |archiveurl=https://web.archive.org/web/20070413001739/http://www.livinglakes.org/tengiz/index.html |archivedate={{dat|2007|04|13||bez}} }}</ref> Nereti ezers gandrīz izžūst. Aizsalst decembrī, atkūst aprīlī. Lielākā pieteka — [[Nura]]. Plašas niedru audzes. Ezera apkaimē reģistrētas arī 340 augu sugas un 50 zīdītāju sugas.
+
+Kopš [[1968]]. gada lielākā daļa ezera un tam piegulošās zonas ir aizsargājamā dabas teritorija.
+
+[[1976]]. gada [[16. oktobris|16. oktobrī]] uz ezera ledus neplānoti nolaidās kosmosa kuģis [[Sojuz 23]].
+
+Ezers pazīstams arī ar interesantu dabas aizsardzības projektu — neizolētās elektrolīnijas, kas ik gadu ezera apkaimē nogalināja daudz retu putnu, tika aizstātas ar Saules enerģijas ieguves sistēmām, tādējādi atrisinot problēmu.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Kazahstānas ezeri]]
+[[Kategorija:Sālsezeri]]

@@ -1,0 +1,44 @@
+{{Apdzīvotas vietas infokaste
+| name = Beņdzina
+| official_name = ''Będzin''
+| settlement_type = pilsēta
+| image_skyline =Będzin - Zamek 01.JPG
+| imagesize = 
+| image_caption = Beņdzinas viduslaiku pils
+| image_flag = POL Będzin flag.svg
+| image_shield = POL Będzin COA.svg
+| shield_size = 75px
+| pushpin_map = Poland
+| pushpin_label_position = top
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Beņdzinas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1358
+| area_total_km2 = 37.08
+| population_as_of = 2010
+| population_total    = 58604
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 50 | latm = 19 | lats = 24 | latNS = N 
+| longd = 19 | longm = 08 | longs = 00| longEW = E
+| elevation_m = 289
+| website = {{url|http://www.bedzin.pl}} 
+}}
+
+'''Beņdzina''' ({{val-pl|Będzin}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] uz ziemeļaustrumiem no [[Katovice]]s. Ietilpst [[Augšsilēzijas aglomerācija|Augšsilēzijas aglomerācijā]].
+
+Viduslaikos attīstījās kā pilsēta ap [[Kazimirs Lielais|Kazimira Lielā]] uzcelto pili uz [[Mazpolija]]s un [[Silēzija]]s robežas. Līdz Otrajam pasaules karam daudzi pilsētas iezīvotāji bija [[ebreji]]. Otrā pasaules kara laikā Beņdzinā tika ierīkots liels [[ebreju geto]]. 1973. gadā Beņdzinas pilsētai pievienoja citu pilsētu — Lagišu, bet 1975. gadā — arī Grodzecu. Pilsētā atrodas [[Beņdzinas pils]] — 14. gadsimta arhitektūras piemineklis. Mūsdienās [[Akmeņogles|akmeņogļu]] ieguve. Pilsētā liela, ar oglēm un biomasu darbināma [[TEC]].
+
+== Ārējās saites ==
+{{commonscat-inline|Będzin|Beņdzina}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

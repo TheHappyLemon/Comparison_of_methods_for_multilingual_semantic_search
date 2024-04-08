@@ -1,0 +1,93 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Jamhuri ya Kenya''
+|    pilnais_valsts_nosaukums = Kenijas Republika
+|            valsts_nosaukums = Kenya
+|               karoga_attēls = Flag of Kenya.svg
+|            karoga_nosaukums = Kenijas karogs
+|              ģerboņa_attēls = Alternate Coat of arms of Kenya.svg
+|           ģerboņa_nosaukums = Kenijas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = "[[Harambee]]"{{nbsp|2}}<small>([[svahili]])<br />"Pulcēsimies"</small>
+|                valsts_himna = [[Ee Mungu Nguvu Yetu]]<small><br/>"Ak Dievs, visa Radītāj'!"</small><br/><center>[[File:National anthem of Kenya, performed by the United States Navy Band.wav]]</center>
+|               kartes_attēls = Location_Kenya_AU_Africa.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Nairobi]]
+|latd=1 |latm=16 |latNS=S |longd=36 |longm=48 |longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[angļu valoda]]<br />[[svahili]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Unitāra valsts|Unitāra]] [[Prezidentālisms|prezidentāla]] [[konstitucionāla republika]]
+|        valsts_galvas_tituls = [[Kenijas prezidents|Prezidents]]
+|                valsts_galva = [[Uhuru Keniata]]
+|       valsts_galvas_tituls2 = [[Kenijas viceprezidents|Viceprezidents]]
+|               valsts_galva2 = [[Viljams Ruto]]
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = no [[Apvienotā Karaliste|Apvienotās Karalistes]]
+|        neatkarības_notikums = Datums
+|          neatkarības_datums = {{dat|1963|12|12}}
+|       neatkarības_notikums2 = Deklarēta republika
+|         neatkarības_datums2 = {{dat|1964|12|12}}
+|                 platība_km2 = 580,367
+|               platība_rangs = 47.
+|              procenti_ūdens = 2,3
+|     iedzīvotāju_skaita_gads = 2012
+|          iedzīvotāju_skaits = 43 013 341<sup>1</sup>
+|    iedzīvotāju_skaits_rangs = 31.
+|    apdzīvotības_blīvums_km2 = 59
+|  apdzīvotības_blīvums_rangs = 140
+|                     IKP_PPP = $48,33 miljardi
+|                IKP_PPP_gads = 2005
+|               IKP_PPP_rangs = 76.
+|          IKP_PPP_per_capita = $1 445
+|    IKP_PPP_per_capita_rangs = 156.
+|                         HDI = {{palielinājās}} 0.521
+|                    HDI_gads = 2007
+|              HDI_kategorija = <font color="#ffcc00">vidējs</font>
+|                   HDI_rangs = 148.
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Kenijas šiliņš]]
+|                valūtas_kods = KES
+|                  laika_zona = [[Austrumāfikas laiks|EAT]]
+|                  utc_offset = +3
+|              laika_zona_DST = ''neievēro''
+|              utc_offset_DST = +3
+|                      domēns = [[.ke]]
+|              tālsarunu_kods = 254<sup>2</sup>
+|                    piezīme1 = Novērtējums ņem vērā [[AIDS]] izraisīto mirstību; tas var uzrādīt mazāku iedzīvotāju skaitu kā gaidīts.
+|                    piezīme2 = 005 no [[Tanzānija]]s un [[Uganda]]s.
+|                iso_kods_num = 404
+|              iso_kods_alfa2 = KE
+|              iso_kods_alfa3 = KEN
+}}
+
+'''Kenija''', oficiāli '''Kenijas Republika''', ir valsts [[Austrumāfrika|Austrumāfrikā]]. Valsts atrodas [[Indijas okeāns|Indijas okeāna]] piekrastē un caur to ir novilkts [[ekvators]]. Tā robežojas ar [[Etiopija|Etiopiju]], [[Somālija|Somāliju]], [[Tanzānija|Tanzāniju]], [[Uganda|Ugandu]] un [[Dienvidsudāna|Dienvidsudānu]]. Valsts galvaspilsēta ir [[Nairobi]]. Iedzīvotāju skaits valstī ir strauji pieaudzis pēdējo desmitu gadu laikā un ir apmēram 43 miljoni iedzīvotāju.<ref name=cia>{{tīmekļa atsauce |author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]] |title=Kenya |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html |year=2009 |accessdate=2010. gada 23. janvāris |archive-date=2020. gada 31. Augustsss |archive-url=https://web.archive.org/web/20200831033452/https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html }}</ref> Tulkojumā no masaju valodas Kenija nozīmē ''Baltais kalns''. Kalns, kas atrodas valsts vidienē, ir aprimis vulkāns, un tā virsotni klāj sniegs.
+== Vēsture ==
+{{Sīkāk|Britu Kenija}}
+
+== Ģeogrāfija ==
+Fizioģeogrāfiski valsts atrodas Austrumāfrikas plakankalnes ziemeļaustrumu daļā, kur absolūtais augstums virs jūras līmeņa ir 500—1500 m. 50—200 km no Indijas okeāna piekrastes aizņem zemienes. Tur atrodas tūristu iecienītas koraļļu pludmales. Kenija atrodas tektoniski aktīvā lūzumzonā. Valsts teritoriju aizņem savannas. Tās augstākā virsotne ir [[Kenijas kalns]] (5199 m vjl) un tā virsotni, neskatoties uz ekvatora tuvumu klāj ledājs.<ref>Igaune S., Šusters, E. 2004. Ģeogrāfija pamatskolai. 1. daļa. Izdevniecība Raka.</ref> Kenijas [[Naivašas ezers]] atrodas [[Austrumāfrikas lūzumzona|Lielā rifta ielejā]]. Garākā upe valstī ir [[Tana (upe)|Tanas upe]].
+
+== Ekonomika ==
+Lielākā daļa iedzīvotāju nodarbojas ar [[Lauksaimniecība|lauksaimniecību]]. Lauksaimniecība veido 26% no valsts [[IKP]] un ar to nodarbojas vairāk nekā 40% no valsts iedzīvotājiem, tai skaitā 70% no lauku iedzīvotājiem.<ref>{{tīmekļa atsauce|title=Kenya at a glance
+|url=http://www.fao.org/kenya/fao-in-kenya/kenya-at-a-glance/en/|publisher=Food and Agriculture Organization of the United Nations|accessdate={{dat|2018|8|5||bez}}}}</ref> Valsts eksportē [[Tēja|tēju]] un [[Kafija|kafiju]] un nesen sāka eksportēt svaigus [[zieds|ziedus]] uz [[Eiropa|Eiropu]].<ref name=BBC>{{tīmekļa atsauce|title=Why Kenya is the flower garden of Europe|url=https://www.myassamtea.com/tea-plantation/top-tea-exporters/|3=|publisher=[[BBC]]|year=2015|accessdate=2017. gada 24. jūnijs|archiveurl=https://web.archive.org/web/20180116134927/https://www.myassamtea.com/tea-plantation/top-tea-exporters/|archivedate={{dat|2018|01|16||bez}}}}</ref> Kenija ir trešā lielākā tējas ražotāja pasaulē, kā arī vislielākā [[Melnā tēja|melnās tējas]] eksportētāja pasaulē.<ref>{{tīmekļa atsauce|title=Tea Exporters and Tea Growing Countries in World|url=https://www.myassamtea.com/tea-plantation/top-tea-exporters/|website=myassamtea.com|accessdate={{dat|2018|8|5||bez}}|archiveurl=https://web.archive.org/web/20180808023703/https://www.myassamtea.com/tea-plantation/top-tea-exporters/|archivedate={{dat|2018|08|08||bez}}}}</ref><ref>{{tīmekļa atsauce|title=Kenya earns a record Sh125b from tea exports|url=https://www.standardmedia.co.ke/business/article/2000192045/kenya-earns-a-record-sh125b-from-tea-exports|website=standardmedia.co.ke|accessdate={{dat|2018|8|5||bez}}}}</ref> Pakalpojumu nozare arī ir nozīmīgs ekonomikas virzītājspēks.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20131102104414/http://www.beforethey.com/journey/kenya---tanzania Before They Pass Away: Kenya + Tanzania] {{en ikona}}
+
+{{Āfrika-aizmetnis}}
+
+{{Nāciju sadraudzība}}
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kenija| ]]

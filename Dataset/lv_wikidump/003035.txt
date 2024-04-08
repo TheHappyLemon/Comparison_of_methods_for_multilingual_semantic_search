@@ -1,0 +1,56 @@
+{{Personas infokaste
+|        platums = 
+|          vārds = Vasko da Gama
+|     vārds_orig = ''Vasco da Gama''
+|         attēls = Gregório Lopes - Vasco da Gama (ca 1524).jpg
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt = [[1460]]. vai [[1469]]. gadā
+|       dz_vieta = [[Siniša]], [[Alentežu province]] {{POR}}
+|         m_gads = 1524
+|      m_mēnesis = 12
+|        m_diena = 23
+|        m_vieta = [[Koči (Indija)|Kočina]] (tagad [[Kerala]], {{IND}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = [[portugāļi|portugālis]]
+|         vecāki = Eštevans da Gama<br />Izabela Sodra
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = Katarina de Ataide
+|          bērni = 
+|   nodarbošanās = jūrasbraucējs<br />Portugāles Indijas vicekaralis
+|       paraksts = Vasco da Gama signature almirante.svg
+|       piezīmes = 
+|    kategorijas = nē
+|    citas daļas = 
+}}
+
+'''Vasko da Gama''' ({{val|pt|Vasco da Gama}}, {{izrunā|ˈvaʃku dɐ ˈɡɐmɐ}}; dzimis [[1460]]. vai [[1469]]. gadā, miris {{dat|1524|12|23}}) bija [[portugāļi|portugāļu]] jūrasbraucējs, viena no nozīmīgākajām personām [[Lielie ģeogrāfiskie atklājumi|Lielo ģeogrāfisko atklājumu]] laikā, bija pirmais eiropietis, kas sasniedza [[Indija|Indiju]] pa jūras ceļu.
+
+== Dzīvesgājums ==
+Dzimis Sinišas cietokšņa komandiera Eštevana da Gamas (''Estêvão da Gama'') ģimenē. Arī viņa  tēvs bija savulaik centies atrast jūrasceļu uz Indiju. Vasko da Gamas māte Izabela Sodra (''Izabel Sodr'') bija [[angļi|angliete]]. Maz ir zināms par Vasko da Gamas bērnību. No 1484. līdz 1492. gadam, iespējams, [[Evora|Evorā]] viņš studēja [[astronomija|astronomiju]] un [[navigācija|navigāciju]].<ref name="asij"/> 1486. gadā Vasko da Gama kļuva par jūrnieku.<ref name="asij"/>
+
+No 1497. līdz 1499. gadam savā pirmajā kuģojumā uz [[Āzija|Āziju]] viņš ar četriem kuģiem apbrauca [[Āfrika]]s dienvidos esošo [[Labās Cerības rags|Labās Cerības ragu]] un kļuva par pirmo eiropieti, kas ar kuģiem sasniedza [[Indijas okeāns|Indijas okeānu]]. {{dat|1498|5|20}} Vasko da Gamas flote sasniedza Indijas dienvidus.
+
+1500. gadā viņš apprecējās ar Katarinu de Ataidi (''Catarina de Ataíde'', rakstīta arī kā ''Cateriana'' un ''Caterina''),<ref name="asij"/><ref>[https://gw.geneanet.org/frebault?lang=en&n=de+ataide&oc=0&p=catarina Geneanet: Catarina de Ataíde]</ref> viņiem piedzima seši dēli un viena meita. Otro reizi viņš devās uz Indiju no 1502. līdz 1503. gadam ar 20 kuģiem, bet trešo reizi 1524. gadā, kad viņš kļuva par [[Portugāles Indija]]s [[vicekaralis|vicekarali]]. Tā paša gada beigās Vasko da Gama nomira.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="asij">{{tīmekļa atsauce | url= http://www.asij.ac.jp/elementary/gr5web/c5r/explorer_reports/gwen.htm | title= Vasco da Gama | publisher= www.asij.ac.jp | accessdate= 2011-11-10 | language= angliski | archiveurl= https://web.archive.org/web/20111110163606/http://www.asij.ac.jp/elementary/gr5web/c5r/explorer_reports/gwen.htm | archivedate= 2011-11-10 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.bbc.co.uk/history/historic_figures/da_gama_vasco.shtml BBC biogrāfija] {{en ikona}}
+
+{{cilvēks-aizmetnis}}
+{{Portugāle-aizmetnis}}
+{{authority control}}
+
+{{DEFAULTSORT:Gama, Vasko da}}
+[[Kategorija:1460. gados dzimušie]]
+[[Kategorija:1524. gadā mirušie]]
+[[Kategorija:Portugāļu jūrasbraucēji]]
+[[Kategorija:Lielie ģeogrāfiskie atklājumi]]

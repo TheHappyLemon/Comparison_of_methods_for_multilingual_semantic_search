@@ -1,0 +1,91 @@
+'''Armēņu alfabēts''' ir [[alfabēts]], kas tiek lietots [[armēņu valoda]]s rakstībā. Armēņu alfabētu [[406]]. gadā radīja [[Armēņi|armēņu]] mūks [[Mesrops Maštocs]]. Sākotnēji tajā bija 36 zīmes: 7 [[patskanis|patskaņi]] un 29 [[līdzskanis|līdzskaņi]]. Vēlāk, aptuveni [[12. gadsimts|12. gadsimtā]] tika pievienoti vēl divi burti. Ar armēņu alfabēta burtiem apzīmē arī skaitļus.
+
+Visticamākais, ka armēņu alfabēta pamatā ir [[grieķu alfabēts]], lai gan iespējams, ka tā izveidošanai izmantota arī sīriešu, feniķiešu vai palavi rakstība.
+
+{|
+|
+! Nosaukums || Mazais burts || Lielais burts || Transliterācija || Izruna || Skaitlis
+|- align="center"
+| 1 || aib || ա || Ա || a || a || 1
+|- align="center"
+| 2 || ben || բ || Բ || b || b || 2
+|- align="center"
+| 3 || gim || գ || Գ || g || g || 3
+|- align="center"
+| 4 || da || դ || Դ || d || d || 4
+|- align="center"
+| 5 || jeh || ե || Ե || e || je vārda sākumā, e - vidū|| 5
+|- align="center"
+| 6 || za || զ || Զ || z || z || 6
+|- align="center"
+| 7 || e || է || Է || ē || e || 7
+|- align="center"
+| 8 || et || ը || Ը || ə || e || 8
+|- align="center"
+| 9 || to || թ || Թ || t῾ || t || 9
+|- align="center"
+| 10 || že || ժ || Ժ || ž || ž || 10
+|- align="center"
+| 11 || ini || ի || Ի || i || i || 20
+|- align="center"
+| 12 || ljun || լ || Լ || l || l || 30
+|- align="center"
+| 13 || he || խ || Խ || x || h || 40
+|- align="center"
+| 14 || ca || ծ || Ծ || c || tc || 50
+|- align="center"
+| 15 || ken || կ || Կ || k || k || 60
+|- align="center"
+| 16 || ho || հ || Հ || h || h || 70
+|- align="center"
+| 17 || dza || ձ || Ձ || j || dz || 80
+|- align="center"
+| 18 || ghat || ղ || Ղ || ł || kh || 90
+|- align="center"
+| 19 || če || ճ || Ճ || č || tč || 100
+|- align="center"
+| 20 || men || մ || Մ || m || m || 200
+|- align="center"
+| 21 || ji || յ || Յ || y || j || 300
+|- align="center"
+| 22 || nu || ն || Ն || n || n || 400
+|- align="center"
+| 23 || ša || շ || Շ || š || š || 500
+|- align="center"
+| 24 || vo || ո || Ո || o || vo vārda sākumā, o - vidū || 600
+|- align="center"
+| 25 || ča || չ || Չ || č῾ || č || 700
+|- align="center"
+| 26 || pe || պ || Պ || p || p || 800
+|- align="center"
+| 27 || dže || ջ || Ջ || ǰ || dž || 900
+|- align="center"
+| 28 || ra || ռ || Ռ || ṙ || r (ciets) || 1000
+|- align="center"
+| 29 || se || ս || Ս || s || s || 2000
+|- align="center"
+| 30 || vev || վ || Վ || v || v || 3000
+|- align="center"
+| 31 || tjun || տ || Տ || t || t || 4000
+|- align="center"
+| 32 || re || ր || Ր || r || r || 5000
+|- align="center"
+| 33 || co || ց || Ց || č || c || 6000
+|- align="center"
+| 34 || ijun || ւ || Ւ || w || v || 7000
+|- align="center"
+| 35 || pjur || փ || Փ || p῾ || p || 8000
+|- align="center"
+| 36 || ke || ք || Ք || k῾ || k || 9000
+|- align="center"
+| 37 || o || օ || Օ || ō || o || 10000
+|- align="center"
+| 38 || fe || ֆ || Ֆ || f || f || 20000
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+[[Kategorija:Alfabēti]]
+[[Kategorija:Armēņu valoda]]

@@ -1,0 +1,859 @@
+'''CPU ligzda''' (''CPU socket'') ir ligzda, kas satur vienu vai vairākas mehāniskas komponentes, kas nodrošina mehānisku un elektronisku savienojumu starp procesoru un pamatplati. Ligzda ļauj pievienot un atvienot procesoru no pamatplates, neizmantojot lodēšanu. Biežāk sastopamajās ligzdās ir fiksācijas spailes, kas nodrošina nemainīgu spēku, ar kādu procesors tiek piespiests pamatplatei. Procesoriem ar lielu daudzumu savienojumu adatām (pins) izmato nulles spēka savienojumu (ZIF). Biežāk izmanto PGA (ping grid array) un LGA (land grid array) savienojumus. Šie savienojumi veidoti, lai izvairītos no mehāniskiem bojājumiem, kuri varētu rasties, savienojot procesoru ar pamatplati. Ir ierīces, kas izmanto BGA (ball grid array) savienojumu. Šiem savienojumiem nepieciešama lodēšana, tādēļ šādi pievienoti procesori nav paredzēti mainīšanai.
+
+CPU ligzdas tiek izmantotas gan personālajos datoros gan servertehnikā. Portatīvajos datoros visbiežāk izmanto pamatplatē integrētus procesorus, jo šāds risinājums aizņem mazāk vietas. 
+
+CPU ligzdas tiek ražotas no plastmasas un bieži ir aprīkota ar sviru vai aizbāzni un metāla kontaktiem katrai procesora adatai. Ligzdas tiek veidotas tā, lai nebūtu iespējams procesoru ievietot nepareizi. PGA un LGA savienojumos tiek izmantoti stiprināšanas mehānismi, kas nodrošina drošu un precīzu savienojumu, kā arī savienojuma fizisku izturību. 
+
+
+'''Centrālā procesora ligzdu saraksts:'''
+<br />
+{| class="wikitable sortable"
+!Ligzdas nosaukums
+!Izveidošanas gads
+!CPU paaudze
+!Datora tips
+!Savienojums
+!Adatu skaits
+!Adatu garums (mm)
+!Datu pārraides ātrums
+!Piezīmes
+|-
+!DIP
+|1970
+|Intel 8086
+Intel 8088
+|
+|DIP
+|40
+|2.54
+|5/10 MHz
+|
+|-
+!PLCC
+|?
+|Intel 80186
+Intel 80286
+Intel 80386
+|
+|PLCC
+|68 to 132
+|1.27
+|6–40 MHz
+|
+|-
+!PGA 168
+|?
+|Intel 80486
+|
+|PGA
+|168
+|2.54
+|16–50 MHz
+|Dēvēts arī par Socket 0 vai Socket 486
+|-
+!Socket 1
+|1989
+|Intel 80486
+|
+|PGA
+|169
+|2.54
+|16–50 MHz
+|
+|-
+!Socket 2
+|?
+|Intel 80486
+|
+|PGA
+|238
+|2.54
+|16–50 MHz
+|
+|-
+!Socket 3
+|1991
+|Intel 80486
+|
+|PGA
+|237
+|2.54
+|16–50 MHz
+|
+|-
+!Socket 4
+|1993
+|Intel Pentium
+|
+|PGA
+|273
+|?
+|60–100 MHz
+|
+|-
+!Socket 5
+|1994
+|Intel Pentium
+AMD K5
+Cyrix 6x86
+IDT WinChip C6
+IDT WinChip 2
+|
+|PGA
+|320
+|?
+|50–100 MHz
+|
+|-
+!Socket 6
+|?
+|Intel 80486
+|
+|PGA
+|235
+|?
+|?
+|Izveidots, bet netiek lietots
+|-
+!Socket 463/
+Socket NexGen
+|1994
+|NexGen Nx586
+|
+|PGA
+|463
+|?
+|37.5–66 MHz
+|
+|-
+!Socket 7
+|1994
+|Intel Pentium
+Intel Pentium MMX
+AMD K6
+|
+|PGA
+|321
+|?
+|50–66 MHz
+|Ir iespējams Socket 7 procesoru ievietot Socket 5 ligzdā, izmantojot attiecīgo adapteri.
+|-
+!Socket 8
+|1995
+|Intel Pentium Pro
+|
+|PGA
+|387
+|?
+|60–66 MHz
+|
+|-
+!Socket 431
+|1995
+|Alpha 21064/21064A
+|Stacionārais dators
+|PGA
+|431
+|?
+|12.5–66.67 MHz
+|
+|-
+!Socket 499
+|1997
+|Alpha 21164/21164A
+|Stacionārais dators
+|PGA
+|499
+|?
+|15–100 MHz
+|
+|-
+!Slot 1
+|1997
+|Intel Pentium II
+Intel Pentium III
+|Stacionārais dators
+|Slot
+|242
+|?
+|66–133 MHz
+|Celeron (Covington, Mendocino)
+Pentium II (Klamath, Deschutes)
+Pentium III (Katmai)- all versions
+Pentium III (coppermine)
+|-
+!Socket 587
+|1998
+|Alpha 21264
+|Stacionārais dators
+|PGA
+|587
+|Desktop
+|12.5–133 MHz
+|
+|-
+!Super Socket 7
+|1998
+|AMD K6-2
+AMD K6-III
+Rise mP6
+Cyrix MII
+|
+|PGA
+|321
+|?
+|66–100 MHz
+|
+|-
+!Slot 2
+|1998
+|Intel Pentium II Xeon
+Intel Pentium III Xeon
+|Serveris
+|Slot
+|330
+|?
+|100–133 MHz
+|
+|-
+!Socket 615
+|1999
+|Intel Mobile Pentium II
+Intel Mobile Celeron
+|Portatīvais dators
+|PGA
+|615
+|?
+|66 MHz
+|
+|-
+!Slot A
+|1999
+|AMD Athlon
+|Stacionārais dators
+|Slot
+|242
+|?
+|100 MHz
+|
+|-
+!Slot B
+|1999
+|Alpha 21264/21264A
+|Stacionārais dators
+|Slot
+|587
+|?
+|100 MHz<sup>[1]</sup>
+|
+|-
+!Socket 370
+|1999
+|Intel Pentium III
+Intel Celeron
+VIA Cyrix III
+VIA C3
+|Stacionārais dators
+|PGA
+|370
+|1.27<sup>[2]</sup>
+|66–133 MHz
+|
+|-
+!Socket A/
+Socket 462
+|2000
+|AMD Athlon
+AMD Duron
+AMD Athlon XP
+AMD Athlon XP-M
+AMD Athlon MP
+AMD Sempron
+|Stacionārais dators
+|PGA
+|462
+|?
+|100–200 MHz
+400 MT/s<sup>[a]</sup>
+|
+|-
+!Socket 423
+|2000
+|Intel Pentium 4
+|Stacionārais dators
+|PGA
+|423
+|1<sup>[3]</sup>
+|100 MHz
+400 MT/s
+|Savienojams ar ligzdu 478, izmantojot adapteri.
+|-
+!Socket 495
+|2000
+|Intel Celeron
+Intel Pentium III
+|Portatīvais dators
+|PGA
+|495
+|1.27<sup>[4]</sup>
+|66–133 MHz
+|
+|-
+!PAC418
+|2001
+|Intel Itanium
+|Serveris
+|PGA
+|418
+|?
+|133 MHz
+|
+|-
+!Socket 603
+|2001
+|Intel Xeon
+|Serveris
+|PGA
+|603
+|1.27<sup>[5]</sup>
+|100–133 MHz
+400–533 MT/s
+|
+|-
+!Socket 478/
+Socket N
+|2001
+|Intel Pentium 4
+Intel Celeron
+Intel Pentium 4 EE
+Intel Pentium 4 M
+|Stacionārais dators
+|PGA
+|478
+|1.27<sup>[6]</sup>
+|100–200 MHz
+400–800 MT/s
+|
+|-
+!Socket 563
+|2002
+|AMD Athlon XP-M
+|Portatīvais dators
+|PGA
+|563
+|?
+|333 MHz
+|
+|-
+!PAC611
+|2002
+|Intel Itanium 2
+HP PA-8800, PA-8900
+|Serveris
+|PGA
+|611
+|?
+|200 MHz
+|
+|-
+!Socket 604
+|2002
+|Intel Xeon
+|Serveris
+|PGA
+|604
+|1.27<sup>[5]</sup>
+|100–266 MHz
+400–1066 MT/s
+|
+|-
+!Socket 754
+|2003
+|AMD Athlon 64
+AMD Sempron
+AMD Turion 64
+|Stacionārais dators
+|PGA
+|754
+|1.27<sup>[7]</sup>
+|200–800 MHz
+|
+|-
+!Socket 940
+|2003
+|AMD Opteron
+AMD Athlon 64 FX
+|Stacionārais dators<br />Serveris
+|PGA
+|940
+|1.27<sup>[8]</sup>
+|200–1000 MHz
+|
+|-
+!Socket 479
+|2003
+|Intel Pentium M
+Intel Celeron M
+|Portatīvais dators
+|PGA
+|479<sup>[9]</sup>
+|?
+|100–133 MHz
+400–533 MT/s
+|
+|-
+!Socket 939
+|2004
+|AMD Athlon 64
+AMD Athlon 64 FX
+AMD Athlon 64 X2
+AMD Opteron
+|Stacionārais dators
+|PGA
+|939
+|1.27<sup>[8]</sup>
+|200–1000 MHz
+|
+|-
+!LGA 775/
+Socket T
+|2004
+|Intel Pentium 4
+Intel Pentium D
+Intel Celeron
+Intel Celeron D
+Intel Pentium XE
+Intel Core 2 Duo
+Intel Core 2 Quad
+Intel Xeon
+|Stacionārais dators
+|LGA
+|775
+|1.09 x 1.17<sup>[10]</sup>
+|1600 MHz
+|Var izmantot LGA 771 CPU veicot modificēšanu un izmantojot adapteri
+|-
+!Socket M
+|2006
+|Intel Core Solo
+Intel Core Duo
+Intel Dual-Core Xeon
+Intel Core 2 Duo
+|Portatīvais dators
+|PGA
+|478
+|?
+|133–166 MHz
+533–667 MT/s
+|Aizvieto ligzdu 479
+|-
+!LGA 771/
+Socket J
+|2006
+|Intel Xeon
+|Serveris
+|LGA
+|771
+|1.09 x 1.17<sup>[11]</sup>
+|1600 MHz
+|
+|-
+!Socket S1
+|2006
+|AMD Turion 64 X2
+|Portatīvais dators
+|PGA
+|638
+|1.27<sup>[12]</sup>
+|200–800 MHz
+|
+|-
+!Socket AM2
+|2006
+|AMD Athlon 64
+AMD Athlon 64 X2
+|Stacionārais dators
+|PGA
+|940
+|1.27<sup>[8]</sup>
+|200–1000 MHz
+|Aizvieto ligzdu 754 un ligzdu 939
+|-
+!Socket F/
+Socket L (Socket 1207FX)
+|2006
+|AMD Athlon 64 FX
+AMD Opteron
+(Socket L only support Athlon 64 FX)
+|Stacionārais dators
+
+
+Serveris
+|LGA
+|1207
+|1.1<sup>[13]</sup>
+|Socket L: 1000 MHz in Single CPU mode,
+2000 MHz in Dual CPU mode
+|Aizvieto ligzdu 940
+Ligzda L tika radīta entuziastiem, kas vēlējās servera jaudas CPU lietot stacionārajā datorā
+<br />
+|-
+!Socket AM2+
+|2007
+|AMD Athlon 64
+AMD Athlon X2
+AMD Phenom
+AMD Phenom II
+|Stacionārais dators
+|PGA
+|940
+|1.27<sup>[8]</sup>
+|200–2600 MHz
+|Aizvieto ligzdu AM2
+AM2+ Pkg. CPU var izmantot ligzdā AM2
+AM2 Pkg. CPU var izmantot ligzdā AM2+
+|-
+!Socket P
+|2007
+|Intel Core 2
+|Portatīvais dators
+|PGA
+|478
+|?
+|133–266 MHz
+533–1066 MT/s
+|Aizvieto ligzdu M
+|-
+!LGA 1366/
+Socket B
+|2008
+|Intel Core i7 (900 series)
+Intel Xeon (35xx, 36xx, 55xx, 56xx series)
+|Stacionārais dators
+
+
+Serveris
+|LGA
+|1366
+|?
+|4.8–6.4 GT/s
+|Aizvieto ligzdu  J (LGA 771)
+|-
+!rPGA 988A/
+Socket G1
+|2008
+|Intel Core i7 (600, 700, 800, 900 series)
+Intel Core i5 (400, 500 series)
+Intel Core i3 (300 series)
+Intel Pentium (P6000 series)
+Intel Celeron (P4000 series)
+|Portatīvais dators
+|rPGA
+|988
+|1
+|2.5 GT/s, 4.8 GT/s
+|
+|-
+!Socket AM3
+|2009
+|AMD Phenom II
+AMD Athlon II
+AMD Sempron
+AMD Opteron (1300 series)
+|Stacionārais dators
+|PGA
+|941<sup>[14]</sup> or 940<sup>[15]</sup>
+|1.27<sup>[8]</sup>
+|200–3200 MHz
+|Aizvieto ligzdu  AM2+
+AM3 Pkg. CPU var izmantot ligzdās AM2/AM2+
+|-
+!LGA 1156/
+Socket H
+|2009
+|Intel Core i7 (800 series)
+Intel Core i5 (700, 600 series)
+Intel Core i3 (500 series)
+Intel Xeon (X3400, L3400 series)
+Intel Pentium (G6000 series)
+Intel Celeron (G1000 series)
+|Stacionārais dators
+|LGA
+|1156
+|?
+|2.5 GT/s
+|
+|-
+!Socket G34
+|2010
+|AMD Opteron (6000 series)
+|Serveris
+|LGA
+|1974
+|?
+|200–3200 MHz
+|Aizvieto ligzdu  F
+|-
+!Socket C32
+|2010
+|AMD Opteron (4000 series)
+|Serveris
+|LGA
+|1207
+|?
+|200–3200 MHz
+|
+|-
+!LGA 1248
+|2010
+|Intel Itanium 9300-series and up
+|Serveris
+|LGA
+|1248
+|?
+|4.8-6.4 GT/s
+|
+|-
+!LGA 1567/
+Socket LS
+|2010
+|Intel Xeon 6500/7500-series
+|Serveris
+|LGA
+|1567
+|?
+|4.8–6.4 GT/s
+|
+|-
+!LGA 1155/
+Socket H2
+|2011/Q1
+2011.01.09
+|Intel Sandy Bridge
+Intel Ivy Bridge
+Intel Xeon E3 12xx
+Sandy Bridge 12xx
+Ivy Bridge 12xxV2
+|Stacionārais dators
+|LGA
+|1155
+|?
+|5.7 GT/s
+|
+|-
+!LGA 2011/
+Socket R
+|2011/Q3
+2011.11.14
+|Intel Core i7 3xxx Sandy Bridge-E
+Intel Core i7 4xxx Ivy Bridge-E
+Intel Xeon E5 2xxx/4xxx (Sandy Bridge EP) (2/4S)
+Intel Xeon E5-2xxx/4xxx v2 (Ivy Bridge EP) (2/4S)
+|Stacionārais dators
+
+
+Serveris
+|LGA
+|2011
+|?
+|4.8–6.4 GT/s
+|
+|-
+!rPGA 988B/
+Socket G2
+|2011
+|Intel Core i7 (2000, 3000 series)
+Intel Core i5 (2000, 3000 series)
+Intel Core i3 (2000, 3000 series)
+|Portatīvais dators
+|rPGA
+|988
+|1
+|2.5 GT/s, 4.8 GT/s
+|
+|-
+!Socket FM1
+|2011
+|AMD Llano Processors
+|Stacionārais dators
+|PGA
+|905
+|1.27
+|5.2 GT/s
+|
+|-
+!Socket FS1
+|2011
+|AMD Llano Processors
+|Portatīvais dators
+|PGA
+|722
+|1.27
+|3.2 GT/s
+|
+|-
+!Socket AM3+
+|2011
+|AMD FX Vishera
+AMD FX Zambezi
+AMD Phenom II
+AMD Athlon II
+AMD Sempron
+|Stacionārais dators
+|PGA
+|942 (CPU 71pin)
+|1.27
+|3.2 GT/s
+|
+|-
+!LGA 1356/
+Socket B2
+|2012
+|Intel Xeon (E5 1400 & 2400 series)
+|Serveris
+|LGA
+|1356
+|?
+|3.2–4.0 GT/s
+|
+|-
+!Socket FM2
+|2012
+|AMD Trinity Processors
+|Stacionārais dators
+|PGA
+|904
+|1.27
+|?
+|
+|-
+!LGA 1150/
+Socket H3
+|2013
+|Intel Haswell
+Intel Haswell Refresh
+Intel Broadwell
+|Stacionārais dators
+|LGA
+|1150
+|?
+|?
+|
+|-
+!rPGA 946B/947/
+Socket G3
+|2013
+|Intel Haswell
+|Portatīvais dators
+|rPGA
+|946
+|?
+|?
+|
+|-
+!Socket FM2+
+|2014
+|AMD Kaveri Processors
+AMD Godavari Processors
+|Stacionārais dators
+|PGA
+|906
+|1.27
+|?
+|Savienojams ar AMD Accelerated Processing Units (APUs)
+|-
+!Socket AM1
+|2014
+|AMD Athlon
+AMD Sempron
+|Stacionārais dators
+|PGA
+|721
+|1.27
+|?
+|Savienojams ar AMD Accelerated Processing Units (APUs)
+|-
+!LGA 1151/
+Socket H4
+|2015
+|Intel Skylake
+Intel Kaby Lake
+Intel Coffee Lake
+|Stacionārais dators
+|LGA
+|1151
+|?
+|5 GT/s - 8 GT/s
+|Lieto Intel 6. paaudzes (Skylake), 7. paaudzes  (Kaby Lake), 8. paaudzes (Coffee Lake) un 9 paaudzes (Coffee Lake) procesoriem
+|-
+!LGA 3647
+|2016
+|Intel Xeon Phi
+Intel Skylake-SP
+|Serveris
+|LGA
+|3647
+|?
+|?
+|Lieto Intel Xeon Phi x200 un Xeon Scalable procesoriem
+|-
+!Socket AM4
+|2017
+|AMD Ryzen 7
+AMD Ryzen 5
+AMD Ryzen 3
+|Stacionārais dators
+|PGA
+|1331
+|1
+|Depends on DDR4 speed
+|Savienojams ar AMD Ryzen 7, Ryzen 5 un Ryzen 3 Zen procesoriem
+|-
+!Socket SP3
+|2017
+|AMD Epyc
+|Serveris
+|LGA
+|4094
+|?
+|Depends on DDR4 speed
+|Savienojams ar AMD Epyc procesoriem
+|-
+!Socket TR4
+|2017
+|AMD Ryzen Threadripper
+|Stacionārais dators
+|LGA
+|4094
+|?
+|Depends on DDR4 speed
+|Savienojams ar AMD Ryzen Threadripper procesoriem
+|-
+!LGA 2066/
+Socket R4
+|2017
+|Intel Skylake-X
+Intel Kaby Lake-X
+|Stacionārais dators
+
+
+Serveris
+|LGA
+|2066
+|?
+|?
+|Izmato Intel 7. paaudzes (Skylake-X & Kaby Lake-X) Core-X procesoriem
+|-
+!Ligzdas nosaukums
+!Izveidošanas gads
+!CPU paaudze
+!Datora tips
+!Savienojums
+!Adatu skaits
+!Adatu garums (mm)
+!Datu pārraides ātrums
+!Piezīmes
+|}
+{{IT-aizmetnis}}
+
+[[Kategorija:Datoru aparatūra]]

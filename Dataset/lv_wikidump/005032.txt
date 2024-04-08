@@ -1,0 +1,32 @@
+{{Citas nozīmes|mērvienību|Ņūtons (nozīmju atdalīšana)|Ņūtons}}
+[[File:Photo dynamometres charges.jpg|thumb|Spēka mērīšana ar [[dinamometrs|dinamometru]] ]]
+'''Ņūtons''' (simbols: '''N''') ir [[Starptautiskā mērvienību sistēma|SI]] sistēmas [[spēks|spēka]] mērvienība. Mērvienība nosaukta par godu angļu zinātniekam [[Īzaks Ņūtons|Īzakam Ņūtonam]].
+
+== Definīcija ==
+1 Ν ir spēks, kas ķermenim, kura masa ir 1 kg, piešķir 1 m/s<sup>2</sup> lielu paātrinājumu, kas vērsts spēka darbības virzienā <ref>B. Rolovs. Par fiziku un fiziķiem. Fizikas terminu skaidrojošā vārdnīca. — R., Zinātne, 1989</ref>
+
+Pēc [[Ņūtona likumi|Otrā Ņūtona likuma]] 
+
+<math>\vec{F}=m\vec{a}</math>  
+
+izriet, ka 1 N = 1 [[kilograms|kg⋅]][[metrs|m]] ⋅[[sekunde|s]]<sup>-2</sup> 
+
+== Piemēri ==
+1 ņūtonu liels svars piemīt tādam ķermenim, kura masa ir 1&nbsp;kg, ja [[brīvās krišanas paātrinājums]] ir 1&nbsp;m/s<sup>2</sup>. Bet tā kā tas uz Zemes ir nevis 1, bet gan apmēram 9,8&nbsp;m/s<sup>2</sup>, tad 1&nbsp;kg smags ķermenis spiedīs uz Zemes virsmu jau ar 9,8 ņūtonu lielu [[spēks|spēku]].
+
+1 ņūtons = 10<sup>5</sup> (100 000) [[dins|dini]].
+
+Ja ķermeņa masa uz Zemes ir 1 [[Kilograms|kg]], tad tā svars būs 1 x 9,8 = 9,8 N, jeb apmēram 10 ņūtoni, tātad 1 ņūtons ir aptuveni vienāds ar 100 gramiem [[masa]]s.<br />Cilvēks, kura masa ir 70 kilogrami, spiež uz [[Zeme]]s virsmu ar 686 N lielu spēku.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{SI}}
+
+[[Kategorija:Spēka mērvienības]]
+[[Kategorija:SI mērvienības]]

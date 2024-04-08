@@ -1,0 +1,36 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:NaNitrate.png|160px]]<br />Nātrija nitrāta struktūrformula<br />[[Attēls:Dusičnan sodný.JPG|200px]]<br />Nātrija nitrāta kristāli
+|       citi nosaukumi = Čīles salpetris,<br /> nātrija salpetris
+|           CAS numurs = 7631-99-4
+|      ķīmiskā formula = NaNO<sub>3</sub>
+|              molmasa = 85
+|              blīvums = 2300
+|  kušanas temperatūra = 580 K (307&nbsp;°C)
+| viršanas temperatūra = 653 K (380&nbsp;°C) — sadalās
+| šķīdība ūdenī        = 92,1 g/100 ml (25&nbsp;°C)<br />180 g/100ml (100&nbsp;°C)
+|                 citi =
+}}
+'''Nātrija nitrāts''' (NaNO<sub>3</sub>) ir balta, kristāliska viela, kas šķīst ūdenī. Līdz 19. gs. tas bija galvenā [[slāpeklis|slāpekļa]] savienojumu ([[slāpekļskābe]]s) izejviela. Lielākās nātrija nitrāta atradnes atrodas [[čīle|Čīlē]], tāpēc to dažreiz sauc arī par '''Čīles salpetri'''. 
+
+== Iegūšana ==
+Mūsdienās slāpekļskābi ražo, oksidējot [[amonjaks|amonjaku]], un pašu nātrija nitrātu dažreiz iegūst [[nātrija hidroksīds|nātrija hidroksīda]] vai [[nātrija karbonāts|karbonāta]] reakcijā ar slāpekļskābi:
+
+:Na<sub>2</sub>CO<sub>3</sub> + 2HNO<sub>3</sub> → 2NaNO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O
+
+== Izmantošana ==
+Agrāk slāpekļskābi ražoja no nātrija nitrāta un [[sērskābe]]s:
+
+:2NaNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> → 2HNO<sub>3</sub> + Na<sub>2</sub>SO<sub>4</sub>
+
+Šī reakcija ir eksotermiska un slāpekļskābe izdalās gāzveida formā (lai iegūtu šķidrumu, to ir jākondensē).
+
+Līdz [[pirmais pasaules karš|Pirmajam Pasaules karam]] nātrija nitrātu plaši izmantoja par izejvielu slāpekļskābes un ar to saistīto [[sprāgstvielas|sprāgstvielu]] ražošanā. Lai arī nātrija nitrātu ir iespējams lietot par izejvielu [[šaujampulveris|šaujampulvera]] ražošanai, tas tomēr nav tik efektīvs, kā [[kālija nitrāts]], jo ir higroskopisks. [[Pārtikas rūpniecība|Pārtikas rūpniecībā]] nātrija nitrātu dažreiz lieto par [[konservanti|konservantu]] ('''E251''').
+
+
+{{commonscat|Sodium nitrate|Nātrija nitrāts}}
+{{ķīmija-aizmetnis}}
+{{nātrija savienojumi}}
+
+[[Kategorija:Nātrijs]]
+[[Kategorija:Nitrāti]]
+[[Kategorija:Konservanti]]

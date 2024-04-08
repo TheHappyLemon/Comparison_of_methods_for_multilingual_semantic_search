@@ -1,0 +1,77 @@
+[[Attēls:Standard Model of Elementary Particles.svg|thumbnail|235px|Elementārdaļiņas sakārtotas [[standartmodelis|standartmodelī]] (angļu valodā)]]
+'''Elementārdaļiņas''' [[elementārdaļiņu fizika|daļiņu fizikā]] ir tās daļiņas, no kurām veidota [[matērija]] un [[enerģija]] un kuras nav sadalāmas sīkāk. Piemēram, [[atoms|atomi]] ir veidoti no daļiņām [[elektrons|elektroniem]], [[protons|protoniem]] un [[neitrons|neitroniem]]. Protoni un neitroni savukārt ir veidoti no vēl sīkākām daļiņām, ko dēvē par [[kvarki]]em. Nav novērots, ka kvarkus varētu sadalīt sīkāk. Elementārdaļiņas mēdz dēvēt arī par fundamentālajām daļiņām.
+
+== Standartmodelis ==
+{{pamatraksts|standartmodelis}}
+Daļiņu fizikas [[standartmodelis|standartmodelī]] ir 12 [[fermioni|fermionu]] ("matērijas daļiņu") veidi un 12 [[bozoni|bozonu]] ("radiācijas daļiņu") veidi, kā arī tiem atbilstošās [[antidaļiņa]]s un vēl neatklātais [[Higsa bozons]]. Standartmodelis tomēr netiek uzskatīts par fundamentālu teoriju, bet gan drīzāk par provizorisku, jo savā būtībā nav savienojams ar [[Alberts Einšteins|Einšteina]] [[vispārīgā relativitātes teorija|vispārīgo relativitātes teoriju]]. Tiek uzskatīts, ka varētu pastāvēt vēl citas daļiņas, ko standartmodelis neapraksta, piemēram, [[gravitons]] — [[gravitācija]]s spēka nesējdaļiņa, vai arī parasto daļiņu [[supersimetrija|supersimetriskie]] partneri.
+
+12 fundamentālās fermioniskās daļiņas iedala trīs daļiņu ģimenēs. Sešas no šīm daļiņām ir [[kvarki]]. Pārējās sešas ir [[leptoni]], no kuriem trīs ir [[neitrīno]], bet pārējiem trim — [[elektrons|elektronam]], [[mions|mionam]] un [[tau daļiņa]]i — lādiņš ir −1.
+
+<table style="text-align: left; width: 100%;" border="0" cellspacing="2"
+cellpadding="2">
+<tr style="font-weight: bold;" align="center">
+<td colspan="5" rowspan="1" style="vertical-align: top;">''Daļiņu paaudzes''</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">''Pirmā ģimene''
+* [[elektrons]] (''e<sup>-</sup>'')
+* elektronu [[neitrīno]] (''ν<sub>e</sub>'')
+* [[u kvarks|augšējais (''up'') kvarks]] (''u'')
+* [[d kvarks|apakšējais (''down'') kvarks]] (''d'')
+</td>
+<td style="vertical-align: top;"><br />
+</td>
+<td style="vertical-align: top;">''Otrā ģimene''
+* [[mions]] (''μ<sup>-</sup>'')
+* mionu neitrīno (''ν<sub>μ</sub>'')
+* [[C kvarks]] (''c'', šarmantais (''charm'') kvarks)
+* [[S kvarks]] (''s'', dīvainais (''strange'') kvarks)
+</td>
+<td style="vertical-align: top;"><br />
+</td>
+<td style="vertical-align: top;">''Trešā ģimene''
+* [[tau daļiņa]] (''τ<sup>-</sup>'')
+* tau neitrīno(''ν<sub>τ</sub>'')
+* [[T kvarks]] (''t'', virsotnes (''top'') kvarks)
+* [[B kvarks]] (''b'', pamata (''bottom'') kvarks)
+</td>
+</tr>
+</table>
+
+Pastāv arī 12 fundamentālās fermioniskās [[antidaļiņa]]s, kas atbilst šīm 12 daļiņām. [[Pozitroni|Pozitrons]], piemēram, atbilst [[elektrons|elektronam]], un tā elektriskais lādiņš ir +1. Līdzīgā kārtā pastāv arī pozitīvais mions un pozitīvā tau daļiņa, visu sešu veidu antikvarki un visu trīs veidu antineitrīno.
+
+[[Kvarki]] un [[antikvarki]] nekad nav novēroti atsevišķi. Kvarks var būt savienojies ar antikvarku, veidojot [[mezoni|mezonu]]. Jāpiezīmē, ka bez kvarku "smaržām" ("šarmantais", "dīvainais" utt.) tiem ir arī "krāsas". Kvarkam ir noteikta "krāsa", savukārt antikvarkam atbilstošā "antikrāsa". Līdz ar to tās atceļ viena otru, un mezons ir melns — bez krāsas. Trīs kvarki kopā var veidot [[barioni|barionu]] — ja viens kvarks ir "sarkans", otrs — "zils", bet trešais — "zaļš" (krāsas nav īstas, tās ir pieņemtas). Kopā šīs trīs krāsas veido baltu. Trīs antikvarki var veidot "antibarionu", ja kvarku krāsas ir "antisarkana", "antizila" un "antizaļa" (antibarions ir "antibalts").
+
+Kvarkiem piemīt arī daļveida [[elektriskais lādiņš]]. Kvarkiem iespējams lādiņš vai nu +2/3 vai −1/3, savukārt antikvarkiem −2/3 vai +1/3.
+
+No 12 bozoniskajām fundamentālajām daļiņām astoņas ir [[gluons|gluoni]]. Gluoni ir [[stiprā mijiedarbība|stiprās mijiedarbības]] [[nesējdaļiņas]], un tiem piemīt gan "krāsa", gan "antikrāsa". Gluoniem nav [[masa]]s, un tos nevar novērot ar [[daļiņu detektori]]em. Tāpat kā vienkārši kvarki tie rada [[hadroni|hadronu]] plūsmu.
+
+No četriem pārējiem bozoniem trīs ir [[vājā mijiedarbība|vājās mijiedarbības]] [[nesējdaļiņas]], bet ceturtais — [[fotons]], kas ir [[magnētiskais spēks|elektromagnētiskā spēka]] nesējdaļiņa.
+
+Lai arī [[vājā mijiedarbība]] un [[elektromagnētiskais spēks]] mums ikdienā šķiet atšķirīgi, tiek uzskatīts, ka augstas enerģijas apstākļos tie kļūst par vienotu [[elektrovājais spēks|elektrovājo spēku]]. Uzskata, ka šī starpība starp augstas un zemas enerģijas apstākļiem ir saistīta ar [[Higsa bozons|Higsa bozonu]]. Spontānās simetrijas laušanas procesā Higsa bozons elektrovājajā telpā izvēlas virzienu, kas liek trīs elektrovājajām daļiņām kļūt ļoti smagām (vājie bozoni), bet vienai palikt bez masas (elektromagnētiskajam fotonam). Saskaņā ar [[CERN]] organizācijas eksperimentāliem datiem Higsa bozona masa ir 126,5 ± 0,6 [[Elektronvolts|GeV]]/c<sup>2</sup>. <ref>{{Tīmekļa atsauce |url=http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html |title=CERN experiments observe particle consistent with long-sought Higgs boson |publisher=CERN press release |date= |accessdate=2012-07-04 |archive-date=2012-07-05 |archive-url=https://web.archive.org/web/20120705215550/http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html }}</ref>
+
+[[Elementārdaļiņu fizika|Elementārdaļiņu fizikā]] pēdējā laikā ir bijuši vairāki būtiski atklājumi. Uzskata, ka šobrīd pastāv vairāk nekā 200 elementārdaļiņu veidu, lai gan pierādījumi par dažu daļiņu eksistenci labākajā gadījumā ir tikai teorētiski.
+Agrāk uzskatīja, ka elementārdaļiņas, piemēram, [[elektrons|elektroni]], nav veidoti no vēl sīkākām sastāvdaļām. Tomēr nu jau daudzi fiziķi apgalvo, ka pat šīs daļiņas ir veidotas no [[kvants|kvantu]] cilpveida vienībām, ko sauc par [[superstīga|superstīgām]] vai kvantu cilpām. Uzskata, ka tās ir miljardiem reižu mazākas nekā [[fundamentālā daļiņa|fundamentālās daļiņas]], un daudzi fiziķi domā, ka tieši tās veido reālo [[visums|Visumu]] (sk. [[stīgu teorija]]). Ja tā ir patiesība, tad varētu rasties teorija, kas izskaidrotu jebkā rašanos.
+
+== Ārpus standartmodeļa ==
+
+Būtisks standartmodeļa papildinājums — [[supersimetrija]] — iekļauj supersimetriskās daļiņas. Katrai [[standartmodelis|standartmodeļa]] daļiņai šādi būtu supersimetrisks partneris, kura [[spins]] no parastās daļiņas atšķirtos par 1/2. Supersimetriskās daļiņas būtu arī smagākas par parastajām — pārāk masīvas, lai tās varētu novērot parastajā veidā.
+
+[[Stīgu teorija]] savukārt apgalvo, ka katrs fundamentālās daļiņas veids atbilst atšķirīgam [[Stīgas (stīgu teorija)|fundamentālo stīgu]] rezonantās vibrācijas modelim. Visas stīgas ir vienādas, taču dažādas daļiņas atšķir to vibrācijas modeļi. Masīvākām daļiņām atbilst augstākas enerģijas vibrācijas. Elementārdaļiņas nesatur stīgas; tās IR stīgas. Stīgu teorija paredz [[gravitoni|gravitonu]] esamību. Gravitonus gan nav iespējams novērot eksperimentāli, jo [[gravitācija]]s spēks ir nesalīdzināmi vājāks par pārējiem [[fundamentālā mijiedarbība|fundamentālajiem spēkiem]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Elementārdaļiņas}}
+{{Visuma struktūru veidi}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elementārdaļiņas| ]]
+[[Kategorija:Subatomāras daļiņas]]
+[[Kategorija:Kvantu mehānika]]
+[[Kategorija:Elementārdaļiņu fizika]]
+[[Kategorija:Kvantu lauku teorija]]

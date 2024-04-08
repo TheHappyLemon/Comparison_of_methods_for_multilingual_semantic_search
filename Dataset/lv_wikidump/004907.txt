@@ -1,0 +1,11 @@
+'''Aktivitāte''' ķīmijā un fizikā ir jēdziens, kuru lieto, lai neideāliem (reāliem) [[šķidrums|šķidrumiem]] un [[gāze|gāzēm]] varētu lietot aprēķinu formulas, kas ir paredzētas ideāliem šķidrumiem vai gāzēm. Aktivitāti parasti apzīmē ar burtu ''a''. Aktivitāti aprēķina:
+
+<big>a=g*c</big>
+
+kur: ''a'' — aktivitāte (parasti mol/l), ''c'' — [[koncentrācija]] (arī [[mols|mol]]/[[litrs|l]]), ''g'' — aktivitātes koeficients. ''g'' ir atkarīgs no koncentrācijas (vai parciālā spiediena, gāzēm), samazinoties koncentrācijai tas tiecas uz nulli, tāpēc atšķaidītiem šķīdumiem (un retinātām gāzēm) darbojas ideālo šķīdumu formulas. ''g'' ir atkarīgs arī no vielas dabas un to nosaka eksperimentāli.
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmija]]

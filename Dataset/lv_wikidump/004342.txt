@@ -1,0 +1,46 @@
+Hopfīlda tīkls ir viens no [[Mākslīgais neironu tīkls|neironu tīklu]] veidiem, nosaukts tā radītāja [[Džons Džozefs Hopfīlds|Džona Hopfīlda]] vārdā. Hopfīlda tīkls modelē asociatīvo atmiņu — ar adresāciju pēc satura, nevis adreses/indeksa. Konkrēti — tas spēj noteikt, vai kaut kāds atšķirīgs (bojāts) attēls ir pietiekami līdzīgi kaut kādas grupas attēliem vai nē.
+
+== Struktūra ==
+
+* Tīklā ir viens neironu slānis.
+* Neironu svaru vērtības ir simetriskas (<math>w_{ji} = w_{ij}</math>).
+* Neironu ieejas un izejas ir bināras (parasti <math>\{-1; 1\}</math> vai <math>\{0; 1\}</math>).
+
+
+== Apmācība ==
+
+[[Attēls:HopfildaTikls.png|frame|right|Hopfīlda tīkla apmācība un darbināšana.]]
+
+Atšķirībā no daudziem citiem neironu tīklu veidiem, Hopfīlda tīkla apmācība notiek vienā solī (savukārt darbināšana — parauga atpazīšana — notiek iteratīvi).
+
+Svaru vērtības tiek izvietotas matricā, kuras kolonas apzīmē neironus, bet rindiņas — neironu svarus.
+
+Svaru vērtības nosaka pēc formulas: 
+<math>w_{ji} = \begin{cases}
+\sum_{s=1}^r p_{si} \cdot p_{sj}; & \mbox {ja } i \ne j \\
+0; & \mbox {ja } i = j
+\end{cases}</math>,<br />
+kur <math>p_{s}</math> — paraugs (bināru vērtību virkne), <math>r</math> — paraugu skaits.
+
+Attēlā "Hopfīlda tīkla apmācība un darbināšana" redzams piemērs — augšējā matrica: divi 12 vērtību gari paraugi <math>P1</math> un <math>P2</math> un ar tiem apmācītā Hopfīlda tīkla svaru vērtības.
+
+== Darbināšana ==
+
+Katrā darbināšanas — parauga atpazīšanas procesa — iterācijā katram neironam atsevišķi tiek rēķināta:
+# <math>NET</math> funkcija pēc formulas <math>NET_{j} = \sum_{i=1}^n w_{ji} \cdot o_{i}</math>, kur <math>w_{ji}</math> — <math>j</math>-tā neirona <math>i</math>-tais svars, <math>o_{i}</math> — <math>i</math>-tā neirona izejas vērtība (iepriekšējā iterācijā — jeb ieejas vērtība šajā iterācijā);
+# izejas vērtība, izmantojot aktivizācijas funkciju: <math>o_{j} = \begin{cases}
+-1; & \mbox {ja } NET_{j} \le 0 \\
+1; & \mbox {ja } NET_{j} > 0
+\end{cases}</math>
+
+Attēlā zem svaru matricas redzams piemērs, atpazīstot paraugu <math>X</math>, kas ir sākotnējās ieejas vērtības (iepriekšējās iterācijas izejas vērtības).
+
+Piemērā iezīmēta 4. neirona <math>NET</math> funkcijas rēķināšana 2. iterācijā.
+
+Attēlā redzams, ka 3. un 4. iterācijas visu neironu atbilstošās <math>NET</math> funkciju vērtības sakrīt, kas norāda, ka atpazīšanas process ir konverģējis un 3. iterācijas izeju varam uzskatīt par meklēto attēlu (kā redzams, tas ir apmācības procesā ievadītais paraugs <math>P1</math>).
+
+== Ārējās saites ==
+
+[https://web.archive.org/web/20060717210328/http://www.zuters.com/anns/anns.html Jānis Zuters. Neironu tīkli]
+
+[[Kategorija:Mākslīgais neironu tīkls]]

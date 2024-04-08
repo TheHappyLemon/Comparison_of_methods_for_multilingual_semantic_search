@@ -1,0 +1,101 @@
+{{Latvijas novada infokaste
+| nosaukums         = Babītes pagasts
+| karte             = Babītes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Babītes pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Babītes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Mārupes novads
+| centrs            = Piņķi
+| platība           = 165,2
+| iedzīvotāji       = 7795
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 7795 / 165.2 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.babite.lv
+| nos_vācu          = Pinkenhof
+| ref_vācu          =
+| nos_krievu        = Пинкенская
+| ref_krievu        =
+}}
+
+'''Babītes pagasts''' ir viena no [[Mārupes novads|Mārupes novada]] administratīvajām teritorijām tā austrumos. Robežojas ar sava novada [[Mārupes pagasts|Mārupes]] un [[Salas pagasts (Babītes novads)|Salas pagastu]], [[Jūrmala]]s pilsētu, [[Rīga]]s pilsētu, [[Olaines novads|Olaines novada]] [[Olaines pagasts|Olaines pagastu]] un [[Jelgavas novads|Jelgavas novada]] [[Valgundes pagasts|Valgundes pagastu]].
+
+== Daba ==
+=== Reljefa formas ===
+[[Baznīckalns (Babītes pagasts)|Baznīckalns]], [[Garā kāpa]], [[Krievu Ložmetējkalns]], [[Nordeķu-Kalnciema kāpu grēda]]
+
+=== Hidrogrāfija ===
+==== Ūdensteces ==== 
+[[Beberbeķu strauts]], [[Bļodnieku poldera kanāls]], [[Brasla grāvis]], [[Cena (upe)|Cena]], [[Dzilnupe (Neriņas pieteka)|Dzilnupe]], [[Dzilnupes poldera kanāls]], [[Hapaka grāvis]], [[Klīves kanāls]], [[Miglupīte]], [[Neriņa]], [[Sarkanais grāvis]], [[Skolasceļa grāvis]], [[Trenču poldera apvadkanāls]], [[Trenču poldera kanāls]], [[Zuteņu grāvis]].
+
+==== Ūdenstilpes ====
+[[Babītes ezers]], [[Beberbeķu dzirnavezers]], [[Božu ūdenskrātuve]], [[Piņķu ūdenskrātuve]], [[Skaista ezers]].
+
+==== Purvi ====
+[[Antiņu purvs]], [[Cenas tīrelis]], [[Gailīšu purvs]], [[Rāvājs]].
+
+==== Dabas aizsardzība ====
+Pagasta teritorijā atrodas [[dabas parks]] [[Beberbeķi (dabas parks)|Beberbeķi]], daļa no [[dabas liegums|dabas lieguma]] [[Babītes ezers (dabas liegums)|Babītes ezers]], daļa no [[dabas liegums|dabas lieguma]] [[Cenas tīrelis (dabas liegums)|Cenas tīrelis]].
+
+== Vēsture ==
+1935. gadā Babītes pagasta (līdz 1925. gadam '''Piņķu pagasts''') platība bija 359 km². 1945. gadā pagastā izveidoja Babītes, [[Mazcenu ciems|Mazcenu]] un [[Trenču ciems|Trenču]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Babītes ciemam pievienoja Trenču ciemu. 1974. gadā daļu ciema teritorijas pievienoja [[Rīga]]s pilsētai. 1977. gadā pievienoja likvidēto [[Salas pagasts (Babītes novads)|Salas ciemu]] un daļu [[Kalnciema ciems|Kalnciema ciema]]. 1989. gadā daļu Babītes ciema iekļāva jaunizveidotajā [[Gātes ciems|Gātes ciemā]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Babītes pagastu apvienoja ar Salas pagastu izveidojot [[Babītes novads|Babītes novadu]].
+
+=== Pieminekļi ===
+* [[Baznīckalns (Babītes pagasts)|Baznīckalns]] - kulta vieta
+* Dizaina objekts robežzīme RĪGA
+* [[Piņķu Sv. Nikolaja luterāņu baznīca]]<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Bab%C4%ABtes+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* [[Piņķu Sv. Annas luterāņu baznīca]]
+* [[Pluģu skansts]]
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1633
+|1959|2750
+|1967|3250
+|1979|4527
+|1989|5691
+|2000|5461
+|2011|8019
+|2021|9863
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Babīte]], '''[[Piņķi]]''' (pagasta centrs), [[Spilve (Babītes pagasts)|Spilve]], [[Mežāres (Babītes pagasts)|Mežāres]], [[Brīvkalni]], [[Dzilnuciems]], [[Sēbruciems]], [[Lapsas (Babītes pagasts)|Lapsas]], [[Skārduciems]], [[Klīves]], [[Kalnciema masīvs]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Mārupes novads}}
+{{navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Babītes novads}}
+{{Rīgas rajons}}
+{{Rīgas apriņķis}}
+}}
+
+{{DEFAULTSORT:Babites pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Mārupes novada pagasti]]
+[[Kategorija:Babītes pagasts| ]]

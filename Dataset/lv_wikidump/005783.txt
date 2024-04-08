@@ -1,0 +1,10 @@
+'''[[Baits]]''' ({{val|en|byte}})<ref>{{AkadTerm|term=baits|lang=LV}}</ref> ir [[informācija]]s daudzuma mērvienība, kas parasti sastāv no astoņiem [[bits|bitiem]]. Baitu kā mērvienību parasti izmanto datoros un citās elektroniskās iekārtās, lai izmērītu šīs ierīces atmiņas daudzumu. Saīsinātā veidā baitu parasti apzīmē ar lielo '''B'''.
+
+Vienā baitā var saglabāt [[vesels skaitlis|veselu skaitli]] no 0 līdz 255 (vai arī no -128 līdz +127). Tā kā datorus bieži izmanto tekstuālās informācijas glabāšanai, vienā baitā bieži glabā 1 simbolu — burtu, ciparu vai kādu citu speciālsimbolu. Lai arī parasti ar jēdzienu "baits" saprot 8 bitu kopu, tomēr dažās sistēmās vēsturiski ir tikuši lietoti arī īsāki un garāki baiti, tāpēc dažreiz (īpaši [[datu pārraides protokols|datu pārraides protokolos]]) lieto terminu [[Oktets (informātika)|"oktets"]], kas viennozīmīgi apzīmē 8 bitu baitu.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Datu tipi]]
+[[Kategorija:Informācija]]
+[[Kategorija:Informācijas mērvienības]]

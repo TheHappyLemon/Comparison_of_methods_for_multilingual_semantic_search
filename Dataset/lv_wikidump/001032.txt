@@ -1,0 +1,132 @@
+{{Navbox
+| name       = Hinduisms
+| title      = [[Hinduisms]]
+| bodyclass  = hlist
+| basestyle  = background:#FFC569;
+| state      = {{{state|autocollapse}}}
+| image      = [[Attēls:AUM symbol, the primary (highest) name of the God as per the Vedas.svg|80px]]
+
+|group1=[[Hindu dievības|Dievības]]
+|list1=
+ {{Navbox |child |groupstyle=background:#FFC569<!--per other Hinduism-related templates-->;font-weight:normal; |evenodd=swap
+
+  | group1 = dievi
+  | list1 =
+* [[trimūrti]]
+** [[Brahma]]
+** [[Višnu]]
+** [[Šiva]]
+* [[Rāma]]
+* [[Krišna]]
+* [[Ganēša]]
+* [[Kartikeja]]
+* [[Hanumāns]]
+* [[Indra (hinduisms)|Indra]]
+* [[Agni]]
+* [[Sūrja]]
+* [[Vaju]]
+* [[Varuna (dievs)|Varuna]]
+
+  | group2 = dievietes ([[dēvī]])
+  | list2 =
+* [[tridēvī]]
+** [[Sarasvatī]]
+** [[Lakšmi]]
+** [[Pārvatī]]
+* [[Šakti]]
+* [[Durga]]
+* [[Kālī]]
+* [[Sati]]
+* [[Sita (dieviete)|Sita]]
+* [[Radha]]
+* [[Mahavidja]]
+* [[Matrika]]
+* [[Bhumi]]
+}}
+
+|group2=[[Hindu raksti]]
+|list2=
+* [[Vēdas]]
+* [[Vēdānta]]
+* [[Upanišadas]]
+* [[Mahābhārata]]
+* [[Rāmājana]]
+* [[Dēvī Mahātmja]]
+* [[purānas]] ([[Bhāgavata purāna]])
+* [[Šrī Čaitanja Čaritāmrita]]
+* [[Bhagavadgīta]]
+* [[Rigvēda]]
+* [[Sāmavēda]]
+* [[Atharvavēda]]
+* [[Jadžurvēda]]
+* [[Jogas sūtras]]
+
+|group3=Filozofijas un [[joga]]s
+|list3=
+* [[Pūrva mīmāmsa]]
+* [[Utara mīmāmsa]]
+* [[Dvaita]]
+* [[Advaita]]
+* [[Višištādvaita]]
+* [[Bhakti joga]]
+* [[Rādža joga]]
+* [[Karma joga]]
+* [[Vēdānta]]
+* [[Sānkhja]]
+
+|group4=Jēdzieni
+|list4=
+* [[Agnihotra]]
+* [[Bhakta]]
+* [[Ahimsa]]
+* [[Guru]]
+* [[Tantra]]
+* [[Vēdisms]]
+* [[Darma]]
+* [[Pārmiesošanās]]
+* [[Karma]]
+* [[Mokša (hinduisms)|Mokša]]
+* [[Mantra]] (''[[Om]]'')
+* [[Pūdža]]
+* [[Mūrti]]
+* [[Kīrtana]]
+* [[Ārati]]
+* [[Joga]]
+* [[Padievs]]
+* [[Sādhu]]
+* [[Sādhaka]]
+* [[Sansāra]]
+* [[Kali Juga]]
+* [[Parampara]]
+* [[Jagja]]
+* [[Stotra]]
+* [[Daršana]]
+* [[Sansanga]]
+* [[Džjotiša]]
+* [[Ājurvēda]]
+* [[Brahmans]]
+
+|group5=[[Guru]] un [[Svētais|svētie]]
+|list5=
+* [[Rāmakrišna]]
+* [[Vivekānanda]]
+* [[Mohandāss Karamčands Gandijs|Mahātma Gandijs]]
+* [[Pataņdžali]]
+* [[Ādi Šankara]]
+* [[Rāmānudža]]
+* [[Madhvāčārja]]
+* [[Čaitanja Mahāprabhu]]
+* [[Bhaktivēdānta Svāmī]]
+
+|group6=[[Hinduisma novirzieni]]
+|list6=
+* [[Višnuisms]]
+* [[Šivaisms]]
+* [[Šaktisms]]
+* [[Starptautiskā Krišnas apziņas biedrība|Harē Krišnas kustība (ISKCON)]]
+
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Navigācijas veidnes]]
+</noinclude>

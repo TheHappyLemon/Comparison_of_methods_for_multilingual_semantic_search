@@ -1,0 +1,209 @@
+Dalībnieku valodu ''templates'' (vai ''veidnes'').
+Lai būtu līdzīgi kā citu valodu vikipēdijās.
+Veidne ''babel'' ir definēta apmēram šādā formā: <nowiki>{{babel-x|...}}</nowiki>, kur x - valodu skaits, kuru ir paredzēts norādīt (pašlaik (2005.nov.05) x var būt no 1 līdz 9 (ieskaitot), pēc tam aiz | ... vietā liek iekšā attiecīgās valodu veidnes qq-x, kur qq - valodas kods (piem. lv, en) un x - valodas prasmes līmenis. (Jo lielāks x, jo lielāks līmenis). Pašlaik pieejamās valodu veidnes (saites uz tām veidnēm) ir redzamas šajā lapā zemāk.
+
+== Valodu saraksts ==
+=== bat-ltg - latgalīšu ([[Latgaļu valoda|latgaliski]]) ===
+* [[Veidne:user bat-ltg-1]]
+* [[Veidne:user bat-ltg-2]]
+* [[Veidne:user bat-ltg-3]]
+* [[Veidne:user bat-ltg-4]]
+* [[Veidne:user bat-ltg-0]]
+* [[Veidne:user bat-ltg]]
+
+=== bg - Български ([[Bulgāru valoda|bulgāriski]]) ===
+* [[Veidne:user bg-1]]
+* [[Veidne:user bg-2]]
+* [[Veidne:user bg-3]]
+* [[Veidne:user bg-4]]
+* [[Veidne:user bg]]
+
+=== cs – Čeština ([[Čehu valoda|čehiski]]) ===
+* [[Veidne:user cs-1]]
+* [[Veidne:user cs-2]]
+* [[Veidne:user cs-3]]
+* [[Veidne:user cs-4]]
+* [[Veidne:user cs]]
+
+=== da - Dansk ([[Dāņu valoda|dāniski]]) ===
+* [[Veidne:user da-1]]
+* [[Veidne:user da-2]]
+* [[Veidne:user da-3]]
+* [[Veidne:user da-4]]
+* [[Veidne:user da]]
+
+=== de - Deutsch ([[vācu valoda|vāciski]]) ===
+* [[Veidne:user de-1]]
+* [[Veidne:user de-2]]
+* [[Veidne:user de-3]]
+* [[Veidne:user de-4]]
+* [[Veidne:user de]]
+
+=== en - English ([[angļu valoda|angliski]]) ===
+* [[Veidne:user en-1]]
+* [[Veidne:user en-2]]
+* [[Veidne:user en-3]]
+* [[Veidne:user en-4]]
+* [[Veidne:user en]]
+
+=== eo - Esperanto ([[esperanto]]) ===
+* [[Veidne:user eo-1]]
+* [[Veidne:user eo-2]]
+* [[Veidne:user eo-3]]
+* [[Veidne:user eo-4]]
+
+=== es - Español ([[spāņu valoda|spāniski]]) ===
+* [[Veidne:user es-1]]
+* [[Veidne:user es-2]]
+* [[Veidne:user es-3]]
+* [[Veidne:user es-4]]
+* [[Veidne:user es]]
+
+=== et - Eesti keel ([[igauņu valoda|igauniski]]) ===
+* [[Veidne:user et-1]]
+* [[Veidne:user et-2]]
+* [[Veidne:user et-3]]
+* [[Veidne:user et-4]]
+* [[Veidne:user et]]
+
+=== fi - Suomen kieli ([[somu valoda]]) ===
+* [[Veidne:user fi-1]]
+* [[Veidne:user fi-2]]
+* [[Veidne:user fi-3]]
+* [[Veidne:user fi-4]]
+* [[Veidne:user fi]]
+
+=== fiu-liv - Līvõ kēļ ([[lībiešu valoda]]) ===
+* [[Veidne:user fiu-liv-1]]
+* [[Veidne:user fiu-liv-2]]
+* [[Veidne:user fiu-liv-3]]
+* [[Veidne:user fiu-liv-4]]
+* [[Veidne:user fiu-liv]]
+
+=== fiu-vro - Võro kiil ([[veriešu valoda|veriski]]) ===
+* [[Veidne:user fiu-vro-1]]
+* [[Veidne:user fiu-vro-2]]
+* [[Veidne:user fiu-vro-3]]
+* [[Veidne:user fiu-vro-4]]
+* [[Veidne:user fiu-vro]]
+
+=== fr - Français ([[franču valoda|franciski]]) ===
+* [[Veidne:user fr-1]]
+* [[Veidne:user fr-2]]
+* [[Veidne:user fr-3]]
+* [[Veidne:user fr-4]]
+* [[Veidne:user fr]]
+
+=== ga - Gaeilge ([[īru valoda|īru valodā]]) ===
+* [[Veidne:user ga-1]]
+* [[Veidne:user ga-2]]
+* [[Veidne:user ga-3]]
+* [[Veidne:user ga-4]]
+* [[Veidne:user ga]]
+
+=== hu - Magyar ([[ungāru valoda|ungāriski]]) ===
+* [[Veidne:user hu-1]]
+* [[Veidne:user hu-2]]
+* [[Veidne:user hu-3]]
+* [[Veidne:user hu-4]]
+* [[Veidne:user hu]]
+
+=== is - Íslenska ([[Islandiešu valoda|islandiešu valodā]]) ===
+* [[Veidne:user is-1]]
+* [[Veidne:user is-2]]
+* [[Veidne:user is-3]]
+* [[Veidne:user is-4]]
+* [[Veidne:user is]]
+
+=== ja - 日本語 ([[japāņu valoda|japāniski]]) ===
+* [[Veidne:user ja-1]]
+* [[Veidne:user ja-2]]
+* [[Veidne:user ja-3]]
+* [[Veidne:user ja-4]]
+* [[Veidne:user ja]]
+
+=== ko - 한국어 ([[korejiešu valoda|korejiešu valodā]]) ===
+* [[Veidne:user ko-1]]
+* [[Veidne:user ko-2]]
+* [[Veidne:user ko-3]]
+* [[Veidne:user ko-4]]
+* [[Veidne:user ko]]
+
+=== lt - Lietuvių ([[lietuviešu valoda|lietuviešu valodā]]) ===
+* [[Veidne:user lt-1]]
+* [[Veidne:user lt-2]]
+* [[Veidne:user lt-3]]
+* [[Veidne:user lt]]
+
+=== lv - Latviešu ([[latviešu valoda|latviski]]) ===
+* [[Veidne:user lv-1]]
+* [[Veidne:user lv-2]]
+* [[Veidne:user lv-3]]
+* [[Veidne:user lv-4]]
+* [[Veidne:user lv-0]]
+* [[Veidne:user lv]]
+
+=== no - Norsk ([[norvēģu valoda|norvēģu valodā]]) ===
+* [[Veidne:user no-1]]
+* [[Veidne:user no-2]]
+* [[Veidne:user no-3]]
+* [[Veidne:user no-4]]
+* [[Veidne:user no]]
+
+=== pl - Polski ([[poļu valoda|poliski]]) ===
+* [[Veidne:user pl-1]]
+* [[Veidne:user pl-2]]
+* [[Veidne:user pl-3]]
+* [[Veidne:user pl-4]]
+* [[Veidne:user pl]]
+
+=== ro - Română ([[rumāņu valoda|rumāniski]]) ===
+* [[Veidne:user ro-1]]
+* [[Veidne:user ro-2]]
+* [[Veidne:user ro-3]]
+* [[Veidne:user ro-4]]
+* [[Veidne:user ro]]
+
+=== ru - Русский ([[krievu valoda|krieviski]]) ===
+* [[Veidne:user ru-1]]
+* [[Veidne:user ru-2]]
+* [[Veidne:user ru-3]]
+* [[Veidne:user ru-4]]
+* [[Veidne:user ru]]
+
+=== rue - Русинськый ([[rusīnu (rutēņu) valoda|rutēniski]]) ===
+* [[Veidne:user rue-1]]
+* [[Veidne:user rue-2]]
+* [[Veidne:user rue-3]]
+* [[Veidne:user rue-4]]
+* [[Veidne:user rue]]
+
+=== sl - Slovenščina ([[Slovēņu valoda|slovēniski]]) ===
+* [[Veidne:user sl-1]]
+* [[Veidne:user sl-2]]
+* [[Veidne:user sl-3]]
+* [[Veidne:user sl-4]]
+* [[Veidne:user sl]]
+
+=== sv - Svenska ([[Zviedru valoda|zviedriski]]) ===
+* [[Veidne:user sv-1]]
+* [[Veidne:user sv-2]]
+* [[Veidne:user sv-3]]
+* [[Veidne:user sv-4]]
+* [[Veidne:user sv]]
+
+=== uk - Українська ([[Ukraiņu valoda|ukrainiski]]) ===
+* [[Veidne:user uk-1]]
+* [[Veidne:user uk-2]]
+* [[Veidne:user uk-3]]
+* [[Veidne:user uk-4]]
+* [[Veidne:user uk]]
+
+=== yi - ייִדיש ([[jidišs|jidišā]]) ===
+* [[Veidne:user yi-1]]
+* [[Veidne:user yi-2]]
+* [[Veidne:user yi-3]]
+* [[Veidne:user yi-4]]
+* [[Veidne:user yi]]
+
+[[Kategorija:Vikipēdija|Babel]]

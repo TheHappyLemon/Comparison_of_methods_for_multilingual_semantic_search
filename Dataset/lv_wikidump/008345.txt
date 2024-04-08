@@ -1,0 +1,10 @@
+[[Attēls:Geneva_mechanism_6spoke_animation.gif|right|Ārējais maltas mehānisms]]
+'''Maltas mehānismus''' lieto dzenošā locekļa nepārtrauktas [[rotācijas kustība]]s pārveidošanai dzenamā locekļa pārtrauktā kustībā. Uz dzenošā locekļa nostiprināts pirksts secīgi ieiet posma spraugā. Pirksts atrodas spraugas sākumā. Loceklim rotējot pulksteņa rādītāja kustības virzienā, pirksts ieiet spraugā, tuvojas krusta rotācijas asij, bet pēc tam sāk attālināties no ass un iziet no spraugas. Kamēr pirksts pārvietojas spraugā, krusts pagriežas, bet, pirkstam izejot no spraugas, krusts apstājas. Pirksts, turpinot rotēt, pēc kāda laika ieiet krusta nākamajā spraugā un krusta kustība atkārtojas. Ja krustam ir četras spraugas, tad, pirkstam veicot vienu pilnu apgriezienu, krusts pagriežas par ceturto daļu apgrieziena. Lai krusts apstāšanās laikā patvarīgi nepagrieztos, virsmu starp tā spraugām izveido ieliektu , bet dzenošā diska virsmu izliektu.
+
+Maltas mehānismus izgatavo ar trim, četrām, piecām, sešām un astoņām krusta rievām, kas atbilst 1/3, 1/6 un 1/8 dzenamā locekļa pagriezienam, dzenošajam veicot vienu pilnu apgriezienu. Rievu izvietojums var nebūt simetrisks. Iespējami iekšējie un ārējie Maltas mehānismi. Iespējami Maltas mehānismi ar vairākiem dzenamajiem locekļiem. Maltas mehānismu nosaukums ir radies no tā, ka dzenamais loceklis pēc formas atgādina [[Maltas krusts|Maltas krustu]].
+[[Attēls:Internal_Geneva_wheel_ani.gif|250px|thumb|right|Iekšējais Maltas mehānisms]]
+
+
+{{fizika-aizmetnis}}
+
+[[Kategorija:Klasiskā mehānika]]

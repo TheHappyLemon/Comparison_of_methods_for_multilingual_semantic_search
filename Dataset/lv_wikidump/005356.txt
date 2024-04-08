@@ -1,0 +1,77 @@
+{{nosaukums slīprakstā|string=Tour de France}}
+{{novec|Ārmstronga diskvalifikāciju}}
+'''2005. gada Tour de France''' bija jau 92. Tour de France daudzdienu velobrauciens, kurš notika no 2005. gada 2. līdz 24. jūlijam. Dalībniekiem bijā jāveic 3607km un to viņi paveica ar vidējo ātrumu - 41,654 km/h. Šogad velobraucienā 7. reizi pēc kārtas uzvarēja amerikānis [[Lānss Ārmstrongs]], pēc šīm sacensībām viņš beidza savu karjeru. Velobraucienā piedalījās arī igaunis [[Jāns Kirsipū]], kurš gan pēc 8. posma izstājās.
+
+== Rezultāti ==
+[[Attēls:Lance-Armstrong-TdF2004.jpg|right|thumb|350px|Velobrauciena uzvarētājs [[Lānss Ārmstrongs]].]]
+=== Kopvērtējums ===
+{| class="wikitable"
+!Vieta!!Vārds!!Valsts!!Komanda!!Laiks
+|- bgcolor="yellow"
+|1 
+|'''[[Lānss Ārmstrongs]]''' || '''[[Attēls:Flag of the United States.svg|20px|]] [[Amerikas Savienotās Valstis|ASV]]''' || ''' ''[[Discovery Channel (komanda)|Discovery Channel]]'' ''' ||align=right|'''86st 15' 02"'''
+|-
+|2 || [[Ivans Baso]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] || ''[[Team CSC]]'' ||align=right| 4' 40"
+|-
+|3 || [[Jans Ulrihs]] || [[Attēls:Flag of Germany.svg|20px|]] [[Vācija]] || ''[[T-Mobile Team]]'' ||align=right| 6' 21"
+|-
+|4 || [[Fransisko Mansebo]] || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Illes Balears (komanda)|Illes Balears]]'' ||align=right| 9' 59"
+|-
+|5 || [[Aleksandrs Vinokurovs]]  || [[Attēls:Flag of Kazakhstan.svg|20px|]] [[Kazahstāna]] || ''[[T-Mobile Team]]'' ||align=right| 11' 01"
+|-
+|6 || [[Levi Leipheimers]]  || [[Attēls:Flag of the United States.svg|20px|]] [[Amerikas Savienotās Valstis|ASV]] || ''[[Team Gerolsteiner]]'' ||align=right| 11' 21"
+|- bgcolor="pink"
+|7 || [[Mikāls Rasmusens]] || [[Attēls:Flag of Denmark.svg|20px|]] [[Dānija]] || ''[[Rabobank (komanda)|Rabobank]]'' ||align=right| 11' 33"
+|-
+|8 || [[Keidels Evanss]] || [[Attēls:Flag of Australia.svg|20px|]] [[Austrālija]] || ''[[Davitamon-Lotto]]'' ||align=right| 11' 55"
+|-
+|9 || [[Floids Lendiss]]  || [[Attēls:Flag of the United States.svg|20px|]] [[Amerikas Savienotās Valstis|ASV]] || ''[[Phonak Hearing Systems (komanda)|Phonak Hearing Systems]]'' ||align=right| 12' 44"
+|-
+|10 || [[Oskars Sio Pereiro]] || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Phonak Hearing Systems (komanda)|Phonak Hearing Systems]]'' ||align=right| 16' 04"
+|}
+
+=== Punkti ===
+[[Attēls:Michael Rasmussen 2005 TdF Stage 20 St Etienne ITT.jpg|right|thumb|300px|Kalnu karalis - [[Mikāls Rasmusens]].]]
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Punkti
+|- bgcolor="limegreen"
+|'''1'''||'''[[Tūrs Hūshovds]]'''||'''[[Attēls:Flag of Norway.svg|20px|]] [[Norvēģija]]'''||''' ''[[Crédit Agricole (komanda)|Crédit Agricole]]'' '''||align="right"| '''194'''
+|-
+|2||[[Stjuarts O'Greidijs]]||[[Attēls:Flag of Australia.svg|20px|]] [[Austrālija]]||''[[Cofidis]]''||align="right"| 182
+|-
+|3||[[Robijs Makjūens]]||[[Attēls:Flag of Australia.svg|20px|]] [[Austrālija]]|| ''[[Davitamon-Lotto]]'' ||align="right"| 178
+|}
+
+=== Kalnu karaļa tituls ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Punkti
+|- bgcolor="pink"
+|'''1'''||'''[[Mikāls Rasmusens]]'''||'''[[Attēls:Flag of Denmark.svg|20px|]] [[Dānija]]'''||''' ''[[Rabobank (komanda)|Rabobank]]'' '''||align="right"| '''185'''
+|- 
+|2||[[Oskars Sio Pereiro]] || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Phonak Hearing Systems (komanda)|Phonak Hearing Systems]]'' ||align=right| 155
+|- bgcolor="yellow" 
+|3||[[Lānss Ārmstrongs]]||[[Attēls:Flag of the United States.svg|20px|]] [[Amerikas Savienotās Valstis|ASV]]||''[[Discovery Channel (komanda)|Discovery Channel]]''||align=right| 99
+|}
+
+=== Labākais jaunais braucējs ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Laiks
+|- bgcolor=lightblue
+|'''1'''||'''[[Jaroslavs Popovičs]]'''||'''[[Attēls:Flag of Ukraine.svg|20px|]] [[Ukraina]]'''||''' ''[[Discovery Channel (komanda)|Discovery Channel]]'' '''||align=right| '''86st 34' 04"'''
+|-
+|2||[[Andrejs Kašečkins]]||[[Attēls:Flag of Kazakhstan.svg|20px|]] [[Kazahstāna]]||''[[Crédit Agricole (komanda)|Crédit Agricole]]''||align=right| 9' 02"
+|-
+|3||[[Alverto Kontadors]]||[[Attēls:Flag of Spain.svg|20px|]] [[Spānija]]||''[[Astana-Würth]]''||align=right| 44' 23"
+|}
+
+{{Tour de France}}
+
+{{commonscat|Tour de France 2005}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:2005. gads sportā]]
+[[Kategorija:Tour de France|2005]]

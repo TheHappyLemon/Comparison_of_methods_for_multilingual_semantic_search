@@ -1,0 +1,106 @@
+{{līdzīgs|Ālande}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Åland''
+|    pilnais_valsts_nosaukums = Olande
+|            valsts_nosaukums = Åland
+|               karoga_attēls = Flag of Åland.svg
+|            karoga_nosaukums = Karogs
+|              ģerboņa_attēls = Coat of arms of Åland.svg
+|           ģerboņa_nosaukums = Ģerbonis
+|             ģerboņa_platums = 100px
+|                 valsts_moto = 
+|                valsts_himna = ''[[Ålänningens sång]]''
+|               kartes_attēls = Ahvenanmaa_in_Finland.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Mariehamna]]
+| latd=60 | latm=07 | latNS=N | longd=019 | longm=54 | longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[zviedru valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = autonoma [[Somija]]s [[lēne]] (administratīvā province)
+|        valsts_galvas_tituls = [[Olandes premjerministrs|Premjerministrs]]
+|                valsts_galva = [[Viveka Eriksone]]
+|       valsts_galvas_tituls2 = 
+|               valsts_galva2 = 
+|        neatkarības_iegūšana = [[Autonomija]]
+|         neatkarības_piezīme = 
+|        neatkarības_notikums = proklamēta
+|          neatkarības_datums = 1920
+|       neatkarības_notikums2 = atzīta
+|         neatkarības_datums2 = 1921<sup>1</sup>
+|                 platība_km2 = 13 324
+|               platība_rangs = 
+|              procenti_ūdens = 89
+|     iedzīvotāju_skaita_gads = 2017
+|          iedzīvotāju_skaits = 29 489
+|    iedzīvotāju_skaits_rangs = 
+|    apdzīvotības_blīvums_km2 = 18,36
+|  apdzīvotības_blīvums_rangs = 
+|                     IKP_PPP = [[$]] 1,563 miljardi
+|                IKP_PPP_gads = 2007
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = [[$]] 55 829
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 0,900
+|                    HDI_gads = 2017
+|              HDI_kategorija = <font color=#009900>ļoti augsts</font>
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Eiro]]
+|                valūtas_kods = EUR
+|                  laika_zona = EET
+|                  utc_offset = +2
+|              laika_zona_DST = EEST
+|              utc_offset_DST = +3
+|                      domēns = .ax
+|              tālsarunu_kods = 358
+|                    piezīmes = 
+|                    piezīme1 = pēc [[Ālandu krīze]]s atzina [[Tautu Savienība]]
+|                    piezīme2 = 
+|                iso_kods_num = 
+|              iso_kods_alfa2 = 
+|              iso_kods_alfa3 = 
+}}
+
+'''Olande''' ({{IPA2|:o.lan.de}}) jeb '''Ālandu Salas''' ({{val|sv|Åland}}, {{val|fi|Ahvenanmaa}}) ir autonoma, zviedrvalodīga [[Somija]]s [[lēne]] (administratīvā province), kas aizņem tāda paša nosaukuma salu [[arhipelāgs|arhipelāgu]] [[Baltijas jūra|Baltijas jūrā]], [[Botnijas līcis|Botnijas līča]] pašos dienvidos. Īpašu [[autonomija|autonomu]] statusu [[Tautu Savienība]] teritorijai piešķīra 1921. gadā pēc [[Ālandu krīze]]s.
+
+== Geogrāfija ==
+Arhipelāga platums ziemeļu-dienvidu virzienā ir apmēram 130 km, tajā ietilpst 60 apdzīvotas [[sala]]s un vēl apmēram 6500 neapdzīvotas salas un [[šēra (sala)|šēras]]. Olande aizņem 1481 km<sup>2</sup> lielu teritoriju (kopā ar ūdeni — 13 324 km<sup>2</sup>), lielākais augstums virs jūras līmeņa ir 132 m. Lielākā no salām ir [[Olande (sala)|Olande]] (640 km<sup>2</sup>), tajā dzīvo ap 90% no salu 27 700 iedzīvotājiem. Salu galvaspilsēta ir [[Mariehamna]] (11 186 iedzīvotāji).
+
+=== Klimats ===
+Olande atrodas [[Mērenā josla|mēranajā joslā]].
+
+[[Klimats]] Olandē ir mērens un vēss.
+
+== Administratīvais iedalījums ==
+Administratīvā vienība ir [[komūna]]. Kopumā Olandē ir 16 komūnas.
+
+== Iedzīvotāji ==
+Lielākā daļa salu iedzīvotāju lieto [[zviedru valoda|zviedru valodu]] (25 592; 87,60%). Nākamās trīs izplatītākās valodas ir [[somu valoda|somu]] (1367; 4,68%), [[rumāņu valoda|rumāņu]] (383; 1,31%) un [[latviešu valoda]] (354; 1,21%).<ref name="asub">{{Tīmekļa atsauce |url=http://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vrm__vaerak/statfin_vaerak_pxt_010.px/ |title=Population by language, 31 December 2016 |access-date={{dat|2018|07|08||bez}} |archiveurl=https://web.archive.org/web/20180719112223/http://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vrm__vaerak/statfin_vaerak_pxt_010.px/ |archivedate={{dat|2018|07|19||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Skatīt arī ==
+{{Commons category|Åland|Olande}}
+* [[Ziemeļvalstis]]
+
+
+{{Somija-aizmetnis}}
+{{Somijas vēsturiskās zemes}}
+{{Somijas lēnes}}
+{{Somijas administratīvais iedalījums}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Somijas lēnes]]
+[[Kategorija:Somijas salas]]
+[[Kategorija:Baltijas jūras salas]]
+[[Kategorija:Autonomi reģioni]]

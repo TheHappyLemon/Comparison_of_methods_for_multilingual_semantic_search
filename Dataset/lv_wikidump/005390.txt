@@ -1,0 +1,7 @@
+'''Sesija''' [[datorika|datorikā]], pamatā attiecībā uz [[datortīkls|datortīkliem]], ir ar [[sesijas slānis|sesijas slāņa]] palīdzību nodrošināts stabils savienojums starp lietotāju (vai [[lietotāja aģents|lietotāja aģentu]]) un [[serveris|serveri]], kas sevī ietver liela daudzuma datu pakešu apmaiņu starp lietotāja datoru un serveri. Sesijas parasti tiek īstenotas caur tīkla protokolu (piemēram, [[telnet]] vai [[FTP]]).
+
+Gadījumos, kad tiek izmantoti transporta protokoli, kas paši par sevi neietver sesiju slāni (teiksim, [[UDP]]) vai arī kur sesijām sesiju slānī ir īss mūžs (piemēram, [[HTTP]]), sesijas nodrošina augstāka līmeņa programma. Piemēram, datu apmaiņa starp klientu un serveri HTTP protokola ietvaros var saturēt [[sīkdatne|HTTP sīkdatni]], pēc kā var identificēt lietotāja stāvokli sistēmā
+
+[[Kategorija:Tīkla protokoli]]
+[[Kategorija:Vispasaules tīmeklis]]
+[[Kategorija:HTTP]]

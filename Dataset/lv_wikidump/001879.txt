@@ -1,0 +1,63 @@
+{{Elementa infokaste
+|                 tips = sārmzemju metāls
+|      kārtas skaitlis = 38
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 18
+|             4. čaula = 8
+|             5. čaula = 2
+|              simbols = Sr
+|             atommasa = 87,62
+|   valences elektroni = [Kr]5s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Sr-TableImage.svg|250px]]
+|               attēls = [[Attēls:Strontium destilled crystals.jpg|200px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Stronzianite 01.png|180px]]<br />Stroncija paraugs [[argons|argona]] aizsargatmosfērā un stroncija rūdas ([[stroncianīts|stroncianīta]]) [[fluorescence]]
+|  oksidēšanas pakāpes = '''+2'''
+|  elektronegativitāte = 0,95
+|              blīvums = 2630
+|  kušanas temperatūra = 1050 K (777&nbsp;°C)
+| viršanas temperatūra = 1655 K (1382&nbsp;°C)
+}}
+
+'''Stroncijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Sr''' un [[atomskaitlis|atomskaitli]] 38. Stroncijs ir [[sārmzemju metāli|sārmzemju metāls]]. Stroncijs aktīvi reaģē ar gaisa [[skābeklis|skābekli]] un tāpēc brīvā veidā dabā nav sastopams. Stroncijs ir sastopams galvenokārt [[karbonāti|karbonātu]] un [[sulfāti|sulfātu]] ([[celestīns (minerāls)|celestīna]]) veidā. Stroncijs [[liesma|liesmu]] iekrāso sarkanā krāsā, šādiem mērķiem [[pirotehnika|pirotehnikā]] lieto [[stroncija nitrāts|stroncija nitrātu]]. Stroncijs savienojumos var būt tikai divvērtīgs.
+
+Stroncijs nav toksisks elements, taču tā radioaktīvais [[izotops]] [[stroncijs-90]], ko lieto kā radioaktīvā [[bēta starojums|bēta starojuma]] avotu, nonākot organismā, ir ļoti bīstams. Stroncijs pēc bioloģiskajām īpašībām līdzīgs [[kalcijs|kalcijam]], tādēļ uzkrājas [[kauli|kaulos]].
+
+Stroncijs nelielos daudzumos ir konstatēts arī cilvēka organismā, bet tā bioloģiskā nozīme nav zināma.
+
+== Vēsture ==
+Stronciju 1790. gadā atklāja [[Adērs Krofords]] (''Adair Crawford''). Tas tika nosaukts [[Skotija]]s ciemata [[Strontīana]]s (''Strontian'') vārdā, kur tas tika atklāts. 1808. gadā ar [[elektrolīze|elektrolīzi]] stronciju izdalīja angļu ķīmiķis [[Hamfrijs Deivijs]], lai gan tas joprojām netika iegūts tīrā veidā. 1855. gadā tīrā veidā to pirmais ieguva [[Roberts Bunzens]] (''Robert Bunsen'').
+
+== Atrašanās dabā ==
+Tīrā veidā stroncijs dabā nav atrodams. Tas galvenokārt ir atrodams [[celestīns (minerāls)|celestīna]] un [[stroncianīts|stroncianīta]] minerālos.<ref name="lanl"/>
+
+=== Izotopi ===
+Dabā ir sastopami četri stabili stroncija [[izotops|izotopi]]: stroncijs-88 (82,58% no kopējā stroncija daudzuma), stroncijs-86 (9,86%), stroncijs-87 (7,00%) un stroncijs-84 (0,56%).<ref name="jlab"/> Vēl ir zināmi izotopi, kuru [[masas skaitlis]] ir no 73 līdz 107.<ref name="jlab"/>
+
+== Raksturojums ==
+[[Attēls:Strontium air.theora.ogv|thumbnail|200px|Stroncija sadegšana gaisā ar sarkanu liesmu]]
+Stroncijs ir pelēks, sudrabains metāls, kas ir mīkstāks nekā [[kalcijs]]. Ķīmiski aktīvs elements. Labi reaģē ar [[ūdens|ūdeni]], veidojot [[stroncija hidroksīds|stroncija hidroksīdu]] (Sr(OH)<sub>2</sub>) un [[ūdeņradis|ūdeņraža]] gāzi.
+
+== Izmantošana ==
+Stroncijam ir līdzīgas ķīmiskās īpašības kā [[kalcijs|kalcijam]] un [[bārijs|bārijam]], bet to izmanto salīdzinoši maz, galvenokārt lielo izmaksu dēļ. Stronciju galvenokārt izmanto [[pirotehnika|pirotehnikā]], lai [[uguņošana|uguņošanā]] iegūtu spilgti sarkanu krāsu.<ref name="Lenntech"/>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/38.shtml | title= Strontium | publisher= Los Alamos National Laboratory | accessdate= 2014. gada 8. decembrī | language= angliski}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso038.html | title= Isotopes of the Element Strontium | publisher= Jefferson Lab | accessdate= 2014. gada 8. decembrī | language= angliski}}</ref>
+
+<ref name="Lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/sr.htm | title= Strontium (Sr) | publisher= lenntech.com | accessdate= 2014. gada 17. decembrī | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Sārmzemju metāli]]

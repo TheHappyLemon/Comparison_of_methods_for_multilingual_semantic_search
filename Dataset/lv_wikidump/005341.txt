@@ -1,0 +1,60 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Kristiāns Doplers
+|     vārds_orig = ''Christian Doppler''
+|         attēls = Christian Doppler.jpg
+|     att_izmērs = 
+|  att_nosaukums =
+|     dz_dat_alt =
+|        dz_gads = 1803
+|     dz_mēnesis = 11
+|       dz_diena = 29
+|       dz_vieta = [[Zalcburga]], [[Austrijas impērija]]<br>({{AUT}})
+|      m_dat_alt =
+|         m_gads = 1853
+|      m_mēnesis = 3
+|        m_diena = 17
+|        m_vieta = [[Venēcija]], [[Austrijas impērija]]<br>({{ITA}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|   darba_vietas = [[Prāgas Tehniskā universitāte]], Raktuvju un meža akadēmija, [[Vīnes Universitāte]]
+|     alma_mater = [[Vīnes Tehniskā universitāte]]
+|        zinātne = [[matemātika]], [[fizika]]
+|    pasniedzēji =
+|       studenti = 
+|     sasniegumi = [[Doplera efekts]]
+|    apbalvojumi = 
+|       piezīmes = 
+|    kategorijas = 
+}}
+'''Kristiāns Andreass Doplers''' ({{val|de|Christian Andreas Doppler}}, dzimis {{dat|1803|11|29}}, miris {{dat|1853|3|17}}) bija [[Austrija|austriešu]] matemātiķis un fiziķis.
+
+Viņš izvirzīja hipotēzi, kas vēlāk apstiprinājās un tika nosaukta par [[Doplera efekts|Doplera efektu]] — [[vilnis|viļņu]] [[frekvence]] ir atkarīga no viļņu avota ātruma attiecībā pret novērotāju.
+
+No 1841. gada pasniedza [[Prāga]]s politehnikumā, bet pēc 1848. gada revolūcijas — [[Vīne|Vīnē]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.cdg.ac.at/ Die Christian Doppler Forschungsgesellschaft] {{de ikona}}
+
+
+{{zinātnieks-aizmetnis}}
+
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Doplers, Kristians}}
+
+[[Kategorija:1803. gadā dzimušie]]
+[[Kategorija:1853. gadā mirušie]]
+[[Kategorija:Austrijas matemātiķi]]
+[[Kategorija:Austriešu fiziķi]]
+[[Kategorija:Zalcburgas zemē dzimušie]]

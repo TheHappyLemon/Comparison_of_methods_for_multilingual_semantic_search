@@ -1,0 +1,73 @@
+{{Infobox settlement
+|name                         = Kualalumpura
+|official_name                = ''Kuala Lumpur''
+|settlement_type              = Pilsēta
+|nickname                     = 
+|motto                        = Maju dan Makmur <br />(''Progress un uzplaukums'')
+|image_skyline                = KL Composite2.jpg
+|image_caption                = 
+|image_flag                   = Flag of Kuala Lumpur Malaysia.svg
+|image_shield                 = Seal of Kuala Lumpur.svg
+|shield_size                  = 75px
+|pushpin_map                  = Malaizija
+|pushpin_label_position       = 
+|pushpin_map_caption          = Atrašanās vieta Malaizijā
+|coordinates_region           = MY
+|subdivision_type             = [[Pasaules valstis|Valsts]]
+|subdivision_type1            = [[Malaizijas štati|Štats]]
+|subdivision_name             = {{flag|Malaizija}}
+|subdivision_name1            = [[Federālā teritorija (Malaizija)|Federālā teritorija]]
+|established_title            = Dibināta
+|established_date             = 1857
+|established_title2           = Pilsētas tiesības
+|established_date2            = 1972
+|established_title3           = Federālā teritorija
+|established_date3            = 1974
+|area_footnotes               = <ref name="Laporan Kiraan Permulaan 2010">{{Tīmekļa atsauce |url=http://www.statistics.gov.my/ccount12/click.php?id=2127 |title=Laporan Kiraan Permulaan 2010 |publisher=Jabatan Perangkaan Malaysia |page=27 |accessdate=2011-01-24 |archiveurl=https://web.archive.org/web/20101227065717/http://www.statistics.gov.my/ccount12/click.php?id=2127 |archivedate=2010-12-27 }}</ref>
+|area_magnitude               = 1 E8
+|area_total_km2               = 243
+|population_as_of             = 2010
+|population_footnotes         = <ref name="statistics.gov.my">{{Tīmekļa atsauce |url=http://www.statistics.gov.my/ccount12/click.php?id=2127 |title=Laporan Kiraan Permulaan 2010 |publisher=Jabatan Perangkaan Malaysia |page=iv |accessdate=2011-01-24 |archiveurl=https://web.archive.org/web/20101227065717/http://www.statistics.gov.my/ccount12/click.php?id=2127 |archivedate=2010-12-27 }}</ref>
+|population_total             = 1627172
+|population_metro             = 7239871
+|population_density_km2       = 6696
+|utc_offset                   = +8
+|timezone_DST                 = ''Neievēro''
+|utc_offset_DST               = +8
+|elevation_m                  = 21.95
+|latd                         = 3
+|latm                         = 8
+|lats                         = 51
+|latNS                        = N
+|longd                        = 101
+|longm                        = 41
+|longs                        = 36
+|longEW                       = E
+|postal_code_type             = [[Pasta indekss]]
+|postal_code                  = 5xxxx
+|website                      = {{URL|http://www.dbkl.gov.my/}}
+}}
+
+'''Kualalumpura''' ({{val|ms|Kuala Lumpur}}) ir [[Malaizija]]s galvaspilsēta, lielākā pilsēta valstī un viena no trim tās federālajām zemēm. Kualalumpurā dzīvo aptuveni 1,5 miljoni cilvēku.
+
+Kualalumpura tika izveidota 1859. gadā, bet pilsētas tiesības tā ieguva 1972. gadā.<ref>{{Tīmekļa atsauce|title=Malaya Celebrates, 1959|url=http://www.britishpathe.com/video/malaya-celebrates|publisher=British Pathé|accessdate=2013. gada 2. augusts}} {{en ikona}}</ref> Līdz 1999. gadam pilsēta bija Malaizijas administratīvais centrs, līdz valdība pārcēlās uz [[Putradžaja|Putradžaju]].<ref>{{Tīmekļa atsauce|publisher=Government of Malaysia|title=Putrajaya&nbsp;– Administrative Capital of Malaysia|accessdate=2007. gada 11. decembris|url=http://www.gov.my/MyGov/BI/Directory/Government/AboutMsianGov/PutrajayaFederalAdminCapital/ |archiveurl = https://web.archive.org/web/20071021194523/http://www.gov.my/MyGov/BI/Directory/Government/AboutMsianGov/PutrajayaFederalAdminCapital/ |archivedate = 2007. gada 21. oktobris}} {{en ikona}}</ref>
+
+Kopš 1990. gadiem Kualalumpurā ir rīkoti nozīmīgi starptautiskie sporta, politikas un kultūras pasākumi, to vidū 1998. gada [[Nāciju Sadraudzības spēles]] un ikgadējas [[Malaizijas Grand Prix|Formula 1 ''Grand Prix'']] izcīņas. Pilsētā atrodas pašlaik viena no augstākajām celtnēm pasaulē — [[Petronas dvīņu torņi]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.dbkl.gov.my Kualalumpuras mājaslapa] {{Webarchive|url=https://web.archive.org/web/20110320022700/http://www.dbkl.gov.my/ |date={{dat|2011|03|20||bez}} }}
+* [http://www.wikimapia.org/#y=3149086&x=101704216&z=13&l=0&m=a ''WikiSatellite'' skats uz Kualalumpuru]
+* [http://www.flickr.com/photos/scruffydan/tags/kualalumpur/ Kualalumpuras fotogrāfijas — 2006]
+
+{{Malaizija-aizmetnis}}
+
+{{Āzijas galvaspilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Malaizijas pilsētas]]
+[[Kategorija:Āzijas galvaspilsētas]]

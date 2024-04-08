@@ -1,0 +1,56 @@
+{{Apdzīvotas vietas infokaste
+| name = Raciboža
+| image_skyline = Racibórz - Urząd Miasta 01.jpg
+| imagesize = 300px
+| image_caption = 
+| image_flag = 
+| image_shield =POL_Racibórz_COA_old.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Racibožas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1217
+| area_total_km2 = 74.96
+| population_as_of = 2006
+| population_total    = 57352
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 05 
+| lats = 31 
+| latNS = N 
+| longd = 18 
+| longm = 13 
+| longs = 11
+| longEW = E
+| elevation_m = 194
+| website = {{url|http://www.raciborz.pl/}}
+}}
+
+'''Raciboža''' ({{val-pl|Racibórz}}, vēsturiski arī '''Ratibora''' ({{val-de|Ratibor}})) ir sena pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] netālu no [[Čehija]]s robežas pie [[Odra]]s upes, ziemeļos no [[Morāvijas vārti]]em.
+
+Viena no senākajām pilsētām [[Silēzija|Silēzijā]], Augšsilēzijas senākā galvaspilsēta. No 1336. līdz 1521. gadam Raciboža bija kņazistes centrs. 1211. gadā Racibožā tika nodrukāta monēta ar pirmo uzrakstu [[poļu valoda|poliski]] — (''MILOST''). Arī pirmā Polijas himna (''Gaude Mater Polonia'') tika radīta 12. gadsimta sešdesmitajos gados [[dominikāņi|dominikāņu]] klosterī pie Racibožas. 1521. gadā līdz ar Racibožas kņaza Valentīna nāvi izbeidzās [[Čehija|čehu]] karaliskā [[Pšemislu dinastija]]. Rūpnieciski pilsēta sāka attīstīties 19. gadsimta otrajā pusē, kad tā ietilpa [[Vācija]]s sastāvā ar nosaukumu Ratibora. Pēc [[Otrais pasaules karš|Otrā pasaules kara]], pamatojoties uz [[Jaltas konference|Jaltas]] un [[Potsdamas konference]]s lēmumiem, pilsēta tika piešķirta Polijai, bet vācu iedzīvotāji no tās padzīti. 1945. gada jūnijā kādu gan laiku pilsētā bija iegājis [[Čehoslovākija]]s karaspēks.
+
+Uz ziemeļiem no pilsētas, Lubovicas pilī, 1788. gadā dzimis vācu dzejnieks [[Jozefs fon Eihendorfs]] (Joseph von Eichendorff, 1788 — 1857).
+
+==Apskates objekti==
+
+*[[Racibožas Jēkaba baznīca]] (''Kościół św. Jakuba w Raciborzu'')
+
+==Galerija==
+<gallery>
+Kościół_św._Jakuba_w_Raciborzu_8.JPG|Racibožas Jēkaba baznīca
+</gallery>
+
+{{Polija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

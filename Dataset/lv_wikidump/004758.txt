@@ -1,0 +1,144 @@
+{{Tenisista infokaste
+ |                       playername = Monika Seleša
+ |                       vārds_orig = Szeles Mónika
+ |                           attēls = File:Monica Seles 1991.jpg
+ |                          att_izm = 
+ |                          caption = Monika Seleša 1992. gadā
+<!--------- Personas dati ----------->
+ |                         nickname = 
+ |                          country = {{flag|Dienvidslāvija}} 1988-1994<br>{{flag|ASV}} 1994-2008
+ |                        residence = 
+ |                        datebirth = {{dzimšanas datums un vecums|1973|12|2}}
+ |                       placebirth = {{Vieta|Serbija|Novisada}}
+ |                        datedeath = 
+ |                       placedeath = 
+ |                           height = {{mērvienība|cm=178}}
+ |                           weight = 
+ |                        turnedpro = 1989
+ |                          retired = 2008 <small>(pēdējais mačs 2003. gadā)</small>
+ |                            plays = Ar kreiso roku; divrocīgs kreisais, labais sitiens
+ |                 careerprizemoney = 14 891 762 [[ASV dolārs|ASV dolāru]]
+<!------------ Vienspēles ----------->
+ |                    singlesrecord = 595-122
+ |                    singlestitles = 53
+ |            highestsinglesranking = '''1''' ({{dat|1991|3|11|SK|bez}})
+ |             AustralianOpenresult = '''W''' (1991, 1992, 1993, 1996)
+ |                 FrenchOpenresult = '''W''' (1990, 1991, 1992)
+ |                  Wimbledonresult = F (1992)
+ |                     USOpenresult = '''W''' (1991, 1992)
+ |                 MastersCupresult = 
+ |           WTAChampionshipsresult = '''W''' (1990, 1991, 1992)
+ |                   Olympicsresult = [[Attēls:Bronze medal.svg|20px]] '''Bronza''' ([[Teniss 2000. gada Vasaras Olimpiskajās spēlēs - Sieviešu vienspēles|2000]])
+<!--------- Dubultspēles ------------>
+ |                    doublesrecord = 89-45
+ |                    doublestitles = 6
+ |            highestdoublesranking = 16. ({{dat|1991|4|22|SK|bez}})
+ |      AustralianOpenDoublesresult = SF (1991, 2001)
+ |          FrenchOpenDoublesresult = 3R (1990)
+ |           WimbledonDoublesresult = QF (1999)
+ |              USOpenDoublesresult = QF (1999)
+ |          MastersCupDoublesresult = 
+ |    WTAChampionshipsDoublesresult = 
+ |            OlympicsDoublesresult = 
+<!--------- Jauktās dubultspēles ------------>
+ |                      mixedrecord = 
+ |                      mixedtitles = 
+ |              highestmixedranking = 
+ |        AustralianOpenMixedresult = 
+ |            FrenchOpenMixedresult = 
+ |             WimbledonMixedresult = 
+ |                USOpenMixedresult = 
+ |            MastersCupMixedresult = 
+ |      WTAChampionshipsMixedresult = 
+ |              OlympicsMixedresult = 
+<!--------- Citas sadaļas ----------->
+ |                          updated = {{dat|2018|1|14||bez}}
+ |                            slavz = [[Tenisa slavas zāle]] (2009)
+<!-------------- Medaļas ------------>
+ |                    rādīt_medaļas = 
+ |                      headercolor = 
+ |                   medaltemplates = 
+}}
+
+'''Monika Seleša''' ({{val-sr|Моника Селеш}} vai ''Monika Seleš'', {{val-hu|Szeles Mónika}}, {{val-en|Monica Seles}}; dzimusi {{dat|1973|12|2}}, [[Novisada|Novisadā]], [[Serbija|Serbijā]]) ir bijusī [[ungāri|ungāru]] izcelsmes [[Dienvidslāvija]]s un [[Amerikas Savienotās Valstis|ASV]] [[teniss|tenisiste]]. Bijusī [[WTA ranga pirmo numuru saraksts|WTA ranga līdere]] vienspēlēs. 
+
+[[1990]]. gadā kļuva par visu laiku jaunāko [[Francijas Atklātais čempionāts|Francijas Atklātā čempionāta]] uzvarētāju.
+
+Seleša dominēja sieviešu tenisā 1991. un 1992. gadā, bet 1993. gadā kāds līdzjutējs ar nazi Selešu ievainoja, tāpēc viņai nācās pārtraukt sportistes karjeru. 1995. gadā Seleša atgriezās profesionālajā tenisā, tomēr vairs nespēja gūt agrākos panākumus.
+
+== Vietas Grand Slam turnīros ==
+{{Tenisa apzīmējumi}}
+
+{{Tenisa stats|Galvene}}
+{{Tenisa stats|Gadi|1989|1990|1991|1992|1993|1994|1995|1996|1997|1998|1999|2000|2001|2002|2003}}
+{{Tenisa stats|Austrālija|pg=1989|A|A|W|W|W|A|A|W|A|A|SF|A|QF|SF|2R}}
+{{Tenisa stats|Francija|pg=1989|SF|W|W|W|A|A|A|QF|SF|F|SF|QF|A|QF|1R}}
+{{Tenisa stats|Vimbldona|pg=1989|4R|QF|A|F|A|A|A|2R|3R|QF|3R|QF|A|QF|A}}
+{{Tenisa stats|ASV|pg=1989|4R|3R|W|W|A|A|F|F|QF|QF|QF|QF|4R|QF|A}}
+|}
+
+=== Grand Slam fināli ===
+==== Uzvaras ====
+{| class="wikitable"
+|width="50"|'''Gads'''
+|width="230"|'''Turnīrs'''
+|width="200"|'''Pretinieks'''
+|width="200"|'''Rezultāts'''
+|-bgcolor="#EBC2AF"
+| [[1990. gada Francijas atklātais čempionāts tenisā|1990]] || [[Francijas atklātais čempionāts tenisā|Francijas atklātais čempionāts]] || {{flaga|Vācija}} [[Štefija Grāfa]] || 7–6<sup>(8–6)</sup>, 6–4
+|-bgcolor="#CCCCFF"
+| [[1991. gada Austrālijas atklātais čempionāts tenisā|1991]] || [[Austrālijas atklātais čempionāts tenisā|Austrālijas atklātais čempionāts]] || {{flaga|Čehija}} [[Jana Novotna]] || 5–7, 6–3, 6–1
+|-bgcolor="#EBC2AF"
+| [[1991. gada Francijas atklātais čempionāts tenisā|1991]] || Francijas atklātais čempionāts tenisā <small>(2)</small> || {{flaga|Spānija}} [[Aranča Sančesa-Vikario]] || 6–3, 6–4
+|-bgcolor="#FFFFCC"
+| [[1991. gada ASV atklātais čempionāts tenisā|1991]] || [[ASV atklātais čempionāts tenisā|ASV atklātais čempionāts]] || {{flaga|ASV}} [[Martina Navrātilova]] || 7–6<sup>(7–1)</sup>, 6–1
+|-bgcolor="#CCCCFF"
+| [[1992. gada Austrālijas atklātais čempionāts tenisā|1992]] || Austrālijas atklātais čempionāts  <small>(2)</small> || {{flaga|ASV}} [[Marija Džo Fernandeza]] || 6–2, 6–3
+|-bgcolor="#EBC2AF"
+| [[1992. gada Francijas atklātais čempionāts tenisā|1992]] || Francijas atklātais čempionāts tenisā <small>(3)</small> || {{flaga|Vācija}} Štefija Grāfa || 6–2, 3–6, 10–8
+|-bgcolor="#FFFFCC"
+| [[1992. gada ASV atklātais čempionāts tenisā|1992]] || ASV atklātais čempionāts <small>(2)</small> || {{flaga|Spānija}} Aranča Sančesa-Vikario || 6–3, 6–3
+|-bgcolor="#CCCCFF"
+| [[1993. gada Austrālijas atklātais čempionāts tenisā|1993]] || Austrālijas atklātais čempionāts  <small>(3)</small> || {{flaga|Vācija}} Štefija Grāfa || 4-6, 6-3, 6-2
+|-bgcolor="#CCCCFF"
+| [[1996. gada Austrālijas atklātais čempionāts tenisā|1996]] || Austrālijas atklātais čempionāts  <small>(4)</small> || {{flaga|Vācija}} [[Anke Hūbere]] || 6-4, 6–1
+|}
+==== Zaudējumi ====
+{| class="wikitable"
+|width="50"|'''Gads'''
+|width="200"|'''Turnīrs'''
+|width="200"|'''Pretinieks'''
+|width="200"|'''Rezultāts'''
+|-bgcolor="#CCFFCC"
+| [[1992. gada Vimbldonas čempionāts|1992]] || [[Vimbldonas čempionāts]] || {{flaga|Vācija}} [[Štefija Grāfa]] || 2–6, 1–6
+|-bgcolor="#FFFFCC"
+| [[1995. gada ASV atklātais čempionāts tenisā|1995]] || [[ASV atklātais čempionāts tenisā|ASV atklātais čempionāts]] || {{flaga|Vācija}} Štefija Grāfa || 6–7<sup>(6–8)</sup>, 6–0, 3–6
+|-bgcolor="#FFFFCC"
+| [[1996. gada ASV atklātais čempionāts tenisā|1996]] || ASV atklātais čempionāts || {{flaga|Vācija}} Štefija Grāfa || 5–7, 4–6
+|-bgcolor="#EBC2AF"
+| [[1998. gada Francijas atklātais čempionāts tenisā|1998]] || [[Francijas atklātais čempionāts tenisā|Francijas atklātais čempionāts]] || {{flaga|Spānija}} [[Aranča Sančesa-Vikario]] || 6–7<sup>(5-7)</sup>, 6–0, 2–6
+|}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{tenisists-aizmetnis}}
+{{Olimpisko spēļu laureāts-aizmetnis}}
+{{kastes sākums}}
+{{s-tituli}}
+{{Amatu secība | pirms = {{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]| virsraksts = [[WTA ranga pirmo numuru saraksts|Pirmā rakete sieviešu tenisā]] | periods = {{dat|1991|3|11|N}} — {{dat|1991|8|4|N}}<br />{{dat|1991|8|12|N}} — {{dat|1991|8|18|N}}<br />{{dat|1991|9|9|N}} — {{dat|1992|6|3|N}}<br />{{dat|1995|8|15|N}} — {{dat|1996|11|3|N}}<br />{{dat|1996|11|18|N}} — {{dat|1996|11|24|N}} | pēc = {{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]<br />{{flaga|Vācija}} [[Štefija Grāfa]]}}
+{{kastes beigas}}
+
+{{pirmā rakete sieviešu tenisā}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Selesza, Monika}}
+
+[[Kategorija:1973. gadā dzimušie]]
+[[Kategorija:ASV tenisisti]]
+[[Kategorija:Dienvidslāvijas tenisisti]]
+[[Kategorija:1996. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2000. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Olimpiskie bronzas medaļnieki tenisā]]

@@ -1,0 +1,86 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jaunpiebalgas pagasts
+| karte             = Jaunpiebalgas_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Jaunpiebalgas pagasts COA.svg
+| ģerboņa_nosaukums = Jaunpiebalgas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Jaunpiebalga
+| platība           = 183,6
+| iedzīvotāji       = 2026<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 2026 / 183.6 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.jaunpiebalga.lv
+}}
+'''Jaunpiebalgas pagasts''' ir viena no [[Cēsu novads|Cēsu novada]] administratīvajām teritorijām tā austrumos. Robežojās ar [[Vecpiebalgas pagasts|Vecpiebalgas]] un [[Zosēnu pagasts|Zosēnu]] pagastu, [[Gulbenes novads|Gulbenes novada]] [[Rankas pagasts|Rankas]] un [[Druvienas pagasts|Druvienas]] pagastiem, [[Madonas novads|Madonas novada]] [[Liezēres pagasts|Liezēres pagastu]] un [[Smiltenes novads|Smiltenes novada]] [[Drustu pagasts|Drustu pagastu]]. Pagasta un novada centrs atradās [[Jaunpiebalga|Jaunpiebalgā]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Alupe]], [[Gauja]], [[Kalnupe]], [[Kangarupīte]], [[Labā Vilaune]], [[Pededze]], [[Robežupe (Vilaunes pieteka)|Robežupe]], [[Strumpe (Gaujas pieteka)|Strumpe]], [[Tirza (upe)|Tirza]], [[Tocupīte]], [[Tulija]], [[Vīksnupe]], [[Vilaune]].
+
+Ezeri: [[Bricu ezers]].
+
+== Vēsture ==
+[[1920. gada zemes reforma]]s gaitā Jaunpiebalgas muižu sadalīja 207 vienībās 3526 ha kopplatībā, mācītājmuižu sadalīja 44 vienībās 1008 ha kopplatībā un Zosēnu muižu sadalīja 30 vienībās 213 ha kopplatībā.<ref>{{LKV|VII.|14 209}}</ref>
+1935. gadā Jaunpiebalgas pagasta platība bija 233 km² un tajā bija 4514 iedzīvotāji.<ref>V.Salnais, A. Maldups. Pagastu apraksti (Pēc 1935. gada tautas skaitīšanas materiāliem). Valsts statistikas pārvalde. Rīga: 1935.</ref> 1945. gadā pagastā izveidoja [[Abrupes ciems|Abrupes]], [[Gaujas ciems|Gaujas]], [[Jaunpiebalgas ciems|Jaunpiebalgas]], [[Kalniešu ciems (Gaujienas rajons)|Kalniešu]] un [[Zosēnu ciems|Zosēnu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Jaunpiebalga]]i 1950. gadā piešķīra [[pilsētciemats|strādnieku ciemata]] statusu, bet Jaunpiebalgas ciemu 1951. gadā pievienoja Abrupes ciemam. 1957. gadā Abrupes ciemu pievienoja Jaunpiebalgai kā strādnieku ciemata lauku teritoriju. 1963. gadā Jaunpiebalgas pilsētciemata lauku teritorijā iekļāva Gaujas ciemu. 1990. gadā Jaunpiebalga zaudēja pilsētciemata statusu un kopā ar lauku teritoriju tika reorganizēta par pagastu.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 2009. gadā Jaunpiebalgas pagasts kopā ar [[Zosēnu pagasts|Zosēnu pagastu]] izveidoja [[Jaunpiebalgas novads|Jaunpiebalgas novadu]]. 2021. gadā Jaunpiebalgas novadu iekļāva [[Cēsu novads|Cēsu novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3700
+|1959|3500
+|1967|3200
+|1979|2636
+|1989|2550
+|2000|2407
+|2011|1957
+|2021|1630
+}}
+
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: [[Abrupe (ciems)|Abrupe]], [[Baši]], [[Boļi]], [[Dzirkstiņi]], [[Jaunpiebalga]], [[Jānēni]], [[Jaunzemi (Jaunpiebalgas pagasts)|Jaunzemi]], [[Jēci]], [[Gaujas]], [[Kanāži]], [[Kaņepi]], [[Kleivas (Jaunpiebalgas pagasts)|Kleivas]], [[Mācītājmuiža (Jaunpiebalgas pagasts)|Mācītājmuiža]], [[Naudēļi]], [[Naukšēni (Cēsis)|Naukšēni]], [[Ozoliņi (Jaunpiebalgas pagasts)|Ozoliņi]], [[Paupi]], [[Pēterīši]], [[Skrāģi]], [[Rudgalvji]], [[Roci]], [[Skubiņi]], [[Tirznieki]], [[Viekšeles]], [[Viņķi]], [[Zariņi (Jaunpiebalgas pagasts)|Zariņi]], [[Žagari (Jaunpiebalgas pagasts)|Žagari]].
+
+=== Ievērojamas personības ===
+* [[Emīls Dārziņš]] (1875—1910) — komponists un mūzikas kritiķis
+* [[Hermanis Buduls]] (1882—1954) — psihiatrs, [[Latvijas Universitātes Medicīnas fakultāte]]s profesors un dekāns
+* [[Kārlis Miesnieks]] (1887—1977) — gleznotājs
+* [[Augusts Ģiezens]] (1888—1964) — valodnieks un skolotājs
+* [[Jānis Paukštello]] (1951) — aktieris
+* [[Jānis Gregors]] (1893—1944) — virsleitnants, 5. Zemgales strēlnieku pulka komandieris (1918-1920), [[Kureļa grupa|Kureļa grupas]] štāba adjutants.
+* [[Kārlis Lobe]] (1895–1985) — Latvijas Bruņoto spēku un Latviešu leģiona virsnieks, Triju Zvaigžņu ordeņa kavalieris
+* [[Kārlis Rusovs]] (segvārds "Salna" un "Raiskums", 1916—2005), latviešu skolotājs, nacionālās pretošanās kustības vadītājs.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jaunpiebalgas novads}}
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Jaunpiebalgas pagasts| ]]

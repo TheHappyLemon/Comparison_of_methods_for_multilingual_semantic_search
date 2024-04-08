@@ -1,0 +1,96 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Tirole 
+ | official_name           = ''Tirol''
+ | settlement_type         = zeme
+ | image_skyline           = Alpbachtal.JPG
+ | imagesize               = 
+ | image_caption           = Tiroles ainava
+ | image_flag              = Flag_of_Tirol_(state).svg
+ | image_shield            = AUT_Tirol_COA.svg
+ | shield_size             = 70px
+ | capital                 = [[Insbruka]]
+ | largest_city            = 
+ | official_language       = 
+ | spoken_language         = 
+ | image_map               = Tirol_in_Austria.svg
+ | mapsize                 = 
+ | map_caption             = Tiroles atrašanās vieta Austrijā
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{AUT}}
+ | subdivision_type1       = 
+ | subdivision_name1       = 
+| parts_type = Pilsētas un apriņķi
+| parts = 1+8
+| p1 = [[Insbruka]]
+| p2 = <hr />
+| p3 = [[Imstas apriņķis]]
+| p4 = [[Insbrukas zemes apriņķis]]]
+| p5 = [[Kicbīeles apriņķis]]
+| p6 = [[Kufšteinas apriņķis]]
+| p7 = [[Landekas apriņķis]]
+| p8 = [[Līencas apriņķis]]
+| p9 = [[Reitas apriņķis]]
+| p10 = [[Švacas apriņķis]]
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 12640.17
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 3798
+ | elevation_min_m         = 465
+ | population_footnotes    = 
+ | population_total        = 757852
+ | population_as_of        = 2020
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = [[Centrāleiropas laiks|CET]]
+ | utc_offset              = +1
+ | timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST          = +2
+ | website                 = {{url|https://vorarlberg.at/}}
+ | blank_name              = 
+ | blank_info              = 
+ | footnotes               = 
+}}
+
+'''Tirole''' ({{val-de|Tirol}}) ir viena no [[Austrijas administratīvais iedalījums|Austrijas federālajām zemēm]] valsts rietumos. Robežojas ar [[Vācija|Vāciju]] ziemeļos un [[Itālija|Itāliju]] dienvidos, kā arī [[Zalcburga (zeme)|Zalcburgu]] un [[Karintija|Karintiju]] austrumos un [[Forarlberga|Forarlbergu]] rietumos. Vēsturiskais Tiroles novada dienvidu daļa kā [[Dienvidtirole]] mūsdienās atrodas [[Itālija]]s teritorijā, bet Tiroles federālā zeme sastāv no divām atsevišķam daļām, no kurām tās mazākā daļa ap [[Līenca|Līencu]] tiek dēvēta par [[Austrumtirole|Austrumtiroli]].
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Tirole|width=600 |float=center|caption= Tiroles 11 pilsētu izvietojums
+|places =
+{{VietasKarte~|Tirole|lat=47.549444|long=10.63    |position=bottom |label=[[Filsa]]}}
+{{VietasKarte~|Tirole|lat=47.283333|long=11.5     |position=right|label=[[Halle (Tirole)|Halle]]}}
+{{VietasKarte~|Tirole|lat=47.239444|long=10.738056|position= top |label=[[Imste]]}}
+{{VietasKarte~|Tirole|lat=47.267222|long=11.392778|position=left |label=[[Insbruka]]}}
+{{VietasKarte~|Tirole|lat=47.446389|long=12.391944|position= top |label=[[Kicbīele]]}}
+{{VietasKarte~|Tirole|lat=47.583333|long=12.166667|position=left |label=[[Kufšteina]]}}
+{{VietasKarte~|Tirole|lat=47.137222|long=10.568889|position= top |label=[[Landeka]]}}
+{{VietasKarte~|Tirole|lat=46.829722|long=12.769722|position=left |label=[[Līenca]]}}
+{{VietasKarte~|Tirole|lat=47.438889|long=11.893333|position=left |label=[[Ratenberga]]}}
+{{VietasKarte~|Tirole|lat=47.35    |long=11.7     |position=left |label=[[Švāce]]}}
+{{VietasKarte~|Tirole|lat=47.483056|long=12.066389|position=left |label=[[Vergle]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Austrija-aizmetnis}}
+
+{{Austrijas zemes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas administratīvais iedalījums]]
+[[Kategorija:Tirole| ]]

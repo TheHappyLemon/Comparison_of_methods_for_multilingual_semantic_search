@@ -1,0 +1,124 @@
+{{Planētas infokaste
+|name                     = Titāns
+|alt_names                = Saturn VI
+|adjectives               = 
+|image                    = [[Attēls:Titan in natural color Cassini.jpg|250px|Titāns dabiskās krāsās]]
+|caption                  = Titāns no ''[[Cassini—Huygens]]'' zondes
+|bgcolour                 = #ffa812
+|orbit_ref                = <ref name=horizons>Unless otherwise specified: {{Tīmekļa atsauce |url=http://ssd.jpl.nasa.gov/horizons.cgi#top |title=JPL HORIZONS solar system data and ephemeris computation service |work=Solar System Dynamics|publisher=[[Nacionālā aeronautikas un kosmosa administrācija|NASA]], Jet Propulsion Laboratory |accessdate=2007-08-19}}</ref>
+|discovery                = yes
+|discoverer               = [[Kristiāns Heigenss]]
+|discovered               = {{dat|1655|3|25}}
+|semimajor                = 1 221 870 [[kilometrs|km]]
+|eccentricity             = 0,0288
+|period                   = 15,945 dienas
+|inclination              = 0,34854° (pret Saturna ekvatoru)
+|satellite_of             = [[Saturns (planēta)|Saturna]] pavadonis
+|physical_characteristics = yes
+|mean_radius              = 2576 ± 2,00 km (0,404 Zemes)<ref name="Jacobson 2006">{{Laikraksta atsauce |last=Jacobson |first=R. A. |coauthors=Antreasian, P. G.; Bordi, J. J.; Criddle, K. E.; et.al. |title=The gravity field of the saturnian system from satellite observations and spacecraft tracking data |url=https://archive.org/details/sim_astronomical-journal_2006-12_132_6/page/2520 |journal=The Astronomical Journal |month=December |year=2006 |volume=132 |issue=6 |pages=2520—2526 |doi=10.1086/508812}}</ref>
+|surface_area             = 8,3{{E|7}} [[kvadrātkilometrs|km²]]
+|mass                     = 1,3452 ± 0,0002{{E|23}} [[kilograms|kg]] (0,0225 Zemes)<ref name="Jacobson 2006"/>
+|density                  = 1,8798 ± 0,0044 [[grams|g]]/[[kubikcentimetrs|cm³]]<ref name="Jacobson 2006"/>
+|surface_grav             = 1,352 [[paātrinājums|m/s<sup>2</sup>]] (0,14 ''g'')
+|escape_velocity          = 2,639 km/s
+|rotation                 = [[sinhronizēta rotācija|sinhronizēta]]
+|axial_tilt               = nulle
+|albedo                   = 0,22<ref>{{Tīmekļa atsauce|first=David R.|last=Williams|title=Saturnian Satellite Fact Sheet|work=NASA|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html|accessdate=2007-09-03}}</ref>
+|magnitude                = 7,9
+|single_temperature       = 93,7 [[kelvins|K]] (−179,45&nbsp;°C)<ref name=Mitri>{{Laikraksta atsauce| author=Giuseppe, Mitri; ''et al.'' |month=February|year=2007| title=Hydrocarbon Lakes on Titan |journal=Icarus |volume=186 | pages=385—394 |doi=10.1016/j.icarus.2006.09.004 |url=http://www.lpl.arizona.edu/~showman/publications/mitri-etal-2007-lakes.pdf |format=PDF}}</ref>
+|atmosphere               = yes
+|surface_pressure         = 146,7 [[paskāls|kPa]]
+|atmosphere_composition   = 98,4% [[slāpeklis]]<br />1,6% [[metāns]]<ref name=Niemann>{{Laikraksta atsauce | title= The abundances of constituents of Titan’s atmosphere from the GCMS instrument on the Huygens probe |author= H. B. Niemann, et al. |journal= [[Nature]] |volume=438 |pages=779—784 |year=2005 |doi=10.1038/nature04122}}</ref>
+}}
+
+'''Titāns''' ({{val-gr| Τιτάνας}}) ir [[Saturna pavadoņi|Saturna pavadonis]], otrs lielākais [[Saules sistēma]]s planētas pavadonis (aiz [[Ganimēds (pavadonis)|Ganimēda]]). Titāna diametrs ir 5150 km. Tas ir lielāks par planētu [[Merkurs (planēta)|Merkuru]], kaut arī pēc masas atpaliek no tā. Titāna masa ir 95% no visu Saturna pavadoņu masas. Smaguma spēks uz Titāna ir viena septītā daļa no Zemes smaguma spēka.
+
+Titāns ir vienīgais Saules sistēmas planētas pavadonis ar blīvu atmosfēru, un vienīgais pavadonis, kura virsma redzamajā spektra daļā nav saskatāma no kosmosa, jo klāta ar biezu mākoņu segu. Atmosfēras spiediens pie pavadoņa virsmas 1,6 reizes pārsniedz Zemes atmosfēras spiedienu. Temperatūra — mīnus 170 — 180&nbsp;°C.
+
+Uz Titāna, iespējams, ir metāna ezeri un upes (taču to esamība līdz šim nebija pierādīta; nolaižamais aparāts „[[Cassini-Huygens|Huygens]]” nosēdās tumšajā apgabalā, kas izrādījās cietzeme), kā arī ledus kalni.
+
+== Atklāšanas vēsture un nosaukums ==
+Titānu {{dat|1655|3|25||bez}} atklāja holandiešu astronoms [[Kristiāns Heigenss]]. Tas bija piektais atklātais [[Saules sistēma]]s pavadonis pēc [[Jupiters (planēta)|Jupitera]] [[Galileja pavadoņi]]em. Biezās, necaurspīdīgās (ar lielu gaismas atstarošanās spēju) [[atmosfēra]]s dēļ Titāns šķiet nedaudz lielāks par saviem patiesajiem izmēriem, tāpēc tas ilgu laiku skaitījās pats lielākais Saules sistēmas planētas pavadonis.
+
+Heigenss jauno debess ķermeni nosauca „Saturni Luna” (latīniski - Saturna pavadonis). Daži astronomi to dēvēja par „Heigensa pavadoni” vai vienkārši „Huyghenian”. Nosaukumu „Titāns” sāka lietot pēc [[1847]]. gada [[Džons Heršels|Džona Heršela]] publikācijas „Astronomisko pētījumu rezultāti, kas veikti Labās Cerības ragā”. Šajā publikācijā [[astronoms]] ieteica nosaukt tolaik zināmos septiņus [[Saturns (planēta)|Saturna]] pavadoņus [[Krons|Krona]] (kas ir romiešu dieva Saturna grieķu analogs) brāļu un māsu vārdos.
+
+== Uzbūve ==
+=== Atmosfēra ===
+Titāna [[atmosfēra]] ir 400 km bieza un ietver sevī vairākus ogļūdeņražu „[[smogs|smoga]]” slāņus, tāpēc tas ir vienīgais [[Saules sistēma]]s planētas pavadonis, kura virsmu nav iespējams novērot ar [[teleskops|teleskopiem]].
+
+[[Attēls:Titan's_Many_Layers.jpg|thumb|left|Slāņi Titāna atmosfēras augšējā daļā. "Cassini" attēls.]]
+Titāna atmosfēras apakšējie slāņi, tāpat kā [[Zeme]]i, tiek iedalīti troposfērā un stratosfērā. Troposfērā gaisa [[temperatūra]] mainās no 94 K pie virsmas līdz 70 K 35 km augstumā (uz Zemes [[troposfēra]] beidzas 10–12 km augstumā). Līdz 50 km augstumam stiepjas plaša [[tropopauze]], kurā temperatūra nemainās līdz ar augstumu. Virs šīs robežas temperatūra sāk pieaugt. Tādas temperatūras inversijas kavē vertikālo gaisa plūsmu attīstību. Tās parasti veidojas no divu faktoru mijiedarbības — gaisa uzsilšanas no apakšas no pavadoņa virsmas un uzsilšanas no augšas, absorbējot [[Saule]]s izstarojumu. Zemes atmosfērā temperatūras inversija novērojama 50 km augstumā ([[stratopauze]]) un 80–90 km augstumā ([[mezopauze]]). Uz Titāna temperatūra stabili pieaug vismaz līdz 150 km augstumam. Taču augstumā virs 500 km „Huygens” pēkšņi atklāja temperatūras inversiju virkni, kur katra no tām nosaka atsevišķu atmosfēras slāni. To izcelsme pagaidām nav skaidra.
+
+Pēc „Cassini” datiem, Titāna atmosfēras apakšējā daļa, līdzīgi [[Venera (planēta)|Veneras]] atmosfērai, rotē daudz ātrāk par pavadoņa virsmu, radot visaptverošu, spēcīgu, pastāvīgi darbīgu vētru. Augstumā virs 10 km pastāvīgi pūš vēji. To virziens sakrīt ar pavadoņa griešanās virzienu, bet ātrumi mainās līdz ar augstumu no dažiem metriem sekundē 10–30 km augstumā līdz 30 m/s 50–60 km augstumā. Augstumā virs 120 km novērojama spēcīga atmosfēras [[turbulence]], kuras izpausmes tika konstatētas vēl 1980. - 1981. gadā, kad gar Saturna sistēmu lidoja kosmiskās [[zonde „Voyager”|kosmiskā zonde „Voyager”]]. Tomēr pārsteigums bija tas, ka apmēram 80 km augstumā Titāna atmosfērā tika konstatēts bezvējš. To neiespaido ne vēji, kas pūš 60 km augstumā un zemāk, ne arī turbulentās plūsmas, kuras novērotas divreiz augstāk. Tādas neizprotamas gaisa plūsmas aprimšanas iemesli pagaidām nav izskaidrojami.
+
+Titāns saņem pārāk maz [[Saules enerģija]]s, lai nodrošinātu atmosfēras procesu dinamiku. Visdrīzāk, enerģiju gaisa masu kustībai nodrošina Saturna paisuma spēki, kas ir 400 reizes stiprāki nekā uz Zemes (ko nosaka Zemes-Mēness mijiedarbība). Par labu šim pieņēmumam liecina pavadoņa platuma grādu virzienā orientētās plaši izplatītās kāpu grēdas (pēc radiolokācijas pētījumiem).
+
+95% no pavadoņa atmosfēras veido [[slāpeklis]]. Tādējādi Titāns un Zeme ir vienīgie [[Saules sistēma]]s objekti ar blīvu atmosfēru, kurā dominē slāpeklis (retinātas slāpekļa atmosfēras vēl ir [[Tritons (pavadonis)|Tritonam]] un, iespējams, [[Plutons (pundurplanēta)|Plutonam]]). Pārējos 5% sastāda, pārsvarā, [[metāns]]; ir novērotas arī etāna, diacetiletāna, metilacetilēna, cianoacetilēna, acetilēna, propāna, ogļskābās gāzes, [[tvana gāze]]s, cianogēna, hēlija pazīmes. [[Ogļūdeņraži]] piešķir atmosfērai oranžu nokrāsu (tāda varētu būt debesu krāsa, ja skatītos uz tām no Titāna virsmas). Viens no metāna avotiem, iespējams, ir [[vulkāniskā aktivitāte]].
+
+[[Metāns]] kondensējas mākoņos dažu desmitu kilometru augstumā. Pēc [[zonde „Huygens”|zondes „Huygens”]] datiem, metāna relatīvais [[mitrums]] palielinās no 45% pie virsmas līdz 100% 8 km augstumā (turklāt kopējais metāna daudzums gluži pretēji - samazinās). 8–16 km augstumā izplatās ļoti retinātu mākoņu slānis, kas sastāv no šķidra metāna un slāpekļa maisījuma, kas pārklāj pusi no pavadoņa virsmas. Uz pavadoņa virsmu no šiem mākoņiem pastāvīgi smidzina smalks lietutiņš, kas kompensējas ar iztvaikošanu (Zemes hidroloģiskā cikla analogs). Virs 16 km, atdalīts ar nelielu intervālu, atrodas retināts mākoņu slānis no metāna [[ledus]] kristāliem.
+
+Eksistē vēl arī cits mākoņu segas tips, kurš tika atklāts vēl pagājušā gadsimta 90. gados [[Habla teleskops|Habla teleskopa]] attēlos. Fotogrāfijās, kas tika uzņemtas no „Cassini”, kā arī no Zemes observatorijām, tika atklāti [[mākoņi]] pie Titāna [[dienvidpols|dienvidpola]]. Šie milzīgie [[lietus mākoņi]], kas labi pamanāmi uz virsmas fona, vēja iespaidā ātri pārvietojas un maina savu formu. Parasti tie sedz nelielu virsmas platību (mazāk par 1%), un izkliedējas apmēram 24 stundu laikā. To izsauktajām lietusgāzēm, kuras pavada [[vētra]]s, vajadzētu būt ļoti intensīvām. [[Lietus]] [[piles]] pēc aprēķiniem varētu sasniegt ap 1&nbsp;cm diametrā. Tomēr, neskatoties uz to, ka dažu stundu laikā var nolīt līdz 25 cm metāna, kopējais nokrišņu daudzums Zemes gada laikā sastāda vidēji dažus cm, kas atbilst sausāko Zemes tuksnešu klimatam.
+
+[[1995]]. gada [[septembris|septembrī]] ekvatora rajonā un [[2004. gads|2004]]. gada [[oktobris|oktobrī]] pie dienvidpola tika novēroti milzīgi mākoņi, kas pārklāja līdz 10% pavadoņa redzamās virsmas. To parādīšanās laiks sakrīt ar maksimālās insolācijas periodu šajos rajonos, kas atmosfērā rada augšupejošās gaisa strāvas. [[2004. gads|2004]]. gadā ap 40° dienvidu platuma rajonā sāka parādīties pa vējam izstiepti rietumu — austrumu virzienā vērsti mākoņi, kur ar [[rudens]] iestāšanos arī veidojas augšupejošās strāvas.
+
+Mākoņu spektrs, negaidīti, tomēr atšķiras no metāna spektra. Tas izskaidrojams ar citu vielu (pirmkārt, etāna) piejaukumu, kā arī augšējo troposfēras slāņu pārsātināto stāvokli, kura rezultātā rodas ļoti lielas piles.
+
+Atmosfēras augšējos slāņos Saules ultravioletā starojuma iespaidā metāns un slāpeklis sadalās un veidojas sarežģīti ogļūdeņražu savienojumi. Daži no tiem, pēc „Cassini” masspektrometra datiem, satur ne mazāk, kā 7 oglekļa atomus. Bez tam, Titānam nav savas [[magnetosfēra]]s un, reizēm izejot ārpus Saturna magnetosfēras, augšējie atmosfēras slāņi tiek pakļauti [[Saules vējš|Saules vēja]] iedarbībai.
+
+Pie virsmas [[temperatūra]] ir ap 94K (-179&nbsp;°C). Pie šādas temperatūras [[ūdens]] ledus nevar iztvaikot un atgādina cietus akmens iežus (bet atmosfēra ir ļoti sausa). Tomēr šāda temperatūra ir tuva metāna trīskāršajam punktam (t.i. kad metāns var būt 3 agregātstāvokļos: cietā, šķidrā un gāzveida).
+
+Biezā atmosfēra aiztur lielāko Saules gaismas daļu. „Huygens” nolaižamais modulis, ejot cauri atmosfērai, nespēja reģistrēt tiešos Saules starus. Agrāk tika uzskatīts, ka atmosfēra zemāk par 60 km praktiski ir caurspīdīga, tomēr dzeltena dūmaka ir klātesoša visos augstumos. Blīvā dūmaka ļāva fotografēt pavadoņa virsmu, kad „Huygens” bija nolaidies zem 40 km, tomēr dienas apgaismojums uz Titāna atgādina Zemes puskrēslu. Arī Saturns, iespējams, nav redzams no pavadoņa virsmas.
+
+Viens no pārsteigumiem bija Titāna apakšējais jonosfēras slānis 40–140 km augstumā (maksimālā elektrovadītspēja 60 km augstumā).
+
+=== Virsma ===
+[[Attēls:Titan globe.jpg|thumb|Titāna virsmas attēls uzņemts no zondes "Cassini". Centrālajā daļā pa labi no tumšā reģiona redzams gaišais Ksanadu reģions]]
+Titāna virsmā, kas fotografēta no „Cassini” dažādos spektra diapazonos, izceļas asi iekonturēti tumši un gaiši apgabali. Ekvatora rajonā atrodas gaišs reģions [[Austrālija]]s lielumā (redzams arī ar „Habbla” teleskopu infrasarkanās gaismas attēlos), kas varētu būt augstiene, iespējams, [[kalnu masīvs]]. Tas tika nosaukts [[Ksanadu]] (Xanadu). Uz [[radiolokācija]]s [[attēli]]em, kas tika uzņemti [[2006. gads|2006]]. gada aprīlī, ir redzamas vairāk kā 1 km augstas [[kalnu grēda]]s, [[ieleja]]s, [[upe]]s, kas tek no augstienēm, kā arī tumši laukumi (aizpildīti vai izžuvuši ezeri). Ir pamanāma spēcīga kalnu virsotņu [[erozija]]. Sezonālo lietavu laikā šķidra metāna straumes kalnu nogāzēs varētu pat izskalot [[ala]]s. Uz dienvidaustrumiem no Ksanadu atrodas dīvains veidojums - [[Hotei Arcus]], kas veido spilgtu loku. Vai šī struktūra ir „karstais” vulkāniskais rajons vai arī kādas vielas nogulumi (piem. oglekļa dioksīda ledus), pagaidām nav skaidrs.
+
+Ekvatoriālajā gaišajā Adiri reģionā ir atklātas izstieptas vairāku simtu metru augstas kalnu vai pakalnu grēdas. Tas viss liecina par Titāna virsmu veidojošajiem tektoniskajiem procesiem.
+
+Eksistē arī tumšie rajoni Ksanadu lielumā, kas pavadoni apjož pa ekvatoru. Sākumā tie tika uzskatīti par metāna jūrām. Bet radiolokācijas pētījumi tomēr parādīja, ka tumšie ekvatoriālie rajoni gandrīz visur ir pārklāti ar garām paralēlām kāpu rindām, kas izstieptas valdošo vēju virzienā (no rietumiem uz austrumiem) — t.s. „kaķu skrāpējumi”. Zemieņu tumšā krāsa ir izskaidrojama ar ogļūdeņražu daļiņu (putekļu) koncentrāciju, kas nosēžas no atmosfēras augšējiem slāņiem, noskalojoties ar metāna lietiem no augstienēm, un kas sanesti ekvatoriālajos apgabalos ar paisuma vējiem. Putekļi var būt sajaukti ar ledus smiltīm.
+
+Tomēr dažās vietās ir fiksēti līdzeni, iespējams, šķidras virsmas apgabali, kas pēc platības (apmēram līdz 60 km.) vairāk atbilst ezeriem nekā jūrām. Skaidri ezeru attēli Titāna ziemeļu arktiskajā reģionā tika iegūti [[2006. gads|2006]]. gada jūlijā. Pēc tiem [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] speciālisti jau samērā droši runā par šķidra metāna (vai metāna—etāna) tilpnēm. Bez to vēl [[2005. gads|2005]]. gada jūnijā „Cassini” konstatēja dienvidu polārajā reģionā tumšu veidojumu ar ļoti skaidrām, asām robežām, kuru tāpat var identificēt kā šķidru ezeru. To nosauca Lacus Ontario. Radiolokācijas pētījumi citā dienvidu puslodes polārajā apgabalā konstatēja attīstītu upju sistēmu, krasta līniju ar raksturīgām erozijas pēdām, un, iespējams, šķidru („jūras”) virsmu, kas infrasarkanās gaismas attēlos atbilst tumšajam apgabalam (Mezzoramia).
+
+[[Attēls:Huygens surface color.jpg|thumb|Titāna virsmas attēls no „Huygens” nosēšanās vietas]]
+Daudzas virsmas īpatnības var tikt interpretētas gan kā šķidruma iedarbības, gan kā kriovulkānisma sekas. Ganeša vulkāniskais kupols, kas tika atklāts radiolokācijas attēlā [[2004. gads|2004]]. gada oktobrī, atgādina Veneras kupolveida vulkānus.
+
+„Heigenam” nolaižoties, tika iegūtas fotogrāfijas, kurās redzami gaiši pakalni, kurus šķērso upju gultnes, kas ietek tumšajā apgabalā. „Huygens” acīmredzot nosēdās tieši tumšajā apgabalā, kas izrādījās cietzeme. Augsne nosēšanās vietā atgādina slapjas smiltis (iespējams, sastāv no ledus smilšu graudiem sajaukumā ar ogļūdeņražiem). Virsmu mitrināt var pastāvīgi krītošais smalkais lietus.
+
+Attēlos no nosēšanās vietas ir redzami ieapaļi akmeņi (iespējams, no ledus). Šāda akmeņu forma varētu rasties ilglaicīgas šķidruma iedarbības rezultātā.
+
+Pēc [[radiolokācija]]s un stereo attēlu datiem, kas iegūti no „Huygens” lokālās augstumu starpības uz Titāna var būt diezgan būtiskas; stāvas nogāzes uz Titāna nav retums. Tās ir vēja un šķidruma iespaidā veidojošās intensīvas erozijas sekas. Ir zināmi daži objekti, kas ir līdzīgi triecienkrāteriem, kuri, domājams, aizpildīti ar ogļūdeņražiem. Daudzi krāteri var būt aprakti zem nogulumu slāņa.
+
+=== Ģeoloģija ===
+Titāns sastāv līdzīgās daļās no [[ūdens]] [[ledus]] un no [[ieži]]em. Šāds sastāvs ir līdzīgs daudziem citiem lielo planētu pavadoņiem: Ganimēdam, [[Kallisto (pavadonis)|Kallisto]], Tritonam. Iespējams, ap akmens kodolu (3400 km. diametrā) atrodas vairāki ledus slāņi ar dažādiem [[kristalizācijas tipi]]em. Atmosfērā ir atklāts izotops [[argons]]-40, kas liecina par vulkānisko darbību. Ir izteikts pieņēmums, ka [[lava]]s lomu pilda ūdens ledus, ūdens un [[amonjaks]]; tāds vulkānisma veids saucas par [[kriovulkānisms|kriovulkānismu]]. „Cassini” uzņemtajos attēlos ir saskatāmi divi veidojumi, kas atgādina vulkānus.
+
+== Novērojumi un izpēte ==
+=== Pagātnes ===
+* [[1944]]. gadā [[Džerards Koipers]] pēc spektrālo mērījumu datiem atklāja uz Titāna atmosfēru, pieņemot, ka metāna parciālais spiediens pie virsmas ir ap 10 kPa.
+* Pirmā Titāna fotogrāfija no kosmosa tika uzņemta 1979. gada septembrī no [[starpplanētu zonde]]s „[[Pioneer-11]]”. Pēc „Pioneer-11” datiem tika konstatēts, ka Titāns ir pārāk auksts, lai tur eksistētu dzīvība.
+* Kosmiskais aparāts „[[Voyager-1]]” 1980. gadā atklāja, ka Titāna atmosfēra ir blīvāka nekā uz Zemes, bet atmosfēras spiediens 1,5 reizes lielāks, nekā uz Zemes. Pēc tam radās hipotēzes, ka uz Titāna varētu būt šķidra metāna un etāna okeāni. Bet „Voyager” zondēm nebija iekārtu, ar kurām varētu pētīt Titāna virsmu caur blīvo atmosfēru.
+* [[1980]]. gados tika veikta Titāna radiolokācijas zondēšana. Atstarotā signāla īpatnības lika domāt, ka pavadoņa virsma ir klāta ar dziļu okeānu. Tomēr šī hipotēze izrādījās nepareiza.
+* [[1997]]. gada 15. oktobrī tika palaists [[Cassini-Huygens]] projekts. [[2005. gads|2005]]. gada 14. janvārī nolaižamais aparāts „[[Huygens]]” veiksmīgi iegāja Titāna atmosfērā un veica nosēšanos uz pavadoņa virsmas Adiri apgabalā.
+* Kaut arī Titāna virsmu nevar novērot no kosmosa redzamajā gaismas diapazonā, tomēr „[[Cassini]]” iekārtas spēj uzņemt pavadoņa reljefu citos spektra diapazonos. „[[Cassini]]” turpina aktīvi pētīt Titānu.
+
+=== Nākotnes ===
+2019. gada jūnijā [[Nacionālā aeronautikas un kosmosa administrācija|''NASA'']] veica oficiālu paziņojumu, kurā norādīja, ka līdz 2026. gadam uz Titānu tiks palaists ''Dragonfly'' kosmiskais aparāts, kurš pavadoņa virsmu sasniegs 2034. gadā un veiks vairākus pārlidojumus tā [[atmosfēra|atmosfērā]], pētot tās ķīmisko sastāvu un [[ārpuszemes dzīvība]]s pēdas.<ref>{{tīmekļa atsauce|url=https://www.nasa.gov/press-release/nasas-dragonfly-will-fly-around-titan-looking-for-origins-signs-of-life/|title=NASA's Dragonfly Will Fly Around Titan Looking for Origins, Signs of Life|work=nasa.gov|publisher=[[Nacionālā aeronautikas un kosmosa administrācija]]|date=27 June 2019|accessdate=28 June 2019}}</ref>
+
+== Skatīt arī ==
+{{Portāls|Astronomija}}
+* [[Saturna pavadoņi]]
+* [[Titāns (mitoloģija)]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+{{Saturna pavadoņi}}
+
+[[Kategorija:Saturna pavadoņi]]

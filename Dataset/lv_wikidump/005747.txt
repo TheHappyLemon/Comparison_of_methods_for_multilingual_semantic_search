@@ -1,0 +1,42 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Ālene
+ | official_name            = ''Ahlen''
+ | settlement_type          = Pilsēta
+ | image_skyline            = Museum of fine arts ahlen.jpg
+ | image_caption            = Ālenes mākslas muzejs
+ | image_flag               = 
+ | image_seal               = 
+ | image_map                =
+ | shield_link              = 
+ | pushpin_map              = Vācija
+ | pushpin_label_position   =
+
+| latd =51  | latm =46| lats =00| latNS = N
+| longd =07| longm =53| longs =00| longEW = E
+ | map_caption              =
+ | image_shield             = Wappen_Ahlen.svg
+ | population_total         = 55276
+ | subdivision_type         = Valsts
+ | subdivision_type1        = Federālā zeme
+ | subdivision_type2        = 
+ | subdivision_name         = {{flaga|Vācija}} [[Vācija]]
+ | subdivision_name1        = [[Ziemeļreina-Vestfālene]]
+ | established_title        = Dibināta
+ | established_date         = 850. gadā
+ | website                  = http://www.ahlen.de
+}}
+
+'''Ālene''' ({{val-de|Ahlen}}) ir pilsēta [[Ziemeļreina-Vestfālene|Ziemeļreinā-Vestfālenē]], [[Vācija|Vācijā]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.ahlen.de Ālenas mājaslapa]
+
+{{īss aizmetnis}}
+{{Vācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Alene}}
+[[Kategorija:Ziemeļreinas-Vestfālenes pilsētas]]

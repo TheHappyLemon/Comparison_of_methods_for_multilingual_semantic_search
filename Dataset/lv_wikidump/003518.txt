@@ -1,0 +1,33 @@
+'''Trigonometrija''' ir [[ģeometrija]]s nozare, kas apskata sakarības starp trijstūra elementiem - malām un [[leņķis|leņķiem]], pielietojot trigonometriskās funkcijas. Pamatsakarības starp šīm funkcijām izsaka plaknes trigonometrijas formulas.
+
+== Trigonometrijas pamatelementi ==
+[[File:TrigonometryTriangle-lv.svg|thumb|245px|Šajā trijstūrī {{nowrap|1= sin ''A'' = ''a''/''c'';}} {{nowrap|1= cos ''A'' = ''b''/''c'';}} {{nowrap|1= tan ''A'' = ''a''/''b''.}}]]
+[[Trigonometriskās funkcijas]] galvenokārt izmanto saistībā ar [[taisnleņķa trijstūris|taisnleņķa trijstūri]], un tās definē šādi:
+
+Par [[leņķis|leņķa]] '''[[sinuss|sinusu]]''' sauc šī leņķa pret[[katete]]s attiecību pret [[hipotenūza|hipotenūzu]].
+
+Par leņķa '''[[kosinuss|kosinusu]]''' sauc šī leņķa piekatetes attiecību pret hipotenūzu.
+
+Par leņķa '''[[tangenss|tangensu]]''' sauc šī leņķa pretkatetes attiecību pret tā paša leņķa piekateti.
+
+Par leņķa '''[[kotangenss|kotangensu]]''' sauc šī leņķa piekatetes attiecību pret tā paša leņķa pretkateti.
+
+== Formulas ==
+
+Trigonometrija ietver arī vairākas sakarības starp trijstūra elementiem, piemēram, [[sinusu teorēma]] 
+:<math>\frac{a}{\sin \alpha} = \frac{b}{\sin \beta} = \frac{c}{\sin \gamma} = 2R</math>
+
+vai [[kosinusu teorēma]]
+:<math>c^2=a^2+b^2-2ab\cos \gamma \,</math>.
+
+== Skatīt arī ==
+
+* [[Trigonometriskās funkcijas]]
+* [[Trijstūris]]
+* [[Taisnleņķa trijstūris]]
+
+{{Matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Trigonometrija| ]]

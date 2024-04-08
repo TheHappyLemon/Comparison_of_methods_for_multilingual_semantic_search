@@ -1,0 +1,24 @@
+{{Aminoskābes infokaste
+|attēls=[[Attēls:L-serine-skeletal.png|120px]] [[Attēls:L-serine-3D-sticks.png|120px]]<br />L-serīna struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>3</sub>H<sub>7</sub>NO<sub>3</sub>
+|molmasa=105,09
+|blīvums=1537
+|kušanas temperatūra=228&nbsp;°C (sadalās)
+|viršanas temperatūra=-
+|izoelektriskais punkts=5,68
+}}
+'''Serīns''' ('''''Ser''''', 2-amino-3-hidroksipropionskābe, β-oksialanīns, C<sub>3</sub>H<sub>7</sub>NO<sub>3</sub>) ir dzīvo organismu [[aminoskābe]]. Serīns pieder pie hidroksiaminoskābēm. Serīns ir bezkrāsaina kristāliska viela (heksagonāli kristāli).
+
+== Atrašanās dabā ==
+Serīns ietilpst gandrīz visu dabā sastopamo [[olbaltumvielas|olbaltumvielu]] sastāvā. Visvairāk serīna ir [[zīds|zīda]] olbaltumvielās. Organismā serīns sintezējas no [[glikolīze]]s starpprodukta - 3-fosfoglicerāta.
+
+== Bioloģiskā nozīme ==
+Serīns nodrošina daudzu [[fermenti|fermentu]] funkcijas, piedaloties to aktīvo centru veidošanā. Olbaltumvielas šķeļošie fermenti ar šādiem aktīvajiem centriem tiek dēvēti par serīna endopeptidāzēm. Serīns piedalās vairāku citu aizstājamo aminoskābju - [[glicīns|glicīna]], [[cisteīns|cisteīna]], [[metionīns|metionīna]], [[triptofāns|triptofāna]] - biosintēzē.
+
+Serīna noārdīšanās procesā tas dezaminējas, veidojoties [[pirovīnogskābe]]i.
+
+[[Fosfororganiskie savienojumi|Fosfororganiskās]] indes ir toksiskas, jo iedarbojas uz serīna [[hidroksilgrupa|hidroksilgrupām]] - pievienojoties tām, šādas indes un kaujas vielas bloķē fermentu (galvenokārt [[acetilholīnesterāze]]s) katalītisko aktivitāti.
+
+{{amsk}}
+
+[[Kategorija:Aminoskābes]]

@@ -1,0 +1,50 @@
+{{Infobox political party
+|country = Latvia
+|name = Liepājas partija
+|logo = Logo of the Liepāja Party.svg
+|leader = [[Uldis Sesks]]
+|colorcode = #59a236
+|headquarters = {{vieta|Latvija|Liepāja}}
+|foundation = {{dat|2004|12|14}}
+|ideology =  [[Reģionālisms]]<br>[[Eiroskeptisms]]
+|position = [[Labēja politika|labēja]]
+|international = 
+|merged   = 
+|european = 
+|europarl = 
+|colours = {{color box|#59a236}} [[Zaļā krāsa|zaļa]] <br /> {{color box|#ffffff}} [[Baltā krāsa|balta]]
+|seats1_title = [[14. Saeima]]
+|seats1 = {{Infobox political party/seats|1|100|hex=#59a236}}
+|seats2_title = [[Liepājas dome]]
+|seats2 = {{Infobox political party/seats|7|15|hex=#59a236}}
+|website = {{URL|http://www.liepajaspartija.lv}}
+|membership_year    = 2024
+|membership         = 338{{increase}}<ref>{{Tīmekļa atsauce|url=https://www.ur.gov.lv/lv/specializeta-informacija/informacija-par-politisko-partiju-biedru-skaitu/|title=Informācija par politisko partiju biedru skaitu|website=Uzņēmumu reģistra tīmekļvietne|access-date=2024-02-27|language=lv}}</ref>
+|affiliation1_title= Daļa no
+|affiliation1= [[Apvienotais saraksts]]
+|footnotes     = {{ubl|[[Latvijas politika]]|[[Latvijas politisko partiju saraksts|Partijas Latvijā]]}}
+}}
+'''Liepājas partija''' ir [[2004. gads|2004]]. gada 14. decembrī dibināta [[Labēja politika|labēja]] [[Reģionālisms|reģionāla]] [[Politiskā partija|partija]], kuras sastāv no vairāk kā 300 liepājniekiem. Tās vadītājs ir bijušais [[Liepāja]]s mērs [[Uldis Sesks]]. Partija darbojās [[Apvienotais saraksts|Apvienotajā sarakstā]], [[14. Saeima|14. Saeimā]] to pārstāv viens deputāts – [[Edgars Putra]].
+
+== Iepriekšējie logo ==
+{{Gallery
+|width=190 | height=190
+|perrow=1|lines=1
+|align=center
+|captionstyle=text-align:center;
+|File:LiePa.png|Iepriekšējais logotips
+}}
+
+==Atsauces==
+{{atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā tīmekļa vietne}}
+
+{{Liepāja-aizmetnis}}
+{{politika-aizmetnis}}
+{{Latvijas politiskās partijas|state=autocollapse}}
+
+[[Kategorija:Latvijas reģionālās partijas]]
+[[Kategorija:Latvijas eiroskeptiskās partijas]]
+[[Kategorija:Liepāja]]

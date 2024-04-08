@@ -1,0 +1,10 @@
+'''Sīklietotne''' ({{val|en|applet}}) ir neliela [[datorprogramma|programma]], kas darbojas lielākas programmas sastāvā klienta [[dators|datorā]]. Termins tika ieviests ar ''[[AppleScript]]'' valodu [[1993]]. gadā. Mūsdienās ar šo terminu pamatā saprot programmēšanas valodā ''[[Java (valoda)|Java]]'' rakstītās sīklietotnes, kas tiek izpildītas [[tīmekļa pārlūkprogramma|tīmekļa pārlūkprogrammā]]. Līdzīga veida programmas, kas darbojas servera pusē, sauc par [[serversīklietotne|serversīklietotnēm]].
+
+Sīklietotnēm parasti ir sava [[lietotāja saskarne]]. Ar to tās atšķiras no [[skriptu programmēšanas valoda|skriptu programmēšanas valodās]] (piemēram, ''[[JavaScript]]'') rakstītām programmām, kuras arī darbojas lielākas programmas sastāvā klienta datorā, bet kurām parasti nav savas [[lietotāja saskarne]]s.
+
+== Skatīt arī ==
+* [[Java sīklietotne|''Java'' sīklietotne]]
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Programmatūra]]

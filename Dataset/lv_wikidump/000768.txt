@@ -1,0 +1,37 @@
+[[Attēls:Desktop computer clipart - Yellow theme.svg|thumbnail|235px|Informācijas tehnoloģiju pamatā ir datoru izmantošana]]
+'''Informācijas tehnoloģijas''' ('''IT''') ir metožu un instrumentu kopums [[attēls|attēlu]], [[teksts|teksta]], [[skaņa]]s un [[informācija]]s apstrādei, iegūšanai, uzglabāšanai un izplatīšanai ar [[mikroelektronika|mikroelektroniski]] balstītu [[skaitļošana]]s un [[telesakari|telesakaru]] kombināciju. Kopā ar telesakariem šis metožu kopums tiek saukts par [[informācijas un telesakaru tehnoloģijas|informācijas un telesakaru tehnoloģijām]] (ICT). Informācijas tehnoloģiju pamatā ir [[dators|datoru]] izmantošana informācijas pārnešanai, glabāšanai, aizsardzībai, apstrādei, pārsūtīšanai un iegūšanai jebkurā vietā un laikā. Viena no nozīmīgākajām informācijas tehnoloģiju jomām ir datoru izmantošana gan darbā, gan mājās. Datori veic daudzus uzdevumus efektīvāk, nekā to dara cilvēki, piemēram, matemātiskus [[aprēķini|aprēķinus]], atkārtojamus uzdevumus dažādu produktu ražošanā ([[konveijers|konveijeri]], [[robots|roboti]]), viegli automatizējamus darbus un darbus cilvēkam bīstamos apstākļos.
+
+== Informācijas tehnoloģijas pamatjēdzieni ==
+=== Datora aparatūra ===
+{{pamatraksts|datora aparatūra}}
+Datora aparatūra paredzēta [[dati|datu]] ievadīšanai, apstrādei, izvadei un uzglabāšanai. Datu ievades ierīces ir [[datora tastatūra|tastatūras]], [[ciparu kamera]]s, [[audio ierīce|audio]] un [[video ierīce]]s, specializētas ierīces lietotājiem ar ierobežotām fiziskām iespējām. Datu apstrādes ierīces ([[procesors|procesori]]), balstoties uz algoritmiem ([[datorprogramma|programmām]]), pārveido ievadītotos datus tā, lai tie būtu derīgi lietotājiem vai turpmākai apstrādei. Izvades datus var parādīt kā [[teksts|tekstu]], [[attēls|attēlus]], skaņas vai video informāciju. Visbiežāk lietotās izvades ierīces ir [[displejs|displeji]], [[printeris|printeri]], [[skaļrunis|skaļruņi]] un [[austiņas]], [[faksa mašīna]]s un dažādas daudzfunkcionālas ierīces. Datu glabāšanai izmanto [[datora atmiņa|datora atmiņu]], kas izvietota pamatplates.
+
+=== Programmatūra ===
+{{pamatraksts|programmatūra}}
+Programmatūra tiek iedalīta [[sistēmas programmatūra|sistēmas]] un [[lietojumprogrammatūra|lietojumprogrammatūrās]]. Sistēmas programmatūra tiek izmantota, lai pārvaldītu datorus un tīkla komunikācijas, kā arī atbalstītu programmu izstrādes un izpildes procesus. Sistēmas programmatūra ir [[operētājsistēma]]s, [[datortīkls|datortīklu]] organizācijas programmas, kā arī to vadības sistēmas, [[datubāze|datubāzu]] vadības sistēmas, [[starpprogrammatūra]], programmu projektēšanas un programmēšanas atbalsta līdzekļi, informācijas drošības līdzekļi un citi. Lietojumprogrammatūra ietver programmsistēmas, kas ir orientētas uz lietotāju tiešai lietošanai, tas ir, biroja lietojumprogrammas ([[teksta redaktors|teksta redaktori]], elektroniskās tabulas un citi), rūpniecisko izstrādājumu projektēšanas automatizācijas sistēmas, korporatīvās informācijas sistēmas, interneta [[meklētājprogramma]]s un citi.
+
+=== Citi IT pamatjēdzieni ===
+* [[datortīkls]]
+** [[vispasaules tīmeklis]]
+* informācijas tehnoloģiju izmantošana ikdienā
+** [[e-pasaule]]
+** [[telesakari]]
+** [[drošība internetā]]
+* [[datora drošība]]
+* [[datorika]]
+* [[datorzinātne]]
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{tīmekļa atsauce | url= http://vpg.edu.lv/uploads/1_PAMATJEDZIENI.pdf | title= Informācijas tehnoloģijas pamatjēdzieni | format= [[portatīvā dokumenta formāts|.pdf]] | publisher= Latvijas Universitātes realizētais projekts „Profesionālajā izglītībā iesaistīto vispārizglītojošo mācību priekšmetu pedagogu kompetences paaugstināšana” | access-date= {{dat|2016|10|01||bez}} | archive-date= {{dat|2017|05|17||bez}} | archive-url= https://web.archive.org/web/20170517120903/http://vpg.edu.lv/uploads/1_PAMATJEDZIENI.pdf }}
+* {{tīmekļa atsauce | url= http://www.csb.gov.lv/statistikas-temas/informacijas-tehnologijas-galvenie-raditaji-30332.html | title= Informācijas tehnoloģijas – Galvenie rādītāji <nowiki>|</nowiki> Latvijas statistika | publisher= Centrālā statistikas pārvalde | access-date= {{dat|2016|10|01||bez}} | archiveurl= https://web.archive.org/web/20161021053519/http://www.csb.gov.lv/statistikas-temas/informacijas-tehnologijas-galvenie-raditaji-30332.html | archivedate= {{dat|2016|10|21||bez}} }}
+* {{tīmekļa atsauce | url= http://likumi.lv/doc.php?id=220962 | title= Informācijas tehnoloģiju drošības likums | publisher= likumi.lv}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Informācijas tehnoloģijas| ]]

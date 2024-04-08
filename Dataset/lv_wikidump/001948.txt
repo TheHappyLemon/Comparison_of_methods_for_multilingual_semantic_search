@@ -1,0 +1,66 @@
+{{Elementa infokaste
+|                 tips = pusmetāls
+|      kārtas skaitlis = 51
+|             5. čaula = 5
+|             4. čaula = 18
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Sb
+|             atommasa = 121,760
+|   valences elektroni = [Kr]4d<sup>10</sup>5s<sup>2</sup>5p<sup>3</sup>
+|       tabulas attēls = [[Attēls:Sb-TableImage.svg|250px]]
+|               attēls = [[Attēls:Antimony-201379.jpg|125px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Antimony-piece.jpg|165px]]<br />Kristāliska dabiskā antimona paraugs un ļoti tīra metāliskā antimona gabaliņš 
+|  oksidēšanas pakāpes = '''+5''', '''+3''', -3
+|  elektronegativitāte = 2,05
+|              blīvums = 6697
+|  kušanas temperatūra = 903,78 K (630,63&nbsp;°C)
+| viršanas temperatūra = 1860 K (1587&nbsp;°C)
+}}
+
+'''Antimons''' ({{val|la|stibium}}) ir [[ķīmiskais elements]] ar simbolu '''Sb''' un [[atomskaitlis|atomskaitli]] 51. Tas ir spoži pelēks [[pusmetāli|pusmetāls]], kas dabā galvenokārt ir sastopams [[sulfīdi|sulfīda]] minerāla [[antimonīts|antimonīta]] (Sb<sub>2</sub>[[sērs|S]]<sub>3</sub>) sastāvā, lai gan var būt sastopams arī brīvā veidā. Antimona savienojumi ir zināmi jau kopš seniem laikiem. Tie tika izmantoti [[kosmētika|kosmētikā]]. Šis elements tika izmantots arī tīrā veidā, bet tajā laikā tas kļūdaini tika uzskatīts par [[svins|svinu]]. Kā atsevišķs ķīmiskais elements antimons tika izdalīts 17. gadsimtā.
+
+Mūsdienās pasaulē visvairāk antimona un tā savienojumu tiek iegūts [[Ķīna|Ķīnā]]. No rūpnieciskajām metodēm antimona iegūšanai izmanto apdedzināšanu un sekojošu termisko [[reducēšana|reducēšanu]] ar [[ogleklis|ogli]] vai tiešu antimonīta reducēšanu ar [[dzelzs|dzelzi]].
+
+Antimonu galvenokārt lieto [[sakausējums|sakausējumos]] ar [[svins|svinu]] un [[alva|alvu]], lai palielinātu to [[mehāniskā izturība|mehānisko izturību]]. Svarīgs antimona sakausējums ir [[babīts]]. Antimons ir atrodams arī [[lodalva|lodalvā]], [[lode (šāviņš)|šaujamieroču lodēs]] un [[slīdgultnis|slīdgultņos]]. Antimona savienojumus ar [[hlors|hloru]] un [[broms|bromu]] izmanto materiālu ugunsdrošības palielināšanai. Viena no jaunajām antimona savienojumu izmantošanas sfērām ir [[mikroelektronika]].
+
+== Raksturojums ==
+=== Īpašības ===
+Antimons ir viens no [[pniktogēni|pniktogēnu]] (15. vai VB [[periodiskās tabulas grupa|grupas]]) ķīmiskajiem elementiem. Tā [[elektronegativitāte]] ir 2,05. Kā tas ir sagaidāms, skatoties [[ķīmisko elementu periodiskā tabula|periodisko tabulā]], antimona elektronegativitāte ir lielāka nekā [[alva]]i un [[bismuts|bismutam]], bet mazāka nekā [[telūrs|telūram]] un [[arsēns|arsēnam]]. [[normāli apstākļi|Istabas temperatūrā]] un saskarsmē ar [[gaiss|gaisu]] antimons atrodas stabilā stāvoklī, bet paaugstinātā temperatūrā, reaģējot ar [[skābeklis|skābekli]], veido [[antimona trioksīds|antimona trioksīdu]] (Sb<sub>2</sub>O<sub>3</sub>),<ref name="wiberg holleman"/> kas ir viens no nozīmīgākajiem komerciālajiem antimona savienojumiem.
+
+[[Attēls:Antimon.PNG|thumbnail|200px|[[Mēģene]] ar metāliskā antimona paraugu]]
+Antimons ir sudrabains, spoži pelēks [[metāli|metāls]], kura [[cietība]] pēc [[Mosa skala]]s ir 3. Tādēļ tīrs antimons netiek izmantots priekšmetu izgatavošanai, kuri tiek pakļauti lielai slodzei. 1931. gadā [[Ķīna|Ķīnā]], [[Guidžou]] provincē, no antimona tika veidotas [[monēta]]s, bet tā kā tās ātri nolietojās, tad to [[naudas kalšana|kalšana]] tika pārtraukta.<ref name="coins"/>
+
+Antimonam ir četras [[alotropija|alotropās]] formas: stabila metāliska forma un trīs nestabilas formas (eksplozīvā forma, melnā un dzeltenā forma).
+
+Savienojumos antimonam var būt [[oksidēšanas pakāpe]]s no -3 līdz +5.
+
+=== Izotopi ===
+Antimonam eksistē divi stabili [[izotops|izotopi]] — antimons-121 (57,21% no visa kopējā dabā sastopamā antimona daudzuma) un antimons-123 (42,79%).<ref name="jlab"/>
+
+=== Sastopamība ===
+Antimona daudzums [[Zemes garoza|Zemes garozā]] ir aptuveni no 0,2 līdz 0,5 daļiņām no miljona.<ref name="minerals.usgs.gov"/> Lai gan šis metāls nav plaši sastopams, tas ir vairāk nekā 100 dažādu [[minerāls|minerālu]] sastāvos. No 2006. līdz 2009. gadam 56% no visa antimona ir iegūts [[Ķīna|Ķīnā]].<ref name="minerals.usgs.gov"/> Otrajā un trešajā vietā attiecīgi ir [[Meksika]] (28%) un [[Beļģija]] (7%).<ref name="minerals.usgs.gov"/> Lai gan dažreiz dabā tas ir sastopams tīrā veidā, to galvenokārt iegūst no [[antimonīts|antimonīta]] (Sb<sub>2</sub>[[sērs|S]]<sub>3</sub>).
+
+== Atsauces ==
+{{commonscat|Antimony|antimons}}
+{{atsauces|refs=
+<ref name="wiberg holleman">{{grāmatas atsauce | title= Inorganic chemistry | author= Wiberg, Egon; Wiberg, Nils and Holleman, Arnold Frederick | publisher= Academic Press | year= 2001 | isbn=0-12-352651-5}}</ref>
+
+<ref name="coins">{{tīmekļa atsauce | url= http://www.coins-of-the-uk.co.uk/pics/metal.html | title= Metals Used in Coins and Medals | publisher= coins-of-the-uk.co.uk | accessdate= 2013-01-29 | language= angliski}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso051.html | title= Isotopes of the Element Antimony | publisher= Jefferson Lab | accessdate= 2013-01-29 | language= angliski}}</ref>
+
+<ref name="minerals.usgs.gov">{{tīmekļa atsauce | url= http://minerals.usgs.gov/minerals/pubs/commodity/antimony/mcs-2011-antim.pdf | title= Mineral Commodity Summaries: Antimony | author= Carlin, Jr., James F. | publisher= United States Geological Survey | accessdate= 2013-01-29 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]

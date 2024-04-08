@@ -1,0 +1,89 @@
+'''Azerbaidžāņu alfabēts''' tiek lietots [[azerbaidžāņu valoda]]s rakstībā. Mūsdienās oficiālais azerbaidžāņu alfabēts ir [[latīņu alfabēts|latīņu alfabēta]] modifikācija. Neoficiāli vēl joprojām tiek lietota arī [[Padomju Savienība|PSRS]] laikā ieviestā [[kirilica]].
+
+Līdz 1929. gadam azerbaidžāņi lietoja tikai [[arābu alfabēts|arābu alfabētu]]. Laikaposmā no 1929. līdz 1938. gadam tika lietots latīņu alfabēts, bet no 1938. līdz 1991. gadam - kirilica. 1991. gadā tika atjaunota rakstība ar latīņu alfabētu. [[Irāna|Irānā]] dzīvojošie azerbaidžāņi vēl mūsdienās izmanto nestandartizētu arābu alfabēta modifikāciju.
+
+{| width="80%"
+|+colspan=5 bgcolor="#ccccff"|'''Azerbaidžāņu alfabētu transliterācijas tabula'''
+|-
+! Arābu
+! Latīņu
+! Kirilica
+! Latīņu
+! rowspan="2" |[[IPA]]
+|-
+| —1929 || 1929—1939 || 1958—1991 || '''1991—'''
+|-
+| ﺍ || A a || А а || '''A a''' || [ɑ:]
+|-
+| ﺏ || B в || Б б || '''B b''' || [b]
+|-
+| ﺝ || Ç ç || Ҹ ҹ || '''C c''' || [ʤ]
+|-
+| چ || C c || Ч ч || '''Ç ç''' || [ʧ]
+|-
+| ﺩ || D d || Д д || '''D d''' || [d]
+|-
+| ﻩ || E e || Е е || '''E e''' || [ɛ]
+|-
+| ﻉ || Ə ə || Ə ə || '''Ə ə''' || [æ]
+|-
+| ﻑ || F f || Ф ф || '''F f''' || [f]
+|-
+| گ || G g || Ҝ ҝ || '''G g''' || [g']
+|-
+| ﻍ || Ƣ ƣ || Ғ ғ || '''Ğ ğ''' || [ɣ]
+|-
+| ﺡ,ﻩ || H h || Һ һ || '''H h''' || [h]
+|-
+| ﺥ || X x || Х х || '''X x''' || [x]
+|-
+| ﻱ || Ь ь || Ы ы || '''I ı''' || [ɯ]
+|-
+| ﻱ || I i || И и || '''İ i''' || [ɪ]
+|-
+| ﺝ || Ƶ ƶ || Ж ж || '''J j''' || [ʒ]
+|-
+| ﻙ || K k || К к || '''K k''' || [k]
+|-
+| ﻕ || Q q || Г г || '''Q q''' || [g]
+|-
+| ﻝ || L l || Л л || '''L l''' || [l]
+|-
+| ﻡ || M m || М м || '''M m''' || [m]
+|-
+| ﻥ || N n || Н н || '''N n''' || [n]
+|-
+| ﻭ || O o || О о || '''O o''' || [ɔ]
+|-
+| ﻭ || Ɵ ɵ || Ө ө || '''Ö ö''' || [œ]
+|-
+| پ || P p || П п || '''P p''' || [p]
+|-
+| ﺭ || R r || Р р || '''R r''' || [r]
+|-
+| ﺙ,ﺱ,ﺹ || S s || С с || '''S s''' || [s]
+|-
+| ﺵ || Ş ş || Ш ш || '''Ş ş''' || [ʃ]
+|-
+| ﺕ,ﻁ || T t || Т т || '''T t''' || [t]
+|-
+| ﻭ || U u || У у || '''U u''' || [u]
+|-
+| ﻭ || Y y || Ү ү || '''Ü ü''' || [y]
+|-
+| ﻭ || V v || В в || '''V v''' || [v]
+|-
+| ﻱ || J j || Ј ј || '''Y y''' || [j]
+|-
+| ﺫ,ﺯ,ﺽ,ﻅ || Z z || З з || '''Z z''' || [z]
+|-
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{valoda-aizmetnis}}
+
+[[Kategorija:Azerbaidžāņu valoda]]
+[[Kategorija:Alfabēti]]

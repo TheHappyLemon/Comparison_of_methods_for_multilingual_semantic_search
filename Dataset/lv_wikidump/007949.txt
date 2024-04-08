@@ -1,0 +1,33 @@
+{{Atjaunot}}
+{{Futbola kluba infokaste|
+nos=Grêmio|
+logo=[[Attēls:Gremio.png|120px]]|
+pilns=Grêmio Foot-Ball<br />Porto Alegrense
+| dib     = 1903
+| dib_mēn = 9
+| dib_dat = 15
+| stad    = Olímpico Monumental,<br />[[Portualegri]], [[Brazīlija]]|
+ietilp=54 081|
+prez={{flaga|Brazīlija}} Alberto Guera |
+tren={{flaga|Brazīlija}} [[Renato Fortalupi]]|
+līga=[[Brazīlijas Série A]]|
+sez=2022|
+poz=2.|
+pattern_la1=_gremio13h|pattern_b1=_gremio13h|pattern_ra1=_gremio13h|pattern_so1=_gremio13h|
+ leftarm1=000000|body1=000000|rightarm1=0093E0|shorts1=000000|socks1=FFFFFF|
+ pattern_la2=_gremio13a|pattern_b2=_gremio13a|pattern_ra2=_gremio13a|pattern_so2=_gremio13a|
+ leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=000000|
+ pattern_la3=_gremio13t|pattern_b3=_gremio13t|pattern_ra3=_gremio13t|pattern_so3=_gremio13t|
+ leftarm3=000000|body3=000000|rightarm3=000000|shorts3=000000|socks3=60AFFF|
+}}
+
+'''Portualegri "Grêmio"''' ir [[Brazīlija]]s [[futbols|futbola]] klubs, kas bāzējas [[Portualegri]] pilsētā. Tajā savu karjeru uzsāka [[Ronaldiņu]].
+== Ārējās saites ==
+* {{official website}}
+{{autoritatīvā vadība}}
+
+{{futbols-aizmetnis}}
+
+{{DEFAULTSORT:Gremio, Portualegri}}
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Portualegri "Grêmio"]]

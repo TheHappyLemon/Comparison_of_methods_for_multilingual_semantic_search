@@ -1,0 +1,69 @@
+{{Elementa infokaste
+|                 tips = lantanīds
+|      kārtas skaitlis = 67
+|             6. čaula = 2
+|             5. čaula = 8
+|             4. čaula = 29
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Ho
+|             atommasa = 164,930329
+|   valences elektroni = [Xe]4f<sup>11</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Ho-TableImage.png|250px]]
+|               attēls = [[Attēls:Holmium2.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Holmium.jpg|160px]]<br />Holmija paraugi
+|  oksidēšanas pakāpes = '''+3''', +2
+|  elektronegativitāte = 1,23
+|              blīvums = 8790 kg/m³, bet šķidrā stāvoklī 8340
+|  kušanas temperatūra = 1734 K (1461&nbsp;°C)
+| viršanas temperatūra = 2873 K (2600&nbsp;°C)
+|  īpatnējā pretestība = 8,14{{E|-7}}
+|        skaņas ātrums = 2760
+| Van der Vālsa rādiuss = 
+}}
+
+'''Holmijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ho''' un [[atomskaitlis|atomskaitli]] 67. Tas ir sudrabbalts, relatīvi mīksts, kaļams [[metāli|metāls]]. Holmiju, tāpat kā pārējos [[lantanīdi|lantanīdus]], iegūst no [[polimetāliskās rūdas|polimetālu rūdām]], tīrā veidā dabā tas nav sastopams. Holmijam ir liels [[magnētiskais moments]], tāpēc to lieto [[magnēts|magnētiem]]. [[Holmija oksīds|Holmija oksīdu]] lieto par dzelteno krāsu [[keramika]]s glazūrām un [[stikls|stiklam]]. Savienojumos holmijam [[oksidēšanas pakāpe]] parasti ir +3.
+
+== Īpašības ==
+Holmijs ir 11. elements [[lantanīdi|lantanīdu]] saimē. Tas ir [[6. perioda ķīmiskie elementi|6. perioda]] ķīmiskais elements. Periodiskajā tabulā tas atrodas starp [[disprozijs|disproziju]] un [[erbijs|erbiju]], kā arī virs [[einšteinijs|einšteinija]].
+
+=== Fizikālās īpašības ===
+Holmija [[blīvums]] ir 8790 kg/m³, bet šķidrā stāvoklī blīvums nokrītas uz 8340 kg/m³. Tā [[kušanas temperatūra]] ir 1461 °C, bet [[viršanas temperatūra]] ir 2600 °C. [[Normāli apstākļi|Normālos apstākļos]] holmijs ir [[paramagnētiķi]]s, bet temperatūrā, kas zemāka par 19K, tas ir [[feromagnētiķi]]s. Holmijam ir lielākais [[magnētiskais moments]] (10,6 [[Bora magnetons|μ<sub>B</sub>]]) no visiem dabā sastopamajiem ķīmiskajiem elementiem, tāpēc to lieto [[magnēts|magnētiem]]. Tam piemīt arī citas neparastas [[magnētisms|magnētiskās]] īpašības.
+
+=== Ķīmiskās īpašības ===
+Savienojumos holmijam [[oksidēšanas pakāpe]] parasti ir +3, bet var būt arī +2. Sausā gaisā un [[normāli apstākļi|normālos apstākļos]] holmijs ir ķīmiski stabils. Tīram holmijam nonākot saskarē ar mitru [[gaiss|gaisu]] vai lielā temperatūrā, tas reaģē ar to un uz tā veidojas dzeltenīga apsūbējuma kārtiņa. Veidojās holmija (III) oksīds.
+
+: 4 Ho + 3 O<sub>2</sub> → 2 Ho<sub>2</sub>O<sub>3</sub>
+
+Holmija [[elektronegativitāte]] ir 1,23.
+
+Holmijs reaģē ar visiem stabilajiem [[halogēni]]em.
+:2 Ho (s) + 3 F<sub>2</sub> (g) → 2 HoF<sub>3</sub> (s) [rozā]
+:2 Ho (s) + 3 Cl<sub>2</sub> (g) → 2 HoCl<sub>3</sub> (s) [dzeltens]
+:2 Ho (s) + 3 Br<sub>2</sub> (g) → 2 HoBr<sub>3</sub> (s) [dzeltens]
+:2 Ho (s) + 3 I<sub>2</sub> (g) → 2 HoI<sub>3</sub> (s) [dzeltens]
+
+=== Izotopi ===
+Dabā ir sastopams tikai viens stabils holmija [[izotops]] — holmijs-165.<ref>{{tīmekļa atsauce | url= https://education.jlab.org/itselemental/iso067.html | title= Isotopes of the Element Holmium | publisher= Jefferson Lab | language= en | accessdate= 2023. gada 31. augustā}}</ref> Mākslīgos apstākļos ir iegūti 36 izotopi, kuru [[masas skaitlis]] ir no 140 līdz 175, kā arī vēl 33 [[kodolizomērs|kodolizomēri]]. Visstabilākais no mākslīgajiem izotopiem ir holmijs-163, kura [[pussabrukšanas periods]] ir 4570 gadi.
+
+== Ķīmiskie savienojumi ==
+[[Attēls:Holmium(III) oxide.jpg|thumbnail|upright=1.0|Holmija (III) oksīds parastā gaismā (kreisajā pusē) un [[luminiscences spuldze|luminiscences spuldžu]] gaismā (labajā pusē)]]
+Holmija (III) oksīds ir vienīgais [[oksīdi|oksīds]], kuru veido holmijs. Tā izskats ir atkarīgs no gaismas, kas uz tā krīt. [[Dienas gaisma|Dienas gaismā]] holmija (III) oksīds ir dzeltenīgs, bet [[luminiscences spuldze|luminiscences spuldžu]] gaismā tas kļūst sārts.
+
+== Vēsture ==
+Holmiju atklāja 1878. gadā šveiciešu ķīmiķi [[Jacques-Louis Soret|Žaks-Luī Sorē]] un [[Marc Delafontaine|Marks Delafontēns]]. Paralēli vēl to atklāja zviedru ķīmiķis [[Per Teodor Cleve|Pērs Teodors Klēvs]], kas to pirmo reizi izolēja tīrā veidā. Holmijs ir nosaukts par godu [[Zviedrija]]s galvaspilsētai [[Stokholma]]i (Stokholmas nosaukums [[latīņu valoda|latīņu valodā]] ir ''Holmia'').
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]

@@ -1,0 +1,48 @@
+{{ezera infokaste
+|ezers=Nikaragvas ezers
+|attēls=Nicaragua_lake.JPG
+|vieta={{NIC}}
+|map = Nikaragva
+| plat_d=11 | plat_m=37 | plat_s= | plat_NS=N
+| gar_d=85 | gar_m=21 | gar_s= | gar_EW=W
+|platība=8264
+|garums=163
+|platums=70
+|Vid_dziļums=13
+|Max_dziļums=45
+|tilpums=108
+|augstums_vjl=32
+|izteka=[[Sanhuana (upe)|Sanhuana]]
+|baseins=23 844
+|valstis=[[Nikaragva]]
+|salas=>400 saliņas; <small>trīs lielākas:<br />[[Ometepe]], [[Solentiname]], [[Sapatera]]</small>
+|pilsētas=[[Granāda (Nikaragva)|Granāda]]
+}}
+<mapframe text="Nikaragvas ezers" width=290 height=290 zoom=8 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q173862"
+}
+</mapframe>
+'''Nikaragvas ezers''' ({{val|es|Gran Lago de Nicaragua}}), arī '''Kosivolkas ezers''' (''Lago Cocibolca'') vai '''Granadas ezers''' (''Lago de Granada''), ir liels [[tektonika|tektoniskas]] izcelsmes saldūdens ezers [[Nikaragva|Nikaragvā]]. Ezers ir viens no 40 lielākajiem pasaulē un otrais vai trešais lielākais [[Latīņamerika|Latīņamerikā]]. Ar otru lielo Nikaragvas ezeru — [[Managvas ezers|Managvas ezeru]] to savieno [[Tipitapa]]s upe.
+
+Nikaragvieši ezeru bieži dēvē par Saldo jūru (''Mar Dulce'') ezera lielo izmēru dēļ. Vēji, kas pūš uz rietumiem, ezerā var sacelt ļoti lielus viļņus. Ezerā atrodas vairākas salu grupas, šeit dzīvo arī saldūdens haizivis — tagad gan biežāk sastopamas [[Sanhuana (upe)|Sanhuana]]s upē.
+
+Ezeru ar [[Karību jūra|Karību jūru]] savieno kuģojamā Sanhuanas upe. Tādējādi ezera krastā esošā [[Granada (Nikaragva)|Granadas]] pilsēta ir uzskatāma par [[Atlantijas okeāns|Atlantijas okeāna]] ostu, kaut gan tā atrodas tuvu [[Klusais okeāns|Klusajam okeānam]]. Kluso okeānu var pat redzēt no ezerā esošās Ometepes salas.
+
+Ometepes salā atrodas divi vulkāni — [[Konsepsjons]] (1610 m) un [[Maderass]] (1340 m). Salā atrodas arī aizvēsturiskas akmens statujas un [[petroglifs|petroglifi]].
+
+Savulaik bija plāns izbūvēt [[Nikaragvas kanāls|Nikaragvas kanālu]] pāri Rivas zemesšaurumam, taču [[Panamas kanāls]] tika uzcelts ātrāk. Lai nodrošinātu Panamas kanāla monopolu, [[Amerikas Savienotās Valstis|ASV]] ir noslēgusi ar reģiona valstīm īpašu līgumu, tomēr ik pa laikam Nikaragvā tomēr parādās plāni būvēt savu kanālu.
+
+== Skatīt arī ==
+* [[Pasaules lielāko ezeru saraksts]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20051210055440/http://www.edicioneslupita.com/nicaragua/cocibolca.html Ezera apraksts, attēli (spāniski)]
+* [http://www.worldlakes.org/lakedetails.asp?lakeid=8934 Pamatinformācija par ezeru]
+
+{{autoritatīvā vadība}}
+[[Kategorija:Nikaragvas ezeri]]

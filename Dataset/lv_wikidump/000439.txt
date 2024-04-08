@@ -1,0 +1,54 @@
+{{Valodas infokaste
+ |name          = Latīņu valoda
+ |nativename    = ''lingua Latina''
+ |pronunciation = [laˈtiːna]
+ |states        = [[Romas Republika]], [[Romas impērija]], lielākā daļa [[Eiropa]]s valstu (līdz 18. gadsimtam), [[Romas katoļu baznīca]] 
+ |region        = 
+ |latd=  | latm= | latNS = 
+ |longd= |longm= |longEW = 
+ |speakers      = nav zināms
+ |iso1          = la
+ |iso2          = lat
+ |iso3          = lat
+ |familycolor   = Indoeiropiešu
+ |fam2          = [[Itāļu valodas|Itāļu]]
+ |fam3          = [[Latīņu-falisku valodas|Latīņu-falisku]]<ref>Iespējams, nepareizi transliterēts. Angliski šo valodu grupu sauc par ''Latino-Faliscan languages''</ref>
+ |script        = [[latīņu alfabēts]]
+ |rank          = 
+ |nation        = {{flaga|Vatikāns}} [[Vatikāns]]
+ |minority      = 
+ |agency        = 
+ |extinct       = 
+ |caption       = 
+ |image         = 
+ |map           = [[Attēls:Roman Empire map.svg|center|thumb|235px|Romas impērija ziedu laikos, kas vienlaicīgi bija arī latīņu valodas maksimālais izplatības areāls. Impērijas austrumu daļā to lietoja retāk, līdztekus [[sengrieķu valoda]]i.]]
+}}
+
+'''Latīņu valoda''' (''lingua Latina'') ir [[indoeiropiešu valodas|indoeiropiešu saimes]] viena no [[itāļu valodas|itāļu valodām]], kurā sākotnēji runāja Laciumā (''Latium'', mūsdienu [[Lacio]] reģions [[Itālija]]s centrālajā daļā). Paplašinoties [[Romas Republika]]i un vēlāk [[Romas impērija]]i, tā izplatījās ārpus Laciumas provinces. Latīņu valoda bija [[Senā Roma|Senās Romas]] oficiālā valoda,<ref>{{en ikona}} {{Tīmekļa atsauce | url= http://wiki.answers.com/Q/What_was_the_national_language_of_Ancient_Rome | title= What was the national language of Ancient Rome? | publisher= WikiAnswers | accessdate= 2010-08-02 | archive-date= 2010-01-26 | archive-url= https://web.archive.org/web/20100126181021/http://wiki.answers.com/Q/What_was_the_national_language_of_Ancient_Rome }}</ref> kaut arī plaši tika lietota arī [[grieķu valoda]], īpaši impērijas austrumu daļā. Mūsdienās tā ir [[Romas Katoļu baznīca]]s oficiālā valoda, kas to padara arī par [[Vatikāns|Vatikāna]] valsts valodu.
+
+Visas [[romāņu valodas]] ir cēlušās no latīņu valodas, un daudzi vārdi citās valodās ir ieviesušies no tās. Latīņu valoda tika lietota [[zinātne]]i un starptautiskajai saziņai lielākajā daļā [[Eiropa]]s valstu līdz pat 18. gadsimtam, kad to nomainīja [[franču valoda]], un vēlāk, 19. gadsimtā, [[angļu valoda]]. Šobrīd latīņu valoda tiek lietota [[bioloģija|bioloģijā]] un [[medicīna|medicīnā]] kā viennozīmīga starptautiska [[terminoloģija]].
+
+== Latīņu valodas attīstības etapi ==
+Latīņu valodas attīstības vēsture tiek iedalīta:
+* Arhaiskā latīņu valoda;
+* Klasiskā latīņu valoda;
+* Pēcklasiskā latīņu valoda;
+* Vēlā latīņu valoda.
+
+== Lietošana viduslaiku Latvijā ==
+Pēc [[Livonijas krusta kari]]em 13. gadsimtā izveidotajā [[Livonijas Konfederācija|Livonijas Konfederācijā]] latīņu valoda kalpoja kā [[valsts valoda]], kurā tika rakstīti oficiālie dokumenti un likumdošanas akti. Līdztekus tai kā starptautu sazināšanās valoda ([[lingua franca]]) arvien lielāku nozīmi ieguva [[vācu valoda]] un tās lejasvācu dialekts, bet zemnieku vidē kā sazināšanās valoda Livonijā dzīvojošo maztautu starpā līdz [[16. gadsimts|16. gadsimtam]] izveidojās [[latviešu valoda]] un [[igauņu valoda]].
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{en ikona}} [https://web.archive.org/web/20100701103309/http://www.math.ohio-state.edu/~econrad/lang/latin.html Latin Grammar] Verb Conjugation and Noun Declension
+
+{{val-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Itāļu valodas]]
+[[Kategorija:Latīņu valoda| ]]

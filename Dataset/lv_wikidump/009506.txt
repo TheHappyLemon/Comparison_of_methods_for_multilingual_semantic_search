@@ -1,0 +1,74 @@
+{{Latvijas novada infokaste
+| nosaukums         = Indrānu pagasts
+| karte             = Indrānu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Madonas novads
+| centrs            = Lubāna
+| platība           = 342,54
+| iedzīvotāji       = 822<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2018|09|03||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }} {{Webarchive|url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |date={{dat|2016|10|20||bez}} }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 822 / 342.54 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Indrānu pagasts''' ir viena no [[Madonas novads|Madonas novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Lubāna]]s pilsētu, [[Dzelzavas pagasts|Dzelzavas]], [[Sarkaņu pagasts|Sarkaņu]], [[Praulienas pagasts|Praulienas]], [[Barkavas pagasts|Barkavas]] un [[Ošupes pagasts|Ošupes]] pagastiem, [[Balvu novads|Balvu novada]] [[Bērzpils pagasts|Bērzpils]], [[Lazdukalna pagasts|Lazdukalna]] un [[Rugāju pagasts|Rugāju]] pagastiem un [[Gulbenes novads|Gulbenes novada]] [[Daukstu pagasts|Daukstu]] un [[Līgo pagasts|Līgo]] pagastiem. 
+
+== Daba ==
+Pagasts atrodas [[Austrumlatvijas zemiene]]s [[Lubāna līdzenums|Lubāna līdzenumā]]. No pagasta kopējās teritorijas meži aizņem 21401 ha, lauksaimniecības zeme - 6201 ha. 
+
+2014. gada nogalē Latvijas Centrālā statistikas pārvalde 150 kvadrātkilometrus plašu mazapdzīvotu teritoriju Lubānas novada Indrānu pagastā atzina par nomaļāko vietu Latvijā.<ref>[http://www.delfi.lv/novados/lubanas-novads/indranu-pagasts/zinas/statistiki-noskaidrojusi-nomalako-vietu-latvija.d?id=45402188 Statistiķi noskaidrojuši nomaļāko vietu Latvijā] DELFI Novados 2014. gada 30. decembrī</ref>
+
+=== Hidrogrāfija ===
+'''Upes:''' 
+Galvenās upes ir [[Aiviekste]], [[Pededze]], [[Jaunpededze]], [[Liede]], [[Abaine]], [[Upsts]], [[Mandauga]], [[Vērde]], [[Zvidze]] un [[Moroza grāvis]].
+
+'''Ezeri:''' 
+[[Kapu ezers]], [[Labāžezers]], [[Salas ezers (Indrānu pagasts)|Salas ezers]].
+
+== Vēsture ==
+1945. gadā [[Madonas apriņķis|Madonas apriņķa]] [[Lubānas pagasts|Lubānas pagastā]] izveidoja Indrānu, Lubānas, [[Ošupes ciems|Ošupes]] un [[Zvidzenes ciems|Zvidzenes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Lubānas ciems''' ietilpis [[Cesvaines rajons|Cesvaines]] (1949-1956) un [[Madonas rajons|Madonas]] (pēc 1956. gada) rajonos. 1954. gadā Lubānas ciemam pievienoja likvidēto Indrānu ciemu. 1958. gadā [[Lubāna]]i piešķira [[pilsētciemats|strādnieku ciemata]] statusu un likvidēto Lubānas ciemu pievienoja tai, izveidojot '''Lubānas lauku teritoriju'''. 1975. gadā Lubānas lauku teritoriju reorganizēja par pašvaldību un izveidoja '''Indrānu ciemu'''. 1979. gadā Indrānu ciemam pievienoja daļu [[Meirānu ciems|Meirānu ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2007. gada 16. oktobrī Indrānu pagasts apvienojās ar Lubānas pilsētu, izveidojot [[Lubānas novads|Lubānas novadu]].<ref>{{Tīmekļa atsauce |url=http://www.lubana.lv/lv/novads |title=Lubānas novada dzimšanas diena |access-date={{dat|2010|05|08||bez}} |archiveurl=https://web.archive.org/web/20100511175501/http://www.lubana.lv/lv/novads |archivedate={{dat|2010|05|11||bez}} }}</ref>
+
+No 2021. gada 1. jūlija, apvienojot [[Lubānas novads|Lubānas novadu]] ar [[Madonas novads (2009—2021)|Madonas novadu]], Lubānas pilsēta un [[Indrānu pagasts]] atrodas [[Madonas novads|jaunajā Madonas novadā]].
+
+=== Arheoloģiskie pieminekļi ===
+I un II [[Aboras apmetne]]s - [[auklas keramikas kultūra]]i piederīgu vēlā akmens laikmeta un agrā bronzas laikmeta (3. g. tk. p.m.ē. - 2. g. tk. 1. cet. p.m.ē.) iedzīvotāju apdzīvotas vietas.
+
+=== Piemiņas vieta ===
+[[Attēls:Piemiņas plāksne pret Ulmani vērstā atentāta vietā.JPG|280px|thumb|Piemiņas plāksne atentāta vietā]]
+Vietā pie [[Dzelzava]]s — [[Lubāna]]s autoceļa uz bijušo [[Cēsu apriņķis|Cēsu]] un [[Valkas apriņķis|Valkas apriņķu]] robežas (mūsdienu [[Lubānas novads|Lubānas]] un [[Gulbenes novads|Gulbenes novadu]] robežas), kur [[1920]]. gada [[15. aprīlis|15. aprīlī]] pret [[Kārlis Ulmanis|Ulmani]] tika veikts atentāta mēģinājums, [[1939]]. gada [[11. augusts|11. augustā]] atklāta piemiņas plāksne. Plāksne [[Latvijas PSR]] pastāvēšanas laikā tika nopostīta un to atjaunoja [[1988]]. gada [[18. novembris|18. novembrī]] cilvēktiesību aizstāvju grupas [[Helsinki 86]] pārstāvji.
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Meirāni (Indrānu pagasts)|Meirāni]], [[Indrāni (Indrānu pagasts)|Indrāni]], [[Visagals]], [[Ērgala]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Madonas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Lubānas novads}}
+{{Madonas rajons}}
+}}
+
+{{DEFAULTSORT:Indranu pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Madonas novada pagasti]]
+[[Kategorija:Indrānu pagasts| ]]

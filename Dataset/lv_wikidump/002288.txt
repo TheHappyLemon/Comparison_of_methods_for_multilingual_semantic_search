@@ -1,0 +1,44 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Carbon-disulfide-2D-dimensions.png|180px]]<br />Sēroglekļa struktūrformula ar starpatomu attālumu<br />[[Attēls:Carbon-disulfide-3D-vdW.png|180px]]<br />Sēroglekļa molekulas modelis
+|       citi nosaukumi = oglekļa disulfīds
+|           CAS numurs = 75-15-0
+|      ķīmiskā formula = CS<sub>2</sub>
+|              molmasa = 76,1
+|              blīvums = 1260
+|  kušanas temperatūra = -111,6&nbsp;°C
+| viršanas temperatūra = 46,3&nbsp;°C
+| šķīdība ūdenī        = nešķīst, <br />lielākā temperatūrā hidrolizējas<ref>N.Ahmetovs. Neorganiskā ķīmija, Rīga, "Zvaigzne", 1978, 429. lpp.</ref>
+|                 citi =
+}}
+'''Sērogleklis''' jeb '''oglekļa disulfīds''' (CS<sub>2</sub>) ir bezkrāsains, viegli gaistošs šķidrums. Tā [[molekula]] ir lineāra un [[izoelektroniskums|izoelektroniska]] [[CO2|oglekļa dioksīda]] molekulai.
+
+== Iegūšana ==
+Rūpnieciski sēroglekli iegūst tiešā reakcijā starp [[sērs|sēru]] un [[ogleklis|oglekli]] (sēra tvaikiem reaģējot ar nokaitētu ogli).
+
+== Īpašības ==
+Sērogleklis viegli iztvaiko istabas temperatūrā, un tā tvaiki ir smagāki par gaisu un to maisījums ar gaisu ir sprādzienbīstams.
+
+Sērogleklis viegli oksidējas un gaisā uzliesmo, pat nedaudz karsējot:
+
+:CS<sub>2</sub> +3O<sub>2</sub> → CO<sub>2</sub> + 2SO<sub>2</sub>
+
+Sērogleklis ir ūdenī nešķīstošs, bet 150&nbsp;°C temperatūrā [[hidrolīze|hidrolizējas]] par CO<sub>2</sub> un [[H2S|H<sub>2</sub>S]]:
+
+:CS<sub>2</sub> + 2H<sub>2</sub>O → CO<sub>2</sub> +2H<sub>2</sub>S
+ 
+{{Inde|Sērogleklis ir stipri toksiska viela!}}
+
+== Izmantošana ==
+Sēroglekli lieto par šķīdinātāju (tajā labi šķīst daudzas organiskas vielas, [[fosfors]], sērs, [[Jods (elements)|jods]]). Sēroglekli izmanto arī lauksaimniecībā cīņai pret kaitēkļiem. Lielos daudzumos to lieto [[viskozes zīds|viskozes zīda]] ražošanā.
+
+== Atsauces ==
+{{atsauces}}
+
+{{commonscat|Carbon disulfide|Sērogleklis}}
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Šķīdinātāji]]
+[[Kategorija:Ogleklis]]
+[[Kategorija:Sērs]]

@@ -1,0 +1,63 @@
+{{Nosaukums slīprakstā}}
+{{Kosmiskā aparāta infokaste
+| Nosaukums = ''Mariner 9''
+| Nosaukums_orig = 
+| Attēls = Mariner09.jpg
+| Attēla_izmērs = 300px
+| Att_virsraksts = 
+| KA_veids = starpplanētu zonde
+| Bāzes platforma = 
+| KA sērijas Nr = 
+| Operators              = [[Nacionālā aeronautikas un kosmosa administrācija|NASA]], {{USA}}
+| Lielākie_izgatavotāji  = [[Reaktīvās kustības laboratorija|JPL]], {{USA}}
+| Starts                 = {{dat|1971|5|30|SK}} 22:23:04 [[Universālais koordinētais laiks|UTC]]
+| Nesējs                 = ''[[Atlas (nesējraķešu saime)|Atlas]] [[Centaur (raķešpakāpe)|Centaur]]-SLV-3C''
+| Starta_gads            = 1971
+| Starta_vieta           = [[Kanaveralas zemesraga Gaisa spēku stacija|Kanaverala]]
+| Starta_laukums         = ''LC-36B''
+| Starta_valsts          = {{USA}}
+| Darbības_beigu_gads    = 1972
+| Darbības_beigu_datums  = {{dat|1972|10|27|SK}}
+| Darbības_ilgums = 1 gads, 4 mēneši, 27 dienas
+| Beigu_datums = 
+| Lidojuma_ilgums = 
+| NSSDC_ID = 1971-051A 
+| Tīmekļa_vietne =
+| Masa = 997,9 kg 
+| Enerģija = 500 W
+| Pārlidojums = 
+| Pārlidojuma_datums = 
+| Orbītas_elementi = jā
+| Centr_ķermenis = Marss
+| Centr_ķermenis_parādīt = [[Marss (planēta)|Marss]]
+| Lielā_pusass = 
+| Ekscentricitāte =
+| Inklinācija =64,4
+| Periods = 719 minūtes
+| Apoapsīda = 16  860
+| Periapsīda = 1 650
+| Apriņķojumi = 
+| Orbītā_ieiešanas_dat = {{dat|1971|11|14|SK}} 00:42:00 [[Universālais koordinētais laiks|UTC]]
+| Programma              = ''[[Mariner programma|Mariner]]''
+| KA_iepr = ''[[Mariner 8]]'' 
+| KA_nāk = ''[[Mariner 10]]''
+}}
+'''''Mariner 9''''' bija paredzēts, kā ''[[Mariner 8]]'' pārinieks, taču ''[[Mariner 8]]'' starts neizdevās. 
+''Mariner 9'' startēja 1971. gada 30. maijā un 13 minūtes pēc starta aparāts jau bija atdalījies no trešās raķešpakāpes un ievadīts orbītā uz Marsu. Pēc 167 dienām, 1971. gada 14. novembrī, ''Mariner 9'' iegāja orbītā ap Marsu, tā kļūstot par pirmo aparātu pasaules vēsturē, kas veiksmīgi iegājis orbītā ap kādu citu planētu.
+
+== Mērķis ==
+''Mariner 9'' tika izstrādās ar mērķi turpināt Marsa atmsofēras pētījumus, kurus iesāka ''Mariner 6'' un ''Mariner 7'', kā arī kartēt vismaz 70% no planētas virsmas, kā arī pētīt abus Marsa pavadoņus. Uz aparāta tika uzstādīts arī infrasarkano staru radiometrs ar mērķi novērot iespējamo planētas [[vulkānisms|vulkānismu]].
+
+== Lidojuma gaita ==
+''Mariner 9'' apriņķoja Marsu reizi 12 stundās un regulāri nodibināja sakarus ar Goldstounas tālo sakaru antenu. Marsa virsmas fotografēšanu iztraucēja Marsa [[putekļu vētra]], kas bija sākusies jau 1971. gada 22. septembrī – putekļu vētra izvērtās tik liela, ka vēsturē iegāja kā milzīgākā cilvēku novērotā Marsa putekļu vētra. Vētra bija tik liela, ka ''Mariner 9'' nespēja izšķirt virsmas detaļas, izņemot augstāko kalnu – Olimpa un ''Tharsis'' vulkānu virsotnes.
+Vētra beidzās decembra sākumā un aparāts varēja sākt Marsa virsmas kartografēšanu. ''Mariner 9'' ievāca datus par Marsa virsmas uzbūvi un sastāvu, kā arī pētīja dinamisko Marsa atmosfēru. Pirmo reizi tika nofotografēti Marsa pavadoņi [[Foboss (pavadonis)|Foboss]] un [[Deimoss (pavadonis)|Deimoss]], polārās cepures un Marinera ieleja. "Mariner 9"  ieguva 7329 attēlus, kuri aptvēra 85 % Marsa virsmas.
+
+Aparāts darbojās līdz 1972. gada 27. oktobrim, kad beidzās aparāta orientācijai nepieciešamie slāpekļa gāzes krājumi. ''Mariner 9'' visdrīzāk vēl aizvien riņķo ap planētu, bet 2022. gadā tam būtu jāsadeg Marsa atmosfēras augstākajos slāņos.
+
+{{Kosmonautika-aizmetnis}}
+
+{{1971. gada orbitālie starti}}
+
+[[Kategorija:Starpplanētu zondes]]
+[[Kategorija:Marsa izpēte]]
+[[Kategorija:Mariner|9]]

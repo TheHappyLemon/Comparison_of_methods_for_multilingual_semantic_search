@@ -1,0 +1,80 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums              = 2MV-4 №3
+| Nosaukums_orig         = ''2МВ-4 №3''
+| Attēls                 = 
+| Attēla_izmērs          = 
+| Att_virsraksts         = 
+| Programma              = [[Mars programma]]
+| KA_veids               = [[Marss (planēta)|Marsa]] pārlidojums
+| Bāzes platforma        = [[2MV-4]]
+| KA sērijas Nr          = 3
+| Īpašnieks              = 
+| Operators              = {{URS}}
+| Lielākie_izgatavotāji  = [[OKB-1]], {{URS}}
+| Starta_gads            = 1962
+| Starts                 = {{dat|1962|10|24|SK}} 17:55:04 [[UTC]]
+| Nesējs                 = [[Molnija (nesējraķete)|Molnija]], {{URS}}
+| Starta_vieta           = [[Baikonuras kosmodroms]]
+| Starta_laukums         = Nr.1
+| Starta_valsts          = {{URS}}
+| Darbības_beigu_gads    = 1962
+| Darbības_beigu_datums  = {{dat|1962|10|24|SK}} 
+| Darbības_ilgums        = 
+| Beigu_gads             = 1962
+| Beigu_datums           = {{dat|1962|10|29|SK}} — {{dat|1963|2|26|SK}}
+| Lidojuma_ilgums        = fragmenti orbītā ~4 mēneši
+| NSSDC_ID               = 1962-057A
+| Tīmekļa_vietne         = 
+| Masa                   = 893,5 kg
+| Sausmasa               = 
+| Pilna_masa             = 
+| Zinātnisko_instr_masa  = 
+| Enerģija               = 
+| Raidītāji              = 
+| Pārlidojums            = 
+| Pārlidojuma_datums     = 
+| Orbītas_elementi       = jā
+| Centr_ķermenis         = Zeme
+| Centr_ķermenis_parādīt = [[Zeme]]
+| Orbītas_veids          = 
+| GEO_punkts             = 
+| Lielā_pusass           = 
+| Ekscentricitāte        = 0,0227
+| Inklinācija            = 64,9°
+| Periods                = 91,9 min
+| Apoapsīda              = 485 km
+| Periapsīda             = 180 km
+| Apriņķojumi            = 
+| Orbītā_ieiešanas_dat   = 
+| KA_iepr                = [[1M Nr.2]]
+| KA_nāk                 = [[Mars-1]]
+}}
+'''2MV-4 №3'''<ref name="NK 1996-20" /><ref name="chertok 001730d4" /> bija [[Padomju Savienība|PSRS]] [[starpplanētu zonde]], kura kļūmīgi tika palaista un eksplodēja 1962. gada 24. oktobrī. Tā bija plānota [[Marss (planēta)|Marsa]] pārlidošanai.
+
+''2MV-4 №3'' bija viena no diviem Marsa pārlidojuma zondēm unificēto Marsa un Veneras kosmisko aparātu sērijā [[2MV]].
+Zondes masa bija 89,5 kilogrami.
+
+{{dat|1962|10|24||bez}} 17:55:04 [[UTC]] startēja nesējraķete [[Molnija (nesējraķete)|Molnija]] (''8K78'', sērijas numurs ''T103-15'') ar ''2MV-4 №3''. Pēdējā pakāpe ''Blok L'' ar tam pievienoto Mēness zondi ar kopējo masu 6500 kg iegāja Zemes orbītā. Pēc tam raķešblokam vajadzēja ievadīt zondi trajektorijā uz Marsu. Marsu bija plānots sasniegt {{dat|1963|6|17||bez}}. Palaižot ''Blok L'' dzinēju, tā degvielas sūknī iesprūda sakarsusī atspere, kurai sākumā bija jāstrādā tukšgaitā vakuuma apstākļos. 17 sekundes pēc pēdējās pakāpes dzinēja iedarbināšanas notika dzinēja turbosūkņa sprādziens. Zondes un raķešbloka 24 fragmenti palika orbītā.<ref name="NK 1996-20" />
+
+{{dat|1962|10|29||bez}} vairums atlūzu nogāja no orbītas un sadega atmosfērā.<ref name="NK 1996-20" /> Pēdējie fragmenti tika novēroti {{dat|1963|2|26||bez}}.
+
+Šī avārija notika [[Kubas krīze]]s laikā, un ASV pretraķešu brīdinājuma sistēma uztvēra zondes gabalus kā bīstamus objektus (iespējamās ballistiskās raķetes no PSRS), tādēļ ASV bruņotajos spēkos tika izziņota trauksme, taču diezgan ātri noskaidrojās patiesie trauksmes iemesli.
+
+Sākotnēji šo kosmisko aparātu ASV, nezinot tā īsto nosaukumu, nosauca par ''Sputnik 29'', vēlāk — ''Sputnik 22''. PSRS publiski tam nedeva nekādu nosaukumu, jo tas nebija veiksmīgi sasniedzis orbītu.
+
+Pēc astoņām dienām, 1. novembrī Marsa virzienā veiksmīgi tika palaists ''2MV-4 №4'', kuram tika dots nosaukums [[Mars-1]].
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="NK 1996-20">[http://www.novosti-kosmonavtiki.ru/content/numbers/135/16.shtml Россия. На Mapc!] К.Лантратов, Новости космонавтики, 1996-20 {{ru ikona}}</ref>
+<ref name="chertok 001730d4">[http://famhist.ru/famhist/chertok/001730d4.htm Первый (неудачный) пуск к Марсу 2МВ-4-3] Черток Б.Е., Ракеты и люди {{ru ikona}}</ref>
+}}
+
+== Ārējās saites ==
+* [http://space.skyrocket.de/doc_sdat/mars-2mv-4.htm Mars 1 (2MV-4 #1, 2)] Gunter Dirk Krebs {{en ikona}}
+
+
+{{1962. gada orbitālie starti}}
+
+
+[[Kategorija:Mars programma]]

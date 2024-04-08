@@ -1,0 +1,17 @@
+{{Navbox
+| name       = Puslodes
+| title      = [[Zeme]]s puslodes
+| bodyclass  = hlist
+| state      = {{{state|}}}
+
+| list1      = 
+* [[Ziemeļu puslode]]
+* [[Dienvidu puslode]]
+* [[Rietumu puslode]]
+* [[Austrumu puslode]]
+* [[Sauszemes puslode]]
+* [[Ūdens puslode]]
+}}<noinclude>
+[[Kategorija:Zemes puslodes]]
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

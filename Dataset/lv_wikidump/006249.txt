@@ -1,0 +1,33 @@
+{{Raķete
+| nosaukums = ''Sojuz-U''
+| oriģ. nosaukums = ''Союз-У''
+| izgat. nosaukums = ''11A511U''
+| attēls = 
+| pielietojums = [[nesējraķete|Kosmiskā nesējraķete]]
+| raķešu saime = ''[[R-7]]''
+| raķešu grupa = ''[[Sojuz (nesējraķete)|Sojuz]]''
+| valsts = {{RUS}}
+| izgatavotājs = ''[[RKK Energija]]''
+| augstums = 50,67 m
+| diametrs = 2,95 m
+| masa = 310 000 kg
+| pakāpes = 2
+| LEO masa = 7200 kg
+| statuss = ekspluatācija izbeigta
+| starta vietas = [[Pļeseckas kosmodroms|Pļesecka]], [[Baikonuras kosmodroms|Baikonura]]
+| startu skaits = 786
+| veiksmīgie = 765
+| avārijas = 22
+| daļēji =
+| pirmais = {{dat|1973|5|18|SK|bez}}
+| pirmais pavadonis = 
+| pēdējais = {{dat|2017|2|22|SK|bez}}
+}}
+
+'''''Sojuz-U''''' bija [[Padomju Savienība|PSRS]], vēlāk [[Krievija]]s [[nesējraķete]]s ''[[Sojuz (nesējraķetes)|Sojuz]]'' modifikācija. Pirmais starts veikts 1973. gadā. Pēdējais lidojums notika 2017. gadā.
+
+''Sojuz-U'', kas nomainīja nesējraķetes ''[[Voshod (nesējraķete)|Voshod]]'', kļuva par bāzes nesējraķeti dažādu funkciju kosmisko aparātu palaišanai (Zemes zondēšanas pavadoņi, kosmiskie kuģi ''[[Sojuz (kosmosa kuģis)|Sojuz]]'' un ''[[Progress (kosmosa kuģis)|Progress]]''). ''Sojuz-U'' nesējraķešu pirmās un otrās pakāpes dzinējiem tika paaugstināta jauda, salīdzinot ar iepriekšējiem modeļiem.
+
+Pirmais starts notika 1973. gada 18. maijā. Līdz 2017. gada 22. februārim, kad palaists pēdējais raķetes eksemplārs, veikti 786 starti, no tiem 765 veiksmīgi un 22 avārijas.
+
+[[Kategorija:Sojuz nesējraķetes]]

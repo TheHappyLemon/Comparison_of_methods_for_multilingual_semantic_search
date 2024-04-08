@@ -1,0 +1,128 @@
+[[Attēls:Fotos produzidas pelo Senado (30554309793).jpg|thumb|''[[Samsung Electronics|Samsung]]'' (pa kreisi) un ''[[Apple]]'' (pa labi) ražoto viedtālruņu attēlojums.]]
+'''Viedtālrunis'''<ref>{{Tīmekļa atsauce |url=http://termini.lza.lv/term.php?term=smartphone |title=Akadēmiskā terminu datubāze AkadTerm — smartphone |access-date={{dat|2011|10|06||bez}} |archiveurl=https://web.archive.org/web/20140423112316/http://termini.lza.lv/term.php?term=smartphone |archivedate={{dat|2014|04|23||bez}} }}</ref> ({{val|en|smartphone}}) ir pilnvērtīgs [[mobilais telefons]], kas papildināts ar [[dators|datoram]] līdzīgu funkcionalitāti. Vairums viedtālruņu ietver [[fotoaparāts|kameru]], pilna apjoma [[e-pasts|e-pasta]] funkcionalitāti, kā arī plānotāju. Galvenā viedtālruņa īpašība ir iespēja papildināt tā funkcionalitāti, uzstādot trešās puses lietojumprogrammas. Viedtālruņiem mēdz būt [[QWERTY]] tastatūra un/vai [[skārienekrāns|skārienjutīgs ekrāns]].
+
+== Viedtālruņu operētājsistēmas ==
+* [[Android]]
+* [[Bada]]
+* [[GEOS (16 bitu operētājsistēma)|GEOS]]
+* [[iPhone OS|iOS]]
+* [[Palm OS]]
+* [[RIM Blackberry OS]]
+* [[Symbian OS]]
+* [[Windows Phone]]
+
+== Populāru modeļu salīdzinājums ==
+{{novec}}
+<ref name="www.realgeek.com">Best Selling Smartphones</ref>
+{| class="wikitable"
+! Modelis
+! Iebūvēta kamera
+! [[Operacionālā sistēma|OS]]
+! E-pasts
+! Klaviatūra
+! Atvērts izstrādātājiem
+! [[Akselerometrs]]
+! Masa
+|-
+| [[Nokia 5500]]
+| jā, 2 MP
+| [[Symbian]]
+| jā
+| iepriekšnosakoša
+| jā
+| jā
+| 102 g
+|-
+| [[Nokia E62]]
+| nē
+| [[Symbian]]
+| jā
+| pilna QWERTY
+| jā
+| nē
+| 145 g
+|- 
+| [[Samsung Electronics|Samsung]] Blackjack (SGH-i320)
+| jā, 1,3 MP
+| [[Windows Mobile]]
+| jā
+| pilna QWERTY
+| jā
+| nē
+| 100 g
+|-
+| [[Treo 700p]]
+| jā, 1,3 MP
+| Palm OS 5
+| jā
+| pilna QWERTY
+| jā
+| nē
+| 181 g
+|-
+| [[BlackBerry]] Pearl
+| jā, 1,3 MP
+| Blackberry OS
+| jā
+| iepriekšnosakoša
+| jā
+| nē
+| 90 g
+|-
+| [[BlackBerry]] 8700c
+| nē
+| Blackberry OS
+| jā
+| pilna QWERTY
+| jā
+| nē
+| 133 g
+|-
+| [[Sony Ericsson P910]]
+| jā, 0,3 MP
+| [[Symbian]]
+| jā
+| jā
+| jā
+| nē
+| 156 g
+|-
+| [[HTC S730]]
+| jā, 2,0 MP
+| [[Windows Mobile 6 Standard]]
+| jā
+| pilna QWERTY
+| jā
+| nē
+| 150 g
+|-
+| [[iPhone4s]]
+| jā, 8.0 MP
+| [[iPhone OS]]
+| jā
+| touchscreen QWERTY
+| jā
+| jā
+| 133 g
+|}
+
+== Izmantošana ==
+* [[Radio aukle]]
+
+== Atsauces ==
+* {{Tīmekļa atsauce
+ |publisher=www.realgeek.com
+ |date=[[2007-01-03]]
+ |url=http://www.realgeek.com/1214/best-selling-smartphones-in-usa/
+ |title="Best Selling Smartphones"
+ |accessdate=2007-01-22
+ }}{{Novecojusi saite}}
+
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mobilie sakari]]
+[[Kategorija:Mobilie telefoni]]

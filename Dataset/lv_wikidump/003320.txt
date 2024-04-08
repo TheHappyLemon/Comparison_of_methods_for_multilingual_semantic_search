@@ -1,0 +1,102 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Oslo
+ | native_name              = ''Oslo''
+ | settlement_type          = galvaspilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Oslo city in 10 images.jpg
+ | imagesize                = 
+ | image_caption            =
+ | image_shield             = Oslo komm.svg
+ | pushpin_map              = Norway
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 59 | latm  = 56 | lats  = 58 | latNS  = N
+ | longd = 10 | longm = 45 | longs = 23 | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Norvēģija}}'''
+ | subdivision_type1        = Filke
+ | subdivision_name1        = Oslo
+ | established_title        = Dibināta
+ | established_date         = [[1048]]. gadā
+ | seat_type                = Citi<br />nosaukumi
+ | seat                     = Kristiānija (Christiania, Kristiania) (1624-1924)
+ | leader_title             = Mērs
+ | leader_name              = Fabians Stengs
+ | area_total_km2           = 454,03
+ | population_total         = 623966
+ | population_as_of         = 2013
+ | population_rank          = 1.
+ | population_density_km2   = 1314,7
+ | population_urban         = 912046
+ | population_metro         = 1442318
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | website                  = [http://www.oslo.kommune.no/ oslo.kommune.no]
+ | footnotes                = 
+}}
+'''Oslo''' ({{val|no|Oslo}}) ir pilsēta [[Norvēģija]]s dienvidaustrumos, osta pie [[Ziemeļjūra]]s [[Oslofjords|Oslofjorda]]. Norvēģijas galvaspilsēta un lielākā pilsēta. Oslo 2013. gada 1. janvārī dzīvoja 623 966 iedzīvotāji. Lielāko pilsētas teritoriju jeb 2/3 no teritorijas veido meži un ūdeņi.
+
+Oslo ir Norvēģijas ekonomiskais, tirdzniecības, banku, rūpniecības un kuģniecības centrs. Pilsēta ir nozīmīgs jūrniecības un jūras tirdzniecības centrs Eiropā. Oslo atrodas daudzi lielie jūrniecības uzņēmumi, no kuriem daži ir vieni no lielākajiem kuģniecības, kuģu aģentu un jūras apdrošināšanas brokeru uzņēmumiem pasaulē.
+ 
+Iedzīvotāju skaits ar katru gadu pieaug arvien straujāk, padarot to par visātrāko iedzīvotāju skaitu pieaugumu Eiropā.<ref>{{Tīmekļa atsauce |url=http://www.osloby.no/nyheter/Oslo-europamester-i-vekst-5114181.html#.UVGmgxz-H0c |title=Arhivēta kopija |access-date={{dat|2013|03|26||bez}} |archiveurl=https://web.archive.org/web/20130331061426/http://www.osloby.no/nyheter/Oslo-europamester-i-vekst-5114181.html#.UVGmgxz-H0c |archivedate={{dat|2013|03|31||bez}} }}</ref> Tas galvenokārt ir saistīts ar augsto dzimstību un lielo imigrantu pieplūdumu, kā arī vietējo iedzīvotāju migrāciju. 2012. gada 1. janvārī 23% no pilsētas iedzīvotājiem bija imigranti.<ref>{{Tīmekļa atsauce |url=http://www.ssb.no/innvandring/ |title=Arhivēta kopija |access-date={{dat|2013|03|26||bez}} |archive-date={{dat|2013|02|18||bez}} |archive-url=https://web.archive.org/web/20130218220901/http://www.ssb.no/innvandring/ }}</ref>
+
+Jau daudzus gadus Oslo ir iekļauta pasaules dārgāko pilsētu sarakstā līdzās tādām pilsētām kā [[Sidneja]], [[Tokija]], [[Cīrihe]] un citām. 2009. gadā Oslo tika atzīta par pasaulē dārgāko pilsētu. 2011. gadā pilsēta ieņēma otro vietu pēc Tokijas, bet 2012. gadā pilsēta tika ierindota ceturtajā vietā kā pasaules dārgākā pilsēta.<ref>{{tīmekļa atsauce|url=https://money.cnn.com/gallery/pf/2013/02/06/most-expensive-cities/|title=The world's most expensive cities|first=Melanie|last=Hicken|date=2013. gada 6. febr.|website=CNNMoney}}</ref>
+
+Oslo tiek dēvēta par elektromobiļu galvaspilsētu. 2019. gadā pilsēta saņēma balvu kā Eiropas zaļākā galvaspilsēta. Norvēģijas galvaspilsēta saņēma augstāko novērtējumu astoņās no 12 kategorijām.<ref>{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/zinas/arzemes/naftas-lielvalsts-norvegija-merktiecigi-gatavojas-parejai-uz-zalaku-ekonomiku.a434128/|title=Naftas lielvalsts Norvēģija mērķtiecīgi gatavojas pārejai uz zaļāku ekonomiku|website=www.lsm.lv|access-date=2022-07-02|language=lv}}</ref>
+
+== Vēsture ==
+[[Sāga]]s vēsta, ka Oslo dibināta 1048. gadā un to dibinājis Norvēģijas karalis [[Haralds III]]. Oslo tiek uzskatīta par galvaspilsētu  kopš [[Hākons V|Hākona V]] valdīšanas laikiem (1299—1319), kad viņš tur patstāvīgi dzīvoja. Viņš arī sāka būvēt Akešhūsa cietoksni.
+
+Oslo vairākas reizes ir tikusi smagi iznīcināta ar uguni. Pēc uguns nelaimes 1624. gadā Norvēģijas un [[Dānija]]s karalis [[Kristiāns IV]] atjaunoja pilsētu citā vietā, nosaucot to par '''Kristiāniju''' (''Christiania''). Kristiānija saglabāja Norvēģijas centrālās pilsētas raksturu, kaut arī pati Norvēģija bija [[personālūnija|personālūnijā]] ar Dāniju (1483-1814) un [[Zviedrija|Zviedriju]] (1814-1905). 1850. gadā pilsēta bija visvairāk apdzīvotā pilsēta Norvēģijā pārspējot Bergeni.
+
+1905. gadā Oslo kļuva par neatkarīgās Norvēģijas galvaspilsētu. 1925. gadā pilsēta ieguva savu tagadējo nosaukumu Oslo. Rātsnams tika izveidots bijušajā graustu rajonā, to cēla no 1931-1950. gadam.
+
+[[Otrais pasaules karš|Otrā pasaules kara]] laikā 1940. gada 8. aprīlī Oslo okupēja [[Vācija]]s karaspēks. Oslo darbojās [[kolaboracionisms|kolaborantu]] valdība [[Vidkuns Kvislings|Kvislinga]] vadībā. Oslo tika atbrīvota tikai pēc Vācijas kapitulācijas karā.
+
+[[2011. gada terorista uzbrukums Norvēģijā|2011. gada 22. jūlijā]] Norvēģijā notika divi terorakti, kas bija vērsti pret valdību un civiliedzīvotājiem. Viens no tiem notika Oslo, kuras laikā notika bumbas sprādziens valdības ēku kvartālā. Oslo bojā gāja astoņi cilvēki un vairāki desmiti cilvēku tika ievainoti.
+
+== Ievērojamākās vietas ==
+* Akešhūsa cietoksnis (''Akershus festning'')
+* Karaļa pils (''Det Kongelige Slottet'')
+* Norvēģu Tautas muzejs (''Norsk Folkemuseum'') - liels etnogrāfiskais brīvdabas muzejs 
+* Pilsētas rātsnams, kur notiek gadskārtējās [[Nobela miera prēmija]]s ceremonijas
+* [[Edvards Munks|Munka]] muzejs (''Munchmuseet'')
+* [[Gustavs Vīgelanns|Vīgelanna]] parks (''Vigelandsanlegget'') - skulptūru parks
+* [[Vikingi|Vikingu]] kuģu muzejs (''Vikingskipshuset'')
+
+== Cilvēki ==
+Oslo ir dzimuši šādi ievērojami cilvēki:
+
+* [[Hjetils Omots]] (''Kjetil Aamodt'') (1971-) - kalnu slēpotājs
+* [[Ragnars Frišs]] (''Ragnar Frisch'') (1895-1973) - ekonomists ([[ekonometrija]])
+* [[Juhans Galtungs]] (''Johan Galtung'') (1930-2024) - politologs, Oslo Miera pētīšanas institūta dibinātājs
+* [[Justeins Gorders]] (''Jostein Gaarder'') (1952-) - rakstnieks (Sofijas pasaule/''Sofies verden'', 1995)
+* [[Sonja Henī]] (''Sonja Henie'') (1912-1969) - daiļslidotāja
+* [[Lāšs Sobijs-Kristensens]] (''Lars Saabye Christensen'') (1953-) - rakstnieks (Pusbrālis/''Halvbroren'', 2001)
+* [[Jenss Stoltenbergs]] (''Jens Stoltenberg'') (1959-) - politiķis, Norvēģijas premjers (2000-2001, 2005-2013)
+* [[Juhans Svensens]] (''Johan Svendsen'') (1840-1911) - komponists
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Norvēģija-aizmetnis}}
+{{Eiropas galvaspilsētas}}
+{{ZOS norises vietas}}
+{{Norvēģijas filkes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Olimpisko spēļu mājvietas]]
+[[Kategorija:Norvēģijas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]
+[[Kategorija:Norvēģijas filkes]]
+[[Kategorija:Norvēģijas komūnas]]

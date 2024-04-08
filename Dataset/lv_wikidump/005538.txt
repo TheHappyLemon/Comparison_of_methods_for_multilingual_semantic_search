@@ -1,0 +1,4 @@
+<includeonly><div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:{{{border|1px solid {{{outline|black}}}}}}; background-color:{{trim|{{{1|transparent}}}}}; color:{{{textcolor|black}}}; font-size:{{{size|100%}}}; text-align:center;">{{#if:{{{text|}}}|<span class="legend-text" style="font-size:95%;">{{{text}}}</span>|&nbsp;}}</span>&nbsp;{{{2|}}}</div></includeonly><noinclude>
+{{Dokumentācija}}
+[[Kategorija:Vikipēdijas veidnes]]
+</noinclude>

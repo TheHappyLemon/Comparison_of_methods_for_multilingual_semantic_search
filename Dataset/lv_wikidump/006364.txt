@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jaunsātu pagasts
+| karte             = Jaunsātu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Tukuma novads
+| centrs            = Abavnieki
+| platība           = 95,1
+| iedzīvotāji       = 982<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 982 / 95.1 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Jaunsātu pagasts''' ir viena no [[Tukuma novads|Tukuma novada]] administratīvajām teritorijām. Pagasts izvietojies 17 km attāluma no novada centra [[Tukums|Tukuma]]. Robežojas ar sava novada [[Pūres pagasts|Pūres]], [[Irlavas pagasts|Irlavas]], [[Tumes pagasts|Tumes]], [[Zemītes pagasts|Zemītes]] un [[Kandavas pagasts|Kandavas]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Abava]]
+
+== Vēsture ==
+Mūsdienu Jaunsātu pagasta teritorijā vēsturiski atradās Abavas muiža (''Gut Krons Abaushof''), Jaunsātu muiža (''Gut Neu-Sahten'', [[Jaunsāti (Jaunsātu pagasts)|Jaunsāti]]), Kukšu muiža (''Gut Kukschen'', [[Kukšas]]), Vecsātu muiža (''Gut Alt-Sahten'', [[Vecsāti]]).
+
+1945. gadā [[Grenču pagasts|Grenču pagastā]] izveidoja '''Abavas ciema padomi'''. 1960. gadā Abavas ciemam pievienota [[Tumes ciems|Tumes ciema]] kolhoza «Pumpurs» teritorija, 1965. gadā pievienota [[Zemītes ciems|Zemītes ciema]] kolhoza «Zaļā zeme» teritorija, bet kolhoza «Druva» teritorija pievienota [[Irlavas ciems|Irlavas ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1968. gadā Abavas ciemu pārdēvēja par Jaunsātu ciemu. Līdz 1975. gadam ciema centrs bija [[Vecsāti]]. 1975. gadā Jaunsātu ciemam pievienoja daļu [[Aizdzires ciems|Aizdzires ciema]] teritorijas. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Jaunsātu pagastu iekļāva [[Tukuma novads|Tukuma novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1430
+|1959|1455
+|1967|1380
+|1979|1332
+|1989|1281
+|2000|1214
+|2011|1019
+|2021|825
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Abavnieki]] (pagasta centrs), [[Ķīši (Jaunsātu pagasts)|Ķīši]], [[Kukšas]], [[Sautiņi]], [[Zvejnieki (Jaunsātu pagasts)|Zvejnieki]], [[Pičas]], [[Vecsāti]], [[Bruži]], [[Aizas]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Sociālā aprūpe ==
+Jaunsātu pagastā atrodas Valsts sociālās aprūpes centra "Zemgale" filiāle „Ķīši", kurš tika dibināts drīz pēc Otrā pasaules kara. Pašreizējā trīs stāvu ēkā centrs darbojas kopš 1975. gada. Pašreiz aprūpes centrā ir ievietots 151 iemītnieks ar dažādiem (viegliem, vidējiem un smagiem) garīga rakstura traucējumiem, vecumā no 18 līdz 85 gadiem.<ref>{{Tīmekļa atsauce|url=https://www.vsaczemgale.gov.lv/lv/centra-filiales/kisi|title=Ķīši|website=www.vsaczemgale.gov.lv|access-date=2020-08-31|archive-date=2020-08-15|archive-url=https://web.archive.org/web/20200815134045/https://www.vsaczemgale.gov.lv/lv/centra-filiales/kisi}}</ref> Centra teritorijā ietilpst 17,8 ha zemes, no kuras 3,4 ha sastāda mežs. Centra ēka nodota ekspluatācijā 1974. gadā.<ref>{{Tīmekļa atsauce|url=https://www.pietiek.com/raksti/pietiek_izlikties_un_izlaupit_valsti,_iztuksot_socialo_budzetu|title=Pietiek izlikties un izlaupīt valsti, iztukšot sociālo budžetu|last=P.|first=Grieta|website=www.pietiek.com|access-date=2020-08-31|date=2011-04-15}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Tukuma novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Tukuma rajons}}
+}}
+
+{{DEFAULTSORT:Jaunsatu pagasts}}
+[[Kategorija:Kurzeme]]
+[[Kategorija:Tukuma novada pagasti]]
+[[Kategorija:Jaunsātu pagasts| ]]

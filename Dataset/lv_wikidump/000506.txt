@@ -1,0 +1,85 @@
+{{Upes infokaste 
+| nosaukums         = Visla
+| citvaloda         = pl
+| oriģinālnosaukums = Wisła
+| attēls            = Modlin spichlerz.jpg
+| attēla_izmērs     = 
+| paraksts          = 
+| karte             = PL_Visla.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Beskīdi]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Baltijas jūra]]
+| baseina_valstis   = {{POL}}<br />{{BLR}}<br />{{UKR}}<br />{{SVK}}
+| tek_caur          = {{POL}}
+| garums            = 1047 
+| iztekas_augstums  = 1106
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 1080
+| gada_notece       = 
+| baseins           = 194 424
+| baseins_latvijā   = 
+| pietekas          = [[Nareva]], [[Sana (upe)|Sana]]
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d= | iet_plat_m= | iet_plat_s= | iet_plat_NS=N 
+| iet_gar_d= | iet_gar_m= | iet_gar_s= | iet_gar_EW=E
+}}
+
+'''Visla''' ({{val-pl|Wisła}}, {{val-de|Weichsel}}, {{val-la|Vistula}}) ir upe [[Eiropa|Eiropā]], [[Polija]]s lielākā upe. Sākas [[Beskīdi|Beskīdos]] 1106 m vjl kā divas upītes - Bjala Viselka (''Biała Wisełka'', Baltā Visliņa) un Čarna Viselka (''Czarna Wisełka'', Melnā Visliņa).
+
+Vislas tecējumu var iedalīt trīs posmos - augštece (līdz [[Sana (upe)|Sanas]] ietekai), vidustece - (no Sanas līdz [[Buga]]i) un lejtece (no Bugas līdz ietekai jūrā). Augštece [[Beskidos]] - krāčaina, bet jau pie [[Osvencima]]s kļūst kuģojama. Vidustecē upes platums ir 600-1000m. Lejtecē tipiska līdzenumu upe ar lēzenu senleju. Augšpus ietekas jūrā veido vairākus atzarus (lielākās Lenivka, Nogata), veido deltu t.s. Vislas Žulavus.
+
+Vislu pirmoreiz rakstos pieminēja [[Tacits]] 98.gadā ''(Vistula)''. Jau no seniem laikiem Visla bijusi svarīgs dienvidu - ziemeļu tirdzniecības ceļš. Ir viedoklis, ka jau pirms Kristus dzimšanas pa Vislu gājis senais [[Dzintara ceļš]]. Arī abas vēsturiskās [[Polija]]s galvaspilsētas - [[Varšava]] un [[Krakova]] atrodas pie Vislas. Tāpat viena no vēsturiski svarīgākajām [[Baltijas jūra]]s ostām - [[Gdaņska]] (Danciga) kļuva bagāta, tirgojoties ar precēm, kuras tika vestas pa Vislas ūdensceļu.
+
+== Lielākās pietekas ==
+
+* [[Dunajeca]] (Dunajec) - 247 km - labais krasts
+* [[Sana (upe)|Sana]] (San) - 443 km - labais krasts
+* [[Vepša]] (Wieprz) - 303 km - labais krasts
+* [[Pilica]] (Pilica) - 319 km - kreisais krasts
+* [[Nareva]] (Narew) - 448 km - labais krasts
+* [[Drvenca]] (Drwęca) - 207 km - labais krasts
+* [[Brda]] (Brda) - 238 km - kreisais krasts
+
+== Lielākās pilsētas Vislas krastos ==
+
+* [[Krakova]] (''Kraków'')
+* [[Tarnobžega]] (''Tarnobrzeg'')
+* [[Varšava]] (''Warszawa'')
+* [[Plocka]] (''Płock'')
+* [[Vloclaveka]] (''Włocławek'')
+* [[Toruņa]] (''Toruń'')
+* [[Bidgošča]] (''Bydgoszcz'')
+* [[Grudzjondza]] (''Grudziądz'')
+* [[Tčeva]] (''Tczew'')
+* [[Gdaņska]] (''Gdańsk'')
+
+== Kanāli ==
+
+* Bidgoščas kanāls savieno Vislu ar [[Odera]]s baseinu,
+* Dņepras - Bugas kanāls savieno Vislu ar [[Dņepra]]s baseinu
+* Augustovas kanāls savieno Vislu ar [[Nemuna]]s baseinu
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Baltijas jūras baseina upes]]
+[[Kategorija:Kujāvijas-Pomožes vojevodiste]]
+[[Kategorija:Visla| ]]
+[[Kategorija:Mazpolijas vojevodiste]]
+[[Kategorija:Ļubļinas vojevodiste]]
+[[Kategorija:Mazovijas vojevodiste]]
+[[Kategorija:Piekarpatu vojevodiste]]
+[[Kategorija:Pomožes vojevodiste]]
+[[Kategorija:Silēzijas vojevodiste]]
+[[Kategorija:Sventokšiskas vojevodiste]]

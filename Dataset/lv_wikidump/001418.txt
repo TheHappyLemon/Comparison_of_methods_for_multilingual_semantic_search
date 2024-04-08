@@ -1,0 +1,8 @@
+[[Attēls:Triangle.Right.svg|right]]
+'''Katetes''' ir [[taisnleņķa trijstūris|taisnleņķa trijstūra]] malas, kas savā starpā veido taisnu [[leņķis|leņķi]]. Taisnajam leņķim pretim atrodošos [[trijstūris|trijstūra]] malu sauc par [[hipotenūza|hipotenūzu]].
+
+Jebkura taisnleņķa trijstūra katra katete ir īsāka par hipotenūzu, bet abu katešu kopējais garums ir lielāks par hipotenūzas garumu.
+
+{{Matemātika-aizmetnis}}
+
+[[Kategorija:Ģeometrija]]

@@ -1,0 +1,318 @@
+{{Citas nozīmes|starptautisko mērvienību sistēmu|SI|SI}}
+[[Attēls:Metrication by year map.svg|thumb|350px|right|Pasaules valstu pakāpeniskā pāreja uz metrisko mēru sistēmu <br />
+{{Col-begin}}
+{{legend|#b9b9b9|neprecizēts}}
+{{legend|#000000|nav ieviesta}}
+{{Col-end}}
+]]
+'''SI''' jeb '''Starptautiskā mērvienību sistēma''' ({{val|fr|Système International d'Unités}}) ir izplatītākā mērvienību sistēma pasaulē. Tā tika izveidota no [[metriskā sistēma|MKS sistēmas (metrs-kilograms-sekunde)]], nevis no vecākās [[CGS sistēma|CGS (centimetrs-grams-sekunde) sistēmas]]. SI sistēmas mērvienību definīcijas dažkārt tiek precizētas. SI sistēmu mēdz saukt arī par [[metriskā sistēma|metrisko sistēmu]], lai gan tas tā nav (vēsturiski ir bijušas metriskās sistēmas, kas balstītas uz citām pamatmērvienībām).
+
+== Vēsture ==
+Starptautiskās vienību sistēmas aizsākums saistās ar [[Franču revolūcija|Lielās franču revolūcijas]] laiku 18. gadsimta beigās, kad pēc monarhijas krišanas karaļa varu nomainīja Nacionālā sapulce. Drīz pēc tam jaunās varas izveidotā [[Franču akadēmija]] nolēma daudzo un katrā provincē dažādo garuma, svara un tilpuma mēru vietā ieviest tagad tik pierastos decimālos mērus, sākot ar attāluma jeb garuma mēru metru.
+
+Laikam ritot, franču zinātnieku ieviestajai mēru sistēmai viena pēc otras pievienojās citas valstis. Tika noslēgtas starptautiskās vienošanās, un 1875. gadā izveidoja Svaru un Mēru palātu. Tās rīkotie kongresi joprojām ir noteicošais likumdevējs [[metroloģija|metroloģijā]] — zinātnē, kuras viens no uzdevumiem ir noteikt, kā mērīt fizikālos lielumus. Šī palāta rekomendē fizikālo lielumu vienības, to etalonu izgatavošanu un lietošanu.
+
+=== Latvijā ===
+Latvijā metrisko mēru un svaru sistēma kā mērvienība tika ieviesta kopš [[1924]]. gada 1. janvāra, pirms tam tika pieļauta [[Krievijas mēru sistēma]]s lietošana. Garumu sāka mērīt [[metrs|metros]], nevis [[aršīna|aršīnās]] un [[pēda|pēdās]]; svaru [[grams|gramos]], nevis [[Mārciņa (mērvienība)|mārciņās]], šķidrumus [[litrs|litros]], nevis [[Stops (mērvienība)|stopos]] un [[spainis|spaiņos]]. [[Krievijas Impērija|Krievijas Impērijā]] pastāvējusī sistēma tika oficiāli aizliegta. Tika uzsvērts, ka valdība nekādus pagarinājumus nepieļaus.<ref name=jan>[http://www.la.lv/1924-gada-2-janvari/ 1924. gada 2. janvārī]</ref>
+
+Mēru un svaru reforma radīja problēmas [[alus]] rūpniekiem un tā tika pagarināta par gadu, jo pudeles līdz tam bija piemērotas stopam (1 stops atbilda 1,28 litriem). Bija tikai jānorāda tilpums arī litros. Darbietilpīgākais process bija svara bumbu un atsvaru pārmarķēšana. Lai informētu veikalniekus un pircējus, valsts gādāja par svaru salīdzināšanas plakātiem, kas bija izvietoti katrā tirdzniecības vietā.<ref name=jan/>
+
+== Mērvienību pieraksts ==
+
+* Simbolus pieraksta ar mazajiem burtiem (piem. [[metrs|m]], [[sekunde|s]]), izņemot tos, kas ir atvasināti no kāda cilvēka vārda (piem. [[paskāls|Pa]], [[kelvins|K]]). [[litrs|Litru]] mēdz apzīmēt gan ar mazo burtu, gan arī ar lielo, jo mazo "l" var viegli sajaukt ar lielo burtu "I" vai ciparu "1".
+* Pēc simbola neliek punktu.
+* Simbolus vēlams rakstīt ar taisniem burtiem (ne [[kursīvs|kursīvā]]), lai nesajauktu ar matemātiskajiem mainīgajiem (''v'' - ātrums, ''m'' - masa).
+* Starp skaitli un simbolu vēlams likt atstarpi (izņēmums ir [[leņķis|leņķa]] mērvienības)
+* Atvasināto mērvienību simboliem, kas veidoti, sareizinot vairākas pamatmērvienības, starp atsevišķām mērvienībām liek vidū punktu (·), piem., N·m (ņūtonmetri). Divu vienību dalījumu apraksta vai nu ar slīpsvītru (/) vai arī lieto negatīvu [[kāpināšana|kāpinātāju]].
+
+== Mērvienības ==
+
+SI lieto 7 pamatmērvienības un vairākas atvasinātās mērvienības. Mērvienībām var likt klāt daudzkārtņus (metrs, kilometrs, milimetrs, kur kilo- un mili- ir daudzkārtņi).
+
+=== Pamatmērvienības ===
+{{Pamatraksts|SI pamatvienības}}
+
+{| class="wikitable"
+! colspan="5" | SI pamatmērvienības
+|-
+! colspan="2" | Lielums
+! colspan="2" | Mērvienība
+! rowspan="2" | Definīcija
+|-
+! Nosaukums
+! Simbols
+! Nosaukums
+! Mērvienība
+|-
+|[[garums]]
+|''l''
+![[metrs]]
+|'''m'''
+|
+|-
+|[[masa]]
+|''m''
+![[kilograms]]
+|'''kg'''
+|
+|-
+|[[laiks]]
+|''t''
+![[sekunde]]
+|'''s'''
+|[[cēzijs|Cēzija]] [[izotops|izotopa]] <sup>133</sup>Cs izstarotā [[mikroviļņi|mikroviļņa]] 9 192 631 770 [[svārstības|svārstību]] [[periods|periodu]] kopējais ilgums, notiekot pārejai starp diviem [[atoms|atoma]] pamatstāvokļa [[hipersīkstruktūra]]s līmeņiem 0°[[Kelvins|K]] [[Temperatūra|temperatūrā]].
+|-
+|[[strāva]]
+|''I''
+![[ampērs]]
+|'''A'''
+|
+|-
+|[[temperatūra]]
+|''T''
+![[kelvins]]
+|'''K'''
+|
+|-
+|[[gaismas intensitāte]]
+|''I''
+![[kandela]]
+|'''cd'''
+|
+|-
+|[[vielas daudzums]]
+|''n''
+![[mols]]
+|'''mol'''
+|
+|}
+
+=== Bezdimensionālas atvasinātās mērvienības ===
+SI [[leņķis|leņķu]] mērvienības ([[radiāns]] un [[steradiāns]]) ir bezdimensionālas attiecības, kas veidotas dalot divas vienādas mērvienības.
+{| class="wikitable"
+!  colspan="5" | SI bezdimensionālās mērvienības
+|-
+|'''Nosaukums'''
+|'''Simbols'''
+|'''Īpašība'''
+|'''Definīcija'''
+|-
+|[[radiāns]]
+|'''rad'''
+|[[leņķis]]
+|Leņķa mērvienība ir leņķis, kādu veido riņķa līnijas loks, kura garums ir vienāds ar riņķa līnijas rādiusu. Riņķa līnijā ir <math>2\pi</math> radiāni.
+|-
+|[[steradiāns]]
+|'''sr'''
+|[[telpas leņķis]]
+|---
+|-
+|}
+
+=== Atvasinātās mērvienības ===
+Saliekot kopā vairākas pamatmērvienības, var mērīt citas īpašības. Dažām šādām mērvienībām ir īpaši nosaukumi.
+{| class="wikitable"
+!  colspan="5" | <big>SI atvasinātās mērvienības</big>
+|-
+|'''Nosaukums'''
+|'''Simbols'''
+|'''Īpašība'''
+|'''Izteikts pamatmērvienībās'''
+|-
+|'''[[Hercs (mērvienība)|hercs]]'''
+|'''Hz'''
+|[[frekvence]]
+|s<sup>−1</sup>
+|-
+|'''[[ņūtons]]'''
+|'''N'''
+|[[spēks]]
+|m·kg·s<sup>−2</sup>
+|-
+|'''[[džouls]]'''
+|'''J'''
+|[[enerģija]]
+|N m =  m<sup>2</sup>·kg·s<sup>−2</sup>
+|-
+|'''[[vats]]'''
+|'''W'''
+|[[jauda]]
+|J/s = m<sup>2</sup>·kg·s<sup>−3</sup>
+|-
+|'''[[paskāls]]'''
+|'''Pa'''
+|[[spiediens]], [[spriegums (mehānikā)]]
+|N/m<sup>2</sup> = m<sup>−1</sup>·kg·s<sup>−2</sup>
+|-
+|'''[[lūmens]]'''
+|'''lm'''
+|[[gaismas plūsma]]  
+|cd·sr = m<sup>2</sup>·m<sup>−2</sup>·cd = cd
+|-
+|'''[[lukss]]'''
+|'''lx'''
+|[[apgaismojums]]
+|lm/m<sup>2</sup> = m<sup>2</sup>·m<sup>−4</sup>·cd = m<sup>−2</sup>·cd
+|-
+|'''[[kulons]]'''
+|'''C'''
+|[[elektriskais lādiņš]]
+|s·A
+|-
+|'''[[volts]]'''
+|'''V'''
+|[[spriegums]]
+|W/A = J/C = m<sup>2</sup>·kg·s<sup>−3</sup>·A<sup>−1</sup> 
+|-
+|'''[[oms]]'''
+|'''Ω'''
+|[[elektriskā pretestība]]
+|V/A = m<sup>2</sup>·kg·s<sup>−3</sup>·A<sup>−2</sup>
+|-
+|'''[[farads]]'''
+|'''F'''
+|[[Elektriskā kapacitāte|kapacitāte]]
+| C/V = m<sup>−2</sup>·kg<sup>−1</sup>·s<sup>4</sup>·A<sup>2</sup> 
+|-
+|'''[[Magnētiskās indukcijas plūsma|vēbers]]'''
+|'''Wb'''
+|[[magnētiskā plūsma]]
+|m<sup>2</sup>·kg·s<sup>−2</sup>·A<sup>−1</sup>
+|-
+|'''[[tesla]]'''
+|'''T'''
+|[[magnētiskās plūsmas blīvums]]
+|Wb/m<sup>2</sup> = kg·s<sup>−2</sup>·A<sup>−1</sup>
+|-
+|'''[[henrijs]]'''
+|'''H'''
+|[[induktivitāte]]
+| Wb/A = m<sup>2</sup>·kg·s<sup>−2</sup>·A<sup>−2</sup>
+|-
+|'''[[sīmenss]]'''
+|'''S'''
+|[[elektrovadītspēja]]
+| Ω<sup>−1</sup> = m<sup>−2</sup>·kg<sup>−1</sup> s<sup>3</sup>·A<sup>2</sup>
+|-
+|'''[[bekerels]]'''
+|'''Bq'''
+|[[radioaktivitāte]] (sabrukšanas laika vienībā)
+|s<sup>-1</sup>
+|-
+|'''[[Grejs (mērvienība)|grejs]]'''
+|'''Gy'''
+|Jonizējošās radiācijas [[absorbētā doza]]
+|J/kg=m<sup>2</sup>·s<sup>-2</sup>
+|-
+|'''[[zīverts]]'''
+|'''Sv'''
+|Jonizējošās radiācijas [[ekvivalentā doza]]
+|J/kg=m<sup>2</sup>·s<sup>-2</sup>
+|-
+|'''[[Celsija grāds]]'''
+|'''°C'''
+|[[termodinamiskā temperatūra]]
+|K (0&nbsp;°C = 273.15 K, 0 K = −273.15&nbsp;°C)
+|-
+|'''[[katals]]'''
+|'''kat'''
+|[[katalizators|katalītiskā]] aktivitāte
+|mol/s = s<sup>−1</sup>∙mol
+
+|}
+
+=== Pieņemtās mērvienības (nav atvasinātas) ===
+{| class="wikitable"
+!  colspan="5" | <big>Ārpus SI mērvienības, kuras ir pieņemtas lietošanai kopā ar SI mērvienībām</big>
+|-
+|'''Nosaukums'''
+|'''Simbols'''
+|'''Īpašība'''
+|'''Atbilstošā SI mērvienība'''
+|-
+|[[minūte]]
+|'''min'''
+|[[laiks]]
+|1 min = 60 [[sekunde|s]]
+|-
+|[[stunda]]
+|'''h'''
+|[[laiks]]
+|1 h = 60 min = 3600 s
+|-
+|[[diena]]
+|'''d'''
+|[[laiks]]
+|1 d = 24 h = 1440 min = 86400 s
+|-
+|[[leņķa grāds]]
+|'''°'''
+|[[leņķis]]
+|1° = (π/180) [[radiāns|rad]]
+|-
+|[[leņķa minūte]]
+|'''′'''
+|[[leņķis]]
+|1′ = (1/60)° = (π/10800) rad
+|-
+|[[leņķa sekunde]]
+|'''″'''
+|[[leņķis]]
+|1″ = (1/60)′ = (1/3600)° = (π/648000) rad
+|-
+|[[litrs]]
+|'''l''' vai '''L'''
+|[[tilpums]]
+|0,001 [[kubikmetrs|m<sup>3</sup>]]
+|-
+|[[tonna]]
+|'''t'''
+|[[masa]]
+|1 t = 10<sup>3</sup> [[kilograms|kg]]
+|-
+|}
+
+== Mērvienību daudzkārtņi ==
+
+Mērvienību daudzkārtņus lieto, lai nebūtu jāraksta ļoti gari skaitļi (piem., 1 000 000 W var uzrakstīt kā 1 MW). Daudzkārtņus neapvieno. 1/1000000 kg definē kā miligramu, nevis kā mikrokilogramu. Daudzkārtņus parasti nelieto kopā ar laika mērvienībām (izņemot sekundi) un ar leņķa grādiem. Parasti tos nelieto arī kopā ar [[temperatūra]]s mērvienībām.
+
+{{SI priedēkļi}}
+
+== Informācijas mērvienības un to daudzkārtņi ==
+
+Mazākā informācijas daudzuma mērvienība ir '''bits''' (b), kam var būt vērtība vai nu 0 vai 1. Parasti lieto arī lielāku vienību - '''baits''' (B), kurā ietilpst 8 biti. Datu pārraides ātrumu mēra bitos sekundē (b/s). Ļoti bieži informācijas pārraides kanālu datu caurlaides spēju izsaka b/s, Kb/s vai Mb/s (biti, kilobiti vai megabiti sekundē). Datu glabāšanas iekārtu ierakstīšanas un nolasīšanas ātrumus parasti izsaka b/s (parasti tomēr Kb/s un Mb/s). Šeit 1Mb=1000Kb=1000000b un 1MB=1000KB=1000000B (bāze ir 10<sup>3</sup>=1000). Datu uzglabāšanas sistēmām ilgu laiku tika lietotas mērvienības ar bāzi 2<sup>10</sup>=1024 un datoru programmas joprojām datu nesēju ietilpību mēra šādā veidā. 1999. gadā šo mērvienību daudzkārtņiem tika standartizēti nosaukumi:
+{| class="wikitable"
+|-
+! Nosaukums
+! Simbols
+! 2<sup>10</sup>
+|-
+| kibi
+| Ki
+| 2<sup>10</sup>=1024
+|- 
+| mebi
+| Mi
+| 2<sup>20</sup>=1 048 576
+|-
+| gibi
+| Gi
+| 2<sup>30</sup>=1 073 741 824
+|-
+| tebi
+| Ti
+| 2<sup>40</sup>=1 099 511 627 776
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://likumi.lv/doc.php?id=261495 Latvijas Republikas Ministru kabineta noteikumi Nr.1186 "Mērvienību noteikumi"]
+* [http://www.likumi.lv/doc.php?id=42562 Latvijas Republikas Likums "Par mērījumu vienotību"]
+* [https://web.archive.org/web/20190902065147/http://gramatas.lndb.lv/periodika2-viewer/view/index-dev.html#issue:/g_001_0304029225|issueType:B Rokasgrāmata par Starptautisko mērvienību sistēmu (1982)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mērvienības]]
+[[Kategorija:SI mērvienības]]

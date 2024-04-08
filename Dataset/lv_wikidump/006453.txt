@@ -1,0 +1,102 @@
+[[Automātu teorija|Automātu teorijā]] '''galīgs automāts''' ir [[diskrēts|diskrētas]] sistēmas abstrakts [[matemātika|matemātisks]] [[modelis]], kas apraksta sistēmas izmaiņas diskrētos laika momentos atkarībā no ieejas [[dati]]em un tās iepriekšējā stāvokļa. Šādu automātu sauc par ''galīgu'' tādēļ, ka tā ieejas, izejas un stāvokļu kopas ir [[galīga kopa|galīgas]]. Galīgs automāts ir viens no [[abstrakts automāts|abstrakta automāta]] veidiem, kā arī viena no [[Tjūringa mašīna]]s sastāvdaļām.
+
+== Iedalījums ==
+
+'''Pēc automāta funkcijas''' galīgos automātus iedala [[akceptors|akceptoros]] un [[pārveidotājs|pārveidotājos]]. ''Akceptors'' ({{val-en|acceptor}}) pēc ieejā padotās informācijas jeb ''vārda'' nolasīšanas izvada vienu no divām iespējamajām atbildēm — nolasītais vārds tiek vai nu akceptēts vai noraidīts. Visu akceptēto vārdu kopu sauc par ''akceptora pazīto [[formāla valoda|valodu]]''. ''Pārveidotājs'' jeb ''galīgs automāts ar izeju'' ({{val-en|transducer}}) pārveido ieejā padoto simbolu virkni par kādu citu virkni — parasti pēc katra simbola nolasīšanas pārveidotājs nomaina savu iekšējo stāvokli un izvada vienu vai vairākus simbolus izvadā. Pārveidotāju intuitīvi var uztvert kā tulku, kas "pārtulko" vienu valodu par citu.
+
+'''Pēc darbības veida''' galīgos automātus iedala [[galīgs determinēts automāts|determinētos]], [[galīgs nedeterminēts automāts|nedeterminētos]], [[galīgs varbūtisks automāts|varbūtiskos]] un [[galīgs kvantu automāts|kvantu]] automātos. ''Determinēta automāta'' nākamo stāvokli viennozīmīgi nosaka tā pašreizējais stāvoklis un ieejā padotais simbols. ''Nedeterminēta automāta'' darbību var interpretēt divējādi — var uzskatīt, ka tas vienlaicīgi atrodas vairākos stāvokļos vai arī no daudziem atļautajiem stāvokļiem "izvēlas" to, kas novedīs pie pareizā risinājuma. ''Varbūtiska automāta'' stāvokli var raksturot ar [[varbūtību sadalījums|varbūtību sadalījumu]] pār stāvokļu kopu, bet ''kvantu automāta'' — ar [[viļņu funkcija|viļņu funkciju]]. Atkarībā no ieejas datiem, varbūtisks automāts nākamo stāvokli "izvēlas" nejauši jeb pāriet uz katru no atļautajiem stāvokļiem ar noteiktu varbūtību. Kvantu automāts darbojas pēc [[kvantu mehānika]]s likumiem un tā stāvokļa maiņu apraksta ar [[unitāra matrica|unitāras matricas]] palīdzību.
+
+Bieži vien apskata galīgu automātu modeļus, kam ir pievienotas dažādas '''palīgierīces''', piemēram, viena vai vairākas ''lentes'' vai ''magazīnas''. Šādā veidā uzlaboti automātu modeļi parasti ir spējīgi atrisināt problēmas, kas sākotnējiem modeļiem nav pa spēkam.
+
+== Formāls apraksts ==
+
+'''Akceptoru''' parasti var raksturot ar [[kortežs|kortežu]] (''Q'', Σ, ''δ'', ''q''<sub>0</sub>, ''F''), kur
+* ''Q'' — galīga netukša ''stāvokļu kopa'',
+* Σ — ''ieejas [[alfabēts (datorzinātnes)|alfabēts]]'' (galīga netukša simbolu [[kopa]]),
+* ''δ'' — stāvokļu ''pārejas funkcija'', kas raksturo to, kā mainās automāta stāvoklis nolasot katru no ieejas alfabēta simboliem,
+* ''q''<sub>0</sub> — ''sākuma stāvoklis'',
+* ''F'' — ''beigu'' jeb ''akceptējošo stāvokļu kopa''.
+Šāds automāta uzdošanas veids ir kopīgs lielākajai daļai akceptoru. Precīzāks automāta apraksts un nosacījumi, kad tas akceptē ievadīto vārdu, ir atkarīgi no konkrētā automāta modeļa. Piemēram, varbūtiskiem automātiem pārejas funkciju ''δ'' uzdod ar [[stohastiska matrica|stohastisku matricu]], bet kvantu automātiem — ar [[unitāra matrica|unitāru matricu]]. Arī automāta sākuma stāvokļa uzdošanas veids ir atkarīgs no modeļa, piemēram, [[galīgs determinēts automāts|determinētam automātam]] ir tieši viens sākuma stāvoklis, taču [[galīgs nedeterminēts automāts|nedeterminētam]] var būt vairāki.
+
+'''Pārveidotāju''' parasti var raksturot ar kortežu (''Q'', Σ, Γ, ''δ'', ''ω'', ''q''<sub>0</sub>), kur
+* ''Q'', Σ, ''δ'', ''q''<sub>0</sub> — tāpat kā akceptoram,
+* Γ — ''izejas alfabēts'',
+* ''ω'' — ''izejas funkcija'', kas raksturo automāta izvadīto simbolu atkarība no ielasītā simbola un automāta pašreizējā stāvokļa.
+Atšķirībā no akceptora pārveidotājam nav akceptējošo stāvokļu kopa ''F''. Precīzāks pārveidotāja apraksts ir atkarīgs no konkrētā modeļa.
+
+== Piemērs (vienkāršota lifta darbības modelis) ==
+
+Kā galīga automāta piemēru apskatīsim automātu, kas apraksta vienkāršota [[lifts|lifta]] darbību.
+
+=== Ieejas alfabēts ===
+
+Pieņemsim, ka dotais lifts var izpildīts šādas četras komandas:
+* ''o'' — atvērt durvis,
+* ''c'' — aizvērt durvis,
+* ''U'' — uzbraukt otrajā stāvā,
+* ''D'' — nobraukt uz pirmo stāvu.
+Lai modelētu lifta darbību, automāta ieejā tiks padotas šīs komandas. Tas nozīmē, ka automāta ''ieejas alfabēts'' ir Σ&nbsp;=&nbsp;{''o'', ''c'', ''U'', ''D''}.
+
+=== Stāvokļu kopa ===
+
+Nav grūti ievērot, ka šāds lifts var atrasties četros stāvokļos:
+* ''oD'' — pirmajā stāvā, durvis atvērtas,
+* ''cD'' — pirmajā stāvā, durvis aizvērtas,
+* ''cU'' — otrajā stāvā, durvis aizvērtas,
+* ''oU'' — otrajā stāvā, durvis atvērtas.
+Pieņemsim, ka sākotnēji lifts atrodas stāvoklī ''oD''. Tas nozīmē, ka liftu modelējošā automāta ''stāvokļu [[kopa]]'' ir ''Q''&nbsp;=&nbsp;{''oD'',&nbsp;''cD'',&nbsp;''cU'',&nbsp;''oU''}, bet ''sākumstāvoklis'' ir ''q''<sub>0</sub>&nbsp;=&nbsp;''oD''.
+
+=== Pārejas funkcija ===
+
+[[Attēls:Finite_automat_lift.png|thumb|300px|Stāvokļu diagramma automātam, kas modelē lifta darbību]]
+
+Automāta ''pārejas funkcija'' ''δ'' raksturo to, kā automāts reaģē uz ieejā padotajiem datiem. Automāta reakcija izpaužas kā tā stāvokļa maiņa un ir atkarīga no automāta pašreizējā stāvokļa.
+
+Lifta gadījumā pārejas funkciju definēsim šādi:
+:''δ''(''oD'', ''c'') = ''cD'' — aizvērt durvis (stāvot 1. stāvā),
+:''δ''(''cD'', ''o'') = ''oD'' — atvērt durvis (stāvot 1. stāvā),
+:''δ''(''cD'', ''U'') = ''cU'' — uzbraukt 2. stāvā (ar aizvērtām durvīm),
+:''δ''(''cU'', ''D'') = ''cD'' — nobraukt 1. stāvā (ar aizvērtām durvīm),
+:''δ''(''cU'', ''o'') = ''oU'' — atvērt durvis (stāvot 2. stāvā),
+:''δ''(''oU'', ''c'') = ''cU'' — aizvērt durvis (stāvot 2. stāvā).
+
+=== Stāvokļu diagramma ===
+
+Automāta stāvokļus pieņemts attēlot ar aplīšiem un katrā aplītī ierakstīt attiecīgā stāvokļa nosaukumu. Aplīšus savieno ar bultiņām un uz katras no tām uzraksta kādu no ieejas alfabēta simboliem. Sākuma stāvokli atzīmē ar bultiņu, uz kuras nekas nav rakstīts. Iegūto attēlu sauc par automāta ''stāvokļu diagrammu'' (skatīt attēlu).
+
+=== Automāta darbība ===
+
+Apskatīsim kā izveidotais automāts reaģē uz virknes ''cUo'' ievadīšanu (šī virkne atbilst [[datorprogramma|programmai]] "aizvērt durvis, uzbraukt uz otro stāvu un atvērt durvis"). Sekojot līdzi bultiņām, no automāta stāvokļu diagrammas ir viegli nolasīt, ka automāts secīgi izies caur stāvokļiem ''oD'', ''cD'', ''cU'', ''oU''. Līdzīgi, izpildot programmu ''cUocDo'', automāts atgriezīsies sākuma stāvoklī ''oD''.
+
+Ne visas komandu virknes atbilst korektām "lifta programmām". Piemēram, programma ''o'' nav korekta, jo sākuma stāvoklim ''oD'' nav pārejas ar simbolu ''o'' (lifta durvis sākumā jau ir atvērtas). Līdzīgi arī ''U'' nav korekta programma (nav paredzēts ar atvērtām durvīm braukt augšā). Atkarībā no konteksta, šādas programmas var interpretēt vairākos veidos. Var pieņemt, ka tās ir aizliegtas, tāpēc automāta uzvedība tām nav [[definīcija|definēta]]. Var arī pieņemt, ka automāts pārtrauc darboties un paziņo, ka ievadītā programma nav korekta. Visbeidzot, ja automātu uzskata par [[galīgs nedeterminēts automāts|nedeterminētu]], tad tā stāvokli apraksta [[tukša kopa|tukšā kopa]] {}.
+
+=== Automāta tips ===
+
+Augstāk aprakstītā automāta mērķis ir simulēt lifta darbību nevis akceptēt vai pārveidot vārdus. Formāli to var uzskatīt gan par akceptoru, kura akceptējošo stāvokļu kopa ''F'' ir tukša, gan par pārveidotāju, kura izejas alfabēts Γ ir tukšs un izejas funkcija ''ω'' vienmēr izvada tukšo vārdu ''ε'' (simbolu virkni, kas nesastāv ne no viena simbola).
+
+Apskatītais automāts nav [[galīgs determinēts automāts|determinēts]], jo tam ir stāvokļi, kuriem nav pārejas ar visiem ieejas alfabēta simboliem. Toties to var uzskatīt par [[galīgs nedeterminēts automāts|galīgu nedeterminētu automātu]]. Tas nozīmē, ka visos pārējos gadījumos, kas nav uzskaitīti augstāk, pārejas funkcija ''δ'' atgriež tukšo kopu {}, piemēram, ''δ''(''oD'',&nbsp;''o'')&nbsp;=&nbsp;{}.
+
+== Pielietojums ==
+
+Galīgos automātus izmanto [[ciparu elektronika|ciparu elektronikā]], programmējamās loģiskās ierīcēs. Plašs pielietojums ir [[programmatūra|programmatūrā]], piemēram, [[sintaktiskais analizators|sintaktisko analizatoru]], [[regulāra izteiksme|regulāro izteiksmju]] realizācijā.{{fact}}
+
+== Galīgu automātu pētniecība Latvijā ==
+
+Ievērojamākie Latvijas zinātnieki, kas ir veikuši pētījumus galīgo automātu teorijā ir profesori [[Juris Hartmanis]],<ref>Skatīt publikācijas [http://ecommons.cornell.edu/items-by-author?author=Hartmanis%2C+Juris Kornela Universitātes bibliotēkas] un [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hartmanis:Juris.html DBLP] {{Webarchive|url=https://web.archive.org/web/20090626001950/http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hartmanis:Juris.html |date={{dat|2009|06|26||bez}} }} mājaslapās.</ref> [[Jānis Bārzdiņš]]<ref>Skatīt publikācijas [http://www.lu.lv/kontakti/persona.html?id=104 LU] {{Webarchive|url=https://web.archive.org/web/20090608173751/http://www.lu.lv/kontakti/persona.html?id=104 |date={{dat|2009|06|08||bez}} }} un [http://www.lumii.lv/Pages/MII_staff/jbarzdin.html LUMII] {{Webarchive|url=https://web.archive.org/web/20081217232813/http://www.lumii.lv/Pages/MII_staff/jbarzdin.html |date={{dat|2008|12|17||bez}} }} mājaslapās.</ref> un [[Rūsiņš Mārtiņš Freivalds]].<ref>Skatīt publikācijas [http://www.lza.lv/scientists/freivalds.htm LZA] {{Webarchive|url=https://web.archive.org/web/20090105012601/http://www.lza.lv/scientists/freivalds.htm |date={{dat|2009|01|05||bez}} }} un [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Freivalds:Rusins.html DBLP] {{Webarchive|url=https://web.archive.org/web/20090311165318/http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Freivalds:Rusins.html |date={{dat|2009|03|11||bez}} }} mājaslapās.</ref> Profesora Freivalda vadībā [[Latvijas Universitāte|Latvijas Universitātē]] ir izstrādātas vairākas doktora disertācija par tēmām, kas saistītas ar galīgiem automātiem.{{fact}} Viņa bijušie doktoranti [[Andris Ambainis]], [[Juris Smotrovs]], [[Marats Golovkins]], [[Maksims Kravcevs]], [[Arnolds Ķikusts]] un [[Vasilijs Kravcevs]] turpina veikt pētījumus automātu teorijā.{{fact}}
+
+== Atsauces ==
+
+{{atsauces}}
+
+== Skatīt arī ==
+
+* [[Galīgs determinēts automāts]]
+* [[Galīgs nedeterminēts automāts]]
+* [[Galīgs alternējošs automāts]]
+* [[Galīgs varbūtisks automāts]]
+* [[Galīgs kvantu automāts]]
+* [[Tjūringa mašīna]]
+
+[[Kategorija:Skaitļošanas modeļi]]
+[[Kategorija:Automātu teorija]]
+[[Kategorija:Automāti]]

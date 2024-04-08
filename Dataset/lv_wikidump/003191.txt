@@ -1,0 +1,64 @@
+[[Attēls:243 ida.jpg|thumbnail|235px|Asteroīds [[243 Ida]]]]
+'''Asteroīds''' ({{val-el|ἀστήρ}}, ''astēr'' — "zvaigzne"; ''εἶδος'', ''eides'' — "veids")<ref name="ZTV"/> jeb '''mazā planēta'''<ref name="ZTV"/> ir [[planēta|planētveidīgs]] [[Saules sistēma]]s objekts, kura izmēri, salīdzinot ar pārējo [[planēta|planētu]] un [[pundurplanēta|pundurplanētu]] izmēriem, ir mazi. Asteroīdi pēc [[Keplera likumi]]em riņķo orbītā ap [[Saule|Sauli]]. Lielākā daļa mazo planētu atrodas [[asteroīdu josla|asteroīdu joslā]] starp [[Marss (planēta)|Marsa]] un [[Jupiters (planēta)|Jupitera]] orbītām. No pašlaik zināmajiem lielākais asteroīds pēc izmēra ir [[Cerera]], lai gan daudzi astronomi to ir klasificējuši kā pundurplanētu. Nākamie lielākie asteroīdi ir [[4 Vesta]], [[2 Pallāda]], [[10 Higieja]] un [[31 Eufrosine]].<ref name="liis"/>
+
+Pirmais asteroīds Cerera tika atklāts 1801. gadā. Līdz {{dat|2012|4|21|D|bez}} bija atklāti {{nobr|584 599}} asteroīdi, no kuriem {{nobr|326 266}} ir numurēti.<ref name="NASA"/> Tiek lēsts, ka Saules sistēmā faktiskais asteroīdu skaits ir mērāms miljonos.
+
+== Asteroīdu klasifikācija ==
+Asteroīdi tiek klasificēti pēc to virsmu ķīmiskā sastāva, ko nosaka, veicot [[spektroskopija]]s pētījumus. Visizplatītākie ir [[C tipa asteroīds|C tipa asteroīdi]] (aptuveni 75%), kuru virsmu galvenokārt veido [[ogleklis]]. Nākamā izplatītākā grupa ir [[S tipa asteroīds|S tipa asteroīdi]] (17%), kuru virsmu galvenokārt veido silikātieži. Pastāv arī citu veidu asteroīdi, piemēram, [[A tipa asteroīds|A]], [[B tipa asteroīds|B]], [[D tipa asteroīds|D]], [[E tipa asteroīds|E]], [[F tipa asteroīds|F]], [[G tipa asteroīds|G]], [[M tipa asteroīds|M]], [[P tipa asteroīds|P]], [[R tipa asteroīds|R]], [[T tipa asteroīds|T]] un [[V tipa asteroīds|V tipa asteroīdi]].
+
+== Lielākie asteroīdi ==
+[[Attēls:Церера-19.02.2015.jpg|thumbnail|Lielākā asteroīda Cereras attēls, kas uzņemts ar zondi ''[[Dawn (zonde)|Dawn]]'']]
+Lielākais asteroīds ir [[Cerera]], lai gan daži speciālisti to izdala kā [[pundurplanēta|pundurplanētu]], un līdz ar to lielākais asteriods ir [[2 Pallāda]], kuras vidējais [[diametrs]] ir 608 km. Mazāko atklāto asteroīdu aptuvenais diametrs ir sākot ar dažiem metriem.
+
+{| class="wikitable" style="font-size: 90%"
+! Vieta 
+! Asteroīds
+! Diametrs (km)
+|-
+| 1. || [[1 Cerera]] || 933
+|-
+| 2. || [[2 Pallāda]] || 608
+|-
+| 3. || [[4 Vesta]] || 538
+|-
+| 4. || [[10 Higieja]] || 450
+|-
+| 5. || [[31 Eufrosine]] || 370
+|-
+| 6. || [[704 Interamnija]] || 350
+|-
+| 7. || [[511 Deivida]] || 323
+|-
+| 8. || [[65 Kibele]] || 309
+|-
+| 9. || [[52 Eiropa]] || 289
+|-
+| 10. || [[3 Jūnona]] || 288
+|}
+
+== Asteroīdi, kuru nosaukumi saistīti ar Latviju ==
+Divdesmit divu asteroīdu nosaukumi ir saistībā ar [[Latvija|Latviju]]. Tie ir šādi: [[1284 Latvija]], [[1796 Rīga]], [[1805 Dīriķis]], [[2014 Vasiļevskis]], [[2867 Šteins]], [[3233 Krišbarons]], [[4136 Artmane]], [[4391 Balodis]], [[4392 Agita]], [[16513 Vasks]], [[23617 Daugava]], [[24709 Mītava]], [[24794 Kurzeme]], [[37623 Valmiera]], [[274084 Baldone]], [[284984 Ikaunieks]],<ref name="Zvaigžņotā debess"/> [[85466 Krastiņš]],  [[332530 Canders]], [[352646 Blumbahs]], [[320153 Eglītis]], [[428694 Saule]] un [[457743 Balklavs]].
+
+== Skatīt arī ==
+* [[Asteroīdu diena]]
+* [[Asteroīdu josla]]
+* [[Koipera josla]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="ZTV">{{grāmatas atsauce | title= Zinātnes un tehnoloģijas vārdnīca | publisher= Norden AB | year= 2001 | isbn= 9984-9383-5-2 | page= 62}}</ref>
+<ref name="liis">{{tīmekļa atsauce | author= [[Ilgonis Vilks]] | url= http://www.liis.lv/astron/IE_version/AstroAz/Saulsist/mazplanuc.htm | title= Mazās planētas, komētas un meteorīti | publisher= www.liis.lv | accessdate= 2011-09-13 | language= latviski | archiveurl= https://web.archive.org/web/20100504145411/http://www.liis.lv/astron/IE_version/AstroAz/Saulsist/mazplanuc.htm | archivedate= 2010-05-04 }}</ref>
+<ref name="NASA">{{tīmekļa atsauce | url= http://ssd.jpl.nasa.gov/?body_count | title= How Many Solar System Bodies | publisher= nasa.gov | accessdate= 2012-04-21 | language= angliski}}</ref>
+<ref name="Zvaigžņotā debess">{{grāmatas atsauce | title= Zvaigžņotā debess. Vasara 2012 | publisher= Mācību grāmata. Rīga | year= 2012 | ISSN= 0135-129X | page= 4}}</ref>}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+
+{{Saules sistēma|expanded}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Asteroīdi| ]]

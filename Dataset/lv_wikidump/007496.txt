@@ -1,0 +1,93 @@
+{{Latvijas novada infokaste
+| nosaukums         = Priekuļu pagasts
+| karte             = <!-- novietojuma karte -->Priekuļu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = Priekuļu novada karogs.png
+| karoga_nosaukums  = Priekuļu pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Priekuļi
+| platība           = 98,36
+| iedzīvotāji       = 4350<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 4350 / 98.36 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.priekuli.lv
+}}
+'''Priekuļu pagasts''' ir viena no [[Cēsu novads|Cēsu novada]] administratīvajām teritorijām, [[Gauja]]s kreisajā krastā. Robežojas ar sava novada [[Cēsis|Cēsu]] pilsētu un [[Liepas pagasts|Liepas]], [[Veselavas pagasts|Veselavas]], [[Vaives pagasts|Vaives]] un [[Raiskuma pagasts|Raiskuma]] pagastiem, kā arī [[Smiltenes novads|Smiltenes novada]] [[Raunas pagasts|Raunas pagastu]]. 
+
+== Daba ==
+Atrodas [[Vidzemes augstiene|Vidzemes augstienē]] — [[Mežoles pauguraine|Mežoles paugurainē]] un [[Gaujas senleja|Gaujas senielejā]]. Pagasts ir izcili ainavisks, to šķērso dziļas un ar dabas pieminekļiem bagātas upju ielejas. Augstākā vieta pagastā atrodas pagasta dienvidaustrumos — 159,6 m vjl.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Gauja]]
+** [[Rauna (upe)|Rauna]]
+*** [[Ārupīte (Raunas pieteka)|Ārupīte]]
+*** [[Raunis]]
+*** [[Vaive (upe)|Vaive]]
+** [[Triečupīte]]
+
+==== Ezeri un ūdenskrātuves ====
+* [[Ninieris]] (12,5 ha)
+*[[Pieškaļu ezers]] (1,1 ha)
+
+Pagastā atrodas arī vairākas ūdenskrātuves.
+
+== Vēsture ==
+Priekuļu [[Sārumkalns]] tiek uzskatīts par vispamatotāko [[Autīne]]s pilskalna atrašanās vietu,{{fact}} ko pirmo reizi piemin [[Livonijas Indriķa hronika]] 1208. gadā. Pagasts veidojies 19. gadsimtā Priekuļu (''Freudenberg'') un Jāņmuižas (''Johannenhof'') [[muiža|muižu]] teritorijā, te atradās arī Lībānu, Vinnēnu, Brūnēnu un [[Ruckas muiža|Ruckas pusmuižas]].
+
+Pēc [[1920. gada zemes reforma]]s Priekuļu muižu sadalīja 37 vienībās 387 ha kopplatībā, bet [[Jāņmuiža (Priekuļu pagasts)|Jāņmuiža]] {{nobr|150 ha}} kopplatībā nokļuva pēdējā nomnieka dēla diplomāta [[Andrejs Kampe|Andreja Kampes]] (1905–1942) īpašumā ar nosaukumu „Vairogi“.<ref>[http://www.priekuli.lv/ter/Priekuli-ter-plan-apraksts.pdf Priekuļu pagasta teritorijas plānojums]{{Novecojusi saite}}</ref> 
+Tika sadalīta arī Cēsu lauku mācītājmuiža 28 vienībās 648 ha kopplatībā, Vaives dzirnavu zeme sadalīta divās vienībās 27 ha kopplatībā.<ref>{{LKV|XVII.|33 990}}</ref>
+ 
+1935. gadā pagasta platība bija 58 km² un tajā dzīvoja 1392 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Priekuļu [[ciema padome|ciema padomi]], ko gan 1947. gadā likvidēja, bet 1949. gadā, līdz ar pagasta likvidēšanu, atjaunoja. [[Cēsu rajons|Cēsu rajona]] '''Priekuļu ciemam''' 1954. gadā pievienoja likvidēto [[Dukuru ciems|Dukuru ciemu]], 1960. gadā — likvidēto [[Vaives ciems|Vaives ciemu]]. 1975. gadā Vaives ciemu izveidoja no jauna, teritoriju atdalot no Priekuļu ciema. 1977. gadā Priekuļu ciemam pievienoja likvidēto [[Jaunraunas ciems|Jaunraunas ciemu]], bet daļu ciema teritorijas pievienoja [[Cēsis|Cēsu]] pilsētai un Vaives ciemam. 1987. gadā Vaives ciemam pievienoja vēl daļu Priekuļu ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Priekuļu pagastu kā administratīvo teritoriju iekļāva jaunizveidotajā [[Priekuļu novads|Priekuļu novadā]]. 2021. gadā Priekuļu novadu iekļāva [[Cēsu novads|Cēsu novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2500
+|1959|2950
+|1967|5515
+|1979|4991
+|1989|5791
+|2000|5025
+|2011|4045
+|2021|3647
+}}
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Priekuļi]] (pagasta centrs), [[Jāņmuiža (Priekuļu pagasts)|Jāņmuiža]], [[Dukuri]], [[Jaunrauna]], [[Annasmuiža (Priekuļu pagasts)|Annasmuiža]], [[Garkalne (Priekuļu pagasts)|Garkalne]], [[Inkuļi]], [[Kunči]], [[Lubiņas]], [[Mežciemi]], [[Pēterēni (Priekuļu pagasts)|Pēterēni]], [[Pieškalni]], [[Rauguļi]], [[Šautuves (ciems)|Šautuves]], [[Vaives dzirnavas]], [[Vīstuči]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Priekuļu novads}}
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+
+{{DEFAULTSORT:Priekulzu pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Priekuļu pagasts| ]]

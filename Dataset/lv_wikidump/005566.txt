@@ -1,0 +1,68 @@
+{{Citas nozīmes|vieglatlētu|Pūpols (nozīmju atdalīšana)|Pūpols}}
+{{Vieglatlēta infokaste
+ |           vārds = Normunds Pūpols
+ |          attēls = Normunds Pupols.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1984|10|5}}
+ |         dz_viet = {{vieta|PSRS|Latvijas PSR|Ventspils}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{LAT}}
+ |     dzīvesvieta = 
+ |          garums = 
+ |           svars = 
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = Augstlēkšana
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 2 ([[2006. gada Eiropas čempionāts vieglatlētikā|2006]], [[2010. gada Eiropas čempionāts vieglatlētikā|2010]])
+ |            rc-t = 
+ |            reg1 = Eiropas
+ |            reg2 = EČ
+<!------ Personīgie rekordi ------>
+ |             PR1 = 2,28 m
+ |           PR1_d = Augstlēkšanā
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = V
+ |       atjaunots = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Normunds Pūpols''' (dzimis {{dat|1984|10|5}} [[Ventspils|Ventspilī]]) ir [[latvieši|latviešu]] [[vieglatlēts]], augstlēcējs. Viņa personīgais rekords ir 2,28 m. N. Pūpols piedalījies divos [[Eiropas čempionāts vieglatlētikā|Eiropas čempionātos]]. [[2006. gada Eiropas čempionāts vieglatlētikā|2006. gada Eiropas čempionātā]], kur, pārlēcot 2,23 m, viņam pietrūka pavisam nedaudz, lai kvalificētos finālam, un ierindojās dalītā 15./16. vietā. [[2010. gada Eiropas čempionāts vieglatlētikā|2010. gada Eiropas čempionātā]] viņš ar rezultātu 2,19 m nepārvarēja kvalifikāciju un ierindojās 18. vietā.
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+
+{{Vieglatlēts-aizmetnis}}
+{{Latvijas sportists-aizmetnis}}
+
+{{DEFAULTSORT:Pupols Normunds}}
+
+[[Kategorija:1984. gadā dzimušie]]
+[[Kategorija:Ventspilī dzimušie]]
+[[Kategorija:Latvijas vieglatlēti]]

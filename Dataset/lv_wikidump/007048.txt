@@ -1,0 +1,44 @@
+{{ezera infokaste
+|ezers=Mveru
+|attēls=Mighty Lake Mweru.jpg
+|paraksts=Mveru ezers
+|map = Kongo Demokrātiskā Republika#Zambija
+| plat_d=9 | plat_m=0 | plat_s=0 | plat_NS=S
+| gar_d=28 | gar_m=43 | gar_s=0 | gar_EW=E
+|vieta={{COD}}<br />{{ZMB}}
+|platība=4350
+|garums=124
+|Vid_dziļums=7,5
+|Max_dziļums=37
+|tilpums=38
+|augstums_vjl=917
+|izteka=[[Luvua]]
+|baseins=
+|valstis=
+|salas=Kilva, Isokve
+|pilsētas=[[Pveto]], [[Nčelenge]]
+}}
+<mapframe text="Mveru" width=300 height=300 zoom=8 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q504433"
+}
+</mapframe>
+'''Mveru''' ({{val|en|Lake Mweru}}, {{val|fr|Lac Moero}}) ir [[ezers]] [[Āfrika|Āfrikā]] uz [[Kongo Demokrātiskā Republika|Kongo Demokrātiskās Republikas]] un [[Zambija]]s robežas. Galvenā ieteka ir [[Luapula]]s upe, kas ietek caur purvājiem no dienvidu puses. Izteka [[Luvua]] pieder pie [[Kongo (upe)|Kongo]] baseina. Ūdens temperatūra ezerā ir {{nobr|21—29&nbsp;°C}}.
+
+Nereti, lai nesajauktu ar netālo [[Mveru Vantipa]]s ezeru, Mveru sauc par '''Mveru Luapulas ezeru'''. Ezerā ir divas lielas salas — Kilva un Isokve. Vairāk kā 100 zivju sugas.
+
+Mveru ezera apkaime bija salīdzinoši reti apdzīvota un no pārējās pasaules izolēta. Tikai [[1987]]. gadā līdz Nčelengei tika uzbūvēts asfaltēts ceļš un kopš tā laika iedzīvotāju skaits ezera apkaimē strauji pieaug, pieaug arī nozvejas apjoms. Joprojām Mveru ezera apkaime atgādina pagātnes Āfriku, taču kultūrainava šeit strauji mainās.
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+[[Kategorija:Kongo Demokrātiskās Republikas ezeri]]
+[[Kategorija:Zambijas ezeri]]
+[[Kategorija:Āfrikas Lielie ezeri]]

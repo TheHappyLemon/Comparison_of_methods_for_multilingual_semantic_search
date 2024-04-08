@@ -1,0 +1,103 @@
+{{Latvijas novada infokaste
+| nosaukums         = Kalncempju pagasts
+| karte             = Kalncempju pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Kalncempji
+| platība           = 43
+| iedzīvotāji       = 197<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|25||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 197 / 43 round 1}}
+| izveidots         = 1868
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+| nos_vācu          = Kalnemoise
+| ref_vācu          =
+| nos_krievu        = Кальнемойзеская
+| ref_krievu        =
+}}
+'''Kalncempju pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā dienvidos. Robežojas ar sava novada [[Zeltiņu pagasts|Zeltiņu]], [[Alsviķu pagasts|Alsviķu]] un [[Annas pagasts|Annas]] pagastiem, kā arī [[Gulbenes novads|Gulbenes novada]] [[Stāmerienas pagasts|Stāmerienas]] un [[Beļavas pagasts|Beļavas]] pagastiem.
+
+== Daba ==
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Medņupe]], [[Paparze]], [[Britene]].
+
+==== Ezeri ====
+[[Sprīvuļu ezers]] (uz robežas).
+
+== Vēsture ==
+No 1868. gada pastāvēja [[Valkas apriņķis|Valkas apriņķa]] '''Kalnamuižas pagasts''', izveidots uz Kalnamuižas zemes.<ref>{{Tīmekļa atsauce |url=http://www.aluksne.lv/pilseta_par_aluksni/kalncempji.htm |title=Alūksnes novads. Kalncempju pagasta pārvalde |access-date={{dat|2010|10|31||bez}} |archiveurl=https://web.archive.org/web/20100824021446/http://www.aluksne.lv/pilseta_par_aluksni/kalncempji.htm |archivedate={{dat|2010|08|24||bez}} }}</ref>
+Pagasta iedzīvotāji piederēja Zeltiņu evaņģēliski luteriskajai draudzei.
+Pēc [[1920. gada agrārā reforma|1920. gada agrārās reformas]] Kalnamuižu 2330,95 ha platībā sadalīja 132 vienībās.<ref>Latviešu konversācijas vārdnīcas VIII sējuma 15121-15123 slejas. Rīga: 1932.-1933.</ref>
+Līdz 1925. gadam tas saucās '''Kalnciema pagasts'''. 1935. gadā Kalncempju pagasta platība bija 86,7 km² un tajā dzīvoja 1953 iedzīvotāji.<ref>{{EncLP}}</ref>
+
+1945. gadā pagastā izveidoja Kalncempju un [[Kalnienas ciems|Kalnienas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Kalncempju ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946—1949) un [[Apes rajons|Apes]] (1949—1956), [[Alūksnes rajons|Alūksnes]] (1956-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962—1967) rajonos.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Kalncempju pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+=== Pieminekļi ===
+* Nr. 185.: Nāzupju pilskalns Nāzupjos pie Pilskalniem 
+* Nr. 186.: Malacu senkapi (Upuru vieta) pie Malaciem 
+* Nr. 187.: Melderpuļķu senkapi pie Melderpuļķiem 
+* Nr. 188.: Okānu senkapi (Akmeņkalns, Kapu kalns) pie Okāniem 
+* Nr. 189.: Pūzupu senkapi pie Pūzupiem 
+* Nr. 190.: Uranažu senkapi pie Uranažiem 
+* Nr. 191.: Sprīvuļu senkapi starp Sprīvuļiem un Kapukrogiem 
+* Nr. 192.: Žagatu senkapi Žagatās
+* Nr. 2791.: Ates (Otes) ūdensdzirnavas Atē (1795)
+* Nr. 2792.: [[Otes muiža]]s klēts Atē (18. gs. b.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] — [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1075
+|1959|612
+|1967|502
+|1979|397
+|1989|406
+|2000|331
+|2011|189
+|2021|140
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Kalncempji]]''' (pagasta centrs), [[Pūzupi]], [[Žagatas (Kalncempju pagasts)|Žagatas]].
+
+=== Struktūra ===
+2023. gadā Kalncempju pagastā bija Latvijā vislielākais sieviešu skaits uz 100 vīriešiem — 138.<ref>{{Tīmekļa atsauce|url=https://www.tv3.lv/dzivesstils/sievietei/kur-latvija-ir-vislielakais-sieviesu-ipatsvars-uz-100-viriesiem/|title=Kur Latvijā ir vislielākais sieviešu īpatsvars uz 100 vīriešiem?|website=tv3.lv|access-date=2024-03-10|date=2024-03-10|language=lv}}</ref>
+
+== Saimniecība ==
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Kalncempju pagasts| ]]

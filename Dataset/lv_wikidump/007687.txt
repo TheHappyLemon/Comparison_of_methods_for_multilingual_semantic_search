@@ -1,0 +1,24 @@
+{{ezera infokaste
+|ezers=Lodis
+|attēls=Luodis-2011.jpg
+|map = Lietuva
+| plat_d=55 | plat_m=34 | plat_s=42 | plat_NS=N
+| gar_d=26 | gar_m=12 | gar_s=8 | gar_EW=E
+|vieta={{LTU}}
+|platība=13,2
+|garums=
+|Vid_dziļums=6,7
+|Max_dziļums=18,4
+|tilpums=
+|augstums_vjl=
+|izteka=[[Šventoja]]
+|baseins=
+|valstis=
+|salas=4
+|pilsētas=[[Salaka]]
+}}
+'''Lodis''' ({{ipa2|luɔ͡dis}}; {{val|lt|Luodis}}) ir [[ezers]] [[Lietuva]]s ziemeļaustrumu daļā, [[Zarasu rajons|Zarasu rajonā]]. Piektais lielākais ezers Lietuvā. Radies [[ledājs|ledāja]] darbības rezultātā.
+
+{{Lietuva-aizmetnis}}
+
+[[Kategorija:Lietuvas ezeri]]

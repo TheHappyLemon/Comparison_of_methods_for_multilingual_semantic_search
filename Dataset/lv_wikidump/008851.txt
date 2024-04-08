@@ -1,0 +1,111 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color      = #FFFFFF
+| bg_color        = #dd0000
+| nos             = ''1. FSV Mainz 05''
+| logo            = [[Attēls:Logo Mainz 05.svg|150px]]
+| pilns           = ''1. Fußbjall- und Sport-Verein Mainz 05 e.V.''
+| iesauka         = ''Karnevalsverein'' (Karnevāla klubs), Die Nullfünfer (the 05ers)
+| pilsēta         = {{vieta|Vācija|Mainca}}
+| dib             = 1905
+| dib_mēn         = 3
+| dib_dat         = 16
+| stad            = ''[[MEWA Arena]]''
+| ietilp          = 34 034
+| prez            = {{flaga|Vācija}} Stefans Hofmans
+| tren            = {{flaga|Dānija}} [[Bo Henriksens]]
+| līga            = [[Vācijas futbola Bundeslīga|Vācijas Bundeslīga]]
+| sez             = [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022.—2023.]]
+| poz             = 9. vieta
+| pattern_la1   = _mainz2223h
+| pattern_b1    = _mainz2223h
+| pattern_ra1   = _mainz2223h
+| pattern_sh1   = _mainz2021h
+| pattern_so1   = 
+| leftarm1      = FF0000
+| body1         = FF0000
+| rightarm1     = FF0000
+| shorts1       = FFFFFF
+| socks1        = FF0000
+| pattern_la2   = _mainz2223a
+| pattern_b2    = _mainz2223a
+| pattern_ra2   = _mainz2223a
+| pattern_sh2   = _mainz2021h
+| pattern_so2   =
+| leftarm2      = FFFFFF
+| body2         = FFFFFF
+| rightarm2     = FFFFFF
+| shorts2       = FFFFFF
+| socks2        = FFFFFF
+| pattern_la3   = _mainz2223t
+| pattern_b3    = _mainz2223t
+| pattern_ra3   = _mainz2223t
+| pattern_sh3   = _mainz2223t
+| pattern_so3   = 
+| leftarm3      = 000066
+| body3         = 000066
+| rightarm3     = 000066
+| shorts3       = 000066
+| socks3        = 000060
+}}
+
+'''''1. FSV Mainz 05''''' ir [[Mainca]]s pilsētas [[futbols|futbola]] klubs, kas ir dibināts 1905. gadā. Papildus futbola nodaļai "1. FSV Mainz" ir arī [[Handbols|handbola]] un [[Galda teniss|galda tenisa]] nodaļas, kam gan ir pakārtota nozīme.<ref>{{Tīmekļa atsauce|title=Vereinsparten|url=http://www.mainz05.de/mainz05/verein/sparten.html|publisher=Mainz 05|accessdate=2015-10-02|archive-date=2013-01-24|archive-url=https://web.archive.org/web/20130124104400/http://www.mainz05.de/mainz05/verein/sparten.html}}</ref> Futbola komanda pašlaik spēlē [[Vācijas futbola Bundeslīga|Vācijas Bundeslīgā]] un mājas spēles aizvada ''[[Opel Arena]]'' stadionā.<ref>{{Tīmekļa atsauce|title=Veranstaltungen im 05 Wohnzimmer – die OPEL ARENA als Eventlocation | language=de |url=https://www.mainz05.de/stadion/opel-arena/unsere-arena/|publisher=Mainz 05|accessdate={{dat|2018|7|20||bez}}}}</ref>
+
+== Komandas sastāvs ==
+''{{Dat|2022|9|11||bez}}''.<ref>{{Tīmekļa atsauce|url=https://www.bundesliga.com/en/bundesliga/clubs/1-fsv-mainz-05/squad |title=1. FSV Mainz 05 Squad |language=en |accessdate={{dat|2020|10|13||bez}}|website=bundesliga.com}}</ref>
+{{Fs start}}
+{{Fs player|no= 1|pos=GK|nat=GER|name=[[Fins Dāmens]]}}
+{{Fs player|no= 3|pos=DF|nat=ESP|name=[[Ārons Martins]]}}
+{{Fs player|no= 4|pos=MF|nat=MAR|name=[[Ajmens Barkoks]]}}
+{{Fs player|no= 5|pos=DF|nat=GER|name=[[Maksims Leičs]]}}
+{{Fs player|no= 6|pos=MF|nat=DEU|name=[[Antons Štahs]]}}
+{{Fs player|no= 7|pos=MF|nat=KOR|name=[[Jasungs Lī]]}}
+{{Fs player|no= 8|pos=MF|nat=LUX|name=[[Leandro Bareiro]]}}
+{{Fs player|no= 9|pos=FW|nat=AUT|name=[[Karims Onisivo]]}}
+{{Fs player|no=10|pos=MF|nat=FRA|name=[[Anželo Fulžīni]]}}
+{{Fs player|no=11|pos=FW|nat=DEN|name=[[Markuss Ingvartsens]]}}
+{{Fs player|no=16|pos=DF|nat=DEU|name=[[Stefans Bells]]}}
+{{Fs player|no=17|pos=MF|nat=DEU|name=[[Niklass Tauers]]}}
+{{Fs player|no=19|pos=DF|nat=FRA|name=[[Antonī Kasi]]}}
+{{Fs player|no=20|pos=MF|nat=SUI|name=[[Edimilsons Fernandess]]}}
+{{Fs mid}}
+{{Fs player|no=21|pos=DF|nat=GER|name=[[Danijs da Kosta]]}}
+{{Fs player|no=27|pos=GK|nat=GER|name=[[Robins Centners]]}}
+{{Fs player|no=29|pos=FW|nat=GER|name=[[Jonatans Burkarts]]}}
+{{Fs player|no=30|pos=DF|nat=SUI|name=[[Silvians Vidmers]]|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no=31|pos=MF|nat=GER|name=[[Dominiks Kors]]}}
+{{Fs player|no=32|pos=GK|nat=GER|name=[[Lase Rīss]]}}
+{{Fs player|no=36|pos=FW|nat=AUT|name=[[Marlons Mustafa]]}}
+{{Fs player|no=37|pos=FW|nat=NED|name=[[Delano Burgzongs]]}}
+{{Fs player|no=38|pos=FW|nat=GER|name=[[Bens Bobziens]]}}
+{{Fs player|no=41|pos=MF|nat=GER|name=[[Eniss Šabani]]}}
+{{Fs player|no=42|pos=DF|nat=DEU|name=[[Aleksandrs Haks]]}}
+{{Fs player|no=44|pos=FW|nat=DEU|name=[[Nelsons Veipers]]}}
+{{Fs player|no=—|pos=MF|nat=DEU|name=[[Filips Šulcs]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Vācijas kauss futbolā|Vācijas kauss]]'''
+** Pusfinālisti (1): 2008–09
+* '''[[Vācijas futbola 2. Bundeslīga|2. Bundeslīga]]'''
+** Vicečempioni (1): 2008–09
+* '''Vācijas amatieru čempionāts'''
+** Čempioni (1): 1982
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{sporta ārējās saites}}
+* [http://www.mainz05.de/ Oficiālā kluba vietne] {{de ikona}} {{en ikona}} {{ko ikona}} {{jp ikona}}
+
+{{futbols-stub}}
+{{Vācija-aizmetnis}}
+{{Bundeslīga}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vācijas futbola klubi]]
+[[Kategorija:Mainca]]
+[[Kategorija:1. FSV Mainz 05]]

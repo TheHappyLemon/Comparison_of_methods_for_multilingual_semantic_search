@@ -1,0 +1,178 @@
+{{Krievijas republikas infokaste
+| nosaukums = Tambovas apgabals 
+| karte = Russia - Tambov Oblast (2008-01).svg
+| oriģ = Тамбовская область
+| karoga_attēls = Flag of Tambov Oblast.svg
+| karoga_nosaukums = Tambovas apgabala karogs
+| ģerboņa_attēls = Coat of arms of Tambov Oblast.svg
+| ģerboņa_nosaukums = Tambovas apgabala ģerbonis
+| ģerboņa_platums = 70px
+| galvaspilsēta = [[Tambova]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (96,47%)
+| platība = 34 300
+| iedzīvotāji = 1 088 437
+| iedz blīvums = 31,7
+| pilsētas = 7
+| rajoni = 23
+| fedapgabals = [[Centrālais federālais apgabals|Centrālais]]
+| url = http://regadm.tambov.ru/
+|ainavas_skats=Песковатка.jpg}}
+'''Tambovas apgabals''' ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Rjazaņas apgabals|Rjazaņas apgabalu]] ziemeļos, [[Ļipeckas apgabals|Ļipeckas apgabalu]] rietumos, [[Voroņežas apgabals|Voroņežas apgabalu]] dienvidos, [[Saratovas apgabals|Saratovas apgabalu]] dienvidaustrumos un [[Penzas apgabals|Penzas apgabalu]] austrumos. Apgabala centrs ir [[Tambova]].
+
+== Vēsture ==
+Tagadējās Tambovas apgabala zemes līdz 17. gadsimtam atradās pie [[Krievijas cariste]]s robežas ar Mazo [[Nogaju orda|Nogaju ordu]]. Pēc holandiešu inženiera [[Johans Rodenburgs|Johana Rodenburga]] projekta krievi stepē uzcēla 25 km garu zemes valni starp Kozlovas cietoksni un Čelnovajas upi.<ref>Brian Davies. Warfare, State and Society on the Black Sea Steppe, 1500-1700.</ref>
+1708. gadā šeit izveidojās [[Azovas guberņa]], ko 1725. gadā pārveidoja par [[Voroņeža]]s guberņu.
+[[Katrīna II]] 1779. gadā izveidoja Tambovas vietniecību, kuru 1796. gadā pārveidoja par Tambovas guberņu ar 12 apriņķiem. 1937. gadā nodibināja Tambovas apgabalu.
+
+== Ģeogrāfija ==
+Tambovas apgabals atrodas [[Austrumeiropas līdzenums|Austrumeiropas līdzenumā]], [[Okas-Donas līdzenums|Okas-Donas līdzenuma]] centrālajā daļā, [[mežastepe|mežastepju]] zonā. Klimats mēreni kontinentāls.
+
+Meži aizņem apmēram 1/10 apgabala teritorijas. Galvenās koku sugas - priede, ozols, kļava, liepa, osis, bērzs, apse.
+
+Pa apgabala teritoriju tek apmēram 1400 dažāda garuma upes. Lielākās apgabala upes – [[Mokša (upe)|Mokšas]] pieteka [[Cna (Mokšas pieteka)|Cna]] ([[Volgas baseins]]), [[Vorona (Hopjoras pieteka)|Vorona]], [[Bitjuga]], [[Voroņeža (upe)|Voroņeža]] un [[Savala]] ([[Donas baseins]]). Bez upēm ūdens resursi iekļauj arī 900 dīķu un ūdenskrātuvju ar kopējo tilpumu 534 milj. m<sup>3</sup>.
+
+Voronas upes ielejā Tambovas apgabalā atrodas Voroņinas rezervāts 10320 ha platībā. Rezervāts tika izveidots 1994. gadā.
+
+== Iedzīvotāji ==
+Kopējais iedzīvotāju skaits apgabalā ir 1 088 437 (2010), vidējais apdzīvojuma blīvums – 31,7 iedz./km<sup>2</sup>, pilsētas iedzīvotāju īpatsvars – 58% (2010).
+
+'''Lielākās tautas'''
+{| class="wikitable"
+|-
+! Tautība 
+! Iedzīvotāju skaits (2002)
+|-
+| krievi
+| 1136864 (96,5 %)
+|-
+| ukraiņi
+| 10809 (0,92 %)
+|-
+| armēņi
+| 4326 (0,4 %)
+|-
+| čigāni
+| 2957 (0,25 %)
+|-
+| tatāri
+| 2730 (0,23 %)
+|-
+| baltkrievi
+| 2367 (0,21 %)
+|-
+| azerbaidžāņi
+| 2307 (0,2 %)
+|-
+| vācieši
+| 1071
+|-
+| jazīdi
+| 1024
+|}
+
+== Pilsētas ==
+'''Pilsētas pēc iedzīvotāju skaita'''
+
+{| class="wikitable"
+|-
+! Pilsēta
+! Iedzīvotāju skaits (2010)
+|-
+| Tambova
+| 277 503
+|-
+| Mičurinska
+| 88 889
+|-
+| Rasskazova
+| 44 089
+|-
+| Moršanska
+| 41 060
+|-
+| Kotovska
+| 32 025
+|-
+| Uvarova
+| 26 590
+|-
+| Kirsanova
+| 17 853
+|-
+| Žerdevka
+| 15 209
+|-
+|}
+
+=== Karte ===
+{{VietasKarte+|Tambovas apgabals|width=400 |float=center|caption = Tambovas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Tambovas apgabals|lat=52.716667|long= 41.433333|position = top |label='''[[Tambova]]''' }}
+{{VietasKarte~|Tambovas apgabals|lat=51.833333|long= 41.466667|position = top |label=[[Žerdevka]] }}
+{{VietasKarte~|Tambovas apgabals|lat=52.65|long= 42.733333|position = top |label=[[Kirsanova]] }}
+{{VietasKarte~|Tambovas apgabals|lat=  52.583333|long= 41.501|position = bottom |label=[[Kotovska (Krievija)|Kotovska]] }}
+{{VietasKarte~|Tambovas apgabals|lat=  52.892222|long= 40.492778|position = top |label=[[Mičurinska]] }}
+{{VietasKarte~|Tambovas apgabals|lat=  53.45|long= 41.801|position = top |label=[[Moršanska]] }}
+{{VietasKarte~|Tambovas apgabals|lat=52.666667|long= 41.883333|position = top |label=[[Rasskazova]] }}
+{{VietasKarte~|Tambovas apgabals|lat=51.983333|long= 42.266667|position = top |label=[[Uvarova]] }}
+}}
+
+== Administratīvais iedalījums ==
+
+Tambovas apgabalā ir 352 administratīvi veidojumi, no kuriem:
+* 7 apgabala nozīmes pilsētas
+* 23 municipālie rajoni
+* 1 rajona nozīmes pilsēta
+* 12 pilsēttipa ciemati
+* 309 ciema padomes
+
+'''Apgabala nozīmes pilsētas'''
+* [[Tambova]]
+* [[Mičurinska]]
+* [[Moršanska]]
+* [[Rasskazova]]
+* [[Kotovksa]]
+* [[Uvarova]]
+* [[Kirsanova]]
+
+'''Rajona nozīmes pilsētas'''
+* [[Žerdevka]]
+
+'''Municipālie rajoni'''
+* [[Bondaru rajons]]
+* [[Gavrilovkas rajons]]
+* [[Inžavinas rajons]]
+* [[Kirsanovas rajons]]
+* [[Mičurinskas rajons]]
+* [[Mordovas rajons]]
+* [[Moršanskas rajons]]
+* [[Mučkapskas rajons]]
+* [[Ņikiforovskas rajons]]
+* [[Pervomaiskas rajons]]
+* [[Petrovskas rajons]]
+* [[Pičajevas rajons]]
+* [[Rasskazovas rajons]]
+* [[Ržaksas rajons]]
+* [[Sampuras rajons]]
+* [[Sosnovkas rajons]]
+* [[Starojurjevas rajons]]
+* [[Tambovas rajons]]
+* [[Tokarjovkas rajons]]
+* [[Umetas rajons]]
+* [[Uvarovas rajons]]
+* [[Znamenkas rajons]]
+* [[Žerdevkas rajons]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas administratīvais iedalījums}}
+{{Centrālais federālais apgabals}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Tambovas apgabals| ]]

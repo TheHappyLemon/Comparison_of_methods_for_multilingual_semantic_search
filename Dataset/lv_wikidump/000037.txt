@@ -1,0 +1,48 @@
+[[Attēls:Euclid.jpg|thumb|235px|[[Eiklīds]], sengrieķu matemātiķis, 3. gadsimtā p.m.ē. ([[Rafaēls|Rafaēla]] glezna)]]
+'''Matemātika''' ({{val-el2|mathēmatikē}} — ‘mācība’, ‘zinība’) ir [[zinātne]] par reālās pasaules skaitliskajām attiecībām un telpiskajām formām.<ref>{{lv ikona}} {{Tīmekļa atsauce | url= http://www.tezaurs.lv/lvv/?vards=Matem%C4%81tika | title= Matemātika | publisher= tezaurs.lv | accessdate= 2010-08-19 | archiveurl= https://web.archive.org/web/20110722164752/http://www.tezaurs.lv/lvv/?vards=Matem%C4%81tika | archivedate= 2011-07-22 }}</ref> <!--Tās pamatjēdzieni ir [[skaitlis]] un [[lielums]].--> Cilvēkus, kuru mērķis ir izprast un veicināt tālāku matemātikas attīstību, sauc par [[matemātiķis|matemātiķiem]].
+
+Matemātikā pētāmo objektu un procesu idealizētās īpašības ir noformulētas [[aksioma|aksiomu]] veidā, kuras tiek [[postulāts|postulētas]] par [[patiesība|patiesām]]. No tām ar loģisku spriedumu palīdzību tiek iegūti citi patiesi apgalvojumi, kurus parasti sauc par [[lemma|lemmām]] vai [[teorēma|teorēmām]], bet pašu spriedumu virkni — par [[matemātisks pierādījums|pierādījumu]]. Matemātikā jauni jēdzieni tiek ieviesti ar [[definīcija|definīciju]] palīdzību. Ja šādi iegūtā [[teorija]] apraksta kādu [[daba|dabā]] sastopamu objektu vai procesu, tad to sauc par pētāmā objekta vai procesa [[matemātisks modelis|matemātisko modeli]].
+<!--
+Ar matemātiku, lai gan paši neapzinās, cilvēki sastopas katru dienu. Bez zināšanām matemātikā pasaulē nebūtu ne [[celtne|celtņu]], ne [[ceļš|ceļu]], ne [[elektrība]]s, ne [[zinātne]]s, ne [[sports]] un tā tālāk.
+-->
+
+== Vēsture ==
+Līdz [[17. gadsimts|17. gadsimta]] vidum matemātika pētīja galvenokārt skaitļus un ģeometriskas figūras. 17. gadsimtā sākās strauja matemātikas attīstība, izmantojot mainīgā lieluma un funkcijas jēdzienus. Par atsevišķām matemātikas nozarēm izveidojās [[variāciju rēķini]], [[diferenciālģeometrija]], [[varbūtību teorija]], [[skaitļu teorija]], [[kombinatorika]]. Matemātikas attīstības mūsdienu posms sākās 19. gadsimtā, kad izveidojās [[kompleksā analīze]], [[grupu teorija]], [[neeiklīda ģeometrija]], [[matemātiskā loģika]], [[topoloģija]], [[kopu teorija]], [[funkcionālanalīze]]. 20. gadsimtā paplašinājās matemātikas lietojuma forma, ciešāki kļuva tās sakari ar citām zinātnēm. Mūsdienās ir daudzi matemātikas profesori un universitāšu pasniedzēji, kas uzskata, ka matemātika nav zinātne. Tas ir tāpēc, ka matemātikas pētāmie objekti nav atrodami realitātē. Visām citām zinātnēm pētāmie objekti ir arī realitātē.
+
+== Nozares ==
+Nozīmīgākās matemātikas nozares ir [[algebra]], [[skaitļu teorija]], [[ģeometrija]], [[algebriskā ģeometrija]], [[matemātiskā analīze]], [[loģika]], [[kombinatorika]], [[teorētiskā datorzinātne]], [[varbūtību teorija]] un [[matemātiskā fizika]].<ref>Skatīt Gowers, Barrow-Green, Leader, 2. The Main Branches of Mathematics, [http://books.google.com/books?id=Xn_ie19FTBUC&pg=PA3 3. lpp.]</ref>
+
+=== Aritmētika ===
+{{Pamatraksts|aritmētika}}
+Aritmētika ir vecākā un viselementārākā matemātikas nozare, kuru izmanto gandrīz jebkurš cilvēks, sākot no vienkāršu ikdienas matemātisku darbību veikšanas līdz pat moderniem [[zinātne]]s un [[uzņēmējdarbība]]s aprēķiniem. Tāpat aritmētiku attiecina uz matemātikas nozari (vai priekšteci), kurā uzskaitītas elementāras konkrētu matemātisko darbību īpašības ar skaitļiem.
+
+=== Algebra ===
+{{Pamatraksts|algebra}}
+Algebra ir viena no matemātikas pamatnozarēm. Dažreiz saka, ka algebra ir "aritmētika ar burtiem". Atšķirībā no aritmētikas, kur darbības tiek veiktas ar konkrētiem skaitļiem, algebrā lielums var būt mainīgs. Būtībā algebra ir zinātne par [[kopa|kopām]] ar operācijām, kas zināmā mērā analogas darbībām ar skaitļiem. Algebrisku sistēmu piemēri ir [[grupa (matemātika)|grupas]], lauki, [[vektoru telpa]]s, gredzeni, struktūras.
+
+=== Ģeometrija ===
+{{Pamatraksts|ģeometrija}}
+Ģeometrija ir matemātikas nozare, kurā tiek pētītas [[telpa]]s īpašības, kā arī [[ģeometriska figūra|ģeometrisku figūru]] izmēri, formas un savstarpējais novietojums telpā vai [[plakne|plaknē]].
+
+== Skatīt arī ==
+* [[Elementārā matemātika]]
+* [[Augstākā matemātika]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Literatūra ==
+{{refbegin}}
+* {{Grāmatas atsauce | first1 = Timothy | last1 = Gowers | first2 = June | last2 = Barrow-Green | first3 = Imre | last3 = Leader | title = The Princeton companion to mathematics | url = https://archive.org/details/princetoncompani0000unse_i8p7 | publisher = Princeton University Press | year = 2008 | isbn = 978-0-69-111880-2}}.
+{{refend}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20110722161651/http://www.5vsk.jelgava.lv/documents/Matematikas_formulas.pdf Matemātikas formulas], Jelgavas 5. vidusskola.
+
+{{Matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Matemātika| ]]

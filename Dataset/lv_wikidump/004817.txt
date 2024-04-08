@@ -1,0 +1,68 @@
+{{Apdzīvotas vietas infokaste
+| name                  = Espo
+| official_name         = ''Espoo''
+| settlement_type       = pilsēta
+|image_flag             = 
+|image_shield           = Espoo.vaakuna.svg
+|shield_size            = 87px
+|flag_size              = 
+|subdivision_name1      = [[Ūsimā]]
+|leader_name            = 
+|area_total_km2         = 528.03
+|population_total       = 297354
+|population_footnotes   = 
+|population_as_of       = 2021
+|population_density_km2 = auto
+|latd=60|latm=12|lats=20|latNS=N|longd=24|longm=39|longs=20|longEW=E
+|image_skyline          = Kaakkoista Espoota 23 kesä 2009.jpg
+|imagesize              = 200px
+|image_caption          = 
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{FIN}}
+|subdivision_type1      = [[Somijas administratīvais iedalījums|Reģions]]
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|website                = {{url|http://www.espoo.fi/}}
+|established_title      = Pilsētas tiesības
+|established_date       = [[1972]]. gads
+|pushpin_map            = Somija
+|pushpin_label_position = 
+|pushpin_mapsize        = 200
+|pushpin_map_caption    = Atrašanās vieta Somijā
+|other_name             = 
+|}}
+
+'''Espo''' ({{val|fi|Espoo}}, {{val|sv|Esbo}}) ir [[Somija]]s otrā lielākā pilsēta. Atrodas uz rietumiem no [[Helsinki]]em un ietilpst Helsinku aglomerācijā.
+
+Espo ir jauna pilsēta, kas strauji attīstās. Tai nav izteikta centra, un tā sastāv no atsevišķām daļām - Espo Centrs (''Espoon keskus''), Esponlahti (''Espoonlahti''), Kalajervi (''Kalajärvi''), Kauklahti (''Kauklahti''), Lepenvāra (''Leppävaara''), Matinkile-Olari (''Matinkylä-Olari'') un Tapiola (''Tapiola'').
+
+Espo atrodas [[lto universitāte]] (''Teknillinen korkeakoulu'') un [[Somijas Tehnoloģiskās pētniecības centrs]] (''Valtion teknillinen tutkimuskeskus''). Šeit galvenās mītnes izvietojuši daudzi uzņēmumi, piemēram, ''[[Fortum]]'', ''[[KONE]]'', ''[[Neste]]'', ''[[Nokia]]'', ''[[TietoEVRY]]''.
+
+== Vēsture ==
+Espo vārds pirmoreiz rakstos minēts 1431. gadā. Līdz XX gadsimta 40. gadiem Espo bija neliels ciematiņš, kad attīstoties tuvējiem Helsinkiem, arī Espo strauji sāka augt.
+
+== Cilvēki ==
+Espo dzimuši:
+* [[Jirki Jervilehto]] (''Jyrki Järvilehto''), ''[[Formula 1]]'' pilots (dzimis 1966. gadā)
+* [[Jonsu]], īstajā vārdā Johanna Salomā (''Johanna Salomaa'') — mūziķe un dziedātāja (dzimis 1984. gadā)
+* [[Aleksi Laiho]] (''Alexi Laiho''), mūziķis (dzimis 1979. gadā)
+* [[Peka Lundmarks]] (''Pekka Lundmark''), Somijas uzņēmējs (dzimis 1963. gadā)
+* [[Kimi Reikenens]] (''Kimi Räikkönen''), ''[[Formula 1]]'' pilots (dzimis 1979. gadā)
+
+== Sports ==
+* [[FC Honka Espoo]] (futbola klubs).
+* Tapiolan Urheilupuisto stadions (ietilpība: 6000).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Espo| ]]
+[[Kategorija:Somijas pilsētas]]

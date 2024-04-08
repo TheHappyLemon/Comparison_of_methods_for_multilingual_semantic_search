@@ -1,0 +1,31 @@
+{{Navbox
+|name=Ungārijas meģes
+|title ={{flaga|Ungārija}} [[Ungārija]]s [[Ungārijas administratīvais iedalījums|meģes]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Bāčas-Kiškunas meģe|Bāčas-Kiškunas]]
+* [[Baraņas meģe|Baraņas]]
+* [[Bēkēšas meģe|Bēkēšas]]
+* [[Boršodas-Abaūjas-Zemplēna meģe|Boršodas-Abaūjas-Zemplēna]]
+* [[Čongrādas meģe|Čongrādas]]
+* [[Fejēras meģe|Fejēras]]
+* [[Ģēras-Mošonas-Šopronas meģe|Ģēras-Mošonas-Šopronas]]
+* [[Hajdū-Biharas meģe|Hajdū-Biharas]]
+* [[Hevešas meģe|Hevešas]]
+* [[Jāsas-Naģkunas-Solnokas meģe|Jāsas-Naģkunas-Solnokas]]
+* [[Komāromas-Estergomas meģe|Komāromas-Estergomas]]
+* [[Nogrādas meģe|Nogrādas]]
+* [[Peštas meģe|Peštas]]
+* [[Sabolčas-Satmāras-Beregas meģe|Sabolčas-Satmāras-Beregas]]
+* [[Šomoģas meģe|Šomoģas]]
+* [[Tolnas meģe|Tolnas]]
+* [[Vašas meģe|Vašas]]
+* [[Vesprēmas meģe|Vesprēmas]]
+* [[Zalas meģe|Zalas]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

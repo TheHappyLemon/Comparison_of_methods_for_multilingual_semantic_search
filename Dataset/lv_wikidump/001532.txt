@@ -1,0 +1,49 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Ftalskābe.svg|450px]]<br />Ftalskābes izomēru struktūrformulas 
+|ķīmiskā formula=C<sub>6</sub>H<sub>4</sub>(COOH)<sub>2</sub>
+|molmasa=166,14
+|blīvums=''o''-ftalskābei 1593 kg/m<sup>3</sup><br />''m''-ftalskābei 1526 kg/m<sup>3</sup><br />''p''-ftalskābei 1522
+|kušanas temperatūra=''o''-ftalskābei 210&nbsp;°C<br />''m''-ftalskābei 346&nbsp;°C<br />''p''-ftalskābei 402&nbsp;°C 
+|viršanas temperatūra=''o''-ftalskābe - sadalās<br />''m''-ftalskābe - sublimējas<br />''p''-ftalskābe - sublimējas
+}}
+'''Ftalskābe''' (benzoldikarbonskābe, C<sub>6</sub>H<sub>4</sub>(COOH)<sub>2</sub>) ir vienkāršākā aromātiskā divvērtīgā [[karbonskābes|karbonskābe]]. Visi ftalskābes [[izomēri]] ir bezkrāsainas cietas vielas, kas nešķīst ūdenī (relatīvi labāk šķīst ''o''-ftalskābe). Ftalskābes sāļus un esterus sauc par '''ftalātiem'''.
+
+Ftalskābei ir 3 izomēri:
+* ''o''-ftalskābe jeb vienkārši ftalskābe (arī 2-ftalskābe);
+* ''m''-ftalskābe (izoftalskābe, 3-ftalskābe);
+* ''p''-ftalskābe jeb tereftalskābe (arī 4-ftalskābe).
+Nozīmīgākie izomēri ir ''o''- un ''p''-ftalskābe.
+
+== Vēsture ==
+''o''-Ftalskābi atklājis franču ķīmiķis [[Ogists Lorāns]] 1836. gadā, oksidējot [[naftalīns|naftalīna]] 1,2,3,4-tetrahlorīdu ar [[slāpekļskābe|slāpekļskābi]]. Sākumā viņš uzskatīja, ka ir atklājis naftalīna atvasinājumu un nosauca iegūto vielu par naftalīnskābi. Kad šveiciešu ķīmiķis [[Žans Šarls Galisards de Mariņaks]] noteica šīs vielas formulu un norādīja uz kļūdu, Lorāns deva ftalskābei tagadējo nosaukumu. Dažreiz ftalskābi nepareizi sauc par ftālskābi.
+
+== Atrašanās dabā ==
+''o''-Ftalskābe atrasta miega [[magones]] (''Papaver somniferum'') lapās un augļos.
+
+== Iegūšana ==
+''o''-Ftalskābi iegūst, oksidējot [[naftalīns|naftalīnu]] ar [[sērskābe|sērskābi]] [[dzīvsudrabs|dzīvsudraba]] sāļu klātienē. Vēlāk atklāta naftalīna tiešās oksidēšanas metode ar [[gaiss|gaisa]] [[skābeklis|skābekli]] [[molibdēns|molibdēna]] vai [[Vanādijs|vanādija]] oksīdu klātienē, kā arī, oksidējot ''o''-[[ksilols|ksilolu]].<ref>O. Neilands. Organiskā ķīmija. R:, Zvaigzne, 1977, 553. lpp.</ref>
+
+Tereftalskābi iegūst, oksidējot ''p''-[[ksilols|ksilolu]] vai ''p''-[[toluilskābe|toluilskābi]].
+
+Izoftalskābi var iegūt, oksidējot ''m''-ksilolu ar [[kālija permanganāts|kālija permanganātu]].
+
+== Īpašības ==
+''o''-Ftalskābe ļoti viegli veido iekšējo [[ftalskābes anhidrīds|anhidrīdu]] karsējot vai ūdeni atņemošu vielu klātienē - tas izskaidrojams ar tās molekulas struktūru (blakus novietotām [[karboksilgrupa|karboksilgrupām]]). Ftalskābes anhidrīdam ir liela rūpnieciska nozīme.
+
+Pārējie izomēri anhidrīdus neveido, bet karsējot sublimējas.
+
+== Izmantošana ==
+''o''-Ftalskābi lieto krāsu bāzes polimēru ieguvei (poli[[esteri]] ar [[glicerīns|glicerīnu]] un [[pentaeritrīts|pentaeritrītu]]), polimēru plastifikatoriem ([[dibutilftalāts]]), odu un ērču atbaidīšanas līdzekļiem ([[dimetilftalāts]]).
+
+Tereftalskābi lieto galvenokārt polimēru ieguvei (PET jeb [[polietilēntereftalāts]]).
+
+Izoftalskābei tikpat kā nav praktiskas nozīmes.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Aromātiskās karbonskābes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Karbonskābes]]

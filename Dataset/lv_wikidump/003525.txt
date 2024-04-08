@@ -1,0 +1,47 @@
+{{Apdzīvotas vietas infokaste
+| name = Bilgoraja
+| image_skyline = Biłgoraj - Zagroda sitarska.jpg
+| imagesize = 300px
+| image_caption = Sietu izgatavošanas muzejs Bilgorajā
+| image_flag = POL Biłgoraj flag.svg
+| image_shield = POL Biłgoraj COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Ļubļinas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Bilgorajas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1578. gads
+| area_total_km2 = 21.10
+| population_as_of = 2006
+| population_total = 27225
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 33 
+| lats = 0 
+| latNS = N 
+| longd = 22 
+| longm = 44 
+| longs = 0
+| longEW = E
+| elevation_m = 212
+| website = http://www.bilgoraj.pl/ }}
+
+'''Bilgoraja''' ({{val|pl|Biłgoraj}}) ir pilsēta [[Polija]]s austrumos, [[Ļubļinas vojevodiste|Ļubļinas vojevodistē]], apmēram 80 km no [[Ukraina]]s robežas uz dienvidrietumiem no [[Zamosca]]s.
+
+[[Ebreji|Ebreju]] rakstnieka [[Izraēls Džošua Zingers|Izraēla Džošua Zingera]] (''Israel Joshua Singer'', [[1893]]—[[1944]]) dzimtā pilsēta. Viņa brālis bija Nobela prēmijas literatūrā laurāts [[Īzaks Baševiss Zingers]], kurš jaunības dienas arī pavadīja šajā pilsētā.
+
+{{Commons category|Biłgoraj|Bilgoraja}}
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ļubļinas vojevodistes pilsētas|Bilgoraja]]

@@ -1,0 +1,91 @@
+{{Vieglatlēta infokaste
+ |           vārds = Ingus Janevics
+ |      vārds_orig = 
+ |          attēls = 
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1986|4|29}}
+ |         dz_viet = {{Vieta|PSRS|Latvijas PSR|Ventspils}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{LAT}}
+ |     dzīvesvieta = 
+ |          garums = 191 [[Centimetrs|cm]]
+ |           svars = 70 [[Kilograms|kg]]
+ |         iesauka = 
+ |       izglītība = [[LSPA]]
+<!------ Profesionālā informācija ------>
+ |            disc = Soļošana
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 1 ([[2008. gada Vasaras Olimpiskās spēles|2008]])
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 
+ |           PR1_d = 
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = 
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Ingus Janevics''' (dzimis {{dat|1986|4|29}} [[Ventspils|Ventspilī]]) ir [[latvieši|latviešu]] [[vieglatlēts]], startē [[soļošana]]s sacensībās.
+
+[[2006. gada Eiropas čempionāts vieglatlētikā|2006. gada Eiropas čempionātā]] viņš ierindojās 13. vietā 50 km soļošanā ar rezultātu 3.56:32, kas tobrīd bija sportista personiskais rekords.<ref>[http://sportacentrs.com/vieglatletika/20060810_ingus_janevics_izcina_13_vietu Ingus Janevics izcīna 13. vietu], sportacentrs.com</ref> [[2007. gada Pasaules čempionāts vieglatlētikā|2007. gada Pasaules čempionātā]] Osakā viņš nefinišēja 50 km distancē, tāpat nefinišēja [[2009. gada Pasaules čempionāts vieglatlētikā|2009. gada Pasaules čempionātā]] 50 km distancē.
+
+Piedalījies [[2008. gada Vasaras Olimpiskās spēles|2008. gada Vasaras Olimpiskajās spēlēs]], kurās izcīnīja 42. vietu 50 km soļošanā.
+
+== Personiskie rekordi ==
+{| class="wikitable" style="width: 50%; font-size: 95%;" cellpadding="2"
+! Disciplīna !! Rezultāts !! Datums !! Vieta
+|-
+| 20 km soļošana ||align="center"| 1.23:19 || {{dat|2007|9|15|SK|bez}} || {{Vieta|Lietuva|Alīta}}
+|-
+| 50 km soļošana ||align="center"| 3.49:50 || {{dat|2008|5|11|SK|bez}} || {{Vieta|Krievija|Čeboksari}}
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+* [http://www.pekina.lv/lv/athletes/profile.php?select=9&id=37 Pekina 2008 profils]{{Novecojusi saite}}
+* Intervija: [http://sportacentrs.com/vieglatletika/intervija/20070824_ingus_janevics_osaka_ceru_uz_personisko Ingus Janevics: "Osakā ceru uz personisko rekordu"], sportacentrs.com
+
+
+
+{{Olimpisko spēļu dalībnieks-aizmetnis}}
+{{Latvijas sportists-aizmetnis}}
+{{vieglatlēts-aizmetnis}}
+{{Latvija 2008 VOS}}
+{{DEFAULTSORT:Janevics, Ingus}}
+
+[[Kategorija:1986. gadā dzimušie]]
+[[Kategorija:Ventspilī dzimušie]]
+[[Kategorija:Latvijas vieglatlēti]]
+[[Kategorija:2008. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:Soļotāji]]

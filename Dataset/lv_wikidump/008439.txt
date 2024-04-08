@@ -1,0 +1,28 @@
+{{vikisaites+}}
+'''Radioviļņi''' ir [[elektromagnētiskie viļņi]] ar viļņa garumu no 10 k[[metrs|m]] līdz 1 mm (Atbilstošās [[Frekvence|frekvences]] — 30 k[[Hercs (mērvienība)|Hz]] līdz 300 GHz), kurus var radīt, pievadot piemērotai [[antena]]i atbilstošas frekvences [[maiņstrāva|maiņstrāvu]]. Samazinoties viļņa garumam, samazinās nepieciešamais antenas izmērs. Aparatūru, kas darbojas ar zemākām frekvencēm, parasti uzbūvēt ir vieglāk. 
+
+== Izmantošana ==
+Radioviļņus parasti lieto sakariem.
+
+==== Radiosakariem lietotās frekvences: ====
+* [[Garie radioviļņi|Garie viļņi]] — 150—280 kHz;
+* [[Vidējie radioviļņi|Vidējie viļņi]] — 530—1610 kHz;
+* [[Radio īsviļņi|Īsviļņi]] — 1,8—29,7 MHz;
+* [[Radio ultraīsviļņi|Ultraīsviļņi]] — ≈50—130 MHz, bet Latvijā — 88—108 MHz;
+* [[Radio decimetru viļņi|Decimetru viļņi]] — 300—1000 MHz;
+* [[Mikroviļņi]] — 1—300 GHz;
+
+
+[[Televīzija|Televīzijai]] lietotās frekvences atbilst ultraīsviļņiem un ir no ≈50 līdz 800MHz. 
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+{{EMspektrs}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektromagnētiskais spektrs]]

@@ -1,0 +1,55 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 43
+|             5. čaula = 2
+|             4. čaula = 13
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Tc
+|             atommasa = 98
+|   valences elektroni = [Kr]4d<sup>5</sup>5s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Tc-TableImage.svg|250px]]
+|               attēls = [[Attēls:Technetium.jpg|170px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Tc99minjektion.jpg|170px]]<br />Tehnēcija paraugi un tehnēciju-99 saturoša preparāta injicēšana ar ekranētu šļirci
+|  oksidēšanas pakāpes = +2, +4, +5, +6, +7
+|  elektronegativitāte = 1,9
+|              blīvums = 11 000
+|  kušanas temperatūra = 2430 K (2157&nbsp;°C)
+| viršanas temperatūra = 4538 K (4265&nbsp;°C)
+}}
+
+'''Tehnēcijs''' ({{val|la|technetium}}) ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Tc''' un [[atomskaitlis|atomskaitli]] 43. Tas ir sintētisks elements — iegūts mākslīgi [[kodolreaktors|kodolreaktoros]]. Dabā tehnēcijs ārkārtīgi mazos daudzumos ir sastopams [[urāns (elements)|urāna]] rūdās. Tehnēcijs ir sudraboti pelēcīgs, kristālisks [[pārejas metāls]], kas atrodas vienā apakšgrupā ar [[rēnijs|rēniju]] un [[mangāns|mangānu]], tādēļ to ķīmiskās īpašības ir samērā līdzīgas. Tehnēcijs ir [[radioaktivitāte|radioaktīvs]]. Tehnēcijam ir iespējamas [[oksidēšanas pakāpe|oksidēšanas pakāpes]] +2, +4, +5, +6 un +7. Izplatītākie savienojumi ir [[tehnēcija dioksīds|TcO<sub>2</sub>]] un [[tehnēcija (VII) oksīds|Tc<sub>2</sub>O<sub>7</sub>]], oksidējošā vidē eksistē arī [[pertehnāts|pertehnāta]] jons TcO<sub>4</sub><sup>−</sup>. Tehnēciju galvenokārt iegūst [[atomreaktors|atomreaktoros]] no [[urāns (elements)|urāna]]-235. Pirmais mākslīgi iegūtais ķīmiskais elements.<ref name="lpe">{{LPE|9|551}}</ref>
+
+== Vēsture ==
+Pirms elements tika atklāts, daudzas elementa Nr.43 īpašības 1871. gadā paredzēja [[Dmitrijs Mendeļejevs]]. Mendeļejevs atstāja šim elementam vietu paša veidotajā [[periodiskā tabula|periodiskajā tabulā]] un nosauca to par '''ekamangānu''' (Em). 1925. gadā tika ziņots, ka ir atklāts Mendeļejeva paredzētais ķīmiskais elements.<ref name="webelements"/> Tam pat tika iedots nosaukums — '''mazūrijs''' (''masurium''), tomēr šis ziņojums netika apstiprināts.<ref name="webelements"/> Tikai 1937. gadā itāļu mineralogs [[Karlo Perrjers]] (''Carlo Perrier'') un fiziķis [[Emīlio Segrē]] (''Emilio Segrè'') ieguva tehnēcija izotopu <sup>97</sup>Tc. To viņi ieguva no [[molibdēns|molibdēna]] parauga, kas tika bombardēts ar [[deitrons|deitroniem]]. Tā kā šo elementu ieguva mākslīgi, to nosauca par tehnēciju, jo [[grieķu valoda]]s vārds {{gree|τεχνητός}} (''technētos'') nozīmē ‘mākslīgs’.<ref name="svešvārdi">{{Grāmatas atsauce|title= Svešvārdu vārdnīca|edition= trešais|year= 2007|publisher= Jumava|isbn= 978-9984-38-332-3|page=779}}</ref> 1962. gadā tehnēcija izotopu <sup>99</sup>Tc atrada arī [[urāns (elements)|urāna]] rūdās Āfrikā.<ref name="Los Alamos"/>
+
+== Atrašanās dabā ==
+Tehnēcijas dabā ārkārtīgi mazos daudzumos ir sastopams [[urāns (elements)|urāna]] rūdās. Tehnēcijs ir konstatēts S, M un N tipa [[zvaigzne|zvaigžņu]] spektros.<ref name="Los Alamos"/>
+
+=== Izotopi ===
+Tehnēcijam ir 36 mākslīgi [[izotops|izotopi]], kuru [[masas skaitlis]] ir no 85 līdz 120.<ref name="jlab"/> Visi tā izotopi ir nestabili (tas ir pats vieglākais no šādiem elementiem). Visstabilākie tehnēcija izotopi ir <sup>97</sup>Tc un <sup>98</sup>Tc, kuru [[pussabrukšanas periods|pussabrukšanas periodi]] ir 4,2 miljoni gadu.<ref name="jlab"/> Arī izotopam <sup>99</sup>Tc pussabrukšanas periods ir salīdzinoši liels — 211 tūkstoši gadu.<ref name="jlab"/>
+
+== Izmantošana ==
+Tehnēcija izotopu <sup>99</sup>Tc (tā metastabilo [[kodolu izomērija|kodola izomēru]] ar [[pussabrukšanas periods|pussabrukšanas periodu]] 6 stundas) plaši izmanto [[medicīna|medicīnā]] diagnosticējošajām pārbaudēm ([[scintigrāfija]]i). Tas tiek lietots par [[bēta starojums|bēta starojuma]] avotu.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="webelements">{{tīmekļa atsauce | url= http://www.webelements.com/technetium/history.html | title= Technetium - historical information | publisher= Webelements.com | accessdate= 2014. gada 12. novembrī | language= angliski}}</ref>
+
+<ref name="Los Alamos">{{tīmekļa atsauce | url= http://periodic.lanl.gov/43.shtml | title= Technetium | publisher= Los Alamos National Laboratory | accessdate= 2014. gada 12. novembrī | language= angliski}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso043.html | title= Isotopes of the Element Technetium | publisher= Jefferson Lab | accessdate= 2014. gada 12. novembrī | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

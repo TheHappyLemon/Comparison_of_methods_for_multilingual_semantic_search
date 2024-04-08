@@ -1,0 +1,97 @@
+{{Latvijas novada infokaste
+| nosaukums         = Skujenes pagasts
+| karte             = Skujenes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = LVA Skujenes pagasts COA.png
+| ģerboņa_nosaukums = Skujenes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Skujenes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Skujene
+| platība           = 176,8
+| iedzīvotāji       = 842<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 842 / 176.8 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         =
+}}
+
+'''Skujenes pagasts''' ir viena no [[Cēsu novads|Cēsu novada]] administratīvajām teritorijām tā austrumos. Robežojas ar [[Amatas pagasts|Amatas]], [[Vaives pagasts|Vaives]], [[Taurenes pagasts|Taurenes]], [[Kaives pagasts|Kaives]], [[Zaubes pagasts|Zaubes]] un [[Nītaures pagasts|Nītaures]] pagastiem. Pagasta centrs atrodas [[Skujene|Skujenē]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Alupīte]], [[Amata]], [[Dzirkstupe]], [[Dzirnupe (Amatas pieteka)|Dzirnupe]], [[Mellupe (Dzirnupes pieteka)|Mellupe]], [[Pērkoņupīte]], [[Pīsla]].
+
+==== Ezeri ====
+[[Kosas ezers]], [[Sarkaņu ezers]].
+
+== Vēsture ==
+1935. gadā Skujenes pagasta platība bija 64 km² un tajā bija 1276 iedzīvotāji.<ref>V.Salnais, A. Maldups. Pagastu apraksti (Pēc 1935. gada tautas skaitīšanas materiāliem). Valsts statistikas pārvalde. Rīga: 1935.</ref> 1945. gadā pagastā izveidoja Skujenes un [[Kaives ciems|Kaives]] ciemus, bet pagastu 1949. gadā likvidēja. Kaives ciemu 1949. gadā pievienoja [[Leimaņu ciems|Leimaņu ciemam]], bet 1965. gadā atjaunoja. Skujenes ciemam 1954. gadā pievienoja [[Dūmkalna ciems|Dūmkalna ciemu]]. Skujenes ciemu 1959. gadā pievieno Leimaņu ciemam, izņemot [[p/s]] "Zaube" teritoriju, ko pievieno [[Kliģenes ciems|Kliģenes ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1964. gadā Leimaņu ciemu pārdēvē par Skujenes ciemu. 1965. gadā ciemam pievieno [[Kosas ciems|Kosas]], [[Sērmūkšu ciems|Sērmūkšu]] un [[Zaubes ciems|Zaubes]] ciemu p/s "Skujene" teritoriju, bet Kaives ciemam pievieno Skujenes ciema kolhozu "Drošais ceļš" un "Kaive" teritorijas. 1975. gadā tiek pievienota daļa Sērmūkšu ciema. 1990. gadā ciemu pārdēvē par pagastu.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 2009. gadā pagastu kā administratīvu teritoriju iekļauj [[Amatas novads|Amatas novadā]]. 2021. gadā Amatas novadu iekļāva [[Cēsu novads|Cēsu novadā]].
+
+=== Pieminekļi ===
+==== Valsts nozīmes ====
+* Drapmaņu senkapi<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Skujenes+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* [[Skujenes pils|Skujenes viduslaiku pils]]
+* Taurupju senkapi
+* Ģībēnu senkapi
+==== Vietējas nozīmes ====
+* Ežu (Māļu) pareizticīgo baznīca
+* Skujenes luterāņu baznīca
+* Skujenes baznīcas viduslaiku kapsēta
+* Sišu senkapi
+* Māļu viduslaiku kapsēta
+* Ķiberes senkapi (Ķiberes kalniņš)
+* Drapmaņu Baznīcas kalns - kulta vieta
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2700
+|1959|1800
+|1969|1620
+|1979|1691
+|1989|1132
+|2000|1105
+|2011|850
+|2021|829
+|2023|810
+}}
+
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: [[Ģērķēni]], [[Kosa (ciems)|Kosa]], [[Māļi]], [[Pērkoņi]], [[Sērmūkši]], '''[[Skujene]]''', [[Vecskujene]].
+
+=== Ievērojamas personības ===
+* [[Ādolfs Erss]] (1885—1945), žurnālists un rakstnieks.
+* [[Uldis Deisons]] (1932—2018), latviešu žurnālists, raidījumu vadītājs un diktors Latvijas Televīzijā un radio
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Amatas novads}}
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Skujenes pagasts| ]]

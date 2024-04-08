@@ -1,0 +1,54 @@
+'''Nukleīnskābes''' jeb '''nukleoskābes''' ir polimēri, kurus veido savā starpā ar fosforskābes [[esteri|diestera]] saitēm lineāri savienoti [[nukleotīds|nukleotīdi]]. Nukleīnskābes nodrošina ģenētiskās informācijas glabāšanu, ekspresiju un nodošanu nākamajām šūnu paaudzēm ar [[replikācija]]s, [[transkripcija (ģenētika)|transkripcijas]] un [[translācija]]s mehānismu palīdzību. Izšķir ribonukleīnskābes ([[RNS]]) un dezoksiribonukleīnskābes ([[DNS]]).
+
+=== Nukleotīdi ===
+Nukleīnskābju monomēri ir nukleotīdi. Tie sastāv no 3 komponentiem:
+* Heterocikliska slāpekļa bāze ([[purīns|purīna]] ([[adenīns]] un [[guanīns]]) vai [[pirimidīns|pirimidīna]] ([[timīns]], [[uracils]] un [[citozīns]]) atvasinājums)
+* [[ogļhidrāti|Ogļhidrāts]] (pentoze) (DNS — [[dezoksiriboze]]; RNS — [[riboze]])
+* [[Fosforskābe]]s atlikums
+
+== Nukleīnskābju veidi ==
+* [[DNS|Dezoksiribonukleīnskābes]] (DNS)
+* [[RNS|Ribonukleīnskābes]] (RNS)
+
+== DNS un RNS salīdzinājums ==
+Izšķir divu veidu nukleīnskābes: dezoksiribonukleīnskābi (DNS) un [[ribonukleīnskābe|ribonukleīnskābi]] (RNS). Tabulā ir izveidots abu skābju salīdzinājums.
+{| class="wikitable"
+|-
+!
+! DNS
+! RNS
+|-
+| [[nukleotīdi]]
+| [[adenīns]] (A)
+| [[adenīns]] (A)
+|-
+|
+| [[timīns]] (T)
+| [[uracils]] (U)
+|-
+|
+| [[citozīns]] (C)
+| [[citozīns]] (C)
+|-
+|
+| [[guanīns]] (G)
+| [[guanīns]] (G)
+|-
+| [[ogļhidrāti|Ogļhidrāts]]
+| [[dezoksiriboze]]
+| [[riboze]]
+|-
+| skābe
+| [[fosforskābe|H<sub>3</sub>PO<sub>4</sub>]]
+| [[fosforskābe|H<sub>3</sub>PO<sub>4</sub>]]
+|-
+| molekulas uzbūve
+| dubultspirāle A-T; C-G
+| nukleotīdu virkne A-U; C-G
+|}
+
+{{bioķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bioķīmija]]

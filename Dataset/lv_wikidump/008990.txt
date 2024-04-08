@@ -1,0 +1,61 @@
+{{Grēdas infokaste
+ |nosaukums              = Pireneji
+ |attēls                 = Pyrenees topographic map-en.svg
+ |attēla_platums         = 275px
+ |paraksts               = Pireneju topogrāfiskā karte (Francijas un Spānijas robeža)
+  |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+  |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+  |region                = 
+  |CoordScale            =
+ |kontinents             = [[Eirāzija]]
+ |novietojums            = 
+ |valstis                = {{FRA}}, {{ESP}}, {{AND}}
+ |ģeo_apgabals           = 
+ |atdala_ko              = [[Pireneju pussala|Pireneju pussalu]]
+ |atdala_no              = [[Eiropa]]s
+ |ietilpst               = 
+ |sastāv                 = 
+ |garums                 = 
+ |platums                = 
+ |kalns                  = [[Aneto smaile]]
+ |augstums               = 3404
+ |pilsētas               = 
+ |kategorijas            = nē
+}}
+
+'''Pireneji''' ({{val|fr|Pyrénées}}, {{val|es|Pirineos}}, {{val|ca|Pirineus}}, {{val|oc|Pirenèus}}) ir [[kalnu grēda]] [[Eiropa]]s dienvidrietumos, kas veido dabisku robežu starp [[Spānija|Spāniju]] un [[Francija|Franciju]]. Kalnos atrodas arī maza pundurvalsts — [[Andora]]. Kalnu grēda atdala [[Pireneju pussala|Pireneju pussalu]] no pārējās Eiropas, stiepjas no [[Biskajas līcis|Biskajas līča]] līdz [[Vidusjūra]]i 490 km garumā. Augstākā virsotne ir [[Aneto smaile]] Maladetas masīvā, 3404 m virs jūras līmeņa. Ģeoloģiski Pireneji veidojušies [[terciārais periods|terciārajā periodā]] (ģeoloģisks periods, kas sākās pirms 66 miljoniem gadu un beidzās pirms 2 miljoniem gadu). Tā pamatā ir [[granīts]], ielejās atrodams arī [[kaļķakmens]]. Sniegs klāj kalnus sākot ar aptuveni 1800 metriem virs jūras līmeņa.<ref>{{tīmekļa atsauce | url= http://www.midi-france.info/0711b_pyrenees.htm | title= Pyrenees Mountains | publisher= Languedoc | accessdate= 2019. gada 7. oktobrī | language= en}}</ref> Alpīnie [[ledājs|ledāji]] klāj aptuveni 15 km² lielu teritoriju.
+
+== Reljefs ==
+Pēc augstuma virs jūras līmeņa Pireneji otra lielākā kalnu grēda [[Rietumeiropa|Rietumeiropā]] aiz [[Alpi]]em. Kalnu vidējais augstums ir no 1500 līdz 2000 metriem virs jūras līmeņa. Augstākā virsotne ir [[Aneto smaile]] (3404 m virs jūras līmeņa).
+
+=== Fizioģeogrāfiskais iedalījums ===
+Pireneji iedalās [[Rietumpireneji|Rietumpirenejos]], [[Centrālie Pireneji|Centrālajos Pirenejos]] un [[Austrumpireneji (kalni)|Austrumpirenejos]].
+
+* Rietumpireneji ir vidēji augsti, sastāv no [[kaļķakmens]], vērojami aktīvi [[karsta process|karsta procesi]], arī atsevišķi kristālisku iežu masīvi. Rietumpireneji stiepjas no [[Atlantijas okeāns|Atlantijas okeāna]] līdz Somportas pārejai.
+* Centrālie Pireneji stiepjas no Somportas pārejas līdz Karlitas smailei. Šī ir augstākā Pireneju daļa. Sastāv galvenokārt no kristāliskajiem iežiem — [[granīts|granīta]], [[gneiss|gneisa]], [[slāneklis|slānekļa]], [[smilšakmens]]. Alpīnās reljefa formas. Vēl 1980. gados ledāji šeit klāja ap 40 km². Mūsdienās ap 15 km².
+* Austrumpireneji stiepjas no Karlitas smailes līdz [[Vidusjūra]]i. Starpkalnu ieplakas. Kristālisko iežu, smilšakmeņu, kaļķakmens masīvi un grēdas.
+
+== Klimats ==
+[[Klimats]] Pirenejos ir maigs un mitrs. Populārs tūrisma un ziemas sporta objekts. Kūrorti ar [[karstie avoti|karstiem avotiem]]. Uz ziemeļiem no Pirenejiem valda [[mērenā josla|mērenais klimats]], bet uz dienvidiem — [[Vidusjūras klimats|Vidusjūras klimata]] pazīmes. Ziemeļos un rietumos zemāk par 2000 metriem virs jūras līmeņa aug [[dižskābarži|dižskābaržu]] un [[skujkoki|skujkoku]] meži un daudz pļavas, savukārt dienvidu pusei raksturīgi mūžzaļo [[cietlapji|cietlapju]] meži un krūmāji.
+
+Kalnu ziemeļu pusē gada [[nokrišņu daudzums]] ir 1500–2400 mm, bet dienvidu pusē — 500–700 mm.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.aliens.lv/p-zemes-juras/8648-pireneju-kalni | title= Pireneju kalni | publisher= Aliens.lv}}
+
+{{Francija-aizmetnis}}
+{{Spānija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kalnu sistēmas Eiropā]]
+[[Kategorija:Francijas kalnu grēdas]]
+[[Kategorija:Spānijas ģeogrāfija]]
+[[Kategorija:Andoras ģeogrāfija]]
+[[Kategorija:Basku Zeme]]
+[[Kategorija:Katalonija]]

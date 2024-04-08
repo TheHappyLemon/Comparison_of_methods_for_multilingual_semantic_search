@@ -1,0 +1,27 @@
+<div style="float:right;text-align:center">
+{{Lietotāja pārlūks
+|Attēls=[[Attēls:IE7Globe.png|45px]]
+|BrowserName=Internet Explorer
+|BrowserName_alt =
+|BrowserVersion={{{1|}}}
+|BrowserPlatform={{{2|}}}
+|color= #efefff
+|border= #A8B7F1 
+|dzimte = {{{dzimte|}}}
+}}
+</div><includeonly>
+[[Kategorija:Lietotāji, kuri izmanto Internet Explorer|{{PAGENAME}}]]
+</includeonly><noinclude>
+
+==Instrukcija==
+Internet Explorer var norādīt versiju, platformu.
+Ja Jūs esat sieviete un gribat, lai parādās "Šī lietotāja..", varat to norādīt ar parametru "dzimte=siev".
+
+==Piemēri==
+ <nowiki>{{Internet Explorer lietotājs}}</nowiki>
+ <nowiki>{{Internet Explorer lietotājs|6.0|Win2000}}</nowiki>
+ <nowiki>{{Internet Explorer lietotājs|dzimte=siev}}</nowiki>
+
+[[Kategorija:Lietotāju pārlūku veidnes|I]]
+
+</noinclude>

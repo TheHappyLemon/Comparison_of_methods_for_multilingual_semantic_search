@@ -1,0 +1,114 @@
+Kvadrātiskas, nesingulāras matricas <math>A</math> '''apgrieztā matrica''' jeb '''inversā matrica''' ir tāda [[matrica]], kuru reizinot ar matricu <math>A</math>, iegūst [[vienības matrica|vienības matricu]]:
+
+<math>A^{-1} \cdot A = A \cdot A^{-1} = E</math>
+
+== Paņēmieni apgrieztās matricas iegūšanai ==
+
+=== Izmantojot minorus ===
+
+<math>A^{-1} = 
+\begin{pmatrix}
+\frac{A_{11}}{d} & \frac{A_{21}}{d} & \cdots & \frac{A_{n1}}{d} \\
+\frac{A_{12}}{d} & \frac{A_{22}}{d} & \cdots & \frac{A_{n2}}{d} \\
+\cdots & \cdots & \cdots & \cdots \\
+\frac{A_{1n}}{d} & \frac{A_{2n}}{d} & \cdots & \frac{A_{nn}}{d}
+\end{pmatrix}</math>
+
+kur <math>d</math> ir matricas <math>A</math> [[determinants]] un <math>A_{ij}</math> ir algebriskais papildinājums matricas [[minors (lineārā algebra)|minoram]] <math>M_{ij} = \left | a_{ij}\right |</math>:<br />
+<math>A_{ij} = (-1)^{i+j} \cdot M_{ij}</math>.
+
+Šī formula rāda, ka iegūt apgriezto matricu (jeb, citiem vārdiem, invertēt doto matricu) ir iespējams tikai tad, ja matricas determinants nav vienāds nullei. Šo kritēriju izmanto matricas apgriežamības pārbaudei.
+
+=== Izmantojot Gausa metodi ===
+
+Pieņemam, ka esam atraduši matricas <math>T_1</math> līdz <math>T_n</math>, kuras secīgi piereizinot matricai <math>A</math>, iegūstam vienības matricu <math>E</math>:
+
+<math>T_n \cdot \ldots \cdot\ T_2 \cdot T_1 \cdot A = E</math>
+
+Tādā gadījumā viegli redzēt, ka varam izteikt apgriezto matricu kā <math>T_i</math> matricu reizinājumu:
+
+<math>A^{-1} = T_n \cdot \ldots \cdot T_2 \cdot T_1 (\cdot E)</math>
+
+Līdz ar to apgriezto matricu ir iespējams meklēt kā matricu <math>T_i</math> reizinājumu, ko savukārt var atrast, pārveidojot matricu <math>A</math> par vienības matricu <math>E</math> — pēc Gausa metodes.
+
+Šim nolūkam saraksta kopā matricu <math>A</math> un vienības matricu <math>E</math> un ar matricu <math>A</math> veic elementāros matricu pārveidojumus, lai pārveidotu to par <math>E</math>. Tos pašus pārveidojumus paralēli veic arī ar matricu <math>E</math>. Brīdī, kad kreisajā pusē esam ieguvuši vienības matricu, labajā pusē ir redzama matricas <math>A</math> apgrieztā:
+
+<math>(A | E) \sim \ldots \sim (E | A^{-1})</math>
+
+==== Piemērs ====
+
+Dota matrica 
+<math>
+A = \begin{pmatrix}
+1 & 2 & 3 \\
+0 & 1 & 1 \\
+0 & 0 & 1
+\end{pmatrix}
+</math>
+
+<math>
+\left (
+\begin{matrix}
+1 & 2 & 3 \\
+0 & 1 & 1 \\
+0 & 0 & 1
+\end{matrix}
+\right |
+\left .
+\begin{matrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{matrix}
+\right )
+
+(1)\sim
+
+\left (
+\begin{matrix}
+1 & 2 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{matrix}
+\right |
+\left .
+\begin{matrix}
+1 & 0 & -3 \\
+0 & 1 & -1 \\
+0 & 0 & 1
+\end{matrix}
+\right )
+
+(2)\sim
+
+\left (
+\begin{matrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{matrix}
+\right |
+\left .
+\begin{matrix}
+1 & -2 & -1 \\
+0 & 1 & -1 \\
+0 & 0 & 1
+\end{matrix}
+\right )
+</math>
+
+(1) pārveidojumā 3. rindiņa tika pareizināta ar <math>-1</math> un pieskaitīta 2. rindiņai; 3. rindiņa tika pareizināta ar <math>-3</math> un pieskaitīta 1. rindiņai.<br />
+(2) pārveidojumā 2. rindiņa tika pareizināta ar <math>-2</math> un pieskaitīta 1. rindiņai.
+
+Rezultātā esam ieguvuši apgriezto matricu 
+<math>
+A^{-1} = \begin{pmatrix}
+1 & -2 & -1 \\
+0 & 1 & -1 \\
+0 & 0 & 1
+\end{pmatrix}
+</math>
+
+{{Linearā algebra|expanded}}
+[[Kategorija:Lineārā algebra]]
+[[Kategorija:Matricu teorija]]

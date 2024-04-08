@@ -1,0 +1,16 @@
+'''Procesora kešatmiņa''' ({{val-en|cache}}) ir atmiņas veids, ko izmanto datora [[procesors]], lai samazinātu vidējo [[piekļuve|piekļūšanas]] laiku operatīvajai atmiņai (RAM). Kešatmiņa jeb kešs ir maza, ātra atmiņa, kas glabā tās datu atmiņu kopijas no galvenās atmiņas, kuras datorprogrammas izmanto visbiežāk. Kamēr vien lielākā daļa piekļuves notiks kešam, nevis galvenajai atmiņai, atmiņas piekļūšanas vidējais latentums (''latency'') būs tuvāks keša latentumam, nevis galvenās atmiņas latentumam, kas vairumā gadījumu nodrošina būtisku aparatūras darbības paātrināšanos.
+
+Kad procesors vēlas nolasīt vai ierakstīt galvenajā atmiņā, tas vispirms pārbauda, vai šī atmiņas kopija jau neatrodas kešā. To panāk, salīdzinot atmiņas atrašanās adresi ar visiem tagiem kešā, kas varētu saturēt šo adresi. Ja procesors atrod, ka atmiņas kopija ir kešā, saka, ka ir noticis keša trāpījums (''cache hit''). Gadījumā, ja noticis keša trāpījums, procesors nekavējoties izlasa vai ieraksta datus keša rindā. Proporciju, kas parāda piekļuves, kuru rezultāti ir keša hiti, sauc par trāpījumu biežumu (''hit rate''), kas ir keša efektivitātes rādītājs.
+
+Gadījumā, ja nav keša trāpījums (''cache miss''), vairums kešu izvieto jaunu ieeju ar tagu (''tag'') „tikko nebija un notika kopēšana no galvenās atmiņas”. Gadījumā, ja atkārtojas pieprasījums pēc tiem pašiem datiem, jaunajai ieejai var piekārtot atsauci ar šo tagu, tāpat kā keša trāpījuma gadījumā. ''Miss'' ir lēni, jo tie pieprasa datus pārnest no [[RAM|galvenās atmiņas]]. Šī pārraide rada aizkavēšanos, jo galvenā atmiņa ir daudz lēnāka nekā keša atmiņa.
+
+== ''Write-back'' algoritms ==
+'''''Write-back''''' (ieraksts atpakaļ) [[algoritms]] darbojas pēc principa, ka datus ieraksta kešā, bet ierakstīšanu [[RAM|galvenajā atmiņā]] (''[[RAM]]'') izdara tikai, ja keša rindas saturs ir jāmaina. ''Write-back'' algoritma priekšrocība ir lielāks datu ierakstīšanas ātrums, jo galvenā atmiņa ir daudz lēnāka nekā keša atmiņa. Algoritmam ir koherences problēmas, jo keša satura izmaiņu gadījumā ir jāgaida ilgāk.
+
+
+* Kešatmiņa ir aparatūra, bet [[virtuālā atmiņa]] vairāk tomēr ir programmatūras pārziņā.
+* Kešu parametri: kopējais izmērs, bloka izmērs, asociativitāte.
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Datoru arhitektūra]]

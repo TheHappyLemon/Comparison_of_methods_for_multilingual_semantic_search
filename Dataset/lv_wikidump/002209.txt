@@ -1,0 +1,58 @@
+{{Elementa infokaste
+ |                  tips = pārejas metāls
+ |       kārtas skaitlis = 23
+ |              1. čaula = 2
+ |              2. čaula = 8
+ |              3. čaula = 11
+ |              4. čaula = 2
+ |               simbols = V
+ |              atommasa = 50,9415
+ |    valences elektroni = [Ar]3d<sup>3</sup>4s<sup>2</sup>
+ |        tabulas attēls = [[Attēls:V-TableImage.svg|250px]]
+ |                attēls = [[Attēls:Vanadium 1.jpg|120px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Vanadium-bar.jpg|180px]]<br />Vanādija paraugs un kodināti tīra vanādija klucīši
+ |   oksidēšanas pakāpes = +5, +4, +3, +2, 0
+ |   elektronegativitāte = 1,63
+ |               blīvums = 6110
+ |   kušanas temperatūra = 2183 K (1910&nbsp;°C)
+ |  viršanas temperatūra = 3680 K (3407&nbsp;°C)
+ |    trīskāršais punkts = 
+ |     kritiskais punkts = 
+ |   īpatnējā pretestība = (20 °C) 1,97{{E|-7}}
+ |         skaņas ātrums = (20 °C) 4560
+ | Van der Vālsa rādiuss = 
+}}
+
+'''Vanādijs''' ir [[ķīmiskais elements]] ar simbolu '''V''' un [[atomskaitlis|atomskaitli]] 23. Tas ir sudrabbalts un mīksts [[5. grupas elementi|5. grupas]] (VA) [[pārejas metāli|pārejas metāls]]. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām [[rūda|rūdām]]. Vanādiju parasti lieto [[tērauds|tērauda]] sakausējumiem kā [[leģēšana|leģējošo]] elementu (kopā ar [[hroms|hromu]]). [[vanādija pentoksīds|Vanādija oksīdu]] lieto par [[katalizators|katalizatoru]]. Savienojumos vanādijam var būt oksidēšanas pakāpes +2, +3, +4 un +5.
+
+== Izotopi ==
+Ir zināmi divi stabili vanādija [[izotops|izotopi]]. Vanādijs-51 veido 99,750% no visa kopējā dabā sastopamā vanādija daudzuma.<ref name="jlab"/> Atlikušos 0,250% veido vanādijs-50.<ref name="jlab"/>
+
+== Izmantošana ==
+Lielāko daļu no vanādija, aptuveni 80%, izmanto [[sakausējums|sakausējumos]] ar [[dzelzs|dzelzi]] vai kā piekausējumu [[tērauds|tēraudam]].<ref name="lenntech"/> Sakausējumi ar dzelzi tiek izmantoti dažādu mehānisku un tehnisku ierīču sastāvdaļu ražošanā, piemēram, no tā ražo [[kloķvārpsta]]s, [[zobrats|zobratus]], [[ass|asis]] un tā tālāk. Sajaukumā ar [[alumīnijs|alumīniju]], vanādijs tiek izmantots [[titāns|titāna]] sakausējumos, kurus pēc tam lieto, piemēram, [[gāzes strūklas dzinējs|gāzes strūklas dzinējos]]. Vanādija sakausējumi tiek izmantoti arī [[kodolreaktors|kodolreaktoros]], jo tiem ir zema [[neitrons|neitronu]] [[adsorbcija]]s spēja, kā arī tie nedeformējas augstās temperatūrās.<ref name="lenntech"/>
+
+== Vēsture ==
+Vanādiju 1801. gadā atklāja spāņu—meksikāņu zinātnieks un dabas pētnieks [[Andrés Manuel del Río|Andress Manuels del Rio]]. Diemžēl franču ķīmiķi paziņoja, ka del Rio atklātais elements ir tikai "netīrs" [[hroms]].<ref name="lanl"/> Spāņu zinātnieks pieņēma franču zinātnieku apgalvojumu, un tādēļ arī pats uzskatīja, ka ir kaut ko sajaucis.
+
+1831. gadā zviedru ķīmiķis [[Nils Gabriel Sefström|Nilss Gabriels Sefstrēms]] elementu atklāja otrreiz.<ref name="webelements.com"/> Viņš to nosauca [[skandināvu mitoloģija|skandināvu skaistuma dievietes]] [[Vanādisa|Vanādisas]] vārdā.<ref name="webelements.com"/> Līdz pat 1922. gadam nevarēja iegūt pilnībā tīru vanādiju. Līdz tam varēja iegūt tikai vielu, kuru veidoja aptuveni 99,3 līdz 99,8% vanādijs.<ref name="lanl"/>
+
+== Atsauces ==
+{{commonscat|Vanadium|vanādijs}}
+{{atsauces|refs=
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/v.htm | title= Vanadium | publisher= Lenntech | accessdate= 2012-10-22 | language= angliski}}</ref>
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/23.shtml | title= Vanadium | publisher= Los Alamos National Laboratory | accessdate= 2012-10-22 | language= angliski}}</ref>
+<ref name="webelements.com">{{tīmekļa atsauce | url= http://www.webelements.com/vanadium/history.html | title= Vanadium - historical information | publisher= Webelements.com | accessdate= 2012-10-22 | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso023.html | title= Isotopes of the Element Vanadium | publisher= Jefferson Lab | accessdate= 2012-10-22 | language= angliski | archiveurl= https://web.archive.org/web/20190723031450/https://education.jlab.org/itselemental/iso023.html | archivedate= 2019-07-23 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

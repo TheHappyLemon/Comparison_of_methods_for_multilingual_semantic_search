@@ -1,0 +1,66 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums = Mariner 4
+| Nosaukums_orig = 
+| Attēls = Mariner 3 and 4.jpg
+| Attēla_izmērs = 300px
+| Att_virsraksts = 
+| KA_veids = starpplanētu zonde
+| Bāzes platforma = 
+| KA sērijas Nr = 
+| Operators              = [[Nacionālā aeronautikas un kosmosa administrācija|NASA]], {{USA}}
+| Lielākie_izgatavotāji  = [[Reaktīvās kustības laboratorija|JPL]], {{USA}}
+| Starts                 = {{dat|1964|11|28|SK}} 14:22:01 [[Universālais koordinētais laiks|UTC]]
+| Nesējs                 = ''[[Atlas LV-3 Agena-D]]''
+| Starta_gads            = 1964
+| Starta_vieta           = [[Kanaveralas zemesraga Gaisa spēku stacija|Kanaverala]]
+| Starta_laukums         = ''LC-12''
+| Starta_valsts          = {{USA}}
+| Darbības_beigu_gads    = 1967
+| Darbības_beigu_datums  = {{dat|1967|12|21|SK}}
+| Darbības_ilgums = 
+| Beigu_datums = 
+| Lidojuma_ilgums = 
+| NSSDC_ID =1964-077A 
+| Tīmekļa_vietne =
+| Masa =260,68 kg 
+| Enerģija = 170 W
+| Pārlidojums = 
+| Pārlidojuma_datums = 
+| Orbītas_elementi = jā
+| Centr_ķermenis = Saule
+| Centr_ķermenis_parādīt = [[Saule]]
+| Lielā_pusass = 
+| Ekscentricitāte =
+| Inklinācija =
+| Periods = 
+| Apoapsīda = 
+| Periapsīda = 
+| Apriņķojumi = 
+| Orbītā_ieiešanas_dat = 
+| Programma              = ''[[Mariner programma|Mariner]]''
+| KA_iepr = ''[[Mariner 3]]'' 
+| KA_nāk = ''[[Mariner 5]]''
+}}
+'''''Mariner 4''''' bija [[Amerikas Savienotās Valstis|ASV]] viena no divām (pirmā bija ''[[Mariner 3]]'') identiskām [[Starpplanētu zonde|starpplanētu zondēm]], kas paredzēta [[Marss (planēta)|Marsa]] sasniegšanai [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] ''[[Mariner programma|Mariner]]'' programmā. Palaista 1964. gada novembrī. 1965. gadā kļuva par pirmo kosmisko aparātu, kas sekmīgi pārlidojis Marsu un uz Zemi nosūtījis pirmos Marsa fotoattēlus.
+
+Zondi izgatavoja [[Reaktīvās kustības laboratorija]] (''JPL''). ''Mariner 4'' sastāvēja no astoņstūrainas pamatnes (127 centimetri pa diagonāli un 45 centimetru augsta). Pie pamatnes bija piestiprinātas četras [[saules baterija]]s (izvērstā stāvoklī zondes diametrs bija nepilni septiņi metri). Zondes augstums bija nepilni trīs metri. Tās starta masa bija 260,8 kg.
+
+''Mariner 4'' tika palaista {{dat|1964|11|28||bez}} 14:22:01 [[Universālais koordinētais laiks|UTC]] ar [[nesējraķete|nesējraķeti]] ''[[Atlas LV-3 Agena-D]]'' no [[Kanaveralas zemesraga Gaisa spēku stacija]]s laukuma ''LC-12''. Apmēram pusstundu pēc starta zonde iegāja [[orbīta|orbītā]] ap Zemi, un vēl pēc pusstundas ''Agena D'' trešā pakāpe kosmisko aparātu ievadīja trajektorijā uz Marsu.
+
+Ceļā uz Marsu zonde vāca datus par kosmosa telpas apstākļiem. Šī informācija noderēja nākamajiem lidojumiem uz Marsu.
+
+[[Attēls:Mars m04 11e.jpg|thumb|left|Viens no pirmajiem Marsa virsmas attēliem]]
+Nepilnus astoņus mēnešus pēc starta, 1965. gada 14. un 15. jūlijā ''Mariner 4'' pārlidoja Marsu. Zondes fotokameras tika ieslēgtas 14. jūlijā, un kopumā iegūts 21 fotoattēls. ''Mariner 4'' nofotografēja nepilnu procentu no visas planētas virsmas. 15. jūlijā zonde atradās vistuvāk planētai — 9846 km no Marsa virsmas. Visi fotoattēli tika ierakstīti īpašā lenšu magnetofonā, un pēc Marsa pārlidojuma zonde pārslēdzās datu pārraides režīmā. Datu pārraide turpinājās līdz pat 3. augustam. Zonde visus fotoattēlus nosūtīja divreiz, lai nodrošinātos pret dažādām kļūdām, kuras izraisītu radiotraucējumi. Sakari ar zondi tika uzturēti līdz 1965. gada 1. oktobrim, kad nezināmu iemeslu dēļ radiokontakts pārtrūka.
+
+1967. gada beigās izdevās uztvert vājus signālus no zondes. Zondes mikrometeorītu sensors bija reģistrējis diezgan ievērojamus trāpījumus, un šie mazie triecieni bija mazliet izmainījuši zondes kursu un ātrumu. 1967. gada 21. decembrī sakari tika pazaudēti pavisam.
+
+Pateicoties ''Mariner 4'' uzņemtajiem attēliem, zinātnieki uzzināja, ka Marsu klāj krāteri un tas izskatās līdzīgs [[Mēness|Mēnesim]] (vēlāk gan noskaidrojās, ka Marss tomēr nav tik bagātīgs ar krāteriem — ''Mariner 4'' bija nofotografējis diezgan senu Marsa rajonu). Ar šo fotogrāfiju saņemšanu izbeidzās visas iepriekšējās spekulācijas par tēmu "Dzīvība uz Marsa", jo bija redzams, ka planēta ir pilnīgs tuksnesis, kurā nekas dzīvs nespēj eksistēt.
+
+== Ārējās saites ==
+* [http://solarsystem.nasa.gov/missions/profile.cfm?MCode=Mariner_04 Mariner 4] {{Webarchive|url=https://web.archive.org/web/20111014232450/http://solarsystem.nasa.gov/missions/profile.cfm?MCode=Mariner_04 |date={{dat|2011|10|14||bez}} }}
+* [https://web.archive.org/web/20060316104212/http://www.astrosurf.com/nunes/explor/explor_m4.htm Mariner 4 uzņemtie attēli]
+
+{{1964. gada orbitālie starti}}
+
+[[Kategorija:Mariner|4]]
+[[Kategorija:Marsa izpēte]]

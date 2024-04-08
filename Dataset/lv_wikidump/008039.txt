@@ -1,0 +1,95 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Harju apriņķis
+| native_name = ''Harju maakond''
+| image_skyline = Tallinn-old-town.jpg
+| imagesize = 
+| image_caption = Tallina
+| settlement_type = [[Igaunijas administratīvais iedalījums|apriņķis]]
+| total_type = Kopā
+| image_flag = Flag_of_et-Harju_maakond.svg
+| image_shield = Et-Harju_maakond-coa.svg
+| image_map = Harju in Estonia.svg
+| image_map1 = 
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{EST}}
+| area_total_km2 = 4333
+| population_total = 589610
+| population_as_of = 2018
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = 
+| latm = 
+| lats =
+| latNS = 
+| longd = 
+| longm = 
+| longs =
+| longEW = 
+| seat_type = Centrs
+| seat = [[Tallina]]
+| parts_type = Administratīvais iedalījums
+| parts = 4 pilsētas un 12 pagasti
+| population_blank02_title = etniskais sastāvs
+| population_blank02 = [[igauņi]] (59,2 %), [[krievi]] (32,6 %), [[ukraiņi]] (3,4 %)
+| website = 
+}}
+
+'''Harju apriņķis''' ({{val|et|Harju maakond}} jeb ''Harjumaa'') ir viens no 15 [[Igaunija]]s [[Igaunijas administratīvais iedalījums|apriņķiem]]. Apriņķis atrodas valsts ziemeļos. Austrumos tas robežojas ar [[Rietumviru apriņķis|Rietumviru apriņķi]], dienvidos ar [[Jervas apriņķis|Jervas]] un [[Raplas apriņķis|Raplas]] apriņķiem, bet dienvidaustrumos - ar [[Lēnes apriņķis|Lēnes apriņķi]]. Ziemeļos to apskalo [[Somu līcis]]. Harju apriņķis ir apdzīvotākais Igaunijas apriņķis, tajā dzīvo vairāk kā 1/3 valsts iedzīvotāju. Apriņķa administratīvais centrs ir [[Igaunija]]s galvaspilsēta [[Tallina]].
+
+== Administratīvais iedalījums ==
+Pēc 2017. gada teritoriālās reformas apriņķī ir 16 pašvaldībās - [[Anijas pagasts]], [[Harku pagasts]], [[Jēlehtmes pagasts]], [[Keila]]s pilsēta, [[Kīli pagasts]], [[Kozes pagasts]], [[Kūsalu pagasts]], [[Loksa]], [[Mārdu]], [[Raes pagasts]], [[Rāziku pagasts]], [[Rietumharju pagasts]], [[Saku pagasts]], [[Saues pagasts]], [[Tallina]] un [[Vīmsi pagasts]].
+
+=== Pilsētas ===
+* [[Keila]]
+* [[Kehra]]
+* [[Loksa]]
+* [[Mārdu]]
+* [[Paldiski]]
+* [[Saue]]
+* [[Tallina]]
+
+==Apskates vietas==
+{{div col}} 
+*[[Arukilas muiža]] (''Aruküla mõis'')
+*[[Harku muiža]] (''Harku mõis'')
+*[[Jegalas ūdenskritums]] (''Jägala juga'')
+*[[Keilas ūdenskritums]] (''Keila juga'')
+*[[Kolgas muiža]] (''Kolga mõis'')
+*[[Orkjerves dabas rezervāts]] (''Orkjärve looduskaitseala'')
+*[[Padizes klosteris]] (''Padise klooster'')
+*[[Pehja-Kervemā dabas rezervāts]] (''Põhja-Kõrvemaa looduskaitseala'')
+*[[Tuhalas raganu aka]] (''Tuhala nõiakaev'')
+{{div col end}}
+
+== Attēlu galerija ==
+
+<gallery>
+Arukyla Mois.jpg|Arukilas muiža
+Harku_mõisa_peahoone.jpg|Harku muiža
+Jägala_juga.jpg|Jegalas ūdenskritums
+Keilajuga.jpg|Keilas ūdenskritums
+Kolga_mõis.JPG|Kolgas muiža
+Laanemaa_järv_Orkjärve_looduskaitsealal.jpg|Orkjerves dabas rezervāts
+Padise_kloostri_varemed_vallikraaviga,_13.-16.saj_(1).jpg|Padizes klosteris
+Tuhala Witches Well1-21-03-2013.jpg|Tuhalas raganu aka
+Kiviloo mõisa peahoone.jpg|
+Laitse mõisa peahoone2, 19.saj.jpg|
+Kose kirik suvi 2012.jpg|
+</gallery>
+
+== Vēsture ==
+{{pamatraksts|Harija}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20050620010507/http://www.harju.ee/ Harju apriņķa pārvalde] (igauņu valodā)
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas apriņķi}}
+{{Harju apriņķis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Harju apriņķis| ]]
+[[Kategorija:Igaunijas apriņķi]]

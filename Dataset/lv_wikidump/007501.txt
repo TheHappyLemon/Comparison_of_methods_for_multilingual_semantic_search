@@ -1,0 +1,84 @@
+{{Latvijas novada infokaste
+| nosaukums         =Straupes pagasts
+| karte             = Straupes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Straupes_pagasts.png
+| ģerboņa_nosaukums = Straupes pagasta ģerbonis
+| karoga_attēls     = Straupes_pagasts_Flag.png‎
+| karoga_nosaukums  = Straupes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Plācis
+| platība           = 152,15
+| iedzīvotāji       = 1374<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1374 / 152.15 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Straupes pagasts''' ir viena no [[Cēsu novads|Cēsu novada]] administratīvajām teritorijām tā rietumos, [[Gauja]]s labajā krastā. Robežojas ar sava novada [[Stalbes pagasts|Stalbes]] un [[Raiskuma pagasts|Raiskuma]] pagastiem, pa Gauju ar [[Drabešu pagasts|Drabešu pagastu]] un [[Līgatne]]s pilsētu un [[Līgatnes pagasts|Līgatnes pagastu]], [[Siguldas novads|Siguldas novada]] [[Lēdurgas pagasts|Lēdurgas]] un [[Krimuldas pagasts|Krimuldas]] pagastiem, kā arī [[Limbažu novads|Limbažu novada]] [[Limbažu pagasts|Limbažu pagastu]]. 
+
+== Daba ==
+Pagasts atrodas [[Idumejas augstiene]]s Limbažu viļņotajā līdzenumā. Austrumu daļā iesniedzas [[Augstrozes paugurvalnis]]. Augstākais paugurs ir pie Cīruļiem — 101,7 m vjl.
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Brasla (Gaujas pieteka)|Brasla]], [[Gauja]], [[Ķūķupīte]], [[Nabe (upe)|Nabe]], [[Panūta]], [[Pūrica]], [[Silēnu upīte]], [[Spelte]], [[Strautene]].
+
+==== Ūdenstilpes ====
+[[Pūricu ezers]], [[Riebiņu ezers]], [[Sāruma ezers]].
+
+== Vēsture ==
+Tagadējais Straupes pagasts izveidots līdz 1949. gadam pastāvējušo [[Lielstraupes pagasts|Lielstraupes]] un [[Mazstraupes pagasts|Mazstraupes]] pagastu teritorijā.<ref>{{EncLP}}</ref> '''Straupes ciemu''' pirmo reizi izveidoja 1945. gadā Lielstraupes pagastā, bet jau 1951. gadā to likvidēja un pievienoja [[Lielstraupes ciems|Lielstraupes ciemam]]. 1973. gadā [[Cēsu rajons|Cēsu rajonā]] Straupes ciemu izveidoja no jauna, tajā apvienojot likvidēto Lielstraupes ciemu un daļu [[Mazstraupes ciems|Mazstraupes ciema]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Straupes pagastu kā administratīvo teritoriju iekļāva [[Pārgaujas novads|Pārgaujas novadā]]. 2021. gadā Pārgaujas novadu iekļāva [[Cēsu novads|Cēsu novadā]].
+
+=== Kultūrvēsturiskie pieminekļi ===
+* [[Lielstraupes pils]]. Celta romāņu stilā, bet pēc 1905. gada tās tornis atjaunots baroka, bet pils iekštelpas — klasicisma stilā. Kopš 1963. gada pilī darbojas [[Straupes narkoloģiskā slimnīca]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2160
+|1959|1950
+|1967|1675
+|1979|1402
+|1989|1614
+|2000|1628
+|2011|1353
+|2021|1239
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Straupe]], [[Plācis]] (pagasta centrs), [[Lielstraupe]], [[Brasla (ciems)|Brasla]], [[Mazstraupe]], [[Pušpūri]], [[Strautiņi (Straupes pagasts)|Strautiņi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Pārgaujas novads}}
+{{Cēsu rajons}}
+}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Straupes pagasts| ]]

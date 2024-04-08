@@ -1,0 +1,8 @@
+{{Izolēts raksts|date=2010. gada janvārī,}}
+'''AIML''' jeb '''''A'''rtificial '''I'''ntelligence '''M'''ark-up '''L'''anguage'' ("[[mākslīgais intelekts|mākslīgā intelekta]] iezīmēšanas valoda") ir uz [[XML]] bāzēta [[iezīmēšanas valoda]]. Tā tika speciāli izveidota, lai palīdzētu radīt A.L.I.C.E. čata botu. Valoda tiek izmantota daudzu balss atpazīšanas programmu izveidē, zināmas arī kā [[Alicebot]].
+
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Uz XML bāzēti standarti]]
+[[Kategorija:Mākslīgais intelekts]]

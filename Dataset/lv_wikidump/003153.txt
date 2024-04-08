@@ -1,0 +1,58 @@
+{{Medicīniskais brīdinājums}}{{Infobox medical condition (new)
+| name          = Sirds un asinsvadu slimības
+| treatment     = Augsta asinsspiediena, hiperlipidēmijas - augstu lipīdu līmeņa asinīs, diabēta ārstēšana
+| symptoms      = Sāpes krūtīs, elpas trūkums
+| onset         = Vecāki pieaugušie
+| prevention    = Veselīgs uzturs, vingrošana, izvairīšanās no tabakas lietošanas, alkohola lietošanas ierobežošana
+| deaths        = 17.9 miljoni / 32% (2015)
+}}
+
+'''Sirds un asinsvadu slimības (SAS)''' ir kopējs nosaukums [[Slimība|slimībām]], kas skar [[Sirds|sirdi]] un [[Asinsrites sistēma|asinsrites sistēmu]]. Mūsdienās  tieši šis slimības ir vieni no galvenajiem iedzīvotāju [[nāve]]s un [[invaliditāte]]s cēloņiem visā [[Pasaule|pasaulē]], arī [[Latvija|Latvijā]].
+
+SAS ietver koronāro artēriju slimības (CAD), piemēram, stenokardiju un [[Miokarda infarkts|miokarda infarktu]] (sirdslēkme).<ref name="WHO20112">{{grāmatas atsauce|authors=Shanthi M, Pekka P, Norrving B|title=Global Atlas on Cardiovascular Disease Prevention and Control|url=http://whqlibdoc.who.int/publications/2011/9789241564373_eng.pdf?ua=1|year=2011|publisher=World Health Organization in collaboration with the World Heart Federation and the World Stroke Organization|pages=3–18|isbn=978-92-4-156437-3|dead-url=no|archive-url=https://web.archive.org/web/20140817123106/http://whqlibdoc.who.int/publications/2011/9789241564373_eng.pdf?ua=1|archive-date=2014-08-17}}</ref> Citas sirds un asinsvadu slimības ir [[Smadzeņu insults|insults]], [[sirds mazspēja]], hipertensīva sirds slimība, reimatiska sirds slimība, kardiomiopātija, [[Sirds aritmija|patoloģiski sirds ritmi]], iedzimta sirds slimība, sirds vārstuļu slimība, kardīts, aortas aneirisms, perifēro artēriju slimība, trombembolija un [[Dziļo vēnu tromboze|vēnu tromboze]].<ref name="WHO20112"/><ref name="GDB2013">{{publikācijas atsauce|authors=Naghavi M, Wang H, Lozano R, Davis A, Liang X, Zhou M, etal|date=January 2015|title=Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013|journal=Lancet|volume=385|issue=9963|pages=117–71|doi=10.1016/S0140-6736(14)61682-2|pmc=4340604|pmid=25530442|collaboration=GBD 2013 Mortality and Causes of Death Collaborators}}</ref>
+
+== Slimību cēloņi ==
+Sirds patoloģijas pamatā ir pārmaiņas vienā vai vairākos sirds darbības mehānismos. Šādi mehānismi ir:
+
+# Sūkņa darbības bojājumi. Šādos gadījumos sirds [[muskuļi]] saraujas nepietiekami, lai iztukšotu sirds kambarus. Vai pretēji, ir nepietiekama muskuļu atslābšana pēc kontrakcijas, kas traucē kambaru pildīšanos ar asinīm.
+# Plūsmas obstrukcija. Šādu pārmaiņu galvenais iemesls ir bojājumi, kuru dēļ ir sašaurināta sirds vārstuļu atvere, piemēram, [[aorta]]s vai mitrālo vārstuļu stenoze. Vienlaicīgi pieaug arī spiediens ar kādu tiek grūstas [[asinis]] pret bojājuma vietu.
+# Pūsmas regurģitācija. Tās ir pārmaiņas, kuru iemesls ir asins plūsmas virzīšanās atpakaļ, piemēram, regurģitācija no aortas kreisajā sirds kambarī, vai regurģitācija no kreisās puses sirds kambara priekškambarī — [[Mitrālā vārstuļa prolapss#Mitrālā regurgitācija|mitrālā regurģitācija]].
+# Sirds pārvades sistēmas bojājumi. Iemesls ir sirds impulsu nekoordinēta veidošanās, kas izraisa, piemēram, kambaru vai priekškambaru [[fibrilācija|fibrilāciju]], [[aritmija]]s. Šādu bojājumu rezultātā sirds muskuļu sieniņas kontrakcijas ir nevienmērīgas vai arī nepietiekamas.
+# Pārrāvumi sirds asinsrites sistēmā, kas saistīti ar asiņu noplūdi, piemēram, šautas brūces sirdī.
+Lielākoties kardiovaskulāro slimību iemesls ir mijiedarbība starp ārējiem faktoriem un [[Ģenētika|ģenētiski]] predisponētu uzņēmību. Sirds slimību klīniskās izpausmes veidojas daudzu iekšējo un ārējo faktoru mijiedarbības rezultātā.
+
+== Sirds slimību iedalījums ==
+Ir zināmas piecas galvenās sirds slimības formas:
+* [[Iedzimtās sirds slimības]]
+* [[Išēmiskā sirds slimība]]
+* [[Hipertensīvā sirds slimība]] (sistēmiskā un pulmonārā)
+* [[Sirds vārstuļu slimības]]
+* [[Neišēmiskā (primārā) miokarda slimība]]
+
+No nosauktajām biežākais nāves cēlonis ir [[išēmiskā sirds slimība]] un ir iemesls 80—90% nāves gadījumiem, kas ir saistīti ar kardiovaskulārām pārmaiņām.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Skatīt arī ==
+* [[Sirds hipertrofija]]
+* [[Sirds kreisās puses nepietiekamība]]
+* [[Sirds labās puses nepietiekamība]]
+
+{{medicīna-aizmetnis}}
+
+== Ārējās saites ==
+{{Medical resources
+| DiseasesDB     = 28808
+| ICD10          = {{ICD10|I|51|6|i|30}}
+| ICD9           = {{ICD9|429.2}}
+| ICDO           =
+| OMIM           =
+| MedlinePlus    =
+| eMedicineSubj  =
+| eMedicineTopic =
+| MeshID         = D002318
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Sirds un asinsvadu slimības| ]]

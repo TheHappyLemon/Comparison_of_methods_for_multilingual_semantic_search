@@ -1,0 +1,83 @@
+{{Latvijas novada infokaste
+| nosaukums         = Īles pagasts
+| karte             = Īles pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Īles pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Īles pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Īle
+| platība           = 76,57
+| iedzīvotāji       = 482<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 482 / 76.57 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Īles pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Bēnes pagasts|Bēnes]], [[Lielauces pagasts|Lielauces]], [[Vecauces pagasts|Vecauces]], [[Annenieku pagasts|Annenieku]], [[Naudītes pagasts|Naudītes]] un [[Zebrenes pagasts|Zebrenes]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Auce (upe)|Auce]], [[Ružupe]], [[Sesava (Bērzes pieteka)|Sesava]], [[Sidrabene (upe)|Sidrabene]].
+
+==== Ezeri ====
+[[Sesavas ezers]], [[Spārnu ezers]] .
+
+== Vēsture ==
+[[Attēls:Īles muižas ainava 1795 Broce.jpg|thumb|270px|Īles muižas ainava ([[Broce]], 1795).]] 
+[[Attēls:The last days of the Stirnas manor house.jpg|thumb|270px|Stirnu muižas kungu māja (2010).]]
+Mūsdienu Īles pagasta teritorijā vēsturiski atradās [[Ciroles muiža]] (''Zirohlen''), [[Īles muiža]] (''Ihlen'', [[Īles sanatorija]]), [[Stirnu muiža]] (''Stirnen'', [[Stirnas (Īles pagasts)|Stirnas]]). 
+
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Īles pagasta platība bija 60,2 km² un tajā dzīvoja 939 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Īles [[ciema padome|ciema padomi]], ko gan 1947. gadā likvidēja, bet 1949. gadā, līdz ar pagasta likvidēšanu, izveidoja no jauna.
+1949. gada 17. martā Īles pagastā 760 vīru liela [[NKVD]] karaspēka vienība uzbruka Kārļa Kraujas ([[Visvaldis Žanis Brizga|Visvalža Brizgas]] segvārds) [[Latvijas nacionālie partizāni|nacionālo partizānu]] nodaļas [[Bunkurs|bunkuram]], kas atradās 300 metrus uz ziemeļiem no Priedaišu viensētas. Kaujas operācijas laikā nogalināja 15 partizānus un deviņus sagūstīja.<ref>[https://nra.lv/vakara-zinas/390819-vakara-zinas-modris-zihmanis-savas-parliecibas-del-15-garus-gadus-bija-spiests-pavadit-padomju-soda-nometnes.htm Modris Zihmanis. Savas pārliecības dēļ 15 garus gadus bija spiests pavadīt padomju soda nometnēs] nra.lv 2022. gada 4. septembrī</ref>
+
+Īles ciems ietilpa [[Auces rajons|Auces]] (1949-1959) un [[Dobeles rajons|Dobeles]] (pēc 1959. gada) rajonos. 1975. gadā Īles ciemu likvidēja, teritoriju pievienojot [[Lielauces ciems|Lielauces ciemam]]. 1989. gadā Īles ciemu izveidoja no jauna, teritoriju atdalot no Lielauces ciema.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Īles pagastu kā administratīvo teritoriju iekļāva [[Auces novads|Auces novadā]]. 2021. gadā Auces novadu iekļāva [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+==== Valsts nozīmes ====
+* [[Īles sanatorija|Īles muižas]] apbūve<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Auces+novads%2C+%C4%AAles+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Īles luterāņu baznīca
+* Spārnu kalns - pilskalns
+* Gailīšu senkapi
+* Tēšaiņu senkapi
+
+==== Vietējas nozīmes ====
+* [[Stirnas (Īles pagasts)|Stirnas]] muižas apbūve
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Īle]] (pagasta centrs), [[Īles sanatorija]], [[Stirnas (Īles pagasts)|Stirnas]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commonscat-inline|Īle parish|Īles pagasts}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Auces novads}}
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Iles pagasts}}
+[[Kategorija:Tukuma apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Īles pagasts| ]]

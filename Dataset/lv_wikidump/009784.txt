@@ -1,0 +1,46 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Sari
+ |          official_name = ''Surrey''
+ |        settlement_type = grāfiste
+| image_skyline = Surrey south downs.jpg
+| imagesize =
+| image_caption = Sari ainava
+ |             image_flag = Surrey.svg
+ |           image_shield = Surrey shield.svg
+ |                capital = [[Kingstona pie Temzas]]
+ |           largest_city = [[Vokinga]]
+ |              image_map = Surrey UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Dienvidaustrumanglija]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles grāfiste
+ |         area_total_km2 = 1663
+ |       population_total = 1185300
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+ |                website = {{URL|www.surreycc.gov.uk}}
+}}
+'''Sari''' ({{val|en|Surrey}}) ir [[Anglijas grāfistes|grāfiste]] [[Anglija]]s [[Dienvidaustrumanglija|dienvidaustrumos]]. Sari austrumos robežojas ar [[Kenta|Kentu]], dienvidaustrumos ar [[Austrumsaseksa|Austrumsaseksu]], dienvidos ar [[Rietumsaseksa|Rietumsaseksu]], rietumos un dienvidrietumos ar [[Hempšīra|Hempšīru]], ziemeļrietumos ar [[Bārkšīra|Bārkšīru]] un ziemeļaustrumos ar [[Lielā Londona|Lielo Londonu]]. Grāfistes galvaspilsēta ir [[Gilforda]].<ref>{{Tīmekļa atsauce|url=http://www.guildford.gov.uk/CHttpHandler.ashx?id=918&p=0 |publisher=Guildford Borough Council |title=Medieval Guildford—''"Henry III confirmed Guildford's status as the county town of Surrey in 1257"'' |accessdate=30 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131101054620/http://www.guildford.gov.uk/CHttpHandler.ashx?id=918&p=0 |archivedate=1 November 2013 }}</ref> Sari grāfistes domes sēdeklis kopš 1965. gada atrodas ārpus grāfistes robežām [[Kingstona pie Temzas|Kingstonā pie Temzas]], kas ir Lielās Londonas grāfistes pilsēta. Ar 1,1 miljonu iedzīvotāju skaitu Sari ir viena no visblīvāk apdzīvotajām grāfistēm Dienvidaustrumanglijā.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.surreycc.gov.uk Sari grāfistes domes mājaslapa]
+* [http://surreymaps.surreycc.gov.uk/public/viewer.asp Sari interaktīvā karte] {{Webarchive|url=https://web.archive.org/web/20170722104207/http://surreymaps.surreycc.gov.uk/public/viewer.asp |date={{dat|2017|07|22||bez}} }}
+* [http://www.exploringsurreyspast.org.uk Izzini Sari vēsturi]
+
+{{UK-aizmetnis}}
+
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

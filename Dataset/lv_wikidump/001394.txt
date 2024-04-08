@@ -1,0 +1,47 @@
+{{Upes infokaste 
+| nosaukums         = Vepša
+| citvaloda         = pl
+| oriģinālnosaukums = Wieprz
+| attēls            = Trawniki lubelskie rzeka Wieprz.jpg
+| attēla_izmērs     = 
+| paraksts          = Vepša pie [[Travņika]]s
+| karte             = Upe_Vepsa.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Ļubļinas augstiene]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Visla]]
+| baseina_valstis   = 
+| tek_caur          = {{POL}}
+| garums            = 348,9 
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 
+| gada_notece       = 1,3
+| baseins           = 10 415
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d=51 | iet_plat_m=32 | iet_plat_s=49 | iet_plat_NS=N 
+| iet_gar_d=21 | iet_gar_m=50 | iet_gar_s=4 | iet_gar_EW=E
+}}
+'''Vepša''' ({{val|pl|Wieprz}}) - upe [[Polija]]s austrumos. [[Visla]]s labā krasta pieteka. Sākas Ļubļinas augstienē. Līdzenuma upe, tek pa Ļubļinas augstieni un Mazovijas-Podļases zemieni. Pie Vepšas kreisās pietekas [[Biščica]]s atrodas [[Ļubļina]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polija-aizmetnis}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vislas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Ļubļinas vojevodiste]]
+[[Kategorija:Mazovijas vojevodiste]]

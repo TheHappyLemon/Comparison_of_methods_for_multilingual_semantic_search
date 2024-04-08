@@ -1,0 +1,32 @@
+{{Jūras infokaste
+|jūra=Krētas jūra
+|attēls=KretasJura.JPG
+|attēls_izm     = 300
+ |vietaskarte   = Vidusjūra#Grieķija
+| relief = jā
+ |latd = 36 |latm =  |lats =  |latNS = N
+ |longd = 25 |longm =  |longs =  |longEW = E
+ |paraksta_izvietojums = top
+| okeāns        = Atlantijas okeāns
+|platība=
+|garums=370
+|platums=140
+|Max_dziļums=3294
+|Vid_dziļums=1000
+|valstis={{GRE}}
+|pilsētas=[[Hēraklija]]
+}}
+'''Krētas jūra''' ({{val|el|Κρητικό Πέλαγος}}) ir nosaukums [[Egejas jūra]]s dienvidu daļas akvatorijai starp [[Krēta]]s salu dienvidos un [[Kiklādas|Kiklādu]] salām ziemeļos.<ref>[http://www.eoearth.org/view/article/155939/ The Encyclopedia of Earth. Sea of Crete]</ref> Ziemeļrietumos atrodas [[Mirtejas jūra]], austrumos — [[Karpata]]s  un [[Dienvidsporādu salas]], dienvidrietumos robežojas ar [[Jonijas jūra|Jonijas jūru]]. Krētas jūras austrumu daļu dažkārt dēvē par Karpatas jūru.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Atlantijas okeāna jūras}}
+
+[[Kategorija:Vidusjūra]]
+[[Kategorija:Jūras]]
+[[Kategorija:Grieķijas jūras]]

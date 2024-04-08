@@ -1,0 +1,44 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 27
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 15
+|             4. čaula = 2
+|              simbols = Co
+|             atommasa = 58,933200
+|   valences elektroni = [Ar]3d<sup>7</sup>4s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Co-TableImage.svg|250px]]
+|               attēls = [[Attēls:Cobalt-sample.jpg|200px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Cobalt ore.jpg|170px]]<br />Kobalta gabaliņi un kobalta rūdas paraugs
+|  oksidēšanas pakāpes = +5, +4, '''+3''', '''+2''', 0, −1
+|  elektronegativitāte = 1,88
+|              blīvums = 8900
+|  kušanas temperatūra = 1768 K (1495&nbsp;°C)
+| viršanas temperatūra = 3200 K (2927&nbsp;°C)
+}}
+'''Kobalts''' ir [[ķīmiskais elements]] ar simbolu '''Co''' un [[atomskaitlis|atomskaitli]] 27. Kobalts ir ciets, sudrabbalts, [[feromagnētisms|feromagnētisks]] [[metāls]]. Kobalts [[daba|dabā]] galvenokārt ir sastopams [[polimetāliskās rūdas|polimetālisko rūdu]] sastāvā. Kobaltu lieto [[korozija]]s izturīgiem [[sakausējums|sakausējumiem]], savukārt [[kobalta oksīds|kobalta oksīdu]] lieto par violeto un zilo [[stikls|stiklu]] [[krāsviela|krāsvielu]]. Savienojumos kobaltam visbiežāk ir oksidēšanas pakāpe +2.
+
+== Vēsture ==
+Ķīmiskā elementa kobalta nosaukums radies no [[vācu valoda]]s vārda ''Kobold'' — mājas gars, rūķītis, gnoms. Apdedzinot kobalta minerālus, kas satur [[arsēns|arsēnu]], izdalās gaistošs, indīgs [[arsēna oksīds]]. Rūda, kas satur šos minerālus, kalnu apvidus iedzīvotāju vidū ieguva kalna gara Kobolda vārdu. Senie norvēģi piedēvēja kausētāju saindēšanos [[sudrabs|sudraba]] kausēšanas laikā šī ļaunā gara darbiem. Iespējams, ļaunā gara vārds saistās ar grieķu vārdu ''kobalos'' — dūmi. Ar šo vārdu grieķi apzīmēja melīgus cilvēkus. [[1735]]. gadā [[Zviedrija]]s mineralogs [[Georgs Brands]] spēja no šī minerāla izdalīt iepriekš nezināmu metālu, kuru nosauca par kobaltu. Viņš tāpat noskaidroja, ka tieši šī elementa savienojumi iekrāso stiklu zilā krāsā. Šo īpašību izmantoja jau senajā [[Asīrija|Asīrijā]] un [[Babilonija|Babilonijā]].
+
+== Fizikālās īpašības ==
+Kobalts ir ciets metāls, kas pastāv divās modifikācijās. Sākot no istabas temperatūras, līdz 427&nbsp;°C ir stabila alfa modifikācija. Pie temperatūras no 427&nbsp;°C līdz kušanas temperatūrai (1494&nbsp;°C) ir stabila kobalta beta modifikācija. Kobalts ir [[feromagnētiķis]] ar [[Kirī punkts|Kirī punktu]] 1121&nbsp;°C. Dzeltenīgo toni tam dod plāns oksīdu slānis.
+
+== Izmantošana ==
+[[Litija kobaltāts]] tiek lietots augstas efektivitātes pozitīva [[elektrods|elektroda]] veidā litija [[akumulators|akumulatoru]] ražošanai. [[Kobalta silicīds]] ir lielisks termoelektrisks materiāls un tas ļauj ražot [[termoelektroģenerators|termoelektroģeneratorus]] ar augstu [[lietderības koeficients|lietderības koeficientu]]. Radioaktīvais kobalts-60 tiek pielietots [[gamma defektoskopijā]] un medicīnā.
+
+== Bioloģiskā loma ==
+Kobalts nelielās devās ir nepieciešams daudziem dzīvajiem organismiem, ieskaitot cilvēku. No 0,13 līdz 0,30 mg/kg liela deva kobalta jūtami uzlabo mājlopu veselību, tādēļ tas plaši tiek pielietots [[minerālmēsli|minerālmēslojumā]] un dzīvnieku barībā. Kobalts ietilpst [[B12 vitamīns|B<sub>12</sub> vitamīna]] (ciānkobalamīna) sastāvā. Cilvēkam kobalts ir jāuzņem caur pārtiku vai speciāliem vitamīniem. Cilvēka organismam obligāti ir nepieciešama vismaz minimāla kobalta deva, pretējā — kobalta trūkuma gadījumā rodas [[akobaltoze]]. Kobalta trūkums organismā daudzos gadījumos var izraisīt organisma respiratorās sistēmas saslimšanas vai tās traucējumus.
+
+Kobalts veicina daudzus svarīgus procesus organismā: veicina [[eritrocīts|sarkano asinsķermenīšu]] veidošanos (piedalās asinsradē), veicina un regulē vielmaiņas procesus, aktivizē [[ferments|enzīmu]] darbību, regulē B<sub>12</sub> vitamīna līmeni [[asinis|asinīs]]. Visvairāk kobalta ir [[Olas dzeltenums|olas dzeltenumā]], svaigos [[zemesrieksti|zemesriekstos]], pākšu [[pupiņas|pupiņās]], [[aprikozes|aprikozēs]], [[bumbieri|bumbieros]], [[āboli|ābolos]], [[sīpoli|sīpolos]], [[kāposti|kāpostos]], [[puķkāposti|puķkāpostos]], lapu dārzeņos, [[bietes|bietēs]], [[mellenes|mellenēs]], [[zemenes|zemenēs]], [[pētersīļi|pētersīļos]], [[lapu salāti|lapu salātos]], lociņos, [[spināti|spinātos]], [[tomāti|tomātos]] un [[valrieksti|valriekstos]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

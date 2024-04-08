@@ -1,0 +1,7 @@
+'''Epistāze''' ir dominēšanai līdzīga parādība, ko dažkārt novēro starp dažādu [[gēns|gēnu]] [[alēle|alēlēm]]. Gēnu izpausmi var nomākt gan cits [[dominantais gēns]], gan cits [[recesīvais gēns]].
+
+Piemēram, iespējams krustojums, kurā recesīvais gēns [[homozigota|homozigotā]] neļauj izpausties otra gēna alēļu darbībai. Pelēm [[albīnisms|albīnismu]] - [[pigments|pigmenta]] trūkumu apmatojumā u.c. - nosaka recesīvais gēns ''c''. Homozigotā tas nomāc pigmenta uzkrāšanos. Krustojot melnās peles ar baltajām, pirmās paaudzes īpatņiem ir savvaļas tipa krāsa "aguti", bet otrajā paaudzē notiek skaldīšanās: 9/16 ir aguti, 3/16 melnas un 4/16 baltas. Tādu skaldīšanos nosaka divi gēni - C-c un A-a. Gēna C-c recesīvā alēle homozigotā stāvoklī (cc) nomāc jebkura pigmenta attīstību, t.i., nosaka albīnismu. Gēna A-a dominantā alēle A nosaka "aguti" krāsu - katrs mats ir melns gandrīz visā garumā, tikai netālu no mata gala ir neliela dzeltena josla. Recesīvā alēle homozigotā stāvoklī (aa) nosaka vienmērīgi melnu matu pigmentāciju.
+
+{{Bioloģija-aizmetnis}}
+
+[[Kategorija:Ģenētika]]

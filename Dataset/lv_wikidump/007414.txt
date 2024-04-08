@@ -1,0 +1,105 @@
+{{Latvijas novada infokaste
+| nosaukums         = Medņevas pagasts
+| karte             = Medņevas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Semenova
+| platība           = 99,28
+| iedzīvotāji       = 696<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 696 / 99.28 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Medņevas pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Viļaka]]s pilsētu un [[Vecumu pagasts|Vecumu]], [[Šķilbēnu pagasts|Šķilbēnu]], [[Susāju pagasts|Susāju]], [[Lazdulejas pagasts|Lazdulejas]] un [[Bērzkalnes pagasts|Bērzkalnes]] pagastiem.
+
+== Daba ==
+Rietumu daļa atrodas [[Austrumlatvijas zemiene]]s [[Adzeles pacēlums|Adzeles pacēlumā]], austrumu daļa — [[Mudavas zemiene]]s [[Abrenes nolaidenums|Abrenes nolaidenumā]]. Augstākā vieta ir Kanguru (Kangaru) kalns (144,2 m vjl) pagasta dienvidos.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Koura]] ([[Vjada]]s pieteka)
+** [[Bušma]]
+** [[Nīdrupīte]]
+* [[Lodumka]] ([[Kuhva]]s pieteka)
+
+==== Ezeri ====
+Ilziņu ezers (3,1 ha) un garais, šaurais [[Lodumas ezers]] (2,6 ha).
+
+==== Purvi ====
+* dienvidrietumu daļā daļa no [[Lielais (Stompaku) purvs|Lielā (Stompaku) purva]]
+* [[Olūtovas purvs]] (55,3 ha)
+* [[Kļučniku purvs]] (31,8 ha)
+
+== Vēsture ==
+1945. gadā [[Abrenes apriņķis|Abrenes apriņķa]] [[Viļakas pagasts|Viļakas pagastā]] izveidoja Medņevas [[ciema padome|ciema padomi]]. '''Medņevas ciems''' ietilpis [[Viļakas apriņķis|Viļakas apriņķī]] (1945-1949) un [[Abrenes rajons|Abrenes]] (1949-1959) un [[Balvu rajons|Balvu]] (pēc 1959. gada) rajonos. Medņevas ciemam 1954. gadā pievienoja likvidēto [[Viduču ciems|Viduču ciemu]], 1961. gadā [[padomju saimniecība]]s Šķilbēni teritoriju pievienoja [[Loginas ciems|Loginas ciemam]], 1971. gadā pieveinoja [[Šķilbēnu ciems|Šķilbēnu ciema]] padomju saimniecības Medņeva teritoriju.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Medņevas pagastu kā administratīvo teritoriju iekļāva [[Viļakas novads|Viļakas novadā]]. 2021. gadā Viļakas novadu iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Valsts aizsargājamie kultūras pieminekļi ===
+* Nr. 273.: Brontu viduslaiku kapsēta - Brontos	
+* Nr. 274.: Baznīcas vieta (kulta vieta) - Kangaros pie kapsētas	
+* Nr. 275.: Kangaru senkapi (Augsnas kalniņš) - Kangaros, 1 km uz dienvidiem no Kangaru centra						
+* Nr. 276.: Lašku senkapi (Zviedru kapi) - Laškos	
+* Nr. 278.: Medņevas senkapi (Stepu kalns, Kara kapi) - Medņevā						
+* Nr. 279.: Medņevas viduslaiku kapsēta	- Medņevā	
+* Nr. 280.: Aizgalīnes senkapi (Zviedru kapi) - pie Aizgalīnes kapsētas	
+* Nr. 277.: Loginu senkapi - pie Loginiem	
+* Nr. 281.: Raču Raganu kalns (kulta vieta) - Račos pie Līdumniekiem	
+* Nr. 282.: Skandīnes senkapi - Skandīnē	
+* Nr. 283.: Karaļa kaps (senkapi) - starp Kangariem un Kozlovu	
+* Nr. 284.: Kozlovas senkapi (Akmeņu krasts) - starp Kangariem un Kozlovu	
+* Nr. 285.: Slotukalna senkapi - starp Slotukalnu un Olūtavu.<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2000
+|1959|1875
+|1967|1550
+|1979|1278
+|1989|1035
+|2000|981
+|2011|724
+|2021|589
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Semenova]]''' (pagasta centrs), [[Viduči (Medņevas pagasts)|Viduči]], [[Aizpurve (Medņevas pagasts)|Aizpurve]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Viļakas novads}}
+{{Balvu rajons}}
+}}
+
+{{DEFAULTSORT:Mednzevas pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Medņevas pagasts| ]]
+[[Kategorija:Viļakas novads]]

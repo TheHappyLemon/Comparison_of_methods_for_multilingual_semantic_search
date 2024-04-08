@@ -1,0 +1,391 @@
+{{Rakstu sistēmas infokaste
+ |nosaukums          = Grieķu alfabēts
+ |tips               = [[alfabēts]]
+ |valodas            = [[grieķu valoda]]
+ |laiks              = 8. gadsimts p.m.ē. — mūsdienas
+ |radītājs           = 
+ |statuss            = 
+ |virziens           = no kreisās uz labo
+ |saime              = [[Ēģiptiešu hieroglifi]]
+ |fam1               = [[Ēģiptiešu hieroglifi]]
+ |fam2               = [[Protosīnājas raksts]]
+ |fam3               = [[Feniķiešu raksts]]
+ |atvasinājumi       = [[latīņu raksts]], [[gotu raksts]], [[glagolica]], [[kirilica]], [[koptu alfabēts]], [[senitāļu raksts]]
+ |radinieki          = 
+ |unicode            = ''Greek''
+ |iso15924           = Grek (200)
+ |sample             = Greekalphabet.svg
+ |caption            = 
+ |image_size         = 260px
+ |footnotes          = 
+ |IPAChartEng        = include
+ }}
+<!-- {{Grieķu alfabēts (sānjosla)}} -->
+'''Grieķu alfabēts''' ({{val-el|ελληνικό αλφάβητο}}) ir [[alfabēts]], kas sastāv no 24 [[burts|burtiem]] un tiek lietots [[grieķu valoda]]s pierakstīšanai kopš [[8. gadsimts p.m.ē.|8. gadsimta p.m.ē]].<ref name="Cook"/> Tas radies uz [[feniķiešu alfabēts|feniķiešu alfabēta]] pamata, taču, atšķirībā no feniķiešu alfabēta, grieķu alfabētā ar burtiem tika apzīmēti ne tikai [[līdzskanis|līdzskaņi]], bet arī [[patskanis|patskaņi]]. Grieķu alfabēta burti tika lietoti arī [[skaitlis|skaitļu]] apzīmēšanai. Mūsdienās grieķu alfabēta burti tiek plaši izmantoti dažādu [[fizikāls lielums|fizikālu lielumu]] apzīmēšanai zinātnē. No grieķu alfabēta izveidojies [[latīņu alfabēts]], [[kirilica]]<ref name="Coulmas"/>, [[koptu alfabēts]] un citi alfabēti.
+
+== Burti ==
+{|border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
+!rowspan="2" style="background:#ccf;"|Burts
+!colspan="4" style="background:#ccf;"|Nosaukums
+!colspan="2" style="background:#ccf;"|Izruna
+!rowspan="2" style="background:#ccf;"|Atbilstošais<br /> burts [[feniķiešu alfabēts|feniķiešu<br />alfabētā]]
+!colspan="2" style="background:#ccf;"|[[Transliterācija]]
+!rowspan="2" style="background:#ccf;"|Kā skaitļa<br />nozīme
+|-
+!style="background:#ccffff;"|sengrieķu
+!style="background:#ccffff;"|bizantiešu
+!style="background:#ccffff;"|jaungrieķu
+!style="background:#ccffff;"|latviski
+!style="background:#ccffff;"|sengrieķu
+!style="background:#ccffff;"|jaungrieķu
+!style="background:#ccffff;"|sengrieķu
+!style="background:#ccffff;"|jaungrieķu
+|-
+|style="font-size:133%;"|Α α
+|colspan="2"|ἄλφα
+|άλφα
+|[[alfa]]
+|{{IPA|[a] [aː]}}
+|{{IPA|[a]}}
+|[[Attēls:phoenician_aleph.svg|20px|ālefs]] [[ālefs]]
+|colspan="2"|a
+|1
+|-
+|style="font-size:133%;"|Β β
+|colspan="2"|βῆτα
+|βήτα
+|[[bēta]]
+|{{IPA|[b]}}
+|{{IPA|[v]}}
+|[[Attēls:phoenician_beth.svg|20px|bēts]] [[bēts]]
+|b
+|bh, b, v
+|2
+|-
+|style="font-size:133%;"|Γ γ
+|colspan="2"|γάμμα
+|γάμμα<br />γάμα
+|[[gamma (burts)|gamma]]
+|{{IPA|[g]}}/{{IPA|[n]}}
+|{{IPA|[ɣ], [ʝ]}}
+|[[Attēls:phoenician_gimel.svg|20px|gimels]] [[gimels]]
+|g
+|gh, g
+|3
+|-
+|style="font-size:133%;"|Δ δ
+|colspan="2"|δέλτα
+|δέλτα
+|[[delta (burts)|delta]]
+|{{IPA|[d]}}
+|{{IPA|[ð]}}
+|[[Attēls:phoenician_daleth.svg|20px|dālets]] [[dālets]]
+|d
+|dh, d
+|4
+|-
+|style="font-size:133%;"|Ε ε
+|εἶ
+|ἒ ψιλόν
+|έψιλον
+|[[epsilons]]
+|colspan="2"|{{IPA|[e]}}
+|[[Attēls:phoenician_he.svg|20px|hē]] [[hē (burts)|hē]]
+|colspan="2"|e
+|5
+|-
+|style="font-size:133%;"|Ζ ζ
+|colspan="2"|ζῆτα
+|ζήτα
+|[[zēta]]
+|{{IPA|[dz]}}, vēlāk {{IPA|[zː]}}
+|{{IPA|[z]}}
+|[[Attēls:phoenician_zayin.svg|20px|zains]] [[zains]]
+|colspan="2"|z
+|7
+|-
+|style="font-size:133%;"|Η η
+|colspan="2"|ἦτα
+|ήτα
+|[[ēta]]
+|{{IPA|[ɛː]}}
+|{{IPA|[i]}}
+|[[Attēls:phoenician_heth.svg|20px|hēts]] [[hēts]]
+|e, ē
+|i
+|8
+|-
+|style="font-size:133%;"|Θ θ
+|colspan="2"|θῆτα
+|θήτα
+|[[tēta]]
+|{{IPA|[tʰ]}}
+|{{IPA|[θ]}}
+|[[Attēls:phoenician_teth.svg|20px|tēts]] [[tēts]]
+|colspan="2"|th
+|9
+|-
+|style="font-size:133%;"|Ι ι
+|colspan="2"|ἰῶτα
+|ιώτα<br />γιώτα
+|[[jota]]
+|{{IPA|[i] [iː]}}
+|{{IPA|[i]}}, {{IPA|[j]}}
+|[[Attēls:phoenician_yodh.svg|20px|jods]] [[jods (burts)|jods]]
+|colspan="2"|i
+|10
+|-
+|style="font-size:133%;"|Κ κ
+|colspan="2"|κάππα
+|κάππα<br />κάπα
+|[[kapa]]
+|{{IPA|[k]}}
+|{{IPA|[k], [c]}}
+|[[Attēls:phoenician_kaph.svg|20px|kāfs]] [[kāfs]]
+|c
+|k
+|20
+|-
+|style="font-size:133%;"|Λ λ
+|λάβδα
+|λάμβδα
+|λάμδα<br />λάμβδα
+|[[lambda]]
+|colspan="2"|{{IPA|[l]}}
+|[[Attēls:phoenician_lamedh.svg|20px|lāmeds]] [[lāmeds]]
+|colspan="2"|l
+|30
+|-
+|style="font-size:133%;"|Μ μ
+|colspan="2"|μῦ
+|μι<br />μυ
+|[[mī]]
+|colspan="2"|{{IPA|[m]}}
+|[[Attēls:phoenician_mem.svg|20px|mēms]] [[mēms (burts)|mēms]]
+|colspan="2"|m
+|40
+|-
+|style="font-size:133%;"|Ν ν
+|colspan="2"|νῦ
+|νι<br />νυ
+|[[nī]]
+|colspan="2"|{{IPA|[n]}}
+|[[Attēls:phoenician_nun.svg|20px|nūns]] [[nūns]]
+|colspan="2"|n
+|50
+|-
+|style="font-size:133%;"|Ξ ξ
+|ξεῖ
+|ξῖ
+|ξι
+|[[ksī]]
+|colspan="2"|{{IPA|[ks]}}
+|[[Attēls:phoenician_samekh.svg|20px|sāmehs]] [[sāmehs]]
+|x
+|x, ks
+|60
+|-
+|style="font-size:133%;"|Ο ο
+|οὖ
+|ὂ μικρόν
+|όμικρον
+|[[omikrons]]
+|colspan="2"|{{IPA|[o]}}
+|[[Attēls:phoenician_ayin.svg|20px|ains]] [[ains]]
+|colspan="2"|o
+|70
+|-
+|style="font-size:133%;"|Π π
+|πεῖ
+|πῖ
+|πι
+|[[pī (burts)|pī]]
+|colspan="2"|{{IPA|[p]}}
+|[[Attēls:phoenician_pe.svg|20px|pē]] [[pē]]
+|colspan="2"|p
+|80
+|-
+|style="font-size:133%;"|Ρ ρ
+|colspan="2"|ῥῶ
+|ρω
+|[[ro]]
+|{{IPA|[r]}}, {{IPA|[r̥]}}
+|{{IPA|[r]}}
+|[[Attēls:phoenician_res.svg|20px|rēšs]] [[rēšs]]
+|r, rh
+|r
+|100
+|-
+|<span style="font-size:133%;">Σ σ ς</span>
+|colspan="2"|σῖγμα
+|σίγμα
+|[[sigma]]
+|colspan="2"|{{IPA|[s]}}
+|[[Attēls:phoenician_sin.svg|20px|šins]] [[šins]]
+|colspan="2"|s
+|200
+|-
+|style="font-size:133%;"|Τ τ
+|colspan="2"|ταῦ
+|ταυ
+|[[tau (burts)|tau]]
+|colspan="2"|{{IPA|[t]}}
+|[[Attēls:phoenician_taw.svg|20px|tāvs]] [[tāvs]]
+|colspan="2"|t
+|300
+|-
+|style="font-size:133%;"|Υ υ
+|ὖ
+|ὖ ψιλόν
+|ύψιλον
+|[[ipsilons]]
+|{{IPA|[y], [yː]<br />(agrāk [u], [uː])}}
+|{{IPA|[i]}}
+|[[Attēls:phoenician_waw.svg|20px|vāvs]] [[vāvs]]
+|u, y
+|y, v, f
+|400
+|-
+|style="font-size:133%;"|Φ φ
+|φεῖ
+|φῖ
+|φι
+|[[fī]]
+|{{IPA|[pʰ]}}
+|{{IPA|[f]}}
+|rowspan="3"|
+|ph
+|ph, f
+|500
+|-
+|style="font-size:133%;"|Χ χ
+|χεῖ
+|χῖ
+|χι
+|[[hī]]
+|{{IPA|[kʰ]}}
+|{{IPA|[x], [ç]}}
+|ch
+|ch, kh
+|600
+|-
+|style="font-size:133%;"|Ψ ψ
+|ψεῖ
+|ψῖ
+|ψι
+|[[psī]]
+|colspan="2"|{{IPA|[ps]}}
+|colspan="2"|ps
+|700
+|-
+|style="font-size:133%;"|Ω ω
+|ὦ
+|ὦ μέγα
+|ωμέγα
+|[[omega]]
+|{{IPA|[ɔː]}}
+|{{IPA|[o]}}
+|[[Attēls:phoenician_ayin.svg|20px|ains]] [[ains]]
+|o, ō
+|o
+|800
+|}
+
+<br/>
+
+{|border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
+!rowspan="2" style="background:#ccf;"|Burts
+!rowspan="2" style="background:#ccf;"|Atbilstošais<br /> burts [[feniķiešu alfabēts|feniķiešu<br />alfabētā]]
+!colspan="3" style="background:#ccf;"|Nosaukums
+!rowspan="2" style="background:#ccf;"|[[Transliterācija]]
+!rowspan="2" style="background:#ccf;"|Izruna
+!rowspan="2" style="background:#ccf;"|Kā skaitļa<br />nozīme
+|-
+!style="background:#ccffff;"|latviski
+!style="background:#ccffff;"|sengrieķu
+!style="background:#ccffff;"|jaungrieķu
+|-
+|style="font-size:133%;"|[[Attēls:digamma uc lc.svg|30px|Digamma]] ([[Attēls:pamphylian digamma uc lc.svg|30px|Digamma]])
+|[[Attēls:phoenician waw.svg|20px|vāvs]] [[vāvs]]
+|[[digamma]]
+|ϝαῦ
+|δίγαμμα
+|w
+|{{IPA|[w]}}
+|6
+|-
+|style="font-size:133%;"|[[Attēls:stigma uc lc.svg|30px|Stigma]]
+|
+|[[stigma (burts)|stigma]]
+| -
+|στῖγμα
+|st
+|{{IPA|[st]}}
+|6
+|-
+|style="font-size:133%;"|[[Attēls:heta uc lc.svg|30px|Heta]]
+|[[Attēls:phoenician heth.svg|20px|hēts]] [[hēts]]
+|[[hēta]]
+|ἧτα
+|ήτα
+|h
+|{{IPA|[h]}}
+| -
+|-
+|style="font-size:133%;"|[[Attēls:san uc lc.svg|30px|San]]
+|[[Attēls:phoenician sade.svg|20px|cādē]] [[cādē]]
+|[[sans]]
+|ϻάν
+|σάν
+|s
+|{{IPA|[s]}}
+| -
+|-
+|style="font-size:133%;"|[[Attēls:qoppa uc lc.svg|30px|Koppa]] ([[Attēls:qoppa new uc lc.svg|30px|Koppa]])
+|[[Attēls:phoenician qoph.svg|20px|kofs]] [[kofs]]
+|[[kopa (burts)|kopa]]
+|ϙόππα
+|κόππα
+|q
+|{{IPA|[q]}}
+|90
+|-
+|style="font-size:133%;"|[[Attēls:sampi uc lc T-shaped.svg|30px|Sampi]] ([[Attēls:sampi uc lc.svg|30px|Sampi]])
+|[[Attēls:phoenician sade.svg|20px|cādē]] [[cādē]]
+|[[sampi]]
+| -
+|σαμπῖ
+|ss
+|{{IPA|[sː]}}, {{IPA|[ks]}}, {{IPA|[ts]}}
+|900
+|-
+|style="font-size:133%;"|[[Attēls:sho uc lc.svg|30px|Sho]]
+|[[Attēls:phoenician sade.svg|20px|cādē]] [[cādē]]
+|[[šo]]
+| -
+| -
+|sh
+|{{IPA|[ʃ]}}
+| -
+|}
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Cook">{{grāmatas atsauce | last= Cook | first=B. F. | year= 1987 | title= Greek inscriptions | url= https://archive.org/details/greekinscription0000cook | place= | publisher= University of California Press/British Museum | ref= harv | page= [https://archive.org/details/greekinscription0000cook/page/9 9]}}</ref>
+
+<ref name="Coulmas">{{grāmatas atsauce | last= Coulmas | first= Florian | title= The Blackwell Encyclopedia of Writing Systems | year= 1996 | publisher= Blackwell Publishers Ltd. | location= Oxford | isbn= 0-631-21481-X | ref= harv}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://unicode.org/charts/PDF/U0370.pdf Unicode] Grieķu alfabēts {{en}}
+* [http://www.opoudjis.net/unicode/unicode.html Greek Unicode Issues] {{en}}
+
+{{valoda-aizmetnis}}
+{{Grieķu alfabēts}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Grieķu alfabēts| ]]
+[[Kategorija:Rakstības]]
+[[Kategorija:Alfabēti]]

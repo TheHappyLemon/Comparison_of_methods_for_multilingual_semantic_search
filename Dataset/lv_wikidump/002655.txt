@@ -1,0 +1,294 @@
+[[Attēls:Europe-Albania.svg|230px|thumbnail|Albānijas novietojums [[Eiropa|Eiropā]]]]
+Šis ir '''Albānijas pilsētu uzskaitījums'''. Pilsētas statusu [[Albānija|Albānijā]] piešķir Albānijas Statistikas institūts{{fact}}<!-- <ref>[https://archive.today/20120630153950/www.instat.gov.al/graphics/image/Mbi%20Shqiperine/Ndarja_Administrative.gif INSTAT: Mbi Shqiperine: Ndarja Administrative dhe Territoriale]</ref> -->. Albānijā ir '''65 pilsētas'''<ref>[http://www.instat.gov.al/ "Mbi Shqipërinë" > "Ndarja Administrative dhe Territoriale"] {{Webarchive|url=https://web.archive.org/web/20190210091104/http://www.instat.gov.al/ |date={{dat|2019|02|10||bez}} }} - [[Instituti i statistikës|Instituti i Statistikës]], e hapur me 4 qershor 2011</ref>. Albānijas galvaspilsēta ir [[Tirāna]], kas ir arī valsts lielākā pilsēta pēc iedzīvotāju skaita un arī Albānijas ekonomikas centrs. Albānijas otrā lielākā pilsēta un lielākā ostaspilsēta ir [[Durresa]]. Atsevišķās pilsētās ir pašvaldības funkcijas (''njësi bashkiake, lagje or rajone''). Pat ja pilsētās nav atsevišķs administratīvais dalījums, tā ir daļa no pilsētas pašvaldības (''bashki'') administratīvajā līmenī Albānijā.
+
+== Pilsētu sadalījums starp ķarkām (apgabaliem) ==
+
+{| width=250px align=right
+|-
+|
+{{Image label begin|image=Albania location map.svg|width=250|float=none}}
+
+{{Image label small|x=0.25|y=0.45|scale=500|text=[[Berati ķarka|Berati<br />ķarka]]}}
+{{Image label small|x=0.27|y=0.26|scale=500|text=[[Dibras ķarka|Dibras<br />ķarka]]}}
+{{Image label small|x=0.18|y=0.27|scale=500|text=[[Duresi ķarka|Duresi<br />ķarka]]}}
+{{Image label small|x=0.27|y=0.36|scale=500|text=[[Eļbasani ķarka|Eļbasani<br />ķarka]]}}
+{{Image label small|x=0.17|y=0.41|scale=500|text=[[Fieri ķarka|Fieri<br />ķarka]]}}
+{{Image label small|x=0.25|y=0.52|scale=500|text=[[Ģirokastras ķarka|Ģirokastras<br />ķarka]]}}
+{{Image label small|x=0.35|y=0.44|scale=500|text=[[Korčas ķarka|Korčas<br />ķarka]]}}
+{{Image label small|x=0.29|y=0.14|scale=500|text=[[Kukesi ķarka|Kukesi<br />ķarka]]}}
+{{Image label small|x=0.18|y=0.22|scale=500|text=[[Ļežas ķarka|Ļežas<br />apgabals]]}}
+{{Image label small|x=0.19|y=0.15|scale=500|text=[[Škodras ķarka|Škodras<br />ķarka]]}}
+{{Image label small|x=0.19|y=0.32|scale=500|text=[[Tirānas ķarka|Tirānas<br />ķarka]]}}
+{{Image label small|x=0.2|y=0.57|scale=500|text=[[Vļoras ķarka|Vļoras<br />ķarka]]}}
+{{Image label end}}
+|}
+
+{| class="wikitable"
+|-
+! Apgabals!! Pilsētu skaits
+|-
+| [[Berati ķarka]]||5
+|-
+| [[Dibras ķarka]]||4
+|-
+| [[Duresi ķarka]]||4
+|-
+| [[Eļbasani ķarka]]||7
+|-
+| [[Fieri ķarka]]||6
+|-
+| [[Ģirokastras ķarka]]||6
+|-
+| [[Korčas ķarka]]||6
+|-
+| [[Kukesi ķarka]]||3
+|-
+| [[Ļežas ķarka]]||7
+|-
+| [[Škodras ķarka]]||4
+|-
+| [[Tirānas ķarka]]||6
+|-
+| [[Vļoras ķarka]]||7
+|-
+|}
+
+== Pilsētu uzskaitījums ==
+{| class="sortable wikitable"
+|-
+! Pilsēta !! Pilsētas nosaukums<br />([[albāņu valoda|albāņu valodā]])!! Ģerbonis !! Iedz. sk.<br />(2011) !! Ķarka !! Rete
+|-
+|[[Bairamcuri]]||''Bajram Curri''|| ||5340||[[Kukesi ķarka]]||[[Tropojas rajons]]
+|-
+|[[Balši]]||''Ballshi''|| ||7657||[[Fieri ķarka]]||[[Mammakasteras rajons]]
+|-
+|[[Belši]]||''Belsh''|| ||8781||[[Eļbasani ķarka]]||[[Eļbasani rajons]]
+|-
+|[[Berati]]||''Berati''|| ||36496||[[Berati ķarka]]||[[Berati rajons]]
+|-
+|[[Biļišti]]||''Bilishti''|| ||6250||[[Korčas ķarka]]||[[Devollas rajons]]
+|-
+|[[Buļķiza]]||''Bulqizë''|| ||8177||[[Dibras ķarka]]||[[Buļķizas rajons]]
+|-
+|[[Bureļi]]||''Burreli''|| ||10862||[[Dibras ķarka]]||[[Mati rajons]]
+|-
+|[[Ceriku]]||''Cërriku''|| ||6695||[[Eļbasani ķarka]]||[[Eļbasani rajons]]
+|-
+|[[Čorovoda]]||''Çorovodë''|| ||4051||[[Berati ķarka]]||[[Skrapari rajons]]
+|-
+|[[Deļvina]]||''Delvinë''|| ||5754||[[Vļoras ķarka]]||[[Deļvinas rajons]]
+|-
+|[[Divjaka]]||''Divjakë''|| ||8445||[[Fieri ķarka]]||[[Ļušņas rajons]]
+|-
+|[[Durresa|Duresi]]||''Durrës''||[[Attēls:Stema e Bashkisë Durrës.jpg|30px]]||113249||[[Duresi ķarka]]||[[Duresi rajons]]
+|-
+|[[Eļbasana|Eļbasani]]||''Elbasan''||[[Attēls:Coat of arms of Elbasan.svg|30px]]||78703||[[Eļbasani ķarka]]||[[Eļbasani rajons]]
+|-
+|[[Erseka]]||''Ersekë''|| ||3746||[[Korčas ķarka]]||[[Koloņas rajons]]
+|-
+|[[Fieri]]||''Fier''||[[Attēls:Stema e Bashkisë Fier.svg|30px]]||55845||[[Fieri ķarka]]||[[Fieri rajons]]
+|-
+|[[Fuše Arezi]]||''Fushë-Arrëz''|| ||2513||[[Škodras ķarka]]||[[Pukas rajons]]
+|-
+|[[Fuše Kruja]]||''Fushë-Krujë''|| ||18477||[[Duresi ķarka]]||[[Krujas rajons]]
+|-
+|[[Gramši (pilsēta)|Gramši]]||''Gramshi''|| ||8440||[[Eļbasani ķarka]]||[[Gramši rajons]]
+|-
+|[[Ģirokastra]]||''Gjirokastër''|| ||19836||[[Ģirokastras ķarka]]||[[Ģirokastras rajons]]
+|-
+|[[Himara]]||''Himarë''|| ||2822||[[Vļoras ķarka]]||[[Vļoras rajons]]
+|-
+|[[Kamza]]||''Kamëz''|| ||66841||[[Tirānas ķarka]]||[[Tirānas rajons]]
+|-
+|[[Kavaja]]||''Kavajë''||[[File:Stema e Bashkisë Kavajë.svg|30px]]||20192||[[Tirānas ķarka]]||[[Kavajas rajons]]
+|-
+|[[Kelcira]]||''Këlcyrë''|| ||2651||[[Ģirokastras ķarka]]||[[Permeti rajons]]
+|-
+|[[Konispoli]]||''Konispoli''|| ||2123||[[Vļoras ķarka]]||[[Sarandas rajons]]
+|-
+|[[Kopļiku]]||''Kopliku''|| ||3734||[[Škodras ķarka]]||[[Maļesas Mades rajons]]
+|-
+|[[Korča]]||''Korçë''||[[Attēls:Stema e Bashkisë Korçë.svg|30px]]||51152||[[Korčas ķarka]]||[[Korčas rajons]]
+|-
+|[[Krasta]]||''Krasta''|| ||1540||[[Dibras ķarka]]||[[Buļķizas rajons]]
+|-
+|[[Kruja]]||''Krujë''|| ||11721||[[Duresi ķarka]]||[[Krujas rajons]]
+|-
+|[[Kruma]]||''Krumë''|| ||6006||[[Kukesi ķarka]]||[[Hasi rajons]]
+|-
+|[[Kukesi]]||''Kukës''|| ||16719||[[Kukesi ķarka]]||[[Kukesi rajons]]
+|-
+|[[Kučova]]||''Kuçovë''|| ||12654||[[Berati ķarka]]||[[Kučovas rajons]]
+|-
+|[[Ļači]]||''Laç''|| ||17086||[[Ļežas ķarka]]||[[Kurbinas rajons]]
+|-
+|[[Ļeskoviku]]||''Leskovik''|| ||1525||[[Korčas ķarka]]||[[Koloņas rajons]]
+|-
+|[[Ļeža]]||''Lezhë''|| ||15510||[[Ļežas ķarka]]||[[Ļežas rajons]]
+|-
+|[[Ļibohova]]||''Libohovë''|| ||1992||[[Ģirokastras ķarka]]||[[Ģirokastras rajons]]
+|-
+|[[Ļibraždi]]||''Librazhd''|| ||6937||[[Eļbasani ķarka]]||[[Ļibraždi rajons]]
+|-
+|[[Ļušņa]]||''Lushnjë''|| ||31105||[[Fieri ķarka]]||[[Ļušņas rajons]]
+|-
+|[[Maļiķi]]||''Maliq''|| ||4290||[[Korčas ķarka]]||[[Korčas rajons]]
+|-
+|[[Mamurasi]]||''Mamurras''|| ||15284||[[Ļežas ķarka]]||[[Kurbinas rajons]]
+|-
+|[[Manza]]||''Manëz''|| ||6652||[[Duresi ķarka]]||[[Duresi rajons]]
+|-
+|[[Memaļi]]||''Memaliaj''|| ||2647||[[Ģirokastras ķarka]]||[[Tepeļenas rajons]]
+|-
+|[[Miļoti]]||''Milot''|| ||2000||[[Ļežas ķarka]]||[[Kurbinas rajons]]
+|-
+|[[Orikumi]]||''Orikum''|| ||5503||[[Vļoras ķarka]]||[[Vļoras rajons]]
+|-
+|[[Patosi]]||''Patos''|| ||15397||[[Fieri ķarka]]||[[Fieri rajons]]
+|-
+|[[Peķini]]||''Peqin''|| ||6353||[[Eļbasani ķarka]]||[[Peķini rajons]]
+|-
+|[[Permeti]]||''Përmet''|| ||5945||[[Ģirokastras ķarka]]||[[Permeti rajons]]
+|-
+|[[Peškopi]]||''Peshkopi''|| ||13251||[[Dibras ķarka]]||[[Dibras rajons]]
+|-
+|[[Pogradeci]]||''Pogradec''|| ||20848||[[Korčas ķarka]]||[[Pogradeci rajons]]
+|-
+|[[Poļičani]]||''Poliçan''|| ||4318||[[Berati ķarka]]||[[Skrapari rajons]]
+|-
+|[[Preņasi]]||''Prrenjas''|| ||5847||[[Eļbasani ķarka]]||[[Ļibraždi rajons]]
+|-
+|[[Puka]]||''Pukë''|| ||3607||[[Škodras ķarka]]||[[Pukas rajons]]
+|-
+|[[Rešeni]]||''Rrësheni''|| ||8803||[[Ļežas ķarka]]||[[Mirditas rajons]]
+|-
+|[[Rogožina]]||''Rrogozhinë''|| ||7049||[[Tirānas ķarka]]||[[Kavajas rajons]]
+|-
+|[[Roskoveci]]||''Roskoveci''|| ||4975||[[Fieri ķarka]]||[[Fieri rajons]]
+|-
+|[[Rubiku]]||''Rubiku''|| ||4454||[[Ļežas ķarka]]||[[Mirditas rajons]]
+|-
+|[[Saranda]]||''Sarandë''|| ||17233||[[Vļoras ķarka]]||[[Sarandas rajons]]
+|-
+|[[Seļeņica]]||''Selenicë''|| ||2235||[[Vļoras ķarka]]||[[Vļoras rajons]]
+|-
+|[[Sukti i Ru]]||''Sukth''|| ||15966||[[Duresi ķarka]]||[[Duresi rajons]]
+|-
+|[[Šijaku]]||''Shijaku''|| ||7568||[[Duresi ķarka]]||[[Duresi rajons]]
+|-
+|[[Škodra]]||''Shkodër''||[[File:Coat of arms of Shkodra.svg|30px]]||77075||[[Škodras ķarka]]||[[Škodras rajons]]
+|-
+|[[Šengjini]]||''Shëngjini''|| ||2500||[[Ļežas ķarka]]||[[Ļežas rajons]]
+|-
+|[[Tepeļena]]||''Tepelenë''|| ||4342||[[Ģirokastras ķarka]]||[[Tepeļenas rajons]]
+|-
+|[[Tirāna]]||''Tiranë''||[[Attēls:Stema e Bashkisë Tiranë.svg|30px]]||418495||[[Tirānas ķarka]]||[[Tirānas rajons]]
+|-
+|[[Ura Vaigorore]]||''Urë Vajgurore''|| ||7232||[[Berati ķarka]]||[[Berati rajons]]
+|-
+|[[Vau i Deja]]||''Vau i Dejës''|| ||8117||[[Škodras ķarka]]||[[Škodras rajons]]
+|-
+|[[Vļora]]||''Vlorë''|| ||79513||[[Vļoras ķarka]]||[[Vļoras rajons]]
+|-
+|[[Vora]]||''Vorë''|| ||10901||[[Tirānas ķarka]]||[[Tirānas rajons]]
+|}
+
+== Galerija ==
+{{Galerija
+|title=Albānijas 10. lielākās pilsētas pēc iedzīvotāju skaita (2011)
+|width=160 | height=170
+|perrow=5
+|align=center
+|captionstyle=text-align:center;
+|footer=
+| File:Tirana View from Sky Tower 3.JPG|1. [[Tirāna]] - [[Albānija]]s [[galvaspilsēta]]
+| File:Durres view.jpg|2. - [[Durresa|Duresi]]
+| File:Vlora.jpg|3. - [[Vļora]]
+| File:Elbasan 1.jpg|4. [[Eļbasana|Eļbasani]]
+| File:Shkoder.JPG|5. - [[Škodra]]
+| File:Tirana Albania pano 2004-07-14 - Kamza part.jpg| 6. - [[Kamza]]
+| File:Fier (Albania).jpg|7. - [[Fieri]]
+||8. - [[Korča]]
+| File:Berat Albania.jpg|9. - [[Berati]]
+| File:Lushnja Qendër.jpg| 10. - [[Ļušņa]]
+}}
+
+== Karte ==
+{{VietasKarte+|Albānija|width=750 |float=center|caption = Albānijas pilsētu izvietojums ('''treknrakstā''' — galvaspilsēta)
+|places =
+{{VietasKarte~|Albānija|lat=42.35|long=20.083333|position = left |label=[[Bairamcuri]]}}
+{{VietasKarte~|Albānija|lat=40.598965|long=19.735909|position = right |label=[[Balši]]}}
+{{VietasKarte~|Albānija|lat=40.983333|long=19.883333|position = right |label=[[Belši]]}}
+{{VietasKarte~|Albānija|lat=40.7|long=19.95|position = right |label=[[Berati]]}}
+{{VietasKarte~|Albānija|lat=40.6275|long=20.99|position = left |label=[[Biļišti]]}}
+{{VietasKarte~|Albānija|lat=41.483333|long=20.216667|position = right |label=[[Buļķiza]]}}
+{{VietasKarte~|Albānija|lat=41.608333|long=20.011111|position = right |label=[[Bureļi]]}}
+{{VietasKarte~|Albānija|lat=41.033333|long=19.983333|position = right |label=[[Ceriku]]}}
+{{VietasKarte~|Albānija|lat=40.5|long=20.216667|position = right |label=[[Čorovoda]]}}
+{{VietasKarte~|Albānija|lat=39.95|long=20.1|position = right |label=[[Deļvina]]}}
+{{VietasKarte~|Albānija|lat=41|long=19.533333|position = right |label=[[Divjaka]]}}
+{{VietasKarte~|Albānija|lat=41.316667|long=19.45|position = left |label=[[Durresa|Duresi]]}}
+{{VietasKarte~|Albānija|lat=41.1|long=20.066667|position = top |label=[[Eļbasana|Eļbasani]]}}
+{{VietasKarte~|Albānija|lat=40.333333|long=20.683333|position = left |label=[[Erseka]]}}
+{{VietasKarte~|Albānija|lat=40.716667|long=19.55|position = left |label=[[Fieri]]}}
+{{VietasKarte~|Albānija|lat=42.066667|long=20.033333|position = top |label=[[Fuše Arezi]]}}
+{{VietasKarte~|Albānija|lat=41.483333|long=19.716667|position = left |label=[[Fuše Kruja]]}}
+{{VietasKarte~|Albānija|lat=40.866667|long=20.183333|position = top |label=[[Gramši (pilsēta)|Gramši]]}}
+{{VietasKarte~|Albānija|lat=40.066667|long=20.133333|position = left |label=[[Ģirokastra]]}}
+{{VietasKarte~|Albānija|lat=40.116667|long=19.733333|position = right |label=[[Himara]]}}
+{{VietasKarte~|Albānija|lat=41.383333|long=19.766667|position = right |label=[[Kamza]]}}
+{{VietasKarte~|Albānija|lat=41.184167|long=19.561944|position = right |label=[[Kavaja]]}}
+{{VietasKarte~|Albānija|lat=40.313|long=20.192|position = right |label=[[Kelcira]]}}
+{{VietasKarte~|Albānija|lat=39.666667|long=20.183333|position = top |label=[[Konispoli]]}}
+{{VietasKarte~|Albānija|lat=42.213611|long=19.436389|position = right |label=[[Kopļiku]]}}
+{{VietasKarte~|Albānija|lat=40.616667|long=20.766667|position = left |label=[[Korča]]}}
+{{VietasKarte~|Albānija|lat=41.423333|long=20.203611|position = right |label=[[Krasta]]}}
+{{VietasKarte~|Albānija|lat=41.516667|long=19.8|position = right |label=[[Kruja]]}}
+{{VietasKarte~|Albānija|lat=42.2|long=20.416667|position = left |label=[[Kruma]]}}
+{{VietasKarte~|Albānija|lat=42.066667|long=20.416667|position = left |label=[[Kukesi]]}}
+{{VietasKarte~|Albānija|lat=40.803889|long=19.914444|position = right |label=[[Kučova]]}}
+{{VietasKarte~|Albānija|lat=41.635278|long=19.713056|position = right |label=[[Ļači]]}}
+{{VietasKarte~|Albānija|lat=40.15|long=20.6|position = left |label=[[Ļeskoviku]]}}
+{{VietasKarte~|Albānija|lat=41.783333|long=19.633333|position = top |label=[[Ļeža]]}}
+{{VietasKarte~|Albānija|lat=40.033333|long=20.266667|position = top |label=[[Ļibohova]]}}
+{{VietasKarte~|Albānija|lat=41.183333|long=20.316667|position = right |label=[[Ļibraždi]]}}
+{{VietasKarte~|Albānija|lat=40.933333|long=19.7|position = right |label=[[Ļušņa]]}}
+{{VietasKarte~|Albānija|lat=40.708333|long=20.7|position = right |label=[[Maļiķi]]}}
+{{VietasKarte~|Albānija|lat=41.583333|long=19.7|position = right |label=[[Mamurasi]]}}
+{{VietasKarte~|Albānija|lat=41.433333|long=19.583333|position = right |label=[[Manza]]}}
+{{VietasKarte~|Albānija|lat=40.35|long=19.983333|position = right |label=[[Memaļi]]}}
+{{VietasKarte~|Albānija|lat=41.683333|long=19.716667|position = right |label=[[Miļoti]]}}
+{{VietasKarte~|Albānija|lat=40.333333|long=19.466667|position = right |label=[[Orikumi]]}}
+{{VietasKarte~|Albānija|lat=40.683333|long=19.616667|position = right |label=[[Patosi]]}}
+{{VietasKarte~|Albānija|lat=41.05|long=19.75|position = right |label=[[Peķini]]}}
+{{VietasKarte~|Albānija|lat=40.233333|long=20.35|position = right |label=[[Permeti]]}}
+{{VietasKarte~|Albānija|lat=41.683056|long=20.428889|position = left |label=[[Peškopa]]}}
+{{VietasKarte~|Albānija|lat=40.9|long=20.65|position = left |label=[[Pogradeci]]}}
+{{VietasKarte~|Albānija|lat=40.612222|long=20.098056|position = right |label=[[Poļičani]]}}
+{{VietasKarte~|Albānija|lat=41.066667|long=20.55|position = left |label=[[Preņasi]]}}
+{{VietasKarte~|Albānija|lat=42.05|long=19.9|position = left |label=[[Puka]]}}
+{{VietasKarte~|Albānija|lat=41.766667|long=19.883333|position = right |label=[[Rešeni]]}}
+{{VietasKarte~|Albānija|lat=40.733333|long=19.7|position = top |label=[[Rogožina]]}}
+{{VietasKarte~|Albānija|lat=41.076389|long=19.666944|position = left |label=[[Roskoveci]]}}
+{{VietasKarte~|Albānija|lat=41.774444|long=19.669444|position = bottom |label=[[Rubiku]]}}
+{{VietasKarte~|Albānija|lat=39.875556|long=20.005278|position = right |label=[[Saranda]]}}
+{{VietasKarte~|Albānija|lat=40.533333|long=19.633333|position = right |label=[[Seļeņica]]}}
+{{VietasKarte~|Albānija|lat=41.383333|long=19.533333|position = left |label=[[Sukti i Ru]]}}
+{{VietasKarte~|Albānija|lat=41.345556|long=19.567222|position = bottom |label=[[Šijaku]]}}
+{{VietasKarte~|Albānija|lat=42.066667|long=19.5|position = right |label=[[Škodra]]}}
+{{VietasKarte~|Albānija|lat=41.8|long=19.583333|position = left |label=[[Šengjini]]}}
+{{VietasKarte~|Albānija|lat=40.3|long=20.016667|position = left |label=[[Tepeļena]]}}
+{{VietasKarte~|Albānija|lat=41.326|long=19.816|position = right |label='''[[Tirāna]]'''}}
+{{VietasKarte~|Albānija|lat=40.766667|long=19.883333|position = right |label=[[Ura Vaigorore]]}}
+{{VietasKarte~|Albānija|lat=42|long=19.633333|position = right |label=[[Vau i Deja]]}}
+{{VietasKarte~|Albānija|lat=40.465|long=19.485|position = right |label=[[Vļora]]}}
+{{VietasKarte~|Albānija|lat=41.393889|long=19.654444|position = bottom |label=[[Vora]]}}
+}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Eiropas pilsētu uzskaitījumi}}
+
+[[Kategorija:Albānijas pilsētas|*]]
+[[Kategorija:Pilsētu uzskaitījumi]]

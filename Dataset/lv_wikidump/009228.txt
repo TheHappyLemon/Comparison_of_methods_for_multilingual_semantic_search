@@ -1,0 +1,57 @@
+{{Jūras infokaste
+|jūra=Norvēģu jūra
+|attēls=Europäisches Nordmeer mit Grenzen.png
+|attēls_izm = 300
+ |vietaskarte = Arktika
+ |latd = 69 |latm =  |lats =  |latNS = N
+ |longd = 0 |longm =  |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |relief = jā
+| okeāns  = Atlantijas okeāns
+| okeāns2 = Ziemeļu Ledus okeāns
+|platība=1 383 000
+|garums=
+|platums=
+|tilpums = 2 000 000
+|Max_dziļums=3970
+|Vid_dziļums = 2000
+|valstis={{GBR}}<br />{{FRO}}<br />{{ISL}}<br />{{NOR}}
+|pilsētas=[[Tronheima]]
+}}
+'''Norvēģu jūra''' ({{val|no|Norskehavet}}, {{val|is|Noregshaf}}, {{val|fo|Norskahavið}}) ir [[Atlantijas okeāns|Atlantijas okeānam]] piederīga [[malas jūra]], atrodas okeāna ziemeļu daļā starp [[Skandināvijas pussala|Skandināvijas pussalu]] un [[Grenlandes jūra|Grenlandes jūru]]. Dažkārt tiek pieskaitīta [[Ziemeļu Ledus okeāns|Ziemeļu Ledus okeānam]].
+
+== Robežas ==
+Ziemeļrietumos atrodas [[Jana Majena sala]] un Jana Majena zemūdens grēda, kas veido robežu ar [[Ziemeļu Ledus okeāns|Ziemeļu Ledus okeānu]] un tai piederošo [[Barenca jūra|Barenca jūru]] ziemeļaustrumos. Austrumos jūra apskalo [[Norvēģija]]s piekrasti. Dienvidos izvietojusies [[Ziemeļjūra]], [[Šetlendas salas]] un [[Fēru salas]], rietumos — ap 500 metrus dziļais [[Islandes—Fēru slieksnis]] (daļa no [[Atlantijas slieksnis|Atlantijas sliekšņa]]) starp Fēru salām un [[Islande|Islandi]].
+
+== Vispārējs raksturojums ==
+
+Jūras vidējais dziļums ir ap 2000 metri, lielākais dziļums (3970 metri) atrodas jūras centrālajā daļā. Tilpums — {{nobr|2 000 000 km³}}, sāļums — ap 35 ‰. [[kontinentālais šelfs|Kontinentālā šelfa]] paplašinājumu pie Norvēģijas krastiem sauc par [[Veringa plato]]. Norvēģijas piekrastē atrodas arī [[Lofotu salas]]. Jūras ziemeļu daļa atrodas aiz [[Ziemeļu polārais loks|Ziemeļu polārā loka]].
+
+Norvēģu jūrai un tās kaimiņu [[Grenlandes jūra]]i raksturīgi tas, ka ar [[skābeklis|skābekli]] bagātais virsūdens šeit nogrimst divus—trīs kilometrus līdz jūras gultnei. Rezultātā Norvēģu jūrā gar Norvēģijas krastu plūst silta straume ūdens virsējos slāņos ([[Ziemeļatlantijas straume]]) un auksta straume — dziļākajos slāņos. Rezultātā jūra ziemā neaizsalst, Norvēģijas piekrastē ir salīdzinoši maigs un mitrs klimats.
+
+Pašlaik Norvēģu jūrā notiek rūpīgs straumju režīma izmaiņu monitorings — straumju režīma izmaiņas varētu liecināt par klimata izmaiņām.
+
+== Resursi ==
+Siltais ūdens rada labus apstākļus zivīm un tāpēc Norvēģu jūrā notiek aktīva [[menca|mencu]], [[siļķe|siļķu]] un citu zivju zveja.
+
+[[1993]]. gadā Norvēģu jūrā sākās liela mēroga [[nafta]]s un [[dabasgāze]]s ieguve.
+
+Tiek piedāvāts Norvēģu jūras dzīlēs iesūknēt [[siltumnīcas efekts|siltumnīcas efektu]] izraisošās gāzes — [[oglekļa dioksīds|oglekļa dioksīdu]], tādējādi nodrošinot, ka tas ilgstoši saglabājas jūras ūdenī un nenokļūst atmosfērā.<ref>{{Tīmekļa atsauce |url=http://www.agu.org/sci_soc/prrl/prrl0121.html |title=Norwegian Sea Proposed as Storage Site for Carbon Dioxide |access-date={{dat|2007|01|06||bez}} |archiveurl=https://web.archive.org/web/20061225023505/http://www.agu.org/sci_soc/prrl/prrl0121.html |archivedate={{dat|2006|12|25||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Atlantijas okeāna jūras}}
+{{Ziemeļu Ledus okeāna jūras}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jūras]]
+[[Kategorija:Fēru salu jūras]]
+[[Kategorija:Apvienotās Karalistes jūras]]
+[[Kategorija:Islandes jūras]]
+[[Kategorija:Norvēģijas jūras]]

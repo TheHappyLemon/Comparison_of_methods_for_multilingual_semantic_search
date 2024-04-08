@@ -1,0 +1,27 @@
+{{ezera infokaste
+|ezers=Ačitnūrs
+|attēls=Achit-Nuur.jpg
+|karte=Achit-Nuur_Lake,_Mongolia,_Landsat-7,_2007-08-13.jpg
+|kartes_paraksts=Ačitnūra ''Landsat-7'' aina (2007)
+| map = Mongolija
+| plat_d=49 | plat_m=30 | plat_s= | plat_NS=N
+| gar_d=90 | gar_m=30 | gar_s= | gar_EW=E
+|vieta={{MNG}}
+|platība=290
+|garums=28
+|Vid_dziļums=2,2
+|Max_dziļums=5
+|tilpums=0,665
+|augstums_vjl=1435
+|izteka=Usūnholaingola
+|baseins=
+|valstis=[[Krievija]], [[Mongolija]]
+|salas=
+|pilsētas=
+}}
+'''Ačitnūrs''' ({{val|mn|Ачит Нуур}} — ‘Labvēlīgais ezers’) ir saldūdens [[ezers]] [[Mongolija]]s ziemeļrietumos. Krastus klāj [[stepe]]. Ezera apvidus paugurains, ziemeļrietumos purvāji.
+
+
+{{Mongolija-aizmetnis}}
+
+[[Kategorija:Mongolijas ezeri]]

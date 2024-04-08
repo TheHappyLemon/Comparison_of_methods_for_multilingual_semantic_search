@@ -1,0 +1,134 @@
+{{Latvijas novada infokaste
+| nosaukums         = Zeltiņu pagasts
+| karte             = Zeltiņu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Zeltiņi
+| platība           = 63,09
+| iedzīvotāji       = 413<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 413 / 63.09 round 1}}
+| izveidots         = 1866
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+| nos_vācu          = Seltinghof
+| nos_krievu        = Зельтинская
+| ref_vācu          =
+| ref_krievu        = <ref>{{pagasti 1913}}</ref>
+}}
+
+'''Zeltiņu pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā dienvidos. Robežojas ar sava novada [[Ilzenes pagasts|Ilzenes]], [[Alsviķu pagasts|Alsviķu]] un [[Kalncempju pagasts|Kalncempju]] pagastiem, kā arī [[Gulbenes novads|Gulbenes novada]] [[Beļavas pagasts|Beļavas]] un [[Lejasciema pagasts|Lejasciema]] pagastiem.
+
+== Daba ==
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Bružupīte]], [[Medņupe]], [[Melnupe (Mustjegi pieteka)|Melnupe]].
+
+==== Ezeri ====
+[[Ķiploku ezers]], [[Pātražs]], [[Sudalezers]].
+
+== Vēsture ==
+[[Valkas apriņķis|Valkas apriņķa]] [[Alūksnes draudzes novads|Alūksnes draudzes novada]] Zeltiņu pagasts (''Seltinghof''), domājams, izveidots 1866. gadā. 1935. gadā tā platība bija 53,7 km² un tajā dzīvoja 986 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Melnupes ciems|Melnupes]] un Zeltiņu [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Zeltiņu ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946—1949) un [[Apes rajons|Apes]] (1949—1956), [[Alūksnes rajons|Alūksnes]] (1956-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962—1967) rajonos. 1954. gadā Zeltiņu ciemam pievienoja likvidēto Melnupes ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Zeltiņu pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+<gallery>
+Zeltiņu ciems Šturns 1661.jpg|Zeltiņu ciems ([[Šturns]], 1661)
+File:Bm05225am.jpg|Zeltiņu muiža ([[Broce]], 1790) 
+File:BM05224Am.jpg|Zeltiņu muiža
+File:Bm05226am.jpg|Zeltiņu baznīcas skats (1790)
+</gallery>
+
+== Kultūrvēsturiskas vietas ==
+=== Zeltiņu Evaņģēliski luteriskā baznīca ===
+Pirmo reizi dokumentos [[Zeltiņu luterāņu baznīca|baznīca Zeltiņos]] pieminēts 1668. gadā. 1725. gadā Ziemeļu kara laikā nodegušā dievnama vietā uzcēla koka guļbaļķu baznīcu. 1826. gadā pēc arhitekta F.Zīgeļa projekta uzcelta mūsdienās esošā mūra baznīca. Padomju varas gados baznīcu brutāli izpostīja — nogāza troni, sadauzīja un metāllūžņos nodeva zvanu, izpostīja iekštelpas, sazāģēja solus un dievnamā iekārtoja minerālmēslu un lopbarības noliktavu. Zeltiņu baznīca ir padomju laikā visvairāk cietusī baznīca Alūksnes novadā. Pēc Latvijas Republikas neatkarības atjaunošanas draudze uzsāka dievnama atjaunošanu. 1995. gadā daļēji atjaunotajā baznīcā notika pirmais dievkalpojums. 1996. gadā dievnama 170. gada jubilejas svinības notika jau atjaunotā baznīcā.<ref>{{tīmekļa atsauce |title=Zeltiņu luterāņu baznīca |url=https://zudusilatvija.lv/objects/object/4726/}}</ref>
+
+=== Zeltiņu kapsēta ===
+Zeltiņu pagasta teritorijā atrodas viena kapsēta. 7,30 ha lielās kapsētas īpašnieks ir Zeltiņu evaņģēliski luteriskā draudze. Kapos atdusas četri [[Lāčplēša Kara ordenis|Lāčplēša Kara ordeņa]] kavalieri: Oskars Brūns, Rūdolfs Maltinieks, Jēkabs Gustavs Dakers un Aleksandrs Ābrāms.<ref>{{tīmekļa atsauce |title=Lāčplēša Kara ordeņa kavalieri |url=http://lkok.com/}}</ref> 
+==== Kapliča ====
+Zeltiņu kapos atrodas 1869. gadā celtā Zeltiņu kapliča ar īpašu arhitektūras konstrukciju – Zvana krēslu (izgatavots 1795. gadā). Kapliča ir netēstu baļķu guļbūve ar kvadrātveida zvana tornīti un teltsveida četrslīpņu jumtu. No 2019. gada kapliča slēgta sliktā stāvokļa dēļ. 2022. gadā Nacionālā kultūras mantojuma pārvade Sakrālā mantojuma finansēšanas programmas ietvaros piešķīra finansējumu būvprojekta izstrādei kapličas pārvietošanai uz Ķekavas kapsētu.<ref>{{tīmekļa atsauce |title=No Alūksnes novada uz Pierīgu pārvedīs kapliču |url=https://jauns.lv/raksts/zinas/505498-no-aluksnes-novada-uz-pierigu-parvedis-kaplicu-kuru-luteranu-baznicai-neatlava-nojaukt-foto}}</ref> 
+==== Piemineklis Pirmā pasaules karā un Latvijas atbrīvošanas cīņās kritušajiem ====
+1923. gada 13. maijā Zeltiņu kapos atklāja pieminekli [[Pirmais pasaules karš|Pirmā pasaules karā]] un [[Latvijas neatkarības karš|Latvijas neatkarības karā]] kritušo Zeltiņu pagasta iedzīvotāju piemiņai. 3,75 m augsto granīta obelisku veidojis Alūksnes akmeņkalis J.Stilbe par Sieviešu palīdzības korpusa Zeltiņu–Ilzenes nodaļas savāktajiem līdzekļiem.<ref>{{tīmekļa atsauce |title=Pieminekļi un piemiņas vietas |url=http://albibl.lv/biblioteka-piedava/novadpetnieciba/kulturvesture/pieminekli-un-pieminas-vietas/}}</ref>
+
+=== Raķešu bāze ===
+Spilgta Aukstā kara liecība ir padomju armijas [[Kodolraķešu bāze Zeltiņos|raķešu bāze]], kura Zeltiņos darbojās no 1961. līdz 1989. gadam. Mūsdienās bāzes teritorija ir tūrisma objekts un vieta uzņēmējdarbībai – bāzes teritorijā atrodas "KRK Vidzeme" kokogļu ražotne.
+
+=== Valsts aizsargājamie kultūras pieminekļi ===
+* Nr. 226.: Vīksnu senkapi — pie bijušajiem Lāčplēšiem (Vīksnām) pie Medņu pilskalna 
+* Nr. 227.: [[Medņu pilskalns]] — pie Pilskalniem (Medņiem) un Ceriņiem (Vidutiem)
+* Nr. 228.: Zeltiņu baznīcas kalns — Zeltiņos (Vecbaznīcas kalns) 
+* Nr. 2817.: Zeltiņu luterāņu baznīca (1823)
+* Nr. 2818.-2819.: Zeltiņu kapu kapliča (1869), zvana krēsls (1869)
+* Nr. 2820.-2824.: Zeltiņu muižas apbūve (18. gadsimta beigas-19. gadsimts sākums) — pārvaldnieka māja, stallis — kučiera māja, muižas krogs, klēts (1788—1789)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] — [[Liepājas rajons]])</ref>
+<gallery>
+File:Zeltiņu evaņģēliski luteriskā baznīca foto D.Bumbiere-Augule.jpg|Zeltiņu Evaņģēliski luteriskā baznīca
+File:Zeltiņu kapsētas kapliča foto D.Bumbiere-Augule.jpg|Zeltiņu kapsētas kapliča
+File:Piemineklis Pirmā pasaules karā kritušajiem foto D.Bumbiere-Augule.jpg|Piemineklis Pirmā pasaules karā un Latvijas atbrīvošanas cīņās kritušajiem
+File:Kodolraķešu bāze Zeltiņos foto D.Bumbiere-Augule.jpg|Kodolraķešu bāze Zeltiņos
+</gallery>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSp datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1150
+|1959|697
+|1969|569
+|1979|462
+|1989|472
+|2000|426
+|2011|372
+|2021|295
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Zeltiņi]]''' (pagasta centrs), [[Aizpurieši (Zeltiņu pagasts)|Aizpurieši]], [[Joškas]], [[Kundrati]], [[Medņi (Zeltiņu pagasts)|Medņi]], [[Micpapi]], [[Vilki (Zeltiņu pagasts)|Vilki]].
+
+=== Ievērojamas personības ===
+* [[Edgars Liepiņš]] (1929—1995), aktieris
+
+== Saimniecība ==
+Zeltiņu pagastā atrodas lielākais kokogļu ražošanas uzņēmums Baltijā — „KRK Vidzeme”. Uzņēmuma ražošanas iekārtas būvētas pēc J. Zandersona [[Latvijas Valsts koksnes ķīmijas institūts|Latvijas Koksnes ķīmijas institūtā]] 1999. gadā veidotā tehnoloģiskā projekta.<ref>{{tīmekļa atsauce |title=KRK Vidzeme |url=https://www.charcoal-krk.lv/}}</ref> 2012. gadā uzņēmums „KRK Vidzeme” izveidoja ''premium'' kategorijas kokogļu zīmolu “''Marienburg''”<ref>{{tīmekļa atsauce |title=MARIENBURG CHARCOAL |url=https://marienburg.com/}}</ref>
+
+=== Transports ===
+Vairākas reizes dienā uz Zeltiņiem kursē autobusi no Alūksnes, Rīgas un citām Vidzemes pilsētām.<ref>{{tīmekļa atsauce |title=Starppilsētu autobusi |url=https://www.1188.lv/satiksme/starppilsetu-autobusi/aluksnes-ao/zeltini/105511/102704/diena/2023-02-19}}</ref>
+
+== Izglītība un kultūra ==
+
+=== Izglītība ===
+1683. gadā Alūksnes draudzes mācītājs [[Ernsts Gliks]] Zeltiņos nodibināja pirmo latviešu skolu [[Vidzeme|Vidzemē]]. [[Lielais Ziemeļu karš|Ziemeļu kara]] laikā skolas ēku nodedzināja. Ar jaunas baznīcas uzcelšanu skolas darbs kļuva organizētāks. Liela loma izglītības darbā bija brāļu draudzēm. 1823. gadā Zeltiņu draudzes skolu pārcēla uz Dukulieni [[Ilzenes muiža]]s robežās un kā draudzes skola tā darbojās līdz Latvijas valsts nodibināšanai. No 1919. gada līdz 1924. gadam skola darbojās kā Zeltiņu-Ilzenes II pakāpes pamatskola.
+
+1868. gadā jaunā skolas ēkā darbu sāka Zeltiņu pagastskola (sākumā divas nodaļas, vēlāk 2—4 klases). 1924. gadā šo skolu apvienoja ar Zeltiņu-Ilzenes II pakāpes pamatskolu. Mainoties skolas nosaukumiem (1944./45.g. Zeltiņu pagasta nepilnā vidusskola, 1946-1949 Zeltiņu septiņklasīgā skola, 1950-1960 Zeltiņu septiņgadīgā skola, 1961-1988 Zeltiņu astoņgadīgā skola, 1989-1991 Zeltiņu deviņgadīgā skola, 1992-2009 Zeltiņu pamatskola) Zeltiņu pamatskola darbojās līdz 2009. gadam.<ref>{{tīmekļa atsauce |title=Par Zeltiņiem |url=http://zeltini.weebly.com/par-zelti326iem.html}}</ref>
+
+No 2007. gada skolas telpās darbojas Zeltiņu pagasta vēstures krātuve.<ref name="zvk">{{tīmekļa atsauce |title=Zeltiņu vēstures krātuve |url=https://visitaluksne.lv/visit/zeltinu-vestures-kratuve/}}</ref> Zeltiņu vēstures krātuvē izveidota novadniekam Edgaram Liepiņam veltīta ekspozīcija “Ziemeļu zvaigzne”.<ref name="zvk" />
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+
+{{DEFAULTSORT:Zeltinzu pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Zeltiņu pagasts| ]]

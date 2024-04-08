@@ -1,0 +1,65 @@
+{{Citas nozīmes|fiziķi Emīlu Lencu|Lencs|Lencs}}
+{{Zinātnieka infokaste
+|             platums = 
+|               vārds = Emīls Lencs
+|          vārds_orig = ''Heinrich Friedrich Emil Lenz''
+|              attēls = Emil Lenz.jpg
+|          att_izmērs = 
+|       att_nosaukums = 
+|          dz_dat_alt =
+|             dz_gads = 1804
+|          dz_mēnesis = 2
+|            dz_diena = 12
+|            dz_vieta = [[Tērbata|Tērbatā]], [[Vidzemes guberņa]] (tagad - [[Igaunija]])
+|           m_dat_alt =
+|              m_gads = 1865
+|           m_mēnesis = 2
+|             m_diena = 10
+|             m_vieta = [[Roma|Romā]]
+|        dzīves_vieta = 
+|           pilsonība = 
+|             tautība = [[vācbaltieši|Baltijas vācietis]]
+|             dzimums = 
+|            paraksts = 
+|        darba_vietas = [[Sanktpēterburgas universitāte]]
+|          alma_mater = [[Tērbatas universitāte]]
+|             zinātne = [[fizika]]
+|         pasniedzēji =
+|            studenti =
+|          sasniegumi = [[Lenca likums]], [[Džoula-Lenca likums]] 
+|         apbalvojumi = 
+|            piezīmes = 
+|         kategorijas =    
+}}
+'''Heinrihs Frīdrihs Emīls Lencs''' ({{val-de|Heinrich Friedrich Emil Lenz}}, {{val-ru|Эмилий Христианович Ленц}}, dzimis {{dat|1804|2|12}}, miris {{dat|1865|2|10}}) bija [[vācbaltieši|vācbaltiešu]] [[fizika|fiziķis]]. Pazīstams kā [[Lenca likums|Lenca likuma]] (1833) atklājējs. Neatkarīgi no [[Džeimss Džouls|Džoula]] atklāja [[Džoula likums|Džoula likumu]], tāpēc šis likums dažreiz tiek saukts par Džoula—Lenca likumu. Viņa dēls [[Roberts Lencs]] arī bija pazīstams fiziķis.
+
+== Dzīvesgājums ==
+Emīls Lencs ir dzimis 1804. gada 12. februārī [[Tērbata|Tērbatā]]. Pēc [[Tērbatas ģimnāzija]]s beigšanas viņš no 1820. gada studēja ķīmiju un fiziku [[Tartu universitāte|Tērbatas universitātē]]. 1823. - 1826. gadā piedalījās [[Oto fon Kocebū]] vadītajā ekspedīcijā apkārt pasaulei un pētīja sālsūdens fizikālās īpašības. 
+
+No 1826. gada Lencs strādāja [[Sanktpēterburga]]s universitātē, kur no 1831. gada pētīja [[elektromagnētisms|elektromagnētismu]] un vienlaicīgi ar [[Džeimss Džouls|Džeimsu Džoulu]] ap 1840. gadu publicēja novērojumus par elektriskās strāvas atšķirīgo spēju paaugstināt dažādu vadītāju temperatūru. Kopā ar Moricu fon Jakobi viņš 1839. gadā aprakstīja elektropārklāšanas tehnoloģiju. 
+
+E. Lencs bija [[Pēterburgas universitāte]]s Matemātikas un fizikas fakultātes dekāns (1840-1863) un rektors (1863-1865).
+
+Miris 1865. gada 10. februārī no smadzeņu insulta ceļojuma laikā [[Roma|Romā]].
+
+== Literatūra ==
+* Ржонсницкий Б. Н. Эмилий Христианович Ленц. (1804-1865). М.–Л. 1952 (соавтор: Лежнева О. П.)
+* Ржонсницкий Б. Н. Академик Э. Х. Ленц и физическая география. – Известия АН СССР. № 2. 1954. С. 61
+* Hempel, Peer. Deutschsprachige Physiker im alten St. Petersburg. - München: Oldenbourg, 1999 
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+{{DEFAULTSORT:Lencs, Heinrihs}}
+
+[[Kategorija:Vācbaltieši]]
+[[Kategorija:Igaunijas cilvēki]]
+[[Kategorija:Krievu fiziķi]]
+[[Kategorija:Cilvēki no Tartu]]
+[[Kategorija:Tartu Universitātes absolventi]]
+[[Kategorija:Krievijas Impērijas izgudrotāji]]
+[[Kategorija:Krievijas Impērijas elektroinženieri]]
+[[Kategorija:Tartu dzimušie]]
+[[Kategorija:Krievijas Impērijas fiziķi]]

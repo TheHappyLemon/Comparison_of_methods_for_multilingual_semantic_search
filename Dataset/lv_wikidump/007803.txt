@@ -1,0 +1,256 @@
+{{Latvijas novada infokaste
+| nosaukums         = Krustpils pagasts
+| karte             = Krustpils pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Krustpils pagasts COA.svg
+| ģerboņa_nosaukums = Krustpils pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Spuņģēni
+| platība           = 86,12
+| iedzīvotāji       = 895<ref name="zv" />
+| iedzīvotāji_gads  = 2011
+| blīvums           = {{#expr: 978 / 86.12 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Krustpils pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām tā ziemeļu daļā, [[Daugava]]s krastā. Robežojas ar sava novada [[Jēkabpils]] pilsētu un [[Variešu pagasts|Variešu]], [[Salas pagasts (Salas novads)|Salas]] un [[Sēlpils pagasts|Sēlpils]] pagastiem, kā arī [[Aizkraukles novads|Aizkraukles novada]] [[Pļaviņas|Pļaviņu]] pilsētu un [[Aiviekstes pagasts|Aiviekstes pagastu]]. 
+
+== Daba ==
+{| class="wikitable" align="right"
+|+ Krustpils pagasta ciemi
+! Tips
+! Ciems
+! Iedzīvotāji<br /><small>(2009)</small>
+|-
+| Vidējciems
+| [[Spuņģēni]]
+| 276
+|-
+| rowspan="7" | Mazciemi
+| [[Darvasbrenči]]
+| 16
+|-
+| [[Kaķīši (Krustpils pagasts)|Kaķīši]]
+| 20
+|-
+| [[Kazubrenči]]
+| 14
+|-
+| [[Lopdārzi]]
+| 48
+|-
+| [[Mežākas]]
+| 9
+|-
+| [[Priži]]
+| 53
+|-
+| [[Sankaļi (Krustpils pagasts)|Sankaļi]]
+| 39
+|-
+| rowspan="17" | Skrajciemi
+| [[Ancīši (Krustpils pagasts)|Ancīši]]
+| 8
+|-
+| [[Bogdāni (Krustpils pagasts)|Bogdāni]]
+| 17
+|-
+| [[Draudavas]]
+| 17
+|-
+| [[Dzeņi (Krustpils pagasts)|Dzeņi]]
+| 23
+|-
+| [[Ganukrogs]]
+| 10
+|-
+| [[Glāznieki (Krustpils pagasts)|Glāznieki]]
+| 32
+|-
+| [[Glāznieksala]]
+| 14
+|-
+| [[Irbenieki]]
+| 34
+|-
+| [[Kalnsētas (Krustpils pagasts)|Kalnsētas]]
+| 10
+|-
+| [[Melderes (Krustpils pagasts)|Melderes]]
+| 20
+|-
+| [[Peņigas]]
+| 17
+|-
+| [[Produsala]]
+| 27
+|-
+| [[Purniņi (Krustpils pagasts)|Purniņi]]
+| 9
+|-
+| [[Sietnieki]]
+| 9
+|-
+| [[Tiltnieki (Krustpils pagasts)|Tiltnieki]]
+| 11
+|-
+| [[Zeļķi]]
+| 33
+|-
+| [[Zvidzāni]]
+| 70
+|}
+Pagasts atrodas [[Austrumlatvijas zemiene]]s ziemeļrietumu malā, [[Aronas paugurlīdzenums|Aronas paugurlīdzenumā]], ko aizņem līdzeni viļņots limnoglaciāls [[līdzenums]] ar atsevišķiem lēzenumiem, pārsvarā dienvidrietumu virzienā izstieptiem paaugstinājumiem, kuru relatīvais augstums nepārsniedz 5 metrus. [[Reljefs|Reljefa]] pazeminājumi ir pārmitrināti, vietām pārpurvoti. [[Kvartārs|Kvartāra]] noguluma biezums neliels, reti pārsniedzot 10 metrus. [[Devons|Devona]] iežu virsma gludena, vidēji atrodas 75 metrus virs jūras līmeņa, zemākais augstums  65 metri pie [[Aiviekste]]s ietekas [[Daugava|Daugavā]], augstākais 80 metri [[Sietnieki|Sietnieku]] apkārtnē. Kvartāra nogulumi sastāv no pēdējā [[ledus laikmets|ledus laikmeta]] un [[holocēns|holocēna]] veidojumiem, ko veido [[Daugavas svīta]]s plaisaini un blīvi [[dolomīts|dolomīti]], kurus 20 metrus dziļāk nomaina [[Salaspils svīta]]s [[māls|māli]] un [[merģelis|merģeļi]]. Pagasta austrumdaļas [[Limnoglaciālās reljefa formas|limnoglaciālā līdzenuma]] robežas kvartāra segas pamatni veido brūna, sarkanbrūna vai pelēkbrūna [[morēna]]s mālsmilts, kas ir vidēji blīva, augšdaļā pārskalota ar palielinātu [[grants]] un oļu saturu. Morēnas vidējais biezums 4 — 5 metri, vietām 8 — 10 metri, māla daļiņu saturs tajā 25 — 33 %. Morēnas veidojumu virsma nelīdzena, to pārklāj līdz 3 metriem bieza aleirītiska māla, retāk alcirīta slānis, kas izveidojies Lubānas ieledāja sprozdezera malas zonā.
+
+Atrodas mēreni mitrā un siltā Latvijas klimatiskajā rajonā, vidējā gada [[gaisa temperatūra]] ir +5,5&nbsp;°C. Vissiltākais mēnesis ir [[jūlijs]], bet aukstākie [[janvāris]] un [[februāris]]. Vidēji gada [[nokrišņi]] iespējami katru otro dienu, to vidējais daudzums ir 655 – 677&nbsp;mm un [[relatīvais mitrums]] 81%. Valdošie ir dienvidaustrumu, dienvidu un dienvidrietumu [[vējš|vēji]], bet no maija līdz oktobra mēnesim dienvidrietumu vējš.
+
+=== Hidrogrāfija ===
+Krustpils pagasta ūdeņi sastāda 303 ha lielu platību, tā teritorija ietilpst [[Sateces baseins|Daugavas baseina]] apgabalā, ziemeļos robežojoties ar Aiviekstes upi, dienvidrietumos ar Daugavu. Daugavai pagasta teritorijā ir izveidots uzpludinājums, ko sauc par [[Pļaviņu ūdenskrātuve|Pļaviņu ūdenskrātuvi]]. Daugavas pietekas pagasta teritorijā ir [[Aiviekste]], [[Kārklupīte (Daugavas pieteka)|Kārklupīte]] un [[Mazā Daugava (Jēkabpils)|Mazā Daugava]]. Aiviekstes pietekas ir [[Babraunīca]], [[Bērzaune (Aiviekstes pieteka)|Bērzaune]], [[Lukstupe]], Babraunīcas pietekas [[Līkups]], Lukstupes pieteka [[Salupe]].
+
+Krustpils pagastā nav ezeru, toties ir vairāki purvi, kuru kopējā platība sastāda 270 ha. Nozīmīgākie ir [[Kaķīšu purvs]] (210 ha), [[Tiltnieku purvs]], [[Saltais purvs]] un [[Sila purvs]].
+
+=== Meži ===
+Mežu kopējā platība ir 2598 ha, tie aizņem aptuveni 30% pagasta teritorijas. Nozīmīgākie meži ir Ozolsalas mežs, kurā ir mikroliegums, Bebrupītes mežs, Braunsalas mežs, Dobmežs, Ganukroga mežs, Melderu mežs, Mozuru egles un Kaķīšu mežs.
+
+=== Aizsargājamās dabas teritorijas un objekti ===
+[[Ozolsalas mežs|Ozolsalas meža]] masīvā atrodas mikroliegums sūnu sugas [[tūbainā bārkstlape|tūbainās bārkstlapes]] ''Trichocolea tomentella'' aizsardzībai. Ir vairāki [[dižkoks|dižkoki]] — [[Bogdāni (Krustpils pagasts)|Bogdānos]] divi [[parastais ozols|parastie ozoli]], Lipšos [[parastā vīksna]].
+
+== Vēsture ==
+Pēc [[1920. gada zemes reforma]]s toreizējā Krustpils pagasta teritorijā esošās [[muiža]]s tika sadalītas jaunsaimniecībās <ref>{{LKV|X.|18 591}}</ref>: [[Krustpils muiža]] ar Asotes, Punu (''Punyhof'') un Veseļu (''Wessel'') pusmuižām 2688 ha kopplatībā 386 vienībās (ieskaitot piegriezumus), bet muižas centru piešķīra [[Latvijas Republikas Kara ministrija]]i. Zeļķu muižu 159 ha kopplatībā sadalīja 6 vienībās, Krievijas agrārbankai piederējušās zemes 451 ha kopplatībā sadalīja 100 vienībās. 
+
+1935. gadā [[Daugavpils apriņķis|Daugavpils apriņķa]] (pēc 1941. gada [[Jēkabpils apriņķis|Jēkabpils apriņķa]]) Krustpils pagasta platība bija 233,4&nbsp;km² un tajā dzīvoja 6477 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Draudavas]], [[Ezeriešu ciems|Ezeriešu]], Krustpils, [[Kūku ciems|Kūku]], [[Variešu ciems|Variešu]] un [[Zīlāni|Zīlānu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Krustpils ciems''' ietilpis [[Krustpils rajons|Krustpils]] (1949-1962) un [[Jēkabpils rajons|Jēkabpils]] (pēc 1962. gada) rajonos. 1954. gadā Krustpils ciemam pievienoja likvidēto Draudavas ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Krustpils pagastu kā administratīvo teritoriju iekļāva [[Krustpils novads|Krustpils novadā]]. 2021. gadā Krustpils novadu iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+=== Pieminekļi ===
+Pagasta teritorijā atrodas divi valsts nozīmes kultūras pieminekļi — [[Spuņģēnu senkapi]] un [[Staģu senkapi]], ka arī vietējas nozīmes kultūrvēsturisks objekts [[Zeļķu muiža]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1967|1769
+|1979|1353
+|1989|1073
+|2000|993
+|2011|895
+|2021|813
+}}
+[[2011]]. gada sākumā Krustpils pagastā dzīvojuši 895 [[iedzīvotāji]], tie bijuši 439 [[vīrietis|vīrieši]] un 456 [[sieviete]]s.<ref name="zv">[http://data.csb.gov.lv/dialog/Saveshow.asp Centralās statistikas pārvaldes datubāze]{{Novecojusi saite}} www.data.csb.gov.lv</ref> Iedzīvotāji pēc vecuma [[2008]]. gadā bijuši: līdz četru gadu vecumam (g.v.) — 40, 5-9 g.v. — 86, 10-14 g.v. — 89, 15-19 g.v. — 53, 20-24 g.v. — 54, 25-29 g.v. — 61, 30-34 g.v. — 69, 35-39 g.v. — 82, 35-39 g.v. — 82, 40-44 g.v. — 66, 45-49 g.v. — 43, 50-54 g.v. — 48, 55-59 g.v. — 57, 60-64 g.v. — 69, 65-69 g.v. — 63, vairāk ka 70 gadus veci 113.
+
+{{bar box
+|title=Nacionālais sastāvs Krustpils pagastā
+|titlebar=#ddd
+|left1=Tautība
+|right1=Procenti
+|float=
+|width=300px
+|bars=
+{{bar percent|[[latvietis|latvieši]]|green|70.1}}
+{{bar percent|[[krievs|krievi]]|blue|12.1}}
+{{bar percent|[[baltkrievs|baltkrievi]]|orange|9.7}}
+{{bar percent|[[poļi]]| red|6.9}}
+{{bar percent|[[ukrainis|ukraiņi]]|brown|1}}
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Spuņģēni]] (pagasta centrs), [[Irbenieki]], [[Lopdārzi]], [[Darvasbrenči]], [[Draudavas]], [[Glāznieki (Krustpils pagasts)|Glāznieki]], [[Kaķīši (Krustpils pagasts)|Kaķīši]], [[Peņigas]], [[Priži]], [[Produsala]], [[Purniņi (Krustpils pagasts)|Purniņi]], [[Zeļķi]], [[Zvidzāni]].
+
+=== Ievērojamas personības ===
+Krustpils pagasta Zeļķos dzīvojusi rakstniece [[Anna Skaidrīte Gailīt]]e, dzimis un dzīvojis ilggadējais [[Krustpils cukurfabrika]]s direktors [[Pēteris Lazdiņš]]. "Ainavās" dzimusi dzejniece un ārste  [[Ārija Elksne]], Irbeniekos dzimusi dzejniece [[Marta Prauliņa]] (pseidonīms [[Anda Paegle]]), Vilciņsalā dzimusi diriģente un dziedātāja [[Alma Skudra]], Veseļmuižā, mūsdienās Jēkabpils pilsētā, dzimis tēlnieks [[Laimonis Blumbergs]]. Prižos dzīvo zemnieks un zinātnieks [[Andris Felss]], Spuņģenos dzīvo Daugavpils universitātes profesore matemātiķe [[Elfrīda Krastiņa]].<ref>Avotiņa Ruta. Krustpils pagasts. Rīga, 2012. 84.-92.lpp</ref> Sietniekos dzimis [[4. Saeima]]s deputāts [[Alberts Erniņš]].
+
+== Saimniecība ==
+[[2007]]. gadā bijušas 320 [[saimniecība]]s ar kopplatību 4413 ha, no kuras lauksaimniecībā izmantojama saimniecību zeme bija 3053 ha. Rēķinot vidēji uz vienu saimniecību, kopplatība ir 13,8 ha ar 9,5 ha lauksaimniecībā izmantojamo zemi.<ref name="zv"/> No tām 66 bija [[zemnieku saimniecība]]s, 250 piemājas saimniecības un 4 pārējās saimniecības.
+{| class="wikitable" border="1"
+|+ Krustpils pagasta uzņēmumi
+! Nosaukums!! Darbības veids
+|-
+| SIA "Agro Trade Latvija"|| Augkopība, tehniskās kultūras
+|-
+| SIA "Dižmežs"|| Kokapstrāde
+|-
+| SIA "East West Transit"|| Degvielas, naftas tirdzniecība
+|-
+| SIA "Elagro Trade"|| L/s produktu iepirkšana, sagāde, tirdzniecība 
+|-
+| Z/S "Ieviņas"|| Augkopība, tehniskās kultūras
+|-
+| SIA "Konekesko Latvija" || L/s teknikas, traktoru tirdzniecība
+|-
+| Krustpils pagasta pārvalde || Pašvaldība
+|-
+| Pagasta bāriņtiesa || Tiesību aizsardzība
+|-
+| Pagasta kultūras nams || Kultūras darbs
+|- 
+| Pagasta bibliotēka || Kultūras darbs
+|-
+| Zobārstniecības kabinets || Zobārstniecība
+|-
+| SIA "Ksavers" || Ēdināšana
+|-
+| SIA "Lama M" || L/s teknikas, traktoru tirdzniecība
+|-
+| Dzīvnieku viesnīca "Laumiņas" || Dzīvnieku aprūpe, kopšana, to līdzekļi
+|-
+| Z/S "Dzeņi" || Augkopība
+|-
+| Z/S "Melderes" || Augkopība, tehniskās kultūras
+|-
+| SIA "Uno Grupa" || Kravu pārvadājumi, auto remonts, apkope
+|-
+| SIA "Saldus ceļinieks" || Asfaltbetona ražotne, ceļu, tiltu būve un uzturēšana
+|-
+| Motelis "Sapnis" || Viesnīca
+|-
+| IK "Saulgrieži A" || Bioloģiskā lauksaimniecība
+|-
+| Sabiedrība "Skabarga" || Galdnieku darbi
+|-
+| SIA "Sparta S" || Zirgkopība
+|-
+| Spunģēnu feldšeru un vecmāšu punkts || Ambulatorā medicīniskā palīdzība
+|-
+| Z/S "Vīnkalni" || eļļas spiestuve
+|}
+
+=== Satiksme === 
+[[Attēls:Ozolsala-2.JPG|thumb|right|200px|[[Ozolsala (stacija)|Ozolsalas stacijas]] ēka]]
+Pagastu šķērso [[Latvijas galvenie autoceļi|Latvijas galvenais autoceļš]] ([[A6]]) [[Rīga]] — [[Daugavpils]] — [[Krāslava]] — [[Baltkrievija]]s robeža (Pāternieki)un [[Latvijas vietējie ceļi|vietējie ceļi]] ([[V782]]) [[Jēkabpils]] — [[Antūži]] — [[Medņi]], ([[V785]]) pievadceļš karjeram "Aiviekste", ([[V797]]) pievadceļš [[Ozolsala (stacija)|Ozolsalas stacijai]], ([[V798]]) [[Pļaviņas]] — Uģēres, ([[V811]]) [[Spuņģēni]] — [[Vilkukrogs]], ([[V841]]) [[Madona]] — [[Ļaudona]] — Jēkabpils. [[Pašvaldība]]s autoceļu un ielu kopgarums pagastā ir 77.37&nbsp;km.
+
+Krustpils pagastam cauri iet arī [[vilciens|vilcieni]] pa [[dzelzceļš|dzelzceļa]] līnijām [[Dzelzceļa līnija Rīga—Daugavpils|Rīga—Daugavpils]] un [[Dzelzceļa līnija Jelgava—Krustpils|Jelgava—Krustpils]]. Pagasta teritorijā ir izvietots stratēģiskās nozīmes I kategorijas sliežu ceļu iecirkņu Jelgava – Krustpils un Rīga –Krustpils krustojums un atrodas viena dzelzceļa stacija [[Ozolsala (stacija)|Ozolsala]].
+
+== Izglītība un kultūra ==
+Pagastam pieder [[Krustpils pamatskola]], kas teritoriāli iekļaujas [[Jēkabpils]] pilsētas teritorijā. Tā ir Ekselences skola, kurā pamatizglītības programmu apgūst 195 skolēni un strādā 22 skolotāji. Tajā darbojas mazpulks, jaunsargi, interešu pulciņi, kori, izveidojušās tradīcijas.<ref>[http://www.krustpils.lv/lv/izglitiba/vispareja-izglitiba/krustpils_pamatskola Krustpils pamatskola] {{Webarchive|url=https://web.archive.org/web/20121231105646/http://www.krustpils.lv/lv/izglitiba/vispareja-izglitiba/krustpils_pamatskola |date={{dat|2012|12|31||bez}} }} www.krustpils.lv</ref>
+
+Krustpils pagasta [[kultūras nams]] atrodas [[Spuņģēni|Spuņģēnos]]. Tajā darbojas jauktais vokālais ansamblis "Krustpilieši", bērnu dramatiskais teātris, amatieru teātris "Savējie", bērnu un jauniešu vokālais ansamblis, kā arī disko deju grupa bērniem un viņu vecākiem. Spuņģēnos atrodas arī pagasta [[bibliotēka]].
+
+Prižu Avēnijā [[Priži|Prižos]] — valsts proklamācijas dienā, 18. novembrī katru gadu notiek lāpu gājiens, vasarā tiek svinēti dažādi svētki.
+           
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20140314152509/http://www.krustpils.lv/lv/novads/pagasti/krustpils Krustpils novada sadaļa] www.krustpils.lv
+* [http://www.krustpils.lv/faili/paskaidrojuma_raksts.pdf Krustpils pagasta teritorijas plānojums 2004. - 2016.]{{Novecojusi saite}} www.krustpils.lv
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Krustpils novads}}
+{{Jēkabpils rajons}}
+{{Daugavpils apriņķis}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Latgale]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Krustpils pagasts| ]]

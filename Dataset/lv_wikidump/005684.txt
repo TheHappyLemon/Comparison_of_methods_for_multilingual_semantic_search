@@ -1,0 +1,101 @@
+{{Vieglatlēta infokaste
+ |           vārds = Kajsa Bergkvista
+ |      vārds_orig = ''Kajsa Bergqvist''
+ |          attēls = Bergqvist-Stuttgart2006.jpeg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1976|10|12}}
+ |         dz_viet = {{vieta|Zviedrija|Solentuna}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{SWE}}
+ |     dzīvesvieta = 
+ |          garums = 
+ |           svars = 
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = [[Augstlēkšana]]
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 2 ([[1996. gada vasaras olimpiskās spēles|1996]], [[2000. gada Vasaras Olimpiskās spēles|2000]])
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 2,06 [[metrs|m]]
+ |           PR1_d = [[augstlēkšana|augstlēkšanā]]
+ |             PR2 = 2,08 [[metrs|m]]
+ |           PR2_d = [[augstlēkšana|augstlēkšanā]] telpās (pasaules rekords)
+ |             PR3 = 4952
+ |           PR3_d = [[septiņcīņa|septiņcīņā]]
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = S
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Kajsa Margareta Bergkvista''' ({{val|sv|Kajsa Margareta Bergqvist}}; dzimusi {{dat|1976|10|12}} [[Solentuna|Solentunā]], [[Zviedrija|Zviedrijā]]) ir bijusī zviedru augstlēcēja, savu profesionāles karjeru beigusi [[2007. gads|2007]]. gadā. Viņai pieder pasaules rekords augstlēkšanā telpās - tas ir 2,08 metrus augsts. [[2000. gada vasaras olimpiskās spēles|2000. gada vasaras olimpiskajās spēlēs]] viņa izcīnīja bronzas medaļu, vēl vienu zelta un divas bronzas medaļas Pasaules čempionātos un zelta medaļu 2002., bronzas medaļu [[2006. gada Eiropas čempionāts vieglatlētikā|2006.]] gada Eiropas čempionātos.
+
+== Personiskie rekordi ==
+{|class="wikitable"
+|-
+!Disciplīna
+!Rezultāts
+!Vieta
+!Piezīmes
+|-
+|[[Augstlēkšana]] (stadionā)
+|2,06 [[metrs|m]]
+|{{flag|Vācija}}
+|Nacionālais rekords
+|-
+|[[Augstlēkšana]] (telpās)
+|2,08 [[metrs|m]]
+|{{flag|Vācija}}
+|Pasaules rekords
+|-
+|[[Septiņcīņa]]
+|4952 punkti
+|
+|
+|}
+
+== Ārējās saites ==
+{{commonscat|Kajsa Bergqvist|Kajsa Bergkvista}}
+* [http://www.kajsabergqvist.nu/ Kajsas Bergkvistas oficiālā mājaslapa] {{Webarchive|url=https://web.archive.org/web/20090831042559/http://kajsabergqvist.nu/ |date={{dat|2009|08|31||bez}} }} {{se ikona}}
+{{Sporta ārējās saites}}
+* [http://ivetlalova.webcindario.com/kajsabergqvist.htm Kajsas Bergkvistas fotogalerija]
+
+{{Olimpisko spēļu laureāts-aizmetnis}}
+{{Vieglatlēts-aizmetnis}}
+{{Olimpisko spēļu dalībnieks-aizmetnis}}
+
+{{DEFAULTSORT:Bergkvista, Kajsa}}
+[[Kategorija:1976. gadā dzimušie]]
+[[Kategorija:Stokholmas lēnē dzimušie]]
+[[Kategorija:Zviedrijas vieglatlētes]]
+[[Kategorija:1996. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2000. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Pasaules rekordisti vieglatlētikā]]
+[[Kategorija:Augstlēcēji]]
+[[Kategorija:Olimpiskie bronzas medaļnieki vieglatlētikā]]

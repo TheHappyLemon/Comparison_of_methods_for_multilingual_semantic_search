@@ -1,0 +1,61 @@
+{{Jaunā Palīdzības lapa}}
+{{Pamācība}}
+
+== Ārējo saišu ievietošana ==
+
+Ja vēlies ievietot saiti uz kādu mājas lapu ārpus Vikipēdijas, tad šai saitei gandrīz vienmēr būtu jāatrodas sadaļā '''[[#Ārējās saites|Ārējās saites]]''' raksta beigās.
+
+Vienkāršākais veids, kā ievietot saiti, ir ierakstīt attiecīgās mājas lapas pilno adresi jeb [[URL]]. Piemēram, ja vēlies ievietot saiti uz [[Google]], tad raksti:
+:<tt><nowiki>http://www.google.com/</nowiki></tt>
+un tu iegūsi
+:<tt>http://www.google.com/</tt>
+Šo tekstu Vikipēdija automātiski pārveido par [[hipersaite|hipersaiti]] un parāda pilnu adresi, ieskaitot "<nowiki>http://</nowiki>" daļu. Veidojot kvalitatīvus Vikipēdijas rakstus, adreses šādā formātā nav ieteicams ievadīt, jo tas neizskatās labi un bieži vien nedod nekādu priekšstatu par attiecīgas mājas lapas patieso saturu.
+
+Lai hipersaites nosaukumā netiktu attēlots URL, bet gan kāds saturīgs lapas apraksts, adresi raksti kvadrātiekavās (katrā galā tikai vienu!). Tātad, ja vēlies ievietot saiti uz [[Google]], raksti:
+:<tt><nowiki>[http://www.google.com/]</nowiki></tt>
+Šajā gadījumā hipersaite izskatās kā skaitlis kvadrātiekavās: [http://www.google.com/]. Visbiežāk šādu formātu izmanto, lai rakstā ievietotu atsauci uz kādu avotu. Tā izskatās kā zemsvītras piezīme, tādēļ vislabāk to tādā nolūkā arī izmantot (piemēram, aiz precīza citāta vai apgalvojuma, kura avots noteikti ir jānorāda). '''Nevajag''' darīt šādi: “[http://members.lycos.nl/JoyceHoen/moon2000.htm] apliecina, ka otrās tūkstošgades pēdējais pilnmēness bija 2000. gada 11. decembrī.” Tāpat centies neizmantot ārējās saites, ja ir iespējams to pašu iegūt ar iekšēju saiti uz kādu Vikipēdijas rakstu.
+
+Ja vēlies, lai saites nosaukumā parādītos kāds tevis izvēlēts teksts, tad šo tekstu pievieno adreses beigās aiz '''atstarpes''' (''nevis'' “|”). Tātad, ja vēlies, lai saite būtu [http://www.google.com/ Google meklētājs], vienkārši raksti:
+:<tt><nowiki>[http://www.google.com/ Google meklētājs]</nowiki></tt>
+
+Piezīme: Ja saitē ir kādas īpašās zīmes, piemēram “<tt>|</tt>”, tad tā nedarbosies, tomēr [[URL]] sintakse ļauj jebkuru zīmi aizstāt ar tās [[ASCII]] attēlojuma [[heksadecimālā skaitīšanas sistēma|heksadecimālo]] ekvivalentu. Tātad “|” vietā tu vari rakstīt <tt>%7C</tt>. Vairāk heksadecimālos kodus vari atrast [[:en:ASCII#ASCII printable characters|ASCII derīgo zīmju tabulā]].
+
+Sadaļu '''Ārējās saites''' ir ieteicams noformēt kā nenumurētu sarakstu:
+:<tt><nowiki>== Ārējās saites ==</nowiki></tt>
+:<tt><nowiki>* [http://www.google.com/ Google meklētājs]</nowiki></tt>
+:<tt><nowiki>* [http://www.yahoo.com/ Yahoo! meklētājs]</nowiki></tt>
+
+Rezultāts:
+== Ārējās saites ==
+* [http://www.google.com/ Google meklētājs]
+* [http://www.yahoo.com/ Yahoo! meklētājs]
+
+== Atsauces ==
+
+Pusautomātiskai atsauču ievietošanai lieto <nowiki><ref></nowiki> un <nowiki></ref></nowiki> [[HTML]] [[birka]]s (tās var ievadīt ar pēdējo rediģēšanas loga rīku joslas pogu [[Attēls:Button reflink.png]]). Rakstā tās tiek attēlotas kā augšējie indeksi (''superscript''), piemēram, "fakts 1<ref>paskaidrojošs teksts</ref>, fakts 2<ref>http://www.google.lv/</ref>, fakts 3<ref>[http://www.google.lv/ paskaidrojošs teksts]</ref>, fakts 4<ref>http://www.google.lv/ paskaidrojošs teksts</ref>". Ja tiek izmantotas <nowiki><ref></nowiki> birkas, tad raksta beigās obligāti ir jāizveido atsauču sadaļa ar virsrakstu '''Piezīmes un atsauces''', kurā jāievieto veidne <nowiki>{{</nowiki>[[Veidne:Atsauces|atsauces]]<nowiki>}}</nowiki>.
+
+Ja šāda veida atsauču sadaļa jau ir ielikta, tad šādā veidā ieliktās atsauces parādīsies esošajā atsauču sadaļā, pēc kārtas, tādā secībā, kādā tās atrodas tekstā. Ieliekot jaunas atsauces, secība pārkārtosies automātiski. Atsaucēm, ja iespējams vēlams lietot ārējās saites.
+
+Izšķir četrus galvenos atsauču pieraksta veidus, kuri tiek lietoti pēc vajadzības.
+* 1. Teksts bez saites: <nowiki><ref>paskaidrojošs teksts</ref></nowiki>.
+* 2. Ārējā saite, kuras nosaukums satur tikai adresi: <nowiki><ref>http://www.google.lv/</ref></nowiki>.
+* 3. Ārējā saite, kuras nosaukumā adreses vietā parādās vajadzīgais paskaidrojums: <nowiki><ref>[http://www.google.lv/ paskaidrojošs teksts]</ref></nowiki>.
+* 4. Ārējā saite, kuras nosaukumā parādās lapas adrese un paskaidrojums aiz tās: <nowiki><ref>http://www.google.lv/ paskaidrojošs teksts</ref></nowiki>.
+=== Piemērs ===
+:<tt><nowiki>Kaut kāds fakts rakstā.<ref>http://www.google.lv/</ref></nowiki></tt>
+:...
+:<tt><nowiki>== Piezīmes un atsauces ==</nowiki></tt>
+:<tt><nowiki>{{atsauces}}</nowiki></tt>
+Zemāk parādīts, kā tas izskatās rakstā:
+
+=== Atsauces ===
+{{atsauces}}
+
+{{-}}
+<div style="float:left; align:left; margin-top: -1.5em; background-color: #f5faff; padding: .2em .6em; font-size: 130%; border: 1px solid #cee0f2;">'''Spēlēšanās notiek [[Vikipēdija:Pamācība (Ārējas saites)/smilšu kaste|smilšu kastē]]'''</div>
+<noinclude>
+<div style="float:right; margin-top: 0.0em; margin-bottom:3px; background-color: #cee0f2; padding: .2em .6em; font-size: 130%; border: 1px solid #a3b1bf;">'''Vari doties uz šīs pamācības [[Vikipēdija:Pamācība (Diskusiju lapas)|nākamo nodaļu par diskusiju lapām]]''' <span style="font-size: larger; font-weight: bold;">→</span></div>
+</div></noinclude>
+<div style="clear:both"></div>
+
+[[Kategorija:Vikipēdijas pamācība|Arejas saites]]

@@ -1,0 +1,56 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 39
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 18
+|             4. čaula = 9
+|             5. čaula = 2
+|              simbols = Y
+|             atommasa = 88,90584(2)
+|   valences elektroni = [Kr]4d<sup>1</sup>5s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Y-TableImage.svg|250px]]
+|               attēls = [[Attēls:Yttrium sublimed dendritic and 1cm3 cube.jpg|180px]]<br />Sublimēti itrija kristrāli (dendrīti) un 1 cm<sup>3</sup> kubiņš 
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,22
+|              blīvums = 4472
+|  kušanas temperatūra = 1799 K (1526&nbsp;°C)
+| viršanas temperatūra = 3906 K (3336&nbsp;°C)
+}}
+
+'''Itrijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Y''' un [[atomskaitlis|atomskaitli]] 39. Itrijs ir sudrabbalts, [[korozija]]s izturīgs [[metāls]]. To iegūst no retzemju metālu rūdām. [[Itrija oksīds]] ir viens no sarkanā luminofora komponentiem, krāsainajiem [[kineskops|kineskopiem]]. Izplatītākā itrija oksidēšanas pakāpe ir +3. Itrijs [[normāli apstākļi|normālā temperatūrā un spiedienā]] ir pelēkbalts metāls ar sudrabainu spīdumu.
+
+== Vēsture ==
+1787. gadā zviedru ķīmiķis [[Karls Aksels Arhēnijs]] (''Carl Axel Arrhenius'') netālu no [[Zviedrija]]s ciemata [[Iterbī]] atrada jaunu līdz tam nezināmu minerālu. Viņš to nosauca par iterbītu un nosūtīja tā gabaliņus uz dažādām pasaules vietām izpētei. 1789. gadā [[Obu universitāte]]s pārstāvis, somu ķīmiķis [[Johans Gadolins]] (''Johan Gadolin''), identificēja to. 1794. gadā viņš publicēja pilnīgu tā analīzi. Dažus gadus vēlāk tika apstiprināts Gadolina atklājums, ka minerālā ir atrodams jauns ķīmiskais elements.
+
+== Atrašanās dabā ==
+Itrijs ir sastopams daudzos retzemju minerālos, bet brīvā veidā dabā nav sastopams. [[Zemes garoza|Zemes garozā]] itrijs ir 28. izplatītākais ķīmiskais elements. Tā koncentrācija ir aptuveni 31 daļiņa no miljona.<ref name="Cotton"/> Cilvēka organismā ir 0,5 mg itrija, bet dārzeņos tā koncentrācija var būt pat tūkstošiem reižu lielāka un sasniegt 100 ppm (miljonās daļas).<ref name="Emsley"/> Dabā sastopamajam itrijam nav bioloģiskas nozīmes, un to uzskata par nekaitīgu, bet radioaktīvo izotopu itriju-90 izmanto mērķētajā [[ķīmijterapija|ķīmijterapijā]]. Samērā liels daudzums šīs vielas atrodams [[Mēness]] virsmas iežu paraugos, ko uz Zemi nogādāja [[Apollo programma|Apollo]] kosmiskās misijas.
+
+=== Izotopi ===
+Dabā ir sastopams tikai viens itrija [[izotops]] — <sup>89</sup>Y.<ref name="jlab"/> Ir zināmi vēl 32 mākslīgi iegūti radioizotopi, kuru [[masas skaitlis]] ir no 76 līdz 108.
+
+== Izmantošana ==
+Vislielāko daļu no itrija izmantošanas veido tā [[oksīds|oksīda]] Y<sub>2</sub>O<sub>3</sub> izmantošana.<ref name="lenntech"/> Tas ir viens no sarkanā luminofora komponentēm krāsaino [[televizors|televizoru]] [[kineskops|kineskopos]].<ref name="lenntech"/> Itriju izmanto arī [[sakausējums|sakausējumos]] ar [[alumīnijs|alumīniju]] un [[magnijs|magniju]], un tas palielina sakausējuma izturību.<ref name="lenntech"/>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Cotton">{{žurnāla atsauce | title= Encyclopedia of Inorganic Chemistry | first= Simon A. | last= Cotton | doi= 10.1002/0470862106.ia211 | date= 2006-03-15| chapter= Scandium, Yttrium & the Lanthanides: Inorganic & Coordination Chemistry | isbn= 0-470-86078-2}}</ref>
+
+<ref name="Emsley">Emsley, John (2001). "Yttrium". Nature's Building Blocks: An A-Z Guide to the Elements. Oxford, England, UK: Oxford University Press. pp. 495–498. {{ISBN|0-19-850340-7}}.</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso039.html | title= Isotopes of the Element Yttrium | publisher= Jefferson Lab | accessdate= 2014. gada 1. martā | language= angliski}}</ref>
+
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/y.htm | title= Yttrium (Y) - Chemical properties, Health and Environmental effects | publisher= lenntech.com | accessdate= 2014. gada 1. martā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Metāli]]

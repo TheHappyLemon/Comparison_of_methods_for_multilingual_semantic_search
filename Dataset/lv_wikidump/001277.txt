@@ -1,0 +1,11 @@
+<div class="notice metadata" id="disambig">
+{| style="background-color: inherit;"
+|----
+|width="55" halign="center" |[[Attēls:Disambig.svg|50px|left]]
+|''Šī ir jēdziena [[Wikipedia:Nozīmju atdalīšana|atšķirīgo nozīmju atdalīšanas]] lapa, kas atvieglo navigāciju, uzskaitot visus citus rakstus, kuriem varētu būt šāds virsraksts. Ja esi šeit nonācis, klikšķinot uz saites kādā rakstā, lūdzu, izlabo to saiti, lai nākamais interesents nonāktu tieši tajā rakstā, par kuru ir runa.''
+|}
+</div><includeonly>
+[[Kategorija:Nozīmju atdalīšana]]{{main other|__DISAMBIG__}}
+</includeonly><noinclude>
+[[Kategorija:Nozīmju atdalīšanas veidnes| ]]
+</noinclude>

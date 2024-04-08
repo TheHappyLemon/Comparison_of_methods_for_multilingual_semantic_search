@@ -1,0 +1,62 @@
+{{Apdzīvotas vietas infokaste
+|name                   = Kallaste
+|official_name          = ''Kallaste''
+|settlement_type        = pilsēta
+|image_flag             = Flag of Kallaste.svg
+|image_shield           = Kallaste coatofarms.png
+|shield_size            = 70px
+|flag_size              = 
+|subdivision_name1      = [[Tartu apriņķis]]
+|leader_name            = 
+|area_total_km2         = 1.9
+|population_total       = 1152
+|population_footnotes   = 
+|population_as_of       = 2006
+|population_density_km2 = 606,3
+| latd  = 58|latm  = 39|lats  = 55|latNS  = N
+| longd = 27|longm = 9|longs = 44|longEW = E
+|image_skyline          = Kallaste-Peipussee.JPG
+|imagesize              = 
+|image_caption          = [[Peipusa ezers]] pie Kallastes.
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{EST}}
+|subdivision_type1      = [[Igaunijas apriņķi|Apriņkis]]
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|website                = 
+|established_title      = Pilsētas tiesības
+|established_date       = 1938. gads
+|pushpin_map            = Estonia
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 280
+|pushpin_map_caption    = Atrašanās vieta Igaunijā
+|other_name             = 
+|}}
+
+'''Kallaste''' ir pilsēta [[Igaunija]]s austrumos, [[Tartu apriņķis|Tartu apriņķī]].
+Atrodas [[Peipusa ezers|Peipusa ezera]] krastā un aizņem 1,9 km<sup>2</sup> lielu platību. No 1150 pilsētas iedzīvotājiem apmēram 80% ir krievi. Peipusa krastā atrodas Igaunijā lielākais [[devons|devona]] perioda [[smilšakmens]] atsegums. Tā kopējais garums ir vairāk kā 900 metri, bet maksimālais augstums 5 metri. 
+
+== Vēsture ==
+Ciems šajā vietā izveidojās [[18. gadsimts|18. gadsimtā]], kad šeit apmetās no [[Krievija]]s izceļojušie [[vecticībnieki]]. No igauņu valodas pilsētas nosaukums ir tulkojams kā ''Sarkanās klintis'', kas ir radies no sākotnējā ciema nosaukuma krieviski. [[1938]]. gada [[1. maijs|1. maijā]] Kallaste ieguva pilsētas tiesības. 
+
+<gallery>
+Kallaste view.jpg
+Kallaste kalmistu.JPG
+Peipus Kallaste 4.JPG
+Kallaste - panoramio.jpg
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Igaunijas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Tartu apriņķis]]

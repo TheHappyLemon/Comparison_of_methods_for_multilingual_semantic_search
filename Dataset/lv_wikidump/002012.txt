@@ -1,0 +1,21 @@
+'''Grafiskais''' jeb '''grafikas procesors''' ({{val|en|graphics processing unit (GPU)}}) ir atsevišķa (realizēta [[videokarte|videokartē]]) vai integrēta (realizēta [[mātes plate|mātes platē]]) komponente [[personālais dators|personālā datora]] vai [[spēļu konsole]]s komplektācijā un tā atbild par grafikas renderēšanu. Mūsdienu grafiskie procesori ļoti efektīvi apstrādā [[kontūrzīmējums|kontūrzīmējumus]] un pārveido pilnībā noformētā [[trīsdimensiju attēls|trīsdimensiju attēlā]], izmantojot krāsas un ēnojumus, un, pateicoties īpašai [[konveijeru arhitektūra]]i, tie ir daudz efektīvāki grafiskās informācijas apstrādē nekā centrālais procesors ([[Procesors|CPU]]).
+
+Grafiskais procesors mūsdienu [[video adapters|video adapteros]] kalpo par [[trīsdimensiju grafikas paātrinātājs|trīsdimensiju grafikas paātrinātāju]]. Pamatīpašības, kas atšķir GPU no CPU ir:
+* arhitektūra, kas ir paredzēta [[tekstūra|tekstūru]] un sarežgītu grafisko objektu attainošanas ātruma pieaugumam,
+* ierobežots komandu daudzums.
+
+== Grafisko procesoru ražotāji ==
+* ''[[NVIDIA]]''
+* [[Advanced Micro Devices|AMD]]
+* ''[[S3 graphics]]''
+* ''[[VIA Technologies]]''
+* ''[[Matrox]]''
+* ''[[Intel]]''
+* ''[[OpenGraphics]]''
+* [[SiS]]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datoru aparatūra]]

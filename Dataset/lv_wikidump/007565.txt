@@ -1,0 +1,33 @@
+{{ezera infokaste
+|ezers=Zīles ezers
+|attēls=Sihlsee Fluebrig.jpg
+|paraksts=Zīles ezers
+| plat_d=47 | plat_m=7 | plat_s= | plat_NS=N
+| gar_d=8 | gar_m=47 | gar_s= | gar_EW=E
+|vieta={{SUI}}
+|map = Šveice
+|platība=11,3
+|garums=8,5
+|Vid_dziļums=
+|Max_dziļums=25
+|tilpums=0,96
+|augstums_vjl=889
+|izteka=[[Zīle]]
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+'''Zīles ezers''' ({{val|de|Sihlsee}}) ir mākslīgi veidota [[ūdenskrātuve]] [[Šveice|Šveicē]], [[Švīce]]s kantonā. Pēc platības lielākā mākslīgā ūdenskrātuve Šveicē.
+
+[[Attēls:Karte_Sihlsee.png|left|200px|thumb|Zīles ezera pārskata karte.]]
+Hidroelektrostacijas būve sākās [[1932]]. gadā. Pāri ezeram pirms uzpludināšanas tika uzcelti divi viadukti; [[1937]]. gadā ieleja tika applūdināta. Ūdenskrātuvi norobežojošais betona dambis ir {{nobr|33 m}} augsts un {{nobr|124 m}} garš. 1762 cilvēkiem nācās meklēt jaunu dzīves vietu.
+
+Ir aprēķināts, ka straujš dambja pārrāvums var izraisīt {{nobr|8 m}} augstu plūdu vilni Šveices lielākajā pilsētā [[Cīrihe|Cīrihē]].{{fact}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20031210235152/http://www.sihlsee.ch.vu/ Zīles ezers - mājaslapa angliski un vāciski]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Šveices ezeri]]

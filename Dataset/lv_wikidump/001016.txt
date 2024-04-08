@@ -1,0 +1,136 @@
+'''Lokālais tīkls''' (''local area network'', ''LAN'') ir [[datortīkls]], kas nosedz lokālu platību, piemēram, māju, biroju vai nelielu ēku grupu, teiksim, koledžu. Tīkla fizisko struktūru nosaka tā [[tīkla topoloģija|topoloģija]].
+
+Ir pieņemts, ka maksimālais lokālā tīkla apjoms ir 1000 m<sup>2</sup>. Lokālie tīkli parasti ir ātrāki par [[teritoriālais tīkls|teritoriālajiem tīkliem]].
+
+== Vēsture ==
+Pirmo plaši lietoto lokālā tīkla arhitektūru, [[ARCnet]] izstrādāja firma [[Datapoint]] 1977. gadā, lai vairāki [[Datapoint 2200]] datori varētu izmantot kopējus diskus datu glabāšanai. Kā jau lielākā daļa sākotnējo lokālā tīkla arhitektūru, ARCnet bija ražotāja specifisks risinājums. [[institūts IEEE|IEEE]] institūta standartizēšanas mēģinājumi noveda pie [[standarti IEEE 802|IEEE 802]] standartu sērijas. Mūsdienās izmanto divas vadu lokālo tīklu tehnoloģijas - [[Ethernet]] un [[Token Ring]]. Šobrīd strauji attīstās arī [[bezvadu]] tīklu tehnoloģijas.
+
+== Uzbūve ==
+Mūsdienās populārākās LAN tehnoloģijas ir [[Ethernet]] (ar vītā pāra kabeļiem) un [[Wi-Fi]] (bezvadu tīkli). Šīs tehnoloģijas definē [[fizikālais slānis|fizikālo]] un [[kanāla slānis|kanāla slāni]] OSI 7 slāņu modelī.
+
+Ethernet tīklā datori parasti ir savienoti ar [[centrmezgls|centrmezglu]] vai [[tīkla komutators|komutatoru]].
+
+Lai uzturētu no cilpām brīvu lokālā tīkla topoloģiju izmanto [[savienotā koka protokols|savienotā koka protokolu]].
+
+Pamata transporta mehānisms var balstīties uz dažādiem protokoliem, piemēram, [[TCP/IP]]. Šajā gadījumā ērts veids kā piešķirt datoriem [[IP adrese]]s ir [[DHCP]]. Lokālais tīkls var būt savstarpēji saistīts ar teritoriālo tīklu. Savienojumi starp atsevišķiem lokālajiem tīkliem tiek veidoti ar [[maršrutētājs|maršrutētāja]] palīdzību.
+
+Mūsdienās populārākais [[tīkla slānis|tīkla slāņa]] protokols lokālajos tīklos ir [[IP]]. Vēsturiski ļoti populārs ir bijis arī [[IPX]]. Lai arī IPX ir lielāks lietderības koeficients (mazāks ''overhead'') kā IP, tas ir grūti maršrutizējams un palielinoties interneta nozīmei, arvien vairāk sāka lietot IP.
+
+==Veidi ==
+=== Vītā pāra tīkls ===
+[[Vītais pāris]] – viens no strukturēto kabeļu tīklu sistēmu komponentiem. Kā datu pārraides nesējs plaši tiek pielietots telekomunikāciju un datortīklu tehnoloģijās,  tādās kā [[Ethernet]], [[Arcnet]] un [[Token Ring]]. Pateicoties vienkāršai instalācijai un ekonomiskam cenu līmenim, tas pašreiz  ir visplašāk pielietotais datu pārraides risinājums lokālajiem tīkliem. Izmantojot vīto pāri, iespējams organizēt datu tīklus ar pārraides ātrumu līdz 40 Gbit/s.
+{| class="wikitable"
+|+
+!kabeļa tips
+!ātrums Gbit/s
+!attālums m
+!frekvence MHz
+|-
+|Cat 5
+|0,1 
+|100
+|100
+|-
+|Cat 5e
+|0,1
+|100
+|125
+|-
+|Cat 6
+|1
+|100
+|250
+|-
+|Cat 6a
+|10
+|100
+|500
+|-
+|Cat 7
+|10
+|100
+|600
+|-
+|Cat 8
+|40
+|30
+|2000
+|}
+
+=== Optiskais tīkls ===
+Tehnoloģijām attīstoties un pieaugot uzņēmuma datorlietotāju prasībām pēc ātrākas piekļuves interneta resursiem un labāk optimizētai  failu apmaiņas sistēmai, lokālā datu tīkla izveidei iesaka pielietot optiskās tehnoloģijas, jo optiskās šķiedras kabelim salīdzinājumā ar vītā pāra kabeli ir virkne priekšrocību:
+* Augsta datu caurlaidība (pa vienu optiskā šķiedru kabeļa pāri var vienlaikus pārraidīt desmitiem informācijas plūsmu — no 100 Mbit/s līdz 10 Gbit/s katra),
+* Datu pārraide lielos attālumos (bez papildus retranslatoriem līdz vairākiem desmitiem kilometru),
+* Augsta datu pārraides drošība,
+* Elastīgums.
+''Prysmian Group'' kopā ar ''Nokia Bell Labs'' un Nacionālo informācijas un komunikāciju tehnoloģiju institūtu (NICT) izdevies sasniegt pasaules rekordu datu pārraides ātrumā, izmantojot vienu optisko šķiedru ar standarta izmēriem.  Tas ir 1 Pbit/s = 1 000 000 Gbit/s.
+
+=== Atvērts gaisa lāzeru tīkls ===
+Tīkla veidošanai nepieciešama tiešā redzamība starp savienojamiem punktiem. Kā gaismas avotu parasti izmanto pusvadītāju lāzerus un gaismas uztvērējus. Tā atklātās vietās tiek veidoti aizsargāti sakaru kanāli, kuri nodrošina plūsmas ātrumu līdz 10 Gbit/s attālumā līdz 8 km. Sasniegt lielāku datu pārraides attālumu traucē atmosfēras apstākļi, bet to veiksmīgi kosmosā dara interneta piegādātāja ''Starlink'' satelīti.
+
+=== Bezvadu tīkls (Wi-Fi) ===
+{{novec}}
+Bezvadu tehnoloģijas savu straujo attīstības dinamiku  un popularitāti ieguvušas pateicoties lietošanas ērtībām un plašā pielietojuma iespējām. Īpašu uzmanību jāpievērš tīkla drošībai, jo neaizsargāts tīkls atver nesankcionētu, praktiski neierobežotu piekļuvi lokālajam tīklam. Bezvadu tehnoloģija nodrošina datu pārraides ātrumu līdz 2 Gbit/s, taču jāņem vērā, ka datu pārraides ātrums vistiešākajā mērā ir atkarīgs no pārraidāmā signāla apkārtējās vides. Lai palielinātu signāla kvalitāti, jāveic ārējo antenu uzstādīšana.
+{| class="wikitable"
+|+Wi-Fi ātrums Gbit/s
+!standarts
+!protokols
+!teorētiski
+!reāli
+|-
+|Wi-Fi 4
+|802.11an
+|0,6
+|0,1
+|-
+|Wi-Fi 5
+|802.11ac
+|1,3
+|0,2
+|-
+|Wi-Fi 6
+|802.11ax
+|10
+|2
+|}
+
+=== Elektrotīkls ===
+Standarta maiņstrāvas elektrotīklu vienas fāzes ietvaros arī var izmantot datu apmaiņas tīkla veidošanai. Tomēr elektrotīkls nav paredzēts datu pārsūtīšanai un tur ir traucējošs 50Hz signāls, kas samazina šādi veidota tīkla efektivitāti.
+{| class="wikitable"
+|+ātrums Gbit/s
+!standarts
+!teorētiski
+!reāli
+|-
+|av200
+|0,2
+|0,08
+|-
+|av500
+|0,5
+|0,25
+|-
+|av1200
+|1,2
+|0,4
+|}
+
+=== Mobilo telefonu tīkls ===
+Visi mobilo sakaru nodrošinātāji piedāvā arī pieslēgšanos internetam. Jaunākais [[5G]] standarts paredz teorētiski sasniedzamu datu lejuplādes ātrumu 10 Gbit/s. Lai to sasniegtu, sakaru nodrošinātājiem datu pārraidei nākas lietot augstākas frekvences un izmantot plašāku frekvenču diapazonu. Tā kā brīvo frekvenču nav tik daudz, tās tiek noņemtas televīzijas virszemes apraides augstāko frekvenču kanāliem. Tomēr arī mobilo sakaru nodrošinātājiem ir tehnoloģijas, ar kuru palīdzību caur internetu tiek izplatīti TV kanāli.
+
+Lai viedtelefons darbotos, tajā ir iebūvētas iespējas savienoties ar pakalpojumu nodrošinātāju infrastruktūru. Ja mobilo sakaru torņi tiek atslēgti, telefons šo iespēju nezaudē. Tomēr, lai telefoni spētu sazināties bez centrāles palīdzības, tajos jāuzstāda speciālas rācijsaziņas aplikācijas (''Zello'' uc.).
+
+== Adresācija ==
+Lokālais tīkls, bāzēts uz IPv4 protokola, var izmantot speciālās adreses, noteiktās IANA (standarti {{RFC|1918}} un {{RFC|1597}}):
+
+* 10.0.0.0—10.255.255.255;
+* 172.16.0.0—172.31.255.255;
+* 192.168.0.0—192.168.255.255.
+
+Tādas adreses sauc par privātām, iekšējām vai lokālām; šīs adreses nav pieejamas no interneta tīkla. Nepieciešamība izmantot tādas adrese radās tādēļ, ka, izstrādājot IP protokolu, netika paredzēta tik plaša tā popularitāte, un palēnām adrešu kļuva par maz. Šīs problēmas risināšanai tika izstrādāts Ipv6 protokols, bet pašlaik tas ir maz izplatīts. Dažādos nepārklājamajos lokālajos tīklos adreses var atkārtoties, taču tā nav problēma, tā kā pieeja citos tīklos notiek ar tehnoloģijas palīdzību, kura maina vai slēpj iekšējā mezgla adresi aiz viņas robežām – NAT vai [[starpniekserveris|starpniekserverim]] dod iespēju pieslēgt LVS pie globālā tīkla (WAN). Saites nodrošināšanai starp lokālo un globālo tīklu izmanto maršrutētājus.
+
+IP adrešu konflikts – izplatīta situācija lokālajos tīklos, kurā vienā IP-apakštīklā ir divi vai vairāki datori ar vienādām IP-adresēm. Lai novērstu tādas situācijas un vienkāršot darbu, tīklu administratori izmanto protokolu DHCP, ļaujot datoram automātiski iegūt IP-adresi un citus parametrus, nepieciešamus darbam tīklā TCP/IP.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datortīkli]]

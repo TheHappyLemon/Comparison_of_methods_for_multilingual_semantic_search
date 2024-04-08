@@ -1,0 +1,144 @@
+[[Attēls:National park Fiordland.jpg|235px|thumbnail|Fjordlendas nacionālais parks Jaunzēlandes Dienvidu salā]]
+'''UNESCO Pasaules mantojuma objekts''' ir noteikta vieta (piemēram, [[mežs]], [[kalns]], [[Baznīca (celtne)|baznīca]], [[pilsēta]]), kas nominēts un oficiāli iekļauts [[UNESCO Pasaules mantojuma saraksts|Pasaules mantojuma sarakstā]], kuru administrē Apvienoto Nāciju Izglītības, zinātnes un kultūras organizācijas ([[UNESCO]]) [[Pasaules mantojuma komiteja]]. Pasaules mantojuma komitejā tiek iekļauti 21 valsts pārstāvji, kurus uz noteiktu laiku ievēl Konvencijas dalībvalstu Ģenerālajā asamblejā.
+
+Pasaules mantojuma programmas mērķis ir apkopot informāciju un aizsargāt vietas, kam ir īpaši liela kultūras vai dabas vērtība kopējā cilvēces mantojumā. Noteiktos apstākļos mantojumā iekļautie objekti var iegūt finansiālu atbalstu no Pasaules mantojuma fonda.
+
+Pasaules mantojuma programma izveidojās līdz ar Konvenciju par pasaules kultūras un dabas mantojuma aizsardzību, kas tika pieņemta UNESCO Ģenerālajā konferencē [[1972]]. gadā. Konvenciju ratificējušas vairāk kā 180 valstis. Latvija konvenciju ratificēja [[1997]]. gada [[17. februāris|17. februārī]].
+
+[[Attēls:GreatWall6.jpg|right|235px|thumbnail|Objekts Nr. 438: Lielais Ķīnas mūris]]
+[[2006. gads|2006]]. gadā Pasaules mantojuma sarakstā bija iekļauti 830 objekti, tai skaitā 644 kultūras objekti, 162 dabas objekti un 24 jaukti objekti. Šie objekti atrodas 138 valstīs. Katram no objektiem tiek piešķirts noteikts numurs, taču tā kā jauniekļautie objekti nereti iekļauj jau agrāk sarakstā iekļautos objektus, numerācija jau pārsniedz skaitli 1200, kaut gan patiesais objektu skaits ir mazāks. Latviju šajā sarakstā pārstāv [[Rīgas vēsturiskais centrs]] un starptautiskais piemineklis — [[Strūves ģeodēziskais loks]].
+
+Katrs no Pasaules mantojuma objektiem ir tās valsts īpašums, kurā šis objekts atrodas, taču tiek pieņamts, ka visas starptautiskās sabiedrības interesēs ir šo objektu saglabāt.
+
+== Objekta nominācija ==
+Katrai dalībvalstij ir jāveic savu nozīmīgāko kultūras un dabas objektu inventarizācija, sastādot sākotnējo sarakstu. Pasaules mantojuma sarakstam nevar pieteikt objektu, kurš nav bijis iekļauts sākotnējā sarakstā.
+
+[[Attēls:Rice Terraces Banaue.jpg|right|200px|thumb|Objekts Nr.772: Banaue rīsa terases, Filipīnas]]
+Katra valsts no sākotnējā saraksta nominācijai var piedāvāt atsevišķus objektus, par kuriem tiek sastādīts plašs nominācijas pamatojums un apraksts. Pamatojums tiek sastādīts ar Pasaules mantojuma centra palīdzību, jo tam jābūt pēc iespējas plašākam.
+
+Nominēto objektu aprakstus neatkarīgi izvērtē. [[Pasaules mantojuma komiteja]] tiekas reizi gadā un vērtē, vai katru no nominētajiem objektiem iekļaut vai neiekļaut Pasaules mantojuma sarakstā, nereti lūdzot no dalībvalsts papildus informāciju.
+
+== Objekti pēc valsts ==
+* ''Skatīt arī:'' ''[[UNESCO Pasaules mantojumu objektu skaits pa valstīm]]''
+
+* <span style="color:rgb(128,54,0);">Brūns</span>: valstis ar vismaz 40 pasaules mantojuma objektiem
+* <span style="color:rgb(215,105,0);">Gaiši brūns</span>: valstis ar 30—39 pasaules mantojuma objektiem
+* <span style="color:orange;">Oranžs</span>: valstis ar 20—29 pasaules mantojuma objektiem
+* <span style="color:blue;">Zils</span>: valstis ar 15—19 pasaules mantojuma objektiem
+* <span style="color:green;">Zaļš</span>: valstis ar 10—14 pasaules mantojuma objektiem
+
+<div>
+<timeline>
+ImageSize = width:602 height:auto barincrement:15
+PlotArea  = top:10 bottom:30 right:50 left:20
+AlignBars = early
+
+DateFormat = yyyy
+Period     = from:0 till:50
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:20 start:0
+
+Colors     =
+  id:canvas      value:rgb(1,1,1)
+  id:red   value:rgb(0.54,0.21,0)
+  id:redl   value:rgb(0.84,0.41,0)
+  id:orange   value:orange
+  id:blue  value:blue
+  id:green value:green
+
+Backgroundcolors = canvas:canvas
+
+BarData =
+  barset:Studentenbuden
+
+PlotData =
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+  barset:Studentenbuden
+  from: 0 till: 50 color:red text:"Itālija" (50)
+  from: 0 till: 47 color:red text:"Ķīna" (47)
+  from: 0 till: 44 color:red text:"Spānija" (44)
+  from: 0 till: 39 color:redl text:"Francija" (39)
+  from: 0 till: 39 color:redl text:"Vācija" (39) 
+  from: 0 till: 32 color:redl text:"Meksika" (32)
+  from: 0 till: 32 color:redl text:"Indija" (32)
+  from: 0 till: 28 color:orange text:"Apvienotā Karaliste" (28)
+  from: 0 till: 26 color:orange text:"Krievija" (26)
+  from: 0 till: 22 color:orange text:"ASV" (22)
+  from: 0 till: 19 color:blue text:"Austrālija" (19)
+  from: 0 till: 19 color:blue text:"Brazīlija" (19)
+  from: 0 till: 18 color:blue text:"Japāna" (18)
+  from: 0 till: 17 color:blue text:"Grieķija" (17)
+  from: 0 till: 17 color:blue text:"Kanāda" (17)
+  from: 0 till: 17 color:blue text:"Irāna" (17)
+  from: 0 till: 15 color:blue text:"Portugāle" (15) 
+  from: 0 till: 15 color:blue text:"Zviedrija" (15) 
+  from: 0 till: 14 color:green text:"Polija" (14)
+  from: 0 till: 13 color:green text:"Turcija" (13)
+  from: 0 till: 12 color:green text:"Čehija" (12)
+  from: 0 till: 12 color:green text:"Peru" (12)
+  from: 0 till: 11 color:green text:"Beļģija" (11)
+  from: 0 till: 11 color:green text:"Šveice" (11)
+  from: 0 till: 11 color:green text:"Dienvidkoreja" (11)
+  from: 0 till: 10 color:green text:"Nīderlande" (10) 
+  barset:skip
+
+</timeline>
+</div>
+
+=== Objekti Latvijā ===
+Apstiprinātie:
+* [[Rīgas vēsturiskais centrs]] (1997)
+* [[Strūves ģeodēziskais loks]] (2005)
+* [[Kuldīgas vecpilsēta]] (2023)
+
+Pieteiktie:
+* [[Daugavas loki]] (2011)
+* [[Grobiņas arheoloģiskais ansamblis]] (2017)
+* [[Rundāles pils]] ansamblis ar dārzu un mežaparku (2021)
+
+== Kultūras mantojuma kritēriji ==
+Saskaņā ar "Konvenciju par pasaules kultūras un dabas mantojuma aizsardzību par izciliem '''kultūras objektiem''' tiek uzskatīti:
+
+* atsevišķi izcili pieminekļi, tai skaitā:
+** arhitektūras pieminekļi
+** monumentālās skulptūras un glezniecības darbi
+** arheoloģiski elementi vai struktūras
+** uzraksti, alas vai elementu grupas, kam ir īpašas nozīmes universāla vērtība no vēstures, mākslas vai zinātnes viedokļa;
+[[Attēls:Great-Zimbabwe-4.jpg|thumb|200px|right|Zimbabves senpilsēta]]
+* pieminekļu ansambļi, tai skaitā:
+** atsevišķu vai apvienotu ēku grupas, kam dēļ to arhitektūras, vienotības vai to vietas
+ainavā ir īpašas nozīmes universāla vērtība no vēstures, mākslas vai zinātnes viedokļa;
+* ievērojamas vietas, tai skaitā:
+** cilvēka radītas
+** cilvēka un dabas kopīgi radītas
+** teritorijas, kas ietver arheoloģiski ievērojamas vietas
+** teritorijas, kam ir īpašas nozīmes universāla vērtība no vēstures, estētikas, etnoloģijas vai antropoloģijas viedokļa.
+
+== Dabas mantojuma kritēriji ==
+Saskaņā ar "Konvenciju par pasaules kultūras un dabas mantojuma aizsardzību par izciliem '''dabas objektiem''' tiek uzskatīti:
+* dabas pieminekļi, kas radušies no fizikāliem vai bioloģiskiem veidojumiem vai šādu veidojumu grupām, kam ir īpašas nozīmes universāla vērtība no estētikas vai zinātnes viedokļa;
+* ģeoloģiski vai fizioģeogrāfiski veidojumi un stingri noteiktas zonas, kas ir kādas apdraudētas dzīvnieku vai augu sugas dzīves vieta, kam ir īpašas nozīmes universāla vērtība no zinātnes vai saglabāšanas viedokļa;
+[[Attēls:SantaCruz-LosGlaciares-P2150249b.jpg|200px|thumb|right|Losglasjaresas nacionālais parks Argentīnā]]
+* ievērojamas dabas vietas vai ierobežotas dabas teritorijas, kam ir īpašas nozīmes universāla vērtība no zinātnes, saglabāšanas vai dabas skaistuma viedokļa.
+
+== Pasaules mantojuma objektu saraksti ==
+* [[Pasaules mantojuma objekti Āfrikā]]
+* [[Pasaules mantojuma objekti Amerikā]]
+* [[Pasaules mantojuma objekti Āzijā un Okeānijā]]
+* [[Pasaules mantojuma objekti Eiropā]]
+* [[Apdraudētie Pasaules mantojuma objekti]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://whc.unesco.org UNESCO Pasaules mantojuma objekti — oficiālā mājaslapa]
+* [http://whc.unesco.org/en/list UNESCO Pasaules mantojuma objektu saraksts]
+* [https://web.archive.org/web/20110103000907/http://worldheritage-forum.net/en/ Pasaules mantojuma forums]
+* [http://bbs.keyhole.com/ubb/download.php?Number=38862 Pasaules mantojuma saraksts Google Earth] {{Webarchive|url=https://web.archive.org/web/20200122170958/https://06133382477616918317.googlegroups.com/attach/5176aaf443a35d8e/16703.kmz?part=3&vt=ANaJVrEJBaRuiFNKkzs7ZJK8wCmcCN53ZeoUNdVogRPMs0VWVYSN3e-MC80OlvsfrEbzpu80nAPUTp3_UL4zg0qdjK9jUNuLeClOpYUnaoLqQTS2B1WyTSo |date={{dat|2020|01|22||bez}} }}
+* [http://www.unesco.lv/custom/konvencija_parpasaules_kulturas_dabas_mantojuma_aizsardzibu.doc Latvijas Republikas likums par Konvenciju par pasaules kultūras un dabas mantojuma aizsardzību] {{Webarchive|url=https://web.archive.org/web/20071008150246/http://www.unesco.lv/custom/konvencija_parpasaules_kulturas_dabas_mantojuma_aizsardzibu.doc |date={{dat|2007|10|08||bez}} }}
+
+{{UNESCO Pasaules mantojuma vietas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:UNESCO Pasaules mantojuma saraksts| ]]

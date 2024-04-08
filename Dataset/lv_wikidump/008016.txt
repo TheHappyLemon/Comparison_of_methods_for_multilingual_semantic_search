@@ -1,0 +1,107 @@
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #0079CF
+| nos     = ''Atalanta''
+| logo    = [[Attēls:Atalanta bc.gif|125px|logo]]
+| pilns   = ''Atalanta Bergamasca Calcio SpA''
+| iesauka = ''La Dea (dieviete), <br/>Nerazzurri (melni-baltie), <br/>Orobici''
+| pilsēta = {{vieta|Itālija|Bergamo}}
+| dib     = 1907
+| dib_mēn = 10
+| dib_dat = 8
+| stad    = ''[[Stadio Atleti Azzurri d'Italia]]''
+| ietilp  = 26 562
+| prez    = {{flaga|Itālija}} Antonio Perkasi
+| tren    = {{flaga|Itālija}} [[Džans Pjēro Gasperīni]]
+| līga    = [[Itālijas futbola čempionāta A sērija|Itālijas A sērija]]
+| sez     = [[2022.—2023. gada Itālijas futbola čempionāta A sērijas sezona|2022.—2023.]]
+| poz     = 5. vieta
+| pattern_la1 = _atalanta2021C
+| pattern_b1 = _atalanta2021C
+| pattern_ra1 = _atalanta2021C
+| pattern_sh1 = _atalanta2021C
+| pattern_so1 = _atalanta2021C
+| leftarm1 = 000000
+| body1 = 141414
+| rightarm1 = 000000
+| shorts1 = 000000
+| socks1 = 000000
+| pattern_la2 = _atalanta2021A
+| pattern_b2 = _atalanta2021A
+| pattern_ra2 = _atalanta2021A
+| pattern_sh2 = _atalanta2021A
+| pattern_so2 = _atalanta2021A
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FFFFFF
+| pattern_la3 = _atalanta2021T
+| pattern_b3 = _atalanta2021T
+| pattern_ra3 = _atalanta2021T
+| pattern_sh3 = _atalanta2021T
+| pattern_so3 = _atalanta2021T
+| leftarm3 = 4c6e98
+| body3 = 4c6e98
+| rightarm3 = 4c6e98
+| shorts3 = 4c6e98
+| socks3 = 4c6e98
+}}
+
+'''Bergamo "Atalanta"''' ir profesionāls [[Itālija]]s [[futbols|futbola]] klubs no [[Bergamo]] pilsētas [[Lombardija]]s reģionā. Klubs ir dibināts [[1907]]. gadā un pašlaik spēlē [[Itālijas futbola čempionāta A sērija|A sērijā]]. Mājas spēles aizvada ''Atleti Azzurri d'Italia'' stadionā.<ref>{{Tīmekļa atsauce|url=http://www.atalanta.it/site/stadio.html|title=Stadio|publisher=Atalanta Bergamasca Calcio|accessdate=2015-09-17|archiveurl=https://web.archive.org/web/20150905204628/http://www.atalanta.it/site/stadio.html|archivedate=2015-09-05}}</ref> Komanda ir vienreiz (1962.–1963. gada sezonā) izcīnījusi [[Itālijas kauss futbolā|Itālijas kausu]].
+
+== Komandas sastāvs ==
+''Sastāvs {{Dat|2022|9|15||bez}}.''<ref>{{Tīmekļa atsauce |title=Rosa – Atalanta |url=https://www.atalanta.it/rosa/ |website=atalanta.it |publisher=Atalanta Bergamasca Calcio |accessdate={{Dat|2020|10|15||bez}}}}</ref>
+{{Fs start}}
+{{Fs player | no= 1 | nat=ARG | pos=GK | name=[[Huans Muso]]}}
+{{Fs player | no= 2 | nat=BRA | pos=DF | name=[[Rafaels Toloi]]|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player | no= 3 | nat=DEN | pos=DF | name=[[Joakims Mēle]]}}
+{{Fs player | no= 5 | nat=ITA | pos=DF | name=[[Kalebs Okoli]]}}
+{{Fs player | no= 6 | nat=ARG | pos=DF | name=[[Hosē Luiss Palomino]]}}
+{{Fs player | no= 7 | nat=NED | pos=MF | name=[[Tēns Kopmeinerss]]}}
+{{Fs player | no= 9 | nat=COL | pos=FW | name=[[Luiss Murjels]]}}
+{{Fs player | no=10 | nat=CIV | pos=MF | name=[[Žeremī Boga]]}}
+{{Fs player | no=11 | nat=NGA | pos=FW | name=[[Ademola Lukmans]]}}
+{{Fs player | no=13 | nat=BRA | pos=MF | name=[[Edersons (futbolists, dzimis 1999. gadā)|Edersons]]}}
+{{Fs player | no=15 | nat=NED | pos=MF | name=[[Martens de Rons]]}}
+{{Fs player | no=17 | nat=DEN | pos=FW | name=[[Rasmuss Hējlunds]}}
+{{Fs player | no=18 | nat=UKR | pos=MF | name=[[Ruslans Maļinovskis]]}}
+{{fs mid}}
+{{Fs player | no=19 | nat=ALB | pos=DF | name=[[Berats Džimsiti]]}}
+{{Fs player | no=21 | nat=ITA | pos=DF | name=[[Nadirs Zoreta]]}}
+{{Fs player | no=22 | nat=ITA | pos=DF | name=[[Mateo Rudžēri]]}}
+{{Fs player | no=28 | nat=TUR | pos=DF | name=[[Merihs Demirals]]}}
+{{Fs player | no=31 | nat=ITA | pos=GK | name=[[Frančesko Rosi]]}}
+{{Fs player | no=33 | nat=NED | pos=DF | name=[[Hanss Hatebūrs]]}}
+{{Fs player | no=42 | nat=ITA | pos=DF | name=[[Džordžo Skalvīni]]}}
+{{Fs player | no=57 | nat=ITA | pos=GK | name=[[Marko Sportjello]]}}
+{{Fs player | no=77 | nat=ITA | pos=DF | name=[[Davide Dzapakosta]]}}
+{{Fs player | no=88 | nat=CRO | pos=MF | name=[[Mario Pašaličs]]}}
+{{Fs player | no=91 | nat=COL | pos=FW | name=[[Duvans Sapata]]}}
+{{Fs player | no=93 | nat=FRA | pos=DF | name=[[Brendons Sopī]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Itālijas kauss futbolā|Itālijas kauss]]'''
+** Kausa ieguvēji (1): 1962–63
+** Finālisti (4): 1986–87, 1995–96, 2018–19, 2020–21
+* '''[[Itālijas futbola čempionāta B sērija|B sērija]]'''
+** Čempioni (6): 1927–28, 1939–40, 1958–59, 1983–84, 2005–06, 2010–11
+** Vicečempioni (4): 1936–37, 1970–71, 1976–77, 1999–00 
+* '''C1 sērija'''
+** Grupas uzvarētāji (1): 1981–82
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [http://www.atalanta.it/ Oficiālā kluba vietne]
+
+{{Futbols-aizmetnis}}
+
+{{Itālijas Serie A}}
+
+{{DEFAULTSORT:Atalanta}}
+[[Kategorija:Itālijas futbola klubi]]
+[[Kategorija:Bergamo "Atalanta"]]

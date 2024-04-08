@@ -1,0 +1,75 @@
+Visas [[Vjetnama]]s pilsētas ar iedzīvotāju skaitu virs 200 000 iedzīvotājiem 2012. gadā.<ref>{{tīmekļa atsauce | url= http://www.world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&srt=npan&col=abcdefghinoq&msz=1500&geo=-231 | title= Vietnam= largest cities | publisher= World Gazetteer | accessdate= 2012-10-06 | language= angliski }}{{Novecojusi saite}}</ref>
+
+{| class="wikitable"
+|- 
+! width= 150 | Pilsēta
+! width= 150 | Vjetnamiešu valodā
+! Iedzīvotāju<br />skaits (2012)
+! Province (''région'')
+|-
+| [[Hošimina]] 
+| ''Thành phố Hồ Chí Minh''
+| align=right | 3 982 344
+| [[Hošiminas province]]
+|-
+| [[Hanoja]]
+| ''Hà Nội''
+| align=right | 1 514 304
+| [[Hanojas province]]
+|-
+| [[Haifona]]
+| ''Hải Phòng''
+| align=right | 651 057
+| [[Haifonas province]]
+|-
+| [[Dananga]]
+| ''Đà Nẵng''
+| align=right | 498 562
+| [[Danangas province]]
+|-
+| [[Bjenhoa]]
+| ''Biên Hòa''
+| align=right | 462 938
+| [[Donnajas province]]
+|-
+| [[Hue]]
+| ''Huế''
+| align=right | 313 922
+| [[Tiathjenas-Hue province]]
+|-
+| [[Ņačana]]
+| ''Nha Trang''
+| align=right | 312 050
+| [[Haņhoa province]]
+|-
+| [[Žaķza]]
+| ''Rạch Giá''
+| align=right | 282 550
+| [[Kjenzanas province]]
+|-
+| [[Kontho]]
+| ''Cần Thơ''
+| align=right | 275 330
+| [[Kontho province]]
+|-
+| [[Vuntau]]
+| ''Vũng Tàu''
+| align=right | 247 876
+| [[Bažias-Vuntau province]]
+|-
+| [[Kujņona]]
+| ''Qui Nhơn''
+| align=right | 229 784
+| [[Biņdiņas province]]
+|-
+| [[Namdiņa]]
+| ''Nam Định''
+| align=right | 202 449
+| [[Namdiņas province]]
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Vjetnamas pilsētas| ]]
+[[Kategorija:Pilsētu uzskaitījumi]]

@@ -1,0 +1,85 @@
+{{Latvijas novada infokaste
+| nosaukums         = Stelpes pagasts
+| karte             = Stelpes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Stelpes pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Stelpes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Stelpes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Bauskas novads
+| centrs            = Vecstelpe
+| platība           = 68,4
+| iedzīvotāji       = 851<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 851 / 68.4 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Stelpes pagasts''' ir viena no [[Bauskas novads|Bauskas novada]] administratīvajām teritorijām tā centrā. Robežojas ar sava novada [[Valles pagasts|Valles]], [[Vecumnieku pagasts|Vecumnieku]], [[Bārbeles pagasts|Bārbeles]], [[Vecsaules pagasts|Vecsaules]], [[Dāviņu pagasts|Dāviņu]] un [[Iecavas pagasts|Iecavas]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ==== 
+[[Milupīte (Misas pieteka)|Milupīte]], [[Misa (upe)|Misa]], [[Vārnupe (Misas pieteka)|Vārnupe]].
+
+== Vēsture ==
+Mūsdienu Stelpes pagasta teritorijā vēsturiski atradās Nīzeres muiža (''Gut Neu-Sorgen'', [[Nīzere]]), Stelpes muiža (''Gut Stelpenhof'', [[Vecstelpe]]).
+
+1935. gadā pagasta platība bija 70,4 km<sup>2</sup>. 1945. gadā pagastā izveidoja Stelpes un [[Nīzeres ciems|Nīzeres]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Stelpes ciemam pievienoja Nīzeres ciemu. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Vecumnieku novads|Vecumnieku novadā]]. 2021. gadā Vecumnieku novadu iekļāva [[Bauskas novads|Bauskas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1183
+|1959|1113
+|1969|1127
+|1979|1200
+|1989|1123
+|2000|1054
+|2011|833
+|2021|737
+}}
+
+=== Apdzīvotās vietas ===
+[[Nīzere]], '''[[Stelpe]]''' (pagasta centrs), [[Beitiņi]], [[Vecstelpe]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+Stelpes pamatskola, kas atrodas Stelpē, tika izveidota 1936. gadā, balstoties uz Jāņa Raiņa ieteikumiem un A. Reistera projektu. Skola ir vēsturisks izglītības centrs reģionā.
+
+J. Rainis apmeklēja Stelpi 1927. gadā un ierosināja valdei skolu sistēmas attīstības projektu. 1937. gadā skolu apmeklēja arī Latvijas prezidents [[Kārlis Ulmanis|K. Ulmanis]] un izglītības ministrs J. Aukškāps, apliecinot tās nozīmīgumu Latvijas izglītības sistēmā.<ref>{{Tīmekļa atsauce|url=https://vecumnieki.lv/novads/novada-pagasti/stelpes-pagasts|title=Stelpes pagasts - Vecumnieku novads|website=vecumnieki.lv|access-date=2019-01-06|archive-date=2018-09-14|archive-url=https://web.archive.org/web/20180914083524/http://vecumnieki.lv/novads/novada-pagasti/stelpes-pagasts}}</ref>
+
+Skolas atklāšanas laikā, tajā mācības uzsāka 108 bērni, un skolā strādāja četri skolotāji. Skolas direktora pienākumus veica Andrejs Spudiņš, kurš 1941. gadā tika izsūtīts uz Sibīriju. 1950. gados skola piedzīvoja skolēnu skaita pieaugumu, un tur tagad mācījās 150 skolēni, direktores amatā strādāja Anna Vaivade. 1960. gados skolēnu skaits sasniedza 188. Līdz 1975. gadam direktora amatā bija Voldemārs Dombrovskis, pēc kura līdz 1994. gadam direktora amatā strādāja Mārtiņš Rūgums.<ref name=":0">{{Tīmekļa atsauce|url=https://stelpesskola.lv/skolas-jubileja|title=Skolas jubileja {{!}} Stelpes pamatskola|access-date=2019-01-06|language=en-US|archive-date=2021-05-14|archive-url=https://web.archive.org/web/20210514162314/https://stelpesskola.lv/skolas-jubileja}}</ref> Skolas direktore kopš 1994. gada bija Dagmāra Venclova, kura veicināja skolas attīstību un modernizāciju.<ref name=":0" />.
+
+2017./2018. mācību gadā Stelpes pamatskolā mācījās 72 audzēkņi, no kuriem 52 bija no pirmās līdz devītajai klasei.
+
+2018. gadā Stelpes pamatskola atzīmēja savu 80. gadadienu, rīkojot īpašu pasākumu, kurā piedalījās vairāk nekā 150 skolas absolventi, bijušie darbinieki un viesi. Svinībās tika aizsākta ceriņu dārza stādīšanas tradīcija skolas teritorijā.<ref>{{cite web |url=https://stelpesskola.lv/skolas-jubileja |title=Stelpes pamatskolas 80. gadadienas svinības |date=2018-05-16 |accessdate=2024-01-21 |website=Stelpes pamatskola |archive-date=2021-05-14 |archive-url=https://web.archive.org/web/20210514162314/https://stelpesskola.lv/skolas-jubileja }}</ref>
+
+== Stelpes pamatskolas pārveidošana un slēgšana 2023. gadā ==
+2023. gadā Latvijas izglītības optimizācijas reformas laikā Stelpes pamatskola Bauskas novadā tika slēgta, un tās ēka pārveidota par pirmsskolas izglītības iestādi pirmsskolas bērniem, ko vadīs Vecumnieku vidusskola.<ref>{{cite web |url=https://www.bauskasdzive.lv/vietejas-zinas/2023-gada-latvija-slegtas-vai-reorganizetas-52-izglitibas-iestades-tostarp-bauskas-novada-viena/ |title=2023. gadā Latvijā slēgtas vai reorganizētas 52 izglītības iestādes; tostarp Bauskas novadā – viena |date=01.01.2024 |accessdate=2024-01-21 |website=BauskasDzive.lv}}</ref> Tas izraisīja diskusijas par skolas lomu kopienā.<ref>{{cite web |url=https://www.bauskasdzive.lv/vietejas-zinas/slegs-stelpes-sakumskolu-eku-pasvaldiba-negrasas-iztirgot/ |title=Slēgs Stelpes sākumskolu; ēku pašvaldība negrasās iztirgot |date=18.04.2023 |accessdate=2024-01-21 |website=BauskasDzive.lv}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Bauskas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Vecumnieku novads}}
+{{Bauskas rajons}}
+{{Bauskas apriņķis}}
+}}
+[[Kategorija:Zemgale]]
+[[Kategorija:Bauskas novada pagasti]]
+[[Kategorija:Stelpes pagasts| ]]

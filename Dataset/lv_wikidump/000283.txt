@@ -1,0 +1,118 @@
+{{cita nozīme|valsti|upi|Moldova (upe)}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Republica Moldova''
+|    pilnais_valsts_nosaukums = Moldovas Republika
+|            valsts_nosaukums = Moldova
+|               karoga_attēls = Flag of Moldova.svg
+|            karoga_nosaukums = Moldovas Republikas karogs
+|              ģerboņa_attēls = Coat of arms of Moldova.svg
+|           ģerboņa_nosaukums = Moldovas Republikas ģerbonis
+|             ģerboņa_platums = 75px
+|                 valsts_moto = Limba noastră-i o comoară<small><br />Mūsu valoda ir mūsu bagātība</small>
+|                valsts_himna = ''[[Limba Noastra]]''
+|               kartes_attēls = Location_Moldova_Europe.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Kišiņeva]]
+|latd=47 |latm=0 |latNS=N |longd=28 |longm=55 |longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[rumāņu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Parlamentāra republika]]
+|        valsts_galvas_tituls = [[Moldovas prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Maija Sandu]]
+|       valsts_galvas_tituls2 = [[Moldovas premjerministrs|Premjerministrs]]
+|               valsts_galva2 =  [[Dorins Rečans]] 
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = sabrūkot [[Padomju Savienība]]i
+|        neatkarības_notikums = Datums
+|          neatkarības_datums = {{dat|1991|8|27}}
+|       neatkarības_notikums2 = Atzīta
+|         neatkarības_datums2 = {{Dat|1991|12|25}}
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 33,843
+|               platība_rangs = 139.
+|              procenti_ūdens = 1,4
+|     iedzīvotāju_skaita_gads = 2014
+|          iedzīvotāju_skaits = 2 913 281 {{small|(bez [[Piedņestra]]s)}}
+|    iedzīvotāju_skaits_rangs = 133.
+|    apdzīvotības_blīvums_km2 = 105
+|  apdzīvotības_blīvums_rangs = 101.
+|                     IKP_PPP = $9,367 miljardi
+|                IKP_PPP_gads = 2007
+|               IKP_PPP_rangs = 141.
+|          IKP_PPP_per_capita = $2962
+|    IKP_PPP_per_capita_rangs = 135.
+|                         HDI = {{palielinājās}}0.767
+|                    HDI_gads = 2021
+|              HDI_kategorija = <font color="#FFCC00">vidējs</font>
+|                   HDI_rangs = 80.
+|                        Gini = 33.2
+|                   Gini_gads = 2003
+|             Gini_kategorija = <font color="#FFCC00">vidējs</font>
+|                  Gini_rangs = 
+|                      valūta = [[Moldovas leja]]
+|                valūtas_kods = MDL
+|                  laika_zona = [[Austrumeiropas laiks|EET]]
+|                  utc_offset = +2
+|              laika_zona_DST = [[Austrumeiropas vasaras laiks|EEST]]
+|              utc_offset_DST = +3
+|                      domēns = [[.md]]
+|              tālsarunu_kods = 373
+|                    piezīme1 = 
+|                iso_kods_num = 498
+|              iso_kods_alfa2 = MD
+|              iso_kods_alfa3 = MDA
+}}
+'''Moldova''' ({{val|ro|Moldova}}), oficiāli '''Moldovas Republika''' ({{val|ro|Republica Moldova}}), ir valsts Austrumeiropā. Tā atrodas starp [[Rumānija|Rumāniju]] un [[Ukraina|Ukrainu]].
+
+Moldova ir parlamentāra [[republika]]. Moldovas valsts valoda ir [[rumāņu valoda]]. Valsts ir [[Apvienoto Nāciju Organizācija|ANO]] un [[NVS]] locekle. Valsts ārpolitikā izvirzīti mērķi par pievienošanos [[Eiropas Savienība|ES]]. Moldova piedalās [[Austrumu partnerība]]s programmā ar [[Eiropas Savienība]]s valstīm. [[2013]]. gada Austrumu partnerības [[Viļņa]]s samita laikā Moldova parafēja ar [[Eiropas Savienība|Eiropas Savienību]] asociācijas un tirdzniecības līgumu.
+Kopš 2016. gada [[Dziļās un aptverošās brīvās tirdzniecības zona]]s dalībvalsts.
+[[Krievijas 2022. gada iebrukums Ukrainā|Krievijas iebrukuma Ukrainā]] laikā 2022. gada 3. martā Moldova iesniedza pieteikumu uzņemšanai Eiropas Savienībā.<ref>[https://www.leta.lv/home/important/08D0574C-174B-4157-B8F9-95F7E28AB534/ Arī Gruzija un Moldova oficiāli lūdz uzņemt tās ES] {{Webarchive|url=https://web.archive.org/web/20220303184802/https://www.leta.lv/home/important/08D0574C-174B-4157-B8F9-95F7E28AB534/ |date={{dat|2022|03|03||bez}} }} leta.lv 2022. gada 3. martā</ref>
+
+== Vēsture ==
+{{pamatraksts|Moldovas vēsture}}
+Valsts nosaukums cēlies no vēsturiskās [[Moldāvija]]s kņazistes, kuras teritorijas austrumu daļu aizņem mūsdienu Moldova. Kā [[Besarābija|Besarābiju]] to [[1812]]. gadā iekļāva [[Krievijas Impērija]]s sastāvā. Impērijai sabrūkot, [[1918]]. gadā [[Besarābijas guberņa|Besarābijas guberņā]] tika pasludināta [[Moldāvijas Demokrātiskā Republika]], kas pievienojas [[Rumānijas Karaliste]]i. [[1940]]. gada vasarā provinci okupēja [[Sarkanā armija]] un tās teritorijā tika izveidota [[Moldāvijas PSR|Moldāvijas Padomju Sociālistiskā Republika]], kas bija [[Padomju Savienība|PSRS]] sastāvā līdz [[1991]]. gadam. [[Piedņestras karš|Piedņestras kara]] laikā, 1990. — 1992. gados, no valsts atšķēlās [[Piedņestras Moldāvu Republika]].
+
+== Ģeogrāfija ==
+[[Attēls:Lakes ialoveni.jpg|thumb|Ezeri Kišiņevas tuvumā]]
+[[Attēls:Moldadm.png|left|thumb|Moldovas adminstratīvais iedalījums]]
+Moldova atrodas [[Austrumeiropas līdzenums|Austrumeiropas līdzenuma]] dienvidrietumos, augstākais punkts ir [[Belenešti|Beleneštu]] kalns [[Kodri|Kodru]] masīvā. Kaut arī Moldovai nav pieejas jūrai, to tomēr var uzskatīt par [[Melnā jūra|Melnās jūras]] piekrastes valsti. Cauri Moldovai ļoti īsā posmā tek [[Donava]]s upe (950 m).
+
+Ziemeļos, austrumos un dienvidos Moldova robežojas ar [[Ukraina|Ukrainu]], rietumos ar [[Rumānija|Rumāniju]]. Valsts platība ir 33 843 km<sup>2</sup>. Moldovas teritorija ir izstiepta ziemeļu-dienvidu virzienā 350 km garumā, bet platums rietumu-austrumu virzienā ir 150 km.
+
+Moldovas galvaspilsēta un lielākā pilsēta ir [[Kišiņeva]], kas atrodas valsts vidusdaļā. Otra lielākā pilsēta ir [[Tiraspole]], kas atrodas [[Dņestra]]s krastā. Valsts ir sadalīta 32 rajonos, 5 municipalitātēs un 1 autonomā [[Gagauzija]]s republikā. Moldovā ir 60 pilsētu un 917 ciematu.
+
+Moldovas [[klimats]] ir mēreni kontinentāls. Ziema ir maiga, īsa, bet vasara karsta un gara. Gada vidējā gaisa temperatra ir no +7,5 °C ziemeļos līdz +10 °C dienvidos. Janvārī temperatūra ir ap -4 °C, jūlijā +21 °C. Absolūtais minimums ir -36 °C, bet maksimums +41 °C. Gada nokrišņu daudzums nav liels — 380—550 mm.
+
+== Ekonomika ==
+Moldovas ekonomika lielā mērā ir atkarīga no ārzemēs dzīvojošo iedzīvotāju investīcijām un atbalsta, 2014. gadā šie emigrantu naudas pārvedumi veidoja 26,2% no [[IKP]], šis rādītājs bija piektais augstākais no visām valstīm.<ref>{{tīmekļa atsauce|title=Migration and Remittances Factbook 2016|url=http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|publisher=[[Pasaules Banka]]|accessdate={{dat|2016|12|12||bez}}|date=2016|archiveurl=https://web.archive.org/web/20161130164818/http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|archivedate={{dat|2016|11|30||bez}}}}</ref>
+
+== Iedzīvotāji ==
+Pēc tautas skaitīšanas datiem 2014. gadā Moldovā (bez [[Piedņestra]]s) bija 2 913 281 iedzīvotāju.
+
+76,5% no iedzīvotājiem kā pirmo ģimenē lietoto valodu minēja [[rumāņu valoda|moldāvu/rumāņu valodu]] (60% moldāvu un 16,5% rumāņu), 11,3% [[Krievu valoda|krievu]], 5,5% — [[Ukraiņu valoda|ukraiņu]], bet 4,1% — [[gagauzu valoda|gagauzu valodu]].
+
+Visizplatītākā konfesija ir [[pareizticība]], kuras piekritēji saskaņā ar 2004. gada tautas skaitīšanas datiem veido 93,3% no valsts iedzīvotājiem.
+
+== Izglītība ==
+Moldovā ir 18 valsts un 11 privātās [[Augstākā izglītība|augstākās izglītības]] iestādes. [[Moldovas Valsts universitāte]] ir viena no galvenajām augstākās izglītības iestādēm valstī.
+
+== Skatīt arī ==
+* [[Moldovas pilsētu uzskaitījums]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20080618024818/http://www.heraldicum.ru/moldova/index.htm Moldovas vēsturiskie ģerboņi] {{krieviski}}
+
+{{Eiropa-aizmetnis}}
+{{Eiropa}}
+{{NVS}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Moldova| ]]

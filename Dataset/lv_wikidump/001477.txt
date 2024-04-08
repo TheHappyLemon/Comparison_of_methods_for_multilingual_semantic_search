@@ -1,0 +1,29 @@
+[[Attēls:Ketone Structural Formula V.2.svg|thumb|130px|Ketonu vispārīga struktūrformula]]
+'''Ketoni''' ir [[skābeklis|skābekli]] saturoši [[organiskās vielas|organiskie savienojumi]], kas satur [[karbonilgrupa|karbonilgrupu]], kas saistīta ar diviem ogļūdeņraža atlikumiem. Karbonilgrupu, kurai abās pusēs ir organiskie radikāļi, dažreiz sauc par '''ketogrupu'''. Ketonus kopā ar [[aldehīdi]]em pieskaita pie karbonilsavienojumiem. Ketoni ir relatīvi stabili savienojumi. Visplašāk pazīstamais ketons - [[acetons]] (dimetilketons) - ir arī visvienkāršākais ketons. Savienojumus, kuros ir vairākas ketogrupas, sauc par '''poliketoniem''', no tiem nozīmīgākie ir '''beta-diketoni''' (starp ketogrupām atrodas viens oglekļa atoms).
+
+Zemākie ketoni ir mazviskozi šķidrumi ar savdabīgu smaržu, šķīstoši ūdenī. Ketoni ar garāku oglekļa atomu ķēdi vairs nejaucas ar ūdeni, tiem ir ziedu smarža, dažiem aromāts ir nepatīkams. Augstākie ketoni ir cietas vielas.
+
+== Iegūšana ==
+Ketonus iespējams iegūt, oksidējot otrējos [[spirti|spirtus]]:
+
+[[Attēls:Propan-2-ol to propanone.png|250px]]
+
+Ketoni veidojas, pārdestilējot [[karbonskābes|karbonskābju]] [[kalcijs|kalcija]] vai [[bārijs|bārija]] sāļus:
+
+: (C<sub>n</sub>H<sub>2n+1</sub>COO)<sub>2</sub>Ca → (C<sub>n</sub>H<sub>2n+1</sub>)<sub>2</sub>CO + CaCO<sub>3</sub>
+
+== Īpašības ==
+Ketoni ir daudz noturīgāki pret oksidēšanos nekā aldehīdi. Ketoni nedod aldehīdiem raksturīgās [[sudraba spoguļa reakcija]]s un [[Fēlinga šķīdums|Fēlinga šķīduma]] atkrāsošanās reakcijas. Ja ketonus tomēr izdodas oksidēt ar stipriem oksidētājiem (hroma maisījumu, [[kālija permanganāts|kālija permanganātu]]), tad notiek saites saraušana starp karbonilgrupu un ogļūdeņraža atlikumu.
+
+Ketoni reaģē ar amonjaku vai pirmējiem amīniem, reakcijā rodas imīni.
+
+RNH2 + R'2C=O → R'2C=NR + H2O
+
+{{ķīmija-aizmetnis}}
+
+{{Ketoni}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Organiskā ķīmija]]
+[[Kategorija:Ketoni| ]]

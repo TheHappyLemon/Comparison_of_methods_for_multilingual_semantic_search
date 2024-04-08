@@ -1,0 +1,62 @@
+{{Apdzīvotas vietas infokaste
+| name = Tihi
+| image_skyline =PanoramazBramy.JPG
+| imagesize = 300px
+| image_caption = Tipiska Tihu apbūve
+| image_flag = 
+| image_shield = POL Tychy COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = top
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1951
+| area_total_km2 = 81.64
+| population_as_of = 2009
+| population_total    = 129527
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 07 
+| lats = 10 
+| latNS = N 
+| longd = 18 
+| longm = 59 
+| longs = 03
+| longEW = E
+| elevation_m = 243
+| website = http://www.umtychy.pl/ }}
+
+'''Tihi''' ({{val-de|Tychy}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] [[Augšsilēzijas aglomerācija]]s dienvidos. Dominē 20. gadsimta otrās puses apbūve. Autorūpniecība - ''[[FIAT]]'' autorūpnīca (2011. gadā komplektēja automašīnas ''[[Ford Ka]]'', ''[[Fiat 500]]'', ''[[Fiat Siena]]'' un ''[[Lancia Ypsilon]]''), kā arī ''[[Opel]]'' dizeļdzinēju rūpnīca. [[Alus]] ražošana - ''[[Tyskie]]''. Viena no trijām Polijas pilsētām, kurās ir [[trolejbuss]] (pārējās divas ir [[Ļubļina]] un [[Gdiņa]]).
+
+Tihi ir vācu futbolista [[Lukass Sinkevičs|Lukasa Sinkeviča]] (''Lukas Sinkiewicz'', 1985 - ) dzimtā pilsēta.
+
+==Apskates objekti==
+
+*[[Tihu alus darītava]] (''Browar Książęcy w Tychach'')
+
+==Galerija==
+<gallery>
+Browar_w_Tychach.jpg|Tihu alus darītava
+</gallery>
+
+== Ārējās saites ==
+* [http://www.umtychy.pl/ Pilsētas pārvalde] {{pl ikona}}
+* [http://www.tyskie.pl/ Alus ražošana - Browary Tyskie] {{pl ikona}}
+* [https://web.archive.org/web/20060714062518/http://www.mzk.pl/ Vilcienu saraksts - MZK Tychy] {{pl ikona}}
+
+{{commonscat|Tychy|Tihi}}
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Silēzijas vojevodistes apriņķi]]
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

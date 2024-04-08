@@ -1,0 +1,87 @@
+{{Latvijas novada infokaste
+| nosaukums         = Zaļenieku pagasts
+| karte             = Zaļenieku pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = Zaļenieki
+| platība           = 122,83
+| iedzīvotāji       = 1690<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1690 / 122.83 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         =
+}}
+
+'''Zaļenieku pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] administratīvajām teritorijām tā rietumos. Robežojas ar sava novada [[Glūdas pagasts|Glūdas]], [[Svētes pagasts|Svētes]], [[Lielplatones pagasts|Lielplatones]] un [[Vilces pagasts|Vilces]] pagastiem, [[Dobeles novads|Dobeles novada]] [[Krimūnu pagasts|Krimūnu]], [[Tērvetes pagasts|Tērvetes]] un [[Augstkalnes pagasts|Augstkalnes]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Auce (upe)|Auce]], [[Dorupīte]], [[Eglone]], [[Svēte (upe)|Svēte]], [[Tērvete (upe)|Tērvete]].
+
+== Vēsture ==
+Mūsdienu Zaļenieku pagasta teritorijā atradās [[Abgunstes muiža]] (''Abgunst'', [[Abgunste]]), Abgunstes-Grīnfeldes muiža (''Abgunst-Grünfeldt''), ''Doktern'' muiža, Ūziņu muiža (''Usingen'', [[Ūziņi]]), [[Zaļā muiža]] (''Grünhof'').
+[[1866. gada pagastu pašvaldību reforma]]s laikā 1867. gadā [[Zaļā muiža|Zaļenieku (''Grünhof'') muižas]] pagasta teritorijā izveidoja Zaļo pagastu, kam vēlāk pievienoja [[Abgunste]]s un [[Ūziņi|Ūziņu]] muižu pagastus.
+Pēc [[1920. gada zemes reforma]]s Zaļo muižu ar pusmuižām atsavināja un sadalīja 70 jaunsaimniecībās, bet muižas pilī iekārtoja vidusskolu un vēlāk – mājturības skolu. 
+ 
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Zaļenieku pagasta platība bija 114,9 km² un tajā dzīvoja 2565 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Abgunstes ciems|Abgunstes]], [[Deģu ciems|Deģu]] un Zaļenieku [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Zaļenieku ciems''' ietilpis [[Elejas rajons|Elejas]] (1949-1956), [[Jelgavas rajons|Jelgavas]] (1956-1962, pēc 1967. gada) un [[Dobeles rajons|Dobeles]] (1962-1967) rajonos. 1956. gadā Zaļenieku ciema Raiņa [[kolhozs|kolhoza]] teritoriju pievienoja Abgunstes ciemam, 1962. gadā Zaļenieku ciemam pievienoja likvidēto Abgunstes ciemu, 1965. gadā — daļu likvidētā Deģu ciema. 1967. gadā Ļeņina kolhoza teritoriju pievienoja [[Bites ciems|Bites ciemam]]. 1974. gadā pievienoja daļu [[Glūdas ciems|Glūdas ciema]] kolhoza «Zaļenieki» teritorijas, bet daļu kolhoza «Pavasaris» teritorijas pievienoja [[Ausmas ciems|Ausmas ciemam]], bet kolhoza «Straume» u.c. teritorijas — [[Svētes ciems|Svētes ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Zaļenieku pagastu kā administratīvo teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2750
+|1959|3000
+|1969|3238
+|1979|2574
+|1989|1989
+|2000|1905
+|2011|1526
+|2021|1356
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Zaļenieki]]''' (pagasta centrs), [[Spurģi]], [[Ūziņi]], [[Abgunste]].
+
+=== Ievērojamas personības ===
+* [[Kārlis Pētersons (uzņēmējs)|Kārlis Pētersons]] (1852—1919), uzņēmējs un izgudrotājs, [[Dublina]]s pīpju fabrikas ''Kapp&Peterson Ltd.'' līdzīpašnieks un direktors
+* [[Aspazija]] (1865—1943), dzejniece
+* [[Klāra Hibšmane]] (1878—1946), pirmā latviešu ārste un sabiedriskā darbiniece.
+* [[Dāvids Beika]] (1885—1946), latviešu marksists un profesionāls revolucionārs, viens no Amerikas latviešu sociāldemokrātijas koporganizācijas vadītājiem (1907—1917), LSPR Rūpniecības komisārs (1919).
+* [[Pēteris Stērste]] (1893-1976), latviešu strēlnieks, vēlāk jurists, Latvijas Senāta senators, vēlāk Tiesu palātas loceklis (līdz 1944). Viens no 1944. gada 17. marta Latvijas Centrālās padomes memoranda parakstītājiem.
+* [[Pauls Šuberts]] (1884–1945), latviešu pianists un komponists.
+* [[Arnolds Hofmanis]] (1900—2006), Latvijas Brīvības cīņu pēdējais dalībnieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Zalzenieku pagasts}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Zaļenieku pagasts| ]]

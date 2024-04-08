@@ -1,0 +1,47 @@
+{{Ezera infokaste
+|ezers=Dreidzs
+|attēls=Dridzis.jpg
+|paraksts=Dreidzs pie Sauleskalna
+| map = Latvija
+| plat_d=55 | plat_m=58 | plat_s= | plat_NS=N 
+| gar_d=27 | gar_m=16 | gar_s= | gar_EW=E
+|platība=7,532
+|garums=9,8
+|Vid_dziļums=12,8
+|Max_dziļums=66,2
+|tilpums=
+|augstums_vjl= 159,2
+|izteka=[[Kovšika]]
+|baseins=34<ref name="LME">{{LME|1|411}}</ref>
+|lielbaseins=[[Daugava]]s
+|valstis=[[Latvija]]
+|salas=9
+|pilsētas=
+}}
+
+'''Dreidzs''' (arī '''Drīdzis''', '''Drīdzs''', '''Drīdža ezers''', '''Dridzis'''; {{val|ltg|Dreidzs}}) ir [[ezers]] [[Krāslavas novads|Krāslavas novadā]], [[Skaistas pagasts|Skaistas]] un [[Kombuļu pagasts|Kombuļu]] pagastos. Dziļākais ezers Latvijā un Baltijā.<ref>[https://vietvardi.lgia.gov.lv/vv/to_www_obj.objekts?p_id=6277 Vietvārdu datubāze]</ref> Saskaņā ar vēsturiskiem avotiem ezera dziļums pārsvarā publicēts kā 65,1 m, taču 1998. gadā ezera dziļums tika atkārtoti precīzi uzmērīts, konstatējot 63,1 m dziļumu dziļākajā vietā.<ref name="Eniņš">{{Laikraksta atsauce|last=Eniņš|first=Guntis|date={{dat|2011|3|4|N|bez}}|title=Kurš ir visskaistākais ezers?|work=Mājas Viesis|publisher=[[Latvijas Avīze]]|url=http://news.lv/Majas_Viesis/2011/03/04/kurs-ir-visskaistakais-ezers}}</ref> Dreidzu 2020. gadā mērīja [[Daugavpils Universitāte]]s Ekoloģijas institūta zinātnieki un pēc viņu datiem pati dziļākā vieta bija 66,2 m.<ref>[https://gorod.lv/novosti/55565-biologi_idut_na_dno Биологи идут на дно] gorod.lv{{ref-ru}}</ref>
+
+Dreidzs atrodas [[subglaciālā iegultne|subglaciālajā iegultnē]]. Ezers izstiepts rietumu-austrumu virzienā, austrumgalā ļoti šaurs, rietumpusē sadalās divos atzaros. Gultne smilšaina, oļaina, līčos — dūņas. Dziļuma dēļ ūdens šķiet tumšs.<ref>{{Grāmatas atsauce|title=Latvijas 100 skaistākās vietas|last=Magda Riekstiņa, Aija Balcere|publisher=Zvaigzne ABC|isbn=978-9934-0-7700-5|location=Rīga|pages=54-55}}</ref> Krasti stipri izroboti, vietām stāvi. Apkārtnē izveidots [[Dridža ezera dabas parks]], ezers atrodas dabas aizsargājamā teritorijā kopš 1977. gada. Notece pa [[Kovšika|Kovšiku]] caur [[Kauseņš|Kauseņa ezeru]] uz [[Sivers|Siveru]]. Ar kanālu sistēmu savienots ar [[Ots|Ota]] un [[Ārdavs|Ārdava]] ezeriem. 1929. gadā regulēta izteka, un ezera līmenis pazeminājās (līdz tam ezera platība bijusi 800 ha, samazinājusies līdz 753,2 ha).<ref name=":0">[http://www.ezeri.lv/db/ShowRecords?id=1862 ''Ezeri.lv'' datubāze]</ref> 20. lielākais no [[Latvijas ezeru uzskaitījums|Latvijas ezeriem]]. Konstatētas 21 sugas zivis,<ref name=":0" /> tai skaitā ezersalakas. Agrāk ezerā ielaistas sēkļu sīgas.<ref name="LME" />
+
+Ezera ziemeļrietumu krastā atrodas [[Sauleskalns (paugurs)|Sauleskalns]]. Krastos vairākas atpūtas bāzes.
+
+== Salas ==
+9 salas ar kopējo platību 18,7 ha:
+* Apšu sala
+* Bernātu sala (13,9 ha)
+* Liepu sala
+* Ozolu sala
+* Pizānu salas
+* Upes sala
+* Zemā sala
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+[[Kategorija:Krāslavas novada ezeri]]
+[[Kategorija:Skaistas pagasts]]
+[[Kategorija:Kombuļu pagasts]]

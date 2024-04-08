@@ -1,0 +1,47 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Calcium-carbonate-xtal-3D-SF.png|200px]]<br />Kalcija karbonāta kristālrežģis<br />[[Attēls:Calcium carbonate.jpg|160px]]<br />Pulverveida kalcija karbonāts
+|       citi nosaukumi = 
+|           CAS numurs = 471-34-1
+|      ķīmiskā formula = CaCO<sub>3</sub>
+|              molmasa = 100,087
+|              blīvums = 2830
+|  kušanas temperatūra = 1090 K (825&nbsp;°C)
+| viršanas temperatūra = sadalās 
+| šķīdība ūdenī        = 14 mg/100 ml <br />(praktiski nešķīst)
+|                 citi =
+}}
+'''Kalcija karbonāts''' (CaCO<sub>3</sub>) ir balta, kristāliska viela. Tas ir plaši sastopams dabā, [[kaļķakmens]] un [[dolomīts|dolomīta]] veidā. Kalcija karbonātu lieto par [[kalcijs|kalcija]] savienojumu un [[oglekļa dioksīds|oglekļa dioksīda]] izejvielu. Kalcija karbonāts ir nešķīstoša viela, tomēr tas ir sastopams cietā ūdenī (galvenokārt [[hidrogēnkarbonāti|hidrogēnkarbonāta]] veidā). Kalcija karbonāts reaģē ar stiprām skābēm, izdalot CO<sub>2</sub>.
+
+Karsējot kalcija karbonāts sadalās par [[kalcija oksīds|kalcija oksīdu]] un ogļskābo gāzi. Šī reakcija parasti notiek cietā fāzē (bez kušanas).
+: CaCO<sub>3</sub> → CaO + CO<sub>2</sub>
+
+== Kalcija karbonātu saturoši minerāli ==
+* [[Kaļķakmens]]
+* [[Marmors]]
+* [[Krīts]]
+* [[Travertīns]]
+* [[Vaterīts]]
+
+<gallery perrow="4">
+Image:Calcite-HUGE.jpg|[[Kalcīts]]
+Image:Aragonite.jpg|[[Aragonīts]]
+Image:MarbleUSGOV.jpg|[[Marmors]]
+Image:Kalktuff-Block Schloss-Tuebingen 2.jpg|[[Travertīns]]
+</gallery>
+
+== Izmantošana ==
+Kalcija karbonātu saturošos minerālus saturošos iežus lieto par būvmateriāliem. Latvijā visplašāk lieto karbonātiežu (kas satur kalcija karbonātu) šķembas (tās lieto ceļu būvei un kā [[betons|betona]] pildvielu). Dažreiz lieto arī zāģētas akmens plāksnes. Šie materiāli nav izturīgi pret [[skābais lietus|skābā lietus]] iedarbību.
+
+[[Pārtikas rūpniecība|Pārtikas rūpniecībā]] kalcija karbonātu lieto arī kā balto [[pārtikas krāsvielas|krāsvielu]] ('''E170''').
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kalcijs]]
+[[Kategorija:Karbonāti]]
+[[Kategorija:Pārtikas krāsvielas]]

@@ -1,0 +1,35 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Isopropanol-skeletal.png|110 px]] [[Attēls:Isopropanol-3D-vdW.png|110 px]] <br />Izopropanola struktūrformula un molekulas modelis
+|ķīmiskā formula=(CH<sub>3</sub>)<sub>2</sub>CHOH
+|molmasa=60,10 
+|blīvums=780 
+|kušanas temperatūra=185 K (-88&nbsp;°C)
+|viršanas temperatūra=355 K (82&nbsp;°C)
+}}
+'''Izopropanols''' (2-propanols, izopropilspirts, (CH<sub>3</sub>)<sub>2</sub>CHOH) ir vienkāršākais otrējais [[spirts]]. Tas labi šķīst ūdenī (veido [[azeotropais maisījums|azeotropo maisījumu]]), un to lieto kā šķīdinātāju. 
+
+== Iegūšana ==
+Izopropanolu lielākoties iegūst, hidratējot [[propēns|propēnu]]. Izopropanolu ir iespējams oksidēt par [[acetons|acetonu]]. Izopropanols ir viens no diviem propanola [[izomēri]]em, otrs izomērs ir [[propanols|1-propanols]].
+
+== Reakcijas ==
+* Izopropanolu var oksidēt (vai dehidrogenēt) par acetonu, par oksidētājiem var lietot [[hromskābe|hromskābi]], par dehidrogenēšanas [[katalizators|katalizatoru]] var lietot [[varš|vara]] katalizatoru:
+: (CH<sub>3</sub>)<sub>2</sub>CHOH + 0,5O<sub>2</sub> → (CH<sub>3</sub>)<sub>2</sub>C=O + H<sub>2</sub>O
+
+* Bromēšana par 2-brompropānu ar fosfora bromīdu (PBr<sub>3</sub>):
+
+: (CH<sub>3</sub>)<sub>2</sub>CHOH + PBr<sub>3</sub> → (CH<sub>3</sub>)<sub>2</sub>CHBr + POBr + HBr
+
+* Dehidratācija par [[propēns|propilēnu]] (karsējot kopā ar [[sērskābe|sērskābi]]):
+
+: (CH<sub>3</sub>)<sub>2</sub>CHOH → CH<sub>3</sub>CH=CH<sub>2</sub> + H<sub>2</sub>O
+
+* Reakcijas ar aktīviem metāliem, veidojot izopropoksīdus:
+
+: 2(CH<sub>3</sub>)<sub>2</sub>CHOH + 2K → 2(CH<sub>3</sub>)<sub>2</sub>CHOK + H<sub>2</sub>
+
+Reakcijas ar aktīviem metāliem notiek viegli. Lielāka praktiska nozīme ir mazāk aktīvu metālu ([[alumīnijs|Al]], [[titāns|Ti]]) propoksīdiem, tur reakcijas norisei ir nepieciešami katalizatori.
+
+{{Spirti}}
+
+[[Kategorija:Spirti]]
+[[Kategorija:Šķīdinātāji]]

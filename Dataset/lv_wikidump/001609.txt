@@ -1,0 +1,48 @@
+{{Vielas infokaste
+ |               attēls = [[Attēls:Ammonia-2D-dimensions.png|150px]] [[Attēls:Ammonia-3D-vdW.png|150px]]<br />Amonjaka struktūrformula un molekulas modelis
+ |       citi nosaukumi = 
+ |      ķīmiskā formula = NH<sub>3</sub>
+ |              molmasa = 17,027
+ |              blīvums = [[normāli apstākļi|normālos apstākļos]] 0,7625<ref>{{tīmekļa atsauce | url= https://www.engineeringtoolbox.com/ammonia-density-temperature-pressure-d_2006.html | title= Ammonia - Density at Varying Temperature and Pressure | publisher= Engineering ToolBox | language= en | accessdate= 2019. gada 6. augustā | archiveurl= https://web.archive.org/web/20190605002639/https://www.engineeringtoolbox.com/ammonia-density-temperature-pressure-d_2006.html | archivedate= 2019. gada 5. Jūnijs }}</ref>
+ |  kušanas temperatūra = 195,42 K (-78,27&nbsp;°C)
+ | viršanas temperatūra = 240,74 K (-33,49&nbsp;°C)
+ |        šķīdība ūdenī = 89,9 g/100ml (pie 0&nbsp;°C)
+ |                 citi =
+}}
+
+'''Amonjaks''' ir [[slāpeklis|slāpekļa]] un [[ūdeņradis|ūdeņraža]] [[ķīmiskais savienojums]], kura [[ķīmiskā formula]] ir NH<sub>3</sub>. [[Normāli apstākļi|Normālos apstākļos]] tā ir bezkrāsaina, salīdzinoši viegli sašķidrināma [[gāze]] ar asu smaku. Amonjaks ir [[inde|indīgs]], [[saindēšanās]] ar to ir atkarīga no tvaika koncentrācijas un saskares ilguma.<ref>{{tīmekļa atsauce | url= https://medicine.lv/raksti/saindesanas_pme | title= Saindešanās | publisher= medicine.lv | accessdate= 2019. gada 6. augustā | archiveurl= https://web.archive.org/web/20190806004208/https://medicine.lv/raksti/saindesanas_pme | archivedate= 2019. gada 6. Augustsss }}</ref> Amonjaks ir [[amfolīti|amfotēriska viela]]. Ūdenī tā ir kā [[bāze (ķīmija)|bāze]]. Tas veido arī dažādus [[amonija sāļi|amonija sāļus]]. Amonjaks ļoti labi šķīst [[ūdens|ūdenī]] — pie 0&nbsp;°C 1 tilpumā ūdens izšķīst ap 1200 tilpumu amonjaka (pie 20&nbsp;°C attiecīgi 700 tilpumu). Šķīdumā tas veido [[amonija jons|amonija jonu]] NH<sub>4</sub><sup>+</sup> un šo šķīdumu var uzskatīt par [[amonija hidroskīds|amonija hidroksīdu]]. 10% šķīdumu lieto medicīnā kā kairinošu līdzekli un sauc par [[ožamais spirts|ožamo spirtu]]. Viena no lielākajām amonjaka uzglabāšanas stacijām atrodas [[Ventspils|Ventspilī]], Latvijā.<ref>{{Tīmekļa atsauce|url=http://www.ventamonjaks.lv/|title=Ventamonjaks|website=www.ventamonjaks.lv|access-date=2021-10-20}}</ref><!-- kur? lielākā stacija Latvijā, Eiropā, pasaulē --->
+
+== Iegūšana ==
+Amonjaku iegūst tiešā reakcijā starp [[slāpeklis|slāpekli]] un [[ūdeņradis|ūdeņradi]]. Amonjaks ir galvenā visu slāpekļa savienojumu rūpnieciskā izejviela.
+
+== Īpašības ==
+Reaģējot ar [[skābe|skābēm]] un skābajiem oksīdiem, amonjaks veido [[amonija sāļi|amonija sāļus]]. Nozīmīgākie amonija sāļi ir [[amonija sulfāts]] ((NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>) un [[amonija nitrāts]] (NH<sub>4</sub>NO<sub>3</sub>), kurus lieto kā minerālmēslus (slāpekļa mēslojums).
+
+Katalītiski oksidējot amonjaku, iegūst [[slāpekļskābe|slāpekļskābi]].
+
+Amonjaks nedeg, taču, degot tīrā skābeklī, veidojas slāpeklis un ūdens:
+
+:4NH<sub>3</sub> + 3O<sub>2</sub> → 2N<sub>2</sub> + 6H<sub>2</sub>O
+
+Amonjaks reaģē arī ar daudziem organiskajiem savienojumiem, veidojot slāpekļorganiskos savienojumus (ar halogēnogļūdeņražiem veido [[amīni|amīnus]], ar halogēnkarbonskābēm veido [[aminoskābe]]s, ar [[formaldehīds|formaldehīdu]] veido [[urotropīns|urotropīnu]] (heksametilēntetramīnu)).
+
+== Izmantošana ==
+Galvenokārt lieto slāpekļa minerālmēslojuma ražošanai, sprāgstvielu, polimēru, slāpekļskābes, sodas un citu ķīmiskās rūpniecības produktu iegūšanai.
+
+Šķidru amonjaku [[analītiskā ķīmija|analītiskajā ķīmijā]] dažreiz lieto par neūdens polāru šķīdinātāju. Tajā šķīst [[sārmu metāli]]. Šķidru amonjaku plaši izmanto saldēšanas iekārtās (ar to aizstāj videi kaitīgos [[freoni|freonus]]).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Slāpeklis]]
+[[Kategorija:Ūdeņradis]]
+[[Kategorija:Sadzīves ķīmija]]
+[[Kategorija:Aukstumnesēji]]

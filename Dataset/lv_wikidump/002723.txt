@@ -1,0 +1,169 @@
+'''Funkcija''' ir viena mainīgā atkarība no otra mainīgā, ja katrai neatkarīgā mainīgā vērtībai atbilst ne vairāk kā viena atkarīgā mainīgā vērtība.
+[[File:Function machine2.svg|thumb|right|Shematisks funkcijas attēlojums, kas metaforiski aprakstīts kā "mašīna" vai "[[melnā kaste]]", kas katrai ievadei dod atbilstošu izvadi]]
+[[Image:Graph of example function.svg|thumb|right|Sarkanā līkne ir [[funkcijas grafiks]], jo jebkurai vertikālajai līnijai ir tieši viens līknes krustošanās punkts]]
+
+== Pamatjēdzieni ==
+Funkcija ir definēta tad, ja norādīts piekārtojuma likums, pēc kura katrai argumenta vērtībai var atrast atbilstošo funkcijas vērtību. Piekārtojuma likumu var uzdot:
+* ar vārdiem;
+* ar tabulu;
+* ar formulu;
+* ar grafiku.
+
+Ja funkcionālo sakarību (atbilstību) starp diviem mainīgajiem <math>x</math> un <math>y</math> pieraksta šādi <math>y=f(x)</math>, tad '''<math>y=f(x)</math>''', to sauc par funkcijas formulu, <math>x</math> par neatkarīgo mainīgo jeb argumentu, bet <math>y</math> par atkarīgo mainīgo jeb funkciju.
+
+Lasa: <math>y</math> ir vienāds ar <math>f</math> no <math>x</math>. Pierakstā burts <math>f</math> norāda likumu (kārtulu), pēc kura katrai argumenta <math>x</math> vērtībai var noteikt atbilstošo <math>y</math> vērtību.
+
+Gan funkciju, gan argumentu var apzīmēt arī ar citiem burtiem, piemēram, <math>y=g(x)</math>, <math>y=h(t)</math>, <math>z=F(y)</math>. Dažkārt funkciju apzīmē ar to pašu burtu, ar kuru apzīmēts atkarīgais mainīgais, piemēram, <math>y=y(x)</math>, <math>s=s(t)</math>, <math>z=z(y)</math>.
+
+Par funkcijas <math>y=f(x)</math> definīcijas apgabalu (pieļaujamo vērtību kopu) sauc visas tās neatkarīgā mainīgā <math>x</math> vērtības, ar kurām izteiksmei <math>f(x)</math> ir jēga.
+
+Definīcijas apgabalu apzīmē ar simbolu <math>D(y)</math> vai <math>D(f)</math>.
+
+Saskaņā ar šo definīciju, funkcijas <math>y=f(x)</math> definīcijas apgabals <math>D(f)</math> sakrīt ar izteiksmes <math>f(x)</math> definīcijas apgabalu.
+
+Par funkcijas <math>y=f(x)</math> vērtību apgabalu sauc visas atkarīgā mainīgā <math>y</math> vērtības. Vērtību apgabalu apzīmē ar <math>E(y)</math> vai <math>E(f)</math>.
+
+Funkciju sauc par pāra funkciju, ja katram <math>x\in D</math> izpildās vienādība <math>f(-x)=f(x)</math>. Funkciju sauc par nepāra funkciju, ja katram <math>x\in D</math> izpildās vienādība <math>f(-x)=-f(x)</math>. Ja funkcijai neatbilst neviens no šiem abiem nosacījumiem, to sauc par ne pāra, ne nepāra funkciju.
+
+Funkciju sauc par periodisku, ja eksistē tāds [[pozitīvs skaitlis]] <math>T</math>, ka katram <math>x\in D</math> pastāv sakarība <math>f(x+T)=f(x)</math>. Mazāko no šādiem skaitļiem <math>T</math> sauc par funkcijas [[Periods|periodu]].
+
+Funkcija ir augoša, ja lielākai argumenta vērtībai atbilst lielāka funkcijas vērtība. Funkcija ir dilstoša, ja lielākai argumenta vērtībai atbilst mazāka funkcijas vērtība. Augošas un dilstošas funkcijas sauc par monotonām funkcijām. Katrai monotonai funkcijai pastāv apgrieztā (inversā) funkcija.
+
+Ja funkcijas <math>y=f(u)</math> arguments ir funkcija <math>u=g(x)</math>, funkciju <math>y=f(g(x))</math> sauc par saliktu funkciju jeb funkciju <math>f</math> (ārējā funkcija) un <math>g</math> (iekšējā funkcija) kompozīciju. Vienas funkcijas ievietošanu citas funkcijas argumenta vietā sauc par superpozīciju.
+
+Lai uzzīmētu funkcijas <math>y=f(x)</math> grafiku, parasti sastāda vērtību tabulu, atbilstošos [[punkts|punktus]] (<math>x</math>, <math>f(x)</math>) atliek koordinātu plaknē un caur šiem punktiem novelk nepārtrauktu līniju (vai līnijas). Ja koordinātu plaknē atliek punktus, kuru abscisa (x ass) ir funkcijas arguments (x vērtība), bet ordināta (Y ass) — atbilstošā funkcijas vērtība, tad visi šie punkti veido funkcijas grafiku.
+
+== Elementārās funkcijas ==
+Elementārās pamatfunkcijas:
+
+* [[Kāpināšana|pakāpes]] funkcija <math>y=x^\alpha</math>,
+* [[Eksponentfunkcija|eksponentā funkcija]] <math>y=a^x</math>,
+* [[Logaritms|logaritmiskā]] funkcija <math>y=\log_ax</math>,
+* [[Trigonometriskās funkcijas|trigonometriskās funkcija]] <math>y=sinx</math>, <math>y=cosx</math>, <math>y=tgx</math>, <math>y=ctgx</math>,
+* [[Inversās trigonometriskās funkcijas|ciklometriskās funkcijas]] <math>y=arcsinx</math>, <math>y=arccosx</math>, <math>y=arctgx</math>, <math>y=arcctgx</math>.
+
+Funkcijas, kuras iegūst no elementārajām pamatfunkcijām un konstantēm, galīgā skaitā izpildot ar tām saskaitīšanu, atņemšanu, reizināšanu, dalīšanu, saliktu funkciju veidošanas operāciju, sauc par elementārajām funkcijām. Tās iedala algebriskās un [[Transcendenta funkcija|transcendentās]] funkcijās. Algebriskajām, aprēķinot vērtību, jāizpilda galīgs skaits [[Algebra|algebrisku]] operāciju (saskaitīšana, atņemšana, reizināšana, dalīšana, kāpināšana [[Racionāls skaitlis|racionāla skaitļa]] pakāpē), tās iedala racionālās — funkcijas izteiksme nesatur [[Sakne (matemātika)|saknes]] — un iracionālās — funkciju izteiksmes satur saknes — funkcijās. Pārējās elementārās funkcijas ir transcendentās.<ref>{{Grāmatas atsauce|title=Augstākā matemātika|last=Volodko|first=Inta|publisher=Zvaigzne ABC|year=2007|isbn=978-9984-37-811-4}}</ref>
+
+== Funkcijas y=f(x) pētīšanas shēma<ref>Kronbergs E., Rivža P., Bože Dz. Augstākā matemātika, 1. daļa., R.:„Zvaigzne“ 1988</ref> ==
+
+=== 1. solis ===
+* Atrod funkcijas '''definīcijas apgabalu''' D(f), tas ir, tādu x kopu, kurā funkcijas f(x) ir noteikta;
+* Nosaka '''pārtraukuma punktus''', un '''to veidus''', aprēķinot vienpusējās [[Robeža (matemātika)|robežas]]. Ja x=a ir funkcijas pārtraukuma punkts, tad jāaplūko vienpusīgās robežas šajā punktā:
+<math>\lim_{x \to \text{a}^{-0}}f(x)</math> un <math>\lim_{x \to \text{a}^{+0}}f(x)</math>
+
+=== 2. solis - atrod funkcijas grafika asimptotas ===
+* Taisne x=a ir funkcijas '''vertikālā asimptota''', ja punkts x=a ir funkcijas 2. veida pārtraukuma punkts;
+* Taisne y=b ir funkcijas f(x) '''horizontālā asimptota''' ( Ox asij paralēla taisne ), un
+# ja <math>\lim_{x \to+\infty}f(x)=b</math> , tad eksistē horizontālā asimptota labajā pusē, kur <math>x\to +\infty</math>, un
+# ja <math>\lim_{x \to-\infty}f(x)=b</math> , tad eksistē horizontālā asimptota kreisajā pusē , kur <math>x \to-\infty</math> ;
+* Taisne <math>y=k*x+b</math> ir funkcijas f(x) '''slīpā asimptota''' ( kas veido leņķi <math>k=\tan(\alpha)</math> ar Ox asi) , kur <math>k = \lim_{x \to\pm\infty}\frac{f(x)}{x}</math> un <math>b = \lim_{x \to\pm\infty}(f(x)-k*x)</math>
+
+=== 3. solis ===
+* Noskaidrot, vai funkcija f(x) ir pāra vai nepāra funkcija.
+# '''Pāra''' funkcija, ja <math>f(-x) = f(x)</math> un funkcijas grafiks ir simetrisks attiecībā pret Oy asi.
+# '''Nepāra''' funkcija, ja <math>f(-x) =  -f(x)</math> ; grafiks ir simetrisks attiecībā pret koordinātu sākumpunktu;
+* Noskaidro, vai funkcija ir '''periodiska''', tas ir, <math>f(x+T) = f(x)</math> , un atrod periodu T.
+
+=== 4. solis ===
+* Atrod grafika '''krustpunktus''' ar koordinātu asīm;
+* Nosaka, kādos intervālos funkcija ir '''pozitīva''' un kādos '''negatīva'''.
+
+=== 5. solis ===
+* Atrod '''1. kārtas atvasinājuma''' <math>f'(x)</math> '''kritiskos punktus''' un funkcijas '''ekstrēmus'''.
+# Punkts <math>x_0</math> ir šī atvasinājuma '''kritiskais punkts''', ja <math>f'(x_0) = 0</math> ;
+* Nosaka intervālus, kādos funkcija ir augoša un kādos - dilstoša.
+# Funkcija ir '''dilstoša''' <math>(a,b)</math> intervālā, ja <math>f'(x) < 0,  \forall x \in (a,b)</math>.
+# Funkcija ir '''augoša''' <math>(a,b)</math> intervālā, ja <math>f'(x) > 0, \forall x \in (a,b)</math>.
+* Nosaka '''ekstrēmu koordinātas'''. Ekstrēma punkts atdala funkcijas augšanas intervālu no dilšanas intervāla.
+# Kritiskais punkts <math>x_0</math> ir '''minimuma punkts''', ja funkcija dilst intervālā pirms <math>x_0</math> un aug intervālā pēc <math>x_0</math>.
+# Kritiskais punkts <math>x_0</math> ir '''maksimuma punkts''', ja funkcija aug intervālā pirms <math>x_0</math> un dilst intervālā pēc <math>x_0</math>.
+
+=== 6. solis ===
+* Atrod '''2. kārtas atvasinājuma''' <math>f''(x)</math> '''kritiskos punktus''' un funkcijas grafika '''pārliekuma punktus'''.
+# Punkts <math>x_0</math> ir šī atvasinājuma '''kritiskais punkts''', ja <math>f''(x_0) = 0</math>.
+* Nosaka izliekuma un ieliekuma intervālus.
+# Funkcijas grafiks ir '''izliekts''' <math>(a,b)</math> intervālā, ja <math>f''(x) < 0, \forall x \in (a,b)</math>.
+# Funkcijas grafiks ir '''ieliekts''' <math>(a,b)</math> intervālā, ja <math>f''(x) > 0, \forall x \in (a,b)</math>.
+* Atrod '''pārliekuma punktu koordinātas'''.
+# <math>(x_0 , f(x_0) ) </math>ir '''pārliekuma punkts''', ja šis punkts atdala funkcijas grafika izliekto daļu no ieliektās daļas.
+
+=== 7. solis - konstruē funkcijas grafiku. ===
+
+== Lineāra funkcija ==
+Par lineāru funkciju sauc funkciju <math>y=kx+m</math>, kur k nav vienāds ar [[nulle|nulli]]. Lineāras funkcijas grafiks ir [[taisne]]. Lai konstruētu grafiku, sastāda tabulu, kurā izvēlas trīs "x" vērtības. Taisnes virziena koeficients ''k'' norāda, kādu [[leņķis|leņķi]] taisne veido ar X ass pozitīvo virzienu:<ref>K. Šteiners, B. Siliņa. Augstākā matemātika I, R.:„Zvaigzne ABC“, 1997.</ref>[[Attēls:Linear functions2.PNG|150x150px|thumb|Dažas lineāras funkcijas]]
+:Ja <math>k>0</math>, taisne ar X asi veido šauru leņķi
+:Ja <math>k<0</math>, taisne ar X asi veido platu leņķi
+Definīcijas un vērtību apgabals lineārai funkcijai ir visi [[reāls skaitlis|reālie skaitļi]].
+
+Ja <math>m=0</math>, tad <math>y=kx</math>
+
+(tiešās proporcionalitātes funkcija). Tādā gadījumā funkcijas grafiks ir taisne, kas iet caur koordinātu sākumpunktu.
+
+== Apgrieztās proporcionalitātes funkcija ==
+
+Par apgrieztās proporcionalitātes funkciju sauc funkciju <math>y = \frac{k}{x^n}</math>, kur <math>k</math> ir konstante un nav vienāda ar nulli..
+Līkne sastāv no diviem zariem.
+Sastādot tabulu, izvēlas vismaz 6 "x" vērtības. Nedrīkst izvēlēties nulli!
+Ja <math>k>0</math>, tad hiperbola atrodas I un III kvadrantā.
+Ja <math>k<0</math>, tad hiperbola atrodas II un IV kvadrantā.
+
+Ir divu veidu saucēji:
+
+1) kur n ir nepāra skaitlis un <math>n\neq 0</math>.  Funkcijai ir vertikālā asimptota <math>x=0</math>, jo definīcijas apgabals ir <math>x \in (-\infty ; 0) \cup (0 ; +\infty)</math>, kā arī horizontālā asimptota <math>y=0</math>, jo vērtību apgabals ir <math>y \in (-\infty ; 0) \cup (0 ; +\infty)</math>
+
+2) kur n ir pāra skaitlis un <math>n\neq 0</math>. Šādas funkcijas atrodas 1. un 2. kvadrantā. Funkcijai ir vertikālā asimptota <math>x=0</math>, jo definīcijas apgabals ir <math>x \in (-\infty ; 0) \cup (0 ; +\infty)</math>, kā arī horizontālā asimptota <math>y=0</math>. Funkcijas vērtību apgabals ir <math>y \in (0 ; +\infty)</math>.
+[[Attēls:Hyperbola g2 continuous.svg|thumb|250x250px|Hiperbola, kur k > 0 un n - nepāra skaitlis|none]]
+
+== Saknes funkcijas ==
+
+1) <math>y=\sqrt{x}</math>
+
+Par kvadrātsaknes funkciju sauc funkciju <math>y=\sqrt{x}</math>.
+Funkcijas grafiks ir [[parabola]]s zars. Funkcijas grafiks atrodas I kvadrantā. Funkcijas definīcijas un vērtību apgabals ir visi nenegatīvie skaitļi (nulle un visi pozitīvie skaitļi)
+[[Attēls:Squareroot-0-9-metapost.svg|none|thumb]]
+2) <math>y = \sqrt[3]{x}</math>
+
+Par kubsaknes funkciju sauc funkciju, kur <math>x\in (-\infty ; +\infty)</math>. Funkcijas grafiks atrodas 1. un 3. kvadrantā, ja <math>y = \sqrt[3]{x}</math>. Funkcijas grafiks atrodas 2. un 4. kvadrantā, ja <math>y = -\sqrt[3]{x}</math>
+
+== Pakāpes funkcija ==
+
+1) <math>y=x^2</math> ([[kvadrātfunkcija]]).
+
+Funkcijas grafiks ir parabola. Sastādot tabulu, jāizvēlas piecas "x" vērtības. Definīcijas apgabals ir visi reālie skaitļi, bet vērtību apgabals ir visi pozitīvie skaitļi, ieskaitot nulli
+* Par parabolu sauc tādu plaknes punktu kopu, kuras jebkurš punkts atrodas vienādā attālumā no dotā šīs plaknes punkta, ko sauc par fokusu, un dotās taisnes, ko sauc par direktrisi. Attālumu no fokusa līdz direktrisei sauc par parabolas parametru; to apzīmē ar burtu p. Direktrises vienādojums ir <math>x = - \frac{p}{2}</math> , bet fokusa F koordinātas ir <math>(\frac{p}{2} ; 0)</math>.<ref>K. Šteiners, B. Siliņa. Augstākā matemātika II, R.:„Zvaigzne ABC“, 1998.</ref>[[Attēls:Axis of symmetry of a parabola.gif|none|thumb]]
+
+2) <math>y=x^3</math> (trešās pakāpes funkcija).
+
+Funkcijas grafiks ir kubiskā parabola. Sastādot tabulu, jāizvēlas piecas "x" vērtības. Gan definīcijas, gan vērtību apgabals šai funkcijai ir visi reālie skaitļi.
+[[Attēls:Kubiskaparabola.jpg|none|thumb]]
+3) <math>y^3 = x^2</math> (Neila parabola)
+
+Parametriskā formā: <math>\begin{cases} x = t^3 \\ y = t^2 \end{cases}</math>
+
+== Eksponentfunkcijas grafiks ==
+Funkcijai ir horizontālā asimptota <math>x=0</math>. Funkcijas vērtībām pieaugot, grafiks neierobežojas. Definīcijas apgabals ir <math>x \in (-\infty ; 0) \cup (0 ; +\infty)</math>, vērtību apgabals ir <math>y \in  (0 ; +\infty)</math>. grafiks krustojas ar y asi punktā <math>(0 ; 1)</math>, jo <math>a^0 = 1</math>
+
+1) <math>y = a^{x}</math>, kur a > 1
+
+Funkcijas grafiks ir augošs no kreisās puses. Horizontālā asimptota to ierobežo 2. kvadrantā, kad <math>x \to -\infty</math>.
+
+2) <math>y = a^{x}</math>, kur 0 < a < 1
+
+Funkcijas grafiks ir dilstošs no kreisās puses. Horizontālā asimptota to ierobežo no kreisās puses Horizontālā asimptota to ierobežo 1. kvadrantā, kad.<math>x \to +\infty</math>.
+[[Attēls:Exponential function defn.png|none|thumb]]
+== Hiperbola ==
+Par hiperbolu sauc tādu plaknes punktu kopu, kuras brīvi izraudzīta punkta attālumu starpība līdz diviem dotiem šīs plaknes punktiem, ko sauc par fokusiem, ir konstanta. Fokusus apzīmē ar burtiem <math>F_1</math> un <math>F_2</math>. Ja M(x; y) ir brīvi izraudzīts hiperbolas punkts, tad lietosim arī šādus apzīmējumus: <math>MF_1 = r_1</math> un <math>MF_2 = r_2</math>. Nogriežņus <math>MF_1</math> un <math>MF_2</math> sauc par hiperbolas fokālajiem rādiusiem. Punktus <math>A</math> un <math>A'</math> sauc par hiperbolas reālajām virsotnēm, bet <math>B</math> un <math>B'</math> - par imaginārajām (šķietamajām) virsotnēm. Nogriežņa <math>A</math> un <math>A'</math> garumu 2a sauc par hiperbolas reālo asi, nogriežņa <math>B</math> un <math>B'</math>garumu 2b - par hiperbolas imagināro asi. Lielumus a un b sauc attiecīgi par hiperbolas reālo pusasi un imagināro pusasi. Hiperbolai ir divas asimptotas, kas savstarpēji simetriskas attiecībā pret koordinātu asīm; un tās ir taisnes: <math>y = \frac{b}{a} * x</math> un <math>y = - \frac {b}{a} * x</math>. Izsakot fokālos rādiusus ar punktu <math>M</math>, <math>F_1</math> un <math>F_2</math> koordinātām, iegūst hiperbolas kanonisko vienādojumu: <math> \frac{x^2}{a^2} -  \frac{y^2}{b^2} = 1</math>. Parametriskā formā (labajam zaram): <math>\begin{cases} x = a*\cosh (t) \\ y = b*\sinh (t) \end{cases}</math>. No hiperbolas kanoniskā vienādojuma iegūstam vienādības: <math>y = \pm\frac{b}{a}\sqrt{x^2-a^2}</math> un <math>x = \pm\frac{a}{b}\sqrt{y^2+b^2}</math>.
+[[Attēls:Dalveida negativa.jpg|none|thumb|Hiperbola]]
+== Skatīt arī ==
+
+* [[Lineāra funkcija]]
+* [[Būla funkcija]]
+
+{{Matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+== Atsauces ==
+
+{{atsauces}}
+[[Kategorija:Funkcijas| ]]

@@ -1,0 +1,22 @@
+<div style="float:left;border:solid #99B3FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#E0E8FF"
+|style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt"| '''[[Latgaliešu valoda|ltg]]-3'''
+|style="font-size:8pt;padding:4pt;line-height:1.25em"| Itys lītuotuojs '''[[:Kategorija:User ltg|latgaļu volūdu]]''' muok '''[[:Kategorija:User ltg-3|gon lobā leidzīnī]]'''.
+|}</div><includeonly>
+[[Kategorija:User ltg|{{PAGENAME}}]]
+[[Kategorija:User ltg-3|{{PAGENAME}}]]
+</includeonly><noinclude>
+{{-}}
+== Lietojums ==
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User ltg]]
+* [[:Kategorija:User ltg-3]]
+
+== Skatīt arī ==
+* [[Veidne:User ltg-2|Iepriekšējais līmenis]]
+* [[Veidne:User ltg-4|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|ltg-3]]
+
+</noinclude>

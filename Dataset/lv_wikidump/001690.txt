@@ -1,0 +1,72 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Mārdu
+| official_name           = Maardu
+| settlement_type         = Apriņķa pilsēta
+| image_skyline           = Muuga.jpg
+| imagesize               =
+| image_caption           = Mārdu panorāma ar [[Mūgas osta|Mūgas ostu]] fonā
+| image_flag              = Flag of et-Maardu.svg
+| flag_size               = 125px
+| image_seal              =
+| seal_size               =
+| image_shield            = EST Maardu linn COA.png
+| shield_size             = 75px
+| image_blank_emblem      =
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       =
+| nickname                =
+| motto                   =
+| pushpin_map             = Estonia
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd  = 59|latm  = 28|lats  = 41|latNS  = N
+| longd = 25|longm = 00|longs = 58|longEW = E
+| coordinates_display     = inline,title
+| coordinates_region      = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Flag of et-Harju maakond.svg|24px]] [[Harju apriņķis]]
+| established_title       = <!-- First settled -->
+| established_date        = 
+| established_title1      = Pirmoreiz minēta
+| established_date1       = 1241
+| established_title2      = Apriņķa centrs
+| established_date2       = 1951
+| established_title3      = Pilsētas tiesības
+| established_date3       = 1980
+| government_type         =
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_total_km2          = 22.76
+| population_total        = 16529
+| population_as_of        = 01.01.2010<ref name="population"/>
+| population_density_km2  = auto
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             =
+| website                 = [http://www.maardu.ee www.maardu.ee]
+}}
+
+'''Mārdu''' ({{val-et|Maardu}}) ir pilsēta [[Harju apriņķis|Harju apriņķī]], [[Igaunija|Igaunijā]]. Tā ir daļa no [[Tallina]]s [[aglomerācija]]s. Pilsēta aizņem 22.76&nbsp;km² platību un tās iedzīvotāju skaits ir 16 529 (2010).<ref name="population">{{Tīmekļa atsauce|url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=Po0291&ti=POPULATION+NUMBER%2C+AREA+AND+DENSITY+BY+ADMINISTRATIVE+UNIT+OR+TYPE+OF+SETTLEMENT%2C+1+JANUARY&path=../I_Databas/Population/01Population_indicators_and_composition/04Population_figure_and_composition/&lang=1|title=Population figure and composition|publisher=Statistics Estonia|accessdate=21 February 2011}}</ref>
+
+Tā ir [[Jēkabpils]] sadraudzības pilsēta.
+
+== Sports ==
+* [[Maardu Linnameeskond]] (futbola klubs)
+* Mārdu pilsētas stadions (ietilpība: 1000)
+
+== Atsauces ==
+{{atsauces}}
+
+{{Igaunija-aizmetnis}}
+
+{{Igaunijas pilsētas}}
+{{Harju apriņķis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Harju apriņķis]]

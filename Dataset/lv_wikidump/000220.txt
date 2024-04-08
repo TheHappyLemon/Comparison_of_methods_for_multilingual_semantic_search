@@ -1,0 +1,225 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Ugandas Republika
+|    pilnais_valsts_nosaukums = Jamhuri ya Uganda
+|            valsts_nosaukums = Uganda
+|               karoga_attēls = Flag of Uganda.svg
+|            karoga_nosaukums = Ugandas karogs
+|              ģerboņa_attēls = Coat of arms of Uganda.svg
+|           ģerboņa_nosaukums = Ugandas Ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = Dievam un Manai valstij
+|                valsts_himna = [[Oh Uganda, Land of Beauty]]
+|               kartes_attēls = Uganda_(orthographic_projection).svg
+|             kartes_paraksts = 
+|               galvaspilsēta = Kampala
+| latd=00 | latm=18 | latNS=N | longd=32 | longm=34 | longEW=E <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = 
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = demokrātiska republika
+|        valsts_galvas_tituls = Prezidents
+|                valsts_galva = [[Joveri Museveni]]
+|       valsts_galvas_tituls2 = Viceprezidents
+|               valsts_galva2 = Jessica Alupo
+|       valsts_galvas_tituls3 = Premjerministrs
+|               valsts_galva3 = [[Robinah Nabbanja]]
+|        neatkarības_iegūšana = neatkarība
+|         neatkarības_piezīme = no Lielbritānijas
+|                    dibināta = 
+|        neatkarības_notikums = republika
+|          neatkarības_datums = 1962. gada 9. oktobrī
+|       neatkarības_notikums2 = 
+|         neatkarības_datums2 = 
+|       neatkarības_notikums3 = 
+|         neatkarības_datums3 = 
+|       neatkarības_notikums4 = 
+|         neatkarības_datums4 = 
+|       neatkarības_notikums5 = 
+|         neatkarības_datums5 = 
+|       neatkarības_notikums6 = 
+|         neatkarības_datums6 = 
+|       neatkarības_notikums7 = 
+|         neatkarības_datums7 = 
+|       neatkarības_notikums8 = 
+|         neatkarības_datums8 = 
+|       neatkarības_notikums9 = 
+|         neatkarības_datums9 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 241,038
+|               platība_rangs = 81
+|              procenti_ūdens = 15,39
+|     iedzīvotāju_skaita_gads = 2009
+|          iedzīvotāju_skaits = 32.710.000
+|    iedzīvotāju_skaits_rangs = 38
+|    apdzīvotības_blīvums_km2 = 138,5
+|  apdzīvotības_blīvums_rangs = 82
+|                     IKP_PPP = $85,104 miljardi<ref name=imf2>{{Tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Uganda |publisher=International Monetary Fund |accessdate=18 April 2013}}</ref>
+|                IKP_PPP_gads = 2016
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $2 071<ref name=imf2/>
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 0,484<ref name="HDI">{{Tīmekļa atsauce |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=2014 |accessdate=27 July 2014 | publisher=United Nations Development Programme | pages=21–25}}</ref>
+|                    HDI_gads = 2013
+|              HDI_kategorija = <font color=#FFCC00>vidējs</font>
+|                   HDI_rangs = 164
+|                        Gini = 44,11<ref name="wb-gini">{{Tīmekļa atsauce |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 March 2011}}</ref>
+|                   Gini_gads = 2009
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = Ugandas šiliņš
+|                valūtas_kods = UGX
+|                  laika_zona = EAT (UTC+3)
+|                  utc_offset = 
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .ug
+|              tālsarunu_kods = 256
+|                    piezīmes = 
+|                    piezīme1 = 
+|                    piezīme2 = 
+|                    piezīme3 = 
+|                    piezīme4 = 
+|                    piezīme5 = 
+|                    piezīme6 = 
+|                    piezīme7 = 
+|                iso_kods_num = 
+|              iso_kods_alfa2 = 
+|              iso_kods_alfa3 = 
+}}
+
+'''Ugandas Republika''' ir valsts [[Austrumāfrika|Austrumāfrikā]]. Ugandai ir tikai sauszemes robežas — austrumos tā robežojas ar [[Kenija|Keniju]], ziemeļos ar [[Dienvidsudāna|Dienvidsudānu]], rietumos ar [[Kongo Demokrātiskā Republika|Kongo Demokrātisko Republiku]], dienvidrietumos ar [[Ruanda|Ruandu]] un dienvidos ar [[Tanzānija|Tanzāniju]]. Valsts dienvidos atrodas ievērojama daļa no [[Viktorijas ezers|Viktorijas ezera]], kas savukārt vēl robežojas ar Keniju un Tanzāniju.
+
+Vārds Uganda cēlies no Bugandas valsts, kuras teritorija ietvēra daļu no Ugandas dienvidiem, tai skaitā, tās galvaspilsētu [[Kampala|Kampalu]]. Puse no valsts iedzīvotājiem dzīvo zem starptautiskā iztikas minimuma, kuru noteica [[Pasaules Banka]] [[1985]]. gadā, pašlaik tie ir 1,8 [[Amerikas Savienotās Valstis|ASV]] [[ASV dolārs|dolāri]] dienā.
+
+== Vēsture ==
+Ugandas iedzīvotāji bija mednieki un izdzīvošana balstījās uz savācējsaimniecības principiem, līdz aptuveni pirms 1700 — 2300 gadiem, no Centrālās un Rietumāfrikas daļas uz Ugandas dienvidiem pārceļoja [[bantu valodas|bantu valodās]] runājošās tautas.<ref name="living_enc">{{Tīmekļa atsauce | url=http://www.africa.upenn.edu/NEH/uethnic.htm | title = East Africa Living Encyclopedia – Ethnic Groups | publisher = African Studies Center, University of Pennsylvania}}</ref><ref name="phil">Martin, Phyllis and O'Meara, Patrick (1995). ''Africa''. 3rd edition. Indiana University Press. {{ISBN|0253209846}}.</ref> Šīs tautas ieviesa un attīstīja [[dzelzs]] apstrādi, kā arī jaunu sociālo un politisko iekārtu.
+
+Uz Kitaras impērijas pamatiem, kura pastāvēja 14. un 15. gadsimtā, izveidojās trīs spēcīgas karaļvalstis — Bunjoro-Kitara, Buganda un Ankole. Mūsdienās šīs četras valstis ir pārtapušas par Ugandas Republikas apgabaliem.
+
+Nīlas valodu saimei piederošās tautas, tai skaitā, [[luo]] un atekeri šajā reģionā ienāca no ziemeļiem, iespējams ap 120. gadu m.ē. Viņi galvenokārt nodarbojās ar lopkopību un lauksaimniecību, apmetoties mūsdienu Ugandas ziemeļu un austrumu daļā. Daļa no luo tautas iekaroja Bunjoro teritoriju, tādējādi asimilējoties ar bantu tautām. Šīs asimilācijas rezultātā radās Babiito dinastija, kuras pārstāvji ir līdzšinējie Buhjoro valdnieki, kurus dēvē par Omukamām. Pašreizējais Omukama ir Iguru I (kopš 1994. gada). Mūsdienās Omukama piedalās Ugandas politikā pārstāvot Bunjoro tautu. Luo tautas migrācija turpinājās līdz 16. gadsimtam, daļa tautas apmetās bantu tautu apdzīvoatajā teritorijā mūsdienu Ugandas austrumos, savukārt, pārējie nomitinājās [[Viktorijas ezers|Viktorijas ezera]] rietumkrastā, Kenijas un Tanzānijas teritorijās. Atekeru tauta apmetās mūsdienu Ugandas austrumu, ziemeļaustrumu daļu, kā arī daļa asimilējās uz ziemeļiem no Kiogas ezera dzīvojošajiem luo.
+
+19. gadsimta 30. gados mūsdienu Ugandas teritorijā ieradās arābu tirgotāji no Indijas okeāna piekrastes. Savukārt 1860. gados Ugandā ieradās britu pētnieki, meklēdami Nīlas izteku. [[Protestanti|Protestantu]] misionāri Ugandā parādījās 1877. gadā, bet [[Romas katoļu baznīca|katoļu]] — 1879. gadā. Apvienotā Karaliste 1888. gadā šajā teritorijā ieviesa Britu Austrumāfrikas asociācijas hartu, kuras mērķis bija attīstīt tirdzniecību starp Lielbritānijas kolonijām Āfrikā. 1894. gadā Uganda kļuva par Lielbritānijas protektorātu. Pēdējās teritoriālās izmaiņas notika līdz 1914. gadam, līdz tam, tai tika pievienoti vairāki ciemati un citas teritorijas. No 1900. līdz 1920. gadam Ugandā bija [[miega slimība]]s epidēmijas uzliesmojums, kas nogalināja vairāk nekā 250 000 Ugandas iedzīvotāju.<ref>{{Tīmekļa atsauce | url=http://www.cdc.gov/ncidod/EID/vol10no4/02-0626.htm | title=Reanalyzing the 1900–1920 Sleeping Sickness Epidemic in Uganda | publisher=Centers for Disease Control and Prevention (CDC) | location=USA | access-date={{dat|2016|08|31||bez}} | archiveurl=https://web.archive.org/web/20110629132023/http://www.cdc.gov/ncidod/EID/vol10no4/02-0626.htm | archivedate={{dat|2011|06|29||bez}} }}</ref>
+
+1962. gada oktobrī Uganda ieguva neatkarību un kļuva par Britu sadraudzības daļu, bet 1963. gada oktobrī tika veiktas izmaiņas Ugandas konstitūcijā, kas apmierinātu Ugandas Iedzīvotāju Kongresa (UIK) un Kabaka Jekkas (Kabaka Yekka) partijas. Uganda formāli kļuva par republiku, taču faktiski bija moharhiju federācija. Tika izveidots jauns amats — valsts vadītājs jeb prezidents, kā arī viņa aizstājējs (viceprezidents) gadījumā, ja prezidents nav spējīgs pildīt savas pienākumus. Par prezidentu kļuva Bugandas karalis Edvards Muteesa II. Par viņa aizstājēju iecēla Viljamu Vilberforsu Nadiopi.
+
+1966. gadā Miltons Obote veica apvērsumu valstī, ar varu panākot prezidenta atkāpšanos no amata. Savukārt, UIK partija, kura bija dominējošā parlamentā, veica izmaiņas konstitūcijā un Obote kļuva par prezidentu. Vēlēšanu sistēma tika atcelta, novedot pie nepārtrauktiem valsts mēroga apvērsumiem līdz 1980. gadu vidum. Obotes režīmu atbalstīja PSRS, apgādājot to ar bruņojumu. Tā kā Ugandas kaimiņvalstij Tanzānijai bija ciešas attiecības ar [[Ķīna|Ķīnu]], PSRS mēģināja palielināt ietekmi Ugandā, jo tā bija stratēģiski svarīga cīņā ar Ķīnas ietekmi Āfrikā.
+
+1971. gadā [[Idi Amins]] (1925—2003) pārņēma valstī varu un ar militāru spēku vadīja valsti 8 gadus.<ref name="loc">[http://lcweb2.loc.gov/frd/cs/ugtoc.html "A Country Study: Uganda"], ''[[Library of Congress]] Country Studies''</ref> Viņa valdībai ieročus piegādāja Lībijas diktators [[Muammars Kadāfi]], kurš Aminā saskatīja daudzsološu sabiedroto, savukārt vēlāk par galveno militāro atbalstītāju kļuva PSRS. Amina valdīšana atņēma aptuveni 300 000 ugandiešu dzīvības.<ref>{{Ziņu atsauce | last=Keatley | first=Patrick | title=Obituary: Idi Amin | url=http://www.guardian.co.uk/news/2003/aug/18/guardianobituaries | work=The Guardian | date=18 August 2003 | accessdate=18 March 2008}}</ref> Viņam bija raksturīgi rasistiski uzskati, jo 1972. gada 4. augustā izplatīja paziņojumu, ka Ugandā dzīvojošajiem aziātiem (pārsvarā [[indieši]]iem no [[Gudžarāta]]s) ir 90 dienas, lai atstātu valsti, to pamatojot ar uzskatu, ka šī mazākumgrupa grauj valsts saimniecību.<ref name="theage.com.au">[http://www.theage.com.au/news/business/uk-indians-taking-care-of-business/2006/03/07/1141701511987.html "UK Indians taking care of business"], ''The Age'' (8 March 2006). Retrieved 24 March 2013.</ref> Ugandas saimniecība, pēc šīs masveida izraidīšanas strauji pasliktinājās, jo daļa no indiešiem bija lielu uzņēmumu vadītāji, kuri, vēlāk tika nodoti Amina sabiedroto rokās.<ref name="theage.com.au"/> Amina valdīšanai pienāca gals pēc 1979. gadā notikušā Ugandas-Tanzānijas kara, kurā uzvarēja apvienotie Tanzānijas un trimdā izveidotās Ugandas nacionālās atbrīvošanas armijas spēki. Pie varas atkārtoti nāca Miltons Obote, bet pēc 6 gadiem, proti, 1985. gadā viņa vietā stājās ģenerālis Tito Okello. Okello valdīšanas laiks bija īss — tikai 6 mēneši, jo pie vars nāca Joveri Museveni, kurš jau kopš 1981. gada karoja pret Obotes un Okello režīmiem partīzānu karā, kuru dēvē par "krūmu karu". Museveni vadīja Nacionālās Pretošanās Armiju, kopā ar vairākiem nemiernieku grupējumiem, tai skaitā, Federālo Demokrātu Kustību ar Endrū Kadžiru (Andrew Kajiira) priekšgalā, kā arī ar vēl kādu grupējumu, kura vadītājs bija Džons Nkvanga (John Nkwanga).
+
+Museveni ir pie varas kopš 1986. gada. 1990. gadu otrā pusē rietumvalstis viņu slavēja kā daļu no jaunās paaudzes Āfrikas valstu vadītājiem.<ref>"'New-Breed' Leadership, Conflict, and Reconstruction in the Great Lakes Region of Africa: A Sociopolitical Biography of Uganda's Yoweri Kaguta Museveni, Joseph Oloka-Onyango," ''Africa Today'' — Volume 50, Number 3, Spring 2004, p. 29</ref> Savas prezidentūras laikā Museveni ir iesaistījis valsti Kongo Demokrātiskās Republikas pilsoņu karā, kā arī citos konfliktos, kuri notikuši [[Āfrikas lielie ezeri|Lielo ezeru]] reģionā.
+
+Kopš 1987. gada, tā dēvētā "Tā Kunga Pretošanās Armija" (Lord's Resistance Army), ir iesaistījusies militārā konfliktā ar Museveni valdību, cenšoties pārņemt varu valstī. Šis grupējums ir atbildīgs par masu slepkavībām un bērnu paverdzināšanu. Miltārā konflikta rezultātā ir gājuši bojā vairāki tūkstoši cilvēku un vairāki miljoni ir bijuši spiesti doties bēgļu gaitās.<ref>{{Ziņu atsauce | title=No End to LRA Killings and Abductions | publisher= Human Rights Watch | date=23 May 2011 | url=http://www.hrw.org/news/2011/05/23/no-end-lra-killings-and-abductions}}</ref>
+
+2007. gadā Uganda izvietoja savu karaspēku Somālijā, lai sniegtu palīdzību [[Āfrikas Savienība]]i, miera uzturēšanas misijā.
+
+== Ģeogrāfija ==
+[[Attēls:Ug-map.png|thumb|220px|Ugandas karte]]
+Valsts atrodas Austrumāfrikas augstienē, vidēji 1100 metrus virs jūras līmeņa. Augstiene vienmērīgi pāriet nogāzē, kura turpinās uz ziemeļiem līdz Sudānas līdzenumam. Valsts centrālajā un dienviddaļā ir plaši atrodamas purvainas teritorijas. Valsts vidienē atrodas [[Kjogas ezers]].
+
+Teju visu Ugandas teritoriju ietver [[Nīla]]s upes baseins. Viktorijas Nīla jeb Baltā Nīla iztek no Viktorijas ezera un ietek Kjogas ezerā, pēc tam turpinot savu ceļu uz [[Alberta ezers|Alberta ezeru]]. Savukārt tālāk tekot uz ziemeļiem no Kongo robežas uz [[Dienvidsudāna|Dienvidsudānu]]. Neliela teritorija Ugandas austrumos ir daļa no iekšzemes drenāžas ezera — [[Turkanas ezers|Turkana]], tā atzars Ugandā ir [[Turkvela]]s upe.
+
+Kjogas ezers kalpo par aptuvenu robežu, kas nodala dienvidos esošās [[bantu valodas|bantu valodās]] runājošās tautas no ziemeļos esošajām [[Nīlas—Sahāras valodu saime|Nīlas—Sahāras]] valodās runājošajām tautām. Par spīti šim sadalījumam, kas ir izveidojies politisku iemeslu dēļ, patiesā lingvistiskā robežā būtu velkama no ziemeļrietumiem uz dienvidaustrumiem, proti, gar Nīlas upi. Taču ugandieši dzīvo starp dažādu nacionalitāšu cilvēkiem, šajā ziņā viņi nav konservatīvi, it sevišķi izteikts tas ir lauku apvidū dzīvojošajiem. Starp Ugandas reģioniem ir vērojamas vairākas atšķirības, proti, apģērbā, rotaslietās un manierēs, bet ir vērojama pakāpeniska, dabiska asimilācija starp dažādajām kultūrām.
+
+=== Klimats ===
+Lai gan dominējošais ir ekvatoriālais klimats, tomēr tas nav vienmērīgs, jo valsts daļas atrodas dažādos augstumos virs jūras līmeņa. Dienviddaļa ir mitrāka, ar lielāku nokrišņu daudzumu, savukārt, Viktorijas ezera ziemeļkrastā, [[Entebe|Entebē]], lietus ir vērojams tikai no marta līdz jūnijam un novembra-decembra periodā. Vairāk uz ziemeļiem ir tropisks klimats ar vērojamiem sausuma periodiem. [[Gulu]] pilsētā, kas atrodas aptuveni 120 km no Dienvidsudānas robežas, gada vissausākais periods ir no novembra līdz februārim. Savukārt, vissausākais Ugandas klimats ir ziemeļaustrumu daļā, Karamojas reģionā, kur ūdens trūkums var sagādāt grūtības ilgstoši dzīvot.
+
+[[Ruvenzori kalni|Ruvenzori kalnos]] pie Ugandas un Kongo robežas, ir vērojams stiprs lietus cauru gadu. Valsts klimatu dienvidos ietekmē pasaulē lielākais tropiskais ezers — [[Viktorijas ezers]], tajā atrodas vairākas salas. Šis ezers novērš straujas temperatūras izmaiņas, kā arī palielina mākoņu un nokrišņu daudzumu. Svarīgākās pilsētas atrodas valsts dienviddaļā, netālu no Viktorijas ezera, tai skaitā, galvaspilsēta — Kampala un jau pieminētā Entebe. Kaut arī valstij ir tikai sauszemes robežas tajā atrodas vairāki ievērojami ezeri, bez jau pieminētā Viktorijas ezera, vēl ir Kjogas, [[Alberta ezers|Alberta]], [[Edvarda ezers|Edvarda]] un [[Džordža ezers]].
+
+== Administratīvais iedalījums ==
+[[Attēls:Uganda_Districts.png|thumb|300px|Administratīvais iedalījums]]
+Ugandu iedala četrās lielās administratīvās daļās: ziemeļu, austrumu, centrālajā un rietumu daļā. Šie reģioni sastāv no 77 novadiem, savukārt, katrs no tiem iedalās mazākos apgabalos. Pēdējo gadu laikā ir notikušas nelielas izmaiņas administratīvajā iedalījumā, 2006. gada 1. jūlijā tika pievienoti 8 jauni novadi. Lielākā daļa novadu ir nodēvēti tāpat kā tajos ietilpstošās lielākās pilsētas, kuras bieži vien arī atbild par pārvaldes funkcijām.
+
+Paralēli valsts pārvaldei ir saglabājušās arī 5 vēsturiskās Bantu karalistes, kurām ir piešķirta daļēja autonomija kultūras lietās. Tās ir — Buganda, Bunjoro, Ankole, Busoga un Toro.
+
+== Valdība ==
+[[Attēls:Yoweri Museveni.jpg|thumb|left|140px|Ugandas prezidents — [[Joveri Museveni]].]]
+Pašreizējais prezidents ir [[Joveri Museveni]], kurš ir gan valsts, gan arī valdības vadītājs. Prezidents ieceļ premjerministru, kopš 2014. gada tas ir [[Ruhakana Rugunda]], kurš palīdz prezidentam vadīt valsti. Ugandas parlaments — Nacionālā Asambleja, sastāv no 332 locekļiem. 104 no šiem locekļiem izvirza par kandidātiem dažādas interešu grupas, kā piemēram sieviešu apvienības, jauniešu organizācijas, invalīdu apvienības un armija. Pārējie locekļi vispārējās vēlēšanās tiek ievēlēti uz 4 gadu ilgu periodu.
+
+Attaisnojoties ar politisko sektantu vardarbību, 1986. gadā politisko partiju darbība tika ierobežota. Museveni ieviesa bezpartiju sistēmu, politiskās apvienības turpināja pastāvēt, bet tās nedrīkstēja organizēt sapulces un piedalīties vēlēšanās.
+
+2005. gada jūlijā tika veikti labojumi konstitūcijā, balstoties uz notikušā referenduma rezultātiem, proti, tika atcelti ierobežojumi, kuri attiecās uz partijām, kā arī tika veiktas izmaiņas, pagarinot prezidentūras termiņu no 2 uz 3 gadiem. Tādējādi Museveni drīkstēja atkārtoti kandidēt uz prezidenta amatu 2006. gada februāri notiekošajām vēlēšanām. Museveni sacentās ar vairākiem prezidenta amata kandidātiem, starp kuriem bija arī trimdā izsūtītais Kiza Besigje, tomēr vislielāko atbalstu guva Museveni. 2006. gadā notika arī pirmās daudzpartiju vēlēšanas pēdējo 25 gadu laikā. 59.26% balsu ieguva Museveni vadītā Nacionālās pretošanās kustība.
+
+== Iedzīvotāji ==
+Pašreizējais Ugandas iedzīvotāju skaits ir aptuveni 32,4 miljoni. Vidējais iedzīvotāju vecums ir 15 gadi, kas ir zemākais visā pasaulē.<ref>[http://www.state.gov/r/pa/ei/bgn/2963.htm Background Note: Uganda], state.gov {{en ikona}}</ref>
+
+=== Valodas ===
+[[Attēls:Miss_Uganda_08_Dora_Mwima.jpg|thumb|200px|right|Miss Uganda 2008]]
+Ugandā ietilpst vairākas etniskās grupas, bet neviena no tām valstī neveido vairākumu. Valstī runā aptuveni 40 dažādās valodās, savukārt angļu valoda tika noteikta kā valsts oficiālā valoda pēc neatkarības iegūšanas. Visplašāk izplatītā valoda ir [[luganda]], kas ir dominējošā valoda galvaspilsētā — Kampalā un tās ietverošajā Bugandas reģionā. Dienvidaustrumos un dienvidrietumos dominējošās ir lusoga un runjankores (kitara) valodas.
+
+[[Svahili]] valoda, kurā runā dienvidu un centrālajā Austrumāfrikas daļā, 2005. gadā tika pasludināta par otro oficiālo valsts valodu.<ref name="Constitution (Amendment) Act 2005">{{Tīmekļa atsauce|url=http://www.ugandaonlinelawlibrary.com/files/constitution/Constitutional_Amendment_Act,_2005.pdf |archiveurl=https://web.archive.org/web/20100922110951/http://www.ugandaonlinelawlibrary.com/files/constitution/Constitutional_Amendment_Act,_2005.pdf |archivedate=22 September 2010 |title=The Constitution (Amendment) Act 2005 |format=PDF |accessdate=3 May 2010}}</ref><ref>{{Ziņu atsauce|title=Museveni Signs 3rd Term Bill|newspaper=New Vision (Kampala)|date=29 September 2005|quote="From now on, Swahili is the second official language..."}}</ref> Par spīti tam, ka bantu valodās runājošās tautas nav apmierinātas ar svahili valodas izplatību, tai ir nozīmīgs faktors ziemeļdaļā saziņai starp dažādās valodās runājošajiem. Svahili ir dominējošā valoda valsts militārajos spēkos, tā varētu būt bijusi par iemeslu tam, ka koloniālisma periodā lielākā daļa no ziemeļdaļas iedzīvotājiem, kuri runāja svahili tika nodarbināti šajā darba sektorā. Turpretī tiem, kuri neprata svahili valodu valsts ziemeļos, bija mazākas izredzes iegūt darbu bruņotajos spēkos.
+
+Svahili valodas statusu arī ir ietekmējusi politiskā situācija, proti, Idi Amins (prezidents no 1971. līdz 1979. gadam) bija no ziemeļrietumu daļas, izmantojot savu politisko stāvokli, sabiedrībai paziņoja, ka svahili ir jākļūst par valsts valodu.<ref>[http://www.glcom.com/hassan/swahili_history.html "A Brief History of the Swahili Language"] {{Webarchive|url=https://web.archive.org/web/20170512022044/http://www.glcom.com/hassan/swahili_history.html |date={{dat|2017|05|12||bez}} }}, glcom.com</ref>
+
+=== Reliģija ===
+Balstoties uz tautas skaitīšanas datiem, 2002. gadā 85% no Ugandas iedzīvotājiem bija kristieši.<ref name="Census 2002">{{Tīmekļa atsauce|url=http://www.ubos.org/onlinefiles/uploads/ubos/pdf%20documents/2002%20Census%20Final%20Reportdoc.pdf|title=2002 Uganda Population and Housing Census&nbsp;– Main Report|publisher=Uganda Bureau of Statistics|accessdate=26 March 2008|format=PDF|archiveurl=https://web.archive.org/web/20171012091154/http://www.ubos.org/onlinefiles/uploads/ubos/pdf%20documents/2002%20Census%20Final%20Reportdoc.pdf|archivedate={{dat|2017|10|12||bez}}}}</ref> Lielākā daļa pieder [[Romas Katoļu baznīca]]i (41,9%), tai seko Ugandas Anglikāņu baznīca ar 35,9%. Otra izplatītākā reliģija ir islāms ar 12,1% sekotāju Ugandas iedzīvotāju vidū.<ref name="Census 2002"/> Tautas skaitīšanas dati liecina, ka tikai 1% iedzīvotāju ir vietējo tautu reliģiju piekritēji, savukārt 0,7% ir pieskaitāmi pie pārējām pasaules reliģijām, tai skaitā, dažādajām sektām. Neliela daļa vietējo iedzīvotāju ir arī [[jūdaisms|jūdaisma]] piekritēji, tos sauc par abajudajām (luganda valodā tas nozīmē Jūdas sekotāji jeb Jūdas cilvēki). Ugandā ir arī piekritēji Baha'i reliģijai, viena no tās septiņām pasaules svētnīcām atrodas Ugandas galvaspilsētā — Kampalā.
+
+Kristiešu konfesijas pārsvarā ir katoļu un anglikāņu, atlikušā daļa ir evaņģēliskās baznīcas, tās ir ļoti aktīvas sabiedriskajā dzīvē. Islāma piekritēji, galvenokārt ir sunnīti. Savukārt, vietējo tautu reliģiju piekritēji darbojas, pārsvarā lauku apvidos un dažviet šīs reliģijas ir saplūdušas kopā ar kristietību vai islāmu. Ievērojamākā imigrantu daļa ir indieši, kas galvenokārt ir hinduisma un ismaili (islāma atzarojums) piekritēji. Ziemeļdaļā un Nīlas rietumos pārsvarā ir katoļi, tomēr Igangas novadā procentuāli vairāk ir musulmaņi. Pārējā valsts daļā dažādu reliģiju piekritēji ir samērā līdzvērtīgā skaitā.
+
+== Saimniecība ==
+Gadu desmitiem Ugandas saimniecība ir bijusi nestabila un cietusi no postoša ekonomiskā plāna, kā sekas tam, valsts ir nabadzīga uz pasaules fona. Uganda ir realizējusi vairākas ekonomiskas reformas, kuras ir atstājušas ļoti pozitīvas sekas, piemēram, 2008. gadā Uganda piedzīvoja ekonomisku izaugsmi par 7%, par spīti pasaules krīzei un vietējai ekonomiskai nestabilitātei.<ref>{{Tīmekļa atsauce|url=http://www.africaneconomicoutlook.org/en/countries/east-africa/uganda/|title=Snapshot of Uganda's economic outlook|date=6 July 2009|publisher=African Economic Outlook|access-date={{dat|2016|08|31||bez}}|archiveurl=https://web.archive.org/web/20150426120032/http://www.africaneconomicoutlook.org/en/countries/east-africa/uganda/|archivedate={{dat|2015|04|26||bez}}}}</ref>
+
+Ugandai ir saimnieciski nozīmīgi resursi, tai skaitā, auglīga zeme un regulāri nokrišņi, kas ļauj nodarboties ar lauksaimniecību, kā arī prāvas [[varš|vara]] un [[kobalts|kobalta]] atradnes. Valstī ir vēl neskartas jēlnaftas un dabasgāzes ieguves vietas.<ref name="oilrush">[http://www.economist.com/businessfinance/displayStory.cfm?story_id=14177583&source=hptextfeature Uganda's oil rush: Derricks in the darkness]. Economist.com (6 August 2009). Retrieved 24 March 2013.</ref>
+
+Ugandā zemkopība ir visnozīmīgākā saimniecības nozare, tajā ir nodarbināti vairāk kā 80% darbaspēka, kafijas eksports veido lielāko ienākumu daļu. 1950. gados britu koloniālais režīms veicināja zemnieku apvienošanos, veidojot organizētu darbaspēku, tajā piedalījās vairāk kā 500 000 zemnieku.<ref>W. D. Ogilvie: Interview with David Hines in 1999; obituary of David Hines in London ''Daily Telegraph'', 8 April 2000.</ref>
+
+Valdība kopš 1986. gada (ar citu valstu un starptautisku organizāciju atbalstu) cenšas uzlabot valsts saimniecisko stāvokli, kas tika sagrauts Idi Amina režīma laikā, kā arī to ietekmēja vairāki pilsoņu kari.<ref name=cia>{{Tīmekļa atsauce |author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]] |title=Uganda |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ug.html |year=2009 |accessdate=23 January 2010 |archive-date={{dat|2015|10|18||bez}} |archive-url=https://web.archive.org/web/20151018002856/https://www.cia.gov/library/publications/the-world-factbook/geos/ug.html }}</ref> Valdības realizētā politika ir devusi acīmredzamu uzlabojumu, proti, 1987. gadā inflācija valstī bija 240%, savukārt, 1992. gada jūnijā tā bija nokritusies līdz 42%, bet 2003. gadā inflācija bija vairs tikai 5,1%.
+
+Pateicoties ieguldītajiem līdzekļiem infrastruktūras atjaunošanai, no 1990. līdz 2001. gadam notika saimniecības atkopšanās. Uzlabojās darba samaksas prēmiju sistēma, samazinājās inflācija, pakāpeniski uzlabojās drošības līmenis, kā arī atgriezās daļa no Ugandas [[indieši]]em, kuru bija izraidīti no valsts 1972. gadā. Saistībā ar Ugandas piedalīšanos [[Kongo Demokrātiskā Republika|Kongo Demokrātiskās Republikas]] pilsoņu karā, korupciju valdībā un valdības solīto reformu neīstenošanu, sabiedrībā radās šaubas par Ugandas ekonomiskās izaugsmes turpināšanos. 2000. gadā Uganda kvalificējās palielinātajai parādu atvieglināšanas programmai (lielos parādos esošās nabadzīgās valstis (''Heavily Indebted Poor Countries'') (HIPC)). No šī fonda saņemot 1,3 miljardus dolāru, kā arī no Paris Club parādu atvieglināšanas apvienības saņemot 145 miljonus dolāru. Saimniecības attīstība no 2001. līdz 2002. gadam bija vērā ņemama, par spīti tam, ka samazinājās ienākumi no valsts primārās eksporta preces — kafijas. Pēc [[Starptautiskais Valūtas fonds|Starptautiskā Valūtas fonda]] statistikas, 2004. gadā Ugandas iekšzemes kopprodukts uz vienu cilvēku sasniedza 300 dolārus, kas ir vairāk nekā 1980. gados, bet tikai puse no vidējiem Subsahāras Āfrikas iedzīvotāju ienākumiem gadā. Tajā pašā gadā kopējais iekšzemes kopprodukts pārsniedza 8 miljardus dolāru.
+
+1996. gadā nostiprinājās vērtspapīru birža, piesaistot vairākus akcionārus. Valdība izmanto šo akciju tirgu, lai privatizētu valsts, kā arī sabiedriskos īpašumus. Visi valsts vērtspapīri tiek izplatīti akciju tirgū. Kapitāla Tirgus Pārvalde ir licencējusi 18 biržas brokerus, investīciju menedžerus un padomdevējus. Pensiju sektora reforma 2007. gadā bija uzmanības centrā, jo ar tās īstenošanas palīdzību valsts spētu palielināt savus iekrājumus, veicinot ekonomisko augšupeju.
+
+Kenija darbojas kā starpniece starp Ugandu un starptautisko tirgu. Uganda ietilpst Austrumāfrikas Kopienā un ir potenciāla dalībvalsts paredzētajā [[Austrumāfrikas Federācija|Austrumāfrikas Federācijā]], kas nākotnē apvienotu Burundi, Keniju, Ruandu, Tanzāniju un Ugandu vienotā Āfrikas Savienībā.
+
+== Veselība ==
+Tā kā Uganda tikai salīdzinoši nesen ir sākusi strauji attīstīties, tad veselības aprūpes līmenis ir zemāks nekā cituviet pasaulē. Pēc 2012. gada statistikas datiem, jaundzimušo paredzamais [[dzīves ilgums]] ir 53,45 gadi,<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html?countryName=Uganda&countryCode=ug&regionCode=afr&rank=204#ug CIA World Factbook] {{Webarchive|url=https://web.archive.org/web/20160317091627/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html?countryName=Uganda&countryCode=ug&regionCode=afr&rank=204#ug |date={{dat|2016|03|17||bez}} }}: Life Expectancy ranks</ref> šis rādītājs pakāpeniski uzlabojas, aptuveni par 1% gadā. Bērnu mirstības līmenis ir samazinājies par 15% kopš 1990. gadā, mirst aptuveni 134 no 1000 bērniem vecumā līdz 5 gadiem. Kopējie valsts izdevumi veselības aprūpei no IKP ir 7,4%.
+
+Uganda piedzīvoja spēcīgu [[HIV]]/[[AIDS]] epidēmijas uzliesmojumu. 1990. gadu sākumā 13% iedzīvotāju bija inficēti ar HIV vīrusu. Tomēr Uganda ir atzīta par visaktīvāko Āfrikas valsti šī vīrusa apkarošanā, jo pateicoties ļoti aktīvai sabiedrības un valsts līdzdalībai, līdz 2003. gadam inficēto skaits saruka līdz 4,1%.
+
+2003. gadā Ugandas veselības ministrija paziņoja par [[holēra]]s uzliesmojumu Bundibugio novadā, visvairāk inficēto bija pie Semliki un Lamias upju krastos.
+
+Ugandā atrodas viens no modernākajiem Austrumāfrikas vīrusu izpētes centriem — Ugandas Vīrusu Pētniecības Institūts (UVPI).
+
+== Kultūra un sports ==
+Ugandas kultūra ir ļoti daudzpusīga saistībā ar to, ka tajā dzīvo dažādas tautu kopienas. Daudzi aziāti (pārsvarā no Indijas), kuri tika izraidīti no valsts Idi Amina valdīšanas laikā, tagad ir atgriezušies Ugandā.
+
+Lai gan [[futbols]] ir populārākais sporta veids valstī, tomēr pēdējo gadu laikā [[krikets]] ir piesaistījis daļu no sabiedrības uzmanības. Nesen Kenijā norisinājās Četrstūra Turnīrs kriketā, par spīti tam, ka sākumā, Uganda piedzīvoja neveiksmi, beigās tā izvērsās par vēsturisku uzvaru pār Keniju. Uganda izcīnīja arī uzvaru Pasaules Kriketa Līgas (PKL) 3. divīzijā, bet 2. divīzijā ieguva 4. vietu.
+2009. gada februārī Uganda izcīnīja 2. vietu PKL 3. divīzijā, kas norisinājās Argentīnā, saņemot tiesības rīkot sagatavošanas spēles Pasaules Kausa meistarsacīkstēm, kuras notika 2009. gada aprīlī.
+
+2007. gadā Ugandas [[regbijs|regbija]] izlase ieguva [[Āfrikas kauss regbijā|Āfrikas kausu regbijā]], finālā pieveicot [[Madagaskara]]s izlasi.
+
+Populāri ir arī [[autorallijs|autoralliji]] Ugandā, valsts ir organizējusi vairākas šī sporta veida sacensības, kā piemēram, Āfrikas Rallija Čempionātu (ARČ) un ralliju — Āfrikas Pērle. Ugandas autosportisti ir izcīnījuši vairākas godalgotas vietas, piemēram, Čārlzs Muhangi 1999. gadā izcīnīja 1. vietu ARČ, savukārt, pavisam nesen, 2009. gada (FIA) ARČ sacensībās, Emmanuels Kato finišēja iegūstot 3. vietu. Rijazs Kurji, kurš 2009. gadā izcīnīja 1. vietu, gāja bojā autokatastrofā, bez jau minētajiem sportistiem no Ugandas piedalās vēl arī Karims Hirji, Čipers Adams un Čārlzs Lubega. Ievērojami rezultāti ir sasniegti arī Safari rallijā.
+
+Jau kopš 1920. gadiem visai populārs ir kļuvis [[lauka hokejs]]. Šo sporta veidu sākumā spēlēja tikai Āzijas izcelsmes cilvēki, savukārt gadu laikā tas ir strauji mainījies, komandās iekļaujot ikvienu, neatkarīgi no piederības kādai rasei. Hokejs ir vienīgais komandu sporta veids, kurā Uganda ir piedalījusies [[Olimpiskās spēles|Olimpiskajās spēlēs]], proti, [[1972. gada vasaras olimpiskās spēles|1972. gadā]], Minhenē. Tajā pašā gadā Džons Akii-Bua ieguva zelta medaļu 400 metru barjerskrējienā. Savukārt, [[1996. gada vasaras olimpiskās spēles|1996. gada olimpiskajās spēlēs]], kuras norisinājās Atlantā, ugandietis Deiviss Kamoga ieguva bronzas medaļu 400 metru skrējienā.
+
+== Cilvēktiesības ==
+Uganda ir saņēmusi starptautisku nosodījumu sakarā ar uzbrukumiem politiķiem un parlamenta opozīcijas pārstāvju ietekmēšanu, kā rezultātā, 2005. gada maijā, Lielbritānijas valdība pieņēma lēmumu daļēji pārtraukt tās sniegto palīdzību Ugandai, līdz vairs nebūs problēmu ar politisko vārda brīvību. Nosodījumu izsauca arī opozīcijas vadītāja Kiza Besigjes arests neilgi pirms 2006. gada februāra vēlēšanām un drošības spēku aplenkums ap Augstākās tiesas ēku, Besigjes lietas izskatīšanas laikā.
+
+Dažās valsts drošības iestādēs nav retums, ka tiek piekoptas spīdzināšanas metodes, lai iegūtu informāciju no aizdomās turētajām personām.
+
+Ir bijuši vairāki ziņojumi par to, ka abas konfliktā iesaistītas puses, valsts ziemeļos, proti, Ugandas armija un "Tā Kunga Pretošanās Armija" (TKPA) (Lord's Resistance Army) piekopj nelikumīgas darbības. 2009. gada februāri ANO pārstāvis vainoja TKPA nežēlīgā vardarbībā, kuru viņi ir izvērsuši Kongo Republikā. Aptuveni 1,4 miljoni Ugandas iedzīvotāju ir bijuši spiesti atstāt savas mājas un doties bēgļu gaitās.
+
+Pēdējā laikā, vairākas politiska rakstura apvienības cenšas pievērst sabiedrības un valdības uzmanību faktam, ka TKPA grupējums nodarbojas ar bērnu nolaupīšanu un paverdzināšanu. Tūkstošiem bērnu, to skaitā, vecumā ap 8 gadiem, ir tikuši nolaupīti un piespiesti slepkavot šī grupējuma labā. Dokumentālā filma "Neredzamie bērni" ataino to bērnu šausmīgās dzīves, kurus dēvē par nakts ceļotājiem. Šie bērni katru nakti atstāj savus ciematus un dodas vairāku kilometru pārgājienā, lai izvairītos sastapties ar šo naidīgo TKPA grupējuma pārstāvjiem un tikt nolaupītiem.
+
+2007. gadā ASV bēgļu un imigrantu komiteja paziņoja, ka Ugandā tiek pārkāptas vairākas cilvēktiesības, tai skaitā, Ugandas valdība ir veikusi piespiedu deportācijas un vardarbīgi izturējusies pret emigrantiem.
+
+Ugandā ir aizliegtas [[homoseksualitāte|attiecības starp viena dzimuma personām]], par kurām draud cietumsods no 7 gadiem līdz pat mūža ieslodzījumam.
+
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20091223191137/http://www.visituganda.com/ Ugandas oficiālā tūrisma mājaslapa]
+* [http://news.bbc.co.uk/2/hi/africa/country_profiles/1069166.stm BBC Ugandas republikas profils]
+* [http://www.skyscrapercity.com/showthread.php?t=386603 Ugandas fotogalerija]
+
+{{Nāciju sadraudzība}}
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Uganda| ]]
+[[Kategorija:Āfrikas valstis]]

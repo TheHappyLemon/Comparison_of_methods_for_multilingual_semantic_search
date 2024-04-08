@@ -1,0 +1,13 @@
+{{TCPIPmodelis}}
+{{OSI protokolu steks}}
+'''TELNET''' ir Interneta protokols, kas pieder pie [[TCP/IP]] protokolu saimes un ko izmanto attālai piekļuvei tīkla resursiem un
+termināļu emulēšanai. Ar vārdu "telnet" bieži vien apzīmē arī programmu, kas implementē šo protokolu.
+
+Šo protokolu bieži lieto, lai nodibinātu sakarus ar ziņojumdēļa sistēmām (BBS) un [[lieldators|lieldatoriem]]. Telnet klients izveido vienkāršu [[TCP]] savienojumu ar attālināto serveri. Sākotnējā variantā telnetu lietoja kā attālinātu datora lietotāja interfeisu, taču mūsdienās to vairs šādiem mērķiem plaši nelieto, jo te nav iespējama pārsūtāmo datu šifrēšana un ir citas būtiskas drošības problēmas. Šādiem mērķiem mūsdienās pārsvarā lieto [[SSH]]. Telnet klientu var lietot arī, lai piekļūtu [[POP3]] pasta severiem (ja nav pieejams cits pasta klients).
+
+Telnet klients ir pieejams gandrīz visām OS, kam ir iebūvēts TCP/IP. Telnet serveri ir mazāk izplatīti. Pēc noklusējuma telnet klients slēdzas pie servera 23 TCP porta.
+
+Telnet ir viens no vecākajiem interneta protokoliem un tas tika standartizēts vēl pirms TCP/IP. Telnet protokolu apraksta vairāki RFC, sākot ar 0015. 1970. un 1980. gadu sākumā drošības problēmas internetā nebija aktuālas.
+
+[[Kategorija:Interneta protokoli]]
+[[Kategorija:Interneta vēsture]]

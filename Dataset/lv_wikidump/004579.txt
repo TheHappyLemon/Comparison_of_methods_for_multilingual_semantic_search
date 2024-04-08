@@ -1,0 +1,4 @@
+<includeonly>''No Vikipēdijas latviešu valodā [[Special:NewPages|jaunākajiem rakstiem]]:''
+{{Vai tu zināji/Sagatave|{{#time:Y-m-d}}|att}}
+{{Vai tu zināji/Sagatave|{{#time:Y-m-d|-1 day}}}}</includeonly><noinclude>
+{{dokumentācija}}</noinclude>

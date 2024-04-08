@@ -1,0 +1,66 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Ibadana
+  | official_name            = ''Ibadan''<br/>''Ìbàdàn''
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = Ibadan with Oluyole statue, Nigeria.jpg
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_seal               = 
+  | pushpin_map              = Nigērija
+  | pushpin_label_position   = 
+  | latd  =  7 | latm  =  23 | lats  = 47  | latNS  = N
+  | longd = 3  | longm =  55 | longs =  0 | longEW = E
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Nigērija}}'''
+  | subdivision_type1        = Štats
+  | subdivision_name1        = [[Ojo štats]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 3080
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 230
+  | population_footnotes     = 
+  | population_total         = 3649000
+  | population_as_of         = 2021
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = [[West Africa Time|WAT]]
+  | utc_offset               = +01:00
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = {{url|http://www.oyostate.gov.ng/}}
+  | footnotes                = 
+}}
+'''Ibadana''' ({{val|en|Ibadan}}, {{val|yo|Ìbàdàn}}) ir pilsēta [[Nigērija|Nigērijā]], trežā lielākā pilsēta valstī pēc iedzīvotāju skaita, bet pēc teritorijas lielākā pilsēta [[Āfrika]]s kontinentā. Atrodas apmēram 100 kilometrus uz ziemeļiem no [[Lagosa]]s un ir svarīgs transporta mezgls. [[Ojo štats|Ojo štata]] galvaspilsēta. Iedzīvotāju vairums - [[jorubi]].
+
+Svarīgs [[kakao]] tirdzniecības centrs. Liels izglītības centrs (šeit atrodas viena no labākajām universitātēm un pētniecības centriem Āfrikā).
+
+Pilsēta radās XIX gadsimta sākumā, kad šeit apmetās jorubi no citām pilsētām. Ap 1829. gadu Ibadana jau bija kļuvusi par spēcīgāko jorubu pilsētu. Tajā laikā no ziemeļiem jorubiem izbruka [[fulani]], tomēr 1840. gadā jorubi apturēja fulanu iebrukumu. 1839. gadā Ibadana kļuva par [[Lielbritānija]]s protektorātu.
+
+== Cilvēki ==
+
+Ibadanā dzimuši:
+
+* [[Sade Adu]] (''Sade Adu'', 1959-) - mūziķe
+* [[Hugo Vīvings]] (angļu: Hugo Wallace Weaving, 1960) - britu aktieris.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+
+[[Kategorija:Nigērijas pilsētas]]

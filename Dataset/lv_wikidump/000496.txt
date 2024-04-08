@@ -1,0 +1,84 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Katmandu
+ | official_name            = काठमाडौं
+ | settlement_type          = galvaspilsēta
+ | image_skyline            = <!-- NOTE: DO NOT add or change images without consensus. -->{{Photomontage
+| photo1a                = Locus3.jpg
+| photo2a                = Ghanta Ghar-Trichandra College-Kathmandu-1591.jpg
+| photo2b                = Tundikhel2020a.jpg
+| photo3a                = Pashupatinath Temple-2020.jpg
+| spacing                = 1
+| color_border           = white
+| color                  = white
+| size                   = 300
+| foot_montage           = Pulksteņa rādītāja virzienā no augšas: Katmandu panorāma, Tundikhels, [[Pašupatinathas templis]], Ghantaghars
+}}
+ | image_caption            = 
+ | image_flag               = Flag_of_Kathmandu,_Nepal.svg
+ | image_seal               =
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Nepāla#Āzija
+ | map_relief = yes
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{NPL}}
+ | subdivision_type1        = Province
+ | subdivision_name1        = [[Bagmatipradeša]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = 723. gadā
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 49.45
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2021. gadā
+ | population_footnotes     = 
+ | population_total         = 1442271
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = [[Nepālas standarta laiks|NST]]
+ | utc_offset               = +5:45
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 27 | latm = 43 | lats =  | latNS = N
+ | longd = 85 | longm = 19 | longs =  | longEW = E
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 1400
+ | website                  = {{URL|www.kathmandu.gov.np}}
+ | footnotes                = 
+}}
+
+'''Katmandu''' ({{val|ne|काठमाडौं}}, {{izrunā|kaʈʰmaɳɖu}}) ir [[Nepāla]]s [[galvaspilsēta]] un lielākā pilsēta valstī. Nepālas politiskais, ekonomiskais, kultūras un tūrisma centrs. 
+
+Pilsēta atrodas valsts centrālajā daļā, [[Katmandu ieleja|Katmandu ielejā]] (kas ir [[UNESCO Pasaules mantojums|UNESCO Pasaules mantojuma]] objekts) 1400 metrus virs jūras līmeņa. 2021. gadā tajā dzīvoja vairāk nekā 840 000 cilvēku, bet Katmandu aglomerācijā - apmēram 3 miljoni cilvēku. 
+
+Pilsētu 723. gadā dibinājis [[Ličavi]] valdnieks [[Gunakamadeva]], no [[Lalitpura]]s pārnesot valsts galvaspilsētu. Attīstījusies kā tirdzniecības centrs senajā ceļā no [[Indija]]s uz [[Ķīna|Ķīnu]]. No 13. līdz 15. gadam - [[Malla]]s dinastijas galvaspilsēta. No 1769. gada - Nepālas valsts galvaspilsēta. Cietusi zemestrīcēs 1833. un 1934. gadā, kā arī [[2015. gada Nepālas zemestrīce|2015. gada Nepālas zemestrīcē]]. Pilsētas senākā apbūve saglabājusies no 17. - 18. gadsimta.
+
+== Atsauces==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Nepāla-aizmetnis}}
+
+{{Āzijas galvaspilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nepālas pilsētas]]
+[[Kategorija:Āzijas galvaspilsētas]]

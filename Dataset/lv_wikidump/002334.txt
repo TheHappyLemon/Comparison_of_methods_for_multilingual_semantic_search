@@ -1,0 +1,24 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#F0F8FF"
+| style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt" | '''[[latviešu valoda|lv]]-1'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | {{gender:{{PAGENAME}}|Šis dalībnieks|Šī dalībniece}} '''[[:Kategorija:User lv|latviešu valodu]]''' prot '''[[:Kategorija:User lv-1|pamatlīmenī]]'''.
+|}</div><includeonly>
+[[Kategorija:User lv|{{PAGENAME}}]]
+[[Kategorija:User lv-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User lv]]
+* [[:Kategorija:User lv-1]]
+
+== Skatīt arī ==
+
+* [[Template:User lv-0|Iepriekšējais līmenis]]
+* [[Template:User lv-2|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|lv-1]]
+
+</noinclude>

@@ -1,0 +1,91 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Konstanca
+ | official_name            = ''Constanţa''
+ | nickname                 = 
+ | motto                    = 
+ | settlement_type          = pilsēta
+ | image_skyline            = 
+ | image_caption            = <!-- attēla paraksts -->
+ | image_flag               = Flag of Constanta, Romania.svg
+ | image_seal               = <!-- lietot, ja ir Emblēma -->
+ | image_shield             = ROU_CT_Constanta_CoA.png
+ | shield_link              = <!-- ģerboņa nosaukums (piem. "Rīgas ģerbonis") -->
+ | flag_link                = <!-- karoga nosaukums (piem. "Rīgas karogs") -->
+ | shield_size              =
+ | image_map                = 
+ | pushpin_map              = Rumānija
+ | map_relief               = <!-- reljefa karte; yes -->
+ | pushpin_image            = <!-- alternatīvā karte; faila nosaukums -->
+ | pushpin_label_position   = <!-- paraksta izvietojums (left/right) -->
+ | map_caption              = 
+ | subdivision_type         = Žudecs
+ | subdivision_type1        = 
+ | subdivision_type2        = 
+ | subdivision_name         = [[Konstancas žudecs]]
+ | subdivision_name1        = 
+ | subdivision_name2        = 
+ | established_title        = Tomis
+ | established_date         = 500. gads p.m.ē.
+ | established_title2       = 
+ | established_date2        = 
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_sq_mi         = 
+ | area_total_km2           = 124.89
+ | area_land_sq_mi          = 
+ | area_land_km2            = 
+ | area_water_sq_mi         = 
+ | area_water_km2           = 
+ | area_urban_sq_mi         = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 1013.5
+ | area_metro_sq_mi         = 
+ | population_as_of         = 2011
+ | population_footnotes     = 
+ | population_total         = 283,872
+ | population_urban         = 
+ | population_metro         = 425,916
+ | population_density_sq_mi = 
+ | population_density_km2   = 2273
+ | timezone                 = 
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 44 | latm = 0 | lats = 10 | latNS = N
+ | longd = 28 | longm = 38 | longs = 0 | longEW = E
+ | postal_code_type         = <!-- Pasta indekss -->
+ | postal_code              = 900xxx
+ | elevation_footnotes      = 
+ | elevation_ft             = 
+ | elevation_m              = 25
+ | website                  = {{URL|http://www.primaria-constanta.ro/}}
+ | footnotes                = 
+}}
+
+'''Konstanca''' ({{val|ro|Constanţa}}) ir pilsēta [[Rumānija]]s dienvidaustrumos pie [[Melnā jūra|Melnās jūras]]. Lielākā [[Dobrudža]]s pilsēta un lielākā Rumānijas ostas pilsēta un kūrorts.
+
+== Vēsture ==
+[[Attēls:Constanţa - Cazino.jpg|Kazino ēka Konstancā|thumb|250px]]
+Pilsēta ar vārdu Tomisa (''Tomis'') ap 500. gadu p. m. ē. dibinājuši [[Senā Grieķija|sengrieķi]]. 29. gadā p. m. ē. reģionu no [[Odrisa]]s atkaroja [[Senā Roma|romieši]].
+
+8. gadā pēc [[Oktaviāns|Oktaviāna]] pavēles Tomisā tika nometināts [[Ovidijs]], kurš 17. gadā šeit mira. Pēc [[Romas impērija]]s šķelšanās tā iekļāvās [[Austrumromas impērija|Bizantijā]]
+
+Vēlāk pilsētu pārsauca par Konstantiju par godu Flāvijai Jūlijai Konstantijai (''Flavia Julia Constantia'') — [[Konstantīns Lielais|Konstantīna Lielā]] pusmāsai.
+
+No 1419. gada — [[Osmaņu impērija]]s sastāvā, bet pēc 1878. gada — [[Rumānija|Rumānijā]].
+
+== Cilvēki ==
+Konstancā dzimuši:
+* [[Andrejs Pavels]] (''Andrei Pavel'', 1974) — tenisists;
+* [[Sebastians Stens]] (''Sebastian Stan'', 1982) — aktieris;
+* [[Simona Halepa]] (''Simona Halep'', 1991) — tenisiste.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Rumānijas pilsētas]]

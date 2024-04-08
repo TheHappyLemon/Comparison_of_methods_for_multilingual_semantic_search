@@ -1,0 +1,50 @@
+{{Medicīniskais brīdinājums}}
+[[Attēls:Spanish_flu_virus_TEM_PHIL_1246_lores.JPG|thumb|235px|[[Spāņu gripa]]s vīruss elektronu mikroskopā]]
+'''Gripa''' ({{val-la|influentia}}, {{val-fr|grippe}}) ir akūta, sevišķi lipīga [[elpošanas orgāni|elpošanas orgānu]] infekcijas [[slimība]], ar ko slimo tikai [[putni]] un [[zīdītāji]]. Gripu izraisa ''[[Orthomyxoviridae]]'' (gripas vīrusu) dzimtas [[RNS vīruss|RNS vīrusi]] un tā izplatās gaisa pilienu veidā ar rīkles [[sekrēts|sekrētu]], ko izdala inficētais organisms. Tieši šo iemeslu dēļ ir ļoti viegli saslimt, esot saskarē ar slimības nēsātāju. Nopietnākos gadījumos gripa var izraisīt [[atipiskā pneimonija|atipisku pneimoniju]], kas var beigties [[nāve|nāvējoši]], it īpaši maziem bērniem un veciem cilvēkiem. Bieži gripa netiek laikus diagnosticēta, jo tā tiek sajaukta ar parastu [[saaukstēšanās|saaukstēšanos]]. Gripu salīdzinājumā ar saaukstēšanos izraisa pavisam citi [[vīruss|vīrusi]] un tā ir daudz bīstamāka slimība.<ref name="Eccles"/> Gripas infekcijas avots ir slims [[cilvēks]]. Gripas vīruss izplatās ļoti strauji. Visvienkāršāk to iegūt, ja kāds slims cilvēks uzšķauda.
+
+Pēc [[starptautiskā slimību klasifikācija|starptautiskās slimību klasifikācijas]]–10 gripai ir piešķirti divi kodi: [[elpošanas sistēmas slimības|J]]10 — gripai ar identificētu vīrusu, un [[elpošanas sistēmas slimības|J]]11 — gripai, ja vīruss nav identificēts.<ref name="PME"/>
+
+== Gripas simptomi un pazīmes ==
+Gripas simptomi sākas pēkšņi, aptuveni divas vai trīs dienas pēc inficēšanās. [[Cilvēks|Cilvēkiem]] slimības parastās pazīmes ir [[saaukstēšanās]] un [[drudzis]], sāpīgs [[kakls]], [[muskuļi|muskuļu]] sāpes, spēcīgas [[galvassāpes]], sauss un rejošs [[klepus]], [[nogurums|vājums]] un vispārējs [[diskomforts]],<ref name="merck"/> kā arī sāpes [[acs ābols|acu ābolos]] un [[kauli|kaulos]].<ref name="PME"/> Dažos gadījumos ādā vai gļotādā var būt [[asinsizplūdums|asinsizplūdumi]] un/vai [[deguna asiņošana]].<ref name="PME"/>
+
+== Gripas vīrusu raksturojums ==
+[[Attēls:Influenza nomenclature lv.svg|thumbnail|200px|Gripas vīrusa nomenklatūras diagramma]]
+Gripas vīrusus iedala A tipa, B tipa un C tipa gripas vīrusos.
+
+Pie [[A tipa gripas vīruss|A tipa]] pieder vīrusi, kas izraisīja [[spāņu gripa|spāņu gripu]] (1918), [[cūku gripa|cūku gripu]] (2009, abi H1N1), [[Āzijas gripa|Āzijas gripu]] (1957, H2N2), [[Honkongas gripa|Honkongas gripu]] (1968, H3N2) un [[putnu gripa|putnu gripu]] (2005, H5N1). A tipa vīrusi izraisa ļoti smagas saslimšanas, kā arī [[epidēmija]]s un pat [[pandēmija]]s. Ar šā tipa vīrusiem var slimot ne tikai cilvēks, bet arī citas [[zīdītāji|zīdītāju]] un [[putni|putnu]] sugas.
+
+B tipa vīrusi galvenokārt skar tikai cilvēkus. Tie ir retāk sastopami nekā A tipa vīrusi, kā arī lēnāk attīstās.
+
+C tipa vīrusi līdzīgi kā B tipa skar galvenokārt cilvēkus, un arī ir mazāk izplatīti nekā A tipa vīrusi. C tipa vīrusi izraisa vieglu saslimšanu.
+
+== Ārstēšana ==
+Ārstēšana parasti ir simptomātiska. Jāievēro gultas režīms un jāuzņem pietiekami daudz šķidruma. Temperatūras mazināšanai var lietot [[paracetamols|paracetamolu]], taču jāuzmanās nepārsniegt rekomendētās devas. Jāatturas no [[aspirīns|aspirīna]] lietošanas, it sevišķi bērniem, jo tas var izraisīt [[nieres|nieru]] un [[galvas smadzenes|smadzeņu]] bojājumus. [[Klepus]] mazināšanai lieto [[kodeīns|kodeīnu]] vai [[deksmetorfāns|deksmetorfānu]] saturošus pretklepus līdzekļus; ja parādās [[krēpas]], šo līdzekļu vietā jālieto atkrēpošanas līdzekļi. 
+
+Ja slimnieks ir riska grupā (piemēram, vecumā virs 65 gadiem vai ar hroniskām slimībām), divu dienu laikā kopš saslimšanas jāveic pretvīrusu terapija ar [[oseltamivirs|oseltamiviru]] (''Tamiflu'') vai [[zanamavirs|zanamaviru]]. [[Remantadīns|Remantadīnu]] pašlaik nelieto gripas ārstēšanā un profilaksē, jo mūsdienās cirkulējošie gripas vīrusi ir nejutīgi pret to.<ref>[http://arsts.lv/jaunumi/ilze-eksteina-gripa Ilze Ekšteina: Gripa]</ref> 
+
+Nedrīkst mēģināt gripas gadījumā lietot [[antibiotikas]] — tās principā neiedarbojas uz vīrusiem. Antibiotikas izmanto tikai bakteriālu komplikāciju gadījumos, kad tās izrakstījis ārsts.
+
+== Profilakse ==
+Efektīvākais un lētākais pretgripas profilakses veids ir [[vakcinācija]]. Vakcinācija jāveic pirms gripas epidēmijas sākuma, to ieteicams veikt novembrī vai decembrī. Imunitāte izveidojas divu nedēļu laikā. Sevišķi iesakāma vakcinācija ir riska grupu pacientiem vai tiem, kam paredzētas plānveida operācijas, kā arī grūtniecēm. Riska grupu iedzīvotāji, kas kontaktējušies ar gripas slimnieku, profilaksei var lietot oseltamivira vai zanamavira pretvīrusu preparātus. 
+
+Latvija pieder pie valstīm, kur iedzīvotāji ļoti maz vakcinējas pret gripu sabiedrībā valdošās nepamatoti noraidošās attieksmes dēļ.<ref>[http://arsts.lv/jaunumi/nepieludzami-pietuvojusies-gripas-sezona Nepielūdzami pietuvojusies gripas sezona]</ref>
+
+== Atsauces un piezīmes ==
+{{atsauces|refs=
+<ref name="Eccles">{{laikraksta atsauce |last=Eccles |first=R |title=Understanding the symptoms of the common cold and influenza |journal=Lancet Infect Dis |volume=5 |issue=11 |pages=718–25 |year=2005 |pmid=16253889 |doi=10.1016/S1473-3099(05)70270-X}}</ref>
+
+<ref name="PME">{{tīmekļa atsauce | url= http://www.neslimo.lv/pme/?name=gripa | title= Gripa <nowiki>|</nowiki> Medicīnas termins | publisher= [[Populārā medicīnas enciklopēdija]] (neslimo.lv) | accessdate= 2014. gada 31. maijā | language= latviski}}</ref>
+
+<ref name="merck">{{tīmekļa atsauce | url = http://www.merck.com/mmhe/sec17/ch198/ch198d.html | title = Influenza: Viral Infections: Merck Manual Home Edition | publisher = merck.com | accessdate = 2008. gada 15. martā | language = angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20081010181034/http://www.gripa.lv/ GRIPA.LV] {{lv ikona}}
+* [http://www.neslimo.lv/pme/?name=gripa Gripa | Medicīnas termins] {{lv ikona}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vīrusu izraisītās slimības]]

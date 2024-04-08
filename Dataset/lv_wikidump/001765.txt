@@ -1,0 +1,52 @@
+{{Apdzīvotas vietas infokaste
+| name = Varēna
+| image_skyline =Varena, Lithuania, 13 Sept. 2008.jpg
+| imagesize = 300px
+| image_caption = Varēnas iela
+| image_flag = 
+| image_shield = Varėna COA.svg
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Varēnas rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1946
+| area_total_km2 = 11.7
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 8187
+| population_density_km2 = auto
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 12 
+| lats = 57 
+| latNS = N 
+| longd = 24 
+| longm = 34 
+| longs = 35
+| longEW = E
+| elevation_m = 127
+| website = http://www.varena.lt}}
+
+'''Varēna''' ({{val|lt|Varėna}}) ir pilsēta [[Varēnas rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s dienvidos netālu no robežas ar [[Baltkrievija|Baltkrieviju]]. Izveidojusies 19. gadsimta otrajā pusē pie [[Dzelzceļa līnija Sanktpēterburga—Varšava|Varšavas-Sanktpēterburgas dzelzceļa]]. 
+
+Pēc 1920. gada atradās Polijas okupētā [[Viļņas apgabals|Viļņas apgabala]] teritorijā, pēc [[Otrais pasaules karš|Otrā pasaules kara]] 1946. gadā 2000 poļu no Varēnas tika piespiesti pārcelties uz Poliju.
+
+== Cilvēki ==
+Uz ziemeļiem no pilsētas, [[Senoji Varēna|Senoji Varēnā]] 1875. gadā dzimis lietuviešu komponists un gleznotājs [[Mikalojs Konstantīns Čurļonis]] (''Mikalojus Konstantinas Čiurlionis'').
+
+== Ārējās saites ==
+* {{commonscat-inline|Varėna|Varēna}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+
+[[Kategorija:Lietuvas pilsētas]]
+[[Kategorija:Alītas apriņķis]]

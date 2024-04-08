@@ -1,0 +1,41 @@
+{{ezera infokaste
+|ezers=Greitbērleiks
+|attēls=Great_Bear_Lake.jpg
+|paraksts=Ezera satelītattēls ar mežu ugunsgrēku radītiem dūmiem
+|map = Kanāda
+| plat_d=66 | plat_m=0 | plat_s=0 | plat_NS=N 
+| gar_d=121 | gar_m=0 | gar_s=0 | gar_EW=W
+|vieta={{CAN}}
+|vieta2 = [[Attēls:Flag of the Northwest Territories.svg|22px|border]] [[Ziemeļrietumu Teritorijas]]
+|platība=31 153
+|garums=
+|Vid_dziļums=72
+|Max_dziļums=446
+|tilpums=2236
+|augstums_vjl=186
+|izteka=[[Greitbēra]]
+|baseins=114 717
+|valstis=
+|salas=
+|pilsētas=[[Deline]]
+}}
+'''Greitbērleiks''' (arī '''Lielais Lāču ezers'''; {{val-en|Great Bear Lake}}, {{val-fr|Grand lac de l'Ours}}, {{val-den|Sahtú}}) ir liels ezers [[Kanāda|Kanādā]]. Lielākais Kanādas teritorijā pilnībā esošais ezers, astotais lielākais pasaulē. Ezers atrodas aiz polārā loka. Krasta līnijas garums - 2 719 km. No ezera iztek [[Greitbēra]]s upe, kas ietek vienā no lielākajām [[Ziemeļamerika]]s upēm — [[Makenzi]]. Pie ezera nav pilsētu, tikai divi ciemati.
+
+Ezers veidojies, [[ledājs|ledājam]] erodējot lielas pirmsleduslaikmeta upju ielejas. Vidējā gada temperatūra pie ezera ir {{nobr|—7.2&nbsp;°C}}. Ūdens apmaiņas laiks — 124 gadi.<ref>{{Tīmekļa atsauce |url=http://www.ilec.or.jp/database/nam/nam-30.html |title=World Lakes Database |access-date={{dat|2011|06|05||bez}} |archiveurl=https://web.archive.org/web/20110605082305/http://www.ilec.or.jp/database/nam/nam-30.html |archivedate={{dat|2011|06|05||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Skatīt arī ==
+* [[Pasaules lielāko ezeru saraksts]]
+* [[Pasaules lielākie ezeri pēc tilpuma]]
+
+{{Kanāda-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kanādas ezeri]]

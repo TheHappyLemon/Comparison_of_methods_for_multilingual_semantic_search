@@ -1,0 +1,71 @@
+{| border="1" cellspacing="0" cellpadding="2" align="right"
+|+ <big><big>'''Nereīda'''</big></big>
+|-
+| align="center" bgcolor="#000000" colspan="2" | [[Attēls:Nereid-Voyager2.jpg|200px|Nereīda Voyager 2 attēls]]
+|-
+!bgcolor="#ffffff" colspan="2"|<sup>«[[Voyager-2]]» attēls</sup>
+|-
+! bgcolor="#ffc0c0" colspan="2" | Orbitālie parametri
+|-
+! align="left" | [[Apocentrs]]
+|  9,623,700 km.
+|-
+! align="left" | [[Pericentrs]] 
+|  1,353,600 km.
+|-
+! align="left" | [[Ekscentrisms]]<br />(izstiepums)
+| 0.7512 (ļoti izstiepta)
+|-
+! align="left" | Orbitālais periods
+| 360.1362 dienas
+|-
+! align="left" | Orbītas slīpums
+| 32.55°  (pret [[ekvators|ekvatoru]])<br />5.07° (pret [[ekliptika|ekliptiku]])
+|-
+! bgcolor="#ffc0c0" colspan="2" | Fiziskie parametri
+|-
+! align="left" | Diametrs
+| 340 km.
+|-
+! align="left" | [[Masa]]
+| 3,1x10<sup>19</sup> kg.
+|-
+! align="left" | [[Blīvums]]
+| 1,5 g/cm<sup>3</sup>
+|-
+! align="left" | Brīvās krišanas<br />paātrinājums
+| 0,07 м/sek.<sup>2</sup>
+|-
+! align="left" | Rotācijas periods<br />
+| 11 h 31 min (0.48 dienas)
+|-
+! align="left" | Griešanās ass<br />slīpums
+| 7,232°
+|-
+! align="left" | [[Albedo]]<br />(virsmas<br />atstarošanas koef.)
+| 0.14
+|-
+! align="left" | Virsmas [[temperatūra]]
+| ~51 К (−223°С)
+|-
+! align="left" | [[Atmosfēra]]
+| nav.
+|}
+
+'''Nereīda''' ([[grieķu valoda|gr.]] Νηρηΐδα) ir trešais pēc lieluma [[Neptūna pavadoņi|Neptūna pavadonis]] (ap 340 km [[diametrs|diametrā]]).
+
+== Atklāšana un nosaukums ==
+Nereīdu 1949. gada 1. maijā atklāja astronoms [[Džerards Koipers]]. Tas ir otrais no Zemes atklātais Neptūna pavadonis (pēc [[Tritons (pavadonis)|Tritona]]). Pārējie pavadoņi tika atklāti no [[Starpplanētu zondes|kosmiskām zondēm]]. Pavadonim ir dots sengrieķu mitoloģiskās personas vārds (jūras nimfa, Nereja meita).
+
+== Orbītas parametri ==
+Nereīda griežas ap savu asi ar periodu 11 stundas un 31 minūte. Tās [[orbīta]] ir ekscentriskākā no visiem [[Saules sistēma]]s [[dabiskais pavadonis|pavadoņi]]em (0,76). Attālums līdz [[Neptūns (planēta)|Neptūnam]] mainās no 1 353 600 līdz 9 623 700 km. Apriņķošanas periods 360 dienas un 3 stundas. Pavadoņa izstieptā orbīta liek domāt, ka Nereīda ir ar Neptūna [[gravitācijas lauks|gravitācijas lauku]] satverts [[asteroīds]] vai arī kāds [[Koipera josla]]s objekts, vai arī, ka tās orbītu iespaidoja Tritona, lielākā Neptūna pavadoņa, satveršana Neptūna gravitācijas laukā. 
+
+== Pētījumi ar starpplanētu zondēm ==
+Pagaidām par šo pavadoni ir samērā maz informācijas. Kad 1989. gadā ''[[Voyager-2]]'' šķērsoja Neptūna orbītu, Nereīda atradās pārāk tālu no starpplanētu zondes, un atsūtītajos attēlos tā redzama kā neregulāras formas objekts bez pietiekošas izšķirtspējas saskatīt kaut kādas virsmas detaļas.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Saules sistēma|expanded}}
+[[Kategorija:Neptūna pavadoņi]]

@@ -1,0 +1,74 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Orhūsa
+ | official_name            = ''Aarhus''
+ | nickname                 = 
+ | motto                    = 
+ | settlement_type          = pilsēta
+ | image_skyline            = Aarhus cafes and bicycles.jpg
+ | image_caption            = 
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              =
+ | image_map                =
+ | pushpin_map              = Dānija
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_type1        = Reģions
+ | subdivision_type2        = 
+ | subdivision_name         = {{karogs|Dānija}}
+ | subdivision_name1        = [[Vidusjitlandes reģions]]
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = Vikingu laikos
+ | established_title2       = 
+ | established_date2        = 
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 91
+ | area_metro_km2           = 9997
+ | population_as_of         = 2011
+ | population_total         = 
+ | population_urban         = 252107
+ | population_metro         = 1245046
+ | population_density_km2   = 
+ | timezone                 = CET
+ | utc_offset               = +1
+ | timezone_DST             = CEST
+ | utc_offset_DST           = +2
+ | latd =56  | latm =09  | lats =  | latNS =N 
+ | longd =10  | longm =13  | longs =  | longEW =E 
+ | postal_code_type         = Pasta kods
+ | postal_code              = 8000, 8200, 8210
+ | elevation_m              = 0
+ | website                  = {{URL|http://www.aarhus.dk/}}
+}}
+'''Orhūsa'''<ref>{{Grāmatas atsauce |title=Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā |author=Snorre Karkonens-Svensons |authorlink=Snorre Karkonens-Svensons |year=2003 |publisher=[[Norden AB]] |location=Rīga |page=99 |isbn=978-9-98-471309-0}}</ref> ({{val|da|Aarhus}}, no 1948. gada līdz 2010. gada 31. decembrim — ''Århus'', {{IPA2|[[Media:Da-Århus.oga|ˈɒːhuːˀs]]}}) ir ostas pilsēta [[Dānija|Dānijā]], [[Jitlandes pussala]]s austrumu krastā. Otrā lielākā pilsēta Dānijā, [[Orhūsas āmte]]s centrs. Orhūsa 2017. gadā bija viena no divām [[Eiropas kultūras galvaspilsēta|Eiropas kultūras galvaspilsētām]].
+
+Apmetne Orhūsas vietā bijusi jau [[Vikingi|vikingu]] laikos. 1201. gadā pilsētā tika likts katedrāles pamatakmens. Orhūsa visus gadsimtus attīstījusies kā ostas pilsēta. Pilsētas strauja attīstība sākās 19. gadsimta vidū, kad Orhūsu sasniedza dzelzceļa līnija.
+
+== Pilsētā dzimuši ==
+* [[Makss Heindels]] (''Max Heindel''; 1865—1919) — mistiķis
+* [[Ole Rēmers]] (1644—1710) — astronoms
+* [[Bjarne Stroustrups]] (''Bjarne Stroustrup''; 1950) — programmētājs
+* [[Ole Vorms]] (''Ole Worm''; 1588—1654) — ārsts un kolekcionārs
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Dānija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Dānijas pilsētas]]
+[[Kategorija:Vidusjitlandes reģions]]

@@ -1,0 +1,41 @@
+{{Programmatūras infokaste
+| name                   = Opera
+| logo                   = [[Attēls:Opera 2015 icon.svg|50px]]
+| screenshot             = [[Attēls:Opera 12.02.png|250px]]
+| caption                = Opera 9.60 beta,<ref>{{Tīmekļa atsauce |url=http://www.opera.com/products/desktop/next/ |title=Opera 9.60 beta |archiveurl=https://archive.today/20120909/http://www.opera.com/products/desktop/next/ |archivedate=2012-09-09 |access-date=2008-09-24 }}</ref> lietojot ''[[Windows XP]]'' operētājsistēmu
+| developer              = [[Opera Software]]
+| latest_release_version = 12.12
+| latest_release_date    = (2012. gada 18. decembris)
+| operating_system       = Multiplatformu
+| genre                  = [[Tīmekļa pārlūkprogramma|Interneta pārlūks]]
+| license                = Visas tiesības tiek paturētas
+| website                = [http://www.opera.com/ www.opera.com]
+}}
+
+'''''Opera''''' ir [[tīmekļa pārlūkprogramma|interneta pārlūkprogramma]], kurā ir iekļautas arī [[e-pasta klients|e-pasta]], [[tērzētava|tērzēšanas]] un ''[[BitTorrent]]'' klientprogrammas, lejupielāžu un paroļu pārvaldnieki. Tā ir [[aizklātā koda programmatūra|aizklātā koda]], [[bezmaksas programmatūra]]. Pārlūkprogrammu izstrādāja [[Norvēģija]]s uzņēmums ''[[Opera Software]]'', bet kopš 2016. gada pieder [[Ķīna]]s konsorcijam.
+
+''Opera'' ir pieejama vairākām [[operētājsistēma|operētājsistēmām]], tai skaitā ''[[Windows]]'', ''[[Mac OS]]'', ''[[Linux]]'' un citām ''[[Unix]]'' tipa operētājsistēmām. Lietošanai mobilajās ierīcēs ir izstrādātas pārlūkprogrammas versijas ''Opera Mobile'', ''Opera Mini'' un ''Opera Coast''.
+
+== Vēsture ==
+Pārlūkprogramma ''Opera'' tika izveidota 1994. gadā. Sākotnēji tas bija pētniecības projekts [[Norvēģija]]s lielākajā [[telekomunikācija|telekomunikāciju]] uzņēmumā ''[[Telenor]]''. 1995. gadā dibināts uzņēmums ''[[Opera Software|Opera Software ASA]]'', kurš pārņēma kontroli pār šo pārlūkprogrammu.<ref name="Milestones">{{Tīmekļa atsauce | url = http://www.opera.com/company/about/milestones/ | title = Milestones | publisher = [[Opera Software]] | accessdate = 2007-10-30 | language = angliski | archiveurl = https://archive.today/20120909/http://www.opera.com/company/about/milestones/ | archivedate = 2012-09-09 }}</ref>
+
+Pārlūkprogrammas ''Opera'' pirmā publiski pieejamā versija 2.0 iznāca 1996. gadā,<ref name="Affiliated">{{Tīmekļa atsauce | url = http://www.foxkeh.com/downloads/history/history-original.pdf | format = [[Portatīvā dokumenta formāts|PDF]] | title = Affiliated Organization of Firefox and Mozilla | publisher = Mozilla Japan | year = 2006 | accessdate = 2007-10-24 | language = angliski}}</ref> kuru bija iespējams darbināt tikai ''[[Microsoft Windows]]'' vidē.<ref>{{Tīmekļa atsauce | url = http://www.opera.com/company/about/ | title = About Opera | publisher = [[Opera Software]] | accessdate = 2007-10-24 | language = angliski}}</ref>
+2000. gadā izlaista versija 4.0, kura varēja darboties uz dažādām platformām.
+
+2016. gada 18. jūlijā ''Opera'' pārlūkprogrammu bizness, snieguma un privātuma lietotnes, tās zīmolu, ka arī akcijas kopuzņēmumā Ķīnā par 600 miljoniem ASV dolāru pārdots Ķīnas konsorcijam, kurā apvienojies investīciju fonds ''Golden Brick Silk Road'', uzņēmums ''[[Qihoo 360]]'' un citi investori.
+
+== Īpašības ==
+Pārlūkam ''Opera'' ir viegli pielāgojama [[lietotāja saskarne]] - lietotājs ātri var nomainīt veidu, kā tiek parādīta lapa, ka arī konfigurēt rīkjoslas, paneļus un pogas atbilstoši savām vajadzībām, tāpat pieejamas vairākas pārlūka apdares. Pieejama balss vadība un priekšālasīšana (kuru gan nepieciešams uzstādīt atsevišķi), iespējams izveidot piezīmes, automātiski tiek saglabātas aizvērtās lapas, kā arī iespējams saglabāt vairākas lapas kā sesiju. ''Opera'' ir pieejami tā saucamie "peles žesti", kas ļauj kontrolēt programmas darbību gandrīz tikai ar [[datorpele|peles]] palīdzību, tāpat programmu var vadīt, lietojot gandrīz tikai [[tastatūra|tastatūru]], lietotājam iespējams ieprogrammēt peles žestus un tastatūras taustiņu kombinācijas. Aplūkojamās lapas izmēru vajadzības gadījumā iespējams palielināt vai samazināt. Aizsardzības nolūkiem pieejami uznirstošo logu un krāpniecisku lapu satura bloķētāji. Atsevišķās lapās, kuru saturs konfigurēts noteiktiem pārlūkiem, Opera var "maskēties" par citu pārlūku.
+
+== Atsauces un piezīmes ==
+{{commonscat|Opera (web browser)|Opera}}
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+{{TimeklaParluki}}
+{{E-pasts navig}}
+
+[[Kategorija:E-pasta klienti]]
+[[Kategorija:Tīmekļa pārlūkprogrammas]]
+[[Kategorija:Telenor]]

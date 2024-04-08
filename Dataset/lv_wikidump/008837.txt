@@ -1,0 +1,107 @@
+'''SQL''' ({{IPA2|ˈɛsˈkjuˈɛl}}; no {{val|en|Structured Query Language}} — 'strukturēto vaicājumu valoda') ir [[vaicājumu valoda]], kas paredzēta [[dati|datu]] manipulēšanai relāciju [[Datu bāzu pārvaldības sistēma|datubāžu pārvaldības sistēmās]]. Tas ir [[ANSI]]/[[ISO]] standarts.
+
+SQL atšķiras no standarta [[Procedurālās programmēšanas valodas|procedurālajām programmēšanas valodām]] ar to, ka tā darbojas ar ierakstu kopām, nevis apstrādā ierakstu pa ierakstam. 
+Daudzi [[Datu bāzu pārvaldības sistēma|datu bāzu pārvaldības sistēmu]] izstrādātāji ir ieviesuši savās DBPS arī procedurālos papildinājumus un speciālas valodas, piemēram, [[Oracle datu bāze|Oracle]] — [[PL/SQL]], [[Microsoft]] un [[Sybase]] — [[T-SQL]], [[PostgreSQL]] — [[PL/pgSQL]].
+
+Tomēr, SQL valodai pievienojot papildu paplašinājumus, tā var iegūt arī [[Procedurālās programmēšanas valodas|procedurālo programmēšanas valodu]] funkcionalitāti, piemēram, plūsmas kontroles konstrukcijas.
+
+SQL valodai nereti pretstatīta tiek [[NoSQL (vaicājumu valoda)|NoSQL]] valoda.
+
+== Standarti ==
+SQL standartu revīzijas
+{| class=wikitable
+! Gads !! Nosaukums !! Cits nosaukums !! Komentāri
+|- valign=top
+| [[1986]] || [[SQL-87|SQL-86]] || SQL-87 || Pirmoreiz publicējis [[ANSI]] [[1986]]. gadā. [[ISO]] ratificējusi [[1987]]. gadā.
+|- valign=top
+| [[1989]] || [[SQL-89]] || FIPS 127-1 || Nelielas izmaiņas
+|- valign=top
+| [[1992]] || [[:en:SQL-92|SQL-92]]|| SQL2 || Lielākas izmaiņas (ISO 9075).
+|- valign=top
+| [[1999]] || [[:en:SQL:1999|SQL:1999]]|| SQL3 || Pievienotas regulārās izteiksmes, rekursīvie vaicājumi, trigeri, neskalārie tipi un dažas objektorinetētās īpašības.
+|- valign=top
+| [[2003. gads|2003]] || [[:en:SQL:2003|SQL:2003]]||&nbsp; || Ar XML saistīti jauninājumi, ''loga funkcijas'', standartizētas secības un kolonas ar aotoģenerētām vērtībām.
+|- valign=top
+| [[2006. gads|2006]] || [[:en:SQL:2006|SQL:2006]]||&nbsp; || Palielināta funkcionalitāte, parādījās iespēja izmantot [[XQuery]] SQL pieprasījumos.
+|- valign=top
+| [[2008. gads|2008]] || [[:en:SQL:2008|SQL:2008]]||&nbsp; || Uzlabotas logu funkcijas.
+|-
+|[[2011. gads|2011]]
+|SQL:[[:en:SQL:2011|2011]]
+|
+|Pievieno laika datus (PERIOD FOR). Papildinājumi loga funkcijām un FETCH priekšrakstam. <ref>{{Tīmekļa atsauce|url=https://sigmodrecord.org/publications/sigmodRecord/1203/pdfs/10.industry.zemke.pdf|title=Fred Zemke (2012). "What's new in SQL:2011" (PDF). Oracle Corporation.|last=|first=|access-date=|date=}}</ref>
+|-
+|[[2016. gads|2016]]
+|SQL:[[:en:SQL:2016|2016]]
+|
+|Pievieno rindu modeļu pieskaņošanu, polimorfās tabulas funkcijas, [[JSON]].
+|-
+|[[2019. gads|2019]]
+|SQL:2019
+|
+|Pievieno daudzdimensiju masīvus (MDarray type and operators).
+|}
+
+SQL standarti nav brīvi pieejami. SQL:2003 var iegadāties ISO vai ANSI.
+Vairums [[Datu bāzu pārvaldības sistēma|datu bāzu pārvaldības sistēmu]] izstrādātāji ir ieviesuši savus papildinājumus un modifikācijas, kas neatbilst standartam.
+
+== Valodas elementi ==
+SQL valoda ir iedalīta vairākos valodu elementos:
+* ''Nosacījumi'', kas ir sastāvdaļa no paziņojumiem un vaicājumiem. (Atsevišķos gadījumos nav obligāti.)
+* ''Izteiksmēs'', kas var radīt skalāras vērtības vai arī tabulas, kas sastāv no datu kolonām un rindām.
+* ''Predikātos'', kas ir nosacījumi (komplementārā loģika un Būla patiesību vērtības), kuri ietekmē ne tikai pārskatu un vaicājumu rezultātus, bet arī programmas plūsmu.
+* ''Vaicājumos'', kuri atgriež datus atkarībā no sniegtā kritērija.
+* ''Priekšraksti'', kurām var būt noturīga ietekme uz shēmām un datiem, vai arī kuras var kontrolēt darījumus, programmas plūsmu, savienojumus, sesijas un diagnostiku.
+** SQL komandas parasti satur semikolu (";") kā komandas terminatoru, kaut arī tas nav vajadzīgs visām platformām.
+* Nenozīmīgas atstarpes SQL komandās un vaicājumos tiek ignorētas, lai atvieglotu SQL koda pārskatāmību.
+
+=== Vaicājumi ===
+Visbiežākā operācija SQL ir vaicājums, ko veic ar deklaratīvo paziņojumu [[Select (SQL)|SELECT]]. SELECT atgriež datus no vienas vai vairākām tabulām vai vienādībām. Standarta SELECT pieprasījumiem nav ilgstošu seku uz datubāzi, bet tās var būt, izmantojot nestandarta SELECT paveidus, piemēram, SELECT INTO.
+
+Vaicājumi atļauj lietotājam aprakstīt vēlamos datus, atstājot datu bāzu vadības sistēmu (database management system (DBMS)) atbildīgu par plānošanu, optimizēšanu, un fizisko darbību veikšanu, kas ir nepieciešams, lai saņemtu rezultātu.
+
+Vaicājums ietver sarakstu ar kolonnām, kas būs ietvertas rezultātā tūlīt pēc SELECT atslēgvārda. "Zvaigznīte" ("*") var tikt lietota lai norādītu, ka vaicājumam jāatgriež visas kolonnas vaicātajās tabulās. SELECT ir vissarežģītākais priekšraksts SQL valodā, ar izvēles atslēgvārdiem un nosacījumiem, kas ietver:
+
+* Nosacījums FROM — norāda tabulu/tabulas, no kuras dati jāiegūst. Nosacījums FROM var iekļaut izvēles apakšnosacījumu JOIN, lai precizētu noteikumus tabulu savienošanai.
+* Nosacījums WHERE — ietver salīdzinājuma predikātu, kas ierobežo atgrieztās rindas no vaicājuma. Nosacījums WHERE likvidē visas rindas no rezultātu kopas, kuras salīdzinājuma predikāts nenovērtē, kā "patiesas" ("True").
+* Nosacījums GROUP BY — tiek bieži lietots kopā ar SQL apkopšanas funkcijām, vai arī lai atbrīvotos no dublētām rindām rezultātu kopā. Nosacījums WHERE tiek piemērots pirms nosacījuma GROUP BY.
+* Nosacījums HAVING — ietver predikātu, kas tiek lietots lai filtrētu rindas, kas izriet no nosacījuma GROUP BY. Tāpēc, ka tas darbojas uz nosacījuma GROUP BY rezultātiem, apkopošanas funkcijas var tikt lietotas, izmantojot nosacījuma HAVING predikātu.
+* Nosacījums ORDER BY — identificē, kuras kolonnas tiek lietotas, lai sakārtotu iegūtos datus, un kādā secībā tie būtu jākārto (augošā vai dilstošā). Bez ORDER BY nosacījuma rindu secība, kuru atgriež SQL vaicājums ir nenoteikta.
+
+SQL vaicājumus var iedalīt 4 daļās:
+* Datu manipulēšanas vaicājumi ([[Select (SQL)|SELECT]], [[Insert (SQL)|INSERT]], [[Update (SQL)|UPDATE]], [[Delete (SQL)|DELETE]], [[Merge (SQL)|MERGE]])
+* Datu definēšanas vaicājumi (CREATE, DROP, TRUNCATE, ALTER)
+* Datu kontroles vaicājumi (GRANT, REVOKE)
+Transakciju kontroles vaicājumi (BEGIN WORK vai START TRANSACTION, COMMIT, ROLLBACK).
+
+=== Alternatīvas ===
+Būtu jānošķir alternatīvas SQL kā valodai un alternatīvas pašam relāciju modelim. Tālāk ir piedāvātas SQL valodas relāciju alternatīvas. Skatiet navigācijas datu bāzi un NoSQL, lai atrastu alternatīvas relāciju modelim.
+
+* .QL:[https://en.wikipedia.org/wiki/.QL] objektorientēts Datalogs
+* [[:en:4th_Dimension_(software)|4D Query Language]] (4D QL)
+* [[:en:Datalog|Datalog]]: kritiķi norāda, ka Datalog ir divas priekšrocības salīdzinājumā ar SQL: tam ir tīrāka semantika, kas atvieglo programmu izpratni un uzturēšanu, un tas ir izteiksmīgāks, īpaši attiecībā uz rekursīviem vaicājumiem.
+* [[:en:HTSQL|HTSQL]]: Uz URL balstīta vaicājuma metode
+* [[:en:IBM_Business_System_12|IBM Business System 12]] (IBM BS12): viena no pirmajām pilnībā relāciju datubāzu pārvaldības sistēmām, kas ieviesta 1982. gadā
+* [[:en:ISBL|ISBL]]
+* [[:en:JOOQ_Object_Oriented_Querying|jOOQ]]: SQL ieviests Java valodā kā iekšējam domēnam raksturīga valoda
+* Java noturības vaicājuma valoda ([[:en:Jakarta_Persistence_Query_Language|JPQL]]): vaicājuma valoda, kuru izmanto Java noturības API un hibernācijas noturības bibliotēka
+* [[:en:Jakarta_Persistence_Query_Language|Java Persistence Query Language]] (JPQL): Vaicājuma valoda, kuru izmanto Java Persistence API un [[:en:Hibernate_(framework)|Hibernate]] [[bibliotēka]]
+* [[:en:JavaScript|JavaScript]]: [[:en:MongoDB|MongoDB]] īsteno vaicājuma valodu JavaScript API.
+* LINQ: Izpilda SQL priekšrakstus, kas rakstīti kā valodas konstrukcijas, lai vaicātu kolekcijas tieši no iekšpuses .[[:en:.NET_Framework|Net]] code.
+* [[:en:Object_Query_Language|Object Query Language]]
+* QBE ([[:en:Query_by_Example|Query By Example]]) izveidoja Moshè Zloof, IBM 1977
+* [[:en:QUEL_query_languages|Quel]] ieviesa 1974. gada Kalifornijas Universitātē, Berklijā, sistēmas Ingres izveides projektā
+* [[:en:D_(data_language_specification)#Tutorial_D|Tutorial D]]
+* [[:en:XQuery|XQuery]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://datubazes.wordpress.com/2007/10/11/kas-ir-sql/ "Kas ir SQL"]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:SQL]]

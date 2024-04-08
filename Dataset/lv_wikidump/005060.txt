@@ -1,0 +1,17 @@
+'''Fāžu likums''' apraksta sakarību starp iespējamo brīvības pakāpju skaitu (''B''), [[fāze (termodinamika)|fāžu]] skaitu (''F'') un komponentu skaitu (''K''), līdzsvarā esošā [[Noslēgta sistēma|slēgtā sistēmā]].
+:<math>B=K-F+2 \ </math>
+Tas nozīmē, ka līdzsvara apstākļos [[Gibsa enerģija]] visām fāzēm ir vienāda. Sistēmas mainīgie parametri var būt [[temperatūra]] un [[spiediens]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Ķīmija-aizmetnis}}
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Fizikas likumi]]
+[[Kategorija:Fizikālā ķīmija]]
+[[Kategorija:Termodinamika]]
+[[Kategorija:Fāžu pārejas]]

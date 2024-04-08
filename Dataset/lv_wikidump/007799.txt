@@ -1,0 +1,90 @@
+{{Latvijas novada infokaste
+| nosaukums         = Gārsenes pagasts
+| karte             = Gārsenes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Gārsenes pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Gārsenes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Gārsene
+| platība           = 68,05
+| iedzīvotāji       = 904<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 904 / 68.05 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Gārsenes pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām tā dienvidos [[Lietuva]]s pierobežā. Robežojas ar [[Lietuva|Lietuvu]], sava novada [[Aknīste]]s pilsētu un [[Aknīstes pagasts|Aknīstes]] un [[Asares pagasts|Asares]] pagastiem, kā arī [[Augšdaugavas novads|Augšdaugavas novada]] [[Prodes pagasts|Prodes pagastu]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Dienvidsusēja]], [[Dobe (upe)|Dobe]], [[Elsīte (upe)|Elsīte]], [[Indānu upīte]].
+
+== Vēsture ==
+Gārsenes pagasts izveidots [[Gārsenes muiža]]s (''Gut Garßen'') teritorijā. 1889. gadā tam pievienoja [[Asares pagasts|Asares pagastu]], kuru 1918. gadā atdalīja atsevišķā pagastā. 1935. gadā [[Ilūkstes apriņķis|Ilūkstes apriņķa]] Gārsenes pagasta platība bija 65,3 km² un tajā dzīvoja 1105 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā Gārsenes pagastā izveidoja Gārsenes un [[Vecumu ciems (Aknīstes rajons)|Vecumu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Gārsenes ciems''' ietilpis [[Aknīstes rajons|Aknīstes]] (1949-1956), [[Ilūkstes rajons|Ilūkstes]] (1956-1967) un [[Jēkabpils rajons|Jēkabpils]] (pēc 1967. g.) rajonos. 1954. gadā Gārsenes ciemam pievienoja likvidēto Vecumu ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Gārsenes pagastu kā administratīvo teritoriju iekļāva [[Aknīstes novads|Aknīstes novadā]]. 2021. gadā Aknīstes novadu iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+=== Pieminekļi ===
+==== Valsts nozīmes ====
+* Gārsenes muižas krāsns. (Nr. 3388)
+* Gārsenes luterāņu baznīcas vitrāžas (2) (Nr. 3387)
+* Gārsenes luterāņu baznīcas ērģeles (Nr. 3385)
+* Krastu apmetne (Nr. 903)<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=G%C4%81rsenes+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+==== Vietējās nozīmes ====
+* Rancānu senkapi (Nr. 902)
+* Kurmišku pilskalns (Nr. 901)
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas: [[Bajāri (Gārsenes pagasts)|Bajāri]], [[Butķēni]], [[Elnēni]], [[Gārsene]] (pagasta centrs), [[Indāni (Gārsenes pagasts)|Indāni]], [[Jakāni]], [[Kraujas (Gārsenes pagasts)|Kraujas]], [[Kukalēni]], [[Pruņķēni]], [[Sils (Gārsenes pagasts)|Sils]], [[Vecmuiža (Gārsenes pagasts)|Vecmuiža]], [[Zīlēni]].
+
+=== Ievērojamas personības ===
+* [[Jānis Indāns]] (1895—1941), Latvijas brīvības cīņu dalībnieks, Latvijas Aviācijas pulka komandieris, ģenerālis.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="70px" perrow="5">
+Attēls:garsenes pils.JPG|<center><small>Gārsenes pils</small></center>
+Attēls:Gārsenes muiža (4).jpg|<center><small>Gārsenes pils</small></center>
+Attēls:garsenes pils2.JPG|<center><small>Gārsenes pils</small></center>
+Attēls:garsenes kaplica.JPG|<center><small>Baronu Budbergu dzimtas kapliča</small></center>
+Attēls:garsenes baznica.JPG|<center><small>Gārsenes baznīca</small></center>
+Attēls:Budbergu kaplica.JPG|<center><small>Informācijas stends</small></center>
+Attēls:Piemineklis Pēterim Kulitānam.jpg|<center><small>Piemiņas akmens Pēterim Kulitānam</small></center>
+Attēls:pieminas akmens garsene.JPG|<center><small>Piemiņas akmens</small></center>
+Attēls:tiltins garsene.JPG|<center><small>Tiltiņš pāri Dienvidsusējai Gārsenes dabas takā</small></center>
+Attēls:domik babi jagi.JPG|<center><small>Dabas taka</small></center>
+Attēls:garsenes dabas taka.JPG|<center><small>Dabas taka</small></center>
+Attēls:garsenes dabas taka2.JPG|<center><small>Dabas taka</small></center>
+Attēls:garsenes dabas taka3.JPG|<center><small>Dabas taka</small></center>
+Attēls:garsenes dabas taka4.JPG|<center><small>Dižakmens</small></center>
+</gallery></center>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Aknīstes novads}}
+{{Jēkabpils rajons}}
+{{Ilūkstes apriņķis}}
+}}
+
+{{DEFAULTSORT:Garsenes pagasts}}
+[[Kategorija:Sēlija]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Gārsenes pagasts| ]]

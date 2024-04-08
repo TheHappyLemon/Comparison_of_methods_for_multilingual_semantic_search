@@ -1,0 +1,173 @@
+'''Loģiskais elements''' ir loģiskās shēmas pamatvienība, kas realizē kādu no elementārajām [[Būla funkcija|Būla funkcijām]] (UN, NE, VAI, UN-NE utt.).
+
+== Universālu elementu kopas ==
+
+No loģiskajiem elementiem UN, VAI un NE var izveidot jebkuru loģisko shēmu. Loģisko elementu kopu ar šādu īpašību sauc par ''universālu''. Izmantojot [[de Morgana likumi|de Morgana likumus]], no kopas {UN, VAI, NE} var izslēgt vai nu UN vai VAI elementu, un tā joprojām būs universāla. Ja ir pieejami papildus nuļļu un vieninieku avoti, tad jebkuru no trim minētajiem elementiem var simulēt ar elementa UN-NE palīdzību. Tas nozīmē, ka jebkuru shēmu var izveidot, izmantojot tikai UN-NE elementus, līdz ar to UN-NE viens pats veido universālu elementu kopu.
+
+== Vienkāršākie loģiskie elementi ==
+
+=== UN ===
+
+Loģiskais elements UN izpilda [[Būla algebra]]s loģiskās reizināšanas funkciju. Formulās UN apzīmē ar punktu vai izlaižot — tāpat kā reizināšanu. Piemēram, ''X''&nbsp;=&nbsp;''A''&nbsp;·&nbsp;''B''. Loģiskā elementa UN patiesumvērtību tabula un apzīmējumi:
+
+{|
+|
+:{| class="wikitable" style="text-align: center"
+|-
+! colspan=2 |ieejas
+! rowspan=2 |izeja
+|-
+! A
+! B
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 0
+|-
+| 1 || 0 || 0
+|-
+| 1 || 1 || 1
+|}
+| [[Attēls:AND_IEC.svg|UN]]
+| jeb
+| [[Attēls:AND_ANSI.svg|UN]]
+|}
+
+=== VAI ===
+
+'''Loģiskais elements VAI''' izpilda [[Būla algebra]]s loģiskās saskaitīšanas funkciju. Formulās VAI apzīmē ar plusa zīmi. Piemēram, ''X&nbsp;=&nbsp;A&nbsp;+&nbsp;B.'' Loģiskā elementa VAI patiesumvērtību tabula un apzīmējumi:
+
+{|
+|
+:{| class="wikitable" style="text-align: center"
+|-
+! colspan=2 |ieejas
+! rowspan=2 |izeja
+|-
+! A
+! B
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 1
+|-
+| 1 || 0 || 1
+|-
+| 1 || 1 || 1
+|}
+| [[Attēls:OR_IEC.svg|VAI]]
+| jeb
+| [[Attēls:OR_ANSI.svg|VAI]]
+|}
+
+=== NE ===
+
+Loģiskais elements NE izpilda loģiskā nolieguma jeb inversijas funkciju. Formulās NE apzīmē ar svītriņu virs mainīgā. Piemēram, ''X''&nbsp;=&nbsp;<span style="text-decoration: overline">''A''</span>. Loģiskā elementa NE patiesumvērtību tabula un apzīmējumi:
+
+{|
+|
+:{| class="wikitable" style="text-align: center"
+|-
+! ieeja
+! izeja
+|-
+| 0 || 1
+|-
+| 1 || 0
+|}
+| [[Attēls:NOT_IEC.svg|NE]]
+| jeb
+| [[Attēls:NOT_ANSI.svg|NE]]
+|}
+
+=== Izslēdzošais VAI ===
+
+Formulās izslēdzošo VAI funkciju apzīmē ar ⊕ vai arī rakstot XOR. Piemēram, ''X''&nbsp;=&nbsp;''A''&nbsp;⊕&nbsp;''B''. Izslēdzošā VAI elementa patiesumvērtību tabula un apzīmējumi:
+
+{|
+|
+:{| class="wikitable" style="text-align: center"
+|-
+! colspan=2 |ieejas
+! rowspan=2 |izeja
+|-
+! A
+! B
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 1
+|-
+| 1 || 0 || 1
+|-
+| 1 || 1 || 0
+|}
+| [[Attēls:XOR_IEC.svg|XOR]]
+| jeb
+| [[Attēls:XOR_ANSI.svg|XOR]]
+|}
+
+Izslēdzošā VAI elementa realizācijas piemērs:
+
+:[[Attēls:XOR_shema.png|200px|XOR]]
+
+== Loģisko elementu apzīmējumi ==
+
+:{| class=wikitable width=100%
+!rowspan=2|Loģiskie elementi
+!rowspan=2|Funkcija
+!colspan=2|Apzīmējums
+|-
+!ANSI!!IEC
+|-
+!NE elements (invertors)
+|<math>Q=\overline{A}</math>
+|[[Attēls:NOT ANSI Labelled.svg]]
+|[[Attēls:NOT IEC Labelled.svg]]
+|-
+!UN elements
+|<math>Q = A \cdot B</math>
+|[[Attēls:AND ANSI Labelled.svg]]
+|[[Attēls:AND IEC Labelled.svg]]
+|-
+!UN-NE elements
+|<math>Q = \overline{A \cdot B}</math>
+|[[Attēls:NAND ANSI Labelled.svg]]
+|[[Attēls:NAND IEC Labelled.svg]]
+|-
+!VAI elements
+|<math>Q = A + B\,</math>
+|[[Attēls:OR ANSI Labelled.svg]]
+|[[Attēls:OR IEC Labelled.svg]]
+|-
+!VAI-NE elements 
+|<math>Q = \overline{A + B}</math>
+|[[Attēls:NOR ANSI Labelled.svg]]
+|[[Attēls:NOR IEC Labelled.svg]]
+|-
+!Izslēdzošais VAI 
+|<math>Q = A \oplus B</math>
+|[[Attēls:XOR ANSI Labelled.svg]]
+|[[Attēls:XOR IEC Labelled.svg]]
+|-
+!Izslēdzošais VAI-NE 
+|<math>Q = \overline{A \oplus B}</math>
+|[[Attēls:XNOR ANSI Labelled.svg]]
+|[[Attēls:XNOR IEC Labelled.svg]]
+|}
+
+== Skatīt arī ==
+
+* [[Būla funkcija]]
+* [[de Morgana likumi]]
+* [[Skaitītājs]]
+* [[Summators]]
+* [[Trigeris]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20090422101727/http://datuve.lv/raksts/286/Neliels_ievads_elektronika___1._dala Neliels ievads elektronikā - 1. daļa], datuve.lv (2004).
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tehnika]]
+[[Kategorija:Ciparu elektroniskās shēmas]]

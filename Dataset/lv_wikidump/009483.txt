@@ -1,0 +1,94 @@
+{{Citas nozīmes|Zalcburgas federālo zemi|Zalcburga (nozīmju atdalīšana)|Zalcburga}}
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Zalcburga
+ | official_name           = ''Salzburg''
+ | settlement_type         = zeme
+ | image_skyline           = Unken1.jpg
+ | imagesize               = 
+ | image_caption           = Zalcburgas zemes ainava
+ | image_flag              = Flag_of_Salzburg,_Vienna,_Vorarlberg.svg
+ | image_shield            = Salzburg_Wappen.svg
+ | shield_size             = 70px
+ | capital                 = [[Zalcburga]]
+ | largest_city            = 
+ | official_language       = 
+ | spoken_language         = 
+ | image_map               = Salzburg_in_Austria.svg
+ | mapsize                 = 
+ | map_caption             = Zalcburgas zemes atrašanās vieta Austrijā
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{AUT}}
+ | subdivision_type1       = 
+ | subdivision_name1       = 
+| parts_type = Pilsētas un apriņķi
+| parts = 1+5
+| p1 = [[Zalcburga]]
+| p2 = <hr />
+| p3 = [[Halleinas apriņķis]]
+| p4 = [[Cellamzē apriņķis]]
+| p5 = [[Sanktjohannas Pongavā apriņķis]]
+| p6 = [[Tamsvēgas apriņķis]]
+| p7 = [[Zalcburgas apkārtnes apriņķis]]
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 7156.03
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 3657
+ | elevation_min_m         = 403
+ | population_footnotes    = 
+ | population_total        = 560710
+ | population_as_of        = 2020
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = [[Centrāleiropas laiks|CET]]
+ | utc_offset              = +1
+ | timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST          = +2
+ | website                 = {{url|https://www.salzburg.gv.at/}}
+ | blank_name              = 
+ | blank_info              = 
+ | footnotes               = 
+}}
+
+'''Zalcburgas federālā zeme''' (''Das Land Salzburg'') ir [[Austrija]]s [[Austrijas administratīvais iedalījums|administratīvais iedalījums]] pie [[Vācija]]s robežas. Iedzīvotāju skaita ziņā viena no valsts mazākajām federālajām zemēm. Galvaspilsēta - [[Zalcburga]].
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Zalcburga (zeme)|width=400 |float=center|caption = Zalcburgas pilsētu izvietojums
+|places =
+{{VietasKarte~|Zalcburga (zeme)|lat=47.417222|long=13.219444|position = top |label=[[Bišofshofene]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.683108|long=13.097033|position = top |label=[[Halleina]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.266667|long=12.466667|position = top |label=[[Miterzille]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.945278|long=13.224722|position = top |label=[[Neimarkte]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.941667|long=12.941667|position = left |label=[[Oberndorfa]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.383333|long=13.466667|position = top |label=[[Rādštate]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.426944|long=12.848333|position = top |label=[[Zālfeldene]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.35|long=13.2|position = bottom |label=[[Sanktjohanna]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.9|long=13.133333|position = left |label=[[Zīkirhene]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.8|long=13.033333|position = top |label=[[Zalcburga]]}}
+{{VietasKarte~|Zalcburga (zeme)|lat=47.323333|long=12.798056|position = top |label=[[Zella]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Austrija-aizmetnis}}
+
+{{Austrijas zemes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas administratīvais iedalījums]]
+[[Kategorija:Zalcburga (zeme)| ]]

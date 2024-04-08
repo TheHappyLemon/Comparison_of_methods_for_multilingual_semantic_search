@@ -1,0 +1,37 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Potassium-chloride-3D-ionic.png|160px]]<br />Kālija hlorīda kristālrežģis<br />[[Attēls:Potassium chloride.jpg|160px]]<br />Kālija hlorīda kristāli
+|       citi nosaukumi = 
+|           CAS numurs = 7447-40-7
+|      ķīmiskā formula = KCl
+|              molmasa = 74,55
+|              blīvums = 1987
+|  kušanas temperatūra = 1049 K (776&nbsp;°C)
+| viršanas temperatūra = 1770 K (1500&nbsp;°C)
+| šķīdība ūdenī        = 28,1 g/100 ml (0&nbsp;°C)<br />34,4 g/100 ml (20&nbsp;°C)<br />56,7 g/100 ml (100&nbsp;°C)
+|                 citi =
+}}
+'''Kālija hlorīds''' (KCl) ir balta kristāliska viela, kas šķīst ūdenī. Tehniskais kālija hlorīds [[dzelzs]] sāļu piemaisījumu dēļ mēdz būt sarkanīgs.
+
+== Atrašanās dabā ==
+KCl ir sastopams dabā tīrā veidā minerālos [[silvīns|silvīnā]] un [[karnalīts|karnalītā]], vai arī maisījumā ar [[nātrija hlorīds|nātrija hlorīdu]] ([[silvinīts]]).
+
+== Iegūšana ==
+Laboratorijas apstākļos tīru kālija hlorīdu iegūst, reaģējot [[KOH|kālija hidroksīdam]] ar [[sālsskābe|sālsskābi]]: 
+:KOH + HCl → KCl + H<sub>2</sub>O
+
+Rūpnieciski kālija hlorīdu iegūst no silvinīta.
+
+== Izmantošana ==
+Kālija hlorīds ir galvenā [[kālijs|kālija]] savienojumu rūpnieciskā izejviela. Kālija hlorīdu dažreiz lieto par minerālmēslojumu, lai arī tas nav sevišķi piemērots augiem, jo satur hlorīdjonu. Tas ir vislētākais kālija sāls.
+
+Izmanto kā piedevu pie [[vārāmais sāls|vārāmā sāls]] (pārtikas piedeva '''E508''').
+
+{{commonscat|Potassium chloride|Kālija hlorīds}}
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kālijs]]
+[[Kategorija:Hlorīdi]]
+[[Kategorija:Pārtikas piedevas]]

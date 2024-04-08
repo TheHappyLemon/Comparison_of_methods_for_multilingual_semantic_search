@@ -1,0 +1,96 @@
+{{Latvijas novada infokaste
+| nosaukums         = Bērziņu pagasts
+| karte             = Bērziņu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Krāslavas novads
+| centrs            = Porečje
+| platība           = 98,1
+| iedzīvotāji       = 324<ref>{{Tīmekļa atsauce |url=https://www.pmlp.gov.lv/lv/assets/ISPV_Pasvaldibas_iedzivotaju_skaits_2020.pdf |title=Arhivēta kopija |access-date={{dat|2020|11|10||bez}} |archive-date={{dat|2020|06|04||bez}} |archive-url=https://web.archive.org/web/20200604012003/https://www.pmlp.gov.lv/lv/assets/ISPV_Pasvaldibas_iedzivotaju_skaits_2020.pdf }}</ref>
+| iedzīvotāji_gads  = 2020
+| blīvums           = {{#expr: 324/ 98.1 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Bērziņu pagasts''' ir viena no [[Krāslavas novads|Krāslavas novada]] administratīvajām teritorijām tā austrumos, [[Baltkrievija]]s pierobežā. Pagasts pa [[Čaušica|Čaušicu]] un [[Sarjanka|Sarjanku]] robežojas ar Baltkrieviju, kā arī ar [[Ķepovas pagasts|Ķepovas]], [[Svariņu pagasts|Svariņu]] un [[Šķaunes pagasts|Šķaunes]] pagastiem. Pagasta centrs atrodas [[Porečje|Porečjē]]. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Andžānu pilskalns]], [[Budovkas kalns]], [[Lozdukolns (Bērziņu pagasts)|Lozdukolns]], [[Pauļukolns]]
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+Bērziņu pagasta ūdensteces<ref>{{Tīmekļa atsauce|url=http://vietvardi.lgia.gov.lv/vv/to_www.saraksts|title=Bērziņu pagasta upes|last=|first=|website=LĢIA Vietvārdu datubāze|access-date=2020gada 7.decembrī|date=}}{{Novecojusi saite}}</ref>:
+
+[[Aktica]], [[Čaušica]], [[Lukšova (upe)|Lukšova]], [[Malcenka]], [[Melnais grāvis (Moļneicas pieteka)|Melnais grāvis]], [[Moļneica]], [[Sarja (upe)|Sarja]], [[Tovša (Čaušicas pieteka)|Tovša]].
+
+==== Ūdenstilpes ====
+Bērziņu pagasta ūdesntilpes<ref>{{Tīmekļa atsauce|url=http://vietvardi.lgia.gov.lv/vv/to_www.saraksts|title=Bērziņu pagasta ezeri|last=|first=|website=LĢIA Vietvārdu datubāze|access-date=2020.gada 7.decembrī|date=}}{{Novecojusi saite}}</ref>:
+
+[[Kalakolnu ezers]], [[Kriškinovas ezers]], [[Malcānu  ezers]], [[Osvas ezers]], [[Sveļmovas ezers]].
+
+== Vēsture ==
+1945. gadā [[Asūnes pagasts|Asūnes pagastā]] izveidoja Bērziņu [[ciema padome|ciema padomi]]. 1954. gadā Bērziņu ciemam pievienoja [[Rutku ciems|Rutku ciemu]]. 1960. gadā Bērziņu ciemam pievienoja likvidētā [[Punduru ciems|Punduru ciema]] [[padomju saimniecība]]s "Bērziņi" teritoriju, bet Bērziņu ciema padomju saimniecības "Cīņa" teritoriju pievienoja [[Svariņu ciems|Svariņu ciemam]]. 1973. gadā Bērziņu ciemam pievienoja daļu [[Šķaunes ciems|Šķaunes ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Dagdas novads|Dagdas novadā]]. 2021. gadā Dagdas novads tika pievienots jaunajam [[Krāslavas novads|Krāslavas novadam]].
+
+=== Pieminekļi ===
+Pagasta teritorijā atrodas trīs valsts nozīmes un viens vietējās nozīmes arheoloģijas piemineklis<ref>{{Tīmekļa atsauce|url=https://is.mantojums.lv/?id=&title=&type_group=&value_group=&dating=&address=B%C4%93rzi%C5%86u+pagasts&region=2|title=Bērziņu pagasta kultūras pieminekļi|last=|first=|website=is.mantojums|access-date=2020.gada 7.decembrī|date=}}</ref>:
+* [[Andžānu pilskalns]]
+* Andžānu senkapi (Vecie kapi)
+* Kozlaukas viduslaiku kapsēta
+* [[Fridrihovas pilskalns]] (Gorodok)
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3142
+|1959|1964
+|1965|1500
+|1979|1170
+|1989|847
+|2000|700
+|2011|400
+|2021|284
+}}
+
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas<ref>{{Tīmekļa atsauce|url=http://vietvardi.lgia.gov.lv/vv/to_www.saraksts|title=Bērziņu pagasta ciemi|last=|first=|website=LĢIA Vietvārdu datubāze|access-date=2020.gada 7.decembrī|date=}}{{Novecojusi saite}}</ref>: [[Andžāni (Bērziņu pagasts)|Andžāni]], [[Buraki]], [[Grizāni]], [[Lastovki]], [[Moroziki]], [[Nazari]], [[Pauļukalns]], [[Pļeņčova]], '''[[Porečje]]''', [[Punduri (Bērziņu pagasts)|Punduri]], [[Pušča (Bērziņu pagasts)|Pušča]], [[Rusecki (Bērziņu pagasts)|Rusecki]], [[Valuhi]], [[Zjazuļova]] u.c.
+
+=== Ievērojamas personības ===
+[[Edvards Pavlovskis]] (1950) - katoļu bīskaps
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Krāslavas novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Dagdas novads}}
+{{Krāslavas rajons}}
+{{Dagdas rajons}}
+}}
+{{DEFAULTSORT:Berzinzu pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Krāslavas novada pagasti]]
+[[Kategorija:Bērziņu pagasts]]
+[[Kategorija:Asūnes pagasts]]

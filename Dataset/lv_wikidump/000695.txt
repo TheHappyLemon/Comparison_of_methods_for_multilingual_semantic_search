@@ -1,0 +1,119 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Terres australes et antarctiques françaises
+|    pilnais_valsts_nosaukums = Francijas Dienvidjūru un Antarktikas Zemes
+|            valsts_nosaukums = French Southern and Antarctic Lands
+|               karoga_attēls = Flag_of_the_French_Southern_and_Antarctic_Lands.svg
+|            karoga_nosaukums = Francijas Dienvidjūru un Antarktikas Zemju karogs
+|              ģerboņa_attēls = Francuskie terytoria południowe godlo2.png
+|           ģerboņa_nosaukums = Francijas Dienvidjūru un Antarktikas Zemju ģerbonis
+|             ģerboņa_platums = 95px<!-- Pārsvarā ģerboņa izmēri ir lielāki -->
+|                 valsts_moto = ''"Liberté, Égalité, Fraternité"''
+|                valsts_himna = ''[[Marseljēza|La Marseillaise]]''
+|               kartes_attēls = TAAF-fr.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Portofransē]]
+| latd=49 | latm=21 | latNS=S | longd=70 | longm=13 | longEW=E <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = 
+|              valsts_valodas = [[Franču valoda|franču]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = 
+|        valsts_galvas_tituls = [[Francijas prezidents]]
+|                valsts_galva = [[Emanuels Makrons]]
+|       valsts_galvas_tituls2 = Prefekts
+|               valsts_galva2 = Sesils Poco di Borgo<!-- Cécile Pozzo di Borgo -->
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = [[Francijas aizjūras teritorija]]
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = nodibināta
+|          neatkarības_datums = [[1955]].g.
+|       neatkarības_notikums2 = 
+|         neatkarības_datums2 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 439 781
+|               platība_rangs = 
+|              procenti_ūdens = 
+|     iedzīvotāju_skaita_gads = 2006
+|          iedzīvotāju_skaits = nav patstāvīgi iedzīvotāji
+|    iedzīvotāju_skaits_rangs = 
+|    apdzīvotības_blīvums_km2 = 
+|  apdzīvotības_blīvums_rangs = 
+|                     IKP_PPP = 
+|                IKP_PPP_gads = 
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = 
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = <!-- {{palielinājās}} -->
+|                    HDI_gads = 
+|              HDI_kategorija = <!-- <font color=#FFCC00>vidējs</font> VAI <font color=#009900>augsts</font> -->
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Eiro]]
+|                valūtas_kods = EUR
+|                  laika_zona = 
+|                  utc_offset = +4 ([[Krozē salas]], [[Izklaidus salas]])<br />[[UTC]]+5 ([[Kergelēna arhipelāgs]],<br />[[Amsterdama (sala)|Amsterdama]], [[Sentpola (sala)|Sentpola]])<br />[[UTC]]+10 ([[Adelijas Zeme]])
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .tf
+|              tālsarunu_kods = 
+|                    piezīmes = 
+|                iso_kods_num = 260 	
+|              iso_kods_alfa2 = TF
+|              iso_kods_alfa3 = ATF 	
+}}
+'''Francijas Dienvidjūru un Antarktikas Zemes''' ({{val|fr|Terres australes et antarctiques françaises}}, saīsināti ''TAAF'') ir [[Francija]]s aizjūras teritorija [[Indijas okeāns|Indijas okeāna]] dienviddaļā un [[Antarktīda|Antarktīdā]]. Teritorija bieži tiek saukta arī par '''Francijas Dienvidjūru Zemēm''' ({{val|fr|Terres australes françaises}}), lai izslēgtu starptautiskās sabiedrības neatzītās Francijas pretenzijas Antarktīdas [[Adelijas Zeme|Adelijas Zemē]].
+
+Teritorijā nav patstāvīgo iedzīvotāju, bet ir 4 zinātniskās stacijas un vairāki militārie garnizoni. Teritorija ietver:
+# [[Vulkāns|Vulkānisku]] [[sala|salu]] grupas Indijas okeāna dienvidos ([[Kergelēna arhipelāgs]], [[Krozē salas]], [[Amsterdama (sala)|Amsterdamu]] un [[Sentpola (sala)|Sentpolu]]),
+# Francijas pretenziju [[Antarktīda|Antarktīdā]] [[Adelijas Zeme|Adelijas Zemi]],
+# [[Izklaidus salas]] Indijas okeāna dienvidaustrumos un [[Mozambikas šaurums|Mozambikas šaurumā]] ([[Basa da Indija]], [[Eiropa (sala)|Eiropa]], [[Glorjēzu salas]], [[Tromlēna]], [[Žuana da Novas sala]])
+
+== Administrācija ==
+[[Attēls:TAAF-CIA WFB Map.png|thumb|left|200px|TAAF karte ''(angļu val.)'']]
+Francijas Dienvidjūru un Antarktikas Zemes tika nodibināta kā [[aizjūras teritorija]] [[1955]].g. Pirms tam tā tika tieši pārvaldīta no [[Parīze]]s. Šobrīd teritorijas administrators ir pefekts, kura pastāvīgā rezidences vieta ir [[Senpjēra|Senpjērā]], [[Reinjona|Reinjonā]].
+{{clear|left}}
+
+{| class="wikitable"
+! Distrikts || Centrs|| Ziemas perioda<br />iedzīvotāji || Vasaras perioda<br />iedzīvotāji ||Platība<br />(km²) ||[[EEZ]]<br />(km²)
+|-
+| [[Sentpola (sala)|Sentpolas]] un [[Amsterdama (sala)|Amsterdamas Salas]] || [[Martēndevivjē]] || align="right" | 25 || align="right" | 45 || align="right" | 61 || align="right" | 502533
+|-
+| [[Krozē salas|Krozē Arhipelāgs]] || [[Alfredfora]] || align="right" | 25 || align="right" | 45 || align="right" | 505 || align="right" | 567475
+|-
+| [[Kergelēna arhipelāgs|Kergelēna Arhipelāgs]] || [[Portofransē]] || align="right" | 70 || align="right" | 110 || align="right" |  7215|| align="right" | 563869 
+|-
+| [[Adelijas Zeme]] || [[Dimondirvila]] || align="right" | 30 || align="right" | 110 || align="right" |  432000|| align="right" | - 
+|-
+| [[Izklaidus salas]] || - || align="right" | 56 || align="right" | 56 || align="right" |  38,6|| align="right" | 593276 
+|-bgcolor="#dddddd"
+| '''[[TAAF]]''' || [[Senpjēra (Reinjona)|Senpjēra]] || align="right" | 150 || align="right" | 310 || align="right" | 439781 || align="right" |2274277
+|}
+
+== Ekonomika ==
+Teritorijas izpētītie un izmantojamie dabas resursi aprobežojas ar zivīm un vēžveidīgajiem. [[EEZ|Ekskluzīvajā ekonomiskajā zonā]] galvenokārt tiek zvejotas ''Dissostichus eleginoides'' un [[langusts|langusti]]. Nozvejas licenču ieņēmumi ir ap $18 miljonu gadā.
+
+Teritorijā ir reģistrēta tirdzniecības [[flote]] ar kopējo tonnāžu 1999.g. 2 892 911 BRT.
+
+Salās un Adelijas Zemē tiek uzturētas vairākas [[zinātniskā pētniecības stacija|pētniecības stacijas]], kuras regulāri apgādā speciāls polārās navigācijas kuģis ''Marion Dufresne''. Šis kuģis uzņem arī ierobežotu skaitu tūristu.
+
+== Ārējās saites ==
+{{commons|Atlas of the French Southern and Antarctic Lands|Francijas Dienvidjūru un Antarktikas Zemes}}
+* [https://web.archive.org/web/20120427233042/http://www.taaf.fr/ TAAF oficiālā vietne]
+* [http://www.discoverfrance.net/Colonies/Antarctic.shtml ''www.discoverfrance.net'']
+
+{{Ģeogrāfija-aizmetnis}}
+{{Francijas aizjūras departamenti un teritorijas}}
+{{Antarktika}}
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Francijas Dienvidjūru un Antarktikas Zemes| ]]
+[[Kategorija:Francijas aizjūras teritorijas]]
+[[Kategorija:Antarktīda]]
+[[Kategorija:Eiropas Savienības īpašās teritorijas]]

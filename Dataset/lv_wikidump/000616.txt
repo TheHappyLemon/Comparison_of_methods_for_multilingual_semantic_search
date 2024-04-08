@@ -1,0 +1,37 @@
+'''Otrais termodinamikas likums''' ir [[termodinamika]]s princips, kas nosaka ierobežojumus [[siltums|siltuma]] pārejai no viena ķermeņa uz citu. Otrais termodinamikas likums papildina [[Pirmais termodinamikas likums|pirmo termodinamikas likumu]], tā kā [[Pirmais termodinamikas likums|pirmajā termodinamikas likumā]] no visiem torētiski iespējamajiem procesiem nav pilnībā nošķirti procesi, kas saskan ar [[Enerģijas nezūdamības likums|enerģijas nezūdamības likumu]]. <ref>{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=101|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref> Otro termodinamikas likumu sauc par otro termodinamikas sākumu, tāpat kā pirmo termodinamikas likumu sauc par pirmo termodinamikas sākumu, jo termodinamika balstās tieši uz šiem diviem likumiem. <ref name=":0">{{Tīmekļa atsauce|url=http://alexandr4784.narod.ru/putilov.html|title=К. А. Путилов. Термодинамика. 1971}}</ref> 
+
+Otrais termodinamikas likums ļauj izveidot [[temperatūras skala|temperatūras skalu]], kuru neietekmē neatbilstības, izvēloties [[Temperatūra|temperatūras]] [[Mērvienība|mērvienības]] un [[Mērinstruments|mērierīces]], noteikt [[Lietderības koeficients|lietderības koeficientu]], noformulēt [[Termodinamiskais līdzsvars|termodinamiskā līdzsvara]] kritērijus.
+
+Pastāv vairāki šī likuma formulējumi, kas visi ir līdzvērtīgi. Precīzi to [[1850]]. gadā formulēja vācu zinātnieks [[Rūdolfs Klauziuss]]. Viņa formulējums ir:
+
+{{cquote
+|Siltuma daudzums pats no sevis nekad nepāriet no aukstāka ķermeņa uz karstāku ķermeni jeb nav iespējams siltuma dzinējs, kurš visu no sildītāja saņemto siltumu varētu pārvērst darbā.
+}}
+
+== Otrā termodinamikas likuma dažādi formulējumi ==
+Pastāv vairāki otrā termodinamikas likuma formulējumi, starp kuriem daži ir: "Nav iespējams process, kura vienīgais rezultāts būtu siltuma pārvēršana darbā", "Nav iespējams pārvērst siltumu darbā bez kompensācijas", "Otrā veida [[mūžīgais dzinējs]] nav iespējams", "[[Entropija]] ir viennozīmīga stāvokļa funkcija", "[[Siltummašīna|Siltummašīnas]] [[lietderības koeficients]] nav atkarīgs no darba ķermeņa īpašībām, bet gan no galējām temperatūrām, starp kurām siltummašīna strādā".
+
+[[Pirmais termodinamikas likums|Pirmā termodinamikas likuma]] aprakstīšanai pietiek ar diviem [[Fizikāls ķermenis|ķermeņiem]]: viens ķermenis zaudē enerģiju, otrs enerģiju iegūst. Otrā termodinamikas likuma aprakstīšanai nepieciešami vismaz trīs ķermeņi  — viens, kurš nodod otram enerģiju siltuma veidā, un trešais, kurš no otrā saņem enerģiju [[Darbs (fizika)|darba]] veidā —, taču, ja vajadzīgs, lai procesa beigās otrais jeb darba ķermenis atgūtu savu sākotnējo stāvokli, nepieciešams vēl arī ceturtais ķermenis jeb dzesētājs. 
+
+Vienā no otrā termodinamikas likuma formulējumiem sastopams kompensācijas jēdziens. Termodinamikā kompensācija ir darba ķermeņa (pirmā veida kompensācija) vai citu procesā iekļauto ķermeņu (otrā veida kompensācija) termodinamiskā stāvokļa izmaiņa, pārvēršot siltumu darbā. Pirmā veida kompensācijas piemērs ir [[Ideāla gāze|ideālas gāzes]] izotermiska izplešanās — gāze maina savu tilpumu, pārvēršot siltumu darbā. Otrā veida kompensācijas piemērs ir [[siltumdzinējs]] — darba ķermenis izplešas un periodiski nokļūst sākumstāvoklī, mainoties dzesētāja stāvoklim. <ref name=":0" />
+
+== Lietderības koeficients ==
+[[Lietderības koeficients]] <math>\eta</math> jebkuram [[Atgriezenisks process|atgriezeniskam procesam]] tiek aprēķināts pēc formulas
+
+<math>\eta=\frac{Q-Q_0}{Q}=\frac{T-T_0}{T}</math> , kur <math>Q</math> ir no siltumavota saņemtā [[siltuma daudzums]], <math>Q_0</math> ir dzesētājam atdotā siltuma daudzums, <math>T</math> ir siltumavota [[Kelvins|absolūtā temperatūra]], <math>T_0</math> ir dzesētāja absolūtā temperatūra.<ref name=":0" /> 
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Termodinamika]]
+* [[Pirmais termodinamikas likums]]
+*[[Karno siltummašīna]]
+*[[Karno cikls]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+[[Kategorija:Fizikas likumi]]
+[[Kategorija:Termodinamika]]

@@ -1,0 +1,27 @@
+{{Navbox
+|name=Vācijas zemes
+|title=[[Vācija]]s [[Vācijas federālās zemes|federālās zemes]] {{flaga|Vācija}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+|list1=
+* [[Bādene-Virtemberga]]
+* [[Bavārija]]
+* [[Berlīne]]
+* [[Brandenburga]]
+* [[Brēmene (federālā zeme)|Brēmene]]
+* [[Hamburga]]
+* [[Hesene]]
+* [[Lejassaksija]]
+* [[Mēklenburga-Priekšpomerānija]]
+* [[Reinzeme-Pfalca]]
+* [[Saksija]]
+* [[Saksija-Anhalte]]
+* [[Šlēsviga-Holšteina]]
+* [[Tīringene]]
+* [[Zāra (zeme)|Zāra]]
+* [[Ziemeļreina-Vestfālene]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes|Vacijas zemes]]
+</noinclude>

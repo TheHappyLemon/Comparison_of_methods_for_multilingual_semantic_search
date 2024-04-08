@@ -1,0 +1,134 @@
+{{Citas nozīmes|planētu|Urāns|Urāns}}
+{{Planētas infokaste
+| bgcolour             = #c0ffff
+| name                 = Urāns
+| symbol               = [[Attēls:Uranus symbol (bold).svg|20px|alt=⛢|Urāna astronomiskais simbols]]
+| image                = [[Attēls:Uranus2.jpg|240px|Urāns, attēls iegūts, izmantojot zondi Voyager 2]]
+| caption              = Urāns, attēls iegūts, izmantojot zondi ''[[Voyager 2]]''
+| discovery            = yes
+| discoverer           = [[Viljams Heršels]]
+| discovered           = {{dat|1781|3|13}}
+| orbit_ref            =<ref name=horizons>{{Tīmekļa atsauce | last = Yeomans | first = Donald K. |date = July 13, 2006 | url = http://ssd.jpl.nasa.gov/?horizons | title = HORIZONS System | publisher = NASA JPL | accessdate = 2007-08-08}} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun".</ref>
+| epoch                = [[J2000]]
+| aphelion             = 3 004 419 704 [[kilometrs|km]]<br />20,08330526 [[astronomiskā vienība|AU]]
+| perihelion           = 2 748 938 461 km<br />18,37551863 AU
+| semimajor            = 2 876 679 082 km<br />19,22941195 AU
+| eccentricity         = 0,044405586
+| period               = 30 799,095 [[diena]]s<br />84,323326 gadi
+| synodic_period       = 369,66 dienas<ref name="fact">{{Tīmekļa atsauce|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|title = Uranus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-10|date = January 31, 2005|archiveurl = https://www.webcitation.org/60qT3owNB?url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|archivedate = 2011-08-11}}</ref>
+| avg_speed            = 6,81 km/s<ref name="fact"/>
+| inclination          = 0,772556°<br />6,48° pret [[Saule]]s ekvatoru 
+| asc_node             = 73,989821°
+| arg_peri             = 96,541318°
+| mean_anomaly         = 142,955717°
+| satellites           = [[Urāna pavadoņi|27]]
+| physical_characteristics = yes
+| flattening           = 0.022&nbsp;9&nbsp;±&nbsp;0.000&nbsp;8
+| equatorial_radius    = 25 559 ± 4 km<br />4,007 Zemes<ref name=Seidelmann2007>{{Laikraksta atsauce|last= Seidelmann|first= P. Kenneth|coauthors= Archinal, B. A.; A’hearn, M. F.; et.al.|title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006|journal= Celestial Mech. Dyn. Astr. |volume=90|pages=155–180|year=2007|doi=10.1007/s10569-007-9072-y|url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y}}</ref>
+| polar_radius         = 24 973 ± 20 km<br />3,929 Zemes<ref name=Seidelmann2007/>
+| surface_area         = 8,1156{{E|9}} km²<ref name="nasafact">{{Tīmekļa atsauce|url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Facts|title = NASA: Solar System Exploration: Planets: Uranus: Facts & Figures|publisher = NASA|last = Munsell|first = Kirk|accessdate = 2007-08-13|date = May 14, 2007|archive-date = 2015-11-09|archive-url = https://web.archive.org/web/20151109231438/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus}}</ref><br />15,91 Zemes
+| volume               = 6,833{{E|13}} km³<ref name="fact"/><br />63,086 Zemes
+| mass                 = (8.6810 ± 0.0013){{e|25}} [[kilograms|kg]]<br />14,536 Zemes<ref name=Jacobson1992>{{Laikraksta atsauce|last=Jacobson|first=R.A.|coauthors=Campbell, J.K.; Taylor, A.H.; Synnott, S.P.|title=The masses of Uranus and its major satellites from Voyager tracking data and Earth-based Uranian satellite data|journal=The Astronomical Journal|volume=103|issue=6|pages=2068–2078|year=1992|doi=10.1086/116211| url=http://adsabs.harvard.edu/abs/1992AJ....103.2068J}}</ref>
+| density              = 1,27 g/cm³<ref name=fact/>
+| surface_grav         = 8,69 [[paātrinājums|m/s²]]<ref name=fact/><br />0,886 g
+| escape_velocity      = 21,3 km/s<ref name=fact/>
+| sidereal_day         = [[atpakaļejoša kustība|−]]0,71833 dienas<br />17 [[stunda|h]] 14 [[minūte|min]] 24 [[sekunde]]s<ref name=Seidelmann2007/>
+| rot_velocity         = 2,59 km/s<br />9 320 km/h
+| axial_tilt           = 97,77°<ref name=Seidelmann2007/>
+| right_asc_north_pole = 17 h 9 min 15 s<br />257,311°<ref name=Seidelmann2007/>
+| declination          = −15,175°<ref name=Seidelmann2007/>
+| albedo               = 0,300 ([[saites albedo|saites]])<br />0,51 ([[ģeometriskais albedo|ģeom.]])<ref name="fact"/>
+| magnitude            = no 5,9<ref name=ephemeris>{{Tīmekļa atsauce|title=Twelve Year Planetary Ephemeris: 1995 - 2006|author=Fred Espenak|work=NASA|url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html|year=2005|accessdate=2007-06-14|archive-date=2011-08-17|archive-url=https://www.webcitation.org/610c2uk4K?url=http://eclipse.gsfc.nasa.gov/TYPE/TYPE.html}}</ref> līdz 5,32<ref name="fact"/>
+| angular_size         = 3,3"–4,1"<ref name="fact"/>
+| temperatures         = yes
+| temp_name1           = 1 [[Bārs (mērvienība)|bar]] level<ref name=Podolak1995>{{Laikraksta atsauce|last=Podolak|first=M.| coauthors= Weizman, A.; Marley, M.|title=Comparative models of Uranus and Neptune|journal=Planet. Space Sci.|volume=43| issue= 12|pages=1517–1522|year=1995| url=http://adsabs.harvard.edu/abs/1995P%26SS...43.1517P|doi=10.1016/0032-0633(95)00061-5}}</ref>
+| min_temp_1           = 
+| mean_temp_1          = 76 [[kelvins|K]]
+| max_temp_1           = 
+| temp_name2           = 0,1 bar <br />([[tropopauze]])<ref name=Lunine1993>{{Laikraksta atsauce|title=The Atmospheres of Uranus and Neptune|last=Lunine|first=Jonathan. I.|journal = Annual Review of Astronomy and Astrophysics| volume=31| pages=217–263|year=1993|doi=10.1146/annurev.aa.31.090193.001245| url=http://adsabs.harvard.edu/abs/1993ARA%26A..31..217L}}</ref>
+| min_temp_2           = 49 K
+| mean_temp_2          = 53 K
+| max_temp_2           = 57 K
+| adjectives           = 
+| atmosphere           = yes
+| atmosphere_ref       =<ref name=Lunine1993/><ref name=Lindal1987>{{Laikraksta atsauce|last=Lindal|first=G.F.|coauthors= Lyons, J.R.; Sweetnam, D.N.; et.al.|title=The Atmosphere of Uranus: Results of Radio Occultation Measurements with Voyager 2 |journal=J. Of Geophys. Res.|volume=92|pages=14,987–15,001|year=1987|url=http://adsabs.harvard.edu/abs/1987JGR....9214987L|doi=10.1029/JA092iA13p14987}}</ref><ref name=Conrath1987>{{Laikraksta atsauce|author=B. Conrath ''et al.''|title=The helium abundance of Uranus from Voyager measurements|journal=Journal of Geophysical Research| volume=92|pages=15003–15010|yar=1987|url=http://adsabs.harvard.edu/abs/1987JGR....9215003C|doi=10.1029/JA092iA13p15003|year=1987}}</ref>
+| scale_height         = 27,7 km<ref name="fact"/>
+| atmosphere_composition = ''(pie 1,3 bāru spiediena)''
+<table>
+<tr><td>
+83 ± 3%</td><td>[[ūdeņradis]] (H<sub>2</sub>)
+</td></tr><tr><td>
+15 ± 3%</td><td>[[hēlijs]]
+</td></tr><tr><td>
+2,3%</td><td>[[metāns]]</td></tr><tr><td>
+0,009%<br />(0,007–0,015%)</td><td>[[ūdeņraža deitērijs]] (HD)<ref name=Feuchtgruber1999>{{Laikraksta atsauce| last= Feuchtgruber|first=H.|coauthors=Lellouch, E.; B. Bezard; et.al.|title=Detection of HD in the atmospheres of Uranus and Neptune: a new determination of the D/H ratio|year=1999|journal=Astronomy and Astrophysics|volume=341|pages=L17–L21|url=http://adsabs.harvard.edu/abs/1999A%26A...341L..17F}}</ref>
+</td></tr><tr><td>
+'''Ledus''':</td><td>
+</td></tr><tr><td>
+</td><td>[[amonjaks]]
+</td></tr><tr><td>
+</td><td>[[ūdens]]
+</td></tr><tr><td>
+</td><td>[[amonjaka hidrosulfīds]] (NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>[[metāns]]&nbsp;(CH<sub>4</sub>)
+</td></tr></table>
+}}
+
+'''Urāns''' ({{val|gr|Ouranos}} — 'debess') ir viena no [[Saules sistēma]]s [[milzu planēta|milzu planētām]], kā arī septītā [[planēta]] no [[Saule]]s, kuru 1781. gadā atklāja britu [[astronoms]] [[Viljams Heršels]].<ref name="Vārdnīca">{{grāmatas atsauce|title=Svešvārdu vārdnīca|first=Juris|last=Baldunčiks|first2=Kornēlija|last2=Pokrotniece|place=Rīga|publisher=Jumava|year=2005|page=622|isbn=9984-05-879-4}}</ref><ref name="Outer planets page5-7">{{grāmatas atsauce|title=Uranus, Neptune, Pluto, and the Outer Solar System|url=https://archive.org/details/uranusneptuneplu00elki|first=Linda T.|last=Elkins-Tanton|place=New York|publisher=Chelsea House Publishers|year=2006|page=5.-7|isbn= 0-8160-5197-6}}</ref> Tā ir trešā lielākā Saules sistēmas planēta pēc [[diametrs|diametra]] un ceturtā lielākā pēc [[masa]]s.<ref name="Outer planets page7">{{grāmatas atsauce|title=Uranus, Neptune, Pluto, and the Outer Solar System|url=https://archive.org/details/uranusneptuneplu00elki|first=Linda T.|last=Elkins-Tanton|place=New York|publisher=Chelsea House Publishers|year=2006|page=[https://archive.org/details/uranusneptuneplu00elki/page/7 7]|isbn= 0-8160-5197-6}}</ref> Urāns ir nosaukts [[sengrieķu mitoloģija]]s debess dieva — [[Urāns (dievs)|Urāna]] — vārdā.<ref name="Vārdnīca"/><ref name="Outer planets page5">{{grāmatas atsauce|title=Uranus, Neptune, Pluto, and the Outer Solar System|url=https://archive.org/details/uranusneptuneplu00elki|first=Linda T.|last=Elkins-Tanton|place=New York|publisher=Chelsea House Publishers|year=2006|page=[https://archive.org/details/uranusneptuneplu00elki/page/5 5]|isbn= 0-8160-5197-6}}</ref>
+
+Urānam ir vismaz [[Urāna pavadoņi|27 pavadoņi]], kā arī [[planētas gredzens|gredzenu sistēma]], kas sastāv no vismaz [[Urāna gredzeni|13 šauriem gredzeniem]].<ref name="solarsystem.nasa">{{tīmekļa atsauce|url= https://solarsystem.nasa.gov/planets/uranus/overview/ |title=Uranus|work=solarsystem.nasa.gov|publisher=National Aeoronautics and Space Administration |accessdate=15 March 2018}}</ref> Pēc uzbūves Urāns ir ļoti līdzīgs pārējām Saules sistēmas gāzu planētām, kam atšķirībā no [[Zemes grupas planētas|Zemes grupas planētām]] nav cietas virszemes un kas galvenokārt sastāv no [[ūdeņradis|ūdeņraža]] un [[hēlijs|hēlija]].<ref name="britannica">{{tīmekļa atsauce|url= https://www.britannica.com/place/Uranus-planet |title=Uranus|work=britannica.com|publisher= Encyclopaedia Britannica|first=Andrew P.|last=Ingersoll|accessdate=16 March 2018}}</ref> Tomēr atšķirībā no [[Jupiters (planēta)|Jupitera]] un [[Saturns (planēta)|Saturna]] tā iekšējo uzbūvi ievērojami sastāda arī smagāki elementi kā, piemēram, [[metāns]] un citi [[ledus]] veidojošie savienojumi ([[ūdens]] un [[amonjaks]]), kur līdz ar to nereti Urāns kopā ar [[Neptūns (planēta)|Neptūnu]] tiek klasificēti arī par [[ledus gigants|ledus gigantiem]] (''ice giants'').<ref name="solarsystem.nasa"/><ref name="nasa uranus">{{tīmekļa atsauce|url=https://www.nasa.gov/feature/nasa-completes-study-of-future-ice-giant-mission-concepts|title=NASA Completes Study of Future ‘Ice Giant’ Mission Concepts|first=Tricia|last=Talbert|work=nasa.gov|publisher=National Aeoronautics and Space Administration|date=20 June 2017|accessdate=16 March 2018|archive-date={{dat|2020|08|06||bez}}|archive-url=https://web.archive.org/web/20200806062812/https://www.nasa.gov/feature/nasa-completes-study-of-future-ice-giant-mission-concepts/}}</ref>
+
+Mūsdienās Urāns ir vairāk pazīstams kā planēta, kurai pieder aukstākā [[atmosfēra]] Saules sistēmā, kur gaisa [[temperatūra]] [[troposfēra]]s augstākajos slāņos var nokrist līdz pat −220 °C (53 [[kelvins|kelvini]]).<ref name="Outer planets page23">{{grāmatas atsauce|title=Uranus, Neptune, Pluto, and the Outer Solar System|url=https://archive.org/details/uranusneptuneplu00elki|first=Linda T.|last=Elkins-Tanton|place=New York|publisher=Chelsea House Publishers|year=2006|page=[https://archive.org/details/uranusneptuneplu00elki/page/23 23]|isbn= 0-8160-5197-6}}</ref><ref name="space.com Uranus facts">{{tīmekļa atsauce|url= https://www.space.com/45-uranus-seventh-planet-in-earths-solar-system-was-first-discovered-planet.html |title= Planet Uranus: Facts About Its Name, Moons and Orbit |first=Charles Q.|last=Choi|work=space.com|publisher=Space.com|date=17 October 2017|accessdate=16 March 2018}}</ref> Tāpat tiek uzskatīts, ka Urāna atmosfēras dzīlēs varētu līt [[dimants|dimantu]] lietus, kas varētu būt raksturīga parādība ledus gigantiem.<ref name="space.com Uranus facts"/><ref name="WP diamond rain">{{tīmekļa atsauce|url= https://www.washingtonpost.com/news/speaking-of-science/wp/2017/08/25/it-rains-solid-diamonds-on-uranus-and-neptune/?utm_term=.b6de876a94ad |title= It rains solid diamonds on Uranus and Neptune |first=Sarah|last=Kaplan|work=washingtonpost.com|publisher=The Washington Post|date=25 August 2017|accessdate=16 March 2018}}</ref>
+
+Urānam ir divi astronomiskie simboli. [[Attēls:Uranus monogram.svg|16px]] attēlo stilizētu "H" burtu (par godu Urāna atklājējam [[Viljams Heršels|Viljamam Heršelam]]), savukārt [[Attēls:Uranus symbol.svg|16px]] tāpat kā [[Marss (planēta)|Marsa]] simbols atspoguļo vīrišķo.
+
+== Atklāšana un nosaukums ==
+
+Lai gan Urāns no [[Zeme]]s ir saredzams ar neapbruņotu aci, tas ir ļoti blāvs, kur kustības ziņā tas pārvietojas tik lēni nakts debesīs, ka to samērā viegli ir iespējams noturēt par blāvu attālu [[zvaigzne|zvaigzni]].<ref name="space.com Uranus facts"/> Šī iemesla dēļ Urāns nebija zināms cilvēkiem, kas dzīvoja [[aizvēsture|aizvēsturē]], [[senie laiki|senajos laikos]] un [[viduslaiki|viduslaikos]].
+
+Tomēr arī [[jaunie laiki|jauno laiku]] sākumā, izmantojot pirmos [[teleskops|teleskopus]], astronomiem bija salīdzinoši grūti pamanīt un atklāt to, ka Urāns patiesībā bija planēta, nevis zvaigzne. Tā, piemēram, jau 1548. gadā slavenais itāļu [[astronoms]] un [[matemātiķis]] [[Galileo Galilejs]] bija novērojis Urānu, taču kļūdaini to noturēja par blāvu zvaigzni.<ref name="Outer planets page5"/> Tāpat arī 1690. gadā angļu astronoms [[Džons Flemstids]] (''John Flamsteed'') sekmīgi novēroja Urānu, taču tāpat kā Galilejs nebija spējīgs to identificēt kā atsevišķu [[planēta|planētu]].<ref name="Outer planets page5"/> Kopumā vēstures avoti norāda, ka līdz brīdim, kamēr Urāns tika oficiāli atklāts, astronomu un pētnieku vidū tas tika novērots vismaz 21 reizi.<ref name="Outer planets page5"/>
+
+Oficiāli Urāns tika atklāts 1781. gada 13. martā, kad vācu izcelsmes britu astronoms [[Viljams Heršels]], izmantojot tā laika labāko teleskopu, to sākotnēji noturēja par [[komēta|komētu]], taču vēlāk saprata, ka tā ir atsevišķa planēta [[Saules sistēma|Saules sistēmā]].<ref name="Outer planets page5"/><ref>{{grāmatas atsauce|title=Uranus: The Seventh Planet|url=https://archive.org/details/uranusseventhpla00bran|first=Franklyn M.|last=Branley|place=New York|publisher=Thomas Y. Crowell|year=1988|edition=1.|page=[https://archive.org/details/uranusseventhpla00bran/page/2 2]|isbn=0-690-04685-5 }}</ref> Šī iemesla dēļ Urāns kļuva par pirmo planētu cilvēces vēsturē, kas tika atklāta caur teleskopu.<ref name="naming Uranus">{{tīmekļa atsauce|url= https://www.space.com/18704-who-discovered-uranus.html |title= Who Discovered Uranus (and How Do You Pronounce It)? |first=Nola|last=Taylor Redd|work=space.com|publisher=Space.com|date=27 February 2018|accessdate=17 March 2018}}</ref> Tāpat 1787. gadā Heršels vēlāk atklāja arī pirmos divus un lielākos [[Urāna pavadoņi|Urāna pavadoņus]] — [[Oberons (pavadonis)|Oberonu]] un [[Titānija (pavadonis)|Titāniju]].<ref name="space.com Uranus facts"/>
+
+Sākotnēji planētai tika dots nosaukums ''Georgian Sidus'', kas no [[latīņu valoda]]s tulkojumā nozīmē "Džordža zvaigzne" jeb "Džordža planēta", par godu tā laika britu monarham [[Džordžs III|Džordžam III]].<ref name="Outer planets page5"/><ref name="space.com Uranus facts"/> Šāds planētas apzīmējums [[Apvienotā Karaliste|Lielbritānijā]] saglabājās turpmākos 70 gadus, iekams [[Francija|Francijā]] tas bija pazīstams gluži vienkārši kā "Heršels", kur arī šāds apzīmējums franču sabiedrībā saglabājās vairākas desmitgades.<ref name="Outer planets page5"/> Visbeidzot vācu astronoms [[Johanns Elerts Bode]] (''Johann Elert Bode'') piedāvāja planētu nosaukt par "Urānu", kas [[sengrieķu mitoloģija|sengrieķu mitoloģijā]] apzīmēja debess dieva vārdu.<ref name="Outer planets page5"/> Bode uzsvēra, ka šāds attiecīgais nosaukums dotu ļoti labu simetriju arī planētu izvietojumā, kur sengrieķu un [[romiešu mitoloģija|romiešu mitoloģijā]] [[Urāns (dievs)|Urāns]] skaitījās Saturna tēvs, savukārt  Saturns bija [[Jupiters (dievs)|Jupitera]] tēvs, iekams Jupiters bija tēvs [[Merkurs (dievs)|Merkuram]], [[Venēra (dieviete)|Venērai]] un [[Marss (dievs)|Marsam]].<ref>{{grāmatas atsauce|title=Uranus, Neptune, Pluto, and the Outer Solar System|url=https://archive.org/details/uranusneptuneplu00elki|first=Linda T.|last=Elkins-Tanton|place=New York|publisher=Chelsea House Publishers|year=2006|page=5.-6|isbn= 0-8160-5197-6}}</ref>
+
+Citi alternatīvie nosaukumi, kas tajā laikā tika piedāvāti bija [[Kibele (dieviete)|Kibele]] (''Cybele'' — [[Saturns (dievs)|Saturna]] mītiskā sieva), ''Hypercronius'' (apzīmējums, kas nozīmē "virs" vai "aiz Saturna") un [[Minerva]] (seno romiešu gudrības dieviete).<ref name="Outer planets page5"/><ref name="space.com Uranus facts"/>
+
+== Orbitālie parametri ==
+[[Attēls:Uranus, Earth size comparison.jpg|235px|left|thumb|Urāns (labajā pusē) salīdzinājumā ar Zemi (kreisajā pusē).]]
+Urāna ekvatoriālais diametrs ir aptuveni 51 118 km, tas ir 4 reizes lielāks nekā [[Zeme]]i. 
+Urāns pārvietojas ap Sauli pa gandrīz riņķveida orbītu, veicot vienu apriņķojumu 84 Zemes gadu laikā. Urāna rotācijas ass gandrīz sakrīt ar orbītas plakni (nobīdīta par 2°), tāpēc Urāns it kā "ripo" pa orbītu. Vienu apgriezienu ap savu asi tas veic 17 stundās un 14 minūtēs.
+
+== Atmosfēra un klimats ==
+Urāna virsmas vidējā [[temperatūra]] ir 68 [[kelvins (mērvienība)|kelvini]]. Urānam ir ļoti blīva [[atmosfēra]], kas sastāv galvenokārt no [[ūdeņradis|ūdeņraža]] un [[hēlijs|hēlija]].
+
+== Kultūrā ==
+1789. gadā vācu ķīmiķis [[Martins Heinrihs Klaprots]] atklāja [[ķīmiskais elements|ķīmisko elementu]], kuru vēlāk izvēlējās nosaukt par [[urāns (elements)|urānu]], par godu sava kolēģa [[Viljams Heršels|Viljama Heršela]] jaunatklātajai planētai Urānam.<ref name="britannica"/><ref name="space.com Uranus facts"/>
+
+[[Operācija "Urāns"]] bija sekmīgais [[Sarkanā armija|padomju]] militāri stratēģiskais pretuzbrukums, kas 1942. gada novembrī ļāva [[Staļingradas kauja]]s laikā ielenkt [[vērmahts|vācu 6. armiju]] un panākt lūzumpunktu [[Otrā pasaules kara Austrumu fronte|Austrumu frontē]].<ref>{{tīmekļa atsauce|url= https://www.britannica.com/event/Battle-of-Stalingrad#ref1225093 |title=Battle of Stalingrad|work=britannica.com|publisher= Encyclopaedia Britannica |first=Raymond|last=Limbach|accessdate=16 March 2018}}</ref>
+
+Urāns iekļauts angļu komponista [[Gustavs Holsts|Gustava Holsta]] ciklā [[Planētas (svīta)|"Planētas"]], kur tā ir sestā attēlotā planēta starp citām Saules sistēmas planētām (izņemot Zemi).
+
+== Skatīt arī==
+{{portāls|astronomija}}
+* [[Gāzu planēta]]
+* [[Urāna gredzeni]]
+* [[Urāna pavadoņi]]
+* [[Urāns (dievs)]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Urāns| ]]
+[[Kategorija:Saules sistēmas planētas]]

@@ -1,0 +1,64 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 77
+|             6. čaula = 2
+|             5. čaula = 15
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Ir
+|             atommasa = 192,217
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>7</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Ir-TableImage.svg|250px]]
+|               attēls = [[Attēls:Iridium.jpg|160px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Iridium-2.jpg|170px]]<br />Kausēta irīdija lodīte un tīra irīdija gabaliņi
+|  oksidēšanas pakāpes = +6, '''+4''', '''+3''',  +2, +1, 0, -1
+|  elektronegativitāte = 2,2
+|              blīvums = 22 560
+|  kušanas temperatūra = 2719 K (2446&nbsp;°C)
+| viršanas temperatūra = 4701 K (4428&nbsp;°C)
+|  īpatnējā pretestība = (20&nbsp;°C) 4,71{{E|-8}}
+}}
+
+'''Irīdijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ir''' un [[atomskaitlis|atomskaitli]] 77. Irīdijs ir ciets, trausls [[platīna grupa]]s [[metāls]] un dabā ir ļoti reti sastopams, galvenokārt kā piemaisījums [[platīns|platīna]] [[tīrradnis|tīrradņiem]]. Relatīvi lielos daudzumos to var atrast [[meteorīts|meteorītos]]. Irīdiju lieto karstumizturīgiem [[sakausējums|sakausējumiem]], tam ir ļoti laba [[korozija]]s izturība. Savienojumos irīdijs ir galvenokārt trīsvērtīgs un četrvērtīgs.
+
+== Vēsture ==
+Irīdija atklāšana ir saistīta ar [[platīns|platīna]] un citu [[platīna grupa]]s metālu atklāšanu. Konkrēti irīdiju 1803. gadā atklāja franču ķīmiķi [[Ipolits Viktors Kollets Deskotils]] (''Hippolyte-Victor Collet-Descotils''), [[Antuāns de Furkruā]] (''Antoine de Fourcroy'') un [[Luī Nikolā Voklēns]] (''Louis Nicolas Vauquelin''). Tajā pašā gadā arī angļu ķīmiķis [[Smitsons Tenants]] (''Smithson Tennant'') atklāja jauno metālu un [[osmijs|osmiju]], pētot platīna rūdu, kas bija atvesta no [[Dienvidamerika]]s.
+
+1842. gadā irīdijs pirmo reizi tika iegūts ar ļoti augstu tīrības pakāpi.
+
+Irīdija nosaukums cēlies no [[grieķu valoda|grieķu vārda]] {{gree|ἶρις}} (''iris'') — [[varavīksne]], jo irīdija [[sāļi]] ir daudzkrāsaini.
+
+== Atrašanās dabā ==
+[[Attēls:Willamette Meteorite AMNH.jpg|thumbnail|175px|[[Vilameta meteorīts|Vilameta meteorītā]], kas ir sestais lielākais atrastais meteorīts, irīdija koncentrācija ir aptuveni 4,7 daļiņas no miljona]]
+Irīdijs [[Zemes garoza|Zemes garozā]] ir viens no visretāk sastopamajiem elementiem. Tā koncentrācija ir aptuveni viena daļiņa no miljarda, kas ir daudz mazāk nekā [[zelts|zelta]] vai [[platīns|platīna]] koncentrācija. Tikai vēl trīs dabā sastopamiem ķīmiskie elementiem ir vēl mazāka koncentrācija. Toties irīdija koncentrācija ir aptuveni 500 reizes lielāka uz Zemes atrastajos [[meteorīts|meteorītos]]. Tas liek domāt, ka irīdija uz Zemes tomēr ir daudz vairāk. Tā kā irīdija blīvums ir salīdzinoši liels, tad, iespējams, tas lielākā koncentrācijā atrodas [[Zemes kodols|Zemes kodolā]].
+
+=== Izotopi ===
+Ir zināmi divi stabili irīdija [[izotops|izotopi]]: irīdijs-193 (62,7% no kopējā irīdija daudzuma) un irīdijs-191 (37,3%).<ref name="jlab"/> Ir sintezēti vēl vismaz 34 radioaktīvi izotopi, kuru [[masas skaitlis|masas skaitļi]] ir no 164 līdz 199. Visstabilākais ir irīdijs-192, kura [[pussabrukšanas periods]] ir 73,827 dienas.
+
+== Iegūšana ==
+Irīdijs komerciāli tiek iegūts kā blakusprodukts [[varš|vara]] un [[niķelis|niķeļa]] raktuvēs. 2000. gados vidēji ik gadu pasaulē tika iegūtas no 2,5 līdz 4 tonnām irīdija, bet 2010. gadā ieguva aptuveni 10,4 tonnas irīdija. Tā cena 2010. gadā bija 642,15 [[ASV dolārs|ASV dolāri]] par [[Trojas unce|Trojas unci]].
+
+== Fizikālās īpašības ==
+Irīdijs ir smags sudrabbalts metāls. Tā [[blīvums]] ir {{nobr|22 560}} kg/m³. Tā kā tas ir ļoti [[cietība|ciets]], tad to ir grūti mehāniski apstrādāt. Irīdija [[kušanas temperatūra]] ir 2446&nbsp;°C, bet [[viršanas temperatūra]] ir 4428&nbsp;°C. Tā ir desmitā augstākā viršanas temperatūra no visiem ķīmiskajiem elementiem. Irīdija [[kristāliskā struktūra]] ir malās centrēta [[kubiskā singonija]].
+
+== Ķīmiskās īpašības ==
+{{nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso077.html | title= Isotopes of the Element Iridium | publisher= Jefferson Lab | accessdate= 2013. gada 16. augustā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

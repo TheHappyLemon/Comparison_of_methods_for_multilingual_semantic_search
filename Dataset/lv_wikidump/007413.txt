@@ -1,0 +1,88 @@
+{{Latvijas novada infokaste
+| nosaukums         = Lazdulejas pagasts
+| karte             = Lazdulejas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs2            = [[Egļuciems (Lazdulejas pagasts)|Egļuciems]]
+| platība           = 87,17
+| iedzīvotāji       = 256<ref name="PMLP">[https://www.pmlp.gov.lv/lv/media/7140/download PMLP dati]</ref>
+| iedzīvotāji_gads  = 2021
+| blīvums           = {{#expr: 256 / 87.17 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Lazdulejas pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām tā centrālajā daļā. Robežojas ar sava novada [[Briežuciema pagasts|Briežuciema]], [[Tilžas pagasts|Tilžas]], [[Vectilžas pagasts|Vectilžas]], [[Bērzkalnes pagasts|Bērzkalnes]], [[Medņevas pagasts|Medņevas]] un [[Šķilbēnu pagasts|Šķilbēnu]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Kārnīte]], [[Rika]], [[Stiglova (upe)|Stiglova]], [[Tilža]].
+
+==== Ezeri ====
+[[Orlovas ezers]], [[Ploskenes ezers]].
+
+== Vēsture ==
+1945. gadā [[Abrenes apriņķis|Abrenes apriņķa]] [[Šķilbēnu pagasts|Šķilbēnu pagastā]] izveidoja '''Šķilbēnu ciemu'''. Šķilbēnu ciems ietilpis [[Viļakas apriņķis|Viļakas apriņķī]] (1945-1949), [[Abrenes rajons|Abrenes]] (1949-1959) un [[Balvu rajons|Balvu]] (pēc 1959. g.) rajonos. Šķilbēnu ciemam 1954. gadā pievienoja likvidēto [[Egļevas ciems|Egļevas ciemu]], 1960. gadā - likvidēto [[Demerovas ciems|Demerovas ciemu]]. 1968. gadā Šķilbēnu ciemu pārdēvēja par '''Lazdulejas ciemu'''. 1971. gadā Lazdulejas ciemam pievienoja likvidētā [[Kraukļu ciems|Kraukļu ciema]] <ref>[https://sites.google.com/view/lazdulejas/m%C4%81jas Lazdulejas pagasts 1967]</ref> [[kolhozs|kolhoza]] «Borec» teritoriju, savukārt [[padomju saimniecība]]s «Briežuciems» teritoriju pievienoja [[Briežuciema ciems|Briežuciema ciemam]], kolhoza «Cīņa» teritoriju - [[Upītes ciems|Upītes ciemam]], padomju saimniecības «Šķilbēni» teritoriju - [[Šķilbēnu pagasts|Šķilbēnu ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>[https://gramatas.lndb.lv/periodika2-viewer/#panel:pp|issue:641643|article:DIVL7987|page:567 Latvijas pagasti enciklopēdija 2002]</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Balvu novads|Balvu novadā]].
+
+== Iedzīvotāji ==
+{| class="wikitable"
+|+ Iedzīvotāju skaita izmaiņas
+|-
+| Gads || 1979 || 1989 || 2000 || 2011 || 2016 || 2021
+|-
+| Skaits || 508<ref>{{Atsauce|title=Русский:  Latvijas 1979. gada tautas skaitīšanas dati|url=https://commons.wikimedia.org/wiki/File:Balvu_1979.jpg|date=2014-12-09|accessdate=2022-08-05|last=Prieditis2012}}</ref> || 462<ref name="Ethnic composition of Latvia 2000">{{Tīmekļa atsauce|url=http://pop-stat.mashke.org/latvia-ethnic-comm2000.htm|title=Ethnic composition of Latvia 2000|website=pop-stat.mashke.org|access-date=2022-08-05}}</ref> || 418<ref name="Ethnic composition of Latvia 2000"/> || 315<ref>{{Tīmekļa atsauce|url=http://pop-stat.mashke.org/latvia-ethnic-comm2011.htm|title=Ethnic composition of Latvia 2011|website=pop-stat.mashke.org|access-date=2022-08-05}}</ref> || 303<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=PMLP dati |access-date={{dat|2018|11|25||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref> || 256<ref name="PMLP" />
+|}
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1725
+|1959|775
+|1967|575
+|1979|508
+|1989|473
+|2000|413
+|2011|315
+|2016|303
+|2021|229
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Egļuciems (Lazdulejas pagasts)|Egļuciems]]''' (pagasta centrs), [[Egļeva]], [[Kīļi]], [[Orlova (ciems)|Orlova]], [[Petrovka (Lazdulejas pagasts)|Petrovka]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Balvu rajons}}
+}}
+
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Lazdulejas pagasts| ]]
+[[Kategorija:Šķilbēnu pagasts]]

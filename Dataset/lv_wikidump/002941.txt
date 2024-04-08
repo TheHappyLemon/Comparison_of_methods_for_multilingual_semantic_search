@@ -1,0 +1,170 @@
+'''Krievu alfabēts''' mūsdienu [[krievu valoda]]s [[alfabēts]] un ir veidots uz [[kirilica]]s rakstu sistēmas pamata. Ieviests ap [[988]]. gadu laikā, kad [[Kijevas Krievzeme]] tika pievērsta [[kristietība]]i.
+
+Kopš [[1942]]. gada. alfabētā ir 33 [[burts|burti]]. No [[1918]]. g., kad tika veikta pēdējā nozīmīgā krievu valodas [[pareizrakstības reforma]], līdz 1942. gadam '''Е''' un '''Ё''' tika uzskatīti par viena un tā paša burta diviem variantiem.
+
+{| style="font-family:Microsoft Sans Serif; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:3em; text-align:center; padding: 3px;" | А а
+| style="width:3em; text-align:center; padding: 3px;" | Б б
+| style="width:3em; text-align:center; padding: 3px;" | В в
+| style="width:3em; text-align:center; padding: 3px;" | Г г
+| style="width:3em; text-align:center; padding: 3px;" | Д д
+| style="width:3em; text-align:center; padding: 3px;" | Е е
+| style="width:3em; text-align:center; padding: 3px;" | Ё ё
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ж ж
+| style="width:3em; text-align:center; padding: 3px;" | З з
+| style="width:3em; text-align:center; padding: 3px;" | И и
+| style="width:3em; text-align:center; padding: 3px;" | Й й
+| style="width:3em; text-align:center; padding: 3px;" | К к
+| style="width:3em; text-align:center; padding: 3px;" | Л л
+| style="width:3em; text-align:center; padding: 3px;" | М м
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Н н
+| style="width:3em; text-align:center; padding: 3px;" | О о
+| style="width:3em; text-align:center; padding: 3px;" | П п
+| style="width:3em; text-align:center; padding: 3px;" | Р р
+| style="width:3em; text-align:center; padding: 3px;" | С с
+| style="width:3em; text-align:center; padding: 3px;" | Т т
+| style="width:3em; text-align:center; padding: 3px;" | У у
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ф ф
+| style="width:3em; text-align:center; padding: 3px;" | Х х
+| style="width:3em; text-align:center; padding: 3px;" | Ц ц
+| style="width:3em; text-align:center; padding: 3px;" | Ч ч
+| style="width:3em; text-align:center; padding: 3px;" | Ш ш
+| style="width:3em; text-align:center; padding: 3px;" | Щ щ
+| style="width:3em; text-align:center; padding: 3px;" | Ъ ъ
+|-
+| style="width:3em; text-align:center; padding: 3px;" | Ы ы
+| style="width:3em; text-align:center; padding: 3px;" | Ь ь
+| style="width:3em; text-align:center; padding: 3px;" | Э э
+| style="width:3em; text-align:center; padding: 3px;" | Ю ю
+| style="width:3em; text-align:center; padding: 3px;" | Я я
+|}
+
+== Alfabēts ==
+Krievu valodas alfabēts ir šāds: {{Listen|filename=russian_alphabet.ogg|title=Krievu alfabēts.|description=(klausīties krievu alfabētu)|format=[[Ogg]]}}
+
+{| border=1 cellspacing=0 cellpadding=4 style="border-collapse:collapse; "
+|- style="vertical-align:bottom; background:#eee; "
+! Lielais<br />burts
+! Mazais<br />burts
+! Nosaukums<br /><small>(krieviski)</small>
+! Vecais<br />nosaukums<ref>Līdz apm. 1900.g. burtu nosaukumiem tika lietoti [[baznīcslāvu valoda]]s vārdi. Šeit doti pirmsreformas ortogrāfijā.</ref>
+! [[IPA]]<br />vērtība
+! [[Alofons|Alofoni]] un<br />pozicionālā<br />maiņa
+! Latviskā atbilstība<br /><small>(pamatfonēmai)</small>
+! [[Unicode]]<br />pozīcija
+|-
+| '''[[А]]''' || '''[[а]]''' || а<br />{{IPA|[a]}} || азъ<br />{{IPA|[as]}} || {{IPA|/a/}} || {{IPA|/æ/, /ɨ/, /ə/, /ɐ/}} || a vārdā v'''a'''rde || U+0410 / U+0430
+|-
+| '''[[Б]]''' || '''[[б]]''' || бэ<br />{{IPA|[bɛ]}} || буки<br />{{IPA|[ˈbu.kʲɪ]}} || {{IPA|/b/}} vai {{IPA|/bʲ/}} || || b vārdā '''b'''iete || U+0411 / U+0431
+
+|-
+| '''[[В]]''' || '''[[в]]''' || вэ<br />{{IPA|[vɛ]}} || {{Unicode |вѣди}}<br />{{IPA|['vʲe.dʲɪ]}} || {{IPA|/v/}} vai {{IPA|/vʲ/}} || {{IPA|/f/}}<ref>Pirms cita nebalsīga līdzskaņa.</ref> || v vārdā '''v'''ārds || U+0412 / U+0432
+
+|-
+| '''[[Г]]''' || '''[[г]]''' || {{IPA|гэ<br />[gɛ]}} || глаголь<br />{{IPA|[glɐˈgolʲ]}} || {{IPA|/g/}} || || g vārdā '''g'''alva || U+0413 / U+0433
+|-
+| '''[[Д]]''' || '''[[д]]''' || {{IPA|дэ<br />[dɛ]}} || добро<br />{{IPA|[dɐˈbro]}} || {{IPA|/d/}} vai {{IPA|/dʲ/}} || || d vārdā '''d'''iena || U+0414 / U+0434
+|-
+| '''[[Е]]''' || '''[[е]]''' || е<br />{{IPA|[jɛ]}} || есть<br />{{IPA|[jesʲtʲ]}} || {{IPA|/je/}} vai {{IPA|/&nbsp;ʲe/}} || {{IPA|/ɛ/, /e/, /ɪ/, /ɨ/}} || je vārdā '''je'''nots || U+0415 / U+0435
+|-
+| '''[[Ё]]''' || '''[[ё]]''' || ё<br />{{IPA|[jo]}} || - || {{IPA|/jo/}} vai {{IPA|/&nbsp;ʲo/}} || || jo vārdā ma'''jo'''rāns || U+0401 / U+0451
+|-
+| '''[[Ж]]''' || '''[[ж]]''' || жэ<br />{{IPA|[ʐɛ]}} || {{Unicode|живѣте}}<br />{{IPA|[ʐɨˈvʲe.tʲɪ]}}|| {{IPA|/ʐ/}} || || ž vārdā žagata || U+0416 / U+0436
+|-
+| '''[[З]]''' || '''[[з]]''' || зэ<br />{{IPA|[zɛ]}} || земля<br />{{IPA|[zʲɪˈmlʲa]}} || {{IPA|/z/}} vai {{IPA|/zʲ/}} || || z vārdā '''z'''aķis || U+0417 / U+0437
+|-
+| '''[[И]]''' || '''[[и]]''' || и<br />{{IPA|[i]}} || иже<br />{{IPA|[ˈi.ʐɨ]}} || {{IPA|/i/}} vai {{IPA|/&nbsp;ʲi/}} || {{IPA|/ɨ/}} || i vārdā '''i'''lgs || U+0418 / U+0438
+|-
+| '''[[Й]]''' || '''[[й]]''' || и краткое<br />{{IPA|[i ˈkra.tkə.ɪ]}} || и съ краткой<br />{{IPA|[ɪ s ˈkra.tkəj]}} || {{IPA|/j/}} ||  || j vārdā '''j'''ūra || U+0419 / U+0439
+|-
+| '''[[К]]''' || '''[[к]]''' || ка<br />{{IPA|[ka]}} || како<br />{{IPA|[ˈka.kə]}} || {{IPA|/k/}} vai {{IPA|/kʲ/}} ||  || k vārdā '''k'''āja || U+041A / U+043A
+|-
+| '''[[Л]]''' || '''[[л]]''' || эл ''vai'' эль<br />{{IPA|[el]}} ''vai'' {{IPA|[elʲ]}} || люди<br />{{IPA|[ˈlʲʉ.dʲɪ]}} || {{IPA|/l/}} vai {{IPA|/lʲ/}} ||  || l vārdā '''l'''ampa || U+041B / U+043B
+|-
+| '''[[М]]''' || '''[[м]]''' || эм<br />{{IPA|[ɛm]}} || {{Unicode |мыслѣте}}<br />{{IPA|[mɨ.ˈsʲlʲe.tʲɪ]}} || {{IPA|/m/}} vai {{IPA|/mʲ/}} || || m vārdā '''m'''alt || U+041C / U+043C
+|-
+| '''[[Н]]''' || '''[[н]]''' || эн<br />{{IPA|[ɛn]}} || нашъ<br />{{IPA|[naʂ]}} || {{IPA|/n/}} vai {{IPA|/nʲ/}}||  || n vārdā '''n'''akts || U+041D / U+043D
+|-
+| '''[[О]]''' || '''[[о]]''' || o<br />{{IPA|[o]}} || онъ<br />{{IPA|[on]}} || {{IPA|/o/}} || {{IPA|/ə/, /ɐ/, /ɵ/}} || o vārdā '''o'''rgāns || U+041E / U+043E
+|-
+| '''[[П]]''' || '''[[п]]''' || пэ<br />{{IPA|[pɛ]}} || покой<br />{{IPA|[pɐˈkoj]}} || {{IPA|/p/}} vai {{IPA|/pʲ/}}||  || p vārdā '''p'''ats || U+041F / U+043F
+|-
+| '''[[Р]]''' || '''[[р]]''' || эр<br />{{IPA|[ɛr]}} || рцы<br />{{IPA|[rtsɨ]}} || {{IPA|/r/}} vai {{IPA|/rʲ/}} || || r vārdā '''r'''asa || U+0420 / U+0440
+|-
+| '''[[С]]''' || '''[[с]]''' || эс<br />{{IPA|[ɛs]}} || слово<br />{{IPA|[ˈslo.və]}} || {{IPA|/s/}} vai {{IPA|/sʲ/}}|| || s vārdā '''s'''aule || U+0421 / U+0441
+|-
+| '''[[Т]]''' || '''[[т]]''' || тэ<br />{{IPA|[tɛ]}} || твердо<br />{{IPA|[ˈtvʲɛ.rdə]}} || {{IPA|/t/}} vai {{IPA|/tʲ/}} || || t vārdā '''t'''aure || U+0422 / U+0442
+|-
+| '''[[У]]''' || '''[[у]]''' || у<br />{{IPA|[u]}} || укъ<br />{{IPA|[uk]}} || {{IPA|/u/}} || {{IPA|/ʊ/, /ʉ/}} || u vārdā '''u'''pe || U+0423 / U+0443
+|-
+| '''[[Ф]]''' || '''[[ф]]''' || эф<br />{{IPA|[ɛf]}} || фертъ<br />{{IPA|[fʲɛrt]}} || {{IPA|/f/}} vai {{IPA|/fʲ/}} || || f vārdā '''f'''ilma || U+0424 / U+0444
+|-
+| '''[[Х]]''' || '''[[х]]''' || ха<br />{{IPA|[xa]}} || {{Unicode| хѣръ}}<br />{{IPA|[xʲɛr]}} || {{IPA|/x/}} || || h vārdā '''h'''alva || U+0425 / U+0445
+|-
+| '''[[Ц]]''' || '''[[ц]]''' || це<br />{{IPA|[tsɛ]}} || цы<br />{{IPA|[tsɨ]}} || {{IPA|/ts/}} vai {{IPA|/tsʲ/}} || || c vārdā '''c'''ālis || U+0426 / U+0446
+|-
+| '''[[Ч]]''' || '''[[ч]]''' || че<br />{{IPA|[tɕɛ]}} || червь<br />{{IPA|[tɕɛrfʲ]}} || {{IPA|/tɕ/}} || || č vārdā čiekurs || U+0427 / U+0447
+|-
+| '''[[Ш]]''' || '''[[ш]]''' || ша<br />{{IPA|[ʂa]}} || ша<br />{{IPA|[ʂa]}} || {{IPA|/ʂ/}} || || š vārdā '''š'''ķauda <ref>Latviešu valodā tikai pirms cita [[palatāls līdzskanis|palatāla līdzskaņa]], citās pozīcijās latviešu valodā fonēma {{IPA|/ʃ/}}</ref> || U+0428 / U+0448
+|-
+| '''[[Щ]]''' || '''[[щ]]''' || ща<br />{{IPA|[ɕɕa]}} || ща<br />{{IPA|[ɕtɕa]}} || {{IPA|/ɕɕ/}} || || <small>nav tiešas<br />atbilstības</small> || U+0429 / U+0449
+|-
+| '''[[Ъ]]''' || '''[[ъ]]''' || твёрдый знак<br />{{IPA|[ˈtvʲо.rdɨj znak]}} || еръ<br />{{IPA|[jɛr]}} || {{IPA|/-/}}<ref>Zīme, kas norāda, ka pirms tās esošais [[līdzskanis]] nav [[palatalizācija|palatalizējams]].</ref>  || || <small>nav tiešas<br />atbils</small> || U+042A / U+044A
+|-
+| '''[[Ы]]''' || '''[[ы]]''' || ы<br />{{IPA|[ɨ]}} || еры<br />{{IPA|[jɪˈrɨ]}} || {{IPA|[ɨ]}} || || <small>nav tiešas<br />atbilstības</small> || U+042B / U+044B
+|-
+| '''[[Ь]]''' || '''[[ь]]''' || мягкий знак<br />{{IPA|[ˈmʲækʲɪj znak]}} || ерь<br />{{IPA|[jerʲ]}}</td> || {{IPA|/&nbsp;ʲ/}}<ref>Norāda uz iepriekšējā līdzkaņa [[palatalizācija|palatalizāciju]].</ref> || || (vajadzigs, lai izdarit butu mikstak; ļ — "ль")
+|| U+042C / U+044C 
+|-
+| '''[[Э]]''' || '''[[э]]''' || э<br />{{IPA|[ɛ]}} || э оборотное<br />{{IPA|[ˈɛ ə.bɐˈro.tnə.ɪ]}} || {{IPA|/e/}} || {{IPA|/ɛ/, /ɪ/}} || e vārdā '''e'''gl'''e''' || U+042D / U+044D
+|-
+| '''[[Ю]]''' || '''[[ю]]''' || ю<br />{{IPA|[ju]}} || ю<br />{{IPA|[ju]}} || {{IPA|/ju/}} vai {{IPA|/&nbsp;ʲu/}} || {{IPA|/jʉ/}} || ju vārdā '''ju'''nda || U+042E / U+044E
+|-
+| '''[[Я]]''' || '''[[я]]''' || я<br />{{IPA|[ja]}} || я<br />{{IPA|[ja]}} || {{IPA|/ja/}} vai {{IPA|/&nbsp;ʲa/}} ||  || ja vārdā '''ja'''ka || U+042F / U+044F
+|- style="vertical-align:bottom; background:#eee; "
+! align=left colspan=8 | [[1918]]. g. reformā atceltie burti
+|-
+| '''[[І]]''' || '''[[і]]''' || - || і десятеричное<br />{{IPA|[i]}} || {{IPA|/i/}} or {{IPA|/&nbsp;ʲi/}} || ||
+|-
+| '''{{Kirilic|[[Ѳ]]}}''' || '''{{Kirilic|[[ѳ]]}}''' || - || {{Unicode |ѳита}}<br />{{IPA|[fʲɪˈta]}} || {{IPA|/f/}} vai {{IPA|/fʲ/}} || ||
+|-
+| '''{{Kirilic |[[Ѣ]]}}'''  || '''{{Kirilic|[[ѣ]]}}''' || - || ять<br />{{IPA|[jætʲ]}} || {{IPA|/je/}} vai {{IPA|/&nbsp;ʲe/}} || || 
+|-
+| '''{{Kirilic |[[Ѵ]]}}''' || '''{{Kirilic|[[ѵ]]}}''' || - || ижица<br />{{IPA|[ˈi.ʐɨ.tsə]}} || {{IPA|/i/}} vai {{IPA|/&nbsp;ʲi/}} || ||
+|- style="vertical-align:bottom; background:#eee; "
+! align=left colspan=8 | kopš 18. gs. nelietotie burti
+|-
+| '''{{Unicode |[[Ѕ]]}}''' || '''{{Kirilic|[[ѕ]]}}''' || - || {{Unicode |зѣло}}<br />{{IPA|[ˈzʲɛ.lə]}} || {{IPA|/dz/, /z/}} vai {{IPA|/zʲ/}} ||  ||
+|-
+| '''{{Kirilic|[[Ѯ]]}}''' || '''{{Kirilic|[[ѯ]]}}''' || - || кси<br />{{IPA|[ksʲi]}} || {{IPA|/ks/}} vai {{IPA|/ksʲ/}} ||  || 
+|-
+| '''{{Kirilic|[[Ѱ]]}}''' || '''{{Kirilic|[[ѱ]]}}''' || - || пси<br />{{IPA|[psʲi]}} || {{IPA|/ps/}} vai {{IPA|/psʲ/}} ||  ||
+|-
+| '''{{Kirilic|[[Ѡ]]}}''' || '''{{Kirilic|[[ѡ]]}}''' || - || омега<br />{{IPA|[ɐˈmʲɛ.gə]}} || {{IPA|/o/}} ||  || 
+|-
+| '''{{Kirilic|[[Ѫ]]}}''' || '''{{Kirilic|[[ѫ]]}}'''  || - || юсъ большой<br />{{IPA|[jus bɐlʲˈʂoj]}} || {{IPA|/u/,/ju/}} vai {{IPA|/&nbsp;ʲu/}} ||  || 
+|-
+| '''{{Kirilic|[[Ѧ]]}}''' || '''{{Kirilic|[[ѧ]]}}''' || - || юсъ малый<br />{{IPA|[jus ˈmɑ.lɨj]}} || {{IPA|/ja/}} vai {{IPA|/&nbsp;ʲa/}} ||  || 
+|-
+| '''{{Kirilic|[[Ѭ]]}}''' || '''{{Kirilic|[[ѭ]]}}''' || - || юсъ большой іотированный<br />{{IPA|[jus bɐlʲˈʂoj jɪˈtʲi.rə.vən.nɨj]}} || {{IPA|/ju/}} vai {{IPA|/&nbsp;ʲu/}} || ||
+|-
+| '''{{Kirilic|[[Ѩ]]}}''' || '''{{Kirilic|[[ѩ]]}}''' || - || юсъ малый іотированный<br />{{IPA|[jus ˈmɑ.lɨj jɪˈtʲi.rə.vən.nɨj]}} || {{IPA|/ja/}} vai {{IPA|/&nbsp;ʲa/}} || ||
+|}
+; Piezīmes un atsauces:
+{{Atsauces}}
+
+== Skatīt arī ==
+* [[Krievu alfabēta transliterācija]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{krievu alfabēts}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievu valoda]]
+[[Kategorija:Kirilica]]

@@ -1,0 +1,39 @@
+{{ezera infokaste
+|ezers=Plavas ezers
+|attēls=PlauerSeeBoot.JPG
+| map = Vācija
+| plat_d=53 | plat_m=28 | plat_s= | plat_NS=N
+| gar_d=12 | gar_m=18 | gar_s= | gar_EW=E
+|vieta={{DEU}}
+|platība=38,4
+|garums=15
+|Vid_dziļums=6,8
+|Max_dziļums=25,5
+|tilpums=0,3
+|augstums_vjl=62
+|izteka=Mīrica-Eldes kanāls
+|baseins=1109
+|valstis=
+|salas=
+|pilsētas=[[Plava]] <!-- Plau am See -->
+}}
+'''Plavas ezers''' ({{val-de|Plauer See}}) ir [[ezers]] [[Vācija]]s ziemeļaustrumos, [[Mēklenburga-Priekšpomerānija|Mēklenburgā-Priekšpomerānijā]]. Populāra atpūtas vieta, apkārt ezeram ierīkots [[Veloceļš|veloceliņš]].
+
+<mapframe text="Plavas ezers" width=300 height=300 zoom=10 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q704793"
+}
+</mapframe>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{vācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vācijas ezeri]]
+[[Kategorija:Mēklenburga-Priekšpomerānija]]

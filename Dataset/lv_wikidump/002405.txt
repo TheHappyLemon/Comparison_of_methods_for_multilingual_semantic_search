@@ -1,0 +1,24 @@
+{{BioTakso infokaste
+| attēls =Equisetum_telmateia_stem.jpg
+| att_nosaukums ={{TaksoSaite|Equisetum telmateia|Lielā kosa}}
+| valsts =Plantae
+| valsts_lv =Augi
+| nodalījums =Equisetophyta
+| nodalījums_lv =Kosveidīgie
+| iedalījums=
+* †{{TaksoSaite|Hyenopsida|Hienijas}}
+* †{{TaksoSaite|Sphenophyllopsida|Ķīļlapji}} (Sfenofiļi)
+* †{{TaksoSaite|Calamitopsida|Kalamīti}}
+* {{TaksoSaite|Equisetopsida|Kosas}}
+}}
+'''Kosveidīgie''' augi ({{val-la|Equisetophyta}}) ir [[paparžaugi|paparžaugu]] (''Pteridophyta'') apakšnodalījums, kas iedalās četrās klasēs, no kurām līdz mūsdienām ir saglabājusies tikai viena. Kosveidīgos raksturo [[sporofīts|sporofīta]] [[monopodiālā zarošanās]] un sānzaru mieturveida sakārtojums. Arī lapas sakārtotas [[mieturs|mieturos]]. Stumbram un zariem krasi izteikti posmi un mezgli. Lapas reducētas no vidēja izmēra līdz sīkām, tām ir tikai viena dzīsla. [[Sporangiji]] atrodas uz [[sporofils|sporofila]] — pārveidota sānzara. Kosveidīgie ir kā vienādsporu, tā arī dažādsporu [[augi]]. Kokveidīgie pārstāvji ir pilnīgi izmiruši, mūsdienās saglabājušies tikai [[lakstaugi]].
+
+== Klasifikācija ==
+'''Nodalījums''' {{TaksoSaite|Equisetophyta|Kosveidīgie}}
+* klase †{{TaksoSaite|Hyenopsida|Hienijas}}
+* klase †{{TaksoSaite|Sphenophyllopsida|Ķīļlapji}} (Sfenofiļi)
+* klase †{{TaksoSaite|Calamitopsida|Kalamīti}}
+* klase {{TaksoSaite|Equisetopsida|Kosas}}
+(†) — izmirušu augu grupa.
+
+{{botānika-aizmetnis}}

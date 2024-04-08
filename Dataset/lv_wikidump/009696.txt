@@ -1,0 +1,21 @@
+{{Navbox
+|name=Austrijas zemes
+|title=[[Austrija]]s [[Austrijas administratīvais iedalījums|federālās zemes]] {{flaga|Austrija}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Augšaustrija]]
+* [[Burgenlande]]
+* [[Forarlberga]]
+* [[Karintija]]
+* [[Lejasaustrija]]
+* [[Štīrija]]
+* [[Tirole]]
+* [[Vīne]]
+* [[Zalcburga (zeme)|Zalcburga]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

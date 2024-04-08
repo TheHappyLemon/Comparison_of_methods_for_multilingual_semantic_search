@@ -1,0 +1,77 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Tartu apriņķis
+| native_name = ''Tartu maakond''
+| image_skyline = Tartu asv2022-04 img08 Toomkirik.jpg
+| imagesize = 
+| image_caption = Tartu doma drupas
+| settlement_type = [[Igaunijas administratīvais iedalījums|apriņķis]]
+| total_type = Kopā
+| image_flag = Tartumaa lipp.svg
+| image_shield = Tartumaa vapp.svg
+| image_map = Tartu County in Estonia.svg
+| image_map1 = 
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{EST}}
+| area_total_km2 = 3349
+| population_total = 151122
+| population_as_of = 2018
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = 
+| latm = 
+| lats =
+| latNS = 
+| longd = 
+| longm = 
+| longs =
+| longEW = 
+| seat_type = Centrs
+| seat = [[Tartu]]
+| parts_type = Administratīvais iedalījums
+| parts = 1 pilsētas pašvaldība un 7 pagasti
+| population_blank02_title = etniskais sastāvs
+| population_blank02 = [[igauņi]] (82,7 %), [[krievi]] (13,8 %)
+| website = 
+}}
+
+'''Tartu apriņķis''' ({{val-et|Tartu maakond}}), arī '''Tērbatas apriņķis''', ir viens no 15 [[Igaunija]]s [[Igaunijas administratīvais iedalījums|apriņķiem]]. Apriņķis atrodas valsts austrumu daļā, ziemeļos tas robežojas ar [[Jegevas apriņķis|Jegevas apriņķi]], rietumos ar [[Viljandi apriņķis|Viljandi apriņķi]], bet dienvidos ar [[Valgas apriņķis|Valgas]] un [[Pelvas apriņķis|Pelvas]] apriņķiem. Austrumos Tartu apriņķi apskalo [[Peipusa ezers]]. Tartu apriņķa administratīvais centrs ir [[Tartu]], kas ir otra lielākā Igaunijas pilsēta.
+
+== Pilsētas ==
+* [[Elva]]
+* [[Kallaste]]
+* [[Tartu]]
+
+== Administratīvais iedalījums ==
+
+Pēc 2017. gada teritoriālās reformas apriņķī ir 8 pašvaldības - [[Elvas pagasts]], [[Kambjas pagasts]], [[Kastres pagasts]], [[Lūnjas pagasts]], [[Neo pagasts]], [[Peipsisēres pagasts]], [[Tartu pagasts]] un [[Tartu pilsētas pašvaldība]]. 
+
+<gallery>
+Alatskivi mõisa peahoone.jpg|
+Saadjärve mõisa peahoone.jpg|
+Tammistu mõisa peahoone.jpg|
+Elva raudteejaama peahoone.jpg|
+</gallery>
+
+== Vēsture ==
+[[Attēls:(Atlas von Liefland, oder von den beyden Gouvernementern u. Herzogthümern Lief- und Ehstland, und der Provinz Oesel - entworfen nach geometrischen Vermessungen, den neusten astronomischen LOC 75572471-6.jpg|thumb|270px|Tērbatas apriņķa karte ([[Ludvigs Augusts Mellīns|Mellīns]], 1798).]]
+
+Tērbatas apriņķi (prezidiātu) izveidoja pēc [[Livonijas karš|Livonijas kara]] beigām [[1582]]. gadā, kuru [[1598]]. gadā pārdēvēja par [[Tērbatas vaivadija|Tērbatas vaivadiju]]. 
+Tērbatas apriņķi atjaunoja pēc [[Altmarkas pamiers|Altmarkas pamiera]] ([[1629]]) [[Zviedru Vidzeme]]s sastāvā. 
+
+Pēc 1783. gada Tērbatas apriņķī (''Dörptsche Kreis; Юрьевский (Дерптский) уезд'') ietilpa apriņķa pilsēta [[Tērbata]] (''Dorpat'') un 16 [[draudzes novads|draudžu novadi]] (''kihelkond''): [[Palamuse]] (''Bartholomäi''), [[Tartu]] (''Dorpat''), [[Äksi]] (''Ecks''), [[Kambja]] (''Kamby''), [[Puhja]] (''Kawelecht''), [[Kodavere]] (''Kotfer''), [[Laiuse]] (''Lais''), [[Maarja—Magdaleena]] (''Marien-Magdalenen'') , [[Nõo]] (''Nüggen''), [[Otepē]] (''Odempäh''/''Otepää''), [[Rannu]] (''Randen''), [[Rõngu]] (''Ringen''), [[Kursi]] (''Talkhof''), [[Sangaste]] (''Theal-Fölk, Sagnitz''), [[Torma]] (''Torma''), [[Võnnu]] (''Wenden'').
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.tartumaa.ee Tartu apriņķis]
+* [http://www.tartu.ee Tartu]
+
+{{Igaunija-aizmetnis}}
+
+{{Igaunijas apriņķi}}
+{{Vidzemes guberņa}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tartu apriņķis| ]]
+[[Kategorija:Igaunijas apriņķi]]

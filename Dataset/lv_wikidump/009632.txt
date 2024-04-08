@@ -1,0 +1,54 @@
+{{Krievijas republikas infokaste
+| nosaukums = Piejūras novads 
+| karte = Russia - Primorsky Krai (2008-01).svg
+| karoga_attēls = Flag_of_Primorsky_Krai.svg
+| karoga_nosaukums = Piejūras novada karogs
+| ģerboņa_attēls = Coat of Arms of Primorsky Krai.svg
+| ģerboņa_nosaukums = Piejūras novada ģerbonis
+| ģerboņa_platums = 80px
+| oriģ = Приморский край
+| galvaspilsēta = [[Vladivostoka]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (89,89%)
+| platība = 165 900
+| iedzīvotāji = 2 071 210
+| iedz blīvums = 12,5
+| pilsētas = 12
+| rajoni = 24
+| fedapgabals = [[Tālo Austrumu federālais apgabals|Tālie Austrumi]]
+| url = http://www.primorsky.ru/
+|ainavas_skats=Partizansky_District,_Primorsky_Krai,_Russia_-_panoramio_(12).jpg}}
+
+'''Piejūras novads''' ir viens no [[Krievijas Federācija]]s novadiem. Tas robežojas ar [[Klusais okeāns|Klusā okeāna]] [[Japāņu jūra|Japāņu jūru]] austrumos, [[Habarovskas novads|Habarovskas novadu]] ziemeļos, [[Ķīna|Ķīnu]] rietumos un dienvidrietumos, [[Ziemeļkoreja|Ziemeļkoreju]] dienvidos.
+[[Attēls:Zaliv Olga photo.jpg|thumb|250px|Piejūras novada ainava]]
+
+[[Krievijas Impērija]] novadu [[Taipinu sacelšanās]] laikā atņēma [[Ķīnas vēsture|Ķīnas impērija]]i, ko apstiprināja [[Pekinas līgums]] 1860. gadā.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Piejūras novads|width=400 |float=center|caption = Piejūras novada pilsētu izvietojums; '''trenkrakstā''' — novada centrs
+|places =
+{{VietasKarte~|Piejūras novads|lat=43.116667|long=131.9|position = left |label='''[[Vladivostoka]]'''}}
+{{VietasKarte~|Piejūras novads|lat=44.166667|long=133.266667|position = right |label=[[Arseņjeva]]}}
+{{VietasKarte~|Piejūras novads|lat=43.35|long=132.183333|position = left |label=[[Artjoma]]}}
+{{VietasKarte~|Piejūras novads|lat=43.116667|long=132.35|position = right |label=[[Boļšojkameņa]]}}
+{{VietasKarte~|Piejūras novads|lat=44.566667|long=135.616667|position = top |label=[[Daļņegorska]]}}
+{{VietasKarte~|Piejūras novads|lat=45.933333|long=133.733333|position = top |label=[[Daļņerečenska]]}}
+{{VietasKarte~|Piejūras novads|lat=45.466667|long=133.4|position = right |label=[[Ļesozavodska]]}}
+{{VietasKarte~|Piejūras novads|lat=42.816667|long=132.883333|position = right |label=[[Nahodka]]}}
+{{VietasKarte~|Piejūras novads|lat=43.133333|long=133.133333|position = top |label=[[Partizanska]]}}
+{{VietasKarte~|Piejūras novads|lat=44.6|long=132.816667|position = top |label=[[Spaska-Daļņija]]}}
+{{VietasKarte~|Piejūras novads|lat=43.8|long=131.95|position = top |label=[[Usurijska]]}}
+{{VietasKarte~|Piejūras novads|lat=42.966667|long=132.4|position = bottom |label=[[Fokina (Piejūras novads)|Fokina]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas administratīvais iedalījums}}
+{{Tālo Austrumu federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas novadi]]
+[[Kategorija:Piejūras novads| ]]

@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Ošupes pagasts
+| karte             = Ošupe Parish (LocMap).png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Ošupes pagasts COA.png
+| ģerboņa_nosaukums = Ošupes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Madonas novads
+| centrs            = Degumnieki
+| platība           = 224,3
+| iedzīvotāji       = 1104<ref>[http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf Latvijas iedzivotaju skaits pašvaldibas]. Pilsonības un migrācijas lietu pārvalde.</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1104 / 224.3 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Ošupes pagasts''' ir viena no [[Madonas novads|Madonas novada]] administratīvajām teritorijām tā dienvidaustrumos. Robežojas ar sava novada [[Barkavas pagasts|Barkavas pagastu]], [[Lubāna]]s pilsētu un [[Indrānu pagasts|Indrānu pagastu]], [[Balvu novads|Balvu novada]] [[Bērzpils pagasts|Bērzpils pagastu]], kā arī [[Rēzeknes novads|Rēzeknes novada]] [[Gaigalavas pagasts|Gaigalavas]] un [[Nagļu pagasts|Nagļu]] pagastiem. 
+
+== Daba ==
+[[Attēls:Osupes pagasts.JPG|thumb|260px|right|Ošupes pagasts]]
+Atrodas [[Austrumlatvijas zemiene]]s [[Lubāna līdzenums|Lubāna līdzenumā]]. Virsas augstums 92,3 — 105,4 m vjl.
+
+=== Hidrogrāfija ===
+==== Upes un kanāli ====
+* [[Aiviekste]]
+* [[Zvidze]]
+
+Ap agrāk pārplūstošo Lubānu izveidoti arī kanāli:
+* [[Lubāna izvadkanāls]]
+* [[Meirānu kanāls]]
+* [[Zvidzes kanāls]]
+
+==== Ezeri ====
+* pagastā atrodas daļa no [[Lubāns|Lubāna]]
+* [[Zvidzes ezers]] (1,7 ha)
+
+==== Purvi ====
+* [[Klānu purvs]] (pagastā atrodas daļa, kopplatība 2 597 ha)
+* [[Lielais purvs (Ošupe)|Lielais purvs]] (1 912 ha)
+* [[Kauslienas peisa]] (681 ha)
+
+== Vēsture ==
+1945. gadā [[Madonas apriņķis|Madonas apriņķa]] [[Lubānas pagasts|Lubānas pagastā]] izveidoja Ošupes [[ciema padome|ciema padomi]]. '''Ošupes ciems''' ietilpis [[Gulbenes apriņķis|Gulbenes apriņķī]] (1947-1949) un [[Cesvaines rajons|Cesvaines]] (1949-1956) un [[Madonas rajons|Madonas]] (pēc 1956. gada) rajonos. Ošupes ciemam 1954. gadā pievienoja likvidēto [[Zvidzenes ciems|Zvidzenes ciemu]], 1979. gadā — daļu likvidētā [[Meirānu ciems|Meirānu ciema]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Ošupes pagastu kā administratīvo teritoriju iekļāva [[Madonas novads|Madonas novadā]].
+
+=== Arheoloģija ===
+Pagasta teritorijā atrodas [[Zvidzes apmetne]], ko uzskata par nozīmīgu mezolīta [[Kundas kultūra]]s un agrā neolīta [[Narvas kultūra]]s dienvidu variantam piederīgu arheoloģijas pieminekli. Apmetne atradās senā [[Lubāns|Lubāna ezera]] piekrastē uz gala [[morēna]]s, kas mūsdienās pussalas veidā iestiepjas klānu (zemo purvu) teritorijā. Zvidzes apmetnes arheoloģisko izrakumi tika uzsākti 1973. — 1975. gadā, turpināti 1981. — 1984., 1999. un 2007. gadā [[Ilze Loze|Ilzes Lozes]] vadībā.<ref name="Ilze Loze">[http://en.lulfmi.lv/?id=16008&r=zvidzes-apmetne Ilze B. Loze. Zvidzes apmetne] Latvijas arheoloģijas leksikons</ref>
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Degumnieki]] (pagasta centrs), [[Ošupe (ciems)|Ošupe]], [[Zvidziena]], [[Kalnagals]], [[Druvenieki (Ošupes pagasts)|Druvenieki]], [[Iecelnieki]], [[Stūrmežs]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Madonas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Madonas rajons}}
+}}
+
+{{DEFAULTSORT:Oszupes pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Latgale]]
+[[Kategorija:Madonas novada pagasti]]
+[[Kategorija:Ošupes pagasts| ]]
+[[Kategorija:Lubānas pagasts]]

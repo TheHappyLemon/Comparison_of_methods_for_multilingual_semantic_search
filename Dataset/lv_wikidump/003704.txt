@@ -1,0 +1,53 @@
+{{atsauces+}}
+{{Personas infokaste
+|        platums = 
+|          vārds = Stefans Malarmē
+|     vārds_orig = Stéphane Mallarmé
+|         attēls = Mallarme.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = Stefans Malarmē (Nadara foto)
+|     dz_dat_alt = 
+|        dz_gads = 1842
+|     dz_mēnesis = 3
+|       dz_diena = 18
+|       dz_vieta = {{vieta|Francija|Parīze}}
+|      m_dat_alt = 
+|         m_gads = 1898
+|      m_mēnesis = 9
+|        m_diena = 9
+|        m_vieta = 
+|   dzīves_vieta = 
+|      pilsonība = franču
+|        tautība = 
+|   nodarbošanās = dzejnieks
+|       ienākumi = 
+|  darbības_gadi = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|     alma_mater = 
+|       paraksts = 
+|  paraksts_plat = 
+|       piezīmes = 
+|    kategorijas = 
+|    citas daļas = 
+}}
+'''Stefans Malarmē''' (''Stéphane Mallarmé'', īstā vārdā ''Étienne Mallarmé'', dzimis {{dat|1842|3|18}} [[Parīze|Parīzē]], miris {{dat|1898|9|9}}) bija izcils [[franči|franču]] dzejnieks, viens no [[simbolisms|simbolisma]] literatūras aizsācējiem.
+
+Malarmē vadībā radās mākslinieku un intelektuāļu apvienība ''les Mardistes'', kurā iekļāvās arī, piemēram, [[Moriss Meterlinks]], [[Emils Verharns]], [[Pols Valerī]], [[Rainers Marija Rilke]], [[Anrī Žids]] u.c.
+
+Malarmē darbiem raksturīga izcila muzikalitāte, neparastas ritmiskas un gramatiskas konstrukcijas, viņa dzejā liela nozīme asociācijām un vārdu un simbolu daudznozīmībai. Viņš uzskatāms par vienu no modernās dzejas pamatlicējiem, no viņa spēcīgi ietekmējušies ne tikai citi simbolisti, bet arī [[dadaisms|dadaisti]], [[sirreālisms|sirreālisti]] u.c. Malarmē bijis autoritāte arī tādiem [[poststrukturālisms|poststrukturālisma]] teorētiķiem kā [[Rolāns Barts]] un [[Žaks Deridā]].
+
+<!-- == Atsauces == -->
+
+{{rakstnieks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Malarme, Stefans}}
+[[Kategorija:Parīzē dzimušie]]
+[[Kategorija:Franču rakstnieki]]
+[[Kategorija:Franču valodā rakstošie]]

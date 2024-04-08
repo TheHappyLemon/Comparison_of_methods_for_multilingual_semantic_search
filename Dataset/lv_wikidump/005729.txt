@@ -1,0 +1,91 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Malaga
+ | official_name            = ''Málaga''
+ | settlement_type          = [[Spānijas pilsētu uzskaitījums|Pilsēta]]
+ | image_skyline            = 
+ | image_caption            = 
+ | image_flag               = Flag of Málaga, Spain.svg
+ | image_seal               = 
+ | image_shield             = Coat of Arms of Málaga.svg
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Spānija
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{karogs|Spānija}}
+ | subdivision_type1        = [[Spānijas autonomie apgabali|Autonomais apgabals]]
+ | subdivision_name1        = [[Andalūzija]]
+ | subdivision_type2        = [[Spānijas provinces|Province]]
+ | subdivision_name2        = [[Malagas province]]
+ | established_title        = Dibināta
+ | established_date         = ap 1000. g.p.m.ē.
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 398
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 827
+ | area_metro_km2           = 
+ | population_as_of         = 2016
+ | population_footnotes     = 
+ | population_total         = 569009
+ | population_urban         = 
+ | population_metro         = 1628973
+ | population_density_km2   = auto
+ | timezone                 = 
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 36 | latm = 43 | lats = 10 | latNS = N
+ | longd = 4 | longm = 25 | longs = 12 | longEW = W
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 11
+ | website                  = {{URL|http://www.malaga.eu/}}
+ | footnotes                = 
+}}
+'''Malaga''' ({{val|es|Málaga}}) ir ostas pilsēta [[Spānija]]s dienvidos, [[Andalūzija]]s autonomā apgabala dienvidos, [[Malagas province|Malagas provincē]]. Pilsēta atrodas [[Vidusjūra]]s krastā, ''[[Costa del Sol]]'' piekrastē. Tā ir Malagas provinces administratīvais centrs un lielākā pilsēta.
+
+Pilsētas [[saimniecība]] galvenokārt balstās uz [[tūrisms|tūrismu]] un [[lauksaimniecība|lauksaimniecību]]. Malaga ir spāņu gleznotāja [[Pablo Pikaso]] un spāņu aktiera [[Antonio Banderass|Antonio Banderasa]] dzimtā pilsēta. Malaga ir Spānijas dienvidu reģiona galvenais saimniecības un finanšu centrs, kā arī ceturtā saimnieciski aktīvākā Spānijas pilsēta pēc [[Madride]]s, [[Barselona]]s un [[Valensija (Spānija)|Valensija]]s.
+
+== Vēsture ==
+Pilsētu ap 1000. gadu p.m.ē. dibinājuši [[feniķieši]], nosaucot par Malaku (''Malaka''). Pilsētas nosaukums, iespējams, cēlies no vārda "sāls" [[feniķiešu valoda|feniķiešu valodā]], jo pilsētā nodarbojās ar zivju sālīšanu.
+
+Apmēram septiņus gadsimtus vēlāk Malagu no [[Kartāga]]s atkaroja [[Senā Roma|romieši]], bet no V gadsimta tā bija [[Vestgotu karaliste|Vestgotu karalistē]].
+
+VIII gadsimtā pilsētu ieņēma [[mauri]] un Malaga kļuva par ievērojamu tirdzniecības centru. Pēc [[Omejādi|Omejādu]] dinastijas beigām Malaga kļuva par nelielas no [[Kordova (Spānija)|Kordova]]s atkarīgas mauru valsts galvaspilsētu.
+
+1487. gadā Malagu ieņēma [[kristietība|kristieši]].
+
+[[Spānijas Pilsoņu karš|Spānijas Pilsoņu kara]] laikā Malagu smagi bombardēja [[Fransisko Franko|Franko]] spēki.
+
+20. gadsimta 60. gados pilsētas saimniecība atdzīvojās, jo jūras piekrastē strauji attīstījās [[tūrisms]].
+
+== Cilvēki ==
+Malagā dzimuši:
+
+* [[Antonio Banderass]] (''Antonio Banderas''; 1960) — aktieris;
+* [[Solomons ibn Gabirols]] (''Solomon ibn Gabirol''; ~1021—~1058) — dzejnieks un filozofs;
+* [[Fernando Hjero]] (''Fernando Hierro''; 1968) — futbolists;
+* [[Antonio Kanovass del Kastiljo]] (''Antonio Cánovas del Castillo''; 1828—1897) — politiķis;
+* [[Pablo Pikaso]] (''Pablo Picasso''; 1881—1973) — gleznotājs;
+* [[Isko]] (''Isco''; 1992) — futbolists.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Spānija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Andalūzijas pilsētas]]

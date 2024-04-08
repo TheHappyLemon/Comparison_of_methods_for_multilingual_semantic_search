@@ -1,0 +1,55 @@
+{{Bruņu mašīnas infokaste 
+|     nosaukums=Leopard 1A5
+|        attēls=[[Attēls:Leopard1 cfb borden 2.JPG|300px]]
+|    virsraksts=Leopard 1A5
+|       apkalpe=4
+|        garums=7,090 m
+|       platums=3,41 m
+|      augstums=2,764 m
+|          masa=42 t
+|        bruņas=-
+|     primārais=105 mm [[lielgabals]]
+|   sekundārais=[[2x7,62 mm]] [[Ložmetējs|ložmetēji]]
+|       dzinējs=[[Dīzeļdzinējs]] 
+| dzinēja_jauda=830 zs (610 kW)
+|ātrums_uz ceļa=65 km/h
+| zs_koeficents=20 zs/t
+|maks. attālums=600 km uz ceļa
+}}
+
+'''Leopard 1''' ir [[kaujas pamattanks]] izstrādāts un ražots [[Rietumvācija|Rietumvācijā]], tā sērijveida ražošana sākās [[1965]]. gadā. 
+
+Tanka izstrāde sākās kā sadarbības projekts starp Vāciju un Franciju [[1950. gadi|piecdesmitajos gados]]<ref>[http://www.militaryfactory.com/armor/detail.asp?armor_id=58], militaryfactory.com, {{dat|2013|4|30|SK}}</ref>, bet līdzdalība beidzās un tanka izstrādi pabeidza [[Bundesvērs]], tā ražošana sākās 1965. gadā. Kopumā no 6485, neskaitot 80 prototipus un izmēģinājuma transportlīdzekļus, Leopard tankiem, kas tika uzbūvēti, 4744 bija kaujas tanki un 1741 bija derīgi kā pretlidmašīnu tanki.
+Leopard ātri vien kļuva kā Eiropas spēku standarta tanks, un kalpoja kā galvenais kaujas tanks vairāk nekā divpadsmit valstīs visā pasaulē. Kopš 1990. gada, Leopard 1 pakāpeniski ieņēma otro vietu vairākumā armiju. 
+
+
+Sērijveida mašīnu pirmās partijas bija paredzētas [[Bundesvērs|Bundesvēram]]. Vēlāk arī [[Beļģija]], [[Dānija]], [[Grieķija]], [[Itālija]], [[Čīle]], [[Kanāda]], [[Nīderlande]], [[Norvēģija]], [[Turcija]] un [[Austrālija]] lietoja Leopard 1.
+
+Leopard 1 ražošana turpinājās līdz [[1979]] gadam, jo 1978. gadā sāka ražot ''[[Leopard 2]]'' tankus.
+
+Dzinējs bija 10-cilindru [[MTU]] [[dīzeļdzinējs]] ar 610 kW.
+
+== Modifikācijas ==
+* Leopard 1
+* Leopard 1A1
+* Leopard 1A1A1
+* Leopard 1A2
+* Leopard 1A3
+* Leopard 1A4
+* Leopard 1A5
+
+== Mašīnas, kas izveidotas uz Leopard 1 bāzes ==
+* [[Pionierpanzer]]
+* [[Bergepanzer 1|Bergepanzer]]
+* [[Gepard]] (dubulta 35 mm pašgājējzenīartilērija)
+* [[Leguan]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commons|Leopard 1}}
+* [http://www.armyvehicles.dk/leopard1a3.htm Danish Army Vehicles: Leopard 1 family]
+
+[[Kategorija:Kaujas pamattanki]]
+[[Kategorija:Vācijas tanki]]

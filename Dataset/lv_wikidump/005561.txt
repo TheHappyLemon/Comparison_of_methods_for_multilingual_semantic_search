@@ -1,0 +1,71 @@
+{{Vieglatlēta infokaste
+ |           vārds = Jesēnija Volžankina
+ |      vārds_orig = 
+ |          attēls = 
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1983|11|28}}
+ |         dz_viet = {{vieta|PSRS|Latvijas PSR|Ludza}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{LAT}}
+ |     dzīvesvieta = 
+ |          garums = 
+ |           svars = 
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = [[Septiņcīņa]], [[tāllēkšana]], barjerskriešana
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 
+ |           PR1_d = 
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = S
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Jesēnija Volžankina''' (dzimusi 1983. gada 28. novembrī [[Ludza|Ludzā]]) ir [[Latvija]]s [[vieglatlēte]] — parasti piedalās [[Septiņcīņa|septiņcīņā]] un nereti arī [[Tāllēkšana|tāllēkšanā]] vai [[Barjerskriešana|barjerskriešanā]]. Viņas personīgais rekords septiņcīņā ir 5996 punkti. [[2006. gada Eiropas čempionāts vieglatlētikā|2006. gada Eiropas čempionātā]] septiņcīņā viņa ar 5979 punktiem ierindojās augstajā 14. vietā, bet tāllēkšanā ar 6,22 metrus tālu lēcienu ierindojās 22. vietā.
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+
+{{Latvijas sportists-aizmetnis}}
+{{vieglatlēts-aizmetnis}}
+
+
+{{DEFAULTSORT:Volzhankina, Jesenija}}
+
+[[Kategorija:Latvijas vieglatlētes]]
+[[Kategorija:1983. gadā dzimušie]]
+[[Kategorija:Ludzā dzimušie]]
+[[Kategorija:Septiņcīņnieki]]

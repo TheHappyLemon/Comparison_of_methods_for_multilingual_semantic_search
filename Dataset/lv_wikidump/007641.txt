@@ -1,0 +1,32 @@
+{{ezera infokaste
+|ezers=Drūkšu ezers
+|attēls=Drūkšiai001.JPG
+|map = Baltkrievija#Lietuva
+| plat_d=55 | plat_m=37 | plat_s= | plat_NS=N
+| gar_d=26 | gar_m=36 | gar_s= | gar_EW=E
+|vieta={{BLR}}<br />{{LTU}}
+|platība=44,79
+|garums=14,3
+|Vid_dziļums=7,6
+|Max_dziļums=33,3
+|tilpums=0,37
+|augstums_vjl=141,6
+|izteka=[[Prorva]]
+|baseins=613
+|valstis=[[Baltkrievija]]<br />[[Latvija]]<br />[[Lietuva]]
+|salas=7
+|pilsētas=[[Visagina]]
+}}
+'''Drūkšu ezers''' ({{val|lt|Drūkšiai}}) vai '''Drisvjatu ezers''' ({{val|be|Дрысвяты}}) ir [[ezers]] uz [[Baltkrievija]]s un [[Lietuva]]s robežas.
+
+Ezers veidojies [[ledājs|ledāja]] darbības rezultātā. Lielākais dziļums ir ezera centrālajā daļā, dienvidu daļa ir sekla. Lielā dziļuma dēļ lielākā daļa ezera ziemā neaizsalst. [[Mezotrofs]]. Ūdens kopumā tīrs, dzidrs, ūdens apmaiņas periods — 3 gadi. Reģistrētas 95 ūdensaugu un piekrastes augu sugas. [[Zooplanktons]] pārstāvēts ar 250 sugām. 25 sugu zivis, vairāk, kā 140 sugu putni.
+
+Ezera ūdeni izmanto [[Ignalinas atomelektrostacija]]s dzesēšanai. Izmantotais ūdens daudzums gadā deviņas reizes pārsniedz ezera tilpumu. Atomelektrostacija piesārņo ezeru gan termiski - uzsildot ūdeni un veicinot [[eitrofikācija|eitrofikāciju]], gan arī ar ķīmiskām vielām.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20080616184555/http://www.ekoi.lt/info/lter/druksiai.htm Informācija par ezeru] {{en ikona}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Baltkrievijas ezeri]]
+[[Kategorija:Lietuvas ezeri]]

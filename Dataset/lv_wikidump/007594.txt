@@ -1,0 +1,38 @@
+{{ezera infokaste
+|ezers=Verterezers
+|attēls=Woerthersee.jpg
+|paraksts=Verterezers
+|map = Austrija
+| plat_d=46 | plat_m=37 | plat_s=36 | plat_NS=N
+| gar_d=14 | gar_m=8 | gar_s=56 | gar_EW=E
+|vieta={{AUT}}
+|platība=19,4
+|garums=16,5
+|platums=1,7
+|Vid_dziļums=42,1
+|Max_dziļums=85,2
+|tilpums=0,8
+|augstums_vjl=439
+|izteka=[[Glanfurte]]
+|baseins=162,1
+|valstis=
+|salas=
+|pilsētas=[[Feldene]], [[Klāgenfurte]]
+}}
+'''Verterezers''' ({{val|de|Wörthersee}}) ir kalnu [[ezers]] [[Austrija]]s dienvidu daļā, [[Karintija|Karintijā]]. Ziemeļu un dienvidu pusē ezeram stāvi, mežaini krasti. Ezera ūdens izteikti zili zaļā krāsā, caurspīdīgs, tīrs. Ezera apkaimē maigs [[Vidusjūras klimats]]. Veidojies pēdējā [[ledus laikmets|ledus laikmetā]].
+
+Līdz 19. gadsimta sākumam ezera krastā dzīvoja tikai neliels skaits nabadzīgu zemnieku, taču pēc dzelzceļa līnijas izbūves ezers kļuva par [[Vīne]]s dižciltīgo aprindu vasaras atpūtas vietu. Mūsdienās ezers joprojām ir populārs tūrisma objekts. Jūlijā un augustā ūdens temperatūra sasniedz {{nobr|25&nbsp;°C}}, un šajā laikā ap ezeru ir visvairāk austriešu, vācu un Nīderlandes atpūtnieku, ezera krastos īpašuma cenas ir ļoti augstas.
+
+Ziemā ezera apkaime ir klusa, aptuveni reizi desmit gados ezers aizsalst.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.woerthersee.com Tūristu ceļvedis]
+* [http://www.woertherseewetter.com Laika apstākļi un tīkla kameras] {{Webarchive|url=https://web.archive.org/web/20061205081359/http://woertherseewetter.com/ |date={{dat|2006|12|05||bez}} }}
+* [https://web.archive.org/web/20070825112542/http://www.travel2austria.com/?p=27 Pictures of Lake Wörthersee]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas ezeri]]
+[[Kategorija:Karintija]]

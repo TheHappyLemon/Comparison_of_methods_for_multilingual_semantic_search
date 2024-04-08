@@ -1,0 +1,53 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 44
+|             5. čaula = 1
+|             4. čaula = 15
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Ru
+|             atommasa = 101,07
+|   valences elektroni = [Kr]4d<sup>7</sup>5s<sup>1</sup>
+|       tabulas attēls = [[Attēls:Ru-TableImage.svg|250px]]
+|               attēls = [[Attēls:Ruthenium crystals.jpg|170px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Ruthenium.jpg|150px]]<br />Rutēnija kristāli un kodināta rutēnija plāksnīte
+|  oksidēšanas pakāpes = +8, +7, +6, '''+4''', '''+3''', +2, +1, 0, -2
+|  elektronegativitāte = 2,2
+|              blīvums = 12 450
+|  kušanas temperatūra = 2607 K (2334&nbsp;°C)
+| viršanas temperatūra = 4423 K (4150&nbsp;°C)
+}}
+
+'''Rutēnijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ru''' un [[atomskaitlis|atomskaitli]] 44. Tas ir [[platīna grupa]]s [[metāli|metāls]] un ir sastopams kā piemaisījums [[platīns|platīna]] rūdām. Rutēnijam ir iespējamas oksidēšanas pakāpes no +1 līdz +8, kā arī -2, izplatītākās ir +2, +3 un +4.
+
+== Izotopi ==
+Dabā ir sastopami septiņi rutēnija [[izotops|izotopi]]. Visizplatītākais ir <sup>102</sup>Ru (31,55% no visa dabā sastopamā rutēnija daudzuma).<ref name= "jlab"/> Salīdzinoši daudz ir arī <sup>104</sup>Ru (18,62%), <sup>101</sup>Ru (17,06%), <sup>99</sup>Ru (12,76%) un <sup>100</sup>Ru (12,60%).<ref name= "jlab"/> Visretāk sastopami <sup>96</sup>Ru (5,54%) un <sup>98</sup>Ru (1,87%).<ref name= "jlab"/>
+
+Mākslīgi ir iegūti rutēnija izotopi, kuru [[masas skaitlis]] ir no 87 līdz 124. <sup>106</sup>Ru un <sup>103</sup>Ru ir [[Urāns (elements)|urāna]] dalīšanās produkti, kas veidojas kodoldegvielā [[atomelektrostacija]]s darba laikā. <sup>103</sup>Ru [[pussabrukšanas periods]] ir 39,26 diennaktis, <sup>106</sup>Ru — 373,59 diennaktis. Rutēnijs-106 tiek klasificēts kā bīstams radioaktīvais atkritums, jo, lai tas praktiski zaudētu aktivitāti, izlietotā kodoldegviela jāuzglabā vismaz 40 gadus. No kodoldegvielas izdalīts rutēnijs-106 vienmēr satur citu radioaktīvo izotopu piemaisījumus, tīru rutēniju-106 iegūst ar [[ciklotrons|ciklotronu]] palīdzību. Tīru <sup>106</sup>Ru izmanto medicīnā [[acis|acu]] onkoloģisko saslimšanu ārstēšanai, kā etalonavotu radiācijas kontroles mēriekārtu pārbaudei, kā arī [[RITEG|radioizotopu termoģeneratoros]].<ref>[http://geoenergetics.ru/2017/10/19/magate-stavit-tochku-v-skandale-vokrug-ruteniya/ МАГАТЭ ставит точку в скандале вокруг рутения] {{krieviski}}</ref>
+
+== Izmantošana ==
+Rutēnijs pirms izmantošanas ir ķīmiski jāapstrādā. Izmanto [[juvelierdarbs|juvelierizstrādājumos]] un [[elektronika|elektronikā]] (aizsargājoši un dekoratīvi [[pārklājums|pārklājumi]], [[supravadītājs|supravadītāji]], [[elektrods|elektrodi]]).<ref name="jānis_sv"/> [[Sakausējums|Sakausējumos]] ar [[platīns|platīnu]] tiek iegūts materiāls, kuram ir palielināta [[cietība]]. 2016. gadā viena [[trojas unce]] rutēnija maksāja vidēji 42 [[ASV dolārs|ASV dolārus]].<ref name="metalprices"/> Tas ir viens no dārgākajiem metāliem.
+
+== Vēsture ==
+Ķīmiskā elementa nosaukums ir radies no vārda ''Ruthenia'', kas ir [[Kijivas Krievzeme]]s nosaukums [[latīņu valoda|latīņu valodā]]. 1827. gadā zviedru ķīmiķis [[Jenss Jākobs Bercēliuss]] un vācu ķīmiķis [[Gotfrīds Osans]] (''Gottfried Osann'') analizēja [[Urāli|Urālu]] kalnos iegūtas [[platīns|platīna]] rūdas atliekas pēc apstrādes ar [[karaļūdens|karaļūdeni]]. Bercēliuss neizdalīja nevienu nezināmu metālu, toties Osans izdalīja pat trīs iepriekš nezināmus elementus. Vienu no tiem viņš nosauca par rutēniju. 1844. gadā baltvācu ķīmiķis [[Kārlis Ernsts Klauss]] (''Karl Ernst Claus'') apstiprināja, ka tik tiešām viens no tiem ir rutēnijs. Klauss tiek uzskatīts par rutēnija atklājēju.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name= "jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso044.html | title= Isotopes of the Element Ruthenium | publisher= Jefferson Lab | accessdate= 2017. gada 19. februārī | language= angliski}}</ref>
+
+<ref name="jānis_sv">{{tīmekļa atsauce | url= http://profizgl.lu.lv/pluginfile.php/32528/mod_book/chapter/5136/Jaanis_Sv/Marts_2011/Papildmateriali/JS_Metalu_izmantosana.pdf | title= Dažu metālu un to savienojumu izmantošanas svarīgākās jomas | publisher= profizgl.lu.lv | accessdate= 2017. gada 19. februārī | archiveurl= https://web.archive.org/web/20171215074424/http://profizgl.lu.lv/pluginfile.php/32528/mod_book/chapter/5136/Jaanis_Sv/Marts_2011/Papildmateriali/JS_Metalu_izmantosana.pdf | archivedate= 2017. gada 15. Decembris }}</ref>
+
+<ref name="metalprices">{{tīmekļa atsauce | url= https://www.metalprices.com/metal/ruthenium/ruthenium-99.9-usa | title= Ruthenium Prices - Ruthenium price history | publisher= MetalPrices.com | accessdate= 2017. gada 19. februārī | language= angliski | archiveurl= https://web.archive.org/web/20170708012154/https://www.metalprices.com/metal/ruthenium/ruthenium-99.9-USA | archivedate= {{dat|2017|07|08||bez}} }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

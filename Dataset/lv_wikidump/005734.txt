@@ -1,0 +1,33 @@
+{{izolēts raksts|date=2018. gada oktobris}}
+Visas [[Kongo DR]] pilsētas ar iedzīvotāju skaitu virs 500 000 iedzīvotājiem 2006.gadā. (dati - http://www.world-gazetteer.com).
+
+{| class="wikitable" width=100%
+|- 
+| '''Pilsēta'''
+| '''Iedzīvotāju skaits''' (2006)
+| '''Province'''
+|-
+| '''[[Kinšasa]]''' (''Kinshasa'')
+| 8 096 254
+| Kinšasa
+|-
+| [[Kisangani]] (''Kisangani'')
+| 547 531
+| [[Augškongo]]
+|-
+| [[Kolvezi]] (''Kolwezi'')
+| 940 665
+| [[Katanga]]
+|-
+| '''[[Lubumbaši]]''' (''Lubumbashi'')
+| 1 425 001
+| [[Katanga]]
+|-
+| [[Mbužimaji]] (''Mbuji-Mayi'')
+| 896 435
+| [[Austrumkasai]]
+|-
+|}
+
+[[Kategorija:Kongo DR pilsētas|*]]
+[[Kategorija:Pilsētu uzskaitījumi]]

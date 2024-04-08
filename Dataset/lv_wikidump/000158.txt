@@ -1,0 +1,101 @@
+{{novecojis|kilograma definīciju}}
+
+[[Attēls:CGKilogram.jpg|235px|thumbnail|Kilograma etalona datormodelis (blakus novietotais lineāls graduēts [[colla|collās]])]]
+'''Kilograms''' (simbols: '''kg''') ir [[Starptautiskā mērvienību sistēma|Starptautiskās mērvienību sistēmas]] (SI) [[masa]]s [[SI pamatvienības|pamatmērvienība]], kas ir vienāds ar cilindrisku [[etalons|etalonu]], kas izgatavots no [[irīdijs|irīdija]]-[[platīns|platīna]] sakausējuma, un atrodas Parīzē [[Starptautiskais svaru un mēru birojs|Starptautiskajā svaru un mēru birojā]] (''Bureau international des poids et mesures''). Pirmo reizi kilograms tika noteikts 1799. gadā, kad [[Pjērs Simons Laplass]] vakuumā nosvēra 1 dm<sup>3</sup> destilēta ūdens 4°C temperatūrā.{{fact}} [[Angļu valoda|Angļu valodā]] runājošajās zemēs, piemēram [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]], kilograma vietā izmanto masas mērvienību [[mārciņa (mērvienība)|mārciņu]]. Viena mārciņa ir 0,45359237 kg.
+
+== Kilograma etalons ==
+Kilograms ir vienāds ar starptautiskā [[masa]]s [[vienība]]s [[etalons|etalona]] masu, kas izgatavots 1879. gadā kā [[cilindrs|cilindrisks]] atsvars no [[platīns|platīna]] un [[irīdijs|irīdija]] sakausējuma. Tajā 90% ir platīna masa un 10% irīdija, šī cilindra diametrs un augstums ir 39,17 mm. Daudzi zinātnieki uzskata, ka šī kilograma definīcija ir pretrunīga.<ref name="kimijas-sk"/> 2011. gada 21. oktobrī 24. starptautiskās mēru un svaru konferences laikā delegāti vienojās, ka kilograma definīcija ir novecojusi, un ir nepieciešams izveidot jaunu, atbilstoši 21. gadsimtam.<ref name="kimijas-sk"/> Ir ieteikts kilograma vērtību piesaistīt [[Planka konstante]]s vērtībai.<ref name="kimijas-sk"/>
+
+== SI daudzkārtņi ==
+{| class="wikitable"
+|-
+! width="220" | Kilograma pozitīvie daudzkārtņi
+! width="220" | Kilograma negatīvie daudzkārtņi
+|-
+| valign="top" |
+* [[tonna]] — 10<sup>3</sup> kg (t)
+* [[centners]] — 10<sup>2</sup> kg (q)<ref name="AlfaOmega"/>
+| 
+* [[grams]] — 10<sup>−3</sup> kg (g)
+* [[miligrams]] — 10<sup>−6</sup> kg (mg)
+* [[mikrograms]] — 10<sup>−9</sup> kg (μg)
+|}
+
+== Sakarības ar angļu valodas valstīs lietotajām nemetriskajām mērvienībām ==
+{| class="wikitable"
+|+ Masas mērvienības
+! width="60" | || width="120" | Kilograms (kg) || width="120" | [[Mārciņa (mērvienība)|Mārciņa]] (lb) || width="120" | [[Kvarters]] (qr) || width="120" | [[Unce]] (oz)
+|-
+! 1 kg
+| = 1
+| = 2,2046226
+| = 0,078736437
+| = 0,03537399
+|-
+! 1 lb
+| = 0,45359237
+| = 1
+| = 0,035714285
+| = 0,016
+|-
+! 1 qr
+| = 12,7006
+| = 28
+| = 1
+| = 0,448
+|-
+! 1 oz
+| = 28,3495
+| = 62,5
+| = 2,232138621
+| = 1
+|}
+
+== Sakarības ar citām masas mērvienībām ==
+{| class="wikitable"
+|+ Masas mērvienības
+! width="60" | || width="120" | Kilograms (kg) || width="120" | [[Atommasas vienība]] (u) || width="120" | [[Karāts]] || width="120" | [[Trojas unce]] (oz tr)
+|-
+! 1 kg
+| = 1
+| = 6,0220449{{E|26}}
+| = 5000
+| = 32,1507474
+|-
+! 1 u
+| = 1,6605655{{E|-27}}
+| = 1
+| = 8,3028275{{E|-24}}
+| = 5,33884206{{E|-26}}
+|-
+! 1 karāts
+| = 0,0002
+| = 1,20440898{{E|23}}
+| = 1
+| = 0,006430149
+|-
+! 1 oz tr
+| = 0,0311034768
+| = 1,873065338{{E|25}}
+| = 155,51738
+| = 1
+|}
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="kimijas-sk">{{Tīmekļa atsauce |author= Marija Vinogradova |url= http://old.kimijas-sk.lv/izzinas_materiali/kimijas_jaunumi/faili/1320691348Kilograms%20ir%20miris.pdf |title= Kilograms ir miris! Lai dzīvo kilograms! |publisher= Ķīmijas skolotājs (www.kimijas-sk.lv) |accessdate= 2012-01-04 |format= [[Pārnesams dokumentu formāts|PDF]] }}{{Novecojusi saite}}</ref>
+<ref name="AlfaOmega">{{Grāmatas atsauce |title= Alfa & Omega |isbn= 9984-10-185-1 |publisher= Aplis |location= Rīga |page= 46}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+{{SI}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:SI pamatvienības]]
+[[Kategorija:Masas mērvienības]]

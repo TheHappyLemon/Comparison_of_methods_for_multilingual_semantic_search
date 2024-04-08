@@ -1,0 +1,109 @@
+{{cita nozīme|izplatītu kultūraugu pasaulē un Latvijā|graudzāļu dzimtas ģinti|auzas (ģints)}}
+{{BioTakso infokaste
+|   nosaukums = Sējas auzas
+|    binomial = Avena sativa
+|      autors = [[Kārlis Linnejs|Linnaeus]], 1753
+|      attēls = Kaura.jpg
+|      valsts = Plantae
+|   valsts_lv = Augi
+|        tips = Magnoliophyta
+|     tips_lv = Segsēkļi
+|       klase = Liliopsida
+|    klase_lv = Viendīgļlapji
+|       rinda = Poales
+|    rinda_lv = Graudzāļu rinda 
+|      dzimta = Poaceae
+|   dzimta_lv = Graudzāļu dzimta
+|       ģints = Avena
+|    ģints_lv = Auzas
+|     ģints_r = Auzas (ģints)
+|        suga = A. sativa
+|     suga_lv = Sējas auzas
+|      suga_r = Auzas
+| kategorijas = nē
+}}
+
+'''Sējas auzas'''<ref>{{grāmatas atsauce | title= Agronomijas terminu vārdnīca | location= R. | publisher= Zinātne | year= 1973}}</ref> (''Avena sativa''), bieži vienkārši '''auzas''', ir [[graudzāļu dzimta]]s [[kultūraugi|kultūraugs]], kuru audzē [[grauds|graudu]] un [[zaļmasa]]s ieguvei. Auzas plaši izmanto gan [[pārtika|pārtikā]], gan [[lopbarība|lopbarībā]]. No graudiem gatavo [[putraimi|putraimus]], [[auzu pārslas|pārslas]], [[milti|miltus]], tos izmanto [[diētiskā pārtika|diētisko]] un [[bērnu pārtika|bērnu pārtikas]], kā arī [[konditoreja]]s ēdienu gatavošanā, jo auzu graudu [[olbaltumvielas|olbaltumvielām]] un [[taukvielas|taukvielām]] ir laba sagremojamība. Auzu [[salmi]] izmantojami lopbarībai labāk nekā [[rudzi|rudzu]] un [[kviešu ģints|kviešu]] salmi, bet salīdzinājumā ar [[mieži|miežu]] salmiem tie labāk glabājas.
+
+Auzu [[ziedkopa]] ir [[skara]]. Auzas ir [[pašappute]]s augs, bet dažkārt var notikt arī [[svešappute]].
+
+== Kultivēšana ==
+Auzas vislabāk aug [[mērenā josla|mērenajā joslā]]. 63,4% no pasaules auzu ražas iegūst [[Eiropa|Eiropā]].<ref name="fao2017"/> Vislielākā auzu raža tiek novākta [[Krievija|Krievijā]], [[Kanāda|Kanādā]], [[Austrālija|Austrālijā]], [[Polija|Polijā]], [[Ķīna|Ķīnā]] un [[Somija|Somijā]].<ref name="fao2017"/> [[Latvija|Latvijā]] auzu sējplatības ir aptuveni 60 tūkstoši [[hektārs|hektāru]], citu gadu vairāk, citu mazāk. 2017. gadā sējplatība Latvijā bija 54 tūkstoši ha,<ref name="fao2017"/> novāktā raža 134 tūkstoši tonnu, līdz ar to vidējā [[raža]] aptuveni 2,5 t/ha.
+
+{| class="wikitable" width:15em;"
+|-
+! colspan=2|Auzu raža 2017. gadā<br /><small>Tonnas</small>
+|-
+| {{RUS}} || align=right | 5 451 394
+|-
+| {{CAN}} || align=right | 3 732 900
+|-
+| {{AUS}} || align=right | 2 265 503
+|-
+| {{POL}} || align=right | 1 464 606
+|-
+| {{CHN}} || align=right | 1 281 016
+|-
+| {{FIN}} || align=right | 1 013 900
+|-
+| --- || align=right | ---
+|-
+| {{LVA}} || align=right | 134 000
+|-
+| '''Pasaule''' || align=right | {{nobr|'''25 949 161'''}}
+|-
+|colspan=2|<center><small>Apvienoto Nāciju Organizācija, [[Pārtikas un lauksaimniecības organizācija]], Statistikas nodaļa<ref name="fao2017">{{tīmekļa atsauce | title= Oats production in 2017, Crops/World Regions/Production Quantity from pick lists | url= http://www.fao.org/faostat/en/#data/QC/visualize | publisher= Pārtikas un lauksaimniecības organizācija, Statistikas nodaļa, FAOSTAT | date= 2017 | accessdate= 2019. gada 3. janvārī}}</ref></small></center>
+|}
+
+== Izmantošana ==
+Auzas plaši izmanto kā [[lopbarība|lopbarību]]. Tām ir daudzējāda izmantošana arī cilvēka uzturā, visbiežāk kā [[auzu pārslas]] vai [[auzu milti]].
+
+=== Auzu pārslas ===
+{{Nutritionalvalue
+| name = Auzas
+| potassium_mg = 429
+| note = [https://fdc.nal.usda.gov/fdc-app.html#/food-details/169705/nutrients Pilns ziņojums USDA datu bāzes ierakstā]
+| opt1v = 4 g
+| opt1n = [[Auzu beta-glikāni|β glikāni (ūdenī šķīstošās šķiedrvielas)&nbsp;]]<ref>{{cite web |title=Oat and barley ß-glucans |url=http://www5.agr.gc.ca/resources/prod/doc/misb/fb-ba/nutra/pdf/B-Glucans_Eng.pdf |publisher=Agriculture and Agri-Food Canada, Government of Canada |access-date=27 July 2019 |date=1 August 2008}}</ref>
+| folate_ug = 56
+| vitB6_mg = 0.12
+| pantothenic_mg = 1.349
+| niacin_mg = 0.961
+| riboflavin_mg = 0.139
+| thiamin_mg = 0.763
+| manganese_mg = 4.9
+| zinc_mg = 4
+| sodium_mg = 2
+| phosphorus_mg = 523
+| kJ = 1628
+| magnesium_mg = 177
+| iron_mg = 5
+| calcium_mg = 54
+| fiber = 11.6 g
+| carbs = 66.3 g
+| omega6fat = 
+| omega3fat = 
+| polyfat = 2.54 g
+| monofat = 2.18 g
+| transfat = 
+| satfat = 1.21 g
+| fat = 6.9 g
+| protein = 16.9 g
+| right = 1
+}}
+{{pamatraksts|Auzu pārslas}}
+==== Uzturvērtība ====
+Auzu pārslās ir salīdzinoši liels [[šķiedrvielas|šķiedrvielu]] un [[ogļhidrāts|ogļhidrātu]] saturs, tāpēc tās iesaka lietot cilvēkiem, kas pastiprināti nodarbojas ar fiziskajām aktivitātēm, piemēram, sporto vai veic smagu darbu.<ref>[http://www.pareizs-uzturs.com/public/auzas-un-auzu-parslas.php Auzas un auzu pārslas] {{Webarchive|url=https://web.archive.org/web/20191202082705/http://www.pareizs-uzturs.com/public/auzas-un-auzu-parslas.php |date={{dat|2019|12|02||bez}} }}, pareizs-uzturs.com. Atjaunots: {{dat|2012|01|26}}.</ref> Auzu pārslas tiek izmantotas arī kā līdzeklis [[holesterīns|holesterīna]] līmeņa samazināšanai asinīs.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+
+{{Botānika-aizmetnis}}
+[[Kategorija:Labība]]
+[[Kategorija:Lopbarība]]
+[[Kategorija:Ārstniecības augi]]
+[[Kategorija:Auzas]]

@@ -1,0 +1,85 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Olborga
+ | official_name            = Aalborg
+ | settlement_type          = pilsēta
+ | image_skyline            = Aalborg NyTorv 2004 ubt.jpeg
+ | image_caption            = Olborgas vecpilsēta
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Dānija
+ | pushpin_label_position   = right
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{DEN}}
+ | subdivision_type1        = Reģions
+ | subdivision_name1        = [[Ziemeļdānijas reģions]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pirmo reizi minēta
+ | established_date         = 1040
+ | established_title2       = Pilsētas tiesības
+ | established_date2        = 1342
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 139 
+ | area_metro_km2           = 
+ | population_as_of         = 2012
+ | population_footnotes     = 
+ | population_total         = 126556
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = 888
+ | timezone                 = CET
+ | utc_offset               = +1
+ | timezone_DST             = CEST
+ | utc_offset_DST           = +2
+ | latd =57  | latm =3  | lats =  | latNS =N 
+ | longd =9  | longm =55  | longs =  | longEW =E 
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 5
+ | website                  = {{url|http://www.aalborg.dk/}}
+ | footnotes                = 
+}}
+'''Olborga'''<ref>{{Grāmatas atsauce |title=Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā |author=Snorre Karkonens-Svensons |authorlink=Snorre Karkonens-Svensons |year=2003 |publisher=[[Norden AB]] |location=Rīga |page=99 |isbn=978-9-98-471309-0}}</ref> ({{val|da|Ålborg}} vai ''Aalborg'') ir pilsēta [[Dānija]]s ziemeļos pie [[Limfjords|Limfjorda]]. Ceturtā lielākā pilsēta Dānijā, [[Ziemeļjitlande|Ziemeļjitlandes āmtes]] centrs. Pilsētas pievārtē — liela Dānijas kara aviācijas bāze. Pazīstama kā alkoholiskā dzēriena - [[akvavits|akvavita]] ražošanas vieta.
+
+Viduslaikos bija viena no svarīgākajām Dānijas pilsētām, kuras nozīmību palielināja 1516. gadā piešķirtais [[siļķe|siļķu]] sālīšanas [[monopols]].
+
+[[2.pasaules karš|2.pasaules kara]] laikā aviācijas bāzi un pilsētu ieņēma [[Vācija|vācu]] desantnieki. Ir uzskats, ka Olborga ir pirmā pilsēta vēsturē, ko ieņēma [[izpletņlēkšana|izpletņlēcēji]].{{fact}}
+
+Pilsētā bāzēts [[Dānijas hokeja līga]]s klubs [[Olborgas "Pirates"]].
+
+== Cilvēki ==
+{{commonscat|Aalborg|Olborga}}
+Olborgā dzimuši:
+ 
+* [[Nikolajs Ēlerss]] (''Nikolaj Ehlers''; 1996) — hokejists;
+* [[Peters Gade]] (''Peter Gade''; 1976) — badmintonists;
+* [[Hanss I]] (''Hans af Danmark''; 1455—1513) — [[Dānija]]s karalis;
+* [[Kaspers Hjulmands]] (''Kasper Hjulmand''; 1972) — futbola treneris;
+* [[Ebe Sands]] (''Ebbe Sand''; 1972) — futbolists;
+* [[Joahims Olsens]] (1977) — lodes grūdējs.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Dānija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Dānijas pilsētas]]
+[[Kategorija:Ziemeļjitlandes reģions]]

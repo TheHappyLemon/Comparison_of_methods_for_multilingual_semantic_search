@@ -1,0 +1,65 @@
+{{novec}}
+{{ievads+}}
+{{nepilnīgs saraksts}}
+{| class="wikitable" width=100%
+|- 
+| '''Nosaukums'''
+| '''Raksturojums'''
+| '''2004.gada Seima vēlēšanas (%)''' 
+| '''Seima deputāti (no 141)'''
+| '''Eiroparlamenta deputāti (no 13)'''
+|-
+| '''[[Darba partija (Lietuva)|Darba partija]]''' <br />''Darbo Partija, DP''
+| liberāla partija
+| 28,4%
+| 39
+| 5 ([[ALDE]])
+|-
+| '''[[Lietuvas sociāldemokrātu partija]]''' <br />''Lietuvos socialdemokratų partija, LSDP''
+| sociāldemokrātiska partija
+| 24,1% (koal. ar NS)
+| 20
+| 2 ([[PES]])
+|-
+| '''[[Jaunā savienība (sociālliberāļi)]]''' <br />''Naujoji sąjunga (socialliberalai), NS''
+| sociāli liberāla partija
+| 24,1% (koal. ar LSDP)
+| 11
+| -
+|-
+| [[Tēvijas savienība/Lietuvas konservatīvie]]<br />''Tėvynės Sąjunga/Lietuvos Konservatoriai, TS''
+| konservatīva partija
+| 14,6%
+| 25
+| 2 ([[EPP-ED]])
+|-
+| [[Liberāldemokrātu partija (Lietuva)|Liberāldemokrātu partija]]<br />''Liberalų Demokratų Partija, LDP''
+| liberāla, nacionālistiska partija
+| 11,4%
+| 11
+| 1 ([[UEN]])
+|-
+| [[Liberāļu un centra savienība]]<br />''Liberalų ir centro sąjunga, LCS''
+| liberāla partija
+| 9,1%
+| 18
+| 2 ([[ALDE]])
+|-
+| '''[[Lietuvas zemnieku tautinieku savienība]]''' <br />''Lietuvos valstiečių liaudininkų sąjnga, LVLS''
+| agrāra partija
+| 6,6%
+| 10
+| 1 ([[UEN]])
+|-
+| [[Lietuvas poļu vēlēšanu akcija]]<br />''Lietuvos lenkų rinkimų akcija''
+| etniska partija ([[poļi]])
+| 3,8%
+| 2
+| -
+|-
+|}
+
+'''trekninātas''' - pozīcijas partijas
+
+[[Kategorija:Lietuvas politiskās partijas|*]]
+[[Kategorija:Politisko partiju uzskaitījumi]]

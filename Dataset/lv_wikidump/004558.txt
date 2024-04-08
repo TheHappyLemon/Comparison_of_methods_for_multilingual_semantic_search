@@ -1,0 +1,238 @@
+{{Citas nozīmes|Linux operētājsistēmu|Ubuntu|Ubuntu}}
+{{Nosaukums slīprakstā}}
+{{Infobox OS
+| name = Ubuntu
+| logo = [[Attēls:Ubuntu-logo-2022.svg|200px]]
+| screenshot = File:Ubuntu 23.10 with App Center - English.png
+| caption = Ubuntu 23.10 "Mantic Minotaur"
+| developer = [[Canonical Ltd.]]
+| family = [[Linux]]
+| working_state = Aktuāls
+| source_model = [[Brīvā programmatūra|Brīvā un atvērtā pirmkoda programmatūra]]<ref name="Ubuntu kernel sources">{{Tīmekļa atsauce|title=kernel.ubuntu.com|url=http://kernel.ubuntu.com/git/|website=kernel.ubuntu.com|access-date={{dat|2020|05|20||bez}}|archive-date={{dat|2018|08|21||bez}}|archive-url=https://web.archive.org/web/20180821121416/http://kernel.ubuntu.com/git/}}</ref><ref name="Ubuntu archive">{{Tīmekļa atsauce|title=Index of /ubuntu|url=http://archive.ubuntu.com/ubuntu/|website=archive.ubuntu.com|access-date={{dat|2020|05|20||bez}}|archiveurl=https://web.archive.org/web/20200511162437/http://archive.ubuntu.com/ubuntu/|archivedate={{dat|2020|05|11||bez}}}}</ref>
+| latest_release_version = Ubuntu 20.04 LTS
+| latest_release_date = {{dat|2020|04|23|N|bez}}
+| marketing target = [[Mākoņskaitļošana]], [[lietu internets]], [[personālais dators]], [[serveris]]
+| language = Vairāk nekā 55 valodas
+| updatemodel = [[Software Updater]]
+| package_manager = [[GNOME Software]], [[APT (Debian)|APT]], [[dpkg]], [[Snappy (package manager)|Snappy]], [[flatpak]]
+| supported_platforms = {{bulleted list |[[IA-32]], [[x86-64]] |[[ARM64]], [[ARMhf]] ([[ARMv7]] + [[VFPv3-D16]]) |[[ppc64le]] ([[POWER8]] un jaunāk) |[[s390x]]<ref name="supported_hardware">{{Tīmekļa atsauce |url=https://help.ubuntu.com/18.04/serverguide/preparing-to-install.html |quote=Ubuntu 18.04 LTS Server Edition supports four (4) major architectures: AMD64, ARM, POWER8, LinuxONE and z Systems |title=Preparing to Install |work=Ubuntu Official Documentation |year=2018 |publisher=Canonical Ltd. |access-date=16 November 2018 |archive-date={{dat|2019|06|02||bez}} |archive-url=https://web.archive.org/web/20190602173029/https://help.ubuntu.com/18.04/serverguide/preparing-to-install.html }}</ref>}}
+| kernel_type = [[Linux kernel]]
+| userland = [[GNU Core Utilities|GNU]]
+| ui = [[GNOME]]
+| license = [[GNU General Public License|GPL]] un citas licences
+| website = {{URL|https://ubuntu.com}}
+}}
+
+'''''Ubuntu''''' ([[Starptautiskais fonētiskais alfabēts|IPA]] izruna: {{Unicode|/u'buntu/}})<ref name=":0">{{Tīmekļa atsauce|url=https://www.ubuntu.com/about|title=About the Ubuntu project|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> ir [[Atvērtais pirmkods|brīva un atvērta pirmkoda]]<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/community/mission|title=Our mission|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref><ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/licensing|title=Licensing|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> [[Linux distributīvs]], kas ir bāzēts uz [[Debian|Debian GNU/Linux]].<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/community/debian|title=Debian|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> Ubuntu oficiāli ir izlaists trīs variantos: [[Personālais dators|Desktop]],<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/desktop|title=Ubuntu PC operating system|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> [[Serveris|Server]],<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/server|title=Ubuntu Server - for scale out workloads|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> un Core<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/core|title=Ubuntu Core|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> [[lietu internets|lietu interneta]] ierīcēm<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/internet-of-things|title=Ubuntu for the Internet of Things|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> un robotiem.<ref>{{Tīmekļa atsauce|url=https://blog.ubuntu.com/2017/12/19/your-first-robot-a-beginners-guide-to-ros-and-ubuntu-core-1-5|title=Your first robot: A beginner’s guide to ROS and Ubuntu Core [1/5]|website=blog.ubuntu.com}}</ref><ref>{{Tīmekļa atsauce|url=https://www.cnet.com/news/open-source-ubuntu-core-connects-robots-drones-and-smart-homes/|title=Open source Ubuntu Core connects robots, drones and smart homes|first=Richard|last=Trenholm|publisher=CNET}}</ref> Visas versijas var izmantot datorā vai virtuālā mašīnā. Ubuntu ir populāra [[operētājsistēma]] [[mākoņskaitļošana]]i ar [[OpenStack]] atbalstu.<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/openstack|title=OpenStack on Ubuntu is your scalable private cloud, by Canonical|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref>
+
+Ubuntu izstrādes ciklu veido relīzes katrus 6 mēnešus, ar [[ilgtermiņa atbalsts|ilgtermiņa atbalstu]] relīzēm katrus divus gadus.<ref name=":0" /><ref>{{Tīmekļa atsauce|url=https://wiki.ubuntu.com/Releases#Release_cadence|title=Releases - Ubuntu Wiki|website=wiki.ubuntu.com|access-date=20 May 2020}}</ref><ref>{{Tīmekļa atsauce|url=https://wiki.ubuntu.com/LTS|title=LTS - Ubuntu Wiki|website=wiki.ubuntu.com|access-date=20 May 2020}}</ref> Šobrīd pēdējā versija Ubuntu 23.04 ("Lunar Lobster") tika palaista 2023. gada aprīlī, bet jaunākā ilgtermiņa atbalsta versija ir Ubuntu 22.04 ("Jammy Jellyfish").
+
+Ubuntu izstrādā [[Canonical Ltd.|Canonical]]<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/community/canonical|title=Canonical and Ubuntu|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> un citu izstrādātāju kopiena pēc [[Meritokrātija|meritokrātijas]] pārvaldības modeļa.<ref name=":0" /><ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/community/governance|title=Governance|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> Canonical nodrošina drošības atjauninājumus un atbalstu katrai Ubuntu relīzei, sākot no izlaišanas datuma un līdz brīdim, kad relīze sasniedz norādīto ekspluatācijas laika beigu datumu.<ref name=":0" /><ref>{{Tīmekļa atsauce|url=https://wiki.ubuntu.com/Releases#Support_length|title=Releases - Ubuntu Wiki|website=wiki.ubuntu.com|access-date=20 May 2020}}</ref><ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/info/release-end-of-life|title=Release end of life|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref> Canonical rada ieņēmumus, pārdodot ar Ubuntu saistītus maksas pakalpojumus.<ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/support|title=Support and management|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref><ref>{{Tīmekļa atsauce|url=https://www.ubuntu.com/support/plans-and-pricing|title=Plans and pricing|last=Canonical|website=ubuntu.com|access-date=20 May 2020}}</ref>
+
+Distributīva nosaukums ir cēlies no [[Dienvidāfrika]]s [[zulu]] un [[Kosi|kosu]] tautu priekšstata [[ubuntu (ideoloģija)|ubuntu]], kas nozīmē “Es esmu tas, kas es esmu, pateicoties tam, kas mēs visi esam”. Ubuntu sauklis "Linux cilvēcīgām būtnēm" ietver vienu no tā galvenajiem mērķiem — padarīt Linux pieejamāku un vienkāršāk lietojamu.
+
+== Vēsture un attīstība ==
+Ubuntu projekta sākotnējais nosaukums bija ''no-name-yet.com''.<ref>{{Tīmekļa atsauce |title = Ubuntu is Born |work = Ubuntu (A GNU/Linux Operating System): Past Present and Future |last = Hill |url = http://mako.cc/talks/20041126-ubuntu/ubuntu_gulev-talk_notes.html#ubuntu-is-born | first = Benjamin Mako | accessdate = 2006-10-18 | date = [[26 November]] [[2004. gads|2004]]}}</ref>
+
+Ubuntu ir veidots, pamatojoties uz Debian arhitektūru un infrastruktūru, un tajā ietilpst Linux serveris, stacionāro datoru un ražot pārtrauktu tālruņu un [[Planšetdators|planšetdatoru]] operētājsistēmu versijas.<ref>{{Tīmekļa atsauce|url=https://ubuntu.com/community/debian|title=Debian|website=Ubuntu|access-date=2021-12-17|language=en}}</ref> Ubuntu izlaiž atjauninātās versijas, ik pēc sešiem mēnešiem.<ref>{{Tīmekļa atsauce|url=https://ubuntu.com/community|title=Community|website=Ubuntu|access-date=2021-12-17|language=en}}</ref> Ubuntu pirmais izlaidums [[2004. gads|2004]]. gada [[20. oktobris|20. oktobrī]] sākās kā pagaidu nodalīšanās no Debian GNU/Linux, ar mērķi regulāri izmantot Debian kodu, lai būtu iespējams izlaist jaunu Ubuntu versiju ik pēc sešiem mēnešiem, solī ar [[GNOME]] sešu mēnešu izlaides ciklu. Atšķirībā no citiem Debian atvasinājumiem kā, piemēram, [[Xandros]], [[Linspire]] un [[Libranet]], Canonical Ubuntu distributīvā saglabā Debian filozofiju un pārsvarā lieto [[brīvā programmatūra|brīvo programmatūru]] nevis iekļauj savā [[biznesa modelis|biznesa modelī]] patentētās lietotnes.
+
+Ubuntu lieto Debian [[Advanced Packaging Tool]] instalēto pakotņu pārvaldīšanai. Ubuntu pakotnes parasti ir balstītas uz pakotnēm no Debian nestabilā repozitorija, lai arī tās ne vienmēr ir savienojamas savā starpā. Vairāki Ubuntu izstrādātāji ir arī pakotņu uzturētāji Debian repozitorijos un Ubuntu izmaiņas tiek ieguldītas atpakaļ Debian, to izmaiņu brīdī, nevis pēc to izlaides. [[Jans Mērdoks]], Debian dibinātājs, 2005. gada aprīlī kritizēja Ubuntu attiecībā uz nesaderību starp tā pakotnēm un [[Debian]] Sarge<ref>{{tīmekļa atsauce |title=DebianSarge |url=https://wiki.debian.org/DebianSarge - Debian Wiki |accessdate=2020-05-21}}</ref> pakotnēm, norādot, ka Ubuntu ir novirzījies pārāk tālu lai saglabātu saderību.{{Citation needed|reason=Avots?|date=May 2020}}
+
+== Iekļautās programmas ==
+
+Ubuntu kā [[Grafiskā lietotāja saskarne|grafisko lietotāja saskarni]] izmanto [[Unity]] lietotāja saskarni ar [[GNOME]] logu pārvaldnieku. Ir iespējams izmantot citas grafiskas vides, instalējot tos atsevišķi vai izmantojot dažādas Ubuntu versijas, piemēram ar [[KDE]] logu pārvaldnieku - [[Kubuntu]], ar [[Xfce]] - [[Xubuntu]], ar [[LXDE]] - [[Lubuntu]] un citas versijas.
+
+Ubuntu pakotnes tiek dalītas 4 lielās repozitoriju grupās atkarībā no tā, kas uztur programmatūru ([[Canonical Ltd.|Canonical]] vai Ubuntu kopiena) un vai tā atbilst Ubuntu brīvās programmatūras noteikumiem.<ref>{{Tīmekļa atsauce |url=http://www.ubuntu.com/community/ubuntustory/licensing |title=Licensing |access-date={{dat|2009|11|06||bez}} |archiveurl=https://web.archive.org/web/20091110133636/http://www.ubuntu.com/community/ubuntustory/licensing |archivedate={{dat|2009|11|10||bez}} }}</ref>
+
+{| class="wikitable" border="1"
+|-
+|+ Pakotnes repozitoriji
+!
+! [[Brīvā programmatūra]]
+! Nebrīvā programmatūra
+|-
+| '''Canonical'''
+| Main
+| Restricted
+|-
+| '''Kopienas'''
+| Universe
+| Multiverse
+|}
+
+Pie nebrīvās programmatūras grupas pieder pakotnes ar slēgto pirmkodu, piemēram video karšu [[dzinis|dziņi]] ([[Nvidia]], [[Advanced Micro Devices|AMD]]) u.c.
+
+== Ubuntu Linux versijas ==
+
+{| class="wikitable sortable" border="1"
+|-
+! Versija
+! scope="col" | Nosaukums
+! scope="col" | Izdošanas datums
+! scope="col" | Ekspluatācijas laika beigas
+! scope="col" | Sākotnējā kodola versija
+|-
+! style="background:#C1E6F5" | 24.04 LTS<ref name="NobleNumbat/ReleaseSchedule">{{Tīmekļa atsauce |title=NobleNumbat/ReleaseSchedule |url=https://discourse.ubuntu.com/t/noble-numbat-release-schedule/35649 |website=Ubuntu Discourse}}</ref>
+| align="center" | Noble Numbat
+| align="left" | {{Dat|2024|04|25}}
+| align="left" | {{Dat|2034|04|25}}
+| align="center" | 6.8
+|-
+! style="background:#D4F4B4" | 23.10<ref name="ManticMinotaur/ReleaseNotes">{{Tīmekļa atsauce |title=ManticMinotaur/ReleaseNotes |url=https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534 |website=Ubuntu Discourse}}</ref>
+| align="center" | Mantic Minotaur
+| align="left" | {{Dat|2023|10|12}}
+| align="left" | 2024. gada jūlijā
+| align="center" | 6.5
+|-
+! style="background:#FDB3AB" | 23.04<ref name="LunarLobster/ReleaseNotes">{{Tīmekļa atsauce |title=LunarLobster/ReleaseNotes |url=https://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910 |website=Ubuntu Discourse}}</ref>
+| align="center" | Lunar Lobster
+| align="left" | {{Dat|2023|04|20}}
+| align="left" | {{Dat|2024|01|25}}
+| align="center" | 6.2
+|-
+! style="background:#FDB3AB" | 22.10<ref name="KineticKudu/ReleaseNotes">{{Tīmekļa atsauce |title=KineticKudu/ReleaseNotes |url=https://discourse.ubuntu.com/t/kinetic-kudu-release-notes/27976 |website=Ubuntu Discourse}}</ref>
+| align="center" | Kinetic Kudu
+| align="left" | {{Dat|2022|10|20}}
+| align="left" | {{Dat|2023|07|20}}
+| align="center" | 5.19
+|-
+! style="background:#FEF8C6" | 22.04 LTS<ref name="JammyJellyfish/ReleaseNotes">{{Tīmekļa atsauce |title=JammyJellyfish/ReleaseNotes |url=https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668 |website=Ubuntu Discourse}}</ref>
+| align="center" | Jammy Jellyfish
+| align="left" | {{Dat|2022|04|21}}
+| align="left" | {{Dat|2032|04|21}}
+| align="center" | 5.15 vai 5.17
+|-
+! style="background:#FDB3AB" | 21.10<ref name="II/ReleaseNotes">{{Tīmekļa atsauce |title=II/ReleaseNotes |url=https://wiki.ubuntu.com/II/ReleaseNotes |website=Ubuntu Wiki }}{{Novecojusi saite}}</ref>
+| align="center" | Impish Indri
+| align="left" | {{Dat|2021|10|14|bez}}
+| align="left" | 2022. gada jūlijā
+| align="center" | 5.13
+|-
+! style="background:#FDB3AB" | 21.04<ref name="HH/ReleaseNotes">{{Tīmekļa atsauce |title=HH/ReleaseNotes |url=https://wiki.ubuntu.com/HH/ReleaseNotes |website=Ubuntu Wiki }}{{Novecojusi saite}}</ref>
+| align="center" | Hirsute Hippo
+| align="left" | {{dat|2021|04|22|}}
+| align="left" | 2022. gada janvārī
+| align="center" | 5.11
+|-
+! style="background:#FDB3AB" | 20.10<ref name="Groovy Gorilla Release Notes">{{Tīmekļa atsauce |title=Groovy Gorilla Release Notes |url=https://discourse.ubuntu.com/t/groovy-gorilla-release-notes/15533 |website=Ubuntu Wiki}}</ref>
+| align="center" | Groovy Gorilla
+| align="left" | {{dat|2020|10|22|}}
+| align="left" | 2021. gada jūlijā
+| align="center" | 5.8
+|-
+! style="background:#FEF8C6" | 20.04 LTS<ref name="FocalFossa/ReleaseNotes">{{Tīmekļa atsauce |title=FocalFossa/ReleaseNotes |url=https://wiki.ubuntu.com/FocalFossa/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Focal Fossa
+| align="left" | {{dat|2020|04|23|}}
+| align="left" | 2025. gada aprīlī
+| align="center" | 5.4
+|-
+! style="background:#FDB3AB" | 19.10<ref name="EoanErmine/ReleaseNotes">{{Tīmekļa atsauce |title=EoanErmine/ReleaseNotes |url=https://wiki.ubuntu.com/EoanErmine/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Eoan Ermine
+| align="left" | {{dat|2019|10|17|}}
+| align="left" | 2020. gada jūlijā
+| align="center" | 5.3
+|-
+! style="background:#FDB3AB" | 19.04<ref name="DiscoDingo/ReleaseNotes">{{Tīmekļa atsauce |title=DiscoDingo/ReleaseNotes |url=https://wiki.ubuntu.com/DiscoDingo/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Disco Dingo
+| align="left" | {{dat|2019|04|18|}}
+| align="left" | {{dat|2020|1|23|}}
+| align="center" | 5.0
+|-
+! style="background:#FDB3AB" | 18.10<ref name="CosmicCuttlefish/ReleaseNotes">{{Tīmekļa atsauce |title=CosmicCuttlefish/ReleaseNotes |url=https://wiki.ubuntu.com/CosmicCuttlefish/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Cosmic Cuttlefish
+| align="left" | {{dat|2018|10|18|}}
+| align="left" | {{dat|2019|7|18|}}
+| align="center" | 4.18
+|-
+! style="background:#FEF8C6" | 18.04 LTS<ref name="BionicBeaver/ReleaseNotes">{{Tīmekļa atsauce |title=BionicBeaver/ReleaseNotes |url=https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Bionic Beaver
+| align="left" | {{dat|2018|04|26|}}
+| align="left" | 2028. gada aprīlī
+| align="center" | 4.15
+|-
+! style="background:#FDB3AB" | 17.10<ref name="ArtfulAardvark/ReleaseNotes">{{Tīmekļa atsauce |title=ArtfulAardvark/ReleaseNotes |url=https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Artful Aardvark
+| align="left" | {{dat|2017|10|19|}}
+| align="left" | 2028. gada aprīlī
+| align="center" | 4.13
+|-
+! style="background:#FDB3AB" | 17.04<ref name="ZestyZapus/ReleaseNotes">{{Tīmekļa atsauce |title=ZestyZapus/ReleaseNotes |url=https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Zesty Zapus
+| align="left" | {{dat|2017|04|13|}}
+| align="left" | {{dat|2018|1|13|}}
+| align="center" | 4.10
+|-
+! style="background:#FDB3AB" | 16.10<ref name="YakketyYak/ReleaseNotes">{{Tīmekļa atsauce |title=YakketyYak/ReleaseNotes |url=https://wiki.ubuntu.com/YakketyYak/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Yakkety Yak
+| align="left" | {{dat|2016|10|20|}}
+| align="left" | {{dat|2017|7|20|}}
+| align="center" | 4.8
+|-
+! style="background:#FEF8C6" | 16.04 LTS<ref name="XenialXerus/ReleaseNotes">{{Tīmekļa atsauce |title=XenialXerus/ReleaseNotes |url=https://wiki.ubuntu.com/XenialXerus/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Xenial Xerus
+| align="left" | {{dat|2016|04|21|}}
+| align="left" | 2024. gada aprīlī
+| align="center" | 4.4
+|-
+! style="background:#FDB3AB" | 15.10<ref name="WilyWerewolf/ReleaseNotes">{{Tīmekļa atsauce |title=WilyWerewolf/ReleaseNotes |url=https://wiki.ubuntu.com/WilyWerewolf/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Wily Werewolf
+| align="left" | {{dat|2015|10|22|}}
+| align="left" | {{dat|2016|7|28|}}
+| align="center" | 4.2
+|-
+! style="background:#FDB3AB" | 15.04<ref name="VividVervet/ReleaseNotes">{{Tīmekļa atsauce |title=VividVervet/ReleaseNotes |url=https://wiki.ubuntu.com/VividVervet/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Vivid Vervet
+| align="left" | {{dat|2015|4|23|}}
+| align="left" | {{dat|2016|2|4|}}
+| align="center" | 3.19
+|-
+! style="background:#FDB3AB" | 14.10<ref name="UtopicUnicorn/ReleaseNotes">{{Tīmekļa atsauce |title=UtopicUnicorn/ReleaseNotes |url=https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Utopic Unicorn
+| align="left" | {{dat|2014|10|23|}}
+| align="left" | {{dat|2015|7|23|}}
+| align="center" | 3.16
+|-
+! style="background:#FEF8C6" | 14.04 LTS<ref name="TrustyTahr/ReleaseNotes">{{Tīmekļa atsauce |title=TrustyTahr/ReleaseNotes |url=https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes |website=Ubuntu Wiki}}</ref>
+| align="center" | Trusty Tahr
+| align="left" | {{dat|2014|04|17|}}
+| align="left" | 2022. gada aprīlī
+| align="center" | 3.13
+|- class="sortbottom"
+| colspan="5" |
+<div style="margin-left: -1em;"><div style="float: left; margin-left: 1em;">
+<span style="white-space: nowrap;">'''Apzīmējumi:'''</span></div>
+<div style="float: left; margin-left: 1em;">
+<span style="border-left: 1.2em solid #FDB3AB; padding-left: 0.3em; white-space: nowrap;" title="Veca versija, netiek uzturēta">Veca versija</span></div>
+<div style="float: left; margin-left: 1em;">
+<span style="border-left: 1.2em solid #FEF8C6; padding-left: 0.3em; white-space: nowrap;" title="Veca versija, tiek uzturēta">Veca versija, tiek uzturēta</span></div>
+<div style="float: left; margin-left: 1em;">
+<span style="border-left: 1.2em solid #D4F4B4; padding-left: 0.3em; white-space: nowrap;" title="Šībrīža versija">Šībrīža versija</span></div>
+<div style="float: left; margin-left: 1em;"></div>
+<div style="float: left; margin-left: 1em;">
+<span style="border-left: 1.2em solid #C1E6F5; padding-left: 0.3em; white-space: nowrap;" title="Plānotā versija">Plānotā versija</span></div><div style="clear: left;"></div></div>
+|}
+{{clear}}
+
+== Skatīt arī ==
+* [[Debian]]
+* [[Edubuntu]]
+* [[Kubuntu]]
+* [[Linux Mint]]
+* [[Xubuntu]]
+* [[Ubuntu Foundation]]
+
+== Atsauces ==
+{{atsauces|30em}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [http://www.ubuntu.com/ Ubuntu oficiālā mājaslapa]
+* [http://www.ubuntu.lv latviešu Ubuntu resurss] {{Webarchive|url=https://web.archive.org/web/20210428053221/http://ubuntu.lv/ |date={{dat|2021|04|28||bez}} }}
+
+{{Linux-distro}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Uz Debian bāzēti distributīvi]]
+[[Kategorija:Operētājsistēmas]]
+[[Kategorija:Linux distributīvi]]

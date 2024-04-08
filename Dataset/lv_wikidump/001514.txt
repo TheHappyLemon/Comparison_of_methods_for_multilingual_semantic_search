@@ -1,0 +1,43 @@
+{{Elementa infokaste
+|                 tips = nemetāls
+|      kārtas skaitlis = 8
+|             2. čaula = 6
+|             1. čaula = 2
+|              simbols = O
+|             atommasa = 15,9994
+|   valences elektroni = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
+|       tabulas attēls = [[Attēls:O-TableImage.svg|250px]] 
+|               attēls =[[Attēls:Oxygen-glow.jpg|150px]][[Attēls:Dioxygen-2D-dimensions.png|120px]]<br />Skābekļa spīdēšana elektriskajā laukā un skābekļa molekulas struktūrformula ar starpatomu attālumu
+|  oksidēšanas pakāpes = +2, +1, −1, −2
+|  elektronegativitāte = 3,44
+|              blīvums = 1,429
+|  kušanas temperatūra = 50,35 K (-218,79&nbsp;°C)
+| viršanas temperatūra = 90,18 K (-182,95&nbsp;°C)
+}}
+'''Skābeklis''' ir [[ķīmiskais elements]] ar simbolu '''O''' un [[atomskaitlis|atomskaitli]] 8. Skābeklis [[elementu periodiskā tabula|periodiskajā tabulā]] ir pieskaitāms [[2. perioda elementi]]em, kā arī pie [[halkogēns|halkogēniem]], tomēr šo grupu bieži vien neizdala atsevišķi. Skābeklis ir tipisks [[nemetāli|nemetāls]]. [[Normāli apstākļi|Normālos apstākļos]] skābeklis veido [[vienkārša viela|vienkāršo vielu]], kam ir divatomu molekulas ar [[ķīmiskā formula|ķīmisko formulu]] O<sub>2</sub>. Molekulārajam skābeklim nav ne [[krāsa]]s, ne [[smarža]]s, ne [[garša]]s. Brīvā veidā skābeklis ir sastopams [[gaiss|gaisa]] sastāvā. Dabā skābeklis ir sastopams kā visu skābekļa savienojumu komponents (lielākajā daļā sāļu un visos oksīdos - [[ūdens|ūdenī]], [[silīcijs|silīcija]] dioksīdā ([[kvarcs|kvarca]] smiltīs), [[karbonāti|karbonātos]]). Bināros skābekļa savienojumus ar citiem elementiem sauc par [[oksīds|oksīdiem]]. Savienojumos skābeklis parasti ir divvērtīgs, ar [[oksidēšanas pakāpe|oksidēšanas pakāpi]] −2 (savienojumos ar [[fluors|fluoru]] ir iespējama oksidēšanas pakāpe +1 un +2). Dažreiz uzskata, ka [[ozons|ozona]] molekulā un ozonīda jonā centrālā skābekļa atoma oksidēšanas pakāpe ir +4.<ref>Nails Ahmetovs. ''Neorganiskā ķīmija''. Rīga : Zvaigzne, 1978, 326. lpp.</ref> [[Visums|Visumā]] tas ir trešais visbiežāk sastopamais elements (vēl izplatītāki ir tikai [[ūdeņradis]] un [[hēlijs]])<ref>{{Grāmatas atsauce | title = Nature's Building Blocks: An A-Z Guide to the Elements | last = Emsley | first = John |publisher = Oxford University Press | year = 2001 | location = Oxford, England, UK | isbn = 0198503407 | chapter = Oxygen |pages = 297}}</ref> un viens no izplatītākajiem [[Zemes garoza|Zemes garozā]].<ref name="lanl">{{Tīmekļa atsauce | publisher = Los Alamos National Laboratory | url = http://periodic.lanl.gov/elements/8.html | title = Oxygen | accessdate = {{dat|2007|12|16}} | archive-date = {{dat|2007|10|26||bez}} | archive-url = https://web.archive.org/web/20071026034224/http://periodic.lanl.gov/elements/8.html }}</ref>
+
+Var uzskatīt, ka skābeklim ir trīs [[alotropija|alotropiskie veidi]] - skābeklis O<sub>2</sub>, [[ozons]] O<sub>3</sub> un atomārais skābeklis O, ko arī dažkārt uzskata par alotropisko veidu. Dabā sastopams skābeklis O<sub>2</sub> un ozons O<sub>3</sub>. Ozons veidojas negaisa laikā zibens iedarbības rezultātā. Tam ir neatsverama nozīme Zemes atmosfēras ārējo apvalku funkcijās. Atmosfēras [[Zemes atmosfēra|gaisa]] sastāvā pēc tilpuma ir aptuveni 20,95% skābekļa.
+
+== Skābekļa ķīmiskās īpašības ==
+Augstās temperatūrās skābeklis ir ļoti aktīvs nemetāls. Tas tieši savienojas ar visām vienkāršām vielām, izņemot [[halogēni|halogēnus]], [[cēlmetāli|cēlmetālus]] un [[cēlgāzes]]. Daudzas vielas gaisā un tīrā skābeklī lēnām oksidējas. [[Oksidēšanās]] notiek arī dzīvajos organismos - to ir vienkārši pierādīt, jo, piemēram, izelpotajā gaisā vienmēr ir mazāk skābekļa nekā ieelpojamā.
+
+== Skatīt arī ==
+{{commonscat|Oxygen|Skābeklis}}
+* [[Oksīdi]]
+* [[Šķidrais skābeklis]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+{{Periodiskā sistēma}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Skābeklis]]

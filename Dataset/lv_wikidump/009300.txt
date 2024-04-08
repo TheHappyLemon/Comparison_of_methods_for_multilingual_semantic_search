@@ -1,0 +1,17 @@
+'''ORBCOMM''' ir globāla [[mobilie sakari|mobilo]] [[sakaru pavadonis|sakaru pavadoņu]] sistēma, kas ļauj veikt [[īsziņa|īsziņu]] un maza ātruma datu sakarus jebkurā vietā uz [[zeme]]slodes. Sistēma, atšķirībā no [[Iridium (pavadoņsistēma)|Iridium]] un [[Globalstar]], nepiedāvā tiešos balss sakarus. Globalstar sastāv no 29 pavadoņiem (vēl 5 tiks iedarbināti 2008. gada vasaras beigās). Pakalpojumus plaši izmanto transporta kompānijas, lai varētu sekot saviem transportlīdzekļiem un to stāvoklim ceļā (klientu iekārtās var tikt iebūvētas [[Globālā pozicionēšanas sistēma|GPS]] uztveršanas iespējas).
+
+== Vēsture ==
+* {{dat|1991|7|17}} tika palaists izmēģinājumu pavadonis [[Orbcomm-X]]
+* {{dat|1998|8|2}} — palaisti pirmie 8 pavadoņi.
+* {{dat|1999|12|4}} — palaisti pēdējie 7 pirmās kārtas pavadoņi.
+* {{dat|2008|6|19}} ar [[Kosmos-3M]] palaisti 5 modernizēti pavadoņi (kopā ar vienu eksperimentālu jūras navigācijas pavadoni).<ref>[http://www.spaceflightnow.com/news/n0806/19orbcomm/ Data relay satellite cluster launched for ORBCOMM] {{Webarchive|url=https://web.archive.org/web/20080906162020/http://spaceflightnow.com/news/n0806/19orbcomm/ |date={{dat|2008|09|06||bez}} }} STEPHEN CLARK. spaceflightnow.com 2008-06-19</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.orbcomm.com/ Oficiālā mājas lapa]
+
+{{ZMP-aizmetnis}}
+
+[[Kategorija:Globālās mobilo sakaru pavadoņsistēmas]]

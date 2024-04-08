@@ -1,0 +1,48 @@
+[[Attēls:Spectrum4websiteEval.png|thumb|300px|Redzamā gaisma]]
+'''Redzamā gaisma''' jeb '''optiskais spektrs''' ir [[gaisma|elektromagnētiskā spektra]] daļa, ko var saskatīt cilvēka [[acs]]. Parasti cilvēka acs redz gaismu, kuras viļņu garums ir 400—700 [[Nanometrs|nm]], taču daži cilvēki var redzēt arī gaismu ar [[Viļņa garums|viļņu garumu]] 380—780 nm. 
+
+Citu sugu pārstāvju acis bieži uztver gaismu atšķirīgi no cilvēka acs. Piemēram, daudzi kukaiņi, kā bites, var redzēt [[Ultravioletie stari|ultravioleto gaismu]], kas noder nektāra atrašanai ziedos.
+
+{| class="wikitable" style="float:left; width:400px; text-align:center; margin:0.5em auto; width:auto; margin-left:1em;"
+|-
+!Krāsa
+|Frekvence
+|Viļņa garums
+|-
+| style="background:#ccb0f4;"|'''Violeta'''
+|668—789 THz
+|380—450 nm
+|-
+| style="background:#b0b0f4;"|'''Zila'''
+|606—668 THz
+|450—495 nm
+|-
+| style="background:#b0f4b0;"|'''Zaļa'''
+|526—606 THz
+|495—570 nm
+|-
+| style="background:#f4f4b0;"|'''Dzeltena'''
+|508—526 THz
+|570—590 nm
+|-
+| style="background:#f4ccb0;"|'''Oranža'''
+|484—508 THz
+|590—620 nm
+|-
+| style="background:#f4b0b0;"|'''Sarkana'''
+|400—484 THz
+|620—750 nm
+|}
+{{-}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{fizika-aizmetnis}}
+
+{{EMspektrs}}
+
+[[Kategorija:Elektromagnētiskais spektrs]]
+[[Kategorija:Optika]]

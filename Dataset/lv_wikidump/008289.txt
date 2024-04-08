@@ -1,0 +1,308 @@
+{{Biatlonista infokaste
+ |           vārds = Svens Fišers
+ |      vārds_orig = ''Sven Fischer''
+ |          attēls = Sven Fischer 2003.jpg
+ |         att_izm = 
+ |        paraksts = S. Fišers [[Oberhofa|Oberhofā]] 2003. gadā
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1971|4|16}}
+ |         dz_viet = {{Vieta|Vācija|Šmalkaldena}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          valsts = {{GER}}
+ |         kar_sāk = 1992
+ |        kar_beig = 2007
+ |          augums = 185 [[centimetrs|cm]]
+ |           svars = 82 [[kilograms|kg]]
+<!------ Karjera ------>
+ |           klubs = WSV Oberhof O5
+ |        treneris = Marks Kirhners
+ |     bij_treneri = 
+ |          izlase = 
+ |         statuss = Beidzis karjeru
+<!------ Pasaules kausa informācija ------>
+ |       pk_debija = 
+ |       pk_beigas = 
+ |          pk_sez = 
+ |      pk_uzvaras = 33
+ |   pk_pjedestāli = 
+ |       pk_tituli = 2 (1996.—1997.<br />1998.—1999.)
+ |     dist_tituli = 
+<!------ OS informācija ------>
+ |       os_dalība = 4 ([[1994. gada ziemas olimpiskās spēles|1994]], [[1998. gada ziemas olimpiskās spēles|1998]], [[2002. gada ziemas olimpiskās spēles|2002]], [[2006. gada ziemas olimpiskās spēles|2006]])
+ |      os_medaļas = 4 zelti, 1 sudrabs, 2 bronzas
+<!------ PČ informācija ------>
+ |       pč_dalība = 
+ |      pč_medaļas = 
+<!------ Papildinformācija ------>
+ |            balv = 
+ |           slavz = 
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Svens Fišers''' ({{val|de|Sven Fischer}}; dzimis {{Dat|1971|4|16}} [[Šmalkaldena|Šmalkaldenā]], [[Vācija|Vācijā]]) ir bijušais [[vācieši|vācu]] [[biatlons|biatlonists]]. Piedalījies četrās Olimpiskajās spēlēs ([[1994. gada ziemas olimpiskās spēles|1994]], [[1998. gada ziemas olimpiskās spēles|1998]], [[2002. gada ziemas olimpiskās spēles|2002]], [[2006. gada ziemas olimpiskās spēles|2006]]), tajās izcīnīja 4 zelta medaļas, no kurām 3 viņš izcīnīja stafetē. Viņš ir uzvarējis divreiz [[Pasaules kauss biatlonā|Pasaules kausa]] kopvērtējumā (1996.—1997., 1998.—1999.). 2007. gadā paziņoja par karjeras beigām.<ref>{{Tīmekļa atsauce | url = http://www.biathlonworld.com/eng/news/page_000171_724.htm | title = The end of an exceptional career: Sven Fischer retires | publisher = International Biathlon Union | first = Stefan | last = Schwarzbach | date = 2007-05-07 | access-date = 2008-01-06 | archiveurl = https://web.archive.org/web/20080108182042/http://www.biathlonworld.com/eng/news/page_000171_724.htm | archivedate = 2008-01-08 }}</ref>
+
+== Karjeras rezultāti ==
+=== Olimpiskās spēles ===
+{| class="wikitable" style="text-align:center"
+|-
+! Gads
+! width="150"| Vieta
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+|-
+| [[1994. gada ziemas olimpiskās spēles|1994]]
+| align="left"| {{flaga|Norvēģija}} [[Lillehammere]]
+| bgcolor="CC9966"| '''3'''
+| 7
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1998. gada ziemas olimpiskās spēles|1998]]
+| align="left"| {{flaga|Japāna}} [[Nagano]]
+| 16
+| 29
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[2002. gada ziemas olimpiskās spēles|2002]]
+| align="left"| {{flaga|ASV}} [[Soltleiksitija]]
+| 29
+| bgcolor="silver"| '''2'''
+| 12
+| 
+| bgcolor="silver"| '''2'''
+|-
+| [[2006. gada ziemas olimpiskās spēles|2006]]
+| align="left"| {{flaga|Itālija}} [[Turīna]]
+| 17
+| bgcolor="gold"| '''1'''
+| bgcolor="CC9966"| '''3'''
+| 17
+| bgcolor="gold"| '''1'''
+|}
+
+=== Pasaules čempionāts ===
+{| class="wikitable" style="text-align:center"
+|-
+! Gads
+! width="150"| Vieta
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+|-
+| [[1993. gada Pasaules čempionāts biatlonā|1993]]
+| align="left"| {{flaga|Bulgārija}} [[Boroveca]]
+| 
+| 
+| 
+| 
+| bgcolor="CC9966"| '''3'''
+|-
+| [[1995. gada Pasaules čempionāts biatlonā|1995]]
+| align="left"| {{flaga|Itālija}} [[Antholca]]
+| 
+| 26
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1996. gada Pasaules čempionāts biatlonā|1996]]
+| align="left"| {{flaga|Vācija}} [[Rūpoldinga]]
+| 22
+| 19
+| 
+| 
+| bgcolor="silver"| '''2'''
+|-
+| [[1997. gada Pasaules čempionāts biatlonā|1997]]
+| align="left"| {{flaga|Slovākija}} [[Osrbli]]
+| 5
+| 24
+| 23
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1998. gada Pasaules čempionāts biatlonā|1998]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 
+| 
+| 4
+| 
+| 
+|-
+| [[1999. gada Pasaules čempionāts biatlonā|1999]]
+| align="left"| {{flaga|Somija}} [[Kontiolahti]]<br />{{flaga|Norvēģija}} [[Holmenkollena]]
+| bgcolor="gold"| '''1'''
+| 7
+| bgcolor="CC9966"| '''3'''
+| bgcolor="gold"| '''1'''
+| 4
+|-
+| [[2000. gada Pasaules čempionāts biatlonā|2000]]
+| align="left"| {{flaga|Norvēģija}} [[Holmenkollena]]<br />{{flaga|Somija}} [[Lahti]]
+| 19
+| 40
+| 13
+| 13
+| bgcolor="CC9966"| '''3'''
+|-
+| [[2001. gada Pasaules čempionāts biatlonā|2001]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 11
+| 5
+| bgcolor="CC9966"| '''3'''
+| bgcolor="CC9966"| '''3'''
+| 12
+|-
+| [[2003. gada Pasaules čempionāts biatlonā|2003]]
+| align="left"| {{flaga|Krievija}} [[Hantimansijska]]
+| 22
+| 12
+| 11
+| bgcolor="silver"| '''2'''
+| bgcolor="gold"| '''1'''
+|-
+| [[2004. gada Pasaules čempionāts biatlonā|2004]]
+| align="left"| {{flaga|Vācija}} [[Oberhofa]]
+| 23
+| 16
+| 8
+| 11
+| bgcolor="gold"| '''1'''
+|-
+| [[2005. gada Pasaules čempionāts biatlonā|2005]]
+| align="left"| {{flaga|Austrija}} [[Hohfilcene]]
+| 4
+| bgcolor="silver"| '''2'''
+| bgcolor="CC9966"| '''3'''
+| bgcolor="silver"| '''2'''
+| 6
+|-
+| [[2006. gada Pasaules čempionāts biatlonā|2006]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 
+| 
+| 
+| 
+| 10
+|-
+| [[2007. gada Pasaules čempionāts biatlonā|2007]]
+| align="left"| {{flaga|Itālija}} [[Antholca]]
+| 20
+| 43
+| 17
+| 5
+| bgcolor="CC9966"| '''3'''
+|}
+
+=== Pasaules kausa kopvērtējums ===
+{| class="wikitable" style="text-align:center"
+|-
+! width="100"| Sezona
+! width="70"| Vieta
+|-
+| align="left"| 1992.—1993. || 6
+|-
+| align="left"| 1993.—1994. || bgcolor="silver" | 2
+|-
+| align="left"| 1994.—1995. || 18
+|-
+| align="left"| 1995.—1996. || bgcolor="#CFAA88"| 3
+|-
+| align="left"| 1996.—1997. || bgcolor="gold"   | '''1'''
+|-
+| align="left"| 1997.—1998. || bgcolor="#CFAA88"| 3
+|-
+| align="left"| 1998.—1999. || bgcolor="gold"   | '''1'''
+|-
+| align="left"| 1999.—2000. || bgcolor="#CFAA88"| 3
+|-
+| align="left"| 2000.—2001. || 5
+|-
+| align="left"| 2001.—2002. || 4
+|-
+| align="left"| 2002.—2003. || 10
+|-
+| align="left"| 2003.—2004. || 9
+|-
+| align="left"| 2004.—2005. || bgcolor="silver" | 2
+|-
+| align="left"| 2005.—2006. || bgcolor="#CFAA88"| 3
+|-
+| align="left"| 2006.—2007. || 6
+|}
+
+=== Statistika Pasaules kausā ===
+{| class="wikitable" style="text-align:center"
+|-
+! Rezultāts
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+! width="100"| Kopā
+|- bgcolor="gold"
+| align=left | 1. vieta || 6 || 13 || 10 || 4 || 21 || '''54'''
+|- bgcolor="silver"
+| align=left | 2. vieta || 2 || 10 || 4 || 4 || 14 || '''34'''
+|- bgcolor="#CFAA88"
+| align=left | 3. vieta || 3 || 16 || 13 || 5 || 9 || '''46'''
+|-
+| align=left | Top 10 || 28 || 74 || 51 || 22 || 53 || '''228'''
+|-
+| align=left | Vieta punktos || 52 || 105 || 75 || 31 || 54 || '''317'''
+|-
+! align=left | Kopā !! 65 !! 122 !! 75 !! 31 !! 55 !! 348
+|-
+!align="center" colspan="7" style="font-size: 8pt"| Dati atjaunoti pēc 2006.—2007. gada sezonas beigām.
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{Commonscat|Sven Fischer|Svens Fišers}}
+* [http://services.biathlonresults.com/athletes.aspx?IbuId=BTGER11604197101 IBU profils] {{en ikona}}
+* [https://web.archive.org/web/20081211092701/http://www.sports-reference.com/olympics/athletes/fi/sven-fischer-1.html Sports-Reference profils] {{en ikona}}
+
+
+{{Olimpisko spēļu laureāts-aizmetnis}}
+{{Vācijas sportists-aizmetnis}}
+{{Biatlons-aizmetnis}}
+
+{{Olimpiskie čempioni biatlonā — sprints vīriešiem}}
+{{Olimpiskie čempioni biatlonā — vīriešu stafete}}
+{{DEFAULTSORT:Fiszers Svens}}
+
+[[Kategorija:1971. gadā dzimušie]]
+[[Kategorija:Vācijas biatlonisti]]
+[[Kategorija:Biatlonisti 1994. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 1998. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 2006. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Olimpiskās zelta medaļas ieguvēji]]
+[[Kategorija:Olimpiskās sudraba medaļas ieguvēji]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Tīringenē dzimušie]]
+[[Kategorija:Olimpiskie zelta medaļnieki biatlonā]]
+[[Kategorija:Olimpiskie sudraba medaļnieki biatlonā]]
+[[Kategorija:Olimpiskie bronzas medaļnieki biatlonā]]
+[[Kategorija:1994. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:1998. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2002. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2006. gada ziemas olimpisko spēļu medaļnieki]]

@@ -1,0 +1,191 @@
+{{Latvijas novada infokaste
+| nosaukums         = Ozolmuižas pagasts
+| karte             = Ozolmuižas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Ozolmuižas pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Ozolmuižas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Rēzeknes novads
+| centrs2 = [[Ozolmuiža (Ozolmuižas pagasts)|Ozolmuiža]]
+| platība           = 49
+| iedzīvotāji       = 912<ref>https://www.pmlp.gov.lv/lv/iedzivotaju-registra-statistika-2020-gada</ref>
+| iedzīvotāji_gads  = 2020
+| blīvums           = {{#expr: 912 / 49 round 1}}
+| izveidots         = 1945
+| mājaslapa         = www.ozolmuiza.lv
+}}
+
+'''Ozolmuižas pagasts''' ir [[Rēzeknes novads|Rēzeknes novada]] teritoriāla vienība tā centrālajā daļā. Robežojas ziemeļos pa [[Rēzekne (upe)|Rēzekni]] ar [[Audriņu pagasts|Audriņu pagastu]], austrumos ar [[Rēzekne|Rēzeknes pilsētu]], dienvidos ar [[Ozolaines pagasts|Ozolaines pagastu]], rietumos ar [[Sakstagala pagasts|Sakstagala pagastu]]. Pagasta centrs atrodas [[Ozolmuiža (Ozolmuižas pagasts)|Ozolmuižā]].
+
+== Daba ==
+Atrodas [[Latgales augstiene|Latgales augstienē]]. Lielākā daļa atrodas [[Rēzeknes pazeminājums|Rēzeknes pazeminājumā]], dienvidu mala - [[Rāznavas pauguraine|Rāznavas paugurainē]]. Augstākā vieta atrodas Krīveņos (170 m vjl.)
+
+Pagasts bagāts ar derīgajiem izrakteņiem, te atrodami grants, smilts, saldūdens kaļķiezis, kūdra.<ref>{{Tīmekļa atsauce|url=http://rezeknesnovads.lv/pagastu-parvaldes/ozolmuizas-pagasts/|title=Ozolmuižas pagasts|last=|first=|website=rezeknesnovads.lv|access-date=2021.gada 12.janvārī|date=}}</ref>
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Rēzekne (upe)|Rēzekne]]
+** [[Čečora]]
+** [[Medine]]
+*** [[Jaunive]]
+
+==== Ezeri ====
+Agrākais Ūzulmuižas ezers nosusināts ap 1965. gadu.
+
+==== Purvi ====
+* [[Skuju purvs]] (279 ha)
+
+== Vēsture ==
+1945. gadā [[Rēzeknes apriņķis|Rēzeknes apriņķa]] [[Ozolaines pagasts|Ozolaines pagastā]] (līdz 1930. gadu beigām saucās par Ozolmuižas pagastu) izveidoja Slabadas [[ciema padome|ciema padomi]]. 1950. gadā '''Slabadas ciemam''' pievienoja likvidētos [[Ratinieku ciems|Ratinieku]] un [[Bumbišku ciems|Bumbišku]] ciemus. 1971. gadā pievienoja [[Mežāres ciems (Rēzeknes rajons)|Mežāres ciema]] [[padomju saimniecība]]s «Sovetskaja Latvija» teritoriju, bet 1973. gadā vēl tika pievienota daļa no [[Ozolaines pagasts|Ozolaines ciema]] teritorijas. Savukārt 1974. gadā daļu no Slobodas ciema pievienoja [[Rēzekne]]s pilsētai, kā rezultātā iedzīvotāju skaits ciemā samazinājās aptuveni par 500 iedzīvotājiem. 1990. gada februārī ciemu reorganizēja par pagastu, bet tā paša gada rudenī Slobodas pagastu pārdēvēja par '''Ozolmuižas pagastu'''. 2009. gadā Ozolmuižas pagastu kā administratīvo teritoriju iekļāva [[Rēzeknes novads|Rēzeknes novadā]].
+
+Tagadējā Ozolmuižas pagasta teritorija aizņem [[Ozolaines pagasts|Ozolaines pagasta]] bijušās teritorijas ziemeļrietumu daļu un bijušā [[Makašēnu pagasts|Makašēnu pagasta]] teritoriju [[Rēzekne (upe)|Rēzeknes upes]] kreisajā krastā.
+
+=== Kultūrvēstures pieminekļi ===
+Pagasta teritorijā atrodas trīs valsts nozīmes un divi vietējās nozīmes kultūrvēstures pieminekļi.<ref>{{Tīmekļa atsauce|url=https://is.mantojums.lv/?id=&title=&type_group=&value_group=&dating=&address=Ozolmui%C5%BEas+pagasts&region=2|title=Ozolmuižas pagasta kultūras pieminekļi|last=|first=|website=is.mantojums|access-date=2021.gada 12.janvārī|date=}}</ref>
+
+==== Valsts nozīmes pieminekļi ====
+* [[Ozolmuižas baznīca|Ozolmuižas katoļu baznīca]]
+* Ozolmuižas baznīcas zvanu tornis un vārti
+* [[Pilskalnes Spriņģu pilskalns]] (Golberova gora)
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1969|1311
+|1979|1268
+|1989|1201
+|2000|1029
+|2011|939
+|2021|875
+}}
+=== Apdzīvotās vietas ===
+[[Attēls:Ozolmuižas katoļu baznīca 2004-08-05.jpg|thumb|250px|Ozolmuižas katoļu baznīca]]
+Ozolmuižas pagasta teritoriju veido 23 apdzīvotas vietas.<ref>{{Tīmekļa atsauce|url=https://www.lursoft.lv/adresu-katalogs/catalog/search?q=Ozolmui%C5%BEas+pagasts%2C+R%C4%93zeknes+novads&setm=address|title=Adrešu katalogs|last=|first=|website=Lursoft|access-date=2021.gada 12.janvārī|date=}}</ref>
+
+{| style="background:transparent;" cellspacing="0" cellpadding="0"
+|- valign="top"
+| 
+{| class="wikitable"
+! Tips
+! Ciems
+! Iedzīvotāji <br /> <small>(2020)</small>
+|-
+| Vidējciems
+| [[Ozolmuiža (Ozolmuižas pagasts)|Ozolmuiža]]
+| 227
+|-
+|rowspan="3"| Mazciemi
+| [[Laļi]]
+| 18
+|-
+| [[Lielie Garanči]]
+| 101
+|-
+| [[Mazie Garanči]]
+| 58
+|-
+|rowspan="8"| Skrajciemi
+| [[Aleksoti]]
+| 0
+|-
+| [[Bumbiškas]]
+| 37
+|-
+| [[Dreijerovka]]
+| 50
+|-
+| [[Jaunsaimnieki (Ozolmuižas pagasts)|Jaunsaimnieki]]
+| 96
+|-
+| [[Jaunsloboda (Ozolmuižas pagasts)|Jaunsloboda]]
+| 8
+|-
+| [[Kozori (Ozolmuižas pagasts)|Kozori]]
+| 26
+|-
+| [[Krievu Sloboda]]
+| 30
+|-
+| [[Krīviņi (Ozolmuižas pagasts)|Krīviņi]]
+| 30
+|}
+| 
+{| class="wikitable"
+! Tips
+! Ciems
+! Iedzīvotāji <br /> <small>(2020)</small>
+|-
+|rowspan="11"| Skrajciemi
+| [[Latviešu Sloboda]]
+| 11
+|-
+| [[Pauliņi (Ozolmuižas pagasts)|Pauliņi]]
+| 25
+|-
+| [[Pilskalns (Ozolmuižas pagasts)|Pilskalns]]
+| 2
+|-
+| [[Platači (Ozolmuižas pagasts)|Platači]]
+| 31
+|-
+| [[Račeva (Ozolmuižas pagasts)|Račeva]]
+| 0
+|-
+| [[Ratinieki]]
+| 56
+|-
+| [[Skujas (Ozolmuižas pagasts)|Skujas]]
+| 28
+|-
+| [[Spundžāni]]
+| 45
+|-
+| [[Taurinka]]
+| 4
+|-
+| [[Tēviņi (Ozolmuižas pagasts)|Tēviņi]]
+| 18
+|-
+| [[Voronova]]
+| 0
+|}
+|}
+
+=== Novadnieki ===
+Ozolmuižas pagastā dzimis [[Antonijs Springovičs]] (1876-1959) - pirmais latviešu katoļu arhibīskaps.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+Pagastā darbojas bibliotēka<ref>{{Tīmekļa atsauce|url=https://kulturasdati.lv/lv/bibliotekas/ozolmuizas-pagasta-biblioteka|title=Ozolmuižas pagasta bibliotēka|last=|first=|website=kulturasdati.lv|access-date=2021.gada 12.janvārī|date=}}</ref>, katoļu baznīca, tūrisma un relaksācijas pakalpojumus piedāvā zirgu sēta "Untumi"<ref>{{Tīmekļa atsauce|url=https://latgale.travel/listing/zirgu-seta-untumi/|title=Zirgu sēta "Untumi"|last=|first=|website=latgale.travel|access-date=2021.gada 12.janvārī|date=}}</ref>.
+
+Ozolmuižas pagastā 1991.gadā uzņemta [[Jānis Streičs|Jāņa Streiča]] [[Cilvēka bērns (filma)|mākslas filma "Cilvēka bērns]]". Pieminot šo faktu, Spundžānu ciemā izveidota atpūtas vieta - Cylvāka bārna parks.<ref>{{Tīmekļa atsauce|url=https://jauns.lv/raksts/zinas/142855-ozolmuizas-pagasta-atklats-popularas-spelfilmas-cilveka-berns-parks-foto-video|title=Ozolmuižas pagastā atklāts populārās spēlfilmas "Cilvēka bērns" parks|last=|first=|website=jauns.lv|access-date=2021.gada 12.janvārī|date=2012.gada 29.septembris}}</ref> {{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20110209094628/http://www.ozolmuiza.lv/ Ozolmuižas pagasta mājaslapa]
+* [http://www.rezeknesnovads.lv/ Rēzeknes novada informatīvais portāls]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Rēzeknes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Rēzeknes rajons}}
+}}
+[[Kategorija:Latgale]]
+[[Kategorija:Rēzeknes novada pagasti]]
+[[Kategorija:Ozolmuižas pagasts| ]]
+[[Kategorija:Ozolaines pagasts]]

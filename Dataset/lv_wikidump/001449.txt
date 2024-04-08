@@ -1,0 +1,67 @@
+'''Kriminālistika''' (no {{val|la|criminalis}} — 'noziedzīgs') ir [[tiesību zinātne|juridiskās zinātnes]] nozare, kurai ir visbūtiskākā loma noziedzīgu nodarījumu pētīšanā, nodrošinot līdzekļus un metodes to atklāšanai, izmeklēšanai un novēršanai.
+
+Kriminālistika sistēmiski apkopo atziņas un ieteikumus, kas izstrādāti pētot dažāda veida likumsakarības, tajā skaitā ne vien kriminālprocesa tiesību un citu tiesību nozaru jomā, bet arī dažādās dabaszinātnēs un tehniskajās zinātnēs (piemēram, dažāda veida ekspertīžu metodiku izstrādē), [[juridiskā psiholoģija|juridiskajā psiholoģijā]] (piemēram, [[pratināšana]]s u.c. izmeklēšanas darbību taktikas izstrādei) utt. Kriminālistika ir cieši saistīta arī ar kriminoloģiju, kas pētī noziedzības pamatlikumsakarības.
+
+Tāpēc būtībā kriminālistika ir integrālā zinātne jeb starpzinātņu joma, jo tās priekšmets ir ievērojami plašāks par vienīgi juridiskiem jautājumiem.
+
+Latvijas Zinātņu padomes izstrādātajā zinātņu klasifikācijā šī joma definēta kā juridiskās zinātnes nozare — kriminālistika un operatīvās darbības teorija.
+
+== Vēsture ==
+
+Pirmais sistematizētu kriminālistikas zinātni izveidoja austrietis [[Hanss Gross]] XIX gadsimta beigās, apkopojot citu kriminālistu publicētos darbus un atziņas. Kriminālistika kā zinātne sāka veidoties tikai XIX gadsimta vidū, līdz tam ar terminu "kriminālistika" apzīmēja visas krimināltiesību zinātnes kopumā, bet Latvijā vēl XX gs. trīsdesmitajos gados kriminālistikas termina vietā lietoja apzīmējumu "kriminālistiskās izmeklēšanas metode". Kriminālistika kā zinātne attīstījās, balstoties uz izmeklēšanas prakses pētījumiem, ka arī izmantojot dabaszinātņu un tehnisko zinātņu sasniegumus. Piemēram, ar [[fotogrāfija]]s ieviešanu sāka ieviest tiesu fotogrāfiju — noziedznieku fotografēšanā un ekspertīžu izdarīšanā, un mūsdienās jau fotogrāfija kalpo kā viens no svarīgākajiem līdekļiem kriminālistikas pētījumos.
+
+== Uzdevumi ==
+
+Kriminālistika pētī pierādījumu (par noziedzīgiem nodarījumiem) atrašanas, izpētes un izmantošanas likumsakarības, ievērojot [[kriminālprocess|kriminālprocesa]] nosacījumus. 
+Kriminālistikā izstrādātā atziņu un ieteikumu sistēma paredzēta noziedzīgu nodarījumu atklāšanai un pierādīšanai, kā arī to cēloņu noskaidrošanai un novēršanai.
+
+== Apakšnozares ==
+
+Kriminālistikas apakšnozares ir:
+* kriminālistikas vispārējā teorija - tajā apkopotas pamatatziņas par noziegumu izdarīšanas un atspoguļošanās likumsakarībām, uz kuru pamata jau izstrādāti ieteikumi, līdzekļi un metodikas noziegumu atklāšanai un pierādījumu ieguvei (tie jau sistematizēti pārējās trīs kriminālistikas apakšnozarēs); šīs pamatatziņas veido vairākas kriminālistikas teorijas, tajā skaitā: 
+** teorija par noziegumu sagatavošanas, īstenošanas un slēpšanas īpantību saistību ar nozieguma veidu, kā arī nozieguma izdarītāja personības īpatnībām, cietušā personības īpatnībām utt.,
+** teorija par nozieguma pēdu atspoguļošanās likumsakarībām,
+** identifikācijas teorija, kriminālistiskā diagnostika u.c.;
+* kriminālistiskā tehnika - tajā apkopoti ieteikumi, līdzekļi un metodes to nozieguma pēdu atrašanai, ieguvei un izpētei, kurām ir materiāli fiksēta forma, tajā skaitā: 
+** [[daktiloskopija]], kas pētī pirkstu pēdu atspoguļošanos un cilvēka identifikācijas iespējas pēc tām, 
+** [[trasoloģija]], kas pētī dažādas cita veida atspoguļojuma pēdas uz materiālas virsmas - kāju pēdas, automašīnu riepu pēdas, uzlaušanas rīku pēdas u.tml. (trasoloģija formāli iekļauj arī daktiloskopiju), 
+** [[ballistika]], kas pētī šāviena pēdas un iespējas modelēt šāviena apstākļus, kā arī identificēt šaujamieroci, 
+** tiesu fotogrāfija un videoieraksts, kas pētī iespējas precīzi fotoattēlos, videoierakstos atspoguļot maksimāli detalizētu informāciju par notikuma vietas apstākļiem, nozieguma pēdām, personas ārieni utt., 
+** [[habitoloģija]], kas pētī iespējas identificēt cilvēku pēc tā ārienes pazīmēm, 
+** dokumentu tehniskā izpēte, kas pētī iespējas diagnosticēt dokumentu tehniskā viltojuma pazīmes, to izdarīšanas apstākļus, to sākotnējo stāvokli.
+
+Šajā apakšnozarē ietilpst arī dažādu ekspertīžu veikšanas metodikas, piemēram, bioloģiskā ekspertīze personas identifikācijai pēc [[DNS]] struktūras ([[genoskopija]]), elektroniskas informācijas nesēju izpēte datortehniskajā ekspertīzē, dzīvu vai mirušu cilvēku izpēte tiesu medicīnas ekspertīzē, personas psihiskā stāvokļa izpēte tiesu psihiatriskajā ekspertīzē, liecinošas personas atbilžu patiesīguma diagnosticēšana [[poligrāfs|poligrāfa]] ekspertīzē (t.s. melu detektors), personas identifikācija pēc balss fonoskopiskajā ekspertīzē, identifikācija pēc smaržas odoroloģiskajā ekspertīzē u.c.
+
+Šajā apakšnozarē ietilpst arī metodikas kriminālistisko uzskaišu sistēmu (t.sk. elektronisko datu bāzu, dažādu kolekciju) veidošanai un lietošanai;
+
+* kriminālistiskā taktika - tajā apkopoti ieteikumi un metodes izmeklēšanas darbību veikšanai, izmeklēšanas situāciju izpētei, tajā skaitā:
+** izmeklēšanas apskates (t.sk. notikuma vietas apskates) taktika,
+** pratināšanas taktika,
+** kratīšanas taktika,
+** aizturēšanas taktika,
+** uzrādīšanas atpazīšanai taktika,
+** liecību pārbaudes uz vietas taktika,
+** izmeklēšanas eksperimenta taktika,
+** speciālistu iesaistīšanas taktika izmeklēšanā u.c.
+
+Šajā apakšnozarē ietilpst arī [[Kriminālprocess|Kriminālprocesa]] likumā paredzēto speciālo izmeklēšanas darbību taktika, kā arī taktiskie nosacījumi kriminālprocesa virzītāja sadarbībai ar operatīvās darbības procesa veicēju utt.
+
+* kriminālistiskā metodika - tajā apkopotas metodikas dažāda veida un kategoriju noziedzīgu nodarījumu atklāšanai, izmeklēšanai un novēršanai (vispārējai prevencijai), tajā skaitā šādas kategorijas:
+** noziegumu pret personu ([[slepkavība]]s, [[izvarošana]]s, [[huligānisms|huligānisma]] utt.) izmeklēšana,
+** mantisko noziegumu ([[zādzība]]s, [[laupīšana]]s, [[Krāpniecības veidi|krāpšana]]s utt.) izmeklēšana,
+** amatnoziegumu ([[kukuļošana]], dienesta pilnvaru pārkāpšana utt.) izmeklēšana,
+** noziegumu ekonomikā ([[kontrabanda]]s, [[naudas viltošana]]s utt.) izmeklēšana,
+** [[narkotika|narkotiku]] noziedzības izmeklēšana u.c.
+
+Šajā apakšnozarē iekļautas arī kategorijas tādiem nodarījumiem, ko veikušas specifiskas personu kategorijas, t.sk. [[Recidīvs (krimināltiesības)|recidīvā noziedzība]], organizētā noziedzība, nepilngadīgo noziedzība u.c.
+
+== Skatīt arī ==
+* [[Kriminoloģija]]
+
+== Ārējās saites ==
+* [http://www.eksperts.gold.lv/ Kriminālistika, juridiskā psiholoģija, poligrāfa ekspertīze]
+* [http://www.ekspertize.vp.gov.lv/ Kriminālistikas pārvalde] {{Webarchive|url=https://web.archive.org/web/20111016135223/http://www.ekspertize.vp.gov.lv/ |date={{dat|2011|10|16||bez}} }}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kriminālistika| ]]

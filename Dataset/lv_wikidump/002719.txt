@@ -1,0 +1,26 @@
+{{Nosaukums slīprakstā}}
+{{Datorspēles infokaste
+|image               = Guild Wars North-American presale box cover.jpg
+|developer           = ''[[ArenaNet]]''
+|publisher           = ''[[NCSoft]]''
+|released            = {{dat|2005|4|18}}
+|genre               = [[MMORPG]]
+|spēles režīmi       = [[vienspēlētāja režīms|vienspēlētāja]], [[daudzspēlētāju režīms|daudzpēlētāju]]
+|vecuma ierobežojumi = [[PEGI]]: 12+
+|platforms           = [[PC]]
+|media               = [[Kompaktdisks|CD]]
+|requirements        = ''[[Intel]]'' ''[[Pentium III]]'' 800MHz ''[[CPU]]'', 256MB ''[[RAM]]'', 2GB [[Cietais disks|cietā diska]] vietas, 32MB ''Radeon 8500'' vai ''GeForce 3 Series [[GPU]]'', 56kbit/s interneta pieslēgums, ''[[Microsoft Windows|Windows]]'' 98/ME/2000/XP
+}}
+'''''Guild Wars''''' ({{val|lv|Ģilžu kari}}) ir [[daudzspēlētāju lomu spēle]] jeb MMORPG, ko veidojuši izstrādātāji, kuri piedalījušies ''[[Blizzard Entertainment]]'' spēļu ''[[Diablo (spēle)|Diablo]]'', ''[[Warcraft]]'', ''[[Starcraft]]'' izveidē.
+
+Lai gan ''Guild Wars'' bieži pieskaita MMORPG spēļu žanram, ''[[ArenaNet]]'' iesaka lietot terminu CORPG (Sadarbība tiešsaistes lomu spēle). Tas norāda uz spēlētāju savstarpējās sadarbības lielo lomu. ''Guild Wars'' atbalsta spēlētāju savstarpējās kaujas [[PvP]] grupās pa astoņiem vai četriem cilvēkiem, tāpat var izmantot botus. Vēl viena atšķirība no vairuma ''[[hack and slash]]'' veida spēlēm ir prasmju sistēma. Tas, ko tu māki, nosaka tavu vērtību spēlē. Nav tik svarīgi, kurš spēles līmenis sasniegts, svarīga ir tava spēlētprasme. Katrs izveidotais varonis var apgūt divas profesijas, katrai no tām ir desmitiem unikālu prasmju, tas paver gandrīz vai bezgalīgas iespējas kombinēšanā. Daudzas prasmes kļūst efektīvākas, ja tās pielieto noteiktā laikā un noteiktā situācijā, kas ļauj ar divdesmitā līmeņa spēlētājiem pieveikt 28 līmeņa pretiniekus.
+
+''Guild Wars'' piedzīvojumu daļa [[PvE]] var aizņemt [http://www.gamespot.com/pc/rpg/guildwars/review.html "vairāk kā 100 stundas"] vienam spēlētāja tēlam, lai gan galvenās misijas izpildi var veikt arī krietni ātrāk. Ģilde pret ģildi (GvG) cīņas rezultāti nosaka katras ģildes [https://web.archive.org/web/20051227082557/http://ladder.guildwars.com/ "rangu kopējā tabulā"]. Tāpat pastāvīgi notiek cīņa par valdošo lomu pasaulē starp Ameriku, Eiropu un Koreju. Dominējošā pasaules daļa iegūst tiesības piekļūt spēles papildu līmeņiem.
+
+== Ārējās saites ==
+* [http://www.guildwars.com/ Oficiālā ''Guild Wars'' tīmekļa vietne] {{en ikona}}
+* [https://web.archive.org/web/20181114175349/http://thegamedreams.com/ Informācija par ''Guild Wars''] {{lv ikona}}
+
+[[Kategorija:PC spēles]]
+[[Kategorija:Guild Wars]]
+[[Kategorija:2005. gada videospēles]]

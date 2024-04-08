@@ -1,0 +1,130 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Negara Brunei Darussalam<br />نڬارا بروني دارالسلام
+|    pilnais_valsts_nosaukums = Brunejas Dāresallams
+|            valsts_nosaukums = Brunei
+|               karoga_attēls = Flag of Brunei.svg
+|            karoga_nosaukums = Brunejas karogs
+|              ģerboņa_attēls = Emblem of Brunei.svg
+|           ģerboņa_nosaukums = Brunejas ģerbonis
+|             ģerboņa_platums = 100px
+|                 valsts_moto = ''الدائمون المحسنون بالهدى<br />Sentiasa membuat kebajikan dengan petunjuk Allah<br />''
+|                valsts_himna = ''Allah Peliharakan Sultan'' <br /></small>(Dievs, svētī Sultānu)</small>
+|               kartes_attēls = Brunei_(orthographic_projection).svg
+|             kartes_paraksts = Brunejas novietojums Āzijā
+|               galvaspilsēta = [[Bandarseribegavana]]
+| latd=4 |latm=53.417 |lats= |latNS=N |longd=114 |longm=56.533 |longs= |longEW=E
+|             lielākā_pilsēta = Bandarseribegavana
+|              valsts_valodas = [[malajiešu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = unitāra islāma konstitucionālā monarhija
+|        valsts_galvas_tituls = Monarhs
+|                valsts_galva = [[Hasanals Bolkiahs]]
+|       valsts_galvas_tituls2 = 
+|               valsts_galva2 = 
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = 
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = Sultanāts
+|          neatkarības_datums = 14. gadsimts
+|       neatkarības_notikums2 = Britu protektorāts
+|         neatkarības_datums2 = 1888
+|       neatkarības_notikums3 = no [[Lielbritānija]]s
+|         neatkarības_datums3 = {{Dat|1984|01|01}}
+|       neatkarības_notikums4 = 
+|         neatkarības_datums4 = 
+|       neatkarības_notikums5 = 
+|         neatkarības_datums5 = 
+|       neatkarības_notikums6 = 
+|         neatkarības_datums6 = 
+|       neatkarības_notikums7 = 
+|         neatkarības_datums7 = 
+|       neatkarības_notikums8 = 
+|         neatkarības_datums8 = 
+|       neatkarības_notikums9 = 
+|         neatkarības_datums9 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 5765
+|               platība_rangs = 172.
+|              procenti_ūdens = 8,6
+|     iedzīvotāju_skaita_gads = 2020.
+|          iedzīvotāju_skaits = 460,345<ref name="depd.gov.bn">{{tīmekļa atsauce|url=http://www.depd.gov.bn/SitePages/Population.aspx|title=Department of Economic Planning and Development - Population|website=www.depd.gov.bn|language=en-US|access-date=2017-12-12|archive-date=20 March 2017|archive-url=https://web.archive.org/web/20170320011146/http://www.depd.gov.bn/SitePages/Population.aspx|dead-url=yes}}</ref>
+|    iedzīvotāju_skaits_rangs = 175.
+|    apdzīvotības_blīvums_km2 = 72.11
+|  apdzīvotības_blīvums_rangs = 134.
+|                     IKP_PPP = {{palielinājās}} $33.389 miljardi <ref name=imf2>{{tīmekļa atsauce |url=https://www.imf.org/en/Publications/WEO/weo-database/2022/April/weo-report?c=516,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2021&ey=2022&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1= |title=World Economic Outlook Database, April 2022 |publisher=[[Starptautiskais Valūtas fonds|International Monetary Fund]] |access-date=19 April 2022}}</ref> 
+|                IKP_PPP_gads = 2022
+|               IKP_PPP_rangs = 125.
+|          IKP_PPP_per_capita = {{palielinājās}} $74,952<ref name=imf2 />
+|    IKP_PPP_per_capita_rangs = 5.
+|                         HDI = {{palielinājās}} 0.838 <ref name="HDI">{{grāmatas atsauce|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color=#009900>augsts</font>
+|                   HDI_rangs = 47.
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Brunejas dolārs]]
+|                valūtas_kods = BND
+|                  laika_zona = 
+|                  utc_offset = +8
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .BN
+|              tālsarunu_kods = 673
+|                    piezīmes = 
+|                    piezīme1 = 
+|                    piezīme2 = 
+|                    piezīme3 = 
+|                    piezīme4 = 
+|                    piezīme5 = 
+|                    piezīme6 = 
+|                    piezīme7 = 
+|                iso_kods_num = 
+|              iso_kods_alfa2 = BN
+|              iso_kods_alfa3 = 
+}}
+'''Bruneja''', oficiāli '''Bruneja Darusalama''' vai '''Brunejas Darusalamas Valsts''',<ref>{{Tīmekļa atsauce|url=https://www.mfa.gov.lv/arpolitika/divpusejas-attiecibas/latvijas-un-brunejas-attiecibas|title=Latvijas Republikas un Brunejas Darusalamas Valsts divpusējās attiecības|last=|first=|website=www.mfa.gov.lv|access-date=2020-05-05|date=}}</ref> ir sultanāts [[Āzija]]s dienvidos [[Borneo]] salas ziemeļrietumu daļā. Dienvidos Brunejai ir sauszemes robeža ar [[Malaizija|Malaiziju]], bet valsts ziemeļu robežu apskalo [[Dienvidķīnas jūra]]. Bruneja sastāv no 2 nošķirtiem apgabaliem, kas atrodas aptuveni 30 km attālumā viens no otra. Bruneja savu nosaukumu esot ieguvusi no po-ni - senas tirgotāju tautas, kas dzīvoja pie Brunejas upes.<ref name=":0" />
+Tā ir viena no turīgākajām valstīm pasaulē pēc [[Iekšzemes kopprodukts pēc pirktspējas līmeņa|IKP uz vienu iedzīvotāju]].
+ 
+== Vēsture ==
+Bruneja rakstos pirmoreiz minēta 6. gadsimta ķīniešu hronikās. 10. gadsimtā Bruneja kļuva pazīstama kā "Sumatras Srividžaja Impērijas Budistu karaliste", kas, visticamāk, radusies pēc Javas impērijas parauga.<ref>{{Tīmekļa atsauce|url=https://www.ar-tur.lv/lv/bruneja-informacija-par-valsti/|title=Informācija par Bruneju « Bruneja {{!}} Tūrisma firma "Ar-Tur"|website=www.ar-tur.lv|access-date=2022-08-07}}</ref> Pašreizējo Brunejas dinastiju dibināja Avans Alaks Betatars jeb sultāns Muhameds Šahs, kurš valdīja ap 1400. gadu. Muhameds Šahs bija pirmais Brunejas musulmaņu valdnieks Brunejas sultanāta ietekme sasniedza maksimumu no 15. līdz 17. gadsimtam, kad tā teritorija aizņēma lielu daļu Borneo salas. Pēc tam Bruneja nokļuva pagrimuma periodā, ko izraisīja iekšējas nesaskaņas par karalisko pēctecību, Eiropas spēku koloniālā paplašināšanās un pirātisms.<ref>{{Tīmekļa atsauce|url=https://lr1.lsm.lv/lv/raksts/diplomatiskas-pusdienas/bruneja-maza-bagata-azijas-valsts-kur-viena-karaliska-dinastija-.a154458/|title=Bruneja: maza, bagāta Āzijas valsts, kur viena karaliskā dinastija valda jau 600 gadus|website=lr1.lsm.lv|access-date=2022-08-07}}</ref> No 1888. līdz 1959. gadam Bruneja bija Lielbritānijas protektorāts.<ref name=":2" /> 1959. gada konstitūcija noteica, ka tā ir kolonija ar pašpārvaldi, bet 1984. gadā Bruneja ieguva pilnīgu neatkarību.<ref name=":0">{{Grāmatas atsauce|edition=1st American ed|title=The book of rule : how the world is governed|url=https://www.worldcat.org/oclc/52601448|publisher=DK|date=2004|location=London|isbn=0-7894-9354-3|oclc=52601448}}</ref> [[Attēls:Brunei location map Topographic.png|left|thumb|Brunejas topogrāfiskā karte|200x200px]]
+== Ģeogrāfija ==
+Bruneju ziemeļos apskalo Dienvidķīnas jūra, sauszemes robeža tai ir ar Malaiziju, kas sadala valsti divās daļās. Nelielo teritoriju veido šaurs piekrastes līdzenums ar mangrovju purviem, bet iekšzemē paceļas kalnu grēda, ko lielākoties klāj lietusmeži. Augstākā virsotne, Pagona kalns (1850 m), atrodas valsts dienvidaustrumu daļā. Brunejas teritorijā ietilpst arī 33 salas, kas veido aptuveni 1,4% no valsts sauszemes platības. Vairums šo salu nav apdzīvotas un ir nozīmīgas apdraudēto putnu sugu, sikspārņu un vairāku sugu pērtiķu vairošanās vietas. Garākā upe ir Belaita, kas tek netālu no valsts rietumu robežas. Gandrīz 80% teritorijas klāj lietusmeži.<ref name=":1">{{Grāmatas atsauce|title=Pasaules ģeogrāfijas enciklopēdija|url=https://www.worldcat.org/oclc/847262173|publisher=Zvaigzne ABC|date=[©2005]|location=[Rīga]|isbn=9984-36-878-5|oclc=847262173|first=Clive|last=Gifford}}</ref>
+
+=== Klimats ===
+Brunejā valda ekvatoriālais klimats, nokrišņu ir vairāk nekā 2000 mm gadā un gaisa temperatūru amplitūda ir ļoti maza.<ref name=":1" /> Vidējā gaisa temperatūra janvārī + 25&nbsp;°C, bet jūlijā +35&nbsp;°C. Klimats ir karsts, bet mitrs un lietains.
+
+== Valsts pārvalde ==
+[[Attēls:Hassanal Bolkiah.jpg|left|thumb|220x220px|[[Hasanals Bolkiahs]] — pašreizējais Brunejas sultāns]]
+Kopš neveiksmīgā dumpja 1962. gadā valstī ir ārkārtas stāvoklis. Politiskās partijas tika aizliegtas 1988. gadā, un nav notikušas nevienas vēlēšanas. Sultāns ir valsts galva, valsts pārvaldes vadītājs un kopš 1967. gada arī premjerministrs. Viņš darbojas arī kā aizsardzības un finanšu ministrs.<ref name=":0" />
+
+Valdība sastāv no Ministru padomes, ko ieceļ monarhs, tā tiek sasaukta izņēmuma gadījumos. Pastāv arī Reliģiskā padome (locekļus ieceļ monarhs), kas nodarbojas ar reliģiskiem jautājumiem, Slepenā padome, kas nodarbojas ar konstitucionāliem jautājumiem, un Mantošanas padome, kas tiek sasaukta gadījumos, kad jārisina troņa mantošanas jautājums. Kabinetā lielāko da[u amatu ieņem karaliskās ģimenes locekli. Likumdevēja vara sastāv no Vienpalātas Likumdošanas padomes jeb medžlisa (Majlis Masyuarat Megeri — slepenas padome, kas darbojas vienīgi kā konsultatīvs orgāns; vietu skaits nav noteikts, locekļus ieceļ sultāns). Vēlēšanu tiesības nepastāv. Ir tikai viena legāla politiskā partija — Brunejas Nacionālās solidaritātes partija. Tiesu vara sastāv no  Augstākās tiesas, un tiesneši dod sultānam zvērestu uz trim gadiem.<ref name=":2">{{Grāmatas atsauce|title=Pasaules valstu ekonomikas vārdnīca|url=https://www.worldcat.org/oclc/191044745|publisher=Jumava|date=2006|location=Rīgā|isbn=9984-38-145-5|oclc=191044745|first=Valērijs|last=Roldugins}}</ref> Kopš 2014. gada valstī ir pieņemts [[Šariats|šariata]] kriminālkodekss.<ref>{{Tīmekļa atsauce|url=https://www.europarl.europa.eu/doceo/document/TA-8-2019-0424_LV.html|title=Pieņemtie teksti - Bruneja - Ceturtdiena, 2019. gada 18. aprīlis|website=www.europarl.europa.eu|access-date=2022-08-07|language=lv}}</ref>
+
+== Tautsaimniecība ==
+Ekonomika gandrīz pilnībā balstās uz naftas un dabasgāzes eksportu. Ražošanas līmenis uz vienu iedzīvotāju Brunejā ir augstāks nekā vairākumā [[Trešās pasaules valsts|trešās pasaules valstu]], valsts iekšējos ražošanas ienākumus papildina ienākumi no ārvalstu investīcijām. Valdība iedzīvotājiem nodrošina medicīnisko palīdzību un subsidē mitekli un pārtiku. Vērojams progress valdības galvenā uzdevuma — ekonomikas dažādošanas, atkarības no naftas un gāzes pārvarēšanas — īstenošanā.<ref name=":2" />
+
+== Reliģija ==
+67 % [[islāms]]; 13 % [[budisms]]; 10 % [[kristietība]]; 10 % pamatiedzīvotāju pagāniskās ticības.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āzija-aizmetnis}}
+{{Āzija}}
+{{Nāciju sadraudzība}}
+{{ASEAN}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Āzijas valstis]]
+[[Kategorija:Dienvidaustrumāzija]]
+[[Kategorija:Bruneja| ]]
+[[Kategorija:ASEAN dalībvalstis]]

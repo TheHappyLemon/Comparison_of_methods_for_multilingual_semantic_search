@@ -1,0 +1,29 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Picric acid.png|160px]]  [[Attēls:246trinitrophenol-3D-vdW.png|160px]]<br />Pikrīnskābes struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>6</sub>H<sub>2</sub>(NO<sub>2</sub>)<sub>3</sub>OH
+|molmasa=229,1056
+|blīvums=1763
+|kušanas temperatūra=395,65 K (122,5&nbsp;°C)
+|viršanas temperatūra=eksplodē virs 300&nbsp;°C
+}}
+'''Pikrīnskābe''' (2,4,6-trinitrofenols, TNP, C<sub>6</sub>H<sub>2</sub>(NO<sub>2</sub>)<sub>3</sub>OH) ir dzeltena, kristāliska indīga viela ar ļoti rūgtu garšu. No tā cēlies vielas nosaukums ({{val|el|πικρός}} (''pikros'') — 'rūgts, ass').
+
+== Iegūšana ==
+Pikrīnskābi var iegūt, nitrējot [[fenols|fenolu]], [[benzols|benzolu]] vai [[acetilsalicilskābe|acetilsalicilskābi]] ar [[sērskābe]]s un [[slāpekļskābe]]s maisījumu. Par izejvielu lietojot [[salicilskābe|salicilskābi]], tās [[karboksilgrupa]] atšķeļas, veidojot fenolu un [[oglekļa dioksīds|oglekļa dioksīdu]]. Par izejvielu lietojot acetilsalicilskābi, vispirms atšķeļas [[etiķskābe]] un tālāk process notiek tāpat, kā ar salicilskābi.
+
+== Īpašības ==
+Pikrīnskābe ir samērā spēcīga skābe, veido sāļus ('''pikrātus''') ar metāliem un daudzām organiskām vielām. Kālija pikrāts ir viens no retajiem grūti šķīstošajiem kālija sāļiem. Amonija pikrāts ir relatīvi stabils (tam vajag diezgan spēcīgu detonatoru), bet tas tāpat var reaģēt ar metāliem, veidojot nestabilus metālu pikrātus.
+
+== Izmantošana ==
+Pikrīnskābi var izmantot par sprāgstvielu. Pirms 1. pasaules kara to ļoti plaši lietoja artilērijas šāviņu pildījumam ar nosaukumiem ''melinīts, lidīts, šimoza''. Pikrīnskābe reaģē ar metāliem, veidojot sāļus — pikrātus, tie ir vēl nestabilāki par pašu pikrīnskābi (tas dažkārt izraisīja ar pikrīnskābi lādētas munīcijas patvaļīgas eksplozijas). Pikrīnskābi agrāk lietoja arī par dzelteno krāsvielu.
+Analītiskajā ķīmijā pikrīnskābes sāļus lieto [[kālijs|kālija]] un [[nātrijs|nātrija]] noteikšanai.
+
+[[Attēls:Pikriinskaabe.jpg|left|thumb|200px|Pikrīnskābe]]
+
+{{Fenoli}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nitrosavienojumi]]
+[[Kategorija:Fenoli]]
+[[Kategorija:Sprāgstvielas]]

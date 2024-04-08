@@ -1,0 +1,72 @@
+{{citas nozīmes|pilsētu Ungārijā|Egera (nozīmju atdalīšana)|Egera}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Egera
+ | official_name              = ''Eger''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Hungary Eger Dobo ter.jpg
+ | imagesize                = 
+ | image_caption            = [[Dobo Ištvans|Dobo Ištvana]] piemineklis un cietoksnis
+ | image_flag               = Flag of Eger.svg
+ | image_shield             = HUN Eger COA.jpg
+ | pushpin_map              = Ungārija
+ | pushpin_label_position   = left
+ | pushpin_map_caption      = 
+ | pushpin_map_alt          = 
+ | pushpin_map1              = 
+ | pushpin_label_position1   = 
+ | pushpin_map_caption1      = 
+ | latd  = 47| latm  = 54| lats  = | latNS  = N
+ | longd = 20| longm = 22| longs = | longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{HUN}}
+ | subdivision_type1        = Meģe
+ | subdivision_name1        = [[Heveša]]
+ | subdivision_type2        =
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = 10. gadsimts
+ | established_title1       = 
+ | established_date1        = 
+ | seat_type                = 
+ | seat                     = 
+ | area_total_km2           = 92.2
+ | elevation_m              = 
+ | population_footnotes     = 
+ | population_total         = 56867
+ | population_as_of         = 2013
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_urban         = 
+ | population_metro         = 
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[Centrāleiropas laiks|EEST]]
+ | utc_offset_DST           = +2
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 3300
+ | area_code                = 36
+ | website                  = {{url|http://www.eger.hu/}}
+ | footnotes                = 
+}}
+'''Egera''' ({{val|hu|Eger}}) ir pilsēta [[Ungārija|Ungārijā]], [[Hevešas meģe|Hevešas meģes]] centrs. Izvietojusies valsts ziemeļaustrumu daļā Bika kalnu dienvidu nogāzēs un ir Ziemeļungārijas otra lielākā pilsēta.
+
+== Vēsture ==
+Egeras teritorija ir bijusi apdzīvota jau akmens laimetā. Agrajos [[viduslaiki|viduslaikos]] Egeras teritoriju apdzīvoja [[Vācieši|vācu]], [[Avāri (senie)|avāru]] un [[Slovāki|slovāku]] ciltis.{{fact}} [[Ungāri]] aizņēma šo teritoriju 10. gadsimtā. Pirmais kristīgais Ungārijas karalis [[Svētais Stefans]] (997—1038) nodibināja Egeras bīskapiju. Egara bija nozīmīgs Ungārijas reliģiskais centrs. Pirmā katedrāle tika uzbūvēta pils uzkalnā, kur pašreiz atrodas Egeras pils un līdz mūsdienām nav saglabājusies. Turpmāka pilsētas attīstība notika ap katedrāli.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Ungārija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ungārijas pilsētas]]

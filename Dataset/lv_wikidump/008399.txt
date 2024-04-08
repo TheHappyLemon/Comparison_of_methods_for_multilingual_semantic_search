@@ -1,0 +1,96 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = Kolvezi
+|official_name          = ''Kolwezi''
+|other_name             = 
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = pilsēta
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Kongo Demokrātiskā Republika
+|pushpin_label_position =
+|pushpin_mapsize        =
+|pushpin_map_caption    =
+<!-- Location ------------------>
+|coordinates_region     = CD
+|subdivision_type       = Valsts
+|subdivision_name       = {{COD}}
+|subdivision_type1      = [[Kongo Demokrātiskās Republikas provinces|Province]]
+|subdivision_name1      = [[Lualabas province|Lualaba]]
+|subdivision_type2      =
+|subdivision_name2      =
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = Dibināta
+|established_date       = 1937
+<!-- Area    --------------------->
+|area_magnitude         =
+|area_footnotes           =
+|area_total_km2           = 213
+|area_land_km2            = 
+<!-- Population   ----------------------->
+|population_as_of               =2012
+|population_footnotes           =
+|population_note                =
+|population_total               =453147
+|population_density_km2         =auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = Lubumbaši laiks
+|utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         =
+|latd=10|latm=43|lats= |latNS=S
+|longd=25|longm=28|longs=|longEW=E
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1448
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              =
+}}
+'''Kolvezi''' (''Kolwezi'') ir pilsēta [[Kongo DR]] dienvaustrumos, [[Lualaba]]s provinces administratīvais centrs. Liels [[varš|vara]] un [[kobalts|kobalta]] ieguves centrs. Apkaimē arī [[Urāns (elements)|urāna]] un [[rādijs|rādija]] atradnes.
+
+1978. gada 12. maijā ar [[Angola]]s atbalstu pilsētu ieņēma nemiernieki. Tie tika padzīti ar [[Franču ārzemju leģions|Franču ārzemju leģiona]] palīdzību. Krita 250 nemiernieki, 170 eiropiešu ķīlnieki un 6 franču karavīri.
+
+Kaujās par Kolvezi piedalījies viens no [[Horvātijas karš|Horvātijas kara]] horvātu līderiem [[Ante Gotovina]].{{fact}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kongo DR pilsētas]]

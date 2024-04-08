@@ -1,0 +1,40 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Mersisaida
+ |          official_name = ''Merseyside''
+ |        settlement_type = grāfiste
+ |                capital = -
+ |           largest_city = [[Liverpūle]]
+ |              image_map = Merseyside UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Ziemeļrietumanglija]]
+ |     information_title1 = Statuss
+ |      information_name1 = ceremoniālā un metropoles grāfiste bez kopīgas pašpārvaldes
+ |         area_total_km2 = 645
+ |       population_total = 1416800
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+}}
+'''Mersisaida''' ({{val|en|Merseyside}}) ir [[metropoles grāfiste]] [[Ziemeļrietumanglija|Ziemeļrietumanglijā]]. 2011. gadā tajā bija 1,38 miljoni iedzīvotāju. Grāfiste izveidota 1974. gadā, ņemot nosaukumu no [[Mersijas upe]]s.
+
+== Slaveni iedzīvotāji ==
+
+* ''[[The Beatles]]''
+* [[Stīvens Džerards]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{UK-aizmetnis}}
+
+{{Anglijas administratīvās grāfistes}}
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas metropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]

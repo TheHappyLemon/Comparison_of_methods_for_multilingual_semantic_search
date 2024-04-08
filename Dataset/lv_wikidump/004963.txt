@@ -1,0 +1,397 @@
+[[File:Active spaceports.png|thumb|500px|Pasaules aktīvi izmantotie kosmodromi]]
+[[File:Plan Centre Spatial Guyanais-en.svg|thumb|[[Kuru kosmodroms|Kuru kosmodroma]] karte]]
+'''Kosmodroms''' (''kosmoss'' + [[grieķu valoda|grieķu]] ''dromos'' skrejceļš) — vieta, kur notiek [[nesējraķete|nesējraķešu]] starti kosmosā. Tas ir arī būvju un iekārtu komplekss, kas nodrošina kosmisko lidaparātu sagatavošanu lidojumam un startu.
+
+Parasti kosmodromi izvietoti reti apdzīvotās teritorijās, jo tiem nepieciešamas plašas raķešu pakāpju krišanas zonas, kā arī lai neciestu vietējie iedzīvotāji avāriju gadījumos. Lielos kosmodromos tiek būvēti vairāki starta kompleksi, kurus var pielāgot dažādu nesējraķešu konfigurācijām.
+
+Kosmodromu ir izdevīgi iekārtot [[ekvators|ekvatora]] tuvumā un startus veikt austrumu virzienā, jo tad vajadzīgā ātruma sasniegšanai iespējams pilnīgāk izmantot [[Zeme]]s rotāciju, kā arī bez [[korekcijas manevrs|papildmanevriem]] ievadīt [[kosmiskais aparāts|kosmiskos aparātus]] [[orbīta|orbītā]] ar mazu slīpumu pret ekvatoru (piemēram, ģeocentriskajā orbītā). Lai palaistu pavadoni polārā orbītā, nav nepieciešams ekvatora tuvums.
+
+Galvenie kosmodroma objekti:
+* montāžas un izmēģinājumu korpusi, kuros samontē kosmiskos aparātus, nesējraķetes, savieno tos kopā un veic visas sistēmas kopīgo pārbaudi;
+* starta kompleksi, kas nodrošina kosmiskā lidaparāta nogādāšanu starta vietā, uzpildīšanu ar degvielu, pēdējo pirmslidojuma pārbaudi un pašu startu;
+* kosmodroma vadības centrs;
+* raķešu degvielas un kosmiskās tehnikas glabātavas, pievedceļi (sauszemes, ūdens un gaisa) utt.
+
+=== Vēsture ===
+Pirmās raķetes, kuras sasniedza kosmosu, bija [[V-2 raķete|V-2 raķetes]], kuras [[Otrais pasaules karš|Otrā pasaules kara]] laikā 1944. gadā tika palaistas no [[Pēneminde|Pēnemindes]]. Pēc kara beigām, aptuveni 70 V-2 raķetes tika pārvestas uz [[Vaitsendas Raķešu bāze|Vaitsendas Raķešu bāzi]], kur 47 lidojumu laikā tika sasniegti augstumi robežās no 100 līdz 213 kilometriem. Pasaulē pirmais kosmodroms, no kura tika veikti pilotējami lidojumi, ir [[Baikonuras kosmodroms]], kas 1955. gadā darbību sāka, kā PSRS raķešu bāze, bet 1957. gada oktobrī kosmosā palaida pirmo mākslīgo pavadoni [[Sputnik-1]]. Lai turētu kosmodroma atrašanās vietu slepenu, tas tika nosaukts mazas kalnraču pilsētas - Baikonuras vārda, kas atradās 320 kilometrus no kosmodroma. Taču 1957. gadā kosmodroma atrašanās tika atklāta pēc [[U-2]] izlūklidmašīnu pārlidojumiem. Pēc pirmā cilvēka palaišanas kosmosā, ASV aktivizēja savu kosmodromu programmu uzsākot vērienīgus darbus [[Kanaverala raga Kosmosa spēku stacija|Kanaverala raga Kosmosa spēku stacijas]] izbūvē, no kuras startēja vēsturiskā [[Apollo 11]] misija, kā arī visi [[Space Shuttle]] programmas lidojumi.
+
+[[Gviānas Kosmosa centrs]] ir lielākais Eiropas kosmodroms, kurš atrodas izdevīgā vietā, netālu no ekvatora. 2003/ gada oktobrī no [[Dzjucjuaņas Pavadoņu palaišanas centrs|Dzjucjuaņas Pavadoņu palaišanas centra]] startēja pirmais Ķīnas pilotējamais kosmosa kuģis.
+
+=== Kosmodromi, kuros notikusi cilvēku palaišana kosmosā ===
+Sekojošā tabulā uzskaitīti kosmodromi, kuri palaiduši kosmosā cilvēkus.
+{| class="wikitable"
+!Kosmodroms
+!Starta komplekss
+!Nesējraķete
+!Kosmosa kuģis
+!Lidojumi
+!Gadi
+|-
+| rowspan="10" |{{flagicon|Russia}} {{flagicon|Kazakhstan}} [[Baikonuras kosmodroms]]
+Kazahstāna (PSRS un Krievijas lidojumi))
+|1.laukums
+|[[Vostok (nesējraķete)|Vostok]]
+|[[Vostok (kosmosa kuģis)|Vostok]] 1–6
+| style="text-align:right;" |6
+|1961–1963
+|-
+|1.laukums
+|[[Voshod (nesējraķete)|Voshod]]
+|[[Voshod (kosmosa kuģis)|Voshod]] 1–2
+| style="text-align:right;" |2
+|1964–1965
+|-
+|31.laukums
+|[[Sojuz (nesējraķešu saime)|Sojuz]], [[Sojuz-U]]
+|[[Sojuz]] 1–40 †
+| style="text-align:right;" |37
+|1967–1981
+|-
+|31.laukums
+|[[Sojuz (nesējraķešu saime)|Sojuz]]
+|[[Sojuz]] 18a
+| style="text-align:right;" |1
+|1975
+|-
+|31.laukums
+|[[Sojuz-U]], [[Sojuz-U2]]
+|[[Sojuz|Sojuz-T]] 2–15
+| style="text-align:right;" |14
+|1980–1986
+|-
+|1.laukums
+|[[Sojuz-U]], [[Sojuz-U2]]
+|[[Sojuz|Sojuz-TM]] 2–34
+| style="text-align:right;" |33
+|1987–2002
+|-
+|1.laukums
+|[[Sojuz-FG]]
+|[[Sojuz-TMA]] 1–22
+| style="text-align:right;" |22
+|2002–2011
+|-
+|31.laukums
+|[[Sojuz-FG]]
+|[[Sojuz|Sojuz TMA-M]] 1–20
+| style="text-align:right;" |20
+|2010–2016
+|-
+|31.laukums
+|[[Sojuz-FG]]
+|[[Sojuz|Sojuz MS]] 1–9, 11–13, 15
+| style="text-align:right;" |13
+|2016–2019
+|-
+|31.laukums
+|[[Sojuz-2.1a]]
+|[[Sojuz|Sojuz MS]] 16–22, 24
+| style="text-align:right;" |8
+|2020–
+|-
+| rowspan="4" |{{flagicon|USA}} [[Kanaverala raga Kosmosa spēku stacija]],
+[[Florida]], ASV
+|LC-5
+|[[Redstone]]
+|[[Mercury (kosmiskais projekts)|Mercury]] 3–4
+| style="text-align:right;" |2
+|1961
+|-
+|LC-14
+|[[Atlass (nozīmju atdalīšana)|Atlas]]
+|[[Mercury (kosmiskais projekts)|Mercury]] 6–9
+| style="text-align:right;" |4 
+|1962–1963
+|-
+|LC-19
+|[[Titan II GLV|Titan II]]
+|[[Project Gemini|Gemini]] 3–12
+| style="text-align:right;" |10
+|1965–1966
+|-
+|LC-34
+|[[Saturn (nesējraķešu saime)|Saturn IB]]
+|[[Apollo programma|Apollo]] 7
+| style="text-align:right;" |1
+|1968
+|-
+| rowspan="5" |{{flagicon|USA}} [[Kenedija Kosmosa centrs]],
+[[Florida]], ASV
+| rowspan="5" |LC-39
+|[[Saturn (nesējraķešu saime)|Saturn V]]
+|[[Apollo programma|Apollo]] 8–17
+| style="text-align:right;" |10
+|1968–1972
+|-
+|[[Saturn (nesējraķešu saime)|Saturn IB]]
+|[[Skylab]] 2–4
+| style="text-align:right;" |3
+|1973–1974
+|-
+|[[Saturn (nesējraķešu saime)|Saturn IB]]
+|[[Apollo–Sojuz]]
+| style="text-align:right;" |1
+|1975
+|-
+|[[Space Shuttle]]
+|[[Space Shuttle|STS]] 1-135‡
+| style="text-align:right;" |134
+|1981–2011
+|-
+|[[Falcon 9|Falcon 9 Block 5]]
+|[[Dragon (kosmosa kuģis)|Crew Dragon]]
+| style="text-align:right;" |11
+|2020–
+|-
+|{{flagicon|China}} [[Dzjucjuaņas Pavadoņu palaišanas centrs]]
+Ķīna
+|Area 4
+|[[Long March 2F]]
+|[[Shenzhou]] 5–7, 9-17
+| style="text-align:right;" |12
+|2003–
+|-
+|{{flagicon|United States}} [[Kornranča]],
+[[Teksasa]], ASV
+|''Launch Site One''
+|[[New Shepard]]
+|New Shepard pilotējamā kapsula
+| style="text-align:right;" |6
+|2021–
+|}
+† Trīs ''Soyuz''  lidojumi nebija pilotēti, un netiek ieskaitīti ([[Sojuz-2|Sojuz 2]], [[Sojuz 20]], [[Sojuz 34]]).
+
+‡ [[STS-51-L]] (''[[Challenger katastrofa|Challenger]]'') lidojums nesasniedza kosmosu un tādēļ netiek ieskaitīts. [[STS-107]] (''Columbia'') lidojums sasniedza kosmosu un tiek ieskaitīts.
+
+'''Pilotējamie lidojumi kas nesasniedza [[Kārmāna līnija|Kārmāna līniju]]:'''
+
+[[Sojuz T-10a]] (1983)
+
+[[STS-51-L]] (1986)
+
+[[Sojuz MS-10|Soyuz MS-10]] (2018)
+
+=== Kosmodromi, no kuriem palaisti mākslīgie satelīti ===
+Tabulā minēti tie ksomodromi, no kuriem veikti mākslīgo satelītu starti.
+{| class="wikitable sortable"
+|-
+! Kosmodroms
+! Atrašanās vieta
+! Gadi
+! Starti
+! Nesējraķetes
+|-
+| {{flagicon|Russia}} [[Baikonuras kosmodroms]], Baikonura/Tjuratama, Kazahstāna<ref>{{Cite web|url=http://www.astronautix.com/sites/baikonur.htm|archive-url=https://web.archive.org/web/20020207133756/http://www.astronautix.com/sites/baikonur.htm |url-status=dead |title=Baikonur|archive-date=7 February 2002|website=www.astronautix.com}}</ref>
+| Kazahstāna
+| 1957–
+| {{nts|1000|prefix=>}}
+| [[R-7 (raķete)|R-7]]/[[Sojuz]], [[Kosmos (raķete)|Kosmos]], [[Proton (nesējraķešu saime)|Proton]], [[Tsyklon]], [[Zenit (nesējraķešu saime)|Zenit]], [[Energia (raķete)|Energia]], [[Dnepr (raķete)|Dnepr]], [[N1 (raķete)|N1]], [[Rokot]], [[Strela (raķete)|Strela]]
+|-
+| {{flagicon|USA}} [[Kanaverala raga Kosmosa spēku stacija]], Florida, ASV<ref name="Cape Canaveral - astronautix.com">{{Cite web|url=http://astronautix.com/sites/capveral.htm|archive-url=https://web.archive.org/web/20031031090517/http://astronautix.com/sites/capveral.htm |url-status=dead |title=Cape Canaveral|archive-date=31 October 2003|website=www.astronautix.com}}</ref>
+| ASV
+| 1958–
+| {{nts|400|prefix=>}}
+| [[Delta (nesējraķešu saime)|Delta]], [[Scout (nesējraķešu saime)|Scout]], [[Atlas (nesējraķešu saime)|Atlas]], [[Titan (nesējraķešu saime)|Titan]], [[Saturn (nesējraķešu saime)|Saturn]], [[Athena (nesējraķešu saime)|Athena]], [[Falcon 9]], [[Minotaur IV]], [[Vanguard (raķete)|Vanguard]], [[Juno I|Juno]], [[Thor (nesējraķešu saime)|Thor]]
+|-
+| {{flagicon|USA}} [[Vandenberga Kosmosa spēku bāze]], Kalifornija, ASV<ref>{{Cite web|url=http://www.astronautix.com/sites/vannberg.htm|archive-url=https://web.archive.org/web/20020208200346/http://www.astronautix.com/sites/vannberg.htm |url-status=dead |title=Vandenberg|archive-date=8 February 2002|website=www.astronautix.com}}</ref>
+| ASV
+| 1959–
+| {{nts|700|prefix=>}}
+| [[Delta (nesējraķešu saime)|Delta]], [[Scout (nesējraķešu saime)|Scout]], [[Atlas (nesējraķešu saime)|Atlas]], [[Titan (nesējraķešu saime)|Titan]], [[Taurus (raķete)|Taurus]], [[Athena (nesējraķešu saime)|Athena]], [[Minotaur (nesējraķešu saime)|Minotaur]], [[Falcon 9]], [[Thor (nesējraķešu saime)|Thor]], [[Firefly Alpha]]
+|-
+| {{flagicon|USA}} [[Valopsa lidojumu centrs]], Virdžīnija, ASV<ref name="astronautix.com">{{Cite web|url=http://www.astronautix.com/w/wallopsisland.html|title=Wallops Island|website=www.astronautix.com|access-date=23 April 2022|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303081308/http://www.astronautix.com/w/wallopsisland.html|url-status=live}}</ref>
+| ASV
+| 1961–1985
+| {{nts|19}}
+| [[Scout (nesējraķešu saime)|Scout]]
+|-
+| {{flagicon|Russia}} [[Kapustinjara]] , Astrahaņas apgabals, Krievija<ref name="Kapustin Yar – astronautix.com">{{Cite web|url=http://www.astronautix.com/sites/kapinyar.htm|archive-url=https://web.archive.org/web/20071104074853/http://www.astronautix.com/sites/kapinyar.htm |url-status=dead |title=Kapustin Yar|archive-date=4 November 2007|website=www.astronautix.com}}</ref>
+| Krievīja
+| 1962–2008
+| {{nts|85}}
+| [[Kosmos (nesējraķešu saime)|Kosmos]]
+|-
+| {{flagicon|France}} [[Hamagiras īpašais ieroču izmēģinājumu centrs]], Alžīrija<ref>{{Cite web|url=http://www.astronautix.com/sites/hamguira.htm|archive-url=https://web.archive.org/web/20020505192536/http://www.astronautix.com/sites/hamguira.htm |url-status=dead |title=Hammaguira|archive-date=5 May 2002|website=www.astronautix.com}}</ref>
+| Alžīrija
+| 1965–1967
+| {{nts|4}}
+| [[Diamant]]
+|-
+| {{flagicon|Russia}} [[Pļeseckas kosmodroms]], Arhangeļskas apgabals, Krievija<ref name="Plesetsk - astronautix.com">{{Cite web|url=http://www.astronautix.com/sites/plesetsk.htm|archive-url=https://web.archive.org/web/20071229175958/http://www.astronautix.com/sites/plesetsk.htm |url-status=dead |title=Plesetsk|archive-date=29 December 2007|website=www.astronautix.com}}</ref>
+| Krievija
+| 1966–
+| {{nts|1500|prefix=>}}
+| [[R-7 (raķete)|R-7]]/[[Sojuz]], [[Kosmos (nesējraķešu saime)|Kosmos]], [[Tsyklon-3]], [[Rokot]], [[Angara (nesējraķešu saime)|Angara]], [[Start-1|Start]]
+|-
+| {{flagicon|Italy}} Sanmarko platforma, [[Broglio Space Centre|Broljo kosmosa centrs]], Malindi, Kenija<ref name="astronautix.com" />
+| Kenija
+| 1967–1988
+| {{nts|9}}
+| [[Scout (nesējraķešu saime)|Scout]]
+|-
+| {{flagicon|USA}} [[Kenedija Kosmosa centrs]], Florida, ASV<ref name="Cape Canaveral - astronautix.com" />
+| ASV
+| 1967–
+| {{nts|187}}
+| 17 [[Saturn (nesējraķešu saime)|Saturn]], 135 [[Space Shuttle]], 63 [[Falcon 9]], 9 [[Falcon Heavy]], 1 [[SLS Block 1|SLS]]
+|-
+| {{flagicon|Australia}} [[Vūmeras poligons]], Dienvidaustrālija<ref name="astronautix.com" />
+| Austrālija
+| 1967, 1971
+| {{nts|2}}
+| [[Redstone (raķete)|Redstone]] ([[WRESAT]]), [[Black Arrow]], [[Europa (raķete)|Europa]]
+|-
+| {{flagicon|Japan}} [[Učinuru kosmosa centrs]] (Kagosima), Japāna<ref name="astronautix.com" />
+| Japāna
+| 1970–
+| {{nts|31}}
+| 27 [[Mu (nesējraķešu saime)|Mu]], 3 [[Epsilon (raķete)|Epsilon]], 1 [[S-Series (nesējraķešu saime)|SS-520-5]]
+|-
+| {{flagicon|France}} [[Gviānas Kosmosa centrs]], Kuru, Franču Gviāna, Francija<ref>{{Cite web |url=http://www.arianespace.com/news/mission-status.asp |title=Arianespace - Launch program activity |access-date=26 May 2009 |archive-date=9 February 2014 |archive-url=https://web.archive.org/web/20140209054822/http://www.arianespace.com/news/mission-status.asp |url-status=live }}</ref>
+| Francija
+| 1970–
+| {{nts|318}}
+| 7 [[Diamant]], 227 [[Ariane (nesējraķešu saime)|Ariane]], 16 [[Sojuz-2 (raķete)|Soyuz-2]], 11 [[Vega (raķete)|Vega]]
+|-
+| {{flagicon|China}} [[Dzjucjuaņas Pavadoņu palaišanas centrs]], Ķīna<ref name="astronautix.com" />
+| Ķīna
+| 1970–
+| {{nts|121}}
+| 2 [[Long March 1|LM1]], 3 [[Long March 2A|LM2A]], 20 [[Long March 2C|LM2C]], 36 [[Long March 2D|LM2D]], 13 [[Long March 2F|LM2F]], 3 [[Long March 4B|LM4B]], 5 [[Long March 4C|LM4C]], 3 [[Long March 11|LM11]]
+|-
+| {{flagicon|Japan}} [[Tanegasimas kosmosa centrs]], Japāna<ref name="astronautix.com" />
+| Japāna
+| 1975–
+| {{nts|65}}
+| 6 [[N-I (raķete)|N-I]], 8 [[N-II (raķete)|N-II]], 9 [[H-I]], 6 [[H-II]], 36 [[H-IIA]]
+|-
+| {{flagicon|India}}[[Satīša Dhavana Kosmosa centrs]]   Āndhra Pradēša, Indija<ref name="astronautix.com" />
+| Indija
+| 1979–
+| {{nts|91}}
+| 4 [[Satellite Launch Vehicle|SLV]], 4 [[Augmented Satellite Launch Vehicle|ASLV]], 59 [[Polar Satellite Launch Vehicle|PSLV]], 15 [[Geosynchronous Satellite Launch Vehicle|GSLV]], 7 [[LVM3]], 2 [[Small Satellite Launch Vehicle|SSLV]]
+|-
+| {{flagicon|China}} [[Sičanas Pavadoņu palaišanas centrs]], Ķīna<ref>{{Cite web|url=http://www.astronautix.com/sites/xichang.htm|archive-url=https://web.archive.org/web/20050129090651/http://www.astronautix.com/sites/xichang.htm |url-status=dead |title=Xichang|archive-date=29 January 2005|website=www.astronautix.com}}</ref>
+| Ķīna
+| 1984–
+| {{nts|183}}
+| [[Long March (nesējraķešu saime)|Long March]]: 6 [[Long March 2C|LM2C]], 5 [[Long March 2E|LM2E]], 11 [[Long March 3|LM3]], 25 [[Long March 3A|LM3A]], 42 [[Long March 3B|LM3B]], 15 [[Long March 3C|LM3C]]
+|-
+| {{flagicon|China}}[[Taijuanas Pavadoņu palaišanas centrs]], Ķīna<ref>{{Cite web|url=http://www.astronautix.com/sites/taiyuan.htm|archive-url=https://web.archive.org/web/20161228003645/http://astronautix.com/t/taiyuan.html |url-status=dead |title=Taiyuan|archive-date=28 December 2016|website=www.astronautix.com}}</ref>
+| Ķīna
+| 1988–
+| {{nts|62}}
+| [[Long March (nesējraķešu saime)|Long March]]: 16 [[Long March 2C|LM2C]], 2 [[Long March 2D|LM2D]], 2 [[Long March 4A|LM4A]], 25 [[Long March 4B|LM4B]], 15 [[Long March 4C|LM4C]], 2 [[Long March 6|LM6]]
+|-
+| {{flagicon|Israel}} [[Palmahimas Gaisa spēku bāze]], Izraēla<ref name="astronautix.com" />
+| Izraēla
+| 1988–
+| {{nts|8}}
+| [[Shavit 2|Shavit]]
+|-
+| Vairākas lidostas ([[Boeing B-52 Stratofortress|B-52]], [[Stargazer (aircraft)|Stargazer]])
+|
+| 1990–
+| {{nts|39}}
+| [[Pegasus (raķete)|Pegasus]] ([[Orbital Sciences Corporation]])
+|-
+| {{flagicon|Russia}} [[Svobodnijas kosmodroms]], Amūras apgabals, Krievija<ref name="Svobodniy – astronautix.com">{{Cite web|url=http://astronautix.com/sites/svoodniy.htm|archive-url=https://web.archive.org/web/20020802101826/http://astronautix.com/sites/svoodniy.htm |url-status=dead |title=Svobodniy|archive-date=2 August 2002|website=www.astronautix.com}}</ref>
+| Krievija
+| 1997–2006
+| {{nts|5}}
+| [[Start-1]]
+|-
+| {{flagicon|Russia}} Delta klases zemūdene, Barenca jūra
+| Barenca jūra
+| 1998, 2006
+| {{nts|2}}
+| [[Shtil']] (Russia), [[Volna|Volna-O]]
+|-
+| [[Odyssey (starta platforma)|Odyssey]] starta platforma, Klusais okeāns
+| Klusais okeāns
+| 1999–2014
+| {{nts|32}}
+| [[Zenit-3SL]] ([[Sea Launch]])
+|-
+| {{flagicon|USA}} [[Klusā okeāna kosmodroma komplekss]] (Kodiaka), Aļaska, ASV<ref>{{Cite web|url=http://www.astronautix.com/sites/kodiak.htm|archive-url=https://web.archive.org/web/20090707054949/http://www.astronautix.com/sites/kodiak.htm |url-status=dead |title=Kodiak|archive-date=7 July 2009|website=www.astronautix.com}}</ref><ref name="aw201004">
+[http://www.aviationweek.com/aw/video/?&fr_story=0219ca815fb65dfa933c587e1f980df6983d229b Kodiak Readies for Quick Launch], ''[[Aviation Week]]'', April 2010, accessed 26 April 2010. "Alaska's remote Kodiak Launch Complex is state-of-the-art, has a perfect mission record, and will soon be able to launch a satellite-carrying rocket within 24 hours of mission go-ahead."</ref>
+| ASV
+| 2001–
+| {{nts|3}}
+| 1 [[Athena (nesējraķešu saime)|Athena]], 2 [[Minotaur (nesējraķešu saime)|Minotaur IV]]
+|-
+| {{flagicon|Russia}} [[Jasnija kosmodroms]] (Dombarovskija), Orenburgas apgabals, Krievija<ref>{{Cite web|url=http://www.astronautix.com/sites/domvskiy.htm|archive-url=https://web.archive.org/web/20080618045913/http://www.astronautix.com/sites/domvskiy.htm |url-status=dead |title=Dombarovskiy|archive-date=18 June 2008|website=www.astronautix.com}}</ref>
+| Krievija
+| 2006–
+| {{nts|10}}
+| [[Dnepr (raķete)|Dnepr]]
+|-
+| {{flagicon|USA}} [[Vidusatlantijas reģionālais kosmodroms]], Virdžīnija, ASV<ref>{{Cite web|url=https://www.vaspace.org/|title=Welcome to Virginia Space|website=www.vaspace.org|access-date=1 October 2021|archive-date=14 August 2021|archive-url=https://web.archive.org/web/20210814082240/https://www.vaspace.org/|url-status=live}}</ref>
+| ASV
+| 2006–
+| {{nts|12}}
+| 5 [[Minotaur (nesējraķešu saime)|Minotaur I]], 6 [[Antares (raķete)|Antares]], 1 [[Minotaur (raķete)|Minotaur V]]
+|-
+| {{flagicon|USA}} [[Omeleka]], [[Kwajalein Atoll|Kvajaleina atolsl]], Maršala Salas
+| Maršala Salas
+| 2008–2009
+| {{nts|5}}
+| 5 [[Falcon 1]] (US)
+|-
+| {{flagicon|Iran}} [[Semnānas Kosmosa centrs]], Semnāna, Irāna<ref name="astronautix.com" /><ref>{{cite web |url=http://www.nti.org/learn/facilities/313/ |title=Imam Khomeini Space Center &#124; Facilities |publisher=NTI |access-date=2017-11-30 |archive-date=5 July 2017 |archive-url=https://web.archive.org/web/20170705174002/http://www.nti.org/learn/facilities/313/ |url-status=live }}</ref>
+| Irāna
+| 2009–
+| {{nts|5}}
+| [[Safir (raķete)|Safir]], [[Simorgh (raķete)|Simorgh]], [[Zuljanah (raķete)|Zuljanah]]
+|-
+| {{flagicon|North Korea}} [[Sohē Pavadoņu palaišanas stacija]], Ziemeļkoreja
+| Ziemeļkoreja
+| 2012–
+|  {{nts|2}}
+| [[Unha|Unha-3]]
+|-
+| {{flagicon|South Korea}} [[Naro Kosmosa centrs]], Dienvidjeola, Dienvidkoreja<ref>{{Cite web|url=http://news.xinhuanet.com/english/world/2013-01/30/c_132138953.htm|archive-url=https://web.archive.org/web/20130204012038/http://news.xinhuanet.com/english/world/2013-01/30/c_132138953.htm |url-status=dead |title=news.xinhuanet.com|archive-date=4 February 2013}}</ref>
+| Dienvidkoreja
+| 2013–
+| {{nts|2}}
+| [[Naro-1]], [[Nuri (raķete)|Nuri]]
+|-
+| {{flagicon|Russia}} [[Vostočnija kosmodroms]], Amūras apgabals, Krievija
+| Krievija
+| 2016–
+| {{nts|8}}
+| 8 [[Sojuz-2 (raķete)|Soyuz-2]]
+|-
+| {{flagicon|China}} [[Venčanas Pavadoņu palaišanas centrs]], Ķīna
+| Ķīna
+| 2016–
+| {{nts|23}}
+| [[Long March (nesējraķešu saime)|Long March]]: 9 [[Long March 5|LM5]], 12 [[Long March 7|LM7]], 2 [[Long March 8|LM8]]
+|-
+| {{flagicon|New Zealand}} {{flagicon|USA}} [[Rocket Lab Launch Complex 1]],<br />Jaunzēlande 
+| Jaunzēlande
+| 2018–
+| {{nts|21}}
+| 21 [[Electron (raķete)|Electron]]
+|-
+| {{flagicon|China}} palaišanas platformas Dzeltenajā jūrā, Ķīna
+| Dzeltenā jūra
+| 2019–
+| {{nts|6}}
+| 4 [[Long March 11]], 1 [[Jielong 3|SD3]], 1 [[CERES-1]]
+|-
+|{{flagicon|Iran}} [[Šaruda kosmosa centrs]], Semnānas province, Irāna
+| Irāna
+| 2020–
+| {{nts|4}}
+| 3 [[Qased (raķete)|Qased]], 2 [[Qaem 100]]
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kosmodromi]]
+[[Kategorija:Kosmonautika]]

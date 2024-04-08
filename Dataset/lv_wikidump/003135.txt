@@ -1,0 +1,51 @@
+{{BioTakso infokaste
+| attēls         = Aristolochia gibertii.jpg
+| att_nosaukums  = ''[[Aristolochia giberti]]''
+| valsts         = Plantae
+| valsts_lv      = Augi
+| nodalījums     = Magnoliophyta
+| nodalījums_lv  = Segsēkļi
+| klase          = Magnoliopsida
+| klase_lv       = Divdīgļlapji
+| rinda          = Piperales
+| rinda_lv       = Piparu rinda
+| dzimta         = Aristolochiaceae
+| dzimta_lv      = Aristolohiju dzimta
+| iedalījums     = 
+| kategorijas =nē
+}}
+'''Aristolohiju dzimta''' (''Aristolochiaceae'') ir [[piparu rinda]]s [[dzimta (bioloģija)|dzimta]], kas iekļauj septiņas [[ģints (bioloģija)|ģintis]] un aptuveni 600 [[suga]]s.<ref>[http://www.theplantlist.org/browse/A/Aristolochiacaea The Plant List. A working list of all plant species]{{Novecojusi saite}}</ref>
+
+== Apraksts ==
+Galvenokārt daudzgadīgi augi, [[lakstaugs|lakstaugi]], [[krūms|krūmi]] vai liānas, reti kokveida.
+
+== Izplatība ==
+[[Aristolohiju apakšdzimta|Aristolohiju]] un [[kumeļpēdu apakšdzimta|kumeļpēdu]] apakšdzimtas sastopamas [[tropi|tropu]] un [[mērenā josla|mērenā]] klimata joslā. [[Āfrika|Āfrikā]] to kopējais areāls plašs, taču sugu ir ļoti maz. [[Austrālija|Austrālijā]] aug tikai kontinenta galējos ziemeļos. [[Kumeļpēdas (ģints)|Kumeļpēdu]] ģints ''Asarum'' sastopama vienīgi [[ziemeļu puslode|ziemeļu puslodē]], [[gredzenaristolohijas]] — tikai tropos Rietumāfrikā, tropu dienvidaustrumu [[Āzija|Āzijā]], galvenokārt [[Jaungvineja|Jaungvinejā]] un Austrālijā. Daudzveidības centri dienvidaustrumu Āzija, [[Centrālamerika]] un [[Dienvidamerika]]s ziemeļi.
+
+[[Laternsmirdenes|Laternsmirdeņu]] sugas sastopamas Āfrikas dienvidos un dienvidaustrumos, [[Arābijas pussala]]s dienvidos un [[Madagaskara]]s dienvidos.
+
+[[Fernandeskrūmi|Fernandeskrūmu]] vienīgā suga aug nomaļajā [[Huana Fernandes sala|Huana Fernandesa salā]].
+
+== Klasifikācija ==
+Saskaņā ar 2016. gada [[APG sistēma (2016)|APG IV sistēmu]] (segsēkļu klasifikācijas taksonomiskā sistēma), aristolohiju dzimtu veido 4 apakšdzimtas un 7 ģintis:<ref>[http://onlinelibrary.wiley.com/doi/10.1111/boj.12385/abstract An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV. Botanical Journal of the Linnean Society, Volume 181, Issue 1, pages 1-20, May 2016]</ref>
+* Apakšdzimta [[aristolohijas]] (''Aristolochioideae''):
+** ģints [[aristolohijas]] (''Aristolochia'')
+** ģints [[totejas]] (''Thottea'')
+* Apakšdzimta [[kumeļpēdas]] (''Asaroideae''):
+** ģints [[kumeļpēdas]] (''Asarum'')
+** ģints ''[[Saruma]]''
+* Apakšdzimta [[laternsmirdenes]] (''Hydnoroideae''), agrāk ''[[Hydnoraceae]]'' dzimta:
+** ģints [[laternsmirdenes]] (''Hydnora'')
+** ģints ''[[Prosopanche]]''
+* Apakšdzimta [[fernandeskrūmi]] (''Lactoridoideae''), agrāk ''[[Lactoridaceae]]'' dzimta:
+** ģints [[fernandeskrūmi]] (''Lactoris'')
+
+== Atsauces ==
+{{atsauces}}
+
+== Literatūra ==
+* Augu ģeogrāfija un daudzveidība. Normunds Priedītis. Zvaigzne. 2008. {{ISBN|978-9934-0-0829-0}}
+
+{{Commonscat|Aristolochiaceae}}
+
+[[Kategorija:Aristolohiju dzimta]]

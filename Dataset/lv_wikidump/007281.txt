@@ -1,0 +1,75 @@
+{{Latvijas novada infokaste
+| nosaukums         = Penkules pagasts
+| karte             = Penkules pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Penkule
+| platība           = 74,09
+| iedzīvotāji       = 1058<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1058 / 74.09 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = 
+}}
+'''Penkules pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām tās vidienē. Robežojas ar sava novada [[Naudītes pagasts|Naudītes]], [[Auru pagasts|Auru]], [[Bēnes pagasts|Bēnes]], [[Bukaišu pagasts|Bukaišu]] un [[Tērvetes pagasts|Tērvetes]] pagastiem. 
+
+== Daba ==
+Atrodas [[Viduslatvijas zemiene]]s [[Zemgales līdzenums|Zemgales līdzenuma]] dienvidrietumu malā. Augstākā vieta pagastā - 72,6 m vjl. - pagasta ziemeļrietumos.
+
+=== Hidrogrāfija ===
+Pagastā nav lielu ezeru, toties uz upēm izveidotas vairākas ūdenskrātuves.
+* [[Centra ūdenskrātuve]] (3,2 ha)
+* [[Dimzu ūdenskrātuve]] (11,4 ha)
+* [[Skujaines ūdenskrātuve]] (27,5 ha)
+
+==== Upes ====
+[[Auce (upe)|Auce]], [[Govainis]], [[Rīgava]], [[Ālave]], [[Jugla (Ālaves pieteka)|Jugla]], [[Skujaine (upe)|Skujaine]]
+
+== Vēsture ==
+Mūsdienu Penkules pagasta teritorijā vēsturiski atradās Ālaves muiža (''Alauen'', [[Ālave (ciems)|Ālave]]), Cimeles muiža (''Zimmern''), Penkules muiža (''Pankelhof'', [[Penkule]]).
+
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Penkules pagasta platība bija 62,5 km² un tajā dzīvoja 1351 iedzīvotājs.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Penkules un [[Ālaves ciems|Ālaves]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Penkules ciems''' (vēlāk pagasts) ietilpis [[Auces rajons|Auces]] (1949-1959) un [[Dobeles rajons|Dobeles]] (1959-2009) rajonos. 1961. gadā Penkules ciemam pievienoja [[Tērvetes ciems|Tērvetes ciema]] [[kolhozs|kolhoza]] «Zemgale» teritoriju, bet Penkules ciema [[padomju saimniecība]]s «Tērvete» teritoriju pievienoja Tērvetes ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Penkules pagastu kā administratīvo teritoriju iekļāva [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+* Ālaves muižas apbūve
+* Penkules luterāņu baznīca
+* Kamradžu senkapi<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Penkules+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Ruņģu apmetne
+* Ķūru senkapi
+* Kamradžu pilskalns (Cepļa kalns)
+* Laģu apmetne
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Penkule]] (pagasta centrs), [[Skujaine (ciems)|Skujaine]], [[Vecvagāres]], [[Baldonas]], [[Ālave (ciems)|Ālave]], [[Ābeles (ciems)|Ābeles]], [[Sējas]], [[Ezeriņi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Penkules pagasts| ]]

@@ -1,0 +1,85 @@
+{{Latvijas novada infokaste
+| nosaukums         = Codes pagasts
+| karte             = Codes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Codes pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Codes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Codes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Bauskas novads
+| centrs            = Code
+| platība           = 95,32
+| iedzīvotāji       = 2773<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 2773 / 95.32 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = www.code.lv
+}}
+
+'''Codes pagasts''' ir viena no [[Bauskas novads|Bauskas novada]] teritoriālajām vienībām [[Mēmele]]s krastā. Pagasts robežojas ar [[Bauska]]s pilsētu un [[Mežotnes pagasts|Mežotnes]], [[Dāviņu pagasts|Dāviņu]], [[Vecsaules pagasts|Vecsaules]] un [[Iecavas pagasts|Iecavas]] pagastiem. Pagasta centrs [[Code]] atrodas 7 km no [[Bauska]]s un 52 km no [[Rīga]]s.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Dole (upe)|Dole]], [[Dolīte]], [[Īkstrums]], [[Mēmele]], [[Lielupe]], [[Zizma]].
+
+== Vēsture ==
+[[Attēls:Derpeles muiža - panoramio.jpg|thumb|Derpeles muiža]]<!-- Līgas Landsbergas foto no panoramio -->
+[[Attēls:Codes luterāņu baznīca 3.jpg|thumb|Codes luterāņu baznīca]]
+Mūsdienu Codes pagasta teritorijā vēsturiski atradās Codes muiža (''Gut Zohden'', [[Code]]), Derpelmēmeles muiža (''Gut Dörpers-Memelhof''), Dubes muiža (''Gut Dubbenhof'').
+
+[[Bauskas apriņķis|Bauskas apriņķa]] Codes pagasta teritorija 1935. gadā bija 73,9 km<sup>2</sup> un tajā dzīvoja 1441 iedzīvotājs.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 1945. gadā pagastā izveidoja Codes un [[Burtnieku ciems (Bauskas rajons)|Burtnieku]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Bauskas rajons|Bauskas rajona]] '''Codes ciemam''' 1954. gadā pievienoja likvidēto Burtnieku ciemu, 1963. gadā pievienoja likvidēto [[Bauskas ciems|Bauskas ciemu]], 1977. - daļu likvidētā [[Zālītes ciems|Zālītes ciema]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Codes pagastu kā administratīvo teritoriju iekļāva [[Bauskas novads|Bauskas novadā]].
+
+=== Pieminekļi ===
+* Codes muižas dzīvojamā ēka<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Codes+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Codes muižas kungu mājas interjera dekoratīvā apdare.
+* [[Codes luterāņu baznīca]]
+* Čunkānu - Dreņģeru senkapi
+* Velna kalns
+* Ragaucku apmetne
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3265
+|1959|2825
+|1965|2095
+|1979|2598
+|1989|3333
+|2000|2925
+|2011|2520
+|2021|1504
+}}
+
+=== Apdzīvotās vietas ===
+[[Ciņi]], '''[[Code]]''', [[Dāliņi]], [[Elektriķi (ciems)|Elektriķi]], [[Guntas]], [[Ilziņi (Codes pagasts)|Ilziņi]], [[Jauncode]], [[LOdēni (Codes pagasts)|Lodēni]], [[Rudzukrogs]], [[Strēļi]].
+
+=== Ievērojamas personības ===
+* [[Vilis Janums]] (1894-1981),  Latvijas Bruņoto spēku un Latviešu leģiona virsnieks. Daugavas Vanagu dibinātājs un pirmais priekšnieks;
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+[[Attēls:Opening of room for youth people in Code, Latvia 31-01-2020.jpg|thumb|Codes jauniešu domnīcas atklāšana]]
+Codē atrodas [[Codes pamatskola|pamatskola]],<ref>{{Tīmekļa atsauce |url=https://code.lv/list.php?s=21&c=21&cd=5 |title=Codes pagasta pārvalde: Izglītība |access-date={{dat|2020|02|01||bez}} |archive-date={{dat|2020|02|02||bez}} |archive-url=https://web.archive.org/web/20200202023255/https://code.lv/list.php?s=21&c=21&cd=5 }}</ref> kura kopš 2009. gada apvienota ar bijušo Codes sākumskolu. 2020. gadā ciematā atvērta jauniešu istaba ("domnīca").<ref>{{Tīmekļa atsauce |url=https://code.lv/pro.php?p=946&cd=1&c=44&s=51&/Jauniesu-domnicas-atklasana |title=Jauniešu domnīcas atklāšanas paziņojums |access-date={{dat|2020|02|01||bez}} |archive-date={{dat|2021|02|28||bez}} |archive-url=https://web.archive.org/web/20210228063533/https://code.lv/pro.php?p=946&cd=1&c=44&s=51&/Jauniesu-domnicas-atklasana }}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Bauskas novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Bauskas rajons}}
+{{Bauskas apriņķis}}
+}}
+[[Kategorija:Zemgale]]
+[[Kategorija:Bauskas novada pagasti]]
+[[Kategorija:Codes pagasts| ]]

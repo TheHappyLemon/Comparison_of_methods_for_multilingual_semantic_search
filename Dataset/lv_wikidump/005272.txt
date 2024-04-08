@@ -1,0 +1,53 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 98
+|             7. čaula = 2
+|             6. čaula = 8
+|             5. čaula = 28
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Cf
+|             atommasa = [251]
+|   valences elektroni = [Rn]5f<sup>10</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Cf-TableImage.png|250px]]
+|               attēls = [[Attēls:Californium.jpg|200px]]
+|  oksidēšanas pakāpes = +2, '''+3''', +4
+|  elektronegativitāte = 1,3
+|              blīvums = 15 100
+|  kušanas temperatūra = 1173 K (900&nbsp;°C)
+| viršanas temperatūra = 
+}}
+
+'''Kalifornijs''' ir mākslīgi radīts [[radioaktivitāte|radioaktīvs]] [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Cf''' un [[atomskaitlis|atomskaitli]] 98. Tas ir [[aktinīdi|aktinīds]] un to iegūst, uz [[kirijs|kiriju]] iedarbojoties ar [[alfa daļiņa|alfa daļiņām]].  Pirmo reizi kalifornijs iegūts 1950. gada februārī [[Kalifornijas Universitāte (Bērkli)|Kalifornijas Universitātē]] [[Bērkli]] pilsētā (no Kalifornijas universitātes cēlies elementa nosaukums, kā arī tas nosaukts par godu [[Kalifornija]]s štatam). Kalifornijam ir relatīvi maza [[kritiskā masa]], tāpēc no tā būtu iespējams izgatavot maza izmēra [[kodolieroči|kodolieročus]],{{nepieciešama atsauce}} ja tas nebūtu tik radioaktīvs. Nelielos daudzumos to izmanto [[kodolreaktors|kodolreaktoros]]. Tas tiek izmantots kā pārvietojams [[neitrons|neitronu]] avots.
+
+== Izotopi ==
+Stabilākā [[izotops|izotopa]] <sup>251</sup>Cf [[pussabrukšanas periods]] ir 898 gadu. Ir iegūti kalifornija izotopi, kuru [[masas skaitlis]] ir no 237 līdz 256. Izotopa <sup>249</sup>Cf pussabrukšanas periods ir 351 gads, bet <sup>250</sup>Cf — 13,08 gadi.<ref name="jlab"/> Pārējo izotopu pussabrukšanas periods ir stipri mazāks.
+
+Zemāk kā piemērs parādīta kalifornija izotopa <sup>251</sup>Cf sabrukšana, jo tam ir vislielākais pussabrukšanas periods. Tas vispirms [[alfa sabrukšana]]s rezultātā kļūst par [[kirijs|kiriju]] Cm, bet pēc tam kirijs atkartoti alfas sabrukšanas rezultātā kļūst par [[plutonijs|plutoniju]] Pu. Visbeidzot plutonijs [[bēta sabrukšana]]s rezultātā pārvēršas par [[amerīcijs|amerīciju]].
+
+:<math>\mathrm{^{251}_{\ 98}Cf\ \xrightarrow[898 \ y]{\alpha} \ ^{247}_{\ 96}Cm\ \xrightarrow[15{,}6 \cdot 10^6 \ y]{\alpha} \ ^{243}_{\ 94}Pu\ \xrightarrow [4{,}956 \ h]{\beta^-} \ ^{243}_{\ 95}Am}</math>
+
+: <small>Norādīti pussabrukšanas periodi: y — gadi, h — stundas.</small>
+
+Savukārt sabrūkot izotopam <sup>252</sup>Cf, 96,908 % ir [[alfa sabrukšana]], bet atlikušie 3,092 % ir [[spontāna skaldīšanās]].<ref name="Hicks, Ise, Pyle"/>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso023.html | title= Isotopes of the Element Californium | publisher= Jefferson Lab | accessdate= 2018. gada 5. aprīlī | language= en | archiveurl= https://web.archive.org/web/20190723031450/https://education.jlab.org/itselemental/iso023.html | archivedate= 2019. gada 23. Jūlijs }}</ref>
+
+<ref name="Hicks, Ise, Pyle">Donald A. Hicks, John Ise, Jr., Robert V. Pyle: ''Spontaneous-Fission Neutrons of Californium-252 and Curium-244'', in: ''[[Physical Review]]'', '''1955''', ''98''&nbsp;(5), S.&nbsp;1521–1523 ([[doi:10.1103/PhysRev.98.1521]]).</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

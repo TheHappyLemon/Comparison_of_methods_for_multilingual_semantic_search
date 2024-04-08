@@ -1,0 +1,75 @@
+'''Vienotais resursu vietrādis''', '''vietrādis URL''' (no {{val|en|Uniform Resource Locator}}) jeb '''tīmekļa adrese''' (''web address'') ir standartizēta resursa (piemēram, dokumenta vai attēla) adrese [[Internets|Internetā]] (vai citviet). Tos pirmoreiz izveidoja [[Tims Bērnerss-Lī]] lietošanai [[vispasaules tīmeklis|vispasaules tīmeklī]], bet pašreiz lietojamās formas nosaka standarts {{RFC|2396}} (1998).
+
+Vienotais resursu vietrādis bija būtisks [[jaunievedums]] Interneta vēsturē. Tā sintakse ir veidota tā, lai būtu vispārēja, paplašināma un spējīga saturēt jebkuru simbolu kopu, izmantojot ierobežotu [[ASCII]] apakškopu. Vietrāži tiek klasificēti pēc "shēmas", kas parasti norāda izmantojamo tīkla protokolu.
+
+== Definīcija ==
+
+=== URL un URI ===
+Vienotais resursu vietrādis (URL) ir viens no [[vienotais resursu identifikators|vienotā resursu identifikatora]] (URI) veidiem. Vēsturiski abi termini bieži vien ir lietoti kā sinonīmi, jo gandrīz visi vienotie resursu identifikatori vienlaikus ir arī vienotie resursu vietrāži. Šī iemesla dēļ, daudzviet, kur šajā rakstā tiek runāts par URI, tas attiecināms arī uz URL.
+
+=== URL shēma ===
+Vienotais resursu vietrādis sākas ar '''shēmas''' nosaukumu, kam seko kols un shēmai raksturīgā daļa.
+
+Daži vienoto resursu vietrāžu shēmu piemēri:
+* http — [[HTTP]] resursi
+* https — HTTP caur [[standarts SSL|SSL]]
+* ftp — [[FTP]]
+* mailto — [[e-pasts|e-pasta]] adrese
+* ldap — ''[[Lightweight Directory Access Protocol]]'' pieprasījumi
+* file — lokālā datora resursi vai resursi, kas pieejami koplietošanai lokālajā tīklā
+* news — ''Usenet'' [[ziņu grupa]]s
+* gopher — ''[[Gopher]]'' protokols
+* telnet — ''[[Telnet]]'' protokols
+
+=== Vispārīga URI sintakse ===
+Shēmai raksturīgā daļa ir atkarīga no izmantotās shēmas. Shēmas, kas izmanto tipiskus uz savienojumu balstītus protokols, atbilst šādai "vispārīgai" URI sintaksei:
+
+<pre>
+shēma://lietotājvārds:parole@avots:ports/ceļš?vaicājums#grāmatzīme
+</pre>
+
+''[[Lietotājvārds]] un parole'' izmantojama tikai, ja lietotāja autorizāciju pieprasa servera līmenī
+
+''Avots'' parasti ir servera nosaukums vai IP adrese, kas vajadzības gadījumā tiek papildināts ar kolu un izmantojamā porta numuru (ja tiek lietots nestandarta ports). Tas var saturēt arī informāciju par lietotājvārdu un paroli.
+
+''Ceļš'' ir hierarhiska atrašanās vietas norāde, izmantojot slīpsvītru ("/") kā komponenšu atdalītājsimbolu.
+
+''Vaicājuma'' daļa ir paredzēta, lai izteiktu parametrus, kas nododami uz servera esošai datu bāzei.
+
+''Grāmatzīme'' norāda, kura lapas daļa jāparāda pārlūkprogrammai.
+
+=== URI atsauces ===
+
+=== Reģistrjūtīgums ===
+Vietrāži pamatā ir reģistrjūtīgi, tomēr tas ir servera administratora ziņā, vai likt serverim ņemt vērā burtu reģistru, atbildot uz pieprasījumiem. Daži tīmekļa serveri nosūta vienu un to pašu lapu neatkarīgi no tā, vai pieprasījumā lietoti lielie vai mazie burti.
+
+== Vietrāži ikdienā ==
+HTTP vietrādis vienā adresē satur četras informācijas vienības, kas nepieciešamas informācijas iegūšanai no Interneta:
+* saziņā izmantojamo protokolu;
+* saimniekdatora ([[serveris|servera]]) adresi;
+* servera portu, kuram pieslēgties;
+* ceļu uz servera resursu.
+
+Tipiska vietrāža piemērs:
+
+   http://lv.wikipedia.org:80/wiki/Special:Search?search=Latvija&go=Go
+
+kur
+* ''http'' ir protokols
+* ''lv.wikipedia.org'' ir saimniekdators
+* ''80'' ir servera porta numurs (80 ir noklusētā vērtība HTTP protokolam, tāpēc to varētu arī nenorādīt)
+* ''/wiki/Special:Search'' ir ceļš uz resursu
+* ''search=Latvija&go=Go'' ir vaicājuma virkne; šī daļa ir opcionāla
+
+Vairums [[tīmekļa pārlūkprogramma|tīmekļa pārlūkprogrammu]] neprasa lietotājam ievadīt "<nowiki>http://</nowiki>" lai atvērtu [[tīmekļa lappuse|tīmekļa lappusi]], jo HTTP ir tīmekļa pārlūkprogrammās visplašāk lietotais protokols. Tāpat, tā kā 80 ir HTTP protokola noklusējuma ports, arī tas nav jānorāda. Parasti pārlūkprogrammā tiek ievadīts daļējs vietrādis, piemēram, lv.wikipedia.org/wiki/Latvija. Lai dotos uz [[mājaslapa|mājaslapu]], parasti pietiek ievadīt saimniekdatora nosaukumu, piemēram, lv.wikipedia.org.
+
+Tā kā HTTP protokols ļauj serverim atbildēt uz pieprasījumu, pāradresējot tīmekļa pārlūkprogrammu uz citu tīmekļa adresi, daudzi serveri atļauj lietotājam izlaist arī citas vietrāža daļas, piemēram, "www.", kā arī noslēdzošo slīpsvītru, ja pieprasāmais resurss ir [[direktorijs]]. Tomēr, šādas URL daļu izlaišanas tehniski veido pavisam citu URL, tādēļ tīmekļa pārlūkprogramma nevar veikt šīs korekcijas pati, tai ir jāpaļaujas uz serveri. Teorētiski ir iespējams, ka serveris atgriezīs divas dažādas lapas vietrāžiem, kuri atšķirsies tikai ar noslēdzošās slīpsvītras esamību vai neesamību.
+
+Ievērojiet, ka vietrādī lv.wikipedia.org/wiki/Latvija, piecu elementu hierarhiskā secība ir: org — wikipedia — lv — wiki — Latvija, t.i. pirms pirmās slīpsvītras no labās puses uz kreiso, pēc tās — no kreisās puses uz labo.
+
+== Skatīt arī ==
+* [[Internets]]
+
+[[Kategorija:Vispasaules tīmeklis]]
+[[Kategorija:Elektroniskā publicēšana]]
+[[Kategorija:Lietotāja saskarnes]]

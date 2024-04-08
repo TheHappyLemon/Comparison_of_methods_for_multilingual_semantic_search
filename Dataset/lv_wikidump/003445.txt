@@ -1,0 +1,468 @@
+{{Eirovīzijas infokaste
+|nosaukums              = Eirovīzijas dziesmu konkurss 2006
+|tēma                   = ''"Feel The Rhythm"''
+|attēls                 = Eurovision Song Contest 2006 logo.svg
+|att_izm                = 300px
+|paraksts               = Konkursa logo
+|fināls                 = {{dat|2006|5|20|N}}
+|pusfināls              = {{dat|2006|5|18|N}}
+|pirmais pusfināls      = 
+|otrais pusfināls       = 
+|vadītājs (i)           = [[Marija Menounos]]<br />[[Sakis Ruvs]]
+|koordinators           = 
+|režisors               = 
+|pārraidītājs           = {{flaga|Grieķija}} [[ERT]]
+|vieta                  = {{flaga|Grieķija}} [[Grieķija]], [[Atēnas]]<br />[[OAKA Halle]]
+|uzvarētājs             = {{flaga|Somija}} [[Lordi]] - [[Hard Rock Hallelujah]]
+|balsošanas sistēma     = Katras valsts 10 populārākajām dziesmām tiek piešķirti 12, 10, tad 8 līdz 1 punktam.
+|dalībvalstis           = 37 valstis no kurām 24 iekļuva finālā.
+|valstis, kas debitē    = {{flag|Armēnija}}
+|valstis, kas atgriežas = nav
+|valstis, kas izstājās  = {{flag|Austrija}}<br />{{flag|Serbija un Melnkalne}}<br />{{flag|Ungārija}}
+|nulle punktu           = nav
+|viesmākslinieki        = [[Elena Paparizu]]<br />[[Foteini Darra]]<br />[[Sakis Rouvas]]<br />Grieķu dejotāji
+|map                    = ESC 2006 Map.svg
+|col1 = #22b14c
+ |tag1 = Dalībvalstis
+|col2 = #d40000
+ |tag2 = Finālam nekvalificējušās valstis
+|col3 = #ffc20e
+ |tag3 = Dalībvalstis, kas piedalījušās iepriekš, bet nepiedalījās 2006. gada konkursā
+|koncerts               = [[Eirovīzijas dziesmu konkurss]]
+|iepriekšējais          = [[2005. gada Eirovīzijas dziesmu konkurss|◄ 2005]]
+|nākamais               = [[2007. gada Eirovīzijas dziesmu konkurss|2007 ►]]
+}}
+'''Eirovīzijas Dziesmu konkurss 2006''' ir 51. [[Eirovīzijas dziesmu konkurss]], kurš notika Olimpiskajā Iekšējā Hallē, [[Atēnas|Atēnās]], [[Grieķija|Grieķijā]]. Konkursa pusfināls notika 18. maijā, bet fināls - 20. maijā. EBU, Eiropas Raidorganizācija, sastāda konkursa scenāriju. To vadīja Marija Menounos un Sakis Rouvas, kas 2004. gada Eirovīzijas Diesmu konkursā ieguva 3 vietu.
+
+Oficiālais logo ir līdzīgs 2004. un 2005. gada logo, tikai [[Turcija]]s un [[Ukraina]]s karogu vietā ir [[Grieķija]]s karogs. Konkursa sublogo ir izveidojusi Karamela grieķu televīzijai. Konkursa sauklis ir "Izjūti ritmu".
+
+== Dalībvalstis un rezultāti ==
+=== Pusfināls ===
+* Dzeltenais laukums norāda uz dziesmām, kuras kvalificējās Finālam.
+
+{| class="sortable wikitable"
+|- style="background:#ccc;"
+! Nr.
+! Valsts
+! Valoda
+! Izpildītājs
+! Dziesma
+! Nosaukums latviski
+! Vieta
+! Punkti
+|-bgcolor="#FFDEAD"
+| 01
+| {{flag|Armēnija}}
+| Angļu
+| André
+| "Without Your Love"
+| Bez tavas mīlestības
+| 6
+| 150
+|-
+| 02
+| {{flag|Bulgārija}}
+| Angļu
+| Mariana Popova
+| "Let Me Cry"
+| Ļauj man raudāt
+| 17
+| 36
+|-
+| 03
+| {{flag|Slovēnija}}
+| Angļu
+| Anžej Dežan
+| "Mr Nobody"
+| Misters Nekas
+| 16 
+| 49
+|-
+| 04
+| {{flag|Andora}}
+| Katalāņu
+| Jenny
+| "Sense tu"
+| Bez tevis
+| 23
+| 8 
+|-
+| 05
+| {{flag|Baltkrievija}}
+| Angļu
+| Polina Smolova
+| "Mum"
+| -
+| 22 
+| 10
+|-
+| 06
+| {{flag|Albānija}}
+| Albāņu
+| Luiz Ejlli
+| "Zjarr E Ftohtë"
+| Uguns un sals
+| 14
+| 58 
+|-
+| 07
+| {{flag|Beļģija}}
+| Angļu
+| Kate Ryan
+| "Je T'adore"
+| <!-- I Adore You -->
+| 12
+| 69
+|-bgcolor="#FFDEAD"
+| 08
+| {{flag|Īrija}}
+| Angļu
+| Brian Kennedy
+| "Every Song Is A Cry For Love"
+| Jebkura dziesma ir mīlestības sēras
+| 9
+| 79
+|-
+| 09
+| {{flag|Kipra}}
+| Angļu
+| Annet Artani
+| "Why Angels Cry"
+| Kādēļ eņģeļi raud
+| 15
+| 57
+|-
+| 10
+| {{flag|Monako}}
+| Franču, <!-- Tahitian language -->
+| Séverine Ferrer
+| "La Coco-Dance"
+| Koko deja
+| 21
+| 14
+|-bgcolor="#FFDEAD"
+| 11
+| {{flag|Maķedonija}}
+| Angļu, Maķedoniešu
+| Elena Risteska
+| "Ninanajna" (Нинанајна)
+| -
+| 10
+| 76
+|-
+| 12
+| {{flag|Polija}}
+| Angļu, Poļu, Vācu ...
+| Ich Troje feat. Real McCoy
+| "Follow My Heart"
+| Seko savai sirdij
+| 11
+| 70
+|-bgcolor="#FFDEAD"
+| 13
+| {{flag|Krievija}}
+| Angļu
+| Dima Bilan
+| "Never Let You Go"
+| Nekad neatlaid
+| 3
+| 217
+|-bgcolor="#FFDEAD"
+| 14
+| {{flag|Turcija}}
+| Turku
+| Sibel Tüzün
+| "Süper Star"
+| Super zvaigzne
+| 8
+| 91
+|-bgcolor="#FFDEAD"
+| 15
+| {{flag|Ukraina}}
+| Angļu
+| Tina Karol
+| "Show Me Your Love"
+| Parādi man savu mīlestību
+| 7
+| 146
+|-bgcolor="#FFDEAD"
+| 16
+| {{flag|Somija}}
+| Angļu
+| Lordi
+| "Hard Rock Hallelujah"
+| Smagais roks, Aleluja
+| 1
+| 292
+|-
+| 17
+| {{flag|Nīderlande}}
+| Angļu, Izdomāta
+| Treble
+| "Amambanda"
+| -
+| 20
+| 22
+|-bgcolor="#FFDEAD"
+| 18
+| {{flag|Lietuva}}
+| Angļu, Franču
+| LT United
+| "We Are The Winners"
+| Mēs esam uzvarētāji
+| 5
+| 163
+|-
+| 19
+| {{flag|Portugāle}}
+| Angļu, Portugāļu
+| Nonstop
+| "Coisas De Nada"
+| -
+| 19
+| 26
+|-bgcolor="#FFDEAD"
+| 20
+| {{flag|Zviedrija}}
+| Angļu
+| Carola
+| "Invincible"
+| Neuzvarams
+| 4
+| 214
+|-
+| 21
+| {{flag|Igaunija}}
+| Angļu
+| Sandra Oxenryd
+| "Through My Window"
+| Caur manu logu
+| 18
+| 28
+|-bgcolor="#FFDEAD"
+| 22
+| {{flag|Bosnija un Hercegovina}}
+| Bosniešu
+| Hari Mata Hari
+| "Lejla"
+| Leila
+| 2
+| 267
+|-
+| 23
+| {{flag|Islande}}
+| Angļu
+| Silvia Night
+| "Congratulations"
+| Apsveicam
+| 13
+| 62
+|}
+
+=== Fināls ===
+* Oranžais laukums vietu un punku slejās norāda uz dziesmām, kuras automātiski tika [[2007. gada Eirovīzijas dziesmu konkurss|2007. gada Eirovīzijas dziesmu konkursa]] finālā.
+
+{| class="sortable wikitable" width=100%
+|- bgcolor="#CCCCCC"
+! Nr. !! Valsts !! Valoda !! Izpildītājs !! Dziesma !! Nosaukums latviski !! Vieta !! Punkti
+|-  
+| 1 || {{flag|Šveice}}  || [[Angļu valoda|Angļu]] || six4one || If We All Give A Little || Ja mēs visi nedaudz ziedojam || 17 || 30
+|-
+| 2 || {{flag|Moldova}} || [[Angļu valoda|Angļu]], [[Moldāvu valoda|Moldāvu]] || [[Arsenium]], Natalia Gordienco<br />un Connect-R || Loca || Trakā || 20 || 22
+|-
+| 3 || {{flag|Izraēla}} || [[Ivrits]] || Eddie Butler || Ze Hazman || Šis ir laiks || 23 || 4
+|-
+| 4 || {{flag|Latvija}} || [[Angļu valoda|Angļu]] || [[Cosmos]] || I Hear Your Heart || Es dzirdu tavu sirdi || 16 || 30
+|-
+| 5 || {{flag|Norvēģija}} || [[Norvēģu valoda|Norvēģu]] || Christine Guldbrandsen || Alvedansen || Elfu deja || 14 || 36
+|-
+| 6 || {{flag|Spānija}} || [[Spāņu valoda|Spāņu]] || [[Las Ketchup]] || Bloody Mary || Asiņainā Mērija
+| bgcolor="#FFDEAD" | 21
+| bgcolor="#FFDEAD" | 18
+|-
+| 7 || {{flag|Malta}} || [[Angļu valoda|Angļu]] || Fabrizio Faniello || I Do || Jā || 24 || 1
+|-
+| 8 || {{flag|Vācija}} || [[Angļu valoda|Angļu]] || [[Texas Lightning]] || No No Never || Nē, nē, nekad
+| bgcolor="#FFDEAD" | 15
+| bgcolor="#FFDEAD" | 36
+|-
+| 9 || {{flag|Dānija}} || [[Angļu valoda|Angļu]] || Sidsel Ben Semmane || Twist of Love || Mīlas tvists || 18 || 26
+|-
+| 10 || {{flag|Krievija}}  || [[Angļu valoda|Angļu]] || [[Dima Bilan]] || Never Let You Go || Nekad nelaidīšu tevi
+| bgcolor="#FFDEAD" | 2
+| bgcolor="#FFDEAD" | 248
+|-
+| 11 || {{flag|Maķedonija}}  || [[Maķedoniešu valoda|Maķedoniešu]] || Elena Risteska || Ninanajna || Na Na || 12 || 56
+|-
+| 12 || {{flag|Rumānija}} || [[Angļu valoda|Angļu]], [[Rumāņu valoda|Rumāņu]] || Mihai Trăistariu || Tornerò || Es atgriezīšos
+| bgcolor="#FFDEAD" | 4
+| bgcolor="#FFDEAD" | 172
+|-
+| 13 || {{flag|Bosnija un Hercegovina}} || [[Bosniešu valoda|Bosniešu]] || Hari Varešanović || Lejla || Leila
+| bgcolor="#FFDEAD" | 3
+| bgcolor="#FFDEAD" | 229
+|-
+| 14 || {{flag|Lietuva}} || [[Angļu valoda|Angļu]] || [[LT United]] || We Are the Winners || Mēs esam uzvarētāji
+| bgcolor="#FFDEAD" | 6
+| bgcolor="#FFDEAD" | 168
+|-
+| 15 || {{flag|Apvienotā Karaliste}} || [[Angļu valoda|Angļu]] || Daz Sampson || Teenage Life || Pusaudžu dzīve
+| bgcolor="#FFDEAD" | 19
+| bgcolor="#FFDEAD" | 25
+|-
+| 16 || {{flag|Grieķija}} || [[Angļu valoda|Angļu]] || Anna Vissi || Everything || Viss
+| bgcolor="#FFDEAD" | 9
+| bgcolor="#FFDEAD" | 128
+|-bgcolor="#FFDEAD"
+| 17 || {{flag|Somija}} || [[Angļu valoda|Angļu]]  || [[Lordi]] || Hard Rock Hallelujah || Smagais roks, aleluja || 1 || 292
+|-
+| 18 || {{flag|Ukraina}} || [[Angļu valoda|Angļu]] || [[Tīna Karola|Tina Karol]] || Show Me Your Love || Parādi man savu mīlu
+| bgcolor="#FFDEAD" | 7
+| bgcolor="#FFDEAD" | 145
+|-
+| 19 || {{flag|Francija}} || [[Franču valoda|Franču]] || Virginie Pouchin || Il Était Temps || Tas bij' laiks
+| bgcolor="#FFDEAD" | 22
+| bgcolor="#FFDEAD" | 5
+|-
+| 20 || {{flag|Horvātija}} || [[Horvātu valoda|Horvātu]] || Severina || Moja Štikla || Man stils || 13 || 56
+|-
+| 21 || {{flag|Īrija}} || [[Angļu valoda|Angļu]] || Brian Kennedy || Every Song Is A Cry For Love || Katra dziesma ir sauciens pēc mīlestības
+| bgcolor="#FFDEAD" | 10
+| bgcolor="#FFDEAD" | 93
+|-
+| 22 || {{flag|Zviedrija}} || [[Angļu valoda|Angļu]] || Carola || Invincible || Neuzrakstāmi
+| bgcolor="#FFDEAD" | 5
+| bgcolor="#FFDEAD" | 170
+|-
+| 23 || {{flag|Turcija}} || [[Turku valoda|Turku]] || Sibel Tüzün || Süperstar || Superzvaigzne || 11 || 91
+|-
+| 24 || {{flag|Armēnija}} || [[Angļu valoda|Angļu]] || André || Without Your Love || Bez tavas mīlas
+| bgcolor="#FFDEAD" | 8
+| bgcolor="#FFDEAD" | 129
+|-
+|}
+
+=== Valstis, par kuru dziesmām finālā balsoja Latvija ===
+* 12. {{flag|Krievija}} (2)
+* 10. {{flag|Lietuva}} (6)
+* 8. {{flag|Somija}} (1)
+* 7. {{flag|Zviedrija}} (5)
+* 6. {{flag|Norvēģija}} (14)
+* 5. {{flag|Ukraina}} (7)
+* 4. {{flag|Īrija}} (10)
+* 3. {{flag|Vācija}} (15)
+* 2. {{flag|Rumānija}} (4)
+* 1. {{flag|Apvienotā Karaliste}} (19)
+<!-- 
+== Balsojumu tabula ==
+=== Pusfināls ===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan="2" rowspan="2" |
+!colspan="39"|Balsojumu rezūltāts
+|-
+![[Punkti|Punkti]]
+![[Armēnija|Armēnija]]
+![[Bulgārija|Bulgārija]]
+![[Slovēnija|Slovēnija]]
+![[Andora|Andora]]
+![[Baltkrievija|Baltkrievija]]
+![[Albānija|Albānija]]
+![[Beļģija|Beļģija]]
+![[Īrija|Īrija]]
+![[Kipra|Kipra]]
+![[Monako|Monako]]
+![[Maķedonija|Maķedonija]]
+![[Polija|Polija]]
+![[Krievija|Krievija]]
+![[Turcija|Turcija]]
+![[Ukraina|Ukraina]]
+![[Somija|Somija]]
+![[Nīderlande|Nīdelande]]
+![[Lietuva|Lietuva]]
+![[Portugāle|Portugāle]]
+![[Zviedrija|Zviedrija]]
+![[Igaunija|Igaunija]]
+![[Bosnija|Bosnija un Hercegovina]]
+![[Islande|Islande]]
+![[Rumānija|Rumānija]]
+![[Dānija|Dānija]]
+![[Latvija|Latvija]]
+![[Horvātija|Horvātija]]
+![[Serbija|Serbija un Melnkalne]]
+![[Norēģija|Norvēģija]]
+![[Malta|Malta]]
+![[Šveice|Šveice]]
+![[Lielbritānija|Lielbritānija]]
+![[Francija|Francija]]
+![[Vācija|Vācija]]
+![[Spānija|Spānija]]
+![[Moldova|Moldova]]
+![[Isrāela|Isrāela]]
+![[Grieķija|Grieķija]]
+|- style="background:#ffdead;"
+!rowspan="24" |[[Valstis]]
+| style="text-align:left; background:#ffdead;"| '''Armēnija''' || style="text-align:right; background:#ffdead;"| '''150''' || style="text-align:left; background:#ffdead;"| || 8 ||  ||  || 7 || 3 || '''12''' ||  || '''12''' ||  ||  || 3 || '''12''' || 10 || 7 ||  || '''12''' ||  ||  || 3 ||  ||  ||  || 2 ||  ||  ||  ||  ||  ||  || 3 || 3 || '''12''' || 7 || '''12''' || 2 || 10 || 10 
+|-
+| style="text-align:left; background:#f2f2f2;"| Bulgāria || style="text-align:right; background:#f2f2f2;"| 36 ||  || style="text-align:left; background:#efefef;"| ||  ||  ||  || 8 ||  ||  || 8 ||  || 6 ||  ||  || 1 ||  ||  ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4 ||  || 5 ||  ||  || 3
+|-
+| style="text-align:left; background:#f2f2f2;"| Slovēnija || style="text-align:right; background:#f2f2f2;"| 49 || 2 ||  || style="text-align:left; background:#efefef;"| ||  || 2 || 7 ||  ||  ||  || 3 || 3 ||  ||  ||  || 2 || 1 ||  ||  ||  ||  ||  || 7 ||  ||  ||  ||  || 6 || 7 ||  || 5 ||  ||  ||  ||  ||  ||  || 4 || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Andora || style="text-align:right; background:#f2f2f2;"| 8 ||  ||  ||  || style="text-align:left; background:#efefef;"| ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8 ||  ||  || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Baltkrievija || style="text-align:right; background:#f2f2f2;"| 10 ||  ||  ||  ||  || style="text-align:left; background:#efefef;"| ||  ||  ||  ||  ||  ||  ||  || 6 ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3 ||  || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Albānija || style="text-align:right; background:#f2f2f2;"| 58 || 1 ||  || 1 ||  ||  || style="text-align:left; background:#efefef;"| ||  ||  ||  ||  || '''12''' ||  || 2 || 3 ||  ||  ||  ||  ||  || 2 ||  || 5 ||  ||  ||  ||  || 7 ||  || 3 ||  || 10 || 2 ||  || 3 ||  ||  ||  || 7
+|-
+| style="text-align:left; background:#f2f2f2;"| Beļģija || style="text-align:right; background:#f2f2f2;"| 69 ||  ||  || 5 || 7 ||  ||  || style="text-align:left; background:#efefef;"| || 5 || 1 || 6 ||  || 4 ||  ||  ||  || 3 || 7 || 2 || 2 || 5 || 3 ||  || 4 ||  || 3 ||  ||  ||  ||  || 7 ||  ||  || 3 ||  || 2 ||  ||  || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Īrija''' || style="text-align:right; background:#ffdead;"| '''79''' ||  ||  || 3 ||  ||  || 1 || 3 || style="text-align:left; background:#ffdead;"| ||  || 7 ||  || 2 || 1 ||  ||  || 4 || 3 || 4 || 4 || 1 || 6 ||  || 2 ||  || 5 || 4 ||  || 1 || 6 || 6 || 2 || 8 ||  ||  ||  || 1 || 5 || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Kipra || style="text-align:right; background:#f2f2f2;"| 57 || 7 || 2 ||  ||  || 1 || 4 ||  ||  || style="text-align:left; background:#efefef;"| || 10 ||  ||  ||  ||  || 3 ||  ||  ||  ||  ||  ||  ||  ||  || 4 ||  ||  ||  ||  ||  || 4 || 1 || 7 ||  || 2 ||  ||  ||  || '''12'''
+|-
+| style="text-align:left; background:#f2f2f2;"| Monako || style="text-align:right; background:#f2f2f2;"| 14 ||  ||  ||  || 3 ||  ||  ||  ||  ||  || style="text-align:left; background:#efefef;"| ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 2 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8 ||  ||  ||  ||  || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Maķedonija''' || style="text-align:right; background:#ffdead;"| '''76''' || 8 || 5 || 8 ||  ||  || '''12''' ||  ||  ||  ||  || style="text-align:left; background:#ffdead;"| ||  ||  || 8 ||  ||  ||  ||  ||  ||  ||  || 10 ||  || 1 ||  ||  || 8 || 10 ||  ||  || 6 ||  ||  ||  ||  ||  ||  || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Polija || style="text-align:right; background:#f2f2f2;"| 70 || 3 ||  ||  ||  || 4 ||  || 1 || 7 ||  ||  ||  || style="text-align:left; background:#efefef;"| || 5 ||  || 10 ||  || 2 || 8 ||  ||  ||  ||  || 3 ||  ||  || 3 ||  ||  || 2 || 1 ||  || 1 || 2 || 6 || 4 || 4 || 2 || 2
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Krievija''' || style="text-align:right; background:#ffdead;"| '''217''' || '''12''' || '''12''' || 4 || 4 || '''12''' ||  || 2 || 4 || 10 ||  || 5 || 8 || style="text-align:left; background:#ffdead;"| || 4 || '''12''' || 6 || 1 || '''12''' || 7 || 7 || 10 || 4 || 6 || 7 || 1 || '''12''' || 3 || 6 || 4 || 8 ||  ||  ||  || 5 ||  || '''12''' || '''12''' || 5
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Turcija''' || style="text-align:right; background:#ffdead;"| '''91''' ||  || 1 ||  ||  ||  || 6 || 8 ||  ||  ||  || 8 ||  ||  || style="text-align:left; background:#ffdead;"| ||  ||  || 10 ||  ||  ||  ||  || '''12''' ||  || 10 || 6 ||  ||  ||  || 1 ||  || 8 ||  || 10 || 8 ||  ||  || 3 || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Ukraina''' || style="text-align:right; background:#ffdead;"| '''146''' || 10 || 3 || 2 || 6 || 10 ||  ||  || 3 || 6 || 2 || 2 || 6 || 10 || 7 || style="text-align:left; background:#ffdead;"| || 2 ||  || 6 || 10 ||  || 4 || 3 || 5 || 8 ||  || 6 || 2 || 5 ||  || 3 ||  ||  ||  ||  || 3 || 10 || 8 || 4
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Somija''' || style="text-align:right; background:#ffdead;"| '''292''' ||  || 7 || 10 || 10 || 8 ||  || 10 || 10 || 7 ||  || 7 || '''12''' || 8 || 6 || 6 || style="text-align:left; background:#ffdead;"| || 6 || 10 || 8 || '''12''' || '''12''' || 8 || '''12''' || 5 || 10 || 8 || 10 || 8 || 8 || 10 || 5 || '''12''' || 5 || '''12''' || 10 || 5 || 7 || 8
+|-
+| style="text-align:left; background:#f2f2f2;"| Nīderlande || style="text-align:right; background:#f2f2f2;"| 22 || 4 ||  ||  || 2 ||  || 2 || 4 ||  || 3 ||  ||  ||  ||  || 5 ||  ||  || style="text-align:left; background:#efefef;"| || 1 ||  ||  ||  ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Lietuva''' || style="text-align:right; background:#ffdead;"| '''163''' ||  || 6 || 6 || 5 || 6 ||  || 7 || '''12''' || 4 || 4 || 4 || 10 || 4 || 2 || 5 || 8 || 5 || style="text-align:left; background:#ffdead;"| || 5 || 4 || 8 || 2 || 8 || 3 || 4 || 10 || 5 || 3 || 5 ||  ||  || 10 ||  || 1 ||  || 6 ||  || 1
+|-
+| style="text-align:left; background:#f2f2f2;"| Portugāle || style="text-align:right; background:#f2f2f2;"| 26 ||  ||  ||  || '''12''' ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || style="text-align:left; background:#efefef;"| ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7 ||  || 7 ||  ||  ||  ||  || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''Zviedrija''' || style="text-align:right; background:#ffdead;"| '''214''' || 6 || 4 || 7 || 8 || 5 || 5 || 5 || 8 || 2 || 8 || 1 || 7 || 3 ||  || 4 || 10 || 4 || 5 || '''12''' || style="text-align:left; background:#ffdead;"| || 7 || 6 || 10 || 6 || '''12''' || 5 || 4 || 4 || 10 || '''12''' || 4 || 6 ||  || 4 || 7 || 7 || 6 || 
+|-
+| style="text-align:left; background:#f2f2f2;"| Igaunija || style="text-align:right; background:#f2f2f2;"| 28 ||  ||  ||  ||  ||  ||  ||  || 1 ||  || 5 ||  ||  ||  ||  ||  || 5 ||  ||  ||  || 8 || style="text-align:left; background:#efefef;"| ||  ||  ||  || 2 || 7 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|- style="background:#ffdead;"
+| style="text-align:left; "| '''<small>{{nowrap|Bosnija un Hercegovina}}</small>''' || style="text-align:right; background:#ffdead;"| '''267''' || 5 || 10 || '''12''' || 1 || 3 || 10 || 6 || 6 || 5 || '''12''' || 10 || 5 || 7 || '''12''' || 8 || '''12''' || 8 || 3 || 6 || 10 || 1 || style="text-align:left; background:#ffdead;"| || 7 || '''12''' || 8 || 2 || '''12''' || '''12''' || '''12''' || 2 || '''12''' || 4 || 6 || 10 || 1 || 8 || 1 || 6
+|-
+| style="text-align:left; background:#f2f2f2;"| Islande || style="text-align:right; background:#f2f2f2;"| 62 ||  ||  ||  ||  ||  ||  ||  || 2 ||  || 1 ||  ||  ||  ||  ||  || 7 ||  || 7 || 3 || 6 || 5 || 1 || style="text-align:left; background:#efefef;"| ||  || 7 || 1 || 1 || 2 || 7 ||  ||  || 5 || 1 ||  || 6 ||  ||  || 
+|}
+ -->
+== Skatīt arī ==
+* [[Eirovīzijas dziesmu konkurss]]
+* [[Eirodziesma 2006]]
+<!-- 
+==Piezīmes un atsauces==
+{{atsauces}}
+ -->
+== Ārējās saites ==
+* [http://www.eurovision.tv/ Eirovīzijas oficiālā mājaslapa] {{en ikona}}
+* [https://web.archive.org/web/20021125005749/http://www.eirovizija.lv/ Latvijas Eirovīzijas oficiālā mājaslapa]
+
+{{Eirovīzija}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:2006. gads mūzikā|Eirovizzija]]
+[[Kategorija:Eirovīzijas dziesmu konkursi pēc gada]]

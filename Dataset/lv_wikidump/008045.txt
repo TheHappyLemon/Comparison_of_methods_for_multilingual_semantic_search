@@ -1,0 +1,66 @@
+{{Rakstnieka infokaste
+|        platums    = 
+|          vārds    = Ēzops
+|     vārds_orig    = Αἴσωπος
+|         attēls    = Aesop pushkin03.jpg
+|     att_izmērs    = 
+|  att_nosaukums    = 
+|     dz_dat_alt    = ap 620. gadu p. m. ē.
+|        dz_gads    = 
+|     dz_mēnesis    =
+|       dz_diena    = 
+|       dz_vieta    = 
+|      m_dat_alt    = 564. gads p. m. ē.
+|         m_gads    = 
+|      m_mēnesis    = 
+|        m_diena    = 
+|        m_vieta    = [[Delfi]], [[Senā Grieķija]]<br>([[Fokida]], {{GRE}})
+|   dzīves_vieta    = 
+|      pilsonība    = 
+|        tautība    = 
+|        dzimums    = V
+|         vecāki    = 
+|          brāļi    = 
+|          māsas    = 
+|   dzīvesbiedrs    = 
+|          bērni    = 
+|       paraksts    = 
+|     pseidonīms    = 
+|   nodarbošanās    = rakstnieks
+|rakstīšanas valoda = [[sengrieķu valoda]]
+|        periods    = 6. gs p. m. ē.
+|          žanri    = 
+|         temati    = 
+|   lit virzieni    = [[romantisms]]
+|slavenākie darbi   = Ēzopa fabulas
+|    ietekmējies    = 
+|     ietekmējis    = 
+|     alma_mater    = 
+|    apbalvojumi    = 
+|       piezīmes    = 
+|    kategorijas    = 
+}}
+
+'''Ēzops'''<ref>{{Publikācijas atsauce |author=Arturs Hansons |year=2019 |title=Sengrieķu īpašvārdu atveide latviešu valodā |series=''Antiquitas Viva: Studia Classica'' |publisher=[[LU Akadēmiskais apgāds]] |issue=5. krājums |issn=2255-9779 |isbn=978-9934-18-422-2 |page=38 |url=https://www.apgads.lu.lv/fileadmin/user_upload/lu_portal/apgads/PDF/Antiquitas_Viva/Nr._5/Book_Antiquitas_Viva_V__2019_.pdf#page=39 |quote=20. gadsimta pirmajā pusē bija sastopamas formas ''Ezops'' un ''Esops'' (sk. datubāzi periodika.lv); 1922. gadā izdotā Ernesta Felsberga Grieķu īpašvārdu pareizrakstība latviešu valodā norāda formu ''Ēsōps'' (Felsbergs, 1922, 19). Ā. Feldhūns 1974. gadā kā stabili ieviesušos formu norāda ''Ēsops'', taču jau dažus gadus vēlāk iznākušajā LPE ir ''Ēzops'' (LPE, 3. sēj., 1983, 246), kas arī tagad ir visizplatītākā forma.}}</ref> (''Αἴσωπος'', dzīvojis, iespējams, 6.gs. p.m.ē.) bija [[Senā Grieķija|sengrieķu]] [[fabula|fabulists]], viņš tradicionāli tiek uzskatīts par fabulas žanra aizsācēju. Saskaņā ar leģendu Ēzops bijis vergs, tomēr nekādu drošu ziņu par Ēzopa dzīvi nav. Jau antīkajā pasaulē par viņa iespējamo dzimšanas vietu izvirzīta [[Trāķija]], [[Ēģipte]], [[Atēnas]], [[Etiopija]], [[Sama]] un citas vietas. Ēzopu savos darbos minējuši [[Aristofans]], [[Platons]], [[Ksenofonts]] un [[Aristotelis]]. Apvienojot šajos darbos sniegto informāciju, jāsecina, ka Ēzops, iespējams, piederējis kādam Ksantam, kas dzīvojis Samas salā; Ēzops ticis atbrīvots un pēc tam dzīvojis [[Līdija]]s valdnieka [[Krēzs|Krēza]] galmā, kur ticies ar [[Solons|Solonu]]. [[Peisistrāts|Peisistrata]] valdīšanas laikā viņš varbūt viesojies Atēnās. Kā rakstījis grieķu vēsturnieks [[Hērodots]], Ēzops nogalināts [[Delfi|Delfos]], lai gan viņa nāves iemesls nav nosaukts.
+
+Ēzopa fabulām ir izteikti didaktisks un moralizējošs raksturs, tās ir vienkāršas un lakoniskas.
+
+== Atsauces ==
+{{atsauces}}
+
+== Literatūra ==
+* Ābrams Feldhūns (tulk.). ''Ēzopa fabulas.'' — Rīga: Daugava, 2004. {{ISBN|9984-741-61-3}}
+* ''Sengrieķu literatūras antoloģija.'' — Rīga: Zvaigzne, 1990. {{ISBN|5-405-00404-9}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{rakstnieks-aizmetnis}}
+
+{{sengrlit}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Sengrieķu rakstnieki]]
+[[Kategorija:Grieķu valodā rakstošie]]

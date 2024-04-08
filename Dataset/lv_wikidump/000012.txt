@@ -1,0 +1,262 @@
+{{Valsts infokaste
+|name =Eiropas Savienība
+|karoga_nosaukums = Eiropas karogs
+|karoga_attēls = Flag of Europe.svg
+|motto = "Vienotība dažādībā"<br />({{val|la|In varietate concordia}})
+|anthem = <div style="padding-bottom:0.2em;">"[[Anthem of Europe|Oda priekam]]"</div><center>[[Attēls:Anthem of Europe (US Navy instrumental short version).ogg]]</center>
+|kartes_attēls = Global European Union.svg
+|map_width = 220px
+|admin_center_type = {{lower|Politiskie centri}}
+|admin_center = {{unbulleted list |{{nobr|[[Brisele]] (galvaspilsēta)<ref>{{Tīmekļa atsauce |title=Brussels' EU capital role seen as irreversible|publisher=Euractiv.com|url=http://www.euractiv.com/pa/brussels-eu-capital-role-seen-ir-news-494302 |accessdate=28 October 2012 |quote=Brussels has become the de facto capital of the European Union}}</ref><ref>[http://ec.europa.eu/dgs/policy_advisers/archives/publications/docs/brussels_capital.pdf Brussels, Capital of European Union] {{Webarchive|url=https://web.archive.org/web/20130309175616/http://ec.europa.eu/dgs/policy_advisers/archives/publications/docs/brussels_capital.pdf |date={{dat|2013|03|09||bez}} }} - European Commission, 2001.</ref>}} |[[Luksemburga (pilsēta)|Luksemburga]] |[[Strasbūra]]}}
+|lielākā_pilsēta = [[Parīze]]
+|valsts_valodas = [[Eiropas Savienības valodas#Eiropas Savienības oficiālās valodas|24 valodas]]
+|membership_type = Dalībvalstis
+|membership =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 27 valstis
+  |{{flag|Austrija}}
+  |{{flag|Beļģija}}
+  |{{flag|Bulgārija}}
+  |{{flag|Čehija}}
+  |{{flag|Dānija}}
+  |{{flag|Francija}}
+  |{{flag|Grieķija}}
+  |{{flag|Horvātija}}
+  |{{flag|Igaunija}}
+  |{{flag|Itālija}}
+  |{{flag|Īrija}}
+  |{{flag|Kipra}}
+  |{{flag|Latvija}}
+  |{{flag|Lietuva}}
+  |{{flag|Luksemburga}}
+  |{{flag|Malta}}
+  |{{flag|Nīderlande}}
+  |{{flag|Polija}}
+  |{{flag|Portugāle}}
+  |{{flag|Rumānija}}
+  |{{flag|Slovākija}}
+  |{{flag|Slovēnija}}
+  |{{flag|Somija}}
+  |{{flag|Spānija}}
+  |{{flag|Ungārija}}
+  |{{flag|Vācija}}
+  |{{flag|Zviedrija}}
+ }}
+|       valsts_galvas_tituls = [[Eiropadomes prezidenti|Eiropadomes prezidents]]
+|               valsts_galva = [[Šarls Mišels]]
+|      valsts_galvas_tituls2 = [[ES komisijas prezidenti|Komisijas prezidents]]
+|              valsts_galva2 = [[Urzula fon der Leiena]]
+|       neatkarības_notikums = [[Parīzes līgums]]
+|         neatkarības_datums = 1952. gada 23. jūlijs
+|      neatkarības_notikums2 = [[Romas līgums]]
+|        neatkarības_datums2 = 1958. gada 1. janvāris
+|      neatkarības_notikums3 = [[Māstrihtas līgums]]
+|        neatkarības_datums3 = 1993. gada 1. novembris
+|official_website = {{URL|europa.eu}}
+|              platība_rangs = 7.<!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|                platība_km2 = 4 233 262 (pēc breksita)
+|             procenti_ūdens = 3,08 
+|         iedzīvotāju_skaits = 448 387 872 (pēc breksita)<ref name="estat">{{tīmekļa atsauce |title=Population on 1 January |url=https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en |website=ec.europa.eu |publisher=Eurostat |access-date=12 July 2023}}</ref>
+|   iedzīvotāju_skaits_rangs = 3.<!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|    iedzīvotāju_skaita_gads = 2020
+|   apdzīvotības_blīvums_km2 = 106<!--446,834,579 / 4,233,262km2 = 106 people/km2 (1 February 2019)-->
+| apdzīvotības_blīvums_rangs = <!--Calculated by taking out EU members from the list-->
+<!--IMF GDP data published in September 2011; so please do not use the IMF *projections* for 2015-->
+|                    IKP_PPP = $20,366 triljoni<ref>{{tīmekļa atsauce |title=World Economic Outlook Database, October 2019 |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=19&pr.y=6&sy=2019&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=946%2C137%2C122%2C181%2C124%2C918%2C138%2C964%2C182%2C960%2C423%2C935%2C968%2C128%2C939%2C936%2C961%2C172%2C132%2C184%2C134%2C174%2C144%2C944%2C178%2C136%2C941&s=PPPGDP&grp=0&a= |website=IMF.org |publisher=International Monetary Fund |accessdate=1 February 2020}}</ref>
+|              IKP_PPP_rangs = 1.<!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|               IKP_PPP_gads = 2020
+|         IKP_PPP_per_capita = $45 541
+|   IKP_PPP_per_capita_rangs = 15.<!--Calculated by taking out EU members from the list-->
+|GDP_nominal = $16,033 triljoni<ref>{{tīmekļa atsauce |title=World Economic Outlook Database, October 2019 |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=61&pr.y=4&sy=2019&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=946%2C137%2C122%2C181%2C124%2C918%2C138%2C964%2C182%2C960%2C423%2C935%2C968%2C128%2C939%2C936%2C961%2C172%2C132%2C184%2C134%2C174%2C144%2C944%2C178%2C136%2C941&s=NGDPD&grp=0&a= |website=IMF.org |publisher=International Monetary Fund |accessdate=1 February 2020}}</ref>
+|GDP_nominal_rank = 1.<!--Calculated by taking out EU members from the list-->
+|GDP_nominal_year = 2020
+|GDP_nominal_per_capita = $35 851
+|GDP_nominal_per_capita_rank = 14.<!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|                  Gini_gads = 2019
+|Gini_change =  <!--increase/decrease/steady-->
+|                       Gini = 30,9 <!--number only-->
+|Gini_ref = <ref name="eurogini">{{tīmekļa atsauce |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income - EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu/eurostat |access-date=11 December 2019}}</ref>
+|                 Gini_rangs = 
+|                   HDI_gads = 2018
+|HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,899<!--number only-->
+|HDI_ref = {{efn|Calculated using UNDP data for the member states with weighted population.<ref name="UN">{{tīmekļa atsauce|url=http://hdr.undp.org/en/composite/HDI|title=Human Development Report 2018 Summary|publisher=The United Nations|accessdate=19 March 2018}}</ref>}}
+|                  HDI_rangs = 13.<!--Calculated by taking out EU members from the list-->25th<!--Calculated with EU members in the list-->
+|                     valūta = 
+ {{hidden begin
+  |titlestyle = font-size:105%;font-weight:normal;
+  |title = {{pad|0.5em}}[[Eiro]] un cita
+  |bodystyle=font-size:90%;}}
+<table cellspacing="0" cellpadding="0">
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">[[Eiro zona]]{{nbsp|2}}{{nobold|{{small|(20 valstis)}}}}</tr>
+ <tr style="height:22px;"><th>{{flag|Eiropas Savienība}}<th>[[Eiro]]<th>€<th><code>[[ISO 4217|EUR]]</code></tr>
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">Citas valūtas</tr>
+ <tr style="height:22px;"><td>{{flag|Bulgārija}}<td>[[Bulgārijas leva|Leva]]<td>лв<td><code>[[ISO 4217|BGN]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Čehija}}<td>[[Čehijas krona|Krona]]<td>Kč<td><code>[[ISO 4217|CZK]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Dānija}}<td>[[Dānijas krona|Krona]]<td>kr<td><code>[[ISO 4217|DKK]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Ungārija}}<td>[[Ungārijas forints|Forints]]<td>Ft<td><code>[[ISO 4217|HUF]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Polija}}<td>[[Polijas zlots|Zlots]]<td>zł<td><code>[[ISO 4217|PLN]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Rumānija}}<td>[[Rumānijas leja|Leja]]<td><td><code>[[ISO 4217|RON]]</code></tr>
+ <tr style="height:22px;"><td>{{flag|Zviedrija}}<td>[[Zviedrijas krona|Krona]]<td>kr<td><code>[[ISO 4217|SEK]]</code></tr>
+</table>
+ {{hidden end}}
+|                 laika_zona = 
+|                 utc_offset = +0 līdz +2
+|             laika_zona_DST = 
+|             utc_offset_DST = +1 līdz +3
+|date_format = 
+|                     domēns = [[.eu]]
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 
+}}
+[[Attēls:Mont Blanc depuis la gare des glaciers.jpg|thumbnail|280px|ES augstākais punkts [[Monblāns]]]]
+[[Attēls:Map-Europe-Outermost-regions-fr.png|thumbnail|280px|ES valstu atkarīgās teritorijas (2018). Nav parādītas [[Fēru salas]]]]
+'''Eiropas Savienība (ES)''' ir 27 [[Eiropa]]s valstu ekonomiska un politiska apvienība.<ref name=NE>"[https://enciklopedija.lv/skirklis/122147-Eiropas-Savienība Eiropas Savienība]". [[Nacionālā enciklopēdija]]. (skatīts 03.10.2023)</ref> Tā darbojas uz valstu starpā noslēgtu līgumu pamata, kuros noteikti svarīgākie kopīgie mērķi, politikas, darbības instrumenti, tiesību sistēma, institūcijas un to funkcijas un lomas lēmumu pieņemšanas procesā. Šos līgumus dēvē par primārajiem ES tiesību aktiem. Par Eiropas Savienības veidošanās sākumu pieņemts uzskatīt [[1957]]. gadā noslēgto [[Romas līgums|Romas līgumu]], bet formāli Eiropas Savienība tika nodibināta [[1993]]. gadā, stājoties spēkā [[Māstrihtas līgums|Māstrihtas līgumam]], kurš paplašināja kopējās politikas pielietošanas sfēru, ietverot sevī [[1957]]. gadā nodibināto [[Eiropas Kopiena|Eiropas Kopienu]]. 2009. gada 1. decembrī stājās spēkā [[Lisabonas līgums]], kas izmainīja Eiropas Savienības darbību regulējošos pamatprincipus. ES ieguva juridiskas personas statusu un tās pārvaldē tika ievesti divi jauni amati — ES Eiropas padomes priekšsēdētājs un Eiropas Savienības augstais pārstāvis ārlietu un drošības politikas jomā.
+
+[[2023. gads|2023]]. gadā Eiropas Savienībā dzīvoja vairāk kā 448 miljoni iedzīvotāju.<ref name="estat" /> Pēc iedzīvotāju skaita Eiropas Savienība ierindojas 3. vietā pasaulē pēc [[Indija]]s un [[Ķīna]]s. ES bija lielākā [[Valstu uzskaitījums pēc nominālā IKP|pasaules ekonomika pēc kopējā nominālā IKP]] līdz 2014. gadam, kad to apsteidza ASV.
+2012. gadā Eiropas Savienībai tika piešķirta [[Nobela miera prēmija]] par ieguldījumu miera un izlīguma veicināšanā, demokrātijas un cilvēktiesību attīstībā Eiropā 60 gadu garumā.<ref>{{Tīmekļa atsauce |title=The Nobel Peace Prize 2012 |publisher=Nobel Foundation |url=http://www.nobelprize.org/nobel_prizes/peace/laureates/2012/}}</ref>
+
+ES valstīs [[9. maijs]] tiek svinēts kā [[Eiropas diena]].
+
+== Varas dalīšana jeb institucionālā struktūra ==
+Saskaņā ar Māstrihtas līgumu, ES strukturālo principu pamatu veido tā sauktie "trīs pīlāri": [[Eiropas Kopiena]], Kopējā ārējā un drošības politika un Tieslietas un iekšlietas.
+
+Varas dalīšana ES īstenojas starp [[Eiropas Komisija|Eiropas Komisiju]] kā izpildvaru, [[Eiropas Parlaments|Eiropas Parlamentu]] kā dalībvalstu pilsoņu pārstāvniecību ES līmenī, un [[Eiropas Savienības Ministru Padome|ES Ministru Padomi]] kā visu dalībvalstu valdību pārstāvniecību ar lēmēj- un izpildvaras tiesībām. Tad hierarhiski seko [[Eiropas Savienības Tiesa]] un [[Eiropas Revīzijas palāta]]. Papildus šīm nozīmīgu lomu spēlē vēl divas institūcijas: [[Ekonomikas un sociālo lietu komiteja]] un [[Reģionu komiteja]], kuru loma ir izstrādāt ieteikumus pārējo institūciju pieņemtajiem lēmumiem. Eiropas Savienībā ir izveidota arī vienota finanšu sistēma. Par tās funkcionēšanu atbild divas institūcijas: [[Eiropas Centrālā banka]] (ECB) un [[Eiropas Investīciju banka]] (EIB).
+
+Bez minētajām pastāv arī virkne tā saukto sekundāro institūciju. Vairums no tām ir aģentūru statusā, un tās atbild par konkrētām jomām, piemēram, [[Eiropas Vides aģentūra]], vai [[Eiropas Aviācijas drošības aģentūra]], [[Eiropas Savienības Pamattiesību aģentūra]] u.c.
+
+== Vēsture ==
+Sākotnējā ideja, dibinot valstu apvienību, kas tagad kļuvusi par Eiropas Savienību, bija Eiropas politiskās un ekonomiskās situācijas pārveidošana pēc Otrā pasaules kara un līdzīgu notikumu atkārtošanās novēršana, iesaistot Vāciju savstarpējās ekonomiskajās attiecībās tik cieši, lai vēlāk, iespējamas varas maiņas gadījumā, tā nespētu pavērsties pret pārējām Eiropas valstīm. Sākotnēji tika izveidota tirdzniecības ūnija, kas vēlāk pārrauga Eiropas Kopienā, un tad Eiropas Savienībā, apvienojot paralēli ekonomiskajām arī politiskās intereses.
+
+Politiskais klimats pēc [[Otrais pasaules karš|Otrā pasaules kara]] bija labvēlīgs [[Rietumeiropa]]s vienotībai, ko daudzi uzskatīja par alternatīvu ekstrēmajām nacionālisma formām, kas tikko jau bija izpostījušas kontinentu.<ref>{{Tīmekļa atsauce |title=The political consequences |publisher=[[European NAvigator]] |url=http://www.ena.lu/?doc=242&lang=3 |accessdate=2007-09-05 |archive-date=2011-08-09 |archive-url=https://web.archive.org/web/20110809230029/http://www.ena.lu/?doc=242&lang=3 }}</ref>
+
+Par [[Eiropas integrācija]]s sākumu uzskata [[Eiropas Ogļu un tērauda kopiena]]s izveidošanu [[1951]]. gadā, kas aizsākās ar Francijas ārlietu ministra [[Robērs Šūmanis|Roberta Šūmaņa]] oficiālo paziņojumu 1950. gada 9. maijā, ko ES valstīs atzīmē kā Eiropas dienu.
+Kopienas mērķis bija apvienot kontroli pār dalībvalstu, galvenokārt [[Francija]]s un [[Rietumvācija]]s, ogļu un tērauda industriju. Galvenā doma bija, ka, apvienojot kontroli pār galvenajām stratēģiskajām nozarēm, karš dalībvalstu starpā vairs nebūtu iespējams. Kopienas dibinātāji deklarēja to kā "pirmo soli uz federālu Eiropu". Citas dibinātājvalstis bija [[Itālija]] un trīs [[Benilukss|Beniluksa]] valstis [[Beļģija]], [[Nīderlande]] un [[Luksemburga]].
+
+Vēl divas kopienas tika nodibinātas [[1957]]. gadā: [[Eiropas Ekonomikas kopiena]] (EEK), kas iedibināja [[muitas savienība|muitas savienību]] un [[Eiropas Atomenerģijas kopiena]] sadarbībai [[atomenerģija]]s attīstībā. [[1967]]. gadā [[Apvienošanās līgums]] izveidoja vienotu šo triju kopienu institūciju, ko nosauca par Eiropas Kopienām, vai biežāk vienkārši par [[Eiropas Kopiena|Eiropas Kopienu]] (EK). Lai nodrošinātu garantētu pārtikas piegādi Eiropas Kopienai, 1957. gadā tika arī izstrādāti pamatprincipi kopējā lauksaimniecības produktu tirgus izveidei un tos nosauca par [[Kopējā lauksaimniecības politika|kopējo lauksaimniecības politiku]].
+
+[[1973]]. gadā notika pirmā Eiropas Kopienas paplašināšanās, kad tai pievienojās [[Dānija]], [[Īrija]] un [[Apvienotā Karaliste]]. Arī [[Norvēģija]] tajā pašā laikā veda pārrunas par pievienošanos, bet valsts iedzīvotāji to referendumā noraidīja. Pirmās tiešās [[Eiropas Parlaments|Eiropas Parlamenta]] vēlēšanas notika 1979. gadā.
+
+[[1981]]. gadā par Eiropas Kopienu dalībvalsti kļuva Grieķija, bet [[1986]]. gadā pievienojās Spānija un Portugāle. [[1985]]. gadā noslēgtais [[Šengenas līgums]] izveidoja atvērto robežu telpu starp dalībvalstīm.<ref name="Europa History 90-99">{{Tīmekļa atsauce |title=A Europe without frontiers |publisher=[[Europa (web portal)]] |url=http://europa.eu/abc/history/1990-1999/index_en.htm |accessdate=2007-06-25}}</ref> [[1986]]. gadā sāka lietot [[Eiropas karogs|Eiropas karogu]] un valstu vadītāji parakstīja [[Vienotās Eiropas akts|Vienotās Eiropas aktu]]. Šis līgums pārskatīja veidu, kā stājas spēkā kopējie lēmumi, sekmēja tirdzniecības barjeru atcelšanu un iedibināja lielāku Eiropas politisko kooperāciju.
+
+[[1990]]. gadā pēc [[Dzelzs priekškars|Dzelzs priekškara]] krišanas [[Vācijas Demokrātiskā Republika|VDR]] kļuva par Eiropas Kopienas dalībnieci apvienotās [[Vācija]]s sastāvā.<ref name="Europa History 80-89">{{Tīmekļa atsauce |title=1980-1989 The changing face of Europe - the fall of the Berlin Wall |publisher=[[Europa (web portal)]]| url=http://europa.eu/abc/history/1980-1989/index_en.htm |accessdate=2007-06-25}}</ref> Līdz ar paplašināšanos [[Centrālā un Austrumeiropa|Centrālās un Austrumeiropas reģionā]] kandidātvalstīm tika apstiprināti [[Kopenhāgenas kritēriji]].
+
+[[1993]]. gada [[1. novembris|1. novembrī]] stājās spēkā [[Māstrihtas līgums]].<ref>{{Tīmekļa atsauce |title=Treaty of Maastricht on European Union |url=http://europa.eu/scadplus/treaties/maastricht_en.htm |work=Activities of the European Union |publisher=[[Europa (web portal)]] |accessdate=2007-10-20 |archiveurl=https://web.archive.org/web/20071021040202/http://europa.eu/scadplus/treaties/maastricht_en.htm |archivedate=2007-10-21 }}; {{Grāmatas atsauce |last=Craig |first=Paul |coauthors=Grainne De Burca , P. P. Craig |title=EU Law: Text, Cases and Materials |edition = 4th ed. |year = 2006 |publisher=Oxford University Press |location = Oxford |isbn=978-0-19-927389-8 |pages=p15}}</ref> Šis līgums iedibināja kopienas pārskatīto struktūru un iepriekšējo nosaukumu "Eiropas Kopienas" oficiāli aizvietoja nosaukums "Eiropas Savienība". Eiropas Kopiena tagad veidoja vienu no trīs jaunās Eiropas Savienības [[ES pīlāri|pilāriem]], kas iekļāva sadarbību kopējā ārpolitikā un iekšpolitikā.
+
+[[1995]]. gadā ES pievienojās [[Austrija]], [[Zviedrija]] un [[Somija]]. [[1997]]. gadā [[Amsterdamas līgums]] uzlaboja [[Māstrihta]]s līgumu tādās jomās, kā demokrātija un ārpolitika. [[Amsterdama]]i [[2001. gads|2001]]. gadā sekoja [[Nicas līgums]], kas pārskatīja Romas un Māstrihtas vienošanās, lai sekmētu ES paplašināšanos uz austrumiem.
+[[2002. gads|2002]]. gadā 12 dalībvalstīs nacionālās valūtas aizvietoja ar [[eiro]].
+
+[[2004. gads|2004]]. gadā ES pievienojās 10 jaunas valstis: [[Latvija]], [[Igaunija]], [[Lietuva]], [[Polija]], [[Čehija]], [[Slovākija]], [[Slovēnija]], [[Ungārija]], [[Malta]] un [[Kipra]].<ref name="Europa History 00">{{Tīmekļa atsauce |title=A decade of further expansion |publisher=[[Europa (web portal)]] |url=http://europa.eu/abc/history/2000_today/index_en.htm |accessdate=2007-06-25 |archive-date=2007-06-15 |archive-url=https://web.archive.org/web/20070615031714/http://europa.eu/abc/history/2000_today/index_en.htm }}</ref> [[2007. gads|2007]]. gadā ES pievienojās [[Bulgārija]] un [[Rumānija]].
+2007. gadā eiro zonai pievienojās [[Slovēnija]], 2008. gada 1. janvārī [[Malta]] un [[Kipra]],<ref name="Europa History 00"/> bet 2009. gada 1. janvārī [[Slovākija]].
+2009. gada 1. decembrī stājās spēkā [https://web.archive.org/web/20080409132212/http://www.esia.gov.lv/lat/reformu_ligums/ Lisabonas līgums].
+2011. gadā Igaunija, 2014. gadā Latvija un 2015. gadā Lietuva pievienojās eiro zonai.
+2015. gada martā Eiropas komisijas prezidents [[Žans Klods Junkers]] paziņoja par savu atbalstu kopīgas [[Eiropas Savienības bruņotie spēki|Eiropas armijas]] izveidošanai.<ref>[http://www.delfi.lv/news/comment/comment/otto-ozols-vesturisks-notikums-pirmdien-gaisa-izkupeja-krievijas-imperijas-iluzija.d?id=45711192 Otto Ozols: Vēsturisks notikums — pirmdien gaisā izkūpēja Krievijas impērijas ilūzija] delfi.lv, 2015. gada 19. marts</ref>
+2016. gada 23. jūnijā notika [[referendums par Apvienotās Karalistes dalību Eiropas Savienībā]], kurā vairums vēlētāju nobalsoja par Apvienotās Karalistes izstāšanos no Eiropas Savienības.<ref>[http://www.delfi.lv/news/arzemes/brexit-briti-nobalsojusi-par-izstasanos-no-es.d?id=47600891 'Brexit': Briti nobalsojuši par izstāšanos no ES] delfi.lv, 2016. gada 24. jūnijā</ref> Izstāšanās notika 2020. gada 31. janvāra naktī.
+
+== Eiropas Savienības dalībvalstis ==
+[[Attēls:EC-EU-enlargement animation.gif|thumbnail|280px|Eiropas Savienības paplašināšanās]]
+{{columns  |width=300px
+|col1=
+=== 1950. gads ===
+Dibinātājvalstis ([[Šūmaņa deklarācija]]).
+
+* {{flag|Francija}}
+* {{flag|Vācija}}
+* {{flag|Itālija}}
+* {{flag|Nīderlande}}
+* {{flag|Beļģija}}
+* {{flag|Luksemburga}}
+|col2=
+=== 1973. gads ===
+* {{flag|Īrija}}
+* {{flag|Apvienotā Karaliste}} (līdz 2020. gadam)
+* {{flag|Dānija}} (1985. gadā tās pārraudzībā esošā [[Grenlande]] izstājās no [[Eiropas kopiena]]s)
+|col3=
+=== 1981. gads ===
+* {{flag|Grieķija}}
+
+=== 1986. gads ===
+* {{flag|Spānija}}
+* {{flag|Portugāle}}
+
+=== 1995. gads ===
+* {{flag|Austrija}}
+* {{flag|Somija}}
+* {{flag|Zviedrija}}
+|col4=
+=== 2004. gads ===
+* {{flag|Čehija}}
+* {{flag|Igaunija}}
+* {{flag|Kipra}}
+* {{flag|Latvija}}
+* {{flag|Lietuva}}
+* {{flag|Malta}}
+* {{flag|Polija}}
+* {{flag|Slovākija}}
+* {{flag|Slovēnija}}
+* {{flag|Ungārija}}
+|col5=
+=== 2007. gads ===
+* {{flag|Rumānija}}
+* {{flag|Bulgārija}}
+
+=== 2013. gads ===
+* {{flag|Horvātija}}
+}}
+
+==== Eiropas Savienības kandidātvalstis ====
+{{Eiropas valstu pārnacionālie veidojumi|size=280px|align=right}}
+Eiropas Savienībā ir astoņas oficiālās kandidātvalstis: [[Albānija]], [[Bosnija un Hercegovina]], [[Melnkalne]], [[Moldova]], [[Serbija]], [[Turcija]], [[Ukraina]] un [[Ziemeļmaķedonijas Republika|Ziemeļmaķedonija]]. Potenciālās kandidātvalsts statuss ir piešķirts  [[Gruzija]]i un [[Kosova]]i.<ref name="Europa Enlargement">{{Tīmekļa atsauce |title=European Commission - Enlargement - Candidate and Potential Candidate Countries |publisher=[[European Commission]] |url=https://ec.europa.eu/neighbourhood-enlargement/countries/check-current-status_lv |accessdate=2017-06-29 }}</ref>
+
+[[Šveice]] vienreiz (1992. gadā), bet [[Norvēģija]] divreiz (1972. un 1994. gadā) referendumā noraidīja iestāšanos Eiropas Savienībā. 1987. gadā [[Maroka]] oficiāli lūdza sākt iestāšanās sarunas ES, tomēr [[Eiropas Savienības Padome]] atteicās izskatīt šo jautājumu, pamatojot ar to, ka Maroka nav [[Eiropa]]s valsts. Kandidātvalsts [[Islande]]s valdība 2013. gadā pieņēma lēmumu par iesākto iestāšanās sarunu apturēšanu<ref>pēc 2013. gada parlamenta vēlēšanām jaunā Islandes valdība 2013. gada jūnijā pieņēma lēmumu par iestāšanās sarunu apturēšanu (skat. [http://euobserver.com/political/120501 Iceland's EU bid is over, commission told])</ref> un 2015. gada martā paziņoja par iestāšanās pieteikuma atsaukšanu.
+
+[[Krievijas 2022. gada iebrukums Ukrainā|Krievijas iebrukuma]] laikā 2022. gada 28. februārī [[Ukraina]] lūdza sākt sarunas par uzņemšanu Eiropas Savienībā.<ref>{{Tīmekļa atsauce|url=https://www.ndtv.com/world-news/ukrainian-president-volodymyr-zelensky-appeals-for-immediate-european-union-membership-for-ukraine-2794361|title=Ukraine Appeals For "Immediate" EU Membership: "I'm Sure It's Possible"|publisher=NDTV News}}</ref>
+
+== Sadarbības vai asociācijas līgumi ==
+[[Attēls:Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg|thumb|right|Eiropas Komisija (Brisele)]]
+ES vai tās priekštečorganizācijas ir parakstījusi sadarbības vai asociācijas līgumus ar [[Eiropas Ekonomiskā telpa|Eiropas Ekonomiskās telpas]] valstīm Islandi, Lihtenšteinu, Norvēģiju (1994), ar [[Vidusjūra]]s baseina valstīm Turciju (1964), Sīriju (1978), Tunisiju (1998), Izraēlu (2000), Maroku (2000), Jordāniju (2002), Ēģipti (2004), Alžīriju (2005), Libānu (2006), ar [[Centrāleiropas Brīvās tirdzniecības vienošanās]] valstīm Ziemeļmaķedoniju (2004), Albāniju (2006), Melnkalni (2010), Serbiju (2013), Bosniju un Hercegovinu (2015), ar [[GUAM]] valstīm Gruziju, Moldovu, Ukrainu (2014), kā arī ar Čīli (2005), Dienvidāfrikas Republiku (2004) un [[Centrālamerika]]s integrācijas sistēmu (''Central American Integration System'', 2012).
+
+== Valodas ==
+{{Pamatraksts|Eiropas Savienības valodas}}
+Eiropas Savienībā ir 24 [[valsts valoda|oficiālās valodas]], kā arī daudzas reģionālās valodas un minoritāšu valodas.
+Visplašāk lietotās valodas ir [[angļu valoda]] (51% pratēju), [[vācu valoda]] (32%) un [[franču valoda]] (24%). Lielākā daļa ES valodu pieder [[indoeiropiešu valodas|indoeiropiešu]] valodu saimei. Trīs galvenie atzari ir [[ģermāņu valodas|ģermāņu]], [[romāņu valodas|romāņu]] un [[slāvu valoda|slāvu]]. Ģermāņu valodas kā pirmās valodas lieto 38% ES iedzīvotāju (vācu — 18%, angļu — 13%, [[Nīderlandiešu valoda|nīderlandiešu]] — 4%, [[Zviedru valoda|zviedru]] — 2%, [[Dāņu valoda|dāņu]] valodu — 1%). Romāņu valodas kā pirmās valodas lieto 32% ES iedzīvotāju (itāļu — 13%, franču — 12%, spāņu — 8%, rumāņu — 5%, portugāļu valodu — 2%). Slāvu valodas kā pirmās valodas lieto 14% ES iedzīvotāju ([[Poļu valoda|poļu]] — 8%, [[Čehu valoda|čehu]] — 2%, [[Bulgāru valoda|bulgāru]] — 2%, [[Slovāku valoda|slovāku]] — 1% un [[Slovēņu valoda|slovēņu]] valodu — 1%).
+
+Pie mazākiem indoeiropiešu valodu atzariem pieder [[baltu valodas]] (latviešu un lietuviešu valodas), [[ķeltu valodas]] (īru valoda) un [[grieķu valoda]]. Pie [[Urāliešu valodas|urāliešu valodu saimes]] pieder [[Igauņu valoda|igauņu]], [[Somu valoda|somu]] un [[Ungāru valoda|ungāru]] valodas, pie [[semītu valodas|semītu valodu saimes]] pieder maltiešu valoda.
+
+== Vienotais tirgus ==
+Eiropas Savienības Vienotais tirgus ir Eiropas Savienības ekonomiskās integrācijas sastāvdaļa un tās izaugsmes nodrošinājums. Vienotā tirgus projekta mērķis, valstīm apzinoties nepieciešamību veicināt savu [[konkurētspēja|konkurētspēju]] pasaulē un nodrošināt Eiropas valstu [[Ekonomikas izaugsme|ekonomisko izaugsmi]] un sociālo labklājību, bija izveidot tirgu dalībvalstu starpā, kurā nepastāvētu iekšējās robežas un kurā nebūtu šķēršļu Eiropas Savienības pilsoņu, preču un kapitāla brīvai kustībai. Eiropas Savienības Vienotais tirgus tiek īstenots ar četru brīvību palīdzību: [[Brīva preču kustība Eiropas Savienībā|brīva preču kustība]], [[Brīva pakalpojumu kustība Eiropas Savienībā|brīva pakalpojumu kustība]], [[Pārvietošanās un dzīvesvietas izvēles brīvība|brīva personu kustība]], [[Brīvība veikt uzņēmējdarbību Eiropas Savienībā|brīvība veikt uzņēmējdarbību]]. Ar šo četru brīvību palīdzību jebkuras [[Eiropas Savienības dalībvalsts]] pavalstniekiem tiek dota iespēja veikt saimniecisko darbību jebkurā citā Eiropas Savienības dalībvalstī.<ref>O.Quintin, B.Favarel-Dapas. L’Europe sociale. Enjeux et réalité, coll.Réflexe Europe, La Documentation française, Paris,1999, p.60 — 63.</ref>
+
+== Skatīt arī ==
+* [[Eiropas Savienības paplašināšanās]]
+* [[Lisabonas līgums]]
+* [[Eiropas Savienības valodas]]
+* [[Eiroskeptiķi]]
+* [[Eiroskeptisms]]
+* [[Latvija Eiropas Savienībā]]
+* [[Prezidentūra Eiropas Savienības Padomē]]
+* [[Austrumu partnerība]]
+* [[Breksits]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20080405212803/http://www.esia.gov.lv/ Eiropas Savienības informācijas aģentūra]
+* [http://europa.eu/index_lv.htm Eiropas Savienības portāls]
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Elēna Džonsone Sirlīfa]]<br />[[Leimaha Gbovī]]<br />[[Tevekula Kermāna]]| virsraksts = [[Nobela miera prēmija]] | periods = 2012. gads | pēc = [[Ķīmisko ieroču aizlieguma organizācija]]}}
+{{kastes beigas}}
+
+{{ES valstis}}
+{{Nobela miera prēmijas laureāti}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Eiropas Savienība| ]]

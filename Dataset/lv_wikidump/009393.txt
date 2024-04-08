@@ -1,0 +1,51 @@
+{{nosaukums slīprakstā}}
+'''''Smarty''''' ir [[PHP]] [[tīmekļa šābloni|tīmekļa šablonu]] sistēma, kas ļauj atdalīt PHP kā [[biznesa loģika|biznesa loģiku]] no [[HTML]] kā [[prezentācijas loģika]]s un uzģenerē tīmekļa lappuses kodu, aizvietojot ''Smarty'' [[atzīme]]s ar saturu.
+
+== Koda piemērs ==
+Tā kā Smarty atdala PHP no HTML, nepieciešami divi faili.
+
+Pirmais ir Smarty šablona fails:
+<source lang="html+smarty">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{$virsraksts}</title>
+</head>
+
+<body> {* Šis ir komentārs, kas neparādīsies HTML kodā *}
+
+<p>{$kermenis}</p>
+
+</body><!-- Šis ir komentārs, kas parādīsies HTML kodā -->
+</html>
+</source>
+
+Otrais ir PHP koda fails:
+<syntaxhighlight lang="php">
+define('SMARTY_DIR', 'smarty-2.6.9/' );
+require_once(SMARTY_DIR . 'Smarty.class.php');
+
+$smarty = new Smarty;
+$smarty->config_dir = SMARTY_DIR;
+$smarty->template_dir = './tmpl';
+$smarty->compile_dir = './tmpl/compile';
+$smarty->compile_check = TRUE;
+$smarty->debugging = FALSE;
+
+$smarty->assign('virsraksts', 'Šis ir virsraksts.');
+$smarty->assign('kermenis', 'Šis ir ķermenis.');
+
+$smarty->display('index.tpl');
+</syntaxhighlight>
+
+== Skatīt arī ==
+* [[Satura pārvaldības sistēma]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20060610040434/http://smarty.php.net/ Oficiālā mājaslapa]
+
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Šablonu sistēmas]]

@@ -1,0 +1,37 @@
+{{Stadiona infokaste
+|nosaukums         = Olimpiskais centrs "Ventspils"
+|attēls            = 
+|valsts            = {{flag|Latvija}}
+|pilsēta           = Ventspils
+|adrese            = Sporta iela 7/9 <br /> LV-3601
+|celtniecība-no    = 
+|pabeigts          = 
+|atklāts           = 
+|izmaksas          = <!-- izmaksas miljonos latu -->
+|izmaksas1         = <!-- izmaksas miljonos eiro -->
+|izmaksas2         = <!-- izmaksas miljonos ASV dolāru -->
+|ēkas-garums       = <!-- hallei -->
+|stadiona-garums   = <!-- stadionam -->
+|ēkas-platums      = <!-- hallei -->
+|stadiona-platums  = <!-- stadionam -->
+|ēkas-augstums     = <!-- hallei -->
+|ēkas-apb-lauk     = <!-- hallei -->
+|stadiona-apb-lauk = <!-- stadionam -->
+|kopējā-platība    = ~7700
+|kubatūra          = 
+|arēnas-laukums    = 60x110
+|koncerts          = 
+|vieglatlētika     = 
+|futbols           = 3200
+|basketbols        = 
+|hokejs            = 
+|klubu-mājvieta    = [[FK Ventspils]]
+|mājas-lapa        = www.ocventspils.lv
+}}
+
+'''Olimpiskais centrs "Ventspils"''' ir daudzfunkcionāls sporta komplekss, kas atrodas [[Ventspils|Ventspilī]], [[Latvija|Latvijā]] un sastāv no vairākiem objektiem. [[futbols|Futbola]] stadionā mājas spēles aizvada [[FK Ventspils]]. Stadiona ietilpība ir apmēram 3200 vietas. Basketbola halles, kur mājas spēles aizvada [[BK Ventspils]], ietilpība pārsniedz 3000 vietas.
+
+
+{{aizmetnis}}
+[[Kategorija:Sporta būves Latvijā]]
+[[Kategorija:Sports Ventspilī]]

@@ -1,0 +1,74 @@
+{{Latvijas novada infokaste
+| nosaukums         = Medzes pagasts
+| karte             = Medzes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Medzes pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Medzes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Dienvidkurzemes novads
+| centrs            = Kapsēde
+| platība           = 109,2
+| iedzīvotāji       = 1558<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1558 / 109.2 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Medzes pagasts''' ir viena no [[Dienvidkurzemes novads|Dienvidkurzemes novada]] administratīvajām teritorijām, pie [[Baltijas jūra]]s. Robežojas ar sava novada [[Grobiņas pagasts|Grobiņas]], [[Dunalkas pagasts|Dunalkas]], [[Tadaiķu pagasts|Tadaiķu]] un [[Vērgales pagasts|Vērgales]] pagastiem, kā arī ar [[Liepāja]]s pilsētu. 
+
+== Daba ==
+Pagasta rietumu daļa atrodas [[Piejūras zemiene]]s [[Piemares līdzenums|Piemares līdzenumā]]. 2,1 kilometru garumā stiepjas Baltijas jūras pludmale. Austrumu daļā atrodas [[Rietumkursas augstiene]]s [[Vārtājas līdzenums]]. Augstākais punkts - 50,9 m vjl. - pagasta austrumu malā.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Ālande]]
+* [[Annas upīte]]
+* [[Lenkupe]]
+
+==== Ezeri ====
+* robežojas ar [[Tosmares ezers|Tosmares ezeru]]
+* [[Tāšu ezers]] (94,9 ha)
+
+==== Purvi ====
+* daļa [[Ploču purvs|Ploču purva]], purva kopējā platība 557 ha.
+
+== Vēsture ==
+Mūsdienu Medzes pagasta teritorijā vēsturiski atradās Kapsēdes muiža, (''Gut Kapsehden'', [[Kapsēde]]), Māteres muiža (''Gut Matern''), Medzes muiža (''Gut Medsen'', [[Medzes muiža]]), Talsu muiža (''Gut Talsen''), Tāšu muiža (''Gut Telsen'', [[Tāši]]).
+
+Medzes pagasts izveidojās ap 1900. gadu, apvienojot vienā Medzes ''(Medsen)'', Mātras ''(Matern)'', Kapsēdes ''(Kapsehden)'' un daļēji Pērkones muižu pagastus. 1923. gadā Medzes pagastam no [[Pērkones pagasts|Pērkones pagasta]] pievienoja [[Šķēde (Medzes pagasts)|Šķēdi]]. 1935. gada pagasta platība bija 95,2 km². 1945. gadā pagastā izveidoja Medzes un [[Kapsēdes ciems|Kapsēdes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Medzes ciemam pievienoja Kapsēdes ciemu, 1968. gadā - daļu [[Tāšu ciems|Tāšu ciema]] ([[kolhozs|kolhoza]] "Pirmrindnieks" teritorija).<ref>{{Latvijas PSR iedalījums}}</ref> Savukārt 1954. (kolhoza "Kopdarbs" teritorija) un 1975. gadā daļas Medzes ciema pievienoja [[Vērgales ciems|Vērgales ciemam]]. 1991. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Medzes pagastu kā administratīvo teritoriju iekļāva [[Grobiņas novads|Grobiņas novadā]]. 2021. gadā Grobiņas novadu iekļāva jaunajā [[Dienvidkurzemes novads|Dienvidkurzemes novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Kapsēde]] (pagasta centrs), [[Ievkalni]], [[Medzes muiža]], [[Piņķi (Medzes pagasts)|Piņķi]], [[Tāši]], [[Stirnas (Medzes pagasts)|Stirnas]], [[Šķēde (Medzes pagasts)|Šķēde]], [[Plienkalni]].
+
+=== Ievērojamas personības ===
+* [[Fricis Rokpelnis]] (1909-1969) - latviešu rakstnieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dienvidkurzemes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Grobiņas novads}}
+{{Liepājas rajons}}
+{{Liepājas apriņķis}}
+}}
+[[Kategorija:Grobiņas apriņķis]]
+[[Kategorija:Kurzeme]]
+[[Kategorija:Dienvidkurzemes novada pagasti]]
+[[Kategorija:Medzes pagasts| ]]

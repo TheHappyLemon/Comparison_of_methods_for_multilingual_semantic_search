@@ -1,0 +1,25 @@
+{{Vielas infokaste
+|              nosaukums = Fosgēns
+|                 attēls = [[Attēls:Phosgene-dimensions-2D.svg|120px]][[Attēls:Phosgene-3D-vdW.png|120px]]<br />Fosgēna struktūrformula ar starpatomu attālumiem un molekulas modelis
+|         citi nosaukumi = 
+|             CAS numurs = 
+|        ķīmiskā formula = COCl<sub>2</sub>
+|                molmasa = 98,9 g/mol
+|                blīvums = 4,248 kg/m<sup>3</sup>
+|    kušanas temperatūra = 155 K (-118&nbsp;°C)
+|   viršanas temperatūra = 281 K (8&nbsp;°C)
+|          šķīdība ūdenī = Sadalās<ref>http://www.inchem.org/documents/icsc/icsc/eics0007.htm</ref>
+| izoelektriskais punkts = 
+|                   citi = 
+}}
+
+'''Fosgēns''' (COCl<sub>2</sub>) ir nedegoša, toksiska, viegli sašķidrināma [[gāze]]. Fosgēns ir [[ogļskābe]]s dihloranhidrīds. To var iegūt, oksidējot [[hloroforms|hloroformu]] vai hlorējot [[oglekļa monoksīds|oglekļa monoksīdu]] (rūpnieciski fosgēnu ražo šādi). Fosgēns arī var veidoties, degot hloru saturošām organiskajām vielām.
+
+Fosgēns ir inde. To lietoja [[pirmais pasaules karš|Pirmajā pasaules karā]] ķīmiskajos ieročos. Fosgēns ir arī viena no [[polikarbonāts|polikarbonātu]] polimēru izejvielām.
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogleklis]]

@@ -1,0 +1,35 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:CaSO4.JPG|160px]]<br />Pulverveida kalcija sulfāta pushidrāts
+|       citi nosaukumi = 
+|           CAS numurs = 7778-18-9
+|      ķīmiskā formula = CaSO<sub>4</sub>
+|              molmasa = 136,142
+|              blīvums = 2960
+|  kušanas temperatūra = 1460&nbsp;°C
+| viršanas temperatūra = sadalās 
+| šķīdība ūdenī        = 2,1 mg/100 ml <br />(anhidrīts)
+|                 citi =
+}}
+'''Kalcija sulfāts''' (CaSO<sub>4</sub>) ir balta, kristāliska viela, kas slikti šķīst [[ūdens|ūdenī]]. Tas ir galvenais minerāla [[ģipsis|ģipša]] komponents. [[Kalcijs|Kalcija]] sulfāts var veidot vairākus kristālhidrātus.
+* CaSO<sub>4</sub> - [[anhidrīts]], dabā sastopams reti, jo hidratējas
+* CaSO<sub>4</sub>·0,5H<sub>2</sub>O - pushidrāts, galvenā celtniecības ģipša sastāvdaļa
+* CaSO<sub>4</sub>·2H<sub>2</sub>O - dihidrāts, galvenā [[ģipšakmens]] sastāvdaļa
+
+Pushidrāts piesaista ūdeni, veidojot dihidrātu. Dihidrātu karsējot līdz ~160&nbsp;°C, tas veido pushidrātu.
+
+Kalcija sulfātu var iegūt no [[kalcija hidroksīds|kalcija hidroksīda]] un [[sērskābe]]s, tas veidojas kā blakusprodukts, attīrot dūmgāzes no [[sēra dioksīds|sēra dioksīda]] (vispirms veidojas [[kalcija sulfīts]], kas viegli oksidējas par kalcija sulfātu).
+
+Kalcija sulfātu izmanto arī kā [[pārtikas piedevas|pārtikas piedevu]] '''E516'''.
+
+== Skatīt arī ==
+* [[Ģipsis]]
+* [[Selenīts (minerāls)]]
+
+{{commonscat|Calcium sulfate|Kalcija sulfāts}}
+
+{{ķīmija-aizmetnis}}
+
+[[Kategorija:Kalcijs]]
+[[Kategorija:Sulfāti]]
+[[Kategorija:Pārtikas piedevas]]
+[[Kategorija:Desikanti]]

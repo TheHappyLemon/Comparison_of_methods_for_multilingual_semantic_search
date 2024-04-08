@@ -1,0 +1,83 @@
+{{Citas nozīmes|apdzīvotu vietu|Engure (nozīmju atdalīšana)|Engure}}
+{{Apdzīvotas vietas infokaste
+| name                   = Engure
+| settlement_type        = Lielciems
+| image_skyline          = Engures osta.jpg
+| image_caption          = Engures osta
+| pushpin_map            = Latvia
+| subdivision_type       = Valsts
+| subdivision_type1      = Novads
+| subdivision_type2      = Pagasts
+| subdivision_name       = {{LAT}}
+| subdivision_name1      = [[Tukuma novads]]
+| subdivision_name2      = [[Engures pagasts]]
+| established_title      = <!-- Pirmoreiz minēts -->
+| established_date       = 1245
+| established_title2     = 
+| established_date2      = 
+| area_total_km2         = 3,6
+| area_land_km2          = <!-- var ielikt teritoriālplānošanā noteikto platību -->
+| population_as_of       = 2013
+| population_footnotes   = <ref>[http://vietvardi.lgia.gov.lv/vv/to_www_obj.objekts?p_id=3302&p_back=0** LĢIA vietvārdu datubāze]</ref>
+| population_total       = 1572
+| population_density_km2 = <!-- apdzīvotības blīvums -->
+| latd  = 57 | latm  = 09 | lats  = 40 | latNS  = N
+| longd = 23 | longm = 13 | longs = 47 | longEW = E
+| elevation_footnotes    = <!-- piezīmes par augstumu vjl -->
+| elevation_m            = <!-- augstums vjl (var ņemt no Google Earth) -->
+| website                = <!-- mājaslapa; ja atšķirīga no pagasta/novada lapas -->
+| postal_code_type       = Pasta nodaļa
+| postal_code            = LV-3113 Engure
+| footnotes              = <!-- specpiezīmes -->
+}}
+
+'''Engure''' ir [[ciems]] [[Tukuma novads|Tukuma novada]] ziemeļaustrumos, [[Rīgas līcis|Rīgas līča]] piekrastē, [[Engures pagasts|Engures pagasta]] centrs.
+
+2013. gadā Engurē bija 1572 iedzīvotāji. Netālu no Engures tek [[Ķīšupīte (Rīgas līcis)|Ķīšupīte]] un [[Engures upe]], 6 km attālumā atrodas [[Engures ezers]], kas ir viens no lielākajiem ezeriem [[Latvija|Latvijā]]. Engurē atrodas [[Engures osta]], pasta nodaļa, pagasta pārvalde, skola, bibliotēka, ambulance, bāka, kultūras nams, veikali, kafejnīca, kempings un netālu no centra arī degvielas uzpildes stacija.
+
+== Vēsture ==
+Engures nosaukums pirmo reizi rakstos minēts 1245. gadā [[Vācu ordenis|Vācu ordeņa]] mestra vietnieka [[Eberhards no Zainas|Eberharda]] un [[Kurzemes bīskapija]]s bīskapa Henriha vienošanās aktā par zemju sadalīšanu.<ref>{{Grāmatas atsauce|title=Latvijas pagasti. Enciklopēdija.|last=|first=|publisher=A/S Preses nams|year=2001—2002|isbn=9984-00-412-0|location=Rīga|pages=}}</ref>
+<!-- == LU fonda mecenāts ==
+Engures novada pašvaldība ir Latvijas Universitātes fonda sudraba mecenāts. Atbalsta LU kopš 2014. gada, kad tika izveidota stipendija sava novada jauniešu atbalstam, kuri uzsāk pamatstudijas kādā no Latvijas augstskolām, izpildot kritērijus, atbalsts tiek sniegts visu pamatstudiju laiku.<ref>{{Tīmekļa atsauce|url=https://www.fonds.lv/lepojamies/mecenati/sudraba-mecenati/engures-novada-pasvaldiba/|title=Engures novada pašvaldība|website=www.fonds.lv|access-date=2020-04-16}}</ref> -->
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+| align = none
+| cols = 2
+| graph-pos = bottom
+|1970|999
+|1979|1279
+|1989|1618
+|2000|1599
+|2011|1371
+|2021|1318
+}}
+== Attēlu galerija ==
+<gallery>
+Attēls:Engure. Mācītāja muiža.jpg|Mācītāja muiža Engurē
+Attēls:Engures vidusskola 2.jpg|Engures vidusskola
+Attēls:Engures osta - harbor - panoramio (5).jpg|Engures osta
+Attēls:Engure Church 2006-08.jpg|Engures luterāņu baznīca
+Attēls:Engures mols - Guntars Mednis - Panoramio.jpg|Engures mols
+</gallery>
+
+=== Attālumi līdz dažām pilsētām ===
+* [[Rīga]] — 71 km;
+* [[Tukums]] — 24 km;
+* [[Talsi]] — 47 km;
+* [[Jūrmala]] — 39 km.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Engures pagasta ciemi}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Latvijas pagastu centri]]
+[[Kategorija:Latvijas lielciemi]]
+[[Kategorija:Tukuma novada ciemi]]

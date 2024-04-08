@@ -1,0 +1,88 @@
+[[Attēls:Lieli_rezistori.jpg|thumb|300px|right|Lieljaudas rezistori ar samazinātu induktivitāti. Lieto kā antenas ekvivalentu radioraidītāju regulēšanai.]]
+'''Rezistors''' (no {{val|la|resistere}} — 'pretoties') ir pasīvais [[elektriskā ķēde|elektrisko ķēžu]] elements, kam piemīt aktīvā (omiskā) [[elektriskā pretestība|pretestība]] un kas paredzēts vēlamās pretestības iegūšanai elektriskajā ķēdē, lai pārdalītu un regulētu elektrisko enerģiju starp shēmas elementiem vajadzīgās [[strāva]]s vai [[spriegums|sprieguma]] vērtības iegūšanai.
+Rezistorus bieži dēvē vienkārši par '''pretestībām''', kas var radīt pārpratumus, tādēļ pareizāk ir terminu [[elektriskā pretestība|'pretestība']] lietot tikai ķēdes elementa raksturošanai.<ref>{{Grāmatas atsauce |title=Anglicismi latviešu valodā |author=Juris Baldunčiks |authorlink=Juris Baldunčiks |url=http://gramatas.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp%7cissue:/g_001_0304059354%7carticle:DIVL702%7cpage:369%7cissueType:B |year=1989 |publisher=[[Zinātne (izdevniecība)|Zinātne]] |location=Rīga |isbn=5-7966-0078-8 |page=365 |access-date={{dat|2020|11|15||bez}} |archive-date={{dat|2019|09|02||bez}} |archive-url=https://web.archive.org/web/20190902065147/http://gramatas.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp%7cissue:/g_001_0304059354%7carticle:DIVL702%7cpage:369%7cissueType:B }}</ref>
+Rezistori mēdz būt ar pastāvīgu pretestības vērtību vai arī ar maināmu vērtību ([[maiņrezistors|maiņrezistori]] jeb potenciometri un [[reostats|reostati]]).
+
+== Rezistoru īpašības ==
+
+=== Pretestība ===
+[[Attēls:Resistor symbol IEC.svg|thumb|Rezistora shematiskais apzīmējums]]
+Rezistora svarīgākais raksturlielums ir tā elektriskā pretestība. Pretestības pamatmērvienība ir [[oms]]. Parasti praksē lietojamo rezistoru pretestība ir no 1 oma līdz 10 megaomiem. Dažādu speciālu rezistoru pretestība var būt no oma daļām līdz desmitiem un simtiem gigaomu un pat teraomiem.
+
+Lai iegūtu lielāku pretestību, var [[virknes slēgums|saslēgt virknē]] vairākus rezistorus.
+
+Lai iegūtu mazāku pretestību, var [[paralēlais slēgums|saslēgt paralēli]] vairākus rezistorus.
+
+Pretestības vērtību, kas apzīmēta (iekodēta) uz rezistora korpusa, sauc par nominālo pretestību. Dažādu tipu rezistoriem var būt dažāda lieluma pielaide nominālajai pretestībai.
+[[Attēls:Dazhaadi_rezistori.jpg|thumb|200px|right|Dažādi rezistori.]]
+
+=== Jauda ===
+
+Rezistora nominālā jauda ir lielākā [[jauda]], kuru rezistors var ilgstoši izkliedēt, saglabājot savus parametrus noteiktajās robežās (t.i. nepārkarstot). Praksē lietojamiem rezistoriem jauda var būt no 0,01 līdz 500 [[vats|vatiem]]. Parasti, jo jaudīgāks ir rezistors, jo lielāki ir tā izmēri.
+
+=== Robežspriegums ===
+
+Robežspriegums ir maksimālais pieļaujamais elektriskā [[spriegums|sprieguma]] kritums uz rezistora. Ja to pārsniedz, var notikt caursite starp atsevišķām rezistora daļām. Šis spriegums var būt atkarīgs no atmosfēras spiediena.
+
+=== Temperatūras koeficients ===
+
+Pretestības temperatūras koeficients ir rezistora pretestības relatīvā izmaiņa, rezistora [[temperatūra]]i izmainoties par vienu grādu. [[termorezistors|Termorezistoriem]] ir sevišķi liels un normēts temperatūras koeficients.
+
+=== Paštrokšņi ===
+
+Rezistoru paštrokšņi (nevēlamas haotiskas pretestības izmaiņas, kas ietekmē sprieguma kritumu uz rezistora) sastāv no siltuma trokšņiem un strāvas trokšņiem. Siltuma troksnis ir atkarīgs no pretestības vērtības un rezistora temperatūras. Strāvas trokšņi rodas, strāvai plūstot caur rezistoru; tie raksturīgi rezistoriem, kas nav veidoti no stieples.
+
+=== Induktivitāte un kapacitāte ===
+
+Rezistora [[induktivitāte]] un [[Elektriskā kapacitāte|kapacitāte]] ir raksturlielumi, kas nosaka rezistora spēju strādāt pie augstām [[frekvence|frekvencēm]]. Rezistora kapacitāte sastāv no paša rezistora kapacitātes un tā izvadu kapacitātes. Induktivitāti nosaka rezistīvā elementa garums, korpusa izmēri, izvadu ģeometrija. Vislielākā induktivitāte un kapacitāte mēdz būt stieples rezistoriem, tādēļ tos nevar izmantot pie augstām frekvencēm. Stieples rezistora induktivitāti var samazināt, izmantojot speciālus uztīšanas veidus ([[bifilārais tinums]]).
+
+== Rezistoru tipi ==
+
+Rezistorus klasificē galvenokārt pēc rezistīvā elementa veida, jo no tā atkarīgi tā galvenie parametri.
+* Stieples rezistori (izgatavo no [[konstantāns|konstantāna]], [[nihroms|nihroma]], [[nikelīns|nikelīna]] vai citu augstomīgu sakausējumu stieples)
+* Metāla folijas rezistori
+* Masas vai plēves rezistori
+** Plānas plēves rezistori
+*** Metāldielektriskie rezistori
+*** Metāloksīda rezistori
+*** Metalizētie rezistori
+*** [[ogleklis|Oglekļa]] rezistori
+*** Boroglekļa rezistori
+** Biezas plēves rezistori
+*** Lakas-plēves rezistori
+*** Kermeta (keramiskie-metāliskie) rezistori
+*** Strāvu vadošas [[plastmasa]]s rezistori
+** Masas rezistori
+*** Rezistori ar organisku [[dielektriķis|dielektriķi]]
+*** Rezistori ar neorganisku [[dielektriķis|dielektriķi]]
+
+Pēc pretestības pielaides rezistorus iedala vispārīgas nozīmes, precīzos un sevišķi precīzos rezistoros. Vispārīgas nozīmes rezistoriem pielaide var būt 20%, 10% vai 5%, bet sevišķi precīziem rezistoriem tā var sasniegt pat 0,0005%. Jo precīzāks ir rezistors, jo stabilākiem jābūt visiem tā parametriem.
+
+Pēc aizsardzības no ārējiem faktoriem rezistori iedalās neizolētos, izolētos, hermetizētos un vakuuma rezistoros.
+
+Bez tam mūsdienās ir lietojami dažādi speciāli rezistori.
+* Augstsprieguma rezistori (paredzēti darbam pie lieliem spriegumiem — līdz desmitiem kilovoltu)
+* Lielas pretestības rezistori (mazjaudīgi, paredzēti vāju strāvu ķēdēm)
+* [[termorezistors|Termorezistori]]
+* [[fotorezistors|Fotorezistori]]
+
+== Rezistoru praktiskā pielietošana ==
+
+Rezistorus plaši izmanto gandrīz visās [[elektrotehnika]]s un [[elektronika]]s jomās. Kopā ar [[kondensators|kondensatoriem]] un [[induktivitātes spole|induktivitātes spolēm]] tie veido elektriskās ķēdes, kuru īpašības ir atkarīgas no [[frekvence]]s ([[svārstību kontūrs|svārstību kontūri]], filtri, impulsu formētāji, [[atgriezeniskā saite|atgriezeniskās saites]]). Rezistorus lieto kā [[šunts|šuntus]], sprieguma dalītājus, aktīvo elementu slodzes, enerģijas absorbētājus. Precīzos rezistorus izmanto mēraparātos, automātikas sistēmās, skaitļošanas iekārtās. Augstfrekvences rezistorus pielieto augstfrekvences ķēdēs, kabeļos, [[viļņvads|viļņvados]], jo tiem ir sevišķi maza kapacitāte un induktivitāte.
+
+== Skatīt arī ==
+
+* [[Reostats]]
+* [[Kondensators]]
+* [[Diode]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20070205095036/http://www.datuve.lv/raksts/1411/Elektronika:_pastavigie_rezistori/ Datuve.lv] — Elektronika: pastāvīgie rezistori {{latviski}}
+* [https://web.archive.org/web/20071222034553/http://www.audio.lv/index.php?option=com_content&task=view&id=79&Itemid=1 Audio.lv] — Rezistori
+
+== Atsauces ==
+{{atsauces}}
+{{Elektroniskie komponenti|state=expanded}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektronikas komponentes]]

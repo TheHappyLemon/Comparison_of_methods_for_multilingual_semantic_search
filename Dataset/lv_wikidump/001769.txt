@@ -1,0 +1,62 @@
+[[Attēls:Atisane3.png|thumb|350px|3D attēli (pa kreisi un vidū) un 2D attēls (pa labi) parāda molekulu uzbūvi no dažādiem atomiem.]] '''Molekula''' ir mazākā [[viela]]s daļiņa, kas nosaka vielas ķīmisko sastāvu un visas [[fizikāls ķermenis#fizikālās īpašības|fizikālās īpašības]]. Molekula parasti sastāv no diviem vai vairākiem [[atoms|atomiem]], kas saistīti ar dalītu [[elektrons|elektronu]] pāri, veidojot [[ķīmiskā saite|ķīmisko saiti]]. Molekula var sastāvēt no vienādiem atomiem (O<sub>2</sub>) vai dažādiem atomiem (H<sub>2</sub>O).
+
+Parasti ar vārdu ''molekula'' apzīmē atomu kopumu, ko kopā tur [[kovalentā saite|kovalentās saites]], lai arī ir vienatomu molekulas ([[cēlgāzes|cēlgāzēm]]).
+
+Viena no molekulas īpašībām ir empīriskā formula. Visās [[ūdens]] molekulās ir divi [[ūdeņradis|ūdeņraža]] atomi un viens [[skābeklis|skābekļa]] atoms, [[etanols]] vienmēr satur [[ogleklis|C]], [[ūdeņradis|H]] un [[skābeklis|O]] attiecībās 2:6:1, tomēr tas viennozīmīgi nenosaka molekulas struktūru, jo tādas pašas atomu attiecības (empīriskā formula) ir arī [[dimetilēteris|dimetilēterim]]. Molekulas ar vienādām empīriskajām formulām, bet dažādi sakārtotiem atomiem, sauc par [[izomēri]]em.
+
+== Molekulu eksistences pierādījums ==
+
+Pirmo pārliecinošo, kaut arī netiešo atomu un molekulu eksistences pierādījumu [[ķīmija|ķīmijā]] deva [[Anglija|angļu]] zinātnieks [[Džons Daltons]]. Daltons atklāja konstanto attiecību likumu. Saskaņā ar šo likumu, veidojoties jebkuram [[ķīmisks savienojums|ķīmiskam savienojumam]], reaģējošo vielu [[masa]]s ir stingri noteiktās attiecībās. Piemēram, no [[ūdeņradis|ūdeņraža]] un [[skābeklis|skābekļa]] veidojoties [[ūdens|ūdenim]], reaģējošā ūdeņraža un skābekļa masu attiecība vienmēr ir 1:8. Šīs fakts kļūst saprotams tikai tajā gadījumā, ja pieņem, ka, veidojoties sīkākajai ūdens daļiņai - molekulai - noteikts ūdeņraža atomu skaits savienojas ar noteiktu skābekļa atomu skaitu. Ūdens molekula sastāv no diviem ūdeņraža atomiem un viena skābekļa atoma. Tāpēc arī ūdeņraža un skābekļa masu attiecība, veidojoties ūdens molekulai, ir vienāda ar divkāršotu ūdeņraža atoma masas attiecību pret skābekļa atomu masu. Šī attiecība nekādos apstākļos nevar mainīties.
+
+20.gadsimtā, izmantojot uzlabotu aparatūru, ar dažādiem paņēmieniem izdevās tieši noteikt atomu un molekulu izmērus.
+
+== Molekulu novērošana ==
+
+Lielākā daļa molekulu ir pārāk mazas, lai tās varētu saskatīt ar neapbruņotu [[acs|aci]], jo tās ir veidotas no ierobežota skaita [[atoms|atomu]] un to lineārie izmēri ir salīdzinoši mazi, piemēram, ūdens molekulas diametrs ir aptuveni 3·10<sup>−10</sup> m un vienā [[mililitrs|mililitrā]] ūdens ir 33 [[sekstiljons|sekstiljoni]] (3,3·10<sup>22</sup>) molekulu. Arī ar parasto optisko [[mikroskops|mikroskopu]] bieži vien nevar saskatīt molekulas. Atsevišķas molekulas un atomus vislabāk var saskatīt tikai ar speciālu [[elektronmikroskops|elektronmikroskopu]] - [[tuneļmikroskops|tuneļmikroskopu]] vai [[jonu mikroskops|jonu projektoru]].
+
+[[Attēls:Jonu mikroskops.JPG|right|190px|thumb]]
+Jonu projektors sastāv no [[sfēra|sfēriska]] trauka, kuras [[rādiuss]] ir aptuveni 0,1 [[metrs|m]] (10 [[centimetrs|cm]]), un [[volframs|volframa]] adatas, kuras smaile novietota trauka centrā (sk. zīmējumu). Smailes liekuma rādiuss izveidots tik mazs, cik vien tas ar modernām [[metāls|metāla]] apstrādes metodēm iespējams (apmēram 50 [[nanometrs|nm]]). Sfēras iekšējā virsma pārklāta ar plānu vadītāja slāni, kas, līdzīgi [[televizors|televizora]] kineskopa ekrānam, spīd ātru daļiņu triecienu iedarbībā. Starp pozitīvi lādēto smaili un negatīvi lādēto vadītāja slāni rada dažus simtus [[volts|voltus]] lielu [[spriegums|spriegumu]]. Trauku piepilda ar [[hēlijs|hēliju]] nelielā [[spiediens|spiedienā]] 100 [[paskāls|Pa]].
+
+Volframa atomi uz smailes virsmas veido mikroskopiskus izciļņus. Kad haotiskā kustībā esošie hēlija atomi tuvojas volframa atomiem, [[elektriskais lauks]], kurš ir sevišķi spēcīgs smailes virsmas atomu tuvumā, atrauj no hēlija atomiem [[elektrons|elektronus]] un pārvērš šos atomus par [[jons|joniem]]. Hēlija joni atgrūžas no pozitīvi lādētās smailes un ar lielu [[ātrums|ātrumu]] kustas pa sfēras rādiusu. Saduroties ar sfēras virsmu, joni izraisa tā spīdēšanu. Tādējādi uz ekrāna rodas smailes atsevišķo volframa atomu izvietojuma palielināta aina. [[Attēls:FIM-ImageW 11kV.jpg|190px|right|thumb|Volframa atomu izvietojuma palielināta aina]]
+
+[[Attēls:Hēlija jonu trajektorijas.JPG|left|250px]] Projektora palielinājums ir vienāds ar sfēras rādiusa R attiecību pret smailes rādiusu r. Loka garums |ab| norāda attālumu starp blakus esošiem volframa atomiem, bet loka garums |AB| - [[attālums|attālumu]] starp to attēliem uz sfēras virsmas. Tā kā <math> |AB| = R \cdot \alpha \ </math>, kur <math> \alpha \ </math> ir [[leņķis]] starp blakus esošo jonu [[trajektorija|trajektorijām]], bet <math> |ab| = r \cdot \alpha \ </math>, tad palielinājums
+
+: <math> \Gamma = \frac{|AB|}{|ab|} = \frac{R}{r} = 2 \cdot 10^6 \ </math>,
+
+tas ir, sasniedz divus miljonus.
+
+== Molekulu izmēri ==
+
+Volframa atomi uz adatas smailes pieskaras cits pie cita. Tāpēc var pieņemt, ka atoma diametrs d ir vienāds ar attālumu starp blakus esošajiem volframa atomiem: <math> d = |ab| \ </math>.
+
+Izmērot loka garumu |AB|, iegūst apmēram 0,4 [[milimetrs|mm]]. Zinot [[jonu mikroskops|jonu mikroskopa]] palielinājumu un izmantojot sakarību <math> \Gamma = \frac{|AB|}{|ab|} \ </math>, iegūst aptuvenu volframa atoma diametru
+
+: <math> d = |ab| = \frac{|AB|}{\Gamma} = \frac{0,4}{2 \cdot 10^6} \approx 2 \cdot 10^{-7} mm \ </math>
+
+Atomu un molekulu izmēri, kuri noteikti pēc citām metodēm, ir aptuveni tādi paši.
+
+Šie izmēri ir tik mazi, ka tos ir grūti iztēloties. Piemēram, skaitli <math> 2,3 \cdot 10^{-10} m \ </math>, kas ir ūdeņraža molekulas izmērs, var aptvert ar šāda salīdzinājuma palīdzību — ja pildspalvu palielinātu tā, lai tā sniegtos no [[Zeme]]s līdz [[Mēness|Mēnesim]], tad ūdeņraža molekula, tikpat reižu palielināta, būtu pildspalvas lielumā.
+
+== Molekulu skaits ==
+
+Tā kā molekulu izmēri ir ļoti mazi, molekulu skaits jebkurā makroskopiskā [[fizikāls ķermenis|ķermenī]] ir milzīgs. Aptuveni izrēķināsim molekulu skaitu [[ūdens]] pilienā, kura [[masa]] 1 [[grams|g]] jeb 0,001 [[kilograms|kg]] un tātad [[tilpums]] 1 [[kubikcentimetrs|cm<sup>3</sup>]] jeb 0,000 001 [[kubikmetrs|m<sup>3</sup>]]. Ūdens molekulas diametrs ir <math> 3 \cdot 10^{-10} m \ </math>. Pieņemot, ka ūdens molekulas blīvi novietojušās cita pie citas un katra molekula aizņem <math> (3 \cdot 10^{-10})^3 \ </math> tilpumu, var aprēķināt, molekulu skaitu pilienā, izdalot piliena tilpumu ar vienas molekulas tilpumu:
+
+: <math> N = \frac{1 \cdot 10^{-6}}{(3 \cdot 10^{-10})^3} \approx 3,7 \cdot 10^{22} \ </math>.
+
+Katrā ieelpā cilvēks ievelk [[plaušas|plaušās]] tik daudz molekulu, ka tad, ja visas tās pēc izelpas vienmērīgi sadalītos [[Zemes atmosfēra|Zemes atmosfērā]], katrs planētas iedzīvotājs ieelpojot ievilktu apmēram divas tās molekulas, kuras bijušas jūsu plaušās.
+
+== Molekulu masa ==
+
+Atsevišķu [[molekula|molekulu]] un [[atoms|atomu]] masas ir ļoti mazas. Piemēram, 1 [[grams|g]] [[ūdens]] satur <math> 3,7 \cdot 10^{22} \ </math> molekulas. Tāpēc vienas ūdens molekulas masa <math> m_{oH_2O} \approx \frac{1}{3,7 \cdot 10^{22}} g \approx 3 \cdot 10^{-23} g \ </math>.
+
+Apmēram tādas pašas masas ir citu vielu molekulām, izņemot milzīgas [[organiskas vielas|organisko vielu]] molekulas, kuras satur tūkstošiem atomu.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://www.youtube.com/watch?language=lv&v=Jq_Ca-HKh1g Kāda ir molekulas forma? — Džordžs Zaidens un Čārlzs Mortons] {{lv ikona}}. ''TED-Ed'' (2013. gada 17. oktobris).
+
+{{autoritatīvā vadība}}
+{{Visuma struktūru veidi}}
+[[Kategorija:Ķīmija]]
+[[Kategorija:Molekulārfizika]]

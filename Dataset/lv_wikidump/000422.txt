@@ -1,0 +1,28 @@
+{{Navbox
+|name=ASEAN
+|title=[[ASEAN|Dienvidaustrumāzijas valstu asociācija (ASEAN)]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|group1=Dalībvalstis
+|list1=
+* [[Bruneja]]
+* [[Kambodža]]
+* [[Indonēzija]]
+* [[Laosa]]
+* [[Malaizija]]
+* [[Mjanma]]
+* [[Filipīnas]]
+* [[Singapūra]]
+* [[Taizeme]]
+* [[Vjetnama]]
+
+|group2=Novērotāja statuss
+|list2=
+* [[Austrumtimora]]
+* [[Papua-Jaungvineja]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

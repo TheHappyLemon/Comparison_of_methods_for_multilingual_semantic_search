@@ -1,0 +1,51 @@
+{{Apdzīvotas vietas infokaste
+| name = Vilkavišķi
+| image_skyline =Vilkaviškis1.JPG
+| imagesize = 300px
+| image_caption = Vilkavišķu iela
+| image_flag = 
+| image_shield = Vilkaviškis CoA.svg
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Vilkavišķu rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1660
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total =  	9851
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 38 
+| lats = 57 
+| latNS = N 
+| longd = 23 
+| longm = 02 
+| longs = 30
+| longEW = E
+| elevation_m = 52
+| website = http://www.vilkaviskis.lt/}}
+
+'''Vilkavišķi''' ({{val|lt|Vilkaviškis}}) ir pilsēta un [[Vilkavišķu rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s dienvidrietumos uz rietumiem no [[Marijampole]]s. Pilsēta izveidojusies divu upju — [[Saimene]]s un [[Vilkava]]s satekā.
+
+Pilsētas tiesības Vilkavišķiem 1670. gadā piešķīra Polijas karalis [[Jans II Kazimirs Vāsa|Jans II Kazimirs]]. Pēc [[Polijas dalīšanas|Polijas dalīšanām]] Vilkavišķi iekļāvās [[Prūsija|Prūsijā]], pēc [[Napoleona kari]]em — [[Krievija|Krievijā]].
+
+Vilkavišķos dzimusi lietuviešu aktrise [[Aiste Diržūte]]. Uz dienvidiem no pilsētas, Ožkabaļu ciemā dzimis lietuviešu atmodas darbinieks [[Jons Basanavičs]] (1851—1927), bet uz austrumiem no pilsētas — Paežeru ciemā dzimis Lietuvas valsts himnas „[[Tautiskā dziesma]]” autors [[Vincs Kudirka]] (1858—1899).
+
+== Ārējās saites ==
+* {{Commons category-inline|Vilkaviškis|Vilkavišķi}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lietuvas pilsētas]]

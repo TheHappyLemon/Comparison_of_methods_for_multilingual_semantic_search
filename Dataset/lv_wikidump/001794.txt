@@ -1,0 +1,715 @@
+{{nosaukums slīprakstā}}
+{{Sporta līgas infokaste
+| nosaukums      = ''Copa América''
+| aktuāla_sezona = 2021. gada Copa América
+| logo           = Logo de la Conmebol Copa América.svg
+| pikseļi        = 
+| apraksts       =
+| sports         = [[Futbols]]
+| dibin          = 1916
+| moto           =
+| komandas       = 10
+| valsts         = [[Dienvidamerika]] ([[CONMEBOL]])
+| čempions       = {{fb|ARG}}<br />([[2021. gada Copa América|2021]]; 15. tituls)
+| čempions_visv  = {{fb|ARG}}<br />{{fb|URU}}<br />(15 tituli katrai)
+| mlapa          = {{URL|https://copaamerica.com}}
+}}
+
+'''''Copa América''''' ({{val|lv|Amerikas kauss}}) ir svarīgākais nacionālo izlašu turnīrs [[futbols|futbola]] komandām, kas ietilpst Dienvidamerikas [[CONMEBOL]] konfederācijā. Tas parasti notiek reizi četros gados, bet šis intervāls nav stingri noteikts.
+
+Turnīra dalībvalstis ir [[Brazīlija]], [[Argentīna]], [[Urugvaja]], [[Paragvaja]], [[Čīle]], [[Peru]], [[Ekvadora]], [[Bolīvija]], [[Kolumbija]] un [[Venecuēla]].
+
+== Turnīra vēsture ==
+''Copa América'' ir vecākais no mūsdienās notiekošajiem [[Futbols|futbola]] turnīriem pasaulē — tas pirmo reizi risinājās [[1916]]. gadā no 2. jūlija līdz 17. jūlijam un bija veltīts [[Argentīna]]s neatkarības 100 gadu jubilejai. Vienlaikus tika izveidota arī [[CONMEBOL]] federācija, un tas notika 9. jūlijā ([[Argentīna]]s neatkarības gadadienā).
+
+Līdz 1975. gadam šī turnīra nosaukums bija ''Campeonato Sudamericano de Selecciones'' (Dienvidamerikas valstu izlašu čempionāts). No 1975. līdz 1983. gadam turnīrs netika rīkots kādā konkrētā valstī — komandas cita ar citu spēlēja gan savā laukumā, gan viesos.
+
+Kopš 1993. gada piedalīties turnīrā katru reizi tiek uzaicinātas arī divas komandas no citām kontinentālajām federācijām. Līdz šim turnīrā kā uzaicinātās vienības startējušas: [[Kostarikas futbola izlase|Kostarika]] ([[Copa América 1997|1997]], [[Copa América 2001|2001]], [[Copa América 2004|2004]]), [[Hondurasas futbola izlase|Hondurasa]] ([[Copa América 2001|2001]]), [[Japānas futbola izlase|Japāna]] ([[Copa América 1999|1999]]), [[Meksikas futbola izlase|Meksika]] ([[Copa América 1993|1993]], [[Copa América 1995|1995]], [[Copa América 1997|1997]], [[Copa América 1999|1999]], [[Copa América 2001|2001]], [[Copa América 2004|2004]]) un [[ASV futbola izlase|ASV]] ([[Copa América 1993|1993]], [[Copa América 1995|1995]]). [[Kanādas futbola izlase|Kanāda]] tika uzaicināta piedalīties [[Copa América 2001]], taču atteicās drošības apsvērumu dēļ.
+
+== Rezultāti ==
+
+{| class="wikitable" style="text-align:center;width:100%"
+|-
+!colspan="13"|Dienvidamerikas čempionāts
+|-
+!width=2%|#
+!width=5%|Gads
+!width=11%|Rīkotāji
+!rowspan="30" style="width:1%;background:#fff"|
+!width=14%|Čempioni
+!width=10%|Rezultāts
+!width=14%|2. vieta
+!rowspan="30" style="width:1%;background:#fff"|
+!width=14%|3. vieta
+!width=10%|
+!width=14%|4. vieta
+!rowspan="30" style="width:1%;background:#fff"|
+!width=4%|Komandu skaits
+|-
+|1.
+|1916 <br />{{DetailsLink|1916. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|BRA|1889}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|- style="background:#D0E6FF"
+|2.
+|1917 <br />{{DetailsLink|1917. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|BRA|1889}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|-
+|3.
+|1919 <br />{{DetailsLink|1919. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Brazīlija|1889}}
+|'''{{fb-big|BRA|1889}}'''
+|'''1:0'''{{efn|name=Papildu spēle|Tā kā abas komandas turnīrā ieguva vienādu punktu skaitu, tituls tika noskaidrots papildu spēlē.}}<br />({{piezīme|pap.|papildlaikā}})
+|{{fb-big|URU}}
+|{{fb-big|ARG|alt}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|- style="background:#D0E6FF"
+|4.
+|1920 <br />{{DetailsLink|1920. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|BRA|1889}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|-
+|5.
+|1921 <br />{{DetailsLink|1921. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|4
+|- style="background:#D0E6FF"
+|6.
+|1922 <br />{{DetailsLink|1922. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Brazīlija|1889}}
+|'''{{fb-big|BRA|1889}}'''
+|'''3:0'''{{efn|name=Papildu spēle}}
+|{{fb-big|PAR|1842}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|5
+|-
+|7.
+|1923 <br />{{DetailsLink|1923. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|PAR|1842}}
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|4
+|- style="background:#D0E6FF"
+|8.
+|1924 <br />{{DetailsLink|1924. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|PAR|1842}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|-
+|9.
+|1925 <br />{{DetailsLink|1925. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|PAR|1842}}
+|''apļa turnīrs''
+|{{n/a}}
+|3
+|- style="background:#D0E6FF"
+|10.
+|1926 <br />{{DetailsLink|1926. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|CHI}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|5
+|-
+|11.
+|1927 <br />{{DetailsLink|1927. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Peru|1825}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|{{fb-big|PER|1825}}
+|''apļa turnīrs''
+|{{fb-big|BOL}}
+|4
+|- style="background:#D0E6FF"
+|12.
+|1929 <br />{{DetailsLink|1929. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|PER|1825}}
+|4
+|-
+|13.
+|1935 <br />{{DetailsLink|1935. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Peru|1825}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|PER|1825}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|4
+|- style="background:#D0E6FF"
+|14.
+|1937 <br />{{DetailsLink|1937. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|ARG|alt}}'''
+|'''2:0'''{{efn|name=Papildu spēle}}
+|{{fb-big|BRA|1889}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|6
+|-
+|15.
+|1939 <br />{{DetailsLink|1939. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Peru|1825}}
+|'''{{fb-big|PER|1825}}'''
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|{{fb-big|PAR|1842}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|5
+|- style="background:#D0E6FF"
+|16.
+|1941 <br />{{DetailsLink|1941. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|{{fb-big|CHI}}
+|''apļa turnīrs''
+|{{fb-big|PER|1825}}
+|5
+|-
+|17.
+|1942 <br />{{DetailsLink|1942. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG|alt}}
+|{{fb-big|BRA|1889}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|7
+|- style="background:#D0E6FF"
+|18.
+|1945 <br />{{DetailsLink|1945. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|CHI}}
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|7
+|-
+|19.
+|1946 <br />{{DetailsLink|1946. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Argentīna|alt}}
+|'''{{fb-big|ARG|alt}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|PAR|1842}}
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|6
+|- style="background:#D0E6FF"
+|20.
+|1947 <br />{{DetailsLink|1947. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Ekvadora}}
+|'''{{fb-big|ARG}}'''
+|''apļa turnīrs''
+|{{fb-big|PAR|1842}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|8
+|-
+|21.
+|1949 <br />{{DetailsLink|1949. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Brazīlija|1889}}
+|'''{{fb-big|BRA|1889}}'''
+|'''7:0'''{{efn|name=Papildu spēle}}
+|{{fb-big|PAR|1842}}
+|{{fb-big|PER|1825}}
+|''apļa turnīrs''
+|{{fb-big|BOL}}
+|8
+|- style="background:#D0E6FF"
+|22.
+|1953 <br />{{DetailsLink|1953. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Peru}}
+|'''{{fb-big|PAR|1842}}'''
+|'''3:2'''{{efn|name=Papildu spēle}}
+|{{fb-big|BRA|1889}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|7
+|-
+|23.
+|1955 <br />{{DetailsLink|1955. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|ARG}}'''
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|{{fb-big|PER}}
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|6
+|- style="background:#D0E6FF"
+|24.
+|1956 <br />{{DetailsLink|1956. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|CHI}}
+|{{fb-big|ARG}}
+|''apļa turnīrs''
+|{{fb-big|BRA}}
+|6
+|-
+|25.
+|1957 <br />{{DetailsLink|1957. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Peru}}
+|'''{{fb-big|ARG}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|URU}}
+|''apļa turnīrs''
+|{{fb-big|PER}}
+|7
+|- style="background:#D0E6FF"
+|26.
+|1959 <br />{{DetailsLink|1959. gada Dienvidamerikas čempionāts futbolā (Argentīna)}}
+|align=left| {{flag|Argentīna}}
+|'''{{fb-big|ARG}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1889}}
+|{{fb-big|PAR|1954}}
+|''apļa turnīrs''
+|{{fb-big|PER}}
+|7
+|-
+|27.
+|1959 <br />{{DetailsLink|1959. gada Dienvidamerikas čempionāts futbolā (Ekvadora)}}
+|align=left| {{flag|Ekvadora}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG}}
+|{{fb-big|BRA|1889}}
+|''apļa turnīrs''
+|{{fb-big|ECU}}
+|5
+|- style="background:#D0E6FF"
+|28.
+|1963 <br />{{DetailsLink|1963. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Bolīvija}}
+|'''{{fb-big|BOL}}'''
+|''apļa turnīrs''
+|{{fb-big|PAR|1954}}
+|{{fb-big|ARG}}
+|''apļa turnīrs''
+|{{fb-big|BRA|1960}}
+|7
+|-
+|29.
+|1967 <br />{{DetailsLink|1967. gada Dienvidamerikas čempionāts futbolā}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|''apļa turnīrs''
+|{{fb-big|ARG}}
+|{{fb-big|CHI}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1954}}
+|6
+|}
+{| class="wikitable" style="text-align:center;width:100%"
+|-
+!colspan="13"|''Copa América''
+|-
+!rowspan="2" width=2%|#
+!rowspan="2" width="5%"|Gads
+!rowspan="2" width="10%"|
+!width="1%" rowspan=23 bgcolor=ffffff|
+!colspan="3"|Fināls
+!width="1%" rowspan=23 bgcolor=ffffff|
+!colspan="3" rowspan="2"|Pusfinālu zaudētāji
+!width="1%" rowspan=23 bgcolor=ffffff|
+!rowspan="2" width="4%"|Komandu skaits
+|-
+!width="14%"|Čempioni
+!width="10%"|Rezultāts
+!width="14%"|2. vieta
+|-
+|30.
+|1975 <br />{{DetailsLink|1975. gada Copa América}}
+|align=left|—
+|'''{{fb-big|PER}}'''
+|'''0:1, 2:1'''<br /><small>Papildspēle: '''1:0'''</small>
+|{{fb-big|COL}}
+|colspan="3"|{{fb|BRA|1968}} / {{fb|URU}} 
+|10
+|- style="background:#D0E6FF"
+|31.
+|1979 <br />{{DetailsLink|1979. gada Copa América}}
+|align=left|—
+|'''{{fb-big|PAR|1954}}'''
+|'''3:0,  0:1'''<br /><small>Papildspēle: '''0:0''' ({{piezīme|pap.|papildlaikā}})</small>
+|{{fb-big|CHI}}
+|colspan="3"|{{fb|BRA|1968}} / {{fb|PER}}
+|10
+|-
+|32.
+|1983 <br />{{DetailsLink|1983. gada Copa América}}
+|align=left|—
+|'''{{fb-big|URU}}'''
+|'''2:0, 1:1'''
+|{{fb-big|BRA|1968}}
+|colspan="3"|{{fb|PAR|1954}} / {{fb|PER}}
+|10
+|-
+!rowspan="2" width=2%|#
+!rowspan="2" width="5%"|Gads
+!rowspan="2" width="10%"|Rīkotāji
+!colspan="3"|Fināls
+!colspan="3"|Spēle par 3. vietu
+!rowspan="2" width="4%"|Komandu skaits
+|-
+!width="14%"|Zelts
+!width="10%"|Rezultāts
+!width="14%"|Sudrabs
+!width="14%"|Bronza
+!width="10%"|Rezultāts
+!width="14%"|4. vieta
+|- style="background:#D0E6FF"
+|33.
+|1987 <br />{{DetailsLink|1987. gada Copa América}}
+|align=left| {{flag|Argentīna}}
+|'''{{fb-big|URU}}'''
+|'''1:0'''
+|{{fb-big|CHI}}
+|{{fb-big|COL}}
+|'''2:1'''
+|{{fb-big|ARG}}
+|10
+|-
+|34.
+|1989 <br />{{DetailsLink|1989. gada Copa América}}
+|align=left| {{flag|Brazīlija|1968}}
+|'''{{fb-big|BRA|1968}}'''
+|''apļa turnīrs''
+|{{fb-big|URU}}
+|{{fb-big|ARG}}
+|''apļa turnīrs''
+|{{fb-big|PAR|1988}}
+|10
+|- style="background:#D0E6FF"
+|35.
+|1991 <br />{{DetailsLink|1991. gada Copa América}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|ARG}}'''
+|''apļa turnīrs''
+|{{fb-big|BRA|1968}}
+|{{fb-big|CHI}}
+|''apļa turnīrs''
+|{{fb-big|COL}}
+|10
+|-
+|36.
+|1993 <br />{{DetailsLink|1993. gada Copa América}}
+|align=left| {{flag|Ekvadora}}
+|'''{{fb-big|ARG}}'''
+|'''2:1'''
+|{{fb-big|MEX}}
+|{{fb-big|COL}}
+|'''1:0'''
+|{{fb-big|ECU}}
+|12
+|- style="background:#D0E6FF"
+|37.
+|1995 <br />{{DetailsLink|1995. gada Copa América}}
+|align=left| {{flag|Urugvaja}}
+|'''{{fb-big|URU}}'''
+|'''1:1''' <br />({{piezīme|11 m:|pēcspēles 11 m sitienos}} 5:3)
+|{{fb-big|BRA}}
+|{{fb-big|COL}}
+|'''4:1'''
+|{{fb-big|USA}}
+|12
+|-
+|38.
+|1997 <br />{{DetailsLink|1997. gada Copa América}}
+|align=left| {{flag|Bolīvija}}
+|'''{{fb-big|BRA}}'''
+|'''3:1'''
+|{{fb-big|BOL}}
+|{{fb-big|MEX}}
+|'''1:0'''
+|{{fb-big|PER}}
+|12
+|- style="background:#D0E6FF"
+|39.
+|1999 <br />{{DetailsLink|1999. gada Copa América}}
+|align=left| {{flag|Paragvaja}}
+|'''{{fb-big|BRA}}'''
+|'''3:0'''
+|{{fb-big|URU}}
+|{{fb-big|MEX}}
+|'''2:1'''
+|{{fb-big|CHI}}
+|12
+|-
+|40.
+|2001 <br />{{DetailsLink|2001. gada Copa América}}
+|align=left| {{flag|Kolumbija}}
+|'''{{fb-big|COL}}'''
+|'''1:0'''
+|{{fb-big|MEX}}
+|{{fb-big|HON}}
+|'''2:2''' <br />({{piezīme|11 m:|pēcspēles 11 m sitienos}} 5:4)
+|{{fb-big|URU}}
+|12
+|- style="background:#D0E6FF"
+|41.
+|2004 <br />{{DetailsLink|2004. gada Copa América}}
+|align=left| {{flag|Peru}}
+|'''{{fb-big|BRA}}'''
+|'''2:2'''<br />({{piezīme|11 m:|pēcspēles 11 m sitienos}} 4:2)
+|{{fb-big|ARG}}
+|{{fb-big|URU}}
+|'''2:1'''
+|{{fb-big|COL}}
+|12
+|-
+|42.
+|2007 <br />{{DetailsLink|2007. gada Copa América}}
+|align=left| {{flag|Venecuēla}}
+|'''{{fb-big|BRA}}'''
+|'''3:0'''
+|{{fb-big|ARG}}
+|{{fb-big|MEX}}
+|'''3:1'''
+|{{fb-big|URU}}
+|12
+|- style="background:#D0E6FF"
+|43.
+|2011 <br />{{DetailsLink|2011. gada Copa América}}
+|align=left| {{flag|Argentīna}}
+|'''{{fb-big|URU}}'''
+|'''3:0'''
+|{{fb-big|PAR}}
+|{{fb-big|PER}}
+|'''4:1'''
+|{{fb-big|VEN}}
+|12
+|-
+|44.
+|2015 <br />{{DetailsLink|2015. gada Copa América}}
+|align=left| {{flag|Čīle}}
+|'''{{fb-big|CHI}}'''
+|'''0:0''' ({{piezīme|pap.|papildlaikā}})<br />({{piezīme|11 m:|pēcspēles 11 m sitienos}} 4:1)
+|{{fb-big|ARG}}
+|{{fb-big|PER}}
+|'''2:0'''
+|{{fb-big|PAR}}
+|12
+|-style="background:#D0E6FF"
+|45.
+|2016 <br />{{DetailsLink|Copa América Centenario}}
+|align=left| {{flag|ASV}}
+|'''{{fb-big|CHI}}'''
+|'''0:0''' ({{piezīme|pap.|papildlaikā}})<br />({{piezīme|11 m:|pēcspēles 11 m sitienos}} 4:2)
+|{{fb-big|ARG}}
+|{{fb-big|COL}}
+|'''1:0'''
+|{{fb-big|USA}}
+|16
+|-
+|46.
+|2019 <br />{{DetailsLink|2019. gada Copa América}}
+|align=left| {{flag|Brazīlija}}
+|'''{{fb-big|BRA}}'''
+|'''3:1'''
+|{{fb-big|PER}}
+|{{fb-big|ARG}}
+|'''2:1'''
+|{{fb-big|CHI}}
+|12
+|-style="background:#D0E6FF"
+|47.
+|2021 <br />{{DetailsLink|2021. gada Copa América}}
+|align=left| {{flag|Brazīlija}}
+|'''{{fb-big|ARG}}'''
+|'''1:0'''
+|{{fb-big|BRA}}
+|{{fb-big|COL}}
+|'''3:2'''
+|{{fb-big|PER}}
+|10
+|-
+|48.
+|2024 <br />{{DetailsLink|2024. gada Copa América}}
+|align=left|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+{{notelist}}
+
+== Uzvarētāji ==
+[[File:Copa america trofeo.jpg|thumb|left|140px|''Copa América'' trofeja]]
+[[File:Copa 100 (26454062733).jpg|thumb|right|140px|Simtgades turnīra (2016) trofeja]]
+{| class="wikitable"
+|-
+!Uzvarētāji!!Izlase!!Gadi
+|-
+|align=center|  15 reizes  ||{{fb|URU}}||1916, 1917, 1920, 1923, 1924, 1926, 1935, 1942, 1956, 1959, 1967, 1983, 1987, 1995, [[2011. gada Copa América|2011]]
+|-
+|align=center|  15 reizes  ||{{fb|ARG}}  ||1921, 1925, 1927, 1929, 1937, 1941, 1945, 1946, 1947, 1955, 1957, 1959, 1991, 1993, [[2021. gada Copa América|2021]]
+|-
+|align=center| 9 reizes  ||{{fb|BRA}}||1919, 1922, 1949, 1989, 1997, 1999, 2004, 2007, [[2019. gada Copa América|2019]]
+|-
+|align=center| 2 reizes  ||{{fb|PAR}} ||1953, 1979
+|-
+|align=center| 2 reizes  ||{{fb|PER}} ||1939, 1975
+|-
+|align=center| 2 reizes ||{{fb|CHI}}||[[2015. gada Copa América|2015]], [[2016. gada Copa América|2016]]
+|-
+|align=center| 1 reizi  ||{{fb|BOL}}||1963 
+|-
+|align=center| 1 reizi  ||{{fb|COL}}||2001
+|}
+
+== Kopējā statistika ==
+{| class="wikitable sortable" style="font-size: 90%; text-align: center" width=80%
+|-
+!width=6%|Vieta
+!width=10%|Izlase
+!width=5%|Tituli
+!width=5%|Turnīri
+!width=5%|Spēles
+!width=5%|{{abbr|U|Uzvaras}}
+!width=5%|{{abbr|N|Neizšķirti}}
+!width=5%|{{abbr|Z|Zaudējumi}}
+!width=5%|{{abbr|GV|Gūtie vārti}}
+!width=5%|{{abbr|ZV|Zaudētie vārti}}
+!width=6%|{{abbr|+/-|Vārtu starpība}}
+!width=6%|Punkti
+!width=6%|{{abbr|PVS|Punkti vidēji spēlē}}
+|-
+!1
+|align=left|{{fb|ARG}}||'''15'''
+|42||202||127||42||33||474||182||+292||'''423'''||2,10
+|-
+!2
+|align=left|{{fb|URU}}||'''15'''||44||205||112||38||55||410||221||+189||'''374'''||1,82
+|-
+!3
+|align=left|{{fb|BRA}} ||'''9'''||37||191||108||38||46||430||204||+226||'''362'''||1,89
+|-
+!4
+|align=left|{{fb|PAR}}||'''2'''||37||177||64||43||70||264||303||−39||'''235'''||1,32
+|-
+!5
+|align=left|{{fb|CHI}} ||'''2'''||40||188||67||33||88||291||316||−25||'''234'''||1,24
+|-
+!6
+|align=left|{{fb|PER}}||'''2'''||33||161||58||39||64||230||255||−25||'''213'''||1,34
+|-
+!7
+|align=left|{{fb|COL}} ||'''1'''||23||124||49||25||50||142||191||−49||'''172'''||1,38
+|-
+!8
+|align=left|{{fb|BOL}} ||'''1'''||28||119||20||26||73||107||298||{{nowrap|−191}}||'''86'''||0,72
+|-
+!9
+| align="left" |{{fb|ECU}}||'''0'''||29||126||16||26||84||134||327||−193||'''73'''||0,57
+|-
+!10
+| align="left" |{{fb|MEX}}||'''0'''||10||48||19||13||16||66||62||+4||'''70'''||1,46
+|-
+!11
+|align=left|{{fb|VEN}}||'''0'''||19||79||8||17||45||49||177||−128||'''41'''||0,51
+|-
+!12
+|align=left|{{fb|CRC}}||'''0'''||5||17||5||3||9||17||31||−14||'''18'''||1,06
+|-
+!13
+| align="left" |{{fb|USA}}||'''0'''||4||18||5||2||11||18||29||−11||'''17'''||0,94
+|-
+!14
+|align="left"|{{fb|HON}}||'''0'''||1||6||3||1||2||7||5||+2||'''10'''||1,67
+|-
+!15
+|align=left|{{fb|PAN}}||'''0'''||1||3||1||0||2||4||10||−6||'''3'''||1,00
+|-
+!16
+|align=left|{{fb|JPN}}||'''0'''||2||6||0||3||3||6||15||−9||'''3'''||0,50
+|-
+!17
+|align=left|{{fb|QAT}}||'''0'''||1||3||0||1||2||2||5||−3||'''1'''||0,33
+|-
+!18
+|align=left|{{fb|JAM}}||'''0'''||2||6||0||0||6||0||9||−9||'''0'''||0,00
+|-
+!19
+|align=left|{{fb|HAI}}||'''0'''||1||3||0||0||3||1||12||−11||'''0'''||0,00
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{Oficiālā mājaslapa}}
+
+{{Copa América}}
+{{Pasaules futbols}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Starptautiskās futbola sacensības]]
+[[Kategorija:Copa América| ]]

@@ -1,0 +1,215 @@
+{{Elementa infokaste
+|                 tips = nemetāls
+|      kārtas skaitlis = 1
+|             1. čaula = 1
+|              simbols = H
+|             atommasa = 1,00794
+|   valences elektroni = 1s<sup>1</sup>
+|       tabulas attēls = [[Attēls:H-TableImage.svg|250px]]
+|               attēls = [[Attēls:Dihydrogen-2D-dimensions.png|180px]] [[Attēls:Dihydrogen-3D-vdW.png|150px]]<br />Ūdeņraža divatomu molekulas uzbūve<br />
+[[Attēls:Wasserstoff amp.jpg|100px]] [[Attēls:Hydrogenglow.jpg|200px]]<br />Ampula ar 3 [[mililitrs|ml]] ūdeņraža un sevišķi tīra jonizēta ūdeņraža spīdēšana
+|  oksidēšanas pakāpes = +1, -1
+|  elektronegativitāte = 2,20
+|              blīvums = 0,0899
+|  kušanas temperatūra = 14,025 K (-259,14&nbsp;°C)
+| viršanas temperatūra = 20,268 K (-252,87&nbsp;°C)
+}}
+'''Ūdeņradis''' ({{val|la|hydrogenium}}) ir [[Elementu periodiskā tabula|periodiskās tabulas]] pirmais [[ķīmiskais elements|elements]]. Šo elementu apzīmē ar '''H''' un tā [[atomskaitlis]] ir 1. [[Normāli apstākļi|Normālos apstākļos]] ūdeņradis ir viegli uzliesmojoša un bezkrāsaina divatomu [[gāze]] bez [[smarža]]s. Tās ķīmiskā formula ir H<sub>2</sub>. Ūdeņraža [[atommasa]] ir 1,00794 [[grams|g]]/[[mols|mol]]. Tā ir mazākā atommasa no visiem [[ķīmiskais elements|ķīmiskajiem elementiem]], un tas nozīmē to, ka ūdeņradis ir vieglākais no visiem elementiem. Ūdeņradis vienmēr ir vienvērtīgs. Savienojumos ūdeņradim parasti ir oksidēšanas pakāpe +1, taču dažos savienojumos tā var būt arī -1 (metālu [[hidrīdi|hidrīdos]]).
+
+Ūdeņradis ir visizplatītākais elements [[Visums|Visumā]]. Tas sastāda aptuveni 75% no visa Visuma [[masa]]s.<ref>{{Tīmekļa atsauce | last = Palmer | first = David | url = http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/971113i.html | title = Hydrogen in the Universe | publisher = NASA | date = 1997. gada 13. novembrī | accessdate = {{dat|2008|2|4}} | language=angliski}}</ref> [[Galvenās secības zvaigzne]]s lielākoties sastāv tieši no ūdeņraža.
+
+== Vēsture ==
+Jau [[16. gadsimts|16.]] un [[17. gadsimts|17. gadsimtā]] tika novērota degošas gāzes izdalīšanās, [[skābes|skābēm]] reaģējot ar [[metāli]]em. [[1766]]. gadā slavenais angļu ķīmiķis un fiziķis [[Henrijs Kevendišs]] pētīja šo gāzi un nosauca to par "degošo gaisu". Sadedzinot no "degošā gaisa" radās [[ūdens]], taču Kevendišs no tā neizdarīja pareizos secinājumus, jo bija [[flogistons|flogistona]] teorijas piekritējs.
+
+Franču ķīmiķis [[Antuāns Lavuazjē]] kopā ar inženieri [[Žans Menjē|Žanu Menjē]] [[1783]]. gadā, izmantojot speciālus [[gazometrs|gazometrus]], veica ūdens sintēzi. Sadalot ūdens tvaiku ar nokaitētu [[dzelzs|dzelzi]], viņš atkal ieguva ūdeņradi un secināja, ka tas ietilpst ūdens sastāvā.
+
+Lavuazjē devis ūdeņradim nosaukumu ''hydrogène'' ({{val|el2|hydōr}} — ūdens un ''genos'' — izcelsme). Vairāk vai mazāk analoģisks nosaukums ūdeņradim ir visās valodās.
+
+== Atrašanās dabā ==
+[[Attēls:Nursery_of_New_Stars_-_GPN-2000-000972.jpg|thumb|left|200px|Jonizēta ūdeņraža [[miglājs]] [[NGC 604]] [[Trijstūra galaktika|Trijstūra galaktikā]] ]]
+Ūdeņradis ir pats izplatītākais elements Visumā, jo tas sastāda aptuveni trīs ceturtdaļas kosmiskās vielas. Zemes garozā ūdeņraža ir daudz mazāk (0,15% pēc masas jeb 3% pēc atomu skaita). Dabā, jūras līmenī ūdeņradis parasti ir sastopams savienojumu veidā, lai arī augstākajos atmosfēras slāņos ir diezgan daudz brīva ūdeņraža, kur tas veidojas, ūdens molekulām sadaloties [[UV stari|UV starojuma]] iedarbībā. Retumis ūdeņradis sastopams vulkāniskajās gāzēs un dabas gāzē.
+
+=== Izotopi ===
+Ūdeņradim ir trīs [[izotops|izotopi]], no kuriem visizplatītākais un stabilākais ir izotops <sup>1</sup>H ar [[atommasa|atommasu]] 1 jeb [[protijs]]. Sastopams arī izotops <sup>2</sup>H ar masas skaitli 2, kura [[atoma kodols|kodolā]] ir viens [[protons]] un viens [[neitrons]] — [[deitērijs]] ('''D'''). Dabiskajos ūdeņraža savienojumos deitērija un protija attiecība ir 1 : 6800 (pēc atomu skaita). Ir pazīstams arī izotops <sup>3</sup>H ar diviem neitroniem kodolā. To sauc par [[tritijs|tritiju]] un apzīmē ar simbolu '''T'''. Tritijs ir [[bēta sabrukšana|β radioaktīvs]] un tā [[pussabrukšanas periods]] ir 12,32 [[gads|gadi]].
+[[Attēls:Hydrogen Deuterium Tritium Nuclei Schematic.svg|thumb|300px|Ūdeņraža izotopu atomu uzbūve]]
+Ir iegūti ārkārtīgi nestabili ūdeņraža izotopi ar trim, četriem, pieciem un pat sešiem neitroniem kodolā. To vidējais dzīves laiks ir apmēram 10<sup>-22</sup>—10<sup>-23</sup> [[sekunde]]s.
+
+=== Bioloģiskā nozīme ===
+Ūdeņradis pieder pie [[biogēnie elementi|biogēnajiem elementiem]], jo ietilpst praktiski visu [[organiskās vielas|organisko vielu]] sastāvā. [[Ūdeņraža saite]]s nosaka dabasvielu sarežģīto molekulu struktūru un mijiedarbību. Ūdeņradis ir ūdens sastāvdaļa, bet bez ūdens nav iespējama dzīvība.
+
+[[Ūdeņraža peroksīds|Ūdeņraža peroksīda]] šķīdumu (perhidrolu) izmanto medicīnā kā dezinficējošu līdzekli. Ūdeņraža peroksīds uzskatāms par toksisku vielu, kas gan ātri sadalās par [[skābeklis|skābekli]] un ūdeni.
+
+Deitērija oksīds jeb [[smagais ūdens]] var būt kaitīgs, uzņemot to lielos daudzumos. Kā noskaidrots eksperimentos ar dzīvniekiem ([[peles|pelēm]] un [[žurkas|žurkām]]), tās iet bojā, ja 30 līdz 35% ķermeņa ūdens aizstāj ar smago ūdeni. Lai kaitētu cilvēka veselībai, cilvēkam vajadzētu izdzert vismaz 5 l smagā ūdens (respektīvi, dzert to vismaz 4 dienas pēc kārtas). Tādēļ tiek uzskatīts, ka smagais ūdens parastos apstākļos nerada veselības traucējumus.<ref>Вредные химические вещества. Неорганические соединения элементов I-IV групп. Справочник. Л., "Химия", 1988 {{ru ikona}}</ref>
+
+Brīvs gāzveida ūdeņradis nav toksisks. To retumis izmanto kā iesaiņošanas gāzi pārtikas iepakojumu piepildīšanai (pārtikas piedeva '''E949''').<ref>Bils Stetems. Zini, ko tu pērc! Rīga, Zvaigzne ABC, 2007 {{ISBN|978-9984-40-470-7}}</ref> Jāņem vērā, ka ūdeņradis, kas iegūts, netīram cinkam reaģējot ar skābēm, var saturēt ārkārtīgi indīgo [[arsēnūdeņradis|arsēnūdeņradi]].
+
+== Iegūšana ==
+=== Rūpnieciskās ūdeņraža iegūšanas metodes ===
+
+* ūdens tvaika katalītiskā konversija ar dažādiem [[ogļūdeņraži]]em (galvenokārt [[metāns|metānu]]);
+
+: CH<sub>4</sub> + H<sub>2</sub>O ⇄ CO + 3H<sub>2</sub> (800&nbsp;°C)
+
+* ūdens tvaika katalītiskā konversija ar [[oglekļa monoksīds|oglekļa monoksīdu]];
+
+: CO + H<sub>2</sub>O ⇄ CO<sub>2</sub> + H<sub>2</sub> (600&nbsp;°C)
+
+* ogļūdeņražu nepilnīga katalītiska oksidēšana;
+
+: 2CH<sub>4</sub> + O<sub>2</sub> → 2CO + 4H<sub>2</sub>
+
+* [[elektrolīze|elektrolizējot]] ūdeni vai [[sāļi|sāļu]] šķīdumus;
+
+: 2NaCl + 2H<sub>2</sub>O → H<sub>2</sub>↑ + 2NaOH + Cl<sub>2</sub>
+
+* reaģējot ūdens tvaikiem ar [[ogleklis|oglekli]] ([[kokss|koksu]]) 1000&nbsp;°C temperatūrā.
+
+: H<sub>2</sub>O + C → H<sub>2</sub> + CO
+
+No gāzu maisījumiem ūdeņradi iegūst, atdzesējot tos līdz pietiekami zemai temperatūrai.
+
+=== Ūdeņraža iegūšanas metodes laboratorijā ===
+
+* iedarbojoties uz [[metāli]]em ar atšķaidītām [[skābes|skābēm]] (parasti ņem [[cinks|cinku]] un [[sālsskābe|sālsskābi]], sk. arī [[Kipa aparāts]]);
+
+: Zn + 2HCl → ZnCl<sub>2</sub> + H<sub>2</sub>↑
+
+::Parasti nevar lietot [[slāpekļskābe|slāpekļskābi]], jo, tai reaģējot ar metāliem, ūdeņradis neizdalās.
+
+* [[kalcijs|kalcijam]] reaģējot ar ūdeni;
+
+: Ca + 2H<sub>2</sub>O → Ca(OH)<sub>2</sub> + H<sub>2</sub>↑
+
+* [[hidrolīze|hidrolizējot]] [[hidrīdi|hidrīdus]];
+
+: NaH + H<sub>2</sub>O → NaOH + H<sub>2</sub>↑
+
+* iedarbojoties ar [[sārmi]]em uz cinku vai [[alumīnijs|alumīniju]];
+
+: 2Al + 2NaOH + 6H<sub>2</sub>O → 2Na[Al(OH)<sub>4</sub>] + 3H<sub>2</sub>↑
+: Zn + 2KOH + 2H<sub>2</sub>O → K<sub>2</sub>[Zn(OH)<sub>4</sub>] + H<sub>2</sub>↑
+
+* elektrolizējot sārmu vai skābju ūdens šķīdumus, pie [[katods|katoda]] izdalās ūdeņradis.
+
+: 2H<sub>3</sub>O<sup>+</sup> + 2e<sup>-</sup> → H<sub>2</sub>↑ + 2H<sub>2</sub>O
+
+{{Sprādzienbīstams|Jāatceras, ka nekad nedrīkst pārbaudīt iegūtā ūdeņraža tīrību, aizdedzinot to tieši iegūšanas iekārtas izejā — tas var izraisīt bīstamu [[sprādziens|sprādzienu]]! Ar ūdeņradi vispirms jāpiepilda [[mēģene]], turot tās vaļējo galu uz leju, jāaiznes tālāk no iekārtas un jāaizdedzina. Tīrs ūdeņradis sadeg mierīgi, ar klusu troksni, bet netīrs, sajaukts ar gaisu — ar svilpienu vai pat nelielu sprādzienu.<ref>G. Rudzītis, F. Feldmanis. Neorganiskā ķīmija. R., "Zvaigzne", 1981</ref>}}
+
+== Fizikālās īpašības ==
+
+Ūdeņraža divatomu molekulas ir ar ļoti niecīgiem izmēriem un masu, tādēļ tās ir ļoti kustīgas un ūdeņraža kušanas un viršanas temperatūras ir stipri zemas (vēl zemākas ir tikai cēlgāzei [[hēlijs|hēlijam]], kas vispār neveido molekulas). H<sub>2</sub> molekulas ir visai stabilas (sadalīties atomos sāk tikai temperatūrā, kas augstāka par 2000&nbsp;°C) un maz polarizējamas. Ūdeņradis tikpat kā nešķīst ūdenī un organiskos šķīdinātājos. Cietam ūdeņradim ir [[heksagonālā singonija|heksagonāls kristālrežģis]]. Ārkārtīgi liela spiediena (miljonos [[atmosfēra (mērvienība)|atmosfēru]]) iedarbībā ūdeņradis veido kristālrežģi no [[protons|protoniem]], bet [[elektrons|elektroni]] kļūst kopīgi (sk. [[metāliskais ūdeņradis]]).
+
+== Ķīmiskās īpašības ==
+
+Ūdeņraža atoms ir pats vienkāršākais atoms, taču ūdeņraža ķīmija nav vienkārša un stipri atšķiras no citu elementu ķīmijas. Galvenā ūdeņraža īpatnība ir tā, ka tam nav elektronu čaulas starp kodolu un [[vērtības elektroni]]em — ūdeņraža vienīgais valences elektrons atrodas tieši kodola (šajā gadījumā protona — ūdeņraža pozitīvais [[jons]] H<sup>+</sup> ir protons) iedarbības sfērā. Tāda īpatnība ir vēl vienīgi hēlijam, taču tas neveido savienojumus. Šī specifika ir pamatā sevišķam [[ķīmiskā saite|ķīmiskās saites]] veidam, kas sastopams tikai ūdeņraža savienojumos — [[ūdeņraža saite]]i. <br />
+Brīvā veidā protons jeb H<sup>+</sup> jons parastajās ķīmiskajās reakcijās neeksistē (ja arī vienkāršības labad, piemēram, ūdens vidē norisošu reakciju vienādojumos raksta H<sup>+</sup>, īstenībā tas ir [[Hidroksonijs|hidroksonija jons]] H<sub>3</sub>O<sup>+</sup>). Ar oksidēšanas pakāpi +1 ūdeņradis veido tikai kovalentos savienojumus (pat ar tādu spēcīgu oksidētāju kā [[fluors]]). Tas var būt kompleksa veidotājs anjonu kompleksos. Savukārt oksidēšanas pakāpē -1 ūdeņradim iespējami jonu savienojumi ([[hidrīdi]]). Tātad ūdeņradis var būt gan [[oksidētājs]], gan [[reducētājs]].
+
+=== Ūdeņradis kā reducētājs ===
+==== Reakcijas ar nemetāliem ====
+[[Attēls:19. Експлозија на смеса од водород и воздух.webm|thumb|left|280px|Ūdeņraža un gaisa maisījuma eksplozija. Koniskais trauks ir pildīts ar tīru ūdeņradi; augšā ir atvere liesmai, bet apakšā var brīvi ieplūst gaiss. Ūdeņradim izdegot, tas sajaucas ar gaisu; pamazām degšana kļūst nestabila, par ko liecina mainīgā skaņa, bet pašās beigās, maisījuma sastāvam sasniedzot kritisko robežu, notiek eksplozija]]
+Parastajos apstākļos ūdeņradis tieši reaģē tikai ar [[fluors|fluoru]], jo saite starp ūdeņraža atomiem tā molekulā ir visai stabila. Karsējot, apgaismojot (ar [[hlors|hloru]]) vai [[katalizators|katalizatoru]] klātienē tas reaģē kā reducētājs ar daudziem nemetāliem — [[slāpeklis|slāpekli]], [[skābeklis|skābekli]], [[broms|bromu]].
+
+[[Attēls:Hindenburg burning.jpg|thumb|300px|Ar ūdeņradi pildītā vācu [[LZ 129 Hindenburg|dirižabļa "Hindenburgs"]] eksplozija [[1937]]. gadā]]
+Ar skābekli ūdeņradis reaģē aizdedzinot vai arī [[platīns|platīna]] katalizatora klātienē:
+
+: O<sub>2</sub> + 2H<sub>2</sub> → 2[[ūdens|H<sub>2</sub>O]] (reakcija norit sprādzienveidīgi)
+
+Divu tilpumu ūdeņraža maisījumu ar vienu tilpumu skābekļa sauc par [[sprāgstošā gāze|sprāgstošo gāzi]].
+
+Karsējot kopā ar [[sērs|sēru]], ūdeņradis apgriezeniski veido [[sērūdeņradis|sērūdeņradi]]:
+
+: S + H<sub>2</sub> ⇄ [[sērūdeņradis|H<sub>2</sub>S]]
+
+Ar slāpekli ūdeņradis iedarbojas smagos apstākļos - karsējot, lielā spiedienā un [[dzelzs]] katalizatora klātienē:
+
+: N<sub>2</sub> + 3H<sub>2</sub> → 2[[amonjaks|NH<sub>3</sub>]]
+
+Ar [[halogēni]]em veido [[halogēnūdeņraži|halogēnūdeņražus]]:
+
+: F<sub>2</sub> + H<sub>2</sub> → 2[[fluorūdeņradis|HF]] (reakcija noris sprādzienveidīgi pat tumsā un jebkurā temperatūrā)
+
+: Cl<sub>2</sub> + H<sub>2</sub> → 2[[hlorūdeņradis|HCl]] (apgaismojot reakcija noris sprādzienveidīgi)
+
+Stipri karsējot, reaģē ar oglekli (kvēpiem):
+
+: C + 2H<sub>2</sub> → [[metāns|CH<sub>4</sub>]]
+
+==== Reakcijas ar metālu oksīdiem ====
+
+Ūdeņradis spēj reducēt metālu (parasti ''d'' elementu) oksīdus līdz brīviem metāliem:
+
+: [[vara(II) oksīds|CuO]] + H<sub>2</sub> → [[varš|Cu]] + H<sub>2</sub>O
+
+: [[dzelzs(III) oksīds|Fe<sub>2</sub>O<sub>3</sub>]] + 3H<sub>2</sub> → 2[[dzelzs|Fe]] + 3H<sub>2</sub>O
+
+: [[volframa(VI) oksīds|WO<sub>3</sub>]] + 3H<sub>2</sub> → [[volframs|W]] + 3H<sub>2</sub>O
+
+Šīs reakcijas var būt arī apgriezeniskas, piemēram, augstā temperatūrā ar karstu dzelzi no ūdens var izdalīt ūdeņradi.
+
+==== Organisku savienojumu hidrēšana ====
+
+Iedarbojoties uz nepiesātinātajiem ogļūdeņražiem [[niķelis|niķeļa]] katalizatora klātienē paaugstinātā temperatūrā, notiek ūdeņraža pievienošana dubultsaitēm ([[hidrogenēšana]] jeb hidrēšana):
+
+[[etilēns|CH<sub>2</sub>=CH<sub>2</sub>]] + H<sub>2</sub> → [[etāns|CH<sub>3</sub>−CH<sub>3</sub>]]
+
+Ūdeņradis reducē [[aldehīdi|aldehīdus]] līdz [[spirti]]em:
+
+[[acetaldehīds|CH<sub>3</sub>CHO]] + H<sub>2</sub> → [[etanols|C<sub>2</sub>H<sub>5</sub>OH]].
+
+=== Ūdeņradis kā oksidētājs ===
+Kā oksidētājs ūdeņradis spēj reaģēt ar aktīviem metāliem ([[sārmu metāli]]em un [[sārmzemju metāli]]em), veidojot [[hidrīdi|hidrīdus]]:
+
+: 2Na + H<sub>2</sub> → 2[[nātrija hidrīds|NaH]]
+: Ca + H<sub>2</sub> → [[kalcija hidrīds|CaH<sub>2</sub>]]
+
+Hidrīdi ir cietas, sāļiem līdzīgas vielas, kas viegli hidrolizējas:
+
+: CaH<sub>2</sub> + 2H<sub>2</sub>O → [[kalcija hidroksīds|Ca(OH)<sub>2</sub>]] + 2H<sub>2</sub> ↑
+
+== Ūdeņraža savienojumi ==
+Ūdeņraža [[binārie savienojumi]] ir iedalāmi atkarībā no elementa, ar kuru saistījies ūdeņradis, dabas ([[elektronegativitāte]]s). Ja šis elements ir maz elektronegatīvs (piemēram, sārmu metāls), veidojas hidrīdi ar jonu saiti (piemēram, [[LiH]], [[kalcija hidrīds|CaH<sub>2</sub>]]). Ja elements ir vairāk elektronegatīvs (tomēr ar zemāku elektronegativitāti nekā ūdeņradim), attiecīgie hidrīdi ir ar kovalento saiti (piemēram, [[borūdeņradis|B<sub>2</sub>H<sub>6</sub>]]). Hidrīdos ūdeņraža oksidēšanas pakāpe ir -1. Ja ūdeņraža un otra elementa elektronegativitātes ir līdzīgas, veidojas tā saucamie starpsavienojumi ar kovalento saiti, kuros ūdeņradis veido maz polāras saites (piemēram, [[metāns]] CH<sub>4</sub> vai [[arsēnūdeņradis]] AsH<sub>3</sub>). Tādas pašas saites ūdeņradis mēdz veidot organiskajos savienojumos, ja ir savienojies ar oglekli,  bet citos gadījumos saite var būt daudz polārāka, piemēram, [[karboksilgrupa|karboksilgrupā]] esošajam ūdeņradim.
+
+Savienojoties ar elementiem, kas jūtami elektronegatīvāki par ūdeņradi, tā atoms polarizējas pozitīvi (oksidēšanas pakāpe +1). Pazīstamākais no šādiem kovalentajiem savienojumiem ir ūdeņraža oksīds H<sub>2</sub>O jeb [[ūdens]]. Binārajiem savienojumiem ar fluoru, skābekli un slāpekli (fluorūdeņradim, ūdenim un amonjakam) ir sevišķi raksturīga starpmolekulāro ūdeņraža saišu veidošanās, tādēļ to kušanas un viršanas temperatūras ir anomāli augstas. Ūdeņradim oksidēšanas pakāpe +1 ir arī visās "klasiskajās" skābēs (kā [[slāpekļskābe|HNO<sub>3</sub>]] vai [[sērskābe|H<sub>2</sub>SO<sub>4</sub>]]) un to tā saucamajos [[skābie sāļi|skābajos sāļos]].
+
+Ūdeņradis var veidot anjonu kompleksus, ko sauc par [[hidrogenāti]]em.<ref>N.Ahmetovs. Neorganiskā ķīmija, Rīga, "Zvaigzne", 1978</ref> Piemēram, [[kālija fluorīds]] ar fluorūdeņražskābi veido kālija hidrogēnfluorīdu jeb kālija difluorohidrogenātu:
+
+:KF + HF → K[HF<sub>2</sub>]
+
+Analoģiski veidojas kālija dinitratohidrogenāts:
+
+:KNO<sub>3</sub> + HNO<sub>3</sub> → K[H(NO<sub>3</sub>)<sub>2</sub>]
+
+Hidrogenāti var eksistēt vai nu cietā veidā, vai arī neūdens šķīdumos (dažreiz arī piesātinātos ūdens šķīdumos). Šie kompleksi rodas, veidojoties starpatomārai ūdeņraža saitei (piemēram, [F···H···F]<sup>−</sup>), kas ir trīsreiz stabilāka, nekā starpmolekulārā ūdeņraža saite.
+
+Ar ''d'' un ''f'' elementiem (pārejas metāliem) ūdeņradis veido hidrīdus ar metāliskām īpašībām (lielu [[elektrovadītspēja|elektrovadītspēju]] un [[siltumvadītspēja|siltumvadītspēju]]). Lielākoties šādiem hidrīdiem ir nestehiometrisks sastāvs.
+
+== Izmantošana ==
+[[Attēls:Liquid hydrogen bubblechamber.jpg|thumb|200px|Daļiņu treki ūdeņraža pūslīšu kamerā]]
+Ūdeņradi plaši lieto ķīmiskajā rūpniecībā&nbsp;— [[hlorūdeņradis|hlorūdeņraža]], [[amonjaks|amonjaka]], [[metanols|metanola]] sintēzēm, kā arī dažādu degvielu un [[tauki|tauku]] [[hidrogenēšana]]i. Maisījumā ar CO (šādu maisījumu sauc par [[ūdens gāze|ūdens gāzi]]) to lieto kā kurināmo. Pēdējā laikā tīru ūdeņradi sāk lietot kā [[alternatīva degviela|alternatīvo degvielu]] autotransportā un kā degvielas piedevu transporta līdzekļos ar [[iekšdedzes dzinējs|iekšdedzes dzinējiem]] ar mērķi samazināt fosilo degvielu patēriņu. Ūdeņradim ir liela siltumietilpība un tas sadegot nerada kaitīgus izmešus, tādēļ [[ūdeņraža enerģētika]]i ir labas nākotnes izredzes.
+
+Šķidrs ūdeņradis ir laba [[raķešdegviela]]. Ūdeņradis, degot [[skābeklis|skābeklī]], dod ļoti karstu liesmu (līdz 2600&nbsp;°C), ar kuras palīdzību var griezt un metināt grūti kūstošus metālus, kā arī [[kvarcs|kvarcu]] un citus materiālus. Ūdeņradi lieto arī gāzu [[hromatogrāfija|hromatogrāfijā]] [[katarometrs|katarometrisko]] un liesmas jonizācijas detektoru darbināšanai. Šķidru ūdeņradi izmanto [[pūslīšu kamera|pūslīšu kamerās]] [[elementārdaļiņas|elementārdaļiņu]] reģistrēšanai.
+
+Agrāk ūdeņradi lietoja [[gaisa balons|gaisa balonu]] un [[dirižablis|dirižabļu]] uzpildīšanā, bet mūsdienās to aizstāj ar ugunsdrošo [[hēlijs|hēliju]].
+
+Deitērijam un tritijam ir liela nozīme [[kodolreakcija|kodolreakciju]] realizēšanā [[atomenerģētika|atomenerģētikā]] un [[kodolieroči|kodolieročos]]&nbsp;— [[litija hidrīds|litija deiterīds]] ir [[ūdeņraža bumba]]s enerģijas avots.
+
+== Skatīt arī ==
+{{commons|hydrogen|Ūdeņradis}}
+* [[Protijs]]
+* [[Deitērijs]]
+* [[Tritijs]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Ūdeņradis]]
+[[Kategorija:Aukstumnesēji]]

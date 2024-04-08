@@ -1,0 +1,173 @@
+{{Basketbola kluba infokaste
+ |               text_color = #0000FF
+ |                 bg_color = #FFDD0C
+ |                    klubs = Ventspils
+ |                     logo = BK Ventspils logo.svg
+ |                 logo_izm = 200px
+ |                  pilsēta = {{Vieta|Latvija|Ventspils}}
+ |                     līga = [[OlyBet Latvijas—Igaunijas Basketbola līga]]
+ |               konference = 
+ |                 divīzija = 
+ |                 dibināts = 1994
+ |          beidza_pastāvēt = 
+ |                 darbojās = 
+ |                    arēna = [[Ventspils Olimpiskais centrs]]
+ |                ietilpība = 3085
+ |                   krāsas = Dzeltena, zila<br />{{color box|#FFDD0C}} {{color box|blue}}
+ |                īpašnieks = 
+ |               prezidents = {{flaga|Latvija}} [[Ģirts Štekerhofs]]
+ |               menedžeris = {{flaga|Latvija}} [[Ralfs Pleinics]]
+ |       galvenais_treneris = {{flaga|Latvija}} [[Gints Fogels]]
+ |                kapteinis = 
+ |                   mediji = {{URL|http://www.bkventspils.lv}}
+ |               sadarbojas = [[BK Ventspils Augstskola]] ([[Latvijas Basketbola līga|LBL]])
+<!------ čempiontituli ------->
+ |             Izaicinājums = 
+ |                Eirokauss = 
+ |                 Eirolīga = 
+ |                      LBL = 10
+ |                      BBL = 1
+}}
+'''BK "Ventspils"''' ir [[Latvija]]s [[basketbols|basketbola]] klubs no [[Ventspils]], kas spēlē [[Latvijas—Igaunijas Basketbola līga|Latvijas—Igaunijas Basketbola līgā]] un un [[LBL|Latvijas Basketbola līgā]] (LBL) kopš tās dibināšanas 1994. gadā. Pastāvēšanas vēsturē BK "Ventspils" ir 10 reizes uzvarējis LBL čempionātā. Mājas spēles komanda aizvada [[Ventspils Olimpiskais centrs|Ventspils Olimpiskā centra]] arēnā.
+
+== Kluba vēsture ==
+Basketbola klubs "Ventspils" tika dibināts 1994. gadā, taču jau kopš 1992. gada [[LBL]] sezonas startēja komanda ar šādu pašu nosaukumu. Iesākumā BK "Ventspils" bija vidusmēra Latvijas komanda, bet par pagrieziena punktu komandas attīstībā var uzskatīt 1997./1998. gada sezonu, kad komandu sāka trenēt [[Armands Krauliņš]] un tika uzcelts [[Ventspils Olimpiskais centrs]]. Šajā sezonā Ventspils debitēja [[Eiropa]]s kausu turnīros, iekļūstot [[Korāča kauss|Korāča kausa]] astotdaļfinālā. 1998./1999. gada sezonā Ventspils jau startēja [[Saportas kauss|Saportas kausa izcīņā]]. Šajā sezonā Ventspils pēdējo reizi LBL finālā piekāpās [[Brocēni/LMT]] komandai.
+
+1999./2000. gada sezonā BK Ventspils pirmoreiz kļuva par Latvijas čempioniem un uzvarēja arī nākamajās sešās sezonās. No 2001./2002. gada sezonas līdz 2006./2007. gada sezonas beigām ventspilnieku treneris bija bijušais kluba basketbolists [[Kārlis Muižnieks]]. Pēc viņa atlaišanas par treneri kļuva [[Gašpers Okorns]]. Lielākais sasniegums Eirokausos ir 2002./2003. gada [[FIBA Čempionu kauss|FIBA Čempionu kausā]] izcīnītā 3. vieta. BK "Ventspils" piedalījās [[BBL|Baltijas Basketbola līgā]] no tās izveidošanas 2004. gadā līdz pat pēdējai 2017./2018. gada sezonai. Augstākais kluba sasniegums BBL bija 3. vieta 2006./2007. sezonā, šo pašu panākumu BK "Ventspils" atkārtoja 2010. gadā. Spēlē par 3. vietu 2010. gadā [[BC Šiauliai]] uzvarēja BK Ventspils klubu.<ref>[http://www.tvnet.lv/sports/basketbols/328272-ventspils_nenotur_parsvaru_un_izlaiz_no_rokam_bbl_bronzu ''Ventspils'' nenotur pārsvaru un izlaiž no rokām BBL bronzu]</ref> {{dat||5|5|}} bronzas medaļas tika piešķirtas gan BK Ventspils, gan [[BC Šiauliai]] klubam.<ref>[http://sportacentrs.com/basketbols/05052010-bronza_tiek_gan_ventspilij_gan_siauliai Bronza tiek gan "Ventspilij", gan "Šiauliai"]</ref> 2007. gadā BK Ventspils septiņu gadu dominanci LBL pārtrauca [[ASK Rīga]]. 2008. gadā Ventspils neiekļuva finālā, taču ieguva bronzas medaļas. 2009. gadā tas atguva Latvijas čempionu titulu<ref>[http://www.eurobasket.com/Latvia/basketball-League-LBL_2008-2009.asp LBL: Season 2008-2009]</ref> un 2010. gadā atkal ieņēma 3. vietu. Savukārt 2011. gadā BK Ventspils izcīnīja 2. vietu LBL un 4. vietu BBL.
+
+<!-- == Komandas sastāvs ==
+Atjaunots 2017. gada 25. decembrī
+{{BK Ventspils sastāvs}}
+{{Bss start|clr=blue|bg=#FFDD0C}}
+{{Bs player|no=0|nat=USA|pos=A|name=[[Bleiks Hamiltons]]}}
+{{Bs player|no=3|nat=LAT|pos=A|name=[[Artūrs Grīnbergs]]}}
+{{Bs player|no=7|nat=LAT|pos=A|name=[[Ingus Jakovičs]]}}
+{{Bs player|no=8|nat=LAT|pos=U|name=[[Dāvis Gūtmanis]]}}
+{{Bs player|no=9|nat=LAT|pos=A|name=[[Rihards Lomažs]]}}
+{{Bs player|no=13|nat=USA|pos=U|name=[[Emanuēls Ubilla]]}}
+{{Bs player|no=14|nat=LAT|pos=U|name=[[Artūrs Bērziņš (basketbolists)|Artūrs Bērziņš]]}}
+{{Bs player|no=15|nat=BLR|pos=U|name=[[Vlads Mikulskis]]}}
+{{Bs player|no=21|nat=LAT|pos=A|name=[[Aigars Šķēle]]}}
+{{Bs player|no=22|nat=LAT|pos=U|name=[[Māris Gulbis]]}}
+{{Bs player|no=27|nat=LTU|pos=C|name=[[Julius Jucikas]]}}
+{{Bs player|no=30|nat=LAT|pos=C|name=[[Ronalds Zaķis]]}}
+{{Bs player|no=31|nat=USA|pos=U|name=[[Maiks Brusevics]]}}
+{{Bs player|no=35|nat=LAT|pos=U|name=[[Kristaps Ķīlis]]}}
+{{Bss end}} -->
+
+== Komandas galvenie treneri ==
+* 1994—1995: [[Raitis Silarājs]]
+* 1995—1997: [[Nikolajs Balvačovs]]
+* 1997—2001: [[Armands Krauliņš]]
+* 2001—2007: [[Kārlis Muižnieks]]
+* 2007—2008: [[Gašpers Okorns]]
+* 2008—2010: [[Agris Galvanovskis]]
+* 2010: [[Silvano Poropats]]
+* 2010: [[Guntis Endzels]] (p.i.)
+* 2010—2011: [[Aļģirds Brazis]]
+* 2011: [[Guntis Endzels]]
+* 2011—2012: [[Gundars Vētra]]
+* 2012—2015: [[Roberts Štelmahers]]
+* 2015—2017: [[Kārlis Muižnieks]]
+* 2017—2019: [[Roberts Štelmahers]]
+* kopš 2019: [[Artūrs Visockis-Rubenis]]
+
+== Izcīnītās vietas ==
+{| cellpadding="3" style="font-size:95%; background-color:#F9F9F9; border:solid 1px #AAAAAA; border-collapse: collapse; margin-top:12px; margin-bottom:12px;" cellspacing="1" border="1" width=90%
+|-
+| width="33%" style="color:blue; background:#FFDD0C;" align=center | '''Latvijas Basketbola līga'''
+| width="33%" style="color:blue; background:#FFDD0C;" align=center | '''Baltijas basketbola līga'''
+| width="33%" style="color:blue; background:#FFDD0C;" align=center | '''Citi turnīri'''
+|-
+|valign="top"|
+{{div col}}
+* 1994 — 7
+* 1995 — 6
+* 1996 — 3
+* 1997 — 4
+* 1998 — 2
+* 1999 — 2
+* 2000 — '''1'''
+* 2001 — '''1'''
+* 2002 — '''1'''
+* 2003 — '''1'''
+* 2004 — '''1'''
+* 2005 — '''1'''
+* 2006 — '''1'''
+* [[LBL 2006/2007|2007]] — 2
+* [[LBL 2007/2008|2008]] — 3
+* [[LBL 2008/2009|2009]] — '''1'''
+* [[LBL 2009/2010|2010]] — 3
+* [[LBL 2010/2011|2011]] — 2
+* [[LBL 2011/2012|2012]] — 2
+* [[LBL 2012/2013|2013]] — 2
+* [[LBL 2013/2014|2014]] — '''1'''
+* [[LBL 2014/2015|2015]] — 2
+* [[LBL 2015/2016|2016]] — 3
+* [[LBL 2016/2017|2017]] — 2
+* [[LBL 2017/2018|2018]] — '''1'''
+* [[LBL 2018/2019|2019]] — 2
+* [[LBL 2020/2021|2021]] — 2
+* [[LBL 2021/2022|2022]] — 2
+* [[LBL 2022/2023|2023]] — 2
+{{div col end}}
+
+|valign="top"|
+* [[2004.—2005. gada BBL sezona|2005]] — 4
+* [[2005.—2006. gada BBL sezona|2006]] — 5
+* [[2006.—2007. gada BBL sezona|2007]] — 3
+* [[2007.—2008. gada BBL sezona|2008]] — 6
+* [[2008.—2009. gada BBL sezona|2009]] — 7
+* [[2009.—2010. gada BBL sezona|2010]] — 3/4
+* [[2010.—2011. gada BBL sezona|2011]] — 4
+* [[2011.—2012. gada BBL sezona|2012]] — Ceturtdaļfināli
+* [[2012.—2013. gada BBL sezona|2013]] — 1<ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/sports/news/basketball/news/ventspils-basketbolisti-triumfe-bbl-turnira.d?id=43207368|title='Ventspils' basketbolisti triumfē BBL turnīrā|date={{dat|2013|4|6||bez}}|publisher=Delfi.lv|accessdate={{dat|2013|4|7||bez}}}}</ref>
+* [[2013.—2014. gada BBL sezona|2014]] — Ceturtdaļfināli
+* [[2014.—2015. gada BBL sezona|2015]] — 2
+
+|valign="top"|
+{{div col}}
+* 1997.—1998.: [[Korača kauss]] (astotdaļfināli)
+* 1998.—1999.: [[Saportas kauss]]
+* 1999.—2000.: [[Saportas kauss]]
+* 2000.—2001.: ''nepiedalījās''
+* 2001.—2002.: ''nepiedalījās''
+* 2002.—2003.: FIBA Čempionu kauss (3.vieta)
+* 2003.—2004.: [[ULEB Eirokauss|ULEB kauss]]
+* 2004.—2005.: [[ULEB Eirokauss|ULEB kauss]] (ceturtdaļfināli)
+* 2005.—2006.: [[ULEB Eirokauss|ULEB kauss]]
+* 2006.—2007.: [[ULEB Eirokauss|ULEB kauss]]
+* 2007.—2008.: [[ULEB Eirokauss|ULEB kauss]]
+* 2008.—2009.: [[FIBA Eiropas izaicinājuma kauss|Eiropas izaicinājuma kauss]]
+* 2009.—2010.: [[2009.—2010. gada ULEB Eirokausa sezona|Eirokauss]]
+* 2010.—2011.: [[FIBA Eiropas izaicinājuma kauss|Eiropas izaicinājuma kauss]] (ceturtdaļfināli)
+* 2011.—2012.: [[FIBA Eiropas izaicinājuma kauss|Eiropas izaicinājuma kauss]] (ceturtdaļfināli)
+* 2012.—2013.: [[FIBA Eiropas izaicinājuma kauss|Eiropas izaicinājuma kauss]]
+* 2013.—2014.: [[FIBA Eiropas izaicinājuma kauss|Eiropas izaicinājuma kauss]]
+* 2014.—2015.: [[ULEB Eirokauss|ULEB kauss]]
+* 2015.—2016.: [[FIBA Eiropas Kauss]]
+* 2018.—2019.: [[Latvijas—Igaunijas Basketbola līga]] — '''1. vieta'''
+{{div col end}}
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [http://www.bkventspils.lv Oficiālā mājaslapa]
+* [https://web.archive.org/web/20090130110337/http://www.asektors.lv/ Oficiālais fanu klubs]
+* [http://www.eurobasket.com/team.asp?Cntry=LAT&Team=1433 Eurobasket profils] {{en ikona}}
+* [http://www.eurocupbasketball.com/ulebcup/competition/teams/showteam?gamenumber=2&gamecode=31&clubcode=VEN&phasetypecode=rs&pcode=jku&seasoncode=u2007 Eiropas kausu profils] {{en ikona}}
+* [http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.compID_BYg5Rb55Jw-G5I3MZ6JB01.roundID_6491.season_2009.teamID_4045.html FIBA Europe profils] {{en ikona}}
+* [https://web.archive.org/web/20090323064514/http://www.bbl.net/index.php/b19sYW5nPWVuJm9fc2Vhcz0yMSZvX2xlYWc9OCZmdXNlYWN0aW9uPXRlYW1zLm1haW4mdD01OA== BBL profils] {{en ikona}}
+* [https://web.archive.org/web/20090605022212/http://www.basket.lv/lbl/komandas/ventspils-1 LBL profils]
+
+{{LBL}}
+{{LBL čempioni}}
+{{BK Ventspils spēlētāji}}
+
+{{DEFAULTSORT:Ventspils}}
+[[Kategorija:BBL klubi]]
+[[Kategorija:Latvijas basketbola klubi]]
+[[Kategorija:LBL klubi]]
+[[Kategorija:Sports Ventspilī|Basketbola klubs]]

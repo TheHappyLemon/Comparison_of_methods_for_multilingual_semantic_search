@@ -1,0 +1,50 @@
+{{Citas nozīmes|programmēšanas valodu|C (nozīmju atdalīšana)|C}}
+{{Programmēšanas valodas infokaste
+ |                   name = C
+ |                   logo = [[Attēls:The C Programming Language logo.svg|200px]]
+ |                caption = 
+ |                  image = [[Attēls:Gedit hello world.png|235px]]
+ |               caption2 =
+ |               file_ext =  
+ |               paradigm = {{vikidati|properties|linked|P3966}}
+ |               released = 1972. gadā
+ |                 author = 
+ |              developer = {{vikidati|properties|linked|P178}}
+ | latest_release_version = 
+ |    latest_release_date = 
+ |    latest_test_version = 
+ |       latest_test_date = 
+ |                 typing = 
+ |        implementations = 
+ |               dialects = 
+ |          influenced by = {{vikidati|properties|linked|P737}}
+ |             influenced = 
+ |       operating system = {{vikidati|properties|linked|P306}}
+ |                license = 
+ |          working_state = 
+ |                website = 
+}}
+
+'''C''' ir standartizēta [[programmēšanas valoda]]. To 1972. gadā izmantošanai [[UNIX]] [[operētājsistēma|operētājsistēmā]] izstrādāja [[Kens Tomsons]] un [[Deniss Ričijs]], kurš tobrīd strādāja ''AT&T [[Bell Labs]]''. Nosaukumu "C" tā ieguvusi, jo burts pirms tā "B" jau bijis aizņemts — bija programmēšanas valoda [[B (programmēšanas valoda)|B]]. Kopš tā laika tā ir izplatījusies arī uz daudzām citām operētājsistēmām un ir viena no visplašāk izmantotajām programmēšanas valodām. Valoda C tiek augstu vērtēta tās efektivitātes dēļ, un tā ir vispopulārākā valoda, ko izmanto [[sistēmas programmatūras]] izstrādē. C un ar to saistīto valodu [[C++]] plaši izmanto [[lietojumprogramma|lietojumprogrammu]] izstrādē. Lai gan valoda nav radīta iesācējiem, to plaši izmanto [[datorzinātne]]s apmācībai.
+
+C struktūru raksturo tuvums datora uzbūves pamatprincipiem, un C komandas cieši pārklājas ar datora elementārajām pamatfunkcijām, tipiski izmantojot tīri aritmētikas funkcijas atmiņas adresēšanai, nekontrolējot un neierobežojot programmētāju, kas padara to īpaši piemērotu programmām, kas tieši saistītas ar datora 'dzelžu' kontrolēšanu, kā arī [[operētājsistēma|operētājsistēmu]] un [[Dzinis|dziņu]] realizēšanu. Šīs pašas īpašības savukārt rada lielu iespēju neievēroti ieviesties kļūdām, piemēram, liela daļa drošības 'caurumu' ir radusies [[C virkņu apstrāde|C standarta simbolu virkņu apstrādes]] bibliotēku dēļ, kuras, rakstot atmiņā, nepārbauda, vai rezervētajā apgabalā pietiek vietas, un tādējādi ļauj uzbrucējam veikt patvaļīgas darbības.
+
+== C standarta bibliotēka ==
+{{pamatraksts|C standarta bibliotēka}}
+C standarta bibliotēku nosaka [[ANSI C]] standarts.<ref name="c99io">{{grāmatas atsauce | publisher= ISO/IEC | year= 1999 | title= ISO/IEC 9899:1999(E): Programming Languages - C | volume= §7.19.1 para 1}}</ref> Tas tika izstrādāts vienā laikā ar [[POSIX C bibliotēka]]s standartu, kas iekļauj vēl papildu funkcionalitāti. Tā kā ANSI C standartu vēlāk pieņēma arī [[Starptautiskā standartizācijas organizācija]] (ISO), to mēdz dēvēt arī par ISO C bibliotēku. C standarta bibliotēka ietver [[makrodefinīcija]]s, [[datu tips|datu tipu]] definīcijas un biežāk nepieciešamās funkcijas [[virkne|virkņu]] apstrādei, matemātiskiem aprēķiniem, [[Ievade/izvade|ievades/izvades]] apstrādei, [[atmiņas pārvaldība]]i un piekļuvei dažādiem [[operētājsistēma]]s servisiem.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{tīmekļa atsauce | url= https://www.britannica.com/technology/C-computer-programming-language | title= C | publisher= Encyclopedia Britannica | language= en}}
+* {{tīmekļa atsauce | url= http://www.open-std.org/jtc1/sc22/wg14/ | title= ISO/IEC JTC1/SC22/WG14 - C | publisher= open-std.org | language= en}}
+* {{tīmekļa atsauce | url= http://www.c-faq.com/ | title= comp.lang.c Frequently Asked Questions | publisher= c-faq.com | language= en}}
+
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:C (programmēšanas valoda)| ]]

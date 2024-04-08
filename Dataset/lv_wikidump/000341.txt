@@ -1,0 +1,455 @@
+{{Citas nozīmes|valsti|Igaunija (nozīmju atdalīšana)|Igaunija}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Eesti Vabariik''
+|    pilnais_valsts_nosaukums = Igaunijas Republika
+|            valsts_nosaukums = Estonia
+|               karoga_attēls = Flag of Estonia.svg
+|            karoga_nosaukums = Igaunijas karogs
+|              ģerboņa_attēls = Coat of arms of Estonia.svg
+|           ģerboņa_nosaukums = Igaunijas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = 
+|                valsts_himna = <br/>''[[Igaunijas himna|Mu isamaa, mu õnn ja rõõm]]''<small><br />''Mana tēvzeme, mana laime un prieks''</small><br/>[[attēls:US Navy band - National anthem of Estonia.ogg|center]]
+|               kartes_attēls = EU-Estonia.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Tallina]]
+|latd=59 |latm=26 |latNS=N |longd=24 |longm=45 |longEW=E
+|             lielākā_pilsēta = [[Tallina]]
+|              valsts_valodas = [[igauņu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[unitāra valsts|unitāra]] [[parlamentāra republika]]
+|        valsts_galvas_tituls = [[Igaunijas prezidents|Prezidents]]
+|                valsts_galva = [[Alars Kariss]]
+|       valsts_galvas_tituls2 = [[Igaunijas premjerministrs|Premjerministrs]]
+|               valsts_galva2 = [[Kaja Kallasa]]
+|        neatkarības_iegūšana = [[Igaunijas vēsture|Neatkarība]]
+|         neatkarības_piezīme = no [[Vācijas Impērija|Vācijas]] un [[Krievijas PFSR|Krievijas]]
+|        neatkarības_notikums = Deklarēta
+|          neatkarības_datums = {{dat|1918|2|24}}
+|       neatkarības_notikums2 = Atzīta
+|         neatkarības_datums2 = {{dat|1920|2|2}}
+|       neatkarības_notikums3 = [[Padomju Savienība|PSRS]] okupācija
+|         neatkarības_datums3 = {{dat|1940|6|16}}
+|       neatkarības_notikums4 = Atjaunota
+|         neatkarības_datums4 = {{dat|1991|8|20}}
+|          iestāšanāsESdatums = {{dat|2004|5|1}}
+|                 platība_km2 = 45 335
+|               platība_rangs = 129.
+|              procenti_ūdens = 4,56
+|     iedzīvotāju_skaita_gads = 2020
+|          iedzīvotāju_skaits = 1 329 460<ref name="Statistics"/>
+|    iedzīvotāju_skaits_rangs = 153.
+|    apdzīvotības_blīvums_km2 = 29,1
+|  apdzīvotības_blīvums_rangs = 194.
+|                     IKP_PPP = $36,947 miljardi
+|                IKP_PPP_gads = 2015
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $27,729
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{samazinājās}}0.890
+|                    HDI_gads = 2021
+|              HDI_kategorija = <font color="#009900">ļoti augsts</font>
+|                   HDI_rangs = 31.
+|                        Gini = 32,9
+|                   Gini_gads = 2013
+|             Gini_kategorija = <font color="#ffcc00">vidējs</font>
+|                  Gini_rangs = 
+|                      valūta = [[Eiro]]
+|                valūtas_kods = EUR
+|                  laika_zona = [[Austrumeiropas laiks|EET]]
+|                  utc_offset = +2
+|              laika_zona_DST = [[Austrumeiropas vasaras laiks|EEST]]
+|              utc_offset_DST = +3
+|                      domēns = [[.ee]]<sup>1</sup>
+|              tālsarunu_kods = 372
+|                    piezīme1 = Arī [[.eu]], kopā ar citām [[Eiropas Savienība]]s dalībvalstīm.
+|                iso_kods_num = 233
+|              iso_kods_alfa2 = EE
+|              iso_kods_alfa3 = EST
+}}
+'''Igaunijas Republika''' ({{val|et|Eesti Vabariik}}) ir valsts [[Ziemeļeiropa|Ziemeļeiropā]], viena no trim [[Baltijas valstis|Baltijas valstīm]]. Igauniju veido tās kontinentālā daļa un [[Monzunda arhipelāgs]] [[Baltijas jūra|Baltijas jūrā]]. Austrumos Igaunija robežojas ar [[Krievija|Krieviju]], dienvidos ar [[Latvija|Latviju]]. Igaunijai ir arī jūras robežas ar [[Somija|Somiju]] ziemeļos, [[Somu līcis|Somu līcī]], ar [[Zviedrija|Zviedriju]] rietumos, Baltijas jūrā, un Latviju dienvidrietumos, [[Rīgas līcis|Rīgas līcī]]. Valstī, kuras platība ir {{sk|45335}} km²,<ref name="lsm 22.02.2024" /> dzīvo vairāk nekā 1,3 miljoni iedzīvotāju. Igaunijas galvaspilsēta ir [[Tallina]].
+
+Kopš 13. gadsimta igauņu apdzīvotā zeme bija [[dāņi|dāņu]], [[vācieši|vācu]], [[zviedri|zviedru]] un [[krievi|krievu]] pakļautībā. Vēsturiski un arī kultūras ziņā Igaunijai vienmēr ir bijusi cieša saikne ne tikai ar Baltijas valstīm, bet arī ar [[Ziemeļvalstis|Ziemeļvalstīm]].<ref>{{Tīmekļa atsauce | url= http://www.vm.ee/?q=en/node/3489 | title= Estonia as a Nordic Country | publisher= Estonian Ministry of Foreign Affairs | accessdate= 2009-12-22 | archiveurl= https://web.archive.org/web/20110511094242/http://www.vm.ee/?q=en%2Fnode%2F3489 | archivedate= 2011-05-11 }} {{Webarchive|url=https://web.archive.org/web/20110511094242/http://www.vm.ee/?q=en%2Fnode%2F3489 |date=2011-05-11 }}</ref>
+Par neatkarīgu valsti Igaunija kļuva {{dat|1918|2|24||bez}}, [[Otrais pasaules karš|Otrā pasaules kara]] laikā pēc 1940. gada nokļuva [[Padomju Savienība|PSRS]] un Vācijas okupācijā, neatkarības atjaunošana tika pasludināta {{dat|1990|5|8||bez}}, bet pilnībā atjaunota {{dat|1991|8|20||bez}}, ko atzina arī PSRS valdība.
+
+Kopš {{dat|2004|5|1|Ģ|bez}} Igaunija ir [[Eiropas Savienība]]s dalībvalsts, kopš {{dat|2004|3|29|Ģ|bez}} ir [[NATO]] dalībvalsts, un kopš {{dat|2010|12|9|Ģ|bez}} ir [[Ekonomiskās sadarbības un attīstības organizācija|OECD]] dalībvalsts.
+
+== Etimoloģija ==
+[[Latviešu valoda]]s vārds "Igaunija" ir cēlies no [[Indriķa hronika|Indriķa hronikā]] minētā novada [[Ugaunija]]s nosaukuma, kurš pēc latviešu valodnieka [[Jānis Endzelīns|Jāņa Endzelīna]] domām ir ticis izrunāts kā [[ü]].<ref name="celojumubode" />
+
+Igaunijas pašnosaukums ''Eesti'', iespējams, ir cēlies no [[Senā Roma|romiešu]] vēsturnieka [[Tacits|Tacita]] darba "''[[Par Ģermānijas atrašanās vietu un tautām|Germania]]''", kurā viņš līdzās [[ģermāņi]]em aprakstīja arī austrumos no [[goti]]em dzīvojošās ciltis, dēvētas par [[eisti]]em ({{val|la|Aestii}}). Arī skandināvu [[sāgas|sāgās]] Igaunija bieži ir pieminēta kā ''Eistland''. [[Latīņu valoda|Latīņu valodā]] antīkos rakstiskajos avotos igauņu apdzīvotās zemes bieži ir apzīmētas kā ''Estia'' vai ''Hestia''. Tikai [[19. gadsimts|19. gadsimtā]], lai nostiprinātu savu [[Nacionālā identitāte|nacionālo identitāti]], igauņi savu zemi sāka saukt par ''Eesti''.
+
+== Vēsture ==
+{{Pamatraksts|Igaunijas vēsture}}
+[[Attēls:Medieval Livonia 1260.svg|thumb|left|[[Livonijas Konfederācija]] 1260. gadā. Kartē redzams, ka Igaunijas ziemeļos bija [[Dāņu Igaunija]], bet dienvidos atradās [[Sāmsalas-Vīkas bīskapija]], [[Tērbatas bīskapija]] un daļa no [[Livonijas ordenis|Livonijas ordeņa]]]]
+Pirmie cilvēki, kuri apdzīvoja Igaunijas teritoriju, bija [[Kundas kultūra]]s ciltis, kuras ģenētiski piederēja Rietumu mednieku-vācēju grupai. [[Narvas kultūra]]s laikmetā Rietumu mednieku-vācēju pirmiedzīvotāju genomam no apmēram 2900. līdz 2300. gadam p.m.ē. piejaucās [[Baltu pirmvaloda|baltu pirmvalodā]] runājošo lopkopju tautu ģenētiskais materiāls,<ref>[https://ui.adsabs.harvard.edu/abs/2018NatCo...9..442M/abstract Mittnik, A., Wang, CC., Pfrengle, S. et al. The genetic prehistory of the Baltic Sea region. Nat Commun 9, 442 (2018).]</ref> tomēr Eiropas pirmiedzīvotāju genoma īpatsvars saglabājās lielāks nekā jebkurā citā populācijā Eiropā.
+Vēlāk tie sajaucās ar no austrumiem ieceļojušajām [[Baltijas somi|Baltijas somu]] ciltīm un [[Skandināvija|skandināviem]] (salās un ziemeļu piekrastē).
+
+[[13. gadsimts|13. gadsimtā]] [[krustneši]] [[Dānija]]s karaļa [[Valdemārs II Estridsens|Valdemāra II]] vadībā devās [[Ziemeļu krusta kari|krusta karā]] uz [[Baltijas jūra]]s piekrastes teritorijām, lai [[pagānisms|pagānu]] ciltis pievērstu [[kristietība]]i.<ref name=Christiansen>{{Grāmatas atsauce|last=Christiansen|first=Erik|title=The Northern Crusades|url=https://archive.org/details/northerncrusades00eric|year=1997|publisher=Penguin Books|location=London|pages=[https://archive.org/details/northerncrusades00eric/page/287 287]|isbn=0-14-026653-4}}</ref> [[Livonijas krusta kari|Livonijas krusta karu]] laikā no 1208. līdz 1227. gadam Igaunijas teritoriju no savām galvenajām militārajām bāzēm [[Cēsis|Cēsīs]] un [[Tallina|Tallinā]] ar kristīto [[līvi|līvu]] un [[latgaļi|latgaļu]] vasaļu palīdzību iekaroja [[Zobenbrāļu ordenis]] un [[Dānija]], bet Romas pāvests to pasludināja par "Māras zemi" (''Terra Mariana'').
+
+1343. gadā notika igauņu [[Jurģa nakts sacelšanās|Jurģa nakts sacelšanos]] pret vācu un dāņu virskundzību,<ref>{{Tīmekļa atsauce | url= http://www.estonica.org/eng/lugu.html?menyy_id=993&kateg=43&nimi=&alam=80&tekst_id=994 | title= Much ado about Estonia or who prevailed on St. George's night? | publisher= Estonica | accessdate= 2009-12-26 | archiveurl= https://web.archive.org/web/20080413033959/http://www.estonica.org/eng/lugu.html?menyy_id=993&kateg=43&nimi=&alam=80&tekst_id=994 | archivedate= 2008-04-13 }} {{Webarchive|url=https://web.archive.org/web/20080413033959/http://www.estonica.org/eng/lugu.html?menyy_id=993&kateg=43&nimi=&alam=80&tekst_id=994 |date=2008-04-13 }}</ref> atsakoties no [[kristietība]]s un cīnoties pret [[dzimtbūšana|dzimtbūšanu]]. Pēc diviem gadiem [[Vācu ordenis]], kas valdīja Livonijā, apspieda nemierus un nopirka no Dānijas tai piederošās teritorijas. Līdz ar to Igaunijas teritorijā sākās pilnīga vācu virskundzība.
+
+[[Livonijas karš|Livonijas kara]] (1558—1583) sākumā 1559. gadā Krievijas cariste pilnībā iekaroja Tērbatas bīskapiju, vēlāk arī gandrīz visu Igaunijas teritoriju, tās dienvidu daļā Krievijas protektorātā nodibināja [[Livonijas karaliste|Livonijas karalisti]]. Pēc Krievijas sakāves Igaunijas ziemeļu daļā izveidojās [[Zviedru Igaunija]], dienvidu daļā [[Pārdaugavas Livonijas hercogiste]] [[Lietuvas dižkunigaitija]]s tiešā pārvaldībā, [[Sāmsala]] piederēja Dānijai. [[Poļu—zviedru karš (1600—1629)|Poļu—zviedru kara]] laikā zviedru iekarotajās Livonijas zemēs izveidoja [[Zviedru Vidzeme]]s  provinci.
+1645. gadā Dānija zaudēja Sāmsalas–Vīkas bīskapiju Zviedrijai<ref name="History World">{{Tīmekļa atsauce | url= http://www.historyworld.net/wrldhis/PlainTextHistories.asp?groupid=3064&HistoryID=ac83 | title= History of Sweden | publisher= History World | accessdate= 2009-12-27 | archive-date= 2011-06-06 | archive-url= https://web.archive.org/web/20110606174430/http://www.historyworld.net/wrldhis/PlainTextHistories.asp?groupid=3064&HistoryID=ac83 }}</ref> un zviedri pilnībā kontrolēja Igaunijas teritoriju. [[Zviedru laiki|Zviedru laikos]] igauņu ciemos tika dibinātas pirmās [[skola]]s. 1632. gadā ar karaļa [[Gustavs II Ādolfs|Gustava II]] rīkojumu [[Tartu]] atvēra [[Tartu Universitāte|Tērbatas Universitāti]].<ref>{{Tīmekļa atsauce | url= http://www.ut.ee/index.aw/set_lang_id=2 | title= University of Tartu | publisher= University of Tartu | accessdate= 2009-12-27 | archive-date= 2012-02-20 | archive-url= https://web.archive.org/web/20120220075729/http://www.ut.ee/index.aw/set_lang_id=2 }}</ref>
+
+Līdz 1700. gada februārim pret zviedru dominanci [[Baltijas jūra]]s reģionā apvienojās [[Dānija]], [[Polijas—Lietuvas ūnija]], [[Krievija]] un [[Saksija]], uzsākot [[Lielais Ziemeļu karš|Lielo Ziemeļu karu]]. Pēc vairākām kaujām, kurās uzvarēja gan zviedri, gan krievi, 1709. gadā Krievijai tomēr izdevās izšķirošajā [[Poltavas kauja|Poltavas kaujā]] pieveikt karaļa [[Kārlis XII Pfalcs-Cveibrikens|Kārļa XII]] vadīto karaspēku un vēlāk iekarot zviedru [[Baltijas provinces]]. Pēc kara igauņu apdzīvotā teritorija turpināja būt sadalīta starp divām guberņām: ziemeļu daļā atradās [[Igaunijas guberņa]] un dienvidu daļā [[Vidzemes guberņa]].
+
+Pēc [[Februāra revolūcija]]s 1917. gadā Vidzemes guberņas Pērnavas un Tērbatas apriņķus pievienoja Igaunijas guberņai. [[Brestļitovskas miera līgums|Brestļitovskas miera sarunās]] Krievija 1918. gada sākumā atteicās no Baltijas provincēm. Īsi pirms vācu karaspēka ienākšanas Tallinā {{dat|1918|2|24||bez}} tika pasludināta Igaunijas valsts neatkarība. Savukārt vācbaltieši 1918. gadā mēģināja izveidot [[Apvienotā Baltijas hercogiste|Apvienoto Baltijas hercogisti]] Vācijas Impērijas protektorātā.
+
+Pēc [[Novembra revolūcija|Novembra revolūcijas Vācijā]] un Brestļitovskas miera līguma anulēšanas jaunajai Igaunijas valstij 1919. gadā nācās izcīnīt smagas brīvības cīņas pret [[Sarkanā armija|Sarkano armiju]] un [[Padomju Latvijas armija|Padomju Latvijas armiju]] ([[Kauja pie Paju]]), vēlāk pret [[Baltijas landesvērs|Baltijas landesvēru]], kas beidzās ar uzvaru [[Cēsu kaujas|Cēsu kaujās]] 1919. gada jūnijā. Saskaņā ar [[Molotova—Ribentropa pakts|Molotova—Ribentropa paktu]], Igauniju [[Igaunijas okupācija (1940)|1940. gada jūnijā okupēja Sarkanā armija]] un augustā tā tika iekļauta [[Padomju Savienība]]s sastāvā kā [[Igaunijas PSR]]. 1941. gadā [[Trešais reihs|nacistiskā Vācija]] uzsāka karu ar Padomju Savienību un iebruka arī Igaunijas teritorijā. Sākotnēji igauņi uzskatīja vāciešus par atbrīvotājiem, jo cerēja, ka Igaunija atgūs neatkarību no PSRS, bet faktiski vienu okupācijas varu nomainīja cita. Pēc Vācijas karaspēka atkāpšanās Igaunija palika PSRS sastāvā. Pēckara gados Igaunijā darbojās nacionālo partizānu vienības, pazīstamākā bija ''Metsavennad'' (Meža brāļi), bet tās pamazām tika apspiestas.
+{{dat|1990|5|8||bez}} Igaunijas PSR tika likvidēta, bet pilnīga neatkarība no PSRS tika pasludināta {{dat|1991|8|20||bez}}.
+
+Pēc neatkarības atjaunošanas Igaunijas valdība 1998. gadā sāka sarunas par valsts iestāšanos [[Eiropas Savienība|Eiropas Savienībā]], kas sekmīgi noslēdzās  {{dat|2004|5|1||bez}}. {{dat|2004|3|29||bez}} Igaunija kļuva par [[NATO]] locekli. Neatkarības gados Igaunijas ekonomika nostiprinājās un 2011. gadā tā pievienojās [[eiro]] zonai.
+
+== Ģeogrāfija ==
+{{pamatraksts|Igaunijas ģeogrāfija}}
+[[Attēls:Satellite image of Estonia in April 2004.jpg|thumb|Igaunijas satelītuzņēmums 2004. gada aprīlī]]
+Igaunija ir valsts [[Eiropa]]s ziemeļaustrumos, [[Baltijas jūra]]s austrumu krastā ar daudziem [[ezers|ezeriem]] un [[sala|salām]]. Tā robežojas ar [[Krievija|Krieviju]] austrumos un [[Latvija|Latviju]] dienvidos, tai ir [[jūras robeža]] ar [[Somija|Somiju]], [[Zviedrija|Zviedriju]] un Latviju. Igaunija ir viena no mazākajām [[Eiropas Savienība]]s valstīm, tās platība ir {{nobr|45 335}} km² (2020. gadā).<ref name="lsm 22.02.2024" /> Igaunijas platums austrumu–rietumu virzienā ir 350 km, bet ziemeļu–dienvidu virzienā ir 240 km.
+
+Igaunija ir viena no līdzenākajām un zemāk virs jūras līmeņa novietotajām Eiropas valstīm. Igaunijas ainava lielākoties ir [[Ledus laikmets|Ledus laikmeta]] (glaciālās aktivitātes) rezultāts. Lielāko daļu teritorijas klāj meži (vairāk kā 45 %) un purvi, vai [[lauksaimniecība|lauksaimiecībā]] izmantojamas zemes. Valsts dienvidos atrodas [[Hānjas augstiene]] un [[Otepē augstiene]]. Šajā apvidū izteikti [[morēna|morēnu]] pauguri. Valsts centrālajā daļā atrodas [[Pandiveres augstiene]] — viens no bagātākajiem upju izteces reģioniem Igaunijā. Raksturīgi pauguri ar plakanām virsotnēm. Savukārt Ziemeļigaunijai ir raksturīgi ledāju atnesti [[dižakmens|dižakmeņi]], [[ūdenskritums|ūdenskritumi]] un [[piekraste]]s [[klints|klintis]]. Igaunijas vidējais augstums virs jūras līmeņa ir aptuveni 50 metri. 90 % no valsts ir zemāk par 100 metriem virs jūras līmeņa. Hānjas augstienē atrodas augstākā virsotne valstī un visā [[Baltijas valstis|Baltijā]] — [[Lielais Munameģis]] (317,4 m).
+
+[[Attēls:Eesti pealiskord.png|thumb|Pēdējā [[Ledus laikmets|Ledus laikmetā]] izveidojusies Igaunijas pamatiežu struktūra. [[Ordoviks|Ordovika]] [[kaļķakmens]] atsedzas ziemeļu piekrastē, bet [[devons|devona]] [[smilšakmens]] atsegumi — Dienvidigaunijas upju ielejās un [[Peipuss|Peipusa]] krastā]]
+[[Kristāliskais pamatklintājs|Kristālisko pamatklintāju]] Igaunijas teritorijā klāj biezs [[nogulumieži|nogulumiežu]] slānis, ko pārsvarā veido [[kaļķakmens]], [[dolomīts]], [[māls]] un [[smilšakmens]]. Kaļķakmens atsedzas Igaunijas ziemeļu piekrastē, bet smilšakmens atsegumi Dienvidigaunijas upju ielejās.
+
+Rietumigaunijā atrodas [[kadiķi|kadiķu]] lauki, bet austrumos — [[Peipuss]], [[Eiropas lielāko ezeru uzskaitījums|piektais lielākais ezers Eiropā]]. Cauri [[Peipusa-Pleskavas ezers|Peipusa-Pleskavas ezeru]] sistēmu ir novilkta [[Igaunijas un Krievijas robeža]], tāpēc daļa no ezera ir Igaunijas pusē, atlikusī daļa Krievijas pusē. Igaunijā ir aptuveni 1200 ezeri, kuru platība ir lielāka par vienu [[hektārs|hektāru]].<ref name="Nature" /> Aptuveni 4,7% no Igaunijas teritorijas ir ezeri.<ref name="Nature">{{Tīmekļa atsauce | url= http://www.estonica.org/eng/lugu.html?kateg=10&menyy_id=422&alam=70&leht=5 | title= Nature: The hydrographic network | publisher= Estonica | accessdate= 2009-12-28 | archiveurl= https://web.archive.org/web/20080420044144/http://www.estonica.org/eng/lugu.html?kateg=10&menyy_id=422&alam=70&leht=5 | archivedate= 2008-04-20 }}</ref> Igaunijas centrālās daļas dienvidos atrodas vēl viens liels ezers — [[Vertsjervs]]. Aptuveni 10 % no Igaunijas platības ir salas,<ref name="Nature"/> to kopējais skaits ir 2317 (2020. gadā).<ref name="lsm 22.02.2024" /> Igaunijas rietumu piekrastē ir ļoti daudz salu, kuru kopskaits [[Monzunda arhipelāgs|Monzunda arhipelāgā]] ir aptuveni 1500.<ref name="celojumubode">{{Tīmekļa atsauce | url= http://www.celojumubode.lv/?valsts_page_id=2&Igaunija | title= Igaunija | publisher= Ceļojumubode.lv | accessdate= 2009-12-27}}</ref> Lielākās no tām ir [[Sāmsala]], [[Hījumā]], [[Muhu]] un [[Vormsi]].
+
+[[Igaunijas upju uzskaitījums|Igaunijā esošās upes]] ietek [[Somu līcis|Somu līcī]], [[Rīgas līcis|Rīgas līcī]] vai [[Peipuss|Peipusa]] ezerā. Garākās upes ir [[Vehandu]] (165,2 km) un [[Pernu]] (144,5 km). Citas nozīmīgas upes ir [[Narva (upe)|Narva]], kas savieno Piepusu ar Somu līci, [[Pedja (upe)|Pedja]], [[Peltsamā (upe)|Peltsamā]] un [[Kazari]].
+
+=== Klimats ===
+Igaunijas piekrastē valda mērens [[jūras klimats]] ar vēsām vasarām un siltām ziemām, bet austrumdaļā tas pāriet uz mēreni [[kontinentālais klimats|kontinentālo klimatu]]. Vidējā [[temperatūra]] janvārī ir +4&nbsp;°C rietumos līdz -7,5&nbsp;°C austrumos.<ref name="celojumubode" /> Savukārt jūlija vidējā temperatūra mainās no +16,5&nbsp;°C rietumos līdz +17,5&nbsp;°C austrumos.<ref name="celojumubode" /> Klimata apstākļi Igaunijā ir diezgan līdzīgi Latvijas klimatiskajiem apstākļiem.
+
+== Dzīvā daba ==
+Igaunija atrodas [[jauktie meži|jaukto mežu]] dabas zonā. Gandrīz pusi Igaunijas teritorijas klāj [[mežs|meži]], kuros aug aptuveni 90 koku un krūmu sugu. Visizplatītākās sugas ir [[parastā priede|priedes]], [[parastā egle|egles]], [[bērzi]] un [[apses]]. Mazāk aug [[ozoli]], [[kļavas]], [[gobas]] un [[oši]]. Otru valsts pusi aptuveni vienādās daļās veido [[pļava]]s un [[purvs|purvi]], kuros ir sastopamas aptuveni 1500 augu sugas.
+
+[[Attēls:Landsvale.jpg|thumb|[[Bezdelīga]] ir Igaunijas nacionālais putns]]
+Igaunijā dzīvo 60 [[zīdītāji|zīdītāju]] sugas. Lielākie dzīvnieki ir [[alnis|aļņi]], [[staltbriedis|staltbrieži]], [[stirna]]s un [[meža cūka]]s. Biezākos mežos, it īpaši valsts ziemeļaustrumos, sastopami [[Eirāzijas lūsis|lūši]] un [[brūnais lācis|lāči]]. Plaši izplatīti dzīvnieki ir arī [[rudā lapsa|lapsas]], [[āpsis|āpši]], [[Eiropas ūdrs|ūdri]], [[pelēkais zaķis|zaķi]], [[Eiropas ūdele|ūdeles]] un [[ondatra]]s. Liela komerciāla nozīme ir [[zivis|zivīm]] — [[menca|mencām]], [[siļķes|siļķēm]], [[lasis|lašiem]], [[zutis|zušiem]], [[butes|butēm]] un citām. Igaunijas nacionālā zivs ir [[Atlantijas siļķe|siļķe]]. Arī [[putni|putnu]] daudzveidība ir liela. Ir gan nometnieki, gan gājputni. Ir konstatētas vairāk nekā 300 putnu sugas, piemēram, [[ērgļi (putni)|ērgļu]] sugas un [[melnais stārķis|melnie stārķi]]. Igaunijas nacionālais putns ir [[bezdelīga]].
+
+Līdz ar neatkarības atgūšanu 1991. gadā Igaunijā regulāri tiek veikts darbs pie [[dabiskā vide|dabiskās vides]] saglabāšanas, uzlabošanas un aizsardzības. Ir samazināts [[gaisa piesārņojums|gaisa]] un [[ūdens piesārņojums]],<ref name="Britannica">{{tīmekļa atsauce | url= https://www.britannica.com/place/Estonia#ref37271 | title= Estonia | publisher= Encyclopedia Britannica | accessdate= 2018. gada 25. oktobrī}}</ref> palielināta mežu platība. Aptuveni desmitā daļa no valsts ir [[dabas aizsardzība]]s teritorijas. Igaunijā ir pieci [[nacionālais parks|nacionālie parki]] — [[Lahemā nacionālais parks]] (izveidots 1971. gadā), [[Karulas nacionālais parks]] (1993), [[Somā nacionālais parks]] (1993), [[Vilsandi nacionālais parks]] (1993) un [[Matsalu nacionālais parks]] (2003) — , kā arī 167 [[dabas rezervāts|dabas rezervāti]].
+
+== Administratīvais iedalījums ==
+{{Pamatraksts|Igaunijas administratīvais iedalījums}}
+{| width=400px align=right
+|-
+|
+{{Image label begin|image=Estonia location map (2005-2017) no rivers.svg|width=400|float=none}}
+
+{{Image label small|x=0.320|y=0.380|scale=500|text=[[Pērnavas apriņķis|Pērnavas<br />apriņķis]]}}
+{{Image label small|x=0.090|y=0.410|scale=500|text=[[Sāremā apriņķis|Sāremā<br />apriņķis]]}}
+{{Image label small|x=0.110|y=0.310|scale=500|text=[[Hījumā apriņķis|Hījumā<br />apriņķis]]}}
+{{Image label small|x=0.240|y=0.310|scale=500|text=[[Lēnes apriņķis|Lēnes<br />apriņķis]]}}
+{{Image label small|x=0.350|y=0.300|scale=500|text=[[Raplas apriņķis|Raplas<br />apriņķis]]}}
+{{Image label small|x=0.515|y=0.200|scale=500|text=[[Rietumviru apriņķis|Rietumviru<br />apriņķis]]}}
+{{Image label small|x=0.345|y=0.225|scale=500|text=[[Harju apriņķis]]}}
+{{Image label small|x=0.640|y=0.230|scale=500|text=[[Austrumviru apriņķis|Austrumviru<br />apriņķis]]}}
+{{Image label small|x=0.460|y=0.310|scale=500|text=[[Jervas apriņķis|Jervas<br />apriņķis]]}}
+{{Image label small|x=0.550|y=0.350|scale=500|text=[[Jegevas apriņķis|Jegevas<br />apriņķis]]}}
+{{Image label small|x=0.450|y=0.430|scale=500|text=[[Viljandi apriņķis|Viljandi<br />apriņķis]]}}
+{{Image label small|x=0.580|y=0.420|scale=500|text=[[Tartu apriņķis|Tartu<br />apriņķis]]}}
+{{Image label small|x=0.510|y=0.500|scale=500|text=[[Valgas apriņķis|Valgas<br />apriņķis]]}}
+{{Image label small|x=0.630|y=0.480|scale=500|text=[[Pelvas apriņķis|Pelvas<br />apriņķis]]}}
+{{Image label small|x=0.600|y=0.540|scale=500|text=[[Veru apriņķis|Veru<br />apriņķis]]}}
+{{Image label end}}
+|}
+
+Administratīvi Igaunija ir sadalīta [[Igaunijas apriņķi|15 apriņķos]] ({{val|et|maakond}}). Šāds iedalījums pastāv kopš 1990. gada, kad Igaunija atguva neatkarību no [[Padomju Savienība]]s. Apriņķi sīkāk iedalās 79 pašvaldībās: 14 pilsētu ({{val|et|linn}}) pašvaldībās un [[Igaunijas pagasti|65 pagastos]] ({{val|et|vald}}).
+
+2017. gadā pabeidza Igaunijas otrā līmeņa administratīvā iedalījuma reformu, kas samazināja pašvaldību skaitu un līdz ar to palielināja iedzīvotāju skaitu tajās. Pirms tam bija 33 pilsētu un 183 pagastu pašvaldības. No tām 169 pašvaldībās bija mazāk par 5 tūkstošiem iedzīvotāju. Pēc reformas tikai 15 pašvaldībās iedzīvotāju skaits ir mazāks par 5 tūkstošiem.
+
+Igaunijas apriņķi ir šādi:
+{{colbegin|2}}
+* [[Austrumviru apriņķis]]
+* [[Harju apriņķis]]
+* [[Hījumā apriņķis]]
+* [[Jegevas apriņķis]]
+* [[Jervas apriņķis]]
+* [[Lēnes apriņķis]]
+* [[Pelvas apriņķis]]
+* [[Pērnavas apriņķis]]
+* [[Raplas apriņķis]]
+* [[Rietumviru apriņķis]]
+* [[Sāremā apriņķis]]
+* [[Tartu apriņķis]]
+* [[Valgas apriņķis]]
+* [[Veru apriņķis]]
+* [[Viljandi apriņķis]]
+{{colend}}
+
+== Valdība ==
+{{Pamatraksts|Igaunijas politisko partiju uzskaitījums}}
+Igaunija ir parlamentāra [[demokrātija]], kuras prezidentu ievēl vienpalātas parlaments (vēlēšanas reizi piecos gados). Valdību veido [[Igaunijas premjerministrs|premjerministrs]], kuru ieceļ [[Igaunijas prezidents|prezidents]], un 14 ministri. Valdību apstiprina prezidents un parlaments.
+
+Likumdošanas vara pieder vienpalātas parlamentam [[Rīgikogu]], kuru sastāda 101 deputāts. To ievēl tiešās proporcionālās vēlēšanās uz četriem gadiem. Tiesu varas augstākais orgāns ir ''Riigikohus'' ar 17 tiesnešiem, kuru priekšsēdētāju izvirza prezidents, bet pēc tam apstiprina parlaments uz mūžu.
+
+== Iedzīvotāji ==
+[[Attēls:Old town of Tallinn 06-03-2012.jpg|thumb|Skats uz Igaunijas lielāko pilsētu Tallinu]]
+{{Sektoru diagramma
+| thumb = right
+| caption = Igaunijas etniskais sastāvs
+| other = 
+| label1 = [[igauņi]]
+| value1 = 68.7
+| color1 = green
+| label2 = [[krievi]]
+| value2 = 25.6
+| color2 = red 
+| label3 = [[ukraiņi]]
+| value3 = 2.1
+| color3 = blue
+| label4 = citi
+| value4 = 3.6
+| color4 = yellow
+}}
+
+Igaunijā {{dat|2021|1|1||bez}} dzīvoja {{nobr|1 330 068}} cilvēku.<ref name="Statistics">{{Tīmekļa atsauce|url=https://www.stat.ee/en/node/183326|title=There were again fewer births than deaths, with population figure boosted by immigration|last=|first=|publisher=Statistics Estonia|accessdate=12.05.2021|date=12.05.2021|language=en}}</ref> [[Iedzīvotāju blīvums]] ir 29,1 cilv./km². Aptuveni viena trešdaļa no visiem [[Iedzīvotāju skaits|iedzīvotājiem]] dzīvo galvaspilsētā [[Tallina|Tallinā]]. Citas lielākās pilsētas ir studentu pilsēta [[Tartu]], rūpniecības robežpilsēta [[Narva]] un "vasaras galvaspilsēta" [[Pērnava]].
+
+Igaunijas pamatnācija ir [[igauņi]] (mazliet vairāk kā divas trešdaļas), kas ir viena no [[Baltijas somi|Baltijas somu valodās]] runājošām tautām, līdzīgi [[lībieši]]em, [[somi]]em, [[voti]]em, [[karēļi]]em un [[sāmi]]em. Aptuveni 25% no iedzīvotājiem ir [[Igaunijas krievi|krievi]]. Nākamās lielākās etniskās grupas ir [[ukraiņi]], [[baltkrievi]] un [[somi]].
+
+=== Etniskais sastāvs ===
+{| class="sortable wikitable" style="text-align:left; font-size:90%"
+|- style="font-size:100%; text-align:left"
+!width="200px"|[[Tauta|Tautība]]!!width="150px"|[[Iedzīvotāju skaits]]
+!!width="50px"|%</tr>
+|-
+| [[Igauņi]] ||921 062|| style="text-align:right"|68,7%
+|-
+| [[Krievi]] ||344 280|| style="text-align:right"|25,6%
+|-
+| [[Ukraiņi]] ||28 158||style="text-align:right"|2,1%
+|-
+| [[Baltkrievi]] ||16 134|| style="text-align:right"|1,2%
+|-
+| [[Somi]] ||11 035||style="text-align:right"|0,8%
+|-
+| [[Tatāri]] ||2 487|| style="text-align:right"|0,2%
+|-
+| [[Latvieši]] ||2 216|| style="text-align:right"|0,2%
+|-
+| [[Poļi]] ||2 216|| style="text-align:right"|0,2%
+|-
+| [[Lietuvieši]] ||2 077|| style="text-align:right"|0,1%
+|-
+| [[Ebreji]] ||1 900|| style="text-align:right"|0,1%
+|-
+| [[Vācieši]] ||1 900|| style="text-align:right"|0,1%
+|-
+| ''Citi'' ||9 084|| style="text-align:right"|0,7%
+|-
+|}
+
+'''Etniskais sastāvs Igaunijā (1881-2000)'''
+{| class="wikitable collapsible collapsed"
+|-
+! Gads!! 1881!! 1897!! 1922!! 1934!! 1941!! 1959!! 1970!! 1979!! 1989!! 2000
+|-
+| Iedzīvotāji kopā|| 881455|| 958351|| 1107059|| 1126413|| 1017475|| 1196791|| 1356079|| 1464476|| 1565662|| 1370052
+|-
+| [[igauņi]]|| 790455|| 867794|| 969976|| 992520|| nez.|| 892653|| 925157|| 947812|| 963281|| 930219
+|-
+| [[krievi]]|| +29385|| 37599|| 91109|| 92656|| 72848|| 240227|| 334620|| 408778|| 474834|| 351178
+|-
+| [[ukraiņi]]|| +krievi|| 504|| nez.|| 92|| nez.|| 15769|| 28086|| 36044|| 48271|| 29012
+|-
+| [[baltkrievi]]|| +krievi|| 272|| nez.|| 0|| nez.|| 10930|| 18732|| 23461|| 27711|| 17241
+|-
+| [[somi]]|| 103|| 379|| 401|| 1088|| 1124|| 16699|| 18537|| 17753|| 16622|| 11837
+|-
+| [[tatāri]]|| 11|| 106|| nez.|| 166|| nez.|| 1534|| 2204|| 3195|| 4058|| 2582
+|-
+| [[latvieši]]|| 4153|| 5470|| 4338|| 5435|| 4415|| 2888|| 3286|| 3963|| 3135|| 2330
+|-
+| [[poļi]]|| 223|| 1941|| ~969|| 1608|| 1520|| 2256|| 2651|| 2897|| 3008|| 2193
+|-
+| [[ebreji]]|| 3290|| 3837|| 4566|| 4434|| nez.|| 5433|| 5282|| 4954|| 4613|| 2145
+|-
+| [[lietuvieši]]|| 0|| 134|| ~436|| 253|| 213|| 1616|| 2356|| 2379|| 2568|| 2116
+|-
+| [[vācieši]]|| 46779|| 33362|| 18319|| 16346|| nez.|| 670|| 7850|| 3944|| 3466|| 1870
+|-
+| [[armēņi]]|| 3|| 11|| nez.|| 24|| nez.|| 648|| 604|| 845|| 1669|| 1444
+|-
+| [[azerbaidžāņi]]|| 0|| 0|| 0|| 0|| 0|| 422|| 264|| 543|| 1238|| 880
+|-
+| [[moldāvi]]|| 0|| 0|| nez.|| 2|| nez.|| 229|| 451|| 738|| 1215|| 645
+|-
+| [[mordvieši]]|| 0|| 22|| nez.|| 3|| nez.|| 391|| 532|| 723|| 985|| 562
+|-
+| [[čigāni]]|| nez.|| 154|| nez.|| 766|| nez.|| 366|| 438|| 529|| 665|| 542
+|-
+| [[čuvaši]]|| 0|| 8|| 0|| 0|| nez.|| 312|| 602|| 804|| 1178|| 495
+|-
+| [[gruzīni]]|| 0|| 7|| nez.|| 22|| nez.|| 433|| 422|| 450|| 606|| 430
+|-
+| [[karēļi]]|| 0|| 4|| nez.|| 7|| nez.|| 295|| 671|| 773|| 881|| 430
+|-
+| [[ižori]]+[[ingri]]|| +somi|| 21|| nez.|| 841|| 522|| 366|| 181|| 228|| 306|| 420
+|-
+| [[zviedri]]|| 5548|| 6083|| 7850|| 7641|| 6487|| nez.|| 435|| 254|| 297|| 300
+|-
+| [[marieši]]|| 0|| 0|| 0|| 0|| nez.|| 56|| 120|| 191|| 359|| 245
+|-
+| [[udmurti]]|| 0|| 8|| nez.|| 0|| nez.|| 167|| 236|| 309|| 413|| 241
+|-
+| [[bulgāri]]|| 0|| 4|| nez.|| 3|| nez.|| 98|| 163|| 190|| 262|| 204
+|-
+| [[ungāri]]|| 2|| 8|| nez.|| 28|| nez.|| 30|| 111|| 191|| 241|| 172
+|-
+| [[korejieši]]|| 0|| 0|| 0|| 1|| nez.|| 40|| 96|| 103|| 202|| 169
+|-
+| [[baškīri]]|| 0|| 1|| 0|| 0|| nez.|| 85|| 126|| 332|| 371|| 152
+|-
+| [[grieķi]]|| 1|| 22|| nez.|| 25|| nez.|| 72|| 114|| 104|| 182|| 150
+|-
+| [[komieši]]|| 0|| 0|| nez.|| 1|| nez.|| 88|| 130|| 139|| 196|| 138
+|-
+| [[Amerikāņi (nācija)|amerikāņi]]|| nez.|| nez.|| nez.|| 18|| nez.|| 1|| 3|| 1|| 4|| 133
+|-
+| [[uzbeki]]|| 0|| 0|| 0|| 0|| nez.|| 465|| 224|| 397|| 595|| 132
+|-
+| [[kazahi]]|| 0|| 10|| nez.|| 0|| nez.|| 141|| 194|| 226|| 424|| 127
+|-
+| [[lezgīni]]|| 0|| 0|| 0|| 0|| nez.|| 30|| 52|| 67|| 178|| 121
+|-
+| [[osetini]]|| 0|| 0|| nez.|| 2|| nez.|| 122|| 113|| 161|| 201|| 116
+|-
+| [[rumāņi]]|| 0|| 2|| nez.|| 1|| nez.|| 26|| 32|| 47|| 88|| 77
+|-
+| [[angļi]]|| 194|| 135|| ~223|| 158|| nez.|| 8|| 15|| 3|| 4|| 55
+|-
+| [[hindi]]|| 0|| 0|| 0|| 0|| 0|| 0|| 10|| 1|| 0|| 55
+|-
+| [[čečeni]]|| 0|| 0|| 0|| 0|| 0|| 34|| 11|| 38|| 45|| 48
+|-
+| [[vepsi]]|| 0|| 0|| 0|| 0|| nez.|| 20|| 31|| 23|| 37|| 43
+|-
+| [[dāņi]]|| 44|| 87|| nez.|| 228|| nez.|| nez.|| 15|| 6|| 3|| 38
+|-
+| [[turkmēņi]]|| 0|| 0|| 0|| 0|| nez.|| 7|| 149|| 66|| 106|| 36
+|-
+| [[tadžiki]]|| 0|| 0|| 0|| 0|| nez.|| 207|| 45|| 52|| 113|| 35
+|-
+| [[gagauzi]]|| 0|| 0|| 0|| 0|| nez.|| 7|| 27|| 41||69|| 32
+|-
+| [[avāri]]|| 0|| 0|| 0|| 0|| nez.|| 19|| 16|| 28|| 69|| 30
+|-
+| [[holandieši]]|| 1|| 3|| nez.|| 32|| nez.|| 0|| 17|| 22|| 10|| 28
+|-
+| [[ķīnieši]]|| 0|| 0|| nez.|| 9|| nez.|| 6|| 17|| 8|| 8|| 27
+|-
+| [[itāļi]]|| 4|| 4|| nez.|| 20|| nez.|| 9|| 5|| 3|| 3|| 27
+|-
+| [[dargini]]|| 0|| 0|| 0|| 0|| nez.|| 3|| 6|| 27|| 45|| 26
+|-
+| [[franči]]|| 70|| 140|| nez.|| 102|| nez.|| 13|| 14|| 5|| 10|| 26
+|-
+| [[kirgīzi]]|| 0|| 0|| 0|| 0|| nez.|| 21|| 49|| 46|| 81|| 26
+|-
+| [[turki]]|| 0|| 8|| nez.|| 16|| nez.|| 6|| 23|| 22|| 23|| 24
+|-
+| [[čehi]]|| 12|| 25|| nez.|| 92|| nez.|| 28|| 42|| 39|| 37|| 21
+|}
+
+=== Reliģija ===
+32% Igaunijas iedzīvotāju ir ticīgie [[kristietība|kristieši]], no tiem:
+* 14,8% [[luterisms|luterāņi]],
+* 13,8% [[pareizticība|pareizticīgie]],
+* aptuveni 6000 [[baptisti]],
+* aptuveni 6000 [[Romas Katoļu baznīca|katoļi]].
+
+=== Valoda ===
+
+Vienīgā [[valsts valoda]] ir [[igauņu valoda]], tāpat kā [[lībiešu valoda|lībiešu]], [[somu valoda|somu]] un [[ungāru valoda]], pieder [[Somugru valodas|somugru valodām]]. Tā nav lingvistiski saistīta ar [[Indoeiropiešu valodas|indoeiropiešu valodām]], kurās runā lielākā daļa Eiropas tautu. Apmēram ceturtā daļa iedzīvotāju ikdienā runā [[krievu valoda|krievu valodā]],<ref name="ES portāls">{{Tīmekļa atsauce | url= http://europa.eu/abc/european_countries/eu_members/estonia/index_lv.htm | title= Igaunija | publisher= Eiropas Savieības portāls | accessdate= 2009-12-27 | archiveurl= https://web.archive.org/web/20091221075857/http://europa.eu/abc/european_countries/eu_members/estonia/index_lv.htm | archivedate= 2009-12-21 }}</ref> galvenokārt valsts ziemeļaustrumos, pie Krievijas robežas. Igauņu valoda kopā ar somu, ungāru un [[maltiešu valoda|maltiešu]] valodām ir vienīgās [[Eiropas Savienības valodas|valsts valodas Eiropas Savienībā]], kuras nepieder pie [[indoeiropiešu valodas|indoeiropiešu valodu]] saimes.
+
+== Tautsaimniecība ==
+{{pamatraksts|Igaunijas saimniecība}}
+Igaunijas tautsaimniecība balstās uz inženiertehnisko nozari, [[pārtikas rūpniecība|pārtikas rūpniecību]], [[metālapstrāde|metālapstrādi]], [[ķīmiskā rūpniecība|ķīmisko rūpniecību]] un koka izstrādājumu ražošanu.<ref name="ES portāls" /> No [[iekšzemes kopprodukts|iekšzemes kopprodukta]] aptuveni 15% ienākumus dod [[tūrisms]].<ref name="ES portāls" />
+
+Nozīmīgākie [[derīgie izrakteņi]]: [[degslāneklis]], [[fosforīti]], [[kaļķakmens]], [[smiltis]] un [[kūdra]].<ref name="celojumubode" />
+
+'''Eksports un imports'''
+{| class="sortable wikitable" style="text-align:left; font-size:90%"
+|- style="font-size:100%; text-align:left"
+!width="120px"|Igaunija!!width="60px"|[[Eksports]]
+!!width="60px"|[[Imports]]</tr>
+|-
+| [[Somija]] ||18,4%|| style="text-align:right"|18,3%
+|-
+| [[Zviedrija]] ||12,4%|| style="text-align:right"|9%
+|-
+| [[Latvija]] ||8,9%||style="text-align:right"|5,7%
+|-
+| [[Krievija]] ||8,1%|| style="text-align:right"|13,1%
+|-
+| [[Vācija]] ||5,1%||style="text-align:right"|12,4%
+|-
+| [[Lietuva]] ||4,8%|| style="text-align:right"|6,4%
+|-
+|}
+
+== Kultūra ==
+[[Attēls:Sassi Jaani.jpg|thumbnail|Dzīvojamās [[rija]]s ir viens no tradicionālās igauņu kultūras mantojumiem]]
+Igauņu kultūru ir ietekmējušas nācijas, kuru pakļautībā viņi ir bijuši. Ir jūtama gan krievu, gan vāciešu, gan zviedru, gan dāņu, gan poļu kultūra. Arī valsts ģeogrāfiskais stāvoklis mūsdienās ietekmē Igaunijas kultūru. Tradicionāli Igaunijas ziemeļi, īpaši [[Tallina]]s apkārtne, vairāk ietekmējusies no ārzemju kultūrām nekā Igaunijas dienvidi, kur mazāk jūtama citu pasaules valstu kultūras. 19. gadsimtā viens no igauņu nacionālistu mērķiem bija apvienot esošās paražas un tradīcijas, izveidojot vienotu igauņu kultūru. Nozīmīgākais šīs kustības mantojums ir apdzīvojamas [[rija]]s ({{val|et|rehielamu}}) — zemnieku mājas, kurām nav līdzīgu pārējā pasaulē, izņemot mazliet [[Latvija]]s ziemeļos esošās.<ref name="Estonica-barn dwelling">{{tīmekļa atsauce | url= http://www.estonica.org/en/Barn-dwelling___/ | title= Estonica.org - Barn-dwelling | publisher= Estonica.org | language= en | accessdate= 2018. gada 27. oktobrī | archive-date= {{dat|2015|09|20||bez}} | archive-url= https://web.archive.org/web/20150920204901/http://www.estonica.org/en/Barn-dwelling___/ }}</ref> Šajās celtnēs zemnieki  dzīvoja, strādāja, žāvēja labību un kūla to, kā arī dažreiz turēja mājlopus.
+
+Dzīvojamās rijas ir kļuvušas par vēstures daļu, bet citi vēsturiski kultūras elementi joprojām ir dzīvi. Tradicionālos igauņu [[tautas tērps|tautas tērpus]], kurus savulaik valkāja ikdienā, mūsdienās joprojām velk mugurā svētkos. Arī igauņu dziesmas un dejas ir daļa no Igaunijas identitātes. Tradicionālie ēdieni [[igauņu virtuve|igauņu virtuvē]] ir marinēts [[zutis]], [[asinsdesa]] un sautēti skābi [[kāposti]] ar [[cūkgaļa|cūkgaļu]],<ref name="ES portāls" /> kā arī [[rupjmaize]], [[sautējums|sautējumi]], [[ievārījums|ievārījumi]], [[marinēti gurķīši]], [[grūbas]], [[kartupeļu biezputra]] un [[sālīta siļķe]]. Svētkos galdā ceļ [[cepta zoss|ceptu zosi]], cūkgaļu, [[alus|alu]], [[melnais pudiņš|melno pudiņu]], [[ābols|ābolus]], [[rieksti|riekstus]] un [[piparkūka]]s.
+
+Nozīmīgākie svētki ir [[Jaunais gads|Jaunā gada]] sagaidīšana, [[Lieldienas]], [[Darba svētki]] (1. maijs) un [[Ziemassvētki]], kā arī [[Uzvaras diena (Igaunija)|Uzvaras diena]] (23. jūnijā par godu izšķirošajai Brīvības cīņu kaujai 1919. gadā pie Cēsīm; ''Võidupüha'')<ref name="nra">{{tīmekļa atsauce | url= https://nra.lv/pasaule/74523-igaunija-atzime-uzvaras-dienu.htm | title= Igaunijā atzīmē Uzvaras dienu | publisher= Neatkarīga Rīta Avīze | language= lv | date= 2012. gada 23. jūnijs | accessdate= 2018. gada 28. oktobrī}}</ref> un [[Svētā Jāņa diena]] (24. jūnijs, ''Jaanipäev''). 24. februārī ir Igaunijas neatkarības diena, atzīmējot Igaunijas neatkarības iegūšanu no [[Padomju Savienība]]s, bet 20. augustā ir Igaunijas neatkarības atjaunošanas diena, atzīmējot neatkarības atgūšanu 1991. gadā. Citas valsts svētku dienas ir 2. februāris, atzīmējot 1920. gadā parakstīto [[Tartu līgums (Krievija–Igaunija)|Tartu miera līgumu]] starp Igauniju un Krieviju, un 14. jūnijs, pieminot aptuveni 10 tūkstošus igauņu, kurus 1941. gadā padomju vara deportēja no valsts.
+
+Kopš 19. gadsimta nemitīgi palielinās [[Igaunijas literatūra|igauņu literatūras]] apjoms un nozīme. 20. gadsimta nozīmīgākie igauņu rakstnieki ir [[Antons Hansens Tammsāre]], [[Jāns Kross]] un [[Tenu Ennepalu]]. Šo rakstnieku darbi tulkoti arī citu valstu valodās. Slaveni ir arī tautas eposa "[[Kalevipoegs]]" autors [[Frīdrihs Reinholds Kreicvalds]] un rakstnieks, kinorežisors, bijušais valsts prezidents [[Lennarts Meri]].
+
+Profesionālā [[teātris|teātra]] sākums tiek saistīts ar [[Vanemuine]]s teātra izveidi 1870. gadā [[Tartu|Tērbatā]] (mūsdienās Tartu). Mūsdienās vairāki teātri atrodas Tallinā, tajā skaitā, operteātris, jauniešu teātris, leļļu teātris. Kopš 1990. gada [[Pērnava|Pērnavā]] un [[Rakvere|Rakverē]] notiek alternatīvā un avangarda teātra festivāls ''[[Baltoscandal]]''. Rakvere iespējams ir mazākā pilsēta Eiropā, kurā ir profesionālais teātris.<ref>{{tīmekļa atsauce | author= Taul, Gregor | url= http://www.sirp.ee/index.php?option=com_content&view=article&id=13717:turism-ja-linnamaastikud-pihkvas&catid=20:arhitektuur&Itemid=25&issue=3374 | title= Turism ja linnamaastikud Pihkvas" | publisher= ''Sirp'' | date= 2011. gada 22. decembrī | accessdate= 2018. gada 28. oktobrī | language= et | archive-date= 2012. gada 13. Septembris | archive-url= https://archive.today/20120913112409/http://www.sirp.ee/index.php?option=com_content&view=article&id=13717:turism-ja-linnamaastikud-pihkvas&catid=20:arhitektuur&Itemid=25&issue=3374 }}</ref>
+
+[[Attēls:Üldlaulupidu 2014 - 26.JPG|thumbnail|left|Igauņu dziesmu svētki 2014. gadā]]
+Arī [[tēlotāja māksla]]s uzplaukums igauņu kultūrā bija 19. gadsimtā, kad [[Johans Kēlers]] kļuva par vadošo portretu mākslinieku. Viņš tiek uzskatīts par igauņu profesionālās [[glezniecība]]s pamatlicēju. 1920. gados un 1930. gados [[Eduards Vīralts|Eduarda Vīralta]] radītā [[grafika]] simbolizē [[bohēma|bohēmiskās]] mākslas aizsākumus valstī. Starptautisku slavu ir guvuši tēlnieks [[Juri Ojaver]]s, keramiķi [[Leo Rohlin]]s un [[Kaido Kask]]s, digitālās mākslas māksliniece [[Mare Tralla]] un grafiķis [[Urmo Raus]]s.
+
+Viena no igauņu kultūras izpausmēm 19. gadsimtā radās [[Igauņu dziesmu svētki|dziesmu svētki]], kas joprojām ir ļoti populāri. Pirmie igauņu dziesmu svētki 1869. gadā notika [[Tartu|Tērbatā]] (mūsdienās Tartu). Kopš 1934. gada notiek arī [[Igauņu deju svētki|deju svētki]]. Abi pasākumi ir kļuvuši par vienu no nacionālās identitātes simboliem. Ievērojamākie igauņu komponisti un diriģenti ir [[Rudolf Tobias|Rūdolfs Tobiass]], [[Arvo Perts]] un [[Neeme Järvi|Nēme Jervi]].
+
+Vēsturiskās arhitektūras dēļ [[Tallinas vecpilsēta]] 1997. gadā tika iekļauta [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]]. Bez Tallinas vecpilsētas UNESCO mantojumā ir vēl [[Strūves ģeodēziskais loks]] (Igaunijas teritorijā atrodas trīs punkti no šī loka). [[Igaunijas Arhitektūras muzejs]] apmeklētājus iepazīstina ne tikai ar [[Igaunijas arhitektūra|Igaunijas arhitektūru]] agrāk, bet arī ar tās attīstību mūsdienās.
+
+1909. gadā kā visaptverošs igauņu kultūras mantojums [[Tartu]] pilsētā dibināts [[Igaunijas Nacionālais muzejs]]. Tartu atrodas arī [[Igaunijas Literatūras muzejs]], kurā ir apkopota igauņu folklora un literatūra. Starp citiem nozīmīgiem muzejiem un galerijām minami [[Laikmetīgās mākslas centrs (Igaunija)|Laikmetīgās mākslas centrs]] Tallinā, [[Jaunās mākslas muzejs]] Pērnavā un [[Igaunijas Brīvdabas muzejs]] Tallinā.
+
+== Sports ==
+[[Attēls:Andrus Veerpalu 2006.jpg|thumb|180px|Olimpiskais čempions distanču slēpošanā [[Andruss Vērpalu]]]]
+Daudzus gadus [[Igaunija olimpiskajās spēlēs|igauņu sportisti olimpiskajās spēlēs]] ir startējuši zem citu valstu karogiem. No 1900. līdz 1912. gadam igauņi startēja zem [[Krievijas Impērija olimpiskajās spēlēs|Krievijas Impērijas]] karoga, bet no 1948. līdz 1988. gadam zem [[Padomju Savienība olimpiskajās spēlēs|Padomju Savienības]] karoga. Visvairāk olimpisko medaļu ir ieguvuši [[distanču slēpošana|distanču slēpotāji]] [[Andruss Vērpalu]] un [[Kristina Šmiguna-Vehi]] (katrs pa trim medaļām). Līdz 2019. gadam Igaunijas sportisti olimpiskajās spēlēs bija ieguvuši 13 zelta, 11 sudraba un 17 bronzas medaļas, no tām visvairāk iegūtas [[cīņas sports olimpiskajās spēlēs|cīņas sportā]] (11 medaļas, no kurām 10 medaļas ir iegūtas pirms 1940. gada). Pēc neatkarības atgūšanas 1991. gadā visvairāk medaļu iegūtas [[distanču slēpošana olimpiskajās spēlēs|distanču slēpošanā]] (7 medaļas).
+
+Igaunijā populāra ir arī [[riteņbraukšana]], kur [[Jāns Kirsipū]] ir uzvarējis vairākos ''[[Tour de France]]'' posmos. Slaveni ir arī autosportisti [[Marko Asmers]], kurš ir pirmais igaunis, kas kļuvis par [[Formula 1]] testpilotu, un karjeru beigušais [[autorallijs|autorallija]] braucējs [[Marko Mertins]].
+
+[[Igaunijas futbola izlase]] nekad nav spēlējusi [[FIFA Pasaules kauss|FIFA Pasaules kausā]] vai [[Eiropas čempionāts futbolā|Eiropas čempionātā]], toties piedalījās [[1924. gada vasaras olimpiskās spēles|1924. gada olimpiskajās spēlēs]]. 2004. gadā par Igaunijas [[UEFA jubilejas apbalvojumi|pēdējo 50 gadu labāko futbolistu]] atzīts vārtsargs [[Marts Poms]].
+
+[[Igaunijas basketbola izlase]] piedalījās [[1936. gada vasaras olimpiskās spēles|1936. gada vasaras olimpiskajās spēlēs]], vairākas reizes piedalījusies [[Eiropas čempionāts basketbolā|Eiropas čempionātos]], kur augstākais sasniegums ir 5. vieta. Kopš 2018. gada Igaunijas basketbola čempionāts ir apvienojies ar Latvijas basketbola čempionāta, izveidojot [[Latvijas un Igaunijas Basketbola līga|Latvijas un Igaunijas Basketbola līgu]].
+
+== Skatīt arī ==
+* [[Baltijas valstis]]
+* [[Ziemeļvalstis]]
+* [[Igaunijas Aizsardzības spēki]]
+* [[Igaunijas pilsētu uzskaitījums]]
+* [[Igaunijas upju uzskaitījums]]
+* [[Igaunijas rokmūzika]]
+* [[Igaunija Eirovīzijas dziesmu konkursā]]
+
+== Piezīmes un atsauces ==
+{{atsauces|refs=
+<ref name="lsm 22.02.2024">[https://www.lsm.lv/raksts/zinas/arzemes/22.02.2024-igaunijas-teritorija-samazinajusies-par-cetriem-kvadratkilometriem.a543962 Igaunijas teritorija samazinājusies par četriem kvadrātkilometriem] LETA, 22.02.2024</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{wikivoyage|Estonia|Igaunijas}}
+* {{oficiālā tīmekļa vietne}}
+* {{tīmekļa atsauce | url= https://www.eesti.ee/ | title= Eesti riigi infoportaal (Igaunijas valsts mājaslapa) | language= igauņu, angļu, krievu}}
+* {{tīmekļa atsauce | url= https://europa.eu/european-union/about-eu/countries/member-countries/estonia_lv | title= Igaunija - Europa <nowiki>|</nowiki> Eiropas Savienība | publisher= Eiropas Savienības oficiālā tīmekļa vietne | language= lv}}
+* {{tīmekļa atsauce | url= http://www.estonica.org/ | title= Estonica.org - Encyclopedia about Estonia (Estonica - Enciklopēdija par Igauniju) | publisher=  | language= en | access-date= {{dat|2005|05|25||bez}} | archive-date= {{dat|2010|04|13||bez}} | archive-url= https://web.archive.org/web/20100413215407/http://www.estonica.org/ }}
+* {{tīmekļa atsauce | url= https://www.cia.gov/library/publications/the-world-factbook/geos/en.html | title= Estonia - Europe (Igaunija- Eiropa) | publisher= The World Factbook - Central Intelligence Agency | language= en | access-date= {{dat|2018|10|25||bez}} | archive-date= {{dat|2009|04|07||bez}} | archive-url= https://www.webcitation.org/5frSfZeR7?url=https://www.cia.gov/library/publications/the-world-factbook/geos/en.html }} {{Webarchive|url=https://www.webcitation.org/5frSfZeR7?url=https://www.cia.gov/library/publications/the-world-factbook/geos/en.html |date={{dat|2009|04|07||bez}} }}
+* {{tīmekļa atsauce | url= http://www.europe-atlas.com/estonia-map.htm | title= Estonia Map - Europe (Igaunijas karte - Eiropa) | publisher= europe-atlas.com | language= en | access-date= {{dat|2005|05|25||bez}} | archive-date= {{dat|2005|02|04||bez}} | archive-url= https://web.archive.org/web/20050204100252/http://www.europe-atlas.com/estonia-map.htm }}
+* {{tīmekļa atsauce | url= https://www.mfa.gov.lv/arpolitika/divpusejas-attiecibas/latvijas-un-igaunijas-attiecibas | title= Latvijas un Igaunijas attiecības | publisher= Latvijas Republikas Ārlietu ministrija | language= lv}}
+
+
+{{Igaunijas tēmas|expanded}}
+{{Baltijas valstis}}
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunija| ]]

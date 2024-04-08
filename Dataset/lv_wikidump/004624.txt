@@ -1,0 +1,92 @@
+{{cita nozīme|Lietuvas naudu|vācu kara jūrnieku|Volfgangs Lits}}
+{{Valūtas infokaste
+|valūtas nosaukums          = Lietuvas lits
+|valūtas nosaukums cit val  = 
+|attēls 1           = 500 litai (2000).jpg
+|attēls 2           = 
+|attēla paraksts 1  = 2000. gada 500 litu banknote
+|attēla paraksts 2  = 
+|attēla fons 1      = <!-- #000000 -->
+|attēla fons 2      = <!-- #000000 -->
+|attēla platums 1   = 200px
+|attēla platums 2   = 
+|iso kods                 = LTL
+|neoficiāli lieto         = 
+|oficiāli lieto           = {{flag|Lietuva}}
+|inflācijas līmenis       = 1.4%
+|inflācijas avota datums  = [http://www.ecb.int/stats/prices/hicp/html/inflation.en.html Eiropas Centrālā Banka], 2013. gada aprīlis
+|inflācijas metode        = [[Harmonised Index of Consumer Prices|HICP]]
+|ERM kopš                 = {{dat|2004|6|28|G}}
+|izstājās no ERM          = 
+|ERM fiksēts likme kopš   = {{dat|2002|2|2|G}}
+|aizstāts ar eiro bezsk   = 
+|aizstāts ar eiro         = 2015. gadā 1. janvārī
+|ERM fiksētā likme        = 3.45280 Lt
+|subvienības attiecība  = 1/100
+|subvienības nosaukums  = cents
+|valūtas simbols        = Lt
+|subvienības simbols    = ct
+|iesauka              = 
+|subvienības iesauka  = 
+|daudzskaitlis        = liti (nom), litu (ģen)
+|subvienības daudzsk  = centi (nom), centu (ģen)
+|daudzskaitlis slāvu  = 
+|nav daudzskaitļa     = 
+|monētas                = 1, 2, 5, 10, 20, 50 centi, 1, 2, 5 liti
+|monētu raksts          = 
+|bieži liet monētas     = 
+|reti liet monētas      = 
+|banknotes              = 10, 20, 50, 100, 200, 500 litu
+|banknošu raksts        = 
+|bieži liet banknotes   = 
+|reti liet banknotes    = 
+|izdevēja iestāde       = [[Lietuvas Banka]]
+|izdevēja iestādes mājas lapa = www.lb.lt
+|izņemta no apgrozības  = 
+|infokastes paraksts    = 
+}}
+'''Lits''' (Lt) bija oficiālā [[Lietuva]]s [[valūta]], tas tika lietots no 1922. līdz 1940. gadam un no 1993. gada 25. jūnija līdz {{dat|2015|1|1|d|bez}}, kad par oficiālo valsts valūtu kļuva [[eiro]].
+Litu sīkāk iedalīja 100 centos. Visām litu un centu [[monēta|monētām]] priekšējā pusē (aversā) bija nomināls, bet otrā (reversā) — valsts ģerbonis.
+
+Litu emitēja [[Lietuvas Banka]]. Litu pirmoreiz sāka lietot neatkarīgajā Lietuvā no 1922. gada 2. oktobra, taču 1940. gadā pēc [[Lietuvas okupācija (1940)|Lietuvas okupācija]]s lits tika apmainīts ar [[rublis|PSRS rubli]].
+Pēc neatkarības atjaunošanas litu atjaunoja 1993. gada 25. jūnijā.
+
+== Maiņas kurss ==
+1992. gada 1. oktobrī 1 [[Lietuvas talons]] = 1 Krievijas rublis, bet 1993. gada 25. jūnijā 1 lits = 100 Lietuvas talonu.
+
+No 1994. gada 1. aprīļa līdz 2002. gada 1. februārim lits bija piesaistīts [[ASV dolārs|ASV dolāram]] attiecībā 4 pret 1.
+No 2002. gada 2. februāra lits bija piesaistīts [[eiro]].
+
+== Nomināli ==
+Lita [[monēta|monētām]] ir 9 nomināli:
+
+* 1 cents
+* 2 centi
+* 5 centi
+* 10 centu
+* 20 centu
+* 50 centu
+* 1 lits
+* 2 liti
+* 5 liti
+
+Papīrnaudai ir 6 nomināli:
+* 10 litu
+* 20 litu
+* 50 litu
+* 100 litu
+* 200 litu
+* 500 litu
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20060603100841/http://www.lb.lt/exchange/default.asp Lita un ārzemju valūtu attiecības]
+* [https://web.archive.org/web/20060603101155/http://www.lb.lt/lt/banknotai/index.htm Lietuvas Republikas banknotes un monētas]
+* [https://web.archive.org/web/20110611005016/http://valutas.info/Val%C5%ABtas-apmai%C5%86a-LTL-Lietuvas-lits-LVL-Latvijas-Lats/ Lietuvas Lita valūtas kursa salīdzinājums] — Latvijas valūtu tirgus analītiska informācija.
+* [http://www.bank.lv/publikacijas/averss-un-reverss/baltijas-un-nvs-valstu-naudas-reformas/4721 Baltijas un NVS valstu naudas reformas]{{Novecojusi saite}}
+
+
+{{Eiro navigācija}}
+
+[[Kategorija:Lietuvas naudasvienības]]

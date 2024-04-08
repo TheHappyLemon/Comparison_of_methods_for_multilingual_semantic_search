@@ -1,0 +1,60 @@
+{{Apdzīvotas vietas infokaste
+| name = Javožno
+| official_name = ''Jaworzno''
+| settlement_type = pilsēta
+| image_skyline =Rynek nocą Jaworzno.JPG
+| imagesize = 
+| image_caption = Pilsētas centrs naktī
+| image_flag = POL Jaworzno flag.svg
+| image_shield = POL Jaworzno COA alt.svg
+| shield_size = 70px
+| pushpin_map = Poland
+| pushpin_label_position = top
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1901
+| area_total_km2 = 152.2
+| population_as_of = 2008
+| population_total    = 95520
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 12 
+| lats = 16 
+| latNS = N 
+| longd = 19 
+| longm = 16 
+| longs = 12
+| longEW = E
+| elevation_m = 308
+| website = {{url|http://www.jaworzno.pl/}}
+}}
+'''Javožno''' ({{val-pl|Jaworzno}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]]. Atrodas [[Augšsilēzijas aglomerācija]]s austrumu daļā. [[Akmeņogles|Akmeņogļu]] ieguve. Liela elektrostacija.
+
+Vēsturiski atrodas [[Mazpolija|Mazpolijā]], jo vairākus gadsimtus piederēja [[Krakova]]s arhibīskapam. 1767. gadā šeit tika ierīkota pirmā pastāvīgā ogļu ieguves šahta Augšsilēzijā. No 1943. līdz 1956. gadam pie pilsētas darbojās koncentrācijas nometne (vispirms to vadīja nacisti, mainoties varai – komunisti). 1947. gadā [[operācija "Visla"|operācijas "Visla"]] laikā šeit tika ieslodzīti no Polijas dienvidaustrumiem deportētie [[ukraiņi|ukraiņu]] iedzīvotāji.
+
+Futbolista [[Jans Urbans|Jana Urbana]] (''Jan Urban'', 1962 - ) dzimtā pilsēta.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Silēzijas vojevodistes pilsētas]]
+[[Kategorija:Silēzijas vojevodistes apriņķi]]

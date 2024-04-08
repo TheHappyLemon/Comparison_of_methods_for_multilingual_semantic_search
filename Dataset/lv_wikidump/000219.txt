@@ -1,0 +1,191 @@
+{{cita nozīme|valsti Eiropā|apdzīvotu vietu Vīksnas pagastā|Ukraina (ciems)}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Україна''
+|    pilnais_valsts_nosaukums = Ukraina
+|            valsts_nosaukums = Ukraine
+|               karoga_attēls = Flag of Ukraine.svg
+|            karoga_nosaukums = Ukrainas karogs
+|              ģerboņa_attēls = Lesser Coat of Arms of Ukraine.svg
+|           ģerboņa_nosaukums = Ukrainas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = 
+|                valsts_himna = [[Ще не вмерла Україна|Ще не вмерла України ні слава, ні воля]]{{spaces|2}}<small><br />''Ne Ukrainas slava, ne brīvība nav zudusi''</small>
+|               kartes_attēls = Europe-Ukraine_(with_Crimea).svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Kijiva]]
+|latd=50 |latm=27 |latNS=N |longd=30 |longm=30 |longEW=E
+|             lielākā_pilsēta = [[Kijiva]]
+|              valsts_valodas = [[ukraiņu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Pusprezidentāla sistēma|Pusprezidentāla]] [[unitāra valsts]]
+|        valsts_galvas_tituls = [[Ukrainas prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Volodimirs Zelenskis]]
+|       valsts_galvas_tituls2 = [[Ukrainas premjerministri|Premjerministrs]]
+|               valsts_galva2 = [[Deniss Šmihaļs]]
+|        neatkarības_iegūšana = [[Ukrainas vēsture|Izveidošanās]]
+|        neatkarības_notikums = [[Kijivas Krievzeme]]
+|          neatkarības_datums = [[882]]. gadā
+|       neatkarības_notikums2 = [[Galīcijas-Volīnijas kņaziste|Galīcija-Volīnija]]
+|         neatkarības_datums2 = [[1199]]. gadā
+|       neatkarības_notikums3 = [[Hetmanščina]]
+|         neatkarības_datums3 = {{dat|1649|8|18}}
+|       neatkarības_notikums4 = [[Ukrainas Tautas Republika|UTR]] pasludināšana
+|         neatkarības_datums4 = {{dat|1917|11|20}}
+|       neatkarības_notikums5 = [[Ukrainas neatkarības deklarācija (1918)|UTR neatkarība]]
+|         neatkarības_datums5 = {{dat|1918|1|22}}
+|       neatkarības_notikums6 = [[Apvienošanās akts (Ukraina)|Apvienošanās akts]]
+|         neatkarības_datums6 = {{dat|1919|1|22}}
+|       neatkarības_notikums7 = [[Ukrainas neatkarības deklarācija (1991)|Neatkarība no PSRS]]
+|         neatkarības_datums7 = {{dat|1991|8|24}}
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 603628
+|               platība_rangs = 44.
+|              procenti_ūdens = 7
+|     iedzīvotāju_skaita_gads = 2013
+|          iedzīvotāju_skaits = 45 469 800 <!-- Source: http://www.ukrstat.gov.ua/operativ/operativ2007/ds/nas_rik/nas_u/nas_rik_u.html -->
+|    iedzīvotāju_skaits_rangs = 27.
+|    apdzīvotības_blīvums_km2 = 72,3
+|  apdzīvotības_blīvums_rangs = 115.
+|                     IKP_PPP = $399,866 miljardi<ref name=IMF>{{Tīmekļa atsauce|url=http://www.imf.org/external/pubs/ft/weo/2007/02/weodata/weorept.aspx?sy=1992&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&c=926&s=PPPGDP&grp=0&a=&pr1.x=41&pr1.y=2|title=Ukrainian GDP (PPP)|accessdate=2008-03-10|work=[[Starptautiskais Valūtas fonds|IMF]], World Economic Outlook Database, October 2007}}</ref>
+|                IKP_PPP_gads = 2007
+|               IKP_PPP_rangs = 29.
+|          IKP_PPP_per_capita = $8624<ref name=IMF/>
+|    IKP_PPP_per_capita_rangs = 83.
+|                         HDI = {{samazinājās}}0.773
+|                    HDI_gads = 2021
+|              HDI_kategorija = <font color=#FFCC00>vidējs</font>
+|                   HDI_rangs = 77.
+|                        Gini = 31<ref name="CIA World Factbook">{{Tīmekļa atsauce|url=https://www.cia.gov/library/publications/the-world-factbook/geos/up.html|title=Ukraine|accessdate=2008-05-28|date=2007-12-13|work=''CIA World Factbook''|archive-date=2016-07-09|archive-url=https://web.archive.org/web/20160709035611/https://www.cia.gov/library/publications/the-world-factbook/geos/up.html}}</ref>
+|                   Gini_gads = 2006
+|             Gini_kategorija = <font color=#FFCC00>vidējs</font>
+|                  Gini_rangs = 
+|                      valūta = [[Ukrainas hrivna|Hrivna]]
+|                valūtas_kods = UAH
+|                  laika_zona = [[Austrumeiropas laiks|EET]]
+|                  utc_offset = +2
+|              laika_zona_DST = [[Austrumeiropas vasaras laiks|EEST]]
+|              utc_offset_DST = +3
+|                      domēns = [[.ua]]
+|              tālsarunu_kods = 380
+|                iso_kods_num = 804
+|              iso_kods_alfa2 = UA
+|              iso_kods_alfa3 = UKR
+}}
+'''Ukraina''' ({{val|uk|Україна}} [ukrɑˈjinɑ]) ir valsts [[Eiropa]]s austrumos. Ziemeļos tā robežojas ar [[Baltkrievija|Baltkrieviju]], austrumos — ar [[Krievija|Krievijas Federāciju]], rietumos — ar [[Polija|Poliju]], [[Slovākija|Slovākiju]], [[Ungārija|Ungāriju]], [[Rumānija|Rumāniju]] un [[Moldova|Moldovu]], bet no dienvidiem to apskalo [[Melnā jūra]]. Pēc platības lielākā valsts Eiropā (neskaitot [[Krievija|Krievijas Federāciju]] un [[Turcija|Turciju]], kuru teritorijas ir gan Eiropā, gan [[Āzija|Āzijā]]).
+
+Tās platība ir 603,7 tūkstoši km<sup>2</sup>, garums no ziemeļiem uz dienvidiem ir 893 km, no rietumiem uz austrumiem — 1316 km. Kopīgais sauszemes robežas garums ir 6500 km, jūras — 1050 km. Iedzīvotāju skaits 2013. gadā sasniedza 45,5 miljonus cilvēku.
+Kopš 2017. gada [[Dziļās un aptverošās brīvās tirdzniecības zona]]s dalībvalsts.
+
+== Vēsture ==
+{{Pamatraksts|Ukrainas vēsture}}[[Attēls:Lietuva ir Lenkija.Lithuania and Poland 1387.png|thumb|Lietuvas un Polijas zemes, 1387|left]]No vismaz [[9. gadsimts|9. gadsimta]] Ukraina bija [[Viduslaiki|viduslaiku]] [[varjagi|varjagu]] pārvaldītās [[Austrumslāvi|austrumslāvu]] [[Kijivas Krievzeme]]s civilizācijas centrs, kurā izveidojās [[Kijivas lielkņazi]]em pakļauta valsts. Pēc Kijivas Krievzemes sakāves cīņās pret mongoļiem, [[13. gadsimts|13. gadsimtā]] liela daļa šo zemju nonāca [[Lietuvas dižkunigaitija]]s pakļautībā. Vēlāk šīs zemes nonāca [[Polijas karaliste]]s un vēlāk [[Polijas-Lietuvas kopvalsts]], bet dienvidu un austrumu daļa [[Zelta Orda]]s, vēlāk [[Krimas haniste]]s pakļautībā. Pēc 1648. gada Ukrainas vidienē, [[Zaporižjas Seča|Zaporižjas Sečā]] nodibinājās ukraiņu [[kazaki|kazaku]] valsts [[Hetmanāts]], kas drīz nonāca [[Maskavija]]s pakļautībā. Pēc atkārtotiem [[krievu-turku kari]]em un [[Polijas dalīšanas]] 18. gadsimta beigās arī Ukrainas austrumu un dienvidu daļas nonāca [[Krievijas Impērija]]s pakļautībā, bet rietumu daļa nonāca [[Austrijas Impērija]]s sastāvā kā [[Galīcijas un Lodomērijas karaliste]].
+
+Pēc [[Februāra revolūcija]]s Kijivā 1917. gada 17. martā tika nodibināta [[Ukrainas Centrālā Rada]], kas pēc [[Oktobra revolūcija]]s 1917. gada 20. novembrī pasludināja autonomas [[Ukrainas Tautas Republika]]s izveidi. Pēc [[Brestļitovskas miera līgums|Brestļitovskas miera līguma]] noslēgšanas [[Sarkanā armija]] atkāpās no Ukrainas teritorijas, 1918. gada 29. aprīlī ar Vācijas atbalstu [[Pavlo Skoropadskis]] gāza Ukrainas Tautas Republikas valdību un pasludināja [[Ukrainas Valsts]] izveidi Vācijas protektorātā, bet 19. oktobrī [[Ļviva|Ļvivā]] tika pasludināta [[Rietumukrainas Tautas Republika]]. 1919. gada 22. janvārī Kijivā noslēdza līgumu par Rietumukrainas apvienošanos ar Ukrainas Tautas Republiku. 1919. gada 10. martā izsludināja [[Ukrainas PSR|Ukrainas Sociālistiskās Padomju Republikas]] izveidi. 1920. gada 12. jūnijā Sarkanā Armija ieņēma Kijivu un pakļāva visu Ukrainas teritoriju, izņemot [[Galīcija|Galīciju]], kas palika Polijas sastāvā. Pēc [[Rīgas miera līgums|Rīgas miera līguma]] 1921. gada 18. martā Ukrainu sadalīja starp [[Polijas Otrā republika|Polijas Otro republiku]] un Ukrainas PSR. 1922. gada 29. decembrī Ukrainas PSR parakstīja vienošanos par [[Padomju Savienība|PSRS]] izveidi. Otrā pasaules kara laikā, 1939. gadā Ukrainas PSR pievienoja daļu no [[Polijas kampaņa]]s rezultātā PSRS okupētās teritorijas, un 1940. gadā okupēto [[Rumānijas Karaliste]]s daļu. Pēc kara beigām 1945. gadā Ukrainas PSR pievienoja [[Čehoslovākija]]s austrumu daļu, bet 1954. gadā no [[Krievijas PFSR]] [[Krima]]s apgabalu.
+
+Ukraina atguva neatkarību pēc [[PSRS sabrukums|Padomju Savienības sabrukuma]] 1991. gadā.
+
+2013. gada decembrī Kijivā sākās pret valdību vērstas demonstrācijas jeb [[Eiromaidans]], [[Augstākā Rada]] nobalsoja par prezidenta [[Viktors Janukovičs|Viktora Janukoviča]] atlaišanu no amata. [[Krievijas Federācija]] [[Krimas krīze|okupēja un anektēja Krimu]] un atbalstīja prokrievisko separātistu militāras operācijas, kas 2014. gada aprīlī pārauga [[Donbasa karš|Donbasa karā]].
+2021. gada martā sākās jauna [[Krievijas—Ukrainas—NATO krīze (kopš 2021)|Krievijas un Ukrainas attiecību krīze]], ko izraisīja Krievijas Federācijas bruņoto spēku koncentrēšana pie abu valstu robežas un draudi par militāriem pasākumiem, ja [[NATO]] nepieņems Krievijas prasības. 2022. gada 24. februārī sākās [[Krievijas 2022. gada iebrukums Ukrainā]], kura laikā Krievijas valdība pasludināja arī Doneckas, Hersonas, Luhanskas un Zaporižjas apgabalu aneksiju.
+
+== Ģeogrāfija ==
+[[Attēls:Ukraine topo lv.jpg|thumb|250x250px|Ukrainas fizģeogrāfiskā karte|left]]
+Ukrainas platība ir 603 549 km², kas to ierindo 44. vietā pēc platības pasaulē un 1. vietā [[Eiropa|Eiropā]] starp valstīm, kas pilnībā atrodas Eiropas teritorijā ([[Krievija]]s Eiropas daļa pēc platības gan ir ievērojami lielāka). Valsts lielākā daļa atrodas [[Austrumeiropas līdzenums|Austrumeiropas līdzenumā]] [[skujkoki|skujkoku]] un jaukto [[mežs|mežu]], [[mežastepe]]s un [[stepe]]s zonās. Virsmas vidējais augstums 100—200 m v.j.l. Rietumdaļā izvietojusies [[Volīnijas augstiene]] (augstumi līdz 342 m vjl), [[Podolijas augstiene]] (471 m) un [[Karpati|Karpatu kalni]] dienvidrietumos ar valsts augstāko virsotni [[Hoverla|Hoverlu]] (2061 m), austrumos un dienvidaustrumos — [[Doņecas skrausts]] (367 m) un [[Pieazovas augstiene]], dienvidos — [[Krimas pussala]] ar [[Krimas kalni]]em ([[Romankošs]] 1545 m). Ziemeļdaļā plešas [[Poļesjes zemiene]], vidusdaļā — [[Piedņepras zemiene]] un [[Piedņepras augstiene]], dienvidos — [[Melnās jūras zemiene]].<ref>{{PZT|726|Ukrainas Padomju Sociālistiskā Republika}}</ref>
+
+Upju kopgarums ir ap 170 000 km; 117 upes ir garākas par 100 km. Visvairāk upju ir [[Poļesje|Poļesjē]] un Austrumkarpatos, vismazāk — stepju rajonos. Valsts lielākā upe ir [[Dņepra]], kuras baseins aizņem 48% Ukrainas teritorijas. Dņepras galvenās pietekas ir [[Desna]], [[Pripete]], [[Sula (upe)|Sula]], [[Psela]], [[Vorskla]], [[Samara (Dņepras pieteka)|Samara]], [[Rosa (upe)|Rosa]], [[Inhuleca]]. Citas lielākās upes ir [[Donava]], [[Dņestra]], [[Dienvidbuga]], [[Siverskijdoņeca]], [[Pruta]]. Uz Dņepras izbūvētas trīs lielas [[ūdenskrātuve]]s — [[Kahovkas ūdenskrātuve]], [[Kremenčukas ūdenskrātuve]] un [[Kijivas ūdenskrātuve]], kā arī vairākas nelielas. Upes tiek izmantotas kuģošanai.
+
+Ukrainā nav lielu ezeru; lielākās ūdenstilpes ir [[Jalpuhs]], [[Kahuls]] un piekrastes [[limāns|limāni]] — [[Sasiks]], [[Dņestras limāns]], [[Moločnas limāns]].
+
+=== Derīgie izrakteņi ===
+Ukrainas ģeotektonisko struktūru dažādība un to attīstības ģeodinamiskie apstākļi noteikuši dažādu derīgo izrakteņu iegulu izveidi. Visnozīmīgākās ir [[dzelzsrūda]]s, mangāna rūdas, urāna rūdas, [[akmeņogles]], [[gāze]], [[nafta]] un kondensāts, titāns, cirkons, sērs, kaolīns, grafīts, rūdu nesaturošās izejvielas metalurģijai un apdares materiāli. Paši lielākie derīgo izrakteņu baseini Ukrainā ir Krivijrihas dzelzsrūdas, Nikopoles mangāna rūdas un Doneckas ogļu baseini, Iršanskas titāna rūdas, Kirovohradas urāna rūdas, Pobužskskas grafīta rūdas rajoni. Ukrainā tiek iegūts arī [[krams]], pirofilīta slāneklis, [[smilšakmens]], [[kaļķakmens]] un krīts, [[Halīts|akmenssāls]], [[dzintars]], pusdārgakmeņi, [[Minerālūdens|minerālūdeņi]]. Ukrainā atrastas unikālas, pagaidām pasaulē vienīgās Peržankas berilija iegulu atradnes, kas saistās ar ļoti retu minerālu — [[genthelvīts|genthelvītu]]. Zemes dzīlēs atrastas rūpnieciskas zelta, litija, skandija, retzemju metālu, fluorīda, degslānekļa, fosforīta atradnes. Ir cerības atrast izstrādāt jaunus derīgo izrakteņu veidus: varu, platinoīdus, molibdēnu, alvu, tantalu, niobiju, vanādiju u.c. Arvien lielāka uzmanība tiek veltīta Poļesjes dzintaram, Volīnijas topāziem, morioniem, labradoriem, Krimas kerčenītiem. Ukraina aizņem 0,4% pasaules sauszemes un nodrošina 5% minerālizejvielu un to pārstrādes produktu, tai skaitā 20% mangāna un 10% dzelzsrūdas, 3% ogļu. Izpētīto galveno derīgo izrakteņu rezervju aptuvens novērtējums pārsniedz 7 triljonus ASV dolāru.
+
+=== Klimats ===
+Ukrainas novietojuma fiziski-ģeogrāfiskās īpatnības nosaka lielo klimatisko apstākļu dažādību un salīdzinoši biežo dažādu bīstamu laika apstākļu atkārtošanos. Ukraina atrodas Eiropas dienvidaustrumos [[Mērenā josla|mērenā klimata joslā]]. Tās lielākajai daļai raksturīgs mēreni kontinentāls klimats. Ukrainas teritorija atrodas divās klimatiskajās — mērenajā un subtropiskajā platuma zonās. Pēdējā ietilpst tikai Krimas dienvidu krasts. Ukrainā uzskaita šādus klimatiskos apgabalus: Atlantijas-kontinentālo, kas ietver jaukto mežu un meža stepes zonu, Ukrainas Karpatu kalnu masīvu, Krimas kalnus, Krimas dienvidu piekrasti.
+
+== Valsts pārvalde ==
+{| class="wikitable floatleft" style="text-align:center;"
+|-
+| [[Attēls:Volodymyr Zelensky Official portrait.jpg|141px]]
+| [[Attēls:Денис Шмигаль 2020 3 (cropped).jpg|143px]]
+|- class="nowrap"
+| [[Volodimirs Zelenskis]]<br /><small>[[Ukrainas prezidents]]</small>
+| [[Deniss Šmihaļs]]<br /><small>[[Ukrainas premjerministrs]]</small>
+|}
+
+1991. gada 24. augustā Ukraina pasludināja neatkarību un drīz vien ieviesa daudzpartiju sistēmu. Ar likumu tika noteikta minoritāšu tiesību aizsardzība. Ukrainas pirmais vēlētais [[Ukrainas prezidents|prezidents]] [[Leonīds Kravčuks]] 1994. gadā netika atkārtoti ievēlēts un mierīgi atdeva amatu politiskajam sāncensim. 1996. gada 28. jūnijā tika pieņemta jauna konstitūcija, kas garantē pamattiesības un paredz plurālistisku politisko sistēmu. Ukrainas valsts varas sistēma ir veidota pēc Rietumu parauga, un tajā ir trīs neatkarīgas jomas.
+
+Likumdošanas vara pieder Augstākajai padomei (''Verhovna Rada''). Tas ir vienpalātas parlamanents, kurā ir 450 deputātu, kas ievēlēti uz četriem gadiem. 225 no tiem ievēlē vispārējās un tiešās vēlēšanās no vienmandāta apgabaliem, 225 — pēc proporcionālās pārstāvības. Augstākā padome ievieš tiesību aktus, ratificē līgumus, apstiprina budžetu, piesaka karu, ar neuzticības balsojumu atceļ premjerministru un Ministru kabinetu.
+
+Izpildvara pieder prezidentam un Ministru kabinetam. Prezidents, ko vispārējās vēlēšanās ievēlē uz pieciem gadiem, ir valsts galva, kas pārstāv valsti ārlietās, atceļ Ministru kabineta aktus, izsludina valstī ārkārtas stāvokli, atlaiž Augstāko padomi. Ministru kabinetā ir premjerministrs, divi premjerministra vietnieki un 15 ministri, kurus ieceļ prezidents, bet apstiprina Augstākā padome. Tas pārrauga valsts pārvaldes darbu.
+
+Tiesu vara pieder Konstitucionālajai un Augstākajai tiesai. Konstitucionālā tiesa lemj par likumu atbilstību konstitūcijai. Tajā ir 18 tiesnešu, kas iecelti uz 9 gadiem, sešus ieceļ prezidents, sešus — Augstākā padome, sešus — Tiesnešu kongress. Augstākā tiesa ir augstākā pārskatīšanas un apelācijas tiesa. Tiesnešus uz mūžu ieceļ Augstākā padome. Tiesu sistēma ir neatkarīga; tiesas procesā nav nozīmes precedentam, jo tiesneši iztiesā lietas saskaņā ar kodificēto tiesību aktu normām.<ref>{{Grāmatas atsauce|edition=1st American ed|title=The book of rule : how the world is governed|url=https://www.worldcat.org/oclc/52601448|publisher=DK|date=2004|location=London|isbn=0-7894-9354-3|oclc=52601448}}</ref>
+
+== Administratīvais iedalījums ==
+{{Pamatraksts|Ukrainas administratīvais iedalījums}}
+Ukrainas administratīvais iedalījums ir 24 apgabali (''область''), 2 pilsētas (''місто'') un viena autonomā republika (''Автономна Республіка'').
+
+{{Ukrainas apgabali|options=float:left; border:3px; max-width:460px;}}
+
+== Ukrainas simboli ==
+
+=== Karogs ===
+{{pamatraksts|Ukrainas karogs}}
+[[Attēls:L'viv High Castle Ukrainian Flag and City Emblem.JPG|thumb|250px|Ukrainas karogs [[Ļviva]]s pils tornī]]
+Ukrainas karoga rašanos saista ar 1848. gadu, kad pēc [[Polijas dalīšanas]] Ukrainas rietumu daļa — [[Galīcijas un Lodomērijas karaliste|Galīcija un Lodomērija]] ietilpa [[Austrijas Impērija]]s sastāvā.
+
+1918. gadā, kad proklamēja Ukrainas Tautas Republiku, par tās karogu kļuva dzelteni zilais karogs uz kura tika attēlots trīsžuburis.
+1992. gadā Ukrainas Augstākā padome dzelteni zilo karogu pasludināja par Ukrainas valsts karogu. Karoga proporcijas ir 2:3. Karoga apraksts ir iekļauts Ukrainas Republikas konstitūcijas 20. pantā.
+
+Ukrainas karoga simbolisms tiek pamatots ar Ukrainu kā tradicionālo labības audzēšanas valsti, tādēļ dzeltenā krāsa tiek tulkota kā labības krāsa, savukārt gaiši zilā Ukrainas skaidrās debesis.
+
+<gallery class="center" widths="150">
+ Flag of Galicia and Lodomeria (1849-1890).svg|[[Galīcijas un Lodomērijas karaliste]]s karogs
+ Flag of Lviv Oblast.svg|Rutēņu nacionalās gvardes karogs (1848)
+ Flag of the Ukranian State.svg| [[Ukrainas Valsts]] un [[Ukrainas Tautas Republika]]s karogs (1917–1920)
+</gallery>
+
+== Iedzīvotāji ==
+{{Bar box
+|width = 200px
+|float = right
+|title = Etniskais sastāvs (2001)
+|titlebar = #ddd
+|bars =
+{{Bar percent|Ukraiņi|teal|77.8}}
+{{Bar percent|Krievi|teal|17.3}}
+{{Bar percent|Baltkrievi|teal|1.2|0.6%}}
+{{Bar percent|Moldāvi|teal|1.2|0.5%}}
+{{Bar percent|Krimas tatāri|teal|1.2|0.5%}}
+{{Bar percent|Bulgāri|teal|1.2|0.4%}}
+{{Bar percent|Ungāri|teal|1|0.3%}}
+{{Bar percent|Rumāņi|teal|1|0.3%}}
+{{Bar percent|Poļi|teal|1|0.3%}}
+{{Bar percent|Citi|teal|3|1.7%}}
+}}
+{{-}}
+Pēdējā Ukrainas tautas skaitīšana notika 2001. gadā. Iedzīvotāju skaits tolaik bija 48 miljoni 457 tūkstoši, no viņiem pilsētās dzīvoja 67,2%, bet laukos 32,8%. Deviņās pilsētās bija vairāk kā 500 000 iedzīvotāju.
+
+Pēc 2001. gada datiem Ukrainas iedzīvotāji piederēja vairāk kā 130 dažādām etniskām grupām. Lielākā etniskā minoritāte ir krievi, kas dzīvo galvenokārt Ukrainas austrumu un dienvidu apgabalos. 67,5% iedzīvotāju par savu dzimto valodu uzskata ukraiņu valodu, 29,6% krievu valodu, bet 2,9% kādu citu valodu. 85,2% ukraiņu par savu dzimto valodu uzskata ukraiņu valodu, bet 14,8% krievu valodu.<ref>[http://2001.ukrcensus.gov.ua/eng/results/general/language/ About number and composition population of UKRAINE by All-Ukrainian population census'2001 data] (angliski)</ref>
+2001. gadā 87,9% iedzīvotāju uzskatīja, ka viņi teicami runā ukrainiski, bet 65,7%, ka viņi teicami runā krieviski. Iepriekšējā, 1989. gada tautskaitē 78,0% iedzīvotāju uzskatīja, ka viņi teicami runā ukrainiski, bet 78,4%, ka viņi teicami runā krieviski.<ref>[http://2001.ukrcensus.gov.ua/d/mono_eng.pdf First All-National Population Census: historical, methodological, social, economic, ethnic aspects] (angliski)</ref>
+<gallery>
+Attēls:Ukraine census 2001 Ukrainians.svg|Iedzīvotāju īpatsvars, kuri uzskata sevi par ukraiņiem, Ukrainas apgabalos (2001. gada tautskaites dati)
+Attēls:Ukraine census 2001 Russian.svg|Iedzīvotāju īpatsvars, kuri krievu valodu uzskata par dzimto, Ukrainas apgabalos (2001. gada tautskaites dati)
+</gallery>
+{{Ukrainas lielākās pilsētas}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Skatīt arī ==
+* [[Ukrainas administratīvais iedalījums]]
+* [[Ukrainas pilsētu uzskaitījums]]
+
+{{Eiropa}}
+{{NVS}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ukraina| ]]

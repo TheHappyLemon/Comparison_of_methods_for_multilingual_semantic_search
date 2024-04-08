@@ -1,0 +1,82 @@
+{{Nosaukums slīprakstā}}
+{{Aviokompanijas infokaste
+| aviokompanija        = ''British Airways''
+| logo                 = 800px-British_Airways_logo.png
+| logo izmērs          = 250px
+| attēls               = 
+| attēla izmērs        = 
+| attēla paraksts      = 
+| IATA                 = BA
+| ICAO                 = BAW <br> SHT
+| izsaukums            = SPEEDBIRD
+| dibināta               = [[1974]]. gadā
+| darbību uzsāka         = 
+| darbību pārtrauca      = 
+| galvenā bāze           = [[Londonas Hītrovas Lidosta|Hitrova]], [[Londonas Getvikas Lidosta|Getvika]], [[Apvienotā Karaliste]]
+| citas bāzes            = 
+| lojalitātes programma  = Executive Club/Avios
+| aviokompāniju alianse  = ''OneWorld''
+| flote                  = 257
+| galamērķi              = 183
+| sauklis              = 
+| mātes kompānija      = [[International Airlines Group]]
+| galvenā mītne        = [[Londona]], [[Anglija]], [[Lielbritānija]]
+| vadība               = Šons Doils (priekšsēdētājs un izpilddirektors)<ref>https://www.ft.com/content/754e0759-40ba-4bdf-806a-6741cb24b3d7</ref>
+| ieņēmumi             =  £13,020 miljoni (2018)<ref>https://www.iairgroup.com/~/media/Files/I/IAG/documents/annual-report-and-accounts-2018-interactive.pdf</ref>
+| mājas lapa           = {{url|https://www.ba.com}}
+}}
+
+'''''British Airways''''' (saīsinājumā '''''BA''''') ir [[Lielbritānija]]s lielākā [[lidsabiedrība]]. Tā tika atklāta 1924. gadā ar nosaukumu ''Imperial Airways''. Tā ir arī otra lielākā [[Eiropa]]s lidsabiedrība (aiz ''[[Air France]]''). Tai ir divas galvenās bāzes lidostas - [[Londonas Hītrovas Lidosta]], kas ir lielākā pasaulē un [[Londonas Getvikas Lidosta]]. Tai ir vēl viena bāzes lidosta — [[Mančestras Starptautiskā Lidosta]]. Ilgajos pastāvēšanas gados aviokompānijai ir gadījušies vairāki negadījumi, bet vienīgi 1976. gada 10. septembrī kāda no BA lidmašīnām avarēja. Toreiz ceļā no [[Londona]]s uz [[Stambula|Stambulu]] gāja bojā 54 pasažieri un 9 apkalpes locekļi.
+
+== Lidmašīnas ==
+[[Attēls:British Concorde.jpg|thumb|right|350px|''British Airways'' ''[[Concorde]]'' lidmašīna Hītrovas lidostā 1980. gados]]
+{| class="wikitable"
+! Modelis || Skaits || Sēdvietu skaits
+|-
+|''[[Airbus A319-100]]'' ||align=center|3||align=center|126
+|-
+|''[[Airbus A320-100]]'' ||align=center|5||align=center|149
+|-
+|''[[Airbus A380-800]]'' ||||
+|- 
+|''[[Airbus A320-200]]'' ||align=center|21<br />(7 pasūtītas)||align=center|149-150
+|-
+|''[[Airbus A321-200]]'' ||align=center|7<br />(3 pasūtītas)||align=center|194
+|-
+|''[[Boeing 737-300]]'' ||align=center|5||align=center|126
+|-
+|''[[Boeing 737-400]]'' ||align=center|18||align=center|147
+|-
+|''[[Boeing 737-500]]'' ||align=center|9||align=center|110
+|-
+|''[[Boeing 747-400]]'' ||align=center|57||align=center|351  
+|-
+|''[[Boeing 757-200]]'' ||align=center|13||align=center|180
+|-
+|''[[Boeing 767-300ER]]'' ||align=center|21||align=center|181-252
+|-
+|''[[Boeing 777-200]]'' ||align=center|27||align=center|219-224
+|-
+|''[[Boeing 777-200ER]]'' ||align=center|16||align=center|274 
+|-
+|''[[Boeing 777-300ER]]'' ||align=center|(10 pasūtītas)||  
+|}
+
+== BA Latvijā ==
+2006. gada 31. augustā ''British Airways'' pie sava biroja [[Vecrīga|Vecrīgā]] palaida gaisā 500 ar [[hēlijs|hēliju]] piepūstus balonus. 300 no tiem klāt bija piekarināta 29% atlaide ''British Airways'' lidojumam [[Rīga]]—[[Londona]], bet pie 29 — brīvbiļetes. 2007. gada 25. martā lidsabiedrība pārtrauca lidojumus uz Rīgu un atsāka 2024. gadā.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.ba.com British Airways mājaslapa]
+* [http://www.britishairways.com/findaflight/departures.html British Airways lidojumi]
+
+{{Organizācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Apvienotās Karalistes lidsabiedrības]]
+[[Kategorija:Apvienotās Karalistes uzņēmumi]]

@@ -1,0 +1,107 @@
+{{Latvijas novada infokaste
+| nosaukums         = Olaines pagasts
+| karte             = Olaines pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Olaines novads
+| centrs            = Jaunolaine
+| platība           = 291,7
+| iedzīvotāji       = 9361
+| iedzīvotāji_gads  = 2021
+| blīvums           = {{#expr: 9361 / 291.7 round 1}}
+| izveidots         = 1819
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+        
+}}
+[[File:Pēternieku muiža 2001-06-30.jpg|thumb|Pēternieku muiža]]
+'''Olaines pagasts''' ir viena no divām [[Olaines novads|Olaines novada]] administratīvajām teritorijām. Robežojas ar [[Mārupes novads|Mārupes novada]] [[Babītes pagasts|Babītes]] un [[Mārupes pagasts|Mārupes]] pagastiem, [[Rīga]]s pilsētu, [[Ķekavas novads|Ķekavas novada]] [[Baloži (pilsēta)|Baložu]] pilsētu un [[Ķekavas pagasts|Ķekavas]] un [[Baldones pagasts|Baldones]] pagastiem, [[Bauskas novads|Bauskas novada]] [[Iecavas pagasts|Iecavas pagastu]], kā arī [[Jelgavas novads|Jelgavas novada]] [[Sidrabenes pagasts|Sidrabenes]], [[Cenu pagasts|Cenu]] un [[Valgundes pagasts|Valgundes]] pagastiem. 
+
+== Daba ==
+Atrodas [[Viduslatvijas zemiene]]s [[Tīreļu līdzenums|Tīreļu līdzenumā]]. Augstākā vieta pagastā - pāri par 20 m vjl. pagasta dienvidaustrumu daļā.
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Attēls:Misa pie Pēterniekiem.jpg|thumb|260px|Misa pie [[Pēternieki]]em.]]
+* [[Vecā Ežupe]]
+* [[Jāņupe (Smakupe)|Jāņupe]]
+** [[Putrupe]]
+* [[Misa (upe)|Misa]]
+** [[Cena (upe)|Cena]]
+*** [[Spulle]]
+** [[Medaine]]
+** [[Olainīte]]
+** [[Pupla]]
+
+==== Ezeri ====
+* [[Stūrīšu ezers]] (16,7 ha)
+* [[Melnais ezers (Olaines pagasts)|Melnais ezers]] (6,1 ha)
+
+==== Purvi ====
+* ziemeļu malā daļa no [[Cenas tīrelis|Cenas tīreļa]]
+** [[Melnā ezera purvs]]
+* ziemeļu malā arī daļa no [[Medema purvs|Medema purva]]
+* daļa no [[Ēbeļmuižas purvs|Ēbeļmuižas purva]] (kopplatība 1 237 ha)
+* [[Kalves tīrelis]] (129 ha)
+* [[Plakanciema purvs]] (105 ha)
+* [[Medņu tīrelis]] (64 ha)
+
+== Vēsture ==
+Olaines mūsdienu teritorijā vēsturiski atradās Pētera muiža (''Peterhof'', [[Pēternieki (Olaines pagasts)|Pēternieki]])
+
+Olaines pagasts kā pašvaldība dibināts pēc zemnieku brīvlaišanas Vidzemē 1819. gadā.<ref>[http://www.jaunolaine.lv/cms/images/stories/olaine_att_p.pdf Olaines pagasta attīstības programma]{{Novecojusi saite}}</ref> 1871. gadā uzcelts Olaines pagastnams, sagrautās ēkas vietā 1932. gadā pēc arhitekta Eižena Adama projekta uzcelts jauns pagastnams, viens no pirmajiem Latvijas Republikā, nodedzis 1978. gadā. 1909. gadā [[Rīgas apriņķis|Rīgas apriņķī]] izveidoja [[Bieriņu pagasts|Bieriņu pagastu]], ko apvienoja ar Olaines pagastu, bet 1920. gadā Bieriņu pagastu atkal atdalīja no Olaines pagasta. 
+
+1935. gadā Olaines pagasta platība bija 154 km² un tajā dzīvoja 1035 iedzīvotāji, no tiem 509 vīrieši un 526 sievietes. 1945. gadā pagastā izveidoja Olaines un [[Baložu ciems|Baložu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Rīgas rajons|Rīgas rajona]] '''Olaines ciemam''' 1951. gadā pievienoja likvidēto Baložu ciemu. 1963. gadā Olaines ciemam pievienoja [[Dalbes ciems|Dalbes ciema]] [[padomju saimniecība]]s «Olaine» teritoriju, bet Olaines ciema kolhoza «Daugava» teritoriju un daļa valsts meža fonda zemju pievienoja [[Katlakalna ciems|Katlakalna ciemam]]. 1965. gadā tiek izveidots [[Olaine]]s [[pilsētciemats]], bet pārējo Olaines pagasta teritoriju pievieno '''Dalbes ciemam'''.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā Dalbes ciems reorganizēts par pagastu un pārdēvēts par '''Olaines pagastu'''. 2009. gadā Olaines pagasts apvienojās ar Olaines pilsētu izveidojot [[Olaines novads|Olaines novadu]]. 2021. gadā Olaines pagastam pievienoja daļu [[Ķekavas pagasts|Ķekavas pagasta teritoriju]], lai apvienotu Olaines pagasta pamatdaļu ar [[Jāņupe (ciems)|Jāņupes]] daļu ar [[vasarnīcu ciems|vasarnīcu ciemiem]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1035
+|1959|5970
+|1965|4300
+|1979|4614
+|1989|5556
+|2000|5142
+|2011|8093
+|2021|9381
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Jaunolaine]]''' (pagasta centrs), [[Pārolaine]] (Cukurciems), [[Stūnīši]], [[Medemciems]], [[Pēternieki (Olaines pagasts)|Pēternieki]].
+
+=== Ievērojamas personības ===
+* [[Aleksandrs Birznieks (diplomāts)]] (1882—1951), latviešu skolotājs un diplomāts;
+* [[Rūdolfs Baumanis]] (1909–1998), latviešu sporta šāvējs.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Olaines novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Rīgas rajons}}
+{{Rīgas apriņķis}}
+}}
+
+[[Kategorija:Olaines pagasts| ]]
+[[Kategorija:Latvijas pagasti]]

@@ -1,0 +1,117 @@
+{{Futbola kluba infokaste
+| text_color      = #FFFFFF
+| bg_color        = #274288
+| nos             = ''Olympique Lyonnais''
+| logo_links      = Olympique Lyonnais logo.svg
+| logo_izm        = 150px
+| pilns           = ''Olympique Lyonnais''
+| iesauka         = ''Les Gones'' (bērni), <br />''Les Rhodaniens'' (ronieši),<br />''Les Rouge & Bleu'' (sarkanzilie)
+| pilsēta         = {{Vieta|Francija|Liona}}
+| dib             = 1899
+| stad            = ''[[Parc Olympique Lyonnais]]''
+| ietilp          = 59 186
+| prez            = {{flaga|Francija}} Žans Mišels Olā
+| tren            = {{flaga|Francija}} [[Pjērs Sāžs]]
+| līga            = [[Francijas futbola 1. līga|Francijas 1. līga]]
+| sez             = [[2022.—2023. gada Francijas futbola 1. līgas sezona|2022.—2023.]]
+| poz             = 7. vieta
+| pattern_la1 = 
+| pattern_b1 = _ol2122h
+| pattern_ra1 = 
+| pattern_sh1 = _adidasred
+| pattern_so1 = _3_stripes_red
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _ol2122a
+| pattern_b2 = _ol2122a
+| pattern_ra2 = _ol2122a
+| pattern_sh2 = _ol2122a
+| pattern_so2 = _ol2122a
+| leftarm2 = D71828
+| body2 = D71828
+| rightarm2 = D71828
+| shorts2 = D71828
+| socks2 = D71828
+| pattern_la3 = _lyon2122t
+| pattern_b3 = _lyon2122t
+| pattern_ra3 = _lyon2122t
+| pattern_sh3 = _adidaswhite
+| pattern_so3 = _adidas_negro
+| leftarm3 = 000000
+| body3 = 000000
+| rightarm3 = 000000
+| shorts3 = 000000
+| socks3 = 000000
+}}
+
+'''Lionas "Olympique"''' ({{val|fr|Olympique Lyonnais}}), saukts arī par '''OL''' vai vienkārši '''''Lyon''''', ir [[Francija]]s [[futbols|futbola]] klubs, kas bāzēts [[Liona|Lionā]], [[Rona-Alpi|Ronas-Alpu]] reģionā. Dibināts [[1899]]. gadā kā ''Racing Club'', spēlē Francijas futbola augstākajā līmenī — [[Francijas futbola 1. līga|1. līgā]]. Mājas spēles komanda aizvada jaunuzceltajā ''[[Parc Olympique Lyonnais]]'' stadionā.<ref>{{Tīmekļa atsauce|url=http://www.olweb.fr/en/team/new-stadium-167.html|title=Le parc Olympique Lyonnais|accessdate={{dat|2016|6|9}}|publisher=olweb.fr|archiveurl=https://web.archive.org/web/20141012132727/http://www.olweb.fr/en/team/new-stadium-167.html|archivedate={{dat|2014|10|12||bez}}}}</ref> ''Olympique'' futbolisti septiņas reizes ir kļuvuši par Francijas čempioniem, kā arī piecas reizes izcīnījuši [[Francijas kauss futbolā|Francijas kausu]].<ref>{{Tīmekļa atsauce|url=http://www.olweb.fr/fr/article/le-palmares-par-competitions-23532.html|title=Le palmarès par compétition|accessdate={{dat|2015|10|8}}|publisher=Site officiel de L'Olympique Lyonnais}}</ref>
+
+== Sastāvs ==
+''Sastāvs uz {{Dat|2022|3|28|A|bez}}''.
+{{Fs start}}
+{{Fs player|name=[[Antonijs Lopešs]]|pos=GK|no=1|nat=POR}}
+{{Fs player|name=[[Sinalī Diomandē]]|pos=DF|no=2|nat=CIV}}
+{{Fs player|name=[[Emersons Palmjēri]]|pos=DF|no=3|nat=ITA|other=īrē no [[Chelsea F.C.|Chelsea]]}}
+{{Fs player|name=[[Kastelo Lukeba]]|pos=DF|nat=FRA|no=4}}
+{{Fs player|name=[[Džeisons Denajers]]|pos=DF|no=5|nat=BEL}}
+{{Fs player|name=[[Karls Toko Ekambi]]|pos=FW|no=7|nat=CMR}}
+{{Fs player|name=[[Husems Avārs]]|pos=MF|no=8|nat=FRA}}
+{{Fs player|name=[[Musa Dembele (futbolists, dzimis 1996. gadā)|Musa Dembele]]|pos=FW|nat=FRA|no=9}}
+{{Fs player|name=[[Lukass Paketa]]|nat=BRA|pos=MF|no=10}}
+{{Fs player|name=[[Tino Kadevere]]|pos=FW|no=11|nat=ZIM}}
+{{Fs player|name=[[Enriki]]|pos=DF|no=12|nat=BRA}}
+{{Fs player|name=[[Leo Dibuā]]|pos=DF|no=14|nat=FRA|other=[[kapteinis (futbols)|kapteinis]]}}
+{{Fs mid}}
+{{Fs player|name=[[Romēns Favrs]]|pos=MF|no=15|nat=FRA}}
+{{Fs player|name=[[Malkolms Barkola]]|nat=TOG|pos=GK|no=16}}
+{{Fs player|name=[[Malo Gusto]]|nat=FRA|pos=DF|no=17}}
+{{Fs player|name=[[Raians Šerki]]|nat=FRA|pos=FW|no=18}}
+{{Fs player|name=[[Habibs Keitā]]|nat=MLI|pos=MF|no=19}}
+{{Fs player|name=[[Damjēns Da Silva]]|pos=DF|no=21|nat=FRA}}
+{{Fs player|name=[[Žefs Reins Adelaids]]|pos=MF|no=22|nat=FRA}}
+{{Fs player|name=[[Tjagu Mendiss]]|pos=MF|no=23|nat=BRA}}
+{{Fs player|name=[[Maksāns Kakerē]]|pos=MF|no=25|nat=FRA}}
+{{Fs player|name=[[Žeroms Boatengs]]|nat=GER|pos=DF|no=27}}
+{{Fs player|name=[[Tangī Ndombelē]]|pos=MF|no=28|nat=FRA|other=īrē no [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{Fs player|name=[[Jūlians Pollersbeks]]|pos=GK|no=30|nat=GER}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Francijas futbola 1. līga|Francijas čempionāts (''Ligue 1'')]]'''
+** Čempioni (7): 2001—02, 2002—03, 2003—04, 2004—05, 2005—06, 2006—07, 2007—08
+** Vicečempioni (5): 1994—95, 2000—01, 2009—10, 2014—15, 2015—16
+* '''[[Francijas kauss futbolā|Francijas kauss]]'''
+** Kausa ieguvēji (5): 1963—64, 1966—67, 1972—73, 2007—08, 2011—12
+** Finālisti (3): 1962—63, 1970—71, 1975—76
+* '''Francijas līgas kauss'''
+** Kausa ieguvēji (1): 2000—01
+** Finālisti (5): 1995—96, 2006—07, 2011—12, 2013—14, 2019—20
+* '''Francijas superkauss'''
+** Kausa ieguvēji (8): 1973, 2002, 2003, 2004, 2005, 2006, 2007, 2012
+** Finālisti (4): 1967, 2008, 2015, 2016
+* '''[[Francijas futbola 2. līga|Francijas 2. līga]]'''
+** Čempioni (3): 1950—51, 1953—54, 1988—89
+* '''[[UEFA Čempionu līga]]'''
+** Pusfinālisti (1): 2009—10
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (1): 1997
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{sporta ārējās saites}}
+* [http://www.olweb.fr/ Oficiālā kluba vietne] {{fr ikona}} {{en ikona}} {{zh ikona}} {{ko ikona}}
+
+
+{{futbols-aizmetnis}}
+{{Ligue 1}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Francijas futbola klubi]]
+[[Kategorija:Lionas "Olympique"]]

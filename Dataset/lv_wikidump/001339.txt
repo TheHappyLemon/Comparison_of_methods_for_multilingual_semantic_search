@@ -1,0 +1,14 @@
+Pirmais mēģinājums izveidot [[datortīkls|datortīklu]], kas ļautu savā starpā sazināties dažādu [[dators|datoru]] lietotājiem bija [[ARPANET]]. Šis 1969. gadā radītais datortīkls bija pirmais, kurā tika izmantots [[pakešu komutācija]]s princips.
+
+[[Internets|Interneta]] saknes stiepjas ARPANET tīklā, kas ir ne tikai Interneta intelektuālais priekštecis, bet arī kalpoja par bāzes tīklu veidojot Internetu.
+
+== Skatīt arī ==
+* [[Vispasaules tīmeklis]]
+Pirms plašu izplatību internetā
+darba, kas noveda pie interneta, visbiežāk komunikāciju tīkli bija ierobežota ar to būtību, lai tikai nodrošinātu saziņu starp stacijām [[lokālais tīkls|lokālā tīkla]] un izplatītas datortīklu metode balstās uz centrālās [[lieldators|lieldatora]] modelis. Vairākas pētniecības programmas, sāka pētīt un formulēt principus tīklu starp fiziski atsevišķus tīklus, kas noved pie attīstības pakešu komutācijas modelim digitālo tīklu veidošanu. Šos pētniecības centienus iekļaut tos Donald Davies (NPL), Paul Baran (Rand Corporation) laboratoriju un Leonard Kleinrock MIT un UCLA. Pētījumu rezultātā tika izveidoti vairāki pakešu komutācijas tīklu risinājumi beigās 1960. un 1970., ieskaitot ARPANET un X.25 protokoliem. Turklāt sabiedrības piekļuvi un hobbyist sakarus starp sistēmām pieauga popularitāti, ieskaitot Unix-to-Unix kopija (UUCP) un FidoNet. Viņi bija tomēr vēl joprojām ir nesakarīgs atsevišķu tīklu, izsniedz tikai ar ierobežotu vārtejas starp tīkliem. Tas ļāva piemērot pakešu komutācijas izstrādāt protokolu internetworking, kad daudzu dažādu tīklu varētu būt savienotas kopā vērā super-sistēmu tīkliem. Nosakot vienkāršu kopēja tīkla sistēma, Internet Protocol Suite, jēdzienu tīkls varētu būt atdalīta no tās fiziskās īstenošanu. Šī internetworking izplatīties sāka veidot vērā ideju par vispasaules tīklu, kas varētu saukt par internetu, kas pamatojas uz standarta protokoliem oficiāli ieviesta 1982. Pieņemšana un starpsavienojumu notika ātri pāri modernu [[telesakari|telesakaru]] tīklu rietumu pasaulē, un tad sāka iespiesties pārējo pasauli, kā tā kļuva par de-facto ir starptautisks standarts [[Vispasaules tīkls|vispasaules tīklā]]. Tomēr atšķirības pieauguma starp progresīvām tautām un trešās pasaules valstīm, izraisīja digitālo plaisu, kas joprojām ir bažas šodien.
+
+Pēc komercializāciju un ieviešanu privātajās interneta pakalpojumu sniedzējiem 1980, un interneta paplašināšanos tautas lietošanai 1990.gadu internets ir bijusi krasi ietekme uz kultūru un komerciju. Tajā ietilpst arī pie tūlītējas saziņas pieaugt elektronisko pastu ([[e-pasts]]), teksta balstītu diskusiju forumos un World Wide Web. Investoru spekulācijas jaunos tirgos, ko sniedz šie jauninājumi arī izraisītu inflāciju un turpmāko sabrukums Dot-com burbulis. Bet neskatoties uz to, Internets turpina augt.
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Internets]]

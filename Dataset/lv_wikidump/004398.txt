@@ -1,0 +1,58 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 89
+|             7. čaula = 2
+|             6. čaula = 9
+|             5. čaula = 18
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Ac
+|             atommasa = [227]
+|   valences elektroni = [Rn]6d<sup>1</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Ac-TableImage.svg|250px]]
+|               attēls = 
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,1
+|              blīvums = 10070
+|  kušanas temperatūra = 1323 K (1050&nbsp;°C)
+| viršanas temperatūra = 3471 K (3198&nbsp;°C)
+}}
+
+'''Aktīnijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ac''' un [[atomskaitlis|atomskaitli]] 89. Tas ir mīksts, sudrabbalts [[radioaktivitāte|radioaktīvs]] [[pārejas metāli|pārejas metāls]]. Stabilākā aktīnija [[izotops|izotopa]] <sup>227</sup>Ac [[pussabrukšanas periods]] ir 21,8 gadi. Dabā tas ir sastopams [[urāns (elements)|urāna]] rūdās. Parasti aktīniju iegūst [[atomreaktors|atomreaktoros]] no [[rādijs|rādija]]. Aktīnijs ir apmēram 150 reizes radioaktīvāks par rādiju un to var lietot par radiācijas avotu.
+
+No aktīnija nosaukuma ir radies [[aktinīdi|aktinīdu]] elementu saimes nosaukums. Šo saimi veido 14 ķīmiskie elementi, kas [[ķīmisko elementu periodiskā tabula|periodiskajā tabulā]] atrodas uzreiz aiz aktīnija.
+
+== Vēsture ==
+Aktīniju 1899. gadā atklāja franču ķīmiķis [[Andrē-Luī Debjerns]] (''André-Louis Debierne''). 1902. gadā, neatkarīgi no Debjerna pētījumiem, to vēlreiz atklāja vācu ķīmiķis [[Frīdrihs Oskars Gīsels]] (''Friedrich Oskar Giesel''). Elementa nosaukums ir radies no [[grieķu valoda|grieķu vārda]] {{gree|ἀκτίς}} (''aktis''), kas nozīmē ‘stars’. Gīsels elementu nodēvēja par ''emanium'', bet, kad tika konstatēts, ka viņš ir atklājis to pašu elementu, kuru jau bija atklājis Debjerns, tad atstāja elementam tā sākotnējo nosaukumu.
+
+== Atrašanās dabā ==
+[[Attēls:Uraninite-39029.jpg|thumbnail|150px|[[Uraninīts]] ir viens no minerāliem, kas satur aktīniju]]
+Dabā aktīnijs ir sastopams [[urāns (elements)|urāna]] rūdās, piemēram, minerāla [[uraninīts|uraninīta]] sastāvā. Viena tonna urāna rūdas satur aptuveni 0,2 miligramus aktīnija.<ref name="j1"/>
+
+=== Izotopi ===
+Dabā ir sastopams tikai viens aktīnija [[izotops]] — <sup>227</sup>Ac. Tā [[pussabrukšanas periods]] ir 21,772 gadi. Ir identificēti vēl 30 izotopi, kuru [[masas skaitlis]] ir no 206 līdz 237.<ref name="jlab"/>
+
+== Izmantošana ==
+Aktīnijs ir aptuveni 150 reizes [[radioaktivitāte|radioaktīvāks]] nekā [[rādijs]], tāpēc tas ir nozīmīgs [[neitrons|neitronu]] avots.<ref name="lenntech"/> Tam nav citu nozīmīgu rūpniecībā izmantošanas veidu.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="j1">{{publikācijas atsauce | doi= 10.1021/ja01158a033 | last1= Hagemann | year= 1950 | first1= French | pages= 768 | volume= 72 | journal= Journal of the American Chemical Society | title= The Isolation of Actinium | issue= 2}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso089.html | title= Isotopes of the Element Actinium | publisher= Jefferson Lab | accessdate= 2014. gada 14. februārī | language= angliski}}</ref>
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/ac.htm | title= Actinium| publisher= Lenntech | accessdate= 2014. gada 14. februārī | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

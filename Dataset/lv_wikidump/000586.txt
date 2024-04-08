@@ -1,0 +1,76 @@
+{{Infobox political party
+|country=Vācija
+|colorcode=#964B00
+|name = Nacionālsociālistiskā vācu strādnieku partija
+|name_native = Nationalsozialistische Deutsche Arbeiterpartei
+|party_logo = [[Attēls:Parteiadler der Nationalsozialistische Deutsche Arbeiterpartei (1933–1945).svg|center|200px]]
+|leader =[[Kārlis Harers]] <small>(1919–1920)</small><br />[[Antons Drekslers]] <small>(1920–1921)</small><br />[[Ādolfs Hitlers]] <small>(1921–1945)</small><br />[[Martins Bormans]] <small>(1945)</small>
+|foundation=1920
+|founder=[[Antons Drekslers]]
+|dissolution=1945
+|ideology = [[Nacionālsociālisms]]<br>[[Fašisms]]
+|position = 
+|slogan = {{val|de|Ein Volk, ein Reich, ein Führer}} {{small|(neoficiāli)}}
+|headquarters = {{vieta|Vācija|Minhene}}<ref name="headquarters">Rick Steves. ''Rick Steves' Snapshot Munich, Bavaria & Salzburg''. Berkeley, California, USA; New York, New York, USA: Avalon Travel, 2010. p. 28. "Though the Nazis eventually gained power in Berlin, they remembered their roots, dubbing Munich "Capital of the Movement". The Nazi headquarters stood near today's obelisk on Brienner Strasse..."</ref>
+|newspaper = ''[[Völkischer Beobachter]]''
+|flag = [[Attēls:Flag of the NSDAP (1920–1945).svg|150px|border|Parteiflagge]]
+}}
+'''Nacionālsociālistiskā vācu strādnieku partija''' ({{val|de|Nationalsozialistische Deutsche Arbeiterpartei}}), '''NSDAP''' jeb '''nacistu partija''', bija 1919. gadā dibināta [[politiskā partija]], kas [[Ādolfs Hitlers|Ādolfa Hitlera]] vadībā 1933. gadā nāca pie varas [[Vācija|Vācijā]].
+
+NSDAP bija galvenais politiskais spēks [[Trešais reihs|nacistiskajā Vācijā]] kopš [[Veimāras Republika]]s krišanas 1933. gadā līdz [[Otrais pasaules karš|Otrā pasaules kara]] beigām 1945. gadā, kad to aizliedza.
+
+== Vēlēšanu statistika ==
+NSDAP panākumi [[Reihstāgs (Veimāras Republika)|Reihstāga]] vēlēšanās:
+
+{|  class="wikitable" style="text-align:center;"
+! Datums
+! Balsis (miljoni)
+! Procenti balsu
+|- 
+| style="text-align:left;"| 1924. gada 4. maijs
+| 
+| {{0}}6,6%
+|- 
+| style="text-align:left;"| 1928. gada 7. decembris
+| 
+| {{0}}3,0%
+|- 
+| style="text-align:left;"| 1928. gada 20. maijs
+| {{0}}0,81
+| {{0}}2,6%
+|- 
+| style="text-align:left;"| 1930. gada 14. septembris
+| {{0}}6,41
+| 18,3%
+|- 
+| style="text-align:left;"| 1932. gada 31. jūlijs
+| 13,75
+| 37,3%
+|- 
+| style="text-align:left;"| 1932. gada 6. novembris
+| 11,74
+| 33,1%
+|- 
+| style="text-align:left;"| 1933. gada 5. marts
+| 17,28
+| 43,9%
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Trešais reihs-aizmetnis}}
+{{Organizācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:NSDAP| ]]
+[[Kategorija:Aizliegtās politiskās partijas]]
+[[Kategorija:Antisemītisms]]
+[[Kategorija:Bijušās partijas]]
+[[Kategorija:Nacistu organizācijas]]
+[[Kategorija:Vācijas politiskās partijas]]

@@ -1,0 +1,46 @@
+{{Upes infokaste 
+| nosaukums         = Vkra
+| citvaloda         = pl
+| oriģinālnosaukums = Wkra
+| attēls            = Rzeka Wkra.JPG
+| attēla_izmērs     = 
+| paraksts          = 
+| karte             = Upe_Vkra.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Mazūrijas ezeraine]]
+| augštece          = Nida, Dzjaldovka
+| satekupes         = 
+| ieteka            = [[Nareva]]
+| baseina_valstis   = 
+| tek_caur          = {{POL}}
+| garums            = 249
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 
+| caurtece_vieta    = 
+| gada_notece       = 
+| baseins           = 5322
+| pietekas          = 
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d= | iet_plat_m= | iet_plat_s= | iet_plat_NS=N 
+| iet_gar_d= | iet_gar_m= | iet_gar_s= | iet_gar_EW=E
+}}
+
+'''Vkra''' ({{val-pl|Wkra}}) ir upe [[Polija]]s ziemeļaustrumos. [[Nareva]]s labā krasta pieteka. Sākas Mazūru ezeru augstienē. Augštecē divreiz maina nosaukumu (Ņida (''Nida''), Dzjalduvka (''Działdówką'')). Novērojama upes [[bifurkācija]]. Līdzenumu upe, krasti diezgan vienmuļi, tāpēc maz piemērota [[ūdenstūrisms|ūdenstūrismam]]. Lielākās pilsētas krastos: [[Ņidzica]], [[Dzjaldovo]], [[Bežuņa]], [[Glinojecka]], [[Novi Dvora Mazovecka]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Narevas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Mazovijas vojevodiste]]
+[[Kategorija:Varmijas-Mazūrijas vojevodiste]]

@@ -1,0 +1,20 @@
+[[Attēls:Raster_to_Vector_Mechanical_Example.jpg|thumb|200px|Vektorizēšana ir labs līdzeklis nevajadzīgo detaļu noņemšanai no fotogrāfijas. (Attēli tika pārkonvertēti JPEG formātā attēlošanas nolūkiem.)]]
+
+'''Vektorgrafika''' ir [[ģeometrija|ģeometrisko]] pamatelementu - [[Punkts (ģeometrija)|punktu]], [[nogrieznis|nogriežņu]], [[līkne|līkņu]] un [[daudzstūris|daudzstūru]] lietošana, lai attēlotu zīmējumus [[datorgrafika|datorgrafikā]].
+
+== Pārskats ==
+[[Attēls:Tj-loco.jpg|thumb|200px|Oriģinālā fotogrāfija. ]]
+[[Attēls:Tj-loco-vec.gif|thumb|200px|Pārveidota vektorgrafikā.]]
+Visi mūsdienu modernie datoru ekrāni pārveido vektoru attēlu reprezentācijas [[Rastra grafika|rastra grafikā]]. Rastra attēls, saturot noteiktu vērtību katram [[pikselis|pikselim]], kas attēlots ekrānā, tiek saglabāts atmiņā.
+
+Skaitļošanas tehniku pirmsākumos (1950.-1980. gadam) tika izmantota pavisam cita demonstrēšanas metode - vektorgrafikas sistēma. Šajās sistēmās tika virzīts elektronu stars [[kineskops|CRT monitorā]], lai tieši skicētu nepieciešamos objektus, nogriezni pa nogrieznim, kamēr pārējā ekrāna daļa palika neizgaismota (melna). Šis process tika atkārtots vairākas reizes sekundē, lai sasniegtu nemirgojošu, vai gandrīz neņirbošu attēlu. Šīs sistēmas atļāva attēlot ļoti augstas izšķirtspējas līniju bildes un kustīgus attēlus, neizmantojot neiedomājami lielos apjomus atmiņas, kādi būtu bijuši vajadzīgi tādas pašas izšķirtspējas rastra sistēmai. Šie uz vektoriem bāzētie monitori bija arī pazīstami kā '''X-Y ekrāni'''. Faktu, ka vektoru grafikas attēli aizņem mazāk atmiņas kā ekvivalentas izšķirtspējas rastra attēli lietoja sākotnējos [[lāzerprinteris|lāzerprinteros]]. Datorā vispirms tika izveidots drukājamais vektoru attēls (PostScript formātā), kuru pārsūtīja uz printeri un tur pārkonvertēja par rastra attēlu un izdrukāja ārā. Konvertēšana notika drukāšanas laikā, tāpēc nevienā vietā sistēmā (datorā un printerī) nebija nepieciešams liels daudzums atmiņas. To laiku printeriem bija problēmas izdrukāt lielus, augstas izšķirtspējas, rastra attēlus, jo caur printera [[interfeiss|interfeisu]] nebija iespējams nosūtīt datus pietiekami ātri.
+
+Jēdziens ''vektorgrafika'' ir galvenokārt pielietots mūsdienās sakarā ar divu dimensiju datorgrafiku. Tas ir viens no vairākiem paņēmieniem, ko var izmantot mākslinieks, lai izveidotu attēlu rastra displejā. Citi paņēmieni iekļauj sevī tekstu, multividi un [[renderēšana|3D renderēšanu]]. Virtuāli visa modernā 3D renderēšana tiek paveikta izmantojot 2D vektorgrafikas paņēmienus. Tehniskajos zīmējumos [[ploteris|ploteri]] joprojām zīmē vektorus tieši uz papīra.
+
+Vektoru grafikas attēlus parasti zīmē. Metodes, kas konvertē rastra grafikas attēlus par vektorgrafiku (''tracing'') bieži vien nav pietiekami precīzas. Vektoru grafikas attēlu konvertēšana uz rastra grafiku ir relatīvi ātra un vienkārša. Programmas, kuras lieto vektoru grafikas attēlu zīmēšanai un rediģēšanai (izmainīšanai), sauc par vektoru grafikas redaktoriem (''vector graphics editor''). Populārākās šāda veida programmas ir [[CorelDRAW|CorelDraw]] (CDR formāts) un [[Adobe Illustrator]] (AI formāts). Šīm programmām ir iespējas pārkonvertēt rastra grafiku par vektorgrafiku. Vēl ir arī [[atvērtais pirmkods|atvērtā koda]] programma Inkscape (SVG formāts). Vēl dažviet lietotie vektorgrafikas formāti ir WMF (''Windows metafile''), kas apraksta Windows GDI komandas, kuras jāizpilda lai Windows attēlotu nepieciešamo attēlu, kā arī PS un EPS (postscript un enhanced postscript), kas sākotnēji bija definēti kā pirmo lāzerprinteru attēla formāti.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+[[Kategorija:Datorgrafika]]

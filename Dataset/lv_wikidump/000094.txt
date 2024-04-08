@@ -1,0 +1,102 @@
+[[Attēls:Protein crystals grown in space.jpg|thumb|220px|[[Kosmoss|Kosmosā]] izaudzēti olbaltumvielu [[kristāls|kristāli]]]]
+
+'''Olbaltumvielas''' jeb '''proteīni''' (no {{val|fr|protéine}} vai {{val|de|Protein}}, kas savukārt no {{val|el|πρῶτος}} (''protōs'') — 'pirmējs')<ref>{{Grāmatas atsauce |title=Svešvārdu vārdnīca |edition=3. |year=2007 |publisher=[[Jumava]] |isbn=978-9984-38-332-3 |page=637}}</ref>, nereti saīsināti arī kā '''olbaltumi''' vai '''OBV''', ir [[biopolimērs|biopolimēri]], lielmolekulāri savienojumi, ko veido līdz pat 20 dažādu [[α-aminoskābes|α-aminoskābju]] saturošas lineāras virknes, kurās aminoskābes savstarpēji saistītas ar peptīdsaitēm. [[Polipeptīds]] ir olbaltumvielas [[molekula]] veidošanās procesā, kas savijusies lodveida (globulārā) vai pavedienveida (fibrilārā) formā.
+
+== Iedalījums ==
+
+Olbaltumvielas iedala:
+* vienkāršajās olbaltumvielās (proteīnos), kas veidotas tikai no vienas vai vairākām aminoskābju virknēm, piemēram, [[albumīns]];
+* saliktajās olbaltumvielās (proteīdos), kurās bez aminoskābju virknes/-ēm sastāvā ir arī citas vielas, piemēram, [[hemoglobīns]].
+
+=== Vienkāršās olbaltumvielas ===
+[[Attēls:ALB structure.png|thumb|200px|Albumīna struktūra]]
+
+Vienkāršās olbaltumvielas jeb proteīni ir tikai no vienas vai vairākām [[aminoskābes|aminoskābju]] virknēm sastāvošas olbaltumvielas. Nereti ar jēdzienu „proteīns” saprot arī olbaltumvielas kā tādas.
+
+Vienkāršās olbaltumvielas nav iespējams iedalīt grupās, balstoties uz to ķīmisko struktūru un sastāvu, kas ir salīdzinoši sarežģīts, tāpēc tos grupē pēc šķīdības dažādos [[šķīdinātājs|šķīdinātājos]] un daļiņu formas. Pazīstamākie proteīnu veidi:
+* [[Albumīni]] — neitrāli, [[ūdens|ūdenī]] un atšķaidītos [[sāļi|sāļu]] [[šķīdums|šķīdumos]] šķīstoši. Piesātinātos sāļu šķīdumos nešķīst. Ar vislielāko [[bioloģiskā uzturvērtība|bioloģisko uzturvērtību]]. Sastopami gan dzīvnieku, gan augu valstī, piemēram [[ola]]s baltumā (ovoalbumīni) un pienā (laktoalbumīni).
+* [[Globulīni]] — neitrālas, ūdenī nešķīstošas olbaltumvielas. Šķīst atšķaidītos sāļu šķīdumos (piemēram, 10% NaCl šķīdumā). Sastopamas gan augu, gan dzīvnieku valstī, Piemēri — asiņu bioloģiskās [[antivielas]].
+* [[Histoni]] — bāziskas oltaltumvielas (satur 20—30% diaminomonokarbonskābes), kas šķīst skābos, neitrālos šķīdumos, sārmu pārākumā, izņemot [[amonjaks|amonjaka]] pārākumā. Ietilpst [[nukleoproteīdi|nukleoproteīdu]] sastāvā.
+[[Attēls:1GZX Haemoglobin.png|thumbnail|150px|Cilvēka hemoglobīna molekula]]
+* [[Skleroproteīni]] — nešķīstoši ūdenī un lielākajā daļā citu šķīdinātāju. Piemēri — [[āda]]s, [[mati|matu]], spalvu [[keratīns]]; [[cīpsla|cīpslu]] un [[kaulaudi|kaulaudu]] starpšūnu vielas [[kolagēns]]; elastīgo saišu [[elastīns]].
+
+=== Saliktās olbaltumvielas ===
+
+Saliktās olbaltumvielas jeb proteīdi, kopā ar aminoskābēm, satur arī vēl citas vielas jeb t.s. prostētiskās grupas (t.i., savienojumi, kuri nav veidoti no aminoskābēm, piemēram, [[nukleīnskābe]]s, [[lipīdi]], ogļhidrāti, [[fosforskābe]], [[hēms]], metāla joni utt).
+
+Biežāk sastopamās salikto olbaltumvielu klases:
+* [[Fosfoproteīni]] ir parastā olbaltumviela savienojumā ar [[fosforskābe]]s vai [[pirofosforskābe]]s atlikumu, piemēram, pienā esošais [[kazeīns]] vai olas dzeltenumā esošie [[bitelīni]].
+* [[Nukleoproteīdi]] ir parastā olbaltumviela savienojumā ar [[nukleīnskābe|nukleīnskābēm]]. Veido [[ribosoma]]s un ietilpst šūnu kodolos. Piemēram, histonu un nukleīnskābju veidotais [[hromatīns]] iesaistās [[Bezdzimumvairošanās|šūnu dalīšanās]] procesā, kā arī [[iedzimtība]]s informācijas pārnešanā.
+* [[Glikoproteīdi]] satur [[ogļhidrāti|ogļhidrātus]] (visbiežāk [[aminocukuri|aminocukurus]], [[heksuronskābe]]s un ogļhidrātu sērskābes esterus). Tie atrodas [[balstaudi|balstaudu]], [[saistaudi|saistaudu]] un [[gļotviela|gļotvielu]] sastāvā, piemēram, [[kauli|kaulos]] sastopams [[osteomukoīds]] un [[siekalas|siekalās]], kā arī zarnu [[gļotāda|gļotādu]] sekrētā esošais [[mucīns]].
+* [[Lipoproteīni]] ir olbaltumvielas savienojumā ar dažādiem lipīdiem ([[troglicerīni]]em, [[fosfolipīdi]]em, [[holesterīn]]u utt.). Tiem ir liela nozīmē tauku pārnesē no [[aknas|aknām]] uz citiem orgāniem.
+
+== Uzbūve ==
+[[Attēls:Peptide-Figure-Revised.png|thumb|220px|Peptīdsaites ķīmiskā uzbūve (apakšā) un trīsdimensionālā peptīdsaites struktūra starp [[alanīns|alanīnu]] un kādu citu aminoskābi (augšā)]]
+[[Attēls:Olbaltumvielu uzbūve.jpg|320px|thumb|Hemoglobīna visu četru struktūru attēlojums]]
+
+Olbaltumvielas molekulu veido vismaz viens garš polipeptīds — virkne aminoskābju atlikumu, kas savstarpēji saistījusies ar [[peptīdsaite|peptīdsaitēm]]. Dažādām olbaltumvielām polipeptīdi ir dažādu aminoskābju secība un garumu. Vienu olbaltumvielas molekulu vidēji veido vairāk nekā 100 aminoskābes, no kurām dažādas var būt līdz pat 20 aminoskābēm. Olbaltumvielām var būt 2×10<sup>23</sup> variācijas. Īsus polipeptīdus, kuros ir tikai 20—30 aminoskābju atlikumi, sauc par [[peptīdi]]em vai [[oligopeptīdi]]em, un tos parasti vēl neuzskata par olbaltumvielām.
+
+Olbaltumvielas veido tikai proteinogēnās jeb [[α-aminoskābes]], augiem un dzīvniekiem — [[L rinda]]s [[enantiomērs|enantiomēri]], bet mikroorganismiem — arī [[D rinda]]s enantiomēri. Olbaltumvielu [[molekulmasa]] var būt no dažiem desmitiem tūkstošu līdz vairākiem miljoniem [[atommasas vienība|daltonu]] (Da).
+
+Izšķir 4 struktūras:
+
+# Pirmējā jeb primārā struktūra — katrai aminoskābei ir divas funkcionālās grupas — [[karboksilgrupa]] (-COOH) un [[aminogrupa]] (-NH2), kas spējīgas reaģēt ar citu aminoskābju pretējām funkcionālajām grupām, savienojoties [[Kovalentā saite|kovalentajā]] vai [[Peptīdsaite|peptīdsaitē]] un veidojot aminoskābju virkni. Zināma loma pirmējās struktūras veidošanā ir arī [[disulfīda saite|disulfīda saitēm]], kas veidojas starp [[cisteīns|cisteīna]] atlikumiem.
+# Otrējā jeb sekundārā struktūra ir aminoskābju virknes izvietojums telpā vai nu α spirālē vai „salocītai lapai” līdzīgā β struktūrā, ko nodrošina [[ūdeņraža saite]]s (samērā vājas saites starp vienas peptīdgrupas [[ūdeņradis|ūdeņraža]] atomu un citas peptīdgrupas nedalīto [[skābeklis|skābekļa]] atomu).
+# Trešējā jeb terciārā struktūra ir otrējās struktūras tālāks sakārtojums telpā, olbaltumvielas molekulu veidojošo aminoskābju [[sānvirkne|sānvirknēm]] savstarpēji mijiedarbojoties. Pēc olbaltumvielā esošo aminoskābju atlikumu uzbūves un īpašībām iespējami 5 mijiedarbību veidi:
+:::* disulfīda saite (S-S), kas veidojas starp 2 [[cisteīns|cisteīna]] atlikumiem;
+:::* hidrofīlā mijiedarbība, visbiežāk veidojoties ūdeņraža saitei starp polārām neitrālām sānvirknēm;
+:::* hidrofobā mijiedarbība, kas noris starp nepolārām neitrālām sānvirknēm;
+:::* sāļu jeb [[jonu saite]], kas veidojas starp jonizētām skābām un jonizētām bāziskām sānvirknēm;
+:::* aromātiskā mijiedarbība, kas noris starp aminoskābēm ar [[aromātiskums (ķīmija)|aromātiskām]] sānvirknēm.
+
+:: Šo mijiedarbību rezultātā molekula savijas vai nu globulā (α spirāles) vai fibrillā (β struktūras). Šāds molekulu formas iedalījums gan nav absolūts, jo iespējamas arī starpformas, kad trešējo struktūru vienlaikus veido gan otrējās struktūras α spirāles, gan β struktūras.
+
+# <li value="4"> Ceturtējā jeb kvartārā struktūra — olbaltumvielas globulas (fibrillas neveido ceturtējo struktūru), savstarpēji saistoties, veido [[komplekss|kompleksus]]. Tās apvienojas, lai varētu funkcionēt, piemēram, vienā [[hemoglobīns|hemoglobīna]] molekulā ietilpst četras [[globīns|globīna]] molekulas, lai tas varētu veikt skābekļa pārneses funkcijas. Ceturtējo struktūru stabilizē jonu un ūdeņraža saites.
+
+[[Temperatūra]]s, [[starojums|starojuma]], stipru [[skābe|skābju]] vai [[bāze (ķīmija)|bāzu]], koncentrētu neorganisko [[Sāļi|sāļu]], kā arī organisko [[šķīdinātājs|šķīdinātāju]] iedarbībā olbaltumvielas var secīgi zaudēt ceturtējo, trešējo un daļēji arī otrējo struktūru. Šo procesu sauc par [[denaturācija|denaturēšanos]]. Vispazīstamākais olbaltumvielu denaturēšanās piemērs ir [[ola]]s baltuma sarecēšana karsējot — notiek tajā esošā [[albumīns|albumīna]] denaturēšanās un no šķidra un puscaurspīdīga tas kļūst stingrs un balts. Ļoti retos gadījumos, neitralizējot denaturētāja iedarbību, denaturēšanās var arī būt apgriezeniska, un tādā gadījumā šo olbaltumvielas struktūras atjaunošanos sauc par [[renaturēšanās|renaturēšanos]].<ref name="V.Miķelsone">{{Grāmatas atsauce |title= Bioķīmija: mācību līdzeklis |author=Velga Miķelsone |year=2008 |publisher=[[Latvijas Lauksaimniecības universitāte|LLU]] Ķīmijas katedra |location=[[Jelgava]] |pages=11—22}}</ref>
+
+== Funkcijas ==
+
+Olbaltumvielas veic daudzas organismu bioloģiskās funkcijas:
+
+# Fermentatīvā, enzīmā jeb katalītiskā funkcija ir dzīvajos organismos notiekošo [[vielmaiņa]]s reakcijas, kā arī [[DNS replicēšana]]s, [[DNS reparācija|reparācijas]] un [[DNS transkripcija|transkripcijas]] reakciju veicināšana un paātrināšana. To veic olbaltumvielas — [[fermenti]] jeb enzīmi, pie savas neolbaltumvielas daļas [[kofaktors|kofaktora]] [[aktīvais centrs|aktīvā centra]] piesaistot substrātus jeb savienojumus, kuru pārvērtības tie katalizē. Kofaktori var būt dažādi [[vitamīni]] un metālu [[jons|joni]], kas piedalās [[elektroni|elektronu]] un veselu [[atoms|atomu]] pārnesē no vienas savienojuma vietas uz otru.
+# Uzbūves funkcija. Daudzas fibrillārās olbaltumvielas vielas organismā veido savītas šķiedras, kas dažādām bioloģiskām struktūrām sniedz izturību. Piemēram, [[kolagēns]] ir saistaudu un skrimšļaudu pamatviela, muskuļu saišu sastāvā ir [[elastīns]], bet [[keratīns]] ir nagu, ragu, matu galvenā sastāvdaļa.
+# Fotoaktīvā funkcija ir funkcija, kura ar gaismas ierosmi izpaužas kā elektrisks [[impulss]]. Piemēram, šādu funkciju veic [[hlorofils]], kas nepieciešams [[fotosintēze]]s reakcijās. Svarīga fotoaktīva olbaltumviela ir [[rodopsīns]], kas gaismas iedarbībā ierosina [[nervi|nerva]] impulsu.
+# Receptorā funkcija ir ārējās vides signālu uztveršana, jo olbaltumvielas atrodas ārējos maņu orgānos.
+# Kustību funkcija ir [[muskulis|muskuļu]] saraušanās funkcija. Šeit jāmin [[miozīns]] un [[aktīns]], kas nodrošina muskuļa šķiedru [[miofibrilla|miofibrillu]] saraušanos.
+# Transporta funkciju nodrošina [[asins plazma]]s olbaltumvielas, kas veic molekulu vai jonu pārnesi no viena orgāna uz otru. Piemēram, hemoglobīns saista plaušās ieelpoto skābekli un nogādā to uz perifērajiem audiem, kur to izmanto uzturvielu [[oksidēšana]]i.
+# Aizsargfunkcija ir funkcija, kura nodrošina organisma imunitāti. Piemēram, [[Limfocīts|b-limfocīti]] izstrādā speciālas olbaltumvielas — antivielas, kas neitralizē organismā iekļuvušās baktērijas, vīrusus un svešās olbaltumielas.
+# Enerģētiskā funkcija ir olbaltumvielu sniegtais organisma nodrošinājums ar [[enerģija|enerģiju]] (kad galvenā enerģijas ieguves avota — [[ogļhidrāti|ogļhidrātu]] un [[tauki|tauku]] — rezerves ir beigušās, tad tiek izlietotas olbaltumvielas). No viena [[grams|grama]] olbaltumvielu organisms iegūst 4,1 [[kilokalorija|kcal]].
+# Signālfunkcija. Liela daļa [[hormoni|hormonu]] ir īpašas olbaltumvielas, kurām iedarbojoties uz šūnām, tās maina savu aktivitāti.<ref name="V.Miķelsone"/>
+
+== Biosintēze ==
+
+Olbaltumvielas sintezē [[ribosoma]]s. Aminoskābju secību olbaltumvielā nosaka secība olbaltumvielu kodējošajā gēnā. Kopumā ģenētiskais kods kodē 20 standarta aminoskābes, taču noteiktos organismos ģenētiskais kods var noteikt unikālas aminoskābes, piemēram, [[selenocisteīns|selenocisteīnu]], kā arī [[pirrolizīns|pirrolizīnu]] ([[arheji]]em). Īsi pēc olbaltumvielas sintēzes šūnā (dažreiz arī sintēzes laikā) olbaltumvielām var tikt mainītas gan fiziskās, gan ķīmiskās īpašības, piemēram, stabilitāte, aktivitāte, salocīšanās un funkcija. Dažreiz olbaltumvielām ir pievienotas nepeptīdu grupas, ko sauc par kofaktoriem. Olbaltumvielas var mijiedarboties savā starpā un veidot sarežģītus kompleksus, kas pilda specifiskas funkcijas.
+
+Olbaltumvielām izveidojoties, tas var pastāvēt tikai noteiktu laiku līdz tas tiek noārdītas un pārstrādātas šūnas [[Šūnas organoīdi|organoīdos]]. Olbaltumvielu dzīvildze tiek mērīta ar pussabrukšanas laiku, kas katrai olbaltumvielai ir atšķirīga — tā var pastāvēt no dažām minūtēm līdz pat gadiem.
+
+== Nozīme uzturā ==
+
+Olbaltumvielas ir būtiskākā dzīvo organismu [[šūna|šūnu]] sastāvdaļa (no tām sastāv 45% no [[dzīvnieks|dzīvnieku]] organisma [[sausna]]s). Organismā ir vairāk nekā 200 000 olbaltumvielu. Tās galvenokārt veido 20 dažādas [[α-aminoskābes]], no kurām 8 ir [[neaizstājamās aminoskābes|neaizstājamas]]: [[izoleicīns]], [[leicīns]], [[metionīns]], [[fenilalanīns]], [[treonīns]], [[triptofāns]], [[valīns]], [[lizīns]] (zīdaiņiem — arī [[histidīns]] un [[arginīns]]). Atšķirībā no vairuma mikroorganismu un [[augi|augu]], dzīvnieku (t.sk. cilvēku) organisms pats tās nespēj sintezēt, tādēļ šīs aminoskābes jāuzņem ar [[uzturs|uzturu]].<ref>Voet D., Voet JG. (2004). Biochemistry Vol 1 3rd ed. Wiley: Hoboken, NJ.</ref>
+[[Attēls:Fried egg, sunny side up.jpg|thumb|180px|Ola, kuras baltums tiek uzskatīts par vērtīgāko neaizstājamo aminoskābju avotu]]
+
+Dažāda vecuma cilvēkiem ieteicams [[uzturs|uzturā]] uzņemt dažādu olbaltumvielu daudzumu. Saskaņā ar [[Pasaules veselības organizācija|Pasaules veselības organizāciju]], [[zīdaiņi]]em uz katru ķermeņa kilogramu jāuzņem 2 grami olbaltumvielu, kas, cilvēkam pieaugot, pakāpeniski samazinās un pieaugušiem un veciem cilvēkiem jau sasniedz vairs tikai 0,8 gramus olbaltumvielu uz ķermeņa vienu kilogramu. Cilvēkiem ar lielu fizisko slodzi savukārt jāuzņem nedaudz lielāks olbaltumvielu daudzums — 0,9—1.1 g/ķermeņa kg.<ref name="Uztura mācība">{{Grāmatas atsauce |title= Uztura mācība |author1=Zigurds Zariņš |author2=Lolita Neimane |author3=Edgars Bodnieks |edition=6. pārstrādātais un papildinātais |year=2015 |publisher=[[LU Akadēmiskais apgāds]] |location=[[Rīga]] |pages=14.—17 |isbn=978-9984-45-932-5}}</ref>
+
+Par vērtīgāko neaizstājamo aminoskābju avotu [[dietoloģija]] atzīst [[ola]]s baltumu (no 100 g uzņemtā olas baltuma organisms spēj veidot 100 g ķermeņa olbaltumu); tiem seko [[kartupeļi]], liellopa [[gaļa]], [[zivis]], [[piens|piena]] produkti, [[pākšaugi]] ([[soja]]s olbaltums pēc aminoskābju sastāva ir līdzvērtīgs gaļas olbaltumam), [[kukurūza]] u.c.<ref>Kofranyi, E., et al, "The Minimum Protein Requirement of Humans...", Journal of Physiological Chemistry, 351:1485, 1970.</ref> Kombinējot uzturā dažādus produktus (pākšaugus apvienojot ar [[graudaugi]]em vai kartupeļiem, olas — ar pienu, pienu ar graudaugiem u.tml.), iespējams iegūt vērtīgāku olbaltumu par olu.
+
+Olbaltumvielu trūkuma apstākļos bērniem palēninās garīgā un fiziskā attīstība. Pieaugušajiem olbaltumu trūkuma dēļ rodas [[muskuļi|muskuļu]] vājums, miegainība, samazinās spēja pretoties [[infekcijas|infekcijām]].
+Ja olbaltumvielas tiek uzņemtas pārāk lielā daudzumā, rodas nepatika pret produktiem, kuru sastāvā ir olbaltumvielas. Regulāra pārmērīga olbaltumu uzņemšana veicina [[nieres|nieru]] kamoliņu hiperfiltrāciju, kas ar laiku var radīt [[nefroskleroze|nefrosklerozi]] un [[hipertonija|hipertoniju]] (parasti rodas cilvēkiem, kam ir iedzimta nosliece uz nieru slimībām vai cilvēkiem, kuriem jau ir bojātas nieres).<ref name="Uztura mācība"/>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.neslimo.lv/pme/?name=olbaltumvielas Olbaltumvielas] {{lv ikona}}
+* [http://dienas-deva.blogspot.com/2010/09/olbaltumvielas.html Olbaltumvielas produktos] {{lv ikona}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Olbaltumvielas| ]]
+[[Kategorija:Bioķīmija]]

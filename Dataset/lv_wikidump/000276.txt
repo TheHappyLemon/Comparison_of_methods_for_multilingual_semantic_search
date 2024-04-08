@@ -1,0 +1,115 @@
+{{Valsts infokaste
+|   pilnais_valsts_nosaukums = Nepālas Federālā Demokrātiskā Republika
+|        vietējais_nosaukums = {{val|ne| लोकतान्त्रिक गणतन्त्र नेपाल}}<br />''Loktāntrik Ganatantra Nepāl''
+|           valsts_nosaukums = Nepāla
+|           karoga_nosaukums = Nepālas karogs
+|              karoga_attēls = Flag of Nepal.svg
+|          ģerboņa_nosaukums = Nepālas ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls =Emblem of Nepal.svg
+|                valsts_moto = 
+|               valsts_himna = ''[[Sayaun Thunga Phool Ka|Sayaun Thunga Phulka]]''
+|              kartes_attēls = Nepal_(orthographic_projection).svg
+|             valsts_valodas = [[Nepāliešu valoda]]<ref>According to the [http://www.worldstatesmen.org/Nepal_Interim_Constitution2007.pdf Interim Constitution], Nepali is the country's only official language (article 5, point 2). Other languages spoken as the mother tongue in Nepal are the national languages (article 5, point 1). According to article 5, point 3, all languages are accepted as official languages at the regional level. Today's more than 90% people speak Nepali as a first language.</ref>
+|              galvaspilsēta = [[Katmandu]]
+| latd=27 |latm=42 |latNS=N |longd=85 |longm=19 |longEW=E
+|            lielākā_pilsēta = galvaspilsēta
+|             valsts_iekārta = [[Federācija (valsts)|Federāla]] [[Parlamentārisms|parlamentāra]] [[republika]]
+|       valsts_galvas_tituls = Prezidents
+|               valsts_galva = [[Rāms Candra Paudels]]
+|      valsts_galvas_tituls2 = Premjerministrs
+|              valsts_galva2 = [[Puspa Kamals Dāhāls]]
+|                platība_km2 = 147 181
+|              platība_rangs = 95.
+|             procenti_ūdens = 2,8
+|         iedzīvotāju_skaits = |    iedzīvotāju_skaita_gads = |   iedzīvotāju_skaits_rangs = 
+| population_census = 26 494 504<ref name=pre-cen>{{Tīmekļa atsauce |title=National Population and Housing Census 2011 (National Report) |url=http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |publisher=Central Bureau of Statistics (Nepal) |accessdate=26 November 2012 |archiveurl=https://web.archive.org/web/20130418041642/http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |archivedate={{dat|2013|04|18||bez}} }}</ref>
+| population_census_year = 2011
+|   apdzīvotības_blīvums_km2 = 180
+| apdzīvotības_blīvums_rangs = 62.
+|               IKP_PPP_gads = 2012
+|                    IKP_PPP = {{nowrap|$40 miljardi<ref name=imf2>{{Tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=46&pr.y=13&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=558&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Nepal |publisher=International Monetary Fund |accessdate=20 April 2012}}</ref><!--end nowrap:-->}}
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $1400<ref name=imf2/>
+|   IKP_PPP_per_capita_rangs = 
+| GDP_nominal = {{nowrap|$17,921 miljardi<ref name=imf2/>}}
+| GDP_nominal_rank = 
+| GDP_nominal_year = 2012
+| GDP_nominal_per_capita = $623 624<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 
+|                  Gini_gads = 2003&ndash;2004
+| Gini_change =  <!--increase/decrease/steady-->
+|                       Gini = 47,2 <!--number only-->
+| Gini_ref = 
+|                 Gini_rangs = 
+|                   HDI_gads = 2011 <!--Please use the year to which the HDI data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,458 <!--number only-->
+| HDI_ref = <ref name="UN">{{Tīmekļa atsauce |url=http://hdr.undp.org/en/media/HDR_2011_EN_Tables.pdf |title=Human Development Report 2011. Human development index trends: Table G |publisher=The United Nations |accessdate=5 November 2011}}</ref>
+|                  HDI_rangs = 157.
+| FSI = 9300,6 {{samazinājās}} -19
+| FSI_year = 2007
+| FSI_rank = 1.
+| FSI_category = Alert
+|       neatkarības_iegūšana = Apvienošanās
+|       neatkarības_notikums = Pasludināta karaliste
+|         neatkarības_datums = 1768. gada 21. decembris
+|      neatkarības_notikums2 = Pasludināta valsts
+|        neatkarības_datums2 = 2007. gada 15. janvāris
+|      neatkarības_notikums3 = Pasludināta republika
+|        neatkarības_datums3 = 2008. gada 28. maijs
+|                     valūta = [[Nepālas rūpija]]
+|               valūtas_kods = NPR
+|                 laika_zona = [[Nepal Time|NPT]]
+|                 utc_offset = +5:45
+| DST_note = nav
+| drives_on = left
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 977
+|                     domēns = [[.np]]<br>[[.नेपाल]]
+}}
+'''Nepāla''' ({{val|ne|नेपाल}}), oficiāli '''Nepālas Federālā Demokrātiskā Republika''', ir valsts [[Āzija]]s dienvidu daļā, pasaules jaunākā [[republika]]. Tā robežojas ar [[Indija|Indiju]] dienvidos, austrumos, rietumos un [[Ķīna|Ķīnu]] ziemeļos. Ar 147 181 kvadrātkilometru platību un iedzīvotāju skaitu aptuveni 30 miljoniem, Nepāla ir pasaules 93. lielākā valsts<ref>{{Tīmekļa atsauce | url = https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html | title = The World Factbook : Rank order population | publisher = CIA | language = angliski | access-date = {{dat|2009|11|08||bez}} | archive-date = {{dat|2014|02|09||bez}} | archive-url = https://web.archive.org/web/20140209041128/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html }}</ref> un 41. apdzīvotākā valsts. Nepālas galvaspilsēta un lielākā pilsēta ir [[Katmandu]].
+
+Nepāla ir valsts ar ļoti daudzveidīgu ģeogrāfiju un kultūru. Valsts atrodas [[Himalaji|Himalaju]] dienvidu nogāzē, un šeit atrodas vairākas pasaules augstākās virsotnes, tai skaitā augstākā pasaules virsotne [[Everests]]. Auglīgie un mitrie dienvidi ir samērā [[urbanizācija|urbanizēti]]. Aptuveni puse iedzīvotāju dzīvo zem starptautiski noteiktā nabadzības līmeņa — 1 [[ASV dolārs|ASV dolāra]].<ref>[http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf ''Human Development Indices''], Table 3: Human and income poverty, p. 34. Retrieved on 1 June 2009 {{en ikona}}</ref> Pēc vairākiem novērtējumiem, [[hinduisms|hinduismu]] Nepālā praktizē lielāka iedzīvotāju daļa nekā kādā citā pasaules valstī.<ref>{{Tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/np.html#People |title=CIA Factbook, Nepal, "People" section |publisher=Cia.gov |date= |language=angliski |accessdate=2009-07-29 |archive-date=2010-12-29 |archive-url=https://web.archive.org/web/20101229013308/https://www.cia.gov/library/publications/the-world-factbook/geos/np.html#People }}</ref> Savukārt [[budisms|budisma]] piekritēju ir neliela daļa, lai gan Nepāla tiek uzskatīta par [[Sidhārta Gautama|Sidhārtas Gautamas]] dzimšanas vietu.
+
+== Vēsture ==
+[[Attēls:Lost territories of Nepal after Treaty of Sugauli.jpg|thumb|left|Nepālas (Gorkhas) karaļvalsts robežas (zaļā līnija) pēc Garvalas (tagad [[Utarakhanda]]s) zaudēšanas (Sugaulas līgums, 1815)]] 
+[[1768]]. gadā Gorkhas valdnieks [[Pritvi Narajans Šāhs]] izveidoja spēcīgu karaspēku un iekaroja kaimiņvalstis. 1814.—1816. gadā notika [[Gurku karš]] pret [[Britu Austrumindijas kompānija]]s karaspēku, kurā Nepālai izdevās nosargāt savu neatkarību, taču pēc miera līguma noslēgšanas Gorkhas karalis deva savus karavīrus dienestam britu armijā. [[Britu Indija]]s karaspēkā nepāliešu karavīrus turpināja dēvēt par [[gurkas|gurkām]] ({{val-en|gurkha}}).   
+
+1996. gadā sākās [[Nepālas pilsoņu karš|pilsoņu karš]], kuru izraisīja [[Apvienotā Nepālas komunistu (maoistu) partija|maoistu partija]]. Tas noslēdzās pēc 2006. gada masu protestiem, kurus atbalstīja lielākās partijas, ar miera noslēgšanu, [[satversmes sapulce]]s ievēlēšanu, karaļa [[Gjanendra]]s atkāpšanos un [[Federācija (valsts)|federālas]] [[demokrātija|demokrātiskas]] [[republika]]s nodibināšanu {{dat|2008|5|28}}. Pirmais [[Nepālas prezidents]] [[Rāms Varans Jādavs]] zvērestu nodeva {{dat|2008|7|23||bez}}.
+
+Valsts smagi cieta [[2015. gada Nepālas zemestrīce|2015. gadā notikušajā zemestrīcē]].
+
+== Saimniecība ==
+Nepālas [[saimniecība]] lielā mērā ir atkarīga no ārzemēs dzīvojošo iedzīvotāju [[kapitālieguldījumi]]em un atbalsta, 2014. gadā šie emigrantu naudas pārvedumi veidoja 29,2% no [[IKP]], šis rādītājs bija trešais augstākais no visām valstīm.<ref>{{tīmekļa atsauce|title=Migration and Remittances Factbook 2016|url=http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|publisher=[[Pasaules Banka]]|accessdate={{dat|2016|12|12||bez}}|date=2016|archiveurl=https://web.archive.org/web/20161130164818/http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|archivedate={{dat|2016|11|30||bez}}}}</ref>
+
+<br><gallery class=center caption="Nepāla">
+Kathmandu-Gaddi Baithak-02-2007-gje.jpg|Kathmandu
+Pashupatinath-Arya Ghats-08-2007-gje.jpg|Pashupatinath
+Bhaktapur-Yaksheshvara-242-erotische Schnitzerei-gje.jpg|Bhaktapur
+Changu Narayan-Garuda Narayana-54-sued-2013-gje.jpg|Changu Narayan
+Patan-Palastplatz-04-2007-gje.jpg|Patan
+Gokyo surroundings-10-auf der Moraene-Gletscher-2007-gje.jpg|Himalaya
+Cho La Tsho-12-2007-gje.jpg|Himalaya
+Mustang-Ghami to Lo Gekar-12-Choerten-Lhato-2015-gje.jpg|Mustang
+Mustang-Lo Manthang to Tibetan border-12-2015-gje.jpg|Mustang
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20160328030848/http://www.apcelo.lv/ Informācija par ceļošanu Nepālā] {{latviski}}
+* [https://web.archive.org/web/20101012035450/http://www.goodday.lv/lv/celojumi/nepala.html Nepālas valsts apraksts] {{latviski}}
+* [http://www.beforethey.com/journey/nepal Before They Pass Away: Nepal] {{angliski}}
+
+{{Āzija-aizmetnis}}
+{{Āzija}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nepāla| ]]

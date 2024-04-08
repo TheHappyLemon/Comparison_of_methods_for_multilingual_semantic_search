@@ -1,0 +1,45 @@
+[[Attēls:Blue Linckia Starfish.JPG|thumbnail|200px|[[Koraļļu rifs|Koraļļu rifi]] — zemūdens ekosistēma]]
+'''Ekosistēma''' ({{val-el|οἶκος}} — ‘māja’ + [[sistēma]]) ir [[biosfēra]]s pamatvienība, kuru veido noteikti [[organisms|dzīvie organismi]] ([[biocenoze]]) un nedzīvā apkārtējā [[dabiskā vide|vide]] ([[biotops]]), kurā tie dzīvo.<ref name="uzdevumi">{{tīmekļa atsauce | url= http://www.uzdevumi.lv/p/biologija/10-klase/organismi-un-to-dzives-vide-11313/re-5ee90283-8b78-47f7-a61a-16c9ff7208d9 | title= Ekosistēmas struktūra | publisher= uzdevumi.lv | accessdate= 2017. gada 24. aprīlī | archiveurl= https://web.archive.org/web/20170428043101/http://www.uzdevumi.lv/p/biologija/10-klase/organismi-un-to-dzives-vide-11313/re-5ee90283-8b78-47f7-a61a-16c9ff7208d9 | archivedate= 2017. gada 28. Aprīlis }}</ref> Ekosistēmā pastāvīgi notiek enerģijas, vielu un informācijas aprite, kas nodrošina ekosistēmas funkcionēšanu.
+
+Biocenozē ietilpst ekosistēmā sastopamie [[augi]], [[dzīvnieki]] un [[mikroorganisms|mikroorganismi]]. Ja biocenoze nav veidojusies dabiski, bet to veidojis cilvēks, to sauc par [[Mākslīgā ekosistēma|mākslīgo ekosistēmu]].
+
+Biotopu veido gan abiotiskie (nedzīvā daba), gan biotiskie komponenti (dzīvā daba). Dzīvajiem organismiem ekosistēmā ir noteiktas funkcijas:
+* organisko vielu producēšana — to veic autotrofi organismi jeb [[producenti]];
+* organisko vielu pārveidošana sekundārajā produkcijā, kuru veic [[heterotrofi|heterotrofi organismi]] jeb konsumenti;
+* organisko vielu sadalīšana, veic [[destruktori]] un [[reducenti]].
+
+Ekosistēmas sīkāk dalās [[sauszemes ekosistēma|sauszemes ekosistēmās]] un [[ūdens ekosistēma|ūdens ekosistēmās]].
+
+== Sauszemes ekosistēmas ==
+Sauszemes ekosistēmu izvietojums ir atkarīgs no noteiktiem vides, galvenokārt [[klimats|klimata]] apstākļiem. Vairāku ekosistēmu kopums veido [[bioma]]s, piemēram, [[tundra|tundru]], [[skujkoku meži|skujkoku mežus]], [[stepe|stepes]], [[savanna|savannas]], [[tuksnesis|tuksnešus]].
+
+Latvijā raksturīgākās sauszemes ekosistēmas ir [[mežs|meži]], [[pļava]]s un [[purvs|purvi]].<ref name="Gunta Šustere">{{grāmatas atsauce | author= Gunta Šustere | title= Latvijas ģeogrāfija 9. klasei. Mācību grāmata | year= 2011 | location= Rīga | publisher= Zvaigzne ABC | isbn= 978-9934-0-1754-4 | page= 108}}</ref>
+
+Pasaulē arvien lielākas teritorijas aizņem [[Mākslīgā ekosistēma|mākslīgās ekosistēmas]], tas ir, [[tīrums|tīrumi]], [[pilsēta]]s, [[dārzs|dārzi]], [[Parks|parki]].
+
+== Ūdens ekosistēmas ==
+Ūdens ekosistēmas galvenais faktors ir ūdens sastāvs, tas ir, [[sāļūdens]] vai [[saldūdens]]. Atsevišķi izdala arī [[sājūdens]] (iesāļūdens) ekosistēmas, pie kuras pieder arī [[Baltijas jūra]].<ref name="Melbārde, Rozīte, Zelča">{{grāmatas atsauce | author= Zinaida Melbārde, Maija Rozīte, Līga Zelča | title= Pasaules ģeogrāfija vidusskolai 1. Mācību grāmata | year=2009 | location= Rīga | publisher= Zvaigzne ABC | isbn= 978-9984-40-811-8 | page= 82}}</ref> Svarīgs ir arī ūdenī izšķīdušā [[skābeklis|skābekļa]] daudzums.
+
+Lielākā ūdens ekosistēma ir [[Pasaules okeāns]]. Ar vislielāko [[bioloģiskā daudzveidība|bioloģisko daudzveidību]] ir [[kontinentālais šelfs|šelfa]] daļa. To lielā mērā ietekmē antropogēnais faktors, tas ir, cilvēka darbības ietekme, piemēram, [[nozveja]], [[ūdens piesārņojums]].
+
+Nozīmīgākās saldūdens ekosistēmas ir [[upe]]s un [[ezers|ezeri]]. Liela nozīme ir arī [[mitrājs|mitrājiem]].
+
+== Skatīt arī ==
+* [[Ekoloģija]]
+* [[Ekoloģiskā niša]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{bioloģija-aizmetnis}}
+{{ģeogrāfija-aizmetnis}}
+
+{{Dzīvības organizācijas līmeņi}}
+{{autoritatīvā vadība}}
+{{Visuma struktūru veidi}}
+[[Kategorija:Ekosistēmas| ]]

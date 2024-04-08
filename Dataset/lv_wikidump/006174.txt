@@ -1,0 +1,59 @@
+'''Ķīmiskā formula''' ir koncentrēts veids, kā atainot informāciju par [[atoms|atomiem]], kas veido noteiktu [[ķīmiskais savienojums|ķīmisko savienojumu]]. [[molekulārais savienojums|Molekulāriem savienojumiem]] tas uzrāda katru no savienojumu veidojošiem [[ķīmiskais elements|ķīmiskajiem elementiem]], ko pieraksta ar attiecīgo elementa simbolu. Turklāt ar aiz elementa simbola [[apakšraksts|apakšrakstā]] rakstītu ciparu norāda atomu skaitu katrā šī savienojuma [[molekula|molekulā]]. 19. gadsimta avotos apakšraksta vietā nereti lietoja [[augšraksts|augšrakstu]]. [[jonu savienojums|Jonu savienojumiem]] un citām nemolekulārām vielām apakšraksts apzīmē elementu daļas [[empīrisks|empīriskajā]] formulā.
+
+== Molekulārās un strukturālās formulas ==
+
+'''Molekulārās formulas''' jeb bruto formulas apraksta tikai savienojumā esošo atomu attiecības (moldaļas). 
+Piemēram, [[metāns|metāna]] molekula sastāv no viena [[ogleklis|oglekļa]] atoma, kas saistīts ar četriem [[ūdeņradis|ūdeņraža]] atomiem. Šāda savienojuma ķīmiskā formula izskatās šādi:
+
+: CH<sub>4</sub>
+
+Savukārt [[glikoze]]s molekula sastāv no sešiem oglekļa atomiem, divpadsmit ūdeņraža atomiem un sešiem [[skābeklis|skābekļa]] atomiem. Šī savienojuma ķīmiskā formula izskatās šādi:
+: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
+
+Ķīmiskajā formulā iespējams ietvert arī informāciju par savienojuma saišu tipiem un telpisko izkārtojumu ('''struktūrformula'''). Piemēram, [[etāns]] sastāv no diviem oglekļa atomiem, kam ir vienkārša savstarpējā saite. Katram no šiem atomiem piesaistīti trīs ūdeņraža atomi. Šāda savienojuma ķīmiskā formula ir:
+: CH<sub>3</sub>CH<sub>3</sub>
+
+Ja starp oglekļa atomiem būtu divkāršā saite (un līdz ar to katram oglekļa atomam saite tikai ar diviem ūdeņraža atomiem), ķīmisko formulu varētu rakstīt šādi:
+: CH<sub>2</sub>CH<sub>2</sub> ([[etilēns]])
+
+Tomēr izsmeļošāk un precīzāk ir rakstīt šādu formulu:
+: H<sub>2</sub>C:CH<sub>2</sub> vai H<sub>2</sub>C=CH<sub>2</sub>
+Kols vai divkāršā līnija apzīmē to, ka atomus saista divkāršā saite.
+
+Trīskāršo saiti var apzīmēt ar trīskāršu līniju vai trim punktiem.
+
+Molekulas ar vairākām vienādām funkcionālajām grupām var atainot šādi:
+: (CH<sub>3</sub>)<sub>3</sub>CH ([[butāns|izobutāns]])
+
+== Polimēri ==
+
+[[polimērs|Polimēriem]] to daļu, kas atkārtojas, liek iekavās. Piemēram, [[ogļūdeņradis|ogļūdeņraža]] molekula ar šādu formulu:
+: CH<sub>3</sub>(CH<sub>2</sub>)<sub>50</sub>CH<sub>3</sub>
+ir molekula ar 50 atkārtotām vienībām. Ja atkārtoto vienību skaits nav zināms vai ir mainīgs, to norāda ar burtu „n”, kā piemēram šeit:
+: CH<sub>3</sub>(CH<sub>2</sub>)<sub>''n''</sub>CH<sub>3</sub>
+
+== Joni ==
+
+[[jons|Joniem]] noteikta atoma lādiņš tiek atainots superskriptā labajā pusē no elementa simbola. Piemēram: Na<sup>+</sup>, vai Cu<sup>2+</sup>. Kopējais lādētas molekulas jeb daudzatomu jona lādiņš arī var tikt atainots šādi, piemēram, [[hidroksonijs]]:
+: H<sub>3</sub>O<sup>+</sup>
+
+== Izotopi ==
+[[Izotops]] var tikt atainots ar skaitli superskriptā kreisajā pusē no elementa simbola. Piemēram, fosfāta jons, kas satur radioaktīvo fosforu-32, ir:
+<sup>32</sup>PO<sub>4</sub><sup>3-</sup>.
+
+== Empīriskā formula ==
+
+Ķīmijā ķīmiskā savienojuma empīriskā formula ir vienkāršs to veidojošo atomu relatīvā skaita attiecību ([[stehiometrija]]s) atainojums. Empīriskās formulas lieto jonu savienojumiem, piemēram CaCl<sub>2</sub>, makromolekulām - SiO<sub>2</sub>. Empīriskā formula neataino [[izomēri]]smu, struktūru, atomu absolūto skaitu (piemēram, [[fosfora pentoksīds|P<sub>4</sub>O<sub>10</sub>]]). Termins „empīrisks” šeit attiecas uz elementu satura analīzi, kuras rezultātā būtībā tiek noteikts relatīvais katra elementa procentuālais saturs ķīmiskajā savienojumā.
+
+Piemēram, [[heksāns|heksāna]] ķīmisko formulu var pierakstīt šādi:
+: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>
+
+tādējādi norādot, ka šim savienojumam ir lineāra ķēdes struktūra, 6 oglekļa atomi, 14 ūdeņraža atomi. Vienkāršākajā veidā, neatainojot ķēdes struktūru, šo formulu var rakstīt kā C<sub>6</sub>H<sub>14</sub>. Šī paša savienojuma empīriskā formula būs C<sub>3</sub>H<sub>7</sub>, kas norāda tikai to, ka heksāna molekulā oglekļa un ūdeņraža atomu skaita attiecība ir 3:7.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmija]]

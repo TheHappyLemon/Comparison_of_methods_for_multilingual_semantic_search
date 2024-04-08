@@ -1,0 +1,64 @@
+{{Lidmašīnas informācija
+  |nosaukums = I-14
+  |tips = treniņlidaparāts
+  |ražotājs = [[VEF]]
+  |attēls = 
+  |paraksts = 
+  |konstruktors = [[Kārlis Irbītis]]
+  |pirmais lidojums = 1937. gada 19.novembrī
+  |nodošana = 
+  |pēdējais lidojums = 1938. gada 23. aprīlī
+  |stāvoklis = 
+  |lietotājs =
+  |pārējie lietotāji = 
+  |izgatavots = 
+  |kopskaits = 1
+  |programmas izmaksa = 
+  |cena =
+  |bāzes modelis =
+  |varianti =
+}}
+'''VEF I-14''' bija 1937. gadā [[VEF]] rūpnīcā uzbūvēta [[lidmašīna]]. Lidmašīnas autors ir [[Kārlis Irbītis]].
+
+Lidmašīnas pirmais lidojums notika {{dat|1937|11|19}}. Irbīša konstruētā lidmašīna I-14 izmēģinājuma lidojumos {{dat|1938|4|23}}, pilota Bandenieka vainas dēļ lidmašīna cieta avārijā, kā rezultātā lidaparāts guva nelielus bojājumus. Neskaidru iemeslu dēļ šis projekts netika vairs turpināts un lidaparātu pilnībā izjauca. Par vienu iemeslu šim lēmumam min Irbīša iecerēto uzlaboto konstrukciju.<ref>[http://www.bruninieki.narod.ru/vefi14.html Baltijas aviācijas vēsture]</ref>
+
+== Tehniski parametri ==
+{| class="wikitable" style="margin:"
+| Modelis
+| I-14
+|- 
+| Spārna izmērs
+| 8.0 metri
+|-
+| Garums,
+| 7.3 metri
+|-
+| Augstums
+| 2 metri
+|-
+| Dzinēja tips
+| 1x ''Menasko B6S Pirat''; sešcilindru ar gaisa dzeses sistēmu
+|-
+| Dzinēja jauda
+| 200 Zs
+|-
+| Nolidošanas attālums
+| 800 kilometri
+|-
+| Maksimālais lidojuma augstums
+| 4000 metri
+|-
+| Ekipāža
+| 1 cilvēks
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://latvianaviation.com/VEF_I-14.html latvianaviation.com] {{Webarchive|url=https://web.archive.org/web/20181024044425/http://latvianaviation.com/VEF_I-14.html |date={{dat|2018|10|24||bez}} }} {{en ikona}}
+* [http://www.bruninieki.narod.ru/vefi14.html Piektā Okeāna Bruņinieki]
+
+{{Latvijas lidmašīnas}}
+
+[[Kategorija:VEF izgatavotās lidmašīnas]]

@@ -1,0 +1,127 @@
+{{Bobslejista infokaste
+ |           vārds = Andrē Lange
+ |      vārds_orig = ''André Lange''
+ |          attēls = 2010 Olympic Winter Games Opening Ceremony - Germany entering cropped.jpg
+ |         att_izm = 
+ |        paraksts = A. Lange - karognesējs Vankūveras Olimpisko spēļu atklāšanā
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1973|6|28}}
+ |         dz_viet = {{flaga|VDR}} [[Ilmenava]], [[Vācijas Demokrātiskā Republika|VDR]]
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{DEU}}
+ |          taut_2 = 
+ |          karsak = 1993
+ |          karbei = 2010
+ |         karbeig = 
+ |            loma = Pilots
+ |          garums = 188 [[centimetrs|cm]]
+ |           svars = 100 [[kilograms|kg]]
+ |       izglītība = 
+ |            stum = [[Renē Hope]]<br />[[Enriko Kīns]]<br />[[Kevins Kuske]]<br />[[Martins Puce]]
+ |             pil = 
+ |        treneris = 
+<!------ Pasaules kausa informācija ------>
+ |       pk_debija = 1999
+ |       pk_beigas = 2010
+ |          pk_sez = 
+ |      pk_uzvaras = 36
+ |   pk_pjedestāli = 
+ |       pk_tituli = Divnieki: 1 (2007/08)<br />Četrinieki: 4 (2000/01, 2002/03,
+2003/04, 2007/08)
+ |     pk_lab sasn = 
+<!------ OS informācija ------>
+ |       os_dalība = 3 ([[2002. gada ziemas olimpiskās spēles|2002]], [[2006. gada ziemas olimpiskās spēles|2006]], [[2010. gada ziemas olimpiskās spēles|2010]])
+ |      os_medaļas = 4 zelti, 1 sudrabs
+ |     os_lab sasn = 
+<!------ PČ informācija ------>
+ |       pč_dalība = 
+ |      pč_medaļas = 8 zelti, 4 sudrabi, 2 bronzas
+ |     pč_lab sasn = 
+<!------ Papildinformācija ------>
+ |            balv = 
+ |           slavz = 
+ |         dzimums = 
+ |       atjaunots = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+{{MedalSport|Vīriešu [[bobslejs]]}}
+{{MedalCountry|{{flag|Vācija}}}}
+{{MedalCompetition|ZOS}}
+{{MedalGold|[[2002. gada ziemas olimpiskās spēles|Soltleiksitija 2002]]|četrinieks}}
+{{MedalGold|[[2006. gada ziemas olimpiskās spēles|Turīna 2006]]|divnieks}}
+{{MedalGold|[[2006. gada ziemas olimpiskās spēles|Turīna 2006]]|četrinieks}}
+{{MedalGold|[[2010. gada ziemas olimpiskās spēles|Vankūvera 2010]]|[[Bobslejs 2010. gada ziemas olimpiskajās spēlēs|divnieks]]}}
+{{MedalSilver|[[2010. gada ziemas olimpiskās spēles|Vankūvera 2010]]|[[Bobslejs 2010. gada ziemas olimpiskajās spēlēs|četrinieks]]}}
+}}
+'''Andrē Lange''' ({{val|de|André Lange}}; dzimis {{dat|1973|06|28}} [[Ilmenava|Ilmenavā]], [[Vācijas Demokrātiskā Republika|VDR]]) ir bijušais [[vācieši|vācu]] [[bobslejs|bobslejists]]-pilots, kurš piedalījies [[2002. gada ziemas olimpiskās spēles|2002]]., [[2006. gada ziemas olimpiskās spēles|2006]]. un [[2010. gada ziemas olimpiskās spēles|2010]]. gada [[ziemas olimpiskās spēles|Olimpiskajās spēlēs]], kopā izcīnot četras zelta un vienu sudraba medaļas. Visos olimpiskajos panākumos viņa stūmējs ir bijis [[Kevins Kuske]].
+
+Bobslejista karjeru uzsācis [[1993]]. gadā un beidzis pēc [[2010. gada ziemas olimpiskās spēles|2010. gada Vankūveras Olimpiskajām spēlēm]], kurās viņam tika uzticēts [[Vācija]]s delegācijas karognesēja pienākums olimpiādes atklāšanas ceremonijā. A. Lange savas karjeras laikā kaut reizi ir uzvarējis visās Olimpisko spēļu, Pasaules čempionātu un Pasaules kausa izcīņas disciplīnās. Visbiežāk, piecas reizes, viņš ir kļuvis par Pasaules čempionu četrinieku ieskaitē.
+
+== Labākie rezultāti ==
+:''Saīsinājumi: OS — Olimpiskās spēles, PČ — Pasaules čempionāts, PK — Pasaules kauss, V. — Vieta.''
+{| class="wikitable" style="text-align:center; font-size:100%"
+! Ieskaite
+! Disciplīna
+! V.
+! Gads
+|-
+! rowspan="2" | OS
+| Divnieki
+| '''1.'''
+| 2006<br />2010
+|-
+| Četrinieki
+| '''1.'''
+| 2002<br />2006
+|-
+! rowspan="2" | PČ
+| Divnieki
+| '''1.'''
+| 2003<br />2007<br />2008
+|-
+| Četrinieki
+| '''1.'''
+| 2000<br />2003<br />2004<br />2005<br />2008
+|-
+! rowspan="3" | PK
+| Divnieki
+| '''1.'''
+| 2008
+|-
+| Četrinieki
+| '''1.'''
+| 2001<br />2003<br />2004<br />2008
+|-
+| Apvienotā iesk.
+| '''1.'''
+| 2001<br />2003<br />2004<br />2008
+|-
+|}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{Olimpisko spēļu laureāts-aizmetnis}}
+{{Ziemas sports-aizmetnis}}
+{{Vācijas sportists-aizmetnis}}
+
+{{Olimpiskie čempioni bobslejā — vīriešu divnieki}}
+
+{{DEFAULTSORT:Lange, Andre}}
+[[Kategorija:1973. gadā dzimušie]]
+[[Kategorija:Vācijas bobslejisti]]
+[[Kategorija:Bobslejisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Bobslejisti 2006. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Bobslejisti 2010. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Olimpiskās zelta medaļas ieguvēji]]
+[[Kategorija:Olimpiskās sudraba medaļas ieguvēji]]
+[[Kategorija:Tīringenē dzimušie]]
+[[Kategorija:Olimpiskie zelta medaļnieki bobslejā]]
+[[Kategorija:Olimpiskie sudraba medaļnieki bobslejā]]
+[[Kategorija:2002. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2006. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2010. gada ziemas olimpisko spēļu medaļnieki]]

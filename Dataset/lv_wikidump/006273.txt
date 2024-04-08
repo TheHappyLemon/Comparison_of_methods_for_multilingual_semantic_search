@@ -1,0 +1,7 @@
+'''Ciparsignālu procesors''' ([[angļu valoda|angļu]]: ''digital signal processor'') ir [[specializācija|specializēts]] [[mikroprocesors]], kas izstrādāts ciparsignālu apstrādei reālā laikā. Šos plaši lieto arī analogo (digitalizētu) signālu apstrādei datu pārraides sistēmās. Ciparsignālu procesoriem parasti lieto vienkāršākas un īsākas programmas nekā vispārējas nozīmes procesoriem. Šiem procesoriem bieži vien lieto ļoti ātru atmiņu (kas šī iemesla dēļ ir dārga (un tāpēc mazietilpīga)).
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mikroprocesori]]

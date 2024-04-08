@@ -1,0 +1,43 @@
+{{cita nozīme|specifisku mūzikas žanru|populāro mūziku vispārīgi|populārā mūzika}}
+{{Mūzikas žanra infokaste
+ |nosaukums         = Popmūzika
+ |attēls            = Michaeljacksonphoto drewcohen 2.JPG
+ |att_izmērs        = 235px
+ |att_nosaukums     = [[Maikls Džeksons]] — “popmūzikas karalis”
+ |fona_krāsa        = #87CEEB
+ |krāsa             = black
+ |stila_izcelsme    = {{hlist|[[rokenrols]]}}
+ |kultūras_izcelsme = 1950. gadu vidus [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] un [[Apvienotā Karaliste|Apvienotajā Karalistē]]
+ |instrumenti       = 
+ |popularitāte      = 
+ |atvasinātās_formas = {{hlist|[[disko]]}}
+ |apakšžanru_saraksts = 
+ |apakšžanri          = {{hlist|[[ārtpops]]|''[[Brill Building]]''|''[[bubblegum pop]]''|[[deju popmūzika]]|[[eksperimentālā popmūzika]]|''[[hypnagogic pop]]''|[[operpops]]|[[progresīvā popmūzika]]|''[[sophisti-pop]]''|''[[space age pop]]''|''[[sunshine pop]]''|[[sintpops]]|''[[teen pop]]''}}
+ |jauktie_žanri       = {{hlist|[[bītmūzika]]|[[kantrīpops]]|[[elektroniskā popmūzika]]|[[indīpops]]|''[[jangle pop]]''|[[kamerpops]]|[[laicīgā kristīgā mūzika]]|[[latīņu popmūzika]]|''[[noise pop]]''|[[poppanks]]|[[popreps]]|[[poproks]]|''[[power pop]]''|''[[psychedelic pop]]''|[[mūsdienu ritmblūzs|ritmblūzs]]|''[[reggae fusion]]''|''[[smooth jazz]]''|''[[smooth soul]]''}}
+ |reģionos         =
+ |vietējā_estrāde   =
+ |citas_tēmas       =
+}}
+
+'''Popmūzika''' jeb vienkārši '''pops''' ir [[populārā mūzika|populārās mūzikas]] žanrs, kas parasti tiek attiecināts uz komerciāli ierakstītu mūziku un tā pārsvarā ir orientēta uz [[jaunība|jaunatnes]] auditoriju. Popmūzika ir arī [[estrādes mūzika]]s žanrs, kam raksturīgas relatīvi īsas, vienkāršas uzbūves un ritmiskas dziesmas,<ref>{{tīmekļa atsauce | url= https://tezaurs.lv/#/sv/popm%C5%ABzika | title= Popmūzika | publisher= tezaurs.lv | accessdate= 2020. gada 11. jūlijā | archiveurl= https://web.archive.org/web/20200315142631/https://tezaurs.lv/#/sv/popm%C5%ABzika | archivedate= {{dat|2020|03|15||bez}} }}</ref> bieži vien par [[mīlestība|mīlestību]], un tajās tiek izmantoti tehnoloģiskie [[jaunievedums|jaunievedumi]], lai veidotu jaunas muzikālās variācijas esošajām tēmām. Popmūzika ietekmējas no daudziem citiem [[populārā mūzika|populārās mūzikas]] novirzieniem, bet kā žanrs īpaši saistīta ar [[rokenrols|rokenrolu]] un vēlāk arī ar [[rokmūzika|rokmūziku]].
+
+Popmūzika parasti tiek definēta kā [[mūzikas žanrs|mūzikas stils]], kas ir vērsts uz [[singlu tops|singlu topiem]], tomēr kā žanrs tā nav visu topā esošo dziesmu kopuma atspoguļojums un tiek uzskatīts, ka tā attīstās kā atsevišķs mūzikas žanrs. Popmūzika izveidojusies 1950. gados [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] un [[Apvienotā Karaliste|Apvienotajā Karalistē]].
+
+== Vēsture ==
+Termins ‘popdziesma’ pirmoreiz parādījās 1926. gadā, apzīmējot kādas dziesmas popularitāti sabiedrībā. Daudzi notikumi 1920. gadu mūzikas nozarē var tikt uzskatīti kā mūsdienu populārās mūzikas dzimšana, ieskaitot [[kantrimūzika|kantrimūziku]] un [[blūzs|blūzu]].<ref name="Hatch, Millward">{{grāmatas atsauce | author= D. Hatch and S. Millward | title= From Blues to Rock: an Analytical History of Pop Music | year= 1987 | url= https://archive.org/details/frombluestorocka0000hatc | isbn= 0-7190-1489-1 | page= [https://archive.org/details/frombluestorocka0000hatc/page/49 49]}}</ref> Popmūzika kā mūzikas žanrs izveidojās 1950. gados [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] un [[Apvienotā Karaliste|Apvienotajā Karalistē]]. Tās izcelsme ir saistīta ar [[rokenrols|rokenrolu]], vēlāk arī ar [[rokmūzika|rokmūziku]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline|popmūzika}}
+* {{Nacionālā enciklopēdija|id=3593|autors=Klāss Vāvere}}
+* {{tīmekļa atsauce | url= https://bigenc.ru/music/text/3158646 | title= Поп-музыка | publisher= Большая российская энциклопедия | language= ru | access-date= {{dat|2020|07|10||bez}} | archive-date= {{dat|2018|04|05||bez}} | archive-url= https://web.archive.org/web/20180405153042/https://bigenc.ru/music/text/3158646 }}
+
+
+{{mūzikas žanrs-aizmetnis}}
+
+{{Mūzikas žanri}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Popmūzika| ]]

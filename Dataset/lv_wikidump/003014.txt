@@ -1,0 +1,76 @@
+{{Valodas infokaste
+ |name          = Somu valoda
+ |nativename    = ''suomen kieli''
+ |pronunciation = [ˈsu͡o.mi]
+ |states        = {{flaga|Somija}} [[Somija|Somijā]]<br>{{flaga|Zviedrija}} [[Zviedrija|Zviedrijā]]<br>{{flaga|Igaunija}} [[Igaunija|Igaunijā]]<br>{{flaga|Norvēģija}} [[Norvēģija|Norvēģijā]] ([[Finnmarka|Finnmarkā]])<br>{{flaga|Krievija}} [[Krievija|Krievijā]] ([[Karēlijas Republika|Karēlijā]])
+ |region        = [[Ziemeļeiropa]]
+ |speakers      = ~5,23 miljoni<ref name="Ethnologue"/>
+ |script        = [[Latīņu alfabēts]] (somu ortogrāfija)
+ |familycolor   = Urāliešu
+ |fam1          = [[Urāliešu valodas|Urāliešu]]
+ |fam2          = [[Somugru valodas|Somugru]]
+ |fam3          = [[Somu-permiešu valodas|Somu-permiešu]]
+ |fam4          = [[Somu-sāmu valodas|Somu-sāmu]]
+ |fam5          = [[Baltijas somu valodas|Baltijas somu]]
+ |nation        = {{FIN}}<br>{{EUR}}
+----
+'''Minoritātes valoda:'''<br>
+{{SWE}} <small>(somu un [[menkieli valoda|menkieli]])</small><br>
+{{NOR}} <small>([[kvenu valoda]])</small>
+ |agency        = Somijas valodu izpētes institūta Valodas plānošanas nodaļa
+ |iso1          = fi
+ |iso2          = fin
+ |iso3          = fin
+ |map           = [[Attēls:Suomen_kieli_päivitys.png|230px|center]]
+<div style="text-align: center;"><small>
+Tumši zilā krāsā — valodai ir oficiālas valodas statuss<br>
+Zaļā krāsā — lieto ievērojama iedzīvotāju daļa
+</small></div>
+}}
+
+'''Somu valoda''' (''suomen kieli'') ir [[Urāliešu valodas|Urāliešu valodu saimes]] [[somugri|somugru]] atzara valoda. Tā ir [[Baltijas jūra]]s valodu grupas valoda, viena no divām [[Somija]]s valsts valodām (līdzās [[zviedru valoda]]i). Tā ir arī viena no [[Eiropas Savienība]]s oficiālajām valodām. Rakstības pamatā [[latīņu alfabēts]]. Somu valodu prot aptuveni 5,23 miljoni cilvēku.<ref name="Ethnologue"/> [[Zviedrija|Zviedrijā]], kur to ikdienā lieto aptuveni 200 tūkstoši cilvēku,<ref name="Ethnologue"/> somu valoda ir atzīta par [[minoritātes valoda|minoritātes valodu]]. Nelielas somvalodīgo kopienas dzīvo [[Norvēģija]]s ziemeļos [[Finnmarka|Finnmarkā]], [[Krievija]]s federālajā subjektā [[Karēlijas Republika|Karēlijas Republikā]] un [[Igaunija|Igaunijā]].
+
+Pirmais zināmais teksts, kas publicēts somu valodā, ir garīdznieka, [[Jaunā derība|Jaunās derības]] tulkotāja somiski [[Mikaels Agrikola|Mikaela Agrikolas]] 1543. gadā tulkotā un publicētā ābece "[[Abckiria]]".
+
+== Dialekti ==
+[[Attēls:Finnish dialects and forms of speech.png|thumb|300x300px|Somu valodas [[Dialekts|dialektu]] karte|left]]
+Somu valodas [[Dialekts|dialekti]] ir sadalīti divās grupās — rietumu un austrumu.<ref>{{Tīmekļa atsauce|url=http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/|title=Wayback Machine|website=web.archive.org|access-date=2023-04-29|date=2007-09-27|archive-date=2007-09-27|archive-url=https://web.archive.org/web/20070927010503/http://www.internetix.ofw.fi/opinnot/opintojaksot/8kieletkirjallisuus/aidinkieli/murteet/}}</ref> Ārpus Somijas runāto dialektu klasifikācija ir politiski jutīgs jautājums, kas ir bijis strīdīgs kopš Somijas neatkarības iegūšanas 1917. gadā. Tas īpaši attiecas uz [[Karēļu valoda|karēļu valodu]] [[Krievija|Krievijā]] un ''[[meänkieli]]'' [[Zviedrija|Zviedrijā]], kuru runātājus bieži uzskata par apspiestām [[Minoritāte|minoritātēm]]. Karēliešu valoda ir pietiekami atšķirīga no standarta somu valodas, lai tai būtu sava [[ortogrāfija]]. ''Meänkieli'' ir ziemeļu dialekts, kas gandrīz pilnībā saprotams jebkura cita somu dialekta runātājiem, kas Zviedrijā ieguva oficiālās minoritātes valodas statusu vēsturisku un politisku iemeslu dēļ, lai gan arī somu valoda ir oficiālā mazākumtautību valoda Zviedrijā. 1980. gados meänkieli valodā tika pārtulkoti daudzi [[Teksts|teksti]], [[grāmata]]s un [[Bībele]], un tā turpina attīstīties jau kā atsevišķa valoda.<ref>{{Tīmekļa atsauce|url=https://yle.fi/a/3-8625252|title=Raamattu käännetään meänkielelle – "Silloin kieli on enemmän olemassa"|website=Yle Uutiset|access-date=2023-04-29|date=2016-01-26|language=fi}}</ref>
+
+== Somu alfabēts ==
+Somu [[alfabēts|alfabētā]] ir 29 burti.
+{| class="wikitable"
+|+Somu alfabēts
+| [[A]] || [[B]] || [[C]] || [[D]] || [[E]] || [[F]] || [[G]] || [[H]] || [[I]] || [[J]]
+|-
+| [[K]] || [[L]] || [[M]] || [[N]] || [[O]] || [[P]] || [[Q]] || [[R]] || [[S]] || [[T]]
+|-
+| [[U]] || [[V]] || [[W]] || [[X]] || [[Y]] || [[Z]] || [[Å]] || [[Ä]] || [[Ö]] ||
+|}
+
+Burti [[B]], [[C]], [[G]], [[F]], [[Q]], [[W]], [[X]], [[Z]] un [[Å]] ir sastopami tikai [[personvārds|personvārdos]] un vārdos, kuru cilme ir meklējama citās valodās.<ref name="omniglot"/>
+
+== Skatīt arī ==
+{{InterWiki|code=fi}}
+* [[Baltijas somi]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Ethnologue">{{tīmekļa atsauce | url= http://www.ethnologue.com/15/show_language.asp?code=fin | title= Finnish language | publisher= Ethnologue | accessdate= 2011-08-10 | language= angliski }}{{Novecojusi saite}}</ref>
+<ref name="omniglot">{{tīmekļa atsauce | url= http://www.omniglot.com/writing/finnish.htm | title= Finnish language, alphabet and pronunciation | publisher= www.omniglot.com | accessdate= 2012-03-06 | language= angliski | archiveurl= https://web.archive.org/web/20150926141539/http://www.omniglot.com/writing/finnish.htm | archivedate= 2015-09-26 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{valoda-aizmetnis}}
+{{Somija-aizmetnis}}
+
+{{Urāliešu valodas}}
+{{ES oficiālās valodas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Somugru valodas]]
+[[Kategorija:Somijas valodas]]
+[[Kategorija:Zviedrijas valodas]]

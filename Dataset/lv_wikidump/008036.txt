@@ -1,0 +1,31 @@
+{{navbox
+| name   = Igaunijas administratīvais iedalījums
+| title  = [[Igaunijas administratīvais iedalījums]] {{flaga|Igaunija}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+| group1 = [[Igaunijas apriņķi]]
+| list1  = 
+* [[Austrumviru apriņķis]]
+* [[Harju apriņķis]]
+* [[Hījumā apriņķis]]
+* [[Jegevas apriņķis]]
+* [[Jervas apriņķis]]
+* [[Lēnes apriņķis]]
+* [[Pelvas apriņķis]]
+* [[Pērnavas apriņķis]]
+* [[Raplas apriņķis]]
+* [[Rietumviru apriņķis]]
+* [[Sāremā apriņķis]]
+* [[Tartu apriņķis]]
+* [[Valgas apriņķis]]
+* [[Veru apriņķis]]
+* [[Viljandi apriņķis]]
+
+| group2 = Otrā līmeņa iedalījums
+| list2  = Skatīt [[Igaunijas pilsētu uzskaitījums|Igaunijas pilsētu uzskaitījumu]] un [[Igaunijas pagasti]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Igaunijas navigācijas veidnes]]
+</noinclude>

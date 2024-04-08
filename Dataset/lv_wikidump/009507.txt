@@ -1,0 +1,76 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jumurdas pagasts
+| karte             = Jumurdas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Jumurdas pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Jumurdas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Madonas novads
+| centrs            = Jumurda
+| platība           = 131,1
+| iedzīvotāji       = 288<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 288 / 131.1 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Jumurdas pagasts''' ir viena no [[Madonas novads|Madonas novada]] administratīvajām teritorijām tā rietumos. Robežojas ar sava novada [[Ērgļu pagasts|Ērgļu]], [[Liezēres pagasts|Liezēres]] un [[Vestienas pagasts|Vestienas]] pagastiem un [[Cēsu novads|Cēsu novada]] [[Kaives pagasts|Kaives]] un [[Inešu pagasts|Inešu]] pagastiem. 
+
+== Daba ==
+Pagasts izvietojies [[Vidzemes augstiene]]s dienvidu daļā [[Vestienas pauguraine|Vestienas paugurainē]] un [[Augšogres pazeminājums|Augšogres pazeminājumā]]. Pagastā atrodas vieni no [[Vidzeme]]s augstākajiem pauguriem: [[Bākūzis]] (272 m), Egļu kalns (267 m), Laktas kalns (250 m).<ref>{{Latvijas daba}}</ref>
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Ogre (upe)|Ogre]], [[Valola]], [[Sārtupīte]], [[Ilzīte]], [[Virdzīte]], [[Lubeja]], [[Ļaudonīte]]
+
+==== Ezeri ====
+[[Jumurdas ezers]] (177 ha), [[Pakšēnu ezers]] (41,6 ha), [[Sietnieku ezers]] (uz robežas ar [[Vestienas pagasts|Vestienas pagastu]], 26,5 ha), [[Vidus ezers]] (18 ha), [[Lācīšu ezers]] (13,9 ha), [[Karietes ezers]] (4,5 ha), [[Preisītis]] (4,5 ha), [[Ilzes ezers (Jumurdas pagasts)|Ilzes ezers]] (3,7 ha), [[Vienūzis]] (3,6 ha), [[Linezers (Jumurda)|Linezers]] (2,6 ha), [[Dinišķu ezers]] (1,9 ha)
+
+== Vēsture ==
+[[Attēls:Jumurdas muiža 1866.jpg|thumb|250px|Jumurdas muiža (V.Z.Štafenhāgena gravīra, 1866).]]
+
+Jumurdas pagasts piederēja pie [[Ērgļi (Ērgļu pagasts)|Ērgļu]] [[Draudzes novads|draudzes novada]]. Līdz 1920. gada agrārajai reformai tajā atradās [[Jumurdas muiža]], ko sadalīja 70 vienībās (no tām 13 bija rentes mājas) 1145,9 ha platībā. Jāņa muižu sadalīja 3 vienības 54,6 ha platībā.<ref>{{LKV|VIII.|14 577-14578}}</ref>
+ 
+1935. gadā Jumurdas pagasta platība bija 87 km² un tajā bija 792 iedzīvotāji.<ref>V.Salnais, A. Maldups. Pagastu apraksti (Pēc 1935. gada tautas skaitīšanas materiāliem). Valsts statistikas pārvalde. Rīga: 1935.</ref> 1936. gadā pagastam pievienoja likvidēto [[Cirstu pagasts|Cirstu pagastu]]. 1945. gadā pagastā izveidoja Jumurdas un [[Cirstu ciems|Cirstu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Jumurdas ciemam pievienoja Cirstu ciemu, bet 1962. gadā ciemu pievienoja [[Ērgļi (Ērgļu pagasts)|Ērgļu]] pilsētciemata lauku teritorijai. 1973. gadā Jumurdas ciemu izveidoja no jauna. 1990. gadā ciemu reorganizēja par pagastu. 2006. gadā Jumurdas pagasts apvienojās ar [[Ērgļu pagasts|Ērgļu]] un [[Sausnējas pagasts|Sausnējas]] pagastiem, izveidojot [[Ērgļu novads|Ērgļu novadu]]. 2021. gadā tika pievienots jaunizveidotajam [[Madonas novads|Madonas novadam]].
+
+=== Pieminekļi ===
+* Akmens verstu stabs<ref>[https://is.mantojums.lv/6127 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]</ref>
+* Tjaku - Viesaku senkapi (Velna klēpji)
+* Vējavas pilskalns
+* Cirstu skanste (Valvītes) - viduslaiku nocietinājums
+* Sīļu Badakmens - kulta vieta
+* Dreimaņu senkapi (Krievu kapi)
+* Aizbetņu senkapi (Kapu kalniņš, Mājas kalns)
+* Aizbetņu apmetne
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Jumurda]] (pagasta centrs) un [[Vējava (Jumurdas pagasts)|Vējava]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Madonas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Ērgļu novads}}
+{{Madonas rajons}}
+{{Cēsu apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Madonas novada pagasti]]
+[[Kategorija:Jumurdas pagasts| ]]

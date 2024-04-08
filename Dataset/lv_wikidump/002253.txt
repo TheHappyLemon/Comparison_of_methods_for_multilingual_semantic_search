@@ -1,0 +1,35 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Glyceraldehyde v2.svg|150px]] <br />Glicerīnaldehīda struktūrformula
+|ķīmiskā formula=C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>
+|molmasa=90,08
+|blīvums=1455
+|kušanas temperatūra=145&nbsp;°C
+|viršanas temperatūra=140 - 150&nbsp;°C pie 0,8 mmHg
+}}
+'''Glicerīnaldehīds''' (2,3-dihidroksipropanāls, HOCH<sub>2</sub>-CHOH-CHO) ir aldehīdspirts, [[ogļhidrāti|ogļhidrāts]], kas satur 3 oglekļa atomus (trioze). Tā ir vienkāršākā aldoze. Tas ir salda, kristāliska viela, kas ir ogļhidrātu vielmaiņas starpprodukts. Glicerīnaldehīdam ir iespējami 2 [[optiskie izomēri]], un tas ir viena no vienkāršākajām vielām ar optiskajiem izomēriem. Glicerīnaldehīdu var iegūt, oksidējot [[glicerīns|glicerīnu]].
+
+== Optiskie izomēri ==
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|-
+|align="center"| '''Optiskā izomēra nosaukums'''
+|align="center"| '''D-glicerīnaldehīds'''<br />(R)-glicerīnaldehīds<br />(+)-glicerīnaldehīds
+|align="center"| '''L-glicerīnaldehīds'''<br />(S)-glicerīnaldehīds<br />(−)-glicerīnaldehīds
+|-
+|align="center"| '''[[Fišera formula]]'''
+|align="center"| [[Attēls:D-Glyceraldehyde 2D Fischer.svg|80px]]
+|align="center"| [[Attēls:L-Glyceraldehyde 2D Fischer.svg|100px]]
+|-
+|align="center"| '''[[Struktūrformula]]'''
+|align="center"| [[Attēls:D-glyceraldehyde-2D-skeletal.svg|150px]]
+|align="center"| [[Attēls:L-glyceraldehyde-2D-skeletal.svg|150px]]
+|-
+|align="center"| '''Molekulas modelis'''
+|align="center"| [[Attēls:D-glyceraldehyde-3D-balls.png|150px]]
+|align="center"| [[Attēls:L-glyceraldehyde-3D-balls.png|150px]]
+|}
+
+{{Aldehīdi}}
+
+[[Kategorija:Ogļhidrāti]]
+[[Kategorija:Aldehīdi]]
+[[Kategorija:Spirti]]

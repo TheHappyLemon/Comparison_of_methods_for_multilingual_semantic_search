@@ -1,0 +1,63 @@
+{{cita nozīme|spēli|sporta terminu|hat-trick}}
+'''Hattrick''' ir [[tiešsaistes spēle|tiešsaistes]], uz interneta pārlūku bāzēta daudzspēlētāju tīkla spēle. Spēle ir radīta [[Zviedrija|Zviedrijā]] [[1997]]. gadā. Šobrīd Hattrick spēlē vairāk nekā 620000 spēlētāju no 124 valstīm. Katrai valstij ir savs nacionālais čempionāts, kur lietotāji, sadalīti grupās, cīnās par uzvarētāja titulu. Spēle ir bezmaksas, lai gan ir iespējams par nelielu samaksu kļūt par atbalstītāju, kas sniedz dažādas papildiespējas, kas padara spēli interesantāku, bet nesniedz priekšrocības spēlē.
+
+== Ievads ==
+Hattrick spēlētājs ir virtuālas [[futbols|futbola]] komandas menedžeris. Spēles uzdevumos ietilpst: spēlētāju pirkšana un pārdošana, trenēšana un pats galvenais - cīņa par uzvaru nacionālajā čempionātā un kausa izcīņā. No sākuma spēlētājs saņem savu komandu ar vājiem spēlētājiem, mazu stadionu un nedaudz faniem. Spēlēšana ir jāsāk kādā no zemākajām līgām. Tad pamazām var sākt attīstīt klubu - iepirkt jaunus spēlētājus, trenēt jaunos futbolistus, būvēt lielāku stadionu un pulcēt klāt arvien jaunus un jaunus komandas fanus.
+Hattrick spēles notiek 2 reizes nedēļā, sezona ilgst 16 nedēļas, līdz ar to gadā sanāk 3 sezonas un viens īstais gads ir 3 Hattrick gadi.
+
+== Līgu sistēma ==
+Hattrick spēlē ir oriģināla līgu sistēma. Augstākajā līgā (Latvijā tā saucas ''Virslīga'') ir viena grupa, kurā spēlē astoņas komandas. Tālāk katrā nākamajā līgā ir četrreiz vairāk grupu nekā iepriekšējā, bet, sākot ar VI līgu un uz leju, grupu skaits paliek nemainīgs - 1024.
+
+Sezona notiek divās kārtās, katra grupas komanda ar katru izspēlē divas spēles. Katras grupas divas pēdējās komandas tiek pazeminātas, ja vien jau nespēlē zemākajā līgā. To vietā nāk labākie no nākamo zemāko līgu grupu līderiem (komandas ar augstāko punktu skaitu). Puse no grupu līderiem tiek uzreiz paaugstināti, savukārt pārējiem ir jāspēlē kvalifikācijas spēles pret 5. un 6. vietas ieguvējiem no nākamās augstākās līgas. No šiem grupu uzvarētājiem (tiem, kuri netiek uzreiz paaugstināti) labākais spēlē ar sliktāko 6. vietas ieguvēju, un sliktākais sastopas ar labāko 5. vietas ieguvēju. Visu VII un zemāku līgu grupu uzvarētāji tiek automātiski paaugstināti bez kvalifikācijas spēlēm.
+
+Latvijā šobrīd ir 5 līgas.
+{|class="wikitable"
+|-
+!Grupu skaits
+!Līmenis
+!Grupas
+|- align="center"
+|1
+|1. divīzija
+|Virslīga
+|- align="center"
+|4
+|2. divīzija
+|II.1, II.2, II.3, II.4
+|- align="center"
+|16
+|3. divīzija
+|III.1, III.2, III.3, utt. līdz III.16
+|- align="center"
+|64
+|4. divīzija
+|IV.1, IV.2, IV.3, utt. līdz IV.64
+|- align="center"
+|256
+|5. divīzija
+|V.1, V.2, V.3, utt. līdz V.256
+|}
+
+Paralēli līgas čempionātiem notiek kausa izcīņa, kur komandas sacenšas izslēgšanas spēlēs, un kopš 2006. gada ir izveidots arī pirmais starptautiskais klubu turnīrs "Hattrick Masters", kuru savā starpā izcīna visu valstu līgas un kausa čempionvienības.
+
+== Pasaules čempionāts un valstsvienības ==
+Hattrick notiek arī pasaules čempionāts starp valstu pieaugušo un U-20 izlasēm. Izlases menedžeris tiek noskaidrots vēlēšanās.
+ 
+'''Sasniegumi''': 2005. gada decembrī<ref>[http://www.diena.lv/lat/arhiivs/sports/latvijas_izlase_starp_labaakajaam_pasaulee Latvijas izlase starp labākajām pasaulē] diena.lv</ref><ref>[http://www.diena.lv/lat/arhiivs/sports/latvijai_bronzas_medaljas_un_skandaals Latvijai bronzas medaļas un skandāls] diena.lv</ref> un 2008. gada jūnijā pasaules čempionātā Latvijas izlasei izdevās iegūt bronzas medaļas.
+
+== Hattrick Latvijā ==
+Hattrick Latvijas līga tika izveidota [[2002]]. gada vasarā un tā lietotāja saskarne ir pieejama arī latviešu valodā. Lietotāju skaitam Latvijā ir tendence samazināties, un uz 2020.gada sākumu tā ir ap 2700 spēlētājiem.<ref>[http://www.maptrick.org/graphs.php?country=53 Lietotāju skaita dinamika Latvijā]{{Novecojusi saite}}</ref><ref>{{Tīmekļa atsauce |url=https://www95.hattrick.org/World/Regions/?LeagueID=53 |title=Saite no hattrick.org |access-date={{dat|2020|01|03||bez}} |archive-date={{dat|2011|12|02||bez}} |archive-url=https://web.archive.org/web/20111202021657/http://hattrick.org/World/Regions/?LeagueID=53 }}</ref> Ir notikuši 5 ikgadēji lietotāju ārpusspēles pasākumi.
+
+== Skatīt arī ==
+* [[PowerPlay Manager]]
+
+== Ārējās saites ==
+* [http://www.hattrick.org Hattrick mājaslapa]
+* [http://wiki.hattrick.org Hattrick viki]
+* [https://web.archive.org/web/20180329053136/http://hattrick.lv/ Latviešu tīmekļa žurnāls par Hattrick]
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Tīmekļa pārlūka spēles]]
+[[Kategorija:1997. gada videospēles]]

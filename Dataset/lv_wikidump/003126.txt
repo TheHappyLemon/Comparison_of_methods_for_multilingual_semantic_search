@@ -1,0 +1,9 @@
+'''Garais gads''' ir [[gads|kalendārais gads]], kurā ir 366, nevis 365 [[diennakts|diennaktis]], kā tas ir [[parastais gads|parastajā gadā]]. Garā gada [[februāris|februārī]] ir 29, nevis 28 [[diena]]s. Garais gads atkārtojas reizi 4 gados ar atsevišķiem izņēmumiem. Garo gadu var noteikt pēc tā, vai gada pēdējo divu ciparu veidotais skaitlis [[dalīšana|dalās]] ar 4 bez atlikuma. Ja tā ir, tad tas ir garais gads. Piemēram, [[2020. gads]] bija garais gads, jo 20 dalās ar 4 bez atlikuma. Nākamais garais gads būs [[2024. gads]].
+
+Garais gads tika ieviests tāpēc, ka [[astronomiskais gads]], kas ir 365,242 diennaktis, nesakrīt ar veselu dienu skaitu. Tā kā katru gadu paliek pāri aptuveni 0,25 jeb viena ceturtdaļa no dienas, tad ik pēc četriem gadiem gads ir par vienu dienu garāks. Tā kā gada garums nav precīzi 365,25 dienas, bet gan 365,242 dienas, tad gadu skaitļi, kas dalās ar 100 bez atlikuma, nav garie gadi, bet tie, kas dalās ar 400, tomēr ir garie gadi. Lai iegūtu vēl lielāku precizitāti, tad tie gadu skaitļi, kas dalās ar 4000, arī nav garie gadi, respektīvi, 4000. gads, 8000. gads, 12000. gads un tā tālāk nebūs garie gadi.
+
+{{laiks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Laiks]]

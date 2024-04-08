@@ -1,0 +1,26 @@
+{{Navbox
+|name=OPEC
+|title=[[OPEC|Naftas eksportētājvalstu organizācija]] (OPEC) [[Attēls:Flag of OPEC.svg|22px|border]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Alžīrija]]
+* [[Angola]]
+* [[Apvienotie Arābu Emirāti]]
+* [[Ekvadora]]
+* [[Ekvatoriālā Gvineja]]
+* [[Gabona]]
+* [[Irāna]]
+* [[Irāka]]
+* [[Kongo Republika]]
+* [[Kuveita]]
+* [[Lībija]]
+* [[Nigērija]]
+* [[Saūda Arābija]]
+* [[Venecuēla]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

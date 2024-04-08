@@ -1,0 +1,444 @@
+{{nepieciešamas papildu atsauces}}
+{{Citas nozīmes|pilsētu|Ogre (nozīmju atdalīšana)|Ogre}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Ogre
+ | settlement_type          = Valstspilsēta
+ | image_skyline            = Ogrelut.jpg
+ | imagesize                = 
+ | image_caption            = Ogres luterāņu baznīca
+ | image_flag               = Flag of Ogre.svg
+ | flag link                = Ogres karogs
+ | image_shield             = Coat of arms of Ogre.svg
+ | shield_link              = Ogres ģerbonis
+ | shield_size              = 70px
+ | pushpin_map              = Latvija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 56 | latm  = 49 | lats  = 7 | latNS  = N
+ | longd = 24 | longm = 36 | longs = 20| longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = '''{{karogs|Latvija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Ogres novads]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pilsētas tiesības
+ | established_date         = kopš 1928. gada
+ | established_title2       = 
+ | established_date2        = 
+ | seat_type                = Vēsturiskie<br />nosaukumi
+ | seat                     = {{val|de|Oger}}
+ | leader_title             = [[Ogres novads|Ogres novada]] [[Ogres novada pašvaldības vadītāju uzskaitījums|domes priekšsēdētājs]]
+ | leader_name              = [[Egils Helmanis]]<br /><small>([[Nacionālā apvienība "Visu Latvijai!"—"Tēvzemei un Brīvībai/LNNK"|Nacionālā apvienība]])</small>
+ | area_total_km2           = 13.6
+ | population_footnotes     = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+ | population_total         = {{iedzsk|dati|Ogre}}
+ | population_as_of         = {{iedzsk|dat}}
+ | population_rank          = 9
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = LV-50(01-03)
+ | area_code                = <small>(+371)</small> 650
+ | website                  = {{URL|www.ogresnovads.lv}}
+ | footnotes                = 
+}}
+'''Ogre''' ir [[valstspilsēta]] [[Latvija|Latvijā]], [[Ogres novads|Ogres novada]] [[Pārvaldes centrs|administratīvais centrs]]. [[Pilsēta]] izvietojusies [[Daugava]]s labajā krastā 36 [[Kilometrs|km]] no [[Rīga]]s pie [[Ogre (upe)|Ogres]] upes [[Grīva|ietekas]]. Pilsētas platība ir 13,6 [[Kvadrātkilometrs|km<sup>2</sup>]]. {{iedzsk|dat|dat_f=L}} pilsētā bija {{iedzsk|dati|Ogre|format=yes}} iedzīvotāji.<ref name="iedz skaits" /> 65% Ogres iedzīvotāju ir [[latvieši]], 26% ir [[krievi]], 4,2% [[baltkrievi]], 1,9% [[ukraiņi]] un 1,8% — [[poļi]].
+
+== Pilsētas nosaukums ==
+Ogres pilsētas nosaukums ir cieši saistīts ar [[Ogre (upe)|Ogres upi]], par kuras vārdu ir vairāki nostāsti. [[Indriķa hronika|Indriķa hronikā]] Ogres upe dēvēta par Vogeni (''Wogene'', ''Woga''). Pēc igauņu vēsturnieka Alvres domām vārds ''Vōgene'' nozīmējis „straujā, viļņainā (upe)", to pamatojot ar to, ka [[līvu valoda]]i radniecīgajā igauņu valodā ''voog'' nozīmē „straume", „plūsma", „vilnis", bet ''voogama'' — „plūst", „tecēt", „viļņot". Laika gaitā vārds Voga varējis pārtapt tagadējā Ogres nosaukumā.
+
+Pēc [[Augusts Bīlenšteins|Augusta Bīlenšteina]] domām upes nosaukums saistās ar [[zutis|zuša]] indoeiropeisko nosaukumu (prūšu: ''angurgis'', {{val|lt|ungurys}}).<ref name="oraksti">{{Grāmatas atsauce|last=Rinkēvča|first=Vita|title=Ogre. Rakstu un atmiņu krājums|year=2002|publisher=LU žurnāla "Latvijas Vēsture" fonds|isbn=9984527255}}</ref> Latviešu teika stāsta, ka laikā, kad [[Vidzeme]] tika iekļauta [[Krievijas Impērija]]s sastāvā, ķeizarienes [[Katrīna I|Katrīnas I]] valdīšanas laikā uz šo apkaimi sūtīti zaldāti, kas vietējiem iedzīvotājiem taujājuši, kur esot upe, kas bagāta ar zušiem ({{val|ru|угри}}), no kā it kā esot cēlies jaunais upes vārds.
+
+== Vēsture ==
+{{pamatraksts|Ogres vēsture}}
+Ogres apkaime ir bijusi apdzīvota jau pirms 3—5 tūkstošiem gadu; tas konstatēts pēc izrakumos atrastajiem akmens cirvjiem, keramikas lauskām u.c. priekšmetiem. Līdz 9. gadsimtam bijis apdzīvots [[Ķentes pilskalns]]. Rakstiski Ogres upes grīva pirmo reizi minēta [[Indriķa Livonijas hronika]]s 1206. gada līvu-vāciešu militārā konflikta aprakstā.
+
+13. gadsimta sākumā Ikšķiles pilsnovads ({{val|la|castrum Ykescolae}}) bija izlēņots [[Alberts fon Bukshēvdens|bīskapa Alberta]] vasalim [[Konrāds no Meiendorpas|Konrādam no Meiendorpas]]. Pakāpeniski Daugavas līvus asimilēja [[letgaļi]], un līdz pat 16. gadsimtam Ikšķiles pilsnovads ietilpa [[Rīgas arhibīskapija]]s [[Letu gals|latvju galā]]. [[Zviedru Vidzeme]]s un [[Vidzemes guberņa]]s laikā apvidus ietilpa [[Rīgas apriņķis|Rīgas apriņķī]].
+
+Pēc 1861. gada [[Dzelzceļa līnija Rīga—Daugavpils|Rīgas—Dinaburgas dzelzceļa līnija]] uzbūvēšanas Rīgas—Dinaburgas dzelzceļa sabiedrība noīrēja divas pūrvietas meža, lai ierīkotu celiņus, uzceltu restorānu un vairākus paviljonus. Kopš 1875. gada Ogrē sākās intensīva vasarnīcu celtniecība; to skaits līdz [[Pirmais pasaules karš|Pirmajam pasaules karam]] sasniedza trīs simtus.
+[[Pirmais pasaules karš|Pirmā pasaules kara]] laikā Ogre atradās tiešā frontes tuvumā, artilērijas šāviņi gandrīz pilnīgi iznīcināja Ogres apbūvi.
+Pēc [[Latvijas brīvības cīņas|Latvijas brīvības cīņu]] beigām 1920. gadā Ogre ieguva miesta, bet 1928. gada 25. februārī pilsētas tiesības. Ogre līdztekus [[Jūrmala]]i, [[Sigulda]]i un [[Saulkrasti]]em bija viens no lielākajiem Latvijas kūrortiem.
+Pēc [[Latvijas okupācija (1940)|Latvijas okupācijas]] visi Ogres restorāni, viesnīcas, pansijas, sanatorijas un tirdzniecības uzņēmumi tika nacionalizēti. 1947. gadā Ogre kļuva par [[Ogres apriņķis|Ogres apriņķa]], pēc 1950. gada [[Ogres rajons|Ogres rajona]] centru. 1960. gadu otrajā pusē Ogrē uzcēla lielu trikotāžas kombinātu.
+
+== Ogres pilsētas ģerbonis ==
+[[Attēls:Coat of arms of Ogre.svg|150px|thumb|[[Ogres ģerbonis]]]]
+Pirmo reizi par [[Ogres ģerbonis|Ogres ģerboni]] tika runāts 1921. gadā, taču sakarā ar to, ka Ogre nebija pilsēta, bet tikai miests, tika saņemts Latvijas Heraldiskās komitejas atteikums. Pēc pilsētas tiesību piešķiršanas Ogrei 1928. gadā ģerboņa jautājums atkal kļuva aktuāls. Gāja gadi, tika sagatavoti dažādi ģerboņa projekti un skices. 1936. gadā Heraldiskā komiteja savā sēdē, kurā piedalījās arī ikšķilietis Mākslas akadēmijas rektors [[Jānis Kuga]], nolēma izgatavot Ogres pilsētas ģerboņa darba zīmējumu variantus. Ģerboņa ideja — zilā laukā trīs zelta vai melnas priedes, bet apakšējā daļā viļņveida sudraba josla, kas simbolizētu ūdeņus, pie kuriem Ogre atrodas. [[Priedes]] un viļņveida josla simbolizēja pilsētu kā kūrortu. Ģerboņa [[Zilā krāsa|zilais]] fons norādīja uz to, ka Ogre ir klimatiskais kūrorts. Ģerboņa projekta tālāko izstrādi uzticēja [[Latvijas Mākslas akadēmija]]s docentam Kārlim Krauzem. Faktiski ģerbonim ir divi autori — Ogres pilsētas darbinieks, mākslinieks Vilis Mednis un Kārlis Krauze. 1937. gadā ģerboņa projekta zīmējums tika pieņemts galīgā variantā. Lai arī Ogres pašvaldībai un sabiedrībai pret to bija zināmi iebildumi, Heraldikas komiteja 1938. gada augustā projektu pieņēma un 22. oktobrī valsts prezidents [[Kārlis Ulmanis]] to apstiprināja.
+
+Mūsu dienās Ogres pilsēta savu klimatiskā [[Kūrorts|kūrorta]] nozīmi ir gandrīz zaudējusi, un no jauna apstiprinātais vēsturiskais ģerbonis kalpo par simbolu pilsētas pagātnei un varbūt nākotnei.
+
+== Ogres zīme ==
+[[Attēls:Ogres upe Ogrē.jpg|thumb|Ogres upe ar vides instalāciju]]
+Ideja par Ogres zīmi, kas nepieciešama iebraucot un izbraucot no pilsētas, radusies jau 1997. gadā. Toreiz notika arī konkurss, kurā uzvarēja tagadējais Ogres pilsētas galvenais mākslinieks Krišs Skrastiņš. 1997. gadā ideja par pilsētas zīmi tā arī palika nerealizēta un skices iegūlās plauktos. 2007. gadā atkārtoti tika pieminēta nepieciešamība pēc pilsētas zīmes. Kopš pirmā konkursa bija pagājis ievērojams laika sprīdis, bija daudz jaunu iespēju un ideju, līdz ar to tika nolemts rīkot jaunu konkursu.<ref>[http://news.lv/Ogres_Zinas/2008/07/28/ogres-pilsetai-jauni-varti Ogres pilsētai — jauni vārti]</ref>
+
+[[Ogres novada dome]] 2007. gada 19. aprīļa domes sēdē izsludināja konkursu Ogres pilsētas zīmes izveidei. Konkursu rīkoja dome sadarbībā ar Ogres Rotari klubu un to organizēja domes būvvalde. Konkurss tika organizēts ar mērķi iegūt projekta priekšlikumus — metus vides objekta Ogres pilsētas zīme realizācijai. 2007. gada 22. maijā Ogres pilsētas zīmes ideju metu konkursa komisijas sēdē tika apkopoti rezultāti un konkursā 1.vietu ieguva Pauls Valgums un Viktors Valgums (devīze “G20B47”).
+
+Daļa finansējuma zīmju izgatavošanai bija ieplānota domes budžetā un daļa nepieciešamo līdzekļu tika savākta ziedojumu veidā. Lai iesaistītu iedzīvotājus savas pilsēta simbolikas izveidē, Ogres Rotari klubs rīkoja labdarības koncertu, savukārt pēc SIA „[[Fazer|Fazer maiznīcas]]” iniciatīvas trīs mēnešus notika akcija, kuras laikā no katra uzņēmumā ceptā un Ogres pilsētā pārdotā maizes klaipiņa viens santīms tika ziedots pilsētas zīmes izveidei.
+
+Ir divas pilsētas zīmes, kas izvietotas pie {{A ceļš|6}} Rīga—Daugavpils — viena pirms iebraukšanas pilsētas teritorijā no [[Ikšķile]]s puses, otra — no [[Ciemupe]]s puses.
+
+Ogres pilsētas zīme kā vides objekta būtiskākā funkcija ir Ogres pilsētas atpazīstamības veicināšana, kā arī simbolisku pilsētas vārtu veidošana.<ref>{{Tīmekļa atsauce |url=http://www.ogresnovads.lv/lat/par_ogres_novadu/simboli/ |title=Ogres novada simboli |access-date={{dat|2015|04|13||bez}} |archiveurl=https://web.archive.org/web/20110317003117/http://www.ogresnovads.lv/lat/par_ogres_novadu/simboli/ |archivedate={{dat|2011|03|17||bez}} }}</ref>
+
+== Daba ==
+Kristāliskais pamatklintājs sastāv no dažādiem [[Granīts|granītiem]] un [[Gneiss|gneisiem]] un atrodas 950—1000 m dziļumā, un to šķērso dažāda dziļuma tektoniskie lūzumi, kas it kā monolīto pamatklintāja masīvu sadala dažāda lieluma blokos. Atšķirībā no [[Litosfēras plātne|litosfēras]] lūzumiem kalnu rajonos šie lūzumi nav tik dziļi, kas kopumā piešķir platformas apgabaliem salīdzinošu stabilitāti. {{nepieciešama atsauce}}
+
+Virs kristāliskā pamatklintāja nāk pamatiežu stāvs, kura biezums Ogres apkaimē ir 930 — 995 m. No tiem Ogres upes krastos atsedzas tikai virsējie [[Devons|devona vecuma]] pamatieži — dolomīti un [[Dolomītmerģelis|dolomītmerģeļi]]. Tie radušies simtiem miljonu gadu ilgā laika periodā, kad daudzkārt tagadējā Ogres teritorijā valdījuši jūru apstākļi un norisinājušies iežu daļiņu sacementēšanās procesi, kurus vēlāk veicināja arī virsējo slāņu spiediens. Vietām tekošais ūdens dolomītos izskalojis iedobumus (kavernas), kuros izveidojušies [[Kalcīts|kalcīta]] kristālu sakopojumi, t.s. drūzas.
+
+Virs pamatiežiem atrodas kvartāra nogulumiežu sega, ko atstājis pēdējais apledojums. Nogulumiežu segas biezums mainās 5—70 m robežās. Visbiezākie nogulumiežu slāņi ir zem pauguriem, turpretī upju krastos to biezums sasniedz tikai dažus metrus. Nogulumiežus veido [[grants]], [[Smiltis|smilts]], oļi, mazāk [[māls]]. Zilajos kalnos vairāk izplatīta smilts, bet Pārogrē — grants. Pēc kara tika veikta intensīva grants ieguve, palikuši nerekultivēti karjeri. Pilsētas teritorijas reljefs vietām ir stipri paugurains. Tas izskaidrojams ar pēdējā apledojuma kušanas ūdeņu darbību, kas tagadējās pilsētas teritorijā bijusi ļoti spēcīga. No [[Ikšķile]]s līdz [[Ķegums|Ķegumam]] cauri Ogrei DA virzienā stiepjas garu vaļņveida pauguru virkne — Ogres Kangari. [[Ģeomorfoloģija|Ģeomorfoloģiski]] šādus paugurus sauc par osiem.
+
+[[Ogres Kangari]] ir 20 [[Kilometrs|km]] gara osu virkne, kas 3—4 km garumā ietilpst pilsētas teritorijā; vietām tai ir nelieli atzarojumi. Šī vaļņveida pauguru grēda apgrūtina virszemes ūdeņu noteci uz Daugavu, veicinot apkārtnes pārpurvošanos uz Z no grēdas, sevišķi Pārogrē pie Lazdu kalniem. Liela daļa Ogres teritorijas atrodas Daugavas virspalu terasēs, kuru platums sasniedz 1500 m. Daugavas paliene ir vāji izteikta, un to tāpat kā terases klāj 1,5 — 3 m biezs smilšu slānis, zem kura atrodas dolomīta pamatieži. Atsevišķām pilsētas pauguru grēdām un pauguriem vēsturiski ir radušies dažādi nosaukumi. [[Jaunogre|Jaunogrē]] stiepjas [[Ogres Zilie kalni (dabas parks)|Zilie kalni]], kuru augstākie pauguri ir Skolas [[kalns]] un Viršu kalns; pilsētas centrā atrodas Vilku kalni, kuru augstākie pauguri ir Skolas jeb Krēģera kalns un Mīlestības kalns; gar Turkalnes ielu stiepjas Sērķīšu (Zaķu) kalni. Pārogrē ir Grants kalni, kuru augstākie pauguri ir Bākas kalns un Kazaku kalns, tālāk stiepjas Lazdu kalni ar slaveno Ķentes kalnu, kurš lielā mērā ir norakts. Pie Urgas upītes atrodas arī tāda paša nosaukuma [[kalns]]. Visos šajos kalnos ir ievērojami grants krājumi; tas rada saimniecisko un ekoloģisko interešu sadursmi. Par dabas aizsardzības pārkāpumiem un bezsaimnieciskumu liecina jau Pārogrē esošie karjeri un piesārņotā vide, sevišķi būvmateriālu rūpnīcas apkārtnē. Ir jāapbrīno dabas mīļotāja J. Špakovska uzņēmība, Lazdu kalnos ierīkojot dendroloģisko un atpūtas parku, attīrot daļu aizaugušās teritorijas un par saviem līdzekļiem to labiekārtojot.
+
+=== Iekšējie ūdeņi ===
+[[Attēls:Ogres upe 5.jpg|thumb|250px|Taka gar Ogres upi]]
+Ogres pilsēta atrodas [[Daugava]]s labajā krastā pie [[Ogres ieteka]]s. Ogres upe ieplūst pilsētā ZA daļā un met vairākus līkumus. Pirms [[Rīgas ūdenskrātuve]]s izveidošanas un ar to saistītās ūdenslīmeņa celšanās Daugavā Ogrei bija liels kritums pilsētas robežās. Upe tecēja strauji, krāčaini, efektu vēl vairāk pastiprināja straujās [[Dolomīts|dolomīta]] kraujas. Ogres upe visai dziļi iegrauzusies pamatiežos, vietām tās gultnē ir daudz [[Laukakmens|laukakmeņu]], sevišķi vietā, kur Ogre šķērso Ogres Kangaru osu grēdu. Daudzviet upes gultne gludi „noklāta" ar līdzenām dolomīta plātnēm. Paceļot Daugavā ūdenslīmeni, Ogres lejtecē straumes ātrums kļuvis ļoti mazs — var uzskatīt, ka te ir stāvošs [[ūdens]], kas siltās [[vasara|vasarās]] veicina aļģu masveida savairošanos un ūdens kvalitātes pasliktināšanos. Bez Daugavas un Ogres cauri pilsētai tek arī vairākas nelielas upītes. Pārogrē gar dzelzceļu tek Urgas upīte; tai ir lēzena, pārpurvota gultne. Pilsētas ZA daļā gar Ogres kapiem tek Norupīte, bet mazā Lebiņa, kas kādreiz atdalīja Jaunogri no Ogres, tagad lielākoties plūst pa [[Betons|betona]] caurulēm zem Mālkalnes prospekta un tikai aiz pilsētas stadiona atkal „ierauga dienasgaismu". Pirms ietecēšanas nosprostotajā Ogres upes labajā attekā Lebiņa sadalās, veidodama krūmiem apaugušu salu, un pirms ietekas atkal savienojas. Iztīrot un gaumīgi apzaļumojot šo apkaimi, šeit varētu izveidot nelielu atpūtas un pastaigu vietu. Diemžēl vasarā Ogres aizdambētās attekas ūdens sanitārepidemioloģiskais stāvoklis ir neapmierinošs, jo stāvošajā ūdenī savairojas [[mikroorganismi]]. Vēsāks un tīrāks ūdens ir meža ielokā esošajā Mežezerā, kas faktiski ir mākslīgi veidota ūdenskrātuve (no tās iztek mazā Lebiņa). Gruntsūdeņi pilsētas teritorijā atrodas līdz 30 m dziļi. Sevišķi dziļi [[gruntsūdeņi]] ir zem pauguriem, savukārt osu ziemeļu nogāzu pakājēs tie vietām iznāk pat zemes virspusē, izraisot apkārtnes pārpurvošanos, sevišķi pilsētas [[ziemeļi|ziemeļu]] un ziemeļaustrumu daļā.
+
+=== Augsnes ===
+Pilsētā pārsvarā ir velēnu podzolētās [[augsne]]s, kas ir samērā auglīgas. Osu tuvumā lielās platībās ir pārpurvotas augsnes ar mazsadalījušos melnas nokrāsas zāļu kūdru. Savukārt paugurainās vietās augsnes cilmiezī dominē grants vai smilts ar nelielu māla daļiņu piejaukumu. Tas padara augsni irdenu, šāda augsne vāji aiztur mitrumu un organiskās vielas. Šo efektu vēl vairāk pastiprina skuju koku meži, kas "pieskābina" cauri skujkoku vainagiem iztecējušo lietus ūdeni. Šī ūdens reakcija ir vāji skāba (pH 6,5 — 6,9), taču pilnīgi pietiekama, lai veicinātu organisko vielu izskalošanas procesus no augsnes virsējiem slāņiem dziļākos slāņos. Līdz ar to zem 15 — 30 cm bieza trūdvielu jeb humusa slāņa atrodas ap 20 — 25 cm biezs izskalošanas jeb t.s. podzola slānis, kam seko tumšāks ieskalošanas horizonts. Tā biezums variē plašā amplitūdā, vietām pārsniedzot pat 1 m. Ieskalošanas horizonts pakāpeniski pāriet smilts vai grants cilmiezī, kura biezums zem pauguriem var sasniegt vairākus desmitus metru. Savukārt Daugavas ielejā cilmieža biezums var pat nesasniegt 1 [[metrs|metru]]. Zem cilmieža atrodas pamatieži — monolīti devona dolomīti. Līdz ar to, lai uzlabotu augsnes dabisko auglību, kas Ogrē ir visai zema (apmēram 25 balles no 60 iespējamām; [[Zemgale|Zemgalē]] augsnes dabiskā auglība vietām ir virs 50 ballēm), nepieciešamas regulāras ikgadējas organisko vielu papilddevas, sevišķi tas attiecas uz augsnēm paugurainēs. Vietām nepieciešama augsnes nosusināšana, kaļķošana vai virsmas pacelšana. Aktīvi jācīnās pret augsnes eroziju pauguraiņu nogāzēs, tās nostiprinot, arī terasējot, sausās vasarās mākslīgi pievadot ūdeni. Nedaudz auglīgākas augsnes ir Ogres upes lejtecē, grīvas apkaimē, kā arī Daugavas ielejā. Dabiskā auglība šeit ir ap 30 — 39 ballēm; tas izskaidrojams ar karbonātu klātbūtni dolomītu slāņa sekluma dēļ (dolomītos ir [[kalcija karbonāts]] — CaCO<sub>3</sub> — tiesa gan, augiem grūti izmantojamā veidā), šeit atrodas arī senas kultūraugsnes, jo upju piekraste bijusi apdzīvota jau no seniem laikiem.
+
+=== Augājs ===
+Ogre ir viena no zaļākajām Latvijas pilsētām. Vairāk par pusi no pilsētas kopplatības klāj [[Mežs|meži]] vai [[Parks|parki]], nomales aizaugušas ar krūmiem un mazvērtīgiem kokiem. Galvenā koku suga pilsētā ir [[Priedes|priede]], kuras īpatsvars ir 37%, otra izplatītākā ir [[Egles|egle]] — 29%, bet [[Bērzu dzimta|bērzu]] īpatsvars sasniedz 20%. Pilsētas centrā aug daudz [[Liepas|liepu]] — tās labi padodas veidošanai, apgriešanai. No citiem kokiem minamas [[kastaņas]], papeles, [[kļavas]], [[tūjas]], [[ozoli]], [[Melnalksnis|melnalkšņi]], [[baltegles]], [[apses]]. Viena no lielākajām apsēm pilsētā aug iepretim stacijas laukumam. Paugurainēs uz smilšainajiem cilmiežiem dominē priedes ar sīklapjiem meža zemākajos stāvos. Zemākās vietās izplatītas egles, zem kurām pamežs ir daudz vājāk attīstīts (sakarā ar sliktākajiem gaismas apstākļiem). Bērzi daudz vairāk izplatīti gar transporta ceļu malām, gar stigām, slapjās augstienēs. Pārogrē pamežā daudz [[Lazdas|lazdu]]. Ekoloģisko apstākļu pārmaiņu dēļ mazāk izturīgie skuju koki nokalst, atbrīvodami ekoloģisko nišu mazāk izvēlīgajiem [[lapu koki]]em, sevišķi sīklapjiem. Īpaši tas attiecas uz pilsētas centru, kur katru gadu tiek izzāģētas bojā gājušās priedes, kas ir visjutīgākās pret negatīvajām apkārtējās vides pārmaiņām. No šādiem negatīviem faktoriem varētu minēt zemsedzes izmīņāšanu un lapu nogrābšanu, kas izraisa augsnes degradēšanos, noplicināšanos, [[Erozija|eroziju]]. Nesaņemot pietiekamā daudzumā barības vielas, koki novājinās, samazinās to ikgadējais pieaugums, tie kļūst uzņēmīgi pret sēnēm, kaitēkļiem. Meža dabiska atjaunošanās Ogrē ir problemātiska. Pilnīgi zudušas spējas dabiskā ceļā atjaunoties priedēm, jo pamežs ir piesārņojies ar sīklapjiem, bet priedēm ir paaugstinātas prasības pret gaismu. Vietām pamežā „aizbēguši" augi no dārziem vai apstādījumiem — [[Kapmirtes|kapmirte]], dažas spireju sugas, krūmrozes u.c.<ref>Aigars Kuzmins "Ogres novads", Rīga, 1996, apgāds Mācību grāmata, 56,57.lpp {{ISBN|9984-523-86-1}}</ref>
+
+== Klimats ==
+[[Attēls:Negaiss Ogrē (23.07.2010).jpg|thumb|Negaiss Ogrē 2010. gada 23. jūnijā]]
+[[Attēls:Lietussargi Ogre.jpg|thumb|Lietussargi Brīvības ielā]]
+Ogre atrodas novada rietumos, kur ir siltāks un sausāks nekā lielākajā [[Ogres novads|Ogres novada]] daļā, sevišķi, salīdzinot ar novada Z, ZA un A daļu. [[Ziema|Ziemā]] Ogrē, spēcīgāk nekā pārējā novada teritorijā, jūtama [[Baltijas jūra]]s un [[Rīgas līcis|Rīgas līča]] ietekme. [[Vasara|Vasarā]] zināmā mērā klimatu ietekmē tas, ka pilsēta daļēji atrodas [[Daugava]]s ielejā. Gaisa vidējā diennakts temperatūra [[Janvāris|janvārī]] ir −5,8 °C, bet [[Jūlijs|jūlijā]] tā ir +17,2 °C. Visai bieži, kopš [[1970. gadi]]em, gaisa vidējā [[temperatūra]] [[Janvāris|janvārī]] Ogrē svārstās ap −5,4 °C.
+
+[[Vasara|Vasarā]] gaisa temperatūras maiņas pilsētā ir mazāk krasas, jo apkārtējie pauguri un [[Mežs|meži]] daļēji aiztur [[Vējš|vējus]] piezemes gaisa slānī, uz gaisa [[temperatūra]]s svārstībām izlīdzinoši darbojas arī [[Daugava]]s ūdensvirsma. Ziemā valdošie vēji ir DR un D vēji, bet vasarā — ZR un R vēji. [[Pavasaris|Pavasarī]] vējš samērā bieži iegriežas no Z un ZA, atnesdams agrīnas un vēlīnas [[salna]]s. Bezsala periods pilsētā ilgst 140 dienas. Gada vidējais [[Nokrišņi|nokrišņu]] daudzums ir 600—650 mm. [[Nokrišņi]] izkrīt vidēji 185 dienas [[Gads|gadā]].
+
+Ogrē ir samērā mazs apmākušos dienu skaits gadā, vidēji 126 ([[Rīga|Rīgā]] — 160, [[Ķemeri|Ķemeros]] — 146). Šāds mazs apmākušos dienu skaits Latvijā ir vēl tikai Zemgales līdzenuma dienvidu daļā.
+
+{| class="wikitable"
+|+ Ogres klimats
+|-
+! Mēnesis !! Vidējā diennakts<br>gaisa temperatūra, °C!! Nokrišņi, mm
+|-
+| [[Janvāris]]
+| align="right" |-6
+| align="right" |24
+|-
+| [[Februāris]]
+| align="right" |-5,8
+| align="right" |22
+|-
+| [[Marts]]
+| align="right" |-2,6
+| align="right" |26
+|-
+| [[Aprīlis]]
+| align="right" |4,8
+| align="right" |32
+|-
+| [[Maijs]]
+| align="right" |11,3
+| align="right" |60
+|-
+| [[Jūnijs]]
+| align="right" |14,8
+| align="right" |64
+|-
+| [[Jūlijs]]
+| align="right" |17,2
+| align="right" |87
+|-
+| [[Augusts]]
+| align="right" |16,0
+| align="right" |74
+|-
+| [[Septembris]]
+| align="right" |11,2
+| align="right" |69
+|-
+| [[Oktobris]]
+| align="right" |5,6
+| align="right" |74
+|-
+| [[Novembris]]
+| align="right" |0,3
+| align="right" |49
+|-
+| [[Decembris]]
+| align="right" |-3,7
+| align="right" |28
+|-
+| [[Gads|Gadā]]
+| align="right" |
+| align="right" |609
+|-
+|}
+
+== Iedzīvotāji ==
+
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+|title       = Iedzīvotāju skaita izmaiņas
+|type        = 
+|align       = left
+|width       = 
+|state       = 
+|shading     = 
+|percentages = off
+|break       = jā
+|footnote    = 
+| cols = 3
+| graph-pos = bottom
+|1920|620
+|1925|800
+|1930|1300
+|1935|1727
+|1939|1700
+|1959|7542
+|1970|15700
+|1979|26100
+|1981|27000
+|1989|29656
+|1990|29900
+|1991|30025
+|1992|29200
+|1993|28800
+|1994|28400
+|1995|28300
+|2000|26573
+|2001|26458
+|2002|26283
+|2003|26178
+|2004|26170
+|2005|26046
+|2006|26110
+|2007|26150
+|2008|26238
+|2011|24840
+|2012|26549
+|2017<ref>[http://www.lad.gov.lv/files/ladDocument/1768/6_3_Iedzivotaju_skaits_pilsetas_2017_gads.pdf Pastāvīgo iedzīvotāju skaits novadu pilsētās 2017. gada sākumā]{{Novecojusi saite}} no lad.gov.lv</ref>|23 533
+|2018|23 272
+|2019|23 232
+|2020|23 061
+|2021|22 978
+|2022|22 872
+}}
+[[Attēls:Centre1.jpg|thumb|Kultūras centrs]]
+[[Attēls:Ogres -Centrala-Bilioteka23.jpg|thumb|[[Ogres Centrālā bibliotēka]]]]
+
+=== Iedzīvotāju etniskais sastāvs ===
+=== Nacionālais sastāvs ===
+{{bar box
+|width = 400px
+|float = left
+|title = Ogres valstpilsētas iedzīvotāju etniskais sastāvs 2023. gadā<ref>{{Tīmekļa atsauce |url=https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRE/IRE031/ |title=IRE031. Iedzīvotāju skaits un īpatsvars pēc tautības reģionos, valstspilsētās un novados gada sākumā (pēc administratīvi teritoriālās reformas 2021. gadā) 2021 - 2023 |access-date=19.11.2023 }}</ref>
+|titlebar = #ddd
+|bars =
+{{bar percent|[[Latvieši]] (16787)   |green|73.4}}
+{{bar percent|[[Krievi]] (3943)     |red|17.2}}
+{{bar percent|[[Baltkrievi]] (623)   |black|2.7}}
+{{bar percent|[[Ukraiņi]] (432)      |blue|1.9}}
+{{bar percent|[[Poļi]] (289)         |pink|1.3}}
+{{bar percent|[[Lietuvieši]] (150)      |yellow|0.7}}
+{{bar percent|[[Igauņi]] (22)      |purple|0.1}}
+{{bar percent|[[Ebreji]] (17)      |orange|0.1}}
+{{bar percent|[[Čigāni]] (12)      |violet|0.1}}
+{{bar percent|Cita un neizvēlēta (609)     |grey|2.7}}
+}}
+
+2003. gada februārī {{sk|22064}} ogrēnieši dzimuši [[Latvija|Latvijā]]. Ogrē dzīvojošie latvieši dzimuši ne tikai Latvijā, bet arī citās valstīs — [[Krievija|Krievijā]], 29 [[Baltkrievija|Baltkrievijā]], 22 [[Lietuva|Lietuvā]], 19 [[Ukraina|Ukrainā]], 18 [[Igaunija|Igaunijā]], 15 [[Kazahstāna|Kazahstānā]], 8 [[Austrālija|Austrālijā]], 5 [[Polija|Polijā]], 3 [[Amerikas Savienotās Valstis|ASV]], 2 [[Azerbaidžāna|Azerbaidžānā]], 2 [[Čehija|Čehijā]], 1 [[Somija|Somijā]], 1 [[Vācija|Vācijā]], 1 [[Gruzija|Gruzijā]], 1 [[Ziemeļmaķedonija|Ziemeļmaķedonijā]], 1 [[Moldova|Moldovā]], 1 [[Norvēģija|Norvēģijā]], 1 [[Ungārija|Ungārijā]] (kopā 155 cilvēki). [[Latviešu valoda|Latviešu valodu]] kā dzimto valodu nosaukuši 10 [[Latvijas igauņi|igauņi]], 8 [[Latvijas čigāni|čigāni]], 5 [[Latvijas ebreji|ebreji]], 10 [[vācieši]], 3 [[azerbaidžāņi|azeri]], 2 moldāvi un 2 somi (kopā 40 cilvēku).
+
+'''Ogres iedzīvotāju etniskais sastāvs (%)'''
+{| class="wikitable"
+|-
+!
+! 1935.
+! 1979.
+! 1989.
+! 2003.
+! 2023.<ref>{{Tīmekļa atsauce|url=https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRE/RIG040/|title=Iedzīvotāju skaits pēc tautības reģionos, novados, pilsētās, pagastos (atbilstoši robežām 2023. gada sākumā), apkaimēs un blīvi apdzīvotās teritorijās (eksperimentālā statistika) 2000 - 2022|website=Oficiālās statistikas portāls|access-date=2023-02-02|language=lv-LV}}</ref>
+|-
+| Iedzīvotāju skaits (tūkstoši)
+| 1,7
+| 26,1
+| 30,2
+| 26,6
+| 22,8
+|-
+| Latvieši (%)
+| 83,4
+| 61,4
+| 59,1
+| 64,6
+| 73,4
+|-
+| Krievi (%)
+| 5,1
+| 27,8
+| 30,0
+| 24,6
+| 17,2
+|-
+| Vācieši (%)
+| 4,2
+| —
+| —
+| 0,1
+| —
+|-
+| Poļi (%)
+| 3,7
+| 1,9
+| 1,4
+| 1,8
+| 1,3
+|-
+| Ebreji (%)
+| 2,8
+| 0,4
+| 0,4
+| 0,2
+| 0,1
+|-
+| Baltkrievi (%)
+| —
+| 4,9
+| 4,4
+| 4,2
+| 2,7
+|-
+| Ukraiņi (%)
+| —
+| 1,9
+| 2,2
+| 1,9
+| 1,9
+|-
+| Lietuvieši (%)
+| —
+| 0,8
+| 0,5
+| 0,8
+| 0,7
+|-
+| Pārējie (%)
+| 0,8
+| 0,9
+| 2,0
+| 1,9
+| 2,7
+|}
+
+=== Iedzīvotāju dabiskais pieaugums ===
+{{enciklopēdiskais stils+}}
+'''Iedzīvotāju dabiskais pieaugums Ogrē un Latvijā (uz 1000 iedzīvotājiem)'''
+
+{|class="wikitable" border=1
+|-
+!ROWSPAN=1|
+|ROWSPAN=367 |
+!COLSPAN=1|1935
+|ROWSPAN=367 |
+!COLSPAN=1|1960
+|ROWSPAN=367 |
+!COLSPAN=1|1970
+|ROWSPAN=367 |
+!COLSPAN=1|1979
+|ROWSPAN=367 |
+!COLSPAN=1|1985
+|ROWSPAN=367 |
+!COLSPAN=1|1986
+|ROWSPAN=367 |
+!COLSPAN=1|1989
+|ROWSPAN=367 |
+!COLSPAN=1|1992
+|ROWSPAN=367 |
+!COLSPAN=1|1993
+|ROWSPAN=367 |
+!COLSPAN=1|1994
+|-
+|'''Ogrē'''<br />Dzimstība<br />Mirstība<br />Dabiskais pieaugums|| <br />17,2<br />14,0<br />3,2|| <br />15,9<br />9,9<br />6,0|| <br />16,6<br />7,2<br />9,4|| <br />17,0<br />7,7<br />9,3|| <br />18,5<br />7,6<br />10,9|| <br />15,6<br />7,3<br />8,3|| <br />14,1<br />9,0<br />5,1|| <br />12,8<br />10,1<br />2,7||<br />9,8<br />11,2<br />-1,4|| <br />9,4<br />13,0<br />-3,6
+|-
+|'''Latvijā'''<br />Dzimstība<br />Mirstība<br />Dabiskais pieaugums|| <br />17,6<br />14,2<br />3,4|| <br />16,7<br />10,0<br />6,7|| <br />14,0<br />11,8<br />2,2|| <br />14,1<br />12,7<br />1,4|| <br />15,2<br />13,1<br />2,1|| <br />15,8<br />12,1<br />3,7|| <br />14,5<br />12,1<br />2,4|| <br />12,0<br />13,5<br />-1,5|| <br />10,3<br />15,2<br />-4,9|| <br />9,5<br />16,4<br />-6,9
+|}
+[[Attēls:Zelta liepa ogre.jpg|thumb|Bijušais restorāns "Pie zelta liepas"]]
+[[Attēls:Zilokalnu rajons, 29.07.2017.jpg|thumb|Ogres Zilokalnu rajons]]
+[[Ogres Trikotāža|Trikotāžas kombināta]] darbiniekiem [[Jaunogre|Jaunogrē]] starp dzelzceļu un [[Ogres Zilie kalni (dabas parks)|Zilajiem kalniem]] tika uzcelts liels dzīvojamo namu mikrorajons, kurā tagad dzīvo apmēram 2/3 visu ogrēniešu. Tāda iedzīvotāju koncentrācija izraisa dažādas ekoloģiskas problēmas tuvējā apkārtnē. Līdztekus straujajam iedzīvotāju skaita pieaugumam krasi mainījās gan pilsētas iedzīvotāju nacionālais sastāvs, gan dzimumvecuma struktūra. Mūsu dienās, salīdzinot ar stāvokli pirms Otrā pasaules kara, ir samazinājies vīriešu un [[Ebreju vēsture Latvijā|ebreju]] īpatsvars.
+
+Līdz pat 1990. gadu sākumam Ogrē, salīdzinot ar Latviju kopumā, bija palielināta dzimstība un pazemināta mirstība, tātad arī salīdzinoši liels [[dabiskais pieaugums]]. Tas bija saistīts ar lielu gados jaunu darbspējīgu cilvēku pieplūdumu darbam trikotāžas kombinātā. 1980. gados Ogrē piedzima pat līdz 500 bērniem gadā, bet nomira ap 200 iedzīvotāju. 1990. gadu sākumā krasi pasliktinājās iedzīvotāju sadzīves apstākļi, pieauga dzīves un medicīnas pakalpojumu dārdzība. Tas samazināja dzimstību, palielināja mirstību. Kopš 1993. gada dzimstība ir zemāka par mirstību. Pirms [[Otrais pasaules karš|Otrā pasaules kara]] iedzīvotāju dabiskās kustības rādītāji Ogrē būtiski neatšķīrās no Latvijas vidējiem rādītājiem. Atšķirības sākās līdz ar forsētu Ogres [[Industrializācija|industrializāciju]], īpaši izšķiroša nozīme bija lielā trikotāžas kombināta uzcelšanai. Iedzīvotāju dabiskās kustības rādītāji Ogres pilsētā sāka visai būtiski atšķirties no Latvijas vidējiem rādītājiem. Galvenie iemesli tam bija:
+:# stipri palielinātais 20 — 40 gadus vecu sieviešu īpatsvars; šajā vecumā sievietes parasti apprecas un tām dzimst bērni;
+:# zemais pilsētas iedzīvotāju vidējais vecums (34 — 35 gadi), tāpēc arī mirstība Ogrē bija daudz zemāka nekā Latvijā;
+:# lielā kadru mainība trikotāžas kombinātā, kuras dēļ katru gadu pilsētā ieradās jauns darbaspēks.
+
+Ogrē pastāv sieviešu un vīriešu disproporcija. 1989. gadā 55% iedzīvotāju bija sievietes, bet 1979. gadā sieviešu īpatsvars bija pat 58%. Šī dzimumu disproporcija rada visdažādākās sociālās problēmas. Svarīgākās no tām ir:
+:# palielināts vientuļo, neprecēto sieviešu skaits;
+:# palielināta ģimeņu nestabilitāte un [[Šķiršanās|šķirto laulību]] skaits;
+:# palielināts nepilno ģimeņu, vientuļo māšu skaits;
+:# bieža darbavietu maiņa u.c.
+
+Visnelabvēlīgākā demogrāfiskā situācija ir vecuma grupā no 20 līdz 30 gadiem, kurā uz 100 vīriešiem ir aptuveni 150 sieviešu. Vislabvēlīgākajā ģimeņu veidošanas vecumā (no 20 līdz 40 gadiem) bija 72% vīriešu un tikai 62% sieviešu. Jaunākā vecuma grupās, sakarā ar to, ka vidēji uz 100 zēniem piedzimst 94 meitenes, dzimumu disproporcijas nav. Ir pat neliels zēnu pārsvars, taču zēnu mirstība kopumā ir lielāka un, sasniedzot 16 gadu vecumu, proporcijas izlīdzinās. Ogres pilsētā ir vislielākais sieviešu īpatsvars Latvijas pilsētu vidū. Trikotāžas kombināta dēļ Ogrē ir liels to sieviešu īpatsvars, kuras vispār nav bijušas precējušās — ap 27%, turpretī Latvijā tas ir vidēji 17%. Visi iepriekš minētie apstākļi neveicina lielu ģimeņu veidošanos, lai gan vidējais [[ģimene]]s lielums Ogrē tomēr ir nedaudz lielāks nekā vidēji Latvijā. Pilsētā ir vairāk nekā 7000 ģimeņu, ģimenēs kopā dzīvo apmēram 83% ogrēniešu.
+
+=== Iedzīvotāju migrācija ===
+[[Attēls:Ogre Station.JPG|thumb|Ogres dzelzceļa stacija]]
+[[Attēls:Ogres autoosta 2019.jpg|thumb|Autoosta]]
+[[Attēls:Parogres stacija.JPG|thumb|Pārogres stacija]]
+Ogres pilsētā ilgus gadus ir bijis pozitīvs iedzīvotāju mehāniskais pieaugums jeb [[Iedzīvotāju migrācija|migrācija]]. Šo pieaugumu ir radījis iebraukušo iedzīvotāju pārsvars pār izbraukušajiem. Un tikai pēdējos gados sakarā ar neatkarīgās Latvijas atjaunošanos pierakstīšanās režīms pilsētā kļuvis stingrāks un imigrācija ir kļuvusi negatīva. Paredzams, ka daļa cittautiešu izbrauks ārpus Latvijas, taču, protams, — ne visi. Iedzīvotāju migrācijā pārsvarā piedalās pieaugušie, darbspējīgie iedzīvotāji. Vairāk nekā puse no tiem ir neprecējušies, jo tieši šī ļaužu kategorija ir vismobilākā. Migrācijas iemesli ir visdažādākie. 16 — 20 gadus vecie jaunieši iebrauc Ogrē galvenokārt turpināt mācības dažādās pilsētas skolās. Sākot ar 18 gadu vecumu, par galveno pārceļošanas cēloni sāk dominēt tieksme uzlabot savus [[Dzīves līmenis|dzīves un darba apstākļus]], kā arī nodibināt ģimeni. Pēc 40 gadu vecuma sasniegšanas par galvenajiem dzīves vietas maiņas cēloņiem kļūst vēlēšanās dzīvot vietā, kur pieejamas kultūras, atpūtas un [[Slimnīca|medicīniskās]] iestādes. Turpina darboties arī tāds faktors kā labāki darba apstākļi. Dzīvojot Ogrē kā Rīgas aglomerācijas pavadoņpilsētā, šīs vajadzības lielākā vai mazākā mērā var tikt apmierinātas (vairāk gan uz galvaspilsētas rēķina, jo tās pārliekais tuvums un ērtā satiksme nav veicinājusi pietiekamas apkalpes sfēras infrastruktūras izveidošanos Ogrē atbilstoši lielajam iedzīvotāju skaitam). Šajā ziņā pilsētā ir daudz neatrisinātu problēmu, kuras pašreizējās ekonomiskajās grūtībās ir saasinājušās. Šī iemesla dēļ iezīmējas tendence (pagaidām gan visai vāja) izbraukušo skaitam pārsniegt iebraukušo skaitu. Agrākais trikotāžas kombināta celtniecības laikā straujais Ogres iedzīvotāju skaita pieaugums ir beidzies. Pilsētu pirmām kārtām atstāj kopmītņu iemītnieki, kuriem nav cerību tuvākajā laikā saņemt atsevišķu dzīvokli. Pēc [[Latvijas neatkarības atjaunošana|Latvijas valstiskuma atjaunošanas]] praktiski ir izbeigusies migrācija no bijušajām [[Padomju Savienība|PSRS]] republikām. To nomainījusi emigrācija uz bijušajām dzīves vietām. Tā kā tur ekonomiskie apstākļi parasti ir daudz sliktāki nekā Latvijā, tad liela daļa cittautiešu paliek Ogrē.
+
+Otrs iedzīvotāju migrācijas paveids ir t.s. iedzīvotāju diennakts svārstveida migrācija. Apmēram 4000 Ogres iedzīvotāju strādā Rīgā un [[Rīgas rajons|tās apkārtnē]]. Lielu diennakts daļu viņi pavada Rīgā, un Ogre viņiem ir tikai savdabīga „guļampilsēta". Ogrei kā [[Rīga]]s pavadoņpilsētai ar mazāk attīstītu ekonomisko infrastruktūru ir daudz mazāks „pievilkšanas spēks". Katru darbadienu uz Ogri no apkārtnes brauc strādāt ap 800 cilvēku. Šim skaitlim ir tendence sarukt, jo krasi pieauguši transporta izdevumi. Svārstveida migrācijā vislielākā loma pasažieru pārvadāšanā ir elektrificētajam dzelzceļa transportam. Tas pārvadā vairāk nekā divas trešdaļas regulāro, uz darbu braucošo, pasažieru.
+
+=== Iedzīvotāju sadalījums pa vecuma pamatgrupām ===
+1979. gadā ogrēniešu vidējais vecums bija 32,1 gada, 1995. gadā — 35 gadi. Latvijā iedzīvotāju vidējais vecums [[1989. gads Latvijā|1989]]. gadā bija 34,3 gadi. Tātad vidējais statistiskais ogrēnietis ir jaunāks nekā vidējais statistiskais [[Latvijas demogrāfija|Latvijas iedzīvotājs]]. Taču novecošanas process norisinās arī Ogres pilsētā, lai gan lēnāk nekā valstī kopumā. Tas izskaidrojams ar to, ka dzimstība, kam ir tendence samazināties sakarā ar dzīves dārdzības pieaugšanu, tomēr Ogrē ir lielāka nekā Latvijā vidēji. Šis faktors aizkavē kopējo ogrēniešu novecošanas procesu.
+
+== Ievērojamas vietas un objekti ==
+* Ogres Vēstures un mākslas muzejs,
+* Latvijas Gaidu un skautu muzejs,
+* [[Ogres Zilie kalni (dabas parks)|Dabas parks „Ogres Zilie kalni”]],
+* [[Špakovska parks|Dendroloģiskais parks „Lazdukalni”]] (Špakovska parks).
+
+== Cilvēki ==
+Ogrē dzimuši vai dzīvojuši:
+
+* [[Juris Zaķis]] (1936—2017), zinātnieks, pedagogs un politiķis
+* [[Edmunds Krastiņš]] (1958), matemātiķis un politiķis
+* [[Ilmārs Latkovskis]] (1958), žurnālists, publicists un politiķis
+* [[Elita Patmalniece]] (1964), modes māksliniece
+* [[Atvars Tribuncovs]] (1976), hokejists
+* [[Igors Stepanovs (futbolists, 1976)|Igors Stepanovs]] (1976), futbolists
+* [[Pēteris Draguns]] (1976), dzejnieks
+* [[Andrejs Prohorenkovs]] (1977), futbolists
+* [[Dmitrijs Žabotinskis]] (1980), hokeja vārtsargs
+* [[Vilis Kokamegi]] (1946), mūziķis
+* [[Marts Pujāts]] (1982), dzejnieks
+* [[Jānis Pozņaks]] (1983), basketbolists
+* [[Ēriks Dauksts]] (1984), politiķis
+* [[Kaspars Bērziņš]] (1985), basketbolists
+* [[Aija Andrejeva]] (1986), dziedātāja
+* [[Oļegs Žatkins]] (1987), futbolists
+* [[Oskars Bārtulis]] (1987), hokejists
+* [[Anete Šteinberga]] (1990), basketboliste
+* [[Otto Birznieks]] (1991), autosportists
+
+== Galerija ==
+<gallery>
+Kūrmāja.jpg|alt=Kūrmāja, Brīvības iela 32|thumb|Kūrmāja, Brīvības iela 32
+Ogres upe - E.Sparāns.jpg|Ogres upes ieteka Daugavā
+Ogre3.jpg|Ogres aerofoto no Pārogres puses
+4maijs karogi Brīvības iela 2019.jpg|Brīvības ielas promenāde valsts svētkos
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Commons category|Ogre, Latvia|Ogre}}
+* [http://www.ogresnovads.lv/ Ogres novada oficiālā mājaslapa]
+* [http://www.ogresmuzejs.lv/ Ogres Vēstures un mākslas muzejs]
+* [http://www.ogrenet.lv/ Ogres novada populārākais ziņu portāls]
+* [https://web.archive.org/web/20100530015555/http://www.latvijascentrs.lv/ Ogres novada Tūrisma informācijas centrs]
+
+{{Ogres novads}}
+{{Latvijas pilsētas}}
+{{Latvijas novadu centri}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Ogres rajons}}
+{{Ogres apriņķis}}
+{{Rīgas apriņķis}}
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Ogre| ]]

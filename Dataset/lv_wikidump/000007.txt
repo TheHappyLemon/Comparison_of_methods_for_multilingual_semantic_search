@@ -1,0 +1,9 @@
+'''Hī kvadrāta kritērijs''' ir biežāk izmantotais no [[Neparametriskā statistika|neparametriskās statistikas rādītājiem]]. Ar tā palīdzību ir iespējams noteikt, vai rezultāti kādā mērījumā ir atbilstoši kādam teorētiskam sadalījumam vai nē. Hī kvadrātu izmanto gadījumos, ja visiem rezultātiem būtu jāsadalās vienlīdzīgi visā mērījumu skalā, bet ir aizdomas, ka tā varētu nenotikt. Piemērs ir spēļu metamā kauliņa pārbaude. Teorētiski, metot kauliņu 300 reizes, katram ciparam būtu jāizkrīt līdzīgu skaitu reižu (šinī gadījumā aptuveni 50). Ja kauliņš šķiet neprecīzs, piemēram, ir aizdomas, ka sešinieks izkrīt pārāk bieži, tad, izmantojot '''Hī kvadrāta kritēriju''', to ir iespējams noskaidrot. Protams, tāpat kā visās citās statistikas metodēs, jo mērījumu skaits ir lielāks, jo metode sniegs precīzāku atbildi.
+
+Hī-kvadrāta (x2) kritēriju izmanto, lai pārbaudītu, vai:
+
+~ Empīriskais sadalījums atbilst teorētiskajam sadalījumam (piemēram, normālajam, binomiālajam, Puasona, vienmērīgajam.);
+
+~ Divas statistiskās pazīmes ir neatkarīgas viena no otras.
+
+[[Kategorija:Statistika]]

@@ -1,0 +1,37 @@
+[[Attēls:Dumper Truck.JPG|thumb|300px|Būvniecībā izmantojams pašizgāzēja kravas auto]]
+[[Attēls:DMG-lastwagen-cannstatt-1896.jpg|thumb|''Daimler-Lastwagen'', 1896]]
+'''Kravas automašīna''' ir [[mehāniskais transportlīdzeklis]], kas paredzēts dažādu [[krava|kravu]] pārvadāšanai. Kravas automašīnas var stipri atšķirties pēc izmēriem, jaudas un konfigurācijas; izmēros mazākās kravas automašīnas var būt mehāniski līdzīgas [[vieglā automašīna|vieglajām automašīnām]]. Kravas automašīnas mēdz būt ar dažādiem speciālajiem aprīkojumiem, piemēram [[ugunsdzēsēju automašīna]] un [[betonmaisītājs]].
+
+Mūsdienu kravas automašīnas lielākoties ir aprīkotas ar [[dīzeļdzinējs|dīzeļdzinējiem]], tomēr ASV, Kanādā un Meksikā maza un vidēja izmēra kravas automašīnas joprojām tiek aprīkotas ar [[benzīna dzinējs|benzīna dzinējiem]]. Eiropas Savienībā transportlīdzekļi ar [[kopējā pašmasa|kopējo pašmasu]] līdz 3,5 tonnām tiek klasificēti kā [[vieglā kravas automašīna|vieglās kravas automašīnas]].
+
+== Kravas automašīnu klasifikācija ==
+
+=== Vispārīga uzdevuma automobiļi ===
+* '''bortu automobiļi''', kuriem ir [[koks|koka]] vai [[metāls|metāla]] kravas kaste un platforma dažādu gabalkravu vai beramkravu pārvadāšanai un kuros kravas aizsargāšanai pret mitrumu un putekļiem izmanto slēgtu kravas kasti vai [[brezents|brezenta]] tentu.
+* '''uzlabotas pārgājības''' trīsasu automobiļi, kuriem visi zemspiediena [[riepa|riepu]] riteņi ir dzenoši un kurus izmanto tādām pašām vajadzībām kā bortu automobiļus, pie tam papildus apgādā ar vinču iestigušas mašīnas izvilkšanai uz ceļa.
+* '''vilcējautomobiļi''', kas pēc uzbūves atgādina bortu automobiļus, tikai tiem nav kravas kastes. Izšķir divu tipu vilcējautomobiļus — divasu vai trīsasu balastvilcējus, kam kravas kastes vietā atrodas balasts ([[smilts]], betona bloki vai čuguna lējumi) un aiz kabīnes ir vinča kravas uzvilkšanai uz platformas vai paša balastvilcēja izvilkšanai uz ceļa, un divasu vai trīsasu [[seglvilcējs|seglvilcējus]], kurus lieto tikai kopā ar [[puspiekabe|puspiekabēm]] un kuriem kravas kastes vietā ir seglierīce, kas šarnīrveidā savienota ar puspiekabi.
+
+=== Pašizgāzējautomobiļi ===
+Tos izmanto dažādu beramkravu (akmeņu, šķembu, smilts, oļu, [[grants]] u. tml.) pārvadāšanai. Šos automobiļus parasti izgatavo uz standarta kravas automobiļu šasijām. Kravas kastes šķērsgriezumā ir taisnstūra, siles vai pusovāla forma, garengriezumā — taisnstūra, siles vai kausa forma. Kravas krišanu uz šofera kabīnes novērš kravas kastes pagarinājums. Pašizgāzējautomobiļus izkrauj, atverot aizvaru kravas kastes lejasdaļā un sagāžot kravas kasti uz labajiem (kreisajiem) sāniem vai aizmuguri. Būvmateriālu karjeros, atklātās raktuvēs un lielu hidrostaciju būvdarbos izmanto lieljaudas pašizgāzējautomobiļus, kuru kravas kastēm ir kausa forma, pie tam nav pakaļējā borta.
+
+=== Speciālie kravas automobiļi ===
+Tos izveido uz parasto kravas automobiļu šasijām. Kravas kastes vietā šiem automobiļiem uzmontē tvertnes, maisītājus, [[cisterna]]s u.tml. Speciālie automobiļi var būt divasu vai trīsasu automobiļi, kā arī autovilcieni (vilcējs plus piekabe vai puspiekabe). Bieži speciālos automobiļus apgādā ar dažādām tehnoloģiskajām palīgiekārtām sūkņiem (cisternu automobiļus), sildītājiem (bituma pārvadāšanas automobiļi) u.c.
+
+=== Kravas automobiļu piekabes ===
+Kravas transportlīdzekļiem ir dažādu veidu piekabes, kas tiek izvēlētas atbilstoši kravas īpašībām, apjomam un izmēram. Klasiska tenta puspiekabe ir plaši izplatīta, jo tajā ir iespējams vest gan sīkpakas, gan trauslus priekšmetus, gan arī iekārtas un citus transportlīdzekļus, piemēram, vieglās automašīnas. “Mega treileris” ir puspiekabe, kuras augstums ir vienāds visā tās garumā — šāda veida piekabe tiek izmantota augstākām kravām. Platformas piekabe tiek izmantota lielgabarīta vai smagsvara kravu pārvadājumiem. Refrižeratora piekabe tiek izmantota tādu kravu transportēšanai, kam nepieciešama īpaša [[temperatūra]]s kontrole, turpretī cisternas piekabi izmanto šķidrumu pārvadāšanai.
+
+== Skatīt arī ==
+* [[Vieglā automašīna]]
+* [[Automašīna]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.truck-net.eu ''Truckportal''] {{de ikona}}
+
+
+{{Auto-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Automašīnas]]

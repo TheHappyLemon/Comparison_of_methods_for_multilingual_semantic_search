@@ -1,0 +1,94 @@
+{{navbox
+| name  = Linux-distro
+| title = [[Linux distributīvs|''Linux'' distributīvi]] ([[Linux distributīvu salīdzinājums|salīdzinājums]])
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+| group1 = ''[[Android]]''
+| list1  = 
+* ''[[CyanogenMod]]''
+* ''[[LineageOS]]''
+* ''[[Remix OS]]''
+
+| group2 = ''[[Arch Linux]]''
+| list2  = 
+* ''[[Manjaro Linux]]''
+* ''[[Parabola GNU/Linux-libre]]''
+
+| group3 = ''[[Debian]]''
+| list3  = 
+* ''[[Deepin]]''
+* ''[[gNewSense]]''
+* ''[[Kali Linux]]''
+* ''[[Knoppix]]''
+* ''[[Libranet]]''
+* ''[[Linspire]]''
+* ''[[Maemo]]''
+* ''[[SteamOS]]''
+* ''[[Tails]]''
+* ''[[Xandros]]''
+
+{{Navbox|child
+|group1 = ''[[Ubuntu Linux]]''
+|list1 = 
+* oficiāli:
+* ''[[Edubuntu]]''
+* ''[[Kubuntu]]''
+* ''[[Lubuntu]]''
+* ''[[Ubuntu MATE]]''
+* ''[[Ubuntu Studio]]''
+* ''[[Xubuntu]]''
+
+* neoficiāli:
+* ''[[Baltix]]''
+* ''[[elementary OS]]''
+* ''[[Linux Mint]]''
+* ''[[Trisquel]]''
+}}
+
+| group4 = ''[[Fedora]]''
+| list4  = 
+* ''[[BLAG Linux and GNU]]''
+
+{{Navbox|child
+|group1 = ''[[Red Hat Enterprise Linux|Red Hat]]''
+|list1 = 
+* ''[[CentOS]]''
+* ''[[Oracle Linux]]''
+* ''[[Scientific Linux]]''
+}}
+
+| group5 = ''[[Gentoo]]''
+| list5  = 
+* ''[[Chrome OS]]''
+* ''[[Sabayon Linux]]''
+
+| group6 = ''[[Mandriva Linux]]''
+| list6  = 
+* ''[[Mageia]]''
+* ''[[PCLinuxOS]]''
+
+| group7 = ''[[Slackware]]''
+| list7  = 
+* [[Austrumi Linux|Austrumi ''Linux'']]
+* ''[[Slax]]''
+* ''[[VectorLinux]]''
+
+| group8 = citi
+| list8  = 
+* [[CRUX]]
+* ''[[Frugalware Linux]]''
+* ''[[Lietukas]]''
+* ''[[MeeGo]]''
+* ''[[openSUSE]]''
+* ''[[Puppy Linux]]''
+* ''[[Sailfish OS]]
+* ''[[SliTaz]]''
+* ''[[Zenwalk]]''
+
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Navigācijas veidnes]]
+[[Kategorija:Linux distributīvi]]
+</noinclude>

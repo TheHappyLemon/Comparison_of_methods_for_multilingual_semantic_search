@@ -1,0 +1,67 @@
+{{Citas nozīmes|[[Lielupe]]s satekupi|Mūsa (nozīmju atdalīšana)|Mūsa}}
+{{Upes infokaste 
+| nosaukums         = Mūsa
+| citvalsts         = Lietuva
+| citnosaukums      = Mūša
+| citvaloda         = lt
+| citvaloriģin      = Mūša
+| attēls            = Mūsa pie Bauskas 1999-07-10.jpg
+| attēla_izmērs     = 
+| paraksts          = Mūsa pie [[Bauska]]s
+  | karte             = Latvijas upe Musa karte.png
+  | kartes_paraksts   = Mūsa, [[Lielupe]] un [[Babītes ezers]]
+  | kartes_izmērs     = 
+| izteka            = [[Mūšas tīrelis]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Lielupe]]
+| sāk_plat_d=56 | sāk_plat_m=12 | sāk_plat_s=38 | sāk_plat_NS=N 
+| sāk_gar_d=23 | sāk_gar_m=13 | sāk_gar_s=01 | sāk_gar_EW=E 
+| iet_plat_d=56 | iet_plat_m=24 | iet_plat_s=10 | iet_plat_NS=N 
+| iet_gar_d=24 | iet_gar_m=09 | iet_gar_s=35 | iet_gar_EW=E 
+| baseina_valstis   =
+| tek_caur          = {{LTU}}<br />{{LAT}}
+| garums            = 164
+| garums_latvijā    = 26
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 73
+| caurtece          = 
+| gada_notece       = 0,83
+| baseins           = 5320,0
+| baseins_latvijā   = 151,5
+| pietekas          = [[Lēvene (upe)|Lēvene]], [[Pīvesa]]
+}}
+
+'''Mūsa''' ir viena no [[Lielupe]]s satekupēm. [[Upe]] sākas [[Lietuva]]s teritorijā. Aiz [[Bauskas pils|Bauskas pilsdrupām]], Mūsai satekot ar [[Mēmele|Mēmeli]], rodas [[Lielupe]].
+
+== Upes raksturojums ==
+Upe ir mierīga, tās krasti vietām ir aizauguši. Tuvāk [[Bauska]]i upes krasti kļūst stāvāki.
+Tā ir sena [[Zemgale (valsts)|zemgaļu valsts]], vēlāk Livonijas-Lietuvas robežupe. Arī mūsdienās tā plūst 15 - 30 km attālumā no [[Latvijas - Lietuvas robeža]]s, pie kam Latvijas teritorijā tās garums ir tikai 20 km, bet 6 km tā ir robežupe.
+
+== Pietekas ==
+* [[Vilkvede]] (LT), 
+* [[Voverķe]] (LT), 
+* [[Kulpe]] (LT), 
+* [[Kroja (Mūsas pieteka)|Kroja]] (LT), 
+* [[Daugivene]] (LT), 
+* [[Mažupe (Mūsas pieteka)|Mažupe]] (LT), 
+* [[Lēvene (upe)|Lēvene]] (LT), 
+* [[Pivesa]] (LT), 
+* [[Viekšma]] (LT), 
+* [[Tatula]] (LT), 
+* [[Ceraukste]] (LV).
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Lielupes pietekas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bauskas novada upes]]
+[[Kategorija:Lietuvas upes]]
+[[Kategorija:Latvijas robežupes]]
+[[Kategorija:Brunavas pagasts]]
+[[Kategorija:Ceraukstes pagasts]]
+[[kategorija:Mūsa]]
+[[Kategorija:Bauska]]

@@ -1,0 +1,69 @@
+'''Ģeoloģija''' (no {{val|el|γη (gê)}} — ‘zeme’ un ''λόγος (logos)'' — ‘runa’, burtiski — ‘runa par zemi’) ir zinātne par [[Zeme]]s uzbūvi un tās attīstības vēsturi. Ģeoloģija galvenokārt pēta Zemi veidojošo [[cietviela|cietvielu]], tās uzbūvi, struktūru, fiziskās īpašības, vēsturi un procesus, kas veido Zemi. Ģeoloģija ir viena no [[Zemes zinātne|Zemes zinātnēm]].
+
+Ģeoloģijas zinātnes attīstības gaitā ir noteikts, ka [[Zemes vecums]] ir aptuveni 4,6 miljardi (4,6{{E|9}}) gadu. Ģeologi meklē un pēta Zemes [[derīgie izrakteņi|derīgos izrakteņus]], piemēram [[nafta|naftu]], [[zelts|zeltu]], [[dzelzsrūda|dzelzsrūdu]], būvniecībai derīgās [[smiltis]] un tā tālāk.
+
+Ziņas par [[minerāls|minerālu]] īpatnībām, [[vulkāns|vulkānu]] darbību, [[zemestrīce|zemestrīcēm]] un krasta līniju pārvietošanos ir sastopamas jau seno ēģiptiešu, ķīniešu, indiešu, grieķu un romiešu darbos. 17. gadsimtā tika izvirzītas pirmās kosmogoniskās hipotēzes, izdotas pirmās ģeoloģiskās kartes. 18. gadsimta beigās ģeoloģija (ģeognozija) izveidojās par patstāvīgu zinātni — līdz tam to uzskatīja galvenokārt par [[mineraloģija]]s vai [[fizioģeogrāfija]]s nozari.
+
+== Vēsture ==
+Par nozīmīgāko antīkās zinātniskās literatūras darbu ģeoloģijas jomā uzskata [[Aristotelis|Aristoteļa]] skolnieka [[Teofrasts|Teofrasta]] (372—287 p.m.ē.) darbu "''Peri Lithon''" (''Par akmeņiem''). Šis darbs noteica ģeoloģijas pamatnostādnes gadu tūkstošiem ilgi, piemēram, darbā definētā [[pārakmeņojums|pārakmeņojumu]] interpretācija saglabājās līdz [[viduslaiki|viduslaiku]] beigām. "''Peri Lithon''" tika tulkots [[latīņu valoda|latīniski]] un vairākās citās valodās.
+
+[[Senā Roma|Senās Romas]] laikos [[Plīnijs Vecākais]] publicēja ļoti izvērstus aprakstus par daudziem [[minerāls|minerāliem]] un [[metāls|metāliem]], kas viņa laikā jau bija ieguvuši praktisku pielietojumu. Plīnijs Vecākais ir viens no pirmajiem, kas izdarīja pareizu pieņēmumu par to, ka [[dzintars]] ir pārakmeņoti [[priedes|priežu]] [[sveķi]] — viņš savu pieņēmumu pamatoja ar to, ka dzintarā atrodami kukaiņi. Viņš arī lika pamatus [[kristalogrāfija]]i, secinādams, ka [[dimants|dimanta]] [[kristāls|kristāliem]] piemīt [[oktaedrs|oktaedra]] forma.
+
+Daļa mūsdienu zinātnieku, piemēram, [[Fīldings H. Gerisons]], uzskata, ka ģeologijas zinātnes aizsākumi meklējami [[musulmaņu pasaule|musulmaņu pasaulē]]<ref name="Kadioglu">[[Fīldings H. Gerisons]] ''Medicīnas vēsturē'' (''History of Medicine'') rakstījis:
+<br />{{quote|"[[saracēnis|Saracēņi]] paši bija ne tikai [[algebra]]s, [[ķīmija]]s un ģeoloģijas aizsācēji, viņi ieviesa arī daudzus tā saucamos civilizācijas uzlabojumus, piemēram, ielas apgaismojumu, logu rūtis, salūtu, stīgu instrumentus, kultivētus augļus, smaržas, garšvielas u.c."}}</ref>.
+
+== Ģeoloģiskā laika skala ==
+{{pamatraksts|ģeoloģiskā laika skala}}
+[[Ģeoloģiskā laika skala]] ir [[hronoloģija|hronoloģiska]] mērīšanas sistēma, kuru izmanto [[ģeologs|ģeologi]], [[paleontoloģija|paleontologi]] un [[Zemes zinātne|Zemes zinātnieki]], lai aprakstītu laiku un attiecības starp notikumiem [[Zeme]]s vēsturē.
+
+[[Radiometrija|Radiometriskie]] dati liecina, ka Zemes vecums ir aptuveni 4,54 [[miljards|miljardi]] gadu. Aptuveni pirms 4 miljardiem gadu beidzās [[hadejs|hadeja]] eona un sākās [[arhajs]]. Pirms 2500 miljoniem gadu sākās [[proterozojs]], bet pēc tam pirms aptuveni 542 miljoniem gadu sākās [[farenozojs]], kas turpinās joprojām.
+
+== Nozares un saistītās disciplīnas ==
+{{colbegin|3}}
+* [[kristalogrāfija]],
+* [[mineraloģija]],
+* [[petrogrāfija]],
+* [[litoloģija]],
+* [[sedimentoloģija]],
+* [[struktūrģeoloģija]],
+* [[tektonika]],
+* [[vulkanoloģija]],
+* [[vēsturiskā ģeoloģija]],
+* [[paleontoloģija]],
+* [[glacioloģija]],
+* [[stratigrāfija]],
+* [[kvartārģeoloģija]],
+* [[ģeofizika]],
+* [[izrakteņu ģeoloģija]],
+* [[hidroģeoloģija]],
+* [[inženierģeoloģija]],
+* [[militārā ģeoloģija]],
+* [[reģionālā ģeoloģija]],
+* [[jūras ģeoloģija]],
+* matemātiskā ģeoloģija, 
+* ekonomiskā ģeoloģija,
+* medicīnas ģeoloģija,
+* ģeoarheoloģija.
+{{colend}}
+
+== Ģeoloģiskie pētījumi ==
+Ģeoloģisko pētījumu pamatā ir tā sauktie lauka darbi, kas parasti norisinās [[ekspedīcija|ekspedīcijās]], izmantojot gan ģeoloģiskās metodes, gan arī ģeogrāfiskās un ģeofiziskās metodes. Pēc lauka darbiem seko savākto materiālu un paraugu [[kamerālā apstrāde]], tas ir, laboratorijas analīzes un visu iegūto datu izvērtēšana un teorētiska apkopošana.
+
+Ģeoloģiskie pētījumi galvenokārt balstās uz tiešiem [[ieži|iežu]] novērojumiem. Tos apraksta un dokumentē dabiskos [[atsegums|atsegumos]] un vietās, kur tie tiek atsegti mākslīgi. Nereti izmanto arī [[aeroģeoloģija|aeroģeoloģiskos]] novērojumus un novērojumus, kurus iegūst no [[Zemes mākslīgais pavadonis|Zemes mākslīgajiem pavadoņiem]].
+
+== Skatīt arī ==
+* [[Ģeogrāfija]]
+
+== Atsauces ==
+{{commonscat|Geology|ģeoloģija}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ģeoloģija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ģeoloģija| ]]

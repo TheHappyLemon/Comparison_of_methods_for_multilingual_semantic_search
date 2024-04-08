@@ -1,0 +1,92 @@
+'''Datubāzu pārvaldības sistēma (DBPS)''', arī '''datubāzu pārvaldības sistēma''' ({{val-en|Database management system (DBMS)}}), ir [[programma]] (vai programmu kopums), kas nodrošina [[Datubāze|datubāzu]] pārvaldību. DBPS ļauj ievietot, nolasīt, modificēt un dzēst ierakstus, kā arī veic citas ar datu glabāšanu un apstrādi saistītas darbības datubāzē.
+
+Iespējamas ir dažādas programmatūras arhitektūras: mazām datubāzēm visa funkcionalitāte ir ietverta vienā [[Datorprogramma|programmā]], savukārt lielākās datubāzēs gandrīz vienmēr izmanto [[klients-serveris|klienta-servera]] arhitektūru. Datubāzu pārvaldības sistēmas sastāv no [[Programmatūra|programmatūras]], kas operē ar datubāzēm, nodrošinot atmiņas, drošības, piekļuves, dublēšanas un citas iespējas. Datubāzu pārvaldības sistēma var tikt klasificēta, balstoties uz datubāzes modeli, kuru tā atbalsta, piemēram, [[Relāciju datubāzes|relāciju modeli]] vai [[XML]], datoru tipa, kuru tā atbalsta, piemēram, [[serveris|servera]] klastera vai [[mobilais telefons|mobilā telefona]], vaicājumvalodas piekļuves, piemēram, [[SQL]] vai [[XQuery]], [[Veiktspēja (datorika)|veiktspēju]], piemēram, maksimuma skalas vai maksimālā ātruma vai citiem rādītājiem. Dažas datubāzu pārvaldības sistēmas ietver sevī vairāk nekā vienu no šiem klasifikācijas punktiem, piemēram, vairākas vaicājumvalodas. Gandrīz visās [[Datubāze|datubāzu]] [[Programmatūra|programmatūrās]] ir iebūvēts Open Database Connectivity (ODBC) [[draiveris]], kas ļauj datubāzē [[Integrēšana|integrēt]] citas datubāzes.
+
+DBPS [[priekšgalsistēma]] (klients) atbild par datu ievadīšanu, pieprasīšanu un pārskatīšanu. [[Aizmugursistēma]] ([[serveris]]) ir programmu kopums, kas kontrolē datu glabāšanu un atbild uz priekšgalsistēmas pieprasījumiem. Meklēšanu un kārtošanu parasti veic [[serveris]]. Eksistē ļoti dažādi datubāzu īstenojumi, sākot no vienkāršākajiem ar vienkāršām tabulām, kas katra tiek glabāta savā [[Datne|datnē]], līdz pat ļoti lielām datubāzēm ar miljoniem ierakstu, kuri tiek glabāti daudzos datu nesējos. Starp DBPS ir lielas atšķirības — tās var ietvert vai neietvert datu pareizuma pārbaudes, datu [[Integrēšana|integritātes]] un konsistences nodrošināšanu, tās var spēt vienlaicīgi strādāt ar vienu procesu, bet ir arī sistēmas, kas ļauj lielam lietotāju skaitam reizē mainīt [[Dati|datus]], novēršot konfliktsituācijas.
+
+== Datubāzu pārvaldības sistēmas mērķi ==
+Datubāzu pārvaldības sistēmas mērķi ir šādi:
+# Nošķirts datu apraksts no datu apstrādes
+# Loģiska datu neatkarība
+# Fiziska datu neatkarība
+# Procedurāla un neprocedurāla saskarne
+
+Parasti datubāzes izmanto divu veidu lietotāji: gala lietotāji ar klienta lietojumprogrammu, jeb lietotāja saskarni, un programmētāji. Gala lietotājiem jānodrošina iespēja atlasīt un izmainīt datus. Gala lietotājiem nav atbilstošu profesionālu zināšanu, tāpēc nepieciešama saskarnes valoda, kuru viegli iemācīties. Šādas valodas ir neprocedurālas, bet gan formālas, ar iespējām vizuāli, vai kādā citā deklaratīvā veidā izvēlēties datus, kurus nepieciešams atlasīt vai izmainīt.
+
+Programmētāji savukārt raksta programmas, lietojot klasiskas programmēšanas konstrukcijas, un tādām jābūt pieejamām, piekļūstot datubāzei. Jābūt speciālām komandām datu ievadīšanai datubāzē un datu atlasīšanai no datubāzes. Šādas komandas var būt gan procedurālas, gan neprocedurālas, bet tām ir jānodrošina viena ieraksta nogādāšana līdz apstrādājošajam programmas kodam.<br />
+
+5. Datubāzu operāciju efektīva izpilde<br />
+6. Viegla datu administrēšana un kontrole<br />
+
+DBPS ir jānodrošina spēcīgi rīki datu aprakstīšanai. Rīkiem ir jāpiedāvā laba kontrole pār dažādiem datu aprakstiem, ieskaitot gan fizisko, gan loģisko aprakstu. Lielākā nozīme ir datu konsistencei starp dažādiem datu aprakstiem. Lai veicinātu lietojumprogrammas attīstību un tālāku izstrādi, datu aprakstiem jābūt viegli pieejamiem un viegli maināmiem. Vieglai datu pārraudzībai nepieciešami lietotājam draudzīgi rīki, kas palīdzētu datu struktūru veidošanā un apstrādē.<br />
+
+7. Minimāla redundance un minimāla aizņemtā atmiņa<br />
+8. Datu integritāte<br />
+9. Datu koplietošana<br />
+10. Datu drošība<br />
+
+Datu drošībai ir divi aspekti. Pirmkārt, fiziskā drošība. DBPS jānodrošina integritāte dažādos sistēmas kļūmju vai atteices brīžos, gan maza apjoma, kad tiek zaudēta operatīvās atmiņas informācija, gan arī nopietnākos gadījumos, kad datu diski ir bojāti un datubāzes daļas ir zudušas. Labai DBPS ir jānodrošina pilnīga atjaunošanās iespēja abos gadījumos.
+Otrkārt, DBPS ir jānodrošina aizsardzība pret neautorizētu jeb nesankcionētu piekļuvi datiem un datu apstrādei. Jānodrošina datu kontroles un apstrādes tiesību piešķiršanas/atņemšanas mehānisms.
+
+== Datubāzu pārvaldības sistēmu izstrādātāji ==
+DBPS izstrādātājus nosacīti var iedalīt divās daļās: slēgtā koda un atvērtā koda DBPS. Atvērtā koda divas populārākās DBPS ir [[MySQL]] un [[PostgreSQL]]. Savukārt slēgtā koda DBPS vairāk nekā 80 % tirgus daļu, saskaņā ar ''[[Gartner]]'' 2006. gada pētījumu, aizņem trīs izstrādātāji: [[Oracle Corporation]], [[Microsoft]] un [[IBM]], kuri izstrādā attiecīgi [[Oracle datubāze|Oracle]], [[SQL Server]] un [[DB2]].
+
+Ir minimāls funkciju kopums, ko visas DBPS veic vienādi, tai pašā laikā katrā no tām ir savas arhitektūras un implementēšanas atšķirības, kas nozīmē to, ka konkrētas lietotnes izstrādē ir jāņem vērā konkrētā izvēlētā DBPS. Tas attiecas arī uz izmantoto [[SQL]] valodu — praktiski katrs DBPS izstrādātājs ir ieviesis savus papildinājumus šim standartam.
+
+== Tēmas ==
+{{Slikts tulkojums}}
+
+=== Ārējo, loģiskā un iekšējais skats ===
+Datubāzes pārvaldības sistēma dod iespēju daudziem dažādiem lietotājiem apmainīties ar datiem un apstrādātiem resursiem. Esot daudz dažādiem lietotājiem, rodas vajadzības pēc daudz un dažādām datubāzēm. Jautājums ir: Kā var vienu, vienotu datubāzi radīt atbilstošu tik daudziem lietotājiem ar tik dažādām prasībām?
+
+DBVS samazina šīs problēmas, sniedzot divus skatus datubāzē: malas (vai lietotāja viedokli), loģiski ņemot vērā (vai konceptuālo skatu) un fizikālās (vai iekšējās) skatīt. Lietotāja, ņemot vērā datubāzes programma ir datu formātā, kas ir nozīmīgs lietotājam un programmatūras, kas apstrādā šos datus.
+
+Viens izturība DBMS ir tas, ka lai gan parasti ir tikai viens konceptuāls (vai loģiski) un fizikālās (vai iekšējās) Ņemot vērā datus, var būt bezgalīgs skaits dažādu ārējo viedokli. Šī funkcija ļauj lietotājiem redzēt datubāzē dati, kas ir vairāk uzņēmējdarbību saistītos veidā, nevis no tehniskā, pārstrādes viedokļa. Līdz ar to loģisks skats attiecas uz veidu, kādā lietotājs apskata datiem, un fizisko viedokli attiecas uz veidu, kādā dati tiek fiziski glabāti un apstrādāti.
+
+=== Funkcijas un iespējas ===
+Alternatīvi, un īpaši saistībā ar datubāzes pārvaldības relāciju modeli, relācija starp atribūtu, kas ņemts no speciālas domēnu virknes ir redzams kā primārais. Piemēram, datubāzē var norādīt ka mašīna, kas oriģināli ir bijusi sarkanā krāsā var izbalēt uz rozā krāsu laika gaitā, ja tā bija kāda no īpašajiem ''modeļiem''. Šādas augstākās loģiskās attiecības nodrošina informāciju visiem pamatdomēniem vienlaicīgi, nevienam netiek dotas priekšrocības pār citiem.
+
+=== Vienkārša definīcija ===
+Datubāzes pārvaldības sistēma ir sistēma, kurā saistītās dati tiek saglabāti efektīvi un kompakts veidā. "Efektīvs" nozīmē to, ka dati, kas tiek glabāti DBVS var piekļūt ātri un "kompakts" nozīmē, ka dati, aizņem ļoti maz vietas datora atmiņā. Frāze "saistītie dati" ir nozīmē, ka dati, ko glabā attiecas uz konkrēto tēmu.
+
+Specializētas datubāzes pastāvēja zinātnes, ģeotelpisko, attēlu, dokumentu uzglabāšana un kā izmanto. Funkcionalitāti, kas novilkta no šādiem pieteikumiem ir sākusi parādās vispārizglītojošās DBMSs, kā arī. Tomēr galvenais uzsvars, vismaz tad, kad mērķis ir tirdzniecības datu apstrādes tirgus ir joprojām apraksta atribūtiem par atkārtotiem reģistru struktūru.
+
+Līdz ar to šodien DBMSs roll kopā bieži nepieciešamas pakalpojumus vai funkcijas, atribūtu vadību. Ar ārējām šādu funkcionalitāti DBVS, pieteikumiem efektīvi apmainās ar kodu un tiek atbrīvoti no daudz iekšējo sarežģītību. Funkcijas, ko parasti piedāvā datubāzu pārvaldības sistēmām ir:
+
+; Vaicājumu iespējas : Vaicājumiem ir process pieprasa atribūtu informāciju no dažādām perspektīvām un kombinācijas faktoriem. Piemērs: "Cik daudz 2 durvju automašīnām Texas, ir zaļš?" Datubāzes vaicājumu valodas un ziņo rakstnieks ļauj lietotājiem interaktīvi izjautāt datubāzes, analizēt datus un aktualizētu saskaņā ar lietotāju privilēģijas uz datiem.
+
+; Backup un replikācijas : Kopijas atribūti jāveic regulāri, ja primārā diski vai cita iekārta ir bojāta. Periodiski kopija atribūtus var arī izveidot, lai tālākā organizācija, kas nav viegli piekļūt oriģinālu. DBVS parasti nodrošina pakalpojumu, lai atvieglotu procesu, ieguvi un izplatīšanu atribūtu kopas. Ja dati ir jāatkārto starp datubāzes serveriem, lai informācija būtu saskanīga visā datubāzes sistēmas un lietotāji nevar pateikt, vai pat zināt, kas servera DBVS tie izmanto, sistēma esot eksponēt replikācijas pārredzamību.
+
+; Noteikumu piemērošanu : Bieži ir viens grib piemērot noteikumus atribūtiem, lai atribūti ir tīri un uzticami. Piemēram, mums var būt noteikums, ka saka, katrai automašīnai var būt tikai viens dzinējs, kas saistītas ar to (ko Engine numurs). Ja kāds mēģina saistīt otru dzinēju ar konkrētu auto, mēs vēlamies DBVS liegt šādu lūgumu, un parādīt kļūdas ziņojumu. Tomēr, ar izmaiņām modeļu specifikācijas, kā šajā piemērā, hibrīda gāzes elektriskajos automobiļos, noteikumi, var būt nepieciešams mainīt. Ideālā šādiem noteikumiem jābūt iespējai pievienot un noņemt pēc vajadzības, bez nozīmīgiem datiem izkārtojumu redizains.
+
+; Drošības : Drošības apsvērumu dēļ ir vēlams ierobežot, kas var redzēt vai mainīt konkrētu īpašību vai grupām atribūtiem. Tas var būt tieši pārvaldīs atsevišķi, vai personu sadale un privilēģijas grupām, vai (visvairāk izstrādātu modeļi) starpniecību piešķiršanu indivīdiem un grupām, lomām, kas tam piešķirtas tiesības.
+
+; Aprēķināšana : Kopējo aprēķinu pieprasīts atribūti ir skaitīšana, summējot, vidēji, šķirošana, grupēšana, savstarpējas atsauces utt. Vietā, lai katra datora lietojumprogrammu īstenotu šos no nulles, tās var paļauties uz DBVS sniegt šādiem aprēķiniem.
+
+; Pārmaiņām un piekļuves reģistrācija : Tajā aprakstīta, kas piekļūst kuru atribūti, kas tika mainīts, un, kad tas tika mainīts. Iellagošanās pakalpojumi ļauj šo, reģistru pieejamību notikumiem un izmaiņām.
+
+; Automatizētā optimizācija : Par bieži atgadās izmantošanas modeļu vai pieprasījumiem, daži DBVS var pielāgot sev, lai uzlabotu ātrumu mijiedarbību. Dažos gadījumos DBVS būs tikai nodrošina instrumentus, lai pārraudzītu sniegumu, ļaujot cilvēkiem ekspertu veiktu vajadzīgos pielāgojumus izvērtējot savākto statistikas datu.
+
+=== Metadatu krātuve ===
+Metadati ir dati, kas apraksta datus. Piemēram, uzskaitot, kas apraksta to, ko atribūti ir atļauts datu kopas sauc par "meta-informāciju."
+
+=== Izvērstā DBMS ===
+Uzlabotas DMBS piemērs Distributed Data Base Management System (DDBMS), datu vākšana, kas loģiski pieder pie tās pašas sistēmas, bet ir sadalīts no datora tīkla portālos. Divi aspekti dalītās datubāzes, ir izplatīšanas un loģiskas saistības:
+* Izkliede: Tas, ka dati nav rezidenti vienā un tajā pašā vietā, lai mēs varam atšķirt dalītās datubāzes no viena, centralizētu datubāzi.
+* Loģiskas saistības: apstāklis, ka dati ir dažas īpašības, kuras tie tos kopā, lai mēs varētu atšķirt izplatīts datubāzi no komplekts ar datubāzēm vai datnēm, kas ir rezidenti dažādās vietās datortīklā.
+
+== Biežāk izmantotās datubāzu pārvaldības sistēmas ==
+* [[dBASE]]
+* [[FileMaker]]
+* [[FoxPro]]
+* [[Microsoft Access]]
+* [[Microsoft SQL Server]]
+* [[MySQL]]
+* [[Oracle Database|Oracle]]
+* [[PostgreSQL]]
+* [[SQLite]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120328015652/http://www.gartner.com/it/page.jsp?id=507466 Gartner Says Worldwide Relational Database Market Increased 14 Percent in 2006]
+
+[[Kategorija:Datubāzes]]

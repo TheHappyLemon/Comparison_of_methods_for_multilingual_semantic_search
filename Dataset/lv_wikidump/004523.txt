@@ -1,0 +1,34 @@
+'''Portlandcements''' ir hidrauliska saistviela. Tas ir pelēks pulveris. Portlandcements ir nozīmīgākais [[cements|cementa]] paveids. To galvenokārt lieto [[betons|betona]] izgatavošanai.
+
+== Ražošana ==
+Portlandcementu ražo no [[kaļķakmens]] (var arī no [[krīts|krīta]]), [[māli]]em (var arī no māla slānekļa) un piedevām (parasti dzelzi saturoši rūpnieciskie atkritumi). Portlandcementa ražošana notiek 2 stadijās, un tās ir iespējams realizēt divās dažādās ģeogrāfiskās vietās (bet parasti tā nedara, jo transports ir dārgs):
+* cementa klinkera ražošana (sajauc un apdedzina izejvielu maisījumu)
+* cementa ražošana (klinkeru samaļ kopā ar piedevām (ģipsi))
+Cementa klinkera izejvielas parasti sajauc slapjā veidā. Pēc krāsnī ievadāmā maisījuma mitruma satura, klinkera ražošanas metodes iedala slapjajā un sausajā. Ar slapjo metodi var vieglāk iegūt homogēnu maisījumu, bet ir lielāks enerģijas patēriņs. Ar sauso metodi ir vairāk putekļu. Latvijā, [[brocēni|Brocēnos]] esošajā cementa rūpnīcā, cementu ražo ar sauso metodi. Jebkurā gadījumā krāsnī, saķepšanas zonā temperatūra sasniedz 1500 °C. Šādā temperatūrā sadeg visas [[organiskās vielas]], tāpēc šādā veidā var iznīcināt organiskas izcelsmas bīstamos atkritumus.
+
+Parasti cementa klinkeru apdedzina rotācijas krāsnīs. Rotācijas krāsns ir gara tērauda caurule, kas no iekšpuses pārklāta ar ugunsizturīga materiāla ķieģeliem (vismaz karstākajā galā). Caurule novietota slīpi un nostiprināta gultņos, lai varētu griezties ap savu asi. Pa augšējo galu ber (ja lieto sauso metodi) vai sūknē (la lieto slapjo metodi) izejvielu maisījumu. Pa apakšējo galu pūš iekšā gaisu un tajā galā arī atrodas deglis, kur dedzina kurināmo. Dūmi (ar putekļiem) nāk ārā pa augšējo galu. Lietojot sauso metodi, krāsnis ir īsākas, jo tur nav nepieciešama tik gara žāvēšanas zona.
+
+Sākumā, izejvielu maisījums izžūst (no tā aiziet prom mehāniski saistītais ūdens), pēc tam sadalās mālu minerāli (aiziet ķīmiski saistītais ūdens), pēc tam sadalās kalcija karbonāts, pēc tam māli daļēji izkūst un izreaģē ar izveidojušos kalcija oksīdu. Klinkeru pēc apdedzināšanas ir strauji jāatdzesē, lai nepaspētu izveidoties lieli kristāli.
+
+== Cementa minerāli ==
+Cements un tā izejvielu minerāli ir jauktie oksīdi, kuru ķīmisko formulu pieraksts ir relatīvi garš. Šī iemesla dēl, lieto saīsinātos apzīmējumus.
+* CaO - C
+* SiO<sub>2</sub> - S
+* Al<sub>2</sub>O<sub>3</sub> - A
+* H<sub>2</sub>O - H
+Piem. viens no galvenajiem cementa minerāliem - alīts (Ca<sub>3</sub>SiO<sub>5</sub>) tiek apzīmēts kā C<sub>3</sub>S.
+
+Galvenie cementa klinkera minerāli ir:
+* C<sub>3</sub>S - Alīts - trikalcija silikāts. Nodrošina ātru cietēšanu.
+* C<sub>2</sub>S - Belīts - diklacija silikāts. Cietē lēnāk, tāpēc cietēšānas procesā izdalās mazāk siltuma.
+* C<sub>3</sub>A - trikalcija alumināts. Cietē ļoti strauji, portlandcementā parasti nav lielos daudzumos.
+
+== Īpašības ==
+Cementa kvalitāti Latvijā nosaka cementa standarts LVS EN 197-1:2000. Galvenais nosakāmais parametrs tur ir spiedes stiprība pēc 28 dienu cietēšanas. Pēc tās cementu iedala 3 klasēs:
+* 32,5 - spiedes stiprība pēc 28 dienu cietēšanas ir lielāka par 32,5 MPa
+* 42,5 - spiedes stiprība pēc 28 dienu cietēšanas ir lielāka par 42,5 MPa
+* 52,5 - spiedes stiprība pēc 28 dienu cietēšanas ir lielāka par 52,5 MPa
+
+Cements cietē, tā minerāliem ķīmiski reaģējot ar ūdeni. Sākumā daļēji izšķīst [[ģipsis]] un reaģē ar C<sub>3</sub>A, veidojot kalcija hidroaluminātu (CAH), [[etringīts|etringītu]] un kalcija monosulfātu. Drusku lēnāk ar ūdeni reaģē C<sub>3</sub>S, veidojot amorfu kalcija hidrosilikāta (CSH) gelu. Šajā reakcijā izdalās [[kalcija hidroksīds]]. C<sub>2</sub>S hidratācija notiek ievērojami lēnāk. Visas šīs reakcijas ir eksotermiskas un to izdalītais siltums ir atkarīgs no reakciju ātruma. Cementa cietēšanas reakcijas ir heterogēnas - vispirms cementa graudu ārpusē izveidojas hidratācijas produktu gela slānis, kuram cauri difundē ūdens.
+
+[[Kategorija:Celtniecības materiāli]]

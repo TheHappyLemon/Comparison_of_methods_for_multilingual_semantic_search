@@ -1,0 +1,81 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Šarlruā
+ | official_name            = ''Charleroi''
+ | settlement_type          = [[Beļģijas pilsētu uzskaitījums|Pilsēta]]
+ | image_skyline            = Charleroi - place Charles II.jpg
+ | image_caption            = Skats uz Šarlruā no augšas
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Beļģija
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{karogs|Beļģija}}
+ | subdivision_type1        = Reģions
+ | subdivision_name1        = [[Attēls:Flag of Wallonia.svg|23px]] [[Valonija]]
+ | subdivision_type2        = [[Beļģijas provinces|Province]]
+ | subdivision_name2        = [[Eno]] 
+ | established_title        = Pirmo reizi minēta
+ | established_date         = 9. gadsimtā
+ | established_title2       = Dibināta
+ | established_date2        = 1666.
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 102.08
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2013
+ | population_footnotes     = 
+ | population_total         = 203871
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | latd = 50 | latm =24  | lats =  | latNS = N
+ | longd =04  | longm =26  | longs =  | longEW = E
+ | postal_code_type         = Pasta kodi
+ | postal_code              = 6000, 6001, 6010, 6020, 6030–6032, 6040–6044, 6060, 6061
+ | elevation_footnotes      = 
+ | elevation_m              = 
+ | website                  = {{url|www.charleroi.be/}}
+ | footnotes                = 
+}}
+
+'''Šarlruā''' ({{val|fr|/}}{{val|nl|/}}{{val|de|Charleroi}}) ir [[Beļģija]]s pilsēta valsts dienvidrietumu daļā, [[Valonija|Valonijā]], pie [[Sambra]]s upes. Atrodas 50 kilometrus uz dienvidiem no [[Brisele]]s, [[Ardēni|Ardēnu]] priekškalnēs. Lielākā [[Valonija]]s pilsēta. Atrodas apvidū, kurā vēsturiski attīstījusies kalnu un smagā rūpniecība. Arī mūsdienās pilsētas apkārtnē redzami milzīgi [[terikons|terikoni]] — nevērtīgo iežu kalni no šahtām.
+
+== Vēsture ==
+[[Attēls:Charleroi - Hôtel de Ville - 2012.jpg|thumb|200px|left|Šarlruā rātsnams.]]
+Pilsēta dibināta 1666. gadā kā [[Spānija|spāņu]] cietoksnis un tika nosaukts Spānijas karaļa [[Karloss II|Karlosa II]] vārdā.
+
+1693., 1746. un 1794. gadā pilsētu ieņēma [[Francija|franči]]. Pirms [[Vaterlo kauja]]s pilsētā uzturējās [[Napoleons]].
+
+Jau pirms 2000 gadiem pilsētas apkārtne bija pazīstama kā [[dzelzs rūda|dzelzs rūdu]] un [[akmeņogles|ogļu]] ieguves rajons, tāpēc 19. gadsimta sākumā Šarlruā kļuva par vienu no [[rūpnieciskā revolūcija|rūpnieciskās revolūcijas]] centriem [[Eiropa|Eiropā]]. Attīstījās ogļu ieguve, metalurģiskā un stikla rūpniecība. Kaut arī pēdējā ogļu šahta tika slēgta 1984. gadā, vēl aizvien Šarlruā ir viens no Eiropas lielākajiem smagās rūpniecības centriem.
+
+20. gadsimta 90. gados Šarlruā kļuva bēdīgi slavena kā maniaka [[Marks Ditrū|Marka Ditrū]] mītnes vieta.
+
+== Cilvēki ==
+Šarlruā dzimuši:
+
+* [[Žoržs Lemetrs]] (''Georges Lemaître'') (1894-1966) - astronoms, matemātiķis un [[katolisms|katoļu]] mācītājs
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Beļģija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Beļģijas pilsētas]]
+[[Kategorija:Eno]]

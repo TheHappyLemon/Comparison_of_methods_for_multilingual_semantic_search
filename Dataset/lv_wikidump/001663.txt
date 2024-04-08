@@ -1,0 +1,47 @@
+[[Attēls:Amine-2D-general.png|thumb|220px|Trīsaizvietotu amīnu vispārīgā struktūrformula]]
+'''Amīni''' ir [[ogļūdeņradis|ogļūdeņražu]] atvasinājumi, kuru [[molekula|molekulās]] viens vai vairāki ogļūdeņraža atlikumi ir saistīti ar [[aminogrupa|aminogrupu]]. Tos var definēt arī kā [[amonjaks|amonjaka]] atvasinājumus, kuru molekulās viens vai vairāki [[ūdeņradis|ūdeņraža]] [[atoms|atomi]] ir aizvietoti ar ogļūdeņraža atlikumu.
+
+Amīnu vispārīgā formula ir R-NH<sub>2</sub>.
+
+== Amīnu iedalījums ==
+Amīnus var iedalīt:
+* pēc ogļūdeņraža atlikuma veida:
+** piesātinātie ([[etilamīns]]),
+** nepiesātinātie,
+** aromātiskie ([[anilīns]]);
+* pēc aminogrupu skaita molekulā:
+** amīni (monoamīni), kas satur vienu aminogrupu (anilīns),
+** diamīni, satur divas aminogrupas ([[heksāndiamīns]]),
+** poliamīni - satur daudz aminogrupu;
+* pēc tā, cik H atomu NH<sub>3</sub> molekulā aizvietoti ar ogļūdeņražu atlikumiem:
+** pirmējie amīni, kuros aizvietots viens H atoms (anilīns),
+** otrējie amīni ar diviem aizvietotiem H atomiem (dimetilamīns),
+** trešējie amīni - tajos aizvietoti visi trīs H atomi (N,N-dimetilanilīns).
+
+== Amīnu izomērija ==
+Vienai un tai pašai molekulformulai var būt [[izomērs|izomēri]] [[ogleklis|oglekļa]] atomu virknē un ar atšķirīgu aminogrupas atrašanās vietu molekulā (tāpat kā [[spirti]]em). Iespējama arī [[izomērija]] starp pirmējiem, otrējiem un trešējiem amīniem ([[dimetilamīns]] un etilamīns).
+
+Nepiesātinātie amīni var būt izomēri [[nitrili]]em.
+
+== Nosaukumi ==
+Nosaukumus parasti veido, pievienojot garākā ogļūdeņraža atlikuma nosaukumam izskaņu ''-amīns''. Amīnus, kuros ir vairākas aminogrupas, sauc par diamīniem, triamīniem, utt., nosaukuma beigās norādot aminogrupas atrašanās vietas. Otrējos un trešējos amīnus nosauc, lietojot burtu N, īsākos aizvietotājus nosauc kā garākā aizvietotāja aizvietotājus (piem. N,N-dimetiletilamīns).
+
+== Amīnu iegūšana ==
+* Reducējot [[nitrosavienojumi|nitrosavienojumus]] (reducē nitrogrupu ar atomāru H);
+* Halogēnogļūdeņražu reakcijā ar amonjaku (veidojas arī amonija halogenīds).
+
+== Amīnu īpašības ==
+Amīnu [[molekulmasa]]i palielinoties, palielinās to [[viršanas temperatūra|viršanas]] un [[kušanas temperatūra]] (tāpat kā visām [[organiskās vielas|organiskajām vielām]]). Šīs temperatūras tomēr ir ievērojami augstākas nekā [[ogļūdeņraži]]em un [[ēteri]]em ar līdzīgu molekulmasu, bet zemākas nekā spirtiem un [[karbonskābes|karbonskābēm]]. Starp aminogrupām amīnu molekulās var izveidoties [[ūdeņraža saite]], tā palielina kušanas un viršanas temperatūras, kā arī šķīdību [[ūdens|ūdenī]], jo ūdeņraža saite var veidoties arī starp amīna aminogrupu un ūdens molekulu. Amīni parasti ir ar nepatīkamu aromātu.
+
+Amīni ir [[organiskās bāzes]], un reaģē ar skābēm, veidojot amīnija sāļus. Tie ir amonija sāļu analogi. Amīnija sāļu šķīdība ūdenī parasti ir labāka nekā pašu amīnu šķīdība ūdenī. Amīnu bāziskums ir atkarīgs no aizvietotāju elektrofilitātes un nukleofilitātes.
+
+== Nozīmīgākie amīni ==
+Nozīmīgākie amīni ir:
+* anilīns (fenilamīns) C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>,
+* heksāndiamīns H<sub>2</sub>N-C<sub>6</sub>H<sub>12</sub>NH<sub>2</sub>,
+* [[N,N-dimetilanilīns]] C<sub>6</sub>H<sub>5</sub>N(CH<sub>3</sub>)<sub>2</sub>,
+* [[amfetamīns]] (1-fenilpropilamīns-2) C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CHNH<sub>2</sub>CH<sub>3</sub>.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Amīni]]

@@ -1,0 +1,174 @@
+[[Attēls:EU-Hungary.svg|250px|thumbnail|[[Ungārija]]s novietojums]]
+'''[[Ungārija]]s administratīvo iedalījumu''' veido '''19 meģes''' ({{val|hu|megye}}), [[Budapešta]] ir atsevišķa '''galvaspilsētas municipalitāte''' ({{val|hu|főváros}}), kura sīkāk iedalās 23 rajonos ({{val|hu|kerület}}). Meģes veido [[Eiropas Savienība|ES]] [[NUTS]] 3. līmeņa apgabalus. Papildus ir '''23 pilsētas ar meģes tiesībām''' ({{val|hu|megyei jogú város}}). Meģes sīkāk iedalās '''173 apakšreģionos'''.
+
+Visi meģu centri (izņemot [[Budapešta|Budapeštu]]) pašas ir pilsētas ar meģes tiesībām ({{val|hu|megyei jogú város}}). Valstī ir piecas pilsētas, kuras ir pilsētas ar meģes tiesībām, bet kuras pašas nav meģes centri — [[Ērda]] (Peštas meģē), [[Dunaūjvāroša]] (Fejēras meģē), [[Hodmezevāšārhēja]] (Čongrādas meģē), [[Naģkaniža]] (Zalas meģē) un [[Šoprona]] (Ģēras-Mošonas-Šopronas meģē).
+
+Kopš [[1999]]. gada meģes ir apvienotas reģionos, kuri veido ES NUTS 2. līmeņa apgabalus.
+
+== Administratīvo līmeņu shēma ==
+{| class="wikitable"
+! 1. līmenis !! 2. līmenis
+|-
+| 19 meģes,<br/>[[Budapešta]],<br/>23 pilsētas ar meģes tiesībām || 173 apakšreģioni
+|}
+
+== Pirmā līmeņa administratīvais iedalījums ==
+{| width=650px align=center
+|-
+|
+{{Image label begin|image=Hungary location map.svg|width=650|float=none}}
+{{Image label small|x=0.32|y=0.51|scale=650|text=[[Baraņas meģe|Baraņas<br/>meģe]]}}
+{{Image label small|x=0.46|y=0.4|scale=650|text=[[Bāčas-Kiškunas meģe|Bāčas-<br/>Kiškunas<br/>meģe]]}}
+{{Image label small|x=0.68|y=0.4|scale=650|text=[[Bēkēšas meģe|Bēkēšas<br/>meģe]]}}
+{{Image label small|x=0.64|y=0.105|scale=650|text=[[Boršodas-Abaūjas-Zemplēna meģe|Boršodas-Abaūjas-<br/>Zemplēna meģe]]}}
+{{Image label small|x=0.57|y=0.44|scale=650|text=[[Čongrādas meģe|Čongrādas<br/>meģe]]}}
+{{Image label small|x=0.43|y=0.25|scale=650|text=[[Budapešta]]}}
+{{Image label small|x=0.36|y=0.3|scale=650|text=[[Fejēras meģe|Fejēras<br/>meģe]]}}
+{{Image label small|x=0.17|y=0.22|scale=650|text=[[Ģēras-Mošonas-Šopronas meģe|Ģēras-Mošonas-<br/>Šopronas meģe]]}}
+{{Image label small|x=0.74|y=0.25|scale=650|text=[[Hajdū-Biharas meģe|Hajdū-<br/>Biharas<br/>meģe]]}}
+{{Image label small|x=0.57|y=0.19|scale=650|text=[[Hevešas meģe|Hevešas<br/>meģe]]}}
+{{Image label small|x=0.59|y=0.29|scale=650|text=[[Jāsas-Naģkunas-Solnokas meģe|Jāsas-Naģkunas-<br/>Solnokas meģe]]}}
+{{Image label small|x=0.31|y=0.21|scale=650|text=[[Komāromas-Estergomas meģe|Komāromas-<br/>Estergomas<br/>meģe]]}}
+{{Image label small|x=0.48|y=0.155|scale=650|text=[[Nogrādas meģe|Nogrādas<br/>meģe]]}}
+{{Image label small|x=0.46|y=0.30|scale=650|text=[[Peštas meģe]]}}
+{{Image label small|x=0.78|y=0.16|scale=650|text=[[Sabolčas-Satmāras-Beregas meģe|Sabolčas-Satmāras-<br/>Beregas meģe]]}}
+{{Image label small|x=0.23|y=0.44|scale=650|text=[[Šomoģas meģe|Šomoģas<br/>meģe]]}}
+{{Image label small|x=0.36|y=0.42|scale=650|text=[[Tolnas meģe|Tolnas<br/>meģe]]}}
+{{Image label small|x=0.14|y=0.29|scale=650|text=[[Vašas meģe|Vašas<br/>meģe]]}}
+{{Image label small|x=0.22|y=0.31|scale=650|text=[[Vesprēmas meģe|Vesprēmas<br/>meģe]]}}
+{{Image label small|x=0.14|y=0.39|scale=650|text=[[Zalas meģe|Zalas<br/>meģe]]}}
+{{Image label end}}
+|}
+=== Galvaspilsētas municipalitāte ===
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Galvaspilsētas municipalitāte !! Nosaukums<br/>ungāru valodā !! Platība !! Iedzīvotāju skaits<br/>(2015) !! Apakšreģionu<br/>skaits !! ISO 3166-2
+|-
+| [[File:HU capital Budapest.svg|100px]] || [[File:Flag of Budapest (2011-).svg|70px]] || [[File:Coa Hungary Town Budapest big.svg|40px]] || '''[[Budapešta]]''' || ''Budapest főváros'' || {{nts|525.2}} || {{nts|1757618}} || 1 || HU-BU
+|}
+
+=== Meģes === 
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Meģe !! Nosaukums<br/>ungāru valodā !! Administratīvais<br/>centrs !! Platība !! Iedzīvotāju skaits<br/>(2011)<ref>http://www.citypopulation.de/php/hungary-bacskiskun_d.php</ref> !! Apakšreģionu<br/>skaits !! ISO 3166-2
+|-
+| [[File:HU county Baranya.svg|100px]] || [[File:FLAG-Baranya-megye.svg|70px]] || [[File:BlasonHU-baranya.svg|40px]] || '''[[Baraņas meģe]]''' || ''Baranya megye'' || [[Pēča]] || {{nts|4429.51}} || {{nts|386441}} || 9 || HU-BA
+|-
+| [[File:HU county Bacs-Kiskun.svg|100px]] || [[File:FLAG-Bacs-Kiskun-megye.svg|70px]] || [[File:BlasonHU-bacs-kiskun.svg|40px]] || '''[[Bāčas-Kiškunas meģe]]''' || ''Bács-Kiskun megye'' || [[Kečkemēta]] || {{nts|8445.15}} || {{nts|520331}} || 10 || HU-BK
+|-
+| [[File:HU county Bekes.svg|100px]] || [[File:FLAG-Békés-megye.svg|70px]] || [[File:BlasonHU MEGYE bekes.png|40px]] || '''[[Bēkēšas meģe]]''' || ''Békés megye'' || [[Bēkēščaba]] || {{nts|5629.71}} || {{nts|359948}} || 8 || HU-BE
+|-
+| [[File:HU county Borsod Abauj Zemplen.svg|100px]] || [[File:FLAG-Borsod-Abauj-Zemplén-megye.svg|70px]] || [[File:BlasonHU-borsod-abauj-zemplen.svg|40px]] || '''[[Boršodas-Abaūjas-Zemplēna meģe]]''' || ''Borsod-Abaúj-Zemplén megye'' || [[Miškolca]] || {{nts|7247.17}} || {{nts|686266}} || 15 || HU-BZ
+|-
+| [[File:HU county Csongrad.svg|100px]] || [[File:FLAG-Csongrad-megye.svg|70px]] || [[File:BlasonHU-csongrad.svg|40px]] || '''[[Čongrādas meģe]]''' || ''Csongrád megye'' || [[Segeda]] || {{nts|4262.71}} || {{nts|417456}} || 7 || HU-CS
+|-
+| [[File:HU county Fejer.svg|100px]] || [[File:FLAG-Fejér-megye.svg|70px]] || [[File:BlasonHU-fejer.svg|40px]] || '''[[Fejēras meģe]]''' || ''Fejér megye'' || [[Sēkešfehērvāra]] || {{nts|4358.76}} || {{nts|425847}} || 10 || HU-FE
+|-
+| [[File:HU county Gyor-Moson-Sopron.svg|100px]] || [[File:FLAG-Gyor-Moson-Sopron-megye.svg|70px]] || [[File:BlasonHU-gyor-moson-sopron.svg|40px]] || '''[[Ģēras-Mošonas-Šopronas meģe]]''' || ''Győr-Moson-Sopron megye'' || [[Ģēra]] || {{nts|4208.05}} || {{nts|447985}} || 7 || HU-GS
+|-
+| [[File:HU county Hajdu-Bihar.svg|100px]] || [[File:FLAG-Hajdú-Bihar-megye.svg|70px]] || [[File:BlasonHU-hajdu-bihar.svg|40px]] || '''[[Hajdū-Biharas meģe]]''' || ''Hajdú-Bihar megye'' || [[Debrecena]] || {{nts|6210.51}} || {{nts|546721}} || 9 || HU-HB
+|-
+| [[File:HU county Heves.svg|100px]] || [[File:FLAG-Heves-megye.svg|70px]] || [[File:BlasonHU-heves.svg|40px]] || '''[[Hevešas meģe]]''' || ''Heves megye'' || [[Egera]] || {{nts|3637.21}} || {{nts|308882}} || 7 || HU-HE
+|-
+| [[File:HU county Jasz-Nagykun-Szolnok.svg|100px]] || [[File:FLAG-Jasz-Nagykun-Szolnok.svg|70px]] || [[File:BlasonHU-jasz-nagykun-szolnok.svg|40px]] || '''[[Jāsas-Naģkunas-Solnokas meģe]]''' || ''Jász-Nagykun-Szolnok megye'' || [[Solnoka]] || {{nts|5581.71}} || {{nts|386594}} || 7 || HU-JN
+|-
+| [[File:HU county Komarom-Esztergom.svg|100px]] || [[File:FLAG-Komárom-Esztergom-megye.svg|70px]] || [[File:BlasonHU-komarom-esztergom.svg|40px]] || '''[[Komāromas-Estergomas meģe]]''' || ''Komárom-Esztergom megye'' || [[Tatabāņa]] || {{nts|2264.52}} || {{nts|304568}} || 7 || HU-KE
+|-
+| [[File:HU county Nograd.svg|100px]] || [[File:FLAG-Nograd.svg|70px]] || [[File:BlasonHU-nograd.svg|40px]] || '''[[Nogrādas meģe]]''' || ''Nógrád megye'' || [[Šalgatorjāna]] || {{nts|2545.48}} || {{nts|202427}} || 6 || HU-NO
+|-
+| [[File:HU county Pest.svg|100px]] || [[File:FLAG-Pest-megye.svg|70px]] || [[File:BlasonHU-pest.svg|40px]] || '''[[Peštas meģe]]''' || ''Pest megye'' || [[Budapešta]] || {{nts|6393.51}} || {{nts|1217476}} || 16 || HU-PE
+|-
+| [[File:HU county Szabolcs-Szatmar-Bereg.svg|100px]] || [[File:Flag-Szabolcs-Szatmar-Bereg-megye.svg|70px]] || [[File:BlasonHU-szabolcs-szatmar-bereg.svg|40px]] || '''[[Sabolčas-Satmāras-Beregas meģe]]''' || ''Szabolcs-Szatmár-Bereg megye'' || [[Ņīreģhāza]] || {{nts|5935.83}} || {{nts|559272}} || 12 || HU-SZ
+|-
+| [[File:HU county Somogy.svg|100px]] || [[File:FLAG-Somogy-megye.svg|70px]] || [[File:BlasonHU-somogy.svg|40px]] || '''[[Šomoģas meģe]]''' || ''Somogy megye'' || [[Kapošvāra]] || {{nts|6065.07}} || {{nts|317307}} || 11 || HU-SO
+|-
+| [[File:HU county Tolna.svg|100px]] || [[File:FLAG-Tolna-megye.svg|70px]] || [[File:BlasonHU-tolna.svg|40px]] || '''[[Tolnas meģe]]''' || ''Tolna megye'' || [[Seksārda]] || {{nts|3703.16}} || {{nts|230361}} || 5 || HU-TO
+|-
+| [[File:HU county Vas.svg|100px]] || [[File:FLAG-Vas-megye.svg|70px]] || [[File:BlasonHU-vas.svg|40px]] || '''[[Vašas meģe]]''' || ''Vas megye'' || [[Sombathēja]] || {{nts|3336.14}} || {{nts|256629}} || 9 || HU-VA
+|-
+| [[File:HU county Veszprem.svg|100px]] || [[File:FLAG-Veszprém-megye.svg|70px]] || [[File:Coa Hungary County Veszprém.svg|40px]] || '''[[Vesprēmas meģe]]''' || ''Veszprém megye'' || [[Vesprēma]] || {{nts|4463.65}} || {{nts|351898}} || 11 || HU-VE
+|-
+| [[File:HU county Zala.svg|100px]] || [[File:FLAG-Zala-megye.svg|70px]] || [[File:Coa Hungary County Zala (2010-).svg|40px]] || '''[[Zalas meģe]]''' || ''Zala megye'' || [[Zalaegersega]] || {{nts|3783.89}} || {{nts|282179}} || 9 || HU-ZA
+|}
+
+=== Pilsētas ar meģes tiesībām ===
+{| class="sortable wikitable"
+|-
+! Ģerbonis !! Pilsēta !! Nosaukums<br/>ungāru valodā !! Platība !! Iedzīvotāju skaits<br/>(2014) !! Meģe !! ISO 3166-2
+|-
+| [[Attēls:HUN Békéscsaba COA.jpg|25px]] || '''[[Bēkēščaba]]''' || ''Békéscsaba'' || {{nts|193.93}} || {{nts|60571}} || [[Bēkēšas meģe]] || HU-BC
+|-
+| [[File:Coa Hungary Town Debrecen.svg|25px]] || '''[[Debrecena]]''' || ''Debrecen'' || {{nts|461.25}} || {{nts|203914}} || [[Hajdū-Biharas meģe]] || HU-DE
+|-
+| [[File:Dunaújváros.svg|25px]] || '''[[Dunaūjvāroša]]''' || ''Dunaújváros'' || {{nts|52.66}} || {{nts|48104}} || [[Fejēras meģe]] || HU-DU
+|-
+| [[File:Blason eger.png|25px]] || '''[[Egera]]''' || ''Eger'' || {{nts|92.2}} || {{nts|54867}} || [[Hevešas meģe]] || HU-EG
+|-
+| [[File:Coat of arms of Érd.svg|25px]] || '''[[Ērda]]''' || ''Érd'' || {{nts|60.54}} || {{nts|65043}} || [[Peštas meģe]] || HU-ER
+|-
+| [[File:HUN Győr Címer.svg|25px]] || '''[[Ģēra]]''' || ''Győr'' || {{nts|174.62}} || {{nts|128902}} || [[Ģēras-Mošonas-Šopronas meģe]] || HU-GY
+|-
+| [[File:HUN Hódmezővásárhely Címer.svg|25px]] || '''[[Hodmezevāšārhēja]]''' || ''Hódmezővásárhely'' || {{nts|483.22}} || {{nts|47019}} || [[Čongrādas meģe]] || HU-HV
+|-
+| [[File:HUN Kaposvár Címer.svg|25px]] || '''[[Kapošvāra]]''' || ''Kaposvár'' || {{nts|113.59}} || {{nts|67979}} || [[Šomoģas meģe]] || HU-KV
+|-
+| [[File:Coa Hungary Town Kecskemét.svg|25px]] || '''[[Kečkemēta]]''' || ''Kecskemét'' || {{nts|321.36}} || {{nts|114226}} || [[Bāčas-Kiškunas meģe]] || HU-KM
+|-
+| [[File:HUN Miskolc Címer.svg|25px]] || '''[[Miškolca]]''' || ''Miskolc'' || {{nts|236.68}} || {{nts|161265}} || [[Boršodas-Abaūjas-Zemplēna meģe]] || HU-MI
+|-
+| [[File:HUN Nagykanizsa Címer.svg|25px]] || '''[[Naģkaniža]]''' || ''Nagykanizsa'' || {{nts|148.40}} || {{nts|49850}} || [[Zalas meģe]] || HU-NK
+|-
+| [[File:BlasonHU-nyiregyhaza.svg|25px]] || '''[[Ņīreģhāza]]''' || ''Nyíregyháza'' || {{nts|274.46}} || {{nts|117852}} || [[Sabolčas-Satmāras-Beregas meģe]] || HU-NY
+|-
+| [[File:COA Hungary Town Pécs.svg|25px]] || '''[[Pēča]]''' || ''Pécs'' || {{nts|162.61}} || {{nts|156801}} || [[Baraņas meģe]] || HU-PS
+|-
+| [[File:HUN Szeged Címer.svg|25px]] || '''[[Segeda]]''' || ''Szeged'' || {{nts|280.84}} || {{nts|161921}} || [[Čongrādas meģe]] || HU-SD
+|-
+| [[File:HUN Szekszárd Címer.svg|25px]] || '''[[Seksārda]]''' || ''Szekszárd'' || {{nts|96.27}} || {{nts|33720}} || [[Tolnas meģe]] || HU-SS
+|- 
+| [[File:Székesfehérvár COA.png|25px]] || '''[[Sēkešfehērvāra]]''' || ''Székesfehérvár'' || {{nts|170.89}} || {{nts|99060}} || [[Fejēras meģe]] || HU-SF
+|-
+| [[File:HUN Szolnok Címer.svg|25px]] || '''[[Solnoka]]''' || ''Szolnok'' || {{nts|187.23}} || {{nts|74544}} || [[Jāsas-Naģkunas-Solnokas meģe]] || HU-SK
+|-
+| [[File:BlasonHU-szombathely.svg|25px]] || '''[[Sombathēja]]''' || ''Szombathely'' || {{nts|97.52}} || {{nts|79590}} || [[Vašas meģe]] || HU-SH
+|-
+| [[File:HUN Salgótarján Címer.svg|25px]] || '''[[Šalgatorjāna]]''' || ''Salgótarján'' || {{nts|102.96}} || {{nts|37166}} || [[Nogrādas meģe]] || HU-ST 
+|-
+| [[File:Coa Hungary Town Sopron.svg|25px]] || '''[[Šoprona]]''' || ''Sopron'' || {{nts|169.01}} || {{nts|61390}} || [[Ģēras-Mošonas-Šopronas meģe]] || HU-SN
+|-
+| [[File:Tatabánya címere új.jpg|25px]] || '''[[Tatabāņa]]''' || ''Tatabánya'' || {{nts|91.42}} || {{nts|67753}} || [[Komāromas-Estergomas meģe]] || HU-TB
+|-
+| [[File:HUN Veszprém Címer.svg|25px]] || '''[[Vesprēma]]''' || ''Veszprém'' || {{nts|126.93}} || {{nts|60788}} || [[Vesprēmas meģe]] || HU-VM
+|-
+| [[File:HUN Zalaegerszeg Címer.svg|25px]] || '''[[Zalaegersega]]''' || ''Zalaegerszeg'' || {{nts|99.98}} || {{nts|61970}} || [[Zalas meģe]] || HU-ZE
+|}
+
+=== Reģioni === 
+{| class="sortable wikitable"
+|-
+! Karte !! Reģions !! Nosaukums<br/>ungāru valodā !! Administratīvais<br/>centrs !! Platība !! Iedzīvotāju skaits<br/>(2011) !!  Ietver
+|-
+| [[File:HU NUTS 23 KD.png|100px]] || '''[[Centrālpārdonava]]''' || ''Közép-Dunántúl'' || [[Sēkešfehērvāra]] || {{nts|11237}} || {{nts|1104841}} || [[Komāromas-Estergomas meģe]], [[Vesprēmas meģe]], [[Fejēras meģe]]
+|-
+| [[File:HU NUTS 23 KM.png|100px]] || '''[[Centrālungārija]]''' || ''Közép-Magyarország'' || [[Budapešta]] || {{nts|6919}} || {{nts|28973172}} || [[Budapešta]], [[Peštas meģe]]
+|-
+| [[File:HU NUTS 23 DA.png|100px]] || '''[[Dienvidālfelds]]''' || ''Dél-Alföld'' || [[Segeda]] || {{nts|18339}} || {{nts|1334506}} || [[Bāčas-Kiškunas meģe]], [[Čongrādas meģe]], [[Bēkēšas meģe]]
+|- 
+| [[File:HU NUTS 23 DD.png|100px]] || '''[[Dienvidpārdonava]]''' || ''Dél-Dunántúl'' || [[Pēča]] || {{nts|14169}} || {{nts|960088}} || [[Šomoģas meģe]], [[Tolnas meģe]], [[Baraņas meģe]]
+|-
+| [[File:HU NUTS 23 Nyugat-Dunántúl.png|100px]] || '''[[Rietumpārdonava]]''' || ''Nyugat-Dunántúl'' || [[Ģēra]] || {{nts|11209}} || {{nts|997939}} || [[Ģēras-Mošonas-Šopronas meģe]], [[Vašas meģe]], [[Zalas meģe]]
+|-
+| [[File:HU NUTS 23 EA.png|100px]] || '''[[Ziemeļālfelds]]''' || ''Észak-Alföld'' || [[Debrecena]] || {{nts|17749}} || {{nts|1514020}} || [[Jāsas-Naģkunas-Solnokas meģe]], [[Sabolčas-Satmāras-Beregas meģe]], [[Hajdū-Biharas meģe]]
+|-
+| [[File:HU NUTS 23 EM.png|100px]] || '''[[Ziemeļungārija]]''' || ''Észak-Magyaroszág'' || [[Miškolca]] || {{nts|13428}} || {{nts|1209142}} || [[Nogrādas meģe]], [[Boršodas-Abaūjas-Zemplēna meģe]], [[Hevešas meģe]] 
+|-
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Eiropas valstu administratīvie iedalījumi}}
+{{Ungārijas meģes}}
+
+[[Kategorija:Ungārijas administratīvais iedalījums| ]]
+[[Kategorija:Valstu administratīvais iedalījums]]

@@ -1,0 +1,22 @@
+[[Attēls:Dice.jpg|thumb|[[Metamais kauliņš|Metamos kauliņus]] izmanto skaitļu (simbolu) nejaušai ģenerēšanai. ]]
+'''Varbūtību teorija''' ir [[matemātika]]s nozare, kas pētī gadījuma rakstura parādību un procesu matemātisko modeļu vispārīgās īpašības. Varbūtību teorijā izmanto [[varbūtība]]s, [[gadījuma lielums|gadījuma lieluma]] un [[gadījuma notikums|gadījuma notikuma]] jēdzienus. Uz varbūtību teoriju balstās matemātiskā [[statistika]].
+
+== Vēsture ==
+Varbūtību teorijas pirmsākumi meklējami 16. gadsimtā, kad itāļu matemātiķis [[Džerolāmo Kardāno]] pētīja [[azartspēles]], un 17. gadsimtā, kad pētījumus veica [[Pjērs Fermā]] un [[Blēzs Paskāls]].
+
+== Piemērs ==
+Kastē ir 10 bumbiņas: 2 sarkanas un 8 zilas. Nejauši izvelk vienu bumbiņu. Kāda ir varbūtība, ka tiks izvilkta kāda no sarkanajām bumbiņām?
+
+Pastāv 20% iespējamība, ka tiks izvilkta kāda no sarkanajām bumbiņām, ko pieraksta kā <math>P(A)=\tfrac{2}{10}\,.</math>
+
+== Skatīt arī ==
+* [[Varbūtība]]
+* [[Normālais sadalījums]]
+
+{{Matemātika-aizmetnis}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Varbūtību teorija| ]]
+[[Kategorija:Statistika]]

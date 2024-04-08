@@ -1,0 +1,267 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Schweizerische Eidgenossenschaft''<br />''Confédération suisse''<br />''Confederazione Svizzera''<br />''Confederaziun svizra''<br />''Confoederatio Helvetica (CH)''
+|    pilnais_valsts_nosaukums = Šveices Konfederācija
+|            valsts_nosaukums = Schweiz
+|               karoga_attēls = Flag of Switzerland (Pantone).svg
+|            karoga_nosaukums = Šveices karogs
+|              ģerboņa_attēls = Coat of Arms of Switzerland (Pantone).svg
+|           ģerboņa_nosaukums = Šveices ģerbonis
+|             ģerboņa_platums = 100px
+|                 valsts_moto = 
+|                valsts_himna = "''[[Šveices himna|Swiss Psalm]]''"
+|               kartes_attēls = Europe-Switzerland.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Berne]]<ref>''De jure'' "federāla pilsēta"; ''de facto'' galvaspilsēta</ref>
+| latd=46 | latm=57 | latNS=N | longd=7 | longm=27 | longEW=E
+|             lielākā_pilsēta = [[Cīrihe]]
+|              valsts_valodas = [[vācu valoda]],<br />[[franču valoda]],<br />[[itāļu valoda]],<br />[[retoromāņu valoda]]<ref>[http://www.admin.ch/ch/d/sr/101/a4.html?lang=en Federal Constitution] {{Webarchive|url=https://web.archive.org/web/20091101024339/http://www.admin.ch/ch/d/sr/101/a4.html?lang=en |date={{dat|2009|11|01||bez}} }}, article 4, "National languages" : ''National languages'' are German, French, Italian and Romansh; [http://www.admin.ch/org/polit/00083/index.html?lang=en Federal Constitution] {{Webarchive|url=https://web.archive.org/web/20080919134534/http://www.admin.ch/org/polit/00083/index.html?lang=en |date={{dat|2008|09|19||bez}} }}, article 70, "Languages", paragraph 1: The ''official languages'' of the Confederation are German, French and Italian. Romansh shall be an official language for communicating with persons of Romansh language.</ref>
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Federāla valsts]] ar [[parlamentārisms|parlamentāru sistēmu]] un tiešo [[demokrātija|demokrātiju]]
+|        valsts_galvas_tituls = [[Šveices federālā padome|Federālā padome]]
+|                valsts_galva = [[Viola Amherd]] <small>([[prezidents]])</small><br />[[Karin Keller-Sutter]] <small>([[viceprezidents]])<br />[[Gi Parmelens]]<br />[[Ignasio Kasī]]<br />[[Albert Rösti]]<br />[[Elisabeth Baume-Scheider]]<br />[[Beat Jans]]
+|       valsts_galvas_tituls2 = [[Šveices federālais kanclers|Federālais kanclers]]
+|               valsts_galva2= [[Viktors Rossi]]
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = 
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = Dibināšanas datums
+|          neatkarības_datums = {{dat|1291|8|1}}
+|       neatkarības_notikums2 = ''de facto''
+|         neatkarības_datums2 = {{dat|1499|9|22}}
+|       neatkarības_notikums3 = Federāla valsts
+|         neatkarības_datums3 = {{dat|1848|9|12}}
+|       neatkarības_notikums4 = 
+|         neatkarības_datums4 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 41 284
+|               platība_rangs = 136
+|              procenti_ūdens = 4,2
+|     iedzīvotāju_skaita_gads = 2019
+|          iedzīvotāju_skaits = 8 570 700<ref name="Population">[https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung.gnpdetail.2019-0447.html "Bevölkerungsbestand am Ende des 2. Quartal 2019" [Recent monthly and quarterly figures: provisional data] (XLS) (official statistics) (in German, French, and Italian). Neuchâtel, Switzerland: Swiss Federal Statistical Office (FSO), Swiss Confederation. 19 September 2019.]</ref>
+|    iedzīvotāju_skaits_rangs = 96
+|    apdzīvotības_blīvums_km2 = 198
+|  apdzīvotības_blīvums_rangs = 65
+|                     IKP_PPP = $480,938 miljardi<ref name=imf2>{{en ikona}} {{Tīmekļa atsauce|url=http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=146&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=47&pr.y=11 |title=Switzerland|publisher=International Monetary Fund |accessdate= 2009-10-01}}</ref>
+|                IKP_PPP_gads = 2015
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $58,731<ref name=imf2 />
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{nemainījās}} 0,955 <ref>{{en ikona}} [http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Atjaunināts 2009-10-05.</ref>
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color=#009900>ļoti augsts</font>
+|                   HDI_rangs = 2
+|                        Gini = 33,7
+|                   Gini_gads = 2013
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Šveices franks]]
+|                valūtas_kods = CHF
+|                  laika_zona = CET
+|                  utc_offset = +1
+|              laika_zona_DST = CEST
+|              utc_offset_DST = +2
+|                      domēns = [[.ch]]
+|              tālsarunu_kods = 41
+|                iso_kods_num = 756
+|              iso_kods_alfa2 = CH
+|              iso_kods_alfa3 = CHE
+}}
+
+'''Šveice''' ({{val|de|Schweiz}}, {{val|fr|Suisse}}, {{val|it|Svizzera}}, {{val|rm|Svizra}}), oficiāli '''Šveices Konfederācija''' ({{val|la|Confoederatio Helvetica}}, saīsinājumā CH), ir federāla valsts [[Rietumeiropa|Rietumeiropā]], kuru veido [[Šveices administratīvais iedalījums|26 kantoni]]. Šveicei juridiski nav [[galvaspilsēta]]s, lai gan faktiski tā ir [[Berne]], kur atrodas vairums valsts iestāžu. Šveicei nav robežas ar [[jūra|jūru]]; ziemeļos tā robežojas ar [[Vācija|Vāciju]], austrumos ar [[Lihtenšteina|Lihtenšteinu]] un [[Austrija|Austriju]], dienvidos ar [[Itālija|Itāliju]], bet rietumos robežojas ar [[Francija|Franciju]].
+
+Šveice atrodas starp [[Alpi|Alpu]] un [[Juras kalni|Juras]] kalniem; tās kopējā platība ir 41 284 km². Šveicē dzīvo aptuveni 8 miljoni iedzīvotāju, no kuriem lielākā daļa ir apmetušies valsts centrālajā daļā. Šeit atrodas arī lielākās valsts pilsētas. Pēc [[Iekšzemes kopprodukts pēc pirktspējas līmeņa|IKP uz vienu iedzīvotāju]] Šveice ir viena no bagātākajām valstīm pasaulē. [[Cīrihe]] un [[Ženēva]] ir novērtētas kā pilsētas ar otro un trešo augstāko [[dzīves līmenis|dzīves kvalitāti]] pasaulē.<ref>{{en ikona}} [http://www.citymayors.com/features/quality_survey.html Swiss and German cities dominate ranking of best cities in the world]</ref>
+
+Kopš [[1815]]. gada Šveice ir neitrāla valsts un nav iesaistījusies karos un ir kļuvusi par svarīgu finanšu centru. Šajā valstī atrodas vairāku starptautisku organizāciju galvenās mītnes, piemēram, [[Sarkanais Krusts|Sarkanā Krusta]] galvenā mītne. Valsts daudzējādā ziņā ir vienota un, apzinot savus nelielos resursus, radījusi plaukstošu saimniecību.
+
+Šveice ir daudzvalodīga valsts, tajā ir četras oficiālās valodas: [[vācu valoda|vācu]], [[franču valoda|franču]], [[itāļu valoda|itāļu]] un [[retoromāņu valoda|retoromāņu]]. Par valstiskās neatkarības sākumu uzskata [[1291]]. gadu, kad apvienojās vairākas zemes, kas veido mūsdienu [[kantons|kantonus]]. Par konfederāciju tā kļuva [[1848]]. gadā pēc [[Šveices konstitūcija]]s pieņemšanas. Šveicē vidējais iedzīvotāju mūža ilgums ir 79 gadi. Valsts oficiālā naudas vienība ir [[Šveices franks]].
+
+== Etimoloģija ==
+Valsts nosaukums "Šveice" ir cēlies no [[Švīce (kantons)|Švīces]] kantona nosaukuma, kas atrodas valsts vidienē.<ref>{{en ikona}} {{Tīmekļa atsauce | url= http://www.etymonline.com/index.php?term=Swiss | title= Online Etymology Dictionary | accessdate= 2010-01-26 | author= Douglas Harper | publisher= Etymon-line.com}}</ref> Švīce bija viens no kantoniem, kas [[1291]]. gadā parakstīja [[1291. gada Federatīvā harta|Federatīvo hartu]], un dibināja [[Senā Šveices Konfederācija|Seno Šveices Konfederāciju]]. Savukārt Švīces kantona nosaukums ir datēts ar [[972]]. gadu. Tā izcelsme tiek saistīta ar [[senaugšvācu valoda|senaugšvācu]] vārdu ''Suittes'', kas nozīmē "sadedzināt". Šāds nosaukums visticamāk ir saistīts ar mežu izdedzināšanu, kur pēc tam cēla mājas.<ref>{{en ikona}} Room, Adrian (1997). ''Placenames of the World''. McFarland and Co., Inc., lpp. 364. {{ISBN|0-7864-0172-9}}</ref> Visu valsti pakāpeniski par "Šveici" sāka saukt tikai pēc [[Švābu karš|Švābu kara]], kas norisinājās [[1499]]. gadā.
+
+Valsts antīkais nosaukums ir "Helvētija" ({{val|la|Helvetia}}), kas cēlies no [[ķelti|ķeltu]] cilts [[helvēti|helvētu]] nosaukuma, kuri dzīvoja mūsdienu Šveices teritorijā, pirms to iekaroja [[romieši]]. Rakstiskajos avotos šī cilts pirmo reizi pieminēta ap 300. gadu p.m.ē.<ref>R. C. De Marinis reprodukcija, ''Gli Etruschi a Nord del Po'', Mantova, 1986.</ref> Balstoties tieši uz šo agrīno nosaukumu, Šveices oficiālais nosaukums arī mūsdienās latīņu valodā ir ''Confoederatio Helvetica'', un tieši tāpēc tās starptautiskais [[ISO 3166-1|ISO kods]] ir latīņu nosaukuma pirmie burti CH.
+
+== Vēsture ==
+{{pamatraksts|Šveices vēsture}}
+Senākās zināmās ciltis, kas dzīvoja Šveices teritorijā, ir no [[Hallštates kultūra|Hallštates]] un [[Latenes kultūra|Latenes kultūrām]]. Starp citu, Latenes kultūras nosaukums ir cēlies no [[Latene]]s (''La Tène'') arheoloģisko izrakumu vietas, kas atrodas netālu no [[Neišateles ezers|Neišateles ezera]]. 58. gadā p.m.ē. [[Jūlijs Cēzars|Jūlija Cēzara]] vadītā armija sakāva helvētus [[kauja pie Bibraktas|kaujā pie Bibraktas]].<ref>{{en ikona}} {{Tīmekļa atsauce | url= http://www.swissworld.org/en/history/prehistory_to_romans/the_romans/ | title= The Romans | publisher= Swiss World.org | accessdate= 2010-01-27 | archiveurl= https://web.archive.org/web/20100113124449/http://www.swissworld.org/en/history/prehistory_to_romans/the_romans | archivedate= 2010-01-13 }}</ref> 15. gadā p.m.ē. [[Tiberijs]], kas vēlāk kļuva par Romas imperatoru, un [[Nērons Klaudijs Drususs|Nērons Klaudijs Drūzs]] (''Nero Claudius Drusus'') iekaroja [[Alpi|Alpus]] un pievienoja šo teritoriju [[Romas impērija]]i kā [[Rētija]]s provinci.
+
+[[1291. gada Federālā harta]], kuru parakstīja lauku kopienas no [[Ūrī]], [[Švīce]]s un [[Untervaldene]]s, tiek uzskatīts par pamatdokumentu konfederācijas dibināšanai, lai gan ir iespējams, ka līdzīgas savienības bija izveidojušās jau iepriekšējos gadu desmitos.
+[[1353]]. gadā trīs sākotnējiem kantoniem pievienojās [[Glarusa]] un [[Cūga (kantons)|Cūga]], kā arī [[Lucerna (pilsēta)|Lucernas]], [[Cīrihe]]s un [[Berne]]s pilsētu kantoni. Šī astoņu kantonu konfederācija pastāvēja līdz [[15. gadsimts|15. gadsimta]] beigām.  Līdz [[1460]]. gadam Konfederācijas kontrolē bija nonākusi lielākā daļa no teritorijas, kas atrodas starp [[Reina|Reinu]] un [[Alpi]]em. [[1499]]. gadā Šveice ar uzvaru [[Švābu karš|Švābu karā]] pret [[Švābu savienību]] un [[Hābsburgi]]em ''de facto'' ieguva neatkarību no [[Svētā Romas impērija|Svētās Romas impērijas]]. Tikai [[1648]]. gadā, vairāk nekā gadsimtu pēc šiem kariem, [[Johans Rūdolfs Vetstains]] (''Johann Rudolf Wettstein'') kā Šveices Konfederācijas sūtnis veiksmīgu pārrunu rezultātā parakstīja [[Vestfālenes līgums|Vestfālenes līgumu]], saskaņā ar kuru oficiāli tika atzīta Šveices neatkarība attiecībā pret [[Svētā Romas impērija|Svēto Romas impēriju]] un tās neitralitāti karos.
+2002. gadā Šveice kļuva par pilntiesīgu Apvienoto Nāciju biedru. Šveice nav iestājusies Eiropas Savienībā.
+
+== Ģeogrāfija ==
+[[Attēls:Val Trupchun.jpg|thumb|200px|Šveices Alpu ainava]]
+Šveices platība ir 41 290 km², iedzīvotāju skaits ap 8,57 miljoni, apdzīvotības blīvums ir 198 cilvēki uz kvadrātkilometru. Tā kā Šveicei nav tiešas pieejas jūrai un ir salīdzinoši maz dabas resursu, tai ir bijis jāuztur labas attiecības ar savām kaimiņvalstīm un jāattīstās specifiskās saimniecības nozarēs. Šveice robežojas ar [[Vācija|Vāciju]], [[Lihtenšteina|Lihtenšteinu]], [[Francija|Franciju]], [[Austrija|Austriju]] un [[Itālija|Itāliju]].
+
+Šveici var iedalīt trīs ģeogrāfiskos reģionos — Šveices [[Alpi|Alpos]], Šveices plakankalnē un [[Juras kalni|Juras kalnos]]. Alpi atrodas valsts centrālajā daļā un dienvidos. Augstākā virsotne Šveicē ir [[Difūra smaile]] (4634 m v.j.l.) valsts dienvidos uz robežas ar Itāliju. Alpos ir neskaitāmi daudz ieleju ar šļūdoņiem un ūdenskritumiem. Šveice ir bagāta ar ezeriem, daudzos kalnu ieskautajos, gleznainajos ezeros sākas upes. Cauri lielākajam Šveices ezeram [[Ženēvas ezers|Ženēvas ezeram]] tek [[Rona]]. Citi lielākie ezeri ir [[Bodenezers]], [[Neišateles ezers]], [[Frīvaldšteterezers]], [[Cīrihes ezers]]. Šveicē atrodas arī [[Reina]]s, [[Āre]]s, [[Inna]]s un [[Tičīno (upe)|Tičīno]] iztekas.
+
+Apdzīvotākā Šveices daļa ir vidiene - tā ir kalnaina, bet daudz līdzenāka par Alpiem un Juru. Tur ir daudz mežu un pļavu, šeit ir auglīgas upju [[ieleja]]s, kuras izmanto [[augļu koki|augļu koku]] un [[vīnogas|vīnogulāju]] audzēšanai. Dominējošā [[lauksaimniecība]]s nozare ir piena [[lopkopība]]. Siltajos mēnešos [[liellopi]], [[aitas]] un [[kazas]] ganās augstkalnu pļavās, bet ziemā viņus nodzen zemāk ielejās. Pienu izmanto dažādu [[siers|siera]] šķirņu ražošanai, viens no pazīstamajiem Šveices sieriem ir [[Ementāles siers]].
+
+=== Klimats ===
+Klimats Šveicē visumā ir mērens. Vasaras parasti ir siltas un mitras, periodiski līst. Ziemas kalnos ir bagātas ar sniegu, bet ļoti saulainas. Zemāk ziemās ir mākoņains, drēgns un mikls. Vissausākais laiks parasti ir rudenī.
+
+== Administratīvais iedalījums ==
+Šveice iedalās [[Šveices administratīvais iedalījums|26 kantonos]].
+
+{| width=500px align=right
+|-
+|
+{{Image label begin|image=Switzerland location map.svg|width=500|float=none}}
+
+{{Image label small|x=0.150|y=0.390|scale=500|text=[[Vo kantons|Vo]]}}
+{{Image label small|x=0.060|y=0.520|scale=500|text=[[Ženēva (kantons)|Ženēva]]}}
+{{Image label small|x=0.320|y=0.540|scale=500|text=[[Valē kantons|Valē/Vallisa]]}}
+{{Image label small|x=0.230|y=0.360|scale=500|text=[[Fribūra (kantons)|Fribūra/<br />Freiburga]]}}
+{{Image label small|x=0.160|y=0.280|scale=500|text=[[Neišatele (kantons)|Neišatele]]}}
+{{Image label small|x=0.370|y=0.340|scale=500|text=[[Berne (kantons)|Berne]]}}
+{{Image label small|x=0.280|y=0.170|scale=500|text=[[Juras kantons|Jura]]}}
+{{Image label small|x=0.370|y=0.180|scale=500|text=[[Zoloturna (kantons)|Zoloturna]]}}
+{{Image label small|x=0.350|y=0.140|scale=500|text=[[Bāzele-lauki]]}}
+{{Image label small|x=0.340|y=0.110|scale=500|text=[[Bāzele-pilsēta]]}}
+{{Image label small|x=0.470|y=0.160|scale=500|text=[[Ārgava (kantons)|Ārgava]]}}
+{{Image label small|x=0.520|y=0.050|scale=500|text=[[Šafhauzene (kantons)|Šafhauzene]]}}
+{{Image label small|x=0.630|y=0.090|scale=500|text=[[Turgava]]}}
+{{Image label small|x=0.570|y=0.140|scale=500|text=[[Cīrihe (kantons)|Cīrihe]]}}
+{{Image label small|x=0.660|y=0.210|scale=500|text=[[Sanktgallene (kantons)|Sanktgallene]]}}
+{{Image label small|x=0.700|y=0.170|scale=500|text=[[Apencelle-Auserrodene|AA]]}}
+{{Image label small|x=0.730|y=0.190|scale=500|text=[[Apencelle-Innerrodene|AI]]}}
+{{Image label small|x=0.450|y=0.240|scale=500|text=[[Lucerna (kantons)|Lucerna]]}}
+{{Image label small|x=0.550|y=0.220|scale=500|text=[[Cūga (kantons)|Cūga]]}}
+{{Image label small|x=0.580|y=0.260|scale=500|text=[[Švīce (kantons)|Švīce]]}}
+{{Image label small|x=0.650|y=0.280|scale=500|text=[[Glarusa (kantons)|Glarusa]]}}
+{{Image label small|x=0.500|y=0.290|scale=500|text=[[Nidvaldene]]}}
+{{Image label small|x=0.460|y=0.310|scale=500|text=[[Obvaldene]]}}
+{{Image label small|x=0.580|y=0.340|scale=500|text=[[Ūrī]]}}
+{{Image label small|x=0.730|y=0.360|scale=500|text=[[Graubindene]]}}
+{{Image label small|x=0.580|y=0.460|scale=500|text=[[Tičīno kantons|Tičīno]]}}
+{{Image label end}}
+|}
+
+{| style="background:transparent;" cellspacing="2px"  
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="130px" | [[Šveices administratīvais iedalījums|Kantons]] || ! width="110px" | Admin. centrs || Platība (km²) || Iedzīvotāji
+|-
+| [[Apencelle-Auserrodene]] || [[Hērizava]] || 243 || 52654
+|-
+| [[Apencelle-Innerrodene]] || [[Apencelle]] || 173 || 15471
+|-
+| [[Ārgava (kantons)|Ārgava]] || [[Ārava]] || 1404 || 581562
+|-
+| [[Bāzele-lauki]] || [[Līstāle]] || 518 || 269145
+|-
+| [[Bāzele-pilsēta]] || [[Bāzele]] || 37 || 185227
+|-
+| [[Berne (kantons)|Berne]] || [[Berne]] || 5959 || 962982
+|-
+| [[Cīrihe (kantons)|Cīrihe]] || [[Cīrihe]] || 1729 || 1307567
+|-
+| [[Cūga (kantons)|Cūga]] || [[Cūga]] || 239 || 109141
+|-
+| [[Fribūra (kantons)|Fribūra/Freiburga]] || [[Fribūra]] || 1671 || 263241
+|-
+| [[Glarusa (kantons)|Glarusa]] || [[Glarusa]] || 685 || 38237
+|-
+| [[Graubindene]] || [[Kūra (pilsēta)|Kūra]] || 7105 || 188762
+|-
+| [[Juras kantons|Jura]] || [[Delemona]] || 838 || 69555
+|-
+| [[Lucerna (kantons)|Lucerna]] || [[Lucerna (pilsēta)|Lucerna]] || 1493 || 363475
+|-
+| [[Neišatele (kantons)|Neišatele]] || [[Neišatele]] || 803 || 169782
+|-
+| [[Nidvaldene]] || [[Štansa]] || 276 || 40287
+|-
+| [[Obvaldene]] || [[Zarnene]] || 491 || 33997
+|-
+| [[Sanktgallene (kantons)|Sanktgallene]] || [[Sanktgallene]] || 2026 || 465937
+|-
+| [[Šafhauzene (kantons)|Šafhauzene]] || [[Šafhauzene]] || 298 || 74527
+|-
+| [[Švīce (kantons)|Švīce]] || [[Švīce]] || 908 || 141024
+|-
+| [[Tičīno kantons|Tičīno]] || [[Bellincona]] || 2812 || 328580
+|-
+| [[Turgava]] || [[Frauenfelde]] || 991 || 238316
+|-
+| [[Ūrī]] || [[Altdorfa]] || 1077 || 34989
+|-
+| [[Valē kantons|Valē/Vallisa]] || [[Sjona]] || 5224 || 298580
+|-
+| [[Vo kantons|Vo]] || [[Lozanna]] || 3212 || 672039
+|-
+| [[Zoloturna (kantons)|Zoloturna]] || [[Zoloturna]] || 791 || 250240
+|-
+| [[Ženēva (kantons)|Ženēva]] || [[Ženēva]] || 282 || 438177
+|}
+|}
+== Iedzīvotāji ==
+[[Attēls:Population density in Switzerland.png|thumb|Šveices iedzīvotāju blīvums 2019. gadā]]
+{{Pamatraksts|Šveicieši}}
+Šveicē dzīvo aptuveni 8 667 100 iedzīvotāju. Saskaņā ar [[Apvienoto Nāciju Organizācija|ANO]] aplēsēm 2019. gadā Šveicē dzīvoja 2,6 miljoni imigrantu un viņu pēcnācēju jeb 29,9 % no iedzīvotājiem.
+
+Iedzīvotāju īpatsvars vecumā līdz 14 gadiem — 15,0 %, vecumā virs 65 gadiem — 19,1 % (2020. gadā).
+
+'''Šveices iedzīvotāju sadalījums pēc lietotās valodas'''
+{| class="wikitable"
+|-
+! gads!! iedzīvotāju skaits!! [[vācu valoda|vācu]]!! [[franču valoda|franču]]!! [[itāļu valoda|itāļu]]!! [[retoromāņu valoda|retoromāņu]]!! [[angļu valoda|angļu]]!! [[holandiešu valoda|holandiešu]]!! [[spāņu valoda|spāņu]]!! [[krievu valoda|krievu]]!! citu [[slāvu valodas]]!! citas valodas
+|-
+| 1930|| 4066400|| 2924313|| 831097|| 242034|| 44158|| 8974|| 2452|| 2095|| 2751|| 3555|| 4971
+|-
+| 1941|| 4265703|| 3097060|| 884669|| 220530|| 46456|| 4326|| 2356|| 1571|| 2375|| 2776|| 3584
+|-
+| 1950|| 4714992|| 3399636|| 956889|| 278651|| 48862|| 9164|| 3542|| 2172|| 2309|| 4894|| 8873
+|-
+| 1960|| 5429061|| 3765203|| 1025450|| 514306|| 49823|| 18418|| 6220|| 16113|| 2271|| 5361|| 25896
+|-
+| 1970|| 6269783|| 4071289|| 1134010|| 743760|| 50339|| 32509|| 11935|| 123708|| nez.|| 43457|| 58776
+|-
+| 1980|| 6365960|| 4140901|| 1172502|| 622226|| 51128|| 38494|| 13228|| 118169|| nez.|| 80349|| 128963
+|-
+| 1990|| 6873687|| 4374694|| 1321695|| 524116|| 39632|| 60786|| 11895|| 116818|| 3022|| 124624|| 296405
+|-
+| 2000|| 7288010|| 4640359|| 1485056|| 470961|| 35095|| 73425|| 11840|| 77506|| 9003|| 125727|| 359038
+|-
+| 2010|| 7952555
+|-
+|2019|| 8570700
+|}
+
+== Kultūra ==
+[[Attēls:Vals06.JPG|thumb|200px|Alpu ragu koncerts Graubindenes kantona pilsētā Valsā]]
+[[Šveicieši]] pasaulē tiek uzskatīti par punktuāliem un likumpaklausīgiem.
+
+Šveiciešu kulinārija plašāk pazīstama ar [[Šokolāde|šokolādi]] un [[Siers|sieru]].
+
+== Sports ==
+[[Attēls:Picswiss VS-67-20.jpg|thumb|200px|Kalnu slēpošanas bāze Ločentālas (''Lötschental'') ielejā]]
+Šveicē ir ļoti populāri [[ziemas sporta veidi]]. Ļoti daudz šveicieši nodarbojas ar [[slēpošana|slēpošanu]] un [[alpīnisms|alpīnismu]]. Arī salīdzinoši daudz tūristi no visas pasaules dodas uz [[Šveices Alpi]]em nodarboties gan ar [[kalnu slēpošana|kalnu slēpošanu]], gan ar alpīnismu, jo kalnus regulāri klāj [[sniegs|sniega]] kārta.<ref>{{en ikona}} {{Tīmekļa atsauce | url= http://www.swissworld.org/en/leisure/sporting_activities/winter_sports/ | title= Winter sports | publisher= Swiss World.org | accessdate= 2010-01-30 | archiveurl= https://web.archive.org/web/20100124124036/http://www.swissworld.org/en/leisure/sporting_activities/winter_sports | archivedate= 2010-01-24 }}</ref> Valsts ir organizējusi vairākus ziemas sporta veidu pasaules čempionātus un citas pasaules mēroga sacensības. [[1928]]. un [[1948]]. gadā Šveices pilsētā [[Sanktmorica|Sanktmoricā]] notika [[ziemas olimpiskās spēles]]. Katru gadu nozīmīgas sacensības [[tramplīnlēkšana|tramplīnlēkšanā]] norisinās [[Engelberga|Engelbergā]].
+
+Tāpat kā daudzās citās Eiropas valstīs, arī Šveicē iemīļots sporta veids ir [[futbols]]. [[Šveices futbola izlase]] pēdējā desmitgadē regulāri piedalās [[FIFA Pasaules kauss|FIFA Pasaules kausa]] izcīņā un [[Eiropas čempionāts futbolā|Eiropas čempionāta]] finālturnīros. Par futbolu valstī atbild [[Šveices Futbola asociācija]]. Futbols popularitāti ieguva [[1920. gadi|1920. gados]], bet kulmināciju sasniedza, kad Šveicē tika organizēts [[1954. gada FIFA Pasaules kauss]]. Pēc šī kausa sekoja vairāku gadu stagnācijas periods (Šveice nekvalificējās Pasaules kausam no 1970. līdz 1990. gadam). Pēc tam, kad Šveices futbola izlase veiksmīgi bija startējusi [[1994. gada FIFA Pasaules kauss|1994. gada FIFA Pasaules kausā]], valstī atkal pieauga šī sporta veida popularitāte.<ref>{{en ikona}} {{Tīmekļa atsauce | url= http://www.swissworld.org/en/leisure/sporting_activities/football/ | title= Football | publisher= Swiss World.org | accessdate= 2010-01-30 | archiveurl= https://web.archive.org/web/20100117223528/http://www.swissworld.org/en/leisure/sporting_activities/football | archivedate= 2010-01-17 }}</ref> Šveice ir piedalījusies astoņos Pasaules kausa finālturnīros, un augstākais sasniegums ir bijis iekļūšana ceturtdaļfinālā. Šveice kopā ar [[Austrija|Austriju]] organizēja [[2008. gada Eiropas čempionāts futbolā|2008. gada Eiropas čempionātu]]. Eiropas čempionātu finālturnīros Šveices futbola izlase ir startējusi trīs reizes, un vēl nevienu reizi nav tikusi ārā no grupu turnīra. Valsts futbola klubu čempions tiek noskaidrots [[Šveices Superlīga|Šveices Superlīgā]].
+
+Ļoti daudz šveicieši fano arī par [[hokejs|hokeju]] un ir kāda no 12 [[A līga]]s hokeju klubu atbalstītājiem. [[2010. gada Pasaules čempionāts hokejā]] būs jau vienpadsmitais, kurā piedalās [[Šveices hokeja izlase]].
+
+Plašs atbalstītāju loks ir arī [[riteņbraukšana|riteņbraukšanā]]. Šveicē tiek organizētas tādi daudzdienu velobraucieni kā ''[[Tour de Suisse]]'' un ''[[Tour de Romandie]]''. Šveicē vairākkārt notikuši Pasaules čempionāti šosejas riteņbraukšanā. Starp panākumiem bagātākajiem riteņbraucējiem ir [[Fabians Kančellāra]], [[Alekss Cille]] un [[Tonijs Romingers]]. Šveicē atrodas arī [[Starptautiskā riteņbraukšanas savienība|Starptautiskās riteņbraukšanas savienības]] galvenā mītne.
+
+Slavenākie šveiciešu [[teniss|tenisisti]] kā [[Rodžers Federers]] un [[Martina Hingisa]] ir ieguvuši slavu ne tikai Šveicē, bet arī visā pasaulē.
+
+== Skatīt arī ==
+* [[Šveices pilsētu uzskaitījums]]
+
+== Atsauces un piezīmes ==
+{{atsauces|2}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://encyclopedia2.thefreedictionary.com/Switzerland Switzerland] The Columbia Encyclopedia, Sixth Edition {{en}}
+
+{{Eiropa}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Šveice| ]]

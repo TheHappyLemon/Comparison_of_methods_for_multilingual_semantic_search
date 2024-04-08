@@ -1,0 +1,120 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Indiāna
+| official_name           = ''Indiana''
+| other_name              = 
+| settlement_type         = ASV štats
+| image_skyline           = Downtown indy from parking garage zoom.JPG
+| imagesize               = 235px
+| image_caption           = Indianapolisas, štata lielākās pilsētas, panorāma
+| image_flag              = Flag of Indiana.svg
+| flag_size               = 130px
+| image_seal              = Indiana-StateSeal.svg
+| seal_size               = 90px
+| nickname                = ''The Hoosier State''
+| motto                   = ''The Crossroads of America''
+| anthem                  = 
+| capital                 = [[Indianapolisa]]
+| largest_city            = 
+| official_language       = [[angļu valoda]]
+| spoken_language         = 
+| image_map               = Indiana in United States.svg
+| mapsize                 = 235px
+| map_caption             = Indiānas atrašanās vieta ASV
+| subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+| leader_party            =R 
+| leader_title            = Gubernators
+| leader_name             =Ēriks Holkombs 
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 94321
+| area_land_km2           = 92907
+| area_water_km2          = 1414
+| area_water_percent      = 1,5
+| area_rank               = 
+| elevation_max_m         = [[Hūzjera paugurs]], 383
+| elevation_min_m         = 
+| population_footnotes    = 
+| population_total        = 6483802
+| population_as_of        = 2010. gadā
+| population_rank         = 
+| population_density_km2  = auto
+| population_blank1_title = Rasu sastāvs
+| population_blank1       = baltie — 89,57%<br />melnie — 9,42%
+| population_blank2_title = Reliģijas
+| population_blank2       = [[protestanti]] — 67%<br />[[katoļi]] — 20%<br />nereliģiozi — 16%
+| timezone                = [[UTC-5]]
+| utc_offset              = -6
+| timezone_DST            = [[UTC-4]]
+| utc_offset_DST          = -5
+| website                 = {{URL|http://www.in.gov/}}
+| footnotes               = 
+}}
+
+'''Indiāna''' ({{val|en|Indiana}}, {{izrunā|ɪndiˈænə}}) ir viens no [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] 50 [[ASV štats|štatiem]], kurš atrodas Vidējo rietumu reģionā. Indiānas administratīvais centrs ir [[Indianapolisa]]. Kopš 2005. gada 10. janvāra štata gubernators bija [[Mičs Danielss]] (''Mitch Daniels''). Indiāna bija 19. štats, kas pievienojās Amerikas Savienotajām Valstīm.
+
+Indiāna robežojas ar [[Ilinoisa]]s, [[Kentuki]], [[Mičigana]]s un [[Ohaio (štats)|Ohaio]] štatiem, kā arī ar vienu no [[Lielie ezeri|Lielajiem ezeriem]] — [[Mičigans|Mičiganu]]. Lielākās Indiānas štata pilsētas ir [[Indianapolisa]], [[Fortveina]], [[Evansvila]], [[Sautbenda]], [[Hamonda]] un [[Blūmingtona (Indiāna)|Blūmingtona]].
+
+Indiānas štatā notiek slavenās [[autosports|autosporta]] sacīkstes ''[[Indianapolis 500]]''. No 2000. līdz 2007. gadam [[Indianapolisas trase|Indianapolisas trasē]] notika [[ASV Grand Prix|ASV ''Grand Prix'']] izcīņa ''[[Formula 1]]'' sacensībās. Indiānā populārs sporta veids ir arī [[basketbols]]. Indianapolisas ''[[Indiana Pacers]]'' ir viens no [[Nacionālā basketbola asociācija|Nacionālās basketbola asociācijas]] (NBA) klubiem kopš līgas dibināšanas. Indianapolisā bāzējās arī [[Nacionālā futbola līga|Nacionālās futbola līgas]] (NFL) klubs [[Indianapolisas "Colts"]].
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=http://www.census.indiana.edu/index.asp|title=Census in Indiana|website=www.census.indiana.edu|access-date=2022-03-16|language=en}}</ref>
+|-
+|1
+|[[Indianapolisa]]
+|887 642
+|-
+|2
+|[[Fortveina]]
+|263 886
+|-
+|3
+|[[Evansvila]]
+|117 298
+|-
+|4
+|[[Sautbenda]]
+|103 453
+|-
+|5
+|[[Kārmela]]
+|99 757
+|-
+|6
+|[[Fišersa]]
+|98 977
+|-
+|7
+|[[Blūmingtona (Indiāna)|Blūmingtona]]
+|79 168
+|-
+|8
+|[[Hemonda]]
+|77 879
+|-
+|9
+|[[Lafīeta]]
+|70 783
+|-
+|10
+|[[Noublsvila]]
+|69 604
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Indiāna| ]]

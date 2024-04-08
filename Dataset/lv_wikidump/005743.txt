@@ -1,0 +1,284 @@
+{{Atjaunināt}}
+{{Nosaukums slīprakstā}}
+{{Uzņēmuma infokaste v2
+| name             = SIA ''Tet''
+| logo             = Tet_logo.svg
+| logo_size        = 140px
+| caption          = 
+| type             = [[sabiedrība ar ierobežotu atbildību]]
+| traded_as        = 
+| genre            = <!-- Only used with media and publishing companies -->
+| fate             = 
+| predecessor      = 
+| successor        = 
+| foundation       = 1992. gads
+| founder          = 
+| defunct          = 
+| location_city    = [[Rīga]]
+| location_country = {{LAT}}
+| location         = 
+| locations        = 
+| area_served      = 
+| key_people       = Uldis Tatarčuks (valdes priekšsēdētājs un izpilddirektors)
+| industry         = [[tehnoloģijas]] un [[izklaide]]
+| products         = fiksētie un mobilie sakari, [[internets|interneta]] pakalpojumi, elektroenerģija
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| aum              = <!-- Only used with financial services companies -->
+| assets           = 
+| equity           = 
+| value            = 
+| owner            = Latvijas Republika<br />''[[TILTS Communications]]''
+| num_employees    = 1707 (2018. gadā)
+| parent           = 
+| divisions        = 
+| subsid           = 
+| homepage         = [https://www.tet.lv tet.lv]
+| footnotes        = 
+| intl             = 
+}}
+'''SIA ''Tet''''' (agrākie nosaukumi '''''Lattelecom''''', '''''Lattelekom''''') ir [[Latvija]]s tehnoloģiju un izklaides pakalpojumu uzņēmums. Tas ir [[telesakari|telesakaru]] operators, [[interneta pakalpojumu sniedzējs]] (IPS), kopš 2017. gada arī elektroenerģijas pakalpojumu sniedzējs.
+
+''Tet'' galvenās darbības jomas ir fiksētā tīkla elektronisko sakaru pakalpojumu sniegšana (balss un datu pārraides, un interneta pakalpojumi), ar informācijas tehnoloģijām saistītie pakalpojumi, kontaktu centra pakalpojumi komercsabiedrībām un privātajiem klientiem, elektronisko sakaru un datu pārraides iekārtu pārdošana un apkalpošana, elektronisko sakaru infrastruktūras projektēšana, būvniecība un apkalpošana, kā arī elektrības pakalpojumi.
+
+SIA ''Tet'' 51 % kapitāldaļu pieder Latvijas valstij piederošajam SIA "Publisko aktīvu pārvaldītājs ''Possessor''", bet 49 % — Dānijā reģistrētajam uzņēmumam ''[[TILTS Communications]]'', kas pieder Zviedrijā reģistrētajam telesakaru uzņēmumam ''[[Telia Company|Telia Company AB]]''.
+
+== Vēsture ==
+Valsts uzņēmums ''Lattelekom'' tika reģistrēts Uzņēmumu reģistrā 1992. gada 9. janvārī. To izveidoja, apvienojot [[Latvijas Republikas Satiksmes ministrija|Sakaru ministrijas]] pārziņā esošās telesakaru organizācijas un sakaru centrus.
+1993. gada 20. maijā uzņēmumu reorganizēja par Valsts akciju sabiedrību ''Lattelekom'', bet 1993. gada 20. decembrī uzņēmumu pārreģistrēja par [[sabiedrība ar ierobežotu atbildību]] (SIA ''Lattelekom'').<ref name="Lursoft Lattelecom" />
+
+1993. gadā Satiksmes ministrija organizēja starptautisku konkursu „Par [[Latvijas telekomunikāciju tīkls|Latvijas telekomunikāciju tīkla]] modernizāciju”. 1993. gada 22. decembrī [[Latvijas Republikas Ministru kabinets|Ministru kabinets]] apstiprināja komisijas lēmumu atzīt par konkursa uzvarētāju Apvienotās Karalistes un Somijas kopuzņēmumu ''[[TILTS Communications]]'', kas kļuva par ''Lattelekom'' stratēģisko investoru. 1994. gada 14. janvārī valdība noslēdza tā saucamo "Jumta līgumu" starp Latvijas Republiku, ''TILTS Communications'' un ''Lattelekom''. ''TILTS Communications'' ieguva 49 % ''Lattelekom'' kapitāla daļu.
+Sākotnēji ''TILTS Communications'' kapitāldaļu turētāji bija Apvienotās Karalistes uzņēmums ''[[Cable & Wireless]]'' (70 % akciju) un Somijas ''[[TeliaSonera Finland|Telecom Finland]]'' (vēlāk ''Sonera'', ''TeliaSonera'', tagad ''[[Telia Company]]'') — 30 %.
+2002. gadā ''Sonera'' kļuva par vienīgo ''TILTS Communications'' īpašnieku.<ref name="DB 2002" />
+2003. gadā ''Sonera'' apvienojās ar Zviedrijas ''[[Teliasonera Sverige|Telia]]'', izveidojot ''TeliaSonera'', kuras īpašumā nonāca arī ''TILTS Communications'' un attiecīgi 49 % ''Lattelecom'' kapitāldaļu.
+
+1996. gadā ''Lattelekom'' izveidoja uzziņu dienestu ''118'' (kopš 2005. gada — ''1188 '').
+1997. gadā klientiem tika piedāvāta interneta iezvanpieeja ar zīmolu ''Apollo''.
+
+2000. gadā darbu sāka interneta portāls ''[[Apollo (portāls)|Apollo]]''. Decembrī ciparu tīklam pieslēgto tālruņa līniju skaits pārsniedza 50 %.
+2002. gada oktobrī ''Lattelekom'' sāka sniegt datu pakalpojumus Lietuvā.
+2005. gadā tika iegādāts uzņēmums ''MicroLink Latvia'' (tagad ''[[Helmes Latvia]]''). Notika biznesa procesu atdalīšana atsevišķos meitas uzņēmumos. 29. jūnijā, atdalot Tīkla uzturēšanas daļu, dibināts uzņēmums ''Citrus Solutions'', kas nodarbojās ar tīkla infrastruktūras darbiem. 11. jūlijā reģistrēts ''C1'' (vēlāk — ''Lattelecom BPO''), kam uzticēja biznesa procesu ārpakalpojumus, ''1188'' informatīvos pakalpojumus un portālu ''Apollo''.<ref name="vēsture" />
+
+2006. gadā notika uzņēmuma [[zīmols|zīmola]] maiņa uz '''''Lattelecom''''', tika izveidots jauns [[logotips]]. 18. maijā uzņēmumu pārreģistrēja ar nosaukumu SIA ''Lattelecom'',<ref name="Lursoft Lattelecom" /> ''MicroLink Latvia'' tika pārdēvēts par [[Helmes Latvia|SIA ''Lattelecom Technology'']].
+Maijā tika pārdots ''MicroLink Latvia'' ietilpušais finanšu un grāmatvedības programmu izstrādātājs un izplatītājs ''[[FMS Software|FMS]]''.<ref name="LETA 2006.05.19" />
+2006. gadā uzņēmums sāka piedāvāt Interneta TV, kas bija skatāma portālā ''Apollo''. 2007. gadā sāka piedāvāt interaktīvo ''Lattelecom'' televīziju.
+
+2008. gadā tika pabeigta pāreja uz 8 ciparu numerāciju. Sākti plaši darbi optiskā tīkla izbūvē, lai nodrošinātu platjoslas interneta pieslēgumu.
+2009. gadā sākta virszemes [[ciparu televīzija]]s ieviešana visā Latvijas teritorijā.<ref name="vēsture" />
+
+2011. gadā Lattelecom kļuva par Baltijā lielāko televīzijas pakalpojumu sniedzēju, sasniedzot 230 000 maksas TV abonentu.<ref name="diena.lv">[http://www.diena.lv/bizness/razosana/lattelekom-ir-baltijas-lielakais-tv-operators-13923710 Lattelekom ir Baltijas lielākais TV operators], www.diena.lv, 03.01.2012.</ref> ''Lattelecom'' kā pirmais Latvijā sāka piedāvāt plaša spektra televīzijas pakalpojumu internetā — Lattelecom Interneta TV.
+2011. gada septembrī ''Apollo'' portālu iegādājās Somijas mediju koncerns [[Sanoma|Sanoma News]].<ref name="Apollo pārdošana" />
+
+2012. gadā uzņēmums izbūvē plašu bezvadu interneta WiFi tīklu visā Latvijā — 74 pilsētās un apdzīvotās vietās kopumā ir pieejami vairāk kā 3 500 pieslēguma punkti. Projekta "Pieslēdzies, Latvija!" ietvaros gandrīz 7 000 seniori apmācīti darbam ar datoru.
+
+2013. gadā pabeigta pāreja uz Interaktīvās TV jauno un tehnoloģiski moderno televīzijas portālu. Sadarbībā ar ''DNB'' un ''SEB bankām'' realizēts projekts par WiFi iekārtu uzstādīšanu bankomātos. Ekspluatācijā nodots Ziemeļeiropā pirmais TIERIII sertificētais datu centrs "Dattum". Iegūtas tiesības nodrošināt Virszemes televīzijas maksas pakalpojumus līdz 2021. gadam.
+
+2014. gadā ieviests jauns pakalpojums — Telemetrija, kas tiek piedāvāts namu apsaimniekotājiem un komunālo pakalpojumu sniedzējiem. Privātpersonām tiek piedāvāts datu apmaiņas un uzglabāšanas pakalpojums ''eDati''. Lattelecom atklāj Latvijas vēsturē pirmo, tikai kultūrai veltīto kanālu ''Kultūra 360TV''. Lattelecom kļūst par galveno Baltijas lielākā skriešanas pasākuma ''Rīgas maratons'' atbalstītāju.
+
+2015. gadā ''Lattelecom'' sāks piedāvāt pašu veidotus televīzijas kanālus: ''[[360TV]]'' un ''[[STV Pirmā!]]''. Decembrī ''Lattelecom'' atklāja [[interneta veikals|interneta veikalu]]. Tika atklāts Baltijā modernākais, uz aktivitātēm balstītais jeb ''Lattelecom'' viedais birojs "Mettropole". ''Lattelecom'' kļuva par galveno [[Latvijas Nacionālā opera un balets|Latvijas Nacionālās operas un baleta]] atbalstītāju, lai atbalstītu Latvijas kultūras attīstību un veicinātu Baltā nama repertuāra plašāku pieejamību, izmantojot mūsdienu tehnoloģijas.
+
+2016. gadā ''Lattelecom'' uzsāka sadarbību ar [[jaunuzņēmums|jaunuzņēmumiem]] programmā ''Start-up Wise Guys Riga powered by Lattelecom''. Uzņēmums Interaktīvās TV klientiem nodrošināja iespēju skatīties televīziju augstākajā pieejamā izšķirtspējā — divkāršots HD izšķirtspējas kanālu skaits. Tika izveidota jauna izklaides platforma ''Shortcut'', kas piedāvāja unikālu seriālu, filmu un TV kanālu satura apvienojumu, kā arī tiešraides. ''Lattelecom'' un Ukrainas lielākais fiksēto sakaru un interneta operators ''Ukrtelekom'' noslēdza vienošanos par sadarbību, uzņēmumiem nodrošinot iespēju nomāt ''Lattelecom'' virtuālo serveri un "mākoņa" datu centru.<ref>{{Tīmekļa atsauce|url=https://m.lattelecom.lv/par-lattelecom/par-mums/vesture|title=Lattelecom vēsture {{!}} lattelecom.lv|website=m.lattelecom.lv|access-date=2018-04-09|language=lv-lv|archiveurl=https://web.archive.org/web/20140726082820/http://m.lattelecom.lv/par-lattelecom/par-mums/vesture|archivedate=2014-07-26}}</ref>
+
+2018. gada 7. augusta tika dibināts meitas uzņēmums SIA ''Data Experts'', lai nodrošinātu tehnisko atbalstu un informācijas tehnoloģiju drošības risinājumus.
+2018. gada 9. oktobrī tika paziņots, ka 2019. gada pavasarī ''Lattelecom'' mainīs nosaukumu un zīmolu uz ''tet'', kas līdz šim bija saistīts ar elektrības biznesu.<ref name="db 2018.10.09" /> 12. oktobrī SIA ''Lattelecom BPO'' tika pārdēvēts par SIA ''TET''.
+2019. gada 1. aprīlī SIA ''Lattelecom'' nosaukums tika mainīts uz '''SIA ''TET''''', savukārt SIA ''TET'' (agrākais ''Lattelecom BPO'') tika pārdēvēts par SIA ''Lattelecom''.
+
+2020. gada 3. augustā ''Tet'' pārdeva meitas uzņēmumu ''[[Helmes Latvia|T2T]]'' Igaunijas uzņēmumam ''[[Helmes]]''.<ref name="db 2020.08.03" />
+26. augustā e-izsolē ''Tet'' administratīvā ēka Rīgā, Citadeles ielā 9A tika pārdota nekustamā īpašuma uzņēmumam ''Baltic RE Group''.
+2020. gadā prokuratūra uzrādīja apsūdzības ''Tet'' valdes priekšsēdētājam Jurim Gulbim un vēl četrām personām par līdzdalību krāpšanā digitālās televīzijas ieviešanā. 4. decembrī uzņēmuma padome atsauca Gulbi no amata, viņa vietā ieceļot valdes priekšsēdētāja pienākumu izpildītāju Uldi Tatarčuku. 2021. gada 9. jūlijā Tatarčuks tika apstiprināts par ''Tet'' galveno izpilddirektoru un valdes priekšsēdētāju.<ref name="db 2021.07.09" />
+
+2022. gada 4. janvārī tika paziņots, ka ''Tet'' iegādāsies ''[[Telia Company]]'' meitas uzņēmumu SIA ''Telia Latvija'' par 10,75 miljoniem eiro, ieskaitot "Telia Company" aizdevuma pārfinansējumu;<ref name="db 2022.01.04" /> darījums pabeigts 2022. gada 31. maijā.
+
+=== Strīds par monopolstāvokli ===
+1994. gadā noslēgtais "Jumta līgums" paredzēja ''Lattelekom'' [[monopols|monopolu]] Latvijas fiksēto telesakaru jomā līdz 2013. gadam. Latvijai vēloties iestāties [[Pasaules Tirdzniecības organizācija|Pasaules Tirdzniecības organizācijā]], tika pierasīts atcelt monopolstāvokli telesakaru tirgū. 1998. gada augustā Latvijas valdība pieņēma lēmumu to samazināt līdz 2003. gadam.
+
+''Tilts Communications'' par monopolstāvokļa samazināšanu prasīja kompensācijas, bet Latvijas puse tam nepiekrita.
+2000. gadā ''Tilts Communications'' ierosināja tiesvedību starptautiskajā šķīrējtiesā pret Latvijas Republiku.<ref name="Lattelekom privatizācija" />
+
+2003. gada 1. janvārī oficiāli beidzās monopols, bet arī pēc tam ''Lattelekom'' ''de facto'' saglabājas noteicošā loma fiksēto telefonsakaru jomā.
+
+Latvijas valsts šķīrējtiesā iesniedza ievērojami lielāku pretprasību par ''TILTS Communications'' līgumā neizpildītajiem nosacījumiem, un 2004. gada 3. martā Latvijas Republika un ''TeliaSonera'' vienojās par mierizlīgumu.
+
+== Grupas struktūra ==
+''tet'' grupā ietilpst uzņēmumi:
+* SIA ''Lattelecom'' (agrākais ''Lattelecom BPO''), sniedz klientu apkalpošanas risinājumus un biznesa procesu [[ārpakalpojums|ārpakalpojumus]] (angļu valodā: ''business process outsourcing'', ''BPO''), kā arī uzziņu dienesta "1188" informatīvos pakalpojumus;
+** SIA ''Data Experts'', nodrošina tehnisko atbalstu un informācijas tehnoloģiju drošības risinājumus;
+** SIA "Baltijas Datoru Akadēmija", informācijas un sakaru tehnoloģiju profesionāļu un lietotāju mācību un speciālistu sertifikācijas centrs;
+** SIA ''Helio Media'' (agrākais ''Media 360''), īsteno interaktīvās televīzijas pakalpojumus, kā arī veido un attīsta televīzijas saturu (360TV, STV Pirmā!, 8TV);
+* SIA ''Citrus Solutions'', piedāvā integrētus risinājumus tīklu infrastruktūras un drošības sistēmu būvniecībā;
+* SIA ''Telia Latvija'', sniedz interneta piekļuvi, datu pārraidi, datu centra pakalpojumus, [[mākoņdatošana]]s pakalpojumus, kā arī mediju risinājumu pakalpojumus.
+
+SIA ''Tet'' pieder 23 % mobilo sakaru operatora "[[Latvijas Mobilais Telefons]]" kapitāldaļu.
+''tet'' grupas uzņēmumiem pieder arī aptuveni 48 % AS "Pirmais Slēgtais Pensiju Fonds" kapitāldaļu.
+
+== Lattelecom internets ==
+Lattelecom ir valstī lielākais [[Internets|Interneta]] pakalpojumu sniedzējs.
+
+Lattelecom piedāva vairākus interneta pieslēgumu veidus — platjoslas [[DSL]] internetu, [[optiskais internets|optisko internetu]], bezvadu risinājumus — [[Wi-Fi]] jeb publisko internetu, kā arī 4G internetu.
+
+=== Optiskais internets ===
+
+2009. gadā Lattelecom sāka piedāvāt privātajiem klientiem optisko internetu ar ātrumu līdz 100 [[megabits sekundē|megabitiem sekundē]]. 2009. gada septembrī tika paziņots, ka Lattelecom palielinājis optiskā interneta ātrumu līdz 500 megabitiem sekundē.<ref>{{Tīmekļa atsauce |url=http://www.apollo.lv/portal/news/articles/180887 |title=Lattelecom» datu pārraides ātrumu palielinās līdz 500 megabitiem sekundē |publisher=Apollo.lv |date= |accessdate=2012-04-15 |archiveurl=https://web.archive.org/web/20091119012225/http://www.apollo.lv/portal/news/articles/180887 |archivedate=2009-11-19 }}</ref> Optiskais internets pieejams dažādās formās, sākot no 20 megabitiem sekundē (Mbps) līdz pat 500 Mbps. Lielākā daļa optikas abonentu izvēlēlas lietot 100 Mbps internetu.<ref name="apollo.lv">[http://www.apollo.lv/portal/news/articles/242482 «Lattelecom»: optisko pakalpojumu lietotāju skaits gada laikā teju trīskāršojies]{{Novecojusi saite}}, www.apollo.lv, 30.06.2011.</ref> Lattelecom optiskā interneta galvenie raksturlielumi ir ātrums un "optika līdz mājoklim" koncepts — optiskā interneta kabelis tiek ierīkots katra klienta dzīvoklī un neviens cits to neizmantos. Lattelecom optiskā tehnoloģija ievelk optiskās šķiedras vadu lietotāja mājoklī vai birojā un tur pieslēdz ierīci, kas gaismas impulsus pārvērš datu plūsmā jeb internetā. Citi operatori Latvijā, kas izmanto optiku, lieto nedaudz atšķirīgu tehnoloģiju, kas optisko vadu pieslēdz pie pārkodēšanas un maršrutēšanas ierīces, kas atrodas daudzdzīvokļu mājā.<ref name="apollo.lv"/>
+
+Par pirmo rajonu, kur kļuva pieejams Lattelecom optiskais internets, kļuva [[Zolitūde]]<ref>{{Tīmekļa atsauce |url=http://www.lattelecom.lv/Lattelecom_grupa/preses_telpa/pazinojumi_presei/?month=1&year=2009&action=news&object_id=51188 |title=Lattelecom paziņojums plašsaziņas līdzekļiem |publisher=Lattelecom.lv |date=2009-01-15 |accessdate=2012-04-15 |archiveurl=https://web.archive.org/web/20110719083216/http://www.lattelecom.lv/Lattelecom_grupa/preses_telpa/pazinojumi_presei/?month=1&year=2009&action=news&object_id=51188 |archivedate=2011-07-19 }}</ref> [[Rīga|Rīgā]] (2009. gada janvārī), vēlāk — [[Ķengarags]], [[Purvciems (Rīga)|Purvciems]], [[Pļavnieki]], [[Ziepniekkalns]] un citi. Par pirmo pilsētu ārpus Rīgas, kur ir pieejams optiskais internets, kļuvusi [[Jelgava]], bet 2009. gada nogalē Lattelecom optika tika ierīkota arī tādās pilsētās kā [[Daugavpils]], [[Salaspils]] un citās. Tas, ka optiskā interneta tīkls sākumā tiek izvērsts Rīgas un Latvijas lielāko pilsētu mikrorajonos tiek skaidrots ar to, ka līdzekļus, kas ieguldīti tīkla izvēršanā, ir iespējams atpelnīt tikai tādā gadījumā, ja pieslēgtajā ēkā ir vismaz 30 dzīvokļi. Pakalpojuma nodrošināšanai tiek izmantota [[GPON]] tehnoloģija, kas ļauj 100 megabitu sekundē ātrumu nodrošināt katrā pieslēgšanas vietā (dzīvoklī).
+
+2013. gada sākumā Lattelecom optiskais internets ir pieejams jau 450 000 mājsaimniecību visā Latvijā.<ref>{{Tīmekļa atsauce|title=Saulkalnē pieejams Lattelecom optiskais internets|url=http://www.riga24.lv/zinas/46/178881|date=2013-01-13}}{{Novecojusi saite}}</ref> Kopumā izbūve aptver jau vairāk nekā 45 pilsētas un apdzīvotas vietas. Plānots, ka līdz 2013. gada beigām Lattelecom optikas pārklājums sasniegs 484 000 mājsaimniecības, kas ir 58% no visām mājsaimniecībām Latvijā. Kopumā tuvāko gadu laikā Lattelecom mērķis ir palielināt optiskā interneta pieejamību līdz pat 75% no visām Latvijas mājsaimniecībām.<ref name="delfi.lv">[http://www.delfi.lv/tehnika/archive/lattelecom-dubulto-optiska-interneta-atrumu.d?id=43611951 'Lattelecom' dubulto optiskā interneta ātrumu], www.delfi.lv, 03.09.2013.</ref> 2013. gada oktobrī Lattelecom paziņoja, ka palielina optiskā interneta ātrumu līdz 1 [[Gbit/s]], bet visiem esošajiem privātā segmenta klientiem ātrumu dubulto bez maksas.<ref name="delfi.lv" />
+
+2018. gadā ''Lattelecom'' piedāvā trīs mājas interneta pieslēguma veidus — ''Starta internets, Pamata internets'' un ''Premium internet''s. ''Starta internets'' darbojas ar ātrumu līdz pat 100 megabitiem sekundē (Mbit/s), ''Pamata internets'' — līdz 250 Mbit/s un ''Premium internets'' nodrošina līdz pat līdz 400 Mbit/s ātru internetu.<ref>{{Tīmekļa atsauce|url=http://www.tvnet.lv/financenet/finansu_zinas/603067-lattelecom_turpmak_piedavas_tris_majas_interneta_piesleguma_veidus_augs_letaka_piesleguma_cena|title=«Lattelecom» turpmāk piedāvās trīs mājas interneta pieslēguma veidus; augs lētākā pieslēguma cena|website=Financenet|access-date=2018-04-09|language=lv}}</ref>
+
+2019. gada vasarā (01.06 — 31.08) TET dubultoja visiem klientiem interneta ātrumu bez maksas. 100 megabiti izauga līdz 200 megabitiem, 250 megabiti izauga līdz 500 megabitiem, 400 megabiti izauga līdz 800 megabitiem. Tomēr, beidzoties vasarai, tika nolemts nesamazināt vasarā dubultoto ātrumu, kurš būs piejams arī turpmāk par iepriekšējo cenu. 2020 gada sākumā, 800mbit tika palielināti llīdz 1000mbps pa to pašu cenu.
+
+=== Bezvadu internets ===
+
+Lattelecom nodrošina publiskā bezvadu interneta jeb [[Wi-Fi]] piekļuves punktus aptuveni 4500 vietās visā Latvijā.<ref>[http://lattelecom.lv/majai/internets/bezvadu/WiFi/#what Wi-Fi piekļuves punkti] {{Webarchive|url=https://web.archive.org/web/20120630131511/http://lattelecom.lv/majai/internets/bezvadu/WiFi/#what#what |date={{dat|2012|06|30||bez}} }}, www.wifi.lv</ref> Lattelecom [[Wi-Fi]] bezvadu internets ir pieejams dažādu uzņēmumu birojos, degvielas uzpildes stacijās (DUS), kafejnīcās, viesnīcās, autoostās un citur. Bez maksas Lattelecom [[WiFi]] internets ir pieejams 874 bibliotēkās un 70 [[Latvija Statoil|Statoil]] pilna servisa DUS.<ref>[http://www.liepajniekiem.lv/lat/zinas/novados/2012/06/01/aizpute-uzsak--lattelecom--optiska-tikla-izbuvi Aizputē uzsāk "Lattelecom" optiskā tīkla izbūvi] {{Webarchive|url=https://web.archive.org/web/20120604050808/http://www.liepajniekiem.lv/lat/zinas/novados/2012/06/01/aizpute-uzsak--lattelecom--optiska-tikla-izbuvi/ |date={{dat|2012|06|04||bez}} }}, www.iauto.lv, 02.12.2012.</ref> ''Lattelecom'' nodrošina vairāk nekā 4000 vietās WiFi par brīvu. Maksas WiFi var lietot jebkurš portatīvā, planšetdatora vai viedtālruņa lietotājs, iegūstot [[Lietotājvārds|lietotājvārdu]] un paroli. Tos var iegūt sūtot SMS vai maksājot ar bankas karti WiFi piekļuves vietās.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/majai/internets/bezvadu-internets/wifi-cenas|title=WiFi - bezvadu internets datorā, planšetdatorā vai viedtālrunī {{!}} lattelecom.lv|website=www.lattelecom.lv|access-date=2018-04-09|language=lv-lv|archiveurl=https://web.archive.org/web/20181125170117/https://www.lattelecom.lv/majai/internets/bezvadu-internets/wifi-cenas|archivedate=2018-11-25}}</ref>
+
+=== 4G internets ===
+No 2018. gada marta ''Lattelecom'' klientiem piedāvāt 4G interneta pakalpojumu, pēc iespējas plašākam Latvijas iedzīvotāju lokam sniedzot iespēju ērtāk lietot ''Lattelecom'' pakalpojumus — internetu komplektā ar modernāko televīziju — ''Shortcut''. Pakalpojums ieviests sadarbībā ar vienu no vadošajiem mobilo sakaru operatoriem ''Tele2''.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/par-lattelecom/jaunumi/lattelecom-sak-klientiem-piedavat-ari-pakalpojumu-ar-4g-internetu|title=Lattelecom sāk klientiem piedāvāt arī pakalpojumu ar 4G internetu {{!}} lattelecom.lv|website=www.lattelecom.lv|access-date=2018-04-09|language=lv-lv}}{{Novecojusi saite}}</ref> Mobilais mājas internets, pateicoties WiFi funkcijai, ir ērti un vienkārši izmantojams visur, kur pieejams 4G pārklājums un rozete. 4G internetu var lietot tur, kur nav pieejams Lattelecom DSL vai optiskais internets. 4G pārklājums šobrīd ir pieejms 99% Latvijas iedzīvotājiem.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/majai/internets/apraksts/4g-internets|title=4G internets {{!}} lattelecom.lv|website=www.lattelecom.lv|access-date=2018-04-09|language=lv-lv}}{{Novecojusi saite}}</ref>
+
+== Lattelecom televīzija ==
+{{main|Lattelecom TV}}
+Lattelecom piedāvā trīs [[televīzija]]s platformas — interaktīvo televīziju (signāls līdz televizoram tiek piegādāts pa interneta vadu), virszemes televīziju (signāls līdz televizoram tiek piegādāts pa gaisu un tiek uztverts ar antenu) un interneta televīziju (televīziju var skatīties, izmantojot jebkuru interneta pārlūku).
+
+No 2011. gada 1. marta uzņēmums sāka piedāvāt arī Interneta TV mobilajās ierīcēs, piemēram, [[viedtālrunis|viedtālruņos]] un [[planšetdators|planšetdatoros]],<ref name="ReferenceA">[http://www.apollo.lv/portal/news/articles/266612 Turpmāk «Lattelecom» televīzija būs skatāma arī mobilajās ierīcēs] {{Webarchive|url=https://web.archive.org/web/20120511081750/http://www.apollo.lv/portal/news/articles/266612 |date={{dat|2012|05|11||bez}} }}, www.apollo.lv, 01.03.2012.</ref> kļūstot par pirmo televīzijas operatoru Baltijas valstīs, kas ļauj cilvēkiem skatīties televīziju uz četriem ekrāniem — ne tikai tradicionālajā televizorā, bet arī datorā, planšetdatorā un mobilajā tālrunī.<ref>[http://www.tvnet.lv/tehnologijas/nozares_jaunumi/417035-tv_saturs_cetros_ekranos_par_vienu_cenu TV saturs «četros ekrānos par vienu cenu»], www.tvnet.lv, 04.04.2012.</ref>
+
+2009. gada nogalē Lattelecom ir bija 55 tūkstoši televīzijas klientu — Interaktīvo TV lietojuši 43 tūkstoši cilvēku, bet Virszemes TV maksas paketes — ap 12 tūkstošiem.<ref>{{Tīmekļa atsauce |url=http://www.apollo.lv/portal/news/articles/190209 |title=Apollo - Ziņas: «Lattelecom» 2009. gadu noslēdzis ar 55 000 maksas TV skatītāju |publisher=Apollo.lv |date= |accessdate=2012-04-15 |archiveurl=https://web.archive.org/web/20120411023520/http://www.apollo.lv/portal/news/articles/190209 |archivedate=2012-04-11 }}</ref> Kopumā 2009. gada beigās Lattelecom Virszemes TV regulāri skatijušies 20 tūkstoši mājsaimniecību.<ref>{{Tīmekļa atsauce|url=http://www.financenet.lv/zinas/298295-virszemes_tv_skatas_jau_vairak_neka_20_000_majsaimniecibu|title=Virszemes TV skatās jau vairāk nekā 20 000 mājsaimniecību|publisher=Financenet.lv|accessdate={{dat|2012|4|15||bez}}}}</ref> Savukārt 2010. gada aprīļa sākumā uzņēmums informēja, ka "kopējais «Virszemes TV» skatītāju skaits šobrīd varētu būt jau ap 150 000 līdz 160 000."<ref>{{Tīmekļa atsauce |url=http://www.apollo.lv/portal/news/articles/199509 |title=Būtiski palielinājies pieprasījums pēc «Lattelecom» dekoderiem |publisher=Apollo.lv |date= |accessdate=2012-04-15 |archiveurl=https://web.archive.org/web/20120411020843/http://www.apollo.lv/portal/news/articles/199509 |archivedate=2012-04-11 }}</ref> 2011. gadā uzņēmums publiskoja datus, ka kļuvis par Baltijā lielāko televīzijas pakalpojumu sniedzēju, sasniedzot 230 000 maksas TV abonentu.<ref name="diena.lv"/>
+
+=== Interaktīvā TV ===
+
+Jaunākās paaudzes televīzija, kas nodrošina interaktivitāti — iespēju klientam izvēlēties, ko un kad skatīties. Lattelecom Interaktīvā TV piedāvā virtuālo video nomu, pārraižu arhīvu (''[[timeshift]]''), raidījumu un filmu ieraksta funkciju, atgādinājumu par raidījuma sākumu, iespēju izvēlēties [[subtitri|subtitru]] valodu un citas iespējas. Vieno no tām, piemērām, ir kanālu apraide [[HD]] ([[augstas izšķirtspējas]]) kvalitātē. Interaktīvās TV signāls tiek raidīts, izmantojot platjoslas interneta pieslēgumu, kas nodrošina gan interneta, gan televīzijas pieslēgumu pa vienu vadu (tālruņa līniju). Abonentam tas nozīmē, ka mājās nav jāvelk papildu kabeļi vai pie mājas jāstiprina satelīta šķīvis.
+
+2012. gadā Lattelecom interaktīvajā televīzijā ir pieejami vairāk nekā 100 televīzijas kanāli, kas sadalīti pa dažādām tematiskajām pakām, ko skatītājs var izvēlēties, balstoties uz savām interesēm.<ref>[http://tv.lattelecom.lv/kanali/interaktivie Interaktīvās TV kanāli] {{Webarchive|url=https://web.archive.org/web/20120625215919/http://tv.lattelecom.lv/kanali/interaktivie |date={{dat|2012|06|25||bez}} }}, tv.lattelecom.lv</ref> Piemēram, [[sports|sporta]], populārzinātniskie vai bērnu kanāli. 2011. gadā palielināts kanālu klāsts ar ieraksta funkcionalitāti — iepriekšējo 14 kanālu vietā ieraksta funkcionalitāte pieejama jau 28 kanāliem.<ref name="lattelecom.lv">[http://www.lattelecom.lv/images/modules/fckeditor/File/LTC%20grupa/Gada%20parskats/SFPS_2011_LV_final.pdf Lattelecom koncerna 2011. gada konsolidētais gada pārskats]{{Novecojusi saite}}, www.lattelecom.lv, 01.02.2012.</ref>
+
+Laika gaitā interaktīvā televīzija attīstījusies, piedāvājot papildus iespējas, piemēram, skatītājs ar pulti var pasūtīt picu vai abonēt [[Latvijas Avīze]]s izdevumus.<ref>[http://la.lv/index.php?option=com_content&view=article&id=336129:abon-llatvijas-avzir-ar-tv-pulti&catid=170&Itemid=306 Abonē «Latvijas Avīzi» ar TV pulti ] {{Webarchive|url=https://web.archive.org/web/20130314112743/http://la.lv/index.php?option=com_content&view=article&id=336129:abon-llatvijas-avzir-ar-tv-pulti&catid=170&Itemid=306 |date={{dat|2013|03|14||bez}} }}, www.la.lv, 13.12.2011.</ref> Kopš 2012. gada interaktīvajā televīzijā var iznomāt arī [[trīsdimensiju telpa|3D]] filmas.<ref>[http://www.kasjauns.lv/lv/zinas/84988/lattelecom-interaktivaja-televizija-vares-nomat-3d-filmas "Lattelecom" interaktīvajā televīzijā varēs nomāt 3D filmas] {{Webarchive|url=https://web.archive.org/web/20120622032136/http://www.kasjauns.lv/lv/zinas/84988/lattelecom-interaktivaja-televizija-vares-nomat-3d-filmas |date={{dat|2012|06|22||bez}} }}, www.kasjauns.lv, 19.06.2012.</ref> Kopumā nomā pieejamas aptuveni 1000 filmas, animācijas filmas un koncertieraksti — gan pasaules lielāko filmu studiju (''[[Warner Bros.|Warner]]'', ''[[Walt Disney Studios Motion Pictures|Disney]]'', ''[[Sony Pictures|Sony]]'', [[Metro-Goldwyn-Mayer|MGM]], ''Regency'' u.c.) veidotas filmas, gan Latvijas kino meistardarbi.<ref name="lattelecom.lv"/>
+
+=== Virszemes TV ===
+
+Kopš 2009. gada sākuma Lattelecom, uzvarot Latvijas Republikas Satiksmes ministrijas izsludinātajā konkursā, sadarbībā ar Latvijas Valsts radio un televīzijas centru (LVRTC) realizē Latvijā pāreju no analogās uz ciparu TV apraidi.<ref>{{Tīmekļa atsauce |author=2009. gada 27. janvāris 17:45 |url=http://www.db.lv/a/2009/01/27/Latvija_ciparu_TV_ieviesi |title=Latvijā ciparu TV ieviesīs Lattelecom |publisher=db.lv |date= |accessdate=2012-04-15 |archiveurl=https://archive.today/20120724111654/http://www.db.lv/a/2009/01/27/Latvija_ciparu_TV_ieviesi |archivedate=2012-07-24 }}</ref> Lattelecom Digitālā Virszemes televīzija ir pa gaisu ar radio viļņiem pārraidīts signāls, kas uztverams ar istabas vai jumta antenas palīdzību. Tiem skatītājiem, kas patlaban ar istabas vai jumta antenām skatās analogo televīziju, ir jāiegādājas televizora palīgierīce — dekoders, lai turpinātu to darīt. Plānots, ka Virszemes TV bez maksas būs skatāmi visi Latvijas nacionālie kanāli — [[LTV1]], [[LTV7]], [[LNT]], [[TV3 Latvija|TV3]] un [[TV5 Latvija|TV5]] (Rīgas apraides reģionā).
+
+2018. gadā virszemes televīzija ir pieejama 98% Latvijas teritorijas, tā piedāvā vairāk kā 50 kanālus, kā arī tajā ir pieejama valodas un subtitru izvēle.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/majai/televizija/virszemes-tv/tv-piedavajums|title=Virszemes televīzija {{!}} lattelecom.lv|website=www.lattelecom.lv|access-date=2018-04-09|language=lv-lv}}{{Novecojusi saite}}</ref>
+
+=== Interneta TV — Tet+ ===
+Interneta televīzija pieejama jau kopš 2010. gada, kad tā tika publiskota testa režīmā.<ref name="krizdabz.lv">[http://krizdabz.lv/telekomunikacijas/lattelecom-tv-lattelecom-sak-testet-interneta-tv-ielugumi/ lattelecom.tv — Lattelecom sāk testēt Interneta TV (ielūgumi)] {{Webarchive|url=https://web.archive.org/web/20120712043417/http://krizdabz.lv/telekomunikacijas/lattelecom-tv-lattelecom-sak-testet-interneta-tv-ielugumi/ |date={{dat|2012|07|12||bez}} }}, www.krizdabz.lv, 02.12.2010.</ref>
+
+Interneta televīzija laikā no 2010. gada līdz 2016. gadam bija pieejama interneta platformā [https://web.archive.org/web/20171002092640/https://www.lattelecom.tv/ www.lattelecom.tv] divās kvalitātēs — augstā kvalitāte (HQ) un zemā kvalitāte (LQ). HQ režīmā nepieciešams minimālais garantētais interneta pieslēguma ātrums vismaz 2.5 Mbps, bet LQ — vismaz 1 Mbps.<ref name="krizdabz.lv" />
+
+Interneta televīzija mobilajās ierīcēs ir pieejama kopš 2012. gada marta.<ref name="ReferenceA" /> Tas bija pirmais televīzijas pakalpojums Latvijā, kas ļauj televīziju skatīties ne tikai sev ērtā laikā un vietā, bet arī uz dažādām ierīcēm — datora, planšetdatora, viedtālruņa.<ref name="ReferenceA" /> Mobilajās ierīcēs bija pieejami 16 televīzijas kanāli. Televīzija bija pieejama [[Android]] un [[iOS]] [[operētājsistēma|operētājsistēmu]] [[viedtālrunis|viedtālruņiem]], kā arī uz iOS operētājsistēmas planšetdatoriem .<ref name="ReferenceA" />
+
+2016. gadā Lattelecom izveido jaunu izklaides platformu ''Shortcut'', kas piedāvā unikālu seriālu, filmu un TV kanālu satura apvienojumu, kā arī ekskluzīvas tiešraides no lielākajiem notikumiem Latvijā un pasaulē, tā ir pieejama [https://web.archive.org/web/20180224054944/https://www.shortcut.lv/ www.shortcut.lv]. ''Shortcut'' piedāvā labākos TV kanālus, seriālus, kā arī simtiem jaunākās filmas, kas vēl nesen tika demonstrētas kinoteātros. ''Shortcut'' var skatīties jebkur Latvijā, kā arī īslaicīgi ceļojot EEZ valstīs, kur ir pieejams internets — datorā, mobilajā ierīcē, AppleTV, AndroidTV, Samsung Tizen SmartTV vai Shortcut Box. Izklaides platforma piedāvā ''Shortcut Films, Shortcut TV'' un ''Shortcut Premiere''. ''Shortcut Films'' piedāvā filmas no Latvijas un pasaules, kā arī dažāda žanra šovus un seriālus. ''Shortcut TV'' piedāvā sekot tiešraidēm vairāk kā 50 TV kanālos, kā arī piedāvā iespēju skatīties arhīvā. ''Shortcut Premiere'' piedāvā iespēju atsevišķi iegādāties filmas, kas vēl nesen tika rādītas uz kino ekrāniem.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/majai/televizija/shortcut/shortcut-piedavajums|title=Shortcut {{!}} Tiešraides, videonoma un arhīvs|website=www.lattelecom.lv|access-date=2018-04-09|language=lv-lv}}{{Novecojusi saite}}</ref>
+
+== tet ==
+''Lattelecom'' kopš 2017. gada aprīļa piedāvā arī elektroenerģijas pakalpojumus. Savukārt kopš 2018. gada aprīļa tet zīmols piedāvā arī gudrās mājas risinājumus.
+
+=== tet ===
+''Lattelecom tet'' piedāvā trīs elektroenerģijas tarifu plānus: dinamiskais, drošais un fiksētais. Tarifu plāns ''tet'' Dianmiskais nozīmē viszemāko maksu par elektroenerģiju un ekonomiju ilgtermiņā. Ar šo tarifu tiek maksāts par elektroenerģiju pēc ''Nord Pool SPOT'' biržas cenām, kas mainās ik stundu. Tarifu plāns, kuram ikmēneša maksa par elektroenerģiju būs atšķirīga, kas ir atkarīgs no tirgus situācijas. Tarifu plāns ''tet'' Drošais ir ļoti līdzīgs ''tet'' Dinamiskajam, bet ar vienu būtisku atšķirību. ''Nord Pool'' biržā cenas var svārstīties un mainīties gan stundu, gan mēnešu ietvaros, tad izvēloties ''tet'' Drošo tarifu plānu, tiek apdrošināti augsto cenu riski, neļaujot pārsniegt noteikto vērtību. Piemērots cilvēkiem, kuri ir gatavi izmēģināt biržas produktu priekšrocības, bet vēlas drošību pret neparedzamiem riskiem. Tarifu plāns ''tet'' Fiksētais ir piemērots cilvēkiem, kas vēlas savos ikmēneša maksājumos un elektronenerģijas cenā pilnīgu stabilitāti. Maksa par kWh līguma laikā nemainās un to neietekmēs biržas cenas kāpumi un kritumi. Ar šo tarifu plānu var izvēlēties arī izlīdzināto maksājumu, kas nodrošinās vienādus ikmēneša rēķinus kalendārā gada ietvaros.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/piedavajumi/elektriba/|title=tet elektrība|website=www.lattelecom.lv|access-date=2018-04-10|language=lv|archiveurl=https://web.archive.org/web/20180514064137/https://www.lattelecom.lv/piedavajumi/elektriba/|archivedate=2018-05-14}}</ref>
+
+=== Gudrā māja ===
+''tet'' gudrā māja ir gudrās mājas risinājumi, kas dod iespēju attālināti sekot līdzi gaisa temperatūrai, gaisa mitrumam un gaisa kvalitātei (CO2) mājās, regulēt temperatūru, ieslēgt un izslēgt dažādas ierīces manuāli vai automātiski, izmantojot vienotu gudrās mājas vadības portālu visām ar tet gudrās mājas sistēmu savietojamajām ierīcēm. Lattelecom e-veikalā ar ''tet'' gudrās mājas sistēmu savietojamās ierīces ir atzīmētas ar ''tet'' simboliku.
+
+''tet'' gudrā māja piedāvā trīs pakalpojumus: ''tet'' gaisa kvalitātes kontrole, ''tet'' siltā grīda un ''tet'' apkures vadība.<ref>{{Tīmekļa atsauce|url=http://tet.lv/lv#/|title=tet gudrā māja - Sākumlapa v2|website=tet.lv|access-date=2018-04-10|language=lv|archiveurl=https://web.archive.org/web/20180411111901/http://www.tet.lv/lv#/|archivedate=2018-04-11}}</ref>
+
+== Helio ==
+2018. gada 25. aprīlī ''Lattelecom'' atklāja jaunu zīmolu [https://web.archive.org/web/20190704123223/https://helio.lv/ ''Helio'']. Šobrīd ''Helio'' ietilpst plašs televīzijas pakalpojumu klāsts — Interaktīvā TV, ko jau pavisam drīz nomainīs Helio iTV, Virszemes TV, ''Shortcut''; reklāmas pakalpojumi, abi ''Lattelecom'' veidotie kanāli ''360TV'' un ''STV Pirmā!'', Baltijas eSporta līga. Attīstot un klientiem piedāvājot jaunus izklaides produktus, tie turpmāk papildinās ''Helio'' izklaides piedāvājumu.
+
+Līdzšinējo ''Lattelecom'' Interaktīvās TV pakalpojumu pakāpeniski nomaina ''Helio'' interaktīvā televīzija. ''Helio iTV'' piedāvā jaunu, mūsdienīgāku TV skatīšanās pieredzi, ērtāku platformu, ar papildu iespējām un noderīgām funkcijām. Sekojot televīzijas attīstības tendencēm pasaulē, Helio iTV pieejama gan TV, gan viedtālrunī un planšetē, gan vēlāk arī datorā. Turklāt visās vidēs skatītais saturs būs saistīts, piemēram, ja filma iesākta skatīties viedtālrunī, mājas TV ekrānā to varēs turpināt skatīties no vietas, kur skatītājs apstājies.
+
+''Helio'' nosaukums radīts, lai būtu saprotams un uztverams gan Latvijā, gan starptautiski, domājot par turpmākajām attīstības iespējām arī ārpus Latvijas.
+
+=== eSporta līga ===
+''Lattelecom'' un viena no vadošajām eSporta organizācijām Baltijā ''GOEXANIMO'' ir apvienojuši spēkus un izveidojuši Baltijas ''eSporta līgu'' (''BESL PRO''), kas ir pirmais šāda līmeņa eSporta pasākums reģionā. Pirmajā sezonā (2018. gadā) komandas sacentīsies divās pasaulē un Baltijā populārākajās disciplīnās: League of Legends un Counter-Strike: Global Offensive un Playerunknown battlegrounds . Latvijas, Lietuvas un Igaunijas labāko komandu cīņa noslēgsies festivālā HyperTown Riga.<ref name="ReferenceB">{{Tīmekļa atsauce|url=https://www.lattelecom.lv/par-lattelecom/jaunumi/izveidota-baltija-pirma-esporta-liga|title=Izveidota Baltijā pirmā eSporta līga|website=www.lattelecom.lv|access-date=2018-04-11|language=lv-lv}}{{Novecojusi saite}}</ref>
+
+''HyperTown Riga'' festivālā ar izstādes elementiem varēs piedzīvot un izdzīvot visdažādākās mūsdienu populārās kultūras daļas — no eSporta turnīriem, grafiti sesijām, cosplay šova, kas ļaus pārtapt par atpazīstamiem un iemīļotiem personāžiem un piedalīties tēlu konkursā, līdz diskusijām par spēļu izstrādi, strīmeru sacensībām, tehnoloģiju jaunumiem.<ref name="ReferenceB"/>
+
+== Zīmols ==
+
+2006. gada 18. maijā ''Lattelecom'' realizēja tā saucamo rebrendingu, nomainot veco zīmolu pret jaunu. Pārmaiņu mērķis bija uzlabot saistību starp ''Lattelecom'' zīmolu, produktiem un pakalpojumiem, panākt lielāku komunikācijas un izmaksu efektivitāti, kā arī uzsvērt ''Lattelecom'' līderpozīcijas tirgū.
+
+Pirms 2006. gada uzņēmuma notika restrukturizācija, tika iegādāts jauns uzņēmums (''SIA Lattelecom Technology'') un zīmola maiņa nozīmēja arī šo pārmaiņu noslēgumu — jaunais zīmols apvienoja vienā veselumā ''Lattelecom'' grupas uzņēmumus, kas tieši saistīti ar patērētāju apkalpošanu, klientu biznesa procesu ārpakalpojumu, kā arī IT&T un satura pakalpojumu jomu. ''SIA Lattelekom'' juridiskais nosaukums tika mainīts uz ''SIA Lattelecom''. IT pakalpojumu sniedzēja ''SIA MicroLink Latvia'' nosaukums — uz ''Lattelecom Technology'', ''SIA C1'', kas darbojas biznesa procesu ārpakalpojumu jomā, kļuva par ''SIA Lattelecom BPO''. Tīkla būvniecības un uzturēšanas uzņēmums ''SIA Citrus Solutions'', ņemot vērā tā darbības specifiku, saglabāja esošo nosaukumu un ieguva arī savu [[Vizuālā identitāte|grafisko identitāti]], kas atšķiras no citiem grupas uzņēmumiem. Tas skaidrojams ar to, ka ''Citrus Solutions'' sniedz pakalpojumus citiem IT&T nozares uzņēmumiem, kuri ir ''Lattelecom'' grupas konkurenti.
+
+=== Logotips ===
+
+Zīmola maiņa nozīmēja ne tikai nosaukuma un struktūras maiņu, bet arī to, ka jaunu veidolu ieguva visa vizuālā un grafiskā identitāte — logotips, korporatīvās krāsas, darba apģērbs un auto marķējums.
+
+Iepriekšējais logotips tapa pēc Trešās atmodas un simbolizēja Latvijas zaļos mežus un sarkanbaltsarkano karogu, un tajā bija attēlota tālruņa ripa. Ņemot vērā to, ka 2006. gadā ''Lattelecom'' vairs nebija tikai telesakaru uzņēmums, vecais zīmols un arī logotips vairs neatspoguļoja uzņēmuma tagadni un tā attīstību nākotnē.
+
+''Lattelecom'' jaunais logo sastāv no uzņēmuma nosaukuma, kurā integrēta TT zīme korporatīvajā kieģeļsarkanajā krāsā. Tēli TT simbolizē saskarsmes lomu cilvēka dzīvē — nepieciešamību kontaktēties, būt zinošam, apmainīties ar informāciju, izmantot iespējas, ko dod ātra un ērta saziņa. Logotips raksturo ''Lattelecom'' kā jaunām idejām atvērtu sistēmu un vienlaikus aicina izmantot tehnoloģijas visās jomās, kur tās var bagātināt mūsu dzīvi.
+
+== Sociālā atbildība ==
+''Lattelecom'' īsteno sabiedrības atbalsta un labdarības projektus. Galvenās atbalsta jomas ir [[kultūra]], [[izglītība]] un [[sports]].<ref>[http://www.lattelecom.lv/Lattelecom_grupa/par_Lattelecom_grupu/Lattelecom_atbalsta/ Lattelecom atbalsta] {{Webarchive|url=https://web.archive.org/web/20120701094116/http://www.lattelecom.lv/Lattelecom_grupa/par_Lattelecom_grupu/Lattelecom_atbalsta |date={{dat|2012|07|01||bez}} }}, www.lattelecom.lv</ref> Viens no sociālās atbildības projektiem ir Pieslēdzies, Latvija!
+
+=== Pieslēdzies, Latvija! ===
+Pieslēdzies, Latvija! ir unikāls projekts Latvijas mērogā, kas cilvēkiem vecumā virs 50 gadiem ļauj apgūt pirmās iemaņas darbā ar datoru, tādējādi samazinot to cilvēku skaitu, kas neprot strādāt ar datoru un internetu.<ref name="nra.lv">[http://nra.lv/latvija/60143-vairaki-simti-senioru-projekta-piesledzies-latvija-nosleguma-parbauda-zinasanas-datoru-lietosana.htm Vairāki simti senioru projekta "Pieslēdzies, Latvija" noslēgumā pārbauda zināšanas datoru lietošanā] {{Webarchive|url=https://web.archive.org/web/20121121162113/http://nra.lv/latvija/60143-vairaki-simti-senioru-projekta-piesledzies-latvija-nosleguma-parbauda-zinasanas-datoru-lietosana.htm |date={{dat|2012|11|21||bez}} }}, www.nra.lv, 17.11.2011.</ref> 2011. gadā visā Latvijā tika noorganizētas 150 grupas un datora lietošanas teorētiskus un praktiskus pamatus apguva vairāk nekā 1500 cilvēki.<ref name="nra.lv" /> 2012. gadā senioru apmācībām tika piesaistīti [[informātika]]s skolotāji, tādējādi palielinot apmācāmo skaitu.<ref>[http://www.ventspils.lv/lat/pilseta/20956-piesledzies-latvija-aicina-seniorus-pieteikties-bezmaksas-datorapmacibas-kursiem „Pieslēdzies, Latvija!” aicina seniorus pieteikties bezmaksas datorapmācības kursiem] {{Webarchive|url=https://archive.today/20121227225226/http://www.ventspils.lv/lat/pilseta/20956-piesledzies-latvija-aicina-seniorus-pieteikties-bezmaksas-datorapmacibas-kursiem |date={{dat|2012|12|27||bez}} }}, www.ventspils.lv, 17.05.2012.</ref>
+ 
+Apmācības senioriem tiek organizētas nelielās grupās — pa aptuveni 14 dalībniekiem katrā grupā. Katras grupas apmācību ilgums ir trīs dienas, apmācībām veltot četras mācību stundas (45 minūtes katra) ik dienu.<ref>[http://www.ventspils.lv/lat/pilseta/20956-piesledzies-latvija-aicina-seniorus-pieteikties-bezmaksas-datorapmacibas-kursiem „Pieslēdzies, Latvija!” aicina seniorus pieteikties bezmaksas datorapmācības kursiem] {{Webarchive|url=https://archive.today/20121227225226/http://www.ventspils.lv/lat/pilseta/20956-piesledzies-latvija-aicina-seniorus-pieteikties-bezmaksas-datorapmacibas-kursiem |date={{dat|2012|12|27||bez}} }} , www.ventspils.lv, 17.05.2012.</ref>
+
+2016. gadā Lattelecom noslēdza septiņus gadus ilgušo sociālās atbildības iniciatīvu „Pieslēdzies, Latvija!”, nodrošinot bezmaksas datorapmācību 31 tūkstotim Latvijas senioru un sasniedzot 2008. gadā izvirzīto mērķi. 7. jūnijā ''Lattelecom'' pasniedza pirmo dāvanu, valsts simtgadi gaidot — apmācību rezultātā izveidoto viedsenioru paaudzi.
+
+== Lattelecom Rīgas maratons ==
+''Lattelecom Rīgas maratona'' atbalstītājs ir jau kopš 2008. gada un šobrīd tas ir kļuvis par ''Lattelecom Rīgas maratona'' galveno partneri. Maratonu kopš 2007. gada sadarbībā ar Rīgas domi rīko aģentūra ''NECom.'' 2016. gadā pasākums ieguva "Gada balvu sportā 2016" nominācijā "Gada notikums Tautas sportā".<ref name="lattelecomrigasmaratons.lv">{{Tīmekļa atsauce|url=http://www.lattelecomrigasmaratons.lv/lv/par-maratonu/vesture/|title=Vēsture|last=www.cube.lv|first=Cube /|website=www.lattelecomrigasmaratons.lv|access-date=2018-04-11|language=lv|archiveurl=https://web.archive.org/web/20180407031532/http://www.lattelecomrigasmaratons.lv/lv/par-maratonu/vesture/|archivedate=2018-04-07}}</ref>
+
+Kopumā ''Rīgas maratonā'' klasiskā maratona distancē jeb 42 km 195m ir finišējuši 11 877 skrējēju (1991—2016) ar vislielāko finišētāju skaitu 2016. gadā, kad finišēja 1 496 dalībnieki. Pusmaratona distance jeb 21 km 97,5 m pirmo reizi tika piedāvāta 2006. gadā un šajā laikā Rīgas maratona ietvaros pusmaratonā kopumā finišējuši 22 733 skrējēju (2006—2016). Paralēli tam katru gadu dalībniekiem tiek piedāvāta arī alternatīva 3 — 6 km distance, kas parasti pulcē vislielāko dalībnieku skaitu.<ref name="lattelecomrigasmaratons.lv"/>
+
+== Jaunie biznesi ==
+Lattelecom ir ne tikai telesakaru operators, interneta un enerģijas pakalpojumu sniedzējs, kas strādā ar pamatbiznesiem, bet arī attīsta jaunus biznesa virzienus.
+
+=== CLAARA ===
+''Lattelecom'' sadarbībā ar inteliģento tehnoloģiju uzņēmumu ''APPLY'' izstrādājis Baltijā pirmo tiešsaistes TV reklāmas un auditorijas analītikas rīku ''CLAARA''. Tas reālajā laikā apkopo vairāk nekā 200 000 Latvijas mājsaimniecību statistiku, sniedzot līdz šim precīzākos reklāmu datus par iecienītāko TV kanālu skatījumiem uzreiz pēc to parādīšanās ēterā.
+
+''CLAARA'' ir mākslīgā intelekta risinājums, kas datus apstrādā, izmantojot videoredzi jeb algoritmu, kas spēj patstāvīgi noteikt reklāmu televīzijas kanālos, atrast līdzības citās reklāmās, piesaistot tās konkrētai nozarei. ''CLAARA'' atpazīst reklāmas vienlaicīgi vairākos desmitos kanālu, spējot vienā stundā apstrādāt līdz pat 90 stundām TV satura.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/par-lattelecom/jaunumi/tirgu-ieviests-jauns-maksliga-intelekta-risinajums-tiessaistes-tv-reklamas-analitikas-riks-claara|title=Tirgū ieviests jauns mākslīgā intelekta risinājums - tiešsaistes TV reklāmas analītikas rīks CLAARA {{!}} lattelecom.lv|website=www.lattelecom.lv|access-date=2018-04-11|language=lv-lv}}{{Novecojusi saite}}</ref>
+
+=== Lietu internets (IoT) ===
+''Lattelecom'' uzsācis pirmā lietu interneta tīkla ieviešanu Latvijā, piedāvājot klientiem lietu interneta (IoT- Internet of Things) risinājumus gudrākai pilsētas pārvaldībai, biznesa modernizācijai un gudrai ražošanas pārvaldībai.
+
+Lietu interneta pārklājums jau pieejams visā Rīgas teritorijā un tīkla izveide turpinās arī citās Latvijas pilsētās. Lietu interneta tīkla risinājumi pieejami ne vien klientiem, bet arī uzņēmumiem, kas strādā pie jaunu biznesa iespēju attīstīšanas un pakalpojumu izveides.<ref>{{Tīmekļa atsauce|url=https://www.lattelecom.lv/piedavajumi/iot/|title=https://www.lattelecom.lv/piedavajumi/iot/|website=www.lattelecom.lv|access-date=2018-04-11|language=en|archiveurl=https://web.archive.org/web/20180810023557/https://www.lattelecom.lv/piedavajumi/iot/|archivedate=2018-08-10}}</ref>
+
+== Klientu atbalsta robots Anete ==
+2017. gada oktobrī ''Lattelecom'' darbu sācis pirmais uzņēmuma klientu atbalsta robots ''Anete'', kas ar sabiedrības līdzdalību un sarunām mācās virtuāli sniegt palīdzību latviešu valodā. ''Aneti'' radīja ''Lattelecom'' darbinieki iekšējā inovāciju programmā, sadarbojoties ar Latvijas uzņēmumu ''Tilde''. Pirmajā dienā jau vairāk nekā 300 cilvēki sarunājušies ar jauno palīgu, uzdodot vairāk nekā 4000 jautājumu. Sarunu biedri gan pārbaudīja ''Anetes'' spēju atbildēt uz jautājumiem par ''Lattelecom'', gan centās pārliecināties par tās atjautību.
+
+Robots ''Anete'' strādā ''Lattelecom'' palīdzības lapā http://palidziba.lattelecom.lv{{Novecojusi saite}}, līdz 2018. gada martam ''Anete'' strādāja ''Facebook'' lapā ''Lattelecom Anete''. Anete mācās no klientu uzdotajiem jautājumiem, lai spētu atbildēt arvien precīzāk un daudzveidīgāk.
+
+== Finanšu rezultāti ==
+
+Tehnoloģiju un izklaides uzņēmums ''Lattelecom'' 2017. gadā strādājis ar peļņu 40,7 miljonu eiro apmērā un par 2,4 miljoniem eiro audzējis apgrozījumu, sasniedzot 195,67 miljonus eiro, liecina uzņēmuma konsolidētie neauditētie dati. ''Lattelecom'' grupas EBITDA (peļņa no pamatdarbības) ir 69,1 miljons eiro, saglabājoties iepriekšējā gada līmenī. Gada investīcijas sasniegušas 29 miljonus eiro — interneta pamattīkla attīstībā, klientu gala iekārtu modernizācijā, IT sistēmu uzlabojumos, kā arī jauno ideju attīstībā.
+
+2017. gadā ''Lattelecom'' grupas uzņēmumi valstij nodokļos nomaksāja 48,5 miljonus eiro. ''Lattelecom'' grupas peļņa, kas, salīdzinot ar 2016. gadu, augusi par 8,5 miljoniem un sasniedz 40,7 miljonus, tiks izmaksāta dividendēs uzņēmuma akcionāriem — Latvijas Republikai un ''Telia Company''.
+
+== Darbinieki ==
+
+Lattelecom grupā strādā vairāk kā 1500 darbinieki. Personāla atlases uzņēmuma SIA ''[[WorkingDay Latvia]]'' pētījumā Lattelecom tika nosaukts par trešo iekārotāko darba devēju 2017 (pirmajā vietā nokļuva SIA ''Latvijas Mobilais telefons'', bet otrajā — ''Swedbank'').<ref>{{Tīmekļa atsauce|url=https://www.workingday.lv/lv/info/karjeras-akademija/karjerai/?item_id=1055|title=WorkingDay pētījums: “iekārotākais” darba devējs Latvijā ir  “Latvijas Mobilais Telefons”|website=www.workingday.lv|access-date=2018-04-11|language=lv|archiveurl=https://web.archive.org/web/20180303124305/http://www.workingday.lv/lv/info/karjeras-akademija/karjerai/?item_id=1055|archivedate=2018-03-03}}</ref> Taču TOP101 vērtīgāko uzņēmēju topā Lattelecom ierindojas 5.vietā 2017. gadā.<ref>{{Tīmekļa atsauce|url=http://www.top101.lv/lv/top101/2017|title=Top 101 - 2017 {{!}} Top101.lv|website=www.top101.lv|access-date=2018-04-11|language=lv|archiveurl=https://web.archive.org/web/20180419120948/http://www.top101.lv/lv/top101/2017|archivedate=2018-04-19}}</ref>
+
+== Iepriekšējie logo ==
+{{Galerija
+| height=100
+|perrow=3|lines=2
+|align=center
+|captionstyle=text-align:center;
+|Attēls:Lattelekom.jpg|"Lattelekom" logo (1992—2006)
+|Attēls:Lattelecom logo.svg|"Latelecom" logo (2006—2019)
+|Attēls:Tet-logo.png| Logotips pārejas periodā 2019. gadā
+}}
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Lursoft Lattelecom">[https://www.lursoft.lv/uznemuma-pamatdati/lattelecom Lattelecom, Sabiedrība ar ierobežotu atbildību]{{Novecojusi saite}} Lursoft</ref>
+<ref name="DB 2002">[http://www.db.lv/laikraksta-arhivs/citas/lattelekom-cena-694-miljoni-eiro-346547 Lattelekom cena: 694 miljoni eiro] {{Webarchive|url=https://web.archive.org/web/20160503133057/http://www.db.lv/laikraksta-arhivs/citas/lattelekom-cena-694-miljoni-eiro-346547 |date={{dat|2016|05|03||bez}} }} Dienas Bizness, Juris Kaža, 2002. gada 30. janvāris</ref>
+<ref name="vēsture">{{Tīmekļa atsauce |url=http://www.lattelecom.lv/Lattelecom_grupa/par_Lattelecom_grupu/?ltc_nav35821=7408 |title=Vēsture |access-date={{dat|2012|10|05||bez}} |archiveurl=https://web.archive.org/web/20120513121006/http://www.lattelecom.lv/Lattelecom_grupa/par_Lattelecom_grupu/?ltc_nav35821=7408#navigationltc_nav35821 |archivedate={{dat|2012|05|13||bez}} }}</ref>
+<ref name="LETA 2006.05.19">[http://www.delfi.lv/bizness/biznesa_vide/lattelecom-pardod-microlink-meitasuznemumu-fms.d?id=14493319 'Lattelecom' pārdod 'MicroLink' meitasuzņēmumu 'FMS'] LETA, 19. maijs 2006</ref>
+<ref name="Apollo pārdošana">[http://bizness.delfi.lv/uznemumi/somijas-mediju-koncerns-sanoma-news-iegadajas-portalu-apollo.d?id=40649753 Somijas mediju koncerns 'Sanoma News' iegādājas portālu 'Apollo']{{Novecojusi saite}} delfi.lv, 2011-09-16</ref>
+<ref name="db 2018.10.09">[https://www.db.lv/zinas/lattelecom-pavasari-mainis-nosaukumu-un-zimolu-479887 Lattelecom pavasarī mainīs nosaukumu un zīmolu] LETA, 2018. gada 09. oktobris</ref>
+<ref name="db 2020.08.03">[https://www.db.lv/zinas/tet-pardod-meitasuznemumu-igauniem-497867 Tet pārdod meitasuzņēmumu igauņiem] Db.lv, 03.08.2020</ref>
+<ref name="db 2021.07.09">[https://www.db.lv/zinas/tet-valdes-priekssedetaja-amata-iecelts-uldis-tatarcuks-503531 Tet valdes priekšsēdētāja amatā iecelts Uldis Tatarčuks] LETA, 09.07.2021</ref>
+<ref name="db 2022.01.04">[https://www.db.lv/zinas/tet-iegadajas-telekomunikaciju-uznemumu-telia-latvija-505770 Tet iegādājas telekomunikāciju uzņēmumu Telia Latvija] Db.lv, 04.01.2022</ref>
+<ref name="Lattelekom privatizācija">{{Tīmekļa atsauce |url=http://www.pa.gov.lv/LPA/Lpa.php?ID=3 |title="Lattelekom" privatizācija |access-date={{dat|2012|12|19||bez}} |archiveurl=https://archive.today/20121219211324/www.pa.gov.lv/LPA/Lpa.php?ID=3 |archivedate={{dat|2012|12|19||bez}} }}</ref>
+}}
+
+== Ārējās saites ==
+* [https://www.tet.lv/ tet]
+
+{{Telesakari Latvijā}}
+{{Latvijas uzņēmumi ar lielāko peļņu}}
+{{Latvijas uzņēmumi ar lielāko apgrozījumu}}
+{{Latvijas vērtīgākie uzņēmumi}}
+
+[[Kategorija:Tet| ]]

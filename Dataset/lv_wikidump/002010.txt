@@ -1,0 +1,60 @@
+{{BioTakso infokaste
+| attēls =Plants.jpg
+| valsts =Plantae
+| valsts_lv =Augi
+| binomial=Plantae <small>([[Haeckel]], 1866)</small>
+| iedalījums=
+* {{TaksoSaite|Bryophyte|Pirmsvasas augi}}
+* {{TaksoSaite|Pteridophytes|Sporaugi}}
+* {{TaksoSaite|Spermatophytes|Sēklaugi}}
+}}
+[[Attēls:Plant Diversity (2).svg|thumb|282px|Augu evolūcijas galvenie posmi]]
+'''Augi''', '''augu valsts''' (''Plantae'') ir viena no dzīvo [[organisms|organismu]] valstīm. Pēc augšanas formas augus sauc un iedala [[koki|kokos]], [[krūmi|krūmos]], [[liāna|liānās]], [[lakstaugi|lakstaugos]], [[pirmsvasas augi|sūnās]]. Ir sauszemes augi un ūdens augi; daudzgadīgi, divgadīgi un viengadīgi augi.
+
+Svarīgākās īpašības, ar kurām augi atšķiras no citiem organismiem, ir spēja [[autotrofā barošanās|baroties autotrofi]], t. i., spēja sintezēt visas eksistencei nepieciešamās organiskās vielas no neorganiskajām, balstoties uz [[Saule]]s gaismas enerģijas izmantošanu, kā arī augi ir ar cietiem [[šūnapvalki]]em, kas izveidoti pārsvarā no [[celuloze]]s. Augi veic [[fotosintēze|fotosintēzi]], kurā tiek sintezēta gandrīz visa [[biosfēra]]i nepieciešamā organisko vielu [[biomasa]], kā arī uzturēts dzīvībai nepieciešamais [[Zemes atmosfēra|atmosfēras]] ķīmiskais sastāvs. Augi ir primārais pārtikas un enerģijas avots gandrīz visām pārējām dzīvības formām uz [[Zeme]]s. Daži augi izmanto arī [[heterotrofā barošanās|heterotrofo barošanos]] ([[saprofīti]] un [[parazītisms|parazīti]]). Ir zināmas apmēram 300 000 uz Zemes dzīvojošu augu sugas.
+
+== Augu iedalījums ==
+Tradicionāli augi tika iedalīti zemākajos un augstākajos augos. Pie augstākajiem augiem pieder sauszemes daudzšūnu augi ar attīstītu divdzimumu vairošanos. Pie zemākajiem augiem pieskaitīja [[aļģes]], [[ķērpji|ķērpjus]], [[sēnes]], [[baktērijas]] un [[vīruss|vīrusus]]. Izpētot tos šūnu un molekulārajā līmenī, tika konstatēts, ka vīrusi ir pilnīgi no visiem organismiem atšķirīga grupa, kurai ar augiem nav nekā kopēja. Pētot zemāko augu vienšūņus tika atklāts, ka zemākajiem vienšūņiem, atšķirībā no augstākajiem, nav [[šūnas kodols|kodola]] un visi šūnu organismi tika sadalīti [[prokarioti|prokariotos]] un [[eikarioti|eikariotos]]. Pie prokariotiem tika pieskaitītas visas [[baktērijas]] un [[zilaļģes]]. Augi tika definēti kā eikarioti. Salīdzinot fotosintezējošos augus ar sēnēm, tika konstatēts, ka atšķirība starp tiem ir ļoti liela un sēnes iedalīja atsevišķā [[valsts|valstī]]. Izpētot ķērpjus, konstatēja, ka tie nemaz nav [[organisms|organismi]], bet organismu kopa, jeb precīzāk sēņu un aļģu [[simbioze]]. Tādā veidā zemāko augu grupā palika tikai aļģes. Tomēr, salīdzinot vienšūnu aļģes ar [[dzīvnieki|dzīvnieku valsts]] [[vienšūņi]]em, tika konstatēts, ka morfoloģiski tie ir ļoti līdzīgi un nav loģiski tos sadalīt atsevišķās valstīs. Tāpēc 19. gadsimtā vācu biologs [[Ernsts Hekels]] nolēma izveidot vēl vienu valsti — [[protisti|protistus]], apvienojot tajā visus eikariotiskos vienšūņus. Tomēr nav īstas vienprātības, ko darīt ar daudzšūnu aļģēm un zemākajām sēnēm. Vieni tos pievieno protistiem, citi visus protistus sadala starp augiem, sēnēm un dzīvniekiem. Pārējie nevar īsti izšķirties par aļģu statusu. Ir sistemātiķi, kas pie augiem izdala zemāko augu grupu [[zaļās aļģes]], kurām ir 2 nodalījumi {{TaksoSaite|Charophyta|mieturaļģes}}
+un {{TaksoSaite|Chlorophyta|zaļaļģes}}.
+
+== Sauszemes augi ==
+Sauszemes augi ir [[autotrofi organismi]], kas [[minerālvielas]] un [[ūdens|ūdeni]] uzsūc pārsvarā no [[augsne]]s, bet fotosintēze notiek virs zemes. Tāpēc arī augu uzbūve ir pakārtota šiem abiem procesiem. Visvienkāršākie mūsdienu sauszemes augi ir [[lapu sūnas|sūnas]], kaut tām vēl nav īstu [[sakne|sakņu]], [[stumbrs|stumbra]] un [[lapas|lapu]], bet sakņu funkcijas pilda [[rizoīdi]] — ķermeņa virsmas šūnu izaugumi. Stumbru un lapas aizvieto ložņājošs [[laponis]]. Pēc savas uzbūves un [[ekoloģija]]s sūnām ir līdzība ar aļģēm. Pārējiem augiem, jeb [[vasas augi]]em jau ir izveidojies stumbrs ar lapām, kā arī sazarotu sakņu sistēma. Vienkāršākie augi vairojas ar [[sporas|sporām]], bet attīstītākie ar [[sēkla|sēklām]]. Šīs īpatnības arī nosaka augu klasifikāciju.
+
+== Klasifikācija ==
+'''Valsts''' {{TaksoSaite|Plantae|Augi}}
+* apakšvalsts {{TaksoSaite|Bryophyte|Sūnaugi}}
+** nodalījums {{TaksoSaite|Anthocerotophyta|Atoceroti}}	 
+** nodalījums {{TaksoSaite|Bryophyta|Lapu sūnas}}
+** nodalījums {{TaksoSaite|Marchantiophyta|Aknu sūnas}}
+* apakšvalsts {{TaksoSaite|Pteridophytes|Sporaugi}}
+** nodalījums {{TaksoSaite|Lycopodiophyta|Staipekņi}}
+** nodalījums {{TaksoSaite|Pteridophyta|Paparžaugi}}
+* apakšvalsts {{TaksoSaite|Spermatophytes|Sēklaugi}}
+** nodalījums †{{TaksoSaite|Pteridospermatophyta|Sēklpapardes}}
+** nodalījums {{TaksoSaite|Pinophyta|Kailsēkļi}}
+** nodalījums {{TaksoSaite|Cycadophyta|Cikadejas}}
+** nodalījums {{TaksoSaite|Ginkgophyta|Ginki}}
+** nodalījums {{TaksoSaite|Gnetophyta|Gneti}}
+** nodalījums {{TaksoSaite|Magnoliophyta|Segsēkļi}}
+
+(†) — izmirušu augu grupa.
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="120px" perrow="3">
+Attēls:Pļavas augi.JPG|[[Pļava]]s augi
+Attēls:Egļu mežs.JPG|[[parastā egle|Egļu]] [[mežs]]
+Attēls:Labības lauks.JPG|[[Labība]]s lauks
+Attēls:Mežs pavasarī.JPG|Mežs [[pavasaris|pavasarī]]
+Attēls:Ziedoši kartupeļi.JPG|Ziedoši [[kartupelis|kartupeļi]]
+Attēls:Kaktusi LU Botāniskajā dārzā.JPG|[[kaktusu dzimta|Kaktusi]] [[Latvijas Universitātes Botāniskais dārzs|LU Botāniskajā dārzā]]
+</gallery></center>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://gliemji.daba.lv/grozs/LU/LU_Bio_Raksti/LUBioRaksti/2005/Zviedre.pdf Mieturaļģu sugu nosaukumi latviešu valodā]{{Novecojusi saite}}
+* [http://priede.bf.lu.lv/grozs/Biologija_nebiologiem/Lekcijas/botanika/botanika_15_lekcija.pdf Augu bioloģiskā daudzveidība]{{Novecojusi saite}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Augi| ]]

@@ -1,0 +1,205 @@
+[[Attēls:NASA Mars Rover.jpg|thumb|250px|Viens no pašgājējiem, kas ir nosēdies uz Marsa virsmas.]]
+
+'''Marsa izpēte''' ir svarīga [[Visuma izpēte]]s daļa, kuras uzdevums ir izpētīt [[Marss (planēta)|Marsu]] un tajā aktīvi ir iesaistījušās [[Amerikas Savienotās Valstis|ASV]], [[AAE]], [[Eiropas Savienība]], [[Indija]], [[Japāna]], [[Krievijas Federācija]] un [[Ķīnas Tautas Republika]]. Kopš [[1960]]. gada ir palaistas vairākas [[starpplanētu zonde]]s, [[nepilotējamais kosmosa kuģis|nepilotējamie kosmosa kuģi]] un [[pašgājējs|pašgājēji]].
+
+Sākotnēji tika palaistas tikai [[starpplanētu zonde]]s, tagad uz Marsu sūta arī [[robots|robotus]], kas spēj pārvietoties pa [[Marss (planēta)|Marsa]] virsmu. Tā kā Marsa virsmas [[temperatūra]] naktīs noslīd līdz pat mīnus 80 [[grāds|grādiem]], bet dienā reti kad pārsniedz mīnus 20 grādus, ātri vien nolietojas [[elektronika]], bet [[saules baterija|saules bateriju]] paneļus drīz vien noklāj atmosfēras putekļi, neļaujot nodrošināt iekārtu ar [[enerģija|enerģiju]].<ref>"Maratons uz Marsa" - Ilustrētā Zinātne, 2005. gada decembra numurs, 33. lpp.</ref>
+
+== Senākie novērojumi ==
+
+1609. gadā iznāca [[Johanness Keplers|Johannesa Keplera]] grāmata ''Astronomia Nova'' (Jaunā astronomija), kurā viņš uz dāņu astronoma [[Tiho Brahe]]s novērojumu pamata secināja, ka Marsa [[orbīta]] nav vis apļveida, bet gan [[elipse]], kuras vienā [[fokuss|fokusā]] atrodas [[Saule]].<!-- turpināšu vēlāk -->
+
+== Izpēte ar kosmiskajiem aparātiem ==
+Tabula ar [[starpplanētu zonde|starpplanētu zondu]] startiem (arī neveiksmīgiem) uz Marsu:
+
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+! width="150" | Oficiālais nosaukums
+! width="100" | Izgatavotāja nosaukums
+! width="80" | Starta datums
+! width="80" | Beigu datums
+! width="150" | Mērķis 
+! width="250" | Rezultāts
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[1M Nr.1]] (''Марс 1960A'') || [[1M]] || {{dat|1960|10|10|SK}} || {{dat|1960|10|10|SK}} || Pārlidojums || Nesējraķetes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[1M Nr.2]] (''Марс 1960Б'') || [[1M]] || {{dat|1960|10|14|SK}} || {{dat|1960|10|14|SK}} || Pārlidojums || Nesējraķetes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[2MV-4 №3|№3]] (''Марс 1962А'')  || [[2MV-4]] || {{dat|1962|10|24|SK}} || {{dat|1962|10|24|SK}} || Pārlidojums || Uzsprāga īsi pēc starta
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Mars-1]] (''Марс-1'') || [[2MV-4]] №4 || {{dat|1962|11|01|SK}} || {{dat|1963|03|21|SK}} || Pārlidojums || Iegūti dati par starpplanētu telpu, bet zaudēti sakari pirms Marsa sasniegšanas
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[2MV-3 №1|№1]] (''Марс 1962B'') || [[2MV-3]] || {{dat|1962|11|04|SK}} || {{dat|1962|11|05|SK}} || Nolaišanās || Nesējraķetes 3. pakāpes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mariner 3]] || || {{dat|1964|11|05|SK}} || {{dat|1962|11|05|SK}} || Pārlidojums || Nesējraķetes kļūmes dēļ neiegāja trajektorijā uz Marsu. Pašlaik atrodas heliocentriskā orbītā
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 4]] || || {{dat|1964|11|28|SK}} || {{dat|1967|12|21|SK}} || Pārlidojums || '''Veiksmīgs'''
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Zond-2]] (''Зонд-2'') || [[Mars 3MV-4A|3MV-4A]] || {{dat|1964|11|30|SK}} || {{dat|1964|05|05|SK}} || Pārlidojums || Zaudēti sakari
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Zond-3]] (''Зонд-3'') || || {{dat|1965|07|18|SK}} || nav zināms || Izmēģinājuma lidojums || Zaudēti sakari
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 6]] || || {{dat|1969|02|25|SK}} || {{dat|1969|07|31|SK}} || Pārlidojums || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 7]] || || {{dat|1969|03|27|SK}} || {{dat|1969|08|05|SK}} || Pārlidojums || '''Veiksmīgs'''
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Mars 1969A]] (''Марс 1969A'') || [[Mars M-69|M-69]] Nr. 521 || {{dat|1969|03|27|SK}} || {{dat|1969|03|27|SK}} || Orbīta / nolaišanās || Nesējraķetes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Mars 1969B]] (''Марс 1969В'') || [[Mars M-69|M-69]] Nr. 522 || {{dat|1969|04|02|SK}} || {{dat|1969|04|02|SK}}  || Orbīta / nolaišanās || Nesējraķetes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mariner 8]] || || {{dat|1971|05|08|SK}} || {{dat|1971|05|08|SK}} || Orbīta || Nesējraķetes avārija
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-419]] (''Космос 419'') || [[Mars M-71|M-71]] || {{dat|1971|05|10|SK}} || {{dat|1971|05|12|SK}} || Orbīta / nolaišanās || Augšējās pakāpes kļūmes dēļ palika Zemes orbītā
+|-bgcolor="#D4FCC2"
+|rowspan="2"| {{flaga|PSRS}}  [[Mars-2]] (''Марс-2'') 
+|rowspan="2"| [[Mars M-71|M-71]] 
+|rowspan="2"| {{dat|1971|05|19|SK}} 
+|| {{dat|1972|08|22|SK}} || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#FCDBDB"
+| {{dat|1971|11|27|SK}} || Nolaišanās || Nolaižamais aparāts ietriecās Marsa virsmā 
+|- bgcolor="#D4FCC2" 
+|rowspan="2"| {{flaga|PSRS}} [[Mars-3]] (''Марс-3'') 
+|rowspan="2"| [[Mars M-71|M-71]] 
+|rowspan="2"| {{dat|1971|05|28|SK}} 
+|| {{dat|1972|08|22|SK}} || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#FCFCD6" 
+| {{dat|1971|11|27|SK}} || Nolaišanās || Nolaižamais aparāts nolaidās, signālu pārraidīja tikai 20 s
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 9]] || || {{dat|1971|05|30|SK}} || {{dat|1972|10|27|SK}} || Orbīta || '''Veiksmīgs'''
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Mars-4]] (''Марс-4'') || [[Mars M-73|M-73]] || {{dat|1973|07|21|SK}} || 1974. g. februāris || Orbīta || Neiegāja orbītā, veica pārlidojumu
+|-bgcolor="#FCFCD6" 
+| {{flaga|PSRS}} [[Mars-5]] (''Марс-5'') || [[Mars M-73|M-73]] || {{dat|1973|07|25|SK}} || {{dat|1974|02|21|SK}} || Orbīta || '''Daļēji veiksmīgs''', iegāja orbītā, bet pēc 9 dienām pazuda sakari
+|- bgcolor="#FCFCD6" 
+| {{flaga|PSRS}} [[Mars-6]] (''Марс-6'') || [[Mars M-73|M-73]] || {{dat|1973|08|05|SK}} || {{dat|1974|03|12|SK}} || Nolaišanās || '''Daļēji veiksmīgs'''. Noraidīti dati nolaišanās laikā, bet sakari pazuda īsi pirms nosēšanās
+|- bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Mars-7]] (''Марс-7'') || [[Mars M-73|M-73]] || {{dat|1973|08|09|SK}} || {{dat|1974|03|09|SK}} || Nolaišanās || Nolaižamais aparāts atdalījās priekšlaicīgi un iegāja heliocentriskā orbītā
+|- bgcolor="#D4FCC2"
+|rowspan="2" | {{flaga|ASV}} [[Viking 1]] 
+|rowspan="2" | 
+|rowspan="2" | {{dat|1975|08|20|SK}}
+|| {{dat|1980|08|17|SK}} || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| {{dat|1982|11|13|SK}} || Nolaišanās || '''Veiksmīgs'''
+|-bgcolor="#D4FCC2"
+|rowspan="2" | {{flaga|ASV}} [[Viking 2]] 
+|rowspan="2" | 
+|rowspan="2" | {{dat|1975|09|09|SK}}
+|| {{dat|1978|08|25|SK}} || Orbīta || '''Veiksmīgs'''
+|-bgcolor="#D4FCC2"
+| {{dat|1980|04|11|SK}} || Nolaišanās || '''Veiksmīgs'''
+|- bgcolor="#FCDBDB"
+| rowspan="2" | {{flaga|PSRS}} [[Fobos-1]] ('' Фобос-1'')
+|rowspan="2" | [[Fobos 1F|1F]]
+|rowspan="2" | {{dat|1988|08|07|SK}}
+|rowspan="2" | {{dat|1988|09|02|SK}} || Orbīta || Zaudēti sakari ceļā uz Marsu
+|-bgcolor="#FCDBDB"
+| Nolaišanās uz [[Foboss (pavadonis)|Fobosa]] || Netika izlaists
+|- bgcolor="#FCFCD6" 
+| rowspan="2" | {{flaga|PSRS}} [[Fobos-2]] ('' Фобос-2'')
+|rowspan="2" | [[Fobos 1F|1F]]
+|rowspan="2" | {{dat|1988|08|12|SK}}
+|rowspan="2" | {{dat|1989|03|27|SK}} || Orbīta || '''Daļēji veiksmīgs''': iegāja Marsa orbītā. Zaudēti sakari īsi pirms nolaižamo aparātu izlaišanas
+|- bgcolor="#FCDBDB"
+| Nolaišanās uz [[Foboss (pavadonis)|Fobosa]] (2 nolaižamie aparāti)|| Netika izlaisti
+|- bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mars Observer]] || || {{dat|1992|09|25|SK}} || {{dat|1993|08|21|SK}} || Orbīta || Zaudēti sakari īsi pirms Marsa sasniegšanas
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mars Global Surveyor]] || || {{dat|1996|11|07|SK}} || {{dat|2006|11|2|SK}} || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#FCDBDB"
+| {{flaga|Krievija}} [[Mars-96]] (''Марс-96'', arī ''Марс-8'') || [[Mars M1|M1]] || {{dat|1996|11|16|SK}} || {{dat|1996|11|17|SK}} || Orbīta / nolaišanās (2 nolaižamie aparāti un 1 [[penetrators]])|| Nesējraķetes kļūmes dēļ palika Zemes orbītā
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mars Pathfinder]] || || {{dat|1996|12|04|SK}} || {{dat|1997|09|27|SK}} || Nolaišanās / visurgājējs || '''Veiksmīgs'''
+|- bgcolor="#FCDBDB"
+| {{flaga|Japāna}} [[Nozomi]] (のぞみ)|| Planet-B || {{dat|1998|08|03|SK}} || {{dat|2003|12|09|SK}} || Orbīta || Sarežģījumi ceļojuma laikā. Nesasniedza orbītu
+|- bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mars Climate Orbiter]] || || {{dat|1998|12|11|SK}} || {{dat|1999|06|23|SK}} || Orbīta || Nepareizas komandas dēļ iegāja atmosfērā un sadega
+|- bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mars Polar Lander]] 
+|rowspan="2"| 
+|rowspan="2"| {{dat|1999|01|03|SK}} 
+|rowspan="2"| {{dat|1999|12|03|SK}} || Nolaišanās
+|rowspan="2"| Nav zināms nolaižamo aparātu liktenis
+|- bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Deep Space 2]] (DS2) || 2 [[penetrators|penetratori]]
+|-bgcolor="#D4FCC2" 
+| {{flaga|ASV}} [[2001 Mars Odyssey]] || || {{dat|2001|04|07|SK}} || '''Pašlaik vēl darbojas''' || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| [[Attēls:Logo ESA.png|20px]] [[Mars Express]] ||
+| rowspan="2" | {{dat|2003|06|02|SK}} || '''Pašlaik vēl darbojas''' || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#FCDBDB"
+| [[Attēls:Logo ESA.png|20px]] [[Beagle 2]] || || {{dat|2003|12|25|SK}} || Nolaišanās || Nosēdās, bet pilnībā neatvēra saules baterijas
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Spirit]] || [[Mars Exploration Rover|MER]]-A (MER-2) || {{dat|2003|06|10|SK}} || {{dat|2010|03|22|SK}} || Visurgājējs || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Opportunity]] || [[Mars Exploration Rover|MER]]-B (MER-1) || {{dat|2003|07|07|SK}} || {{dat|2018|06|10|SK}} || Visurgājējs || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| [[Attēls:Logo ESA.png|20px]] [[Rosetta]] || || {{dat|2004|03|02|SK}} || '''Pašlaik vēl darbojas''' || Pārlidojums || Izmantoja Marsu [[Gravitācijas manevrs|gravitācijas manevram]] ceļā uz [[Čurjumova—Gerasimenko komēta|Čurjumova—Gerasimenko komētu]] 
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mars Reconnaissance Orbiter]] || || {{dat|2005|8|12|SK}} || '''Pašlaik vēl darbojas''' || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Phoenix (zonde)|Phoenix]] || || {{dat|2007|8|4|SK}} || {{dat|2008|11|2|SK}} || Nolaišanās|| '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+| [[Attēls:Logo ESA.png|20px]] [[Dawn]] || || {{dat|2007|09|27|SK}} || '''Pašlaik vēl darbojas''' || Pārlidojums || Izmantoja Marsu [[Gravitācijas manevrs|gravitācijas manevram]] ceļā uz [[4 Vesta|Vestu]] 
+|- bgcolor="#FCDBDB"
+| {{flaga|Krievija}} [[Fobos-Grunt]] (''Фобос-Грунт'') ||
+| rowspan="2" | {{dat|2011|11|8|SK}} || rowspan="2" | {{dat|2012|1|15|SK}} || Fobosa grunts paraugu savākšana un nogādāšana uz Zemi || Neatstāja Zemes orbītu, sadega atmosfērā
+|- bgcolor="#FCDBDB"
+|  {{flaga|Ķīna}} [[Yinghuo 1]] (螢火一號) || || Orbīta || Sadega atmosfērā kopā ar ''Fobos-Grunt''
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mars Science Laboratory|MSL]] (''Curiosity'') || || {{dat|2011|11|25|SK}} || '''Pašlaik vēl darbojas''' || Visurgājējs|| ''Virsmas paraugu un atmosfēras analīze''
+|-bgcolor="#D4FCC2" 
+| {{flaga|Indija}} [[Mars Orbiter Mission]] || ''Mangalyaan'' ("Marsa spēks" || {{dat|2013|11|5|SK}} || '''Pašlaik vēl darbojas''' || Orbīta || 
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[MAVEN]] || || {{dat|2013|11|18|SK}} || '''Pašlaik vēl darbojas''' || Orbīta ||
+|-bgcolor="#D4FCC2"
+|  [[Attēls:Logo ESA.png|20px]]/{{flaga|Krievija}} [[ExoMars Trace Gas Orbiter]] ||rowspan="2"| ''ExoMars 2016'' ||rowspan="2"| {{dat|2016|03|14|SK}} || '''Pašlaik vēl darbojas''' || Orbīta || Veiksmīgi iegāja orbītā {{dat|2016|10|19|SK}}
+|-bgcolor="#FCFCD6"
+| [[Attēls:Logo ESA.png|20px]]/{{flaga|Krievija}} [[Schiaparelli]] ||'''Daļēji veiksmīgs'''|| Nolaižamais aparāts || Aparāts avarēja nosēšanās laikā, iegūti dati par lidojuma gaitu
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[InSight]] || || {{dat|2018|05|05|SK}}||'''Pašlaik vēl darbojas'''|| Nolaižamais aparāts|| ''Atmosfēras apstākļu pētīšana''
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[MarCO]] || || {{dat|2018|05|05|SK}}||{{dat|2019|01|05|SK}}|| Pārlidojums || '''Veiksmīgs''', startēja kopā ar [[InSight]]
+|-bgcolor="#D4FCC2"
+| {{flaga|AAE}} [[Emirātu Marsa Misija]] || ''Al Amal''<br>(شروع الإمارات لاستكشاف المريخ‎ "Cerība") || {{dat|2020|07|19|SK}} || Riņķo ap Marsu || Orbīta || Atmosfēras pētījumi
+|--bgcolor="#D4FCC2"
+| {{flaga|Ķīna}} [[Tianwen-1]] pavadonis ||rowspan="2"| [[Tianwen-1]]<br> (天問 "Debesu jautājumi") ||rowspan="2'| {{dat|2020|07|23|SK}} || Riņķo ap Marsu || Orbīta || Marsa pētījumi
+|-
+| {{flaga|Ķīna}} [[TIanwen-1]] nolaižamais aparāts || Riņķo ap Marsu || Nolaišanās/visurgājējs || Virsmas pētījumi/grunts radarnovērojumi
+|-bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mars 2020]] || ''Perserverance'' pašgājējs un ''Ingenuity'' [[helikopters]]  || {{dat|2020|07|30|SK}} || '''Darbojas''' ||Nolaižamais aparāts/visurgājējs|| Marsa virsmas pētījumi, virsmas paraugu iegūšana
+|}
+
+=== Plānotās misijas ===
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+! width="150" | Oficiālais nosaukums
+! width="100" | Izgatavotāja nosaukums
+! width="80" | Starta datums
+! width="80" | Beigu datums
+! width="150" | Mērķis 
+! width="250" | Rezultāts
+|-
+| bgcolor="#F3F3F3" | [[Attēls:Logo ESA.png|20px]]/{{flaga|Krievija}}  [[ExoMars 2022]] || || 2022. gads || — || Nolaižamais aparāts|| ''Nolaižamais aparāts meklēs mikrobu atstātās pēdas''
+|-
+| bgcolor="#F3F3F3" | {{flaga|Japāna}} Marsa Mikrosatelīts || || 2022. gads || - || Pavadonis/nolaižamais aparāts ||
+|-
+| bgcolor="#F3F3F3" | {{flaga|Indija}}  [[Mangalyaan 2]] || || 2024. gads || — || Nolaižamais aparāts/visurgājējs||
+|-
+| bgcolor="#F3F3F3" | {{flaga|Japāna}} Marsa Pavadoņu Misija || || 2024. gads || - || Pavadonis ||
+|}
+
+== Skatīt arī ==
+{{Portāls|Kosmonautika}}
+* [[Cilvēku misija uz Marsu]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+*[http://mars.nasa.gov/ ''NASA'' Marsa izpētes oficiālā mājaslapa]
+
+{{Saules sistēma|expanded}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Marsa izpēte| ]]
+
+[[de:Mars (Planet)#Erforschung]]

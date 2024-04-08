@@ -1,0 +1,18 @@
+{{cita nozīme|standartu organizāciju|sakaru pavadoni|Eutelsat W3C}}
+'''Vispasaules Tīmekļa konsorcijs''' ({{val-en|World Wide Web Consortium}} jeb '''W3C''') ir [[konsorcijs]], kas veido [[standarts|standartus]] jeb "rekomendācijas" [[vispasaules tīmeklis|vispasaules tīmeklim]]. Konsorciju vada [[Tims Bērnerss-Lī]], sākotnējais [[URL]] (Vienotais resursu vietrādis), [[HTTP]] (Hiperteksta transporta protokols) un [[HTML]] (Hiperteksta iezīmju valoda) radītājs.
+
+== Skatīt arī ==
+
+* [[Vispasaules tīmeklis]]
+* [[Semantiskais tīmeklis]]
+
+== Ārējās saites ==
+* [http://www.w3.org/ Oficiālā mājaslapa] {{en ikona}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Konsorciji]]
+[[Kategorija:Vispasaules tīmeklis]]
+[[Kategorija:Standartizācijas organizācijas]]

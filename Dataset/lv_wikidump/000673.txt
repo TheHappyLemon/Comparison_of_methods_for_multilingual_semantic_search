@@ -1,0 +1,79 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Novisada
+ | native_name              = ''Нови Сад''
+ | settlement_type          = 
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Panorama of Novi Sad.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Novi Sad, Serbia.jpg
+ | image_shield             = Novi Sad 001.png
+ | pushpin_map              = Serbija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 45 | latm  = 15 | lats  =  | latNS  = N
+ | longd = 19 | longm = 51 | longs =  | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Serbija}}'''
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | area_total_km2           = 699
+ | elevation_m              = 80
+ | population_total         = 231798
+ | population_as_of         = {{dat|2011|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_density_sq_mi = 
+ | population_urban         = 
+ | population_metro         = 341625
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST           = +2
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = 21000
+ | area_code                = +381(0)21
+ | website                  = {{url|http://www.novisad.rs/}}
+ | footnotes                = 
+}}
+'''Novisada''' ({{val|sr|Нови Сад}}) ir pilsēta [[Serbija]]s ziemeļos pie [[Donava]]s upes. [[Vojvodina]]s galvaspilsēta.
+
+Senākās [[serbi|serbu]] kultūras biedrības [[Matica Srpska]] (''Матица српска'') (dibināta 1826. gadā [[Budapešta|Budapeštā]]), kā arī vecākā serbu teātra - Serbijas Nacionālā teātra (''Српско народно позориште'') mītnes vieta.
+
+Novisadā tradicionāli notiek viens no lielākajiem rokmūzikas festivāliem [[Balkānu pussala|Balkānos]] - ''[[EXIT]]''.
+
+Pilsētā ir [[Enerģētika|enerģētikas]] uzņēmuma ''[[Naftna Industrija Srbije]]'' (''NIS'') galvenais birojs un naftas pārstrādes rūpnīca.
+
+2022. gadā Novisada, kopā ar [[Eša pie Alzetes|Ešu pie Alzetes]] [[Luksemburga|Luksemburgā]] un [[Kauņa|Kauņu]] [[Lietuva|Lietuvā]], bija [[Eiropas kultūras galvaspilsēta]].
+
+== Vēsture ==
+Kaut arī jau no [[akmens laikmets|akmens laikmeta]] Donavas labajā krastā bija apmetne, no kuras vēlāk izveidojās Petrovaradinas pilsēta, pati Novisada radās 1694. gadā kā [[pareizticība|pareizticīgo]] serbu apmetne ārpus Petrovaradinas, jo serbiem bija aizliegts mitināties pilsētā.
+
+1748. gadā pilsēta kļuva par "ķeizarisko brīvpilsētu". 18. un 19. gadsimtā Novisada bija lielākā pilsēta ar etnisko serbu pārsvaru pasaulē un galvenais serbu kultūras centrs. Pēc 1867. gada Novisada tika iekļauta [[Austroungārija]]s [[ungāri|ungāru]] daļā un izvērsās stingra [[maģārizācija]]s politika.
+
+1918. gada 9. novembrī Novisadu ieņēma [[Serbija]]s karaspēks un no 1918. gada 1. decembra Novisada, tāpat kā visa Vojvodina, kļuva par [[Serbu, horvātu un slovēņu karaliste]]s daļu, bet Novisada - par Donavas Banovinas provinces centru.
+
+[[Otrais pasaules karš|Otrā Pasaules kara]] laikā Novisadu bija okupējušas ungāru daļas, bet 1944. gada 23. oktobrī pilsētu ieņēma [[Josips Brozs Tito|Tito]] partizāni. Pēc kara Novisada ir [[Vojvodinas Autonomais apgabals|Vojvodinas Autonomā apgabala]] galvaspilsēta.
+
+Novisada smagi cieta [[NATO Dienvidslāvijas bombardēšana]]s laikā. Tika sagrauti visi tilti pār Donavu. Vairākkārt tika bombardēti dzīvojamie rajoni, kā arī naftas pārstrādes rūpnīca, izraisot smagas sekas apkārtnes ekoloģijai.
+
+== Cilvēki ==
+Novisadā dzimuši:
+
+* [[Josips Jelačičs]] (''Josip Jelačić'') (1801-1859) — karavadonis, politiķis;
+* [[Josefs Lapids]] (''יוסף (טומי) לפיד, Yosef Lapid'') (1931-2008) — [[Izraēla]]s politiķis;
+* [[Monika Seleša]] (''Моника Селеш'') (1973-) — tenisiste.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{o-mlapa|http://www.novisad.rs/}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Serbijas pilsētas]]

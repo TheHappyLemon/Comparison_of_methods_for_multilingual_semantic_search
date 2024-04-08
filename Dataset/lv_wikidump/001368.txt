@@ -1,0 +1,15 @@
+{{Cita nozīme|programmas kodu|2011. gada filmu|Pirmkods (filma)}}
+[[Attēls:CodeCmmt002.svg|thumb|right|300px|[[Java (programmēšanas valoda)|Java]] pirmkoda attēlojums ar ievadkomentāriem sarkanā, iekškomentāriem zaļā krāsā un programmas kodu zilā krāsā]]
+
+'''Pirmkods''' ([[angļu valoda|angļu]]: ''Source code'') ir formulējumu virkne, kas rakstīta cilvēkam saprotamā [[programmēšanas valoda|programmēšanas valodā]]. Mūsdienu programmēšanas valodās pirmkods, kas veido programmu, parasti ir sadalīts daudzos [[teksta fails|teksta failos]], taču var tikt arī izdrukāts grāmatā vai ierakstīts lentā (parasti bez [[fails|failu]] sistēmas). Terminu parasti attiecina uz [[dators|datoriem]] paredzēto [[programmatūra|programmatūru]], kur tas ir failu kopums, kuru var pārvērst no cilvēkam saprotamas formas uz datorā izpildāmu formu. Pirmkodu parasti vai nu pārvērš par noteiktā arhitektūrā izpildāmu failu ar [[kompilators|kompilatora]] palīdzību, vai arī izpilda uzreiz ar [[interpretators|interpretatora]] palīdzību.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Programmatūra]]

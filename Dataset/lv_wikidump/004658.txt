@@ -1,0 +1,14 @@
+'''Atmosfēra''' (apzīmējums '''atm''') ir ārpussistēmu [[spiediens|spiediena]] mērvienība, kas vienāda ar normālu [[atmosfēras spiediens|atmosfēras spiedienu]] uz [[Zeme]]s [[jūras līmenis|jūras līmenī]], t.i., spiediens atbilst 760 mm augstam dzīvsudraba stabiņam 0°С temperatūrā ar dzīvsudraba blīvumu 13595,1 kg/m³ un normālu [[brīvās krišanas paātrinājums|brīvās krišanas paātrinājumu]] 9,80665 m/s².
+
+: 1 atm = 1013,25 h[[Paskāls|Pa]] = 1013,25 m[[Bārs (mērvienība)|bar]]
+: 1 atm = 101,325 kPa
+: 1 atm = 760 tori
+
+Pielieto arī mērvienību "'''tehniskā atmosfēra'''" ar apzīmējumu '''at''', kas ir vienāda ar spiedienu, ko rada 1 [[spēka kilograms|kgf]] spēks, vienādi sadalīts uz plakanu virsmu ar laukumu 1 cm².
+
+: 1 at = 98066,5 Pa
+: 1 at = 0,967841 atm
+
+{{spiediena mērvienības}}
+
+[[Kategorija:Spiediena mērvienības]]

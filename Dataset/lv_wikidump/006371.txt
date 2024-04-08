@@ -1,0 +1,15 @@
+{{{1}}}<span style="font-weight: normal"> ({{val|ja|{{{2}}}}}{{#if:{{{3|}}}
+ |<span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{3}}}</span></i>
+ |<span class="t_nihongo_norom" style="display:none"><span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{1}}}</span></i></span>
+}}{{#if:{{{4| {{{extra|}}} }}}
+ |{{#if:{{{3|}}}|,|<span></span>}} {{{4| {{{extra}}} }}}
+}}){{
+  #if: {{{5| {{{extra2|}}} }}} | <nowiki></nowiki> {{{5| {{{extra2}}} }}}
+}}</span><noinclude>
+{| style="background: none; border: none;"
+|+ Usage
+|<pre>{{nihongo|English|Kanji|Romaji|extra|extra2}}</pre>
+|}
+
+[[Kategorija:Vikipēdijas veidnes]]
+</noinclude>

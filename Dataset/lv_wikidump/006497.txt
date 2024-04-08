@@ -1,0 +1,48 @@
+Šajā uzskaitījumā apkopoti '''[[Latvijas Republika]]s reģionālās attīstības un pašvaldību lietu ministri''', kas bija [[Ministru kabinets|Latvijas Republikas Ministru kabineta]] locekļi. Politiskā līmenī vadīja [[Latvijas Republikas Reģionālās attīstības un pašvaldības lietu ministrija|Reģionālās attīstības un pašvaldības lietu ministriju]]. Amats tika izveidots [[2002]]. gadā. Līdz [[2003. gads|2003]]. gada janvārim šim amatam bija '''Īpašu uzdevumu ministrs reģionālās attīstības un pašvaldību lietās'''. [[2010. gads|2010]]. gada martā tika paziņots par plānu ministriju un līdz ar to arī amatu likvidēt. {{dat|2011|01|01}} tika likvidēta ministrija un amats, bet {{dat||01|06}}, apvienojoties RAPLM ar Vides ministriju, tika atjaunots [[Latvijas Republikas vides aizsardzības un reģionālās attīstības ministrs|vides aizsardzības un reģionālās attīstības ministra]] krēsls.
+
+== Uzskaitījums ==
+{{colbegin|3}}
+{{legend| #24375B | [[Jaunais laiks]] |border=1px solid #AAAAAA}}
+{{legend| #EF9D48 | [[Tautas partija]] |border=1px solid #AAAAAA}}
+{{legend| #647A28 | [[Zaļo un Zemnieku savienība]] |border=1px solid #AAAAAA}}
+{{legend| #99CC33 | [[Vienotība]] |border=1px solid #AAAAAA}}
+{{legend| #DDDDDD | Bez partijas / Neatkarīgais |border=1px solid #AAAAAA}}
+{{colend}}
+
+{| class="sortable wikitable"
+!colspan="2" | # !! Portrets !! Vārds, uzvārds<br/> <small>(Dzimis—miris)</small> !! Pilnvaru termiņš !! Politiskā partija / piederība !! Ministru kabinets !! Piezīmes
+|-
+| align="center" colspan="8" | '''Īpašu uzdevumu ministrs reģionālās attīstības un pašvaldību lietās (2002 — 2003)''' 
+|-
+| style="background: #24375B| || '''1.''' || [[File:Sin foto.svg|80px]] || '''[[Ivars Gaters]]''' <br/><small>(1962)</small> || [[2002]]. gada [[7. novembris]] — [[2003]]. gada [[janvāris]] || [[Jaunais laiks]] || [[Repšes Ministru kabinets]] ||
+|-
+| align="center" colspan="8" | '''Reģionālās attīstības un pašvaldību lietu ministrs (2003 — 2011)''' 
+|-
+| style="background: #24375B| || '''1.''' || [[File:Sin foto.svg|80px]] || '''[[Ivars Gaters]]''' <br/><small>(1962)</small> || [[2003]]. gada [[janvāris]] — [[2004]]. gada [[9. marts]] || [[Jaunais laiks]] || [[Repšes Ministru kabinets]] ||
+|-
+| style="background: #DDDDDD| || '''2.''' || [[File:Sin foto.svg|80px]] || '''[[Andrejs Radzevičs]]''' <br/><small>(1966)</small> || [[2004]]. gada [[9. marts]] — [[2. decembris]] || Bez partijas || [[Emša Ministru kabinets]] ||
+|-
+| style="background: #EF9D48| || '''3.''' || [[Attēls:BA Latvijas delegācijas un Baltijas lietu apakškomisijas tikšanās ar premjerministru Māri Kučinski (29360468395).jpg|80px]] || '''[[Māris Kučinskis]]''' <br/><small>(1961)</small> || [[2004]]. gada [[2. decembris]] — [[2006]]. gada [[7. novembris]] || [[Tautas partija]] || [[Kalvīša 1. Ministru kabinets]] ||
+|-
+| style="background: #EF9D48| || '''4.''' || [[Attēls:Aigars Stokenbergs saeima.jpg|80px]] || '''[[Aigars Štokenbergs]]''' <br/><small>(1963)</small> || [[2006]]. gada [[7. novembris]] — [[2007]]. gada [[19. oktobris]] || [[Tautas partija]] || rowspan="3"| [[Kalvīša 2. Ministru kabinets]] ||
+|-
+| style="background: #EF9D48| || — || [[Attēls:Oskars Spurdzins saeima.jpg|80px]] || [[Oskars Spurdziņš]] <br/><small>(1963)</small> || [[2007]]. gada [[19. oktobris]] — [[8. novembris]] || [[Tautas partija]] || ''pienākumu izpildītājs''
+|-
+| rowspan="3" style="background: #EF9D48| || rowspan="3"| '''5.''' || rowspan="3"| [[Attēls:Flickr - Saeima - 10.Saeimas deputāts Edgars Zalāns.jpg|80px]] || rowspan="3"| '''[[Edgars Zalāns]]''' <br/><small>(1967)</small> || rowspan="3"| [[2007]]. gada [[8. novembris]] — [[2010]]. gada [[17. marts]] || rowspan="3"| [[Tautas partija]] || rowspan="3"|
+|-
+| [[Godmaņa Ministru kabinets]]
+|-
+| rowspan="3"| [[Dombrovska 1. Ministru kabinets]]
+|-
+| style="background: #647A28| || — || [[Attēls:Flickr - Saeima - 10.Saeimas deputāts Raimonds Vējonis.jpg|80px]] || [[Raimonds Vējonis]] <br/><small>(1966)</small> || [[2010]]. gada [[23. marts]] — [[13. maijs]] || [[Zaļo un Zemnieku savienība]] || ''pienākumu izpildītājs''
+|-
+| style="background: #EF9D48| || '''6.''' || [[Attēls:Dagnija Stake.jpg|80px]] || '''[[Dagnija Staķe]]''' <br/><small>(1951)</small> ||  [[2010]]. gada [[13. maijs]] — [[3. novembris]] || [[Zaļo un Zemnieku savienība]] <small>(Latvijas Zemnieku savienība)</small>||
+|-
+| style="background: #99CC33| || '''7.''' || [[Attēls:Valdis Dombrovskis 2009.jpg|80px]] || '''[[Valdis Dombrovskis]]''' <br/><small>(1971)</small> ||  [[2010]]. gada [[3. novembris]] — [[2011]]. gada [[1. janvāris]] || Vienotība <small>(Jaunais laiks)</small>|| [[Dombrovska 2. Ministru kabinets]]
+|}
+
+{{Ministru kabinets}}
+
+[[Kategorija:Latvijas reģionālās attīstības un pašvaldību lietu ministri| ]]
+[[Kategorija:Ministru kabineta locekļi|Reģionālās attīstības un pašvaldību lietu ministri]]
+[[Kategorija:Ar Latviju saistīti uzskaitījumi|Reģionālās attīstības un pašvaldību lietu ministri]]

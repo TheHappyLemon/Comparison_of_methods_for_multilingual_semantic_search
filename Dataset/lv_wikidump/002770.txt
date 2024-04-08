@@ -1,0 +1,32 @@
+[[Attēls:Human male karyotpe high resolution.jpg|thumbnail|250px|Vīrieša hromosomas ([[kariotips]]: 2n = 46 XY)]]
+'''Hromosoma''' ({{val|grc|χρώμα}}, ''chrōma'' — ‘krāsa’; {{gree|σώμα}}, ''sōma'' — ‘ķermenis’) ir [[šūna]]s [[šūnas kodols|kodola]] pašreproducējoša pavedienveida struktūra, kurā ieslēgta šūnas galvenā [[iedzimtība|ģenētiskā informācija]]. Hromosomas ir visu [[eikarioti|eikariotu]] šūnu kodolos. [[Bezdzimumvairošanās|Šūnas dalīšanās]] laikā hromosomas likumsakarīgi sadalās pa meitšūnām. Hromosomas sastāv no [[dezoksiribonukleīnskābe]]s (DNS), kas ieslēgta galvenokārt histonu tipa [[olbaltumvielas|olbaltumvielu]] apvalkā.
+
+Homoloģiskās hromosomas ir sugas strukturāli un morfoloģiski identiskās hromosomas ar vienādu [[gēns|gēnu]] izvietojumu. [[Mejoze|Mejozē]] starp homoloģiskajām hromosomām notiek konjugācija. Katrai sugai ir noteikts [[kariotips]], tai raksturīgais hromosomu komplekts.
+
+Hromosomas ir ļoti tievi un gari pavedieni, kas katrs atsevišķi saskatāmi tikai [[elektronmikroskops|elektronmikroskopā]] ([[optiskais mikroskops|gaismas mikroskopā]] tās visas kopā redz kā blīvas kodola vielas piciņas — [[hromatīns|hromatīnu]]). Kodola dalīšanās laikā hromosomas savijas spirālē, kļūst īsas, resnas un krāsotās hromosomas ir saskatāmas gaismas mikroskopā.
+
+Dzimumhromosomas ir dažāda [[dzimums|dzimuma]] pārstāvju atšķirīgās hromosomas. X hromosoma nosaka dzimuma atšķirības. [[Sieviete|Sievietēm]] ir divas X hromosomas, [[Vīrietis|vīriešiem]] — viena X un viena Y hromosoma. Ja vienā no sievietes X hromosomu gēniem ir kāds defekts, to kompensē tā paša gēna normālā versija otrajā hromosomā. Pastāv pavisam niecīga varbūtība, ka abās hromosomās būs gēni ar defektiem. Savukārt vīriešiem šādu rezervju nav, jo X hromosoma satur 1098 gēnus, kamēr Y hromosoma — tikai 78 gēnus, turklāt tikai daļai no tiem ir kopijas X hromosomā. Tādējādi sievietēm ir vismaz par 1000 gēniem vairāk nekā vīriešiem, kas padara viņas izturīgākas pret slimībām.<ref>{{Tīmekļa atsauce|url=https://www.apollo.lv/4721571/kas-izriet-no-cilveka-x-hromosomas-atsifresanas|title=Kas izriet no cilvēka X hromosomas atšifrēšanas?|website=Apollo.lv|access-date=2020-09-12|date=2005-03-23|language=lv}}</ref>
+
+Hromosoma veidota no spiralizēta hromatīna pavediena, kas sastāv aptuveni no 40% DNS un 60% olbaltumvielu. Šīs olbaltumvielas iedala histonu un nehistonu olbaltumvielās. H2A, H2B, H3 un H4 olbaltumvielas veido nukleosomas, bet H1 noslēdz ienākošo un izejošo DNS pavedienu. Histoni ir pozitīvi lādēti, bet DNS — negatīvi.
+
+== Hromosomu kartes ==
+Hromosomā esošo [[gēns|gēnu]] izvietojumu grafiskā attēlojumā sauc par [[hromosomas karte|hromosomas karti]]. Klasiskajās hromosomu kartēs gēnu atrašanās vietas tiek atzīmētas noteiktā [[mērogs|mērogā]], tiek norādīts gēnu saīsinātais nosaukums un attālums no nosacītās kartes sākumpunkta. [[Citoģenētika|Citoģenētikā]] sastāda citoģenētiskās hromosomu kartes, bet uz DNS sekvencēšanas datiem tiek fiksēta nukleotīdu secība hromosomās vai atsevišķos DNS fragmentos. Gēnu secība ir vienāda, bet to savstarpējie relatīvie attālumi var atšķirties.
+
+== Hromosomu pārveides ==
+Hromosomu pārveides rodas, ja hromosoma pārtrūkst un radušies fragmenti savienojas citādā secībā. Notiek hromosomu struktūras pārmaiņas.
+
+== Atsauces ==
+{{atsauces}}
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.neslimo.lv/pme/?name=hromosomas | title= Hromosomas <nowiki>|</nowiki> Medicīnas termins | publisher= Populārā medicīnas enciklopēdija (neslimo.lv)}}
+
+{{Bioloģija-aizmetnis}}
+
+{{ģenētika}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hromosomas| ]]

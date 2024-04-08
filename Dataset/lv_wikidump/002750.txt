@@ -1,0 +1,53 @@
+{{Upes infokaste 
+| nosaukums         = Leha
+| citvaloda      = de
+| oriģinālnosaukums = Lech
+| attēls            = Lech_Augsburg.jpg
+| attēla_izmērs     = 
+| paraksts          = Leha pie Augsburgas
+| karte             = 
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Forarlberga]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Donava]]
+| sāk_plat_d=47 | sāk_plat_m=10 | sāk_plat_s=25 | sāk_plat_NS=N 
+| sāk_gar_d=10 | sāk_gar_m=00 | sāk_gar_s=14 | sāk_gar_EW=E
+| iet_plat_d=48 | iet_plat_m=44 | iet_plat_s=06 | iet_plat_NS=N 
+| iet_gar_d=10  | iet_gar_m=56 | iet_gar_s=13 | iet_gar_EW=E 
+| baseina_valstis   = 
+| tek_caur          = {{AUT}}<br />{{GER}}
+| garums            = 248
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 
+| gada_notece       = 
+| baseins           = 4100
+| pietekas          = 
+  | vietaskarte       = Vācija#Eiropa
+  | reljefs           = jā
+}}
+
+'''Leha''' ({{val|de|Lech}}) ir upe [[Austrija|Austrijā]] un [[Vācija|Vācijā]], [[Bavārija|Bavārijā]]. [[Donava]]s labā krasta pieteka. Sākas [[Forarlberga|Forarlbergā]], Austrijā 1865 m v.j.l. Augštecē tek pa dziļu [[Alpi|Alpu]] ieleju.
+
+== Liela pilsēta Lehas krastos ==
+* [[Augsburga]] (''Augsburg'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Austrija-aizmetnis}}
+{{Vācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas upes]]
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Donavas baseina upes]]
+[[Kategorija:Donavas pietekas]]
+[[Kategorija:Tirole]]
+[[Kategorija:Forarlberga]]
+[[Kategorija:Bavārija]]

@@ -1,0 +1,57 @@
+{{Apbalvojuma infokaste
+| name         = Nobela prēmija
+| image        = Nobela_preemijas_medalja.jpg
+| caption      = Nobela prēmijas medaļa. Nobela prēmijas medaļa par sasniegumiem fizikā, ķīmijā, fizioloģijā vai medicīnā un literatūrā
+| awarded_for  =
+| presenter    = {{Plainlist|
+* [[Karaliskā Zviedrijas zinātņu akadēmija]] (Fizikā, ķīmijā un ekonomikas zinātnēs<ref>{{tīmekļa atsauce| url = https://www.nobelprize.org/prizes/economic-sciences/| title = THE SVERIGES RIKSBANK PRIZE IN ECONOMIC SCIENCES IN MEMORY OF ALFRED NOBEL}}</ref>)
+* [[Karaliskais Kārļa institūts]] (fizioloģijā vai medicīnā)
+* [[Zviedrijas akadēmija]] (literatūras balva)
+* [[Norvēģijas Nobela komiteja]] (miera balva)
+}}
+| country      = {{Plainlist|
+* [[Zviedrija]] (visas balvas izņemot miera balvu)
+* [[Norvēģija]] (tikkai miera balvu)
+}}
+| year        = 1901. gadā
+| reward      = zelta medaļa, diploms, un [[naudas balva]] 10 miljonu [[zviedru krona|SEK]] apmērā
+| holder_label = Number of laureates
+| holder       = 609 balvas 975 laureātiem (līdz 2021. gadam)
+| website      = {{URL|https://nobelprize.org/}}
+|year2=2022. gadā}}
+
+'''Nobela prēmija''' ({{val-sv|Nobelpriset}}, {{val-no|Nobelprisen}}) ir ikgadēja starptautiska [[balva]], ko piešķir cilvēkiem, kas ir veikuši izcilus pētījumus, atklājumus vai devuši ievērojamu sniegumu sabiedrībai [[zinātne|zinātnē]] un [[kultūra|kultūrā]]. Zviedru rūpnieks un [[dinamīts|dinamīta]] izgudrotājs [[Alfrēds Nobels]] paredzēja šīs prēmijas savā testamentā, ko viņš parakstīja Zviedru-norvēģu klubā Parīzē, {{dat|1895|11|27}}. Viņš bija šokēts par dinamīta, sava izgudrojuma, izmantošanu postošiem nolūkiem un vēlējās, lai šīs prēmijas pasniegtu cilvēkiem, kuri ir labi kalpojuši cilvēcei. Kopš 1901. gada tiek pasniegtas Nobela prēmijas [[Nobela prēmija fizikā|fizikā]], [[Nobela prēmija ķīmijā|ķīmijā]], [[Nobela prēmija fizioloģijā vai medicīnā|fizioloģijā vai medicīnā]], [[Nobela prēmija literatūrā|literatūrā]] un [[Nobela miera prēmija|miera veicināšanā]]. Papildus šīm Nobela testamentā norādītajām balvām, 1968. gadā [[Zviedrijas Riksbanka]] nodibināja balvu [[Nobela prēmija ekonomikā|ekonomikas]] zinātnes jomā, kas kopš 1969. gada tiek pasniegta reizē ar Nobela dibinātajām balvām. Tās oficiālais nosaukums ir "Zviedrijas Riksbankas prēmija ekonomikas zinātnēs Alfrēda Nobela piemiņai" ({{val-sv|Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne}}).<ref>{{tīmekļa atsauce | title = Nomination and Selection of Laureates in Economic Sciences | publisher = Nobel Foundation|url = http://www.nobelprize.org/nomination/economic-sciences/}}</ref>
+
+Nobela miera prēmiju katru gadu pasniedz [[Norvēģija]]s galvaspilsētā [[Oslo]], bet pārējo nomināciju Nobela prēmijas pasniedz [[Zviedrija]]s galvaspilsētā [[Stokholma|Stokholmā]]. Nobela prēmija visās kategorijās tiek uzskatīta par visprestižāko balvu.<ref name="Shalev69"/>
+
+[[Karaliskā Zviedrijas zinātņu akadēmija|Karaliskajā Zviedrijas zinātņu akadēmijā]] ik gadu tiek nolemts, kam piešķirt Nobela prēmiju fizikā, ķīmijā un ekonomikā, savukārt [[Karaliskais Kārļa institūts|Karaliskajā Kārļa institūtā]] tiek nolemts, kam piešķirt Nobela prēmiju fizioloģijā vai medicīnā, bet [[Zviedrijas akadēmija|Zviedrijas akadēmijā]] izvēlas literatūras balvas saņēmēju. Nobela miera prēmijas saņēmēju neizvēlas Zviedrijas organizācijas, bet gan [[Norvēģijas Nobela komiteja]].
+
+Katrs Nobela prēmijas laureāts saņem zelta [[medaļa|medaļu]], [[diploms|diplomu]] un naudas summu, kuras lielumu katru gadu nosaka Nobela komiteja, saskaņā ar ekonomisko situāciju. Piemēram, 2011. gadā Nobela prēmija katrā nominācijā bija 10 miljoni [[Zviedrijas krona|Zviedrijas kronu]], bet 2012. gadā tās samazinājās uz 8 miljoniem kronu (kas aptuveni pēc vērtības līdzinās pirmajām Nobela prēmijām 1901. gadā, kad tās bija 150 782 kronas).<ref>{{ziņu atsauce | url= http://www.thelocal.se/20120611/41378|title= Committee lowers Nobel Prize by 2 million kronor| publisher= ''The Local''}}</ref> Balva netiek piešķirta pēc laureāta nāves, taču gadījumos, kad tā ir izziņota, bet līdz balvas saņemšanai laureāts nomirst, tā tomēr tiek piešķirta.<ref name="cbc1003"/> Vienā nominācijā ik gadu Nobela prēmija nevar tikt pasniegta vairāk par trim cilvēkiem.<ref name="Schmidhuber"/>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Shalev69">{{grāmatas atsauce | last= Shalev | first= Baruch Aba | title= 100 years of Nobel prizes | url= http://books.google.com/?id=PfRaPHr86XUC | year= 2005 | publisher= The Americas Group | edition= 3. | isbn= 978-0-935047-37-0 | page= 8}}</ref>
+<ref name="cbc1003">{{ziņu atsauce | title= Montreal-born scientist dies before Nobel honour | url= http://www.cbc.ca/news/technology/story/2011/10/03/nobel-prize-medicine.html | accessdate= 2012-11-26 | publisher= CBC News | date= 2011. gada 3. oktobrī | language= angliski}}</ref>
+<ref name="Schmidhuber">{{ziņu atsauce | url= http://www.idsia.ch/~juergen/nobelshare.html | title= Evolution of National Nobel Prize Shares in the 20th century | last= Schmidhuber | first= Jürgen | language= angliski | access-date= {{dat|2011|03|27||bez}} | archiveurl= https://web.archive.org/web/20140327012415/http://www.idsia.ch/~juergen/nobelshare.html | archivedate= {{dat|2014|03|27||bez}} }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.nobelprize.org/ Nobela E-muzejs] - oficiālā mājaslapa
+* [http://nobelprize.org/nobel/nobel-foundation/index.html Nobela Fonds] {{Webarchive|url=https://web.archive.org/web/20050306144204/http://nobelprize.org/nobel/nobel-foundation/index.html |date={{dat|2005|03|06||bez}} }} - oficiālā mājaslapa
+* [http://www.kva.se/ Zviedrijas Karaliskās zinātņu akadēmijas]
+* [http://www.kva.se/KVA_Root/swe/awards/nobel/index.asp Nobela prēmijas komitejas] {{Webarchive|url=https://web.archive.org/web/20061008015056/http://www.kva.se/KVA_Root/swe/awards/nobel/index.asp |date={{dat|2006|10|08||bez}} }}
+* [http://www.ki.se/ Karolinska Institūta]
+* [https://web.archive.org/web/20040804102651/http://info.ki.se/ki/nobel_en.html Nobela prēmijas komiteja]
+* [https://web.archive.org/web/20040812192556/http://www.svenskaakademien.se/ENG/ Zviedrijas Akadēmija]
+* [https://web.archive.org/web/20131013020609/http://www.nobel.no/ Norvēģijas Nobela prēmijas komiteja]
+* [http://www.nobelprizes.com/ Nobela prēmijas interneta arhīvs] - neoficiāla mājaslapa
+* [http://www.nobel-winners.com Nobela prēmijas ieguvēju hronika]
+* [https://web.archive.org/web/20041205013517/http://www.nobelpreis.org/english/index.html Nobelpreis.org]
+
+{{Nobela prēmija}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nobela prēmija| ]]

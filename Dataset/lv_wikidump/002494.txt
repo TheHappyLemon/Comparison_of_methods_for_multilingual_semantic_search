@@ -1,0 +1,78 @@
+{{Parka infokaste
+| name            = Firsta Piklera parks
+| alt_name        = 
+| photo           = Park Muzakowski2.jpg
+| photo_width     = 
+| photo_caption   = 
+| photo_alt       = 
+| logo            = 
+| logo_width      = 
+| logo_caption    = 
+| logo_alt        = 
+| map             = Vācija#Polija
+| map_width       = 
+| map_caption     = 
+| map_alt         = 
+| latd  = 51 | latm  = 33 | lats  =  1 | latNS  = N
+| longd = 14 | longm = 43 | longs = 36 | longEW = E
+| type            = 
+| location        = 
+* {{POL}}
+* {{GER}}
+| nearest_city    = 
+| area            = 559,9 ha
+| elevation       = 
+| created         = 1815
+| designer        =
+| etymology       = 
+| operator        = 
+| visitation_num  = 
+| visitation_year = 
+| visitation_ref  = 
+| status          = 
+| awards          = 
+| open            = 
+| camp_sites      = 
+| hiking_trails   = 
+| other_info      = 
+| website         = 
+| child           = 
+| embedded        = {{Designation list
+|embed=yes
+| designation1 = WHS
+| designation1_date = 2004 <small>(28. sesija)</small>
+| designation1_number = [http://whc.unesco.org/en/list/1127 1127]
+| designation1_criteria = ii, iv
+| designation1_type = Kultūra
+| designation1_free2name = Reģions
+| designation1_free2value = Eiropa un Ziemeļamerika
+}}
+}}
+'''Firsta Piklera parks''', arī '''Mužakovska parks''' ({{val|de|Fürst-Pückler-Park}}, arī ''Park von Muskau'', ''Muskauer Park'', {{val|pl|Park Mużakowski}}) ir lielākais un slavenākais [[angļu stila parks]] [[Vācija|Vācijā]] un [[Polija|Polijā]]. Atrodas robežupes [[Neise]]s abos krastos, Vācijā — [[Saksija|Saksijā]] un Polijā — [[Lubušas vojevodiste|Lubušas vojevodistē]].
+
+Parka centrs atrodas Bādmuskavā (''Bad Muskau'') — Vācijā, tomēr 2/3 no parka teritorijas kopš 1945.gada atrodas Polijā. Parka kopējā teritorija — 559,9 ha.
+
+Parku no 1815. līdz 1844.gadam izveidoja [[firsts]] [[Hermanis fon Piklers-Muskavs]] (''Hermann von Pückler-Muskau'') (1785-1871) — vācu augstmanis un apkārtējo zemju īpašnieks. Dzīves pirmajā pusē kalpodams kā militārpersona, pēc pensionēšanās viņš devās uz [[Anglija|Angliju]], kur interesējās par ainavu arhitektūru. Atgriežoties dzimtajā [[Bādmuskava|Bādmuskavā]] (toreiz Muskavā), viņš finansēja ainavu parka izveidi. Parka izbūvi vadīja izcils ainavu arhitekts [[Eduards Pecolds]] (''Eduard Petzold''). Parkā saglabājušās vairākas [[klasicisms|klasicisma]] celtnes — Vecā un Jaunā pils, Oranžērija un citas.
+
+2004.gadā parks iekļauts [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]], kā lieliski saglabājies ainavu parks, kura izveide ietekmējusi ainavu arhitektūras attīstību visā Eiropā, sevišķi pilsētās.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{o-mlapa|http://www.muskauer-park.de/}}
+
+
+{{Vācija-aizmetnis}}
+{{Polijas ģeogrāfija-aizmetnis}}
+{{Polija UNESCO}}
+{{Vācija UNESCO}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:UNESCO Pasaules mantojuma vietas Polijā]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Vācijā]]
+[[Kategorija:Celtnes un būves Vācijā]]
+[[Kategorija:Parki]]
+[[Kategorija:Apskates vietas Vācijā]]
+[[Kategorija:Ainavu arhitektūra]]
+[[Kategorija:Lubušas vojevodiste]]
+[[Kategorija:Saksija]]

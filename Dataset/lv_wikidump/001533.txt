@@ -1,0 +1,30 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Toluene chemical structure.png]] <br />Toluola struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>
+|molmasa=92,14
+|blīvums=866,9
+|kušanas temperatūra=180 K (-93&nbsp;°C)
+|viršanas temperatūra=303,8 K (110,6&nbsp;°C)
+}}
+[[Attēls:Toluol electron density.png|thumb|200px|Elektronu mākoņa blīvums toluola molekulā]]
+'''Toluols''' (metilbenzols, fenilmetāns, C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>) ir bezkrāsains, degtspējīgs šķidrums ar asu smaku. Toluolam ir samērā liels gaismas laušanas koeficients. Toluols pieder pie [[aromātiskie ogļūdeņraži|aromātiskajiem ogļūdeņražiem]].
+
+== Īpašības ==
+Metilgrupa ir elektrondonorais [[aizvietotājs]], kas novirza [[Elektrofilitāte|elektrofilos]] aizvietotājus ''o''- un ''p''-pozīcijās, bet nukleofilos — ''m''-pozīcijās. Metilgrupa var tikt oksidēta līdz [[karboksilgrupa]]i; ar maigākiem oksidētājiem iespējams oksidēt oglekli līdz zemākai [[oksidēšanas pakāpe]]i. Oksidējot toluolu, iegūst [[benzoskābe|benzoskābi]], nitrējot toluolu, var iegūt dinitrometilbenzolu un [[trinitrotoluols|trinitrotoluolu]].
+
+== Izmantošana ==
+Toluolu lieto kā [[šķīdinātājs|šķīdinātāju]], jo tas nav tik toksisks kā [[benzols]]. Dažreiz toluolu lieto arī, lai palielinātu degvielu [[oktānskaitlis|oktānskaitli]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Aromat}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogļūdeņraži]]
+[[Kategorija:Šķīdinātāji]]
+
+
+{{Org-stub}}

@@ -1,0 +1,30 @@
+[[Attēls:Steven_Koonin_BP_2005-02-22.jpg|thumb|235px|Publiskā uzņēmuma ''[[BP|BP plc]]'' (Lielbritānija) valdes sēde]]
+'''Uzņēmums''' [[ekonomika|ekonomikā]] ir organizatoriski saimnieciska vienība, ko dibina indivīdi ([[fiziska persona|fiziskas personas]], [[juridiska persona|juridiskas personas]], reģistrētas komercsabiedrības) vai citas juridiskas personas ([[komersants|komersanti]]) [[uzņēmējdarbība]]s veikšanai un peļņas gūšanai. Uzņēmuma dibināšanas galvenā jēga ir nošķirt tajā ieguldāmo [[Īpašums|mantu]] vai [[nauda|naudu]], kas nepieciešama uzņēmējdarbības veikšanai, no tā dibinātāju ([[komersants|komersantu]], [[dalībnieks|dalībnieku]], [[akcionārs|akcionāru]]) mantas. Uzņēmuma dalībnieki var no tā izstāties, tie savas daļas var nodot, pārdot vai dāvināt citiem dalībniekiem vai trešajām personām. Dalībnieka nāves gadījumā tam piederošās daļas vai akcijas manto viņa radinieki. Neatkarīgi no minētajām izmaiņām dalībnieku sastāvā uzņēmums var turpināt funkcionēt.
+
+== Uzņēmuma juridiskais statuss ==
+Saskaņā ar [[Komerclikums|Komerclikumu]] uzņēmuma juridiskā forma ir [[komercsabiedrība]]. Komercsabiedrības dibinātāju un dalībnieku (komersantu) uzņēmumā ieguldītā manta un naudas līdzekļi pieder uzņēmumam (komercsabiedrībai). Uzņēmums patstāvīgi uzņemas [[Saistība|saistības]], tas var sūdzēt [[Tiesa|tiesā]] citus uzņēmumus, indivīdus vai publiskas [[institūcija]]s. Arī pret uzņēmumu citas personas vai institūcijas var izvirzīt prasības, uzņēmumu var sūdzēt tiesā.
+
+Katra komercsabiedrība ir jāreģistrē [[Komercreģistrs|komercreģistrā]], kurš tai izsniedz reģistrācijas apliecību. Līdzīga kārtība pastāv arī citās [[Ekonomiski attīstītās valstis|ekonomiski attīstītajās valstīs]].
+
+== Uzņēmumu veidi ==
+Latvijā izplatītākais uzņēmumu (komercsabiedrību) veids ir [[kapitālsabiedrība]], kas ir divās formās – [[Sabiedrība ar ierobežotu atbildību|sabiedrībā ar ierobežotu atbildību]] (SIA) un [[Akciju sabiedrība|akciju sabiedrībā]] (AS). SIA no organizatoriskā viedokļa ir slēgta sabiedrība, jo tās daļas pieder individuāliem komersantiem. Daļu pāreja no viena komersanta citu komersantu vai trešo personu īpašumā var notikt tikai uz šo komersantu kopēja rakstiska iesnieguma pamata ar citu SIA īpašnieku piekrišanu. Attiecīgajiem dokumentiem ir jābūt reģistrētiem komercreģistrā.
+
+AS akcijas, atšķirībā no SIA daļām, atrodas publiskā apgrozībā, parasti [[Vērtspapīru tirgus|vērtspapīru tirgū]] ([[Fondu birža|fondu biržā]]). Akcijas to īpašnieki (akcionāri) var brīvi pirkt un pārdot ([[Tirdzniecība|tirgoties]]). Lai gan akciju pārdošanas un pirkšanas darījumus arī reģistrē vērtspapīru reģistrā (Latvijā – Latvijas Centrālais depozitārijs), darījumu dalībniekiem savas darbības ar citiem akcionāriem nav jāsaskaņo. Rīgas un citās ekonomiski attīstīto valstu fondu biržās akcijas parasti ir elektroniskā veidā un darījumi ar tām notiek ar [[Dators|datora]] palīdzību [[Internets|internetā]].
+
+* Individuālais komersants (fiziska persona, kas ierakstīta komercreģistrā kā individuālais komersants)
+* Personālsabiedrība (pilnsabiedrība un komandītsabiedrība)
+* Kapitālsabiedrība (SIA un AS)
+
+== Uzņēmumi ārvalstīs ==
+Uzņēmumu (kapitālsabiedrību) dalījums privātos un publiskos ir pieņemts arī vairumā citu ekonomiski attīstīto valstu. Piemēram, [[Lielbritānija|Lielbritānijā]] Latvijas SIA analogs ir ''Private Limited Company (Ltd)''. [[Vācija|Vācijā]] tas ir ''Gesellschaft mit beschränkter Haftung (GmbH)'', bet [[Francija|Francijā]] – ''Société a responsabilité limitée (Sarl)''.
+
+Savukārt Latvijas AS prototips Lielbritānijā ir ''Public Limited Company (plc)'', Vācijā – ''Aktiengesellschaft (AG)'', bet Francijā – ''Société Anonyme (SA)''.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20060417224532/http://www.rfb.lv/ Rīgas Fondu birža]
+* [http://www.ur.gov.lv/ Latvijas Republikas Uzņēmumu reģistrs]
+* [https://web.archive.org/web/20080109090512/http://www.lursoft.lv/stat/ur_stat_021.html Statistika]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Uzņēmumi| ]]

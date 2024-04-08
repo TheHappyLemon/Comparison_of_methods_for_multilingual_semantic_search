@@ -1,0 +1,46 @@
+{{Citas nozīmes|komponistu|Šmits|Šmits}}
+
+{{Komponista infokaste
+|               vārds = Francis Šmits
+|          vārds_orig = ''Franz Schmidt''
+|              attēls = Rektor Hofrat Prof. Franz Schmidt (cropped).jpg
+|          att_izmērs = 200px
+|       att_nosaukums = Francis Šmits 1927. gadā
+|             dz_gads = 1874
+|          dz_mēnesis = 12
+|            dz_diena = 22
+|            dz_vieta = {{vieta|Austroungārija|Požoņa|td=Slovākija}}
+|              m_gads = 1939
+|           m_mēnesis = 02
+|             m_diena = 11
+|             m_vieta = {{vieta|Trešais reihs|Perhtoldsdorfa|td=Austrija}}
+|        dzīves_vieta = 
+|           pilsonība = 
+|             tautība = 
+|            paraksts = 
+|               stils = 
+|               žanrs = [[klasiskā mūzika]]
+|            mācījies = [[Teodors Lešetickis]], [[Vīnes konservatorija]] ([[Antons Brukners]])
+|           skolnieki = 
+|         apbalvojumi = 
+|            piezīmes =  
+}}
+
+'''Francis Šmits''' ({{val|de|Franz Schmidt}}, dzimis {{dat|1874|12|22}}, miris {{dat|1939|2|11}}) bija [[Austrija|austriešu]] komponists, [[čells|čellists]] un pianists.
+
+Dzimis [[Presburga|Presburgā]] (tagad [[Bratislava]]). Studējis [[Vīnes konservatorija|Vīnes konservatorijā]] (mūzikas teoriju pie [[Antons Brukners|Bruknera]]). Spēlējis čellu Vīnes simfoniskajā orķestrī (bieži [[Gustavs Mālers|Mālera]] vadībā). No 1914. gada — klaviermūzikas pasniedzējs Vīnes konservatorijā, kura tika pārsaukta par Vīnes Mūzikas un mākslas universitāti. No 1925. gada — tās direktors, no 1927. līdz 1931. gadam — rektors. Pēc [[anšluss|anšlusa]] nacistu godāts par ievērojamāko [[Ostmarka]]s komponistu. Miris 1939. gadā.
+
+Divu [[opera|operu]] (''Notre Dame'' (1902—4), ''Fredigundis'' (1916—21)), [[oratorija]]s ''Das Buch mit sieben Siegeln'', [[kantāte]]s ''Deutsche Auferstehung'', četru simfoniju, divu klavierkoncertu autors. Rakstījis arī [[kamermūzika|kamermūziku]], [[ērģeļmūzika|ērģeļmūziku]] un [[klaviermūzika|klaviermūziku]].
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{mūziķis-aizmetnis}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Šmits, Francis}}
+[[Kategorija:Bratislavā dzimušie]]
+[[Kategorija:Slovākijas vācieši]]
+[[Kategorija:Austriešu komponisti]]
+[[Kategorija:Pianisti]]

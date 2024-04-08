@@ -1,0 +1,16 @@
+'''Atom''' ir uz [[valoda XML|XML]] bāzes veidots dokumentu formāts un uz [[HTTP]] bāzes veidots protokols, kas radīts tīmekļa satura [[tīmekļa sindikācija|sindikācijai]]. Tas ir līdzīgs [[RSS protokols|RSS]], taču nodrošina vairāk iespēju. Kritiķi gan apgalvo, ka tas ir radījis papildu jucekli.
+
+Bez RSS aizstājēja ("Atom Syndication Format"), tiek veidots arī "Atom Publishing Protocol", kura mērķis ir pilnveidot un aizstāt esošos publicēšanas mehānismus, kā Blogger API un LiveJournal XML-RPC klienta/servera protokols. Atom sākotnējais nosaukums bija "Echo".
+
+== Skatīt arī ==
+* [[RSS protokols|RSS]]
+* [[Vikipēdija:Syndication]]
+* [[Semantiskais tīmeklis]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20070630160757/http://atomenabled.org/ Atom projekta oficiālā lapa]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Uz XML bāzēti standarti]]
+[[Kategorija:Tīmekļa sindikācija]]

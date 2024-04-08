@@ -1,0 +1,73 @@
+{{Latvijas novada infokaste
+| nosaukums         = Dobeles pagasts
+| karte             = Dobeles pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Aizstrautnieki
+| platība           = 72,77
+| iedzīvotāji       = 951<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 951 / 72.77 round 1}}
+| izveidots         = 
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Dobeles pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām tā ziemeļos. Robežojas ar sava novada [[Dobele]]s pilsētu un [[Jaunbērzes pagasts|Jaunbērzes]], [[Bērzes pagasts|Bērzes]], [[Auru pagasts|Auru]] un [[Annenieku pagasts|Annenieku]] pagastiem, kā arī [[Tukuma novads|Tukuma novada]] [[Džūkstes pagasts|Džūkstes pagastu]]. Pagasta pārvalde atrodas [[Aizstrautnieki|Aizstrautniekos]] («Gaismiņās»); [[Lejasstrazdi|Lejasstrazdos]] — pakalpojumu punkts.<ref>{{Tīmekļa atsauce |url=http://www.dobele.lv/page/71 |title=Dobeles pagasta pārvalde |access-date={{dat|2011|03|29||bez}} |archiveurl=https://web.archive.org/web/20120213104236/http://www.dobele.lv/page/71 |archivedate={{dat|2012|02|13||bez}} }}</ref>
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Bērze (upe)|Bērze]], [[Gaurata]], [[Pienava (upe)|Pienava]], [[Sellīte]], [[Snierājs]].
+
+==== Ezeri ====
+[[Gauratas ezers]], [[Lāču dīķis]].
+
+== Vēsture ==
+Mūsdienu Dobeles pagasta teritorijā vēsturiski atradās Bērzbeķes muiža (''Bersebeck'', [[Bērzbeķe]]), Čuču muiža (''Öbelgunde''), Dobes muiža (''Doben''), Sīpeles muiža (''Zeepelhof'').
+
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Dobeles pagasta platība bija 125 km² un tajā dzīvoja 2660 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Dobeles un [[Gaismas ciems|Gaismas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā [[Dobeles rajons|Dobeles rajona]] '''Dobeles ciemam''' pievienoja likvidētā [[Šķibes ciems|Šķibes ciema]] [[kolhozs|kolhoza]] «Zelta druva» teritoriju, bet Ždanova kolhoza teritoriju pievienoja Gaismas ciemam. 1963. gadā Dobeles ciemam pievienoja Gaismas ciema Ždanova kolhoza teritoriju. 1973. gadā daļu ciema teritorijas pievienoja [[Dobele]]s pilsētai, 1977. gadā - [[Austrumu ciems|Austrumu ciemam]], 1979. gadā - Austrumu un [[Krimūnu ciems|Krimūnu]] ciemiem.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Dobeles pagastu kā administratīvo teritoriju iekļāva [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+* Bāļu - Šķērstaiņu senkapi un apmetne<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Dobeles+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Ošu senkapi
+* Zilā kalna senkapi
+* Bērzbeķes muižas apbūve
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Lejasstrazdi]], [[Aizstrautnieki]], [[Bērzbeķe]], [[Bitenieki]], [[Galenieki]].
+=== Ievērojamas personības ===
+* [[Ludvigs Ēķis]] (1892—1943), Latvijas sabiedriskais darbinieks. Bija Latvijas finanšu ministrs no 1934. līdz 1938. gadam, īslaicīgi pildīja ārlietu ministra pienākumus 1936. gadā.
+* [[Alfrēds Videnieks]](1908—2002), latviešu teātra un kino aktieris. Latvijas PSR Tautas skatuves mākslinieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [http://www.dobele.lv/?lang=1&mid=224 Dobeles novads. Dobeles pagasts]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Dobeles pagasts| ]]

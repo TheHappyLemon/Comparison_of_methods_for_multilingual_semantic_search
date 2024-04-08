@@ -1,0 +1,20 @@
+[[Attēls:13-08-06-abu-dhabi-by-RalfR-102.jpg|thumb|[[Hindi]] un [[Arābu valoda|Arābu]] skaitļi uz ceļazīmes]]
+'''Pozicionāls skaitļu pieraksts''' jeb '''pozicionālā notācija''' ir tāda [[skaitlis|skaitļu]] pieraksta sistēma, kurā [[cipars|cipara]] lomu nosaka ne tikai šis cipars, bet arī tā atrašanās vieta skaitlī.
+
+== Definīcija ==
+Skaitli ''x'' pozicionālā skaitļa pierakstā ar bāzi ''b'' var uzrakstīt:
+
+: <math>x = \sum_{k=-m}^n a_k b^k</math>, kur ''b'' - [[naturāls skaitlis]], <math>b > 1</math>; <math>a_k</math> — [[vesels skaitlis|veseli skaitļi]], <math>0 \leq a_k < b</math>; <math>k=\{-m...-1\}</math> skaitļa <math>a_k</math> pozīcija aiz komata, <math>k=\{0...n\}</math> skaitļa <math>a_k</math> pozīcija pirms komata.
+
+== Sistēmas ar dažādām bāzēm ==
+
+Dažas no izmantojamām pozicionālā skaitļa pieraksta sistēmām:
+* 1 — [[unārā]] 
+* 2 — [[binārā skaitīšanas sistēma|binārā]] (izmanto [[datorzinātne|datorzinātnē]])
+* 8 — [[oktālā skaitīšanas sistēma|oktālā]] ([[datorzinātne|datorzinātnē]])
+* 10 — '''[[decimālā skaitīšanas sistēma|decimālā]]''' - visplašāk lietotā skaitīšanas sistēma
+* 12 — [[duodecimālā skaitīšanas sistēma|duodecimālā]] (plaši izmantoja senatnē, dažreiz arī mūsdienās)
+* 16 — [[heksadecimālā skaitīšanas sistēma|heksadecimālā]] ([[datorzinātne|datorzinātnē]])
+* 60 — [[heksagesimālā skaitīšanas sistēma|heksagesimālā]] (izmanto [[leņķis|leņķu]] mērīšanai, [[minūte|minūšu]], [[sekunde|sekunžu]] uzskaitei)
+
+[[Kategorija:Skaitīšanas sistēmas]]

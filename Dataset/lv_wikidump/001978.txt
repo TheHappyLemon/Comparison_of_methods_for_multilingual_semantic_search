@@ -1,0 +1,28 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Hexamine.svg|180px]]<br />[[Attēls:Hexamine-3D-balls.png|180px]]<br />Urotropīna struktūrformula un molekulas modelis
+|       citi nosaukumi = heksametilēntetramīns,<br />heksamīns, metēnamīns
+|           CAS numurs = 100-97-0
+|      ķīmiskā formula = C<sub>6</sub>H<sub>12</sub>N<sub>4</sub>
+|              molmasa = 140,19
+|              blīvums = 1270
+|  kušanas temperatūra = 270&nbsp;°C ([[sublimācija (fizikā)|sublimējas]])
+| viršanas temperatūra = —
+| šķīdība ūdenī        = 85,3 g/100 ml (25&nbsp;°C)
+|                 citi =
+}}
+'''Urotropīns''' (heksametilēntetramīns, (CH<sub>2</sub>)<sub>6</sub>N<sub>4</sub>) ir balta, kristāliska viela, kas kūst (sublimējas) pie 270&nbsp;°C. Tas ir [[heterocikli|heterocikliskais savienojums]], kas pieskaitāms pie tricikliskajiem [[amīni]]em. Urotropīns satur 6 metilēngrupas, kas saista savā starpā 4 slāpekļa atomus; tā telpiskā struktūra līdzīga [[adamantāns|adamantāna]] struktūrai.
+
+== Iegūšana ==
+Urotropīnu iegūst, [[amonjaks|amonjakam]] reaģējot ar [[formaldehīds|formaldehīdu]].
+
+== Izmantošana ==
+[[Attēls:Urotropin.JPG|thumb|left|200px|Urotropīna kristāli]]
+Analītiskajā ķīmijā to lieto kā buferšķīdumu komponentu. Citur to lieto par [[korozija]]s inhibitoru un [[heksogēns|heksogēna]] izejvielu. Urotropīns ir arī galvenā (ja ne vienīgā) ''sausā spirta'' (kurināmais) sastāvdaļa. Izmanto par pārtikas [[konservants|konservantu]] (pārtikas piedeva '''E239'''). Medicīnā lieto kā [[urīnceļi|urīnceļus]] dezinficējošu līdzekli.
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Amīni]]
+[[Kategorija:Pārtikas piedevas]]
+[[Kategorija:Antiseptiski līdzekļi]]

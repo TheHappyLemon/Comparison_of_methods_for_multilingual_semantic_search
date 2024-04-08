@@ -1,0 +1,32 @@
+Visas [[Dienvidāfrikas Republika]]s pilsētas ar iedzīvotāju skaitu virs 1 000 000 iedzīvotājiem 2006.gadā (dati - http://www.world-gazetteer.com).
+
+{| class="wikitable" width=100%
+|- 
+! '''Pilsēta'''
+! '''Iedzīvotāju skaits''' (2006)
+! '''Province'''
+|-
+| '''[[Durbana]]''' (''Durban / eThekwini'')
+| 3 244 028
+| [[Kvazulu-Natāla]]
+|-
+| '''[[Johannesburga]]''' (''Johannesburg / eGoli'')
+| 2 091 491
+| [[Hautena]]
+|-
+| '''[[Keiptauna]]''' (''Cape Town / Kaapstad / iKapa'')
+| 3 546 429
+| [[Rietumkāpa]]
+|-
+| '''[[Pretorija]]''' (''Pretoria'')
+| 1 687 779
+| [[Hautena]]
+|-
+| '''[[Soueto]]''' (''Soweto'')
+| 1 766 824
+| [[Hautena]]
+|-
+|}
+
+[[Kategorija:Dienvidāfrikas Republikas pilsētas|*]]
+[[Kategorija:Pilsētu uzskaitījumi]]

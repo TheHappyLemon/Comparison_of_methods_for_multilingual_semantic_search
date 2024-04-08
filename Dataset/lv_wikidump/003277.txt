@@ -1,0 +1,61 @@
+{{Filmas infokaste
+  | nosaukums latviski= "Nosferatu, šausmu simfonija"
+  | attēls= Nosferatu DVD cover.jpg
+  | paraksts=
+  | nosaukums oriģinālvalodā= ''Nosferatu, eine Symphonie des Grauens''
+  | valsts= {{GER}}
+  | režisors= [[F. V. Murnavs]]
+  | producents= * Albīns Graus
+* Enriko Dīkmans
+  | scenārija autors= Henriks Galēns (pēc [[Brems Stokers|Brema Stokera]] romāna motīviem)
+  | galvenajās lomās= 
+* [[Makss Šreks]]
+* Gustavs fon Vangenheims
+* Grēta Šrēdere
+* Aleksandrs Granahs
+  | mūzika=
+  | operators= 
+  | montāža= 
+  | izdošanas laiks= {{filmas datums|1922|3|4}}
+  | ilgums= 94 minūtes
+  | valoda= [[Mēmais kino|mēmā filma]], teksts [[Vācu valoda|vācu valodā]]
+  | budžets=
+  | imdb= 0013442
+}}
+
+'''"Nosferatu, šausmu simfonija"''' ({{val|de|Nosferatu, eine Symphonie des Grauens}}) ir 1922. gada [[Vācija]]s [[Ekspresionisms|ekspresionisma]] šausmu filma, kuras režisors ir [[F. V. Murnavs]]. "Nosferatu" uzskata par vienu no nozīmīgākajām 20. gadsimta sākuma filmām, par vienu no pirmajām [[Šausmu filma|šausmu filmām]], kā arī par izcilu [[vācu ekspresionisma kino]] paraugu. Tās pamatā ir [[Brems Stokers|Brema Stokera]] romāns "[[Drakula (romāns)|Drakula]]".
+
+Vārds "Nosferatu" nāk no grieķu valodas vārda {{gree|νοσοφορος}}, kas nozīmē ‘slimības nesējs’.
+
+== Sižets ==
+[[Attēls:Nosferatu.jpg|thumb|200px|left|Kadrs no filmas "Nosferatu"]]
+{{Filmas satura brīdinājums}}
+
+1838. gadā Brēmenē nekustamo īpašumu aģentam Johanesam Huteram (''Johannes Hutter'') tiek piedāvāta iespēja doties uz Transilvāniju un pārdot lielu īpašumu grāfam Orlokam. Johaness turp arī dodas, bet grāfs Orloks padara viņu par savu gūstekni un barojas no viņa asinīm. Ieraudzījis Hutera sievas attēlu, Orloks ar kuģi dodas uz Brēmeni, kur līdz ar viņa ierašanos sākas mēris.
+
+== Vēsture ==
+Murnavam neizdevās iegūt tiesības ekranizēt Brema Stokera romānu "Drakula". Viņš nolēma filmu tomēr uzņemt, Stokera sižetu nedaudz izmainot (piemēram, Drakula jeb grāfs Drakula kļuva par Nosferatu jeb grāfu Orloku). Brema Stokera sieva Florensa Stokera Murnavu iesūdzēja par autortiesību pārkāpšanu un prāvā uzvarēja. Tiesa pavēlēja iznīcināt visus filmas eksemplārus. Daudzi tomēr jau bija izplatīti un netika iznīcināti.
+
+Filmas daļas, kurās darbība risinās [[Transilvānija|Transilvānijā]], filmētas [[Slovākija|Slovākijā]] (piemēram, Nosferatu pils ir [[Oravas pils]] un Vecā pils Ziemeļslovākijā).<ref>{{Tīmekļa atsauce | url = http://www.pitt.edu/~votruba/sstopics/movieclips/slovakianosferatulocations.html | title = Nosferatu (1922) Slovak Locations | last = Votruba | first = Martin | work = Slovak Studies Program | publisher = University of Pittsburgh}}</ref>
+
+== Ietekme ==
+"Nosferatu" iedibināja vienu no klasiskajiem vampīru attēlojumiem kino — atdzīvojušos mironi ar gariem nagiem un pagarinātiem priekšzobiem. Šis vampīra tēls (pretstatā Drakulas tipa tēlam — elegantam aristokrātam) saistās ar žurkām un [[mēris|mēri]], nav erotisks, bet gan atbaidošs.
+
+Pēc filmas uzņemti vairāki jauni ekranizējumi, no kuriem par mākslinieciski augstvērtīgāko uzskata [[Verners Hercogs|Vernera Hercoga]] 1979. gada filmu "[[Nosferatu – nakts fantoms]]". Hercogs reizē nofilmēja divas versijas — vienu vācu un vienu angļu valodā, liekot aktieriem ierunāt tekstu divreiz. Hercogs filmā izmantoja Stokera romāna tēlu vārdus, jo filmas uzņemšanas laikā uz to vairs neattiecās autortiesības.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{filmu ārējās saites}}
+* [http://www.archive.org/details/nosferatu Filma]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ekspresionisma filmas]]
+[[Kategorija:Mēmā kino filmas]]
+[[Kategorija:Šausmu filmas]]
+[[Kategorija:Vācijas filmas]]
+[[Kategorija:1922. gada filmas]]
+[[Kategorija:Frīdriha Vilhelma Murnava filmas]]

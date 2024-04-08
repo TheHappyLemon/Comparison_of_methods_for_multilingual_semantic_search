@@ -1,0 +1,122 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Virdžīnija
+ | native_name             = ''Virginia''
+ | other_name              = 
+ | settlement_type         = ASV štats
+ | image_skyline           = Skyline drive 20050521 123518 2.jpg
+ | imagesize               = 250px
+ | image_caption           = Šenandoa ielejas nacionālais parks
+ | image_flag              = Flag of Virginia.svg
+ | flag_size               = 130px
+ | image_seal              = Seal of Virginia.svg
+ | seal_size               = 90px
+ | nickname                = Vecā domīnija (''Old Dominion''); Prezidentu māte (''Mother of Presidents''); Sadraudzība (''The Commonwealth'')
+ | motto                   = ''Sic Semper Tyrannis''
+ | anthem                  = "Our Great Virginia"
+ | capital                 = [[Ričmonda]]
+ | largest_city            = [[Virdžīnijabīča]]
+ | official_language       = [[angļu valoda]]
+ | spoken_language         = 
+ | image_map               = Virginia in United States.svg
+ | mapsize                 = 250px
+ | map_caption             = Virdžīnijas atrašanās vieta ASV
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+ | leader_party            = 
+ | leader_title            = Gubernators
+ | leader_name             = [[Glens Jangkins]]
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 110785
+ | area_land_km2           = 102587
+ | area_water_km2          = 8198
+ | area_water_percent      = 7,4
+ | area_rank               = 
+ | elevation_max_m         = [[Rodžersa kalns]], 1747
+ | elevation_min_m         = 
+ | population_footnotes    = 
+ | population_total        = 8 683 619 <ref>"U.S. Census Bureau QuickFacts: Virginia". U.S. Census Bureau. October 11, 2022. Retrieved December 5, 2022.</ref>
+ | population_as_of        = 2022. gadā
+ | population_rank         = 
+ | population_density_km2  = 
+ | population_blank1_title = Rasu sastāvs
+ | population_blank1       = baltie - 74,94%<br />melnie - 20,65%
+ | population_blank2_title = Reliģijas
+ | population_blank2       = [[protestanti]] - 69%<br />[[katoļi]] - 14%<br />nereliģiozi - 12%
+ | timezone                = UTC
+ | utc_offset              = -5
+ | timezone_DST            = UTC
+ | utc_offset_DST          = -4
+ | website                 = {{URL|http://www.virginia.gov/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = US-VA
+ | blank1_name             = Interneta otrā līmeņa domēns
+ | blank1_info             = .va.us
+ | footnotes               = 
+}}
+
+'''Virdžīnija''' ({{val|en|Virginia}}, {{izrunā|vərˈdʒɪnjə}}), oficiāli '''Virdžīnijas Sadraudzība''' (''Commonwealth of Virginia''), ir viens no [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] 50 [[ASV štats|štatiem]], atrodas Dienvidu reģionā. Virdžīnijas administratīvais centrs ir [[Ričmonda]], bet lielākā pilsēta ir [[Virdžīnijabīča]]. 2022. gadā štatā dzīvoja 8,6 miljons iedzīvotāju. Štata platība ir {{nobr|110 785}} km². Kopš {{dat|2010|1|16|Ģ|bez}} štata gubernators ir [[Glens Jangkins]].
+
+Virdžīnija robežojas ar [[Kentuki]], [[Mērilenda]]s, [[Rietumvirdžīnija]]s, [[Tenesī]] un [[Ziemeļkarolīna]]s štatiem, [[Vašingtona|Kolumbijas apgabalu]], kā arī ar [[Atlantijas okeāns|Atlantijas okeānu]].
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=https://www.census.gov/quickfacts/fact/table/US/PST045219|title=2020 U.S. Census Quickfacts website|publisher=United States Census Bureau|access-date=17.03.2022}}</ref>
+|-
+|1
+|[[Virdžīnijabīča]]
+|459 470
+|-
+|2
+|[[Česapīka]]
+|249 422
+|-
+|3
+|[[Norfolka (Virdžīnija)|Norfolka]]
+|238 005
+|-
+|4
+|[[Ričmonda]]
+|226 610
+|-
+|5
+|[[Ņūportņūza]]
+|186 247
+|-
+|6
+|[[Aleksandrija (Virdžīnija)|Aleksandrija]]
+|159 467
+|-
+|7
+|[[Hemptona (Virdžīnija)|Hemptona]]
+|137 148
+|-
+|8
+|[[Rouanouka]]
+|100 011
+|-
+|9
+|[[Portsmuta (Virdžīnija)|Portsmuta]]
+|97 915
+|-
+|10
+|[[Safolka (Virdžnija)|Safolka]]
+|94 324
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Virdžīnija| ]]

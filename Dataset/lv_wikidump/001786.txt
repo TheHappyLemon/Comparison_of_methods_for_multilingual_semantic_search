@@ -1,0 +1,76 @@
+{{cita nozīme|pilsētu|federālo zemi|Brēmene (federālā zeme)}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Brēmene
+ | official_name            = ''Stadtgemeinde Bremen''
+ | image_skyline            = Weserhb.jpg
+ | image_caption            = [[Vēzere]]s upe Brēmenē
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 60px
+ | pushpin_map              = Vācija
+ | pushpin_label_position   = 
+ | map_caption              =
+| latd  = 53| latm  = 05| lats  = | latNS  = N
+| longd = 8| longm = 48| longs = | longEW = E
+ | image_shield             = Bremen Wappen(Mittel).svg
+ | population         = 546 428
+ | established_title        = Dibināta
+ | established_date         = no 788.g
+ | subdivision_type         = Valsts
+ | subdivision_type1        = Federālā zeme
+ | subdivision_type2        = 
+ | subdivision_name         = {{flaga|Vācija}} [[Vācija]]
+ | subdivision_name1        =[[Brēmene (federālā zeme)|Brēmene]]
+ | elevation_m              = 11,5
+ | area_total_km2           = 326,72 kvadrātkilometri
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = 28001 - 28779
+ | website                  = http://www.bremen.de
+}}
+'''Brēmene''' ({{val-de|Bremen}}, izrunā: {{IPA|[[IPA|[ˈbʁeːmən]]]}}) ir sena ostas pilsēta [[Vācija|Vācijā]] [[Vēzere]]s upes grīvā, netālu no tās ietekas [[Ziemeļjūra|Ziemeļjūrā]]. Kopā ar [[Brēmerhāfene|Brēmerhāfeni]] veido atsevišķu [[Brēmene (federālā zeme)|Brēmenes]] [[Vācijas federālās zemes|federālo zemi]].
+
+== Vēsture ==
+[[Attēls:Bremer Stadtmusikanten.jpg|thumb|180px|left|Skulptūra "Brēmenes muzikanti"]]
+Pilsēta radās 8. gadsimtā, kad [[Kārlis Lielais]] ieņēma Vēzeres grīvu un nodibina šeit [[bīskapija|bīskapiju]], lai ieviestu reģionā [[kristietība|kristietību]]. Turpmākos gadsimtus Brēmene bija centrālais punkts kristietības izplatīšanai [[Skandināvija|Skandināvijā]] un [[Baltija|Baltijā]].
+
+12. gadsimtā pilsēta atbrīvojās no bīskapa varas un kļuva par galveno ostas pilsētu Ziemeļjūras dienvidos. Kad 14. gadsimta sākumā [[Hanza]] no [[Baltijas jūra]]s baseina sāka izplatīt savu ietekmi Ziemeļjūrā, Brēmene iesākumā sīvi pretojās, veicot [[pirāti]]skus uzbrukumus Hanzas kuģiem, tomēr 1358. gadā [[Lībeka|Lībekā]] pati iestājās šajā savienībā. Tomēr 1427. gadā Brēmene no Hanzas tika izslēgta.
+
+Pēc [[Vestfālenes miera līgums|Vestfālenes miera līguma]] 1648. gadā Brēmenes un Ferdenas (''Bremen-Verden'') bīskapijas kļuva par [[Zviedrijas zemes un provinces|Zviedrijas aizjūras provinci]]. [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] laikā 1719. gadā tās pievienoja [[Hannovere|Hanoveres kūrfirstei]].
+
+Līdz pat 1871. gadam, kad nodibinās [[Vācu impērija]], Brēmene bija atsevišķa [[pilsētvalsts]]. 
+Pēc [[2.pasaules karš|2.pasaules kara]] Brēmene, pretēji apkārtējām teritorijām, nokļūst [[ASV okupācijas zona Vācijā|ASV okupācijas zonā]], un lielā mērā pateicoties tam, šodien ir atsevišķa federālā zeme.
+
+== Brēmene ievērojama ar ==
+* Brēmenes muzikantiem no [[brāļi Grimmi|brāļu Grimmu]] pasakas.
+* ''[[EADS]]'' (''European Aeronautic Defence and Space Company'') rūpnīcu.
+* ''[[Mercedes-Benz]]'' autorūpnīcu.
+* [[futbols|futbola]] klubu ''[[SV Werder Bremen]]''.
+* ''[[Beck's]]'' [[alus|alu]].
+
+== Brēmenē dzimuši ==
+* [[Džeimss Lāsts]] -mūziķis.
+
+== Skatīt arī ==
+* [[Brēmenes arhibīskapi]]
+
+== Galerija ==
+<gallery>
+Image:Bremen-rathaus.jpg|Brēmenes rātsnams
+Image:Bremen-dom.jpg|Brēmenes Doms
+Image:Bremen Roland.jpg|Rolanda statuja Brēmenē
+Image:Schnoor.JPG|Šnora (''Schnoor'') - vecpilsēta
+</gallery>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Vācija-aizmetnis}}
+{{Vācija UNESCO}}
+{{Zviedrijas aizjūras provinces}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Brēmene| ]]
+[[Kategorija:Hanzas pilsētas]]
+[[Kategorija:Pilsētvalstis]]

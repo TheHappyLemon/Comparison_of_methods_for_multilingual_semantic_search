@@ -1,0 +1,65 @@
+{{infokaste+}}
+{{Citas nozīmes|Polijas kņazu|Lešeks|Lešeks}}
+{| class="infobox" style="float:right;margin:0 0 1em 1em;font-size:90%;clear:right;" cellspacing="5"
+|+ style="text-align:center; font-size:larger;" | '''Lešeks II Melnais'''<br />'''Leszek Czarny'''
+|-
+| colspan="2" style="padding-bottom:1em;text-align:center;" | [[Attēls:Jan Matejko, Leszek Czarny.jpg|200px]]
+|-
+| style="vertical-align: top; text-align: right;" | '''Tituls'''
+| style="vertical-align: top; text-align: left;" | [[Polijas valdnieku uzskaitījums|Krakovas kņazs]]
+|-
+| style="vertical-align: top; text-align: right;" | '''Pie varas'''
+| style="vertical-align: top; text-align: left;" | [[1279]]. - [[1288]]. gads
+|-
+| style="vertical-align: top; text-align: right;" | '''Priekšgājējs'''
+| style="vertical-align: top; text-align: left;" |  [[Boļeslavs V Kautrīgais]]<br />(''Bolesław V Wstydliwy'')  
+|-
+| style="vertical-align: top; text-align: right;" | '''Pēctecis'''
+| style="vertical-align: top; text-align: left;" |  [[Henriks IV Probuss]]<br />(''Henryk IV Probus'')
+|-
+| style="vertical-align: top; text-align: right;" | '''Dinastija'''
+| style="vertical-align: top; text-align: left;" | [[Pjastu dinastija]]
+|-
+| style="vertical-align: top; text-align: right;" | '''Tēvs'''
+| style="vertical-align: top; text-align: left;" | Kazimirs I,<br />[[Kujāvija]]s kņazs<br />(''Kazimierz I kujawski'')
+|-
+| style="vertical-align: top; text-align: right;" | '''Māte'''
+| style="vertical-align: top; text-align: left;" | Konstancja,<br />[[Silēzija]]s kņaze<br />(''Konstancja wrocławska'')
+|-
+| style="vertical-align: top; text-align: right;" | '''Sieva'''
+| style="vertical-align: top; text-align: left;" | Galīcijas Grifina<br />(''Gryfina Halicka'')
+|-
+| style="vertical-align: top; text-align: right;" | '''Bērni'''
+| style="vertical-align: top; text-align: left;" | -
+|-
+| style="vertical-align: top; text-align: right;" | '''Dzimis'''
+| style="vertical-align: top; text-align: left;" | ap [[1241]]. gadu<br />[[Bžesca Kujavska]]?, [[Kujāvijas kņaziste]]<br />(tagad {{POL}})
+|-
+| style="vertical-align: top; text-align: right;" | '''Miris'''
+| style="vertical-align: top; text-align: left;" | {{dat|1238|3|19}}<br />[[Krakova]]<br />(tagad {{POL}})
+|-
+| style="vertical-align: top; text-align: right;" | '''Apglabāts'''
+| style="vertical-align: top; text-align: left;" | [[Krakovas dominikāņu baznīca|Dominikāņu baznīca]], [[Krakova]]<br />{{POL}}
+|}
+
+'''Lešeks II Melnais''' ({{val|pl|Leszek Czarny}}; dzimis ap [[1241]]. gadu, miris {{dat|1288|09|30}}) - [[Polija]]s kņazs no 1279. līdz 1288. gadam no [[Pjasti|Pjastu]] dinastijas.
+
+Lešeks II bija [[Kujāvija]]s kņaza Kazimira dēls, [[Mazovijas Konrāds]] mazdēls, [[Vladislavs I (Polijas karalis)|Vladislava I]] brālis. Iesākumā [[Seradza]]s, [[Lenčica]]s un [[Inovroclava]]s kņazs. [[Boļeslavs V]] nosauca Lešeku II par savu mantinieku un [[1279]].gadā viņš kļuva par [[Krakova]]s kņazu.
+
+Veiksmīgi atvairīja [[lietuvieši|lietuviešu]], [[jātvingi|jātvingu]] un [[rutēņi|rutēņu]] uzbrukumus. Atbalstīja pilsētu [[vācieši|vācu]] iedzīvotājus, nonākot konfliktā ar poļu [[šļahta|šļahtu]] un Krakovas [[arhibīskaps|arhibīskapu]]. 1287.gadā Polijā trešo reizi iebruka [[mongoļi-tatāri]].
+
+{{commonscat|Leszek II of Poland|Lešeks II Melnais}}
+
+{{kastes sākums}}
+{{Amatu secība | pirms = [[Boļeslavs V Kautrīgais]] | virsraksts = [[Polijas valdnieku uzskaitījums|Krakovas kņazs]] | periods=1279 — 1288 | pēc = [[Henriks IV Probuss]]}}
+{{kastes beigas}}
+
+{{Polijas monarhi}}
+{{Polijas cilvēks-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas vēsture]]
+[[Kategorija:Polijas valdnieki]]
+[[Kategorija:Pjastu dinastija]]
+[[Kategorija:1241. gadā dzimušie]]
+[[Kategorija:1288. gadā mirušie]]

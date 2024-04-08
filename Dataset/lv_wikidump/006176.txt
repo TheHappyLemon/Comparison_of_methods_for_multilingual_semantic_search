@@ -1,0 +1,88 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Čennai
+ | official_name              = ''Chennai'', சென்னை
+ | settlement_type          = pilsēta
+ | image_skyline            = 
+ | image_caption            = 
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Indija#Tamilnāda
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{IND}}
+ | subdivision_type1        = Štats
+ | subdivision_name1        = [[Tamilnāda]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = 1639. gadā
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 181.06
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2011. gadā
+ | population_footnotes     = 
+ | population_total         = 7088000
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = [[Indijas laiks|IST]]
+ | utc_offset               = +5:30
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 13 | latm = 04 | lats =  | latNS = N
+ | longd = 80 | longm = 15 | longs =  | longEW = E
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 6
+ | website                  = {{URL|http://www.chennaicorporation.com}}
+ | footnotes                = 
+}}
+
+'''Čennai'''<ref>{{Lielais pasaules atlants}}</ref> jeb '''Čenaja'''<ref>[https://www.letonika.lv/groups/default.aspx?g=2&q=%C4%8Cenaja&r=10621033 letonika.lv] [[Andrejs Veisbergs]]</ref> ({{val|en|Chennai}}, {{val|ta|சென்னை}}), līdz 1996. gadam šo pilsētu sauca par '''Madrasu''', ir pilsēta [[Indija]]s dienvidaustrumos [[Bengālijas līcis|Bengālijas līča]] krastā. [[Tamilnāda]]s štata galvaspilsēta.
+
+Pilsēta slavena ar savu kultūru un tempļiem. Ekonomikā tā ir Indijas lielākais [[autobūve]]s centrs (šeit ir arī [[tanks|tanku]] ražotne) un [[Informācijas tehnoloģijas|IT]] rūpniecības centrs. Pilsēta cieš no ūdens trūkuma. Populārākais sporta veids pilsētā — [[krikets]].
+
+== Vēsture ==
+Čennai apkārtni no I gadsimta pārvaldīja dažādas Dienvidindijas valstis — [[Pallava]], [[Kola (valsts)|Kola]], [[Pandja]]. Mailapora (''Mylapore'', tagad Čennai daļa) bija galvenā Pallavas valsts osta.
+
+1522. gadā ieradās [[portugāļi]], ierīkojot ostu un nosauca to par Santomē (''São Tomé'') — [[Svētais Toms|Svētā Toma]] vārdā, kurš, kā leģenda vēsta, šeit sludināja starp 52. un 70. gadu. Vēlāk reģions nokļuva [[Nīderlande|nīderlandiešu]] rokās, kuri 1612. gadā apmetās uz ziemeļiem no mūsdienu Čennai.
+
+1639. gada 22. augustā vietējais valdnieks atļāva [[Britu Austrumindijas kompānija]]i ierīkot apmetni, gadu vēlāk briti šeit uzcēla fortu. 1746. gadā pilsētu ieņēma [[Francija|franči]], tomēr pēc miera līguma 1749. gadā tā tika atdota britiem. 18. gadsimta beigās briti bija pakļāvuši Madrasas apkārtējās teritorijas.
+  
+Britu valdīšanas gados Madrasa izauga par lielu metropoli. [[Pirmais pasaules karš|Pirmā pasaules kara]] laikā Madrasa bija vienīgā britu Indijas pilsēta, kurai uzbruka ienaidnieks — [[Vācija|vācu]] vieglais [[kreiseris]] ''[[SMS Emden]]'' bombardēja pilsētas naftas bāzi.
+
+Pēc neatkarības nodibināšanās 1947. gadā Madrasa kļuva par Madrasas štata (kopš 1969. gada — Tamilnādas) galvaspilsētu. 1996. gadā pilsēta tika pārsaukta no Madrasas par Čennai. Pilsēta un tās piekraste cieta 2004. gada [[cunami]] izraisītajos postījumos.
+
+== Cilvēki ==
+Čennai dzimuši:
+
+* [[Višvanatans Anands]] (''Viswanathan Anand'', 1969) — šahists
+* [[Pīts Bests]] (''Pete Best'', 1941) — mūziķis
+* [[Mahešs Bupati]] (''Mahesh Bhupathi'', 1974) — tenisists
+* [[Engelberts Hamperdinks]] (''Engelbert Humperdinck'', 1936) — dziedātājs
+* [[Narains Kartikejans]] (''Narain Karthikeyan'', 1977) — [[Formula 1|F1]] pilots
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Indija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Indijas pilsētas]]

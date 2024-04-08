@@ -1,0 +1,34 @@
+{{Citas nozīmes|aminoskābi|C6H13NO2|C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>}}
+{{Vielas infokaste
+|attēls=[[Attēls:L-Isoleucin - L-Isoleucine.svg|210px]] [[Attēls:L-isoleucine-3D-sticks.png|120px]]<br />L-izoleicīna struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>
+|molmasa=131,18
+|blīvums=
+|kušanas temperatūra=284&nbsp;°C
+|viršanas temperatūra=—
+|izoelektriskais punkts=6,02
+}}
+'''Izoleicīns''' ('''''Ile''''', 2-amino-3-metilpentānskābe, α-amino-β-metilbaldriānskābe, C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>) ir neaizstājamā [[aminoskābe]]. Izoleicīns ir leicīna [[izomērs|struktūrizomērs]]. Izoleicīna molekulā ir 2 hirālie oglekļa atomi, tāpēc tam ir iespējami 4 optiskie izomēri:
+
+{| class="prettytable" style="text-align:center"
+|-
+| [[Attēls:L-Isoleucin - L-Isoleucine.svg|200px]]&nbsp;[[Attēls:D-isoleucine.svg‎|200px]]
+|-
+| <small>L</small>-izoleicīns (2''S'',3''S'') un <small>D</small>-izoleicīns (2''R'',3''R'')
+|-
+| [[Attēls:L-alloisoleucine.svg‎|200px]]&nbsp;[[Attēls:D-alloisoleucine.svg‎|200px]]
+|-
+| <small>L</small>-''allo''-izoleicīns (2''S'',3''R'') un <small>D</small>-''allo''-izoleicīns (2''R'',3''S'')
+|-
+|}
+
+== Atrašanās dabā ==
+Izoleicīns ir visu [[olbaltumvielas|olbaltumvielu]] sastāvdaļa. [[Dzīvnieki]] nespēj paši sintezēt izoleicīnu, bet [[augi]] un mikroorganismi to sintezē no [[pirovīnogskābe]]s un [[ketoglutārskābe|α-ketoglutarāta]].
+
+== Bioloģiskā nozīme ==
+Piedalās enerģijas apmaiņā. Ja organismā trūkst [[fermenti|fermenta]], kas katalizē izoleicīna dekarboksilēšanos, rodas [[ketoacidūrija]].
+
+
+{{amsk}}
+
+[[Kategorija:Aminoskābes]]

@@ -1,0 +1,26 @@
+[[Attēls:IAU logo.svg|thumb|150px|Starptautiskās Astronomijas savienības logo.]]
+[[Attēls:IAU National Members.svg|thumb|250px|Attēlotas visas 74 Starptautiskās Astronomijas savienības valstis (2015. gada decembris)]]
+'''Starptautiskā Astronomijas savienība''' ({{val-en|International Astronomical Union}}; {{val-fr|Union astronomique internationale}}) — visas pasaules [[astronomija|astronomisko]] organizāciju apvienība. Lemj par [[astronomiskais objekts|astronomisko objektu]] (piem., [[zvaigzne|zvaigžņu]], [[planēta|planētu]], [[asteroīds|asteroīdu]]) nosaukumiem, klasifikāciju un citām lietām.
+
+Starptautiskā Astronomijas savienība ir dibināta [[1919]]. gadā [[Brisele|Briselē]]. Ik pēc trim gadiem uz kopīgu sēdi sanāk Ģenerālā asambleja.
+
+Starptautiskās Astronomijas savienības 26. Ģenerālā asambleja notika 2006. gada 14. līdz 25. augustam [[Prāga|Prāgā]]. Galvenais jautājums bija precizēt [[planēta]]s definīciju, jo pēdējos gados aiz [[Plutons (pundurplanēta)|Plutona]] orbītas ir atklāti jauni objekti, un viens no tiem (2003 UB<sub>313</sub>) ir pat lielāks par Plutonu. Ar balsošanu tika pieņemts kompromisa lēmums uzskatīt, ka [[Saules sistēma|Saules sistēmā]] ir 8 planētas, bet Plutonu klasificēt kā [[pundurplanēta|pundurplanētu]].
+
+2012. gada augustā 28. Ģenerālajā asamblejā [[Pekina|Pekinā]] tika pieņemta jauna [[Astronomiskā vienība|astronomiskās vienības]] definīcija ar garumu 149 597 870 700 ± 3 m.<ref name="IAU RESOLUTION B2" /> Jaunais attālums vairs netiek piesaistīts Saules masai, kura ir mainīga laika gaitā. Bez tam Starptautiskā Astronomijas savienība par astronomiskās vienības simbolu ieteica lietot "au".
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="IAU RESOLUTION B2">{{Atsauce | contribution = RESOLUTION B2 on the re-definition of the astronomical unit of length | title = RESOLUTION B2 | editor-first = International Astronomical Union | publisher = International Astronomical Union | place = Beijing, Kina | date = 31 August 2012 | contribution-url = http://www.iau.org/static/resolutions/IAU2012_English.pdf | accessdate = 2012-09-19 | quote = The XXVIII General Assembly of International Astronomical Union recommends [adopted] that the astronomical unit be re-defined to be a conventional unit of length equal to 149 597 870 700 m exactly, in agreement with the value adopted in IAU 2009 Resolution B2}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+{{Organizācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Astronomijas organizācijas]]
+[[Kategorija:Starptautiskas organizācijas]]

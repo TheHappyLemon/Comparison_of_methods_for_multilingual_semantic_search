@@ -1,0 +1,120 @@
+{{Latvijas novada infokaste
+| nosaukums         = Nīgrandes pagasts
+| karte             = Nīgrandes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Saldus novads
+| centrs            = Nīgrande
+| platība           = 97,42
+| iedzīvotāji       = 1683<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1683 / 97.42 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Nīgrandes pagasts''' ir viena no [[Saldus novads|Saldus novada]] administratīvajām teritorijām tā dienvidrietumos, [[Venta]]s kreisajā krastā. Robežojas ar sava novada [[Ezeres pagasts|Ezeres]], [[Zaņas pagasts|Zaņas]] un [[Pampāļu pagasts|Pampāļu]] pagastiem, [[Kuldīgas novads|Kuldīgas novada]] [[Nīkrāces pagasts|Nīkrāces pagastu]], [[Dienvidkurzemes novads|Dienvidkurzemes novada]] [[Embūtes pagasts|Embūtes]] un [[Vaiņodes pagasts|Vaiņodes]] pagastiem, kā arī [[Lietuva]]s [[Telšu apriņķis|Telšu apriņķa]] [[Mažeiķu rajons|Mažeiķu rajona]] [[Židiķu seņūnija|Židiķu seņūniju]].
+
+== Daba ==
+Rietumu daļa atrodas [[Rietumkursas augstiene]]s [[Embūtes pauguraine|Embūtes paugurainē]]. Austrumu daļa atrodas [[Viduslatvijas zemiene]]s [[Vadakstes līdzenums|Vadakstes līdzenumā]]. Cauri pagastam iet [[Ventas senleja]]. Augstākā vieta - dienvidrietumos, 126,7 m vjl.
+
+=== Hidrogrāfija ===
+[[Attēls:Kanavišķu dīķis.jpg|right|220px|thumb|Kanavišķu ūdenskrātuve]]
+==== Upes ====
+* [[Venta]]
+** [[Lētīža]]
+*** [[Baltupe (Lētīžas pieteka)|Baltupe]]
+** [[Losis]]
+*** [[Spinnis]]
+** [[Skutule]]
+
+==== Ūdenskrātuves ====
+Pagastā nav lielu ezeru, taču ir vairākas ūdenskrātuves:
+* Kanavišķu ūdenskrātuve (19 ha)
+* Mežaiņu dīķi (8 ha)
+* Loses dzirnvezers (7 ha)
+* Pūču dīķis (6 ha)
+* Spiņņu ūdenskrātuve (3,9 ha)
+
+== Vēsture ==
+[[Attēls:Nīgrandes kaļķu ceplis Alšu pusmuižā pēc 1908.jpg|thumb|220px|Nīgrandes kaļķu ceplis Alšu pusmuižā (pēc 1908).]]
+Līdz 12. gadsimta beigām tagadējā Nīgrandes pagasta teritorija atradusies [[Kurši|kuršu]] valstu [[Bandava]]s un [[Cekļazeme]]s robežjoslā. Senais apvidus nosaukums ir Ninīve. Nīgrandes vārdam, iespējams, divējāda izcelsme. [[Kuršu valoda|Kuršu valodā]] tas nozīmē ‘kalna mugura’, bet [[lībiešu valoda|lībiešu]] — ‘stāvkrasts’.<ref>Nīgrandes pagasta teritorijas plānojums. Paskaidrojuma raksts</ref>
+
+1231. gadā ar vicelegātu [[Alnas Balduīns|Alnas Balduīnu]] tiek parakstīts līgums par kristīgās ticības pieņemšanu un novadu aprūpē [[Embūte]]s baznīca.
+
+1253. gadā Nīgrandes un Embūtes novadi nokļuva [[Kursas bīskaps|Kursas bīskapa]] valdījumā. Ap 1553. gadu Kursas bīskaps izlēņoja savam galma junkuram Jānim Pīlem Pieventas daļu, kurā viņš nodibināja vairākas muižas — Nīgrandi, Dziras, Meldzeri. Pīle saņēma atļauju Ninīves ciemu pārvērst par pilsētiņu ar tirgus tiesībām. Pilsētiņa ieguva [[Pīlesmiests|Pīlesmiesta]] nosaukumu. Simts gadu vēlāk Pīlesmiestā bija ap 400 iedzīvotāju, kuri nodarbojās ar amatniecību un tirdzniecību, bija kaļķu un darvas ceplis. [[Otrais Ziemeļu karš|Otrā Ziemeļu kara laikā]] miestu nopostīja zviedri, bet tas atdzīvojās. 1710. gadā gandrīz visi tā iedzīvotāji izmira [[Lielais mēris Latvijā|Lielā mēra epidēmijā]]. 1754. gadā Nīgrandes muižu izūtrupēja kreditori, likvidēja arī Pīlesmiestu.
+
+18. gadsimtā novada muižas bieži mainīja savus saimniekus. 1775. gadā tika uzcelta jauna mūra baznīca 1663. gadā celtās koka baznīcas vietā.
+
+Pēc 1819. gada administratīvās reformas Nīgrandes apkārtne iekļauta [[Aizputes apriņķis|Aizputes apriņķa]] [[Embūtes draudzes novads|Embūtes draudzes novadā]]. Pēc [[dzimtbūšanas atcelšana Latvijā|dzimtbūšanas atcelšanas]] ap 1821. gadu izveidojās 4 [[muiža|muižu]] pagasti — Dziras, Nīgrande, Meldzere un Grieze. 1835. gadā novada zemniekiem piešķīra uzvārdus. Pagasta teritorija veidojusies, Nīgrandes pagastam pievienojot apkārtējos muižu pagastus: 1891. gadā — Meldzeres un Dziru pagastus, 1893. gadā — Griezes pagastu, 1899. gadā - Bākūžu pagastu.
+
+1836. gadā [[Meldzere|Meldzerē]] nodibināja skolu. Pēc dažiem gadiem par skolotāju un skolas pārzini sāka strādāt [[Krišjānis Valdemārs|Krišjāņa Valdemāra]] domubiedrs un [[Jaunlatvieši|jaunlatviešu]] ideju atbalstītājs [[Andrejs Spāģis]]. 1837. gadā atklāja skolu Dzirās. 1870. gadā dibināta Nīgrandes pagasta skola, 1878. gadā — skola Griezē. 20. gadsimta sākumā pagastā bija 2 ūdensdzirnavas, 4 kaļķu cepļi, 1 darvas ceplis, 4 krogi, pienotava, 2 spirta brūži, alus darītava, ķieģeļceplis. 1902. gadā bija arī telefona sakari, kurus nodrošināja Valtaiķu centrāle.
+
+[[1905. gada revolūcija Latvijā|1905. gada notikumos]] iesaistījās arī nīgrandnieki. Soda ekspedīcija pakāra vienu, nošāva divus, bet nopēra apmēram 10 cilvēku. Nodedzināja vienu zemnieku saimniecību.
+1910. gadā dibināta Nīgrandes Sadraudzīgā biedrība. Pagasts algoja vecmāti.
+Pirmā pasaules kara laikā daudzi iedzīvotāji tika mobilizēti, daudzi devās bēgļu gaitās uz Krieviju.
+
+Latvijas brīvvalsts laikā [[agrārā reforma]] muižu zemi sadalīja 168 vienībās. Sākās rosīga saimnieciskā un kultūras dzīve, darbojās dažādas biedrības. 1925. gadā Nīgrandes draudze kļuva patstāvīga. 1935. gadā Nīgrandes pagastā bija 287 saimniecības un 1716 iedzīvotāji. Darbojas kaļķu ceplis, kuru jau 1930. gadā elektrificē, ierīko [[kaļķakmens]] pacēlāju. Pagastā bija arī 3 ūdensdzirnavas, 3 krejotavas, 2 kokzāģētavas, 2 galdniecības un linu apstrādes uzņēmums. Darbojās Nīgrandes sešklasīgā pamatskola, kuru 1937. gadā nosauca [[Jēkabs Janševskis|Jēkaba Janševska]] vārdā, kā arī [[Dziras (ciems)|Dziru]] vācu četrklasīgajā pamatskolā. 1935. gadā [[Liepājas apriņķis|Liepājas apriņķa]] Nīgrandes pagasta platība bija 87,5 km² un tajā dzīvoja 1716 iedzīvotāji.<ref>{{EncLP}}</ref>
+
+[[Otrais pasaules karš]] un deportācijas stipri izpostīja saimniecību un samazināja iedzīvotāju skaitu. Kara laikā pagasta teritorijā lielas kaujas nenotika. 1944. gada novembrī Sarkanā armija forsēja [[Venta|Ventu]] un kaujas risinājās Ventas labajā krastā ([[Kurzemes katls|Kurzemes katlā]]).
+
+1945. gadā pagastā izveidoja Nīgrandes un [[Griezes ciems|Griezes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Nīgrandes ciems''' ietilpa [[Skrundas rajons|Skrundas]] (1949-1959) un [[Saldus rajons|Saldus]] (pēc 1959) rajonos. 1954. gadā Nīgrandes ciemam pievienoja likvidēto Griezes ciemu.<ref>{{Latvijas PSR iedalījums}}</ref>
+
+1949. gadā tika izveidoti vairāki mazi [[kolhozs|kolhozi]]: «Jaunais Komunārs», «Blāzma», «Straume», «Ventas Zieds» un «Nākotne». 1951. gadā kolhozus apvieno. Ar laiku priekšsēdētāju Jāņa Blūma un Laimoņa Burtnieka vadībā izveidojas divas spēcīgas saimniecības — «Jaunais Komunārs» un «Straume». Septiņdesmito gadu beigās abi kolhozi izveido starpkolhozu apvienību «Nīgrande», kas apsaimnieko Alšu kaļķu cepli un Dziru konservu cehu. Vēl kolhozā «Jaunais Komunārs» darbojas kokapstrādes un šūšanas cehi, bet kolhozā “Straume” - akmeņkaļu darbnīca. Kolhozi saņem augstus apbalvojumus par labiem sasniegumiem zemkopībā, lopkopībā un meliorācijā.
+Tika uzcelti divi lauku ciemati ([[Nīgrande]] un [[Kalni (Nīgrandes pagasts)|Kalni]]) ar daudzstāvu mājām un individuālo sektoru. Kalnos uzcelts administratīvais un kultūras centrs, kas savienots ar viesnīcu un sporta zāli. Pagastā darbojās jauktais koris, sieviešu vokālais ansamblis, folkloras grupa, vokāli instrumentālais ansamblis, pūtēju orķestris, lauku kapela, bērnu, jauniešu un vidējās paaudzes deju kolektīvi. 1965. gadā Nīgrandes centrā darbu sāka uz vecās skolas pamatiem uzceltā jaunā skola. 1987. gadā Griezē darbu uzsāka Kalnu deviņgadīgā skola (augoša vidusskola) un mūzikas skola. Pagastā bija divi bērnudārzi «Griezīte» un «Straumīte».
+
+1990. gadā ciemu reorganizēja par pagastu. 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Saldus novads|Saldus novadā]].
+<gallery>
+Attēls:Nīgrandes pagasta pārvalde.jpg|Nīgrandes pagasta pārvalde
+Attēls:Pirmskolas izglītības iestāde 'Straumīte'.jpg|Pirmskolas izglītības iestāde 'Straumīte'
+Attēls:Nīgrandes pamatskola.jpg|Nīgrandes pamatskola
+</gallery>
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1716
+|1967|1153
+|1979|1505
+|1989|2222
+|2000|2044
+|2011|1442
+|2021|1099
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Nīgrande]] (pagasta centrs), [[Alši]], [[Atvari (ciems)|Atvari]], [[Dziras (ciems)|Dziras]], [[Kalni (Nīgrandes pagasts)|Kalni]], [[Meldzere]].
+=== Ievērojamas personības ===
+* [[Voldemārs Zīverts]] (1882-1977), virsnieks un diplomāts.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Saldus novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Saldus rajons}}
+}}
+
+[[Kategorija:Aizputes apriņķis]]
+[[Kategorija:Kurzeme]]
+[[Kategorija:Saldus novada pagasti]]
+[[Kategorija:Nīgrandes pagasts| ]]

@@ -1,0 +1,45 @@
+{{Apdzīvotas vietas infokaste
+| name = Meņdzižeca Podlaska
+| image_skyline = międzyrzec_podlaski_ul_lubelska.jpg
+| imagesize = 300px
+| image_caption = Ļubļanas (Lubelska) iela Mendzižecā Podlaskā
+| image_flag = POL Międzyrzec Podlaski flaga.svg
+| image_shield = POL Międzyrzec Podlaski COA old.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Ļubļinas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Bjalas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = pirms 1434
+| area_total_km2 = 20.03
+| population_as_of = 2006
+| population_total = 17162
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 51 
+| latm = 59 
+| lats = 0
+| latNS = N 
+| longd = 22 
+| longm = 47 
+| longs = 0
+| longEW = E
+| elevation_m = 
+| website = http://www.miedzyrzec.pl }}
+
+'''Meņdzižeca Podlaska''' ({{val-pl|Międzyrzec Podlaski}}) ir pilsēta [[Polija]]s austrumos, [[Ļubļinas vojevodiste|Ļubļinas vojevodistē]] uz rietumiem no [[Bjala Podlaska|Bjalas Podlaskas]].
+
+[[2. pasaules karš|2. pasaules kara]] laikā pilsētu [[Polijas kampaņa]]s laikā vispirms okupēja [[Padomju Savienība|PSRS]] karaspēks, tomēr vēlāk pilsētu atdeva vāciešiem, kā tas bija paredzēts [[Ribentropa-Molotova pakts|Ribentropa-Molotova paktā]].
+
+{{commonscat|Międzyrzec Podlaski|Meņdzižeca Podlaska}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ļubļinas vojevodistes pilsētas|Menzdzizzeca Podlaska]]

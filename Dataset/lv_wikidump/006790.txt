@@ -1,0 +1,33 @@
+{{Minerāla infokaste
+|minerāls=Alarsīts
+|attēls=
+|klase=Arsenāts
+|ŠtruncaID=7/A.01-12
+|ķīm_formula=Al[AsO<sub>4</sub>]
+|singonija=[[Trigonālā singonija|trigonālā]]
+|krāsa=Bezkrāsas, krēmbalta, bāli zaļa, zilgana
+|svītra=Balta
+|habituss=Anhedrāli graudi, garoziņas
+|skaldnība=Nav novērota
+|lūzums=Gliemežnīcas
+|cietība=5-5,5
+|spīdums=Stikla
+|caurspīdīgums=Caurspīdīgs
+|laušanas_koef=n<sub>ω</sub> = 1.596 n<sub>ε</sub> = 1.608
+|pleohroisms=nav
+|blīvums=3,33
+}}
+'''Alarsīts''' (nosaukts pēc ķīmiskā sastāva — [[alumīnijs|'''al'''umīnijs]] un [[arsēns|'''ars'''ēns]]) ir ļoti rets [[minerāls]]. Atklāts [[1993]]. gadā. Atrod [[fumarola|fumarolu]] [[ekshalācija|ekshalācijās]].
+
+== Atradnes ==
+Zināma tikai viena atradne:
+* [[Krievija]], [[Kamčatka]], [[Tolbačiks]].
+
+== Ārējās saites ==
+* [http://www.mindat.org/min-94.html Mindat.org] {{en ikona}}
+* [http://www.webmineral.com/data/Alarsite.shtml Webmineral.org] {{en ikona}}
+
+{{Ģeoloģija-aizmetnis}}
+
+[[Kategorija:Alumīnija minerāli]]
+[[Kategorija:Arsenātu minerāli]]

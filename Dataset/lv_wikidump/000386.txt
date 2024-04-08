@@ -1,0 +1,200 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Рэспубліка Беларусь''<br />''Республика Беларусь''
+|    pilnais_valsts_nosaukums = Baltkrievijas Republika
+|            valsts_nosaukums = Belarus
+|               karoga_attēls = Flag of Belarus.svg
+|            karoga_nosaukums = Baltkrievijas karogs
+|              ģerboņa_attēls = Coat of arms of Belarus (2020–present).svg
+|           ģerboņa_nosaukums = Baltkrievijas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = 
+|                valsts_himna = ''[[Baltkrievijas himna|Мы, беларусы]]''<small><br />Mēs, baltkrievi</small>
+|               kartes_attēls = Location Belarus Europe.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Minska]]
+| latd= | latm= | latNS= | longd= | longm= | longEW= <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = [[Minska]]
+|              valsts_valodas = [[baltkrievu valoda|baltkrievu]] un [[krievu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Prezidentālisms|Prezidentāla republika]]
+|        valsts_galvas_tituls = [[Baltkrievijas prezidents|Prezidents]]
+|                valsts_galva = tiesiskais stāvoklis neskaidrs <small>(kopš 2020. gada 9. augusta)</small>,<ref>{{tīmekļa atsauce | url= https://news.sky.com/video/end-violence-on-streets-of-belarus-says-opposition-leader-12049164 | title= Sviatlana Tsikhanouskaya calls for end to violence in Belarus as election fallout continues | publisher= [[Sky News]] | accessdate= | language= en}}</ref> faktiski valsti vada [[Aļaksandrs Lukašenka]]
+|       valsts_galvas_tituls2 = [[Baltkrievijas premjerministru uzskaitījums|Premjerministrs]]
+|               valsts_galva2 = [[Ramans Halovčenka]]
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = sabrūkot [[Padomju Savienība]]i
+|        neatkarības_notikums = Deklarēta
+|          neatkarības_datums = {{dat|1990|7|27}}
+|       neatkarības_notikums2 = Iegūta
+|         neatkarības_datums2 = {{dat|1991|8|25}}
+|       neatkarības_notikums3 = Atzīta
+|         neatkarības_datums3 = {{dat|1991|12|26}}
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 207 600
+|               platība_rangs = 85.
+|              procenti_ūdens = neievērojams (2,830 km²)<ref>{{Tīmekļa atsauce |url=http://www.fao.org/nr/water/aquastat/countries/belarus/index.stm |publisher=FAO |title=FAO's Information System on Water and Agriculture |accessdate=2008-04-04 |archiveurl=https://web.archive.org/web/20120605001300/http://www.fao.org/NR/WATER/AQUASTAT/countries/belarus/index.stm |archivedate=2012-06-05 | language= en}}</ref>
+|     iedzīvotāju_skaita_gads = 2020
+|          iedzīvotāju_skaits = 9 477 918<ref name="CIA"/>
+|    iedzīvotāju_skaits_rangs = 92.
+|    apdzīvotības_blīvums_km2 = 45,7
+|  apdzīvotības_blīvums_rangs = 134.
+|                     IKP_PPP = $54,44 miljardi
+|                IKP_PPP_gads = 2017
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $5733
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{palielinājās}}0,808
+|                    HDI_gads = 2021
+|              HDI_kategorija = <font color=#009900>augsts</font>
+|                   HDI_rangs = 60.
+|                        Gini = 29,7
+|                   Gini_gads = 2002
+|             Gini_kategorija = <font color="#009900">zems</font>
+|                  Gini_rangs = 
+|                      valūta = [[Baltkrievijas rublis]]<ref>{{Tīmekļa atsauce | url= http://www.bank.lv/lat/main/all/finfo/notvalkur/kvnosaukkodusaraksts/ | title= Latvijas Bankas kotēto valūtu nosaukumu un kodu saraksts | publisher= Latvijas Banka | access-date= {{dat|2009|06|07||bez}} | archiveurl= https://web.archive.org/web/20090225180050/http://www.bank.lv/lat/main/all/finfo/notvalkur/kvnosaukkodusaraksts/ | archivedate= {{dat|2009|02|25||bez}} | language= lv }} {{Webarchive|url=https://web.archive.org/web/20090225180050/http://www.bank.lv/lat/main/all/finfo/notvalkur/kvnosaukkodusaraksts/ |date={{dat|2009|02|25||bez}} }}</ref>
+|                valūtas_kods = BYN
+|                  laika_zona = [[FET]]
+|                  utc_offset = +3
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = {{ubl|[[.by]]|[[.бел]]}}
+|              tālsarunu_kods = 375
+|                iso_kods_num = 112
+|              iso_kods_alfa2 = BY
+|              iso_kods_alfa3 = BLR
+|                    piezīme1 = 
+}}
+[[Attēls:Flag of Belarus (1918, 1991–1995).svg|thumb|162x162px|[[Baltkrievu baltsarkanbaltais karogs|Baltkrievijas nacionālais karogs]], ko 1995. gada referenduma rezultātā aizstāja ar modificētu Baltkrievijas PSR karogu]]
+'''Baltkrievija''' ({{val|be|Беларусь, Biełaruś}}; {{val|ru|Беларусь, Белоруссия}}), oficiāli '''Baltkrievijas Republika''' (''Рэспубліка Беларусь''; ''Республика Беларусь''), ir [[valsts]] [[Austrumeiropa|Austrumeiropā]]. Baltkrievija robežojas ar [[Polija|Poliju]] rietumos, [[Lietuva|Lietuvu]] ziemeļrietumos, [[Latvija|Latviju]] ziemeļos, [[Krievija|Krieviju]] austrumos un [[Ukraina|Ukrainu]] dienvidos. Baltkrievijas galvaspilsēta ir [[Minska]], citas lielākās pilsētas: [[Grodņa|Hrodna]], [[Vitebska|Vicebska]], [[Bresta (Baltkrievija)|Bresta]], [[Mogiļeva|Mahiļova]] un [[Gomeļa|Homeļa]]. Trešo daļu no valsts klāj [[mežs|meži]]. Tās [[saimniecība]]s spēcīgākie sektori ir [[lauksaimniecība]] un [[rūpniecība]]. Ir [[Neatkarīgo Valstu Sadraudzība]]s (NVS) locekle, piedalās arī [[Austrumu partnerība]]s programmā ar [[Eiropas Savienība]]s valstīm.
+
+== Etimoloģija ==
+{{see also|Rutēņi}}
+Nosaukums "Baltkrievija" ir [[eksonīms]]. Tas ir radies tiešas endonīmas tulkošanas rezultātā no nosaukuma [[Baltā Krievzeme]] (''Белая Русь''), kas pirmoreiz parādījās vācu un latīņu viduslaiku rakstītajos avotos. [[Latīņu valoda|Latīņu valodā]] šī zeme tika saukta par ''Alba Ruthenia''. 17. gadsimtā Krievijas [[cars|cari]] lietoja šo terminu, lai apzīmētu [[slāvi|slāvu]] tautu apdzīvotās teritorijas, kuras bija [[Polijas—Lietuvas ūnija]]s sastāvā.
+
+[[Krievijas Impērija]]s laikā neilgu laiku pastāvēja [[Baltkrievijas guberņa]] (1796—1802), pēc Pirmā pasaules kara [[Baltkrievijas Tautas Republika]] ({{val|be|Белару́ская Наро́дная Рэспу́бліка}}, 1918) un [[Baltkrievijas Sociālistiskā Padomju Republika]] ({{val|be|Савецкая Сацыялістычная Рэспубліка Беларусь}}, 1919-1922), bet [[Padomju Savienība]]s laikā [[Baltkrievijas PSR]] ({{val|ru|Белорусская ССР}}). Kopš 1991. gada valsts oficiālais nosaukums ir "Baltkrievijas Republika" ({{Audio|Be-Republic of Belarus.oga|''Рэспубліка Беларусь''}}).
+
+== Vēsture ==
+{{Pamatraksts|Baltkrievijas vēsture}}
+
+Lielāko daļu no mūsdienu Baltkrievijas teritoriju sākotnēji apdzīvoja dažādas [[balti|baltu]] ciltis ([[jātvingi]] un [[Dņepras balti]]), kas kopš 6. gadsimta sajaucās ar [[austrumslāvi|austrumslāvu]] ienācējiem.
+
+No 9. līdz 14. gadsimtam tagadējās Baltkrievijas teritorijā atradās austrumslāvu kņazistes, no kurām politiski ietekmīgāka bija [[Polockas kņazi|Polackas kņazi]]ste. 12. gadsimtā slāvu un baltu tautu savstarpējās sadarbības rezultātā tika izveidota [[Lietuvas lielkņaziste]] ar tās galvaspilsētu [[Navahrudaka|Navahradakā]]. [[Mongoļu impērija|Mongoļu]] iebrukuma un [[Vācu ordenis|Vācu]] un [[Livonijas ordenis|Livonijas ordeņa]] agresijas draudu ietekmē vairākas slāvu kņazistes pievienojās Lietuvas lielkņazistei. Vēlāk Lietuvas lielkņaziste un Polijas karaliste noslēdza ūniju, izveidojot vienotu [[Polijas—Lietuvas ūnija|Polijas—Lietuvas]] valsti. 18. gadsimta beigās, pēc [[Polijas—Lietuvas kopvalsts dalīšanas]], tagadējās Baltkrievijas zemes tika pievienotas [[Krievijas Impērija]]i.
+
+Pēc [[Brestļitovskas miera līgums|Brestļitovskas miera līguma]] ķeizariskās [[Vācija]]s okupētajā teritorijā 1918. gada 25. martā tika izveidota [[Baltkrievijas Tautas Republika]], kas bija vēsturiski pirmais mēģinājums izveidot valsti ar Baltkrievijas vārdu. Kā atbilde uz to bija 1919. gada 1. janvārī [[Smoļenska|Smoļenskā]] proklamētā [[Baltkrievijas PSR]], kas jau 27. februārī tika pārveidota par īslaicīgi pastāvošo [[Lietuvas—Baltkrievijas PSR]]. Tā tika izformēta 25. augustā sakarā ar poļu karaspēka uzbrukumu [[poļu—padomju karš|poļu—padomju kara]] pirmajā posmā. Pēc kara un [[Rīgas miera līgums|Rīgas miera līguma]] parakstīšanas 1921. gada 18. martā Baltkrievijas teritorija tika sadalīta starp [[Polija|Poliju]] un Baltkrievijas PSR, kas 1922. gada 28. decembrī bija viena no četrām [[Padomju Savienība]]s dibinātājvalstīm. No 1924. līdz 1929. gadam Baltkrievijā tika realizēta sociālistiskā industrializācija un lauksaimniecības masu kolektivizācija, kā arī veikta baltkrievošanas politika (belarusizācija). 1933. gadā baltkrievošanas politiku aizstāja [[Pārkrievošana|rusifikācijas]] politika. Šajā pašā laikā notika masu represijas pret baltkrievu tautu, it sevišķi baltkrievu inteliģenci. Rezultātā tika nogalināti no 400 līdz 600 tūkstošiem baltkrievu.<ref>{{Publikācijas atsauce|date=2022|title=Роля картаграфіі ў фарміраванні Ўсходнееўрапейскіх нацый: прыклад Беларусі|url=http://dx.doi.org/10.54544/708|journal=Article|publisher=imago.by|doi=10.54544/708}}</ref>
+
+[[Polijas kampaņa]]s laikā 1939. gada septembrī [[Padomju Savienība]] okupēja [[Polijas Otrā republika|Polijas Republikas]] austrumu daļas zemes un lielu daļu no tām pievienoja Baltkrievijas PSR, savukārt [[Viļņa|Viļņu]] atdodot [[Lietuva|Lietuvas Republikai]].
+
+Otrā pasaules kara laikā Baltkrievijā bija aktīva partizānu kustība. Pēc mūsdienu pētnieku datiem, partizānu rindās karoja ap 1,5 miljonu cilvēku. Tajā pašā laikā daļa baltkrievu, pirmām kārtām inteliģences un bijušās Baltkrievijas Tautas Republikas elites pārstāvji, centās sadarboties ar nacistisko okupācijas valdību, lai tādējādi atgūtu Baltkrievijas neatkarību. Kara rezultātā bojā gājis katrs trešais Baltkrievijas iedzīvotājs, kā arī valsts bija zaudējusi vairāk par pusi sava vēsturiskā mantojuma.
+[[Attēls:Coat of arms of Belarus (1991–1995).svg|thumb|196x196px|Baltkrievijas vēsturiskais ģerbonis "Pahoņa"]]
+Baltkrievija ir viena no valstīm, kuru nopietni skāra 1986. gada [[Čornobiļas AES katastrofa]]s izraisītais vides piesārņojums ar radioaktīvajiem izotopiem.
+
+{{dat|1990|7|27}} tika pieņemta Baltkrievijas PSR Suverenitātes deklarācija, bet {{dat|1991|8|25}} Baltkrievija ieguva valstisko neatkarību.
+
+== Politika ==
+{{Pamatraksts|Baltkrievijas politika}}
+Baltkrievija ir valsts ar [[Autoritārisms|autoritāru]] vadību, kura ietilpst [[Neatkarīgo Valstu Sadraudzība|Neatkarīgo Valstu Sadraudzībā]] (NVS) un vairākās citās [[Krievija]]s vadītās politiskās, ekonomiskās un militārās savienībās.
+
+Kopš 1994. gada jūlija [[Baltkrievijas prezidents]] ir [[Aļaksandrs Lukašenka]]. [[Baltkrievijas iedzīvotāju protesti (2020)|Baltkrievijas iedzīvotāju protesti]] pret vēlēšanu rezultātu viltošanu 2020. gada 9. augusta valsts prezidenta vēlēšanās pārvērtās par masu protestiem pret A. Lukašenkas režīmu, daudzas valstis neatzina vēlēšanas par likumam atbilstošām. Pēc protestu apspiešanas Lukašenka sāka represijas pret saviem pretiniekiem.<ref>{{Tīmekļa atsauce|url=https://bnn.lv/eiropas-parlaments-nosoda-baltkrievijas-represijas-un-paraugpravas-13971|title=EP nosoda Baltkrievijas represijas un «paraugprāvas»|last=BNN|website=BNN - ZIŅAS AR VĒRTĪBU|access-date=2023-08-05|date=2023-03-16|language=lv}}</ref><ref>{{Tīmekļa atsauce|url=https://www.dw.com/ru/lukasenko-uzestocil-repressii-v-belarusi-no-ekstremizma-mense-ne-stalo/a-65733571|title=Лукашенко ужесточил репрессии, "экстремизма" меньше не стало – DW – 25.05.2023|website=dw.com|access-date=2023-08-05|language=ru}}</ref><ref>{{Tīmekļa atsauce|url=https://www.state.gov/responding-to-continued-repression-by-the-lukashenka-regime-in-belarus/|title=Responding to Continued Repression by the Lukashenka Regime in Belarus|website=United States Department of State|access-date=2023-08-05|language=en}}</ref><ref>{{Tīmekļa atsauce|url=https://ecfr.eu/article/a-prison-of-the-mind-lukashenkas-pursuit-of-exiled-belarusians/|title=A prison of the mind: Lukashenka’s pursuit of exiled Belarusians|last=Slunkin|first=Pavel|website=ECFR|access-date=2023-08-05|date=2023-01-30|language=en-GB}}</ref> 2022. gadā no Baltkrievijas teritorijas ar Lukašenkas piekrišanu tika veikts Krievijas ziemeļu grupējuma [[Krievijas 2022. gada iebrukums Ukrainā|iebrukums Ukrainā]], pēc kā ES nolēma pastiprināt jau esošās sankcijas pret Baltkrieviju.<ref>[https://www.reuters.com/world/eu-impose-new-sanctions-belarus-this-week-eu-official-2022-02-28/ Reuters. EU to impose new sanctions on Belarus this week -EU official]</ref>
+
+== Ģeogrāfija ==
+Baltkrievijas platība ir 207 600 [[kvadrātkilometrs|km²]]. Tā robežojas ar piecām valstīm: ziemeļrietumos ar [[Latvija|Latviju]], ziemeļaustrumos un austrumos ar [[Krievija|Krieviju]], dienvidos ar [[Ukraina|Ukrainu]], rietumos ar [[Polija|Poliju]] un [[Lietuva|Lietuvu]]. Baltkrievijai nav izejas pie jūras.
+
+Baltkrievijas reljefs galvenokārt ir veidojies [[pleistocēns|pleistocēna]] ēras laikā, kas sākās aptuveni pirms 2,6 miljoniem gadu un noslēdzās ar [[ledus laikmets|ledus laikmetu]] aptuveni pirms 11 tūkstošiem gadu. Lielāko daļu no valsts veido [[zemiene]]s ([[Centrālais Bjarezinas līdzenums]]) ar nelieliem [[pakalns|pakalniem]] un [[augstiene|augstienēm]]. Augstākais punkts virs jūras līmeņa ir [[Dzeržinska kalns]] (345 m). Vairāk nekā puse no valsts teritorijas atrodas zem 200 metru atzīmes virs jūras līmeņa. Baltkrievijas teritoriju no dienvidrietumiem līdz pat ziemeļaustrumiem šķērso [[Baltkrievijas grēda]]. Baltkrievijas galvaspilsēta [[Minska]] atrodas tiešā šīs grēdas tuvumā.
+
+Baltkrievijas teritoriju šķērso vairākas lielas upes. Liela daļa no valsts atrodas [[Dņepra]]s [[sateces baseins|baseinā]], kura plūst no ziemeļiem uz dienvidiem Baltkrievijas austrumu pusē. Lielākās Dņepras pietekas Baltkrievijas teritorijā ir [[Pripete]], [[Bjarezina]] un [[Soža]]. Ziemeļos Baltkrievijai cauri tek [[Daugava]], bet rietumos atrodas [[Nemuna]]s izteka.
+
+== Administratīvais iedalījums ==
+{| width=400px align=right
+|-
+|
+{{Image label begin|image=Belarus location map.svg|width=400|float=none}}
+
+{{Image label small|x=0.400|y=0.150|scale=500|text=[[Vicebskas apgabals]]}}
+{{Image label small|x=0.100|y=0.370|scale=500|text=[[Grodņas apgabals]]}}
+{{Image label small|x=0.320|y=0.300|scale=500|text=[[Minskas apgabals]]}}
+{{Image label small|x=0.350|y=0.340|scale=500|text=[[Minska]]}}
+{{Image label small|x=0.550|y=0.380|scale=500|text=[[Mogiļevas apgabals|Mahiļovas apgabals]]}}
+{{Image label small|x=0.160|y=0.550|scale=500|text=[[Brestas apgabals]]}}
+{{Image label small|x=0.450|y=0.550|scale=500|text=[[Gomeļas apgabals|Homeļas apgabals]]}}
+{{Image label end}}
+|}
+
+Baltkrievija tiek iedalīta [[Baltkrievijas administratīvais iedalījums|6 apgabalos]] (''вобласць''). Atsevišķi tiek izdalīta galvaspilsēta [[Minska]], kurai ir īpašs statuss. Apgabali sīkāk tiek iedalīti rajonos (''раён''). Kopā ir 118 rajoni. Vēl sīkāk rajonus iedala pilsētās un ciematos. Kopā ir 102 pilsētas un 108 ciemati.
+
+{| style="background:transparent;" cellspacing="2px"
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="130px" | [[Baltkrievijas administratīvais iedalījums|Apgabals]] || ! width="110px" | Admin. centrs || Platība (km²) || Iedzīvotāji
+|-
+| [[Minska]] || - || 305 || 1 830 700
+|-
+| [[Brestas apgabals]] || [[Bresta (Baltkrievija)|Bresta]] || 32 700 || 1 445 600
+|-
+| [[Gomeļas apgabals|Homeļas apgabals]] || [[Gomeļa|Homeļa]] || 40 400 || 1 495 100
+|-
+| [[Grodņas apgabals]] || [[Grodņa]] || 25 000 || 1 123 400
+|-
+| [[Minskas apgabals]] || [[Minska]] || 40 200 || 1 474 100
+|-
+| [[Mogiļevas apgabals|Mahiļovas apgabals]] || [[Mahiļova]] || 29 000 || 1 146 800
+|-
+| [[Vicebskas apgabals]] || [[Vicebska]] || 40 100 || 1 294 700
+|}
+|}
+
+== Demogrāfija ==
+Pēc 1999. gada veiktās [[tautas skaitīšana]]s<ref name=census>{{ru ikona}} {{Tīmekļa atsauce| url=http://belstat.gov.by/homep/ru/perepic/p5.php| title=НАЦИОНАЛЬНЫЙ СОСТАВ НАСЕЛЕНИЯ РЕСПУБЛИКИ БЕЛАРУСЬ| publisher=Национальный статистический комитет Республики Беларусь| accessdate=2010-02-21| archiveurl=https://archive.today/20120526194734/http://belstat.gov.by/homep/ru/perepic/p5.php| archivedate=2012-05-26}} {{Webarchive|url=https://web.archive.org/web/20090207141941/http://belstat.gov.by/homep/ru/perepic/p5.php |date=2009-02-07 }}</ref> [[baltkrievi]] ir 81,2% no visiem valsts iedzīvotājiem. [[Krievi]], no kuriem ļoti daudzi iebrauca [[Baltkrievijas PSR]] 1960. gados un 1970. gados, ir otra lielākā tautība (11,4%). Lielākā daļa no pārējiem iedzīvotājiem ir [[poļi]] (3,9%) un [[ukraiņi]] (2,4%). Pirms [[Otrais pasaules karš|Otrā pasaules kara]] otra lielākā Baltkrievijā dzīvojošā tauta bija [[ebreji]]. [[Genocīds|Genocīda]] un augstās [[emigrācija]]s dēļ pēckara gados ebreju skaits Baltkrievijā ir samazinājies līdz 0,3% no visiem iedzīvotājiem. No pārējām mazākumtautībām lielākās ir [[armēņi]], [[tatāri]], [[čigāni]], [[lietuvieši]] un [[azerbaidžāņi]].
+
+: '''[[Baltkrievijas latvieši|Latviešu skaits]] Baltkrievijā'''
+{| class="wikitable"
+|-
+! gads!! 1926!! 1939!! 1959!! 1970!! 1979!! 1989!! 1999!! 2009
+|-
+| [[latvieši]]|| 14 080|| 8117|| 2631|| 2660|| 2617|| 2658|| 2239|| 1549
+|}
+
+Baltkrievijas [[valsts valoda]]s ir [[baltkrievu valoda|baltkrievu]] un [[krievu valoda]]. Baltkrievu valoda, kas ir galvenais jēdziens tautiskajai identitātei, ir viena no [[austrumslāvu valodas|austrumslāvu valodām]], kura ir radniecīga krievu un [[ukraiņu valoda]]i. Baltkrievu valodu pieraksta izmantojot [[kirilica]]s alfabētu, taču vēsturiski pastāv arī baltkrievu [[latīņu alfabēts]] ([[Baltkrievu valoda|baltkrievu]]: ''biełaruskaja łacinka''). Šajā valodā ir arī daudz [[aizguvums|aizguvumi]] no krievu un [[poļu valoda|poļu valodām]]. Baltkrievu valodas senākā forma ([[rutēņu valoda]]) bija viena no [[Lietuvas lielkņaziste]]s valsts valodām.
+
+Lielākā daļa no baltkrievu ir [[pareizticība|pareizticīgie]]. Ievērojama daļa ir arī [[Romas katoļi]] (sk. [[Katoļticība Baltkrievijā]]) un [[austrumkatoļi]], kuri piedzīvo atdzimšanu pēc gadsimtiem ilgas vajāšanās, ko veica [[Krievijas Impērija]]s un [[Padomju Savienība]]s valdības.
+
+{{Baltkrievijas lielākās pilsētas}}
+{{clear|right}}
+
+== Saimniecība ==
+Kā [[Padomju Savienība]]s republikai Baltkrievijai bija salīdzinoši labi attīstīta [[rūpniecība]]s bāze, taču mūsdienās tā ir novecojusi, mazražīga un atkarīga no [[Krievija]]s subsīdijām un Krievijas tirgus. Lauksaimniecība lielā mērā ir atkarīga no valsts [[subsīdijas|subsīdijām]]. Pēc [[PSRS sabrukums|Padomju Savienības sabrukuma]] 1991. gadā sākās valsts uzņēmumu [[privatizācija]], radās [[privātīpašums|privātīpašumi]] un aizsākās privātā [[uzņēmējdarbība]], bet 1994. gadā valsts prezidents Lukašenka to apturēja. Aptuveni 80% no rūpniecības uzņēmumiem joprojām ir valsts kontrolē, ārvalstu ieguldījumi faktiski ir izzuduši. Vairākus privatizētos uzņēmumus valsts atguva. Valstij piederošie uzņēmumi veido 70—75% no [[iekšzemes kopprodukts|iekšzemes kopprodukta]].<ref name="CIA">{{Tīmekļa atsauce | url= https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People | title= Belarus | publisher= CIA - The World Factbook | accessdate= 2020. gada 12. oktobrī | language= en | archive-date= {{dat|2020|05|29||bez}} | archive-url= https://web.archive.org/web/20200529030012/https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People }} {{Webarchive|url=https://web.archive.org/web/20151015203520/https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People |date={{dat|2015|10|15||bez}} }}</ref> Valsts bankas veido 75% no banku sektora.<ref name="CIA"/>
+
+[[Baltkrievijas saimniecība]] [[1990. gadi|1990. gados]] saruka, bet [[2000. gadi|2000. gadu]] vidū atdzīvojās. Baltkrievija importē [[jēlnafta|jēlnaftu]] un [[dabasgāze|dabasgāzi]] no Krievijas par subsidētām, zemākām cenām nekā tirgus cenas, gūstot ieņēmumus no pārstrādāto Krievijas naftas produktu eksporta, pārdodot to jau par tirgus cenām. Krievijai un Baltkrievijai ir bijušas nopietnas domstarpības par piegādāto resursu cenām un daudzumu.<ref name="CIA"/> Sākot ar 2016. gada sākumu, Krievija pieprasīja, lai Baltkrievija sāktu atdot parādu, kas līdz 2017. gada aprīlim sasniedza $740 miljonus.<ref name="CIA"/> Baltkrievija 2017. gada aprīlī piekrita apmaksāt savu [[dabasgāze]]s parādu un Krievija atjaunoja jēlnaftas plūsmu.
+
+== Kultūra ==
+
+=== Virtuve ===
+[[Attēls:Potato pancakes.jpg|thumb|[[Kartupeļu pankūkas]] ir baltkrievu nacionālais ēdiens]]
+[[Baltkrievu virtuve|Baltkrievu virtuvi]], līdzīgi kā citās reģiona valstīs, veido galvenokārt dārzeņu (kartupeļi, kāposti, bietes) un gaļas (pamatā [[cūkgaļa]]s) ēdieni un [[maize]]. Pārtika parasti tiek lēni vārīta vai [[sautēšana|sautēta]]. Baltkrievi parasti ēd vieglas brokastis, bet nākamās divas ēdienreizes ir sātīgas. Vēsturiski [[rudzu maize]] bijusi populārāka nekā [[kviešu maize|kviešu]], jo Baltkrievijas klimats bija piemērotāks rudzu audzēšanai. Viesmīlības apliecināšanai viesi tradicionāli tiek cienāti ar tā saukto [[sālsmaize|sālsmaizi]].<ref>Canadian Citizenship and Immigration — [http://www.cp-pc.ca/english/belarus/eating.html Cultures Profile Project — Eating the Belarusian Way] {{webarchive |url=https://web.archive.org/web/20070320041709/http://www.cp-pc.ca/english/belarus/eating.html |date=20 March 2007 }} (1998); skatīts 2007. gada 21. martā.</ref>
+
+=== Sports ===
+{{pamatraksts|Baltkrievija olimpiskajās spēlēs}}
+Baltkrievija piedalījusies olimpiskajās spēlēs kopš [[1994. gada ziemas olimpiskās spēles|1994. gada ziemas spēlēm]], kopā izcīnījusi 96 medaļas (pēc 2018. gada spēlēm). Tās [[Nacionālā Olimpiskā komiteja|Nacionālo Olimpiskā komiteju]] kopš 1997. gada vadījis valsts prezidents [[Aļaksandrs Lukašenka]].<ref>{{tīmekļa atsauce|url=http://www.noc.by/en/about|title=NOC of Belarus|last=|first=|publisher=|access-date=|date=|archiveurl=https://web.archive.org/web/20160317071408/http://www.noc.by/en/about|archivedate=17 March 2016}} {{Webarchive|url=https://web.archive.org/web/20160317071408/http://www.noc.by/en/about |date={{dat|2016|03|17||bez}} }}</ref>
+
+Pēc [[Futbols|futbola]] otrs populārākais sporta veids valstī ir [[hokejs]]; tam tiek veltīti ievērojami valsts līdzekļi. [[Baltkrievijas futbola izlase|Nacionālā futbola izlase]] nekad nav kvalificējusies kādam lielajam turnīram, taču futbola klubs [[Barisavas BATE]] ir spēlējis [[UEFA Čempionu līga]]s grupu turnīrā. [[Baltkrievijas hokeja izlase]] izcīnīja ceturto vietu [[2002. gada ziemas olimpiskās spēles|2002. gada ziemas olimpiskās spēlēs Soltleiksitijā]], ceturtdaļfinālā pārspējot [[Zviedrijas hokeja izlase|Zviedriju]] un regulāri piedalās Pasaules čempionātā augstākajā divīzijā, bieži iekļūstot ceturtdaļfinālā. Baltkrievijas hokejisti ir plaši pārstāvēti [[Kontinentālā hokeja līga|Kontinentālā hokeja līgā]], īpaši Minskas klubā [[Minskas "Dinamo" (hokejs)|"Dinamo"]], daudzi spēlējuši arī [[Nacionālā hokeja līga|Nacionālā hokeja līgā]] Ziemeļamerikā.
+
+Individuālajos sporta veidos ievērojamus panākumus guvusi biatloniste [[Darja Domračeva]], kura izcīnīja trīs zelta medaļas [[2014. gada ziemas olimpiskās spēles|2014. gada ziemas olimpiskajās spēlēs]].<ref>{{tīmekļa atsauce |url=https://www.olympic.org/darya-domracheva |title=Darya DOMRACHEVA |website=www.olympic.org}}</ref> 2012. gadā [[Viktorija Azarenka]] kļuva par pirmo baltkrievu tenisisti, kas uzvarējusi kādā [[Grand Slam (teniss)|''Grand Slam'']] turnīrā vienspēlēs, uzvarot ''[[Austrālijas atklātais čempionāts tenisā|Australian Open]]''.<ref>{{tīmekļa atsauce|url=http://www.smh.com.au/sport/tennis/queen-victoria-takes-the-throne-determined-to-court-further-success-20120129-1qo2l.html|title=Queen Victoria takes the throne determined to court further success|work=The Sydney Morning Herald}}</ref> Pēc gada viņa šo panākumu atkārtoja.
+
+== Skatīt arī ==
+* [[Baltkrievijas pilsētu uzskaitījums]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People | title= Belarus | publisher= CIA — The World Factbook | access-date= {{dat|2010|02|21||bez}} | archive-date= {{dat|2020|05|29||bez}} | archive-url= https://web.archive.org/web/20200529030012/https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People }} {{Webarchive|url=https://web.archive.org/web/20151015203520/https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html#People |date={{dat|2015|10|15||bez}} }}
+
+{{Eiropa}}
+{{NVS}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Baltkrievija| ]]
+[[Kategorija:1991. gads]]

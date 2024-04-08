@@ -1,0 +1,83 @@
+{{Etniskas grupas infokaste
+|image     = [[Attēls:Map-TurkicLanguages.png|320px]]
+|caption   = 
+|population = apmēram 150-200 miljoni<ref>Brigitte Moser, Michael Wilhelm Weithmann, Landeskunde Türkei: Geschichte, Gesellschaft und Kultur, Buske Publishing, 2008, p.173</ref><ref>Deutsches Orient-Institut, Orient, Vol. 41, Alfred Röper Publushing, 2000, p.611</ref>
+|region1    = {{flag2|Turkey}}
+|pop1       = 55 000 000<ref name="cia">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html |title=Turkey |publisher=The World Factbook |accessdate=9 February 2013 |archive-date={{dat|2017|07|02||bez}} |archive-url=https://web.archive.org/web/20170702111626/https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html }}</ref>
+|region2    = {{flag2|Uzbekistan}}
+|pop2       = 26 000 000<ref name="cia2">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html |title=Uzbekistan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2016|07|09||bez}} |archive-url=https://web.archive.org/web/20160709035649/https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html }}</ref>
+|region3    = {{flag2|Iran}}
+|pop3       = 14 000 000-15 000 000<ref name="cia3">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html |title=Iran |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2012|02|03||bez}} |archive-url=https://web.archive.org/web/20120203093100/https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html }}</ref>
+|region4    = {{flag2|Russia}}
+|pop4       = 12 009 969
+|region5    = {{flag2|Kazakhstan}}
+|pop5       = 12 000 000<ref name="cia4">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html |title=Kazakhstan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2018|12|26||bez}} |archive-url=https://web.archive.org/web/20181226010136/https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html%20 }}</ref>
+|region6    = {{flag2|China}}
+|pop6       = 11 647 000<ref name="cia5">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html |title=China |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2016|10|13||bez}} |archive-url=https://web.archive.org/web/20161013030611/https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html }}</ref>
+|region7    = {{flag2|Azerbaijan}}
+|pop7       = 9 047 000<ref name="cia6">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html |title=Azerbaijan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2016|07|09||bez}} |archive-url=https://web.archive.org/web/20160709035525/https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html }}</ref>
+|region8    = {{flag2|European Union}}
+|pop8       = 5 876 318
+|region9    = {{flag2|Turkmenistan}}
+|pop9       = 4 500 000<ref name="cia7">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ux.html |title=Turkmenistan |publisher=The World Factbook |accessdate=13 May 2014 }}{{Novecojusi saite}}</ref>
+|region10   = {{flag2|Kyrgyzstan}}
+|pop10      = 4 500 000<ref name="cia8">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html |title=Kyrgyzstan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2015|11|27||bez}} |archive-url=https://web.archive.org/web/20151127011116/https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html }}</ref>
+|region11    = {{flag2|Afghanistan}}
+|pop11       = 3 500 000<ref name="cia9">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/af.html |title=Afganistan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2017|09|20||bez}} |archive-url=https://web.archive.org/web/20170920072213/https://www.cia.gov/library/publications/the-world-factbook/geos/af.html }}</ref>
+|region12    = {{flag2|Iraq}}
+|pop12       = 1 500 000<ref name="cia10">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html |title=Iraq |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2018|12|24||bez}} |archive-url=https://web.archive.org/web/20181224211125/https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html }}</ref>
+|region13    = {{flag2|Tajikistan}}
+|pop13       = 1 200 000<ref name="cia11">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html |title=Tajikistan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2001|03|31||bez}} |archive-url=https://web.archive.org/web/20010331101740/https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html }}</ref>
+|region14    = {{flag2|United States}}
+|pop14       = 1 000 000+<ref>{{Tīmekļa atsauce |url=http://m.stlamerican.com/reader_interaction/letters_to_the_editor/article_a906f9d6-4a8f-11e0-9d87-001cc4c03286.html |title=Arhivēta kopija |access-date={{dat|2014|05|24||bez}} |archive-date={{dat|2014|09|05||bez}} |archive-url=https://web.archive.org/web/20140905004354/http://m.stlamerican.com/reader_interaction/letters_to_the_editor/article_a906f9d6-4a8f-11e0-9d87-001cc4c03286.html }}</ref>
+|region16    = {{flag2|Pakistan}}
+|pop16       = 500 000<ref name="cia12">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/pk.html |title=Pakistan |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2015|07|03||bez}} |archive-url=https://web.archive.org/web/20150703220143/https://www.cia.gov/Library/publications/the-world-factbook/geos/pk.html }}</ref>
+|region17    = {{flag2|Ziemeļkipra}}
+|pop17       = 298 862<ref name=census2006>{{tīmekļa atsauce|url=http://nufussayimi.devplan.org/Census%202006.pdf |title=Census.XLS |format=PDF |accessdate=2014-02-14}}</ref> 
+|region18    = {{flag2|Australia}}
+|pop18       = 293 500
+|region19    = {{flag2|Georgia}}
+|pop19       = 284 761<ref name="cia13">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html |title=Georgia |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2015|10|16||bez}} |archive-url=https://web.archive.org/web/20151016075816/https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html }}</ref>
+|region20  = {{flag2|Ukraina}}
+|pop20     = 275 300<ref>{{tīmekļa atsauce|url=http://www.ukrcensus.gov.ua/eng/results/general/nationality|title=Results / General results of the census / National composition of population|accessdate=2007-08-05|date=December 5, 2001|work=All-Ukrainian Census, 2001|archiveurl=https://web.archive.org/web/20041031064500/http://www.ukrcensus.gov.ua/eng/results/general/nationality|archivedate=2004-10-31}}</ref>
+|region21   = {{flag2|Saudi Arabia}}
+|pop21      = 224 460
+|region22   = {{flag2|Syria}}
+|pop22      = 100 000-200 000<ref name="cia14">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html |title=Syria |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2017|12|29||bez}} |archive-url=https://web.archive.org/web/20171229122345/https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html }}</ref>
+|region24   = {{flag2|Moldova}}
+|pop24      = 158 300<ref name="cia15">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/md.html |title=Moldova |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2020|04|25||bez}} |archive-url=https://web.archive.org/web/20200425182435/https://www.cia.gov/library/publications/the-world-factbook/geos/md.html }}</ref>
+|region25   = {{flag2|Mongolia}}
+|pop25      = 106 955<ref name="cia16">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html |title=Mongolia |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2010|12|29||bez}} |archive-url=https://web.archive.org/web/20101229001357/https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html }}</ref>
+|region26   = {{flag2|Maķedonija}}
+|pop26      = 77 959<ref name="cia17">{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/mk.html |title=Macedonia |publisher=The World Factbook |accessdate=13 May 2014 |archive-date={{dat|2018|01|28||bez}} |archive-url=https://web.archive.org/web/20180128152123/https://www.cia.gov/library/publications/the-world-factbook/geos/mk.html }}</ref>
+|rels       =[[Ateisms]], [[agnosticisms]], [[budisms]],<ref>Budisti ir Sibīrijas gagausi un Ķīnas Gansu provinces dzeltenie uiguri.</ref> [[kristietība]],<ref>Kristieši ir Donavas deltas gagausi, Volgas baseina čuvaši un jakuti, kā arī mazākas tjurku grupas Sibīrijā.</ref> [[islāms]], [[jūdaisms]], [[šamanisms]] un [[tengriisms]]
+| langs      = [[Tjurku valodas]]
+}}
+'''Tjurki''', arī '''tirki''' ({{val|ru|тюрки}}, {{val|tr|türk}}) ir valodas ziņā radniecīga tautu grupa, pie kuras pieder [[turki (tautība)|turki]], [[tatāri]], [[azerbaidžāņi]], [[uzbeki]] u.c.,<ref>Svešvārdu vārdnīca: Juris Baldunčiks, Kornēlija Pokrotniece. — Rīga: Apgāds „Jumava”, 2005. — 601. lpp.</ref> kas runā [[tjurku valodas|tjurku valodās]]. Tjurku tautas dzīvo [[Āzija]]s centrālajā, austrumu un ziemeļu daļā, nedaudz arī [[Eiropa|Eiropā]].
+
+== Vēsture ==
+Vārds "tjurks" parādījās 6. gadsimtā kā vietējo cilšu apvienības nosaukums [[Altajs|Altajā]], kur pārcēlās [[huņņi]] no ašinas cilts, kas agrāk mita [[Ķīna]]s Rietumu novadā, uz ziemeļiem no Tarimas upes. [[Dāņi|Dāņu]] valodnieks Vilhems Tomsens, kurš 1893. gadā atšifrēja seno tjurku [[rūnu raksts|rūniskās]] rakstu zīmes, uzskatīja, ka vārds "tjurks" nozīmē "spēks", "varenība", un sākotnēji tā sauca kādu atsevišķu cilti vai, visticamāk, valdnieku dzimtu. Tam drīzāk bija politisks, ne etnogrāfisks saturs; uz to norāda, piemēram, teiciens "Mani tjurki, mana tauta".
+
+Cilšu apvienības veiksmīgā karadarbība apkārtējās zemēs noveda pie [[Tjurku kaganāts|Tjurku kaganāta]] izveides Centrālajā un Austrumāzijā. Kaganāts pastāvēja no 551. līdz 745. gadam, un aptvēra teritoriju no Bohajas līča līdz [[Kerčas šaurums|Kerčas jūras šaurumam]], no [[Jeņiseja]]s augšteces līdz [[Amudarja]]s augštecei. Par Tjurku kaganāta dibinātāju tiek uzskatīts [[Bumins]], kas pieņēma [[kagans|kagana]] titulu 551. gadā. Valdnieka mītne atradās [[Orhona]]s upes augštecē. 
+Drīz tjurku kontrolē nokļuva [[Zīda ceļš|Zīda ceļa]] liela daļa, līdz ar to saviem kaimiņiem ierobežojot tirdzniecības sakarus. Kaganāta valdnieki kopā ar [[Austrumromas impērija|Bizantiju]] cīmījās ar [[Sasanīdu impērija|Sasnīdu impēriju]], kā rezultāta viņiem izdevās tikt līdz Amudarjai, bet pēc tam pievienot vairākus apgabalus upes rietumu krastā. 576. gadā tjurki ieņēma Bosporu ([[Kerča|Kerču]]), pēc četriem gadiem aplenca [[Hersona|Hersonu]].
+Viņu kustība uz rietumiem bija ne tikai jaunu teritoriju iekarošana, bet arī liela tjurku tautu migrācija, notika to apmešanās plašos rajonos Rietumu novadā un Centrālāzijas austrumos. Tjurki iekarotajās teritorijās parasti neiejaucās pamattautu dzīvē, aprobežojoties tikai ar savas suverenitātes nostiprināšanu un [[mesli|meslu]] vākšanu.
+
+Sakarā ar iekšpolitisko krīzi, iekšējiem konfliktiem un ķīniešu [[Sui dinastija]]s iejaukšanos, tjurku lielvalsts sadalījās Austrumu un Rietumu kaganātā, kuri savā starpā ilgstoši karoja. 7. gadsimtā tās divas reizes pēc kārtas (630. un 658. gadā) cieta sakāvi karos ar [[Tanu dinastija]]s Ķīnu, un beidza pastāvēt.
+Tjurki atjaunoja Austrumu kaganātu 7. gadsimta beigās, pakļaujot [[uiguri|uiguru]] un kidanu ciltis, sagraujot karlukus un Jeņisejas kirgīzus, izrādot sīvu pretestību tanu Ķīnas armijai. Par kaganu kļuva Kutlugs (Ilteres-kagans). Nakamā valdnieka Kapagan-kagana (691—716) laikā otrais Austrumu kaganāts sasniedza visaugstāko uzplaukumu.
+
+Austrumu tjurki 8. gadsimtā  centās pretoties Centrālāzijā iebrūkošajiem [[arābi|arābu]] iekarotājiem, bet pēc sakāves pie [[Samarkanda]]s atkāpās. Viņu valdnieki vēl pusgadsimtu sargāja neatkarību smagās cīņās pret Tanu impēriju un tās sabiedrotajiem. Pēc Bilge-kagana un viņa brāļa Kol-tegina nāves tjurki zaudēja iniciatīvu un pārgāja aizsardzībā. Vislielākās briesmas kaganātam tomēr sagādāja [[uiguri]]. Uigurus 680. gados pakļāva austrumu tjurki, bet pēc vairāk nekā 60 gadiem viņi guva revanšu, kopā ar kaimiņu ciltīm sagraujot otro Austrumu kaganātu. Jāpiebilst, ka tā krahu paātrināja iekšējās pretrunas un nesaskaņas. Tā vietā 745. gadā radās Uiguru kaganāts.
+
+Ar laiku arābu vēsturnieki un ģeogrāfi ar vārdu "tjurki" sāka apzīmēt veselas tautu un valodu grupas. Lai gan tjurku tautām bija valodas kopība, pašām ciltīm trūka etniskās pašapziņas. Līdz ar [[islāms|islāma]] pieņemšanu šīs tautas sāka sevi saukt par tjurkiem.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Portāls2|Turcija}}
+* [http://www.turklib.com/ Turkistan library] {{ru ikona}}
+
+{{Tjurku valstis}}
+{{Turcijas tēmas}}
+
+[[Kategorija:Tjurki| ]]
+[[Kategorija:Tautas pēc valodu grupas]]

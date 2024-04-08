@@ -1,0 +1,68 @@
+{{Sporta izlases infokaste
+ | valsts         = Austrālija
+ | valsts_angl    = Australia
+ | att_izm        = 
+ | logo           = 
+ | logo_izm       = 
+ | dibin          = 
+ | federācija     = 
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 35.
+ | rangs max      = 23.
+ | rangs max date = 1992.
+ | rangs min      = 38.
+ | rangs min date = 2018.
+ | iesauka        =	Mighty Roos
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = {{flaga|Somija}}/{{flaga|Austrālija}} [[Matti Luoma]]
+ | pers01         = 
+ | pers01_vārds   = 
+ | pers02         = 
+ | pers02_vārds   = 
+ | pers03         = 
+ | pers03_vārds   = 
+ | pers04         = 
+ | pers04_vārds   = 
+ | kapteinis      = [[Tomass Pauels]]
+ | visv spēles    = [[Glens Fols]] (80)
+ | visv vārtu     = [[Gregs Odijs]] (71)
+ | visv punktu    = [[Gregs Odijs]] (129)
+<!--- OS --->
+ | OS reizes      = 1
+ | OS medaļas     = 
+ | OS lab sasn    = 9. vieta ([[Hokejs 1960. gada ziemas olimpiskajās spēlēs|1960.]])
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 33
+ | PČ medaļas     = 
+ | PČ lab sasn    = 9. vieta (1960)
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{ih|TCH}} 18—1 {{ih-rt|AUS}}<br />([[Skvoveli]], [[Amerikas Savienotās Valstis|ASV]]; {{dat|1960|2|20|N|bez}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih|AUS}} 58—0 {{ih-rt|NZL}}<br />([[Pērta|Pērtā]], [[Austrālija|Austrālijā]]; {{dat|1987|3|14|N|bez}})
+ | liel zaud      = {{ih|KAZ}} 23—1 {{ih-rt|AUS}}<br />([[Ļubļana]], [[Slovēnija]]; {{dat|1993|3|15|N|bez}})
+ | pašreizējais   = 
+}}
+
+'''Austrālijas hokeja izlase''' ir komanda, kas pārstāv [[Austrālija|Austrāliju]] starptautiskajās [[hokejs|hokeja]] spēlēs. Šobrīd tā atrodas 35. vietā [[IIHF|Starptautiskās hokeja federācijas]] rangā.<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2023 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2023|5|30||bez}}}}</ref> 
+Austrālijas hokeja izlasei pieder arī pasaules rekords - 1987. gadā tā ar 58-0 sagrāva [[Jaunzēlande]]s izlasi, kas ir lielākais rezultāts izlašu spēlēs. [[2007. gada Pasaules čempionāts hokejā|2007.]] gadā 2. divīzijas B grupā Austrālijas izlase piekāpās vienīgi [[Dienvidkorejas izlase]]i, bet [[2008. gada Pasaules čempionāts hokejā|2008.]] gadā izlase spēlējot 2. divīzijā izcīnīja 1.vietu un nākamgad spēlēja 1.divīzijā, kas priekš Austrālijas hokeja izlases ir nebijis panākums. 1. divīzijā Austrālija spēlēja arī 2012. gadā, bet no tās izkrita.
+[[2023. gada_Pasaules čempionāta hokejā 2. divīzija#A grupa|2023. gadā]] tā bija iedalīta [[IIHF]] Pasaules čempionāta IIA divīzijā.
+== Atsauces ==
+{{atsauces}}
+
+{{Hokejs-aizmetnis}}
+{{Hokejaizlases}}
+
+[[Kategorija:Hokejs Austrālijā]]
+[[Kategorija:Okeānijas hokeja izlases]]

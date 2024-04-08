@@ -1,0 +1,26 @@
+<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left: 0.5em">
+<td>Nosaukums</td>
+<td>Nitrobenzols</td></tr>
+<tr>
+<td>Ķīmiskā formula</td><td>C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub></td></tr>
+<tr>
+<td>[[Molmasa]]</td><td>123,06 g/mol</td></tr>
+<tr>
+<td>[[Blīvums]]</td>
+<td>1199 kg/m<sup>3</sup></td></tr>
+<tr>
+<td>[[Kušanas temperatūra]] </td><td>5,85&nbsp;°C</td></tr>
+<tr>
+<td>[[Viršanas temperatūra]] </td><td>210,9&nbsp;°C</td></tr>
+<tr>
+</table>
+[[Attēls:Nitrobenzen.png|right|thumb]]
+'''Nitrobenzols''' (C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>) ir smags, eļļains šķidrums. To iegūst, [[nitrēšana|nitrējot]] [[benzols|benzolu]]. Nitrobenzolu galvenokārt lieto par [[anilīns|anilīna]] izejvielu.
+
+== Iegūšana ==
+Nitrobenzolu iegūst, nitrējot benzolu ar slāpekļskābes un sērskābes (ūdensatņēmēja viela) maisījumu. Šī reakcija ir aromātiskā elektrofilā aizvietošana un tā notiek vairākās stadijās, kopējais vienādojums ir:
+ C<sub>6</sub>H<sub>6</sub> + HNO<sub>3</sub> --> C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + H<sub>2</sub>O
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nitrosavienojumi]]

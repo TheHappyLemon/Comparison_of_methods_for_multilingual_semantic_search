@@ -1,0 +1,127 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Slovenská republika''
+|    pilnais_valsts_nosaukums = Slovākijas Republika
+|            valsts_nosaukums = Slovakia
+|               karoga_attēls = Flag of Slovakia.svg
+|            karoga_nosaukums = Slovākijas Republikas karogs
+|              ģerboņa_attēls = Coat of Arms of Slovakia.svg
+|           ģerboņa_nosaukums = Slovākijas Republikas ģerbonis
+|             ģerboņa_platums = 72px
+|                 valsts_moto = 
+|                valsts_himna = ''[[Nad Tatrou sa blýska]]''<small><br />"Zibens virs Tatriem"</small>
+|               kartes_attēls = Slovākijas atrašanās vieta Eiropā.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Bratislava]]
+|latd=48 |latm=09 |latNS=N |longd=17 |longm=07 |longEW=E
+|             lielākā_pilsēta = [[Bratislava]]
+|              valsts_valodas = [[slovāku valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Parlamentāra republika]]
+|        valsts_galvas_tituls = [[Slovākijas prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Zuzana Čaputova]]
+|       valsts_galvas_tituls2 = [[Slovākijas premjerministrs|Premjerministrs]]
+|               valsts_galva2 = [[Roberts Fico]]
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = miermīlīga atdalīšanās no [[Čehijas un Slovākijas Federatīvā Republika|Čehoslovākijas]]
+|                    dibināta = 
+|        neatkarības_notikums = Datums
+|          neatkarības_datums = {{dat|1993|1|1}}<sup>1</sup>
+|          iestāšanāsESdatums = {{dat|2004|5|1}}
+|                 platība_km2 = 49,035
+|               platība_rangs = 130.
+|              procenti_ūdens = nenozīmīga
+|     iedzīvotāju_skaita_gads = 2013
+|          iedzīvotāju_skaits = 5 415 949
+|    iedzīvotāju_skaits_rangs = 116.
+|    apdzīvotības_blīvums_km2 = 111
+|  apdzīvotības_blīvums_rangs = 88.
+|                     IKP_PPP = $109,677 miljardi
+|                IKP_PPP_gads = 2007
+|               IKP_PPP_rangs = 59.
+|          IKP_PPP_per_capita = $20 267
+|    IKP_PPP_per_capita_rangs = 41.
+|                         HDI = {{palielinājās}} 0,860
+|                    HDI_gads = 2019.
+|              HDI_kategorija = <font color=#009900>augsts</font>
+|                   HDI_rangs = 39.
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Eiro]]<sup>2</sup>
+|                valūtas_kods = €
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[Centrāleiropas vasaras laiks|CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.sk]]<sup>3</sup>
+|              tālsarunu_kods = 421<sup>4</sup>
+|                    piezīme1 = [[Čehijas un Slovākijas Federatīvā Republika|Čehoslovākija]] sadalījās Slovākijā un Čehijas Republikā ([[Čehoslovākijas sadalīšanās|Samtainā šķiršanās]]).
+|                    piezīme2 = 2009. gada 1. janvārī Slovākija pāries uz [[Eiro]] pēc kursa €1 = 30,1260SKK.
+|                    piezīme3 = Arī [[.eu]], kopā ar citām [[Eiropas Savienība]]s dalībvalstīm.
+|                    piezīme4 = Līdz 1997. gadam kopā ar Čehijas Republiku lietoja kodu 42.
+|                iso_kods_num = 703
+|              iso_kods_alfa2 = SK
+|              iso_kods_alfa3 = SVK
+}}
+'''Slovākija''' ({{val|sk|Slovensko}}), oficiāli '''Slovākijas Republika''' (''Slovenská republika'') ir valsts [[Centrāleiropa|Centrāleiropā]]. Robežojas ar [[Čehija|Čehiju]]  ziemeļrietumos, ar [[Austrija|Austriju]] rietumos, ar [[Polija|Poliju]] ziemeļos, ar [[Ukraina|Ukrainu]] austrumos, bet ar [[Ungārija|Ungāriju]] dienvidos. Slovākijas platība ir 49 035 [[km²]] un to ietekmē [[mērenā josla|mērenā]] un kontinentālā klimata josla. Valstij ir raksturīgs kalnains reljefs un tās lielāko daļu aizņem [[Tatri|Tatru]] kalni. Slovākija ar 5,415 miljoniem iedzīvotāju ir [[Eiropas Savienības dalībvalstu uzskaitījums pēc iedzīvotāju skaita|deviņpadsmitā lielākā]] Eiropas Savienības dalībvalsts pēc iedzīvotāju skaita.
+
+Slovākija ir [[parlamentāra republika]], kas sastāv no astoņiem apgabaliem. Oficiālā valsts valoda ir [[slovāku valoda]]. Galvaspilsēta un lielākā pilsēta ir [[Bratislava]]. Slovākija ir [[ANO]], [[Eiropas Savienība|ES]], [[NATO]], [[ESAO]] un [[Pasaules Tirdzniecības organizācija|PTO]] pilntiesīga locekle.
+
+== Vēsture ==
+{{main|Slovākijas vēsture}}
+[[Donava]]s labā krasta teritorija līdz 5. gadsimtam ietilpa [[Senā Roma|Senās Romas impērijas]] sastāvā, pēc impērijas sabrukuma tagadējās Slovākijas teritorijā uz dzīvi apmetās [[slāvi|slāvu]] ciltis, kas 7. gadsimtā nodibināja [[Samo]] valsti. Vēlāk tā atradās [[avāri|avāru]] (8. gadsimtā), [[Lielmorāvija]]s valsts (9. gadsimtā) un [[Ungārijas Karaliste|Ungārijas]] (11.—16. gadsimtā), vēlāk [[Hābsburgu monarhija]]s pakļautībā. 
+Pēc [[Pirmais pasaules karš|Pirmā pasaules kara]] beigām Slovākija kopā ar Čehiju apvienojās un izveidoja [[Čehoslovākija|Čehoslovākiju]]. Otrā pasaules kara laikā pastāvēja no [[Trešais reihs|Trešā reiha]] atkarīga [[Slovākijas Pirmā republika|Slovākijas valsts]]. Vēlāk Slovākijas teritorija nonāca komunistu rokās un kļuva par [[Čehoslovākijas Sociālistiskā Republika|Čehoslovākijas Sociālistiskās Republikas]] daļu. 
+1993. gadā, sadaloties Čehoslovākijai, tika pasludināta neatkarīga Slovākijas Republika. 2004. gadā Slovākija iestājās [[Eiropas Savienība|ES]] un [[NATO]]. Slovākija ir daļa no [[Šengenas zona]]s un 2009. gada 1. janvārī par Slovākijas oficiālo valūtu kļuva [[eiro]].
+
+== Ģeogrāfija ==
+[[Attēls:Slovakia topo.jpg|thumb|left|Slovākijas topogrāfiskā karte]]
+Slovākijas ainavai raksturīgs kalnains reljefs. Valsts lielāko daļu aizņem [[Tatri|Tatru]] kalni, kas pieder pie [[Karpati|Karpatu]] kalnu grēdas. Valsts ziemeļos pie [[Polija]]s robežas atrodas Augstie Tatri, kas ir iecienīts slēpošanas reģions ar gleznainu dabu — dziļām ielejām un ezeriem. Te atrodas arī valsts augstākā virsotne [[Gerlaha smaile]] (2655 metri virs jūras līmeņa) un Slovākijas nacionālais simbols — Krivāņa kalns ''(Kriváň)''.
+
+Galvenās upes Slovākijā ir [[Donava]] (robežupe ar [[Ungārija|Ungāriju]]), [[Vāha]] un [[Hrona]].
+
+Slovākija atrodas starp mēreno un kontinentālo [[klimats|klimata]] joslu. [[Vasara]]s ir mēreni siltas, bet [[ziema]]s aukstas, mākoņainas un nokrišņiem bagātas. Slovākiju pēc laikapstākļiem var iedalīt trīs daļās: zemiene, pārejas reģions un kalniene.
+
+Valsts platība ir 48 845 km². 31% teritorijas aizņem aramzemes, 17% ganības, 41% mežu, 3% kultivēto zemju. Pārējie 8% aizņem pilsētas, infrastruktūra, kalni un cita neizmantojama zeme.
+
+Slovākija ir iekšzemes valsts, tai nav jūras izejas, bet ir sauszemes robežas ar piecām valstīm. Slovākijas robeža ar [[Polija|Poliju]] ziemeļos ir 547 km gara, robeža ar [[Ukraina|Ukrainu]] austrumos 98 km, ar [[Ungārija|Ungāriju]] dienvidos 669 km, robeža ar [[Austrija|Austriju]] dienvidrietumos — 106 km un [[Čehija|Čehiju]] ziemeļrietumos — 252 km. Valsts robežu kopgarums ir 1672 km.
+
+== Demogrāfija ==
+
+Slovākijas Republikā dzīvo 5,4 miljoni iedzīvotāju. 51,3% ir sieviešu. Vidējais sieviešu dzīves ilgums — 77 gadi, vīriešu — 68 gadi. Slovākijā reģistrētas 2 865 apdzīvotas vietas, no tām 136 pilsētas. Vidēji vienā apdzīvotajā vietā dzīvo 1 874 iedzīvotāju, vidējais iedzīvotāju blīvums ir 111/km². Pēc iedzīvotāju skaita Slovākija atrodas apmēram divdesmitajā vietā [[Eiropa|Eiropā]].
+
+Iedzīvotāju vairākums ir [[slovāki]] (85,7%). Lielākā mazākumtautība ir [[ungāri]] (10,6%), tālāk seko [[čigāni]] (1,5%), [[čehi]] (1%) un [[rusīni]] jeb [[ukraiņi]] (1%). Ir arī citu tautību iedzīvotāji — [[krievi]], [[vācieši]], [[ebreji]], [[poļi]]. Vairākums etnisko grupu pārstāvju dzīvo kopienās, atšķirti no citām tautībām, taču mūsdienās šīs robežas izzūd.
+
+== Administratīvais iedalījums ==
+
+Slovākija iedalās 8 apgabalos (''kraj'') — [[Banskas Bistricas apgabals|Banskas Bistricas]], [[Bratislavas apgabals|Bratislavas]], [[Košices apgabals|Košices]], [[Nitras apgabals|Nitras]], [[Prešovas apgabals|Prešovas]], [[Trenčīnas apgabals|Trenčīnas]], [[Trnavas apgabals|Trnavas]] un [[Žilinas apgabals|Žilinas apgabalā]]. Apgabali savukārt iedalās apriņkos (''okres'', pašlaik Slovākijā ir 79 apriņķi). Apriņķi iedalās pagastos (''obec'').
+
+Lielākās pilsētas:
+
+* [[Bratislava]] (423 737 iedzīvotāju),
+* [[Košice]] (236 563 iedzīvotāju),
+* [[Prešova]] (94 718 iedzīvotāju),
+* [[Nitra]] (86 329 iedzīvotāju),
+* [[Žilina]] (85 985 iedzīvotāju).
+
+== Skatīt arī ==
+
+* [[Slovākijas pilsētu uzskaitījums]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20080914061636/http://www.slovakia.sk/ Slovākija]
+
+{{Eiropa-aizmetnis}}
+
+{{Slovākija-aizmetnis}}
+
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Slovākija| ]]

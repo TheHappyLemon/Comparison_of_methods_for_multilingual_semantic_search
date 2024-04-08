@@ -1,0 +1,140 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Preiļi
+ | settlement_type          = Novada pilsēta
+ | image_skyline            = Tirgus laukums Preiļos.jpg
+ | imagesize                = 
+ | image_caption            = Tirgus laukums Preiļos
+ | image_flag               = 
+ | flag_link                = 
+ | image_shield             = Coat of Arms of Preiļi.svg
+ | shield_link              = Preiļu ģerbonis
+ | shield_size              = 70px
+ | pushpin_map              = Latvija
+ | pushpin_label_position   = left
+| latd =56 | latm =18 | lats = | latNS =N
+| longd =26 | longm =43 | longs = | longEW =E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Latvija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Preiļu novads]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pilsētas tiesības
+ | established_date         = kopš 1928. gada
+ | established_title2       = 
+ | established_date2        = 
+ | seat_type                = Vēsturiskie<br />nosaukumi
+ | seat                     = {{val|de|Prely}}<br />{{val|pl|Prele}}<br />{{val|ltg|Preili}}
+ | area_total_km2           = 5.1
+ | population_footnotes     = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+ | population_total         = {{iedzsk|dati|Preiļi}}
+ | population_as_of         = {{iedzsk|dat}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = LV-5301
+ | area_code                = 
+ | website                  = {{URL|www.preili.lv}}
+ | footnotes                = 
+}}
+'''Preiļi''' ({{val|ltg|Preili}})<ref>{{Tīmekļa atsauce |url=https://vvc.gov.lv/advantagecms/export/docs/komisijas/pilsatys_2019.pdf |title=Latvīšu volūdys ekspertu komisejis Latgalīšu rokstu volūdys apakškomisejis svareiguokī lāmumi 2019. godā |publisher=[[Valsts valodas centrs]] |access-date=2020. gada 3. janvārī |archive-date=2020. gada 25. Novembris |archive-url=https://web.archive.org/web/20201125114948/https://vvc.gov.lv/advantagecms/export/docs/komisijas/pilsatys_2019.pdf }}</ref> ir pilsēta (1928) [[Latvija]]s austrumos, [[Preiļu novads|Preiļu novada]] centrs.
+
+== Ģeogrāfija ==
+Preiļi atrodas [[Latgale]]s centrālajā daļā, aptuveni 200 km uz austrumiem no [[Rīga]]s, svarīgu ceļu ([[Līvāni|Līvānu]]-[[Krāslava]]s, [[Viļāni|Viļānu]]-[[Daugavpils]]) krustpunktā. Tā arī ir nozīmīga pieturvieta svētceļojuma laikā uz [[Aglona|Aglonu]], kas tradicionāli notiek augusta sākumā. Preiļiem ir raksturīgs Latgales (iekšzemes) klimats ar augstām temperatūrām vasarā, bet zemākām&nbsp;— ziemā.
+
+== Vēsture ==
+[[Attēls:Preiļu pilsētas tiesību akmens.JPG|thumb|Par godu pilsētas tiesību iegūšanai 1928. gadā uzstādītais akmens]]
+Uzskata, ka Preiļu novads jeb "Preiļu zeme" bija viena no senās latgaļu [[Jersikas valsts]] administratīvi teritoriālajām vienībām un karaļa [[Visvaldis|Visvalža]] pēcnācēju pēdējais mantojums.<ref>{{Tīmekļa atsauce |url=http://www.preili.lv/page.php?id=612# |title=Preiļu novads > Vēsture<!-- Bot generated title --> |access-date={{dat|2008|05|05||bez}} |archiveurl=https://web.archive.org/web/20080517051732/http://www.preili.lv/page.php?id=612# |archivedate={{dat|2008|05|17||bez}} }}</ref> Avotos Preiļi pirmoreiz tiek minēti ap 1250. gadu, taču pastāv uzskats, ka senie Preiļi ir sākuši veidoties daudz agrāk ap Anspaku un Pliudu pilskalniem, kas tikuši apdzīvoti jau 10. gadsimtā.
+
+Preiļi attīstījās kā tirgotāju un amatnieku brīvciems netālu no [[Preiļu muiža]]s (''Prele'') centra. Miesta tiesības Preiļiem piešķirtas 1852. gadā, kad tajā bijušas 85 sētas, katoļu dievnams un krogs. Preiļos tika rīkoti vērienīgi gadatirgi, kas ilguši pat vairākas dienas. Ap 1897. gadu Preiļu iedzīvotāju skaits sasniedza 2104, bet 1935. gadā [[Pirmais pasaules karš|Pirmā pasaules kara]] un [[Cilvēku migrācija|migrācija]]s dēļ tas bija samazinājies līdz 1662, tolaik 50% pilsētas iedzīvotāju bija [[ebreji]].
+
+[[Attēls:Preiļi - Raiņa bulvāris - 2006.JPG|thumbnail|right|Raiņa bulvāris 2006. gadā]]
+1926. gadā Preiļiem piešķīra [[biezi apdzīvota vieta|biezi apdzīvotas vietas]] statusu, bet 1928. gadā&nbsp;— [[pilsēta]]s tiesības. Pēc [[Otrais pasaules karš|Otrā pasaules kara]] iedzīvotāju skaits bija zem 1000 iedzīvotājiem, taču salīdzinoši īsā laikā iedzīvotāju skaits sāka strauji palielināties, ko veicināja strādnieku ieceļošana no [[Padomju Savienība]]s. 1989. gadā iedzīvotāju skaits sasniedza 9421, taču līdz ar neatkarības atgūšanu samazinājās rūpniecības apjomi un arī cilvēku skaits.
+
+== Populārākie tūrisma objekti ==
+
+* [[Leļļu muzejs Preiļos|Miniatūrā karaļvalsts]] un leļļu galerija,<ref>{{Tīmekļa atsauce|url=https://www.latvia.travel/lv/apskates-vieta/miniatura-karalvalsts-un-lellu-galerija|title=Miniatūrā karaļvalsts un leļļu galerija {{!}} Latvia Travel|website=www.latvia.travel|access-date=2021-09-20}}</ref>
+* Nester Custom moto mākslas galerija,
+* P. Černavska keramikas māja,
+* Vīngliemežu audzētava "Ošu Mājas",
+* Preiļu Vēstures un lietišķās mākslas muzejs,
+* [[Preiļu Jaunavas Marijas debesīs uzņemšanas Romas katoļu baznīca|Preiļu Romas katoļu baznīca]],
+* Preiļu parks un [[Preiļu muiža|Borhu muižas komplekss]],
+* Preiļu kultūras pils (1959, arhitekts [[Andrejs Aivars]]<ref>{{Tīmekļa atsauce|url=https://www.kurzemesregions.lv/wp-content/uploads/2020/06/Brownfields.Seminar4.presentation.Zvirgzdins.final_.pdf|title=Desperately trying to capture the vanishing past:
+Soviet architecture heritage in Latvia|last=Zvirgzdiņš|first=Artis|access-date=2021-09-20|date=2020-01-22}}</ref>).
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1897|2104
+|1914|2400
+|1935|1662
+|1943|950
+|1959|3071
+|1970|4953
+|1979|6976
+|1989|9539
+|2000|8749
+|2011|7273
+|2021|6131
+}}
+
+== Ievērojamas personības ==
+{{Skatīt arī|Kategorija:Preiļos dzimušie}}
+* [[Anatolijs Danilāns]] (1943), ārsts, [[RSU]] profesors;
+* [[Jānis Eglītis]] (1961—2013), pedagogs, politiķis un ekonomists;
+* [[Oļegs Hļebņikovs]] (1953), izglītības darbinieks un politiķis;
+* [[Einārs Pelšs]] (1960), dzejnieks;
+* [[Artis Plivda]] (1985), spēkavīrs;
+* [[Sarmīte Rubule]] (1980), aktrise;
+* [[Mārīte Seile]] (1966), politiķe, izglītības ministre;
+* [[Dainis Skutelis]] (1986), tenors;
+* [[Jānis Streičs]] (1936), režisors;
+* [[Aleksandrs Viļumanis (diriģents)|Aleksandrs Viļumanis]] (1942), diriģents;
+* [[Pēteris Zeile]] (1928—2020), filozofs.
+
+== Lielākie uzņēmumi ==
+Lielākie uzņēmumi Preiļos ir:
+* akciju sabiedrība Preiļu siers (piena pārstrāde),
+* SIA VS Teks (trikotāžas izstrādājumu ražošana),
+* SIA Firma Jata (darba specapģērbu ražošana),
+* pašvaldības uzņēmums Preiļu saimnieks (komunālie pakalpojumi),
+* SIA Zolva (pārtikas mazumtirdzniecība),
+* SIA ATVARS&nbsp;— P (kravu pārvadājumi),
+* SIA PRIMO food (mazumtirdzniecība nespecializētajos veikalos),
+* SIA VEGA P (degvielas mazumtirdzniecība),
+* SIA Manana (gaļas pārstrāde, pārtika),
+* SIA TU LAUKI (pārtikas mazumtirdzniecība).
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20080925201107/http://www.preilirp.lv/2vestl.htm Preiļu rajona vēsture]
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Preiļu novads}}
+{{Latvijas pilsētas}}
+{{Novadu centri}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Preiļu rajons}}
+{{Daugavpils apriņķis}}
+{{Daugavpils apriņķis}}
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Preiļi| ]]
+[[Kategorija:Latgale]]

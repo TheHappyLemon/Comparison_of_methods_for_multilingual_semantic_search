@@ -1,0 +1,6 @@
+<div style="float:left;border:solid #77E0E8 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#D0F8FF"><tr>
+<td style="width:45px;height:45px;background:#77E0E8;text-align:center;font-size:14pt">'''[[īru valoda|ga]]-2'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Tá leibhéal '''[[:Category:User ga-2|meánach]]''' na '''[[:Category:User ga|Gaeilge]]''' ag an úsáideoir seo.</td>
+</tr></table></div>
+[[Category:User ga|{{PAGENAME}}]][[Category:User ga-2|{{PAGENAME}}]]

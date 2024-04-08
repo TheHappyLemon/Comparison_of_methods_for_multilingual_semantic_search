@@ -1,0 +1,60 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Kastamonu ils
+| official_name = ''Kastamonu ili''
+| image_skyline =
+| imagesize = 300px
+| image_caption = 
+| settlement_type = [[Turcijas ili|ils]]
+| total_type = Kopā
+| image_flag = 
+| image_shield = 
+| image_map = Kastamonu in Turkey.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{TUR}}
+| area_total_km2 = 13108
+| population_total = 361222
+| population_as_of = 2010
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =41 | latm =31 | lats =10 | latNS = N
+| longd =33 | longm =41 | longs =23 | longEW = E
+| seat_type = Centrs
+| seat = [[Kastamonu]]
+| parts_type = Administratīvais iedalījums
+| parts = 20 ilčes
+| p1 = [[Abana]]
+| p2 = [[Agli]]
+| p3 = [[Arača]]
+| p4 = [[Azdavaja]]
+| p5 = [[Bozkurta]]
+| p6 = [[Čatalzejtina]]
+| p7 = [[Džide]]
+| p8 = [[Dadaja]]
+| p9 = [[Devrekani]]
+| p10 = [[Doganjurta]]
+| p11 = [[Haneni]]
+| p12 = [[Ihsangazi]]
+| p13 = [[Inebolu]]
+| p14 = [[Kastamonu ilče|Kastamonu]]
+| p15 = [[Kire]]
+| p16 = [[Pinarbaši]]
+| p17 = [[Šenpazara]]
+| p18 = [[Sejdilera]]
+| p19 = [[Taškepri]]
+| p20 = [[Tosja]]
+| population_blank02_title = 
+| population_blank02 = 
+| website = {{url|http://www.kastamonu.gov.tr/}}
+}}
+
+'''Kastamonu ils''' ir [[Turcija]]s pirmās pakāpes administratīvā iedalījuma vienība. Izvietojusies valsts ziemeļos [[Melnā jūra|Melnās jūras]] krastā, robežojas ar [[Sinopas ils|Sinopas]], [[Bartinas ils|Bartinas]], [[Karabikas ils|Karabikas]], [[Čankiri ils|Čankiri]] un [[Čorumas ils|Čorumas]] iliem. Pārsvarā kalnains reljefs, mērens piejūras klimats. Lielākā daļa iedzīvotāju nodarbināti lauksaimniecībā.
+
+
+{{Turcija-aizmetnis}}
+
+{{Turcijas provinces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kastamonu ils| ]]

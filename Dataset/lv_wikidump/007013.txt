@@ -1,0 +1,39 @@
+{{Cita nozīme|navigācijas instrumentu|zvaigznāju|Kompass (zvaigznājs)}}
+[[Attēls:Kompas Sofia.JPG|thumbnail|235px|Magnētiskais kompass]]
+'''Kompass''' (no {{val|de|Kompaß}}, kas savukārt no {{val|it|compasso}} — 'cirkulis' un ''compassare'' — 'mērīt soļiem') ir [[navigācija]]s instruments Zemes [[debespuse|debespušu]] noteikšanai. Tas norāda ģeogrāfisko vai magnētisko [[meridiāns|meridiānu]]. Visplašāk pazīstams ir magnētiskais kompass. Kompasa galvenās sastāvdaļas ir kompasa kārbiņa, [[kompasa roze]] (disks ar skalu no 0° līdz 360°) un [[magnētisms|magnetizēta]] šautra, kas, brīvi griežoties, [[Zemes magnētiskais lauks|Zemes magnētiskā lauka]] ietekmē nostājas ziemeļu-dienvidu virzienā. Ir arī nemagnētiskie kompasi, kā [[žirokompass|žirokompasi]] un [[radiokompass|radiokompasi]].
+
+== Kompasa roze ==
+[[Attēls:Kompassrose.svg|thumbnail|Kompasa roze]]
+Lai viegli noteiktu [[debespuse]]s ar kompasu, tajā ir iebūvēta [[kompasa roze]], saukta arī par vējrozi, kas ir disks ar skalu no 0° līdz 360°, kā arī ar atzīmētiem debespušu saīsinājumiem. Uz [[ziemeļi]]em (N vai Z) ir vērsti 0°, uz [[austrumi]]em (E, O vai A) — 90°, uz [[dienvidi]]em (S vai D) — 180°, bet uz [[rietumi]]em (W vai R) ir 270°. Starp šīm četrām pamata debespusēm nereti vēl tiek atzīmēti [[ziemeļaustrumi]] (NE, NO vai ZA; 45°), [[dienvidaustrumi]] (SE, SO vai DA; 135°), [[dienvidrietumi]] (SW vai DR; 225°) un [[ziemeļrietumi]] (NW vai ZR; 315°). Var arī vēl sīkāk iedalīt, piemēram, ziemeļrietumrietumi (NWW vai ZRR), dienvidaustrumdienvidi (SES, SOS vai DAD) un tā tālāk.
+
+== Kompasu iedalījums ==
+Pēc darbības principa kompasus iedala:
+* magnētiskie kompasi jeb busoles,
+* [[žirokompass|žirokompasi]] — izmanto ātri rotējoša [[žiroskops|žiroskopa]] rotora īpašību nemainīt ass virzienu,
+* astronomiskie kompasi — tā peilers visu laiku vērsts pret kādu [[astronomisks objekts|astronomisku objektu]],
+* radiokompasi — fiksē virzienu uz [[radiobāka|radiobāku]]
+* elektroniskie kompasi — izmanto magnētiskos sensorus un [[mikroprocesors|mikroprocesoru]] magnētiskā meridiāna noteikšanai.
+* lāzerkompasi — pa apli gar spoguļiem skrien gaismas stars, kura pienākšanas laiks detektorā nosaka kompasa pagrieziena leņķi pamatojoties uz gaismas ātruma nemainīgumu un relativitātes teoriju
+* GPS kompasi — viena no otras atstatus vairākas uztvērējantenas nosaka savstarpējo stāvokli pēc pozīciju atšķirības
+
+== Vēsture ==
+Kompasa pirmsākumi meklējami [[Ķīna|Ķīnā]], kur to izmantoja jau pirms 2 tūkstošiem gadu. [[Eiropa|Eiropā]] magnētiskais kompass parādījās ap 1300. gadu. Pirms magnētiskā kompasa jau [[vikingi]] izmantoja saules akmeni, saules virziena noteikšanai arī mākoņainā laikā.
+
+1933. gadā somu izgudrotājs un sportists Tomass Vohlonens (''Tuomas Vohlonen'') iesniedza patenta pieteikumu par ar šķidrumu pildītu magnētisko kompasu. Šķidrums zināmā mērā bremzēja magnētisko adatu, un tā miera stāvoklī nostājās daudz ātrāk nekā tradicionālajos kompasos. Šķidruma kompasi eksistēja jau agrāk, bet Vohlonens izveidoja kapsulu no elastīga materiāla, kas novērsa burbuļu rašanos, neatkarīgi no temperatūras un atmosfēras spiediena.<ref name="Suunto">[http://www.compassmuseum.com/wrist/wrist_4.htm ''SUUNTO'' kompass] {{Webarchive|url=https://web.archive.org/web/20120426194152/http://www.compassmuseum.com/wrist/wrist_4.htm |date={{dat|2012|04|26||bez}} }} COMPASSIPEDIA. The Online Compass Museum</ref>
+
+[[Jūrniecība|Jūrniecībā]], [[ģeodēzija|ģeodēzijā]], [[artilērija|artilērijā]] kompasu bieži sauc par busoli (no {{val|it|bussola}}).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Navigācijas instrumenti]]
+[[Kategorija:Orientēšanās sports]]
+[[Kategorija:Ķīniešu izgudrojumi]]

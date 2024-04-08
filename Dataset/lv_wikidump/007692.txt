@@ -1,0 +1,24 @@
+{{ezera infokaste
+|ezers=Sartu ezers
+|attēls=Sartai 1.jpg
+|map = Lietuva
+| plat_d=55 | plat_m=48 | plat_s=51 | plat_NS=N
+| gar_d=25 | gar_m=49 | gar_s=10 | gar_EW=E
+|vieta={{LTU}}
+|platība=13,32
+|garums=14,8
+|Vid_dziļums=5,7
+|Max_dziļums=20,9
+|tilpums=
+|augstums_vjl=
+|izteka=[[Šventoja]]
+|baseins=1362
+|valstis=[[Latvija]], [[Lietuva]]
+|salas=6
+|pilsētas=[[Duseta]]
+}}
+'''Sartu ezers''' ({{val|lt|Sartai}}) ir [[ezers]] [[Lietuva]]s ziemeļaustrumos, [[Utenas apriņķis|Utenas]] un [[Panevēžas apriņķis|Panevēžas]] apriņķos. Ezera krasta līnija izrobota, krasta līnijas garums ir {{nobr|79 km}} — lielākais Lietuvā. Ceturtais lielākais ezers Lietuvā. 6 salas ar kopējo platību {{nobr|13,2 ha}}. Radies [[ledājs|ledāja]] darbības rezultātā. Ezera krastā zirgu sporta bāze.
+
+{{Lietuva-aizmetnis}}
+
+[[Kategorija:Lietuvas ezeri]]

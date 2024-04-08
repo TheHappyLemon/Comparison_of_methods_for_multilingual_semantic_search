@@ -1,0 +1,98 @@
+{{Tenisista infokaste
+ |                       playername = Mahešs Bupati
+ |                       vārds_orig = Mahesh Bhupathi
+ |                           attēls = File:Mahesh Bhupathi US Open 2009-2010-01-02.jpg
+ |                          att_izm = 
+ |                          caption = Mahešs Bupati 2009. gadā
+<!--------- Personas dati ----------->
+ |                         nickname = 
+ |                          country = {{flag|Indija}}
+ |                        residence = 
+ |                        datebirth = {{dzimšanas datums un vecums|1974|6|7}}
+ |                       placebirth = {{Vieta|Indija|Čennai}}
+ |                        datedeath = 
+ |                       placedeath = 
+ |                           height = {{mērvienība|cm=185}}
+ |                           weight = {{mērvienība|kg=88}}
+ |                        turnedpro = 1995
+ |                          retired = 2016
+ |                            plays = 
+ |                 careerprizemoney = 6 665 907 [[ASV dolārs|USD]]
+<!------------ Vienspēles ----------->
+ |                    singlesrecord = 10-28
+ |                    singlestitles = 0
+ |            highestsinglesranking = 217. ({{dat|1998|2|2|SK|bez}})
+ |             AustralianOpenresult = Q2 (1998)
+ |                 FrenchOpenresult = Q3 (1996, 1999)
+ |                  Wimbledonresult = 1R (1997, 1998, 2000)
+ |                     USOpenresult = 1R (1995)
+ |                 MastersCupresult = 
+ |           WTAChampionshipsresult = 
+ |                   Olympicsresult = 
+<!--------- Dubultspēles ------------>
+ |                    doublesrecord = 687-364
+ |                    doublestitles = 52
+ |            highestdoublesranking = '''1.''' ({{dat|1999|4|23|SK|bez}})
+ |      AustralianOpenDoublesresult = F (1999, 2009, 2011)
+ |          FrenchOpenDoublesresult = '''W''' (1999, 2001)
+ |           WimbledonDoublesresult = '''W''' (1999)
+ |              USOpenDoublesresult = '''W''' (2002)
+ |          MastersCupDoublesresult = 
+ |    WTAChampionshipsDoublesresult = 
+ |            OlympicsDoublesresult = 
+<!--------- Jauktās dubultspēles ------------>
+ |                      mixedrecord = 115-53
+ |                      mixedtitles = 8
+ |              highestmixedranking = 
+ |        AustralianOpenMixedresult = '''W''' (2006, 2009)
+ |            FrenchOpenMixedresult = '''W''' (1997, 2012)
+ |             WimbledonMixedresult = '''W''' (2002, 2005)
+ |                USOpenMixedresult = '''W''' (1999, 2005)
+ |            MastersCupMixedresult = 
+ |      WTAChampionshipsMixedresult = 
+ |              OlympicsMixedresult = 
+<!--------- Citas sadaļas ----------->
+ |                          updated = {{dat|2017|8|24||bez}}
+ |                            slavz = 
+<!-------------- Medaļas ------------>
+ |                    rādīt_medaļas = 
+ |                      headercolor = 
+ |                   medaltemplates = 
+}}
+'''Mahešs Bupati''' (''Mahesh Bhupathi'', * 1974. gada 7. jūnijā [[Čenaja|Čenajā]]) ir bijušais [[Indija|indiešu]] [[teniss|tenisists]]. Viens no pazīstamākajiem tenisa dubultspēļu meistariem. Ieguvis 12 ''[[Grand Slam (teniss)|Grand Slam]]'' titulus.
+
+== ''Grand Slam'' tituli ==
+
+Vīriešu dubultspēlē:
+
+* 1999. gads - [[Francijas Atklātais čempionāts]] (ar [[Leanders Paess|Leanderu Paesu]], [[Indija]])
+* 1999. gads - [[Vimbldonas čempionāts]] (ar Leanderu Paesu)
+* 2001. gads - [[Francijas Atklātais čempionāts]] (ar Leanderu Paesu)
+* 2002. gads - [[ASV Atklātais čempionāts]] (ar [[Maksims Mirnijs|Maksimu Mirniju]], [[Baltkrievija]])
+
+Jauktajā dubultspēlē:
+
+* 1997. gads - [[Francijas Atklātais čempionāts]] (ar Riku Hiraki, [[Japāna]])
+* 1999. gads - [[ASV Atklātais čempionāts]] (ar [[Aja Sugijama|Aju Sugijamu]], [[Japāna]])
+* 2002. gads - [[Vimbldonas čempionāts]] (ar Jeļenu Ļihovcevu, [[Krievija]])
+* 2005. gads - [[Vimbldonas čempionāts]] (ar [[Mērija Pīrsa|Mēriju Pīrsu]], [[Francija]])
+* 2005. gads - [[ASV Atklātais čempionāts]] (ar [[Daniela Hantuhova|Danielu Hantuhovu]], [[Slovākija]])
+* 2006. gads - [[Austrālijas atklātais čempionāts tenisā]] (ar [[Martina Hingisa|Martinu Hingisu]], [[Šveice]])
+* 2009. gads - [[Austrālijas atklātais čempionāts tenisā]] (ar [[Sanja Mirza|Sanju Mirzu]], [[Indija]])
+* 2012. gads - [[Francijas Atklātais čempionāts]] (ar [[Sanja Mirza|Sanju Mirzu]], [[Indija]])
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{tenisists-aizmetnis}}
+{{Olimpisko spēļu dalībnieks-aizmetnis}}
+
+{{DEFAULTSORT:Bupati, Mahešs}}
+[[Kategorija:1974. gadā dzimušie]]
+[[Kategorija:Tamilnādā dzimušie]]
+[[Kategorija:Indijas tenisisti]]
+[[Kategorija:1996. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2000. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2004. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2012. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2008. gada vasaras olimpisko spēļu dalībnieki]]

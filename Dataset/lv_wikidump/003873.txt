@@ -1,0 +1,117 @@
+{{Elektrodinamika}}
+[[Fizika|Fizikā]] '''magnētiskais lauks''' ir lauks, ko ap sevi rada jebkurš patstāvīgais [[magnēts]], [[elektromagnēts]], kā arī kustībā esošas lādētas daļiņas. To rada arī jebkurš vads, pa kuru plūst [[strāva]]. Magnētiskais lauks ar [[spēks|spēku]] iedarbojas uz citiem magnētiem, kustībā esošiem [[lādiņš|lādiņiem]] un vadiem pa kuriem plūst strāva.
+
+Magnētisko lauku raksturo [[magnētiskā indukcija]] <math>\vec{B}</math>. Magnētiskā lauka ietekmē uz ikvienu [[lādiņš|lādiņu]] darbojas [[spēks]], ko sauc par [[Lorenca spēks|Lorenca spēku]].
+
+== Magnētiskā lauka indukcijas līnijas ==
+[[Attēls:Electromagnetism.svg|200px|thumbnail|Magnētiskais lauks ap strāvas vadu. '''''I''''' – strāvas plūsmas virziens, '''''B''''' – magnētiskā lauka virziens.]]
+
+Magnētisko lauku uzskatāmi attēlo ar magnētiskās indukcijas līnijām, kuru [[pieskare]]s [[vektors|vektori]] ir indukcijas vektori <math>\vec{B}</math>.
+
+[[Elektriskā strāva|Strāvas]] magnētiskā lauka indukcijas līnijas vienmēr ir noslēgtas līnijas. Taisnam strāvas vadam indukcijas līnijas ir koncentriskas [[riņķa līnija]]s, kuras aptver strāvas vadu.
+
+=== Labās vītnes skrūves likums ===
+Pēc labās vītnes skrūves likuma nosaka magnētiskās indukcijas [[vektors|vektora]] <math>\vec{B} \ </math> un indukcijas līniju virzienu. Ja, griežot skrūvi, tā pārvietojas [[elektriskā strāva|strāvas]] plūšanas virzienā, tad indukcijas līnijas ir orientētas skrūves griešanās virzienā.
+
+=== Labās rokas likums ===
+Arī pēc labās rokas likuma var noteikt indukcijas līniju virzienu. Ar labās rokas [[plauksta|plaukstu]] aptver [[vadi|vadu]] tā, lai atliektais [[īkšķis]] būtu orientēts [[elektriskā strāva|strāvas]] plūšanas virzienā, tad četru pārējo [[rokas pirksti|pirkstu]] orientācija norāda indukcijas līniju virzienu.<ref>[https://www.fizmix.lv/fiztemas/elektromagnetisms-11/magnetiskais-lauks FizMix. Magnētiskais lauks]</ref>
+
+=== Magnēts ===
+[[Attēls:Magnet0873.png|thumb|250px|Magnētiskās indukcijas līnijas parādītas ar dzelzs skaidiņu palīdzību]]
+
+Arī ap [[magnēts|magnētu]] pastāv magnētiskais lauks. Magnēta magnētiskā lauka indukcijas līnijas iziet no tā [[ziemeļpols|ziemeļpola]] <math>N \ </math> un saiet [[dienvidpols|dienvidpolā]] <math>S \ </math>, noslēdzoties magnēta iekšienē.
+
+== Magnētiskā lauka indukcija ==
+=== Taisna strāvas vada magnētiskā indukcija ===
+[[Elektriskā strāva|Strāvas]] magnētiskā lauka [[indukcija|indukciju]] aprēķina pēc [[Bio — Savāra — Laplasa likums|Bio — Savāra — Laplasa likuma]].
+
+==== Skalārā forma ====
+Ja [[elektriskā strāva|strāva]] <math>I \,</math> plūst pa bezgalīgi garu, taisnu un tievu vadu, tad strāvas magnētiskais lauks <math>B \ </math> attālumā <math>r \ </math> no vada pēc [[Bio — Savāra — Laplasa likums|Bio — Savāra — Laplasa likuma]] ir
+: <math>B = k_M \frac{I}{r} \ </math>
+::: kur
+:::: <math>k_M \ </math> - koeficients (2×10<sup>-7</sup> [[henrijs|H]]/[[metrs|m]])
+:::: <math>I \ </math> - [[elektriskā strāva|strāvas stiprums]] ([[ampērs|A]])
+
+===== Magnētiskā konstante =====
+[[Attēls:Magnetiskais lauks.JPG|thumb|250px]]
+
+Koeficients <math>k_M \ </math> ir izsakāms šādi:
+: <math>k_M = \frac{\mu_0}{2\pi} \ </math>
+::: kur
+:::: <math>\mu_0 \ </math> - magnētiskā konstante (=1,256637×10<sup>-6</sup> [[henrijs|H]]/[[metrs|m]])
+:::: <math>\pi \ </math> = 3,1415926...
+
+Ievērojot to, taisna strāvas vada magnētiskā lauka indukciju <math>B \ </math> aprēķina pēc formulas
+: <math>B = \mu_0 \frac{I}{2\pi r} \ </math>
+
+==== Vektoriālā forma ====
+: <math>\vec{B} = \mu_0 \frac{I}{2\pi r} \vec{\tau} \ </math>
+::: kur
+:::: <math>\vec{\tau} \ </math> - pieskares vektors.
+
+=== Lorenca spēks ===
+: <math>\vec{B} = \frac{1}{q v_T^2} \vec{F}_L \times \vec{v}_T \ </math>
+::: kur
+:::: <math>q \ </math> - lādiņš, uz kuru darbojas Lorenca spēks ([[kulons|C]]);
+:::: <math>\vec{v}_T \ </math> - magnētiskajai indukcijai perpendikulārā ātruma komponente;
+:::: <math>\vec{F}_L \ </math> - Lorenca spēka vektors ([[ņūtons|N]]);
+
+''Galvenais raksts'': [[Lorenca spēks]]
+
+=== Magnētiskās indukcijas cirkulācija ===
+'''Magnētiskās indukcijas cirkulāciju''' [[fizika|fizikā]] apzīmē ar <math>\oint_l \vec{B} \mathrm{d}\vec{r} \ </math>.
+
+: <math>\oint_l \vec{B} \mathrm{d}\vec{r} = \mu_0 (I + I_D) \ </math>
+::: kur
+:::: <math>\mu_0 \ </math> - [[magnētiskā konstante]] (1,256637×10<sup>-6</sup> [[henrijs|H]]/[[metrs|m]])
+:::: <math>I \ </math> - [[elektriskā strāva|strāvas stiprums]] vadā, ap kuru ir apvilkts kontūrs <math>l \ </math> ([[ampērs|A]])
+:::: <math>I_D \ </math> - [[nobīdes strāva]] ([[ampērs|A]])
+
+Ja [[elektriskais lauks]] laikā nemainās, tad:
+
+: <math>\oint_l \vec{B} \mathrm{d}\vec{r} = \mu_0 I \ </math>.
+
+''Galvenais raksts'': [[Magnētiskās indukcijas cirkulācija]]
+
+=== Magnētiskās indukcijas plūsma ===
+Magnētiskās indukcijas plūsmu [[fizika|fizikā]] apzīmē ar <math>\Phi \ </math>.
+
+Magnētiskās indukcijas plūsma <math>\Phi \ </math> caur jebkuru patvaļīgu, slēgtu, viensakarīgu [[virsma|virsmu]] <math>S \ </math> vienmēr ir vienāda ar [[nulle|nulli]]:
+
+: <math>\Phi = \oint_S \vec{B} \mathrm{d}\vec{S} = 0 \ </math>.
+
+Šis integrālais [[vienādojums]] ir [[Gausa teorēma]]i analoģiska izteiksme magnētiskajam laukam. Tas nozīmē, ka [[magnētiskā lauka indukcija|magnētiskās indukcijas]] līnijas, būdamas noslēgtas, virsmas <math>S \ </math> ierobežotajā [[tilpums|tilpumā]] nesākas un nebeidzas; tās tikai šķērso to.
+
+''Galvenais raksts'': [[Magnētiskās indukcijas plūsma]]
+
+=== Elektromagnētiskās indukcijas likums ===
+Elektromagnētiskās indukcijas likums ir
+
+: <math>\epsilon_i = \frac{\Delta \Phi}{\Delta t} \ </math>
+::: kur
+:::: <math>\epsilon_i \ </math> ir [[Magnētiskā lauka indukcija|indukcijas]] [[elektrodzinējspēks]], kuru rada mainīga magnētiskā plūsma [[volts|V]]
+:::: <math>\Delta \Phi \ </math> ir [[Magnētiskās indukcijas plūsma|magnētiskās plūsmas]] izmaiņa ([[vēbers|Wb]])
+:::: <math>\Delta t \ </math> ir [[laiks]], kurā notiek magnētiskās plūsmas izmaiņa ([[sekunde|s]])
+
+''Vairāk par elektromagnētiskās indukcijas likumu skatīt [[Elektromagnētiskās indukcijas likums|šeit]]''
+
+== Superpozīcijas princips ==
+Magnētiskajam laukam, tāpat kā [[elektriskais lauks|elektriskajam laukam]] <math>\vec{E}</math>, ir spēkā superpozīcijas princips, tas ir, vairāku [[elektriskā strāva|strāvu]] radītais magnētiskais lauks katrā [[telpa]]s punktā ir atsevišķo strāvu magnētisko lauku summa:
+
+: <math>\vec{B} = \vec{B}_1 + \vec{B}_2 + ... + \vec{B}_n</math>.
+
+== Skatīt arī ==
+* [[Ampēra spēks]]
+* [[Magnētiskā levitācija]]
+* [[Zemes magnētiskais lauks]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Magnētiskais lauks|*]]

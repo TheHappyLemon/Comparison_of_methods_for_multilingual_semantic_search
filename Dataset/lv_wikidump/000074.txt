@@ -1,0 +1,71 @@
+{{Citas nozīmes|dāņu zinātnieku|Bors (nozīmju atdalīšana)|Bors|uzvārds}}
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Nilss Bors
+|     vārds_orig = ''Niels Bohr''
+|         attēls = Niels Bohr.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1885
+|     dz_mēnesis = 10
+|       dz_diena = 7
+|       dz_vieta = {{vieta|Dānija|Kopenhāgena}}
+|      m_dat_alt =
+|         m_gads = 1962
+|      m_mēnesis = 11
+|        m_diena = 18
+|        m_vieta = {{vieta|Dānija|Kopenhāgena}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|        dzimums = 
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = Margrēte Nerlunda
+|          bērni = 6
+|       paraksts = Niels Bohr Signature.svg
+|   darba_vietas =
+|     alma_mater = [[Kopenhāgenas Universitāte]]<br />[[Kembridžas Universitāte]]
+|        zinātne = [[fizika]]
+|    pasniedzēji = [[Ernests Rezerfords]]
+|       studenti = [[Verners Heizenbergs]]
+|     sasniegumi = [[Bora atoma uzbūves modelis]]
+|    apbalvojumi = [[Nobela prēmija fizikā]] ([[1922. gads|1922]])
+|       piezīmes = 
+|    kategorijas =  
+}}
+'''Nilss Henriks Dāvids Bors''' ({{val|da|Niels Henrik David Bohr}}; dzimis {{dat|1885|10|07}} [[Kopenhāgena|Kopenhāgenā]], miris {{dat|1962|11|18}} Kopenhāgenā) bija [[ebreji|ebreju]] izcelsmes dāņu [[zinātnieks]], kura atklājumi veicināja [[Bora atoma uzbūves modelis|atoma struktūras]] un [[kvantu mehānika]]s izpratni. 1922. gadā Boram piešķīra [[Nobela prēmija fizikā|Nobela prēmiju fizikā]] par ieguldījumu atomu struktūras un no tiem izstarotās [[radiācija]]s izpētē.<ref>{{tīmekļa atsauce |title=The Nobel Prize in Physics 1922 |publisher=Nobel Foundation |url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1922/}}</ref>
+
+== Dzīvesgājums ==
+Dzimis 1885. gadā Kopenhāgenā fizioloģijas profesora Kristiāna Bora un viņa sievas Ellenas, dzimušas Adleres, ģimenē.
+1911. gadā Bors ieguva doktora grādu [[Kopenhāgenas Universitāte|Kopenhāgenas Universitātē]]. Pēc tam viņš studēja pie [[Ernests Rezerfords|Ernesta Rezerforda]] [[Mančestra|Mančestrā]], [[Anglija|Anglijā]]. Balstoties uz Rezerforda teorijām, Bors 1913. gadā publicēja savu [[Bora atoma struktūras modelis|atoma struktūras modeli]], kas paredzēja, ka [[elektrons|elektroni]] ap [[atoma kodols|atoma kodolu]] pārvietojas [[orbīta|orbītās]] un elementa ķīmiskās īpašības lielā mērā nosaka elektronu skaits ārējā orbītā. Tāpat Bors postulēja, ka elektrons varētu no augstākas enerģijas orbītas pārvietoties uz zemāku, atbrīvojot [[diskrētā enerģija|diskrētās enerģijas]] [[fotons|fotonu]]. Tas kļuva par [[kvantu teorija]]s pamatu.
+
+1916. gadā Bors kļuva par Kopenhāgenas Universitātes profesoru, bet 1920. — jaunizveidotā [[Teorētiskās fizikas institūts|Teorētiskās fizikas institūta]] direktoru. Bors deva nozīmīgu ieguldījumu [[kvantu mehānika]]s [[Kopenhāgenas interpretācija]]s izveidē. Visslavenākais Bora students bija [[Verners Heizenbergs]].
+
+1941. gadā, kad [[Dānija|Dāniju]] okupēja vācu spēki, Kopenhāgenā Boru apmeklēja [[Verners Heizenbergs|Heizenbergs]], kas viņam pavēstīja par Vācijas [[atombumba]]s izveides programmu. Vēlāk Bors devās uz [[Amerikas Savienotās Valstis|Ameriku]], kur piedalījās [[Manhetenas projekts|Manhetenas projekta]] īstenošanā. Zinātnieks [[Ričards Fainmens]] ziņo, ka šajā laikā viņš drošības apsvērumu dēļ bijis zināms kā Nikolass Beikers. Tomēr Bora ieguldījums projektā nebija liels. Pēc kara viņš atgriezās Kopenhāgenā, kur uzstājās par [[kodolenerģija]]s izmantošanu mierīgos nolūkos.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.nobelprize.org/nobel_prizes/physics/laureates/1922/bohr-bio.html Nilsa Bora biogrāfija Nobela prēmijas mājaslapā] {{en ikona}}
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Alberts Einšteins]]| virsraksts = [[Nobela prēmijas laureāti fizikā|Nobela prēmija fizikā]] | periods = [[1922. gads|1922]] | pēc = [[Roberts Milikens]]}}
+{{kastes beigas}}
+{{Nobela prēmijas laureāti fizikā}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Bors, Nilss}}
+[[Kategorija:Dāņu fiziķi]]
+[[Kategorija:Kvantu fiziķi]]
+[[Kategorija:Nobela prēmijas laureāti fizikā]]
+[[Kategorija:Manhetenas projekts]]
+[[Kategorija:Cilvēki no Kopenhāgenas]]
+[[Kategorija:Kopenhāgenā dzimušie]]
+[[Kategorija:Futbola vārtsargi]]

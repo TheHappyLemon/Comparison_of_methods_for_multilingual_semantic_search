@@ -1,0 +1,23 @@
+[[Attēls:GOES-O launch.jpg|thumb|Pavadoņa ''[[GOES 14]]'' palaišana ar ''[[Delta IV Medium+(4,2)]]'' 2009. gadā]]
+'''''National Security Space Launch''''' ('''''NSSL'''''; agrākais nosaukums '''''Evolved Expendable Launch Vehicle''''' (no {{val|en| }} "attīstītā vienreiz izmantojamā nesējraķete") jeb '''''EELV''''') ir [[Amerikas Savienotās Valstis|ASV]] [[ASV Gaisa spēku|Gaisa spēku]] [[nesējraķete|nesējraķešu]] programma. Tā nodrošina [[ASV Aizsardzības departaments|ASV Aizsardzības departamenta]] un ASV valdības [[derīgā krava|kravu]] nogādāšanu kosmosā.
+
+Programmā ietilpst trīs nesējraķešu grupas dažādās modifikācijās:
+* ''[[Atlas V]]''
+* ''[[Delta IV]]''
+* ''[[Falcon 9]]''
+
+== Vēsture ==
+Sākotnēji (1990. gadu vidū) ''Evolved Expendable Launch Vehicle'' (no {{val|en| }} "attīstītā vienreiz izmantojamā nesējraķete") jeb ''EELV'' programma tika plānota, lai samazinātu [[ASV Aizsardzības departaments|ASV Aizsardzības departamenta]] starta izmaksas par 25 — 50 procentiem. Bija paredzēts visus militāros startus nodot vienam operatoram, kas izmantotu no tipveida elementiem sastāvošu raķešu saimi, nomainot tobrīd eksistējošās ''[[Atlas (nesējraķešu saime)|Atlas]]'', ''[[Delta (nesējraķešu saime)|Delta]]'' un ''[[Titan (nesējraķešu saime)|Titan]]'' nesējraķešu modifikācijas. Sakarā ar komerciālās kosmosa rūpniecības uzplaukumu 1990. gadu beigās, kad bija paaugstināts pieprasījums kravu nogādāšanai kosmosā, Gaisa Spēki nolēma atbalstīt konkurējošas raķešu saimes, jo komercpieprasījums palīdzētu uzturēt divus kosmisko nesēju piegādātājus. Ja 1980. gadā ASV nodrošināja visu starptautisko komercpavadoņu nogādāšanu orbītā, tad 1990. gadu vidū šī tirgus daļa bija samazinājusies līdz 30 %. ASV vēlējās atgūt zaudētās pozīcijas. Prognozes rādīja, ka komerckravu skaits pieaugs. Par ''EELV'' izstrādātājiem tika izvēlēti ''[[Lockheed Martin]]'' un ''[[McDonnell Douglas]]'' (vēlāk šo uzņēmumu nopirka ''[[Boeing]]''), modernizējot savu nesējraķešu saimes ''Atlas'' un ''Delta''. 
+
+Gadsimtu mijā kosmiskais uzplaukums noplaka, līdz ar to izmainījās tirgus situācija — kosmisko nesēju operatori konkurences apstākļos bija spiesti samazināt startu cenas, lai iegūtu komerclīgumus. Vēl kāds nepatīkams apstāklis ietekmēja ''EELV'' programmu. Sākotnēji 1998. gadā tika noslēgti valsts pasūtījumi: ''[[Delta 4]]'' dabūja 19 līgumus, bet ''[[Atlas 5]]'' tikai 9. 2003. gada sākumā Gaisa spēki veica izmeklēšanu, kurā atklājās, ka ''Boeing'' bija izmantojis negodīgus līdzekļus. Bijušais ''Lockheed Martin'' darbinieks bija pārgājis strādāt ''Boeing'', līdzi paņemot arī nozīmīgus dokumentus, kas ļāva ''Boeing'' piedāvāt labākus kontrakta nosacījumus nekā konkurents. Par sodu ''Boeing'' zaudēja tiesības piedalīties otrajā ''EELV'' iepirkumā, kā arī ''Delta-4'' septiņi starti tika nodoti ''Atlas-5'', Gaisa Spēki ''Lockheed Martin'' deva atļauju rietumu piekrastē izbūvēt starta laukumu, kā arī piešķīra 3 papildu startus. ''Boeing'', zaudējot valsts pasūtījumus un redzot, ka ''Delta 4'' lielo izmaksu dēļ nebūs konkurētspējīga, atsauca savu ''EELV'' nesēju no komerctirgus. Savukārt ''Lockheed Martin'' savu ''Atlas 5'' paturēja komerciāli pieejamu.
+
+2010. gadu beigās ASV privātais uzņēmums ''[[SpaceX]]'' kosmosā palaida vairākas militārās kravas, un 2018. gadā raķete ''[[Falcon 9]]'' tika sertificēta ''EELV'' programmai.<ref name="spaceflightnow.com, 2018-12-17" />
+
+2019. gada 1. martā ''EELV'' programma oficiāli tika pārdēvēta par '''''National Security Space Launch''''' (no {{val|en| }} "Nacionlās drošības kosmosa starts"), jo programmā izmantotās nesējraķetes ir arī vairākkārt izmantojamas.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="spaceflightnow.com, 2018-12-17">[https://spaceflightnow.com/2018/12/17/air-force-requirements-will-keep-spacex-from-recovering-falcon-9-booster-after-gps-launch/ Air Force requirements will keep SpaceX from landing Falcon 9 booster after GPS launch] Stephen Clark, spaceflightnow.com, 2018-12-17</ref>
+}}
+
+[[Kategorija:Nesējraķetes]]

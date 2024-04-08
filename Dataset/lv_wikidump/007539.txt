@@ -1,0 +1,135 @@
+{{Latvijas novada infokaste
+| nosaukums         = Vecpiebalgas pagasts
+| karte             = Vecpiebalgas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Vecpiebalgas pagasts.png
+| ģerboņa_nosaukums = Vecpiebalgas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Vecpiebalgas pagasta karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Vecpiebalga
+| platība           = 110,2
+| iedzīvotāji       = 1458<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1458 / 110.2 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.vecpiebalga.lv
+}}
+'''Vecpiebalgas pagasts''' ir [[pagasts]] [[Vidzeme|Vidzemē]], kas ietilpst [[Cēsu novads|Cēsu novadā]]. Robežojas ar Cēsu novada [[Inešu pagasts|Inešu]], [[Kaives pagasts|Kaives]], [[Taurenes pagasts|Taurenes]], [[Jaunpiebalgas pagasts|Jaunpiebalgas]] un [[Zosēnu pagasts|Zosēnu]] pagastu un [[Madonas novads|Madonas novada]] [[Liezēres pagasts|Liezēres pagastu]]. Pagasta centrs ir [[Vecpiebalga]].
+
+== Daba ==
+Vecpiebalgas pagasts atrodas [[Vidzemes augstiene]]s centrālajā daļā, [[Piebalgas pauguraine|Piebalgas paugurainē]]. Gleznainās Vecpiebalgas apkārtnes ainavas kopš 1977. gada ir ieļautas aizsargājamā dabas teritorijā [[Vecpiebalgas aizsargājamo ainavu apvidus|Vecpiebalgas aizsargājamo ainavu apvidū]].
+
+=== Hidrogrāfija ===
+
+==== Upes ====
+[[Dzērvīte (Ogres pieteka)|Dzērvīte]], [[Gailīšupīte]], [[Gauja]], [[Gaujiņa]], [[Ogre (upe)|Ogre]], [[Tulija]].
+
+==== Ezeri ====
+[[Alauksts]], [[Gailītis (ezers)|Gailītis]], [[Tauns (ezers)|Tauns]], [[Zobols]].
+
+== Vēsture ==
+1935. gadā Vecpiebalgas pagasta platība bija 187,6 km² un tajā bija 3766 iedzīvotāji.<ref>V.Salnais, A. Maldups. Pagastu apraksti (Pēc 1935. gada tautas skaitīšanas materiāliem). Valsts statistikas pārvalde. Rīga: 1935.</ref> 1945. gadā pagastā izveidoja Vecpiebalgas, [[Alauksta ciems|Alauksta]], [[Ineša ciems|Ineša]] un [[Jaudzumu ciems|Jaudzumu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. Vecpiebalgas ciemam 1954. gadā pievienoja Alauksta ciemu. 1990. gadā ciemu reorganizēja par pagastu [[Cēsu rajons|Cēsu rajona]] sastāvā.<ref>{{EncLP}}</ref>
+
+2009. gadā [[Latvijas administratīvais iedalījums|administratīvi teritoriālās reformas]] rezultātā pagastu kopā ar četrām citām apkārtējām pašvaldībām apvienoja [[Vecpiebalgas novads|Vecpiebalgas novadā]], bet 2021. gadā Vecpiebalgas novads tika iekļauts [[Cēsu novads|Cēsu novadā]].
+
+=== Pieminekļi ===
+
+==== Valsts nozīmes ====
+* Saiešanas nams "Cepļos"<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Vecpiebalgas+pagasts&region=3&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Rakstnieka [[Kārlis Skalbe|Kārļa Skalbes]] dzīves vieta un muzejs "Saulrieti"
+* Zemnieku-amatnieku sētu grupa Vēveru ciems ar sētām "Virolvēveri", "Vecvēveri", "Streinvēveri", "Mazvēveri", "Lielvēveri", "Lejasvēveri", "Kalnvēveri" un "Jaunvēveri"
+* "Jauncelmu" dzīvojamā māja
+* [[Vecpiebalgas pils|Vecpiebalgas viduslaiku pils]]
+* [[Vecpiebalgas pilskalns]] (Griškas kalns)
+* Zēniņu, Tašķēnu, Saulgožu, Raskumu, Lejasģibuļu un Jaunvīļumu senkapi
+* Cepļu apmetne I,II
+* Rakstnieku [[Reinis Kaudzīte|Reiņa]] un [[Matīss Kaudzīte|Matīsa Kaudzīšu]] dzīves un darba vieta un muzejs "Kalna Kaibēni"
+* Rakstnieka [[Antons Austriņš|Aantona Austriņa]] dzimtās mājas
+
+==== Vietējas nozīmes ====
+* Silakrogs
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2500
+|1959|1979
+|1969|2004
+|1979|1915
+|1989|1939
+|2000|1781
+|2011|1431
+|2021|1271
+}}
+
+=== Apdzīvotās vietas ===
+[[Aļmi]], [[Augstlīči]], [[Baltaci]], [[Beitēni]], [[Brekti]], [[Cepļi (Vecpiebalgas pagasts)|Cepļi]], [[Gulbji (Vecpiebalgas pagasts)|Gulbji]], [[Ģibuļi (Vecpiebalgas pagasts)|Ģibuļi]], [[Kabulēni]], [[Kriemeļi]], [[Kūrēni]], [[Kurmji]], [[Ķāķi]], [[Lībieši (Vecpiebalgas pagasts)|Lībieši]], [[Ļūdiņi]], [[Meirēni]], [[Mūrnieki (Vecpiebalgas pagasts)|Mūrnieki]], [[Purgaiļi]], [[Ragaiņi]], [[Roznēni]], [[Smetes]], [[Spuldzēni]], [[Staņaudi]], [[Tašķēni]], [[Tomuļi]], [[Vecpiebalga]], [[Veļķumuiža]], [[Vēveri (Vecpiebalgas pagasts)|Vēveri]], [[Vīndedzes]], [[Zeikari (Vecpiebalgas pagasts)|Zeikari]], [[Zēniņi]].
+
+=== Ievērojamas personības ===
+
+* [[Hermanis Albats]] (1879—1942), jurists, tiesībnieks, zinātnieks, diplomāts, profesors, dzejnieks un politiķis. Latvijas ārlietu ministrs.
+* [[Jānis Andriksons]] (1912—1967), latviešu ātrslidotājs un hokejists.
+* [[Antons Austriņš]] (1884—1934), skolotājs, revolucionārs un rakstnieks.
+* [[Harijs Avens]] (1910—1976), aktieris.
+* [[Pēteris Avens]] (1882—1951), strēlnieku un Sarkanās armijas virsnieks.
+* [[Jānis Breikšs]] (1887—1965), jurists, politiķis, nacionālās pretestības kustības dalībnieks. 2., 3. un 4. Saeimas deputāts, Saeimas sekretārs.
+* [[Teodors Breikšs]] (1855—1922), skolotājs un sabiedriskais darbinieks.
+* [[Jēkabs Dārznieks]] (1873—1927), politiķis, Latvijas Satversmes sapulces deputāts, Latviešu zemnieku savienības biedrs.
+* [[Lilija Dzene]] (1929—2010), teātra vēsturniece, kritiķe un rakstniece
+* [[Matīss Kaudzīte]] (1848—1926), rakstnieks un skolotājs.
+* [[Reinis Kaudzīte]] (1839—1920), rakstnieks un skolotājs.
+* [[Aleksandrs Kiršteins]] (1948), arhitekts un politiķis.
+* [[Mārtiņš Lācis]] (1888—1938), revolucionārs un rakstnieks
+* [[Jānis Ozols (grāmatizdevējs)|Jānis Ozols]] (1859—1906), grāmatizdevējs.
+* [[Jānis Pupurs]] (1901—1977), Rīgas lielvecākais
+* [[Pauls Putniņš]] (1937—2018), dramaturgs, publicists, politiķis.
+* [[Jānis Roze]] (1878—1942), grāmatizdevējs.
+* [[Fridrihs Rubenis]] (1902—1945), virsnieks.
+* [[Kārlis Skalbe]] (1879—1945), dzejnieks, prozaiķis un politiķis.
+* [[Jānis Skuja]] (1886—1983), ārsts
+* [[Eduards Šīrons]] (1893—1964), tautsaimnieks.
+
+== Saimniecība ==
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Sports ==
+Vecpiebalgas pagastā norisinās tradicionālais ikgadējais tautas [[distanču slēpošana|slēpojums]] "[[Apkārt Alaukstam]]". Slēpojums notiek jau kopš 1984. gada un katru gadu pulcē gandrīz 1000 distanču slēpotāju.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Skatīt arī ==
+* [[Vecpiebalgas novads]]
+* [[Vecpiebalga]]
+
+== Ārējās saites ==
+* [http://www.vecpiebalga.lv Vecpiebalgas pagasta mājaslapa]
+* [https://web.archive.org/web/20191221044427/http://www.udensrozes.lv/ Vecpiebalgas Ūdensrozes — Ūdensrožu stādu audzētava]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Vecpiebalgas novads}}
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Vecpiebalgas pagasts| ]]

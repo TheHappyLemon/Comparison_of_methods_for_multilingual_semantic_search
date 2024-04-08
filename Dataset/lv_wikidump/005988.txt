@@ -1,0 +1,48 @@
+{| class="wikitable" align="right"
+| '''vienkāršs'''
+| '''centrēts'''
+| '''centrēts malās'''
+|-
+|| [[Attēls:Cubic crystal shape.png|vienkāršs]]
+|| [[Attēls:Cubic-body-centered.png|centrēts]]
+|| [[Attēls:Cubic,_face-centered.png|malās centrēts]]
+|}
+
+[[kristalogrāfija|Kristalogrāfijā]] '''kubiskā singonija''' ('''izometriskā singonija''') ir viena no 7 [[singonija|singonijām]]. [[kristāliskā struktūra|Kristālisko struktūru]] apraksta, balstoties uz trīs bāzes [[vektors|vektoriem]]. Kubiskajā singonijā visi trīs bāzes vektori ir vienāda garuma un perpendikulāri attiecībā viens pret otru. Šī ir pati vienkāršākā singonija un ar to parasti sāk skaidrojumu par singonijām.
+
+Kubiskajā singonijā ir trīs veidu [[Brevē režģis|Brevē režģi]]: vienkāršs, centrēts un malās centrēts.
+
+Šī ir vienkāršākā kristāliskā sistēma, kas piemīt daudzu metālu [[tīrradnis|tīrradņiem]]. Kubiskā singonija piemīt arī [[fluorīts|fluorītam]], [[halīts|halītam]], [[galenīts|galenītam]], [[sfalerīts|sfalerītam]] un daudzu citu minerālu kristāliem.
+
+Zemāk esošajā tabulā dots visu trīs šīs singonijas simetriju starptautiskie apzīmējumi un apzīmējumi pēc [[Šēnfliss|Šēnflisa]].
+
+{| class="wikitable" align=left
+|'''Nosaukums'''
+|colspan=2|'''Starptautiskais apzīmējums'''
+||'''Šēnflisa apzīmējums'''
+|-
+|Planaksiālais (heksoktaedriskais)
+|<math>\frac4m\overline{3}\frac2m</math>
+|vai <math>m3m</math>
+| ''O<sub>h</sub>''
+|-
+|Aksiālais (trioktaedriskais)
+|colspan=2|432
+|| ''O''
+|-
+|centrālais (didodekaedriskais)
+|<math>\frac2m \overline{3}</math>
+|vai <math>m3</math>
+|''T<sub>h</sub>''
+|-
+|Planālais (heksatetraedriskais)
+|colspan=2|<math>\overline{4}3m</math>
+||''T<sub>d</sub>''
+|-
+|Primitīvais (tritetraedriskais)
+|colspan=2|23
+||''T''
+|
+|}
+
+[[Kategorija:Kristalogrāfija]]

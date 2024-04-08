@@ -1,0 +1,11 @@
+{{Citas nozīmes|datoru operētājsistēmu saimi|DOS (nozīmju atdalīšana)|DOS}}
+
+Akronīms '''DOS''' tiek lietots, lai apzīmētu [[Disku operacionālā sistēma|disku operacionālās sistēmas]], kas ir [[dators|datoru]] [[operacionālā sistēma|operacionālās sistēmas]], kas nodrošina [[datu nesējs|datu nesējos]] esošu [[failu sistēma|failu sistēmu]] abstrakciju.
+
+== DOS IBM PC savietojamos datoros ==
+Pamatā ar terminu DOS apzīmē [[IBM PC savietojams|IBM PC savietojamo]] datoriem radīto operacionālo sistēmu saimi, kas ietver [[PC-DOS]], [[MS-DOS]], [[DR-DOS]], [[FreeDOS]], [[OpenDOS]], [[PTS-DOS]] un citas sistēmas. No tām vispopulārākā ir MS-DOS sistēma.
+
+{{IT-aizmetnis}}
+
+[[Kategorija:DOS|*]]
+[[Kategorija:Operētājsistēmas]]

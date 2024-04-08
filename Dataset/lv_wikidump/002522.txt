@@ -1,0 +1,50 @@
+{{Upes infokaste 
+| nosaukums         = Inda
+| attēls            = Kalabagh-Punjab -Pakistan 01.jpg
+| attēla_izmērs     = 
+| paraksts          = 
+| vietaskarte       = Āzija#Indija#Pakistāna
+| kartes_paraksts   = 
+| reljefs           = jā
+| izteka            = [[Kailašs]]
+| augštece          = Sengekabapha
+| satekupes         = 
+| ieteka            = [[Arābijas jūra]]
+| baseina_valstis   = {{AFG}}<br />{{IND}}<br/>{{CHN}}<br />{{PAK}}
+| tek_caur          = {{CHN}}<br/>{{IND}}<br />{{PAK}}
+| garums            = 3180
+| iztekas_augstums  = 5300
+| ietekas_augstums  = 0
+| kritums           = 5300
+| caurtece          = 5533
+| caurtece_vieta    = grīvā
+| gada_notece       = 
+| baseins           = 1 120 000
+| pietekas          = [[Satledža]]
+| sāk_plat_d=31 | sāk_plat_m=16 | sāk_plat_s= 55 | sāk_plat_NS=N
+| sāk_gar_d=81 | sāk_gar_m=37 | sāk_gar_s=46 | sāk_gar_EW=E 
+| iet_plat_d=23 | iet_plat_m=59 | iet_plat_s=11 | iet_plat_NS=N
+| iet_gar_d=67 | iet_gar_m=26 | iet_gar_s=13 | iet_gar_EW=E
+}}
+'''Inda''' vai '''Sinda''' ({{val|sa|सिन्धु}}, ''Sindhu''; {{val|ur|سندھ}}, ''Sindh'') ir upe [[Dienvidāzija|Dienvidāzijā]], [[Indostāna]]s viena no divām galvenajām upēm.<ref>{{PZT|270}}</ref>
+
+== Etimoloģija ==
+Upe bija zināma senajiem Indijas iedzīvotājiem kā ''Sindhu'' un persiešiem kā ''Hindu'', kas abās valodās nozīmēja ‘robežas upe’. No persiešiem upes nosaukums nonāca pie [[Senā Grieķija|senajiem grieķiem]] kā ''Indós'' (''Ἰνδός'' — grieķiem nebija zināma [h] fonēma).
+
+== Ģeogrāfija ==
+Inda sākas [[Tibetas kalniene|Tibetas kalnienē]] svētā [[Kailašs|Kailaša]] kalna ziemeļu nogāzēs; augštecē tiek dēvēta par '''Sengekabaphu''' ({{val|bo| སེང་གེ་ཁ་འབབ།}}) vai '''Sengecanpo''' ({{val|bo|སེང་གེ་གཙང་པོ}}). Plūst rietumu virzienā kā tipiska kalnu upe, kur aizas mijas ar plašām ielejām. Lejpus [[Gilgita (upe)|Gilgita]]s pietekas izlaužas starp [[Himalaji]]em un [[Hindukušs|Hindukušu]] pa {{nobr|3000 m}} dziļu aizu; pēc tam pagrižas uz dienvidrietumiem, kur plūst pa tuksnešaino Indas-Gangas līdzenuma ruetumu daļu, veidojot daudzas attekas. Ieplūst [[Arābijas jūra|Arābijas jūrā]], veidojot plašu deltu (ap 8000 km²). Lielākās pietekas ir [[Šaioka]], [[Gilgita (upe)|Gilgita]], [[Kabula (upe)|Kabula]] (labās) un [[Satledža]] (kreisā). Lielākās pilsētas krastos ir [[Haidarābāda (Pakistāna)|Haidarābāda]] un [[Sukura]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Pakistānas upes]]
+[[Kategorija:Inda]]
+[[Kategorija:Ķīnas upes]]
+[[Kategorija:Indijas upes]]

@@ -1,0 +1,44 @@
+[[Attēls:Four elements representation.svg|thumbnail|235px|Sengrieķu filozofi uzskatīja, ka pasaule sastāv no četriem elementiem: [[uguns]], [[gaiss|gaisa]], [[augsne|zemes]] un [[ūdens]] (attēlā angļu valodā attēlota saistība starp šiem elementiem). Šāds uzskats pastāvēja līdz pat 18. un 19. gadsimtam]]
+'''Ķīmiskais elements''' ir viena veida [[atoms|atomu]] kopums, kurus nevar sadalīt sīkāk vai pārveidot citos elementos ar [[ķīmija|ķīmiskām]] metodēm. Mazākā šāda elementa daļiņa ir atoms, kas sastāv no [[elektrons|elektroniem]], kas kustas ap [[protons|protonu]] un [[neitrons|neitronu]] veidotu [[atoma kodols|kodolu]]. Līdz 2011. gada novembrim bija zināmi 118 ķīmiskie elementi, no kuriem pēdējais — [[oganesons]] — tika iegūts 2002. gadā. Uz [[Zeme]]s dabiskos apstākļos ir atrodami 88 elementi (Zemes garozā praktiski nav [[tehnēcijs|tehnēcija]], [[prometijs|prometija]], [[astats|astata]], [[francijs|francija]] un [[transurāna elementi|transurāna elementu]], kam ir pārāk mazs dzīves ilgums).<ref>Nails Ahmetovs. ''Neorganiskā ķīmija''. Rīga : Zvaigzne, 1978, 50. lpp.</ref> Atlikušie elementi ir iegūti [[laboratorija|laboratorijās]]. 1869. gadā krievu ķīmiķis [[Dmitrijs Mendeļejevs]] apkopoja ķīmiskos elementus [[ķīmisko elementu periodiskā tabula|periodiskajā tabulā]], kur tie ir salikti pa [[periodiskās tabulas grupa|grupām]] un [[periodiskās tabulas periods|periodiem]]. Vēl tabulā nereti elementi (pareizāk, [[vienkārša viela|vienkāršās vielas]]) ir sagrupēti [[sārmu metāli|sārmu metālos]], [[sārmzemju metāli|sārmzemju metālos]], [[lantanoīdi|lantanoīdos]], [[aktinīdi|aktinīdos]], [[pārejas metāli|pārejas metālos]], [[pusmetāli|pusmetālos]], citos [[metāli|metālos]], [[halogēni|halogēnos]], [[cēlgāzes|cēlgāzēs]] un citos [[nemetāli|nemetālos]].
+
+Ķīmiskos elementus raksturo [[atomskaitlis]], kas ir vienāds ar [[protons|protonu]] skaitu elementa [[atoma kodols|atomu kodolā]], piemēram, visos [[ogleklis|oglekļa]] atoma kodolos ir 6 protoni, tātad tā atomskaitlis ir 6. Toties [[neitrons|neitronu]] skaits kodolā var atšķirties, un atomus, kuriem ir vienāds protonu skaits, bet atšķirīgs neitronu skaits, sauc par elementa [[izotops|izotopiem]]. Daļa izotopu ir [[radioaktivitāte|radioaktīvi]], un [[radioaktīvā sabrukšana|radioaktīvās sabrukšanas]] rezultātā var pārvērsties citos elementos.
+
+Divu vai vairāku ķīmisko elementu atomi var veidot [[ķīmiskais savienojums|ķīmiskos savienojumus]]. Ķīmisko savienojumu skaits ir tikpat kā neierobežots.
+
+== Raksturojums ==
+=== Atomskaitlis ===
+{{pamatraksts|atomskaitlis}}
+Ķīmiskā elementa atomskaitlis ir vienāds ar [[protons|protonu]] skaitu [[atoma kodols|atoma kodolā]]. Vienam noteiktam ķīmiskajam elementam ir konkrēts atomskaitlis. Tiklīdz tas mainās, piemēram, [[kodolreakcija|kodolreakciju]] rezultātā, tā tiek iegūts cits ķīmiskais elements. Atomskaitlis nosaka arī [[elektrons|elektronu]] skaitu, ja ķīmiskais elements nav [[jonizācija|jonizēts]].
+
+=== Atommasa un relatīvā atommasa ===
+{{pamatraksts|atommasa}}
+Tā kā elementu atomu [[masa]]s ir ļoti niecīgas salīdzinājumā ar [[SI sistēma]]s pamatmērvienību [[kilograms|kilogramu]], tad to mēra [[atommasas vienība|atommasas vienībās]]. Ir definēts, ka viena atommasas vienība ir 1/12 no oglekļa izotopa <sup>12</sup>C masas, tas ir, 1,6605655{{E|-27}} kg. Attiecībā pret šo lielumu var izteikt citu ķīmisko elementu [[relatīvā atommasa|relatīvo atommasu]].
+
+=== Izotopi ===
+{{pamatraksts|izotops}}
+Nereti dabā ir sastopami ķīmiskie elementi ar vienādu [[protons|protonu]] skaitu, bet atšķirīgu [[neitrons|neitronu]] skaitu. Ja protonu skaits ir vienāds, tas norāda uz to, ka tas ir viens un tas pats ķīmiskais elements, bet, ja šiem pašiem ķīmiskajiem elementiem ir atšķirīgs neitronu skaits, tad tos sauc par [[izotops|izotopiem]]. Viena un tā paša ķīmiskā elementa dažādu izotopu ķīmiskās īpašības nemainās, bet fizikālās īpašības gan ir atšķirīgas.
+
+=== Alotropija ===
+{{pamatraksts|alotropija}}
+Parādību, kad viens un tas pats ķīmiskais elements veido vairākas vienkāršas vielas, sauc par [[alotropija|alotropiju]]. Vielas atšķiras ar atomu skaitu [[molekula|molekulā]]. Piemēram, [[ogleklis]] veido [[grafīts|grafītu]], [[dimants|dimantus]], [[karbīns|karbīnu]] un citas vienkāršas vielas. Visas šīs vielas sauc par alotropiskajām formām.
+
+== Skatīt arī ==
+* [[Ķīmisko elementu periodiskā tabula]]
+* [[Ķīmisko elementu saraksts]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.periodictable.ru/index.html Периодическая система элементов] {{ru ikona}}
+
+== Atsauces ==
+{{atsauces+}}
+{{atsauces}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi| ]]

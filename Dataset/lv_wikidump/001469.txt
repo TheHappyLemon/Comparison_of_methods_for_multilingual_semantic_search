@@ -1,0 +1,188 @@
+{{Elementa infokaste
+|                 tips = nemetāls
+|      kārtas skaitlis = 6
+|             2. čaula = 4
+|             1. čaula = 2
+|              simbols = C
+|             atommasa = 12,0107
+|   valences elektroni = [He]2s<sup>2</sup>2p<sup>2</sup>
+|       tabulas attēls = [[Attēls:C-TableImage.svg|250px]]
+|               attēls = [[Attēls:Uhlík.PNG|250px]]<br />Ogles pulveris
+|  oksidēšanas pakāpes = '''+4''', +3, '''+2''', +1, 0, -1, -2, -3, '''-4'''<br /> (organiskos savienojumos parasti daļskaitlis)
+|  elektronegativitāte = 2,55
+|              blīvums = 2267 [[kilograms|kg]]/[[metrs|m]]<sup>3</sup> (grafīts), 3516 - 3525 [[kilograms|kg]]/[[metrs|m]]<sup>3</sup> (dimants)
+|  kušanas temperatūra = [[Trīskāršais punkts]] pie 10 MPa un (4300 - 4700) [[Kelvins (mērvienība)|K]]
+| viršanas temperatūra = [[Sublimācija|Sublimējas]] pie ≈4000 [[Kelvins (mērvienība)|K]]
+}}
+
+'''Ogleklis''' ir [[ķīmiskais elements]] ar simbolu '''C''' un [[atomskaitlis|atomskaitli]] 6. Ogleklis ietilpst visu [[organiskās vielas|organisko vielu]] sastāvā. Ogleklim ir divas stabilas [[alotropija|alotropiskās formas]]: [[grafīts]] un [[dimants]]. Dimants ir viena no viscietākajām pazīstamajām vielām. Savukārt grafīts ir viens no mīkstākajiem [[minerāls|minerāliem]], un to lieto kā dažu smērvielu sastāvdaļu. Ogleklis ir viena no grūtāk kūstošajām vielām (grafīta formā), gaisā grafītu var karsēt līdz ≈900<sup>o</sup>C, bet skābekli nesaturošā atmosfērā grafīta bāzētos ugunsturīgos materiālus var lietot līdz ≈3000<sup>o</sup>C. Savienojumos ogleklis parasti ir ar vērtību -4 ([[metāns]]), +2 ([[oglekļa monoksīds]]) un +4 ([[oglekļa dioksīds]], [[karbonāti]]).
+
+__TOC__
+
+== Oglekļa atrašanās dabā ==
+
+Pēc izplatības [[Zemes garoza|Zemes garozā]] ogleklis ieņem 17. vietu, kas ir aptuveni 0,48% no visas zemes virsmas masas. Dabā pastāv divi oglekļa alotropiskie veidi — [[grafīts]] un [[dimants]]. Savienojumu veidā ogleklis atrodas visās augu un dzīvnieku valsts vielās — [[Organiskās vielas|organiskajās vielās]], kā arī oglekļa 
+dioksīdā un minerālos — [[krīts|krītā]], [[kaļķakmens|kaļķakmenī]], [[marmors|marmorā]], [[dolomīts|dolomītā]] un citur.
+Dabā ogleklis sastopams divu stabilu izotopu <sup>12</sup>C (98,892%) un <sup>13</sup>C (1,108%) veidā.
+
+== Oglekļa alotropiskie veidi ==
+
+[[Attēls:Eight Allotropes of Carbon.png|thumb|250px|Izplatītāko oglekļa alotropisko veidu atomu izvietojums molekulā: a) [[dimants]]; b) [[grafīts]]; c) [[lonsdeilīts]]; d–f) [[fullerēns]] (C<sub>60</sub>, C<sub>540</sub>, C<sub>70</sub>); g) [[amorfais ogleklis]]; h) [[Oglekļa nanocaurulīte]].]]
+Ogleklim ir trīs alotropiskie veidi — [[grafīts]], [[dimants]] un [[karbīns]]. [[Amorfais ogleklis]] jeb ogle ir grafīta paveids.
+
+Grafīta atradnes ir [[Altajs|Altajā]], [[Sibīrija|Austrumsibīrijā]], [[Ukraina|Ukrainā]], [[Meksika|Meksikā]], [[Kalifornija|Kalifornijā]], [[Eiropa|Viduseiropā]], [[Madagaskara|Madagaskarā]], [[Šrilanka|Šrilankā]], [[Dienvidkoreja|Dienvidkorejā]].
+
+[[Dimants|Dimanti]] dabā sastopami reti. Tie atrodami sanesuma iežos Jakutijā, [[Āfrika|Dienvidāfrikā]], [[Dienvidamerika|Dienvidamerikā]], [[Austrālija|Austrālijā]], [[Indija|Indijā]]. Ļoti liels dimanta tīrradnis "Kullināns" atrasts Dienvidāfrikā 1905. gadā, tā masa ir 3106 [[karāts|karāti]] (1 [[karāts]] = 0,2 [[grams|grami]]).
+
+=== Grafīts ===
+[[Attēls:GraphiteUSGOV.jpg|left|thumb|150px|[[Grafīts]]]]
+[[Grafīts]] ir tumšpelēka, kristāliska viela ar metālisku spīdumu. Tas deg tikai tīrā [[skābeklis|skābeklī]].
+
+Grafītam ir slāņaina heksagonāla struktūra, kas atbilst elektronu [[orbitāle|orbitāļu]] ''sp<sup>2</sup>'' [[Orbitāļu hibridizācija|hibridizācijai]]. Oglekļa [[atoms|atomu]] sešlocekļu gredzenu slāņi ir vājāk saistīti viens ar otru. Tāpēc grafīts ir mīksts un sadalās pelēkos zvīņveida slāņos. Tie līp pie papīra, tāpēc grafītu lieto [[zīmulis|zīmuļu]] izgatavošanai.
+
+Grafītam piemīt augsta [[elektrovadītspēja]]. No tā ražo [[elektrods|elektrodus]]. Grafītu vēl izmanto ziežvielu, ugunsizturīgu materiālu un [[krāsvielas|krāsvielu]] ražošanai, kā arī par neitronu palēninātāju kodoltehnikā.
+
+==== Amorfais ogleklis ====
+
+Amorfais ogleklis jeb [[ogle]] nav īpaša oglekļa modifikācija. Tā ir melna, cieta viela, kas sastāv no sīkiem, neregulāras struktūras grafīta kristāliņiem. Amorfa oglekļa blīvums ir no 1,8 līdz 2,1 g/cm<sup>3</sup>.
+
+Amorfo oglekli (ogli) iegūst, termiski sadalot organiskos savienojumus. Nozīmīgākie ogles veidi ir kokss, kokogle, kaulu ogle un kvēpi. Kvēpi ir tīrākais amorfais ogleklis. Tie rodas, termiski sadalot vai nepietiekamā gaisa daudzumā sadedzinot ar oglekli bagātas vielas ([[dabasgāze|dabasgāzi]], [[sveķi|sveķus]], [[terpentīns|terpentīnu]]). Koksu izmanto ķīmiskajā rūpniecībā un metalurģijā par reducētāju un kurināmo. Kvēpus lieto par pildvielu [[gumija]]s un [[plastmasa|plastmasu]] izstrādājumos, par melno pigmentu krāsvielās un tušā. Amorfo oglekli apstrādājot ar pārkarsētu ūdens tvaiku, iegūst [[aktīvā ogle|aktīvo ogli]], kuru lieto par adsorbentu dažādu vielu attīrīšanai ķīmiskajā un pārtikas rūpniecībā, medicīnā (karbolēna tabletes), gāzmaskās.
+
+=== Dimants ===
+[[Attēls:Brillanten.jpg|right|thumb|150px|[[Briljants|Briljanti]] — īpaši slīpēti [[dimants|dimanti]], kas tiek izmantoti [[juvelierizstrādājumi|juvelierizstrādājumu]] izgatavošanai.]]
+[[Dimants]] ir bezkrāsaina, caurspīdīga, kristāliska viela, kas stipri lauž gaismas starus. Nereti tas ir zilgans, iedzeltens, sārts, tumšpelēks, pat melns. Ja dimantu sakarsē līdz 850&nbsp;°C temperatūrai, skābekļa atmosfērā tas sadeg. 1772. gadā [[Antuāns Lorāns Lavuazjē|A. Lavuazjē]] konstatēja, ka, sadegot dimantam, rodas tikai oglekļa dioksīds.
+
+Dimantam ir [[tetraedrs|tetraedriska]] struktūra. Tajā katrs oglekļa atoms ir saistīts ar četriem kaimiņatomiem. Šīs saites ir vienāda garuma un cita ar citu veido 109°28' lielus leņķus. Tāpēc dimantam piemīt ārkārtīgi liela cietība, taču tas ir trausls. Dimants slikti vada elektrību un siltumu. Tā blīvums ir 3,52 g/cm<sup>3</sup>.
+
+Ja dimantu stipri karsē bez gaisa piekļuves 1000&nbsp;°C temperatūrā, tas pārvēršas grafītā.
+
+Speciāli slīpētus dimantus sauc par briljantiem. Tos lieto juvelierizstrādājumu izgatavošanai. Dimantu tā lielās cietības dēļ lieto cietu materiālu apstrādei, iežu urbšanai. Pieprasījums pēc tehnikā izmantojamiem dimantiem ir liels, tāpēc augstā temperatūrā un spiedienā tos mākslīgi iegūst no grafīta.
+
+=== Karbīns ===
+[[Karbīns]] ir melna, pulverveida viela, kuru ieguva 1963. gadā, katalītiski oksidējot [[acetilēns|acetilēnu]]. Tam ir heksagonāls kristālrežģis, ko veido lineāras oglekļa atomu ķēdes ar šādu saišu izvietojumu:
+
+== Ķīmiskās īpašības ==
+
+Parastajos apstākļos ogleklis ir ķīmiski inerts. Augstākās temperatūrās tā aktivitāte pieaug. Vislielākā reaģētspēja piemīt [[Amforais ogleklis|amorfajam ogleklim]], mazāk aktīvs ir [[grafīts]], bet [[dimants|dimantam]] ir viszemākā ķīmiskā aktivitāte. Ogleklis ir labs [[reducētājs]], bet tā [[oksidētājs|oksidējošās]] īpašības izpaužas vājāk.
+
+* Parastajos apstākļos ogleklis (amorfa oglekļa veidā) reaģē tikai ar [[Fluors|fluoru]]:
+
+:C + 2F<sub>2</sub> → CF<sub>4</sub>
+
+Grafīta reakcija ar fluoru sākas aptuveni 900&nbsp;°C temperatūrā, bet dimants ar fluoru nereaģē. Ar pārējiem halogēniem ogleklis tieši nesavienojas.
+
+* Sakarsēts ogleklis (ogle aptuveni 400&nbsp;°C, grafīts aptuveni 700&nbsp;°C, dimants aptuveni 1000&nbsp;°C) gaisā aizdegas un veido oglekļa(IV) oksīdu (oglekļa dioksīdu) vai oglekļa(II) oksīdu (oglekļa monoksīdu):
+
+:C + O<sub>2</sub> → CO<sub>2</sub> (skābekļa pārākumā)
+
+:2C + O<sub>2</sub> → 2CO (nepietiekamā skābekļa daudzumā)
+
+* Ja slāpekļa atmosfērā ievieto ogles vai grafīta elektrodus, starp kuriem rada [[elektriskais loks|Voltas loku]] (aptuveni 4000&nbsp;°C), tad veidojas oglekļa nitrīds jeb [[diciāns]]:
+
+:2C + N<sub>2</sub> → C<sub>2</sub>N<sub>2</sub>
+
+* Ogleklis ir nemetāls, taču ar metāliem tas savienojas tikai augstā temperatūrā, veidojot [[karbīdi|karbīdus]]:
+
+:4Al + 3C → Al<sub>4</sub>C<sub>3</sub>
+
+:3Fe + C → Fe<sub>3</sub>C
+
+Oglekļa reakcijās ar saliktām vielām izpaužas tā reducējošās īpašības, kuras izmanto galvenokārt metālu iegūšanai no to oksīdiem (karbotermija). Faktiskais reducētājs karbotermijā ir oglekļa(II) oksīds CO.
+
+Sakarsēts kokss vai kokogle reaģē arī ar oglekļa(IV) oksīdu un ūdens tvaiku. Šīs reakcijas izmanto gāzveida kurināmā ražošanai.
+
+== Oglekļa savienojumi ==
+
+=== Oglekļa(II) savienojumi ===
+
+Oglekļa(II) [[oksīds|oksīdu]] jeb [[oglekļa monoksīds|oglekļa monoksīdu]] CO ikdienā sauc arī par [[tvana gāze|tvana gāzi]]. CO molekulā starp oglekļa un skābekļa atomiem ir trīs kovalentās saites, no kurām viena veidojas pēc [[donorakceptorā saite|donorakceptora mehānisma]]: skābekļa atoma viens nedalītais elektronu pāris pāriet oglekļa atoma brīvajā ''p'' orbitālē. Tādēļ ķīmiskā saite oglekļa monoksīda molekulā uzskatāma par trīskāršo saiti.
+
+CO molekulā gan ogleklis, gan skābeklis ir divvērtīgs, bet to oksidēšanas pakāpe ir attiecīgi +2 un -2.<br />
+Oglekļa(II) oksīds rodas, ja caur degošu ogles slāni [[gaiss]] plūst nepietiekamā daudzumā. Vispirms veidojas oglekļa(IV) oksīds. Kvēlojošās ogles to reducē par CO:
+
+:C + O<sub>2</sub> → CO<sub>2</sub> (skābekļa pārākumā)
+:2C + O<sub>2</sub> → 2CO (nepietiekamā skābekļa daudzumā)
+
+Tā rodas tvana gāze krāsnīs, un tā arī iegūst gāzveida kurināmo gāzģeneratoros un reducētāju CO karbotermijai. Oglekļa(II) oksīds veidojas, nepilnīgi sadegot šķidrajai degvielai — benzīnam, solāreļļai, petrolejai, tāpēc iekšdedzes dzinēju izplūdes gāzēs CO tilpumdaļa ir 2... 10%.
+Laboratorijā CO iegūst, pilinot [[skudrskābe|skudrskābi]] līdz 80&nbsp;°C sakarsētā koncentrētā sērskābē (sērskābe vienkārši atņem ūdeni):
+
+:HCOOH + H<sub>2</sub>SO<sub>4</sub> → H<sub>2</sub>SO4<sub>2</sub> H<sub>2</sub>O + CO
+
+CO ir bezkrāsaina gāze bez smakas. Tā ir nedaudz vieglāka par gaisu, slikti šķīst ūdeni, labi — etanolā un benzolā. Oglekļa(II) oksīdam ir zema viršanas temperatūra (-191,5&nbsp;°C).
+Oglekļa(II) oksīds CO ir ļoti indīgs! Tā pieļaujamā koncentrācija gaisā ir 30 mg/m<sup>3</sup>.
+CO ir sāļus neradošs oksīds. Tam raksturīgas savienošanas reakcijas. Tā, piemēram, CO deg gaisā un skābekli, izdalot lielu siltuma daudzumu:
+
+:2CO + O<sub>2</sub> → 2CO<sub>2</sub> + 565,93 k[[Džouls|J]]
+
+Saules gaismā vai aktīvās ogles klātbūtnē CO savienojas ar hloru, veidojot indīgu gāzi - [[fosgēns|fosgēnu]]:
+
+:CO + Cl<sub>2</sub> → COCl<sub>2</sub>
+
+CO savienojas ar daudziem metāliem, veidojot metālu [[karbonili|karbonilus]]:
+
+:4CO + Ni → [Ni(CO)<sub>4</sub>]
+
+CO ir spēcīgs reducētājs:
+
+:Fe<sub>2</sub>O<sub>3</sub> + 3CO → 2Fe + 3CO<sub>2</sub>
+
+CO lieto par reducētāju metalurģijā, par gāzveida kurināmo, par vērtīgu izejvielu neorganiskajā un organiskajā sintēzē.
+
+=== Oglekļa(IV) savienojumi ===
+
+Oglekļa(IV) oksīds ([[oglekļa dioksīds]], ogļskābā gāze) [[Oglekļa dioksīds|CO<sub>2</sub>]] ir savienojums ar četrām polārām kovalentām saitēm, taču pati [[Oglekļa dioksīds|CO<sub>2</sub>]] molekula ir lineāra un simetriska, tādēļ nepolāra:
+
+'''O = C = O'''
+
+[[Oglekļa dioksīds|CO<sub>2</sub>]] tilpumdaļa gaisā ir aptuveni 0,03%. Tā kopējā masa Zemes atmosfērā ir aptuveni 4,5·10<sup>13</sup> tonnas.
+
+Oglekļa(IV) oksīds nav indīgs, bet tam ir slāpējošas īpašības. Tāpēc telpas, kurās uzturas daudz cilvēku, bieži jāvēdina. Ja [[Oglekļa dioksīds|CO<sub>2</sub>]] tilpumdaļa gaisā palielinās līdz 3%, strauji pasliktinās pašsajūta, bet, ja ieelpojamais gaiss satur 10% [[Oglekļa dioksīds|CO<sub>2</sub>]], iestājas bezsamaņa un [[nāve]].
+Oglekļa(IV) oksīdu satur arī okeāna un iekšzemes ūdeņi. Minerālūdeņos tā koncentrācija var sasniegt 1,5 g/l.
+
+[[Oglekļa dioksīds|CO<sub>2</sub>]] dabā veidojas dažādos oksidēšanas procesos — elpošanā, pūšanā, degšanā, lielos daudzumos tas izdalās no vulkāniem.<br />
+Rūpniecībā [[Oglekļa dioksīds|CO<sub>2</sub>]] iegūst spirta rūgšanas procesā, kā arī termiski sadalot kaļķakmeni un dolomītu. Laboratorijā to iegūst, iedarbojoties uz marmoru vai citiem karbonātiem ar sālsskābi:
+
+:2HCl + CaCO<sub>3</sub> → CaCl<small>2</small> + H<sub>2</sub>CO<sub>3</sub> (ogļskābe tūlīt sadalās par ūdeni un CO<sub>2</sub>)
+
+Oglekļa(IV) oksīds ir bezkrāsaina gāze bez smakas. Tas ir 1,5 reizes smagāks par gaisu, labi šķīst ūdenī (87,8 cm<sup>3</sup>/100 g [[ūdens|H<sub>2</sub>O]] 20&nbsp;°C). Ja normālā spiedienā [[Oglekļa dioksīds|CO<sub>2</sub>]] pakāpeniski atdzesē, tas nepārvēršas šķidrumā, bet -78,52&nbsp;°C temperatūrā kristalizējas, veidojot sniegveida masu — "sauso ledu", kuram ir molekulu kristālrežģa struktūra. [[Oglekļa dioksīds|CO<sub>2</sub>]] var sašķidrināt tikai paaugstinātā spiedienā (5,73 MPa 20&nbsp;°C temperatūrā).
+[[Oglekļa dioksīds|CO<sub>2</sub>]] ir skābais oksīds, kam, šķīstot ūdenī, veidojas nedaudz ogļskābes (process ir apgriezenisks):
+
+:CO<sub>2</sub> + H<sub>2</sub>O ⇄ H<sub>2</sub>CO<sub>3</sub>
+
+20&nbsp;°C temperatūrā ogļskābē pārvēršas aptuveni 1% no ūdenī izšķīdušā [[Oglekļa dioksīds|CO<sub>2</sub>]] tilpuma.
+[[Oglekļa dioksīds|CO<sub>2</sub>]] reaģē ar bāziskajiem oksīdiem un ar sārmiem. Tāpēc arī dzēstie un dedzinātie kaļķi (Ca(OH)<sub>2</sub>, CaO) gaisā pārvēršas par kalcija karbonātu. CO<sub>2</sub> iedarbību uz kaļķūdeni izmanto šīs gāzes pierādīšanai:
+
+:CO<sub>2</sub> + Ca(OH)<sub>2</sub> → CaCO<sub>3</sub> + H<sub>2</sub>O
+
+Paaugstinātā spiedienā [[Oglekļa dioksīds|CO<sub>2</sub>]] reaģē ar amonjaku NH<sub>3</sub>, veidojot [[karbamīds|karbamīdu]]:
+
+:CO<sub>2</sub> + 2NH<sub>3</sub> → CO(NH<sub>2</sub>)<sub>2</sub> + H<sub>2</sub>O
+
+Spēcīgu reducētāju ietekmē [[Oglekļa dioksīds|CO<sub>2</sub>]] pilnīgi vai daļēji zaudē skābekli.
+
+[[Oglekļa dioksīds|CO<sub>2</sub>]] izmanto sodas, [[cukurs|cukura]], karbamīda, organisko skābju ražošanā, gāzētā ūdens pagatavošanai. To lieto ugunsdzēsībā, dažādās sintēzēs inertas atmosfēras radīšanai, lāzertehnikā. "Sauso ledu" izmanto zemas temperatūras uzturēšanai.
+
+Oglekļa(IV) oksīdam ir izšķiroša nozīme fotosintēzē un ūdens cietības veidošanās procesā.
+Ogļskābe H<sub>2</sub>CO<sub>3</sub> rodas, šķīdinot [[Oglekļa dioksīds|CO<sub>2</sub>]] ūdenī. Tā ir nestabila un ļoti vāja skābe, jo iegūtajā šķīdumā iestājas ķīmiskais līdzsvars, kas stipri novirzīts pa kreisi.
+
+H<sub>2</sub>CO<sub>3</sub> disociē galvenokārt H<sup>+</sup> un HCO<sub>3</sub><sup>−</sup> jonos, bet CO<sub>3</sub><sup>2−</sup> jonu veidojas nedaudz.
+
+== Skatīt arī ==
+
+* [[Dimants]]
+* [[Grafīts]]
+* [[Aktīvā ogle]]
+* [[Karborunds]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Oglekļa alotropi}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Ogleklis|*]]

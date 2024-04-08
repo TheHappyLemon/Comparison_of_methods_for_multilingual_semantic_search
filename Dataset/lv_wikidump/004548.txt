@@ -1,0 +1,3 @@
+'''Objektorientētās programmēšanas valodas''' ir [[programmēšanas valoda]]s, kurās procesi, [[datnes]] un ievadizvades operācijas tiek attēloti kā objekti. Objekti ir arī datu struktūras atmiņā, ar kurām var manipulēt jebkuras sistēmas daļas.
+
+[[Kategorija:programmēšanas valodas]]

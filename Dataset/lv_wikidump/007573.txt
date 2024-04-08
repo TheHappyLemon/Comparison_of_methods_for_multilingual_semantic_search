@@ -1,0 +1,82 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color      = #121312
+| bg_color        = #197fbe
+| nos             = ''Club Brugge''
+| logo            = [[Attēls:Club Brugge logo.svg|150px]]
+| pilns           = ''Club Brugge <br />Koninklijke Voetbalvereniging''
+| iesauka         = ''Blauw-Zwart'' (zili-melnie)<br />''Club''
+| pilsēta         = {{Vieta|Beļģija|Brige}}
+| dib             = 1891
+| dib_mēn         = 11
+| dib_dat         = 13
+| stad            = [[Jana Breidela stadions]]
+| ietilp          = 29 062
+| prez            = {{flaga|Beļģija}} Barts Verhāge
+| tren            = {{flaga|Beļģija}} Riks De Mils
+| līga            = [[Beļģijas futbola Pro līga|Beļģijas Pro līga]]
+| sez             = 2021.—2022.
+| poz             = 1. vieta
+| pattern_la1 = _brugge1920h
+| pattern_b1  = _brugge1920h
+| pattern_ra1 = _brugge1920h
+| pattern_sh1 = _brugge1920h
+| pattern_so1  = _brugge1920h
+| leftarm1    = 0071EE
+| body1       = 0071EE
+| rightarm1   = 000000
+| shorts1     = 000000
+| socks1      = 000000
+| pattern_b2  = _brugge1920a
+| pattern_la2 = _brugge1920a
+| pattern_ra2 = _brugge1920a
+| pattern_sh2 = _brugge1920a
+| pattern_so2 = _brugge1920a
+| leftarm2    = 800000
+| body2       = 800000
+| rightarm2   = 800000
+| shorts2     = 800000
+| socks2      = 800000
+ |pattern_la3 = _brugge1920t
+ |pattern_b3  = _brugge1920t
+ |pattern_ra3 = _brugge1920t
+ |pattern_sh3 = _brugge1920t
+ |pattern_so3 = _brugge1920t
+ |leftarm3    = 57ffff
+ |body3       = 57ffff
+ |rightarm3   = 57ffff
+ |shorts3     = 000000
+ |socks3      = C6E2E1
+}}
+'''''Club Brugge Koninklijke Voetbalvereniging''''', biežāk pazīstams vienkārši kā '''''Club Brugge''''', ir [[Beļģija]]s [[futbols|futbola]] klubs no [[Brige]]s. Klubs ir dibināts [[1891. gads|1891]]. gadā, pašlaik spēlē [[Beļģijas futbola Pro līga|Beļģijas Pro līgā]]. Mājas spēles komanda aizvada [[Jana Breidela stadions|Jana Breidela stadionā]]. ''Club Brugge'' ir viens no titulētākajiem klubiem Beļģijā, nacionālo čempionu titulu skaita ziņā atpaliekot vien no [[Briseles "Anderlecht"]]. ''Club Brugge'' futbolisti ir 16 reizes kļuvuši par Beļģijas čempioniem un 11 reizes izcīnījuši Beļģijas kausu.<ref>{{Tīmekļa atsauce |url=http://clubbrugge.be/nl/de-club/geschiedenis/palmares |title=Palmares |accessdate={{dat|2015|12|17||bez}} |publisher=Club Brugge |archiveurl=https://web.archive.org/web/20151201191943/http://clubbrugge.be/nl/de-club/geschiedenis/palmares |archivedate={{dat|2015|12|01||bez}} }}</ref> Lielākais panākums Eiropas klubu turnīros ir iekļūšana 1977.–1978. gada sezonas [[UEFA Čempionu līga|Eiropas Čempionvienību kausa]] finālā, kur ar 0—1 piekāpās [[Anglija]]s klubam ''[[Liverpool FC]]''.<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefachampionsleague/season=1977/index.html |title=UEFA Champions League 1977/78 - History |accessdate={{dat|2015|12|17||bez}} |publisher=UEFA.com }}</ref>
+
+== Sasniegumi ==
+* '''[[Beļģijas futbola Pro līga|Beļģijas Pro līga]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesb/belgchamp.html |title=Belgium - List of Champions |accessdate={{dat|2015|12|17||bez}} |publisher=[[RSSSF]]}}</ref>
+** Čempioni (18): 1919–20, 1972–73, 1975–76, 1976–77, 1977–78, 1979–80, 1987–88, 1989–90, 1991–92, 1995–96, 1997–98, 2002–03, 2004–05, 2015–16, 2017–18, 2019–20, 2020–21, 2021–22
+** Vicečempioni (23): 1898–99, 1899–1900, 1905–06, 1909–10, 1910–11, 1966–67, 1967–68, 1969–70, 1970–71, 1971–72, 1984–85, 1985–86, 1993–94, 1996–97, 1998–99, 1999–2000, 2000–01, 2001–02, 2003–04, 2011–12, 2014–15, 2016–17, 2018–19
+* '''Beļģijas kauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesb/belgcuphist.html |title=Belgium - List of Cup Finals |accessdate={{dat|2015|12|17||bez}} |publisher=[[RSSSF]]}}</ref>
+** Kausa ieguvēji (11): 1967–68, 1969–70, 1976–77, 1985–86, 1990–91, 1994–95, 1995–96, 2001–02, 2003–04, 2006–07, 2014–15
+** Finālisti (8): 1913–14, 1978–79, 1982–83, 1993–94, 1997–98, 2004–05, 2015–16, 2019–20
+* '''Beļģijas superkauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesb/belgsupcuphist.html |title=Belgium - List of Super Cup Finals |accessdate={{dat|2015|12|17||bez}} |publisher=[[RSSSF]]}}</ref>
+** Kausa ieguvēji (17): 1980, 1986, 1988, 1990, 1991, 1992, 1994, 1996, 1998, 2002, 2003, 2004, 2005, 2016, 2018, 2021, 2022
+** Finālisti (3): 1995, 2007, 2015
+* '''[[UEFA Čempionu līga|Eiropas Čempionvienību kauss]]'''
+** Finālisti (1): 1977–78
+* '''[[UEFA Eiropas līga|UEFA kauss]]'''
+** Finālisti (1): 1975–76
+** Pusfinālisti (1): 1987–88
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commons category|Club Brugge}}
+* [http://www.clubbrugge.be/ Kluba oficiālā vietne] {{nl ikona}} {{fr ikona}} {{en ikona}} {{es ikona}} {{zh ikona}}
+
+{{futbols-stub}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Club Brugge}}
+[[Kategorija:Beļģijas futbola klubi]]
+[[Kategorija:Club Brugge KV]]
+[[Kategorija:Rietumflandrija]]

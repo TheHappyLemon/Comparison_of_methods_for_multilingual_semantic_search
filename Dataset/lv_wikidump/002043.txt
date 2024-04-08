@@ -1,0 +1,59 @@
+{{Elementa infokaste
+|                 tips = cēlgāze
+|      kārtas skaitlis = 54
+|             5. čaula = 8
+|             4. čaula = 18
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Xe
+|             atommasa = 131,293
+|   valences elektroni = [Kr]4d<sup>10</sup>5s<sup>2</sup>5p<sup>6</sup>
+|       tabulas attēls = [[Attēls:Xe-TableImage.svg|250px]]
+|               attēls = [[Attēls:Xenon-glow.jpg|160px]]&nbsp;&nbsp;&nbsp;&nbsp; [[Attēls:XeTube.jpg|160px]]<br />Ksenona spīdēšana [[elektriskais lauks|elektriskajā laukā]]
+|  oksidēšanas pakāpes = 0, +1, +2, +4, +6, +8
+|  elektronegativitāte = 2,6
+|              blīvums = [[normāli apstākļi|normālos apstākļos]] 5,894
+|  kušanas temperatūra = 161,4 K (-111,7&nbsp;°C)
+| viršanas temperatūra = 165,03 K (-108,12&nbsp;°C)
+}}
+
+'''Ksenons''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Xe''' un [[atomskaitlis|atomskaitli]] 54. Ksenons ir salīdzinoši smaga [[cēlgāze]] bez [[krāsa]]s un [[smarža]]s, kura brīvā veidā nelielos daudzumos ir sastopama arī [[Zemes atmosfēra|Zemes atmosfērā]].<ref name="Columbia"/> Ksenons ir ķīmiski samērā [[inerta gāze]]. Ksenons vēsturiski bija pirmā cēlgāze, kurai tika iegūti [[ķīmisks savienojums|ķīmiskie savienojumi]]. Ksenons pats par sevi nav toksisks, taču tā savienojumi ir spēcīgi [[oksidētājs|oksidētāji]]. Nozīmīgākais ksenona pielietojums ir [[gāzizlādes spuldze|gāzizlādes lampu]] uzpildīšana.
+
+== Vēsture ==
+Ksenonu 1898. gada 12. jūlijā atklāja skotu ķīmiķis [[Viljams Remzijs]] un angļu ķīmiķis [[Moriss Traverss]], neilgi pēc tam, kad viņi bija atklājuši [[neons|neonu]] un [[kriptons|kriptonu]]. Pētot kriptonu, viņi ksenonu atklāja kā piejaukumu tam. Elementa nosaukums ir radies no [[grieķu valoda|grieķu vārda]] {{gree|ξένος}} (''xénos''), kas nozīmē "svešzemju-".
+
+== Atrašanās dabā ==
+Uz Zemes ksenons galvenokārt atrodas [[Zemes atmosfēra|atmosfērā]]. [[Gaiss|Gaisā]] tas ir aptuveni 87±1 miljardās tilpuma daļas. Tas ir atrodams arī [[karstie avoti|karsto avotu]] ūdeņos.
+
+=== Izotopi ===
+Dabā ir sastopami deviņi dažādi ksenona [[izotops|izotopi]]. Visizplatītākie izotopi ir ksenons-132 (26,9086% no kopējā ksenona daudzuma), ksenons-129 (26,4006%) un ksenons-131 (21,232%), kā arī radioaktīvie ksenons-134 (10,4357%) un ksenons-136 (8,8573%).<ref name="jlab"/> Ir zināmi arī vairāk nekā 40 mākslīgi iegūti nestabili izotopi, kuri ir [[radioaktivitāte|radioaktīvi]]. To [[atommasa]] ir no 108 līdz 148.
+
+== Iegūšana ==
+Rūpnieciski ksenons tiek iegūts no sašķidrināta [[gaiss|gaisa]].<ref name="about.com"/>
+
+== Fizikālās īpašības ==
+Ksenona [[viršanas temperatūra]] ir -108,12&nbsp;°C, bet [[kušanas temperatūra]] ir -111,7&nbsp;°C. [[Normāli apstākļi|Normālos apstākļos]] tā [[blīvums]] ir 5,894 kg/m<sup>3</sup>.
+
+== Ķīmiskās īpašības ==
+Ksenons bija pirmā inertā gāze, ar kuru ieguva dažādus [[ķīmiskais savienojums|ķīmisko savienojumus]]. Ir iegūti vairāk nekā 80 ksenona savienojumi, galvenokārt ar [[fluors|fluoru]] un [[skābeklis|skābekli]], taču tie ir salīdzinoši nestabili.
+
+== Atsauces un piezīmes ==
+{{atsauces|refs=
+<ref name="Columbia">{{tīmekļa atsauce | url= http://www.infoplease.com/ce6/sci/A0852881.html | author= Staff | year= 2007 | title= Xenon | work= Columbia Electronic Encyclopedia | edition= 6th edition | publisher= Columbia University Press | accessdate= 2007. gada 23. oktobrī | language= angliski }}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso054.html | title= Isotopes of the Element Xenon | publisher= Jefferson Lab | accessdate= 2013. gada 12. septembrī | language= angliski}}</ref>
+<ref name="about.com">{{tīmekļa atsauce | url= http://chemistry.about.com/od/elementfacts/a/xenon.htm | title= Xenon Facts | publisher= Chemistry.About.com | accessdate= 2013. gada 12. septembrī | language= angliski | archive-date= 2013. gada 24. Maijs | archive-url= https://web.archive.org/web/20130524040119/http://chemistry.about.com/od/elementfacts/a/xenon.htm }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Cēlgāzes]]

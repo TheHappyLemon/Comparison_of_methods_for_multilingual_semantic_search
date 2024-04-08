@@ -1,0 +1,64 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Bonna
+ | official_name            = ''Bonn''
+ | settlement_type          = Pilsēta
+ | image_skyline            = BNRATHAU.jpg
+ | image_caption            = Bonnas vēsturiskais rātsnams
+ | image_seal               = 
+ | image_map                =
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 50px
+ | pushpin_map              = Vācija#Ziemeļreina-Vestfālene
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | image_flag                = Flagge der kreisfreien Stadt Bonn.svg
+ | image_shield             =DEU Bonn COA.svg
+| latd = 50 | latm = 44| lats = | latNS = N
+| longd = 7| longm = 06| longs = | longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_type1        = Federālā zeme
+ | subdivision_type2        = 
+ | subdivision_name         = {{flaga|Vācija}} [[Vācija]]
+ | subdivision_name1        = [[Ziemeļreina-Vestfālene]]
+ | elevation_m              = 60
+ | area_total_km2           = 141.22
+ | population_total         = 331885
+ | population_metro         = 11793829
+ | population_as_of         = 2021
+ | population_density_km2   = auto
+ | established_title        = Dibināta
+ | established_date         = 10.g p.m.ē.
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = 53111 - 53229
+ | website                  = {{URL|http://www.bonn.de/}}
+}}
+'''Bonna''' ({{val|de|Bonn}}) ir pilsēta [[Vācija]]s rietumos, [[Ziemeļreina - Vestfālene|Ziemeļreinas-Vestfālenes]] dienvidos, [[Reina]]s upes krastos ap 20 kilometru augšup no [[Ķelne]]s. No 1949. gada līdz 1990. gadam bija [[Vācija|Vācijas Federatīvās Republikas]] galvaspilsēta.
+
+Mobilo telefonu operatora ''[[T-Mobile]]'', Vācijas pasta ''[[Deutsche Post]]'' un masu mediju kompānijas ''[[Deutsche Welle]]'' galvenās mītnes vieta. [[Bonnas Universitāte]] ir viena no lielākajām Vācijā. Pilsētā arī atrodas 18 ANO institūcijas.<ref>{{Tīmekļa atsauce |url=http://www.bonn.de/wirtschaft_wissenschaft_internationales/uno-stadt/un_organisationen/index.html |title=Arhivēta kopija |access-date={{dat|2013|02|22||bez}} |archiveurl=https://web.archive.org/web/20130304230811/http://www.bonn.de/wirtschaft_wissenschaft_internationales/uno-stadt/un_organisationen/index.html |archivedate={{dat|2013|03|04||bez}} }}</ref> Bonna ir izveidota par starptautisku un nacionālu sanāksmju vietu.
+
+1770. gada 16. decembrī Bonnā ir dzimis vācu mūziķis [[Ludvigs van Bēthovens]].
+
+== Vēsture ==
+Pilsēta radās ap 10 gadu p. m. ē., kad [[Senā Roma|romieši]] pie apdzīvotās vieta Bonnas (''Bonna'') uzcēla tiltu pār Reinu. Pēc [[Teitoburgas meža kauja]]s šeit tika radīta liela leģionāru nometne. No 1288. līdz 1803. gadam Bonna bija [[Ķelne]]s arhibīskapu rezidence. 1794. gadā [[Francija|franči]] sagrāba pilsētu un tā kļuva par Francijas daļu. 1815. gadā tā iekļāvās [[Prūsija|Prūsijā]] un bija tās sastāvā līdz 1945. gadam. 1949. gadā tā kļuva par Vācijas Federatīvās republikas pagaidu galvaspilsētu. 1990. gadā [[Vācijas Demokrātiskā Republika|Vācijas Demokrātisko Republiku]] pievienoja VFR, un 1991. gada 20. jūnijā, pēc karstām debatēm, [[Bundestāgs]] nobalsoja par Vācijas galvaspilsētas pārcelšanu uz vēsturisko galvaspilsētu — [[Berlīne|Berlīni]], tomēr vēl aizvien vairākas ministrijas faktiski atrodas Bonnā.
+
+== Cilvēki ==
+Bonnā dzimuši:
+
+* [[Klauss Barbjē]] (''Klaus Barbie'', 1913—1991) — kara noziedznieks;
+* [[Ludvigs van Bēthovens]] (''Ludwig van Beethoven'', 1770—1827) — komponists;
+* [[Mozess Hess]] (''Moses Hess'', 1812-1875) — filozofs.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Vācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ziemeļreinas-Vestfālenes pilsētas]]
+[[Kategorija:Bijušās galvaspilsētas]]

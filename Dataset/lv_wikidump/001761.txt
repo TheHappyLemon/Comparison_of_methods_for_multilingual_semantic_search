@@ -1,0 +1,59 @@
+{{Apdzīvotas vietas infokaste
+| name = Tauraģe
+| image_skyline =Tauragespilis.jpg
+| imagesize = 300px
+| image_caption = Tauraģes pils
+| image_flag = Flag of Taurage.svg
+| image_shield = Taurage COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Tauraģes rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1932
+| area_total_km2 = 16.7
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 22018
+| population_density_km2 = auto
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 55
+| latm = 15 
+| lats = 10 
+| latNS = N 
+| longd = 22 
+| longm = 17 
+| longs = 30
+| longEW = E
+| elevation_m = 33
+| website = http://www.taurage.lt/}}
+
+'''Tauraģe''' ({{val-lt|Tauragė}}) ir pilsēta un [[Tauraģes rajona pašvaldība|pašvaldības]] centrs Lietuvas rietumu daļā. 
+
+Pilsēta ir izvietojusies [[Jūra (upe)|Jūras]] upes krastos. 2005. gadā tajā dzīvoja 28 504 iedzīvotāju. Pilsētas tiesības ieguvusi 1932. gadā. Tauraģē atrodas [[Radzivili|Radzivilu]] pils, reģionālais muzejs "Santaka", vairākas veclaicīgas baznīcas. Pilsētā darbojas [[keramika]]s ražotne.
+
+== Vēsture ==
+Rakstos pirmoreiz minēta 1499. gadā. No 1655. gada - Radzivilu rezidences pilsēta un Lietuvas [[luterticība]]s centrs. No 1691. līdz 1795. gadam Tauraģe atradās [[Austrumprūsija]]s sastāvā, pēc [[Polijas dalīšanas]] to anektēja [[Krievijas impērija|Krievijas impērija]]. 
+1807. gada 21. jūnijā Krievijas ķeizars [[Aleksandrs I]] kādās dzirnavās pie Tauraģes parakstīja uguns pārtraukšanas vienošanos ar [[Napoleons|Napoleonu]], kam drīz sekoja [[Tilzītes miera līgumi]].  
+
+1812. gada 30. decembrī pilsētā tika noslēgta [[Tauraģes konvencija]], kuras rezultātā Prūsijas karaspēks kļuva par Krievijas sabiedroto pret [[Napoleons|Napoleonu]]. 1843. gadā pilsētā uzturējās [[Onorē de Balzaks]]. 1915. gadā cauri tai uzbūvēta [[dzelzceļa līnija Jelgava—Šauļi—Tilzīte]].
+No 1920. gada Tauraģe ir Lietuvas Republikas sastāvā. 1927. gada 9. septembrī pilsētā notika nemieri pret [[Antans Smetona|Antana Smetonas]] režīmu. Pēc [[Lietuvas okupācija (1940)|Lietuvas okupācija]]s 1940. gadā Tauraģes pils bija lietuviešu pretošanās kustības un poļu karagūstekņu ieslodzījuma vieta.
+
+== Sports ==
+* [[FK Tauras Tauragė|Tauras]] — [[futbols|futbola]] klubs.
+* Centrālais stadions.
+
+== Ārējās saites ==
+* {{commonscat-inline|Tauragė|Tauraģe}}
+
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+[[Kategorija:Lietuvas pilsētas]]

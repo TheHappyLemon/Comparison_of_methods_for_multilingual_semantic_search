@@ -1,0 +1,43 @@
+[[Attēls:Möbius strip.jpg|thumb|240px|[[Mēbiusa lente]] ir [[virsma]], kam ir tikai viena puse un viena mala. Tas ir viens no objektiem, ko pēta topoloģijā.]]
+
+'''Topoloģija''' ({{val-el|τοπολογία}}, τόπος — vieta; λόγος — mācība) ir [[matemātika]]s apakšnozare, kas vispārīgi definē jēdzienu "nepārtrauktība" un pēta [[nepārtraukta funkcija|nepārtrauktus attēlojumus]] jeb '''homeomorfismus''' un [[homotopija|nepārtrauktas figūru deformācijas]] jeb '''homotopijas'''. [[Homeomorfisms]] ir attēlojums, kas ir nepārtraukts, [[bijekcija|bijektīvs]] un kura [[inversais attēlojums]] arī ir nepārtraukts. Tā piemēram, jebkura [[elipse]] ir homeomorfa jebkuram [[riņķis|riņķim]], bet nav homeomorfa [[nogrieznis|nogrieznim]]. [[Lode]] ir homeomorfa [[kubs|kubam]], bet nav homeomorfa [[Tors (ģeometrija)|toram]] utt. [[Topoloģiska telpa]] ir galvenā matemātiskā struktūra, kas tiek pētīta topoloģijā.
+
+[[Attēls:Mug and Torus morph.gif|thumb|right|240px|Nepārtraukta deformācija jeb [[homotopija]], kas kafijas krūzi pārveido par virtuli ([[Tors (ģeometrija)|toru]]) un atpakaļ.]]
+
+Galvenās topoloģijas apakšnozares ir
+* [[vispārīgā topoloģija]],
+* [[algebriskā topoloģija]],
+* [[diferenciālā topoloģija]].
+
+Vārdam "topoloģija" ir vēl viena nozīme — tā ir viena no [[topoloģiska telpa|topoloģiskas telpas]] sastāvdaļām. Topoloģija ir kādas kopas ''X'' apakškopu sistēma ''T'' tāda, ka:
+# ''X'' un [[tukšā kopa]] pieder ''T'';
+# Ja kopas ''A'' un ''B'' pieder ''T'', tad arī šo kopu [[šķēlums (kopu teorija)|šķēlums]] pieder ''T'';
+# Ja divas vai vairāk kopas pieder ''T'', tad to [[apvienojums (kopu teorija)|apvienojums]] pieder ''T''.
+Tas nozīmē, ka kopu saime ''T'' ir noslēgta pret šķelšanu ''galīgā'' skaitā un apvienošanu ''[[bezgalība|bezgalīgā]]'' skaitā.
+
+== Skatīt arī ==
+
+* [[Topoloģiska telpa]]
+* [[Kompakta kopa]]
+* [[Mēbiusa lente]]
+* [[Kleina pudele]]
+
+== Papildu literatūra ==
+
+* {{Atsauce | first=James | last=Munkres | title=Topology | edition=2nd | publisher=Prentice Hall | isbn = 0-13-181629-2 | year=1999}}.
+* {{Atsauce | first=John L. | last=Kelley | title=General Topology | publisher=Springer-Verlag | isbn = 0-387-90125-6 | year=1975}}.
+* {{Atsauce | first=Clifford A. | last=Pickover | title=The Möbius Strip: Dr. August Möbius's Marvelous Band in Mathematics, Games, Literature, Art, Technology, and Cosmology | publisher=Thunder's Mouth Press | isbn=1-56025-826-8 | year=2006}}.
+* {{Atsauce | first=David S. | last=Richeson | title=Euler's Gem: The Polyhedron Formula and the Birth of Topology | publisher=Princeton University Press | isbn=9780691126777 | year=2008}}.
+
+== Ārējās saites ==
+
+{{commons|Topology|Topoloģija}}
+* [http://en.wikibooks.org/wiki/Topology Topology], bezmaksas mācību grāmata, Wikibooks.
+* Sidney A. Morris, [https://web.archive.org/web/20090923182511/http://uob-community.ballarat.edu.au/~smorris/topbook.pdf Topology Without Tears], bezmaksas mācību grāmata.
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Topology.html Topology], MathWorld.
+
+{{Matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Topoloģija]]

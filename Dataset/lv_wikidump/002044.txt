@@ -1,0 +1,60 @@
+{{Elementa infokaste
+|                 tips = cēlgāze
+|      kārtas skaitlis = 86
+|             7. čaula =
+|             6. čaula = 8
+|             5. čaula = 18
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Rn
+|             atommasa = [222]
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>6p<sup>6</sup>
+|       tabulas attēls = [[Attēls:Rn-TableImage.svg|250px]]
+|               attēls = [[Attēls:Radon test kit.jpg|200px]]<br />Radona noteikšanas komplekts
+|  oksidēšanas pakāpes = +2, 0
+|  elektronegativitāte = 2,2
+|              blīvums = 9,73 
+|  kušanas temperatūra = 202 K (-71&nbsp;°C)
+| viršanas temperatūra = 211,3 K (-61,7&nbsp;°C)
+}}
+
+'''Radons''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Rn''' un [[atomskaitlis|atomskaitli]] 86. Radons ir smaga, [[radioaktivitāte|radioaktīva]] un bezkrāsaina [[cēlgāzes|cēlgāze]]. Tas veidojas dažādu radioaktīvo elementu (tai skaitā [[rādijs|rādija]]) [[radioaktīvā sabrukšana|radioaktīvās sabrukšanas]] procesā. Radons ir ķīmiski inerts un galvenie pielietojumi ir saistīti ar tā radioaktivitāti. Stabilākais radona [[izotops]] ir <sup>222</sup>Rn ar [[pussabrukšanas periods|pussabrukšanas periodu]] 3,82 [[diennakts|diennaktis]].
+
+== Vēsture ==
+Radonu 1900. gadā atklāja vācu fiziķis [[Frīdrihs Ernsts Dorns]] (''Friedrich Ernst Dorn''). Tas bija piektais atklātais radioaktīvais elements pēc [[urāns (elements)|urāna]], [[torijs|torija]], [[polonijs|polonija]] un [[rādijs|rādija]] atklāšanas. Tas sākotnēji bija zināms kā rādija emanācija (simbols: Ra Em) vai vienkārši emanācija (Em). 1908. gadā skotu ķīmiķis [[Viljams Remzijs]] un angļu ķīmiķis [[Roberts Vitlovs-Grejs]] (''Robert Whytlaw-Gray'') radonu pirmo reizi ieguva tīrā veidā.<ref name="lanl"/> Remzijs un viņa kolēģis ieteica elementu saukt par nitonu.<ref name="lanl"/> Par radonu tas tika nosaukts 1923. gadā. Nosaukums ir atvasināts no [[rādijs|rādija]] nosaukuma.
+
+== Atrašanās dabā ==
+Dabā radons ir sastopams kā radioaktīvās sabrukšanas produkts urāna–238, urāna–235 un torija–232 izotopu sabrukšanas procesos. [[Zemes garoza|Zemes garozā]] tā daudzums tiek lēsts aptuveni 7{{E|-16}}% no kopējās masas. Sastopams arī dažādos ūdeņos, piemēram, [[karstie avoti|karstajos avotos]], kā arī [[Zemes atmosfēra|Zemes atmosfērā]]. Vidēja gaisā ir viena radona daļiņa uz 1{{E|21}} daļiņām.<ref name="lanl"/>
+
+=== Izotopi ===
+Radonam nav stabilu [[izotops|izotopu]]. Ir zināmi 36 dažādi radona izotopi, kuru [[atommasa]]s ir no 193 līdz 231.<ref name="jlab"/> Visstabilākais izotops ir radons–222, kura [[pussabrukšanas periods]] ir 3,82 [[diennakts|diennaktis]]. Ir vēl trīs radona izotopi, kuru pussabrukšanas periods ir lielāks par [[stunda|stundu]]. Tie ir radons–210, radons–211 un radons–224.
+
+== Iegūšana ==
+{{nepilnīga nodaļa}}
+
+== Fizikālās īpašības ==
+Radons ir radioaktīva vienatoma gāze bez krāsas un smaržas. [[Normāli apstākļi|Normālos apstākļos]] tā [[blīvums]] ir 9,73 kg/m³. Līdz ar to tā ir viena no smagākajām gāzēm. Salīdzinot ar [[Zemes atmosfēra]]s blīvumu jūras līmenī, tā blīvums ir aptuveni 8 reizes lielāks. Radons sašķidrinās -61,7 °C lielā temperatūrā, savukārt sacietē -71 °C temperatūrā. Zemās temperatūrās radons rada [[luminiscence|luminiscenci]].
+
+== Ķīmiskās īpašības ==
+Radons ir [[cēlgāze]], kas norāda uz to, ka tā ir ķīmiski neaktīva viela. Tomēr no visām cēlgāzēm radons ir visaktīvākais elements. Augstās temperatūrās radons savienojas ar [[fluors|fluoru]], veidojot RnF<sub>n</sub>, kur n ir 4, 6 vai 2.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/86.shtml | title= Radon | publisher= Los Alamos National Laboratory | accessdate= 2013. gada 6. augustā | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso086.html | title= Isotopes of the Element Radon | publisher= Jefferson Lab | accessdate= 2013. gada 6. augustā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Cēlgāzes]]

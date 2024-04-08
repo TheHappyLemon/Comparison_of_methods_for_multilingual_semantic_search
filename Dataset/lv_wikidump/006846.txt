@@ -1,0 +1,531 @@
+{{Hokejista infokaste v2
+ |           vārds = Jēkabs Rēdlihs
+ |      vārds_orig = 
+ |          attēls = Jēkabs Rēdlihs.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1982|3|29}}
+ |         dz_viet = {{Vieta|PSRS|Latvijas PSR|Rīga}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          garums = 185 [[centimetrs|cm]]
+ |           svars = 86 [[kilograms|kg]]
+ |         iesauka = 
+ |             poz = [[Aizsargs (hokejs)|Aizsargs]]
+ |        tvēriens = Kreisais
+ |         kar_sāk = 2000
+ |        kar_beig = 
+ |       izglītība = [[Bostonas Universitāte]]
+<!------ Kluba informācija ------>
+ |             kom = {{flaga|Latvija}} [[HK Kurbads]]
+ |          numurs = 14
+ |           amats = 
+ |            līga = [[Latvijas čempionāts hokejā]]
+<!------ Drafts ------>
+ |          drafts = 119., 4. kārta
+ |         dr_gads = [[2002. gada NHL drafts|2002]]
+ |         dr_līga = [[Nacionālā hokeja līga|NHL]]
+ |          dr_kom = [[Kolumbusas "Blue Jackets"]]
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 2008—2017
+ |          taut 1 = {{ih|LAT}}
+<!------ Trenera karjera ------>
+ |  tr_klubs_sez 1 = 2017.—2018
+ |      tr_klubs 1 = [[HK Lido]] ([[Junioru attīstības hokeja līga|JAHL]])
+ |  tr_klubs_sez 2 = 
+ |      tr_klubs 2 = 
+<!------ Papildinformācija ------>
+ |            balv = 
+ |           slavz = 
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = {{dat|2020|1|30}}
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Jēkabs Rēdlihs''' (dzimis {{dat|1982|3|29}} [[Rīga|Rīgā]]) ir  [[latvieši|latviešu]] [[hokejists]], [[aizsargs (hokejs)|aizsargs]], bijušais [[Latvijas hokeja izlase]]s dalībnieks. Karjeras lielāko daļu aizvadījis Eiropas spēcīgākajās hokeja līgās, sešas sezonas spēlējot arī [[KHL|Kontinentālās hokeja līgas]] vienības [[Rīgas "Dinamo"]] sastāvā. [[Latvijas hokeja izlase]]s rindās spēlējis četros [[Pasaules čempionāts hokejā|Pasaules čempionātos]].
+
+Pašlaik (2020) pārstāv [[Latvijas čempionāts hokejā|Latvijas čempionāta vienību]] [[HK Kurbads]]..
+
+Viņam ir trīs brāļi, no kuriem divi ir pazīstami hokejisti: [[Miķelis Rēdlihs]] un [[Krišjānis Rēdlihs]].
+
+== Karjera ==
+[[2002. gada NHL drafts|2002. gada NHL draftā]] viņu izraudzījās [[Kolumbusas "Blue Jackets"]] klubs ceturtajā kārtā ar kopējo 119. kārtas numuru. Taču viņš nespēlēja Nacionālajā hokeja līgā, bet pārstāvēja [[Bostonas Universitāte]]s hokeja komandu. 2006. gada 30. martā J. Rēdlihs parakstīja līgumu ar "Blue Jackets" [[Amerikas hokeja līga|AHL]] fārmklubu [[Sirakjūzas "Crunch"]]. 2006. gada vasarā viņš tika uzaicināts uz [[Nacionālā hokeja līga|NHL]] kluba "Blue Jackets" pirmssezonas treņinnometni, taču vīzu problēmu dēļ viņam uz [[Amerikas Savienotās Valstis|ASV]] neizdevās aizbraukt. 2009. gada 17. jūlijā hokejists parakstīja divu gadu līgumu ar [[Rīgas "Dinamo"]]. Pēc [[2012-13 KHL sezona|2012.—13. gada KHL sezonas]] līgums ar aizsargu pagarināts netika.
+
+2013.—14. gada sezonas sākumā uz pārbaudes laiku pievienojās [[Zviedrijas hokeja līga]]s klubam [[MODO Hockey]], taču tā sastāvā nenostiprinājās. [[14. novembris|14. novembrī]] noslēdza līgumu ar Rīgas "Dinamo" līdz sezonas beigām. Turpmākās divas sezonas spēlēja [[Čehijas Ekstralīga]]s vienībās ''[[HC Karlovy Vary]]'' un ''[[Piráti Chomutov]]'', taču tad atgriezās [[Rīgas "Dinamo"]] sastāvā. 2017. gada vasarā paziņoja par karjeras beigšanu, un septembra ievadā pievienojās [[Latvijas čempionāts hokejā|Latvijas čempionāta]] vienībai [[HK Kurbads]]. Kopā ar komandu kļuva par [[2018]]. gada [[Latvija]]s čempionu.
+
+[[Latvijas hokeja izlase|Latvijas izlases]] J.Rēdlihs debitēja [[2008. gada Pasaules čempionāts hokejā|2008. gada Pasaules čempionātā]]. Kopumā spēlējis četros Pasaules čempionātos. Junioru vecumā viņš piedalījies 1999. gada Eiropas junioru čempionātā, 2000. gada [[Pasaules čempionāts hokejā|Pasaules čempionātā]] U-18 un 2002. gada Pasaules čempionātā junioriem.
+
+== Karjeras statistika ==
+{| border="0" cellpadding="3" cellspacing="0" style="text-align:center"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff" | &nbsp;
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Regulārā sezona
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Izslēgšanas spēles
+|- bgcolor="#e0e0e0"
+! Sezona !! Klubs !! Līga !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}} !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}}
+|- 
+| 1999—2000
+| [[HK Liepājas Metalurgs]]
+| [[EEHL]]
+| 11
+| 0
+| 0
+| 0
+| 2
+| —
+| —
+| —
+| —
+| —
+|- 
+| 1999—2000
+| [[Essamika/Juniors]]
+| EEHL B
+| 16
+| 1
+| 4
+| 5
+| 6
+| —
+| —
+| —
+| —
+| —
+|- 
+| 1999—2000
+| Essamika/Juniors
+| [[Latvijas čempionāts hokejā|Latvija]]
+| 14
+| 2
+| 3
+| 5
+| 10
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2000—01
+| HK Liepājas Metalurgs
+| EEHL
+| 31
+| 1
+| 3
+| 4
+| 
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2000—01
+| HK Liepājas Metalurgs
+| Latvija
+| 23
+| 4
+| 5
+| 9
+| 
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2001—02
+| [[New York Applecore]]
+| [[EJHL]]
+| 86
+| 12
+| 26
+| 38
+| 69
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2002—03
+| [[Bostonas Universitāte]]
+| [[NCAA]]
+| 40
+| 4
+| 12
+| 16
+| 12
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2003—04
+| Bostonas Universitāte
+| NCAA
+| 23
+| 2
+| 4
+| 6
+| 53
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2004—05
+| Bostonas Universitāte
+| NCAA
+| 40
+| 1
+| 0
+| 1
+| 32
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2005—06
+| Bostonas Universitāte
+| NCAA
+| 27
+| 1 
+| 5
+| 6
+| 34
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2005—06
+| [[Sirakjūsas "Crunch"]]
+| [[Amerikas hokeja līga|AHL]]
+| 4
+| 0
+| 0
+| 0
+| 6
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2006—07
+| Sirakjūsas "Crunch"
+| AHL
+| 46
+| 3
+| 9
+| 12
+| 42
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2006—07
+| [[Deitonas "Bombers"]]
+| [[ECHL]]
+| 7
+| 0
+| 1
+| 1
+| 4
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2006—07
+| [[HK Rīga 2000]]
+| Latvija
+| 4
+| 2
+| 1
+| 3
+| 6
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2007—08
+| Sirakjūsas "Crunch"
+| AHL
+| 13
+| 1
+| 2
+| 3
+| 10
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2007—08
+| [[Elmīras "Jackals"]]
+| ECHL
+| 21
+| 0
+| 4
+| 4
+| 21
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2007—08
+| [[HC Plzeň 1929|HC Plzeň]]
+| [[Čehijas Ekstralīga|Čehija]]
+| 13
+| 1
+| 2
+| 3
+| 14
+| 4
+| 0
+| 0
+| 0
+| 2
+|- bgcolor="#f0f0f0"
+| 2008—09
+| HC Plzeň
+| Čehija
+| 41
+| 3
+| 2
+| 5
+| 49
+| 12
+| 0
+| 1
+| 1
+| 37
+|- 
+| 2009—10
+| [[Rīgas "Dinamo"]]
+| [[Kontinentālā hokeja līga|KHL]]
+| 35
+| 1
+| 2
+| 3
+| 86
+| 7
+| 0
+| 1
+| 1
+| 10
+|- 
+| 2009—10
+| [[Rīgas "Dinamo-Juniors"]]
+| [[Baltkrievijas Ekstralīga|Baltkrievija]]
+| 3
+| 0
+| 0
+| 0
+| 6
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2010—11
+| Rīgas "Dinamo"
+| KHL
+| 47
+| 0
+| 5
+| 5
+| 58
+| 8
+| 0
+| 1
+| 1
+| 10
+|- 
+| 2011—12
+| Rīgas "Dinamo"
+| KHL
+| 46
+| 2
+| 1
+| 3
+| 35
+| 6
+| 1
+| 1
+| 2
+| 8
+|- bgcolor="#f0f0f0"
+| 2012—13
+| Rīgas "Dinamo"
+| KHL
+| 24
+| 2
+| 1
+| 3
+| 33
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2012—13
+| HK Liepājas Metalurgs
+| Baltkrievija
+| 3
+| 0
+| 0
+| 0
+| 4
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2013—14
+| [[MODO Hockey]]
+| [[Zviedrijas hokeja līga|Zviedrija]]
+| 4
+| 0
+| 0
+| 0
+| 2
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2013—14
+| Rīgas "Dinamo"
+| KHL
+| 12
+| 0
+| 0
+| 0
+| 10
+| 7
+| 0
+| 0
+| 0
+| 4
+|- bgcolor="#f0f0f0"
+| 2014—15
+| [[HC Karlovy Vary]]
+| Čehija
+| 50
+| 1
+| 7
+| 8
+| 69
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2015—16
+| [[HC Piráti Chomutov]]
+| Čehija
+| 11
+| 0
+| 1
+| 1
+| 6
+| —
+| —
+| —
+| —
+| —
+|- 
+| 2015—16
+| HC Karlovy Vary
+| Čehija
+| 21
+| 0
+| 2
+| 2
+| 14
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#f0f0f0"
+| 2016—17
+| Rīgas "Dinamo"
+| KHL
+| 33
+| 0
+| 4
+| 4
+| 34
+| —
+| —
+| —
+| —
+| —
+|- bgcolor="#e0e0e0" 
+! colspan="3" | Kopā KHL
+! 197
+! 5
+! 13
+! 18
+! 245
+! 28
+! 1
+! 3
+! 4
+! 32
+|}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+* [http://www.dinamoriga.eu/lv/players/view/jekabs-redlihs Rīgas "Dinamo" profils] {{Webarchive|url=https://web.archive.org/web/20101120103322/http://dinamoriga.eu/lv/players/view/jekabs-redlihs |date={{dat|2010|11|20||bez}} }}
+* [https://web.archive.org/web/20100518170306/http://statistika.lhf.lv/lv/nationalteam/103/players/6528/ Latvijas Hokeja federācijas profils]
+
+
+{{Latvijas hokejists-aizmetnis}}
+{{Rīgas "Dinamo" sastāvs}}
+{{Navboxes
+| title      = Latvijas izlase
+| titlestyle = background:maroon; color:white;
+| list       = 
+{{LV sastāvs PČH 2014}}
+{{LV sastāvs PČH 2011}}
+{{LV sastāvs PČH 2010}}
+{{LV sastāvs PČH 2008}}
+}}
+{{DEFAULTSORT:Redlihs, Jekabs}}
+[[Kategorija:1982. gadā dzimušie]]
+[[Kategorija:Rīgā dzimušie]]
+[[Kategorija:Latvijas hokejisti]]
+[[Kategorija:HK Ogres "Essamika" spēlētāji]]
+[[Kategorija:HK Liepājas Metalurga spēlētāji]]
+[[Kategorija:Rīgas "Dinamo" spēlētāji]]
+[[Kategorija:HK Rīgas 2000 spēlētāji]]

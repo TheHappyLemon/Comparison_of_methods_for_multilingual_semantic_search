@@ -1,0 +1,62 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 95
+|             7. čaula = 2
+|             6. čaula = 8
+|             5. čaula = 25
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Am
+|             atommasa = [243]
+|   valences elektroni = [Rn]5f<sup>7</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Am-TableImage.svg|250px]]
+|               attēls = [[Attēls:Americium microscope.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;<br />Amerīcija paraugs [[mikroskops|mikroskopā]]
+|  oksidēšanas pakāpes = +2, '''+3''', +4, +5, +6
+|  elektronegativitāte = 1,3
+|              blīvums = 12 000
+|  kušanas temperatūra = 1449 K (1176&nbsp;°C)
+| viršanas temperatūra = 2880 K (2607&nbsp;°C)
+}}
+
+'''Amerīcijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Am''' un [[atomskaitlis|atomskaitli]] 95. Tas ir [[aktinīdi|aktinīdu]] saimes elements. Amerīcijs ir sudrabbalts, [[radioaktivitāte|radioaktīvs]] [[metāli|metāls]]. To iegūst, bombardējot [[plutonijs|plutoniju]] ar [[neitrons|neitroniem]]. Amerīciju lieto par [[radiācija]]s avotu [[dūmu detektors|dūmu detektoros]]. Savienojumos amerīcijam visvairāk mēdz būt oksidēšanas pakāpes +3 un +4 (mazāk izplatīta).
+
+== Vēsture ==
+Amerīciju 1944. gada rudenī ieguva [[Kalifornijas Universitāte (Bērkli)|Kalifornijas Universitātes]] amerikāņu zinātnieki [[Glens T. Sīborgs]] (''Glenn T. Seaborg''), [[Leons O. Morgans]] (''Leon O. Morgan''), [[Ralfs A. Džeimss]] (''Ralph A. James'') un [[Alberts Giorso]] (''Albert Ghiorso''). Viņi ieguva izotopu amerīciju–141, ar [[neitrons|neitroniem]] apstarojot [[plutonijs|plutoniju]].
+
+:<math>\mathrm{^{239}_{\ 94}Pu\ \xrightarrow {(n,\gamma)} \ ^{240}_{\ 94}Pu\ \xrightarrow {(n,\gamma)} \ ^{241}_{\ 94}Pu\ \xrightarrow [14.35 \ yr]{\beta^-} \ ^{241}_{\ 95}Am\ \left(\ \xrightarrow [432.2 \ yr]{\alpha} \ ^{237}_{\ 93}Np \right)}</math>
+
+Kalifornijas zinātnieku atklājums tika paturēts noslēpumā, un atklātībā tas tika paziņots 1945. gada novembrī. Amerīcija nosaukums ir saistīts ar [[Amerika|Ameriku]]. [[Lantanīdi|Lantanīdu]] saimē tieši paralēli tam atrodas [[eiropijs]], kas ieguva nosaukumu no [[Eiropa]]s.
+
+== Atrašanās dabā ==
+Amerīcijs dabā nav sastopams. Tas ir mākslīgi iegūts ķīmiskais elements.
+
+=== Izotopi ===
+Amerīcijam ir 18 [[izotops|izotopi]], no kuriem stabilākie ir Am-243 un Am-241 ar [[pussabrukšanas periods|pussabrukšanas periodiem]] attiecīgi 7370 un 432,2 gadi.<ref name="jlab"/> Citu izotpu [[masas skaitlis]] ir no 230 līdz 249.<ref name="jlab"/>
+
+== Fizikālās īpašības ==
+Amerīcijs ir smags, sudrabbalts un ļoti mīksts metāls, kas ir sastopams divu veidu modifikācijās.
+
+Amerīcija [[atommasa]] ir [243] g/mol, tā [[blīvums]] ir aptuveni {{nobr|12 000}} kg/m<sup>3</sup>. Amerīcija [[kušanas temperatūra]] ir 1176 °C, savukārt [[viršanas temperatūra]] ir 2607 °C. Standarta [[elektrodpotenciāls]] (Am/Am<sup>+3</sup>) ir –2,320 V.
+
+== Ķīmiskās īpašības ==
+Ķīmiskās īpašības ir līdzīgas [[plutonijs|plutonija]] īpašībām. Ir zināmi divi amerīcija [[oksīdi]]: amerīcija(III) oksīds (Am<sub>2</sub>O<sub>3</sub>) un amerīcija(IV) oksīds (AmO<sub>2</sub>). Praktiski izmanto galvenokārt tikai amerīcija(IV) oksīdu.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso095.html | title= Isotopes of the Element Americium | publisher= Jefferson Lab | accessdate= 2014. gada 21. maijā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

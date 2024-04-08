@@ -1,0 +1,73 @@
+{{Infobox
+| bodyclass  = vcard plainlist
+| bodystyle  = width:304px; background-color: #FFFEFB;
+| labelstyle = border-top: 1px solid dimgray; background-color: #FDF9F5;
+| datastyle = border-top: 1px solid dimgray
+| abovestyle = font-size: 120%; background-color: #E9E5DF; border-top: 2px solid #CCC5BE; border-bottom: 2px solid #CCC5BE;
+| headerstyle = font-size: 110%; background-color: #E9E5DF; border-top: 2px solid #CCC5BE; border-bottom: 2px solid #CCC5BE;
+
+| above      = {{ifempty|{{{minerāls|}}}|{{PAGENAME}}}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{attēls|}}}|size={{{att_izmērs|}}}|sizedefault=220px|title={{ifempty|{{{att_paraksts|}}}|{{{minerāls|}}}|{{PAGENAME}}}}}}
+| caption = {{{att_paraksts|}}}
+
+| header1    = {{#if:{{{klase|}}}{{{ŠtruncaID|}}}{{{DanasID|}}}{{{ķīm_formula|}}}{{{singonija|}}}|Klasifikācija}}
+
+| label2     = [[minerālu klase|Klase]]
+| data2      = {{{klase|}}}
+
+| label3     = [[Štrunca minerālu klasifikācijas sistēma|Štrunca ID]]
+| data3      = {{{ŠtruncaID|}}}
+
+| label4     = [[Jaunā Danas minerālu klasifikācijas sistēma|Danas ID]]
+| data4      = {{{DanasID|}}}
+
+| label5     = [[Ķīmiskā formula]]
+| data5      = {{{ķīm_formula|}}}
+
+| label6     = [[Singonija]]
+| data6      = {{{singonija|}}}
+
+| header7    = {{#if:{{{krāsa|}}}{{{svītra|}}}{{{habituss|}}}{{{skaldnība|}}}{{{lūzums|}}}{{{cietība|}}}{{{spīdums|}}}{{{caurspīdīgums|}}}{{{laušanas_koef|}}}{{{pleohroisms|}}}{{{blīvums|}}}|Īpašības}}
+
+| label8     = Krāsa
+| data8      = {{{krāsa|}}}
+
+| label9     = [[svītra (mineraloģija)|Svītras krāsa]]
+| data9      = {{{svītra|}}}
+
+| label10     = [[Habituss]]
+| data10      = {{{habituss|}}}
+
+| label11    = [[Skaldnība]]
+| data11     = {{{skaldnība|}}}
+
+| label12    = [[lūzums (mineraloģija)|Lūzums]]
+| data12     = {{{lūzums|}}}
+
+| label13    = [[Cietība]] pēc [[Mosa skala|Mosa skalas]]
+| data13     = {{{cietība|}}}
+
+| label14    = [[spīdums (mineraloģija)|Spīdums]]
+| data14     = {{{spīdums|}}}
+
+| label15    = [[caurspīdīgums (optika)|Caurspīdīgums]]
+| data15     = {{{caurspīdīgums|}}}
+
+| label16    = [[laušanas koeficients|Laušanas koeficients]]
+| data16     = {{{laušanas_koef|}}}
+
+| label17    = [[Pleohroisms]]
+| data17     = {{{pleohroisms|}}}
+
+| label18    = [[Blīvums]]
+| data18     = {{#if:{{{blīvums|}}}|{{{blīvums|}}} g/cm<sup>3</sup>}}
+}}<noinclude>
+{{dokumentācija}}<!--
+	Lūdzam kategorijas pievienot /doc apakšlapā
+	un starpvikipēdiju saites — Vikidatos
+	----
+	Categories go on the /doc subpage,
+	and interwikis go on Wikidata
+ -->
+</noinclude>

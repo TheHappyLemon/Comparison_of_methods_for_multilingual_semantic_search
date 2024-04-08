@@ -1,0 +1,56 @@
+{{Elementa infokaste
+|                 tips = amfotērais metāls
+|      kārtas skaitlis = 49
+|             5. čaula = 3
+|             4. čaula = 18
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = In
+|             atommasa = 114,818
+|   valences elektroni = [Kr]4d<sup>10</sup>5s<sup>2</sup>5p<sup>1</sup>
+|       tabulas attēls = [[Attēls:In-TableImage.png|250px]]
+|               attēls = [[Attēls:Indium.jpg|220px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Liquid-indium.jpg|165px]]<br />Tīra indija klucīši un izkausēts indijs
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,78
+|              blīvums = 7310
+|  kušanas temperatūra = 429,7485 K (156,5985&nbsp;°C)
+| viršanas temperatūra = 2345 K (2072&nbsp;°C)
+}}
+
+'''Indijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''In''' un [[atomskaitlis|atomskaitli]] 49. Tas ir [[13. grupas elementi|13. (agrāk IIIB)]] (bora—alumīnija) grupas elements. Indijs dabā galvenokārt ir sastopams kā piemaisījums [[cinks|cinka]] rūdām. Indijs ir samērā mīksts [[metāls]]. To galvenokārt lieto viegli kūstošiem [[sakausējums|sakausējumiem]] (sakausējums ar [[gallijs|galliju]] normālos apstākļos ir šķidrums, turklāt tas ir mazāk toksisks par [[dzīvsudrabs|dzīvsudrabu]]). Indijam savienojumos parasti ir oksidēšanas pakāpe +3.
+
+== Vēsture ==
+Indiju 1863. gadā atklāja vācu ķīmiķi [[Ferdinands Reihs]] (''Ferdinand Reich'') un [[Hieronīms Teodors Rihters]] (''Hieronymous Theodor Richter''). Elementa nosaukums ir radies no tā [[spektrāllīnija|spektrāllīniju]] krāsas. Šī krāsa ir [[indigo krāsa|indigo]] zila. No grieķu valodas ''indikon'' nozīmē ‘zilā krāsa’.
+
+== Atrašanās dabā ==
+[[Zemes garoza|Zemes garozā]] indijs ir ļoti reti sastopams ķīmiskais elements. Tā koncentrācija ir aptuveni 49 daļiņas no miljarda. Galvenokārt ir sastopams kā piemaisījums [[cinks|cinka]] rūdām.
+
+=== Izotopi ===
+Dabā ir sastopami divi indija [[izotops|izotopi]]: radioaktīvais <sup>115</sup>In (95,71% no kopējā daudzuma) un stabilais <sup>113</sup>In (4,29%).<ref name="jlab"/> Mākslīgi ir iegūti vēl 37 [[radioizotops|radioizotopi]], kuru [[masas skaitlis]] ir no 97 līdz 135.
+
+== Fizikālās īpašības ==
+Indijas ir sudrabbalts, ļoti mīksts metāls, kuru var sagriezt ar [[nazis|nazi]]. Tā [[kristāliskā struktūra]] ir [[tetragonālā singonija]].
+
+Indijas [[atommasa]] ir 114,818 g/mol, [[cietība]] pēc [[Mosa skala]]s ir 1,2, bet [[blīvums]] ir 7310 kg/m³. Indija [[kušanas temperatūra]] ir 156,5985 °C, bet [[viršanas temperatūra]] ir 2072 °C. [[Īpatnējā pretestība]] ir 83,7 nΩ·m (8,37{{E|-8}} Ωm). Standarta [[elektrodpotenciāls]] (In/In<sup>+3</sup>) ir −0,338 V.
+
+== Ķīmiskās īpašības ==
+Ķīmiskās īpašības ir ļoti līdzīgas [[gallijs|gallija]] īpašībām. Lai gan indija [[oksidēšanas pakāpe]] visbiežāk ir +3, tas [[normāli apstākļi|normālos apstākļos]] ir stabils gan [[gaiss|gaisā]], gan [[ūdens|ūdenī]]. Ar [[skābeklis|skābekli]] tas oksidējas tikai karsējot (veidojas [[indija oksīds]] In<sub>2</sub>O<sub>3</sub>). Indijs veido indija [[sāļi|sāļu]] šķīdumus tikai ar spēcīgām [[skābe|skābēm]], bet nereaģē ar [[sārmi]]em.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso049.html | title= Isotopes of the Element Indium | publisher= Jefferson Lab | accessdate= 2014. gada 17. maijā | language= angliski | archiveurl= https://web.archive.org/web/20131205210041/http://education.jlab.org/itselemental/iso049.html | archivedate= {{dat|2013|12|05||bez}} }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Metāli]]

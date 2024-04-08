@@ -1,0 +1,56 @@
+[[Attēls:Conicas1.PNG|right|thumb|Elipse iegūta kā [[konusa šķēlums]] ar plakni]]
+[[Attēls:Elipse.svg|thumb|right|300px|Elipse]]
+'''Elipse''' ({{val|el|ελλειφις}} — ‘trūkums’) ir [[plakne]]s [[līnija]], kuras jebkura [[Punkts (ģeometrija)|punkta]] attālumu līdz diviem fiksētiem punktiem [[summa]] ir konstanta. Šos divus fiksētos punktus sauc par elipses [[Fokuss (ģeometrija)|fokusiem]]. Elipsi var iegūt kā [[riņķa līnija]]s [[projekcija|projekciju]] citā plaknē, kā arī šķeļot [[konuss|konusu]] ar plakni un [[cilindrs|cilindru]] ar plakni. Elipses speciāls gadījums ir riņķa līnija.
+
+== Īpašības ==
+
+* Elipse ir gluda, slēgta un izliekta plaknes līnija;
+* Elipsei ir divas simetrijas asis, kas ir savstarpēji perpendikulāras.
+* Elipse ir otrās kārtas plaknes līkne.
+
+== Vienādojums ==
+[[Elipses kanoniskais vienādojums]] ir <math> \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1</math>, kur <math> a \ </math> un <math> b \ </math> ir [[elipses pusass|elipses pusasis]].
+
+Elipses parametriskie vienādojumi ir
+
+:<math>\begin{cases} x = a \cos t\ \\ y = b \sin t \end{cases}  </math>
+kur <math>t \in [0, 2 \pi]</math>.
+
+== Formulas ==
+
+* [[ekscentricitāte]]: <math> \varepsilon=\sqrt{\frac{a^2-b^2}{a^2}} < 1</math> vai <math>\epsilon=\frac{c}{a}</math>, kur <math>a>b</math>
+* [[elipses laukums]]: <math>S = \pi a b \,</math>
+* attālums no elipses centra līdz tās fokusiem: <math>f = \sqrt{a^2-b^2} = a \varepsilon</math>
+* [[elipses fokālais parametrs]]: <math>p = \frac{b^2}{a}</math>
+* <math>a^2-b^2=c^2</math>, kur <math>2c</math> ir attālums starp fokusiem un <math>a>b</math>.
+
+== Elipses perimetra aprēķināšana ==
+
+Elipses, ar pusasīm ''a'' un ''b'', [[perimetrs]] ir vienāds ar
+:<math>P(a, b) = \int_0^{2 \pi} \sqrt{a^2 \sin^2 t + b^2 \cos^2 t} dt</math>
+
+Ja [[elipses pusass|elipses pusasis]] a un b ir vienādas, tad elipse ir riņķa līnija ar rādiusu a, tāpēc tās perimetrs ir <math>2 \pi a</math>. Savukārt, ja [[elipses pusasis]] a un b ir dažādas, tad šādas elipses perimetrs ir izsakāms ar eliptiskajiem integrāļiem, kas nav izsakāmi ar elementārajām funkcijām. Tāpēc ir izveidotas daudzas elipses perimetra tuvinātas aprēķināšanas. Piemēram:<br />
+
+* <math>P(a, b) \approx 2 \pi \left( \frac{a^\frac{3}{2} + b^\frac{3}{2}}{2} \right)^ \frac{2}{3}</math>
+
+* <math>P(a, b) \approx \pi \left(3(a+b)- \sqrt{(3a+b)(a+3b)}\right)</math>.
+
+== Elipses optiskā īpašība ==
+
+Elipsei piemīt šāda optiskā īpašība: ja vienā tās fokusā novieto gaismas avotu, tad no tā izejošie stari pēc atstarošanās nonāk otrā elipses fokusā.
+
+== Skatīt arī ==
+
+* [[Elipsoīds]]
+* [[Eliptiskais paraboloīds]]
+* [[Fokālais rādiuss]]
+* [[Hiperbola]]
+* [[Parabola]]
+* [[Riņķa līnija]]
+
+== Ārējās saites ==
+
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Ellipse.html Ellipse], MathWorld.
+
+[[Kategorija:Ģeometrija]]
+[[Kategorija:Konusa šķēlumi]]

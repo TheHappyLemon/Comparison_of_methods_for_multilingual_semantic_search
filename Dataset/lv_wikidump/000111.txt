@@ -1,0 +1,89 @@
+{{Zinātnieka infokaste
+|         vārds = Stīvens Hokings
+|    vārds_orig = ''Stephen Hawking''
+|        attēls = Stephen Hawking.StarChild.jpg
+|    att_izmērs = 200px
+| att_nosaukums = Stīvens Hokings NASA 1980. gados
+|       dz_gads = 1942
+|    dz_mēnesis = 1
+|      dz_diena = 8
+|      dz_vieta = [[Oksforda]], [[Oksfordšīra]], {{GBR}}
+|        m_gads =2018 
+|     m_mēnesis =3 
+|       m_diena =14 
+|       m_vieta = [[Kembridža]], [[Anglija]], {{GBR}}
+|     pilsonība = {{GBR}}
+|       tautība = [[Angļi|anglis]]
+|  darba_vietas = [[Kembridžas Universitāte]]
+|    alma_mater = [[Kembridžas Universitāte]]<br />[[Oksfordas Universitāte]]
+|       zinātne = [[lietišķā matemātika]]<br />[[teorētiskā fizika]]<br />[[teorētiskā kosmogonija]]<br />[[kvantu gravitācija]]
+|   pasniedzēji =
+|      studenti =
+|    sasniegumi = [[Hokinga starojums]]<br />pētījumi par [[melnais caurums|melnajiem caurumiem]]
+|   apbalvojumi = [[Astūrijas prinča balva]] (1989)<br />[[Kopleja medaļa]] (2006)
+|      paraksts = 
+|      piezīmes = 
+}}
+[[Attēls:Stephen Hawking in Stockholm, 2015.jpg|thumb|270px|Stīvens Hokings lasa lekciju Stokholmā 2015. gadā]] 
+'''Stīvens Viljams Hokings''' (''Stephen William Hawking''; dzimis {{dat|1942|01|08}}, miris {{dat|2018|03|14}}) bija angļu zinātnieks, darbojies [[teorētiskā fizika|teorētiskajā fizikā]] un [[matemātika|matemātikā]]. Viņš īpaši pievērsies [[laiks|laika]] un [[telpa]]s īpašībām, kā arī [[laiktelpa]]s neregularitātēm, ko dēvē par [[singularitāte|singularitātēm]].
+
+== Dzīvesgājums ==
+Hokings dzimis [[Oksforda|Oksfordā]], [[Anglija|Anglijā]]. Izglītību viņš ieguvis Sentalbanas skolā [[Hārtfordšīra|Hārtfordšīrā]], Oksfordas Universitātes koledžā un Kembridžas Universitātē, kur viņš ieguva grādu [[kosmoloģija|kosmoloģijā]]. 1974. gadā viņš tika pasludināts par [[Britu Karaliskā biedrība|Karaliskās biedrības]] goda locekli, bet 1982. gadā kļuva par [[Britu impērijas ordenis|Britu impērijas ordeņa]] kavalieri. Trīsdesmit gadus (no 1979. gada līdz {{dat|2009|10|1|D|bez}}<ref>{{Ziņu atsauce |last= |first= |title=Stephen Hawking to give up prestigious Cambridge title |url=http://www.cbc.ca/technology/story/2008/10/24/hawking-cambridge.html |agency=Associated Press |publisher=[[CBC News]]|date=2008-10-24 |accessdate=2009-10-01|language= angliski}}</ref><ref>{{Ziņu atsauce
+|url=http://news.bbc.co.uk/2/hi/uk_news/england/cambridgeshire/8282358.stm
+|title=Hawking gives up academic title
+|publisher=[[BBC News]]
+|date=2009-09-30
+|accessdate=2009-10-01
+|language= angliski
+}}</ref>) viņš bija [[Kembridžas Universitāte]]s matemātikas goda profesors — šo posteni reiz ieņēma [[Īzaks Ņūtons]].
+
+Fizikā Stīvens Hokings pārsvarā nodarbojās ar [[teorētiskā kosmoloģija|teorētisko kosmoloģiju]] un [[kvantu gravitācija|kvantu gravitāciju]]. Būtiski ir viņa ieguldījumi [[melnais caurums|melno caurumu]] izpētē un [[termodinamika|termodinamikā]]. Viņš secināja, ka melnie caurumi var kļūt mazāki ar procesa, ko dēvē par [[Hokinga starojums|Hokinga starojumu]], palīdzību. 2004. gada jūlijā viņš tomēr atzina, ka apgalvojums, ka no melnā cauruma nevar izkļūt informācija, esot nepareizs. Tādējādi Hokings zaudēja derības, un viņam nācās šķirties no enciklopēdijas, kas simbolizē, ka informācija, kas iekļūst melnajā caurumā, tomēr nav neglābjami zudusi. Derības bija noslēdzis viņš un [[Kips Torns]] ar [[Džons Preskils|Džonu Preskilu]]. Enciklopēdija, kuru ieguva Džons Preskils, ir ''Total Baseball, The Ultimate Baseball Encyclopedia'' ("Viss par beisbolu, lielā beisbola enciklopēdija"). Kips Torns gan pasniegšanā nepiedalījās, jo joprojām neuzskata šo jautājumu par atrisinātu.
+
+Hokings ļoti daudz pētījis [[singularitāte]]s — [[laiktelpa]]s vietas, kurās nedarbojas klasiskie [[fizikas likumi]]. Visplašāk pazīstamākais singularitātes veids ir melnie caurumi. Lielākā daļa no tā, kas zināms par laiktelpu, saistīta ar [[relativitātes teorija|relativitātes teoriju]], ko 20. gadsimta sākumā izvirzīja [[Alberts Einšteins]]. 20. gadsimta sešdesmito gadu beigās Hokings pierādīja, ka tad, ja relativitātes teorija ir patiesa, [[Lielais sprādziens|Lielā sprādziena]] brīdī visam būtu jāsākas ar singularitāti.
+
+Septiņdesmitajos gados Hokings pievērsās melno caurumu īpašībām. Melnā cauruma robežu sauc par [[notikumu horizonts|notikumu horizontu]], un Hokings atklāja, ka notikumu horizonts "klasiskos" procesos var tikai kļūt lielāks vai saglabāties tāds pats, nekad ne samazināties (Hokinga starojuma, kas ir kvantu process, dēļ melnā cauruma masa un līdz ar to notikumu horizonts tomēr samazinās). Tas, piemēram, nozīmēja, ka, savienojoties diviem melnajiem caurumiem, tikko radušamies melnajam caurumam būtu tāds pats vai lielāks notikumu horizonts kā abiem iepriekšējiem kopā. Hokings ievēroja arī, ka pastāv būtiskas līdzības starp melno caurumu īpašībām un [[termodinamika]]s likumiem. Piemēram, tāpat kā notikumu horizonts, arī [[entropija]] (skat. 2. [[termodinamika]]s likumu) ar laiku vienmēr palielinās. Tādējādi notikumu horizonta virsma ir līdzīga termodinamiskas sistēmas entropijai.
+
+No 1970. līdz 1974. gadam Hokings un viņa kolēģi matemātiski pamatoja amerikāņu fiziķa [[Džons Vīlers|Džona Vīlera]] hipotēzi, kas pazīstama kā [[bezmatu teorēma]]. Šī teorēma apgalvo, ka vienīgās īpašības, ko matērijas [[elementārdaļiņa|daļiņas]] saglabā arī pēc iekļūšanas melnajā caurumā ir [[masa]], [[spins]] un [[elektriskais lādiņš]]. Melnajā caurumā iekļuvusi [[matērija]] zaudē savu formu, [[ķīmiskais sastāvs|ķīmisko sastāvu]], tā beidz būt vai nu matērija vai [[Antiviela|antimatērija]].
+
+Kopš 1974. gada Hokings, balstoties uz [[kvantu mehānika|kvantu mehāniku]], pētīja matērijas uzvedību tiešā melnā cauruma tuvumā. Sev par lielu pārsteigumu viņš atklāja, ka melnie caurumi, no kuriem teorētiski nekas nevar izkļūt, izdala [[siltumstarojums|siltumstarojumu]]. Šī fenomena izskaidrošanai tika piedāvāti vairāki risinājumi, no kuriem visplašāk pieņemtā bija teorija par [[virtuālās daļiņas|virtuālajām daļiņām]]. Virtuāla daļiņa no reālas daļiņas atšķiras ar to, ka to nevar novērot ar daļiņu detektora palīdzību, bet gan tikai novērojot tās atstāto iespaidu uz matēriju. Tukša telpa ir pārpildīta ar virtuālajām daļiņām, kas uz brīdi "rodas no nekā". Reizē rodas [[daļiņas-antidaļiņas pāris]], kas tūdaļ sevi iznīcina savienojoties. Hokings ierosināja, ka gadījumā, ja šāds virtuālo daļiņu pāris rastos melnā cauruma tuvumā, vienu no daļiņām (antidaļiņu) melnā cauruma [[gravitācija]] varētu ieraut melnajā caurumā. Tādā gadījumā šī daļiņa savienotos ar matēriju melnā cauruma iekšpusē un beigtu savu eksistenci, savukārt otra daļiņa turpinātu klīst Visumā. Neatkarīgam novērotājam no ārpuses šķistu, ka daļiņa izkļuvusi no melnā cauruma, lai arī patiesībā antidaļiņa tajā vienkārši būtu iekļuvusi, tieši par savu [[masa|masu]] samazinot melnā cauruma izmērus.
+
+== Personīgā dzīve ==
+Stīvens Hokings aktīvi piedalījās zinātniskajā un sabiedriskajā dzīvē, lai arī bija smagi slims — viņš sirga ar [[Kustību neirons|motoro neironu]] slimību [[amiotrofā laterālā skleroze|amiotrofo laterālo sklerozi]], ko viņam diagnosticēja 21 gada vecumā. Ārsti apgalvoja, ka viņš nenodzīvošot vairāk kā pāris gadu. Hokingam izdevās nodzīvot daudz ilgāk, lai arī, slimībai progresējot, viņš zaudēja spēju runāt (pēc [[traheotomija]]s) un gandrīz nespēja pakustēties. Viņš pārvietojās ar elektriska braucamkrēsla palīdzību. Saziņā ar apkārtējiem tika izmantots dators, kas bija aprīkots ar īpašu programmu, kas atskaņoja to, ko Hokings vēlējās teikt.
+
+Hokings bijis precējies divreiz (pirmo reizi īsi pirms savas diagnozes, otrreiz 1995. gadā), un viņam no pirmās laulības ir trīs bērni.
+
+Hokings miris 2018. gada 14. martā savās mājās [[Kembridža|Kembridžā]].<ref>{{tīmekļa atsauce|url= http://www.delfi.lv/a/49837351|title= Miris zinātnieks Stīvens Hokings|work=delfi.lv|publisher=LETA|date=14 March 2018|accessdate=14 March 2018}}</ref>
+
+== Grāmatas un filmas ==
+Plašākai publikai Hokings ir zināms kā populārzinātnisku grāmatu autors. No tam visslavenākā ir "[[Īsi par laika vēsturi]]" (1988), kas  sasniedza bestsellera statusu. Kopumā 20 gadu laikā tika pārdoti ap 10 miljoni eksemplāru.<ref>{{Tīmekļa atsauce|url=https://www.telegraph.co.uk/news/worldnews/1549770/Hawking-to-experience-zero-gravity.html|title=Hawking to experience zero gravity|publisher=The Daily Telegraph}}</ref> Grāmata izdota vairāk nekā 35 valodās, arī latviski. Latviski 2003. gadā izdots arī viņa darbs "[[Visums rieksta čaumalā]]". 2002. gadā latviski izdota Kitijas Fērgusones grāmata par Hokinga dzīvi — "Stīvens Hokings: mērķis — teorija par visu".
+
+Hokings [[popkultūra|popkultūrā]] pazīstams kā ģēnijs, kurš daudz sasniedzis par spīti fiziskām problēmām. Viņš parādījies tādos seriālos kā "[[Zvaigžņu ceļš]]", "[[Simpsoni]]", kā arī piedalījies ''[[Pink Floyd]]'' dziesmas ''Keep Talking'' ierakstā.
+
+Par Hokingu uzņemtas vairākas biogrāfiskas filmas. Televīzijas filmā ''Hawking'' (2004) Hokingu atveidoja [[Benedikts Kamberbačs]]. 2014. gadā iznāca filma "[[Teorija par visu]]", kurā Hokingsu atveidoja [[Edijs Redmeins]], kas par šo lomu saņēma [[Amerikas Kinoakadēmijas balva|Amerikas Kinoakadēmijas balvu]] nominācijā [[Labākais aktieris galvenajā lomā (Amerikas Kinoakadēmijas balva)|"Labākais aktieris galvenajā lomā"]].
+
+== Latviski tulkotās grāmatas ==
+* "[[Īsi par laika vēsturi]]" (1988., latviski — 1997.)
+* "[[Visums rieksta čaumalā]]" (2001., latviski — 2003.)
+* "[[Vēl īsāk par laika vēsturi]]" (kopā ar Leonardu Mlodinovu; 2005., latviski — 2007.)
+* "[[Džordža slepenā atslēga uz Visumu]]" (kopā ar meitu Lūsiju; 2007., latviski — 2009.)
+* "[[Džordža Visuma dārgumu medības]]" (kopā ar meitu Lūsiju; 2009., latviski — 2012.)
+* "[[Diženais plāns]]" (kopā ar Leonardu Mlodinovu; 2010., latviski — 2013.)
+* "[[Džordžs un Lielais sprādziens]]" (kopā ar meitu Lūsiju; 2011., latviski — 2013.)
+* "[[Īsi par manu vēsturi]]" (2013., latviski — 2014.)
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{oficiālā tīmekļa vietne}} {{en ikona}}
+{{enciklopēdiju ārējās saites}}
+{{aktieru ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Hokings, Stīvens}}
+[[Kategorija:Oksfordšīrā dzimušie]]
+[[Kategorija:Angļu fiziķi]]
+[[Kategorija:Angļu astronomi]]
+[[Kategorija:Oksfordas Universitātes absolventi]]

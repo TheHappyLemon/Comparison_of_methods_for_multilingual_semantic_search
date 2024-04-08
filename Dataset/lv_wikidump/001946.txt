@@ -1,0 +1,15 @@
+[[Attēls:1,3-butadiene.svg|thumb|200px|right|1,3-butadiēns - vienkāršākais konjugētais alkadiēns]]
+'''Alkadiēni''' (tos dažreiz sauc arī par '''diēniem''') ir nepiesātināti [[ogļūdeņraži]], kuru molekulas satur divas dubultsaites. Tie ir monomēri elastomēru (gumiju) ieguvei. Nozīmīgākie alkadiēni ir 1,3-butadiēns un 2-metil-1,3-butadiēns (izoprēns).
+
+Alkadiēnu vispārīgā formula: C<sub>n</sub>H<sub>2n-2</sub>
+
+Alkadiēnus iedala:
+* kumulētajos (allēni; to dubultsaites ir viena aiz otras; samērā ķīmiski aktīvi savienojumi); vienkāršākais savienojums ir 1,2-propāndiēns ([[allēns]]),
+* konjugētajos (starp dubultsaitēm vidū ir piesātinātā saite; gumiju izejvielas), vienkāršākais savienojums ir [[butadiēns|1,3-butadiēns]],
+* izolētajos jeb nekonjugētajos (starp dubultsaitēm ir vairāk kā viena vienkāršā saite; pārsvarā nav nozīmīga praktiska pielietojuma).
+[[Attēls:Propadiene structure.svg|thumb|200px|right|1,2-propāndiēns (allēns) - vienkāršākais kumulētais alkadiēns]]
+
+
+{{Org-stub}}
+
+[[Kategorija:Organiskā ķīmija]]

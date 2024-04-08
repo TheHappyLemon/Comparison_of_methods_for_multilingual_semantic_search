@@ -1,0 +1,76 @@
+{{nosaukums slīprakstā|string=Tour de France}}
+{{Infobox cycling race report
+| name          = 1903. gada Tour de France
+| image         = Tour de France 1904 map-fr.svg
+| image_caption = 1903. gada sacensību karte<br />Pulksteņa rādītāja virzienā, startējot Monžeronā un noslēdzoties Parīzē
+| image_alt     = 
+| image_size    = 300px
+| date          = {{dat|1903|7|1|N}}–{{dat|1903|7|19|N}}
+| stages        = 6
+| distance      = 2428
+| unit          = km
+| time          = 94h 33' 14"
+| speed         = 25,678
+| first         = [[Moriss Garēns]]
+| first_nat     = FRA
+| second        = [[Lisjēns Potjē]]
+| second_nat    = FRA
+| third         = [[Fernāns Ogero]]
+| third_nat     = FRA
+| next          = [[1904. gada Tour de France|1904]]
+}}
+
+[[Attēls:Garin03winner.jpg|thumb|250px|Moriss Garēns — pirmais tūres uzvarētājs]]
+'''1903. gada ''Tour de France''''' bija pirmais ''[[Tour de France]]'' daudzdienu velobrauciens, kas notika no 1903. gada 1. līdz 19. jūlijam. Šajā laikā vēl nebija ne komandu, ne kalnu karaļa, labākā jaunā braucēja un citu titulu. Katrs piedalījās pats par sevi, katram dalībniekam nācās iemaksāt 10 frankus, uzvarētājs ieguva 3000 frankus. Tūrē piedalījās 60 braucēji (mūsdienās to ir ap 200), bet finišēja tikai 21. Dalībniekiem bija jāveic 2428 km 6 posmos (mūsdienās ~3000 km 20 posmos), tas nozīmē, ka bieži vien posms beidzās naktī; pirmo ''Tour de France'' posmu tā uzvarētājs [[Moriss Garēns]] veica 27 stundās un 47 minūtēs. Par pirmā ''Tour de France'' daudzdienu velobrauciena kopvērtējuma uzvarētāju kļuva [[Moriss Garēns]], finišā par gandrīz 3 stundām apsteidzot otrās vietas ieguvēju [[Lisjēns Potjē|Lisjēnu Potjē]].
+
+== Rezultāti ==
+{| class="wikitable" style="width:38em;margin-bottom:0px;"
+|-
+! width=40 | Vieta
+! width=225 | Sportists
+! width=100 | Sponsors
+! width=40 | Laiks
+|-
+| align=center| 1|| {{flagathlete|[[Moriss Garēns]]|Francija}}|| La Française
+|align="right"| {{nowrap|94.33:14}}
+|-
+| align=center| 2|| {{flagathlete|[[Lisjēns Potjē]]|Francija}}|| La Française
+|align="right"| {{nowrap|+2.59:21}}
+|-
+| align=center| 3|| {{flagathlete|[[Fernāns Ogero]]|Francija}}|| La Française
+|align="right"| {{nowrap|+4.29:24}}
+|-
+| align=center| 4|| {{flagathlete|[[Rodolfo Mullers]]|Itālija}}<ref>http://www.cyclingarchives.com/coureurfiche.php?coureurid=10931</ref> || La Française
+|align="right"| {{nowrap|+4.39:30}}
+|-
+| align=center| 5|| {{flagathlete|[[Žans Fišērs]]|Francija}}|| La Française
+|align="right"| {{nowrap|+4.58:44}}
+|-
+| align=center| 6|| {{flagathlete|[[Marsels Kerfs]]|Beļģija}}|| —
+|align="right"| {{nowrap|+5.52:24}}
+|-
+| align=center| 7|| {{flagathlete|[[Žiljēns Lūtens]]|Beļģija}}|| Brennabor
+|align="right"| {{nowrap|+8.31:08}}
+|-
+| align=center| 8|| {{flagathlete|[[Žoržs Paskjē]]|Francija}}|| La Française
+|align="right"| {{nowrap|+10.24:04}}
+|-
+| align=center| 9|| {{flagathlete|[[Fransuā Božandrs]]|Francija}}|| —
+|align="right"| {{nowrap|+10.52:14}}
+|-
+| align=center|10|| {{flagathlete|[[Aluā Kato]]|Beļģija}}|| La Française
+|align="right"| {{nowrap|+12.44:57}}
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20110228034433/http://www.letour.fr/ Tour de France mājaslapa] {{en ikona}}
+
+
+{{riteņbraukšana-aizmetnis}}
+{{Tour de France}}
+
+[[Kategorija:1903. gads sportā]]
+[[Kategorija:Tour de France|1903]]

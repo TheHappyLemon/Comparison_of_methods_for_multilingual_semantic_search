@@ -1,0 +1,93 @@
+{{ezera infokaste
+|ezers=Ņosa ezers
+|attēls=Lake Nyos 1986 001.jpg
+|paraksts=Ņosa ezers ar izvirduma saduļķoto ūdeni
+|map = Kamerūna
+| plat_d=6 | plat_m=26 | plat_s=17 | plat_NS=N
+| gar_d=10 | gar_m=17 | gar_s=56 | gar_EW=E
+|vieta={{CMR}}
+|platība=1,58
+|garums=2
+|platums=1,2
+|Vid_dziļums=
+|Max_dziļums=208
+|tilpums=0,15
+|augstums_vjl=1091
+|izteka=
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+<mapframe text="Ņosa ezers" width=300 height=300 zoom=14 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q332628"
+}
+</mapframe>
+'''Ņosa ezers''' (arī '''Ņoss'''; {{val|en|Lake Nyos}}, {{val|fr|Lac Nyos}}; '''Lvi ezers''' — ''lac Lwi'') ir [[ezers]] [[Kamerūna|Kamerūnā]], [[Ziemeļrietumu reģions|Ziemeļrietumu reģionā]]. Dziļš ezers neaktīva [[vulkāns|vulkāna]] nogāzē.
+
+== Ezera izveidošanās ==
+Ezers atrodas [[Mberes rifta ieleja|Mberes rifta ielejā]]. Vulkāniskās aktivitātes reģionā norisinās jau miljoniem gadu — kopš sadalījās tagadējā [[Dienvidamerika]] un [[Āfrika]], Rietumāfrikā turpinās aktīva [[lūzums (ģeoloģija)|lūzumu]] zonu veidošanās. Ezera atrašanās zonā lūzuma veidošanās rezultātā zemes virsmai tuvu pienākusi magma.
+
+Ņosa ezers aizpilda ieapaļas formas [[mārs|māru]] — eksplozijas krāteri, kas radies, [[lava]]s plūsmai mijiedarbojoties ar gruntsūdeni. Uzskata, ka šis mārs radies aptuveni pirms 400 gadiem.
+
+Ezera ūdeni notur dabiska vulkānisku iežu siena, kas šaurākajā vietā ir {{nobr|40 m}} augsta un {{nobr|45 m}} plata.
+
+== Ņosa ezera izvirdums ==
+[[Attēls:Cow killed by Lake Nyos gasses.jpg|thumb|left|200px|Ogļskābās gāzes nosmacēta govs]]
+Zem ezera atrodas [[magma]]s kabata, kas turpina izdalīt [[ogļskābā gāze|ogļskābo gāzi]] (CO<sub>2</sub>) ezera ūdenī. Ņosa ezers ir viens no trim pasaulē zināmajiem ezeriem, kuros notiek šāds process — pārējie ir [[Kivu ezers]] [[Ruanda|Ruandā]] un [[Monūnas ezers]] ap 100 km dienvidaustrumos no Ņosa ezera, Kamerūnā.
+
+Ezerā izveidojušies dažādas temperatūras ūdens slāņi — silts, mazāk blīvs ūdens atrodas virspusē, savukārt dziļāk atrodas vēsāks, blīvāks ūdens. Ilgākā laika periodā aukstajā ūdenī pie ezera gultnes izšķīst liels daudzums no apakšas nākošās ogļskābās gāzes. Ezers ir šķietami stabils un nekas neparasts nenotiek līdz brīdim, kad apakšējais ūdens slānis ir pārsātināts ar gāzi. Ja šādā situācijā notiek [[zemestrīce]] vai vulkāna izvirdums, no ezera pēkšņi izdalās liels daudzums ogļskābās gāzes.
+
+Kaut gan netālajā Monūnas ezerā līdzīga nelaime notika [[1984]]. gadā, neviens negaidīja, ka šādas briesmas var radīt arī Ņosa ezers. Tomēr [[1986]]. gada [[21. augusts|21. augustā]] notika Ņosa ezera izvirdums — no ezera ūdens pēkšņi izdalījās 1,6 miljoni tonnu ogļskābās gāzes. Gāze plūda lejup pa divām ielejām, aizvietojot vieglāko gaisu. Tuvāko {{nobr|20 km}} rādiusā noslāpa ap 1800 cilvēki un 3500 liellopi. Ap 4000 cilvēku paspēja izbēgt no nāves, taču daudzi cieta no elpošanas slimībām un paralīzes.
+
+Nav zināms, kas katastrofu izraisīja. Vairums speciālistu uzskata, ka ezera gultnē noticis neliels nobrukums vai neliels vulkāna izvirdums. Pastāv arī iespēja, ka vienā ezera pusē ir nolijis [[lietus]], tādējādi izjaucot ūdens līdzsvaru. Neatkarīgi no cēloņa notika pēkšņa ezera ūdens slāņu sajaukšanās un ogļskābās gāzes izdalīšanās. Par gaisu smagākā ogļskābā gāze vairāku desmitu metru biezā slānī strauji plūda lejup pa divām ielejām.
+
+Tūlīt pēc izvirduma ierasti zilais ezera ūdens uz īsu laiku kļuva tumši sarkans, jo augšup pacēlās ar [[dzelzs|dzelzi]] bagātināts ūdens, kas gaisā strauji oksidējās. No gāzes atbrīvotais ezera līmenis kritās aptuveni par vienu metru. Iespējams, ka tiešā ezera tuvumā gāzes izplūde bija pat sprādzienveida, jo ezera krastā viļņi vai gāze notrieca kokus.
+
+== Ezera nākotne ==
+
+Neparastā katastrofa izraisīja lielu zinātnieku interesi un tika publicēti daudzi pētījumi par līdzīgu nelaimju novēršanu nākotnē. Tuvāka analīze parādīja, ka līdzīgas nelaimes var atkārtoties ik pēc 10—30 gadiem.
+
+Lai novērstu līdzīgas katastrofas, zinātnieki piedāvāja šādu risinājumu — iegremdēt ezera dziļākajās vietās piecas ogļskābo gāzi novadošas caurules, kas novērstu gāzes uzkrāšanos ezera nogulumos. Diemžēl pašlaik ezerā ievietota tikai viena šāda gāzes novadīšanas caurule, kuras augšējais gals atrodas uz plosta. Caurule uzstādīta [[2001. gads|2001]]. gadā.
+
+Tika pētīti arī citi Āfrikas ezeri un noskaidrojās, ka 2000 reizes lielākajā [[Kivu ezers|Kivu ezerā]] ūdens arī ir pārsātināts ar ogļskābo gāzi. Bez tam tika atklāts, ka aptuveni reizi tūkstoš gados Kivu ezerā notiek ogļskābās gāzes izvirdumi.
+
+Saskaņā ar [[Jaundes universitāte]]s speciālistu pētījumiem pašlaik ezers rada citus draudus — to norobežojošā iežu siena draud sabrukt. [[Erozija]]s procesos iežu sienā veidojas plaisas un caurumi, un pa dambja apakšējo malu jau noplūst ūdens. Iespējams, ka jau pirmā nelielā zemestrīce var novest pie tā, ka 50 miljoni kubikmetru ūdens traucas lejup pa ieleju, iznīcinot ciematus Kamerūnā un Nigērijā, ietekmējot teritoriju, kur dzīvo ap {{nobr|10 000}} cilvēku.
+
+Apvienoto Nāciju speciālistu grupa uzskata, ka ezera dambis sabruks tuvāko 10—20 gadu laikā. Šajā gadījumā tiek piedāvāts pakāpeniski samazināt ezera līmeni par aptuveni 20 metriem, tādējādi samazinot ūdens masas spiedienu uz dambi.
+
+Ar ezera problēmas izpēti nodarbojušies arī Latvijas zinātnieki.
+
+== Atsauces ==
+{{atsauces}}
+
+== Informācijas avoti ==
+* [https://web.archive.org/web/20060118143046/http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews "Cameroon scientist denies dam about to collapse"] (2005. gada augusts). Reuters.
+* Cotel A (1999), ''A trigger mechanism for the Lake Nyos disaster'', American Physical Society, Division of Fluid Dynamics Meeting, November 21-23, 1999
+* Decker, R. and Decker, B. (1997) ''Volcanoes'', 3rd edition, WH Freeman, New York.
+* Musa, Tansa (2005. gada 28. septembris). [http://www.alertnet.org/thenews/newsdesk/L28726343.htm "Cameroon dam could collapse in 10 years-UN experts".] Reuters.
+* Musa, Tansa (18 August 2005). [https://web.archive.org/web/20060118143046/http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews"Cameroon dam nears collapse, 10,000 lives at risk".] Reuters.
+* Sano Y., Kusakabe M., Hirabayashi J. ''et al'' (1990), ''Helium and carbon fluxes in Lake Nyos, Cameroon: constraint on next gas burst'', Earth and Planetary Science Letters, v. 99, p. 303-314
+* Sano Y., Wakita H., Ohsumi T., Kusakabe M. (1987), ''Helium isotope evidence for magmatic gases in Lake Nyos, Cameroon'', Geophysical Research Letters, v. 14, p. 1039-1041
+* [https://web.archive.org/web/20070115075524/http://www.eawag.ch/research_e/apec/ Scripts/W%FCest_Schmid_DD_Nyos_FM9_12626.pdf Niosas ezera izpētes rezultāti (angliski)]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://nyos.lv/ru/nyos-30606/mehanika-vkljuchenija-spuskovogo-mehanizma-31859 МЕХАНИКА ВКЛЮЧЕНИЯ СПУСКОВОГО МЕХАНИЗМА ЛИМНОЛОГИЧЕСКИХ КАТАСТРОФ, произошедших в КАМЕРУНЕ на озере «MONOUN» в 1984г. и на озере «NYOS» в 1986 г., ВОЗДЕЙСТВИЕМ АТМОСФЕРНЫХ ОСАДКОВ в 1983 г, Наталья Анатольевна Солодовник Анатолий Борисович Солодовник (krieviski un angliski)]
+* [https://web.archive.org/web/20060424195401/http://perso.wanadoo.fr/mhalb/nyos/ Niosas ezera notikums (angliski)]
+* [https://web.archive.org/web/20060210053007/http://www.biology.lsa.umich.edu/%7Egwk/research/nyos.html Niosas ezera izpētes rezultāti (angliski)]
+* [https://web.archive.org/web/20080509122156/http://volcano.und.nodak.edu/vwdocs/volc_images/africa/nyos.html ''Volcano World'' informācija (angliski)]
+* [http://vulcan.wr.usgs.gov/Glossary/Lakes/description_volcanic_lakes_gas_release.html ASV Ģeoloģiskā dienesta informācija]
+* [https://web.archive.org/web/20050414030227/http://www.smithsonianmag.si.edu/smithsonian/issues03/sep03/pdf/killer_lakes.pdf Killer Lakes], ''[[Smithsonian]]'' žurnāls
+* [http://svs.gsfc.nasa.gov/search/Series/ExplodingLakes.html NASA Eksplozīvie ezeri (angliski)]
+
+
+
+{{autoritatīvā vadība}}
+
+
+[[Kategorija:Kamerūnas ezeri]]

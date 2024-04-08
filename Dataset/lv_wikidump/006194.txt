@@ -1,0 +1,82 @@
+{{BioTakso infokaste
+| attēls =psocoptera.jpg
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| tips =Arthropoda
+| tips_lv =Posmkāji
+| klase =Insecta
+| klase_lv =Kukaiņi
+| apakšklase=Pterygota
+| apakšklase_lv=Spārneņi
+| infraklase=Neoptera
+| infraklase_lv=Jaunspārņi
+| virskārta=Paraneoptera
+| virskārta_lv=Blakšveidīgie
+| kārta =Psocoptera
+| kārta_lv =Ķērpjutu kārta
+| binomial=Psocoptera <small>([[Arthur Everett Shipley|Shipley]], 1904)</small>
+| iedalījums=
+* {{TaksoSaite|Trogiomorpha}}
+* {{TaksoSaite|Troctomorpha}}
+* {{TaksoSaite|Psocomorpha}}
+| kategorijas =nē
+}}
+'''Ķērpjutis''' (''Psocoptera'') ir sīki, 0,7 — 7 mm gari [[kukaiņi]] ({{TaksoSaite|Thyrsophorus metallicus}} sasniedz 10 mm garumu). Šīs grupas pārstāvju fosilās paliekas ir zināmas jau no perma perioda, un daudzi speciālisti uzskata šo grupu kā primitīvākos hemipteroīdus. Ķērpjutu mutes orgāni veido it kā starpformu starp zorapteru grauzēja tipa un blakšveidīgo dūrēja-sūcēja tipa mutes orgāniem.
+== Morfoloģija ==
+Galva samērā liela. Saliktās acis labi attīstītas, actiņas 3. Taustekļi daudzposmaini, gari, tievi, diegveida. Tēviņiem tie nereti klāti ar gariem, atstāvošiem, bet mātītēm ar īsiem, pieguļošiem matiņiem. Mutes orgāni grauzēja tipa. Apakšžokļu tausti samērā gari, tiem 4 posmi, apakšlūpas taustiem l—2 posmi. Priekškrūšu posms pa lielākai daļai mazs, vāji attīstīts, vislabāk attīstīts viduskrūšu posms. Kājas garas un tievas. Kāju pēdām 2—3 posmi. 4 plēvveida spārni ar nedaudz dzīslām, bezkrāsaini, caurspīdīgi vai krāsaini, miera stāvoklī sakļauti jumtveidā. Priekšspārni garāki par pakaļspārniem, parasti pārsniedz vēdera galu. Dažām sugām spārni īsi vai arī to nemaz nav. Citām sugām spārni ir tikai tēviņiem. Vēders īss, ieapaļš, sastāv no 9 posmiem.
+== Dzīvesveids ==
+Spārnotās ķērpjutis atrodamas jau maijā un jūnijā, bet visvairāk jūlijā, augustā un septembrī mežos, dārzos, alejās uz lapu un skuju kokiem un krūmiem, arī vecām, ķērpjainām koka sētām. Tās pārtiek no ķērpjiem, parazitāro sēņu micēlija un sporām, aļģēm (Protococcaceae) un dažādām organiskām atliekām. Nespārnotās mitinās putnu ligzdās, zemsegā mežos, siena šķūņos, telpās. Dzīvokļos, noliktavās, muzejos un līdzīgās vietās reizēm bojā sausus pārtikas produktus, kā arī grāmatas, herbārijus, kukaiņu kolekcijas. Sugas, kas mājo dzīvokļos un siltumnīcās uz lauru kokiem, atrodamas visu gadu.
+== Vairošanās un attīstība ==
+Dažas sugas pārklāj olas ar zīda pavedieniem, kurus izdala apakšlūpas dziedzeri. Attīstās, nepilnīgi pārvērzdamās. Kāpuri līdzīgi pieaugušiem kukaiņiem. Jaunie kāpuri no pieaugušiem kukaiņiem atšķiras ar spārnu, actiņu, iekšējo un ārējo dzimumorgānu trūkumu. Lielajam vairumam sugu ir 6 kāpuru stadijas, kuru gaitā pieaug taustekļu posmu skaits un parādās spārnu aizmetņi, kas pēc katras ādas maiņas kļūst lielāki.
+== Pētījumi Latvijā ==
+No 19. gadsimtā izdotās literatūras secināms, ka Latvijā bija atrastas 17 sugas. Kopš 1946. gada ķērpjutis pētīja ilggadīgā Dabas muzeja darbiniece L.Danka, kura periodā no 1950. līdz 1981. gadam publicējusi 11 rakstus. Saskaņā ar Latvijas ķērpjutu katalogu /Spuris, 1985/ vietējā faunā atklātas 43 sugas. Vispilnīgāk izpētīta Rīga un tai tuvās vietas. Rīgā atklātas 26 sugas, tikpat Rīgas līča piekrastes zonā no Ķemeriem līdz Saulkrastiem. Koknesē atrastas 16 sugas, Rūjienā - 14.
+== Klasifikācija ==
+Pasaulē ir zināmas ap 2700-3000 ķērpjutu sugu, kas iedalās 35 dzimtās un 3 apakškārtās. Eiropā ir ap 100 sugu, Latvijā — 43.
+
+{{TaksoSaite|Psocoptera|Ķērpjutu kārta}}
+* apakškārta {{TaksoSaite|Trogiomorpha}}
+** dzimta {{TaksoSaite|Lepidopsocidae}}
+** dzimta {{TaksoSaite|Trogiidae}}
+** dzimta {{TaksoSaite|Archaeatropidae}}
+** dzimta {{TaksoSaite|Empheriidae}}
+** dzimta {{TaksoSaite|Psoquillidae}}
+* apakškārta {{TaksoSaite|Troctomorpha}}
+** dzimta {{TaksoSaite|Electrentomidae}}
+** dzimta {{TaksoSaite|Compsocidae}}
+** dzimta {{TaksoSaite|Musapsocidae}}
+** dzimta {{TaksoSaite|Protroctopsocidae}}
+** dzimta {{TaksoSaite|Troctopsocidae}}
+** dzimta {{TaksoSaite|Liposcelidae}}
+** dzimta {{TaksoSaite|Pachytroctidae}}
+** dzimta {{TaksoSaite|Sphaeropsocidae}}
+* apakškārta {{TaksoSaite|Psocomorpha}}
+** dzimta {{TaksoSaite|Ectopsocidae}}
+** dzimta {{TaksoSaite|Elipsocidae}}
+** dzimta {{TaksoSaite|Lachesillidae}}
+** dzimta {{TaksoSaite|Mesopsocidae}}
+** dzimta {{TaksoSaite|Peripsocidae}}
+** dzimta {{TaksoSaite|Philotarsidae}}
+** dzimta {{TaksoSaite|Pseudocaeciliidae}}
+** dzimta {{TaksoSaite|Trichopsocidae}}
+** dzimta {{TaksoSaite|Asiopsocidae}}
+** dzimta {{TaksoSaite|Amphipsocidae}}
+** dzimta {{TaksoSaite|Caeciliusidae}}
+** dzimta {{TaksoSaite|Stenopsocidae}}
+** dzimta {{TaksoSaite|Dasydemellidae}}
+** dzimta {{TaksoSaite|Hemipsocidae}}
+** dzimta {{TaksoSaite|Psocidae}}
+** dzimta {{TaksoSaite|Psilopsocidae}}
+** dzimta {{TaksoSaite|Myopsocidae}}
+** dzimta {{TaksoSaite|Calopsocidae}}
+** dzimta {{TaksoSaite|Archipsocidae}}
+** dzimta {{TaksoSaite|Bryopsocidae}}
+** dzimta {{TaksoSaite|Philotarsidae}}
+** dzimta {{TaksoSaite|Sabulopsocidae}}
+== Ārējās saites ==
+{{Commonscat|Psocoptera}}
+* [http://leb.daba.lv/Psocoptera.htm Latvijas ķērpjutu sugu saraksts]
+* [http://latvijas.daba.lv/dzivnieki/posmkaaji/kukainhi/kjeerpjutis/ Ķērpjutis]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķērpjutu kārta| ]]

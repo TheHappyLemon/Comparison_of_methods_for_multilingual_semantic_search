@@ -1,0 +1,48 @@
+[[Attēls:Primemeridian.jpg|200px|thumb|right|Griničas meridiāna atrašanās vieta]]
+'''Griničas meridiāns''' ir atskaites [[meridiāns]] ([[garums (kartogrāfija)|garuma]] līnija), kas iet caur [[Karaliskā Griničas Observatorija|Karalisko Griničas Observatoriju]] [[Griniča|Griničā]] — [[Londona]]s dienvidaustrumos, [[Lielbritānija|Lielbritānijā]]. Ir definēts, ka šeit [[garums (kartogrāfija)|garums]] ir 0 grādi. Griničas meridiāns un [[Zeme]]s pretējā pusē esošais 180° meridiāns sadala Zemi [[Austrumu puslode|Austrumu puslodē]] un [[Rietumu puslode|Rietumu puslodē]].
+
+Griničas meridiāna garums ir 19 970,32 km. Pašreizējais praktiski izmantotais WGS84 ģeodēziskās sistēmas meridiāns atrodas 100 m austrumos no tūristiem demonstrētā Griničas meridiāna.
+
+== Griničas meridiāna izvēles vēsture ==
+Atšķirībā no [[platums (kartogrāfija)|platuma]], kurš definēts attiecībā pret konkrētu lielumu — Zemes griešanās asi, garumu nākas definēt pēc pašu cilvēku brīvas izvēles.
+
+[[Kartogrāfija]]s vēsturē zināmi daudzi mēģinājumi definēt atskaites meridiānu, tomēr mūsdienās par vadošo atzīts tieši Griničas atskaites meridiāns. Griničas meridiānu [[1851]]. gadā definēja sers [[Džordžs Eirijs]] (''George Airy'') un tas tika apstiprināts par starptautisku standartu [[1884]]. gada oktobrī, [[Vašingtona|Vašingtonā]], īpašā Starptautiskajā meridiāna konferencē.
+
+[[Attēls:Prime meridian.jpg|200px|thumb|right|Meridiāns Griničā]]
+Tika izskatīti arī citi varianti, tai skaitā:
+* [[Ptolemajs|Ptolemaja]] [[150]]. gadā ieviestais meridiāns [[Kanāriju salas|Kanāriju salu]] rietumu salā [[Jerro]] — šajā punktā beidzās tālaika zināšanas par ģeogrāfiju;
+* Parīzes meridiāns caur Parīzes observatoriju, 2° 20' 14.025" austrumos no Griničas;
+* Meridiāns pie [[Azoru salas|Azoru salām]];
+* Meridiāns caur [[Beringa šaurums|Beringa šaurumu]].
+
+Pēdējie divi varianti atkrita tāpēc, ka šajās vietās neatradās [[observatorija]]s. Parīzes meridiānu un precīzi 20° rietumos no Parīzes esošo Jerro meridiānu vairums konferences dalībnieku neatbalstīja un rezultātā ar lielu balsu vairākumu tika izvēlēts Griničas meridiāns. [[Francija]] balsošanā atturējās un vēl vairākas desmitgades pēc konferences Francijā sagatavotās kartēs tika izmantots Parīzes meridiāns.
+
+Par Griničas meridiāna izvēli bija iespējams vienoties tāpēc, ka tajā laikā jau aptuveni divas trešdaļas kuģu to izmantoja. Tomēr paralēli tam XIX gadsimtā un pirms tam tika lietoti arī citi atskaites meridiāni, tai skaitā:
+* Kopenhāgenas meridiāns, Rundetorns (''Rundetårn'');
+* [[Giza]] Ēģiptē;
+* [[Jeruzaleme]];
+* [[Sanktpēterburga]], Pulkovas meridiāns;
+* Parīzes meridiāns
+* [[Vašingtona]]s meridiāns u.c.
+Liela daļa Eiropas valstu lietoja savus atskaites meridiānus, kas visbiežāk gāja caur valsts galvaspilsētu.
+
+== Griničas meridiāna ceļš ==
+Sākot no [[Ziemeļpols|Ziemeļpola]] un virzoties uz dienvidiem Griničas meridiāns šķērso šādas valstis un zemes:
+* [[Apvienotā Karaliste]]
+* [[Francija]]
+* [[Spānija]]
+* [[Alžīrija]]
+* [[Mali]]
+* [[Burkinafaso]]
+* [[Togo]]
+* [[Gana]]
+* [[Antarktīda]] — šeit meridiāns sasniedz [[Dienvidpols|Dienvidpolu]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.ucolick.org/~sla/leapsecs/scans-meridian.html Starptautiskās meridiāna konferences referātu un diskusiju protokolu kopijas, angliski]
+* [https://web.archive.org/web/20061029234822/http://wwp.greenwichmeantime.com/info/prime-meridian.htm Izmantotie atskaites meridiāni 1880. gados, angliski]
+
+[[Kategorija:Ģeodēzija]]
+[[Kategorija:Meridiāni]]

@@ -1,0 +1,87 @@
+{{Latvijas novada infokaste
+| nosaukums         = Bērzkalnes pagasts
+| karte             = Bērzkalnes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Bērzkalnes pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Bērzkalnes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Bērzkalne
+| platība           = 102,75
+| iedzīvotāji       = 498<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 498 / 102.75 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Bērzkalnes pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām tā vidienē. Robežojas ar sava novada [[Balvu pagasts|Balvu]], [[Kubulu pagasts|Kubulu]], [[Vīksnas pagasts|Vīksnas]], [[Lazdulejas pagasts|Lazdulejas]], [[Vectilžas pagasts|Vectilžas]], [[Kupravas pagasts|Kupravas]], [[Susāju pagasts|Susāju]], [[Medņevas pagasts|Medņevas]] un [[Rugāju pagasts|Rugāju]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+[[Bolupe]], [[Dobupe]], [[Kārnīte]], [[Rūbežupe (Vārnienes pieteka)|Rūbežupe]], [[Sūcene]], [[Vārniene]].
+
+==== Ūdenstilpes ====
+[[Pērkonu ezers]].
+
+==== Purvi====
+[[Klēģera pūrs]], [[Lielais pūrs]], [[Mūravas pūrs]], [[Ploskīnes pūrs]]
+
+=== Dabas aizsardzība===
+Pagasta teritorijā atrodas daļa no [[dabas liegums|dabas lieguma]] [[Stompaku purvi]].
+
+== Vēsture ==
+1945. gadā [[Abrenes apriņķis|Abrenes apriņķa]] [[Balvu pagasts|Balvu pagastā]] izveidoja Ploskenas [[ciema padome|ciema padomi]]. [[Balvu rajons|Balvu rajona]] '''Ploskenas ciemam''' 1954. gadā pievienoja likvidēto [[Vistusalas ciems|Vistusalas ciemu]] un [[Balvu ciems|Balvu ciema]] [[kolhozs|kolhoza]] «Strana Sovetov» teritoriju, bet kolhoza «Progress» teritoriju pievienoja [[Kraukļu ciems|Kraukļu ciemam]]. 1961. gadā [[padomju saimniecība]]s «Balvi» teritoriju pievienoja Balvu ciemam, 1977. gadā pievienoja daļu Balvu ciema teritorijas. 1989. gadā Ploskenas ciemu pārdēvēja par '''Bērzkalnes ciemu'''.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Bērzkalnes pagastu kā administratīvo teritoriju iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Pieminekļi ===
+* Nr. 243.: Moziņķu senkapi (Kara kapi)	- Moziņķos,	
+* Nr. 244.: Mežariju senkapi (Kara kapi) - pie Mežariju kapsētas,	
+* Nr. 245.: Silakrogu viduslaiku kapsēta - Silakrogā.<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Bērzkalne]]''' (pagasta centrs), [[Aizpurve (Bērzkalnes pagasts)|Aizpurve]], [[Auzāji]], [[Brieževa]], [[Brūklāji]], [[Burčeva]], [[Dubļava]], [[Elkšņeva]], [[Lazdukalns (Bērzkalnes pagasts)|Lazdukalns]], [[Lielmežnieki (Bērzkalnes pagasts)|Lielmežnieki]], [[Moziņki]], [[Mūrava]], [[Ploskena]], [[Rubeņi (Bērzkalnes pagasts)|Rubeņi]], [[Silakrogs (Bērzkalnes pagasts)|Silakrogs]], [[Vistusala]].
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2000
+|1959|1725
+|1969|820
+|1979|763
+|1989|772
+|2000|685
+|2011|494
+|2021|407
+}}
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Balvu rajons}}
+}}
+
+{{DEFAULTSORT:Berzkalnes pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Bērzkalnes pagasts| ]]

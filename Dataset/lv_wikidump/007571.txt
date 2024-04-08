@@ -1,0 +1,79 @@
+{{Latvijas novada infokaste
+| nosaukums         = Salienas pagasts
+| karte             = Salienas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Salienas pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Salienas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Augšdaugavas novads
+| centrs            = Saliena
+| platība           = 124,65
+| iedzīvotāji       = 797<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 797 / 124.65 round 1}}
+| izveidots         = 1897
+| mājaslapa         = www.saliena.lv
+}}
+
+'''Salienas pagasts''' ir viena no [[Augšdaugavas novads|Augšdaugavas novada]] administratīvajām teritorijām tā dienvidaustrumos, novada [[Augšzeme]]s daļā, [[Baltkrievija]]s pierobežā. Robežojas ar sava novada [[Skrudalienas pagasts|Skrudalienas]], [[Vecsalienas pagasts|Vecsalienas]] un [[Naujenes pagasts|Naujenes]] pagastiem, [[Krāslavas novads|Krāslavas novada]] [[Ūdrīšu pagasts|Ūdrīšu]] un [[Kaplavas pagasts|Kaplavas]] pagastiem, kā arī Baltkrievijas [[Vitebskas apgabals|Vitebskas apgabala]] [[Braslavas rajons|Braslavas rajonu]].
+
+== Daba ==
+Pagasta lielāko daļu aizņem [[Augšzemes augstiene]]s [[Skrudalienas pauguraine]], ziemeļu malā - [[Latgales augstiene]]s [[Augšdaugavas pazeminājums]]. Augstākais punkts - [[Leibgora]] (181,8 m vjl).<ref>{{EncLP}}</ref>
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Borne]], [[Daugava]], [[Mālkalne]], [[Poguļanka (upe)|Poguļanka]], [[Tartaciņa]].
+
+==== Ezeri ====
+[[Dūnakļu ezers]], [[Kirjaņiška]], [[Klepinu ezers]], [[Zabolotņiku ezers]].
+
+== Vēsture ==
+1897. gadā [[Kurzemes guberņa]]s [[Ilūkstes apriņķis|Ilūkstes apriņķa]] [[Aizlauces draudzes novads|Aizlauces draudzes novadā]] izveidoja '''Solonājas pagastu''' (vai '''Salanājas pagastu'''), apvienojot Salonājas (''Sallonay'') muižu ar apkārtējām muižām — [[Lielbornes muiža|Lielbornes]] (''Groß-Born''), [[Vecsalienas muiža|Vecsalienas]] (Červonkas), Sīķeles-Rozališku (''Siekeln-Rosalischek''), Johaninas (''Johannina''), Hieronimovas (''Hieronimow'') un Šlapaku muižām. 
+1919. gadā pagastam pievienoja [[Kaplavas pagasts|Kaplavas pagasta]] [[Jaunborne]]s daļu.<ref>{{Tīmekļa atsauce |url=http://www.saliena.lv/Default.aspx?t=f20b2467-e83c-42bd-9102-a7b48d90e374&m=m2560 |title=Salienas pagasta vēsture |access-date={{dat|2010|06|02||bez}} |archiveurl=https://web.archive.org/web/20090702164351/http://www.saliena.lv/Default.aspx?t=f20b2467-e83c-42bd-9102-a7b48d90e374&m=m2560 |archivedate={{dat|2009|07|02||bez}} }}</ref>
+
+Pēc [[1920. gada zemes reforma]]s Salanājas pagasta [[Lielbornes muiža]]  tika sadalīta 77 vienībās 1480 ha kopplatībā, [[Vecsalienas muiža]] (''Alt-Sallensee'') ar Dirvānišķu pusmuižu 82 vienībās 1265 ha kopplatībā, Sīķeles-Rozališķu muiža (''Sieklen-Rosalischek'') 13 vienībās 253 ha kopplatībā, Vecģeronimavas muiža (''Hieronimow'') 4 vienībās 154 ha kopplatībā. [[Jaunbornes muiža|Jaunbornes]] (''Neu-Born'') un Salanājas (Salienas) muižas (''Sallonay'') netika sadalītas.<ref>{{LKV|XIX.|37 383}}</ref>
+
+1925. gadā Salanājas pagastu pārdēvēja par '''Salienas pagastu'''. 1935. gadā Salienas pagasta platība bija 178,91 km² un tajā dzīvoja 3839 iedzīvotāji. 1945. gadā pagastā izveidoja [[Jaunbornes ciems|Jaunbornes]], [[Lazdukalna ciems|Lazdukalna]], Salienas un [[Vecsalienas ciems|Vecsalienas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Salienas ciems''' ietilpa [[Grīvas rajons|Grīvas]] (1949-1955), [[Ilūkstes rajons|Ilūkstes]] (1955-1956) un [[Daugavpils rajons|Daugavpils]] (1956-1990) rajonos. 1954. gadā Salienas ciemam pievienoja likvidēto Jaunbornes ciemu, 1956. gadā [[kolhozs|kolhoza]] «Strana Sovetov» teritoriju pievienoja [[Krāslavas ciems|Krāslavas ciemam]], bet 1957. gadā Krāslavas ciema kolhoza «Strana Sovetov» teritoriju pievienoja Salienas ciemam.<ref>{{Latvijas PSR iedalījums}}</ref>
+
+1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Salienas pagastu kā administratīvo teritoriju iekļāva [[Daugavpils novads|Daugavpils novadā]]. 2021. gadā Daugavpils novadu kopā ar [[Ilūkstes novads|Ilūkstes novadu]] iekļāva jaunajā [[Augšdaugavas novads|Augšdaugavas novadā]].
+
+=== Pieminekļi ===
+* Upīšu viduslaiku kapsēta (Staroje kladbišče)<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Daugavpils+novads%2C+Salienas+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Janomoles senkapi
+
+== Iedzīvotāji ==
+Iedzīvotāju skaits - 821, no kuriem 47% ir [[krievi]], 22% [[latvieši]], 18% [[poļi]], bet 12% [[baltkrievi]].
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Saliena (Salienas pagasts)|Saliena]], [[Faļtopi]], [[Gaveitiški]], [[Jaunborne]], [[Karļinova]], [[Meteliški]], [[Ritāņi]], [[Stašališki]], [[Šlapaki]], [[Voksova]], [[Zaļesje (Salienas pagasts)|Zaļesje]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Augšdaugavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Daugavpils novads}}
+{{Daugavpils rajons}}
+{{Ilūkstes apriņķis}}
+}}
+
+[[Kategorija:Sēlija]]
+[[Kategorija:Augšdaugavas novada pagasti]]
+[[Kategorija:Salienas pagasts| ]]

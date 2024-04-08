@@ -1,0 +1,69 @@
+{{Citas nozīmes|fiziķi|Blohs|Blohs}}
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Fēlikss Blohs
+|     vārds_orig = Felix Bloch
+|         attēls = Felix Bloch, Stanford University.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1905
+|     dz_mēnesis = 10
+|       dz_diena = 23
+|       dz_vieta = [[Cīrihe|Cīrihē]], {{CHE}}
+|      m_dat_alt =
+|         m_gads = 1983
+|      m_mēnesis = 9
+|        m_diena = 10
+|        m_vieta = [[Cīrihe|Cīrihē]], {{CHE}}
+|   dzīves_vieta = {{CHE}}, {{USA}}
+|      pilsonība = 
+|        tautība = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|   darba_vietas = [[Stenforda Universitāte]], [[Hārvarda Universitāte]]
+|     alma_mater = [[Cīrihes Tehniskā augstskola]], [[Leipcigas Universitāte]]
+|        zinātne = [[kodolfizika]]
+|    pasniedzēji =
+|       studenti =
+|     sasniegumi = [[kodolu magnētiskā rezonanse]]
+|    apbalvojumi = [[Nobela prēmija fizikā|Nobela prēmija]] ([[1952]].)
+|       piezīmes = 
+|    kategorijas =    
+}}
+
+'''Fēlikss Blohs''' (''Felix Bloch''; dzimis {{dat|1905|10|23}}, miris {{dat|1983|9|10}}) bija [[Šveice]]s un [[Amerikas Savienotās Valstis|ASV]] [[fizika|fiziķis]].
+
+Mācījies Cīrihes Tehniskajā augstskolā (''Eidgenössische Technische Hochschule''), pēc tam [[Leipcigas Universitāte|Leipcigas Universitātē]]. 1934. gadā pārcēlās uz [[Amerikas Savienotās Valstis|ASV]], ([[Stenforda Universitāte|Stenforda Universitāti]]). [[Otrais pasaules karš|Otrā pasaules kara]] gados [[Losalamosas Nacionālā laboratorija|Losalamosas Nacionālajā laboratorijā]] piedalījās [[Manhetenas projekts|Manhetenas projektā]], pēc tam strādāja [[Hārvarda Universitāte|Hārvarda Universitātē]] pie [[radars|radaru]] izstrādes. 1952. gadā ieguva [[Nobela prēmija fizikā|Nobela prēmiju fizikā]] par [[kodolu magnētiskā rezonanse|kodolu magnētiskās rezonanses]] atklāšanu.<ref>{{Tīmekļa atsauce |title=The Nobel Prize in Physics 1952 |publisher=Nobel Foundation |url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1952/}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://nobelprize.org/nobel_prizes/physics/laureates/1952/bloch-bio.html Fēliksa Bloha biogrāfija Nobela prēmijas mājaslapā {{en}}]
+
+{{Cilvēks-aizmetnis}}
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Džons Kokrofts]]<br />[[Ernests Voltons]]| virsraksts = [[Nobela prēmija fizikā]] | periods = [[1952]]. <br />kopā ar [[Edvards Pērsels|Edvardu Pērselu]] | pēc = [[Frics Cērnike]]}}
+{{kastes beigas}}
+
+
+{{Nobela prēmijas laureāti fizikā}}
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Blohs, Felikss}}
+[[Kategorija:Cīrihes kantonā dzimušie]]
+[[Kategorija:Šveices ebreji]]
+[[Kategorija:Amerikāņu fiziķi]]
+[[Kategorija:Šveiciešu fiziķi]]
+[[Kategorija:Manhetenas projekts]]
+[[Kategorija:Nobela prēmijas laureāti fizikā]]

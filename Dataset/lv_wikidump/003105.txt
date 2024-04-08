@@ -1,0 +1,31 @@
+{{Citas nozīmes|daļēji vai pilnībā jonizētu vielu|plazma (nozīmju atdalīšana)|plazma}}
+[[Attēls:Plasma-lamp 2.jpg|235px|thumb|Dekoratīvā plazmas lampa]]
+'''Plazma''' ({{val|el|πλάσμα}}, ''plásma'' — ‘veidojums’) ir daļēji vai pilnīgi jonizēta [[viela]], kur lādētās daļiņas var brīvi pārvietoties. Plazmas svarīgākā īpašība ir tās kvazineitralitāte, tas nozīmē, ka pozitīvo un negatīvo lādēto daļiņu koncentrācija, no kurām tā veidota, ir gandrīz vienāda. [[Gāze]] kļūst par plazmu, ja kaut kādu iemeslu dēļ tās [[atoms|atomi]] vai molekulas ir zaudējuši vienu vai vairākus [[elektrons|elektronus]], un tie ir kļuvuši par pozitīviem [[jons|joniem]]. Dažos gadījumos atomiem var “pievienoties” elektroni, veidojot negatīvos jonus. [[Jonizācija|Jonizāciju]] var panākt, sakarsējot gāzes līdz augstām [[temperatūra|temperatūrām]] vai jonizējot tās citā veidā, piemēram, ar intensīvu [[elektriskais lauks|elektrisko lauku]]. Ja gāzē nav neitrālu daļiņu, tad to sauc par pilnībā jonizētu plazmu. Atšķirībā no gāzes, plazma ir [[elektrovadītājs]].
+
+Plazma ir viens no četriem vielas pamata [[agregātstāvoklis|agregātstāvokļiem]] (pārējie trīs ir [[cietviela]], [[šķidrums]] un [[gāze]]). Tā pakļaujas [[gāzu likumi]]em un daudzējādā ziņā uzvedas kā gāze. Tomēr, tā kā plazma [[elektriskais lauks|elektriskā]] un [[magnētiskais lauks|magnētiskā lauka]] iedarbībā uzvedas citādāk nekā gāze, tā tiek izdalīta kā atsevišķs agregātstāvoklis. Ja temperatūra ir zemāka par {{nobr|100 000 [[kelvins|K]]}}, tad to sauc par zemas temperatūras plazmu, savukārt, ja temperatūra ir lielāka, — par augstas temperatūras plazmu.<ref name="Fizikas rokasgrāmata"/>
+
+Plazmas jēdzienu 1923. gadā ieviesa amerikāņu fiziķis [[Ērvings Lengmīrs]], aprakstot [[gāzizlāde]]s parādības.<ref>{{tīmekļa atsauce | url= https://www.britannica.com/science/plasma-state-of-matter | title= Plasma | publisher= Britannica.com | accessdate= 2019. gada 9. jūnijā | language= en}}</ref> 1929. gadā šo terminu sāka izmantot arī cits amerikāņu zinātnieks [[Levi Tonkss]] (''Lewi Tonks''). Līdz tam termins “plazma” tika izmantots tikai bioloģijā, apzīmējot bezkrāsainu šķidru [[asins plazma|asins]], piena vai dzīvu audu komponentu. Pēc 1929. gada drīz vien jēdziens “plazma” oficiāli tika ieviests fizikas terminoloģijā.
+
+== Plazma tehnikā un dabā ==
+[[Attēls:Plasma display.jpg|thumb|Plazmas televizors]]
+Plazma plaši pielietota tehnikā, piemēram, to izmanto [[plazmotrons|plazmotronos]] (plazmas ģeneratoros), [[plazmas displejs|plazmas displejos]], [[jonu dzinējs|jonu dzinējos]]. Tā ir darba viela [[kodolsintēze]]s eksperimentālajos [[kodolreaktors|reaktoros]]. Dabā tā veidojas [[zibens]] laikā, [[uguns]] liesmās, [[Zemes atmosfēra|atmosfēras]] augšējos slāņos, īpaši [[jonosfēra|jonosfērā]], un citur. Ar plazmu saistīta un skaista dabas parādība ir [[Svētā Elma ugunis]]. [[Kosmiskā telpa|Kosmiskajā telpā]] plazma ir visizplatītākais [[viela]]s agregātstāvoklis, jo no plazmas sastāv [[zvaigzne]]s, arī mūsu [[Saule]].
+
+== Skatīt arī ==
+* [[Agregātstāvoklis]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Fizikas rokasgrāmata">{{grāmatas atsauce | title= Fizikas rokasgrāmata | publisher= Zvaigzne | year= 1985 | page= 230 | location= Rīga | isbn= 5-405-00201-1}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* {{grāmatas atsauce | title= Plazma - vielas ceturtais agregātstāvoklis | author= D. Franks-Kameņeckis ; R. Sagdejeva pēcvārds | publisher= Liesma | location= Rīga | year= 1978}}
+
+{{fizika-aizmetnis}}
+
+{{agregātstāvokļi}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Plazmas fizika]]

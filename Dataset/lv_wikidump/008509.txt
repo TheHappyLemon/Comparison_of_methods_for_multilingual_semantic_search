@@ -1,0 +1,11 @@
+'''Kosmiskais velkonis''', arī '''starporbitālais buksieris''' ({{val-en|space tug}}; {{val-ru|межорбитальный буксир, разгонный блок}}) - [[nesējraķete]]s [[raķešpakāpe|pakāpe]] vai raķešbloku komplekss, kas paredzēts [[derīgā krava|derīgās kravas]] - [[kosmiskais aparāts|kosmiskā aparāta]] pārvietošanai no vienas [[orbīta]]s uz citu vai [[trajektorija|trajektorijā]] uz citām [[planēta|planētām]]. Visbiežāk tā ir nesējraķetes augšējā pakāpe.
+
+Kosmiskajam velkonim jābūt iespējai veikt vienu vai vairākus [[Orbitālais manevrs|manevus]], lai izmainītu lidojuma ātrumu (vai kustības vektora virzienu). Tam ir paredzēta galvenā dzinējiekārta, kā arī orientācijas un stabilizācijas sistēmas. Dzinēju darbības vadība var būt realizēta autonomā vadības iekārtā, kas izvietota iekārtu nodalījumā, vai arī komandas tiek dotas no kosmiskā aparāta, kurš piestiprināts pie kosmiskā velkoņa.
+
+Līdz mūsdienām ir realizēta kosmiskā velkoņa shēma, kad nesējraķete kosmisko velkoni kopā ar derīgo kravu ievada zemā Zemes orbītā. Tad, sasniedzot vajadzīgo orbītas punktu, uz noteiktu brīdi tiek iedarbināts velkoņa dzinējs (vajadzības gadījumā vairākkārt), un kosmiskais aparāts atdalās no velkoņa uzreiz vai pēc mērķa orbītas sasniegšanas. Pēc atdalīšānās kosmiskais velkonis vai nu paliek tajā pašā orbītā vai arī vēlreiz tiek iedarbināts dzinējs, lai to novadītu no orbītas.
+<!-- vēl jāuzraksta par Apollo, Zond Mēness aplidojumu -->
+
+Pašlaik tiek strādāts pie projektiem, kas ļautu kosmiskajam velkonim apkalpot pavadoņus orbītā (pacelt vajadzīgajā orbītā pēc nesējraķetes neveiksmīgas darbības, veikt kosmiskā aparāta [[raķešdegviela|degvielas]] uzpildes vai remonta operācijas, novadīt pavadoni no orbītas pēc tā resursu beigšanās, veikt [[orbitālā stacija|orbitālo staciju]] apgādes operācijas, u.c.).
+
+[[Kategorija:Kosmiskie velkoņi| ]]
+[[Kategorija:Nesējraķetes]]

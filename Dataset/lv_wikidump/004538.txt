@@ -1,0 +1,71 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Alans Tjūrings
+|     vārds_orig = ''Alan Turing''
+|         attēls = Alan Turing photo.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1912
+|     dz_mēnesis = 6
+|       dz_diena = 23
+|       dz_vieta = [[Londona]], {{GBR}}
+|      m_dat_alt =
+|         m_gads = 1954
+|      m_mēnesis = 6
+|        m_diena = 7
+|        m_vieta = [[Vilmslova]], [[Češīra]], {{GBR}}
+|   dzīves_vieta = {{ENG}}
+|      pilsonība = {{GBR}}
+|        tautība = [[angļi|anglis]]
+|        dzimums = V
+|         vecāki = Džūljuss Metisons Tjūrings, Sāra Tjūringa (Stounija)
+|          brāļi = Džons
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|   darba_vietas = [[Mančestras Universitāte]]<br />[[Nacionālā fizikas laboratorija (Apvienotā Karaliste)|Nacionālā fizikas laboratorija]]<br />[[Kembridžas Universitāte]]
+|     alma_mater = [[Kembridžas Universitāte]]<br />[[Prinstonas Universitāte]]
+|        zinātne = [[matemātika]], [[loģika]], [[kriptoanalīze]]
+|    pasniedzēji = [[Alonzo Čērčs]]
+|       studenti =
+|     sasniegumi = [[Apstāšanās problēma]]<br />[[Tjūringa mašīna]]
+|    apbalvojumi = [[File:Order of the British Empire (Civil) Ribbon.svg|90px]] [[Britu impērijas ordenis]]
+|       piezīmes = 
+|    kategorijas =    
+}}
+
+'''Alans Matisons Tjūrings''' ({{val|en|Alan Mathison Turing}}; dzimis {{dat|1912|6|23}}, miris {{dat|1954|6|7}}) bija [[angļi|angļu]] [[matemātiķis]], loģiķis, datorzinātnieks, kriptoanalītiķis, filozofs un biomatemātiķis. Zinātnes vēsturē iegāja kā [[Mākslīgais intelekts|mākslīgā intelekta]] teorijas pamatlicējs.
+
+== Dzīvesgājums ==
+
+Dzimis Indijā dzīvojoša [[Lielbritānijas impērija]]s ierēdņa Džūljusa Metisona Tjūringa (''Julius Mathison Turing'') ģimenē. Studējis Lielbritānijas [[Kembridžas Universitāte]]s Karaliskajā koledžā, Francijā, ASV. 1936. gadā Tjūrings ieviesa [[algoritms|algoritma]] abstraktā ekvivalenta jēdzienu, kas vēlāk tika nodēvēts par [[Tjūringa mašīna|Tjūringa mašīnu]]. No 1936. līdz 1938. gadam strādāja [[Prinstonas Universitāte|Prinstonas Universitātē]] [[Amerikas Savienotās Valstis|ASV]] (''Institute for Advanced Study, Princeton University'').
+
+1938. gadā atgriezies Lielbritānijā, kur sāka strādāt pie dešifrēšanas skolas izveides (''Government Code and Cypher School''), bet sākoties [[Otrais pasaules karš|Otrajam pasaules karam]] pārgāja darbā Blečlī parkā (''Bletchley Park'') — britu [[kriptogrāfija]]s centrā, — kur bija grupas "Hut 8" vadītājs. 1940. gada sākumā viņa vadītā grupa izveidoja dešifrēšanas automātu ''Bombe'', kurš sāka darboties 18. martā un ļāva atšifrēt ''[[Luftwaffe]]'' šifrētās radioziņas. Pēc pusgada viņa grupai izdevās atšifrēt ''[[Kriegsmarine]]'' šifru kodus. Izveidoja skaitļošanas mašīnu ''Colossus'', ar kuras palīdzību 1943. gadā izdevās atšifrēt virkni [[Vērmahts|vērmahta]] radiopārraižu ziņojumu šifrēšanas kodu. Centrs nodarbojās arī ar poļu kriptogrāfa [[Marians Rejevskis|Mariana Rejevska]] 1938. gadā izstrādātā šifrēšanas algoritma pilnveidošanu, kas rezultātā ļāva atšifrēt [[Trešais reihs|vācu]] labākās šifrēšanas mašīnas [[Enigma (šifrēšanas mašīna)|Enigma]] kodus.
+
+1945. gadā Nacionālajā fizikas laboratorijā (''National Physical Laboratory'') sāka vadīt jauna lieldatora izstrādes projektu (''ACE, Automatic Computing Engine''), bet 1948. gadā sāka strādāt ar ''MADAM'' — tā laika pasaules jaudīgāko datoru (''MADAM, Manchester Automatic DigitAl Machine''). 1950. gadā viņš formulēja [[Tjūringa tests|Tjūringa testu]], ar kura palīdzību var noteikt, vai dators spēj domāt tāpat kā cilvēks. 1952. gadā izdeva savas monogrāfijas par dzīvo organismu formu evolūciju pirmo daļu (darbs tā arī palika nepabeigts).
+
+1953. gadā tika apsūdzēts [[Homoseksualitāte|homoseksualitātē]] un 30. martā tiesāts. Tiesa piesprieda 2 gadus ieslodzījumu cietumā vai ķīmisko kastrāciju ([[estrogēns|estrogēna]] injekcijas, pēc kurām vīrietim sāk augt krūtis un tiek noslāpēta [[dzimumdziņa]]). Zinātnieks izvēlējās otro variantu. Tiesas procesa radītā skandāla dēļ tika atlaists no darba Centrā, kā arī no Mančestras Universitātes. Tā kā nekur viņu darbā neņēma, turpmāko gadu pavadīja izolējies no sabiedrības savā dzīvoklī, palēnām ieslīgstot galējā nabadzībā un bezcerībā. 1954. gada 8. jūnijā Tjūringu atrada viņa dzīvoklī mirušu (izmeklēšanas slēdziens: pašnāvība, iedzerot cianīda devu).
+
+== Tjūringa balva ==
+Datortehnikas asociācija (''Association for Computing Machinery'') ir izveidojusi "[[Tjūringa balva|Tjūringa balvu]]", kuru kopš 1966. gada piešķir par izciliem sasniegumiem skaitļošanas tehnikas attīstībā, un kas prestiža ziņā līdzinās [[Nobela prēmija]]i.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20181012014022/http://www.alanturing.net/ The Turing Archive for the History of Computing]
+* [http://www.turingarchive.org/ The Turing Digital Archive]{{Novecojusi saite}}
+
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Tjūrings, Alans}}
+[[Kategorija:Londonā dzimušie]]
+[[Kategorija:Alans Tjūrings| ]]
+[[Kategorija:Anglijas matemātiķi]]
+[[Kategorija:Kriptogrāfi]]
+[[Kategorija:Izgudrotāji]]
+[[Kategorija:Datorzinātnieki]]
+[[Kategorija:Loģiķi]]
+[[Kategorija:LGBT cilvēki no Lielbritānijas]]
+[[Kategorija:Pašnāvnieki]]

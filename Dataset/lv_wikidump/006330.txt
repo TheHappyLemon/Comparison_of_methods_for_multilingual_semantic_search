@@ -1,0 +1,89 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Mogadīšo
+ | official_name            = ''Muqdisho''<br />{{ara|مقديشو}}
+ | settlement_type          = galvaspilsēta
+ | image_skyline            = Mogacapital.jpg
+ | image_caption            = 
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Somālija
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{SOM}}
+ | subdivision_type1        = Reģions
+ | subdivision_name1        = Banādira
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = 
+ | established_date         = I Gadsimts
+ | government_type          = 
+ | leader_title             = Mērs
+ | leader_name              = Omārs Finišs
+ | area_magnitude           = 
+ | area_total_km2           = 1657
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2021. gadā
+ | population_footnotes     = <ref name="Factbook"/>
+ | population_total         = 2497000
+ | population_urban         = 500865
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumāfrikas laiks|EAT]]
+ | utc_offset               = +3
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 2 | latm = 02 | lats =  | latNS = N
+ | longd = 45 | longm = 21 | longs =  | longEW = E
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 
+ | website                  = 
+ | footnotes                = 
+}}
+
+'''Mogadīšo''' ({{val|so|Muqdisho}}, {{val|ar|مقديشو}}, ''Maqadīshū''), zināma arī kā '''Hamara''', ir [[Somālija]]s lielākā pilsēta un valsts [[galvaspilsēta]]. Tā atrodas [[Indijas okeāns|Indijas okeāna]] krastā, mazliet uz ziemeļiem no [[ekvators|ekvatora]]. Gadsimtiem ilgi tā ir bijusi nozīmīgākā [[osta]] reģionā. 2022. gadā pilsētā dzīvoja 2,49 miljoni<ref>https://www.cia.gov/the-world-factbook/countries/somalia/#people-and-society</ref> iedzīvotāju.<ref name="Factbook"/> Pilsētas nosaukums ir atvasināts no [[persiešu valoda|persiešu vārda]] {{ara|مقعد شاه}} (''Maq'ad-i-Shah''), kas nozīmē "[[šahs (monarhs)|šaha]] rezidence". Mogadīšo ir zināma arī kā "Indijas okeāna baltā pērle".
+
+1892. gadā [[Zanzibāras sultanāts|Zanzibāras]] sultāns iznomāja pilsētu [[Itālija]]i. 1905. gadā Mogadīšo kļuva par [[Itālijas Somālilenda]]s administratīvo centru. 1960. gadā Somālija ieguva neatkarību, un Mogadīšo kļuva par jaunās valsts galvaspilsētu. 1991. gadā sākās [[Somālijas pilsoņu karš]]. Mogadīšo bija dažādu kaujinieku cīņu centrs.{{nepieciešama atsauce}}
+
+Pēc [[Kepena klimata klasifikācija|Kopena klasifikācijas]] Mogadīšo valda karsts [[pustuksneša klimats]] (BSh). Vidēji gaisa temperatūra ir no 24 līdz 30 °C. Mogadīšo dzīvo vairākas etniskas grupas. Lielākās no tām pēc cilvēku skaita ir [[bušmeņi]], [[kušīti]], [[arābi]] un [[persieši]].
+
+== Saimniecība ==
+Mogadišo ir [[Somālija]]s komerciālais un finanšu centrs. Saimniecība ir uzlabojusies pēc [[Somālijas pilsoņu karš|Somālijas pilsoņu kara]] sākuma, taču joprojām pastāv problēmas. Kamēr Somālijai nebija noteikta valdība, pastāvēja [[brīvā tirdzniecība]], bez nodokļiem un normatīvajām izmaksām. Uzņēmumi iznomā bruņotus kaujiniekus, lai būtu drošībā. Tas samazina vardarbību pilsētā.
+
+Galvenās nozares pilsētā ir [[pārtika]]s un [[dzērieni|dzērienu]] rūpniecība, kā arī [[tekstilizstrādājumi]]. Galvenais tekstilizstrādājums ir [[kokvilna]]. Galvenais ienākumu avots ir dažādu veidu preču pārdošana, sākot no pārtikas līdz elektroniskajām precēm.
+
+Mogadišo ir visintensīvākā kuģu satiksme nekā jebkurā citā ostā Somālijā. Tā joprojām ir liela [[osta]]s pilsēta. Tomēr Somālijas piekrastes zonās pastāv [[pirātisms]], kas padara tirdzniecību riskantu.
+
+== Sadraudzības pilsētas ==
+
+Mogadīšo sadraudzības pilsētas ir :
+
+* {{flaga|Kazahstāna}} [[Almati]], Kazahstāna<ref>https://books.google.lv/books?id=K3fiAAAAMAAJ&redir_esc=y</ref>
+* {{flaga|Turcija}} [[Ankara]], Turcija
+* {{flaga|ASV}} [[Sentpola]], ASV<ref>https://www.twincities.com/2019/05/10/st-paul-mn-adds-a-new-sister-city-mogadishu/</ref>
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Factbook">{{tīmekļa atsauce |url= https://www.cia.gov/library/publications/the-world-factbook/geos/so.html |title= Somalia |publisher= The World Factbook |accessdate= 2014. gada 6. jūnijā |language= angliski |archive-date= {{dat|2016|07|01||bez}} |archive-url= https://web.archive.org/web/20160701194614/https://www.cia.gov/library/publications/the-world-factbook/geos/so.html }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika-aizmetnis}}
+{{Āfrikas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Somālijas pilsētas]]
+[[Kategorija:Āfrikas galvaspilsētas]]

@@ -1,0 +1,54 @@
+{{Futbola kluba infokaste|
+nos=Boca Juniors|
+logo=[[Attēls:Boca Juniors logo18.svg|120px]]|
+pilns=''Club Atlético Boca Juniors''|
+dib=1905|
+stad=''La Bombonera''<br />[[Buenosairesa]], [[Argentīna]]|
+ietilp=57 395 |
+prez={{flaga|Argentīna}} [[Daniels Angelisī]]|
+tren={{flaga|Argentīna}} [[Ugo Ibarra]]|
+līga=[[Argentīnas Primera División|Primera División]]|
+sez=2018.-2019.|
+poz=3.|
+|pattern_la1      = _Boca Juniors 2018-19 Uniforme Titular
+|pattern_b1       = _Boca Juniors 2018-19 Uniforme Titular
+|pattern_ra1      = _Boca Juniors 2018-19 Uniforme Titular
+|pattern_sh1      = _Boca Juniors 2018-19 Uniforme Titular
+|pattern_so1      = _Boca Juniors 2018-19 Uniforme Titular
+|leftarm1         = 0F1E5A
+|body1            = 0F1E5A
+|rightarm1        = 0F1E5A
+|shorts1          = 0F1E5A
+|socks1           = 0F1E5A
+|pattern_la2      = _Boca Juniors 2018-19 Uniforme Suplente
+|pattern_b2       = _Boca Juniors 2018-19 Uniforme Suplente
+|pattern_ra2      = _Boca Juniors 2018-19 Uniforme Suplente
+|pattern_sh2      = _Boca Juniors 2018-19 Uniforme Suplente
+|pattern_so2      = _Boca Juniors 2018-19 Uniforme Suplente
+|leftarm2         = FFFFFF
+|body2            = FFFFFF
+|rightarm2        = FFFFFF
+|shorts2          = FFFFFF
+|socks2           = FFFFFF
+|pattern_la3      = 
+|pattern_b3       = 
+|pattern_ra3      =
+|pattern_sh3      =
+|pattern_so3      = 
+|leftarm3         = 
+|body3            = 
+|rightarm3        = 
+|shorts3          = 
+|socks3           = 
+}}
+
+[[Attēls:Hinchada de Boca desplegando sus telones.JPG|thumb|left|]]
+'''''Club Atlético Boca Juniors''''', zināms arī vienkārši kā '''''Boca Juniors''''' vai '''''Boca''''', ir populārs [[Argentīna]]s [[sporta klubs]], plašāk pazīstams ar savu [[futbols|futbola]] komandu. Tā mājvieta atrodas [[Buenosairesa]]s apkaimē [[La Boka]] un tās stadions ir ''[[Estadio Alberto J. Armando]]'', plašāk zināms kā ''La Bombonera''. Viņu galvenie sāncenši ir [[Buenosairesas "River Plate"]] klubs un abu šo klubu savstarpējās spēles sauc par ''Superclásico''.
+
+[[File:Panorama La Bombonera (Buenos Aires, Argentina) looking east.jpg|800px|center|]]
+
+
+{{futbols-stub}}
+
+[[Kategorija:Argentīnas futbola klubi]]
+[[Kategorija:Buenosairesas "Boca Juniors"]]

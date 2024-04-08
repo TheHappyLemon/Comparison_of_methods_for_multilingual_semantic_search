@@ -1,0 +1,122 @@
+{{Latvijas novada infokaste
+| nosaukums         = Blomes pagasts
+| karte             = Blomes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Smiltenes novads
+| centrs            = Blome
+| platība           = 75,94
+| iedzīvotāji       = 979<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 979 / 75.94 round 1}}
+| izveidots         = 1891
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.blome.lv
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Blumenhof<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Блуменская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+'''Blomes pagasts''' ir viena no [[Smiltenes novads|Smiltenes novada]] administratīvajām teritorijām tā rietumos. Robežojas ar sava novada [[Smiltenes pagasts|Smiltenes]], [[Brantu pagasts|Brantu]] un [[Raunas pagasts|Raunas]] pagastiem, [[Cēsu novads|Cēsu novada]] [[Mārsnēnu pagasts|Mārsnēnu pagastu]] un [[Valmieras novads|Valmieras novada]] [[Trikātas pagasts|Trikātas]] un [[Brenguļu pagasts|Brenguļu]] pagastiem. 
+
+== Daba ==
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+* [[Abuls]]
+** [[Nigra]]
+*** [[Mutulīte]]
+**** [[Zaķīšu grāvis]]
+*** [[Brantupīte (Nigras pieteka)|Brantupīte]]
+** [[Lisa (Abula pieteka)|Lisa]]
+*** [[Kaņupīte (Lisas pieteka)|Kaņupīte]]
+****[[Kameņupīte]]
+
+==== Ūdenstilpes====
+[[Asuāns]], [[Blomes dzirnavu ezers]], [[Muiniešu dzirnavu ezers]], [[Pauru dīķis]], [[Steģu gravas uzpludinājums]].
+
+==== Purvi====
+[[Lisas purvs]].
+
+=== Dabas pieminekļi ===
+* Riņģu dižozols (apkārmērs 8,6 m)
+* Kreiļu dižozols
+* Kreiļu dižkadiķis
+* Garoziņas dižpriede
+* Dukuļu dižegle
+* Pelītes dižvīksna
+* Brandavu priede
+* Pasaku ozols
+* [[Nigra]]s ielejā — Steģu grava ar dolomīta atsegumiem un Kāļu gravu
+* Jeberleja (Mutulītes ieleja)
+* [[Jaunsmiltenes aleja]]
+
+== Vēsture ==
+Blomes pagasts izveidots 1891. gadā, apvienojot Blomes un Biksējas muižu pagastus. [[1920. gada zemes reforma]]s laikā Blomes muižu sadalīja 140 vienībās 2021 ha kopplatībā, Biksējas muižu (''Wilkenpahlen'') 27 vienībās 278 ha kopplatībā, bet Ikšeles muižu (''Uexküllshof'') 17 vienībās 237 ha kopplatībā.<ref>{{LKV|II.|2603}}</ref> 
+
+—1926. gadā tas saukts par '''Nigras pagastu'''.<ref>[http://periodika.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp|issue:/p_001_wawe1926n146|article:DIVL60|query:Blomes|issueType:P Valdības Vēstnesis] {{Webarchive|url=https://web.archive.org/web/20131231021955/http://www.periodika.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp{{!}}issue:/p_001_wawe1926n146{{!}}article:DIVL60{{!}}query:Blomes{{!}}issueType:P |date={{dat|2013|12|31||bez}} }} 1926.gada 7.jūlijs</ref> 1935. gadā pagasta platība bija 64,5 km² un tajā dzīvoja 1254 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Blomes un [[Mutulītes ciems|Mutulītes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Blomes ciems''' ietilpis [[Smiltenes rajons|Smiltenes]] (1949—1959) un [[Valkas rajons|Valkas]] (pēc 1959. gada) rajonos. Blomes ciemam 1954. gadā pievienoja likvidēto Mutulītes ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Blomes pagastu kā administratīvo teritoriju iekļāva [[Smiltenes novads|Smiltenes novadā]].
+
+=== Pieminekļi ===
+* Krēsliņu senkapi ("Zelta kalniņš")
+* [[Brāļu draudzes]] saiešanas nams "Riņģos"
+* [[Blomes muiža (Valkas apriņķis)|Blomes muiža]]
+* Blomes - Siļķītes pamatskolas ēka (1881)
+* [[Ķikuļu Jēkabs|Ķikuļu Jēkaba]] piemiņas ansamblis (1977)
+* piemiņas zīme “Vārpas” (tēlnieks O. Feldsbergs)
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1254
+|1959|1308
+|1965|1330
+|1979|1223
+|1989|1177
+|2000|1110
+|2011|923
+|2021|855
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Blome]]''' (pagasta centrs), [[Biksēja]], [[Drandi]], [[Jeberi]], [[Purēnieši]], [[Kaiberis]], [[Jāņmuiža (Blomes pagasts)|Jāņmuiža]]. Blome atrodas 8 km no [[Smiltene]]s, 25 km no [[Valmiera]]s un 36 km no [[Cēsis|Cēsīm]].
+
+=== Ievērojamas personības === 
+* [[Ķikuļu Jēkabs]] (1740—1777), pirmo zināmo laicīga satura dzejoļu autors latviešu valodā
+* [[Jūlijs Pētersons]] (1880—1945), latviešu rakstnieks.
+* [[Ādolfs Ābele]] (1889-1967),  latviešu komponists, diriģents, ērģelnieks un mūzikas pedagogs. Latvijas Universitātes studentu kora “Dziesmuvara" diriģents (1927-1944). Komponējis simfoniskos tēlojumus, klavierdarbus, kora un solo dziesmas, tautasdziesmu apdares.
+* [[Andris Marts]] (1952), latviešu dzejnieks, rakstnieks un komponists.
+
+== Saimniecība ==
+=== Transports ===
+Pagastu šķērso autoceļi Smiltene—Valmiera ([[P18]]) un Smiltene—Mārsnēni—Liepa.
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Smiltenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Valkas rajons}}
+{{Valkas apriņķis}}
+}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Smiltenes novada pagasti]]
+[[Kategorija:Blomes pagasts| ]]

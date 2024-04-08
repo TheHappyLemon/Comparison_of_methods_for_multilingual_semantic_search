@@ -1,0 +1,162 @@
+{{Radiostacijas infokaste
+|nosaukums      = European Hit Radio
+|logo           = Ehr-logo-_2016.png
+|logo_izm       = 200x85px
+|formāts        = Top 40
+|frekvence      = '''[[Latvija]]'''<br />FM 104,3 MHz [[Rīga]]<br />FM 88,4 MHz [[Gulbene]]<br />FM 92,9 MHz [[Daugavpils]]<br />FM 93,6 MHz [[Saldus]]<br />FM 96,1 MHz [[Liepāja]]<br />FM 96,2 MHz [[Valka]]<br />FM 98,4 MHz [[Jēkabpils]]<br />FM 99,2 MHz [[Cēsis]]<br />FM 100,8 MHz [[Talsi]]<br />FM 101,9 MHz [[Ventspils]]<br />FM 102,0 MHz [[Madona]]<br />FM 102,4 MHz [[Valmiera]]<br />FM 107,4 MHz [[Kuldīga]]<br />
+|īpašnieks      = A/S ''Eiropas Hitu Radio''
+|adrese         = {{flag|Latvija}}, [[Rīga]]<br />Elijas iela 17-539, LV-1050
+|māsas_stacijas = 
+|mājaslapa      = https://www.ehrhiti.lv/
+|raida_kopš     = [[1992]]. gada aprīļa (kā Radiodejas)<br />[[1994]]. gada [[novembris|novembra]] (kā Super FM)<br />{{dat|2002|11|1|G}} (kā EHR)
+|tīmekļraide    = [http://stream.europeanhitradio.com:8000/ehr64.m3u European Hit Radio (.mp3)]<br />[http://stream.europeanhitradio.com:8000/ehr.ogg.m3u European Hit Radio (.ogg)]
+}}
+'''European Hit Radio''' ('''Eiropas Hitu Radio''', jeb '''EHR''') ir komercradiostacija, kas raida [[Latvija|Latvijā]]. Tā ir vienīgā radiostacija Latvijā, kas programmu sastāda stingri sekojot dziesmu pārdošanas apjomiem, sniedzot informāciju par Eiropā pirktākajām dziesmām.<ref>[https://www.tvnet.lv/6222650/ka-strada-european-hit-radio Kā strādā European Hit Radio?], tvnet.lv, {{dat|2004|2|4|SK}}</ref> Radio ietilpst EHR mediju grupā, kura sastāv no četriem nacionālās apraides radiostacijām FM diapazonā — European Hit Radio, [[EHR Superhits]], [[Krievijas hitu Radio|EHR Krievijas Hiti]] un [[Latviešu Radio|Latviešu Hiti]], diviem nopirktajiem radiostacijām [[Retro FM]] (arī FM) un [[XO FM]], kā arī daudziem internetā raidošiem kanāliem. Pēc kompānijas TNS datiem, EHR grupa ir vadošā komercradio grupa auditorijā līdz 40 gadu vecumam.
+
+== Vēsture ==
+=== Radiodejas ===
+1991. gadā, pēc neveiksmīgā [[augusts|augusta]] apvērsuma, daudzu plašsaziņas līdzekļu darbība tika apturēta, bet nelielai cilvēku grupai radās ideja izveidot [[Latvija|Latvijā]] neatkarīgu radiostaciju. 1991. gada [[septembris|septembrī]] Uģis Polis, Jānis Krauklis un Aldis Kušķis uzrakstīja Sakaru ministrijai lūgumu atļaut dibināt jaunu radiostaciju. Ministrija to atbalstīja, izsniedzot licenci ar pirmo kārtas numuru.<ref name="tvnet 01">[http://www.tvnet.lv/zinas/latvija/227603-jeremy_tevs_ugis_polis_velas_but_laimigs Jeremy tēvs Uģis Polis vēlas būt laimīgs.], tvnet.lv, {{dat|2003|6|17|SK}}</ref> 1992. gadā aprīlī tika izveidota radiostacija ar nosaukumu "Radiodejas", kas raidīja ultraīsviļņu (68,93 UĪV) diapazonā, jo raidīšana [[Frekvences modulācija|FM]] diapazonā tolaik vēl nebija oficiāli atļauta. "Radiodejas" bija nekomerciāls projekts.<ref name="tvnet 01" /> Sākotnēji Radiodejas raidīja no kāda dzīvokļa [[Tērbatas iela (Rīga)|Tērbatas ielā]] 6/8—81, [[Rīga|Rīgā]] un bija dzirdamas tikai pilsētas teritorijā.<ref>[http://company.lursoft.lv/radiodejas Radiodejas<!-- Bota izveidots nosaukums -->]</ref> Viss balstījās tikai uz dibinātāju vēlmi parādīt, ka neatkarīga raidīšana Latvijā ir iespējama. Izmantojot [[Satelīts|satelītu]],<ref name="SP 2003" /> ēterā pārsvarā tika raidītas [[Eiropa]]s hitu radiostaciju programmas. Galvenais mērķis bija dod klausītājiem iespēju dzirdēt, kādā līmenī strādā Eiropas radiostacijas.
+
+=== Super FM ===
+[[Attēls:RadioDejas.jpg|thumb|180px|Radiodejas logo (1992—1994).]]
+
+Pēc nepilniem diviem gadiem, strauji pieaugušās konkurences apstākļos, kļuva skaidrs, ka Radiodejām jāpāriet uz [[Frekvences modulācija|FM]] raidīšanas diapazonu. Atļauja tika saņemta, bet nebija atbilstoša tehniskā nodrošinājuma. Tādēļ 1994. gada [[janvāris|janvārī]] Uģis Polis devās uz ikgadējo mūzikas tirgu [[Kannas|Kannās]], kur kāda [[Itālija|itāļu]] kompānija piedāvāja pilnīgi datorizētu radiostacijas risinājumu, kurā cilvēka vietā darbojās dators. Tolaik tā bija revolucionāra un pasaulē tikpat kā neizmantota pieeja. Uģim izdevās ieinteresēt trīs bankas šāda projekta īstenošanai [[Rīga|Rīgā]], un 1994. gada [[5. novembris|5. novembrī]] plkst. 13:04 (bet no [[14. novembris|14. novembra]] arī pirmajā ultraīsviļņu diapazonā — vilnī 68,9 MHz, jeb bijušajā Radiodeju frekvence) sāka raidīt [[Baltijas valstis|Baltijā]] pirmā datorizētā radiostacija "Super FM".<ref>Atdzimušie un jaunatklātie. Laikraksts "Neatkarīgā Cīņa" Nr. 258, {{dat|1994|11|5|SK}}</ref> Tās mērķis bija atskaņot jaunāko un populāro deju mūziku. Super FM skanēja visu diennakti. Sākumā no plkst. 8 līdz 18 tika atskaņota visvairāk pirktā mūzika Eiropā, bet no plkst. 18 līdz 6 skanēs deju mūzika. Radiostacijas veidotāji bija orientējušies uz klausītāju auditoriju vecumā no 16 līdz 36 gadiem.<ref>Darbu sākusi radiostacija Super-FM. Laikraksts "Diena" Nr. 262, {{dat|1994|11|9|SK}}</ref>
+
+Sākotnēji [[dators]] vadīja trīs kompaktdisku aparātus, kuros katrā bija 100 [[Kompaktdisks|kompaktdiski]]. Vēlāk, tehnoloģijām attīstoties, tos nomainīja datori, kuros dziesmas, reklāmas un raidījumus ierakstīja audio failu formātā. Failu atskaņošanas secība tika noteikta saskaņā ar speciāliem algoritmiem, kas sastādīja dziesmu rotācijas sistēmu.
+
+1994. gadā radiostacija [[Pārdaugava|Pārdaugavā]] atvēra (tajā laikā lielāko) deju klubu "Super FM deju klubs".<ref>{{Tīmekļa atsauce |url=http://djtop.lv/dj/beat |title=Latvijas DJ portāls<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|01|11||bez}} |archiveurl=https://web.archive.org/web/20081226063612/http://www.djtop.lv/dj/beat/ |archivedate={{dat|2008|12|26||bez}} }}</ref> Šis klubs kļuva populārs jauniešu vidū un tajā uzstājās populārākie [[Latvija]]s dīdžeji.{{nepieciešama atsauce}}
+
+=== European Hit Radio ===
+[[Attēls:Super FM logo 1994.jpg|thumb|left|180px|Super FM logo (1994. gads).]]
+
+Pēc septiņiem darbības gadiem, Super FM bija gatavs datorizētās radiostacijas īstenošanai [[Lietuva|Lietuvā]] un [[Igaunija|Igaunijā]].<ref>[http://www.financenet.lv/zinas/114988-tris_baltijas_radiostacijas_atklaj_visu_regionu_aptverosu_radiotiklu Trīs Baltijas radiostacijas atklāj visu reģionu aptverošu radiotīklu], financenet.lv, {{dat|2001|9|21|SK}}</ref> Tika izraudzīti divi šajās valstīs nesekmīgi radiotīkli. Bija nepieciešami seši mēneši, lai 17 raidītājus apvienotu vienā tīklā un izveidotu pirmo radiostaciju tīklu, kas vienlaikus raida visā [[Baltijas valstis|Baltijā]]. Izpētot vairāk nekā 60 Baltijas radiostaciju piedāvātās programmas, kļuva skaidrs, ka tās visas galvenokārt orientējās uz lokāliem notikumiem. Tāpēc tika pieņemts lēmums veidot [[Eiropa]]s mūzikas tirgu atspoguļojošu radiostaciju.
+
+Jaunajai radiostacijai tika dots arī atbilstošs nosaukums — "European Hit Radio", kas pirmo reizi Baltijas ēterā izskanēja 2002. gada [[1. novembris|1. novembrī]]. European Hit Radio galvenais uzdevums ir precīzi atspoguļot to, kas notiek Eiropas mūzikas tirgū.<ref name="SP 2003">[http://anton.world.lv/sakarup/main.php3?sub=view&RID=735 Tā ir radio nākotne]{{Novecojusi saite}}, Sakaru Pasaule, 1(29) — 2003</ref><ref>[http://www.tvnet.lv/izklaide/notikumi/47540-aprit_7_gadi_kops_latvija_skan_european_hit_radio Aprit 7 gadi, kopš Latvijā skan "European Hit Radio"], tvnet.lv, {{dat|2009|11|1|SK}}</ref>
+
+[[Attēls:Super FM logo.gif|thumb|180px|Super FM logo (1998—2002).]]
+
+2011. gada nogalē ''European Hit Radio'' veica būtiskas izmaiņas radio izskatā un darbībā. Tika izvēlēts jauns radiostacijas logo, kas atspoguļoja ''EHR'' filozofiju un attīstību, būtisku izmaiņu radio klausīšanās paradumos līdz 25 gadiem, radiostacijā tika ieviests jauns ''klausītākais laiks'' ({{val|en|prime-time}}), ''EHR'' tika uzsākta Latvijas hitu atskaņošana, kā arī reklāmas bloku kļuva vairāk, bet to garums tika samazināts uz pusi. ''European Hit Radio'' konkursā izvēlējās jaunu logo. Konkursā piedalījās 328 dizaineri no visas pasaules un tika iesniegti 1786 logo varianti. Tika atlasīti pieci labākie, kurus vērtēja ''EHR'' darbinieki un par kuriem bija iespēja nobalsot arī radio klausītājiem. Pārmaiņas skāra arī radio programma. Pēc radiostacijas veiktās izpētes, 2006. gada rudenī, radio klausītāju skaita līknē bija novērojami trīs pacēlumi: plkst. 12., 16. un 20., savukārt 2011. gada rudenī veiktajā pētījumā tika konstatēts, ka lielākais radioklusītāju skaita kāpums ir tieši rīta stundās. Rezultātā radiostacijas ''prime-time'' tika noteikts laika posmā no 10.00—14.00, ar atkārtojumu no plkst. 16.00—20.00. Tad nu arī šajā laika posmā tika koncentrēti visi svarīgākie raidījumi, tostarp Top 40. Papildus, ''EHR'' savā dziesmu atskaņošanas sarakstā iekļāva arī tās Latvijas dziesmas, kuras klausītāju prāt ir spējīgas konkurēt ar Eiropas hitiem Latvijā. Pamatojoties uz to, ka Eiropas hitu radio klausītāji līdz 25 gadu vecumam, kas ir arī radiostacijas pamatauditorija, pavada pie radio aptuveni 3 stundas dienā, tika samazināti topu garumi līdz vienai stundai, lai nodrošinātu šiem klausītājiem dzirdēt pēc iespējas vairāk hitu. Veicot klausītāju aptauju, tika noskaidrota EHR raidījumu popularitāte. Pamatojoties uz šo pētījumu, tika samazināts raidījumu skaits par 25% ("Airplay Top 40", "[[European Dance Traxx]]", "Desmitgades hiti", "Download Top 20", "Euro Radio Airplay", "Iespēja Eiropā", "Pieci no viena", "Tagad tu zini vairāk" un rīta programma "Tostermaize"). Visbeidzot radiostacija sāka izmantot īsākus, bet biežākus reklāmas blokus — divu 5 minūšu garu reklāmas bloku, stundas 20. un 40. minūtē, vietā tika izvietoti četri 2,5 minūšu gari reklāmas bloki stundas 10., 20., 40. un 50. minūtē.<ref>[http://www.youtube.com/watch?v=MEMOxsErE2o&hd=1 Eiropas Hitu Radio Jaunumi 2012], youtube.com</ref> Papildus šīm izmaiņām, 2012. gada sākumā, raidījums "European Hit Radio Top 40" turpmāk tika atskaņots automātiski, bez ilggadējā raidījuma vadītāja [[Roberts Lejasmeijers|Roberta Lejasmeijera]] dalības. Vēlāk Top 40 atskaņošanas laiks tika samazināts līdz vienai stundai.
+
+2012. gada 19. septembrī, ''European Hit Radio'' mājaslapā un oficiālajā YouTube kanālā parādījās informācija, ka 23. septembrī Eiropas Hitu Radio atklāj jauno rudens sezonas programmu.<ref>[http://www.europeanhitradio.lv/news/1/5129 Jaunais EHR no 23/09/2012], europeanhitradio.lv {{dat|2012|9|19|SK}}</ref> Kopā ar vadošajiem radio skanējuma ekspertiem ''EHR'' veica būtiskas izmaiņas radiuostacijas skanējumā — turpmāk EHR skanēja tā, kā skan vadošās Eiropas un ASV hitu stacijas. Tika ieviesti pilnīgi jauni radio džingli. Arī Top 40 tika mainīts skanējuma laiks. Sākot ar 28. septembri tas tika atskaņots piektdienās plkst. 10.00, ar atkārtojumu svētdien, plkst. 16.00. Turklāt atkal abi raidījumi bija dzirdami pilnā garumā. Līdzās EHR, pārmaiņas skāra arī [[Super FM]].
+
+Pašlaik European Hit Radio var dzirdēt Latvijā un Lietuvā. Pēc BMF radio reitingu pētījuma, European Hit Radio ieņem līdera pozīcijas [[Latvija|Latvijā]] demogrāfiskajā grupā līdz 30 gadiem.<ref>[http://www.tns.lv/?lang=lv&category=search&list=true&id=european%20hit%20radio TNS Latvia<!-- Bota izveidots nosaukums -->]</ref>
+
+2016. gadā, kļūstot par “EHR popkultūras mediju grupu”, ir uzstādīts jauns mērķis – kļūt par vienu no labākajām hītu raidstacijām Eiropā. Kompānijas attīstība ietver 3 galvenos virzienus:
+
+EHR portāls <u>www.ehrmedijugrupa.lv</u> kļūst par Eiropas popkultūras jaunumu centru. Katru dienu par aktuālāko mūzikas, kino, seriālu un tehnoloģiju pasaulē.
+
+Šobrīd EHR portālā un aplikācijā piedāvā klausīties ne tikai 3 pamata radiostacijas, arī papildu kanālus, kuru skaits drīzumā sasniegs 15. Katrs kanāls skan kā neatkarīga radiostacija ar raksturīgajiem EHR elementiem, arī ar reklāmas blokiem.
+
+Funkcijām bagātā jaunā EHR mobilā aplikācija, kopš tās publicēšanas brīža 2016 g. augustā, ir lejuplādētākā radio aplikācija valstī. Lejuplāžu topā tā ieņem stabilu vietu pirmajā trijniekā Latvijā starp mūzikas aplikācijām, katru dienu iegūstot 250 jaunu lietotāju.
+
+Kopš 2021. gada, European Hit Radio ir iegādājuši radiostaciju Retro FM<ref>{{Tīmekļa atsauce|url=https://www.tvnet.lv/7380493/ehr-par-pusmiljonu-eiro-noperk-radiostaciju-retro-fm-latvija|title="EHR" par pusmiljonu eiro nopērk radiostaciju "Retro FM Latvija"|access-date={{dat|2021|11|8||bez}}}}</ref>, bet 2022. gada Maijā [[XO FM]], kur no 20 Jūnija kļuva par Interneta radio.<ref>{{Tīmekļa atsauce|url=https://www.ehrhiti.lv/jaunumi/radio-latviesu-hiti-atgriezas-fm-apraide-visa-latvija-riga-legendaraja-frekvence-101-fm|title=Radio Latviešu Hiti atgriežas FM apraidē visā Latvijā. Rīgā – leģendārajā frekvencē 101 FM|access-date={{dat|2022|6|20||bez}}}}</ref>
+
+Svinot 30 gadus kopš radiostacijas palaišanas, un 20 gadi kopš saucās EHR (Eiropas Hitu Radio), 2022. gada 9 septembrī “Splendid Palace” notika pirmizrāde filmai “RadioDejas. 30 gadi ēterā”, un stāstīts par pirmā neatkarīgā radio tapšanu un attīstību Latvijā.<ref>{{Tīmekļa atsauce|url=https://www.ehrhiti.lv/jaunumi/tapusi-filma-radiodejas-30-gadi-etera-pirmizrade-9-septembri|title=Tapusi filma “RadioDejas. 30 gadi ēterā”. Pirmizrāde 9. septembrī!|access-date={{dat|2022|9|8||bez}}}}</ref>
+
+== Programma ==
+''European Hit Radio'' atskaņojamo [[Dziesma|dziesmu]] pamatprogrammu katru nedēļu sastāda automātiski, pārbaudot [[Eiropa]]s valstu topu mājaslapas. [[Datorprogramma]], atkarībā no katras dziesmas pozīcijas attiecīgās valsts topā, to indeksē un izveido dziesmu atskaņošanas sarakstu. Dziesmas tiek sarindotas tā, lai nedēļas laikā atkārtotos atkarībā no tās popularitātes Eiropā un laiks starp dziesmas atskaņošanas reizēm būtu pielīdzināms dziesmas populatitātei (jo populārāka dziesma, jo biežāk un vairāk tā tiek atskaņota). Tiek veikta arī radiostacijas klausītāju aptauja internetā,<ref>{{Tīmekļa atsauce |url=http://srvy.net/x/1.p?834588461226 |title=European Hit Radio Listener Advisory Board Registration |access-date={{dat|2006|11|29||bez}} |archive-date={{dat|2007|01|20||bez}} |archive-url=https://web.archive.org/web/20070120045850/http://srvy.net/x/1.p?834588461226 }}</ref> kuras rezultātā tiek veidots [[European Hit Radio Top 40|iknedēļas Top 40]].
+
+''European Hit Radio'' veido arī dažādus mūzikas apskatus — ārvalstu topu apskatus ([[Lielbritānija]]s Top 40, [[Billboard|Billboard Top 40]], ), kā arī Euro Digital Songs, YouTube Top 25 un citus raidījumus.
+
+[[Piektdiena]]s un [[sestdiena]]s vakaros ir iespējams dzirdēt raidījumu ''Party Service'', kas ir radiošovs par aktuāliem, nozīmīgiem un ievērības cienīgiem elektroniskās deju mūzikas pasākumiem Latvijas, Baltijas un Eiropas atzītākajos deju klubos un populārākajās izklaides vietās, intervijas ar dīdžejiem, producentiem, organizatoriem un klubu menedžeriem kopā ar [[Ex da Bass|[Ex] da Bass]], pēc kura Eiropas hitu remiksi raidījumā Hit Mix.
+
+== Top 40 un Top 100 ==
+[[Attēls:European Hit Radio logo.png|thumb|250px|European Hit Radio logo ([[2002]]—[[2011. gads|2011]]).]]
+{{pamatraksts|European Hit Radio Top 40}}
+{{pamatraksts|European Hit Radio Top 100}}
+
+=== Top 40 sastādīšanas princips ===
+''European Hit Radio'' [[European Hit Radio Top 40|Top 40]] tiek sastādīts, pamatojoties uz klausītāju balsojuma rezultātiem, kas ik nedēļu tiek apkopoti raidījumā "European Hit Radio Top 40". Topa veidošanas procesā piedalās visas dziesmas, par kurām ir balsots ''European Hit Radio'' mājas lapā — sadaļās Top 9 un Top 40, Padomdevēju aptaujā un ar e-pasta starpniecību. Neatkarīgi no tā, kādā veidā ir balsots par dziesmām, visas balsis, pēc noteikta algoritma, tiek summētas kopā, veidojot ''European Hit Radio'' klausītāju 40 populārāko dziesmu sarakstu, kas ēterā skan katru piektdienu plkst. 13.00, ar atkārtojumu svētdienā plkst. 16.00.
+
+=== Balsošanas iespējas ===
+Balsot par dziesmām var vairākos veidos:
+* EHR mājas lapā, balsojot sadaļā Top 9 — balsot ir iespējams reizi dienā,<ref>[http://www.europeanhitradio.com/topi/Top10 European Hit Radio / Top 5 / Top 9], europeanhitradio.com</ref>
+* EHR mājas lapā, balsojot sadaļā Top 40 — balsot ir iespējams vienu reizi nedēļā,<ref>[http://www.europeanhitradio.com/topi/Top40 European Hit Radio / Top 40], europeanhitradio.com</ref>
+* reģistrējoties kā "Padomdevējam",<ref>[http://www.europeanhitradio.com/padomdeveji European Hit Radio / Padomdevēji], europeanhitradio.com</ref>
+* sūtot e-pastu un adresi — top40@europeanhitradio.com
+
+European Hit Radio mājas lapā, sadaļās Top 9 un Top 40, ir iespējams nobalsot par trijām dziesmām, savukārt reģistrējoties kā European Hit Radio Padomdevējam, katru nedēļu uz lietotāja norādīto e-pasta adresi tiek nosūtīts 40 dziesmu saraksts, kurā katra no dziesmām ir jānovērtē ar atzīmi no 1 līdz 7 (1 ir zemākais vērtējums, kas nozīmēs, ka dziesma pavisam nepatīk, 7 — augstākais vērtējums, kas nozīmēs, ka dziesma ļoti patīk). Jāatzīmē, vai dziesma ir pazīstama vai nē, kā arī jāatzīmē, vai dziesma jau ir apnikusi vai nē. Papildus šīm izvēlnēm, katrai dziesmai ir iespējams noklausies tās fragmentu, uzklikšķinot uz linka. Pēc dziesmu vērtēšanas papildus ir jāatbild uz 2 aptaujas jautājumiem par dažādām tēmām. Lai gan Padomdevēju aptaujas ir angļu valodā, tomēr atbildēt uz jautājumiem var arī latviešu valodā.
+
+Balsojot European Hit Radio mājas lapā, sadaļā Top 9, balsojuma rezultāts tiek apkopots raidījumā Top 9, kas skan no svētdienas līdz ceturtdienai plkst. 21.00.
+[[Attēls:EHR logo 2011.png|alt=EHR logo 2011-2016|thumb|EHR logo 2011-2016]]
+
+=== Top 100 sastādīšanas princips ===
+[[European Hit Radio Top 100]] tiek sastādīts pamatojoties uz klausītāju balsojuma rezultātiem, kas, ik nedēļu, tiek apkopoti [[European Hit Radio Top 40|Top 40]]. Topa veidošanas procesā piedalās visas dziesmas, kas kaut reizi ir pabijušas [[European Hit Radio Top 40|Top 40]] sarakstā. No visām vidēji 250 līdz 280 gada laikā [[European Hit Radio Top 40|Top 40]] iekļuvušajām dziesmām, tiek noteiktas populārākās 100.
+
+Katrai dziesmai, kas kaut reizi ir iekļuvusi [[European Hit Radio Top 40|Top 40]], tiek piešķirts punktu skaits, atkarībā no dziesmas atrašanās vietas topā. Piemēram, ja dziesma iknedēļas [[European Hit Radio Top 40|Top 40]] ieņem 1. vietu, tad dziesmai tiek pieskaitīts 1 punkts, ja dziesma ieņem 12. vietu, tad 12 punkti, ja 37. vietu, tad 37 punkti un tā tālāk. Nedēļās, kurās dziesma nav iekļuvusi [[European Hit Radio Top 40|Top 40]] populārāko dziesmu sarakstā, dziesmai tiek pieskaitīts 41 punkts. Veidojot Top 100, visi punkti tiek skaitīti kopā un augstāko vietu iegūst dziesma ar vismazāko punktu skaitu. Ja vairākām dziesmām ir vienāds punktu skaits, tad augstākā vietā nonāk tā dziesma, kurai ir bijusi augstākā vieta [[European Hit Radio Top 40|Top 40]], tad nākamā augstākā vieta un tā tālāk.
+
+== Apraide ==
+{{Col-begin|width=65%}}
+{{Col-3}}
+
+{| class="wikitable" border=1
+!width="100" style="background:#efefef;" | {{karogs|Latvija}} <ref>[http://www.europeanhitradio.com/news/1/4338 Šobrīd tiek veikta European Hit Radio apraides tīkla paplašināšana un esošā frekvenču plāna optimizēšana.], europeanhitradio.com</ref>
+!width="100" style="background:#efefef;" | Frekvence
+|-
+| [[Rīga]] 
+| align="center" | 104,3 MHz
+|-
+| [[Gulbene]] 
+| align="center" | 88,4 MHz
+|-
+| [[Saldus]] 
+| align="center" | 93,6 MHz
+|-
+| [[Liepāja]] 
+| align="center" | 96,1 MHz
+|-
+| [[Cēsis]] 
+| align="center" | 99,2 MHz
+|-
+| [[Talsi]] 
+| align="center" | 100,8 MHz
+|-
+| [[Ventspils]] 
+| align="center" | 101,9 MHz
+|-
+| [[Madona]] 
+| align="center" | 102,0 MHz
+|-
+| [[Valmiera]] 
+| align="center" | 102,4 MHz
+|-
+| [[Kuldīga]] 
+| align="center" | 107,4 MHz
+|-
+| [[Jēkabpils]] 
+| align="center" | 98,4 MHz
+|-
+| [[Valka]] 
+| align="center" | 96,2 MHz
+|-
+| [[Daugavpils]] 
+| align="center" | 92,9 MHz
+|}
+
+{{Col-3}}{{col-end}}
+
+== Skatīt arī ==
+* [[European Hit Radio Top 40]]
+* [[European Hit Radio Top 100]]
+
+== Atsauces ==
+<div class="reflist4" style="height: 220px; overflow: auto; padding: 3px" >
+{{atsauces}}
+</div>
+
+== Ārējās saites ==
+{{EHR ārējās saites}}
+* [http://www.europeanhitradio.lt Oficiālā European Hit Radio Lithuania mājas lapa]
+* [https://web.archive.org/web/20070629063448/http://www.europeanhitradio.lt/TOP40 Šīs nedēļas EHR Lithuania Top 40]
+* 
+*[http://radio.lv/ehr/ EHR tiešraide internetā]
+*[https://web.archive.org/web/20110314191013/http://www.egerszegradio.eu/ Egerszeg European Hit Radio mājas lapa]
+*
+* [https://www.behance.net/gallery/Super-FM-logo-episode-1/11752177 Super FM logo izstrādes process], behance.net
+
+{{EuroHitRadioNav}}
+{{Radiostacijas Latvijā}}
+
+[[Kategorija:Radio]]
+[[Kategorija:European Hit Radio]]
+[[Kategorija:Latvijas radio stacijas]]

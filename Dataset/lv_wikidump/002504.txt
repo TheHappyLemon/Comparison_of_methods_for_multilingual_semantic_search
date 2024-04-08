@@ -1,0 +1,85 @@
+{{Pasaules mantojuma objekta infokaste
+| WHS         = Dienvidmazpolijas koka baznīcas
+| Image       = [[Image:Sekowa drewniany kosciol.jpg|300px]]
+| State Party = {{POL}}
+| Type        = Kultūra
+| Criteria    = iii, iv
+| ID          = 1053
+| Region      = Eiropa un Ziemeļamerika
+| Year        = 2003
+| Session     = 27.
+| embedded    = 
+{{Location map+
+| Polija
+| float      = center
+| border     = none
+| places =
+  {{Location map~ | Poland
+    | label = Sękowa
+    | position = none
+    | lat_deg = 49 | lat_min = 36 | lat_dir = N
+    | lon_deg = 21 | lon_min = 12 | lon_dir = E
+  }}
+  {{Location map~ | Poland
+    | label = Dębno
+    | position = none
+    | lat_deg = 49 | lat_min = 28 |lat_sec=0 |lat_dir = N
+    | lon_deg = 22 | lon_min = 12 | lon_sec = 30 | lon_dir = E
+  }}
+  {{Location map~ | Poland
+    | label = Lipnica Dolna
+    | position = none
+    | lat_deg = 49 | lat_min = 51 | lat_sec = 28 | lat_dir = N
+    | lon_deg = 20 | lon_min = 33 | lon_sec = 59 | lon_dir = E
+  }}
+  {{Location map~ | Poland
+    | label = Haczów
+    | position = none
+    | lat_deg = 49 | lat_min = 39 | lat_sec = 52 | lat_dir = N
+    | lon_deg = 21 | lon_min = 54 | lon_sec = 05 | lon_dir = E
+  }}
+  {{Location map~ | Poland
+    | label = Binarowa
+    | position = none
+    | lat_deg = 49 | lat_min = 45 | lat_sec = 15 | lat_dir = N
+    | lon_deg = 21 | lon_min = 13 | lon_sec = 45 | lon_dir = E
+  }}
+  {{Location map~ | Poland
+    | label = Blizne
+    | position = none
+    | lat_deg = 49 | lat_min = 45 | lat_sec = 04 | lat_dir = N
+    | lon_deg = 21 | lon_min = 58 | lon_sec = 29 | lon_dir = E
+  }}
+}}
+}}
+'''Dienvidmazpolijas koka baznīcas''' ({{val|pl|Drewniane kościoły południowej Małopolski}}), [[Karpati|Karpatu]] priekškalnu ciematiņos lieliski saglabājušās senās koka arhitektūras pieminekļi — sīko draudžu baznīcas. Sešas no tām 2003. gadā iekļautas [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]].
+
+Koka baznīcas saglabājušās no vismaz XVI gs. Tās veidotas [[guļbūve]]s tehnikā un lieliski iederas Karpatu ainavā.
+
+Šo baznīcu arhitektūra sakņojas [[rutēņi|rutēņu]] tautas mākslas tradīcijā, un diezgan līdzīga stila celtnes sastopamas arī citur Karpatos ([[Ukraina|Ukrainā]], [[Slovākija|Slovākijā]], [[Ungārija|Ungārijā]] un [[Rumānija|Rumānijā]]).
+
+Baznīcas iekļautas UNESCO Pasaules mantojuma sarakstā kā unikāli koka arhitektūras paraugi, ar vēlmi vēlāk tur iekļaut koka baznīcas no citiem Karpatu apgabaliem.
+
+== Baznīcu UNESCO sarakstā uzskaitījums ==
+
+* Erceņģeļa Mihaila baznīca (''Kościół par. p. w. św. Michała Archanioła w Binarowej'') — Binarovā (''Binarowa''). Atrodas aptuveni 40 km uz austrumiem no [[Novi Sonča]]s. Celta ap 1500. gadu.
+* Visu svēto baznīca (''Kościół par. p. w. Wszystkich Świętych w Bliznie'') — Bļiznē (''Blizne''). Atrodas aptuveni 30 km uz dienvidiem no [[Žešova]]s. Celta 15. gadsimta vidū.
+* Erceņģeļa Mihaila baznīca (''Kościół par. p. w. św. Michała Archanioła w Dębnie'') — Denbnā (''Dębno''). Atrodas aptuveni 60 km uz dienvidiem no [[Žešova]]s. Celta 15. gadsimta otrajā pusē.
+* Dievmātes Debesbraukšanas un Erceņģeļa Mihaila baznīca (''Kościół p. w. Wniebowzięcia Matki Boskiej i Świętego Michała Archanioła w Haczówie'') Hačovā (''Haczów''). Atrodas aptuveni 40 km uz dienvidiem no [[Žešova]]s. Celta 15. gadsimta vidū.
+* Sv. Leonarda baznīca (''Kościół p. w. św. Leonarda w Lipnicy Murowanej'') Ļipņicā Murovanā (''Lipnica Murowana''). Atrodas aptuveni 40 km uz austrumiem no [[Krakova]]s. Celta 15 gadsimta beigās.
+* Apustuļu Filipa un Jēkaba baznīca (''Kościół śś. Filipa i Jakuba Apostołów w Sękowej'') Senkovā (''Sękowa''). Atrodas aptuveni 70 km uz dienvidiem no [[Tarnova]]s. Celta ap 1520. gadu.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* {{oficiālā tīmekļa vietne}}
+* [https://web.archive.org/web/20051124201238/http://www.man.poznan.pl/%7emarcinp/pages/drewniane/drewniane.html Polijas koka baznīcas] {{pl ikona}}
+* [http://whc.unesco.org/en/list/1053 UNESCO ieraksts] {{en ikona}}
+
+{{Polija UNESCO}}
+
+[[Kategorija:UNESCO Pasaules mantojuma vietas Polijā]]
+[[Kategorija:Koka arhitektūra]]
+[[Kategorija:Baznīcas Polijā]]
+[[Kategorija:Mazpolijas vojevodiste]]
+[[Kategorija:Piekarpatu vojevodiste]]

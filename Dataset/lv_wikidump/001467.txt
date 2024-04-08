@@ -1,0 +1,53 @@
+[[Attēls:Thermally Agitated Molecule.gif|thumb|Lielākā temperatūrā molekulas svārstību amplitūda palielinās ]]
+'''Temperatūra''' ir [[fizikāls lielums]], kas raksturo ķermeņa (vai [[viela]]s) sasilšanas pakāpi jeb [[siltumkustība]]s intensitāti.
+
+Temperatūra ir viens no [[termodinamika|termodinamikā]] izmantotajiem jēdzieniem.  Temperatūra ir [[termodinamiska sistēma|termodinamisku sistēmu]] raksturojošs makroskopisks parametrs, kam ir jēga tad, ja sistēma ir pietiekoši liela. Temperatūra raksturo [[viela]]s mikrodaļiņu ([[elektrons|elektronu]], [[atoms|atomu]], [[molekula|molekulu]]) kustības [[ātrums|ātrumu]] vielā. Temperatūra ir proporcionāla šo daļiņu [[Siltumkustība|haotiskās kustības]] vidējai [[kinētiskā enerģija|kinētiskajai enerģijai]], to izsaka šādi:
+
+<math>T = 2 * E_{kin}/(3 * k)</math>, kur
+
+''T'' — temperatūra [[Kelvins (mērvienība)|kelvinos]]; ''E<sub>kin</sub>'' — vidējā kinētiskā enerģija; ''k'' — [[Bolcmaņa konstante]].<ref>{{Tīmekļa atsauce|url=https://edu.lu.lv/pluginfile.php/14136/mod_resource/content/1/Fizikas_formulu_lapa.pdf|title=Fizikas formulu lapa}}</ref>
+
+Klasiskajā fizikā tiek uzskatīts, ka [[absolūtā nulle|absolūtās nulles]] temperatūrā mikrodaļiņas nekustas un vielai piemīt nulles enerģija. Tomēr saskaņā ar [[termodinamikas likumi|trešo termodinamikas likumu]] absolūto nulli nav iespējams sasniegt, bet tikai tuvoties tai (no mūsdienu [[Kvantu mehānika|kvantu fizikas]] izriet, ka arī pie absolūtās nulles daļiņām piemīt t. s. nullsvārstības).
+
+Lai gan temperatūra ir [[skalārs lielums]], ar to var raksturot [[Siltums|siltuma]] pārvietošanās virzienu [[siltumvadītspēja]]s procesā. Siltums plūst no ķermeņa, kuram ir augstāka temperatūra, uz ķermeni, kam ir zemāka temperatūra.
+
+== Mērvienības ==
+
+[[Starptautiskā mērvienību sistēma|SI]] sistēmā temperatūru mēra [[Kelvins (mērvienība)|kelvinos]].
+
+Ikdienā temperatūru parasti mēra [[Celsija grādi|Celsija grādos]] (0 °C ≈ 273,15 K). Atšķirīgu mērvienību, [[Fārenheita grādi|Fārenheita grādus]], bieži lieto [[Amerikas Savienotās Valstis|ASV]].
+
+Lai [[Celsija grādi|Celsija grādus]] pārvērstu [[Kelvins (mērvienība)|kelvinos]], lieto formulu:
+
+<math>\mathrm{K = [^\circ C] \left(\frac{1 \, K}{1\, ^\circ C}\right) + 273,15\, K}</math>
+
+Lai [[Fārenheita grādi|Fārenheita grādus]] pārvērstu [[Celsija grādi|Celsija grādos]], lieto formulu:
+
+<math>\mathrm{\ \!^\circ C = \frac{5\, ^\circ C}{9\, ^\circ F}([^\circ F] - 32\, ^\circ F)}</math>
+
+== Temperatūras mērīšana ==
+{{main|Termometrs}}
+Temperatūru mēra ar [[termometrs|termometru]]. Izmēra kādu no parametriem (piemēram, [[tilpums|tilpumu]] vai [[Elektriskā pretestība|elektrisko pretestību]]), termometram atrodoties termodinamiskā līdzsvara stāvoklī ar mērāmo sistēmu. Termometra galvenā sastāvdaļa ir kāda viela, kuras fizikālo īpašību maiņu, mainoties temperatūrai, lieto temperatūras reģistrēšanai. Atkarībā no termometriskās vielas izšķir vairāku veidu termometrus:
+:* Gāzes (un kondensācijas) termometri. Tie mēra [[gāze]]s spiedienu (noslēgtā tilpumā), mainoties temperatūrai. Šos sauc arī par manometriskajiem termometriem, jo temperatūru tur nolasa no [[manometrs|manometra]]. Kondensācijas termometrs no gāzes termometra atšķiras ar to, ka tur ir gaistošs šķidrums līdzsvarā ar savu tvaiku, un, mainoties temperatūrai, tas iztvaiko un kondensējas, mainot savu tilpumu.
+:* [[Bimetāliskais termometrs]] sastāv no divu dažādu [[metāls|metālu]] vienāda garuma plāksnītēm, kas savienotas kopā. Tā kā dažādiem metāliem termiskās izplešanās koeficienti ir dažādi, mainoties temperatūrai, plāksnītes izliecas. Izliekums ir atkarīgs no temperatūras un to var viegli mērīt.
+:* [[Šķidruma termometrs]] (visizplatītākais termometrs) mēra [[šķidrums|šķidruma]] izplešanos (tilpuma maiņu).
+:* [[Pretestības termometrs]] mēra kāda materiāla elektriskās pretestības izmaiņas. Materiāls parasti ir kāds metāls ([[varš]], [[platīns]]) vai [[pusvadītājs]].
+:* [[Termoelements]] ([[termopāris]]) mēra divu sametinātu metālu termoelektriskā EDS maiņu. Ar to var mērīt augstākas temperatūras nekā ar pretestības termometriem.
+:* [[Pirometrs]] mēra [[infrasarkanais starojums|siltumstarojumu]] (un [[gaisma]]s starojumu), kas nāk no mērāmā ķermeņa. Šeit par termometrisko vielu iespējams lietot arī pašu mērāmo vielu, ja zina tās melnuma pakāpi.
+
+== Skatīt arī ==
+* [[Termodinamika]]
+* [[Siltumkustība]]
+* [[Gaisa temperatūra]]
+* [[Zemes temperatūra]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.uzdevumi.lv/ExerciseRun/RunExercise?exerciseId=f80f839f-2628-4b24-8c1a-1d444456ab74&parentType=VirtualSchool&parentId=1148 Temperatūras skalas]
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Temperatūra| ]]

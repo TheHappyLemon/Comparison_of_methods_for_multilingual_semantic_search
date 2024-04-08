@@ -1,0 +1,119 @@
+{{Latvijas novada infokaste
+| nosaukums         = Veclaicenes pagasts
+| karte             = Veclaicenes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Korneti
+| platība           = 72,34
+| iedzīvotāji       = 378<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Pašvaldības iedzivotāju skaits pagastos. 01.01.2016 |access-date=29.06.2017 |archive-date=20.10.2016 |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 378 / 72.34 round 1}}
+| izveidots         = 
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Alt-Laitzen<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Лайценская-Старо<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Veclaicenes pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā ziemeļos. Robežojas ar sava novada [[Ziemeru pagasts|Ziemeru]] un [[Jaunlaicenes pagasts|Jaunlaicenes]] pagastiem, [[Smiltenes novads|Smiltenes novada]] [[Apes pagasts|Apes pagastu]], kā arī [[Igaunija]]s [[Veru apriņķis|Veru apriņķa]] [[Hānjamās pagasts|Hānjamās]] pagastu (agrāk [[Varstu pagasts|Varstu]], [[Reuges pagasts|Reuges]] un [[Hānjas pagasts|Hānjas]] pagastiem).
+
+== Daba ==
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Līčupe (Pehni pieteka)|Līčupe]], [[Pērļupīte]].
+
+==== Ezeri ====
+[[Dzērves ezers]], [[Ievas ezers]], [[Ilgāja ezers]], [[Koruļu ezers]], [[Palpieris]], [[Pilskalna ezes]], [[Raipala ezers]], [[Veclaicenes ezers]].
+
+== Vēsture ==
+1919. gada oktobra sarunās par militārās palīdzības sniegšanu pret [[Bermontiāde|Bermonta armijas uzbrukumu Rīgai]] Igaunijas valdība ierosināja Veclaicenes pagasta iekļaušanu Igaunijas teritorijā, kam Latvijas valdība nepiekrita. Pēc [[Latvijas—Igaunijas robeža]]s līguma parakstīšanas pagasta ziemeļu daļu tomēr iekļāva Igaunijā, bet dienvidu daļa palika Latvijā.
+1935. gadā pagasta platība bija 79,7 km² un tajā dzīvoja 1597 iedzīvotāji.<ref>{{EncLP}}</ref>
+
+1945. gadā pagastā izveidoja [[Drusku ciems|Drusku]] un Veclaicenes [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Veclaicenes ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946—1949) un [[Apes rajons|Apes]] (1949—1956), [[Alūksnes rajons|Alūksnes]] (1956-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962—1967) rajonos. 1954. gadā Veclaicenes ciemam pievienoja likvidēto Drusku ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Veclaicenes pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+== Ievērojamas vietas ==
+
+=== Aizsargu nams "Vaiņagi" ===
+Veclaicenes pagasta administratīvajā centrā Kornetos starp Dzērves un Ievas ezeriem atrodas 1939. gadā celt sāktais [[Aizsargi (organizācija)|aizsargu]] nams “Vaiņagi”. No 1945. gada ēkā atrodas bibliotēka un tautas nams. Ēkā laika gaitā atradusies gan ciema izpildkomiteja, gan pagasta padome, gan kolhoza kantoris. Šobrīd ēkā atrodas arī pagasta vēstures krātuve. Pie aizsargu nama sākas vairākas Veclaicenes aizsargājamo ainavu apvidus dabas takas un atrodas pašapkalpošanās tūrisma informācijas punkts.<ref>{{tīmekļa atsauce |title=Kornetu muiža |url=https://veclaicene.lv/skatit/korneta-muiza-schreibershof/}}</ref>
+
+=== Veclaicenes pareizticīgo baznīca ===
+Veclaicenes pagastā atrodas 1895. gadā iesvētītā [[Veclaicenes  pareizticīgo baznīca|Veclaicenes Vissvētās Dievmātes patvēruma pareizticīgo baznīca]]. Baznīcā regulāri notiek dievkalpojumi.
+
+=== Dieva kalns un Māras pēda ===
+Senā kulta vieta ir valsts nozīmes arheoloģijas piemineklis (Nr. 222). Kalnā atrodas akmens (2,7 m garš, 2,3 m plats, līdz 0,7 m augsts) ar iedobēm. Par akmens iedobēm leģenda vēsta, ka tās radušās kā Māras pēdas nospiedumi, kad viņa pakāpusies uz akmens, lai tiktu zirgā.<ref>{{tīmekļa atsauce |title=Māras pēdas akmens |url=https://veclaicene.lv/skatit/maras-pedas-akmens/}}</ref>
+
+=== Drusku pilskalns ===
+[[Drusku pilskalns]] ir viens no Latvijas stāvākajiem pilskalniem. Pilskalns kā apskates objekt ietverts pastaigu maršrutā “Drusku pilskalna dabas taka”.<ref>{{tīmekļa atsauce |title=Drusku pilskalna dabas taka |url=https://visitaluksne.lv/visit/drusku-pilskalna-dabas-taka/}}</ref>
+
+=== Muitas kontroles punkts "Veclaicene-Murati" ===
+[[Latvija]]s un [[Igaunija]]s kopējais [[Valsts robeža|robežas]] kontroles punkts “Veclaicene-Murati” darbu uzsāka 1998. gada 19. septembrī. Oficiālajā punkta atklāšanas pasākumā piedalījās [[Latvijas Republikas valsts ieņēmumu valsts ministru uzskaitījums|valsts ieņēmumu valsts ministre]] [[Aija Poča]], [[Latvijas Zemkopības ministrs|zemkopības ministrs]] [[Andris Rāviņš]], kā arī Latvijas un Igaunijas muitas un [[Valsts robežsardze|robeždienestu]] pārstāvji.<ref>{{laikraksta atsauce |last1=Jaksona |first1=Rūta |title=Par Latvijas un Igaunijas jauno muitas kontroles punktu |journal=Latvijas Vēstnesis |date=22.09.1998.}}</ref> Muitas kontroles punktu slēdza 2004. gada 1. maijā līdz ar Latvijas iestāšanos [[Eiropas Savienība|Eiropas Savienībā]] un pievienošanos [[Šengenas līgums|Šengenas līgumam]]. Atzīmējot [[Latvijas—Igaunijas robeža]]s atvēršanas notikumu kontroles punktā tika organizēts svinīgs pasākums ar [[Eiropas karogs|Eiropas Savienības karoga]] pacelšanu, svinīgām uzrunām un svētku salūtu.<ref>{{tīmekļa atsauce |title=Svinīgi ‘atvērs’ robežu ar Igauniju un Lietuvu |url=https://www.delfi.lv/kultura/news/culturenvironment/svinigi-atvers-robezu-ar-igauniju-un-lietuvu.d?id=8078137}}</ref> 2010. gadā Veclaicenes robežas kontroles punktu, kas sastāvēja no gandrīz 4 ha zemes un septiņām būvēm, bez atlīdzības nodeva Alūksnes novada pašvaldībai.<ref>{{tīmekļa atsauce |title=Bez atlīdzības atdos pašvaldībām valsts īpašumus pierobežā |url=https://www.db.lv/zinas/bez-atlidzibas-atdos-pasvaldibam-valsts-ipasumus-pierobeza-147113}}</ref>
+
+=== Pieminekļi ===
+* Nr. 212.: [[Drusku pilskalns|Drusku (Kornetu) pilskalns]] — Druskās, Pilsezera ziemeļu krastā
+* Nr. 213.: Maskaļu senkapi (Kapu kalns) — pie bijušajiem Maskaļiem (Mazkalniem) 
+* Nr. 214.: Dimantu Baznīcas kalns (kulta vieta) — pie Dimantiem (Mauliņiem) 
+* Nr. 215.: Mauliņu senkapi (Zviedru kapi) — pie Dimantiem (Mauliņiem) 
+* Nr. 216.: Ķempju senkapi (Zviedru kapi) — pie Ķempjiem, Palpiera ezera rietumu krastā 
+* Nr. 217.: Jāņkalnu viduslaiku kapsēta — pie Jāņkalniem
+* Nr. 218.: Kūriņkalnu senkapi — pie Kūriņkalniem, Palpiera ezera austrumu krastā 
+* Nr. 219.: Radziņu senkapi (Kapenes) — pie Pūpoliem un Radziņiem 
+* Nr. 220.: Tilmaņu senkapi (Zviedru kapi) — pie Tilmaņiem (Johansoniem) 
+* Nr. 221.: Zeņģu senkapi (Zviedru kapi) — pie Zeņģiem 
+* Nr. 222.: Vosvu Dieva kalns un Māras pēdas akmens (kulta vieta) — starp Vosviem un Šķepastiem 
+* Nr. 2815.: [[Veclaicenes pareizticīgo baznīca]] (1892).<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] — [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1450
+|1959|891
+|1969|739
+|1979|616
+|1989|601
+|2000|514
+|2011|359
+|2021|283
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Korneti]]''' (pagasta centrs), [[Bārdaskrogs]], [[Druskas]], [[Kaķīši (Veclaicenes pagasts)|Kaķīši]], [[Romeškalns]], [[Rulles]], [[Vēzes]].
+
+== Saimniecība ==
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Veclaicenes pagasts| ]]

@@ -1,0 +1,67 @@
+{{Valsts amatpersonas infokaste 
+| vārds               =Felipe IV
+| vārds_orģ           = ''Felipe IV''
+| attēls              =Philip IV of Spain.jpg
+| apraksts            = Felipe IV ([[Djego Velaskess|Djego Velaskesa]] glezna, 1656. gads)
+| amats               =[[Spānijas karalis]]
+| term_sākums         =	{{dat|1621|03|31|n}}
+| term_beigas         = {{dat|1665|09|17|n}}
+| priekštecis         =[[Felipe III]]
+| pēctecis            =[[Karloss II]]
+| amats2               =[[Portugāles karalis]]
+| term_sākums2         ={{dat|1621|3|31|n}}
+| term_beigas2         = {{dat|1640|12|1|n}}
+| priekštecis2         =[[Felipe III]]
+| pēctecis2            =[[Žoao IV]]
+| dzim_dati           ={{dat|1605|04|8}}
+| dzim_vieta          =[[Valjadolida]], [[Spānijas Karaliste]]<br/>({{ESP}})
+| mir_dati            ={{miršanas datums un vecums|1665|09|17|1605|04|8}}
+| mir_vieta           =[[Madride]], [[Spānijas Karaliste]]<br/>({{ESP}})
+| dzīves_vieta        =
+| apglabāts           =[[Eskorjals]], {{ESP}}
+| dinastija           =[[Hābsburgi|Hābsburgu dinastija]]
+| tēvs                =[[Felipe III]]
+| māte                =[[Austrijas Margarita]]
+| dzīvesb             =[[Francijas Elizabete]], [[Austrijas Marianna]]
+| bērni               =14 bērni, 8 no Francijas Elizabetes (to skaitā [[Austrijas Baltasars Karloss]], [[Spānijas Marija Terēze]]), 5 no Austrijas Mariannas (to skaitā [[Spānijas Margarita Terēze]], [[Karloss II]]), 1 neleģetīms no Marijas Kalderonas ([[Austrijas Huans Hosē]])
+| reliģija            =[[katolisms]]
+| paraksts            =Firma del Rey Felipe IV de España.svg
+| piezīmes            =
+}}
+
+'''Felipe IV''' ({{val|es|Felipe IV}}; dzimis {{dat|1605|04|08}}, miris {{dat|1665|09|17}}) bija [[Spānija]]s karalis no 1621. līdz 1665. gadam, kā arī [[Spāņu Nīderlande]]s valdnieks un [[Portugāle]]s karalis līdz 1640. gadam. Neilgi pirms viņa nāves Spānijas impērija sasniedza savu lielāko teritoriālo uzplaukumu.
+
+Valdīja [[Trīsdesmitgadu karš|Trīsdesmitgadu kara]] laikā. Karoja ar [[Francija|Franciju]] un [[Nīderlande|Nīderlandi]]. Zaudēja [[Portugāle|Portugāli]]. Kaut arī valsts ārēji bija milzīga un varena, uzkrājās problēmas, un to risināšanā karalis nespēja veikt vajadzīgās reformas. Felipe IV pazīstams kā mākslas atbalstītājs. Viņa laikā galma mākslinieks bija [[Djego Velaskess]], darbojās [[Lope de Vega]] un [[Pedro Kalderons de la Barka]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Vēsture-aizmetnis}}
+{{Spānija-aizmetnis}}
+
+{{kastes sākums}}
+{{Hābsburgu dzimtas valdnieki}}
+{{s-amati}}
+{{Amatu secība | pirms = [[Felipe III]] | virsraksts = [[Spānijas monarhi|Spānijas karalis]] | periods = [[1621]]—[[1665]] | pēc = [[Karloss II]]}}
+{{Amatu secība | pirms = [[Felipe III]] | virsraksts = [[Portugāles valdnieku uzskaitījums|Portugāles karalis]] | periods = [[1621]]—[[1640]] | pēc = [[Žuau IV Atjaunotājs]]}}
+{{kastes beigas}}
+
+{{Spānijas karaļi}}
+{{Portugāles valdnieki}}
+{{Luksemburgas valdnieki}}
+{{Sardīnijas karaļi}}
+{{Kastīlijas karaļi}}
+{{Galisijas karaļi}}
+{{Aragonas karaļi}}
+{{Valensijas karaļi}}
+{{Maļorkas karaļi}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:1605. gadā dzimušie]]
+[[Kategorija:1665. gadā mirušie]]
+[[Kategorija:Kastīlijā un Leonā dzimušie]]
+[[Kategorija:Hābsburgu dinastija]]
+[[Kategorija:Spānijas monarhi]]
+[[Kategorija:Portugāles monarhi]]
+[[Kategorija:Sicīlijas karaļi]]

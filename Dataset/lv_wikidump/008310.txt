@@ -1,0 +1,321 @@
+{{Biatlonista infokaste
+ |           vārds = Riko Gross
+ |      vārds_orig = ''Ricco Groß''
+ |          attēls = Ricco Groß in Antholz 2006.jpg
+ |         att_izm = 
+ |        paraksts = R. Gross 2006. gadā
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1970|8|22}}
+ |         dz_viet = {{Vieta|Vācija|Šlema}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          valsts = {{GER}}
+ |         kar_sāk = 1983
+ |        kar_beig = 2007
+ |          augums = 178 [[centimetrs|cm]]
+ |           svars = 75 [[kilograms|kg]]
+<!------ Karjera ------>
+ |           klubs = ''Ski Club Ruhpolding''
+ |        treneris = 
+ |     bij_treneri = 
+ |          izlase = 1990. gada
+ |         statuss = Beidzis karjeru
+<!------ Pasaules kausa informācija ------>
+ |       pk_debija = 1990
+ |       pk_beigas = 2007
+ |          pk_sez = 
+ |      pk_uzvaras = 9
+ |   pk_pjedestāli = 
+ |       pk_tituli = 
+ |     dist_tituli = 
+<!------ OS informācija ------>
+ |       os_dalība = 5 ([[1992. gada ziemas olimpiskās spēles|1992]], [[1994. gada ziemas olimpiskās spēles|1994]], [[1998. gada ziemas olimpiskās spēles|1998]], [[2002. gada ziemas olimpiskās spēles|2002]], [[2006. gada ziemas olimpiskās spēles|2006]])
+ |      os_medaļas = 4 zelti, 3 sudrabi, 1 bronza
+<!------ PČ informācija ------>
+ |       pč_dalība = 
+ |      pč_medaļas = 9 zelti, 5 sudrabi, 6 bronzas
+<!------ Papildinformācija ------>
+ |            balv = 
+ |           slavz = 
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Riko Gross''' ({{val|de|Ricco Groß}}; dzimis {{Dat|1970|8|22}} [[Šlema|Šlemā]], [[Vācija|Vācijā]]) ir bijušais vācu [[biatlonists]].
+
+Savas karjeras laikā piedalījās 5 [[ziemas olimpiskās spēles|Olimpiskajās spēlēs]] ([[1992. gada ziemas olimpiskās spēles|1992]], [[1994. gada ziemas olimpiskās spēles|1994]], [[1998. gada ziemas olimpiskās spēles|1998]], [[2002. gada ziemas olimpiskās spēles|2002]], [[2006. gada ziemas olimpiskās spēles|2006]]). 1992., 1994., 1998. un 2006. gada Olimpiskajās spēlēs viņš izcīnīja zelta medaļu stafetē, piedaloties [[Vācija]]s izlases sastāvā. 1992. un 1994. gada Olimpiskajās spēlēs viņš izcīnīja arī sudraba medaļu 10 kilometru sprintā, 2002. gada Olimpiskajās spēlēs viņš izcīnīja sudrabu stafetē un bronzu 12,5 kilometru iedzīšanā.
+
+[[Pasaules čempionāts biatlonā|Pasaules čempionātā]] viņš ir izcīnījis vairākas medaļas. 10 kilometru sprintā viņš izcīnīja bronzu 1995. gadā, bet sudrabu 2003. un 2004. gadā. 1999., 2003. un 2004. gadā viņš izcīnīja zelta medaļu iedzīšanā. 20 kilometru distancē viņš uzvarēja 1997. gadā, izcīnīja sudrabu 1999. gadā, bet 2003. un 2005. gadā viņš izcīnīja bronzas medaļu.
+
+[[Pasaules kauss biatlonā|Pasaules kausā]] 1997.—1998. gada sezonas kopvērtējumā viņš izcīnīja 2. vietu.
+
+== Karjeras rezultāti ==
+=== Olimpiskās spēles ===
+{| class="wikitable" style="text-align:center"
+|-
+! Gads
+! width="150"| Vieta
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+|-
+| [[1992. gada ziemas olimpiskās spēles|1992]]
+| align="left"| {{flaga|Francija}} [[Albērvila]]
+| 
+| bgcolor="silver"| '''2'''
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1994. gada ziemas olimpiskās spēles|1994]]
+| align="left"| {{flaga|Norvēģija}} [[Lillehammere]]
+| 
+| bgcolor="silver"| '''2'''
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1998. gada ziemas olimpiskās spēles|1998]]
+| align="left"| {{flaga|Japāna}} [[Nagano]]
+| 6
+| 17
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[2002. gada ziemas olimpiskās spēles|2002]]
+| align="left"| {{flaga|ASV}} [[Soltleiksitija]]
+| 4
+| 4
+| bgcolor="CC9966"| '''3'''
+| 
+| bgcolor="silver"| '''2'''
+|-
+| [[2006. gada ziemas olimpiskās spēles|2006]]
+| align="left"| {{flaga|Itālija}} [[Turīna]]
+| 11
+| 6
+| 12
+| 
+| bgcolor="gold"| '''1'''
+|}
+
+=== Pasaules čempionāts ===
+{| class="wikitable" style="text-align:center"
+|-
+! Gads
+! width="150"| Vieta
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+|-
+| [[1995. gada Pasaules čempionāts biatlonā|1995]]
+| align="left"| {{flaga|Itālija}} [[Antholca]]
+| 55
+| bgcolor="CC9966"| '''3'''
+| 
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1996. gada Pasaules čempionāts biatlonā|1996]]
+| align="left"| {{flaga|Vācija}} [[Rūpoldinga]]
+| 9
+| 12
+| 
+| 
+| bgcolor="silver"| '''2'''
+|-
+| [[1997. gada Pasaules čempionāts biatlonā|1997]]
+| align="left"| {{flaga|Slovākija}} [[Osrbli]]
+| bgcolor="gold"| '''1'''
+| 34
+| 26
+| 
+| bgcolor="gold"| '''1'''
+|-
+| [[1998. gada Pasaules čempionāts biatlonā|1998]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 
+| 
+| 7
+| 
+| 
+|-
+| [[1999. gada Pasaules čempionāts biatlonā|1999]]
+| align="left"| {{flaga|Somija}} [[Kontiolahti]]<br />{{flaga|Norvēģija}} [[Holmenkollena]]
+| bgcolor="silver"| '''2'''
+| 6
+| bgcolor="gold"| '''1'''
+| 8
+| 4
+|-
+| [[2000. gada Pasaules čempionāts biatlonā|2000]]
+| align="left"| {{flaga|Norvēģija}} [[Holmenkollena]]<br />{{flaga|Somija}} [[Lahti]]
+| 9
+| 7
+| 18
+| 6
+| bgcolor="CC9966"| '''3'''
+|-
+| [[2001. gada Pasaules čempionāts biatlonā|2001]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 7
+| 27
+| 14
+| 4
+| 12
+|-
+| [[2003. gada Pasaules čempionāts biatlonā|2003]]
+| align="left"| {{flaga|Krievija}} [[Hantimansijska]]
+| bgcolor="CC9966"| '''3'''
+| bgcolor="silver"| '''2'''
+| bgcolor="gold"| '''1'''
+| 22
+| bgcolor="gold"| '''1'''
+|-
+| [[2004. gada Pasaules čempionāts biatlonā|2004]]
+| align="left"| {{flaga|Vācija}} [[Oberhofa]]
+| 4
+| bgcolor="silver"| '''2'''
+| bgcolor="gold"| '''1'''
+| 29
+| bgcolor="gold"| '''1'''
+|-
+| [[2005. gada Pasaules čempionāts biatlonā|2005]]
+| align="left"| {{flaga|Austrija}} [[Hohfilcene]]
+| bgcolor="CC9966"| '''3'''
+| 7
+| 6
+| 7
+| 6
+|-
+| [[2005. gada Pasaules čempionāts biatlonā|2005]]
+| align="left"| {{flaga|Krievija}} [[Hantimansijska]]
+| 
+| 
+| 
+| 
+| bgcolor="CC9966"| '''3'''
+|-
+| [[2006. gada Pasaules čempionāts biatlonā|2006]]
+| align="left"| {{flaga|Slovēnija}} [[Pokļuka]]
+| 
+| 
+| 
+| 
+| 10
+|-
+| [[2007. gada Pasaules čempionāts biatlonā|2007]]
+| align="left"| {{flaga|Itālija}} [[Antholca]]
+| 9
+| 
+| 
+| 
+| bgcolor="CC9966"| '''3'''
+|}
+
+=== Pasaules kausa kopvērtējums ===
+{| class="wikitable" style="text-align:center"
+|-
+! width="100"| Sezona
+! width="70"| Vieta
+|-
+| align="left"| 1990.—1991. || 7
+|-
+| align="left"| 1991.—1992. || 30
+|-
+| align="left"| 1992.—1993. || 10
+|-
+| align="left"| 1993.—1994. || 5
+|-
+| align="left"| 1994.—1995. || 10
+|-
+| align="left"| 1995.—1996. || 7
+|-
+| align="left"| 1997.—1998. || 2
+|-
+| align="left"| 1998.—1999. || 4
+|-
+| align="left"| 1999.—2000. || 8
+|-
+| align="left"| 2000.—2001. || 9
+|-
+| align="left"| 2001.—2002. || 7
+|-
+| align="left"| 2002.—2003. || 3
+|-
+| align="left"| 2003.—2004. || 3
+|-
+| align="left"| 2004.—2005. || 6
+|-
+| align="left"| 2005.—2006. || 8
+|-
+| align="left"| 2006.—2007. || 26
+|}
+
+=== Statistika Pasaules kausā ===
+{| class="wikitable" style="text-align:center"
+|-
+! Rezultāts
+! width="100"| Individ. sac.
+! width="100"| Sprints
+! width="100"| Iedzīšana
+! width="100"| Masu starts
+! width="100"| Stafete
+! width="100"| Kopā
+|- bgcolor="gold"
+| align=left | 1. vieta || 3 || 1 || 4 || 1 || 24 || '''33'''
+|- bgcolor="silver"
+| align=left | 2. vieta || 7 || 10 || 4 ||  || 11 || '''32'''
+|- bgcolor="#CFAA88"
+| align=left | 3. vieta || 5 || 7 || 8 || 2 || 8 || '''30'''
+|-
+| align=left | Top 10 || 39 || 53 || 42 || 20 || 54 || '''208'''
+|-
+| align=left | Vieta punktos || 55 || 107 || 68 || 32 || 55 || '''317'''
+|-
+! align=left | Kopā !! 65 !! 127 !! 74 !! 32 !! 56 !! 354
+|-
+!align="center" colspan="7" style="font-size: 8pt"| Dati atjaunoti pēc 2006.—2007. gada sezonas beigām.
+|}
+
+== Ārējās saites ==
+* {{o-mlapa|http://www.ricco-gross.de/}} {{en ikona}} {{de ikona}}
+{{Sporta ārējās saites}}
+
+
+{{Olimpisko spēļu laureāts-aizmetnis}}
+{{Vācijas sportists-aizmetnis}}
+{{Biatlons-aizmetnis}}
+
+{{Olimpiskie čempioni biatlonā — vīriešu stafete}}
+{{DEFAULTSORT:Gross Riko}}
+
+[[Kategorija:1970. gadā dzimušie]]
+[[Kategorija:Vācijas biatlonisti]]
+[[Kategorija:Biatlonisti 1992. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 1994. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 1998. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Biatlonisti 2006. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Olimpiskās zelta medaļas ieguvēji]]
+[[Kategorija:Olimpiskās sudraba medaļas ieguvēji]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Saksijā dzimušie]]
+[[Kategorija:Olimpiskie zelta medaļnieki biatlonā]]
+[[Kategorija:Olimpiskie sudraba medaļnieki biatlonā]]
+[[Kategorija:Olimpiskie bronzas medaļnieki biatlonā]]
+[[Kategorija:1992. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:1994. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:1998. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2002. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2006. gada ziemas olimpisko spēļu medaļnieki]]

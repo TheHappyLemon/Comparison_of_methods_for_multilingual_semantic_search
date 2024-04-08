@@ -1,0 +1,57 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 42
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 18
+|             4. čaula = 13
+|             5. čaula = 1
+|              simbols = Mo
+|             atommasa = 95,95(1)
+|   valences elektroni = [Kr]4d<sup>5</sup>5s<sup>1</sup>
+|       tabulas attēls = [[Attēls:Mo-TableImage.svg|250px]]
+|               attēls = [[Attēls:Molybdenum crystaline fragment and 1cm3 cube.jpg|200px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Molybdenum.jpg|150px]]<br />Kristālisks molibdēns un molibdēna monokristāla kubiņš; daļēji anodēts molibdēns
+|  oksidēšanas pakāpes = '''+6''', +5, +4, +3, +2
+|  elektronegativitāte = 2,16
+|              blīvums = 10280 
+|  kušanas temperatūra = 2896 K (2623&nbsp;°C)
+| viršanas temperatūra = 4912 K (4639&nbsp;°C)
+}}
+
+'''Molibdēns''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Mo''' un [[atomskaitlis|atomskaitli]] 42. Molibdēnu galvenokārt iegūst, [[reducēšanās|reducējot]] tā [[molibdēna sulfīds|sulfīdu]] MoS<sub>2</sub> ([[molibdenīts|molibdenītu]]). Molibdēnu pamatā lieto [[sakausējums|sakausējumos]] ar dzelzi. Savienojumos molibdēnam var būt oksidēšanas pakāpes +2, +3, +4, +5 un +6; visbiežāk molibdēns savienojumos ir sešvērtīgs.
+
+Molibdēns mikrodaudzumos nepieciešams [[augi|augu]] normālai attīstībai.
+
+== Vēsture ==
+Molibdēnu 1778. gadā atklāja zviedru ķīmiķis [[Kārlis Vilhelms Šēle]]. Pirmo reizi to izolēja 1781. gadā cits zviedru ķīmiķis [[Peters Jakobs Hjelms]] (''Peter Jacob Hjelm''). Ķīmiskā elementa nosaukums ir radies no [[grieķu valoda|grieķu vārda]] {{gree|μόλυβδος}} (''mólybdos''), kas nozīmē ‘[[svins]]’. Vārda izcelsme skaidrojama ar to, ka [[senā Grieķija|senajā Grieķijā]] molibdēna rūdu — molibdenītu — neprata atšķirt no svarīgākās svina rūdas — [[galenīts|galenīta]] (PbS).
+
+== Atrašanās dabā ==
+Dabā molibdēns nav sastopams tīrā veidā. Tas galvenokārt ir sastopams [[molibdenīts|molibdenīta]] (Mo[[sērs|S]]<sub>2</sub>) minerālā. Komerciāli molibdēns tiek iegūts arī no [[vulfenīts|vulfenīta]] un [[povellīts|povellīta]]. Molibdēns ir 54. izplatītākais ķīmiskais elements [[Zemes garoza|Zemes garozā]]. Visvairāk molibdēna tiek iegūts [[Ķīna|Ķīnā]], [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstis]], [[Čīle|Čīlē]], [[Peru]] un [[Meksika|Meksikā]].
+
+=== Izotopi ===
+Dabā ir sastopami septiņi molibdēna [[izotops|izotopi]]. Visizplatītākie ir molibdēns–98 (24,39% no kopējā daudzuma), molibdēns–96 (16,67%), molibdēns–95 (15,84%) un molibdēns–92 (14,53%).<ref name="jlab"/> Atlikušie izotopi ir molibdēns–97 (9,60%), molibdēns–94 (9,15%) un nestabilais molibdēns–100 (9,82%), kura [[pussabrukšanas periods]] ir 7,2{{E|18}} gadi.<ref name="jlab"/> Ir zināmi vēl 28 mākslīgi iegūti radioizotopi, kuru [[masas skaitlis]] ir no 83 līdz 117.
+
+== Raksturojums ==
+=== Fizikālās īpašības ===
+Tīrā veidā molibdēns ir sudrabbalts [[metāls]] ar cietību 5,5 pēc Mosa skalas. Tā [[kušanas temperatūra]] ir 2623&nbsp;°C, starp dabā sastopamiem elementiem tikai dažiem ir augstāka kušanas temperatūra. Molibdēns deg tikai temperatūrās virs 600&nbsp;°C. Tam ir viens no zemākajiem termiskās izplešanās koeficientiem starp komerciāli lietotiem metāliem.
+
+== Izmantošana ==
+Molibdēnu pamatā lieto [[sakausējums|sakausējumos]] ar dzelzi, lai iegūtu karstumizturīgus un nerūsējošus materiālus. Tā [[oksīdi|oksīdus]] un [[sulfīdi|sulfīdus]] izmanto kā ķīmisko reakciju [[katalizators|katalizatorus]].
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso042.html | title= Isotopes of the Element Molybdenum | publisher= Jefferson Lab | accessdate= 2014. gada 2. martā | language= angliski | archiveurl= https://web.archive.org/web/20140226235719/http://education.jlab.org/itselemental/iso042.html | archivedate= 2014. gada 26. Februāris }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

@@ -1,0 +1,33 @@
+{{Navbox
+|name=Zviedrijas lēņi
+|title=[[Zviedrija]]s [[Zviedrijas administratīvais iedalījums|lēnes]] {{flaga|Zviedrija}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Blēkinges lēne|Blēkinges]]
+* [[Dālarnas lēne|Dālarnas]]
+* [[Esterjētlandes lēne|Esterjētlandes]]
+* [[Erebrū lēne|Erebrū]]
+* [[Gotlandes lēne|Gotlandes]]
+* [[Hallandes lēne|Hallandes]]
+* [[Jenšēpingas lēne|Jenšēpingas]]
+* [[Jemtlandes lēne|Jemtlandes]]
+* [[Jēvleborjas lēne|Jēvleborjas]]
+* [[Kalmaras lēne|Kalmaras]]
+* [[Krūnuberjas lēne|Krūnuberjas]]
+* [[Norbotenas lēne|Norbotenas]]
+* [[Sēdermanlandes lēne|Sēdermanlandes]]
+* [[Skones lēne|Skones]]
+* [[Stokholmas lēne|Stokholmas]]
+* [[Upsālas lēne|Upsālas]]
+* [[Vermlandes lēne|Vermlandes]]
+* [[Vesterbotenas lēne|Vesterbotenas]]
+* [[Vesterjētlandes lēne|Vesterjētlandes]]
+* [[Vesternorlandes lēne|Vesternorlandes]]
+* [[Vestmanlandes lēne|Vestmanlandes]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

@@ -1,0 +1,102 @@
+{{Vieglatlēta infokaste
+ |           vārds = Dmitrijs Miļkevičs
+ |      vārds_orig = 
+ |          attēls = 
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1981|12|6}}
+ |         dz_viet = {{Vieta|PSRS|Latvijas PSR|Rīga|td=Latvija}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = 
+ |     dzīvesvieta = 
+ |          garums = 182 [[Centimetrs|cm]]
+ |           svars = 72 [[Kilograms|kg]]
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = Vidējās distances
+ |         kar_sāk = 
+ |        kar_beig = 
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 2 ([[2004. gada vasaras olimpiskās spēles|2004]], [[2008. gada vasaras olimpiskās spēles|2008]])
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 
+ |           PR1_d = 
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = 
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Dmitrijs Miļkevičs''' (dzimis {{dat|1981|12|6}} [[Rīga|Rīgā]]) ir bijušais [[Latvija]]s [[vieglatlēts]], galvenokārt startēja 800 metru skrējienā. Pēc sportista gaitu beigām — funkcionārs, Latvijas vieglatlētikas izlases direktors un [[Latvijas Vieglatlētikas savienība]]s ģenerāldirektors.
+
+Piedalījies divās [[Olimpiskās spēles|Olimpiskajās spēlēs]] ([[2004. gada vasaras olimpiskās spēles|2004]], [[2008. gada vasaras olimpiskās spēles|2008]]). 2004. gadā Atēnās 800 m distancē sasniedza 14. vietu, bet 2008. gadā Pekinā ieņēma 26. vietu.
+
+[[2006. gada Eiropas čempionāts vieglatlētikā|2006. gada Eiropas čempionātā]] viņš izcīnīja 4. vietu.
+
+D. Miļkevičam pieder [[Latvijas rekordi vieglatlētikā|Latvijas rekords]] 800 metru distancē gan stadionā, gan telpās. {{dat|2006|7|3||bez}} [[Atēnas|Atēnās]] viņš distanci veica 1:43,67, bet [[2008. gads|2008]]. gada Pasaules čempionātā telpās [[Valensija (Spānija)|Valensijā]], ar rezultātu 1:45,72 iegūstot 4. vietu, viņš pārspēja [[Einārs Tupurītis|Eināra Tupurīša]] sasniegto.<ref>[http://esports.lv/vieglatletika/09032008-milkevicam_rekords_un_ceturta_vieta Miļkevičam rekords un ceturtā vieta], eSports.lv, atjaunots 10.03.2008.</ref>
+
+== Personiskie rekordi ==
+{| class="wikitable" style="width: 50%; font-size: 95%;" cellpadding="2"
+! Disciplīna !! Rezultāts !! Datums !! Vieta
+|-
+| 400 metri ||align="center"| 46,87 || {{dat|2002|8|6|SK|bez}} || {{Vieta|Vācija|Minhene}}
+|-
+| 400 metri (telpās) ||align="center"| 47,61 || {{dat|2002|3|1|SK|bez}} || {{Vieta|Austrija|Vīne}}
+|-
+| 600 metri (telpās) ||align="center"| 1:15,60 || {{dat|2005|2|5|SK|bez}} || {{Vieta|ASV|Nebraska|Linkolna|3s=Linkolna (ASV)}}
+|-
+| 800 metri ||align="center"| 1:43,67 || {{dat|2006|7|3|SK|bez}} || {{Vieta|Grieķija|Atēnas}}
+|-
+| 800 metri (telpās) ||align="center"| 1:45,72 || {{dat|2008|3|9|SK|bez}} || {{Vieta|Spānija|Valensija|2s=Valensija (Spānija)}}
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+* [http://www.huskers.com/ViewArticle.dbml?SPSID=95&SPID=32&DB_OEM_ID=100&ATCLID=30989&Q_SEASON=2005 Nebraskas Universitātes profils] {{Webarchive|url=https://web.archive.org/web/20110712233354/http://www.huskers.com/ViewArticle.dbml?SPSID=95&SPID=32&DB_OEM_ID=100&ATCLID=30989&Q_SEASON=2005 |date={{dat|2011|07|12||bez}} }} {{en ikona}}
+* [https://web.archive.org/web/20080824205812/http://www.pekina.lv/lv/athletes/profile.php?select=9&id=27 Pekina 2008 profils]
+* [https://web.archive.org/web/20110506035306/http://w.lat-athletics.lv/index.php?pid=0329374 LVS profils]
+
+{{Olimpisko spēļu dalībnieks-aizmetnis}}
+{{Vieglatlēts-aizmetnis}}
+{{Latvijas sportists-aizmetnis}}
+{{Latvija 2008 VOS}}
+{{Latvija 2004 VOS}}
+
+{{DEFAULTSORT:Miļkevičs, Dmitrijs}}
+[[Kategorija:1981. gadā dzimušie]]
+[[Kategorija:Rīgā dzimušie]]
+[[Kategorija:Latvijas vieglatlēti]]
+[[Kategorija:2004. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2008. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:Latvijas sporta organizatori]]
+[[Kategorija:Vidējo distanču skrējēji]]
+[[Kategorija:Sprinteri]]

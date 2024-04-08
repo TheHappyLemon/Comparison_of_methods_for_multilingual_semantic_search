@@ -1,0 +1,55 @@
+{{ambox
+| type  = notice
+| image = [[Attēls:Ambox clock.svg|48px|alt=|link=]]
+| css = margin: 1px
+| text  = '''Šo {{#ifeq:{{{1|}}}|sadaļa|sadaļu|{{#invoke: Namespace detect | main
+| main              = rakstu
+| talk              = diskusiju
+| portāls           = portālu
+| kategorija        = kategoriju
+| dalībnieks         = dalībnieka lapu
+| vikipēdija        = projekta lapu
+| veidne            = veidni
+| attēls            = attēlu
+| vikiprojekts      = vikiprojektu
+| other             = lapu
+}}}} kāds šobrīd [[:en:Wikipedia:Edit lock|pārstrādā]]. Lūdzu, nelabo šo {{#ifeq:{{{1|}}}|sadaļa|sadaļu|{{#invoke: Namespace detect | main
+| main              = rakstu
+| talk              = diskusiju
+| portāls           = portālu
+| kategorija        = kategoriju
+| dalībnieks         = dalībnieka lapu
+| vikipēdija        = projekta lapu
+| veidne            = veidni
+| attēls            = attēlu
+| vikiprojekts      = vikiprojektu
+| other             = lapu
+}}}}, kamēr šis paziņojums ir redzams, lai izvairītos no [[Vikipēdija:Labošanas konflikts|labošanas konfliktiem]].'''<br><span style="font-size: 88%">{{#if:{{{laiks|}}}|Šis paziņojums tika ievietots {{{laiks|}}}.|}} Pēdējo izmaiņu veica {{user link|{{REVISIONUSER}}}} {{#invoke:TimeAgo|main|{{REVISIONYEAR}}-{{REVISIONMONTH}}-{{REVISIONDAY}}|min_magnitude=days}}.<br />Lūdzu, izņem šo paziņojumu, ja {{#invoke: Namespace detect | main
+| main              = raksts
+| talk              = diskusija
+| portāls           = portāls
+| kategorija        = kategorija
+| dalībnieks         = dalībnieka lapa
+| vikipēdija        = projekta lapa
+| veidne            = veidne
+| attēls            = attēls
+| vikiprojekts      = vikiprojekts
+| other             = lapa
+}} nav [{{fullurl:{{FULLPAGENAME}}|action=history}} {{#invoke: Namespace detect | main
+| main              = labots
+| talk              = labota
+| portāls           = labots
+| kategorija        = labota
+| dalībnieks         = labota
+| vikipēdija        = labota
+| veidne            = labota
+| attēls            = labots
+| vikiprojekts      = labots
+| other             = labota
+}}] vairāk nekā septiņas dienas. Ja Tu esi dalībnieks, kas ievietojis šo paziņojumu, tad pēc raksta papildināšanas noņem paziņojumu vai arī nomaini uz {{tl|ilgstošā labošanā}}.</span>
+}}<includeonly>{{category handler
+| all = [[Kategorija:Lapas, ko šobrīd pārstrādā]]
+| nocat = {{{nocat|}}}
+}}</includeonly><noinclude>
+{{dokumentācija}}
+</noinclude>

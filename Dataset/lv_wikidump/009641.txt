@@ -1,0 +1,92 @@
+{{Administratīvā iedalījuma vienības infokaste
+|name = Jamalas Ņencu autonomais apvidus
+|official_name=''Ямало-Ненецкий автономный округ''<br/>''Ямалы-Ненёцие автономной ӈокрук''
+|settlement_type=[[Krievijas administratīvais iedalījums|apgabals]]
+|image_skyline = Стойбище ненцев.jpg
+|image_caption = [[Ņenci|Ņencu]] apmetne [[tundra|tundrā]]
+|image_flag = Flag of Yamal-Nenets Autonomous District.svg
+|image_shield = Coat of Arms of Yamal Nenetsia.svg
+|shield_size = 70px
+|image_map = Yamalo-Nenets in Russia.svg
+|map_caption = Novietojums Krievijā
+|image_map1 = 
+|map_caption1 = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Urālu federālais apgabals]]
+|seat_type=Centrs
+|seat = [[Saleharda]]
+| established_title        = Dibināts
+| established_date         = 1930
+|official_language = [[krievu valoda]]<br/>[[ņencu valoda]]
+|parts_type = Administratīvais iedalījums
+|parts=13
+|p1 = '''6 apvidus pilsētas'''
+|p2 = [[Saleharda]]
+|p3 = [[Gubkinska]]
+|p4 = [[Labitnangi]]
+|p5 = [[Muravļenko]]
+|p6 = [[Novijurengoja]]
+|p7 = [[Nojabrska]]
+|p8 = '''7 rajons'''
+|p9 = [[Krasnoseļkupas rajons]]
+|p10 = [[Nadimas rajons]]
+|p11 = [[Pieurālu rajons]]
+|p12 = [[Puras rajons]]
+|p13 = [[Tazovskas rajons]]
+|p14 = [[Šuriškaras rajons]]
+|p15 = [[Jamalas rajons]]
+|area_total_km2 = 769250
+|total_type=Kopā
+|population_total = 511874
+|population_as_of = 2023
+|population_blank02_title = Etniskais sastāvs
+|population_blank02 = [[krievi]] (61,7 %)<br/>[[ukraiņi]] (9,7 %)<br/>[[ņenci]] (5,9 %)<br/>[[tatāri]] (5,6 %)
+| population_density_km2   = auto
+|website={{url|https://www.yanao.ru/}}
+|footnotes = 
+}}
+[[Attēls:Nojabrsk2.jpg|thumb|Jamalas Ņencu autonomā apvidus ainava pie [[Nojabrjska]]s.|250px]]
+'''Jamalas Ņencu autonomais apvidus''' ({{val|ru|Ямало-Ненецкий автономный округ}}, {{val|yrk|Ямалы-Ненёцие автономной ӈокрук}}) ir viens no [[Krievijas Federācija]]s autonomajiem apvidiem. Tas ietilpst [[Tjumeņas apgabals|Tjumeņas apgabala]] sastāvā un atrodas šī apgabala ziemeļos. Jamalas Ņencu autonomais apvidus robežojas ar [[Arhangeļskas apgabals|Arhangeļskas apgabala]] [[Ņencu autonomais apvidus|Ņencu autonomo apvidu]] un [[Komi (republika)|Komi republiku]] rietumos, tā paša Tjumeņas apgabala [[Hantu-mansu autonomais apvidus|Hantu-mansu autonomo apvidu]] dienvidos un [[Krasnojarskas novads|Krasnojarskas novadu]] austrumos.
+Apvidu šķērso [[dzelzceļa līnija Tjumeņa—Surguta—Urengoja]] un nepabeigtā [[Transpolārā dzelzceļa līnija]].
+
+== Vēsture ==
+
+Pēc [[Sibīrijas haniste]]s iekarošanas 1595. gadā [[kazaki]] nodibināja Obdoras cietoksni (''Обдорский острог'') [[Oba]]s labajā krastā. 
+Pēc 1618. gada notika [[Obdorija]]s iedzīvotāju kristīšana, 1708. gadā to iekļāva Sibīrijas, 1782. gadā Toboļskas vietniecības, 1796. gadā Toboļskas guberņas, 1920. gadā Urālu apgabala sastāvā.
+
+1930. gadā [[Padomju Savienība|PSRS]] valdība izveidoja Jamalas Ņencu nacionālo apvidu, ko 1944. gadā iekļāva [[Tjumeņas apgabals|Tjumeņas apgabalā]], 1977. gadā pārdēvēja par autonomo apvidu.
+1991. gada 18. oktobrī Jamalas Ņencu apvidus pieņēma suverenitātes deklarāciju, bet 1992. gadā kļuva par [[Krievijas Federācija]]s subjektu Tjumeņas apgabala sastāvā.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Jamalas Ņencu autonomais apvidus|width=400 |float=center|caption = Jamalas Ņencu autonomā apvida pilsētu izvietojums; '''trenkrakstā''' — autonomā apvidus centrs
+|places =
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=66.533333|long=66.633333|position = bottom |label='''[[Saleharda]]'''}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=64.433333|long=76.5|position = right |label=[[Gubkinska]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=66.65|long=66.4|position = top |label=[[Labitnangi]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=63.794444|long=74.497222|position = top |label=[[Muravļenka]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=65.533333|long=72.516667|position = top |label=[[Nadima]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=66.084722|long=76.678889|position = right |label=[[Novijurengoja]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=63.201667|long=75.451667|position = right |label=[[Nojabrjska]]}}
+{{VietasKarte~|Jamalas Ņencu autonomais apvidus|lat=64.914722|long=77.772778|position = top |label=[[Tarkosaļe]]}}
+}}
+
+== Lielākās upes ==
+* [[Oba]]
+* [[Taza]]
+* [[Pura]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas administratīvais iedalījums}}
+{{Urālu federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas autonomie apvidi]]
+[[Kategorija:Sibīrija]]
+[[Kategorija:PSRS autonomās teritorijas]]
+[[Kategorija:Jamalas Ņencu autonomais apvidus| ]]

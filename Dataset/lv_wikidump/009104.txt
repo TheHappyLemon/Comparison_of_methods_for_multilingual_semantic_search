@@ -1,0 +1,62 @@
+{{BioTakso infokaste
+|        attēls = Grey Nurse Shark at Fish Rock Cave, NSW.jpg
+| att_nosaukums = {{TaksoSaite|Carcharias taurus|Atlantijas smilšu haizivs}}
+|        valsts = Animalia
+|     valsts_lv = Dzīvnieki
+|          tips = Chordata
+|       tips_lv = Hordaiņi
+|     apakštips = Vertebrata
+|  apakštips_lv = Mugurkaulnieki
+|     infratips = Gnathostomata
+|  infratips_lv = Žokļaiņi
+|      sinonīmi =
+*''Ectobranchiata''
+|    iedalījums =
+*{{TaksoSaite|Chondrichthyes|Skrimšļzivis}}
+*{{TaksoSaite|Osteichthyes|Kaulzivis}}
+|     binomial = Gnathostomata <small>([[Karl Gegenbaur|Gegenbaur]], 1874)
+|   kategorijas = nē
+}}
+'''Žokļaiņi''', '''āržauņi''' (''Gnathostomata'') ir [[Hordaiņi|hordaiņu tipa]] (''Chordata'') infratips. Šajā grupā ietilpst visi [[mugurkaulnieki]] ar žokļiem,<ref>[https://www.accessscience.com/content/gnathostomata/293800 Science: Gnathostomata]</ref>  bet [[apaļmutnieki]] un tiem radniecīgie izmirušie dzīvnieki apvienoti [[bezžokļaiņi|bezžokļaiņu infratipā]]. Zinātniskais nosaukums ''Gnathostomata'' atvasināts no [[grieķu valoda]]s un nozīmē "žokļu mute" (''gnathos'' — "žokļi", ''στόμα'' ''(stoma)'' — "mute").
+
+Žokļaiņi ir dominējošā mugurkaulnieku grupa.<ref name=tol>{{Tīmekļa atsauce |url=http://tolweb.org/Gnathostomata/14843 |title=TolWeb: Gnathostomata |access-date={{dat|2019|02|14||bez}} |archive-date={{dat|2012|09|19||bez}} |archive-url=https://web.archive.org/web/20120919181835/http://tolweb.org/Gnathostomata/14843 }}</ref> Tie apdzīvo gan [[ūdens|ūdeņus]], gan [[sauszeme|sauszemi]]. Primitīvākie žokļaiņi ir [[zivis]] ([[skrimšļzivis]] un [[kaulzivis]]), no kurām vēlāk izveidojās sauszemes žokļaiņi ([[abinieki]], [[rāpuļi]], [[putni]] un [[zīdītāji]]). Žokļaiņu grupā ir apmēram 60 000 dzīvnieku sugu, kas sastāda 99% no visiem mugurkaulniekiem pasaulē.<ref>Cooper MD, Alder MN (February 2006). "The evolution of adaptive immune systems". Cell. 124 (4): 815–22. doi:10.1016/j.cell.2006.02.001. PMID 16497590.</ref>
+
+== Morfoloģija ==
+[[Attēls:Pangil_Crocodile_Park_Davao_City.jpg|thumb|left|240px|Barības tveršana žaunu lokus laika gaitā transformēja par īstiem žokļiem]]
+[[Attēls:Bigmouth_(180188867).jpeg|thumb|left|240px|Raksturīga žokļaiņu iezīme ir vertikāli kustīgs žokļu aparāts]]
+Raksturīga žokļaiņu iezīme ir vertikāli kustīgs žokļu aparāts, kas sastāv no tveršanai pielāgotiem žokļiem — barības satveršanai un bieži vien arī tās sasmalcināšanai.<ref name=tol/> Valda uzskats, ka žokļi veidojušies no [[žaunu loki]]em, kuru pārveidošanos stimulēja aktīva [[ūdens]] sūknēšana cauri žaunu spraugām, aizverot un atverot muti. Tādējādi mute attīstījās arvien lielāka un platāka, radot iespēju satvert arvien lielāku barības kumosu. Atšķirībā no [[bezžokļaiņi]]em, kuriem ir priekšmutes sūcējpiltuve, žokļaiņiem [[mute]]s atvere ir spraugveidīga. Barības tveršana žaunu lokus laika gaitā transformēja par īstiem žokļiem.
+
+[[Muguras stiegra|Horda]] žokļaiņiem balsta funkcijas parasti izpilda vienīgi dīgļa un kāpura stadijā, pēc tam tā daļēji vai pilnīgi reducējas, un tā nomainās ar [[mugurkauls|mugurkaulu]]. Izņēmums ir tikai dažas zivju grupas, kurām mugurkaula [[skriemeļi]] attīstīti vāji vai to nemaz nav. Balsta funkcijas tām visu dzīves laiku pilda horda, kuras blīvais un biezais apvalks bieži vien ir piesātināts ar sāļiem. Skeletu veido kaula vai skrimšļa audi.<ref name=tol/> 
+
+Smadzeņu kapsula (skrimšļa vai kaula) galvas [[smadzenes]] apņem no visām pusēm. Žokļi, kas izveidojušies no pārveidotā žaunu loka, ar smadzeņu kapsulu savienojas dažādos veidos. Žaunu loki ir posmoti. 
+
+[[Galva]]s priekšējā daļā ir [[oža]]s maisu pāris. Katrs no tiem atveras uz āru caur patstāvīgu deguna atveri (pāra nāsis). Iekšējās auss kapsulā vienmēr ir trīs pusloka kanāli, kas ir orientēti trijās savstarpēji perpendikulārās plaknēs. Ūdenī dzīvojošiem žokļaiņiem (zivīm) līdztekus mazaktīvām [[spura|spurām]] (muguras, anālajai un astes) attīstās kustīgas pāra krūšu un vēdera [[spuras]], kas sauszemes žokļaiņiem pārveidojas par priekšējām un pakaļējām ekstremitātēm (nedaudzām sugām tās sekundāri reducējušās). 
+
+Ūdenī dzīvojošiem žokļaiņiem žaunu spraugās, kuru skaits parasti nepārsniedz 5 (dažām haizivīm seši vai septiņi), žaunu loka ārpusē no [[ektoderma]]s veidojas krokots veidojums — [[žaunas]] (tāpēc žokļaiņus sauc arī par āržauņiem). Dažām zivīm paralēli žaunām veidojas īpaši orgāni — [[plaušas]], kas ļauj elpot ar gaisu. Sauszemes žokļaiņiem žaunu spraugas aizaug agrās embrionālās attīstības stadijās un žaunas neattīstās; to [[elpošanas orgāns|elpošanas orgāni]] ir plaušas.
+
+== Sistemātika ==
+[[Attēls:Tasdevil large.jpg|thumb|220px|[[Tasmānijas velns|Tasmanijas velnu]] (''Sarcophilus harrisii'') raksturo spēcīgākais sakodiens no visiem plēsējiem pasaulē, ņemot vērā sakodiena spēku uz vienu plēsēja ķermeņa masas kilogramu]]
+'''Žokļaiņu infratips''' (''Gnathostomatha'')
+** klase: †{{TaksoSaite|Acanthodii|Akantodes}}
+** klase: †{{TaksoSaite|Placodermi|Bruņuzivis}}
+** klase: {{TaksoSaite|Chondrichthyes|Skrimšļzivis}}
+** megaklase: {{TaksoSaite|Osteichthyes|Kaulzivis}}<ref name=phy>{{Tīmekļa atsauce |url=https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-017-0958-3 |title=Phylogenetic classification of bony fishes, 2016 |access-date={{dat|2019|02|14||bez}} |archiveurl=https://web.archive.org/web/20190322032046/https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-017-0958-3 |archivedate={{dat|2019|03|22||bez}} }}</ref>
+*** virsklase: {{TaksoSaite|Sarcopterygii|Daivspurzivis}}
+**** klase: [[Otiņspures]] (''Coelacanthimorpha'')
+**** klase: [[Ripidistveidīgās]] (''Dipnotetrapodomorpha'')
+***** apakšklase: [[Divējādelpojošās zivis|Plaušzivis]] (''Dipnomorpha'')
+***** apakšklase: {{TaksoSaite|Tetrapodomorpha|Četrkājveidīgie}}
+*** virsklase: {{TaksoSaite|Actinopterygii|Starspurzivis}}
+**** klase: [[Kladistijas]] (''Cladistia'')
+**** klase: [[Starspures]] (''Actinopteri'')
+
+(†) - izmirušu organismu grupa.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+*[http://www.notesonzoology.com/phylum-chordata/gnathostomata-general-characters-and-its-classification-zoology/3936 Gnathostomata: General Characters and Its Classification | Zoology]
+
+
+[[Kategorija:Mugurkaulnieki]]

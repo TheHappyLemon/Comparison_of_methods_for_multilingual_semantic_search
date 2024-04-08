@@ -1,0 +1,128 @@
+{{BioTakso infokaste
+| attēls = Octopus vulgaris2.jpg
+| att_nosaukums = {{TaksoSaite|Octopus vulgaris|Astoņkājis}}
+| valsts = Animalia
+| valsts_lv = Dzīvnieki
+| nodalījums = Bilateria
+| nodalījums_lv = Bilaterāļi
+| apakšnod = Protostomia
+| apakšnod_lv = Pirmmutnieki
+| virstips = Lophotrochozoa
+| virstips_lv = Spirālveidīgie
+| tips = Mollusca
+| tips_lv = Gliemji
+| binomial= Mollusca <small>([[Cuvier]], 1797)</small>
+| iedalījums =
+* [[Bruņgliemeži|Bruņgliemji]] (''Polyplacophora'')
+* {{TaksoSaite|Cephalopoda|Galvkāji}}
+* {{TaksoSaite|Bivalvia|Gliemenes}}
+* {{TaksoSaite|Gastropoda|Gliemeži}}
+* {{TaksoSaite|Scaphopoda|Lāpstkāji}}
+* {{TaksoSaite|Monoplacophora|Monoplakofori}}
+* [[Rievvēdergliemju klase|Rievvēdergliemji]] (''Solenogastres'')
+* [[Vairogkājgliemju klase|Vairogkājgliemji]] (''Caudofoveata'')<ref>Stalažs A., Dreijers E. ''Gliemju latviskie nosaukumi''. Scripta Letonica 2(1) © RPD Science, 2015.</ref>
+}}
+'''Gliemji''' jeb '''moluski''' (''Mollusca'') ir [[bilaterāļi|bilaterālo]] (''Bilateria'') [[Dzīvnieki|dzīvnieku]] tips, kas apvieno 8 mūsdienu klases un 2 izmirušas [[Klase (bioloģija)|klase]]s. Pasaulē ir zināms ap 130 000 gliemju sugu, tādēļ sugu skaita ziņā gliemju tips ieņem otro vietu aiz [[posmkāji]]em.<ref name=lat>[http://latvijas.daba.lv/dzivnieki/gliemji/ Gliemji]</ref>
+
+Vislielākā gliemju sugu daudzveidība ir sastopama [[jūra|jūrās]] un [[okeāns|okeānos]]. Divas klases — [[gliemeži]] un [[gliemenes]] — mājo arī [[saldūdens|saldūdenī]], un tikai [[gliemeži|gliemežu klase]] ir sastopama arī uz [[sauszeme]]s.<ref name=lat/> Pazīstamākās klases ir [[gliemeži]], [[gliemenes]] ([[austeres]], [[bezzobes]], [[pērļgliemenes]], [[upespērlenes]] u.c.) un [[galvkāji]] ([[astoņkāji]], [[kalmāri]], [[sēpijas]] u.c.). [[Latvija|Latvijā]] sastopamas 2 klases: [[gliemeži]] (''Gastropoda'') un [[gliemenes]] (''Bivalvia''). Pēc [[Latvijas Entomoloģijas biedrība]]s 2018. gada datiem sauszemes un ūdens [[biotops|biotopus]] apdzīvo 161 gliemežu un 33 gliemeņu sugas.<ref>Spuņģis V. ''Bezmugurkaulnieki Latvijā'' [https://enciklopedija.lv/skirklis/7269-bezmugurkaulnieki-Latvij%C4%81 Nacionālā enciklopēdija]. Atjaunots: 2023.08.24. Skatīts: 2024.01.28.</ref> Šiem dzīvniekiem ir maza iespēja pārvietoties, tāpēc tiem ir liels aizsargājamo sugu skaits. [[Latvijas Sarkanā grāmata|Latvijas Sarkanajā grāmatā]] ierakstītas 29 sugas<ref>''Latvijas Sarkanā grāmata'' 4.sēj. ''Bezmugurkaulnieki''. Rīga: LU Bioloģijas institūts, 1998. 380. lpp. ISBN 9984-559-06-8</ref> (15% no visām Latvijā sastopamām gliemju sugām), bet 7 sugas iekļautas Starptautiskās Dabas Aizsardzības savienības apdraudēto dzīvnieku sarakstā (1994 IUCN Red List of Threatened Animals).<ref name=lat/>
+
+== Dzīvesvieta ==
+[[Attēls:Helix pomatia 89a.jpg|thumb|left|220px|[[Gliemeži]] ir vienīgie gliemji, kas dzīvo arī uz sauszemes, attēlā [[parka vīngliemezis]] (''Helix pomatia'')]]
+[[Attēls:Cuttlefish color.jpg|thumb|220px|left|[[Platā rifu sēpija|Platajai rifu sēpijai]] (''Sepia latimanus'') pietiek ar nepilnu sekundi, lai nomainītu aizsargkrāsu (augšējais attēls) uz pamatkrāsu (apakšējais attēls)]]
+Gliemji dzīvo dažādās ūdenstilpēs: dīķos, [[ezers|ezeros]], klusās [[upe|upju]] un strautu attekās, jūrās, kā arī uz [[sauszeme]]s.  Uz [[ūdensaugi]]em vai vienkārši pie ūdens virsmas bieži sastopams [[lielais dīķgliemezis]] un [[lielā ūdensspolīte]]. Saldūdeņos uz gultnes dzīvo [[bezzobes]] un [[perlamutrenes]]. Jūrās uz zemūdens klintīm un uz gultnes mīt [[mītilas]], [[austeres]] un [[pērlenes]], bet atklātos ūdeņos un gultnes tuvumā peld [[kalmāri]], [[sēpijas]] un [[astoņkāji]]. Uz sauszemes sastopami [[kailgliemeži]], bet dārzos — [[vīngliemeži]].
+
+== Morfoloģija un īpašības ==
+Lielākajai daļai gliemju mīksto ķermeni apņem čaula, ko veido mantijas malas dziedzeri.<ref name=pd/> Tā sastāv no [[kaļķis|kaļķa]] un ragvielai līdzīgas vielas, kas aizsargā dzīvnieka ķermeni no izžūšanas un citiem nelabvēlīgiem vides faktoriem. Čaulai ir 3 slāņi: kaļķa [[Perlamutrs|perlamutra]] slānis (iekšējais), kaļķa prizmatiskais slānis (ārējais) un proteīna konhiolīna slānis, kas pārklāj prizmatisko slāni no ārpuses un aizsargā to no ūdens.<ref name=pd/> [[Dīķgliemeži]]em, [[ūdensspolītes|ūdensspolītēm]] un [[vīngliemeži]]em ir viengabala, vītnē sagriezta čaula. [[perlamutrenes|Perlamutrenēm]], [[bezzobes|bezzobēm]] un [[mītilas|mītilām]] tā sastāv no diviem vākiem, kurus savstarpēji savieno elastīga saite. Dažiem gliemjiem ([[kailgliemeži]]em, [[astoņkāji]]em un [[kalmāri]]em) ārējā čaula nav attīstīta vispār, taču šo gliemju senčiem tā kādreiz ir bijusi. Par to liecina čaulas atliekas (rudimenti), kas redzamas mūsdienās dzīvojošām sugām. Gliemju mīksto ķermeni apņem [[epitēlijs|epitēlija]] veidojums - mantija. Tās malas blīvi piekļaujas čaulai un izdala vielu, no kuras veidojas čaula. Starp mantiju un gliemja ķermeni izveidojas mantijas dobums. Vairākumam gliemju, piemēram, dīķgliemežiem un kalmāriem, ir [[galva]], viduklis (viscerālais komplekss) un muskuļota [[kāja]].<ref name=pd>{{Tīmekļa atsauce |url=http://www.llu.lv/getfile.php?id=42239 |title=Tips Mollusca — gliemji |access-date={{dat|2012|03|25||bez}} |archiveurl=https://web.archive.org/web/20160304193531/http://www.llu.lv/getfile.php?id=42239 |archivedate={{dat|2016|03|04||bez}} }}</ref> Bezzobēm, perlamutrenēm un mītilām ķermenis sastāv tikai no vidukļa un kājas. Galva šiem gliemjiem ir izzudusi, to senčiem pārejot uz pasīvu dzīvesveidu un filtrējošu barošanos.
+
+=== Kustības ===
+[[Attēls:Octopus3.jpg|thumb|220px|[[Galvkāji]] spēj ātri peldēt uz priekšu, izmantojot reaktīvās kustības principu, attēlā astoņkājis]]
+[[Attēls:Benthoctopus sp.jpg|thumb|220px|[[Astoņkājis]] spēj ne tikai peldēt, bet arī rāpot pa gultni, izmantojot taustekļus]]
+[[Attēls:Enhydra lutris seashell.jpg|thumb|220px|Gliemji ir svarīgs barības avots daudziem dzīvniekiem, attēlā [[kalāns]] (''Enhydra lutris'')]]
+Lielākā daļa gliemju dzīvo mazkustīgi. Dīķgliemeži un ūdensspolītes lēnām rāpo pa ūdensaugiem, akmeņiem un citiem priekšmetiem. To pārvietošanās orgāns ir kāja. Kāja ir muskuļots ķermeņa sienas vēderpuses izaugums. Gliemjiem rāpojot, kājas apakšpusē (pēdā) saskatāma viļņveidīga muskulatūras saraušanās un atslābšana. Bezzobes un perlamutrenes dzīvo daļēji iegrimušas gultnē. Šo gliemju kāja atgādina ķīli, kas, muskulatūrai saraujoties, pavelk ķermeni uz priekšu. Kalmāri, sēpijas un astoņkāji aktīvi peld pēc reaktīvās kustības principa. Mantijas dobumā caur atveri ieplūst [[ūdens]], bet pēc tam caur piltuvi (pārveidotu kājas daļu) dzīvnieks to spēcīgi izšļāc ārā. Astoņkāji un daži citi gliemji spēj ne tikai peldēt, bet, piepalīdzot taustekļiem (izveidojušies kā kājas priekšdaļas derivāti), var arī rāpot pa gultni. No tā cēlies klases nosaukums — [[galvkāji]]. Šo dzīvnieku embrionālās attīstības laikā var novērot, kā kāja pārtop par taustekļiem un piltuvi.
+
+=== Elpošana ===
+Bezzobes, perlamutrenes un vairākums pārējo ūdenī dzīvojošo gliemju elpo caur žaunām, uzņemot ūdenī izšķīdušo [[skābeklis|skābekli]]. Sauszemes gliemji (vīngliemeži un kailgliemeži) elpo ar [[plauša|plaušām]]. Tā ir īpaša, ar [[asinsvadi]]em caurausta mantijas kabata. [[Gaiss]] plaušā ieplūst caur elpatveri. Tā elpo arī daži saldūdenī dzīvojošie gliemji, piemēram, dīķgliemeži un ūdensspolītes. Laiku pa laikam tie paceļas pie ūdens virsmas un ieelpo gaisu.
+
+== Barošanās ==
+Vairākums gliemežu pārtiek no [[augi]]em. Dīķgliemeži un ūdensspolītes ar [[mēle|mēli]], kuru klāj asi, cieti zobiņi (tā saucamā ''rīvīte''), saberž [[ūdensaugi|ūdensaugu]] [[lapas]] un kātus, kā arī savāc [[aļģes]] no zemūdens priekšmetiem. Tie ēd arī dažādas organiskās atliekas. Sāļūdeņos dzīvo arī plēsīgu gliemežu sugas. To siekalas satur [[sērskābe|sērskābi]] (koncentrācijā līdz 4%), kas noder citu gliemju čaulu un [[adatādaiņi|adatādaiņu]] bruņu šķīdināšanai, lai plēsēji varētu piekļūt barībai.
+
+Bezzobes, perlamutrenes un citas gliemenes barojas pasīvi, filtrējot no ūdens [[detrīts|detrītu]] (ūdens organismu pussadalījušās atliekas) un mikroorganismus, ko mantijas dobumā ienes ūdens. Filtrēšana notiek [[žaunas|žaunās]] un mutes lēveros, kas barību arī virza uz muti. [[Ūdens]] ieplūst un izplūst caur ievadsifonu un izvadsifonu (plaisas starp mantijas krokām), kuri atrodas ķermeņa pakaļgalā. Nepārtraukto ūdens plūsmu mantijas dobumā rada skropstiņas, kas klāj žaunu, mantijas un [[mute]]s lēveru virsmu. Gliemjus, kuriem ir šāds barošanās veids, sauc par filtrētājiem.
+
+Galvkāji, piemēram, kalmāri, sēpijas un astoņkāji ir plēsīgi [[dzīvnieki]]. Tie medī [[krabji|krabjus]], [[zivis]], citus gliemjus. Kalmāri un sēpijas seko upurim, bet astoņkāji tam uzglūn, paslēpušies starp zemūdens klintīm un akmeņiem. Lielāku medījumu ar ragvielas knābi un rīvīti tie sasmalcina putriņā un tad norij. Pārāk lieli barības gabali [[kuņģis|kuņģī]] nevar nokļūt, jo [[barības vads]] ir šaurs, turklāt tas iet caur smadzenēm (spēcīgi attīstītiem galvas ganglijiem).
+
+== Vairošanās ==
+Gliemju tipā ir gan [[hermafrodīti]], gan šķirtdzimumu dzīvnieki. Plaušgliemeži ir hermafrodīti. No to izdētajām, ar recekļainu vielu savstarpēji salipinātajām [[ola|olām]] attīstās mazi gliemeži. Lielākā daļa gliemeņu ir šķirtdzimumu gliemji. To olu apaugļošanās notiek mātītes mantijas dobumā, kurā nonāk [[spermatozoīds|spermatozoīdi]], ko tēviņi izdalījuši ūdenī. No apaugļotām olām attīstās [[kāpuri]] — glohīdijas, kurus gliemene izšļāc caur izvadsifonu, kad tai garām peld kāda zivs. Kāpuri piestiprinās pie zivs [[āda]]s un žaunām, kur 1—2 mēnešus lēnām attīstās. Šāds pielāgojums sekmē gliemeņu izplatīšanos kāpura fāzē, jo pieaugušie indivīdi ir mazkustīgi vai vispār nekustīgi piestiprināti substrātam.
+
+== Ekoloģija ==
+Gliemji ietilpst biocenožu dažādās [[Barības ķēde|barības ķēdēs]]. Ar sauszemes gliemežiem barojas [[krupji]] un [[kurmji]]. Ūdens gliemjus ēd daudzas [[zivis]] un [[jūraszvaigznes]]. Kalmāriem, sēpijām un astoņkājiem ir svarīga nozīme kā jūras zivju, [[roņi|roņu]], [[kašaloti|kašalotu]] un citu dzīvnieku barībai. Ūdens biocenozēs gliemenēm ir liela nozīme kā filtrētājām. Piemēram, viena austere vienā stundā izfiltrē aptuveni 10 l ūdens, attīrot to no detrīta un mikroorganismiem.
+
+== Gliemji un cilvēki ==
+[[Attēls:Cooked snails.JPG|thumb|220px|Cepti [[parka vīngliemezis|parka vīngliemeži]]]]
+Dažu sugu gliemjus cilvēki izmanto [[pārtika|pārtikā]] un kā lauksaimniecības dzīvnieku barību. [[Austeres]] un [[mīdijas]] pārtikā tiek lietotas jau no seniem laikiem. Austeres dzīvo jūrā 1—7 metru dziļumā. Mīdijas ir parastas jūru piekrastes un sēkļu iemītnieces. Arī kalmāru, astoņkāju un dažu citu galvkāju gaļa ir pārtikas produkts. Šos gliemjus īpaši daudz zvejo [[Japāna|Japānā]], [[Ķīna|Ķīnā]] un [[Koreja|Korejā]]. Perlamutreņu un bezzobju sasmalcinātas čaulas nereti pievieno [[vistas|vistu]] barībai. Rūpnieciski izmantojamās gliemenes (mīdijas, austeres un [[vēdekļgliemenes]]) audzē speciālās jūras fermās. Lielu interesi izraisa [[jūras pērļgliemenes]]. Šīm gliemenēm starp čaulu un mantiju iekļuvušie [[smiltis|smilšu]] graudiņi pārklājas ar [[perlamutrs|perlamutru]], izveidojot [[pērle|pērli]]. Atrast pērļgliemenes ar pērli izdodas reti. Dažkārt pērļu [[Zvejošana|zvejniekiem]], atverot pat simtiem čaulu, neizdodas atrast nevienu pērli. Dažās zemēs, piemēram, Japānā, tiek organizēta rūpnieciska pērļu ieguve: pērļgliemenes izzvejo, atvērtā gliemenē ieliek mākslīgu pērles pamatu, gliemenes novieto uz sieta un nolaiž [[jūra|jūrā]] uz gultnes. Dažu gadu laikā čaulā izveidojas pērle.
+
+Daudzi gliemji nodara kaitējumu cilvēkam. Piemēram, [[urbējgliemenes]] jeb kuģurbes urbj ejas kuģu koka daļās un tos izposta. [[Rapani]] ir kaitīgi tāpēc, ka apēd austeres un mīdijas. Tie ir lieli gliemeži, kuru čaulas augstums sasniedz 19 cm. Pagājušā gadsimta četrdesmitajos gados rapanu kāpurus, kas bija pieķērušies pie kuģu dibena, no Japāņu jūras ieveda [[Melnā jūra|Melnajā jūrā]]. Rapani strauji savairojās, samazinot austeru un mīdiju apmetnes. Vienīgais cīņas paņēmiens ar rapaniem ir to izķeršana. Rapanu gaļa ir ēdama, bet to čaula — dekoratīva, tāpēc tā ir tūristu un atpūtnieku pieprasīta. Ne mazums zaudējumu gliemji nodara [[lauksaimniecība]]i. Tādi ir naktīs aktīvie kailgliemeži. Tie īpaši savairojas siltās un slapjās [[vasara|vasarās]]. Ļoti kaitīgi ir lauku kailgliemeži, kas apēd ziemājus, kā arī [[kāposti|kāpostus]] un citus [[dārzeņi|dārzeņus]]. Dienvidos ļoti kaitīgs ir [[parka vīngliemezis]]. Dažu sugu gliemji ir parazītisko tārpu starpsaimnieki.
+
+== Sistemātika ==
+[[Attēls:Tonicella-lineata.jpg|thumb|220px|[[Bruņgliemezis]] — ''[[Tonicella lineata]]'']]
+[[Attēls:Cypraea chinensis with partially extended mantle.jpg|thumb|220px|Apmēram 80% no visiem gliemjiem ir [[gliemeži]], attēlā [[jūras gliemezis]] — ''[[Cypraea chinensis]]'']]
+[[Attēls:Hapalochlaena lunulata.JPG|thumb|220px|[[Zilo gredzenu astoņkājis]] (''Hapalochlaena lunulata'') ar savām košajām krāsām brīdina traucētāju, tā dzēliens ir dzīvībai bīstams]]
+*'''Gliemju tips''' (''Mollusca'')
+** klase: {{TaksoSaite|Polyplacophora|Bruņgliemeži}}
+*** apakšklase: [[Bruņgliemežu apakšklase|Bruņgliemeži]] (''Loricata'')
+*** apakšklase: †[[Senie bruņgliemeži]] (''Paleoloricata'')
+** klase: {{TaksoSaite|Cephalopoda|Galvkāji}}
+*** apakšklase: †{{TaksoSaite|Ammonoidea|Amonīti}}
+*** apakšklase: [[Divžauņu apakšklase|Divžauņi]] (''Coleoidea'')
+*** apakšklase: [[Nautilu apakšklase|Nautili]] (''Nautiloidea'')
+** klase: {{TaksoSaite|Bivalvia|Gliemenes}}
+*** apakšklase: {{TaksoSaite|Heterodonta|Dažādzobji}}
+*** apakšklase: {{TaksoSaite|Anomalosdesmata|Jūras gliemenes}}
+*** apakšklase: {{TaksoSaite|Protobranchia|Pirmgliemenes}}
+*** apakšklase: {{TaksoSaite|Paleoheterodonta|Senie dažādzobji}}
+*** apakšklase: {{TaksoSaite|Pteriomorphia|Spalvgliemenes}}
+** klase: {{TaksoSaite|Gastropoda|Gliemeži}}
+*** klada: ''[[Caenogastropoda]]''
+*** klada: ''[[Cocculiniformia]]''
+*** klada: ''[[Heterobranchia]]''
+*** klada: ''[[Neomphalina]]''
+*** klada: ''[[Neritimorpha]]''
+*** klada: ''[[Orthogastropoda]]''
+*** klada: ''[[Patellogastropoda]]''
+*** klada: ''[[Vetigastropoda]]''
+** klase: {{TaksoSaite|Scaphopoda|Lāpstkāji}}
+*** kārta: {{TaksoSaite|Dentaliida|Ilkņveida lāpstkāji}} 
+*** kārta: {{TaksoSaite|Gadilida|Mazie lāpstkāji}}
+** klase: {{TaksoSaite|Monoplacophora|Monoplakofori}}
+*** apakšklase: {{TaksoSaite|Tergomya|Tergomi}}
+*** kārta: †{{TaksoSaite|Pelagiellida}}
+*** virsdzimta: †{{TaksoSaite|Archinacelloidea}}
+*** dzimta: †{{TaksoSaite|Maikhanellidae}}
+** klase: [[Rievvēdergliemju klase|Rievvēdergliemji]] (''Solenogastres'')
+*** kārta: [[Neomeniamorpha]]
+*** kārta: [[Pholidoskepia]]
+*** kārta: [[Sterrofustia]]
+** klase: [[Vairogkājgliemju klase|Vairogkājgliemji]] (''Caudofoveata'')
+** klase: †{{TaksoSaite|Helcionelloida}}
+** klase: †{{TaksoSaite|Rostroconchia}}
+
+(†) - izmirušu organismu grupa.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://gliemji.daba.lv/LV/Gadagliemis.shtml Gada gliemji]
+* [http://auto-tehnika.delfi.lv/zinatne/ek-eiropa-izmirst-saldudens-zivis-gliemji-un-augi.d?id=41883833 EK: Eiropā izmirst saldūdens zivis, gliemji un augi]
+* [http://www.eea.europa.eu/lv/articles/navejosie-gliemji-un-citi-iecelotaji-eiropas-biologiska-daudzveidiba-mazinas-satraucosa-tempa Nāvējošie gliemji un citi ieceļotāji — Eiropas bioloģiskā daudzveidība mazinās satraucošā tempā]
+* [http://www.physorg.com/news/2011-10-mollusk-evolutionary-tree.html Researchers complete mollusk evolutionary tree]
+* [http://www.gastropods.com/ Hardy's Internet Guide to Marine Gastropods]
+* [https://web.archive.org/web/20120321184338/http://www.tafi.org.au/zooplankton/imagekey/mollusca/index.html Mollusca]
+* [http://www.nmr-pics.nl/ Rotterdam Natural History Museum]
+* [http://www.delfi.lv/tehnika/zinatne/zinatnieki-nogalinajusi-pasaules-vecako-dzivnieku-censoties-noskaidrot-ta-vecumu.d?id=43817174 Zinātnieki nogalinājuši pasaules vecāko dzīvnieku, cenšoties noskaidrot tā vecumu]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Gliemji]]
+[[Kategorija:Bilaterāļi]]

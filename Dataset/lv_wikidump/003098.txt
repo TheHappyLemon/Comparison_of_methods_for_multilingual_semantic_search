@@ -1,0 +1,60 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Tirāna
+ | native_name              = ''Tiranë''
+ | settlement_type          = 
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Tirana from South.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Tirana.svg
+ | image_shield             = Stema e Bashkisë Tiranë.svg
+ | pushpin_map              = Albānija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 41 | latm  = 19 | lats  = 48 | latNS  = N
+ | longd = 19 | longm = 49 | longs = 12 | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = {{ALB}}
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | area_total_km2           = 41.8
+ | elevation_m              = 110
+ | population_total         = 421286
+ | population_as_of         = {{dat|2011|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | area_code                = +355 4
+ | website                  = {{url|http://www.tirana.gov.al/}}
+ | footnotes                = 
+}}
+'''Tirāna''' ({{val|sq|Tiranë}}, ''Tirana'' vai ''Tirona'') ir pilsēta [[Albānija]]s centrālajā daļā pie [[Išma]]s upes. Albānijas lielākā pilsēta un tās galvaspilsēta, par kuru tā kļuva 1920. gadā.
+
+Kaut arī oficiāli pilsētas iedzīvotāju skaits ir zem 400 000, sakarā ar daudzajiem bēgļiem no apkārtējām valstīm un iedzīvotāju došanos uz galvaspilsētu darba meklējumos, iedzīvotāju skaits Tirānā ir krietni lielāks (līdz pat 1 000 000).
+
+== Vēsture ==
+Pilsētu 1614. gadā nodibināja [[Osmaņu impērija|osmaņu]] ģenerālis [[Barkinzade Sulejmans pašā]] (''Barkinzade Süleyman Paşa'').<ref>[http://p2.www.britannica.com/eb/article-9072598 Tiranë. (2006)]{{Novecojusi saite}} Encyclopædia Britannica. Iegūts 2006. gada 27. decembrī no Encyclopædia Britannica Online</ref> 1901. gadā Tirānā bija 15 000 iedzīvotāju. 1920. gadā [[Ļušņas kongress]] izvēlējās Tirānu par Albānijas galvaspilsētu. Kopš 1925. gada, kad [[Mustafa Kemals Ataturks]] aizliedza tiem darboties [[Turcija|Turcijā]], Tirāna kļuva par [[sufisms|sufistu]] [[bektaši|bektašu]] ordeņa centru. Pēc [[komunisti|komunistu]] uzvaras [[Envers Hodža|Envera Hodžas]] vadībā iedzīvotāju skaits Tirānā pieauga vairākkārtīgi. 20. gs. 80. gadu beigās Tirānā notika vardarbīgas demonstrācijas, kas noveda pie komunistu varas gāšanas un daudzpartiju sistēmas izveidošanās.
+
+== Cilvēki ==
+Tirānā dzimuši:
+* [[Fatoss Nano]] (''Fatos Nano''; 1957) — politiķis
+* [[Edi Rama]] (''Edi Rama''; 1964) — politiķis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa-aizmetnis}}
+{{Eiropas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Albānijas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]

@@ -1,0 +1,61 @@
+{{Personas infokaste
+|          vārds = Johans Nepomuks Hummels
+|     vārds_orig = ''Johann Nepomuk Hummel''
+|         attēls = JNHummel 2.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1778
+|     dz_mēnesis = 11
+|       dz_diena = 14
+|       dz_vieta = [[Presburga]], [[Ungārijas karaliste]]<br>([[Bratislava]], {{SVK}})
+|      m_dat_alt = 
+|         m_gads = 1837
+|      m_mēnesis = 10
+|        m_diena = 17
+|        m_vieta = [[Veimāra]], [[Saksijas-Veimāras-Eizenahas lielhercogiste]]<br>([[Tīringene]], {{GER}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|   nodarbošanās = mūziķis
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|       piezīmes = 
+|    kategorijas = 
+|    citas daļas = 
+}}
+
+'''Johans Nepomuks Hummels''' ({{val|de|Johann Nepomuk Hummel}}, dzimis {{dat|1778|11|14}}, miris {{dat|1837|10|17}}) bija [[Austrija|austriešu]] komponists un virtuozs pianists. Hummela mūzika iezīmē pāreju no [[klasicisms|klasicisma]] uz [[romantisms|romantismu]].
+
+== Biogrāfija ==
+Dzimis Presburgā (tagad [[Bratislava]]) militārās mūzikas skolas direktora ģimenē.
+
+Mācījies mūziku pie [[Volfgangs Amadejs Mocarts|Mocarta]], [[Johans Georgs Albrehtsbergers|Albrehstbergera]], [[Jozefs Haidns|Haidna]] un [[Antonio Saljeri|Saljeri]] (pie Albrehstbergera un Haidna vienlaicīgi ar [[Ludvigs van Bēthovens|Bēthovenu]]).
+
+Dzīves otrajā pusē bija [[kapelmeistars]] [[Veimāra|Veimārā]], kur iedraudzējās ar [[Johans Volfgangs fon Gēte|Gēti]] un [[Frīdrihs Šillers|Šilleru]].
+
+Par Hummela audzēkņiem tiek uzskatīti [[Karls Černijs]], [[Zigismonds Tālbergs]] un [[Fēlikss Mendelsons]].
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.hummel-gesellschaft-weimar.de/ Hummela biedrības mājaslapa] {{de ikona}}
+* [http://imslp.org/wiki/Category:Hummel, Johann Nepomuk Hummels Petrucci Music Library]{{Novecojusi saite}}
+* [http://www.allmusic.com/artist/mn0002137067 Hummels allmusic.com]
+
+{{mūziķis-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Hummels, Johans Nepomuks}}
+[[Kategorija:1778. gadā dzimušie]]
+[[Kategorija:1837. gadā mirušie]]
+[[Kategorija:Bratislavā dzimušie]]
+[[Kategorija:Slovākijas vācieši]]
+[[Kategorija:Austriešu komponisti]]
+[[Kategorija:Pianisti]]

@@ -1,0 +1,33 @@
+{{nosaukums slīprakstā}}
+{{Programmatūras infokaste
+| name = Internet Explorer
+| logo = Internet Explorer 10+11 logo.svg
+| screenshot = [[Attēls:IE 11 Wikipedia.png|250px]]
+| caption = ''Internet Explorer 11'' ''[[Windows 7]]'' operētājsistēmā
+| developer = [[Microsoft]]
+| latest_release_version = 11.0.220
+| latest_release_date = (2020. gads)
+| operating_system = [[Microsoft Windows|Windows]]
+| genre = [[Tīmekļa pārlūkprogramma|Interneta pārlūks]]
+| license = Visas tiesības tiek paturētas
+| website = {{URL|https://microsoft.com/ie}}
+}}
+'''''Internet Explorer''''', saīsināti arī '''IE''' vai '''MSIE''', bija ''[[Microsoft]]'' korporācijas izstrādāta interneta [[pārlūkprogramma]]. Tā kopš 1995. gada tika iekļauta [[operētājsistēma|operētājsistēmā]] ''[[Microsoft Windows]]''.
+
+Tā reiz bija populārākā interneta pārlūkprogramma; 2003. gadā to izmantoja 95% [[Internets|Interneta]] lietotāju.<ref>{{Ziņu atsauce|url=https://www.bbc.co.uk/news/10095730|title=Microsoft's Internet Explorer losing browser share|work=BBC News}}</ref> 2015. gada martā ''Microsoft'' paziņoja, ka daļā ''[[Windows 10]]'' kā noklusējuma pārlūkprogramma tikai izmantota ''[[Microsoft Edge]]'', nomainot ''Internet Explorer''.<ref>{{Tīmekļa atsauce|url=https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/|title=The future of Internet Explorer on Windows 10 is in Microsoft Edge|last=Blog|first=Windows Experience|website=Windows Experience Blog|access-date=2021-10-12|date=2021-05-19|language=en-US}}</ref> 2022. gada 15. jūnijā tika izbeigts pilns Internet Explorer atbalsts,<ref name=":0">{{Tīmekļa atsauce|url=https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge|title=Lifecycle FAQ - Internet Explorer and Microsoft Edge|website=docs.microsoft.com|access-date=2021-07-10|language=en-us}}</ref> bet ''Microsoft'' plāno nodrošināt ''Microsoft Edge'' IE savietojamības režīma darbību vismaz līdz 2029. gadam.<ref name=":0" />
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{IT-aizmetnis}}
+
+{{TimeklaParluki}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datņu pārvaldnieki]]
+[[Kategorija:Tīmekļa pārlūkprogrammas]]

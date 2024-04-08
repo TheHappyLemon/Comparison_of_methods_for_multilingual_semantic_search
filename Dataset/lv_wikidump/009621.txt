@@ -1,0 +1,71 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Altaja novads
+| official_name = ''Алтайский край''
+| image_skyline =The_Resort_Of_Belokurikha._Early_autumn_in_the_vicinity_of_the_resort_area.jpg 
+| imagesize = 
+| image_caption = 
+| settlement_type = [[Krievijas administratīvais iedalījums|novads]]
+| total_type = Kopā
+| image_flag = Flag of Altai Krai.svg
+| image_shield = Coat of Arms of Altai Krai.svg
+| shield_size  = 70px
+| image_map = Altai Krai in Russia.svg
+| map_caption = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Sibīrijas federālais apgabals]]
+ | established_title = Dibināts
+ | established_date = 1937
+| area_total_km2 = 167996
+| population_total = 2266739
+| population_as_of = 2022
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = 52| latm = 46| lats = | latNS = N
+| longd = 82| longm = 37| longs = | longEW = E
+| seat_type = Centrs
+| seat = [[Barnaula]]
+| parts_type = Administratīvais iedalījums
+| parts = 
+| p1 = 
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[krievi]] (93,9%)<br />[[vācieši]] (2,1%)<br/>[[ukraiņi]] (1,4%)
+| official_language       = [[krievu valoda|krievu]]
+| website = {{url|https://www.altairegion22.ru/}}
+}}
+
+'''Altaja novads''' ({{val|ru|Алтайский край}}) ir viens no [[Krievijas Federācija]]s novadiem [[Sibīrijas federālais apgabals|Sibīrijas federālajā apgabalā]]. Tas robežojas ar [[Novosibirskas apgabals|Novosibirskas apgabalu]] ziemeļos, [[Kemerovas apgabals|Kemerovas apgabalu]] austrumos, [[Altaja republika|Altaja Republiku]] dienvidaustrumos, kā arī ar [[Kazahstāna|Kazahstānu]] dienvidrietumos.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Altaja novads|width=400 |float=center|caption = [[Altaja novads|Altaja novada]] pilsētu izvietojums; '''trenkrakstā''' — novada centrs
+|places =
+{{VietasKarte~|Altaja novads|lat=53.346944|long=83.776944|position = bottom |label='''[[Barnaula]]'''}}
+{{VietasKarte~|Altaja novads|lat=52.2|long=82.783333|position = top |label=[[Alejska]]}}
+{{VietasKarte~|Altaja novads|lat=52|long=84.983333|position = top |label=[[Belokuriha]]}}
+{{VietasKarte~|Altaja novads|lat=  52.516667|long=85.166667|position = top |label=[[Bijska]]}}
+{{VietasKarte~|Altaja novads|lat=51|long=81.466667|position = bottom |label=[[Gorņaka (Krievija)|Gorņaka]]}}
+{{VietasKarte~|Altaja novads|lat=53.7|long=84.916667|position = top |label=[[Zarinska]]}}
+{{VietasKarte~|Altaja novads|lat=51.166667|long=82.166667|position = right |label=[[Zmeinogorska]]}}
+{{VietasKarte~|Altaja novads|lat=53.791944|long=81.348611|position = top |label=[[Kameņa pie Obas]]}}
+{{VietasKarte~|Altaja novads|lat=53.4|long=83.933333|position = right |label=[[Novoaltajska]]}}
+{{VietasKarte~|Altaja novads|lat=51.527222|long=81.218806|position = top |label=[[Rubcovska]]}}
+{{VietasKarte~|Altaja novads|lat=53|long=78.65|position = top |label=[[Slavgoroda]]}}
+{{VietasKarte~|Altaja novads|lat=52.933333|long=78.583333|position = bottom |label=[[Jarovoje]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Sibīrijas federālais apgabals}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas novadi]]
+[[Kategorija:Sibīrija]]
+[[Kategorija:Altaja novads| ]]

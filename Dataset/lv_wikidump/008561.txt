@@ -1,0 +1,50 @@
+{{BioTakso infokaste
+| attēls =Oikopleura dioica.gif
+| att_nosaukums ={{TaksoSaite|Oikopleura dioica|Apendikulārija}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| klase =Appendicularia
+| klase_lv =Apendikulārijas
+| sinonīmi =
+''Larvacea''
+| iedalījums =
+* {{TaksoSaite|Copelata}}
+| kategorijas =nē
+}}
+'''Apendikulārijas''' (''Appendicularia'', ''Larvacea'') ir [[Tunikāti|tunikātu]] primitīvākā klase. Tie ir 0,5—3 mm gari, brīvi peldoši [[organismi]]. Apendikulārijām visu dzīves laiku saglabājas [[muguras stiegra]], bet tām nav peribranhiālā dobuma. Dzīves laikā nenotiek [[regresīvā metamorfoze]].
+
+Pēc uzbūves apendikulārijas atgādina [[Ascīdijas|ascīdiju]] kāpurus, bet atšķiras no tiem galvenokārt ar tievo pavedienveidīgo nervu stiegru un asti, kas arī plakana no sāniem, taču neatrodas vertikālā, bet horizontālā plaknē, tāpēc rodas iespaids, ka aste ir dorsoventrāli plakana. Ādas epitēlijs izdala apkārt ķermenim īpašu mājiņu. Tā ir recekļains, caurspīdīgs apvalks, kas atbilst citu tunikātu tunikai. Taču dzīvnieks var mājiņā brīvi kustēties. Apendikulārijas ar astes svārstību kustībām virza [[ūdens]] straumi uz mājiņas priekšējo atveri, bet ūdens, izejot no mājiņas caur pakaļējo atveri, grūž [[dzīvnieki|dzīvnieku]] uz priekšu. Mājiņas priekšējo atveri klāj ļoti smailu pavedienu sietiņš ar šaurām spraugām, caur kurām var iziet tikai visīsākie [[planktons|planktona organismi]], kas noder par barību apendikulārijām. Pēc nedaudzām stundām, kad mājiņa piesērē, apendikulārijas ar strauju astes vēzienu pārrauj mājiņas sienu un izkļūst laukā, bet jau pēc stundas apkārt apendikulārijas ķermenim izveidojas jauna mājiņa.
+
+Apendikulārijas acīmredzot ir [[neotēniska grupa]], t. i., grupa, kura ieguvusi spēju vairoties kāpuru stadijā un evolūcijas procesā zaudējusi pieaugušo stadiju.
+
+Apendikulārijas izplatītas praktiski visās [[jūra|jūrās]].
+
+== Sistemātika ==
+Zināmas ap 100 apendikulāriju sugu, kuras iedala 1 kārtā (''Copelata'') un 3 dzimtās (reizēm 5 dzimtās).
+
+'''Klase''' {{TaksoSaite|Appendicularia|Apendikulārijas}}
+* kārta {{TaksoSaite|Copelata}}
+::* dzimta: [[Fritillaridae]]
+:::* ģints: Fritillaria
+:::* ģints: Tectillaria
+:::* ģints: Appendicularia
+::* dzimta: [[Kowalewskaiidae]]
+:::* ģints: Kowalevskia
+::* dzimta: [[Oikopleuridae]]
+:::* ģints: Althoffia
+:::* ģints: Bathochordaes
+:::* ģints: Chunopleura
+:::* ģints: Folia
+:::* ģints: Haplopleura
+:::* ģints: Megalocercus
+:::* ģints: Mesochordaeus
+:::* ģints: Mesoikopleura
+:::* ģints: Oikopleura
+:::* ģints: Pelagopleura
+:::* ģints: Stegosoma
+
+
+[[Kategorija:Tunikāti]]

@@ -1,0 +1,38 @@
+{{Cita nozīme|ezeru Lietuvā|apdzīvotu vietu Baltkrievijā|Asveja}}
+{{Cita nozīme|ezeru Lietuvā|ezeru Baltkrievijā|Asvejas ezers}}
+{{ezera infokaste
+|ezers=Asveja
+|attēls=Dubingiai3a.JPG
+|paraksts=Asveja pie [[Dubiņģi]]em
+| plat_d=55 | plat_m=2 | plat_s=33 | plat_NS=N 
+| gar_d=25 | gar_m=30 | gar_s=44 | gar_EW=E
+|vieta={{LTU}}
+|map = Lietuva
+|map_label = Asveja
+|platība=9,78
+|garums=21,9
+|Vid_dziļums=14,9
+|Max_dziļums=50,2
+|tilpums=
+|augstums_vjl=
+|izteka=[[Dubinga]]
+|baseins=230,1
+|valstis=
+|salas=
+|pilsētas=[[Dubiņģi]]
+}}
+'''Asveja''' (arī '''Asvejas ezers''' vai '''Dubiņģu ezers'''; {{val|lt|Asveja}}, ''Dubingių ežeras'') ir garākais [[ezers]] [[Lietuva|Lietuvā]]. Tā garums ir {{nobr|21,9 km}}, bet ja pieskaita Žalktīnes, Vīrogalas un Dubiņģu līčus — {{nobr|29,7 km}}. Trešais dziļākais ezers Lietuvā, pēc platības — trīspadsmitais lielākais.
+
+Atrodas [[subglaciālā vaga|subglaciālajā vagā]] — zem ledāja plūstošas ūdens straumes izskalotā ielejā. Ezera platākā vieta ir tikai {{nobr|880 m}} plata. [[1992]]. gadā nodibināts [[Asveja reģionālais parks]] ezera ekosistēmas un ainavas aizsardzībai.
+
+Otrs ezera vārds cēlies no Dubiņģu pils, kas atradās uz agrākās ezera salas. Ezera krastā esošā [[Dubiņģi|Dubiņģu]] [[miests]] ir populārs tūrisma objekts. Iespējams noīrēt laivas, lai cauri ezeram dotos uz [[Nere]]s upi.
+
+[[1934]]. gadā pāri ezeram uzcelts koka tilts, kas tiek izmantots joprojām. Tā garums ir {{nobr|84 m}} un ezers šajā vietā ir līdz {{nobr|15 m}} dziļš.
+
+== Ārējās saites ==
+{{commonscat-inline|Asveja}}
+* [http://www.wikimapia.org/#y=55030580&x=25509224&z=12&l=0&m=a Gaisa uzņēmums, WikiMapia]
+* [https://web.archive.org/web/20060502105912/http://www.litorina-dubingiai.lt/index_en.html Dubingas kūrorts]
+* [http://www.asveja.lt/ Asvejas ezera Interneta lapa (lietuviski), attēli] {{Webarchive|url=https://web.archive.org/web/20200216210044/http://www.asveja.lt/ |date={{dat|2020|02|16||bez}} }}
+
+[[Kategorija:Lietuvas ezeri]]

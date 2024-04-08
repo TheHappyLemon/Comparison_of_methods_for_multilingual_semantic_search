@@ -1,0 +1,53 @@
+{{Infobox settlement
+| name                    = Burgasa
+| official_name           = ''Бургас''
+| settlement_type         = pilsēta
+| image_skyline           = Burgas-Collage D.jpg
+| image_caption           = 
+| imagesize               = 
+| image_shield            = Burgas-coat-of-arms.svg
+| image_flag              = BG-Burgas_flag.png
+| pushpin_map             = Bulgārija
+| pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption     = Burgasas atrašanās vieta Bulgārijā
+| pushpin_mapsize         = 
+| latd  = 42 | latm  = 29 | lats  = 43 | latNS  = N
+| longd = 27 | longm = 28 | longs = 18 | longEW = E
+| coordinates_display     = inline,title
+| coordinates_region      = BG
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{BUL}}
+| subdivision_type1       = [[Bulgārijas apgabali|Apgabals]]
+| subdivision_name1       = [[Burgasas apgabals]]
+| elevation_m             = 30
+| area_total_km2          = 253.644
+| population_total        = 211033
+| population_blank2_title = Aglomerācijā
+| population_blank2       = 277922 <ref name="Urban area populaton - Budapest">{{Tīmekļa atsauce|url=http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lpop1|title=Functional Urban Areas - Population on 1 January by age groups and sex|work=[[Eurostat]]|date=1 April 2016|accessdate=12 April 2016}}</ref>| population_as_of       = <small>2014-31-12</small>
+| population_density_km2 = auto
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST         = +3
+| postal_code_type       = Pasta indekss
+| postal_code            = 8000-8034
+| area_code              = +359 056
+| website                = {{URL|http://www.burgas.bg}}
+}}
+
+'''Burgasa''' ({{val|bg|Бургас}}) ir pilsēta [[Bulgārija]]s dienvidaustrumos pie [[Melnā jūra|Melnās jūras]]. Otrā lielākā (aiz [[Varna (pilsēta)|Varnas]]) Bulgārijas pilsēta pie Melnās jūras un valsts lielākā jūras osta. Apkaimē vairākas kūrortpilsētas. Ap pilsētu atrodas [[Burgasas ezeri]].
+
+== Vēsture ==
+Burgasas priekštece ir viduslaiku [[grieķi|grieķu]] apmetne Pirgosa (''Πύργος''), tulkojumā "tornis". Līdz Bulgārijas neatkarības nodibināšanai 1878. gadā Burgasa bija neliela, grieķu apdzīvota pilsētiņa. Neatkarīgās Bulgārijas laikā tā kļuva par Bulgārijas dienvidu piekrastes galveno centru ar attīstītu [[nafta]]s un [[ķīmiskā rūpniecība|ķīmisko rūpniecību]]. 1903. gadā pilsētā ienāca [[dzelzceļš]], kas paātrināja tās attīstību. Sociālistiskās Bulgārijas laikā pilsēta spēja saglabāt savu 20. gadsimta sākuma arhitektūru.
+
+== Atsauces ==
+{{atsauces}}
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bulgārijas pilsētas]]
+[[Kategorija:Burgasas apgabals]]

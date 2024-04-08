@@ -1,0 +1,127 @@
+{{cita nozīme|futbola klubu|basketbola klubu|Real Betis (basketbols)}}
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color = #008200
+| nos = ''Betis Balompié''
+| logo = [[Attēls:Real Betis.png|220px]]
+| pilns = ''Real Betis Balompié, S.A.D.''
+| iesauka = ''Béticos'' <br />''Verdiblancos'' (zaļi-baltie) <br />''Heliopolitanos''
+| pilsēta = {{Vieta|Spānija|Sevilja}}
+| dib = 1907
+| dib_mēn = 9
+| dib_dat = 12
+| stad = ''[[Estadio Benito Villamarín]]''
+| ietilp = 52 500
+| prez = {{flaga|Spānija}} Anhels Aro
+| tren = {{flaga|Čīle}} [[Manuels Pellegrini]]
+| līga = [[Spānijas futbola čempionāta Pirmā divīzija|Spānijas Pirmā divīzija]]
+| sez = [[2022.—2023. gada Spānijas futbola čempionāta Pirmās divīzijas sezona|2022.—2023.]]
+| poz = 6. vieta
+|pattern_la1 = 
+|pattern_b1  = _betis2324h
+|pattern_ra1 = 
+|pattern_sh1 = _betis2324h
+|pattern_so1 = _betis2324hl
+|leftarm1  = FFFFFF
+|body1     = FFFFFF
+|rightarm1 = FFFFFF
+|shorts1   = FFFFFF
+|socks1    = FFFFFF
+|pattern_la2 = _betis2324a
+|pattern_b2  = _betis2324a
+|pattern_ra2 = _betis2324a
+|pattern_sh2 = _betis2324a
+|pattern_so2 = _betis2324al
+|leftarm2  = 009B00
+|body2     = 009B00
+|rightarm2 = 009B00
+|shorts2   = 009B00
+|socks2    = 009B00
+|pattern_la3 = _betis2324t
+|pattern_b3  = _betis2324t
+|pattern_ra3 = _betis2324t
+|pattern_sh3 = _betis2324t
+|pattern_so3 = _betis2324tl
+|leftarm3  = 000000
+|body3     = 000000
+|rightarm3 = 000000
+|shorts3   = 000000
+|socks3    = 000000
+| līga1 = ''[[La Liga]]''
+| uzvaras1 = 1
+| līga2 = [[Copa del Rey|Spānijas Karaļa]]
+| uzvaras2 = 2
+| līga3 = [[Spānijas futbola čempionāta Otrā divīzija|Otrās divīzijas]]
+| uzvaras3 = 7
+}}
+
+'''''Real Betis Balompié S.A.D.''''', biežāk pazīstams kā '''''Betis''''', ir [[Spānija]]s [[futbols|futbola]] klubs no [[Sevilja]]s. Dibināts 1907. gadā, pašlaik spēlē Spānijas futbola čempionāta augstākajā līgā - [[Spānijas futbola čempionāta Pirmā divīzija|Pirmajā divīzijā]] jeb ''La Liga''. ''Betis Balompié'' ir 10. panākumiem bagātākais ''La Liga'' klubs. Spānijas čempionātā uzvarējis vienu reizi 1934.–1935. gada sezonā. Klubs trīs reizes uzvarējis [[Spānijas Karaļa kauss|Spānijas Karaļa kausā]] (1977., 2005. un 2022. gadā), kā arī septiņas reizes [[Spānijas futbola čempionāta Otrā divīzija|Otrajā divīzijā]]. Mājas spēles aizvada ''[[Estadio Benito Villamarín]]''.
+
+2007. gada maijā veiktā aptauja uzrādīja, ka ''Real Betis'' ir sestā atbalstītākā komanda Spānijā (3,3%), aiz: ''Real Madrid'' (32,8%), ''Barcelona'' 25,7%, ''Valencia'' (5,3%), ''Athletic Bilbao'' (5,1%) un ''Atletico Madrid'' (4,3%).<ref>http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/2700_2719/2705/Es2705mar_A.pdf</ref> Kā arī 37. komanda Eiropā pēc vidējā spēļu apmeklējuma (2007.–2008. gada sezonā).<ref name="attendances">{{Tīmekļa atsauce|url=http://en.wikipedia.org/wiki/Average_attendances_of_European_football_clubs|work=topclubs|accessdate=2007-12-09|title=Betis 33.|archiveurl=https://web.archive.org/web/20071214020517/http://en.wikipedia.org/wiki/Average_attendances_of_European_football_clubs|archivedate=2007-12-14}}</ref>
+
+''Real Betis'' bija pirmais [[Andalūzija]]s futbola klubs, kurš piedalījās ''[[La Liga]]'' turnīrā. Seviljas derbijā ilgstoši viņu sāncenši ir ''[[Sevilla FC]]''. Gan [[Spānijas karalis]] [[Huans Karloss I]], gan viņa dēls [[Princis Felipe de Burbons]] ir kluba goda biedri.
+
+== Sastāvs ==
+''Sastāvs uz {{Dat|2022|3|20|A|bez}}.''
+{{Fs start}}
+{{Fs player|name=[[Hoels Robless]]|pos=GK|no=1|nat=ESP}}
+{{Fs player|name=[[Martins Montoja]]|pos=DF|no=2|nat=ESP}}
+{{Fs player|name=[[Edgars Gonsaless]]|pos=DF|no=3|nat=ESP}}
+{{Fs player|name=[[Pols Akuoku]]|pos=MF|no=4|nat=CIV}}
+{{Fs player|name=[[Marks Bartra]]|pos=DF|no=5|nat=ESP}}
+{{Fs player|name=[[Viktors Ruiss]]|pos=DF|no=6|nat=ESP}}
+{{Fs player|name=[[Huanmi]]|pos=FW|no=7|nat=ESP}}
+{{Fs player|name=[[Nebīls Fekīrs]]|pos=FW|no=8|nat=FRA}}
+{{Fs player|name=[[Borha Iglesiass]]|pos=FW|no=9|nat=ESP}}
+{{Fs player|name=[[Serhio Kanaless]]|pos=MF|no=10|nat=ESP}}
+{{Fs player|name=[[Kristians Teljo]]|pos=MF|no=11|nat=ESP}}
+{{Fs player|name=[[Viljans Žuzē]]|pos=FW|no=12|nat=BRA}}
+{{Fs player|name=[[Rui Silva]]|pos=GK|no=13|nat=POR}}
+{{Fs player|name=[[Viljams Karvaļu]]|pos=MF|no=14|nat=POR}}
+{{Fs mid}}
+{{Fs player|name=[[Alekss Moreno]]|pos=DF|no=15|nat=ESP}}
+{{Fs player|name=[[Hermans Pesela]]|pos=DF|no=16|nat=ARG}}
+{{Fs player|name=[[Hoakins]]|pos=MF|no=17|nat=ESP|other=[[Kapteinis (futbols)|Kapteinis]]}}
+{{Fs player|name=[[Andress Gvardado]]|pos=MF|no=18|nat=MEX}}
+{{Fs player|name=[[Ektors Beljerins]]|pos=DF|no=19|nat=ESP|other=īrē no [[Arsenal FC|Arsenal]]}}
+{{Fs player|name=[[Djego Lainess]]|pos=MF|no=20|nat=MEX}}
+{{Fs player|name=[[Gvido Rodrigess]]|pos=MF|no=21|nat=ARG}}
+{{Fs player|name=[[Viktors Kamarasa]]|pos=MF|no=22|nat=ESP}}
+{{Fs player|name=[[Jūsefs Sabalī]]|pos=DF|no=23|nat=SEN}}
+{{Fs player|name=[[Aitors Ruibals]]|pos=FW|no=24|nat=ESP}}
+{{Fs player|name=[[Klaudio Bravo]]|pos=GK|no=25|nat=CHI}}
+{{Fs player|name=[[Rodri (futbolists, dzimis 2000. gadā)|Rodri]]|pos=MF|no=28|nat=ESP}}
+{{Fs player|name=[[Huans Miranda]]|pos=DF|no=33|nat=ESP}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Spānijas futbola čempionāta Pirmā divīzija|Spānijas čempionāta Pirmā divīzija (''La Liga'')]]'''
+** Čempioni  (1): 1934–35
+* '''[[Spānijas Karaļa kauss]]'''
+** Kausa ieguvēji (3): 1976–77, 2004–05, 2021–22
+** Finālisti (2): 1931, 1996–97
+* '''Spānijas Superkauss'''
+** Finālisti (1): 2005
+* '''[[Spānijas Līgas kauss]]'''
+** Finālisti (1): 1985–86
+* '''[[Spānijas futbola čempionāta Otrā divīzija|Otrā divīzija]]'''
+** Čempioni (7): 1931–32, 1941–42, 1957–58, 1970–71, 1973–74, 2010–11, 2014–15
+** Vicečempioni (5): 1955–56, 1966–67, 1989–90, 1993–94, 2000-01
+* '''Trešā divīzija'''
+** Uzvarētāji (1): 1953–54
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commons category|Real Betis}}
+* [http://www.realbetisbalompie.es/ Oficiālā kluba tīmekļa vietne] {{spāniski}} {{en ikona}}
+
+{{futbols-aizmetnis}}
+{{La Liga}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Real Betis}}
+[[Kategorija:Spānijas futbola klubi]]
+[[Kategorija:Real Betis]]
+[[Kategorija:Sports Seviljā]]

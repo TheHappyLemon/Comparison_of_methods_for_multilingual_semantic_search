@@ -1,0 +1,72 @@
+{{BioTakso infokaste
+| attēls =Matricaria chamomilla - teekummel Keilas.jpg
+| valsts =Plantae
+| valsts_lv =Augi
+| nodalījums =Magnoliophyta
+| nodalījums_lv =Segsēkļi
+| klase =Magnoliopsida
+| klase_lv =Divdīgļlapji
+| rinda =Asterales
+| rinda_lv =Asteru rinda
+| dzimta =Asteraceae
+| dzimta_lv =Kurvjziežu dzimta
+| ģints =Matricaria
+| ģints_lv =Kumelītes
+| suga =M. recutita
+| suga_lv =Ārstniecības kumelīte
+| binomial =Matricaria recutita
+| sinonīmi =
+* ''Matricaria chamomilla''
+* ''Chamomilla recutita''
+* ''Chamomilla chamomilla''
+* ''Matricaria suaveolens''
+| kategorijas =nē
+}}
+'''Ārstniecības kumelīte''' (''Matricaria recutita'', ''Matricaria chamomilla'') ir [[kurvjziežu dzimta|kurvjziežu]] jeb asteru dzimtas [[Kumelītes|kumelīšu ģints]] [[augi|augs]], ko plaši izmanto [[ārstniecība|ārstniecībā]] un [[skaistumkopšana|skaistumkopšanā]]. Augs neliels, no 10cm līdz 40cm.
+Tās sinonīmi ir: ''Chamomilla chamomilla'', ''Chamomilla recutita'', ''Matricaria chamomilla'', un ''Matricaria suaveolens''.
+
+Citas kumelīšu ģints sugas:
+* {{TaksoSaite|Matricaria discoidea|Maura kumelīte}}
+* {{TaksoSaite|Matricaria discoidea|Tīruma suņkumelīte}}
+
+<!-- == Sugas apraksts ==
+[[Attēls:Illustration Matricaria chamomilla0.jpg|thumb|left|100px]]
+[..] -->
+
+== Izplatība un biotipi ==
+Ārstniecības kumelīte sastopama viscaur [[Eiropa|Eiropā]] un dažviet [[Āzija|Āzijā]]. Parasti — tuvu [[cilvēks|cilvēku]] iekoptām vietām, ceļmalās, pie [[atkritumu izgāztuve|atkritumu izgāztuvēm]] un apstrādātos laukos kā [[nezāle]]. Arī [[Latvija|Latvijā]] kumelīte ir plaši sastopama.
+
+== Ārstnieciskās īpašības ==
+[[Attēls:Matricaria_recutita_-_Köhler–s_Medizinal-Pflanzen-091.jpg|thumb|left|100px|Kumelītes uzbūve]]
+[[Attēls:Matricaria chamomilla flowers.jpg|left|thumb|207x207px|[[Zieds|Ziedu]] galvas tiek atdalītas no [[Stiebrs|stiebriem]], lai varētu tās žāvēt tējai]]
+Ārstniecības kumelīte tiek izmantota [[medicīna|medicīnā]] kā pretsāpju līdzeklis un kā viegli nomierinošs līdzeklis pret [[bezmiegs|bezmiegu]]. [[Kumelīšu tēja]] būs nomierinoša un nogurumu mazinoša, komprese (piemēram, uz sāpošām [[locītavas|locītavām]] vai pie [[muskulis|muskuļu]] sastiepumiem) — sāpes atvieglojoša.
+
+Sen zināmas kumelītes dezinficējošās un dziedējošās īpašības. No auga gatavotas kompreses palīdzēs pret dažādām [[āda]]s kaitēm — [[brūce|brūcēm]] un [[iekaisums|iekaisumiem]], [[izsitumi]]em un uztūkumiem.
+
+Kumelīti izmanto arī kā dezinficējošu līdzekli [[mute]]s [[gļotāda]]s skalošanai.
+No kumelītes iegūst [[eļļa|eļļu]], kuras galvenā aktīvā sastāvdaļa ir [[bisabolols]] un kurai piemīt pretiekaisuma, pretalerģiska un nomierinoša iedarbība. Kumelītes eļļu plaši izmanto arī aromterapijā.
+
+=== Ārstniecisko preparātu pagatavošana ===
+Visplašāk pazīstama ārstnieciskās kumelītes [[zāļu tēja]]. Tās pagatavošanai iesaka izmantot 2 tējkarotes kumelīšu [[drogas|drogu]] uz krūzi karsta [[ūdens]]. Pie hroniskām [[vēdersāpes|vēdersāpēm]] šādu tēju iesaka dzert katru rītu tukšā dūšā 2—3 mēnešus.
+
+No kumelītes var gatavot novārījumus un kompreses, un [[rūpnieciskā ražošana|rūpnieciski]] — arī eļļu.
+
+== Izmantošana skaistumkopšanā ==
+Kumelīte mīkstina un nomierina ādu, tādēļ no tās gatavotus [[kosmētiskie līdzekļi|kosmētiskos līdzekļus]] izmanto raupjas un sakairinātas ādas kopšanā. [[Pusaudzis|Pusaudžiem]] ar problemātisku sejas ādu iesaka to mazgāt ar atdzesētu kumelīšu novārījumu, jo kumelīte arī attīra ādu un mazina izsitumus.
+
+Kumelīšu novārījumu izmanto arī blondu [[mati|matu]] skalošanai.
+
+Savukārt no atdzesētas kumelītes tējas vai novārījuma pagatavotas kompreses palīdzēs atpūsties nogurušām [[acis|acīm]] un mazinās pietūkumu ap tām. Tējas kompresei var izmantot arī [[tējas maisiņš|tējas maisiņu]].
+[[Attēls:Matricaria recutita W.jpg|thumb|right|300px|Kumelītes zieds šķērsgriezumā]]
+
+== Ārējās saites ==
+{{Commons|Matricaria recutita}}
+* [http://www.latvijasdaba.lv/ Sugu enciklopēdija '“Latvijas daba'”]
+* [http://latvijas.daba.lv/ '“Latvijas dabas'” kopskats]
+* [http://www.camomile.com/ www.camomile.com — kumelītei veltīta interneta lapa angļu valodā]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Asteru apakšdzimta]]
+[[Kategorija:Ārstniecības augi]]
+[[Kategorija:Latvijas flora]]

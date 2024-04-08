@@ -1,0 +1,213 @@
+{{Futbola kluba infokaste
+ | text_color = #FFFFFF
+ | bg_color   = #FF0000
+ | nos     = ''SL Benfica''
+ | logo    = [[Attēls:SL Benfica logo.svg|180px|Logo]]
+ | pilns   = ''Sport Lisboa e Benfica''
+ | iesauka = ''Águias (ērgļi)<br />Encarnados (sarkanie)<br />O Glorioso (The Glorious One)''
+ | pilsēta = {{Vieta|Portugāle|Lisabona}}
+ | dib     = 1904
+ | dib_mēn = 2
+ | dib_dat = 28
+ | stad    = ''[[Estádio da Luz]]''
+ | ietilp  = 65 647
+ | prez    = {{flaga|Portugāle}} [[Rui Košta (futbolists)|Rui Košta]]
+ | tren    = {{flaga|GER}} [[Rodžers Šmits]] 
+ | kapteinis = {{flaga|ARG}} [[Nikolass Otamendi]]
+ | līga    = ''[[Primeira Liga]]''
+ | sez     = 2022.—2023.
+ | poz     = 1. vieta (Čempioni)
+|pattern_la1 = _benfica1920h
+|pattern_b1  = _benfica1920home
+|pattern_ra1 = _benfica1920h
+|pattern_sh1 = _adidasred
+|pattern_so1 = _3_stripes_white
+|leftarm1    = FF0000
+|body1       = FF0000
+|rightarm1   = FF0000
+|shorts1     = FFFFFF
+|socks1      = FF0000
+|pattern_la2 = _benfica1920a
+|pattern_b2  = _benfica1920away
+|pattern_ra2 = _benfica1920a
+|pattern_sh2 = _adidasred
+|pattern_so2 = _3_stripes_red
+|leftarm2    = 333333
+|body2       = 333333
+|rightarm2   = 333333
+|shorts2     = 000000
+|socks2      = 000000
+}}
+'''''Sport Lisboa e Benfica''''' ({{izrunā|spɔɾ liʒˈboɐ i bɐ̃ȷ̃ˈfikɐ}}) ir [[Portugāle]]s sporta klubs no [[Lisabona]]s. Klubs dibināts {{dat|1904|2|28}} ar nosaukumu ''Grupo Sport Lisboa''. Visplašāk ir zināma tā [[futbols|futbola]] komanda, lai gan arī citos sporta veidos, īpaši Portugālē, ir ievērojami panākumi. Komanda spēlē Portugāles futbola čempionāta augstākajā līmenī ''[[Primeira Liga]]'' un savas mājas spēles aizvada ''[[Estádio da Luz]]'' stadionā, kur ir 65&nbsp;647 skatītāju vietas.<ref>{{Tīmekļa atsauce |url=http://www.worldstadiums.com/europe/countries/portugal.shtml |title=Stadiums in Portugal |accessdate={{dat|2016|1|25||bez}} |publisher=worldstadiums.com |archiveurl=https://www.webcitation.org/68D6nz7WQ?url=http://www.worldstadiums.com/europe/countries/portugal.shtml |archivedate={{dat|2012|06|06||bez}} }}</ref> ''SL Benfica'' futbolisti 38 reizes ir kļuvuši par Portugāles čempioniem, kā arī 26 reizes izcīnījuši Portugāles kausu. Klubam ir labi panākumi arī Eiropas klubu turnīros. Komanda divas reizes ir uzvarējusi [[UEFA Čempionu līga|Eiropas Čempionvienību kausā]] (tagad UEFA Čempionu līga), kā arī trīs reizes spēlējusi [[UEFA Eiropas līga]]s finālā.<ref>{{Tīmekļa atsauce |url=http://www.slbenfica.pt/futebol/palmares.aspx |title=Palmarés de Futebol |accessdate={{dat|2016|1|25||bez}} |publisher=SL Benfica |archive-date={{dat|2016|01|18||bez}} |archive-url=https://web.archive.org/web/20160118234000/http://www.slbenfica.pt/futebol/palmares.aspx }}</ref>
+
+== Sezonas ==
+
+{|class="wikitable"
+! Sezona
+! Līmenis
+! Līga
+! Vieta
+! Atsauce
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2010.–2011.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#BBBBBB" style="text-align:center;"| '''2.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2011.html|title=Portugal 2010/11|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2011.–2012.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#BBBBBB" style="text-align:center;"| '''2.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2012.html|title=Portugal 2011/12|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2012.–2013.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#BBBBBB" style="text-align:center;"| '''2.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2013.html|title=Portugal 2012/13|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2013.–2014.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2014.html|title=Portugal 2013/14|website=www.rsssf.com}}</ref>
+|- 
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2014.–2015.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2015.html|title=Portugal 2014/15|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2015.–2016.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2016.html|title=Portugal 2015/16|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2016.–2017.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2017.html|title=Portugal 2016/17|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2017.–2018.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#BBBBBB" style="text-align:center;"| '''2.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2018.html|title=Portugal 2017/18|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2018.–2019.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2019.html|title=Portugal 2018/19|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2019.–2020.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#BBBBBB" style="text-align:center;"| '''2.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2020.html|title=Portugal 2019/20|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2020.–2021.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#DEB678" style="text-align:center;"| '''3.'''
+|  <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2021.html|title=Portugal 2020/21|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2021.–2022.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#DEB678" style="text-align:center;"| '''3.'''
+| <ref>{{Cite web|url=http://www.rsssf.com/tablesp/port2022.html|title=Portugal 2021/22|website=www.rsssf.com}}</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2022.–2023.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| '''1.'''
+| <ref>https://sportacentrs.com/futbols/citas_ligas/27052023-portugales_tituletakais_klubs_benfica_atg</ref>
+|-
+| bgcolor="#f5f5f5" style="text-align:center;"| '''2023.–2024.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''1.'''
+| bgcolor="#ddffdd" style="text-align:center;"| '''Primeira Liga'''
+| bgcolor="#FFFF00" style="text-align:center;"| 
+|
+|}
+
+== Komandas sastāvs ==
+''{{Dat|2023|05|28||bez}}''
+{{Fs start}}
+{{Fs player|no=2|pos=DF|nat=BRA|name=[[Džilberto]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Aleks Grimaldo]]}}
+{{Fs player|no=4|pos=DF|nat=BRA|name=[[Lukass Verisimo]]}}
+{{Fs player|no=6|pos=DF|nat=DEN|name=[[Aleksandrs Bahs]]}}
+{{Fs player|no=7|pos=MF|nat=BRA|name=[[Dāvids Nerešs]]}}
+{{Fs player|no=8|pos=MF|nat=NOR|name=[[Fredriks Aursnes]]}}
+{{Fs player|no=11|pos=FW|nat=ARG|name=[[Anhels Di Marija]]}}
+{{Fs player|no=15|pos=MF|nat=POR|name=[[Gonsalu Gedešs]]|other=īrē no [[Vulverhemptonas "Wanderers"]]}}
+{{Fs player|no=19|pos=FW|nat=DEN|name=[[Kaspers Tengsteds]]}}
+{{Fs player|no=20|pos=MF|nat=POR|name=[[Žuau Mariu]]}}
+{{Fs player|no=21|pos=MF|nat=NOR|name=[[Andreas Šelderups]]}}
+{{Fs player|no=22|pos=MF|nat=POR|name=[[Čikinju]]}}
+{{Fs player|no=23|pos=DF|nat=SRB|name=[[Mihailo Rističs]]}}
+{{Fs mid}}
+{{Fs player|no=24|pos=GK|nat=POR|name=[[Semjuels Suarešs]]}}
+{{Fs player|no=27|pos=MF|nat=POR|name=[[Rafa Silva]]}}
+{{Fs player|no=30|pos=DF|nat=ARG|name=[[Nikolass Otamendi]]|other=[[Kapteinis (futbols)|Kapteinis]]}}
+{{Fs player|no=33|pos=FW|nat=CRO|name=[[Petars Musa]]}}
+{{Fs player|no=61|pos=MF|nat=POR|name=[[Florentino]]}}
+{{Fs player|no=66|pos=DF|nat=POR|name=[[Antonio Silva]]}}
+{{Fs player|no=73|pos=MF|nat=ITA|name=[[Čers Ndūrs]]}}
+{{Fs player|no=75|pos=GK|nat=POR|name=[[Andrē Gomešs (2004)|Andrē Gomešs]]}}
+{{Fs player|no=87|pos=MF|nat=POR|name=[[Žuoa Nevešs]]}}
+{{Fs player|no=88|pos=FW|nat=POR|name=[[Gonsalu Ramošš]]}}
+{{Fs player|no=91|pos=DF|nat=BRA|name=[[Morato]]}}
+{{Fs player|no=93|pos=MF|nat=GER|name=[[Jūliāns Drakslers]]|other=īrē no [[Parīzes "Saint-Germain"]]}}
+{{Fs player|no=96|pos=MF|nat=POR|name=[[Djego Moreira]]}}
+{{Fs player|no=99|pos=GK|nat=GRE|name=[[Odiseos Vlahodimos]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''''[[Primeira Liga]]'''''<ref name="champions">{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/portchamp.html |title=Portugal - List of Champions |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Čempioni (38): 1935–36, 1936–37, 1937–38, 1941–42, 1942–43, 1944–45, 1949–50, 1954–55, 1956–57, 1959–60, 1960–61, 1962–63, 1963–64, 1964–65, 1966–67, 1967–68, 1968–69, 1970–71, 1971–72, 1972–73, 1974–75, 1975–76, 1976–77, 1980–81, 1982–83, 1983–84, 1986–87, 1988–89, 1990–91, 1993–94, 2004–05, 2009–10, 2013–14, 2014–15, 2015–16, 2016-17, 2018–19, 2022-23
+** Vicečempioni (29): 1943–44, 1945–46, 1946–47, 1947–48, 1948–49, 1951–52, 1952–53, 1955–56, 1958–59, 1965–66, 1969–70, 1973–74, 1977–78, 1978–79, 1981–82, 1985–86, 1987–88, 1989–90, 1991–92, 1992–93, 1995–96, 1997–98, 2002–03, 2003–04, 2010–11, 2011–12, 2012–13, 2017–18, 2019–20
+* '''Portugāles kauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/portcuphist.html |title=Portugal - List of Cup Winners |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (26): 1939–40, 1942–43, 1943–44, 1948–49, 1950–51, 1951–52, 1952–53, 1954–55, 1956–57, 1958–59, 1961–62, 1963–64, 1968–69, 1969–70, 1971–72, 1979–80, 1980–81, 1982–83, 1984–85, 1985–86, 1986–87, 1992–93, 1995–96, 2003–04, 2013–14, 2016–17
+** Finālisti (12): 1938–39, 1957–58, 1964–65, 1970–71, 1973–74, 1974–75, 1988–89, 1996–97, 2004–05, 2012–13, 2019-20, 2020-21
+* '''Portugāles Līgas kauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/portleagcuphist.html |title=Portugal - List of League Cup Finals |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (7): 2008–09, 2009–10, 2010–11, 2011–12, 2013–14, 2014–15, 2015–16
+* '''Portugāles superkauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/portsupcuphist.html |title=Portugal - List of Super Cup Winners |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (9): 1980, 1985, 1989, 2005, 2014, 2016, 2017, 2019, 2023<ref>https://sportacentrs.com/futbols/citas_ligas/10082023-di_marijam_uzvaras_varti_portugales_super</ref>
+** Finālisti (13): 1981, 1983, 1984, 1986, 1987, 1991, 1993, 1994, 1996, 2004, 2010, 2015, 2020
+* '''Portugāles čempionāts (1921–1938)'''<ref name="champions" />
+** Čempioni (3): 1929–30, 1930–31, 1934–35
+** Vicečempioni (1): 1937–38
+* '''[[UEFA Čempionu līga|Eiropas čempionvienību kauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefachampionsleague/history/champions/index.html |title=European Cup roll of honour |accessdate={{dat|2016|1|25||bez}} |publisher=UEFA.com }}</ref>
+** Kausa ieguvēji (2): 1960–61, 1961–62
+** Finālisti (5): 1962–63, 1964–65, 1967–68, 1987–88, 1989–90
+* '''[[UEFA Eiropas līga|UEFA kauss / UEFA Eiropas līga]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablese/ec3b.html |title=UEFA Cup |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Finālisti (3): 1982–83, 2012–13, 2013–14
+* '''[[Starpkontinentālais kauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablest/toyota.html |title=Intercontinental Club Cup |accessdate={{dat|2016|1|25||bez}} |publisher=[[RSSSF]] }}</ref>
+** Finālisti (2): 1961, 1962
+
+== Atsauces ==
+{{atsauces|3}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{sporta ārējās saites}}
+* [http://www.slbenfica.pt/ Kluba oficiālā vietne] {{pt ikona}} {{en ikona}} {{es ikona}}
+* [https://www.facebook.com/SLBenfica/ Facebook]
+* [https://int.soccerway.com/teams/portugal/benfica/1679/ Soccerway]
+* [http://foot.dk/VisPorklub.asp?ID=13 foot.dk] {{Webarchive|url=https://web.archive.org/web/20220516131948/http://foot.dk/VisPorklub.asp?ID=13 |date={{dat|2022|05|16||bez}} }} 
+* [https://www.zerozero.pt/team.php?id=4 zerozero.pt]
+
+
+{{futbols-aizmetnis}}
+
+{{PORfutč}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Portugāles futbola klubi]]
+[[Kategorija:Lisabonas "Benfica"]]

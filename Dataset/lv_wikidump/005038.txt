@@ -1,0 +1,133 @@
+{{Navbox with columns
+|name = NHL
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+|title = {{flaga|ASV}} [[Nacionālā hokeja līga]] {{flaga|Kanāda}}
+<!-- |above      =  <big>'''[[2011.—2012. gada NHL sezona|Pašreizējā sezona]]'''</big> -->
+|fullwidth = yes
+|col1headerstyle = background:#D0E7FF;
+|col2headerstyle = background:#FFCCCC;
+|col1header = [[Rietumu konference (NHL)|Rietumu konference]]
+|col1headercolspan = 2
+|col2header = [[Austrumu konference (NHL)|Austrumu konference]]
+|col2headercolspan = 2
+|col1 = {{Navbox|child
+|state = plain
+|titlestyle = background:#D0E7FF;
+|liststyle = background:#D0E7FF;text-align:center;
+|title = [[Klusā okeāna divīzija (NHL)|Klusā okeāna]]
+|list1 = [[Anahaimas "Ducks"]]
+|list2 = [[Kalgari "Flames"]]
+|list3 = [[Edmontonas "Oilers"]]
+|list4 = [[Losandželosas "Kings"]]
+|list5 = [[Sanhosē "Sharks"]]
+|list6 = [[Sietlas "Kraken"]]
+|list7 = [[Vankūveras "Canucks"]]
+|list8 = [[Vegasas "Golden Knights"]]
+}}
+|col2 = {{Navbox|child
+|state = plain
+|titlestyle = background:#D0E7FF;
+|liststyle = background:#D0E7FF;text-align:center;
+|title = Centrālā
+|list1 = [[Arizonas "Coyotes"]]
+|list2 = [[Čikāgas "Blackhawks"]]
+|list3 = [[Kolorādo "Avalanche"]]
+|list4 = [[Dalasas "Stars"]]
+|list5 = [[Minesotas "Wild"]]
+|list6 = [[Našvilas "Predators"]]
+|list7 = [[Sentluisas "Blues"]]
+|list8 = [[Vinipegas "Jets"]]
+}}
+|col3 = {{Navbox|child
+|state = plain
+|titlestyle = background:#FFCCCC;
+|liststyle = background:#FFCCCC;text-align:center;
+|title = Atlantijas okeāna
+|list1 = [[Bostonas "Bruins"]]
+|list2 = [[Bufalo "Sabres"]]
+|list3 = [[Detroitas "Red Wings"]]
+|list4 = [[Floridas "Panthers"]]
+|list5 = [[Monreālas "Canadiens"]]
+|list6 = [[Otavas "Senators"]]
+|list7 = [[Tampabejas "Lightning"]]
+|list8 = [[Toronto "Maple Leafs"]]
+}}
+|col4 = {{Navbox|child
+|state = plain
+|titlestyle = background:#FFCCCC;
+|liststyle = background:#FFCCCC;text-align:center;
+|title = Metropolitēna
+|list1 = [[Karolīnas "Hurricanes"]]
+|list2 = [[Kolumbusas "Blue Jackets"]]
+|list3 = [[Ņūdžersijas "Devils"]]
+|list4 = [[Ņujorkas "Islanders"]]
+|list5 = [[Ņujorkas "Rangers"]]
+|list6 = [[Filadelfijas "Flyers"]]
+|list7 = [[Pitsburgas "Penguins"]]
+|list8 = [[Vašingtonas "Capitals"]]
+}}
+
+|list1style = background:#eee;
+|list1 = 
+* '''Balvas un kausi:''' [[Stenlija kauss]]
+* [[Harta balva]]
+* [[Kona Smita balva]]
+* [[Džeimsa Norisa balva]]
+* [[Arta Rosa balva]]
+* [[Morisa Rišāra balva]]
+* [[Vezinas balva]]
+* [[Kaldera balva]]
+* [[Viljama Dženingsa balva]]
+* [[Kinga Klensija balva]]
+* [[Lēdijas Bingas balva]]
+* [[Bila Mastertona balva]]
+* [[Teda Lindsija balva]]
+* [[Frenka Selkes balva]]
+* [[Marka Mesjē balva]]
+* [[Džeka Adamsa balva]]
+* [[NHL simboliskā izlase|Simboliskā izlase]]
+
+|list2style = background:#eee;
+|list2 = 
+* '''Bijušās komandas:''' [[Atlantas "Flames"]]
+* [[Atlantas "Thrashers"]]
+* [[Filadelfijas "Quakers"]]
+* [[Kalifornijas "Golden Seals"]]
+* [[Kanzasas "Scouts"]]
+* [[Klīvlendas "Barons"]]
+* [[Kolorādo "Rockies"]]
+* [[Kvebekas "Bulldogs"]]
+* [[Kvebekas "Nordiques"]]
+* [[Hamiltonas "Tigers"]]
+* [[Hartfordas "Whalers"]]
+* [[Minesotas "North Stars"]]
+* [[Monreālas "Maroons"]]
+* [[Monreālas "Wanderers"]]
+* [[Ņujorkas "Americans"]]
+* [[Otavas "Senators" (sākotnējie)|Otavas "Senators"]]
+* [[Pitsburgas "Pirates"]]
+* [[Sentluisas "Eagles"]]
+* [[Toronto "St. Pats"]]
+* [[Vinipegas "Jets" (agrākie)|Vinipegas "Jets"]]
+
+|list3style = background:#eee;
+|list3 = 
+* '''Saistītie raksti:''' [[1994.—1995. gada NHL lokauts|1994.—1995. gada lokauts]]
+* [[2004.—2005. gada NHL lokauts|2004.—2005. gada lokauts]]
+* [[2012.—2013. gada NHL lokauts|2012.—2013. gada lokauts]]
+* [[Amerikas hokeja līga]]
+* [[Nacionālās hokeja līgas drafts|Drafts]]
+* [[Nacionālās hokeja līgas Visu zvaigžņu spēle|Visu zvaigžņu spēle]]
+* [[NHL Ziemas klasika|Ziemas klasika]]
+
+|belowstyle = background:#eee;
+|below = 
+* '''[[:Kategorija:Nacionālā hokeja līga|Kategorija]]'''
+* '''[[Portāls:Hokejs|Portāls]]'''
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Hokeja veidnes]]
+[[Kategorija:Nacionālā hokeja līga|*]]
+</noinclude>

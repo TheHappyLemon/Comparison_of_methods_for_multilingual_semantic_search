@@ -1,0 +1,24 @@
+[[Attēls:Kochendes wasser02.jpg|thumb|[[Ūdens]] vārīšanās]]
+'''Viršana''' jeb '''vārīšanās''' ir process, kurā [[viela]] no [[šķidrums|šķidrās]] fāzes pāriet [[gāze|gāzveida]] fāzē. [[Viršanas temperatūra]] ir stipri atkarīga no [[spiediens|spiediena]] tāpēc, ka [[Tvaiks|tvaiku]] [[tilpums]] parasti ir ievērojami lielāks par iztvaicētā šķidruma [[tilpums|tilpumu]]. Konstantā spiedienā tīras vielas viršanas temperatūra ir konstanta. Viršanas temperatūrā vielas tvaiku spiediens kļūst vienāds ar apkārtējās [[atmosfēra]]s spiedienu. Tāpat kā citu fāžu pāreju apstākļos nemainīgā spiedienā, viršanas procesa laikā saglabājas konstanta temperatūra. Tīru šķidrumu dažreiz ir iespējams pārkarsēt virs vārīšanās temperatūras, tāds šķidrums ir metastabils un ārēju iedarbību ietekmē var sākt vārīties ļoti strauji. Šķidruma pāreja gāzveida fāzē notiek arī temperatūrās, kas ir zemākas par viršanas temperatūru, tikai iztvaikošana notiek no atklātas virsmas (neveidojas tvaika burbuļi šķidruma iekšienē).
+
+Viršanai pretēja norise ir [[kondensēšanās]], kas ir gāzes pāreja šķidrajā fāzē. Kondensēšanās [[Entalpija|siltumefekts]] ir tāds pats, kā viršanas siltumefekts, tikai ar pretēju zīmi.
+
+== Skatīt arī ==
+* [[Iztvaikošana]]
+* [[Kušana]]
+* [[Sublimācija (fizika)|Sublimēšanās]]
+* [[Fāzu stāvokļa diagramma]]
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Termodinamika]]
+[[Kategorija:Materiālzinātne]]
+[[Kategorija:Fāžu pārejas]]

@@ -1,0 +1,168 @@
+{{Hokeja komanda
+| text_color  = white
+| bg_color    = blue
+| team        = DHK Latgale
+| logo        = Dhk logo.jpg
+| logosize    = 100px
+| city        = {{flaga|Latvija}} [[Daugavpils]], [[Latvija]]
+| league      = [[Latvijas hokeja līga]]<br />[[Baltkrievijas hokeja līga]]
+| conference  = 
+| division    = 
+| founded     = 2003
+| dissolved   = 2012
+| arena       = [[Daugavpils ledus halle]]
+| colors      = 
+| owner       = {{flaga|Latvija}} [[Leonards Tenis]]
+| coach       = 
+| coach2      =
+| GM          = 
+| media       = 
+| affiliates  = 
+<!---Čempionāti--->
+| LHL         = 0
+}}
+
+'''DHK Latgale''' bija [[Latvijas čempionāts hokejā|Latvijas čempionāta]] komanda no [[Daugavpils]]. Komanda spēlēja [[Latvijas čempionāts hokejā|Latvijas čempionātā]], kā arī vienu sezonu aizvadīja [[Baltkrievijas Ekstralīga|Baltkrievijas Ekstralīgā]]. Komandas augstākais sasniegums ir Latvijas čempionātā divas reizes izcīnītās bronzas medaļas. 2012. gada vasarā komanda beidza pastāvēt.
+
+== Izcīnītās vietas ==
+=== Latvijas čempionāts hokejā ===
+{| class="wikitable"
+|- bgcolor="#dddddd"
+!Sezona !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|U|Uzvaras}} !! {{Piezīme|Up|Uzvaras pagarinājumā}} !! {{Piezīme|Zp|Zaudējumi pagarinājumā}} !! {{Piezīme|Z|Zaudējumi}} !! {{Piezīme|V+|Iemestie vārti}} !! {{Piezīme|V-|Ielaistie vārti}} !! Punkti !! Regulārā sezona !! Izslēgšanas spēles !! Kapteinis !! Rezultatīvākais spēlētājs !! Labākais vārtu guvējs
+|- align="center"
+|'''[[2005.—2006. gada Latvijas hokeja Virslīgas čempionāts|05.—06.]]'''||30||13||2||4||11||127||75||47||3. vieta||izcīna bronzas medaļas||{{flaga|Lietuva}} [[Sauļus Limonts]]||{{flaga|Latvija}} [[Vladislavs Vodolažskis]]||{{flaga|Latvija}} [[Andrejs Savičevs]]
+|- align="center"
+|'''[[Latvijas hokeja līga 2006-07|06.—07.]]'''||40||13||2||3||22||127||132||46||5. vieta||zaudējums ceturtdaļfinālā, 1—2 ([[SK Rīga 20]])||{{flaga|Lietuva}} [[Sauļus Limonts]]||{{flaga|Lietuva}} [[Egidijs Bauba]]||{{flaga|Lietuva}} [[Sauļus Limonts]]
+|- align="center"
+|'''[[Latvijas hokeja līga 2007-08|07.—08.]]'''||42||15||1||5||21||134||147||52||5. vieta||zaudējums pusfinālā, 0—3 ([[HK Liepājas Metalurgs]])||{{flaga|Lietuva}} [[Sauļus Limonts]]||{{flaga|Lietuva}} [[Egidijs Bauba]]||{{flaga|Latvija}} [[Toms Zeltiņš]]
+|- align="center"
+|'''[[2008.—2009. gada LHL sezona|08.—09.]]'''||colspan=9 align=center style=color:#ccc|''Regulārajā sezonā nespēlēja''||zaudējums pusfinālā, 2—3 ([[HK Liepājas Metalurgs]])|| ||colspan=2 style=color:#ccc|''Nespēlēja''
+|- align="center"
+|'''[[2009.—2010. gada LHL sezona|09.—10.]]'''||30||15||3||1||11||126||86||52||3. vieta||zaudējums pusfinālā, 1—3 ([[HK Liepājas Metalurgs-2]])|| ||{{flaga|Lietuva}} [[Egidijs Bauba]]||{{flaga|Lietuva}} [[Egidijs Bauba]]
+|- align="center"
+|'''[[2010.—2011. gada Latvijas hokeja Virslīgas čempionāts|10.—11.]]'''||32||21||1||2||8||161||76||67||3. vieta||zaudējums pusfinālā, 1—3 ([[HK Liepājas Metalurgs-2]])||{{flaga|Lietuva}} [[Egidijs Bauba|E.Bauba]], {{flaga|Latvija}} [[Vladislavs Balakuns|V.Balakuns]]||{{flaga|Latvija}} [[Eduards Bullītis]]||{{flaga|Latvija}} [[Eduards Bullītis]]
+|- align="center"
+|'''[[2011.—2012. gada Latvijas hokeja Virslīgas čempionāts|11.—12.]]'''||36||9||1||0||26||110||176||29||9. vieta||''neiekļuva''|| ||{{flaga|Latvija}} [[Sandis Virkstenis]]||{{flaga|Latvija}} [[Sandis Virkstenis]]
+|}
+
+=== Baltkrievijas Ekstralīga ===
+{| class="wikitable"
+|- bgcolor="#dddddd"
+!Sezona !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|U|Uzvaras}} !! {{Piezīme|Up|Uzvaras pagarinājumā}} !! {{Piezīme|Zp|Zaudējumi pagarinājumā}} !! {{Piezīme|Z|Zaudējumi}} !! {{Piezīme|V+|Iemestie vārti}} !! {{Piezīme|V-|Ielaistie vārti}} !! Punkti !! Regulārā sezona !! Izslēgšanas spēles !! Kapteinis !! Rezultatīvākais spēlētājs !! Labākais vārtu guvējs
+|- align="center"
+|'''[[Baltkrievijas Ekstralīga 2008-09|08.—09.]]'''||52||8||2||6||36||109||201||34||13. vieta||''neiekļuva''|| ||{{flaga|Slovākija}} [[Lukāšs Pēks]]||{{flaga|Slovākija}} [[Lukāšs Pēks]]
+|}
+
+=== Latvijas kauss ===
+* 2007 — pusfināls
+* 2008 — 3. vieta
+
+== Līderi ==
+=== Komandas visu laiku rezultatīvākie spēlētāji ===
+<table>
+<tr>
+<td  style="font-weight:bold; background:#ddd; text-align:center;">Punkti</td>
+<td  style="font-weight:bold; background:#ddd; text-align=center; text-align:center;">Vārti</td>
+<td  style="font-weight:bold; background:#ddd; text-align=center; text-align:center;">Rezultatīvas piespēles</td>
+</tr>
+<tr><td>
+{| class="wikitable"
+|- align="center" style="font-weight:bold; background-color:#dddddd;" |
+| align="left" | Spēlētājs || {{Piezīme|Poz|Pozīcija}} || {{Piezīme|Sp|Spēles}} || {{Piezīme|V|Vārti}} || {{Piezīme|RP|Rezultatīvas piespēles}} || {{Piezīme|P-ti|Punkti}}
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Egidijs Bauba]] || U || 179 || 72 || 120 || '''192'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Deniss Martjušovs]] || U || 197 || 46 || 100 || '''146'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Eduards Bullītis]] || U || 71 || 38 || 74 || '''112'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Sauļus Limonts]] || U || 74 || 52 || 57 || '''107'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vladislavs Vodolažskis]] || U || 126 || 39 || 61 || '''100'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Maksims Petruks]] || U || 144 || 30 || 54 || '''84'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vadims Vabiščevičs]] || U || 132 || 40 || 39 || '''79'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Sandis Virkstenis]] || U || 72 || 33 || 43 || '''76'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Dāvids Kuļevičs]] || U || 34 || 20 || 45 || '''65'''
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Andrejs Maslovskis]] || U || 87 || 30 || 29 || '''59'''
+|}
+</td>
+<td>
+{| class="wikitable"
+|- align="center" style="font-weight:bold; background-color:#dddddd;" |
+| align="left" | Spēlētājs || {{Piezīme|Poz|Pozīcija}} || {{Piezīme|V|Vārti}}
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Egidijs Bauba]] || U || 72
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Sauļus Limonts]] || U || 52
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Deniss Martjušovs]] || U || 46
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vadims Vabiščevičs]] || U || 40
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vladislavs Vodolažskis]] || U || 39
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Eduards Bullītis]] || U || 38
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Sandis Virkstenis]] || U || 33
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Maksims Petruks]] || U || 30
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Andrejs Maslovskis]] || U || 30
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Toms Zeltiņš]] || U || 27
+|}
+</td>
+<td>
+{| class="wikitable"
+|- align="center" style="font-weight:bold; background-color:#dddddd;" |
+| align="left" | Spēlētājs || {{Piezīme|Poz|Pozīcija}} || {{Piezīme|RP|Rezultatīvas piespēles}}
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Egidijs Bauba]] || U || 120
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Deniss Martjušovs]] || U || 100
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Eduards Bullītis]] || U || 74
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vladislavs Vodolažskis]] || U || 61
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Sauļus Limonts]] || U || 57
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Maksims Petruks]] || U || 54
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Lietuva}} [[Dāvids Kuļevičs]] || U || 45
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Sandis Virkstenis]] || U || 43
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Vadims Vabiščevičs]] || U || 39
+|- style="text-align:center;"
+| style="text-align:left;"| {{flaga|Latvija}} [[Aleksandrs Kerčs]] || U || 37
+|}
+</td>
+</tr>
+</table>
+
+=== Kluba spēlētāju rekordi Latvijas čempionātā ===
+==== Regulārā sezona ====
+* Visvairāk gūto vārtu sezonā: [[Egidijs Bauba]], 29 (2009.—10.)
+* Visvairāk rezultatīvo piespēļu sezonā: [[Deniss Martjušovs]], 38 (2011.—12.)
+* Visvairāk gūto punktu sezonā: [[Egidijs Bauba]], 58 (2009.—10.)
+* Visvairāk soda minūšu sezonā: [[Martins Dudašs]], 128 (2007.—08.)
+* Visvairāk gūto punktu sezonā, starp aizsargiem: [[Edgars Apelis]], 41 (2010.—11.)
+<!-- iziet cauri vēlreiz brīdī, kad publiski statistika pieejama pilna -->
+
+=== Komandas treneri ===
+* [[Guntis Bāliņš]] (2005—2006)
+* [[Henrijs Hambergs]] (2006)
+* [[Igors Smirnovs]] (2006—2009)
+* [[Igors Gurovs]] (2009—2010)
+* [[Jurijs Agureikins]] (2010—2012)
+
+== Ārējās saites ==
+* [http://www.hockeylatgale.lv/ Komandas oficiālā mājaslapa] {{Webarchive|url=https://web.archive.org/web/20070416222800/http://www.hockeylatgale.lv/ |date={{dat|2007|04|16||bez}} }}
+
+[[Kategorija:Bijušie Latvijas hokeja klubi]]

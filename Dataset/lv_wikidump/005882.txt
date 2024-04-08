@@ -1,0 +1,206 @@
+{{Sporta izlases infokaste
+ | valsts         = Lietuva
+ | valsts_angl    = Lithuania
+ | att_izm        = 
+ | logo           =
+ | logo_izm       = 
+ | dibin          = 
+ | federācija     = [[Lietuvas Hokeja Federācija]]
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 23.
+|-
+ | rangs max      = 23.
+ | rangs max date = 2022
+ | rangs min      = 27. 
+ | rangs min date = pirmoreiz 2003.
+ | iesauka        = 
+ | stadions       = 
+ | arēna          = 
+<!---Personāls---> 
+ | laukums        =
+ | halle          =
+<!--- Personāls --->
+ | treneris       = {{flaga|Kanāda}} [[Rons Pasko]]
+ | kapteinis      = [[Nerijus Ališausks]]
+ | visv spēles    = [[Mindaugas Kieras]] (100)
+ | visv vārtu     = 
+ | visv punktu    = [[Egidijs Bauba]] (94)
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 19
+ | PČ medaļas     = 0
+ | PČ lab sasn    = 12. vieta
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{ih|LAT}} 3—0 {{ih-rt|LTU}}<br />([[Rīga]], [[Latvija]]; {{dat|1932|2|27|N}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih-rt|LTU}} 20—0 {{ih|LUX}}<br />([[Novisada]], [[Dienvidslāvija]]; {{dat|2002|3|25|N}})
+ | liel zaud      = {{ih|LAT}} 27—0 {{ih-rt|LTU}}<br />([[Rīga]], [[Latvija]]; {{dat|1996|8|27|N}})
+ | pašreizējais   = 
+}}
+'''Lietuvas hokeja izlase''' ir komanda, kas pārstāv [[Lietuva|Lietuvu]] starptautiskajās [[hokejs|hokeja]] spēlēs. Šobrīd tā atrodas 23. vietā [[IIHF|Starptautiskās hokeja federācijas]] rangā.<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2021 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2021|5|22||bez}}}}</ref> 2023. gadā tā bija iedalīta [[IIHF]] Pasaules čempionāta IA divīzijā.
+
+== 2008. gada izlases sastāvs ==
+{| class="wikitable"
+|-
+! Poz.
+! Nr.
+! Spēlētājs
+! 
+! Klubs
+|-
+| [[Aizsargs (hokejā)|A]]
+| 25
+| [[Rolands Aļukonis]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 9
+| [[Egidijus Bauba]]
+| {{flagicon|Latvia}}
+| [[DHK Latgale]]
+|-
+| [[uzbrucējs (hokejā)|U]]
+| 10
+| [[Dmitrijs Bernatavičs]]
+| {{flagicon|Russia}}
+| [[Sputnik Nizhny Tagil]]
+|-
+| [[Vārtsargs (hokejā)|V]]
+| 30
+| [[Nerijs Dauksevičs]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 12
+| [[Sergejs Ivanuškins]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 6
+| [[Arturs Katulis]]
+| {{flagicon|Finland}}
+| [[SaiPa Lappeenranta]]
+|-
+| [[Aizsargs (hokejā)|A]]
+| 3
+| [[Mindaugs Kiers]]
+| {{flagicon|Latvia}}
+| [[DHK Latgale]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 22
+| [[Dāvids Kuļevičs]]
+| {{flagicon|Latvia}}
+| [[DHK Latgale]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 23
+| [[Šarūns Kuliešs]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 18
+| [[Donāts Kumeļausks]]
+| {{flagicon|Latvia}}
+| [[DHK Latgale]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 17
+| [[Tads Kumeļausks]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Vārtsargs (hokejā)|V]]
+| 1
+| [[Arturs Kuzmičs]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 24
+| [[Darjus Lelēns]]
+| {{flagicon|Latvia}}
+| [[HK Liepājas Metalurgs]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 11
+| [[Sauļus Limonts]]
+| {{flagicon|Latvia}}
+| [[DHK Latgale]]
+|-
+| [[Aizsargs (hokejā)|A]]
+| 4
+| [[Petrs Nausēda]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Aizsargs (hokejā)|A]]
+| 19
+| [[Karols Nekrasevičs]]
+| {{flagicon|Lithuania}}
+| [[Tigrai]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 14
+| [[Karols Šliks]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 21
+| [[Martīns Šliks]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 12
+| [[Daļus Vaičukevičs]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Aizsargs (hokejā)|A]]
+| 5
+| [[Justins Vēželis]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Uzbrucējs (hokejā)|U]]
+| 26
+| [[Aļģimants Visocks]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+| [[Aizsargs (hokejā)|A]]
+| 2
+| [[Toms Višņausks]]
+| {{flagicon|Lithuania}}
+| [[SC Energija]]
+|-
+|}
+
+=== Pazīstamākie spēlētāji===
+* [[Nerijus Ališausks]]
+* [[Daiņus Zubrus]]
+* [[Mants Armalis]]
+* [[Darjus Kasparaitis]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{Hokejs-aizmetnis}}
+
+{{Hokejaizlases}}
+
+[[Kategorija:Hokejs Lietuvā]]
+[[Kategorija:Eiropas hokeja izlases]]

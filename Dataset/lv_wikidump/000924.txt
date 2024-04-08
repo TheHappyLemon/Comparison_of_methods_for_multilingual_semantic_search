@@ -1,0 +1,58 @@
+'''Elektroniskā tirdzniecība''' (saīsinājumā '''e-tirdzniecība''') jeb '''elektroniskā komercija''' (saīsinājumā '''e-komercija''') ir [[prece|preču]] un [[pakalpojums|pakalpojumu]] [[tirdzniecība]], izmantojot [[datortīkli|datortīklus]].
+
+Elektroniskās tirdzniecības priekšrocības slēpjas interneta globālajā izplatībā un pieejamībā, kas uzņēmējiem šo tirdzniecības veidu ļauj attīstīt ģeogrāfiski neierobežotos apmēros.
+
+== Iedalījums ==
+Elektronisko tirdzniecību var iedalīt pēc iesaistīto pušu veida:
+
+* G2G (''government to government'' — 'valdība — valdībai') sistēmas ataino [[valdība]]s (un [[pašvaldība]]s) savstarpējās attiecības, kuru spilgtākais piemērs ir koordinācija un savstarpējo pakalpojumu nodrošināšana.
+* G2B (''government to business'' — 'valdība — uzņēmumam') ataino valdības un [[Komersants|komersantu]] attiecības, kuru piemērs ir valsts informācijas pieejamības nodrošināšana komersantiem.
+* Ļoti līdzīgs ir G2C (''government to customer'' — 'valdība — klientam') sistēmu lietojums, tikai pakalpojumu saņēmējs ir indivīds — gala [[patērētājs]].
+* B2G (''business to government'' — 'uzņēmums — valdībai') sistēmu spilgtākais piemērs ir valsts (un pašvaldību) pasūtījumu piegādes, piemēram, elektroniskās [[izsole]]s.
+* [[B2B mārketings|B2B]] (''business to business'' — 'uzņēmums — uzņēmumam') ir komerciālās attiecības starp diviem uzņēmumiem, kas savstarpējos darījumos izmanto elektroniskās tirdzniecības informācijas sistēmas.
+* B2C (''business to customer'' — 'uzņēmums — klientam') sistēmas paredzētas gala patērētājiem, tās ir analogas tradicionālajiem [[Veikals|veikaliem]], katalogu pasūtījumiem un [[Telemārketings|telemārketingam]], tikai tiešsaistē virtuālajā vidē.
+* C2G (''customer to government'' — 'klients — valdībai) sistēmas visizplatītākais piemērs ir [[Nodoklis|nodokļu]] saistību kārtošana.
+* C2B (''customer to business'' — 'klients — uzņēmumam') sistēmās pakalpojumus firmām piegādā to klienti. Piemēram, klientu atsauksmes, [[Konkurence|konkurentu]] cenu informācija.
+* C2C (''customer to customer'' — 'klients — klientam') sistēmas nodrošina tiešu preču pārdošanu starp lietotājiem, parasti tās ir izsoļu sistēmas. Parasti tomēr kā starpnieks darbojas kāda firma, kas uztur šo pakalpojumu un saņem par to komisijas maksu vai kādu citu labumu (piemēram, samaksu par [[Reklāma|reklāmu]]).
+
+Visvairāk uzmanības nepieciešams veltīt tieši B2B un B2C sistēmām, jo tās veido elektroniskās tirdzniecības pamatu. Taču, pēc dažiem ekspertu vērtējumiem, B2B tirgus varētu būt reizes desmit lielāks par B2C tirgu, jo tas galvenokārt ir [[vairumtirdzniecība]]s tirgus, kas sagādā preces B2C tirdzniecībai.
+
+== Tiesiskā vide ==
+Elektroniskās tirdzniecības tiesiskā vide Latvijā kā [[Eiropas Savienība]]s (ES) dalībvalstī pamatā veidojas uz ES regulu un direktīvu, kas ir iestrādātas Latvijas normatīvajos tiesību aktos, bāzēs. Tādējādi var teikt, ka elektroniskās tirdzniecības tiesiskā vide Latvijā pamatos ir sakārtota.
+
+Valstiskā līmenī elektroniskajai tirdzniecībai lielāku nozīmi piešķīra "Koncepcija par elektronisko komerciju", kas [[Ministru kabinets|Ministru kabinetā]] pieņēma 2001. gada 13. martā.
+
+== Darījumu drošība ==
+Elektroniskās tirdzniecības darījuma drošību nodrošina [[tehnoloģija]]s un likumdošana. Salīdzinot ar pierasto darījuma drošību, kad izmanto [[Papīrs|papīra]] dokumentus, elektroniskajā tirdzniecībā glabājamo un pārsūtāmo datu slepenību un viengabalainību, kā arī darījuma partneru autentiskuma pārbaudi nodrošina [[kriptogrāfija]]. Lai darījumus, kuru noslēgšanā izmantoti kriptogrāfijas risinājumi, varētu pārbaudīt un katrai darījuma pusei paliktu likumīgs darījumu apstiprinošs dokuments, ir nepieciešamas noteiktas izmaiņas arī [[valsts]] likumdošanā. Precīzi jānorāda, kādu [[Likums|likumu]] pārvaldē darījums atrodas.
+
+=== Tehniskās drošības nodrošināšana ===
+Lai nodrošinātu elektroniskās tirdzniecības tehnisko drošību:
+* Jāšifrē pārsūtāmo informāciju;
+* Jāpārbauda [[tirgotājs|tirgotāja]] un pircēja autentiskumu;
+* Jānodala informāciju par pirkumu un maksāšanas instrumentu: pirkuma dati pieejami vienīgi pircējam un tirgotājam, bet [[norēķinu karte]]s [[dati]] — vienīgi pircējam un [[banka]]i.
+
+=== Darījuma slēgšana ===
+Atšķirība no parastajām darījumattiecībām, iesaistītās puses fiziski viena otru nesatiek. Priekšstatu par darījuma partneri sniedz vienīgi elektroniskā informācija. Tāpat kā tradicionālā tirdzniecībā, arī elektroniskajā tirdzniecībā, lai uzticētos, jāzina, ar ko darījums tiek slēgts:
+* Pircējiem jābūt pārliecinātiem par tirgotāja eksistenci un piedāvājuma nopietnību. Jābūt iespējai, izmantojot neatkarīgus avotus, noskaidrot tirgotāja statusu. Piemēram, pēc uzņēmuma reģistrācijas datiem pārbaudīt attiecīgajā valstī uzņēmuma un tā pilnvaroto personu statusu, uzzināt no neatkarīgiem avotiem, vai tirgotājs ievēro noteiktus standartus (komercdarbības kodeksu, datu aizsardzības standartus).
+* Savukārt, tirgotājam jābūt iespējai pārliecināties, ka maksāšanas līdzekli (piemēram, kredītkarti) lieto tieši tā persona, kas ir autorizēta to darīt, un darījuma partneris atbilst noteiktiem kritērijiem (vecums, kredītvēsture u.c.).
+
+== Tiešsaistes veikali ==
+Tiešsaistes veikali parasti ļauj pircējiem izmantot meklēšanas funkcijas, lai atrastu konkrētus modeļus, zīmolus vai produktus. Lai veiktu darījumu, tiešsaistes pircējiem jābūt piekļuvei internetam un derīgai maksāšanas metodei, piemēram, kredītkartei, debetkartei ar [[Interac]] vai tādam pakalpojumam kā [[PayPal]].<ref>{{tīmekļa atsauce|title=Guide to Payment Types, With Pros and Cons for Each|url=https://www.investopedia.com/terms/p/payment.asp|accessdate=2023. gada 4. decembris|website=www.investopedia.com}}</ref><ref>{{tīmekļa atsauce|title=Payment Transaction Response Codes|url=http://support.worldpay.com/support/CNP-API/content/paytransrespcodes.htm|accessdate=2023. gada 4. decembris|website=support.worldpay.com}}</ref><ref>{{tīmekļa atsauce|title=Safest Online Payment Methods In 2023|url=https://statrys.com/blog/safest-online-payment-methods|accessdate=2023. gada 4. decembris|website=statrys.com}}</ref> Fiziskas preces (piemēram, grāmatas papīra formātā vai apģērbu) pārdevējs nosūta klientam; digitālās preces, piemēram, dziesmu digitālos audio failus vai programmatūru, pārdevējs parasti nosūta klientam internetā. Lielākās no šīm tiešsaistes mazumtirdzniecības korporācijām ir [[Alibaba Group|Alibaba]], [[Amazon]] un [[eBay]].<ref>{{tīmekļa atsauce|title=The Alibaba phenomenon|url=https://www.economist.com/leaders/2013/03/23/the-alibaba-phenomenon|accessdate=2023. gada 4. decembris|website=www.economist.com}}</ref> Savukārt mazie uzņēmumi var izmantot tīmekļa vietņu veidotājus, lai izmantotu to funkcijas un rīkus, integrējot interneta veikalu savās tīmekļa vietnēs.<ref>{{tīmekļa atsauce|title=Google Sites 101: The Ultimate 2023 Guide (Google Sites Tips & Hacks)|url=https://stewartgauld.com/google-sites-101/|accessdate=2023. gada 4. decembris|website=stewartgauld.com}}</ref>
+
+Patērētāji atrod interesējošo preci, dodoties tieši uz mazumtirgotāja tīmekļa vietni vai meklējot starp alternatīviem piegādātājiem, izmantojot iepirkšanās meklētāju.<ref>{{tīmekļa atsauce|title=E-commerce Defined: Types, History, and Examples|url=https://www.investopedia.com/terms/e/ecommerce.asp|accessdate=2023. gada 4. decembris|website=www.investopedia.com}}</ref><ref>{{tīmekļa atsauce|title=Ecommerce Trends That Are Powering Online Retail Forward|url=https://www.bigcommerce.com/articles/ecommerce/ecommerce-trends/|accessdate=2023. gada 4. decembris|website=www.bigcommerce.com}}</ref> Lietotāji var salīdzināt un novērtēt produktus, izmantojot informāciju par produktu tīmekļa vietnē, kā arī citās tīmekļa vietnēs, piemēram, produktu testu vietnēs.
+
+Kad mazumtirgotāja tīmekļa vietnē ir atrasts un izvēlēts konkrēts produkts, vairums tiešsaistes veikalu izmanto programmatūru, lai izveidotu iepirkumu grozu, ļaujot patērētājam uzkrāt vairākas preces un pielāgot to daudzumu, līdzīgi kā piepildot fizisko iepirkumu grozu parastā veikalā.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20160304142738/http://www.lia.lv/doc/ecom.doc Koncepcija par elektronisko komerciju]
+* [https://web.archive.org/web/20140525020621/http://www.lia.lv/j002.htm Mag. jur. Māris Ruķers par IPS un klientu datu aizsardzibu]
+* [https://web.archive.org/web/20090508121524/http://softwaremag.com/archive/2001apr/EcomSecurity.html Designing an E-commerce Security Architecture]
+* [https://web.archive.org/web/20091123152051/http://www.em.gov.lv/em/2nd/?cat=3664 E-komercija]
+* [https://web.archive.org/web/20160304223645/http://www.vidzemniekiem.lv/?p=news2arch&fu=sh&id=586 Interneta drošība]
+
+== Atsauces ==
+{{Atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektroniskā komercija]]

@@ -1,0 +1,44 @@
+{{Citas nozīmes|matemātikas un datorzinātnes jēdzienu|grafs (nozīmju atdalīšana)|grafs}}
+[[Attēls:6n-graf.svg|thumb|250px|Grafa ar 6 virsotnēm un 7 šķautnēm vizuāls attēlojums]]
+
+'''Grafs''' [[matemātika|matemātikā]] ir punktu (kurus sauc par [[virsotne|virsotnēm]]) kopa kopā ar [[šķautne|šķautnēm]], kas tos savieno. [[Datorzinātne|Datorzinātnē]] grafs ir nelineāra [[datu struktūra]]. Tādējādi grafs ir svarīgs diskrētās matemātikas un datorzinātnes jēdziens. Grafus un to īpašības pēta [[grafu teorija]].
+
+== Matemātiskais apraksts ==
+Par grafu sauc sistēmu (''V''; ''E''), kur ''V'' ir netukša kopa, bet ''E'' - divu argumentu funkcija kopā ''V''. ''E'' katram pārim
+(x; y) no VxV piekārto kādu kopu E(x; y) tā, ka:
+# neviena no kopām E(x; y) nešķeļas ar ''V'',
+# dažādiem pāriem (x; y); (x<sub>1</sub>; y<sub>1</sub>) piekārtotas kopas var šķelties vienīgi tad,
+ja šie pāri ir viens otram apgriezti: (x; y) = (y<sub>1</sub>; x<sub>1</sub>).
+
+Kopas ''V'' elementi ir grafa [[virsotne]]s, kopā (x; y) atrodas [[šķautne]]s.
+
+== Grafu uzdošana ==
+Grafu var uzdot ar incidences matricu, incidences sarakstu vai arī kā zīmējumu.
+
+== Grafu veidi ==
+Matemātikā, grafu teorijā un citur ir svarīgi šādi grafu veidi:
+* Sakarīgs grafs. Tas ir tāds grafs, kuram no jebkuras virsotnes var aiziet uz jebkuru citu virsotni, pārvietojoties tikai pa grafa šķautnēm.
+* [[Planārs grafs]]. Tas ir grafs, ko iespējams attēlot [[plakne|plaknē]] tā, ka tā šķautnes nekrustojas.
+* Orientēts grafs. Tas ir grafs, kura katrai šķautnei ir piekārtots virziens.
+* Multigrafs. Tas ir grafs, kuram ir divas virsotnes, kas savienotas ar vairāk nekā vienu šķautni.
+
+== Algoritmi darbam ar grafiem ==
+Pazīstami vairāki grafa apstaigāšanas algoritmi:
+[[apstaigāšana dziļumā]] (DFS), [[apstaigāšana plašumā]] (BFS).
+
+== Skatīt arī ==
+* [[Bellmana-Forda algoritms]]
+
+== Ārējās saites ==
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Graph.html Graph], MathWorld.
+* [http://planetmath.org/encyclopedia/Graph.html Graph] {{Webarchive|url=https://web.archive.org/web/20100620111059/http://planetmath.org/encyclopedia/Graph.html |date={{dat|2010|06|20||bez}} }}, PlanetMath.
+* Paulis Ķikusts, [http://susurs.mii.lu.lv/Graphlab/Education/grafuTeorijaLatvija/PAULIS/index.html Grafu teorija].
+* Jānis Dambītis, [http://susurs.mii.lu.lv/Graphlab/Education/grafuTeorijaLatvija/DAMBITIS/index.html Modernā grafu teorija].
+* Jānis Cīrulis, [http://susurs.mii.lu.lv/Graphlab/Education/grafuTeorijaLatvija/JanisCirulis/jcgrafi.html Grafu teorija].
+* [http://estudijas.lu.lv/course/view.php?id=513 Grafu teorija]{{Novecojusi saite}}, lekciju materiāli LU kursam DatZ5031 (lai piekļūtu, jāklikšķina uz "Login as a guest").
+* Pēteris Daugulis, [http://www.de.dau.lv/matematika/daugulis/du_13_2005.pdf Grafu teorija]{{Novecojusi saite}}.
+
+[[Kategorija:Datu struktūras]]
+[[Kategorija:Diskrētā matemātika]]
+[[Kategorija:Matemātika]]
+[[Kategorija:Grafu teorija]]

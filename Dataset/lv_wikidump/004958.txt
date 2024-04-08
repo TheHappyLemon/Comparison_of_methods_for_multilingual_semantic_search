@@ -1,0 +1,60 @@
+{{Vielas infokaste
+|attēls=[[Attēls:cumene.PNG|100px]] <br />Kumola struktūrformula<br />[[Attēls:Cumene-3D-balls.png|100px]] <br />Kumola molekulas modelis
+|       citi nosaukumi = izopropilbenzols,<br /> 2-fenilpropāns
+|           CAS numurs = 98-82-8
+|ķīmiskā formula=C<sub>6</sub>H<sub>5</sub>CH(CH<sub>3</sub>)<sub>2</sub>
+|molmasa=120,19
+|blīvums=862
+|kušanas temperatūra=-96&nbsp;°C
+|viršanas temperatūra=152&nbsp;°C
+|        šķīdība ūdenī = zem 0,01%
+}}
+[[Kumols]] jeb '''izopropilbenzols''' (C<sub>6</sub>H<sub>5</sub>CH(CH<sub>3</sub>)<sub>2</sub>) ir [[aromātiskie ogļūdeņraži|aromātisks ogļūdeņradis]] — [[benzols|benzola]] atvasinājums. Tas ir bezkrāsains, degtspējīgs, viegli uzliesmojošs šķidrums ar asu smaku. Ūdenī praktiski nešķīst, labi jaucas ar [[etilspirts|spirtu]], [[ēteris|ēteri]], benzolu.
+
+== Iegūšana ==
+Kumols ir sastopams naftā un degvielās, taču rūpnieciski kumolu ražo no [[benzols|benzola]] un [[propēns|propēna]] skābu katalizatoru klātienē. Kumols veidojas, sadaloties [[terpēni]]em un [[kampars|kamparam]].<ref>П. Каррер. Курс органической химии. Ленинград: Государственное научно-техническое издательство химической литературы, 1960, 489. lpp. {{ru ikona}}</ref>
+
+== Īpašības ==
+Kumola tvaiku [[uzliesmošanas temperatūra]] ir 34°C, bet kumola pašuzliesmošanas temperatūra ir 424°C.
+
+Kumols ietekmē [[ūdens]] organoleptiskās īpašības, sākot no koncentrācijas 0,1 mg/l. [[Zivis|Zivju]] gaļai piemīt kumola smaka, ja ūdenī ir 0,25 mg/l kumola. Nokļūstot [[augsne|augsnē]], kumols nomāc tajā amonizācijas un nitrifikācijas procesus, samazina mikroorganismu daudzumu augsnē.
+
+Kumols pieder pie [[toksiskums|maztoksiskām]] vielām. [[LD50|LD<sub>50</sub>]] [[žurkas|žurkām]] ir ap 2,9 g/kg. Siltasiņu dzīvniekiem un cilvēkam kumols var izsaukt narkotisku efektu, tam  ir arī kairinoša iedarbība. Cilvēkam ieelpojot lielākus kumola tvaiku daudzumus, novērojamas [[galvassāpes]], vispārējs vājums, var iestāties pat [[koma]]. Šķidrā veidā var uzsūkties caur [[āda|ādu]]. Var izsaukt [[dermatīts|dermatītu]], bet, iekļūstot [[acs|acīs]] — [[konjunktivīts|konjunktivītu]]. Ilgstoši iedarbojoties nelieliem kumola daudzumiem, var rasties patoloģiskas izmaiņas [[aknas|aknās]] un [[nieres|nierēs]], asinsainas izmaiņas, nervu sistēmas traucējumi.
+
+Darba zonas gaisā pieļaujams līdz 50,0 mg/m<sup>3</sup> kumola, bet atmosfēras gaisā — līdz 0,014 mg/m<sup>3</sup>.
+
+Lai novērstu kumola iedarbību, jālieto necaurlaidīgi cimdi, aizsargkrēmi.
+
+Ja cilvēks akūti saindējies ar kumolu, viņš jānogādā svaigā gaisā, vajadzības gadījumā jāveic [[mākslīgā elpināšana]], jādod ieelpot [[skābeklis]]. Ja kumols nokļuvis acī, acs nekavējoties jāmazgā ar ūdeni vai [[fizioloģiskais šķīdums|fizioloģisko šķīdumu]]; tas pats jādara, ja kumols nokļuvis uz ādas.<ref>Вредные химические вещества. Углеводороды. Галогенпроизводные углеводородов. Справочник. Л., "Химия", 1990, 168.—172. lpp {{ru ikona}}</ref>
+
+== Izmantošana ==
+Kumols ir galvenā [[fenols|fenola]] un [[acetons|acetona]] iegūšanas izejviela. Lieto arī laku un krāsu rūpniecībā. Kumols ietilpst [[benzīns|benzīna]] ar lielu [[oktānskaitlis|oktānskaitli]] sastāvā.
+
+=== Kumola metode ===
+Kumola metodi fenola un acetona ražošanai 1942. gadā izstrādājis latviešu ķīmiķis [[Rūdolfs Ūdris]] kopīgi ar krievu zinātniekiem un tehnologiem B. D. Kružalovu un P. G. Sergejevu. Kumola metodi sauc arī par Ūdra—Sergejeva vai Ūdra—Hoka metodi. Akadēmiķis N.Zeļinskis metodes atklāšanu nosauca par "jauna loga izciršanu" organiskajā ķīmijā.<ref>Jānis Stradiņš. ''Ķīmiķim Rūdolfam Ūdrim — 100. Aizmirsta zinātnieka leģenda''. Dabas un vēstures kalendārs '99. Rīga : Zinātne, 254. lpp. {{ISBN|5-7966-1219-0}}</ref> Metode pamatojas uz kumola hidroperoksīda sadalīšanos [[sērskābe]]s klātienē 50—60 °С temperatūrā līdz fenolam un acetonam ar ļoti labu iznākumu un gandrīz bez blakusproduktiem.
+Procesu realizē trijās stadijās:
+* Pirmajā stadijā benzolu [[alkilēšana|alkilē]] ar propilēnu līdz kumolam.
+
+C<sub>6</sub>H<sub>6</sub> + CH<sub>3</sub>CH=CH<sub>2</sub> → C<sub>6</sub>H<sub>5</sub>CH(CH<sub>3</sub>)<sub>2</sub>
+
+* Pēc tam kumolu oksidē ar [[skābeklis|skābekli]] sārmainā vidē 130&nbsp;°C temperatūrā līdz kumola hidroperoksīdam (kumilhidroperoksīdam).
+
+C<sub>6</sub>H<sub>5</sub>CH(CH<sub>3</sub>)<sub>2</sub> + O<sub>2</sub> → C<sub>6</sub>H<sub>5</sub>C(CH<sub>3</sub>)<sub>2</sub>OOH
+
+* To [[hidrolīze|hidrolizējot]] skābā vidē, rodas fenols un acetons.
+
+C<sub>6</sub>H<sub>5</sub>C(CH<sub>3</sub>)<sub>2</sub>OOH → C<sub>6</sub>H<sub>5</sub>OH + (CH<sub>3</sub>)<sub>2</sub>C=O
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.delfi.lv/news/national/criminal/andrejosta-notikusi-izopropilbenzola-noplude.d?id=43993562 Andrejostā notikusi izopropilbenzola noplūde]
+
+{{Aromat}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogļūdeņraži]]

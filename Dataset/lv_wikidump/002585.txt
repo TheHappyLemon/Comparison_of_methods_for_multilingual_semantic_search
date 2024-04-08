@@ -1,0 +1,223 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Helsinki
+ | official_name            = ''Helsinki''<br />''Helsingfors''
+ | settlement_type          = galvaspilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = HelsinkiMontage NoEffects.jpg
+ | imagesize                = 
+ | image_caption            = Helsinki no jūras puses
+ | image_shield             = Helsinki.vaakuna.svg
+ | pushpin_map              = Finland
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 60 | latm  = 10 | lats  = 15 | latNS  = N
+ | longd = 24 | longm = 56 | longs = 15 | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Somija}}'''
+ | subdivision_type1        = reģions
+ | subdivision_name1        = [[Ūsimā]]
+ | established_title        = Dibināta
+ | established_date         = 1550. gadā
+ | leader_title             = Mērs
+ | leader_name              = Jussi Pajunens
+ | area_total_km2           = 715.55
+ | area_total_sq_mi         = 
+ | area_land_km2            = 213.66
+ | area_land_sq_mi          = 
+ | area_water_km2           = 501.89
+ | population_total         = 645482
+ | population_as_of         = {{dat|2018|4|30|SK|bez}}
+ | population_rank          = Lielākā Somijā
+ | population_density_km2   = auto
+ | population_urban         = 1044063
+ | population_metro         = 1460620
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | website                  = {{URL|http://www.hel.fi/}}
+ | footnotes                = 
+}}
+'''Helsinki''' ({{val|fi|Helsinki}}; {{val|sv|{{Audio|Helsingfors.ogg|Helsingfors}}}}) ir [[Somija]]s galvaspilsēta un Somijas lielākā pilsēta. Galvaspilsētas reģionā (Helsinkos, [[Espo]] un [[Vantā]]) dzīvo apmēram 1,2 miljoni iedzīvotāju, bet Helsinkos 645 482 iedzīvotāji.
+
+Helsinki ir lielākais politikas, izglītības, finanšu, kultūras un pētniecības centrs Somijā, kā arī viena no lielākajām [[Ziemeļeiropa]]s pilsētām. Aptuveni 70% no visiem ārvalstu uzņēmumiem Somijā ir izvietoti Helsinku reģionā.<ref>http://web.archive.org/liveweb/http://www.helsinkiregion.com/helsinki_region_in_brief/</ref> Netālu no Helsinkiem, Vantā, atrodas Helsinku lidosta.
+[[Attēls:Latvian Embassy in Finland.jpg|thumb|[[Latvijas vēstniecība Somijā]] Helsinkos.]]
+
+== Vēsture ==
+Līdz Somijas neatkarībai 1917. gadā Helsinki bija pazīstami ar zviedrisko nosaukumu '''Helsingforsa'''. Helsinki tika dibināti pēc [[Zviedrija]]s karaļa [[Gustavs I|Gustava I]] pavēles 1550. gadā pie [[Vantānjoki]] (''Vantaanjoki'') upes grīvas. Sākumā Helsinki bija diezgan neliela pilsēta ar vienkāršiem koka namiem. 1640. gadā zviedru zemes pārvaldnieks Somijā [[Pērs Brāhe]] lika pārvietot pilsētu tuvāk jūrai. [[Sanktpēterburga]]s dibināšana 1703. gadā ļoti ietekmēja Helsinkus. [[Ziemeļu karš|Ziemeļu kara]] laikā no 1713. līdz 1721. gadam krievu karaspēks okupēja Helsinkus. 1749. gadā tika uzcelts jūras cietoksnis [[Somenlinna]] (''Suomenlinna''). [[Somijas karš|Somijas kara]] laikā 1808. gadā krievu karaspēks atkal okupēja Helsinkus. Pēc gada pilsētā izcēlās ugunsgrēks, kas iznīcināja divas trešdaļas pilsētas, tomēr tam bija arī pozitīva nozīme, jo pēc tā tika pārplānots Helsinku centrs.
+
+No 1809. līdz 1917. gadam [[Somijas lielhercogiste]] ietilpa Krievijas Impērijā, un 1812. gadā Helsinki kļuva par tās galvaspilsētu agrākā pārvaldes centra [[Turku]] vietā. Pēc tam izbūvēja Helsinku jauno [[neoklasicisms|neoklasisko]] centru.
+
+1917. gada 6. decembrī Helsinkos tika deklarēta Somijas neatkarība.
+1918. gada 27. janvārī sarkanie gvardi veica valsts apvērsumu, sākot [[Somijas pilsoņu karš|Somijas pilsoņu karu]]. Nākamajā dienā sarkanie pārņēma kontroli Helsinkos. Pilsētu 13. aprīlī atbrīvoja vācu [[Baltijas jūras divīzija]].
+
+[[Ziemas karš|Ziemas kara]] un [[Turpinājuma karš|Turpinājuma kara]] laikā Helsinkus bombardēja [[Padomju Savienība|PSRS]] aviācija.
+
+1952. gadā Helsinkos notika [[1952. gada vasaras olimpiskās spēles|vasaras olimpiskās spēles]].
+
+1975. gadā Helsinkos tika noslēgta [[Helsinku vienošanās]].
+
+== Demogrāfija ==
+Pilsētā dzīvo 645 482 (30.04.2018) iedzīvotāji, no kuriem 5,7% runā [[Zviedru valoda|zviedru valodu]]. Zviedru valodai pilsētā ir oficiāls statuss.
+
+== Ģeogrāfija ==
+Pilsēta atrodas apmēram 80 kilometrus uz ziemeļiem no Tallinas, 400 kilometrus uz austrumiem no Stokholmas un 300 kilometrus uz rietumiem no Sanktpēterburgas.
+
+=== Klimats ===
+<div style="width:75%">
+{{Weather box
+|location = Helsinku
+|metric first = Yes
+|single line = Yes
+|January record high C = 8.5
+|February record high C = 11.8
+|March record high C = 15.1
+|April record high C = 21.9
+|May record high C = 27.6
+|June record high C = 30.9
+|July record high C = 34.0
+|August record high C = 31.2
+|September record high C = 26.2
+|October record high C = 17.5
+|November record high C = 11.6
+|December record high C = 10.0
+|year record high C = 34.0
+|Jan high C = −1.3
+|Feb high C = −1.9
+|Mar high C = 1.6
+|Apr high C = 7.6
+|May high C = 14.4
+|Jun high C = 18.5
+|Jul high C = 21.5
+|Aug high C = 19.8
+|Sep high C = 14.6
+|Oct high C = 9.0
+|Nov high C = 3.7
+|Dec high C = 0.5
+|year high C = 9.0
+|Jan mean C = -3.9
+|Feb mean C = -4.7
+|Mar mean C = -1.3
+|Apr mean C = 3.9
+|May mean C = 10.2
+|Jun mean C = 14.6
+|Jul mean C = 17.8
+|Aug mean C = 16.3
+|Sep mean C = 11.5
+|Oct mean C = 6.6
+|Nov mean C = 1.6
+|Dec mean C = -2.0
+|year mean C = 5.9
+|Jan low C = −6.5
+|Feb low C = −7.4
+|Mar low C = −4.1
+|Apr low C = 0.8
+|May low C = 6.3
+|Jun low C = 10.9
+|Jul low C = 14.2
+|Aug low C = 13.1
+|Sep low C = 8.7
+|Oct low C = 4.3
+|Nov low C = −0.6
+|Dec low C = −4.5
+|year low C = 2.9
+|Jan record low C = −34.3
+|Feb record low C = −31.5
+|Mar record low C = −24.5
+|Apr record low C = −16.3
+|May record low C = −4.8
+|Jun record low C = 0.7
+|Jul record low C = 5.4
+|Aug record low C = 2.8
+|Sep record low C = −4.5
+|Oct record low C = −11.6
+|Nov record low C = −18.6
+|Dec record low C = −29.5
+|year record low C = −34.3
+|Jan precipitation mm = 52
+|Feb precipitation mm = 36
+|Mar precipitation mm = 38
+|Apr precipitation mm = 32
+|May precipitation mm = 37
+|Jun precipitation mm = 57
+|Jul precipitation mm = 63
+|Aug precipitation mm = 80
+|Sep precipitation mm = 56
+|Oct precipitation mm = 76
+|Nov precipitation mm = 70
+|Dec precipitation mm = 58
+|year precipitation mm = 655
+|Jan snow cm = 20
+|Feb snow cm = 24
+|Mar snow cm = 15
+|Apr snow cm = 0.4
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 3
+|Dec snow cm = 10
+|year snow cm = 72
+|Jan sun = 38
+|Feb sun = 70
+|Mar sun = 138
+|Apr sun = 194
+|May sun = 284
+|Jun sun = 297
+|Jul sun = 291
+|Aug sun = 238
+|Sep sun = 150
+|Oct sun = 93
+|Nov sun = 36
+|Dec sun = 29
+|year sun = 1858
+|source 1 = <ref>{{Tīmekļa atsauce|url=http://en.ilmatieteenlaitos.fi/normal-period-1981-2010|title=Normal period 1981-2010 - Ilmatieteen laitos|accessdate={{dat|2012|4|30||bez}}}}</ref>
+|date=February 2011
+}}
+</div>
+
+== Māksla un kultūra ==
+2010. gada septembrī/oktobrī Senāta laukumā notika plašākā brīvdabas izstāde Somijas vēsturē: aptuveni 1,4 miljoni cilvēku redzēja starptautisko izstādi [[United Buddy Bears]].<ref>{{Tīmekļa atsauce |url=http://www.buddy-baer.com/en/united-buddy-bears/world-tour/helsinki-2010.html |title=United Buddy Bears – Helsinki |access-date={{dat|2017|09|07||bez}} |archive-date={{dat|2017|10|22||bez}} |archive-url=https://web.archive.org/web/20171022193548/http://www.buddy-baer.com/en/united-buddy-bears/world-tour/helsinki-2010.html }}</ref>
+
+== Sports ==
+* [[Helsingin Jalkapalloklubi|Helsingin Jalkapalloklubi (HJK)]] (futbola klubs).
+* [[HIFK Soccer Helsinki|HIFK]] (futbola klubs).
+* Telia 5G Areena (ietilpība: 10 770)
+* „Töölön Pallokenttä“ stadions (ietilpība: 5000)
+
+== Cilvēki ==
+Helsinkos dzimuši:
+* [[Larss Ālforss]] (''Lars Ahlfors''; 1907—1996) — matemātiķis;
+* [[Tarja Halonena]] (''Tarja Halonen''; 1943) — politiķe;
+* [[Lauri Ilonens]] (''Lauri Ylönen''; 1979) — mūziķis;
+* [[Tūve Jansone]] (''Tove Jansson''; 1914—2001) — rakstniece;
+* [[Magnuss Lindbergs]] (''Magnus Lindberg''; 1958) — komponists;
+* [[Āre Merikanto]] (''Aarre Merikanto''; 1893—1958) — komponists;
+* [[Oskars Merikanto]] (''Oskar Merikanto''; 1868—1924) — komponists;
+* [[Ādolfs Ēriks Nordenšelds]] (''Adolf Erik Nordenskiöld''; 1832—1901) — polārpētnieks;
+* [[Einojuhani Rautavāra]] (''Einojuhani Rautavaara''; 1928) — komponists;
+* [[Mika Salo]] (''Mika Salo''; 1966) — ''Formula 1'' pilots;
+* [[Esa Peka Salonens]] (''Esa-Pekka Salonen''; 1958) — diriģents;
+* [[Līnuss Tūrvaldss]] (''Linus Torvalds''; 1969) — programmētājs;
+* [[Mika Valtari]] (''Mika Waltari''; 1908—1979) — rakstnieks;
+* [[Ville Valo]] (''Ville Valo''; 1975) — mūziķis;
+* [[Arturi Ilmari Virtanens]] (''Artturi Ilmari Virtanen''; 1895—1973) — ķīmiķis.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{oficiālā tīmekļa vietne}}
+
+{{Eiropas galvaspilsētas}}
+{{VOS norises vietas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Helsinki| ]]
+[[Kategorija:Somijas pilsētas]]

@@ -1,0 +1,144 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Burgenlande
+ | official_name           = ''Burgenland''
+ | settlement_type         = zeme
+ | image_skyline           = Podersdorf von Westen 2010.jpg
+ | imagesize               = 
+ | image_caption           = Burgenlandes ainava
+ | image_flag              = Flag of Burgenland.svg
+ | image_shield            = Burgenland Wappen.svg
+ | shield_size             = 70px
+ | capital                 = [[Eizenštate]]
+ | largest_city            = 
+ | official_language       = 
+ | spoken_language         = 
+ | image_map               = Burgenland in Austria.svg
+ | mapsize                 = 
+ | map_caption             = Burgenlandes atrašanās vieta Austrijā
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{AUT}}
+ | subdivision_type1       = 
+ | subdivision_name1       = 
+| parts_type = Pilsētas un apriņķi
+| parts = 2+7
+| p1 = [[Eizenštate]]
+| p2 = [[Rusta]]
+| p3 = <hr />
+| p4 = [[Neizīdles apriņķis]]
+| p5 = [[Eizenštates apriņķis]]
+| p6 = [[Matersburgas apriņķis]]
+| p7 = [[Oberpullendorfas apriņķis]]
+| p8 = [[Obervartas apriņķis]]
+| p9 = [[Gisingas apriņķis]]
+| p10 = [[Jennersdorfas apriņķis]]
+ | established_title       = Izveidots
+ | established_date        = {{dat|1921}}
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 3961.8
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 884
+ | elevation_min_m         = 114
+ | population_footnotes    = 
+ | population_total        = 287416
+ | population_as_of        = 2014
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = [[Centrāleiropas laiks|CET]]
+ | utc_offset              = +1
+ | timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST          = +2
+ | website                 = {{url|http://www.bgld.gv.at/}}
+ | blank_name              = 
+ | blank_info              = 
+ | footnotes               = 
+}}
+'''Burgenlande''' ({{val|de|Burgenland}}, {{val|hr|Gradišće}}, {{val|hu|Őrvidék}}) ir [[Austrija]]s federālā zeme valsts austrumu daļā, [[Slovākija]]s, [[Ungārija]]s un [[Slovēnija]]s pierobežā.<ref>{{PZT|133}}</ref> Administratīvi iedalās divās statūtpilsētās un septiņos apriņķos; administratīvais centrs un lielākā pilsēta ir [[Eizenštate]]. Burgenlandē ievērojams [[ungāri|ungāru]] un [[horvāti|horvātu]] iedzīvotāju īpatsvars; to valodām oficiāls statuss vairākās zemes pašvaldībās.
+
+== Vēsture ==
+Burgenlande gadsimtu gaitā piederējusi dažādām valstīm un tautām, bet tā ir vienīgā [[Austrija]]s teritorija, kas nekad nav bijusi [[Svētā Romas impērija|Svētās Romas impērijas]], [[Vācu Konfederācija]]s vai [[Cisleitānija]]s daļa. Jau kopš [[Romas Impērija]]s laikiem piederējusi [[Pannonija]]i. Pirmie [[ģermāņi]], kas ieceļoja šajā teritorijā, bija [[ostgoti]] ap 380. gadu, kas kļuva par [[Roma]]s sabiedrotajiem. 5. gadsimtā ostgotu zemi iekaroja [[huņņi]], bet pēc tam izveidojās neatkarīga ostgotu karaliste. Vēlākos laikos tagadējā Burgenlande nonāca [[Lombardija]]s, [[Avāri (senie)|avāru]], [[Samo]] un [[Frankija]]s pakļautībā, bet no 1043. gada tās nonāca [[Ungārija]]s sastāvā, bet no 1440. gada — [[Hābsburgi|Hābsburgu]] impērijā.
+
+1910. gada [[Austroungārija]]s tautas skatīšanas laikā tagadējās Burgenlandes teritorijā 74% iedzīvotāju bija vāciski runājoši, 15% — horvātiski, bet 9% — ungāriski. Pēc Austroungārijas sadalīšanās, pretēji Ungārijas centieniem, 1921. gadā Burgenlande nonāca Austrijas sastāvā. Pēc [[Anšluss|Anšlusa]] 1938. gadā Burgenlandes zeme tika likvidēta un pievienota [[Lejasdonava]]i un [[Štīrija]]i. Atjaunota 1945. gadā [[Padomju Savienība|Padomju]] okupācijas zonā.
+
+== Ģeogrāfija ==
+Burgenlade ir trešā mazākā no Austrijas federālajām zemēm. Izveitojusies šaurā joslā valsts austrumu pierobežā, [[Vidusdonavas līdzenums|Vidusdonavas līdzenuma]] malā. Augstākais punkts ir 884 m augstais [[Gešrībenšteins]] uz [[Ungārija]]s robežas. Burgenlandes ziemeļdaļā atrodas daļa no [[Neizīdles ezers|Neizīdles ezera]], kas ietilpst [[Neizīdles ezera—Zēvinkeles nacionālais parks|Neizīdles ezera—Zēvinkeles nacionālajā parkā]].
+
+=== Pilsētas ===
+
+{| class="wikitable" style="font-size:85%"
+!Pilsētas nosaukums!!Pilsētas nosaukums<br />vācu valodā!!Ģerbonis!!Iedz.sk.<br/>(2013)!!Pilsētas<br/>tiesības!! Karte
+|-
+| [[Eizenštate]] || ''Eisenstadt'' || {{center|[[Attēls:Wappen der Stadt Eisenstadt.svg|20px]]}} ||13351 || [[1648]] || rowspan=13|{{VietasKarte+|Burgenlande|width=250 |float=center|caption =
+|places =
+{{VietasKarte~|Burgenlande|lat=47.845556|long=16.518889|position = top |label='''[[Eizenštate]]'''}}
+{{VietasKarte~|Burgenlande|lat=47.841111|long=16.919444|position = bottom |label=[[Frauenkirhene]]}}
+{{VietasKarte~|Burgenlande|lat=47.059167|long=16.323056|position = top |label=[[Gisinga]]}}
+{{VietasKarte~|Burgenlande|lat=46.937778|long=16.14|position = top |label=[[Jennersdorfa]]}}
+{{VietasKarte~|Burgenlande|lat=47.738056|long=16.396944|position = top |label=[[Matersburga]]}}
+{{VietasKarte~|Burgenlande|lat=47.867778|long=16.376667|position = left |label=[[Neifelde]]}}
+{{VietasKarte~|Burgenlande|lat=47.948611|long=16.843056|position = top |label=[[Neizīdle]]}}
+{{VietasKarte~|Burgenlande|lat=47.5|long=16.516667|position = top |label=[[Oberpullendorfa]]}}
+{{VietasKarte~|Burgenlande|lat=47.287778|long=16.203056|position = bottom |label=[[Obervarte]]}}
+{{VietasKarte~|Burgenlande|lat=47.371667|long=16.121944|position = right |label=[[Pinkafelde]]}}
+{{VietasKarte~|Burgenlande|lat=47.914722|long=16.693333|position = right |label=[[Purbaha]]}}
+{{VietasKarte~|Burgenlande|lat=47.809444|long=16.6675|position = top |label=[[Rusta]]}}
+{{VietasKarte~|Burgenlande|lat=47.322778|long=16.274167|position = right|label=[[Štātšleininga]]}}
+}}
+|-
+| [[Frauenkirhene]] || ''Frauenkirchen'' || {{center|[[Attēls:AUT Frauenkirchen COA.svg|20px]]}} ||2830 || [[1982]]  
+|-
+| [[Gisinga]] || ''Güssing'' || {{center|[[Attēls:AUT Güssing COA.svg|20px]]}} ||3770 || [[1973]] 
+|-
+| [[Jennersdorfa]] || ''Jennersdorf'' || {{center|[[Attēls:AUT Jennersdorf COA.svg|20px]]}} ||4161 || [[1977]] 
+|-
+| [[Matersburga]] || ''Mattersburg'' || {{center|[[Attēls:AUT Mattersburg COA.svg|20px]]}} ||7100 || [[1926]] 
+|-
+| [[Neifelde]] || ''Neufeld an der Leitha'' || {{center|[[Attēls:AUT Neufeld an der Leitha COA.jpg|20px]]}} ||3180 || [[1997]] 
+|-
+| [[Neizīdle]] || ''Neusiedl am See'' || {{center|[[Attēls:AUT Neusiedl am See COA.jpg|20px]]}} ||7285 || [[1926]] 
+|-
+| [[Oberpullendorfa]] || ''Oberpullendorf'' || {{center|[[Attēls:AUT Oberpullendorf COA.svg|20px]]}} ||3030 || [[1975]] 
+|-
+| [[Obervarta]] || ''Oberwart'' || {{center|[[Attēls:AUT Oberwart COA.svg|20px]]}} ||7218 || [[1939]] 
+|-
+| [[Pinkafelde]] || ''Pinkafeld'' || {{center|[[Attēls:AUT Pinkafeld COA.jpg|20px]]}} ||5511 || [[1937]] 
+|-
+| [[Purbaha]] || ''Purbach am Neusiedler See'' || {{center|[[Attēls:AUT Purbach am Neusiedlersee COA.jpg|20px]]}} ||2718 || [[1997]]
+|-
+| [[Rusta]] || ''Rust'' || {{center|[[Attēls:Wappen Rust (Burgenland).jpg|20px]]}} ||1918 || [[1681]] 
+|-
+| [[Štatšleininga]] || ''Stadtschlaining'' || {{center|[[Attēls:AUT Stadtschlaining COA.svg|20px]]}} ||2035 ||[[1991]]
+|-
+|}
+
+== Apskates vietas ==
+{{div col}}
+* [[Esterhāzi pils]]  [[Attēls:HH icon.svg|15px|Pils]]
+* [[Forhtenšteinas pils]]  [[Attēls:Castle Black.svg|10px|Viduslaiku pils]]
+* [[Gešrībenšteins]]  [[Attēls:Sommet icone.svg|20px|Kalna virsotne]]
+* [[Lokenhausas pils]]  [[Attēls:Castle Black.svg|10px|Viduslaiku pils]]
+* [[Neizīdles ezera—Zēvinkeles nacionālais parks]]  [[Attēls:BSicon lNAT.svg|20px|Nacionālais parks]]
+{{div col end}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Austrijas zemes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas administratīvais iedalījums]]
+[[Kategorija:Burgenlande| ]]

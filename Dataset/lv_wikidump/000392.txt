@@ -1,0 +1,44 @@
+{{Navbox
+|name  = Arābu līga
+|title =  [[Arābu valstu līga]]<!--  {{flaga|Arābu līga}} -->
+|image = [[Image:Emblem of the Arab League.svg|55px]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|group1 = Dalībvalstis
+|list1  = 
+* [[Alžīrija]]
+* [[Apvienotie Arābu Emirāti]]
+* [[Bahreina]]
+* [[Džibutija]]
+* [[Ēģipte]]
+* [[Irāka]]
+* [[Jemena]]
+* [[Jordānija]]
+* [[Katara]]
+* [[Komoras]]
+* [[Kuveita]]
+* [[Libāna]]
+* [[Lībija]]
+* [[Maroka]]
+* [[Mauritānija]]
+* [[Omāna]]
+* [[Palestīnas autonomija|Palestīna]]
+* [[Saūda Arābija]]
+* [[Sīrija]]
+* [[Somālija]]
+* [[Sudāna]]
+* [[Tunisija]]
+
+|group2 = Novērotāji
+|list2  = 
+* [[Armēnija]]
+* [[Brazīlija]]
+* [[Eritreja]]
+* [[Indija]]
+* [[Venecuēla]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

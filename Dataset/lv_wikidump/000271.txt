@@ -1,0 +1,229 @@
+{{Valsts infokaste
+|        vietējais_nosaukums = 
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;padding-left:3.0em;font-size:80%;
+  |title = Nigērijas Federālā Republika
+  |liststyle = font-weight:normal; text-align:center;
+  | {{val|ha|{{small|Jamhuriyar Taraiyar Nijeriya}}}}
+  | {{val|ig|{{small|Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà}}}}
+  | {{val|yo|{{small|Orílẹ̀-èdè Olómìnira Àpapọ̀ ilẹ̀ Nàìjíríà}}}}
+}}
+|           valsts_nosaukums = Nigērija
+|           karoga_nosaukums = Nigērijas karogs
+|              karoga_attēls = Flag of Nigeria.svg
+|          ģerboņa_nosaukums = Nigērijas ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls = Coat of arms of Nigeria.svg
+|              kartes_attēls = Nigeria (orthographic projection).svg
+|            kartes_paraksts = 
+|                valsts_moto = 
+|               valsts_himna = ''[[Arise, O Compatriots]]''<br />
+|             valsts_valodas = [[Angļu valoda]]
+|              galvaspilsēta = [[Abudža]]
+|latd=9 |latm=4 |latNS=N |longd=7 |longm=29 |longEW=E
+|            lielākā_pilsēta = [[Lagosa]]
+|             valsts_iekārta = Federāla [[prezidentāla republika]]
+|       valsts_galvas_tituls = Prezidents
+|               valsts_galva = [[Bola Tinubu]]
+|      valsts_galvas_tituls2 = Viceprezidents
+|              valsts_galva2 = [[Kašims Šetima]]
+|legislature = Nacionālā Asambleja
+|upper_house = Senāts
+|lower_house = Pārstāvju palāta
+|       neatkarības_iegūšana = Neatkarība
+|        neatkarības_piezīme = no [[Apvienotā Karaliste|Apvienotās Karalistes]]
+|       neatkarības_notikums = Dienvidu un Ziemeļu Nigērijas apvienošana
+|         neatkarības_datums = 1914
+|      neatkarības_notikums2 = Deklarēta un atzīta
+|        neatkarības_datums2 = 1960. gada 1. oktobris
+|      neatkarības_notikums3 = Republika deklarēta
+|        neatkarības_datums3 = 1963. gada 1. oktobris
+|              platība_rangs = 31.
+|                platība_km2 = 923 768
+|             procenti_ūdens = 1,4
+|         iedzīvotāju_skaits = 195,605,702<ref name="Nigeria Population">{{tīmekļa atsauce|url=http://www.worldometers.info/world-population/nigeria-population/ |title= Nigeria Population |publisher=worldometers |accessdate= 11 June 2018}}</ref>
+|   iedzīvotāju_skaits_rangs = 7.
+|    iedzīvotāju_skaita_gads = 2018
+|population_census = 140 431 790
+|population_census_year = 2006
+|   apdzīvotības_blīvums_km2 = 191,8
+| apdzīvotības_blīvums_rangs = 71.
+|                    IKP_PPP = $413,402 miljardi<ref name=imf2>{{tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=21&pr.y=3&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=694&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Nigeria |publisher=International Monetary Fund |accessdate=20 April 2012}}</ref>
+|              IKP_PPP_rangs = 
+|               IKP_PPP_gads = 2011
+|         IKP_PPP_per_capita = $2578<ref name=imf2/>
+|   IKP_PPP_per_capita_rangs = 
+|GDP_nominal = $238,920 miljardi<ref name=imf2/>
+|GDP_nominal_rank = 
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $1490<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 
+|                  Gini_gads = 2003
+|Gini_change =  <!--increase/decrease/steady-->
+|                       Gini = 43,7 <!--number only-->
+|Gini_ref = 
+|                 Gini_rangs = 
+|                   HDI_gads = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,459 <!--number only-->
+|HDI_ref = 
+|                  HDI_rangs = 156.
+|FSI = 95,6 {{palielinājās}} 1,2
+|FSI_year = 2007
+|FSI_rank = 17.
+|FSI_category = <span style="color:#F00;">Alert</span>
+|                     valūta = [[Nigērijas naira|Naira]] (₦)
+|               valūtas_kods = NGN
+|country_code = NGA
+|                 laika_zona = [[West Africa Time|WAT]]
+|                 utc_offset = +1
+|             laika_zona_DST = nav
+|             utc_offset_DST = +1
+|drives_on =right
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 234
+|                     domēns = [[.ng]]
+}}
+'''Nigērija''' ({{val|en|Nigeria}}), oficiāli '''Nigērijas Federālā Republika''' (''Federal Republic of Nigeria'') ir valsts [[Rietumāfrika|Rietumāfrikā]]. Tā atrodas [[Nigēra (upe)|Nigēras upes]] lejtecē pie [[Gvinejas līcis|Gvinejas līča]]. Valsts robežojas ar [[Benina|Beninu]] rietumos, [[Kamerūna|Kamerūnu]] austrumos, [[Čada|Čadu]] ziemeļaustrumos un [[Nigēra|Nigēru]] ziemeļos. Nigērijā pēc 2018. gada datiem dzīvo ap 195,605 miljoniem iedzīvotāju.<ref name="Nigeria Population" /> Pēc iedzīvotāju skaita tā ir [[Āfrikas valstu uzskaitījums pēc iedzīvotāju skaita|lielākā valsts Āfrikā]] un [[Valstu uzskaitījums pēc iedzīvotāju skaita|septītā lielākā pasaulē]]. Nigērija ir [[Āfrikas Savienība]]s, [[Nāciju Sadraudzība]]s un [[OPEC]] dalībvalsts.
+
+== Vēsture ==
+Nigērijai ir gara [[Nigērijas vēsture|vēsture]] ne tikai kā sen apdzīvotai teritorijai, bet arī kā apgabalam, kurā pastāvējušas varenas [[impērija]]s un pilsētvalstis, pirms vēl to bija kolonizējušas [[Eiropa]]s lielvaras. [[Hausi]] ziemeļos, ibo dienvidaustrumos un jorubi dienvidrietumos, [[Ife]]s pilsētas apkaimē, bija nodibinājuši un izveidojuši labi organizētas karalistes jau vairākus gadsimtus pirms tam, kad šeit ieradās eiropieši.
+
+1851. gadā britu karaspēks ieņēma [[Lagosa|Lagosu]]. Tā tika oficiāli aneksēta 1861. gadā. 1901. gadā Nigērijas teritorija tika padarīta par [[Lielbritānija]]s protektoriātu. Valsts ieguva neatkarību 1960. gada 1. oktobrī kā [[Nigērijas federācija]] ar [[Elizabete II Vindzora|Elizabeti II]] kā valsts galvu un Nigērijas karalieni. 1963. gadā Nigērija kļuva par republiku, taču 1966. gadā tā nonāca armijas varā pēc valsts apvērsuma. Kopš tā laika valsts politikā iezīmējās saspīlētība starp [[islāms|musulmanisko]] ziemeļdaļu, no kuras nāca vairums armijas vadītāju, un [[kristietība|kristīgo]] dienviddaļu, kuras pārstāvji parasti uzvarēja vēlēšanās. 1967. gadā valsts dienvidaustrumu daļa atdalījās no pārējās valsts un tika nodibināta [[Biafra|Biafras Republika]], kas aizsāka [[Nigērijas pilsoņu karš|Nigērijas pilsoņu karu]]. Karā uzvarēja Nigērijas valdība un Biafra atkal kļuva par daļu no valsts. Nigērija atkal kļuva par republiku 1979. gadā pēc jaunās konstitūcijas ieviešanas. Tomēr tā nepastāvēja ilgi, jo pēc 4 gadiem [[Muhammadu Buhari]] veica valsts apvērsumu. Buhari tika gāzts cita apvērsuma rezultātā 1985. gadā. Pēc tā valsts piedzīvoja vēl 2 apvērsumus 1990. un 1993. gadā; pēdējo no tiem veica [[Sani Abača]], kurš valdīja no 1993. līdz savai nāvei 1998. gadā. Pēc Abačas nāves viņa pēctecis pieņēma jaunu konstitūciju, kas nodrošināja vairāku partiju vēlēšanas un paredzēja abu lielo reliģisko kopienu pārstāvju rotāciju prezidenta amatā. 1999. gada 5. maijā vara tika nodota bijušajam armijas komandierim [[Oluseguns Obasandžo|Olusegunam Obasandžo]], kurš bija valdījis kā militārais līderis no 1976. līdz 1979. gadam.
+
+Obasandžo tika atkārtoti ievēlēts 2003. gadā. 2007. gadā par valsts prezidentu kļuva [[Umaru Jaradua]]. Viņš nomira 2010. gada 5. maijā un tika rīkotas jaunas vēlēšanas. Par pagaidu prezidentu kļuva [[Gudlaks Džonatans]]. G. Džonatans uzvarēja 2011. gada vēlēšanās. 2015. gada vēlēšanās viņš vēlreiz kanditēja uz prezidenta amatu, taču zaudēja Muhammadu Buhari. Buhari tika atkārtoti ievēlēts 2019. gada vēlēšanās.
+
+Kopš 2009. gada Nigērijas ziemeļaustrumu daļā darbojas [[terorisms|teroristu]] grupējums ''[[Boko Haram]]'', kurš valstī grib ieviest [[šariats|šariatu]]. Tas tika dibināts 2002. gadā. Sākumā grupa bija visai miermīlīga, taču sāka palielināt savu uzbrukumu skaitu pēc grupas līdera nāves 2009. gada jūlijā. Tika uzsākta bruņota sacelšanās, kas turpinās vēl joprojām. Grupa galvenokārt darbojas [[Jobe]]s, [[Kano (štats)|Kano]], [[Borno]] un [[Kaduna (štats)|Kaduna]]s štatos. ''Boko Haram'' neiesaistās Nigērijas politiskajā sistēmā, ievērojot [[islāmisms|fundamentālisma islāma formu]], kas aizliedz dalību, ja vien sistēma nav balstīta uz šariatu vai islāma likumiem.<ref name="CNN Boko Haram">{{Tīmekļa atsauce|url=https://edition.cnn.com/2014/06/09/world/boko-haram-fast-facts/index.html|title=Boko Haram Fast Facts |publisher=[[CNN]]|accessdate=18 June 2018|language=angliski}}</ref> Grupa ir veikusi pašnāvnieku uzbrukumus, bumbu sprādzienus un cilvēku nolaupīšanu štatos, kuros tā ir aktīva. 2014. gada 14. aprīlī kaujinieki nolaupīja 276 skolnieces no internātskolas Čibokā, Borno štatā. Nolaupīšana izraisīja globālu sašutumu un sociālajos tīklos tika uzsākta kampaņa #BringBackOurGirls.<ref name="CNN Boko Haram" /> 2014. gada 24. augustā ''Boko Haram'' Nigērijas ziemeļaustrumos pasludināja kalifātu<ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/news/arzemes/boko-haram-nigerijas-ziemelaustrumos-pasludina-kalifatu.d?id=44884214|title='Boko Haram' Nigērijas ziemeļaustrumos pasludina kalifātu |publisher=[[Delfi (portāls)|DELFI]]|accessdate=19 June 2018|language=latviski}}</ref> un sāka ieņemt teritoriju Nigērijā, Čadā, Kamerūnā un Nigērā.<ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/news/arzemes/boko-haram-kluvusi-par-mini-islama-valsti-ar-savu-teritoriju.d?id=45453234|title='Boko Haram' kļuvusi par mini 'Islāma valsti' ar savu teritoriju |publisher=[[Delfi (portāls)|DELFI]]|accessdate=19 June 2018|language=latviski}}</ref><ref>{{Tīmekļa atsauce|url=http://www.soufangroup.com/tsg-intelbrief-boko-haram-takes-holds-territory/|title=Boko Haram Takes, Holds Territory|publisher=soufangroup.com|accessdate=19 June 2018|language=angiski|archiveurl=https://web.archive.org/web/20180623030506/http://www.soufangroup.com/tsg-intelbrief-boko-haram-takes-holds-territory/|archivedate={{dat|2018|06|23||bez}}}}</ref><ref>{{Tīmekļa atsauce|url=https://odihpn.org/magazine/the-evolution-and-impact-of-boko-haram-in-the-lake-chad-basin/|title=The evolution and impact of Boko Haram in the Lake Chad Basin|publisher=odihpn.org|accessdate=19 June 2018|language=angiski|archive-date={{dat|2018|10|23||bez}}|archive-url=https://web.archive.org/web/20181023031629/https://odihpn.org/magazine/the-evolution-and-impact-of-boko-haram-in-the-lake-chad-basin/}}</ref> To valstu līderi uzsāka cīņu pret grupējumu<ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/news/arzemes/cadas-armija-palidz-nigerijai-cinities-ar-boko-haram.d?id=45537466|title=Čadas armija palīdz Nigērijai cīnīties ar 'Boko Haram'|publisher=[[Delfi (portāls)|DELFI]]|accessdate=19 June 2018|language=latviski}}</ref><ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/news/arzemes/nigera-un-cada-sak-uzbrukumu-grupejumam-boko-haram.d?id=45664134|title=Nigēra un Čada sāk uzbrukumu grupējumam 'Boko Haram'|publisher=[[Delfi (portāls)|DELFI]]|accessdate=19 June 2018|language=latviski}}</ref><ref>{{Tīmekļa atsauce|url=http://www.delfi.lv/news/arzemes/boko-haram-kamerunas-ciema-nogalinajis-desmitiem-iedzivotaju.d?id=45544622|title='Boko Haram' Kamerūnas ciemā nogalinājis desmitiem iedzīvotāju|publisher=[[Delfi (portāls)|DELFI]]|accessdate=19 June 2018|language=latviski}}</ref> un 2015. gada aprīlī grupa kontrolēja tikai mazu teritoriju Nigērijas ziemeļaustrumos un atkāpās [[Sambisas mežs|Sambisas mežā]].
+
+== Ģeogrāfija ==
+Nigērijas sauszemes robeža kopumā ir 4477 km gara. Valsts robežojas ar Beninu rietumos (809 km gara robeža), Kamerūnu austrumos (1975 km), Čadu ziemeļaustrumos (85 km) un Nigēru ziemeļos (1608 km).<ref>{{tīmekļa atsauce|url=https://www.indexmundi.com/nigeria/land_boundaries.html|title=Nigeria Land boundaries |publisher=indexmundi |accessdate= 11 June 2018}}</ref> Dienvidos valsti apskalo [[Gvinejas līcis]]. Krasta līnija gar līci ir 853 km gara.<ref>{{tīmekļa atsauce|url=https://www.indexmundi.com/nigeria/coastline.html|title=Nigeria Coastline |publisher=indexmundi |accessdate= 11 June 2018}}</ref> Nigērija ir aptuveni 1200 km plata no austrumiem uz rietumiem un apmēram 1050 km gara no ziemeļiem uz dienvidiem. Valsts platība ir 923 768 km2. Nigērija ir 31. lielākā valsts pasaulē pēc [[Tanzānija]]s un 14. lielākā valsts Āfrikā.
+
+Valstij ir tādi dabas resursi kā [[dabasgāze]], [[nafta]], [[alva]], [[dzelzs rūda]]s, [[akmeņogles]], [[kaļķakmens]], [[niobijs]], [[svins]], [[cinks]].<ref>{{tīmekļa atsauce|url=https://www.indexmundi.com/nigeria/natural_resources.html|title=Nigeria Natural resources |publisher=indexmundi |accessdate= 11 June 2018}}</ref> Naftas meklējumi valsts teritorijā sākās 1907. gadā. Tā pirmo reizi tika atrasta 1956. gadā Oloibiri ciematā, kurš atrodas [[Bajelsa]]s štatā. Naftas ražošana sākās 1958. gadā. Lieli naftas krājumi atrodas [[Nigēras delta]]s reģionā. Tomēr vietējie iedzīvotāji nav tik apmierināti ar naftas atrašanu, jo tā piesārņo vidi. Nemiernieku grupas kopš 2003. gada darbojas šajā reģionā.
+
+=== Reljefs ===
+Valsts reljefs svārstās no zemienes gar krastu un Nigēras lejteces ieleju līdz augstienēm ziemeļos un kalniem gar austrumu robežu.
+
+=== Klimats ===
+Nigērijā ir tropu klimats ar diviem gadalaikiem. Mitrā sezona ilgst no aprīļa līdz oktobrim, kurā vismitrākais mēnesis ir jūnijs, savukārt sausā sezona ilgst no novembra līdz martam. Vidējais nokrišņu daudzums valstī svārstās no 1770 mm R līdz 4310 mm gar A krastu un līdz 470 mm valsts centrālajā daļā. Valdošie vēji ir DR, kas atnes lietu, un karstas, sausas putekļu vētras no Sahāras tuksneša ziemeļaustrumos. Vidējais temperatūras diapazons ir no 23 grādiem pēc Celsija līdz 32 grādiem pēc Celsija visu gadu.
+
+=== Administratīvais iedalījums ===
+{{Pamatraksts|Nigērijas administratīvais iedalījums}}
+Administratīvi Nigērija dalās 36 štatos un [[Federālā galvaspilsētas teritorija|Federālajā galvaspilsētas teritorijā]] Tālāk štati iedalās 774 pašpārvaldes apgabalos ''(Local Government Area)''.
+[[Attēls:Nigeria-karte-politisch english.png|thumb|left|300px|Nigērijas administratīvā iedalījuma karte]]
+
+{| class="wikitable sortable" border="1" style="font-size:85%"
+! Štats
+! Platība, km²
+! Iedzīvotāji (1991)
+! Iedzīvotāji (2006)
+! Blīvums, cilv/km²
+! Centrs
+|-
+| [[Abija]] || 6 320 || 2 338 487 || 2 833 999 || 448 || [[Umuahija]]
+|-
+| [[Adamava (štats)|Adamava]] || 36 917 || 2 102 053 || 3 168 101 || 86 || [[Jola (Nigērija)|Jola]]
+|-
+| [[Akva Iboma]] || 7 081 || 2 409 613 || 3 920 208 || 554 || [[Ujo]]
+|-
+| [[Anambra]] || 4 844 || 2 796 475 || 4 182 032 || 863 || [[Avka]]
+|-
+| [[Bauči (štats)|Bauči]] || 45 837 || 2 861 887 || 4 676 465 || 102 ||  [[Bauči]]
+|-
+| [[Bajelsa]] || 10 773 || 1 121 693 || 1 703 358 || 158 || [[Jenagoa]]
+|-
+| [[Benue (štats)|Benue]] || 34 059 || 2 753 077 || 4 219 244 || 124 || [[Makurdi]]
+|-
+| [[Borno]] || 70 898 || 2 536 003 || 4 151 193 || 59 || [[Maiduguri]]
+|-
+| [[Delta (štats)|Delta]] || 17 698 || 2 590 491 || 4 098 391 || 232 || [[Asaba]]
+|-
+| [[Džigava]] || 23 154 || 2 875 525 || 4 348 649 || 188 || [[Duce]]
+|-
+| [[Eboņi]] || 5 670 || 1 029 312 || 2 173 501 || 383 || [[Abakaliki]]
+|-
+| [[Edo (štats)|Edo]] || 17 802 || 2 172 005 || 3 218 332 || 181 || [[Benina (pilsēta)|Benina]]
+|-
+| [[Ekiti]] || 6 353 || 1 535 790 || 2 384 212 || 375 || [[Ado Ekiti]]
+|-
+| [[Enugu (štats)|Enugu]] || 7 161 || 2 125 068 || 3 257 298 || 455 || [[Enugu]]
+|-
+| [[Federālā galvaspilsētas teritorija|FGT]] || 7 315 || 371 674 || 1 405 201 || 192 || [[Abudža]]
+|-
+| [[Gombe (štats)|Gombe]] || 18 768 || 1 489 120 || 2 353 879 || 125 || [[Gombe]]
+|-
+| [[Imo]] || 5 530 || 2 485 635 || 3 934 899 || 712 || [[Overri]]
+|-
+| [[Jobe]] || 45 502 || 1 399 687 || 2 321 591 || 51 || [[Damaturu]]
+|-
+| [[Kacina (štats)|Kacina]] || 24 192 || 3 753 133 || 5 792 578 || 239 || [[Kacina]]
+|-
+| [[Kaduna (štats)|Kaduna]] || 46 053 || 3 935 618 || 6 066 562 || 132 || [[Kaduna]]
+|-
+| [[Kano (štats)|Kano]] || 20 131 || 5 810 470 || 9 383 682 || 466 || [[Kano]]
+|-
+| [[Kebi]] || 36 800 || 2 068 490 || 3 238 628 || 88 || [[Birninkebi]]
+|-
+| [[Kogi]] || 29 833 || 2 147 756 || 3 278 487 || 110 || [[Lokodža]]
+|-
+| [[Krosrivera]] || 20 156 || 1 911 297 || 2 888 966 || 143 || [[Kalabara]]
+|-
+| [[Kvara]] || 36 825 || 1 548 412 || 2 371 089 || 64 || [[Ilorina]]
+|-
+| [[Lagosa (štats)|Lagosa]] || 3 345 || 5 725 116 || 9 013 534 || 2 695 || [[Ikedža]]
+|-
+| [[Nasarava]] || 27 117 || 1 207 876 || 1 863 275 || 69 || [[Lafija]]
+|-
+| [[Nigēra (štats)|Nigēra]] || 76 363 || 2 421 581 || 3 950 249 || 52 || [[Minna]]
+|-
+| [[Oguna]] || 16 762 || 2 333 726 || 3 728 098 || 222 || [[Abeokuta]]
+|-
+| [[Ojo]] || 28 454 || 3 452 720 || 5 591 589 || 197 || [[Ibadana]]
+|-
+| [[Ondo]] || 14 606 || 2 249 548 || 3 441 024 || 236 || [[Akure]]
+|-
+| [[Osuna]] || 9 251 || 2 158 143 || 3 423 535 || 370 || [[Ošogbo]]
+|-
+| [[Plato (štats)|Plato]] || 30 913 || 2 104 536 || 3 178 712 || 103 || [[Džosa]]
+|-
+| [[Riversa (štats)|Riversa]] || 11 077 || 3 187 844 || 5 185 400 || 468 || [[Porthārkorta]]
+|-
+| [[Sokoto (štats)|Sokoto]] || 25 973 || 2 418 585 || 3 696 999 || 142 || [[Sokoto]]
+|-
+| [[Taraba]] || 54 473 || 1 512 163 || 2 300 736 || 42 || [[Džalingo]]
+|-
+| [[Zamfara]] || 39 762 || 2 051 591 || 3 259 846 || 82 || [[Gusau]]
+|- class="sortbottom"
+! Nigērija || 923 768 || 88 992 220 || 140 003 542 || 152 || [[Abudža]]
+|}
+
+== Iedzīvotāji ==
+Nigērijas iedzīvotāju sastāvs ir ļoti raibs, jo valstī dzīvo vairāk kā 250 tautu. Lielākās no tām ir [[hausi]], [[jorubi]], [[igbo]], [[fulbi]], 
+kas kopā veido 70% Nigērijas iedzīvotāju. Pārējie nigērieši pieder pie kādas no vairāk nekā 250 etniskajām grupām, kuras ne vien bagātina jau tā ļoti daudzveidīgo Nigērijas kultūru un mākslu, bet ir "iedalījušas" tās teritoriju pēc etniskās un valodas piederības. Turklāt iedzīvotājus šķir arī reliģiskā piederība: ziemeļos vairums iedzīvotāju ir [[musulmaņi]] (41%), bet dienvidos — [[kristietība|kristieši]] (58%) vai [[animisms|tradicionālo ticējumu]] piekritēji.
+
+== Tautsaimniecība ==
+Valsts strauji attīstās, izmantojot [[nafta]]s atradnes Gvinejas līča piekrastē. Nigērija ir lielākā naftas ieguvēja Āfrikā. Valsts teritorijā ir arī [[dabasgāze]]s, akmeņogļu un [[alva]]s rūdas iegulas. Nigērijas ziemeļdaļā valda samērā sauss klimats, šeit audzē [[prosa|prosu]], [[sorgo]], [[zemesrieksti|zemesriekstus]], kā arī [[aita]]s un liellopus — zebu. Nigēras upes ielejā audzē [[kokvilna|kokvilnu]], tuvāk Gvinejas līcim — [[eļļaspalma]]s, [[kakaokoks|kakaokokus]]. Nigērijas tropiskajos mežos aug [[kaučukaugi]] un dažādas vērtīgu koku sugas. Nigērijā ir vairākas [[hidroelektrostacija]]s, bet lielo pilsētu tuvumā arī [[termoelektrostacija]]s, kuras ražo nepieciešamo elektroenerģiju.
+
+Galvenās rūpniecības nozares ir kalnrūpniecība un naftas pārstrāde. Attīstīta ir pārtikas rūpniecība, īpaši daudz ir eļļas spiešanas fabriku, kā arī uzņēmumu, kas gatavo citrusu un ananasu konservus. Eļļu iegūst no zemesriekstiem un eļļaspalmām. Nozīmīga nozare ir kokvilnas audumu ražošana no vietējās kokvilnas. Kokapstrādes uzņēmumi no tropisko mežu koksnes ražo mēbeles, sērkociņus, celulozi, arī papīru.
+
+Nigērijā daudzi iedzīvotāji nodarbojas ar amatniecību. Katrai tautai un pilsētai ir raksturīgi savi amatniecības izstrādājumi. [[Kano]] pilsēta ir slavena ar safjānādas darinājumiem, [[Bida]] un Kano — ar groziem un paklājiem, kas pīti no rafijas palmu šķiedras, salmiem un niedrēm. Ilorinas iedzīvotāji ir izcili podnieki. Daudz ir zeltkaļu un sudrabkaļu.
+
+== Skatīt arī ==
+* [[Nigērijas pilsētu uzskaitījums]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika}}
+{{Nāciju sadraudzība}}
+{{OPEC}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Āfrikas valstis]]
+[[Kategorija:Nigērija| ]]

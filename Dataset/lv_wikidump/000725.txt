@@ -1,0 +1,84 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Pjemonta
+| official_name           = ''Piemonte''
+| other_name              = 
+| settlement_type         = Itālijas reģions
+| image_skyline           = Abandoned alp in valgrande (it).jpg
+| imagesize               = 
+| image_caption           = 
+| image_flag              = Flag of Piedmont.svg
+| flag_size               = 
+| image_shield            = Regione-Piemonte-Stemma.svg
+| shield_size             = 75px
+| anthem                  = 
+| capital                 = [[Turīna]]
+| largest_city            = 
+| official_language       = 
+| spoken_language         = 
+| image_map               = Piedmont in Italy.svg
+| mapsize                 = 
+| map_caption             = 
+| subdivision_type        = Valsts
+| subdivision_name        = {{karogs|Itālija}}
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+ | established_title       = Dibināts
+ | established_date        = 1948
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 25387.07
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_rank               = 
+| elevation_max_m         = 
+| population_footnotes    = 
+| population_total        = 4233998
+| population_as_of        = 2023
+| population_rank         = 
+| population_density_km2  = auto
+| population_blank1_title = 
+| population_blank1       = 
+| population_blank2_title = 
+| population_blank2       = 
+| timezone                = [[Centrāleiropas laiks|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST          = +2
+| website                 = {{URL|http://www.regione.piemonte.it}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = IT-21
+| footnotes               = 
+}}
+'''Pjemonta''' ({{val|it|Piemonte}}, {{izrunā|pjeˈmonte}}, {{val|pms|Piemont}}, {{izrunā|pjeˈmʊŋt}}) ir viens no [[Itālija]]s 20 [[Itālijas reģioni|reģioniem]]. Atrodas valsts ziemeļrietumos, robežojas ar [[Valle d'Aosta|Valli d'Aostu]] ziemeļrietumos, [[Lombardija|Lombardiju]] austrumos, [[Ligūrija|Ligūriju]] dienvidos un ar [[Emīlija-Romanja|Emīliju-Romanju]] dienvidaustrumos, kā arī ar [[Francija|Franciju]] rietumos un [[Šveice|Šveici]] uz ziemeļos. Pjemontas administratīvais centrs un lielākā pilsēta ir [[Turīna]], citas lielākās pilsētas: [[Novāra]], [[Alesandrija]].
+
+== Administratīvais iedalījums ==
+Administratīvi sīkāk Pjemonta dalās septiņās provincēs un vienā metropoles pilsētā. Šīs septiņas provinces ir [[Alesandrijas province|Alesandrijas]], [[Asti province|Asti]], [[Bjellas province|Bjellas]], [[Kuneo province|Kuneo]], [[Novāras province|Novāras]], [[Verbāno-Kuzio-Osolas province|Verbāno-Kuzio-Osolas]] un [[Verčelli province|Verčelli]] provinces, bet vienīgā metropoles pilsēta ir [[Turīnas metropoles pilsēta]].
+
+{{Image label begin|image=Italy Piemonte location map.svg|width=400|float=none}}
+{{Image label small|x=0.59|y=0.19|scale=400|text=[[Verbāno-Kuzio-Osolas province|Verbāno-Kuzio-<br/>Osolas province]]}}
+{{Image label small|x=0.30|y=0.90|scale=400|text=[[Kuneo province|Kuneo<br/>province]]}}
+{{Image label small|x=0.52|y=0.26|scale=400|text=[[Verčelli province|Verčelli<br/>province]]}}
+{{Image label small|x=0.70|y=0.42|scale=400|text=[[Novāras province|Novāras<br/>province]]}}
+{{Image label small|x=0.52|y=0.36|scale=400|text=[[Bjellas province|Bjellas<br/>province]]}}
+{{Image label small|x=0.30|y=0.57|scale=400|text=[[Turīnas metropoles pilsēta|Turīnas<br/>metropoles<br/>pilsēta]]}}
+{{Image label small|x=0.78|y=0.78|scale=400|text=[[Alesandrijas province|Alesandrijas<br/>province]]}}
+{{Image label small|x=0.56|y=0.82|scale=400|text=[[Asti province|Asti<br/>province]]}}
+{{Image label end}}
+
+== Atsauces ==
+{{atsauces+}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Itālija-aizmetnis}}
+
+{{Itālijas reģioni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Pjemonta| ]]

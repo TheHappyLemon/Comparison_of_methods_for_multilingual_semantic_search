@@ -1,0 +1,65 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Faisalābāda
+  | official_name              = {{ara|فیصل آباد}}
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = Clocktower Faisalabad, Panorama.jpg
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_seal               = 
+  | pushpin_map              = Pakistāna
+  | pushpin_label_position   = 
+  | latd  = 31  | latm  =  25 | lats  = 0  | latNS  = N
+  | longd = 73  | longm = 5  | longs =  28 | longEW = 
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Pakistāna}}'''
+  | subdivision_type1        = Province
+  | subdivision_name1        = [[Pendžaba]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 1300
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 184
+  | population_footnotes     = 
+  | population_total         = 3203846
+  | population_as_of         = {{dat|2017|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = 
+  | utc_offset               = 
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = {{url|http://www.fda.gov.pk/}}
+  | footnotes                = 
+}}
+'''Faisalābāda''' ({{val|ur|فیصل آباد}}, ''Faisalabad'') ir pilsēta [[Pakistāna]]s ziemeļu daļā. Liels [[tekstilrūpniecība]]s centrs. Pilsētā atrodas viena no lielākajām universitātēm Āzijā - Faisalābādas Lauksaimniecības universitāte.
+
+== Vēsture ==
+Pilsētu 1880. gadā nodibināja [[Lielbritānija|britu]] [[Pendžaba]]s ģenerālgubernators Čārlzs Džeimss Lajols (''Charles James Lyall''), tāpēc tās nosaukums britu varas laikā bija '''Lajalpūra''' (''Lyallpur''). 1902. gadā pilsētā bija mazāk kā 5000 iedzīvotāju.
+
+Pakistānas neatkarības gados Faisalābāda strauji auga. 1977. gadā par godu [[Saūda Arābija]]s karalim [[Faisals|Faisalam]] pilsēta ieguva pašreizējo nosaukumu. 2002. gada martā pilsētā notika specdienestu operācijas, kurās tika sagūstīti un vēlāk uz [[Guantanamo nometne|Guantanamo nometni]] pārvietoti vairāki augsta ranga ''[[Al-Qaida]]'' darbinieki.
+
+== Cilvēki ==
+Faisalabadā dzimuši:
+
+* [[Nusrats Fatehs Ali Hans]] (''Nusrat Fateh Ali Khan'', 1948-1997) - mūziķis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Pakistāna-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Pakistānas pilsētas]]

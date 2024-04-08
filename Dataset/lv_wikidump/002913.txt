@@ -1,0 +1,60 @@
+'''Vērtīgs raksts''' ir latviešu Vikipēdijas ''featured article'', un tam būtu jādemonstrē labākais latviešu Vikipēdijas sniegums. Iepriekšējās diskusijas var skatīt [[Vikipēdija:Vērtīgu rakstu kandidāti/Arhīvs|arhīvā]].
+
+== Procedūra ==
+
+=== Kritēriji ===
+
+* Rakstam jābūt kvalitatīvam, faktu ziņā precīzam, jābūt atsaucēm.
+* Vēlami attēli, kas ilustrē rakstīto un kuriem ir paskaidrojoši apraksti. Attēliem jābūt pareizi norādītam autortiesību statusam.
+* Nepieciešama ievadrindkopa, kurā īsi un vispārīgi raksturota raksta tēma. Rakstam jābūt strukturētam un pareizi noformētam.
+* Rakstā nedrīkst būt gramatikas un stila kļūdu.
+* Rakstam jābūt relatīvi garam un izsmeļošam.
+* Tekstam jābūt rakstītam no neitrāla skatpunkta.
+* Ievaddaļā un infokastē nedrīkst būt sarkanās saites.
+** Sarkanās saites nedrīkst likvidēt, tās dzēšot, ar tēmu saistītajām saitēm ir jābūt.
+
+=== Rakstu izvēle ===
+
+Lai nominētu kādu rakstu par "Vērtīgu rakstu":
+# jāieraksta sadaļas "Kandidāti" vajadzīgajā laukā raksta nosaukums un jānospiež "aizpildīt pietiekumu" (ja raksts jau ir bijis nominēts, tad pie nosaukuma iekavās jānorāda, piemēram, ''2. balsojums''),
+# pēc pieteikuma aizpildīšanas tas jāsaglabā un jāievieto norāde uz kandidātu sadaļā "Kandidāti";
+# jāievieto nominētajā rakstā veidne <nowiki>{{Vērtīga raksta kandidāts}}</nowiki>.
+
+=== Balsošana ===
+Lai atbalstītu vai noraidītu kādu kandidatūru:
+# balsojumu sadaļā jānorāda sava pozīcija ar veidnēm <nowiki>{{par}}</nowiki> vai <nowiki>{{pret}}</nowiki>; līdz ar to izskatīsies šādi: {{par}} vai {{pret}};
+# jāparakstās,
+# vēlams komentāru sadaļā paskaidrot savu nostāju.
+
+Balsojot dalībnieks ar savu balsi parakstās par to, ka:
+* ir rakstu uzmanīgi izlasījis no sākuma līdz galam,
+* pārzina vērtīga raksta kritērijus un spēj novērtēt raksta atbilstību tiem,
+* pietiekoši pārvalda aprakstīto tēmu vismaz kādā no aspektiem, lai izvērtētu raksta būtību,
+* pietiekoši labi pārvalda latviešu rakstu valodu un spēj novērtēt izklāsta kvalitāti.
+
+Balsošana ilgst divas nedēļas, lai nominētais raksts tiktu atzīts par vērtīgu, tam šajā laikā jāsaņem vismaz piecas atbalsta balsis.
+
+Pēc balsošanas beigām kāds no administratoriem pārbauda, vai raksts ir ieguvis vajadzīgo balsu skaitu, arhivē diskusiju un izņem no raksta veidni "vērtīga raksta kandidāts". Notikušo balsošanu [[Veidne:Vērtīga raksta atzīmēšana|atzīmē]] raksta diskusiju lapā. Ja raksts ir ieguvis vajadzīgo balsu skaitu, rakstā jāievieto veidne <nowiki>{{vērtīgs raksts}}</nowiki> un tā nosaukums jāpievieno sarakstam [[Vikipēdija:Vērtīgi raksti]].
+
+Nominēt kādu rakstu vērtīga raksta statusam var jebkurš, arī pats šī raksta autors.
+
+== Kandidāti ==
+{{center|<big>'''Kandidāta pievienošana'''</big>}}
+<inputbox>
+type=create
+editintro=Veidne:Vērtīgu rakstu kandidāti
+preload=Vikipēdija:Vērtīgu rakstu kandidāti/InputInit
+default=Vikipēdija:Vērtīgu rakstu kandidāti/Vajadzīgā Raksta Nosaukums
+buttonlabel=Aizpildīt pieteikumu
+bgcolor=#eeeeff
+width=60
+</inputbox>
+
+<!-- IEVIETOT NORĀDI UZ KANDIDĀTU ŠEIT — piemēram, rakstu Topkapi pils jāievieto kā {{/Topkapi pils}} -->
+{{/Džo Baidens}}
+
+== Skatīt arī ==
+* [[Vikipēdija:Vērtīga raksta statusa atņemšana]]
+* [[Vikipēdija:Vērtīgu rakstu kandidāti/Arhīvs|Arhivētās diskusijas]]
+
+[[Kategorija:Vērtīgu rakstu kandidāti| ]]

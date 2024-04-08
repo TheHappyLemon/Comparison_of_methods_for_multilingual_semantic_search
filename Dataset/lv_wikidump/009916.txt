@@ -1,0 +1,91 @@
+{{Latvijas novada infokaste
+| nosaukums         = Nagļu pagasts
+| karte             = Nagļu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Rēzeknes novads
+| centrs            = Nagļi
+| platība           = 138,3
+| iedzīvotāji       = 439<ref>https://www.pmlp.gov.lv/lv/iedzivotaju-registra-statistika-2020-gada</ref>
+| iedzīvotāji_gads  = 2020
+| blīvums           = {{#expr: 439 / 138.3 round 1}}
+| izveidots         = 1945
+| mājaslapa         = www.nagli.lv
+}}
+
+'''Nagļu pagasts''' ir [[Rēzeknes novads|Rēzeknes novada]] teritoriāla vienība tā ziemeļrietumos. Robežojas ziemeļrietumos ar [[Madonas novads|Madonas novada]] [[Ošupes pagasts|Ošupes pagastu]], austrumos ar [[Gaigalavas pagasts|Gaigalavas pagastu]], dienvidos ar [[Rikavas pagasts|Rikavas]] un [[Dekšāru pagasts|Dekšāru]] pagastiem, rietumos ar [[Madonas novads|Madonas novada]] [[Barkavas pagasts|Barkavas pagastu]]. Pagasta centrs atrodas [[Nagļi|Nagļos]].
+
+== Daba ==
+Atrodas [[Austrumlatvijas zemiene]]s [[Lubāna līdzenums|Lubāna līdzenumā]], [[Lubāns|Lubāna]] dienvidu piekrastē. Augstākā vieta - [[Īdeņas kalns]] (112,1 m vjl.). Nagļu pagasts ietilpst [[Lubāna mitrāju komplekss|Lubāna mitrāja kompleksā]], kas ir unikāls ar biotopu daudzveidību.
+
+=== Hidrogrāfija ===
+==== Upes un kanāli ====
+* [[Īdeņas kanāls]]
+* [[Maltas - Rēzeknes kanāls]]
+*[[Malta (upe)|Malta]]
+*[[Mežulne]]
+* [[Rēzekne (upe)|Rēzekne]]
+*[[Rēzeknīte upe|Rēzeknīte]]
+* [[Suļka]]
+* [[Vecmalta]]
+
+==== Ezeri ====
+* Pagasta teritorijā atrodas 42 km² no Latvijā lielākā ezera - [[Lubāns|Lubāna]].
+* Teirumnīku purvā atrodas [[Teirumnīku ezers]] (9,9 ha)
+
+==== Purvi ====
+* [[Īdeņas purvs]] (kopplatība 2 333 ha, ap 1 355 ha platībā ierīkoti zivju dīķi). Sadalās smalkāk:
+** Teirumnieka purvs
+** Tīmseņa purvs
+* [[Ļodānu purvs]] (2 204 ha, daļā platības zivju dīķi)
+* daļa no [[Sūļagala purvs|Sūļagala purva]] (kopplatība 1 811 ha)
+
+== Vēsture ==
+1945. gadā [[Rēzeknes apriņķis|Rēzeknes apriņķa]] [[Gaigalavas pagasts|Gaigalavas pagastā]] izveidoja [[Nagļu ciems (Viļānu rajons)|Nagļu]] un Garanču [[ciema padome]]s. '''Garanču ciems''' ietilps [[Viļānu rajons|Viļānu]] (1949-1962) un [[Rēzeknes rajons|Rēzeknes]] (pēc 1962. gada) rajonos. 1954. gadā Garanču ciemam pievienoja likvidētā Nagļu ciema teritoriju. 1962. gadā [[kolhozs|kolhoza]] «Gaigalava» teritoriju pievienoja [[Gaigalavas ciems|Gaigalavas ciemam]]. 1971. gadā Garanču ciemu pārdēvēja par '''Nagļu ciemu'''. 1973. gadā Nagļu ciemam pievienoja daļu [[Rikavas ciems|Rikavas]] un Gaigalavas ciemu teritorijas, 1981. gadā — daļu [[Dekšāres ciems|Dekšāres]] un Rikavas ciemu teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Nagļu pagastu kā administratīvo teritoriju iekļāva [[Rēzeknes novads|Rēzeknes novadā]].
+
+=== Kultūras pieminekļi ===
+Pagasta teritorijā atrodas divi vietējās nozīmes [[Arhitektūras piemineklis|arhitektūras pieminekļi]] un pieci [[Arheoloģiskais piemineklis|arheoloģiskie pieminekļi]] (četri no tiem - valsts nozīmes pieminekļi).<ref>{{Tīmekļa atsauce|url=https://is.mantojums.lv/?id=&title=&type_group=&value_group=&dating=&address=Nag%C4%BCu+pagasts&region=2|title=Nagļu pagasta kultūras pieminekļi|last=|first=|website=is.mantojums|access-date=2021. gada 5. janvārī|date=}}</ref>
+
+==== Valsts nozīmes arheoloģiskie pieminekļi: ====
+
+* Ideņu pilskalns un senkapi (Kara kapi)
+* Lazdavnieku senkapi (Kundziņkalns)
+* Sūļagala apmetne
+* Zvejsalu apmetne
+
+=== Arheoloģiskie izrakumi ===
+* [[Jašubovas apmetne]] - Bronzas laikmeta (1500.-1. g. pr. Kr.) arheoloģisks piemineklis. Izrakumi veikti 1964., 1968. gadā [[Ilze Loze|Ilzes Lozes]] vadībā.
+* Brikuļu nocietinātā apmetne - Agrā Dzelzs laikmeta (1.-5. gadsimts) arheoloģisks piemineklis. Izrakumi veikti Ilzes Lozes un [[Andrejs Vasks|Andreja Vaska]] vadībā 1963., 1973.-1974., 1977.-1979. gadā.
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas pagastā: [[Nagļi]] (pagasta centrs), [[Īdeņa]], [[Ļodāni]].{{Nepilnīga nodaļa}}
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Rēzeknes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Rēzeknes rajons}}
+{{Viļānu rajons}}
+}}
+
+[[Kategorija:Latgale]]
+[[Kategorija:Rēzeknes novada pagasti]]
+[[Kategorija:Nagļu pagasts| ]]
+[[Kategorija:Gaigalavas pagasts]]

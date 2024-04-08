@@ -1,0 +1,4 @@
+:<div class="boilerplate" id="catmore">''Sīkākai informācijai skatīt rakstu '''[[{{{1|{{PAGENAME}}}}}]]'''.''</div><noinclude>
+{{dokumentācija}}
+[[Kategorija:Vikipēdijas uzturēšanas veidnes]]
+</noinclude>

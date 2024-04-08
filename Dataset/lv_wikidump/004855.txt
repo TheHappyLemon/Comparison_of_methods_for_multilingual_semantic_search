@@ -1,0 +1,617 @@
+{{Sporta līgas infokaste
+| nosaukums      = Latvijas Kauss futbolā
+| aktuāla_sezona = 2023. gada Latvijas Kauss futbolā
+| logo           =
+| pikseļi        = 
+| apraksts       = 
+| sports         = [[futbols]]
+| dibin          = 1937
+| moto           = 
+| komandas       = 
+| valsts         = {{LVA}}
+| viet_turn      = [[Latvijas Superkauss futbolā|Latvijas Superkauss]]
+| starpt_turn    = [[UEFA Eiropas līga]]
+| čempions       = [[Riga FC]] <br />([[2023. gada Latvijas Kauss futbolā|2023]]; 2. tituls)
+| čempions_visv  = [[Skonto FC]] (8 tituli)
+| mlapa          = 
+}}
+'''Latvijas kauss futbolā''' ir [[Latvijas Futbola Federācija]]s rīkots izslēgšanas spēļu turnīrs, kurā [[Futbola komanda|futbola komandas]] no [[Latvija]]s cīnās par Latvijas kausu. Tas tika izveidots 1937. gadā [[Rīgas Kauss futbolā|Rīgas Kausa]] vietā.
+
+== Visi kausa ieguvēji ==
+=== Finālspēļu rezultāti ===
+
+{| class="wikitable" 
+! Gads
+! Uzvarētājs
+! 2. vieta
+! Rezultāts
+|- 
+| 1937
+| [[Rīgas Futbolklubs|RFK]]
+| US
+| 2—0
+|- 
+| 1938
+| Rīgas Vilki
+| ASK
+| 3—1
+|- 
+| 1939
+| [[Rīgas Futbolklubs|RFK]]
+| Liepājas Olimpija
+| 5—1
+|-
+| colspan=4 align=center|1940–1942: ''neizspēlēts  padomju okupācijas un Nacistiskās Vācijas iebrukuma dēļ''
+|- 
+| 1943
+| ASK
+| Liepājas Olimpija
+| 0—2; 4—2; 3—0
+|-
+| colspan=4 align=center|1944–1945: ''neizspēlēts  atkārtotās padomju okupācijas dēļ''
+|- 
+| 1946
+| Liepājas Daugava
+| VEF
+| 4—2
+|- 
+| 1947
+| Liepājas Daugava
+| [[FK Daugava Rīga (1944)|Rīgas Daugava]]
+| 2—1
+|- 
+| 1948
+| Liepājas Dinamo
+| Ventspils Dinamo
+| 3—2
+|- 
+| 1949
+| [[Sarkanais Metalurgs (futbola klubs)|Liepājas Sarkanais Metalurgs]]
+| Rīgas Spartaks
+| 4—0
+|- 
+| 1950
+| AVN
+| Liepājas Sarkanais Metalurgs
+| 4—0
+|- 
+| 1951
+| AVN
+| Liepājas Sarkanais Metalurgs
+| 6—2
+|- 
+| 1952
+| AVN
+| Liepājas Sarkanais Metalurgs
+| 4—2
+|- 
+| 1953
+| Liepājas Sarkanais Metalurgs
+| Rīgas Dinamo
+| 4—0
+|- 
+| 1954
+| Liepājas Sarkanais Metalurgs
+| Darba Rezerves
+| 2—2; 5—1
+|- 
+| 1955
+| Liepājas Sarkanais Metalurgs
+| Darba Rezerves
+| 1—1; 4—2
+|- 
+| 1956
+| VEF
+| RER
+| 1—0
+|- 
+| 1957
+| Rīgas Dinamo
+| Liepājas Sarkanais Metalurgs
+| 2—2; 3—2
+|- 
+| 1958
+| RER
+| Tosmāre
+| 1—1; 2—1
+|- 
+| 1959
+| ASK
+| Sloka
+| 7—0
+|- 
+| 1960
+| ASK
+| VEF
+| 1—0
+|- 
+| 1961
+| Brocēnu CŠK
+| Daugavpils
+| 2—1
+|- 
+| 1962
+| LMR
+| Kompresors
+| 1—0
+|- 
+| 1963
+| LMR
+| RTP
+| 2—0
+|- 
+| 1964
+|  Kuldīgas Vulkāns 
+| Tosmāre
+| 5—2
+|- 
+| 1965
+| Baltika
+| Kompresors
+| 2—1
+|- 
+| 1966
+| ASK
+| Baltika
+| 3—0
+|- 
+| 1967
+| [[FK Venta]]
+| Elektrons
+| 2—0
+|- 
+| 1968
+| Brocēnu Starts
+| [[FK Venta]]
+| 3—2
+|- 
+| 1969
+| Elektrons
+| [[FK Venta]]
+| 1—1; 3—1
+|- 
+| 1970
+| Jūrnieks
+| VEF
+| 1—0
+|- 
+| 1971
+| VEF
+| Elektrons
+| 1—0
+|- 
+| 1972
+| Jūrnieks
+| Pilots
+| 1—0
+|- 
+| 1973
+| Pilots
+| Brocēnu Starts
+| 3—2
+|- 
+| 1974
+| Elektrons
+| VEF
+| 1—0
+|- 
+| 1975
+| Lielupe
+| VEF
+| 2—1
+|- 
+| 1976
+| Daugavpils Ķīmiķis
+| Lielupe
+| 1—0
+|- 
+| 1977
+| Elektrons
+| VEF
+| 1—0
+|- 
+| 1978
+| Elektrons
+| Radiotehniķis
+| 3—0
+|- 
+| 1979
+| Daugavpils Ķīmiķis
+| RPI
+| 4—2
+|- 
+| 1980
+| Elektrons
+| Enerģija
+| 2—1
+|- 
+| 1981
+| Elektrons
+| Daugavpils Ķīmiķis
+| 1—0
+|- 
+| 1982
+| Enerģija
+| Torpedo
+| 2—1
+|- 
+| 1983
+| Elektrons
+| Enerģija
+| 1—0
+|- 
+| 1984
+| Rīgas Celtnieks
+| VEF
+| 3—1
+|- 
+| 1985
+| Rīgas Celtnieks
+| VEF
+| 3—0
+|- 
+| 1986
+| Rīgas Celtnieks
+| Gauja
+| 6—0
+|- 
+| 1987
+| VEF
+| Torpedo
+| 0—0, 3—2 (11m)
+|- 
+| 1988
+| [[FK RAF|RAF]]
+| Gauja
+| 1—0
+|- 
+| 1989
+| Torpedo
+| Daugavpils Celtnieks
+| 1—0
+|- 
+| 1990
+| '''[[FK Daugava Rīga (1944)|Rīgas "Daugava"]]'''
+| Apgaismes Tehnika
+| 0—0; 4—2 (11m)
+|- 
+| 1991
+| '''Daugavpils "Celtnieks"'''
+| [[Skonto FC|Forums Skonto]]
+| 0—0; 3—1 (11m)
+|- 
+| 1992
+| '''[[Skonto FC]]'''
+| [[Kompar-Daugava]]
+| 1—0 (pag)
+|- 
+| 1993
+| '''[[FK RAF|RAF]]'''
+| [[FK Pārdaugava]]
+| 1—0
+|- 
+| 1994
+| '''[[FK Olimpija Rīga]]'''
+| DAG
+| 2—0
+|- 
+| 1995
+| '''[[Skonto FC]]'''
+| DAG
+| 3—0
+|- 
+| 1996
+| '''[[FK RAF|RAF]]'''
+| [[Skonto FC]]
+| 2—1 (pag)
+|- 
+| 1997
+| '''[[Skonto FC]]'''
+| [[Dinaburg FC]]
+| 2—1
+|- 
+| 1998
+| '''[[Skonto FC]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 1—0
+|- 
+| 1999
+| '''[[FK Rīga]]'''
+| [[Skonto FC]]
+| 1—1; 6—5 (11m)
+|- 
+| [[2000. gada Latvijas Kauss futbolā|2000]]
+| '''[[Skonto FC]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 4—1
+|- 
+| [[2001. gada Latvijas Kauss futbolā|2001]]
+| '''[[Skonto FC]]'''
+| [[Dinaburg FC]]
+| 2—0
+|- 
+| [[2002. gada Latvijas Kauss futbolā|2002]]
+| '''[[Skonto FC]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 3—0
+|- 
+| [[2003. gada Latvijas Kauss futbolā|2003]]
+| '''[[FK Ventspils]]'''
+| [[Skonto FC]]
+| 4—0
+|- 
+| [[2004. gada Latvijas Kauss futbolā|2004]]
+| '''[[FK Ventspils]]'''
+| [[Skonto FC]]
+| 2—1
+|- 
+| [[2005. gada Latvijas Kauss futbolā|2005]]
+| '''[[FK Ventspils]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 2—1 (pag)
+|- 
+| [[2006. gada Latvijas Kauss futbolā|2006]]
+| '''[[FK Liepājas Metalurgs|Liepājas Metalurgs]]'''
+| [[Skonto FC]]
+| 2—1 (pag)
+|- 
+| [[2007. gada Latvijas Kauss futbolā|2007]]
+| '''[[FK Ventspils]]'''
+| [[JFK Olimps]]
+| 3—0
+|- 
+| [[2008. gada Latvijas Kauss futbolā|2008]]
+| '''[[FC Daugava]]'''
+| [[FK Ventspils]]
+| 1—1; 3—0 (11m)
+|- 
+| [[2009.—2010. gada Latvijas Kauss futbolā|2009—10]]
+| '''[[FK Jelgava]]'''
+| [[FK Jūrmala-VV]]
+| 2—2; 6—5 (11m)
+|- 
+| [[2010.—2011. gada Latvijas Kauss futbolā|2010—11]]
+| '''[[FK Ventspils]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 3—1
+|-
+| [[2011.—2012. gada Latvijas Kauss futbolā|2011—12]]
+| '''[[Skonto FC]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 1—1; 4—3 (11m)
+|-
+| [[2012.—2013. gada Latvijas Kauss futbolā|2012—13]]
+| '''[[FK Ventspils]]'''
+| [[FK Liepājas Metalurgs|Liepājas Metalurgs]]
+| 2—1 (pag)
+|-
+| [[2013.—2014. gada Latvijas Kauss futbolā|2013—14]]
+| '''[[FK Jelgava]]'''
+| [[Skonto FC]]
+| 0—0; 5—3 (11m)
+|-
+| [[2014.—2015. gada Latvijas Kauss futbolā|2014—15]]
+| '''[[FK Jelgava]]'''
+| [[FK Ventspils]]
+| 2—0
+|-
+| [[2015.—2016. gada Latvijas Kauss futbolā|2015—16]]
+| '''[[FK Jelgava]]'''
+| [[FK Spartaks Jūrmala]]
+| 1—0
+|-
+| [[2016.—2017. gada Latvijas Kauss futbolā|2016—17]]
+| '''[[FK Ventspils]]'''
+| [[Riga FC]]
+| 2—2; 6—5 (11m)
+|-
+| [[2017. gada Latvijas Kauss futbolā|2017]]
+| '''[[FK Liepāja]]'''
+| [[Riga FC]]
+| 2—0
+|-
+| [[2018. gada Latvijas Kauss futbolā|2018]]
+| '''[[Riga FC]]'''
+| [[FK Ventspils]]
+| 0—0; 5—4 (11m)
+|- 
+| [[2019. gada Latvijas Kauss futbolā|2019]]
+| '''[[RFS]]'''
+| [[FK Jelgava]]
+| 3—2 (pag)
+|- 
+| [[2020. gada Latvijas Kauss futbolā|2020]]
+| '''[[FK Liepāja]]'''
+| [[FK Ventspils]]
+| 1—0 (pag)
+|- 
+| [[2021. gada Latvijas Kauss futbolā|2021]]
+| '''[[RFS]]'''
+| [[FK Liepāja]]
+| 1—0
+|- 
+| [[2022. gada Latvijas Kauss futbolā|2022]]
+| '''[[FK Auda]]'''
+| [[RFS]]
+| 1—0
+|- 
+| [[2023. gada Latvijas Kauss futbolā|2023]]
+| [[Riga FC|'''Riga FC''']]
+| [[RFS]]
+| 1—1; 5—3 (11m)
+|}
+
+=== Titulētākās komandas ===
+Kopumā 32 komandas kļuvušas par Latvijas Kausa ieguvējiem.
+{| class="wikitable"
+|-
+! width="180px"| Klubs
+! Kausa ieguvējs (reizes)
+! 2. vieta (reizes)
+! Gads
+|-
+| [[Skonto FC|''Skonto Rīga'']]
+|align="center"| 8
+|align="center"| 6
+| 1992, 1995, 1997, 1998, 2000, 2001, 2002, 2012
+|-
+| ''[[Elektrons Rīga]]''
+| rowspan="3" align="center" | 7
+|align="center"| 2
+| 1969, 1974, 1977, 1978, 1980, 1981, 1983
+|-
+| [[FK Ventspils|Ventspils]]
+|align="center"| 3
+| 2003, 2004, 2005, 2007, 2011, 2013, 2017
+|-
+| ''[[FK ASK|ASK Rīga]]''
+|align="center"| 1
+| 1943, 1950, 1951, 1952, 1959, 1960, 1966
+|-
+| ''[[FHK Liepājas Metalurgs|Sarkanais Metalurgs Liepāja]]''
+| rowspan="2" align="center" | 4
+|align="center"| 4
+| 1949, 1953, 1954, 1955
+|-
+| [[FK Jelgava|Jelgava]]
+|align="center"| 1
+| 2010, 2014, 2015, 2016
+|-
+| ''[[VEF Rīga (football)|VEF Rīga]]''
+| rowspan="3" align="center" | 3
+|align="center"| 8
+| 1956, 1971, 1987
+|-
+| ''[[Celtnieks Rīga]]''
+|align="center"| 0
+| 1984, 1985, 1986
+|-
+| ''[[RAF Jelgava]]''
+|align="center"| 0
+| 1988, 1993, 1996
+|-
+|'''[[Riga FC]]'''
+| rowspan="9" align="center" | 2
+| align="center" | 2
+| 2018, 2023
+|-
+| '''[[RFS]]'''
+|align="center"| 2
+| 2019, 2021
+|-
+| '''[[FK Liepāja]]'''
+|align="center"| 1
+| 2017, 2020
+|-
+| ''[[Starts Brocēni]]''
+|align="center"| 1
+| 1961, 1968
+|-
+| ''[[Ķīmiķis Daugavpils]]''
+|align="center"| 1
+| 1976, 1979
+|-
+| ''[[Rīgas FK|RFK Rīga]]''
+|align="center"| 0
+| 1937, 1939
+|-
+| ''[[Daugava Liepāja]]''
+|align="center"| 0
+| 1946, 1947
+|-
+| ''[[LMR Liepāja]]''
+|align="center"| 0
+| 1962, 1963
+|-
+| ''[[FK Jūrnieks|Jūrnieks Rīga]]''
+|align="center"| 0
+| 1970, 1972
+
+|-
+| ''[[FK Liepājas Metalurgs|Liepājas Metalurgs]]''
+| rowspan="18" align="center" | 1
+|align="center"| 7
+| 2006
+|-
+| ''[[FK Venta Ventspils|Jūras Osta Ventspils]]''
+|align="center"| 2
+| 1967
+|-
+| ''[[Enerģija Rīga]]''
+|align="center"| 2
+| 1982
+|-
+| ''[[Torpedo Rīga]]''
+|align="center"| 2
+| 1989
+|-
+|-
+| ''[[FK Dinamo Rīga|Dinamo Rīga]]''
+|align="center"| 1
+| 1957
+|-
+| ''[[Baltika Liepāja]]''
+|align="center"| 1
+| 1965
+|-
+| ''[[Pilots Rīga]]''
+|align="center"| 1
+| 1973
+|-
+| ''[[Lielupe Jūrmala]]''
+|align="center"| 1
+| 1975
+|-
+| ''[[Dinaburg FC|Celtnieks Daugavpils]]''
+|align="center"| 1
+| 1991
+|-
+| ''[[Olimpija Rīga]]''
+|align="center"| 1
+| 1994
+|-
+| ''[[Riga Vanderer|Rīgas Vilki]]''
+|align="center"| 0
+| 1938
+|-
+| ''[[FK Liepājas Metalurgs|Dinamo Liepāja]]''
+|align="center"| 0
+| 1948
+|-
+| ''[[RER Rīga]]''
+|align="center"| 0
+| 1958
+|-
+| ''[[Vulkāns Kuldīga]]''
+|align="center"| 0
+| 1964
+|-
+| ''[[FK Daugava (agrākais)|Daugava Rīga]]''
+|align="center"| 0
+| 1990
+|-
+| ''[[FK Rīga|Rīga]]''
+|align="center"| 0
+| 1999
+|-
+| [[FC Daugava|''Daugava Daugavpils'']]
+|align="center"| 0
+| 2008
+|-
+| '''[[FK Auda|Auda]]'''
+|align="center"| 0
+| 2022
+|-
+|}
+* '''treknraksts''' — klubs spēlē Virslīgā
+* ''slīpraksts'' — klubs vairs neeksistē vai ir apvienojies ar citu komandu
+
+== Ārējās saites ==
+* [http://www.lff.lv/ Latvijas Futbola federācija]
+
+
+{{Latvijas Kausa izcīņas futbolā}}
+{{Futbols Latvijā}}
+
+[[Kategorija:Latvijas Kauss futbolā| ]]
+[[Kategorija:Futbols Latvijā|Kauss]]

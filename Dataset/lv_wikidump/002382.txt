@@ -1,0 +1,55 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 74
+|             6. čaula = 2
+|             5. čaula = 12
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = W
+|             atommasa = 183,84
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>4</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:W-TableImage.svg|250px]]
+|               attēls = [[Attēls:Wolfram evaporated crystals and 1cm3 cube.jpg|220px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Electric bulb filament.jpg|150px]]<br />Volframa stienīši (viens no tiem daļēji oksidējies) ar kristāliem  un 1 cm<sup>3</sup> kubiņš;<br />kvēlojošs spuldzes kvēldiegs
+|  oksidēšanas pakāpes = '''+6''', +5, +4, +3, +2, 0, -1, -2
+|  elektronegativitāte = 2,3
+|              blīvums = 19250
+|  kušanas temperatūra = 3695 K (3422&nbsp;°C)
+| viršanas temperatūra = 5828 K (5555&nbsp;°C)
+}}
+
+'''Volframs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''W''' un [[atomskaitlis|atomskaitli]] 74. Volframs ir viens no cietākajiem un grūti kūstošākajiem [[metāls|metāliem]]. Dabā volframs ir sastopams [[oksīdi|oksīdu]] rūdās. Volframu lieto [[kvēlspuldze|kvēlspuldžu]] [[kvēldiegs|kvēldiegiem]], [[sakausējums|sakausējumiem]] un dažādām sildierīcēm, jo, tam pievadot elektrisko strāvu, tas sakarst. [[Volframa karbīdi]] W<sub>2</sub>C, WC ir ļoti cietas vielas. Savienojumos volframam var būt [[oksidēšanas pakāpe]]s no -2 (ļoti reti) līdz +6 (visbiežāk).
+
+== Vēsture ==
+Volframu 1781. gadā atklāja zviedru ķīmiķis [[Kārlis Vilhelms Šēle]]. 1783. gada beigās brāļi [[Huans Hosē Elujars|Huans Hosē]] (''Juan José'') un [[Fausto Elujars|Fausto Elujari]] (''Fausto Elhuyar'') no Spānijas pirmo reizi ieguva volframu tīrā veidā.
+
+== Atrašanās dabā ==
+Dabā volframs tīrā veidā nav atrodams. Tas ir sastopams [[oksīdi|oksīdu]] rūdās. Visizplatītākie minerāli, kas satur volframu ir [[volframīts]] ((Fe,Mn)WO<sub>4</sub>) un [[šēlīts]] (CaWO<sub>4</sub>). Vairāk nekā 80% no kopējā volframa daudzuma iegūst [[Ķīna|Ķīnā]] (2009. gadā Ķīnā ieguva {{nobr|51 000}} tonnu).
+
+=== Izotopi ===
+Dabā ir sastopami pieci volframa [[izotops|izotopi]], no kuriem divi ir stabili (<sup>182</sup>W un <sup>184</sup>W). Atlikušie trīs izotopi ir [[radioaktivitāte|radioaktīvi]] (<sup>180</sup>W, <sup>183</sup>W un <sup>186</sup>W).<ref name="jlab"/> Visizplatītākais izotops ir volframs–184 (30,64% no kopējā daudzuma dabā).<ref name="jlab"/> Nākamais ir radioaktīvais volframs–186 (28,43%), kura [[pussabrukšanas periods]] ir lielāks par 2,3{{E|19}} gadiem.<ref name="jlab"/> Pēc tam ir volframs–182 (26,50%), kam seko volframs–183 (14,31%) un volframs–180 (0,12%).<ref name="jlab"/> Ir zināmi vēl 33 mākslīgi radioizotopi, kuru [[masas skaitlis]] ir no 157 līdz 194.
+
+=== Bioloģiskā nozīme ===
+Volframs ir ķīmiskais elements ar vislielāko kārtas skaitli Mendeļejeva tabulā, kam ir zināma kāda bioloģiskā nozīme. To bioloģiskajos procesos izmanto dažas [[baktērijas]], bet ne [[eikarioti]].
+
+== Izmantošana ==
+Aptuveni puse no volframa tiek izmantota cietu materiālu ražošanā. Tā kā tam ir augsta [[kušanas temperatūra]], volframu izmanto [[kvēlspuldze|kvēlspuldžu]] kvēldiegu ražošanā. No volframa tiek ražoti arī izturīgi metālu [[sakausējums|sakausējumi]]. Militārismā volframa sakausējumi, parasti ar [[niķelis|niķeli]] un [[dzelzs|dzelzi]] vai [[kobalts|kobaltu]], tiek izmantoti bruņu ražošanā.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso074.html | title= Isotopes of the Element Tungsten | publisher= Jefferson Lab | accessdate= 2014. gada 23. februārī | language= angliski | archiveurl= https://web.archive.org/web/20131205203721/http://education.jlab.org/itselemental/iso074.html | archivedate= 2013. gada 5. Decembris }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

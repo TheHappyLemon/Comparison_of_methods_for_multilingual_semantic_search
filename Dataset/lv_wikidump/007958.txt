@@ -1,0 +1,32 @@
+{{Futbola kluba infokaste|
+nos=Figueirense|
+logo=[[Attēls:Figueirense.png]]|
+pilns=Figueirense Futebol Clube|
+dib=1921|
+stad=Estádio Orlando Scarpelli<br />[[Florianopolisa]], [[Brazīlija]]|
+ietilp=19 908|
+prez={{flaga|Brazīlija}} Nestors Lodeti|
+tren={{flaga|Brazīlija}} [[Marsiu Goianu]]|
+līga=[[Brazīlijas Série B]]|
+sez=2009|
+poz=6.
+ |pattern_la1=_figueira1|pattern_b1=_figueira_home|pattern_ra1=_figueira1|
+  leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=000000|socks1=000000|
+ pattern_la2=|pattern_b2=|pattern_ra2=|
+  leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF|
+ pattern_la3=_figueira3|pattern_b3=_figueira_third|pattern_ra3=_figueira3|
+  leftarm3=FFFFFF|body3=FFFFFF|rightarm3=FFFFFF|shorts3=000000|socks3=000000|
+}}
+
+'''Figueirense Futebol Clube''', zināms arī kā '''Figueirense''', ir [[Brazīlija]]s [[futbols|futbola]] klubs no [[Florianopolisa]]s, [[Santakatarina]]s štatā.
+
+Par kluba augstāko sasniegumu var uzskatīt iekļūšanu 1997. gada [[Brazīlijas kauss futbolā|Brazīlijas kausa]] finālā. Klubs 15 reizes uzvarējis [[Santakatarina]]s štata čempionātā.
+
+== Ārējās saites ==
+* [http://www.figueirense.com.br Figueirense oficiālā vietne]
+* [https://web.archive.org/web/20190521103745/http://gavioesalvinegros.com.br/ Gavioes Alvinegros - fanu lapa]
+
+{{futbols-stub}}
+
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Figueirense Futebol Clube]]

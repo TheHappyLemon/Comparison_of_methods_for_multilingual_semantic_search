@@ -1,0 +1,94 @@
+{{Apdzīvotas vietas infokaste
+| name                      = Ļubļana
+| official_name             = Ljubljana
+| settlement_type           = galvaspilsēta
+| image_skyline             = 
+| image_flag                = Flag of Ljubljana.svg
+| shield_link               = Ļubļanas ģerbonis
+| flag_link                 = Ļubļanas karogs
+| image_shield              = Blason ville si Ljubljana (Slovénie).svg
+| pushpin_map               = Slovenia#Eiropa
+| subdivision_type          = Valsts
+| subdivision_name          = {{flaga|Slovēnija}} [[Slovēnija]]
+| established_title         = Pirmoreiz minēta
+| established_date          = [[1144]]
+| established_title2        = 
+| established_date2         = 
+| established_title3        = 
+| established_date3         = 
+| leader_title              = Mērs
+| leader_name               = Zorans Jankovičs
+| area_total_km2            = 163.8
+| area_land_km2             = 
+| area_water_km2            = 
+| population_as_of          = 2020
+| population_footnotes      = 
+| population_total          = 295504
+| population_metro          = 
+| population_density_km2    = auto
+| timezone                  = [[Centrāleiropas laiks|CET]]
+| utc_offset                = +1
+| timezone_DST              = [[Centrāleiropas laiks|CEST]]
+| utc_offset_DST            = +2
+| latd =46| latm =3| lats =5| latNS = N
+| longd =14| longm =30| longs =20| longEW = E
+| elevation_m               = 298
+| postal_code_type          = 
+| postal_code               = 
+| website                   = {{url|http://www.ljubljana.si}}
+| footnotes                 =
+}}
+
+'''Ļubļana''' ({{val|sl|Ljubljana}}) ir [[Slovēnija]]s galvaspilsēta, kā arī tās galvenais [[finanses|finanšu]] un [[kultūra]]s centrs. Tā atrodas valsts centrālajā daļā, [[Sava]]s pietekas Ļubļanicas krastos.
+
+Pilsētas arhitektūra ievērojama ar savdabīgā arhitekta [[Jože Plečniks|Jožes Plečnika]] darbiem, kura ietekmi uz pilsētas tēlu varētu salīdzināt ar [[Antonio Gaudi]] ietekmi uz [[Barselona|Barselonu]].
+
+== Vēsture ==
+
+Pilsētas apkārtnē atradās [[Senā Roma|romiešu]] pilsēta '''Emona''' (''Colonia Emona (Aemona) Iulia tribu Claudia'').
+
+'''Laibaha''' (''Laibach'') pirmoreiz rakstos pieminēta 1144. gadā. 1220. gada tā ieguva pilsētas tiesības, bet 1335. gadā nonāca [[Hābsburgi|Hābsburgu]] varā.
+
+Hābsburgu impērijā Laibaha bija Karniolas (''Carniola'') ([[slovēņu valoda|slovēņu]]- Kraņskas (''Kranjska''), [[vācu valoda|vācu]]- Krainas (''Krain'')) hercogistes galvaspilsēta.
+
+1809.-1813. gados, [[Napoleona kari|Napoleona karu]] laikā, Laibaha bija [[Francija|franču]] [[Ilīrijas provinces|Ilīrijas provinču]] (''Provinces illyriennes'') galvaspilsēta. 1821. gadā Laibahā notika [[Laibahas kongress]].
+
+Pēc [[Austroungārija]]s sabrukuma 1918. gadā, Ļubļana kļuva par [[Serbu, horvātu un slovēņu karaliste]]s Dravas banovinas centru.
+
+[[Otrais pasaules karš|Otrā pasaules kara]] laikā Ļubļanu 1941. gada aprīlī ieņem [[Itālija]]s karaspēks. Okupācijas gados pilsēta tika apvilkta ar 32 kilometru garu dzeloņstiepļu [[Žogs|žogu]].
+
+Pēc kara Ļubļana kļuva par Slovēnijas sociālistiskās republikas galvaspilsētu, bet 1991. gadā, pēc [[Desmitdienu karš|Desmitdienu kara]], par neatkarīgās Slovēnijas galvaspilsētu.
+
+== Cilvēki ==
+
+Ļubļanā dzimuši:
+
+* [[Janezs Janša]] (''Janez Janša'') (1958-) - politiķis, Slovēnijas premjers (2004-)
+* [[Jože Plečniks]] (''Jože Plečnik'') (1872-1957) - arhitekts
+* [[Frics Pregls]] (''Fritz Pregl'') (1869-1930) - ķīmiķis, [[Nobela prēmija]]
+* [[Stane]] (''Franc Rozman-Stane'') (1911-1944) - leģendārs [[Tito]] partizāns
+* [[Slavojs Žižeks]] (''Slavoj Žižek'') (1949-) - filozofs, sociologs
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Ļubļanas attēlu galerija ==
+<gallery>
+Attēls:Ljubljana Castle.JPG|Ļubļanas pils
+Attēls:Ljubljana BW 2014-10-09 11-34-41.jpg|Rātsnams (''Rotovž'')
+Attēls:StNicholas-Ljubljana.JPG|Romas katoļu baznīcas Svētā Nikolaja katedrāle
+Attēls:Ljubljana - Prešeren Square2.jpg|Prešerena laukums
+Attēls:Ljubljana.jpg|Ļubļana
+</gallery>
+
+{{Eiropas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Slovēnijas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]
+[[Kategorija:Ļubļana| ]]

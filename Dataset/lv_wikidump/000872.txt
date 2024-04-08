@@ -1,0 +1,47 @@
+[[Attēls:Co_ellipse.png|thumb|No atsevišķiem [[kobalts|kobalta]] atomiem izveidota [[elipse]] uz [[varš|vara]] pamatnes. [[Skanējošais tuneļmikroskops|Skanējošā tuneļmikroskopa]] attēls, kas balstīts uz kvantu efektiem]]
+'''Kvantu mehānika''', zināma arī kā '''kvantu fizika''' un '''kvantu teorija''', ir [[teorētiskā fizika|teorētiskās fizikas]] nozare, kas papildina un izlabo{{fact}} [[klasiskā mehānika|klasisko mehāniku]], īpaši [[atoms|atomu]] un [[subatomāra daļiņa|subatomāru daļiņu]] līmenī. Tās nosaukums veidots no termina "[[kvants]]" ({{val|la|quantum}} — ‘cik daudz’), kas [[fizika|fizikā]] tiek lietots, lai apzīmētu mazākās vienības, kurās kaut kas tiek dalīts.
+
+Kvantu mehānikā atšķirībā no klasiskās [[mehānika]]s [[fizikāls ķermenis|ķermenim]] vienā laikā var noteikt vai nu [[ātrums|ātrumu]] vai [[koordinātu sistēma|stāvokli telpā]], bet ne abus vienlaicīgi. Kvantu un klasiskās mehānikas aptuvenu robežu nosaka [[Akcija (fizikāls lielums)|akcijas]] tuvums [[Planka konstante]]i. Kad [[Akcija (fizikāls lielums)|akcijas]] lielums ir tuvs (tātad ļoti mazs) Planka konstantei, klasiskās mehānikas likumi vairs nav piemērojami.<ref>{{Grāmatas atsauce|title=Fizika 12. klasei|last=Šilters|first=Edvīns|publisher=Lielvārds|year=2008|isbn=978-9984-11-264-0|pages=210|first2=Vilnis|last2=Reguts|first3=Austris|last3=Cābelis|first4=Ilgonis|last4=Vilks}}</ref>
+
+Kvantu fizikas pamats ir [[Šrēdingera vienādojums]].<ref name="Mārcis Auziņš"/>
+
+== Kvantu fizikas pamatprincipi ==
+Kvantu fizika balstās uz vairākiem pamatprincipiem. Nozīmīgākie no tiem ir šādi:
+* [[Heizenberga nenoteiktība]]s princips,
+* kvantu informācijas nenoteiktība ([[koherence]]),
+* daudzdaļiņu sapinums (nelokalitāte jeb sapītais stāvoklis).
+
+== Vēsture ==
+[[Attēls:Max Planck.png|thumbnail|150px|Makss Planks tiek uzskatīts par kvantu mehānikas "tēvu"]]
+Fizikā 18. gadsimtā pastāvēja uzskats, ka [[gaisma]] ir īpašu daļiņu plūsma. Šāds priekšstats par gaismas dabu bija arī [[Īzaks Ņūtons|Īzakam Ņūtonam]] un viņa laikabiedriem.
+
+[[Elektromagnētiskais lauks|Elektromagnētiskā lauka]] teorijā [[Džeimss Maksvels]] un [[Heinrihs Rudolfs Hercs]] pierādīja, ka gaismas viļņi ir elektromagnētiskā lauka svārstības, kas izplatās [[vakuums|vakuumā]] vai [[viela|vielā]]. Par kvantu mehānikas pirmsākumu uzskata vācu fiziķa [[Makss Planks|Maksa Planka]] 1900. gadā publicēto darbu par sakarsētu ķermeņu starojumu. Tajā bija daudzas pretrunas ar klasisko mehāniku, tāpēc Planks ieviesa jēdzienu kvants. Kvantu teoriju tālāk attīstīja ne tikai Makss Planks, bet daudzi citi zinātnieki, piemēram, [[Alberts Einšteins]] un [[Nilss Bors]]. Tā, pamatojoties uz eksperimentiem, kuri apstiprināja kvantu pastāvēšanu, tika apvienoti viļņu un daļiņu priekšstati par gaismu un elektromagnētisko starojumu. Mūsdienu kvantu mehānikā uzskata, ka starojums ir elektromagnētiskais lauks, kas vakuumā izplatās kā viļņi ar [[gaismas ātrums|gaismas ātrumu]] c, un starojuma enerģija ir kvantēta. Katram enerģijas kvantam ir [[inerce]] — [[masa]] m un [[impulss]] p. Kvanta enerģija, masa un impulss mainās atkarībā no elektromagnētiskā [[viļņa garums|viļņa garuma]] λ jeb tam atbilstošās [[frekvence]]s ν. Sakarības starp šiem lielumiem ir kvantu fizikas pamatformulas:
+
+::{{math|1=''E'' = ''mc''{{smallsup|2}}}}
+::{{math|1=''E'' = ''hν''}}
+
+kur ''h'' ir [[Planka konstante]].
+
+[[Alberts Einšteins]] 1905. gadā, izmantojot kvantu hipotēzi, veiksmīgi spēja izskaidrot [[fotoelektriskais efekts|fotoelektrisko efektu]]. Attīstot tālāk Planka ideju, Einšteins pieņēma, ka emitētie kvanti arī pēc emisijas izturas kā patstāvīgi fizikāli objekti. Par šo skaidrojumu Einšteins 1921. gadā saņēma [[Nobela prēmija fizikā|Nobela prēmiju fizikā]]. 1913. gadā [[Nilss Bors]], balstoties uz iepriekšējiem pētījumiem kvantu fizikas jomā, izveidoja [[Bora atoma uzbūves modelis|atoma uzbūves modeli]].
+
+1924. gadā franču fiziķis [[Luijs de Brojī]] izvirzīja ideju, ka [[matērija]]s daļiņām ir [[vilnis|viļņu]] īpašības, tā sauktais [[de Brojī vilnis]]. Tas bija jauns etaps kvantu mehānikā. 1925. gadā šveiciešu fiziķis [[Volfgangs Pauli]] kvantu mehānikā ieviesa [[spins|spina]] jēdzienu. 1926. gadā austriešu fiziķis [[Ervīns Šrēdingers]] formulēja matemātisku vienādojumu, kam pakļaujas de Brojī viļņi. Tas ir zināms kā [[Šrēdingera vienādojums]], kas ir visplašāk izmantotais vienādojums kvantu mehānikā. 1927. gadā vācu fiziķis [[Verners Heizenbergs]] formulēja tā saukto [[Heizenberga nenoteiktība]]s principu. 1932. gadā viņš saņēma [[Nobela prēmija fizikā|Nobela prēmiju fizikā]] "par kvantu mehānikas radīšanu".<ref name="Nobel Prize"/>
+
+Vieni no pirmajiem, kas pētīja kvantu parādības dabā, bija [[Arturs Komptons]], [[Čandrasekhara Venkata Rāmans]] un [[Pīters Zēmanis]]. Katra vārdā ir nosaukts viens no efektiem — [[Komptona efekts]], [[Rāmana efekts]] un [[Zēmaņa efekts]].
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Mārcis Auziņš">{{tīmekļa atsauce | author= Mārcis Auziņš | url= http://marcisauzins.lv/en/content/kvantu-fizika-raksts-latvijas-nacionalajai-enciklopedijai-neredigets | title= Kvantu fizika (Raksts Latvijas Nacionālajai enciklopēdijai, nerediģēts) | accessdate= 2016. gada 25. maijā | archive-date= {{dat|2016|09|07||bez}} | archive-url= https://web.archive.org/web/20160907201404/http://marcisauzins.lv/en/content/kvantu-fizika-raksts-latvijas-nacionalajai-enciklopedijai-neredigets }}</ref>
+<ref name="Nobel Prize">{{tīmekļa atsauce | url= http://www.nobelprize.org/nobel_prizes/physics/laureates/1932/ | title= The Nobel Prize in Physics 1932 | publisher= Nobel Foundation | accessdate= 2016. gada 25. maijā}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{tīmekļa atsauce | author= Vjačeslavs Kaščejevs | url= http://www1.cfi.lu.lv/teor/kashcheyevs/konspekti/Teor_fiz_el_QM.pdf | title= Teorētiskās fizikas elementi: kvantu mehānika | format= [[portatīvā dokumenta formāts|.pdf]]}}
+* {{tīmekļa atsauce | author= Mārcis Auziņš | url= http://marcisauzins.lv/en/content/kvantu-fizika-raksts-latvijas-nacionalajai-enciklopedijai-neredigets | title= Kvantu fizika (Raksts Latvijas Nacionālajai enciklopēdijai, nerediģēts) | access-date= {{dat|2016|05|24||bez}} | archive-date= {{dat|2016|09|07||bez}} | archive-url= https://web.archive.org/web/20160907201404/http://marcisauzins.lv/en/content/kvantu-fizika-raksts-latvijas-nacionalajai-enciklopedijai-neredigets }}
+* {{tīmekļa atsauce | author= Kārlis Podnieks | url= http://podnieks.id.lv/slides/physics/Podnieks_KvMeh.pdf | title= Kvantu mehānika: matemātiķu piedzīvojumi (lekcijas 2008. gada novembrī un decembrī) | format= [[portatīvā dokumenta formāts|.pdf]]}}
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kvantu mehānika| ]]

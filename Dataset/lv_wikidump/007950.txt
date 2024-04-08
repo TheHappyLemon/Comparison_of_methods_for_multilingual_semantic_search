@@ -1,0 +1,19 @@
+<div style="float:left;border:solid #B7B7B7 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#E8E8E8"
+|style="width:45px;height:45px;background:#B7B7B7;text-align:center;font-size:14pt"| '''[[Latgaliešu valoda|ltg]]-0'''
+|style="font-size:8pt;padding:4pt;line-height:1.25em"| Itys lītuotuojs '''[[:Kategorija:User ltg|latgaļu volūdys]]''' '''[[:Kategorija:User ltg-0|namuok]]''' (ci saprūt ar lelim gryutumim).
+|}</div><includeonly>
+[[Kategorija:User ltg-0|{{PAGENAME}}]]
+</includeonly><noinclude>
+{{-}}
+== Lietojums ==
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User ltg-0]]
+
+== Skatīt arī ==
+* [[Veidne:User ltg-1|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|ltg-0]]
+
+</noinclude>

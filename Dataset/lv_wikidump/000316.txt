@@ -1,0 +1,83 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Udzima wa Komori''<br />''Union des Comores''<br />{{ara|الاتحاد القمري}}
+|    pilnais_valsts_nosaukums = Komoru Savienība
+|            valsts_nosaukums =
+|               karoga_attēls = Flag of the Comoros.svg
+|            karoga_nosaukums = Komoru karogs
+|              ģerboņa_attēls = Seal of the Comoros.svg
+|           ģerboņa_nosaukums = Komoru ģerbonis
+|             ģerboņa_platums = 100px
+|                valsts_himna = ''[[Komoru himna|Udzima wa ya Masiwa]]''
+|               kartes_attēls = Location_Comoros_AU_Africa.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Moroni]]
+| latd=11 | latm=45 | latNS=S | longd=43 | longm=12 | longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[komoriešu valoda]],<br />[[franču valoda]],<br />[[arābu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Federāla republika]]
+|        valsts_galvas_tituls = [[Komoru prezidents|Prezidents]]
+|                valsts_galva = [[Azali Assoumani]]
+|       valsts_galvas_tituls2 = 
+|               valsts_galva2 = 
+|        neatkarības_iegūšana = [[Komoru vēsture|Neatkarība]]
+|         neatkarības_piezīme = 
+|        neatkarības_notikums = no [[Francija]]s
+|          neatkarības_datums = {{dat|1975|7|6}}
+|       neatkarības_notikums2 = 
+|         neatkarības_datums2 = 
+|                 platība_km2 = 2235
+|               platība_rangs = 
+|              procenti_ūdens = 
+|          iedzīvotāju_skaits = 798 000
+|     iedzīvotāju_skaita_gads = 2010
+|    iedzīvotāju_skaits_rangs = 
+|    apdzīvotības_blīvums_km2 = 357
+|  apdzīvotības_blīvums_rangs = 
+|                     IKP_PPP = $830 miljoni
+|                IKP_PPP_gads = 2011
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $1220
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{palielinājās}} 0,433
+|                    HDI_gads = 2011
+|              HDI_kategorija = <span style="color:#fc0;">zems</span>
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Komoru franks]]
+|                valūtas_kods = KMF
+|                  laika_zona = [[EAT]]
+|                  utc_offset = +3
+|              laika_zona_DST = nav
+|              utc_offset_DST = +3
+|                      domēns = [[.km]]
+|              tālsarunu_kods = 269
+|                iso_kods_num = 174
+|              iso_kods_alfa2 = KM
+|              iso_kods_alfa3 = COM
+}}
+
+'''Komoras''', oficiāli '''Komoru Savienība''' ([[Komoriešu valoda|Komoriešu]]: ''Udzima wa Komori,'' {{val|fr|Union des Comores}}, {{val|ar|الاتحاد القمري}}, ''{{transl|ar|DIN|al-Ittiḥād al-Qumurī/Qamarī}}''), ir salu valsts [[Indijas okeāns|Indijas okeānā]], netālu no [[Āfrika]]s austrumu krasta. Oficiāli Komoru Savienība sastāv no četrām [[Komoru salas (arhipelāgs)|Komoru arhipelāga]] salām — [[Nazidža]]s, [[Mvali]], [[Nzvani]] un [[Majota]]s —, taču faktiski Majota ir Francijas aizjūras departaments un nekad nav bijusi Komoru Savienības sastāvā.
+
+== Saimniecība ==
+Komoru [[saimniecība]] lielā mērā ir atkarīga no ārzemēs dzīvojošo iedzīvotāju [[kapitālieguldījumi]]em un atbalsta, 2014. gadā šie emigrantu naudas pārvedumi veidoja 20,2% no [[IKP]], šis rādītājs bija devītais augstākais no visām valstīm.<ref>{{tīmekļa atsauce|title=Migration and Remittances Factbook 2016|url=http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|publisher=[[Pasaules Banka]]|accessdate={{dat|2016|12|12||bez}}|date=2016|archiveurl=https://web.archive.org/web/20161130164818/http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/4549025-1450455807487/Factbookpart1.pdf|archivedate={{dat|2016|11|30||bez}}}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika-aizmetnis}}
+
+{{Arābu līga}}
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Komoras| ]]

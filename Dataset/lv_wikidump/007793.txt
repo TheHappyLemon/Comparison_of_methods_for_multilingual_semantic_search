@@ -1,0 +1,87 @@
+{{Latvijas novada infokaste
+| nosaukums         = Ābeļu pagasts
+| karte             = Ābeļu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Ābeļu pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Ābeļu pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Brodi
+| platība           = 126,67
+| iedzīvotāji       = 995<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 995 / 126.67 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Ābeļu pagasts''' ir teritoriāla vienība [[Jēkabpils novads|Jēkabpils novadā]] uz dienvidaustrumiem no [[Jēkabpils]], [[Sēlija]]s ziemeļrietumos. Robežojas ar sava novada [[Jēkabpils]] pilsētu un [[Dignājas pagasts|Dignājas]], [[Kalna pagasts|Kalna]], [[Salas pagasts (Salas novads)|Salas]], [[Kūku pagasts|Kūku]] un [[Vīpes pagasts|Vīpes]] pagastiem, kā arī [[Līvānu novads|Līvānu novada]] [[Turku pagasts|Turku pagastu]].
+
+== Daba ==
+=== Reljefs ===
+==== Reljefa formas ====
+[[Darvas kalni]], [[Kundziņkalns]]
+
+=== Hidrogrāfija ===
+Upes: [[Aldaunīca]], [[Barana grāvis]], [[Barans]], [[Bišu grāvis]], [[Daugava]], [[Drēģu grāvis]], [[Jesperu grāvis]], [[Kārklupīte (Reiņupītes pieteka)|Kārklupīte]], [[Kumiņš]], [[Liepu purva grāvis]], [[Pelīte]], [[Rāviju grāvis]], [[Reiņupīte]], [[Smiltes grāvis]], [[Stirnu strauts]], [[Vārzgūne (upe)|Vārzgūne]], [[Ziemeļsusēja]].
+
+Pagasta teritorijā Daugavā atrodas [[Ābeļu salas]], daļa no [[Drēģu saliņas|Drēģu saliņām]], [[Luģenieku krāce]], [[Reiņu sala]].
+
+Purvi: [[Griežu purvs]], [[Jesperu pūrs]], [[Kraukļu purvs]], [[Liepu purvs]], [[Lācaine]], [[Medņa purvs]], [[Tārpu purvs]], [[Vaivaru purvs]]
+
+== Vēsture ==
+Mūsdienu Ābeļu pagasta teritorijā vēsturiski atradās [[Ābeļu muiža]] (''Gut Abelhof'', [[Ābeļi (Ābeļu pagasts)|Ābeļi]]), [[Janopoles muiža]] (''Gut Janopol'', [[Brodi]]).
+
+19. gadsimtā [[Daugava]]s kreisajā krastā ap [[Jēkabpils|Jēkabpili]] tika izveidots '''Salas pagasts''', ko 1925. gadā pārdēvēja par Ābeļu pagastu. 1935. gadā tā platība bija 199 km² un tajā dzīvoja 2532 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Ābeļu, [[Ezera ciems|Ezera]] un [[Salas pagasts (Salas novads)|Salas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Jēkabpils rajons|Jēkabpils rajona]] '''Ābeļu ciemam''' 1954. gadā pievienoja [[Drēģu ciems|Drēģu ciema]] [[kolhozs|kolhoza]] «Padomju Dzimtene» teritoriju, 1977. gadā — daļu [[Kalna ciems|Kalna ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Ābeļu pagastu kā administratīvo teritoriju iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Brodi]] (pagasta centrs), [[Ābeļi (Ābeļu pagasts)|Ābeļi]], [[Ķeikāni]], [[Laši (Ābeļu pagasts)|Laši]], [[Nagļi (Ābeļu pagasts)|Nagļi]], [[Piļkas (Ābeļu pagasts)|Piļkas]], [[Platačkalns]], [[Rubuļkalns]], [[Saldes]], [[Silacaunes]], [[Sīļukalns (Ābeļu pagasts)|Sīļukalns]], [[Veselība (Ābeļu pagasts)|Veselība]].
+
+=== Ievērojamas personības ===
+* [[Jānis Akuraters]] (1876—1937) — rakstnieks
+* [[Jānis Zvaigzne]] (1892—1954) — [[Latvijas Bruņotie spēki|Latvijas Bruņoto spēku]] virsnieks
+
+== Saimniecība ==
+=== Transports ===
+Ābeļu pagasta ziemeļrietumu nomalē atrodas autoceļš [[P75]] ([[Jēkabpils]] — Lietuvas robeža ([[Nereta]])).
+
+== Izglītība un kultūra ==
+[[Ābeļi (Ābeļu pagasts)|Ābeļos]] atrodas [[Ābeļu pamatskola]], bet [[Brodi|Brodos]] - [[Ābeļu bibliotēka]], [[Ābeļu pagasta muzejs]] un [[Ābeļu tautas nams]].
+
+== Apskates vietas ==
+{{div col}}
+*dabas liegums [[Ābeļi (dabas liegums)|Ābeļi]]
+*[[Ābeļu pagasta muzejs]]
+*[[Kaupres pilskalns]]
+*[[Piemineklis Jānim Akurateram]]
+{{div col end}}
+
+=== Arheoloģijas pieminekļi ===
+{{div col}}
+*Barankroga senkapi
+*Delvenieku senkapi
+*Kauprenieku senkapi
+*[[Kaupres pilskalns]]
+*Reiņu senkapi un apmetne
+*Smilktiņu senkapi
+{{div col end}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Jēkabpils rajons}}
+{{Jēkabpils apriņķis}}
+}}
+
+{{DEFAULTSORT:Abelzu pagasts}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Ābeļu pagasts| ]]

@@ -1,0 +1,48 @@
+{{Upes infokaste 
+| nosaukums         = Drvenca
+| citvaloda         = pl
+| oriģinālnosaukums = Drwęca
+| attēls            = Brodnica.jpg
+| attēla_izmērs     = 
+| paraksts          = 
+| vietaskarte       = Polija
+| reljefs = jā
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Mazūrijas ezeraine]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Visla]]
+| baseina_valstis   = 
+| tek_caur          = {{POL}}
+| garums            = 253 
+| iztekas_augstums  = 191
+| ietekas_augstums  = 36
+| kritums           = 
+| caurtece          = 
+| caurtece_vieta    = 
+| gada_notece       = 
+| baseins           = 5536
+| baseins_latvijā   = 
+| pietekas          = [[Vela]]
+| sāk_plat_d=53 | sāk_plat_m=32 | sāk_plat_s=21 | sāk_plat_NS=N 
+| sāk_gar_d=20 | sāk_gar_m=11 | sāk_gar_s=30 | sāk_gar_EW=E 
+| iet_plat_d=52 | iet_plat_m=59 | iet_plat_s=57 | iet_plat_NS=N 
+| iet_gar_d=18 | iet_gar_m=41 | iet_gar_s=23 | iet_gar_EW=E
+}}
+'''Drvenca''' ({{val-pl|Drwęca}}) ir upe [[Polija]]s ziemeļos, [[Visla]]s labā krasta pieteka. Sākas Mazūru ezeru augstienē. Ietek Vislā 10 km augšpus [[Toruņa]]s. Savienota pa kanālu ar [[Elblonga|Elblongu]]. Dabas rezervāts un populārs ūdenstūrisma maršruts.<ref>{{PZT|181}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vislas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Kujāvijas-Pomožes vojevodiste]]
+[[Kategorija:Varmijas-Mazūrijas vojevodiste]]

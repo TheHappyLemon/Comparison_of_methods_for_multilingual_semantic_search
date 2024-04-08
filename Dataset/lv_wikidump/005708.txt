@@ -1,0 +1,73 @@
+{{nosaukums slīprakstā|string=Tour de France}}
+'''1998. gada Tour de France''' bija jau 84. [[Tour de France]] daudzdienu velobrauciens, kurš notika no 1998. gada 5. līdz 27. jūlijam. Velobraucienā uzvarēja vācietis [[Jans Ulrihs]].
+
+== Rezultāti ==
+[[Attēls:Ullrich in Jena.jpg|right|thumb|350px|Velobrauciena uzvarētājs [[Jans Ulrihs]].]]
+=== Kopvērtējums ===
+{| class="wikitable"
+!Vieta!!Vārds!!Valsts!!Komanda!!Laiks
+|- bgcolor="yellow"
+|1 
+|'''[[Jans Ulrihs]]''' || '''[[Attēls:Flag of Germany.svg|20px|]] [[Vācija]]''' || ''' ''[[Team Telekom]]'' ''' ||align=right|'''100st 30' 35"'''
+|- bgcolor="pink"
+|2 || [[Rišārs Viranks]] || [[Attēls:Flag of France.svg|20px|]] [[Francija]] || ''[[Festina]]'' ||align=right| 9' 09"
+|-
+|3 || [[Marko Pantāni]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] || ''[[Mercatone Uno]]'' ||align=right| 14' 03"
+|- 
+|4 || [[Abrahams Olano]] || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Banesto]]'' ||align=right| 15' 55"
+|-
+|5 || [[Fernando Eskartins]]  || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Kelme (komanda)|Kelme]]'' ||align=right| 20' 32"
+|-
+|6 || [[Frančesko Kasagrande]]  || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] || ''[[Saeco (komanda)|Saeco]]'' ||align=right| 22' 47"
+|- 
+|7 || [[Bjarne Rīss]] || [[Attēls:Flag of Denmark.svg|20px|]] [[Dānija]] || ''[[Team Telekom]]'' ||align=right| 26' 34"
+|- 
+|8 || [[Hosē Marija Himenezs]]  || [[Attēls:Flag of Spain.svg|20px|]] [[Spānija]] || ''[[Banesto]]'' ||align=right| 31' 13"
+|- 
+|9 || [[Lorēns Dufo]] || [[Attēls:Flag of Switzerland.svg|20px|]] [[Šveice]] || ''[[Festina]]'' ||align=right| 31' 55"
+|-
+|10 || [[Roberto Konti]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] || ''[[Mercatone Uno]]'' ||align=right| 32' 26"
+|}
+
+=== Punkti ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Punkti
+|- bgcolor="limegreen"
+|'''1'''||'''[[Ēriks Cābels]]'''||'''[[Attēls:Flag of Germany.svg|20px|]] [[Vācija]]'''||''' ''[[Team Telekom]]'' '''||align="right"| '''350'''
+|-
+|2||[[Frederiks Monkasēns]]||[[Attēls:Flag of France.svg|20px|]] [[Francija]]||''[[GAN]]''||align="right"| 223
+|-
+|3||[[Mario Traversoni]] || [[Attēls:Flag of Italy.svg|20px]] [[Itālija]] || ''[[Mercatone Uno]]'' ||align=right| 198
+|}
+
+=== Kalnu karaļa tituls ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Punkti
+|- bgcolor="pink"
+|'''1'''||'''[[Rišārs Viranks]]'''||'''[[Attēls:Flag of France.svg|20px|]] [[Francija]]'''||''' ''[[Festina]]'' '''||align="right"|'''579'''
+|- bgcolor="yellow"
+|2||[[Jans Ulrihs]] || [[Attēls:Flag of Germany.svg|20px|]] [[Vācija]] || ''[[Team Telekom]]'' ||align=right|328
+|- 
+|3||[[Frančesko Kasagrande]]  || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] || ''[[Saeco (komanda)|Saeco]]'' ||align=right|309
+|}
+
+=== Labākais jaunais braucējs ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Komanda!!Laiks
+|- bgcolor="yellow"
+|'''1'''||'''[[Jans Ulrihs]]'''||'''[[Attēls:Flag of Germany.svg|20px|]] [[Vācija]]'''||''' ''[[Team Telekom]]'' '''||align=right| '''100st 30' 35"'''
+|- 
+|2||[[Pīters Lutenbergers]]||[[Attēls:Flag of Austria.svg|20px|]] [[Austrija]]||''[[Rabobank (komanda)|Rabobank]]''||align="right"| 45' 39"
+|-
+|3||[[Mihaēls Bugerds]] || [[Attēls:Flag of the Netherlands.svg|20px|]] [[Nīderlande]] || ''[[Rabobank (komanda)|Rabobank]]''||align=right| 1st 00' 33"
+|}
+
+{{Tour de France}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:1997. gads sportā]]
+[[Kategorija:Tour de France|1997]]

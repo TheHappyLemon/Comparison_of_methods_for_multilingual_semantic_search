@@ -1,0 +1,61 @@
+{{Sporta izlases infokaste
+ | valsts         = Beļģija
+ | valsts_angl    = 
+ | att_izm        = 
+ | logo           = 
+ | logo_izm       = 
+ | dibin          = 
+ | federācija     = 
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 40.
+ | rangs max      = 32.
+ | rangs max date = pirmoreiz 2005.
+ | rangs min      = 40.
+ | rangs min date = 2023.
+ | iesauka        =	
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = {{flaga|NED}} [[Džefrijs Van Jērsels]]
+ | pers01         = 
+ | pers01_vārds   = 
+ | kapteinis      = [[Džordans Pauļus]]
+ | visv spēles    = [[Tims Voss]] (98)
+ | visv vārtu     = [[Vincents Morgans]] (36)
+ | visv punktu    = [[Mičs Morgans]]<br>[[Vincents Morgans]] (78)
+<!--- OS --->
+ | OS reizes      = 4
+ | OS medaļas     = 
+ | OS lab sasn    = 7. vieta
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 53
+ | PČ medaļas     = 
+ | PČ lab sasn    = 7. vieta
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{ih|FRA}} 1—0 {{ih-rt|BEL}}<br />([[Šamonī]], [[Francija]]; {{dat|1909|1|23|N}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih|BEL}} 21—2 {{ih-rt|NZL}}<br />([[Gīla|Gīlā]], [[Beļģija|Beļģijā]]; {{dat|1989|3|21|N}})
+ | liel zaud      = {{ih|UKR}} 37—2 {{ih-rt|BEL}}<br />([[Bleda|Bledā]], [[Slovēnija|Slovēnijā]]; {{dat|1993|3|13|N}})
+ | pašreizējais   = 
+}}
+
+'''Beļģijas hokeja izlase''' ir komanda, kas pārstāv [[Beļģija|Beļģiju]] starptautiskajās [[hokejs|hokeja]] spēlēs. Šobrīd tā atrodas 40. vietā [[IIHF|Starptautiskās hokeja federācijas]] rangā.<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2023 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2023|5|30||bez}}}}</ref> Tā ir 1913. gada [[Eiropas čempionāts hokejā|Eiropas čempione]], 1927. gada 2. vietas ieguvēja, kā arī 1910. un 1911. gada bronzas medaļas ieguvēja.
+2023. gadā tā bija iedalīta [[IIHF]] Pasaules čempionāta [[2023. gada Pasaules čempionāta hokejā 2. divīzija#B grupa|IIB divīzijā]].
+== Atsauces ==
+{{atsauces}} 
+
+{{Hokejs-aizmetnis}}
+{{Hokejaizlases}}
+
+[[Kategorija:Hokejs Beļģijā]]
+[[Kategorija:Eiropas hokeja izlases]]

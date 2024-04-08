@@ -1,0 +1,252 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''República Portuguesa''
+|    pilnais_valsts_nosaukums = Portugāles Republika
+|            valsts_nosaukums = Portugal  
+|               karoga_attēls = Flag of Portugal.svg
+|            karoga_nosaukums = Portugāles karogs
+|              ģerboņa_attēls = Coat of arms of Portugal.svg  
+|           ģerboņa_nosaukums = Portugāles ģerbonis
+|             ģerboņa_platums = 115px
+|                 valsts_moto = 
+|                valsts_himna = ''[[A Portuguesa]]''<br />tulk. "Dziesma Portugālei"
+|               kartes_attēls = EU-Portugal.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Lisabona]]<sup>5</sup>
+| latd=38 |latm=46 |latNS=N |longd=9 |longm=11 |longEW=W
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[portugāļu valoda]]<sup>1</sup>
+|             etniskās_grupas = [[portugāļi]] 96,87%<br />legāli imigranti 3,13% ([[Kaboverde|kaboverdieši]], [[Brazīlija|brazīļi]], [[ukraiņi]], [[Angola|angoļi]] un citi)<ref>[http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main INE], Statistics Portugal</ref>
+|        etniskās_grupas_gads = 2007
+|              valsts_iekārta = [[Parlamentāra republika]]<sup>6</sup>
+|        valsts_galvas_tituls = [[Portugāles prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Marselu Rebelu de Souza]]
+|       valsts_galvas_tituls2 = [[Portugāles premjerministru uzskaitījums|Premjerministrs]]
+|               valsts_galva2 = [[Antoniu Košta]]
+|        neatkarības_iegūšana = Izveide
+|         neatkarības_piezīme = <small>Vispārpieņemtais valsts izveides gads ir 1139. gads</small>
+|                    dibināta = 
+|        neatkarības_notikums = [[Condado de Portucale|Dibināšana]]
+|          neatkarības_datums = {{dat|868}}
+|       neatkarības_notikums2 = [[Condado Portucalense|Atkārtota dibināšana]]
+|         neatkarības_datums2 = {{dat|1095}}
+|       neatkarības_notikums3 = [[São Mamede kauja|''De facto'' neatkarība]]  
+|         neatkarības_datums3 = {{dat|1128|6|24}}
+|       neatkarības_notikums4 = '''[[Portugāles karaliste|Karaliste]]'''
+|         neatkarības_datums4 = '''{{dat|1139|7|25}}'''
+|       neatkarības_notikums5 = [[Samoras līgums|Atzīta]]
+|         neatkarības_datums5 = {{dat|1143|10|5}}
+|       neatkarības_notikums6 = [[Manifestis Probatum|Pāvesta atzinums]]
+|         neatkarības_datums6 = {{dat|1179}}
+|          iestāšanāsESdatums = {{dat|1986|1|1}}
+|                 platība_km2 = 92 345
+|               platība_rangs = 110.
+|              procenti_ūdens = 0,5
+|     iedzīvotāju_skaita_gads = 2009
+|          iedzīvotāju_skaits = 10 707 924<ref>{{Tīmekļa atsauce | url= https://www.cia.gov/library/publications/the-world-factbook/geos/po.html | title= Portugal | publisher= CIA - The World Factbook | accessdate= 2009-11-28 | archive-date= 2020-05-19 | archive-url= https://web.archive.org/web/20200519213218/https://www.cia.gov/library/publications/the-world-factbook/geos/po.html }}</ref>
+|    iedzīvotāju_skaits_rangs = 75.
+|    apdzīvotības_blīvums_km2 = 114
+|  apdzīvotības_blīvums_rangs = 87.
+|                     IKP_PPP = $232 miljardi
+|                IKP_PPP_gads = 2006
+|               IKP_PPP_rangs = 40.
+|          IKP_PPP_per_capita = $23 464
+|    IKP_PPP_per_capita_rangs = 34.
+|                         HDI = {{palielinājās}}0,866
+|                    HDI_gads = 2021
+|              HDI_kategorija = <font color=#009900>augsts</font>
+|                   HDI_rangs = 38.
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Eiro]]<sup>2</sup>
+|                valūtas_kods = EUR
+|                  laika_zona = [[Rietumreiropas laiks|WET]]<sup>3</sup>
+|                  utc_offset = +0
+|              laika_zona_DST = [[Rietumreiropas vasaras laiks|WEST]]
+|              utc_offset_DST = +1
+|                      domēns = [[.pt]]<sup>4</sup>
+|              tālsarunu_kods = 351
+|                iso_kods_num = 620
+|              iso_kods_alfa2 = PT
+|              iso_kods_alfa3 = PRT
+|                    piezīme1 = [[Mirandiešu valoda]], kurā runā dažos ciemos  [[Miranda do Douro]] municipalitātē, tika oficiāli atzīta 1999. gadā (''Lei n.° 7/99 de 29 de Janeiro'').<ref>[http://ec.europa.eu/education/policies/lang/languages/langmin/euromosaic/pt1_en.html#13 The Euromosaic study, Mirandese in Portugal] {{Webarchive|url=https://web.archive.org/web/20070313113715/http://ec.europa.eu/education/policies/lang/languages/langmin/euromosaic/pt1_en.html#13 |date={{dat|2007|03|13||bez}} }}, europa.eu - European Commission website, accessed January 2007.</ref> Tiek atzīta arī [[Portugāļu zīmju valoda]].
+|                    piezīme2 = Pirms 1999: [[Portugāles eskudo]].
+|                    piezīme3 = [[Azoras]]: [[Universālais koordinētais laiks|UTC]]-1; UTC [[Eiropas vasaras laiks|vasarā]].
+|                    piezīme4 = Arī [[.eu]], kopā ar citām [[Eiropas Savienība]]s dalībvalstīm.
+|                    piezīme5 = No 1139. līdz 1260. gadam galvaspilsēta bija [[Koimbra]].
+|                    piezīme6 = Šībrīža pārvaldes forma tika izveidota [[Neļķu revolūcija|Neļķu revolūcijā]] {{dat|1974|4|25}}, kas izbeidza [[Estado Novo (Portugāle)|Estado Novo]] autoritāro režīmu.
+}}
+
+'''Portugāle''' ({{val|pt|Portugal}}), oficiāli '''Portugāles Republika''' (''República Portuguesa''), ir [[Dienvideiropa]]s valsts, kas atrodas [[Pireneju pussala|Pireneju pussalā]]. Tās vienīgā kaimiņvalsts ir [[Spānija]]. Portugāles rietumu un dienvidu piekrasti apskalo [[Atlantijas okeāns]]. Portugāles sastāvā ietilpst arī Atlantijas okeānā esošās [[Azoru salas]] un [[Madeira]]s sala. Rietumos no valsts galvaspilsētas [[Lisabona]]s atrodas [[Eiropa]]s galējais rietumu punkts — [[Rokas rags]].
+
+== Etimoloģija ==
+Portugāles nosaukums ir cēlies no [[Senā Roma|romiešu]] nosaukuma ''Portus Cale''. ''Cale'' bija nosaukums apmetnei, kura atradās pie [[Douru]] upes ietekas [[Atlantijas okeāns|Atlantijas okeānā]] (mūsdienās [[Portu]] pilsēta). Aptuveni 200 gadus p.m.ē. [[Otrais pūniešu karš|Otrā pūniešu kara]] laikā romieši iekaroja [[Kartāga|kartāgiešu]] pakļauto [[Pireneju pussala|Pireneju pussalu]], un, iekarojot ''Cale'' apmetni, pārdēvēja to par ''Portus Cale'' (''Portus'' nozīmē "[[osta]]"). [[Viduslaiki|Viduslaikos]] ''Portus Cale'' reģionu [[vestgoti]] un [[svēbi]] sauca par ''Portucale''. 7. un 8. gadsimtā nosaukums ''Portucale'' pārveidojās par ''Portugale'', un 9. gadsimtā to attiecināja uz teritoriju starp Douru un [[Miņu]] upēm.
+
+Nosaukuma ''Cale'' etimoloģija ir noslēpumaina, tāpat kā šīs apmetnes dibinātāju izcelsme. Daži vēsturnieki uzskata, ka to dibināja [[Senā Grieķija|senie grieķi]], un nosaukums ''Cale'' ir radies no grieķu vārda ''kallis'' (tulkojumā "skaists"), atsaucoties uz skaisto Douru upes ieleju. Citas versijas apgalvo, ka ''Cale'' ir [[ķelti|ķeltu]] nosaukums arī daudzām citām vietām šajā reģionā, tādēļ nosaukuma izcelsme varētu būt saistīta tieši ar šīm ciltīm.
+
+== Vēsture ==
+{{pamatraksts|Portugāles vēsture}}
+Pirms mūsu ēras Portugāles teritorijā dzīvoja [[ibēri]], [[ķelti]] un [[luzitāņi]]. Viena no versijām apgalvo, ka tieši luzitāņi ir [[portugāļi|portugāļu]] senči. Portugāles teritoriju ir iekarojuši gan [[Kartāga]], [[Romas Republika]], gan [[suevi]], gan [[vandaļi]], gan [[vestgoti]], gan [[mauri]]. 1139. gadā Portugāle kļuva par [[karaliste|karalisti]]. 1179. gadā [[Romas pāvests]] atzina Portugāles karalistes pastāvēšanu. [[15. gadsimts|15. gadsimtā]] Portugāle aizsāka [[Lielie ģeogrāfiskie atklājumi|lielo ģeogrāfisko atklājumu]] laikmetu un kļuva par lielāko jūras braucēju nāciju ar kolonijām [[Brazīlija|Brazīlijā]], [[Āfrika|Āfrikā]], [[Arābija|Arābijā]], [[Indija|Indijā]] un [[Ķīna (reģions)|Ķīnā]]. 1580. gadā Portugāle nonāca Spānijas [[Hābsburgi|Hābsburgu]] dinastijas kontrolē, bet pēc 60 gadiem atkal atguva neatkarību ar portugāļu karali. 1807. gadā valsti iekaroja [[Napoleons Bonaparts]]. 1910. gadā tika pasludināta [[Portugāles Pirmā Republika]]. 1926. gadā notika militārs apvērsums, kuram sekoja [[Antoniu de Oliveira Salazars|Antoniu Salazara]] diktatūra, kas ilga līdz 1968. gadam. 1949. gadā Portugāle bija viena no 12 [[NATO]] dibinātājvalstīm. Salazara izveidotais režīms tika gāzts 1974. gada [[Neļķu revolūcija|Neļķu revolūcijā]]. 1986. gadā Portugāle pievienojās [[Eiropas Ekonomikas kopiena]]i.
+
+== Ģeogrāfija ==
+[[Attēls:Portugal topographic blank map-fr.png|left|thumb|175px|Portugāles topogrāfiskā karte]]
+Portugāles platība ir 92 090 km², aptuveni 1,5 reizes lielāka par [[Latvija|Latviju]]. Portugāle atrodas [[Dienvideiropa|Dienvideiropā]], [[Pireneju pussala|Pireneju pussalā]]. Tās vienīgā kaimiņvalsts ir [[Spānija]]. Robežas garums ar Spāniju ir 1214 km. Portugāles rietumu un dienvidu piekrasti apskalo [[Atlantijas okeāns]]. [[Krasta līnija]]s garums ir 1793 km. Portugāles sastāvā ietilpst arī Atlantijas okeānā esošās [[Azoru Salas|Azoru salas]] un [[Madeira]]s sala. Rietumos no valsts galvaspilsētas [[Lisabona]]s atrodas Eiropas galējais rietumu punkts — [[Rokas rags]].
+
+[[Attēls:Régua Douro 4.JPG|thumb|200px|left|Tipiska [[Douru]] upes ielejas ainava]]
+Portugāli uz pusēm sadala tās lielākā upe [[Težu]]. Ziemeļu daļā raksturīga ir kalnaina ainava ar dziļām, izrobotām upju ielejām. Savukārt dienvidu daļā plešas [[līdzenums|līdzenumi]], un arī [[klimats]] ir daudz siltāks un sausāks nekā ziemeļos. Vienīgi [[Algarve|Algarvi]] no [[Alentežu]] atdala nelieli kalni. Citas lielākās Portugāles upes ir [[Douru]], [[Miņu]] un [[Gvadjana]]. Visu šo upju, tai skaitā Težu, iztekas atrodas Spānijā. Portugālē nav izteiktu lielu [[ezers|ezeru]]. [[Alkevas ūdenskrātuve]], kura atrodas uz Gvadjanas upes, ir lielākā ūdenskrātuve (250 km²). Portugāles augstākā virsotne neatrodas tās kontinentālajā daļā, bet gan [[Azoru Salas|Azoru salās]]. Tas ir [[Piku (kalns)|Piku]] kalns [[Piku (sala)|Piku]] salā. Tas ir sens [[vulkāns]], un tā augstums virs jūras līmeņa ir 2350 m. Kontinentālajā daļā augstākā virsotne ir [[Eštrela]] (1993 m).
+
+Valsts ziemeļu daļā atrodas Portugāles vienīgais nacionālais parks — [[Penedas-Herešu nacionālais parks]], kurš aizņem 702,90 km<sup>2</sup> lielu platību. 
+
+No kopējās platības [[aramzeme]] ir 17,29%.<ref name="CIA Geo">{{en ikona}} {{Tīmekļa atsauce | url= https://www.cia.gov/library/publications/the-world-factbook/geos/po.html | title= Portugal | publisher= CIA - The World Factbook | accessdate= 2009-11-28 | archive-date= 2020-05-19 | archive-url= https://web.archive.org/web/20200519213218/https://www.cia.gov/library/publications/the-world-factbook/geos/po.html }}</ref> No [[dabas katastrofa|dabas katastrofām]] spēcīgas [[zemestrīce]]s regulāri notiek [[Azoru Salas|Azoru salās]]. Portugālē ir arī spēcīga augsnes [[erozija]], [[gaisa piesārņojums]], ko rada rūpniecības uzņēmumu un transporta izplūdes gāzes, kā arī [[ūdens piesārņojums]], īpaši piekrastes reģionos.<ref name="CIA Geo" />
+
+Portugālē valda [[Vidusjūras klimats]]. Ziemeļos ir aukstāks un mitrāks, savukārt dienvidos ir siltāks un sausāks klimats. Ziemeļu daļā gada vidējā [[gaisa temperatūra]] svārstās no 12 °C līdz 13 °C, bet dienvidu daļā gada vidējā temperatūra svārstās no 17 °C līdz 18 °C. [[Madeira|Madeirā]] un [[Azoru Salas|Azoru salās]] gada vidējā temperatūra sasniedz 20 °C. Zemākā temperatūra ir novērota ziemās kalnainajos apgabalos; tur tā nokrītas līdz -15 °C, savukārt augstākā temperatūra ir reģistrēta Portugāles dienvidos, kur tā sasniedz 40 °C.
+
+== Administratīvais iedalījums ==
+{| width=300px align=right
+|-
+|
+{{Image label begin|image=Portugal location map.svg|width=300|float=none}}
+
+{{Image label small|x=0.100|y=0.100|scale=500|text=[[Vjana du Kaštelu]]}}
+{{Image label small|x=0.220|y=0.160|scale=500|text=[[Braga (apgabals)|Braga]]}}
+{{Image label small|x=0.320|y=0.130|scale=500|text=[[Vilareala]]}}
+{{Image label small|x=0.430|y=0.180|scale=500|text=[[Bragansa]]}}
+{{Image label small|x=0.210|y=0.230|scale=500|text=[[Portu (apgabals)|Portu]]}}
+{{Image label small|x=0.200|y=0.290|scale=500|text=[[Aveiru]]}}
+{{Image label small|x=0.280|y=0.330|scale=500|text=[[Viseu]]}}
+{{Image label small|x=0.380|y=0.350|scale=500|text=[[Guarda]]}}
+{{Image label small|x=0.210|y=0.440|scale=500|text=[[Koimbra (apgabals)|Koimbra]]}}
+{{Image label small|x=0.300|y=0.500|scale=500|text=[[Kaštelu Branku]]}}
+{{Image label small|x=0.150|y=0.500|scale=500|text=[[Leirija]]}}
+{{Image label small|x=0.170|y=0.600|scale=500|text=[[Santareima]]}}
+{{Image label small|x=0.075|y=0.670|scale=500|text=[[Lisabona (apgabals)|Lisabona]]}}
+{{Image label small|x=0.300|y=0.640|scale=500|text=[[Portalegre]]}}
+{{Image label small|x=0.270|y=0.760|scale=500|text=[[Evora (apgabals)|Evora]]}}
+{{Image label small|x=0.180|y=0.830|scale=500|text=[[Setubala (apgabals)|Setubala]]}}
+{{Image label small|x=0.280|y=0.920|scale=500|text=[[Beža]]}}
+{{Image label small|x=0.250|y=1.050|scale=500|text=[[Faru (apgabals)|Faru]]}}
+{{Image label end}}
+|}
+
+Portugālei ir sarežģīts administratīvais iedalījums. To vispārīgi iedala piecos lielos reģionos un divos [[autonomija|autonomos]] reģionos: [[Azoru Salas]] un [[Madeira]]. Sīkāk to iedala 18 apgabalos, savukārt vēl sīkāk Portugāle tiek sadalīta 28 apakšreģionos. Apakšreģioni tiek sadalīti 308 [[pašvaldība|pašvaldībās]] (''concelho'') un vairāk nekā 4000 [[ciemats|ciematos]] (''freguesia''). Maza mēroga daudzlīmeņu struktūra ir neefektīva un dārga. Pašlaik tiek gatavoti darbi reformai, kuras rezultātā tiks likvidēti apgabali un decentralizētas pilnvaras.
+
+1976. gadā Portugāle tika sadalīta divās daļās, šo sadalījumu nereti lieto arī mūsdienās. Šīs daļas ir [[Kontinentālā Portugāle]] (''Portugal Continental'') un [[Portugāles autonomie reģioni]] — (Azoru Salas un Madeira).
+
+{| style="background:transparent;" cellspacing="2px"
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="160px" | [[Portugāles apgabali|Apgabals]] || ! width="110px" | Admin. centrs || [[Platība]] (km²) || [[Iedzīvotāju skaits|Iedzīvotāji]]
+|-
+| [[Aveiru (apgabals)|Aveiru]] || [[Aveiru]] || 2808 || 752867
+|-
+| [[Beža (apgabals)|Beža]] || [[Beža]] || 10225 || 154325
+|-
+| [[Braga (apgabals)|Braga]] || [[Braga]] || 2673 || 879918
+|-
+| [[Bragansa (apgabals)|Bragansa]] || [[Bragansa]] || 6608 || 148808
+|-
+| [[Evora (apgabals)|Evora]] || [[Evora (Portugāle)|Evora]] || 7393 || 170535
+|-
+| [[Faru (apgabals)|Faru]] || [[Faru]] || 4960 || 421528
+|-
+| [[Guarda (apgabals)|Guarda]] || [[Guarda]] || 5518 || 173831
+|-
+| [[Kaštelu Branku (apgabals)|Kaštelu Branku]] || [[Kaštelu Branku]] || 6675 || 208069
+|-
+| [[Koimbra (apgabals)|Koimbra]] || [[Koimbra]] || 3947 || 436056
+|-
+| [[Leirija (apgabals)|Leirija]] || [[Leirija]] || 3517 || 477967
+|-
+| [[Lisabona (apgabals)|Lisabona]] || [[Lisabona]] || 2761 || 2124426
+|-
+| [[Portalegre (apgabals)|Portalegre]] || [[Portalegre]] || 6065 || 119543
+|-
+| [[Portu (apgabals)|Portu]] || [[Portu]] || 2395 || 1867986
+|-
+| [[Santareima (apgabals)|Santareima]] || [[Santareima]] || 6747 || 445599
+|-
+| [[Setubala (apgabals)|Setubala]] || [[Setubala]] || 5064 || 815858
+|-
+| [[Vilareala (apgabals)|Vilareala]] || [[Vilareala]] || 4328 || 218935
+|-
+| [[Viseu (apgabals)|Viseu]] || [[Viseu]] || 5007 || 394844
+|-
+| [[Vjana du Kaštelu (apgabals)|Vjana du Kaštelu]] || [[Vjana du Kaštelu]] || 2255 || 252011
+|}
+|}
+
+== Valdība ==
+Pēc 1974. gada [[Neļķu revolūcija]]s Portugāle ir izveidojusies par stabilu [[parlamentāra republika|parlamentāru republiku]]. Valsts varas četras galvenās institūcijas ir [[Portugāles prezidents]], [[Portugāles premjerministru uzskaitījums|premjerministrs]], [[Portugāles parlaments|parlaments]] un [[Portugāles Augstākā tiesa|Augstākā tiesa]]. Prezidents tiek ievēlēts ik pēc pieciem gadiem tiešās [[vēlēšanas|vēlēšanās]]. Viņš ir arī [[Portgāles bruņotie spēki|bruņoto spēku]] virspavēlnieks. Pamatojoties uz parlamenta vēlēšanu rezultātiem, prezidents izvēlas un ieceļ amatā arī premjerministru un pārējos ministrus.
+
+Portugāles valdību vada premjerministrs. Portugāles parlaments (''Assembleia da República'') sastāv no vienas palātas, kurā ir 230 delegāti. Delegāti uz četriem gadiem tiek ievēlēti [[proporcionālas vēlēšanas|proporcionālās vēlēšanās]]. Prezidentam ir tiesības atlaist parlamentu un izsludināt jaunas vēlēšanas.
+
+Portugāles Augstākā tiesa ir augstākā institūcija tiesu sistēmā. Turklāt Augstākā tiesa ir atbildīga arī par militārajiem, administratīvajiem un finanšu jautājumiem. [[Konstitucionālā tiesa|Konstitucionālajā tiesā]] ir deviņi locekļi, kas pārrauga konstitucionālo likumu interpretāciju.
+
+== Ārpolitika ==
+Portugāle ir [[Eiropas Savienība]]s dalībvalsts. 2007. gada otrajā pusē tā bija šīs organizācijas prezidentējošā valsts. Portugāle ir viena no [[NATO]] dibinātājvalstīm. Tā NATO uzdevumā ir nosūtījusi miera uzturēšanas spēkus [[Balkānu pussala|Balkānu pussalā]]. Kopā ar [[Spānija|Spāniju]] tā ir iesaistījusies arī [[Ibērijas un Amerikas valstu organizācija|Ibērijas un Amerikas valstu organizācijā]] ({{val|pt|Organização dos Estados Ibero-americanos}}), kurā uzmanība tiek vērsta uz savstarpēju sadarbību starp Portugāli un [[Latīņamerika]]s valstīm. Tā ir iesaistījusies arī [[Latīņu savienība|Latīņu savienībā]], kurā ir apvienojušās [[romāņu valodas|romāņu valodās]] runājošās valstis. Portugālei ir cieši kontakti arī ar tās bijušo koloniju [[Austrumtimora|Austrumtimoru]].
+
+Starp Portugāli un Spāniju pastāv konflikts par [[Olivensa]]s pilsētu. Pašlaik tā ir iekļauta Spānijas teritorijā, bet portugāļi apgalvo, ka šī pilsēta ir jāiekļauj Portugāles sastāvā. 1801. gadā Olivensa tika pievienota Spānijai, bet pēc 1815. gadā notikušā [[Vīnes kongress|Vīnes kongresa]] tai bija jāatgriežas Portugāles sastāvā.
+
+== Demogrāfija ==
+Portugālē dzīvo 10 680 000 iedzīvotāju, no kuriem lielākā daļa ir [[portugāļi]] (96,87%). Lielākās minoritātes ir emigranti no bijušajām Portugāles kolonijām (galvenokārt [[Brazīlija]]s un [[Āfrika]]s kolonijām), kā arī [[ukraiņi]].
+
+Portugāles lielākās [[aglomerācija]]s ir [[Lisabona]], [[Portu]], [[Braga]], [[Aveiru]] un [[Koimbra]].
+
+{{Portugāles lielākās pilsētas}}
+{{Clear}}
+
+== Tautsaimniecība ==
+1986. gadā Portugāle pievienojās [[Eiropas Savienība]]i, un kopš tā laika valsts saimniecība ir stipri mainījusies, kļūstot daudzveidīgāka. Šajā laikā strauji ir attīstījusies [[pakalpojumi|pakalpojumu]] joma, un pašlaik tā veido divas trešdaļas no valsts [[iekšzemes kopprodukts|iekšzemes kopprodukta]]. Kopš {{dat|2002|1|1|Ģ|bez}} Portugāles naudas vienība ir [[eiro]]. Ārvalstu [[kapitālieguldījumi]] valstī ieplūst galvenokārt no [[Apvienotā Karaliste|Apvienotās Karalistes]].
+
+2021. gada septembrī [[bezdarbs|bezdarba]] līmenis Portugālē bija 6,1%.<ref>[http://www.tradingeconomics.com/portugal/unemployment-rate Portugal unemployment rate]</ref>
+
+== Kultūra ==
+Portugāle dažreiz tiek saukta par "dzejnieku zemi". Portugāles literatūrā [[dzeja]]i vienmēr ir bijusi lielāka nozīmē nekā [[proza]]i. Viduslaikos ļoti slavens dzejnieks bija [[Luišs di Kamoinšs]]. 1998. gadā no mūsdienu autoriem [[Žuze Saramagu]] saņēma [[Nobela prēmija literatūrā|Nobela prēmiju literatūrā]].
+
+== Sports ==
+[[Attēls:Luis Figo.jpg|thumb|175px|[[Luišs Figu]] Portugāles izlases sastāvā]]
+Portugālē populārākais sporta veids ir [[futbols]]. Leģendārais [[Eusebiu]] joprojām ir Portugāles futbola vēstures simbols. Divi citi portugāļu futbolisti [[Luišs Figu]] un [[Krištianu Ronaldu]] ir ieguvuši [[FIFA Pasaules gada spēlētājs|FIFA Pasaules gada spēlētāja]] titulu. Arī portugāļu futbola treneri ir ieguvuši pasaules slavu, kā [[Žuze Mourinju]] un [[Manuels Žuze]] (''Manuel José''). Starptautiskā sacensībās [[Portugāles futbola izlase]]s labākais sasniegums ir uzvara [[2016. gada Eiropas čempionāts futbolā|2016. gada Eiropas čempionātā]], kad finālspēlē tika uzvarēta [[Francijas futbola izlase]]. [[1966. gada FIFA Pasaules kauss|1966. gada FIFA Pasaules kausā]] portugāļi ieguva trešo vietu, bet [[2006. gada FIFA Pasaules kauss|2006. gada FIFA Pasaules kausā]] — ceturto vietu. No futbola klubiem pasaules slavu ir ieguvis tā sauktais "Lielais trijnieks" ({{val|pt|Os Três Grandes}}): ''[[Lisabonas "Benfica"|Sport Lisboa e Benfica]]'', ''[[Futebol Clube do Porto]]'' un ''[[Lisabonas "Sporting"|Sporting Clube de Portugal]]''. Šiem trim klubiem ir 12 tituli [[UEFA]] rīkotajās klubu sacensībās.
+
+Tāpat Portugālē ir populārs arī [[telpu futbols|telpu]] un [[pludmales futbols]]. Portugāļu sportisti veiksmīgi startē arī tādos sporta veidos kā [[pludmales volejbols|pludmales volejbolā]] un [[skrituļslidu hokejs|skrituļslidu hokejā]]. Portugāles dienvidu un rietumu krasts visa gada garumā ir piemērots arī [[sērfošana]]i, ar ko nodarbojas ļoti daudz portugāļi. Daži no labākajiem pasaules sērfotājiem ir arī portugāļi. Portugāles tradicionālais sporta veids ir ''[[Jogo do pau]]''.
+
+Kopš [[1912. gada vasaras olimpiskās spēles|1912]]. gada portugāļu sportisti ir piedalījušies visās [[vasaras olimpiskās spēles|vasaras olimpiskajās spēlēs]]. [[ziemas olimpiskās spēles|ziemas olimpiskajās spēlēs]] portugāļu sportisti pirmo reizi piedalījās tikai [[1952. gada ziemas olimpiskās spēles|1952. gadā]]. Portugāļi vēl ir piedalījušies tikai [[1988. gada ziemas olimpiskās spēles|1988]]., [[1994. gada ziemas olimpiskās spēles|1994]]., [[1998. gada ziemas olimpiskās spēles|1998]]., [[2006. gada ziemas olimpiskās spēles|2006]]. un [[2010. gada ziemas olimpiskās spēles|2010]]. gada ziemas olimpiskajās spēlēs. Vasaras olimpiskajās spēlēs ir iegūtas 22 medaļas, bet ziemas olimpiskajās spēlēs pagaidām nav nevienas. Lielākā daļa no medaļām ir iegūtas [[burāšana|burāšanā]], [[vieglatlētika|vieglatlētikā]] un [[jāšana|jāšanas sportā]]. [[2008. gada vasaras olimpiskās spēles|2008. gada olimpiskajās spēlēs]] [[Pekina|Pekinā]] portugāļi ieguva divas medaļas: zelta medaļu [[trīssoļlēkšana|trīssoļlēkšanā]] ieguva [[Nelsons Evora]], bet sudraba medaļu [[triatlons|triatlonā]] ieguva [[Vanesa Fernadeša]] (''Vanessa Fernandes'').
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+; Valdība
+* [http://www.portugal.gov.pt/Portal/EN/ Official Portuguese Government website] {{en ikona}}/{{pt ikona}}
+* [https://web.archive.org/web/20091209072658/http://www.parlamento.pt/Paginas/UKFR.aspx Official Parliament website]
+* [https://web.archive.org/web/20070612234339/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-p/portugal.html Chief of State and Cabinet Members]
+
+; Vispārīga informācija
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/po.html Portugal] {{Webarchive|url=https://web.archive.org/web/20200519213218/https://www.cia.gov/library/publications/the-world-factbook/geos/po.html |date={{dat|2020|05|19||bez}} }} entry at The World Factbook
+* [https://web.archive.org/web/20080727024243/http://ucblibraries.colorado.edu/govpubs/for/portugal.htm Portugal] at ''UCB Libraries GovPubs''
+* [http://worldphotobase.com/europe/portugal.php?s=thumb Portugal in Photography 2007] {{Webarchive|url=https://web.archive.org/web/20110429101000/http://worldphotobase.com/europe/portugal.php?s=thumb |date={{dat|2011|04|29||bez}} }}
+* [http://www.theportugalnews.com National English language newspaper]
+* {{wikiatlas|Portugal}}
+* [https://web.archive.org/web/20170128203837/http://www.viniportugal.pt/ National Wine Website]
+
+; Ceļojumi
+{{wikivoyage|Portugal}}
+* [http://www.visitportugal.com/Cultures/en-US/default.html Official Travel and Tourism office website]
+* [http://www.insideportugaltravel.com Official Portuguese Government Travel/media website] {{Webarchive|url=https://web.archive.org/web/20201017122003/http://www.insideportugaltravel.com/ |date={{dat|2020|10|17||bez}} }}
+* [https://web.archive.org/web/20180126173418/http://www.luso.tv/ Luso.tv — View Portugal in Video/media website]
+* [http://www.seeportugal.org SeePortugal.Org — Travel related information for visitors]
+* [https://web.archive.org/web/20050713073804/http://www.portugalia.org/ Portugāles fotogrāfijas] — Portugalia.org
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Portugāle| ]]
+[[Kategorija:Republikas]]
+[[Kategorija:Dienvideiropa]]
+[[Kategorija:Rietumeiropa]]

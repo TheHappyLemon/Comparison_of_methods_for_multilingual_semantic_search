@@ -1,0 +1,89 @@
+{{Futbola izlases infokaste
+| Name                   = Indonēzija
+| Badge                  = 2022TimnasGarudaLogo.png
+| Nickname               = ''Merah Putih'' (sarkanbaltie)
+| Association            = Indonēzijas Futbola asociācija
+| Confederation          = [[Āzijas Futbola konfederācija|AFC]] (Āzija)
+| Coach                   = {{flaga|KOR}} [[Sins Thejons]]
+| Captain                = 	Asnavi Mangkualams
+| Most caps              = Abduls Kadirs (111)
+| Top scorer             = Abduls Kadirs (70)
+| Home Stadium           = ''Gelora Bung Karno''
+| FIFA Trigramme         = IDN
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1            = _IDN_h22
+| pattern_b1             = _IDN_h22
+| pattern_ra1            = _IDN_h22
+| pattern_sh1            = 
+| pattern_so1            = _idn22h
+| leftarm1               = E30000
+| body1                  = E30000
+| rightarm1              = E30000
+| shorts1                = FFFFFF
+| socks1                 = E30000
+| pattern_la2            = _idn22a
+| pattern_b2             = _IDN_a22
+| pattern_ra2            = _idn22a
+| pattern_sh2            = 
+| pattern_so2            = _idn22a
+| leftarm2               = FFFFFF
+| body2                  = FFFFFF
+| rightarm2              = FFFFFF
+| shorts2                = 00968E
+| socks2                 = FFFFFF
+| pattern_la3            = 
+| pattern_b3             = _IDN_t22
+| pattern_ra3            = 
+| pattern_sh3            = 
+| pattern_so3            = _idn22t
+| leftarm3               = 010101
+| body3                  = 010101
+| rightarm3              = 010101
+| shorts3                = 010101
+| socks3                 = 010101
+| First game             = ''Kā Nīderlandes Austrumindija''<br>{{flaga|DEI}} '''Nīderlandes Austrumindija''' 7:1 {{fb-rt|JPN|1870}}<br />([[Manila]], [[Filipīnas]]; {{dat|1934|5|13|N|bez}})<br>''Kā neatkarīga valsts''<br>{{fb|IND}} 3:0 {{fb-rt|IDN}}<br>([[Ņūdeli]], [[Indija]]; {{dat|1951|3|5|N|bez}})
+| Largest win            = {{fb|IDN}} 13:1 {{fb-rt|PHI}}<br />([[Džakarta]], [[Indonēzija]]; {{dat|2002|12|23|N|bez}})
+| Largest loss           = {{fb|BHR}} 10:0 {{fb-rt|IDN}}<br />([[Rifa]], [[Bahreina]]; {{dat|2012|2|29|N|bez}})
+| World cup apps         = 1
+| World cup first        = 1938
+| World cup best         = Astotdaļfināls ([[1938. gada FIFA Pasaules kauss|1938]])
+| Regional name          = [[Āzijas kauss futbolā]]
+| Regional cup apps      = 5
+| Regional cup first     = [[1996. gada Āzijas kauss futbolā|1996]]
+| Regional cup best      = Grupu turnīrs<br />(1996, 2000, 2004, 2007)
+}}
+
+'''Indonēzijas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Indonēzija|Indonēziju]] starptautiskās futbola sacensībās. Indonēzijas futbola izlasi pārvalda Indonēzijas Futbola asociācija. Savu pirmo spēli izlase aizvadīja 1934. gadā pret [[Japānas futbola izlase|Japānas izlasi]], bet toreiz vēl izlases nosaukums bija ''Nīderlandes Austrumindijas izlase'', jo [[Indonēzija]] vēl piederēja [[Nīderlande]]i. Savu pirmo spēli kā Indonēzijas izlase tā aizvadīja 1951. gadā pret [[Indijas futbola izlase|Indiju]]. [[1938. gada FIFA Pasaules kauss|1938. gadā]] toreiz kā Nīderlandes Austrumindijas izlase pagaidām vienīgo reizi spēlēja [[FIFA Pasaules kauss|FIFA Pasaules kausa finālturnīrā]]. [[Āzijas Kauss futbolā|Āzijas kausā]] indonēzieši ir piedalījušies 4 reizes.
+
+== Pasaules čempionātos ==
+
+* [[1930. gada FIFA Pasaules kauss|1930]] - ''Nepiedalījās''
+* [[1934. gada FIFA Pasaules kauss|1934]] - ''Nepiedalījās''
+* [[1938. gada FIFA Pasaules kauss|1938]] - Astotdaļfināls (kā Nīderlandes Austrumindija)
+* [[1950. gada FIFA Pasaules kauss|1950]] - ''Izstājās''
+* [[1954. gada FIFA Pasaules kauss|1954]] - ''Nepiedalījās''
+* [[1958. gada FIFA Pasaules kauss|1958]] - ''Izstājās kvalifikācijas laikā''
+* [[1962. gada FIFA Pasaules kauss|1962]] - ''Izstājās''
+* [[1966. gada FIFA Pasaules kauss|1966]] - ''Nepiedalījās''
+* [[1970. gada FIFA Pasaules kauss|1970]] - ''Nepiedalījās''
+* [[1974. gada FIFA Pasaules kauss|1974]]-[[2014. gada FIFA Pasaules kauss|2014]] - ''Nekvalificējās''
+* [[2018. gada FIFA Pasaules kauss|2018]] - ''Diskvalificēta''
+
+== Āzijas kausā ==
+* 1956—1964 — ''Nepiedalījās''
+* 1968—1992 — ''Nekvalificējās''
+* 1996 — Grupu turnīrs
+* 2000 — Grupu turnīrs
+* 2004 — Grupu turnīrs
+* 2007 — Grupu turnīrs
+* 2011 — ''Nekvalificējās''
+* 2015 — ''Nekvalificējās''
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{AFC izlases}}
+
+[[Kategorija:Indonēzijas futbola izlase| ]]
+[[Kategorija:Āzijas futbola izlases]]

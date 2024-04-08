@@ -1,0 +1,114 @@
+{{Futbola izlases infokaste
+| Name               = Īrija
+| Badge              = Ireland Football Team Badge.png
+| FIFA Trigramme     = IRL
+| Nickname           = ''The Boys In Green'' (puiši zaļā)<br />''The Green Army'' (zaļā armija)
+| Association        = [[Īrijas Futbola asociācija]]
+| Confederation      = [[UEFA]] (Eiropa)
+| Coach              = {{flaga|Īrija}} [[Džons O'Šī]] (pagaidu)
+| Captain            = [[Šeimuss Kolmens]]
+| Most caps          = [[Robijs Kīns]] (146)
+| Top scorer         = [[Robijs Kīns]] (68)
+| Home Stadium       = [[Aviva stadions]]
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1        = _irlanda1718h
+| pattern_b1         = _irlanda1718h
+| pattern_ra1        = _irlanda1718h
+| pattern_sh1        = _irlanda1718h
+| pattern_so1        = _irlanda1718h
+| leftarm1           = 00924A
+| body1              = 00924A
+| rightarm1          = 00924A
+| shorts1            = FFFFFF
+| socks1             = 00924A
+| pattern_la2        = _irlanda1718a
+| pattern_b2         = _irlanda1718a
+| pattern_ra2        = _irlanda1718a
+| pattern_sh2        = _irlanda1718a
+| pattern_so2        = _irlanda1718a
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = 00924A
+| socks2             = FFFFFF
+| First game         = {{fb|Īrija}} 1:0 {{fb-rt|Bulgārija}} <br />([[Kolomba]], [[Francija]]; {{dat|1924|5|28|N|bez}})
+| Largest win        = {{fb|Īrija}} 8:0 {{fb-rt|Malta}}‎ <br />([[Dublina]], [[Īrija]]; {{dat|1983|11|16|N|bez}})
+| Largest loss       = {{fb|Brazīlija}} 7:0 {{fb-rt|Īrija}}<br />([[Uberlandija]], [[Brazīlija]]; {{dat|1982|5|27|N|bez}})
+| World cup apps     = 3
+| World cup first    = 1990
+| World cup best     = Ceturtdaļfināls: [[1990. gada FIFA Pasaules kauss|1990]]
+| Regional name      = [[Eiropas čempionāts futbolā|Eiropas čempionāts]]
+| Regional cup apps  = 3
+| Regional cup first = [[1988. gada Eiropas čempionāts futbolā|1988]]
+| Regional cup best  = Astotdaļfināls: [[2016. gada Eiropas čempionāts futbolā|2016]]
+}}
+
+'''Īrijas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Īrija|Īrijas valsti]] starptautiskās futbola sacensībās. Īrijas futbola izlasi pārvalda [[Īrijas Futbola asociācija]]. Pirmoreiz kādā no lielajiem finālturnīriem Īrija iekļuva vienīgi 1988. gadā, kad startēja [[1988. gada Eiropas čempionāts futbolā|Eiropas čempionātā]]. Lielākais izlases sasniegums ir iekļūšana ceturtdaļfinālā [[1990. gada FIFA Pasaules kauss|1990. gada Pasaules čempionātā]].
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]] - ''Nepiedalījās''
+* [[1934. gada FIFA Pasaules kauss|1934]]-[[1986. gada FIFA Pasaules kauss|1986]] - ''Nekvalificējās''
+* [[1990. gada FIFA Pasaules kauss|1990]] - ''Ceturtdaļfināls''
+* [[1994. gada FIFA Pasaules kauss|1994]] - ''Astotdaļfināls''
+* [[1998. gada FIFA Pasaules kauss|1998]] - ''Nekvalificējās''
+* [[2002. gada FIFA Pasaules kauss|2002]] - ''Astotdaļfināls''
+* [[2006. gada FIFA Pasaules kauss|2006]] - ''Nekvalificējās''
+* [[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+*[[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1984. gada Eiropas čempionāts futbolā|1984]] - ''Nekvalificējās''
+* [[1988. gada Eiropas čempionāts futbolā|1988]] - ''Grupu turnīrs''
+* [[1992. gada Eiropas čempionāts futbolā|1992]]-[[2008. gada Eiropas čempionāts futbolā|2008]] - ''Nekvalificējās''
+* [[2012. gada Eiropas čempionāts futbolā|2012]] - ''Grupu turnīrs''
+* [[2016. gada Eiropas čempionāts futbolā|2016]] - ''Astotdaļfināls''
+*[[2020. gada Eiropas čempionāts futbolā|2020]] - [[2020. gada Eiropas čempionāta futbolā kvalifikācija|''Nekvalificējās'']]
+
+== Sastāvs ==
+Šāds sastāvs tika izsaukts uz [[Pārbaudes spēle|pārbaudes spēli]] pret [[Anglijas futbola izlase|Angliju]] (12.11.2020) un [[2020.—2021. gada UEFA Nāciju līga]]s spēlēm pret [[Velsas futbola izlase|Velsu]] (15.11.2020) un [[Bulgārijas futbola izlase|Bulgāriju]] (18.11.2020).<ref>{{Tīmekļa atsauce|url=https://www.fai.ie/ireland/news/stephen-kenny-names-squad-for-november-games|title=Stephen Kenny names squad for November games {{!}} Football Association of Ireland|website=www.fai.ie|access-date=2020-11-07}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Derens Rendolfs]]|age={{Birth date and age|1987|5|12|df=y}}|caps=47|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Marks Travers]]|age={{Birth date and age|1999|5|18|df=y}}|caps=2|goals=0|club=[[A.F.C. Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Kvīvīns Kelehers]]|age={{Birth date and age|1998|11|28|df=y}}|caps=0|goals=0|club=[[Liverpool FC|Liverpool]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Šeimuss Kolmens]]|age={{Birth date and age|1988|10|11|df=y}}|caps=56|goals=1|club=[[Everton F.C.|Everton]]|clubnat=ENG|other=[[Kapteinis (futbols)|Kapteinis]]}}
+{{Nat fs g player|no=|name=[[Šeins Dafijs]]|pos=DF|age={{Birth date and age|1992|1|1|df=y}}|goals=4|caps=38|clubnat=SCO|club=[[Celtic F.C.|Celtic]]}}
+{{nat fs g player|no=|pos=DF|name=[[Enda Stīvens]]|age={{Birth date and age|1990|7|9|df=y}}|caps=19|goals=0|club=[[Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Mets Dohertijs]]|age={{Birth date and age|1992|1|16|df=y}}|caps=14|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Kevins Longs]]|age={{Birth date and age|1990|8|18|df=y}}|caps=14|goals=1|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Džons Īgans]]|age={{Birth date and age|1992|10|20|df=y}}|caps=11|goals=0|club=[[Sheffield United]]|clubnat=ENG}}
+{{Nat fs g player|no=|name=[[Dara O'Šī]]|age={{Birth date and age|1999|3|4|df=y}}|goals=0|pos=DF|caps=1|clubnat=ENG|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]}}
+{{Nat fs break}}
+{{Nat fs g player|no=|name=[[Džeimss Maklīns]]|pos=MF|age={{Birth date and age|1989|4|22|df=y}}|goals=10|clubnat=ENG|caps=75|club=[[Stoke City F.C.|Stoke City]]}}
+{{Nat fs g player|pos=MF|name=[[Džefs Hendriks]]|no=|caps=58|age={{Birth date and age|1992|1|31|df=y}}|clubnat=ENG|goals=2|club=[[Newcastle United F.C.|Newcastle United]]}}
+{{Nat fs g player|name=[[Robijs Breidijs]]|pos=MF|no=|caps=51|age={{Birth date and age|1992|1|14|df=y}}|goals=8|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{Nat fs g player|pos=MF|name=[[Džeimss Makārtijs]]|no=|caps=42|age={{Birth date and age|1990|12|12|df=y}}|clubnat=ENG|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]}}
+{{Nat fs g player|pos=MF|name=[[Kalums O'Douda]]|no=|caps=21|age={{Birth date and age|1995|4|23|df=y}}|clubnat=ENG|goals=0|club=[[Bristol City F.C.|Bristol City]]}}
+{{Nat fs g player|pos=MF|no=|name=[[Kornors Haurihens]]|caps=20|age={{Birth date and age|1991|2|2|df=y}}|goals=1|clubnat=ENG|club=[[Aston Villa F.C.|Aston Villa]]}}
+{{nat fs g player|no=|pos=MF|name=[[Harijs Arters]]|age={{Birth date and age|1989|12|28|df=y}}|caps=17|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Alans Brauns]]|age={{Birth date and age|1995|4|15|df=y}}|caps=10|goals=1|club=[[Preston North End F.C.|Preston North End]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Darils Horgans]]|age={{Birth date and age|1992|8|10|df=y}}|caps=8|goals=0|club=[[Wycombe Wanderers F.C.|Wycombe Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Džeisons Molumbijs]]|age={{Birth date and age|1999|8|6|df=y}}|caps=3|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{Nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Kalums Robinsons]]|age={{Birth date and age|1995|2|2|df=y}}|caps=15|goals=1|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Ārons Konolijs]]|age={{Birth date and age|2000|1|28|df=y}}|caps=5|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Džeimss Kolinss]]|age={{Birth date and age|1990|12|1|df=y}}|caps=4|goals=1|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Ronans Kērtiss]]|age={{Birth date and age|1996|3|29|df=y}}|caps=4|goals=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Ādams Aidahs]]|age={{Birth date and age|2001|2|11|df=y}}|caps=3|goals=0|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs end}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+{{DEFAULTSORT:Irijas futbola izlase}}
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Īrijas futbola izlase| ]]
+[[Kategorija:Sports Īrijā]]

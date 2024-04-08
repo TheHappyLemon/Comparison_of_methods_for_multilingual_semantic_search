@@ -1,0 +1,63 @@
+{{Apdzīvotas vietas infokaste
+|official_name            = Ročestera
+|settlement_type          = [[Lielpilsēta]]
+|nickname                 = 
+|website                  = 
+|image_skyline            = Rochester aerial aug 17 2007.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               =
+|image_seal               = Rochester_NY_city_seal.png
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map              = ASV#Ņujorkas štats
+| latd  = 43 | latm  = 9 | lats  = 56 | latNS  = N
+| longd = 77 | longm = 36 | longs = 41 | longEW = W
+|subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+|subdivision_type1        = [[ASV administratīvais iedalījums|Štats]]
+|subdivision_type2        = Apgabals
+|subdivision_name         = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+|subdivision_name1        = [[Ņujorka (štats)|Ņujorka]]
+|subdivision_name2        = [[Monro apgabals|Monro]]
+|government_type          = 
+|area_footnotes           = 
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+|area_total_km2           = 96.1
+|area_land_km2            = 92.8
+|area_water_km2           = 3.3
+|population_as_of         = 2012
+|population_total         = 210532
+|population_metro         = 1082284
+|population_density_km2   = auto
+|population_footnotes     = 
+|timezone                 = EST
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 585
+|elevation_m              = 154
+|elevation_ft             = 
+|blank_name               = 
+|blank_info               = 
+|blank1_name              = 
+|blank1_info              = 
+|footnotes                = 
+}}
+'''Ročestera''' ({{val|en|Rochester}}) ir pilsēta [[Ņujorka (štats)|Ņujorkas štatā]], [[Amerikas Savienotās Valstis|ASV]]. Tā ir Ņujorkas štata trešā lielākā pilsēta (pēc [[Ņujorka]]s un [[Bufalo]]).
+
+== Ārējās saites ==
+* {{oficiālā mājaslapa|http://www.cityofrochester.gov}}
+
+{{ASV-aizmetnis}}
+{{īss-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ņujorkas pilsētas]]

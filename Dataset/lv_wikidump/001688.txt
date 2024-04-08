@@ -1,0 +1,80 @@
+{{Apdzīvotas vietas infokaste
+|         name          = Kuresāre
+|official_name          = ''Kuressaare''
+|settlement_type        = pilsēta
+|image_skyline          = Castlekuressaare.JPG
+|image_caption          = [[Ārensburgas pils]]
+|image_flag             = Kuressaare lipp, 2010.jpg
+|image_shield           = Kuressaare_coatofarms.png
+|pushpin_map            = Estonia
+|map_caption            = Atrašanās vieta Igaunijā
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{EST}}
+|subdivision_type1      = [[Igaunijas apriņķi|Apriņķis]]
+|subdivision_name1      = [[Attēls:Saaremaa lipp.svg|25px]] [[Sāremā apriņķis]]
+|leader_title           = 
+|leader_name            = 
+|established_title      = Pirmoreiz minēta
+|established_date       = 1154
+|established_title2     = Pilsētas tiesības
+|established_date2      = 1563
+|area_total_km2         = 14.95
+|population_as_of       = 2011
+|population_total       = 14706
+|population_density_km2 = auto
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|latd=58 |latm=15 |lats= |latNS=N
+|longd=22 |longm=29 |longs= |longEW=E
+|website                = {{URL|http://www.kuressaare.ee/}}
+|footnotes              = 
+}}
+
+'''Kuresāre''' ({{val|et|Kuressaare}}, {{val|liv|Sārma jālgab}}) ir [[pilsēta]] [[Sāmsala|Sāmsalā]], [[Igaunija|Igaunijā]]. Tā ir [[Sāremā apriņķis|Sāremā apriņķa]] lielākā pilsēta un apriņķa centrs. Pēc 2011. gada datiem Kuresārē dzīvoja 14 706 iedzīvotāji. Tajā atrodas labi saglabājusies [[Viduslaiki|viduslaikos]] celtā [[Kuresāres pils]].
+
+== Vēsture ==
+Līdz 1917. gadam latviski un vāciski pilsētu sauca par '''Ārensburgu''' ({{val|de|Arensburg}}, no senvācu: ''Aar'' — ‘[[Ērgļi (putni)|ērglis]]’),<ref>{{LKV|I.|840}}</ref> bet kopš 1918. gada tās nosaukums bija '''Kuresāre''' (iespējams, no vārdiem ''kurg'' (ģenitīvā ''kure'') — ‘dzērve’, un ''saare'' — ‘[[sala]]’). [[Igaunijas PSR]] laikā pilsēta pārsaukta igauņu komunistu aktīvista Viktora Kingisepa vārdā par '''Kingisepu'''. 1988. gadā tai atjaunots Kuresāres nosaukums.
+
+Kuresāre atrodas [[Rīgas līcis|Rīgas līča]] krastā, tajā ir neliela [[Jahta|jahtu]] [[osta]]. Pilsētai ir arī sava [[lidosta]], regulāri pasažieru reisi to savieno ar [[Tallina|Tallinu]] un [[Roņu sala|Roņu salu]].
+
+Viduslaikos šeit bija [[Sāmsalas-Vīkas bīskapija]]s [[Bīskaps|bīskapa]] rezidence.
+
+19. gadsimtā Kuresāre kļuva par kūrortpilsētu. 1858. gadā tika izveidota tvaikoņu līnija starp Sāmsalu un [[Rīga|Rīgu]], 1889. gadā — starp [[Muhu]] un cietzemi.
+
+Kopš 1998. gada viena no Kuresāres sadraudzības pilsētām ir [[Talsi]].
+
+== Sports ==
+* [[FC Kuressaare]] (futbola klubs)
+* Kuresāres pilsētas stadions (ietilpība: 2000 cilvēki)
+
+== Iedzīvotāji ==
+
+=== Ievērojamas personības ===
+Kuresārē dzimuši vai dzīvojuši:
+* [[Luiss Kāns]] (angļu: Louis Isadore Kahn, dzimis Ice-Leibs Šmuilovskis (Itze-Leib Schmuilowsky) 1901—1974), Amerikas Savienoto Valstu arhitekts
+
+== Attēlu galerija ==
+<gallery>
+Kuressaare linnuse sissepääs.JPG
+Kuressare's St. Lawrence's church.JPG
+Kuressaare.tuletõrjetorn.jpg
+Kuressaare Eesti Vabadussõjas langenute mälestussammas.JPG
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.kuressaare-airport.ee/eng Kuresāres lidostas mājaslapa] {{Webarchive|url=https://web.archive.org/web/20211218034006/http://www.kuressaare-airport.ee/eng |date={{dat|2021|12|18||bez}} }} {{en ikona}}
+
+{{Igaunija-aizmetnis}}
+
+{{Igaunijas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Sāres apriņķis]]

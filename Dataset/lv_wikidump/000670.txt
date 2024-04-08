@@ -1,0 +1,36 @@
+{{Valodas infokaste
+ |          name = Laosiešu valoda
+ |    nativename = ພາສາລາວ
+ | pronunciation = [pʰáː sǎː láːw]
+ |   familycolor = Taju-kadaju
+ |        states = [[Laosa]], [[Taizeme]], [[Kambodža]], [[Vjetnama]]
+ |        region = [[Dienvidaustrumāzija]]
+ |      speakers = 30 miljoni
+ |          fam1 = [[Taju-kadaju valodas|Taju-kadaju]]
+ |          fam2 = [[Taju valodas|Taju]]
+ |          fam3 = [[Dienvidrietumu taju valodas|Dienvidrietumu taju]]
+ |          fam4 = [[Lao-phutaju valodas|Lao-phutaju]]
+ |        script = [[Laosiešu raksts]] (Laosā)<br/>[[Taju raksts]] (Taizemē)
+ |        nation = {{LAO}}
+----
+Minoritātes valoda:<br />{{THA}}<br/>{{KHM}}<br/>{{VIE}}
+ |        agency = 
+ |          iso1 = lo
+ |          iso2 = lao
+ |          iso3 = lao
+ |map         = [[File:Idioma lao.png|center|260px|alt=Alt text|Valodas izplatība]]
+}}
+
+'''Laosiešu valoda''' jeb '''lao valoda''' (ພາສາລາວ) ir [[Laosa]]s valsts valoda. Pieder pie [[Taju valoda|taju valodu]] saimes. Laosiešu valoda ir ļoti līdzīga [[Taju valoda|taju]] un [[Šanu valoda|šanu]] valodām.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{valoda aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Taju-kadaju valodas]]
+[[Kategorija:Laosas valodas]]

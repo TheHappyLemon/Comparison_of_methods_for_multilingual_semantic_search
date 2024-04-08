@@ -1,0 +1,65 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Kano
+  | official_name            = ''Kano''
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = KanofromDalaHill.jpg
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = Kano flag.svg
+  | image_seal               = 
+  | pushpin_map              = Nigērija
+  | pushpin_label_position   = 
+  | latd  = 12  | latm  = 0  | lats  =   | latNS  = N
+  | longd = 8  | longm =  31 | longs =   | longEW = E
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Nigērija}}'''
+  | subdivision_type1        = Štats
+  | subdivision_name1        = [[Kano štats]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 499
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 488
+  | population_footnotes     = 
+  | population_total         = 2828861
+  | population_as_of         = {{dat|2006|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = 
+  | utc_offset               = 
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = 
+  | footnotes                = 
+}}
+'''Kano''' ({{val|en|Kano}}) ir pilsēta [[Nigērija]]s ziemeļos. [[Kano štats|Kano štata]] galvaspilsēta. Ziemeļnigērijas galvenais ekonomikas centrs un vēsturiski Nigērijas [[islāms|islāma]] kultūras centrs - lielākā daļa iedzīvotāju ir musulmaņi. XXI gadsimta sākumā pilsētā tika ieviesti [[šariāts|šariāta]] likumi. Kano tiek uzskatīta par [[hausi|hausu]] galveno kultūras centru.
+
+[[Zemesrieksti|Zemesriekstu]] ražošanas un tirdzniecības centrs.
+
+== Vēsture ==
+Pilsēta radās ap 1000. gadu kā neatkarīga etnisko [[hausi|hausu]] pilsētvalsts. Kano eksistēja kā neatkarīgs [[emirāts]] līdz par 1903. gadam. Pilsēta attīstījās kā [[zelts|zelta]], [[āda]]s, [[ziloņkauls|ziloņkaula]], [[sāls]] un [[vergs|vergu]] tirdzniecības centrs. 19. gadsimta sākumā etniskais [[fulbi|fulbs]] Usmans dan Fodio (''Usman dan Fodio'') pasludināja [[džihāds|džihādu]] un gāza hausu emīrus. Kopš tā laika pilsētas tradicionālie valdnieki ir fulbi. Kopš 1962. gada tas ir Dr. Ado Abdulahi Bajero (''Dr. Ado Abdullahi Bayero'').
+
+20. gadsimta beigās un 21. gadsimta sākumā pilsētā nereti notikuši starpreliģiski nemieri un grautiņi.
+
+== Cilvēki ==
+Kano dzimuši:
+* [[Sani Abača]] (''Sani Abacha'') (1943-1998) - politiķis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.kanoonline.com/ Oficiālā mājaslapa] {{en ikona}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nigērijas pilsētas]]

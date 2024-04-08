@@ -1,0 +1,58 @@
+[[Attēls:Real_number_line.svg|right|thumb|300px|Reālo skaitļu ass.]]
+'''Reālie skaitļi''' ir visbiežāk lietotais skaitļu veids. Ikdienā tie tiek izmantoti, lai mērītu [[garums|garumu]], [[masa|masu]], [[laiks|laiku]] un citus [[fizikāls lielums|fizikālus lielumus]]. [[Matemātika|Matemātikā]] tie ir nepieciešami, lai aprakstītu [[kvadrātsakne|sakņu]], [[logaritms|logaritmu]] un [[trigonometriskās funkcijas|trigonometrisko funkciju]] vērtības. Reāli skaitļi ir, piemēram, 0, 2, −1/3, √{{overline|2}}, ln 2, [[Pī|π]] un [[e (matemātiska konstante)|''e'']]. Intuitīvi reālie skaitļi atbilst [[punkts|punktiem]] uz [[bezgalība|bezgalīgas]] [[taisne]]s.
+
+Visu reālo skaitļu [[kopa]] ir bezgalīga un [[nesanumurējama kopa|nesanumurējama]]. To apzīmē ar simbolu <math style="vertical-align:0">\scriptstyle\mathbb{R}</math>. Reālos skaitļus var iedalīt divos veidos:
+# [[racionāls skaitlis|racionāli]] / [[iracionāls skaitlis|iracionāli]] skaitļi,
+# [[algebrisks skaitlis|algebriski]] / [[transcendents skaitlis|transcendenti]] skaitļi.
+Visas četras šīs kopas ir bezgalīgas, taču racionālo un algebrisko skaitļu kopas ir [[sanumurējama kopa|sanumurējamas]].
+
+== Pieraksts decimālformā ==
+
+Jebkuru reālu skaitli var pierakstīt kā bezgalīgu decimāldaļskaitļi, piemēram, 2&nbsp;=&nbsp;2,0000…, 1/3&nbsp;=&nbsp;0,3333… un √{{overline|2}}&nbsp;=&nbsp;1,4142…. [[Racionāls skaitlis|Racionālie skaitļi]] atbilst tieši tiem reāliem skaitļiem, kuriem eksistē galīgs decimālais pieraksts, piemēram, 1/4&nbsp;=&nbsp;0,2500…&nbsp;=&nbsp;0,25, vai arī bezgalīgs periodisks decimāldaļskaitlis, piemēram, 1/3&nbsp;=&nbsp;0,3333….
+
+Interesanti, ka to racionālo skaitļu, kuri ir izsakāmi kā galīgs decimāldaļskaitlis, decimālais pieraksts nav viennozīmīgi noteikts. Jebkuru šādu skaitli var pierakstīt tieši divos dažādos veidos — gan kā galīgu, gan kā bezgalīgu periodisku decimāldaļskaitli. Piemēram, 1&nbsp;=&nbsp;1,0000…&nbsp;=&nbsp;[[0,999...|0,9999…]], 1/4 = 0,25 = 0,249999...
+
+== Galvenās reālo skaitļu kopas īpašības ==
+
+Lai kādi būtu divi dažādi reāli skaitļi <math> a \ </math> un <math> b \ </math>, vienmēr ir bezgalīgi daudz tādu reālu skaitļu, kā racionālu, tā iracionālu, kuri atrodas starp <math> a \ </math> un <math> b \ </math>.
+
+# Jebkuriem diviem reāliem skaitļiem <math> x \ </math> un <math> y \ </math> ir spēkā tieši viena no sakarībām: <math> x = y \ </math>, <math> x < y \ </math> vai <math> x > y \ </math>. Tas nozīmē, ka šī [[kopu teorija|kopa]] ir '''sakārtota'''.
+# Reālo skaitļu kopa ir [[neierobežota kopa|neierobežota]] — tai nav ne vismazākā, ne vislielākā [[elements (matemātika)|elementa]].
+# Reālo skaitļu kopa ir '''bezgalīga''' (tajā ietilpst bezgalīgi daudz reālo skaitļu).
+# Reālo skaitļu kopā ir definētas šādas '''darbības''': [[saskaitīšana]], [[atņemšana]], [[reizināšana]], [[dalīšana]] (izņemot dalīšana ar nulli), [[saknes aprēķināšana]] (izņemot pāra pakāpes sakni no negatīva skaitļa).
+# Starp jebkuriem diviem dažādiem reāliem skaitļiem atrodas bezgalīgi daudz citu reālu skaitļu; šo īpašību sauc par reālo skaitļu [[kopu teorija|kopas]] '''blīvuma''' īpašību.
+# Reālo skaitļu kopa ir '''nepārtraukta'''.
+# Reālo skaitļu kopas apjoms ir lielāks par naturālo skaitļu kopas apjomu.
+
+[[Matemātika|Matemātikā]] bieži lieto reālo skaitļu kopas [[kopu teorija|apakškopas]], kuras sauc par '''[[intervāls (matemātika)|intervāliem]]'''.
+
+Bez reālajiem skaitļiem eksistē arī daži skaitļu vispārinājumi, kas vairs nav reāli skaitļi, piemēram, kompleksie skaitļi un kvaternioni.
+
+== Reāla skaitļa absolūtā vērtība ==
+
+{{Pamatraksts|Absolūtā vērtība}}
+
+Par reāla skaitļa ''a'' '''absolūto vērtību''' jeb '''moduli''' sauc skaitli ''a'' bez zīmes un to apzīmē ar |''a''|. Formāli, ja ''a''&nbsp;≥&nbsp;0, tad |''a''|&nbsp;=&nbsp;''a'', bet ja ''a''&nbsp;&lt;&nbsp;0, tad |''a''|&nbsp;=&nbsp;−''a''. Piemēram, |+3|&nbsp;=&nbsp;3 un |−3|&nbsp;=&nbsp;−(−3)&nbsp;=&nbsp;3. No definīcijas seko, ka nevienādība |''a''|&nbsp;≤&nbsp;''b'' ir līdzvērtīga nevienādībai −''b''&nbsp;≤&nbsp;''a''&nbsp;≤&nbsp;+''b'', kas pie fiksēta ''b''&nbsp;&lt;&nbsp;0 apraksta intervālu garumā 2''b''.
+
+Reālu skaitļu absolūtajai vērtībai piemīt šādas īpašības:
+# Summas absolūtā vērtība nav lielāka par saskaitāmo absolūto vērtību summu: <math> |a + b| \le |a| + |b| \ </math>. Piemēram, <math> |-6+4| < |-6| + |4| \ </math>, jo <math> |-6+4| = 2 \ </math>, bet <math> |-6|+|4| = 10 \ </math>.
+# Starpības absolūtā vērtība nav mazāka par mazināmā un mazinātāja absolūto vērtību starpību: <math> |a-b| \ge |a| - |b| \ </math>. Piemēram, <math> |4-6| > |4| - |6| \ </math>, jo <math> |4-6|=2 \ </math>, bet <math> |4| - |6| = -2 \ </math>.
+# Reizinājuma absolūtā vērtība ir vienāda ar reizinātāju absolūto vērtību reizinājumu: <math> |a \cdot b| = |a| \cdot |b| \ </math>.
+# Dalījuma absolūtā vērtība ir vienāda ar dalāmā un dalītāja absolūto vērtību dalījumu: <math> | \frac{a}{b} | = \frac{|a|}{|b|} \ </math>.
+
+== Skatīt arī ==
+
+* [[Naturāls skaitlis]]
+* [[Vesels skaitlis]]
+* [[Racionāls skaitlis]]
+* [[Komplekss skaitlis]]
+
+== Ārējās saites ==
+
+* Eric W. Weisstein, [http://mathworld.wolfram.com/RealNumber.html Real Number], MathWorld.
+
+{{Skaitļu sistēmas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Reāli skaitļi]]

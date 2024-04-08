@@ -1,0 +1,37 @@
+{{Futbola kluba infokaste|
+nos=Atlético Mineiro|
+logo=[[Attēls:Atletico Mineiro logo.jpg]]|
+pilns=Clube Atlético Mineiro|
+dib=1908|
+stad=Mineirão, [[Belu Orizonti]], [[Brazīlija]]|
+ietilp=76 500|
+prez={{flaga|Brazīlija}} Aleksandre Kalils|
+tren={{flaga|Brazīlija}} [[Dorivals Žuniors]]|
+līga=[[Brazīlijas Série A]]|
+sez=2009|
+poz=7.
+|pattern_la1=_black_stripes|pattern_b1=_blackstripes|pattern_ra1=_black_stripes|pattern_so1=_whitehorizontal|
+  leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=000000|socks1=FFFFFF|
+pattern_la2=_whiteborder|pattern_b2=_collarwhite|pattern_ra2=_whiteborder|  
+  leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=000000|
+  pattern_la3=_black_stripes|pattern_b3=_blackstripes|pattern_ra3=_black_stripes|
+  leftarm3=FF9900|body3=FF9900|rightarm3=FF9900|shorts3=000000|socks3=FFFFFF|
+}}
+
+'''Clube Atlético Mineiro''', zināms arī vienkārši kā '''Atlético Mineiro''', ir [[Brazīlija]]s [[futbols|futbola]] klubs no [[Belu Orizonti]] [[Minasžeraisa]]s štatā. Dibināts 1908. gada 25. martā, tas ir viens no tradīcijām bagātākajiem klubiem Brazīlijas futbolā. Pirmā oficiālā spēle tika aizvadīta 1909. gada 21. martā pret ''Sport Club Futebol''. Komanda spēlē kreklos ar melnām un baltam vertikālām svītrām, melnos šortos un baltās zeķēs.
+
+Komandas iesauka visā valstī ir ''Galo'', kas [[Portugāļu valoda|portugāļu valodā]] nozīmē [[gailis]], kas ir arī kluba talismans. Klubs uzvarēja pirmajā oficiālajā [[Campeonato Brasileiro Série A|Brazīlijas čempionātā]], kurš notika 1971. gadā. Vēl klubs divreiz triumfējis CONMEBOL Cup, kā arī 42 reizes Minasžeraisas štata čempionātā. Klubs tikai vienu sezonu nav spēlējis Brazīlijas čempionāta augstākajā līgā un ir viena no stabilākajām komandām, piedaloties Brazīlijas čempionāta 14 finālos vai pusfinālos.
+
+Atlético atbalstītāji ir vieni no kaislīgākajiem Brazīlijā. Komanda savas mājas spēles aizvada ''Mineirão'' stadionā, kurs tiek dalīts ar vietējie sāncenšiem ''[[Cruzeiro Esporte Clube|Cruzeiro]]''.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Belu Orizonti "Atletico Mineiro"]]
+
+
+{{futbols-stub}}

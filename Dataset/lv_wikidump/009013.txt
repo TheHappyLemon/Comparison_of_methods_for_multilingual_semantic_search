@@ -1,0 +1,59 @@
+{{Zinātnieka infokaste
+| vārds_orig = ''Tycho Brahe''
+| attēls = Tycho Brahe.JPG
+| att_izmērs = 220px
+| att_nosaukums = 
+| dz_gads = 1546
+| dz_mēnesis = 12
+| dz_diena = 14
+| dz_vieta = [[Skones lēne|Skone]], [[Dānija]], [[Dānija-Norvēģija]]
+| m_gads = 1601
+| m_mēnesis = 10
+| m_diena= 24
+| m_vieta = [[Prāga]], [[Svētā Romas impērija]]
+| pilsonība = 
+| tautība =
+| darba_vietas =
+| alma_mater =
+| zinātne = [[astronoms]]
+| pasniedzēji =
+| studenti =
+| sasniegumi = 
+| apbalvojumi =
+| paraksts =
+| piezīmes = 
+}}
+'''Tiho Brahe''' ({{val|da|Tycho Brahe}}; dzimis {{dat|1546|12|14}} [[Knutstrupa|Knutstrupā]], [[Dānija|Dānijā]], miris {{dat|1601|10|24}} [[Prāga|Prāgā]]) bija dāņu [[astronoms]], [[astrologs]], [[Alķīmija|alķīmiķis]]. Viņa vārdā ir nosaukti krāteri uz Mēness un [[Marss (planēta)|Marsa]].
+
+== Dzīvesgājums ==
+Tiho Brahe studēja [[Kopenhāgena]]s (no 1559.), [[Leipciga]]s (no 1562.), kā arī [[Vitenberga]]s, [[Rostokas Universitāte|Rostokas]] un [[Bāzele]]s universitātēs (1566.-1570.). 
+
+1576. gadā [[Hvena]]s salā Tiho Brahe iekārtoja unikālu ievērojamāko tālaika observatoriju - [[Uraniborga|Uraniborgu]] ("Debess pils"). 21 gadu tur viņš veica daudzus debess spīdekļu novērojumus, izgatavoja astronomiskos instrumentus, radīja jaunas novērojumu metodes. 1597. gadā jaunais [[Dānijas karaļu uzskaitījums|Dānijas karalis]] [[Kristiāns IV]] nolēma pārtraukt uzturēt Brahes observatoriju un Tiho Brahe esot apsvēris iespēju būvēt līdzīgu observatoriju tolaik [[Kurzemes un Zemgales hercogiste]]s teritorijā esošajā [[Doles sala|Doles salā]], taču nav guvis atbalstu.<ref>[http://www.nra.lv/articles/print.htm?id=16044 Kas saista Hamletu un Tiho Brahi, NRA, 2009.]{{Novecojusi saite}}</ref> Visbeidzot 1599. gadā Brahe sāka iekārtot observatoriju Prāgā.
+
+Tiho Brahe sastādīja precīzas Saules tabulas un 800 zvaigžņu katalogu. Viņš atklāja neregularitātes [[Mēness]] kustībā. Pierādīja, ka [[komēta]]s un [[nova]]s ir debess ķermeņi, pretēji tālaika uzskatiem, ka tās ir atmosfēras parādības.
+
+No 1600. līdz 1601. gadam, pirms Brahes nāves, observatorijā [[Benātki pie Jizeras|Benātkos pie Jizeras]] viņam asistēja [[Johanness Keplers]]. Izmantojot Tiho Brahes novērojumus, Keplers atklāja [[Keplera likumi|planētu kustības likumus]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Commons category-inline|Tycho Brahe|Tiho Brahe}}
+{{refbegin}}
+* [http://www.astropolis.lv/lv/articles/about-astrology/265/Tiho_Brahe Biografisks raksts par Tiho Brahi kā astrologu]
+{{refend}}
+
+{{cilvēks-aizmetnis}}
+{{astronomija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Brahe, Tiho}}
+[[Kategorija:1546. gadā dzimušie]]
+[[Kategorija:1601. gadā mirušie]]
+[[Kategorija:Skones lēnē dzimušie]]
+[[Kategorija:Dānijas dižciltīgie]]
+[[Kategorija:Luterāņi]]
+[[Kategorija:Dāņu astronomi]]
+[[Kategorija:Astrologi]]
+[[Kategorija:Alķīmiķi]]
+[[Kategorija:Latīņu valodā rakstošie]]

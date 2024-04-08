@@ -1,0 +1,53 @@
+{{Apdzīvotas vietas infokaste
+|name=Gagra
+|official_name=''Гагра''<br/>გაგრა
+|native_name=
+|pushpin_map=Abhāzija#Gruzija
+|image_shield=Герб Гагры.jpg
+|shield_size = 70px
+|established_title    = Pirmoreiz minēta
+|established_date     = 1308
+|established_title1   = Pilsēta
+|established_date1    = 1932
+|latNS=N|latd=43|latm=20|lats=
+|longEW=E|longd=40|longm=13|longs=
+|settlement_type=pilsēta
+|subdivision_type=Valsts
+|subdivision_type1=Distrikts
+|subdivision_name={{karogs|Gruzija}}
+|subdivision_name1=[[Gagras rajons]]
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           = 
+|population_as_of     = 2021
+|population_footnotes =
+|population_total     = 11959
+|population_density_km2   = 
+|timezone=[[UTC+3]]
+| postal_code_type         = Pasta indekss
+| postal_code              = 6700-6799
+| area_code                = +7 940 xxx-xx-xx
+| elevation_footnotes      = 
+| elevation_m              = 
+| website                  = {{url|https://gagra.biz/}}
+| footnotes                = 
+}}
+
+'''Gagra''' ([[abhāzu valoda|abhāzu]] un {{val|ru|Гагра}}, {{val|ka|გაგრა}}) ir pilsēta pašpasludinātajā [[Abhāzija|Abhāzijas Republikā]], ''de iure'' [[Gruzija]]s [[Abhāzija|Abhāzijas Autonomajā Republikā]], rajona centrs. Izvietojusies [[Melnā jūra|Melnās jūras]] ziemeļaustrumu krastā [[Lielais Kaukāzs|Lielā Kaukāza]] [[Bzephas grēda]]s pakājē.<ref>{{PZT|2019}}</ref> Nozīmīgs klimatiskais piejūras kūrorts.
+
+[[Gruzijas-Abhāzijas konflikts|Gruzijas-Abhāzijas konflikta]] laikā 1992–1993. gadā pilsēta nonāca kara zonā un tika smagi izpostīta. Gruzijas karaspēks trīs mēnešus bija ieņēmis Gagru. 1992. gada 3. septembrī [[Maskava|Maskavā]] tika noslēgts pamiers, kas lika Gruzijai izvest lielāko daļu karaspēka un tehnikas no Gagras un tās apkārtnes. Uguns pārtraukšana ilga neilgi. Abhāzijas un Ziemeļkaukāza karaspēks 1992. gada 1. oktobrī uzsāka veiksmīgu ofensīvu uz Gruzijas kontrolēto Gagras pilsētu. Kara rezultātā simtiem tūkstošu [[Gruzīni|gruzīnu]] tika padzīti no savām mājām Abhāzijā un tūkstošiem tika nogalināti masveida [[Etniskā tīrīšana|etniskajās tīrīšanās]]. 
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20160430174709/http://gagra-city.com/ Oficiālā mājaslapa] {{ru ikona}}
+* [https://web.archive.org/web/20040830214003/http://gagra.iatp.org.ge/index-eng.htm gagra.iatp.org.ge/index-eng.htm]
+* [https://web.archive.org/web/20090424045144/http://mygagra.ru/ mygagra.ru/] {{ru ikona}}
+
+{{Gruzija-aizmetnis}}
+
+{{Abhāzijas pilsētas|state=expanded}}
+{{Gruzijas pilsētas}}

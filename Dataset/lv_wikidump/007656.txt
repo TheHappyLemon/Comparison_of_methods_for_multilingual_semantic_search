@@ -1,0 +1,133 @@
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color = #005096
+| nos = ''Paris Saint-Germain''
+| logo_links = Paris Saint-Germain logo.svg
+| logo_izm = 175px
+| pilns = ''Paris Saint-Germain Football Club''
+| iesauka = ''Les Rouge-et-Bleu'' (sarkani-zilie)<br/>''Les Parisiens'' (parīzieši)
+| pilsēta = {{Vieta|Francija|Parīze}}
+| dib = 1970
+| dib_mēn = 8
+| dib_dat = 12
+| stad = ''[[Parc des Princes]]''
+| ietilp = 47 929
+| prez = {{flaga|Katara}} [[Nasers Al-Helaifi]]
+| tren = {{flaga|Spānija}} [[Luiss Enrike]]
+| līga = [[Francijas futbola 1. līga|Francijas 1. līga]]
+| sez = [[2022.—2023. gada Francijas futbola 1. līgas sezona|2022.—2023.]]
+| poz = 1. vieta
+| pattern_la1 = _psg2122h
+| pattern_b1 = _psg2122h
+| pattern_ra1 = _psg2122h
+| pattern_sh1 = _psg2122h
+| pattern_so1 = _psg2122h
+| leftarm1 = 0A1254
+| body1 = 0A1254
+| rightarm1 = 0A1254
+| shorts1 = 0A1254
+| socks1 = 0A1254
+| pattern_la2 = _psg2122A
+| pattern_b2 = _psg2122A
+| pattern_ra2 = _psg2122a
+| pattern_sh2 = 
+| pattern_so2 = _psg2122A
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FFFFFF
+| pattern_la3 = _psg2122t
+| pattern_b3 = _psg2122t
+| pattern_ra3 = _psg2122t
+| pattern_sh3 = _monterrey1213t1
+| pattern_so3 = _monterrey1213t1
+| leftarm3 = 000000
+| body3 = 000000
+| rightarm3 = 000000
+| shorts3 = 000000
+| socks3 = 000000
+}}
+
+'''Parīzes "Saint-Germain"''' ir [[Francija]]s [[futbols|futbola]] klubs, kas bāzēts [[Parīze|Parīzē]]. Tas ir desmit reizes izcīnījis Francijas čempionu titulu, kā arī 14 reizes ieguvis [[Francijas kauss futbolā|Francijas kausu]].
+
+[[2009]]. gadā par futbola kluba īpašnieku kļuva amerikāņu kompānija "Colony Capital", bet [[2011]]. gadā tā pārdeva 70% akciju [[Katara]]s investīciju kompānijai<ref>http://www.delfi.lv/sports/news/football/news/70-paris-saint-germain-futbola-kluba-akciju-noperk-kataras-kompanija.d?id=38826121</ref>.
+
+== Komandas sastāvs ==
+''Atjaunināts {{dat|2022|3|30||bez}}.''
+{{Fs start}}
+{{Fs player|no= 1|pos=GK|nat=CRI|name=[[Keilors Navass]]}}
+{{Fs player|no= 2|pos=DF|nat=MAR|name=[[Ašrafs Hakīmi]]}}
+{{Fs player|no= 3|pos=DF|nat=FRA|name=[[Presnels Kimpembe]]}}
+{{Fs player|no= 4|pos=DF|nat=ESP|name=[[Serhio Ramoss]]}}
+{{Fs player|no= 5|pos=DF|nat=BRA|name=[[Markiņoss]]|other=[[kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no= 6|pos=MF|nat=ITA|name=[[Marko Verrati]]}}
+{{Fs player|no= 7|pos=FW|nat=FRA|name=[[Kilians Mbapē]]}}
+{{Fs player|no= 8|pos=MF|nat=ARG|name=[[Leandro Paredess]]}}
+{{Fs player|no= 9|pos=FW|nat=ARG|name=[[Mauro Ikardi]]}}
+{{Fs player|no=10|pos=FW|nat=BRA|name=[[Neimars]]}}
+{{Fs player|no=11|pos=MF|nat=ARG|name=[[Anhels Di Marija]]}}
+{{Fs player|no=14|pos=DF|nat=ESP|name=[[Huans Bernats]]}}
+{{Fs player|no=15|pos=MF|nat=POR|name=[[Danilu Pereira]]}}
+{{Fs player|no=17|pos=DF|nat=FRA|name=[[Kolins Dagba]]}}
+{{Fs player|no=18|pos=MF|nat=NED|name=[[Džordžīno Veinaldums]]}}
+{{Fs player|no=20|pos=DF|nat=FRA|name=[[Levēns Kurzava]]}}
+{{Fs mid}}
+{{Fs player|no=21|pos=MF|nat=ESP|name=[[Anders Errera]]}}
+{{Fs player|no=22|pos=DF|nat=FRA|name=[[Abdū Diallo]]}}
+{{Fs player|no=23|pos=MF|nat=DEU|name=[[Jūliāns Drakslers]]}}
+{{Fs player|no=24|pos=DF|nat=DEU|name=[[Tilo Kērers]]}}
+{{Fs player|no=25|pos=DF|nat=POR|name=[[Nunu Mendešs]]|other=īrē no [[Sporting CP]]}}
+{{Fs player|no=27|pos=MF|nat=SEN|name=[[Idrisa Gveje]]}}
+{{Fs player|no=28|pos=MF|nat=FRA|name=[[Eriks Žuniors Dina Ebimbe]]}}
+{{Fs player|no=30|pos=FW|nat=ARG|name=[[Lionels Mesi]]}}
+{{Fs player|no=31|pos=DF|nat=FRA|name=[[Els Šadeljē Bišjabū]]}}
+{{Fs player|no=34|pos=MF|nat=NED|name=[[Havi Simonss]]}}
+{{Fs player|no=35|pos=MF|nat=FRA|name=[[Ismaels Garbī]]}}
+{{Fs player|no=38|pos=MF|nat=FRA|name=[[Eduārs Mišū]]}}
+{{Fs player|no=39|pos=MF|nat=FRA|name=[[Neitans Bitumazala]]}}
+{{Fs player|no=40|pos=GK|nat=ITA|name=[[Deniss Franki]]}}
+{{Fs player|no=50|pos=GK|nat=ITA|name=[[Džanluidži Donnarumma]]}}
+{{Fs player|no=60|pos=GK|nat=FRA|name=[[Aleksandrs Leteljē]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Francijas futbola 1. līga|Francijas čempionāts (''Ligue 1'')]]'''
+** Čempioni (10): 1985–86, 1993–94, 2012–13, 2013–14, 2014–15, 2015–16, [[2017.—2018. gada Francijas futbola 1. līgas sezona|2017–18]], [[2018.—2019. gada Francijas futbola 1. līgas sezona|2018–19]], [[2019.—2020. gada Francijas futbola 1. līgas sezona|2019–20]], [[2021.—2022. gada Francijas futbola 1. līgas sezona|2021–22]]
+** Vicečempioni (9): 1988–89, 1992–93, 1995–96, 1996–97, 1999–2000, 2003–04, 2011–12, [[2016.—2017. gada Francijas futbola 1. līgas sezona|2016–17]], [[2020.—2021. gada Francijas futbola 1. līgas sezona|2020–21]] 
+* '''[[Francijas kauss futbolā|Francijas kauss]]'''
+** Kausa ieguvēji (14): 1981–82, 1982–83, 1992–93, 1994–95, 1997–98, 2003–04, 2005–06, 2009–10, 2014–15, 2015–16, 2016–17, 2017–18, 2019–20, 2020–21
+** Finālisti (5): 1984–85, 2002–03, 2007–08, 2010–11, 2018–19
+* '''Francijas līgas kauss'''
+** Kausa ieguvēji (9): 1994–95, 1997–98, 2007–08, 2013–14, 2014–15, 2015–16, 2016–17, 2017–18, 2019–20
+** Finālisti (1): 1999–2000 
+* '''Francijas superkauss'''
+** Kausa ieguvēji (10): 1995, 1998, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+** Finālisti (4): 1986, 2004, 2006, 2010
+* '''[[Francijas futbola 2. līga|Francijas 2. līga]]'''
+** Čempioni (1): 1970–71
+* '''[[UEFA Čempionu līga]]'''
+** Finālisti (1): [[2019.—2020. gada UEFA Čempionu līgas sezona|2019–20]]
+* '''[[UEFA Kausu ieguvēju kauss]]'''
+** Kausa ieguvēji (1): 1995–96
+** Finālisti (1): 1996–97
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (1): 2001 <ref>{{Tīmekļa atsauce|url=http://www.psg.fr/en/Club/608001/Palmares|title=Palmares|accessdate={{dat|2015|10|4}}|publisher=PSG.fr|archive-date={{dat|2010|12|04||bez}}|archive-url=https://web.archive.org/web/20101204145859/http://www.psg.fr/en/Club/608001/Palmares}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+{{Sporta ārējās saites}}
+* [http://www.psg.fr/ Oficiālā kluba vietne]
+
+
+{{futbols-aizmetnis}}
+{{Ligue 1}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Francijas futbola klubi]]
+[[Kategorija:Parīze]]
+[[Kategorija:Parīzes "Saint-Germain"]]

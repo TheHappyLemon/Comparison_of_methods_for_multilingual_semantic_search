@@ -1,0 +1,92 @@
+{{Latvijas novada infokaste
+| nosaukums         = Vietalvas pagasts
+| karte             = Vietalvas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Vietalva
+| platība           = 130,43
+| iedzīvotāji       = 813<ref>{{pmlp2015}}</ref> (mīnus 100 no 2010.g.)
+| iedzīvotāji_gads  = 2015
+| blīvums           = {{#expr: 913 / 130.43 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+[[Attēls:Lutheran church in Vietalva (2).jpg|thumb|260px|Vietalvas baznīca]]
+
+'''Vietalvas pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] (agrāk [[Pļaviņu novads|Pļaviņu novada]]) administratīvajām teritorijām tā ziemeļos. Robežojas ar sava novada [[Aiviekstes pagasts|Aiviekstes]], [[Klintaines pagasts|Klintaines]], [[Bebru pagasts|Bebru]] un [[Iršu pagasts|Iršu]] pagastiem un [[Madonas novads|Madonas novada]] [[Sausnējas pagasts|Sausnējas]], [[Vestienas pagasts|Vestienas]], [[Bērzaunes pagasts|Bērzaunes]] un [[Kalsnavas pagasts|Kalsnavas]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Labonīte]], [[Naskāne]], [[Pelve]], [[Šubraka]], [[Veseta]].
+
+==== Ūdenstilpes ====
+[[Alvīšezers]], [[Vabulītis]].
+
+== Vēsture ==
+1935. gadā [[Madonas apriņķis|Madonas apriņķa]] Vietalvas pagasta platība bija 81 km² un tajā dzīvoja 1256 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Salas ciems (Pļaviņu rajons)|Salas]] un Vietalvas [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Vietalvas ciems''' ietilpis [[Pļaviņu rajons|Pļaviņu]] (1949-1959), [[Krustpils rajons|Krustpils]] (1959-1962), [[Jēkabpils rajons|Jēkabpils]] (1962-1967) un [[Aizkraukles rajons|Stučkas (vēlāk Aizkraukles)]] (pēc 1967. gada) rajonos. Vietalvas ciemam 1954. gadā pievienoja likvidēto Salas ciemu, 1960. gadā — likvidēto [[Odzienas ciems|Odzienas ciemu]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Vietalvas pagastu kā administratīvo teritoriju iekļāva [[Pļaviņu novads|Pļaviņu novadā]]. 2021. gadā, kā vienu no Pļaviņu novada administratīvajām teritorijām, iekļauta [[Aizkraukles novads|Aizkraukles novadā]].
+
+== Iedzīvotāji ==
+1935. gadā Vietalvas pagastā bija 1256 iedzīvotāji, t.sk. 95,5% latviešu, 1,4% krievu, 1,2% vāciešu, 1% poļu, ebreju; Odzienas pagastā - 1513 iedzīvotāji, t. sk. 97% latviešu, 1,1% krievu, vāciešu, poļu, ebreju. 
+
+1941. gada deportācijas laikā tika izsūtīti 26 vietalvieši un odzienieši, [[1949. gada marta deportācijas|1949.gadā.]] - 132. 
+
+1989. gadā Vietalvā bija 289 iedzīvotāji, Odzienā -- 139, Alūnēnos -- 49, Norās – 41, Bitēs -- 34, Benckalnos -- 26 iedzīvotāji.
+
+2015. gadā pagastā dzīvoja 813 iedzīvotāji, par 100 mazāk, nekā 2010. gadā.<ref>{{Tīmekļa atsauce|url=https://www.plavinunovads.lv/lv/turisms/vietalvas-pagasts|title=Vietalvas pagasts|website=Pļaviņu novads – vieta, kur savu mūža rakstu ierakstīt|access-date=2019-08-04|language=lv|archiveurl=https://web.archive.org/web/20190804151958/https://www.plavinunovads.lv/lv/turisms/vietalvas-pagasts|archivedate=2019-08-04}}</ref>
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2413
+|1959|1630
+|1967|1664
+|1979|1390
+|1989|1270
+|2000|1110
+|2011|771
+|2021|651
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Vietalva]]''' (pagasta centrs), [[Odziena]], [[Alūnēni]], [[Benckalni]], [[Bites (ciems)|Bites]], [[Jaunāmuiža (Vietalvas pagasts)|Jaunāmuiža]], [[Kaivēni]].
+
+== Saimniecība ==
+=== Transports ===
+Pagastu šķērso 1. šķiras asfaltēts autoceļš Pļaviņas – Ērgļi (P78), 2. šķiras autoceļi Koknese  – Odziena  – Vietalva – Indrāni (V916), Vietalva  – Sausnēja  – Irši (V917), Alunēni  – Bites  – Salānieši (V923), Alunēni  – Irši (V942), Pļaviņas  – Jaunāmuiža (V944). Ceļi un tilti pār Kujas upi pie Aizkujas un pār Vesetu pie Vietalvas izbūvēja [[1970. gadi|1970. gados]].<ref>{{Ziņu atsauce|url=|title=Stars|publisher=Madonas rajona avīze|work=Savam aicinājumam sekojot|access-date=|date=19.10.1974|last=Kaminska|first=M.|issue=|language=lv}}</ref>
+
+Trīs reizes darbdienās kursē autobuss Pļaviņas-Vietalva-Pļaviņas.<ref>{{Tīmekļa atsauce|url=https://www.1188.lv/satiksme/starppilsetu-autobusi/plavinas/vietalva/105226/103228|title=Starppilsētu/starptautiskie autobusi Pļaviņas - Vietalva - 1188 satiksme|website=www.1188.lv|access-date=2019-08-04|archiveurl=https://web.archive.org/web/20190804151950/https://www.1188.lv/satiksme/starppilsetu-autobusi/plavinas/vietalva/105226/103228|archivedate=2019-08-04}}</ref>
+
+{{Nepilnīga nodaļa}}
+
+== Skatīt arī ==
+* [[Vietalvas-Odzienas pagasts]]
+*[[Odzienas muiža]]
+*[[Odzienas muižas alus]] 
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Pļaviņu novads}}
+{{Aizkraukles rajons}}
+{{Madonas apriņķis}}
+}}
+[[Kategorija:Cēsu apriņķis]]
+[[Kategorija:Vidzeme]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Vietalvas pagasts| ]]

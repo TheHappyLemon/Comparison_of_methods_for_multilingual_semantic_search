@@ -1,0 +1,64 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Dakara
+ | official_name              = ''Dakar''
+ | settlement_type          = galvaspilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Dakar - Panorama urbain.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = 
+ | image_shield             =Dakar_CoA.png
+ | pushpin_map              = Senegāla
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 14 | latm  = 41 | lats  = 34 | latNS  = N
+ | longd = 17 | longm = 26 | longs = 48 | longEW = W
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Senegāla}}'''
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | area_total_km2           = 82.38
+ | population_total         = 1030594
+ | population_as_of         = {{dat|2005|12|31|SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_density_sq_mi = 
+ | population_urban         = 
+ | population_metro         = 2452656
+ | timezone                 = [[Griničas laiks|GMT]]
+ | utc_offset               = +0
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+}}
+'''Dakara''' ({{val|fr|Dakar}}, {{val|wo|Ndakaaru}}) ir [[Senegāla]]s galvaspilsēta un lielākā pilsēta. Izvietojusies valsts rietumos uz [[Zaļais rags|Zaļā raga]] pussalas pie [[Atlantijas okeāns|Atlantijas okeāna]]. Viena no lielākajām [[Rietumāfrika]]s ostām, ievērojams rūypniecības centrs.<ref>{{PZT|157}}</ref>
+
+== Vēsture ==
+Pilsētu dibinājuši portugāļi 16. gadsimtā un tā vairākkārt mainījusi saimniekus, līdz 1677. gadā nonāca [[Francija]]s pārvaldē. Sākotnēji attīstījusies kā tirdzniecības centrs ar ievērojamu [[vergi|vergu]] tirdzniecības īpatsvaru. 1794. gadā Francijā formāli tika atcelta verdzība, bet Dakarā vergu tirdzniecība faktiski turpinājās līdz 1848. gadam. 19. gadsimta otrajā pusē sākās pilsētas strauja attīstība, tika izbūvēts dzelzceļs uz [[Senluī (pilsēta)|Senluī]] ziemeļos. 1902. gadā Dakara kļuva par [[Franču Rietumāfrika]]s galvaspilsētu. Otrā pasaules kara laikā Dakara bija [[Višī Francija]]s kontrolē. No 1959. līdz 1960. gadam Dakara bija [[Mali Federācija]]s galvaspilsēta, bet pēc tam — neatkarīgās [[Senegāla]]s galvaspilsēta.
+
+Dakara ir ievērojams Rietumāfrikas finanšu dentrs, šeit atrodas arī vairāku starptautisku organizāciju ofisi.
+== Iedzīvotāji ==
+=== Ievērojamas personības ===
+Dakarā dzimuši vai dzīvojuši:
+* [[Patriks Vieira]] (Patrick Vieira; 1976), Francijas futbola treneris un bijušais futbolists
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20071028121949/http://www.dakarville.sn/ Dakaras oficiālā mājaslapa] {{fr ikona}}
+* [http://www.fotopaises.com/fotos/Senegal/SN.html Dakaras fotogrāfijas]
+
+== Skatīt arī ==
+* [[Dakaras rallijs]]
+
+{{Āfrikas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Āfrikas galvaspilsētas]]
+[[Kategorija:Senegālas pilsētas]]

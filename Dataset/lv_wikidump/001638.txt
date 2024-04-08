@@ -1,0 +1,103 @@
+{{Apdzīvotas vietas infokaste
+| name = Staicele
+| settlement_type = Novada pilsēta
+| image_skyline = Staiceles dibināšanas piemiņas zīme.jpg
+| imagesize = 
+| image_caption = Staiceles dibināšanas piemiņas zīme
+| image_flag = Staiceles karogs.gif
+| flag_link = Staiceles karogs
+| image_shield = Staicele COA.svg
+| shield_link = Staiceles ģerbonis
+| shield_size = 70px
+| pushpin_map = Latvija
+| pushpin_label_position = <!-- left/right -->
+| latd = 57
+| latm = 50
+| lats = 14
+| latNS = N
+| longd = 24
+| longm = 44
+| longs = 39
+| longEW = E
+| subdivision_type = Valsts
+| subdivision_name = '''{{karogs|Latvija}}'''
+| subdivision_type1 = Novads
+| subdivision_name1 = [[Limbažu novads]]
+| established_title = Pilsētas tiesības
+| established_date = kopš [[1992]]. gada
+| established_title2 = 
+| established_date2 = 
+| leader_title = Staices pilsētas un pagasta pakalpojumu sniegšanas centra vadītājs
+| leader_name = Rihards Būda
+| seat_type = Vēsturiskie<br />nosaukumi
+| seat = {{val|de|Staizel}}
+| area_total_km2 = 4
+| population_footnotes = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+| population_total = {{iedzsk|dati|Staicele}}
+| population_as_of = {{iedzsk|dat}}
+| population_rank = 
+| population_density_km2 = auto
+| elevation_m = 45
+| timezone = [[Austrumeiropas laiks|EET]]
+| utc_offset = +2
+| timezone_DST = [[Austrumeiropas laiks|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = Pasta indeksi
+| postal_code = LV-4043
+| website = {{url|www.staicele.lv}}
+| footnotes = 
+}}
+'''Staicele''' ir pilsēta [[Vidzeme]]s ziemeļos, [[Limbažu novads|Limbažu novadā]]. Izvietojusies [[Salaca]]s upes krastos pie autoceļa [[P15]] {{nobr|13 km}} no novada centra [[Aloja]]s un {{nobr|140 km}} no [[Rīga]]s.
+
+== Vēsture ==
+
+Staiceles vietā 19. gadsimta sākumā bijis tikai [[krogs]], zirgu stallis un pārcēlāja mājiņa Salacas krastā. Ap 1846. gadu krogu un pārcēlāja māju apvienoja [[pusmuiža|pusmuižā]]. Pēc nostāstiem, vietas nosaukums cēlies no krodzinieces zviedrietes Berklundes, kas bijusi gara un tieva un saukta par Stazeli.<ref name="SalacasPērles">Valdis Avotiņš, Ints Lukss, “''Salacas pērles''”, AGB, Rīga, 2002., 35. lpp. ISBN 9984-663-39-6.</ref> 1887. gadā Rozēnu un Unguru muižu īpašnieki likuši celt pār Salacu tiltu, ko nosaukuši par Zaļo tiltu, jo bijis krāsots zaļā krāsā.<ref>[http://www.staicele.lv/vesture_geografija.php Staiceles vēsture]</ref>
+
+Apdzīvotā vieta intensīvi sāka attīstīties pēc 1897. gada, kad ar Baltijas papīru un papes akciju sabiedrības finansiālu atbalstu uzbūvēja [[Staiceles papīrfabrika|Staiceles papīrfabriku]]. Celtniecību pabeidza 1898. gadā. Sākumā fabrikā strādāja 100 cilvēku, 1935. gadā — 225, 1943. gadā — 234. 1913. gadā fabrikas vajadzībām no [[Pāle]]s stacijas izbūvēja [[Dzelzceļa līnija Ainaži—Valmiera—Smiltene|šaursliežu dzelzceļa līnijas Ainaži-Smiltene]] atzaru. Ar papīru piekrautos vagonus uz Pāli pa sliežu ceļu vilka zirgi. 1925. gadā [[Rozēnu pagasts|Rozēnu pagasta]] centram Staicelei piešķīra [[biezi apdzīvota vieta|biezi apdzīvotas vietas]] (ciema) statusu, 1950. gadā — [[pilsētciemats|strādnieku ciemata]] (no 1961. gada — pilsētciemata) statusu. 1958. gadā Staicelei pievienoja likvidētos [[Rozēnu ciems|Rozēnu]] un [[Vīķu ciems|Vīķu]] ciemus, izveidojot [[Staiceles lauku teritorija|Staiceles lauku teritoriju]]. 1992. gadā Staicelei piešķīra [[pilsēta]]s tiesības. 2009. gadā Staiceli ar lauku teritoriju iekļāva [[Alojas novads|Alojas novadā]], lauku teritoriju atdalot kā atsevišķu administratīvo vienību — [[Staiceles pagasts|Staiceles pagastu]]. 2021. gadā, Alojas novadu pievienojot Limbažu novadam, Staicele kļuva par vienu no Limbažu novada administratīvajām vienībām.
+
+== Infrastruktūra ==
+
+Staicelē atrodas pilsētas un pagasta pārvalde (Lielajā ielā 4), vidusskola, mūzikas un mākslas skola, kultūras nams, bibliotēka, [[līvi|lībiešu]] muzejs "Pivālind", Vidzemes jaunatnes futbola centrs "Staicele", Alojas novada [[interešu izglītība]]s centrs "Krustpunkti", dienas aprūpes centrs, tūrisma informācijas centrs, luterāņu baznīca.
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|870
+|1959|1297
+|1970|1343
+|1979|1371
+|1989|1380
+|2000|1240
+|2011|1025
+|2021|805
+}}
+
+== Interesanti fakti ==
+* Pilsētas simbols ir stārķa ligzda "Profesora nams", kurā katru gadu ligzdo stārķi. Kopš 1992. gadā tā kļuva par pilsētu, tās ģerbonī attēlots baltais stārķis.<ref>{{Tīmekļa atsauce |url=http://www.staicelesnovads.lv/2007_2012/turisms/profesora_ligzda.php |title=Staicele. Tūrisma objekti |access-date={{dat|2014|05|12||bez}} |archiveurl=https://web.archive.org/web/20151030053113/http://www.staicelesnovads.lv/2007_2012/turisms/profesora_ligzda.php |archivedate={{dat|2015|10|30||bez}} }}</ref>
+*1944. gada 1. martā, Staicelē dzimis virsdiriģents Jānis Zirnis.
+* 2001. gadā Staicelē tika nodibināta starptautiska organizācija, kas apvieno Eiropas pilsētas, kuru ģerboņos attēlots stārķis (arī [[melnais stārķis]]) - '''Eiropas stārķu pilsētu organizācija'''. Tajā apvienotas 11 pilsētas un ciemi - Staicele un [[Demenes pagasts|Demene]] no Latvijas, [[Buska]] no [[Ukraina]]s, Komarovce no [[Slovākija]]s, Luka pie Jihlavas no [[Čehija]]s, Storkova no [[Vācija]]s, [[Stoļina]] no [[Baltkrievija]]s, Kongaza no [[Moldova]]s, [[Ramīgala]], Taujēni un Neveroņi no [[Lietuva]]s.<ref>{{Tīmekļa atsauce |url=http://www.staicelesnovads.lv/2007_2012/esco/ |title=Eiropas stārķu pilsētu organizācija |access-date={{dat|2014|05|12||bez}} |archiveurl=https://web.archive.org/web/20160305051049/http://www.staicelesnovads.lv/2007_2012/esco/ |archivedate={{dat|2016|03|05||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Limbažu novads}}
+{{Latvijas pilsētas}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alojas novads}}
+{{Limbažu rajons}}
+}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Staicele| ]]
+[[Kategorija:Latvijas pilsētciemati]]

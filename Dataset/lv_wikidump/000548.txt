@@ -1,0 +1,79 @@
+{{cita nozīme|ķīmisko elementu|sengrieķu dievu|Hēlijs (mitoloģija)}}
+{{Elementa infokaste
+|                 tips = cēlgāze
+|      kārtas skaitlis = 2
+|             1. čaula = 2
+|              simbols = He
+|             atommasa = 4,002602
+|   valences elektroni = 1s<sup>2</sup>
+|       tabulas attēls = [[Attēls:He-TableImage.svg|250px]]
+|               attēls = [[Attēls:Atom.svg|160px]] [[Attēls:HeTube.jpg|160px]]<br />Hēlija atoma shematiska uzbūve un ar hēliju pildītas lampas
+|  oksidēšanas pakāpes = 0
+|  elektronegativitāte = 3,89{{Nepieciešama atsauce}}
+|              blīvums = 0,179
+|  kušanas temperatūra = 0,95 K (-272,2&nbsp;°C)(pie 2,5MPa)
+| viršanas temperatūra = 4,22 K (-268.93&nbsp;°C)
+}}
+
+'''Hēlijs''' ({{val-el|ἥλιος (helios)}} — '[[Saule]]'; apzīmē ar '''He''') ir ķīmiski visinertākais [[ķīmiskais elements|elements]], kas tikpat kā neveido [[ķīmisks savienojums|ķīmiskus savienojumus]]. Šī [[cēlgāze]] nav indīga, kā arī ir bez [[krāsa]]s, [[smarža]]s un [[garša]]s. Hēlijs ir [[elementu periodiskā tabula|periodiskās tabulas]] otrais elements. No visiem elementiem hēlijam ir viszemākā [[kušanas temperatūra|kušanas]] un [[viršanas temperatūra]]. Līdz ar to, hēlijs vienmēr, izņemot ekstrēmus apstākļus, ir nedegoša un grūti sašķidrināma vienatoma [[gāze]].
+
+Hēlijs ir otra vieglākā un arī otra izplatītākā [[viela]] visā [[Visums|Visumā]] (abās pirmajās vietās ir [[ūdeņradis]]). Tiek uzskatīts, ka lielākā daļa hēlija izveidojās [[Lielais sprādziens|Lielajā sprādzienā]], bet pārējais hēlijs ir izveidojies [[zvaigzne|zvaigznēs]] notiekošajās ūdeņraža [[kodolreakcija|kodolreakcijās]]. Uz [[Zeme]]s hēlija ir salīdzinoši mazāk, un tas galvenokārt ir veidojies smago elementu dabiskajā [[radioaktīvā sabrukšana|radioaktīvajā sabrukšanā]].
+
+== Vēsture ==
+
+Hēliju [[1868]]. gadā [[Indija|Indijā]] atklāja franču astronoms [[Pjērs Žansāns]] (''Pierre Janssen'') pilna [[Saules aptumsums|Saules aptumsuma]] laikā. Veicot [[Saule]]s [[hromosfēra]]s [[spektroskopija|spektroskopiskos]] pētījumus, viņš Saules [[spektrs|spektrā]] konstatēja spožu [[dzeltens|dzeltenu]] līniju, kas nebija saistāma ne ar vienu tolaik zināmo elementu. Vienlaicīgi šādu atklājumu izdarīja britu astronoms [[Normans Lokjers]]. Vēlāk tādu pašu līniju atklāja arī uz Zemes — vulkānisko gāzu un dažu radioaktīvo izotopu izdalīto gāzu spektros. [[1903]]. gadā [[Amerikas Savienotās Valstis|ASV]] tika atrasti milzīgi hēlija krājumi vienā no [[dabisks gāzes lauks|dabiskajiem gāzes laukiem]]. Tomēr hēlijs ir ķīmiskais elements, kas vispirms atklāts ārpus Zemes un nosaukts par godu Saulei ({{val-el|hēlios}} - saule).
+
+== Atrašanās dabā ==
+
+Pēc izplatības Visumā hēlijs ir otrajā vietā aiz ūdeņraža, taču uz Zemes hēlijs ir visai rets, jo savus sākotnējos hēlija krājumus Zeme zaudējusi drīz pēc izveidošanās - tās gravitācijas spēks ir par vāju, lai noturētu vieglos hēlija atomus. 1 kubikmetrā gaisa atrodas tikai 5,24 kubikcentimetri hēlija.<ref name="vhv"> Вредные химические вещества. Неорганические соединения элементов V-VIII групп. Справочник. Л., "Химия", 1989 {{ru ikona}}</ref> Hēlijs veidojas Zemes dzīlēs [[urāns (elements)|urāna]], [[torijs|torija]] un citu radioaktīvo elementu [[alfa sabrukšana]]s ceļā un virspusē nonāk kopā ar [[dabasgāze|dabasgāzi]], kura var saturēt līdz pat 7% hēlija (pēc tilpuma). Parasti dabasgāze satur 0,1 līdz 0,5% hēlija.
+
+=== Izotopi ===
+
+Gandrīz viss dabiskais hēlijs sastāv no izotopa <sup>4</sup>He ar masas skaitli 4. Nesalīdzināmi retāks (tikai 0,00014%) ir otrs hēlija stabilais izotops <sup>3</sup>He jeb [[hēlijs-3]]. Hēlija-3 saturs dažādās dabiskās atradnēs var mainīties visai plašās robežās. Mākslīgi iegūti vēl seši radioaktīvi hēlija izotopi.
+
+=== Bioloģiskā nozīme ===
+
+Hēlijam nav nekādas bioloģiskas nozīmes, taču tā bioloģiskais inertums un niecīgā šķīdība [[asinis|asinīs]] ir noderīgi pielietošanai [[ūdenslīdējs|ūdenslīdēju]] un [[akvalangists|akvalangistu]] elpošanas maisījumos (ar hēliju aizstāj [[slāpeklis|slāpekli]], kas var izraisīt [[kesona slimība|kesona slimību]]). Izmantojot hēlija maisījumus ar [[skābeklis|skābekli]], cilvēks var ienirt lielākā dziļumā, taču pie hēlija [[parciālais spiediens|parciālā spiediena]] 1,3 - 1,6 MPa var rasties ķermeņa un ekstremitāšu trīcēšana, tā saucamais [[hēlija tremors]].<ref name="vhv" /><br />
+Hēliju dažreiz izmanto kā iesaiņošanas gāzi pārtikas iepakojumu piepildīšanai (pārtikas piedeva '''E939''').<ref>Bils Stetems. Zini, ko tu pērc! Rīga, Zvaigzne ABC, 2007 {{ISBN|978-9984-40-470-7}}</ref>
+
+== Iegūšana ==
+Hēliju rūpnieciski iegūst no dabasgāzes ar dziļās sasaldēšanas metodi - hēlijs paliek gāzveida stāvoklī, kad visas pārējās dabasgāzes sastāvdaļas ir sašķidrinātas. 66% no pasaulē iegūstamā hēlija tiek iegūti [[Amerikas Savienotās Valstis|ASV]], apmēram 400 km rādiusā ap [[Amarilo]] pilsētu [[Teksasa|Teksasā]]<ref>Популярная механика, 2010, №3, 15. lpp {{ru ikona}}</ref>.
+
+== Fiziskās īpašības ==
+
+Hēlija atoma elektronu apvalka struktūra ir sevišķi stabila, ar ko tas atšķiras no visiem pārējiem ķīmiskajiem elementiem. Tas izskaidrojams ar to, ka hēlija valences elektronu čaula (1s<sup>2</sup>) ir pabeigta un tā [[jonizācijas enerģija]] ir vislielākā (24,58 [[elektronvolts|eV]]), jo šī ir kodolam vistuvākā no visām elektronu čaulām. Savukārt polarizējamība hēlija atomam ir vismazākā, tādēļ to savstarpējā iedarbība ir ļoti vāja un spēj izpausties tikai ļoti zemā temperatūrā vai ļoti augstā spiedienā.
+
+Hēlija fiziskās īpašības visvairāk līdzinās molekulārā ūdeņraža īpašībām. Hēlijam piemīt viszemākā [[kušanas temperatūra]] no visām pazīstamajām vielām. Atmosfēras spiedienā tas nepāriet cietā fāzē pat [[absolūtā nulle|absolūtās nulles]] tuvumā - ciets hēlijs iegūstams tikai vairāk nekā 25 atmosfēru spiedienā. Tam, tāpat kā cietam ūdeņradim, ir [[heksagonālā singonija|heksagonāls]] kristālrežģis. Hēlija šķīdība ūdenī un citos šķīdinātājos ir jūtami zemāka nekā citām gāzēm. [[Litrs|Litrā]] ūdens 0&nbsp;°C temperatūrā izšķīst tikai 10 ml hēlija, kas ir vairāk nekā divas reizes mazāk nekā ūdeņraža šķīdība. Ūdenī spēj izšķīst {{nobr|51 000}} reizes vairāk [[hlorūdeņradis|HCl]] nekā hēlija.
+
+Hēliju pirmo reizi sašķidrināja [[Heike Kamerlings-Onness]] [[1908]]. gadā. Cietu hēliju izdevās iegūt [[Villems Kēzoms|Villemam Kēzomam]] [[1926]]. gadā. Kēzoms arī atklāja šķidrā hēlija-4 fāzu pāreju 2,17 K temperatūrā (virs šīs temperatūras eksistējošo šķidro fāzi sauc par hēliju-I, bet zemākā temperatūrā eksistē hēlijs-II). [[1938]]. gadā [[Pjotrs Kapica]] atklāja, ka hēlijam-II nepiemīt [[viskozitāte]]. Šī neparastā parādība tika nosaukta par [[supraplūstamība|supraplūstamību]] (supratekamību) un to iespējams izskaidrot tikai ar [[kvantu fizika]]s metodēm. Supraplūstoši šķidrumi pieder pie tā saucamajiem [[kvantu šķidrums|kvantu šķidrumiem]] - tajos kvantu efekti izpaužas makroskopiskā līmenī.
+
+== Ķīmiskās īpašības ==
+
+Hēlijs ķīmiskos savienojumus veido tikai visai ekstremālos apstākļos, parastā temperatūrā un spiedienā hēlija savienojumi ir ļoti nestabili. Piemēram, elektriskās [[izlāde]]s procesā var rasties jonizētas divatomu [[molekula]]s He<sub>2</sub><sup>+</sup>, kurām ir divas saistošās un viena irdinošā [[molekulārā orbitāle]] — (σ<sub>s</sub><sup>saist</sup>)<sup>2</sup>(σ<sub>s</sub><sup>ird</sup>)<sup>1</sup>. Tādēļ šāds molekulārais [[jons]] ir stabils, kamēr vien nepiesaista trūkstošo [[elektrons|elektronu]], kas normālos apstākļos notiek momentāni — tad hēlija molekula uzreiz sadalās divos neitrālos atomos.<ref>N.Ahmetovs. Neorganiskā ķīmija, Rīga, "Zvaigzne", 1978</ref> Tāpat iespējams arī molekulārais jons — savienojums ar ūdeņradi HeH<sup>+</sup>.
+
+== Izmantošana ==
+
+Hēliju tā inertuma dēļ izmanto aizsargatmosfēras radīšanai kausējot, griežot vai metinot aktīvus [[metāli|metālus]], kā arī [[silīcijs|silīcija]] kristālu audzēšanā. Hēlija atmosfērā [[elektriskais loks]] rada sevišķi augstu temperatūru, kas palielina metināšanas ātrumu. Hēliju lieto kā nesējgāzi gāzu [[hromatogrāfija|hromatogrāfijā]].<br />
+Tā kā hēlijs ir ļoti viegla un nedegoša gāze, to plaši izmanto [[aerostats|aerostatu]], [[gaisa balons|gaisa balonu]] un [[dirižablis|dirižabļu]] uzpildīšanai.
+
+Šķidru hēliju lieto tehnikā metālu [[supravadītspēja]]s radīšanai (piemēram, supravadošos [[elektromagnēts|elektromagnētos]]) un zinātniskās laboratorijās par [[Aukstumnesējs|aukstuma pārnesēju]] dažādos zemas temperatūras fizikas eksperimentos, kā arī [[kodolreaktors|kodolreaktoru]] dzesēšanai.
+
+Hēlijam-3 ir lielas perspektīvas nākotnes enerģētikā kā kodoltermiskajai degvielai.
+
+== Skatīt arī ==
+* [[Hēlijs-3]]
+
+== Atsauces ==
+{{commons|Helium|Hēlijs}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hēlijs| ]]
+[[Kategorija:Ķīmiskie elementi|Helijs]]

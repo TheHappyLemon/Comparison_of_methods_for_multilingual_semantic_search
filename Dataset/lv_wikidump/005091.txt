@@ -1,0 +1,109 @@
+{{Futbola izlases infokaste
+| Name               = Slovēnija
+| Badge              = 
+| Badge_size         = 150px
+| FIFA Trigramme     = SVN
+| Nickname           = 
+| Association        = [[Slovēnijas Futbola asociācija]]
+| Confederation      = [[UEFA]] (Eiropa)
+| Coach              = {{flaga|Slovēnija}} [[Matjažs Keks]]
+| Captain            = [[Jans Oblaks]]
+| Most caps          = [[Boštjans Cesars]] (101)
+| Top scorer         = [[Zlatko Zahovičs]] (35)
+| Home Stadium       = [[Stožices stadions]]
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1        = _eslovenia16h
+| pattern_b1         = _eslovenia16h
+| pattern_ra1        = _eslovenia16h
+| pattern_sh1        = _eslovenia16h
+| pattern_so1        = _eslovenia16h
+| leftarm1           = 67CCDE
+| body1              = 67CCDE
+| rightarm1          = 67CCDE
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| pattern_la2        = _eslovenia16a
+| pattern_b2         = _eslovenia16a
+| pattern_ra2        = _eslovenia16a
+| pattern_sh2        = _eslovenia16a
+| pattern_so2        = _eslovenia16a
+| leftarm2           = 006400
+| body2              = 006400
+| rightarm2          = 006400
+| shorts2            = B3FC89
+| socks2             = B3FC89
+| First game         = '''Neoficiālā:'''<br />{{fb|Slovēnija}} 0:5 {{fb-rt|Francija}}<br />([[Ļubļana]], [[Dienvidslāvijas karaliste]]; {{dat|1921|6|23|N|bez}})<br />'''Oficiālā:'''<br />{{fb|Igaunija}} 1:1 {{fb-rt|Slovēnija}}<br />([[Tallina]], [[Igaunija]]; {{dat|1992|6|3|N|bez}})
+| Largest win        = {{fb|Omāna}} 0:7 {{fb-rt|Slovēnija}}<br />([[Maskata]], [[Omāna]]; {{dat|1999|2|8|N|bez}})
+| Largest loss       = {{fb|Francija}} 5:0 {{fb-rt|Slovēnija}}<br />([[Sendenī]], [[Francija]]; {{dat|2002|10|12|N|bez}})
+| World cup apps     = 2
+| World cup first    = 2002
+| World cup best     = Grupu turnīrs: [[2002. gada FIFA Pasaules kauss|2002]], [[2010. gada FIFA Pasaules kauss|2010]]
+| Regional name      = [[Eiropas čempionāts futbolā|Eiropas čempionāts]]
+| Regional cup apps  = 1
+| Regional cup first = [[2000. gada Eiropas čempionāts futbolā|2000]]
+| Regional cup best  = Grupu turnīrs: [[2000. gada Eiropas čempionāts futbolā|2000]]
+}}
+
+'''Slovēnijas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Slovēnija|Slovēnijas valsti]] starptautiskās futbola sacensībās. Slovēnijas futbola izlasi pārvalda [[Slovēnijas Futbola Asociācija]]. Pēc [[Dienvidslāvija]]s sadalīšanās Slovēnijas izlase savu pirmo spēli aizvadīja 1991. gadā pret [[Horvātijas futbola izlase|Horvātijas izlasi]]. Slovēnijas izlase pārsteidza visu futbola pasauli, iekļūstot [[2000. gada Eiropas čempionāts futbolā|2000. gada Eiropas čempionātā]]. Vēl pēc diviem gadiem slovēņi kvalificējās arī [[2002. gada FIFA Pasaules kauss|2002. gada Pasaules kausa izcīņai]]. Abos turnīros gan Slovēnija neizkļuva no apakšgrupas.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1990. gada FIFA Pasaules kauss|1990]] - ''Nepiedalījās, atradās [[Dienvidslāvijas futbola izlase|Dienvidslāvijas]] sastāvā''
+* [[1994. gada FIFA Pasaules kauss|1994]] - ''Nepiedalījās''
+* [[1998. gada FIFA Pasaules kauss|1998]] - ''Nekvalificējās''
+* [[2002. gada FIFA Pasaules kauss|2002]] - ''Grupu turnīrs''
+* [[2006. gada FIFA Pasaules kauss|2006]] - ''Nekvalificējās''
+* [[2010. gada FIFA Pasaules kauss|2010]] - ''Grupu turnīrs''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+*[[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1992. gada Eiropas čempionāts futbolā|1992]] - ''Nepiedalījās, atradās [[Dienvidslāvijas futbola izlase|Dienvidslāvijas]] sastāvā''
+* [[1996. gada Eiropas čempionāts futbolā|1996]] - ''Nekvalificējās''
+* [[2000. gada Eiropas čempionāts futbolā|2000]] - ''Grupu turnīrs''
+* [[2004. gada Eiropas čempionāts futbolā|2004]] -[[2020. gada Eiropas čempionāts futbolā|2020]] - ''Nekvalificējās''
+
+== Sastāvs  ==
+Šāds sastāvs tika izsaukts [[2020. gada Eiropas čempionāta futbolā kvalifikācija]]s spēlēm pret [[Latvijas futbola izlase|Latviju]] ({{dat|2019|11|16||bez}}) un [[Polijas futbola izlase|Poliju]] (19. novembrī). Spēles un gūtie vārti pēc spēles ar [[Austrijas futbola izlase|Austriju]] 13. oktobrī.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jans Oblaks]]|age={{birth date and age|1993|1|7|df=y}}|caps=32|goals=0|club=[[Atlético Madrid]]|clubnat=ESP|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{nat fs g player|no=12|pos=GK|name=[[Vids Belecs]]|age={{birth date and age|1990|6|6|df=y}}|caps=15|goals=0|club=[[U.C. Salernitana|Salernitana]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=GK|name=[[Matjažs Rozmans]]|age={{birth date and age|1987|1|3|df=y}}|caps=0|goals=0|club=[[NK Celje|Celje]]|clubnat=SVN}}
+{{nat fs break|background=#0088FF}}
+{{nat fs g player|no=17|pos=DF|name=[[Miha Mevlja]]|age={{birth date and age|1990|6|12|df=y}}|caps=31|goals=1|club=[[PFC Sochi|Sochi]]|clubnat=RUS}}
+{{nat fs g player|no=2|pos=DF|name=[[Nejičs Skubičs]]|age={{birth date and age|1989|6|13|df=y}}|caps=19|goals=1|club=[[Konyaspor]]|clubnat=TUR}}
+{{nat fs g player|no=3|pos=DF|name=[[Jure Balkovecs]]|age={{birth date and age|1994|9|9|df=y}}|caps=10|goals=0|club=[[Fatih Karagümrük S.K.|Fatih Karagümrük]]|clubnat=TUR}}
+{{nat fs g player|no=4|pos=DF|name=[[Miha Blažičs]]|age={{birth date and age|1993|5|8|df=y}}|caps=9|goals=0|club=[[Budapeštas "Ferencváros"|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=19|pos=DF|name=[[Mario Jurčevičs]]|age={{birth date and age|1995|6|1|df=y}}|caps=2|goals=0|club=[[NK Osijek|Osijek]]|clubnat=CRO}}
+{{nat fs g player|no=23|pos=DF|name=[[Kenans Bajričs]]|age={{birth date and age|1994|12|20|df=y}}|caps=1|goals=0|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs g player|no=—|pos=DF|name=[[Jans Gorencs Stankovičs]]|age={{birth date and age|1996|1|14|df=y}}|caps=1|goals=0|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=AUT}}
+{{nat fs break|background=#0088FF}}
+{{nat fs g player|no=7|pos=MF|name=[[Josips Iličičs]]|age={{birth date and age|1988|1|29|df=y}}|caps=66|goals=9|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name=[[Jasmins Kurtičs]]|age={{birth date and age|1989|1|10|df=y}}|caps=63|goals=1|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[Benjamins Verbičs]]|age={{birth date and age|1993|11|27|df=y}}|caps=33|goals=5|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=10|pos=MF|name=[[Miha Zajcs]]|age={{birth date and age|1994|7|1|df=y}}|caps=22|goals=5|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=MF|name=[[Bojans Črnigojs]]|age={{birth date and age|1995|11|18|df=y}}|caps=12|goals=2|club=[[Venezia F.C.|Venezia]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Jaka Bijols]]|age={{Birth date and age|1999|2|5|df=y}}|caps=13|goals=0|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs g player|no=—|pos=MF|name=[[Hariss Vučkičs]]|age={{birth date and age|1992|8|21|df=y}}|caps=8|goals=5|club=[[Real Zaragoza|Zaragoza]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=MF|name=[[Amedejs Vetrihs]]|age={{birth date and age|1990|9|16|df=y}}|caps=9|goals=0|club=[[Gaziantep F.K.|Gaziantep]]|clubnat=TUR}}
+{{nat fs g player|no=8|pos=MF|name=[[Sandi Lovričs]]|age={{birth date and age|1998|3|28|df=y}}|caps=4|goals=1|club=[[FC Lugano|Lugano]]|clubnat=SUI}}
+{{nat fs g player|no=5|pos=MF|name=[[Nino Kuters]]|age={{birth date and age|1993|12|19|df=y}}|caps=3|goals=0|club=[[NŠ Mura|Mura]]|clubnat=SLO}}
+{{nat fs g player|no=18|pos=MF|name=[[Davids Tijaničs]]|age={{birth date and age|1997|7|16|df=y}}|caps=1|goals=0|club=[[Raków Częstochowa]]|clubnat=POL}}
+{{nat fs g player|no=20|pos=MF|name=[[Adams Gnezda Čerins]]|age={{birth date and age|1999|7|16|df=y}}|caps=1|goals=0|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs break|background=#0088FF}}
+{{nat fs g player|no=11|pos=FW|name=[[Tims Matavžs]]|age={{birth date and age|1989|1|13|df=y}}|caps=39|goals=11|club=[[Al-Wahda FC|Al-Wahda]]|clubnat=UAE}}
+{{nat fs g player|no=9|pos=FW|name=[[Andražs Šporars]]|age={{birth date and age|1994|2|27|df=y}}|caps=22|goals=2|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=15|pos=FW|name=[[Damjans Bohers]]|age={{birth date and age|1991|10|18|df=y}}|caps=9|goals=1|club=[[NK Osijek|Osijek]]|clubnat=CRO}}
+{{nat fs end|background=#0088FF}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+[[Kategorija:Slovēnijas futbola izlase| ]]
+[[Kategorija:Eiropas futbola izlases]]

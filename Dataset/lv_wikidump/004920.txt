@@ -1,0 +1,76 @@
+[[Attēls:Kyzyl orkhon inscription.jpg|thumb|right|220px|Orhonas raksts akmenī, kas tika atrasts [[Kizila|Kizilā]]]]
+'''Orhonas raksts''' jeb '''sentjurku rūnas''' bija rakstība, ko izmantoja [[Centrālāzija|Centrālāzijā]] no 5. gs. p.m.ē līdz 10. gs. m.ē. Pirmais zināmais [[tjurki|tjurku]] [[alfabēts]]. Nosaukts pēc pirmā atraduma Orhonas ielejā ([[Mongolija|Mongolijā]]). Dažreiz to sauc par '''tjurku rūnām''', jo zīmes ir līdzīgas [[Rūnu raksts|ģermāņu rūnu rakstam]] (dažas pat sakrīt gan vizuāli, gan fonētiski).
+
+== Rakstu zīmes ==
+
+{| class="wikitable wide"  border="1" cellpadding="5" cellspacing="0"
+|+ Senais tjurku alfabēts (klasiskais periods)
+! colspan="3"  align="center" | Zīmju pielietojums || colspan="2"  align="center"|Zīmes|| colspan="4"  align="center" |Transliterācija un transkripcija
+|- align="center"
+| colspan="3" rowspan="4" |patskaņi|| colspan="2"|[[Attēls:Old Turkic letter A.svg|20px]]|| colspan="2" |A || colspan="2" |{{IPA|/a/}}, {{IPA|/e/}}
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter I.svg|20px]]|| colspan="2" |I || colspan="2" |{{IPA|/ɯ/}}, {{IPA|/i/}}, {{IPA|/j/}}
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter O.svg|20px]]|| colspan="2" |O || colspan="2" |{{IPA|/u/}}, {{IPA|/o/}}, {{IPA|/w/}}
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter U.svg|20px]]|| colspan="2" |U || colspan="2" |{{IPA|/ø/}}, {{IPA|/y/}}, {{IPA|/w/}}
+|- align="center"
+| rowspan="23" |līdzskaņi|| rowspan="16"  |saskaņotie|| rowspan="9"  |ar:<br />(¹) — sekojošiem,<br />(²) — priekšā stāvošiem<br />patskaņiem|| [[Attēls:Old Turkic letter B1.svg|20px]] || [[Attēls:Old Turkic letter B2.svg|20px]]||B¹ ||{{IPA|/b/}}|| B²|| {{IPA|/b/}}
+|- align="center"
+| [[Attēls:Old Turkic letter D1.svg|20px]] || [[Attēls:Old Turkic letter D2.svg|20px]] || D¹|| {{IPA|/d/}}|| D²|| {{IPA|/d/}}
+|- align="center"
+| [[Attēls:Old Turkic letter G1.svg|20px]] || [[Attēls:Old Turkic letter G2.svg|20px]] || G¹ ||{{IPA|/g/}}|| G² ||{{IPA|/g/}}
+|- align="center"
+| [[Attēls:Old Turkic letter L1.svg|20px]] || [[Attēls:Old Turkic letter L2.svg|20px]] || L¹ ||{{IPA|/l/}}|| L² ||{{IPA|/l/}}
+|- align="center"
+| [[Attēls:Old Turkic letter N1.svg|20px]] || [[Attēls:Old Turkic letter N2.svg|20px]] || N¹ ||{{IPA|/n/}}|| N² ||{{IPA|/n/}}
+|- align="center"
+| [[Attēls:Old Turkic letter R1.svg|20px]] || [[Attēls:Old Turkic letter R2.svg|20px]] || R¹ ||{{IPA|/r/}}|| R² ||{{IPA|/r/}}
+|- align="center"
+| [[Attēls:Old Turkic letter S1.svg|20px]] || [[Attēls:Old Turkic letter S2.svg|20px]] || S¹ ||{{IPA|/s/}}||S²|| {{IPA|/s/}}
+|- align="center"
+| [[Attēls:Old Turkic letter T1.svg|20px]] || [[Attēls:Old Turkic letter T2.svg|20px]] || T¹ ||{{IPA|/t/}}||T²|| {{IPA|/t/}}
+|- align="center"
+| [[Attēls:Old Turkic letter Y1.svg|20px]] || [[Attēls:Old Turkic letter Y2.svg|20px]] || Y¹ ||{{IPA|/j/}} ||Y²|| {{IPA|/j/}}
+|- align="center"
+| vienīgi (¹) — Q<br />vienīgi (²) — K|| [[Attēls:Old Turkic letter Q.svg|20px]] || [[Attēls:Old Turkic letter K.svg|20px]] || Q ||{{IPA|/q/}} || K|| {{IPA|/k/}}
+|- align="center"
+| rowspan="6" |ar visiem<br />patskaņiem|| colspan="2" |[[Attēls:Old Turkic letter CH.svg|20px]] || colspan="2" | -Ç || colspan="2" |{{IPA|/tʃ/}}
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter M.svg|20px]] || colspan="2"  | -M|| colspan="2" | {{IPA|/m/}}	
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter P.svg|20px]] || colspan="2"  | -P|| colspan="2" | {{IPA|/p/}}	
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter SH.svg|20px]] || colspan="2"  | -Ş || colspan="2" |{{IPA|/ʃ/}}	
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter Z.svg|20px]] || colspan="2"  | -Z || colspan="2" |{{IPA|/z/}}	
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter NG.svg|20px]] || colspan="2"  | -NG || colspan="2" |{{IPA|/ŋ/}}
+|- align="center"
+| rowspan="7" |skaņu puduri (divskaņi)|| rowspan="3" | + patskanis || colspan="2"|[[Attēls:Old Turkic letter ICH.svg|20px]] || colspan="2" | IÇ, ÇI, Ç || colspan="2" |{{IPA|/itʃ/}}, {{IPA|/tʃi/}}, {{IPA|/tʃ/}}
+|- align="center"
+| colspan="2" | [[Attēls:Old Turkic letter IQ.svg|20px]] || colspan="2" | IQ, QI, Q|| colspan="2" | {{IPA|/ɯq/}}, {{IPA|/qɯ/}}, {{IPA|/q/}}
+|- align="center"
+| [[Attēls:Old Turkic letter OQ.svg|20px]] || [[Attēls:Old Turkic letter UK.svg|20px]] ||OQ, UQ,<br />QO, QU, Q||{{IPA|/oq/}}, {{IPA|/uq/}},<br />{{IPA|/qo/}}, {{IPA|/qu/}}, {{IPA|/q/}}||ÖK, ÜK,<br />KÖ, KÜ, K||{{IPA|/øk/}}, {{IPA|/yk/}},<br />{{IPA|/kø/}}, {{IPA|/ky/}}, {{IPA|/k/}}
+|- align="center"
+| rowspan="4" |+ līdzskanis ||colspan="2"  | [[Attēls:Old Turkic letter NCH.svg|20px]] || colspan="2" | -NÇ|| colspan="2" | {{IPA|/ntʃ/}}		
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter NY.svg|20px]] || colspan="2" | -NY || colspan="2" |{{IPA|/ɲ/}}
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter LT.svg|20px]] || colspan="2" | -LT|| colspan="2" | {{IPA|/lt/}}, {{IPA|/ld/}}
+|- align="center"
+| colspan="2" |[[Attēls:Old Turkic letter NT.svg|20px]] || colspan="2" | -NT || colspan="2" |{{IPA|/nt/}}, {{IPA|/nd/}}
+|- align="center"
+| colspan="3" | vārdu atdalīšanas simboli || colspan="2" | [[Attēls:Old Turkic letter SEP.svg|20px]] || colspan="4"  |nav	
+|- align="center"
+| colspan="9" | (-) — sastopams tikai vārdu, ne teikumu beigās
+|}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Val-aizmetnis}}
+
+[[Kategorija:Alfabēti]]
+[[Kategorija:Tjurki]]

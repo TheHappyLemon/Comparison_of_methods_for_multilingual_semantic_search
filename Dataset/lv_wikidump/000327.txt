@@ -1,0 +1,84 @@
+{{atveidošana}}
+{{Valsts infokaste
+|   pilnais_valsts_nosaukums = Kaboverdes Republika
+|        vietējais_nosaukums = ''República de Cabo Verde''
+|           valsts_nosaukums = Kaboverde
+|           karoga_nosaukums = Kaboverdes karogs
+|              karoga_attēls = Flag of Cape Verde.svg
+|          ģerboņa_nosaukums = Kaboverdes ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls = Coat of arms of Cape Verde.svg
+|              kartes_attēls = Location_Cape_Verde_AU_Africa.svg
+|               valsts_himna = {{val|pt|[[Cântico da Liberdade]]}}
+|             valsts_valodas = [[Portugāļu valoda|Portugāļu]]
+|regional_languages = [[Kreoliskās valodas]]
+|              galvaspilsēta = [[Praja]]
+|latd=14 |latm=55 |latNS=N |longd=23 |longm=31 |longEW=W
+|            lielākā_pilsēta = galvaspilsēta
+|demonym = Cape Verdean
+|             valsts_iekārta = [[Parlamentāra republika]]
+|       valsts_galvas_tituls = Prezidents
+|               valsts_galva = [[José Maria Neves]]
+|      valsts_galvas_tituls2 = Premjerministrs
+|              valsts_galva2 = [[Ulisses Correia e Silva]]
+|              platība_rangs = 172.
+|                platība_km2 = 4033
+|             procenti_ūdens = 
+|         iedzīvotāju_skaits = 523 568
+|   iedzīvotāju_skaits_rangs = 165.
+|    iedzīvotāju_skaita_gads = 2013
+|   apdzīvotības_blīvums_km2 = 129,8
+|population_density_sq_mi = 325,0 <!--Do not remove per [[WP:MOSNUM]]-->
+| apdzīvotības_blīvums_rangs = 89.
+|                    IKP_PPP = $2,167 miljardi<ref name="imf3">{{Tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2012/04/weodata/weorept.aspx?pr.x=42&pr.y=15&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=624&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Cape Verde |publisher=International Monetary Fund |accessdate=2012-04-18}}</ref>
+|               IKP_PPP_gads = 2012
+|         IKP_PPP_per_capita = $4112,256 <ref name="imf3"/>
+|GDP_nominal = $1,941 miljardi<ref name="imf3"/>
+|GDP_nominal_year = 2012
+|GDP_nominal_per_capita = $3682,006<ref name="imf3"/>
+|       neatkarības_iegūšana = Neatkarība
+|       neatkarības_notikums = no [[Portugāle]]s
+|         neatkarības_datums = 1975. gada 5. jūlijs
+|                  Gini_gads = |Gini_change =  <!--increase/decrease/steady--> |                       Gini = <!--number only--> |Gini_ref = |                 Gini_rangs = 
+|                   HDI_gads = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,568 <!--number only-->
+|HDI_ref = <ref name=HDI>{{Tīmekļa atsauce |url=http://hdr.undp.org/en/media/HDR_2011_EN_Summary.pdf |title=Human Development Report 2011 - Summary |page=19 |publisher=The United Nations |accessdate=2011-11-03}}</ref>
+|                  HDI_rangs = 133.
+|                     valūta = [[Kaboverdes eskudo]]
+|               valūtas_kods = CVE
+|country_code = 
+|                 laika_zona = [[Cape Verde Time|CVT]]
+|                 utc_offset = -1
+|             laika_zona_DST = nab
+|             utc_offset_DST = -1
+|drives_on = right
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 238
+|                     domēns = [[.cv]]
+}}
+'''Kaboverdes Republika''' ({{val|pt|República de Cabo Verde}}) ir vidēji attīstīta viennacionāla salu valsts [[Atlantijas okeāns|Atlantijas okeānā]]. Tā atrodas apmēram 500 km uz rietumiem no [[Senegāla]]s. Aizņem visas 15 [[Zaļā raga salas]]. Nopietni cieš no sausuma.
+
+Lielākā un visblīvāk apdzīvotā sala ir [[Santiago sala]], kur atrodas arī Kaboverdes Republikas galvaspilsēta [[Praja]], bez tam vēl apdzīvotas ir [[Sal sala]], [[Boavista (sala)|Boavistas]] sala, [[S. Vicente sala]], [[S. Atao sala]], [[Maio sala]], [[Fogo sala]] un [[Brava sala]].
+Neapdzīvotās Zaļā raga salas 15.gs atklāja un kolonizēja [[Portugāle|portugāļi]]. Ar laiku salas kļuva par vergu tirdzniecības centru. Lielākā daļa iedzīvotāju ir afrikāņu un [[portugāļi|portugāļu]] pēcteči.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Āfrika-aizmetnis}}
+{{Āfrika}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kaboverde| ]]
+[[Kategorija:Āfrikas valstis]]
+[[Kategorija:Āfrikas salas]]
+[[Kategorija:Salu valstis]]
+[[Kategorija:Atlantijas okeāna salas]]
+[[Kategorija:Arhipelāgi]]

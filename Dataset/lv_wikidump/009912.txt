@@ -1,0 +1,144 @@
+{{Latvijas novada infokaste
+| nosaukums         = Mērdzenes pagasts
+| karte             = Mērdzenes_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Ludzas novads
+| centrs            = Mērdzene
+| platība           = 89,5
+| iedzīvotāji       = 786<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 786 / 89.5 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         =
+| nos_vācu          = <!-- vācu -->
+| ref_vācu          =
+| nos_krievu        = Михайловская
+| ref_krievu        =
+}}
+
+'''Mērdzenes pagasts''' ir viena no [[Ludzas novads|Ludzas novada]] administratīvajām teritorijām. Robežojas ar [[Goliševas pagasts|Goliševas]], [[Malnavas pagasts|Malnavas]], [[Mežvidu pagasts|Mežvidu]], [[Blontu pagasts|Blontu]] un [[Pušmucovas pagasts|Pušmucovas]] pagastiem. Pagasta centrs atrodas [[Mērdzene|Mērdzenē]].
+
+== Daba ==
+Lielākā daļa pagasta atrodas [[Mudavas zemiene]]s [[Zilupes līdzenums|Zilupes līdzenumā]]. Dienvidrietumu malā iestiepjas [[Latgales augstiene]]s ziemeļu daļa — [[Burzavas pauguraine]]. Augstākā vieta — Diervanīšu kalns (135,3 m v.j.l.) — pagasta rietumu daļā. Augstākie pauguri: Karātavu, Kausinieku, Kviešu kalns.
+
+Trešdaļu pagasta teritorijas aizņem meži, īpaši iespaidīgs ir Kravcovkas masīvs. Pagasta teritorijas dienvidaustrumu daļā gandrīz tūkstoš hektāru platībā stiepjas vietām augstais, vietām zemais [[Kreiču purvs]]. [[Krīvu Stiglova|Krīvu Stiglovā]] stiepjas 32 ha plašais nosusinātais purvs, tajā iegūto kūdru var izmantot pakaišiem, lauku mēslošanai un zālāju sēklu audzēšanai. Pagastā atrodas daļa no 1985.—1988. gadā atklātās Degļovas dolomīta atradnes. Dolomīts derīgs šķembu ražošanai. 1998. gadā izpētīta Vecpiragovas smilts-grants atradne. Smilts piemērota būvniecībai.
+
+=== Hidrogrāfija ===
+'''Upes:'''
+* [[Rītupe]]
+** [[Strauja]]
+*** [[Ločupeite]]
+
+'''Purvi:'''
+* Pagasta dienvidaustrumos atrodas [[Kreiču purvs|Kreiču purva]] daļa 962 ha platībā.
+
+== Vēsture ==
+[[Mihalova (Mērdzenes pagasts)|Mihalova]] (Mikalava<ref name="LKV">{{LKV|XIV.|26 683}}</ref>) izveidojās kā amatniecības un tirdzniecības centrs pie Ludzas—Kārsavas lielceļa. 18. gadsimtā Mihalovas muiža bija viena no lielākajām [[Ludzas apriņķis|Ludzas apriņķī]], muižai piederēja 218 zemnieku sētas. Līdz 19. gadsimta beigām Vecpiragovas sādžā darbojās Kiliša ūdensdzirnavas.
+
+[[1920. gada zemes reforma]]s laikā Pušmucavas muižu (''Poszmucow'') sadalīja 78 vienībās 1070 ha kopplatībā, bet Stiglavas, Mikalavas un Morozovas meža novadus 770 vienībās 5788 ha kopplatībā. Mikalavas pareizticīgo baznīcas zemi sadalīja 5 vienībās 67 ha kopplatībā, Goliševas pareizticīgo baznīcas zemi sadalīja 8 vienībās 76 ha kopplatībā.<ref name="LKV"/>
+1925. gadā '''Mihalovas pagastu''' pārdēvēja par Mērdzenes pagastu.<ref>{{EncLP}}</ref>
+1935. gadā Mērdzenes pagasta platība bija 321,1 km² un tajā reģistrētas 2278 zemnieku saimniecības. Visvairāk tajās audzēja rudzus, miežus, auzas, linus un kartupeļus. Mikalavā darbojās ūdensdzirnavas „Gulbīši” (no 1912. gada līdz pat [[1950. gadi]]em, 1936. gadā piederēja M. Pugovičam), Podinavā — ūdensdzirnavas „Slūžas” (no 1919. gada līdz 1945. gadam, 1936. gadā piederēja J. Dunduram). Mežerniekos bija T. Sarkaņa ūdensdzirnavas. Dzirnavās mala graudus, kārsa vilnu un vēla vadmalu, „Slūžās” darbojās arī kalve un kuļmašīna. Strauju ciemā atradās I. Pugoviča zāģētava, Stiglavā un Antonavā darbojās Malnavas piensaimnieku sabiedrības krejotavas.<ref name="LKV"/>
+
+[[Latvijas PSR]] laikā 1945. gadā pagastā izveidoja [[Blontu ciems|Blontu]], [[Degļevas ciems|Degļevas]], [[Goliševas ciems|Goliševas]], [[Lapatinsku ciems|Lapatinsku]], Mērdzenes, [[Mežernieku ciems|Mežernieku]], [[Pušmucovas ciems|Pušmucovas]] un [[Stiglovas ciems|Stiglovas]] [[ciema padome]]s, bet 1949. gadā pagastu likvidēja.<ref>{{Latvijas PSR iedalījums}}</ref> 1954. gadā Mērdzenes ciemam pievienoja Lapatinsku un Stiglovas ciemu. 
+Kolektivizācijas sākumposmā 1949. gadā izveidoja 14 lauksaimniecības arteļus. Drīz sākās to apvienošana. Pudinovā izveidojās [[kolhozs]] „Rassvet”, kas guva labus panākumus gaļas un piena lopkopībā, it īpaši cūkkopībā un zirgkopībā. Kolhozu turpmākās apvienošanas gaitā 1974. gadā izveidojās kolhozs „Vienība”, kas pastāvēja līdz 1994. gadam.
+
+[[Latvijas neatkarības atgūšana]]s laikā 1990. gadā Mērdzenes ciemu reorganizēja par pagastu. 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Kārsavas novads|Kārsavas novadā]]. 2021. gadā Kārsavas novadu iekļāva [[Ludzas novads|Ludzas novadā]].
+
+=== Pieminekļi un apskates objekti ===
+[[Attēls:Mērdzenes pagasta padome.JPG|thumb|250px|Mērdzenes pagasta padome]]
+Valsts nozīmes arheoloģiskie pieminekļi:
+* [[Silinīku pilskalns]], senā apmetņu vieta — valsts arheoloģijas piemineklis.
+* Stiglovas senkapi (Kara kalns).
+
+Vietējas nozīmes arheol. pieminekļi:
+* Mērdzenes [[Karātavu kalns (Mērdzenes pagasts)|Karātavu kalns]] — soda vieta, vietējas nozīmes piemineklis.
+
+Vietējas nozīmes arhitektūras pieminekļi:
+* [[Stiglovas katoļu baznīca]].
+* Pudinavas pareizticīgo baznīca.
+
+Mērdzenē uzstādīta piemiņas plāksne Otrajā pasaules karā kritušajiem novadniekiem.
+
+Pudinovā pie Ludzas—Kārsavas ceļa atrodas divas dižliepas, to apkārtmērs ir 4,0m un 4,4 m. Uz rietumiem no Stiglovas katoļu baznīcas atrodas Karolīnas liepa (apkārtmērs 2,71 m).
+
+== Iedzīvotāji ==
+{{bar box
+|title=Nacionālais sastāvs Mērdzenes pagastā
+|titlebar=#ddd
+|left1=Tautība
+|right1=Procenti
+|float=
+|width=300px
+|bars=
+{{bar percent|latvieši| green|76}}
+{{bar percent|krievi| red|22}}
+{{bar percent|citi| orange|2}}
+}}
+{| class="wikitable"
+|-
+! gads!! iedzīvotāju skaits!! latvieši!! krievi!! baltkrievi!! ukraiņi!! poļi!! lietuvieši!! ebreji!! čigāni!! pārējie
+|-
+| 1930|| 10978|| 7307|| 3460|| 143|| 0|| 53|| 5|| 9|| 0|| 1
+|-
+| 1935|| 3073
+|-
+| 1959|| 2126
+|-
+| 1968|| 1697
+|-
+| 1979|| 1316|| 900|| 386|| 12|| 3|| 7|| 1|| nez.|| nez.|| 7
+|-
+| 1989|| 1151|| 805|| 304|| 6|| 12|| 3|| 1|| nez.|| nez.|| 21
+|-
+| 2000|| 964|| 728|| 215|| 3|| 2|| 3|| 2|| 0|| 2|| 9
+|-
+| 2011|| 670|| 531|| 124|| 1|| 2|| 2|| 1|| nez.|| nez.|| 9
+|-
+| 2021|| 537|| 425|| 98|| 1|| 1|| 2|| 0|| nez.|| nez.|| 10
+|}
+
+=== Apdzīvotās vietas ===
+[[Mērdzene]], [[Pūdinova]], [[Latvīšu Stiglova]], Baranova, Boltāni, Čieri, Degterova, Diervanīši, Grabežova, Jaunpiragova, Kapačova, Kausinīki, Kitkova, Kozukolni, Kravcovka, Kreiči, [[Krīvu Stiglova]], Lapatnīki, Lielie Bati, Malzubri, Mihalova, Miški, Parsikova, Repki, Rūzori, Samuši, Silagaiļi, Silinīki, Silkāni, Sloboda, Šalaji, Šķirmanti, Tabulova, Vacpiragova, Zaiceva.
+
+== Saimniecība ==
+Pagastā reģistrētas 29 zemnieku saimniecības, 270 piemājas saimniecības, 3 kokapstrādes cehi, 3 veikali, kafejnīca, aptieka, šūšanas darbnīca. Latgales tūrisma apritē ir iesaistījusies z/s „Kramiņi” kā apskates saimniecība, kas piedāvā iepazīt bišu dravu, nogaršot dažādu šķirņu medu un zemenes, popularizē bioloģiskās saimniekošanas metodes. Ir sava amata meistari aušanā, adīšanā, kulinārijā, galdniecībā.
+
+=== Transports ===
+Pagasta teritoriju šķērso 1. šķiras autoceļš Kārsava—Ludza—Ezernieki, 2. šķiras autoceļi Ludza—Stiglova—Kārsava, Mērdzene—Goliševa, Mērdzene—Čieri un Mērdzene—Stiglova.
+
+== Izglītība un kultūra ==
+
+=== Izglītība ===
+[[Attēls:Jaunuzceltā Mērdzenes dziesmu estrāde.JPG|thumb|250px|Jaunuzceltā Mērdzenes dziesmu estrāde]]
+Mērdzenes pagastā skola pastāv kopš 1897. gada. Sākumā bija vairākas skolas, kurās mācības notika latviešu un krievu valodās. Ar 1964. gadu pagastā ir tikai viena divplūsmu skola. Pašreiz mācību process notiek latviešu valodā. Pamatskola izvietota divās ēkās: Mērdzenē (1.-4.kl.) un (pirmsskolas grupa) un Pudinavā (5.-9.kl.). Pamatskolā tiek īstenotas pirmsskolas un pamatizglītības programmas. Visam skolotāju kolektīvam ir augstākā pedagoģiskā izglītība. Savas intereses bērni pilnveido, darbojoties [[interešu izglītība|interešu pulciņā]], mazpulkā, datorpulciņā, mākslas-dizaina pulciņā, dejo tautu dejas, dzied vokālajā ansamblī. Mākslas — dizaina pulciņa dalībnieki, piedaloties starptautiskajos konkursos Polijā, Izraēlā, Somijā, Francijā, ir guvuši godalgotas vietas un atzinības.
+
+=== Kultūra un sabiedriskā dzīve ===
+[[Attēls:Piemiņas plāksne 2. Pasaules karā bojā gājušajiem.JPG|thumb|250px|Piemiņas plāksne Otrajā pasaules karā bojā gājušajiem]]
+Kopš 2001. gada pagastā darbojas sabiedriskais interešu centrs „Mērdzenes Gundega”, kas piedalās sabiedrisko aktivitāšu, pasākumu organizēšanā. Katru gadu pagastā tiek organizēts konkurss „Sakoptākā sēta”, rīkotas sporta sacensības, pļaušanas sacensības. Pagasts piedalās konkursā „Sakoptākais Latvijas pagasts”, 2002. un 2003. gadā iegūstot 3. vietu un 2006. gadā ieņemot 1. vietu Ludzas rajonā. Kopš 1997. gada pagasta dzīves aktualitātes atspoguļo informatīvais izdevums „Mērdzenes Vēstis”, kas iznāk vienu reizi mēnesī.
+Tradīcijām bagāta ir pagasta kultūras dzīve. Tajā ir iesaistījušies ap 100 pašdarbnieku. Darbojas etnogrāfiskais ansamblis, sieviešu koris „Austra” , jauniešu deju kolektīvs „Luste”. Pasākumi noris Mērdzenes Tautas namā (195 vietas) un 1999. gadā celtajā Mērdzenes brīvdabas estrādē.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Ludzas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Kārsavas novads}}
+{{Ludzas rajons}}
+{{Kārsavas rajons}}
+{{Ludzas apriņķis}}
+}}
+
+[[Kategorija:Latgale]]
+[[Kategorija:Ludzas novada pagasti]]
+[[Kategorija:Mērdzenes pagasts| ]]

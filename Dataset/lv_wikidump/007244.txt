@@ -1,0 +1,20 @@
+{{Uzlabošanas veidne
+ | šis = Šī|šī = Šīs|locīj = g
+ |         type = content
+ |        image = Unbalanced scales.svg
+ |   image_size = 40px
+ |         part = 
+ |        issue = [[Vikipēdija:Pamācība (Ņem vērā)#Neitrālais viedoklis|neitralitāte]] ir apšaubāma.
+ |          fix = 
+ |       reason = {{{2|}}}
+ |         help = pārrakstot tekstu neitrālā valodā
+ |         talk = 
+ | talk-section = {{{1|}}}
+ |        extra = 
+ |          cat = Raksti, kuru neitralitāte ir apšaubāma
+ |    cat-other = 
+ |        nocat = {{{nocat|}}}
+}}<noinclude>
+[[Kategorija:Raksti, kuru neitralitāte ir apšaubāma| ]]
+[[Kategorija:Neitralitātes veidnes]]
+</noinclude>

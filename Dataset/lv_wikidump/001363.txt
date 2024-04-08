@@ -1,0 +1,69 @@
+{{nosaukums slīprakstā}}
+{{Operētājsistēmas infokaste
+ | name                = ''GNU/Linux''
+ | logo                = Tux.svg
+ | logo caption        = Linux simbols — pingvīns [[Tukss]]<ref name="LinuxOnLine2008"/>
+ | logo_size           = 150px
+ | logo_alt            = Tux
+ | family              = [[Unix-tips]]
+ | developer           = kopiena
+ | source model        = galvenokārt [[atvērtais pirmkods]], [[slēgtais pirmkods]] arī pieejams
+ | frequently updated  = yes <!-- Release version update? Don't edit this page, just click on the version number! -->
+ | marketing target    = personālie datori, mobilās ierīces, iegultās ierīces, serveri, lieldatori, superdatori
+ | kernel type         = [[viengabalains kodols|viengabalains]] (''[[Linux]]'')
+ | ui                  = daudzas
+ | released            = 1991. gadā
+ | programmed in       = dažādas (īpaši [[C (programming language)|C]] un [[Assembly language|Assembly]])
+ | prog language       = daudzas
+ | userland            = dažādas
+ | supported platforms = [[DEC Alpha|Alpha]], [[Synopsys ARC|ARC]], [[ARM architecture|ARM]], [[AVR32]], [[Blackfin]], [[C6x]], [[ETRAX CRIS]], [[FR-V]], [[H8/300]], [[Qualcomm Hexagon|Hexagon]], [[Itanium]], [[M32R]], [[m68k]], [[Imagination META|META]], [[Microblaze]], [[MIPS architecture|MIPS]], [[MN103]], [[OpenRISC]], [[PA-RISC]], [[PowerPC]], [[s390]], [[S+core]], [[SuperH]], [[SPARC]], [[TILE64]], [[Unicore32]], [[x86]], [[Xtensa]] <!-- Do not include 64 bit extensions of 32 bit ISAs, e.g. sparc64, ppc64, x86-64, etc. -->
+ | license             = galvenokārt [[GNU GPL]] un citi<ref name="ohloh.net"/> (''Linux'' prečzīme pieder [[Līnuss Tūrvaldss|Līnusam Tūrvaldsam]]<ref name="US_trademark"/> un pārvalda ''[[Linux Mark Institute]]'')
+ | language            = daudzvalodu
+ | updatemodel         =
+ | working state       = pašreizējs
+ | year                = 1991
+ | date                = 2014. gada jūlijs
+}}
+
+'''''GNU/Linux''''' ir brīva [[operētājsistēma]], kas balstīta uz ''[[Linux]] ''kodola. Tā ir viens no labākajiem [[brīvā programmatūra|brīvās programmatūras]] un [[atvērtais kods|atvērtā koda]] programmatūras piemēriem.
+
+''GNU/Linux'' operētājsistēmu veido ''Linux'' kodols un [[GNU]] sistēmas bibliotēkas un utilītprogrammas. [[Linux distributīvs|''Linux'' distributīvi]] šim programmatūras klāstam mēdz pievienot vēl neskaitāmas papildus programmas. Termins ''Linux'' strikti attiecināms uz ''Linux'' kodolu, taču bieži vien šo terminu lieto, lai aprakstītu visas [[UNIX tips|UNIX tipa]] sistēmas (pazīstamas arī kā ''GNU/Linux'' sistēmas), kas balstītas uz ''Linux'' kodola un kombinētas ar GNU projekta bibliotēkām un rīkiem.
+
+== Vēsture ==
+1991. gadā [[Helsinku Universitāte]]s students [[Līnuss Tūrvaldss]] uzrakstīja Linux operētājsistēmas kodolu. Tas savienojumā ar [[GNU]] sistēmas bibliotēkām un utilītprogrammām veidoja GNU/Linux operētājsistēmu. Šo sistēmu sāka saukt vienkārši par ''Linux'', taču GNU projekta aizsācējs [[Ričards Stalmans]] norādīja, ka nav korekti izmantot GNU sistēmas programmatūru, bet neminēt tās nosaukumu.<ref>{{tīmekļa atsauce|title=Linux and the GNU System|url=https://www.gnu.org/gnu/linux-and-gnu.html|accessdate={{dat|2017|10|16||bez}}}}</ref> Kopš tā laika daudzi ir sākuši lietot korektāko nosaukumu ''GNU/Linux'', lai gan populāri ir palicis turpināt sistēmu saukt vienkārši par ''Linux''.
+
+== Distributīvi ==
+''[[Linux]]'' kodols savienojumā ar programmatūru veido [[Linux distributīvs|''Linux'' distributīvu]]. Tos veido gan firmas un organizācijas, gan arī vienkāršas personas brīvajā laikā. Izšķir plaša lietojuma ''Linux'' distributīvus, kas domāti ikdienas darbam, un specifiskas nozīmes ''Linux'' distributīvus, kas domāti konkrētiem mērķiem, piemēram, izmantošanai [[maršrutizators|maršrutizatoros]].
+
+Šobrīd vienīgais aktīvais Latvijā izstrādātais distributīvs ir [[Austrumi Linux|Austrumi ''Linux'']], ko uztur programmētāji no Latgales.<ref>{{Tīmekļa atsauce|url=http://cyti.latgola.lv/ruuni/|title=AUSTRUMI|last=Meinerts|first=Andrejs|access-date=28-01-2024}}</ref> Latvijā radīti ir arī ''Amber Linux'' (izstrādāja un izplatīja uzņēmums ''Lintech'') un LIIS ''Linux'', taču šie distributīvi šobrīd vairs netiek attīstīti. Latvijas lietotājiem ir paredzēts arī Lietuvā izstrādātais [[Baltix|Baltix Linux]].
+
+Dažu ''Linux'' distributīvu piemēri:
+
+* [[Debian]]
+* [[Fedora]]
+* [[Slackware]]
+* [[OpenSUSE]]
+* [[Ubuntu Linux|Ubuntu]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="LinuxOnLine2008">{{tīmekļa atsauce | url = http://www.linux.org/info/logos.html | title = Linux Logos and Mascots | accessdate = August 11, 2009 | last = Linux Online | year = 2008 | archiveurl = https://web.archive.org/web/20100815085106/http://www.linux.org/info/logos.html | archivedate = {{dat|2010|08|15||bez}} }}</ref>
+
+<ref name="ohloh.net">{{tīmekļa atsauce | title = Debian GNU/Linux Licenses | url = https://www.ohloh.net/p/debian/analyses/latest | publisher = Ohloh | accessdate = March 27, 2009 | archiveurl = https://web.archive.org/web/20120607025233/https://www.ohloh.net/p/debian/analyses/latest | archivedate = 7 June 2012 }} {{Webarchive|url=https://web.archive.org/web/20120607025233/https://www.ohloh.net/p/debian/analyses/latest |date={{dat|2012|06|07||bez}} }}</ref>
+
+<ref name="US_trademark">{{tīmekļa atsauce | url = http://assignments.uspto.gov/assignments/q?db=tm&rno=1916230 | title = U.S. Reg No: 1916230 | publisher = United States Patent and Trademark Office |accessdate=April 1, 2006 }}</ref>
+}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20190925114617/http://www.laka.lv/ Latvijas Atvērtā Koda Asociācija]
+* [http://linux.edu.lv/index.php LU Linux Centrs]
+* [https://web.archive.org/web/20090906002821/http://www.open-news.lv/ GNU/Linux Latvijā un pasaulē]
+* [https://web.archive.org/web/20090207215317/http://forums.gentoo.lv/ Gentoo Linux Latvijas kopiena]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Linux]]
+[[Kategorija:Operētājsistēmas]]
+[[Kategorija:UNIX]]

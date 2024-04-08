@@ -1,0 +1,39 @@
+{{Citas nozīmes|elektronikas komponenti|Spole|Spole}}
+'''Spole''' jeb, precīzāk, '''induktivitātes spole''' (no latīņu ''inductio'' — 'ierosināšana') ir pasīvais radioelements, kam piemīt relatīvi liela [[induktivitāte]], bet maza [[Elektriskā kapacitāte|kapacitāte]] un aktīvā (omiskā) [[Elektriskā pretestība|pretestība]]. Parasti tas ir spirālē savīts izolēts [[Elektriskais vadītājs|strāvas vadītājs]]. Šāda ierīce [[pašindukcija]]s rezultātā spēj uzkrāt [[enerģija|enerģiju]], tai cauri plūstot strāvai. Bieži induktivitātes spoles dēvē par [[indukcijas spole|indukcijas spolēm]], taču tas nav korekti, jo indukcijas spole (ierīce, ko lieto elektriskās dzirksteles iegūšanai) pēc būtības ir [[transformators]]. 
+Induktivitātes spoles, ko lieto [[maiņstrāva]]s atdalīšanai no [[līdzstrāva]]s elektriskajās ķēdēs, sauc par [[drosele (elektronika)|droselēm]].
+
+Spoles mēdz būt ar pastāvīgu induktivitātes vērtību vai ar lielā diapazonā regulējamu vērtību ([[variometrs|variometri]]).
+[[Attēls:Different induction coils.jpg|thumb|300px|right|Dažādas induktivitātes spoles.]]
+__TOC__
+== Spoles īpašības ==
+Spole elektriskajā ķēdē labi vada līdzstrāvu un tai pašā laikā tai ir liela pretestība maiņstrāvai, jo strāvas izmaiņu rezultātā spolē rodas [[pašindukcija]] (strāvas un tās radītā [[magnētiskais lauks|magnētiskā lauka]] mijiedarbības efekts), kas izraisa pretestību šīm izmaiņām. Spoles pretestība maiņstrāvai pieaug, palielinoties spoles induktivitātei un caur to plūstošās strāvas [[frekvence]]i.
+
+=== Induktivitāte ===
+[[Induktivitāte]] ir svarīgākais spoles raksturlielums. Induktivitātes mērvienība ir [[henrijs]]. Parasti radiotehnikā lietojamo spoļu induktivitāte ir no mikrohenrija daļām līdz dažiem milihenrijiem. Zemfrekvences [[Drosele (elektronika)|droseļu]] induktivitāte var sasniegt desmitiem henriju. Spoles induktivitāte proporcionāla tās ģeometriskajiem izmēriem, vijumu skaita kvadrātam un serdeņa (ja tāds ir) [[magnētiskā caurlaidība|magnētiskajai caurlaidībai]]. Induktivitātes dēļ spolei piemīt tā saucamā [[reaktīvā pretestība]].
+Pēc šī likuma induktivitātes [[Elektriskā pretestība|pretestība]] maiņstrāvai ir šāda:
+:<math>~X_L = {\omega L}</math>,  kur    <math>~~\omega = {2\pi f}.</math>
+[[Attēls:Indukc spoles.jpg|thumb|200px|right|Radioraidītāja induktivitātes spoles. Uztītas no resna sudrabota vada, lai samazinātu [[virsmas efekta]] zudumus]]
+
+=== Zudumu pretestība ===
+Bez pašindukcijas efekta spolē novērojami arī dažādi parazītiski efekti (spoles vadītāja aktīvā pretestība, zudumi dielektriķī, serdenī, ekrānā). Tie rada pretestību līdzstrāvai un enerģijas zudumus.
+
+=== Labums ===
+Spoles labums cieši saistīts ar tās zudumu pretestību un ir atkarīgs no spoles aktīvās un reaktīvās pretestības attiecības. Labumu var palielināt, izvēloties optimālu spoles vada diametru, palielinot spoles izmērus, izvēloties serdeņus ar maziem zudumiem.
+
+=== Temperatūras koeficients ===
+Induktivitātes temperatūras koeficients ir spoles induktivitātes relatīvā izmaiņa, spoles [[temperatūra]]i izmainoties par vienu grādu.
+
+== Spoļu tipi ==
+[[Attēls:Indukt brunju serde.jpg|thumb|200px|right|Induktivitātes spole ar bruņu serdi (otrajā attēlā serde daļēji noņemta)]]
+Spoles var būt uztītas ar viendzīslas vai daudzdzīslu vadu uz cilindriska, toroidāla vai taisnstūraina karkasa. Vads parasti ir izolēts, taču augstfrekvences spolēm, ko izmanto radioraidītāju izejās un caur kurām plūst lielas strāvas, lieto neizolētu vadu ar sudraba pārklājumu. Ir arī bezkarkasa spoles. Spoļu tinumi var būt vienslāņa (cieši vai ar soli) vai daudzslāņu.
+Lai palielinātu spoles induktivitāti, izmanto feromagnētiska materiāla ([[ferīts|ferīta]], [[karbonildzelzs]], [[permalojs|permaloja]], elektrotehniskā [[tērauds|tērauda]]) serdeņus. Lai nelielās robežās mainītu (pieskaņotu) spoles induktivitāti, serdenis var būt pārvietojams spoles iekšpusē. Lai induktivitāti mainītu lielākās robežās, lieto ierīci no divām spolēm, kuru savstarpējais stāvoklis ir maināms (sk. [[variometrs]]). Dažreiz spolēm ir t. s. bruņu serdes, kas aptver spoli no ārpuses. Radiotehnikā bieži izmanto ekranētas spoles, kam ir metāliski ekrāni, kas novērš parazītiskas [[induktīvā saite|induktīvās saites]] starp spoli un citiem radioelementiem.
+
+== Spoļu praktiskā pielietošana ==
+Spoles plaši izmanto [[radiotehnika|radiotehnikā]]. Kopā ar [[kondensators|kondensatoriem]] un [[rezistors|rezistoriem]] tās veido elektriskās ķēdes, kuru īpašības ir atkarīgas no [[frekvence]]s ([[svārstību kontūrs|svārstību kontūri]], filtri, atgriezeniskās saites). Impulsu barošanas avotos spoles lieto kā enerģijas uzkrājējus spriegumu pārveidošanai. Ar spoļu palīdzību nodrošina induktīvās saites starp elektriskajām ķēdēm. Divas vai vairākas induktīvi saistītas spoles veido [[transformators|transformatoru]]. Spoles ir arī [[elektromagnēts|elektromagnētu]] galvenā sastāvdaļa (sk. [[solenoīds]]).
+
+== Skatīt arī ==
+* [[Variometrs]]
+{{Elektroniskie komponenti|state=expanded}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektronikas komponentes]]

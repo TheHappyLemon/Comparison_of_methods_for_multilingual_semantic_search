@@ -1,0 +1,12 @@
+{{Navbox with columns
+|name=Okeāni
+|title=[[Okeāns|Pasaules okeāni]]
+|colwidth = 20%
+|col1=[[Image:Atlantic Ocean.png|65px]]<br/>[[Atlantijas okeāns]]
+|col2=[[Image:Southern Ocean.png|65px]]<br/>[[Dienvidu okeāns]]
+|col3=[[Image:Indianocean.PNG|65px]]<br/>[[Indijas okeāns]]
+|col4=[[Image:Pacific_Ocean.png|65px]]<br/>[[Klusais okeāns]]
+|col5=[[Image:Arctic Ocean.png|65px]]<br/>Arktiskais ([[Ziemeļu Ledus okeāns]])
+}}<noinclude>
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

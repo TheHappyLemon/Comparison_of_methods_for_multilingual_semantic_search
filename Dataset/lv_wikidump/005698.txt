@@ -1,0 +1,144 @@
+{{cita nozīme|1992. gada olimpisko spēļu ASV basketbola izlasi|filmu|Sapņu komanda 1935}}
+{{Sporta izlases infokaste
+ | valsts         = 
+ | valsts_angl    = the United States
+ | att_izm        = 
+ | logo           = [[File:Usa basketball 2012.png|200px]]
+ | logo_izm       = 
+ | dibin          = 
+ | federācija     = USA Basketball
+ | iest gads      = 1934
+ | iest kom       = [[Starptautiskā basketbola federācija|FIBA]]
+ | konfederācija  = [[FIBA Americas]]
+ | vieta rangā    = 1.
+ | rangs max      = 
+ | rangs max date = 
+ | rangs min      = 
+ | rangs min date = 
+ | iesauka        = 
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = [[Stīvs Kerrs]]
+ | kapteinis      = 
+ | visv spēles    = 
+ | visv punktu    = 
+<!--- OS --->
+ | OS reizes      = 19
+ | OS medaļas     = <!-- {{ubl
+|{{Gold1}} ''Zelts'': 1936, 1948, 1952, 1956, 1960, 1964, 1968, 1976, 1984, 1992, 1996, 2000, 2008, 2012, 2016, 2020
+|Sudrabs: 
+|Bronza: 
+}} -->
+ | OS lab sasn    = {{Gold1}} ''Zelts'': (1936, 1948, 1952, 1956, 1960, 1964, 1968, 1976, 1984, 1992, 1996, 2000, 2008, 2012, 2016, 2020)
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts basketbolā|Pasaules čempionāts]]
+ | PČ reizes      = 19
+ | PČ medaļas     = {{ubl
+|{{Gold1}} ''Zelts'': 1954, 1986, 1994, 2010, 2014
+|{{Silver2}} ''Sudrabs'': 1950, 1959, 1982
+|{{Bronze3}} ''Bronza'': 1974, 1990, 1998, 2006
+}}
+ | PČ lab sasn    = 1. vieta (1954, 1986, 1994, 2010, 2014)
+<!--- Zona --->
+ | zona nos       = [[Amerikas čempionāts basketbolā|Amerikas čempionāts]]
+ | zona reizes    = 10
+ | zona medaļas   = {{ubl
+|{{Gold1}} ''Zelts'': 1992, 1993, 1997, 1999, 2003, 2007, 2017
+|{{Silver2}} ''Sudrabs'': 1989
+|{{Bronze3}} ''Bronza'': 2022
+}}
+ | zona lab sasn  = 
+<!--- Turn --->
+ | turn nos       = 
+ | turn reizes    = 
+ | turn medaļas   = 
+ | turn lab sasn  = 
+}}
+'''ASV basketbola izlase''' ir komanda, kas pārstāv [[Amerikas Savienotās Valstis|ASV]] tādās starptautiskās [[Basketbols|basketbola]] sacensībās kā [[Basketbols olimpiskajās spēlēs|olimpiskās spēles]], [[Pasaules čempionāts basketbolā|Pasaules čempionāts]] un [[Amerikas čempionāts basketbolā|Amerikas čempionāts]].
+
+Izlases lielākais panākums ir zelts 16 olimpiskajās spēlēs.
+
+Pašlaik (2023. gada septembris) ASV izlase [[FIBA Pasaules rangs|FIBA Pasaules izlašu rangā]] ieņem 1. vietu.<ref>{{Tīmekļa atsauce|url=http://www.fiba.basketball/rankingmen|title=FIBA World Ranking Presented by NIKE, men|website=FIBA.basketball|access-date=2023-09-15|language=en}}</ref> Kopš 1989. gada, kad [[Starptautiskā basketbola federācija|FIBA]] starptautiskajās spēlēs atļāva piedalīties [[Nacionālā basketbola asociācija|NBA]] basketbolistiem, ASV izlase gandrīz simtprocentīgi sastāv no [[Nacionālā basketbola asociācija|NBA]] spēlētājiem. Par visu laiku labāko ASV izlases komandu tiek uzskatīta {{oss|V=1992|L=Ģ}} komanda, kuras sastāvā bija [[Maikls Džordans]], [[Maģiskais Džonsons]] un citas [[Nacionālā basketbola asociācija|NBA]] leģendas. Šī izlase tika nosaukta par "Sapņu komandu" (''Dream Team'').
+
+== Sasniegumi ==
+{{OSB tabula
+| dzimums = V
+| 1936 = 1
+| 1948 = 1
+| 1952 = 1
+| 1956 = 1
+| 1960 = 1
+| 1964 = 1
+| 1968 = 1
+| 1972 = 2
+| 1976 = 1
+| 1980 = ''boikotēja''
+| 1984 = 1
+| 1988 = 3
+| 1992 = 1
+| 1996 = 1
+| 2000 = 1
+| 2004 = 3
+| 2008 = 1
+| 2012 = 1
+| 2016 = 1
+| 2020 = 1
+}}
+{{PČB tabula
+| dzimums = V
+| 1950 = 2
+| 1954 = 1
+| 1959 = 2
+| 1963 = pusfināls
+| 1967 = pusfināls
+| 1970 = ceturtdaļfināls
+| 1974 = 3
+| 1978 = ceturtdaļfināls
+| 1982 = 2
+| 1986 = 1
+| 1990 = 3
+| 1994 = 1
+| 1998 = 3
+| 2002 = ceturtdaļfināls
+| 2006 = 3
+| 2010 = 1
+| 2014 = 1
+| 2019 = 7
+| 2023 = 4
+}}
+{{AČB tabula
+| dzimums = V
+| 1980 = ''nepiedalījās''
+| 1984 = ''nepiedalījās''
+| 1988 = ''nepiedalījās''
+| 1989 = 2
+| 1992 = 1
+| 1993 = 1
+| 1995 = ''nepiedalījās''
+| 1997 = 1
+| 1999 = 1
+| 2001 = pirmā kārta
+| 2003 = 2
+| 2005 = pusfināls
+| 2007 = 1
+| 2009 = ''nepiedalījās''
+| 2011 = ''nepiedalījās''
+| 2013 = ''nepiedalījās''
+| 2015 = ''nepiedalījās''
+| 2017 = 1
+| 2022 = 3
+}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā mājaslapa|http://www.usabasketball.com/mens/national/}}
+
+{{Basketbols-aizmetnis}}
+
+[[Kategorija:Basketbola izlases]]
+[[Kategorija:Basketbols ASV]]

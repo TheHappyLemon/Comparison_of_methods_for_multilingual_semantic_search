@@ -1,0 +1,20 @@
+[[Attēls:Dichroic filters.jpg|thumb|250px|[[Dihroiskais filtrs|Dihroiskajiem filtriem]] tiek izmantoti optiski caurspīdīgi materiāli.]]
+
+'''Caurspīdīgums''' jeb '''caurspīdība''' [[optika|optikā]] un pārsvarā arī citās [[lietišķā zinātne|lietišķajās zinātnēs]] ir [[viela]]s spēja laist sev cauri [[gaisma|gaismu]]. Caurspīdīgam materiālam var skaidri redzēt cauri — tas tikpat kā neizkropļo aiz tā esošo ainu. Pretēja īpašība ir '''necaurredzamība'''. Daļēji caurspīdīgs materiāls ļauj izkļūt cauri gaismai, to izkliedējot un neļaujot saskatīt ainu aiz šī materiāla.
+
+Caurspīdību parasti attiecina uz [[redzamā gaisma|redzamo gaismu]], taču šis termins būtībā attiecas uz jebkuru starojuma veidu. Piemēram, mīkstie audi ir caurspīdīgi [[rentgenstari|rentgenstaros]], savukārt kauli — nē. Šī īpašība ļauj izmantot rentgenstarus [[medicīna|medicīnā]].
+
+Lielā mērā caurspīdīgi materiāli ir [[Zemes atmosfēra|gaiss]], daudzas citas [[gāze]]s, [[šķidrums|šķidrumi]] (piemēram, [[ūdens]]), vairums [[stikls|stiklu]], [[organiskais stikls]] un daudzas [[plastmasa]]s. Ja caurspīdība ir atšķirīga dažādiem gaismas [[elektromagnētiskais vilnis|viļņu]] garumiem, materiāls iegūst noteiktu krāsu. Šādu īpatnību var izraisīt [[metāls|metāla]] vai citu elementu [[atoms|atomu]] piejaukums [[kristāliskais režģis|kristāliskajā režģī]] vai tieši pretēji — noteiktu atomu iztrūkums režģī. Krāsu var radīt arī materiālā izkliedētas lielāka izmēra daļiņas — piemēram, [[dūmi]] gāzveida vielās. Ja šādu daļiņu skaits ir pietiekoši liels, materiāls var kļūt necaurspīdīgs.
+
+Absolūti caurspīdīgs ir tikai [[vakuums]], jo tur nenotiek gaismas viļņu absorbcija. Jebkurš materiāls [[absorbcija|absorbē]] kaut nedaudz gaismas viļņu.
+
+Atsevišķu veidu [[kristāls|kristālos]] kristāliskā režģa uzbūve nosaka to, ka caurspīdīgums mainās atkarībā no virziena, kādā pagriezts kristāls.
+
+Caurspīdība ir viena no [[minerāls|minerālu]] īpašībām, kas palīdz noteikt minerāla veidu.
+
+== Caurspīdīgu materiālu lietojums ==
+
+Caurspīdīgus materiālus parasti izmanto visur tur, kur nepieciešams laist cauri gaismu, bet nedrīkst cauri laist vielas (gaisu, ūdeni, utml.). Tādējādi caurspīdīgi ir māju logi, vitrīnas, siltumnīcu plēves utt.
+
+[[Kategorija:Optika]]
+[[Kategorija:Mineraloģija]]

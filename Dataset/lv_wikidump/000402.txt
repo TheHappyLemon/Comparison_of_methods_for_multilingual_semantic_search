@@ -1,0 +1,21 @@
+{{Navbox
+|name=NVS
+|title=[[Neatkarīgo Valstu Sadraudzība]] {{flaga|Neatkarīgo Valstu Sadraudzība}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Armēnija]]
+* [[Azerbaidžāna]]
+* [[Baltkrievija]]
+* [[Kazahstāna]]
+* [[Kirgizstāna]]
+* [[Krievija]]
+* [[Moldova]]
+* [[Tadžikistāna]]
+* [[Uzbekistāna]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

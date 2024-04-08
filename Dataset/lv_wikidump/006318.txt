@@ -1,0 +1,23 @@
+[[Image:PrimeDecompositionExample.svg|right|thumb|200px|Piemērs, skaitlis 864 pirmreizinātājos.]]
+'''Pirmreizinātājs''' ir kāda [[naturāls skaitlis|naturāla skaitļa]] [[dalītājs]], kas ir [[pirmskaitlis]]. Piemēram, skaitļa 12 pirmreizinātāji ir 2 un 3, bet skaitļa 25 vienīgais pirmreizinātājs ir 5. Skaitli sadalīt pirmreizinātājos nozīmē izteikt to kā vairāku pirmskaitļu reizinājumu, katram pirmskaitlim norādot arī kāpinātāju, ar kādu tas ietilpst dotajā skaitlī. Piemēram, 12 = 2<sup>2</sup> · 3, 7 = 7<sup>1</sup>, 360 = 2<sup>3</sup> · 3<sup>2</sup> · 5, utt. [[Aritmētikas pamatteorēma]] apgalvo, ka katru naturālu skaitli, kas lielāks par 1, var sadalīt pirmreizinātājos, turklāt vienā vienīgā veidā (neņemot vērā pirmreizinātāju kārtību). Skaitlim 1 nav pirmreizinātāju, jo tas dalās tikai ar 1, kas nav pirmskaitlis.
+
+Izmantojot to, ka mazākais pirmskaitlis ir 2, var viegli pierādīt, ka jebkura naturāla skaitļa <math>n</math> pirmreizinātāju skaits nepārsniedz [log<sub>2</sub> ''n''].
+
+== Informācijas šifrēšana ==
+
+Skaitļa <math>n</math> sadalīšana pirmreizinātājos ir grūts uzdevums, sevišķi ja <math>n</math> ir liels. Labākais patlaban zināmais [[algoritms]] šo uzdevumu veic subeksponenciālā laikā.<ref>{{Atsauce | last1 = Crandall | first1 = Richard E. | last2 = Pomerance | first2 = Carl | title = Prime numbers: a computational perspective | publisher = Springer | year = 2005 | isbn = 978-0-38-725282-7}}, Chapter 6, Subexponential factoring algorithms, [http://books.google.ca/books?id=RbEz-_D7sAUC&pg=PA261 261. lpp.]</ref> Izmantojot pieņēmumu, ka skaitļa sadalīšanai pirmreizinātājos ir nepieciešams ļoti ilgs laiks, ir radītas grūti uzlaužamas šifrēšanas metodes. Kamēr netiks izveidots ātrs algoritms skaitļu sadalīšanai pirmreizinātājos, tikmēr šīs metodes ir praktiski neuzlaužamas. Populārākā no šīm metodēm ir [[RSA šifrēšanas algoritms]].
+
+Neskatoties uz to, ka joprojām nav zināms, kāds ir ātrākais algoritms skaitļu sadalīšanai pirmreizinātājos (lietojot tradicionālos datorus), ir pierādīts, ka ar [[kvantu dators|kvantu datoru]] to ir iespējams izdarīt pietiekoši ātri (polinomiālā laikā). Pagaidām vēl nav uzbūvētas ierīces, kas to spētu izdarīt pietiekoši lieliem skaitļiem (pašreizējie kvantu datori spēj sadalīt pirmreizinātājos skaitli 15).<ref>[http://www.nature.com/nature/links/011220/011220-2.html NMR quantum computing: Realizing Shor's algorithm], ''Nature'', December 2001.</ref>
+
+== Skatīt arī ==
+
+* [[Aritmētikas pamatteorēma]]
+* [[Pirmskaitlis]]
+* [[Dalītājs]]
+
+== Atsauces ==
+
+{{atsauces}}
+
+[[Kategorija:Pirmskaitļi]]
+[[Kategorija:Skaitļu teorija]]

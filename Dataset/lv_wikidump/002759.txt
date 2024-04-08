@@ -1,0 +1,54 @@
+{{Upes infokaste 
+| nosaukums         = Maina
+| citvaloda         = de
+| oriģinālnosaukums = Main
+| attēls            = Würzburg Löwenbrücke.jpg
+| attēla_izmērs     = 300px
+| paraksts          = Maina pie [[Vircburga]]s
+| karte             = Main-Karte-160710.jpg
+| kartes_paraksts   = Mainas baseins
+| kartes_izmērs     = 300px
+| izteka            = [[Franku Alba]] un [[Fihtela kalni]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Reina]]
+| baseina_valstis   = {{DEU}}
+| tek_caur          = {{DEU}}
+| garums            = 524,9
+| iztekas_augstums  = 1386
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 
+| gada_notece       = 5,4
+| baseins           = 27 292 
+| pietekas          = 
+| sāk_plat_d=50 | sāk_plat_m=5 | sāk_plat_s=11 | sāk_plat_NS=N 
+| sāk_gar_d=11 | sāk_gar_m=23 | sāk_gar_s=54 | sāk_gar_EW=E 
+| iet_plat_d=49 | iet_plat_m=59 | iet_plat_s=40 | iet_plat_NS=N 
+| iet_gar_d=8 | iet_gar_m=17 | iet_gar_s=36 | iet_gar_EW=E
+}}
+'''Maina''' ({{val|de|Main}}) ir upe [[Vācija|Vācijā]] ([[Bavārija|Bavārijā]], [[Bādene-Virtemberga|Bādenē-Virtembergā]] un [[Hesene|Hesenē]]). Lielākā [[Reina]]s labā krasta pieteka. Veidojas, satekot '''Rotermainai''' (Sarkanajai Mainai) [[Franku Alba|Franku Albā]] un '''Veisermainas''' (Baltajai Mainai) [[Fihtela kalni|Fihtela kalnos]]. Daļa no [[Reina]]s — Mainas — [[Donava]]s ūdensceļa.
+
+== Lielas pilsētas Mainas krastos ==
+* [[Baireita]] (''Bayreuth'') (pie Rotermainas)
+* [[Bamberga]] (''Bamberg'')
+* [[Šveinfurte]] (''Schweinfurt'')
+* [[Vircburga]] (''Würzburg'')
+* [[Ašafenburga]] (''Aschaffenburg'')
+* [[Hānava]] (''Hanau'')
+* [[Ofenbaha]] (''Offenbach am Main'')
+* [[Frankfurte pie Mainas]] (''Frankfurt am Main'')
+* [[Rīselsheima]] (''Rüsselsheim'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{Vācija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Bādene-Virtemberga]]
+[[Kategorija:Bavārija]]
+[[Kategorija:Hesene]]

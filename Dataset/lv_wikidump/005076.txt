@@ -1,0 +1,80 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Deniss Gabors
+|     vārds_orig = ''Dennis Gabor''
+|         attēls = Gabor-magyarposta.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1900
+|     dz_mēnesis = 6
+|       dz_diena = 5
+|       dz_vieta = {{vieta|Ungārija|Budapešta}}
+|      m_dat_alt = 
+|         m_gads = 1979
+|      m_mēnesis = 2
+|        m_diena = 8
+|        m_vieta = {{vieta|Anglija|Londona}}
+|   dzīves_vieta = 
+|      pilsonība = {{ubl|{{HUN}}|{{GBR}}}}
+| tautība = 
+| dzimums = 
+| vecāki = 
+| brāļi = 
+| māsas = 
+| dzīvesbiedrs = 
+| bērni = 
+| paraksts = 
+| darba_vietas = {{ubl|[[Londonas Impērijas koledža]]|''[[British Thomson-Houston]]''}}
+| alma_mater = {{ubl|[[Čarlotenburgas Tehniskajā universitāte]]|[[Budapeštas Tehniskā universitāte]]}}
+| zinātne = [[elektrotehnika]]s inženierija<br>[[fizika]]
+| pasniedzēji = 
+| studenti = 
+| sasniegumi = [[Hologrāfija]]s atklāšana
+| apbalvojumi = 1971. gada [[Nobela prēmija fizikā]]
+| piezīmes = 
+| kategorijas = 
+}}
+'''Deniss Gabors''' ({{Val-en|Dennis Gabor}}, dzimis '''Dēnešs Gābors''' ({{Val-hu|Gábor Dénes}}) {{dat|1900|6|5}} [[Budapešta|Budapeštā]], miris {{dat|1979|2|9}} [[Londona|Londonā]]) bija [[ungāri|ungāru]] izcelsmes [[Lielbritānija|britu]] [[elektrotehnika]]s inženieris un [[fizika|fiziķis]]. 1947. gadā izgudroja [[hologrāfija|hologrāfiju]], par ko 1971. gadā ieguva [[Nobela prēmija fizikā|Nobela prēmiju fizikā]].<ref>{{tīmekļa atsauce |title=The Nobel Prize in Physics 1971 |publisher=Nobel Foundation |url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1971/}}</ref>
+
+== Biogrāfija ==
+Gabors ir studējis [[Budapeštas Tehniskā Universitāte|Budapeštas Tehniskajā universitātē]] un [[Čarlotenburgas Tehniskā Universitāte|Čarlotenburgas Tehniskajā universitātē]] [[Berlīne|Berlīnē]]. Savas karjeras sākumā viņš analizēja elektrisko augstsprieguma līniju īpašības, izmantojot katodstaru [[oscilogrāfs|oscilogrāfu]], kas viņā izraisīja interesi par elektronu optiku. Pētot oscilogrāfu fundamentālos darbības procesus, Gabors izmantoja citas elektronstaru ierīces, piemēram, [[elektronmikroskops|elektronmikroskopus]] un elektronu lampas. 1927. gadā viņš rakstīja darbu par [[kineskops|kineskopu]], lai iegūtu [[doktora grāds|doktora grādu]], un strādāja pie [[plazmas lampa|plazmas lampu]] izstrādes.
+
+1933. gadā D. Gabors atstāja [[Vācija|Vāciju]], un viņam darbu piedāvāja [[briti]]. Viņš sāka strādāt inženierijas kompānijā ''[[British Thomson-Houston]]'', ([[Ragbi]], [[Vorikšīra|Vorikšīrā]]). Šajā laikā viņš iepazinās ar Mārdžoriju Batleru (''Marjorie Butler''), kura 1936. gadā kļuva par viņa sievu.
+
+Strādājot kompānijā ''British Thomson-Houston'', 1947. gadā Gabors izgudroja [[hologrāfija|hologrāfiju]]. Pirmā hologramma gan tapa tikai 1964. gadā, pēc tam, kad 1960. gadā bija izgudrots [[lāzers]]. Tikai tad hologrāfija sāka attīstīties arī komerciāli.
+
+1948. gadā Gabors sāka strādāt [[Londonas Impērijas koledža|Londonas Impērijas koledžā]]. No 1958. gada viņš bija [[lietišķā fizika|lietišķās fizikas]] profesors, līdz pat 1967. gadam, kad pensionējās.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://nobelprize.org/nobel_prizes/physics/laureates/1971/gabor-bio.html Denisa Gabora biogrāfija Nobela prēmijas mājaslapā] {{angliski}}
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība
+ | virsraksts = [[Nobela prēmija fizikā]]
+ | periods    = 1971
+ | pirms      = [[Hanness Alfvēns]]<br />[[Luijs Eižens Felikss Neēls]]
+ | pēc        = [[Džons Bardīns]]<br />[[Leons Kūpers]]<br />[[Roberts Šrīfers]]
+}}
+{{kastes beigas}}
+
+{{Nobela prēmijas laureāti fizikā}}
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Gabors, Deniss}}
+[[Kategorija:1900. gadā dzimušie]]
+[[Kategorija:1979. gadā mirušie]]
+[[Kategorija:Budapeštā dzimušie]]
+[[Kategorija:Ungārijas ebreji]]
+[[Kategorija:Ungāru fiziķi]]
+[[Kategorija:Britu fiziķi]]
+[[Kategorija:Hologrāfija]]
+[[Kategorija:Ungāru izgudrotāji]]
+[[Kategorija:Ebreju zinātnieki]]
+[[Kategorija:Nobela prēmijas laureāti fizikā]]

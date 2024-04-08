@@ -1,0 +1,48 @@
+[[Attēls:Ideal gas laws- iso- processes.png|thumb|300x300px|Izo- procesi: [[Šarla likums]], [[Gē-Lisaka likums]], [[Boila—Mariota likums|Boila-Mariota likums]].]]
+'''Ideāla gāze''' ir [[gāze]]s vienkāršots modelis. Šajā modelī gāzes [[tilpums|tilpumu]] ''V'', [[spiediens|spiedienu]] ''p'' un absolūto [[temperatūra|temperatūru]] ''T'', nemainoties gāzes [[masa]]i, saista sakarība:
+
+:<math>\frac{p \cdot V}{T}=const</math>.
+
+Šī sakarība ir ideālas gāzes stāvokļa vienādojuma vienkāršots variants, ko formulēja franču fiziķis [[Benuā Klapeirons]].
+
+Visas vielas gāzveida stāvoklī ir [[Reāla gāze|reālas gāzes]] un tām šis vienādojums ir pareizs tikai tuvināti, tomēr tas ir pietiekami precīzs praktiski visām retinātām gāzēm, ja to temperatūra ir tālu no kondensēšanās (iztvaikošanas) temperatūras. 
+
+Pieņem, ka ideālas gāzes [[molekula]]s ir ar neievērojamu tilpumu, to sadursmes ir pilnībā elastīgas, nepastāv nekādi starpmolekulārie spēki un molekulas kustas haotiski.
+
+== Klapeirona-Mendeļejeva vienādojums ==
+[[Attēls:Ideal gas law relationships.svg|thumb|Dažādie gāzu likumi, ja ir viens mols gāzes.]]
+Jebkuros citos apstākļos gāzei, ja tās tilpums ir V, [[spiediens]] p, absolūtā temperatūra T, masa ir m un [[molmasa]] ir M, [[ideālas gāzes stāvokļa vienādojums]] ir
+:<math>pV = \frac{m}{M}RT</math>.
+
+Šo vienādojumu ir ieguvis [[Dmitrijs Mendeļejevs|D. Mendeļejevs]] 1874. gadā, papildinot Klaiperona vienādojumu.
+
+Konstanti (''const'') Klapeirona vienādojumā ērti noteikt tad, ja gāzes daudzums ir viens [[mols]], jo zināms, ka 1 mol jebkuras gāzes absolūtajā temperatūrā ''T''<sub>0</sub> = 273,15 K (0° C) un normālā spiedienā p<sub>0</sub> = 1,013×10<sup>5</sup> Pa vienmēr aizņem tilpumu V<sub>0</sub> = 0,0224 m<sup>3</sup> (22,4 [[litrs|l]]). Šajos apstākļos
+:<math>\frac{p_0 V_0}{T_0} = R</math>,
+kur konstanti R = 8,314 J/(mol*K) sauc par [[Gāzu konstante|universālo gāzu konstanti]]. Šī konstante ir vienāda ar [[Bolcmaņa konstante]]s un [[Avogadro skaitlis|Avogadro skaitļa]] reizinājumu.
+
+=== Piemērs ===
+
+* Divi baloni savienoti ar cauruli, kurai ir krāns. Pirmajā balonā ar tilpumu <math>V_1 = 2 \ litri</math> ir gāze pie spiediena <math>p_1 = 1.013 \cdot 10^5  \  Pa</math>, otrajā – gāze ar tilpumu <math>V_2 = 7 \ litri </math> un spiedienu <math>p_2 = 0.533 \cdot 10^5  \  Pa  </math>. Aprēk̦ināt spiedienu balonos pēc krāna atvēršanas, ja temperatūra ir vienāda abos balonos.
+
+Gāzes daudzums, temperatūra ir konstanta, tādēļ <math>pV = const</math>. Iespējams apskatīt, kā katra gāze atsevišķi izplešas:
+
+Pirmai gāzei salīdzinot sākumu un beigas <math>p_1 V_1 = p_{1 \ beigas}(V_1+V_2)  </math>, jeb <math>p_{1 \ beigas} = \frac{p_1 V_1}{V_1+V_2} \approx 2,25 \cdot 10^4 Pa   </math>
+
+Otrai gāzei salīdzinot sākumu un beigas <math>p_2 V_2 = p_{2 \ beigas}(V_2+V_1)    </math>, jeb <math>p_{2 \ beigas} = \frac{p_2 V_2}{V_2+V_1} \approx 4,15 \cdot 10^4 Pa     </math>
+
+Spiedieni summējas, gluži kā [[Daltona likums|daltona likumā]] un iegūst <math>p_{kopa} = p_{1 \ beigas} + p_{2 \ beigas} \approx 2,25 \cdot 10^4 Pa  + 4,15 \cdot 10^4 = 6,4 \cdot 10^4 Pa       </math>.
+
+== Skatīt arī ==
+* [[Gāze]]
+* [[Reāla gāze]]
+* [[Spiediens]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+[[Kategorija:Statistiskā mehānika]]
+[[Kategorija:Termodinamika]]
+[[Kategorija:Fizikas modeļi]]

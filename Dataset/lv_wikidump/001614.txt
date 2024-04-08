@@ -1,0 +1,63 @@
+{{Elementa infokaste
+ |                  tips = sārmu metāls
+ |       kārtas skaitlis = 19
+ |              1. čaula = 2
+ |              2. čaula = 8
+ |              3. čaula = 8
+ |              4. čaula = 1
+ |               simbols = K
+ |              atommasa = 39,0983
+ |    valences elektroni = [Ar]4s<sup>1</sup>
+ |        tabulas attēls = [[Attēls:K-TableImage.svg|250px]]
+ |                attēls = [[Attēls:KaliumunterTetrahydrofuran.JPG|170px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:FlammenfärbungK.png|60px]]<br />Kālija gabaliņš [[tetrahidrofurāns|tetrahidrofurānā]] un kālija jonu dotā violetā [[liesma]]s krāsa
+ |   oksidēšanas pakāpes = '''+1'''
+ |   elektronegativitāte = 0,82
+ |               blīvums = 856
+ |   kušanas temperatūra = 336,53 K (63,38&nbsp;°C)
+ |  viršanas temperatūra = 1032 K (759&nbsp;°C)
+ |   īpatnējā pretestība = (20 °C) 7,2{{E|-8}}
+ |         skaņas ātrums = (20 °C) 2000
+ | Van der Vālsa rādiuss = 275
+}}
+
+'''Kālijs''' ir [[ķīmiskais elements]] ar simbolu '''K''' un [[atomskaitlis|atomskaitli]] 19. Kālijs ir viens no [[sārmu metāli]]em. Dabā brīvā veidā šis elements nav sastopams, jo ķīmiski ir ļoti aktīvs. Brīvā veidā kāliju iegūst, [[elektrolīze|elektrolizējot]] tā savienojumu — parasti hlorīda vai hidroksīda kausējumus. Kālijs savienojumos var būt tikai vienvērtīgs, ar oksidēšanas pakāpi +1.
+
+== Vēsture ==
+Kālijs bija pirmais metāls, kas tika izolēts [[elektrolīze]]s rezultātā.<ref name="Los Alamos"/> To 1807. gadā paveica angļu ķīmiķis sers [[Hamfrijs Deivijs]] (''Humphry Davy'').
+
+Kālija nosaukums ir cēlies no [[arābu valoda|arābu]] vārda {{ara|القَليَه}}, ''al-qalya'', kas tulkojumā nozīmē "[[pelni]]" vai arī "[[sārmu metāls|sārms]]". Angļu valodā to sauc par ''potassium'', jo to agrāk visvairāk ieguva no [[potaša]]s (K<sub>2</sub>CO<sub>3</sub>).
+
+== Atrašanās dabā ==
+Dabā kālijs ir sastopams galvenokārt [[hlorīdi|hlorīdu]] un [[sulfāti|sulfātu]] veidā, kā arī [[alumosilikāti|alumosilikātos]] (kālija [[laukšpats]]). [[Zemes garoza|Zemes garozā]] tas ir septītais izplatītākais ķīmiskais elements.<ref name="Los Alamos"/> Kālijs sastāv no diviem stabiliem [[izotops|izotopiem]]:<ref name="jlab"/> kālijs-39 (93,2581% no kopējā kālija daudzuma dabā) un kālijs-41 (6,7302%).<ref name="jlab2"/> Atlikušos 0,0117% no dabā sastopamā kālija veido [[radioaktivitāte|radioaktīvais]] kālijs-40, kura [[pussabrukšanas periods]] ir 1,265{{E|9}} gadi.<ref name="jlab2"/>
+
+Cilvēka organismā kāliju saturošiem savienojumiem ir liela nozīme normālā [[sirdsdarbība|sirdsdarbībā]] un [[nervu impulss|nervu impulsu]] pārvadīšanā. Ar kāliju saturošiem savienojumiem bagātas ir [[auzu pārslas]], bet salīdzinoši daudz kāliju saturošu vielu ir arī [[redīsi|redīsos]], [[ķirši|ķiršos]] un [[kartupeļi|kartupeļos]]. Diennaktī cilvēkam nepieciešams uzņemt organismā 2,5–5 g kālija.
+
+== Fizikālās īpašības ==
+Kālijs ir sudrabaini balts, mīksts un plastisks [[sārmu metāli|sārmu metāls]], ko var griezt ar [[nazis|nazi]].
+
+== Ķīmiskās īpašības ==
+[[Attēls:Potassium water 20.theora.ogv|thumbnail|200px|Kālija reakcija ar ūdeni]]
+Kālijam piemīt [[sārmi]]em raksturīgas ķīmiskās īpašības. Ļoti aktīvi reaģē ar [[nemetāli]]em, [[ūdens|ūdeni]], [[skābes|skābēm]]. Veicot šādus eksperimentus, ir jābūt ļoti piesardzīgiem. Degot [[gaiss|gaisā]], veido [[kālija superoksīds|kālija superoksīdu]] jeb peroksiperoksīdu KO<sub>2</sub>. Tas reaģē arī ar gaisā esošo [[skābeklis|skābekli]], veidojot [[kālija oksīds|oksīdu]] K<sub>2</sub>O un [[kālija peroksīds|peroksīdu]] K<sub>2</sub>O<sub>2</sub>. Ar ūdeni kālijs reaģē ļoti enerģiski, parasti reakcijas gaitā tas aizdegas (rodas [[kālija hidroksīds]] KOH). Paaugstinātā temperatūrā reaģē arī ar [[slāpeklis|slāpekli]] (veidojot [[kālija nitrīds|kālija nitrīdu]]).
+
+== Izmantošana ==
+Kāliju [[sakausējums|sakausējumos]] kopā ar [[nātrijs|nātriju]] izmanto kā [[dzesētājs|dzesētāju]] [[kodolreaktors|kodolreaktoros]]. No kālija iegūst [[kālija peroksīds|kālija peroksīdu]] K<sub>2</sub>O<sub>2</sub>, ko izmanto [[zemūdene|zemūdenēs]] un [[kosmosa kuģis|kosmosa kuģos]] [[ogļskābā gāze|ogļskābās gāzes]] CO<sub>2</sub> uztveršanai un [[skābeklis|skābekļa]] O<sub>2</sub> reģenerēšanai. Kāliju izmanto arī [[organiskā sintēze|organiskajās sintēzēs]]. [[Kālija hlorīds]] KCl ir svarīgs [[minerālmēsli|minerālmēslošanas]] līdzeklis. [[Kālija hidroksīds|Kālija hidroksīdu]] KOH izmanto [[ziepes|ziepju]] ražošanā, [[skābes|skābju]] neitralizēšanā un [[sāļi|sāļu]] iegūšanā, kā arī tas ir [[elektrolīts]] [[akumulators|akumulatoros]].
+
+== Atsauces ==
+{{commonscat|Potassium|kālijs}}
+{{atsauces|refs=
+<ref name="Los Alamos">{{tīmekļa atsauce | url= http://periodic.lanl.gov/19.shtml | title= Potassium | publisher= Los Alamos National Laboratory | accessdate= 2012-03-05 | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/ele019.html | title= The Element Potassium | publisher= Jefferson Lab | accessdate= 2011-08-10 | language= angliski}}</ref>
+<ref name="jlab2">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso019.html | title= Isotopes of the Element Potassium | publisher= Jefferson Lab | accessdate= 2011-08-10 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kālijs| ]]

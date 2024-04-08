@@ -1,0 +1,852 @@
+{{Labs raksts}}
+{{Starptautiska sporta turnīra infokaste
+ |             sports = futbols
+ |     citi_nosaukumi = Campeonato da Europa de Futebol 2004 ''{{pt ikona}}''
+ |             attēls = Euro-2004.jpg
+ |            att_izm = 180px
+ |           apraksts = Eiropas čempionāta futbolā 2004 oficiālais logo
+ |             valsts = {{POR}}
+ |              laiks = [[12. jūnijs]] - [[4. jūlijs]]
+ |     komandu_skaits = 16
+ |           stadioni = 10
+ |           pilsētas = 8
+ |           čempioni = {{fb|GRE}}
+ |             tituls = 1
+ |              otrie = {{fb|POR}}
+ |        trešie_cits = {{fb|NED}}<br />{{fb|CZE}}
+ |             spēles = 31
+ |              vārti = 77
+ |          skatītāji = 1156473
+ |    rezultatīvākais = {{flaga|Čehija}} [[Milans Barošs]] (5)
+ |                mvp = {{flaga|Grieķija}} [[Teodoross Zagorakis]]
+}}
+
+'''2004. gada Eiropas čempionāts futbolā''' notika [[Portugāle|Portugālē]] no 12. jūnija līdz 4. jūlijam. Tas bija pēc skaita 12. [[Eiropas čempionāts futbolā]], ko rīkoja [[UEFA]]. Par Eiropas čempioniem negaidīti kļuva [[Grieķijas futbola izlase|Grieķijas izlase]], kas finālā ar 1-0 pārspēja laukuma saimniekus [[Portugāles futbola izlase|Portugāli]]. Šis bija pirmais un pagaidām vienīgais Eiropas čempionāta finālturnīrs, kurā piedalījās arī [[Latvijas futbola izlase|Latvijas izlase]].
+
+== Komandas ==
+{{pamatraksts|2004. gada Eiropas čempionāta futbolā dalībvalstu sastāvi}}
+
+Šīs 16 komandas piedalījās 2004. gada Eiropas čempionātā. Turnīram automātiski kvalificējās laukuma saimnieki [[Portugāles futbola izlase|Portugāles izlase]].
+
+{| width=70%
+|width=50%|
+* {{fb|ENG}}
+* {{fb|BUL}}
+* {{fb|CZE}}
+* {{fb|DEN}}
+* {{fb|FRA}}
+* {{fb|GRE}}
+* {{fb|CRO}}
+* {{fb|ITA}}
+|width=50%|
+* {{fb|RUS}}
+* {{fb|LVA}}
+* {{fb|NED}}
+* {{fb|POR}}
+* {{fb|ESP}}
+* {{fb|CHE}}
+* {{fb|GER}}
+* {{fb|SWE}}
+|}
+
+== Stadioni ==
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+! [[Lisabona]]
+! [[Lisabona]]
+! [[Portu]]
+|-
+| [[Estádio da Luz]]
+| [[Estádio José Alvalade]]
+| [[Estádio do Dragão]]
+|-
+| Ietilpība: '''65,647'''
+| Ietilpība: '''52,466'''
+| Ietilpība: '''52,002'''
+|-
+| [[Attēls:Estádio da Luz 2005 (3).jpg|170px|Estádio da Luz]]
+| [[Attēls:Estádio Alvalade XXI.jpg|170px|Estádio José Alvalade XXI]]
+| [[Attēls:Estadio do Dragao 20050805.jpg|170px|Estádio do Dragão]]
+|-
+! [[Aveiru]]
+| rowspan=8 | <div style="position: relative;">
+[[Attēls:Portugal stadiums template.png|200px]]
+{{Image label|x=0.27 |y=0.14 |scale=300|text=[[Braga]]}}
+{{Image label|x=0.30 |y=0.19 |scale=300|text=[[Gimarainša]]}}
+{{Image label|x=0.23 |y=0.255 |scale=300|text=[[Portu]]}}
+{{Image label|x=0.23 |y=0.38 |scale=300|text=[[Aveiru]]}}
+{{Image label|x=0.28 |y=0.50 |scale=300|text=[[Koimbra]]}}
+{{Image label|x=0.22 |y=0.605 |scale=300|text=[[Leirija]]}}
+{{Image label|x=0.12 |y=0.82 |scale=300|text=[[Lisabona]]}}
+{{Image label|x=0.395 |y=1.27 |scale=300|text=[[Faru]]}}
+{{Image label|x=0.36 |y=1.19 |scale=300|text=[[Loule]]}}
+</div>
+! [[Koimbra]]
+|-
+| [[Estádio Municipal de Aveiro]]
+| [[Estádio Cidade de Coimbra]]
+|-
+| Ietilpība: '''30,970'''
+| Ietilpība: '''30,210'''
+|-
+| [[Attēls:Nt-Aveiro-Estadio Beira-Mar.jpg|170px|Estádio Municipal de Aveiro]]
+| [[Attēls:Estadio Cidade de Coimbra.JPG|170px|Estádio Cidade de Coimbra]]
+|-
+! [[Braga]]
+! [[Gimarainša]]
+|-
+| [[Estádio Municipal de Braga]]
+| [[Estádio D. Afonso Henriques]]
+|-
+| Ietilpība: '''30,154'''
+| Ietilpība: '''30,146'''
+|-
+| [[Attēls:Estadio Braga.JPG|170px|Estádio Municipal de Braga]]
+| [[Attēls:Estádio de Guimarães.JPG|170px|Estádio Municipal de Guimarães]]
+|-
+! [[Faru]]/[[Loule]]
+! [[Portu]]
+! [[Leirija]]
+|-
+| [[Estádio Algarve]]
+| [[Estádio do Bessa Século XXI]]
+| [[Estádio Dr. Magalhães Pessoa]]
+|-
+| Ietilpība: '''30,002'''
+| Ietilpība: '''28,263'''
+| Ietilpība: '''23,850'''
+|-
+| [[Attēls:EstadioAlgarve.JPG|170px|Estádio do Algarve]]
+| [[Attēls:Estadio do bessa.jpg|170px|Estádio Bessa XXI]]
+| [[Attēls:Estadio de Leiria.jpg|170px|Estádio Dr. Magalhães Pessoa]]
+|}</center>
+
+== Turnīra gaita ==
+
+Turnīra formāts bija tieši tāds pats, kā [[2000. gada Eiropas čempionāts futbolā|iepriekšējā čempionātā]]. 16 komandas tika sadalītas 4 grupās pa četrām komandām. Katras grupas 2 spēcīgākās izlases iekļuva ceturtdaļfinālā.
+
+A grupā uzvarēja laukuma saimnieki [[Portugāles futbola izlase|Portugāle]], bet otro vietu pārsteidzoši ieguva [[Grieķijas futbola izlase|Grieķijas izlase]], kas apsteidza par spēcīgākām uzskatītās [[Spānijas futbola izlase|Spānijas]] un [[Krievijas futbola izlase|Krievijas]] izlases. No B grupas ceturtdaļfinālā ļoti pārliecinoši iekļuva favorītes [[Francijas futbola izlase|Francija]] un [[Anglijas futbola izlase|Anglija]], savukārt C grupā 3 komandas ieguva 5 punktus, taču pateicoties neizšķirtam pēdējā savstarpējā spēlē, tālāk iekļuva [[Zviedrijas futbola izlase|Zviedrija]] un [[Dānijas futbola izlase|Dānija]], aiz borta atstājot [[Itālijas futbola izlase|Itāliju]]. D grupā visās 3 spēlēs uzvarēja [[Čehijas futbola izlase|Čehija]], bet otrajā vietā palika [[Nīderlandes futbola izlase|Nīderlande]], kas apsteidza [[Vācijas futbola izlase|vāciešus]] un [[Latvijas futbola izlase|latviešus]].
+
+Divās no četrām ceturtdaļfināla spēlēm uzvarētāju nācās noskaidrot pēcspēles 11 m sitienu sērijās, kur [[Portugāles futbola izlase|Portugāle]] uzvarēja [[Anglijas futbola izlase|Angliju]], bet [[Nīderlandes futbola izlase|Nīderlande]] - [[Zviedrijas futbola izlase|Zviedriju]]. Vēl [[Čehijas futbola izlase|Čehija]] ar 3-0 sagrāva [[Dānijas futbola izlase|dāņus]], savukārt kārtējo pārsteigumu sagādāja [[Grieķijas futbola izlase|Grieķija]], ar 1-0 uzvarot [[Francijas futbola izlase|Francijas izlasi]].
+
+Pusfinālā ļoti līdzīgā spēlē [[Portugāles futbola izlase|Portugāle]] ar 2-1 uzvarēja [[Nīderlandes futbola izlase|Nīderlandi]], bet [[Čehijas futbola izlase|Čehijas izlasi]] apturēja [[Grieķijas futbola izlase|grieķi]].
+
+Finālā tikās [[Portugāles futbola izlase|Portugāle]] pret [[Grieķijas futbola izlase|Grieķiju]]. Par favorītiem tika uzskatīti mājinieki portugāļi, taču visa turnīra laikā izteiktu aizsardzības futbolu spēlējošā [[Grieķijas futbola izlase|Grieķijas izlase]], pateicoties [[Angeloss Haristeass|Angelosa Haristeasa]] gūtajiem vārtiem, jau trešajā spēlē pēc kārtas uzvarēja ar 1-0, tā kļūstot par Eiropas čempioniem.
+
+== Grupu turnīrs ==
+
+=== A grupa ===
+{| class="wikitable" style="text-align: center;"
+|-
+!width="30%"|Komanda
+!width="5%"|Pkt
+!width="5%"|Sp
+!width="5%"|U
+!width="5%"|N
+!width="5%"|Z
+!width="5%"|+
+!width="5%"|-
+!width="5%"|V
+|- style="background:#ccffcc;" 
+|align=left|{{fb|POR}}
+|'''6'''||3||2||0||1||4||2||+2
+|- style="background:#ccffcc;"
+|align=left|{{fb|GRE}}
+|'''4'''||3||1||1||1||4||4||0   
+|-
+|align=left|{{fb|ESP}}
+|'''4'''||3||1||1||1||2||2||0
+|-
+|align=left|{{fb|RUS}}
+|'''3'''||3||1||0||2||2||4||-2
+|}
+
+{{futbola spēle
+  | datums = {{dat|2004|06|12}}
+  | laiks = 20:00
+  | komanda1 = {{fb|POR}}
+  | rezultāts = 1 — 2
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059164/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|GRE}}
+  | vārti1 = [[Krištianu Ronaldo|Ronaldo]] <!--Cristiano Ronaldo-->{{goal|90+3}}
+  | vārti2 = [[Giorgoss Karagunis|Karagunis]] <!--Giorgos Karagounis--> {{goal|7}}<br /> [[Angeloss Basinass|Basinass]] <!--Angelos Basinas-->{{goal|51|11m}}
+  | stadions = Estádio do Dragão, [[Portu]]
+  | skatītāji = 48 761
+  | tiesnesis = Pjerluidži Kolina <!--Pierluigi Collina--> {{flaga|Itālija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|12}}
+  | laiks = 22:45
+  | komanda1 = {{fb|ESP}}
+  | rezultāts = 1 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059165/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|RUS}}
+  | vārti1 = [[Huans Karloss Valerons|Valerons]] <!--Juan Carlos Valerón--> {{goal|60}}
+  | vārti2 = 
+  | stadions = Estádio Algarve, [[Faru]]/[[Loule]]
+  | skatītāji = 28 182
+  | tiesnesis = Urss Meijers <!--Urs Meier--> {{flaga|Šveice}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|16}}
+  | laiks = 20:00
+  | komanda1 = {{fb|GRE}}
+  | rezultāts = 1 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059172/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|ESP}}
+  | vārti1 = [[Angeloss Haristeass|Haristeass]] <!--Angelos Charisteas--> {{goal|66}}
+  | vārti2 = [[Fernando Morjentess|Morjentess]] <!--Fernando Morientes--> {{goal|28}}
+  | stadions = Estádio do Bessa Século XXI, [[Portu]]
+  | skatītāji = 25 444
+  | tiesnesis = Ļubošs Miheļs <!--Luboš Michĕl--> {{flaga|Slovākija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|16}}
+  | laiks = 22:45
+  | komanda1 = {{fb|RUS}}
+  | rezultāts = 0 — 2
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059173/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|POR}}
+  | vārti1 = 
+  | vārti2 = [[Maniši]] {{goal|7}}<br /> [[Rui Košta (futbolists)|Rui Košta]] {{goal|89}}
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 59 273
+  | tiesnesis = Terje Hauge <!--Terje Hauge--> {{flaga|Norvēģija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|20}}
+  | laiks = 22:45
+  | komanda1 = {{fb|RUS}}
+  | rezultāts = 2 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059181/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|GRE}}
+  | vārti1 = [[Dmitrijs Kiričenko|Kiričenko]] <!--Dmitri Kirichenko--> {{goal|2}}<br />[[Dmitrijs Bulikins|Bulikins]] <!--Dmitri Bulykin-->{{goal|17}}
+  | vārti2 = [[Zisis Vrizass|Vrizass]] <!--Zisis Vryzas--> {{goal|43}}
+  | stadions = Estádio Algarve, [[Faru]]/[[Loule]]
+  | skatītāji = 24 347
+  | tiesnesis = Žils Vesjē <!--Gilles Veissière--> {{flaga|Francija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|20}}
+  | laiks = 22:45
+  | komanda1 = {{fb|ESP}}
+  | rezultāts = 0 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059180/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|POR}}
+  | vārti1 = 
+  | vārti2 = [[Nunjo Gomešs]] <!--Nuno Gomes--> {{goal|57}}
+  | stadions = Estádio José Alvalade, [[Lisabona]]
+  | skatītāji = 47 491
+  | tiesnesis = Anderss Frisks <!--Anders Frisk--> {{flaga|Zviedrija}}
+}}
+
+=== B grupa ===
+{| class="wikitable" style="text-align: center;"
+|-
+!width="30%"|Komanda
+!width="5%"|Pkt
+!width="5%"|Sp
+!width="5%"|U
+!width="5%"|N
+!width="5%"|Z
+!width="5%"|+
+!width="5%"|-
+!width="5%"|V
+|- style="background:#ccffcc;" 
+|align=left|{{fb|FRA}}
+|'''7'''||3||2||1||0||7||4||+3
+|- style="background:#ccffcc;"
+|align=left|{{fb|ENG}}
+|'''6'''||3||2||0||1||8||4||+4
+|-
+|align=left|{{fb|CRO}}
+|'''2'''||3||0||2||1||4||6||-2
+|-
+|align=left|{{fb|SUI}}
+|'''1'''||3||0||1||2||1||6||-5
+|}
+
+{{futbola spēle
+  | datums = {{dat|2004|06|13}}
+  | laiks = 20:00
+  | komanda1 = {{fb|SUI}}
+  | rezultāts = 0 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059166/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|CRO}}
+  | vārti1 = 
+  | vārti2 = 
+  | stadions = Estádio Dr. Magalhães Pessoa, [[Leirija]]
+  | skatītāji = 24 090
+  | tiesnesis = Lusiliu Batista <!--Lucílio Batista--> {{flaga|Portugāle}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|13}}
+  | laiks = 22:45
+  | komanda1 = {{fb|FRA}}
+  | rezultāts = 2 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059167/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|ENG}}
+  | vārti1 = [[Zinedins Zidāns|Zidāns]] <!--Zinedine Zidane--> {{goal|90+1}},{{goal|90+3|11m}}
+  | vārti2 = [[Frenks Lampards|Lampards]] <!--Frank Lampard--> {{goal|38}}
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 62 487
+  | tiesnesis = Markuss Merks <!--Markus Merk--> {{flaga|Vācija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|17}}
+  | laiks = 20:00
+  | komanda1 = {{fb|ENG}}
+  | rezultāts = 3 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059174/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|SUI}}
+  | vārti1 = [[Veins Rūnijs|Rūnijs]] <!--Wayne Rooney--> {{goal|23}},{{goal|75}}<br />[[Stīvens Džerards|Džerards]]<!--Steven Gerrard--> {{goal|82}}
+  | vārti2 = 
+  | stadions = Estádio Cidade de Coimbra, [[Koimbra]]
+  | skatītāji = 28 214
+  | tiesnesis = Valentīns Ivanovs <!--Valentin Ivanov--> {{flaga|Krievija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|17}}
+  | laiks = 22:45
+  | komanda1 = {{fb|CRO}}
+  | rezultāts = 2 — 2 
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059175/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|FRA}}
+  | vārti1 = [[Milans Rapaičs|Rapaičs]] <!--Milan Rapaić--> {{goal|48|11m}}<br />[[Dado Pršo|Pršo]]<!--Dado Pršo-->{{goal|52}}
+  | vārti2 = [[Igors Tudors|Tudors]] <!--Igor Tudor--> {{goal|22|s.v.}}<br />[[Dāvids Trezegē|Trezegē]] <!--David Trezeguet--> {{goal|64}}
+  | stadions = Estádio Dr. Magalhães Pessoa, [[Leirija]]
+  | skatītāji = 29 160
+  | tiesnesis = Kims Miltons Nīlsens <!--Kim Milton Nielsen--> {{flaga|Dānija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|21}}
+  | laiks = 22:45
+  | komanda1 = {{fb|CRO}}
+  | rezultāts = 2 — 4
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059182/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|ENG}}
+  | vārti1 = [[Niko Kovāčs|Kovāčs]] <!--Niko Kovač--> {{goal|5}} <br />[[Igors Tudors|Tudors]] <!--Igor Tudor--> {{goal|73}}
+  | vārti2 = [[Pols Skoulzs|Skoulzs]]<!--Paul Scholes--> {{goal|40}}<br />[[Veins Rūnijs|Rūnijs]] <!--Wayne Rooney--> {{goal|45+1}},{{goal|68}}<br />[[Frenks Lampards|Lampards]] <!--Frank Lampard--> {{goal|79}}
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 57 047
+  | tiesnesis = Pjerluidži Kolina <!--Pierluigi Collina--> {{flaga|Itālija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|21}}
+  | laiks = 22:45
+  | komanda1 = {{fb|SUI}}
+  | rezultāts = 1 — 3
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059183/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|FRA}}
+  | vārti1 = [[Johans Volantens|Volantens]] <!--Johan Vonlanthen--> {{goal|26}}
+  | vārti2 = [[Zinedins Zidāns|Zidāns]] <!--Zinedine Zidane--> {{goal|20}}<br />[[Tjerī Anrī|Anrī]] <!--Thierry Henry--> {{goal|76}},{{goal|84}}
+  | stadions = Estádio Cidade de Coimbra, [[Koimbra]]
+  | skatītāji = 28 111
+  | tiesnesis = Ļubošs Miheļs <!--Ľuboš Micheľ--> {{flaga|Slovākija}}
+}}
+
+=== C grupa ===
+{| class="wikitable" style="text-align: center;"
+|-
+!width="30%"|Komanda
+!width="5%"|Pkt
+!width="5%"|Sp
+!width="5%"|U
+!width="5%"|N
+!width="5%"|Z
+!width="5%"|+
+!width="5%"|-
+!width="5%"|V
+|- style="background:#ccffcc;" 
+|align=left|{{fb|SWE}}
+|'''5'''||3||1||2||0||8||3||+5
+|- style="background:#ccffcc;"
+|align=left|{{fb|DEN}}
+|'''5'''||3||1||2||0||4||2||+2 
+|-
+|align=left|{{fb|ITA}}
+|'''5'''||3||1||2||0||3||2||+1
+|-
+|align=left|{{fb|BUL}}
+|'''0'''||3||0||0||3||1||9||-8
+|}
+
+{{futbola spēle
+  | datums = {{dat|2004|06|14}}
+  | laiks = 20:00
+  | komanda1 = {{fb|DEN}}
+  | rezultāts = 0 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059168/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|ITA}}
+  | vārti1 = 
+  | vārti2 = 
+  | stadions = Estádio D. Afonso Henriques, [[Gimarainša]]
+  | skatītāji = 29 595
+  | tiesnesis = Manuels Mehuto Gonsaless <!--Manuel Mejuto González--> {{flaga|Spānija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|14}}
+  | laiks = 22:45
+  | komanda1 = {{fb|SWE}}
+  | rezultāts = 5 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059169/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|BUL}}
+  | vārti1 = [[Fredriks Ljunbergs|Ljunbergs]] <!--Fredrik Ljungberg--> {{goal|32}}<br />[[Henriks Larsons|Larsons]] <!--Henrik Larsson--> {{goal|57}},{{goal|58}}<br />[[Zlatans Ibrahimovičs|Ibrahimovičs]] <!--Zlatan Ibrahimović--> {{goal|78|11m}}<br />[[Markuss Ālbeks|Ālbeks]] <!--Marcus Allbäck--> {{goal|90+1}}
+  | vārti2 = 
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 31 652
+  | tiesnesis = Maiks Railijs <!--Mike Riley--> {{flaga|Anglija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|18}}
+  | laiks = 20:00
+  | komanda1 = {{fb|BUL}}
+  | rezultāts = 0 — 2
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059176/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|DEN}}
+  | vārti1 = 
+  | vārti2 = [[Jons Dāls Tomasons|Tomasons]] <!--Jon Dahl Tomasson--> {{goal|44}}<br />[[Jespers Grenkjers|Grenkjers]] <!--Jesper Grønkjær--> {{goal|90+2}}
+  | stadions = Estádio Municipal de Braga, [[Braga]]
+  | skatītāji = 24 131
+  | tiesnesis = Lusilo Batista <!--Lucílio Batista--> {{flaga|Portugāle}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|18}}
+  | laiks = 22:45
+  | komanda1 = {{fb|ITA}}
+  | rezultāts = 1 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059177/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|SWE}}
+  | vārti1 = [[Antonio Kasano|Kasano]] <!--Antonio Cassano--> {{goal|37}}
+  | vārti2 = [[Zlatans Ibrahimovičs|Ibrahimovičs]] <!--Zlatan Ibrahimović--> {{goal|85}}
+  | stadions = Estádio do Dragão, [[Portu]]
+  | skatītāji = 44 926
+  | tiesnesis = Urss Meijers <!--Urs Meier--> {{flaga|Šveice}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2008|06|22}}
+  | laiks = 22:45
+  | komanda1 = {{fb|DEN}}
+  | rezultāts = 2 — 2
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059185/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|SWE}}
+  | vārti1 = [[Jons Dāls Tomasons|Tomasons]] <!--Jon Dahl Tomasson--> {{goal|28}},{{goal|66}}
+  | vārti2 = [[Henriks Larsons|Larsons]] <!--Henrik Larsson--> {{goal|47|11m}}<br />[[Matiass Jonsons|Jonsons]] <!--Mattias Jonson--> {{goal|89}}
+  | stadions = Estádio do Bessa Século XXI, [[Portu]]
+  | skatītāji = 26 115
+  | tiesnesis = Markuss Merks <!--Markus Merk--> {{flaga|Vācija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|22}}
+  | laiks = 22:45
+  | komanda1 = {{fb|ITA}}
+  | rezultāts = 2 —1 
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059184/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|BUL}}
+  | vārti1 = [[Simons Perrota|Perrota]] <!--Simone Perrotta--> {{goal|48}}<br />[[Antonio Kasano|Kasano]] <!--Antonio Cassano--> {{goal|90+4}}
+  | vārti2 = [[Martins Petrovs|Petrovs]] <!--Martin Petrov--> {{goal|45|11m}}
+  | stadions = Estádio D. Afonso Henriques, [[Gimarainša]]
+  | skatītāji = 16 002
+  | tiesnesis = Valentīns Ivanovs <!--Valentin Ivanov--> {{flaga|Krievija}}
+}}
+
+=== D grupa ===
+{| class="wikitable" style="text-align: center;"
+|-
+!width="30%"|Komanda
+!width="5%"|Pkt
+!width="5%"|Sp
+!width="5%"|U
+!width="5%"|N
+!width="5%"|Z
+!width="5%"|+
+!width="5%"|-
+!width="5%"|V
+|- style="background:#ccffcc;" 
+|align=left|{{fb|CZE}}
+|'''9'''||3||3||0||0||7||4||+3
+|- style="background:#ccffcc;"
+|align=left|{{fb|NED}}
+|'''4'''||3||1||1||1||6||4||+2
+|-
+|align=left|{{fb|GER}}
+|'''2'''||3||0||2||1||2||3||-1
+|-
+|align=left|{{fb|LAT}}
+|'''1'''||3||0||1||2||1||5||-4
+|}
+
+{{futbola spēle
+  | datums = {{dat|2004|06|15}}
+  | laiks = 20:00
+  | komanda1 = {{fb|CZE}}
+  | rezultāts = 2 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059171/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|LAT}}
+  | vārti1 = [[Milans Barošs|Barošs]] <!--Milan Baroš--> {{goal|73}}<br />[[Mareks Haincs|Haincs]] <!--Marek Heinz--> {{goal|85}}
+  | vārti2 = [[Māris Verpakovskis|Verpakovskis]] {{goal|45+1}}
+  | stadions = Estádio Municipal de Aveiro, [[Aveiru]]
+  | skatītāji = 21 744
+  | tiesnesis = Žils Vesjē <!--Gilles Veissière--> {{flaga|Francija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|15}}
+  | laiks = 22:45
+  | komanda1 = {{fb|GER}}
+  | rezultāts = 1 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059170/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|NED}}
+  | vārti1 = [[Torstens Frings|Frings]] <!--Torsten Frings--> {{goal|30}}
+  | vārti2 = [[Rūds van Nistelrojs|van Nistelrojs]] <!--Ruud van Nistelrooy--> {{goal|81}}
+  | stadions = Estádio do Dragão, [[Porto]]
+  | skatītāji = 48 197
+  | tiesnesis = Anderss Frisks <!--Anders Frisk--> {{flaga|Zviedrija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|19}}
+  | laiks = 20:00
+  | komanda1 = {{fb|LAT}}
+  | rezultāts = 0 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059178/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|GER}}
+  | vārti1 = 
+  | vārti2 = 
+  | stadions = Estádio do Bessa Século XXI, [[Portu]]
+  | skatītāji = 22 344
+  | tiesnesis = Maiks Railijs <!--Mike Riley--> {{flaga|Anglija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|19}}
+  | laiks = 22:45
+  | komanda1 = {{fb|NED}}
+  | rezultāts = 2 — 3
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059179/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|CZE}}
+  | vārti1 = [[Vilfreds Bauma|Bauma]] <!--Wilfred Bouma--> {{goal|4}}<br />[[Rūds van Nistelrojs|van Nistelrojs]] <!--Ruud van Nistelrooy--> {{goal|19}}
+  | vārti2 = [[Jans Kollers|Kollers]] <!--Jan Koller--> {{goal|23}}<br />[[Milans Barošs|Barošs]] <!--Milan Baroš-->{{goal|71}}<br />[[Vladimīrs Šmicers|Šmicers]] <!--Vladimír Šmicer--> {{goal|88}}
+  | stadions = Estádio Municipal de Aveiro, [[Aveiru]]
+  | skatītāji = 29 935
+  | tiesnesis = Manuels Mehuto Gonsaless <!--Manuel Mejuto González--> {{flaga|Spānija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|23}}
+  | laiks = 22:45
+  | komanda1 = {{fb|GER}}
+  | rezultāts = 1 — 2
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059187/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|CZE}}
+  | vārti1 = [[Mihaels Ballaks|Ballaks]] <!--Michael Ballack--> {{goal|21}}
+  | vārti2 = [[Mareks Haincs|Haincs]] <!--Marek Heinz--> {{goal|30}}<br />[[Milans Barošs|Barošs]] <!--Milan Baroš-->{{goal|77}}
+  | stadions = Estádio José Alvalade, [[Lisabona]]
+  | skatītāji = 46 849
+  | tiesnesis = Terje Hauge <!--Terje Hauge--> {{flaga|Norvēģija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|23}}
+  | laiks = 22:45
+  | komanda1 = {{fb|NED}}
+  | rezultāts = 3 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1581/match=1059186/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|LAT}}
+  | vārti1 = [[Rūds van Nistelrojs|van Nistelrojs]] <!--Ruud van Nistelrooy--> {{goal|27}},{{goal|35|11m}}<br />[[Rojs Makājs|Makājs]] <!--Roy Makaay--> {{goal|84}}
+  | vārti2 = 
+  | stadions = Estádio Municipal de Braga, [[Braga]]
+  | skatītāji = 27 904
+  | tiesnesis = Kims Miltons Nīlsens <!--Kim Milton Nielsen--> {{flaga|Dānija}}
+}}
+
+== Izslēgšanas turnīrs ==
+
+{{Round8
+<!--Datums-Vieta/Komanda 1/Rezultāts 1/Komanda 2/Rezultāts 2 -->
+<!--ceturtdaļfināli  -->
+|24. jūnijs  - Lisabona |'''{{fb|POR}}''' (11 m) |2 (6) |{{fb|ENG}} |2 (5)
+|26. jūnijs - Faru |{{fb|SWE}} |0 (4) |'''{{fb|NED}}''' (11 m) |0 (5) 
+|25. jūnijs - Lisabona |{{fb|FRA}} |0 |'''{{fb|GRE}}''' |1 
+|27. jūnijs - Portu |'''{{fb|CZE}}''' |3|{{fb|DEN}} |0
+<!-- pusfināli -->
+|30. jūnijs — Lisabona |'''{{fb|POR}}'''|2|{{fb|NED}} |1 
+|1. jūlijs - Portu |'''{{fb|GRE}}''' (pag) |1|{{fb|CZE}} |0 
+<!--fināls -->
+|4. jūlijs — Lisabona |{{fb|POR}} |0|'''{{fb|GRE}}'''|1
+}}
+
+=== Ceturtdaļfināli ===
+
+{{futbola spēle
+  | datums = {{dat|2004|06|24}}
+  | laiks = 22:45
+  | komanda1 = {{fb|POR}}
+  | rezultāts = 2 — 2 <br /><small>(papildlaiks)</small>
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1582/match=1059188/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|ENG}}
+  | vārti1 = [[Elders Poštiga|Poštiga]] <!--Hélder Postiga--> {{goal|83}}<br />[[Rui Košta (futbolists)|Rui Košta]] <!--Rui Costa--> {{goal|110}}
+  | vārti2 = [[Maikls Ouvens|Ouvens]] <!--Michael Owen--> {{goal|3}}<br />[[Frenks Lampards|Lampards]] <!--Frank Lampard--> {{goal|115}}
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 65 000
+  | tiesnesis = Urss Meiers <!--Urs Meier--> {{flaga|Šveice}}
+}}
+{{11m sitieni
+|sitieni1 = [[Deku]] <!--Deco--> {{pengoal}}<br />[[Simau Sabrosa|Simau]] <!--Simão Sabrosa--> {{pengoal}}<br />[[Rui Košta (futbolists)|Rui Košta]] <!--Rui Costa--> {{penmiss}}<br />[[Krištianu Ronaldo|Ronaldo]] <!-- Cristiano Ronaldo--> {{pengoal}}<br />[[Maniši]] <!--Maniche--> {{pengoal}}<br />[[Elders Poštiga|Poštiga]] <!--Hélder Postiga-->  {{pengoal}}<br />[[Rikardu Pereira|Rikardu]] <!--Ricardo Pereira--> {{pengoal}}
+|rezultāts = 6 — 5
+|sitieni2 = {{penmiss}} [[Deivids Bekhems|Bekhems]] <!--David Beckham--><br />{{pengoal}} [[Maikls Ouvens|Ouvens]] <!--Michael Owen--> <br />{{pengoal}} [[Frenks Lampards|Lampards]] <!--Frank Lampard--><br />{{pengoal}} [[Džons Terijs|Terijs]] <!--John Terry--><br />{{pengoal}} [[Ouvens Hārgreivss|Hārgreivss]] <!--Owen Hargreaves--><br />{{pengoal}} [[Ešlijs Kouls|Kouls]] <!--Ashley Cole--><br />{{penmiss}} [[Dārijs Vasels|Vasels]] <!--Darius Vassell--> }}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|25}}
+  | laiks = 22:45
+  | komanda1 = {{fb|FRA}}
+  | rezultāts = 0 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1582/match=1059189/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|GRE}}
+  | vārti1 = 
+  | vārti2 = [[Angeloss Haristeass|Haristeass]] <!--Angelos Charisteas--> {{goal|65}}
+  | stadions = Estádio José Alvalade, [[Lisabona]]
+  | skatītāji = 45 390
+  | tiesnesis = Anderss Frisks <!--Anders Frisk--> {{flaga|Zviedrija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|06|26}}
+  | laiks = 22:45
+  | komanda1 = {{fb|SWE}}
+  | rezultāts = 0 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1582/match=1059190/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|NED}}
+  | vārti1 = 
+  | vārti2 = 
+  | stadions = Estádio do Algarve, [[Faru]]/[[Loule]]
+  | skatītāji = 30 000
+  | tiesnesis = Ļubošs Miheļs <!--Ľuboš Micheľ--> {{flaga|Slovākija}}
+}}
+{{11m sitieni
+|sitieni1 = [[Kims Šelstrems|Šelstrems]] <!--Kim Källström--> {{pengoal}}<br />[[Henriks Larsons|Larsons]] <!--Henrik Larsson--> {{pengoal}}<br />[[Zlatans Ibrahimovičs|Ibrahimovičs]] <!--Zlatan Ibrahimović--> {{penmiss}}<br />[[Fredriks Ljunbergs|Ljunbergs]] <!--Fredrik Ljungberg--> {{pengoal}}<br />[[Kristians Vilhelmsons|Vilhelmsons]] <!--Christian Wilhelmsson--> {{pengoal}}<br />[[Ūlofs Melbergs|Melbergs]] <!--Olof Mellberg--> {{penmiss}}
+|rezultāts = 4 — 5
+|sitieni2 = {{pengoal}} [[Rūds van Nistelrojs|van Nistelrojs]] <!--Ruud van Nistelrooy--><br />{{pengoal}} [[Džons Heitinga|Heitinga]] <!--John Heitinga--><br />{{pengoal}} [[Mihaels Raicigers|Raicigers]] <!--Michael Reiziger--><br />{{penmiss}} [[Filips Koku|Koku]] <!--Phillip Cocu--><br />{{pengoal}} [[Rojs Makājs|Makājs]] <!--Roy Makaay--><br />{{pengoal}} [[Arjens Robens|Robens]] <!--Arjen Robben--> }}
+----
+{{futbola spēle
+  | datums = {{dat|2006|06|27}}
+  | laiks = 22:45
+  | komanda1 = {{fb|CZE}}
+  | rezultāts = 3 — 0
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1582/match=1059191/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|DEN}}
+  | vārti1 = [[Jans Kollers|Kollers]] <!--Jan Koller--> {{goal|49}}<br />[[Milans Barošs|Barošs]] <!--Milan Baroš--> {{goal|63}},{{goal|65}}
+  | vārti2 = 
+  | stadions = Estádio do Dragão, [[Portu]]
+  | skatītāji = 41 092
+  | tiesnesis = Valentīns Ivanovs <!--Valentin Ivanov--> {{flaga|Krievija}}
+}}
+
+=== Pusfināli ===
+
+{{futbola spēle
+  | datums = {{dat|2004|06|30}}
+  | laiks = 22:45
+  | komanda1 = {{fb|POR}}
+  | rezultāts = 2 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1583/match=1059192/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|NED}}
+  | vārti1 = [[Krištianu Ronaldo|Ronaldo]] <!-- Cristiano Ronaldo--> {{goal|26}}<br />[[Maniši]] <!--Maniche--> {{goal|58}}
+  | vārti2 = [[Horge Andrade|Andrade]] <!--Jorge Andrade--> {{goal|63|s.v.}}
+  | stadions = Estádio José Alvalade, [[Lisabona]]
+  | skatītāji = 46 679
+  | tiesnesis = Anderss Frisks <!--Anders Frisk--> {{flaga|Zviedrija}}
+}}
+----
+{{futbola spēle
+  | datums = {{dat|2004|07|01}}
+  | laiks = 22:45
+  | komanda1 = {{fb|GRE}}
+  | rezultāts = 1 — 0 
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1583/match=1059193/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|CZE}}
+  | vārti1 = [[Trajanos Dellass|Dellass]] <!--Traianos Dellas--> {{goal|105+1}}
+  | vārti2 = 
+  | stadions = Estádio do Dragão,[[Portu]]
+  | skatītāji = 42 449
+  | tiesnesis = Pjerluidži Kolina <!--Pierluigi Collina--> {{flaga|Itālija}}
+}}
+
+=== Fināls ===
+
+{{futbola spēle
+  | datums = {{dat|2004|07|04}}
+  | laiks = 22:45
+  | komanda1 = {{fb|POR}}
+  | rezultāts = 0 — 1
+  | pārskats = [http://en.archive.uefa.com/competitions/euro2012/history/season=2004/round=1623/match=1059194/index.html Informācija]{{Novecojusi saite}}
+  | komanda2 = {{fb|GRE}}
+  | vārti1 = 
+  | vārti2 = [[Angeloss Haristeass|Haristeass]] <!--Angelos Charisteas--> {{goal|57}}
+  | stadions = Estádio da Luz, [[Lisabona]]
+  | skatītāji = 62 865
+  | tiesnesis = Markuss Merks <!--Markus Merk--> {{flaga|Vācija}}
+}}
+
+{| class="wikitable" style="margin: 0 auto;"
+|-
+!2004. gada Eiropas čempioni
+|-
+|align=center|[[Attēls:Flag of Greece.svg|100px|Grieķija]]<br />'''[[Grieķijas futbola izlase|GRIEĶIJA]]'''<br />'''1. tituls'''
+|}
+
+== Statistika ==
+=== Vārtu guvēji ===
+Eiropas čempionāta futbolā 2004 labākie vārtu guvēji<ref>{{Tīmekļa atsauce |url=http://www.sportinglife.com/clients/stanjames/football/minisite/top_scorers/ |title=Euro 2004 Top Scorers - Stan James |access-date={{dat|2012|05|24||bez}} |archiveurl=https://archive.today/20120524220645/www.sportinglife.com/clients/stanjames/football/minisite/top_scorers/ |archivedate={{dat|2012|05|24||bez}} }} {{Tīmekļa atsauce |url=http://www.sportinglife.com/clients/stanjames/football/minisite/top_scorers/ |title=Arhivēta kopija |access-date={{dat|2008|09|13||bez}} |archive-date={{dat|2012|05|24||bez}} |archive-url=https://archive.today/20120524220645/www.sportinglife.com/clients/stanjames/football/minisite/top_scorers/ }}</ref>
+{| 
+|valign="top" width=33%|
+;5 vārti
+* {{flaga|Čehija}} [[Milans Barošs]]
+
+;4 vārti
+* {{flaga|Nīderlande}} [[Rūds van Nistelrojs]]
+* {{flaga|Anglija}} [[Veins Rūnijs]]
+
+;3 vārti
+* {{flaga|Dānija}} [[Jons Dāls Tomasons]]
+* {{flaga|Anglija}} [[Frenks Lampards]]
+* {{flaga|Francija}} [[Zinedins Zidāns]]
+* {{flaga|Grieķija}} [[Angelos Haristeass]]
+* {{flaga|Zviedrija}} [[Henriks Larsons]]
+
+;2 vārti
+* {{flaga|Čehija}} [[Mareks Haince]] 
+* {{flaga|Čehija}} [[Jans Kolers]]
+* {{flaga|Francija}} [[Tjerī Anrī]]
+* {{flaga|Itālija}} [[Antonio Kasano]]
+* {{flaga|Portugāle}} [[Krištianu Ronaldu]]
+* {{flaga|Portugāle}} [[Maniši]]
+* {{flaga|Portugāle}} [[Rui Košta (futbolists)|Rui Košta]]
+* {{flaga|Zviedrija}} [[Zlatans Ibrahimovičs]]
+|valign="top" width=33%|
+;1 vārti
+* {{flaga|Bulgārija}} [[Martins Petrovs]]
+* {{flaga|Horvātija}} [[Dado Pršo]]
+* {{flaga|Horvātija}} [[Igors Tudors]]
+* {{flaga|Horvātija}} [[Milans Rapaičs]]
+* {{flaga|Horvātija}} [[Niko Kovāčs]]
+* {{flaga|Čehija}} [[Vladimirs Šmicers]]
+* {{flaga|Dānija}} [[Jespers Gronkjārs]]
+* {{flaga|Anglija}} [[Maikls Ovens]]
+* {{flaga|Anglija}} [[Pols Skols]]
+* {{flaga|Anglija}} [[Stīvens Džerards]]
+* {{flaga|Francija}} [[Davids Trezegē]]
+* {{flaga|Vācija}} [[Mihaels Balaks]]
+* {{flaga|Vācija}} [[Torstens Frings]]
+* {{flaga|Grieķija}} [[Angelos Basinas]]
+* {{flaga|Grieķija}} [[Giorgos Karagunis]]
+* {{flaga|Grieķija}} [[Traianos Delass]]
+* {{flaga|Grieķija}} [[Zisis Vrizass]]
+* {{flaga|Itālija}} [[Simone Perrota]]
+* {{flaga|Latvija}} [[Māris Verpakovskis]]
+* {{flaga|Nīderlande}} [[Rojs Makājs]]
+|valign="top" width=33%|
+;1 vārti (turpinājums)
+* {{flaga|Nīderlande}} [[Vilfrēds Bouma]]
+* {{flaga|Portugāle}} [[Elders Poštiga]]
+* {{flaga|Portugāle}} [[Nunu Gomešs]]
+* {{flaga|Spānija}} [[Fernando Morientess]]
+* {{flaga|Spānija}} [[Huans Karlos Valerons]]
+* {{flaga|Zviedrija}} [[Fredriks Ljungbergs]]
+* {{flaga|Zviedrija}} [[Markuss Olbeks]]
+* {{flaga|Zviedrija}} [[Matiass Jonsons]]
+* {{flaga|Krievija}} [[Dmitrijs Bulikins]]
+* {{flaga|Krievija}} [[Dmitrijs Kiričenko]]
+* {{flaga|Šveice}} [[Johans Vonlantens]]
+
+;Savos vārtos
+* {{flaga|Horvātija}} [[Igors Tudors]] (spēlējot pret Franciju)
+* {{flaga|Portugāle}} [[Žorži Andrade]] (spēlējot pret Nīderlandi)
+|}
+
+=== Ātrākie vārti ===
+'''2. minutē''': [[Dmitrijs Kiričenko]] (Krievija pret Grieķiju)
+
+=== Apbalvojumi ===
+;UEFA turnīra simboliskā izlase
+{| cellpadding=0 cellspacing=1 border=0 
+|- align=center bgcolor=#f2f2f2
+| width=25% | '''Vārtsargi'''
+| width=25% | '''Aizsargi'''
+| width=25% | '''Pussargi'''
+| width=25% | '''Uzbrucēji'''
+|-
+| {{flaga|Čehija}} [[Petrs Čehs]]
+| {{flaga|Anglija}} [[Sols Kembels]]
+| {{flaga|Vācija}} [[Mihaels Balaks]]
+| {{flaga|Čehija}} [[Milans Barošs]]
+|-
+| {{flaga|Grieķija}} [[Antonioss Nikopolidis]]
+| {{flaga|Anglija}} [[Ešlijs Kouls]]
+| {{flaga|Portugāle}} [[Luišs Figu]]
+| {{flaga|Grieķija}} [[Angeloss Haristeass]]
+|-
+|
+| {{flaga|Grieķija}} [[Traianoss Dellass]]
+| {{flaga|Anglija}} [[Frenks Lampards]]
+| {{flaga|Zviedrija}} [[Henriks Larsons]]
+|-
+|
+| {{flaga|Zviedrija}} [[Ūlofs Melbergs]]
+| {{flaga|Portugāle}} [[Maniši]]
+| {{flaga|Portugāle}} [[Krištianu Ronaldu]]
+|-
+|
+| {{flaga|Portugāle}} [[Rikardu Karvalju]]
+| {{flaga|Čehija}} [[Pavels Nedveds]]
+| {{flaga|Anglija}} [[Veins Rūnijs]]
+|-
+|
+| {{flaga|Grieķija}} [[Giourkass Seitaridiss]]
+| {{flaga|Grieķija}} [[Teodoross Zagorakiss]]
+| {{flaga|Dānija}} [[Jons Dāls Tomasons]]
+|-
+|
+| {{flaga|Itālija}} [[Džanluka Dzambrota]]
+| {{flaga|Francija}} [[Zinedins Zidāns]]
+| {{flaga|Nīderlande}} [[Rūds van Nistelrojs]]
+|}
+
+;Labākais vārtu guvējs
+* {{flaga|Čehija}} [[Milans Barošs]]
+
+;Labākais spēlētājs
+* {{flaga|Grieķija}} [[Teodoross Zagorakis]]
+
+== Skatīt arī ==
+* [[Latvijas futbola izlase 2004. gada Eiropas čempionātā]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [https://web.archive.org/web/20100204053458/http://en.euro2008.uefa.com/index.html Oficiālais rezultātu arhīvs] {{en ikona}}
+
+{{Eiropas čempionāts futbolā}}
+{{Pasaules futbols}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:2004. gada Eiropas čempionāts futbolā| ]]

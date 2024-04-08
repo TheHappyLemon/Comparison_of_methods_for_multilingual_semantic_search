@@ -1,0 +1,32 @@
+{| class="wikitable" align="right"
+| '''monoklīns, vienkāršs'''
+| '''monoklīns, pamatnē centrēts'''
+|-
+| [[Attēls:Monoclinic cell.svg|195px|monoklīns, vienkāršs]]
+| style="vertical-align: bottom; text-align: center;" | [[Attēls:Base-centered monoclinic.svg|160px|style="vertical-align: bottom; margin-bottom: 0.3em;"|monoklīns, centrēts pamatnē]]
+|}
+
+[[kristalogrāfija|Kristalogrāfijā]] '''monoklīnā singonija''' ir viena no 7 [[singonija|singonijām]]. [[kristāliskā struktūra|Kristālisko struktūru]] apraksta, balstoties uz trim bāzes [[vektors|vektoriem]]. Monoklīnajā singonijā visi trīs bāzes vektori ir dažāda garuma, divi no tiem savstarpēji veido taisnu leņķi bet trešais - nē. Monoklīnajā singonijā ir trīs simetrijas veidi - planālā, aksiālā un planaksiālā.
+
+Monoklīnā singonija piemīt [[ģipsis|ģipsim]], [[biotīts|biotītam]], [[talks|talkam]] un daudzu citu minerālu kristāliem.
+
+Zemāk esošajā tabulā dots visu trīs šīs singonijas simetriju starptautiskie apzīmējumi un apzīmējumi pēc [[Šēnfliss|Šēnflisa]].
+{| class="wikitable" align=left
+|'''Nosaukums'''
+|'''Starptautiskais apzīmējums'''
+|'''Šēnflisa apzīmējums'''
+|-
+|monoklīnā planālā
+|<math>\frac2m</math>
+|''C<sub>2h</sub>''
+|-
+|monoklīnā aksiālā
+|<math>2</math>
+| ''C<sub>2</sub>''
+|-
+|monoklīnā planaksiālā
+|<math>m</math>
+|''C<sub>1h</sub>''
+|}
+
+[[Kategorija:Kristalogrāfija]]

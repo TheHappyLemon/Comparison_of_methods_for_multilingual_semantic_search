@@ -1,0 +1,40 @@
+[[Attēls:Miramar playa.JPG|thumb|220px|left|Peldvieta ezera krastā]]
+{{ezera infokaste
+|ezers=Marčikitas ezers
+|attēls=Laguna Mar Chiquita.jpg
+|map = Argentīna
+| plat_d=30 | plat_m=30 | plat_s= | plat_NS=S
+| gar_d=62 | gar_m=40 | gar_s= | gar_EW=W
+|vieta={{ARG}}
+|platība=5770
+|garums=140
+|Vid_dziļums=3—4
+|Max_dziļums=19
+|tilpums=2,39
+|augstums_vjl=70—71
+|izteka=beznoteces
+|baseins=37 570
+|valstis=
+|salas=
+|pilsētas=[[Miramara]]
+}}
+<mapframe text="Marčikitas ezers" width=290 height=290 zoom=8 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q782399"
+}
+</mapframe>
+'''Marčikitas ezers''' ({{val|es|Mar Chiquita}} — ‘mazā jūra’), līdz 19. gadsimta vidum — '''Ansenusas jūra''' (''Mar de Ansenuza''), ir [[sālsezers]] [[Argentīna]]s vidienē, [[Kordovas province|Kordovas provincē]]. Lielākais dabiskais sālsezers Argentīnā. Piektais lielākais beznoteces ezers pasaulē.
+
+Ezers atrodas dabiskā, 80 km garā un 45 km platā ieplakā, šīs ieplakas dienvidu daļā. Radies pirms apmēram {{nobr|30 000}} gadiem. [[1958]]. gadā ezera platība sasniedza {{nobr|10 000 km²}}. Vismazākā reģistrētā ezera platība ir {{nobr|1984 km²}}. Ezerā ietek sāļā [[Riodulče]]s upe. Ap ezeru purvāji ar augstu bioloģisko daudzveidību. Marčikitas ezera sāļums ir mainīgs — no 250 g/l sausajos periodos līdz 40 g/l mitros gados. Ezerā vairākas salas, vairāk salu ziemeļu dalā. Nozīmīgākā sala ir Medano sala ({{nobr|2000x150 m}}). Ezers pakāpeniski samazinās jo palielinās iztvaikošana. Laika gaitā tā vietā var palikt plaijs (sāls līdzenums).
+
+Ezera ūdens pēc sastāva līdzinās [[okeāns|okeāna]] ūdenim. Ezera piekrastē reģistrētas ap 350 putnu sugas. Ap {{nobr|100 000}} [[flamingo|flamingu]]. Ezera apkaimē attīstās tūrisms. Ezerā notiek rūpnieciska zveja. Viss ezers un Riodulčes ieteka iekļauti dabas aizsargājamā teritorijā. [[2005. gads|2005]]. gada sākumā Kordovas nacionālā universitāte pie ezera nodibināja izpētes centru.
+
+== Ārējās saites ==
+{{commonscat-inline|Mar Chiquita|Marčikitas ezers}}
+* [https://web.archive.org/web/20130307150603/http://www.prodiversitas.bioetica.org/des24-2.htm Apraksts spāņu valodā, attēli]
+* [https://web.archive.org/web/20061106034027/http://www.livinglakes.org/marchiquita/ Ezera apraksts angļu valodā]
+
+[[Kategorija:Argentīnas ezeri]]
+[[Kategorija:Sālsezeri]]

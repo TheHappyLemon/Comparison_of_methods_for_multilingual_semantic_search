@@ -1,0 +1,46 @@
+{{BioTakso infokaste
+| attēls =Indian_Gharial_at_the_San_Diego_Zoo_(2006-01-03).jpg
+| att_nosukums ={{TaksoSate|Gavialis gangeticus|Gangas gaviāls}}
+| valsts = Animalia
+| valsts_lv = Dzīvnieki
+| tips = Chordata
+| tips_lv = Hordaiņi
+| klase = Reptilia
+| klase_lv = Rāpuļi
+| kārta = Crocodilia
+| kārta_lv = Krokodili
+| kārta_r = Krokodilu kārta
+| dzimta = Gavialidae
+| dzimta_lv = Gaviālu dzimta
+| dzimta_r = Gaviāli
+| ģints = Gavialis
+| ģints_lv = Gaviāli
+| iedalījums =
+* {{TaksoSaite|Gavialis gangeticus|Gangas gaviāls}}
+| kategorijas =nē
+}}
+'''Gaviāli''' ({{val|la|Gavialis}}) ir vienīgā ģints, kas ietilpst gaviālu virsdzimtā un gaviālu dzimtā. Vienīgā mūsdienās dzīvojošā suga ir {{TaksoSaite|Gavialis gangeticus|Gangas gaviāls}}. Gaviāliem ir garš, šaurs purns, un tāpat kā [[aligatori]]em nav redzams apakšējais ceturtais zobs, ja mute ir aizvērta. Gavialiem ir palielināti priekšzobi, aiz kuriem atrodas mazāki, vienāda lieluma [[zobi]]. Gaviālam ir 102 zobi 54 augšžoklī, un 48 zobi apakšžoklī.
+
+Gaviālu purns izskatās trausls, tomēr ir bruņots ar ļoti asiem zobiem. Gaviāls ir aukstasiņu [[dzīvnieks]], tāpēc tam nav nepieciešams daudz [[enerģija]]s. Gaviāls ēd apmēram 3 reizes nedēļā. Gaviālu [[barība|pamatbarība]] ir [[zivis]]. Gaviāls satver zivi ar sānisku galvas vēzienu, tad paver muti tā lai varētu norīt zivi ar galvu pa priekšu. Gaviāls vēl ēd bezmugurkaulniekus, [[abinieki|abiniekus]], zīdītāju mazuļus un ūdensputnus.
+
+Tēviņam purna galā ir paplatinājums, kāda nav mātītēm, tēviņš paplatinājumu izmanto meklēšanas laikā izdodot [[skaņa]]s un taisot burbuļus. [[Ziema]]s beigās vai [[pavasaris|pavasara]] sākumā tēviņš ap sevi sapulcina trīs, četras mātītes, gaviālu tēviņš pārojas ar katru no tām, nolaižoties [[upe]]s dziļumā. Mātīte pēc pārošanās dodas krastā un apmēram 10 m no tā izrok [[ligzda|ligzdu]], kam ir pudeles forma, un iedēj tajā apmēram 40 [[olas]] ar plānu čaumalu. Vietu ligzdai mātīte izvēlas ļoti rūpīgi. Lai saviem pēcnācējiem nodrošinātu labākus apstākļus. Pēc olu uzdēšanas tā iegremdējas [[ūdens|ūdenī]] un uzmana olas, gatava padzīt olu zagļus. Jo laiks siltāks, jo ātrāk attīstās oliņas, tomēr laiks nemēdz pārsniegt 60—90 dienas. Kad mazuļi izšķiļas, tie sāk klusu kurkstēt, tas ir signāls mātei, tā iet un atrok zemi. Pēc tam tā paņēmusi tos mutē nes mazuļus uz ūdens pusi.
+
+Gaviāli mēdz būt 4—7m gari, svars līdz 1000 kg. Gaviāli no visiem krokodiliem vislabāk pielāgojušies dzīvei ūdenī. Uz sauszemes ir ļoti neveikli. Ūdeni pamet reti, mātītes olu dēšanas laikā. Par cik gaviāli tik daudz laika pavada ūdenī starp [[pirksti]]em ir izveidojusies plēve, kas ideāli noder peldēšanai, tāpēc ūdenī spēj sasniegt ļoti lielu ātrumu.
+
+== Sistemātika ==
+Agrāk gaviālu ģintī bija vairākas sugas. Pārsvarā tās dzīvoja Indijas ziemeļos un Pakistānas teritorijā. Gaviālu ģints ir zināma no Neogena perioda nogulumiem.
+
+'''Ģints''' {{TaksoSaite|Gavialis|Gaviāli}}
+* †{{TaksoSaite|Gavialis breviceps}} Pilgrim Agrais — vidējais [[miocēns]] Dera Bugti, [[Pakistāna]]
+* †{{TaksoSaite|Gavialis pachyrhynchus}} Lydekker Vidējais — vēlais miocēns Chinji, Pakistāna
+* †{{TaksoSaite|Gavialis curvirostris}} Lydekker Vidējais — vēlais miocēns Chinji, Pakistāna
+** †{{TaksoSaite|Gavialis curvirostris naricus}} Agrais — vidējais miocēns Dera Bugti, Pakistāna
+* †{{TaksoSaite|Gavialis browni}} Mook Vēlais miocēns Nagri, Pakistāna
+* †{{TaksoSaite|Gavialis hysudricus}} Lydekker Vēlais miocēns — agrais [[pliocēns]] Dhok Pathan, Pakistāna
+* †{{TaksoSaite|Gavialis lewisi}} Lull Vēlais miocēns — Agrais pliocēns Dhok Pathan, Pakistāna
+* †{{TaksoSaite|Gavialis leptodus}} Cautley и Falconer Vēlais pliocēns - agrais [[pleistocēns]] Pinjor, Ziemeļindija
+* {{TaksoSaite|Gavialis gangeticus|Gangas gaviāls}} Gmelin, Pliocēns - mūsdienas
+
+(†) - izmirušu organismu grupa
+
+[[Kategorija:Gaviālu dzimta]]

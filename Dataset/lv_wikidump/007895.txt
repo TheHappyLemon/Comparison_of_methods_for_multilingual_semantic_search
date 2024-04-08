@@ -1,0 +1,45 @@
+{{ezera infokaste
+|ezers=Buenosairess / Heneralkarreras ezers
+|attēls=Lago Gral. Carrera 01.JPG
+|map = Argentīna#Čīle
+| plat_d=46 | plat_m=27 | plat_s=30 | plat_NS=S
+| gar_d=71 | gar_m=42 | gar_s=13 | gar_EW=W
+|vieta={{ARG}}<br />{{CHL}}
+|platība=1850
+|garums=
+|Vid_dziļums=
+|Max_dziļums=586
+|tilpums=
+|augstums_vjl=217
+|izteka=[[Beikera]], [[Feniksčiko]]
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+<mapframe text="Buenosairess" width=290 height=290 zoom=7 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q503842"
+}
+</mapframe>
+'''Buenosairess''' vai '''Heneralkarreras ezers''' ({{val|es|Lago Buenos Aires}}, ''Lago General Carrera'') ir liels [[ezers]] uz [[Argentīna]]s ([[Santakrusa (Argentīna)|Santakrusas]] provincē) un [[Čīle]]s robežas [[Patagonija|Patagonijā]]. Argentīnas pusē ezeru sauc par Buenosairesu, bet Čīles pusē — par Heneralkarreras ezeru (Ģenerāļa Karreras ezeru).<ref>{{PZT|128}}</ref> {{nobr|970 km²}} no ezera virsmas platības atrodas Čīlē, {{nobr|880 km²}} — Argentīnā. Lielākais ezers Čīlē, ceturtais lielākais — Argentīnā.
+
+Ezeru veidojis [[ledājs]] un to no visām pusēm ielenc [[Andi|Andu]] kalni. Ezeram ir divas iztekas: uz [[Klusais okeāns|Kluso okeānu]] iztek [[Beikera]]s upe bet uz [[Atlantijas okeāns|Atlantijas okeānu]] — 19. gadsimta beigās uz [[Deseado]] izraktais [[Feniksčiko]] kanāls. Ļoti dziļš — 586 metri,<ref>Murdie et al. 1999, Geo-Marine Letters 18:315-320</ref> par {{nobr|350 m}} dziļāks par jūras līmeni. Rietumu daļā [[fjords|fjordi]]. Austrumu daļā — [[morēna]]s līdzenums.
+
+Reģionā valda vēss un mitrs klimats, taču ezera apkaimē saule spīd salīdzinoši biežāk. Ezera apkaime apdzīvota kopš 20. gadsimta sākuma. [[1971]]. un [[1991]]. gadā notika [[Hudzona vulkāns|Hudzona vulkāna]] izvirdumi, kas negatīvi ietekmēja reģiona ekonomiku. Ezera Argentīnas puse ir relatīvi viegli pieejama; pirmais ceļš līdz ezeram tika uzbūvēts 1920. gados. Čīles pusē ezers ir izolēts un čīlieši ilgus gadus to sasniedza caur Argentīnas teritoriju. 1990. gados tika uzbūvēts ceļš pa Čīles teritoriju, kas ievērojami palīdzēja attīstīt tūrismu ezera apkaimē. Ezerā ļoti populāra lašveidīgo zivju zveja.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Skatīt arī ==
+* [[Pasaulē dziļākie ezeri]]
+
+[[Kategorija:Argentīnas ezeri]]
+[[Kategorija:Čīles ezeri]]
+[[Kategorija:Andi]]

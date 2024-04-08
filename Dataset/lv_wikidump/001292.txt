@@ -1,0 +1,48 @@
+:''Polijā ir divas citas pilsētas ar līdzīgu nosaukumu - skat. [[Ostrova Lubelska]] un [[Ostrova Mazovecka]]''
+
+{{Apdzīvotas vietas infokaste
+| name = Ostrova Velkopolska
+| image_skyline = Ostrow Wlkp. Cathedral.JPG
+| imagesize = 300px
+| image_caption = Ostrovas Velkopolskas katedrāle
+| image_flag = POL Ostrów Wielkopolski flag.svg
+| image_shield = POL Ostrów Wielkopolski COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Lielpolijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Ostrovas apriņķis (Lielpolija)|Ostrovas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = XV gadsimtā
+| area_total_km2 = 41.9
+| population_as_of = 2013
+| population_total    = 72890
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 51 
+| latm = 39 
+| lats = 00 
+| latNS = N 
+| longd = 17 
+| longm = 42 
+| longs = 00
+| longEW = E
+| elevation_m = 123-175
+| website = http://www.ostrow-wielkopolski.um.gov.pl/ }}
+
+'''Ostrova Velkopolska''' ({{val-pl|Ostrów Wielkopolski}}) - pilsēta [[Polija]]s centrālajā daļā, [[Lielpolijas vojevodiste|Lielpolijas vojevodistē]]. Pilsēta dibināta XV gs sākumā, XVIII gs sākumā panīka, tomēr pamazām atjaunojās. Līdz 1920. gadam ietilpa [[Vācija|Vācijā]]. 1918 - 19.gadā bija viens no [[Lielpolijas sacelšanās]] centriem. Kardināla [[Edmunds Dalbors|Edmunda Dalbora]] (''Edmund Dalbor'', 1869 - 1926) dzimtā pilsēta.
+
+{{commonscat|Ostrów Wielkopolski|Ostrova Velkopolska}}
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Ostrova Velkopolska}}
+[[Kategorija:Lielpolijas vojevodistes pilsētas]]

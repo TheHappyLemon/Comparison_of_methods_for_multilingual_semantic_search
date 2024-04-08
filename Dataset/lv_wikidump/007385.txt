@@ -1,0 +1,30 @@
+{{ezera infokaste
+|ezers=Akajaure
+|attēls=Akka mountain.jpg
+|paraksts=Ahkas kalns Akajaures krastā
+| map = Zviedrija
+| map_size = 200px
+| plat_d=67 | plat_m=38 | plat_s= | plat_NS=N
+| gar_d=17 | gar_m=38 | gar_s= | gar_EW=E
+|vieta={{SWE}}
+|platība=94—264
+|garums=60
+|platums=5
+|Vid_dziļums=30
+|Max_dziļums=92
+|tilpums=5,9
+|augstums_vjl=423—453
+|izteka=[[Lūlelvena]]
+|baseins=4650
+|valstis=[[Zviedrija]]
+|salas=
+|pilsētas=
+}}
+'''Akajaure''' ({{val|sv|Akkajaure}}), arī '''Ahkājavre''' ({{val-smj|Áhkajávrre}}) ir [[ūdenskrātuve]] [[Zviedrija]]s ziemeļu daļā, [[Norbotena]]s lēnē. Austrumu daļa atrodas Stūrašēfalleta nacionālajā parkā.
+
+Ūdenskrātuve izveidota uz [[Lūlelvena]]s upes pēc hidroelektrostacijas celtniecības 1913. līdz 1923. gadam, iekļaujot pirms tam pastāvējušus piecus mazākus ezeri,us. Platība variē no 94 līdz 260 km².
+
+{{zviedrija-aizmetnis}}
+
+
+[[Kategorija:Zviedrijas ezeri]]

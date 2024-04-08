@@ -1,0 +1,114 @@
+{{Citas nozīmes|Jupitera pavadoni|Eiropa (nozīmju atdalīšana)|Eiropa}}
+{{Planētas infokaste
+| name               = Eiropa
+| alt_names          = Jupiters II
+| adjectives         = 
+| image              = [[Attēls:Europa-moon.jpg|250px|Patiesajās krāsās Eiropa no "Galileo" zondes]]
+| caption            = Eiropa, attēls uzņemts no "Galileo" zondes.
+| bgcolour           = #a0ffa0
+| discovery          = yes
+| discoverer         = [[Galileo Galilejs|G. Galilejs]]<br />[[Simons Marijuss|S. Marijuss]]
+| discovered         = {{dat|1610|1|7}}
+| orbit_ref          =<ref name=horizons>{{Tīmekļa atsauce |url=http://ssd.jpl.nasa.gov/horizons.cgi |title=JPL HORIZONS solar system data and ephemeris computation service |work=Solar System Dynamics|publisher=[[Nacionālā aeronautikas un kosmosa administrācija|NASA]], Jet Propulsion Laboratory |accessdate=2007-08-10}}</ref>
+| epoch              = {{dat|2004|1|8}}
+| mean_orbit_radius  = 670 900 km<ref name=factsheet>{{Tīmekļa atsauce|title=Overview of Europa Facts|work=NASA|url=http://www2.jpl.nasa.gov/galileo/europa/|accessdate=2007-12-27|archive-date=1997-01-05|archive-url=https://web.archive.org/web/19970105180851/http://www2.jpl.nasa.gov/galileo/europa/}}</ref>
+| eccentricity       = 0,009<ref name=factsheet />
+| periapsis          = 664 862 km<ref name=stub1>Izrēķināts, balstoties uz citiem parametriem</ref>
+| apoapsis           = 676 938 km<ref name=stub1/>
+| period             = 3,551181 dienas<ref name=factsheet /> 
+| orbit_circ         = 4 216 100 km
+| avg_speed          = 13,740 km/s<ref name=factsheet />
+| inclination        = 0,470° (attiecībā pret Jupitera ekvatoru)<ref name= factsheet />
+| satellite_of       = [[Jupiters (planēta)|Jupitera]] pavadonis
+| physical_characteristics = yes
+| mean_radius        = 1569 km (0,245 no Zemes rādiusa)<ref name= factsheet />
+| surface_area       = 3,09{{E|7}} [[kvadrātkilometrs|km²]] (0,061 no Zemes virsmas)<ref name=surfacearea>Aprēķināts, izmantojot vidējo rādiusu</ref>
+| volume             = 1,593{{e|10}} [[kubikmetrs|km³]] (0,015 no Zemes tilpuma)<ref name= surfacearea />
+| mass               = 4,80{{e|22}} kg (0,008 no Zemes masas)<ref name=factsheet />
+| density            = 3,01 [[grams|g]]/[[kubikcentimetrs|cm³]]<ref name= factsheet />
+| surface_grav       = 1,314 [[paātrinājums|m/s²]] (0,134 g)<ref name=stub1/>
+| escape_velocity    = 2,025 km/s<ref name=stub1/>
+| rotation           = [[sinhronizēta rotācija|sinhronizēta]]
+| axial_tilt         = 0,1°<ref name=Bills2005>{{Laikraksta atsauce|last=Bills|first=Bruce G.|title=Free and forced obliquities of the Galilean satellites of Jupiter|year=2005|volume=175|pages=233—247|doi=10.1016/j.icarus.2004.10.028| url=http://adsabs.harvard.edu/abs/2005Icar..175..233B | journal = Icarus}}</ref>
+| albedo             = 0,67 ± 0.03<ref name=jplfact>{{Tīmekļa atsauce|last=Yeomans|first=Donald K.|date=2006-07-13|title=Planetary Satellite Physical Parameters|publisher=JPL Solar System Dynamics|url=http://ssd.jpl.nasa.gov/?sat_phys_par|accessdate=2007-11-05}}</ref>
+| magnitude          = 5,29 ([[opozīcija (astronomija)|opozīcija]])<ref name=jplfact/>
+| temperatures       = yes
+| temp_name1         = Virsma
+| min_temp_1         = ~50 [[kelvins|K]]<ref name=cyclo>{{Grāmatas atsauce|title=The Encyclopedia of the Solar System|author=Lucy-Ann McFadden, Paul Weissman, Torrence Johnson|publisher=Elsevier|year=2007|pages=432}}</ref> 
+| mean_temp_1        = 102&nbsp;K
+| max_temp_1         = 125&nbsp;K
+| atmosphere         = yes
+| surface_pressure   = 1 [[paskāls|µPa]]<ref name="EuropaOxygenJPL">{{Tīmekļa atsauce|first=Donald|last=Savage|author2=Jones, Tammy|author3=Villard, Ray|url=http://www2.jpl.nasa.gov/galileo/europa/hst.html|title=Hubble Finds Oxygen Atmosphere on Europa|accessdate=2007-08-17|publisher=NASA, Jet Propulsion Laboratory|date=1995-02-23|work=Project Galileo|archive-date=2010-05-31|archive-url=https://web.archive.org/web/20100531203340/http://www2.jpl.nasa.gov/galileo/europa/hst.html}}</ref>
+}}
+
+'''Eiropa''' ({{val|el|Ευρώπη}}) ir [[Jupiters (planēta)|Jupitera]] [[dabiskais pavadonis|pavadonis]], mazākais no četriem [[Galileja pavadoņi]]em. Domājams, ka zem pavadoņa ledus segas atrodas okeāns, kurā nav izslēgta [[dzīvība]]s esamība.<ref>[http://people.msoe.edu/~tritt/sf/europa.life.html Possibility of Life on Europa] {{Webarchive|url=https://web.archive.org/web/20070609150109/http://people.msoe.edu/~tritt/sf/europa.life.html |date={{dat|2007|06|09||bez}} }} {{en ikona}}</ref>
+
+== Atklāšanas vēsture un nosaukums ==
+Eiropu atklāja [[Galileo Galilejs]] [[1610]]. gadā ar pasaulē pirmo [[teleskops|teleskopu]]. Uz pavadoņa pirmatklājēja statusu pretendēja arī vācu astronoms [[Simons Mariuss]], kurš novēroja pavadoni [[1609]]. gadā, taču pētījumu rezultātus nebija publicējis.
+
+Eiropa nosaukta sengrieķu mitoloģiskas personas vārdā. Tā bija meitene, kuru nolaupīja [[Zevs]] (romiešu mitoloģijā — [[Jupiters (dievs)|Jupiters]]). Nosaukumu „Eiropa” deva tieši Mariuss Simons [[1614]]. gadā, taču ilgu laiku tas netika lietots. Galilejs četrus atklātos pavadoņus nosauca par „Mediči planētām” un deva tiem kārtas numurus. Eiropa skaitījās kā „otrais Jupitera pavadonis”. Tikai 20. gadsimta vidū nosaukums „Eiropa” guva vispārēju atzīšanu.
+
+== Fiziskais raksturojums ==
+[[Attēls:PIA01130 Interior of Europa.jpg|left|thumb|170px|Eiropas iekšējā uzbūve]]
+Eiropa ir lielāko [[Saules sistēma]]s pavadoņu skaitā un izmēru ziņā ir līdzīga [[Mēness|Mēnesim]]. Tā pret Jupiteru visu laiku ir pagriezta ar vienu pusi. [[Jo (pavadonis)|Jo]], Eiropa un [[Ganimēds (pavadonis)|Ganimēds]] atrodas orbitālajā rezonansē — to orbitālo periodu attiecība ir 1:2:4.
+
+Eiropa vairāk līdzinās [[Zeme]]s grupas [[planētas|planētām]], nekā citiem „ledus pavadoņiem”, jo lielā mērā sastāv no [[iezis|iežiem]]. Tā pilnībā ir pārklāta ar [[ūdens]] slāni apmēram 100 km biezumā (daļēji 10-30 km biezas ledus kārtas veidā; daļēji, domājams, šķidra okeāna veidā). Vēl dziļāk ieguļ iežu slānis, bet centrā, iespējams, atrodas neliels metālisks kodols.
+
+== Virsma ==
+[[Attēls:Europa_Chaos.jpg|left|thumb|Apgabals ar "iesalušiem ledus gabaliem", liecina par pagātnē iespējamo pilnīgo atkušanu.]] 
+Eiropas virsma ir ļoti līdzena, un izceļas tikai nedaudzi dažu simtu metru augsti pakalniem līdzīgi veidojumi. Pavadoņa augstais [[albedo]] liecina, ka ledus virskārta ir samērā tīra, tātad „jauna” (ir viedoklis, ka, jo tīrāks ledus uz „ledus pavadoņiem”, jo tas ir jaunāks). Krāteru skaits ir neliels un ir tikai trīs krāteri ar diametru virs 5 km, kas arī liecina par samērā jauno pavadoņa virsmu. Tās vecums tiek lēsts ne vecāks par 30 mlj. gadu, un var secināt, ka uz Eiropas ir augsta ģeoloģiskā aktivitāte. Tajā pat laikā, salīdzinot no zondēm „Voyager” un „[[Galileo (starpplanētu zonde)|Galileo]]” ar 20 gadu intervālu sūtītās fotogrāfijas, netika atrastas nekādas izmaiņas.
+
+Virsmas temperatūra ir no -150&nbsp;°C līdz -190&nbsp;°C. Uz pavadoņa virsmas ir iespējama augsta [[radiācija]], jo Eiropa šķērso spēcīgo Jupitera radiācijas zonu.
+
+Visu Eiropas virsmu klāj savstarpēji krustojošas līnijas. Tie ir ledus slāņa lūzumi un plaisas. Dažas līnijas pilnībā apjož pavadoni. Plaisu tīklojums dažās vietās ir līdzīgs Zemes [[Ziemeļpols|Ziemeļpola]] rajona ledus slāņa plaisām.
+
+[[Attēls:Europa_Pwyll.jpg|right|thumb|26 km. platais Pvill krāteris]] 
+Ir uzskats, ka Eiropas virsma pastāvīgi mainās, t.i. veidojas jauni lūzumi. Dažu plaisu malas var pārvietoties viena pret otru, turklāt zemledus šķidrums reizēm var izspiesties pa plaisām uz augšu. Uz Eiropas ir novērojamas samērā garas dubultgrēdas; iespējams tās veidojas, uzaugot ledum uz plaisu malām, tām atveroties un aizveroties.
+
+Dažu apgabalu virsmas reljefs dod pamatu domāt, ka šajos apgabalos virsma bija pilnīgi izkususi, un ūdenī pat peldēja [[aisbergs|aisbergi]] un ledus gabali. Turklāt redzams, ka ledus gabali, kas tagad ir iesaluši, agrāk veidoja vienotu struktūru, bet pēc tam sadalījās un sagriezās.
+
+Uz virsmas vēl var redzēt Pvill krāteri, kura centrā ir paugurs, kas ir augstāks par krātera malām. Tas varētu liecināt par mīkstā ledus vai ūdens izplūdumu caur [[meteorīts|meteorīta]] izsisto caurumu.
+
+Eiropas virsma klasificējas šādos pamattipos:
+
+* Līdzenumu apgabali. Gludi līdzenumi var veidoties kriovulkānu aktivitātes rezultātā, kuru izvirdumi apklāj ar ūdeni lielas platības.
+* Haotiskie apgabali, kas atgādina haotiski izsvaidītas dažādas ģeometriskas formas atlūzas.
+* Apgabali ar dažādu līniju un joslu koncentrāciju.
+* Grēdas, pārsvarā dubultgrēdas.
+* Krāteri
+
+== Okeāns ==
+Augstāk minētais Eiropas virsmas raksturojums liecina par šķidra okeāna esamību zem biezās ledus kārtas. Okeāna iespējamais dziļums līdz 90 km; tā kopējais tilpums pārsniedz [[pasaules okeāns|pasaules okeāna]] tilpumu uz Zemes. Siltums, kurš nepieciešams, lai uzturētu ūdeni šķidrā stāvoklī, domājams, veidojas uz [[paisums|paisumu]] mijiedarbības rēķina (paisumi paceļ pavadoņa virsmu līdz 30 metru augstumam). Tajā pat laikā ir arī cita teorija, kas izskaidro virsmas raksturu nevis ar šķidra ūdens, bet ar mīksta ledus esmību zem pavadoņa virsmas.
+
+Zemledus okeāna esamību apstiprina Eiropas [[magnētiskais lauks|magnētiskā lauka]] mainīgais raksturs. Ja magnētiskais lauks veidotos feromagnētiskā kodola iespaidā, tad tas būtu daudz stabilāks un vājāks. Magnētiskie poli atrodas netālu no [[ekvators|ekvatora]] un pastāvīgi pārvietojas. Magnētiskā lauka intensitātes un orientācijas izmaiņas korelē ar Jupitera magnētiskā lauka šķērsošanu pavadoņa kustībā pa [[orbīta|orbītu]]. To var izskaidrot tikai ar elektrovadoša šķidruma esamību zem ledus virskārtas: Jupitera spēcīgais magnētiskais lauks inducē sāļajā okeānā [[elektriskā strāva|elektriskās strāvas]], kuras savukārt veido pavadoņa īpatnējo magnētisko lauku.
+
+Virsmas tumšo līniju un plankumu spektrālanalīze atklāja sāļu klātbūtni ([[magnija sulfāts]]). Sarkanīgā nokrāsa liek domāt arī par [[sērs|sēra]] un [[dzelzs]] savienojumu klātbūtni. Acīmredzot, šie sāļi ietilpst Eiropas okeāna sastāvā. Turklāt ir atklātas [[ūdeņraža pārskābe]]s un spēcīgu [[skābes|skābju]] pēdas.
+
+Tiek uzskatīts, ka Eiropas zemledus okeāns pēc saviem parametriem ir tuvs Zemes okeānu apgabaliem ģeotermālo avotu tuvumā, kā arī [[Antarktīda]]s zemledus ezeriem. Tādās ūdenskrātuvēs būtu iespējama arī dzīvība. Tajā pat laikā daži zinātnieki uzskata, ka Eiropas okeāns varētu saturēt samērā indīgu substanci, kas nebūtu piemērota dzīvo organismu esamībai.
+
+Bez Eiropas okeāni teorētiski ir iespējami uz Ganimēda un Kallisto (spriežot pēc magnētiskā lauka struktūras). Bet aprēķini rāda, ka šķidrais slānis uz šiem pavadoņiem sākas dziļāk un tā temperatūra ir daudz zemāka par nulli (ūdens paliek šķidrā stāvoklī pateicoties augstajam spiedienam).
+
+Šķidra okeāna atklāšanai būtu būtiska nozīme ārpuszemes dzīvības meklējumos. Tā kā okeāna siltuma uzturēšana notiek nevis ar saules izstaroto gaismu, bet gan ar paisuma izdalīto siltumu, tad tas mazina nepieciešamību planētai atrasties tuvu [[zvaigzne]]i, lai uz tās būtu šķidrs ūdens, kas savukārt nepieciešams uz [[olbaltumvielas|olbaltumu]] bāzētas dzīvības pastāvēšanai. Tad teorētiski dzīvība varētu būt arī planetāro sistēmu perifērijas apgabalos, blakus [[pundurzvaigzne|pundurzvaigznēm]], un pat tālu no zvaigznēm.
+
+== Atmosfēra ==
+Kosmiskā zonde „[[Galileo (starpplanētu zonde)|Galileo]]” atklāja uz Eiropas [[jonosfēra|jonosfēru]], kas norāda uz šī pavadoņa atmosfēras esamību. Vēlāk ar [[Habla kosmiskais teleskops|Habla kosmiskā teleskopa]] palīdzību tiešām tika atklātas ļoti retinātas atmosfēras pēdas, kuras spiediens nepārsniedz 1 μPa. Atmosfēra sastāv no [[skābeklis|skābekļa]], kas radies [[saule]]s radiācijas iespaidā ledum sadaloties [[ūdeņradis|ūdeņradī]] un skābeklī (ūdeņradi pavadoņa vājais [[Gravitācija|gravitācijas lauks]] nespēj noturēt).
+
+== Eiropas pētījumi ar kosmiskajām zondēm ==
+Pirmās Eiropas kosmiskās fotogrāfijas veica zonde „[[Pioneer 10]]”, nolidojot garām pavadonim [[1973]]. gada decembrī. Šo attēlu kvalitāte bija labāka, nekā bija iespējama ar tā laika teleskopiem.
+
+[[1979]]. gada martā 732 tūkst. km attālumā garām Eiropai nolidoja „[[Voyager-1]]”, bet jūlijā - „[[Voyager 2|Voyager-2]]” nolidoja 190 tūkst. km attālumā. [[kosmiskā zonde|Zondes]] nosūtīja kvalitatīvus pavadoņa attēlus (piemēram, [http://photojournal.jpl.nasa.gov/browse/PIA00459.jpg sk.]), kā arī veica dažādus mērījumus. Hipotēze par šķidra ūdens okeāna klātbūtni uz pavadoņa radās pateicoties „Voyager” datiem.
+
+No [[1995]]. gada decembra līdz [[2003. gads|2003]]. gada septembrim Jupitera sistēmu pētīja kosmiskā zonde „Galileo”. No 35 aplidojumiem ap Jupiteru 11 tika izplānoti, lai pētītu Eiropu (minimālais attālums — 201 km.). „Galileo” veica samērā detalizētu pavadoņa izpēti; tika iegūti jauni pierādījumi par labu okeāna esamībai. 2003. gadā „Galileo” tika iznīcināts Jupitera atmosfērā, lai nākotnē nevadāmā zonde nenokristu uz Eiropas un neinficētu pavadoni ar Zemes mikroorganismiem.
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Jupitera pavadoņi}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jupitera pavadoņi]]

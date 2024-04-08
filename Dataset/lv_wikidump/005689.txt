@@ -1,0 +1,80 @@
+{{Cita nozīme|pilsētu|upi|Fulda (upe)}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Fulda
+ | official_name            = ''Fulda''
+ | nickname                 = 
+ | motto                    = 
+ | settlement_type          = pilsēta
+ | image_skyline            = Altes Rathaus Fulda 2.jpg
+ | image_caption            = <!-- attēla paraksts -->
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = Wappen Fulda.svg
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 50px
+ | image_map                =
+ | pushpin_map              = Germany#Hesene
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_type1        = Federālā zeme
+ | subdivision_type2        = 
+ | subdivision_name         = {{flag|Vācija}}
+ | subdivision_name1        = [[Hesene]]
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = 744. gadā
+ | established_title2       = 
+ | established_date2        = 
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_sq_mi         = 
+ | area_total_km2           = 104.04
+ | area_land_sq_mi          = 
+ | area_land_km2            = 
+ | area_water_sq_mi         = 
+ | area_water_km2           = 
+ | area_urban_sq_mi         = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | area_metro_sq_mi         = 
+ | population_as_of         = 2014
+ | population_footnotes     = 
+ | population_total         = 65540
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_sq_mi = 
+ | population_density_km2   = auto
+ | timezone                 = 
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd =50  | latm =33  | lats = 3 | latNS =N 
+ | longd = 9 | longm =40  | longs =31  | longEW =E 
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 36001-36043
+ | elevation_footnotes      = 
+ | elevation_ft             = 
+ | elevation_m              = 261
+ | website                  = {{URL|http://www.fulda.de/}}
+ | footnotes                = 
+}}
+'''Fulda''' ({{val|de|Fulda}}) ir maza pilsēta [[Hesene|Hesenē]], [[Vācija|Vācijā]], kura ir izvietota [[Fulda (upe)|Fuldas upes]] krastos. Pilsēta atrodas [[Vācija]]s centrālajā daļā, 104 kilometru attālumā no [[Frankfurte pie Mainas|Frankfurtes pie Mainas]]. Pilsēta atrodas 261 metru virs jūras līmeņa. Fuldas kopējā platība ir 104,04 [[km²]], pēc 2014. gada datiem pilsētā dzīvo 65 540 iedzīvotāji.
+
+Fulda ir dibināta 744. gadā. Mūsdienās Fulda savas atrašanās dēļ ir nozīmīgs Vācijas transporta mezgls.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Vācija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hesenes pilsētas]]

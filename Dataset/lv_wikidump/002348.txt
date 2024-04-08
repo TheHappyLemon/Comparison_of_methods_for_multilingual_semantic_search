@@ -1,0 +1,10 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#F0F8FF"
+| style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt" | '''[[franču valoda|fr]]-1'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | Cet utilisateur peut contribuer avec un niveau '''[[:Kategorija:User fr-1|élémentaire]]''' de '''[[:Kategorija:User fr|français]]'''. 
+|}</div><includeonly>
+[[Kategorija:User fr|{{PAGENAME}}]] [[Kategorija:User fr-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Kategorija:Valodu lietotāju veidnes|fr-1]]
+
+</noinclude>

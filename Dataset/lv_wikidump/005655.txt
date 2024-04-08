@@ -1,0 +1,65 @@
+{{Infobox settlement
+| official_name          = Belci
+| native_name            = ''Bălți''
+| other_name             = 
+| image_skyline          = Primăria Bălți 6.JPG
+| image_caption          = Belcu pilsētas dome
+| image_flag             = Flag of Bălți.png
+| image_seal             = Balti-arm.jpg
+| pushpin_map            = Moldova
+| pushpin_label          = 
+| pushpin_map_caption    = Atrašanās vieta Moldovā
+| latd  = 47 | latm  = 46 | lats  = | latNS  = N
+| longd = 27 | longm = 55 | longs = | longEW = E
+| subdivision_type       = [[Pasaules valstis|Valsts]]
+| subdivision_name       = {{MDA}}
+| subdivision_type1      = [[Moldovas administratīvais iedalījums|Pašvaldība]]
+| subdivision_name1      = Belci
+| established_title      = Dibināta
+| established_date       = 1620
+| established_title2     = [[Pilsētas tiesības]]
+| established_date2      = 1818
+| government_type        = Municipālā padome
+| leader_title           = 
+| leader_name            = 
+| area_total_km2         = 78.00
+| area_urban_km2         = 41.43
+| elevation_footnotes    = 
+| elevation_m            = 59
+| population_footnotes   = <ref name="Census2014">{{cite press_release | url=http://www.realitatea.md/recensamant-2014--in-10-ani--populatia-moldovei-s-a-redus-cu-aproape-jumatate-de-milion_13981.html | title=Preliminary number of resident population in the Republic of Moldova as of 2014 Census | publisher=realitatea.md | date=January 2, 2015 | accessdate=June 19, 2015 | journal= | archive-date={{dat|2015|10|19||bez}} | archive-url=https://web.archive.org/web/20151019191346/http://www.realitatea.md/recensamant-2014--in-10-ani--populatia-moldovei-s-a-redus-cu-aproape-jumatate-de-milion_13981.html }}</ref>
+| population_total       = 102,457
+| population_as_of       = 2014. gada tautas skaitīšana
+| population_density_km2 = 1346
+| timezone               = [[Austrumeiropas laiks|EET]]
+| utc_offset             = +2
+| timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST         = +3
+| postal_code_type       = Pasta indekss
+| postal_code            = MD-3100
+| area_code              = +373 231 X-XX-XX
+| website                = {{URL|http://www.balti.md/}}
+}}
+
+'''Belci''', arī '''Beļci''' (''Bălți'') ir pilsēta [[Moldova]]s ziemeļos pie [[Dņestra]]s (Nistru) pietekas Reutas paugurainā apvidū. Ziemeļmoldovas lielākā pilsēta. [[Moldāvi|Moldāvu]] (rumāņu) iedzīvotāji ir apmēram 50%. Precīzs iedzīvotāju skaits nav zināms, jo daudzi iedzīvotāji devušies peļņā uz austrumiem ([[Krievija|Krieviju]]) vai rietumiem ([[Eiropas Savienība|ES]]). [[Padomju Savienība|PSRS]] laikos bija liels rūpniecības centrs, bet pēc tās sabrukuma pilsētā novērojama smaga ekonomiskā krīze.
+
+== Vēsture ==
+Pilsētu 1421. gadā dibināja [[Lieltuva]]s dižkunigaiša un [[Polija]]s karaļa [[Jagailis|Vladislava II]] māsa Ringaļa (Ringalia), kura bija precējusies ar [[Moldāvija]]s princi Aleksandru I. 1469. gadā [[Krimas haniste]] [[hana]] [[Mengli I Girejs|Mengli I Gireja]] vadībā pilnībā nopostīja pilsētu. Pilsēta atkopās ļoti lēni.
+
+1711. gadā Moldāvijas princis [[Dimitrije Kantemirs]] aicināja [[Krievija]]s caru [[Pēteris I]] kopīgiem spēkiem atbrīvot Moldāviju no [[Osmaņu impērija]]s pakļautības. Tam sekojošajā karā Belci bija krievu armijas galvenā bāze.
+
+1812. gada [[Bukarestes Miera līgums]] iekļāva Belcus t.s. [[Besarābija|Besarābijā]], respektīvi, Krievijas Impērijā. Tas deva impulsu Belcu attīstībā, jo Moldāvijas galvaspilsēta ([[Jasi]]) palika [[Rumānija]]s sastāvā.
+
+Starp abiem pasaules kariem Belci bija Rumānijas sastāvā, bet pēc [[Molotova-Ribentropa pakts|Molotova-Ribentropa pakta]] un sekojošā [[Padomju Savienība|PSRS]] ultimāta Rumānijai, 1940. gada 28. jūnijā pilsētā ienāca padomju karaspēks.
+
+[[Otrais pasaules karš|Otrā pasaules kara]] laikā Belcos atkal bija rumāņu varas iestādes. Rumāņu administrācija tieši neveica [[holokausts|holokausta]] akcijas, tomēr pilsētas [[ebreji|ebreju]] iedzīvotājus deportēja otrpus [[Pruta]]s uz nacistu kontrolētajiem apgabaliem.
+
+1944. gada 27. febrārī [[Padomju armija]] ieņēma Belcus un netālu no pilsētas pirmoreiz sasniedza pirmskara [[Padomju Savienība|PSRS]] robežu.
+
+20. gadsimta 80. gadu beigās, kad visā PSRS, arī [[Moldāvijas PSR]] aktivizējās sabiedriskās kustības, kas Moldovas gadījumā izvērtās karadarbībā, Belci tika saukti par "kluso pilsētu".
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Moldovas pilsētas]]

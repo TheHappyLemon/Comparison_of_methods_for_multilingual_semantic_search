@@ -1,0 +1,37 @@
+{{Elementa infokaste
+|                 tips = lantanīds
+|      kārtas skaitlis = 60
+|             6. čaula = 2
+|             5. čaula = 8
+|             4. čaula = 22
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Nd
+|             atommasa = 144,242
+|   valences elektroni = [Xe]4f<sup>4</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Nd-TableImage.svg|250px]]
+|               attēls = [[Attēls:Neodym 1-crop.jpg|180px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Neodym Magnete.jpg|160px]]<br />Neodīma paraugs [[argons|argona]] aizsargatmosfērā un neodīma magnēti
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,14
+|              blīvums = 7010
+|  kušanas temperatūra = 1297 K (1024&nbsp;°C)
+| viršanas temperatūra = 3347 K (3074&nbsp;°C)
+}}
+'''Neodīms''' ir [[ķīmiskais elements]] ar simbolu '''Nd''' un [[atomskaitlis|atomskaitli]] 60. Tas ir ķīmiski aktīvs retzemju [[metāls]]. Tāpat, kā citus [[lantanīdi|lantanīdus]], neodīmu iegūst no [[polimetāliskās rūdas|polimetāliskajām rūdām]]. Neodīmu dažreiz lieto [[stikls|stikla]] krāsošanai, un Nd<sub>2</sub>Fe<sub>14</sub>B lieto ļoti spēcīgu [[magnēts|magnētu]] izgatavošanai. Savienojumos neodīms parasti ir trīsvērtīgs.
+
+== Skatīt arī ==
+* [[Magnēts]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]

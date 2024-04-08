@@ -1,0 +1,39 @@
+[[Attēls:Orbita da terra.gif|thumb|335x335px|1. Keplera likums - Saule atrodas elipses fokusā;<br>
+2. Keplera likums - ja elipses līniju sadala stroboskopiskos punktos (vienāds laika intervāls starp punktiem) un tos savieno ar Sauli, visi laukumi būs vienlieli.]]
+'''Keplera likumi''' ir vācu astronoma [[Johanness Keplers|Johannesa Keplera]] atklātās likumsakarības, kas apraksta [[Planēta|planētu]] kustību ap [[zvaigzne|zvaigzni]].
+
+== Keplera pirmais likums (elipses likums) ==
+<!-- [[Image:kepler-first-law.png|right|150px|Kepler's first law]] -->
+Planēta kustas ap zvaigzni pa [[elipse|elipsi]], kuras vienā [[fokuss|fokusā]] atrodas zvaigzne.
+{{-}}
+
+== Keplera otrais likums (vienādo laukumu likums) ==
+
+<!-- [[Image:kepler-second-law.png|Kepler's second law]] -->Planētas savā kustībā ap Sauli pārvietojas tā, ka vienādos laika sprīžos to rādiusvektori (vektors no Saules masas centra līdz planētas masas centram) pārklāj vienādus laukumus [[Orbīta|orbītas]] plaknē.
+
+=== Otrā likuma izvedums ===
+Mazā laika intervālā <math>dt</math> planēta iezīmē mazu taisnleņķa trijstūri ar pamatu <math>r</math> un augstumu <math>r d\theta</math> tādēļ laukumu aprēķina pēc: <math>dA = \frac{1}{2} \cdot r \cdot r\ d\theta</math>. Pierakstot kā izmaiņu laikā: <math>\frac{dA}{dt} = \frac{r^2}{2} \frac{d\theta}{dt}</math>. Elipses orbītas laukums ir <math>\pi ab</math>, tādēļ [[Periods|periodā]] <math>T</math> izpildās <math>T \cdot \frac{r^2}{2} \frac{d\theta}{dt} = \pi ab</math>. Izsakot laukumu: <math>\frac{r^2} {2} \frac{d \theta}{dt} = \frac{\pi ab}{T} = \frac{dA}{dt}</math>, tā kā <math>\frac{\pi ab}{T}</math> ir konstante (nav atkarīga no laika), tad arī iezīmētais laukums nav atkarīgs no laika.{{-}}
+
+== Keplera trešais likums (harmonijas likums) ==
+[[Attēls:Solar system orbital period vs semimajor axis.svg|thumb|300x300px|[[Logaritms|Logaritmisks]] grafiks, kur uz x ass ir lielās pusass un uz y ass ir orbītu periods. Ilustrācija parāda, ka ''a''³/''T''² = konstante(zaļās līnijas stāvums nemainās)]]
+Divu planētu apriņķošanas periodu kvadrāti attiecas tāpat kā to [[orbīta|orbītu]] lielo pusasu kubi.
+
+<math>\frac{T_1^2}{T_2^2} = \frac{a_1^3}{a_2^3}</math>, kur <math>T_1</math> un <math>T_2</math> — divu planētu apriņķošanas periodi ap Sauli, <math>a_1</math> un <math>a_2</math> — to orbītu lielo pusasu garumi.
+
+=== Riņķa orbītas gadījuma izvedums ===
+Lai gan planētas kustas ap zvaigzni pa elipsi, to orbītām parasti nav liela [[Orbītas ekscentricitāte|ekscentricitāte]] un tās līdzinās riņķim. Izmantojot [[Ņūtona vispasaules gravitācijas likums|vispasaules gravitācijas likumu]]:
+
+<math>F = G \frac{m_1 m_2}{r^2}\ </math>, var iegūt paātrinājumu planētai <math>a_p = G\frac{m_z}{r^2} </math>, kur <math>a_p </math> ir paātrinājums planētai un <math>m_z </math> ir masa zvaigznei. Tā kā planēta orbitē ap zveigzni, tās paātrinājums darbojas kā [[Centrtieces spēks#Centrtieces paātrinājums|centrtieces paātrinājums]] <math>a_p = a_c = V^2/r </math>, kur <math>a_c </math> ir centrtieces paātrinājums, <math>V </math> ir planētas ātrums un <math>r </math> ir planētas attālums no zvaigznes. Planēta kustās pa riņķa līniju, tādēļ ātrumu var arī pierakstīt kā <math>V=\frac{2\pi r}{T} </math>, kur <math>T </math> ir planētas apriņķošanas periods. Ievietojot planētas paātrinājuma vienādojumā centrtieces paātrinājumu un aizstājot ātrumu ar ceļa un laika izteiksmi iegūst:
+
+<math>\frac{4\pi^2r^2}{T^2r} = G\frac{m_z}{r^2} </math> un <math>\frac{T^2}{r^3} = \frac{4\pi^2}{Gm_z} </math>. Izteiksmes labā puse ir konstante visām planētām, kas riņķo ap zvaigzni, pieņemot, ka orbīta ir riņķis.{{-}}
+
+== Vēsture ==
+
+[[Johanness Keplers]] pēc dāņu astronoma [[Tiho Brahe]]s nāves [[1601]]. gadā sāka pētīt slavenā astronoma ilggadīgos pierakstus, kuros bija precīzi planētu kustību novērojumi. Kad Keplers atzīmēja [[Marss (planēta)|Marsa]] stāvokli noteiktos laika brīžos uz lielas papīra lapas, tad ideāla apļa vietā (kā līdz tam tika uzskatīts) uz lapas iezīmējās elipse. Atzīmējot [[Saule]]s stāvokli attiecībā pret šo elipsi, tā atradās precīzi vienā elipses fokusā. Turpmākā analīze Kepleru noveda pie otrā un trešā likuma. Šos pētījumus viņš publicēja grāmatā ''Astronomia Nova'' (Jaunā astronomija), kas tika izdota 1609. gadā.
+
+Šo planētu kustības likumu atklāšana bija svarīgs solis [[heliocentrisms|heliocentrisma]] attīstībā.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Debess mehānika]]
+[[Kategorija:Orbītas]]

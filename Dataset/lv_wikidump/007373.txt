@@ -1,0 +1,100 @@
+{{Latvijas novada infokaste
+| nosaukums         = Pededzes pagasts
+| karte             = Pededzes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs2           = [[Pededze (ciems)|Pededze]]
+| platība           = 142,01
+| iedzīvotāji       = 710<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|29||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 710 / 142.01 round 1}}
+| izveidots         = 
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Pededzes pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorjām tā ziemeļaustrumos, [[Pededze]]s upes kreisajā krastā. Robežojas ar sava novada [[Liepnas pagasts|Liepnas]], [[Jaunalūksnes pagasts|Jaunalūksnes]] un [[Mārkalnes pagasts|Mārkalnes]] pagastiem, kā arī [[Krievija]]s [[Pleskavas apgabals|Pleskavas apgabala]] [[Pečoru rajons|Pečoru rajonu]]. 
+
+== Daba ==
+Atrodas [[Austrumlatvijas zemiene]]s [[Adzeles pacēlums|Adzeles pacēlumā]] un [[Alūksnes augstiene]]s [[Malienas pauguraine|Malienas paugurainē]]. Cauri pagastam iet [[Daugava]]s un [[Veļikaja]]s upju baseinu [[ūdensšķirtne]]. Augstākā vieta pagastā 162,2 m vjl. 55,7% pagasta platības aizņem meži. 
+
+=== Hidrogrāfija ===
+==== Upes ====
+Pagastam cauri tek  [[Kūdupe]], [[Isanka]], [[Šepica]], [[Pededze]], [[Virgulica]]. 
+
+==== Purvi ====
+[[Sprektišu purvs]], [[Slobodkas purvs]], pagastā ietilpst arī daļa [[Vorožas purvs|Vorožas purva]]
+
+== Vēsture ==
+[[Attēls:Pededzes pamatskola, 2016.jpg|thumb|270px|Pededzes pamatskola (2016).]]
+[[1920. gada zemes reforma]]s laikā Kalnapededzes muižu ({{val-de|Charlottenburg}}) sadalīja 28 vienībās 418 ha kopplatībā, daļu no Kūdupes un Ozolu muižām ar Liepājas pusmuižu sadalīja 24 vienībās, bet Bērzkalna muižu sadalīja 26 vienībās 239 ha kopplatībā.<ref name="LKV">{{LKV|XVI.|31 388}}</ref>
+Pēc tam, kad 1923. gada 1. novembra papildlīgumā tika precizēta [[Latvijas—Igaunijas robeža]], Igaunija atteicās no agrākās [[Lavri|Lauru kolonijas]] dienvidu daļas ar jauktu krievu un latviešu etnisko sastāvu par labu Latvijai.<ref>{{cite web|author=|authorlink=|datepublished=|url=http://bonis.lv/2013/04/19/konfidenciali-iespaidi-latviesu-lauru-kolonija-igaunija-1938-b-d-publicejums/|title=Konfidenciāli iespaidi latviešu LAURU KOLONIJĀ Igaunijā. – 1938. – B.D. publicējums.|format=|work=|publisher=bonis.lv|accessdate=2015-12-23|lang=|description=}}</ref>  
+1924. gada 1. jūnijā no [[Lāzberģa pagasts|Lāzberģa pagasta]] Kalna-Pededzes daļas un bijušās [[Pleskavas guberņa]]s [[Pleskava]]s apriņķa Lauru pagasta ({{val-et|Laura vald}}) daļām izveidoja Pededzes pagastu<ref>[http://periodika.lndb.lv/periodika2-viewer/?lang=fr#panel:pp|issue:3083|page:3 Valdības Vēstnesis - 1924. gada 28. maijs]</ref>. 
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]]<ref>[[Alūksnes apriņķis]] tika atdalīts no Valkas apriņķa tikai 1947. gada 16. oktobrī.</ref> Pededzes pagasta platība bija 126,5 km² un tajā dzīvoja 3040 iedzīvotāji.<ref>{{EncLP}}</ref> Pagasta centrā atradās Pededzes valsts pilna pamatskola ar 6 skolotājiem, bet Pededzes, Kūdupes, Jaseņecu latviešu-krievu I pakāpes pamatskolās un Tupicinas krievu I pakāpes pamatskolā katrā bija 2 skolotāji.<ref name="LKV"/>
+
+1945. gadā pagastā izveidoja [[Jaseņecas ciems|Jaseņecas]], [[Ķuršu ciems|Ķuršu]] un Pededzes [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Pededzes ciems''' ietilpa [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946-1949) un [[Alūksnes rajons|Alūksnes]] (1949-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962-1967) rajonos. 1951. gadā Pededzes ciemam pievienoja likvidētā Jaseņecas ciema Ļeņina [[kolhozs|kolhoza]] teritoriju, 1957. gadā — likvidēto Ķuršu ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Pededzes pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+Gausu ciems aiz Kūdupes, kas 1940. gadā bija Pededzes pagastā, tagad atrodas Krievijā. 
+
+=== Pieminekļi ===
+* Nr. 205.: Fiku senkapi - Fikos	
+* Nr. 206.: Jaseņicu senkapi - Jaseņicā	
+* Nr. 207.: Klementīnes senkapi - Klementīnē	
+* Nr. 208.: Stuborovas senkapi (Krāsmata) - Lielajā Stuborovā	
+* Nr. 2805.: Pededzes pareizticīgo baznīca Pededzē (1930.-1935.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3040
+|1959|2199
+|1967|1780
+|1979|1335
+|1989|1057
+|2000|962
+|2011|736
+|2021|541
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Pededze (ciems)|Pededze]]''', [[Ķurši]], [[Čistigi]], [[Fjuki]], [[Stuborova]], [[Zaiceva (Pededzes pagasts)|Zaiceva]].
+
+== Saimniecība ==
+== Transports ==
+No 20. gs. 30. gadiem līdz 1944. gadiem līdz Kūdupei ir vedusi [[Dzelzceļa līnija Pakalnieši—Kūdupe|dzelzceļa līnija]], pa kuru kursēja sliežu autobuss.  2014. gadā noslēdzās [[Autoceļš P40|autoceļa P40]] asfaltēšana, kas pagastu savieno ar novada centru Alūksnē.
+
+== Izglītība un kultūra ==
+Pagastā darbojas Pededzes pamatskola ar 65 pamatskolēniem un 12 pirmskolēniem 2019./2020. mācību gadā <ref>{{Tīmekļa atsauce|url=https://aluksne.lv/index.php/izglitiba/visparejas-izglitibas-iestades/pededzes-pamatskola/|title=Pededzes pamatskola|last=|first=|access-date=|date=}}</ref>, līdz 2016. mācību gadam mācības notika 2 apmācības valodās -  latviešu un krievu, bet šobrīd tikai valsts valodā <ref>{{Ziņu atsauce|url=https://www.youtube.com/watch?v=IxUTSIMTcHU|title=Pededzē mācības latviešu valodā|publisher=LTV|work=|access-date=|date=09.05.2017.|last=|first=}}</ref> Pededzes pareizticīgo kāzu tradīcijas ir iekļautas nemateriālo kultūras vērtību sarakstā <ref>{{Ziņu atsauce|url=https://www.youtube.com/watch?v=0cX7uGflSiQ|title=Pededzes pareizticīgo kāzu tradīcijas - Latvijas nemateriālās kultūras vērtība|publisher=Alūksnes novads|work=|access-date=|date=25.02.2020.|last=Matisone|first=Gunta}}</ref> Pagasta centrā darbojas tautas nams ar 3 deju kolektīviem, bērnu vokālo ansambli un folkloras kopu "Labā oma" <ref>{{Tīmekļa atsauce|url=https://kulturasdati.lv/lv/kulturas-centri/pededzes-tautas-nams|title=Pededzes tautas nams|last=|first=|access-date=|date=}}</ref>
+
+== Ārējās saites ==
+[http://www.redzidzirdilatviju.lv/lv/search/160648?q=pededze Pededzes valsts pamatskolas iesvētīšanas video ar valsts prezidenta Kārļa Ulmaņa dalību 1938. gadā]
+
+[http://periodika.lv/periodika2-viewer/view/index-dev.html?lang=fr#panel:pp%7Cissue:/p_001_jazi1938n120%7Carticle:DIVL220%7Cquery:Pededzes%20Pededzes%20Pededzes%7CissueType:P Jaunāko Ziņu reportāža no valsts prezidenta vizītes Pededzē 1938. gadā] {{Webarchive|url=https://web.archive.org/web/20200203190615/http://periodika.lv/periodika2-viewer/view/index-dev.html?lang=fr#panel:pp%7Cissue:/p_001_jazi1938n120%7Carticle:DIVL220%7Cquery:Pededzes%20Pededzes%20Pededzes%7CissueType:P |date={{dat|2020|02|03||bez}} }}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Pededzes pagasts| ]]

@@ -1,0 +1,45 @@
+{{Valodas infokaste
+|name   = Nīderlandiešu valoda
+|nativename = ''Nederlands''
+|pronunciation = [ˈneːdərlɑnts]
+|states =[[Nīderlande]], [[Beļģija]] ([[Flandrija]] un [[Brisele]]), [[Surinama]], [[Aruba]], [[Nīderlandes Antiļas]], [[Indonēzija]], [[Francijas Flandrija]], [[Lejasreina|Lejasreina (Vācija)]].
+|speakers =
+Dzimtā val.: 23 milj.<br>Otrā val.:4 milj.<br>Kopā:27 milj.
+|familycolor = Indoeiropiešu
+|fam2   = [[Ģermāņu valodas|Ģermāņu]]
+|fam3   = [[Rietumģermāņu valodas|Rietumģermāņu]]
+|fam4   = [[Lejasfranku valodas|Lejasfranku]]
+|script = [[Latīņu alfabēts]]
+|nation = {{ABW}}<br> {{BEL}}<br> {{NLD}}<br> {{ANT}}<br> {{SUR}}<br> [[Attēls:Flag of Benelux.svg|24px]]&nbsp;[[Benilukss]]<br> {{EUR}}<br> [[Attēls:Flag_of_South_America_(proposal).svg|24px]]&nbsp;[[Dienvidamerikas Nāciju Savienība]]
+|agency = ''Nederlandse Taalunie''<br>([[Nīderlandiešu valodas savienība]])
+|iso1=nl |iso2b=dut |iso2t=nld |iso3=nld
+|map    = [[Attēls:Map of the Dutch World.svg|center|frameless|upright=1.25]]<div style="text-align: center;"><small>Nīderlandiešu valodas izplatība</small></div>
+}}
+
+'''Nīderlandiešu valoda''' ({{Audio|nl-Nederlands.ogg|''Nederlands''}}), saukta arī par '''holandiešu valodu''' ([[Nīderlande|Nīderlandē]]) un '''[[flāmu valoda|flāmu valodu]]''' ([[Beļģija|Beļģijā]]), ir [[Ģermāņu valodas|ģermāņu]] saimes valoda, kas ir [[dzimtā valoda]] ap 23 miljoniem cilvēku [[Nīderlande|Nīderlandē]], [[Beļģija|Beļģijā]], [[Surinama|Surinamā]], [[Aruba|Arubā]] un [[Nīderlandes Antiļas|Nīderlandes Antiļās]]. Tuvu radniecīga citām [[Rietumģermāņu valodas|rietumģermāņu valodām]], kā [[angļu valoda|angļu]], [[rietumfrīzu valoda|rietumfrīzu]] un [[vācu valoda|vācu]]. No nīderlandiešu valodas veidojusies [[afrikandu valoda]], kas tagad tiek uzskatīta par patstāvīgu valodu.
+
+== Īpašvārdu atveidošana ==
+{{pamatraksts|nīderlandiešu īpašvārdu atveidošana}}
+Nīderlandiešu valodas [[īpašvārdu atveidošana]] [[latviešu valoda]]s vidē tiek veikta pēc fonētiskās transliterācijas principa, ievērojot latviešu valodas tradīcijas nīderlandiešu un flāmu īpašvārdu atveidošanā. Nīderlandiešu valodas alfabēta burti un burtkopas tiek pārlikti latviešu valodas ortogrāfijā, pakļaujot šos vārdus [[gramatizācija]]i.
+
+Pēc šiem noteikumiem atveido nīderlandiešu un flāmu [[personvārds|personvārdus]], kā arī [[toponīms|ģeogrāfiskos nosaukumus]] [[Nīderlande|Nīderlandē]], [[Flandrija|Flandrijā]] ([[Beļģija]]), [[Surinama|Surinamā]]. [[Aruba|Arubā]] un [[Nīderlandes Antiļas|Nīderlandes Antiļās]] nīderlandiešu valoda ir [[oficiālā valoda]], bet lielākajai daļai vietvārdu ir [[spāņu valoda|spāņu]], [[Portugāļu valoda|portugāļu]], [[angļu valoda|angļu]] un [[franču valoda|franču]] valodu cilme. Atsevišķos gadījumos nīderlandiešu valodas cilmes personvārdi un vietvārdi sastopami [[Indonēzija|Indonēzijā]], [[Brazīlija|Brazīlijā]], [[Mazās Antiļu salas|Mazajās Antiļu salās]] un citur.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{InterWiki|code=nl}}
+* [https://web.archive.org/web/20061001220657/http://www.minbuza.nl/en/welcome/Netherlands Nīderlandiešu valoda - Nīderlandes ārlietu departaments]
+* [https://web.archive.org/web/20051201061656/http://www.ned.univie.ac.at/publicaties/taalgeschiedenis/en/ Nīderlandiešu valodas vēsture]
+* [http://www.phon.ucl.ac.uk/home/sampa/dutch.htm ''Sampa'' nīderlandiešu valodai]
+
+;Vārdnīcas
+* [http://dutch.onebadmouse.com/ ''John and Grayson's'' nīderlandiešu valodas vārdnīca]
+
+{{valoda-aizmetnis}}
+
+{{Ģermāņu valodas}}
+{{ES oficiālās valodas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nīderlandiešu valoda| ]]

@@ -1,0 +1,41 @@
+{{Infobox political party
+|name_english    = Igaunijas Centra partija
+|name_native     = Eesti Keskerakond
+|logo            = [[Attēls:Eesti Keskerakond Teillogo.svg|220px]]
+|colorcode       = #017e60
+|leader          = [[Jiri Ratass]]
+|predecessor     = [[Igaunijas Tautas fronte]]
+|foundation      = 1991. gada 12. oktobris
+|ideology        = [[Centrisms]],<ref>{{Atsauce |first=Andrejs |last=Plakans |title=A Concise History of the Baltic States |publisher=Cambridge University Press |year=2011 |page=424}}</ref><br>[[Sociālais liberālisms]]<ref>{{Atsauce |first=Elisabeth |last=Bakke |title=Central and East European party systems since 1989 |work=Central and Southeast European Politics since 1989 |publisher=Cambridge University Press |year=2010 |page=79}}</ref>
+|membership      = 14 732 {{decrease}}
+|membership_year = 2021
+|position        = 
+|colours         = Zaļā
+|headquarters    = {{vieta|Igaunija|Tallina}}
+|website         = {{URL|http://www.keskerakond.ee}}
+|seats1_title    = ''[[Riigikogu]]''
+|seats1          = {{Infobox political party/seats|16|101|hex=#017E60}}
+|seats2_title    = [[Eiropas Parlaments]]
+|seats2          = {{Composition bar|1|7|hex=#017E60}}
+|footnotes       = [[Igaunijas politisko partiju uzskaitījums]]
+|flag            = [[Attēls:Flag of the Estonian Centre Party.svg|200px|border|Igaunijas Centra partijas karogs]]
+}}
+'''Igaunijas Centra partija''' ({{val|et|Eesti Keskerakond}}) ir [[Sociālais liberālisms|sociāli liberāla]] [[Politiskā partija|politiska partija]] [[Igaunija|Igaunijā]].
+
+Izveidojusies 1991. gadā no [[Igaunijas Tautas fronte]]s, kad no tās bija atšķēlušās vairākas citas partijas. Partijas līderis ir [[Jiri Ratass]], bijušais Igaunijas premjerministrs. Iepriekš to ilgstoši vadīja [[Edgars Savisārs]], kādreizējais Tautas frontes vadītājs un bijušais Igaunijas valdības vadītājs (1990—1992), kā arī ekonomikas un komunikāciju ministrs pirmajā [[Andruss Ansips|Andrusa Ansipa]] valdībā. Divas reizes ir bijis [[Tallina]]s mērs (2001-2004, 2007—2015).
+
+Partija deklarē, ka tā pārstāv Igaunijas vidusšķiras intereses, tomēr liela daļa partijas panākumu vēlēšanās balstījusies uz tās līdera Savisāra harizmas.
+
+Partija ir mēreni eiroskeptiska (2003. gadā partijas vairākums bija pret Igaunijas iestāšanos [[Eiropas Savienība|ES]]).
+
+Partijai tiek pārmests populisms, bet Savisāram — autoritāras iezīmes, tomēr tā līdz 2007. gadam bija valdošajā koalīcijā. Vēlēšanās Centra partiju atbalstīja arī daļa Igaunijas [[krievi|krievu]] elektorāta (Igaunijas [[nepilsoņi (Igaunija)|nepilsoņi]] drīkst piedalīties pašvaldību vēlēšanās).
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā tīmekļa vietne}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas politiskās partijas]]

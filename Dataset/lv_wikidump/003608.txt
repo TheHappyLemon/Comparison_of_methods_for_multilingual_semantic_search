@@ -1,0 +1,70 @@
+[[Attēls:Newtons laws in latin.jpg|thumb|175px|Ņūtona likumi latīņu valodā, 1687. gada izdevums.]]
+
+'''Ņūtona kustības likumi''' ir trīs [[Klasiskā mehānika|klasiskās mehānikas]] likumi (kā ceturto var pieskaitīt vispasaules gravitācijas likumu), kuri raksturo [[spēks|spēka]] ietekmi uz [[fizikāls ķermenis|ķermeņiem]]. Spēks izraisa ķermeņu kustību vai [[Deformācija|deformāciju]]. Mehānikā plaši izmanto [[Materiāls punkts|materiālus punktus]] un [[Absolūti ciets ķermenis|absolūti cietus ķermeņus]] — absrtaktos fizikas modeļus, kuriem arī piemēro Ņūtona likumus.
+
+Trīs klasiskās mehānikas pamatlikumi, kurus [[Īzaks Ņūtons|Ņūtons]] formulējis 1687. gadā grāmatā "[[Dabas filozofijas matemātiskie principi]]", ko vairāk pazīst pēc tās saīsinātās versijas ar oriģinālo nosaukumu latīņu valodā ''Principia Mathematica''.
+
+== Pirmais Ņūtona likums ==
+{{main|Pirmais Ņūtona likums}}
+Pirmais Ņūtona likums jeb [[inerce]]s likums: ja uz ķermeni neiedarbojas citi ķermeņi vai arī ja to iedarbība savstarpēji kompensējas, ķermenis saglabā miera vai vienmērīgas taisnvirziena kustības stāvokli.
+
+Pirmajam Ņūtona likumam kā piemēru var minēt bumbiņu, kas nekustīgi stāv uz biljarda galda. Bumbiņa paliks šādā stāvoklī, ja vien to nepagrūdīs ar kiju vai citu bumbiņu vai ja kāds neizkustinās galdu. Līdzīgi, ja bumbiņa ripo, tā turpinās savu ceļu, līdz to apturēs cita bumbiņa, borts, kabata vai berzes spēks ar galda virsmu.
+
+== Otrais Ņūtona likums ==
+
+Otrais Ņūtona likums (materiāla punkta kustības dinamikas pamatlikums) ir sakarība starp spēku, [[Masa|masu]] un [[Paātrinājums|paātrinājumu]]: ķermeņa masas un paātrinājuma reizinājums ir vienāds ar spēku, kas darbojas uz ķermeni, turklāt paātrinājuma virziens sakrīt ar spēka virzienu.
+
+Formulas veidā to pieraksta šādi:
+:<math>\vec{F}=m\vec{a}</math>,
+kur <math>\vec{F}</math> ir spēks, kas darbojas uz ķermeni [N], m ir ķermeņa masa [kg], bet <math>\vec{a}</math> ir paātrinājums [m/s<sup>2</sup>].
+
+Citiem vārdiem, spēks, iedarbojoties uz ķermeni, ietekmē tā kustību.
+Piemēram, ja ar vienādu spēku mēģina pagrūst biljarda bumbiņu un boulinga bumbu (kurai ir lielāka masa nekā biljarda bumbiņai), tad skaidrs, ka biljarda bumbiņa kustēsies daudz straujāk nekā boulinga bumba. Arī kustībā esošas boulinga bumbas kustības mainīšanai ir nepieciešams lielāks spēks nekā biljarda bumbiņai.
+
+Piemērs ar skaitļiem:
+Cilvēks, kura masa ir 100 kg, kustas ar paātrinājumu 10 m/s<sup>2</sup> tad spēks, ar ko tas tika pagrūsts, ir 100 kg x 10 m/s<sup>2</sup> = 1000 N.
+
+Izmantojot [[Impulss|impulsa]] jēdzienu, šo likumu var uzrakstīt kā
+
+<math>\vec{F}=\frac{\operatorname{d} \vec{p}}{\operatorname{d} t}</math>, kur <math>\vec{F}</math> ir ķermenim pieliktais spēks, <math>\frac{\operatorname{d} \vec{p}}{\operatorname{d} t}=\vec{p}'_t</math> ir impulsa pirmās kārtas [[atvasinājums]] pēc [[Laiks|laika]],
+
+vai kā
+
+<math>\vec{\langle F\rangle}=\frac{\Delta \vec{p}}{\Delta t}</math>, kur <math>\langle \vec{F}\rangle</math> ir vidējais spēks, <math>\Delta \vec{p}</math> ir impulsa izmaiņa, <math>\Delta t</math> ir laika intervāls.<ref name=":02">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=69|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref>
+
+Izmantojot [[Spēka impulss|spēka impulsa]] <math>\vec{J}</math> jēdzienu, šo likumu var uzrakstīt kā
+
+<math>\Delta \vec{p}=\vec{J}</math>.<ref>{{Grāmatas atsauce|title=Fizika|first3=M.|last7=Čudars|first6=A.|last6=Okmanis|first5=Dz.|last5=Lūsis|first4=A.|last4=Danebergs|last3=Ogriņš|last=Valters|first2=A.|last2=Apinis|pages=35|isbn=5-405-00110-4|year=1992|publisher=Zvaigzne|first=A.|first7=J.}}</ref>
+
+== Trešais Ņūtona likums ==
+
+Trešais Ņūtona likums jeb darbības un pretdarbības likums ir šāds: spēki, ar kādiem divi ķermeņi iedarbojas viens uz otru, vienmēr ir vienādi pēc lieluma, bet vērsti pretējos virzienos.
+
+To var aprēķināt pēc formulas <math>\vec{F_2}=-\vec{F_1}</math>, 
+
+kur <math>\vec{F_1}</math> ir darbības spēks [N], bet <math>\vec{F_2}</math> ir pretdarbības spēks [N].
+
+Ja viens ķermenis iedarbojas ar spēku uz otru ķermeni, tad tikpat liels spēks, ko sauc par pretdarbības spēku, darbosies arī pretējā virzienā.
+Šo likumu ilustrē sprinteris, kas atbalstās pret starta paliktņiem. Kad sprinteris atgrūžas no šiem paliktņiem, skriešanas virzienā jūtams tikpat stiprs pretgrūdiens, un tas palīdz sportistam uzsākt skrējienu.
+
+Piemērs ar skaitļiem:
+Grāmata, kas uz galdu spiež ar 10 N lielu spēku, no galda saņem atpakaļ 10 N lielu spēku, kas vērsts pretējā virzienā.
+
+== Skatīt arī ==
+
+* [[Ņūtona vispasaules gravitācijas likums]]
+* [[Ņūtona viskozitātes likums]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+*[https://www.youtube.com/watch?language=lv&v=JGO_zDWmkvk Ņūtona 3 likumi, ar divriteni — Džošua Menlijs] {{lv ikona}}. ''TED-Ed'' (2012. gada 19. septembris).
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+== Atsauces ==
+
+{{atsauces}}
+[[Kategorija:Klasiskā mehānika]]

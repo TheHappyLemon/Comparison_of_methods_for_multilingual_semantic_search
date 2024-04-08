@@ -1,0 +1,107 @@
+<!----
+==Vadošās valstis pēc ābolu produkcijas==
+{| class="wikitable sortable"			
+|- bgcolor="#ececec"		
+! Vieta !! Valsts !! Ābolu produkcija (tonnas; 2006. g.)
+|-				
+|1||	{{flag|Ķīna}} ||align="left"|	26,065,500
+|-			
+|2||	{{flag|ASV}} ||align="left"|	4,568,630
+|-			
+|3||	{{flag|Irāna}} ||align="left"|	2,661,901
+|-			
+|4||	{{flag|Polija}} ||align="left"|	2,304,892
+|-			
+|5||	{{flag|Itālija}} ||align="left"|	2,112,720
+|-			
+|6||	{{flag|Turcija}} ||align="left"|	2,002,033
+|-			
+|7||	{{flag|Indija}} ||align="left"|	1,739,000
+|-			
+|8||	{{flag|Francija}} ||align="left"|	1,705,456
+|-			
+|9||	{{flag|Krievija}} ||align="left"|	1,617,000
+|-			
+|10||	{{flag|Čīle}} ||align="left"|	1,350,000
+|-			
+|11||	{{flag|Argentīna}} ||align="left"|	1,271,536
+|-			
+|12||	{{flag|Vācija}} ||align="left"|	947,611
+|-			
+|13||	{{flag|Brazīlija}} ||align="left"|	861,385
+|-			
+|14||	{{flag|Japāna}} ||align="left"|	831,800
+|-			
+|15||	{{flag|Ziemeļkoreja}} ||align="left"|	668,000
+|-			
+|16||	{{flag|Spānija}} ||align="left"|	660,700
+|-			
+|17||	{{flag|Dienvidāfrika}} ||align="left"|	639,763
+|-			
+|18||	{{flag|Meksika}} ||align="left"|	601,500
+|-			
+|19||	{{flag|Rumānija}} ||align="left"|	590,413
+|-			
+|20||	{{flag|Ēģipte}} ||align="left"|	550,000
+|}
+
+==Vadošās valstis pēc vīna produkcijas==
+{| class="wikitable"
+|+<big>'''Vīna produkcija 2005. gadā'''</big>
+! Vieta !! Valsts !! Produkcija<br><small>([[tonna|tonnās]])</small>
+|-
+| 1 || [[Itālija]] || 5,329,449
+|-
+| 2 || [[Francija]] || 5,056,648
+|-
+| 3 || [[Spānija]] || 3,934,140
+|-
+| 4 || [[ASV]] || 2,232,000
+|-
+| 5 || [[Argentīna]] || 1,564,000
+|-
+| 6 || [[Ķīna]]  || 1,300,000
+|-
+| 7 || [[Austrālija]] || 1,274,000
+|-
+| 8 || [[Dienvidāfrika]] || 1,157,895
+|-
+| 9 || [[Vācija]] || 1,014,700
+|-
+| 10 || [[Čīle]] || 788,551
+|-
+| 11 || [[Portugāle]] || 576,500
+|-
+| 12 || [[Rumānija]]  || 575,000
+|-
+| 13 || [[Krievija]] || 512,000
+|-
+| 14 || [[Ungārija]] || 485,000
+|-
+| 15 || [[Grieķija]] || 437,178
+|-
+| 16 || [[Brazīlija]] || 320,000
+|-
+| 17 || [[Austrija]] || 258,000
+|-
+| 18 || [[Ukraina]] || 240,000
+|-
+| 19 || [[Moldova]] || 230,000
+|-
+| 20 || [[Bulgārija]] || 200,000 
+|}
+
+---->
+* [[Suverēno valstu uzskaitījums]]
+* [[Atkarīgo teritoriju uzskaitījums]]
+* [[Starptautiski neatzītu valstu uzskaitījums]]
+* [[Kustības par valsts izveidi]]
+* [[Salu valstu saraksts]]
+* [[Valstu uzskaitījums ar oficiālo angļu valodu]]
+* [[Valstu bez bruņotajiem spēkiem uzskaitījums]]
+
+{{Valstu uzskaitījumi}}
+{{Ģeogrāfija-aizmetnis}}
+
+[[Kategorija:Politiskā ģeogrāfija]]
+[[Kategorija:Valstu uzskaitījumi|*]]

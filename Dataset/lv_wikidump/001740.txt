@@ -1,0 +1,64 @@
+{{Apdzīvotas vietas infokaste
+| name = Kretinga
+| official_name = ''Kretinga''
+| settlement_type = pilsēta
+| image_skyline =Kretinga200906166.JPG
+| imagesize = 
+| image_caption = Kretingas centrs
+| image_flag = Kretingos Vėliava.png
+| image_shield = Kretinga COA.gif
+| shield_size = 75px
+| pushpin_map = Lithuania
+| pushpin_label_position = 
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Kretingas rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1607
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 17269
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 55
+| latm = 53 
+| lats = 30 
+| latNS = N 
+| longd = 21 
+| longm = 14 
+| longs = 50
+| longEW = E
+| elevation_m = 25
+| website = {{URL|http://www.kretinga.lt}}
+}}
+'''Kretinga''' ({{val|lt|Kretinga}}) ir pilsēta un [[Kretingas rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s rietumos, pilsētas un arī apkārtnes [[seņūnija]]s centrs. Atrodas pie [[Akmena]]s upes, 11 km uz austrumiem no [[Palanga]]s, 25 km uz ziemeļaustrumiem no [[Klaipēda]]s. Kretinga ir viena no vecākajām pilsētām Lietuvas rietumu daļā, pilsētbūvniecības piemineklis.
+
+Lielākā daļa no pilsētas atrodas Akmenas upes austrumkrastā, kur atrodas pašvaldības ēka, katoļu baznīca (uzcelta [[1617]]. gadā), [[bernardīnieši|bernardīniešu]] klosteris (arī [[franciskāņi|franciskāņu]] klosteris ar vecāko saglabājušos saules pulksteni Lietuvā — ap 1610. gadu), kapliča, Kretingas evaņģēliski luteriskā baznīca, pareizticīgo Kretingas Dievamātes baznīca, kultūras nams, pasta nodaļa. Ziemeļu daļā atrodas [[Tiškeviči|Tiškeviču]] muižas pils (tajā darbojas Kretingas muzejs) un parks, rajona centrālā slimnīca, poliklīnika, divi ezeri. Akmenas upes labajā krastā atrodas rūpniecības uzņēmumi (elektrības tīkli, celtniecības, santehnikas uzņēmumi, zvērkopības ferma, A/S „Kretingos grūdai“ un citi), pilsētu šķērso dzelzceļš uz Klaipēdu.
+
+== Vēsture ==
+Pilsēta pirmoreiz minēta 1253. gadā hronikā kā ''Cretyn''. 1602. gadā hetmanis [[Jans Karols Hodkevičs]] uzcēla šeit koka baznīcu un nodibināja klosteri, ap kuru attīstījās pilsēta. 1621. gadā pilsēta nonāca [[Sapehas|Sapehu]] kontrolē, bet 1720. gadā — Masaļsku dzimtas īpašumā, kuri 1774. gadā šeit nodibināja ģimnāziju. Pēc [[Polijas-Lietuvas dalīšanas|Polijas-Lietuvas trešās dalīšanas]] 1795. gadā Kretinga tika pievienota [[Krievijas Impērija|Krievijai]] un kļuva par robežpilsētu ar [[Prūsijas Karaliste|Prūsiju]], vēlāk — [[Vācijas Impērija|Vāciju]]. 1882. gadā no Kretingas uz [[Pluņģe|Pluņģi]] un [[Rietava|Rietavu]] tika izveidota Lietuvā pirmā telefona līnija. 1875. gadā grāfs Tiškevičs pie pilsētas sāka muižas pils celtniecību. [[Pirmais pasaules karš|Pirmā pasaules kara]] laikā vācieši no Kretingas uz [[Priekule|Priekuli]] izbūvēja dzelzceļa līniju.
+
+== Cilvēki ==
+* [[Joahims Baumanis]] (''Joachim Baumann'', 1712–1759), luterāņu mācītājs
+* [[Gintars Einiķis]] (''Gintaras Einikis'', 1969), basketbolists
+* [[Bereks Joselevičs]] (poļu: Berek Joselewicz, 1764—1809), ebreju tirgotājs un poļu armijas kavalērijas pulkvedis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Lietuva-aizmetnis}}
+
+{{Lietuvas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lietuvas pilsētas]]

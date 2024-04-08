@@ -1,0 +1,23 @@
+{| align="right" border="1" style="clear:both; margin:0.5em 0 0.5em 0.5em; width:15.0em; border:1px #aaaaaa solid; border-collapse:collapse; background:#ffffff; font-size:85%; text-align:center; line-height:1.25em;" cellpadding="2" cellspacing="0"
+|-
+!style="background:#8FE153;"| [[Image:Osmanli-nisani.svg|40px]]
+!style="padding:0.3em 0.6em; background:#B7EC90; line-height:1.2em; font-size:110%;"| [[Osmaņu impērija]]s<br/>vēsture
+|-
+!colspan="2" style="background:#cccccf;"| Laikmeti
+|-
+|colspan="2"| <div style="padding-bottom:0.15em;">[[Osmaņu impērijas uzplaukums|'''Uzplaukums'''<br/><small>(1299&ndash;1453)</small>]]</div> [[Osmaņu bezvaldnieku laiks|Bezvaldnieku laiks]]
+|-
+|colspan="2"| <div style="padding-bottom:0.15em;">[[Osmaņu impērijas izplešanās|'''Izplešanās'''<br/><small>(1453&ndash;1683)</small>]]</div> 
+|-
+|colspan="2"| <div style="padding-bottom:0.15em;">[[Osmaņu impērijas stagnācija|'''Stagnācija'''<br/><small>(1683&ndash;1827)</small>]]</div> [[Kēprīlī laikmets]]<br/>[[Sieviešu sultanāts]]<br/>[[Osmaņu impērijas Tulpju laikmets|Tulpju laikmets]]
+|-
+|colspan="2"| <div style="padding-bottom:0.15em;">[[Osmaņu impērijas panīkums|'''Panīkums'''<br/><small>(1828&ndash;1908)</small>]]</div> [[Tanzimats|Reformas]]<br/>[[Osmaņu impērijas pirmās konstitūcijas laikmets|1. konstitūcijas laikmets]]
+|-
+|colspan="2"| <div style="padding-bottom:0.15em;">[[Osmaņu impērijas gals|'''Gals'''<br/><small>(1908&ndash;1922)</small>]]</div> [[Osmaņu impērijas otrās konstitūcijas laikmets|2. konstitūcijas laikmets]]<br/>[[Osmaņu impērijas sadalīšana|Sadalīšana]]
+|-
+{{#ifexist: Template:{{{Timeline|X1}}}
+ | <th colspan="2" style="background:#cccccf; font-size:90%;">{{Compactlink Timeline|Template:{{{Timeline|}}}}}</th>
+}}
+|-
+|}[[Kategorija:Osmaņu impērijas vēsture<noinclude>|τ</noinclude>]]<noinclude>
+</noinclude>

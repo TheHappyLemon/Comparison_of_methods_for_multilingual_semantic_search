@@ -1,0 +1,8 @@
+{{ombox
+| type = style
+| image = [[Attēls:Ambox warning yellow.svg|40x40px|alt=|link=]]
+| text =
+'''Šajā veidnē izmantota ļoti sarežģīta un ārēji nemanāma veidņu sintakse.''' <div style="font-size:95%; padding-bottom:2px;">Lūdzu, nemēģiniet šo veidni mainīt, ja Jums nav zināšanu par to, ko dariet. Ja pēc rediģēšanas radušās problēmas, ātri atceliet izmaiņas, jo tās ietekmē lielu skaitu citu Vikipēdijas lapu. Pirms izmaiņu veikšanas nodrošiniet koda kvalitātes pārbaudi no šīs lapas neatkarīgā vidē (piemēram, [[Vikipēdija:Smilšu kaste|smilšu kastē]]).</div>
+}}<includeonly>
+[[Kategorija:Ezotēriskās veidnes|{{PAGENAME}}]]</includeonly><noinclude>
+[[Kategorija:Vikipēdijas veidnes]]</noinclude>

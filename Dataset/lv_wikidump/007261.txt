@@ -1,0 +1,16 @@
+[[Attēls:T-DSL Modem.jpg|thumb| ''ADSL'' modems]]
+
+'''Asimetriskā digitālā abonenta līnija''' ('''''Asymmetric Digital Subscriber Line''''' jeb '''''ADSL''''') ir digitālās abonēšanas līnijas (''[[DSL]]'') veids, ar ko var veikt ātrāku datu pārraidi vara telefona līnijās nekā parastie tradicionālie balss frekvenču joslas [[modems|modemi]]. ''ADSL'' atšķiras no mazāk sastopamā simetriskās digitālās abonēšanas līnijas (''SDSL''). ''ADSL'' tehnoloģijā joslas platums un datu pārraides ātrums ir asimetrisks, tas nozīmē, ka ātrums lejupplūsmā (downstream) ir ievērojami augstāks nekā augšupplūsmā (''upstream''). Pakalpojumu sniedzēji parasti reklamē ''ADSL'' kā pakalpojumu patērētājiem, kuriem galvenā ir failu lejupielāde.    
+
+Teorētiskais datu pārraides ātrums, ko spēj nodrošināt ''ADSL'' standarts, ir 8 [[Mbps]] lejupplūsmā un 640 [[kbps]] augšupplūsmā.
+
+Attīstoties ''ADSL'' tehnoloģijai, ir radušās jaunas uzlabotas versijas ''[[ADSL2]]'' un ''[[ADSL2+]]''. ''ADSL2+'' teorētiskais datu pārraides ātrums (laboratorijās sasniegtais) ir 24 Mbps lejupplūsmā un 1024 kbps augšupplūsmā.
+
+== Ārējās saites ==
+* [https://lv.fondoperlaterra.org/comdifference-between-adsl-and-cable-modem-48 Atšķirība starp ADSL un kabeļmodemu]
+
+
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Telesakari]]

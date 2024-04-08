@@ -1,0 +1,16 @@
+[[Attēls:Nitrocellulose-2D-skeletal.png|250px|thumb|Nitrocelulozes ķīmiskā formula, kas ataino struktūru (trinitroceluloze)]]
+'''Nitroceluloze''' ir viegli uzliesmojošs ķīmisks savienojums, [[sprāgstviela]], ko iegūst [[nitrēšana|nitrējot]] [[celuloze|celulozi]], piemēram, vati. Celuloze ir [[ogļhidrāts]] (satur hidroksilgrupas), kuras var iesaistīties [[esterifikācija]]s reakcijās. Nitroceluloze ir celulozes slāpekļskābes esteris. Vienā celulozes molekulas posmā (glikozes atlikumā) ir iespējams ievadīt līdz 3 nitrogrupām. Celulozei iespējami arī citi esteri ([[acetilceluloze]]). Palielinoties nitrēšanas pakāpei, palielinās nitrocelulozes šķīdība organiskajos šķīdinātājos, un it īpaši - palielinās degamība. Piemaisījumi celulozē ievērojami pasliktina iegūtās nitrocelulozes stabilitāti. Nitroceluloze šķīst [[dietilēteris|dietilēterī]] un [[acetons|acetonā]].
+
+Nitrocelulozi iegūst, nitrējot celulozi (parasti kokvilnu, jo tā ir vistīrākā) ar sērskābes un slāpekļskābes maisījumu. Šajā maisījumā slāpekļskābe ir aktīvais komponents un sērskābe ir ūdensatņēmēja viela, lai novērstu slāpekļskābes atšķaidīšanos ar reakcijā izdalījušos ūdeni.
+
+:2HNO<sub>3</sub>+ C<sub>6</sub>H<sub>10</sub>O<sub>5</sub> → C<sub>6</sub>H<sub>8</sub>(NO<sub>2</sub>)<sub>2</sub>O<sub>5</sub> + 2H<sub>2</sub>O
+
+Daļēji nitrēta nitroceluloze (dinitroceluloze), bija viens no pirmajiem plaši lietotajiem [[polimērs|polimēriem]]. To lietoja pirmajām fotoemulsijām un [[celuloīds|celuloīdam]]. No nitrocelulozes polimēra ražoja arī kino- un fotofilmas, tās bija visai ugunsnedrošas un vēlāk tika aizstātas ar celulozes acetāta filmām. Nitroceluloze ilgu laiku bija nitrolakas galvenais komponents, no tā ir cēlies nitrolakas nosaukums. Stipri nitrēta nitroceluloze (trinitroceluloze) ir galvenais, vai viens no galvenajiem bezdūmu [[šaujampulveris|šaujampulvera]] komponentiem.
+
+Nitroceluloze pirmo reizi tika iegūta 1832. gadā, nitrējot koka šķiedras ar slāpekļskābi. Iegūtā sprāgstviela bija tik nestabila, ka tai nebija nekādas praktiskas nozīmes. 1846. gadā nitrocelulozi pirmo reizi ieguva, nitrējot kokvilnu, tā bija stabilāka un to bija iespējams lietot par sprāgstvielu. Tā bija 6 reizes efektīvāka par [[dūmu pulveris|melno pulveri]], taču bija pārāk nestabila lietošanai šaujamieročiem. Šo vielu vēlāk modificēja par [[bezdūmu pulveris|bezdūmu pulveri]]. 1889. gadā tika izgatavota ar [[kampars|kamparu]] plastificētas nitrocelulozes ([[celuloīds|celuloīda]]) fotofilma.
+
+
+{{ķīmija-aizmetnis}}
+
+[[Kategorija:Sprāgstvielas]]
+[[Kategorija:Nitrosavienojumi]]

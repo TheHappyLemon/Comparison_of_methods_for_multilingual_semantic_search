@@ -1,0 +1,65 @@
+{{Ieroča infokaste
+|attēls             = [[Attēls:Mg 34.jpg|250px]]
+|paraksts           = 
+|nosaukums          = MG-34
+|valsts             = [[Attēls:Flag of Germany 1933.svg|22px]] [[Trešais reihs|Nacistiskā Vācija]]
+|tips               = Universālais ložmetējs
+|konstruktors       = Louis Stange
+|konstruktori       = [[Rheinmetall AG]]
+|ražotājs           = vairāki, galvenokārt - Mauser
+|ražošanā           = 1935 - 1945
+|bruņojumā          = 1935 - 1945 (dažu valstu armijās līdz pat mūsdienām)
+|patronu_tips       = [[7,92x57 mm]]
+|darbības_princips  = stobra atdeves enerģijas
+|šaušanas_ātrums    = 800 - 900 šāviņi/min
+|sākuma_ātrums      = 755 m/s
+|attālums           = 2000 m
+|masa              = * 12,1 kg <br /> 
+* 19,2 kg (ar [[Trijkājis (ieroča sastāvdaļa)|trijkāji]])
+|garums             = 121,9 cm
+|stobrs             = 62,7 cm
+|pārlādes_sistēma   = 
+patronlente, <br />
+dubultdiskveida [[magazīna]]
+|patronas_aptverē   = patronlentē: 50 vai 250 patronas,<br />
+dubultdiskveida magazīnā: 75 patronas
+|tēmēklis           = Mehānisks regulējamais tēmēklis
+|versijas           = Mg-34/41<br />MG-34T<br />MG-81
+|daudzums           = 
+}}
+'''Maschinengewehr-34''' jeb '''MG-34''' - [[Vācija]]s [[ložmetējs]] ([[1934]]. gada modelis), galvenais [[Vērmahts|Vērmahta]] kājnieku atbalsta ierocis [[Otrais pasaules karš|Otrā pasaules kara]] 1. pusē un galvenais transportlīdzekļu ([[tanks|tanku]]) ložmetējs visā šā kara laikā. MG-34 ir arī pirmais īsti universālais ložmetējs, kuru varēja izmantot gan kā vieglo ložmetēju no [[divkājis|divkāja]] ilgstošai apšaudei, gan kā balsta ložmetēju uz [[trijkājis|trijkāja]], gan arī kā tanku vai [[pretgaisa aizsardzība|PGA]] ložmetēju.
+
+== Izstrādes vēsture ==
+
+MG-34 tika konstruēts 1930. gadu sākumā komandā, kuras vadītājs bija ''Louis Stange'' no ''[[Rheinmetall]]'', kas bija tā laika vadošā ieroču ražotāja. Pilnīga konstrukcija, pieņemta lietošanā [[1934]]. gadā, iekļāva daudzas iezīmes no eksperimentālajiem modeļiem, ko veidoja ''Rheinmetall'', ''[[Mauser-werke]]'' un citi. Kā pieprasīja Vācijas armija, tas bija patiesi universāls ložmetējs, piemērots dažādai izmantošanai. To sāka ražot apmēram [[1935]]. gadā, un tas palika oficiālais Vērmahta ložmetējs līdz [[1942]]. gadam, kad tas tika oficiāli nomainīts ar vairāk uzticamo un lētāko [[MG-42]]. Neraugoties uz to, MG-34 turpināja kalpot līdz pat otrā pasaules kara beigām, pārsvarā kā tanku ierocis, jo tas bija labāk piemērots šai lomai kā [[MG-42]].
+
+== Šaušana ar ieroci ==
+
+MG-34 ir ar atsitienu strādājošs, izvēles uguns ierocis. Tas izmanto īsa atsitiena stobru ar [[stobra purns|stobra purna]] atsitiena paātrinātāju, kas kalpo arī uzliesmojuma apslēpšanai. Stobra caurules noslēgšana tiek panākta ar rotējošo aizslēga galvu ar pārtrauktajiem vītņu noslēdzošajiem aizspiedņiem, kuri noslēdzās stobra caurules izcilnī. Aizslēga galvai ir veltņu komplekts, kas novietots aiz aizspiedņiem. Šie veltņi tiek lietoti, lai grieztu aizslēga galvas slēgt un atslēgt, kad tās slīd izliektajās gropēs, kas ir iegrieztas [[stobra kārba]]s iekšējās sienās. Veltņi arī darbojas kā aizslēga akselerators, kad aizslēgs atslēdzas, jo notiek starpoperācija ar stobra caurules izcilni. Cauruļveida stobra kārba ir savienota ar stobra caurules uzmavu ar svārstošo spraisli, novietotu stobra kārbas labajā pusē, tā ka stobra kārba var tikt pagriezta uz augšu un pa labi relatīvi stobra caurules uzmavai, tā liekot stobra aizmugurei stāties. Kad stobta kārba tiek atvērta, stobra caurule var tikt vienkārši izņemta no tās uzmavas uz aizmuguri, bet, kad šī caurule ir karsta, ir nepieciešama kaut kāda veida karstuma aizsardzība, līdz ar to MG-34 operatoram vajadzēja izmantot azbesta cimdu, kas bija ieroča standarta piederums. MG-34 parasti tika izdots ar patronlentes barošanu, kas tika darbināta ar spraisli uz aizslēga ķermeņa virsas. Patronlentes barošanu varēja vienkārši uzstādīt, liekot patronlenti ieroča labajā vai kreisajā pusē. Ar speciālu nomaiņas barošanas iekārtu varēja lietot dubultdiskveida 75 patronu [[magazīna]]s. MG-34 bija izvēles uguns, tā režīmus kontrolēja ar dubultu mēlīti. Mēlītes augšējās daļas nospiešana veica atsevišķus šāviņus, kamēr apakšējās daļas nospiešana veica pilnīgi automātisku šaušanu.
+
+== Izmantošana ==
+Būdams universāls ložmetējs, MG-34 varēja tikt izmantots dažādos veidos. Kā vieglo ložmetēju to izmantoja ar viegliem, salokāmiem [[divkājis|divkājiem]], kurus varēja uzstādīt gan zem stobra gala, gan zem ieroča smaguma centra, ļaujot gūt labāku stabilitāti vai attiecīgi labāku apšaudāmo lauku. Šajā režīmā MG-34 munīcijas padeve parasti notika no 50 ložu saīsinātām [[alva]]s konusa patronlentes kastēm. Patronlenšu kastes tika piespraustas pie [[stobra kārba]]s un atļāva ieroci pārvietot pielādētu, bez draudiem, ka lentei radīsies traucējumi.
+
+Ilgstošas uguns režīmā MG-34 tika nostiprināts uz speciāla [[trijkājis|trijkāja]], kas bija ļoti komplicēts un dārgas konstrukcijas, saukts par ''Lafette-34''. Šis trijkājis derēja atklātas vai netiešas uguns misijām, un tika apgādāts ar atsitiena slāpētāju (klusinātāju), speciālu uguns kontroles vienību un optisko tēmēkli. Ar speciāla [[adapters|adaptera]] palīdzību šis trijkājis tika izmantots arī pretgaisa aizsardzībā. Nopietnākām gaisa aizsardzības misijām bija pieejams arī speciāls, viegls PGA trijkājis.
+
+Kā tanku ierocis, MG-34 tika apgādāts ar smagāku stobra cauruli un bruņotu šīs caurules apvalku bez ventilācijas caurumiem.
+
+== Versijas ==
+=== MG-34/41 (MG 34S) ===
+MG-34/41 tika izstrādāts balstoties uz [[Otrais pasaules karš|Otrā pasaules kara]] pirmajās kaujās gūtās pieredzes. Tika noskaidrots, ka lielākas šaušanas temps noved pie lielākas ložu izkliedes. MG-34/41 šaušanas temps tika palielināts līdz 1200 šāvieniem minūtē, kas bija par 300 - 400 šāvieniem minūtē vairāk kā standarta modelim. Palielinājās arī ložmetēja svars, kas MG-34/41 bija 14 kg. Tika izlaista ierobežota partija (300 vienības) ar šīs modifikācijas ložmetējiem, kas tika nosūtīti uz [[Austrumu fronte|Austrumu fronti]]. Jau pirmās kaujas pierādīja, ka MG-34/41 konstrukcija nav tik veiksmīga kā MG-39/41 (vēlāk pārdēvēts par [[MG-42]]), tāpēc sērijveida ražošanā nenokļuva.
+
+=== MG-34T ===
+MG-34T (MG-34 Panzerlauf) bija MG-34 modifikācija, paredzēta uzstādīšanai tankos. Galvenā atšķirība no standarta modeļa bija smagāks stobra apvalks bez ventilācijas caurumiem un [[laide]]s noņemšana.
+
+=== MG-81 ===
+MG-81 bija [[7,92x57 mm|7.92 mm]] aviācijas ložmetējs. Šo versiju izstrādāja [[Mauser|Mauzer]] ieroču kompānija 1939. gadā, uz ložmetēja MG-34 bāzes. Izstrādes mērķis bija samazināt ražošanas izmaksas un lidmašīnas ložmetēja izveide, kuru varētu novietot uz grozāma statīva. Lai to panāktu, tika veiktas izmaiņas ložmetēja konstrukcijā, kas ļāva veikt patronlentes padevi no jebkuras puses. Kā arī, tika izstrādāta modifikācija MG-81Z, kura sastāvēja no 2 ložmetējiem, darbināmiem ar vienu [[Mēlīte (ieroča sastāvdaļa)|mēlīti]] (indekss Z no vācu ''zwilling'' - dubultais).
+
+== Nobeigums ==
+
+Kopumā, MG-34 bija izcils ierocis, ar ļoti labu apdari un ciešu pielaidi, bet tas bija arī tā lielākais trūkums - būdams pārāk dārgs un lēni ražojams, MG-34 bija maz piemērots karalaika masu ražošanai. Tas bija arī diezgan jūtīgs uz netīrumiem un sliktiem laikapstākļiem, kas bija parasta parādība Rietumu frontē. Savukārt lielākā tā priekšrocība bija MG-34 daudzpusība, un tas noteica virzienu daudziem vēlākajiem modeļiem.
+
+{{commons|MG34 (machinegun)}}
+
+[[Kategorija:7,92 mm šaujamieroči]]
+[[Kategorija:Ložmetēji]]
+[[Kategorija:Rheinmetall]]

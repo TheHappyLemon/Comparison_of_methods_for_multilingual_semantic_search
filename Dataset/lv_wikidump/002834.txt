@@ -1,0 +1,68 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Ludvigs Gumplovičs
+|     vārds_orig = ''Ludwig Gumplowicz''
+|         attēls = Gumplowicz.png
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1838
+|     dz_mēnesis = 03
+|       dz_diena = 09
+|       dz_vieta = [[Krakova]], [[Krakovas brīvpilsēta]]<br />(mūsdienās {{POL}})
+|      m_dat_alt =
+|         m_gads = 1909
+|      m_mēnesis = 08
+|        m_diena = 19
+|        m_vieta = [[Grāca]], [[Austroungārija]]<br />(mūsdienās {{AUT}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = [[ebrejs]]
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|   darba_vietas =[[Grācas universitāte]]
+|     alma_mater =[[Jagaiļa universitāte]]
+|        zinātne =[[socioloģija]]
+|    pasniedzēji =
+|       studenti =
+|     sasniegumi =[[Šterna-Gerlaha eksperiments]] (1922)
+|    apbalvojumi = 
+|       piezīmes = 
+|    kategorijas =  
+}}
+
+'''Ludvigs Gumplovičs''' ({{val-pl|Ludwik Gumplowicz}}; dzimis {{dat|1838|03|09}}, miris {{dat|1909|08|19}}) bija [[Polija]]s [[ebreji|ebreju]] izcelsmes [[Austrija|austriešu]] [[socioloģija|sociologs]], viens no [[Eiropa]]s socioloģijas un [[konfliktu teorija]]s pamatlicējiem. [[Sociāldarvinisms|Sociāldarvinisma]] pārstāvis.
+
+Dzimis Krakovā. Studējis [[tiesības]] Krakovas un [[Vīne]]s universitātēs. No 1875. gada tiesību pasniedzējs, vēlāk [[profesors]] universitātē Grācā. 1909.gadā kopā ar sievu izdarīja [[pašnāvība|pašnāvību]], kad uzzināja, ka ir slims ar [[vēzis (slimība)|vēzi]].
+
+Izvirzīja koncepciju par valsti kā vardarbības mehānismu, kurā konfliktē sociālās grupas un [[tauta]]s, kas vēsturiski ved pie [[diktatūra]]s un [[anarhija]]s savstarpēja maiņas. Ieviesis jēdzienu [[etnocentrisms]]. Ietekmējis Austroungārijas un [[Vācija]]s sabiedriskos uzskatus.
+
+== Bibliogrāfija ==
+
+* ''Race und Staat'' (1875)
+* ''Das allgemeine Staatsrecht'' (1877)
+* ''Der Rassenkampf'' (1883)
+* ''Grundriss der Sociologie'' (1885)
+* ''System socyologii'' (1887)
+* ''Das österreichische Staatsrecht'' (1891)
+* ''Geschichte der Staatstheorien'' (1905)
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.archive.org/search.php?query=GUMPLOWICZ%2C%20LUDWIG Gumploviča darbi] {{de ikona}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Gumplovičs, Ludvigs}}
+[[Kategorija:1838. gadā dzimušie]]
+[[Kategorija:1909. gadā mirušie]]
+[[Kategorija:Poļu sociologi]]
+[[Kategorija:Sociologi]]
+[[Kategorija:Mazpolijas vojevodistē dzimušie]]
+[[Kategorija:Pašnāvnieki]]

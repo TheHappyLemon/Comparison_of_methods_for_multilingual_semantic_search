@@ -1,0 +1,75 @@
+{{citas nozīmes|Bulgārijas galvaspilsētu|Sofija (nozīmju atdalīšana)|Sofija}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Sofija
+ | official_name              = ''София''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Sofia Collage TB.png
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = BG Sofia flag.svg
+ | image_shield             = BG Sofia coa.svg
+ | pushpin_map              = Bulgārija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 42 | latm  = 42 | lats  =  | latNS  = N
+ | longd = 23 | longm = 20 | longs =  | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Bulgārija}}'''
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | area_total_km2           = 492
+ | elevation_m              = 550
+ | population_total         = 1232088
+ | population_as_of         = {{dat|2011|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas vasaras laiks|EEST]]
+ | utc_offset_DST           = +3
+ | area_code                = 
+ | website                  = {{url|http://www.sofia.bg}}
+ | footnotes                = 
+}}
+'''Sofija''' ({{val-bg|София}}) ir pilsēta [[Bulgārija]]s rietumos [[Vitoša]]s piekājē. Valsts [[galvaspilsēta]] un galvenais politiskais, ekonomiskais un kultūras centrs.
+
+== Vēsture ==
+Arheoloģija liecina, ka Sofijas vietā jau 8. gadsimtā p.m.ē. bijusi apmetne. 29. gadā [[Senā Roma|romieši]] ieņēma [[trāķieši|trāķiešu]] pilsētu '''Serdiku''' (''Serdica'').
+
+Romiešu laikā Serdika bija [[Dakija]]s (''Dacia'') provinces centrs, bet [[Diokletiāns|Diokletiāna]] un [[Konstantīns I|Konstantīna I]] laikā [[Iekšzemes Dakija]]s (''Dacia Mediterranea'') centrs. 342.—343. gadā (iespējams, līdz 344. gadam) Serdikā notika [[Serdikas koncils]].
+
+441. gadā pilsētu nopostīja [[huņņi]]. [[Austrumromas impērija|Bizantijas]] imperators [[Justiniāns I]] pilsētu atjaunoja un nosauca par '''Triadicu'''. 809. gadā pilsētu ieņēma [[bulgāri]] un pārdēvēja to par '''Sredecu'''. 1376. gadā to nosauca par Sofiju ([[grieķu valoda|grieķu]] - ''gudrība'').
+
+1382. gadā Sofiju ieņēma [[Osmaņu impērija|osmaņi]] un tā kļuva par [[Osmaņu impērija]]s provinces [[Rumēlija]]s centru. 1443. gadā pilsētu nodedzināja [[Polija|poļu]] un [[Ungārija|ungāru]] karaspēks karaļa [[Vladislavs III Varnietis|Vladislava III Varnieša]] vadībā. 1878. gadā Sofiju ieņēma [[Krievija|krievu]] karaspēks un 1879. gadā tā kļuva par Bulgārijas galvaspilsētu. [[Otrais pasaules karš|Otrā pasaules kara]] laikā pilsētu ieņēma [[Padomju armija|padomju karaspēks]].
+
+== Ievērojamākās vietas ==
+* Aleksandra Ņevska katedrāle
+* Vitoška - pilsētas centrālā iela
+
+== Cilvēki ==
+Sofijā dzimuši:
+* [[Asens Jordanovs]] (''Асен Йорданов''; 1896—1967) — aviokonstruktors
+* [[Galērijs]] (''Galerius Maximianus''; ap 240—311) — [[Senā Roma|Romas]] imperators
+* [[Ivans Kostovs]] (''Иван Костов''; 1949) — politiķis
+* [[Georgijs Markovs]] (''Георги Марков''; 1929—1978) — rakstnieks un disidents
+* [[Antuaneta Stefanova]] (''Антоанета Стефанова'') — šahiste
+* [[Hristo Šopovs]] (''Христо Шопов''; 1964) — aktieris
+* [[Cvetans Todorovs]] (''Цветан Тодоров''; 1939) — filozofs
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropas galvaspilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bulgārijas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]
+[[Kategorija:Sofijas pilsētas apgabals]]

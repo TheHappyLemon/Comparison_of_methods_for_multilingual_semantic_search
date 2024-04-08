@@ -1,0 +1,51 @@
+[[Attēls:Kochendes_wasser02.jpg|thumb|right| Ūdens un tvaiks ir vienas ķīmiskās vielas divi dažādi agregātstāvokļi]] 
+'''Ķīmiskā viela''' ir [[viela]]s veids ar noteiktu [[ķīmiskais sastāvs|ķīmisko sastāvu]], neatkarīgi no šīs vielas izcelsmes.<ref>Hill, J. W.; Petrucci, R. H.; McCreary, T. W.; Perry, S. S. ''General Chemistry'', 4th ed., p5, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005.</ref> Piemēram, jebkuram [[ūdens]] paraugam būs tās pašas īpašības un tā pati [[ūdeņradis|ūdeņraža]] un [[skābeklis|skābekļa]] attiecība, neatkarīgi no tā, vai šis ūdens paraugs ir ņemts no [[upe]]s vai mākslīgi izgatavots [[laboratorija|laboratorijā]]. Tīru vielu mehāniskā ceļā nevar sadalīt citās vielās.<ref>Ebbing, D. D.; Gammon, S. D. ''General Chemistry'', 7th ed., p12, Houghton Mifflin, Boston, Massachusetts, 2002.</ref> Tipiskas mājas apstākļos sastopamās vielas ir [[ūdens]], [[vārāmā sāls]] ([[nātrija hlorīds]]) un [[cukurs]] ([[saharoze]]). Parastākie vielas [[agregātstāvoklis|agregātstāvokļi]] ir [[cietviela]], [[šķidrums]] vai [[gāze]]. Viela var pāriet no viena agregātstāvokļa citā, mainoties [[temperatūra]]i vai [[spiediens|spiedienam]].
+
+Ķīmiskās vielas jēdziens izveidojās 18. gadsimta beigās pēc ķīmiķa [[Žozefs Prusts|Žozefa Prusta]] darba izdošanas par vairāku tīru ķīmisko savienojumu uzbūvi.<ref name='Hill_et_al_p37'>Hill, J. W.; Petrucci, R. H.; McCreary, T. W.; Perry, S. S. ''General Chemistry'', 4th ed., p37, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005.</ref> Viņš secināja: "Visiem savienojuma paraugiem bija vienāds sastāvs; tātad visiem paraugiem ir tās pašas vielā sastopamo elementu masas proporcijas". Šī tēze kļuva pazīstama kā [[konstantā sastāva likums]], kas kalpo par vienu no [[ķīmija]]s zinātnes pamatakmeņiem.
+
+Jēdzienu "ķīmiska viela" bieži mēdz lietot nepareizi — ar nozīmi "sintētiska, mākslīgi iegūta viela"; kā pretēju nozīmi "dabiskai vielai". Tomēr dabiskas izcelsmes vielas ne ar ko neatšķiras no ķīmiski sintezētām vielām — tām ir tieši tāds pats sastāvs, molekulu telpiskā konfigurācija utt. Atšķirība var būt tikai nepilnīgi attīrītām vielām.
+
+== Vienkāršās vielas ==
+{{pamatraksts|Vienkārša viela}}
+Ķīmisko vielu, kuru ar parastajām ķīmiskajām reakcijām nevar sadalīt vai pārveidot citā vielā, sauc par vienkāršu vielu. Vienkārša viela sastāv no viena [[ķīmiskais elements|ķīmiskā elementa]] [[atoms|atomiem]] (kas var būt saistīti [[molekula|molekulās]]). Atomi savukārt sastāv no negatīvi lādētiem [[elektrons|elektroniem]], kuri grupēti ap [[atoma kodols|kodolu]], kas sastāv no pozitīvi lādētiem [[protons|protoniem]] un neitrāliem [[neitrons|neitroniem]]. Vienkāršas vielas paraugā visiem atomiem ir vienāds skaits protonu, kaut gan paraugā var būt pārstāvēti dažādi [[izotops|izotopi]] ar atšķirīgu neitronu skaitu.
+
+== Ķīmiskie savienojumi ==
+{{pamatraksts|Ķīmiskais savienojums}}
+Divi vai vairāki elementi, kas savienoti vienā vielā, veido [[ķīmiskais savienojums|ķīmisko savienojumu]], kas sastāv no atomiem, kas ķīmiski saistīti molekulās, vai arī veido jonu tipa kristālrežģus. Kombinējot ap 120 zināmos elementus, iespējams iegūt milzīgu skaitu dažādu ķīmisko savienojumu. Pašlaik raksturoti un identificēti ap 30 miljoni ķīmisko savienojumu.<ref>{{Tīmekļa atsauce |url=http://www.cas.org/cgi-bin/regreport.pl |title=Chemical Abstracts substance count |access-date={{dat|2006|08|24||bez}} |archiveurl=https://web.archive.org/web/20001205072800/http://www.cas.org/cgi-bin/regreport.pl |archivedate={{dat|2000|12|05||bez}} }}</ref> Tās vielas, kuru galvenās sastāvdaļas ir [[ogleklis|oglekļa]] un [[ūdeņradis|ūdeņraža]] atomi, sauc par [[organiskās vielas|organiskajām vielām]], savukārt tās vielas, kas sastāv no citiem elementiem, sauc par [[neorganiskās vielas|neorganiskajām vielām]].
+
+Savienojumi, kuros to atomiem ir kopīgi elektronu pāri, tiek saukti par [[kovalentā saite|kovalentiem]] savienojumiem. Savienojumus, kas sastāv no pretēji lādētiem [[jons|joniem]], sauc par [[jonu saite|jonu]] savienojumiem, jeb [[sāļi]]em.
+
+== Ķīmisko vielu nosaukumi ==
+Katrai ķīmiskai vielai ir unikāls [[sistemātiskais nosaukums]].
+
+Daudzi savienojumi pazīstami pēc to parastajiem, vienkāršākajiem jeb triviālajiem nosaukumiem, no kuriem lielākā daļa ir senāki kā sistemātiskais nosaukums. Jau ilgāku laiku pazīstamā [[cukurs|cukura]] — [[glikoze]]s — cikliskajai formai ir šāds sistemātiskais nosaukums: ''6-(hidroksimetil)oksān-2,3,4,5-tetrols''. Arī [[farmācija|farmācijā]] ķīmiskajiem savienojumiem tiek piešķirti vienkāršāki nosaukumi, piemēram pretsāpju līdzeklim [[naproksēns|naproksēnam]] viens no "ķīmiskajiem" nosaukumiem ir ''(S)-6-metoksi-α-metil-2-naftalīnetiķskābe''.
+
+[[ķīmiķis|Ķīmiķi]] bieži apzīmē ķīmiskos savienojumus, lietojot [[ķīmiskā formula|ķīmiskās formulas]], kuras satur pilnīgāku informāciju par savienojuma [[ķīmiskā struktūra|ķīmisko struktūru]]. Ir izveidotas arī datora videi draudzīgas sistēmas vielas informācijas ievadīšanai, piemēram [[CAS reģistra numurs]] un [[Starptautiskais ķimikālijas identifikators]] jeb InChI. Šādas sistēmas, jo sevišķi CAS skaitlis, ir noderīgas arī papīra formāta darbos, jo tās ērti lietojamas kā unikāli ciparu kodi specifiskas vielas apzīmēšanai.
+
+{| class="wikitable"
+|+Tipiskas ķīmiskās vielas identifikācija
+|-
+! Parastais nosaukums || [[Sistemātiskais nosaukums]] || [[Ķīmiskā formula]] || [[Ķīmiskā struktūra]] || [[CAS reģistra numurs]] || [[Starptautiskais ķimikālijas identifikators|InChI]]
+|-
+| alkohols, jeb<br />etilalkohols 
+| etanols
+| C<sub>2</sub>H<sub>5</sub>OH 
+| [[Attēls:Ethanol-2D-skeletal.png|60px|center]]
+| [64-17-5]
+| 1/C2H6O/c1-2-3/h3H,2H2,1H3
+|-
+|}
+
+== Vielas ieguve, attīrīšana, raksturošana un identifikācija ==
+Bieži ir nepieciešams izolēt vielu no [[maisījums|maisījuma]], piemēram, iegūstot [[saharoze|saharozi]] no [[cukurbietes|cukurbietēm]] jeb vai pēc [[ķīmiskā reakcija|ķīmiskās reakcijas]], kuras rezultātā parasti rodas ķīmisko vielu maisījums. Tas parasti tiek paveikts ar fiziskiem procesiem, piemēram, ar [[destilācija|destilāciju]], [[filtrēšana|filtrēšanu]] un [[iztvaicēšana|iztvaicēšanu]]. Šīs pašas metodes var izmantot arī tālākai vielas attīrīšanai. Kad ir iegūta tīra viela, var pētīt tās ķīmiskās un fiziskās īpašības, lai vielu varētu raksturot. [[ķīmiskais sastāvs|Ķīmiskā sastāva]] noteikšanai var lietot [[analītiskā ķīmija|ķīmiskās analīzes]].
+
+== Atsauces un citāti ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmija]]

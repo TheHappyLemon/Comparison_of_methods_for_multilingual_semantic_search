@@ -1,0 +1,219 @@
+{| class="infobox" style="font-size: 88%; width: 25em;"
+|+ style="font-size: larger;" | '''{{{nosaukums}}}'''
+{{#if:{{{oriģ. nosaukums|}}} | <br> {{{oriģ. nosaukums|}}} }}
+|-
+| colspan="2" | <div style="text-align: center;">{{#if:{{{attēls|}}}|[[Attēls:{{{attēls}}}|{{{attēla izmērs|270}}}px|{{{caption|}}}]]<br>
+<small> {{{attēla paraksts|}}}</small></div>}}
+|-
+|{{#if:{{{izgat. nosaukums|}}}|'''Izgatavotāja nosaukums''' <td> {{{izgat. nosaukums|}}} }}
+|-
+|{{#if:{{{GRAU indekss|}}}|'''[[GRAU indeksi|GRAU indekss]]''' <td> {{{GRAU indekss|}}} }}
+|-
+|'''Pielietojums'''|| {{{pielietojums}}}
+|-
+|'''Raķešu saime'''|| {{{raķešu saime}}}
+|-
+|'''Raķešu grupa'''|| {{{raķešu grupa}}}
+|-
+|'''Valsts'''|| {{{valsts}}}
+|-
+|'''Izgatavotājs'''|| {{{izgatavotājs}}}
+|-
+! colspan="2" bgcolor="#FFDEAD" | '''Izmēri'''
+|-
+|'''Augstums'''||{{{augstums}}} {{#if:{{{alt-height|}}}|({{{alt-height|}}}) }}
+|-
+|'''Diametrs '''||{{{diametrs }}} {{#if:{{{alt-diameter|}}}|({{{alt-diameter|}}}) }}
+|-
+|'''Masa'''||{{{masa}}} {{#if:{{{alt-mass|}}}|({{{alt-mass|}}}) }}
+|-
+|'''Pakāpju skaits'''||{{{pakāpes }}}
+|-
+! colspan="2" bgcolor="#FFDEAD" | '''Celtspēja'''
+|-
+|{{#if:{{{derīgā krava|}}}|'''[[Derīgā krava]] {{{derīgā krava|}}} }}
+|-
+|{{#if:{{{LEO masa|}}}|'''[[Derīgā krava]] uz [[Zemā Zemes orbīta|LEO]]'''<td>{{{LEO masa|}}}{{#if:{{{alt-LEO|}}}|({{{alt-LEO|}}}) }}
+<tr>
+<td>{{#if:{{{payload-location|}}}|'''Payload to<br>{{{payload-location}}}'''<td>{{{payload|}}} {{#if:{{{alt-payload|}}}|({{{alt-payload|}}}) }}
+}} 
+}}
+|-
+|{{#if:{{{GTO masa|}}}|'''[[Derīgā krava]] uz [[Ģeostacionārā pārejas orbīta|GTO]]'''<td>{{{GTO masa|}}} }}
+
+|-
+! colspan="2" bgcolor="#FFDEAD" | '''Lidojumu kopsavilkums'''
+|-
+|'''Statuss''' || {{{statuss}}}
+|-
+|'''Starta vietas'''||{{{starta vietas}}}
+|-
+|{{#if:{{{startu skaits|}}}|'''Startu skaits''' <td> {{{startu skaits|}}} }}
+|-
+|{{#if:{{{veiksmīgie|}}}|'''Veiksmīgie''' <td> {{{veiksmīgie|}}} }}
+|-
+|{{#if:{{{daļēji|}}}|'''Daļēji sekmīgi''' <td> {{{daļēji|}}} }}
+|-
+|{{#if:{{{avārijas|}}}|'''Avārijas''' <td> {{{avārijas|}}} }}
+|-
+|{{#if:{{{pirmais|}}}|'''Pirmais lidojums''' <td> {{{pirmais|}}} }}
+|-
+|{{#if:{{{pirmais veiksmīgais|}}}|'''Pirmais veiksmīgais''' <td> {{{pirmais veiksmīgais}}} }}
+|-
+|{{#if:{{{pirmais pavadonis|}}}|'''Pirmais pavadonis palaists''' <td> {{{pirmais pavadonis}}} }}
+|-
+|{{#if:{{{pēdējais|}}}|'''Pēdējais lidojums''' <td> {{{pēdējais}}} }}
+
+|-
+! colspan="2" bgcolor="#FFDEAD" | '''Pakāpes'''
+|-
+| colspan="2" |{{#if:{{{pakāpju apraksts|}}}|({{{pakāpju apraksts|}}}) }} 
+|}<includeonly>{{#if:{{{pakāpju apraksts|}}}|[[Kategorija:Raksti ar pakāpju aprakstiem]]}}</includeonly><noinclude><!--
+{{Infobox
+| child      = {{yesno|{{{embed|}}}}}
+| bodyclass  = vcard
+| bodystyle  = width:25em;
+| headerstyle= background-color:#FFDEAD;
+
+| titlestyle = font-weight:normal;
+| title      = {{br separated entries
+   |1='''{{ifempty|{{{nosaukums|}}}|{{PAGENAME}}}}'''
+   |2={{{oriģ. nosaukums|}}}
+}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{attēls|}}}|size={{{{attēla izmērs|}}}|sizedefault=270px|title={{ifempty|{{{caption|}}}|{{{nosaukums|}}}|{{PAGENAME}}}}}}
+| caption = {{{attēla paraksts|}}}
+
+| label1     = Izgatavotāja nosaukums
+| data1      = {{{izgat. nosaukums|}}}
+
+| label2     = [[GRAU indeksi|GRAU indekss]]
+| data2      = {{{GRAU indekss|}}}
+
+| label3     = Pielietojums
+| data3      = {{{pielietojums|}}}
+
+| label4     = Raķešu saime
+| data4      = {{{raķešu saime|}}}
+
+| label5     = Raķešu grupa
+| data5      = {{{raķešu grupa|}}}
+
+| label6     = Valsts
+| data6      = {{{valsts|}}}
+
+| label7     = Izgatavotājs
+| data7      = {{{izgatavotājs|}}}
+
+| label8     = 
+| data8      = 
+
+| header9    = Izmēri
+
+| label10    = Augstums
+| data10     = {{{augstums|}}} {{#if:{{{alt-height|}}}|({{{alt-height|}}}) }}
+
+| label11    = Diametrs
+| data11     = {{{diametrs|}}} {{#if:{{{alt-diameter|}}}|({{{alt-diameter|}}}) }}
+
+| label12    = Masa
+| data12     = {{{masa|}}} {{#if:{{{alt-mass|}}}|({{{alt-mass|}}}) }}
+
+| label13    = Pakāpju skaits
+| data13     = {{{pakāpes|}}}
+
+| header14   = Celtspēja
+
+| label15    = [[Derīgā krava]]
+| data15     = {{{derīgā krava|}}}
+
+| label16    = [[Derīgā krava]] uz [[Zemā Zemes orbīta|LEO]]
+| data16     = {{{LEO masa|}}} {{#if:{{{alt-LEO|}}}|({{{alt-LEO|}}}) }}
+
+| label17    = {{#if:{{{payload-location|}}}|Payload to<br>{{{payload-location}}}}}
+| data17     = {{{payload|}}} {{#if:{{{alt-payload|}}}|({{{alt-payload|}}}) }}
+
+| label18    = [[Derīgā krava]] uz [[Ģeostacionārā pārejas orbīta|GTO]]
+| data18     = {{{GTO masa|}}}
+
+| label19    = 
+| data19     = 
+
+| header20   = Lidojumu kopsavilkums
+
+| label21    = Statuss
+| data21     = {{{statuss|}}}
+
+| label22    = Starta vietas
+| data22     = {{{starta vietas|}}}
+
+| label23    = Startu skaits
+| data23     = {{{startu skaits|}}}
+
+| label24    = Veiksmīgie
+| data24     = {{{veiksmīgie|}}}
+
+| label25    = Daļēji sekmīgi
+| data25     = {{{daļēji|}}}
+
+| label26    = Avārijas
+| data26     = {{{avārijas|}}}
+
+| label27    = Pirmais lidojums
+| data27     = {{{pirmais|}}}
+
+| label28    = Pirmais veiksmīgais
+| data28     = {{{pirmais veiksmīgais|}}}
+
+| label29    = Pirmais pavadonis palaists
+| data29     = {{{pirmais pavadonis|}}}
+
+| label30    = Pēdējais lidojums
+| data30     = {{{pēdējais|}}}
+
+| header31   = Pakāpes
+
+| data32     = {{{pakāpju apraksts|}}}
+}} -->
+
+
+== Instrukcijas ==
+
+<pre><nowiki>
+{{Raķete
+| nosaukums = 
+| oriģ. nosaukums = 
+| izgat. nosaukums =
+| GRAU indekss =
+| attēls = 
+| attēla izmērs =
+| attēla paraksts = 
+| pielietojums = 
+| raķešu saime =
+| raķešu grupa =
+| valsts = 
+| izgatavotājs =
+| augstums =
+| diametrs =
+| masa =
+| pakāpes =
+| derīgā krava =  (ja nav uz orbītu)
+| LEO masa =
+| GTO masa = 
+| statuss = 
+| starta vietas = 
+| startu skaits =
+| veiksmīgie = 
+| daļēji =
+| avārijas =
+| pirmais = 
+| pirmais veiksmīgais =
+| pirmais pavadonis =
+| pēdējais =
+| pakāpju apraksts =
+}}
+</nowiki></pre>
+[[Kategorija:Infokastes]]
+[[Kategorija:Raķeštehnikas veidnes]]
+
+</noinclude>

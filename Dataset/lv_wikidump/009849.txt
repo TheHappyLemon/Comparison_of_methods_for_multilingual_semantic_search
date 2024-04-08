@@ -1,0 +1,53 @@
+[[Attēls:Nasa space elev.jpg|thumb|right|200 px|[[Nacionālā aeronautikas un kosmosa administrācija|NASA]] konceptuālais kosmiskais lifts mākslinieka skatījumā]]
+'''Kosmiskais lifts''' ir konceptuāls pacēlājs kravu nogādāšanai no [[Zeme]]s [[kosmoss|kosmosā]]. Kosmiskais lifts nākotnē varētu aizstāt pašreiz lietotās [[nesējraķete]]s. Visbiežāk piedāvātā kosmiskā lifta konstrukcija ir lente vai kabelis, kura augšgalā piestiprināts atsvars, kas [[centrbēdze]]s ietekmē nostiepj trosi. Kravu kosmosā nogādātu ar pacēlāju, kas virzītos pa trosi ar [[elektrodzinējs|elektromehāniskā dzinēja]] palīdzību.
+
+== Konstrukcija ==
+[[Attēls:Kosmiskais lifts diagramma.svg|200 px|thumb|left]]
+Lielākā daļa no piedāvātajiem kosmiskā lifta konstrukcijas variantiem sastāv no bāzes stacijas uz Zemes, troses, pacēlāja un atsvara.
+
+No Zemes virsmas līdz [[ģeostacionārā orbīta|ģeostacionārajai orbītai]] (35 786 km augstumā) un tālāk jānovelk trose. Troses apakšējās daļas [[gravitācija]]s spēks tiek kompensēts ar augšējās daļas, kurā atrodas atsvars, [[centrtiece]]s [[paātrinājums|paātrinājuma]] radītu spēku. Tā rezultātā trose pati sevi nostiepj un nekrīt atpakaļ uz zemes. Būtībā visa troses sistēma atrodas ģeostacionārajā orbītā (tur ir masas centrs), bet apakšējais gals piestiprināts Zemes virsmai. 
+Īpaši nozīmīga konstrukcijas daļa ir trose, kurai vajadzētu būt ļoti garai, tāpēc to vajadzētu izgatavot no salīdzinoši lēta, lielos daudzumos saražojama, izturīga un ļoti viegla materiāla. Mūsdienās šāds materiāls vēl nav pieejams, tomēr attīstoties [[nanotehnoloģija|nanotehnoloģijām]], šāds materiāls varētu parādīties.
+
+Kravas pārvietošanai pa liftu līdz masas centram būtu jāpatērē papildu enerģija, bet tālāk aiz ģeostacionārās orbītas tā pārvietotos centrtieces paātrinājuma dēļ. Ja 100 000 km garās troses galā kravu palaistu brīvā lidojumā, tā sasniegtu ātrumu 11 km/s, kas ir pietiekams, lai veiktu ceļojumu uz citām planētām bez papildu impulsa piešķiršanas.
+
+=== Bāzes stacija ===
+Piedāvāti risinājumi gan ar mobilām, gan stacionārām bāzes stacijām. Stacionārās stacijas atrastos kalnos vai būtu augsti torņi. Mobilās stacijas visbiežāk piedāvāts iekārtot [[okeāns|okeānā]] uz peldošām platformām vai kuģos, lai gan daži projekti paredz arī gaisa kuģus. Mobilo staciju priekšrocība ir spēja manevrēt, lai izvairītos no spēcīga vēja un [[kosmiskie atkritumi|kosmiskajiem atkritumiem]]. Stacionāro staciju priekšrocības pār mobilajām savukārt būtu lētāki un pieejamāki enerģijas resursi, kā arī varētu nedaudz saīsināt troses garumu un ievērojami samazināt troses diametru.
+
+=== Trose ===
+
+Trosi vajadzētu izgatavot no materiāla, kuram ir ļoti augsta [[blīvums|blīvuma]] attiecība pret [[stiepe]]s izturību - apmēram ~2,09—2,23 g/cm³ pret ~65—120 G[[Paskāls|Pa]], šāda attiecība piemīt tikai dažiem [[ogleklis|oglekļa alotropiem]] - [[dimants|dimantam]] un dažādām nanostruktūrām. Vairums projektu iesaka lietot viensienas oglekļa [[nanocaurulītes]] - lai gan daudzsienu oglekļa nanocaurulītes ir izturīgākas, to masa būtu daudz lielāka. Oglekļa nanocaurulītes un līdzīgus materiālus sāka pētīt tikai ap 1990. gadu, un šobrīd vēl nav izveidota tehnoloģija to masveida ražošanai, turklāt, lai gan tiek uzskatīts, ka tā stiepes izturība teorētiski varētu būt pat augstāka par 120 GPa, pašlaik augstākā izturība, kādu izdevies iegūt praktiski, ir tikai 52 GPa. Lai izveidotu pietiekami garu trosi, vajadzētu 15 000 tonnu oglekļa nanocaurulīšu, kas savukārt mūsdienās izmaksātu miljardus, tomēr oglekļa nanostruktūras tiek ļoti plaši pētītas, jo tām varētu būt ļoti plašs pielietojums, tāpēc cena ar laiku varētu kristies.
+
+Trosei būtu jāspēj noturēt gan savu masu, pacēlāju un tā kravu, kā arī jānodrošina centrtieces spēka ietekmi uz atsvaru un pašu trosi. Nepieciešamā izturība dažādās troses vietās ir dažāda, un tās diametram virzienā no Zemes vajadzētu palielināties, sasniedzot vislielāko diametru ģeostacionārajā orbītā, bet tālāk, ja kabelis sniegtos vēl aiz ģeostacionārās orbītas, atkal samazināties. Tādējādi, ja trosi izgatavotu, piemēram, no [[tērauds|tērauda]] un tā diametrs pie Zemes virsmas būtu 1 cm, tad ģeostacionārajā orbītā tās diametram būtu jābūt vairākiem simtiem kilometru, tas ir viens no iemesliem, kāpēc no mūsdienās plaši pieejamajiem materiāliem trosi nevar izgatavot. Panākt pieņemamu troses diametru būtu iespējams četros veidos:
+* Lietojot materiālu ar zemāku blīvumu - diez vai būtu iespējams, jo cietu vielu blīvums ir relatīvi līdzīgs.
+* Lietojot materiālu ar augstāku izturību - tieši šeit koncentrēta pētnieku uzmanība, oglekļa nanostruktūras ir desmitiem reižu izturīgākas par tēraudu, un līdz ar to troses diametrs ievērojami samazinātos.
+* Palielinot augstumu, kādā sākas trose - pat salīdzinoši nedaudz palielinot bāzes stacijas atrašanās vietas augstumu, ievērojami samazinātos troses diametrs, tāpēc piedāvāts bāzes staciju novietot tornī, kura augstums varētu saniegt pat 100 km. Ja stacija atrastos tik augstu, būtu iespējams arī samazināt atmosfērā notiekošo procesu ietekmi uz trosi.
+* Padarot trosi pie Zemes virsmas tik tievu, cik vien iespējams, tomēr tai būtu jāspēj noturēt pacēlājs un krava, tāpēc troses minimālais diametrs ir atkarīgs no stiepes izturības. No oglekļa nanocaurulītēm izgatavota trose varētu būt pat milimetra diametrā.
+
+=== Pacēlājs ===
+Sakarā ar to, ka trose būs ar atšķirīgu diametru dažādās tā vietās, pacēlājs nevarētu līdzināties parastam liftam, kuru darbina kustīga trose. Vairums projektu piedāvā pacēlāju, kas pats "rāptos" pa trosi uz augšu.
+
+=== Atsvars ===
+Atsvars nepieciešams, lai nodrošinātu troses nostiepšanos. Projekti piedāvā kā atsvaru izmantot smagu objektu, piemēram, [[asteroīds|asteroīdu]], [[kosmiskā stacija|kosmosa staciju]] vai arī pagarināt pašu kabeli tā, ka tas sniegtos kosmosā daudz tālāk par ģeosinhrono orbītu. Doma par troses izmantošanu par atsvaru pēdējā laikā iemantojusi popularitāti kā relatīvi viegls atsvara izgatavošanas veids, 
+turklāt pa tik garu kabeli pacēlājs pārvietotos tik ātri, ka kravu būtu iespējams palaist starpplanētu telpā.
+
+== Celtniecība ==
+Ne vien pati lifta konstrukcija, bet arī tā celtniecība būtu ļoti dārga un sarežģīta. Vairākus tūkstošus tonnu smago trosi varētu nogādāt ģeosinhronajā orbītā, un tur vienu no troses galiem virzīt uz Zemi ar gravitācijas un centrbēdzes spēka palīdzību, bet otru - atklātā kosmosā. Tādā veidā kabelis nolīdzsvarotos ģeostacionārajā orbītā un nostieptos rietumu-austrumu virzienā. Lai to varētu paveikt, būtu nepieciešams izmantot daudzas [[nesējraķete]]s, kas ievērojami sadārdzinātu šo procesu. Cita iespēja būtu vispirms palaist orbītā spolē uztītu ap 20 tonnu smagu lenti, kuru nolaistu līdz zemei, un pa to pārvietotu atlikušos būvmateriālus.
+
+== Riska faktori ==
+=== Pavadoņi, kosmiskie atkritumi un meteoroīdi ===
+Potenciāli bīstami būtu [[Zemes mākslīgais pavadonis|pavadoņi]], kuru [[orbīta]]s atrodas zemāk par liftu, tāpat liftu apdraudētu arī [[kosmiskie atkritumi]] - orbītā esoši cilvēka radīti objekti, kuri vairs netiek izmantoti. Lai gan savu laiku nokalpojušos pavadoņus pieņemts ievadīt "[[kapsētas orbīta|kapsētas orbītā]]", kas atrodas virs ģeostacionārās orbītas, lielākā daļa kosmisko atkritumu atrodas ievērojami zemāk - apmēram 2000 kilometru virs Zemes. Vēl bīstamāki ir [[meteoroīds|meteoroīdi]], kuru atrašanās vietas un kustības nav paredzamas. Lai izvairītos no šāda veida sadursmēm, nepieciešams pasākumu komplekss, kas ietvertu lifta pārvietošanu uz drošāku vietu, lai izvairītos no kosmiskajiem objektiem (savukārt darbojošiem pavadoņiem orbīta var tikt mainīta ar paša pavadoņa dzinējiem), mazāku kosmisko atkritumu "aizslaucīšanu" no lifta apkārtnes ar [[lāzerslotu]] vai papildu trošu izveidošana, kas sadursmes gadījumā noturētu lifta konstrukciju, kamēr tiktu salaboti bojājumi, tāpat trosi varētu izgatavot kā tīklu, nevis vienlaidu vadu vai lenti. Būtu nepieciešams periodiski pārbaudīt trosi, vai to nav bojājuši mikrometeroroīdi, pie pacēlēja uzstādot speciālas kameras, kas novērotu trosi.
+
+=== Korozija ===
+Augšējos [[Zemes atmosfēra|atmosfēras]] slāņos [[skābeklis|skābekļa]] ietekmē palēnām sairtu gandrīz jebkurš materiāls, tāpēc būtu nepieciešams noklāt trosi ar ķīmiski mazaktīvām vielām. Pētījumi liecina, ka visnoturīgākās vielas pret skābekļa ietekmi ir [[zelts]] un [[platīns]], varētu tikt lietoti arī nedaudz mazāk izturīgi, taču lētāki materiāli, piemēram, [[alumīnijs]].
+
+=== Materiāla defekti ===
+Paredzams, ka tik lielai struktūrai kā kosmiskais lifts būtu ļoti daudzi sīki defekti, kas varētu samazināt vienas nanocaurulītes izturību pat līdz 1,7 GPa, kas ir apmēram tikpat, cik augstas izturības tēraudam. Tāpat pastāv bažas, ka vienas šķiedras bojājums varētu izraisīt blakus esošo šķiedru bojājumus un svārstības, kas turpinātu izplatīties pa visu kabeli ar [[Skaņas ātrums|skaņas ātrumu]].
+
+=== Laikapstākļi ===
+Kosmisko liftu varētu apdraudēt spēcīgs vējš, zibens un troses apledošana. Visbīstamākā būtu apledošana, jo ledus palielinātu troses masu un tam krītot, varētu bojāt gan trosi, gan pacēlājus. Iespējams, ka ledu varētu noskrāpēt tam paredzēts apkopes lifts. Savukārt no zibens radītajām problēmām varētu izvairīties, pārklājot kabeli ar ūdensizturīgu pārklājumu.
+
+=== Troses pārrāvums ===
+Kas notiktu troses pārrāvuma gadījumā, ir atkarīgs no augstuma, kādā tā tiktu pārrauta. Ja pārrāvums būtu pie Zemes virsmas, virs pārrāvuma vietas esošā konstrukcijas daļa ieietu neregulārā orbītā un aizlidotu [[starpplanētu telpa|starpplanētu telpā]], tomēr teorētiski troses galus varētu vēlreiz sastiprināt, taču būtu nepieciešams nogādāt lifta masas centru atpakaļ sākotnējā orbītā. Tas būtu tik sarežģīti, ka uzbūvēt liftu no jauna varētu izrādīties vieglāk. Ja trose pārtrūktu augstāk par 25000 km, troses apakšdaļa kristu uz Zemi un aptītos ap to. Lai gan daži [[zinātniskā fantastika|zinātniskās fantastikas]] autori izmantojuši šādu notikumu savos darbos kā iemeslu vispasaules mēroga katastrofai, troses augšdaļa, ieejot atmosfēras biezajos slāņos, visticamākais, sadegtu, bet atlikušās daļas kritiena spēku bremzētu gaisa pretestība, tāpēc [[trieciena spēks]] nebūtu lielāks kā nokrītot papīra lapai. Visbīstamākās būtu transportējamās kravas, kuras nebūtu sasniegušas orbītu, jo tās kristu lejup.
+
+[[Kategorija:Konceptuālie kosmiskie nesēji]]
+[[Kategorija:Transportlīdzekļi]]

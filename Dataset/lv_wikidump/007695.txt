@@ -1,0 +1,26 @@
+{{ezera infokaste
+|ezers=Metelis
+|attēls=Metelys1.JPG
+|map = Lietuva
+| plat_d=54 | plat_m=17 | plat_s=40 | plat_NS=N
+| gar_d=23 | gar_m=46 | gar_s=20 | gar_EW=E
+|vieta={{LTU}}
+|platība=12.9
+|garums=
+|Vid_dziļums=6,76
+|Max_dziļums=15,0
+|tilpums=
+|augstums_vjl=106
+|izteka=[[Metelīte]]
+|baseins=55,6
+|valstis=
+|salas=
+|pilsētas=
+}}
+'''Metelis''' ({{val|lt|Metelys}}) ir [[ezers]] [[Lietuva]]s dienvidu daļā, [[Lazdiju rajons|Lazdiju rajonā]], ap {{nobr|7 km}} ziemeļos no [[Seiriji]]em. Sestais lielākais ezers Lietuvā.
+
+== Ārējās saites ==
+* [http://zvejokliai.zvejotakas.lt/images/batimetriniai/metelys.jpg Ezera batimetriskā karte]
+
+[[Kategorija:Lietuvas ezeri]]
+[[Kategorija:Alītas aprīņķis]]

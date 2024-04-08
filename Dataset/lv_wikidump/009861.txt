@@ -1,0 +1,67 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Nīma
+ | official_name            = ''Nîmes''
+ | nickname                 = 
+ | motto                    = 
+ | settlement_type          = administratīvais centrs
+ | image_skyline            = Nîmes, Centre ville.jpg
+ | image_caption            = 
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              =
+ | image_map                = 
+ | pushpin_map              = Francija
+ | pushpin_label_position   = right
+ | map_caption              = 
+ | subdivision_type         = Valsts 
+ | subdivision_type1        = Reģions
+ | subdivision_type2        = Departaments
+ | subdivision_name         = {{karogs|Francija}}
+ | subdivision_name1        = [[Langdoka-Rusijona]]
+ | subdivision_name2        = [[Gāra]]
+ | established_title        = Dibināta
+ | established_date         = 6. gs. p. m. ē.
+ | established_title2       = 
+ | established_date2        = 
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 161.85
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           =  
+ | population_as_of         = 2000
+ | population_total         = 140267
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = CET
+ | utc_offset               = +1
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd =43  | latm =50  | lats =16  | latNS =N 
+ | longd =4  | longm =21  | longs =39 | longEW =E 
+ | postal_code_type         = Pasta kods
+ | postal_code              = 30189, 30000, 30900
+ | elevation_m              = 21-215
+ | website                  = [http://www.nimes.fr/]
+}}
+'''Nīma''' ir pilsēta [[Langdoka-Rusijona|Langdokas-Rusijonas]] reģionā, [[Francija]]s dienvidaustrumos. Tas ir [[Gāra]]s departamenta administratīvais centrs.
+
+== Ģeogrāfija ==
+Nīma atrodas aptuveni 715 kilometrus uz dienvidiem no [[Parīze]]s un 35 km attālumā no [[Vidusjūra]]s. Pilsētu ieskauj 7 pauguri, no kuriem gan tikai 3 ir samērā lieli. Šī fakta un arī [[Romas republika|romiskās]] vēstures dēļ Nīma nereti tiek saukta par "Francijas [[Roma|Romu]]". Pauguri lielā mērā nodrošina arī augstas temperatūras un maigu klimatu.
+
+==Vēsture==
+Vārds [[denims]] radies no zila Nīmas [[kokvilna]]s auduma ({{val-fr|Serge de Nîmes}}) un vēsturiski  denima [[džinsi]] nozīmē Nīmas auduma [[Dženova|dženoviešu]] [[bikses]].
+
+{{commonscat|Nîmes|Nīma}}
+
+{{Francija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Oksitānijas pilsētas]]

@@ -1,0 +1,7 @@
+'''Valoda SGML''' (no {{val-en|'''S'''tandard '''G'''eneralized '''M'''arkup '''L'''anguage}}) ir [[iezīmēšanas valoda]], kurā apraksta dokumentu marķēšanas valodas.
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Iezīmēšanas valodas]]

@@ -1,0 +1,40 @@
+{{atsauces+}}
+{{Japāņu rakstība}}
+'''Japāņu rakstība''' ir [[rakstība]], kuru lieto, rakstot tekstu [[japāņu valoda|japāņu valodā]]. Ir divi fonētiski [[alfabēts|alfabēti]] (hiragana un katakana), kā arī [[logogramma|logogrāfiskā]] sistēma [[kandži]] (漢字), kura ir savulaik aizgūta no [[Ķīna]]s.  Svešvārdus pieraksta, lietojot katakanas fonētisko alfabētu, bet [[Latīņu alfabēts|latīņu burtus]] reti lieto saīsinājumos (piemēram NATO) un kā dizaina elementu. Visus japāņu valodas vārdus ir iespējams pierakstīt kanā.
+
+Japāņu valodas pierakstu ar [[latīņu alfabēts|latīņu alfabēta]] burtiem sauc par [[rōmaji|romadži]] (ローマ字). Pastāv vairākas [[transkripcija (valodniecība)|transkripcijas]] shēmas no kanas uz latīņu alfabēta burtiem. Pazīstamākā no tām ir [[Hepberna transkripcija]] ({{val|en|Hepburn romanization}}). Tā sākotnēji tika izveidota, lai varētu izveidot angļu—japāņu vārdnīcu. Šī shēma tiek plaši pielietota, tai skaitā daudzos latviešu valodā pieejamos rakstos par šo{{fact}} tematu. Šajā rakstā arī tiek lietota šī shēma. Vēl eksistē arī kunreišiki (訓令式) shēma. Tā bija paredzēta Japānas iekšējai lietošanai. Galvenā atšķirība ir tā, ka ''shi'', ''chi'' un ''tsu'' pieraksta attiecīgi kā ''si'', ''ti'' un ''tu''. Garos patskaņus apzīmē ar garumzīmēm (ā, ī, ū, ē un ō).
+
+Eksistē arī transkripcijas uz [[kirilica|kirilicu]] un citām rakstības sistēmām.
+
+== Kandži ==
+Ar tiem parasti pieraksta lietvārdus un darbības vārdu saknes. Jebkuru japāņu valodas vārdu var pierakstīt kanā, lielākajai daļa vārdu ir arī ''kanji'' forma, bet ne visiem. Vienai un tai pašai izrunai (kas atbilst vienam un tam pašam kanas pierakstam (ar nelieliem izņēmumiem)) var būt liels daudzums nozīmju, kuras atbilst dažādiem [[Logogramma|hieroglifiem]]. Hieroglifus lieto, lai nebūtu tik daudz jāpaļaujas uz kontekstu, lai noteiktu, kas ir domāts. Hieroglifiem bieži vien ir iespējamas vairākas izrunas, parasti tās ir atkarīgas no konteksta. Izšķir ķīniešu izcelsmes izrunas (''on yomi'')(音読み）un japāņu izcelsmes izrunas (''kun yomi'')(訓読み). Vārdos, kas satur vairākus hieroglifus pēc kārtas, parasti lieto ''on yomi'', vārdos, kas satur vienu pašu hieroglifu vai hieroglifu un kanu, parasti lieto ''kun yomi''. Ir iespējami arī izņēmumi. Lai norādītu paredzēto izrunu, dažkārt lieto furiganu, tas ir — kana virs hieroglifiem. Kaut ko līdzīgu lieto arī [[ķīniešu valoda|ķīniešu valodā]], tikai tur parasti lieto latīņu alfabēta burtus (''pinyin'').
+
+Piemēram, vārdu "es" var pierakstīt: kandži (私), hiraganā (わたし), katakanā (ワタシ) vai romadži (watashi).
+
+== Kana ==
+Kana (仮名) ir japāņu zilbju alfabēti. Ir katakana (カタカナ) (stūraināki burti) un hiragana (ひらがな) (noapaļotāki burti). Katrs simbols apzīmē zilbi, patskani vai "n" līdzskani.
+
+=== Hiragana ===
+{{Pamatraksts|Hiragana}}
+Hiraganā parasti pieraksta japāņu valodas vārdus, vārdu galotnes (pie hieroglifiem) un palīgvārdus.
+
+=== Katakana ===
+{{Pamatraksts|Katakana}}
+Katakanā parasti pieraksta svešvārdus un vārdus kurus jāizceļ.
+
+== Japāņu valodas transkripcija ==
+=== Romanizācija ===
+{{Pamatraksts|Japāņu valodas romanizācija}}
+Pastāv vairākas japāņu valodas romanizācijas sistēmas, starptautiski visbiežāk lietotā ir Hepberna romanizācija.
+
+=== Kirilizācija ===
+Galvenā šīs transliterācijas nozīme ir tā, ka lielākā daļa japāņu valodas vārdu un ģeogrāfisko nosaukumu latviešu valodā ir nonākuši caur krievu valodu, kur lieto šo sistēmu.{{fact}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Alfabēti]]
+[[Kategorija:Japāņu valoda|Rakstība]]

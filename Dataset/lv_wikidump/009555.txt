@@ -1,0 +1,52 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Čitas apgabals
+| official_name = ''Читинская область''
+| image_skyline =30278820114_chita-morning-november-2016-russia.jpg 
+| imagesize = 
+| image_caption = 
+| settlement_type = [[Krievijas administratīvais iedalījums|apgabals]]
+| total_type = Kopā
+| image_flag = Flag of Zabaykalsky Krai.svg
+| image_shield = Coat of arms of Zabaykalsky Krai.svg
+| shield_size  = 70px
+| image_map = Russia - Chita Oblast (2008-01).svg
+| map_caption = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Sibīrijas federālais apgabals]]
+ | established_title = Dibināts
+ | established_date = 1937
+ | established_title1 = Likvidēts
+ | established_date1 = 2008
+| area_total_km2 = 431892
+| population_total = 1135700
+| population_as_of = 2005
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = 52| latm = 02| lats = | latNS = N
+| longd = 113| longm = 30| longs = | longEW = E
+| seat_type = Centrs
+| seat = [[Čita]]
+| parts_type = Administratīvais iedalījums
+| parts = 
+| p1 = 
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[krievi]] (89,8%)<br />[[burjati]] (6,1%)
+| official_language       = [[krievu valoda|krievu]]
+| website = 
+}}
+
+'''Čitas apgabals''' ({{val|ru|Читинская область}}) bija viens no [[Krievijas Federācija]]s apgabaliem tās [[Sibīrija]]s daļā.<ref>{{PZT|152}}</ref> Tas robežojās ar [[Burjatija|Burjatiju]] un [[Irkutskas apgabals|Irkutskas apgabalu]] rietumos, [[Saha|Sahas republiku]] ziemeļos, [[Amūras apgabals|Amūras apgabalu]] austrumos, kā arī [[Ķīna|Ķīnu]] dienvidaustrumos un [[Mongolija|Mongoliju]] dienvidos. Čitas apgabala dienvidaustrumu daļas vidū atrodas [[Agas Burjatu autonomais apvidus]]. 2008. gada 1. martā Čitas apgabals tika apvienots ar [[Agas Burjatu autonomais apvidus|Agas Burjatu autonomo apvidu]], izveidojot [[Aizbaikāla novads|Aizbaikāla novadu]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bijušie Krievijas Federācijas apgabali]]
+[[Kategorija:Aizbaikāla novads]]

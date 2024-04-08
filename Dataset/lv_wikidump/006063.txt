@@ -1,0 +1,30 @@
+{{Navbox
+|name   = Eiropas čempionāts futbolā
+|title  = [[UEFA]] [[Eiropas čempionāts futbolā|Eiropas čempionāts futbolā]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+|list1  = 
+* [[1960. gada Eiropas čempionāts futbolā|Francija 1960]]
+* [[1964. gada Eiropas čempionāts futbolā|Spānija 1964]]
+* [[1968. gada Eiropas čempionāts futbolā|Itālija 1968]]
+* [[1972. gada Eiropas čempionāts futbolā|Beļģija 1972]]
+* [[1976. gada Eiropas čempionāts futbolā|Dienvidslāvija 1976]]
+* [[1980. gada Eiropas čempionāts futbolā|Itālija 1980]]
+* [[1984. gada Eiropas čempionāts futbolā|Francija 1984]]
+* [[1988. gada Eiropas čempionāts futbolā|VFR 1988]]
+* [[1992. gada Eiropas čempionāts futbolā|Zviedrija 1992]]
+* [[1996. gada Eiropas čempionāts futbolā|Anglija 1996]]
+* [[2000. gada Eiropas čempionāts futbolā|Beļģija/Nīderlande 2000]]
+* [[2004. gada Eiropas čempionāts futbolā|Portugāle 2004]]
+* [[2008. gada Eiropas čempionāts futbolā|Austrija/Šveice 2008]]
+* [[2012. gada Eiropas čempionāts futbolā|Polija/Ukraina 2012]]
+* [[2016. gada Eiropas čempionāts futbolā|Francija 2016]]
+* [[2020. gada Eiropas čempionāts futbolā|Eiropa 2020]]
+* ''[[2024. gada Eiropas čempionāts futbolā|Vācija 2024]]''
+* ''[[2028. gada Eiropas čempionāts futbolā|Apvienotā Karaliste/Īrija 2028]]''
+* ''[[2032. gada Eiropas čempionāts futbolā|Itālija/Turcija 2032]]''
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Futbola veidnes]]
+</noinclude>

@@ -1,0 +1,68 @@
+{{Rakstnieka infokaste
+ |           platums = 
+ |             vārds = Onorē de Balzaks
+ |        vārds_orig = ''Honoré de Balzac''
+ |             attēls = Honoré de Balzac (1842) Detail.jpg
+ |        att_izmērs = 
+ |     att_nosaukums = Onorē de Balzaks (Nadara foto)
+ |           dz_gads = 1799
+ |        dz_mēnesis = 5
+ |          dz_diena = 20
+ |          dz_vieta = {{flagicon image|Flag of France (1794–1815, 1830–1974, 2020–present).svg}} [[Tūra]], [[Francijas Pirmā republika]] (tagad {{FRA}})
+ |            m_gads = 1850
+ |         m_mēnesis = 8
+ |           m_diena = 18
+ |           m_vieta = {{flagicon image|Flag of France (1794–1815, 1830–1974, 2020–present).svg}} [[Parīze]], [[Francijas Otrā republika]] (tagad {{FRA}})
+ |      dzīves_vieta = 
+ |         pilsonība = 
+ |           tautība = [[franči|francūzis]]
+ |           dzimums = V
+ |            vecāki = 
+ |             brāļi = 
+ |             māsas = 
+ |      dzīvesbiedrs = [[Evelīna Haņska]]
+ |             bērni = 
+ |          paraksts = Honoré de Balzac signature c1842-43.svg
+ |        pseidonīms = 
+ |      nodarbošanās = rakstnieks, dramaturgs, literatūrkritiķis
+ |rakstīšanas valoda = [[franču valoda]]
+ |           periods = [[19. gadsimts]]
+ |             žanri = [[romāns]], [[stāsts]], [[luga]]
+ |            temati = 
+ |      lit virzieni = [[reālisms]]
+ |  slavenākie darbi = {{ubl|“[[Cilvēciskā komēdija]]”|“[[Gorio tēvs]]”|“[[Zaudētās ilūzijas]]”|“[[Kurtizāņu spožums un posts]]”|“[[Eiženija Grandē]]”|“[[Šagrenāda]]”}}
+ |       ietekmējies = 
+ |        ietekmējis = [[Marsels Prusts]], [[Emīls Zolā]], [[Čārlzs Dikenss]], [[Edgars Alans Po]], [[Fjodors Dostojevskis]], [[Gistavs Flobērs]], [[Benito Peress Galdoss]], [[Henrijs Džeimss]], [[Viljams Folkners]], [[Džeks Keruaks]], [[Italo Kalvīno]], [[Frīdrihs Engelss]], [[Kārlis Markss]]
+ |        alma_mater = 
+ |       apbalvojumi = 
+ |          piezīmes = 
+ |       kategorijas = jā
+}}
+
+'''Onorē de Balzaks''' ({{val|fr|Honoré de Balzac}}, {{izrunā|ɔ.nɔ.ʁe d(ə) bal.zak}}, dzimis {{dat|1799|5|20}}, miris {{dat|1850|8|18}}) bija [[Francija|franču]] romānu [[rakstnieks]], [[dramaturgs]] un literatūrkritiķis. Viņa ''[[magnum opus]]'' sastāv no vairāk nekā 90 [[romāns|romāniem]] un [[luga|lugām]], kurus kopumā dēvē par “[[Cilvēciskā komēdija|Cilvēcisko komēdiju]]” (''La Comédie humaine''), kurā attēlota Francijas sabiedrība [[Burbonu restaurācija]]s (1815–1830) un [[Jūlija monarhija]]s (1830–1848) laikā, tas ir, pēc [[Napoleons Bonaparts|Napoleona Bonaparta]] valdīšanas laika, kas beidzās 1815. gadā. Balzaks kopā ar [[Gistavs Flobērs|Gistavu Flobēru]] tiek dēvēti par [[reālisms|reālisma]] literatūras tēviem.
+
+Onorē de Balzaks rakstījis arī [[luga]]s, [[eseja]]s un [[humorists stāsts|humoristiskus stāstus]]. Balzaks rakstīja dažāda žanra romānus, piemēram, filozofisko romānu “[[Nezināmais šedevrs (romāns)|Nezināmais šedevrs]]”, fantastikas romānu “[[Šagrenāda]]” vai dzejas romānu “[[Lilija ielejā]]”.
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{tīmekļa atsauce | url= https://www.britannica.com/biography/Honore-de-Balzac | title= Honore de Balzac | publisher= Encyclopedia Britannica | language= en}}
+* {{tīmekļa atsauce | url= http://www.gutenberg.org/browse/authors/b#a251 | title= Balzac, Honoré de, 1799-1850 | publisher= Project Gutenberg}}
+* {{tīmekļa atsauce | url= http://www.ebooktakeaway.com/honore_de_balzac_1799_1850 | title= Honoré de Balzac | publisher= eBookTakeAway download free eBooks}}
+* {{tīmekļa atsauce | url= http://openlibrary.org/authors/OL29097A/Honor%C3%A9_de_Balzac | title= Honoré de Balzac | publisher= Open Library}}
+* {{tīmekļa atsauce | url= https://bigenc.ru/literature/text/1848201 | title= Бальзак | publisher= Большая российская энциклопедия | language= ru | access-date= {{dat|2020|07|29||bez}} | archive-date= {{dat|2020|07|29||bez}} | archive-url= https://web.archive.org/web/20200729100135/https://bigenc.ru/literature/text/1848201 }}
+
+
+{{rakstnieks-aizmetnis}}
+{{Francija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Balzaks, Onorē De}}
+[[Kategorija:1799. gadā dzimušie]]
+[[Kategorija:1850. gadā mirušie]]
+[[Kategorija:Endrā un Luārā dzimušie]]
+[[Kategorija:Franču rakstnieki]]
+[[Kategorija:Franču valodā rakstošie]]

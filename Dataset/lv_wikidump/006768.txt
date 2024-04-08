@@ -1,0 +1,33 @@
+{{Minerāla infokaste
+|minerāls=Akrohordīts
+|attēls=
+|klase=Arsenāts
+|ŠtruncaID=7/D.16-30
+|ķīm_formula=Mn<sup>2+</sup><sub>4</sub>Mg(AsO<sub>4</sub>)<sub>2</sub>(OH)<sub>4</sub>·4(H<sub>2</sub>O)
+|singonija=[[Monoklīnā singonija|monoklīnā]]
+|krāsa=Sarkanbrūna, ādas krāsā
+|svītra=
+|habituss=Īsi, nelieli pumpveida kristāli
+|skaldnība=Labi izteikta
+|lūzums=
+|cietība=3,5
+|spīdums=
+|caurspīdīgums=Puscaurspīdīgs
+|laušanas_koef=n<sub>α</sub> = 1.672 n<sub>β</sub> = 1.676 n<sub>γ</sub> = 1.683
+|pleohroisms=
+|blīvums=3,22
+}}
+
+'''Akrohordīts''' (no {{val|el|akrochordon}} — 'kārpa' (pēc raksturīgās kristālu formas un krāsas)) ir ļoti rets [[minerāls]]. Atklāts [[1922]]. gadā [[Zviedrija|Zviedrijā]], [[mangāns|mangāna]] minerāla — [[hausmanīts|hausmanīta]] rūdā.
+
+== Atradnes ==
+* [[Amerikas Savienotās Valstis|ASV]] — [[Ņūdžersija]], Saseksas grāfiste, Stērlingas raktuves
+* [[Zviedrija]] — [[Vermlande]], Longbana, Mosas raktuves
+
+== Ārējās saites ==
+* [http://www.mindat.org/min-72.html Mindat.org] {{angliski}}
+* [http://www.webmineral.com/data/Akrochordite.shtml Webmineral.org] {{angliski}}
+
+[[Kategorija:Magnija minerāli]]
+[[Kategorija:Mangāna minerāli]]
+[[Kategorija:Arsenātu minerāli]]

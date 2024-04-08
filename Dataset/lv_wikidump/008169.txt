@@ -1,0 +1,49 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #FF0000
+| nos        = ''Amica Wronki''
+| logo       = [[Attēls:Amica_Wronki.png|150px]]
+| pilns      = ''Klub Sportowy Amica Wronki''
+| pilsēta    = {{Vieta|Polija|Vronki}}
+| dib        = 1992
+| dib_mēn    = 6
+| dib_dat    = 21 
+| beidza_pastāvēt = 2007. gadā
+| stad       =[[Amikas stadions]]
+| ietilp     = 5296
+| prez       =
+| tren       =
+| līga       = -
+| sez        =
+| poz        =
+|pattern_la1=|pattern_b1=_thinwhitesides|pattern_ra1=|
+leftarm1=FF0000|body1=FF0000|rightarm1=FF0000|shorts1=FF0000|socks1=FF0000|
+pattern_la2=|pattern_b2=_thinredsides|pattern_ra2=|
+leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF|
+}}
+'''Vronku "Amica"''' ({{val|pl|KS Amica Wronki}}) ir bijušais [[Polija]]s [[futbols|futbola]] klubs, kura bāzes vieta bija [[Vronki|Vronkos]]. Tika izveidots [[1992. gads|1992]]. gadā, apvienojot klubus ''Błękitni Wronki'' un ''LZS Czarni Wromet Wróblewo''. Par kluba sponsoru kļuva  kompānija ''Amica'', kuras fabrika atradās Vronku pilsētā. Klubs ir trīs reizes izcīnījis [[Polijas kauss futbolā|Polijas kausu]] un divas reizes uzvarējis Polijas superkausā. Lielākais panākums [[Ekstraklasa|Polijas čempionātā]] ir divreiz izcīnīta 3. vieta (2002. un 2004. gadā). 
+
+2006. gadā apvienojās ar citu ''Ekstraklasa'' klubu [[Poznaņas "Lech"]], kas nebija ieguvis licenci jaunajai sezonai.<ref>{{Tīmekļa atsauce|url=http://www.90minut.pl/liga.php?id=1944 |title=Orange Ekstraklasa 2005/2006 |accessdate={{dat|2016|2|4||bez}} |publisher=90minut.pl }}</ref> Komanda ar nosaukumu ''Amica'' sāka sezonu 3. līgā, bet 2007. gadā beidza pastāvēt. 
+
+Šajā klubā ir spēlējis [[Latvija]]s [[Latvijas futbola izlase|izlases]] futbolists [[Māris Smirnovs]].
+
+== Sasniegumi ==
+* '''[[Polijas kauss futbolā|Polijas kauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/polcuphist.html |title=Poland - List of Cup Finals |accessdate={{dat|2016|2|4||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (3): 1998, 1999, 2000
+** Finālisti (1): 2002
+* '''Polijas superkauss'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesp/polsupcuphist.html |title=Poland - List of Super Cup Finals |accessdate={{dat|2016|2|4||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (2): 1998, 1999 
+** Finālisti (1): 2000
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.90minut.pl/skarb.php?id_sezon=67&id_klub=6 Kluba profils vietnē ''90min.pl''] {{pl ikona}}
+
+{{futbols-stub}}
+
+{{DEFAULTSORT:Amica, Vronki}}
+[[Kategorija:Polijas futbola klubi]]
+[[Kategorija:KS Amica Vronki]]

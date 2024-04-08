@@ -1,0 +1,32 @@
+{{Enciklopēdisks stils}}
+{{Lidmašīnas informācija
+  |nosaukums = I—19
+  |tips = Vieglais iznīcinātājs
+  |ražotājs = [[VEF]]
+  |attēls = 
+  |paraksts = <!--Attēla paraksts; ja nav aprakstošs ir jāatsāj tukšs-->
+  |konstruktors = [[Kārlis Irbītis]]
+  |pirmais lidojums = <!--Ja nav noticis, atstājiet tukšu!-->
+  |nodošana = <!--Datums kad lidmašīna iestasies/iestājās militārajā/civilājā dienestā -->
+  |pēdējais lidojums = <!--Datums kad lidmašīna pabeidza militāro/civilo dienestu, tikai vienam datumam-->
+  |stāvoklis = Projekts nav pabeigts
+  |lietotājs = <!--Ierakstiet tikai vienu, un nelietojiet mazos karogus-->
+  |pārējie lietotāji = <!--Līdz trim papildlietotājiem; Atdaliet ar <br/>-->
+  |izgatavots = <!--Ražots no - līdz-->
+  |kopskaits = <!-- Ražoto lidmašīnu kopskaits-->
+  |programmas izmaksa = <!--Ražošanas/Izstrādāšanas programmas izmaksas-->
+  |cena = <!--Viena eksemplāra cena-->
+  |bāzes modelis = [[VEF I-16]]
+  |varianti = 
+}}
+
+'''VEF I—19''' ir vieglais iznīcinātājs. Šo iznīcinātāju uzskata par [[VEF I-16|I—16]] tālāko attīstību, pēdējais iznīcinātājs, kurš tika uzkonstruēts Latvijas brīvvalsts laikā. Par to ir ļoti skopas ziņas. Bieži vien izdomātas un safabricētas.
+
+Iznīcinātājs ir kļuvis par avantūristu un fantastu upuri. Sakarā ar [[Sarkanā armija|padomju karaspēka]] iebrukumu Otrā pasaules kara laikā un [[Latvijas okupācija (1940)|Latvijas okupāciju]], šis projekts netika pabeigts. Daži uzskata, ka tieši [[Kārlis Irbītis|Kārļa Irbīša]] VEF I-19 ir kļuvis par pamatu padomju iznīcinātājam [[La-5]], jo I-19 makets un visi rasējumi ir pazuduši. Daudziem fantastiem liekas, ka to iespējams izveda uz [[Padomju Savienība|PSRS]], bet jāatceras, ka padomju speciālisti, atšķirībā no vāciešiem, īpašu entuziasmu attiecībā uz latviešu lidmašīnām neizrādīja. Iespējams, rasējumi ir pie vāciešiem.
+
+== Ārējās saites ==
+* [http://www.bruninieki.narod.ru/vefi19.html VEF I-19]
+
+{{Latvijas lidmašīnas}}
+
+[[Kategorija:VEF izgatavotās lidmašīnas]]

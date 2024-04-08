@@ -1,0 +1,230 @@
+{{Sporta izlases infokaste
+ | valsts         = Dānija
+ | valsts_angl    = 
+ | att_izm        = 
+ | logo           = Denmarkjerseylogo.PNG
+ | logo_izm       = 200px
+ | dibin          = 
+ | federācija     = 
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 11.
+ | rangs max      = 10.
+ | rangs max date = pirmoreiz 2022.
+ | rangs min      = 15.
+ | rangs min date = pirmoreiz 2014.
+ | iesauka        =	Danish Lions (dāņu lauvas)
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = {{flaga|Dānija}} [[Heincs Ēlerss]]
+ | pers01         = Ģenerālmenedžeris
+ | pers01_vārds   = [[Kims Pedersens]]
+ | kapteinis      = [[Jespers B.Jensens]]
+ | visv spēles    = [[Mortens Grīns]] (316)
+ | visv vārtu     = 
+ | visv punktu    = [[Jenss Nilsens]] (241)
+<!--- OS --->
+ | OS reizes      = 1
+ | OS medaļas     = 
+ | OS lab sasn    = 7. vieta
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 55
+ | PČ medaļas     = 0
+ | PČ lab sasn    = 8. vieta
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{ih|CAN|1957}} 47—0 {{ih-rt|DEN}}<br />([[Stokholma]], [[Zviedrija]]; {{dat|1949|2|12|N}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih|DEN}} 27—4 {{ih-rt|BEL}}<br />([[Kopenhāgena]], [[Dānija]]; {{dat|1977|3|18|N}})
+ | liel zaud      = {{ih|CAN|1957}} 47—0 {{ih-rt|DEN}}<br />([[Stokholma]], [[Zviedrija]]; {{dat|1949|2|12|N}})
+ | pašreizējais   = 
+}}
+'''Dānijas hokeja izlase''' ir komanda, kas pārstāv [[Dānija|Dāniju]] starptautiskajās [[hokejs|hokeja]] spēlēs. Izlases labākais [[Pasaules čempionāts hokejā|Pasaules čempionātu]] sasniegums ir [[2010. gada Pasaules čempionāts hokejā|2010]]. un [[2016. gada Pasaules čempionāts hokejā|2016]]. gadā izcīnītā astotā vieta. Dānijas izlasei izdevās kvalificēties dalībai [[Hokejs olimpiskajās spēlēs|olimpiskajās spēlēs]] 2022. gadā Pekinā, kur izcīnīja 7. vietu zaudējot ceturtdaļfinālā.<ref>https://sportacentrs.com/pekina_2022/16022022-krievi_velreiz_uzvar_danus_un_olimpisko_s</ref>
+
+2023. gadā tā atradās 11. vietā [[Starptautiskā Hokeja federācija|Starptautiskās Hokeja federācija]]s vīriešu hokeja izlašu rangā<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2023 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2023|5|30||bez}}}}</ref>
+un spēlēja [[2023. gada Pasaules čempionāts hokejā|2023. gada Pasaules čempionāta]] elites divīzijā.
+
+== Izlases sastāvs [[2017. gada Pasaules čempionāts hokejā|2017]]. gada Pasaules čempionātā ==
+* '''Galvenais treneris''': {{Flaga|SWE}} [[Janne Kārlsons]]
+{| border="0" cellspacing="2" cellpadding="2"
+|- bgcolor="AAD0FF"
+! width="40" |No.
+! width="40" |Poz.
+! width="250" |Spēlētājs
+! width="250" |Klubs
+|-
+| style="text-align:center;" |31
+| style="text-align:center;" |{{HOK-V}}
+|[[Simons Nilsens]] || {{flaga|DEN}} [[Herningas "Blue Fox"]]
+|-
+| style="text-align:center;" |32
+| style="text-align:center;" |{{HOK-V}}
+|[[Sebastians Dāms]] || {{flaga|AUT}} [[Grācas "99ers"]]
+|-
+| style="text-align:center;" |39
+| style="text-align:center;" |{{HOK-V}}
+|[[Gregors Sērensens]] || {{flaga|SWE}} [[Almtuna]]
+|-
+| style="text-align:center;" |2
+| style="text-align:center;" |{{HOK-A}}
+|[[Filips Bruigisers]] || {{flaga|DEN}} [[Esbjergas "Energy"]]
+|-
+| style="text-align:center;" |8
+| style="text-align:center;" |{{HOK-A}}
+|[[Nikolajs Veihels]] || {{flaga|DEN}} [[Rungsted Ishockey]]
+|-
+| style="text-align:center;" |22
+| style="text-align:center;" |{{HOK-A}}
+|[[Markuss Lauridsens]] || {{flaga|SWE}} [[Leksands IF]]
+|-
+| style="text-align:center;" |25
+| style="text-align:center;" |{{HOK-A}}
+|[[Olivers Lauridsens]] || {{flaga|FIN}} [[Helsinku "Jokerit"]]
+|-
+| style="text-align:center;" |28
+| style="text-align:center;" |{{HOK-A}}
+|[[Emils Kristensens]] || {{flaga|SWE}} [[Linköpings HC]]
+|-
+| style="text-align:center;" |36
+| style="text-align:center;" |{{HOK-A}}
+|[[Matiass Lasens]] || {{flaga|SWE}} [[Mora IK]]
+|-
+| style="text-align:center;" |41
+| style="text-align:center;" |{{HOK-A}}
+|[[Jespers Jensens]] || {{flaga|FIN}} [[Helsinku "Jokerit"]]
+|-
+| style="text-align:center;" |48
+| style="text-align:center;" |{{HOK-A}}
+|[[Nikolas Jensens]] || {{flaga|DEN}} [[Rungsted Ishockey]]
+|-
+| style="text-align:center;" |9
+| style="text-align:center;" |{{HOK-U}}
+|[[Frederiks Storms]] || {{flaga|SWE}} [[Malmes "Redhawks"]]
+|-
+| style="text-align:center;" |12
+| style="text-align:center;" |{{HOK-U}}
+|[[Mads Kristensens]] || {{flaga|DEU}} [[Minhenes "Red Bull"]]
+|-
+| style="text-align:center;" |13
+| style="text-align:center;" |{{HOK-U}}
+|[[Mortens Grēns]] || {{flaga|DEN}} [[Rungsted Ishockey]]
+|-
+| style="text-align:center;" |19
+| style="text-align:center;" |{{HOK-U}}
+|[[Stefens Klarskovs]] || {{flaga|DEN}} [[Rodovres "Mighty Bulls"]]
+|-
+| style="text-align:center;" |24
+| style="text-align:center;" |{{HOK-U}}
+|[[Nikolajs Ēlerss]] || {{flaga|CAN}} [[Vinipegas "Jets"]]
+|-
+| style="text-align:center;" |29
+| style="text-align:center;" |{{HOK-U}}
+|[[Mortens Madsens]] || {{flaga|SWE}} [[Karlskrona HK]]
+|-
+| style="text-align:center;" |33
+| style="text-align:center;" |{{HOK-U}}
+|[[Julians Jākobsens]] || {{flaga|DEN}} [[Olborgas "Pirates"]]
+|-
+| style="text-align:center;" |38
+| style="text-align:center;" |{{HOK-U}}
+|[[Mortens Poulsens]] || {{flaga|FIN}} [[Lahti "Pelicans"]]
+|-
+| style="text-align:center;" |42
+| style="text-align:center;" |{{HOK-U}}
+|[[Mikels Ogords]] || {{flaga|USA}} [[Stoktonas "Heat"]]
+|-
+| style="text-align:center;" |43
+| style="text-align:center;" |{{HOK-U}}
+|[[Niklass Hārts]] || {{flaga|SWE}} [[Malmes "Redhawks"]]
+|-
+| style="text-align:center;" |50
+| style="text-align:center;" |{{HOK-U}}
+|[[Matiass Bau Hansens]] || {{flaga|DEN}} [[Frederikshavnas "White Hawks"]]
+|-
+| style="text-align:center;" |60
+| style="text-align:center;" |{{HOK-U}}
+|[[Patriks Rusels]] || {{flaga|ASV}} [[Beikersfīldas "Condors"]]
+|-
+| style="text-align:center;" |72
+| style="text-align:center;" |{{HOK-U}}
+|[[Nikolajs Mejers]] || {{flaga|SWE}} [[Tingsryds AIF]]
+|-
+| style="text-align:center;" |93
+| style="text-align:center;" |{{HOK-U}}
+|[[Pēters Regins]] || {{flaga|FIN}} [[Helsinku "Jokerit"]]
+|}
+
+== Rezultāti ==
+=== Olimpiskās spēles ===
+{| class="wikitable"
+|-
+! Gads
+! Rezultāts
+! Treneris
+! Kapteinis
+|-
+|[[Hokejs 2022. gada ziemas olimpiskajās spēlēs|2022]]
+|7. vieta
+|[[Heincs Ēlerss]]
+|[[Pēters Regins]]
+|-
+|}
+
+=== Pasaules čempionāts ===
+* 1989 — 16. vieta (spēlēja 1. divīzijā)
+* 1990 — 18. vieta (spēlēja 2. divīzijā)
+* 1991 — 17. vieta (spēlēja 2. divīzijā)
+* 1992 — 16. vieta (spēlēja 1. divīzijā)
+* 1993 — 16. vieta (spēlēja 1. divīzijā)
+* 1994 — 17. vieta (spēlēja 1. divīzijā)
+* 1995 — 17. vieta (spēlēja 1. divīzijā)
+* 1996 — 18. vieta (spēlēja 1. divīzijā)
+* 1997 — 20. vieta (spēlēja 1. divīzijā)
+* 1998 — 20. vieta (spēlēja 1. divīzijā)
+* 1999 — 17. vieta (spēlēja 1. divīzijā)
+* 2000 — 21. vieta (spēlēja 1. divīzijā)
+* 2001 — 22. vieta (spēlēja 1. divīzijā)
+* 2002 — 18. vieta (spēlēja 1. divīzijā)
+* [[2003. gada Pasaules čempionāts hokejā|2003]] — 11. vieta
+* [[2004. gada Pasaules čempionāts hokejā|2004]] — 12. vieta
+* [[2005. gada Pasaules čempionāts hokejā|2005]] — 14. vieta
+* [[2006. gada Pasaules čempionāts hokejā|2006]] — 13. vieta 
+* [[2007. gada Pasaules čempionāts hokejā|2007]] — 10. vieta
+* [[2008. gada Pasaules čempionāts hokejā|2008]] — 12. vieta
+* [[2009. gada Pasaules čempionāts hokejā|2009]] — 13. vieta 
+* [[2010. gada Pasaules čempionāts hokejā|2010]] — 8. vieta
+* [[2011. gada Pasaules čempionāts hokejā|2011]] — 11. vieta
+* [[2012. gada Pasaules čempionāts hokejā|2012]] — 13. vieta
+* [[2013. gada Pasaules čempionāts hokejā|2013]] — 12. vieta
+* [[2014. gada Pasaules čempionāts hokejā|2014]] — 13. vieta
+* [[2015. gada Pasaules čempionāts hokejā|2015]] — 14. vieta
+* [[2016. gada Pasaules čempionāts hokejā|2016]] — 8. vieta
+* [[2017. gada Pasaules čempionāts hokejā|2017]] — 12. vieta
+* [[2018. gada Pasaules čempionāts hokejā|2018]] — 10. vieta
+* [[2019. gada Pasaules čempionāts hokejā|2019]] — 11. vieta
+* [[2021. gada Pasaules čempionāts hokejā|2021]] — 12. vieta
+* [[2022. gada Pasaules čempionāts hokejā|2022]] — 9. vieta
+* [[2023. gada Pasaules čempionāts hokejā|2023]] — 10. vieta
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://ishockey.dk Oficiālā mājaslapa]
+
+{{Hokejs-aizmetnis}}
+{{Dānija-aizmetnis}}
+
+{{Hokejaizlases}}
+
+[[Kategorija:Hokejs Dānijā]]
+[[Kategorija:Eiropas hokeja izlases]]

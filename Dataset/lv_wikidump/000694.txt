@@ -1,0 +1,100 @@
+{{Valsts infokaste
+|   pilnais_valsts_nosaukums = Folklenda Salas
+|           valsts_nosaukums = Falkland Islands
+|           karoga_nosaukums = Folklenda Salu karogs
+|              karoga_attēls = Flag of the Falkland Islands.svg
+|          ģerboņa_nosaukums = Folklenda Salu ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls = Coat of arms of the Falkland Islands.svg
+|              kartes_attēls = Falkland Islands in United Kingdom.svg
+|                valsts_moto = <!--speechmarks (quotation):-->"Desire the right"
+|               valsts_himna = <!--italics (song/music title):-->''[[God Save the King]]''{{nbsp|2}}{{small|(oficiālā)}}<br />''[[Song of the Falklands]]''
+|             valsts_valodas = [[Angļu valoda|Angļu]]
+|              galvaspilsēta = [[Stenli]]
+|latd=51 |latm=42 |latNS=S |longd=57 |longm=51 |longEW=W
+|            lielākā_pilsēta = galvaspilsēta
+|             valsts_iekārta = Lielbritānijas aizjūras teritorija
+|       valsts_galvas_tituls = Monarhs
+|               valsts_galva = [[Čārlzs III Vindzors]]
+|              platība_rangs = 162.
+|                platība_km2 = 12 173
+|             procenti_ūdens = 0
+|         iedzīvotāju_skaits = 2841<ref name=census2012>{{tīmekļa atsauce |url=http://www.falklands.gov.fk/headline-results-of-2012-falkland-islands-census-released/ |title=Headline results of 2012 Falkland Islands Census released |date=10 September 2012 |publisher=Falkland Islands Government |accessdate=19 December 2012 |archive-date={{dat|2013|01|04||bez}} |archive-url=https://web.archive.org/web/20130104035546/http://www.falklands.gov.fk/headline-results-of-2012-falkland-islands-census-released/ }} {{Webarchive|url=https://web.archive.org/web/20130104035546/http://www.falklands.gov.fk/headline-results-of-2012-falkland-islands-census-released/ |date={{dat|2013|01|04||bez}} }}</ref>
+|   iedzīvotāju_skaits_rangs = 220.
+|    iedzīvotāju_skaita_gads = 2012
+|population_census = |population_census_year = 
+|   apdzīvotības_blīvums_km2 = 0,26
+|population_density_sq_mi = 0,65 <!--Do not remove per [[WP:MOSNUM]]-->
+| apdzīvotības_blīvums_rangs = 241.
+|                    IKP_PPP = $75&nbsp;miljoni
+|              IKP_PPP_rangs = 223.
+|               IKP_PPP_gads = 2005
+|         IKP_PPP_per_capita = $55 400<ref name="CIA">2002 estimate. {{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html |title=CIA World Factbook 2012 |publisher=cia.gov |date= |accessdate=2013-01-04 |archive-date=2010-02-01 |archive-url=https://www.webcitation.org/5nDnCpHEG?url=https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html }}</ref>
+|   IKP_PPP_per_capita_rangs = 7.
+|       neatkarības_iegūšana = Dibināšana
+|       neatkarības_notikums = Britu valdīšanas atjaunošanas
+|         neatkarības_datums = 1833
+|      neatkarības_notikums2 = Kroņa kolonija
+|        neatkarības_datums2 = 1841
+|      neatkarības_notikums3 = Lielbritānijas atkarīgā teritorija
+|        neatkarības_datums3 = 1981
+|      neatkarības_notikums4 = Lielbritānijas aizjūras teritorija
+|        neatkarības_datums4 = 2002
+|      neatkarības_notikums5 = Pašreizējā konstitūcija
+|        neatkarības_datums5 = 2009
+|                  Gini_gads = |Gini_change =  <!--increase/decrease/steady--> |                       Gini = <!--number only--> |Gini_ref = 
+|                   HDI_gads = |HDI_change =  <!--increase/decrease/steady--> |                        HDI = <!--number only--> |HDI_ref = 
+|                     valūta = [[Folklendas sterliņu mārciņa]]
+|               valūtas_kods = FKP
+|iso3166code = FK
+|                 laika_zona = [[Falkland Islands Time|FKT]]
+|                 utc_offset = −4
+|             laika_zona_DST = [[Falkland Islands Summer Time|FKST]]
+|             utc_offset_DST = −3
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 500
+|                     domēns = [[.fk]]
+}}
+'''Folklenda Salas''' ({{val|en|Falkland Islands}}), sauktas arī par '''Malvinu salām''' ({{val|es|Islas Malvinas}}), ir [[Apvienotā Karaliste|Apvienotās Karaliste]]s kolonija [[Atlantijas okeāns|Atlantijas okeāna]] dienvidrietumos, uz kuru pretendē arī [[Argentīna]].
+
+Arhipelāgs atrodas {{nobr|483 km}} attālumā no [[Dienvidamerika]]s piekrastes. Sastāv no divām lielām salām (Rietumu un Austrumu) un aptuveni 200 mazākām saliņām un klintīm.
+
+2013. gada 10.—13. maijā Folklenda Salu iedzīvotāji referendumā nobalsoja par palikšanu Apvienotās Karalistes aizjūras teritorijas statusā.
+
+== Vēsture ==
+Pirmais, kas atklāja šo arhipelāgu 1591.—1592. gadā, bija britu [[pirāts]] [[Džons Deiviss (1550-1605)|Džons Deiviss]], kurš komandējis kuģi Kavendiša pirātu eskadrā, tomēr arī [[spāņi]] pretendē uz salas pirmatklājēju godu. 1763.—1765. gadā salas izpētījusi franču ekspedīcija [[Luijs Antuans de Bugenvils|Luija Antuāna de Bugenvila]] vadībā.
+
+Pirms tam būdamas [[Spānija]]s koloniālās impērijas sastāvā, 1816. gadā salas tika iekļautas jaundibinātās [[Argentīna]]s teritorijā. 1833. gadā tās ar bruņotu spēku anektēja [[Lielbritānijas impērija]], taču Argentīna turpina uzskatīt šo teritoriju par savu.
+
+=== Argentīnas konflikts ar Lielbritāniju ===
+{{Sīkāk|Folklendu karš}}
+1982. gada 2. aprīlī Argentīnas militārā hunta sarīkoja iebrukumu Folklenda salās. Lai šo teritoriju atgūtu, Lielbritānijas premjerministre Margarēta Tečere pret uzbrucējiem vērsa kara flotes spēkus.
+
+Bruņotais konflikts ilga 74 dienas un noslēdzās 14. jūnijā ar Argentīnas spēku kapitulāciju. [[Folklendu karš|Folklendu karā]] krita 649 argentīniešu karavīri un 255 briti.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Dienvidamerika-aizmetnis}}
+{{UK-aizmetnis}}
+
+{{Lielbritānijas teritorijas}}
+{{Dienvidamerika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Folklenda Salas| ]]
+[[Kategorija:Apvienotās Karalistes atkarīgās teritorijas]]
+[[Kategorija:Dienvidamerika]]
+[[Kategorija:Argentīna]]
+[[Kategorija:Subantarktiskās salas]]
+[[Kategorija:Atlantijas okeāna salas]]
+[[Kategorija:Apstrīdētās teritorijas]]
+[[Kategorija:Arhipelāgi]]
+[[Kategorija:Eiropas Savienības īpašās teritorijas]]

@@ -1,0 +1,89 @@
+{{Upes infokaste 
+| nosaukums         = Odera
+| valsts            = Polija
+| citnosaukums      = Odra
+| citvaloda         = pl
+| citvaloriģin      = Odra
+| valsts1           = Vācija
+| citnosaukums1     = Odera
+| citvaloda1        = de
+| citvaloriģin1     = Oder
+| valsts2           = Vācija
+| citnosaukums2     = Vodra
+| citvaloda2        = wen
+| citvaloriģin2     = Wodra
+| valsts3           = Čehija
+| citnosaukums3     = Odra
+| citvaloda3        = cs
+| citvaloriģin3     = Odra
+| attēls            = River Oder.jpg
+| attēla_izmērs     = 
+| paraksts          = Odra pie Frankfurtes pie Oderas
+| karte             = Dorzecze Odry mapa.png
+| kartes_paraksts   = Oderas baseins
+| kartes_izmērs     = 
+| izteka            = Odras kalni
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Baltijas jūra]]
+| baseina_valstis   = 
+| tek_caur          = {{CZE}}<br />{{POL}}<br />{{DEU}}
+| garums            = 866
+| garums_latvijā    = 
+| iztekas_augstums  = 634 
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 574
+| caurtece_vieta    = 
+| gada_notece       = 18,3
+| baseins           = 118 861
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d=49 | sāk_plat_m=36 | sāk_plat_s=48 | sāk_plat_NS=N
+| sāk_gar_d=17 | sāk_gar_m=31 | sāk_gar_s=15 | sāk_gar_EW=E 
+| iet_plat_d=53 | iet_plat_m=40 | iet_plat_s=12 | iet_plat_NS=N 
+| iet_gar_d=14 | iet_gar_m=31 | iet_gar_s=55 | iet_gar_EW=E
+}}
+'''Odera''', '''Odra''' ([[poļu valoda|poļu]] un [[čehu valoda|čehu]] — ''Odra'', [[vācu valoda|vācu]] — ''Oder'') ir upe [[Eiropa|Eiropā]], [[Polija]]s otrā lielākā upe. Sākas [[Morāvija|Morāvijā]] — Odras kalnos. Augštecē izteikta kalnu upe (Čehijas daļā — 438 m kritums 136 km garā posmā), bet Polijā kļūst par līdzenumu upi. Tek cauri [[Silēzija|Lejassilēzijai]], pēc tam 176 kilometrus ir Polijas un Vācijas robežupe, daļa no [[Oderas-Neises līnija]]s. Grīvā sadalās vairākās attekās.
+
+== Lielākās pietekas ==
+* [[Bobra]] (''Bóbr'') — gar. 272 km — kreisais krasts
+* [[Neise]] (''Nysa Łużycka'') — gar. 252 km — kreisais krasts
+* [[Varta]] (''Warta'') — gar. 808 km — labais krasts
+* [[Ina (upe)|Ina]] (''Ina'') — gar. 129 km — labais krasts
+
+== Lielākās pilsētas Odras krastos ==
+* [[Ostrava]] (''Ostrava'') — [[Čehija|Čehijā]]
+* [[Raciboža]] (''Racibórz'') — [[Polija|Polijā]]
+* [[Kendzežina-Kozle]] (Kędzierzyn-Koźle) — [[Polija|Polijā]]
+* [[Opole]] (''Opole'') — [[Polija|Polijā]]
+* [[Vroclava]] (''Wrocław'') — [[Polija|Polijā]]
+* [[Glogova]] (''Głogów'') — [[Polija|Polijā]]
+* [[Frankfurte pie Oderas]] (''Frankfurt an der Oder'') — [[Vācija|Vācijā]]
+* [[Ščecina]] (''Szczecin'') — [[Polija|Polijā]]
+
+== Kanāli ==
+* Bidgoščas kanāls (24,7 km) un Gļivices kanāls (41,6 km) savieno '''Odru''' ar [[Visla]]s baseinu,
+* Odras — Šprē kanāls (84 km) savieno '''Odru''' ar [[Elba]]s baseinu
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Čehijas upes]]
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Baltijas jūras baseina upes]]
+[[Kategorija:Odera]]
+[[Kategorija:Morāvijas-Silēzijas apgabals]]
+[[Kategorija:Olomoucas apgabals]]
+[[Kategorija:Lejassilēzijas vojevodiste]]
+[[Kategorija:Lubušas vojevodiste]]
+[[Kategorija:Opoles vojevodiste]]
+[[Kategorija:Silēzijas vojevodiste]]
+[[Kategorija:Rietumpomožes vojevodiste]]
+[[Kategorija:Brandenburga]]
+[[Kategorija:Mēklenburga-Priekšpomerānija]]

@@ -1,0 +1,51 @@
+{{Infobox settlement
+|name = Konakri
+|official_name = ''Conakry''<br />''Kɔnakiri''
+|settlement_type = pilsēta
+|image_skyline = Conakry.jpg
+|image_caption = Konakri, Gvineja
+|pushpin_map = Gvineja
+|mapsize = 
+|map_caption = Konakri atrašanās vieta Gvinejā
+|coordinates_region = GN
+|subdivision_type = [[Pasaules valstis|Valsts]]
+|subdivision_name = {{GIN}}
+|subdivision_type1 = [[Gvinejas reģioni]]
+|subdivision_name1 = [[Konakri reģions]]
+|established_title = Dibināta
+|established_date = 1884
+|leader_title =
+|leader_name =
+|area_magnitude =
+|area_total =
+|area_land =
+|area_water =
+|population_as_of = 2008
+|population_total = 1,931,184
+|population_footnotes = <ref>{{Tīmekļa atsauce |url=http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&des=wg&srt=npan&col=adhoq&msz=1500&geo=-1560 |title=Arhivēta kopija |access-date={{dat|2012|12|16||bez}} |archiveurl=https://archive.today/20121216153731/http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&des=wg&srt=npan&col=adhoq&msz=1500&geo=-1560 |archivedate={{dat|2012|12|16||bez}} }} {{Webarchive|url=https://archive.today/20121216153731/http://www.world-gazetteer.com/wg.php?x=&men=gpro&lng=en&des=wg&srt=npan&col=adhoq&msz=1500&geo=-1560 |date={{dat|2012|12|16||bez}} }}</ref>
+|timezone = [[Centrāleiropas laiks|CET]]
+|utc_offset = +1
+|timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+|utc_offset_DST = +1
+|latd=9|latm=31|lats=|latNS=N
+|longd=13|longm=42|longs=|longEW=W
+|website =
+|footnotes =
+}}
+
+'''Konakri''' ({{val-fr|Conakry}}) ir [[Gvineja]]s [[galvaspilsēta]] un lielākā pilsēta valstī. Tā ir ostas pilsēta Atlantijas okeāna krastā un ir [[Gvineja]]s ekonomikas, finanšu un kultūras centrs. 2009. gadā pilsētas iedzīvotāju skaits bija 1 548 500.<ref name="citypop">http://www.citypopulation.de/Guinea.html (2009. gada novērtējums)</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika-aizmetnis}}
+{{Āfrikas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Gvinejas pilsētas]]
+[[Kategorija:Āfrikas galvaspilsētas]]

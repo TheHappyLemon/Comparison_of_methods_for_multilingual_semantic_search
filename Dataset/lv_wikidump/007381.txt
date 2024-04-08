@@ -1,0 +1,183 @@
+{{Latvijas novada infokaste
+| nosaukums         = Balvu pagasts
+| karte             = Balvu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Naudaskalns
+| platība           = 82,64
+| iedzīvotāji       = 695<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2017
+| blīvums           = {{#expr: 786 / 82.64 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Balvu pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām tā vidienē. Robežojas ar sava novada [[Balvi|Balvu]] pilsētu, [[Kubulu pagasts|Kubulu]], [[Bērzkalnes pagasts|Bērzkalnes]] un [[Rugāju pagasts|Rugāju]] pagastiem. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Cepures kalns]].
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+[[Dūrupe (Bolupes pieteka)|Dūrupe]], [[Kārnīte]], [[Teterupe]], [[Vārniene]], [[Žaugupe]].
+
+==== Purvi ====
+[[Naudišovas pūrs]].
+
+== Vēsture ==
+Pēc [[1920. gada agrārā reforma|1920. gada agrārās reformas]] [[Balvu muiža]] sadalīta 1306 vienībās ar kopplatību 14 602 ha.<ref>Latviešu konversācijas vārdnīcas I. sējuma 1744-21745 slejas. Rīga: 1927.-1928.</ref> 
+1935. gadā [[Jaunlatgales apriņķis|Jaunlatgales apriņķa]] Balvu pagasta platība bija 445,6 km² un tajā dzīvoja {{nobr|11 038}} iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Balvu, [[Celmeņu ciems|Celmeņu]], [[Dekšņu ciems|Dekšņu]], [[Kubuļu ciems|Kubuļu]], [[Ploskenas ciems|Ploskenas]], [[Silamalas ciems|Silamalas]] un [[Vistusalas ciems|Vistusalas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Balvu rajons|Balvu rajona]] '''Balvu ciemam''' 1954. gadā pievienoja likvidētos Silamalas un [[Medņu ciems|Medņu]] ciemus, bet [[kolhozs|kolhoza]] «Strana Sovetov» teritoriju pievienoja Ploskenas ciemam. 1961. gadā Balvu ciemam pievienoja Kubuļu un Ploskenas ciemu [[padomju saimniecība]]s «Balvi» teritoriju. 1966. gadā daļu padomju saimniecības «Balvi» teritorijas pievienoja Kubuļu ciemam. 1977. gadā pievienoja daļu [[Rugāju ciems|Rugāju ciema]] teritorijas, bet daļu Rugāju un Ploskenas ciemu teritorijas pievienoja Balvu ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Balvu pagastu kā administratīvo teritoriju iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Pieminekļi ===
+* Nr. 240.: Lācupes viduslaiku kapsēta (Kara kapi) - Lācupē pie Biseniekiem,	
+* Nr. 241.: [[Cepures kalns]] (kulta vieta) - Pilskalna kapos,	
+* Nr. 242.: [[Pilskalns (pilskalns Balvu pagastā)|Pilskalns]] - Pilskalnos pie Sarkaņiem.<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSB datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 CSB]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2070
+|1959|1450
+|1965|1250
+|1979|1124
+|1989|845
+|2000|871
+|2010|695
+|2021|627
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Naudaskalns]]''' (pagasta centrs), [[Āžudambis]], [[Centramuiža]], [[Dūrupe (ciems)|Dūrupe]], [[Dzeņulauza]], [[Kārklinieki]], [[Lācupe (ciems)|Lācupe]], [[Lāčugabali]], [[Lemešava (Balvu pagasts)|Lemešava]], [[Mēķi]], [[Ozolsala (Balvu pagasts)|Ozolsala]], [[Pilskalns (Balvu pagasts)|Pilskalns]], [[Plītinava]], [[Reči (Balvu pagasts)|Reči]], [[Silamala (Balvu pagasts)|Silamala]], [[Vaņki]], [[Verpuļeva]].
+
+{| class="wikitable"
+!Ciema nosaukums
+!Iedzīvotāju skaits
+!Gads
+|-
+|Āžudambis
+|26
+|2015
+|-
+|Centramuiža
+|63
+|2015
+|-
+|Dobenieki
+|8
+|2015
+|-
+|Dūrupe
+|21
+|2015
+|-
+|Dzeņulauza
+|22
+|2015
+|-
+|Kārklinieki
+|12
+|2015
+|-
+|Keņi
+|9
+|2015
+|-
+|Lācupe
+|27
+|2015
+|-
+|Lāčugabali
+|5
+|2015
+|-
+|Lemešava
+|25
+|2015
+|-
+|Meķi
+|21
+|2015
+|-
+|Naudaskalns
+|174
+|2015
+|-
+|Ozolsala
+|13
+|2015
+|-
+|Pilskalns
+|13
+|2015
+|-
+|Plītinava
+|28
+|2015
+|-
+|Rāvusala
+|1
+|2015
+|-
+|Reči
+|18
+|2015
+|-
+|Salmaņi
+|19
+|2015
+|-
+|Silamala
+|12
+|2015
+|-
+|Stepjugabali
+|22
+|2015
+|-
+|Vaņķi
+|26
+|2015
+|-
+|Verpuļova
+|125
+|2015
+|-
+|Žaugupe
+|24
+|2015
+|}
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Balvu rajons}}
+{{Abrenes apriņķis}}
+}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Balvu pagasts| ]]

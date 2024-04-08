@@ -1,0 +1,75 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Limerika
+  | official_name              = ''Limerick''
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = Limerickcitycollage3.jpg
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_shield             = IRL COA Limerick.svg
+  | pushpin_map              = Īrija
+  | pushpin_label_position   = 
+  | latd  = 52.6653  | latm  =   | lats  =   | latNS  = 
+  | longd = -8.6238  | longm =   | longs =   | longEW = 
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Īrija}}'''
+  | subdivision_type1        = Province
+  | subdivision_name1        = [[Manstera]]
+  | subdivision_type2        = Grāfiste
+  | subdivision_name2        = [[Limerikas grāfiste]]
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 59.2
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 10
+  | population_footnotes     = 
+  | population_total         = 94192
+  | population_as_of         = {{dat|2016|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = [[Rietumeiropas laiks|WET]]
+  | utc_offset               = +0
+  | timezone_DST             = [[Rietumeiropas vasaras laiks|WEST]]
+  | utc_offset_DST           = +1
+  | area_code                = 
+  | website                  = 
+  | footnotes                = 
+}}
+'''Limerika''' ({{val|en|Limerick}}, {{val|ga|Luimneach}}) ir trešā lielākā [[Īrija]]s pilsēta pēc iedzīvotāju skaita, [[Limerikas grāfiste]]s centrs. Atrodas Īrijas dienviddaļā pie [[Šenona]]s upes, netālu no Šenonas līča.
+
+Netālu no Limerikas atrodas [[Šenonas starptautiskā lidosta]].
+
+== Vēsture ==
+
+Limeriku 812. gadā nodibināja [[vikingi]] šeit izveidojot apmetni. 1195. gadā [[normāņi]] [[Karalis Džons|karaļa Džona]] vadībā ieņēma Limeriku. Ap 1200. gadu tika pabeigta Limerikas pils būvniecība.
+
+1642. gadā Limeriku pārņēma [[Īrijas Konfederācija|īru konfederāti]], tomēr 1651. gadā [[Olivers Kromvels|Olivera Kromvela]] spēki ieņēma pilsētu. 1691. gadā šeit tiek noslēgts [[Limerikas miera līgums]].
+
+Tāpat kā pārējā Īrija, Limerika smagi cieta [[Kartupeļu bads|kartupeļu bada]] laikā XIX gadsimta vidū.
+
+Izvēršoties neatkarības cīņām, angļu varas iestādes 1919. gadā Limeriku pasludināja par īpašu militāro zonu, kurā ieeja un izeja atļauta tikai ar caurlaidēm. 1920. gada aprīlī pilsētā izcēlās sadursmes starp iedzīvotājiem un britu katraspēku. 1921. gada 6. martā britu paramilitārās grupas naktī nogalināja pilsētas mēru un tā sievu. [[Īrijas pilsoņu karš|Īrijas pilsoņu kara]] laikā 1921. gadā Limerikā notika ielu cīņas.
+
+Pēckara gados Limerikas reģions bija viens no visnelabvēlīgākajiem un nabadzīgākajiem valstī. Tomēr Īrijas ekonomikas uzplaukums XX gadsimta 90. gados ([[Ķeltu tīģeris]]), nodrošināja strauju ekonomisko uzplaukumu, sevišķi transportā un informācijas tehnoloģiju sektorā.
+
+== Cilvēki ==
+
+Limerikā dzimuši:
+
+* [[Elizabete Anskomba]] (''G. E. M. Anscombe'') (1919-2001) - filozofe
+* ''[[Aphex Twin]]'' (1971-) - elektroniskās mūzikas autors
+* [[Ričards Heriss]] (''Richard Harris'') (1930-2002) - aktieris
+* [[Fergus Lolers]] ( ''Fergus Lawler'') - the Cranberies bundzinieks
+* [[Maikls Higinss]] (īru: Micheál D. Ó hUigínn; 1941) - īru politiķis, dzejnieks, rakstnieks un diktors
+
+== Ārējās saites ==
+* [http://www.limerick.ie/council Limerick City and County Council]
+* [http://www.limerick.ie/ Official Limerick City Website]
+* [http://www.limerickcity.ie/Library/LocalStudies/ Various online history resources from Limerick City Library] 
+{{autoritatīvā vadība}}
+{{Vikingu pilsētas}}
+
+[[Kategorija:Īrijas pilsētas]]

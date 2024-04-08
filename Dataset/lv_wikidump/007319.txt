@@ -1,0 +1,100 @@
+{{Latvijas novada infokaste
+| nosaukums         = Sunākstes pagasts
+| karte             = Sunākstes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Sunākste
+| centrs2           = <!-- izmantot konstrukcijām [[Ērgļi (Brunavas pagasts)|Ērgļi]] -->
+| platība           = 109,14
+| iedzīvotāji       = 521<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 521 / 109.14 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Sunākstes pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā dienvidaustrumos. Robežojas ar sava novada [[Seces pagasts|Seces]] un [[Staburaga pagasts|Staburaga]] pagastiem, kā arī ar [[Jēkabpils novads|Jēkabpils novada]] [[Sēlpils pagasts|Sēlpils]] un [[Viesītes pagasts|Viesītes]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Lauce]], [[Pikstere]], [[Sunīte]], [[Viesīte (upe)|Viesīte]].
+
+Ūdenstilpes: [[Šķinu purva dīķis]], [[Mazsunākstes ezers]].
+
+== Vēsture ==
+[[Attēls:Sunākstes pagasta pašvaldība 1890.JPG|thumb|250px|Sunākstes pagasta nams 1890. gadā. Uz kāpnēm sēž pagasta vecākais Juris Orle (1844-1912).]]
+Sunākstes pagasta teritorijā zināmi divi senču [[pilskalns|pilskalni]]: Grubeles kalns (34 m augsts) pie Gausānu mājām un [[Zilais kalns]] (20 m augsts) pie Piksteres. 
+Līdz Latvijas 1920. gada agrārajai reformai tagadējā Sunākstes pagasta teritorijā atradās Lielsunākstes (''Groβ-Sonnaxt''), Mazsunākstes (''Klein-Sonnaxt'') un Piksteres (''Pixstern'') [[Jēkabpils apriņķa muižu nosaukumi|muižas]], kā arī Pēterbušas pusmuiža.
+Lielsunākstes muiža (556 ha) tika sadalīta 48, Mazsunākstes muiža (540 ha) - 31, un Piksteres muiža (394 ha) - 41, Sunākstes mācītājmuiža (597 ha) - 31 jaunsaimniecībās.<ref>Latviešu Konversācijas vārdnīcas 21.sējums, 41175 sleja</ref>
+
+1935. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Sunākstes pagasta platība bija 136,3 km² un tajā dzīvoja 1965 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Sunākstes un [[Zilkalnes ciems|Zilkalnes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Sunākstes ciems''' ietilpis [[Jēkabpils rajons|Jēkabpils]] (1949-1967) un [[Aizkraukles rajons|Aizkraukles (Stučkas)]] (pēc 1967. gada) rajonos. 1954. gadā Sunākstes ciemam pievienoja likvidēto Zilkalnes ciemu.<ref>{{Latvijas PSR iedalījums}}</ref>
+
+1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Sunākstes pagastu kā administratīvo teritoriju iekļāva [[Jaunjelgavas novads|Jaunjelgavas novadā]], bet pēc 2021. gada administratīvi teritoriālās reformas tas nonāca [[Aizkraukles novads|Aizkraukles novadā]].
+
+[[Attēls:Sunakstes skola.JPG|thumb|250px|Sunākstes skola]]
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi:
+* nr. 135.: Ciršu senkapi pie Ciršiem
+* nr. 136.: Mazlāču senkapi pie Mazlāčiem
+* nr. 137.: [[Zilais kalns]] (pilskalns) - pie Rožkalniem<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1700
+|1959|1100
+|1967|971
+|1979|698
+|1989|643
+|2000|621
+|2011|466
+|2021|367
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Sunākste]]''' (pagasta centrs), [[Lielsunākste]], [[Mazsunākste]], [[Pikslauki]], [[Zilkalne]].
+
+=== Ievērojamas personības ===
+* [[Gothards Frīdrihs Stenders]] (1714—1796), saukts par „Veco Stenderu" - luterāņu teologs un apgaismotājs, [[Vecsēlpils|Sēlpils]] un [[Sunākste]]s draudžu mācītājs, latviešu laicīgās rakstniecības aizsācējs (mūsdienās [[Sunākstes Evaņģēliski luteriskā baznīca]], kurā darbojās Vecais Stenders, atrodas [[Viesītes pagasts|Viesītes pagasta]] teritorijā).
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.sunakste.lv/ Sunākstes pamatskola] {{Webarchive|url=https://web.archive.org/web/20110722162909/http://www.sunakste.lv/ |date={{dat|2011|07|22||bez}} }}
+* [http://www.latvijas-pilskalni.lv/piksteres-zilais-kalns/ Piksteres Zilais kalns]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Jaunjelgavas novads}}
+{{Aizkraukles rajons}}
+{{Jēkabpils apriņķis}}
+}}
+
+{{DEFAULTSORT:Sunakstes pagasts}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Sunākstes pagasts| ]]

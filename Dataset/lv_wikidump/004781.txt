@@ -1,0 +1,73 @@
+{{Personas infokaste
+|        platums = 
+|          vārds = Volfgangs fon Kempelens
+|     vārds_orig = ''Wolfgang von Kempelen''
+|         attēls = Kempelen Farkas cikk Pesti Hírlap Vasárnapja 1930 dec14 portrait.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1734
+|     dz_mēnesis = 1
+|       dz_diena = 23
+|       dz_vieta = [[Presburga]], [[Ungārijas karaliste]]<br/>({{SVK}})
+|      m_dat_alt = 
+|         m_gads = 1804
+|      m_mēnesis = 03
+|        m_diena = 26
+|        m_vieta = [[Vīne]], [[Austrijas impērija]]<br/>({{AUT}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|   nodarbošanās = [[izgudrotājs]]
+|       ienākumi = 
+|  darbības_gadi = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|       piezīmes = 
+|    kategorijas = nē
+|    citas daļas = 
+{{Inženiera infodaļa
+|     inž_nosauk = Izgudrotāja
+|         nozare = 
+|   darba_vietas =
+|      izglītība = 
+|       projekti =
+|    izgudrojumi = Mehāniskais turks
+|     sasniegumi =
+|    apbalvojumi = 
+|       piezīmes =   
+}}
+}}
+
+'''Volfgangs fon Kempelens''' ({{val|de|Wolfgang von Kempelen}}, dzimis {{dat|1734|1|23}}, miris {{dat|1804|3|26}}) bija [[Austrija|austriešu]] izgudrotājs. Šaha spēles automāta un balss sintēzes mehāniskā aparāta autors.
+
+Izgudrojis vairākas mehāniskas ierīces, no kurām pazīstamākā bija mehāniskais turks - šaha spēles automāts, kurš izraisīja ažiotāžu tā laika Eiropā. Ar automātu dažādos laikos spēlējuši - [[Bendžamins Franklins]], [[Frīdrihs II Lielais|Frīdrihs Lielais]], [[Napoleons]], [[Čārlzs Bebidžs]]. 
+Vēlāk izrādījies, ka aparāta iekšienē esot sēdējis cilvēks, kurš vadījis spēli, t.i. tā bijusi blēdība.
+
+Pēc "šaha automāta" izgudrošanas, turpmākos 20 gadus Kempelens nodarbojās ar mehāniskā balss sintezatora izgatavošanu, pulbicējot izdevumu ''Mechanismus der menschlichen Sprache nebst Beschreibung einer sprechenden Maschine''.
+
+<gallery>
+Tuerkischer schachspieler windisch4.jpg|Mehāniskais turks
+Kempelen Speakingmachine.JPG|Kempelena balss sintezatora mūsdienu replika
+</gallery>
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Cilvēks-aizmetnis}}
+{{šahs-aizmetnis}}
+
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Kempelens, Volfgangs fon}}
+[[Kategorija:1734. gadā dzimušie]]
+[[Kategorija:1804. gadā mirušie]]
+[[Kategorija:Bratislavā dzimušie]]
+[[Kategorija:Slovākijas vācieši]]
+[[Kategorija:Austriešu izgudrotāji]]

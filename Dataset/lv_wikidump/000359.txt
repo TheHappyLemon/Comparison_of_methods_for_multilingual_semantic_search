@@ -1,0 +1,184 @@
+{{Valsts infokaste
+|   pilnais_valsts_nosaukums = Etiopijas Federatīvā Demokrātiskā Republika
+|        vietējais_nosaukums = የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ<br />''<small>ye-Ītyōṗṗyā Fēdēralāwī Dīmōkrāsīyāwī Rīpeblīk</small>''
+|           valsts_nosaukums = Etiopija
+|           karoga_nosaukums = Etiopijas karogs
+|              karoga_attēls = Flag of Ethiopia.svg
+|          ģerboņa_nosaukums = Etiopijas ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls = Coat of arms of Ethiopia.svg
+|              kartes_attēls = Ethiopia (Africa orthographic projection).svg
+|               valsts_himna = ''Wodefit Gesgeshi, Widd Innat Ityopp'ya''<br /><center>[[Attēls:Wedefit Gesgeshi Widd Innat Ittyoppya.ogg]]</center>
+|             valsts_valodas = [[Amharu valoda]]<ref name=Constitution>{{tīmekļa atsauce|title=Article 5|url=http://www.apapeth.org/Docs/constitution%20-english.pdf|work=Ethiopian Constitution|publisher=FDRE|accessdate=18 January 2013|archiveurl=https://web.archive.org/web/20130929013156/http://www.apapeth.org/Docs/constitution%20-english.pdf|archivedate=2013-09-29}}</ref>
+|regional_languages = 
+|              galvaspilsēta = [[Adisabeba]]
+|latd=9 |latm=1.8 |latNS=N |longd=38 |longm=44.4 |longEW=E
+|            lielākā_pilsēta = galvaspilsēta
+|             valsts_iekārta = Federāla [[parlamentāra republika]]
+|       valsts_galvas_tituls = Prezidents
+|               valsts_galva = [[Sahlevorka Zevde]]
+|      valsts_galvas_tituls2 = Premjerministrs
+|              valsts_galva2 = [[Abijs Ahmeds]]
+|       neatkarības_iegūšana = Dibināta
+|       neatkarības_notikums = ''[[Dʿmt]]''
+|         neatkarības_datums = apmēram 980. gads {{small|p.m.ē.}}
+|      neatkarības_notikums2 = [[Aksumas valsts]]
+|        neatkarības_datums2 = apmēram 100. gads {{small|m.ē.}}
+|      neatkarības_notikums3 = [[Etiopijas impērija]] (Abesīnija)
+|        neatkarības_datums3 = 1137
+|      neatkarības_notikums4 = Atjaunota suverinitāte
+|        neatkarības_datums4 = 1944
+|      neatkarības_notikums5 = Pašreizējā konstitūcija
+|        neatkarības_datums5 = 1995. gada augusts
+|              platība_rangs = 27.
+|                platība_km2 = 1 104 300
+|             procenti_ūdens = 0,7
+|         iedzīvotāju_skaits = 91 195 675<ref name=CIA>{{tīmekļa atsauce|title=Ethiopia|url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html|work=The World Factbook|publisher=CIA|accessdate=18 January 2013|archive-date={{dat|2018|12|24||bez}}|archive-url=https://web.archive.org/web/20181224211140/https://www.cia.gov/library/publications/the-world-factbook/geos/et.html}}</ref>
+|    iedzīvotāju_skaita_gads = 2012
+|   iedzīvotāju_skaits_rangs = 13.
+|population_census = 93877025
+|population_census_year = 2013
+|   apdzīvotības_blīvums_km2 = 82,58
+| apdzīvotības_blīvums_rangs = 123.
+|               IKP_PPP_gads = 2012
+|                    IKP_PPP = $103,1 miljardi <ref>{{tīmekļa atsauce|title=The World Factbook|url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html|publisher=CIA Factbook|accessdate=20 February 2013|archive-date={{dat|2018|12|24||bez}}|archive-url=https://web.archive.org/web/20181224211140/https://www.cia.gov/library/publications/the-world-factbook/geos/et.html}}</ref> 
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $1200 <ref>{{tīmekļa atsauce|title=CIA The World Factbook|url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html|publisher=CIA Factbook|accessdate=20 February 2013|archive-date={{dat|2018|12|24||bez}}|archive-url=https://web.archive.org/web/20181224211140/https://www.cia.gov/library/publications/the-world-factbook/geos/et.html}}</ref> 
+|   IKP_PPP_per_capita_rangs = 
+|GDP_nominal = $40,5 miljardi<ref name="sudantribune.com">{{ziņu atsauce|title=Ethiopia records double-digit economic growth under GTP|url=http://www.sudantribune.com/spip.php?article45425|accessdate=06 February 2013|newspaper=Sudāna Tribune|date=20 February 2013|archive-date={{dat|2013|03|20||bez}}|archive-url=https://web.archive.org/web/20130320020119/http://www.sudantribune.com/spip.php?article45425}}</ref> 
+|GDP_nominal_year = 2012<ref name="sudantribune.com"/> 
+|GDP_nominal_per_capita = $513<ref name="sudantribune.com"/> 
+|                  Gini_gads = 1999&ndash;2000
+|Gini_change =  <!--increase/decrease/steady-->
+|                       Gini = 30
+|Gini_ref = <ref name=UNU>{{tīmekļa atsauce|title=World Income Inequality Database|url=http://www.wider.unu.edu/research/Database/en_GB/wiid/_files/79789834673192984/default/WIID2C.xls|publisher=[http://www.wider.unu.edu/home/en_GB/index/ UNU‐WIDER]|accessdate=18 January 2013|archiveurl=https://web.archive.org/web/20120430210618/http://www.wider.unu.edu/research/Database/en_GB/wiid/_files/79789834673192984/default/WIID2C.xls|archivedate={{dat|2012|04|30||bez}}}}</ref> 
+|                 Gini_rangs = 
+|                   HDI_gads = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,363 <!--number only-->
+|                  HDI_rangs = 174.
+|HDI_ref = <ref name=HDI>{{tīmekļa atsauce|title=Summary|url=http://hdr.undp.org/en/media/HDR_2011_EN_Summary.pdf|work=Human Development Report 2011|publisher=UNDP|accessdate=18 January 2013}}</ref> 
+|FSI = {{nowrap|95,3 {{palielinājās}} 3,4}}
+|FSI_year = 2007
+|FSI_rank = 18.
+|FSI_category = <span style="color:red;white-space:nowrap;">Alert</span>
+|                     valūta = [[Etiopijas birs|Birs]]
+|               valūtas_kods = ETB
+|country_code = ETH
+|                 laika_zona = [[EAT]]
+|                 utc_offset = +3
+|             laika_zona_DST = nav
+|             utc_offset_DST = +3
+|drives_on = right
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 251
+|                     domēns = [[.et]]
+}}
+'''Etiopija''' jeb oficiāli '''Etiopijas Federatīvā Demokrātiskā Republika''' ir valsts Austrumāfrikā. Etiopija ir 27. lielākā valsts pasaulē, izmēra ziņā apmēram tikpat liela kā [[Bolīvija]]. Pēc iedzīvotāju skaita trešā lielākā valsts [[Āfrika|Āfrikā]], 13. lielākā valsts pasaulē. Robežojas ar [[Eritreja|Eritreju]] — ziemeļos, [[Džibutija|Džibutiju]] — ziemeļaustrumos, [[Somālija|Somāliju]] — austrumos un dienvidaustrumos, [[Kenija|Keniju]] — dienvidos, [[Sudāna|Sudānu]] un [[Dienvidsudāna|Dienvidsudānu]] — rietumos.
+
+Etiopija ir vecākā [[kristietība|kristīgā]] valsts Āfrikā un viena no vecākajām valstīm pasaulē. Tiek uzskatīts, ka Etiopija ir viena no pirmajām cilvēku izcelsmes vietām pasaulē.<ref>[http://www.nature.com/news/2005/050214/full/news050214-10.ht]{{dead link|date=October 2015}}</ref>
+Etiopija bija viena no [[Nāciju Līga]]s loceklēm, pārdzīvoja fašistiskās [[Itālija]]s militāru [[okupācija|okupāciju]] no 1936. līdz 1941. gadam, bet netika kolonizēta. 
+
+1993. gadā referendumā nobalsoja par [[Eritreja]]s atdalīšanos no Etiopijas, tādā veidā Etiopija zaudēja izeju pie jūras. 
+
+Etiopija darbojas dažādās starptautiskajās organizācijās — tā ir viena no pirmajām [[Apvienoto Nāciju Organizācija|ANO]] loceklēm un dibinātājvalstīm un [[Āfrikas savienība]]s dibinātājlocekle, [[BRICS]] locekle.
+
+== Vēsture ==
+
+[[Austrumāfrika]] un Etiopija tiek uzskatīta par cilvēku izcelsmes vietu, kur pirms vairāk nekā 160 000 gadiem ir radies [[Homo sapiens]].<ref>http://www.nature.com/nature/journal/v423/n6941/full/nature01669.html</ref> Ap 8. gadsimtu pirms mūsu ēras ziemeļu Etiopijas (Tigrajas) un [[Eritreja]]s teritorijā izveidojās Damotas (D'mt; ደዐመተ) valsts ar galvaspilsētu Jehu. 4. gadsimtā pirms mūsu ēras šī valsts sabruka un m.ē. 1. gadsimtā tās vietā izveidojās [[Aksumas valsts]] (ap 100–940), kuras austrumu daļa mūsdienu [[Jemena]]s teritorijā. Par Aksumas valsts reliģiju m. ē. 324. gadā kļuva [[kristietība]] un tā bija otrā kristiešu valsts pasaulē aiz [[Armēnija]]s.<ref>{{tīmekļa atsauce|url=http://books.google.lv/books?id=3Un6_LGIEyQC&pg=PA171&redir_esc=y#v=onepage&q&f=false |title=The History of Ethiopia — Saheed A. Adejumobi — Google grâmatas |publisher=Books.google.lv |date= |accessdate=2015-10-28}}</ref>
+
+1270. gadā izveidojās [[Etiopijas impērija]], kas tika dēvēta arī par Abesīniju.
+1624. gadā [[jezuīti|jezuītu]] misionāri centās valstī ieviest [[katoļticība|katoļticību]]. Imperators Susenjoss I pārgāja katoļticībā, taču viņa dēls Fasilidess pēc iedzīvotāju sacelšanās atkal pasludināja pareizticību par valsts reliģiju un izraidīja jezuītu misionārus un eiropiešus no Etiopijas.
+1889. gadā sāka valdīt imperators Maneliks II, kurš līdz savai nāvei 1913. gadā paplašināja valsts teritoriju līdz tādai, kāda ir mūsdienās, būvēja ceļus, sāka ražot elektroenerģiju, izveidoja skolas, izveidoja nodokļu sistēmu un sāka būvēt jauno Etiopijas galvaspilsētu [[Adisabeba|Adisabebu]].
+Etiopijas neatkarību pārtrauca Otrais Itālijas—Etiopijas karš un [[fašisms|fašistiskās]] Itālijas okupācija, kas ilga no 1936. līdz 1941. gadam. Pēc Itālijas iestāšanās [[Otrais pasaules karš|Otrajā pasaules karā]] briti kopā ar Etiopijas cīnītājiem panāca Itālijas karaspēka padzīšanu no Etiopijas, lai gan līdz 1943. gadam notika īslaicīgi Itālijas partizānu uzbrukumi. Tam sekoja pilnīga Etiopijas suverenitātes atzīšana no britu puses.
+1942. gada 26. augustā Etiopijā izdeva likumu, kas aizliedz verdzību. 20. gadsimta sākumā no 11 miljoniem iedzīvotāju apmēram četri miljoni bija vergi.<ref>{{tīmekļa atsauce|url=http://books.google.lv/books?id=Jgm69dJt4DcC&pg=PA219&redir_esc=y#v=onepage&q&f=false |title=Women and Slavery: Africa, the Indian Ocean world, and the medieval north ... — Gwyn Campbell, Suzanne Miers, Joseph Calder Miller — Google grâmatas |publisher=Books.google.lv |date= |accessdate=2015-10-28}}</ref>
+
+1974. gada 12. septembrī marksisma—ļeņinisma atbalstītāji ar [[Padomju Savienība|PSRS]] atbalstu gāza Etiopijas valdību. Jaunā Pagaidu Militārā Administratīvā padome izveidoja vienpusīgu [[komunisms|komunistisku]] valsti, kuru nosauca par Etiopijas Tautas Demokrātisko Republiku. Iedzīvotāji neatbalstīja pastāvošo režīmu, sākās plaša mēroga sacelšanās un cilvēku izbraukšana. Pēc iedzīvotāju sacelšanās 1990. gadā Padomju Savienība pārtrauca atbalstīt Etiopijas komunistu režīmu.
+
+1993. gadā notika referendums, kura laikā tika nobalsots par [[Eritreja]]s atdalīšanos no Etiopijas. No tā laika Etiopijai nav savas jūras robežas.
+
+1994. gadā tika pieņemta Etiopijas [[konstitūcija]] un 1995. gada maijā notika pirmās oficiālās daudzpartiju vēlēšanas.
+
+1998. gada maijā robežu strīds ar Eritreju noveda pie Eritrejas un Etiopijas kara, kas ilga līdz 2000. gada jūnijam. Karš abām valstīm izmaksāja apmēram 1 miljonu <!-- naudas vienība?? --> dienā.<ref>{{tīmekļa atsauce|url=http://news.bbc.co.uk/2/hi/africa/750789.stm |title=AFRICA &#124; Will arms ban slow war? |publisher=BBC News |date=2000-05-18 |accessdate=2015-10-28}}</ref> Kara sekas joprojām ietekmē Etiopijas ekonomiku.
+
+2011. gada vasarā Etiopija piedzīvoja lielāko sausumu 60 gadu laikā.
+2020. gada novembrī Etiopijas ziemeļos sākās [[Tigrajas karš]].
+
+== Ģeogrāfija ==
+[[Attēls:Ethiopia sat.png|left|thumb|250x250px|Etiopijas satelītuzņēmums]]
+Etiopija ir pēc platības 27. lielākā valsts pasaulē. Lielākā daļa Etiopijas atrodas [[Āfrikas rags|Āfrikas ragā]], Austrumāfrikā. Lai gan tā atrodas uz raga, Etiopijai nav robežas ar jūru vai okeānu. 40% no Etiopijas platības aizņem ganību lauki, 25% meži, 12% aramzemes, 1% ilggadīgi kultūraugi, bet 22% citas zemes.
+
+Kopējās sauszemes robeža ir 5 311 kilometrus gara un tā robežojas ar sešām valstīm. Robežas garums ar [[Sudāna|Sudānu]] — 723 kilometri, [[Dienvidsudāna|Dienvidsudānu]] — 883 kilometri, [[Somālija|Somāliju]] — 1 623 kilometri, [[Kenija|Keniju]] — 830 kilometri, [[Eritreja|Eritreju]] — 912 kilometri un [[Džibutija|Džibutiju]] — 337 kilometri.
+
+Etiopijai ir daudzveidīgs reljefs — kalni, tuksnesis, stepe, ielejas un zemienes. Daudzveidīgais reljefs ietekmē katra reģiona klimatu, augsnes un augu daudzveidību. Gar austrumu robežu stiepjas tuksneši, gar dienvidu robežu tropu meži, bet ziemeļu un dienvidaustrumu daļā ir kalnaini apvidi.
+
+Augstākais kalns ir Rasdašana kalns, kura augstums sasniedz 4 533 metrus virs jūras līmeņa un tas ir 3. augstākais kalns Āfrikā. Zemākais punkts ir Afara trijstūri, kuri atrodas 125 metrus zem jūras līmeņa.
+=== Klimats ===
+Augstums un ģeogrāfiskais novietojums rada Etiopijā trīs klimatiskās zonas. Vēsā zona atrodas vairāk nekā 2400 metru augstumā ar vidējo temperatūru 16&nbsp;°C un vidējo nokrišņu daudzumu no 1270 līdz 1280 milimetriem. Mērenā zona atrodas kalnos no 1400 līdz 2400 metru augstumam ar vidējo gaisa temperatūru 22&nbsp;°C un vidējo nokrišņu daudzumu no 510 līdz 1530 milimetriem. Karstā zona, kurā galvenokārt dominē tropiem raksturīgais klimats ar karstu, mitru laiku, vidējo temperatūru 27&nbsp;°C un vidējo nokrišņu daudzumu ap 510 milimetriem. [[Danakilas tuksnesis]] ir karstākā vieta Etiopijā, tas atrodas 125 metrus zem jūras līmeņa un vidējā temperatūra sasniedz 50&nbsp;°C.
+
+Vasara ilgst no jūnija līdz augustam, vasarā parasti sākas [[lietus sezona]], kura ilgst no jūnija vidus līdz septembra vidum. Pavasaris ilgst no septembra līdz novembrim, dažkārt tiek saukts arī par ražas sezonu, jo šajā laikā sākas ražas novākšana. Ziema jeb sausuma sezona ilgst no decembra līdz februārim, laika apstākļi lielākoties ir karsti, it īpaši janvārī. Rudens ilgst no marta līdz maijam, dažkārt ar nelieliem nokrišņiem, maijs ir gada karstākais mēnesis.
+
+=== Administratīvais iedalījums ===
+
+Līdz 1996. gadam Etiopija bija sadalīta 13 provincēs, daudzi no tiem izveidoti jau vēsturiski sadalītās provincēs. Kopš 1996. gada Etiopija ir sadalīta deviņos etniskajos un politiskajos reģionos, kas saukti arī par apriņķiem vai štatiem, un divos pilsētas reģionos. Visapdzīvotākais no tiem ir Oromo reģions, kurā dzīvo ap 27 miljoniem iedzīvotāju. Visi reģioni ir sadalīti 68 zonās. Katra zona ir sadalīta vēl mazākos rajonos jeb voredos (kopā 550 rajonos jeb voredos). Reģioni ir tikuši veidoti pēc etniskās un politiskās piederības.
+
+[[Attēls:Ethiopia regions english.png|left|thumb|250px|Etiopijas sadalījums 9 reģionos un 2 pilsētas reģionos.]]
+
+<table><td><ol>
+<li>  [[Adisabebas pilsēta-reģions|Adisabebas pilsēta —reģions]]
+<li> [[Afaras reģions]]
+<li> [[Amharas reģions]]
+<li>  [[Benišangul-Gumuzas reģions|Benišangul —Gumuzas reģions]]
+<li>  [[Diredavas pilsēta-reģions|Diredavas pilsēta —reģions]]
+</ol></td><td><ol start=6>
+<li> [[Gambelas reģions]]
+<li> [[Harares reģions]]
+<li> [[Oromo reģions]]
+<li> [[Somali reģions]]
+<li> [[Dienvidu nāciju un tautību reģions]]
+<li> [[Tigrajas reģions]]
+</ol></td></table>
+
+== Iedzīvotāji ==
+Iedzīvotāju skaits ir pieaudzis no 33,5 miljoniem 1983. gadā līdz 91,1 miljonam 2013. gadā. Pašlaik Etiopijai ir viens no augstākajiem iedzīvotāju pieauguma rādītājiem pasaulē. Tiek prognozēts, ka iedzīvotāju skaits līdz 2060. gadam būs pieaudzis līdz 210 miljoniem. Vidēji gadā iedzīvotāju skaits pieaug ap 2,5%. 
+[[Attēls:Bet Giyorgis church Lalibela 01.jpg|right|thumb|270px|Svētā Georga baznīca Lalibelā, kas ir iekļauta [[UNESCO]] Pasaules mantojuma sarakstā.]]
+Etiopijas populācija ir ļoti daudzveidīga un tā sastāv no vairāk nekā 80 etniskajām grupām. Lielākās etniskās grupas ir oromieši un amari. Iedzīvotāju iedalījums ir oromieši — 34,5%, amari — 26,9%, somālieši — 6,2%, tigravaji — 6,1%, sidami — 4%, guragi — 2,5%, valeiti — 2,3%, hidini — 1,7%, afari — 1,7%, gamoieši — 1,5%, gedeji — 1,3% un citas tautas — 11,3%.
+
+=== Valodas ===
+
+Etiopijā ir 90 valodas, bet 1994. gadā bija 77 valodas. Lielākā daļa valodu pieder [[Afroaziātu valodas|afroaziātu valodu saimei]], kā [[Somāļu valoda|somāļu]] valoda, oromo valoda un amharu valoda. Oficiālā valoda ir amharu valoda, bet reģionu oficiālās valodas ir tigravaju un oromo valoda. Vispopulārākās svešvalodas ir [[Arābu valoda|arābu]] un [[Angļu valoda|angļu]] valoda. Angļu valoda ir galvenā svešvaloda skolās.<ref>{{tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/et.html |title=The World Factbook |publisher=Cia.gov |date= |accessdate=2015-10-28 |archive-date=2018-12-24 |archive-url=https://web.archive.org/web/20181224211140/https://www.cia.gov/library/publications/the-world-factbook/geos/et.html }}</ref>
+
+Pēc 1994. gada datiem, visizplatītākā ir oromo valoda, kurā runā ap 33,8% iedzīvotāju. Otra populārākā ir amharu valoda, kurā runā ap 26,9% iedzīvotāju, somāliešu — 6,2%, tigravaju — 5,9%, sidamu — 4%, valajtigu —2,2%, guragu — 2%, afarignu — 1,7%, hidinu — 1,7%, gomagnu — 1,5% un citas valodas — 14,1%.
+
+=== Reliģija ===
+Saskaņā ar 2007. gada skaitīšanas datiem, kristieši veido 62,8% no valsts iedzīvotājiem, musulmaņi — 33,9%, tradicionālās ticības — 2,6% un citas reliģijas — 0,7%.
+4. gadsimtā Etiopija bija viena no pirmajām valstīm pasaulē, kas oficiāli pieņēma kristietību kā valsts galveno reliģiju. 
+Lielākās kristietības konfesijas Etiopijā ir [[Pareizticība|pareizticīgo baznīca]] un Austrumu pareizticīgā baznīca. Katolisms ir vismazāk izplatītā reliģija Etiopijā, tā sastāda tikai 1% no visiem iedzīvotājiem.
+
+Aptuveni trešdaļa iedzīvotāju ir musulmaņi. Islāms Etiopijā ienācis 615. gadā, kad musulmaņu grupa, lai izvairītos no vajāšanām, apmetās uz dzīvi Etiopijā. Etiopijas galvaspilsētā Adisabebā dzīvo apmēram viens miljons musulmaņu.
+Līdz 1980. gadam Etiopijā dzīvoja daudz ebreju, bet vēlāk lielākā daļa ebreju ar Izraēlas valdības atbalstu pārcēlās uz [[Izraēla|Izraēlu]].
+
+== Ekonomika ==
+Etiopija ir viena no straujāk augošajām ekonomikām pasaulē un otrā apdzīvotākā valsts Āfrikā.<ref>{{tīmekļa atsauce |url=http://www.ifc.org/wps/wcm/connect/region__ext_content/regions/sub-saharan+africa/news/ethiopia_to_host_world_economic_forum |title=Private Sector Boosts Ethiopia's Growth |language={{en icon}} |publisher=Ifc.org |date= |accessdate=2015-10-28 |archiveurl=https://web.archive.org/web/20150924033311/http://www.ifc.org/wps/wcm/connect/region__ext_content/regions/sub-saharan+africa/news/ethiopia_to_host_world_economic_forum |archivedate=2015-09-24 }}</ref> Tai ir arī piektā lielākā Āfrikas Subsahāras tuksneša reģiona ekonomika, kura ir spējusi piesaistīt investorus no [[Zviedrija]]s, [[Lielbritānija]]s un [[Ķīna]]s laikā, kad citi attīstības tirgi ir zaudējuši savu spožumu.
+Etiopijas parāds 2012. gadā sasniedza 44,4% no [[IKP]]. Inflācija 2011. gadā bija 33%.
+
+Valsts ekonomikas pamats ir lauksaimniecība, kas veido 46% no kopējā iekšzemes kopprodukta, kā arī nodrošina darbu vairāk nekā 85% no strādājošajiem iedzīvotājiem. Šo Āfrikas valsti bieži piemeklē sausums, kas ietekmē lauksaimniecību. 5% no nodarbinātajiem strādā rūpniecības nozarē, bet atlikušie 10% — pakalpojumu nozarē.
+Galvenā Etiopijas eksporta prece ir [[kafija]], kuru Etiopijā saražo vairāk nekā citās Āfrikas valstīs. Etiopija ir arī desmitā lielākā valsts pasaulē, kas nodarbojas ar mājlopu audzēšanu. Citas galvenās eksporta preces ir [[katas koks]], zelts, ādas izstrādājumi un augu eļļa. Sakarā ar straujo attīstību ziedkopības nozarē Etiopija drīzumā var kļūt par vieno no lielākajām ziedu un augu eksportētājvalstīm pasaulē.<ref>{{tīmekļa atsauce |url=http://www.mg.co.za/articlePage.aspx?articleid=264689&area=%2Fbreaking_news%2Fbreaking_news__business%2F |title=Ethiopia's flower trade in full bloom : Mail & Guardian Online |publisher=Web.archive.org |date=2006-02-25 |accessdate=2015-10-28 |archive-date=2006-02-25 |archive-url=https://web.archive.org/web/20060225184454/http://www.mg.co.za/articlePage.aspx?articleid=264689&area=%2Fbreaking_news%2Fbreaking_news__business%2F }}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20060821130707/http://www.timelessethiopia.com/foto/index.html Etiopija — foto]
+* [https://web.archive.org/web/20131102104423/http://www.beforethey.com/journey/ethiopia Before They Pass Away: Ethiopia]
+
+{{Āfrika}}
+{{Padomju impērijas valstis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Āfrikas valstis]]
+[[Kategorija:Etiopija| ]]

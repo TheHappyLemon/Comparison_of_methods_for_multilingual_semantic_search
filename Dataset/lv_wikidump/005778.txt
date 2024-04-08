@@ -1,0 +1,428 @@
+{{Sporta izlases infokaste
+ | valsts         = Zviedrija
+ | valsts_angl    = 
+ | att_izm        = 
+ | logo           = Hockeysweden.svg
+ | logo_izm       = 150px
+ | dibin          = 
+ | federācija     = 
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 5.
+ | rangs max      = 1.
+ | rangs max date = pirmoreiz 2006. gadā
+ | rangs min      = 5.
+ | rangs min date = 2022.
+ | iesauka        = ''Tre Kronor'' ("Trīs kroņi")
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = {{flaga|Zviedrija}} [[Sams Hallams]]
+ | pers01         = 
+ | pers01_vārds   = 
+ | pers02         = 
+ | pers02_vārds   = 
+ | pers03         = 
+ | pers03_vārds   = 
+ | pers04         = 
+ | pers04_vārds   = 
+ | kapteinis      = [[Olivers Ēkmans-Lāšons]]
+ | visv spēles    = [[Jergens Jensons]] (285)
+ | visv vārtu     = 
+ | visv punktu    = [[Svens Tumba]] (186)
+<!--- OS --->
+ | OS reizes      = 22
+ | OS medaļas     = {{Gold1}} — 2 ([[Hokejs 1994. gada ziemas olimpiskajās spēlēs|1994]], [[Hokejs 2006. gada ziemas olimpiskajās spēlēs|2006]])<br />{{Silver2}} — 3 ([[Hokejs 1928. gada ziemas olimpiskajās spēlēs|1928]], [[Hokejs 1964. gada ziemas olimpiskajās spēlēs|1964]], [[Hokejs 2014. gada ziemas olimpiskajās spēlēs|2014]])<br />{{Bronze3}} — 4 ([[Hokejs 1952. gada ziemas olimpiskajās spēlēs|1952]], [[Hokejs 1980. gada ziemas olimpiskajās spēlēs|1980]], [[Hokejs 1984. gada ziemas olimpiskajās spēlēs|1984]],<br />[[Hokejs 1988. gada ziemas olimpiskajās spēlēs|1988]])
+ | OS lab sasn    = 
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 71
+ | PČ medaļas     = {{Gold1}} — 11<br />{{Silver2}} — 19<br />{{Bronze3}} — 17
+ | PČ lab sasn    = 
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{ih|SWE}} 8—0 {{ih-rt|BEL}}<br />([[Antverpene]], [[Beļģija]]; {{dat|1920|4|23|N|bez}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih|SWE}} 24—1 {{ih-rt|BEL}}<br />([[Prāga]], [[Čehoslovākija]]; {{dat|1947|2|16|N|bez}})
+ | liel zaud      = {{ih|CAN|1921}} 22—0 {{ih-rt|SWE}}<br />([[Šamonī]], [[Francija]]; {{dat|1924|1|29|N|bez}})
+ | pašreizējais   = 
+}}
+'''Zviedrijas hokeja izlase''' ir komanda, kas pārstāv [[Zviedrija|Zviedriju]] starptautiskajās [[hokejs|hokeja]] spēlēs. Zviedrijas hokeja izlase izcīnījusi 11 [[Pasaules hokeja čempionāts|Pasaules čempionātu]], trīs Eiropas čempionātu un divu [[Ziemas olimpiskās spēles|olimpisko spēļu]] zelta medaļas. Zviedrijas hokeja izlase simbols ir trīs kroņi. 2006. gadā tā kļuva par pirmo hokeja izlasi, kas vienā gadā uzvarējusi gan olimpiskajās spēlēs, gan Pasaules čempionātā.
+
+2022. gadā tā atrodas 5. vietā [[Starptautiskā Hokeja federācija|Starptautiskās Hokeja federācija]]s vīriešu hokeja izlašu rangā<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2021 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2021|5|22||bez}}}}</ref> un spēlē [[2023. gada Pasaules čempionāts hokejā|2023. gada Pasaules čempionāta]] elites divīzijā.
+
+== Rezultāti nozīmīgākajos turnīros ==
+=== Olimpiskās spēles ===
+Līdz 1968. gadam olimpisko spēļu turnīra rezultāts tika ieskaitīts arī pasaules čempionāta ieskaitē.
+
+{| class="wikitable"
+|-
+! Gads
+! Rezultāts
+! Treneris
+! Kapteinis
+|-
+|[[Hokejs 1920. gada vasaras olimpiskajās spēlēs|1920]]
+|4. vieta
+|[[Rauls Lemats]]
+|[[Einārs Lindkvists]]
+|-
+|[[Hokejs 1924. gada ziemas olimpiskajās spēlēs|1924]]
+|4. vieta
+|''Nezināms''
+|''Nezināms''
+|-
+|[[Hokejs 1928. gada ziemas olimpiskajās spēlēs|1928]]
+|{{sudraba medaļa}}
+|[[Vikings Harboms]], [[Stens Melgrēns]]
+|[[Karls Abrahamsons]]
+|-
+|[[Hokejs 1932. gada ziemas olimpiskajās spēlēs|1932]]
+|colspan=3| ''Nepiedalījās''
+|-
+|[[Hokejs 1936. gada ziemas olimpiskajās spēlēs|1936]]
+|5. vieta
+|[[Viks Lindkvists]]
+|[[Hermans Kārlsons]]
+|-
+|[[Hokejs 1948. gada ziemas olimpiskajās spēlēs|1948]]
+|4. vieta
+|''Nezināms''
+|''Nezināms''
+|-
+|[[Hokejs 1952. gada ziemas olimpiskajās spēlēs|1952]]
+|{{bronzas medaļa}}
+|[[Svens Bergkvists]]
+|''Nezināms''
+|-
+|[[Hokejs 1956. gada ziemas olimpiskajās spēlēs|1956]]
+|4. vieta
+|[[Folke Jansons]]
+|''Nezināms''
+|-
+|[[Hokejs 1960. gada ziemas olimpiskajās spēlēs|1960]]
+|5. vieta
+|[[Eds Rīls]]
+|''Nezināms''
+|-
+|[[Hokejs 1964. gada ziemas olimpiskajās spēlēs|1964]]
+|{{sudraba medaļa}}
+|[[Arne Strembergs]]
+|''Nezināms''
+|-
+|[[Hokejs 1968. gada ziemas olimpiskajās spēlēs|1968]]
+|4. vieta
+|[[Arne Strembergs]]
+|''Nezināms''
+|-
+|[[Hokejs 1972. gada ziemas olimpiskajās spēlēs|1972]]
+|4. vieta
+|[[Billijs Heriss]]
+|''Nezināms''
+|-
+|[[Hokejs 1976. gada ziemas olimpiskajās spēlēs|1976]]
+|colspan=3| ''Nepiedalījās''
+|-
+|[[Hokejs 1980. gada ziemas olimpiskajās spēlēs|1980]]
+|{{bronzas medaļa}}
+|[[Tomijs Sandlīns]]
+|[[Mats Valtīns]]
+|-
+|[[Hokejs 1984. gada ziemas olimpiskajās spēlēs|1984]]
+|{{bronzas medaļa}}
+|[[Anderss Parmstrēms]]
+|[[Hokans Ēriksons]]
+|-
+|[[Hokejs 1988. gada ziemas olimpiskajās spēlēs|1988]]
+|{{bronzas medaļa}}
+|[[Tomijs Sandlīns]]
+|[[Tomass Rundkvists]]
+|-
+|[[Hokejs 1992. gada ziemas olimpiskajās spēlēs|1992]]
+|5. vieta
+|[[Konijs Evensons]]
+|[[Tomass Rundkvists]]
+|-
+|[[Hokejs 1994. gada ziemas olimpiskajās spēlēs|1994]]
+|{{zelta medaļa}}
+|[[Kurts Lundmarks]]
+|[[Čārlzs Berglunds]]
+|-
+|[[Hokejs 1998. gada ziemas olimpiskajās spēlēs|1998]]
+|5. vieta
+|[[Kents Fošbergs]]
+|[[Kalle Johansons]]
+|-
+|[[Hokejs 2002. gada ziemas olimpiskajās spēlēs|2002]]
+|5. vieta
+|[[Hārdijs Nilsons]]
+|[[Matss Sundīns]]
+|-
+|[[Hokejs 2006. gada ziemas olimpiskajās spēlēs|2006]]
+|{{zelta medaļa}}
+|[[Bengts Oke Gustafsons]]
+|[[Matss Sundīns]]
+|-
+|[[Hokejs 2010. gada ziemas olimpiskajās spēlēs|2010]]
+|5. vieta
+|[[Bengts Oke Gustafsons]]
+|[[Niklass Lidstrems]]
+|-
+|[[Hokejs 2014. gada ziemas olimpiskajās spēlēs — Vīrieši|2014]]
+|{{sudraba medaļa}}
+|[[Pērs Mortss]]
+|[[Henriks Sēterbergs]], [[Niklass Krūnvals]]
+|-
+|[[Hokejs 2018. gada ziemas olimpiskajās spēlēs — vīrieši|2018]]
+|5. vieta
+|[[Rikards Grēnborjs]]
+|[[Jūels Lundkvists]]
+|-
+|[[Hokejs 2022. gada ziemas olimpiskajās spēlēs — vīrieši|2022]]
+|4. vieta
+|[[Jūhans Garpenlēvs]]
+|[[Antons Landers]]
+|}
+
+=== Pasaules čempionāts ===
+{{Div col|3}}
+* [[1930. gada Pasaules čempionāts hokejā|1930]] — ''Nepiedalījās''
+* [[1931. gada Pasaules čempionāts hokejā|1931]] — 6. vieta
+* [[1933. gada Pasaules čempionāts hokejā|1933]] — ''Nepiedalījās''
+* [[1934. gada Pasaules čempionāts hokejā|1934]] — ''Nepiedalījās''
+* [[1935. gada Pasaules čempionāts hokejā|1935]] — 5. vieta
+* [[1937. gada Pasaules čempionāts hokejā|1937]] — 10. vieta
+* [[1938. gada Pasaules čempionāts hokejā|1938]] — 5. vieta
+* [[1939. gada Pasaules čempionāts hokejā|1939]] — ''Nepiedalījās''
+* [[1947. gada Pasaules čempionāts hokejā|1947]] — {{sudraba medaļa}}
+* [[1949. gada Pasaules čempionāts hokejā|1949]] — 4. vieta
+* [[1950. gada Pasaules čempionāts hokejā|1950]] — 5. vieta
+* [[1951. gada Pasaules čempionāts hokejā|1951]] — {{sudraba medaļa}}
+* [[1953. gada Pasaules čempionāts hokejā|1953]] — {{zelta medaļa}}
+* [[1954. gada Pasaules čempionāts hokejā|1954]] — {{bronzas medaļa}}
+* [[1955. gada Pasaules čempionāts hokejā|1955]] — 5. vieta
+* [[1957. gada Pasaules čempionāts hokejā|1957]] — {{zelta medaļa}}
+* [[1958. gada Pasaules čempionāts hokejā|1958]] — {{bronzas medaļa}}
+* [[1959. gada Pasaules čempionāts hokejā|1959]] — 5. vieta
+* [[1961. gada Pasaules čempionāts hokejā|1961]] — 4. vieta
+* [[1962. gada Pasaules čempionāts hokejā|1962]] — {{zelta medaļa}}
+* [[1963. gada Pasaules čempionāts hokejā|1963]] — {{sudraba medaļa}}
+* [[1965. gada Pasaules čempionāts hokejā|1965]] — {{bronzas medaļa}}
+* [[1966. gada Pasaules čempionāts hokejā|1966]] — 4. vieta
+* [[1967. gada Pasaules čempionāts hokejā|1967]] — {{sudraba medaļa}}
+* [[1969. gada Pasaules čempionāts hokejā|1969]] — {{sudraba medaļa}}
+* [[1970. gada Pasaules čempionāts hokejā|1970]] — {{sudraba medaļa}}
+* [[1971. gada Pasaules čempionāts hokejā|1971]] — {{bronzas medaļa}}
+* [[1972. gada Pasaules čempionāts hokejā|1972]] — {{bronzas medaļa}}
+* [[1973. gada Pasaules čempionāts hokejā|1973]] — {{sudraba medaļa}}
+* [[1974. gada Pasaules čempionāts hokejā|1974]] — {{bronzas medaļa}}
+* [[1975. gada Pasaules čempionāts hokejā|1975]] — {{bronzas medaļa}}
+* [[1976. gada Pasaules čempionāts hokejā|1976]] — {{bronzas medaļa}}
+* [[1977. gada Pasaules čempionāts hokejā|1977]] — {{sudraba medaļa}}
+* [[1978. gada Pasaules čempionāts hokejā|1978]] — 4. vieta
+* [[1979. gada Pasaules čempionāts hokejā|1979]] — {{bronzas medaļa}}
+* [[1981. gada Pasaules čempionāts hokejā|1981]] — {{sudraba medaļa}}
+* [[1982. gada Pasaules čempionāts hokejā|1982]] — 4. vieta
+* [[1983. gada Pasaules čempionāts hokejā|1983]] — 4. vieta
+* [[1985. gada Pasaules čempionāts hokejā|1985]] — 6. vieta
+* [[1986. gada Pasaules čempionāts hokejā|1986]] — {{sudraba medaļa}}
+* [[1987. gada Pasaules čempionāts hokejā|1987]] — {{zelta medaļa}}
+* [[1989. gada Pasaules čempionāts hokejā|1989]] — 4. vieta
+* [[1990. gada Pasaules čempionāts hokejā|1990]] — {{sudraba medaļa}}
+* [[1991. gada Pasaules čempionāts hokejā|1991]] — {{zelta medaļa}}
+* [[1992. gada Pasaules čempionāts hokejā|1992]] — {{zelta medaļa}}
+* [[1993. gada Pasaules čempionāts hokejā|1993]] — {{sudraba medaļa}}
+* [[1994. gada Pasaules čempionāts hokejā|1994]] — {{bronzas medaļa}}
+* [[1995. gada Pasaules čempionāts hokejā|1995]] — {{sudraba medaļa}}
+* [[1996. gada Pasaules čempionāts hokejā|1996]] — 6. vieta
+* [[1997. gada Pasaules čempionāts hokejā|1997]] — {{sudraba medaļa}}
+* [[1998. gada Pasaules čempionāts hokejā|1998]] — {{zelta medaļa}}
+* [[1999. gada Pasaules čempionāts hokejā|1999]] — {{bronzas medaļa}}
+* [[2000. gada Pasaules čempionāts hokejā|2000]] — 7. vieta
+* [[2001. gada Pasaules čempionāts hokejā|2001]] — {{bronzas medaļa}}
+* [[2002. gada Pasaules čempionāts hokejā|2002]] — {{bronzas medaļa}}
+* [[2003. gada Pasaules čempionāts hokejā|2003]] — {{sudraba medaļa}}
+* [[2004. gada Pasaules čempionāts hokejā|2004]] — {{sudraba medaļa}}
+* [[2005. gada Pasaules čempionāts hokejā|2005]] — 4. vieta
+* [[2006. gada Pasaules čempionāts hokejā|2006]] — {{zelta medaļa}}
+* [[2007. gada Pasaules čempionāts hokejā|2007]] — 4. vieta
+* [[2008. gada Pasaules čempionāts hokejā|2008]] — 4. vieta
+* [[2009. gada Pasaules čempionāts hokejā|2009]] — {{bronzas medaļa}}
+* [[2010. gada Pasaules čempionāts hokejā|2010]] — {{bronzas medaļa}}
+* [[2011. gada Pasaules čempionāts hokejā|2011]] — {{sudraba medaļa}}
+* [[2012. gada Pasaules čempionāts hokejā|2012]] — 6. vieta
+* [[2013. gada Pasaules čempionāts hokejā|2013]] — {{zelta medaļa}}
+* [[2014. gada Pasaules čempionāts hokejā|2014]] — {{bronzas medaļa}}
+* [[2015. gada Pasaules čempionāts hokejā|2015]] — 5. vieta
+* [[2016. gada Pasaules čempionāts hokejā|2016]] — 6. vieta
+* [[2017. gada Pasaules čempionāts hokejā|2017]] — {{zelta medaļa}}
+* [[2018. gada Pasaules čempionāts hokejā|2018]] — {{zelta medaļa}}
+* [[2019. gada Pasaules čempionāts hokejā|2019]] — 5. vieta
+* [[2021. gada Pasaules čempionāts hokejā|2021]] — 9. vieta
+* [[2022. gada Pasaules čempionāts hokejā|2022]] — 6. vieta
+* [[2023. gada Pasaules čempionāts hokejā|2023]] — 6. vieta
+
+=== Kanādas kauss ===
+* [[1976. gada Kanādas kauss hokejā|1976]] — 4. vieta
+* [[1981. gada Kanādas kauss hokejā|1981]] — 5. vieta
+* [[1984. gada Kanādas kauss hokejā|1984]] — {{sudraba medaļa}}
+* [[1987. gada Kanādas kauss hokejā|1987]] — {{bronzas medaļa}}
+* [[1991. gada Kanādas kauss hokejā|1991]] — 4. vieta
+
+=== Pasaules kausa izcīņa ===
+* [[1996. gada Pasaules kausa izcīņa hokejā|1996]] — Pusfinālisti
+* [[2004. gada Pasaules kausa izcīņa hokejā|2004]] — Ceturtdaļfinālisti
+* [[2016. gada Pasaules kausa izcīņa hokejā|2016]] — Pusfinālisti
+{{Div col end}}
+
+== Izlases sastāvs [[2019. gada Pasaules čempionāts hokejā|2019.]] gada Pasaules čempionātā ==
+* '''Galvenais treneris''': {{Flaga|Zviedrija}} [[Rikards Grēnborjs]]
+{| class="wikitable sortable" border="0" cellspacing="2" cellpadding="2"
+! width="40" |No.
+! width="40" |Poz.
+! width="250" |Spēlētājs
+! width="250" |Klubs
+|-
+| style="text-align:center;" |1
+| style="text-align:center;" |{{HOK-V}}
+|[[Jonass Enrots]]
+|{{flaga|Zviedrija}} [[Örebro HK]]
+|-
+| style="text-align:center;" |25
+| style="text-align:center;" |{{HOK-V}}
+|[[Jākobs Markstrems]]
+|{{flaga|Kanāda}} [[Vankūveras "Canucks"]]
+|-
+| style="text-align:center;" |30
+| style="text-align:center;" |{{HOK-V}}
+|[[Henriks Lundkvists]]
+|{{flaga|ASV}} [[Ņujorkas "Rangers"]]
+|-
+| style="text-align:center;" |3
+| style="text-align:center;" |{{HOK-A}}
+|[[Jons Klingberjs]]
+|{{flaga|ASV}} [[Dalasas "Stars"]]
+|-
+| style="text-align:center;" |6
+| style="text-align:center;" |{{HOK-A}}
+|[[Ādams Lāšons]]
+|{{flaga|Kanāda}} [[Edmontonas "Oilers"]]
+|-
+| style="text-align:center;" |8
+| style="text-align:center;" |{{HOK-A}}
+|[[Roberts Hegs]]
+|{{flaga|ASV}} [[Filadelfijas "Flyers"]]
+|-
+| style="text-align:center;" |14
+| style="text-align:center;" |{{HOK-A}}
+|[[Matiass Ekholms]]
+|{{flaga|ASV}} [[Našvilas "Predators"]]
+|-
+| style="text-align:center;" |18
+| style="text-align:center;" |{{HOK-A}}
+|[[Markuss Petešons]]
+|{{flaga|ASV}} [[Pitsburgas "Penguins"]]
+|-
+| style="text-align:center;" |23
+| style="text-align:center;" |{{HOK-A}}
+|[[Olivers Ēkmans-Lāšons]]
+|{{flaga|ASV}} [[Arizonas "Coyotes"]]
+|-
+| style="text-align:center;" |52
+| style="text-align:center;" |{{HOK-A}}
+|[[Filips Holms]]
+|{{flaga|Krievija}} [[Ņižņijnovgorodas "Torpedo"]]
+|-
+| style="text-align:center;" |56
+| style="text-align:center;" |{{HOK-A}}
+|[[Ēriks Gustafsons (1992)|Ēriks Gustafsons]]
+|{{flaga|ASV}} [[Čikāgas "Blackhawks"]]
+|-
+| style="text-align:center;" |9
+| style="text-align:center;" |{{HOK-U}}
+|[[Adrians Kempe]]
+|{{flaga|ASV}} [[Losandželosas "Kings"]]
+|-
+| style="text-align:center;" |10
+| style="text-align:center;" |{{HOK-U}}
+|[[Aleksandrs Venbergs]]
+|{{flaga|ASV}} [[Kolumbusas "Blue Jackets"]]
+|-
+| style="text-align:center;" |16
+| style="text-align:center;" |{{HOK-U}}
+|[[Markuss Krīgers]]
+|{{flaga|ASV}} [[Čikāgas "Blackhawks"]]
+|-
+| style="text-align:center;" |21
+| style="text-align:center;" |{{HOK-U}}
+|[[Luī Ēriksons]]
+|{{flaga|Kanāda}} [[Vankūveras "Canucks"]]
+|-
+| style="text-align:center;" |28
+| style="text-align:center;" |{{HOK-U}}
+|[[Elīass Lindholms]]
+|{{flaga|Kanāda}} [[Kalgari "Flames"]]
+|-
+| style="text-align:center;" |29
+| style="text-align:center;" |{{HOK-U}}
+|[[Mario Kempe]]
+|{{flaga|ASV}} [[Arizonas "Coyotes"]]
+|-
+| style="text-align:center;" |32
+| style="text-align:center;" |{{HOK-U}}
+|[[Oskars Lindblūms]]
+|{{flaga|ASV}} [[Filadelfijas "Flyers"]]
+|-
+| style="text-align:center;" |40
+| style="text-align:center;" |{{HOK-U}}
+|[[Eliass Petešons]]
+|{{flaga|Kanāda}} [[Vankūveras "Canucks"]]
+|-
+| style="text-align:center;" |58
+| style="text-align:center;" |{{HOK-U}}
+|[[Antons Landers]]
+|{{flaga|Krievija}} [[Kazaņas "Ak Bars"]]
+|-
+| style="text-align:center;" |63
+| style="text-align:center;" |{{HOK-U}}
+|[[Jespers Brats]]
+|{{flaga|ASV}} [[Ņūdžersijas "Devils"]]
+|-
+| style="text-align:center;" |70
+| style="text-align:center;" |{{HOK-U}}
+|[[Deniss Rasmusens]]
+|{{flaga|Krievija}} [[Magņitogorskas "Metallurg"]]
+|-
+| style="text-align:center;" |72
+| style="text-align:center;" |{{HOK-U}}
+|[[Pātriks Hērnkvists]]
+|{{flaga|ASV}} [[Pitsburgas "Penguins"]]
+|-
+| style="text-align:center;" |88
+| style="text-align:center;" |{{HOK-U}}
+|[[Viljams Nīlanders]]
+|{{flaga|Kanāda}} [[Toronto "Maple Leafs"]]
+|-
+| style="text-align:center;" |92
+| style="text-align:center;" |{{HOK-U}}
+|[[Gābriels Landeskogs]]
+|{{flaga|ASV}} [[Kolorādo "Avalanche"]]
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Hokejs-aizmetnis}}
+{{Hokejaizlases}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hokejs Zviedrijā]]
+[[Kategorija:Eiropas hokeja izlases]]

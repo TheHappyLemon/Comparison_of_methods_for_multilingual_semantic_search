@@ -1,0 +1,86 @@
+{{Pieminekļa infokaste
+|          nosaukums = Stonhendža
+|vietējais_nosaukums = ''Stonehenge''
+|             attēls = Stonehenge back wide.jpg
+|    attēla_paraksts = 
+|          map_image = Anglija#Apvienotā Karaliste#Eiropa
+| relief = yes
+|           map_text = 
+|          map_width = 
+|latd  = 51 | latm  = 10 | lats  = 44 | latNS  = N
+|longd =  1 | longm = 49 | longs = 34 | longEW = W
+|    atrašanās_vieta = {{vieta|Apvienotā Karaliste|Anglija|Viltšīra}}
+|             autors = 
+|        arhitektūra = 
+|              veids = {{ubl|arheoloģiskais piemineklis|akmens aplis}}
+|          materiāls = [[smilšakmens]]
+|            platība = 
+|             garums = 30 m (diametrs, attiecas uz akmens apli)
+|            platums = 
+|           augstums = 4 m
+|              sākts = ap 3100. gadu p.m.ē.
+|           pabeigts = ap 1600. gadu p.m.ē.
+|            atklāts = 
+|       pārvaldnieks = 
+|            veltīts = 
+|        apmeklētāji = 
+|     public_transit = 
+{{Designation list
+|    embed = yes
+|             designation1 = WHS
+|     designation1_offname = Stonhendža, Eivberija un apkārtējie pieminekļi
+|        designation1_type = Kultūra
+|    designation1_criteria = i, ii, iii
+|        designation1_date = 1986. gads
+|           delisted1_date = 
+|      designation1_partof = 
+|      designation1_number = [http://whc.unesco.org/en/list/373 373]
+|   designation1_free1name = Valsts
+|  designation1_free1value = {{GBR}}
+|   designation1_free2name = Platība
+|  designation1_free2value = 4985,4 ha
+|   designation1_free3name = 
+|  designation1_free3value = 
+}}
+}}
+<mapframe text="Stonhendža" width=260 height=260 zoom=16 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q39671"
+}
+</mapframe>
+
+'''Stonhendža''' ({{val|en|Stonehenge}}, {{izrunā|ˌstəʊnˈhendʒ}}) ir [[neolīts|neolīta]] un [[bronzas laikmets|bronzas laikmetā]] veidots arheoloģiskais piemineklis [[Viltšīra|Viltšīrā]], [[Apvienotā Karaliste|Apvienotajā Karalistē]]. Tā atrodas 3 km uz rietumiem no [[Eimberija]]s pilsētas, aptuveni 13 km attālumā uz ziemeļiem no [[Solsberija]]s. Stonhendža ir veidota no aplī izvietotiem milzīgiem akmens bluķiem. Stonhendža ir veidojusies ilgstošā laika posmā, no 3100. gada p.m.ē. līdz 1600. gadam p.m.ē. Stonhendža, pēc daļas zinātnieku domām, ir veidota kā senais [[Mēness kalendārs|Mēness]] un [[Saules kalendārs]].{{nepieciešama atsauce}} Šo akmeņu izvietojums pieļauj, ka noteiktā laikā Saule spīd starp noteiktiem akmeņiem. 1986. gadā Stonhendža, kā arī tās tuvumā esošā [[Eivberija]] un citi apkārtējie pieminekļi tika iekļauti [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]].
+
+Astronomiski nozīmīgās dienās pie Stonhendžas pulcējas moderno [[Pagānisms|pagānisko]] kultu aktīvisti.<ref name=":0">{{Tīmekļa atsauce|url=https://www.bbc.com/russian/articles/cj53gmdy27ro|title=Рядом со Стоунхенджем все же проложат тоннель. Его противники проиграли в суде|website=BBC News Русская служба|access-date=2024-02-20|date=2024-02-20|language=ru}}</ref>
+
+== Struktūra un apkārtne ==
+Stonhendža ir veidota no aplī izvietotiem milzīgiem [[smilšakmens]] bluķiem. Stonhendža tapa trīs posmos laikā no 3100. gada p.m.ē. līdz 1600. gadam p.m.ē. Arheologi domā, ka apkārtējais zemes valnis un grāvis ir veidoti ap 3100. gadu p.m.ē.,<ref>{{tīmekļa atsauce | url= http://www.stonehenge.co.uk/history.php | title= History of Stonehenge | publisher= stonehenge.co.uk | language= en | accessdate= 2020. gada 23. septembrī | archive-date= 2020. gada 25. Novembris | archive-url= https://web.archive.org/web/20201125074321/http://www.stonehenge.co.uk/history.php }}</ref> bet stāvošie akmeņi tika uzcelti laika periodā no 2400. un 2200. gadu p.m.ē.<ref name="news.bbc.co.uk">{{cite news | title= Dig pinpoints Stonehenge origins | work= BBC | date= 2008. gada 21. septembris | url= http://news.bbc.co.uk/1/hi/sci/tech/7625145.stm | accessdate= 22 September 2008 | first= James | last= Morgan | archive-url= https://web.archive.org/web/20080922111534/http://news.bbc.co.uk/1/hi/sci/tech/7625145.stm | archive-date= 2008. gada 22. septembris}}</ref> Joprojām nav skaidrības, kā tieši šos akmeņus attransportēja uz pašreizējo Stonhendžas vietu, it īpaši tāpēc, ka tas bija pirms [[ritenis|riteņa]] izgudrošanas.
+
+Stonhendžas apļa iekšpusē ir atrodami mazāki akmens bluķi, kuru masa ir no 2 līdz 5 tonnām. Tie tiek saukti par "[[zilais akmens|zilajiem akmeņiem]]", jo ir zilganā krāsā, kad kļūst mitri. 30 no šiem akmeņiem ir no [[diabazs|diabaza]], 5 ir no [[riolīts|riolīta]], vēl citi 5 ir no dažādiem [[magmatiskie ieži|magmatiskajiem iežiem]], bet pēdējie 3 ir no [[smilšakmens]].<ref>{{tīmekļa atsauce | url= https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/stonehenge.htm | title= How Stonhenge Worked | publisher= HowStuffWorks | language= en | accessdate= 2020. gada 23. septembrī}}</ref> Tiek pieļauts, ka šie akmeņi ir vesti no mūsdienu [[Velsa]]s teritorijas, aptuveni 220 km attāluma.
+
+Vēl apļa iekšpusē pa perimetru ir atrodamas 56 mazas bedrītes (tiek sauktas arī par Obrija bedrēm), kuras, iespējams, izmantotas astronomiskiem mērījumiem. Tajās ievietoja koka vai akmens stabus, kas ļāva sekot līdzi debess ķermeņu kustībām.
+
+Netālu no Stonhendžas atrodas pārslogota automaģistrāle A303, kuru pēc gadiem ilgiem tiesu strīdiem 2024. gadā galīgi izlēma ieslēpt tunelī.<ref name=":0" />
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+*[https://www.english-heritage.org.uk/stonehenge English Heritage lapa]
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{vēsture-aizmetnis}}
+{{UK-aizmetnis}}
+
+{{Lielbritānija UNESCO}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Megalītiskās būves]]
+[[Kategorija:Neolīts]]
+[[Kategorija:Bronzas laikmets]]
+[[Kategorija:Anglijas vēsture]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Lielbritānijā]]
+[[Kategorija:Lielbritānijas arheoloģiskie pieminekļi]]

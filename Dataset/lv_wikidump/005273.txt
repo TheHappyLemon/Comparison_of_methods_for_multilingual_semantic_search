@@ -1,0 +1,53 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 99
+|             7. čaula = 2
+|             6. čaula = 8
+|             5. čaula = 29
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Es
+|             atommasa = [252]
+|   valences elektroni = [Rn]5f<sup>11</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Es-TableImage.svg|250px]]
+|               attēls = [[Attēls:Einsteinium.jpg|150px]]
+|  oksidēšanas pakāpes = +2, '''+3''', +4
+|  elektronegativitāte = 1,3
+|              blīvums = 8840
+|  kušanas temperatūra = 1133 K (860&nbsp;°C)
+| viršanas temperatūra = 1269 K (996&nbsp;°C) (aplēses)
+}}
+
+'''Einšteinijs''' ir mākslīgs [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Es''' un [[atomskaitlis|atomskaitli]] 99. Tas ir metālisks [[radioaktivitāte|radioaktīvais]] elements, kas pieder pie [[aktinīdi]]em. Einšteinijs nosaukts par godu [[Alberts Einšteins|Albertam Einšteinam]]. Tas pirmo reizi atklāts 1952. gada decembrī [[ūdeņraža bumba]]s sprādziena radioaktīvajos nokrišņos, kur veidojies no [[urāns (elements)|urāna]], tā kodoliem satverot lielu daudzumu [[neitrons|neitronu]]. Šādiem kodoliem raksturīga daudzkārtēja [[bēta sabrukšana]], kas katrreiz noved pie jauna, periodiskajā tabulā pa labi esoša elementa veidošanās. Einšteiniju izmanto sevišķi smago un nestabilo elementu [[kodolu sintēze]]i, piemēram, [[kodolreaktors|kodolreaktoros]], lai iegūtu citus smagākus elementus kā [[fermijs|fermiju]]. To izmanto arī zinātniskajā pētniecībā. Dabā einšteinijs nav sastopams.
+
+== Īpašības ==
+=== Fizikālās īpašības ===
+Einšteinijs ir mākslīgi iegūts ķīmiskais elements. Tas ir [[aktinīdi|aktinīds]] ar sudrabainu spīdumu. Tā [[blīvums]] normālos apstākļos ir 8840 kg/m³ (8,84 g/cm³). Tā [[kušanas temperatūra]] ir 860 °C. Einšteinijs ir mīksts metāls, kura [[tilpuma elastības modulis]] ir tikai 15 G[[paskāls|Pa]], kas ir viens no mazākajiem metāliem, kas nav [[sārmu metāli]]. Einšteinija [[elektronu konfigurācija]] ir [Rn]5f<sup>11</sup>7s<sup>2</sup>.
+
+=== Ķīmiskās īpašības ===
+Einšteinija ķīmiskās īpašības ir līdzīgas citu [[aktinīdi|aktinīdu]] ķīmiskajām īpašībām. Tā [[oksidēšanas pakāpe]] parasti ir +3, bet var būt arī +2 vai +4. Einšteinijs veido [[ķīmiskais savienojums|savienojumus]] ar [[skābes|skābēm]] un dažiem nemetālu elementiem. Lielākoties šie savienojumi ir pētīti laboratorijās. Ir izpētīti einšteinija [[oksīdi]].
+
+=== Izotopi ===
+Einšteinija [[izotops|izotopi]] ir nestabili un pakļauti [[radioaktīvā sabrukšana|radioaktīvajai sabrukšanai]]. Stabilākais einšteinija izotops ir <sup>252</sup>Es, kura [[pussabrukšanas periods]] ir 471,7 dienas.<ref name="jlab"/> Nākamie stabilākie izotopi ir <sup>254</sup>Es (275,7 dienas), <sup>255</sup>Es (39,8 dienas) un <sup>253</sup>Es (20,47 dienas).<ref name="jlab"/> Ir iegūti einšteinija izotopi, kuru [[masas skaitlis]] ir no 240 līdz 258.<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso099.html | title= Isotopes of the Element Einsteinium | publisher= Jefferson Lab | accessdate= 2018. gada 14. augustā | language= en}}</ref> Visi einšteinija izotopi ir [[radioaktivitāte|radioaktīvi]].
+
+== Vēsture ==
+Einšteinijs un nākamais elements periodiskajā tabulā [[fermijs]] iegūts [[Losalamosas Nacionālā laboratorija|Losalamosas nacionālajā laboratorijā]] no radioaktīvajiem putekļiem, kas iegūti no {{dat|1952|11|1||bez}} notikušā [[ūdeņraža bumba]]s ''[[Ivy Mike]]'' izmēģinājuma [[Enivetoka]]s atolā, [[Klusais okeāns|Klusā okeāna]] dienvidos. Uz atola [[koraļļi]]em tika konstatēts lielāks einšteinija daudzums. Militārās slepenības dēļ sākotnēji informācija netika publicēta.<ref name="pubs.acs">{{tīmekļa atsauce | url= http://pubs.acs.org/cen/80th/einsteiniumfermium.html | title= Einsteinium and Fermium | author= Albert Ghiorso | publisher= Chemical & Engineering News}}</ref>
+
+Ķīmiskais elements nosaukts par godu [[Alberts Einšteins|Albertam Einšteinam]], lai gan viņam nav saistība ar elementa atklāšanu vai tā pētīšanu.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

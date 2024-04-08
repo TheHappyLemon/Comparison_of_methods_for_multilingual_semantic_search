@@ -1,0 +1,160 @@
+{{Valsts infokaste
+|    pilnais_valsts_nosaukums = Ungārija
+|        vietējais_nosaukums = ''Magyarország''
+|           valsts_nosaukums = Ungārija
+|           karoga_nosaukums = Ungārijas karogs
+|              karoga_attēls = Flag of Hungary.svg
+|          ģerboņa_nosaukums = Ungārijas ģerbonis
+|            ģerboņa_platums = 40px
+|             ģerboņa_attēls = Coat of Arms of Hungary.svg
+|                valsts_moto = 
+|               valsts_himna = [[Ungārijas himna|Himnusz]]
+| symbol_width = 65px
+|              kartes_attēls = EU-Hungary.svg
+|            kartes_paraksts = {{map_caption |location_color=tumši zaļā |region=Eiropa |region_color=tumši pelēkā |subregion=Eiropas Savienība|subregion_color=zaļā |legend=EU-Hungary.svg}}
+|             valsts_valodas = [[Ungāru valoda|Ungāru]]
+|            etniskās_grupas = 92,3% [[ungāri]],<br>1,9% [[čigāni]],<br>5,8% citi<ref>{{Tīmekļa atsauce |url=http://www.nepszamlalas.hu/eng/volumes/06/00/tabeng/1/load01_10_0.html |title=Population Census 2001 – National and county data – Summary Data |publisher=Nepszamlalas.hu |access-date={{dat|2011|07|13||bez}} |archiveurl=https://www.webcitation.org/5mq7Guq5t?url=http://www.nepszamlalas.hu/eng/volumes/06/00/tabeng/1/load01_10_0.html |archivedate={{dat|2010|01|17||bez}} }}</ref>
+| etniskās_grupas_year = 2001
+| demonym = 
+|              galvaspilsēta = [[Budapešta]]
+| latd = 47 |latm=26 |latNS=N |longd=19 |longm=15 |longEW=E
+|            lielākā_pilsēta = galvaspilsēta
+|             valsts_iekārta = Parlamentāra republika
+|       valsts_galvas_tituls =  Prezidents
+|      valsts_galvas_tituls2 = Premjerministrs
+|               valsts_galva = [[Tomašs Šujoks]]
+|              valsts_galva2 = [[Viktors Orbāns]]
+|      valsts_galvas_tituls3 = Spīkers
+|              valsts_galva3 = [[Lāslo Kevērs]]
+|         iestāšanāsESdatums = 2004. gada 1. maijs
+| EUseats = 24
+|              platība_rangs = 109.
+|                platība_km2 = 93030
+| area_sq_mi = 35919
+|             procenti_ūdens = 0.74%
+|         iedzīvotāju_skaits = 9979000<ref name="KSH">[http://portal.ksh.hu/pls/ksh/docs/hun/xstadat/xstadat_evkozi/e_wdsd001a.html Hungarian Central Statistical Office]. Retrieved 25 July 2010.</ref>
+|    iedzīvotāju_skaita_gads = 2011
+|   iedzīvotāju_skaits_rangs = 83.
+| population_census = 10198315
+| population_census_year = 2001
+|   apdzīvotības_blīvums_km2 = 107.2
+| population_density_sq_mi = 279.0
+| apdzīvotības_blīvums_rangs = 94.
+|               IKP_PPP_gads = 2010
+|                    IKP_PPP = $187,627 miljardi<ref name=imf2>{{Tīmekļa atsauce|url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=944&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=37&pr.y=10 |title=Ungārija|publisher=International Monetary Fund|accessdate=21 April 2011}}</ref>
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $18738<ref name=imf2/>
+|   IKP_PPP_per_capita_rangs = 
+| GDP_nominal_year = 2010
+| GDP_nominal = $128,960 miljardi<ref name=imf2/>
+| GDP_nominal_rank =
+| GDP_nominal_per_capita = $12879<ref name=imf2/>
+| GDP_nominal_per_capita_rank =
+|                       Gini = 24.96
+|                  Gini_gads = 2008
+|                 Gini_rangs = 3.
+|            Gini_kategorija = <span style="color:#090;">zems</span>
+|       neatkarības_iegūšana = Dibināšana
+|       neatkarības_notikums = 
+|         neatkarības_datums = 895
+|      neatkarības_notikums2 = ''Recognized as Christian kingdom''
+|        neatkarības_datums2 = 1000
+|      neatkarības_notikums3 = ''Current 3rd republic''
+|        neatkarības_datums3 = 1989. gada 23. oktobris
+|                   HDI_gads = 2010
+|                        HDI = {{palielinājās}} 0,805<ref name="HDI">{{Tīmekļa atsauce|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010|archive-date={{dat|2010|11|21||bez}}|archive-url=https://web.archive.org/web/20101121150504/http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf}}</ref>
+|                  HDI_rangs = 36.
+|             HDI_kategorija = <span style="color:#090;">ļoti augsts</span>
+|                     valūta = [[Ungārijas forints]]
+|               valūtas_kods = HUF
+| country_code = hu
+|                 laika_zona = [[Centrāleiropas laiks|CET]]
+|                 utc_offset = +1
+|             laika_zona_DST = [[Centrāleiropas vasaras laiks|CEST]]
+|             utc_offset_DST = +2
+|                     domēns = [[.hu]]{{smallsup|1}}
+|drives_on = right
+|             tālsarunu_kods = 36
+|                   piezīmes = 
+|             iso_kods_alfa2 = HU
+|             iso_kods_alfa3 = HUN
+|               iso_kods_num = 348
+|                 sport_code = HUN
+|               vehicle_code = H
+|                   piezīme1 = Arī [[.eu]], kopā ar citām [[Eiropas Savienība]]s dalībvalstīm.
+|map_caption={{map_caption |location_color=tumši zaļā |region=Eiropa |region_color=tumši pelēkā |subregion=Eiropas Savienība|subregion_color=zaļā |legend=EU-Hungary.svg}}}}
+'''Ungārija''' ({{val|hu|Magyarország}}) ir valsts [[Centrāleiropa]]s vidienē bez pieejas pie jūras.<ref>{{tīmekļa atsauce|url=https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html|title=Geography ::Hungary|publisher=cia.gov|accessdate=31 August 2011|archive-date={{dat|2009|06|10||bez}}|archive-url=https://web.archive.org/web/20090610082839/https://www.cia.gov/library/publications/the-world-factbook/geos/HU.html}}</ref> Rietumos tā robežojas ar [[Austrija|Austriju]], ziemeļos ar [[Slovākija|Slovākiju]], ziemeļaustrumos ar [[Ukraina|Ukrainu]], bet dienvidaustrumos ar [[Rumānija|Rumāniju]], dienvidos ar [[Serbija|Serbiju]], bet dienvidrietumos ar [[Horvātija|Horvātiju]] un [[Slovēnija|Slovēniju]]. Ungārija ir [[Eiropas Savienība]]s, [[NATO]], [[Ekonomiskās sadarbības un attīstības organizācija|OECD]] un [[Šengenas līgums|Šengenas zonas]] dalībniece. Valsts oficiālā valoda ir [[Ungāru valoda|ungāru]], kura ir visplašāk izplatītākā ne[[indoeiropiešu valoda]] [[Eiropa|Eiropā]] un izplatītākā [[Urāliešu valodas|urāliešu valoda]] pasaulē.<ref>{{grāmatas atsauce |url=http://books.google.com/books?id=nlWU3CkTAi4C&lpg=PA82&ots=wiY3TdhJ5F&dq=%22largest%20non-indo%20european%22%20europe%20hungarian&pg=PA82#v=onepage&q=%22largest%20non-indo%20european%22%20europe%20hungarian&f=false |title=Globally speaking: motives for adopting English vocabulary in other languages – Google Books |publisher=Google Books |accessdate=20 September 2010}}</ref> Valsts galvaspilsēta, lielākā pilsēta un ievērojams ekonomiskais centrs ir [[Budapešta]]. Citas ievērojamas pilsētas Ungārijā ir [[Debrecena]], [[Segeda]], [[Miškolca]], [[Pēča]] un [[Ģēra]].
+
+Ungārija pievienojās Eiropas Savienībai 2004. gadā un ir Šengenas zonas sastāvdaļa kopš 2007. gada. Ungārija ir labi pazīstama ar savu bagāto kultūru un ieguldījumiem [[Māksla|mākslā]], [[Mūzika|mūzikā]], [[Literatūra|literatūrā]], [[Sports|sportā]] un [[Zinātne|zinātnē]]. Ungārija ir populārs tūrisma galamērķis, piesaistot 10,7 miljonus tūristu gadā ([[2013]]).<ref>{{tīmekļa atsauce|url=http://www.e-unwto.org/content/r13521/fulltext.pdf|title=UNWTO World Tourism Barometer|publisher=World Tourism Organization|accessdate=20 August 2014|archiveurl=https://web.archive.org/web/20150112082549/http://www.e-unwto.org/content/r13521/fulltext.pdf|archivedate={{dat|2015|01|12||bez}}}}</ref> Ungārijā atrodas lielākā termālo ūdeņu alu sistēma,<ref>{{tīmekļa atsauce|url=http://www.iht.com/articles/reuters/2008/11/18/europe/OUKWD-UK-HUNGARY-CAVE.php |title=Search – Global Edition – The New York Times |work=International Herald Tribune |date=29 March 2009 |accessdate=20 September 2009}}</ref> otrs lielākais termālais ezers pasaulē ([[Hēvizas ezers]]), lielākais ezers [[Centrāleiropa|Centrāleiropā]] ([[Balatons]]) un lielākā dabas pļava Eiropā ([[Hortobāgas nacionālais parks]]).
+
+== Ungārijas vēsture ==
+{{pamatraksts|Ungārijas vēsture}}
+No 35. līdz 9. gadam p. m. ē. Donavas labā krasta zemes iekaroja [[romieši]] un izveidoja [[Romas impērija]]s [[Panonija]]s provinci. [[Lielā tautu staigāšana|Lielās tautu staigāšanas]] laikā Panonijas līdzenumu ieņēma [[huņņi]] un [[gepidi]], vēlāk [[Avāri (senie)|avāri]] un [[slāvi]]. 9. gadsimtā to pakļāva [[ungāri|ungāru]] ķēniņš [[Ārpāds]], 1000. gadā viņa mazmazdēls [[Ištvāns I]] kļuva par pirmo kristīto [[Ungārijas Karaliste|Ungārijas karali]]. 12. gadsimta vidū Ungārija kļuva par lielvalsti, kas sasniedza savu uzplaukumu 15. gadsimtā.<ref>Kristó Gyula – Barta János – Gergely Jenő: Magyarország története előidőktől 2000-ig (History of Hungary from the prehistory to 2000). Budapest: Pannonica Kiadó, 2002, {{ISBN|963-9252-56-5}}, p. 687, pp. 37, pp. 113 ("Magyarország a 12. század második felére jelentős európai tényezővé, középhatalommá vált."/"By the 12th century Hungary became an important European constituent, became a middle power.", "A Nyugat részévé vált Magyarország.../Hungary became part of the West"), pp. 616–644</ref> Pēc [[Mohāčas kauja]]s [[1526]]. gadā to pakļāva [[Osmaņu impērija]] ([[1541]] – [[1699]]). Pēc tam Ungāriju pakļāva [[Hābsburgu monarhija]], pēc ungāru sacelšanās izveidojās [[Austroungārija]]s dubultmonarhija ([[1867]] – [[1918]]).
+
+Ungārijas pašreizējās robežas tika noteiktas ar Trianonas līgumu (1920) pēc [[Pirmais pasaules karš|Pirmā pasaules kara]], kad valsts zaudēja 71% savas teritorijas, 58% iedzīvotāju un 32% etnisko ungāru. [[Otrais pasaules karš|Otrā pasaules kara]] sākumā Ungārija pievienojās [[Ass valstis|Ass valstīm]], kara laikā ciešot nopietnus zaudējumus. Pēc kara tā nonāca [[Padomju Savienība]]s ietekmes zonā un kļuva par PSRS satelītvalsti [[Ungārijas Tautas Republika|Ungārijas Tautas Republiku]] ([[1947]] – [[1989]]). Valsts ieguva plašu starptautisko uzmanību pēc [[1956. gada Ungārijas revolūcija]]s un robežas atvēršanas ar [[Austrija|Austriju]] 1989. gadā, paātrinot [[Austrumu bloks|Austrumu bloka]] sabrukumu.
+
+1989. gada 23. oktobrī Ungārija kļuva par demokrātisku, parlamentāru republiku, un mūsdienās ir valsts ar ļoti augstu tautas attīstības indeksu.<ref name=HighOECD>[http://data.worldbank.org/about/country-classifications/country-and-lending-groups#OECD_members Country and Lending Groups | Data]. Data.worldbank.org. Retrieved on 2014-08-11.</ref><ref name=qq>[http://hdr.undp.org/sites/default/files/hdr14_statisticaltables.xls United Nations Development Programme: Human Development Report, 2014]</ref>
+
+== Administratīvais iedalījums ==
+{{pamatraksts|Ungārijas administratīvais iedalījums}}
+Valsts ir sadalīta 19 meģēs ({{val|hu|megye}}), [[Budapešta]] ir atsevišķa galvaspilsētas municipalitāte, kura sīkāk iedalās 23 rajonos. Meģes veido [[Eiropas Savienība|ES]] [[NUTS]] 3. līmeņa apgabalus. Papildus ir 23 pilsētas ar meģes tiesībām. Meģes sīkāk iedalās 173 apakšreģionos. Valstī ir piecas pilsētas, kuras ir pilsētas ar meģes tiesībām, bet kuras pašas nav meģes centri — [[Ērda]] (Peštas meģē), [[Dunaūjvāroša]] (Fejēras meģē), [[Hodmezevāšārhēja]] (Čongrādas meģē), [[Naģkaniža]] (Zalas meģē) un [[Šoprona]] (Ģēras-Mošonas-Šopronas meģē).
+
+Kopš [[1999]]. gada meģes ir apvienotas reģionos, kuri veido ES NUTS 2. līmeņa apgabalus.
+
+=== Pilsētas ===
+{{pamatraksts|Ungārijas pilsētu uzskaitījums}}
+Ungārijā ir 346 [[pilsēta]]s un 2806 lauku apdzīvotās vietas, kopā 3152 apdzīvotās vietas. [[Galvaspilsēta]]i [[Budapešta]]i ir īpašs statuss un tā nav iekļauta nevienā meģē, savukārt 23 pilsētas ir ar meģu (novadu) tiesībām (centri).
+
+Četras pilsētas — [[Budapešta]], [[Miškolca]], [[Ģēra]] un [[Pēča]] — ir izveidojušas savas [[aglomerācija]]s. Ungārijas lielākā pilsēta ir Budapešta, savukārt mazākā ir [[Pālhāza]].
+
+== Etniskais sastāvs ==
+{| class="wikitable"
+|-
+! Gads!! 1920{{efn|name=val|Dati par dzimto valodu}}!! %!! 1930{{efn|name=val}}!! %!! 1941!! %!! 1949!! %!! 1960!! %!! 1970!! %!! 1980!! %!! 1990!! %!! 2001!! %
+|-
+| iedzīvotāji kopā|| 7990202|| 100|| 8688319|| 100|| 9316074|| 100|| 9204799|| 100|| 9961044|| 100|| 10322099|| 100|| 10709463|| 100|| 10374823|| 100|| 10198315|| 100
+|-
+| [[ungāri]]|| 7147053|| 89,45|| 8001112|| 92,09|| 8918868|| 95,74|| 9104640|| 98,91|| 9837275|| 98,76|| 10166237|| 98,49|| 10638974|| 99,34|| 10142072|| 97,76|| 9416045|| 92,33
+|-
+| [[vācieši]]|| 551211|| 6,90|| 478630|| 5,51|| 302198|| 3,24|| 2617|| 0,03|| 8640|| 0,09|| 35594|| 0,34|| 11310|| 0,11|| 30824|| 0,30|| 62105|| 0,61
+|-
+| [[slovāki]]|| 141882|| 1,78|| 104819|| 1,21|| 16677|| 0,18|| 7808|| 0,08|| 14340|| 0,14|| 21176|| 0.21|| 9101|| 0,08|| 10459|| 0,10|| 17693|| 0,17
+|-
+| [[rumāņi]]|| 23760|| 0,30|| 16221|| 0,19|| 7565|| 0,08|| 8500|| 0,09|| 12326|| 0,12|| 12624|| 0,12|| 8874|| 0,08|| 10740|| 0,10|| 7995|| 0,08
+|-
+| [[horvāti]]|| 36858|| 0,46|| 27683|| 0,32|| 4177|| 0,04|| 4106|| 0,04|| 14710|| 0,15|| 17609|| 0,17|| 13895|| 0,13|| 13570|| 0,13|| 15597|| 0,15
+|-
+| [[serbi]]|| 17131|| 0,21|| 7031|| 0,08|| 3629|| 0,04|| 4190|| 0,05|| 3888|| 0,04|| 12235|| 0,12|| 2805|| 0,03|| 2905|| 0,03|| 3816|| 0,04
+|-
+| [[slovēņi]]|| 6087|| 0,08|| 5464|| 0,06|| 2058|| 0,02|| 666|| 0,01|| nez.|| || 4205|| 0,04|| 1731|| 0,02|| 1930|| 0,02|| 3025|| 0,03
+|-
+| [[čigāni]]|| 6989|| 0,09|| 7841|| 0,09|| 27033|| 0,29|| 37598|| 0,41|| 56121|| 0,56|| 34957|| 0,34|| 6404|| 0,06|| 142683|| 1,37|| 189984|| 1,86
+|-
+| pārējie|| 59231|| 0,73|| 39518|| 0,45|| 33869|| 0,37|| 34674|| 0,38|| 13744|| 0,14|| 17462|| 0,17|| 16369|| 0,15|| 19640|| 0,19|| 584154|| 4,73
+|}
+
+=== Piezīmes ===
+{{notelist}}
+
+== Skatīt arī ==
+* [[Maģāri]]
+* [[Ungāru valoda]]
+* [[Ungārijas pilsētu uzskaitījums]]
+* [[Ungārijas administratīvais iedalījums]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20180803213711/http://hungarologie.at/ Die Hungarologie - Teilgebiet der Finnougristik und umfasst das Studium der ungarischen Sprache und Kultur.]
+* [http://www.mfa.gov.hu/kum/en/bal/Ministry/minister/foreign_ministers.htm Hungarian Foreign Ministers from 7 April 1848 to Our Days] {{Webarchive|url=https://web.archive.org/web/20060621090822/http://www.mfa.gov.hu/kum/en/bal/Ministry/minister/foreign_ministers.htm |date={{dat|2006|06|21||bez}} }}
+
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ungārija| ]]

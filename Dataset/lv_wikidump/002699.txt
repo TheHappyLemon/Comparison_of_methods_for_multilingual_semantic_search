@@ -1,0 +1,364 @@
+{{Motorsportista infokaste v2
+ |            vārds = Pedro de la Rosa
+ |       vārds_oriģ = ''Pedro de la Rosa''
+ |           attēls = Pedro de la Rosa 2010 Malaysia.jpg
+ |          att_izm = 
+ |         paraksts = Pedro de la Rosa 2010. gadā
+<!------ Personas dati ------>
+ |      pilns vārds = 
+ |           dz_dat = {{dzimšanas datums un vecums|1971|2|24}}
+ |          dz_viet = {{vieta|Spānija|Barselona}}
+ |          mir_dat = 
+ |         mir_viet = 
+ |          tautība = 
+ |             taut = {{ESP}}
+ |           garums = 
+ |            svars = 
+ |             alga = 
+ |          iesauka = 
+ |        izglītība = 
+<!------ Profesionālā informācija ------>
+ |          kar_sāk = 
+ |         kar_beig = 
+ |          komanda = {{flaga|Spānija}} [[HRT F1|HRT F1 Team]]
+ |           numurs = 22
+ |           veids0 = ''[[Formula 1]]''
+ |         treneris = 
+<!------ Pirmais veids ------>
+ |            veids = ''[[Formula 1]]''
+ |        zvaigznes = 
+ |          sezonas = {{f1|1999}} - {{f1|2002}},{{f1|2005}}—''pašlaik''
+ |        sacīkstes = 107 (105 starti)
+ |           tituli = 0
+ |          uzvaras = 0
+ |       pjedestāli = 1
+ |       p_position = 0
+ |           ā_apļi = 1
+ |       p_sacīkste = {{f1|1999}}. gada {{f1gp|Austrālijas}}
+ |         p_uzvara = 
+ |     pēd_sacīkste = {{f1|2012}}. gada {{f1gp|Brazīlijas}}
+ |       pēd_uzvara = 
+<!------ Klubi ------>
+ |          kl_sez1 = {{f1|1999}} - {{f1|2000}}
+ |           klubs1 = [[Arrows]]
+ |          kl_sez2 = {{f1|2001}} - {{f1|2002}}
+ |           klubs2 = [[Jaguar Racing|Jaguar]]
+ |          kl_sez3 = {{f1|2005}} - {{f1|2006}}
+ |           klubs3 = [[McLaren]]
+ |          kl_sez4 = {{f1|2010}} - {{f1|2011}}
+ |           klubs4 = [[Sauber]]
+ |          kl_sez5 = {{f1|2012}}
+ |           klubs5 = '''[[HRT F1|HRT]]'''
+<!------ Papildinformācija ------>
+ |       sasniegumi = 
+ |           aģenti = 
+ |            slavz = 
+ |          dzimums = 
+ |        atjaunots = {{dat|2012|11|24}}
+}}
+'''Pedro Martiness de la Rosa''' ({{val|es|Pedro Martínez de la Rosa}}; dzimis {{dat|1971|2|24}} [[Barselona|Barselonā]], [[Spānija|Spānijā]]) ir kataloniešu autosportists, kurš pārstāv Spāniju. Viņš ir pazīstams, pateicoties savai [[Formula 1]] karjerai. Kopš {{f1|2012}}. gada de la Rosa pārstāv ''[[HRT F1|HRT]]'' komandu.
+
+== Formula 1 karjera ==
+[[1998]]. gadā de la Rosa bija ''[[Jordan Grand Prix|Jordan]]'' [[Formula 1]] komandas testpilots. Par sacīkšu pilotu Pedro de la Rosa kļuva ''[[Arrows]]'' komandā {{f1|1999}}. gadā. Vienīgo punktu viņš izcīnīja sezonas pirmajā sacīkstē, {{f1gp|Austrālijas}}. Viņš palika komandā arī {{f1|2000}}. gadā, tosezon viņš izcīnīja divus punktus. Komanda nebija apmierināta ar viņa sniegumu un nolēma nepagarināt līgumu ar Spānijas pilotu uz vēl vienu sezonu.
+
+{{f1|2001}}. gada sezonas sākumā de la Rosa bija bez vietas komandā, tomēr pēc četrām aizvadītām sacīkstēm kļuva par ''[[Jaguar Racing|Jaguar]]'' komandas pamatsastāva pilotu, aizvietojot [[Lučāno Burti]], kurš devās uz ''[[Prost Grand Prix|Prost]]''. Savā pirmajā sezonā jaunajā komandā viņš izcīnīja 3 punktus, bet {{f1|2002}}. gadā neizcīnīja nevienu un tika atlaists no komandas pēc sezonas beigām.
+
+[[2003. gads|2003]]. gadā katalonietis kļuva par ''[[McLaren]]'' testpilotu. {{f1|2005}}. gadā viņš vienu sacīksti aizvietoja [[Huans Pablo Montoija|Huanu Pablo Montoiju]] laikā, kad viņš bija savainots, bet {{f1|2006}}. gadā aizvadīja otro sezonas pusi komandā pēc tam, kad Montoija pameta Formula 1 čempionātu. Turpmākos trīs gadus de la Rosa nepiedalījās nevienā sacīkstē.
+
+Kopš {{f1|2012}}. gada de la Rosa pārstāv ''[[HRT F1|HRT]]'' komandu.
+
+== Formula 1 rezultāti ==
+{{F1 rezultati tabula}}
+* Sacīkstes '''treknrakstā''' sāktas no pirmās starta pozīcijas.
+* Sacīkstēs ''slīprakstā'' ir uzrādīts ātrākais apļa laiks.
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+|-
+! Gads
+! Komanda
+! Šasija
+! Dzinējs
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! 19
+! 20
+! Vieta
+! Punkti
+|-
+| {{f1|1999}}
+! [[Arrows|Repsol Arrows]]
+! [[Arrows]] [[Arrows A20|A20]]
+! [[Arrows]] T2-F1 3.0 [[V10 dzinējs|V10]]
+|bgcolor="#DFFFDF"| [[1999. gada Austrālijas Grand Prix|AUS]]<br /><small>6</small>
+|bgcolor="#EFCFFF"| [[1999. gada Brazīlijas Grand Prix|BRA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Sanmarīno Grand Prix|SMR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Monako Grand Prix|MON]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[1999. gada Spānijas Grand Prix|ESP]]<br /><small>11</small>
+|bgcolor="#EFCFFF"| [[1999. gada Kanādas Grand Prix|CAN]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[1999. gada Francijas Grand Prix|FRA]]<br /><small>11</small>
+|bgcolor="#EFCFFF"| [[1999. gada Lielbritānijas Grand Prix|GBR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Austrijas Grand Prix|AUT]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Vācijas Grand Prix|GER]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[1999. gada Ungārijas Grand Prix|HUN]]<br /><small>15</small>
+|bgcolor="#EFCFFF"| [[1999. gada Beļģijas Grand Prix|BEL]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Itālijas Grand Prix|ITA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Eiropas Grand Prix|EUR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[1999. gada Malaizijas Grand Prix|MAL]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[1999. gada Japānas Grand Prix|JPN]]<br /><small>13</small>
+|
+|
+|
+|
+!18.
+!1
+|-
+|-
+| {{f1|2000}}
+! [[Arrows|Arrows F1 Team]]
+! [[Arrows]] [[Arrows A21|A21]]
+! [[Supertec]] FB02 3.0 [[V10 dzinējs|V10]]
+|bgcolor="#EFCFFF"| [[2000. gada Austrālijas Grand Prix|AUS]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2000. gada Brazīlijas Grand Prix|BRA]]<br /><small>8</small>
+|bgcolor="#EFCFFF"| [[2000. gada Sanmarīno Grand Prix|SMR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada Lielbritānijas Grand Prix|GBR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada Spānijas Grand Prix|ESP]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2000. gada Eiropas Grand Prix|EUR]]<br /><small>6</small>
+|bgcolor="#EFCFFF"| [[2000. gada Monako Grand Prix|MON]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada Kanādas Grand Prix|CAN]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada Francijas Grand Prix|FRA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada Austrijas Grand Prix|AUT]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2000. gada Vācijas Grand Prix|GER]]<br /><small>6</small>
+|bgcolor="#CFCFFF"| [[2000. gada Ungārijas Grand Prix|HUN]]<br /><small>16</small>
+|bgcolor="#CFCFFF"| [[2000. gada Beļģijas Grand Prix|BEL]]<br /><small>16</small>
+|bgcolor="#EFCFFF"| [[2000. gada Itālijas Grand Prix|ITA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2000. gada ASV Grand Prix|USA]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2000. gada Japānas Grand Prix|JPN]]<br /><small>12</small>
+|bgcolor="#EFCFFF"| [[2000. gada Malaizijas Grand Prix|MAL]]<br /><small>Izst</small>
+|
+|
+|
+!16.
+!2
+|-
+| {{f1|2001}}
+! [[Jaguar Racing]]
+! [[Jaguar Racing|Jaguar]] [[Jaguar R2|R2]]
+! [[Cosworth]] CR-3 3.0 [[V10 dzinējs|V10]]
+| [[2001. gada Austrālijas Grand Prix|AUS]]<br /><small></small>
+| [[2001. gada Malaizijas Grand Prix|MAL]]<br /><small></small>
+| [[2001. gada Brazīlijas Grand Prix|BRA]]<br /><small></small>
+| [[2001. gada Sanmarīno Grand Prix|SMR]]<br /><small></small>
+|bgcolor="#EFCFFF"| [[2001. gada Spānijas Grand Prix|ESP]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2001. gada Austrijas Grand Prix|AUT]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2001. gada Monako Grand Prix|MON]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2001. gada Kanādas Grand Prix|CAN]]<br /><small>6</small>
+|bgcolor="#CFCFFF"| [[2001. gada Eiropas Grand Prix|EUR]]<br /><small>8</small>
+|bgcolor="#CFCFFF"| [[2001. gada Francijas Grand Prix|FRA]]<br /><small>14</small>
+|bgcolor="#CFCFFF"| [[2001. gada Lielbritānijas Grand Prix|GBR]]<br /><small>12</small>
+|bgcolor="#EFCFFF"| [[2001. gada Vācijas Grand Prix|GER]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2001. gada Ungārijas Grand Prix|HUN]]<br /><small>11</small>
+|bgcolor="#EFCFFF"| [[2001. gada Beļģijas Grand Prix|BEL]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2001. gada Itālijas Grand Prix|ITA]]<br /><small>5</small>
+|bgcolor="#CFCFFF"| [[2001. gada ASV Grand Prix|USA]]<br /><small>12</small>
+|bgcolor="#EFCFFF"| [[2001. gada Japānas Grand Prix|JPN]]<br /><small>Izst</small>
+|
+|
+|
+! 16.
+! 3
+|-
+| {{f1|2002}}
+! [[Jaguar Racing]]
+! [[Jaguar Racing|Jaguar]] [[Jaguar R3|R3/R3B]]
+! [[Cosworth]] CR-3/CR-4 3.0 [[V10 dzinējs|V10]]
+|bgcolor="#CFCFFF"| [[2002. gada Austrālijas Grand Prix|AUS]]<br /><small>8</small>
+|bgcolor="#CFCFFF"| [[2002. gada Malaizijas Grand Prix|MAL]]<br /><small>10</small>
+|bgcolor="#CFCFFF"| [[2002. gada Brazīlijas Grand Prix|BRA]]<br /><small>8</small>
+|bgcolor="#EFCFFF"| [[2002. gada Sanmarīno Grand Prix|SMR]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2002. gada Spānijas Grand Prix|ESP]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2002. gada Austrijas Grand Prix|AUT]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2002. gada Monako Grand Prix|MON]]<br /><small>10</small>
+|bgcolor="#EFCFFF"| [[2002. gada Kanādas Grand Prix|CAN]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2002. gada Eiropas Grand Prix|EUR]]<br /><small>11</small>
+|bgcolor="#CFCFFF"| [[2002. gada Lielbritānijas Grand Prix|GBR]]<br /><small>11</small>
+|bgcolor="#CFCFFF"| [[2002. gada Francijas Grand Prix|FRA]]<br /><small>9</small>
+|bgcolor="#EFCFFF"| [[2002. gada Vācijas Grand Prix|GER]]<br /><small>Izst</small>
+|bgcolor="#CFCFFF"| [[2002. gada Ungārijas Grand Prix|HUN]]<br /><small>13</small>
+|bgcolor="#EFCFFF"| [[2002. gada Beļģijas Grand Prix|BEL]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2002. gada Itālijas Grand Prix|ITA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2002. gada ASV Grand Prix|USA]]<br /><small>Izst</small>
+|bgcolor="#EFCFFF"| [[2002. gada Japānas Grand Prix|JPN]]<br /><small>Izst</small>
+|
+|
+|
+! 21.
+! 0
+|-
+| {{f1|2005}}
+! [[McLaren|West McLaren Mercedes]]
+! [[McLaren]] [[McLaren MP4-20|MP4-20]]
+! [[Mercedes-Benz|Mercedes]] FO 110R 3.0 [[V10 dzinējs|V10]]
+|bgcolor="#F1F8FF"| [[2005. gada Austrālijas Grand Prix|AUS]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Malaizijas Grand Prix|MAL]]<br /><small>TP</small>
+|bgcolor="#DFFFDF"| ''[[2005. gada Bahreinas Grand Prix|BHR]]''<br /><small>5</small>
+|bgcolor="#F1F8FF"| [[2005. gada Sanmarīno Grand Prix|SMR]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Spānijas Grand Prix|ESP]]<br /><small>TP</small>
+| [[2005. gada Monako Grand Prix|MON]]<br /><small></small>
+| [[2005. gada Eiropas Grand Prix|EUR]]<br /><small></small>
+|bgcolor="#F1F8FF"| [[2005. gada Kanādas Grand Prix|CAN]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada ASV Grand Prix|USA]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Francijas Grand Prix|FRA]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Lielbritānijas Grand Prix|GBR]]<br /><small>TP</small>
+| [[2005. gada Vācijas Grand Prix|GER]]<br /><small></small>
+| [[2005. gada Ungārijas Grand Prix|HUN]]<br /><small></small>
+|bgcolor="#F1F8FF"| [[2005. gada Turcijas Grand Prix|TUR]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Itālijas Grand Prix|ITA]]<br /><small>TP</small>
+| [[2005. gada Beļģijas Grand Prix|BEL]]<br /><small></small>
+| [[2005. gada Brazīlijas Grand Prix|BRA]]<br /><small></small>
+|bgcolor="#F1F8FF"| [[2005. gada Japānas Grand Prix|JPN]]<br /><small>TP</small>
+|bgcolor="#F1F8FF"| [[2005. gada Ķīnas Grand Prix|CHN]]<br /><small>TP</small>
+|
+! 20.
+! 4
+|-
+| {{f1|2006}}
+! [[McLaren|Team McLaren Mercedes]]
+! [[McLaren]] [[McLaren MP4-21|MP4-21]]
+! [[Mercedes-Benz|Mercedes]] FO 108S 2.4 [[V8 dzinējs|V8]]
+| [[2006. gada Bahreinas Grand Prix|BHR]]<br /><small></small>
+| [[2006. gada Malaizijas Grand Prix|MAL]]<br /><small></small>
+| [[2006. gada Austrālijas Grand Prix|AUS]]<br /><small></small>
+| [[2006. gada Sanmarīno Grand Prix|SMR]]<br /><small></small>
+| [[2006. gada Eiropas Grand Prix|EUR]]<br /><small></small>
+| [[2006. gada Spānijas Grand Prix|ESP]]<br /><small></small>
+| [[2006. gada Monako Grand Prix|MON]]<br /><small></small>
+| [[2006. gada Lielbritānijas Grand Prix|GBR]]<br /><small></small>
+| [[2006. gada Kanādas Grand Prix|CAN]] <br /><small></small>
+| [[2006. gada ASV Grand Prix|USA]]<br /><small></small>
+|bgcolor="#DFFFDF"| [[2006. gada Francijas Grand Prix|FRA]]<br /><small>7</small>
+|bgcolor="#EFCFFF"| [[2006. gada Vācijas Grand Prix|GER]]<br /><small>Izst</small>
+|bgcolor="#DFDFDF"| [[2006. gada Ungārijas Grand Prix|HUN]]<br /><small>2</small>
+|bgcolor="#DFFFDF"| [[2006. gada Turcijas Grand Prix|TUR]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[2006. gada Itālijas Grand Prix|ITA]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2006. gada Ķīnas Grand Prix|CHN]]<br /><small>5</small>
+|bgcolor="#EFCFFF"| [[2006. gada Japānas Grand Prix|JPN]]<br /><small>Izst</small>
+|bgcolor="#DFFFDF"| [[2006. gada Brazīlijas Grand Prix|BRA]]<br /><small>8</small>
+|
+|
+! 11.
+! 19
+|-
+| {{f1|2010}}
+! [[Sauber|BMW Sauber]]
+! [[Sauber]] [[Sauber C29|C29]]
+! [[Scuderia Ferrari|Ferrari]] 056 2.4 [[V8 dzinējs|V8]]
+|bgcolor=#EFCFFF| [[2010. gada Bahreinas Grand Prix|BHR]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2010. gada Austrālijas Grand Prix|AUS]]<br /><small>12</small>
+| [[2010. gada Malaizijas Grand Prix|MAL]]<br /><small>NS</small>
+|bgcolor=#EFCFFF| [[2010. gada Ķīnas Grand Prix|CHN]]<br /><small>Izst</small>
+|bgcolor=#EFCFFF| [[2010. gada Spānijas Grand Prix|ESP]]<br /><small>Izst</small>
+|bgcolor=#EFCFFF| [[2010. gada Monako Grand Prix|MON]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2010. gada Turcijas Grand Prix|TUR]]<br /><small>11</small>
+|bgcolor=#EFCFFF| [[2010. gada Kanādas Grand Prix|CAN]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2010. gada Eiropas Grand Prix|EUR]]<br /><small>12</small>
+|bgcolor=#EFCFFF| [[2010. gada Lielbritānijas Grand Prix|GBR]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2010. gada Vācijas Grand Prix|GER]]<br /><small>14</small>
+|bgcolor=#DFFFDF| [[2010. gada Ungārijas Grand Prix|HUN]]<br /><small>7</small>
+|bgcolor=#CFCFFF| [[2010. gada Beļģijas Grand Prix|BEL]]<br /><small>11</small>
+|bgcolor=#CFCFFF| [[2010. gada Itālijas Grand Prix|ITA]]<br /><small>14</small>
+| [[2010. gada Singapūras Grand Prix|SIN]]<br /><small></small>
+| [[2010. gada Japānas Grand Prix|JPN]]<br /><small></small>
+| [[2010. gada Korejas Grand Prix|KOR]]<br /><small></small>
+| [[2010. gada Brazīlijas Grand Prix|BRA]]<br /><small></small>
+| [[2010. gada Abū Dabī Grand Prix|ABU]]<br /><small></small>
+|
+!17.
+!6
+|-
+| {{f1|2011}}
+! [[Sauber]]
+! [[Sauber]] [[Sauber C30|C30]]
+! [[Ferrari]] 056 2.4 [[V8 dzinējs|V8]]
+|bgcolor=white| [[2011. gada Bahreinas Grand Prix|BHR]]<br /><small>A</small>
+|bgcolor=white| [[2011. gada Austrālijas Grand Prix|AUS]]<br /><small></small>
+|bgcolor=white| [[2011. gada Malaizijas Grand Prix|MAL]]<br /><small></small>
+|bgcolor=white| [[2011. gada Ķīnas Grand Prix|CHN]]<br /><small></small>
+|bgcolor=white| [[2011. gada Turcijas Grand Prix|TUR]]<br /><small></small>
+|bgcolor=white| [[2011. gada Spānijas Grand Prix|ESP]]<br /><small></small>
+|bgcolor=white| [[2011. gada Monako Grand Prix|MON]]<br /><small></small>
+|bgcolor=#CFCFFF| [[2011. gada Kanādas Grand Prix|CAN]]<br /><small>12</small>
+|bgcolor=white| [[2011. gada Eiropas Grand Prix|EUR]]<br /><small></small>
+|bgcolor=white| [[2011. gada Lielbritānijas Grand Prix|GBR]]<br /><small></small>
+|bgcolor=white| [[2011. gada Vācijas Grand Prix|GER]]<br /><small></small>
+|bgcolor=white| [[2011. gada Ungārijas Grand Prix|HUN]]<br /><small></small>
+|bgcolor=white| [[2011. gada Beļģijas Grand Prix|BEL]]<br /><small></small>
+|bgcolor=white| [[2011. gada Itālijas Grand Prix|ITA]]<br /><small></small>
+|bgcolor=white| [[2011. gada Singapūras Grand Prix|SIN]]<br /><small></small>
+|bgcolor=white| [[2011. gada Japānas Grand Prix|JPN]]<br /><small></small>
+|bgcolor=white| [[2011. gada Korejas Grand Prix|KOR]]<br /><small></small>
+|bgcolor=white| [[2011. gada Indijas Grand Prix|IND]]<br /><small></small>
+|bgcolor=white| [[2011. gada Abū Dabī Grand Prix|ABU]]<br /><small></small>
+|bgcolor=white| [[2011. gada Brazīlijas Grand Prix|BRA]]<br /><small></small>
+! 20.
+! 0
+|-
+| {{f1|2012}}
+! [[HRT F1]]
+! [[HRT F1|HRT]] [[HRT F112|F112]]
+! [[Cosworth]] CA2011 [[V8 dzinējs|V8]]
+|bgcolor=#FFCFCF| [[2012. gada Austrālijas Grand Prix|AUS]]<br /><small>NK</small>
+|bgcolor=#CFCFFF| [[2012. gada Malaizijas Grand Prix|MAL]]<br /><small>21</small>
+|bgcolor=#CFCFFF| [[2012. gada Ķīnas Grand Prix|CHN]]<br /><small>21</small>
+|bgcolor=#CFCFFF| [[2012. gada Bahreinas Grand Prix|BHR]]<br /><small>20</small>
+|bgcolor=#CFCFFF| [[2012. gada Spānijas Grand Prix|ESP]]<br /><small>19</small>
+|bgcolor=#EFCFFF| [[2012. gada Monako Grand Prix|MON]]<br /><small>Izst</small>
+|bgcolor=#EFCFFF| [[2012. gada Kanādas Grand Prix|CAN]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2012. gada Eiropas Grand Prix|EUR]]<br /><small>17</small>
+|bgcolor=#CFCFFF| [[2012. gada Lielbritānijas Grand Prix|GBR]]<br /><small>20</small>
+|bgcolor=#CFCFFF| [[2012. gada Vācijas Grand Prix|GER]]<br /><small>21</small>
+|bgcolor=#CFCFFF| [[2012. gada Ungārijas Grand Prix|HUN]]<br /><small>22</small>
+|bgcolor=#CFCFFF| [[2012. gada Beļģijas Grand Prix|BEL]]<br /><small>18</small>
+|bgcolor=#CFCFFF| [[2012. gada Itālijas Grand Prix|ITA]]<br /><small>18</small>
+|bgcolor=#CFCFFF| [[2012. gada Singapūras Grand Prix|SIN]]<br /><small>17</small>
+|bgcolor=#CFCFFF| [[2012. gada Japānas Grand Prix|JPN]]<br /><small>18</small>
+|bgcolor=#EFCFFF| [[2012. gada Korejas Grand Prix|KOR]]<br /><small>Izst</small>
+|bgcolor=#EFCFFF| [[2012. gada Indijas Grand Prix|IND]]<br /><small>Izst</small>
+|bgcolor=#CFCFFF| [[2012. gada Abū Dabī Grand Prix|ABU]]<br /><small>17</small>
+|bgcolor=#CFCFFF| [[2012. gada ASV Grand Prix|USA]]<br /><small>21</small>
+|bgcolor=#CFCFFF| [[2012. gada Brazīlijas Grand Prix|BRA]]<br /><small>17</small>
+! 25.
+! 0
+|}
+
+<!--<nowiki>*</nowiki> - Pašreizējā sezona.<br />-->
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [http://www.pedrodelarosa.com/ Oficiālā mājaslapa] {{en ikona}}, {{es ikona}}
+
+{{Scuderia Ferrari}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Rosa, Pedro de la}}
+[[Kategorija:1971. gadā dzimušie]]
+[[Kategorija:Katalonijā dzimušie]]
+[[Kategorija:Formula 1 piloti]]
+[[Kategorija:Formula 3 piloti]]
+[[Kategorija:Spānijas autosportisti]]

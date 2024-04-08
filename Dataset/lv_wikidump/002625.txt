@@ -1,0 +1,122 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Vīne
+ | official_name              = ''Wien''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Collage von Wien.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Wien.svg
+ | image_seal               = Vienna seal 1926.svg
+ | image_shield             = Wien Wappen.svg
+ | pushpin_map              = Austrija
+ | pushpin_label_position   = left
+ | latd  = 48 | latm  = 12 | lats  = 32 | latNS  = N
+ | longd = 16 | longm = 22 | longs = 21 | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Austrija}}'''
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | area_total_km2           = 414.65
+ | area_total_sq_mi         = 
+ | area_land_km2            = 395.26
+ | area_land_sq_mi          = 
+ | area_water_km2           = 19.39
+ | elevation_max_m          = 542
+ | elevation_min_m          = 151
+ | population_total         = 1714142
+ | population_as_of         = {{dat|2011|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_density_sq_mi = 
+ | population_urban         = 1983836
+ | population_metro         = 
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | website                  = {{url|http://www.wien.gv.at/}}
+ | footnotes                = 
+ | embedded            = 
+ {{Designation list
+|    embed = yes
+|             designation1 = WHS
+|     designation1_offname = Vīnes vēsturiskais centrs
+|        designation1_type = Kultūra
+|    designation1_criteria = ii, iv, vi
+|        designation1_date = 2001
+|           delisted1_date = 
+|      designation1_partof = 
+|      designation1_number = [http://whc.unesco.org/en/list/1033 1033]
+|   designation1_free1name = Valsts
+|  designation1_free1value = {{vieta|Austrija}}
+|   designation1_free2name = Platība
+|  designation1_free2value = 371 ha
+|   designation1_free3name = 
+|  designation1_free3value = 
+}}
+}}
+'''Vīne''' (''Wien'') ir [[Austrija]]s galvaspilsēta un lielākā pilsēta. Tā atrodas pie [[Donava]]s upes valsts austrumos. Gadsimtiem bijusi [[Hābsburgu impērija]]s galvaspilsēta. Devusi nepārvērtējamu ieguldījumu pasaules kultūrā, it sevišķi [[mūzika|mūzikā]].
+
+Vīnē atrodas [[Apvienoto Nāciju Rūpnieciskās Attīstības organizācija|ANO Rūpnieciskās attīstības organizācijas]], [[OPEC|Naftas eksportētājvalstu organizācijas]] un [[ANO Starptautiskā atomenerģijas aģentūra|ANO Starptautiskās atomenerģijas aģentūras]] galvenās mītnes.
+
+Slavena ar [[klasicisms|klasicisma]] un [[jūgendstils|jūgendstila]] arhitektūru un savām greznajām [[kafejnīca|kafejnīcām]].
+
+== Vēsture ==
+Rakstītā pilsētas vēsture sākas ar [[Senā Roma|romiešu]] cietoksni (''castrum''), ko 1. gadsimtā nodibināja viens no [[leģions (Roma)|leģioniem]]. Ap cietoksni izauga apmetne — '''Vindobona''' (tulkojumā — 'labs vīns') —, tomēr līdz pat 11. gadsimtam Vīne bija neliela pilsētiņa. Kad [[Otons I]] [[955]]. gadā sakāva [[ungāri|ungārus]] [[Lehfeldas kauja|Lehfeldas kaujā]], tika nodibināta [[Austrijas markgrāfiste]] (daļa no mūsdienu [[Lejasaustrija]]s), kuru pārvaldīja [[Bābelbergi|Bābelbergu]] dinastija. [[1155]]. gadā Austrijas markgrāfs [[Heinrihs II]] izvēlējās Vīni par Austrijas galvaspilsētu.
+
+[[Trešais Krusta karš|Trešā Krusta kara]] laikā Vīnes [[hercogs]] [[Leopolds V]] sagūstīja [[Anglija]]s karali [[Ričards I Lauvassirds|Ričardu I]] (Ričardu Lauvassirdi), un Vīne ieguva milzīgu izpirkuma maksu [[sudrabs|sudrabā]], kas palīdzēja nostiprināt pilsētas statusu. [[1221]]. gadā Vīne ieguva pilsētas tiesības un drīz kļuva turīga, jo atradās vairāku tirdzniecības ceļu krustojumā un kontrolēja gan Donavas tirdzniecību, gan tirdzniecību ar [[Venēcija|Venēciju]]. [[1278]]. gadā Vīne nonāca toreizējā [[Svētā Romas impērija|Svētās Romas impērijas]] imperatora [[Rūdolfs I Hābsburgs|Rūdolfa I]] no [[Hābsburgi|Hābsburgu]] dinastijas īpašumā. Hābsburgi saglabāja savu varu pār Vīni līdz pat [[1918]]. gadam.
+
+[[1365]]. gadā nodibināja Vīnes Universitāti. 14. un 15. gadsimtā, kad Svētā Romas impērijā dominēja [[Bohēmija]]s [[Luksemburgi|Luksemburgu]] dinastija, Vīne atradās [[Prāga]]s paēnā, tomēr [[1438]]. gadā Hābsburgam [[Alberts II (Vācija)|Albertam II]] kļūstot par imperatoru, Vīne kļuva par Svētās Romas impērijas galvaspilsētu. [[1556]]. gadā Vīne kļuva par impērijas centru, jo Hābsburgi ieguva arī [[Ungārija]]s un [[Bohēmija]]s kroni.
+
+[[Attēls:Vienna Battle 1683.jpg|thumb|left|250px|[[Kauja par Vīni|Vīnes kauja]] [[1683]]. gada [[12. septembris|12. septembrī]].]]
+[[1529]]. gadā pilsētu nesekmīgi aplenca [[Osmaņu impērija|osmaņu]] [[Osmaņu dinastija|sultāns]] [[Suleimans I|Suleimans I Lieliskais]]. [[1683]]. gadā osmaņi to darīja otrreiz (skat. [[Kauja par Vīni]]), un tikai ar [[Polija|poļu]] karaļa [[Jans III|Jana III Sobeska]] palīdzību Vīnei izdevās izglābties no sultāna [[Mehmeds IV|Mehmeda IV]] karaspēka, kuru kaujā vadīja [[lielvezīrs]] [[Mustafa Melnais pašā]]. Šis notikums kļuva par pagrieziena punktu [[Eiropa]]s valstu cīņā pret [[Osmaņu impērija]]s ekspansiju.
+
+[[Napoleona kari|Napoleona karu]] laikā Vīni divreiz ([[1805]]. un [[1809]]. gados) ieņēma [[Napoleons|Napoleona]] karaspēks. Pēc Napoleona sakāves no [[1814]]. līdz [[1815]]. gadam Vīnē notika [[Vīnes kongress]], kurā uzvarētāji lēma par jaunajām Eiropas robežām.
+
+{{dat|1848|3|13}} Vīnē izcēlās [[1848. gada revolūcija Austrijā|1848. gada revolūcija]], kura bija daļa no t.s. [[Tautu pavasaris|Tautu pavasara]]. 19. gadsimts Vīnē bja intensīvas [[industrializācija]]s laiks. 20. gadsimta sākumā Vīne bija jūgendstila centrs. Politiskajā dzīvē viens no redzamākajiem pārstāvjiem bija pilsētas galva [[Karls Lugers]], izteikts [[antisemītisms|antisemīts]] un viens no [[Hitlers|Hitlera]] (pēc viņa paša vārdiem) iedvesmotājiem.
+
+Pēc [[Austroungārija]]s sakāves [[Pirmais pasaules karš|Pirmajā pasaules karā]] {{dat|1918|11|12}} Vīnē tika proklamēta Vācu-Austrijas (''Deutsch-Österreich'') republika. Līdz pat [[1934]]. gadam pilsētas politikā dominēja [[sociāldemokrātija|sociāldemokrāti]]. [[1934]]. gada Austrijā izcēlās [[Austrijas pilsoņu karš|pilsoņu karš]] starp sociāldemokrātisko [[Šucbunds|Šucbundu]] (''Schutzbund'') un konservatīvo [[Heimvērs|Heimvēru]] (''Heimwehr''). Vīnē notika ielu cīņas. Ar policijas un Heimvēra spēku palīdzību konservatīvais Austrijas kanclers [[Engelberts Dreifuss]] ieguva autoritāru varu, tomēr {{dat|1934|7|25}} Dreifusu atentātā nogalināja [[Nacionālsociālisms|nacisti]], un par [[Austrija]]s vadītāju kļuva [[Kurts Šusnigs]].
+
+[[1938]]. gadā pēc [[Anšluss|Anšlusa]] Austrija iekļāvās [[Vācija]]s sastāvā. [[1938]]. un [[1940]]. gados Vīnē tika noslēgtas [[Vīnes arbitrāžas]]. Pēc [[Vācija]]s sakāves [[Otrais pasaules karš|Otrajā pasaules karā]] Austrija un arī tās galvaspilsēta Vīne, tāpat kā Vācija tika sadalīta četrās okupācijas zonās. {{dat|1955|5|15}} starp bijušajiem sabiedrotajiem Otrajā pasaules karā un Austrijas valdību tika parakstīts [[Austrijas valsts līgums]] (''Österreichischer Staatsvertrag'') par Austrijas [[suverenitāte]]s atjaunošanu.
+
+== Ievērojamākās vietas ==
+[[Attēls:Simmering (Wien) - Gasometer (1).JPG|thumb|Vīne]]
+* [[Grābena]] (''Graben'') — viena no ievērojamākajām ielām
+* [[Hofburga]] (''Hofburg'') — Austrijas imperatoru ziemas rezidence
+* [[Sv. Stefana katedrāle]] (''Stephansdom'') — Vīnes galvenā baznīca
+* [[Šēnbrunnas pils]] (''Schloss Schönbrunn'') — Austrijas imperatoru vasaras rezidence
+* [[Vīnes Pilsētas teātris]] (''Burgtheater'') — ievērojamākais teātris
+* [[Vīnes Rings]] (''Ringstraße'') — viena no ievērojamākajām ielām
+* [[Vīnes opera]] (''Wiener Staatsoper'') — viens no ievērojamākajiem operteātriem pasaulē
+<br /><gallery caption="Vīne - Wien">
+Wien-Graben-18-2009-gje.jpg|Grābena
+Wien-Hofburg-117-Reichskanzleitrakt-2007-gje.jpg|Hofburga
+Wien-Hofbibliothek-04-2005-gje.jpg|Hofburga
+Wien-Stephansdom-138-innen-2007-gje.jpg|Sv. Stefana katedrāle
+Wien-Schoenbrunn-104-Gartenfront-2007-gje.jpg|Šēnbrunnas pils
+Wien-Burgtheater-106-2007-gje.jpg|Vīnes Pilsētas teātris
+Wien-Stubenring-04-Nr1-Regierungsgebaeude-2008-gje.jpg|Vīnes Rings
+Wien-Staatsoper-108-2007-gje.jpg|Vīnes opera
+Wien-Staatsoper-204-2013-gje.jpg|Vīnes opera
+</gallery>
+
+== Skatīt arī ==
+* [[Vīnē dzimušo uzskaitījums]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Austrija UNESCO}}
+{{Austrijas zemes}}
+{{Eiropas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vīne|*]]
+[[Kategorija:Austrijas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]
+[[Kategorija:Austrijas administratīvais iedalījums]]

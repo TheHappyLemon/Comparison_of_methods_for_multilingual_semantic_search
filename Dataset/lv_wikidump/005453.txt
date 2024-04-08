@@ -1,0 +1,88 @@
+{{Futbola izlases infokaste
+| Name           = Jaunzēlande
+| Badge          = 
+| Badge_size     = 
+| Nickname       = ''All Whites''
+| Association    = ''New Zealand Football'' (NZF)
+| Confederation  = [[OFC]] ([[Okeānija]])
+| Coach          = {{flaga|ENG}} Darens Beizlijs
+| Captain        = [[Kriss Vuds]]
+| Most caps      = [[Ivans Viceličs]] (88)
+| Top scorer     = [[Kriss Vuds]] (33)
+| Home Stadium   = 
+| FIFA Trigramme = NZL
+| pattern_la1      = _botafogo18t
+| pattern_b1       = _nzl22h
+| pattern_ra1      = _botafogo18t
+| pattern_sh1      = _frankfurt2223h
+| pattern_so1      = _blacktop
+| leftarm1         = FFFFFF
+| body1            = FFFFFF
+| rightarm1        = FFFFFF
+| shorts1          = FFFFFF
+| socks1           = FFFFFF
+| pattern_la2      = _blackborder
+| pattern_b2       = _nzl22a
+| pattern_ra2      = _blackborder
+| pattern_sh2      = _nikewhite
+| pattern_so2      = _nikewhite
+| leftarm2         = 050505
+| body2            = 050505
+| rightarm2        = 050505
+| shorts2          = 050505
+| socks2           = 050505
+| First game       = {{fb|NZL}} 3:1 {{fb-rt|AUS}} <br /> ([[Danīdina]], [[Jaunzēlande]]; {{dat|1922|6|17|N|bez}})
+| Largest win        = {{fb|NZL}} 13:0 {{fb-rt|FIJ}} <br /> ([[Oklenda]], [[Jaunzēlande]]; {{dat|1981|8|16|N|bez}})
+| Largest loss       = {{fb|NZL}} 0:10 {{fb-rt|AUS}} <br /> ([[Velingtona]], [[Jaunzēlande]]; {{dat|1936|7|11|N|bez}})
+| World cup apps     = 2
+| World cup first    = 1982
+| World cup best     = Grupu turnīrs ([[1982. gada FIFA Pasaules kauss|1982]] and [[2010. gada FIFA Pasaules kauss|2010]])
+| Regional name      = [[Okeānijas Nāciju kauss]]
+| Regional cup apps  = 10
+| Regional cup first = 1973
+| Regional cup best  = '''Čempioni'''<br/>(1973, 1998, 2002, 2008, 2016)
+| Confederations cup apps = 4
+| Confederations cup first = 1999
+| Confederations cup best = Grupu turnīrs<br/>([[1999. gada FIFA Konfederāciju kauss|1999]], [[2003. gada FIFA Konfederāciju kauss|2003]], [[2009. gada FIFA Konfederāciju kauss|2009]], [[2017. gada FIFA Konfederāciju kauss|2017]])
+}}
+'''Jaunzēlandes futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Jaunzēlande|Jaunzēlandi]] starptautiskās futbola sacensībās. Jaunzēlandes futbola izlasi pārvalda ''New Zealand Football''. Savu pirmo spēli izlase aizvadīja 1922. gadā pret [[Austrālijas futbola izlase|Austrālijas izlasi]]. Divas reizes jaunzēlandieši ir piedalījušies [[FIFA Pasaules kauss|FIFA Pasaules kausa]] finālturnīrā —  [[1982. gada FIFA Pasaules kauss|1982.]] un [[2010. gada FIFA Pasaules kauss|2010. gadā]], taču nespēja tikt ārā no apakšgrupas. Jaunzēlande 10 reizes ir piedalījusies [[Okeānijas Nāciju kauss|Okeānijas Nāciju kausa izcīņā]] un ir pieckārtēji [[Okeānija]]s čempioni.
+
+== Rezultāti nozīmīgākajos turnīros ==
+=== FIFA Pasaules kausā ===
+* [[1930. gada FIFA Pasaules kauss|1930]]—[[1966. gada FIFA Pasaules kauss|1966]] — ''Nepiedalījās''
+* [[1970. gada FIFA Pasaules kauss|1970]]—[[1978. gada FIFA Pasaules kauss|1978]] — ''Nekvalificējās''
+* [[1982. gada FIFA Pasaules kauss|1982]] — Grupu turnīrs
+* [[1986. gada FIFA Pasaules kauss|1986]]—[[2006. gada FIFA Pasaules kauss|2006]] — ''Nekvalificējās''
+* [[2010. gada FIFA Pasaules kauss|2010]] — Grupu turnīrs
+* [[2014. gada FIFA Pasaules kauss|2014]] — ''Nekvalificējās''
+* [[2018. gada FIFA Pasaules kauss|2018]] — ''Nekvalificējās''
+* [[2022. gada FIFA Pasaules kauss|2022]] — ''Nekvalificējās''
+
+=== Okeānijas Nāciju kausā ===
+* 1973 — '''Čempioni'''
+* 1980 — Grupu turnīrs
+* 1996 — Pusfināls
+* 1998 — '''Čempioni'''
+* 2000 — 2. vieta
+* 2002 — '''Čempioni'''
+* 2004 — 3. vieta
+* 2008 — '''Čempioni'''
+* 2012 — 3.vieta
+* 2016 — '''Čempioni'''
+* 2020 — ''Turnīrs atcelts''
+
+== Sastāvs 2010. gada Pasaules kausa finālturnīrā ==
+
+{{Jaunzēlandes izlase 2010. gada Pasaules kausa finālturnīrā}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{OFC izlases}}
+
+[[Kategorija:Jaunzēlandes futbola izlase| ]]
+[[Kategorija:Okeānijas futbola izlases]]

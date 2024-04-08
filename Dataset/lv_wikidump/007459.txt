@@ -1,0 +1,102 @@
+{{Latvijas novada infokaste
+| nosaukums         = Skaistkalnes pagasts
+| karte             = Skaistkalnes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = LVA Skaistkalnes pagasts COA.png‎
+| ģerboņa_nosaukums = Skaistkalnes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Skaistkalnes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Bauskas novads
+| centrs            = Skaistkalne
+| platība           = 106,1
+| iedzīvotāji       = 1162<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1162 / 112 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = www.skaistkalne.lv
+}}
+
+'''Skaistkalnes pagasts''' ir viena no [[Bauskas novads|Bauskas novada]] administratīvajām teritorijām, [[Mēmele]]s kreisajā krastā. Robežojas ar [[Lietuva|Lietuvu]], sava novada [[Kurmenes pagasts|Kurmenes]], [[Bārbeles pagasts|Bārbeles]], [[Brunavas pagasts|Brunavas]] un [[Vecsaules pagasts|Vecsaules]] pagastiem. Pagasta centrs atrodas [[Skaistkalne|Skaistkalnē]]. 
+
+== Daba ==
+Atrodas [[Viduslatvijas zemiene]]s [[Upmales paugurlīdzenums|Upmales paugurlīdzenuma]] dienviddaļā. Teritorijas virsmas augstums mainās no 30 m vjl. ziemeļrietumos līdz 50 m austrumos un dienvidaustrumos. Virsma viegli viļņota.
+
+=== Hidrogrāfija ===
+==== Upes ==== 
+[[Iecava (upe)|Iecava]], [[Mēmele]], [[Rukšupīte]].
+
+==== Ezeri ====  
+[[Baltezers (Skaistkalnes pagasts)|Baltezers]], [[Lielais Melnezers]], [[Mazais Melnezers]].
+
+== Vēsture ==
+Tagadējā Skaistkalnes pagasta teritorija atrodas senajā [[Medene]]s zemē. 
+
+Nosaukums radies no novada pirmā [[lēnis|lēņa]] īpašnieka Hermaņa Šēnberga (no {{val-de|Schönberg}} — "skaists kalns") vārda. Līdz 1925. gadam pagastu sauca '''Šenbergas pagasts'''.<ref>{{Pagastu apraksti}}</ref> 
+
+Mūsdienu Skaistkalnes pagasta teritorijā vēsturiski atradās Ānmēmeles muiža (''Gut Hahns-Memelshof'', [[Mēmele (Skaistkalnes pagasts)|Mēmele]]), Jaunsaules muiža (''Gut Neu-Rahden'', [[Saules]]), Šēnbergas muiža (''Gut Schönberg'', [[Skaistkalne]]).
+
+1935. gadā pagasta platība bija 87,8 km<sup>2</sup>. 1945. gadā pagastā izveidoja Skaistkalnes un [[Augšmēmeles ciems|Augšmēmeles]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1951. gadā Skaistkalnes ciemam pievienoja Augšmēmeles ciema [[kolhozs|kolhoza]] "Skaistkalne" teritoriju. 1963. gadā pievienoja [[Jaunsaules ciems|Jaunsaules ciemu]], bet Skaistkalnes ciema kolhoza "Jaunā gvarde" teritoriju iekļāva [[Kurmenes ciems|Kurmenes ciemā]]. 1977. gadā daļa teritorijas pievienota [[Vecsaules ciems|Vecsaules ciemam]].<ref>{{EncLP}}</ref> 1990. gadā ciemu reorganizēja par [[pagasts|pagastu]]. 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Vecumnieku novads|Vecumnieku novadā]]. 2021. gadā Vecumnieku novadu iekļāva [[Bauskas novads|Bauskas novadā]].
+
+[[Attēls:50-Skaistkalne.jpg|thumb|250px| Skaistkalnes un Kurmenes apkārtnes 1925 gada topografiskā karte.]]
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 65%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2875
+|1959|1925
+|1967|1600
+|1979|1597
+|1989|1520
+|2000|1512
+|2011|1159
+|2021|935
+}}
+
+=== Apdzīvotās vietas ===
+[[Kalnakrogs (Skaistkalnes pagasts)|Kalnakrogs]], [[Kalnamuiža (Skaistkalnes pagasts)|Kalnamuiža]], [[Mēmele (Skaistkalnes pagasts)|Mēmele]], [[Putni (Skaistkalnes pagasts)|Putni]], '''[[Skaistkalne]]'''.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="70px" perrow="5">
+
+Attēls:skaistkalnesbaznica.JPG|<center><small>Skaistkalnes Romas katoļu baznīca</small></center>
+Attēls:skaistkalnesbaznica2.JPG|<center><small>Skaistkalnes Romas katoļu baznīca</small></center>
+Attēls:Skaiskalnesbaznica3.JPG|<center><small>Skaistkalnes baznīcas interjers</small></center>
+Attēls:skaistkalnes klosteris.JPG|<center><small>Romas Katoļu Skaistkalnes tēvu Paulīniešu klostera paliekas</small></center>
+Attēls:skaistkalne2.JPG|<center><small>Skaistkalne</small></center>
+Attēls:skaistkalne3.JPG|<center><small>Mēmele un Skaistkalnes muiža</small></center>
+Attēls:skaistkalne krucifikss.JPG|<center><small>Krucifikss pie klostera</small></center>
+Attēls:muratilts.JPG|<center><small>Mūra tilts</small></center>
+Attēls:Skaistkalnes muiza.JPG|<center><small>Skaistkalnes muiža</small></center>
+Attēls:pieminas akmens skaistkalne.JPG|<center><small>Piemiņas akmens II Pasaules kara kritušajiem</small></center>
+</gallery></center>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Bauskas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Vecumnieku novads}}
+{{Bauskas rajons}}
+{{Bauskas apriņķis}}
+}}
+[[Kategorija:Zemgale]]
+[[Kategorija:Bauskas novada pagasti]]
+[[Kategorija:Skaistkalnes pagasts| ]]

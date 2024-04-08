@@ -1,0 +1,87 @@
+'''UNIX''' ir [[Pārnesamā programmatūra|pārnesama]], daudzuzdevumu un daudzlietotāju [[operētājsistēma]], ko sākotnēji izstrādāja [[ATT|AT&T]] [[Bell Labs]] darbinieki, tai skaitā [[Kens Tomsons]], [[Deniss Ričijs]] un [[Daglass Makilrojs]]. Mūsdienās UNIX ir sadalījusies vairākos atzaros, ko laika gaitā ir izstrādājuši AT&T, vairāki komerciāli uzņēmumi, kā arī bezpeļņas organizācijas, piemēram, [[GNU]] projekta līdzstrādnieki.
+
+Pašreizējie UNIX tirdzniecības zīmes īpašnieki ir [[The Open Group]], bet uz tiesībām uz UNIX pirmkodu pretendē [[SCO]] un [[Novell]] (par šo jautājumu šobrīd notiek tiesvedība). Par UNIX-tipa sistēmām sauc tādas sistēmas, kas atbilst [[Single UNIX Specification]].
+
+== Vēsture ==
+
+Sešdesmito gadu beigās [[Masačūsetsas Tehnoloģiju institūts]], AT&T (American Telegraph & Telephone) izstrādes divīzija Bell Labs un General Electric strādāja pie eksperimentālas operētājsistēmas [[Multics]], kuru projektēja GE-645 lieldatoram. Izpētes mērķis bija radīt interaktīvu operētājsistēmu, ar daudzām, līdz tam laikam, nerealizētām iespējām — tai skaitā uzlabotu sistēmas drošību. Projekts piedzīvoja pāris produkcijas relīzes, taču sistēma izrādījās nerentabla.
+
+Darbu pie UNIX, 1969. gadā, uzsāka zinātnieks no Bell Laboratories vārdā Kens Tompsons. Tolaik viņš piedalījās izpētes projektā, ko sauca par Multics. Laikadalīšanas (no angļu. val. timesharing) koncepts 60—to gadu beigās vēl joprojām bija jaunums, datoru aparatūra tolaik ļoti primitīva, salīdzinot — tā brīža jaudīgākajām mašīnām bija ievērojami mazāk skaitļojamās jaudas un atmiņas, nekā tipiskam mūsdienu mobilajam telefonam. Arī video displeja termināļi nebija īpaši izplatīti. Par standarta interaktīvo ierīci, agrīnajās vairāklietotāju sistēmās, kalpoja ASR—33 teletaips — lēna un trokšņaina iekārta, kas printēja tikai augšējā reģistra burtus uz lieliem, dzelteniem papīra ruļļiem. Tāpēc, vēsturiski, UNIX sistēmās visu komandu un direktoriju nosaukumi saglabāti kā vārdu saīsinājumi vai abreviatūras.
+
+Kad Bell Labs izstājās no Multics izstrādes konsorcija, Kenam Tompsonam bija padomā pāris ideju par to, kā būtu jāveido datņu sistēma, taču viņš tika atstāts bez mašīnas, uz kuras viņš bija ieradis spēlēt paša rakstīto zinātniskās fantastikas spēli Space Travel. Tā bija datorspēle—simulators, kurā jātbild par raķetes navigāciju ārpus Saules sistēmas.
+
+UNIX savu dzīvi uzsāka uz [[PDP-7]] minidatora. Sistēma kalpoja gan kā Tompsona spēļu platforma, gan kā izmēģinājumu poligons dažām jaunajām arhitektūras idejām, par kurām viņš domāja, kad vēl strādāja pie projekta Multics.
+
+== UNIX versijas ==
+
+=== Pētnieciskās ===
+* '''Ken's new system''' ('''Unix''') (1969)
+* '''UNIX Time-Sharing System v1''' (1971)
+* '''UNIX Time-Sharing System v2''' (1972)
+* '''UNIX Time-Sharing System v3''' (1973)
+* '''UNIX Time-Sharing System v4''' (1973)
+* '''UNIX Time-Sharing System v5''' (1974)
+** '''UNSW 01''' (1978)
+* '''UNIX Time-Sharing System v6''' (1974)
+** '''MINI-UNIX''' (1977)
+** '''PWB/UNIX 1.0''' (1977)
+*** '''USG 1.0'''
+**** '''CB Unix 1'''
+** '''UCLA Secure UNIX''' (1979)
+* '''UNIX Time-Sharing System v7''' (1979)
+** '''Unix System III''' (1981)
+* '''UNIX Time-Sharing System v8''' (1985)
+* '''UNIX Time-Sharing System v9''' (1986)
+* '''UNIX Time-Sharing System v10''' (1989)
+
+Pēc 10. versijas izlaides Bell Labs tālāk koncentrējās uz operacionālās sistēmas [[Plan 9]] izstrādi.
+
+=== AT&T UNIX ===
+* '''Unix System III''' (1981)
+* '''Unix System IV''' (1982)
+* '''Unix System V''' (1983)
+** '''Unix System V Release 2''' (1984)
+** '''Unix System V Release 3.0''' (1986)
+** '''Unix System V Release 3.2''' (1987)
+** '''Unix System V Release 4''' (1988)
+** '''Unix System V Release 4.2''' (1992)
+* '''UnixWare 1.1''' (1993)
+** '''UnixWare 1.1.1''' (1994)
+* '''UnixWare 2.0''' (1995)
+** '''UnixWare 2.1''' (1996)
+*** '''UnixWare 2.1.2''' (1996) 
+* '''UnixWare 7''' ('''System V Release 5''') (1998)
+** '''UnixWare 7.0.1''' (1998)
+* '''UnixWare 7.1''' (1999)
+** '''UnixWare 7.1.1''' (1999)
+** '''UnixWare NSC 7.1+IP''' (2000)
+** '''UnixWare NSC 7.1+LKP''' (2000)
+** '''UnixWare NSC 7.1DCFS''' (2000)
+* '''Open Unix 8''' ('''UnixWare 7.1.2''') (2001)
+** '''Open Unix 8MP1''' (2001)
+** '''Open Unix 8MP2''' (2001)
+** '''Open Unix 8MP3''' (2002)
+** '''Open Unix 8MP4''' (2002)
+* '''SCO UnixWare 7.1.3''' (2002)
+** '''SCO UnixWare 7.1.3 Update Pack 1''' (2003)
+** '''SCO UnixWare 7.1.4''' (2004)
+
+== UNIX veida operētājsistēmas ==
+
+=== Bezmaksas ===
+* [[GNU]] ([[GNU/Hurd]], [[GNU/Linux]])
+* [[FreeBSD]], [[PC-BSD]], [[NetBSD]], [[OpenBSD]], [[DragonFly BSD]]
+* [[Solaris (operētājsistēma)|Solaris]]
+
+=== Maksas ===
+* [[Mac OS X]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Operētājsistēmas]]
+[[Kategorija:UNIX]]

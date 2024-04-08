@@ -1,0 +1,61 @@
+Šajā uzskaitījumā apkopoti '''[[Latvijas Komunistiskā partija|Latvijas Komunistiskās partijas]] [[Latvijas Komunistiskās partijas Centrālā komiteja|Centrālās komitejas]] pirmie sekretāri''', kas reizē bija arī [[Latvijas Padomju Sociālistiskā Republika|Latvijas Padomju Sociālistiskās Republikas]] (Latvijas PSR) faktiskie vadītāji. Šis amats tika izveidots [[1940]]. gadā līdz ar [[Latvija]]s pievienošanu [[Padomju Savienība|PSRS]] un likvidēts [[1991]]. gadā līdz ar Latvijas Komunistiskās Partijas darbības izbeigšanu un neatkarības atgūšanu no [[Padomju Savienība]]s.
+
+== Uzskaitījums ==
+=== [[Attēls:Flag of Latvian SSR.svg|30px]] [[Latvijas Padomju Sociālistiskā Republika]] (1940 — 1990) [[Attēls:Emblem of the Latvian SSR.svg|30px]] ===
+{{legend| red | [[Latvijas Komunistiskā partija]] |border=1px solid #AAAAAA}}
+{| class="sortable wikitable"
+!colspan="2"|  # !! Portrets !! Vārds, uzvārds<br/> <small>(Dzimis — miris)</small> !! Pilnvaru termiņš !! Politiskā partika\piederība || Piezīmes
+|-
+| style="background: red| || '''1.''' || [[Attēls:Janis Kalnberzins.jpg|80px]] || '''[[Jānis Kalnbērziņš]]''' <br/><small>(1893—1986)</small> || [[1940]]. gada [[21. jūnijs]] — [[1959]]. gada [[25. novembris]] || [[Latvijas Komunistiskā partija]] || 
+|-
+| style="background: red| || '''2.''' || [[Attēls:Arvids Pelse.jpg|80px]] || '''[[Arvīds Pelše]]''' <br/><small>(1899—1983)</small> || [[1959]]. gada [[25. novembris]] — [[1966]]. gada [[15. aprīlis]] || [[Latvijas Komunistiskā partija]] || 
+|-
+| style="background: red| || '''3.''' || [[Attēls:Augusts Voss.jpg|80px]] || '''[[Augusts Voss]]''' <br/><small>(1919—1994)</small> || [[1966]]. gada [[15. aprīlis]] — [[1984]]. gada [[14. aprīlis]] || [[Latvijas Komunistiskā partija]] || 
+|-
+| style="background: red| || '''4.''' || [[Attēls:Boriss Pugo.png|80px]] || '''[[Boriss Pugo]]''' <br/><small>(1937—1991)</small> || [[1984]]. gada [[14. aprīlis]] — [[1988]]. gada [[4. oktobris]] || [[Latvijas Komunistiskā partija]] || 
+|-
+| style="background: red| || '''5.''' || [[Attēls:Jānis Vagris.jpg|80px]] || '''[[Jānis Vagris]]''' <br/><small>(1930—2023)</small> || [[1988]]. gada [[4. oktobris]] — [[1990]]. gada [[7. aprīlis]] || [[Latvijas Komunistiskā partija]] || 
+|-
+| style="background: red| || '''6.''' || [[Attēls:Alfreds Rubiks 2012.jpg|80px]] || '''[[Alfrēds Rubiks]]''' <br/><small>(1935)</small> || [[1990]]. gada [[7. aprīlis]] — [[1991]]. gada [[24. augusts]] || [[Latvijas Komunistiskā partija]] || 
+|}
+
+=== Hronoloģisks attēlojums ===
+
+<timeline>
+ImageSize = width:250 height:400
+PlotArea = width:50 height:380 left:50 bottom:10
+
+DateFormat = dd/mm/yyyy
+Period = from:1940 till:1991
+TimeAxis = orientation:vertical
+ScaleMajor = unit:year increment:5 start:1940
+ScaleMinor = unit:year increment:1 start:1940
+
+# there is no automatic collision detection,
+# so shift texts up or down manually to avoid overlap
+
+Define $dx = 25 # shift text to right side of bar
+
+PlotData=
+  bar:MP width:25 mark:(line,white) align:left fontsize:S
+
+ from:25/08/1940 till:25/11/1959 color:red shift:($dx,0)  text:[[Jānis Kalnbērziņš]]
+ from:25/11/1959 till:15/04/1966 color:red shift:($dx,-6) text:[[Arvīds Pelše]]
+ from:15/04/1966 till:14/04/1984 color:red shift:($dx,-4) text:[[Augusts Voss]]
+ from:14/04/1984 till:04/10/1988 color:red shift:($dx,-5) text:[[Boriss Pugo]]
+ from:04/10/1988 till:07/04/1990 color:red shift:($dx,-5) text:[[Jānis Vagris]]
+ from:07/04/1990 till:24/08/1991 color:red shift:($dx,-5) text:[[Alfrēds Rubiks]]
+
+</timeline>
+
+== Skatīt arī ==
+* [[Latvijas Komunistiskā partija]]
+* [[Latvijas Komunistiskās partijas Centrālā komiteja]]
+
+== Piezīmes un atsauces ==
+* [http://rulers.org/sovrep.html Padomju republiku vadītāju saraksti] {{en ikona}}
+
+{{LKP CK pirmie sekretāri}}
+
+[[Kategorija:LKP CK locekļi|*]]
+[[Kategorija:PSKP CK locekļi|*]]

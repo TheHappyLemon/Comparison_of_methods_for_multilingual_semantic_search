@@ -1,0 +1,53 @@
+[[Attēls:Audio a.svg|thumbnail|235px|Nošu līnijkopa, kurā ierakstīta [[La (nots)|La nots]]]]
+'''Mūzika''' ({{val|grc|μουσῐκή}}, ''mousikḗ''&nbsp;— ‘[[mūzas|mūzu]] māksla’) ir [[māksla]]s veids,<ref name="tezaurs"/> kurā ir ar [[auss|ausi]] uztvertas, īpaši izveidotas vai nejauši radušās priekšmetu vai parādību izraisītas gaisa [[svārstības]], kas ar [[asociācija|asociāciju]], [[analoģija|analoģiju]] un [[sinestēzija|sinestēziju]] palīdzību iedarbojas uz cilvēka [[psiholoģiskais stāvoklis|psiholoģisko stāvokli]]<ref name="LPA"/> kā intelektuāli vai emocionāli stimulējošs, organizējošs, terapeitisks vai sakrāls līdzeklis.
+
+Mūzika esot cilvēka kā biosociālas būtnes integrāla daļa,{{nepieciešama atsauce}} nav universāla. Tās definējumi, īpašības un funkcijas ir atkarīgas no [[kultūra]]s, kurā mūzika pastāv.
+
+Mūzika ir viena no [[māksla]]s formām.<ref name="tezaurs"/> Tās pamatelementi un izteiksmes līdzekļi ir skaņkārta, [[ritms]], [[taktsmērs|metrs]], [[temps]], [[dinamika (mūzika)|dinamika]], [[tembrs]], [[melodija]], reģistrs, [[harmonija]], [[instrumentācija|faktūra]].<ref name="LPA"/> Mūzika tiek fiksēta ar [[nošu raksts|nošu raksta]] palīdzību. Moderno nošu pierakstu izgudroja mūks [[Gvido no Arecas]]. Tā var būt diferencēta pēc dažādiem principiem: pēc autorības ([[tradicionālā tautas mūzika|tradicionālā tautas]], [[akadēmiskā mūzika|akadēmiskā]] un [[populārā mūzika]]), skaņdarba rakstura, atskaņojuma veida, atskaņotāju sastāva, sintēzes ar [[Literatūra|literatūru]] un citiem mākslas veidiem, lietojuma funkcijas, skaņkārtu sistēmas, [[Mūzikas stili|stiliem]] un žanriem.
+Parasti mūzika sastāv no zemākām un augstākām skaņām.
+
+== Mūzikas vēsture ==
+Mūzika ir atrodama ikvienā zināmajā kultūrā gan mūsdienās, gan pagātnē, tomēr tā ir bijusi atšķirīga gan laikā, gan telpā. Tā kā visiem [[pasaules iedzīvotāji]]em, tostarp visizolētākajām ciltīm, ir zināma mūzika, tiek pieļauts, ka tā radusies vēl pirms cilvēku izkliedēšanās pa visu Zemi. Līdz ar to tiek pieļauts, ka mūzika pastāv vismaz 50 tūkstošus gadu un radusies [[Āfrika|Āfrikā]], kas tiek uzskatīta arī par cilvēku izcelšanās vietu.<ref name="Wallin"/><ref name="Krause"/>
+
+Mūzikas attīstību laikā var iedalīt [[senā mūzika|senajā mūzikā]], [[viduslaiku mūzika|viduslaiku mūzikā]], [[renesanses mūzika|renesanses mūzikā]] (raksturīga vokālā daudzpusība), [[jaunlaiku mūzika|jaunlaiku mūzikā]] (radās [[opera]]s), [[baroka mūzika|baroka mūzikā]], [[rokoko]] un [[klasiskā mūzika|klasiskajā mūzikā]], [[Vīnes klasiskā mūzika|Vīnes klasiskajā mūzikā]], [[romantiskā mūzika]], [[jaunromantisms|jaunromantismā]] un [[populārā mūzika|populārajā mūzikā]].<ref name="Mūzikas vēsture"/>
+
+=== Klasiskā mūzika ===
+{{pamatraksts|klasiskā mūzika}}
+Par klasisko mūziku mēdz dēvēt visa veida mūziku, kas dominēja Eiropā no 9. gadsimta līdz mūsdienām.<ref name="Oxford"/> Par tās ziedu laikiem uzskata periodu no 16. gadsimta vidus līdz 19. gadsimta sākumam.
+
+== Mūzikas izpildītāji ==
+[[Mūzikas grupa]]s ir viens no izplatītākajiem mūzikas izpildīšanas veidiem mūsdienās. [[Mūziķis|Mūziķi]] veido dziesmas un izpilda tās arī vienatnē, piemēram, [[dziedātājs|dziedātāji]] vai [[diskžokejs|diskžokeji]]. Klasisko mūziku parasti izpilda [[orķestris|orķestri]] un [[koris|kori]]. Koru mūzikā ietilpst arī [[tradicionālā tautas mūzika]]. Korus un orķestrus parasti vada [[diriģēšana|diriģents]].
+
+== Skatīt arī ==
+{{portāls2|Mūzika}}
+* [[Muzikoloģija]]
+* [[Mūzikas žanrs]]
+* [[Mūzikas instruments]]
+* [[Mūziķis]]
+* [[Mūzika Latvijā]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="tezaurs">{{tīmekļa atsauce | url= http://www.tezaurs.lv/#/sv/m%C5%ABzika | title= mūzika | publisher= tezaurs.lv | accessdate= 2018. gada 20. augustā}}</ref>
+
+<ref name="LPA">{{LPE|7|57}}</ref>
+
+<ref name="Wallin">{{grāmatas atsauce | last= Wallin | first= Nils Lennart | title= The Origins of Music | year= 2001 | publisher= MIT Press | location= Cambridge | isbn= 0-262-73143-6 | url= https://books.google.com/books?id=vYQEakqM4I0C&printsec=frontcover | author2= Steven Brown | author3= Björn Merker}}</ref>
+
+<ref name="Krause">{{grāmatas atsauce | last= Krause | first= Bernie | year= 2012 | title= The Great Animal Orchestra: Finding the Origins of Music in the World's Wild Places | publisher= Little Brown/Hachette | location= New York}}</ref>
+
+<ref name="Mūzikas vēsture">{{grāmatas atsauce | url= | title= Mūzikas vēsture | year= 1930 | author= Jēkabs Vītoliņš}}</ref>
+
+<ref name="Oxford">"Classical", ''The Oxford Concise Dictionary of Music'', ed. Michael Kennedy, (Oxford, 2007), ''Oxford Reference Online''</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{mūzika-aizmetnis}}
+
+{{mūzikas žanri}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mūzika| ]]

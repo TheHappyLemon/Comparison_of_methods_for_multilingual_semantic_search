@@ -1,0 +1,64 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Īlāmas ostāns
+| official_name = {{ara|استان ایلام}}
+| image_skyline = (((اطراف دریاچه های دوقوی سیاه گاو (گاوسیاه)ایلام))) - panoramio.jpg
+| imagesize = 
+| image_caption = 
+| settlement_type = ostāns
+| total_type = Kopā
+| image_flag = 
+| image_shield = 
+| image_map = IranIlam-SVG.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{IRN}}
+| area_total_km2 = 20164
+| population_total = 580158
+| population_as_of = 2016
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =33 | latm =30 | lats =| latNS = N
+| longd =46 | longm =30 | longs =| longEW = E
+| seat_type = Centrs
+| seat = [[Īlāma (pilsēta)|Īlāma]]
+| parts_type = Šāhrestāni
+| parts = 11
+| p1 = Ābdānāna
+| p2 = Badre
+| p3 = Čardāvola
+| p4 = Darešahra
+| p5 = Dehlorāna
+| p6 = Eivāna
+| p7 = Holeilāna
+| p8 = Īlāma
+| p9 = Mālekšāhī
+| p10 = Mehrāna
+| p11 = Sīrvāna
+| p12 = 
+| p13 = 
+| p14 = 
+| p15 = 
+| p16 = 
+| p17 = 
+| p18 = 
+| p19 = 
+| p20 = 
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[kurdi]]<br/>[[luri]]
+| website = 
+}}
+'''Īlāmas ostāns''' ({{val-fa|استان ایلام}}, ''Ostān-e Ilâm'', {{val|ku|پارێزگای ئیلام}}, ''Parêzgeha Îlamê'') ir viens no [[Irānas ostāni]]em. Atrodas Irānas rietumos [[Kabīrkūhs|Kabīrkūha]] grēdā un tās rietumu priekškalnēs. Rietumos tam ir {{nobr|425 km}} gara robeža ar [[Irāka|Irāku]]. Ziemeļos ostāns robežojas ar [[Kermānšāha|Kermānsāhu]], austrumos — [[Luristāna|Luristānu]], bet dienvidaustrumos — [[Hūzestāna|Hūzestānu]]. Lielākā daļa iedzīvotāju [[kurdi]] (81%) un [[luri]] (15%). Lielākās pilsētas ir [[Īlāma]] (194 030, ostāna centrs), [[Dehlorāna]] (32 941) un [[Eivāna]] (31 299).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Irāna-aizmetnis}}
+
+{{Irānas ostāni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Irānas ostāni]]

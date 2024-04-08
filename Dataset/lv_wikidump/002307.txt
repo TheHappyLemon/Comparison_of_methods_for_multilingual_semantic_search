@@ -1,0 +1,9 @@
+'''''Cygwin''''' ir [[Brīvprogrammatūra|bezmaksas programmu]] kopums, ko sākotnēji izstrādāja kompānija ''[[Cygnus Solutions]]'', lai nodrošinātu ''[[Microsoft Windows]]'' sistēmu spēju daļēji darboties līdzīgi ''[[Unix|UNIX]]'' sistēmām. Pārsvarā projekts ir vērsts uz ''[[POSIX]]'' sistēmu (piemēram, ''[[Linux]]'', ''[[BSD]]'') programmu pārnešanu un darbināšanu ''Windows'' vidē. ''Cygwin'' programmas vislabāk darbojas ''[[Windows NT]]'', ''[[Windows 2000]]'', ''[[Windows XP]]'' un ''[[Windows Server 2003]]'' operētājsistēmās, dažas - arī uz ''[[Windows 95]]'' un ''[[Windows 98]]''. ''Cygwin'' patlaban galvenokārt uztur ''[[Red Hat]]'' kompānijas darbinieki.
+
+== Ārējās saites ==
+* [http://www.cygwin.com ''Cygwin'' mājaslapa]
+* [http://www.cygwin.com/faq/ ''Cygwin'' visbiežāk uzdotie jautājumi]
+{{IT-aizmetnis}}
+
+[[Kategorija:Sistēmprogrammatūra]]
+[[Kategorija:Programmēšanas rīki]]

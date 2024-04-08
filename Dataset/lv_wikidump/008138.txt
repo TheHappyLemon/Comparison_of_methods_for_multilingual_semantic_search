@@ -1,0 +1,39 @@
+{{ezera infokaste
+|ezers=Hjargasnūrs
+|attēls=Khyargas-Nuur lake, Uvs aimag, Mongolia.JPG
+|karte=Khyargas Nuur and Airag Nuur lakes, Mongolia, Landsat image, 07-28-2015.jpg
+|kartes_paraksts=Hjargasnūra ''Landsat'' satelītaina (2015)
+| map = Mongolija
+| plat_d=49 | plat_m=10 | plat_s=17 | plat_NS=N
+| gar_d=93 | gar_m=20 | gar_s=52 | gar_EW=E
+|vieta={{MNG}}
+|platība=1407
+|garums=75
+|Vid_dziļums=
+|Max_dziļums=80
+|tilpums=>66
+|augstums_vjl=1028
+|izteka=
+|baseins=
+|valstis=[[Mongolija]], [[Krievija]]
+|salas=1
+|pilsētas=
+}}
+'''Hjargasnūrs''' (agrāk arī '''Hirgisnūrs'''; {{val|mn|Хяргас нуур}}) ir liels beznoteces [[sālsezers]] [[Mongolija]]s ziemeļrietumos, [[Uvsnūrs (aimaks)|Uvsnūra]] aimakā.
+
+Vairāku citu ezeru ([[Haranūrs]], [[Harausnūrs]] u.c.), [[Hovda]]s, [[Dzavhana]]s noteces galapunkts. Iespējams, ka šis ir viens no senākajiem ezeriem pasaulē, nepārtraukti pastāv jau no [[mezozojs|mezozoja]] otrās puses. Ūdens mineralizācija ir ap {{nobr|7,5 g/l}}. Aizsalst no decembra beigām līdz aprīlim. Krasti zemi, tuksnešaini, vietām [[stepe]]. Bagāts ar zivīm. Dienvidos ar šauru {{nobr|5 km}} garu caurteku savienots ar saldūdens ezeru [[Airagnūrs|Airagnūru]] (143 km²). Ziemeļu daļā ezerā divas smilšu [[strēle]]s — 11 un {{nobr|9 km}} garas. Ziemeļrietumu piekrastē karstie avoti.
+
+Agrāko ezera terašu augstums virs tagadējā ezera līmeņa sasniedz līdz pat 100 metriem, kas liecina, ka pagātnē te bijis ievērojami lielāks ezers. [[2000. gads|2000]]. gadā izveidots [[Hanhuhīūla-Hjargasnūra nacionālais parks]].
+
+Ezerā viena zivju suga — divu paveidu Altaja osmāns. Viens paveids pārtiek no ūdensaugiem un otrs — no zivīm — paša osmāna. Klīst nostāsti par lielu, noslēpumainu dzīvnieku, kas dzīvo šajā ezerā.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://alamas.ru/rus/world/Hirghiz-Nuur_r.htm Apraksts par Hirgisnūra noslēpumainā dzīvnieka meklējumiem, krieviski] {{Webarchive|url=https://web.archive.org/web/20060505211234/http://alamas.ru/rus/world/Hirghiz-Nuur_r.htm |date={{dat|2006|05|05||bez}} }}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Mongolijas nacionālie parki]]
+[[Kategorija:Mongolijas ezeri]]
+[[Kategorija:Sālsezeri]]
+[[Kategorija:Ezeri ar teiksmām par noslēpumainiem dzīvniekiem]]

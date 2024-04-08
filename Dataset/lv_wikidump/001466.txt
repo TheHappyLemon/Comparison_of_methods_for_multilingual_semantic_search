@@ -1,0 +1,126 @@
+[[Attēls:Viscosity.gif|thumb|right|Viskozitātes attēlojums. Apakšējam (violetajam) šķidrumam ir lielāka viskozitāte, nekā augšējam.]]
+[[Attēls:09. Вискозност на течности.ogv|thumb|right|280px|Eksperiments, kas rāda, ka iekšējā berze šķidruma staba centrā ir mazāka nekā malās, kas saskaras ar stiklu]]
+'''Viskozitāte''' jeb '''stigrība''', arī '''staignums''', '''stīgrums''',<ref>[http://termini.lza.lv/term.php?term=staignums&list=staignums&lang=LV Akadēmiskā terminu datubāze - staignums] {{Webarchive|url=https://web.archive.org/web/20151023004520/http://termini.lza.lv/term.php?term=staignums&list=staignums&lang=LV |date={{dat|2015|10|23||bez}} }} {{lv ikona}}</ref> '''valkanība''', '''valkanums''' ir iekšējā [[berze]] (raksturo to, cik attiecīgais šķidrums ir "biezs"). Viskozitāte piemīt [[gāze|gāzēm]] un [[šķidrums|šķidrumiem]].<ref name=":0">{{Tīmekļa atsauce|url=https://gramatas.lndb.lv/periodika2-viewer/?lang=fr#panel:pp%7Cissue:694796%7Cpage:45|title=Fizikas rokasgrāmata|website=gramatas.lndb.lv|access-date=2023-12-26|pages=41, 45}}</ref> Šķidrumos un gāzēs, ja to slāņi savstarpēji pārvietojas, starp slāņiem rodas iekšēji pretestības spēki, kas bremzē to kustību. Gāzu viskozitāte, salīdzinot ar šķidrumu viskozitāti, ir ļoti maza.
+
+== Ņūtona teorija ==
+
+Saskaņā ar [[Īzaks Ņūtons|Ņūtona]] teoriju, iekšējās berzes spēks, kas rodas, pārvietojoties vienam šķidruma slānim attiecībā pret otru, ir tieši proporcionāls pārvietošanās [[Ātrums|ātrumam]] un saskarē esošo slāņu virsmai.<ref name=":0" /> To var aprakstīt ar [[Ņūtona viskozitātes likums|Ņūtona viskozitātes likumu]]:
+
+:<math> F_b=\eta S\frac{dv}{dz}</math>,
+
+kur:
+* <math> F_b</math> — iekšējās berzes spēks;
+* <math> \eta</math> — proporcionalitātes koeficients, kas atkarīgs no šķidruma īpašībām, temperatūras un spiediena (atkarība no spiediena ir neliela). Šo sauc par dinamiskās [[viskozitātes koeficients|viskozitātes koeficientu]] vai dinamisko viskozitāti;
+* <math> S</math> — slāņu saskares virsmas laukums;
+* <math> \frac{dv}{dz} </math> — ātruma [[gradients]], kas perpendikulārs abām berzes virsmām. To sauc arī par bīdes ātrumu un dažreiz apzīmē ar g.
+Iekšējās berzes spēka <math> F_b</math> dalījumu ar slāņu saskares virsmu <math> S</math>, sauc par iekšējās berzes [[Mehāniskais spriegums|spriegumu]] vai [[Bīdes deformācija|bīdes]] spriegumu un aprēķina <math>\tau = \frac{F_b}{S}</math>.
+
+=== Ņūtona šķidrumi ===
+
+Šķidrumus, kuriem m nav atkarīgs no bīdes ātruma (du/dy) sauc par [[Ņūtona šķidrumi]]em. Tādi ir ūdens, lielākā daļa šķīdinātāju un eļļu. Šķidrumi, kuriem m ir atkarīgs no bīdes ātruma, ir [[neņūtona šķidrumi]]. Tādas ir krāsas, [[Polimēri|polimēru]] šķīdumi un kausējumi (lai arī ne visi).
+
+[[Starptautiskā mērvienību sistēma|''SI'']] dinamisko viskozitāti mēra Pa·s ([[paskālsekunde|paskālsekundēs]]). 1 Pa·s ir tādas vides viskozitāte, starp kuras slāņiem, kas atrodas 1 [[metrs|m]] attālumā viens no otra un savstarpēji kustas ar relatīvo ātrumu 1 m/[[sekunde|s]], vides pretestības pārvarēšanai ir nepieciešams 1 N liels [[spēks]]. 1 Pa·s = 1 (N·s)/m<sup>2</sup>. CGS sistēmā dinamisko viskozitāti mēra [[Puazs|puazos]] (P) vai biežāk — centipuazos (cP), tāpēc ka ūdenim 20&nbsp;°C temperatūrā viskozitāte ir 1,002 cP (kas ir ļoti tuvu 1). 1 p = 100 cP = 1 g/(cm*s) = 0,1 Pa·s. 1cP = 1mPa·s.
+
+Daudzos gadījumos lieto arī jēdzienu par kinemātisko viskozitāti, tas ir dinamiskās viskozitātes dalījums ar vielas [[blīvums|blīvumu]]. ''SI'' kinemātisko viskozitāti mēra m<sup>2</sup>/s. CGS sistēmā kinemātisko viskozitāti mēra [[Stokss|stoksos]] (S) un bieži vien izsaka centistoksos (cS). 1 S = 100 cS = 1&nbsp;cm<sup>2</sup>/s = 0,0001 m<sup>2</sup>/s. Kinemātiskā viskozitāte raksturo to, cik daudz [[enerģija]]s vajag, lai šo vielu uzsūknētu uz augšu.
+
+Parasti ar jēdzienu "viskozitāte" saprot dinamisko viskozitāti.
+
+Palielinot [[Temperatūra|temperatūru]], gāzēm lielākoties viskozitāte palielinās, bet šķidrumiem viskozitāte samazinās. Viskozitāte parasti nav atkarīga no [[Spiediens|spiediena]] (izņemot ļoti lielus spiedienus).
+
+====== Ūdens viskozitāte ======
+{| class="wikitable"
+|+
+|'''Temperatūra [C]'''
+|10
+|20
+|30
+|40
+|50
+|60
+|70
+|80
+|90
+|100
+|-
+|'''Viskozitāte [mPa*s]'''
+|1,30
+|1
+|0,80
+|0,65
+|0,55
+|0,47
+|0,4
+|0,35<ref>{{Tīmekļa atsauce|url=https://wiki.anton-paar.com/en/water/|title=Viscosity of Water – viscosity table and viscosity chart {{!}} Anton Paar Wiki|website=Anton Paar|access-date=2023-12-26|language=EN}}</ref>
+|0,32
+|0,28
+|}
+
+== Noteikšana ==
+
+[[Attēls:Ostwald viscometer.jpg|thumb|right|120px|[[Ostvalda viskozimetrs]], ierīce, kuru izmanto šķidruma viskozitātes noteikšanai, ja zināma kāda cita — etalonšķīduma — viskozitātes koeficients.]]
+Šķidrumiem dinamisko viskozitāti mēra ar [[Viskozimetrs|viskozimetriem]]. Plašāk lietotajiem viskozimetriem ir 3 darbības principi:
+* Mēra noteikta tilpuma iztecēšanas laiku caur noteikta izmēra caurumu (vai cauruli), vai arī mēra ķermeņa grimšanas ātrumu mērāmajā šķidrumā. Šos parasti nepieciešams kalibrēt, izmantojot šķidrumu ar zināmu viskozitāti.
+* Šķidrumu ievieto starp divām virsmām, no kurām viena rotē. Parasti tie ir vai nu koncentriski cilindri, vai arī konuss un plakana virsma. Šeit parasti mēra nepieciešamo griezes momentu, lai uzturētu kādu norādītu ātrumu. Rotācijas ātrums ir proporcionāls bīdes ātrumam <math> \frac{dv}{dz} </math> un griezes moments ir proporcionāls bīdes spriegumam <math>\tau</math>. Šie ir rotācijas viskozimetri.
+* Šķidrumā ievieto svārstošu ķermeni un mēra svārstību rimšanu. Šīs ierīces var izgatavot ļoti mazas.
+
+====== Dinamisko viskozitāšu tabulas ======
+[[Gāze]]s (pie 0&nbsp;°C):
+{| class="wikitable"
+!Viela
+!viskozitāte (Pa·s)
+|-
+|[[ūdeņradis]] ||8,4 × 10<sup>−6</sup>
+|-
+|[[Zemes atmosfēra|gaiss]] ||17,4 × 10<sup>−6</sup>
+|-
+|[[ksenons]] ||21,2 × 10<sup>−6</sup>
+|}
+
+[[Šķidrums|Šķidrumi]] (pie 20&nbsp;°C):
+{| class="wikitable"
+!Viela
+!viskozitāte (Pa·s)
+|-
+|[[etanols]] ||0,248 × 10<sup>−3</sup>
+|-
+|[[acetons]] ||0,326 × 10<sup>−3</sup>
+|-
+|[[metanols]] ||0,59 × 10<sup>−3</sup>
+|-
+|[[benzols]] ||0,64 × 10<sup>−3</sup>
+|-
+|[[ūdens]] ||1,0020 × 10<sup>−3</sup>
+|-
+|[[nitrobenzols]] ||2,0 × 10<sup>−3</sup>
+|-
+|[[dzīvsudrabs]] ||17,0 × 10<sup>−3</sup>
+|-
+|[[sērskābe]] ||30 × 10<sup>−3</sup>
+|-
+|[[olīveļļa]] ||81 × 10<sup>−3</sup>
+|-
+|[[glicerīns]] ||1,485
+|-
+|[[polimēri|izkausēti polimēri]] ||10<sup>3</sup>
+|-
+|[[piķis]] ||10<sup>7</sup>
+|-
+|[[stikls]] ||10<sup>40</sup>
+|}
+
+== Skatīt arī ==
+
+* [[Lamināra plūsma]]
+* [[Turbulence]]
+* [[Reinoldsa skaitlis]]
+* [[Puazeija likums]]
+
+== Atsauces ==
+
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Fizikāli lielumi]]
+[[Kategorija:Fizikālās īpašības]]
+[[Kategorija:Šķidrumu mehānika]]

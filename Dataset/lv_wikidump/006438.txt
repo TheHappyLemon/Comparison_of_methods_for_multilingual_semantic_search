@@ -1,0 +1,44 @@
+Par '''Levenšteina attālumu''' jeb '''rediģēšanas attālumu''' starp divām simbolu virknēm [[informācijas teorija|informācijas teorijā]] un [[datorzinātne|datorzinātnē]] sauc minimālo darbību skaitu, kas nepieciešams, lai vienu virkni pārveidotu otrā. Viena darbība var būt:
+* simbola iespraušana;
+* simbola izmešana;
+* simbola aizvietošana.
+
+Piemēram, attālums starp virknēm "SĀKUMS" un "PĀRIS" ir 4:
+# SĀKUMS => '''P'''ĀKUMS (aizvietošana);
+# PĀKUMS => PĀ'''R'''UMS (aizvietošana);
+# PĀR'''U'''MS => PĀRMS (izmešana);
+# PĀRMS => PĀR'''I'''S (aizvietošana).
+
+Šāda attāluma jēdzienu [[1965]]. gadā ieviesa krievu zinātnieks [[Vladimirs Levenšteins]], kura vārdā tad tas tika arī nosaukts. Levenšteina attālumu lieto simbolu virkņu salīdzināšanai, piemēram, [[valodniecība|valodniecībā]] (pareizrakstības pārbaude) un [[bioinformātika|bioinformātikā]] (gēnu meklēšana).
+
+Levenšteina attālumu var uzskatīt par [[Heminga attālums|Heminga attāluma]] vispārīgu gadījumu, jo ar pēdējo tiek salīdzinātas tikai vienāda garuma virknes, par pieļaujamo darbību ņemot tikai simbola aizvietošanu.
+
+== Levenšteina attāluma atrašana ==
+
+[[Attēls:Levens0.svg|right]][[Attēls:Levens1.svg|right]][[Attēls:Levens2.svg|right]][[Attēls:Levens3.svg|right]]Levenšteina attāluma atrašanai tiek izveidota matrica, kas algoritma darbības laikā pamazām tiek aizpildīta — no kreisās puses uz labo, no augšas uz leju —, līdz apakšējā labajā stūrī tiek iegūts meklētais attālums.
+
+'''Sākums.''' Kā redzams pirmajā attēlā, sākotnēji matricas pirmā augšējā un pirmā kreisā rindiņa tiek aizpildītas ar pēc kārtas ņemtiem veseliem skaitļiem, sākot ar nulli.
+
+'''Matricas aizpildīšana.''' Tukšā šūnā ierakstāmo vērtību nosaka pēc ''trim skaitļiem'', kas atrodas blakusesošajās šūnās pa kreisi, uz augšu un pa diagonāli pa kreisi un uz augšu, kā arī ''diviem simboliem'' tukšajai šūnai atbilstošajās virkņu šūnās.
+
+Šūnas, kas atrodas pa kreisi un uz augšu, tukšajai šūnai vienmēr dod vērtību, kas ir par <math>1</math> lielāka nekā vērtība šajās pašās šūnās. Šūna, kas atrodas pa diagonāli, tukšajai šūnai dod vērtību, kas vai nu ir tāda pati kā pašā šūnā — ja minētie divi virkņu simboli sakrīt —, vai arī ir par <math>1</math> lielāka — ja minētie divi virkņu simboli nesakrīt.
+
+Otrā attēlā redzamajā piemērā šūnas pa kreisi un uz augšu no (sākotnēji) tukšās šūnas dod vērtību <nowiki>1+1 = 2</nowiki>, šūna pa diagonāli dod vērtību <math>0+1 = 1</math>.
+
+Tukšajā šūnā ierakstāmo vērtību izvēlas, ņemot mazāko no šīm trim iespējamajām. Tātad minētajā piemērā tā ir <math>1</math>.
+
+Šādā veidā pamazām aizpilda visu matricu. Aizpildīt var gan horizontāli, gan vertikāli, gan haotiski — nav nozīmes, kura šūna tiek aizpildīta nākamā, ja vien jau ir zināmas aizpildāmās šūnas triju blakusšūnu (pa kreisi, uz augšu un pa diagonāli) vērtības. Šī aizpildīšanas brīvība cita starpā rada iespēju arī izveidot datorprogrammas, kas realizē algoritma paralēlu izpildi, tādējādi paātrinot izpildes laiku (ja ir nepieciešamā aparatūra).
+
+'''Izlīdzinājuma atrašana'''
+
+Galu galā iegūtais rediģēšanas attālums ir redzams matricas apakšējā labajā stūrī (piemērā zīmējumā — <math>4</math>), kas gan nenorāda pašu veidu, kādā tad virknes ir iespējams pārveidot vienu otrā ar atrasto minimālo darbību skaitu.
+
+Lai atrastu pārveidošanas ceļu, no apakšējā labā stūra ir pamazām jākāpjas atpakaļ, izvēloties tās blakusšūnas, kuras bija devušas tukšajā šūnā ierakstīto vērtību. Zīmējumos tas, no kuras blakusšūnas (blakusšūnām) katra tukšā šūna bija saņēmusi savu vērtību, parāda mazās bultiņas.
+
+Kāpšanās atpakaļ pa kreisi vai uz augšu nozīmē simbola iespraušanu vai izmešanu; kāpšanās pa diagonāli norāda uz simbola aizvietošanu vai simbolu sakrišanu.
+
+Konkrētajā piemērā dotās virknes ir iespējamas izlīdzināt trijos dažādos veidos:
+
+[[Attēls:leven izlidz.svg]]
+
+[[Kategorija:Algoritmi]]

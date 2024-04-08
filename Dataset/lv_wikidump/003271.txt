@@ -1,0 +1,198 @@
+'''Saules sistēmas planētas''' ir [[Merkurs (planēta)|Merkurs]], [[Venēra (planēta)|Venēra]], [[Zeme]], [[Marss (planēta)|Marss]], [[Jupiters (planēta)|Jupiters]], [[Saturns (planēta)|Saturns]], [[Urāns (planēta)|Urāns]], [[Neptūns (planēta)|Neptūns]].
+
+{|width="100%" border="2" cellspacing="0" cellpadding="4" rules="all" style="float:right; clear:right; margin:5px 0 1em 1em; border-style: solid; border-width: 1px; border-collapse:collapse; font-size:95%; empty-cells:show"
+|+ ''Pārskats par [[Saules sistēma]]s [[planēta|planētām]]''
+! |
+! [[Merkurs (planēta)|Merkurs]]
+! [[Venēra (planēta)|Venēra]]
+! [[Zeme]]
+! [[Marss (planēta)|Marss]]
+! [[Jupiters (planēta)|Jupiters]]
+! [[Saturns (planēta)|Saturns]]
+! [[Urāns (planēta)|Urāns]]
+! [[Neptūns (planēta)|Neptūns]]
+|-----
+| Vidējais attālums no [[Saule]]s<br />&nbsp;[[Kilometrs|km]]<br />&nbsp;[[Astronomiskā vienība|AU]]
+| align="center" | <br />57 909 175<br />0,38709893
+| align="center" | <br />108 208 930<br />0,72333199
+| align="center" | <br />149 597 870<br />1
+| align="center" | <br />227 936 640<br />1,52366231
+| align="center" | <br />778 412 010<br />5,20336301
+| align="center" | <br />1 426 725 400<br />9,53707032
+| align="center" | <br />2 870 972 200<br />19,19126393
+| align="center" | <br />4 498 252 900<br />30,06896348
+|-----
+| Vidējais [[rādiuss]] (&nbsp;[[Kilometrs|km]])<br />Attiecībā pret Zemi
+| align="center" | 2 439,64<br />0,3825
+| align="center" | 6 051,59<br />0,9488
+| align="center" | 6 378,15<br />1,0000
+| align="center" | 3 397,00<br />0,53226
+| align="center" | 71 492,68<br />11,209
+| align="center" | 60 267,14<br />9,449
+| align="center" | 25 557,25<br />4,007
+| align="center" | 24 766,36<br />3,883
+|-----
+| Tilpums (&nbsp;[[Kubikkilometrs|km<sup>3</sup>]])<br />Attiecībā pret Zemi
+| align="center" | x&nbsp;·&nbsp;10<sup>10</sup><br />0,054
+| align="center" | x&nbsp;·&nbsp;10<sup>11</sup><br />0,88
+| align="center" | 1,0832&nbsp;·&nbsp;10<sup>12</sup><br />1,0000
+| align="center" | x&nbsp;·&nbsp;10<sup>10</sup><br />0,149
+| align="center" | x&nbsp;·&nbsp;10<sup>14</sup><br />1 316
+| align="center" | x&nbsp;·&nbsp;10<sup>14</sup><br />755
+| align="center" | x&nbsp;·&nbsp;10<sup>13</sup><br />52
+| align="center" | x&nbsp;·&nbsp;10<sup>13</sup><br />44
+|-----
+| Masa (&nbsp;[[Kilograms|kg]])
+| align="center" | 3,302&nbsp;·&nbsp;10<sup>23</sup>
+| align="center" | 4,8690&nbsp;·&nbsp;10<sup>24</sup>
+| align="center" | 5,9742&nbsp;·&nbsp;10<sup>24</sup>
+| align="center" | 6,4191&nbsp;·&nbsp;10<sup>23</sup>
+| align="center" | 1,8987&nbsp;·&nbsp;10<sup>27</sup>
+| align="center" | 5,6851&nbsp;·&nbsp;10<sup>26</sup>
+| align="center" | 8,6849&nbsp;·&nbsp;10<sup>25</sup>
+| align="center" | 1,0244&nbsp;·&nbsp;10<sup>26</sup>
+|-----
+| [[Blīvums]] (&nbsp;[[Grams|g]]/[[Centimetrs|cm]]<sup>3</sup>)
+| align="center" | 5,43
+| align="center" | 5,24
+| align="center" | 5,515
+| align="center" | 3,940
+| align="center" | 1,33
+| align="center" | 0,70
+| align="center" | 1,30
+| align="center" | 1,76
+|-----
+| [[Gravitācija]] uz ekvatora (&nbsp;[[Paātrinājums|m/s<sup>2</sup>]])
+| align="center" | 3,70
+| align="center" | 8,87
+| align="center" | 9,81
+| align="center" | 3,71
+| align="center" | 23,12
+| align="center" | 8,96
+| align="center" | 8,69
+| align="center" | 11,00
+|-----
+| [[Otrais kosmiskais ātrums]] (&nbsp;[[Ātrums|km/s]])
+| align="center" | 4,25
+| align="center" | 10,36
+| align="center" | 11,18
+| align="center" | 5,02
+| align="center" | 59,54
+| align="center" | 35,49
+| align="center" | 21,29
+| align="center" | 23,71
+|-----
+| Rotācijas periods<br />(&nbsp;[[Apriņķojuma periods|Sideriskās]] dienas)
+| align="center" | 58,646225
+| align="center" | -243,0187<br />(rotē pretējā virzienā)
+| align="center" | 0,99726968
+| align="center" | 1,02595675
+| align="center" | 0,41354
+| align="center" | 0,44401
+| align="center" | -0,71833<br />(rotē pretējā virzienā)
+| align="center" | 0,67125
+|-----
+| Apriņķošanas periods<br />(&nbsp;[[Apriņķošanas periods|Sideriskie]] gadi)
+| align="center" | 0,2408467
+| align="center" | 0,61519726
+| align="center" | 1,0000174
+| align="center" | 1,8808476
+| align="center" | 11,862615
+| align="center" | 29,447498
+| align="center" | 84,016846
+| align="center" | 164,79132
+|-----
+| Vidējas orbitālais ātrums<br />(&nbsp;[[Ātrums|km/s]])
+| align="center" | 47,8725
+| align="center" | 35,0214
+| align="center" | 29,7859
+| align="center" | 24,1309
+| align="center" | 13,0697
+| align="center" | 9,6724
+| align="center" | 6,8352
+| align="center" | 5,4778
+|-----
+| [[Orbītas ekscentritāte]]
+| align="center" | 0,20563069
+| align="center" | 0,00677323
+| align="center" | 0,01671022
+| align="center" | 0,09341233
+| align="center" | 0,04839266
+| align="center" | 0,05415060
+| align="center" | 0,04716771
+| align="center" | 0,00858587
+|-----
+| [[Orbītas inklinācija]]
+| align="center" | 7,00487°
+| align="center" | 3,39471°
+| align="center" | 0,00005°
+| align="center" | 1,85061°
+| align="center" | 1,30530°
+| align="center" | 2,48446°
+| align="center" | 0,76986°
+| align="center" | 1,76917°
+|-----
+| Ekvators slīpums pret orbītu <br />
+| align="center" | 0,0°
+| align="center" | 177,3°
+| align="center" | 23,45°
+| align="center" | 25,19°
+| align="center" | 3,12°
+| align="center" | 26,73°
+| align="center" | 97,86°
+| align="center" | 29,58°
+|-----
+| Virsmas vidējā temperatūra (&nbsp;[[Kelvins (mērvienība)|K]])
+| align="center" | 440
+| align="center" | 730
+| align="center" | 288 - 293
+| align="center" | 186 - 268
+| align="center" | 152
+| align="center" | -
+| align="center" | -
+| align="center" | -
+|-----
+| Vidējā atmosfēras temperatūra jūras līmenī (&nbsp;[[Kelvins (mērvienība)|K]])
+| align="center" | -
+| align="center" | -
+| align="center" | 288
+| align="center" | -
+| align="center" | 165
+| align="center" | 135
+| align="center" | 76
+| align="center" | 73
+|-----
+| [[Atmosfēra]]s sastāvs
+| align="center" | -
+| align="center" | CO<sub>2</sub>, N<sub>2</sub>
+| align="center" | N<sub>2</sub>, O<sub>2</sub>
+| align="center" | CO<sub>2</sub>, N<sub>2</sub>, Ar
+| align="center" | H<sub>2</sub>, He
+| align="center" | H<sub>2</sub>, He
+| align="center" | H<sub>2</sub>, He, CH<sub>4</sub>
+| align="center" | H<sub>2</sub>, He, CH<sub>4</sub>
+|-----
+| Dabiskie pavadoņi
+| align="center" | 0
+| align="center" | 0
+| align="center" | 1
+| align="center" | 2
+| align="center" | 63
+| align="center" | 49
+| align="center" | 27
+| align="center" | 13
+|-----
+| [[Planētu gredzeni|Gredzeni]]
+| align="center" | Nav
+| align="center" | Nav
+| align="center" | Nav
+| align="center" | Nav
+| align="center" | Ir
+| align="center" | Ir
+| align="center" | Ir
+| align="center" | Ir
+|}
+
+{{Saules sistēma}}
+
+[[Kategorija:Saules sistēmas planētas| ]]

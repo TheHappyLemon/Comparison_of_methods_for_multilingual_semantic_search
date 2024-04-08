@@ -1,0 +1,79 @@
+{{Hokejista infokaste
+ |           vārds = Kurts Lindstrems
+ |      vārds_orig = ''Curt Lindström''
+ |          attēls = 
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{ddv|1940|11|26}}
+ |         dz_viet = 
+ |         mir_dat = 
+ |        mir_viet = 
+ |          garums = 
+ |           svars = 
+ |         iesauka = 
+ |             poz = 
+ |        tvēriens = 
+ |         kar_sāk = 
+ |        kar_beig = 
+ |       izglītība = 
+<!------ Kluba informācija ------>
+ |             kom = 
+ |          numurs = 
+ |           amats = 
+ |            līga = 
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 
+ |          taut 1 = 
+<!------ Trenera karjera ------>
+ |  tr_klubs_sez 1 = 1986
+ |      tr_klubs 1 = {{ih|SWE}}
+ |  tr_klubs_sez 2 = 1994—1997
+ |      tr_klubs 2 = {{ih|FIN}}
+ |  tr_klubs_sez 3 = 2002—2004
+ |      tr_klubs 3 = {{ih|LAT}}
+<!------ Papildinformācija ------>
+ |      sasniegumi = 
+ |           slavz = 
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Kurts Lindstrems''' ({{Val-sv|Curt Lindström}}; dzimis {{dat|1940|11|26}}) ir bijušais [[Zviedrija|zviedru]] [[Hokejs|hokeja]] treneris.
+
+Viņš no 1993. līdz 1997. gadam vadīja [[Somijas hokeja izlase|Somijas hokeja izlasi]], 1995. gadā ar to uzvarot [[Pasaules čempionāts hokejā|Pasaules čempionātā]]. Viņa rēķinā ir arī sudrabs Pasaules čempionātā un bronzas medaļa {{oss|Z=1994|L=L}} [[Lillehammere|Lillehammerē]]. Viņš ir ieguvis šāda paša kaluma medaļas ar [[Zviedrijas hokeja izlase|Zviedrijas hokeja izlasi]] (sudrabs kā galvenajam trenerim).
+
+2001. gadā viņš kļuva par [[Latvijas hokeja izlase]]s galveno treneri. Šajā amatā viņš aizvadīja 65 spēles, gūstot 32 uzvaras, izcīnot 8 neizšķirtus un piedzīvojot 25 zaudējumus.
+
+{{Hokejists-aizmetnis}}
+{{kastes sākums}}
+{{s-sports}}
+{{Amatu secība
+ | virsraksts = {{nobr|[[Latvijas hokeja izlase]]s galvenais treneris}}
+ | periods    = 2001—2004
+ | pirms      = [[Haralds Vasiļjevs]]
+ | pēc        = [[Leonīds Beresņevs]]
+}}
+{{kastes beigas}}
+{{Template group
+| title =  Latvijas izlase
+| list = 
+{{LV sastāvs PČH 2004}}
+{{LV sastāvs PČH 2003}}
+{{LV sastāvs PČH 2002}}
+{{LV sastāvs OSH 2002}}
+}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Lindstrems, Kurts}}
+[[Kategorija:1940. gadā dzimušie]]
+[[Kategorija:Zviedrijas hokeja treneri]]
+[[Kategorija:Latvijas hokeja izlases treneri]]
+[[Kategorija:Somijas hokeja izlases treneri]]
+[[Kategorija:Zviedrijas hokeja izlases treneri]]

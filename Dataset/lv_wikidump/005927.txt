@@ -1,0 +1,9 @@
+'''Movable Type''' ir plaši izplatīta [[tīmekļa žurnāls|tīmekļa žurnālu]] [[programmatūra]], ko izstrādā [[Kalifornija|Kalifornijā]] ([[Amerikas Savienotās Valstis|ASV]]) bāzētā kompānija [[Six Apart]]. Viena no tās zināmākajām iespējām ir [[Trackback]], kas tika ieviesta laidienā 2.2 un kopš tā laika ir ieviesta arī daudzās citās tīmekļa žurnālu vadības programmās. Movable Type atbalsta arī lielāko daļu citu populāru tīmekļa žurnālu iespēju, piemēram, lietotāju kontus, komentārus, rakstu kategorizēšanu un tēmas, turklāt tās funkcionalitāti var papildināt ar [[spraudnis|spraudņu]] palīdzību.
+
+{{IT-aizmetnis}}
+
+== Ārējās saites ==
+* [http://www.sixapart.com/movabletype/ Oficiālā Movable Type mājaslapa]
+* [http://www.sixapart.com/movabletype/support Movable Type atbalsta forums]
+
+[[Kategorija:Tīmekļa žurnāli]]

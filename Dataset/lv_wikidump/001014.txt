@@ -1,0 +1,139 @@
+[[Attēls:Internet map 1024.jpg|right|300px|thumb|''[[Opte Project]]'' interneta vizualizācija, kurā tiek attēloti dažādi tā starptīklu maršruti]]
+'''Internets''' ir publiski pieejama savstarpēji saslēgtu [[datortīkls|datortīklu]] vispasaules sistēma, kas pārsūta [[dati|datus]], izmantojot [[Interneta Protokols|Interneta protokolu (IP)]]. Tas ir veidots no tūkstošiem mazāku komerciālu, akadēmisku un valdību tīklu. Tas ietver [[elektroniskais pasts|elektronisko pastu]], [[IRC|tērzēšanas retranslēšanu]], [[datne|datņu]] pārraidi, [[Vispasaules tīmeklis|tīmekļa]] dokumentus, sociālos tīklus utt.
+
+Internets dod plašāku iespēju izvēlēties laiku un vietu, no kurienes strādāt, it īpaši, palielinoties ātro brīvpiekļuves tīklu skaitam. Internetam var piekļūt gandrīz no jebkuras vietas dažādos veidos, tai skaitā caur mobilajām interneta ierīcēm. Mobilie telefoni, pārnēsājamās spēļu konsoles un interneta modemi ļauj lietotājiem pieslēgties bezvadu internetam. Neraugoties uz ierobežotā izmēra ekrāniem un citām ierobežotām iespējām, ko piedāvā šādas kabatas izmēra ierīces, tajās var būt pieejams internets.
+
+== Terminoloģija ==
+Vārds "Internets" ir saīsināts no tehniska termina "starptīkls", kas ir rezultāts savstarpēji savienojot datoru tīklus ar īpašām [[vārteja|vārtejām]] vai [[maršrutētājs|maršrutētājiem]].
+
+Termins Internets, atsaucoties uz visu pasaules sistēmu [[IP]] tīklos, tiek uzskatīts par īpašvārdu, un tas tiek rakstīts ar lielo burtu. [[Plašsaziņas līdzekļi|Plašsaziņas līdzekļos]] un popkultūrā ir izveidojusies tendence uzskatīt to kā vispārēju jēdzienu vai sugas vārdu un līdz ar to rakstīt kā "internets", bez kapitalizācijas.
+
+Vēsturiski "internets" (ar mazo burtu) tika lietots jau 1883. gadā kā darbības un īpašības vārds, lai apzīmētu savstarpēji saistītas kustības. Sākoties 1970. gadam, termins "internets" tika lietots kā saīsinātā forma terminam starptīkls. Termins tika lietots arī kā darbības vārds savienoties, saistībā ar tīkliem.
+
+Jēdzienus "Internets" un "[[vispasaules tīmeklis]]" sarunvalodā mēdz kļūdaini lietot kā sinonīmus. Internets ir vispasaules datu sakaru sistēma. Tas ir [[aparatūra]]s un [[programmatūra]]s infrastruktūra, kas nodrošina savienojumu starp datoriem. Turpretī [[tīmeklis]] ir viens no pakalpojumiem, kas sazinās, izmantojot Internetu. Tā ir kolekcija, kas sastāv no savstarpēji savienotiem dokumentiem un citiem resursiem, kas ir saistīti ar [[hipersaite|hipersaitēm]] un [[URL]].
+
+Daudzās tehniskās ilustrācijas, kad precīza atrašanās vieta vai savstarpēja Interneta resursu saistība nav svarīga, paplašinātos tīklos, piemēram, Internetu bieži vien raksturo kā mākoni. Šis apzīmējums tiek lietots jaunajā [[mākoņskaitļošana]]s koncepcijā.
+
+== Interneta rašanās ==
+{{main|Interneta vēsture}}
+
+Pamata tīklus, kas veido internetu, sāka veidot 1969. gadā, kā [[Perspektīvo pētījumu pārvaldes tīkls ARPANET|Perspektīvo pētījumu pārvaldes tīklu ARPANET]], ko pēc ASV Aizsardzības ministrijas Perspektīvo pētījumu pārvaldes (ARPA) pasūtījuma izstrādāja vairākas universitātes un privātas firmas. ARPANET bija pirmais decentralizētais datortīkls, kurā izmantoja [[pakešu komutācija]]s un rindas teorijas tehnoloģijas. 1983. gada 1. janvārī tika ieviests [[TCP/IP]] protokols un tādējādi tika ielikts pamats mūsdienu internetam.
+
+Svarīgs solis attīstībā bija arī ASV Nacionālās zinātnes fonda pamattīkla ''[[NSFNet]]'' izveide 1986. gadā. Citi atšķirīgie tīkli, kas vēlāk tika savienoti ar internetu bija ''[[Usenet]]'' un ''[[Bitnet]]''. 1991. gada augustā [[Tims Bērnerss-Lī]] publicēja [[vispasaules tīmeklis|vispasaules tīmekļa]] projektu. Atsevišķas akadēmiskas un valdības iestādes izveidoja tīmekļa lappuses, taču uzreiz tas vel neguva plašu popularitāti. 1993. gadā tika izlaista tīmekļa pārlūkprogrammas ''[[Mosaic (tīmekļa pārlūkprogramma)|Mosaic]]'' pirmā versija un 1994. gadā jau bija vērojama augoša publiska interese par iepriekš internetu, kas iepriekš bija zināms tikai tehniski akadēmiskā vidē. 1996. gadā vārds "internets" jau bija plaši pazīstams un ar to pamatā apzīmēja [[vispasaules tīmeklis|vispasaules tīmekli]].
+
+20. gadsimta 90. gados kolektīvais tīkls ieguva publisku seju. 1990. gados tika lēsts ka datu plūsma publiskajā interneta katru gadu palielinājās par apmēram 100%, kamēr vidējais interneta lietotāju skaits katru gadu palielinājās par 25% līdz 50%. Šo izaugsmi skaidro ar to, ka internetam nav centrālās pārvaldes, kas ļāva internetam strauji izaugt, arī pieļaujot nepatentēta atvērta rakstura interneta protokola veidošanos, kas liedza iespēju kādai kompānijai pārņemt pārāk lielu kontroli pār internetu. 2011. gada 31. martā kopējais interneta lietotāju skaits bija 2,095 miljardi, kas sastāda 30,2% no visiem pasaules iedzīvotājiem. Ir aprēķināts, ka 1993. gadā internets nesa tikai 1% no informācijas, kas plūda caur divvirzienu [[telesakari]]em, līdz 2000. gadam šis skaitlis bija izaudzis līdz 51%, un 2007. gadā tas jau sasniedza 97 procentus.
+
+Desmitgades laikā internets uzsūca sevī arī lielāko daļu līdz tam atsevišķi pastāvošo datortīklu (kaut gan daži no tiem, piemēram ''[[Fidonet]]'', palika kā atsevišķi tīkli). Izaugsme notiek pateicoties tam, ka internetam nav centrālas administrācijas, kā arī tas, ka tīkls balstās uz nepatentētiem protokoliem, kas neļauj kādai kompānijai to kontrolēt.
+
+== Tehnoloģija ==
+
+=== Protokoli ===
+Interneta komunikāciju struktūra sastāv no tās aparatūras komponentēm un programmatūras slāņiem, kuri kontrolē arhitektūras sistēmas dažādos aspektus. Kamēr aparatūru bieži var izmantot, lai atbalstītu citas programmatūras sistēmas, tomēr tas ir dizains un programmatūras arhitektūras precīzs standartizācijas process, kas raksturo internetu un nodrošina interneta pamatu mērogojamību un panākumus. Par interneta programmatūras sistēmas arhitektūru atbildīgi ir interneta tehniskā uzdevumgrupa (Internet Engineering Task Force — IETF). IETF izstrādā standartizētas darba grupas, kuras ir pieejamas jebkurai personai, par interneta arhitektūras aspektiem. Diskusiju rezultāti un galīgie standarti ir publicēti virknē publikāciju, kur katra publikācija lūgusi izteikt atzinumu (Request for Comments — RFC), kas brīvi pieejami apskatei IETF tīmekļa vietnē, mājaslapā. Galvenās metodes interneta tīkla izveidē ir ietvertas īpašās RFC publikācijās, kas veido interneta standartus (Internet Standards). Citi mazāk stingri dokumenti ir vienkārši ar informatīvu, eksperimentālu, vēsturisku nozīmi vai dokumentētu pašreizējo labāko praksi (Best current practices — BCP) īstenojot Interneta tehnoloģijas.
+
+Interneta standarti apraksta sistēmu, ko sauc par interneta protokolu komplektu (''Internet protocol suite''). Tas ir arhitektūras modelis, kas iedala daudzslāņu protokolu sistēmas metodes ({{RFC|1122}}, {{RFC|1123}}). Slāņi atbild video vai apjomam, kādā to pakalpojumi darbojas. Augšā ir lietojumslānis, telpa priekš atbilstošas programmas tīkla metodēm, kuras izmanto lietojumprogrammās, piemēram, interneta pārlūku programmā. Zem augšējā slāņa atrodas transporta slānis, kas savieno pietiekumus uz dažādiem saimniekiem, izmantojot tīklu, piemēram, klienta-servera modelis, ar attiecīgajām datu apmaiņas metodēm. Zem abiem šiem slāņiem ir citi divi galvenie tīklu tehnoloģiju slāņi. Viens no šiem slāņiem ir interneta slānis, ka ļauj datoram identificēt un atrast vienam otru, izmantojot interneta protokola (IP) adreses, un ļauj izveidot savienojumu kā, piemēram, viens-vairākiem, izmantojot starpposmu (tranzītu) tīklus. Visbeidzot arhitektūras pašā apakšā ir programmatūras slānis jeb saiknes slānis, kas nodrošina savienojumu starp saimniekiem, kuri atrodas vienā tīklā, piemēram, lokālais tīkls (LAN) vai dial-up pieslēgums. Šis modelis, kurš pazīstams arī, kā TCP/IP, ir izstrādāts, lai būtu neatkarīgs no bāzes aparatūras. Citi modeļi ir izstrādāki, kā atvērto sistēmu sadarbības (OSI) modeļi, bet tie nav saderīgi ar to aprakstu vai īstenošanas detaļām; pastāv daudz līdzības un par TCP/IP protokoli tiek uzskatīti par OSI tīkla protokoliem.
+
+Visievērojamākā daļa interneta modelī ir interneta protokols (IP), kas nodrošina adresācijas sistēmu (IP adreses) datoriem internetā. Interneta protokols ļauj internetam darboties un būtībā uztur pašu internetu. Interneta protokola versija 4 (IPv4) ir sākotnējā versija, ko izmantoja pirmās paaudzes internets un vēl joprojām ir dominējošākais interneta protokols, kurš tiek lietots. Tā tika izstrādāta uz apmēram 4,3 miljardu (109) interneta saimniekiem. Tomēr straujais interneta lietotāju pieaugums ir novedis pie Ipv4 adrešu izsīkuma, kas 2011. gadā šo adrešu izsniegšana tika izsmelta. 1990. gada vidū tika izstrādā jauna protokola versija, IPv6, kas nodrošina ievērojami lielākas adresācijas iespējas un efektīvāku maršrutēšanu internetā. Interneta adrešu reģistri (Internet address registries — RIR) sāka aicināt visus resursu menedžerus, lai viņi sāk plānot par IPv6 pieņemšanu un pārstrādi.
+
+IPv6 nav savienojama ar IPv4. Būtībā, IPv6 nosaka paralēlu versiju internetam, kurš nav tieši pieejams ar IPv4 programmatūru. Tas nozīmē, ka programmas atjauninājumi vai tulkotāju iekārtas ir nepieciešamas tīkla ierīcēm, kurām nepieciešams sazināties abos tīklos. Lielākā daļa mūsdienu datoru operētājsistēmas atbalsta abas interneta protokola (IP) versijas. Diemžēl tīkla infrastruktūra joprojām atpaliek šajā attīstībā, kad tiek atbalstītas abas interneta protokola versijas. Internets atvieglo divpusējos un daudzpusējos tirdzniecības līgumus, piemēram, vienādranga ierīču saskaņojums, kā arī tehniskos parametrus un protokolus, kuri raksturo kā apmainīties ar datiem tīklā. Internets, patiešām, definē tā starpsavienojumu un maršrutēšanas politiku.
+
+[[Attēls:Internet Connectivity Distribution & Core.svg|thumb|Interneta pakalpojumu sniedzēju tīkls]]
+
+=== Interneta arhitektūra ===
+Tā kā datu pārsūtīšana un saņemšana internetā notiek izmantojot TCP/IP protokolus, interneta arhitektūru dēvē arī par TCP/IP arhitektūru.
+
+Interneta arhitektūra sastāv no trīs līmeņu interneta pakalpojuma sniedzēju (''Internet Service Providers'') tīkliem. Pirmā līmeņa tīkli ir nedaudzi, augstas kapacitātes plaša apgabala tīkli (WAN). Otrā līmeņa interneta pakalpojuma sniedzēji (IPS) iepērk tranzīta saites no pirmā līmeņa pakalpojuma sniedzējiem, un nodrošina šo pakalpojumu tālāk trešā līmeņa IPS. Trešā līmeņa IPS iepērk šo pakalpojumu un piegādā to tieši gala lietotājam.
+
+Latvijā nav neviena pirmā līmeņa IPS. Pirmā līmeņa IPS sarakstu var apskatīt šeit: [[:en:Tier 1 network#List of Tier 1 networks|List of Tier 1 networks]]
+
+=== Maršrutēšana ===
+Interneta pakalpojumu sniedzēji (IPS) savieno klientus kuri pārstāv apakšējo maršrutēšanas slāni hierarhijā ar klientiem no citiem IPS augstāka vai viena līmeņa tīklos. Maršrutēšanas hierarhijas augšpusē ir Tier 1 tīkli, lielas telesakaru kompānijas kas apmainās ar datiem starp citām telesakaru kompānijām Tier 1 tīklos. Tier 2 tīklu operatori iegādājas Interneta tranzītu no augstākiem IPS, lai sasniegtu vispasaules internetu, lai gan tie var arī iesaistīties administratīvi atsevišķu interneta tīklu datu apmaiņā. IPS var izmantot tikai vienu augstāka līmeņa IPS savienojumam ar Internetu, vai īstenot slēgumus ar vairākiem augstāka līmeņa IPS, lai nodrošinātu redundanci. Interneta apmaiņas punkti ir galvenās datu pārraides vietas kurām ir fiziski slēgumi ar vairākiem IPS.
+Darba stacijas un maršrutētāji izmanto maršrutēšanas tabulas, lai novirzītu Interneta Protokola (IP) paketes uz nākamo maršrutētāju vai galamērķi. Maršrutēšanas tabulās uztur ar roku ievadīt konfigurāciju vai maršrutēšanas protokola izveidotu. Gala mezgli parasti izmanto noklusēto maršrutu, kas vērsts pret IPS kurš nodrošina tranzītu kamēr IPS maršrutētāji izmanto ''[[Border Gateway Protocol]]'' (BGP), lai izveidotu visefektīvāko maršrutu pāri sarežģītiem savienojumiem pasaules internetā.
+Lielas organizācijas, piemēram, akadēmiskās iestādes, lieli uzņēmumi, un valdības var veikt tādas pašas funkcijas kā IPS nodibinot pilnvērtīgu komunikāciju ar IPS un pērkot tranzītu starp saviem iekšējiem tīkliem. Pētniecības tīklus mēdz savienot lielos apakštīklos, piemēram GEANT, GLORIAD, internet2 un Lielbritānijas valsts pētniecības un izglītības tīkls, JANET.
+
+=== Vispārējā struktūra ===
+Interneta struktūra un tās izmantošanas iespējas tika pētītas plaši. Konstatēts, ka gan interneta protokola maršrutēšanas struktūra un hiperteksta saites uz pasaules plašo tīmekli (World Wide Web — WWW) ir, kā piemēri brīvskalu tīkliem.
+
+Daudzi datoru zinātnieki raksturo internetu kā „primāru paraugu liela mēroga, augsta līmeņa inženierija, taču ar ļoti sarežģītu sistēmu”. Internets ir neviendabīgs, kā piemēru var minēt datu pārraides ātrumu un fizikālo savienojumu atšķirības. Internets izstāda „jaunas parādības”, kuras ir atkarīgas no tā lielo mērogu organizācijām. Piemēram, datu pārraides ātrums izstāda laicīgu sevis līdzību. Maršrutēšanas principi un adresēšanas satiksmes metodes internetā sniedzas atpakaļ pie viņu izcelsmes 1960. gadā, kad iespējamo apjomu un popularitāti tīklam nevarēja paredzēt. Lai attīstītu alternatīvas struktūras, jāveic lieli pētnieciskie darbi. Interneta struktūra tika atzīta par ļoti stabilu, lai spētu tikt galā ar nejaušām atteicēm un ļoti augstas pakāpes uzbrukumiem.
+
+== Interneta vispārējā nozīme ==
+Pateicoties internetam, daudziem cilvēkiem ir dota iespēja brīvi izteikties, kā arī atrast dažāda veida informāciju. Internets ir kļuvis par vietu, kur iespējams veikt neskaitāmas funkcijas — iepirkties, sazināties ar draugiem, radiem un līdzīgi domājošiem, uzzināt jaunumus un informāciju, kā arī radīt jaunas idejas un dalīties ar tām. Neskatoties uz interneta pozitīvajiem aspektiem, tam ir arī negatīvās puses:
+
+* Ļaunprātīga privātuma izmantošana un aizskaršana;
+* Internets apvieno ne tikai radošus indivīdus, bet veicina arī noziedzīgus grupējumus, līdz ar to apdraudot mūsu drošību;
+* Pieejamās informācijas patiesums un ticamība var būt ļoti maza.
+
+Vienmēr būs indivīdi, kas atbalstīs brīvu dalīšanos internetā ar mūziku, filmām, programmām, kā arī indivīdi, kas centīsies kontrolēt un izmantot to komerciāliem nolūkiem. Internetam ir divējāda daba — radoša un postoša reizē. Interneta kritiķi uzskata, ka tas sagraus esošās kultūras vērtības, radīs subkultūru.
+
+Internets, uzsverot dalīšanos ar idejām kultūrā un [[saimniecība|saimniecībā]], dod iespēju apvienoties cilvēkiem ar kopīgām interesēm neatkarīgi no viņu atrašanās vietas. Pašreizējais Interneta periods maina plašpatēriņa kultūru par labu radošumam.
+
+== Juridiskie aspekti ==
+2011. gada 3. jūnijā tika pieņemta ANO rezolūcija, kurā interneta piekļuve tiek atzīta par cilvēka pamattiesībām. Tādējādi atsevišķu reģionu atvienošana no interneta ir cilvēktiesību pārkāpums.
+
+== Galvenās izmantošanas jomas ==
+
+=== Elektroniskā uzņēmējdarbība ===
+{{Pamatraksts|Elektroniskā uzņēmējdarbība}}
+Saskaņā ar pētijumu rezultātiem lielākā daļa interneta resursu ir saistīta ar komercdarbību. Internets tiek izmantots, lai reklamētu un pārdotu preces un pakalpojumus, tirgus izpētei, elektroniskajiem maksājumiem un [[Bankas konts|bankas kontu]] pārvaldībai.
+
+Saskaņā ar ''Oxford Economics'' ziņojumu kopējais preču un pakalpojumu [[elektroniskā tirdzniecība|elektroniskās tirdzniecības]] apjoms, kā arī digitālo produktu un pakalpojumu tirgus tiek vērtēts 20,4 triljonu ASV dolāru apmērā, kas veido aptuveni 13,8% no pasaules pārdošanas apjoma.
+
+=== Mūzika, literatūra, kino ===
+Internetā pieejamās elektroniskajās bibliotēkās ir ļoti daudz darbu. Tajā pašā laikā daudzas internetā pieejamās gramatas jau sen ir kļuvušas par bibliogrāfisku retumu, un dažas nav vispār publicētas.
+
+Rakstnieki un dzejnieki iesācēji, kā arī pazīstami autori ievieto savus darbus internetā.
+
+Mūzikas izplatīšana internetā sākās ar [[MP3]] formāta parādīšanos, kas saspiež audio failus izmērā, kas piemērots pārraidīšanai internetā, vienlaikus saglabājot ieraksta kvalitāti. Atsevišķu dziesmu parādīšanās no mākslinieka jaunā diska internetā, viņam kalpo kā laba reklāma un ievērojami paaugstina ierakstu pārdošanas līmeni.
+
+Internetā arī ir ievietotas daudzas filmas, no kurām lielākā daļa ir nelegālas. Lai pie tam piekļūtu, tiek plaši izmantoti failu koplietošanas tīkli (it īpaši, izmantojot tehnoloģijas ''[[BitTorrent]]'').
+
+== Pakalpojumi ==
+
+=== Vispasaules tīmeklis ===
+{{Pamatraksts|Vispasaules tīmeklis}}
+
+Daudzi cilvēki izmanto jēdzienus internets un vispasaules tīmeklis jeb vienkārši tīmeklis kā sinonīmus, taču tas nav īsti pareizi. Vispasaules tīmeklis ir tikai viens no simtiem servisu, kuri tiek izmantoti internetā. Tīmeklis ir dokumentu, attēlu un citu resursu vispasaules kopums, kas savstarpēji sasaistīts ar hipersaitēm un kurā ir vienotie resursu identifikatori ([[URI]]). URI simboliski identificē servisus, serverus un citas datubāzes un dokumentus un resursus, kuras tās var nodrošināt. Hiperteksta pārsūtīšanas protokols ([[HTTP]]) ir galvenais piekļuves protokols vispasaules tīmeklī. Tīmekļa servisi izmanto HTTP, lai ļautu programmatūras sistēmām sazināties, tādējādi daloties un apmainoties ar biznesa loģiku un datiem.
+
+Vispasaules tīmekļa pārlūkprogrammatūra, piemēram, ''[[Internet Explorer|Microsoft Internet Explorer]]'', ''[[Mozilla Firefox]]'', ''[[Opera (pārlūkprogramma)|Opera]]'', ''[[Safari (pārlūkprogramma)|Apple Safari]]'' un ''[[Google Chrome]]'' ļauj lietotājiem pārvietoties no vienas tīmekļa lapas uz otru, izmantojot dokumentos iegultās hipersaites. Šie dokumenti var saturēt arī jebkādu datora datu kombināciju, tai skaitā grafikas, skaņas, tekstu, video, multimedijus un interaktīvo saturu, kas darbojas, kamēr lietotājs mijiedarbojas ar lapu. Klienta puses programmatūra var iekļaut animācijas, spēles, ofisa lietojumprogrammas un zinātniskas demonstrācijas. Pateicoties meklētājiem, kas balstīti uz atslēgvārdiem (''[[Yahoo!]]'' un ''[[Google]]''), lietotājiem visā pasaulē ir vienkārša un tūlītēja piekļuve plašai un daudzveidīgai tiešsaistes informācijai. Salīdzinot ar drukātajiem avotiem, grāmatām, enciklopēdijām un tradicionālajām bibliotēkām, vispasaules tīmeklis veicinājis liela apmēra informācijas decentralizāciju.
+
+Tīmeklis ir devis iespēju atsevišķiem indivīdiem un organizācijām publicēt idejas un informāciju, kura tiešsaistē var sasniegt lielu auditoriju, tai pat laikā būtiski samazinot izmaksas un laika patēriņu. Tīmekļa lapas, [[tīmekļa žurnāls|žurnāla]] vai mājaslapas izveidei nav nepieciešami lieli izdevumi, turklāt ir pieejami daudzi bezmaksas pakalpojumi. Jāatzīmē, ka lielas, profesionālas mājas lapas un apmeklētājiem pievilcīga satura izveide vēl joprojām ir visnotaļ sarežģīta un dārga. Daudzi cilvēki, kā arī uzņēmumi un grupas izmanto tīmekļa žurnālus, kuru galvenā funkcija ir kalpot par vienkārši atjaunināmu tiešsaistes dienasgrāmatu. Dažas komerciālas organizācijas rosina darbiniekus veidot rakstus par viņu specializāciju, cerībā, ka lapas apmeklētājus piesaistīs ekspertu zināšanas un bezmaksas informācija, kā rezultātā viņiem šķitīs saistošs arī pats uzņēmums.
+
+Kā vienu no piemēriem var minēt uzņēmumu ''[[Microsoft]]'', kuras produktu izstrādātāji publicē personīgos tīmekļa žurnālus, lai raisītu publikas interesi par savu darbu. Lielo pakalpojumu nodrošinātāju publicētās personīgo tīmekļa lapu kolekcijas saglabā savu popularitāti un ir kļuvušas ievērojami sarežģītākas. Lai arī tādas vietnes kā ''[[Angelfire]]'' un ''[[GeoCities]]'' pastāv jau kopš pašiem tīmekļa pirmsākumiem, arī jaunpienācējiem, piemēram, ''[[Facebook]]'' un ''[[Twitter]]'' patlaban ir liels sekotāju skaits. Šīs vietnes bieži vien dēvē sevi par sociālajiem tīkliem nevis vienkārši par tīmekļa lapu uzturētājiem.
+
+[[Reklāma]]s izvietošana populārās tīmekļa lapās var būt ienesīga un e-komercija jeb preču un pakalpojumu tirdzniecība ar tīmekļa starpniecību turpina pieaugt.
+
+Kad 20. gadsimta 90. gados aizsākās tīmekļa vēsture, tipiska tīmekļa lapa pabeigtā formā tika glabāta uz tīmekļa servera. Tā tika formatēta ar [[HTML]] un to sūtīja uz lietotāja pārlūkprogrammu kā atbildi uz pieprasījumu. Laika gaitā tīmekļa lapu veidošana un apkalpošana kļuvusi automatizētāka un dinamiskāka. Tīmekļa lapas bieži vien tiek veidotas, izmantojot satura pārvaldīšanas vai viki programmatūru, kurā sākotnēji ir ļoti maz satura. Šo sistēmu līdzstrādnieki (piemēram, algoti darbinieki, kluba vai organizācijas biedri, sabiedrības locekļi u.c.) aizpilda pamata datubāzes ar saturu, izmantojot rediģēšanas lapas, kuras ir speciāli izveidotas šim mērķim. Turpretī parastie apmeklētāji lasa un aplūko šo saturu tā beidzamajā HTML veidolā. Lai padarītu jaunizveidoto saturu publiski pieejamu, lapā var būt iestrādātas rediģēšanas, apstiprināšanas un drošības sistēmas.
+
+== Mūsdienu Internets ==
+Izplatītākie Interneta protokoli ir [[Interneta Protokols|IP]], [[TCP]], [[UDP]], [[domēnu vārdu sistēma|DNS]], [[PPP (protokols)|PPP]], [[SLIP]], [[ICMP]], [[POP3]], [[IMAP]], [[SMTP]], [[HTTP]], [[HTTPS]], [[SSH]], [[Telnet]], [[FTP]], [[LDAP]], [[SSL]] un [[TLS]].
+
+Daži no populārākajiem Interneta pakalpojumiem, kas izmanto šos protokolus, ir [[elektroniskais pasts]], ''[[Usenet]]'' ziņu grupas, [[datņu koplietošana]], [[vispasaules tīmeklis]], ''[[Gopher]]'', [[sesija (datorzinātnē)|sesiju pieeja]], [[WAIS]], [[Pirksts (protokols)|Pirksts]], [[IRC]], u.c. No tiem, e-pasts un vispasaules tīmeklis ir paši izplatītākie un daudzi pakalpojumi, piemēram, [[adresātu saraksts|adresātu saraksti]] un [[tīmekļa žurnāls|tīmekļa žurnāli]], ir veidoti uz to bāzes.
+
+== Drošība ==
+Interneta materiāli, aparatūra un lietojumprogrammatūra ir galvenais mērķis kiberuzbrukumiem, lai iegūtu neatļautu pieeju informācijai šantāžai, krāpšanai vai privātās informācijas ieguvei. Iegūstot neatļautu pieeju aparatūrai ir iespējams radīt traucējumus sistēmā.
+
+=== Ļaunprogrammatūra ===
+{{Pamatraksts|Ļaunprogrammatūra}}
+Programmatūra, kas tiek izmantota un izplatīta internetā. Galvenokārt datorvīrusi, kuri ar cilvēku palīdzību tiek nodoti tālāk un tie automātiski izplatās datorā inficējot citus failus. Tiek izmantoti, lai traucētu sistēmu darbību, naudas izspiešanu, izmantotu datora resursus vai spiegotu lietotāja datoru. Tiek klasificēts kā kiberuzbrukums.
+
+== Internets Latvijā ==
+Internets Latvijā sāka veidoties ap 1992. gadu. Tas sākumā bija pieejams [[Latvijas Universitātes Matemātikas un informātikas institūts|LU Matemātikas un informātikas institūta]] ēkā. 2012. gada jūnijā Latvijā bija vairāk nekā 1,57 miljons Interneta lietotāju, kas ir 71,7% no visiem valsts iedzīvotājiem.<ref>[http://www.internetworldstats.com/europa.htm#lv Interneta lietotāju skaits Latvijā]</ref>
+
+Saskaņā ar "Akamai" ziņojumu uz 2013. gada janvāri, Latvijā ir ceturtais ātrākais internets pasaulē<ref>http://www.akamai.com/dl/documents/akamai_soti_q213.pdf?WT.mc_id=soti_Q213 (2013. gada otrā ceturkšņa pārskats)</ref> un otrais Eiropā — vidējais interneta ātrums Latvijā ir 10,6 megabiti sekundē (Mbps; mērījums attiecas tikai uz fiksēto internetu un neiekļauj pieslēgšanos caur mobilajām ierīcēm). Šāds rezultāts lielākoties sasniegts lielas konkurences dēļ (Latvijā interneta pakalpojumus sniedz vairāk nekā 300 uzņēmumu<ref>[http://www.sprk.gov.lv/lapas/Elektroniskie-sakari#Pakalpojumu-sniedzeji66 Latvijas Interneta pakalpojumu sniedzēju saraksts SPRK lapā] {{Webarchive|url=https://web.archive.org/web/20151026085220/http://www.sprk.gov.lv/lapas/Elektroniskie-sakari#Pakalpojumu-sniedzeji66 |date={{dat|2015|10|26||bez}} }} {{lv ikona}}</ref>) un pateicoties Latvijas interneta pakalpojumu sniedzēju agresīvai cīņai par klientiem un dažu uzņēmumu veikto tīkla modernizāciju, ieviešot optiskā ([[GPON]]) interneta pakalpojumu, kas ļauj iedzīvotājiem izmantot līdz pat 1 GBit/s ātro internetu.<ref>[http://www.lattelecom.lv/majai/internets/ Lattelecom optiskais internets] {{Webarchive|url=https://web.archive.org/web/20101019122705/http://lattelecom.lv/majai/internets |date={{dat|2010|10|19||bez}} }} {{lv ikona}}</ref>
+
+== Enerģijas izmantošana ==
+2011. gadā pētnieki lēsa, ka interneta enerģijas patēriņš ir 170—307 gigavati, kas ir mazāk nekā divi procenti no cilvēces patērētās elektroenerģijas. Novērtējumā tika ņemtas vērā enerģijas izmaksas aptuveni 750 miljonu klēpjdatoru, miljarda viedtālruņu, 100 miljonu serveru visā pasaulē izveidei, darbībai un periodiskai atjaunināšanai, kā arī maršrutētāju, mobilo staciju, slēdžu, radio raidītāju, mākoņu uzglabāšanas sistēmu enerģijas patēriņš.
+
+== Skatīt arī ==
+* [[Interneta domēns]]
+* [[Interneta žargons]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20110510053455/http://online-nettools.com/bandwidth_meter Parāda Tavu interneta ātrumu] {{en ikona}}
+* [http://speedtest.net/ Parāda Tavu interneta ātrumu (starptautiskais)] {{en ikona}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Internets]]

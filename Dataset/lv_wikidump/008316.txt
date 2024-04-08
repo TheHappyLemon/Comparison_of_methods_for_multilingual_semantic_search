@@ -1,0 +1,134 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = Bvake
+|official_name          =''Bouaké''<br/>''Bwake''
+|settlement_type        = pilsēta
+|native_name            =   
+|nickname               =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Cibkechu.JPG
+|imagesize              = 250px
+|image_caption          = Buakes Universitātes slimnīcas komplekss
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = Bouaké blason.ngw2.jpg
+|shield_size            = 80px
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Côte d'Ivoire <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Atrašanās vieta Kotdivuārā
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates_region     = CI
+|subdivision_type       = Valsts
+|subdivision_name       = {{CIV}}
+|subdivision_type1      = [[Kotdivuāras reģioni|Reģions]]
+|subdivision_name1      = [[Bandamas ieleja]]
+|subdivision_type2      = [[Kotdivuāras departamenti|Departaments]]
+|subdivision_name2      = [[Buakes departaments]]
+|subdivision_type3      =
+|subdivision_name3      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_party           =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      = Dibināta
+|established_date       = 1899
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|area_footnotes           =
+|area_total_km2           = 71.788
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =
+|elevation_m            = 312
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               =2014
+|population_footnotes           =
+|population_note                =
+|population_total               =536189
+|population_density_km2         = auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[Griničas laiks|GMT]]
+|utc_offset             = +0
+|timezone_DST           =
+|utc_offset_DST         =
+| coor_type             = <!-- can be used to specify what the coordinates refer to -->
+|latd=7 |latm=41 |lats= |latNS=N
+|longd=5 |longm=01 |longs= |longEW=W
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|website                = {{url|http://mairiebke.e-monsite.com/}}
+|footnotes              =
+}}
+
+'''Bvake''' (''Bouaké'', ''Bwake'') ir pilsēta [[Kotdivuāra]]s centrālajā daļā, otrā lielākā valsts pilsēta. Tā ir [[kokvilna]]s rūpniecības centrs. Pilsēta sāka strauji attīstīties no 1970. gadiem. Bvake ir [[bauli|baulu]] tautas centrs.<ref>{{PZT|135|Bvake}}</ref>
+
+Šobrīd (2014) pilsētā izvietoti [[Francija|franču]] un [[Apvienoto Nāciju Organizācija|ANO]] miera uzturēšanas spēki, kuri kontrolē [[pamiers|pamiera]] ievērošanu starp naidīgajiem grupējumiem pēc [[Kotdivuāras pilsoņu karš|Kotdivuāras pilsoņu kara]]. Pilsēta ir vienas karojošās puses - [[Jaunie spēki|Jauno spēku]] (''Forces nouvelles'') galvenais centrs.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kotdivuāras pilsētas]]

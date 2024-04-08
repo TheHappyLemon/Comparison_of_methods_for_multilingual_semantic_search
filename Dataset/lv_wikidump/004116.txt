@@ -1,0 +1,24 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Furan_chemical_structure.png]] <br />Furāna dažādu veidu struktūrformulas un molekulas modelis
+|ķīmiskā formula=C<sub>4</sub>H<sub>4</sub>O
+|molmasa=68,07
+|blīvums=936
+|kušanas temperatūra=-85,6&nbsp;°C
+|viršanas temperatūra=31,4&nbsp;°C
+}}
+'''Furāns''' (no latīņu ''furfur'' - klijas; furānu var iegūt no [[furfurols|furfurola]]) (oksols, furfurāns, diviniloksīds, C<sub>4</sub>H<sub>4</sub>O) ir [[heterocikls|heterociklisks]] [[skābeklis|skābekli]] saturošs [[organiskās vielas|organisks savienojums]]. Tas ir bezkrāsains, gaistošs, degtspējīgs šķidrums ar [[hloroforms|hloroformam]] līdzīgu smaržu.
+
+== Atrašanās dabā ==
+Furāna atvasinājumi plaši sastopami dabā. Piemēram, daudzi [[ogļhidrāti]] veido tautomēro formu, kuras pamatā ir skābekli saturošs pieclocekļu cikls - šādus ogļhidrātus sauc par [[furanoze|furanozēm]].
+
+== Iegūšana ==
+Furānu var iegūt koksnes sausās pārtvaices procesā. Laboratoriski tīru furānu iegūst no α-furānmonokarbonskābes ([[pirogļotskābe]]s) vai [[dehidrogļotskābe]]s, atšķeļot [[oglekļa dioksīds|CO<sub>2</sub>]] bāziskā vidē [[varš|vara]] sāļu klātienē.
+
+== Īpašības ==
+Hidrogenējot furānu, var iegūt [[THF|tetrahidrofurānu]], ko arī lieto par šķīdinātāju. Tomēr furāns ir visai grūti reducējama viela (uz to neiedarbojas pat [[nātrijs|nātrija]] [[amalgama]]) un to var hidrogenēt tikai visai augstā temperatūrā [[katalizators|katalizatoru]] ([[pallādija oksīds|pallādija oksīda]], [[niķelis|niķeļa]] vai [[osmijs|osmija]]) klātienē. Tas izskaidrojams ar to, ka furāna molekulas uzbūve ir līdzīga [[benzols|benzola]] molekulas uzbūvei, jo skābekļa atoma brīvais [[elektrons|elektronu]] pāris kopā ar četru [[ogleklis|oglekļa]] atomu π elektroniem veido tādu pašu delokalizētu 6 π elektronu sistēmu kā benzola molekulā. Tādējādi furāna molekula pieder pie benzolam līdzīgām aromātiskām struktūrām. <br />Furāna molekulā skābekli var aizvietot ar sēru, iegūstot [[tiofēns|tiofēnu]], vai slāpekli, iegūstot [[pirols|pirolu]].
+{{Heterocikli}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Heterocikliskie savienojumi]]
+[[Kategorija:Šķīdinātāji]]

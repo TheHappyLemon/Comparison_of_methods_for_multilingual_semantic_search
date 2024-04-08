@@ -1,0 +1,51 @@
+{{Futbola izlases infokaste
+| Name               = Moldova
+| Badge              = Futbols-Moldova.gif
+| FIFA Trigramme     = MDA
+| Nickname           = 
+| Association        = [[Moldovas Futbola federācija]]
+| Confederation      = [[UEFA]] (Eiropa)
+| Coach              = {{flaga|Moldova}} [[Sergejs Kleščenko]]
+| Captain            = Arturs Jonice
+| Most caps          = Aleksandru Jepurjanu (100)
+| Top scorer         = Josn Nikolaesku (12)
+| Home Stadium       = Zimbru stadions, [[Kišiņeva]]
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1 = _moldavia1617h|pattern_b1 =_moldavia1617h|pattern_ra1 =_moldavia1617h|pattern_sh1 =_moldavia1617a
+| leftarm1   = 0000DD|body1      = 0000DD|rightarm1   = 0000DD| shorts1    = FFBB00|socks1     = DD0000
+ |pattern_la2 = _moldavia1617a|pattern_b2 = _moldavia1617a|pattern_ra2 =_moldavia1617a|pattern_sh2 =_moldavia1617h
+| leftarm2   = FFBB00 |body2      = FFBB00 |rightarm2   = FFBB00| shorts2    = 0000DD |socks2     = FFBB00
+| First game         = {{fb|Moldova}} 2:4 {{fb-rt|Gruzija|1990}}<br />([[Kišiņeva]], [[Moldova]]; {{dat|1991|7|2|N|bez}})
+| Largest win        = {{fb|Moldova}} 5:0 {{fb-rt|Pakistāna}}<br />([[Ammāna]], [[Jordānija]]; {{dat|1992|8|18|N|bez}})
+| Largest loss       = {{fb|Zviedrija}} 6:0 {{fb-rt|Moldova}}<br />([[Gēteborga]], [[Zviedrija]]; {{dat|2001|6|6|N|bez}})
+| World cup apps     = 
+| World cup first    = 
+| World cup best     = 
+| Regional name      = [[Eiropas čempionāts futbolā|Eiropas čempionāts]]
+| Regional cup apps  = 
+| Regional cup first = 
+| Regional cup best  = 
+}}
+[[File:AUT vs. MDA 2015-09-05 (004).jpg|thumb|300px|Moldovas futbola izlase (2015)]]
+
+'''Moldovas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Moldova|Moldovas valsti]] starptautiskās futbola sacensībās. Moldovas futbola izlasi pārvalda [[Moldovas Futbola Federācija]]. Savu pirmo spēli pēc [[Padomju Savienība|PSRS]] sabrukšanas izlase aizvadīja 1991. gadā pret [[Gruzijas futbola izlase|Gruzijas izlasi]]. Moldovas izlase nekad nav piedalījusies ne [[FIFA Pasaules kauss|Pasaules]], ne [[Eiropas čempionāts futbolā|Eiropas]] čempionātu finālturnīros.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1938. gada FIFA Pasaules kauss|1938]] - ''Nepiedalījās, atradās [[Rumānijas futbola izlase|Rumānijas]] sastāvā''
+* [[1950. gada FIFA Pasaules kauss|1950]]-[[1994. gada FIFA Pasaules kauss|1994]] - ''Nepiedalījās, atradās [[PSRS futbola izlase|PSRS]] sastāvā''
+* [[1998. gada FIFA Pasaules kauss|1998]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+*[[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1992. gada Eiropas čempionāts futbolā|1992]] - ''Nepiedalījās, atradās [[Padomju Savienība|PSRS]] sastāvā''
+* [[1996. gada Eiropas čempionāts futbolā|1996]]-[[2020. gada Eiropas čempionāts futbolā|2020]] - ''Nekvalificējās''
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Moldovas futbola izlase| ]]

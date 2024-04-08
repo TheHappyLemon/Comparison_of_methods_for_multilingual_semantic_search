@@ -1,0 +1,73 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Ģerģs Bēkēši
+|     vārds_orig = ''Békésy György''
+|         attēls = Georg von Békésy nobel.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|        dz_gads = 1899
+|     dz_mēnesis = 6
+|       dz_diena = 3
+|       dz_vieta = {{vieta|Austroungārija|Budapešta}}
+|         m_gads = 1972
+|      m_mēnesis = 6
+|        m_diena = 13
+|        m_vieta = {{vieta|ASV|Havajas|Honolulu}}
+|   dzīves_vieta = 
+|      pilsonība = {{HUN}}
+|        tautība = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|        zinātne = [[biofizika]]
+|          grāds = 
+|   darba_vietas = Ungārijas pasts<br>[[Karaliskais Kārļa institūts]]<br>[[Hārvarda Universitāte]]<br>[[Havaju Universitāte]]
+|     akad_amats = 
+|     alma_mater = [[Etveša Lorānda Universitāte|Budapeštas Universitāte]]
+|    pasniedzēji = 
+|       studenti = 
+|     sasniegumi = 
+|    apbalvojumi = [[Nobela prēmija fizioloģijā vai medicīnā]] (1961)<br>[[ASA zelta madaļa]] (1961)
+|       piezīmes = 
+|    kategorijas = 
+}}
+
+'''Ģerģs Bēkēši''' (''Békésy György, Georg von Békésy'', dzimis {{dat|1899|6|3}} [[Budapešta|Budapeštā]], miris {{dat|1972|6|13}} [[Honolulu]]) bija [[ungāri|ungāru]] [[biofizika|biofiziķis]]. 1961. gada [[Nobela prēmija fizioloģijā vai medicīnā|Nobela prēmijas fizioloģijā vai medicīnā]] ieguvējs.
+
+Dzimis diplomāta ģimenē. Gājis skolā [[Budapešta|Budapeštā]], [[Stambula|Stambulā]], [[Minhene]], [[Cīrihe|Cīrihē]]. Studējis medicīnu [[Berne|Bernē]].
+
+[[Otrais pasaules karš|Otrā pasaules kara]] laikā strādājis Ungārijas [[pasts|pastā]], kur pētīja [[telekomunikācijas]]. Šeit Bēkēši pievērsās cilvēka [[auss]] darbības pētījumiem. 1947. gadā emigrēja uz [[Amerikas Savienotās Valstis|ASV]]. Šeit viņš turpināja pētījumus auss [[akustika|akustikā]].
+
+1961. gada ieguva Nobela prēmiju "par [[auss gliemezis|auss gliemeža]] darbības pētījumiem".<ref>{{publikācijas atsauce|author=Stevens, S. S.|authorlink=Stanley Smith Stevens|title=Georg von Békésy|journal=Physics Today|date=September 1972|volume=25|issue=9|pages=78–80|url=http://www.physicstoday.org/resource/1/phtoad/v25/i9/p78_s1?bypassSSO=1|doi=10.1063/1.3071029|bibcode=1972PhT....25i..78S|accessdate={{dat|2016|03|23||bez}}|archiveurl=https://archive.today/20130924145118/http://www.physicstoday.org/resource/1/phtoad/v25/i9/p78_s1?bypassSSO=1|archivedate={{dat|2013|09|24||bez}}}}</ref> Jau prēmijas piešķiršanas laikā vairāki Bēkēši pētījumu rezultātu secinājumi tika apšaubīti, bet mūsdienās tie atzīti par kļūdainiem.{{fact}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{cilvēks-aizmetnis}}
+
+{{kastes sākums}}
+{{s-ach}}
+{{Amatu secība | pirms = [[Frenks Makferlains Barnets]]<br />[[Pīters Midavers]]| virsraksts = [[Nobela prēmija fizioloģijā vai medicīnā]] | periods = [[1961]] | pēc = [[Frānsiss Kriks]]<br />[[Džeimss Votsons]]<br />[[Moriss Vilkinss]]}}
+{{kastes beigas}}
+
+{{Nobela prēmijas laureāti fizioloģijā vai medicīnā}}
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Bēkeši, Ģergs}}
+[[Kategorija:1899. gadā dzimušie]]
+[[Kategorija:1972. gadā mirušie]]
+[[Kategorija:Budapeštā dzimušie]]
+[[Kategorija:Ungāru zinātnieki]]
+[[Kategorija:ASV zinātnieki]]
+[[Kategorija:Biofiziķi]]
+[[Kategorija:Austrijas dižciltīgie]]
+[[Kategorija:Ungārijas dižciltīgie]]
+[[Kategorija:Nobela prēmijas laureāti fizioloģijā vai medicīnā]]

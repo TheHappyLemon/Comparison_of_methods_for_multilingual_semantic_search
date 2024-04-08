@@ -1,0 +1,75 @@
+{{Latvijas novada infokaste
+| nosaukums         = Daukstu pagasts
+| karte             = Daukstu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Gulbenes novads
+| centrs            = Stari
+| platība           = 164,86
+| iedzīvotāji       = 1119<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1119 / 164.86 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Daukstu pagasts''' ir viena no [[Gulbenes novads|Gulbenes novada]] administratīvajām teritorijām tā dienvidaustrumos. Robežojas ar sava novada [[Gulbene]]s pilsētu un [[Stradu pagasts|Stradu]], [[Līgo pagasts|Līgo]], [[Jaungulbenes pagasts|Jaungulbenes]], [[Galgauskas pagasts|Galgauskas]] pagastiem, [[Balvu novads|Balvu novada]] [[Rugāju pagasts|Rugāju pagastu]] un [[Madonas novads|Madonas novada]] [[Indrānu pagasts|Indrānu pagastu]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Audīle]], [[Krustalīce]], [[Liede]], [[Nidrīte]], [[Olene]], [[Pededze]].
+
+==== Ezeri ====
+[[Ušurs]] (uz robežas).
+
+== Vēsture ==
+1945. gadā [[Madonas apriņķis|Madonas apriņķa]] [[Jaungulbenes pagasts|Jaungulbenes pagastā]] izveidoja Daukstu [[ciema padome|ciema padomi]]. '''Daukstu ciems''' ietilpis [[Gulbenes apriņķis|Gulbenes apriņķī]] (1947-1949) un [[Cesvaines rajons|Cesvaines]] (1949-1956) un [[Gulbenes rajons|Gulbenes]] (pēc 1956. g.) rajonos. Daukstu ciemam 1965. gadā pievienoja [[Stradu ciems|Stradu ciema]] [[padomju saimniecība]]s «Stari» teritoriju, 1977. gadā — vēl daļu Stradu ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Daukstu pagastu kā administratīvo teritoriju iekļāva [[Gulbenes novads|Gulbenes novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3000
+|1959|2250
+|1965|1975
+|1979|1541
+|1989|1374
+|2000|1379
+|2011|1062
+|2021|931
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Stari]]''' (pagasta centrs), [[Briči]], [[Daukstes (Daukstu pagasts)|Daukstes]], [[Elstes (Daukstu pagasts)|Elstes]], [[Krapa]], [[Lejasandži]], [[Līves (Daukstu pagasts)|Līves]], [[Šļaukas]], [[Vienvārstes]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Gulbenes novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Gulbenes rajons}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Gulbenes novada pagasti]]
+[[Kategorija:Daukstu pagasts| ]]
+[[Kategorija:Jaungulbenes pagasts]]

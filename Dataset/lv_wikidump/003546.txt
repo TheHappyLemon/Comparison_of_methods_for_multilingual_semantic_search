@@ -1,0 +1,52 @@
+{{Pilsētas priekšpilsētas infokaste
+|nosaukums            = Centra rajons
+|karte                = [[Attēls:Riga Centra rajons karte.png|250px]]
+|paraksts             = 
+|pilseta              = [[Attēls:Flag of Riga.gif|24px|border]] [[Rīga]]
+|apkaimes             = [[Centrs (Rīga)|Centrs]]<br />[[Vecrīga|Vecpilsēta]]
+|platiba              = 3
+|iedzivotaju_skaits   = 25&nbsp;128 (2018)<ref name="pmlp2018">{{PMLPiedz|2018-1}}</ref>
+|iedzivotaju_blivums  = 7963
+|udenstilpnes         = [[Pilsētas kanāls]]
+|parki                = [[Vērmanes dārzs]]<br />[[Esplanāde (Rīga)|Esplanāde]]<br />[[Bastejkalns]]
+|latviesi             = 14&nbsp;155 (60,2%)<ref name="pmlp2012nac">{{pmlp2012nac}}</ref>
+|krievi               = {{spaces|3}}5430 (23,1%)
+|baltkrievi           = {{spaces|5}}362 (1,5%)
+|ukraini              = {{spaces|5}}446 (1,9%)
+|poli                 = {{spaces|5}}321 (1,4%)
+|ebreji               = {{spaces|5}}587 (2,5%)
+|parejie              = {{spaces|3}}2216 (9,4%)
+|majas_lapa           = 
+}}
+
+'''Centra rajons''' ir viens no sešiem [[Rīga|Rīgas pilsētas]] administratīvajiem rajoniem. Centra rajona platība ir 3 km<sup>2</sup>, bet iedzīvotāju skaits ({{dat|2018|7|1|N|bez}}) bija {{nobr|25 128}} (vismazākais Rīgā).<ref name="pmlp2018" />
+
+Centra rajona robežas ir [[Daugava]] ([[Vanšu tilts (Rīga)|Vanšu tilta]] trase), [[Krišjāņa Valdemāra iela (Rīga)|Krišjāņa Valdemāra iela]], [[Elizabetes iela (Rīga)|Elizabetes iela]], [[Brīvības iela (Rīga)|Brīvības iela]], [[Dzelzceļa līnija Rīga—Lugaži|dzelzceļš]] pie [[Zemitāni (stacija)|Zemitānu stacijas]], [[Aleksandra Čaka iela (Rīga)|Aleksandra Čaka iela]], [[Marijas iela (Rīga)|Marijas iela]], [[13. janvāra iela]], Daugava (iedomāta līnija pa upes vidu no [[Dzelzceļa tilts (Rīga)|Dzelzceļa tilta]] līdz [[Vanšu tilts (Rīga)|Vanšu tiltam]]).
+
+== Vēsture ==
+[[Attēls:Vecrīga un Centra apkaime Rīgas kartē 1876.jpg|thumb|260px|left|Vecrīga un Centra apkaime ar vāciskajiem vietvārdiem Rīgas kartē (1876).]]
+Centra rajonu no [[Centrs (Rīga)|Rīgas centra]] un [[Vidzemes priekšpilsēta]]s daļas izveidoja drīz pēc [[Latvijas okupācija (1940)|Latvijas okupācijas]] 1941. gada janvārī kā '''[[Kirovs|Kirova]] rajonu'''. 1947. gada 8. oktobrī no Kirova rajona atdalīja [[Molotovs|Molotova]] rajonu. 1962. gadā Kirova rajonam pievienoja daļu no [[Maskavas rajons (Rīga)|Maskavas rajona]].<ref>Encoklopēdija "Rīga". 1988. — 358 lpp.</ref><ref>[http://www.ngkm.lv/2_Kalendars/Oktobris.html Koka ēku renovācijas centra mājas lapa]</ref>
+
+== Apkaimes ==
+* [[Centrs (Rīga)|Centrs]]
+* [[Vecrīga|Vecpilsēta]] jeb Vecrīga
+
+== Skatīt arī ==
+* [[Rīga]]
+* [[Daudzstāvu dzīvojamie rajoni Rīgā]]
+* [[Rīgas Centra rajona ielu uzskaitījums]]
+* [[Valsts aizsargājamie kultūras pieminekļi Rīgas Centra rajonā]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.riga.lv/LV/Channels/Riga_Municipality/Executive_authority/ipasa_statusa_institucijas/centra_izpilddirekcija/default.htm Rīgas Centra rajona izpilddirekcija] {{Webarchive|url=https://web.archive.org/web/20090929032757/http://www.riga.lv/LV/Channels/Riga_Municipality/Executive_authority/ipasa_statusa_institucijas/centra_izpilddirekcija/default.htm |date={{dat|2009|09|29||bez}} }}
+* [http://www.citariga.lv/LV/index.php?page=303&id=2 Rīgas vēsturiskais centrs portālā "Cita Rīga"]
+
+
+{{Rīga-aizmetnis}}
+
+{{Rīgas pilsētas daļas}}
+
+[[Kategorija:Centra rajons| ]]

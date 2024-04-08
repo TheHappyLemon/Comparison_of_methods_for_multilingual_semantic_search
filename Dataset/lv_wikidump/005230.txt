@@ -1,0 +1,60 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 97
+|             7. čaula = 2
+|             6. čaula = 8
+|             5. čaula = 27
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Bk
+|             atommasa = [247]
+|   valences elektroni = [Rn]5f<sup>9</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Bk-TableImage.svg|250px]]
+|               attēls = [[Attēls:Berkelium metal.jpg|235px]]<br />Berklija metāls
+|  oksidēšanas pakāpes = '''+3''', +4
+|  elektronegativitāte = 1,3
+|              blīvums = alfa: 14 780 kg/m<sup>3</sup><br />bēta: 13 250
+|  kušanas temperatūra = 1259 K (986&nbsp;°C)
+| viršanas temperatūra = 2900 K (2627&nbsp;°C)
+}}
+
+'''Berklijs''' ir [[ķīmiskais elements]] ar simbolu '''Bk''' un [[atomskaitlis|atomskaitli]] 97. Tas pieder [[aktinīdi|aktinīdu]] un [[transurāna elementi|transurāna elementu]] saimēm. Kā visi transurāna elementi, arī berklijs ir [[radioaktivitāte|radioaktīvs]] [[metāli|metāls]]. Pirmo reizi berklijs iegūts 1949. gadā decembrī [[Kalifornijas Universitāte (Bērkli)|Kalifornijas Universitātē]], kas atrodas [[Bērkli]] pilsētā. No pilsētas nosaukuma radies elementa nosaukums. Šis ķīmiskais elements nav sastopams dabā, to iegūst tikai sintezējot.
+
+== Izotopi ==
+Sintēzes rezultātā ir iegūti 14 berklija [[izotops|izotopi]], kuru [[masas skaitlis]] ir no 238 līdz 251.<ref name="lanl"/> Stabilākā izotopa <sup>247</sup>Bk [[pussabrukšanas periods]] ir 1380 gadi.<ref name="jlab"/> Nozīmīgs berklija izotops ir arī <sup>249</sup>Bk. Tā pussabrukšanas periods ir 330 dienas.<ref name="jlab"/>
+
+== Atklāšana ==
+Berkliju atklāja 1949. gada decembrī [[Kalifornijas Universitāte (Bērkli)|Kalifornijas Universitātē]], kas atrodas [[Bērkli]] pilsētā. No pilsētas nosaukuma radies elementa nosaukums. Pirmie to izolēja un identificēja [[Glens T. Sīborgs]] (''Glenn T. Seaborg''), [[Alberts Giorso]](''Albert Ghiorso'') un [[Stenlijs Dž. Tompsons]] (''Stanley G. Thompson''). Berkliju ieguva, iedarbojoties uz [[amerīcijs|amerīciju]] ar augstas enerģijas [[alfa daļiņa|alfa daļiņām]].
+
+:<math>\mathrm{^{241}_{\ 95}Am\ +\ ^{4}_{2}He\ \longrightarrow \ ^{243}_{\ 97}Bk\ +\ 2\ ^{1}_{0}n}</math>
+
+Berlijs kļuva par piekto transurāna elementu, kas tika sintezēts. Pirms tam bija jau iegūti [[neptūnijs]], [[plutonijs]], [[amerīcijs]] un [[kirijs]].
+
+== Savienojumi ==
+Ir zināmi divi berklija [[ķīmiskais savienojums|ķīmiskie savienojumi]], kas veido [[oksīdi|oksīdu]]. Tie ir Bk<sub>2</sub>O<sub>3</sub> un BkO<sub>2</sub>. Ar oksidēšanās pakāpēm +3 un +4 berklijs veido arī [[halogenīdi|halogenīdus]]. Visstabilākie no tiem ir Bk[[fluors|F]]<sub>4</sub> un [[cēzijs|Cs]]<sub>2</sub>Bk[[hlors|Cl]]<sub>6</sub>. Berklija [[hlorīdi|hlorīds]] bija viens no pirmajiem redzamajiem savienojumiem. To ieguva 1962. gadā.<ref name="lenntech"/> Berklijs veido savienojumus arī ar [[slāpeklis|slāpekli]], [[fosfors|fosforu]], [[arsēns|arsenu]] un [[antimons|antimonu]].
+
+== Izmantošana ==
+Berklijam nav praktiska pielietojuma. To izmanto tikai zinātniskos pētījumos. Berklijs-249 bieži tiek izmantots, lai iegūtu vēl smagākus transurāna elementus, piemēram, [[lourensijs|lourensiju]], [[rezerfordijs|rezerfordiju]] un [[borijs|boriju]]. Tas ir nozīmīgs arī [[kalifornijs|kalifornija]] izotopa <sup>249</sup>Cf iegušanas avots.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/97.shtml | title= Berkelium | publisher= Los Alamos National Laboratory | accessdate= 2016. gada 24. septembrī | language= angliski}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso097.html | title= Isotopes of the Element Berkelium | publisher= Jefferson Lab | accessdate= 2016. gada 24. septembrī | language= angliski}}</ref>
+
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/bk.htm | title= Berkeliurm (Bk) | publisher= Lenntech | accessdate= 2016. gada 24. septembrī | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

@@ -1,0 +1,57 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Austrummidlenda
+| official_name = ''East Midlands''
+| image_skyline = Rutland Water at Normanton.jpg
+| imagesize =
+| image_caption = Ratlendas ūdenskrātuve pie Normentonas
+| settlement_type = reģions
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_seal             = {{#property:P158}}
+ |seal_size              = 100x80px
+| image_map = East Midlands in England.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{GBR}}
+| subdivision_type1 = Zeme
+| subdivision_name1 = {{ENG}}
+| established_title        = Dibināts
+| established_date         = 1994
+| total_type = Kopā
+| area_total_km2 = 15811
+| population_total = 4880094
+| population_as_of = 2021
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =53 | latm = 00 | lats =| latNS = N
+| longd = 0 | longm = 45 | longs =| longEW = W
+| seat_type = Padomes ofiss
+| seat = [[Meltonmobri]]
+| parts_type = Iedalījums
+| parts = 6 grāfistes 
+| p1 = [[Dārbišīra]]
+| p2 = [[Lesteršīra]]
+| p3 = [[Linkolnšīra]] (daļa)
+| p4 = [[Northemptonšīra]]
+| p5 = [[Notingemšīra]]
+| p6 = [[Ratlenda]]
+| timezone                 = GMT
+| utc_offset               = +0
+| timezone_DST             = 
+| utc_offset_DST           = 
+ <!-- | blank_name              = [[ISO 3166-2]]
+ | blank_info              = PH-AUR -->
+| website                  = {{URL|http://www.emcouncils.gov.uk/}}
+}}
+'''Austrummidlenda ''' ({{val|en|East Midlands}}) ir reģions [[Anglija]]s austrumos. Sevī ietver 10 nemetropoles grāfistes un [[Anglijas unitārās pašvaldības|unitārās pašvaldības]], kas ietilpst sešās [[Anglijas ceremoniālās grāfistes|ceremoniālajās grāfistēs]]. Reģiona padomes sēdeklis ir [[Meltonmobri]] [[Lesteršīra]]s grāfistē; padomi veido reģionā ietilpstošo pašvaldību pārstāvji. Lielākās pilsētas ir [[Notingema]], [[Lestera]], [[Linkolna (Anglija)|Linkolna]], [[Dārbi]] un [[Northemptona]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{UK-aizmetnis}}
+
+{{Anglijas reģioni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas reģioni]]

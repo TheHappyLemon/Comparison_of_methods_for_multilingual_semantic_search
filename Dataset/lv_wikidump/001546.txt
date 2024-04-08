@@ -1,0 +1,17 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Pentaerythritol.png|150 px]] <br />Pentaeritrīta struktūrformula
+|ķīmiskā formula=C(CH<sub>2</sub>OH)<sub>4</sub>
+|molmasa=136,15 
+|blīvums=1396 
+|kušanas temperatūra=262&nbsp;°C
+|viršanas temperatūra=276&nbsp;°C pie 30 mmHg spiediena
+}}
+'''Pentaeritrīts''' (C(CH<sub>2</sub>OH)<sub>4</sub>) ir četrvērtīgs [[spirti|spirts]], kuru lieto par polimēru izejvielu (galvenokārt krāsām). Esterificējot ar slāpekļskābi, var iegūt [[tetranitropentaeritrīts|tetranitropentaeritrītu]], kas ir sprāgstviela. Pentaeritrītu var iegūt reakcijā starp [[acetaldehīds|acetaldehīdu]] un [[formaldehīds|formaldehīdu]] bāziskā vidē.
+
+: CH<sub>3</sub>CHO + 4 CH<sub>2</sub>O + 1/2 Ca(OH)<sub>2</sub> → C(CH<sub>2</sub>OH)<sub>4</sub> + 1/2 (HCOO)<sub>2</sub>Ca
+
+
+{{Org-stub}}
+{{Spirti}}
+
+[[Kategorija:Spirti]]

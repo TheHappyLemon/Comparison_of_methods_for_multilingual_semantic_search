@@ -1,0 +1,49 @@
+{{BioTakso infokaste
+| attēls =(MHNT) Berberis aquifolium inflorecences and buds.jpg
+| att_nosaukums={{TaksoSaite|Berberis vulgaris|Parastā bārbele}}
+| valsts =Plantae
+| valsts_lv =Augi
+| nodalījums =Magnoliophyta
+| nodalījums_lv =Segsēkļi
+| klase =Magnoliopsida
+| klase_lv =Divdīgļlapji
+| rinda =Ranunculales
+| rinda_lv =Gundegu rinda
+| dzimta =Berberidaceae
+| dzimta_lv =Bārbeļu dzimta
+| iedalījums=
+* {{TaksoSaite|Berberidoideae}}
+* {{TaksoSaite|Nandinoideae}}
+| kategorijas =nē
+}}
+
+'''Bārbeļu dzimta''' (''Berberidaceae'') ir [[divdīgļlapji|divdīgļlapju]] [[augi|augu]] dzimta, izplatīta galvenokārt [[ziemeļu puslode|ziemeļu puslodē]]. [[Krūmi]] un [[lakstaugi]] ar spirāliski sakārtotām [[lapas|lapām]]. [[Zieds|Ziedi]] vientuļi vai ķekaros, divdzimumu, ar ciklisku zieda daļu sakārtojumu. [[Auglis]] — [[oga]] (retāk [[pogaļa]] vai [[riekstiņš (auglis)|riekstiņš]]). Augi satur dzimtai raksturīgu [[alkaloīdi|alkaloīdu]] — [[berberīns|berberīnu]]. Bārbeļu dzimtas augiem sastopamas [[viendīgļlapji|viendīgļlapju]] pazīmes — trimērs zieds, izklaidus izvietoti vadaudu kūlīši, reizēm viena [[dīgļlapa]]. [[Krāšņumaugi]], [[nektāraugi]] un [[ārstniecības augi]]. Augļus izmanto [[pārtika|pārtikā]]. Lielākā ģints — {{TaksoSaite|Berberis|bārbeles}} ar apmēram 400—600 sugām izplatīta [[Āzija|Āzijā]] un [[Amerika|Amerikā]]. [[Eiropa|Eiropā]] vienīgā savvaļas suga ir {{TaksoSaite|Berberis vulgaris|parastā bārbele}}, ar [[C vitamīns|C vitamīnu]] bagātām, ēdamām ogām. Tā bieži sastopama arī [[Latvija|Latvijā]]. Kā krāšņumaugi Latvijā ir introducēti {{TaksoSaite|Berberis thunbergii|Tunberga bārbele}}, {{TaksoSaite|Mahonia aquifolium|spožlapu mahonija}} u.c.
+
+== Sistemātika ==
+Bārbeļu dzimtā dažādi autoriem min no 4 līdz 18 ģintīm ar apmēram 570—700 sugām. Bārbeļu dzimta tiek dalīta divās apakšdzimtās.
+
+{{TaksoSaite|Berberidaceae|Bārbeļu dzimta}}
+* apakšdzimta {{TaksoSaite|Berberidoideae}}
+** ģints {{TaksoSaite|Achlys}}
+** {{TaksoSaite|Berberis|Bārbeles}}
+** ģints {{TaksoSaite|Bongardia}}
+** ģints {{TaksoSaite|Caulophyllum}}
+** ģints {{TaksoSaite|Diphylleia}}
+** ģints {{TaksoSaite|Dysosma}}
+** ģints {{TaksoSaite|Epimedium}}
+** ģints {{TaksoSaite|Gymnospermium}}
+** ģints {{TaksoSaite|Jeffersonia}}
+** ģints {{TaksoSaite|Leontice}}
+** {{TaksoSaite|Mahonia|Mahonijas}}
+** ģints {{TaksoSaite|Podophyllum}}
+** ģints {{TaksoSaite|Ranzania}}
+** ģints {{TaksoSaite|Vancouveria}}
+* apakšdzimta {{TaksoSaite|Nandinoideae}}
+** ģints {{TaksoSaite|Nandina}}
+
+== Ārējās saites ==
+{{Commons category|Berberidaceae}}
+* [https://web.archive.org/web/20071026175046/http://www.latvijasdaba.lv/2/view_1_descr.asp?id=33 Bārbeļu dzimta]
+* [http://latvijas.daba.lv/augi_senes/ziedaugi/baarbeles/ Bārbeļu dzimta]
+
+[[Kategorija:Bārbeļu dzimta| ]]

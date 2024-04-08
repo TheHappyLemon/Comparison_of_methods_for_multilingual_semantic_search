@@ -1,0 +1,332 @@
+{{notiek kosmolidojums}}
+{{Kosmiskā aparāta infokaste
+| Nosaukums              = Starptautiskā kosmosa stacija (SKS)
+| Nosaukums_orig         = 
+| Attēls                 = STS-133 International Space Station after undocking.jpg
+| Attēla_izmērs          = 300px
+| Att_virsraksts         = SKS pēc [[Discovery (kosmoplāns)|Discovery]] ([[STS-133]]) atvienošanās {{dat|2011|3|11||bez}}
+| Programma              = 
+| KA_veids               = [[orbitālā stacija]]
+| Bāzes platforma        = 
+| KA sērijas Nr          = 
+| Īpašnieks              = [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] {{USA}}<br /> [[Roskosmos]] {{RUS}}<br /> [[Eiropas Kosmosa aģentūra|ESA]] {{flaga|Eiropa}} [[Eiropa]] <br />[[JAXA]] {{JPN}}<br />[[Kanādas kosmosa aģentūra|CSA]] {{CAN}}
+| Lielākie_izgatavotāji  = 
+| Starta_gads            = 1998
+| Starts                 = 1998. (pirmais modulis)
+| Nesējs                 = 
+| Starta_vieta           = 
+| Starta_laukums         = 
+| Darbības_beigu_gads    = 
+| Darbības_beigu_datums  = 
+| Darbības_ilgums        = 
+| Beigu_gads             = 
+| Beigu_datums           = 
+| Lidojuma_ilgums      
+| NSSDC_ID               = 1998-067A
+| Tīmekļa_vietne         = 
+| Masa                   = 420 t 
+| Sausmasa               = 
+| Pilna_masa             = 
+| Zinātnisko_instr_masa  = 
+| Enerģija               = 
+| Raidītāji              = 
+| Pārlidojums            = 
+| Pārlidojuma_datums     = 
+| Orbītas_elementi       = jā
+| Centr_ķermenis         = 
+| Centr_ķermenis_parādīt = 
+| Orbītas_veids          = 
+| GEO_punkts             = 
+| Lielā_pusass           = 
+| Ekscentricitāte        = 
+| Inklinācija            = 51,6°
+| Periods                = 91 min
+| Apoapsīda              = ~ 350 km
+| Periapsīda             = ~ 350 km
+| Apriņķojumi            = 
+| Orbītā_ieiešanas_dat   = 
+| KA_iepr                = 
+| KA_nāk                 = 
+}}
+'''Starptautiskā kosmosa stacija''' ('''SKS''') ({{val|en|International Space Station (ISS)}}) ir [[Orbitālā stacija|orbitālās stacijas]] starptautisks projekts, kurā piedalās piecas kosmiskās aģentūras no [[Amerikas Savienotās Valstis|ASV]] (''[[Nacionālā aeronautikas un kosmosa administrācija|NASA]]''), [[Kanāda]]s (''[[Kanādas kosmosa aģentūra|CSA]]''), [[Krievija]]s (''[[Roskosmos]]''), [[Eiropa]]s ([[Eiropas Kosmosa aģentūra|ESA]]) un [[Japāna]]s (''[[JAXA]]'').
+
+SKS atrodas [[zemā Zemes orbīta|zemā Zemes orbītā]] aptuveni 400 km augstumā virs jūras līmeņa ar orbītas slīpumu pret ekvatoru ~ 51,6°, apriņķojot planētu apmēram 92 minūtēs. Stacija pastāvīgi zaudē augstumu [[termosfēra|termosfērā]] esošo retināto daļiņu berzes dēļ, tādēļ periodiski jāiedarbina pašas stacijas vai tai pievienoto kosmosa kuģu [[Raķešdzinējs|raķešdzinēji]], lai paaugstinātu orbītu.
+
+Stacijas pirmais elements orbītā tika palaists 1998. gadā.
+Pirmā pastāvīgā apkalpe stacijā ieradās {{dat|2000|11|2||bez}}. Pašlaik SKS ilglaicīgi var uzturēties sešu cilvēku apkalpes. Sākotnēji apkalpe bija trīs cilvēku sastāvā, bet sakarā ar ASV kosmoplāna [[Columbia (kosmoplāns)|Columbia]] katastrofu no 2003. līdz 2006. gadam apkalpes bija samazinātas līdz diviem cilvēkiem. No 2009. gada pastāvīgās apkalpes lielums ir palielināts līdz 6 cilvēkiem. Īslaicīgās ekspedīcijās staciju apmeklē pilotējamie [[Kosmosa kuģis|kosmosa kuģi]] [[Sojuz-TMA]] un [[Space Shuttle]] (līdz 2011. gadam).
+
+Lai apgādātu staciju ar degvielu, skābekli, ūdeni, pārtiku, dažādiem materiāliem, iekārtām un citām lietām, krievu puse izmanto [[transportkuģis|transportkuģi]] [[Progress (kosmosa kuģu sērija)|Progress]], bet amerikāņu puse — ''Space Shuttle'' (līdz 2011. gadam). Pirmais [[Eiropas Kosmosa aģentūra|Eiropas]] gatavotais bezpilota transportkuģis [[Automated Transfer Vehicle|ATV]] [[Jules Verne ATV|Jules Verne]] SKS apgādei tika palaists 2008. gadā. [[Japāna]] sava kuģa [[H-II Transfer Vehicle]] pirmo eksemplāru [[HTV-1]] palaida 2009. gadā. 2012. gadā notika pirmais privāti būvēta transportkuģa [[Dragon (kosmosa kuģis)|Dragon]] apgādes lidojums uz staciju; ar to iespējams nogādāt kravu arī atpakaļ uz zemi.
+
+== Uzbūve ==
+Starptautiskās kosmosa stacijas "mugurkauls" ir [[Integrētā kopnes struktūra]], pie kuras piemontētas saules baterijas, radiatori, stacijas moduļi un citas konstrukcijas. Kopnes vienā pusē atrodas ASV segments (tajā ietilpst arī Eiropas un Japānas moduļi), bet otrā pusē — Krievijas segments. ASV segmenta moduļi, kopnes konstrukcijas elementi un citas iekārtas uz SKS tika nogādātas ar Space Shuttle kosmoplāniem. Krievijas segmenta moduļus (izņemot [[Rassvet (SKS)|Rassvet]]) orbītā nogādāja ar krievu raķetēm, tie bija apgādāti ar dzinējiem un vadības sistēmu, kas ļāva tiem stacijai tuvoties un pieslēgties automātiskā režīmā.
+
+Pēc gandrīz katra elementa uzstādīšanas kosmonautiem bija nepieciešams veikt [[iziešana kosmosā|iziešanas kosmosā]]. Līdz 2009. gada 27. novembrim tika veiktas 136 iziešanas kosmosā ar kopējo ilgumu 849 stundas.
+
+=== Montāžas gaita ===
+Pirmais modulis [[Zarja (SKS)|Zarja]] tika palaists {{dat|1998|11|20||bez}} ar nesējraķeti [[Proton-K]]. Pēc nedēļas startēja ''Space Shuttle'' misija [[STS-88]], kuras laikā pie ''Zarja'' tika pievienots mezgla modulis [[Unity (SKS)|Unity]]. Tā kā nākamais Krievijas modulis netika laikus sagatavots, stacija palika neapdzīvota pusotru gadu. 
+2000. gada jūlijā tika palaists modulis [[Zvezda (SKS)|Zvezda]], kas ļāva stacijā nepārtraukti uzturēties trīs cilvēku apkalpei. 2000. gada decembrī ar kosmosa kuģi [[Sojuz TM-31]] ar [[SKS 1. ekspedīcija|pirmo pastāvīgo ekspedīciju]].
+
+Nākamo divu gadu laikā ''Space Shuttle'' stacijā nogādāja Integrētās kopnes elementus, [[Destiny (SKS)|Destiny]] laboratoriju, [[Quest (SKS)|Quest]] slūžu kameru, manipulatoru [[Canadarm2]] un citus elementus. Ar [[Sojuz-U]] raķeti startēja [[Pirs (SKS)|Pirs]] slūžu kamera.
+
+Stacijas montāža tika pārtraukta 2003. gadā, kad katastrofā gāja bojā kosmoplāns ''Columbia'' ([[STS-107]]) ar visu tā apkalpi. Tikai 2005. gadā ar ''Discovery'' ([[STS-114]]) startu atsākās lidojumi uz SKS. 2006. un 2007. gadā četros lidojumos tika samontēta liela daļa no Integrētās kopnes un saules baterijām. Rezultātā stacijas energoapgāde bija paplašināta, un bija iespējams pievienot jaunus hermētiskos moduļus. 2007. gadā SKS tika nogādāts otrais mezgla modulis [[Harmony (SKS)|Harmony]]. 2008. gadā startēja Eiropas laboratorija [[Columbus (SKS)|Columbus]]. 2008. un 2009. gadā trīs lidojumos tika nogādātas Japānas [[Kibo (SKS)|Kibo]] moduļa sastāvdaļas. 2009. gadā tika pabeigta Integrētās kopnes montāža; Krievija ar nesējraķeti ''Sojuz-U'' stacijā nogādāja moduli [[Poisk (SKS)|Poisk]].
+
+2010. gadā misijā [[STS-130]] uz SKS tika nogādāts trešais mezgla modulis [[Tranquility (SKS)|Tranquility]], kā arī [[Cupola (SKS)|Cupola]]. Vienīgais Krievijas segmenta modulis, kuru uz staciju neveda ar Krievijas raķeti, bija [[Rassvet (SKS)|Rassvet]], kuru pacēla ''Space Shuttle'' misijā [[STS-132]]. Ar [[STS-133]] stacijā tika nogādāts [[Permanent Multipurpose Module]] (''Leonardo'' kravas modulis). 2011. gadā notika pēdējie trīs ASV kosmoplānu lidojumi, kuros uz staciju nogādāja zinātnisko instrumentu [[Alpha Magnetic Spectrometer]], kā arī dažādas rezerves daļas un krājumus, un pēc tam ''Space Shuttle'' programma tika izbeigta.
+
+=== Hermētiskie moduļi ===
+SKS sastāv no sešpadsmit hermētiskiem moduļiem ar kopējo tilpumu aptuveni 932 m³. Šie moduļi ietver laboratorijas, slūžu kameras, mezglus, saslēgšanās nodalījumus, dzīvojamās un citas telpas.
+
+{| class="wikitable" border="1" style="width:auto; margin:auto;"
+|- style="background:#efefef;"
+! Modulis
+! Montāžas misija
+! Starta datums
+! Nesējs
+! width="100" | Valsts
+! width="82" | Izolēts skats
+! width="0" |
+|-
+| rowspan="2" | ''[[Zarja (SKS)|Zarja]]''<br /><small>(FGB)</small>
+| 1A/R
+| {{dat|1998|11|20|N|bez}}
+| [[Proton-K]]
+| Krievija <small>(izgatavotājs)</small><br />ASV <small>(finansētājs)</small>
+| rowspan="2" | [[Attēls:Zarya from STS-88.jpg|80px|alt=Modulis sākotnēji lidoja kosmosā viens. Modulis ir cilindriskas formas ar konusveida vienu galu un sfērisku saslēgšanās nodalījumu otrā galā. Divi zili saules bateriju paneļi izvērsti moduļa sānos.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Pirmais palaistais SKS komponents. ''Zarja'' sākotnējā montāžas posmā nodrošināja elektroenerģiju, mantu uzglabāšanu, stacijas kontroli un stabilizāciju. Pašlaik modulis kalpo galvenokārt kā uzglabāšanas vieta gan iekšpusē hermētiskajā sekcijā, gan ārpusē piemontētajās degvielas tvertnēs.
+|-
+| rowspan="2" | [[Unity (SKS)|''Unity'']]<br /> <small>(Node 1)</small>
+| 2A
+| {{dat|1998|12|4|N|bez}}
+| ''Space Shuttle'', [[STS-88]]
+| ASV
+| rowspan="2" | [[Attēls:ISS Unity module.jpg|80px|alt=A module floats against the blackness of space. The module is a metallic cylinder, with two large, white circles visible on it. A black cone is visible at either end of the module.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Pirmais amerikāņu sekcijas modulis; pievienots pie krievu sekcijas ar [[Pressurized Mating Adapter|PMA]]-1. Nodrošināja pievienošanas vietas Z1 fermas sekcijai, ''Quest'' slūžu kamerai, ''Destiny'' laboratorijai un ''Tranquility'' mezglam.
+|-
+| rowspan="2" | [[Zvezda (SKS)|''Zvezda'']] <br /><small>(Servisa modulis) </small>
+| 1R
+| {{dat|2000|7|12|N|bez}}
+| Proton-K
+| Krievija
+| rowspan="2" | [[Attēls:ISS Zvezda module-small.jpg|80px|alt=A module consisting of a stepped-cylinder main compartment with a spherical docking compartment at one end. Two blue solar arrays project from the module, with Earth and space in the background.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Stacijas sevisa modulis, kas nodrošina dzīvojamās vietas pamatapkalpei, dzīvības nodrošināšanas sistēmas, kā arī stāvokļa un orbītas kontroles sistēmas. Tam ir pieslēgvietas ''Sojuz'' kosmosa kuģiem, kā arī ''Progress'' un ''ATV'' transportkuģiem.
+|-
+| rowspan="2" | [[Destiny (SKS)|''Destiny'']]<br /> <small>(ASV laboratorija)</small>
+| 5A
+| {{dat|2001|2|7|N|bez}}
+| ''Space Shuttle'', [[STS-98]]
+| ASV
+| rowspan="2" | [[Attēls:ISS Destiny Lab.jpg|80px|alt=A module consisting of a long, metallic cylinder, floats against the blackness of space suspended by the ISS robotic arm. The module has a highly flattened cone at each end, and pieces of ISS and space shuttle hardware are visible to the right of the image.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Primārā ASV pētniecības vieta. Modulī ir 24 skapju sekcijas [[International Standard Payload Rack]], daļā no kurām ir izvietotas dzīvības nodrošināšanas sistēmas, apkalpes dzīvošanas aprīkojums. Pie ''Destiny'' ir pievienota [[Integrētā kopnes struktūra]].
+|-
+| rowspan="2" | [[Quest (SKS)|''Quest'']]<br /> <small>(Kopējā slūžu kamera)</small>
+| 7A
+| {{dat|2001|7|12|N|bez}}
+| ''Space Shuttle'' ''Atlantis'', [[STS-104]]
+| ASV
+| rowspan="2" | [[Attēls:ISS Quest airlock.jpg|80px|alt=A module suspended in space by the ISS robotic arm. In view are the module's two compartments, the short, wide equipment lock to the left of the image, and the long, narrow crew lock to the left. The Earth and blackness of space are visible in the background, with the blurred corner of another module visible in the foreground, at top-right.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | SKS primārā slūžu kamera. Sākotnēji paredzēts iziešanai kosmosā gan ASV gan Krievijas skafandros, bet Krievijas iekārtas tajā nav izvietotas. ''Quest'' sastāv no diviem segmentiem: ekipējuma nodalījuma, kur uzglabā skafandrus un ekipējumu, un apkalpes nodalījuma, no kura kosmonauti iziet kosmosā.
+|-
+| rowspan="2" | [[Pirs (SKS)|''Pirs'']]<br /> <small>(Slūžu kamera)</small>
+| 4R
+| {{dat|2001|9|14|N|bez}}
+| [[Sojuz-U]], [[Progress M-SO1]]
+| Krievija
+| rowspan="2" | [[Attēls:Pirs docking module taken by STS-108.jpg|80px|alt=A small, cylindrical module, covered in white insulation with docking equipment at one end. In the background are some other modules and some blue solar arrays.]]
+| rowspan="2" |
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | ''Pirs'' bija Krievijas segmenta slūžu kamera. Tas nodrošināja papildu saslēgšanās mezglu ''Soyuz'' un ''Progress'' kosmosa kuģiem. 2021. gadā tas tika atvienots no stacijas un novadīts no orbītas.
+|-
+| rowspan="2" | [[Harmony (SKS)|''Harmony'']]<br /> <small>(Node 2)</small>
+| 10A
+| {{dat|2007|10|23|N|bez}}
+| ''Space Shuttle'', [[STS-120]]
+| Eiropa <small>(izgatavotājs)</small><br />ASV <small>(operators)</small>
+| rowspan="2" | [[Attēls:Harmony Relocation.jpg|80px|alt=A module shown with Earth in the background. The module, a metallic cylinder, is pictured at the end of the ISS robotic arm, with the blackness of space and some other ISS components visible at the bottom of the image. A black cone is attached to one end of the module, and a large white circle is also visible.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Stacijas otrais mezgla modulis.
+|-
+| rowspan="2" | ''[[Columbus (SKS)|Columbus]]''<br /> <small>(Eiropas laboratorija)</small>
+| 1E
+| {{dat|2008|2|7|N|bez}}
+| ''Space Shuttle'' ''Atlantis'', [[STS-122]]
+| Eiropa
+| rowspan="2" | [[Attēls:S122e007873.jpg|80px|alt=A module seen through a space shuttle window. The module is a metallic cylinder with flattened cones at each end, with a large white circle visible on the end facing the camera. In the background is the wing of a space shuttle, some other ISS hardware and the blackness of space.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Eiropas primārā pētnieciskā vieta SKS. ''Columbus'' ievietota ''European Drawer Rack'' laboratoriju iekārta, kā arī iekārtas bioloģijas, biomedicīnas un šķidrumu fizikas eksperimentiem. Moduļa ārpusē ir paredzētas vietas, kur izvietot kosmosā eksponējamas iekārtas. 
+|-
+| rowspan="2" | ''[[Kibo (SKS)|Kibo]]'' Eksperimentu loģistikas modulis <br /><small>(Japānas moduļa sekcija ''JEM–ELM'')</small>
+| 1J/A
+| {{dat|2008|3|11|N|bez}}
+| ''Space Shuttle'' ''Endeavour'', [[STS-123]]
+| Japāna
+| rowspan="2" | [[Attēls:Kibo ELM-PS on ISS.jpg|80px|alt=A module consisting of a short, metallic cylinder with a flattened cone at one end. A number of gold-coloured handrails are visible on the module, along with other pieces of ISS hardware in the background.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | ''JEM–ELM'' nodrošina mantu transportēšanu un uzglabāšanu Japānas laboratorijai.
+|-
+| rowspan="2" | ''[[Kibo (SKS)|Kibo]]'' Hermētiskais modulis <br /><small>(Japānas modulis ''JEM–PM'')</small>
+| 1J
+| {{dat|2008|5|31|N|bez}}
+| ''Space Shuttle'' ''Discovery'', [[STS-124]]
+| Japāna
+| rowspan="2" | [[Attēls:STS-124 Kibo.jpg|80px|alt=A module consisting of a long, metallic cylinder. The module has a robotic arm attached to the end of the cylinder facing the camera, along with an airlock and several covered windows. On the right-hand side of the module is a Japanese flag. A space shuttle and other ISS hardware is visible in the background, with the blackness of space as the backdrop.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | ''JEM–PM'' ir Japānas laboratorijas pamatmodulis. Tajā ir 23 skapju sekcijas, no tām 10 eksperimentiem. Modulim ir iespējams pievienot ārējo platformu EF, kura apkalpošanai izmanto manipulatoru ''JEM–RMS''.
+|-
+| rowspan="2" | [[Poisk (SKS)|''Poisk'']]<br /><small>(MIM-2)</small>
+| 5R
+| {{dat|2009|11|20|N|bez}}
+| [[Sojuz-U]], [[Progress M-MIM2]]
+| Krievija
+| rowspan="2" | [[Attēls:Poisk.Jpeg|80px|alt=A squat cylindrical module, covered in white insulation, with a small porthole and the Russian word for "search" visible. Attached to the module is another cylindrical module, covered in brown insulation. A folded solar array and a third module, covered in white insulation, is visible at the top of the image.]]
+| rowspan="2" | 
+|-
+| colspan="4" | Vieta, kur pieslēgties kosmosa kuģiem ''Sojuz'' un ''Progress''; kalpo arī kā slūžu kamera un vieta, kur izvietot zinātniskos eksperimentus.
+|-
+| rowspan="2" | [[Tranquility (SKS)|''Tranquility'']]<br /><small>(''Node 3'')</small>
+| 20A
+| {{dat|2010|2|8|N|bez}}
+| ''Space Shuttle'' ''Endeavour'', [[STS-130]]
+| Eiropa <small>(izgatavotājs)</small><br />ASV <small>(operators)</small>
+| rowspan="2" | [[Attēls:Tranquility-node3.JPG|80px|alt=A module shown against a backdrop of the Earth, held by a white robotic arm. The module is a large metallic cylinder, with a white circle visible on the side facing the camera. A short, conical module covered in white insulation is visible at one end of it.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Trešajā stacijas ASV mezglā ''Tranquility'' izvietota notekūdeņu pārstrādes un skābekļa ražošanas iekārta. Modulim ir četri saslēgšanās mezgli.
+|-
+| rowspan="2" | [[Cupola (SKS)|''Cupola'']]<br /><small>(Kupols)</small>
+| 20A
+| {{dat|2010|2|8|N|bez}}
+| ''Space Shuttle'' ''Endeavour'', [[STS-130]]
+| Eiropa <small>(izgatavotājs)</small><br />ASV <small>(operators)</small>
+| rowspan="2" | [[Attēls:STS-130 Nicholas Patrick looks through Cupola.jpg|80px|alt=A small, squat module with three of seven windows visible, seen against the backdrop of space. Open shutters are visible next to each window, and an astronaut can be seen inside the module through the windows.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | Kupols ar lieliem logiem, no kura apkalpe var novērot Zemi, kā arī apskatīt stacijas ārpusi. Modulis apgādāts ar stacijas manipulatora vadības darba vietu. Logi apgādāti ar mikrometeorītu aizsargaizvariem.
+|-
+| rowspan="2" | [[Rassvet (SKS)|''Rassvet'']]<br /><small>(MIM-1)</small>
+| ULF4
+| {{dat|2010|5|14|N|bez}}
+| ''Space Shuttle'' ''Atlantis'', [[STS-132]]
+| Krievija
+| rowspan="2" | [[Attēls:Iss023e047527.jpg|80px|alt=Rassvet installed on the nadir docking compartment of Zarya.]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" |  Vieta, kur pieslēgties kosmosa kuģiem ''Sojuz'' un ''Progress'', mantu uzglabāšanas telpa; var kalpot arī kā slūžu kamera.
+|-
+| rowspan="2" | [[Permanent Multipurpose Module|''Leonardo'']]<br /><small>(''Permanent Multipurpose Module'')</small>
+| ULF5
+| {{dat|2011|2|24||bez}}
+| ''Space Shuttle'' ''Discovery'', [[STS-133]]
+| Itālija <small>(izgatavotājs)</small><br />ASV <small>(operators)</small>
+| rowspan="2" | [[Attēls:Leonardo PMM module.jpg|80px]]
+| rowspan="2" | 
+|- style="border-bottom: 3px solid gray"
+| colspan="4" | ''Leonardo'' Pastāvīgais daudzuzdevumu modulis kalpo par rezerves daļu un krājumu noliktavu, atbrīvojot vietas citos moduļos. PMM tika izveidots, pārveidojot periodiski uz staciju nogādājamā ''Leonardo'' [[Daudzuzdevumu loģistikas modulis|Daudzuzdevumu loģistikas moduli]] tādā, kurš varētu palikt stacijā pastāvīgi.
+|-
+| rowspan="2" | [[Nauka (SKS)|''Nauka'']]<br /><small>(''Многофункциональный лабораторный модуль, усовершенствованный'', MLM-U)</small>
+| 3R
+| 2021. gada jūlijs
+| [[Proton-M]]
+| Krievija
+| rowspan="2" | [[Attēls:MLM - ISS module.jpg|80px|alt=A computer-generated image of a module. The module is a stepped cylinder covered in white insulation, with a spherical compartment and airlock at one end. Two blue solar arrays project from the module, as does a robotic arm. Several other pieces of ISS hardware, faded to highlight the module, are visible in the background.]]
+| rowspan="2" | 
+|-
+| colspan="4" | Krievijas primārais pētnieciskais modulis, vienlaikus pildot arī saimniecības, orientācijas un transporta kuģu pieslēguma vietas funkcijas. Modulī ir vieta 3 tonnām zinātniskā aprīkojuma, kā arī uz tā ir uzmontēts Eiropas KA manipulators ''ERA''.<ref>{{tīmekļa atsauce |url=http://www.khrunichev.ru/main.php?id=55 |title=Многофункциональный лабораторный модуль (МЛМ) на базе ФГБ |publisher=ФГУП «Государственный космический научно-производственный центр имени М.В.Хруничева» |accessdate=2017-06-29 |language=ru |archive-date=2017-06-08 |archive-url=https://web.archive.org/web/20170608190610/http://www.khrunichev.ru/main.php?id=55 }}</ref>
+|}
+
+==== Atceltie komponenti ====
+Vairāki komponenti bija sākotnēji plānoti stacijas konfigurācijā, bet vēlāk atcelti finanšu ierobežojuma dēļ, tādēļ, ka tie vairs nebija vajadzīgi vai pēc stacijas pārkonfigurēšanas pēc [[Kosmoplāna Columbia katastrofa|''Columbia'' katastrofas]]. Atceltie komponenti bija:
+* ASV ''Centrifuge Accommodations Module'' — [[centrifūga]]s modulis eksperimentiem [[mākslīgā gravitācija|mākslīgā gravitācijā]].
+* ASV ''Habitation Module'' — dzīvojamais modulis, kas būtu stacijas apkalpes galvenā dzīvojamā telpa ar guļvietām, tualeti, dušu un citām iekārtām.
+* ASV [[Crew Return Vehicle]] — apkalpes atgriešanās lidaparāts, kas kalpotu kā apkalpes "[[glābšanas laiva]]".
+* ASV ''Interim Control Module'' ("Pagaidu kontroles modulis") un ''Propulsion Module'' ("Dzinēja modulis") bija paredzēti gadījumam, ja modulis ''Zvezda'' tiktu zaudēts.
+* Krievijas Universālais saslēgšanās modulis (''Универсальный стыковочный модуль'') — vieta, kur pievienot vairākus pētnieciskos moduļus.
+* Krievijas Zinātniski enerģētiskā platforma (''Научно-энергетическая платформа'') — saules bateriju modulis, lai nodrošinātu Krievijas segmenta enerģētisko neatkarību.
+* Divi Krievijas pētnieciskie moduļi zinātnisko eksperimentu veikšanai.
+
+=== Nehermētiskie elementi ===
+Bez hermētiskajiem moduļiem SKS satur arī lielu daudzumu ārējo komponentu. Lielākais elements ir [[Integrētā kopnes struktūra]] (ITS) 108,5 m garumā, pie kura ir piemontētas saules baterijas un dzesēšanas sistēmas radiatori. ITS orbītā nogādāja pa atsevišķiem segmentiem.
+
+[[Alpha Magnetic Spectrometer]] ("Alfa magnētiskais spektrometrs", AMS) ir daļiņu fizikas eksperimentu iekārta, kas tika uzstādīta pie ITS 2011. gadā misijas [[STS-134]] laikā. AMS mēra [[kosmiskie stari|kosmiskos starus]], kā arī meklē pierādījumus [[tumšā matērija|tumšajai matērijai]] un [[antimatērija]]i.
+
+ITS kalpo par bāzi stacijas attālinātajai manipulatora sistēmai ''Mobile Servicing System'' (MSS). Tā sastāv no mobilās platformas ''Mobile Base System'' (MBS), manipulatoriem [[Canadarm2]] un [[Special Purpose Dexterous Manipulator]]. MBS var pārvietoties pa ITS sliedītēm, kas ļauj sasniegt jebkuru ASV segmenta daļu. Manipulatora sniegšanas attālumu var paplašināt ar [[Orbiter Boom Sensor System]], kuru stacijā atstās pēc misijas [[STS-135]].
+
+Japānas ''Kibō'' moduļa manipulatoru nogādāja misijas [[STS-124]] laikā. Tas ir pievienots pie hermētiskā moduļa JEM PM un izmanto, lai apkalpotu atklāto platformu JEM EF. Eiropas manipulatoru [[European Robotic Arm]] plāno palaist kopā ar Krievijas moduli ''Nauka''. Stacijā ir arī divi Krievijas [[Strela (SKS celtnis)|Strela]] celtņi, kurus var vadīt tikai no ārpuses, lai pārvietotu kosmonautus un kravas kosmisko iziešanu laikā.
+
+Stacijas ārpusē ir izvietotas dažādas platformas rezerves daļu un citu kravu izvietošanai. Trīs [[External Stowage Platform]] (ESP) tika palaistas ar [[STS-102]], [[STS-114]] un [[STS-118]] un uz tām atrodas rezerves daļas stacijas elementu nomaiņai sabojāšanās gadījumā. Četri [[ExPRESS Logistics Carrier]] (ELC) paredzēti eksperimentu iekārtu izvietošanai atklātā kosmosā. Divi no tiem tika nogādāti ar [[STS-129]], un vēl divus palaida ar [[STS-133]] un [[STS-134]].
+
+=== Elektroapgāde ===
+Elektrību stacijai nodrošina [[saules baterija]]s. ASV segmentā ir četru pāru spārni, kuri atrodas uz [[Integrētā kopnes struktūra|Integrētās kopnes struktūras]]. Katrs spārns spēj ražot līdz 32,6 [[vats|kW]] 160 [[volts|V]] [[līdzstrāva]]s. Lietotāju tīklā spriegums tiek pārveidots uz 124 V.
+
+Krievu segmentā tiek izmantots 28 V līdzstrāvas spriegums, tāpat kā vairumā lidmašīnu. Elektroenerģiju daļēji nodrošina četri saules bateriju paneļi, kas piemontēti pie ''Zarja'' un ''Zvezda'' moduļa. Sākotnēji krievu pusei bija paredzēts izgatavot [[Zinātniski enerģētiskā platforma|Zinātniski enerģētisko platformu]] ar astoņiem saules bateriju paneļiem, bet tas tika atcelts. Tagad trūkstošo enerģiju piegādā no ASV segmenta caur sprieguma pārveidotāju.
+
+SKS tiek izmantoti uzlādējami [[niķeļa-ūdeņraža akumulators|niķeļa-ūdeņraža akumulatori]], lai nodrošinātu nepārtrauktu elektroenerģiju tajās 35 minūtēs, kad stacija atrodas Zemes ēnā. Baterijas uzlādējas no saules baterijām. Akumulatori paredzēti 6,5 gadu ekspluatācijai (37 000 uzlādes/izlādes cikliem) un tos nepieciešams regulāri nomainīt stacijas 20 gadu paredzētajā mūžā.
+
+=== Orbītas kontrole ===
+[[Attēls:Internationale Raumstation Bahnhöhe (dumb version).png|thumb|480px|SKS orbītas augstuma izmaiņas no 1998. līdz 2009. gadam]]
+Stacija tiek uzturēta gandrīz apļveida orbītā ar minimālo vidējo augstumu aptuveni 278 km un maksimālo 460 km. Tā pārvietojas ar vidējo ātrumu 27 724 km/h un veic 15,7 apriņķojumus dienā.<ref name="tracking">{{Tīmekļa atsauce|url=http://spaceflight.nasa.gov/realdata/tracking/index.html|title=Current ISS Tracking data|accessdate=2009-01-28|publisher=NASA|date=2008-12-15|author=NASA|language=angliski|archive-date=2015-12-25|archive-url=https://web.archive.org/web/20151225022741/http://spaceflight.nasa.gov/realdata/tracking/index.html}}</ref> Tā kā SKS pastāvīgi zaudē augstumu nelielas berzes dēļ pret atmosfēras augšējo slāņu daļiņām, tad to vairākas reizes gadā nepieciešams pacelt augstākā orbītā.<ref name="Worldbook at NASA">{{Tīmekļa atsauce|url=http://www.nasa.gov/worldbook/intspacestation_worldbook.html|title=International Space Station|year=2005|accessdate=2008-06-14|publisher=World Book, Inc|author=James Oberg|work=World Book Online Reference Center|language=angliski|archiveurl=https://web.archive.org/web/20080604081100/http://www.nasa.gov/worldbook/intspacestation_worldbook.html|archivedate=2008-06-04}}</ref><ref name="nasa.gov-iss-environment">{{Tīmekļa atsauce|url=http://pdlprod3.hosc.msfc.nasa.gov/D-aboutiss/D6.html|archiveurl=https://web.archive.org/web/20080213164432/http://pdlprod3.hosc.msfc.nasa.gov/D-aboutiss/D6.html|archivedate=2008-02-13|title=ISS Environment|date=|accessdate=2007-10-15|publisher=[[Johnson Space Center]]|language=angliski}}</ref> Šīs operācijas veic vai nu ar stacijas ''Zvezda'' moduļa diviem galvenajiem dzinējiem vai ar pievienotiem ''Space Shuttle'', ''Progress'' vai ''ATV'' transportkuģiem.
+
+2008. gada decembrī NASA vienojās ar [[Ad Astra Rocket Company]] par [[VASIMR]] plazmas dzinēja izstrādi, kuru varētu izmēģināt SKS.<ref name="vasimr">{{Tīmekļa atsauce|url=http://www.adastrarocket.com/AdAstra-NASA_PR12Dec08.pdf|publisher=AdAstra Rocket Company|title=Press Release 121208|accessdate=2009-12-07|date=2008-12-12|format=PDF|language=angliski|archive-date=2009-09-02|archive-url=https://web.archive.org/web/20090902190714/http://www.adastrarocket.com/AdAstra-NASA_PR12Dec08.pdf}}</ref> Šī tehnoloģija ļautu stacijas orbītu uzturēt daudz ekonomiskāk nekā pašreiz.<ref name="future-prop">{{Tīmekļa atsauce|url=http://www.nasa.gov/vision/space/travelinginspace/future_propulsion.html|title=Propulsion Systems of the Future|accessdate=2009-05-29|publisher=NASA|language=angliski|archive-date=2015-02-10|archive-url=https://web.archive.org/web/20150210053636/http://www.nasa.gov/vision/space/travelinginspace/future_propulsion.html}}</ref><ref>{{Tīmekļa atsauce|publisher=New Scientist|accessdate=2009-10-07|url=http://www.newscientist.com/article/dn17918-rocket-company-tests-worlds-most-powerful-ion-engine.html|title=Rocket company tests world's most powerful ion engine|author=David Shiga|date=2009-10-05|language=angliski}}</ref>
+
+Stacijas stāvokli (orientāciju) nosaka neatkarīgi ar Saules, zvaigžņu un horizonta sensoriem uz ''Zvezda'' moduļa un ar [[Globālās pozicionēšanas sistēma|GPS]], kura antenas izvietotas uz S0 sekcijas un uztvērēja procesors ir ASV laboratorijas modulī. Kompleksa stāvokļa kontroli veic ar diviem mehānismiem. Pamatrežīmā stacijas orientāciju uztur četru [[žiroskops|žiroskopu]] sistēma ''Control moment gyroscope'' (CMG), kas atrodas Z1 segmentā. Šādā stāvoklī ''Destiny'' ir ''Unity'' priekšā, P ferma ir kreisajā pusē un ''Rassvet'' ir uz Zemi vērstajā pusē. Kad žiroskopi kļūst piesātināti — CMG sasniedz to darbības robežu vai nespēj reaģēt uz strauju kustību sēriju — tie zaudē spēju kontrolēt stacijas stāvokli.<ref>{{Grāmatas atsauce|title=Dynamics and Control of Attitude, Power, and Momentum for a Spacecraft Using Flywheels and Control Moment Gyroscopes|author=Carlos Roithmayr|year=2003|publisher=NASA|location=Langley Research Center|url=http://www.amazon.co.uk/dp/B0018V9YG6|language=angliski}}</ref> Šajos gadījumos paredzēta Krievijas stāvokļa kontroles sistēma, kas automātiski ar raķešdzinēju iedarbināšanu nodrošina žiroskopu pārstartēšanu. Šāds gadījums ir noticis vienreiz, [[SKS 10. ekspedīcija|10. ekspedīcijas]] laikā.<ref>{{Tīmekļa atsauce|url=http://spaceflight.nasa.gov/spacenews/reports/issreports/2005/iss05-7.html|title=International Space Station Status Report #05-7|date=2005-02-11|publisher=NASA|accessdate=2008-11-23|language=angliski|archive-date=2005-03-17|archive-url=https://web.archive.org/web/20050317194246/http://spaceflight.nasa.gov/spacenews/reports/issreports/2005/iss05-7.html}}</ref> Kad ''Space Shuttle'' bija pievienoti stacijai, tos arī izmantoja stacijas stāvokļa uzturēšanai.
+
+=== Sakari ===
+[[Attēls:ISS Communication Systems.png|thumb|380px|SKS izmantotās sakaru sistēmas<br /><small>* ''Luč'' pavadonis pašlaik netiek lietots</small>]]
+[[Radio|Radio sakari]] nodrošina [[telemetrija]]s un zinātnisko datu pārsūtīšanu starp staciju un [[Lidojuma vadības centrs|lidojuma vadības centriem]]. Radio kanāli tiek izmantoti arī [[kosmiskā tuvošanās|tuvošanās un saslēgšanās procedūrās]]. Tāpat radio sakarus apkalpes locekļi lieto, lai audio vai video režīmā sazinātos ar lidojuma vadītājiem un ģimenēm. Tādējādi SKS ir apgādāta ar iekšējām un ārējām sakaru sistēmām.
+
+Krievijas segments sakarus nodrošina tieši ar zemi, lietojot [[Lira (ISS)|Lira]] antenu, kas atrodas ''Zvezda'' moduļa ārpusē.<ref name="ISSRG"/><ref>{{Tīmekļa atsauce|url=http://www.nasa.gov/home/hqnews/2005/mar/HQ_ss05015_ISS_status_report.html|title=International Space Station Status Report: SS05-015|last=Mathews|first=Melissa|author2=James Hartsfield|date=2005-03-25|work=NASA News|publisher=NASA|accessdate=2010-01-11|archive-date=2012-01-11|archive-url=https://web.archive.org/web/20120111144205/http://www.nasa.gov/home/hqnews/2005/mar/HQ_ss05015_ISS_status_report.html}}</ref> ''Lira'' spēj izmantot arī [[Luč (pavadonis)|Luč]] translācijas pavadoņu sistēmu.<ref name="ISSRG">{{Grāmatas atsauce|author=Gary Kitmacher|title=Reference Guide to the International Space Station| publisher =Apogee Books|location=Canada|year=2006|isbn=978-1-894959-34-6|issn=1496-6921|pages=71–80}}</ref> Šī sistēma, kura jau tikusi izmantota sakariem ar ''Mir'' staciju, izjuka 1990. gadu vidū, jo netika papildināta ar jauniem pavadoņiem, tādēļ pašreiz to nevar izmantot,<ref name="ISSRG"/><ref name="SSSM">
+{{Grāmatas atsauce|author=David Harland|title=The Story of Space Station Mir|publisher=Springer-Verlag New York Inc|date=2004-11-30|location=New York|url=http://www.amazon.co.uk/exec/obidos/ASIN/0387230114/ref=ord_cart_shr/202-3649698-1866219?%5Fencoding=UTF8&m=A3P5ROKL5A1OLE|isbn=978-0-387-23011-5}}</ref><ref name="Harvey">{{Grāmatas atsauce|last=Harvey|first=Brian|title=The rebirth of the Russian space program: 50 years after Sputnik, new frontiers|url=https://archive.org/details/rebirthrussiansp00harv|publisher=Springer Praxis Books|year=2007|page=[https://archive.org/details/rebirthrussiansp00harv/page/n283 263]|isbn=0387713549}}</ref> lai gan 2011. gadā paredzēts palaist divus jaunus ''Luč'' pavadoņus.<ref>{{Tīmekļa atsauce|publisher=RussianSpaceWeb|url=http://www.russianspaceweb.com/2011.html|accessdate=2010-01-12|title=Space exploration in 2011|date=2010-01-04|author=Anatoly Zak}}</ref> Vēl Krievijas segmentā tiek izmantota sistēma [[Voshod-M]], kas nodrošina iekšējos telefona sakarus starp moduļiem un ASV segmentu, kā arī [[ultraīsviļņi|UĪV]] radio kanālu ar zemes sakaru centriem caur antenām ''Zvezda'' ārpusē.<ref>{{Tīmekļa atsauce|url=http://www.nasa.gov/directorates/somd/reports/iss_reports/2010/05022010.html|date=2010-05-02|accessdate=2010-07-07|publisher=NASA|title=ISS On-Orbit Status 05/02/10|archive-date=2012-01-19|archive-url=https://web.archive.org/web/20120119101404/http://www.nasa.gov/directorates/heo/reports/iss_reports/2010/05022010.html}}</ref>
+
+ASV segmentā tiek izmantoti divi atsevišķi radio kanāli, kas atrodas Z1 struktūrā: [[S josla]]s (audio sakariem) un [[Ku josla|K<sub>u</sub> joslas]] (audio, video un datu pārraidīšanai) sistēmas. Abas sistēmas izmanto NASA [[Tracking and Data Relay Satellite|TDRSS]] retranslācijas pavadoņu sistēmu, kas nodrošina gandrīz nepārtrauktus reāllaika sakarus ar [[Misiju kontroles centrs (NASA)|NASA Misiju kontroles centru]] [[Hjūstona|Hjūstonā]].<ref name="ISSRG"/><ref name="ISSBook">{{Grāmatas atsauce|isbn=978-0387781440|date=2008-06-17|publisher=Springer-Praxis|author=John E. Catchpole|title=The International Space Station: Building for the Future}}</ref><ref name="BoeingComm">{{Tīmekļa atsauce|url=http://www.boeing.com/defense-space/space/spacestation/systems/communications_tracking.html|publisher=Boeing|accessdate=2009-11-30|title=Communications and Tracking|archiveurl=https://web.archive.org/web/20080611115319/http://www.boeing.com/defense-space/space/spacestation/systems/communications_tracking.html|archivedate=2008-06-11}}</ref> Datu kanāli Kanādas ''Canadarm2'', Eiropas ''Columbus'' laboratorijai un Japānas ''Kibō'' moduļiem tiek maršrutēti caur S un K<sub>u</sub> joslas sistēmām, lai gan, kad tiks izvērstas Eiropas un Japānas datu translācijas pavadoņu sistēmas, tās varēs izmantot šīm vajadzībām kopā ar TDRSS.<ref name="ISSBook"/><ref name="JAXA-MOU">{{Tīmekļa atsauce|url=http://www.nasa.gov/mission_pages/station/structure/elements/nasa_japan.html|title=Memorandum of Understanding Between the National Aeronautics and Space Administration of the United States of America and the Government of Japan Concerning Cooperation on the Civil International Space Station|publisher=NASA|accessdate=2009-04-19|date=1998-02-24|archive-date=2012-01-11|archive-url=https://web.archive.org/web/20120111144216/http://www.nasa.gov/mission_pages/station/structure/elements/nasa_japan.html}}</ref> Sakari starp moduļiem tiek nodrošināti ar iekšēju ciparu [[bezvadu tīkls|bezvadu tīklu]].<ref>{{Tīmekļa atsauce|title=Operations Local Area Network (OPS LAN) Interface Control Document|format=PDF|publisher=NASA|url=http://www.spaceref.com/iss/computer/iss.ops.lan.icd.pdf|accessdate=2009-11-30|date=2000-02}}{{Novecojusi saite}}</ref>
+
+Kosmonautiem veicot [[iziešana kosmosā|iziešanu kosmosā]], sakariem tiek izmantoti [[decimetru viļņi]]. Tāpat decimetru viļņus izmanto kosmosa kuģi, saslēdzoties ar staciju: ''Sojuz'', ''Progress'', ''HTV-II'', ''ATV'' un ''Space Shuttle'' (kosmoplāni izmanto arī S un K<sub>u</sub> joslas sistēmas caur TDRSS), lai saņemtu komandas no Lidojuma vadības un SKS apkalpes.<ref name="ISSRG"/> ATV izmanto arī [[lazers|lāzeru]] un optiskas iekārtas ''Zvezda'' ārpusē, lai precīzi saslēgtos ar staciju.<ref>{{Tīmekļa atsauce|url=http://www.spaceref.com/news/viewpr.html?pid=16247|title=ISS/ATV communication system flight on Soyuz|accessdate=2009-11-30|publisher=EADS Astrium|date=2005-02-28|archive-date=2022-08-21|archive-url=https://web.archive.org/web/20220821005317/https://spaceref.com/press-release/issatv-communication-system-flight-on-soyuz/}}</ref><ref>{{Tīmekļa atsauce|publisher=NASASpaceflight.com|author=Chris Bergin|url=http://www.nasaspaceflight.com/2009/11/sts-129-support-dragon-communication-demo-iss/|date=2009-11-10|accessdate=2009-11-30|title=STS-129 ready to support Dragon communication demo with ISS}}</ref>
+
+=== Dzīvības nodrošināšana ===
+[[Attēls:SpaceStationCycle.svg|thumb|480px|SKS Vides kontroles un dzīvības nodrošināšanas sistēmas komponentu mijiedarbības saites|alt=A flowchart diagram showing the components of the ISS life support system. See adjacent text for details.]]
+
+SKS Vides kontroles un dzīvības nodrošināšanas sistēma (VKDzNS) nodrošina vai kontrolē [[atmosfēras spiediens|atmosfēras spiedienu]], uguns atklāšanu un apslāpēšanu, skābekļa līmeni, atkritumu apstrādi un ūdens apgādi. Galvenā VKDzNS prioritāte ir stacijas telpu atmosfēra, bet sistēma arī savāc, apstrādā un uzglabā atkritumus un ūdeni, kuru rada un izmanto apkalpe: process, kurā atkārtoti tiek izmantots šķidrums no izlietnes, tualetes un gaisa kondensācijas.
+
+Krievijas segmenta ''Zvezda'' modulī esošā ''Elektron'' un līdzīga sistēma ASV segmenta ''Destiny'' modulī ražo skābekli.<ref name="OGS">{{Tīmekļa atsauce|url=http://www.space.com/businesstechnology/060215_techwed_iss_oxygen.html|title=Air Apparent: New Oxygen Systems for the ISS|author=Tariq Malik|publisher=Space.com|date=2006-02-15|accessdate=21 November 2008}}</ref> 
+Apkalpei ir rezerves iespēja skābekli iegūt no ķīmiskiem skābekļa ģeneratoriem, tā saucamajām skābekļa svecēm.<ref name="breath easy">{{Tīmekļa atsauce|url=http://science.nasa.gov/headlines/y2000/ast13nov_1.htm|title=Breathing Easy on the Space Station|author=Patrick L. Barry|publisher=NASA|date=2000-11-13|accessdate=2008-11-21|language=angliski|archive-date=2008-09-21|archive-url=https://web.archive.org/web/20080921141609/http://science.nasa.gov/headlines/y2000/ast13nov_1.htm}}</ref> [[Oglekļa dioksīds]] no gaisa tiek izņemts ar ''Vozduh'' sistēmu ''Zvezda'' modulī. Citus cilvēka vielmaiņas blakusproduktus, tādus kā metānu no gremošanas sistēmas vai amonjaku no sviedriem, neitralizē [[aktīvā ogle|aktīvās ogles]] filtri.<ref name="breath easy"/>
+
+Atmosfēra SKS telpās tiek uzturēta līdzīga [[gaiss|gaisam]] uz Zemes virsmas.<ref>{{Tīmekļa atsauce|url=http://science.howstuffworks.com/space-station2.htm|title=How Space Stations Work|last=Craig Freudenrich|publisher=Howstuffworks|date=2000-11-20|accessdate=2008-11-23|language=angliski|archiveurl=https://web.archive.org/web/20081212014934/http://science.howstuffworks.com/space-station2.htm|archivedate=2008-12-12}}</ref> Normāls gaisa spiediens stacijā ir 101,3&nbsp;[[kilopaskāls|kPa]],<ref>{{Tīmekļa atsauce|url=http://nasaexplores.com/show2_5_8a.php?id=04-032&gl=58|archiveurl=https://web.archive.org/web/20061114010931/http://www.nasaexplores.com/show2_5_8a.php?id=04-032&gl=58|archivedate=2006-11-14|work=NASAexplores|title=5–8: The Air Up There|publisher=NASA|accessdate=2008-10-31|language=angliski}}</ref> tāds pats kā jūras līmenī uz Zemes. Zemei līdzīga atmosfēra tika izvēlēta, jo tā ir daudz drošāka par tīra skābekļa atmosfēru ugunsgrēka riska dēļ.
+
+== Apkalpes veselība un drošība ==
+=== Kosmiskie lūžņi un meteoroīdi ===
+[[Zema Zemes orbīta|Zemā Zemes orbītā]], kurā riņķo Starptautiskā kosmosa stacija, atrodas daudz dažādu [[kosmiskais atkritums|kosmisko atkritumu]]: izlietotas [[raķešpakāpe]]s, darbību beiguši [[Zemes mākslīgais pavadonis|pavadoņi]], kā arī eksplozijas fragmenti, degviela, dzesēšanas šķidrums un citi objekti. Šie objekti kopā ar [[mikrometeoroīds|mikrometeoroīdiem]] rada nopietnus draudus. Lieli objekti var iznīcināt staciju, bet to drauds nav tik liels, jo to orbītas var paredzēt. Objektus, mazākus par 1 cm, nevar novērot ar optiskiem vai radara instrumentiem. Lai gan tie ir mazi, daži no tiem var būt bīstami sakarā ar to [[kinētiskā enerģija|kinētisko enerģiju]] un virzienu attiecībā pret staciju.
+
+Laika posmā starp 2006. un 2008. gadu SKS apdraudošo orbitālo objektu daudzums ir trīskāršojies. Kopš 2007. gada aptuveni 48 procenti no visiem stacijai pietuvojušamies kosmiskajiem atkritumiem bija Ķīnas 2007. gada janvārī veiktā pavadoņa iznīcināšanas izmēģinājumā radušās atlūzas, 2008. gadā izjukušā Krievijas pavadoņa [[Kosmos-2421]] fragmenti un [[Iridium 33 un Kosmos-2251 sadursme|Iridium 33 un Kosmos-2251 sadursmē]] radušās atlūzas.<ref name="spaceflightnow 2012-04-05" />
+
+Aizsardzība pret mikrometeoroīdiem Krievijas un ASV segmentos ir izveidota atšķirīgi. ASV segmenta moduļos alumīnija vairogs izvietots atstatus no korpusa. Objekts vispirms ietriecas ārējā vairogā un tiek sasists mākonī, tāpēc korpusu sasniegušo objektu enerģija ir izkliedēta. Krievijas segmenta moduļu ārpusē ir izvietoti vairogi, kas sastāv no oglekļa plastmasas, alumīnija, siltumizolācijas un stikla pārklājuma slāņiem.
+
+Kosmisko atkritumu orbītas pastāvīgi novēro zemes dienesti un nepieciešamības gadījumā tiek brīdināta stacijas apkalpe. Lai izvairītos no objektiem, kuru orbīta šķērso SKS trajektoriju, tiek veikts izvairīšanās [[Manevrs (kosmonautika)|manevrs]]. To realizē ar Krievijas segmenta dzinēju iedarbināšanu, mainot stacijas orbītu. Parasti šajos manevros stacijas orbīta tiek paaugstināta par vienu līdz diviem kilometriem, bet dažreiz nepieciešams orbītu pazemināt, piemēram, {{dat|2008|8|27||bez}}.<ref name="ODOct08" /> No 1998. gada, kad tika sākta SKS montāža, līdz 2012. gadam izvairīšanās manevri ir veikti 14 reizes, turklāt puse no tiem veikti kopš 2008. gada augusta.<ref name="spaceflightnow 2012-04-05" /> Gadījumā, ja draudi no orbitāla objekta ir noteikti par vēlu un nevar paspēt veikt manevru, apkalpe aizver visas lūkas un patveras drošības kapsulās — kosmosa kuģos ''Sojuz'', lai nepieciešamības gadījumā varētu ātri atgriezties uz Zemes. Šāda daļēja stacijas evakuācija ir notikusi {{dat|2009|3|13||bez}}, {{dat|2011|6|28||bez}} un {{dat|2012|3|24||bez}}.<ref name="spaceflightnow 2012-04-05" /><ref name="BBC 2012-03-24" />
+
+== Skatīt arī ==
+* [[SKS pamatekspedīciju uzskaitījums]]
+
+== Atsauces ==
+{{atsauces2|refs=
+<ref name="spaceflightnow 2012-04-05">[http://www.spaceflightnow.com/news/n1204/05spacedebris/ Near-misses between space station and debris on the rise] {{Webarchive|url=https://web.archive.org/web/20120409025257/http://www.spaceflightnow.com/news/n1204/05spacedebris/ |date={{dat|2012|04|09||bez}} }} STEPHEN CLARK, SPACEFLIGHT NOW, 2012-04-05 {{en ikona}}</ref>
+<ref name="ODOct08">{{Laikraksta atsauce|url=http://www.orbitaldebris.jsc.nasa.gov/newsletter/pdfs/ODQNv12i4.pdf|title=ISS Maneuvers to Avoid Russian Fragmentation Debris|publisher=NASA|pages=1&2|journal=Orbital Debris Quarterly News|month=October|year=2008|accessdate=2012-04-07|volume=12|issue=4|language=angliski|archiveurl=https://web.archive.org/web/20100527134134/http://orbitaldebris.jsc.nasa.gov/newsletter/pdfs/ODQNv12i4.pdf|archivedate=2010-05-27}}</ref>
+<ref name="BBC 2012-03-24">{{ziņu atsauce| url=http://www.bbc.co.uk/news/science-environment-17497766| title=ISS crew take to escape capsules in space junk alert| accessdate=2012-04-07 | work= [[BBC]]| date=2012-03-24}}</ref>
+}}
+
+{{SKS komponenti|state=uncollapsed}}
+{{SKS konfigurācija}}
+{{Pilotējamie kuģi uz SKS|state=collapsed}}
+{{ASV astronauti}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Starptautiskā kosmiskā stacija| ]]

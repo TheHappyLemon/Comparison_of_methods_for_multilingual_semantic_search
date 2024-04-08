@@ -1,0 +1,53 @@
+{{ezera infokaste
+|ezers=Prespas ezers
+|attēls=Lake Prespa Albania.jpg
+|paraksts=Prespas ezera ainava
+|karte=Ohrid prespa nasa.jpg
+|kartes_paraksts=Ohridas un Prespas (dienvidaustrumos) ezeru satelītaina
+|map = Albānija#Grieķija#Maķedonija
+| plat_d=40 | plat_m=54 | plat_s= | plat_NS=N
+| gar_d=21 | gar_m=2 | gar_s= | gar_EW=E
+|vieta={{ALB}}<br />{{GRE}}<br />{{MKD}}
+|platība=273
+|garums=34
+|Vid_dziļums=
+|Max_dziļums=54
+|tilpums=
+|augstums_vjl=853
+|izteka=
+|baseins=
+|valstis=[[Albānija]], [[Grieķija]],<br />[[Ziemeļmaķedonija]]
+|salas=
+|pilsētas=
+}}
+<mapframe text="Prespas ezers" width=290 height=290 zoom=10 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q204392"
+}
+</mapframe>
+'''Prespas ezers''' ir divi saldūdens [[ezers|ezeri]] [[Balkānu pussala|Balkānos]] [[Albānija]]s, [[Grieķija]]s un [[Ziemeļmaķedonija]]s robežu krustpunktā. Visaugstāk novietotie [[tektonika|tektoniskas]] izcelsmes ezeri Balkānos. Lielais Prespas ezers atrodas {{nobr|150 m}} augstāk nekā {{nobr|10 km}} attālais [[Ohridas ezers]] un pa pazemes tukšumiem kaļķakmens masīvā uz Ohridas ezeru notiek ūdens noplūde no Prespas ezera. Pieder pie planētas senākajiem ezeriem, ezera vecums pārsniedz 2 miljonus gadu. Pastāvēšanas laikā ezers vairākkārt ir bijis bez ūdens. Ezeros dzīvo daudz [[endēms|endēmu]] sugu. Endēmas ir arī 7 no 12 ezeros sastopamajām zivju sugām. Ezerus ielenc augsti kalni.
+
+No {{nobr|273 km² }}kopplatības {{nobr|190 km²}} atrodas Ziemeļmaķedonijas Republikā, 84,8 km² — Grieķijā un 38,8 km² — Albānijā. Izšķir '''Lielo Prespas ezeru''' (273 km²; {{val|el|Μεγάλη Πρέσπα}}, {{val|mk|Преспанско Езеро}}, {{val|sq|Liqeni i Prespes}}), kas atrodas visu triju valstu robežās un '''Mazo Prespas ezeru''' (47,4 km²; {{val|el|Μικρή Πρέσπα}}, {{val|sq|Prespa e Vogël}}), kas ir tikai Grieķijas (lielākā daļa) un Albānijas robežās.
+
+Grieķijas pusē Prespas ezeru reģions bija ilgstoši mazapdzīvots, nedrošs reģions. Iekļūšanai bija nepieciešamas īpašas atļaujas. [[Grieķijas pilsoņu karš|Grieķijas pilsoņu kara]] laikā šeit notika intensīvas kaujas un rezultātā daudzi vietējie iedzīvotāji reģionu pameta. 1970. gados reģionu sāka reklamēt kā tūrisma objektu
+
+Reģionā ir daudz retas [[fauna]]s un [[flora]]s, ziemeļrietumu krastam piekļaujas [[Galičicas nacionālais parks]] (Ziemeļmaķedonijā), dienvidaustrumu — [[Prespas nacionālais parks]] (Grieķijā).
+2018. gada 17. jūnijā Grieķijas pierobežas ciemā Psaradesā Maķedonijas Republikas un Grieķijas ārlietu ministri parakstīja Prespas vienošanos par Maķedonijas Republikas nosaukuma maiņu, un tā tika pārdēvēta par Ziemeļmaķedonijas Republiku.
+
+== Kultūras pieminekļi ==
+10. gadsimtā bulgāri uz Ajosahilas salas Mazajā Prespas ezerā (tagadējās Grieķijas teritorija) uzcēla cietoksni un Svētā Ahila baznīcu. Uz salas atrodas arī senākas būves. Savukārt Lielajā Prespas ezerā (Ziemeļmaķedonijas teritorijā) uz [[Golemgrada]]s sala atrodas 14. gadsimtā celtā Svētā Pētera klostera drupas. Ezera Ziemeļmaķedonijas krastā, Kurbinovo ciemā, atrodas Svētā Jura baznīca, kurā ir izcilas [[1191]]. gada freskas. Abu ezeru stāvkrastu klintīs ir vientuļnieku celles, kurām var piekļūt praktiski tikai alpīnisti.
+
+Mazā Prespas ezera Albānijas krastā netālu no Treni ciemata atrodas alu apmetne un nocietinājumi, kā arī [[Trajāns|Trajāna]] laiku cietoksnis.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20090330092526/http://www.medwet.org/prespa/index.html Prespas parka mājaslapa] {{en ikona}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Albānijas ezeri]]
+[[Kategorija:Grieķijas ezeri]]
+[[Kategorija:Ziemeļmaķedonijas ezeri]]

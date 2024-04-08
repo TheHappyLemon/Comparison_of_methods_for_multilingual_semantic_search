@@ -1,0 +1,54 @@
+{{Jūras infokaste
+|jūra=Ohotskas jūra
+|attēls=Охотское море.png
+|attēls_izm    = 300
+ |vietaskarte  = Āzija
+ |relief       = jā
+ |latd = 55 |latm =  |lats =  |latNS = N
+ |longd = 150 |longm =  |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |alt_karte    = 
+| okeāns       = Klusais okeāns
+|platība       = 1 603 000
+|garums=
+|platums=
+|tilpums       = 1 316 000
+|Max_dziļums   = 3916
+|Vid_dziļums   = 1780
+|sāļums        = 32
+|valstis       = {{JPN}}<br />{{RUS}}
+|pilsētas      = [[Magadana]]
+}}
+'''Ohotskas jūra''' ({{val|ru|Охотское море}}, {{val|ja|オホーツク海}}, ''Ohōtsuku-kai'') ir [[Klusais okeāns|Klusajam okeānam]] piederīga [[malas jūra]].<ref>[http://www.eoearth.org/view/article/51cbeedb7896bb431f69ab9c/ The Encyclopedia of Earth. Sea of Okhotsk]</ref> Nosaukta [[Ohota]]s upes vārdā, kuras nosaukums savukārt cēlies no [[eveni|evenu]] vārda ''okat'' — ‘upe’.
+
+== Raksturojums ==
+Jūras vidējais dziļums ir 1780 metri, tilpums — ap {{nobr|1 365 000}} km³. Virsējā ūdens slāņa sāļums — 32‰, temperatūra ziemā ir {{nobr|1,8—2 °С}}, vasarā — {{nobr|1,5—15 °С}}. [[plūdmaiņa|Plūdmaiņu]] augstums Šeļihova līcī sasniedz pat 12 metrus, kamēr pie Sahalīnas krastiem tikai 0,8 metri. Jūras rietumu daļa ir salīdzinoši sekla, atrodas uz [[kontinentālais šelfs|kontinentālā šelfa]]. Dziļākā ir rietumu daļa pie [[Kuriļu salas|Kuriļu salām]] — [[Kuriļu lielieplaka]]. Lielākā daļa jūras atrodas uz [[kontinentālā tipa Zemes garoza]]s.
+
+Vienīgā centrālās daļas sala ir nelielā [[Jonas sala]]. Austrumu daļā ir arī [[Šantaru salas]] kas norobežo nelielo [[Šantaru jūra|Šantaru jūru]], savukārt ziemeļos tālāk sauszemē ietiecas [[Šeļihova līcis]] ar pagarinājumu — [[Penžinas līcis|Penžinas līci]].
+
+Jūrā notiek zvejniecība. Ziemā navigācija apgrūtināta vai neiespējama ledus segas dēļ — lielāko daļu jūras no oktobra līdz maijam klāj ledus. Ohotskas jūra aizsalst tāpēc, ka tās ūdeni mazāk sāļu padara lielā [[Amūra]]s upe un līdz ar to ūdens sasalst pie augstākas temperatūras. Jūrai raksturīgas arī biežas [[migla]]s, vētras.
+
+[[aukstais karš|Aukstā kara]] laikā [[Amerikas Savienotās Valstis|ASV]] kara flotei vairākkārt izdevās pieslēgties Ohotskas jūrā izvietotajiem sakaru kabeļiem. [[1983]]. gadā [[Padomju Savienība|PSRS]] virs Ohotskas jūras notrieca Dienvidkorejas pasažieru lidmašīnu.
+
+== Robeža ==
+Ziemeļos un rietumos atrodas Krievijas teritorija — [[Habarovskas novads]] un [[Magadanas apgabals]]. Austrumos atrodas Krievijai piederošā [[Kamčatka]]s pussala un [[Kuriļu salas]]. Dienvidos — Japānai piederošā [[Hokaido]] sala. Dienvidrietumos — [[Sahalīna]]. Ar dienvidos esošo [[Japāņu jūra|Japāņu jūru]] savieno [[Laperūza šaurums]] starp Sahalīnu un Hokaido, kā arī [[Tatāru šaurums]] starp Sahalīnu un Āziju.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Klusā okeāna jūras}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jūras]]
+[[Kategorija:Krievijas jūras]]
+[[Kategorija:Habarovskas novads]]
+[[Kategorija:Ohotskas jūra|  ]]
+[[Kategorija:Kamčatkas novads]]
+[[Kategorija:Magadanas apgabals]]
+[[Kategorija:Sahalīnas apgabals]]
+[[Kategorija:Japānas jūras]]

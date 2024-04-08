@@ -1,0 +1,21 @@
+[[Attēls:Carboxylic_Acid_General_Structure_V.1.svg|thumb|200px|Karboksilgrupa (iekrāsota zilā krāsā)]]
+'''Karboksilgrupa''' (−COOH) ir vienvērtīga organisko savienojumu [[funkcionālā grupa]], kas ietilpst visu [[karbonskābes|karbonskābju]] sastāvā un nosaka to skābās īpašības. Tādēļ to dēvē arī par '''skābes grupu'''.<ref>Ojārs Neilands. ''Organiskā ķīmija''. Rīga : Zvaigzne, 1977, 525. lpp.</ref>
+
+Karboksilgrupa sastāv no [[karbonilgrupa]]s, kam pievienota [[hidroksilgrupa]]. Elektronu blīvums karboksilgrupā ir nobīdīts uz karbonilgrupas skābekļa atoma pusi, tādēļ karboksilgrupā ietilpstošā hidroksilgrupa ir daudz vairāk polarizēta nekā [[spirti|spirtu]] molekulās ietilpstošā hidroksilgrupa, un viegli spēj atšķelt ūdeņraža jonu.
+
+Ūdens šķīdumos karbonskābes disociē jonos:
+
+R−COOH → R−COO<sup>−</sup> + H<sup>+</sup>
+
+Karbonskābju šķīdību ūdenī un samērā augstās viršanas temperatūras nosaka starpmolekulārās [[ūdeņraža saite]]s starp šo vielu karboksilgrupām.
+
+Vienkāršākā karboksilgrupu saturošā viela ir [[skudrskābe]], kuras molekula sastāv no karboksilgrupas, kam pievienojies ūdeņraža atoms.
+
+== Atsauces ==
+{{commonscat|Carboxyl group|karboksilgrupa}}
+{{atsauces}}
+
+
+{{organiskā ķīmija-aizmetnis}}
+
+[[Kategorija:Funkcionālās grupas]]

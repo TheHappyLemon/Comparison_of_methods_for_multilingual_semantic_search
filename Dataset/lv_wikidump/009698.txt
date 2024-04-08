@@ -1,0 +1,43 @@
+{{Navbox
+|name=Irānas ostāni
+|title=[[Irānas ostāni]] {{flaga|Irāna}}
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|list1=
+* [[Ardabīlas ostāns|Ardabīla]]
+* [[Austrumazerbaidžāna]]
+* [[Būšehras ostāns|Būšehra]]
+* [[Čahārmahāla un Bahtijārī]]
+* [[Dienvidhorasāna]]
+* [[Elbursa ostāns|Elburss]]
+* [[Fārsa]]
+* [[Gazvīnas ostāns|Gazvīna]]
+* [[Gīlāna]]
+* [[Golestāna]]
+* [[Hamadānas ostāns|Hamadāna]]
+* [[Hormozgāna]]
+* [[Hūzestāna]]
+* [[Īlāmas ostāns|Īlāma]]
+* [[Isfahānas ostāns|Isfahāna]]
+* [[Jezdas ostāns|Jezda]]
+* [[Kermānas ostāns|Kermāna]]
+* [[Kermānšāhas ostāns|Kermānšāha]]
+* [[Kohgīlūje un Būjerahmada]]
+* [[Kumas ostāns|Kuma]]
+* [[Kurdistānas ostāns|Kurdistāna]]
+* [[Luristāna]]
+* [[Markazī]]
+* [[Māzenderāna]]
+* [[Rezāvi Horasāna]]
+* [[Rietumazerbaidžāna]]
+* [[Semnānas ostāns|Semnāna]]
+* [[Sīstāna un Beludžistāna]]
+* [[Teherānas ostāns|Teherāna]]
+* [[Zandžānas ostāns|Zandžāna]]
+* [[Ziemeļhorasāna]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Irānas navigācijas veidnes]]
+</noinclude>

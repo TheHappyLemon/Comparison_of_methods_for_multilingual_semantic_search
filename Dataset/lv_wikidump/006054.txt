@@ -1,0 +1,92 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Davao
+  | official_name              = ''Davao''<br/>''Dabaw''
+  | settlement_type          = neatkarīga pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = {{Vairāki attēli
+| border                   = infobox
+| total_width              = 250
+| image_style              = border
+| perrow                   = 1/2/2/2
+| image1                   = Davao City Skyline.jpg
+| image2                   = City Hall of Davao City, Philippines (Bro. Jeffrey Pioquinto, SJ) - Flickr.jpg
+| image3                   = San Pedro Cathedral 01.jpg
+| image4                   = Davao Gulf (14634526362).jpg
+| image5                   = Nicasio Torres St, Davao City.jpg
+| image6                   = 
+}}
+  | imagesize                = 
+  | image_caption            = 
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_seal             = {{#property:P158}}
+ |seal_size              = 100x80px
+  | pushpin_map              = Filipīnas#Mindanao
+  | pushpin_label_position   = 
+  | latd  = 7  | latm  = 04  | lats  =   | latNS  = N
+  | longd = 125  | longm =  36 | longs =   | longEW = E
+  | subdivision_type         =  [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         =  '''{{karogs|Filipīnas}}'''
+  | subdivision_type1        = Reģions
+  | subdivision_name1        = [[Davao reģions]]
+  | subdivision_type2        = Province
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+ | parts_type               = Barangajas
+ | parts                    = 182
+ | established_title        = Dibināta
+ | established_date         = 1830
+ | established_title1       = Pilsēta 
+ | established_date1        = 1937
+ | established_title2       = Neatkarīga pilsēta
+ | established_date2        = 1979
+  | leader_title             = 
+  | leader_name              = 
+  | area_total_km2           = 2443.61
+  | area_land_km2            = 
+  | area_metro_km2           = 3964.95
+  | elevation_m              = 13
+  | population_footnotes     = 
+  | population_total         = 1776949
+  | population_as_of         =  {{dat|2015|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   =  auto
+  | population_density_metro_km2   =  auto
+  | population_urban         = 
+  | population_metro         = 3770671
+  | population_density       = 
+  | population_density_rank  = 
+ | timezone                 = [[PST]]
+ | utc_offset               = +8
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 5000
+  | website                  = {{URL|http://www.davaocity.gov.ph/}}
+  | footnotes                = 
+}}
+'''Davao''' ({{val|fil|Lungsod ng Dabaw}}, {{val|en|City of Davao}}, {{val|ceb|Dakbayan sa Dabaw}}) ir neatkarīga augsti urbanizēta pilsēta [[Filipīnas|Filipīnu]] dienvidos, [[Mindanao]] salas dienvidaustrumos [[Davao līcis|Davao līča]] krastā. Dažkārt statistiskos nolūkos tiek pieskaitīta [[Dienviddavao]] provincei. Pēc platības (2 443,61 km²) lielākā pilsēta valstī, tomēr apmēram 50% pilsētas teritorijas aizņem meži, bet apbūve ir tikai 10% no teritorijas.
+
+Labā klimata dēļ (gada temperatūra svārstās 20—32 grādi) pilsētā un apkārtnē [[banāns|banānu]], [[ananass|ananasu]], [[kafija]]s plantācijas. Pati Davao kļūst par Filipīnu [[ārpakalpojumi|ārpakalpojumu]] centru un strauji attīstās.
+
+== Iedzīvotāji ==
+Pilsētā daudznacionāls iedzīvotāju sastāvs — lielākā daļa ir 20. gadsimtā ieceļojušie [[visaji]] (1 090 443; 61,6 %) un [[sebuāņi]] (144 724; 8,2 %),  kā arī autohtonie [[bagobo]] (51 174; 2,9 % — puse no kopējā bagobo skaita), un citas [[lumadi|lumadu]] tautas.<ref>[https://psa.gov.ph/system/files/phcd/Ethnicity_Statistical%20Table.xlsx Philippine Statistics Authority. Ethnicity Statistical tables]</ref> Pilsētā veidojas patstāvīga etniskā kopiena — davaveņi (72 571; 4,1 %), kas radusies vietējiem [[lumadi]]em un [[moro]] sajaucoties ar ieceļojušajiem [[visaji]]em; ikdienā lieto sebuāņu valodas davaveņu dialektu. Lielākā daļa iedzīvotāju pieder dažādām [[kristieši|kristiešu]] konfesijām ([[katoļi]] 77 %), bet ap 4 % (galvenokārt [[moro]]) ir [[musulmaņi]].
+
+== Vēsture ==
+Pilsēta dibināta 1848. gadā, kad [[Spānija|spānis]] Hosē Ujangurens (''Don Jose Uyanguren'') atkaroja piekrasti no [[moro]] vadoņa Datu Bago. Ujangurens kļuva par gubernatoru, tomēr apmetnes attīstība nenotika. 20. gadsimta sākumā [[Japāna|japāņu]] uzņēmējs Kičisaburo Ohta (''Kichisaburo Ohta'') saņēma atļauju attīstīt [[abaka]]s un [[kokosrieksts|kokosriekstu]] audzēšanu šajā apvidū. 1903. gadā ieradās pirmie japāņu kolonisti, izveidojot savu apmetni ar skolu, avīzēm, templi. Pilsētas teritorijā nodibinājās moderna saimniecība. 1937. gadā Davao tika piešķirtas pilsētas tiesības.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Davao reģions|state=expanded}}
+{{Filipīnu lielpilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Filipīnu pilsētas]]

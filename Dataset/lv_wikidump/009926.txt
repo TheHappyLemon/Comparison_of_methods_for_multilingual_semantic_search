@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Nirzas pagasts
+| karte             = Nirzas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Nirzas pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Nirzas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Ludzas novads
+| centrs            = Nirza
+| platība           = 92,11
+| iedzīvotāji       = 497<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 497 / 92.11 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Nirzas pagasts''' ir viena no [[Ludzas novads|Ludzas novada]] administratīvajām teritorijām tā austrumos. Robežojas ar sava novada [[Brigu pagasts|Briģu]], [[Isnaudas pagasts|Isnaudas]], [[Pildas pagasts|Pildas]], [[Rundēnu pagasts|Rundēnu]], [[Zaļesjes pagasts|Zaļesjes]] un [[Lauderu pagasts|Lauderu]] pagastiem.
+
+== Daba ==
+Atrodas [[Latgales augstiene]]s augstākajā daļā — [[Rāznavas pauguraine|Rāznavas paugurainē]]. Augstākā vieta — [[Mežmatveju kalns]] (233,8 m vjl.) — pagasta dienvidu daļā.
+
+=== Hidrogrāfija ===
+'''Upes:''' [[Diukšupeite]], [[Istalsna]] (līdz ietekai Istalsnas ezerā sauc par Ļadinu), [[Istra (upe)|Istra]], [[Leidiukšņa]]
+
+'''Ezeri:''' [[Nirzas ezers]] (552 ha), [[Sporna ezers]] (26,8 ha), [[Vorslovu ezers]] (6,7 ha)
+
+== Vēsture ==
+[[1920. gada zemes reforma]]s laikā Muržinavas muižu (''Murinowo'') sadalīja 4 vienībās 53 ha kopplatībā, Kaliešu muižu 3 vienībās 15 ha kopplatībā, bet valsts mežu 58 vienībās 658 ha kopplatībā.<ref>{{LKV|XV.|29 023}}</ref>
+
+1935. gadā [[Ludzas apriņķis|Ludzas apriņķa]] Nirzas pagasta platība bija 112 km² un tajā dzīvoja 1405 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Lūrupu ciems|Lūrupu]], Nirzas, [[Seiļu ciems|Seiļu]], [[Skriņu ciems|Skriņu]] un [[Timuļu ciems|Timuļu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Nirzas ciems''' ietilpis [[Zilupes rajons|Zilupes]] (1949-1959) un [[Ludzas rajons|Ludzas]] (pēc 1959. g.) rajonos. Nirzas ciemam 1954. gadā pievienoja likvidēto Timuļu ciemu, 1971. gadā - likvidētā [[Eglāju ciems (Ludzas rajons)|Eglāju ciema]] [[padomju saimniecība]]s «Nirza» teritoriju, 1975. gadā - daļu likvidētā Lūrupu ciema.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Nirzas pagastu kā administratīvo teritoriju iekļāva [[Ludzas novads|Ludzas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2343
+|1959|1612
+|1967|1500
+|1979|1411
+|1989|842
+|2000|711
+|2011|423
+|2021|304
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Nirza]] (pagasta centrs), [[Kušneri (Nirzas pagasts)|Kušneri]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Ludzas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Ludzas rajons}}
+{{Ludzas apriņķis}}
+}}
+
+[[Kategorija:Latgale]]
+[[Kategorija:Ludzas novada pagasti]]
+[[Kategorija:Nirzas pagasts| ]]

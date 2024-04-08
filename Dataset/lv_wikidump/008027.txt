@@ -1,0 +1,102 @@
+[[Attēls:Types of capacitor.svg|thumb|Kondensatora attēlojums elektriskajās shēmās. No kreisās puses uz labo: kondensators ar nemainīgu kapacitāti, polarizēts kondensators, [[maiņkondensators]]]]
+'''Kondensators''' (no {{val|la|condensare}} — 'sablīvēt') jeb, precīzāk, '''elektriskais kondensators''' ir ierīce [[elektriskais lauks|elektriskā lauka]] [[enerģija]]s uzkrāšanai — pasīvais elektronikas komponents ([[radiodetaļa]]) ar noteiktu [[elektriskā kapacitāte|elektriskās kapacitātes]] vērtību un lielu reaktīvo [[elektriskā pretestība|pretestību]]. Tam ir vismaz divi klājumi, kas izgatavoti no elektriskajiem vadītājiem. Klājumi atdalīti ar [[dielektriķis|dielektriķi]] (strāvu nevadošu vielu) un tiem pievienoti izvadi ieslēgšanai elektriskajā ķēdē.
+Jo lielāks ir klājumu laukums un jo tuvāk tie atrodas viens otram, jo lielāku [[elektriskais lādiņš|lādiņu]] iespējams uzkrāt kondensatorā, jeb, citiem vārdiem sakot, ir lielāka tā elektriskā kapacitāte.
+
+== Vēsture ==
+
+Pirmo kondensatoru 1745. gadā izgatavoja vācu fiziķis Evalds Jurgens fon Kleists un holandiešu fiziķis Pīters van Mušenbruks. Tā kā tas notika Leidenes pilsētā un izgatavotā ierīce sastāvēja no stikla trauka, kam iekšpusē un ārpusē bija folijas klājumi, to nosauca par "Leidenes trauku". Šo kondensatoru varēja uzlādēt ar [[elektrostatiskā mašīna|elektrostatisko mašīnu]] un tas spēja uzkrāt visai ievērojamu augstsprieguma lādiņu.
+[[Attēls:VEF_kondensators.jpg|thumb|300px|center|Latvijā ražots kondensators (20. gs. 30. gadi)]]
+
+== Kondensatora īpašības ==
+
+Kondensatora galvenā īpašība — tas vada tikai [[maiņstrāva|maiņstrāvu]], bet [[līdzstrāva]]i tas ir izolators. Tādēļ līdzstrāvas ķēdes shēmā, kurā ir kondensators, tā apzīmējums ir aizstājams ar pārrāvumu. Līdzstrāvu kondensators nevada tādēļ, ka tā klājumi ir atdalīti ar dielektriķi (ieslēdzot kondensatoru līdzstrāvas ķēdē, tajā īsu brīdi plūst tā saucamā uzlādes [[Elektriskā strāva|strāva]]). Savienojot uzlādēta kondensatora klājumus ar vadītāju, ķēdē plūst izlādes strāva (notiek kondensatora izlādēšanās). Šo strāvu stiprums un ilgums atkarīgs no kondensatora kapacitātes un ķēdes [[elektriskā pretestība|pretestības]].
+Savukārt maiņstrāvu kondensators spēj vadīt, jo notiek cikliska klājumu pārlādēšanās un elektriskajā ķēdē plūst strāva. Maiņstrāvas vadīšanas spēja ir atkarīga arī no strāvas [[frekvence]]s.
+
+=== Kapacitāte ===
+
+[[Elektriskā kapacitāte|Kapacitāte]] ir galvenais kondensatora raksturlielums. Kapacitātes mērvienība ir [[farads]]. Praksē lietojamo kondensatoru kapacitāte ir no dažiem pikofaradiem līdz desmitiem un simtiem tūkstošu mikrofaradu. Ir arī speciāli kondensatori ([[jonistors|jonistori]]) ar sevišķi lielu kapacitāti — desmitiem faradu.
+Lai iegūtu lielāku kapacitāti, var [[paralēlslēgums|saslēgt paralēli]] vairākus kondensatorus.
+Kapacitāte atkarīga ne tikai no klājumu izmēra un savstarpējā attāluma, bet arī no starpklājumu vides [[dielektriskā caurlaidība|dielektriskās caurlaidības]].
+Kondensatora kapacitātes attiecību pret tā masu vai tilpumu sauc par īpatnējo kapacitāti.
+[[Attēls:augstsprieguma_kondensators.jpg|thumb|150px|left|Augstsprieguma kondensators ar darba spriegumu 25 000 V]]
+
+=== Darba spriegums ===
+Kondensatora darba [[spriegums]] ir spriegums, pie kura kondensators spēj ilgstoši darboties, nemainot savas īpašības. Parasti darba spriegums samazinās, paaugstinoties [[temperatūra]]i.
+
+Uzlādējot kondensatoru ar pārāk liela sprieguma strāvu, var notikt dielektriķa caursišana — tad kondensators iziet no ierindas. Tādēļ augstsprieguma kondensatoros lieto biezāku dielektriķa slāni un šādiem kondensatoriem mēdz būt lielāki izmēri. Kondensatorus var [[virknes slēgums|saslēgt virknē]], lai iegūtu lielāku darba spriegumu.
+
+=== Temperatūras koeficients ===
+
+Kondensatora kapacitātes temperatūras koeficients raksturo kapacitātes atkarību no temperatūras. To izsaka kā kapacitātes izmaiņu, temperatūrai mainoties par 1 °C. Šis koeficients var būt kā negatīvs, tā pozitīvs. Tas ir svarīgs mazas kapacitātes kondensatoriem, ko lieto augstfrekvences ķēdēs. [[termokondensators|Termokondensatoriem]] ir sevišķi liels un precīzi normēts temperatūras koeficients.
+
+== Kondensatoru tipi ==
+[[Attēls:mazi_kondensatori.jpg|thumb|200px|Nelielas kapacitātes keramiskie cauruļveida kondensatori]]
+[[Attēls:Elektrolītiskie kondensatori.jpg|thumb|200px|Lielas kapacitātes elektrolītiskie kondensatori]]
+Kondensatorus klasificē galvenokārt pēc dielektriķa veida, jo no tā atkarīgi svarīgi kondensatora parametri.
+* Kondensatori ar gāzveida dielektriķi
+* Kondensatori ar cietu neorganisku dielektriķi
+** Stikla (stikla-emaljas, stikla-keramiskie) kondensatori
+** Vizlas kondensatori
+** Keramiskie kondensatori
+* Kondensatori ar cietu organisku dielektriķi
+** Papīra kondensatori
+** Metāla-papīra kondensatori
+** Plēves (polistirola, teflona, lavsāna u.c.) kondensatori
+** Kombinētie papīra-plēves kondensatori
+* Elektrolītiskie un oksīdu-pusvadītāju kondensatori (izceļas ar sevišķi lielu īpatnējo kapacitāti, mēdz būt polāri)
+
+Kondensatorus iedala arī pēc iespējas mainīt to kapacitāti:
+* pastāvīgajiem kondensatoriem kapacitāti mainīt nav paredzēts,
+* [[maiņkondensators|maiņkondensatoriem]] kapacitāte ir mehāniski maināma, tos bieži apvieno maiņkondensatoru blokos,
+* [[varikonds|varikondiem]] kapacitāti var mainīt ar elektrisko spriegumu,
+* [[termokondensators|termokondensatoriem]] kapacitāte mainās atkarībā no temperatūras,
+* pieskaņošanas kondensatoriem kapacitāti paredzēts mainīt nedaudzas reizes un nelielās robežās.
+
+Bez tam mūsdienās ir lietojami dažādi speciāli kondensatori.
+* Augstsprieguma kondensatori
+* Impulskondensatori
+* Atbalsta kondensatori
+* Caurejamie kondensatori
+
+=== Plakņu kondensatori ===
+[[Attēls:Plate CapacitorII.svg|thumb|Plakņu kondensatora attēlojums]]
+Vienkāršākais plakņu kondensators ir divas paralēlas vadītāja plaknes (klājumi), starp kurām ir dielektriķa starplika. Ja plaknes uzlādē ar pretēju zīmju [[Elektriskais lādiņš|lādiņiem]] <math>q^+=q^-</math>, tad plakņu [[Elektromagnētiskā lauka potenciāls|potenciālu]] starpību ([[Spriegums|spriegumu]]) <math>U_{12}</math>, kondensatora klājuma lādiņu <math>q^+</math> un tā [[Elektriskā kapacitāte|kapacitāti]] <math>C</math> saista sakarība <math>C=\frac{q^+}{U_{12}}</math>. Spriegums starp klājumiem <math>U_{12}=\frac{\sigma^+d}{\varepsilon}</math>, kur <math>\sigma^+</math> ir plaknes virsmas [[lādiņa blīvums]], <math>d</math> ir attālums starp plaknēm, <math>\varepsilon</math> ir dielektriķa absolūtā [[dielektriskā caurlaidība]]. Tā kā <math>\sigma^+=\frac{q^+}{S}</math>, kur <math>S</math> ir kondensatora klājuma [[laukums]], tad <math>C=\frac{\varepsilon S}{d}</math>. Ja plakņu kondensatoram ir vairāki klājumi un to skaits ir <math>2N</math> un tie pamīšus uzlādēti ar pretēju zīmju lādiņiem, tād kondensatora kapacitāte <math>C=\frac{\varepsilon SN}{d}</math>.
+
+=== Sfēriski un cilindriski kondensatori ===
+Sfērisku kondensatoru veido koncentriskas vadītāju [[Sfēra|sfēras]]. Ja kondensatoru veido divas sfēras, kuru rādiusi ir <math>r_1</math> un <math>r_2</math>, tā kapacitāte <math>C=\frac{\varepsilon r_1r_2}{r_2-r_1}</math>.
+
+Cilindrisku kondensatoru veido koncentriski vadītāju [[Cilindrs|cilindri]]. Ja kondensatoru veido divi cilindri, kuru rādiusi ir <math>r_1</math> un <math>r_2</math> un kuru augstums ir <math>l</math>, tā kapacitāte <math>C=\frac{\varepsilon l}{2\ln \frac{r_2}{r_1}}</math>. <ref name=":0">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=172.—176|last2=Kolangs|first2=I.|last3=Puķītis|first3=P.|last4=Šilters|first4=E.}}</ref>
+
+== Uzlādēta kondensatora elektriskā lauka enerģija ==
+Uzlādēta kondensatora katrs klājums atrodas cita klājuma [[Elektriskais lauks|elektriskajā laukā]]. Ja kondensatora klājuma virsmas punktos elektriskā lauka [[Elektromagnētiskā lauka potenciāls|potenciāls]] <math>\varphi</math> un klājuma [[Elektriskais lādiņš|lādiņš]] <math>q</math>, tad kājuma [[potenciālā enerģija]] <math>W=q\varphi</math>. Kondensatoram ar kapacitāti <math>C</math> potenciālo enerģiju aprēķina šādi: <math>W=\frac{q^2}{2C}</math>. Tā kā spriegums starp klājumiem <math>U_{12}=\frac{q}{C}</math>, potenciālo enerģiju var aprēķināt šādi: <math>W=\frac{CU_{12}^2}{2}</math>. 
+
+<math>W</math> ir kondensatorā uzkrāta elektriskā lauka enerģija, kondensatoru izlādējot to var pērvērst citos [[Enerģija|enerģijas]] veidos. <ref name=":0" />
+
+== Kondensatoru slēgumi ==
+Kondensatoru baterijas ir vairāku kondensatoru paralēls, virknes vai jaukts slēgums.
+
+* [[Attēls:Kondensator C1 plus C2.PNG|thumb|Divu kondensatoru paralēlslēguma attēlojums]]Saslēdzot divus kondensatorus paralēli, savienoto klājumu potenciāli izlīdzinās un spriegums starp abu kondensatoru klājumiem ir vienāds. Paralēlslēguma kapacitāte <math>C=\frac{q_1+q_2}{U_{12}}</math>. <math>N</math> paralēli savienotu kondensatoru kapacitāte <math>C=C_1+C_2+...+C_N</math>.
+* [[Attēls:Kondensator C1 C2 Reihe.PNG|thumb|Divu kondensatoru virknes slēgums]]Saslēdzot divus kondensatorus virknē, spriegumu starp kondensatoru klājumiem summējas <math>U_{13}=U_{12}+U_{23}</math> un abu savstarpēji savienoto kondensatoru klājumu lādiņu [[Absolūtā vērtība|absolūtās vērtības]] ir vienādas. <math>U_{12}=\frac{q}{C_1}</math>, <math>U_{23}=\frac{q}{C_2}</math>, <math>U_{13}=\frac{q}{C}</math>, kur <math>C</math> ir kondensatoru sistēmas kopējā kapacitāte. <math>N</math> virknē savienotu kondensatoru kapacitāte <math>\frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}+...+\frac{1}{C_N}</math>.
+* Kondensatoru jauktajam slēgumam kapacitāti nosaka, atsevišķi aprēķinot paralēli savienoto un virknē savienoto kondensatoru kapacitātes un pakāpeniski vienkāršojot jauktā slēguma shēmu. <ref name=":0" />
+
+== Kondensators maiņstrāvas ķēdē ==
+Pieslēdzot kondensatoru maiņspriegumam, kondensators tiek pārmaiņus uzlādēts un izlādēts, un ķēdē plūst maiņstrāva. Ja kondensators, kura kapacitāte ir '''C''' pieslēgts sinusoidālam maiņspriegumam, tad jebkurā laika momentā ir spēkā sakarība '''U=q/C'''.<br /> Sakarība starp strāvas un sprieguma amplitūdām '''I<sub>m</sub>=ωCU<sub>m</sub>''' ir [[Oma likums]] maiņstrāvas ķēdei, kurā ir tikai kondensators ('''ω''' — [[leņķiskā frekvence]], [[radiāns|rad]]/[[sekunde|sek]]) . Pēc šī likuma kondensatora [[pretestība]] maiņstrāvai ir šāda:
+: <math>~X_C = -\frac{1}{\omega C}</math>, kur <math>~~\omega = {2\pi f}.</math>
+Pretestību '''X<sub>c</sub>''' sauc par '''reaktīvo kapacitīvo pretestību'''. <br />Ja '''C''' mēra [[farads|farados]], '''f''' [[hercs|hercos]], tad '''X<sub>c</sub>''' ir izteikts [[oms|omos]]. Pēc sprieguma un strāvas vienādojumiem redzams, ka maiņstrāvas ķēdē, kurā ir tikai kondensators, strāva apsteidz spriegumu fāzē par 90°. Šādu strāvu sauc par '''reaktīvo kapacitīvo strāvu'''.
+
+== Kondensatoru praktiskā pielietošana ==
+Kondensatorus plaši izmanto gandrīz visās [[elektrotehnika]]s un [[elektronika]]s jomās. Kopā ar [[rezistors|rezistoriem]] un [[induktivitātes spole|induktivitātes spolēm]] tos izmanto tādu elektrisko ķēžu un shēmu veidošanai, kuru īpašības ir atkarīgas no [[frekvence]]s ([[svārstību kontūrs|svārstību kontūri]], [[filtrs (elektronika)|filtri]], [[atgriezeniskā saite|atgriezenisko saišu]] ķēdes). Izlādējoties lielas kapacitātes augstsprieguma kondensatoriem, var iegūt lieljaudas elektriskos impulsus (piemēram, [[zibspuldze|zibspuldzēs]], dažos [[lāzers|lāzeru]] veidos u.c.). Izmantojot kondensatorus, var novērst nevēlamas līdzstrāvas pulsācijas, uzkrāt enerģiju un ātri to vajadzības gadījumā atdot. Mikroskopiskus kondensatorus izmanto kā [[elektroniskā atmiņa|elektroniskās atmiņas]] elementus.
+Rūpnieciskajā elektrotehnikā kondensatorus izmanto [[reaktīvā jauda|reaktīvās jaudas]] kompensēšanai.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20070212015528/http://www.datuve.lv/raksts/1445/Elektronika:_kondensatori/ Kondensatori]
+{{Elektroniskie komponenti|state=expanded}}
+{{autoritatīvā vadība}}
+
+== Atsauces ==
+
+{{atsauces}}
+[[Kategorija:Elektronikas komponentes]]
+[[Kategorija:Enerģijas uzglabāšana]]

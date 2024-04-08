@@ -1,0 +1,17 @@
+'''Kušanas temperatūra''' ir [[temperatūra]], kurā [[viela]] kūst (paaugstinot temperatūru) vai kristalizējas (pazeminot temperatūru). Tīrām, kristāliskām vielām kušanas temperatūra parasti ir konstants lielums. [[Amorfa viela|Amorfās vielas]] ([[piķis]], [[stikls]]) kūst un sacietē temperatūru intervālā (tām nav vienas noteiktas kušanas temperatūras). Kristāliskai vielai kušanas temperatūrā pastāv līdzsvars starp cieto un šķidro fāzi. 
+
+[[Siltums|Siltuma]] pievadīšana palielina [[šķidrums|šķidrās]] fāzes īpatsvaru (viela kūst), bet siltuma aizvadīšana — [[cietviela|cietās]] fāzes īpatsvaru (viela kristalizējas), turklāt kušanā vai kristalizēšanā temperatūra paliek nemainīga, jo pievadītais vai aizvadītais siltums tiek izmantots fāzu līdzsvara nobīdīšanai. Kušanas temperatūra ir atkarīga no [[spiediens|spiediena]], taču lielākajai daļai vielu zemā spiedienā (līdz vairākiem MPa) tā ietekme ir nenozīmīga, jo kušanā [[tilpums]] mainās maz.
+
+Materiāls ar visaugstāko zināmo  kušanas temperatūru atmosfēras spiedienā ir [[hafnija karbonitrīds]] (HfCN), kas kūst vairāk nekā 4000 °C temperatūrā.<ref name="Hongvan de Walle2015">{{cite journal|last1=Hong|first1=Qi-Jun|last2=van de Walle|first2=Axel|year=2015|title=Prediction of the material with highest known melting point from ab initio molecular dynamics calculations|journal=Physical Review B|volume=92|issue=2|page=020104|doi=10.1103/PhysRevB.92.020104|bibcode=2015PhRvB..92b0104H|issn=1098-0121|doi-access=free}}</ref> Savukārt viszemākā kušanas temperatūra ir [[hēlijs|hēlijam]] — atmosfēras spiedienā tas nesasalst pat [[absolūtā nulle|absolūtās nulles]] tuvumā.
+
+== Skatīt arī ==
+* [[Fāžu stāvokļa diagramma]]
+* [[Fāžu likums]]
+* [[Viršanas temperatūra]]
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Fizikālās īpašības]]
+[[Kategorija:Fizikāli lielumi]]
+[[Kategorija:Temperatūra]]

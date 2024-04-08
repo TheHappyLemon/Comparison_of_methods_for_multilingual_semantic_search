@@ -1,0 +1,111 @@
+{{Administratīvā iedalījuma vienības infokaste
+|name = Kalugas apgabals
+|official_name=''Калужская область''
+|settlement_type=[[Krievijas administratīvais iedalījums|republika]]
+|image_skyline = Protva south of highway 01.jpg
+|image_caption = [[Protva]]s upe pie [[Borovska]]s
+|image_flag = Flag of Kaluga Oblast.svg
+|image_shield = Coat of arms of Kaluga Oblast.svg
+|shield_size = 70px
+|image_map = Kaluga in Russia.svg
+|map_caption = Novietojums Krievijā
+|image_map1 = 
+|map_caption1 = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Centrālais federālais apgabals]]
+|seat_type=Centrs
+|seat = [[Kaluga]]
+| established_title        = Dibināts
+| established_date         = 1944
+|official_language = [[krievu valoda]]
+|parts_type = Administratīvais iedalījums
+|parts=26
+|p1 = '''2 apgabala pilsētas'''
+|p2 = [[Kaluga]]
+|p3 = [[Obņinska]]
+|p4 = '''24 rajoni'''
+|p5 = [[Babiņinas rajons]]
+|p6 = [[Barjatinas rajons]]
+|p7 = [[Borovskas rajons]]
+|p8 = [[Dzeržinska rajons]]
+|p9 = [[Dumiņiču rajons]]
+|p10 = [[Žizdras rajons]]
+|p11 = [[Žukovas rajons]]
+|p12 = [[Iznosku rajons]]
+|p13 = [[Kirovas rajons]]
+|p14 = [[Kozeļskas rajons]]
+|p15 = [[Kuibiševa rajons]]
+|p16 = [[Ļudinovas rajons]]
+|p17 = [[Malojaroslavecas rajons]]
+|p18 = [[Mediņas rajons]]
+|p19 = [[Meščovskas rajons]]
+|p20 = [[Mosaļskas rajons]]
+|p21 = [[Peremišļas rajons]]
+|p22 = [[Spasdemenskas rajons]]
+|p23 = [[Suhiņiču rajons]]
+|p24 = [[Tarusas rajons]]
+|p25 = [[Uļjanovas rajons]]
+|p26 = [[Ferzikovas rajons]]
+|p27 = [[Hvastoviču rajons]]
+|p28 = [[Juhnovas rajons]]
+|area_total_km2 = 29777
+|total_type=Kopā
+|population_total = 1070264
+|population_as_of = 2023
+|population_blank02_title = Etniskais sastāvs
+|population_blank02 = [[krievi]] (90,3 %)<br/>[[tadžiki]] (1,9%)
+| population_density_km2   = auto
+|website={{url|https://kbr.ru/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = RU-KLU
+|footnotes = 
+}}
+
+'''Kalugas apgabals''' ({{val|ru|Калужская область}}) ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Brjanskas apgabals|Brjanskas apgabalu]] rietumos, [[Smoļenskas apgabals|Smoļenskas apgabalu]] ziemeļos, [[Maskavas apgabals|Maskavas apgabalu]] austrumos, [[Tulas apgabals|Tulas]] un [[Orlas apgabals|Orlas]] apgabaliem dienvidos.
+
+== Pilsētas ==
+
+=== Karte ===
+{{VietasKarte+|Kalugas apgabals|width=400 |float=center|caption = Kalugas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Kalugas apgabals|lat=54.533333|long=36.266667|position = top |label='''[[Kaluga]]'''}}
+{{VietasKarte~|Kalugas apgabals|lat=55.183333|long=36.65|position = right |label=[[Balabanova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55.091667|long=36.666667|position = right |label=[[Belousova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55.2|long=36.483333|position = left |label=[[Borovska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55.205556|long=36.57|position = top |label=[[Jermoļina]]}}
+{{VietasKarte~|Kalugas apgabals|lat=53.750278|long=34.736111|position = top |label=[[Žizdra]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55.033333|long=36.75|position = right |label=[[Žukova (Kalugas apgabals)|Žukova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.083333|long=34.3|position = top |label=[[Kirova (Kalugas apgabals)|Kirova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.033333|long=35.783333|position = bottom |label=[[Kozeļska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.8|long=35.933333|position = top |label=[[Kondrova (pilsēta)|Kondrova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.889167|long=37.123333|position = left |label=[[Kremjonki]]}}
+{{VietasKarte~|Kalugas apgabals|lat=53.866667|long=34.466667|position = top |label=[[Ļudinova]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55|long=36.466667|position = bottom |label=[[Malojaroslaveca]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.966667|long=35.866667|position = top |label=[[Mediņa]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.316667|long=35.283333|position = top |label=[[Meščovska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.483333|long=34.983333|position = top |label=[[Mosaļska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=55.1|long=36.616667|position = left |label=[[Obņinska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.05|long=35.966667|position = top |label=[[Sosenska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.416667|long=34.033333|position = top |label=[[Spasdemenska]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.1|long=35.35|position = top |label=[[Suhiņiči]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.716667|long=37.183333|position = left |label=[[Tarusa]]}}
+{{VietasKarte~|Kalugas apgabals|lat=54.75|long=35.233333|position = top |label=[[Juhnova]]}}
+}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Centrālais federālais apgabals}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Kalugas apgabals| ]]

@@ -1,0 +1,35 @@
+{{Jūras infokaste
+|jūra          = Savu jūra
+|attēls        = SavuJura.JPG
+|attēls_izm    = 300
+ |vietaskarte  = Indonēzija
+ |latd = 9 |latm = 40 |lats =  |latNS = S
+ |longd = 122 |longm = 20 |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |alt_karte    = Indonesia relief location map.jpg
+| okeāns       = Klusais okeāns
+|platība       = 35 000
+|garums        = 650
+|platums       = 200
+|Max_dziļums   = 3475
+|Vid_dziļums   = 1683
+|sāļums        = 34
+|temperatūra   = 26—28
+|valstis       = {{IDN}}<br />{{TLS}}
+|pilsētas      = [[Dili]]<br />[[Kupanga]]<br />[[Floresa (pilsēta)|Floresa]]
+}}
+'''Savu jūra''' ({{val|id|Laut Sawu}}, {{val|pt|Mar de Savu}}) ir [[Klusais okeāns|Klusajam okeānam]] piederīga [[jūra]] [[Indonēzija]]s dienvidu daļā.
+
+Ziemeļos norobežo [[Mazās Zunda salas]], kurās ir aktīvs [[vulkānisms]]. Ūdens virsējā slāņa temperatūra — 26—28&nbsp;°C, sāļums — 34‰. Savu jūras Timoras piekraste ir nozīmīga [[Delfīni|delfīnu]] un sešu sugu [[vaļi|vaļu]] vairošanās un mazuļu audzināšanas vieta. Tā kā timorieši vaļus nekad nav medījuši, dzīvnieki šeit jūtas droši un Savu jūra tāpēc ir lieliska vieta vaļu vērošanai.
+
+== Robežas ==
+Ziemeļos — [[Floresa]], [[Lomblena]], [[Pantara]], [[Aloras salas]], [[Vetara]], [[Floresas jūra]] un [[Bandas jūra]], austrumos — 30 km platais [[Ombai šaurums]], dienvidaustrumos — [[Timora]], dienvidos — [[Savu salas]], [[Roti]] sala un [[Indijas okeāns]], rietumos — [[Sumba]]s sala un [[Sumbas šaurums]].
+
+{{Klusā okeāna jūras}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Klusais okeāns]]
+[[Kategorija:Jūras]]
+[[Kategorija:Indonēzijas jūras]]
+[[Kategorija:Austrumtimoras jūras]]

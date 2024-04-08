@@ -1,0 +1,99 @@
+{{Hokejista infokaste v2
+ |           vārds = Pāvels Burē
+ |      vārds_orig = ''Павел Буре''
+ |          attēls = Pavel Bure in Canucks uniform.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1971|3|31}}
+ |         dz_viet = {{Vieta|PSRS|Maskava}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          garums = 178 [[centimetrs|cm]]
+ |           svars = 85 [[kilograms|kg]]
+ |         iesauka = 
+ |             poz = [[Uzbrucējs (hokejs)|Labās malas uzbrucējs]]
+ |        tvēriens = Kreisais
+ |         kar_sāk = 1987
+ |        kar_beig = 2003
+ |       izglītība = 
+<!------ Kluba informācija ------>
+ |             kom = 
+ |          numurs = 
+ |           amats = 
+ |            līga = 
+<!------ Drafts ------>
+ |          drafts = 113., 6. kārtā
+ |         dr_gads = [[1989. gada NHL drafts|1989]]
+ |         dr_līga = NHL
+ |          dr_kom = [[Vankūveras "Canucks"]]
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 1990—1991
+ |          taut 1 = {{ih|URS}}
+ |      taut_sez 2 = 1998—2002
+ |          taut 2 = {{ih|RUS}}
+<!------ Papildinformācija ------>
+ |            balv = 
+*[[Morisa Rišāra balva]] — 1994, 2000, 2001
+*[[Kaldera balva]] — 1992
+*[[NHL simboliskā izlase]] — 1994
+*[[NHL Zvaigžņu spēle]] — 1993, 1994, 1997, 1998, 2000, 2001
+*[[Hokejs olimpiskajās spēlēs|OS]] labākais uzbrucējs — [[Hokejs 1998. gada ziemas olimpiskajās spēlēs|1998]]
+*[[PSRS hokeja līga]]s labākais debitants — 1989
+ |           slavz = [[Hokeja slavas zāle]] (2013)
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = {{dat|2019|2|27||bez}}
+<!------ Medaļas ------>
+ |   rādīt_medaļas = jā
+ |     headercolor = 
+ |  medaltemplates = 
+{{MedalCountry|{{karogs|PSRS}}}}
+{{MedalCompetition|[[Pasaules čempionāts hokejā|Pasaules čempionāts]]}}
+{{MedalGold2|[[1990. gada Pasaules čempionāts hokejā|Šveice 1990]]}}
+{{MedalBronze2|[[1991. gada Pasaules čempionāts hokejā|Somija 1991]]}}
+{{MedalCountry|{{karogs|Krievija}}}}
+{{MedalCompetition|[[hokejs olimpiskajās spēlēs|Olimpiskās spēles]]}}
+{{MedalSilver2|[[Hokejs 1998. gada ziemas olimpiskajās spēlēs|Nagano 1998]]}}
+{{MedalBronze2|[[Hokejs 2002. gada ziemas olimpiskajās spēlēs|Soltleiksitija 2002]]}}
+}}
+'''Pāvels Burē''' ({{val|ru|Павел Владимирович Буре}}, dzimis 1971. gada 31. martā, [[Maskava|Maskavā]], [[Krievija|Krievijā]]) ir bijušais krievu [[hokejs|hokejists]], uzbrucējs. Karjeras laikā 13 sezonas aizvadījis pasaules spēcīgākajā hokeja līgā [[Nacionālā hokeja līga|NHL]], kur spēlēja trīs klubos — [[Vankūveras "Canucks"]], [[Floridas "Panthers"]] un [[Ņujorkas "Rangers"]], kopā aizvadot 702 spēles, gūstot 437 [[vārti (hokejā)|vārtus]].
+
+Viņa tēvs [[Vladimirs Burē]] kā peldētājs piedalījies trijās Olimpiskajās spēlēs, bet viņa jaunākais brālis [[Valērijs Burē]] arī bija hokejists.
+
+== Spēlētāja karjera ==
+
+[[Krievijas hokeja izlase]]s sastāvā piedalījies 1998. un 2002. gada [[ziemas olimpiskās spēles|Olimpiskajās spēlēs]], 2002. gadā izcīnot bronzas medaļu.
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+
+{{OS laureāts-aizmetnis}}
+{{Krievijas hokejists-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Burē, Pāvels}}
+[[Kategorija:Krievijas hokejisti]]
+[[Kategorija:1971. gadā dzimušie]]
+[[Kategorija:Maskavas CSKA spēlētāji]]
+[[Kategorija:Vankūveras "Canucks" spēlētāji]]
+[[Kategorija:Floridas "Panthers" spēlētāji]]
+[[Kategorija:Ņujorkas "Rangers" spēlētāji]]
+[[Kategorija:Hokejisti 1998. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokejisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Olimpiskās sudraba medaļas ieguvēji]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Maskavas "Spartak" spēlētāji]]
+[[Kategorija:Krievijas Nopelniem bagātie sporta meistari]]
+[[Kategorija:Ar Goda ordeni apbalvotie]]
+[[Kategorija:PSRS Nopelniem bagātie sporta meistari]]
+[[Kategorija:IIHF slavas zālē uzņemtie]]
+[[Kategorija:Hokeja slavas zālē uzņemtie]]
+[[Kategorija:PSRS hokejisti]]
+[[Kategorija:1998. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:2002. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:Olimpiskie sudraba medaļnieki hokejā]]
+[[Kategorija:Olimpiskie bronzas medaļnieki hokejā]]

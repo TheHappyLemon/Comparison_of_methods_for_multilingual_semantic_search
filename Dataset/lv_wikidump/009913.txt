@@ -1,0 +1,106 @@
+{{Latvijas novada infokaste
+| nosaukums         = Mētrienas pagasts
+| karte             = Mētriena Parish (LocMap).png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Mētrienas pagasts COA.png
+| ģerboņa_nosaukums = Mētrienas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Madonas novads
+| centrs            = Mētriena
+| platība           = 140,25
+| iedzīvotāji       = 738<ref>[http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf Latvijas iedzivotaju skaits pašvaldibas]. Pilsonības un migrācijas lietu pārvalde.</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 738 / 140.25 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Mētrienas pagasts''' ir viena no [[Madonas novads|Madonas novada]] administratīvajām teritorijām tā dienvidos. Robežojas ar sava novada [[Ļaudonas pagasts|Ļaudonas]], [[Praulienas pagasts|Praulienas]] un [[Barkavas pagasts|Barkavas]] pagastiem, [[Varakļānu novads|Varakļānu novada]] [[Murmastienes pagasts|Murmastienes pagastu]], kā arī [[Jēkabpils novads|Jēkabpils novada]] [[Atašienes pagasts|Atašienes]] un [[Mežāres pagasts|Mežāres]] pagastiem.
+
+Mētrienas pagasta kopējā platība ir 14025,2 ha, pagasta centrs ir Mētrienas ciems. Mētrienas  pagasts  atrodas  Madonas  rajona  dienvidaustrumu  daļā,  robežojoties  ar  četriem Madonas rajona pagastiem — Barkavas, Murmastienes, Ļaudonas un Praulienas pagastiem un diviem Jēkabpils rajona pagastiem — Mežāres un Atašienes. Attālums no Mētrienas ciema līdz Madonas rajona centram — Madonai — ir 24 km, līdz Rīgai — 185 km.
+
+== Daba ==
+Atrodas [[Austrumlatvijas zemiene]]s [[Jersikas līdzenums|Jersikas līdzenumā]]. Augstākā vieta dienvidrietumos no [[Ozolkalns (Mētrienas pagasts)|Ozolkalna]] (125,0 m vjl). Reljefs lēzeni viļņots (100—110 m vjl.). <!-- Augstākais paugurs atrodas pagasta dienvidrietumu stūrī, tā augstums ir 120,1 metri virs jūras līmeņa. --> Pa pagasta ziemeļu robežu tek [[Aiviekste]], uzņemot [[Zošupe|Zošupi]], [[Joša|Jošu]], [[Odaža|Odažu]], bet pa austrumu robežu — Aiviekstes pieteka [[Isliena]]. Ezeri atrodas galvenokārt pagasta dienvidu daļā. Dienvidaustrumu malā atrodas daļa no [[Teiču purvs|Teiču purva]] (Kurtavas purvs). Austrumu malā atrodas augstais Ozolsalas purvs.
+Aptuveni 43% pagasta teritorijas aizņem meži.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Aiviekste]] lielākā Daugavas pieteka Latvijas teritorijā, Madonas rajonā. Garums ir 114 km, baseina platība 9160 km². Aiviekste iztek no Lubānas ezera. Upes gada notece ir 1,841 km³, kritums ir 23 metri — 0,2 m/km. Aiviekste ir robežupe starp Mētrienas un Praulienas pagastiem. Lielākās pietekas Aiviekstei ir Pededze, Balupe, Liede, Kuja, Iča un citas upes. Upei ir publisko ūdeņu statuss
+** [[Isliena]] 25 km gara robežupe starp Mētrienas un Barkavas pagastiem
+** [[Joša]] Aiviekstes pieteka, kas iztek no Runcu ezera. Upe ir 13 km gara
+** [[Odaža]] Aiviekstes pieteka. Upe ir 4 km gara.
+** [[Talicka]]
+** [[Zušupe]]
+* [[Ūdze (upe)|Ūdze (Odze)]] Neretas labā krasta pieteka Madonas un Jēkabpils rajonos. Garums ir 29 km, baseina laukums — 187 km². iztek no Odzienas ezera. Upe visā garumā regulēta. Upes gada notece ir 0,041 km³, kritums ir 20 metri — 0,8 m/km. Lielākās pietekas ir Apozole, Dēmenīša.
+** [[Dēmenīša]] Odzes pieteka, 6 km gara. Upe iztek no Kutavas ezera.
+
+==== Ezeri ====
+* [[Kurtavas ezers]] ezers atrodas Teiču purva malā. Platība ir 74 hektāri, garums — 1,2 km, lielākais platums — 0,8 km. Ezera vidējais dziļums ir 0,8 metri, lielākais dziļums — 1,2 metri. Ezerā ietek vairāki grāvji, iztek Dēmenīša. Ovāla, sekla ezerdobe, krasti zemi, izskaloti, kūdraini. Ezera dibenā biezs [[kūdra]]s slānis. Kurtavas ezers ir distrofs ezers. Ezerā ir sastopamas [[raudas]], [[līdakas]], [[līņi]], [[asaris|asari]], [[plauži]], [[karūsas]]; visbiežāk sastopamā zivs ir rauda.
+* [[Odzienas ezers]] atrodas pie Madonas — Atašienes ceļa. Platība ir 47,6 ha, garums — 1,1 km, lielākais platums — 0,5 km, vidējais ezera dziļums ir 1,8 metri, lielākais dziļums — 3,3 metri. Baseina platība — 7,1 km². Ovāla ezerdobe, piekraste ir zema, aizaugusi, tālāk slīps pacēlums. Ezera dibens ir līdzens, pie krastiem smilšains, vidū dūņains. [[Eitrofikācija|Eitrofs]] ezers. No Odzienas ezera iztek Odze, ietek divi strauti. Publiskais ezers. Ezerā mīt dažādas zivis — plauži, karūsas, līdakas, asari un līņi. Visbiežāk sastopamā zivs ir rauda.
+* [[Islienas ezers]]
+* [[Sildu ezers]] atrodas Teiču purva ziemeļrietumu daļā. Ezera platība — 7,7 ha. Ezera dibens lielākoties kūdrains, vietām dūņains. Ezera lielākais dziļums — 2,7 metri. Hidroloģiskais režīms — noteces.
+* [[Dzērvītes ezers]] ezera laukums ir 3,4 ha. Ezera vidējais dziļums — 2 metri, vidējais dziļums — 2,6 metri. Hidroloģiskais režīms — noteces
+* [[Limenu ezers]] ezera laukums 3,9 ha, lielākais dziļums ir 7 metri. Hidroloģiskais režīms — noteces.
+* [[Runcu ezers]] atrodas netālu no Mētrienas ciema. Ezera platība — 4,1 ha. Ezera maksimālais dziļums ir 0,8 metri. Ezers ir stipri aizaudzis. No ezera iztek Jošas upe
+
+==== Purvi ====
+* [[Kurtavas purvs]] (daļa no [[Teiču purvs|Teiču purva]], kura kopplatība 19 587 ha)
+* [[Ozolsalas purvs]] (554 ha)
+
+== Vēsture ==
+Līdz 1925. gadam Mētrienas pagasts tika saukts par '''Ļaudonas-Odzienas pagastu''' ({{val|de|Laudon-Odsen}}, {{val|ru|Ляудон-Одзенская}}). 1935. gadā [[Madonas apriņķis|Madonas apriņķa]] Mētrienas pagasta platība bija 129,31 km² un tajā dzīvoja 1790 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Mētrienas un Pamatu [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. Mētrienas ciems ietilpis [[Krustpils rajons|Krustpils]] (1949-1962) un [[Madonas rajons|Madonas]] (pēc 1962. gada) rajonos. Madonas rajona '''Pamatu ciemam''' 1961. gadā pievienoja [[Saikavas ciems|Saikavas ciema]] [[kolhozs|kolhoza]] «Līdums» teritoriju. 1964. gadā likvidēja Mētrienas ciemu, teritoriju pievienojot Pamatu, [[Ļaudonas ciems|Ļaudonas]] (kolhoza «Ļaudona» teritoriju) un [[Mežāres pagasts|Mežāres]] ([[padomju saimniecība]]s «Mežāre» teritoriju) ciemiem. 1977. gadā Pamatu ciemam pievienoja daļu Ļaudonas ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā Pamatu ciemu reorganizēja par '''Pamatu pagastu''' un tajā pašā gadā pārdēvēja par '''Mētrienas pagastu'''. 2009. gadā Mētrienas pagastu kā administratīvo teritoriju iekļāva [[Madonas novads|Madonas novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Mētriena]] (pagasta centrs), [[Dēgļi]], [[Āriņi (Mētrienas pagasts)|Āriņi]], [[Ozolkalns (Mētrienas pagasts)|Ozolkalns]], [[Dūkstupi]], [[Rāksala]].
+
+== Saimniecība ==
+=== Zemju iedalījums ===
+Zemes sadalījums pa nekustamā īpašuma lietošanas mērķu grupām Mētrienas pagastā ir šāds:
+* Lauksaimniecība — 8812,0 ha;
+* Mežsaimniecība — 2275,7 ha;
+* Ūdenssaimniecība — 76,0 ha;
+* Vienģimeņu un divģimeņu dzīvojamo māju apbūve — 24,1 ha;
+* Daudzdzīvokļu māju apbūve — 9,5 ha;
+* Darījumu iestāžu un komerciāla rakstura apbūve — 2,8 ha;
+* Sabiedriskas nozīmes objekti — 2695,5 ha;
+* Rūpniecības objekti — 2,0 ha;
+* Satiksmes infrastruktūras objekti — 125,4 ha;
+* Inženiertehniskās apgādes tīkli un objekti — 1,2 ha;
+* Pārējie objekti — 1,0 ha.
+* Lauksaimniecībā izmantojamās zemes — 5433,3 ha
+* Meži — 5965,6 ha
+* Krūmāji — 214,0 ha
+* Purvi — 1511,4 ha
+* Zeme zem ūdeņiem — 337,2 ha
+* Zeme zem ēkām un pagalmiem — 111,2 ha
+* Ceļi — 181,6 ha
+* Pārējās zemes — 270,9 ha
+* Kopā — 14025,2 ha
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Madonas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Madonas rajons}}
+}}
+
+{{DEFAULTSORT:Metrienas pagasts}}
+[[Kategorija:Cēsu apriņķis]]
+[[Kategorija:Vidzeme]]
+[[Kategorija:Madonas novada pagasti]]
+[[Kategorija:Mētrienas pagasts| ]]

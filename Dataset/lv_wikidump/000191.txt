@@ -1,0 +1,21 @@
+'''Gaismas gads''' ir garuma mērvienība [[astronomija|astronomijā]]. Tas ir attālums, ko [[gaisma]] veic viena [[Jūlija gads (astronomija)|Jūlija gada]] laikā<ref>[http://www.iau.org/public_press/themes/measuring/ Starptautiskā Astronomiskā apvienība. Astronomiskās mērvienības]</ref>. To apzīmē ar ''ly'' (no vārdiem ''light year'').
+
+== Lielums ==
+* 1 ly = 9 460 730 472 580 800 [[metrs|m]] ≈ 9,46&nbsp;×&nbsp;10<sup>12</sup> [[kilometrs|km]] ≈ 63241 [[Astronomiskā vienība|AU]] ≈ 0,3066 [[parseks|pc]]
+
+Tas ir attālums, ko veiktu [[fotons]] [[vakuums|vakuumā]] bezgalīgi tālu no jebkādiem gravitācijas un magnētiskajiem laukiem vienā 365,25 dienu garā [[gads|gadā]].
+
+Gaismas gadu bieži lieto, lai raksturotu attālumus starp [[zvaigzne|zvaigznēm]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{astronomija-aizmetnis}}
+{{Garuma mērvienības}}
+[[Kategorija:Garuma mērvienības]]
+[[Kategorija:Astronomiskās mērvienības]]

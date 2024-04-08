@@ -1,0 +1,102 @@
+{{Administratīvā iedalījuma vienības infokaste
+|name = Kostromas apgabals
+|official_name=''Костромская область''
+|settlement_type=[[Krievijas administratīvais iedalījums|apgabals]]
+|image_skyline = Граница Костромской и Нижегородской областей - panoramio.jpg
+|image_caption = Kostromas un Ņīžņijnovgorodas apgabalu robeža
+|image_flag = Flag of Kostroma Oblast.svg
+|image_shield = Coat of arms of Kostroma Oblast.svg
+|shield_size = 70px
+|image_map = Kostroma in Russia.svg
+|map_caption = Novietojums Krievijā
+|image_map1 = 
+|map_caption1 = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Centrālais federālais apgabals]]
+|seat_type=Centrs
+|seat = [[Kostroma]]
+| established_title        = Dibināts
+| established_date         = 1944
+|official_language = [[krievu valoda]]
+|parts_type = Administratīvais iedalījums
+|parts=32
+|p1 = '''8 apgabala pilsētas'''
+|p2 = [[Buja]]
+|p3 = [[Volgorečenska]]
+|p4 = [[Gaļiča]]
+|p5 = [[Kostroma]]
+|p6 = [[Manturova]]
+|p7 = [[Ņeja]]
+|p8 = [[Ņerehta]]
+|p9 = [[Šarja]]
+|p10 = '''10 rajoni'''
+|p11 = [[Antropovas rajons]]
+|p12 = [[Bujas rajons]]
+|p13 = [[Vohmas rajons]]
+|p14 = [[Gaļičas rajons]]
+|p15 = [[Kadijas rajons]]
+|p16 = [[Kologrivas rajons]]
+|p17 = [[Krasnoseļskas rajons]]
+|p18 = [[Makarjevas rajons]]
+|p19 = [[Manturovas rajons]]
+|p20 = [[Mežas rajons]]
+|p21 = [[Ņejas rajons]]
+|p22 = [[Ņerehtas rajons]]
+|p23 = [[Oktobra rajons (Kostromas apgabals)|Oktobra rajons]]
+|p24 = [[Ostrovskas rajons]]
+|p25 = [[Pavinas rajons]]
+|p26 = [[Parfeņjevas rajons]]
+|p27 = [[Ponazirevas rajons]]
+|p28 = [[Piščugas rajons]]
+|p29 = [[Soļigaļičas rajons]]
+|p30 = [[Sudislavļas rajons]]
+|p31 = [[Susaņinas rajons]]
+|p32 = [[Čuhlomas rajons]]
+|p33 = [[Šarjas rajons]]
+|area_total_km2 = 60211
+|total_type=Kopā
+|population_total = 571900
+|population_as_of = 2023
+|population_blank02_title = Etniskais sastāvs
+|population_blank02 = [[krievi]] (96,6 %)
+| population_density_km2   = auto
+|website={{url|https://kbr.ru/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = RU-KOS
+|footnotes = 
+}}
+
+'''Kostromas apgabals''' ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Vologdas apgabals|Vologdas apgabalu]] ziemeļos, [[Kirovas apgabals|Kirovas apgabalu]] austrumos, [[Ņižņijnovgorodas apgabals|Ņižņijnovgorodas apgabalu]] dienvidos, [[Ivanovas apgabals|Ivanovas apgabalu]] rietumos un [[Jaroslavļas apgabals|Jaroslavļas apgabalu]] ziemeļrietumos.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Kostromas apgabals|width=400 |float=center|caption = Kostromas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Kostromas apgabals|lat=57.766667|long=40.933333|position = top |label='''[[Kostroma]]'''}}
+{{VietasKarte~|Kostromas apgabals|lat=58.483333|long=41.516667|position = top |label=[[Buja]]}}
+{{VietasKarte~|Kostromas apgabals|lat=57.433333|long=41.166667|position = right |label=[[Volgorečenska]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.383333|long=42.35|position = top |label=[[Gaļiča (Krievija)|Gaļiča]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.825228|long=44.311444|position = top |label=[[Kologriva]]}}
+{{VietasKarte~|Kostromas apgabals|lat=57.883333|long=43.8|position = top |label=[[Makarjeva]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.333333|long=44.766667|position = top |label=[[Manturova]]}}
+{{VietasKarte~|Kostromas apgabals|lat=57.45|long=40.583333|position = top |label=[[Ņerehta]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.283333|long=43.866667|position = top |label=[[Ņeja (pilsēta)|Ņeja]]}}
+{{VietasKarte~|Kostromas apgabals|lat=59.083333|long=42.283333|position = top |label=[[Soļigaļiča]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.75|long=42.7|position = top |label=[[Čuhloma]]}}
+{{VietasKarte~|Kostromas apgabals|lat=58.366667|long=45.5|position = top |label=[[Šarja]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Centrālais federālais apgabals}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Kostromas apgabals| ]]

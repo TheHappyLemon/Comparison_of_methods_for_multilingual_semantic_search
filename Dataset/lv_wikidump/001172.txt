@@ -1,0 +1,68 @@
+{{Apdzīvotas vietas infokaste
+| name = Opole
+| image_skyline =Oderpanorama.jpg
+| imagesize = 300px
+| image_caption = Opole no Odras upes
+| image_flag = POL Opole flag.svg
+| image_shield = POL Opole COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Opoles vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = Pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1254
+| area_total_km2 = 96.2
+| population_as_of = 2009
+| population_total    = 125992
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 40 
+| lats = 14 
+| latNS = N 
+| longd = 17 
+| longm = 55 
+| longs = 28
+| longEW = E
+| elevation_m = 165
+| website = http://www.opole.pl/ }}
+
+'''Opole''' ({{val|pl|Opole}}) ir pilsēta [[Polija]]s dienvidos, [[Opoles vojevodiste]]s centrs [[Odra]]s krastos. Upes osta un dzelzceļa mezgls. [[cements|Cementa]], metālizstrādājumu un mēbeļu rūpniecība. Polijas dziesmu tradicionālais festivāls.
+
+Sena [[poļi|poļu]] apmetne, no 1163. gada līdz 1532. gadam — [[Pjastu dinastija]]s [[Opoles hercogiste]]s centrs. 1241. gadā Opoli gandrīz pilnīgi nopostīja [[mongoļi-tatāri]]. Pēc iebrukuma pilsētā sāka ieplūst [[vācieši|vācu]] iedzīvotāji. 1532. gadā kļuva par [[Hābsburgi|Hābsburgu]] īpašumu, bet no 1762. gada Opole bija [[Prūsijas Karaliste|Prūsijas]] sastāvā. No 1919. gada līdz 1945. gadam tā ir [[Vācija]]s [[Silēzija|Augšsilēzijas]] provinces centrs. 1945. gada 24. janvārī pilsētu ieņēma [[Sarkanā armija|Padomju karaspēks]]. 1945. gadā, pamatojoties uz [[Jaltas konference|Jaltas]] un [[Potsdamas konference]]s lēmumiem, Opole tika piešķirta Polijai. Gandrīz visi Opoles [[vācieši|vācu]] iedzīvotāji tika padzīti no pilsētas.
+
+Politiķa [[Gžegožs Shetina|Gžegoža Shetinas]] (''Grzegorz Schetyna'', 1963), vācu ārsta un dabaspētnieka [[Eduards Šnicers|Eduarda Šnicera]] (''Eduard Schnitzer'', 1840—1892) un vācu futbolista [[Miroslavs Kloze|Miroslava Klozes]] (''Miroslav Klose'', 1978) dzimtā pilsēta.
+
+== Apskates objekti ==
+* [[Opoles katedrāle]] (''Kościół katedralny Świętego Krzyża w Opolu'')
+* [[Opoles rātsnams]] (''Ratusz w Opolu'')
+* [[Pjastu tornis]] (''Wieża Piastowska w Opolu'')
+
+== Galerija ==
+<gallery>
+Opole - katedra.jpg|Opoles katedrāle
+Opole - ratusz i zabykowe kamieniczki w Rynku.jpg|Opoles rātsnams
+Opole_-_Wieża_Piastowska_01.jpg|Pjastu tornis
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://katedraopolska.pl/ Opoles katedrāle] {{Webarchive|url=https://web.archive.org/web/20181218112719/http://katedraopolska.pl/ |date={{dat|2018|12|18||bez}} }}
+* [https://web.archive.org/web/20181229040558/http://wiezapiastowska.pl/ Pjastu tornis]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Opoles vojevodistes pilsētas]]
+[[Kategorija:Opoles vojevodistes apriņķi]]

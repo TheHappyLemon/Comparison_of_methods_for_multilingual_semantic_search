@@ -1,0 +1,60 @@
+{{Zinātnieka infokaste
+|             platums = 
+|               vārds = Kārlis Ernests fon Bērs
+|          vārds_orig = ''Karl Ernst von Baer''
+|              attēls =Voyages_de_la_Commission_scientifique_du_Nord,_en_Scandinavie,_en_Laponie,_au_Spitzberg_et_aux_Feröe_-_no-nb_digibok_2009040211001-118.jpg
+|          att_izmērs = 
+|       att_nosaukums = 
+|          dz_dat_alt =
+|             dz_gads = 1792
+|          dz_mēnesis = 2
+|            dz_diena = 28
+|            dz_vieta = Pībe (''Piibe''), [[Krievijas Impērija]]<br />({{EST}})
+|           m_dat_alt =
+|              m_gads = 1876
+|           m_mēnesis = 11
+|             m_diena = 28
+|             m_vieta = [[Tartu|Tērbata]], [[Krievijas Impērija]]<br />({{EST}})
+|        dzīves_vieta = 
+|           pilsonība = 
+|             tautība = [[Vācbaltieši|Baltijas vācietis]]
+|            paraksts = 
+|        darba_vietas = [[Kēnigsbergas Universitāte]], [[Krievijas Zinātņu akadēmija]], [[Krievijas Ģeogrāfiskā biedrība]]
+|          alma_mater = [[Tērbatas Universitāte]]
+|             zinātne = [[medicīna]], [[bioloģija]]
+|         pasniedzēji =
+|            studenti = 
+|          sasniegumi = pirmais aprakstīja zīdītāju olšūnu, [[embrioloģija]]s pamatlicējs
+|         apbalvojumi = 
+|            piezīmes = 
+|         kategorijas =    
+}}
+
+'''Kārlis Ernsts fon Bērs''' ({{val-de|Karl Ernst von Baer}}, dzimis {{dat VS|{{dat|1792|2|28}}|{{dat||2|17}}}} Pībē (''Piibe''), miris {{dat VS|{{dat|1876|11|28}}|{{dat||11|16}}}} [[Tartu|Tērbatā]]) bija [[vācbaltieši|vācbaltiešu]] biologs, viens no [[embrioloģija]]s pamatlicējiem.
+
+== Dzīvesgājums ==
+Kārlis Ernests fon Bērs bija cēlies no bruņinieku [[Fon Bēri|Bēru dzimtas]] Igaunijas atzara (''Ritter von Baer, Edler von Huthorn''). Mācījās [[Tallina|Rēveles]] Domskolā un [[Tartu universitāte|Tērbatas Universitātē]]. Pēc tam studēja [[Berlīne|Berlīnē]], [[Vīne|Vīnē]] un [[Vircburga|Vircburgā]]. Bija vācbaltu [[studentu korporācijas]] ''[[Estonia (studentu korporācija)|Estonia]]'' biedrs. Kopš 1817. gada bija [[Kēnigsbergas Universitāte]]s profesors. 1834. gadā pārcēlās uz [[Sanktpēterburga|Sanktpēterburgu]], kur darbojās [[Pēterburgas Zinātņu akadēmija|Pēterburgas Zinātņu akadēmijā]]. Pēdējos dzīves gadus (1867-1876) pavadīja Tērbatā, kur kļuva par vienu no redzamākajiem [[darvinisms|darvinisma]] kritiķiem.
+
+Interesējās par [[embrioloģija|embrioloģiju]] (cita starpā atklāja [[notohorda|notohordu]]), [[antropoloģija|antropoloģiju]] ([[kraniometrija|kraniometriju]]). Viens no pirmajiem lietoja jēdzienu [[bioloģiskais laiks]]. 
+Devās vairākās ekspedīcijās (uz [[Novaja Zemļa|Novaju Zemļu]], [[Kaspijas jūra|Kaspijas jūru]], [[Lapzeme|Lapzemi]]). Krievijas Ģeogrāfijas biedrības dibinātājs un pirmais priekšsēdētājs.
+
+[[Tartu]] Bēram uzcelts piemineklis, bet uz 2 [[Igaunijas krona|Igaunijas kronu]] banknotes bija Bēra portrets.
+
+{{Cilvēks-aizmetnis}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{DEFAULTSORT:Bers, Karlis Ernsts fon}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:1792. gadā dzimušie]]
+[[Kategorija:1876. gadā mirušie]]
+[[Kategorija:Biologi]]
+[[Kategorija:Antropologi]]
+[[Kategorija:Entomoloģija]]
+[[Kategorija:Vācbaltieši]]
+[[Kategorija:Igaunijas cilvēki]]
+[[Kategorija:Tartu Universitātes absolventi]]
+[[Kategorija:Rietumviru apriņķī dzimušie]]

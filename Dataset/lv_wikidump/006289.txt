@@ -1,0 +1,60 @@
+{{citas nozīmes|suņu dzimtas plēsējiem|Lapsas (nozīmju atdalīšana)|Lapsas}}
+{{BioTakso infokaste
+|      binomial = Vulpes
+|        autors = [[Johann Leonhard Frisch|Frisch]], 1775)
+|        attēls = Fox Head.jpg
+| att_nosaukums = {{TaksoSaite|Vulpes vulpes|Rudā lapsa}}
+|        valsts = Animalia
+|     valsts_lv = Dzīvnieki
+|          tips = Chordata
+|       tips_lv = Hordaiņi
+|         klase = Mammalia
+|      klase_lv = Zīdītāji
+|         kārta = Carnivora
+|      kārta_lv = Plēsēji
+|    apakškārta = Caniformia
+| apakškārta_lv = Suņveidīgie
+|        dzimta = Canidae
+|     dzimta_lv = Suņu dzimta
+|         cilts = Vulpini
+|      cilts_lv = Lapsu cilts
+|       cilts_r = Lapsas
+|         ģints = Vulpes
+|      ģints_lv = Lapsas
+}}
+
+'''Lapsas''', '''lapsu ģints''' jeb '''īstās lapsas''' (''Vulpes'') ir viena no [[Suņu dzimta|suņu dzimtas]] (''Canidae'') ģintīm, kas apvieno 12 sugas. To tuvākie radinieki ir [[pelēkais vilks|vilki]], [[koijots|koijoti]] un [[Šakālis|šakāļi]]. 
+
+Lapsas ir vismazākās suņu dzimtā, tām ir arī atšķirīga [[galva]]s forma — neliela un plakana. Starp acīm raksturīgs tumšāku spalvu trīsstūris. Ļoti bieži [[aste]]s gals ir citā krāsā, nekā pārējais ķermeņa apmatojums. Visām lapsām ir apmēram vienādas ķermeņa formas; pagarināts ķermenis un galva, purns smails un smalks. Visām lapsām ir biezs, mīksts kažoks un gara [[aste]], kas pieaugušiem dzīvniekiem sasniedz zemi. Krāsa pārsvarā ir ruda, dzeltenbrūna un tumši brūna.
+
+== Lapsa kā simbols ==
+Lapsas daudzās kultūrās simbolizē konkrētas īpašības: viltību, gudrību, ātru domāšanu, piemērošanās spēju un izveicību.
+
+[[Ķīna|Ķīnā]] ir ticējums, ja cilvēks redz lapsu, tad tā ir zīme no mirušajiem gariem. [[Ķelti]] uzskatīja, ka lapsas ir gidi garu pasaulē. [[Japāna|Japānā]] lapsa ir viens no lietus gariem, un tā ir rīsu dieva Inari sūtne, kas sargā cilvēku no ļauna. [[Ziemeļamerika]]s [[Amerikas pamatiedzīvotāji|idiāņiem]] lapsa ir gudrs un cēls ziņu nesējs, bet indiāņi no līdzenumiem uzskata, ka lapsa ir izjokotāja.<ref>[http://www.whats-your-sign.com/fox-animal-symbolism.html Fox Animal Symbolism<!-- Bota izveidots nosaukums -->]</ref>
+
+[[latvieši|Latviešu]] [[folklora|folklorā]] lapsas ir gan gudras, gan viltīgas, bet tās ir arī pašlabuma meklētājas un citu izjokotājas.
+
+== Lapsu sistemātika ==
+* '''Lapsu ģints''' (''Vulpes'')
+** {{TaksoSaite|Vulpes cana|Afganistānas lapsa}}
+** {{TaksoSaite|Vulpes velox|Amerikas korsaks}}
+** {{TaksoSaite|Vulpes pallida|Āfrikas lapsa}}
+** {{TaksoSaite|Vulpes bengalensis|Bengālijas lapsa}} 
+** {{TaksoSaite|Vulpes zerda|Feneks}}
+** {{TaksoSaite|Vulpes chama|Kāpas lapsa}}
+** {{TaksoSaite|Vulpes corsac|Korsaks}}
+** {{TaksoSaite|Vulpes lagopus jeb Alopex lagopus|Polārlapsa}}
+** {{TaksoSaite|Vulpes vulpes|Rudā lapsa}}
+** {{TaksoSaite|Vulpes rueppellii|Smilšu lapsa}}
+** {{TaksoSaite|Vulpes ferrilata|Tibetas smilšu lapsa}}
+** {{TaksoSaite|Vulpes macrotis|Ziemeļamerikas lapsa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20131203021238/http://www.thefoxwebsite.org/ The fox website]
+* [https://web.archive.org/web/20080112134535/http://www.home.lv/animalplanet/lapsa.html Lapsas]
+
+[[Kategorija:Lapsas| ]]
+[[Kategorija:Suņu dzimta]]

@@ -1,0 +1,6 @@
+{{Izolēts raksts|date=2010. gada janvārī,}}
+'''OPML''' ([[Angļu valoda|angļu]]: ''Outline Processor Markup Language'') ir [[XML]] formāts, kas satur hierarhisku, sakārtotu noteiktu elementu sarakstu. Šobrīd visplašāk to izmanto, lai veiktu apmaiņu ar [[RSS protokols|RSS]] barotņu sarakstiem starp [[ziņu agregators|ziņu agregatoriem]].
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Uz XML bāzēti standarti]]

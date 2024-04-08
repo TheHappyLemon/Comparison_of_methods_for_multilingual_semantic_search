@@ -1,0 +1,65 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Peltsamā
+| official_name           = Põltsamaa
+| settlement_type         = Apriņķa pilsēta
+| image_skyline           = Põltsamaaloss.JPG
+| imagesize               = 
+| image_caption           = [[Peltsamā pils]] un baznīca
+| image_flag              = Flag of Põltsamaa.svg
+| flag_size               = 125px
+| image_seal              = 
+| seal_size               = 
+| image_shield            = Põltsamaa linn coatofarms.gif
+| shield_size             = 75px
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Estonia
+| pushpin_label_position  = top
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd  = 58|latm  = 39|lats  = 19|latNS  = N
+| longd = 25|longm = 58|longs = 37|longEW = E
+| coordinates_display        = inline,title
+| coordinates_region        = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Jõgevamaa lipp.svg|25px]] [[Jegevas apriņķis]]
+| established_title       = Pilsētas tiesības
+| established_date        = 1926
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = 
+| population_total        = 4894
+| population_as_of        = 01.01.2006
+| population_density_km2  = 
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             = 
+| website                 = [http://www.poltsamaa.ee www.poltsamaa.ee]
+}}
+
+'''Peltsamā''' jeb '''Augstpāle'''<ref> Latviskais vēsturiskais vietvārds no grāmatas: Roalds Dobrovenskis. Magnus, dāņu princis. Rīga, Jumava 2004 (tulk. Talrids Rullis)</ref> ({{val|et|Põltsamaa}}, {{val|de|Oberpahlen}}) ir pilsēta Igaunijas vidienē. Ievērojama ar to, ka no 1570. gada līdz 1578. gadam tā bija [[Livonijas karaliste|Livonijas karaļa]] [[Magnuss (Livonijas karalis)|Magnusa]] galvaspilsēta.
+
+== Augstpāles pils ==
+Līdz [[Livonijas krusta kari]]em atradās [[Mehu zeme]]s teritorijā, kas pēc Igaunijas otrās dalīšanas 1224. gadā [[Sakala|Sakalu]], [[Normegunde|Normegundi]] un Mehu zemes savā īpašumā [[Zobenbrāļu ordenis]], vēlāk tā bija [[Livonijas ordeņa valsts]] sastāvā.  
+[[Attēls:Põltsamaa linnus ja loss W.Tusch 2.59.jpg|thumb|left|265px|Skats uz Augstpāles pili Peltsamā 19. gadsimtā (Vilhelma Tuša zīmējums).]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Jegevas apriņķis]]

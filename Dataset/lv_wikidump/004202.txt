@@ -1,0 +1,144 @@
+{{BioTakso infokaste
+| attēls =Kornblume.jpeg
+| att_nosaukums ={{TaksoSaite|Centaurea cyanus|Rudzupuķe}}
+| valsts =Plantae
+| valsts_lv =Augi
+| nodalījums =Magnoliophyta
+| nodalījums_lv =Segsēkļi
+| klase =Magnoliopsida
+| klase_lv =Divdīgļlapji
+| apakšklase =Asteridae
+| apakšklase_lv =Asterveidīgie
+| sinonīmi =
+| iedalījums=
+* {{TaksoSaite|Asterales|Asteru rinda}}
+* {{TaksoSaite|Plantaginales|Ceļteku rinda}}
+* {{TaksoSaite|Scrophulariales|Cūknātru rinda}}
+* {{TaksoSaite|Dipsacales|Dipsaku rinda}}
+* {{TaksoSaite|Gentianales|Genciānu rinda}}
+* {{TaksoSaite|Calycerales|Kaliceru rinda}}
+* {{TaksoSaite|Solanales|Nakteņu rinda}}
+* {{TaksoSaite|Lamiales|Panātru rinda}}
+* {{TaksoSaite|Campanulales|Pulkstenīšu rinda}}
+* {{TaksoSaite|Rubiales|Rubiju rinda}}
+* {{TaksoSaite|Callitrichales|Ūdenīšu rinda}}
+}}
+'''Asterveidīgo klada''' (''Asteridae''), arī '''Asteru apakšklase''', iekļauj sevī visattīstītākās [[divdīgļlapji|divdīgļlapju]] [[augi|augu]] grupas, kuras raksturojas ar daudzām progresīvām īpatnībām. Kaut arī apakšklasē ir arī [[koki]] un [[krūmi]], taču lielākā daļa ir [[lakstaugi]], pārsvarā viengadīgie. [[Zieds|Zieda]] daļu skaits apakšklasei ir neliels, bet vienmēr nemainīgs. Ziedi parasti ir divdzimumu, lielā mēra specializējušies [[apputeksnēšana]]i ar [[kukaiņi|kukaiņu]] starpniecību. [[Ginecejs]] vienmēr ir cenokarps, ar 2-5 augļlapām. Raksturīgā [[zieda formula]] ir '''Ca'''(5)'''[Co'''(5)'''A'''(5)''']G'''(2).
+
+== Sistemātika ==
+=== APG IV sistēma ===
+Saskaņā ar 2016. gada [[APG IV sistēma|APG IV sistēmu]] (segsēkļu klasifikācijas taksonomiskā sistēma),  asterveidīgo augu kladifikācijā ir šāda:<ref>[http://onlinelibrary.wiley.com/doi/10.1111/boj.12385/abstract An update of the Angiosperm Group classification for the orders and families of flowering plants: APG IV. Botanical Journal of the Linnean Society, Volume 181, Issue 1, page 1-20, May 2016]</ref>
+{{clade |style=font-size:100%;line-height:110%;
+                 
+                                 |label2=Asterveidīgo klada (''Asteridae'')
+                                 |2={{clade
+                                    |1=[[Cornales]]
+                                    |2={{clade
+                                       |1=[[Ericales]] (viršu kārta)
+                                       |2={{clade
+                                          |label1=[[Campanulidae]]
+                                          |1={{clade
+                                             |1=[[Aquifoliales]]
+                                             |2={{clade
+                                                |1=[[Asterales]] (asteru kārta)
+                                                |2=[[Escalloniales]]
+                                                |3={{clade
+                                                   |1=[[Bruniales]]
+                                                   |2={{clade
+                                                      |1=[[Apiales]]
+                                                      |2={{clade
+                                                         |1=[[Dipsacales]]  (dipsaku kārta)
+                                                         |2=[[Paracryphiales]]
+                                                         }}
+                                                      }}
+                                                   }}
+                                                }}
+                                             }}
+                                          |label2=[[Lamiidae]]
+                                          |2={{clade
+                                             |1=[[Icacinales]]
+                                             |2={{clade
+                                                |1=[[Metteniusales]]
+                                                |2={{clade
+                                                   |1=[[Garryales]]
+                                                   |2={{clade
+                                                      |1=[[Boraginales]]
+                                                      |2=[[Gentianales]] (genciānu kārta) 
+                                                      |3=[[Vahliales]]
+                                                      |4=[[Lamiales]] (panātru kārta)
+                                                      |5=[[Solanales]] (nakteņu kārta)
+                                                      }}
+                                                   }}
+                                                }}
+                                             }}
+                                          }}
+                                       }}
+                                    }}
+                                 }}
+                          
+=== Agrākā klasifikācija ===
+''Asteridae'' bija pati lielākā divdīglapju apakšklase ar apmēram 3500 ģintīm un 65000 sugām. 
+Apakšklasē bija 11 rindas:
+
+{{TaksoSaite|Asteridae|Asteru apakšklase}}
+* {{TaksoSaite|Asterales|Asteru rinda}}
+** {{TaksoSaite|Asteraceae|Asteru dzimta}}
+* {{TaksoSaite|Plantaginales|Ceļteku rinda}}
+** {{TaksoSaite|Plantaginaceae|Ceļteku dzimta}}
+* {{TaksoSaite|Scrophulariales|Cūknātru rinda}}
+** {{TaksoSaite|Acanthaceae|Akantu dzimta}}
+** {{TaksoSaite|Bignoniaceae|Bignoniju dzimta}}
+** {{TaksoSaite|Orobanchaceae|Brūnkāšu dzimta}}
+** {{TaksoSaite|Buddlejaceae|Buddleju dzimta}}
+** {{TaksoSaite|Scrophulariaceae|Cūknātru dzimta}}
+** {{TaksoSaite|Gesneriaceae|Gesnēriju dzimta}}
+** {{TaksoSaite|Globulariaceae|Globulāriju dzimta}}
+** {{TaksoSaite|Mendonciaceae|Mendonkiju dzimta}}
+** {{TaksoSaite|Myoporaceae|Mioporu dzimta}}
+** {{TaksoSaite|Oleaceae|Olīvu dzimta}}
+** {{TaksoSaite|Lentibulariaceae|Pūsleņu dzimta}}
+** {{TaksoSaite|Pedaliaceae|Sezama dzimta}}
+* {{TaksoSaite|Dipsacales|Dipsaku rinda}}
+** {{TaksoSaite|Valerianaceae|Baldriānu dzimta}}
+** {{TaksoSaite|Adoxaceae|Bezslavīšu dzimta}}
+** {{TaksoSaite|Dipsacaceae|Dipsaku dzimta}}
+** {{TaksoSaite|Caprifoliaceae|Kaprifoliju dzimta}}
+* {{TaksoSaite|Gentianales|Genciānu rinda}}
+** {{TaksoSaite|Asclepiadaceae|Asklēpiju dzimta}}
+** {{TaksoSaite|Gentianaceae|Genciānu dzimta}}
+** {{TaksoSaite|Apocynaceae|Oleandru dzimta}}
+** {{TaksoSaite|Saccifoliaceae|Sakkifoliju dzimta}}
+** {{TaksoSaite|Loganiaceae|Strihnīnaugu dzimta}}
+* {{TaksoSaite|Calycerales|Kaliceru rinda}}
+** {{TaksoSaite|Calyceraceae|Kaliceru dzimta}}
+* {{TaksoSaite|Solanales|Nakteņu rinda}}
+** {{TaksoSaite|Duckeodendraceae|Dukeodendronu dzimta}}
+** {{TaksoSaite|Polemoniaceae|Kāpnīšu dzimta}}
+** {{TaksoSaite|Solanaceae|Nakteņu dzimta}}
+** {{TaksoSaite|Nolanaceae|Nolānu dzimta}}
+** {{TaksoSaite|Menyanthaceae|Puplakšu dzimta}}
+** {{TaksoSaite|Retziaceae|Reciju dzimta}}
+* {{TaksoSaite|Lamiales|Panātru rinda}}
+** {{TaksoSaite|Lennoaceae|Lennu dzimta}}
+** {{TaksoSaite|Lamiaceae|Lūpziežu dzimta}}
+** {{TaksoSaite|Boraginaceae|Skarblapju dzimta}}
+** {{TaksoSaite|Verbenaceae|Verbēnu dzimta}}
+* {{TaksoSaite|Campanulales|Pulkstenīšu rinda}}
+** {{TaksoSaite|Brunoniaceae|Brunonu dzimta}}
+** {{TaksoSaite|Donatiaceae|Donātiju dzimta}}
+** {{TaksoSaite|Goodeniaceae|Gudenu dzimta}}
+** {{TaksoSaite|Lobeliaceae|Lobēliju dzimta}}
+** {{TaksoSaite|Pentaphragmataceae|Pentafragmu dzimta}}
+** {{TaksoSaite|Campanulaceae|Pulkstenīšu dzimta}}
+** {{TaksoSaite|Sphenocleaceae|Sfenokleju dzimta}}
+** {{TaksoSaite|Stylidiaceae|Stilīdiju dzimta}}
+* {{TaksoSaite|Rubiales|Rubiju rinda}}
+** {{TaksoSaite|Rubiaceae|Rubiju dzimta}}
+** {{TaksoSaite|Theligonaceae|Teligonu dzimta}}
+* {{TaksoSaite|Callitrichales|Ūdenīšu rinda}}
+** {{TaksoSaite|Hydrostachyaceae|Hidrostahu dzimta}}
+** {{TaksoSaite|Hippuridaceae|Skujeņu dzimta}}
+** {{TaksoSaite|Callitrichaceae|Ūdenīšu dzimta}}
+
+== Atsauces ==
+{{atsauces}}

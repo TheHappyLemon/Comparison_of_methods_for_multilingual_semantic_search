@@ -1,0 +1,27 @@
+[[Attēls:Methane-2D-stereo.svg|thumb|Vienkāršākā alkāna — metāna ķīmiskā struktūra.]]'''Alkāni''' ir piesātināto ogļūdeņražu veids. Piesātinātie ogļūdeņraži ir [[ogļūdeņraži]], kam visi oglekļa atomi ir ''sp<sup>3</sup>'' [[Orbitāļu hibridizācija|hibridizācijā]], tas ir, tajos nav nepiesātināto saišu, un tāpēc tie neiesaistās pievienošanas reakcijās. Piesātinātos ogļūdeņražus iedala '''alkānos''' un '''cikloalkānos'''. Cikloalkānu īpašības (izņemot atsevišķus mazmolekulārus savienojumus) būtiski neatšķiras no atbilstošo alkānu īpašībām, tāpēc bieži vien ar jēdzienu piesātinātie ogļūdeņraži saprot tieši alkānus. Alifātiskie (taisnas virknes) ogļūdeņraži ir ķīmiski visai stabili un reaģē visai smagos apstākļos (paaugstinātā temperatūrā (nitrēšana, it īpaši oksidēšana)). Šos savienojumus var [[halogenēšana|halogenēt]], apstarojot ar ultravioleto radiāciju. Cikloalkāni ar lieliem (un nesaspriegtiem) cikliem arī ir stabili. Cikloaklāni ar maziem un saspriegtiem cikliem (ciklopropāns, ciklobutāns) ir ķīmiski aktīvāki. Degviela, kas satur tikai piesātinātos ogļūdeņražus, labāk glabājas (mazāk bojājas uzglabāšanas laikā).
+
+Alkānu [[homologs|vispārīgā ķīmiskā formula]] ir C<sub>n</sub>H<sub>2n+2</sub>. Sākot ar ''n'' = 4, alkāniem ir iespējami izomēri. Līdz ''n'' = 4 alkāni ir gāzes, tālāk ir [[šķidrums|šķidrumi]] un cietas vielas. Cikloalkānu vispārīgā formula ir C<sub>n</sub>H<sub>2n</sub>.
+
+== Alkānu nomenklatūra ==
+* [[Metāns]] ([[dabasgāze]]s galvenā sastāvdaļa) — CH<sub>4</sub>
+* [[Etāns]] — C<sub>2</sub>H<sub>6</sub>
+* [[Propāns]] — C<sub>3</sub>H<sub>8</sub>
+* [[Butāns]] — C<sub>4</sub>H<sub>10</sub>
+* [[Pentāns]] — C<sub>5</sub>H<sub>12</sub>
+* [[Heksāns]] (nepolārs šķīdinātājs) — C<sub>6</sub>H<sub>14</sub>
+* [[Heptāns]] — C<sub>7</sub>H<sub>16</sub>
+* [[Oktāns]] — C<sub>8</sub>H<sub>18</sub>
+* [[Nonāns]] — C<sub>9</sub>H<sub>20</sub>
+* [[Dekāns (viela)|Dekāns]] — C<sub>10</sub>H<sub>22</sub>
+* [[Ciklopropāns]] (vispārējās anestēzijas līdzeklis) — C<sub>3</sub>H<sub>6</sub>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Organiskā ķīmija]]
+
+
+{{Organiskā ķīmija-aizmetnis}}

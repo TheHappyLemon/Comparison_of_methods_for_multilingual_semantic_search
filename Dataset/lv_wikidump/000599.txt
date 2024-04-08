@@ -1,0 +1,65 @@
+{{cita nozīme|dzīvniekiem|apdzīvotu vietu|Kaķi (ciems)}}
+{{BioTakso infokaste
+| attēls =Wildkatze MGH.jpg
+| att_nosaukums ={{TaksoSaite|Felis silvestris|Meža kaķis}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| klase =Mammalia
+| klase_lv =Zīdītāji
+| kārta =Carnivora
+| kārta_lv =Plēsēji
+| dzimta =Felidae
+| dzimta_lv =Kaķu dzimta
+| apakšdzimta=Felinae
+| apakšdzimta_lv=Kaķu apakšdzimta
+| ģints =Felis
+| ģints_lv =Kaķi
+| iedalījums =
+* †{{TaksoSaite|Felis lunensis|Martella kaķis}}
+* {{TaksoSaite|Felis nigripes|Melnķepu kaķis}}
+* {{TaksoSaite|Felis silvestris|Meža kaķis}}
+* {{TaksoSaite|Felis chaus|Niedrāju kaķis}}
+* {{TaksoSaite|Felis margarita|Smilšu kaķis}}
+| binomial=Felis <small>([[Kārlis Linnejs|Linnaeus]], 1758)</small>
+| izplatība=
+[[Attēls:Felis range.png|center|220px]]
+| kategorijas=nē
+}}
+'''Kaķi, kaķu ģints''' (''Felis'') ir viena no [[kaķu dzimta]]s (''Felidae'') ģintīm, kas pieder [[kaķu apakšdzimta]]i (''Felinae''). Šīs ģints sugas ir nelieli [[plēsēji]], un to savvaļas sugas ir izplatītas [[Vecā pasaule|Vecajā pasaulē]]. Kaķu [[Ģints (bioloģija)|ģintī]] ir 4 mūsdienās dzīvojošas [[suga]]s un viena izmirusi suga. Ģenētiskie pētījumi liecina, ka kaķu ģints izveidojusies pirms 10 miljoniem gadu.<ref>[http://www.genetics.org/content/148/3/1245.full Patterns of Y and X Chromosome DNA Sequence Divergence During the Felidae Radiation]</ref>
+
+[[Latvija|Latvijā]] ir sastopams tikai [[mājas kaķis]] (''Felis silvestris catus''). Arī savvaļā sastopamie kaķi ir savvaļā nonākušie mājas kaķi. Latvijā tāpat kā [[Skandināvija|Skandināvijā]] [[meža kaķis]] (''Felis silvestris silvestris'') nedzīvo.<ref>{{Tīmekļa atsauce |url=http://rigazoo.lv/public/29314.html |title=Eiropas meža kaķis |access-date={{dat|2013|02|27||bez}} |archiveurl=https://web.archive.org/web/20130615124850/http://rigazoo.lv/public/29314.html |archivedate={{dat|2013|06|15||bez}} }}</ref>
+
+==Izskats un īpašības==
+[[Attēls:Felis margarita harrisoni - Sandkatze.jpg|thumb|left|180px|[[Smilšu kaķis]] (''Felis margarita'') ir mazākais kaķu ģintī]]
+Kaķu ģints sugas ir neliela auguma kaķi, kuri vairāk vai mazāk atgādina visiem pazīstamo [[mājas kaķis|mājas kaķi]]. Vismazākais ģintī ir [[smilšu kaķis]] (''Felis margarita''), kura mazāko indivīdu ķermeņa garums ir 40 cm, svars 2 kg.<ref>[http://www.felidaefund.org/?q=species-sand-cat Felidae: Sand Cat]</ref> Toties ģintī lielākais ir [[niedrāju kaķis]] (''Felis chaus''). Tā ķermeņa garums var sasniegt 120 cm, svars 16 kg.<ref>[http://animaldiversity.ummz.umich.edu/accounts/Felis_chaus/ ADW: Felis chaus]</ref> Salīdzinoši mājas kaķis parasti sver 2,5—7 kg.
+
+Kaķu sugas mājo dažādās [[bioma|biomās]], sākot ar purvājiem un beidzot ar [[tuksnesis|tuksnešiem]]. Tie medī dažādus, maza auguma [[grauzēji|grauzējus]], [[putni|putnus]] un citus mazus [[dzīvnieki|dzīvniekus]], atkarībā no to dzīves vietas. 
+
+==Mājas kaķa izcelsme==
+Saskaņā ar [[ģenētika|ģenētiskajiem]] pētījumiem, mājas kaķi ir cēlušies no [[meža kaķis|meža kaķa]] pasugas — [[Āfrikas savvaļas kaķis|Āfrikas savvaļas kaķa]] (''Felis silvestris lybica''). Pirmie mājas kaķi parādījās [[Ēģipte|Ēģiptē]], kuru izcelšanās ir saistīta ar [[Nūbija]]s savvaļas kaķiem. [[Eiropa|Eiropā]] kaķus ieveda [[Senā Roma|romieši]], kuri tos atveda no karagājieniem [[Tuvie Austrumi|Tuvajos Austrumos]].<ref>{{Tīmekļa atsauce |url=http://kitten.eclub.lv/kitten/veesture.htm |title=Mājas kaķis: vēsture |access-date={{dat|2013|03|03||bez}} |archiveurl=https://web.archive.org/web/20120329182834/http://kitten.eclub.lv/kitten/veesture.htm |archivedate={{dat|2012|03|29||bez}} }}</ref>
+
+==Sistemātika==
+*'''Kaķu ģints''' (''Felis'')
+** †{{TaksoSaite|Felis lunensis|Martella kaķis}}
+** {{TaksoSaite|Felis nigripes|Melnķepu kaķis}}
+** {{TaksoSaite|Felis silvestris|Meža kaķis}}
+*** {{TaksoSaite|Felis silvestris lybica|Āfrikas savvaļas kaķis}}
+*** {{TaksoSaite|Felis silvestris ornata|Āzijas savvaļas kaķis}}
+*** {{TaksoSaite|Felis silvestris cafra|Dienvidāfrikas savvaļas kaķis}}
+*** {{TaksoSaite|Felis silvestris silvestris|Eiropas meža kaķis}}
+*** {{TaksoSaite|Felis silvestris catus|Mājas kaķis}} <small>(reizēm uzskata par atsevišķu sugu)</small>
+*** {{TaksoSaite|Felis silvestris bieti|Ķīnas kalnu kaķis}} <small>(reizēm uzskata par atsevišķu sugu)</small>
+**{{TaksoSaite|Felis chaus|Niedrāju kaķis}}
+** {{TaksoSaite|Felis margarita|Smilšu kaķis}}
+
+==Atsauces==
+{{atsauces}}
+
+==Ārējās saites==
+{{Commonscat|Felis|Kaķi}}
+*[http://thewebsiteofeverything.com/animals/mammals/Carnivora/Felidae/Felis/ Genus Felis]
+
+[[Kategorija:Kaķi| ]]

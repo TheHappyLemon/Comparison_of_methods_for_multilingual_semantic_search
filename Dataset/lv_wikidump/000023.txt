@@ -1,0 +1,104 @@
+<templatestyles src="Main Page/minerva.css" />
+{| id="mp-topbanner" style="width:100%; background-color:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
+| style="width:61%; color:#000;" | 
+<!-- "LAIPNI LŪDZAM VIKIPĒDIJĀ" UN RAKSTU SKAITĪTĀJS! -->
+{| style="width:280px; border:none; background-color:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000000;" |
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000000;">[[Vikipēdija:Laipni lūdzam Vikipēdijā|Laipni lūdzam]] [[Vikipēdija|Vikipēdijā]],</div>
+<div style="top:+0.2em; font-size:95%;">brīvajā enciklopēdijā, kuru arī Tu vari [[Palīdzība:Rediģēšana, noformēšana|papildināt]]!</div>
+<div id="articlecount" style="font-size:85%;">Šobrīd [[Latviešu valoda|latviešu valodā]] ir '''[[Special:Statistics|{{NUMBEROFARTICLES}} {{PLURAL:{{NUMBEROFARTICLES:R}}|rakstu|raksts|raksti}}]]'''.</div>
+|}
+<!-- PORTĀLU SARAKSTS LAPAS LABAJĀ PUSĒ -->
+| style="width:40%; font-size:95%;" |
+{{Skatītākie raksti Vikipēdijā}}
+|}
+<!-- VĒRTĪGS RAKSTS -->
+{|style="width: 100%; margin:4px 0 0 0; background-color:none; border-spacing: 0px;"
+| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background-color:#f5faff; vertical-align:top; color:#000000;" |
+{|style="vertical-align:top; background-color:#f5fffa;"
+! style="padding:2px;" | <h2 style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000000; padding:0.2em 0.4em;">Vai Tu zināji, ka...</h2>
+|-
+| style="color:#000000; padding:2px 5px 5px;" | <div id="mf-dyk" title="Vai Tu zināji, ka...">{{Vai tu zināji}}</div>
+|-
+! style="padding:2px;" | <h2 style="margin:3px; background-color:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000000; padding:0.2em 0.4em;">Aktuāls notikums</h2>
+|-
+| style="color:#000000;" | <div id="mf-VR" title="Aktuāls notikums" style="padding:2px 5px">{{Aktuāls notikums sākumlapā}}</div>
+|}
+| style="border:1px solid transparent;" |
+<!-- ŠĪ DIENA VĒSTURĒ -->
+| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background-color:#f5faff; vertical-align:top;"|
+{| style="width:100%; vertical-align:top; background-color:#f5faff;"
+! style="padding:2px;" | <h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000000; padding:0.2em 0.4em;">Šī diena vēsturē</h2>
+|-
+| style="color:#000000; padding:2px 5px;" | <div id="mf-SDV" title="Šī diena vēsturē">{{Atzīmējamās dienas|{{CURRENTDAY}}. {{Menesis-nom|{{CURRENTMONTH}}}}}}
+{{Vikipēdija:Izmeklēti notikumi/{{CURRENTDAY}}. {{Menesis-nom|{{CURRENTMONTH}}}}}}</div>
+|-
+! style="padding:2px;" | <h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000000; padding:0.2em 0.4em;">Izveido rakstu</h2>
+|-
+| style="color:#000000; padding:2px 5px 5px;" | <div id="mf-IBOX" style="margin-top:15px; margin-bottom:15px;">
+<inputbox>
+type=create
+<!-- editintro=Palīdzība:Saturs // izņemts kā pārāk garš -->
+placeholder=Raksta nosaukums
+buttonlabel=Izveidot/labot rakstu
+</inputbox>
+</div>
+<div style="font-size:85%; border-top:1px solid #cedff2; padding-top:5px;" class="hlist center">
+* [[Vikipēdija:Raksta izveidošana|Raksta izveidošana]]
+* [[Vikipēdija:Rakstu vednis|Rakstu vednis]]
+* [[Vikipēdija:Vajadzīgo rakstu lapu uzskaitījums|Iedvesmai]]
+* [[Vikipēdija:Smilšu kaste|Smilšu kaste eksperimentiem]]
+* [[Vikipēdija:Dalībnieku uzvedības noteikumi|Dalībnieku uzvedības noteikumi]]
+* [[Vikipēdija:Administrācija|Administrācija]]
+</div>
+|-
+! style="padding:2px;" | <h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">[[:commons:Commons:Picture of the day|Vikikrātuves dienas attēls]]</h2>
+|-
+| style="color:#000000; padding:2px 5px 5px;" | <div id="mf-DB" title="Dienas attēls" class="center">{{Commons dienas bilde|thumb=no|title=yes}}</div>
+|}
+|}
+<!-- LAPAS APAKŠĒJĀ DAĻA -->
+<table style="width: 100%; margin:4px 0 0 0; background-color:none; border-spacing: 0px;">
+<tr><td class="MainPageBG">{{Citi Vikiprojekti}}
+</td></tr>
+</table>
+__NOTOC____NOEDITSECTION__
+
+{{noexternallanglinks}}
+[[ar:]]
+[[be:]]
+[[be-x-old:]]
+[[ca:]]
+[[cs:]]
+[[da:]]
+[[de:]]
+[[et:]]
+[[el:]]
+[[en:]]
+[[eo:]]
+[[es:]]
+[[fa:]]
+[[fi:]]
+[[fr:]]
+[[he:]]
+[[hu:]]
+[[id:]]
+[[it:]]
+[[ja:]]
+[[ko:]]
+[[la:]]
+[[ltg:]]
+[[lt:]]
+[[nl:]]
+[[no:]]
+[[pl:]]
+[[pt:]]
+[[ro:]]
+[[ru:]]
+[[sk:]]
+[[sr:]]
+[[sv:]]
+[[tr:]]
+[[uk:]]
+[[vi:]]
+[[zh:]]

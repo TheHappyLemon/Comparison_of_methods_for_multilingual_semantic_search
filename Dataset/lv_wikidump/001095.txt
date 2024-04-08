@@ -1,0 +1,55 @@
+{{Pārvietot|Ričards Stolmans}}
+{{Personas infokaste
+|        platums = 
+|          vārds = Ričards Stalmans
+|     vārds_orig = ''Richard Stallman''
+|         attēls = Richard Stallman at LibrePlanet 2019.jpg
+|     att_izmērs = 200px
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1953
+|     dz_mēnesis = 03
+|       dz_diena = 16
+|       dz_vieta = [[Manhatana]], [[Ņujorka]], [[Amerikas Savienotās Valstis|ASV]]
+|      m_dat_alt = 
+|         m_gads = 
+|      m_mēnesis = 
+|        m_diena = 
+|        m_vieta = 
+|   dzīves_vieta = 
+|      pilsonība = {{USA}}
+|        tautība =
+|   nodarbošanās = {{hlist|Aktīvists|programmētājs}}
+|        dzimums = 
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = RMS's Signature.png
+|       piezīmes = 
+|    kategorijas =  
+}}
+
+'''Ričards Metjū Stalmans''' ({{val|en|Richard Matthew Stallman}}; dzimis 1953. gada 16. martā) ir [[brīvā programmatūra|brīvās programmatūras]] kustības, [[GNU]] projekta un [[Brīvās programmatūras fonds|Brīvās programmatūras fonda]] dibinātājs. Viņš ir izstrādājis [[Emacs]] [[teksta redaktors|teksta redaktoru]], [[GNU C Compiler|GNU C kompilatoru]] un [[GNU Debugger|GNU atkļūdotāju]]. Viņš ir viens no [[GNU Vispārējā publiskā licence|GNU Vispārējās publiskās licences]] (''GNU General Public License'', ''GNU GPL'', ''GPL'') autoriem.
+
+Kopš 20. gadsimta 90. gadu vidus viņš pamatā nodarbojas ar politiskām kampaņām, veicinot brīvās programmatūras izplatību, kā arī asi vēršas pret [[programmatūras patents|programmatūras patentiem]]. Kā programmētājs viņš joprojām piedalās ''Emacs'' izstrādē. Stalmans ir vairāku universitāšu goda loceklis.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.stallman.org Ričarda Stalmana personīgā mājas lapa]
+* [http://www.fsf.org/blogs/rms Ričarda Stalmana tīmekļa žurnāls]
+* [http://oreilly.com/openbook/freedom/ Ričarda Stalmana biogrāfija ''Free as in Freedom''] {{angliski}}
+
+
+{{Cilvēks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+{{DEFAULTSORT:Stalmans, Ričards}}
+
+[[Kategorija:ASV programmētāji]]
+[[Kategorija:Brīvā programmatūra]]
+[[Kategorija:Datorzinātnes pionieri]]
+[[Kategorija:Ņujorkas cilvēki]]
+[[Kategorija:Haktīvisms]]

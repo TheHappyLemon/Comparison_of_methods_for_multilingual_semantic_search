@@ -1,0 +1,58 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Dienvidrietumanglija
+| official_name = ''South West England''
+| image_skyline = Crazywell cross 1.JPG
+| imagesize =
+| image_caption = Dartmūras ainava
+| settlement_type = reģions
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_seal             = {{#property:P158}}
+ |seal_size              = 100x80px
+| image_map = South West England in England.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{GBR}}
+| subdivision_type1 = Zeme
+| subdivision_name1 = {{ENG}}
+| established_title        = Dibināts
+| established_date         = 1994
+| total_type = Kopā
+| area_total_km2 = 24385
+| population_total = 5712840
+| population_as_of = 2021
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =51 | latm = 0 | lats =| latNS = N
+| longd = 3 | longm = 15 | longs =| longEW = W
+| seat_type = Padomes ofiss
+| seat = [[Tontona]]
+| parts_type = Iedalījums
+| parts = 7 grāfistes 
+| p1 = [[Bristole]]
+| p2 = [[Kornvola]]
+| p3 = [[Devona]]
+| p4 = [[Dorseta]]
+| p5 = [[Glosteršīra]]
+| p6 = [[Somerseta]]
+| p7 = [[Viltšīra]]
+| timezone                 = GMT
+| utc_offset               = +0
+| timezone_DST             = 
+| utc_offset_DST           = 
+ <!-- | blank_name              = [[ISO 3166-2]]
+ | blank_info              = PH-AUR -->
+| website                  = {{URL|http://www.swcouncils.gov.uk/}}
+}}
+'''Dienvidrietumanglija''' ({{val|en|South West England}}) ir [[Anglija]]s reģions valsts dienvidrietumu daļā. Sevī ietver 15 nemetropoles grāfistes un [[Anglijas unitārās pašvaldības|unitārās pašvaldības]], kas ietilpst septiņās [[Anglijas ceremoniālās grāfistes|ceremoniālajās grāfistēs]]. Reģiona padomes sēdeklis ir [[Tontona|Tontonā]] [[Somerseta]]s grāfistē; padomi veido reģionā ietilpstošo pašvaldību pārstāvji. Lielākā pilsēta ir [[Bristole]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{UK-aizmetnis}}
+
+{{Anglijas reģioni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas reģioni]]

@@ -1,0 +1,128 @@
+{{Latvijas novada infokaste
+| nosaukums         = Mazzalves pagasts
+| karte             = Mazzalves pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Ērberģe
+| platība           = 209,4
+| iedzīvotāji       = 1273<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1273 / 209.4 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+| nos_vācu          = Herbergen
+| ref_vācu          =
+| nos_krievu        = Гербергенская
+| ref_krievu        =
+}}
+
+'''Mazzalves pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā ziemeļrietumos, [[Sēlija|Sēlijā]], [[Mēmele]]s kreisajā krastā, [[Lietuva]]s pierobežā. Robežojas ar sava novada [[Zalves pagasts|Zalves]], [[Pilskalnes pagasts (Neretas novads)|Pilskalnes]] un [[Daudzeses pagasts|Daudzeses]] pagastiem, kā arī [[Bauskas novads|Bauskas novada]] [[Kurmenes pagasts|Kurmenes]] un [[Valles pagasts|Valles]] pagastiem. 
+
+== Daba ==
+Atrodas [[Viduslatvijas zemiene]]s [[Taurkalnes līdzenums|Taurkalnes līdzenumā]]. Augstākais punkts - Riekstiņu kalns (80 m vjl.).
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Mēmele]]
+** [[Dienvidsusēja]]
+*** [[Krācējgrāvis]]
+*** [[Zalvīte]]
+** [[Viesīte (upe)|Viesīte]]
+*** [[Cēzīte]]
+*** [[Dzilna (upe)|Dzilna]]
+*** [[Jūgupe (upe)|Jūgupe]]
+*** [[Žebere]]
+
+==== Ezeri ====
+Lielākais ezers - Baltezers - 3,5 ha.
+
+==== Purvi ====
+* [[Svītiņu purvs]] (156 ha)
+* [[Baložu purvs (Mazzalve)|Baložu purvs]] (141 ha)
+
+== Vēsture ==
+Pašreizējais Mazzalves pagasts atrodas bijušo [[Mazzalves muiža|Mazzalves]], [[Vecmēmeles muiža|Vecmēmeles]], [[Lielmēmeles muiža|Lielmēmeles]] un [[Ērberģes muiža|Ērberģes]] muižu teritorijā. Pēc [[1920. gada Latvijas agrārā reforma|1920. gada agrārās reformas]] Ērberģes muižu 1862 ha platībā sadalīja 159 vienībās, Mazzalves muižu 342 ha platībā sadalīja 24 vienībās, bet Zalves mežniecībā iedalīja 4 vienības 35 ha platībā.<ref>Latviešu konversācijas vārdnīcas XIII sējuma 26218-26219 slejas. Rīgā, 1935.-1936.</ref>
+
+Līdz 1925. gadam pagasta nosaukums bija '''Ērberģes pagasts'''. 1935. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Mazzalves pagasta platība bija 207 km² un tajā dzīvoja 1966 iedzīvotāji. 
+
+1945. gadā pagastā izveidoja Mazzalves un [[Krūmiņciema ciems|Krūmiņciema]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā '''Mazzalves ciemam''' pievienoja [[Mēmeles ciems|Mēmeles ciemu]]. 1971. gadā daļu ciema teritorijas atdeva [[Zalves ciems|Zalves ciemam]]. 1979. gadā Mazzalves ciemam pievienoja Krūmiņciema ciemu. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Mazzalves pagastu kā administratīvo teritoriju iekļāva [[Neretas novads|Neretas novadā]]. 2021. gadā, kā viena no Neretas novada administratīvajām teritorijām, iekļauta [[Aizkraukles novads|Aizkraukles novadā]].
+
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi:
+* nr. 8752.: Ērberģes luterāņu baznīca ar žogu un Taubes kapliču (1695 - 1700., 19. gs.)
+* nr. 2895.: Ērģeļu luktu gleznojumi (12) Ērbērģes luterāņu baznīcā (1700)
+* nr. 2896.: Kancele Ērbērģes luterāņu baznīcā	(1700)
+* nr. 2897.: Kanceles gleznojumi (7) Ērbērģes luterāņu baznīcā (1700)
+* nr. 6094.: "Ķiermeļu" zemnieku sēta Ķiermelēs	(19. gs.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 / OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1966
+|1959|1675
+|1967|1770
+|1979|1475
+|1989|1245
+|2000|1333
+|2011|1101
+|2021|946
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Ērberģe]]''' (pagasta centrs), [[Lielmēmele]], [[Krasti (Mazzalves pagasts)|Krasti]], [[Vecmēmele]].
+
+=== Novadnieki ===
+[[Jānis Ādolfs Kaktiņš]] (1885–1965), operdziedātājs.
+
+== Saimniecība ==
+Pagastā darbojas Grīvnieku HES.
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<gallery widths="100px" heights="70px" perrow="6">
+Attēls:Erberges muiza 2007.JPG|<center><small>Ērberģes muiža</small></center>
+Attēls:Kankalu baznica.JPG|<center><small>Kankaļu katoļu baznīca</small></center>
+Attēls:muiza info.JPG|<center><small>Informācijas stends</small></center>
+Attēls:erberges muiza2.JPG|<center><small>Ērberģes muiža</small></center>
+Attēls:marijas tilts.JPG|<center><small>Marijas tilts, Ērberģe</small></center>
+Attēls:Erberges baznica.JPG|<center><small>Ērberģes luterāņu baznīca</small></center>
+Attēls:Lielmemeles parks.JPG|<center><small>Lielmēmeles muižas parks</small></center>
+Attēls:Lielmemeles muiza.jpg|<center><small>Lielmēmeles muiža</small></center>
+Attēls:tilts uz lietuvu.JPG|<center><small>Tiltiņš uz Lietuvu, Lielmēmele</small></center>
+Attēls:Vecmemeles muiza.JPG|<center><small>Vecmēmeles muiža</small></center>
+Attēls:Mazzalves pagasta pašvaldības ēka Ērberģē.JPG|<center><small>Pašvaldības ēka</small></center>
+Attēls:Ērberģe 1465.JPG|<center><small>Ērberģe 1465</small></center>
+</gallery>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Neretas novads}}
+{{Aizkraukles rajons}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Mazzalves pagasts| ]]

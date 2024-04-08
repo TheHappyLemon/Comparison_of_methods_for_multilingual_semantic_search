@@ -1,0 +1,10 @@
+:<span class="hatnote noexcerpt">Šis raksts ir par {{{1}}}. {{#switch:{{{4|}}}
+|uzvārds=Par citiem cilvēkiem ar uzvārdu '''{{{3}}}'''
+|vārds|biogrāfija=Par citiem cilvēkiem ar vārdu '''{{{3}}}'''
+|pseidonīms=Par citiem cilvēkiem ar pseidonīmu '''{{{3}}}'''
+|#default=Par citām jēdziena '''{{{3}}}''' nozīmēm
+}} skatīt [[{{{2}}}|nozīmju atdalīšanas lapu]].</span><!-- <includeonly>{{#ifeq:{{#expr:{{ #if: {{{1|}}} |1 |0 }} or {{ #if: {{{2|}}} |1 |0 }} or {{ #if: {{{3|}}} |1 |0 }}}}|0|[[Kategorija:Pagaidu uzlabošanas kategorija]]}}</includeonly> --><noinclude>
+{{dokumentācija}}
+
+[[Kategorija:Nozīmju atdalīšanas veidnes]]
+</noinclude>

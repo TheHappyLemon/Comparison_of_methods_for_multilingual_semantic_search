@@ -1,0 +1,88 @@
+{{Latvijas novada infokaste
+| nosaukums         = Glūdas pagasts
+| karte             = Glūdas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = <!-- nosaukums bez vikisaites -->
+| centrs2           = [[Nākotne (ciems)|Nākotne]]
+| platība           = 103,74
+| iedzīvotāji       = 3029<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 3029 / 103.74 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.gluda.lv
+| nos_vācu          = Brandenburg
+| ref_vācu          =
+| nos_krievu        = Бранденбургская
+| ref_krievu        =
+}}
+
+'''Glūdas pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] pašvaldībām tā rietumos. Robežojas ar sava novada [[Līvbērzes pagasts|Līvbērzes]], [[Svētes pagasts|Svētes]] un [[Zaļenieku pagasts|Zaļenieku]] pagastiem, [[Dobeles novads|Dobeles novada]] [[Krimūnu pagasts|Krimūnu]] un [[Bērzes pagasts|Bērzes]] pagastiem, kā arī [[Jelgava]]s pilsētu. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Auce (upe)|Auce]], [[Ālave]], [[Dorupīte]], [[Eglone]], [[Tērvete (upe)|Tērvete]].
+
+== Vēsture ==
+Vēsturiski mūsdienu Glūdas pagasta teritorijā atradās ''Auzenburg'' muiža, Brandenburgas muiža (''Brandenburg'', [[Bramberģe]]), Drukas muiža (''Druckenhof''), Kažmēres muiža (''Kasimirshof'', [[Zemgale (Glūdas pagasts)|Zemgale]]), Palcgrāves muiža (''Pfalzgrafen''), Šķibes muiža (''Alexandershof'').
+
+Līdz 1925. gadam '''Brambergas pagasts''' jeb '''Bramberģes pagasts'''. 1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Glūdas pagasta platība bija 63,9 km² un tajā dzīvoja 1177 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Dorupes ciems|Dorupes]] un Glūdas [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Glūdas ciems''' ietilpis [[Jelgavas rajons|Jelgavas]] (1949-1962, pēc 1967. gada) un [[Dobeles rajons|Dobeles]] (1962-1967) rajonos. Glūdas ciemam 1954. gadā pievienoja likvidēto Dorupes ciemu un daļu [[Mazsvētes ciems|Mazsvētes]] ciema, 1963. gadā [[kolhozs|kolhoza]] «Cīņa» teritoriju pievienoja [[Svētes ciems|Svētes ciemam]]. 1974. gadā Glūdas ciemam pievienoja daļu [[Līvbērzes ciems|Līvbērzes]] un Svētes ciemu teritorijas un daļu [[Zaļenieku ciems|Zaļenieku ciema]] kolhoza «Zemgale» teritorijas, 1977. gadā — daļu [[Austrumu ciems|Austrumu ciema]] teritorijas. 1979. gadā daļu ciema teritorijas pievienoja Līvbērzes ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Glūdas pagastu kā administratīvo teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1800
+|1959|2325
+|1979|3062
+|1989|3040
+|2000|2798
+|2011|2889
+|2021|2570
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Nākotne (ciems)|Nākotne]]''' (pagasta centrs), [[Dorupe (Glūdas pagasts)|Dorupe]], [[Zemgale (Glūdas pagasts)|Zemgale]], [[Bramberģe]], [[Glūda]], [[Ģībotkalns]], [[Mežvidi (Glūdas pagasts)|Mežvidi]], [[Smiltnieki]], [[Ūdeles (ciems)|Ūdeles]], [[Viesturciems]].
+
+=== Ievērojamas personības ===
+* [[Augusts Bērce]], pseidonīms ''Arājs'' (1890–1921), latviešu marksists, profesionāls revolucionārs un rakstnieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.gluda.lv Glūdas pagasta mājaslapa]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Gludas pagasts}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Glūdas pagasts| ]]

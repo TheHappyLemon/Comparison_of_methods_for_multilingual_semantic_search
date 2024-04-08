@@ -1,0 +1,10 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#F0F8FF"
+| style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt" | '''[[Krievu valoda|ru]]-1'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | Этот участник владеет '''[[:Kategorija:User ru|русским языком]]''' на '''[[:Kategorija:User ru-1|начальном уровне]]'''. 
+|}</div><includeonly>
+[[Kategorija:User ru|{{PAGENAME}}]]
+[[Kategorija:User ru-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Kategorija:Valodu lietotāju veidnes|ru-1]]
+</noinclude>

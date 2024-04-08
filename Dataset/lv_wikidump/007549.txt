@@ -1,0 +1,68 @@
+{{Latvijas novada infokaste
+| nosaukums         = Biķernieku pagasts
+| karte             = Biķernieku pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Biķernieku pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Biķernieku pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Augšdaugavas novads
+| centrs2           = [[Biķernieki (Biķernieku pagasts)|Biķernieki]]
+| platība           = 69
+| iedzīvotāji       = 754<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 754 / 69 round 1}}
+| izveidots         = 1931
+| mājaslapa         = www.bikerniekupag.lv
+}}
+
+'''Biķernieku pagasts''' viena no [[Augšdaugavas novads|Augšdaugavas novada]] administratīvajām teritorijām tā austrumos, rajona [[Latgale]]s daļā. Robežojas ar sava novada [[Naujenes pagasts|Naujenes]], [[Maļinovas pagasts|Maļinovas]], [[Višķu pagasts|Višķu]] un [[Ambeļu pagasts|Ambeļu]] pagastiem, kā arī [[Krāslavas novads|Krāslavas novada]] [[Izvaltas pagasts|Izvaltas]] un [[Ūdrīšu pagasts|Ūdrīšu pagastu]]. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Graņica]], [[Lielais Gorbatiks]], [[Plans]], [[Siānas kalns]].
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+[[Balta (upe)|Balta]], [[Leiksna]], [[Malnupeite (Rudņas pieteka)|Malnupeite]], [[Mazā Muša]], [[Puniška]], [[Putānu upīte]].
+
+==== Ūdenstilpes ====
+[[Gluhoje]], [[Gulbju dīķis]], [[Meļņicas ezers]], [[Pantelišku ezers]].
+
+==== Purvi ====
+[[Ļadi (purvs)|Ļadi]], [[Mohs (purvs)|Mohs]], [[Unguru pūrs]], [[Viselovas purvs]].
+
+== Vēsture ==
+[[Daugavpils apriņķis|Daugavpils apriņķa]] Biķernieku pagasts izveidots 1931. gadā, apvienojot daļas no [[Naujenes pagasts|Naujenes]], [[Izvaltas pagasts|Izvaltas]] un [[Višķu pagasts|Višķu]] pagastu teritorijām. 1935. gadā pagasta platība bija 79,7 km² un tajā dzīvoja 4903 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Biķernieku, [[Krivošejevas ciems|Krivošejevas]], [[Lipinišķu ciems|Lipinišķu]] un [[Pavlovas ciems|Pavlovas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Daugavpils rajons|Daugavpils rajona]] '''Biķernieku ciemam''' 1954. gadā pievienoja likvidēto Krivošejevas ciemu, 1965. gadā [[kolhozs|kolhoza]] «Znamja oktjabrja» teritoriju pievienoja [[Maļinovas ciems|Maļinovas ciemam]], 1975. gadā pievienoja likvidēto Lipinišķu ciemu, 1977. gadā daļu teritorijas pievienoja [[Izvaltas ciems|Izvaltas ciemam]], 1980. gadā daļu teritorijas — [[Naujenes pagasts|Vecpils ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Biķernieku pagastu kā administratīvo teritoriju iekļāva [[Daugavpils novads|Daugavpils novadā]]. 2021. gadā Daugavpils novads tika iekļauts jaunajā [[Augšdaugavas novads|Augšdaugavas novadā]].
+
+== Iedzīvotāji ==
+Iedzīvotāju skaits: 798 (2009), no tiem 76% [[krievi]], bet 11% - [[latvieši]].
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Biķernieki (Biķernieku pagasts)|Biķernieki]] (pagasta centrs), [[Akleņiški]], [[Bramaņiški]], [[Dekšņi (Biķernieku pagasts)|Dekšņi]], [[Krasnoje]], [[Krivošejeva]], [[Kudina]], [[Lielie Krivini]], [[Lipiņiški]], [[ Meļņica (Biķernieku pagasts)|Meļņica]], [[Panteļiški]], [[Pavlovska (ciems)|Pavlovska]], [[Reiņiški]], [[Šelehovka]], [[Viselova]], [[Zvindeļiški]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Augšdaugavas novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Daugavpils novads}}
+{{Daugavpils rajons}}
+{{Daugavpils apriņķis}}
+}}
+
+{{DEFAULTSORT:Bikzernieku pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Augšdaugavas novada pagasti]]
+[[Kategorija:Biķernieku pagasts| ]]

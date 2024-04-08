@@ -1,0 +1,29 @@
+[[File:Blochsphere.svg|thumb|Bloha [[sfēra]] palīdz izprast kvantu skaitļošanu]]
+'''Kvantu dators''' ir [[dators|skaitļošanas ierīce]], kuras darbības pamatā ir tādas [[kvantu mehānika]]s parādības kā [[kvantu superpozīcija]] ([[angļu valoda|angliski]]: ''quantum superposition'') un [[sapīts stāvoklis|sapīti stāvokļi]] ([[angļu valoda|angliski]]: ''entangled states''). Zinātnes nozari, kas salīdzina kvantu un klasisko datoru iespējas kā arī pēta iespējamās kvantu datoru fizikālās realizācijas, sauc par '''kvantu skaitļošanu'''.
+
+== Fizikālās realizācijas ==
+
+Ir veikti veiksmīgi [[eksperiments|eksperimenti]], kas parāda, ka kvantu skaitļošanas operācijas ir iespējams veikt ar nelielām kvantu sistēmām. Būtiskākais šķērslis lielāku kvantu datoru izveidei ir dekoherence ([[angļu valoda|angliski]]: ''decoherence'').
+
+== Kvantu algoritmi ==
+
+Ir izstrādāti teorētiski [[algoritms|algoritmi]], kas izmanto kvantu datoru īpašās iespējas. Nozīmīgākie no tiem ir [[Šora algoritms]] skaitļu sadalīšanai pirmreizinātājos un [[Grovera algoritms]] meklēšanai nesakārtotā [[datubāze|datubāzē]]. Ja zinātniekiem izdosies izveidot liela mēroga kvantu datorus, tad ar to palīdzību noteikta veida problēmas būs iespējams atrisināt daudz ātrāk par jebkuru klasisko datoru. Tas apdraudētu pastāvošo kriptosistēmu (piemēram, [[RSA šifrēšanas algoritms|RSA]]) drošību.
+
+== Kvantu skaitļošana Latvijā ==
+
+Latvijā ar kvantu skaitļošanu nodarbojas vairāki pētnieki [[Latvijas Universitāte|Latvijas Universitātē]]<ref>[http://www.lu.lv/dn/zinatne/DMK_Kvantu_datorika.html Kvantu datorika] {{Webarchive|url=https://web.archive.org/web/20080327145943/http://www.lu.lv/dn/zinatne/DMK_Kvantu_datorika.html |date={{dat|2008|03|27||bez}} }}, Latvijas Universitāte, Datorikas fakultāte.</ref>, tajā skaitā [[Rūsiņš Mārtiņš Freivalds]]<ref name="Diena">[http://www.lu.lv/laikraksts/zinatne/129/index.html Jaunais dators skaitļos ar atomu palīdzību] {{Webarchive|url=https://web.archive.org/web/20080611152811/http://www.lu.lv/laikraksts/zinatne/129/index.html |date={{dat|2008|06|11||bez}} }}, Diena, 2006. gada 5. janvāris.</ref><ref>[[Rūsiņš Mārtiņš Freivalds]], [http://www.lu.lv/laikraksts/zinas/630/index.html Ko Bernhards Rīmans ir teicis par kvantu datoriem?] {{Webarchive|url=https://web.archive.org/web/20070301173652/http://www.lu.lv/laikraksts/zinas/630/index.html |date={{dat|2007|03|01||bez}} }}, Latvijas Universitātes Avīze, 2006. gada 7. decembris.</ref>, [[Juris Smotrovs]] un [[Andris Ambainis]],<ref name="Diena"/><ref>[http://www.lu.lv/materiali/laikraksts/resursi/ua-vasara-2006.pdf Unikālais prāts - Andris Ambainis, kvantu datori un gaidāmā revolūcija] {{Webarchive|url=https://web.archive.org/web/20061210224636/http://www.lu.lv/materiali/laikraksts/resursi/ua-vasara-2006.pdf |date={{dat|2006|12|10||bez}} }}, Latvijas Universitātes Avīze, 2006. gada vasara.</ref> kas 2003. gadā postulēja t.s. kvantu klejošanas metodi. Latvijas Universitātes zinātnieki profesora Ambaiņa vadībā koordinē lielus Eiropas pētniecības projektus kvantu skaitļošanā.<ref>[https://www.lu.lv/fileadmin/user_upload/lu_portal/adz/arhivs/50/50.pdf Andris Ambainis. Kvantu skaitļošana un mans ceļš zinātnē] [[Akadēmiskā Dzīve]], 50. rakstu krājums (2013/2014)</ref>
+
+== Atsauces ==
+
+{{atsauces}}
+
+== Ārējās saites ==
+
+* [[Juris Smotrovs]], [http://www.ltn.lv/~smotrovs/ks/ Kvantu skaitļošana], lekciju konspekti.
+* [[Andris Ambainis]], [https://web.archive.org/web/20091211092857/http://www.lu.lv/dn/progrdienas/faili/AA2008.pdf Kvantu skaitļošana: kas jauns?], lekcija Programmētaju dienās 2008.
+* [http://anton.world.lv/sakarup/main.php3?sub=view&RID=68 Kvantu skaitļošana — absurda teātris ☻ vai realitāte?]{{Novecojusi saite}}, Sakaru Pasaule, 2(18), 2000.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datorzinātne]]
+[[Kategorija:Kvantu mehānika]]

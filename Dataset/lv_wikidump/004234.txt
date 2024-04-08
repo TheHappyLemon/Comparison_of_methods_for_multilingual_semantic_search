@@ -1,0 +1,41 @@
+{{Senvietas infokaste
+ |            name = Ankorvats
+ |     native_name = អង្គរវត្ត
+ |           image = Angkor Wat.jpg
+ |         caption = Galvenā ieeja templī
+ |     pushpin_map = Kambodža
+ | plat_NS = N | plat_d = 13 | plat_m = 24 | plat_s = 45
+ |  gar_EW = E | gar_d = 103 |  gar_m = 52 |  gar_s = 00
+ | kartes_paraksts = Ankorvata atrašanās vieta Kambodžā
+}}
+
+'''Ankorvats''' ({{val|km|អង្គរវត្ត}} — ‘Ankoras templis’) ir [[templis|tempļu]], piļu, ūdenskrātuvju un kanālu komplekss [[Ankora|Ankorā]], [[Kambodža]]s ziemeļaustrumos, netālu no [[Sīemrīeba]]s pilsētas. To 12. gadsimtā sākumā kā savas valsts templi un [[galvaspilsēta|galvaspilsētu]] sāka celt [[Khmeru impērija]]s valdnieks [[Surjavarmans II]]. Sākotnēji Ankorvats bija [[hinduisms|hinduisma]] templis, kas veltīts dievietei [[Višnu]], bet vēlāk tas kļuva par [[budisms|budistu]] templi. Ankorvats ir ļoti labi saglabājies, un tas ir [[khmeru arhitektūra]]s klasiskā stila paraugs. Ankorvats ir kļuvis par [[Kambodža]]s simbolu, un ir attēlots [[Kambodžas karogs|valsts karogā]]. Mūsdienās Ankorvats ir [[tūrisms|tūristu]] galvenais apskates objekts Kambodžā.
+
+Ankorvats ir slavens ar to, ka ir lielākais templis pasaulē, tas ir iekļauts [[Ginesa rekordu grāmata|Ginesa rekordu grāmatā]] kā lielākā reliģiskā celtne.<ref name="Ginesa grāmata"/> Ankorvata kopējā platība ir 162,6 hektāri.<ref name="Ginesa grāmata"/> Ankorvats ir galvenais Ankoras reliģisko un laicīgo tempļu un [[klosteris|klosteru]] kompleksa elements.
+
+Ankorvats bija viens no [[Septiņi jaunie pasaules brīnumi|Septiņu jauno pasaules brīnumu]] kandidātiem, tomēr par tādu atzīts netika.
+
+== Vēsture ==
+Ankorvatu [[12. gadsimts|12. gadsimta]] sākumā kā savas valsts templi un [[galvaspilsēta|galvaspilsētu]] sāka celt [[Khmeru impērija]]s valdnieks [[Surjavarmans II]]. Tas tika uzcelts pavisam netālu no iepriekšējās galvaspilsētas [[Baphuona]]s. 1177. gadā templi izpostīja kaimiņvalsts [[Čampa]]. Tempļa celtniecību pabeidza [[Džajavarmans VII]], kas valdīja no 1181. līdz 1218. gadam. Sākotnēji Ankorvats bija [[hinduisms|hinduisma]] templis, kas veltīts dievietei [[Višnu]]. Pēc tam, kad Angkoru 1431. gadā iekaroja un izlaupīja [[Ajutajas karaliste]], Khmeru impērija savu galvaspilsētu pārcēla uz [[Pnompeņa|Pnompeņu]], un templī sāka saimniekot [[budisms|budistu]] mūki. Līdz pat mūsdienām Ankorvats saglabājies kā budistu templis.
+
+Viens no pirmajiem eiropiešiem, kas ieraudzīja Ankorvatu, bija portugālis [[Antonio da Madalena]] (''António da Madalena''), kurš Angorā pirmo reizi nokļuva 1586. gadā. Eiropieši Ankorvatu detalizēti sāka pētīt 19. gadsimta otrajā pusē un 20. gadsimta sākumā, kad Kambodža atradās [[Franču Indoķīna]]s sastāvā.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Ginesa grāmata">{{tīmekļa atsauce | url= http://www.guinnessworldrecords.com/world-records/largest-religious-structure/ | title= Largest religious structure | publisher= Guinness World Records | language= en | accessdate= 2018. gada 1. jūnijā}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline|Ankorvats}}
+
+
+{{Reliģija-aizmetnis}}
+{{Vēsture-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hinduisms]]
+[[Kategorija:Budistu tempļi]]
+[[Kategorija:Apskates vietas Kambodžā]]
+[[Kategorija:Ginesa rekordu grāmata]]
+[[Kategorija:Arheoastronomija]]

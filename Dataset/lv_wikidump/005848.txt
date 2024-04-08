@@ -1,0 +1,262 @@
+{{Sporta izlases infokaste
+ | valsts         = Norvēģija
+ | valsts_angl    = 
+ | att_izm        = 
+ | logo           = Hockeynorway.PNG
+ | logo_izm       = 
+ | dibin          = 
+ | federācija     = 
+ | iest gads      = 
+ | iest kom       = 
+ | konfederācija  = 
+ | vieta rangā    = 12.
+ | rangs max      = 8.
+ | rangs max date = 2012.
+ | rangs min      = 21.
+ | rangs min date = 2004.
+ | iesauka        = 
+ | stadions       = 
+ | arēna          = 
+ | laukums        = 
+ | halle          = 
+<!--- Personāls --->
+ | treneris       = {{flaga|Norvēģija}} [[Peters Tūresens]]
+ | pers01         = Ģenerālmenedžeris
+ | pers01_vārds   = [[Bjerns Matisruds]]
+ | kapteinis      = [[Jūnass Holess]]
+ | visv spēles    = 
+ | visv vārtu     = 
+ | visv punktu    = [[Tomijs Jākobsens]] (139)
+<!--- OS --->
+ | OS reizes      = 12
+ | OS medaļas     = 0
+ | OS lab sasn    = 8. vieta ([[Hokejs 1972. gada ziemas olimpiskajās spēlēs|1972]], [[Hokejs 2018. gada ziemas olimpiskajās spēlēs — vīrieši|2018]])
+<!--- PČ --->
+ | PČ nos         = [[Pasaules čempionāts hokejā]]
+ | PČ reizes      = 69
+ | PČ medaļas     = 0
+ | PČ lab sasn    = 4. vieta ([[1951. gada Pasaules čempionāts hokejā|1951]])
+<!--- Zona --->
+ | zona nos       = 
+ | zona reizes    = 
+ | zona medaļas   = 
+ | zona lab sasn  = 
+<!--- Spēles --->
+ | pirmā spēle    = {{flaga|Čehoslovākija}} [[Čehoslovākijas hokeja izlase|Čehoslovākija]] 7—0 {{ih-rt|NOR}}<br />([[Londona]], [[Lielbritāņija]]; {{dat|1937|2|17|N}})
+ | pēdējā spēle   = 
+ | liel uzvara    = {{ih|NOR}} 24—0 {{ih-rt|BEL}}<br />([[Sofija]], [[Bulgārija]]; {{dat|1975|3|5|N}})<br />{{ih|NOR}} 25—1 {{ih-rt|CHN}}<br />([[Debrecena]], [[Ungārija]]; {{dat|2005|4|22|N}})
+ | liel zaud      = {{ih|FIN}} 20—1 {{ih-rt|NOR}}<br />([[Hēmenlinna]], [[Somija]]; {{dat|1947|3|12|N}})
+ | pašreizējais   = 
+}}
+'''Norvēģijas hokeja izlase''' ir komanda, kas pārstāv [[Norvēģija|Norvēģiju]] starptautiskajās [[hokejs|hokeja]] spēlēs. Norvēģijas hokeja izlases labākais sasniegums [[Pasaules čempionāts hokejā|Pasaules čempionātos]] ir 4. vieta 1951. gadā.
+
+2023. gadā tā atrodas 12. vietā [[Starptautiskā Hokeja federācija|Starptautiskās Hokeja federācija]]s vīriešu hokeja izlašu rangā<ref>{{Tīmekļa atsauce|url=https://www.iihf.com/en/worldranking/|title=2021 Men's World Ranking|language=en|publisher=[[IIHF]]|accessdate={{dat|2021|5|22||bez}}}}</ref> un spēlē [[2023. gada Pasaules čempionāts hokejā|2023. gada Pasaules čempionāta]] elites divīzijā.
+
+== Rezultāti nozīmīgākajos turnīros ==
+=== Olimpiskās spēles ===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Spēles
+! Rezultāts
+|-
+|[[Hokejs 1952. gada ziemas olimpiskajās spēlēs|1952]]
+|9. vieta
+|-
+|[[Hokejs 1956. gada ziemas olimpiskajās spēlēs|1956]]
+|''Nepiedalījās''
+|-
+|[[Hokejs 1960. gada ziemas olimpiskajās spēlēs|1960]]
+|''Nepiedalījās''
+|-
+|[[Hokejs 1964. gada ziemas olimpiskajās spēlēs|1964]]
+|10. vieta
+|-
+|[[Hokejs 1968. gada ziemas olimpiskajās spēlēs|1968]]
+|11. vieta
+|-
+|[[Hokejs 1972. gada ziemas olimpiskajās spēlēs|1972]]
+|8. vieta
+|-
+|[[Hokejs 1976. gada ziemas olimpiskajās spēlēs|1976]]
+|''Nepiedalījās''
+|-
+|[[Hokejs 1980. gada ziemas olimpiskajās spēlēs|1980]]
+|11. vieta
+|-
+|[[Hokejs 1984. gada ziemas olimpiskajās spēlēs|1984]]
+|12. vieta
+|-
+|[[Hokejs 1988. gada ziemas olimpiskajās spēlēs|1988]]
+|12. vieta
+|-
+|[[Hokejs 1992. gada ziemas olimpiskajās spēlēs|1992]]
+|9. vieta
+|-
+|[[Hokejs 1994. gada ziemas olimpiskajās spēlēs|1994]]
+|11. vieta
+|-
+|[[Hokejs 1998. gada ziemas olimpiskajās spēlēs|1998]]
+|''Nekvalificējās''
+|-
+|[[Hokejs 2002. gada ziemas olimpiskajās spēlēs|2002]]
+|''Nekvalificējās''
+|-
+|[[Hokejs 2006. gada ziemas olimpiskajās spēlēs|2006]]
+|''Nekvalificējās''
+|-
+|[[Hokejs 2010. gada ziemas olimpiskajās spēlēs|2010]]
+|10. vieta
+|-
+|[[Hokejs 2014. gada ziemas olimpiskajās spēlēs — Vīrieši|2014]]
+|12. vieta
+|-
+|[[Hokejs 2018. gada ziemas olimpiskajās spēlēs — vīrieši|2018]]
+|8. vieta
+|}
+<small>Piezīme:</small> Līdz 1968. gadam olimpisko spēļu turnīra rezultāts tika ieskaitīts arī pasaules čempionāta ieskaitē.
+
+=== Pasaules čempionāts ===
+{{Div col|3}}
+* [[1937. gada Pasaules čempionāts hokejā|1937]] — 9. vieta
+* [[1938. gada Pasaules čempionāts hokejā|1938]] — 13. vieta
+* [[1939. gada Pasaules čempionāts hokejā|1939]] — ''Nepiedalījās''
+* [[1947. gada Pasaules čempionāts hokejā|1947]] — ''Nepiedalījās''
+* [[1949. gada Pasaules čempionāts hokejā|1949]] — 8. vieta
+* [[1950. gada Pasaules čempionāts hokejā|1950]] — 6. vieta
+* [[1951. gada Pasaules čempionāts hokejā|1951]] — 4. vieta
+* [[1953. gada Pasaules čempionāts hokejā|1953]] — ''Nepiedalījās''
+* [[1954. gada Pasaules čempionāts hokejā|1954]] — 8. vieta
+* [[1955. gada Pasaules čempionāts hokejā|1955]] — ''Nepiedalījās''
+* 1956 — 12. vieta (2. vieta B grupā)
+* [[1957. gada Pasaules čempionāts hokejā|1957]] — ''Nepiedalījās''
+* [[1958. gada Pasaules čempionāts hokejā|1958]] — 7. vieta
+* [[1959. gada Pasaules čempionāts hokejā|1959]] — 8. vieta
+* [[1961. gada Pasaules čempionāts hokejā|1961]] — 9. vieta (uzvarēja B grupā)
+* [[1962. gada Pasaules čempionāts hokejā|1962]] — 5. vieta
+* [[1963. gada Pasaules čempionāts hokejā|1963]] — 9. vieta (uzvarēja B grupā)
+* [[1965. gada Pasaules čempionāts hokejā|1965]] — 8. vieta
+* [[1966. gada Pasaules čempionāts hokejā|1966]] — 12. vieta (4. vieta B grupā)
+* [[1967. gada Pasaules čempionāts hokejā|1967]] — 11. vieta (3. vieta B grupā)
+* [[1969. gada Pasaules čempionāts hokejā|1969]] — 11. vieta (5. vieta B grupā)
+* [[1970. gada Pasaules čempionāts hokejā|1970]] — 9. vieta (3. vieta B grupā)
+* [[1971. gada Pasaules čempionāts hokejā|1971]] — 10. vieta (4. vieta B grupā)
+* [[1972. gada Pasaules čempionāts hokejā|1972]] — 13. vieta (7. vieta B grupā)
+* [[1973. gada Pasaules čempionāts hokejā|1973]] — 15. vieta (uzvarēja C grupā)
+* [[1974. gada Pasaules čempionāts hokejā|1974]] — 13. vieta (7. vieta B grupā)
+* [[1975. gada Pasaules čempionāts hokejā|1975]] — 15. vieta (uzvarēja C grupā)
+* [[1976. gada Pasaules čempionāts hokejā|1976]] — 11. vieta (3. vieta B grupā)
+* [[1977. gada Pasaules čempionāts hokejā|1977]] — 12. vieta (4. vieta B grupā)
+* [[1978. gada Pasaules čempionāts hokejā|1978]] — 14. vieta (6. vieta B grupā)
+* [[1979. gada Pasaules čempionāts hokejā|1979]] — 12. vieta (4. vieta B grupā)
+* [[1981. gada Pasaules čempionāts hokejā|1981]] — 14. vieta (6. vieta B grupā)
+* [[1982. gada Pasaules čempionāts hokejā|1982]] — 12. vieta (4. vieta B grupā)
+* [[1983. gada Pasaules čempionāts hokejā|1983]] — 12. vieta (4. vieta B grupā)
+* [[1985. gada Pasaules čempionāts hokejā|1985]] — 15. vieta (7. vieta B grupā)
+* [[1986. gada Pasaules čempionāts hokejā|1986]] — 17. vieta (uzvarēja C grupā)
+* [[1987. gada Pasaules čempionāts hokejā|1987]] — 10. vieta (2. vieta B grupā)
+* [[1989. gada Pasaules čempionāts hokejā|1989]] — 9. vieta (uzvarēja B grupā)
+* [[1990. gada Pasaules čempionāts hokejā|1990]] — 8. vieta
+* [[1991. gada Pasaules čempionāts hokejā|1991]] — 10. vieta (2. vieta B grupā)
+* [[1992. gada Pasaules čempionāts hokejā|1992]] — 10. vieta
+* [[1993. gada Pasaules čempionāts hokejā|1993]] — 11. vieta
+* [[1994. gada Pasaules čempionāts hokejā|1994]] — 11. vieta
+* [[1995. gada Pasaules čempionāts hokejā|1995]] — 10. vieta
+* [[1996. gada Pasaules čempionāts hokejā|1996]] — 9. vieta
+* [[1997. gada Pasaules čempionāts hokejā|1997]] — 12. vieta
+* [[1998. gada Pasaules čempionāts hokejā|1998]] — 21. vieta (5. vieta B grupā)
+* [[1999. gada Pasaules čempionāts hokejā|1999]] — 12. vieta
+* [[2000. gada Pasaules čempionāts hokejā|2000]] — 10. vieta
+* [[2001. gada Pasaules čempionāts hokejā|2001]] — 15. vieta
+* [[2002. gada Pasaules čempionāts hokejā|2002]] — 22. vieta (3. vieta 1. divīzijas B grupā)
+* [[2003. gada Pasaules čempionāts hokejā|2003]] — 20. vieta (2. vieta 1. divīzijas B grupā)
+* [[2004. gada Pasaules čempionāts hokejā|2004]] — 20. vieta (2. vieta 1. divīzijas A grupā)
+* [[2005. gada Pasaules čempionāts hokejā|2005]] — 17. vieta (uzvarēja 1. divīzijas A grupā)
+* [[2006. gada Pasaules čempionāts hokejā|2006]] — 11. vieta
+* [[2007. gada Pasaules čempionāts hokejā|2007]] — 14. vieta
+* [[2008. gada Pasaules čempionāts hokejā|2008]] — 8. vieta
+* [[2009. gada Pasaules čempionāts hokejā|2009]] — 11. vieta
+* [[2010. gada Pasaules čempionāts hokejā|2010]] — 9. vieta
+* [[2011. gada Pasaules čempionāts hokejā|2011]] — 6. vieta
+* [[2012. gada Pasaules čempionāts hokejā|2012]] — 8. vieta
+* [[2013. gada Pasaules čempionāts hokejā|2013]] — 10. vieta
+* [[2014. gada Pasaules čempionāts hokejā|2014]] — 12. vieta
+* [[2015. gada Pasaules čempionāts hokejā|2015]] — 11. vieta
+* [[2016. gada Pasaules čempionāts hokejā|2016]] — 10. vieta
+* [[2017. gada Pasaules čempionāts hokejā|2017]] — 11. vieta
+* [[2018. gada Pasaules čempionāts hokejā|2018]] — 13. vieta
+* [[2019. gada Pasaules čempionāts hokejā|2019]] — 12. vieta
+* [[2021. gada Pasaules čempionāts hokejā|2021]] — 13. vieta
+* [[2022. gada Pasaules čempionāts hokejā|2022]] — 13. vieta
+* [[2023. gada Pasaules čempionāts hokejā|2023]] — 13. vieta
+{{Div col end}}
+
+== Izlases sastāvs 2014. gada ziemas olimpiskajās spēlēs ==
+=== {{ih|NOR}} ===
+{| border="1" cellpadding="2" cellspacing="0" width="40%" class="wikitable sortable" style="font-size: 90%; text-align: center;"
+|- bgcolor=#d0e7ff
+! style="width:  5%;" | Nr.
+! style="width:  5%;" | Poz.
+! style="width: 30%;" | Spēlētājs
+! style="width: 50%;" | Klubs
+|-
+| || {{HOK-V}} ||align=left| [[Lāšs Haugens]] || align="left" | {{flaga|Baltkrievija}} [[Minskas "Dinamo" (hokejs)|Minskas "Dinamo"]] ([[KHL]])
+|-
+| || {{HOK-V}} ||align=left| [[Lāšs Voldens]] ||align=left| {{flaga|Somija}} [[Espo "Blues"]] ([[SM līga]])
+|-
+| || {{HOK-V}} ||align=left| [[Steffen Søberg|Stefens Soberjs]] ||align=left| {{flaga|Norvēģija}} [[Vålerenga Ishockey]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-A}} ||align=left| [[Aleksandrs Bonsaksens]] ||align=left| {{flaga|Norvēģija}} [[Vålerenga Ishockey]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-A}} ||align=left| [[Jonass Holess]] ||align=left| {{flaga|Krievija}} [[Jaroslavļas "Lokomotiv"]] ([[KHL]])
+|-
+| || {{HOK-A}} ||align=left| [[Henriks Sūlberjs]] ||align=left| {{flaga|Norvēģija}} [[Stavangeres "Oilers"]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-A}} ||align=left| [[Daniel Sørvik|Daniels Sorviks]] ||align=left| {{flaga|Norvēģija}} [[Vålerenga Ishockey]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-A}} ||align=left| [[Ūle Kristians Tolefsens]] ||align=left| {{flaga|Zviedrija}} [[Färjestad BK]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-A}} ||align=left| [[Mats Trygg|Matss Triggs]] ||align=left| {{flaga|Norvēģija}} [[Lorenskog IK]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-A}} ||align=left| [[Henrik Ødegaard|Henriks Odegārds]] ||align=left| {{flaga|ASV}} [[Missouri Mavericks]] ([[Centrālā hokeja līga|CHL]])
+|-
+| || {{HOK-U}} ||align=left| [[Mortens Asks]] ||align=left| {{flaga|Norvēģija}} [[Vålerenga Ishockey]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-U}} ||align=left| [[Anderss Bastiansens]] ||align=left| {{flaga|Zviedrija}} [[Färjestad BK]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Robin Dahlstrøm|Robins Dālstroms]] ||align=left| {{flaga|Zviedrija}} [[Örebro HK]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Kristian Forsberg|Kristians Fošberjs]] ||align=left| {{flaga|Zviedrija}} [[Modo Hockey]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Madss Hansens]] ||align=left| {{flaga|Norvēģija}} [[Storhamaras "Dragons"]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-U}} ||align=left| [[Sondre Ūldens]] ||align=left| {{flaga|Norvēģija}} [[Vålerenga Ishockey]] ([[Norvēģijas hokeja līga|Norvēģija]])
+|-
+| || {{HOK-U}} ||align=left| [[Ken André Olimb|Kens Andrē Ūlimbs]] ||align=left| {{flaga|Vācija}} [[Diseldorfas "Metro Stars"]] ([[Vācijas hokeja līga|DEL]])
+|-
+| || {{HOK-U}} ||align=left| [[Matīss Ūlimbs]] ||align=left| {{flaga|Zviedrija}} [[Frölunda HC]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Mats Rosseli Olsen|Matss Roseli Ūlsens]] ||align=left| {{flaga|Zviedrija}} [[Frölunda HC]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Niklass Roests]] ||align=left| {{flaga|Zviedrija}} [[BIK Karlskoga]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Martin Røymark|Martins Roimarks]] ||align=left| {{flaga|Zviedrija}} [[Färjestad BK]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Per-Åge Skrøder|Pērs Oge Skroders]] ||align=left| {{flaga|Zviedrija}} [[Modo Hockey]] ([[Zviedrijas hokeja līga|Zviedrija]])
+|-
+| || {{HOK-U}} ||align=left| [[Patriks Tūresens]] ||align=left| {{flaga|Krievija}} [[Sanktpēterburgas SKA]] ([[KHL]])
+|-
+| || {{HOK-U}} ||align=left| [[Matss Dzukarello Osens]] ||align=left| {{flaga|ASV}} [[Ņujorkas "Rangers"]] ([[Nacionālā hokeja līga|NHL]])
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+*[http://www.hockey.no hockey.no]
+
+{{Hokejs-aizmetnis}}
+
+{{Hokejaizlases}}
+
+[[Kategorija:Hokejs Norvēģijā]]
+[[Kategorija:Eiropas hokeja izlases]]

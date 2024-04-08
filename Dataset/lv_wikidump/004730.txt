@@ -1,0 +1,24 @@
+'''Saistīts saraksts''' ir lineāra [[datu struktūra]], kurā katrs [[datu elements|elements]] ('''mezgls''') glabā datus un rādītāju. Rādītājs (adrese) norāda uz nākamo elementu. Pēdējā mezglā rādītājs ir tukšs — nenorāda ne uz vienu elementu. Saistīto sarakstu bieži vien sauc vienkārši par '''sarakstu'''.
+
+[[Attēls:Singly-linked-list.svg|thumb|right|Vienkāršs saistīts saraksts ar 3 elementiem]]
+
+Var būt [[Dubultsaišu saraksts|dubultsaišu]] jeb divvirziena saraksts, kuram katrā mezglā ir divi rādītāji, kur viens norāda uz iepriekšējo mezglu, bet otrs — uz nākamo.
+
+Var būt [[Ciklisks saraksts|ciklisks]] jeb gredzenveida saraksts, kuram pēdējā mezgla rādītājs norāda uz saraksta pirmo mezglu.
+
+== Sarakstu salīdzinājums ar masīviem ==
+Sarakstā var uzglabāt tādus pašus datus kā [[masīvs|masīvā]], bet tie atšķiras struktūras ziņā un katram ir savas priekšrocības un trūkumi.
+
+=== Priekšrocības ===
+* viegli pievienot un dzēst elementus, tikai izmainot rādītājus uz vajadzīgo mezglu
+* datora [[Brīvpiekļuves atmiņa|atmiņas]] izdalīšana (un atbrīvošana) notiek tikai tad, kad notiek jaunu elementu pievienošana vai dzēšana
+
+=== Trūkumi ===
+* grūti noteikt elementa kārtas numuru (indeksu): lai to izdarītu, ir jāiziet visam sarakstam cauri līdz vajadzīgajam mezglam
+* rādītājam tiek tērēta papildu atmiņa
+
+{{Datu struktūras}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datu struktūras]]

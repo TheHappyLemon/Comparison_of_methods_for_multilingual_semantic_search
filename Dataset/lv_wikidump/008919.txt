@@ -1,0 +1,84 @@
+{{BioTakso infokaste
+| attēls =Branchiostoma_lanceolatum.jpg
+| att_nosaukums ={{TaksoSaite|Branchiostoma lanceolatum|Eiropas lancetnieks}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| klase =Cephalochorda
+| klase_lv =Galvhordaiņi
+| sinonīmi =
+''Amphioxi''
+| iedalījums =
+* {{TaksoSaite|Branchiostomatiformes}}
+| kategorijas =nē
+}}
+'''Lancetnieki''' (''Leptocardii'') ir [[Galvhordaiņi|galvhordaiņu]] apakštipa klase. Tās pārstāvjus raksturo pilnīga ķermeņa segmentācija, nenorobežotā [[galva]], [[Muguras stiegra|horda]]s turpinājums aiz smadzeņu priekšējā gala, īpašs apžaunu jeb [[atriālais dobums]], kurā atveras ļoti daudz [[žaunu atveres|žaunu atveru]], tiem nav centrālā asinsrites orgāna — [[sirds]], skaidri izteiktu [[galvas smadzenes|galvas smadzeņu]] un augsti attīstītu [[maņu orgāni|maņu orgānu]], ir segmentēta [[nefridiālā sistēma]] un [[dzimumsistēma]]. 
+[[Attēls:BranchiostomaLanceolatum PioM.svg|700px]]
+# Smadzeņu priekšējais gals
+# Horda (Notohorda)
+# Nervu caurule (Muguras smadzenes)
+# Astes spura
+# Anālā atvere
+# Zarnas kanāls
+# Asinsrites sistēma
+# Atriopora
+# Apžaunu jeb atriālais dobums
+# Žaunu spraugas
+# Rīkle
+# Mirgojošais orgāns
+# Mutes taustekļi
+# Mutes atvere
+# Gonādas
+# Heses actiņa
+# Nervi
+# Metapleirālā kroka
+# Aknu izaugums
+
+== Sistemātika ==
+Mūsdienās dzīvo virs trīsdesmit lancetnieku sugu, kas iedalās 1 kārtā un 2 dzimtās.
+
+'''Klase''' {{TaksoSaite|Leptocardii|Lancetnieki}} (Amphioxi)
+* kārta {{TaksoSaite|Branchiostomatiformes}}
+** dzimta {{TaksoSaite|Asymmetronidae}}	
+** dzimta {{TaksoSaite|Branchiostomidae}}
+<!--
+:*kārta: Branchiostomatiformes (syn. Amphioxiformes)
+
+::*dzimta: [[Asymmetronidae]]  	
+:::*ģints: Asymmetron Andrews
+::::*Bahāmu lancetnieks - Asymmetron lucayanum Andrews
+::::*Maldivu lancetnieks - Asymmetron maldivense  (Foster Cooper)
+
+:::*ģints: Epigonichthys Peters
+::::*Austrālijas dziļūdens lancetnieks - Epigonichthys australis (Raff)
+::::*Dienvidu lancetnieks - Epigonichthys bassanus (Günther)
+::::*Pundurlancetnieks - Epigonichthys parvus Parker
+
+:::*ģints: Amphioxides Gill
+::::*Pelaģiskais lancetnieks - Amphioxides pelagicus (Günther)
+::::*Valdīvu lancetnieks - Amphioxides valdivae Goldschmidt
+
+
+::*dzimta: [[Branchiostomidae]]
+:::*ģints: Branchiostoma Costa et Yarrell
+::::*Āzijas lancetnieks - Branchiostoma belcheri (Gray)
+::::*Bermudu lancetnieks - Branchiostoma bermudae Hubbs
+::::*Kalifonijas lancetnieks - Branchiostoma californiense Gill
+::::*Kapzemes lancetnieks - Branchiostoma capense Gilchrist
+::::*Karību lancetnieks - Branchiostoma caribaeum Sundevall
+::::*Čīles lancetnieks - Branchiostoma elongatum (Sundevall)
+::::*Floridas lancetnieks - Branchiostoma floridae Hubbs
+::::*Eiropas lancetnieks - Branchiostoma lanceolatum (Pallas)
+::::*Virdžīnijas lancetnieks - Branchiostoma virginiae Hubbs
+
+:::*ģints: Dolichorhynchus Willey
+::::*Indijas lancetnieks - Dolichorhynchus indicus Willey
+-->
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+[[Kategorija:Galvhordaiņi]]

@@ -1,0 +1,73 @@
+{{Citas nozīmes|upi [[Polija|Polijā]]|Buga (nozīmju atdalīšana)|Buga}}
+{{Upes infokaste 
+| nosaukums         = Buga
+| valsts            = Polija
+| citnosaukums      = Buga
+| citvaloda         = pl
+| citvaloriģin      = Bug
+| valsts1           = Baltkrievija
+| citnosaukums1     = Rietumu Buga
+| citvaloda1        = be
+| citvaloriģin1     = Заходні Буг
+| valsts2           = Ukraina
+| citnosaukums2     = Rietumu Buha
+| citvaloda2        = uk
+| citvaloriģin2     = Західний Буг
+| attēls            = Bug wlodawa01b-04.jpg
+| attēla_izmērs     = 
+| paraksts          = Buga pie [[Vlodava]]s
+| karte             = Upe_RBuga.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Podolijas augstiene]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Nareva]]
+| baseina_valstis   = 
+| tek_caur          = {{UKR}}<br />{{BLR}}<br />{{POL}}
+| garums            = 772 
+| garums_latvijā    = 
+| iztekas_augstums  = 310
+| ietekas_augstums  = 75
+| kritums           = 
+| caurtece          = 158
+| caurtece_vieta    = pie [[Viškova (Polija)|Viškovas]]
+| gada_notece       = 
+| baseins           = 73 470
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d=49 | sāk_plat_m=53 | sāk_plat_s=34 | sāk_plat_NS=N 
+| sāk_gar_d=25 | sāk_gar_m=01 | sāk_gar_s=00 | sāk_gar_EW=E 
+| iet_plat_d=52 | iet_plat_m=30 | iet_plat_s=24 | iet_plat_NS=N 
+| iet_gar_d=21 | iet_gar_m=05 | iet_gar_s=04 | iet_gar_EW=E
+  | vietaskarte       = Eiropa
+  | reljefs           = jā
+}}
+
+'''Buga''' ({{val|pl|Bug}}) jeb '''Rietumu Buha''' ({{val|be|Заходні Буг}}; {{val|uk|Західний Буг}}) ir upe [[Eiropa|Eiropā]], [[Polija]]s—[[Ukraina]]s un [[Baltkrievija]]s robežupe. [[Nareva]]s kreisā krasta pieteka. Sākas Ukrainā, Podolijas augstienē, netālu no [[Ļviva]]s. Tipiska līdzenuma upe, tek pa Poļesjes un Mazovijas-Podļases zemienēm.
+
+== Pilsētas Bugas krastos ==
+[[Červonohrada]], [[Sokaļa]], [[Vlodava]], [[Terespole]], [[Bresta (Baltkrievija)|Bresta]], [[Drohičina]], [[Broka (pilsēta)|Broka]], [[Viškova (Polija)|Viškova]]
+
+== Kanāli ==
+* Dņepras—Bugas kanāls savieno Rietumu Bugu ar [[Dņepra]]s baseinu
+* Augustovas kanāls savieno Rietumu Bugu ar [[Nemuna]]s baseinu
+* Mazūru ūdensceļš savieno Rietumu Bugu ar [[Pregoļa]]s baseinu
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Baltkrievijas upes]]
+[[Kategorija:Polijas upes]]
+[[Kategorija:Ukrainas upes]]
+[[Kategorija:Narevas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Buga]]
+[[Kategorija:Ļubļinas vojevodiste]]
+[[Kategorija:Mazovijas vojevodiste]]
+[[Kategorija:Podlases vojevodiste]]

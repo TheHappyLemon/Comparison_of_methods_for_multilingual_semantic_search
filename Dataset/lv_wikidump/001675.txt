@@ -1,0 +1,60 @@
+{{Apdzīvotas vietas infokaste
+|name                   = Elva
+|official_name          = Elva
+|settlement_type        = Apriņķa pilsēta
+|image_flag             = Flag of et-Elva.svg
+|image_shield           = Elva coatofarms.png
+|shield_size            = 80px
+|flag_size              = 160px
+|subdivision_name1      = [[Tartu apriņķis]]
+|leader_name            = 
+|area_total_km2         = 9.92
+|population_total       = 6209
+|population_footnotes   = 
+|population_as_of       = 2009<ref>[http://www.elva.ee/index.php?page=138& Iedzīvotāju skaits no oficiālās mājas lapas]</ref>
+|population_density_km2 = 592.4
+|latd=58|latm=14|latNS=N|longd=26|longm=25|longEW=E
+|image_skyline          = Elva-vallavalitsus.jpg
+|imagesize              = 250px
+|image_caption          = Elvas rātsnams
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{EST}}
+|subdivision_type1      = [[Igaunijas apriņķi|Apriņkis]]
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|website                = [http://www.elva.ee/ www.elva.ee]
+|established_title      = Pilsētas tiesības
+|established_date       = 1938. gads
+|pushpin_map            = Estonia
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 280
+|pushpin_map_caption    = Atrašanās vieta Igaunijā
+|other_name             = 
+|}}
+
+'''Elva''' ({{val|et|Elva}}) ir pilsēta [[Igaunija]]s dienvidaustrumos, [[Tartu apriņķis|Tartu apriņķī]]. Elva ir pilsēta ar pastāvīgu pašvaldību un neietilpst nevienā pagastā. Atrodas pie [[Elva (upe)|Elvas]] upes ietekas [[Emajegi]] upē.
+
+[[Elva (stacija)|Dzelzceļa stacija]] posmā [[Tartu]]—[[Valga]].
+
+== Sports ==
+* ''[[FC Elva]]'' (futbola klubs)
+* Elvas pilsētas stadions (ietilpība: 600)
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.elva.ee/ Pilsētas mājas lapa] {{igauniski}}
+
+{{Igaunija-aizmetnis}}
+
+{{Igaunijas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Tartu apriņķis]]

@@ -1,0 +1,45 @@
+{{Jūras infokaste
+|jūra=Tasmana jūra
+|attēls=TasmanaJura.JPG
+|attēls_izm    = 300
+ |vietaskarte  = Okeānija
+ |latd = 40 |latm =  |lats =  |latNS = S
+ |longd = 160 |longm =  |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |alt_karte    = 
+ |relief       = jā
+| okeāns       = Klusais okeāns
+|platība       = 2 300 000
+|garums        = 2800
+|platums       = 2000
+|Max_dziļums   = 5943<ref>{{Tīmekļa atsauce |url=http://stommel.tamu.edu/~baum/paleo/ocean/node37.html |title=Glossary of Physical Oceanography |access-date={{dat|2006|12|19||bez}} |archiveurl=https://web.archive.org/web/20061230045044/http://stommel.tamu.edu/~baum/paleo/ocean/node37.html |archivedate={{dat|2006|12|30||bez}} }}</ref>
+|Vid_dziļums   = 3285
+|tilpums       = 11 000 000
+|valstis       = {{AUS}}<br />{{NZL}}
+|pilsētas      = [[Oklenda]]<br />[[Sidneja]]<br />[[Velingtona]]
+}}
+'''Tasmana jūra''' ({{val|en|Tasman Sea}}, {{val|mi|Te Tai-o-Rehua}}) ir [[Klusais okeāns|Klusajam okeānam]] piederīga [[malas jūra]] starp [[Austrālija|Austrāliju]] un [[Jaunzēlande|Jaunzēlandi]]. Nosaukta nīderlandiešu jūras braucēja [[Ābels Tasmans|Ābela Tasmana]] vārdā.
+
+Vidējais dziļums ir 3285 m, ūdens tilpums ap 11 miljoni km<sup>3</sup>. Jūras centrālajā daļā atrodas [[Lorda Hava sala]] un tai tuvējās mazākās saliņas, kā arī neparastā [[Balla piramīda]].
+
+2003. gadā jūras bioloģijas izpētes ekspedīcija Tasmana jūrā atklāja ap 500 jaunas zivju sugas un ap 1300 jaunas [[bezmugurkaulnieki|bezmugurkaulnieku]] sugas, kas norāda, ka Tasmana jūras dzīlēs turpmāk iespējami arī citi interesanti atklājumi.
+
+== Robežas ==
+[[Attēls:Tasman_sea.jpg|thumb|left|200px|Tasmana jūras satelītattēls]]
+Ziemeļu robežu nosaka Austrālijas štatu — [[Kvīnslenda]]s un [[Jaundienvidvelsa]]s — robežas pagarinājums jūrā līdz [[Norfolka (sala)|Norfolkai]]. Tālāk ziemeļos atrodas [[Koraļļu jūra]]. Austrumos robežojas ar [[Fidži jūra|Fidži jūru]]. Dienvidaustrumos atrodas [[Jaunzēlande]]. Dienvidos no Klusā okeāna nodala iedomāta līnija starp Jaunzēlandi un [[Tasmanija]]s salas dienvidiem. Rietumos atrodas Tasmanija, [[Basa šaurums]] un Austrālija.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.cbc.ca/news/story/2003/06/29/tasman_fish030629.html Tasman Sea produces freaky species] {{Webarchive|url=https://web.archive.org/web/20121216000228/http://www.cbc.ca/news/story/2003/06/29/tasman_fish030629.html |date={{dat|2012|12|16||bez}} }} {{en ikona}}
+
+{{Klusā okeāna jūras}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tasmana jūra| ]]
+[[Kategorija:Austrālijas jūras]]
+[[Kategorija:Jaunzēlandes jūras]]

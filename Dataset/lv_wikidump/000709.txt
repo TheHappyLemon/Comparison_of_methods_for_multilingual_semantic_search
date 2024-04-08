@@ -1,0 +1,25 @@
+'''Augšējā līmeņa domēns''' (''Top-level domain'' jeb ''TLD'') ir [[domēna vārds|Interneta domēna vārda]] pēdējā daļa. Piemēram, domēna vārda <code>wikipedia.org</code> augšējā līmeņa domēns ir <code>[[.org|org]]</code> (vai <code>ORG</code>, jo domēnvārdi nav reģistrjūtīgi).
+
+Augšējā līmeņa domēns interneta adresei piešķir tās būtību. To vislabāk var saprast, minot piemēru, kad augšējā līmaņa domēns ir ".lv", kas nozīmē, ka tā ir Latvijas interneta vietne. Savs augšējā līmeņa domēns ir katrai valstij. Atšķirīgi augšējā līmeņa domēni tiek piemēroti arī dažādām organizācijām un atsevišķiem tematiem, kuriem veltītas attiecīgās interneta vietnes.
+
+== Veidi ==
+No 2015. gada [[Internet Assigned Numbers Authority|IANA]] izšķir šādas augstākā līmeņa domēnu grupas:<ref>{{tīmekļa atsauce|title=Root Zone Database|url=https://www.iana.org/domains/root/db|accessdate=2023. gada 19. oktobris|website=www.iana.org}}</ref>
+*Infrastruktūras augstākā līmeņa domēns ([[DARPA|ARPA]]): Šī grupa sastāv no viena domēna, apgabala adresēm un maršrutēšanas parametriem.<ref>{{tīmekļa atsauce|title=How does DNS server work|url=https://www.slashroot.in/how-dns-works|accessdate=2023. gada 19. oktobris|website=www.slashroot.in}}</ref>
+*Universālie augstākā līmeņa domēni (gTLD): augstākā līmeņa domēni, kas sastāv no trim vai vairāk zīmēm.
+*Vispārīgi ierobežoti augstākā līmeņa domēni (grTLD): šos domēnus pārvalda oficiāli [[Interneta vārdu un numuru piešķires korporācija|ICANN]] akreditēti reģistratori.
+*Sponsorētie augstākā līmeņa domēni (sTLD): šos domēnus piedāvā un sponsorē privātas aģentūras vai organizācijas, kas izstrādā un īsteno noteikumus, kuri ierobežo TLD lietošanas tiesības.
+*valsts koda augstākā līmeņa domēni (ccTLD): divburtu domēni, kas izveidoti valstīm vai teritorijām.<ref>{{tīmekļa atsauce|title=Internet country domains list (TLDs)|url=https://www.worldstandards.eu/other/tlds/|accessdate=2023. gada 19. oktobris|website=www.worldstandards.eu}}</ref> Ar dažiem vēsturiskiem izņēmumiem jebkuras teritorijas kods ir tāds pats kā tās divburtu kods ISO 3166.
+*Testa augstākā līmeņa domēni (tTLD): šie domēni tika izveidoti kā daļa no .test programmas testēšanas vajadzībām IDN izstrādes procesa laikā; šie domēni nepastāv saknes zonā.
+
+== Vēsturiskie domēni ==
+Astoņdesmito gadu beigās [[InterNIC]] izveidoja domēnu .nato, ko izmantoja NATO.<ref>{{tīmekļa atsauce|title=Top-level domain|url=https://yearis.com/top-level_domain|accessdate=2023. gada 19. oktobris|website=yearis.com}}</ref> Citi vēsturiskie TLD ir .cs domēns Čehoslovākijai (tagad izmanto .cz Čehijas Republikai un .sk Slovākijai), .dd Vācijai (izmanto .de pēc Vācijas atkalapvienošanās<ref>{{tīmekļa atsauce|title=How to Choose the Right Domain Name for SEO|url=https://jasonpittock.com/blog/how-to-choose-the-right-domain-name-for-seo/|accessdate=2023. gada 19. oktobris|website=jasonpittock.com}}</ref>), .yu Dienvidslāvijas SFR un vēlāk Serbijai un Melnkalnei (pašlaik izmanto .ba Bosnijai un Hercegovinai, .hr Horvātijai, .me attiecībā uz  Melnkalni, .mk Ziemeļmaķedonijai, .rs Serbijai un .si Slovēnijai), .zr Zairai (pašlaik .cd Kongo Demokrātiskajai Republikai) un .an Nīderlandes Antiļām (tagad .aw Arubai, .cw Kirasao un .sx Senmārtenai).<ref>{{tīmekļa atsauce|title=Country domains: a comprehensive ccTLD list|url=https://www.ionos.com/digitalguide/domains/domain-extensions/cctlds-a-list-of-every-country-domain/|accessdate=2023. gada 19. oktobris|website=www.ionos.com}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{IT-aizmetnis}}
+
+{{Nacionālie augšējā līmeņa domēni}}
+{{vispārīgie augšējā līmeņa domēni}}
+
+[[Kategorija:Augšējā līmeņa domēni| ]]

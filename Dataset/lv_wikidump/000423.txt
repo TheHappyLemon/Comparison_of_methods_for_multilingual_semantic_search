@@ -1,0 +1,84 @@
+{{Organizācijas infokaste
+ |         name = Dienvidaustrumāzijas valstu asociācija
+ |        image = ASEAN HQ 1.jpg
+ |         size = 250px
+ |      caption = ASEAN galvenā mītne Džakartā, Indonēzijā
+ |          map = Association of Southeast Asian Nations (orthographic projection).svg
+ |     mcaption = Dalībvalstis
+ | headquarters = {{vieta|Indonēzija|Džakarta}}
+ |   membership = {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 10 valstis
+  |{{BRN}} |{{PHI}} |{{IDN}} |{{KHM}} |{{LAO}} |{{MYS}} |{{MMR}} |{{SIN}} |{{THA}} |{{VIE}}
+ }}
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 2 novērotājvalstis
+  |{{TLS}} |{{PNG}}
+ }}
+ |     language = 
+{{Collapsible list
+ | title = [[angļu valoda]]
+ | [[malajiešu valoda]]
+ | [[birmiešu valoda]]
+ | [[ķīniešu valoda]]
+ | [[filipīniešu valoda]]
+ | [[indonēziešu valoda]]
+ | [[khmeru valoda]]
+ | [[laosiešu valoda]]
+ | [[tamilu valoda]]
+ | [[taju valoda]]
+ | [[vjetnamiešu valoda]]
+}}
+ | leader_title = Ģenerālsekretārs
+ |  leader_name = {{flaga|Kambodža}} [[Kao Kims Horns]]
+ |    formation = {{dat|1967|8|8}}
+ |       budget =
+ |    num_staff = 
+ |      website = {{URL|http://www.asean.org/}}
+}}
+
+'''Dienvidaustrumāzijas valstu asociācija''' jeb '''ASEAN''' (abreviatūra no {{val|en|Association of Southeast Asian Nations}}) ir reģionāla [[starpvalstu organizācija]], kas apvieno 10 [[Dienvidaustrumāzija]]s valstis. Tā ir Dienvidaustrumāzijas valstu politiskā, saimniecības un kultūras organizācija. ASEAN dibināta 1967. gadā un organizācijas mērķis ir veicināt savstarpējo sadarbību un attīstību starp dalībvalstīm, kā arī nodrošināt mieru un stabilitāti reģionā. ASEAN valstu vadītāji tiekas gadskārtējās sanāksmēs, parasti novembrī, šajās sanāksmēs apspriežot nozīmīgus jautājumus reģionam. Organizācijas pamata dokumenti ir [[ASEAN harta]] un [[ASEAN deklarācija]].
+
+== Vēsture ==
+Pēc [[Otrais pasaules karš|Otrā pasaules kara]] un [[dekolonizācija]]s procesa Dienvidaustrumāzijas reģions piedzīvoja politisku un ekonomisku nestabilitāti. Satricinājumu radīja [[Vjetnamas karš]], kas sākās 1955. gadā. ASEAN tika nodibināta {{dat|1967|8|8||bez}}, kad piecu valstu — [[Filipīnas|Filipīnu]], [[Indonēzija]]s, [[Malaizija]]s, [[Singapūra]]s un [[Taizeme]]s — ārlietu ministri [[Bangkoka|Bangkokā]] parakstīja [[ASEAN deklarācija|ASEAN deklarāciju]] (Bangkokas deklaraciju). Organizācijas mērķis bija veicināt savstarpējo sadarbību un attīstību starp dalībvalstīm, kā arī nodrošināt mieru un stabilitāti reģionā.
+
+ASEAN organizācijai pakāpeniski pievienojās arī citas valstīs. Vispirms 1984. gada janvārī pievienojās [[Bruneja]], tad 1995. gada jūlijā pievienojās [[Vjetnama]], 1997. gada jūlijā — [[Laosa]] un [[Mjanma]], bet 1999. gada aprīlī iestājās [[Kambodža]].
+
+== Dalībvalstis ==
+ASEAN dalībvalstis ir šādas: 
+{{colbegin|2}}
+* {{BRN}}
+* {{PHI}}
+* {{IDN}}
+* {{KHM}}
+* {{LAO}}
+* {{MYS}}
+* {{MMR}}
+* {{SIN}}
+* {{THA}}
+* {{VIE}}
+{{colend}}
+
+Savukārt [[Papua-Jaungvineja]]i un [[Austrumtimora]]i ir novērotājas statuss ASEAN.
+
+ASEAN rīko sanāksmes arī ar citām valstīm, ar tā sauktajiem ASEAN dialoga partneriem. Tās ir [[Amerikas Savienotās Valstis]], [[Austrālija]], [[Dienvidkoreja]], [[Eiropas Savienība]], [[Indija]], [[Japāna]], [[Jaunzēlande]], [[Kanāda]], [[Krievija]], [[Ķīna]], [[Mongolija]] un [[Ziemeļkoreja]].
+
+ASEAN dalībvalstīs 2023. gadā dzīvoja 683 miljoni iedzīvotāju<ref name="IMFWEOASEAN"/> (8,4% no pasaules iedzīvotājiem), un 2023. gadā valstu kopējais [[iekšzemes kopprodukts]] (IKP) bija apmēram 11,203 triljoni ASV dolāri.<ref name="IMFWEOASEAN">{{Cite web|title=Report for Selected Countries and Subjects|url=https://www.imf.org/en/Publications/WEO/weo-database/2023/April/weo-report?c=516,522,536,544,548,518,566,576,578,582,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,LP,&sy=2021&ey=2028&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|access-date=2023-04-13|website=IMF|language=en}}</ref> IKP pieaugums gadā ir vidēji 4%.{{nepieciešama atsauce}} ASEAN valstu galvenās eksportpreces ir [[sadzīves elektronika]], [[nafta]] un [[kokmateriāli]].
+
+Gan lingvistiski, gan reliģiski, gan politiski ASEAN valstis ir ļoti dažādas.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Organizācija-aizmetnis}}
+
+{{ASEAN}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:ASEAN| ]]

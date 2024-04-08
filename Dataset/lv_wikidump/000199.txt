@@ -1,0 +1,53 @@
+{{Jaunā Palīdzības lapa}}
+{{Pamācība}} 
+
+== Izmainīt šo lapu ==
+
+'''Sāksim ar viki pamatfunkciju''': '''izmainīt šo lapu'''. Ar dažiem izņēmumiem (aizsargātām lapām), katrai viki lapai augšpusē ir redzama saite '''Labot'''. Šī saite tieši to arī ļauj darīt, proti, labot un izmainīt lapu, kuru tu redzi ekrānā. Tādas lapas kā šī, kuru ikviens var izmainīt, sauc par '''viki'''.
+
+'''Pamēģini!''' Atver jaunā logā šīs lapas '''''[[Vikipēdija: Pamācība (Rediģēšana)/smilšu kaste|smilšu kasti]]''''' un spied uz saites '''Labot'''. (Brīdinājums: Tā nav šīs lapas saite '''Labot'''.) Tu ieraudzīsi tās lapas izejmateriālu (''source code''). Uzraksti kaut ko saturīgu vai smieklīgu, vari arī rakstīt vienkārši "čau". Tad saglabā to ('''Saglabāt lapu''') un apskaties, ko esi izveidojis. Vairāk informācijas par rediģēšanu var atrast [[Vikipēdija: Kā rediģēt lapu]]. Iespējams, tu to gribēsi atvērt jaunā logā, lai turpinātu iepazīties ar šo pamācību.
+
+Kad vien vēlies eksperimentēt, tu to vienmēr vari darīt [[Vikipēdija: Smilšu kaste|Smilšu kastē]]. Tas ir visu iespējamo izmēģinājumu poligons.
+
+== Maznozīmīgs labojums ==
+
+Ja esi ielogojies kā reģistrēts dalībnieks, vari norādīt, ka tavs ieraksts ir [[Vikipēdija:Maznozīmīgs labojums|maznozīmīgs]], ieķeksējot šajā ailītē pirms labojumu saglabāšanas. To izmanto, lai citiem norādītu, ka tavas izmaiņas nav mainījušas neko būtisku. Nav nekādu stingru norāžu par šīs iespējas izmantošanu, bet pilnīgi noteikti par mazsvarīgām uzskata pareizrakstības labojumus un nelielas noformējuma izmaiņas, piemēram, atstarpes vai viki saites ievietošanu, tomēr satura izmaiņas gan ir svarīgas. Citiem vārdiem, izskata izmaiņas nav būtiskas, saturs ir. Ja šaubies, neliec ķeksi. Skatīt lapu [[Vikipēdija:Maznozīmīgs labojums|Maznozīmīgs labojums]], lai uzzinātu vairāk par šo tēmu.
+
+== Uzraudzīt ==
+Ja esi ielogojies kā reģistrēts dalībnieks, tad ar to var pievienot lapu uzraugāmo lapu sarakstam (''mani uzraugāmie raksti''). Ja sāc izmainīt tajā sarakstā esošu lapu, tas jau no sākuma ir ieķeksēts. Izveidojot jaunu lapu, šis arī ir ieķeksēts ''pēc noklusējuma''.
+
+== Kopsavilkums ==
+
+Par labu ieradumu uzskata ļoti īsa (~200 simboli) izmaiņu kopsavilkuma pievienošanu ailītē ''[[Vikipēdija:Kopsavilkums|Kopsavilkums]]'', pirms izmaiņu saglabāšanas. Šī ailīte ir redzama starp labošanas logu un '''Saglabāt lapu''' un '''Parādīt pirmskatu''' pogām. Tas var būt ļoti kodolīgs, piemēram, "+en" – citi zinās, ka tu esi ievietojis saiti uz attiecīgā raksta angļu valodas versiju. Šīs ailītes saturs parādās pēdējo izmaiņu lapā un lapas hronoloģijā. Dažos gadījumos, ja tur neko neieraksta, sistēma to aizpilda automātiski:
+* izveidojot jaunu lapu - "Jauna lapa: ''lapas saturs (sākums, cik ielien)''"; <!-- [[MediaWiki:autosumm-new]] -->
+* izveidojot pāradresāciju - "Pāradresē uz ''links uz lapa''"; <!-- [[MediaWiki:autoredircomment]] -->
+* nodzēšot visu lapas saturu - "Nodzēsa lapu"; <!-- [[MediaWiki:autosumm-blank]] -->
+* nodzēšot visu lapas saturu un ievietojot vietā kaut ko citu: Aizvieto lapas saturu ar 'Ievietotais teksts (sākums, cik ielien)'. <!-- [[MediaWiki:autosumm-replace]] -->
+
+== Kā rakstīt biogrāfiju ==
+
+Pastāv daži ieteikumi, ko vēlams ņemt vērā veiksmīga biogrāfijas raksta izveidošanai. Protams, blakus šiem ieteikumiem jāievēro ikvienas Vikipēdijas lapas izveidošanas ieteikumi (piemēram, pievienot iekšējās saites, kategorijas, norādes uz attiecīgo rakstu citās valodās utt.).
+
+1. Aprakstāmās personas '''vārds''' sākumā jāraksta latviešu valodā, pie tam priekšroka dodama tai vārda atveidei, kas iegājusies vēsturiski. Ja persona ir maz zināma, vārds atveidojams pēc iespējas to tuvinot izrunai latviešu valodā un tam piešķirot lokāmas galotnes. 
+
+2. Iekavās aiz vārda minēšanas pirmoreiz vēlams norādīt attiecīgās '''personas vārdu oriģinālvalodā'''. Tas rakstāms kursīvā (''italics''), jo ir svešvalodā.
+
+3. Norādāmi personas '''dzimšanas''' un (ja nepieciešams) '''nāves dati'''.
+
+4. '''Vēlams pirmajā rindkopā dažos teikumos sniegt iepriekšminēto informāciju līdz ar informāciju par to, kāpēc šī persona ir nozīmīga vai populāra.'''
+
+5. Ja iespējams, vajadzētu ievietot arī aprakstāmās personas '''attēlu'''. Tas nav darāms 4. punktā minētajā ievadrindkopā, bet gan personas biogrāfijas sākumā. Šādi jārīkojas, lai lapas apraksts Internetā nesāktos ar attēla adresi.
+
+6. Lapa jāsadala vairākās '''nodaļās'''. Noteikti būtu jābūt nodaļai "Biogrāfija", kā arī nodaļai, kas vēstī par šīs personas ieguldījumu (piem., "Literārā darbība", "Atklājumi", "Politiskā darbība" utt.).
+
+7. Ja persona sarakstījusi kādu literatūras darbu un tas tiek pieminēts, jānorāda '''darba nosaukums''' latviski (ja darbs tulkots latviski, tad ar attiecīgo nosaukumu) vai oriģinālvalodā (ja darbs nav tulkots latviski un lapas autors šo nosaukumu tulkot neuzņemas). Ja darba nosaukums norādīts latviski, iekavās tas norādāms oriģinālvalodā (tātad rakstāms kursīvā - ''italics''), kā arī minams tā izdošanas gads.
+
+8. Vēlams pievienot '''ārējās saites''', it īpaši tad, ja personas darbi ir brīvā lietošanā un sastopami Internetā (piemēram, literāri darbi, gleznas utt.). Jānorāda, kādā valodā ir lapa, uz kuru ir saite.
+
+{{-}}
+<div style="float:left; align:left; margin-top: -1.5em; background-color: #f5faff; padding: .2em .6em; font-size: 130%; border: 1px solid #cee0f2;">'''Spēlēšanās notiek [[Vikipēdija:Pamācība (Rediģēšana)/smilšu kaste|smilšu kastē]]'''</div>
+<div style="float:right; margin-top: 0.0em; margin-bottom:3px; background-color: #cee0f2; padding: .2em .6em; font-size: 130%; border: 1px solid #a3b1bf;">'''Vari doties uz šīs pamācības [[Vikipēdija:Pamācība (Noformēšana)|nākamo nodaļu par noformēšanu]]''' <span style="font-size: larger; font-weight: bold;">→</span></div>
+</div>
+<div style="clear:both"></div>
+
+[[Kategorija:Vikipēdijas pamācība|Rediģēšana]]

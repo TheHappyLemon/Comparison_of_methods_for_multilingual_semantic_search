@@ -1,0 +1,55 @@
+{{Apdzīvotas vietas infokaste
+| name = Lubina
+| image_skyline =Lubin06.JPG
+| imagesize = 300px
+| image_caption = Lubinas rātsnams
+| image_flag = POL Lubin flag.svg
+| image_shield = POL Lubin COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Lejassilēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Lubinas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1295
+| area_total_km2 = 40.77
+| population_as_of = 2013
+| population_total    = 74328
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 51 
+| latm = 23 
+| lats = 48 
+| latNS = N 
+| longd = 16 
+| longm = 13 
+| longs = 12
+| longEW = E
+| elevation_m = 121 - 155
+| website = http://www.lubin.pl/ }}
+
+'''Lubina''' ({{val|pl|Lubin}}, vēsturiski arī '''Lībene''' ({{val|de|Lüben}})) ir pilsēta [[Polija]]s dienvidrietumos, [[Silēzija|Silēzijā]], [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]].
+
+11. gadsimtā Lubinā tika uzcelts [[benediktieši|benediktiešu]] klosteris. 1295. gadā Lubinai tika piešķirtas pilsētas tiesības. No 1348. līdz 1550. gadam — atsevišķas kņazistes galvaspilsēta. Līdz 1945.gadam tā ietilpa [[Vācija|Vācijā]]. 1945.gadā pilsēta pēc [[Jaltas konference|Jaltas]] un [[Potsdamas konference]]s lēmumiem tika piešķirta Polijai.
+
+1957.gadā pilsētas apkārtnē tika atrastas lielas [[varš|vara]] atradnes (ap 10% no pasaules vara krājumiem), un kopš tā laika pilsēta dinamiski attīstījusies kā vara ieguves un pārstrādes centrs. No 1950. līdz 1989.gadam pilsētas iedzīvotāju skaits palielinājies 33 reizes. 1982. gada 31. augustā arodbiedrības "[[Solidaritāte]]" protestu laikā pilsētā tika nogalināti trīs protestētāji.
+
+Lubinā atrodas kompānijas "[[KGHM Polska Miedź]]" galvenā mītne, kas ir viena no lielākajām vara un [[sudrabs|sudraba]] ieguves kompānijām pasaule.
+
+Pilsētas futbolkomanda [[Lubinas "Zagłębie"]] spēlē Polijas futbola augstākajā līgā un ir 2007. gada Polijas čempionvienība.
+
+[[Virtemberga]]s valdnieka [[Vilhelms I (Virtemberga)|Vilhelma I]] (''Wilhelm I'', 1781—1864) un futbolista [[Lukāss Kubots|Lukaša Kubota]] (''Łukasz Kubot'', 1982) dzimtā pilsēta.
+
+{{Polija-aizmetnis}}
+
+{{commonscat|Lubin|Lubina}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]

@@ -1,0 +1,20 @@
+{{Aminoskābes infokaste
+|attēls=[[Attēls:L-tyrosine-skeletal.png|160px]] [[Attēls:L-tyrosine-3D-sticks.png|150px]]<br />L-tirozīna struktūrformula un molekulas modelis
+|ķīmiskā formula=C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub>
+|molmasa=181,19
+|blīvums=1456
+|kušanas temperatūra=295&nbsp;°C (lēni karsējot; sadalās)<br />343&nbsp;°C (ātri karsējot; sadalās)
+|viršanas temperatūra=-
+|izoelektriskais punkts=5,66
+}}
+'''Tirozīns''' ('''''Tyr''''', 2-amino-3-(4-hidroksilfenil)-propānskābe, β-''p''-oksifenilalanīns, C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub>) ir dzīvo organismu [[aminoskābe]]. Tirozīns pieder pie aromātiskajām aminoskābēm un atšķiras no [[fenilalanīns|fenilalanīna]] tikai ar [[hidroksilgrupa|hidroksilgrupu]] pie benzola gredzena. Tirozīns kristalizējas no ūdens kā zīdaini, bezkrāsaini adatveida kristāli.
+
+== Atrašanās dabā ==
+Tirozīns ietilpst daudzu dabisko [[olbaltumvielas|olbaltumvielu]], tai skaitā [[fermenti|fermentu]], sastāvā. Organismā tirozīns sintezējas no fenilalanīna ar fermenta fenilalanīn-4-hidroksilāzes palīdzību. Parasti tirozīns pietiekamā daudzumā tiek uzņemts ar pārtiku, tādēļ šis process vairāk nepieciešams fenilalanīna pārpalikuma likvidēšanai. Ja fenilalanīn-4-hidroksilāze nav pietiekami aktīva, attīstās smaga slimība - [[fenilketonūrija]].
+
+== Bioloģiskā nozīme ==
+Tirozīns nepieciešams arī daudzu svarīgu bioloģiski aktīvu vielu ([[kateholamīni|kateholamīnu]] - [[dofamīns|dofamīna]], [[adrenalīns|adrenalīna]], [[noradrenalīns|noradrenalīna]]; pigmenta [[melanīns|melanīna]]; [[vairogdziedzeris|vairogdziedzera]] [[hormoni|hormonu]]) sintēzei. 
+
+{{amsk}}
+
+[[Kategorija:Aminoskābes]]

@@ -1,0 +1,84 @@
+{{BioTakso infokaste
+| attēls =Ephemera vulgata.jpg
+| att_nosaukums ={{TaksoSaite|Ephemera vulgata|Parastā viendienīte}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| tips =Arthropoda
+| tips_lv =Posmkāji
+| klase =Insecta
+| klase_lv =Kukaiņi
+| apakšklase = Pterygota
+| apakšklase_lv = Spārneņi
+| infraklase=Paleoptera
+| infraklase_lv=Senspārņi
+| virskārta=Ephemeropteroidea
+| virskārta_lv=Viendienīšu virskārta
+| virskārta_r=Viendienīšu kārta
+| kārta =Ephemeroptera
+| kārta_lv =Viendienīšu kārta
+| iedalījums=
+*apakškārta {{TaksoSaite|Schistonota}}
+*apakškārta {{TaksoSaite|Pannota}}
+| kategorijas =nē
+| binomial =Ephemeroptera <small>([[Alpheus Hyatt|Hyatt]] & [[Jennie Maria Arms Sheldon|Arms]], 1890)</small>
+}}
+'''Viendienītes''' ir [[kukaiņi]], kas pieder pie '''viendienīšu kārtas''' (''Ephemeroptera'') [[spārneņi|spārneņu apakšklases]] (''Pterygota''). Viendienītes dzīvo no dažām [[minūte|minūtēm]] vai [[stunda|stundām]] līdz 10 [[diena|dienām]], tomēr visbiežāk vienu dienu, no kā arī cēlies nosaukums. Viendienīšu kāpuri, kas dzīvo ūdenī, ir ļoti jūtīgi pret piesārņojumu. Ja ūdenī var atrast viendienītes, tas nozīmē, ka [[ūdens]] ir tīrs.<ref>{{Tīmekļa atsauce |url=http://www.pserie.psu.edu/seagrant/publications/fs/Mayfly_12-2003.pdf |title=Arhivēta kopija |access-date={{dat|2015|05|30||bez}} |archiveurl=https://web.archive.org/web/20070927230149/http://www.pserie.psu.edu/seagrant/publications/fs/Mayfly_12-2003.pdf |archivedate={{dat|2007|09|27||bez}} }}</ref>
+
+[[pasaule|Pasaulē]] ir apmēram 2500 viendienīšu sugu.<ref>{{Tīmekļa atsauce |url=http://answers.yahoo.com/question/index?qid=20070819011525AAdyI2B |title=What is the difference between dradonfly, damsefly and mayfly? - Yahoo! Answers<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|04|11||bez}} |archive-date={{dat|2021|04|22||bez}} |archive-url=https://web.archive.org/web/20210422061047/https://answers.yahoo.com/question/index?qid=20070819011525AAdyI2B }}</ref> [[Latvija|Latvijā]] līdz šim konstatētas 49 viendienīšu [[suga]]s,<ref>{{Tīmekļa atsauce |url=http://leb.daba.lv/Ephemeroptera.htm |title=Arhivēta kopija |access-date={{dat|2007|08|31||bez}} |archiveurl=https://web.archive.org/web/20070927041017/http://leb.daba.lv/Ephemeroptera.htm |archivedate={{dat|2007|09|27||bez}} }}</ref> kas pieder 11 viendienīšu dzimtām.<ref name="cop">{{Tīmekļa atsauce |url=http://www.copeslapa.lv/teor/makpied/fly/insects.htm |title=Fly fishing insects<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|04|10||bez}} |archiveurl=https://web.archive.org/web/20081205125643/http://www.copeslapa.lv/teor/makpied/fly/insects.htm |archivedate={{dat|2008|12|05||bez}} }}</ref> [[Vairogviendienīte]] (''Prosopistoma foliaceum'') ir iekļauta Latvijas [[Sarkanā grāmata|Sarkanās grāmatas]] 1. kategorijā.<ref name="lat">[http://latvijas.daba.lv/dzivnieki/posmkaaji/kukainhi/viendieniites/ Viendienītes (''Ephemeroptera'')<!-- Bota izveidots nosaukums -->]</ref> 
+ 
+== Izskats ==
+[[Attēls:Ephemeroptera01.jpg|thumb|left|150px]]
+Viendienīšu kārtas [[kukaiņi]] ir sīki līdz vidēji lieli kukaiņi, ķermeņa garums 5—30 [[Milimetrs|mm]]. Ķermenis ir trausls, maz hitinizēts. Pieaugušie īpatņi barību neuzņem, tāpēc [[mute]]s orgāni ir reducējušies.<ref name="lat"/> 
+Viendienītēm ir četri [[spārni]], to priekšspārni ir daudz lielāki nekā pakaļspārni, kuru vairākām sugām vispār nav. Viendienītēm ir raksturīgas divas vai trīs pavedienveida cerkas vēdera galā, tādas ir arī [[kāpuri]]em.
+
+== Viendienīšu attīstība ==
+Viendienītes ir [[ūdens]] kukaiņi, to kāpuri dzīvo tikai tīrā ūdenī, galvenokārt tekošā. Uzreiz pēc pārošanās viendienītes uz ūdens virsmas izdēj [[ola]]s, kuras nogrimst. No olām izšķiļas kāpuri, kas dzīvo un attīstās ūdenī, tie ir līdzīgi pieaugušām viendienītēm, tikai tiem nav spārnu.<ref name="cop"/> Kāpura jeb nimfas stadija ir visilgākā, tā ilgst apmēram 1 [[gads|gadu]] vai 2 gadus, vai ilgāk,<ref name="an">{{Tīmekļa atsauce |url=http://www.cleveland.com/insideout/wide/index.ssf?%2Finsideout%2Fwide%2Fmayfly.html |title=cleveland.com: Inside & Out<!-- Bota izveidots nosaukums --> |access-date={{dat|2018|09|10||bez}} |archiveurl=https://web.archive.org/web/20121011201610/http://www.cleveland.com/insideout/wide/index.ssf?%2Finsideout%2Fwide%2Fmayfly.html |archivedate={{dat|2012|10|11||bez}} }}</ref> toties pieaugušu kukaiņu dzīves ilgums ir ļoti īss. Dažas minūtes vai [[diena]]s. Kāpuri dzīvo zem akmeņiem un pārtiek no [[detrīts|detrīta]] (organiskas vai daļēji mineralizētas organismu atliekas ūdenī, kas veidojas, sadaloties atmirušajiem [[augi]]em, [[dzīvnieki]]em un to izdalījumiem) vai uz akmeņiem augošām [[aļģes|aļģēm]]. Viendienīšu kāpuri ir vieni no parastākajiem ūdenstilpju iemītniekiem, un tiem ir liela nozīme [[zivis|zivju]] barībā. 
+ 
+No citiem [[kukaiņi]]em viendienītes krasi atšķiras ar to, ka tām ir divas spārnotas attīstības stadijas. Kad kukainis pilnībā attīstās, tad tas uzpeld ūdens virspusē un, nomainot ādu, pārvēršas lidotspējīgā, bet nepilnīgi nobriedušā pieaugušā kukainī jeb subimago:<ref name="cop"/> tā spārni ir dūmakaini, nevis pilnīgi caurspīdīgi, spārnu trahejas neskaidras, tas vēl nav gatavs pāroties. Šī stadija ilgst 48 stundas vai dažās minūtes atkarībā no viendienīšu sugas.<ref name="an"/> Pēc ādas maiņas no subimago iznāk pilnīgi pieaudzis kukainis jeb imago.
+
+Viendienītes uzturas pie dažādiem ūdeņiem, kur siltos vakaros var novērot viņu raksturīgās vertikālās kustības. Viendienītes ceļas uz augšu un tad planē lejup.
+
+== Klasifikācija ==
+{{TaksoSaite|Ephemeroptera|Viendienīšu kārta}}
+* apakškārta ''Pannota''
+** Dubļu viendienīšu virsdzimta (''Caenoidea'') 
+*** {{TaksoSaite|Baetiscidae|Bruņu viendienīšu dzimta}}
+*** {{TaksoSaite|Neoephemeridae|Lielo dubļu viendienīšu dzimta}}
+*** {{TaksoSaite|Caenidae|Mazo dubļu viendienīšu dzimta}}
+*** {{TaksoSaite|Prosopistomatidae|Prosopistomatīdu dzimta}}
+** Efemerelīdu virsdzimta (''Ephemerelloidea'')
+*** {{TaksoSaite|Ephemerellidae|Efemerelīdu dzimta}}
+*** {{TaksoSaite|Leptohyphidae|Leptohifīdu dzimta}}
+*** {{TaksoSaite|Tricorythidae|Trikorithīdu dzimta}}
+* apakškārta ''Schistonota''
+** Betīdu virsdzimta (''Baetoidea'')
+*** {{TaksoSaite|Ameletopsidae|Ameletopsīdu dzimta}}
+*** {{TaksoSaite|Ametropodidae|Ametropodīdu dzimta}}
+*** {{TaksoSaite|Baetidae|Betīdu dzimta}}
+*** {{TaksoSaite|Siphlonuridae|Garkāju viendienīšu dzimta}}
+*** {{TaksoSaite|Oniscigastridae|Oniskigastrīdu dzimta}}
+** Īsto viendienīšu virsdzimta (''Ephemeroidea'')
+*** {{TaksoSaite|Behningiidae|Beningīdu dzimta}}
+*** {{TaksoSaite|Euthyplociidae|Eutiplocīdu dzimta}}
+*** {{TaksoSaite|Ephemeridae|Īsto viendienīšu dzimta}}
+*** {{TaksoSaite|Polymitarcydae|Krasta viendienīšu dzimta}}
+*** {{TaksoSaite|Palingeniidae|Palingenīdu dzimta}}
+*** {{TaksoSaite|Potamanthidae|Potamantīdu dzimta}}
+** Leptoflebīdu virsdzimta (''Leptophlebioidea'')
+*** {{TaksoSaite|Leptophlebiidae|Leptoflebīdu dzimta}}
+** Septiņdienu viendienīšu virsdzimta (''Heptagenioidea'') 
+*** {{TaksoSaite|Oligoneuriidae|Īsdzīslu viendienīšu dzimta}}
+*** {{TaksoSaite|Isonychiidae|Otiņkāju viendienīšu dzimta}}
+*** {{TaksoSaite|Heptageniidae|Septiņdienu viendienīšu dzimta}}
+*** {{TaksoSaite|Coloburiscidae|Strautu viendienīšu dzimta}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{Commonscat|Ephemeroptera|Viendienīšu kārta}}
+* [https://web.archive.org/web/20090709102434/http://www.ento.csiro.au/education/insects/ephemeroptera.html Ephemeroptera: mayflies]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Viendienīšu kārta| ]]

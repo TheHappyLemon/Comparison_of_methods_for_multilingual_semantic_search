@@ -1,0 +1,34 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Potassium-nitrate-unit-cell-3D-vdW.png|200px]]<br />Kālija nitrāta kristāla uzbūve<br />[[Attēls:Potassium nitrate.jpg|160px]]<br />Pulverveida kālija nitrāts
+|       citi nosaukumi = kālija salpetris
+|           CAS numurs = 7757-79-1
+|      ķīmiskā formula = KNO<sub>3</sub>
+|              molmasa = 101,1
+|              blīvums = 2109
+|  kušanas temperatūra = 334&nbsp;°C
+| viršanas temperatūra = 400&nbsp;°C (sadalās)
+| šķīdība ūdenī        = 13,3 g/100 ml (0&nbsp;°C)<br />36 g/100 ml (25&nbsp;°C)<br />247 g/100 ml (100&nbsp;°C)
+|                 citi =
+}}
+'''Kālija nitrāts''' (KNO<sub>3</sub>, kālija salpetris) ir balta, kristāliska viela, kas labi šķīst karstā [[ūdens|ūdenī]]. Kālija nitrāta šķīdība ūdenī ir ļoti stipri atkarīga no temperatūras. Atdzesējot piesātinātu kālija nitrāta [[šķīdums|šķīdumu]] no 95&nbsp;°C līdz 20&nbsp;°C, izkristalizējas tik daudz cietās fāzes, ka šķīdums vairs netek. Kālija nitrāts ir samērā viegli kūstoša viela, un izkausētā veidā pamazām sadalās, izdalot [[skābeklis|skābekli]].
+
+== Iegūšana ==
+Kālija nitrāts dažviet ir sastopams dabā (tāpat kā [[nātrija hlorīds]]). Mūsdienās lielāko daļu kālija nitrāta iegūst no [[slāpekļskābe]]s un [[kālija hlorīds|kālija hlorīda]]. Mazākos daudzumos to vēl joprojām iegūst apmaiņas reakcijā no [[nātrija nitrāts|nātrija nitrāta]], kas ir pieejams dabā lielākos daudzumos, nekā kālija nitrāts un kālija hlorīds.
+
+== Izmantošana ==
+Kālija nitrātu lieto par [[oksidētāji|oksidētāju]] dažādiem [[pirotehnika|pirotehniskiem]] maisījumiem un [[dūmu pulveris|melnajam šaujampulverim]]. [[Lauksaimniecība|Lauksaimniecībā]] to lieto arī par [[minerālmēsli|minerālmēslojumu]], bet [[pārtikas rūpniecība|pārtikas rūpniecībā]] — [[konservanti|konservantu]] ('''E252''').
+
+== Skatīt arī ==
+* [[Kālija hlorāts]]
+* [[Nozīmīgākie sārmu metālu savienojumi|sārmu metālu savienojumi (saraksts)]]
+
+{{commonscat|Potassium nitrate|Kālija nitrāts}}
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nitrāti]]
+[[Kategorija:Kālijs]]
+[[Kategorija:Konservanti]]
+[[Kategorija:Oksidētāji]]

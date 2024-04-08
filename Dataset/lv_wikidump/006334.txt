@@ -1,0 +1,40 @@
+{{Himnas infokaste
+  | title         = <big>הַתִּקְוָה</big>
+  | transcription = ha-Tiḳṿah
+  | english_title = Cerība
+  | prefix        = National
+  | country       = {{ISR}}
+  | author        = Naftali Hercs Imbers
+  | lyrics_date   = 1878
+  | composer      = Samuels Koens
+  | music_date    = 1888
+  | adopted       = 1948 (neoficiāli)<br />2004 (oficiāli)
+  | sound         = Hatikvah instrumental.ogg
+  | sound_title   = Hatikvah (instrumentālā versija)
+}}
+'''Hatikvah''' ({{val-he|הַתִּקְוָה}}, cerība) ir [[Izraēla]]s valsts himna.
+
+== Vārdi ==
+{| cellpadding="5" style="border-style: none; width: auto; margin: 0 auto;"
+|-
+|Ivritā
+|Transliterācija
+|Tulkojums latviešu valodā
+|-
+| style="text-align: right; direction: rtl;" xml:lang="he" | כל עוד בלבב פנימה<br />נפש יהודי הומיה,<br />ולפאתי מזרח קדימה,<br />עין לציון צופיה,
+| style="text-align: left; font-style: italic; direction: ltr;" xml:lang="he-Latn" | Kol od baleivav p'nimah<br />Nefesh y'hudi homiyah<br />Ulfa'atei mizrach kadimah<br />Ayin l'tziyon tzofiyah
+| style="text-align: left; direction: ltr;" xml:lang="en" | Kamēr sirds dzīlēs<br />Turpina ebreja dvēsele alkt,<br />Un uz priekšu uz austrumu tālēm<br />Uz Cionu vēršas skats,
+|-
+| style="text-align: right; direction: rtl;" xml:lang="he" | עוד לא אבדה תקוותנו,<br />התקווה בת שנות אלפים,<br />להיות עם חופשי בארצנו,<br />ארץ ציון וירושלים.
+| style="text-align: left; font-style: italic; direction: ltr;" xml:lang="he-Latn" | Od lo avdah tikvateinu<br />Hatikvah bat sh'not alpayim<br />Lihyot am chofshi b'artzeinu<br />Eretz tziyon viyrushalayim
+| style="text-align: left; direction: ltr;" xml:lang="en" | Mūsu cerība vēl nav zudusi,<br />Divtūkstošgadu cerība:<br />Būt brīviem savā zemē<br />Cionas un Jeruzalemes zemē.
+|}
+
+== Vēsture ==
+
+Izraēlas himnas pamatā ir dziesma ''Tikvateinu'' (Mūsu cerība), kuru sarakstījis [[Galīcija]]s ebreju dzejnieks Naftalijs Hercs Imbers. Pirmais dzejas vārdu uzmetiens tika izdarīts 1877. gadā (pēc citiem datiem, 1876. vai 1878. g.) [[Jasi|Jasos]] ([[Rumānija]]). Šīs rindas domājams veltītas [[Petahtikva]]s pilsētas dibināšanai - tolaik tā bija viena no pirmajām [[Ebreji|ebreju]] apmetnēm [[Osmaņu impērija]]s kontrolētajā [[Palestīna|Palestīnā]]. 1886. gadā dzejolis tika publicēts tā autora pirmajā dzejas krājumā ''Rīta zvaigzne'' (ivr. ברקאי). Dziesmas pilnais garums ir 10 panti. Izraēlas himnā ietilpst pirmais pants un nedaudz izmainīts piedziedājums. 1888. gadā Šmuels Koens, [[Rišonleciona|Rišonlecionā]] dzīvojošs ebreju imigrants no [[Besarābija]]s, sacerēja dziesmai mūziku, par pamatu izmantodams kādas [[moldāvi|moldāvu]] tautas dziesmas melodiju.
+
+Dziesma kļuva par [[Cionisms|cionistiskās kustības]] himnu. ''Hatikva'' kā himna tiek izmantota kopš Izraēlas valsts izveides 1948. gadā, tomēr oficiālais himnas statuss tai ar [[Knesets|Kneseta]] lēmumu tika piešķirts tikai 2004. gada 10. novembrī.
+
+[[Kategorija:Valstu himnas]]
+[[Kategorija:Izraēlas nacionālie simboli]]

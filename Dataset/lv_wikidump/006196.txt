@@ -1,0 +1,43 @@
+[[Attēls:Info Simple bw.svg|thumbnail|upright=1.0|Informācijas zīme]]
+'''Informācija''' ({{val|la|informatio}} — ‘doma’, ‘ideja’, ‘koncepts’) ir [[zināšanas|ziņas]] un [[dati]] par kādu [[priekšmets|priekšmetu]], [[jēdziens|jēdzienu]], [[notikums|notikumu]] vai ko citu, kas tiek [[uztvere|uztverta]], nodota tālāk citiem, pārveidota, glabāta un izmantota. Informācija ir zināšanu kopums, ko izmanto [[izpratne]]i, [[lēmumu pieņemšana]]i vai [[problēmu risināšana]]i. Lai efektīvi to varētu izmantot, informācijai ir jābūt organizētai un saprotamai. [[Dati]] ir neapstrādāti [[fakts|fakti]] vai [[statistika]]s elementi, kam pašiem par sevi nav informatīvas nozīmes. Datus [[datu apstrāde|apstrādājot]] un [[interpretācija|interpretējot]], tie pārvēršas par informāciju. Noteiktos apstākļos no dažāda veida informācijas veidojas [[zināšanas]]. Rezultātā veidojās tā sauktā informatīvā plūsma jeb [[informācijas piramīda]], kuras pamatā ir dati, tad ir informācija, un to noslēdz zināšanas.
+
+Informācijai ir lielai loma mūsdienu [[sabiedrība|sabiedrībā]]. To izmanto [[ikdienas dzīve|ikdienas dzīvē]], [[zinātne|zinātnē]], [[tehnoloģija|tehnoloģijās]], [[ekonomika|ekonomikā]] un citur. Informācijas apstrāde, uzglabāšana un izplatīšana ir kļuvusi par būtisku sabiedrības attīstības sastāvdaļu.
+
+== Informācijas iegūšana ==
+Informācijas iegūšana ir nozīmīga, lai veidotu priekšstatu par pasauli un tajā notiekošajiem procesiem. Uz informāciju balstās [[zināšanas]] un [[izpratne]]. Informācijas iegūšana prasa [[kritiskā domāšana|kritisko domāšanu]] un [[vērtēšana|vērtēšanu]], jo tā var būt arī nepareiza, maldīga vai nepilnīga. Cilvēks informāciju iegūst ar [[redze]]s, [[dzirde]]s, [[oža]]s, [[garša]]s un [[tauste]]s palīdzību. Cilvēks uztverto informāciju uzglabā savā [[atmiņa|atmiņā]]. Atmiņai ir svarīga nozīme, jo ar tās palīdzību var uzkrāt zināšanas un pēc vajadzības tās izmantot. Informāciju var uztvert ne tikai [[cilvēks]], bet arī [[dzīvnieki]], [[augi]] un dažādas ierīces, piemēram, [[termometrs]].
+
+Tā kā visu vajadzīgo informāciju ne vienmēr var atcerēties, cilvēki laika gaitā ir izgudrojuši dažādus informācijas uzglabāšanas palīglīdzekļus, piemēram, [[grāmata]]s, [[burtnīca]]s, [[audio]] un [[video]] kasetes, [[kompaktdisks|kompaktdiskus]]. Mūsdienās par nozīmīgu informācijas iegūšanas avotu ir kļuvis [[internets]]. 
+
+== Informācijas organizēšana ==
+Informāciju ir nepieciešams organizēt, lai to efektīvāk iegūtu un saglabātu, un vēlāk meklētu, novērtētu un atlasītu. Informācijas organizēšana ietver dažādus procesus tās analīzei, pielietošanai un sakārtošanai.
+Informācijas organizēšanas metodes ietver [[datubāze|datubāžu]] veidošanu, [[vizuālā pārvaldība|vizuālo pārvaldību]], [[diagramma|diagrammu]] un [[infografika|infografiku]] veidošanu, [[sistēmu analīze|sistēmu analīzi]], hierarhisko koku veidošanu un tamlīdzīgi.
+
+== Informācijas nodošana ==
+Savukārt pašu informāciju var uzglabāt un nodot dažādās formās:
+* [[simbols|simboliskā]] formā, kurā izmanto dažādas zīmes, piemēram, luksufora gaismas, ceļazīmes;
+* [[teksts|tekstuālā]] formā, kurā izmanto dažādus simbolus — [[cipars|ciparus]], [[burts|burtus]] un [[matemātika|matemātiskas]] zīmes. Nozīme ir ne tikai simboliem un skaitam, bet arī to secībai;
+* [[grafika|grafiskā]] formā, piemēram, [[fotogrāfija]]s, zīmējumi;
+* [[audio]] formā, piemēram, [[mūzika]];
+* [[video]] formā, piemēram, [[kinofilma]]s.
+
+Informācijas izplatīšana ir daļa no informācijas nodošanas. Mūsdienās informācijas izplatīšanai arvien vairāk izmanto dažādus [[tehnika|tehniskus]] līdzekļus, piemēram, [[telefons|telefonus]], [[periodiskie izdevumi|periodiskos izdevumus]], [[kino]], [[televīzija|televīziju]], [[dators|datorus]].
+
+== Informācijas apstrāde ==
+[[Informācijas apstrāde]] ir darbības, kurās informāciju sakārto, sagrupē, pārveido un veic ar to aprēķinus.
+
+== Informātika ==
+[[Informātika]] ir [[zinātne]]s nozare, kurā, izmantojot [[dators|datorus]], pēta informācijas uztveršanu, uzglabāšanu, izplatīšanu un apstrādes iespējas.
+
+Termins ‘informātika’ veidojies, apvienojot vārdus ‘informācija’ un ‘[[automātika]]’.
+
+== Atsauces ==
+{{atsauces+}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Informācija| ]]

@@ -1,0 +1,33 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Ethylene_glycol_chemical_structure.png|150 px]] <br />Etilēnglikola struktūrformula<br />[[Attēls:Ethylene-glycol-3D-vdW.png|150 px]]<br />Etilēnglikola molekulas modelis<br />[[Attēls:Samlpe_of_Ethylene_glycol.jpg|120 px]]<br />Etilēnglikola paraugs
+|CAS numurs=107-21-1
+|ķīmiskā formula=HOCH<sub>2</sub>CH<sub>2</sub>OH
+|molmasa=62,068 
+|blīvums=1113,2 
+|kušanas temperatūra=260,2 K (-12,9&nbsp;°C)
+|viršanas temperatūra=470,4 K (197,3&nbsp;°C)
+|šķīdība ūdenī=jaucas jebkurās attiecībās
+}}
+'''Etilēnglikols''' (etāndiols, HOCH<sub>2</sub>CH<sub>2</sub>OH) ir bezkrāsas [[viskozitāte|viskozs]] [[šķidrums]] ar saldu garšu. Etilēnglikols ir visvienkāršākais divvērtīgais [[spirts]]. Ar [[ūdens|ūdeni]] sajaucas neierobežoti. Par [[glikoli]]em sauc vienkāršākos divvērtīgos spirtus (no {{val-el|γλυκύς}}, ''glykys'' — 'salds'). Etilēnglikols ir visplašāk lietotais glikols, eksistē arī [[propilēnglikols]].
+
+{{inde|Etilēnglikols ir indīgs. Organismā tas pakāpeniski nooksidējas par [[skābeņskābe|skābeņskābi]], kas bojā nieres.}}
+
+== Iegūšana ==
+Etilēnglikolu iegūst no [[etilēna oksīds|etilēna oksīda]] (C<sub>2</sub>H<sub>4</sub>O), reakcijā ar ūdeni:
+
+C<sub>2</sub>H<sub>4</sub>O + H<sub>2</sub>O → HOCH<sub>2</sub>CH<sub>2</sub>OH
+
+Reakcija var notikt gan skābā, gan bāziskā vidē, vai arī neitrālā vidē paaugstinātā temperatūrā. Lielākais etilēnglikola iznākums ir vāji skābā vai neitrālā vidē lielā ūdens pārākumā. Nozīmīgākie blakusprodukti ir dažādi polietilēnglikola oligomēri, to daudzums palielinās, samazinot ūdens pārākumu (tāpēc, ka etilēna oksīds sāk reaģēt ar jau izveidojušos etilēnglikolu).
+
+== Izmantošana ==
+Bezūdens etilēnglikols ir [[higroskopiskums|higroskopisks]], tāpēc to lieto [[iespiedkrāsa|iespiedkrāsu]], zīmoglaku un kosmētisko preparātu ražošanai. Etilēnglikolu izmanto [[laka|laku]], krāsu, [[sintētiskā šķiedra|sintētisko šķiedru]] ([[PET]]) un [[šķīdinātājs|šķīdinātāju]] ([[celosolvi|celosolvu]]) ražošanai. Ļoti lielu daļu etilēnglikola lieto dzesēšanas šķidrumiem kā [[antifrīzs|antifrīza]] piedevu, jo tam ir zemāka sasalšanas temperatūra un augstāka viršanas temperatūra kā ūdenim. Higroskopiskuma dēļ etilēnglikolu lieto [[dabasgāze]]s [[dehidratēšanas reakcija|dehidratēšanai]].
+
+== Ārējās saites ==
+* [http://xotxim.ru/etilenglikol/ Etilēnglikols] {{krieviski}}
+
+{{Spirti}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Spirti]]
+[[Kategorija:Šķīdinātāji]]

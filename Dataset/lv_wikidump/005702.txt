@@ -1,0 +1,18 @@
+{{Navbox
+|name       = G7
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+|title      = [[G7 valstis]] (Lielais septītnieks)
+|list1  = 
+* {{GBR}}
+* {{USA}}
+* {{FRA}}
+* {{ITA}}
+* {{JPN}}
+* {{CAN}}
+* {{DEU}}
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes|G7]]
+</noinclude>

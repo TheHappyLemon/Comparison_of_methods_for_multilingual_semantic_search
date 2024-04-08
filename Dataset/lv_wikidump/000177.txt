@@ -1,0 +1,70 @@
+{{BioTakso infokaste
+|          platums = 240px
+|        nosaukums = Baktērijas
+|           attēls = EscherichiaColi NIAID.jpg
+|    att_nosaukums = Baktērijas ''[[Escherichia coli]]'' šūnas 25 000 reižu palielinājumā.
+|           valsts = Bacteria
+|        valsts_lv = Baktērijas
+|         binomial = Bacteria
+|       iedalījums = Baktēriju iedalījums pēc tipiem:
+* [[acidobaktērijas]] (''Acidobacteria'')
+* ''[[Actinobacteria]]''
+* ''[[Aquificae]]''
+* ''[[Bacteroidetes]]''
+* ''[[Chlamydiae]]''
+* ''[[Chlorobi]]''
+* ''[[Chloroflexi]]''
+* ''[[Chrysiogenetes]]''
+* ''[[Cyanobacteria]]''
+* ''[[Deferribacteres]]''
+* ''[[Deinococcus-Thermus]]''
+* ''[[Dictyoglomi]]''
+* ''[[Fibrobacteres]]''
+* ''[[Firmicutes]]''
+* ''[[Fusobacteria]]''
+* ''[[Gemmatimonadetes]]''
+* ''[[Nitrospirae]]''
+* ''[[Planctomycetes]]''
+* ''[[Proteobacteria]]''
+* ''[[Spirochaetes]]''
+* ''[[Synergistetes]]''
+* ''[[Tenericutes]]''
+* ''[[Thermodesulfobacteria]]''
+* ''[[Thermomicrobia]]''
+* ''[[Thermotogae]]''
+* ''[[Verrucomicrobia]]''
+|      kategorijas = nē
+}}
+
+'''Baktērijas''' (''Bacteria'') ir dzīvo [[organisms|organismu]] grupa. Tās ir mikroskopiskas un lielākoties sastāv no [[vienšūnas organisms|vienas šūnas]], kas ir nosacīti vienkārša — tai trūkst [[šūnas kodols|šūnas kodola]], [[citoskelets|citoskeleta]] un [[organoīdi|organoīdu]], kā [[mitohondrijs|mitohondriju]] un [[hloroplasts|hloroplastu]]. Tādus organismus kā baktērijas sauc par [[prokariots|prokariotiem]], bet pārējos organismus, kuriem ir daudz sarežģītākas [[šūna]]s, sauc par [[eikariots|eikariotiem]].
+ 
+Līdz 1970. gadu beigām terminu "baktērija" [[virusoloģija|virusoloģijā]] attiecināja uz visiem [[prokariots|prokariotiem]], bet 1977. gadā [[mikrobioloģija]]s speciālisti tās sadalīja arhebaktērijās un eibaktērijās. Vēlāk, lai izceltu atšķirību starp šīm divām grupām, arhebaktērijas tika pārdēvētās par [[arheji]]em, bet eibaktērijas pārsauktas atpakaļ par baktērijām. Tomēr joprojām nereti ar terminu "baktērijas" saprot abas grupas. Šajā rakstā ir informācija tikai par eibaktērijām.
+
+Baktērijas ir visizplatītākie no visiem organismiem. Tās ir visur — [[augsne|augsnē]], [[ūdens|ūdenī]], [[gaiss|gaisā]] un atrodas [[simbioze|simbiozē]] ar visiem ķermeņiem. Daudzi slimību ierosinātāji, ieskaitot dzīvnieku slimību ierosinātājus, ir tieši baktērijas. Lielākā daļa no tām ir ļoti sīkas, parasti tikai 1{{E|-6}} [[metrs|metru]] jeb 1 mikrometru (μm) lielas, taču vienas ģints baktērijas (''[[Thiomargarita]]'') var sasniegt pat 0,75 mm diametru.<ref name="mst"/> Parasti baktērijām ir šūnu sieniņas, tāpat kā [[augu šūna|augu]] un [[sēņu šūna|sēņu šūnām]], taču ar ļoti atšķirīgu struktūru. 
+
+Daudzas no baktērijām pārvietojas ar [[vica|vicu]] palīdzību, un šīs vicas atšķiras no citu grupu [[vienšūņi|vienšūņu]] vicām.
+
+== Baktēriju atklāšana ==
+1676. gadā pirmo reizi baktērijas optiskajā [[mikroskops|mikroskopā]] ieraudzīja un pēc tam aprakstīja nīderlandiešu dabas pētnieks [[Antonijs van Lēvenhuks]]. Tāpat kā visus citus līdz tam atklātos mikroskopiskos organismus, arī šos Lēvenhuks nosauca par ''animalcules''. Terminu "baktērija" 1828. gadā ieviesa vācu dabas pētnieks [[Christian Gottfried Ehrenberg|Kristiāns Gotfrīds Ērenbergs]]. 1850. gados franču mikrobiologs [[Luijs Pastērs]] uzsāka baktēriju [[fizioloģija]]s un [[vielmaiņa]]s pētījumus, kā arī atklāja to, ka baktērijas izraisa daudzas [[slimība]]s. Turpmākajā mikrobioloģijas attīstībā nozīmīgu devumu deva vācu mikrobiologs [[Roberts Kohs]]. Viņš izdalīja [[Sibīrijas mēris|Sibīrijas mēra]], [[tuberkuloze]]s un [[holēra]]s ierosinātājus. 1884. gadā formulēja un 1890. gadā publicēja [[Koha postulāti|Koha postulātus]]. Savukārt 1905. gadā par tuberkulozes pētījumiem viņš saņēma [[Nobela prēmija fizioloģijā vai medicīnā|Nobela prēmiju fizioloģijā vai medicīnā]].
+
+Baktēriju uzbūves pētīšana sākās ap 1930. gadu, kad tika izgudrots [[elektronmikroskops]]. 1937. gadā tika ierosināts visus organismus sadalīt [[prokarioti|prokariotos]], pie kuriem piederēja baktērijas, un [[eikarioti|eikariotos]]. Un visbeidzot 1977. gadā prokarioti tika sadalīti [[arheji|arhejos]] (arhebaktērijās) un baktērijās.
+
+== Skatīt arī ==
+* [[Baktēriju morfoloģija]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="mst">{{tīmekļa atsauce | url= http://web.mst.edu/~microbio/bio221_2005/T_namibiensis.htm | title= Thiomargarita namibiensis | author= Brandie Amsden | publisher= Missouri University of Science and Technology | accessdate= 2012-04-23 | language= angliski | archiveurl= https://web.archive.org/web/20120412131535/http://web.mst.edu/~microbio/bio221_2005/T_namibiensis.htm | archivedate= 2012-04-12 }} {{Webarchive|url=https://web.archive.org/web/20120412131535/http://web.mst.edu/~microbio/bio221_2005/T_namibiensis.htm |date=2012-04-12 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www3.niaid.nih.gov/biodefense/public/images.htm | title= Dažu baktēriju elektronmikroskopiski attēli | publisher= National Institute of Allergy and Infectious Diseases | language= angliski | access-date= {{dat|2007|07|24||bez}} | archiveurl= https://web.archive.org/web/20070726082151/http://www3.niaid.nih.gov/biodefense/public/images.htm | archivedate= {{dat|2007|07|26||bez}} }} {{Webarchive|url=https://web.archive.org/web/20070726082151/http://www3.niaid.nih.gov/biodefense/public/images.htm |date={{dat|2007|07|26||bez}} }}
+* {{tīmekļa atsauce | url= http://www.neslimo.lv/pme/?name=bakterijas | title= Baktērijas | publisher= Neslimo.lv | language= latviski}} 
+
+
+{{bioloģija-aizmetnis}}
+
+
+[[Kategorija:Baktērijas| ]]

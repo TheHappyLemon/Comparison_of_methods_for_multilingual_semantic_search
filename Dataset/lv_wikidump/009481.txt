@@ -1,0 +1,187 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Lejasaustrija
+ | official_name           = ''Niederösterreich''
+ | settlement_type         = zeme
+ | image_skyline           = Puchberg - Schneeberg.JPG
+ | imagesize               = 
+ | image_caption           = Lejasaustrijas ainava
+ | image_flag              = Flag_of_Lower_Austria.svg
+ | image_shield            = Niederösterreich_CoA.svg
+ | shield_size             = 70px
+ | capital                 = [[Sanktpeltene]]
+ | largest_city            = 
+ | official_language       = 
+ | spoken_language         = 
+ | image_map               = Niederösterreich_in_Austria.svg
+ | mapsize                 = 
+ | map_caption             = Karintijas atrašanās vieta Austrijā
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{AUT}}
+ | subdivision_type1       = 
+ | subdivision_name1       = 
+| parts_type = Pilsētas un apriņķi
+| parts = 4+20
+| p1 = [[Kremsa pie Donavas]]
+| p2 = [[Sanktpeltene]]
+| p3 = [[Vaidhofene pie Ibsas]]
+| p4 = [[Vīnerneištate]]
+| p5 = <hr />
+| p6 = [[Amštetenes apriņķis]]
+| p7 = [[Bādenes apriņķis]]
+| p8 = [[Brukas pie Leitas apriņķis]]
+| p9 = [[Cvetlas apriņķis]]
+| p10 = [[Genzerndorfas apriņķis]]
+| p11 = [[Gmindes apriņķis]]
+| p12 = [[Hollabrunnas apriņķis]]
+| p13 = [[Hornas apriņķis]]
+| p14 = [[Korneiburgas apriņķis]]
+| p15 = [[Kremsas lauku apriņķis]]
+| p16 = [[Lileinfeldas apriņķis]]
+| p17 = [[Melkas apriņķis]]
+| p18 = [[Mistelbahas apriņķis]]
+| p19 = [[Medlingas apriņķis]]
+| p20 = [[Neikirhenes apriņķis]]
+| p21 = [[Sanktpeltenes lauku apriņķis]]
+| p22 = [[Šeibsas apriņķis]]
+| p23 = [[Tullnas pie Donavas apriņķis]]
+| p24 = [[Vaidhofenes pie Tajas apriņķis]]
+| p25 = [[Vīnerneištates lauku apriņķis]]
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 19186
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 
+ | elevation_min_m         = 
+ | population_footnotes    = 
+ | population_total        = 1684623
+ | population_as_of        = 2020
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = [[Centrāleiropas laiks|CET]]
+ | utc_offset              = +1
+ | timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST          = +2
+ | website                 = {{url|https://www.noe.gv.at/}}
+ | blank_name              = 
+ | blank_info              = 
+ | footnotes               = 
+}}
+
+'''Lejasaustrija ''' ({{val|de|Niederösterreich}}) ir federatīvā zeme [[Austrija]]s ziemeļaustrumos. Lejasaustrijas galvaspilsēta un lielākā pilsēta ir [[Sanktpeltene]]. Ziemļos tā robežojas ar [[Čehija|Čehiju]], austrumos - ar [[Slovākija|Slovākiju]]. Dienvidaustrumos atrodas [[Burgenlande]], dienvidos - [[Štīrija]], bet rietumos, augšup pa [[Donava|Donavu]] - [[Augšaustrija]]. Valsts galvaspilsēta [[Vīne]] ir Lejasaustrijas teritorijas [[anklāvs]]. 
+
+== Apskates vietas ==
+{{div col}}
+* [[Donavas—Auenes nacionālais parks]]
+* [[Heiligenkreicas abatija]]
+* [[Karnunta]]
+* [[Lihtenšteinas pils (Austrija)|Lihtenšteinas pils]]
+* [[Melkas abatija]]
+* [[Vahava]]
+* [[Vīnervalde]]
+* [[Zemmeringas dzelzceļš]]
+{{div col end}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.noe.gv.at/ Oficiālā mājaslapa] {{Webarchive|url=https://web.archive.org/web/20151222151328/http://www.noe.gv.at/bilder/d17/BD5noe31-Viertelsgrenzen.png?7150 |date={{dat|2015|12|22||bez}} }} {{de ikona}}
+
+== Pilsētas==
+
+=== Karte ===
+{{VietasKarte+|Lejasaustrija|width=700 |float=left|caption = Lejasaustrijas pilsētu izvietojums
+|places =
+{{VietasKarte~|Lejasaustrija|lat=48.696261|long=15.3274|position = right |label=[[Allentštaiga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.123|long=14.87213|position = left |label=[[Amštetene]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.966944|long=16.214444|position = left |label=[[Bādfeslava]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.007528|long=16.234444|position = left |label=[[Bādene pie Vīnes]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.942778|long=16.103611|position = left |label=[[Berndorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.0255|long=16.778972|position = top |label=[[Bruka pie Laitas]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.299444|long=16.564444|position = top |label=[[Doičvāgrama]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.868056|long=15.616944|position = top |label=[[Drozendorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.395556|long=15.520278|position = left |label=[[Dirnšteina]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.876667|long=16.371667|position = left |label=[[Ebenfurte]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.961111|long=16.404722|position = bottom |label=[[Ebreihsdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.643056|long=15.816111|position = right |label=[[Egenburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.115556|long=16.612778|position = left |label=[[Fišamende]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.798889|long=15.674444|position = right |label=[[Gerasa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.295|long=16.4675|position = bottom |label=[[Gerasdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.516667|long=15.483333|position = top |label=[[Gfēla]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.675833|long=15.938333|position = left |label=[[Glognica]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.766667|long=14.983333|position = left |label=[[Gminde (Lejasaustrija)|Gminde]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.574167|long=14.957778|position = top |label=[[Grosgerungsa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.2025|long=16.550556|position = right |label=[[Grosencersdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.783333|long=15.4|position = bottom |label=[[Groszighartse]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.340556|long=16.7175|position = top |label=[[Genzerndorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.112222|long=14.565556|position = bottom |label=[[Hāga (Austrija)|Hāga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.147778|long=16.941944|position = left |label=[[Hainburga pie Donavas]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.033333|long=15.766667|position = top |label=[[Hainfelde]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.8525|long=15.858889|position = right |label=[[Hardega]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.866667|long=15.116667|position = top |label=[[Heidenreihšteina]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.286111|long=15.696389|position = left |label=[[Hercogenburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.566667|long=16.083333|position = top |label=[[Hollabrunna]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.663889|long=15.657222|position = left |label=[[Horna (pilsēta)|Horna]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.503056|long=16.296111|position = top |label=[[Kiršlāga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.305|long=16.325|position = left |label=[[Klosterneiburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.345278|long=16.333056|position = top |label=[[Korneiburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.410833|long=15.610278|position = right |label=[[Kremsa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.7225|long=16.386667|position = top |label=[[Lā]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.466667|long=15.683333|position = top |label=[[Langenloisa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.013083|long=15.59675|position = top |label=[[Lilienfelde (pilsēta)|Lilienfelde]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.943361|long=15.045528|position = top |label=[[Ličava]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.566667|long=15.816667|position = left |label=[[Maisava]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.111389|long=15.340833|position = top |label=[[Manka]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.966667|long=16.6|position = right |label=[[Mannersdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.276944|long=16.906944|position = top |label=[[Marhega]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.393611|long=15.5775|position = bottom |label=[[Mauterne]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.226944|long=15.343889|position = top |label=[[Melka]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.566667|long=16.566667|position = top |label=[[Mistelbaha]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.085556|long=16.283056|position = left |label=[[Mēdlinga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.200278|long=15.909722|position = top |label=[[Neilengbaha]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.726944|long=16.081667|position = top |label=[[Neikirhene]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.666667|long=16.633333|position = top |label=[[Poisdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.178889|long=16.0775|position = bottom |label=[[Presbauma]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.7|long=15.85|position = left |label=[[Pulkava]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.209167|long=16.179167|position = right |label=[[Purkersdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.2|long=15.2|position = top |label=[[Pehlarna]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.848056|long=15.493056|position = left |label=[[Rābsa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.75|long=15.95|position = top |label=[[Reča]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.2|long=15.616667|position = top |label=[[Sanktpeltene]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.174722|long=14.533333|position = right |label=[[Sanktvalentīna]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.004722|long=15.167778|position = top |label=[[Šeibse]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.716667|long=15.9|position = right |label=[[Šrātentāle]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.783333|long=15.066667|position = right |label=[[Šremsa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.141111|long=16.478611|position = left |label=[[Švehate]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.385833|long=16.210833|position = top |label=[[Štokerava]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.716667|long=16.033333|position = left |label=[[Ternica]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.013611|long=16.295278|position = right |label=[[Traiskirhene]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.333333|long=15.733056|position = right |label=[[Traismaurere]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.333333|long=16.05|position = top |label=[[Tullne pie Donavas]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.816667|long=16.25|position = left |label=[[Vīnerneištate]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.816667|long=15.283333|position = left |label=[[Vaidhofena pie Taijas]]}}
+{{VietasKarte~|Lejasaustrija|lat=47.966667|long=14.766667|position = top |label=[[Vaidhofena pie Ibsas]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.700833|long=14.895556|position = top |label=[[Veitra]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.133333|long=15.138889|position = left |label=[[Vīzelburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.110833|long=15.61|position = top |label=[[Vilhelmsburga]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.383056|long=16.518056|position = top |label=[[Volkersdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.166667|long=15.066667|position = right |label=[[Ibsa pie Donavas]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.516667|long=16.75|position = top |label=[[Cistersdorfa]]}}
+{{VietasKarte~|Lejasaustrija|lat=48.60333|long=15.168889|position = top |label=[[Cvetle]]}}
+}}
+
+{{Austrijas zemes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrijas administratīvais iedalījums]]
+[[Kategorija:Lejasaustrija| ]]

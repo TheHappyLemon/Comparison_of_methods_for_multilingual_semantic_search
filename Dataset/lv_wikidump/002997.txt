@@ -1,0 +1,78 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Saratova
+ | official_name              = ''Саратов''
+ | settlement_type          = pilsēta
+ | image_skyline            = Площадь Столыпина.jpg
+ | imagesize                = 
+ | image_caption            = Stolipina laukums ar pilsētas mēriju un pieminekli [[Pjotrs Stolipins|Stolipinam]]
+ | image_flag               = Flag of Saratov.svg
+ | image_shield             = Coat of Arms of Saratov.png
+ | shield_size              = 70px
+ | image_map                = Map of Russia - Saratov Oblast (2008-03).svg
+ | pushpin_map              = Saratovas apgabals
+ | pushpin_label_position   = left
+ | pushpin_mapsize          = 
+ | pushpin_map_caption      = Atrašanās vieta Saratovas apgabalā
+ | latd  = 51 | latm  = 32 | lats  =  | latNS  = N
+ | longd = 46 | longm = 00 | longs =  | longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = '''{{karogs|Krievija}}'''
+ | subdivision_type1        = Federālais apgabals
+ | subdivision_name1        = [[Volgas federālais apgabals]]
+ | subdivision_type2        = Federācijas subjekts
+ | subdivision_name2        = [[Saratovas apgabals]]
+ | subdivision_type3        = 
+ | subdivision_name3        = 
+ | established_title        = Dibināta
+ | established_date         = {{dat|1590}}
+ | established_title2       = 
+ | established_date2        = 
+ | founder                  = 
+ | named_for                = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 394
+ | population_footnotes     = 
+ | population_total         = 840785
+ | population_as_of         = 2014
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_urban         = 
+ | population_metro         = 1150000
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[UTC]]
+ | utc_offset               = +5
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 410xxx
+ | area_code                = +7 8452
+ | elevation_m              = 50
+ | website                  = {{url|http://www.saratovmer.ru/}}
+ | footnotes                = 
+}}
+'''Saratova''' ({{val-ru|Саратов}}) ir pilsēta [[Krievija|Krievijā]], [[Volga]]s labajā krastā, [[Saratovas apgabals|Saratovas apgabala]] centrs. Liels rūpniecības centrs — aviobūve (lidmašīnas ''[[Jak]]''). Vēsturiski [[Volgas vācieši|Volgas vāciešu]] kultūras centrs.
+
+== Vēsture ==
+Tagadējās Saratovas vietā kopš seniem laikiem bijušas apdzīvotās vietas, zināmākā no tām — [[Zelta Orda]]s laikmeta [[Uveka]], kas pastāvēja no 13. gadsimta vidus līdz 1395. gadam. 1590. gadā [[Volga]]s kreisajā krastā pēc [[Boriss Godunovs|Borisa Godunova]] rīkojuma dibināja cietoksni, pie kura izauga pilsēta. 1674. gadā apmetni pārcēla upes labajā krastā. No 1797. gada — [[Saratovas guberņa]]s centrs. No 18. gadsimta vidus Saratova kļuvs par lielu upes ostu. Galvenā tirdzniecība noritēja ar sāli un zivīm, bet 19. gadsimtā — ar labību.
+
+[[Otrais pasaules karš|Otrā pasaules kara]] sākumā no Saratovas uz [[Kazahstāna|Kazahstānu]] un [[Sibīrija|Sibīriju]] tika izvesti visi pilsētas [[Volgas vācieši|vācu]] iedzīvotāji. Līdz 1992. gadam Saratova bija «slēgtā pilsēta» (pilsēta, kurā nebija atļauts brīvi ierasties), jo šeit atrodas lielas militārās rūpnīcas.
+
+== Cilvēki ==
+Saratovā dzimuši:
+* [[Romāns Abramovičs]] - uzņēmējs
+* [[Nikolajs Černiševskis]] - filozofs
+* [[Konstantīns Fedins]] - rakstnieks
+* [[Jevgeņijs Mironovs]]  - aktieris
+* [[Aleksejs Rikovs]] - politiķis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Saratovas apgabala pilsētas|state=expanded}}
+{{Krievijas centri}}
+{{Krievijas Impērijas struktūra}}
+{{autoritatīvā vadība}}

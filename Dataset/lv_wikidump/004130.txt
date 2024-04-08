@@ -1,0 +1,22 @@
+'''Aerokosmiskā inženierija''' ir [[inženierija]]s nozare, kas apskata jautājumus, kas ir saistīti ar [[Aeronautika|aeronautiku]] un astronautiku ([[kosmonautika|kosmonautiku]]). Parasti šos abus terminus apvieno vienā — aerokosmiskā inženierija ({{val|en|aerospace engineering}}). Dažkārt var sajaukt ar [[aviācija]]<nowiki/>s inženieriju, kura ietver sevī tikai smagāku par gaisu [[lidaparātu ekspluatācija]]<nowiki/>s un izstrādes nozares.
+
+[[Attēls:Lockheed SR-71 Blackbird.jpg|thumb|right|200px|[[USAF]] SR-71 trainer]]
+
+== Aerokosmiskajā inženierijā apskatāmie elementi ==
+* [[aerodinamika]] — mācība par vielu plūšanu ap objektiem, piemēram, spārniem vai cauriem objektiem (piemēram, vēja tuneļiem);
+* dzinējspēki (tiek pētīti dzinēji, kas virza transporta līdzekli cauri gaisam (vai [[kosmiskajā telpa|kosmiskajai telpai]], piemēram, [[iekšdedzes dzinējs|iekšdedzes dzinēji]], [[reaktīvie dzinējs|reaktīvie dzinēji]], [[Raķešdzinējs|raķešdzinēji]]));
+* kontroles inženierija — mācība, kas pēta matemātiskos modeļus un izstrādā tos, lai tie darbotos vēlamajā veidā;
+* struktūra — objekta [[dizains]] un uzbūve ar mērķi, lai objekts izturētu slodzes, ko izjūt lidojuma laikā;
+* [[materiālu zinātne]] — aeroinženierija pēta materiālus, no kuriem tiek konstruētas aviācijas detaļas; tiek izgudroti materiāli ar ļoti specifiskām īpašībām un tiek mainītas un uzlabotas jau esošās, lai uzlabotu to darbību;
+* [[aeroelastika]] — pēta iedarbību starp aerodinamiskajiem spēkiem un struktūras elastību;
+* [[datorzinātne]], kas aeroinženierijas ietvaros koncentrējas uz tai svarīgiem jautājumiem.
+
+Pārsvarā aeroinženierija balstās teorētiskajā [[matemātika|matemātikā]], vielu dinamikā, lidojuma dinamikā. Tomēr liela nozīme ir arī empīriskajiem materiāliem. Vēsturiski šīs empīriskās zināšanas tika iegūtas no prototipu un modeļa testēšanas vai nu [[vēja tunelis|vēja tuneļos]], vai arī brīvā [[atmosfēra|atmosfēr]]ā. Tomēr nesenie sasniegumi [[datorika|datorikā]] ir devuši iespēju simulēt dabiskos apstākļus, tādējādi paātrinot izpētes procesu un samazinot laiku datu iegūšanai.
+
+Vadošās kompānijas aeroinženierijā (2005. gads): ''[[Airbus]]'', ''[[Boeing]]'', ''[[Bombardier]]'', ''[[Lockheed Martin]]'', ''[[Northrop Grumman]]'', ''[[Raytheon]]''.
+
+{{tehnoloģija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Aeroinženierija| ]]
+[[Kategorija:Kosmonautika]]

@@ -1,0 +1,37 @@
+{{Cita nozīme|futbola klubu|Rīgas pilsētas daļu|Pārdaugava}}
+'''Pārdaugava Rīga''' ir bijušais [[Latvija]]s [[futbols|futbola]] klubs no [[Rīga]]s.
+
+== Iegūtās vietas Latvijas čempionātā ==
+<timeline>
+ImageSize = width:600 height:60
+PlotArea = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period = from:01/07/1991 till:01/07/1994
+ScaleMajor = unit:year increment:1 start:1992 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:[[Latvijas futbola Virslīga 1992|4]]
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:[[Latvijas futbola Virslīga 1993|4]]
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:[[Latvijas futbola Virslīga 1994|6]]
+
+  from:01/07/1991 till:01/07/1994  color:bl1  shift:(0,13)  text: "[[Latvijas futbola Virslīga|Virslīga]]"
+
+</timeline>
+
+== Slaveni spēlētāji ==
+* [[Marians Pahars]]
+* [[Andrejs Piedels]]
+* [[Dzintars Zirnis]]
+* [[Sergejs Molčanovs]]
+* [[Oļegs Blagonadeždins]]
+
+{{futbols-stub}}
+
+[[Kategorija:Bijušie Latvijas futbola klubi|Pārdaugava]]

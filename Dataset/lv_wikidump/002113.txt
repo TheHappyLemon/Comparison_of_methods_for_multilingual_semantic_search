@@ -1,0 +1,10 @@
+'''GEM''' ('''G'''raphics '''E'''nvironment '''M'''anager) - [[Digital Research]] veidota [[logu sistēma]], kas sākotnēji darbojās [[CP/M]] [[Operacionālā sistēma|operacionālajā sistēmā]] uz [[Intel 8088]] un [[Motorola 68000]] [[mikroprocesors|mikroprocesoriem]]. Vēlāk sistēma tika pielāgota arī [[DOS]] sistēmai. Līdz pat [[Microsoft Windows]] 3.0 iznākšanai, tā bija diezgan populāra vide, kas par zemāku cenu piedāvāja analogu vai pat labāku funkcionalitāti.
+
+GEM ir pazīstama arī kā [[Atari ST]] sērijas, kā arī vairāku [[Amstrad]] ražoto PC-savietojamo datoru noklusētā [[grafiskā lietotāja saskarne]]. Tāpat GEM par kodolu izmantoja arī vairākas DOS programmas, no kurām pazīstamākā ir [[Ventura Publisher]].
+
+Mūsdienās GEM pirmkods ir izlaists zem [[GNU]] Vispārējās Publiskās licences un tā attīstība notiek [[FreeGEM]] projekta ietvaros.
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Atari ST]]
+[[Kategorija:DOS]]

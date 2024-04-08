@@ -1,0 +1,83 @@
+{{Nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #007dc5
+| nos        = ''AJ Auxerre''
+| logo       = [[Attēls:Auxerre.gif|140px]]
+| pilns      = ''Association de la Jeunesse Auxerroise''
+| iesauka    = ''AJA''
+| pilsēta    = {{Vieta|Francija|Osēra}}
+| dib        = 1905
+| stad       = ''Stade l'Abbé-Deschamps''
+| ietilp     = 18 541
+| prez       = 
+| tren       = {{flaga|Francija}} [[Kristofs Pelisjē]]
+| līga       = [[Francijas futbola 2. līga|Francijas 2. līga]]
+| sez        = [[2022.—2023. gada Francijas futbola 1. līgas sezona|2022.—2023.]]
+| poz        = 17. vieta ''[[Francijas futbola 1. līga|Ligue 1]]'' {{decrease}} 
+| mediji     = {{URL|https://www.aja.fr/}}
+| pattern_la1 = _ajauxerre1920h
+| pattern_b1 = _ajauxerre1920h
+| pattern_ra1 = _ajauxerre1920h
+| pattern_sh1 = _ajauxerre1920h
+| pattern_so1 = _ajauxerre1920h
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = 0000FF
+| socks1 = FFFFFF
+| pattern_la2 = _ajauxerre1920a
+| pattern_b2 = _ajauxerre1920a
+| pattern_ra2 = _ajauxerre1920a
+| pattern_sh2 = _ajauxerre1920a
+| pattern_so2 = _ajauxerre1920a
+| leftarm2 = 0000FF
+| body2 = 0000FF
+| rightarm2 = 0000FF
+| shorts2 = FFFFFF
+| socks2 = 0000FF
+| pattern_la3 = _aja1718_thi
+| pattern_b3 = _aja1718_thi
+| pattern_ra3 = _aja1718_thi
+| pattern_sh3 = _aja1718_ext
+| pattern_so3 = _aja1718_ext
+| body3 = 001ecc
+| socks3 = 001ecc
+}}
+
+'''''Association de la Jeunesse Auxerroise''''' ({{izrunā|a.sɔ.sja.sjɔ̃ də la ʒœ.nɛs osɛʁ}}), biežāk zināms kā '''''AJ Auxerre''''' vai vienkārši '''''Auxerre''''', ir [[Francija]]s [[futbols|futbola]] klubs no [[Osēra]]s [[Francijas komūnas|komūnas]] [[Burgundija|Burgundijā]]. Klubs dibināts [[1905]]. gadā un savas spēles aizvada ''[[Stade l'Abbé-Deschamps]]'' stadionā [[Jonna]]s upes krastā. Pašlaik spēlē [[Francijas futbola 1. līga|Francijas 1. līgā]] (''Ligue 1''). ''AJ Auxere'' ir zināms arī kā viens no labākajiem mazpilsētas futbola klubiem pasaulē. Lielākais sasniegums kluba vēsturē ir 1995.—1996. gada sezonā izcīnītais Francijas čempionu tituls. ''AJ Auxere'' ir izcīnījuši arī četrus [[Francijas kauss futbolā|Francijas kausus]].<ref name="Palmarès">{{Tīmekļa atsauce|url=http://www.aja.fr/index.php/palmares.html|title=Palmarès et records|accessdate={{dat|2015|10|9}}|publisher=A.J.A.|archiveurl=https://web.archive.org/web/20180909151214/http://www.aja.fr/index.php/palmares.html|archivedate={{dat|2018|09|09||bez}}}} {{Webarchive|url=https://web.archive.org/web/20180909151214/http://www.aja.fr/index.php/palmares.html |date={{dat|2018|09|09||bez}} }}</ref> 1996.—1997. gada sezonā aizkļuva līdz [[UEFA Čempionu līga]]s ceturtdaļfinālam.<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefachampionsleague/season=1996/index.html|title=UEFA Champions League 1996/97 - History|accessdate={{dat|2015|10|9}}|publisher=UEFA.com}}</ref>
+
+== Sasniegumi ==
+* '''[[Francijas futbola 1. līga|Francijas čempionāts (''Ligue 1'')]]'''
+** Čempioni (1): 1995—96
+* '''[[Francijas kauss futbolā|Francijas kauss]]'''
+** Kausa ieguvēji (4): 1993—94, 1995—96, 2002—03, 2004—05
+** Finālisti (2): 1978—79, 2014—15
+* '''Francijas superkauss'''
+** Finālisti (2): 2003, 2005
+* '''[[Francijas futbola 2. līga|Francijas 2. līga]]'''
+** Čempioni (1): 1979—80
+* '''[[UEFA kauss]]'''
+** Pusfinālisti (1): 1992—93
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji: 1997
+* '''Alpu kauss'''
+** Uzvarētāji (2): 1985, 1987
+** Finālisti (1): 1983 .<ref name="Palmarès"/>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+* [http://www.aja.fr/ Oficiālā kluba vietne] {{fr ikona}}
+
+
+{{futbols-aizmetnis}}
+{{Ligue 1}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Auxerre, AJ}}
+[[Kategorija:Francijas futbola klubi]]
+[[Kategorija:AJ Auxerre]]

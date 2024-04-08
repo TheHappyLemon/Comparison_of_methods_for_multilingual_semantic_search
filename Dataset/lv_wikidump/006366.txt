@@ -1,0 +1,93 @@
+{{Latvijas novada infokaste
+| nosaukums         = Pūres pagasts
+| karte             = Pūres pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Pures_pagasts.png
+| ģerboņa_nosaukums = Pūres pagasta ģerbonis
+| karoga_attēls     = Flag_of_Pūres_pagasts.png
+| karoga_nosaukums  = Pūres pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Tukuma novads
+| centrs            = Pūre
+| platība           = 102,2
+| iedzīvotāji       = 1482<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1482 / 102.2 round 1}}
+| izveidots         = 1866
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.pure.lv
+| nos_vācu          = Puhren 
+| ref_vācu          =
+| nos_krievu        = Пуренская 
+| ref_krievu        =
+}}
+'''Pūres pagasts''' ir viena no [[Tukuma novads|Tukuma novada]] administratīvajām teritorijām. Atrodas 85 km attālumā no [[Rīga]]s un 19 km attālumā no novada centra [[Tukums|Tukuma]]. Robežojas ar sava novada [[Jaunsātu pagasts|Jaunsātu]], [[Tumes pagasts|Tumes]], [[Sēmes pagasts|Sēmes]], [[Zentenes pagasts|Zentenes]], [[Kandavas novads|Kandavas]] un [[Cēres pagasts|Cēres]] pagastiem. 
+
+== Daba ==
+Atrodas [[Ziemeļkursas augstiene]]s [[Vanemas pauguraine|Vanemas paugurainē]] un [[Abavas senleja|Abavas senlejā]]. Augstākā vieta - 89,2 m vjl. - atrodas pagasta ziemeļu daļā.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Abava]]
+** [[Pūre (upe)|Pūre]]
+*** [[Sīļupīte]]
+*** [[Viljetupīte]]
+** [[Vēdzele (upe)|Vēdzele]]
+** [[Zvārīte]]
+
+==== Ūdenstilpes ====
+Uz [[Pūre (upe)|Pūres]] upes uzpludināts [[Sudmaļu dzirnavezers (Pūres pagasts)|Sudmaļu dzirnavezers]] (7,9 ha), bet uz [[Zvārīte]]s upes - [[Gravu dīķis (Pūres pagasts)|Gravu dīķis]] un [[Sermuļu dīķis]].
+
+== Vēsture ==
+[[Attēls:Lamiņu baznīca.jpg|thumb|265px|Lamiņu baznīca Pirmā pasaules kara laikā.]]
+
+Vēsturiski mūsdienu Pūres pagastā atradās Daigones muiža (''Gut Deguhnen'', [[Daigone]]), Lamiņu muiža (''Gut Lievenhof'', [[Lamiņi]]), Putnēnu muiža (''Gut Puttnem'', [[Putnēnmuiža]]), Pūres muiža (''Gut Puhren'', [[Pūre]]).
+
+Pūres pagasts pašpārvaldi ieguva 1866. gadā, bet pagastmāja tika uzcelta 1889. gadā. 1935. gadā pagasta platība bija 39,1 km² un tajā dzīvoja 791 iedzīvotājs. 1945. gadā pagastā nodibināja Pūres un [[Rasas ciems|Rasas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1951. gadā Pūres ciemam pievienoja [[Daigones ciems|Daigones ciemu]], 1954. gadā - Rasas ciemu, 1961. gadā - [[Cēres ciems|Cēres ciema]] kolhoza «Dzintars» teritoriju. 1975. gadā Pūres ciemam pievienoja daļu [[Zentenes ciems|Zentenes ciema]], bet daļu Pūres ciema pievienoja [[Kandavas lauku teritorija]]i. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Pūres pagastu kā administratīvo teritoriju iekļāva [[Tukuma novads|Tukuma novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2000
+|1959|1725
+|1968|1775
+|1979|1923
+|1989|1819
+|2000|1740
+|2011|1474
+|2021|1328
+}}
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Pūre]] (pagasta centrs), [[Dzintars (ciems)|Dzintars]], [[Lamiņi]], [[Daigone]], [[Vildene]], [[Pūres stacija]], [[Meiniķi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Tukuma novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Tukuma rajons}}
+{{Tukuma apriņķis}}
+}}
+
+{{DEFAULTSORT:Pures pagasts}}
+[[Kategorija:Talsu apriņķis]]
+[[Kategorija:Kurzeme]]
+[[Kategorija:Tukuma novada pagasti]]
+[[Kategorija:Pūres pagasts| ]]

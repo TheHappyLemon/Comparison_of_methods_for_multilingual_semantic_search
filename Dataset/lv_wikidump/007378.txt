@@ -1,0 +1,126 @@
+{{Latvijas novada infokaste
+| nosaukums         = Ziemera pagasts
+| karte             = Ziemeru pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Māriņkalns
+| platība           = 117,02
+| iedzīvotāji       = 819<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|25||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 819 / 117.02 round 1}}
+| izveidots         = 
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Semershof<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Земерская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Ziemera pagasts'''<ref>Atsevišķos oficiālos dokumentos saukts arī '''Ziemeru pagasts'''.</ref> ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā ziemeļos. Robežojas ar [[Igaunija|Igauniju]], kā arī sava novada [[Alūksne]]s pilsētu un [[Mārkalnes pagasts|Mārkalnes]], [[Alsviķu pagasts|Alsviķu]], [[Jaunlaicenes pagasts|Jaunlaicenes]] un [[Veclaicenes pagasts|Veclaicenes]] pagastiem, kā arī [[Igaunija]]s [[Veru apriņķis|Veru apriņķa]] [[Reuges pagasts|Reuges pagastu]] (agrāk [[Hānjas pagasts|Hānjas]] un [[Miso pagasts|Miso]] pagastiem).
+
+== Vēsture ==
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]] Ziemera pagasta platība bija 94,3 km² un tajā dzīvoja 1630 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Māriņkalna ciems|Māriņkalna]] un Ziemera [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Ziemera ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946—1949), tad [[Alūksnes rajons|Alūksnes]] (1949-1962; 1967-2009) un [[Gulbenes rajons|Gulbenes]] (1962—1967) rajonos. Ziemera ciemam 1954. gadā pievienoja likvidēto Māriņkalna ciemu, 1958. gadā [[padomju saimniecība]]s «Alūksne» teritoriju pievienoja [[Mārkalnes ciems|Mārkalnes ciemam]], 1961. gadā Ziemera ciemam pievienoja [[Alūksnes ciems|Alūksnes ciema]] [[kolhozs|kolhoza]] «Straume» teritoriju, 1977. gadā daļu ciema teritorijas pievienoja [[Alūksne]]s pilsētai.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Ziemera pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+== Daba ==
+Ziemera pagasts atrodas [[Alūksnes augstiene]]s ziemeļu daļā Vaidavas pazeminājumā un Veclaicenes paugurainē. Reljefs izteikti paugurains. Ziemera pagasts kopā ar [[Jaunlaicenes pagasts|Jaunlaicenes]] un [[Veclaicenes pagasts|Veclaicenes]] pagastiem iekļaujas [[Veclaicenes aizsargājamo ainavu apvidus|aizsargājamo ainavu apvidū Veclaicene]], kurš ir nozīmīgs ar savām nacionālas nozīmes ainavām.
+[[Attēls:Ziemeru ozolu aleja foto Ainārs Cekuls.jpg|thumb|260px|Ziemeru ozolu aleja]]
+[[Attēls:Čukstu akmens.jpg|thumb|260px|Čukstu akmens]]
+
+=== Upes ===
+Pagastam cauri tek [[Dūņupīte (Vaidavas pieteka)|Dūņupīte]], kā arī [[Vaidava (upe)|Vaidava]], kurā tā ietek.
+=== Ezeri ===
+Ziemera pagastā atrodas daļa [[Alūksnes ezers|Alūksnes ezera]], kā arī [[Murata ezers]] un [[Vaidavas ezers (Alūksne)|Vaidavas ezers]].
+=== Ziemeru ozolu aleja ===
+Ziemeru ozolu aleja ir dabas piemineklis kategorijā — aizsargājama aleja. 1 km garo aleju veido divas dubultas koku rindas katra savā valsts autoceļa [[V386]] Alūksne-Ziemeri-Veclaicene pusē. Lai arī tā tiek saukta par “ozolu aleju” no 209 alejas kokiem 35 ir kļavas.<ref>{{tīmekļa atsauce |title=Ziemeru ozolu aleja |url=https://www.daba.gov.lv/lv/ziemeru-ozolu-aleja}}</ref> Aleju 19. gadsimtā kā statusa apliecinājuma zīmi stādījuši baroni [[fon Volfi]].
+
+=== Čukstu akmens ===
+Akmens Čukstu grants karjerā atrakts 1980. gados. Lielgraudainā granīta bluķa augstums ir nedaudz vairāk kā 4 m, garums 5 m, platums 4,8 m, bet lodveidīgās formas akmens apkārtmērs ir 16 m<ref>{{tīmekļa atsauce |title=Čukstu akmens |url=https://visitaluksne.lv/visit/cukstu-akmens/}}</ref>
+
+== Kultūrvēsturiskas vietas ==
+
+=== Ziemeru muiža ===
+[[Attēls:Ziemeru muiža.jpg|thumb|260px|[[Ziemeru muiža]]s kungu māja]]
+[[Ziemeru muiža|Ziemeru (Ziemera) muiža]] hronikā pieminēta jau 1550. gadā. Tagadējā muižas apbūve veidojusies 18. gadsimta beigās un 19. gadsimta sākumā. Ziemeru muižas kungu māja pieder pie Vidzemes muižu arhitektūras raksturīgiem pieminekļiem pārejas posmā no [[Baroks|baroka]] uz [[Klasicisms|klasicismu]]. Lai gan gadiem ejot tā daļēji pārbūvēta, tomēr tādas detaļas kā [[krusta velves]], vairākas ozolkoka divviru durvis, ozolkoka kāpnes, kamīns un citi priekšmeti saglabājušies līdz mūsdienām.<ref>{{Tīmekļa atsauce|url=https://veclaicene.lv/skatit/ziemera-muiza/|title=Ziemera muiža hronikā minēta jau 1550. gadā|website=VECLAICENE|access-date=2023-02-03|language=lv}}</ref> Muižas kompleksā saglabājušās 14 ēkas un to grupas, starp tām pārvaldnieku māja, kūtis, klēts, stallis, rija un 19. gadsimta muižām raksturīgā būve — ūdenstornis viduslaicīgi četrstūrainā formā. Muižas ansambli ietver 18. un 19. gadsimtā veidotais parks, kura centrālā daļa atrodas aiz pils.
+
+=== Prinduļu kaujas piemiņas vieta ===
+1941. gada 7. jūlijā pie Prinduļu mājām notika viena no asiņainākajām kaujām ar [[Latvijas nacionālie partizāni|Latvijas nacionālo partizānu]] piedalīšanos. Kauju vietā piemiņas plāksne uzstādīta jau 1942. gada pavasarī, bet atkārtotās komunistiskās okupācijas laikā tā iznīcināta. Pēc neatkarības atjaunošanas, 1996. gadā, piemiņas vietā uzstāda baltu koka krustu un granīta piemiņas plāksni. Ik gadu šeit tiek godināta kritušo partizānu piemiņa.<ref>{{tīmekļa atsauce |title=Zemessargi godina nacionālos partizānus |url=https://aluksniesiem.lv/sabiedriba/zemessargi-godina-nacionalos-partizanus/}}</ref>
+
+=== Piemiņas vieta nacionālo partizānu grupai “Jumba” ===
+Piemiņas vieta atklāta 2010. gadā Ziemera pagastā [[Latvijas valsts meži|Latvijas Valsts mežu]] 66.kvartālā. Piemiņas zīme uzstādīta partizānu grupas “Jumba” [[Bunkurs|bunkura]] vietā, kuru čeka iznīcināja 1950. gada martā.<ref>{{tīmekļa atsauce |title=Nacionālo partizānu grupas “Jumba” bunkura piemiņas vieta |url=https://militaryheritagetourism.info/lv/military/sites/view/134?1}}</ref>
+
+=== Pieminekļi ===
+* Nr. 229.: Baltkauļu senkapi — pie bij. Baltkauļiem un bij. Ķikutiem
+* Nr. 230.: Kalnmeijeru senkapi (Miroņkalns) — pie Kalnmeijeriem un Niedrītēm
+* Nr. 231.: Semeiku senkapi (Zviedru kapi) — pie Semeikām
+* Nr. 233.: Zamanu senkapi — pie Zamaniem pie Vaidavas upes tilta
+* Nr. 234.: Spieķu senkapi — starp Spieķiem un Gailīšiem pie Spieķu ezera
+* Nr. 2710.-2725.: [[Ziemera muiža]]s apbūve (''Semershof'', 18. gadsimta beigas - 19. gadsimta pirmā puse) — kungu māja, mežkunga un mežsarga dzīvojamās mājas (2), pārvaldnieka māja, kalpotāju māja, kalpu mājas (3), kambaris, klēts, kūtis (2), lielā kūts ar uzbrauktuvi (1823), magazīna, rija, stallis, ūdenstornis, pagrabs, parks<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] — [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1950
+|1959|1275
+|1969|1178
+|1979|1043
+|1989|1056
+|2000|981
+|2011|841
+|2021|645
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Māriņkalns]]''' (pagasta centrs), [[Vengerski]], [[Ziemeri]], [[Blūmji]], [[Gobas (Ziemera pagasts)|Gobas]], [[Bieranti (Ziemera pagasts)|Bieranti]], [[Garoži]], [[Griguļi (Ziemera pagasts)|Griguļi]], [[Ratenieki]], [[Stāmeri (Ziemera pagasts)|Stāmeri]], [[Strautiņi (Ziemera pagasts)|Strautiņi]], [[Šķērsti]], [[Šļukums]].
+
+=== Cilvēki ===
+* [[Kārlis Egle]] (1881—1974), literatūrzinātnieks, mācījās pagastskolā Kaktiņos;
+* [[Teodors Paulovics]] (1912—1971), gleznotājs, dzimis Poliešos
+* [[Miervaldis Paulovics]] (1943), tekstilmākslinieks, dzimis Poliešos;
+* [[Jānis Anerauds]] (1924—2010), rakstnieks, bērnību pavadījis Skrejās;
+* [[Modris Melzobs]] (1927—2014) , farmakologs, dzimis Melzobos;
+* [[Gunārs Selga]] (Gunārs Zaķis, 1929—1986), dzejnieks, dzimis Dravniekos;
+* [[Jānis Blūms (mūziķis)|Jānis Blūms]] (1936—1986), skaņu režisors, dzimis Melderkalnā;
+* [[Jēkabs Raipulis]] (1939), ģenētiķis, dzimis Stiebriņos;
+* [[Dace Markus]] (1950), valodniece, dzimusi Kaktiņos.
+
+== Saimniecība ==
+Ziemera pagastā ir uzņēmuma [[APF Holdings|AS "APF Holdings"]] olu un vistas gaļas ražošanas uzņēmums SIA "Alūksnes putnu ferma", kas izveidots 1961. gadā kā Alūksnes rajona starpkolhozu putnu ferma, bet pēc modernizācijas 2017. gadā kļuva par otru pēc apjoma lielāko olu ražotāju Latvijā.<ref>{{ziņu atsauce|last1=Matisone|first1=Gunta|title=Putnu ferma Alūksnes novadā pēc modernizācijas kļūst par otru lielāko olu ražotāju Latvijā|url=http://www.lsm.lv/lv/raksts/ekonomika/zinas/putnu-ferma-aluksnes-novada-pec-modernizacijas-klust-par-otru-lielako-olu-razotaju-latvija.a231914/|accessdate={{dat|2017|4|10||bez}}|work=[[lsm.lv]]|date={{dat|2017|4|10||bez}}}}</ref>
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+<!-- == Attēlu galerija ==
+<center><gallery perrow="4">
+Attēls:Ziemera muiza.jpg|thumb|260px|left|[[Ziemera muiža]]s kungu māja 2009. gadā
+</gallery> -->
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Ziemera pagasts| ]]

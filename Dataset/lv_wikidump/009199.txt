@@ -1,0 +1,58 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Ardabīlas ostāns
+| official_name = {{ara|استان اردبیل}}
+| image_skyline =
+| imagesize = 
+| image_caption = 
+| settlement_type = ostāns
+| total_type = Kopā
+| image_flag = 
+| image_shield = 
+| image_map = IranArdabil-SVG.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{IRN}}
+| area_total_km2 = 17800
+| population_total = 1270420
+| population_as_of = 2016
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = | latm = | lats =| latNS = 
+| longd = | longm = | longs =| longEW = 
+| seat_type = Centrs
+| seat = [[Ardabīla (pilsēta)|Ardabīla]]
+| parts_type = Administratīvais iedalījums
+| parts = 12
+| p1 = Ardabīla
+| p2 = Aslāndūza
+| p3 = Bīlesavāra
+| p4 = Germī
+| p5 = Halhāla
+| p6 = Kousara
+| p7 = Mešgīnšahra
+| p8 = Namīna
+| p9 = Nīra
+| p10 = Pārsābāda
+| p11 = Saraeina
+| p12 = Ungūta
+| official_language       = [[farsi]]
+| spoken_language         = [[azerbaidžāņu valoda|azerbaidžāņu]]
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[azerbaidžāņi]]<br/>[[persieši]]<br />[[tati]]<br/>[[tališi]]
+| website = 
+}}
+'''Ardabīlas ostāns''' ({{val|fa|اردبیل}}, {{val|azb|اردبیل اوستانی}}) ir [[Irānas ostāni|Irānas ostāns]], pirmās pakāpes administratīvā iedalījuma vienība. Ostāns atrodas valsts ziemeļos, robežojas ar [[Azerbaidžāna|Azerbaidžānu]] un Irānas ostāniem [[Austrumazerbaidžāna|Austrumazerbaidžānu]], [[Zandžāna|Zandžānu]] un [[Gīlāna|Gīlānu]]. Ostāna administratīvais centrs ir [[Ardabīla (pilsēta)|Ardabīla]]. Ostānu izveidoja [[1993]]. gadā no Austrumazerbaidžānas un Gīlānas daļām. Lielākās pilsētas ir [[Ardabīla (pilsēta)|Ardabīla]] (529 374), [[Pārsābāda]] (93 387), [[Mešgīnšahra]] (74 109), [[Halhāla]] (39 304) un [[Germi]] (28 967).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Irāna-aizmetnis}}
+
+{{Irānas ostāni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Irānas ostāni]]

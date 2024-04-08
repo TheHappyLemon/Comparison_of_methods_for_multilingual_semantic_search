@@ -1,0 +1,86 @@
+{{Latvijas novada infokaste
+| nosaukums         = Sesavas pagasts
+| karte             = Sesavas_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Sesavas_pagasts.png
+| ģerboņa_nosaukums = Sesavas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = Sesava
+| platība           = 99,1
+| iedzīvotāji       = 1860<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1860 / 99.1 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.sesava.lv
+}}
+
+'''Sesavas pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] administratīvajām teritorijām tā dienvidaustrumos. Robežojas ar sava novada [[Elejas pagasts|Elejas]], [[Platones pagasts|Platones]] un [[Vircavas pagasts|Vircavas]] pagastiem, [[Bauskas novads|Bauskas novada]] [[Viesturu pagasts|Viesturu]] un [[Svitenes pagasts|Svitenes]] pagastiem, kā arī [[Lietuva]]s [[Šauļu apriņķis|Šauļu apriņķa]] [[Jonišķu rajons|Jonišķu rajona]] [[Satkūnu seņūnija|Satkūnu]], [[Saugelauku seņūnija|Saugelauku]] un [[Krjuku seņūnija|Krjuku]] seņūnijām. Pagasta padome atrodas [[Sesava|Sesavā]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Audruve]], [[Jodupe (Oglaines pieteka)|Jodupe]], [[Liepars]], [[Melnupīte (Liepara pieteka)|Melnupīte]], [[Oglaine (upe)|Oglaine]], [[Rēda]], [[Sesava (Lielupes pieteka)|Sesava]], [[Upele]], [[Vircava (upe)|Vircava]].
+
+== Vēsture ==
+Mūsdienu Sesavas pagasta teritorijā vēsturiski atradās Bērvircavas muiža (''Behrs-Würzau'', [[Bērvircava]]), Galamuiža (''Endenhof'', [[Galamuiža (Sesavas pagasts)|Galamuiža]]), Lielsesavas muiža (''Groß-Sessau'', [[Lielsesava]]), Liepas muiža (''Lindenfeld''), Pridiķa muiža (''Friedrichshof''), Skursteņu muiža (''Schorstädt'', [[Skursteņi]]), Vidusmuiža (''Mittelhof'', [[Vidusmuiža (Sesavas pagasts)|Vidusmuiža]]).
+
+Sesavas pagasts kā administratīva teritorija izveidojās 18. gadsimta beigās, pirmā pagastvalde ievēlēta 1865. gadā. Ap 1880. gadu Sesavas pagastam pievienoja [[Jostenes pagasts|Jostenes]] un [[Galamuižas pagasts|Galamuižas]] pagastus.
+Līdz 20. gadsimta sākumam pagastā atradās [[Galamuiža (Sesavas pagasts)|Gala muiža]] (''Endenhof''), [[Vidusmuiža (Sesavas pagasts)|Vidus muiža]] (''Mittelhof''), [[Lielsesava]]s muiža (''Groß-Sessau''), Mazsesavas muiža (''Klein-Sessau''), Jostenes kroņa muiža (''Jostan'') un Mežvidmuiža. Pēc [[1920. gada zemes reforma]]s Gala muižu sadalīja 29 vienībās 358 ha kopplatībā, Vidus muižu 21 vienībā 288 ha kopplatībā.<ref>{{LKV|XIX.|38410-38411}}</ref>
+   
+1935. gadā Sesavas pagasta platība bija 92,8 km². 1945. gadā pagastā izveidoja [[Lielsesavas ciems|Lielsesavas]] un Sesavas [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Sesavas ciemam pievienoja [[Eglāju ciems (Elejas rajons)|Eglāju ciemu]], bet [[kolhozs|kolhoza]] "Līgo" teritoriju pievienoja [[Jaunsvirlaukas ciems|Jaunsvirlaukas ciemam]]. 1956. gadā [[padomju saimniecība]]s "Vidukļi" teritoriju pievienoja [[Lielvircavas ciems|Lielvircavas ciemam]]. 1963. gadā Sesavas ciemam pievienoja Lielsesavas ciemu, 1974. gadā daļu [[Elejas ciems|Elejas lauku teritorijas]] un daļu [[Vircavas ciems|Vircavas ciema]], 1977. gadā - vēl daļu Elejas lauku teritorijas. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvu teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1975
+|1959|2500
+|1969|2225
+|1979|2200
+|1989|2110
+|2000|2013
+|2011|1593
+|2021|1384
+}}
+
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: [[Bajāri (Sesavas pagasts)|Bajāri]], [[Bērvircava]], [[Buķi]], [[Galamuiža (Sesavas pagasts)|Galamuiža]], [[Klāvi (Sesavas pagasts)|Klāvi]], [[Lielsesava]], [[Pīlādži (Sesavas pagasts)|Pīlādži]], [[Sarmas]], '''[[Sesava]]''', [[Skursteņi]], [[Vidusmuiža (Sesavas pagasts)|Vidusmuiža]].
+
+=== Ievērojamas personības ===
+* [[Vensku Edvarts]] (1855—1897), dzejnieks un žurnālists
+* Pauls Tiltiņš ([[Pols Armāns]], 1903—1943), [[Sarkanā Armija|Sarkanās Armijas]] tankists, [[Padomju Savienības Varonis]]
+* [[Ludvigs Bolšteins]] (1888–1940), latviešu virsnieks, Latvijas armijas ģenerālis, aizsargu priekšnieks no 1925. līdz 1928. gadam, Robežapsardzes priekšnieks no 1928. līdz 1940.gadam
+* [[Pēteris Juraševskis]] (1872—1945), Latvijas sabiedrisks, politisks darbinieks, jurists.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+Kultūras pasākumi notiek Sesavas tautas namā, darbojas Sesavas pamatskola.
+
+== Atsauces ==
+{{Atsauces}}
+
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Sesavas pagasts| ]]

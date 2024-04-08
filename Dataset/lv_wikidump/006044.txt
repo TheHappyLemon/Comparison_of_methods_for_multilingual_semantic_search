@@ -1,0 +1,83 @@
+{{BioTakso infokaste
+| attēls =Ecrevisse pattes rouges.jpg
+| att_nosaukums ={{TaksoSaite|Astacus astacus|Platspīļu vēzis}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| tips =Arthropoda
+| tips_lv =Posmkāji
+| apakštips =Crustacea
+| apakštips_lv =Vēžveidīgie
+| iedalījums= 
+* {{TaksoSaite|Remipedia|Remipēdijas}}
+* {{TaksoSaite|Cephalocarida|Cefalokarīdas}}
+* {{TaksoSaite|Branchiopoda|Žaunkājvēži}}
+* {{TaksoSaite|Ostracoda|Gliemeņvēži}}
+* {{TaksoSaite|Maxillopoda|Žokļkājvēži}}
+* {{TaksoSaite|Malacostraca|Augstākie vēži}}
+| binomial=Crustacea <small>([[Brünnich]], 1772)</small>
+}}
+'''Vēžveidīgie''' (''Crustacea'') ir [[Posmkāji|posmkāju]] tipa apakštips. Vairākums vēžveidīgo dzīvo brīvi ūdenī, daļa pārgājusi uz parazītisku dzīves veidu ([[karputis]], daudzi [[airkāji (vēžveidīgie)|airkāji]]), daži mīt mitrās vietās uz sauszemes ([[mitrenes]]). Pasaulē ir ap 55 000 sugu, Latvijā virs 240 sugām.
+
+== Vēžveidgo uzbūve ==
+
+=== Ārējā morfoloģija ===
+Vēžveidīgajiem ir 2 pāri taustekļu un 3 pāri mutes orgānu. Pie visiem ķermeņa posmiem var būt [[ekstremitātes]].
+Ķermenis posmains. Atbilstoši ķermeņa posmiem arī ārējais [[hitīns|hitīna]] [[skelets]] dalīts posmos jeb segmentos. Katram posmam primāri l pāris ekstremitāšu. Abos ķermeņa galos l posms bez ekstremitātēm. Priekšējais posms jeb [[akrons]] vienmēr saaudzis ar nākamajiem galvas posmiem un nav atšķirams. Pakaļējais posms jeb [[telsons]] parasti labi attīstīts, zemākajiem vēžiem ar dakšiņu (''furca''). Pārējos ķermeņa posmus apvieno 3 nodalījumos — [[galva|galvā]], [[kukaiņu krūtis|krūtīs]] un [[vēders|vēderā]].
+Galva (''cephalon'') sastāv no 5 posmiem. Bieži ar galvu saaug 1 vai vairāki nākamie posmi un izveido [[galvkrūtis]] (''cephatothorax''). No galvas aizmugurējās malas bieži izaug ādas kroka (''carapax''), kas vairāk vai mazāk sedz ķermeni no augšas un sāniem (Notostraca vairogs, ūdensblusu un gliemeņvēžu čaula, dažu augstāko vēžu vairāk vai mazāk pārkaļķotā krūšu bruņa). Zemākajiem vēžiem krūšu un vēdera posmu skaits dažāds; augstāko vēžu krūtis sastāv no 8, bet vēders no 6 posmiem.
+Pirmais ekstremitāšu pāris — [[antenulas]] jeb pirmie taustekļi var būt visai dažādi izveidotas un izpildīt dažādas funkcijas. Augstāko vēžu antenula sastāv no mazposmaina kāta (''pedunculus'') un daudzposmainas vicas (''flagellum''), pie pēdējās bieži ir papildvica (''flagellavi accessorium''). Pārējās ekstremitātes izveidotas pēc vienota plāna kā šķeltkājas, kas sekundāri var ļoti pārveidoties. Šķeltkājas pamattipam uz vienposmainas līdz trīsposmainas pamatdaļas — protopodita ir divposmaini zari: iekšējais — [[endopodits]] un ārējais — [[eksopodits]]. [[Protopodita]] gala posmu sauc par bazipoditu. Augstāko vēžu krūšu kāju endopodits tipiskā gadījumā sastāv no 5 posmiem: ''ischium'', ''merus'', ''corpus'', ''propodus'' jeb ''metacarpus'' un, ''dactylus''. [[Krūšu kājas]] gals reizēm pārveidots tvērējorganā — [[spīles|spīlēs]] (''chela''), ko veido mazkustīgais dactylus un propodus izaugums. Par neīstām spīlēm (''subchela'') runā tad, ja attiecīga propodus izauguma nav un dactylus ir ļoti kustīgs (līdz 180°). Pie šķeltkājām pieder vispirms 4 nākamie galvas ekstremitāšu pāri, kas atrodas pie 2.—5. posma. Uz 2. posma ir antenas jeb otrie taustekļi, pie 3.—5. posma mutes orgāni: augšžokļi (''mandibulae''), pirmie apakšžokļi (''maxillulae''), otrie apakšžokļi (''maxillae''). Seko krūškājas jeb torakopodi un vēderkājas jeb pleopodi. Ja pirmie 3 krūškāju pāri (galvenokārt augstākajiem vēžiem) pārveidojušies un noder barības iegūšanai vai apstrādāšanai, tad tās sauc par [[Žokļkājas|žokļkājām]] (''gnathopoda, maxillipedes''). Krūškājas, kas atrodas aiz žokļkājām, noder galvenokārt kustībām, un tās sauc par ejkājām, peldkājām vai pereiopodiem. Vēderkāju pēdējie pāri reizēm atšķiras no iepriekšējiem, un tad tās sauc par lēcējkājām jeb uropodiem. Lēcējkājām atbilstošo vēdera nodalījumu sauc par urosomu pretstatā pirmajiem vēdera posmiem jeb metasomai.
+
+=== Elpošana ===
+Vairākumam vēžveidīgo elpojamie orgāni ir žaunas, kas atrodas vai nu uz krūšu kāju pamata, vai ķermeņa sānos (daudziem augstākajiem vēžiem), vai arī uz vēdera kājām (mutkājiem — Stomatopoda). Vienkāršākajiem vēžveidīgajiem speciālu elpojamo orgānu nav. Tie elpo ar visu ķermeņa virsmu, kuru klāj plāns apvalks. Šādā veidā elpo galvenokārt sīkie vēžveidīgie (piemēram, airkāji — Copepoda).
+
+== Vairošanās un attīstība ==
+[[Attēls:Shrimp nauplius.jpg|thumb|150px|Vēžveidīgo kāpurs — nauplijs]]
+Vēžveidīgie ar nedaudziem izņēmumiem (Cirripedia, Rhizocephala) ir šķirtdzimumu dzīvnieki. Vēžveidīgo olu drostalošanās ir atšķirīga: zemāko vēžu grupā plaši izplatīta ir [[pilnīgā drostalošanās]]; augstākajiem vēžiem pārsvarā ir [[virspusējā drostalošanās]]. Postembrionālā attīstība var būt vienkārša vai salikta. Sākotnēji vēžveidīgie attīstās ar [[pārvēršanās|pārvēršanos]]. Vēžveidīgo kāpurs — [[nauplijs]] (''nauplius'') — ir olveida, nesegmentēts, ar trim pāriem ekstremitāšu, kas atbilst pieaugušā īpatņa trim priekšējiem galvas ekstremitāšu pāriem. Parādoties aiz mandibulām ekstremitāšu aizmetņiem, sākas nākamā fāze, t. i., metanauplija fāze. Kāpura attīstība ir sarežģīta, bet dažos gadījumos kāpura var arī pavisam nebūt. Tad no olas iznāk pieaugušajam visai līdzīgs īpatnis ([[epimorfoze]] — tiešā attīstība). Epimorfoze augstākajiem vēžiem ir plaši izplatīta.
+
+== Saimnieciskā nozīme ==
+Vēžveidīgo nozīme dabā ir ārkārtīgi liela. Vissīkākie vēžveidīgie, pirmām kārtām [[zarūsaiņi]] un [[airkāji (vēžveidīgie)|airkāji]], kā, piemēram, Calanus, ir ļoti svarīga sastāvdaļa gan [[planktons|planktonā]], gan arī [[bentoss|bentosa]] faunā. Savairojušies neskaitāmā vairumā saldūdens baseinos, šie sīkie vēži kopā ar [[kukaiņi|kukaiņu]] [[Kāpurs|kāpuriem]] ir [[zivis|zivju]] galvenā [[barība]].
+Sevišķi nozīmīgi ir planktoniskie zarūsaiņi — daudzu vērtīgu rūpniecisko zivju barība. Pastāvīgi planktona patērētāji ir pelaģiskās zivis, kā arī piekrastes zonas un bentisko zivju mazuļi.
+Tikpat nozīmīgi zivju barībā kā zarūsaiņi ir [[augstākie vēžveidīgie]], kas pieder pie [[sānpeldes|sānpeldu]] jeb amfipodu un [[šķeltkāji|šķeltkāju]] jeb mizīdu kārtām.
+Šķeltkāji salasās milzīgos baros, apklādami no vienas vietas visu ūdens virsmu, kas tad izskatās balta kā piens. Šādās masās tie ir parasta barība citiem [[dzīvnieki]]em, it sevišķi [[vaļveidīgie|vaļveidīgajiem]], kas tos norij milzīgā daudzumā (vaļa zarnu traktā atrod vairākas tonnas šo sīko vēžu).
+Lielos vēžveidīgos — [[Desmitkājvēži|desmitkājus]] izmanto pārtikā arī [[cilvēks]]. [[Krievija|Krievijā]] plaši pazīstami konservi, kurus izgatavo no milzu [[Kamčatkas krabis|Kamčatkas krabja]] — Paralithodes camtschaticus, kas pieder pie vēžiem ar vidēji garu asti. Konserviem izmanto garās ejkājas un spīles. Rietumeiropā, sevišķi [[Norvēģija|Norvēģijā]] un [[Anglija|Anglijā]], tāda pati nozīme ir [[omārs|omāram]] — Homarus gammarus un [[langusts|langustam]] — Palinurus vutgaris, kurus ne vien rūpnieciski zvejo, bet arī audzē. [[Garneles]] — ''[[Crangon]]'' un ''[[Pandalus]]'' arī ir rūpnieciski objekti. Kontinentālajos ūdeņos gandrīz visās pasaules daļās iegūst pārtikai noderīgos upes vēžus [[Astacus]].
+Savukārt, saimnieciski kaitīgs ir [[Ķīnas cimdiņkrabis]] (Eriocheir sinensis), kas [[Eiropa|Eiropā]] ievazāts no Tālajiem Austrumiem. Tas erodē upju krastus, plosa tīklus un ēd zivis.
+
+== Klasifikācija ==
+Vēžveidīgos iedala 6 klasēs. Latvijā ir pārstāvētas 4 klases ar apm. 240 sugām.
+
+'''Apakštips''' {{TaksoSaite|Crustacea|Vēžveidīgie}}
+* klase {{TaksoSaite|Remipedia|Remipēdijas}}
+* klase {{TaksoSaite|Cephalocarida|Cefalokarīdas}}
+* klase {{TaksoSaite|Branchiopoda|Žaunkājvēži}}
+* klase {{TaksoSaite|Ostracoda|Gliemeņvēži}}
+* klase {{TaksoSaite|Maxillopoda|Žokļkājvēži}}
+* klase {{TaksoSaite|Malacostraca|Augstākie vēži}}
+<!--
+* Apakštips '''Vēžveidīgie (Crustacea)'''
+** Klase [[Remipēdijas]] ([[Remipedia]])
+** Klase [[Cefalokarīdas]] ([[Cephalocarida]])
+** Klase [[Žaunkājvēži]] ([[Branchiopoda]])
+*** Apakšklase [[Lapkājvēži]] ([[Phyllopoda]])
+*** Apakšklase ([[Sarsostraca]])
+** Klase [[Gliemeņvēži]] ([[Ostracoda]])
+*** Apakšklase ([[Myodocopa]])
+*** Apakšklase ([[Podocopa]])
+** Klase [[Žokļkājvēži]] ([[Maxillopoda]])
+*** Apakšklase [[Tekostraki]] ([[Thecostraca]])
+*** Apakšklase [[Mēleņi]] ([[Pentastomida]])
+*** Apakšklase [[Mistakokarīdi]] ([[Mystacocarida]])
+*** Apakšklase [[Airkājvēži]] ([[Copepoda]])
+*** Apakšklase [[Karputis]] ([[Branchiura]])
+*** Apakšklase [[Tantulokarīdas]] ([[Tantulocarida]])
+** Klase [[Augstākie vēži]] ([[Malacostraca]])
+*** Apakšklase [[Fillokarīdas]] ([[Phyllocarida]])
+*** Apakšklase [[Hoplokarīdas]] ([[Hoplocarida]])
+*** Apakšklase ([[Eumalacostraca]])
+-->
+
+== Ārējās saites ==
+{{Commons category|Crustacea}}
+* [http://latvijas.daba.lv/dzivnieki/posmkaaji/veezhi/ Latvijas vēžveidīgie]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vēžveidīgie]]

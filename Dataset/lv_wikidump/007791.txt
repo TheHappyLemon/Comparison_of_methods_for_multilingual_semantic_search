@@ -1,0 +1,89 @@
+{{Latvijas novada infokaste
+| nosaukums         = Atašienes pagasts
+| karte             = Atašienes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Atašiene
+| platība           = 243,41
+| iedzīvotāji       = 735<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 735/ 243.41 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Atašienes pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām tā austrumos, dienvidos no [[Teiču purvs|Teiču purva]]. Robežojas ar sava novada [[Mežāres pagasts|Mežāres pagastu]], [[Madonas novads|Madonas novada]] [[Mētrienas pagasts|Mētrienas pagastu]], [[Varakļānu novads|Varakļānu novada]] [[Murmastienes pagasts|Murmastienes]] un [[Varakļānu pagasts|Varakļānu]] pagastiem, [[Preiļu novads|Preiļu novada]] [[Sīļukalna pagasts|Sīļukalna]] un [[Rudzātu pagasts|Rudzātu]] pagastiem, un [[Līvānu novads|Līvānu novada]] [[Turku pagasts|Turku pagastu]]. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Garais kalns]], [[Malno sola]], [[Opšukolns]], [[Vilku sola]].
+
+=== Hidrogrāfija ===
+====Ūdensteces====
+[[Ataša]], [[Borovka (upe)|Borovka]], [[Čiganka]], [[Drikaites grāvis]], [[Ilzīte]], [[Inčāres strauts]], [[Laudeņa|Laudeņa (Oklā upe)]], [[Mārsna]], [[Nereta (upe)|Nereta]], [[Nīdreite]], [[Oklā upīte (Inčāres strauta pieteka)|Oklā upīte]], [[Oklā upīte (Marindzes ezera pieteka)|Oklā upīte]], [[Rāksalas strauts]], [[aurupe (Atašas pieteka)|Taurupe]], [[Teicija]], [[Vaivodu grāvis]], [[Varakļānu strauts]], [[Zilupeite]].
+
+====Ūdenstilpes====
+[[Boltais akacs]], [[Broku ezers]], [[Garā akacs]], [[Īkritušā akacs]], [[Jaunīšu ezers]], [[Kolna akacs]], [[Lemešu ezeri]],  [[Ļūmās akacs]], [[Malnais ezers]], [[Marindzes ezers]], [[Pīslaistes ezers]], [[Stutkas ezeri]],  [[Valnu ezers]], [[Veiganta ezers]], [[Zivju akacs]].
+
+====Purvi====
+[[Baiku pūrs]], [[Baraukas pūrs]], [[Bodskokts]], [[Bojoru pūrs]], [[Borbaļu pūrs]], [[Eiduku purvs]], [[Garais pūrs]], [[Jaunamerika]], [[Jaunīšu pūrs]], [[Lielais Pelēčāres purvs]], [[Malnais pūrs]], [[Morku pūrs]], [[Prīdessolas pūrs]], [[Siena purvs]], [[Skudrinīku pūrs]], [[Teiču purvs]], [[Virsuļu pūrs]].
+
+===Dabas aizsardzība===
+Pagasta teritorijā atrodas daļa no [[Teiču dabas rezervāts|Teiču dabas rezervāta]], kā arī dabas liegumi [[Eiduku purvs]], [[Lielais Pelečāres purvs]].
+
+== Vēsture ==
+
+=== Muižas ===
+Pēc 1920. gada agrārās reformas toreizējā Atašienes pagasta teritorijā esošās [[muiža]]s tika sadalītas jaunsaimniecībās <ref>Latviešu konversācijas vārdnīcas I. sējuma 1028-1029 slejas. Rīga, 1927.-1928. gads</ref>: 
+* [[Atašienes muiža]] (2210 ha) - 215 zemnieku saimniecībā, 
+* [[Borovkas muiža]] (1611 ha) - 125 zemnieku saimniecībās, 
+* [[Marindzes (Marinzejas) muiža]] (600 ha) - 49 zemnieku saimniecībās.
+
+Vēlāko administratīvo pārmaiņu dēļ tagadējā pagasta teritorijā atrodas bijušās Atašienes muižas un Marindzes muižas centri. 
+1935. gadā [[Rēzeknes apriņķis|Rēzeknes apriņķa]] Atašienes pagasta platība bija 116,85 km² un tajā dzīvoja 3303 iedzīvotāji.<ref>{{EncLP}}</ref>
+
+=== Teritoriālās izmaiņas ===
+1945. gadā pagastā izveidoja Atašienes, [[Buntuku ciems|Buntuku]], [[Putniņu ciems|Putniņu]] un [[Zaļecu ciems|Zaļecu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Atašienes ciems''' ietilpis [[Viļānu apriņķis|Viļānu apriņķī]] (1947-1949) un [[Krustpils rajons|Krustpils]] (1949-1962) un [[Jēkabpils rajons|Jēkabpils]] (pēc 1962. gada) rajonos. Atašienes ciemam 1954. gadā pievienoja likvidētos Zaļecu un Putniņu ciemus, 1977. gadā — daļu [[Mežāres pagasts|Mežāres ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 
+
+1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Atašienes pagastu kā administratīvo teritoriju iekļāva [[Krustpils novads|Krustpils novadā]].
+
+=== Kultūras pieminekļi===
+*[[Atašienes baznīca]]
+*[[Marinzejas muiža]]
+*[[Stalīdznieku senkapi]]
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Atašiene]] (pagasta centrs), [[Agrārbanka]], [[Drivnieki]], [[Grandāni]], [[Joksi]], [[Kozuliņi]], [[Kvietaines]], [[Marinzeja]], [[Nātrasstaleidzāni]], [[Putniņi (Atašienes pagasts)|Putniņi]], [[Rijnieki]], [[Rockāni]], [[Troškas (Atašienes pagasts)|Troškas]], [[Zalāni (Atašienes pagasts)|Zalāni]], [[Zirnaines]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.latvijas-pilskalni.lv/atasienes-pilskalns/ Atašienes pilskalns]
+
+{{Latvijas pagasts-aizmetnis}}
+{{Jēkabpils novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Krustpils novads}}
+{{Jēkabpils rajons}}
+{{Viļānu apriņķis}}
+{{Rēzeknes apriņķis}}
+}}
+
+{{DEFAULTSORT:Ataszienes pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Atašienes pagasts| ]]

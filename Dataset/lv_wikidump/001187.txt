@@ -1,0 +1,40 @@
+{{Citas nozīmes|augu|Miezis|Miezis}}
+{{BioTakso infokaste
+| attēls = A lady beetle perches on barley.JPG
+| valsts = Plantae
+| valsts_lv = Augi
+| tips = Magnoliophyta
+| tips_lv = Segsēkļi
+| klase = Liliopsida
+| klase_lv = Viendīgļlapji
+| rinda = Poales
+| kārta_lv = 
+| dzimta = Poaceae
+| dzimta_lv = Graudzāļu dzimta
+| ģints = Hordeum
+| ģints_lv = Miežu ģints
+| suga = H. vulgare
+| suga_lv = Mieži
+| binomial = Hordeum vulgare
+| kategorijas = nē
+| rinda_lv = Graudzāļu rinda
+}}
+[[File:Hordeum vulgare MHNT.BOT.2015.2.39.jpg|thumb|''Hordeum vulgare'']]
+
+'''Mieži''' ({{val-la|Hordeum vulgare}}) ir [[graudzāļu dzimta]]s [[kultūraugs]] un 4. visaudzētākā [[labība]] pasaulē pēc [[kvieši]]em, [[rīsi]]em un [[kukurūza]]s, aizņemot 65—70 miljonus [[hektārs|hektāru]] zemes ar vidējo [[graudi|graudu]] ražu 2,2—2,3 t/ha. [[Latvijas Republika|Latvijā]] pēdējos gados ievērojami kritusies gan miežu sējplatība, gan arī kopraža, un Latvijas vidējā graudu raža (2,0 t/ha) ir zem pasaulē vidējā rādītāja. Taču daudzu saimniecību izmēģinājumu rezultāti liecina, ka Latvijā iespējams regulāri iegūt 4,0—5,5 t/ha.<ref name="Ruža">{{Grāmatas atsauce |title= Augkopība |editor=Antons Ruža |year= 2004 |publisher= [[Latvijas Lauksaimniecības universitāte]] |location= Jelgava |isbn= 9984-596-72-9 |pages=167—168}}</ref>
+
+Miežiem pie viena [[vārpa (bioloģija)|vārpas]] ass loceklīša ir trīs vārpiņas. Pēc attīstīto vārpiņu skaita pie vārpas ass loceklīša miežus iedala divkanšu un daudzkanšu miežos, ko sīkāk iedala četrkanšu un seškanšu miežos. Divkanšu miežiem graudi parasti ir izlīdzinātāki, rupjāki un simetriski, bet daudzkanšu miežiem — neizlīdzinātāki, sīkāki un asimetriski.<ref name="Ruža"/>
+
+== Vasaras mieži ==
+Vasaras mieži ir viens no svarīgākajiem vasarāju kultūraugiem ar plašu pielietojumu. No to graudiem iegūst [[putraimi|putraimus]], [[milti|miltus]] (nelielos daudzumos), [[iesals|iesalu]], [[miežu kafija|miežu kafiju]], [[spirts|spirtu]], [[raugs|raugu]]. Taču lielāko miežu graudu daudzumu izmanto [[lopbarība|lopbarībā]]. Miežu salmi ir lopbarībai vērtīgāki nekā [[rudzi|rudzu]] vai [[kviešu ģints|kviešu]] salmi.<ref name="Ruža"/>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Commons|Hordeum vulgare}}
+
+{{Botānika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Labība]]
+[[Kategorija:Mieži]]

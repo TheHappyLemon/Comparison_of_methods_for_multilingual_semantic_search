@@ -1,0 +1,12 @@
+'''Programminženierija''' ir nozare, kas nodarbojas ar [[datorprogramma|datorprogrammu]] veidošanu un uzturēšanu, praksē pielietojot atziņas no [[datorzinātne]]s, projektu un procesu vadības, un citām nozarēm.<ref name="ACM 2020">{{Tīmekļa atsauce |last=ACM |year=2007 |url=http://computingcareers.acm.org/?page_id=12|title=Computing Degrees & Careers |publisher=ACM |access-date=2010-11-23}}</ref><ref name="Laplante 2007">{{grāmatas atsauce |last=Laplante |first=Phillip |title=What Every Engineer Should Know about Software Engineering |publisher=CRC |location=Boca Raton |year=2007 |isbn=978-0-8493-7228-5 |url=https://books.google.com/books?id=pFHYk0KWAEgC&q=What%20Every%20Engineer%20Should%20Know%20about%20Software%20Engineering.&pg=PA1 |access-date=2011-01-21 }}</ref> Programminženieris ir [[persona]], kas izmanto inženiertehnisko projektēšanas procesu, lai izstrādātu, uzturētu, pārbaudītu un novērtētu datoru [[programmatūra|programmatūru]]. Dažkārt kā sinonīmu lieto terminu [[programmētājs]], taču tas var arī vairāk attiekties uz ieviešanu, nevis dizainu, kā arī var trūkt inženierzinātņu izglītības vai prasmes.<ref>{{Tīmekļa atsauce | url=https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/ | title=Programmers: Stop Calling Yourselves Engineers | website=[[The Atlantic]] | date=5 November 2015 }}</ref>
+
+Inženiertehniskās metodes izmanto, lai informētu par programmatūras izstrādes procesu,<ref name="swebookv3">{{Tīmekļa atsauce |title=Software Engineering Body of Knowledge (SWEBOK Version 3),2014 |url=https://www.computer.org/web/swebok/v3 |website=www.swebok.org |publisher=IEEE Computer Society|access-date=24 May 2016|ref=swebookv3|format=pdf}}</ref> kas ietver programmatūras dzīves cikla procesa definēšanu, ieviešanu, novērtēšanu, mērīšanu, pārvaldību, izmaiņas un uzlabošanu. Tas lielā mērā izmanto programmatūras konfigurācijas pārvaldību,<ref name="swebookv3" /> kas ir sistemātiska konfigurācijas izmaiņu kontrole un konfigurācijas un koda integritātes un izsekojamības uzturēšana visā sistēmas dzīves ciklā. Mūsdienu procesos izmanto programmatūras versiju noteikšanu.
+
+== Atsauces ==
+{{atsauces}}
+
+{{IT-aizmetnis}}
+{{Programmatūras inženierija}}
+{{autoritatīvā vadība}}
+[[Kategorija:Datorzinātne]]
+[[Kategorija:Programmatūras izstrāde]]

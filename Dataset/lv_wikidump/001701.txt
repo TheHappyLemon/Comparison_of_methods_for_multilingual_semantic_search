@@ -1,0 +1,75 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Pisi
+| official_name           = Püssi
+| settlement_type         = Apriņķa pilsēta
+| image_skyline           = Püssi train station 2011.jpg
+| imagesize               = 
+| image_caption           = Dzelzceļa stacija (2011)
+| image_flag              = Flag of Püssi.svg
+| flag_size               = 125px
+| image_seal              = 
+| seal_size               = 
+| image_shield            =EST_Püssi_linn_COA.png
+| shield_size             = 75px
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Estonia
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd=59 |latm=22 |lats= |latNS=N
+| longd=27 |longm=03 |longs= |longEW=E
+| coordinates_display        = inline,title
+| coordinates_region        = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Ida-Virumaa lipp.svg|24px]] [[Austrumviru apriņķis]]
+| established_title       = Pilsētas tiesības
+| established_date        = 1993
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          = 
+| area_total_km2          = 2.1
+| population_footnotes    = 
+| population_total        = 964
+| population_as_of        = 2016
+| population_density_km2  = auto
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             = 
+| website                 = [http://www.pyssilv.ee/ www.pyssilv.ee]
+}}
+
+'''Pisi''' ({{val-et|Püssi}}) ir pilsēta [[Igaunija|Igaunijā]], [[Austrumviru apriņķis|Austrumviru apriņķī]]. Pisi pilsēta robežojas ar Maidlas un Liganuzes pagastiem, kā arī [[Kivieli]] pilsētu. Pisi pilsētā ir attīstīta kokrūpniecība. 
+
+== Vēsture ==
+Pirmo reizi rakstiskos avotos Pisi (''Püssz'') minēta 1472 gadā. Tolaik mežainajā un purvainajā apkaimē atrodošā apdzīvotā vieta bija grūti pieejama un faktiski atgriezta no ārpasaules.
+Līdz ar [[Baltijas dzelzceļš|Baltijas dzelzceļa]] un [[Pisi (stacija)|Pisi stacijas]] izbūvi 1870. gadā Pisi sāka strauji attīstīties gan kā apdzīvota vieta, gan kā industriāls centrs.
+
+1926. gadā bijušās Pisi muižas ēkā tika izbūvēta Pisi skola (šobrīd Liganuzes vidusskola, {{val-et|Lüganuse keskkool}})<ref>[http://rulequ.havike.eenet.ee/lyganu/] {{Webarchive|url=https://web.archive.org/web/20130622135742/http://rulequ.havike.eenet.ee/lyganu/ |date={{dat|2013|06|22||bez}} }} Liganuzes vidusskolas mājas lapa {{et ikona}}</ref>.
+
+Pirmais Pisi rūpniecības uzņēmums bija kokzāģētava, kas izveidojās Pisi muižas teritorijā, [[Purtse|Purtses]] upes krastā, bet apdzīvotā vieta tika saukta par Ūspurtsi vai Neiīzenhofu ({{val-et|Uus-Purtse}}, {{val-de|Neu-Isenhof}}). 
+Vēlāk Pisi teritorijā tika nodibināta kafijas ražotne, mēbeļu fabrika u.c. uzņēmumi.
+
+Mūsdienās Pisi atrodas vieni no lielākajiem Igaunijas koksnes pārstrādes un mēbeļu furnitūras uzņēmumiem ''AS Repo Vabrikud''<ref>[http://www.sorbesgroup.com/eng/] {{Webarchive|url=https://web.archive.org/web/20130517135259/http://www.sorbesgroup.com/eng/ |date={{dat|2013|05|17||bez}} }} ''A/S REPO'' mājas lapa {{et ikona}}{{en ikona}}{{ru ikona}}{{de ikona}}{{uk ikona}}{{fi ikona}}</ref> un ''AS Skano Group''<ref>[http://www.skano.com/en/] ''Skano group'' mājas lapa {{et ikona}}{{en ikona}}</ref>
+
+1954. gadā Pisi ieguva pilsētciemata statusu, bet pilsētas tiesības Pisi ieguva 1993. gadā.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Igaunijas pilsētas}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Austrumviru apriņķis]]

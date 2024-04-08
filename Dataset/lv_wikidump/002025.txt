@@ -1,0 +1,339 @@
+{{BioTakso infokaste
+|        attēls = Magnolia_wieseneri.jpg
+| att_nosaukums = Vīsnera [[Magnolija]]s (''Magnolia ×wiesneri'') zieds 
+|        valsts = Plantae
+|     valsts_lv = Augi
+|    nodalījums = Magnoliophyta
+| nodalījums_lv = Segsēkļi
+|         klase = Magnoliopsida
+|      klase_lv = Divdīgļlapji
+|    iedalījums =
+
+* {{TaksoSaite|Rosidae|Rožu apakšklase}}
+* {{TaksoSaite|Asteridae|Asteru apakšklase}} u.c.
+|   kategorijas = nē
+}}
+
+'''Divdīgļlapji''' (''Magnoliopsida'') ir plašākā [[segsēkļi|segsēkļu klase]], kuru raksturo vairāku īpašību kopums:
+* [[dīglis|dīglim]] ir divas [[dīgļlapas]],
+* [[dīgļsakne]] izaug par galveno [[sakne|sakni]], no kuras atiet sānsaknes; visbiežāk ir mietsaknes sistēma,
+* [[lapas]] vienkāršas vai saliktas, ar tīklveida dzīslojumu,
+* [[zieds|zieda]] daļu skaits dalās ar 5, retāk ar 4,
+* [[stumbrs]], augam augot, paresninās, jo vadaudu kūlīši ir vaļēji — ar [[kambijs|kambiju]], kas nodrošina stumbra vai saknes sekundāro augšanu.
+
+Tomēr ir jāatzīmē, ka ir arī izņēmumi. Piemēram, [[mazpurenītes|mazpurenītēm]] ir tikai viena dīgļlapa, [[ceļtekas|ceļtekām]] lokveida dzīslojums utt. Magnoliopsidi bieži vien satur dažādas specifiskas, atsevišķām dzimtām raksturīgas vielas ([[alkaloīdi|alkaloīdus]], [[glikozīdi|glikozīdus]], [[ēteriskās eļļas]], [[vitamīni|vitamīnus]] un citas), tāpēc tos bieži vien lieto [[medicīna|medicīnā]], kā [[ārstniecības augi|ārstniecības augus]]. Klasē ir daudz dažādu [[endēms|endēmisku sugu]].
+
+Divdīgļlapju klasē ir apmēram 200 000 sugu un 280 dzimtu; Latvijā konstatētas 90 dzimtas un virs 1325 sugu.
+
+== Sistemātika ==
+=== APG IV sistēma ===
+Saskaņā ar 2016. gada [[APG IV sistēma|APG IV sistēmu]] (segsēkļu klasifikācijas taksonomiskā sistēma), 
+divdīgļlapju vieta segsēkļu (''Magnoliophyta'' jeb ''Angiospermae'') kladifikācijā ir šāda:<ref>[http://onlinelibrary.wiley.com/doi/10.1111/boj.12385/abstract An update of the Angiosperm Group classification for the orders and families of flowering plants: APG IV. Botanical Journal of the Linnean Society, Volume 181, Issue 1, page 1-20, May 2016]</ref>
+{{clade |style=font-size:100%;line-height:110%;
+|label1=[[Segsēkļi]]
+|1={{clade
+   |1=[[Amborellales]]
+   |2={{clade
+      |1=[[Nymphaeales]] (ūdensrožu rinda)
+      |2={{clade
+         |1=[[Austrobaileyales]]
+         |label2= "serdes" segsēkļi ({{val|en|core angiosperms}})
+         |2={{clade
+            |1=[[Chloranthales]]
+            |label2=Magnolijveidīgie (''Magnoliidae'')
+            |2={{clade
+               |1={{clade
+                  |1=[[Magnoliales]] (magnoliju rinda)
+                  |2=[[Laurales]] (lauru rinda) 
+                  }}
+               |2={{clade
+                  |1=[[Piperales]] (piparu rinda)
+                  |2=[[Canellales]]
+                  }}
+               }}
+            |3={{clade
+               |label1=[[viendīgļlapji]]
+               |1={{clade
+                  |1=[[Acorales]] (kalmju rinda)
+                  |2={{clade
+                     |1=[[Alismatales]] (cirveņu rinda)
+                     |2={{clade
+                        |1=[[Petrosaviales]]
+                        |2={{clade
+                           |1={{clade
+                              |1=[[Pandanales]] (pandānu rinda)
+                              |2=[[Dioscoreales]] (dioskoreju rinda)
+                              }}
+                           |2={{clade
+                              |1=[[Liliales]] (liliju rinda)
+                              |2={{clade
+                                 |1=[[Asparagales]] (sparģeļu rinda)
+                                 |label2=[[Commelinidae]] 
+                                 |2={{clade
+                                    |1=[[Arecales]] (palmu rinda)
+                                    |2={{clade
+                                       |1=[[Poales]] (graudzāļu rinda)
+                                       |2={{clade
+                                          |1=[[Commelinales]]
+                                          |2=[[Zingiberales]] (ingveraugu kārta)
+                                          }}
+                                       }}
+                                    }}
+                                 }}
+                              }}
+                           }}
+                        }}
+                     }}
+                  }}
+               |2={{clade
+                  |1=[[Ceratophyllales]]
+                  |label2=īstie divdīgļlapji
+                  |2={{clade
+                     |1=[[Ranunculales]] (gundegu rinda)
+                     |2={{clade
+                        |1=[[Proteales]] (proteju rinda) 
+                        |2={{clade
+                           |1=[[Trochodendrales]]
+                           |2={{clade
+                              |1=[[Buxales]]
+                              |label2="serdes" īstie divdīgļlapji ({{val|en|core&nbsp;eudicots}})
+                              |2=([[#PENTA|turpinājums]]<big>↓</big>)
+                              }}
+                           }}
+                        }}
+                     }}
+                  }}
+               }}
+            }}
+         }}
+      }}
+   }}
+}}
+
+{{anchor|PENTA}}  {{clade |style=font-size:100%;line-height:110%;
+                  |label1="serdes" īstie divdīgļlapji ({{val|en|core&nbsp;eudicots}})
+                  |1={{clade
+                     |1=[[Gunnerales]]
+                     |label2=[[Pentapetalae]]
+                     |2={{clade
+                        |1=[[Dilleniales]]
+                        |label2=Rožveidīgo "superklada" ({{val|en|superrosids}})
+                        |2={{clade
+                           |1=[[Saxifragales]] (akmeņlauzīšu kārta)
+                           |label2=Rožveidīgo klada (''Rosidae'')
+                           |2={{clade
+                              |1=[[Vitales]] (vīnkoku kārta)
+                              |2={{clade
+                                 |label1=[[Fabidae]]
+                                 |1={{clade
+                                    |1=[[Zygophyllales]]
+                                    |2={{clade
+                                       |1={{clade
+                                          |1=[[Fabales]] (pākšaugu rinda)
+                                          |2={{clade
+                                             |1=[[Rosales]] (rožu rinda)
+                                             |2={{clade
+                                                |1=[[Fagales]] (dižskābaržu rinda)
+                                                |2=[[Cucurbitales]] (ķirbju rinda)
+                                                }}
+                                             }}
+                                          }}
+                                       |2={{clade
+                                          |1=[[Celastrales]] (kokžņaudzēju rinda)
+                                          |2={{clade
+                                             |1=[[Malpighiales]] (malpīgiju rinda)
+                                             |2=[[Oxalidales]] (zaķskābeņu rinda)
+                                             }}
+                                          }}
+                                       }}
+                                    }}
+                                 |label2=[[Malvidae]] 
+                                 |2={{clade
+                                    |1={{clade
+                                       |1=[[Gandreņu rinda|Geraniales]] (gandreņu rinda)
+                                       |2=[[Myrtales]] (miršu rinda)
+                                       }}
+                                    |2={{clade
+                                       |1=[[Crossosomatales]]
+                                       |2={{clade
+                                          |1=[[Picramniales]]
+                                          |2={{clade
+                                             |1=[[Sapindales]] (ziepjkoku rinda)
+                                             |2={{clade
+                                                |1=[[Huerteales]]
+                                                |2={{clade
+                                                   |1=[[Brassicales]] (krustziežu rinda)
+                                                   |2=[[Malvales]] (malvu rinda)
+                                                   }}
+                                                }}
+                                             }}
+                                          }}
+                                       }}
+                                    }}
+                                 }}
+                              }}
+                           }}
+                        |label3=Asterveidīgo "superklada" ({{val|en|superasterids}})
+                        |3={{clade
+                           |1=[[Berberidopsidales]]
+                           |2={{clade
+                              |1=[[Santalales]] (santalu rinda) 
+                              |2={{clade
+                                 |1=[[Caryophyllales]] (neļķu rinda)
+                                 |label2=Asterveidīgo klada (''Asteridae'')
+                                 |2={{clade
+                                    |1=[[Cornales]]
+                                    |2={{clade
+                                       |1=[[Ericales]] (viršu rinda)
+                                       |2={{clade
+                                          |label1=[[Campanulidae]]
+                                          |1={{clade
+                                             |1=[[Aquifoliales]]
+                                             |2={{clade
+                                                |1=[[Asterales]] (asteru rinda)
+                                                |2=[[Escalloniales]]
+                                                |3={{clade
+                                                   |1=[[Bruniales]]
+                                                   |2={{clade
+                                                      |1=[[Apiales]]
+                                                      |2={{clade
+                                                         |1=[[Dipsacales]]  (dipsaku kārta)
+                                                         |2=[[Paracryphiales]]
+                                                         }}
+                                                      }}
+                                                   }}
+                                                }}
+                                             }}
+                                          |label2=[[Lamiidae]]
+                                          |2={{clade
+                                             |1=[[Icacinales]]
+                                             |2={{clade
+                                                |1=[[Metteniusales]]
+                                                |2={{clade
+                                                   |1=[[Garryales]]
+                                                   |2={{clade
+                                                      |1=[[Boraginales]]
+                                                      |2=[[Gentianales]] (genciānu rinda) 
+                                                      |3=[[Vahliales]]
+                                                      |4=[[Lamiales]] (panātru rinda)
+                                                      |5=[[Solanales]] (nakteņu rinda)
+                                                      }}
+                                                   }}
+                                                }}
+                                             }}
+                                          }}
+                                       }}
+                                    }}
+                                 }}
+                              }}
+                           }}
+                        }}
+                     }}
+                  }}
+
+=== Agrākā klasifikācija ===
+Agrāk divdīgļlapju klasi dalīja 7 apakšklasēs (šajā uzskaitījumā iekļautas tikai Latvijā izplatītās dzimtas).
+
+'''Klase''' {{TaksoSaite|Magnoliopsida|Divdīgļlapji}}
+* {{TaksoSaite|Magnoliidae|Magnoliju apakšklase}}
+** {{TaksoSaite|Nymphaeales|Ūdensrožu rinda}}
+*** {{TaksoSaite|Nymphaeaceae|Ūdensrožu dzimta}} 
+*** {{TaksoSaite|Ceratophyllaceae|Raglapju dzimta}}
+** rinda {{TaksoSaite|Piperales|Piparu rinda}}
+*** {{TaksoSaite|Aristolochiaceae|Aristolohiju dzimta}} 
+* {{TaksoSaite|Ranunculidae|Gundegu apakšklase}}
+** {{TaksoSaite|Ranunculales|Gundegu rinda}}
+*** {{TaksoSaite|Ranunculaceae|Gundegu dzimta}}
+*** {{TaksoSaite|Berberidaceae|Bārbeļu dzimta}}
+** {{TaksoSaite|Papaverales|Magoņu rinda}}
+*** {{TaksoSaite|Papaveraceae|Magoņu dzimta}}
+* {{TaksoSaite|Hamamelididae|Burvjlazdu apakšklase}}
+** {{TaksoSaite|Fagales|Dižskābaržu rinda}}
+** {{TaksoSaite|Myricales|Purvmiršu rinda}}
+*** {{TaksoSaite|Myricaceae|Purvmiršu dzimta}}
+* {{TaksoSaite|Caryophyllidae|Neļķu apakšklase}}
+** {{TaksoSaite|Polygonacee|Sūreņu dzimta}}
+** {{TaksoSaite|Nyctaginaceae|Naktsziežu dzimta}} 
+** {{TaksoSaite|Portulacaceae|Portulaku dzimta}} 
+** {{TaksoSaite|Caryophyllaceae|Neļķu dzimta}} 
+** {{TaksoSaite|Chenopodiaceae|Balandu dzimta}}
+** {{TaksoSaite|Amaranthaceae|Amarantu dzimta}} 
+** {{TaksoSaite|Elatinaceae|Sīkeglīšu dzimta}} 
+** {{TaksoSaite|Plumbaginaceae|Limoniju dzimta}} 
+* {{TaksoSaite|Dilleniidae|Dilēniju apakšklase}} 
+** {{TaksoSaite|Ericales|Viršu rinda}} 
+*** {{TaksoSaite|Ericaceae|Ēriku dzimta}} 
+*** {{TaksoSaite|Pyrolaceae|Ziemciešu dzimta}} 
+*** {{TaksoSaite|Empetraceae|Visteņu dzimta}} 
+*** {{TaksoSaite|Primulaceae|Prīmulu dzimta}} 
+** {{TaksoSaite|Malpighiales|Malpīgiju rinda}}
+*** {{TaksoSaite|Clusiaceae|Asinszāļu dzimta}} (''Guttiferae'')
+*** {{TaksoSaite|Salicaceae|Vītolu dzimta}} 
+** rinda {{TaksoSaite|Brassicales}}
+*** {{TaksoSaite|Brassicaceae|Krustziežu dzimta}} (''Cruciferae'')
+** {{TaksoSaite|Violaceae|Vijolīšu dzimta}} 
+** {{TaksoSaite|Cistaceae|Klinšrožu dzimta}} 
+** {{TaksoSaite|Cucurbitaceae|Ķirbju dzimta}} 
+** {{TaksoSaite|Resedaceae|Rezēdu dzimta}} 
+** {{TaksoSaite|Malvaceae|Malvu dzimta}} 
+** {{TaksoSaite|Tiliaceae|Liepu dzimta}} 
+** {{TaksoSaite|Thymelaeaceae|Timēliju dzimta}} 
+* {{TaksoSaite|Rosidae|Rožu apakšklase}} 
+** {{TaksoSaite|Rosales|Rožu rinda}}
+*** {{TaksoSaite|Ulmaceae|Gobu dzimta}} 
+*** {{TaksoSaite|Cannabaceae|Kaņepju dzimta}} 
+*** {{TaksoSaite|Urticaceae|Nātru dzimta}}
+*** {{TaksoSaite|Rosaceae|Rožu dzimta}} 
+** {{TaksoSaite|Fabales|Pākšaugu rinda}}
+*** {{TaksoSaite|Fabaceae|Tauriņziežu dzimta}} (''Leguminosae'', ''Papilionaceae'')
+*** {{TaksoSaite|Polygalaceae|Ziepenīšu dzimta}} 
+** {{TaksoSaite|Santalales|Santalu rinda}}
+*** {{TaksoSaite|Santalaceae|Santalkoku dzimta}}
+** {{TaksoSaite|Loranthaceae|Lorantu dzimta}} 
+** {{TaksoSaite|Droseraceae|Raseņu dzimta}} 
+** {{TaksoSaite|Crassulaceae|Biezlapju dzimta}} 
+** {{TaksoSaite|Saxifragaceae|Akmeņlauzīšu dzimta}} 
+** {{TaksoSaite|Grossulariaceae|Ērkšķogu dzimta}} 
+** {{TaksoSaite|Parnassiaceae|Atāleņu dzimta}} 
+** {{TaksoSaite|Hydrangeaceae|Hortenziju dzimta}} 
+** {{TaksoSaite|Oxalidaceae|Zaķskābeņu dzimta}} 
+** {{TaksoSaite|Geraniaceae|Gerāniju dzimta}} 
+** {{TaksoSaite|Linaceae|Linu dzimta}} 
+** {{TaksoSaite|Euphorbiaceae|Eiforbiju dzimta}} 
+** {{TaksoSaite|Aceraceae|Kļavu dzimta}} 
+** {{TaksoSaite|Balsaminaceae|Balzamīņu dzimta}} 
+** {{TaksoSaite|Celastraceae|Celastru dzimta}} 
+** {{TaksoSaite|Rhamnaceae|Pabērzu dzimta}} 
+** {{TaksoSaite|Vitaceae|Vīnkoku dzimta}}
+** {{TaksoSaite|Elaeagnaceae|Eleagnu dzimta}}
+** {{TaksoSaite|Lythraceae|Vējmietiņu dzimta}} 
+** {{TaksoSaite|Trapaceae|Ezerriekstu dzimta}} 
+** {{TaksoSaite|Onagraceae|Naktssveču dzimta}} 
+** {{TaksoSaite|Haloragaceae|Halorāgu dzimta}}
+** {{TaksoSaite|Hippuridaceae|Skujeņu dzimta}} 
+** {{TaksoSaite|Cornaceae|Kizilu dzimta}} 
+** {{TaksoSaite|Araliaceae|Arāliju dzimta}} 
+** {{TaksoSaite|Apiaceae|Čemurziežu dzimta}} (''Umbelliferae'')
+** {{TaksoSaite|Oleaceae|Olīvu dzimta}} 
+* {{TaksoSaite|Asteridae|Asteru apakšklase}}
+** {{TaksoSaite|Gentianales|Genciānu rinda}}
+** {{TaksoSaite|Solanales|Nakteņu rinda}}
+** {{TaksoSaite|Lamiales|Panātru rinda}}
+** {{TaksoSaite|Callitrichales|Ūdenīšu rinda}}
+** {{TaksoSaite|Plantaginales|Ceļteku rinda}}
+** {{TaksoSaite|Scrophulariales|Cūknātru rinda}}
+** {{TaksoSaite|Campanulales|Pulkstenīšu rinda}}
+** {{TaksoSaite|Rubiales|Rubiju rinda}}
+** {{TaksoSaite|Dipsacales|Dipsaku rinda}}
+** {{TaksoSaite|Calycerales|Kaliceru rinda}}
+** {{TaksoSaite|Asterales|Asteru rinda}}
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Divdīgļlapji| ]]

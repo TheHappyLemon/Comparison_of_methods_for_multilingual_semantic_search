@@ -1,0 +1,55 @@
+{{Apdzīvotas vietas infokaste
+| name = Stalova Vola
+| image_skyline =Miejski Dom Kultury w Stalowej Woli.JPG
+| imagesize = 300px
+| image_caption = Stalova Volas kultūras nams
+| image_flag = POL Stalowa Wola flag.svg
+| image_shield = POL Stalowa Wola COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = left
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Piekarpatu vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Stalova Volas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1945, Rozvadova (tagad pilsētas rajons) - 1690
+| area_total_km2 = 82.5
+| population_as_of = 2006
+| population_total    = 65818
+| population_density_km2 = 
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50
+| latm = 35 
+| lats = 18 
+| latNS = N 
+| longd = 22 
+| longm = 02 
+| longs = 49
+| longEW = E
+| elevation_m = 151
+| website = http://www.stalowawola.pl/}}
+
+'''Stalova Vola''' ({{val-pl|Stalowa Wola}}) ir pilsēta [[Polija]]s dienvidaustrumos, [[Piekarpatu vojevodiste|Piekarpatu vojevodistē]], [[Sana (upe)|Sanas]] krastos. Dibināta līdz ar lielu metalurģisko kombinātu neilgi pirms [[Otrais pasaules karš|Otrā pasaules kara]], kaut arī mūsdienu Stalova Volas rajons Rozvadova jau 1690. ieguva pilsētas tiesības. Arī mūsdienās Stalova Vola ir rūpniecības pilsēta. Pilsētā atrodas [[Ļubļina]]s Katoļu universitātes sociālo zinību fakultāte.
+
+Otrā pasaules kara gados poļu ārsts Eižens Lazovskis Rozvadovā izglāba vairākus tūkstošus ebreju, "izraisīdams" viltus [[tīfs|tīfa]] epidēmiju. [[Karantīna]]s dēļ ebreji netika aiztransportēti uz nāves nometnēm.
+
+Lielākais pilsētas uzņēmums ir metalurģiskā un ieroču rūpnīca ''[[Huta Stalowa Wola]]'', kas ražo militāro produkciju ([[artilērija]]s iekārtas, [[bruņutransportieris|bruņutransportierus]], [[mīnmetējs|mīnmetējus]] u.c.), kā arī celtniecības tehniku.
+
+Stalova Vola ir augstlēcēja [[Arturs Partika|Artura Partikas]] (''Artur Partyka'', 1969) dzimtā pilsēta.
+
+== Ārējās saites ==
+* [http://www.stalowka.net/ Stalova Volas portāls]
+* [https://web.archive.org/web/20120414225138/http://www.hsw.pl/ "Huta Stalowa Wola" mājaslapa]
+
+{{commonscat|Stalowa Wola|Stalova Vola}}
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Stalova Vola}}
+[[Kategorija:Piekarpatu vojevodistes pilsētas]]

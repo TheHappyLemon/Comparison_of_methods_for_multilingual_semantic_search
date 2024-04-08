@@ -1,0 +1,127 @@
+{{Papildu atsauces+}}
+{{Apdzīvotas vietas infokaste
+|name          = Pekina
+|native_name            = <small>{{val|zh|北京市}}</small>
+|nickname               = 
+|settlement_type        = [[Ķīnas municipalitātes|Municipalitāte]]<!--For Town or Village (Leave blank for the default City)-->
+|translit_lang1         = Ķīniešu
+|translit_lang1_type1   = [[Mandarīnu valoda|Mandarīnu]] ([[Piņjiņs]])
+|translit_lang1_info1   = {{Audio|Zh-Beijing.ogg|Běijīng}}
+|translit_lang1_type2   = [[IPA]]
+|translit_lang1_info2   = {{IPA|[pèitɕíŋ]}}
+|motto                  = 
+|image_skyline          = Beijing montage.png
+|imagesize              = 
+|image_caption          = 
+|image_map              = Beijing in China (+all claims hatched).svg
+|mapsize                = 275px
+|map_caption            = Pekinas novietojums Ķīnā
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|subdivision_type       = Valsts
+|subdivision_name       = {{CHN}}
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Ķīnas Komunistiskā Partija|ĶKP]] munic. sekr.
+|leader_name            = [[Liu Cji]]
+|leader_title1          = [[Pašvaldības vadītājs|Mērs]]
+|leader_name1           = [[Guo Dzjiņluns]]
+|established_title      = Apdzīvota kopš
+|established_date       = ap [[473]].g. p.m.ē.
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_total_km2           = 16801.25 km<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 
+|area_water_sq_mi         = 
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_metro_km2           = 
+|population_as_of               = 2010
+|population_footnotes           =
+|population_note                = 
+|population_total               = 22000000
+|population_density_km2         = 1,309
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               = 13330000
+|population_density_urban_km2   =
+|population_blank1_title = Etniskais sastāvs
+|population_blank1      = [[ķīnieši]]: 96%<br />[[mandžūri]]: 2%<br />[[hueji]]: 2%<br />[[mongoļi]]: 0.3%
+|timezone                = [[Ķīnas laiks|CST]]
+|utc_offset              = +8
+|timezone_DST            = 
+|utc_offset_DST          = 
+|latd=39 |latm=54 |lats=50 |latNS=N 
+|longd=116 |longm=23 |longs=30 |longEW=E
+|elevation_footnotes     =  <!--for references: use <ref> </ref> tags-->
+|elevation_m             = 43.5
+|elevation_ft            = 
+|postal_code_type        = Pasta indekss
+|postal_code             = '''1000'''00—'''1026'''00
+|website                 = [http://www.beijing.gov.cn www.beijing.gov.cn] (ķīniešu)<br /> [http://www.ebeijing.gov.cn www.ebeijing.gov.cn] (angļu)
+|blank_name               = Pilsētas koks
+|blank_info=[[Platycladus orientalis|Ķīnas tūja]]<br />[[Styphnolobium|Pagodas koks]]
+|blank1_name=Pilsētas zieds
+|blank1_info=[[Chrysanthemum morifolium|Hrizantēma]]<br />[[Rosa chinensis|Ķīnas roze]]
+}}
+'''Pekina''' jeb '''Beidzjina'''<ref>{{Grāmatas atsauce |title=Ķīniešu valodas īpašvārdi un to atveide latviešu valodā |author=Jeļena Staburova |year=2006 |publisher=[[Jāņa Rozes apgāds]] |location=Rīga |page=75 |isbn=978-9984-232-23-2}}</ref><ref>{{Tīmekļa atsauce |title=Kurp ej, latviešu valoda? |author=Andrejs Veisbergs |authorlink=Andrejs Veisbergs |date=2006. gada 9. jūnijs |publisher=[[Diena (laikraksts)|Diena]] |url=https://www.diena.lv/raksts/pasaule/krievija/kurp-ej-latviesu-valoda-12814434 |accessdate=2015. gada 12. martā |quote=Jaunienācējus vajadzētu pēc iespējas tuvināt oriģināliem, jo starpniekvalodas to atbilsmi nopietni izmaina. Šāda pieeja būtu izmantojama arī tai īpašvārdu kategorijai, kad mainīts tiek oriģināls, piemēram, Bombeja - Mumbaja, Pekina - Beidzjina. Šajos gadījumos acīmredzot mums jāseko oriģināla maiņai.}}</ref> ({{val|zh|北京}} (''Běijīng'') — 'ziemeļu galvaspilsēta') ir pilsēta [[Ķīna]]s ziemeļos. Tā ir Ķīnas [[galvaspilsēta]] un otra lielākā pilsēta pēc iedzīvotāju skaita. Viena no četrām Ķīnas pilsētām, kurām ir provinces tiesības. Ķīnas galvenais politiskais centrs.
+
+Pekinā notika [[2008. gada vasaras olimpiskās spēles]].
+
+== Vēsture ==
+[[Attēls:Wanfunjing Road.jpg|thumb|250px|
+
+Pekinas centrālā iela]]Apmetnes Pekinas teritorijā bija jau 1. gadsimtā p. m. ē. [[Karojošo valstu periods|Karojošo valstu periodā]] Pekinā bija [[Jana (valsts)|Janas]] galvaspilsēta Dži (''Ji''), tomēr VI gadsimtā tā tika pamesta.
+
+12. gadsimtā Pekinas teritorijā atradās viena no [[kitani|kitanu]] [[Liao dinastija]]s valsts galvaspilsētām. 1125. gadā pilsētu iekaroja [[jurčeni|jurčenu]] [[Dzjiņu dinastija (1115—1234)|Dzjiņu dinastija]] un izveidoja šeit savu galvaspilsētu, bet 1215. gadā to pilnībā nopostīja [[mongoļi]]. 1264. gadā [[Mongoļu impērija]]s kagans [[Hubilajs]] šeit izveidoja savu galvaspilsētu — '''Dadu''', kura bija mūsdienu Pekinas priekštece.
+
+1403. gadā trešais [[Minu dinastija|Minu]] imperators [[Jongls]] (''Yongle'') pārcēla Minu impērijas galvaspilsētu no [[Nankina]]s uz Pekinu. Drīz pēc tam (1406—1420) tika uzcelta [[Aizliegtā pilsēta]] — Ķīnas imperatoru rezidence.
+
+Kad [[mandžūri]] 1616. gadā gāza Minu dinastiju un nodibinājās [[Cjinu dinastija]], par Ķīnas galvaspilsētu saglabājās Pekina.
+
+1911. gadā Ķīnā notika [[Siņhajas revolūcija]] un tika nodibināta republika. 1928. gadā [[Gomindāns|Gomindāna]] valdība par Ķīnas galvaspilsētu pasludināja [[Nankina|Nankinu]], bet Pekinu pārsauca par '''Beipinu''' ({{val|zh|北平}} (''Běipíng'') — 'ziemeļu miers'). [[Ķīnas—Japānas karš|Ķīnas—Japānas kara]] laikā 1937. gada 29. jūlijā Pekinu ieņēma [[Japāna]]s karaspēks. Pilsētu atkal pārsauca par Pekinu, un šeit atradās Ziemeļķīnas japāņu [[marionešu valdība]]. Pēc Japānas kapitulācijas [[Otrais pasaules karš|Otrā pasaules karā]] pilsētu atkal pārsauca par Beipinu.
+
+[[Ķīnas Pilsoņu karš|Ķīnas Pilsoņu kara]] laikā 1949. gada 31. janvārī pilsētu ieņēma [[Ķīnas Komunistiskā partija|komunistu]] karaspēks, un 1. oktobrī [[Mao Dzeduns]] [[Tiaņaņmeņa laukums|Tiaņaņmeņa laukuma]] vārtos deklarēja [[Ķīnas Tautas republika|Ķīnas Tautas republiku]]. Dažas dienas vēlāk pilsēta ieguva savu iepriekšējo nosaukumu — Pekina.
+
+1989. gadā no 14. aprīļa līdz 4. jūlijam Tiaņaņmeņa laukumā notika [[protesti Tiaņaņmeņa laukumā|protesti]], kuros pieprasīja Ķīnas politiskās dzīves liberalizāciju. Protestus vardarbīgi apspieda Ķīnas armija, nogalinot no vairākiem simtiem (saskaņā ar Ķīnas varasiestāžu informāciju) līdz vairāk nekā 10 000 protestētājus (saskaņā ar britu vēstnieka ziņojumu).<ref>{{Tīmekļa atsauce |title=30 gadi kopš Tjaņaņmeņa slaktiņa. Vai komunistiskā Ķīnai varētu doties pretī demokrātijai? |author=Rihards Plūme |date=2019. gada 4. jūnijs |publisher=[[Latvijas Sabiedriskais medijs]] |url=https://www.lsm.lv/raksts/zinas/zinu-analize/30-gadi-kops-tjananmena-slaktina-vai-komunistiska-kinai-varetu-doties-preti-demokratijai.a321339/ |accessdate=2019. gada 16. jūnijā}}</ref>
+
+== Cilvēki ==
+Pekinā dzimuši
+* [[Cjaņluns]] (''乾隆/Qianlong'', 1711—1799) — Ķīnas imperators (1735—1796)
+* [[Čeņs Kaige]] (''陳凱歌/Chén Kǎigē'', 1952) — kinorežisors
+* [[Džets Lī]] (''李連杰/Lǐ Liánjié'', 1963) — kinoaktieris
+* [[Lao Še]] (''老舍, Lao She'', 1899—1966) — rakstnieks
+* [[Pu I]] (''溥儀/Puyi'', 1906—1967) — Ķīnas imperators (1908—1912)
+* [[Se Dzjuņa]] (''謝軍/Xiè Jūn'') — šahiste
+* [[Šana Sa]] (''Shan Sa'', 1972) — rakstniece
+* [[Faje Vona]] (''王菲/Wang Fēi/Faye Wong'', 1969) — dziedātāja un aktrise
+* [[Žana Ziji]] (''章子怡/Zhang Ziyi'', 1979) — aktrise
+* [[Puji]] (ķīniešu: 愛新覺羅·溥儀, piņjiņs: Àixīnjuéluó Pǔyí; 1906—1967) bija pēdējais Ķīnas imperators un 12. valdnieks no Cjinu dinastijas.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20060314091401/http://www.beijingvirtualcity.com/ Virtuālā Pekina]
+
+{{Āzija-aizmetnis}}
+{{Ķīnas provinces}}
+{{Āzijas galvaspilsētas}}
+{{VOS norises vietas}}
+{{ZOS norises vietas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Pekina| ]]

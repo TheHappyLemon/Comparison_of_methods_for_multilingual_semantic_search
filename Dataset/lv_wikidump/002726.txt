@@ -1,0 +1,59 @@
+{{Upes infokaste
+| nosaukums          = Allere
+| citvalsts          = 
+| citnosaukums       = 
+| citvaloda          = 
+| citvaloriģin       = 
+| attēls             = 
+| paraksts           = 
+| attēla_izmērs      =
+| karte             = Aller Vorsfelde.jpg
+| kartes_paraksts   = 
+| kartes_izmērs     =
+| vietaskarte       = Vācija#Lejassaksija
+| reljefs           = jā
+| sāk_plat_d=52| sāk_plat_m=06| sāk_plat_s=09| sāk_plat_NS=N 
+| sāk_gar_d=11| sāk_gar_m=14| sāk_gar_s=01| sāk_gar_EW=E 
+| iet_plat_d=52| iet_plat_m=56| iet_plat_s=45| iet_plat_NS=N 
+| iet_gar_d=9| iet_gar_m=11| iet_gar_s=08| iet_gar_EW=E
+| garums            = 215
+| garums_latvijā    = 
+| iztekas_augstums  = 130
+| ietekas_augstums  = 10
+| kritums           = 
+| caurtece          = 118
+| gada_notece       = 
+| baseins           = 15 721
+| baseins_latvijā   = 
+| satekupes          = 
+| izteka             = [[Magdeburgas Berde]]
+| ieteka             = [[Vēzere]]
+| tek_caur           = 
+| baseina_valstis    = {{DEU}}
+| pietekas      = [[Leine]]
+}}
+'''Allere''' ({{val|de|Aller}}) ir upe [[Vācija|Vācijā]], [[Saksija-Anhalte|Saksijā-Anhaltē]] un [[Lejassaksija|Lejassaksijā]].<ref>{{PZT|29}}</ref> [[Vēzere]]s labā krasta pieteka. Sākas Berdas augstienē. Tek pa Ziemeļvācijas zemieni.
+
+== Lielākā pieteka ==
+
+* [[Leine]] (''Leine'') — gar. 271 km — kreisais krasts
+
+== Lielākās pilsētas Alleres krastos ==
+
+* [[Volfsburga]] (''Wolfsburg'')
+* [[Celle]] (''Celle'')
+* [[Ferdene pie Alleres]] (''Verden an der Aller'')
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Lejassaksija]]
+[[Kategorija:Saksija-Anhalte]]

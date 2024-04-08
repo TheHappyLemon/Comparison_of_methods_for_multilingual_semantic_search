@@ -1,0 +1,41 @@
+{{Jūras infokaste
+|jūra=Halmaheras jūra
+|attēls=HalmaherasJura.JPG
+|attēls_izm    = 300
+ |vietaskarte  = Indonēzija
+ |latd = 0 |latm = 30 |lats =  |latNS = S
+ |longd = 129 |longm = 30 |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |alt_karte    = Indonesia relief location map.jpg
+| okeāns       = Klusais okeāns
+|platība       = 95 000
+|garums=
+|platums=
+|tilpums       = 56 000
+|Max_dziļums   = 2039
+|Vid_dziļums   = 747
+|sāļums        = 34—34,6 
+|temperatūra   = 25,7—28,6
+|valstis       = {{IDN}}
+|pilsētas      = [[Soronga]]
+}}
+'''Halmaheras jūra''' ({{val|id|Laut Halmahera}}) ir [[Klusais okeāns|Klusajam okeānam]] piederīga [[malas jūra]] [[Indonēzija]]s ziemeļaustrumu daļā.<ref>{{PZT|249}}</ref> Halmaheras jūras gultnei ir sarežģīts reljefs, tā sastāv no vairākām grēdām un ieplakām, lielākā ieplaka — Halmaheras baseins, kura dziļums sasniedz 2039 metrus. Virsējā ūdens slāņa sāļums 34—34,6 ‰, temperatūra gada gaitā mainās no 25,7&nbsp;°C līdz 28,6&nbsp;°C.
+
+Halmaheras baseinā pāri 700 un 940 m dziļiem "sliekšņiem" ieplūst Klusā okeāna ūdens. Halmaheras jūras ūdens virsējie slāņi ir ar skābekli bagātā Klusā okeāna un ar skābekli nabagās Seramas jūras maisījums. Starp Halmaheras jūras nomaļu salām novērojamas ļoti spēcīgas [[plūdmaiņas|plūdmaiņu]] radītas straumes, kas sasniedz 0,5 m sekundē. Gandrīz pastāvīgi ziemeļaustrumos no Halmaheras jūras vērojams Halmaheras ūdens virpulis, kas ārējā malā griežas ar ātrumu 0,5 m/s, diametrs - 500 km.
+
+== Robežas ==
+Ziemeļos — [[Klusais okeāns]], austrumos — [[Karolīnu salas|Karolīnu salu]] rietumu salas, [[Asijas salas]]. Dienvidos — [[Aju salas]], [[Vaigeo]], [[Jaungvineja]]s salas rietumu daļa — [[Čendravasiha]]s pussala, [[Seramas jūra]], austrumos — [[Halmahera]]s sala ar [[Kau līcis|Kau līci]], [[Buli līcis|Buli līci]] un [[Veda līcis|Veda līci]], [[Morotaja]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Klusā okeāna jūras}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Klusais okeāns]]
+[[Kategorija:Jūras]]
+[[Kategorija:Indonēzijas jūras]]

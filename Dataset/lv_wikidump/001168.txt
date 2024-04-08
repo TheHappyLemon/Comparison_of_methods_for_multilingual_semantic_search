@@ -1,0 +1,114 @@
+{{Apdzīvotas vietas infokaste
+|official_name          = Suva
+|other_name             = 
+|native_name            =  सुवा
+|nickname               = 
+|settlement_type        = Galvaspilsēta
+|motto                  = ''Valataka na Dina'' (Fight for the Right)
+|image_skyline          = Gouvernment Building Suva MatthiasSuessen-8442.jpg
+|imagesize              = 
+|image_caption          = Valdības ēka Suvā
+|image_flag             =
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = 
+|mapsize                = 
+|map_caption            =
+|pushpin_map            = Fidži#Okeānija<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|subdivision_type       = Valsts
+|subdivision_name       = {{FJI}}
+|subdivision_type1      = Sala
+|subdivision_name1      = [[Viti Levu]]
+|subdivision_type2      = Apgabals
+|subdivision_name2      = [[Centrālais apgabals (Fidži)|Centrālais apgabals]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+|government_footnotes   =
+|government_type        = Suvas pilsētas padome
+|leader_title           = 
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Galvaspilsēta
+|established_date       = 1877
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      = 
+|area_magnitude         = 
+|unit_pref                =<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =  26.24
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_metro_km2           = 
+|population_as_of               = 2017
+|population_footnotes           =
+|population_note                = 
+|population_total               = 93970
+|population_density_km2         = auto
+|population_metro               =185913 
+|population_urban               =
+|population_density_urban_km2   =
+|timezone               = UTC+12
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd=18|latm= 8|lats= |latNS=S
+|longd=178 |longm= 26|longs= |longEW=E
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = 
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = {{url|http://www.suvacity.org/}}
+|footnotes              = 
+}}
+'''Suva''' ir [[Fidži]] galvaspilsēta un lielākā pilsēta (iedzīvotāju skaits aglomerācijā - 172&nbsp;000). Tā atrodas [[Viti Levu]] salas dienvidaustrumu krastā. Suva kļuva par Fidži galvaspilsētu [[1877]]. gadā un tā ir valsts komerciālais un politiskais centrs, kā arī [[Klusais okeāns|Klusā okeāna]] dienvidu daļas lielākā pilsēta ārpus [[Austrālija]]s un [[Jaunzēlande]]s.
+
+== Sadraudzības pilsētas ==
+Suvas sadraudzības pilsētas ir<ref>{{Tīmekļa atsauce|url=http://suvacity.org/sister-cities/|title=Sister Cities {{!}} Suva City Council|website=suvacity.org|access-date=2022-09-03|archive-date=2023-04-21|archive-url=https://web.archive.org/web/20230421162820/http://suvacity.org/sister-cities/}}</ref>:
+* {{flaga|Austrālija}} [[Braitona (Tasmānija)|Braitona]], [[Tasmānija]], Austrālija
+* {{flaga|Ķīna}} [[Guanduna| Guandunas province]], Ķīna
+* {{flaga|Austrālija}} [[Frenkstona]], Austrālija
+* {{flaga|Papua Jaungvineja}} [[Portmorsbi]], Papua-Jaungvineja
+* {{flaga|Ķīna}} [[Šaosina]], Ķīna
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{Okeānijas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Fidži pilsētas]]
+[[Kategorija:Okeānijas galvaspilsētas]]

@@ -1,0 +1,87 @@
+{{Raķete
+| nosaukums = ''Proton-K''
+| oriģ. nosaukums = ''Протон-К''
+| izgat. nosaukums = ''UR-500K''; ''8K82K''
+| attēls = 
+| attēla paraksts = 
+| pielietojums = Kosmiskā nesējraķete
+| raķešu saime = ''[[Proton (nesējraķešu saime)|Proton]]''
+| raķešu grupa = 
+| valsts = {{URS}} → {{RUS}}
+| izgatavotājs = 
+| augstums = 50 m
+| diametrs = 4,15m, 7,40 m (maks.)
+| masa = 693 810 kg
+| pakāpes = 3
+| LEO masa = {{sk|19760|kg}}
+| GTO masa = 3 pakāpju versijā nav paredzēts
+| statuss = Ekspluatācijā
+| starta vietas = [[Baikonuras kosmodroms|Baikonura]]
+| startu skaits = 31 (3 pakāpju versijā)
+| veiksmīgie = 27
+| avārijas = 4
+| daļēji =
+| pirmais = 16.11.1968
+| pirmais pavadonis = 
+| pakāpju apraksts = 
+  {{Raķešpakāpe-augša
+  | pakāpes numurs = 1
+  | bloku skaits = 1
+  | pakāpes veidne = {{Proton 1. pakāpe}}
+  }}<br />{{Raķešpakāpe-augša
+  | pakāpes numurs = 2
+  | bloku skaits = 1
+  | pakāpes veidne = {{Proton-K 2. pakāpe}}
+  }}<br />{{Raķešpakāpe-augša
+  | pakāpes numurs = 3
+  | bloku skaits = 1
+  | pakāpes veidne = {{Proton-K 3. pakāpe}}
+  }}
+}}
+[[Attēls:Early Proton-K rocket versions.jpg|thumb|240px|''UR-500'' (pirmais no kreisās) salīdzinājumā ar ''Proton-K'' versijām]]
+'''''Proton-K''''' (''Протон-К'') jeb '''''UR-500K''''', [[GRAU indekss|''GRAU'' indekss]] ''8K82K'', bija [[PSRS]], vēlāk [[Krievija]]s [[Proton (nesējraķešu saime)|''Proton'' saimes]] trīs pakāpju [[nesējraķete]]. Pirmais ''Proton-K'' starts notika 1967. gadā (''[[Proton-K / Blok D]]'' konfigurācijā). Pēdējoreiz ''Proton-K'' startēja 2012. gadā.
+
+== Vēsture ==
+''Proton-K'' izstrāde sākās 1965. gadā, lai kosmiskos aparātus varētu ievadīt Mēness aplidošanas trajektorijā. Raķetei ''[[Proton (nesējraķete)|Proton]]'' (''UR-500'') tika pievienota trešā pakāpe un veiktas modifikācijas. Turklāt sākās darbi pie dzinējbloja jeb [[kosmiskais velkonis|kosmiskā velkoņa]] (''Proton-K'' nosacīti ceturtās pakāpe), ko izstrādāja uz nesējraķetes ''[[N-1]]'' piektās pakāpes ''[[Blok D]]'' bāzes. Saskaņā ar šo projektu (''UR-500K-L1''), divsekciju kuģis ''7K-L1'' tiktu ievadīts trajektorijā uz Mēnesi, veiktu Mēness aplidojumu un atgrieztos uz Zemes. Lidojumi sākumā notiktu bezpilota režīmā, bet pēc tam pilotējamā variantā.
+
+Pirmais ''Proton-K'' starts notika 1967. gada 10. martā ar ''Blok-D'' un bezpilota kosmosa kuģi ''7K-L1P'' (''[[Kosmos-146]]'').
+No ''7K-L1'' 11 startiem tikai ''[[Zond-7]]'' lidojums tika atzīts par pilnībā veiksmīgu. Piecās neveiksmes notika ''Proton-K'' kļūmes dēl un vēl piecas misijas – ''7K-L1'' vai ''Blok-D'' vainas dēļ.
+
+Lielā avāriju skaita dēļ lidojumu izmēģinājumu sākuma posmā (no 1967. gada marta līdz 1970. gada augustam no 21 starta bija tikai 6 pilnībā veiksmīgi) ''Proton-K'' tika pieņemts ekspluatācijā tikai 1978. gadā, pēc 61. starta.
+
+''Proton-K'' regulāri tika izmantots dažādu zinātnisko, militāro un civilo kosmisko aparātu palaišanai. Trīs pakāpju ''Proton-K'' tika izmantots, lai izvadītu pavadoņus zemās orbītas (līdz 21 t), četru pakāpju konfigurācijā (ar dzinējbloku ''Blok D'') — kosmisko aparātu nogādāšanai augstās orbītās (līdz 2,6 t uz ģeostacionāro orbītu).
+''Proton-K'' ražošana tika izbeigta 2000. gadu beigā. Kopumā no 1967. līdz 2012. gadam ''Proton-K'' startēja 310 reizes.
+
+== Konstrukcija ==
+Nesējraķete ''Proton-K'' tika izstrādāta uz divpakāpju ''UR-500'' bāzes ar dažām izmaiņām otrajā pakāpē, pievienojot trešo un ceturto pakāpi. Tas ļāva palielināt derīgās kravas masu uz zemo orbītu, kā arī pacelt kosmiskos aparātus augstākas orbītas.
+
+Sākuma variantā ''Proton-K'' tika izmantoja ''UR-500'' pirmo pakāpi bez izmaiņām. Vēlāk, 1990. gadu sākumā, pirmās pakāpes dzinēju ''RD-253'' vilce tika palielināta par 7,7 %, un jaunais dzinēja variants ieguva nosaukumu ''RD-275''.
+
+Otrā pakāpe tika izstrādāta uz ''UR-500'' otrās pakāpes bāzes. Lai paaugstinātu derīgās kravas masu orbītā, tika palielināts degvielas tvertņu tilpums un mainīta pārejas nodalījuma konstrukcija, kas savieno to ar pirmo pakāpi.
+
+''Proton-K'' trešā pakāpe tika izstrādāta uz ''UR-500'' otrās pakāpes bāzes. Šim nolūkam ''UR-500'' otrā pakāpe tika saīsināta, un tajā četru vietā tika uzstādīts viens šķidrās degvielas dzinējs ''[[RD-0212]]'' (''RD-0210'' modifikācija). Šis dzinējs sastāv no pastāvīgā vienkameras dzinēja ''RD-0213'' un stūrēšanas četrkameru dzinēja ''RD-0214''. Pastāvīgā dzinēja vilce vakuumā bija 588 kN, bet stūrēšanas dzinēja vilce - 32 kN. Otrās pakāpes atdalīšanās notika trešās pakāpes stūrēšanas dzinēja vilces rezultātā, kas tika iedarbināts pirms otrās pakāpes pastāvīgo dzinēju izslēgšanas; šai operācijai palīdzēja atdalāmās otrās pakāpes bremzēšana ar tai uzstādītajiem sešiem cietās degvielas dzinējiem ''8D84''. Derīgās kravas atdalīšana no trešās pakāpes notika pēc stūrēšanas dzinēja izslēgšanas. Turklāt trešo pakāpi bremzēja ar četriem cietās degvielas dzinējiem.
+
+== Konfigurācijas ==
+''Proton-K'' standarta variantā bija ar trīs pakāpēm [[derīgā krava|kravu]] ievadīšanai zemā Zemes orbītā.
+
+Lai kravas nogādāt augstākās orbītās vai trajektorijā uz citām planētām, ''Proton-K'' paceļamā krava (saukta par "kosmisko daļu") tika apgādāta ar [[kosmiskais velkonis|kosmisko velkoni]] (bieži sauktu par ''Proton-K'' ceturto pakāpi):
+* [[Proton-K / Blok D]],
+* [[Proton-K / Blok D-1]],
+* [[Proton-K / Blok D-2]],
+* [[Proton-K / Blok DM]],
+* [[Proton-K / Blok DM-2]],
+* [[Proton-K / Blok DM-2M]],
+* [[Proton-K / Blok DM-5]],
+* [[Proton-K / Blok DM1]],
+* [[Proton-K / Blok DM2]],
+* [[Proton-K / Blok DM3]],
+* [[Proton-K / Blok DM4]],
+* [[Proton-K / Briz-M]].
+
+== Ārējās saites ==
+* [http://www.astronautix.com/p/proton-k.html Proton-K] Mark Wade, astronautix.com
+* [http://www.russianspaceweb.com/proton.html Proton rocket family] Anatoly Zak, russianspaceweb.com
+* [https://space.skyrocket.de/doc_lau_det/proton-k.htm Proton-K] Gunter Dirk Krebs
+
+
+[[Kategorija:Proton (nesējraķetes)]]

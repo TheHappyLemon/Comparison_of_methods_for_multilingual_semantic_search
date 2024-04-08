@@ -1,0 +1,36 @@
+[[Attēls:Wikipedia_Administrator.svg|thumb|right|150px|[[Vikipēdija]]s administratora simbols — mājaslapas logo ar [[slota|slotu]], jo administrāciju retorisku iemeslu dēļ salīdzina ar [[apkopējs|apkopējiem]]]]
+'''Administratori''' ir [[Vikipēdija]]s dalībnieki, kam piešķirtas [[Vikipēdija:Dalībnieku tiesības#Administratori|īpašas tiesības]], kādu nav [[Vikipēdija:Dalībnieku tiesības|parastiem dalībniekiem]]: dzēst lapas, apskatīt izdzēsto lapu saturu, atjaunot izdzēstās lapas, izmainīt lapu aizsardzības līmeni (aizsargāt un noņemt aizsardzību), izmainīt aizsargātās lapas, bloķēt dalībniekus utt. ''Mediawiki'' instalācijas visu administratoru (dalībnieki ar administratora tiesībām) sarakstu var atrast [[Special:ListUsers/sysop|šeit]].
+
+[[Vikipēdija latviešu valodā|Vikipēdijā latviešu valodā]] ir arī '''[[Vikipēdija:Birokrāti|birokrāti]]'''. Birokrāti no administratoriem atšķiras ar to, ka viņi var citus Vikipēdijas dalībniekus padarīt par administratoriem. Citādā ziņā administratoru un birokrātu tiesības neatšķiras. '''Jebkurš dalībnieks var izmainīt lapu saturu un veidot jaunas lapas — tas ir Vikipēdijas papildināšanas pamatprincips.'''
+
+Dažādu valodu Vikipēdijās var būt dažāda administratoru izraudzīšanās kārtība. Parasti tiek rīkota viedokļu apkopošana par izvirzītās personas piemērotību. Vikipēdijā latviešu valodā šis lēmums tiek pieņemts [[Vikipēdija:Administratoru kandidāti|kopienas balsojumā]].
+
+Vikipēdijā latviešu valodā šobrīd ir {{#expr: {{NUMBEROFADMINS}} - 1}} administratori.
+
+== Vikipēdijas latviešu valodā administratori (alfabētiskā secībā) ==
+[[Attēls:Editatons 2016.JPG|thumb|250px|[[Vikipēdija latviešu valodā|Vikipēdijas latviešu valodā]] administratori {{u|Papuass}}, {{u|Edgars2007}} un {{u|Feens}} (no kreisās uz labo) 2016. gada 12. martā [[Latvijas Nacionālā bibliotēka|Latvijas Nacionālajā bibliotēkā]] notikušajā [[Vikipēdija:Editatons/LNB 2016|Vikipēdijas darbnīcā]]]]
+* {{#invoke:UserLinks|main|user=Baisulis|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Biafra|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Dainis|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=DJ EV|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Edgars2007|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Egilus|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Feens|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Gragox|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Kikos|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Meistars Joda|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Papuass|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=ScAvenger|small=yes|msg|t|c}}
+* {{#invoke:UserLinks|main|user=Treisijs|small=yes|msg|t|c}}
+
+== Skatīt arī ==
+* [[Vikipēdija:Administratoru kandidāti|Administratoru kandidāti]]
+* [[Vikipēdija:Birokrāti|Birokrāti]]
+* [[Vikipēdija:Vikispeciālisti|Vikispeciālisti]]
+
+== Ārējās saites ==
+* [http://meta.wikimedia.org/wiki/Administrators_of_Wikimedia_projects/Wikipedias Dažādu Vikipēdiju administratori] {{angliski}}
+
+{{Vikipēdijas kopiena}}
+
+[[Kategorija:Vikipēdija|Administrācija]]

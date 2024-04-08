@@ -1,0 +1,37 @@
+{{Vielas infokaste
+|               attēls = [[Attēls:Sodium-hydroxide-crystal-3D-vdW.png|200px]]<br />Nātrija hidroksīda kristālrežģis<br />[[Attēls:SodiumHydroxide.jpg|200px]]<br />Nātrija sārma granulas
+|       citi nosaukumi = nātrija sārms, kaustiskā soda
+|           CAS numurs = 1310-73-2
+|      ķīmiskā formula = NaOH
+|              molmasa = 40
+|              blīvums = 2100
+|  kušanas temperatūra = 596 K (323&nbsp;°C)
+| viršanas temperatūra = 1663 K (1390&nbsp;°C)
+| šķīdība ūdenī        = 111 g/100 ml (20&nbsp;°C)
+|                 citi =
+}}
+
+'''Nātrija hidroksīds''' (nātrija sārms, kodīgais nātrijs, kaustiskā soda, ziepju zāles, NaOH) ir [[sārms]]. Tā ir cieta, higroskopiska viela (uzsūc [[ūdens|ūdeni]]). Nātrija hidroksīds ļoti labi šķīst ūdenī, un mazliet sliktāk šķīst [[etanols|etanolā]] un [[metanols|metanolā]], tas nešķīst [[dietilēteris|ēterī]] un citos nepolāros šķīdinātājos.
+
+== Iegūšana ==
+Nātrija hidroksīdu iegūst [[Nātrija hlorīds|NaCl]] šķīduma [[elektrolīze|elektrolīzē]] vai metāliskajam [[nātrijs|nātrijam]] reaģējot ar [[ūdens|ūdeni]].
+
+== Īpašības ==
+Nātrija hidroksīds izraisa [[alumīnijs|alumīnija]] un tā sakausējumu koroziju. Nātrija hidroksīds lēnām reaģē ar [[silīcija dioksīds|silīcija dioksīdu]], veidojot [[nātrija silikāts|nātrija silikātu]]. Nātrija hidroksīds var izraisīt silikātstikla koroziju. 
+[[Attēls:Sodium hydroxide burn.png|thumb|left|150px|Rokas ķīmiskais apdegums nātrija sārma iedarbībā]]
+{{kodīgs|Koncentrēts nātrija sārms ir ļoti kodīgs, izraisa smagus ādas apdegumus!}}
+
+== Izmantošana ==
+Nātrija sārms ir nozīmīga [[ziepes|ziepju]] ražošanas izejviela.
+
+{{commonscat|Sodium hydroxide|Nātrija hidroksīds}}
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+{{nātrija savienojumi}}
+
+[[Kategorija:Nātrijs]]
+[[Kategorija:Hidroksīdi]]
+[[Kategorija:Sadzīves ķīmija]]
+[[Kategorija:Desikanti]]

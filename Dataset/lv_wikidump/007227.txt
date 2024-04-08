@@ -1,0 +1,106 @@
+[[Attēls:Sine triangle circle.svg|right|thumb|240px|Ja vienības riņķī ievelk leņķi, kura lielums ir α, tad atbilstošās pretkatetes garums ir sin α.]]
+
+Par [[leņķis|leņķa]] '''sinusu''' sauc uz tā balstīta [[taisnleņķa trijstūris|taisnleņķa trijstūra]] [[katete|pretkatetes]] un [[hipotenūza]]s garumu [[attiecība|attiecību]]. To var simboliski pierakstīt šādi:
+:<math> \sin \alpha = \frac{\text{pretkatete}}{\text{hipoten}\bar{\text{u}}\text{za}}, \,</math>
+kur "sin α" apzīmē sinusu no leņķa α un "pretkatete" un "hipotenūza" apzīmē attiecīgi pretkatetes (leņķim pretējas katetes) un hipotenūzas garumus. Šādā veidā sinusu var definēt [[šaurs leņķis|šauriem leņķiem]]. Savukārt, izmantojot [[trigonometrija|trigonometrisko riņķi]], sinusu var definēt jebkuram leņķim.
+
+Sinusa funkcija ir [[periodiska funkcija]] ar [[periods|periodu]] 2π.
+
+Funkcijas nosaukuma pirmsākumi meklējami [[Indija|indiešu]] matemātiķa un astronoma [[Ārjabhata]]s darbos, kur tā saukta ''ardha-jya'' (tulkojumā - 'puse no hordas'), kas ērtības labad saīsināta par ''jya''. Tulkojot Ārjabhatas darbus [[arābu valoda|arābu valodā]], saīsinājums tika pārnests ar līdzkaņu burtiem ''jb'' (arābu rakstībā īsos patskaņu neraksta, "b" rakstībā līdzīgs "y") un izrunāja ar vārdu ''jiba'', kam valodā nav nozīmes. 12. gadsimtā, kad [[Gerardo no Kremonas]] tulkoja šos darbus [[latīņu valoda|latīņu valodā]], viņš pieņēma, ka ''jb'' lasāms kā ''jiab'' ('līcis', 'ieloks') un pārcēla ar tā latīnisko analogu ar tādu pat nozīmi ''sinus''.<ref>{{Grāmatas atsauce
+ | author = Howard Eves
+ | title = An Introduction to the History of Mathematics
+ | url = https://archive.org/details/introductiontohi0000eves
+ | publisher = Saunders College Publishing House, New York
+ | year = 1990
+ | edition = 6
+ | page= [https://archive.org/details/introductiontohi0000eves/page/237 237]
+}}</ref>
+
+== Sinusa vērtības ==
+
+{| class="wikitable" style="text-align: center; float: right"
+|-
+! style="text-align: left" | Leņķis [[leņķa grāds|grādos]]
+| width="30px" | 0°
+| width="30px" | 30°
+| width="30px" | 45°
+| width="30px" | 60°
+| width="30px" | 90°
+|-
+! style="text-align: left" | Leņķis [[radiāns|radiānos]]
+| 0 || π/6 || π/4 || π/3 || π/2
+|-
+! style="text-align: left" | Sinusa vērtība
+| <math>0\,</math>
+| <math>\frac{1}{2}</math>
+| <math>\frac{\sqrt{2}}{2}</math>
+| <math>\frac{\sqrt{3}}{2}</math>
+| <math>1\,</math>
+|}
+
+Visbiežāk nepieciešamās sinusa vērtības ir dotas tabulā pa labi. Lai tās vieglāk iegaumētu, ir jāatceras zīmīgie leņķi 0°, 30°, 45°, 60° un 90° (jeb 0, π/6, π/4, π/3 un π/2 radiānos). Var ievērot, ka tiem atbilstošās sinusa vērtības ir šādas:
+:<math>
+  \frac{\sqrt{0}}{2}, \quad
+  \frac{\sqrt{1}}{2}, \quad
+  \frac{\sqrt{2}}{2}, \quad
+  \frac{\sqrt{3}}{2}, \quad
+  \frac{\sqrt{4}}{2}.
+</math>
+Leņķiem, kas neatrodas intervālā no 0° līdz 90°, sinusa vērtību var aprēķināt, izmantojot zemāk uzskaitītās sinusa funkcijas īpašības.
+
+== Sinusa funkcijas īpašības ==
+
+[[Attēls:Sine.svg|right|thumb|500px|Sinusa funkcijas grafiks.]]
+
+Sinusa funkcijai piemīt vairākas būtiskas īpašības, kas ir uzskaitītas zemāk dotajā tabulā. Tās ir viegli nolasāmas no funkcijas grafika.
+{| class="wikitable"
+! Matemātiskais pieraksts
+! Īpašības nosaukums
+|-
+| <math> -1 \leq \sin x \leq 1    \,</math> || ierobežota
+|-
+| <math> \sin(-x) = -\sin x       \,</math> || nepāra
+|-
+| <math> \sin(x + 2 \pi) = \sin x \,</math> || periodiska
+|-
+| <math> \sin(x + \pi) = -\sin x  \,</math> || maina zīmi, ja leņķi palielina par π
+|}
+No šīm īpašībām izriet sakarība
+:<math> \sin(x + \pi k) = (-1)^k \sin x, \,</math>
+kur ''k'' ir patvaļīgs [[vesels skaitlis]]. Ar tās palīdzību sinusa aprēķināšanu patvaļīgam leņķim var reducēt uz sinusa aprēķināšanu leņķim, kas atrodas intervālā [0°, 90°] (jeb [0,π/2] radiānos).
+
+== Sakarības ==
+
+Jebkuriem diviem reāliem skaitļiem α un β ir spēkā:
+:<math> \sin(\alpha + \beta) = \sin \alpha \, \cos \beta + \cos \alpha \, \sin \beta, </math>
+:<math> \sin(\alpha - \beta) = \sin \alpha \, \cos \beta - \cos \alpha \, \sin \beta, </math>
+:<math> \sin(2\alpha) = 2 \, \sin \alpha \, \cos \alpha. </math>
+
+== Teilora rinda, atvasinājums un integrālis ==
+
+Sinusa izvirzījums [[Teilora rinda|Teilora rindā]] ir
+:<math>
+  \sin x
+  = \sum_{n=0}^\infty (-1)^n \frac{x^{2n+1}}{(2n+1)!}
+  = \frac{x}{1!} - \frac{x^3}{3!} + \frac{x^5}{5!} \mp \cdots.
+</math>
+Tā [[atvasinājums]] ir
+:<math> (\sin x)' = \cos x, \,</math>
+bet [[nenoteiktais integrālis]] ir
+:<math> \int \sin x \, {\rm d} x = -\cos x + C. </math>
+
+== Skatīt arī ==
+
+* [[Trigonometriskās funkcijas]]
+* [[Kosinuss]]
+* [[Tangenss]]
+* [[Kotangenss]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+
+* Eric W. Weisstein, [https://web.archive.org/web/20100304140415/http://mathworld.wolfram.com/Sine.html Sine], MathWorld.
+
+[[Kategorija:Trigonometrija]]

@@ -1,0 +1,47 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 91
+|             7. čaula = 2
+|             6. čaula = 9
+|             5. čaula = 20
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Pa
+|             atommasa = 231,03588
+|   valences elektroni = [Rn]5f<sup>2</sup>6d<sup>1</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Pa-TableImage.png|250px]]
+|               attēls = [[Attēls:Protactinium.jpg|200px]]<br />Protaktīnija kristāli
+|  oksidēšanas pakāpes = +2, +3, +4, '''+5'''
+|  elektronegativitāte = 1,5
+|              blīvums = 15370
+|  kušanas temperatūra = 1841 K (1568&nbsp;°C)
+| viršanas temperatūra = ~4300 K (~4027&nbsp;°C)
+}}
+
+'''Protaktīnijs''', agrāk '''protoaktīnijs''', ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Pa''' un [[atomskaitlis|atomskaitli]] 91. Tas ir blīvs, sudrabbalts, [[radioaktivitāte|radioaktīvs]] [[metāli|metāls]], pieder [[aktinīdi|aktinīdu]] grupai un [[7. perioda elementi|7. perioda elementiem]]. Dabā tas ir sastopams [[urāns (elements)|urāna]] rūdā (no 1 līdz 3 miljonās daļas). Protaktīnijs ir dārgs un grūti pieejams, kā arī [[toksiskums|indīgs]], tāpēc tam nav praktiska izmantojuma, izņemot zinātniskus mērķus. Protaktīnijs parasti [[ķīmiskais savienojums|ķīmiskajos savienojumos]] ir sastopams ar [[oksidēšanas pakāpe|oksidēšanas pakāpi]] +5, bet var būt arī ar +2, +3 un +4.
+
+== Atrašanās dabā ==
+Protaktīnijs ir viens no visretāk sastopamajiem ķīmiskajiem elementiem dabā. Zemes garozā tas ir no 1{{E|-10}}% no kopējās masas.<ref>{{tīmekļa atsauce | url= https://bigenc.ru/chemistry/text/3168919 | title= Протактиний | publisher= Большая российская энциклопедия | language= ru | access-date= {{dat|2020|01|21||bez}} | archive-date= {{dat|2020|06|23||bez}} | archive-url= https://web.archive.org/web/20200623060745/https://bigenc.ru/chemistry/text/3168919 }}</ref> Dabā galvenokārt ir sastopams izotops <sup>231</sup>Pa, kā arī mazliet <sup>234</sup>Pa ar diviem enerģijas stāvokļiem. Sastopams [[urāns (elements)|urāna]] rūdā, piemēram, [[Kongo Demokrātiskā Republika|Kongo DR]]. Protaktīnijam nav bioloģiskas nozīmes.
+
+== Izotopi ==
+Protaktīnijam nav stabilu [[izotops|izotopu]]. Stabilākā protaktīnija izotopa <sup>231</sup>Pa [[pussabrukšanas periods]] ir 32,76 tūkstoši gadu.<ref name="jlab"/> Tas ir arī gandrīz 100% sastopamais izotops dabā, mazliet dabā ir sastopams arī <sup>234</sup>Pa (kā urāna sabrukšanas starpprodukts). Mākslīgi ir iegūti protaktīnija izotopi, kuru [[masas skaitlis]] ir no 212 līdz 241.<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso091.html | title= Isotopes of the Element Protactinium | publisher= Jefferson Lab | accessdate= 2018. gada 29. jūlijā | language= en}}</ref>
+
+== Vēsture ==
+1871. gadā krievu ķīmiķis [[Dmitrijs Mendeļejevs]], veidojot [[ķīmisko elementu periodiskā tabula|ķīmisko elementu periodisko tabulu]], paredzēja šo ķīmisko elementu. 1913. gadā poļu amerikānis [[Kazimirs Fajanss]] (''Kazimierz Fajans'') pirmo reizi identificēja protaktīnija izotopu <sup>234</sup>Pa. Daudz stabilāko izotopu <sup>231</sup>Pa 1917./1918. gadā identificēja [[Oto Hāns]] un [[Līze Meitnere]]. Viņi to nosauca par protoaktīniju. 1949. gadā [[Starptautiskā teorētiskās un praktiskās ķīmijas savienība]] (IUPAC) mainīja šī elementa nosaukumu uz protaktīniju, un par tā atklājējiem nodēvēja Hānu un Meitneri. Protaktīnija nosaukums nozīmē "aktīnija priekštecis", jo no protaktīnija [[alfa sabrukšana|alfa sabrukšanā]] rodas [[aktīnijs]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

@@ -1,0 +1,132 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Konungariket Sverige''
+|    pilnais_valsts_nosaukums = Zviedrijas Karaliste
+|            valsts_nosaukums = Kingdom of Sweden
+|               karoga_attēls = Flag of Sweden.svg
+|            karoga_nosaukums = Zviedrijas karogs
+|              ģerboņa_attēls = Great coat of arms of Sweden.svg
+|           ģerboņa_nosaukums = Zviedrijas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = ''För Sverige i tiden''
+|                valsts_himna = ''[[Zviedrijas himna|Du gamla, Du fria]]''
+|               kartes_attēls = EU-Sweden.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Stokholma]]
+| latd=59 | latm=21 | latNS=N | longd=18 | longm=4 | longEW=E <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[Zviedru valoda]], [[Zīmju valoda]]
+|             etniskās_grupas = 81% [[zviedri]]<br />5% [[somi]]<br />14% citi
+|              valsts_iekārta = [[Konstitucionālā monarhija]]
+|        valsts_galvas_tituls = [[Zviedrijas valdnieku uzskaitījums|Monarhs]]
+|                valsts_galva = [[Kārlis XVI Gustavs]]
+|       valsts_galvas_tituls2 = [[Zviedrijas premjerministrs|Premjerministrs]]
+|               valsts_galva2 = [[Ulfs Kristersons]] 
+|        neatkarības_iegūšana = Neatkarība
+|         neatkarības_piezīme = 1523. gada 6. jūnijā no [[Dānija]]s
+|                 platība_km2 = 449,964
+|               platība_rangs = 55.
+|              procenti_ūdens = 8,7
+|     iedzīvotāju_skaita_gads = 2021
+|          iedzīvotāju_skaits =10,402,070<ref name=population>[https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/] [[Statistics Sweden]]. Retrieved 8 July 2021.</ref> 
+|    iedzīvotāju_skaits_rangs = 88.
+|    apdzīvotības_blīvums_km2 = 20,6
+|  apdzīvotības_blīvums_rangs = 192.
+|                     IKP_PPP = $563,882 billion<ref name="imf2">{{tīmekļa atsauce |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=61&pr.y=4&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=144&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[Starptautiskais Valūtas fonds|International Monetary Fund]] |website=IMF.org |access-date=8 January 2020}}</ref> 
+|                IKP_PPP_gads = 2020
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $52,477<ref name="imf2"/>
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{increase}} 0,945
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color=#009900>ļoti augsts</font>
+|                   HDI_rangs = 7.
+|                        Gini = 26.9
+|                   Gini_gads = 2020
+|             Gini_kategorija = <font color="#009900">zems</font>
+|                  Gini_rangs = 
+|                      valūta = [[Zviedrijas krona]]
+|                valūtas_kods = SEK
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[Centrāleiropas vasaras laiks|CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.se]]
+|              tālsarunu_kods = 46
+|                iso_kods_num = 752
+|              iso_kods_alfa2 = SE
+|              iso_kods_alfa3 = SWE
+|                    piezīmes = [[Freedom House brīvības indekss]]: 1,0 - brīva valsts. [[ANO tautas attīstības indekss]]: 0,946 (6.vieta pasaulē 2007. gadā). [[Reliģija]] - [[luterisms]].
+|                    piezīme1 = 
+}}
+
+'''Zviedrija''' ({{val|sv|Sverige}}), oficiāli '''Zviedrijas Karaliste''' (''Konungariket Sverige''), ir [[valsts]] [[Ziemeļeiropa|Ziemeļeiropā]], kura atrodas [[Skandināvijas pussala]]s austrumu un dienvidu daļā. Ziemeļos un rietumos robežojas ar [[Norvēģija|Norvēģiju]], ziemeļaustrumos ar [[Somija|Somiju]], dienvidos un austrumos atrodas [[Baltijas jūra]], austrumos — [[Botnijas līcis]]. Dienvidos to ar [[Dānija|Dāniju]] savieno [[Ēresunda tilts]]. Zviedrijai pieder divas lielas salas [[Baltijas jūra|Baltijas jūrā]] — [[Gotlande]] un [[Ēlande]].
+
+Zviedrijas platība ir gandrīz 450 000 km², tādējādi tā ir trešā lielākā valsts [[Eiropas Savienība|Eiropas Savienībā]] pēc platības. Zviedrijā dzīvo vairāk nekā 9,2 miljoni [[iedzīvotāji|iedzīvotāju]]. Valstī ir zems [[iedzīvotāju blīvums]], tas ir, 20 cilvēki uz km². Valsts dienvidu pusē blīvums ir daudz augstāks nekā ziemeļos. Aptuveni 85% iedzīvotāju dzīvo [[pilsēta|pilsētās]], un ir paredzams, ka šis procents turpinās augt [[urbanizācija]]s dēļ.<ref>Statistics Sweden. ''Yearbook of Housing and Building Statistics 2007''. Statistics Sweden, Energy, Rents and Real Estate Statistics Unit, 2007. {{ISBN|978-91-618-1361-2}}. Available online in [http://www.scb.se/statistik/_publikationer/BO0801_2007A01_BR_BO01SA0701.pdf PDF format] {{Webarchive|url=https://web.archive.org/web/20090325013009/http://www.scb.se/statistik/_publikationer/BO0801_2007A01_BR_BO01SA0701.pdf |date={{dat|2009|03|25||bez}} }}</ref> Zviedrijas [[galvaspilsēta]] ir [[Stokholma]], kura vienlaicīgi ir arī lielākā pilsēta valstī. Nākamās lielākās pilsētas ir [[Gēteborga]] un [[Malme]]. Zviedrija ir vienīgā valsts pasaulē, kur [[zīmju valoda]] ir oficiāla valsts valoda.
+
+Zviedrijā ir [[konstitucionālā monarhija]] ar [[parlamentārisms|parlamentāru]] valdības sistēmu. Zviedrija ir augsti attīstīta viennacionāla valsts. Pēc [[tautas attīstības indekss|tautas attīstības indeksa]] Zviedrija ir septītā labākā valsts pasaulē. Zviedrija [[Eiropas Savienība|Eiropas Savienībā]] ir kopš {{dat|1995|1|1|Ģ}}. Tā ir arī [[Ekonomiskās sadarbības un attīstības organizācija|OECD]] dalībvalsts. 2022. gada 29. jūnijā [[NATO]] samitā Madridē dalībvalstu līderi pieņēma lēmumu oficiāli uzaicināt Zviedriju un Somiju kļūt par Ziemeļatlantijas alianses dalībvalstīm.<ref>[https://www.lsm.lv/raksts/zinas/arzemes/zviedrija-un-somija-sanem-nato-uzaicinajumu-pievienoties-aliansei.a463440/?utm_source=lsm&utm_medium=article-bottom&utm_campaign=article Zviedrija un Somija saņem NATO uzaicinājumu pievienoties aliansei] lsm.lv 2022. gada 29. jūnijā</ref> 2024. gada 7. martā Zviedrija kļuva par 32. NATO dalībvalsti.
+
+== Vēsture ==
+{{pamatraksts|Zviedrijas vēsture}}
+Zviedrija kā neatkarīga un apvienota valsts radās tikai pēc [[viduslaiki|viduslaiku]] beigām 16. gadsimtā. [[17. gadsimts|17. gadsimtā]] tā ievērojami paplašināja savas teritorijas, izveidojot [[Zviedrijas impērija|Zviedrijas impēriju]]. Lielākā daļa no iekarotajām teritorijām ārpus Skandināvijas pussalas tika zaudētas [[18. gadsimts|18.]] un [[19. gadsimts|19. gadsimtā]]. [[1809]]. gadā austrumu daļu, kur mūsdienās atrodas [[Somija]], [[Krievu—zviedru karš (1808—1809)|okupēja]] [[Krievijas Impērija]]. Pēdējais karš, kurā zviedri tieši iesaistījās, notika [[1814]]. gadā, kad tā karoja ar [[Norvēģija|Norvēģiju]]. Kopš tā laika zviedri centās ieturēt neitrālu un miermīlīgu nostāju jebkurā karadarbībā, un tikai 2022. gada [[Krievijas iebrukums Ukrainā]] lika tai atteikties no tradicionālās neitralitātes un pievienoties NATO militārajam blokam.
+
+== Ģeogrāfija ==
+Zviedrija ir valsts [[Ziemeļeiropa|Ziemeļeiropā]], precīzāk, [[Skandināvijas pussala]]s austrumu un dienvidu daļā. Zviedrijas platība ir 449 964 km², tādēļ pēc platības Zviedrija ir piektā lielākā valsts [[Eiropa|Eiropā]]. Rietumos Zviedrija robežojas ar [[Norvēģija|Norvēģiju]] (robežas garums 1619 km), ziemeļaustrumos ar [[Somija|Somiju]] (614 km), bet austrumos un dienvidos to apskalo [[Baltijas jūra]] un [[Botnijas līcis]]. Zviedriju no [[Dānija]]s dienvidos šķir [[Skageraks]], [[Kategats]] un [[Ēresunds]].
+
+=== Klimats ===
+Neskatoties uz to, ka Zviedrija atrodas ziemeļos, tajā valda [[mērenā josla|mērēnās joslas]] klimats, galvenokārt, pateicoties [[Golfa straume]]i. Klimatu ietekmē arī [[Atlantijas okeāns|Atlantijas okeāna]] tuvums.
+
+== Administratīvais iedalījums ==
+{{pamatraksts|Zviedrijas administratīvais iedalījums}}
+* Līdz [[1634]]. gadam — [[Zviedrijas zemes un provinces|zemes un provinces]] (''landsdelar'' un ''landskap'').
+* Pēc [[1634]]. gada — [[Zviedrijas administratīvais iedalījums|lēnes]] (''län'').
+
+== Politika ==
+Zviedrijā ir [[konstitucionālā monarhija]], taču karalis pilda vienīgi reprezentatīvu lomu. Likumdevēja vara pieder vienpalātas parlamentam — [[Riksdags|Riksdagam]] ar 349 deputātiem. Vēlēšanas notiek reizi četros gados.
+
+== Demogrāfija ==
+Pēc 2015. gada tautas skaitīšanas datiem Zviedrijā bija 9 658 301 iedzīvotājs.
+2012. gadā 1,9 miljoni (20,1%) Zviedrijas iedzīvotāju bija ārzemju izcelsmes (dzimuši ārvalstīs vai arī abi vecāki dzimuši ārvalstīs). 2,38% Zviedrijas iedzīvotāju bija Somijas izcelsmes, 2,06% bijušās [[Dienvidslāvija]]s, 1,74% — [[Irāka]]s, 0,91% — [[Polija]]s un 0,84% — [[Irāna]]s.
+
+2021. gadā 53,9% Zviedrijas iedzīvotāju bija [[luterāņi]], 2% ir [[Romas katoļu baznīca|katoļi]] un 5% — [[musulmaņi]].
+ 
+=== Valoda ===
+{{pamatraksts|zviedru valoda}}
+Oficiālā valoda Zviedrijā ir [[zviedru valoda]]. Tā ir indoeiropiešu valodu saimes [[ģermāņu valodas|ģermāņu valodu]] grupas valoda. Tā ir oficiālā valoda Zviedrijā un [[Somija|Somijā]] (līdzās somu valodai).
+
+Zviedrijā ir atzītas piecas oficiālās [[mazākumtautību valoda]]s — [[somu valoda|somu]], [[sāmu valoda|sāmu]], [[romu valoda|romu]], [[jidišs]] un meankieli (somu valodas dialekts).
+
+=== Pilsētas ===
+{{pamatraksts|Zviedrijas pilsētu uzskaitījums}}
+Lielākās pilsētas ir [[Stokholma]], [[Gēteborga]] un [[Malme]].
+
+{{Zviedrijas lielākās pilsētas}}
+
+== Tautsaimniecība ==
+Zviedrija pazīstama ar saviem liberālajiem sabiedriskajiem uzskatiem un [[sociāldemokrātija|sociāldemokrātu]] [[labklājības valsts]] modeli. Pazīstamākie šīs valsts zīmoli ir [[IKEA]], ''[[Volvo]]'', ''[[Ericsson]]'', ''[[Absolut Vodka]]''.
+
+== Sports ==
+Zviedrijā vispopulārākie sporta veidi ir [[futbols]] un [[hokejs]]. Sievietēm augstā cieņā ir [[zirgu sports]]. Bez šiem sporta veidiem populāri ir arī [[golfs]], [[vieglatlētika]], [[rokasbumba]] un [[florbols]].
+
+Zviedrija diezgan bieži Pasaules hokeja čempionātos izcīna medaļas. [[2006. gada Pasaules čempionāts hokejā|2006. gada Pasaules hokeja čempionātā]] Zviedrija izcīnīja zelta medaļas, bet [[2009. gada Pasaules čempionāts hokejā|2009.]] un [[2010. gada Pasaules čempionāts hokejā|2010. gada Pasaules hokeja čempionātā]] Zviedrija izcīnīja bronzas medaļas. Kā arī [[2017. gada Pasaules čempionāts hokejā|2017. gada čempionātā]] gūstot atkal zelta medaļas.
+
+== Skatīt arī ==
+* [[Ziemeļvalstis]]
+* [[UNESCO Pasaules mantojuma vietas Zviedrijā]]
+* [[Zviedrijas valdnieku uzskaitījums]]
+* [[Zviedrijas premjerministru uzskaitījums]]
+
+== Atsauces un piezīmes ==
+{{commonscat|Sweden|Zviedrija}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zviedrija| ]]

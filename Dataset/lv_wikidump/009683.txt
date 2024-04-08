@@ -1,0 +1,21 @@
+{{Programmatūras infokaste|
+ name = Textpattern
+| logo = [[Attēls:Textpattern.png]]
+| developer = [http://www.textism.com Dīns Alens]
+| latest_release_version = 4.2.0
+| latest_release_date = {{release date and age|2009|08|28}}
+| operating_system = [[starpplatformu]]
+| genre = [[satura vadības sistēma|SVS]]
+| license = [[GNU General Public License|GPL]]
+| website = [http://www.textpattern.com Textpattern.com]
+}}
+
+'''Textpattern''' ir [[atvērtais pirmkods|atvērtā pirmkoda]] [[satura vadības sistēma]], ko bieži vien izmanto kā [[tīmekļa žurnāls|tīmekļa žurnāla]] vadības programmatūru. Textpattern ir rakstīts [[PHP]] skriptu valodā un datu glabāšanai izmanto [[MySQL]]. Textpattern tiek izplatīts saskaņā ar [[GNU GPL]] licenci.
+
+== Ārējās saites ==
+* [http://textpattern.com/ Oficiālā Textpattern tīmekļa vietne]
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Satura vadības sistēmas]]
+[[Kategorija:Tīmekļa žurnāli]]

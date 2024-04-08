@@ -1,0 +1,54 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Stefordšīra
+ |          official_name = ''Staffordshire''
+ |        settlement_type = grāfiste
+| image_skyline = Shropshire Union Canal near Norbury Junction.JPG
+| imagesize =
+| image_caption = Stefordšīras ainava
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_shield             = {{#property:P94}}
+ |shield_size              = 100x80px
+ |                  motto = "The knot unites"
+ |                capital = [[Steforda]]
+ |           largest_city = [[Ņūkāsla pie Laimas]]
+ |              image_map = Staffordshire UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Rietummidlenda]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles (mazāka) grāfiste
+ |         area_total_km2 = 2713
+ |       population_total = 1126200
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+ |                website = {{URL|www.staffordshire.gov.uk}}
+}}
+'''Stefordšīra''' ({{val|en|Staffordshire}})<ref>{{tīmekļa atsauce|url=http://www.collinsdictionary.com/dictionary/english/staffordshire?showCookiePolicy=true|publisher=Collins Dictionary|title=Staffordshire|accessdate=23 September 2014|date=n.d.|archive-url=https://web.archive.org/web/20160303232708/http://www.collinsdictionary.com/dictionary/english/staffordshire?showCookiePolicy=true|archive-date=3 March 2016}}</ref> ir ceremoniālā nemetropoles [[Anglija]]s [[Anglijas grāfistes|grāfiste]], kas atrodas valsts vidienē, [[Rietummidlenda]]s reģionā. Tā ziemeļrietumos robežojas ar [[Češīra]]s, austrumos ar [[Dārbišīra]]s un [[Lesteršīra]]s, dienvidaustrumos ar [[Vorikšīra]]s, dienvidos ar [[Rietummidlendas grāfiste|Rietummidlendas]] un [[Vusteršīra]]s, un rietumos ar [[Šropšīra]]s grāfistēm.
+
+Lielākā Stefordšīras pilsēta ir [[Stoka pie Trentas]], kas ir atsevišķa neatkarīga no pārējās grāfistes administratīvā vienība. Citas lielas pilsētas grāfistē ir [[Steforda]] (administratīvais centrs), [[Bērtona pie Trentas]], [[Kenoka]], [[Ņukāstla pie Laimas]], [[Līka]] un [[Temvorta]]. [[Kenokas Čeisas dabas parks]] ir daļa no [[Nacionālais mežs|Nacionālā meža]] [[Pīkdistrikta]]s nacionālā parka.
+
+[[Vulverhemptona]], [[Volsola]], [[Rietumbromviča]] un [[Smetvika]] vēsturiski atradās Stefordšīras grāfistē, bet kopš 1974. gada šīs pilsētas atrodas [[Rietummidlendas grāfiste|Rietummidlendas grāfistē]].
+
+2009. gada jūlijā grāfistē tika atrasts pagaidām vēsturē lielākais anglosakšu depozīts ([[Stefordšīras depozīts]]), kas tiek datēts ar aptuvenu 7. gadsimtu.
+
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{oficiālā tīmekļa vietne}}
+
+{{UK-aizmetnis}}
+
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

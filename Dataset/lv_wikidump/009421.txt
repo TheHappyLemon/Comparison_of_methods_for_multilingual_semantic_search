@@ -1,0 +1,814 @@
+Šis ir pasaulē iedzīvotāju skaita ziņā lielāko [[pilsēta|pilsētu]] uzskaitījums, par pamatu ņemot pilsētas administratīvajās robežās esošo iedzīvotāju skaitu. Sarakstā uzskaitītas pašpārvaldes administratīvās vienības vai šādu administratīvo vienību grupas. Sarakstā nav norādīti tikai apdzīvotas vietas vai pilsētas intensīvi apbūves rajoni. Turklāt, jāievēro tas, ka administratīvā iedalījuma principi katrā valstī atšķiras un tādēļ pilsētas administratīvo robežu jēdziens nav viennozīmīgs. Norādītas arī veids, kā pilsēta definēta, aptuvena pilsētas platība. Uzrādītais iedzīvotāju skaits attiecas uz pašu pilsētu nevis visu [[Aglomerācija|aglomerāciju]].
+
+== Pilsētu rangs == 
+{| class="sortable wikitable"
+|-
+!Vieta
+!Pilsēta
+!Attēls
+!Iedzīvotāju skaits
+!Definīcija
+!Platība (km²)
+!Iedzīvotāju blīvums (/km²)
+!Valsts
+|-
+|1
+| [[Šanhaja]]
+| [[Attēls:Shanghaiviewpic1.jpg|125px]]
+| {{nts|17836133}}<ref name=geohive>{{tīmekļa atsauce | url=http://www.geohive.com/earth/cy_notagg.aspx | title=Cities: largest (without surrounding suburban areas) | publisher=Geohive | access-date={{dat|2016|11|28||bez}} | archiveurl=https://web.archive.org/web/20161205222859/http://www.geohive.com/earth/cy_notagg.aspx | archivedate={{dat|2016|12|05||bez}} }}</ref>
+| Pamata rajoni + priekšpilsētas
+| {{nts|2605.79}}<ref>{{tīmekļa atsauce|title=2.5 LAND AREA,POPULATION AND DENSITY OF POPULATION IN DISTRICTS AND COUNTIES (2009)|url=http://www.stats-sh.gov.cn/tjnj/nje10.htm?d1=2010tjnje/E0205.htm|publisher=Shanghai Statistics Bureau|accessdate=17 February 2014|archiveurl=https://web.archive.org/web/20111004200438/http://www.stats-sh.gov.cn/tjnj/nje10.htm?d1=2010tjnje%2FE0205.htm|archivedate={{dat|2011|10|04||bez}}}}</ref>
+| {{nts|6845}}
+| {{CHN}}
+|-
+|2
+| [[Lagosa]]
+| [[Attēls:Lagos Island.jpg|125px]]
+| {{nts|16060307}}<ref>{{tīmekļa atsauce|title=Population (2006)|url=http://www.lagosstate.gov.ng/pagelinks.php?p=6|publisher=Lagos State, Nigeria|accessdate=6 February 2014|archiveurl=https://web.archive.org/web/20151018094514/http://www.lagosstate.gov.ng/pagelinks.php?p=6|archivedate={{dat|2015|10|18||bez}}}}</ref><ref>The authentic Census: 17552942. The number of males is 9115041, while that of females is 8437901. The Lagos State is made up of 20 districts. The Metropolitan Lagos is made up of 16 districts: Agege; Ajeromi-Ifelodun; Alimosho; Amuwo-Odofin; Apapa; Eti-Osa; Ifako-Ijaye; Ikeja; Kosofe; Lagos Island; Lagos Mainland; Mushin; Ojo; Oshodi-Isolo; Shomolu; Surulere</ref><ref>{{Tīmekļa atsauce |url=http://www.nigerianmuse.com/20070207234037zg/sections/important-documents/document-errors-miscalculations-omissions-in-lagos-census-figures/ |title=Nigerian Muse: "Errors, Miscalculations, Omissions in Lagos Census Figures" Table 7 |access-date={{dat|2014|02|26||bez}} |archiveurl=https://web.archive.org/web/20140225004036/http://www.nigerianmuse.com/20070207234037zg/sections/important-documents/document-errors-miscalculations-omissions-in-lagos-census-figures/ |archivedate={{dat|2014|02|25||bez}} }}</ref>
+| Pilsētas robežas
+| {{nts|999.58}}<ref>The surface of the Metropolitan Lagos is 1171 square kilometres, but 171 square kilometres is water (lagoon)</ref>
+| {{nts|16067}}
+| {{NGR}}
+|-
+|3
+| [[Karāči]]
+| [[Attēls:Nagan Ch Karachi.jpg|125px]]
+| {{nts|13969284}}<ref>{{tīmekļa atsauce|title=About Karachi - Geography And Demography (2006)|url=http://www.kmc.gos.pk/|publisher=Karachi Metropolitan Corporation - Archive|accessdate=15 February 2014|archiveurl=https://web.archive.org/web/20140209040750/http://kmc.gos.pk/|archivedate={{dat|2014|02|09||bez}}}}</ref>
+| Pilsētas rajons<ref>{{tīmekļa atsauce|url=http://www.kmc.gos.pk/Contents.aspx?id=94|title=Town/District Maps|publisher=Karachi Metropolitan Corporation (KMC)|access-date={{dat|2014|01|29||bez}}|archiveurl=https://web.archive.org/web/20140209055206/http://kmc.gos.pk/Contents.aspx?id=94|archivedate={{dat|2014|02|09||bez}}}}</ref>
+| {{nts|734}}
+| {{nts|19032}}
+| {{PAK}}
+|-
+|4
+| [[Stambula]]
+| [[Attēls:LeventView.jpg|125px]]
+| {{nts|13907015}}<ref>{{tīmekļa atsauce|title=TÜRKEY: İstanbul City (2013)|url=http://www.citypopulation.de/php/turkey-istanbulcity.php|publisher=CITY POPULATION.DE|accessdate=18 February 2014}}</ref>
+| Pašvaldība
+| {{nts|2189.79}}<ref>According to the new Metropolitan Municipal Law (No.5216/2004-5), Jurisdiction of Istanbul Metropolitan Municipality (IMM), the city area is 5343.02 square kilometers. Districts: Çatalca, Silivri and Şile (total area 3153.23 square kilometers) are almost entirely rural.</ref>
+| {{nts|6351}}
+| {{TUR}}
+|-
+|5
+| [[Mumbaja]]
+| [[Attēls:Mumbai 03-2016 77 sunset at Marine Drive.jpg|125px]]
+|13 879 521
+| Pašvaldību apvienība
+| {{nts|603}}
+| {{nts|20694}}
+| {{IND}}
+|-
+|6
+| [[Maskava]]
+| [[Attēls:Москва-Сити 10 ноября 2013.JPG|125px]]
+|13 678 456
+| Pilsētas robežas (ietver Zeļenogradu)<ref>{{tīmekļa atsauce|url=http://www.mos.ru/en/authority/structure/|title=Территориальное устройство|publisher=Moscow City Government|access-date={{dat|2012|12|28||bez}}|archiveurl=https://web.archive.org/web/20130108044822/http://mos.ru/en/authority/structure/|archivedate={{dat|2013|01|08||bez}}}}</ref>
+| {{nts|2510.12}}<ref name="RusArea2009">{{Tīmekļa atsauce |url=http://www.rosreestr.ru/upload/www/files/gos_doclad_2008.pdf |title=Ministry of Economic Development of the Russian Federation. Federal Registration, Cadastre&Cartograhy Service. Russia Landuse National Report 2008, p.187-188 ('''in Russian''') |access-date={{dat|2014|02|26||bez}} |archive-date={{dat|2014|10|10||bez}} |archive-url=https://web.archive.org/web/20141010021939/https://rosreestr.ru/upload/www/files/gos_doclad_2008.pdf }}</ref>
+| {{nts|4825}}
+| {{RUS}}
+|-
+|7
+| [[Sanpaulu]]
+| [[Attēls:Jardim Paulistano2.jpg|125px]]
+| {{nts|11821873}}<ref name="brazil1">{{tīmekļa atsauce|url=ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2013/estimativa_2013_dou.pdf|title=ESTIMATIVAS DA POPULAÇÃO RESIDENTE NOS MUNICÍPIOS BRASILEIROS COM DATA DE REFERÊNCIA EM 1º DE JULHO DE 2013|publisher=[[Instituto Brasileiro de Geografia e Estatística|IBGE]]|language=Portuguese|accessdate=31 August 2013}}</ref>
+| Pilsētas robežas
+| {{nts|1522.98}}
+| {{nts|7762}}
+| {{BRA}}
+|-
+|8
+| [[Pekina]]
+| [[Attēls:View of Beijing.jpg|125px]]
+| {{nts|11716620}}<ref>{{tīmekļa atsauce|url=http://www.citypopulation.de/php/china-township-beijing-admin.php|title=Administrative Division of Beijing|publisher=CITY POPULATION.DE}}</ref> 
+| Pamata rajoni + priekšpilsētas<ref>based on the districts of Dongcheng, Xicheng, Chaoyang, Fengtai, Shijingshan, and Haidian, considered "core districts" - Older part+Inner suburbs</ref>
+| {{nts|1368.32}}
+| {{nts|8563}}
+| {{CHN}}
+|-
+|9
+| [[Guandžou]]
+| [[Attēls:Pearl River Night Cruise.jpg|125px]]
+| {{nts|11070654}}<ref name=geohive/>
+| Pamata rajoni
+| {{nts|3843.43}}
+| {{nts|2880}}
+| {{CHN}}
+|-
+|10
+| [[Deli]]
+| [[Attēls:Skyline at Rajiv Chowk.JPG|125px]]
+| {{nts|11007835}}<ref name="india1">{{tīmekļa atsauce|url=http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf|publisher=Census of India|title=Provisional Population Totals, Census of India 2011|accessdate=2011-10-18}}</ref>
+| Pašvaldību apvienība
+| {{nts|431.09}}
+| {{nts|25535}}
+| {{IND}}
+|-
+|11
+| [[Lahora]]
+| [[Attēls:Kalma Underpass1.jpg|125px]]
+| {{nts|10520000}}<ref name="GeoHivePunjabLahore">{{Tīmekļa atsauce |url=http://www.geohive.com/cntry/pakistan.aspx?levels=Punjab |title=GeoHive, Pakistan - The Punjab - Administrative units |access-date={{dat|2014|01|29||bez}} |archiveurl=https://web.archive.org/web/20131019172924/http://www.geohive.com/cntry/pakistan.aspx?levels=Punjab |archivedate={{dat|2013|10|19||bez}} }} 1998 Census result for Lahore District. Accessed on 2008-09-28. The UN estimated the population of Lahore to be 10,577,000 in 2007. However, that estimate is based on now obsolete administrative boundaries for the Lahore Metropolitan Corporation. The administrative boundaries for Lahore was changed in 2001, when it was transformed from Metropolitan Corporation into a City District. The City District includes the old Metropolitan Corporation as well as the surrounding district. The District of Lahore had a total of 6,318,745 inhabitants in 1998, compared to 5,143,495 for the Metropolitan Corporation. Current, but vague, estimates puts the population of the district at somewhere between 9.5 and 11 million.</ref>
+| Pilsētas rajons
+| {{nts|1772}}
+| {{nts|5936}}
+| {{PAK}}
+|-
+|12
+| [[Šeņdžeņa]]
+| [[Attēls:Shenzhen night street.JPG|125px]]
+| {{nts|10467400}}<ref>{{tīmekļa atsauce|url=http://www.sztj.gov.cn/nj2012/szcn/3-1_1ch.htm|title=Shenzhen Statistics|publisher=Shenzhen Government Online|accessdate=2011|archiveurl=https://web.archive.org/web/20160303202329/http://www.sztj.gov.cn/nj2012/szcn/3-1_1ch.htm|archivedate={{dat|2016|03|03||bez}}}}</ref>
+| Pamata rajoni
+| {{nts|1991.64}}<ref>{{tīmekļa atsauce|url=http://english.sz.gov.cn/gi/|title=Shenzhen General Info|publisher=Shenzhen Government Online|accessdate=2011|archiveurl=https://web.archive.org/web/20170525115028/http://english.sz.gov.cn/gi/|archivedate={{dat|2017|05|25||bez}}}}</ref>
+| {{nts|5255}}
+| {{CHN}}
+|-
+|13
+| [[Seula]]
+| [[Attēls:Seoul-Olympic.Park-01.jpg|125px]]
+| {{nts|10442426}}<ref name="seoul2">{{tīmekļa atsauce|url=http://stat.seoul.go.kr/Seoul_System5.jsp?stc_cd=418|title=Seoul Statistics (Population)|publisher=Seoul Metropolitan Government|accessdate=2012|archive-date={{dat|2016|03|03||bez}}|archive-url=https://web.archive.org/web/20160303220844/http://stat.seoul.go.kr/Seoul_System5.jsp?stc_cd=418}}</ref>
+| Sevišķa pilsēta
+| {{nts|605.21}}<ref name="seoul1">{{tīmekļa atsauce|url=http://stat.seoul.go.kr/Seoul_System5.jsp?stc_cd=418|title=Seoul Statistics (Land Area)|publisher=Seoul Metropolitan Government|accessdate=2012|archive-date={{dat|2016|03|03||bez}}|archive-url=https://web.archive.org/web/20160303220844/http://stat.seoul.go.kr/Seoul_System5.jsp?stc_cd=418}}</ref>
+| {{nts|17254}}
+| {{KOR}}
+|-
+|14
+| [[Džakarta]]
+| [[Attēls:Jakarta Car Free Day.jpg|125px]]
+| {{nts|9761407}}<ref>{{tīmekļa atsauce |url=http://dki.kependudukancapil.go.id/index.php/statistik |title=''Jumlah Penduduk Provinsi DKI Jakarta'' |work=Dinas Kependudukan dan Pencatatan Sipil Provinsi DKI Jakarta |accessdate=31 December 2012 |archiveurl=https://web.archive.org/web/20140326015559/http://dki.kependudukancapil.go.id/index.php/statistik |archivedate={{dat|2014|03|26||bez}} }}</ref>
+| Sevišķs galvaspilsētas rajons
+| {{nts|664.12}}
+| {{nts|14698}}
+| {{IDN}}
+|-
+|15
+| [[Tjaņdziņa]]
+| [[Attēls:天津南京路滨江道交口.jpg|125px]]
+| {{nts|9341844}}<ref>{{tīmekļa atsauce|url=http://news.enorth.com.cn/system/2011/04/29/006466166.shtml|title=天津市公报2010年第六次全国人口普查主要数据|publisher=Enorth.com.cn|accessdate=29 April 2011}}</ref>
+|  Pamata rajoni<ref>based on the districts of Heping, Hexi, Hebei, Nankai, Hedong, Hongqiao, Jinnan, Dongli, Xiqing, Beichen and Binhai New Area, considered "core districts". Starting from November 2009, Binhai New Area was consolidated into a district, and the former subordinate districts of Tanggu, Hangu and Dagang were abolished. Binhai is part of the Bohai Economic Rim and is expected to become another asset to regional development, following the rise of Shenzhen Special Economic Zone and Shanghai Pudong New Area. It is a Special Economic Zone (SEZ) of the PRC, meaning experimental reforms are taking place here.</ref>
+| {{nts|4037}}<ref>{{tīmekļa atsauce|url=http://www.citypopulation.de/php/china-township-tianjin-admin.php|title= CHINA: Administrative Division of Tianjin (天津市)}}</ref>
+| {{nts|2314}}
+| {{CHN}}
+|-
+|16
+| [[Čennai]]
+| [[Attēls:Southern Railway HQ.jpg|125px]]
+| {{nts|8981087}}<ref name=2011city>{{tīmekļa atsauce|title=Cities having population 1 lakh and above|url=http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf|work=censusindia|publisher=The Registrar General & Census Commissioner, India|accessdate=18 October 2011}}</ref>
+| Pašvaldību apvienība
+| {{nts|426}}<ref name="2011 official India Census">[http://www.census2011.co.in/census/district/21-chennai.html Chennai District Population Census 2011, Tamil Nadu literacy sex ratio and density] {{Webarchive|url=https://web.archive.org/web/20140314080209/http://www.census2011.co.in/census/district/21-chennai.html |date={{dat|2014|03|14||bez}} }}. Census2011.co.in. Retrieved on 2013-07-12.</ref>
+| {{nts|21082}}
+| {{IND}}
+|-
+|17
+| [[Tokija]]
+| [[Attēls:Skyscrapers of Shinjuku 2009 January (revised).jpg|125px]]
+| {{nts|8967665}}<ref name="StatJapMonthlyCityTokyo">[http://www.toukei.metro.tokyo.jp/juukim/2010/jm106a0000.xls Official monthly estimated de jure population by the Tokyo Metropolitan Government] {{Webarchive|url=https://web.archive.org/web/20130126012512/http://www.toukei.metro.tokyo.jp/juukim/2010/jm106a0000.xls |date={{dat|2013|01|26||bez}} }} (in Japanese). Population estimate on 2010-06-01.</ref>
+| Sevišķa 23 teritoriju vienība<ref>Corresponds to the former City of Tokyo merged into the [[Tokyo|Tokyo Metropolis]] on July 1, 1943. The whole of 23 wards is now a [[Local Autonomy Law|special local public entity]] which provides limited public service, and is sometimes statistically treated as the city proper of Tokyo (e.g. Statistical Bureau of Japan, The [http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/Table08.pdf Population of capital cities and cities of 100 000 or more inhabitants. United Nations Statistics Division] {{Webarchive|url=https://web.archive.org/web/20131020060202/http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/Table08.pdf |date={{dat|2013|10|20||bez}} }}).</ref>
+| {{nts|617.18}}
+| {{nts|14400}}
+| {{JPN}}
+|-
+|18
+| [[Kaira]]
+| [[Attēls:Kairo 001.jpg|125px]]
+| {{nts|8922949}}<ref name="Capmas2013">{{tīmekļa atsauce|url=http://www.capmas.gov.eg/pdf/Electronic%20Static%20Book2013/english/population/untitled1/pop.aspx|title=Estimated Population by Governorate|publisher=[[CAPMAS]]|accessdate=September 2013|archiveurl=https://web.archive.org/web/20131231000306/http://www.capmas.gov.eg/pdf/Electronic%20Static%20Book2013/english/population/untitled1/pop.aspx|archivedate={{dat|2013|12|31||bez}}}}</ref>
+| Guberņa<ref>In April 2011, Prime Minister Essam Sharaf abolished the Helwan Governorate and reincorporated its territory into the Cairo Governorate. The total area of the governorate is 3085.1 square kilometers, the city area is 453 square kilometers, but the Egyptian government considered the Cairo Governorate is that a whole city and all statistics relate to the "governorate".</ref>
+| {{nts|3085.1}}
+| {{nts|2892}}
+| {{EGY}}
+|-
+|19
+| [[Daka]]
+| [[Attēls:Dhaka city.jpg|125px]]
+| {{nts|8906039}}<ref>{{tīmekļa atsauce|url=http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/Census2011/Dhaka/Dhaka/Dhaka%20at%20a%20glance%20General.pdf|title=Community Report Dhaka Zila|publisher=Bangladesh Bureau of Statistics|accessdate=Census 2011|archiveurl=https://web.archive.org/web/20121113181833/http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/Census2011/Dhaka/Dhaka/Dhaka%20at%20a%20glance%20General.pdf|archivedate={{dat|2012|11|13||bez}}}}</ref> 
+| Apdzīvota vieta<ref>{{tīmekļa atsauce|url=http://www.citypopulation.de/php/bangladesh-dhaka.php|title=BANGLADESH: Dhaka|publisher=CITY POPULATION.DE|accessdate=2012}}</ref> 
+| {{nts|302.92}}<ref>The city is divided into forty one thana "districts". The city (zila) does not include the Narayanganj City, Gazipur City, Sābhār City and Keraniganj City.</ref> 
+| {{nts|29401}}
+| {{BAN}}
+|-
+|20
+| [[Mehiko]]
+| [[Attēls:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg|125px]]
+| {{nts|8873017}}<ref name=Inegi2010prel>[http://www.inegi.org.mx/sistemas/TabuladosBasicos/preliminares2010.aspx Instituto Nacional de Estadística y Geografía, México; Censo de Población y Vivienda 2010, Resultados preliminares] Preliminary 2010 Census results. Retrieved on 2010-11-26.</ref>
+| Federāls rajons
+| {{nts|1485.49}}<ref name="ConapoZM">{{Tīmekļa atsauce |url=http://www.conapo.gob.mx/index.php?option=com_content&view=article&id=133&Itemid=212 |title=Consejo Nacional de Población, México; Delimitación de las zonas metropolitanas de México 2005 |access-date={{dat|2010|11|26||bez}} |archiveurl=https://web.archive.org/web/20101202063503/http://www.conapo.gob.mx/index.php?option=com_content&view=article&id=133&Itemid=212 |archivedate={{dat|2010|12|02||bez}} }} Retrieved on 2010-11-26.</ref>
+| {{nts|5973}}
+| {{MEX}}
+|-
+|21
+| [[Lima]]
+| [[Attēls:Lima Plaza Mayor1 cropped.jpg|125px]]
+| {{nts|8859036}}<ref>{{tīmekļa atsauce|url=http://www.citypopulation.de/php/peru-limametro.php|title=PERU: Lima Metropolitan Area|publisher=CITY POPULATION.DE}}</ref><ref>[http://www.inei.gob.pe/= INEI] {{Webarchive|url=https://web.archive.org/web/20211018070956/https://www.inei.gob.pe/= |date={{dat|2021|10|18||bez}} }}(source)(2014)</ref>
+| Province<ref>The province of Lima is divided into forty three "districts of Lima" which are administered by the Metropolitan Municipality of Lima. The city proper (urban area) of Lima is generally considered to be formed by thirty of these districts. The remaining thirteen districts consist of mostly rural and sparsely populated desert and mountainous areas. The Metropolitan Municipality of Callao is divided into six districts.</ref>
+| {{nts|933.63}}<ref>The cities of Lima and Callao forms a single city "continues". Callao is just a city "administrative". Economically and geographically is a district of the Metropolitan Municipality of Lima.</ref>
+| {{nts|9489}}
+| {{PER}}
+|-
+|22
+| [[Kinšasa]]
+| [[Attēls:Kinshasa 2003.jpg|125px]]
+| {{nts|8754000}}<ref name=UN>[http://esa.un.org/wup2009/unup/index.asp?panel=2 UN world Urbanization Prospects estimate for 2010] {{Webarchive|url=https://web.archive.org/web/20131031010136/http://esa.un.org/wup2009/unup/index.asp?panel=2 |date={{dat|2013|10|31||bez}} }}. While the UN list is nominally a list of urban agglomerations, this particular city is listed as using the "city proper" statistical concept in the [http://esa.un.org/wup2009/wup/source/country.aspx sources section] {{Webarchive|url=https://web.archive.org/web/20110927055752/http://esa.un.org/wup2009/wup/source/country.aspx |date={{dat|2011|09|27||bez}} }} of the UN report.</ref>
+| Pilsētas robežas<ref>Excluding the rural commune of Maluku</ref>
+| {{nts|2016}}
+| {{nts|4342}}
+| {{COD}}
+|-
+|23
+| [[Bengalūru]]
+| [[Attēls:Iflex51.JPG|125px]]
+| {{nts|8425970}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|709.5}}<ref name="delimit">{{tīmekļa atsauce|url=http://www.bbmpwards.org/bbmporg/Composition_of_BBMP.aspx|title=BBMP Delimitation 2009|publisher=Government of Karnataka|accessdate=2009-11-09|archiveurl=https://web.archive.org/web/20091030032349/http://www.bbmpwards.org/bbmporg/Composition_of_BBMP.aspx|archivedate=2009-10-30}}</ref>
+| {{nts|11876}}
+| {{IND}}
+|-
+|24
+| [[Ņujorka]]
+| [[Attēls:Top of Rock Cropped.jpg|125px]]
+| {{nts|8336697}}<ref>{{ziņu atsauce|url=http://www.nytimes.com/2013/03/14/nyregion/more-people-moving-to-bronx-census-shows.html|title=Fewer People Are Abandoning the Bronx, Census Data Show|author=Sam Roberts|newspaper=The New York Times|date=March 14, 2013|accessdate=March 14, 2013}}</ref>
+| Pilsētas robežas
+| {{nts|783.7}}
+| {{nts|10637}}
+| {{USA}}
+|-
+|25
+| [[Londona]]
+| [[Attēls:Canary Wharf Skyline 2, London UK - Oct 2012.jpg|125px]]
+| {{nts|8308369}}<ref name="2012 ONS Population">[http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-england-and-wales/mid-2012/mid-2012-population-estimates-for-england-and-wales.html Annual Mid-year Population Estimates for England and Wales, 2012] (press release). Ons.gov.uk (2013-06-26). Retrieved 2013-06-26.</ref>
+| [[Lielā Londona]]<ref>Composed of the [[City of London]] and the 32 [[London boroughs]]</ref>
+| {{nts|1572.15}}
+| {{nts|5285}}
+| {{UK}}
+|-
+|26
+| [[Bangkoka]]
+| [[Attēls:Aerial view of Lumphini Park.jpg|125px]]
+| {{nts|8280925}}<ref name="2010 census 1">{{tīmekļa atsauce|title=Table 1 Population by sex, household type and household by type, average size of private household by region and area: 2010 |url=http://service.nso.go.th/nso/nso_center/project/table/files/C-pop/2553/000/00_C-pop_2553_000_010000_00100.xls |publisher=National Statistics Office|work=Statistic tables, NSO website|accessdate=18 September 2012}}</ref>
+| Administratīvā vienība
+| {{nts|1568.74}}
+| {{nts|5280}}
+| {{THA}}
+|-
+|27
+| [[Dunguaņa]]
+| [[Attēls:Dongguan Avenue (CBD) 2010.jpg|125px]]
+| {{nts|8220237}}<ref name=geohive />
+| Prefektūra
+| {{nts|2465}}
+| {{nts|3335}}
+| {{CHN}}
+|-
+|28
+| [[Teherāna]]
+| [[Attēls:Tehran view - chamran.jpg|125px]]
+| {{nts|8154051}}<ref>{{tīmekļa atsauce|title=IRAN: Tehran City (Census 2011)|url=http://www.citypopulation.de/php/iran-tehrancity.php|publisher=CITY POPULATION.DE|accessdate=25 February 2014}}</ref>
+| Pilsētas robežas<ref>{{Tīmekļa atsauce |url=http://en.tehran.ir/Default.aspx?tabid=88 |title=TEHRAN: Administrative Districts |access-date={{dat|2014|02|26||bez}} |archiveurl=https://web.archive.org/web/20140726092302/http://en.tehran.ir/Default.aspx?tabid=88 |archivedate={{dat|2014|07|26||bez}} }}</ref>
+| {{nts|686}}<ref>{{tīmekļa atsauce|title=About Teheran|url=http://en.tehran.ir/Default.aspx?tabid=104|publisher=Tehran Municipality|accessdate=25 February 2014|archiveurl=https://web.archive.org/web/20140219204318/http://en.tehran.ir/Default.aspx?tabid=104|archivedate={{dat|2014|02|19||bez}}}}</ref>
+| {{nts|11886}}
+| {{IRN}}
+|-
+|29
+| [[Bogota]]
+| [[Attēls:Bogotá de noche.jpg|125px]]
+| {{nts|7776845}}<ref>{{tīmekļa atsauce|url=http://www.dane.gov.co/index.php/poblacion-y-demografia/proyecciones-de-poblacion|title=Estimaciones y proyecciones de hogares y viviendas|publisher=DANE (2014)|access-date={{dat|2016|02|08||bez}}|archiveurl=https://web.archive.org/web/20160202154631/http://www.dane.gov.co/index.php/poblacion-y-demografia/proyecciones-de-poblacion|archivedate={{dat|2016|02|02||bez}}}}</ref>
+| Galvaspilsētas rajons
+| {{nts|1587}}
+| {{nts|4900}}
+| {{COL}}
+|-
+|30
+| [[Hošimina]]
+| [[Attēls:Một khúc sông Sài Gòn.JPG|125px]]
+| {{nts|7681700}}<ref name="vietnam1">{{tīmekļa atsauce|url=http://www.gso.gov.vn/default_en.aspx?tabid=467&idmid=3&ItemID=14457|title=Average population by province|publisher=General Statistics Office Of Vietnam|accessdate=2012}}</ref>
+| Pilsētas robežas
+| {{nts|2095.6}}<ref name="vietnam2">{{tīmekļa atsauce|url=http://www.gso.gov.vn/default_en.aspx?tabid=467&idmid=3&ItemID=14459|title=Area, population and population density in 2012 by province|publisher=General Statistics Office Of Vietnam}}</ref>
+| {{nts|3667}}
+| {{VIE}}
+|-
+|31
+| [[Faisalābāda]]
+| [[Attēls:Clocktower Faisalabad, Panorama.jpg|125px]]
+| {{nts|7310691}}<ref>{{tīmekļa atsauce|title=DISTRICT GOVERNMENT FAISALABAD: Strategic Policy Unit: DISTRICT PROFILE|url=http://siteresources.worldbank.org/PAKISTANEXTN/Resources/293051-1114424648263/Session-VI-Faisalabad.pdf|publisher=DISTRICT FAISALABAD|accessdate=17 February 2014|archiveurl=https://web.archive.org/web/20140223001237/http://siteresources.worldbank.org/PAKISTANEXTN/Resources/293051-1114424648263/Session-VI-Faisalabad.pdf|archivedate={{dat|2014|02|23||bez}}}}</ref>
+| Pilsētas rajons
+| {{nts|5856}}
+| {{nts|1248}}
+| {{PAK}}
+|-
+|32
+| [[Honkonga]]
+| [[Attēls:Hong Kong view from The Peak 01.jpg|125px]]
+| {{nts|7108100}}<ref name="HongKongPop">{{Tīmekļa atsauce |url=http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=1&displayMode=T |title=Census and Statistics Department, Hong Kong; Population and Vital Events |access-date={{dat|2011|07|08||bez}} |archiveurl=https://web.archive.org/web/20080519100835/http://www.censtatd.gov.hk/hong_kong_statistics/statistics_by_subject/index.jsp?subjectID=1&charsetID=1&displayMode=T |archivedate={{dat|2008|05|19||bez}} }} Retrieved on 2011-10-18. Estimated population in mid-2011.</ref>
+| Sevišķs administratīvais rajons
+| {{nts|1108}}<ref>{{tīmekļa atsauce|url=http://www.pland.gov.hk/pland_en/info_serv/statistic/landu.html|title=Hong Kong: Broad Land Usage Distribution|publisher=Planning Department: The Government of the Hong Kong Special Administration Region|accessdate=18 October 2011|archiveurl=https://web.archive.org/web/20131019212830/http://www.pland.gov.hk/pland_en/info_serv/statistic/landu.html|archivedate={{dat|2013|10|19||bez}}}}</ref>
+| {{nts|6415}}
+| {{flaga|Honkonga}} [[Honkonga]]
+|-
+|33
+| [[Hanoja]]
+| [[Attēls:Hanoi Skyline.JPG|125px]]
+| {{nts|6844100}}<ref name="vietnam1" />
+| Province
+| {{nts|3323.6}}<ref name="vietnam2" />
+| {{nts|2059}}
+| {{VIE}}
+|-
+|34
+| [[Haidarābādu]]
+| [[Attēls:MindSpace campus in Hyderabad, India.jpg|125px]]
+| {{nts|6809970}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|621.48}}<ref name="Hyd1">{{tīmekļa atsauce|url=http://www.ghmc.gov.in/greaterhyd.asp|title=Greater Hyderabad Municipal corporation 2010|publisher=GHMC|accessdate=12-04-2010|archiveurl=https://web.archive.org/web/20160101224338/http://www.ghmc.gov.in/greaterhyd.asp|archivedate={{dat|2016|01|01||bez}}}}</ref>
+| {{nts|10958}}
+| {{IND}}
+|-
+|35
+| [[Uhaņa]]
+| [[Attēls:Wuhan from Yellow Crane Tower.jpg|125px]]
+| {{nts|6434373}}<ref name="wuhan">{{tīmekļa atsauce|title=武汉市2010年第六次全国人口普查主要数据公报 (Main Data from Wuhan 2010 Census)|url=http://www.whtj.gov.cn/Article/ShowArticle.aspx?id=6417|publisher=Wuhan Statistics Bureau|date=10 May 2011|accessdate=31 July 2011|archiveurl=https://web.archive.org/web/20111025103716/http://www.whtj.gov.cn/Article/ShowArticle.aspx?id=6417|archivedate={{dat|2011|10|25||bez}}}} Total population as of 2010-11-01 of the central districts: Jiang'an, Jianghan, Qiaokou, Hanyang, Wuchang, Qingshan, and Hongshan, as defined in Wuhan Statistical Yearbook 2010</ref> <br>{{Citation needed|reason=number not in source|date=August 2011}}
+| Pamata rajoni<ref name=nbsurban>Refers to fully urban districts, that is districts with a population density of over 1,500 per km².</ref>
+| {{nts|888.42}}<ref>{{Tīmekļa atsauce |url=http://www.whtj.gov.cn/documents/tjnj2010.pdf |title=Wuhan Statistical Yearbook 2010 |access-date={{dat|2011|11|05||bez}} |archiveurl=https://web.archive.org/web/20111105213243/http://www.whtj.gov.cn/documents/tjnj2010.pdf |archivedate={{dat|2011|11|05||bez}} }} p. 15</ref>
+| {{nts|7242}}
+| {{CHN}}
+|-
+|36
+| [[Riodežaneiro]]
+| [[Attēls:Rio de Janeiro night.jpg|125px]]
+| {{nts|6429923}}<ref name="brazil1" />
+| Pilsētas robežas
+| {{nts|1182.3}}<ref>[http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm?c=5]</ref>
+| {{nts|5438}}
+| {{BRA}}
+|-
+|37
+| [[Fošaņa]]
+| [[Attēls:Downtown of Guicheng.jpg|125px]]
+| {{nts|6151622}}<ref>{{tīmekļa atsauce|title=佛山2010年第六次全国人口普查主要数据公报[1]|url=http://fs.house.sina.com.cn/news/2011-05-16/094028198.shtml|work=City of Foshan|accessdate=30 January 2014|archive-date=2014-02-02|archive-url=https://web.archive.org/web/20140202204550/http://fs.house.sina.com.cn/news/2011-05-16/094028198.shtml}}</ref><ref>Districts of Changcheng, Nanhai, Shunde; see [[Foshan#Administration]]</ref>
+| Pamata rajoni + priekšpilsētas
+| {{nts|2034}}
+| {{nts|3024}}
+| {{CHN}}
+|-
+|38
+| [[Bagdāde]]
+| [[Attēls:Haifa street, as seen from the medical city hospital across the tigres.jpg|125px]]
+| {{nts|6150000}}<ref>{{tīmekļa atsauce|title=IRAQ: The population of the provinces and province capitals of the Republic of Iraq.|url=http://www.citypopulation.de/Iraq.html|accessdate=15 February 2014}}</ref> 
+| Pilsētas robežas
+| {{nts|1134}}
+| {{nts|5420}}
+| {{IRQ}}
+|-
+|39
+| [[Amdāvāda]]
+| [[Attēls:Amdavad Aerial.jpg|125px]]
+| {{nts|5570585}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|475}}
+| {{nts|11727}}
+| {{IND}}
+|-
+|40
+| [[Singapūra]]
+| [[Attēls:Singapore Skyline at Night with Blue Sky.JPG|125px]]
+| {{nts|5399200}}<ref>{{tīmekļa atsauce|title=POPULATION IN BRIEF 2013|url=http://www.singstat.gov.sg/statistics/browse_by_theme/population/statistical_tables/popinbrief2013.pdf|work=http://www.singstat.gov.sg/|publisher=Singapore|accessdate=22 January 2014|archiveurl=https://web.archive.org/web/20131113144038/http://www.singstat.gov.sg/statistics/browse_by_theme/population/statistical_tables/popinbrief2013.pdf|archivedate={{dat|2013|11|13||bez}}}}</ref> 
+| Valsts
+| {{nts|712.4}}
+| {{nts|7579}}
+| {{SIN}}
+|-
+|41
+| [[Šaņtou]]
+| [[Attēls:China-shantou03.jpg|125px]]
+| {{nts|5391028}}<ref>{{tīmekļa atsauce|title=现将汕头市2010年第六次全国人口普查分区县常住人口[2]数据公布如下：|url=http://sttj.shantou.gov.cn/6rkpc/20110519.html|work=汕头市2010年第六次全国人口普查  主要数据公报[1]|accessdate=30 January 2014|archiveurl=https://web.archive.org/web/20140424121611/http://sttj.shantou.gov.cn/6rkpc/20110519.html|archivedate={{dat|2014|04|24||bez}}}}</ref> 
+| Prefektūra
+| {{nts|2064.42}}
+| {{nts|2611}}
+| {{CHN}}
+|-
+|42
+| [[Rijāda]]
+| [[Attēls:The king Abdullah Financial District..JPG|125px]]
+| {{nts|5188286}}<ref name="SaudiCensus2010">{{Tīmekļa atsauce |url=http://www.cdsi.gov.sa/pdf/census31-prim-05.pdf |title=Central Department of Statistics and Information, Saudi Arabia; Population of cities with at least 5,000 inhabitants, at the 2010 Population Census ('''pdf, in arabic''') |access-date={{dat|2013|03|16||bez}} |archiveurl=https://web.archive.org/web/20120311140301/http://www.cdsi.gov.sa/pdf/census31-prim-05.pdf |archivedate={{dat|2012|03|11||bez}} }} Retrieved on 2010-12-13.</ref>
+| Pilsētas robežas
+| {{nts|800}}
+| {{nts|6485}}
+| {{KSA}}
+|-
+|43
+| [[Sanktpēterburga]]
+| [[Attēls:St Petersburg Neva River004.jpg|125px]]
+| {{nts|5131967}}<ref name="2014Est">[[Goskomstat|Rosstat]]. [http://www.gks.ru/free_doc/new_site/population/demo/PrPopul.xls Оценка численности постоянного населения на 1 января 2014 г.] {{Webarchive|url=https://web.archive.org/web/20181225132215/http://www.gks.ru/free_doc/new_site/population/demo/PrPopul.xls%0A |date={{dat|2018|12|25||bez}} }} {{ru icon}}</ref>
+| Pilsētas robežas
+| {{nts|1399}}<ref name="RusArea2009"/>
+| {{nts|3668}}
+| {{RUS}}
+|-
+|44
+|[[Džida]]
+|
+|{{nts|5112018}}<ref name="SaudiCensus2010" />
+| Pilsētas robežas
+|{{nts|1230}}
+|{{nts|2789}}
+|{{SAU}}
+|-
+|45
+| [[Santjago]]
+| [[Attēls:Santiago de Chile.jpg|125px]]
+| {{nts|4977637}}<ref>{{tīmekļa atsauce|title=Santiago (Municipality, Santiago)|url=http://www.citypopulation.de/php/chile-santiago.php?cid=13101|accessdate=15 February 2014}}</ref> 
+| Province<ref>Composed of 32 independent municipalities</ref>
+| {{nts|2030}}
+| {{nts|2452}}
+| {{CHI}}
+|-
+|46
+| [[Kaljūba]]
+| [[Attēls:NileInBenha.jpg|125px]]
+| {{nts|4811673}}<ref name="Capmas2013"/><ref>Spelled “Kalyoubia” in the source cited.</ref> 
+| Guberņa
+| {{nts|1001.09}}<ref>{{tīmekļa atsauce|title=Qalyubia Governorate|url=http://www.egypttravelsearch.net/Cities/Qalyubia_Governorate.html|work=http://www.egypttravelsearch.net/|publisher=Egypt Travel Search: Your Amazing Key to Egypt|accessdate=22 January 2014|archiveurl=https://web.archive.org/web/20141228191317/http://www.egypttravelsearch.net/Cities/Qalyubia_Governorate.html#|archivedate={{dat|2014|12|28||bez}}}}</ref> 
+| {{nts|4806}}
+| {{EGY}}
+|-
+|47
+| [[Čendu]]
+| [[Attēls:The entrance of Chunxi street Chengdu.jpg|125px]]
+| {{nts|4741929}}<ref name="2010census">{{tīmekļa atsauce|url=http://www.chengdu.gov.cn/govAffairInfo/detail.jsp?id=425258|title=我市2010年第六次全国人口普查数据公报 |publisher=Government of Chengdu|date=2011-05-13|language=Chinese|accessdate=2011-08-04}}</ref>
+| Pilsētas robežas
+| {{nts|421}}<ref name="2010census" />
+| {{nts|11260}}
+| {{CHN}}
+|-
+|48
+| [[Gīza]]
+| [[Attēls:All Gizah Pyramids.jpg|125px]]
+| {{nts|4630524}}<ref name="EGYPT: Greater Cairo">{{tīmekļa atsauce|title=EGYPT: Greater Cairo|url=http://www.citypopulation.de/php/egypt-greatercairo.php|work=citypopulation.de|accessdate=20 February 2014}}</ref> 
+| Pilsētas robežas<ref>All districts that are listed as being in Greater Cairo and are contiguous; namely Ad-Duqī, Al-Ahrām; Al-'Ajūzah; Al-Badrashayn; Al-Ḥawāmidiyah; Al-Jīzah; Al-Jīzah; Al-'Umrāniyah; Al-Warrāq; Awsīm; Būlāq al-Dakrūr; Imbābah; Kirdāsah.</ref>
+| {{nts|428.25}}<ref name="EGYPT: Greater Cairo"/>
+| {{nts|10812.67}}
+| {{EGY}}
+|-
+|49
+| [[Aleksandrija]]
+| [[Attēls:Kafr Abdou, Alexandria, Egypt.jpg|125px]]
+| {{nts|4616625}}<ref name="Capmas2013"/> 
+| Guberņa
+| {{nts|1802.24}}<ref>{{tīmekļa atsauce|title=EGYPT: Alexandria|url=http://www.citypopulation.de/php/egypt-alexandria-admin.php|work=citypopulation.de|accessdate=17 February 2014}}</ref> 
+| {{nts|2561.6}}
+| {{EGY}}
+|-
+|50
+| [[Čuncjina]]
+| [[Attēls:Chongqing 005.jpg|125px]]
+| {{nts|4513100}}<ref name="chongqing">{{ziņu atsauce|title=重庆市2010年第六次全国人口普查主要数据公报 (Main Data from Chongqing 2010 Census)|url=http://news.163.com/11/0503/01/733HTAIV00014AED.html|newspaper=NetEase|date=10 May 2011|accessdate=31 July 2011|archiveurl=https://web.archive.org/web/20110711230324/http://news.163.com/11/0503/01/733HTAIV00014AED.html|archivedate={{dat|2011|07|11||bez}}}} Total population as of 2010-11-01 of the following districts: Yuzhong, Dadukou, Jiangbei, Shapingba, Jiulongpo, and Nan'an</ref> 
+| Pamata rajoni<ref name=nbsurban/>
+| {{nts|1435}}
+| {{nts|3145}}
+| {{CHN}}
+|-
+|51
+| [[Kolkata]]
+| [[Attēls:Victoria Memorial Hall, Kolkata.jpg|125px]]
+| {{nts|4486679}}<ref name="india1"/>
+| Pašvaldību apvienība
+| {{nts|200.7}}
+| {{nts|24252}}
+| {{IND}}
+|-
+|52
+| [[Siaņa]]
+| [[Attēls:Xi'an erhuan southeast.JPG|125px]]
+| {{nts|4483426}}<ref>{{tīmekļa atsauce|title=西安市2010年第六次全国人口普查主要数据公报[1]|url=http://news.163.com/11/0525/03/74SC9U2E00014AED.html|work=Chinese Census 2010|accessdate=30 January 2014|archiveurl=https://web.archive.org/web/20151208053640/http://news.163.com/11/0525/03/74SC9U2E00014AED.html|archivedate={{dat|2015|12|08||bez}}}}</ref> 
+| Pilsētas robežas<ref>Includes all districts with over 1500 people per km<sup>2</sup>: Xīnchéng, Bēilín, Liánhú, Bàqiáo, Wèiyāng, Yàntǎ</ref>
+| {{nts|832}}
+| {{nts|5388}}
+| {{CHN}}
+|-
+|53
+| [[Sūrata]]
+| [[Attēls:GauravPath1.jpg|125px]]
+| {{nts|4462002}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|326.515}}<ref>{{Tīmekļa atsauce |url=http://www.suratmunicipal.gov.in/content/city/demographics.shtml |title=Demographics: Surat Municipal Corporation |access-date={{dat|2009|02|07||bez}} |archiveurl=https://web.archive.org/web/20090404112933/http://www.suratmunicipal.gov.in/content/city/demographics.shtml |archivedate={{dat|2009|04|04||bez}} }}</ref>
+| {{nts|13666}}
+| {{IND}}
+|-
+|54
+| [[Johannesburga]]
+| [[Attēls:South Africa-Johannesburg-Hillbrow001.jpg|125px]]
+| {{nts|4434827}}<ref>{{tīmekļa atsauce|title=City of Johannesburg|url=http://beta2.statssa.gov.za/?page_id=1021&id=city-of-johannesburg-municipality|work=Statistics South Africa|publisher=beta2|accessdate=23 December 2013}}</ref> 
+| Metropoles pašvaldība
+| {{nts|1645}}
+| {{nts|2696}}
+| {{ZAF}}
+|-
+|55
+| [[Naņdzjina]]
+| 
+| {{nts|4393857}}<ref>Districts of Xuanwu, Qinhuai, Jianye, Gulou, Yuhuatai, Qixia; see [[Nanjing#Administrative divisions|Administrative divisions]]</ref> 
+| Pilsētas robežas
+| {{nts|742.85}}
+| {{nts|5915}}
+| {{CHN}}
+|-
+|56
+| [[Dāresalāma]]
+| [[Attēls:Dar es Salaam before dusk.jpg|125px]]
+| {{nts|4364541}}<ref>{{tīmekļa atsauce|last=Pinda|first=Mizengo Peter|title=Welcome to the 2012 Tanzania Population and Housing Census WebPage.|url=http://www.nbs.go.tz/sensa/new.html|work=Census General Report (pdf); available by clicking “Population Distribution by Administrative Units”|publisher=National Bureau of Statistics of Tanzania|accessdate=28 December 2013|archiveurl=https://web.archive.org/web/20140105051305/http://www.nbs.go.tz/sensa/new.html|archivedate={{dat|2014|01|05||bez}}}}</ref> 
+| Reģions
+| {{nts|1590.5}}
+| {{nts|2744}}
+| {{TZA}}
+|-
+|57
+| [[Jangona]]
+| [[Attēls:Yangoon-south.jpg|125px]]
+| {{nts|4350000}}<ref name=UN/>
+| Pilsētas robežas
+| {{nts|598.75}}<ref>{{Tīmekļa atsauce |url=http://www.uncrd.or.jp/env/3rd-regional-est-forum/doc/23_Myanmar.pdf |title=Third Regional EST Forum, Presentation of Myanmar |access-date={{dat|2009|02|26||bez}} |archiveurl=https://web.archive.org/web/20090226114154/http://www.uncrd.or.jp/env/3rd-regional-est-forum/doc/23_Myanmar.pdf |archivedate={{dat|2009|02|26||bez}} }}. Retrieved 6 June 2009.</ref>
+| {{nts|6828}}
+| {{flaga|Mjanma}} [[Mjanma]]
+|-
+|58
+| [[Abidžana]]
+| [[Attēls:Abidjanpyramid.JPG|125px]]
+| {{nts|4288000}}<ref>{{tīmekļa atsauce|url=https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html|title=The World Factbook|publisher=Central Intelligence Agency|accessdate=3 February 2014|archive-date={{dat|2020|08|31||bez}}|archive-url=https://web.archive.org/web/20200831020553/https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html}}</ref> 
+| Rajons
+| {{nts|2119}}
+| {{nts|2024}}
+| {{CIV}}
+|-
+|59
+| [[Harbina]]
+| [[Attēls:Tower at Harbin Ice and Snow Festival 2012.jpg|125px]]
+| {{nts|4280701}}<ref>{{tīmekļa atsauce|title=黑龙江省2010年第六次全国人口普查主要数据公报|url=http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228_30390.html|publisher=National Bureau of Statistics of the People's Republic of China|accessdate=3 February 2014}}</ref><ref>All city proper districts except Sōngběi; namely Dàolǐ, Nángǎng, Dàowài, Píngfáng, Xiāngfang; see [[Harbin#Administrative divisions]]</ref>
+| Pilsētas robežas
+| {{nts|1718.2}}<ref>{{tīmekļa atsauce|title=中国年鉴信息网--中国规模最大、实力最强的研究报告提供商！|url=http://www.chinayearbook.com/pcbook/item/1/153934.html|work=Harbin Yearbook|publisher=China Yearbook|accessdate=3 February 2014|archive-date={{dat|2016|05|06||bez}}|archive-url=https://web.archive.org/web/20160506174236/http://www.chinayearbook.com/pcbook/item/1/153934.html}}</ref>
+| {{nts|2491.4}}
+| {{CHN}}
+|-
+|60
+| [[Ankara]]
+| [[Attēls:Ankara and mosque wza.jpg|125px]]
+| {{nts|4236581}}<ref>{{tīmekļa atsauce|title=TURKEY: Ankara|url=http://www.citypopulation.de/php/turkey-ankara.php|publisher=citypopulation.de|accessdate=20 February 2014}}</ref> 
+| Administratīvā vienība<ref>All districts with population density ρ > 1000 km<sup>-2</sup>: Altındağ; Çankaya; Etimesgut; Keçiören; Mamak; Sincan; Yenimahalle.</ref><ref>{{tīmekļa atsauce|title=TURKEY: Ankara|url=http://www.citypopulation.de/php/turkey-ankara.php|work=citypopulation.de|accessdate=20 February 2014}}</ref><ref>{{tīmekļa atsauce|title=Districts of Turkey|url=http://www.statoids.com/ytr.html|accessdate=20 February 2014}}</ref><ref>Of the 25 districts surveyed, 3 did not have area listed on [http://www.citypopulation.de/php/turkey-ankara.php] “TURKEY: Ankara”: Bala*, Haymana*; Yenimahalle. For the areas of these districts see [http://www.statoids.com/ytr.html] “Districts of Turkey”. * = ρ < 1000 km<sup>-2</sup>, hence not on list of Core Districts.</ref>
+| {{nts|1762.76}}
+| {{nts|2403.38}}
+| {{TUR}}
+|-
+|61
+| [[Džendžou]]
+| [[Attēls:Zhengzhounewdongqu.jpg|125px]]
+| {{nts|4122087}}<ref>All Urban Districts except Shangjie; the following districts: Jinshui, Erqi, Huiji, Guangcheng, Zhongyuan; see [[Zhengzhou#Administration and demography]]</ref>
+| Pilsētas robežas
+| {{nts|1006}}
+| {{nts|4097}}
+| {{CHN}}
+|-
+|62
+| [[Sudžou]]
+| [[Attēls:China Suzhou Jinjihu Lake.jpg|125px]]
+| {{nts|4074000}}<ref name=suzhou>{{tīmekļa atsauce | url=http://xxw3441.blog.163.com/blog/static/7538362420114912715355 | title=苏州市2010年第六次全国人口普查主要数据公报 (Main Data from Suzhou 2010 Census) | publisher=Suzhou Statistics Bureau | date=3 May 2011 | accessdate=3 May 2011 | archiveurl=https://web.archive.org/web/20131019235449/http://xxw3441.blog.163.com/blog/static/7538362420114912715355 | archivedate={{dat|2013|10|19||bez}} }}</ref>
+| Pilsētas robežas<ref>Based on the following districts: Pingjiang,Canglang,Jinchang,Huqiu,Wuzhong,Xiangcheng,SND,SIP.</ref>
+| {{nts|1679.2}}
+| {{nts|2426}}
+| {{CHN}}
+|-
+|63
+| [[Sidneja]]
+| [[Attēls:Sydney Opera House - Dec 2008.jpg|125px]]
+| {{nts|3956000}}<ref name="Demographia">{{tīmekļa atsauce|title=DEMOGRAPHIA: Demographia World Urban Areas  (World Agglomerations)|url=http://www.demographia.com/db-worldua.pdf|publisher=Demographia|accessdate=22 January 2014}}</ref> 
+| Pašvaldība
+| {{nts|2037}}<ref name="Demographia"/>
+| {{nts|1942}}
+| {{AUS}}
+|-
+|64
+| [[Taipeja]]
+| [[Attēls:Taipei Rushhour birdseye.JPG|125px]]
+| {{nts|3910086}}<ref>{{tīmekļa atsauce|url=http://www.ris.ntpc.gov.tw/_file/1392/SG/25351/D.html|title=New Taipei City|publisher=Household Registration Service, New Taipei City Government|language=Chinese|accessdate=18 October 2011|archiveurl=https://web.archive.org/web/20120425075237/http://www.ris.ntpc.gov.tw/_file/1392/SG/25351/D.html|archivedate={{dat|2012|04|25||bez}}}}</ref>
+| Sevišķa pašvaldība
+| {{nts|2052.5667}}<ref>{{tīmekļa atsauce|url=http://foreigner.ntpc.gov.tw/web/SG?command=display&pageID=36568&FP=D40000002968000000_5|title=New Taipei City|publisher=New Taipei City Government|accessdate=18 October 2011|archiveurl=https://archive.today/20120709080120/http://foreigner.ntpc.gov.tw/web/SG?command=display&pageID=36568&FP=D40000002968000000_5|archivedate={{dat|2012|07|09||bez}}}}</ref>
+| {{nts|1905}}
+| {{flaga|Taivāna}} [[Ķīnas Republika]]
+|-
+|65
+| [[Losandželosa]]
+| [[Attēls:LosAngeles06.jpg|125px]]
+| {{nts|3819702}}<ref name=uscensus>{{tīmekļa atsauce |url=http://2010.census.gov/2010census/popmap/ |title=Interactive Population Map |publisher=US Census Bureau |accessdate=2011-08-03 |archiveurl=https://web.archive.org/web/20131013222920/http://2010.census.gov/2010census/popmap/ |archivedate=2013-10-13 }}</ref>
+| Pilsētas robežas
+| {{nts|1290}}
+| {{nts|2940}}
+| {{USA}}
+|-
+|66
+| [[Melburna]]
+| [[Attēls:Melbourne by night.jpg|125px]]
+| {{nts|3761000}}<ref name="Demographia"/>
+| Urbānā teritorija
+| {{nts|2543}}<ref name="Demographia"/> 
+| {{nts|1479}}
+| {{AUS}}
+|-
+|67
+| [[Keiptauna]]
+| [[Attēls:Central Cape Town.jpg|125px]]
+| {{nts|3740026}}<ref name="City of Cape Town">{{tīmekļa atsauce|title=City of Cape Town|url=http://beta2.statssa.gov.za/?page_id=1021&id=city-of-cape-town-municipality|publisher=Statistics South Africa|accessdate=31 January 2014}}</ref> 
+| Metropoles pašvaldība
+| {{nts|2461}}<ref name="City of Cape Town"/>
+| {{nts|1520}}
+| {{ZAF}}
+|-
+|68
+| [[Šeņjana]]
+| [[Attēls:Shenyang Zentrum.jpg|125px]]
+| {{nts|3717098
+}}<ref>Districts of Shenhe, Heping, Dadong, Huangu, Tiexi; see [[Shenyang#Districts and zones|Districts and zones]]</ref>
+| Pamata rajoni
+| {{nts|166}}
+| {{nts|22392}}
+| {{CHN}}
+|-
+|69
+| [[Jokohama]]
+| [[Attēls:Minato Mirai In Blue.jpg|125px]]
+| {{nts|3680267}}<ref name="StatJapMonthlyCityYokohama">{{Tīmekļa atsauce |url=http://www.pref.kanagawa.jp/tokei/tokei/204/jinko.html |title=Official monthly estimated de jure population by the Kanagawa Prefectural Government |access-date={{dat|2012|04|24||bez}} |archiveurl=https://web.archive.org/web/20120424041142/http://www.pref.kanagawa.jp/tokei/tokei/204/jinko.html |archivedate={{dat|2012|04|24||bez}} }} (in Japanese). Population estimate on 2010-06-01.</ref>
+| Pilsētas robežas
+| {{nts|437.38}}
+| {{nts|8414}}
+| {{JPN}}
+|-
+|70
+| [[Pusana]]
+| [[Attēls:August Afternoon in Haeundae 2.jpg|125px]]
+| {{nts|3590101}}<ref name="kosispop">[http://www.mospa.go.kr/gpms/ns/mogaha/user/userlayout/bulletin/userBtView.action?userBtBean.bbsSeq=1023919&userBtBean.ctxCd=1012&userBtBean.ctxType=21010002&userBtBean.categoryCd=] {{Webarchive|url=https://web.archive.org/web/20160304090806/http://www.mospa.go.kr/gpms/ns/mogaha/user/userlayout/bulletin/userBtView.action?userBtBean.bbsSeq=1023919&userBtBean.ctxCd=1012&userBtBean.ctxType=21010002&userBtBean.categoryCd= |date={{dat|2016|03|04||bez}} }}, Retrieved 2013-07-01.</ref>
+| Metropoles pilsēta
+| {{nts|766.12}}<ref name="kosispop" />
+| {{nts|4686}}
+| {{KOR}}
+|-
+|71
+| [[Handžou]]
+| [[Attēls:Hangzhou-yellow-dragon-stad.jpg|125px]]
+| {{nts|3560391}}<ref name="stat">{{tīmekļa atsauce |url=http://www.hzstats.gov.cn/web/ShowNews.aspx?id=DwGeRFDvlVg= |title=杭州市 2010年国民经济和社会发展统计公报 |accessdate=2011-09-15 |date=2011-02-24 |publisher=Hangzhou Municipal Statistic Bureau |language=Simplified Chinese |archiveurl=https://web.archive.org/web/20110903121404/http://www.hzstats.gov.cn/web/ShowNews.aspx?id=DwGeRFDvlVg%3D |archivedate=2011-09-03 }}</ref>
+| Pamata rajoni
+| {{nts|728.19}}<ref name="stat" />
+| {{nts|4889}}
+| {{CHN}}
+|-
+|72
+| [[Cjuaņdžou]]
+| [[Attēls:Lingshan Islamic Cemetery - city view - DSCF8486.JPG|125px]]
+| {{nts|3520846}}
+<ref>Following sections: Licheng District, Fengze District, Shishi City, Jinjiang City; see [[Quanzhou#Administrative divisions]]</ref>
+| Pamata rajoni
+| {{nts|1062}}
+| {{nts|3315}}
+| {{CHN}}
+|-
+|73
+| [[Durbana]]
+| [[Attēls:Durban 21.08.2009 12-56-40.jpg|125px]]
+| {{nts|3442361}}<ref>{{tīmekļa atsauce|title=Ethekwini|url=http://beta2.statssa.gov.za/?page_id=1021&id=ethekwini-municipality|publisher=Statistics South Africa|accessdate=31 January 2014}}</ref> 
+| Metropoles pašvaldība
+| {{nts|2297}}
+| {{nts|1499}}
+| {{ZAF}}
+|-
+|74
+| [[Kasablanka]]
+| [[Attēls:CasablancaFAR.jpg|125px]]
+| {{nts|3427000}}<ref>[http://www.wmaker.net/myhcp2011/file/112824/ HCP, Centre d’Etudes et de Recherches Démographiques (CERED)] {{Webarchive|url=https://web.archive.org/web/20130126002610/http://www.wmaker.net/myhcp2011/file/112824/ |date={{dat|2013|01|26||bez}} }} (2009)</ref>
+| Pilsētas robežas
+| {{nts|386}}
+| {{nts|8878}}
+| {{MAR}}
+|-
+|75
+| [[Alžīra]]
+| [[Attēls:Alger Tunnel-des-Facultes - Place-Maurice-Audin IMG 0236.JPG|125px]]
+| {{nts|3415811}}<ref name=citypop>{{tīmekļa atsauce| url= http://citypopulation.de/Algeria.html| title= Population of the city proper according to the 2008 census| publisher= Citypopulation.de| date= | accessdate= 2010-06-27| archiveurl= https://web.archive.org/web/20100615060640/http://www.citypopulation.de/Algeria.html| archivedate= 2010-06-15| deadurl= no}}</ref><ref name=wup>{{tīmekļa atsauce |url=http://esa.un.org/unup/index.asp?panel=2 |title=UN World Urbanization Prospects |publisher=Esa.un.org |date= |accessdate=2013-12-23 |archiveurl=https://web.archive.org/web/20091223005931/http://esa.un.org/unup/index.asp?panel=2 |archivedate=2009-12-23 }}</ref>
+| Pilsētas robežas
+| {{nts|363}}
+| {{nts|9400}}
+| {{ALG}}
+|-
+|76
+| [[Berlīne]]
+| [[Attēls:Über den Dächern von Berlin.jpg|125px]]
+| {{nts|3401147}}<ref>{{tīmekļa atsauce|url=https://www.statistik-berlin-brandenburg.de/Publikationen/OTab/2014/OT_A01-10-00_124_201308_BE.pdf|title=Population of Berlin|publisher=Statistics Agency Berlin-Brandenburg|year=2013|accessdate=2013-07-07|archiveurl=https://web.archive.org/web/20140201174355/https://www.statistik-berlin-brandenburg.de/Publikationen/OTab/2014/OT_A01-10-00_124_201308_BE.pdf|archivedate=2014-02-01}}</ref>
+| Valsts pilsēta
+| {{nts|892}}
+| {{nts|3813}}
+| {{DEU}}
+|-
+|77
+| [[Nairobi]]
+| [[Attēls:NBO5.jpg|125px]]
+|{{nts|3375000}}<ref>{{tīmekļa atsauce|title=Kenya Demographics Profile 2013|url=http://www.indexmundi.com/kenya/demographics_profile.html|work=http://www.indexmundi.com/|publisher=Index Mundi|accessdate=28 December 2013}}</ref> 
+| Valsts pilsēta
+|{{nts|696}}
+|{{nts|4849}}
+|{{KEN}}
+|-
+|78
+| [[Hefei]]
+| [[Attēls:Hefei downtown.jpg|125px]]
+| {{nts|3352076}}<ref name="2010 sixth national population census data bulletin [1]">{{tīmekļa atsauce|title=合肥市2010年第六次全国人口普查主要数据公报[1]|url=http://news.hf365.com/system/2011/06/14/010900374.shtml|publisher=Hefei|accessdate=15 February 2014|archive-date={{dat|2019|06|17||bez}}|archive-url=https://web.archive.org/web/20190617211622/http://news.hf365.com/system/2011/06/14/010900374.shtml}}</ref><ref>{{tīmekļa atsauce|title=合肥市2010年第六次全国人口普查主要数据公报: 合肥市2010年第六次全国人口普查主要数据公 报[1]|url=http://wenku.baidu.com/view/5adc27c29ec3d5bbfd0a74db.html|publisher=Baidu|accessdate=15 February 2014|archive-date={{dat|2017|07|11||bez}}|archive-url=https://web.archive.org/web/20170711083138/https://wenku.baidu.com/view/5adc27c29ec3d5bbfd0a74db.html}}</ref><ref>Includes the following districts: [[Yaohai District|Yaohai]], [[Luyang District|Luyang]], [[Shushan District|Shushan]], [[Baohe District|Baohe]]; see [[Hefei#Administration]]</ref>
+| Pamata rajoni
+| {{nts|838.52}}
+| {{nts|3998}}
+| {{CHN}}
+|-
+|79
+| [[Pešāvara]]
+| [[Attēls:Sunehri maseet da booa.JPG|125px]]
+| {{nts|3300000}}<ref>{{tīmekļa atsauce|title=Sanctuary in the city? Urban displacement and  vulnerability in Peshawar,  Pakistan: HPG Working Paper: May 2013|url=http://www.odi.org.uk/sites/odi.org.uk/files/odi-assets/publications-opinion-files/8389.pdf|publisher=Irina Mosel and Ashley Jackson|accessdate=17 February 2014|archive-date={{dat|2014|02|22||bez}}|archive-url=https://web.archive.org/web/20140222162357/http://www.odi.org.uk/sites/odi.org.uk/files/odi-assets/publications-opinion-files/8389.pdf}}</ref><ref>Said source suggests a population growth of 3.29%/year (p. 12); and the 1998 census indicated a population of {{nts|2026851}} <nowiki>[</nowiki> [http://www.pbs.gov.pk/content/district-glance-peshaware District at a glance peshaware] {{Webarchive|url=https://web.archive.org/web/20140223114305/http://www.pbs.gov.pk/content/district-glance-peshaware |date={{dat|2014|02|23||bez}} }}, Pakistan bureau of Statistics<nowiki>]</nowiki>, which, if it were to grow by 3.29 %/year, would reach {{nts|3294000}} by 2013 (the population of {{nts|3300000}}) is actually estimated for 2012.</ref>
+| Pilsētas rajons
+| {{nts|1257}}<ref>{{tīmekļa atsauce|title=PESHAWAR PROFILE|url=https://greenenv.blog.com/files/2009/06/peshawar-profile.doc|accessdate=17 February 2014}}{{Novecojusi saite}}</ref> 
+| {{nts|2620}}
+| {{PAK}}
+|-
+|80
+| [[Kabula]]
+| [[Attēls:Khair Khana in 2012.jpg|125px]]
+| {{nts|3289000}}<ref>{{tīmekļa atsauce|title=Population of Kabul City by District and Sex 2012-13|url=http://cso.gov.af/Content/files/Population%20of%20Kabul%20City%20by%20District%20and%20Sex.pdf|work=http://cso.gov.af/|publisher=Central Statistics Organization (Afghanistan)|accessdate=28 December 2013|archive-date={{dat|2013|12|28||bez}}|archive-url=https://web.archive.org/web/20131228091845/http://cso.gov.af/Content/files/Population%20of%20Kabul%20City%20by%20District%20and%20Sex.pdf}}</ref> 
+| Pilsētas robežas
+| {{nts|275}}
+| {{nts|11960}}
+| {{AFG}}
+|-
+|81
+| [[Phenjana]]
+| [[Attēls:0322 Pyongyang Turm der Juche Idee Aussicht.jpg|125px]]
+| {{nts|3255388}}<ref>[http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/North_Korea/2008_North_Korea_Census.pdf United Nations Statistics Division; Preliminary results of the 2008 Census of Population of the Democratic People’s Republic of Korea conducted on 1-15 October 2008 ('''pdf-file''')] {{Webarchive|url=https://web.archive.org/web/20090325102712/http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/North_Korea/2008_North_Korea_Census.pdf |date={{dat|2009|03|25||bez}} }} Retrieved on 2009-03-01.</ref>
+| Tiešās kontroles pašvaldība
+| {{nts|3194}}
+| {{nts|1019}}
+| {{PRK}}
+|-
+|82
+| [[Madride]]
+| [[Attēls:Plaza de Colón (Madrid) 06.jpg|125px]]
+| {{nts|3207247}}<ref>{{tīmekļa atsauce|title=Municipal Register: Last data published: Population at 1st January 2013|url=http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft20%2Fe260&file=inebase&L=|publisher=Instituto Nacional de Estadística (INE; Spain)|accessdate=21 February 2014|archive-date={{dat|2013|12|08||bez}}|archive-url=https://web.archive.org/web/20131208094936/http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft20%2Fe260&file=inebase&L=}}</ref>
+| Pašvaldība
+| {{nts|698}}
+| {{nts|4595}}
+| {{ESP}}
+|-
+|83
+| [[Ekurhuleni]]
+| [[Attēls:Germiston CBD.jpg|125px]]
+| {{nts|3178470}}<ref>{{tīmekļa atsauce|title=Ekurhuleni|url=http://beta2.statssa.gov.za/?page_id=1021&id=ekurhuleni-municipality|work=Statistics South Africa|publisher=beta2|accessdate=23 December 2013}}</ref> 
+| Metropoles pašvaldība
+| {{nts|1975}}
+| {{nts|1609}}
+| {{ZAF}}
+|-
+|84
+| [[Pune]]
+| [[Attēls:AmonoraTownCentre.jpg|125px]]
+| {{nts|3115431}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|450.69}}
+| {{nts|6913}}
+| {{IND}}
+|-
+|85
+| [[Adisabeba]]
+| [[Attēls:Addis Ababa aerial approach 2009-08-27 15-26-13.jpg|125px]]
+| {{nts|3103673}}<ref>{{tīmekļa atsauce|url=http://www.csa.gov.et/images/documents/pdf_files/nationalstatisticsabstract/2012/2012%20POPULATION.pdf|title=Population Size of Towns by Sex, Region, Zone and Wereda: July 2013|publisher=Central Statistical Agency - CSA|accessdate=July 2013|archiveurl=https://web.archive.org/web/20150923211418/http://www.csa.gov.et/images/documents/pdf_files/nationalstatisticsabstract/2012/2012%20POPULATION.pdf|archivedate={{dat|2015|09|23||bez}}}}</ref>
+| Reģions<ref>{{tīmekļa atsauce|url=http://www.csa.gov.et/index.php|title=based on the districts of Akaki Kaliti-Sub City, Nefas Silk-Lafto-Sub City, Kolfe Keraniyo-Sub City, Gulele-Sub City, Lideta-Sub City, Kirkos-Sub City, Arada-Sub City, Addis Ketema-Sub City, Yeka-Sub City, Bole-Sub City  considered "districts"|access-date={{dat|2014|02|26||bez}}|archiveurl=https://web.archive.org/web/20140214085603/http://www.csa.gov.et/index.php|archivedate={{dat|2014|02|14||bez}}}}</ref>
+| {{nts|526.99}}
+| {{nts|5889}}
+|{{ETH}}
+|-
+|86
+| [[Čanša]]
+| [[Attēls:The Huángxīng Lù Commercial Pedestrian Street in Changsha.jpg|125px]]
+|{{nts|3093980}}
+| Pamata rajoni<ref>Based on the following districts: Furong, Tianxin, Yuelu, Kaifu, Yuhua; see [[Changsha#Administration|Administration]]</ref>
+|{{nts|969}}
+|{{nts|3190}}
+|{{CHN}}
+|-
+|87
+| [[Džajpura]]
+| [[Attēls:Night view of Jaipur city from Nahargarh Fort 2011 DSCN1444.jpg|125px]]
+| {{nts|3073350}}<ref name=india1/>
+| Pašvaldību apvienība
+| {{nts|485}}
+| {{nts|6337}}
+| {{IND}}
+|-
+|88
+|[[Veņdžou]]
+|[[Attēls:Shopping street in Wenzhou.jpg|125px]]
+|{{nts|3039439}}<ref name="Wenzhou City, in 2010 the sixth national census data bulletin">{{tīmekļa atsauce|title=1103-浙江省温州市2010年第六次全国人口普查主要数据公报:  温州市2010年第六次全国人口普查主要数据公报|url=http://wenku.baidu.com/view/68e6f74d852458fb770b5630|publisher=Baidu|accessdate=15 February 2014|archive-date={{dat|2017|07|11||bez}}|archive-url=https://web.archive.org/web/20170711083254/https://wenku.baidu.com/view/68e6f74d852458fb770b5630}}</ref>
+| Pamata rajoni
+|{{nts|1243.6}}
+|{{nts|2444.1}}
+|{{CHN}}
+|-
+|}
+
+== Atsauces ==
+{{atsauces2}}
+
+[[Kategorija:Pilsētu uzskaitījumi|*]]

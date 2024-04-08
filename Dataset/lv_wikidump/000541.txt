@@ -1,0 +1,183 @@
+{{Rakstu sistēmas infokaste
+ |nosaukums          = Kirilica
+ |tips               = [[alfabēts]]
+ |valodas            = [[austrumslāvu valodas]],<br/>[[dienvidslāvu valodas]],<br/>[[mongoļu valoda|mongoļu]], [[kazahu valoda|kazahu]], [[tadžiku valoda|tadžiku]], [[kirgīzu valoda|kirgīzu]], [[tatāru valoda|tatāru]], [[jakutu valoda|jakutu]] u.c.
+ |laiks              = no 10. gadsimta
+ |radītājs           = [[Kliments no Ohridas]]
+ |statuss            = 
+ |virziens           = no kreisās uz labo
+ |saime              = [[Ēģiptiešu hieroglifi]]
+ |fam1               = [[Ēģiptiešu hieroglifi]]
+ |fam2               = [[Protosīnājas raksts]]
+ |fam3               = [[Feniķiešu raksts]]
+ |fam4               = [[Grieķu alfabēts]]
+ |fam5               = ([[Glagolica]])
+ |atvasinājumi       = [[permiešu raksts]]
+ |radinieki          = 
+ |unicode            = ''Cyrillic''
+ |iso15924           = Cyrl (220)
+ |sample             = NHMB-Tombstone-cross-of-Anna-daughter-of-Knyaz-BorisI-10centuryAD-replica.jpg
+ |caption            = Viens no senākajiem zināmajiem kirilicas rakstu pieminekļiem — kņaza Borisa I meitas Anas kapa piemineklis senbulgāru valodā (10. gadsimts)
+ |image_size         = 260px
+ |footnotes          = 
+ |IPAChartEng        = include
+ }}
+'''Kirilica''' ([[bulgāru valoda|bulgāru]] un {{val|mk|кирилица}}, [[krievu valoda|krievu]] un {{val|kk|кириллица}}, {{val|uk|кирилиця}}, {{val|be|кірыліца}}, {{val|sr|ћирилица}}, {{val|mn|Кирил үсэг}}) vai '''kiriliskais raksts''' ir [[alfabēts|alfabētiska]] [[rakstība]], kas ir plaši lietota [[austrumslāvu valodas|austrumslāvu]] un [[dienvidslāvu valodas|dienvidslāvu]] valodām, kā arī vairākām neslāvu valodām [[Krievija|Krievijā]] un oficiāla rakstu sistēma arī [[Kazahstāna|Kazahstānā]], [[Kirgizstāna|Kirgizstānā]], [[Tadžikistāna|Tadžikistānā]] un [[Mongolija|Mongolijā]]. Vēsturiski viens no diviem [[Senslāvu valoda|senslāvu]] raksta variantiem.<ref name=LPE>{{LPE|5<sub>1</sub>|126}}</ref> Tas izveidots, balstoties uz [[svētais Kirils|svētā Kirila]] un [[svētais Metodijs|svētā Metodija]] radīto [[glagolica]]s [[Alfabēts|alfabētu]] un uz [[Austrumromas impērija|Bizantijas]] [[grieķu alfabēts|grieķu alfabētu]]. Uz senslāvu kirilicas pamata izveidotus mūsdienu alfabētus izmanto sešas [[slāvu valodas]] — [[Baltkrievu valoda|baltkrievu]], [[Bulgāru valoda|bulgāru]], [[Krievu valoda|krievu]], [[Maķedoniešu valoda|maķedoniešu]], [[Serbu valoda|serbu]] un [[Ukraiņu valoda|ukraiņu]], kā arī daudzas neslāvu valodas, pamatā bijušās [[Padomju Savienība|PSRS]] teritorijā.<ref name="EB">{{tīmekļa atsauce|url=https://www.britannica.com/topic/Cyrillic-alphabet|title=Cyrillic alphabet|website=[[Britannica]]|access-date=2022-12-08}}</ref><ref name=BCE>Верещагин Е. М. [https://bigenc.ru/linguistics/text/2066943 КИРИЛЛИЦА] {{Webarchive|url=https://web.archive.org/web/20220926215817/https://bigenc.ru/linguistics/text/2066943 |date={{dat|2022|09|26||bez}} }}. Большая российская энциклопедия. Том 14. Москва, 2009, стр. 22</ref>
+
+== Burti ==
+[[Attēls:Birch bark alphabet of Novgorod.jpg|thumb|250px|[[Novgoroda|Novgorodā]] atrasts 11. gadsimta kiriliskais alfabēts uz bērza tāss]]
+[[Attēls:Meletius Smotrisky Cyrillic Alphabet.PNG|thumb|250px|Lapaspuse no Meletija Smotricka 1619. gada darba „Baznīcslāvu valodas gramatika”, kurā rakstīts kiriliskajā alfabētā]]
+Senslāvu kirilicas alfabētā ir 43 [[burti]]. No tiem 24 pārņemti no grieķu [[Unciāļu raksts|unciāļu raksta]], 19 izveidoti patstāvīgi, piemēram: ж, ш, ъ, ь un citi. Kirilicas burti tika izmantoti arī skaitļu apzīmēšanai.<ref name=LPE />
+
+{|class="wikitable" style="text-align:center"
+|-
+!Burts!!Senais<br />variants!!Skaitliskā<br />nozīme!!Izruna!!Burta nosaukums
+|-
+|class="unicode"|[[А]]
+|[[Attēls:Early Cyrillic letter Azu.png|30px]]||1|| [а] ||az (аз)
+|-
+|class="unicode"|[[Б]]
+|[[Attēls:Early Cyrillic letter Buky.png|30px]]|| || [b] ||buki (бу́ки)
+|-
+|class="unicode"|[[В]]
+|[[Attēls:Early Cyrillic letter Viedi.png|30px]]||2|| [v] ||vedi (ве́ди)
+|-
+|class="unicode"|[[Г]]
+|[[Attēls:Early Cyrillic letter Glagoli.png|30px]]||3|| [g] ||glagoļ (глаго́ль)
+|-
+|class="unicode"|[[Д]]
+|[[Attēls:Early Cyrillic letter Dobro.png|30px]]||4|| [d] ||dobro (добро́)
+|-
+|class="unicode"|[[Е]],[[Є]]
+|[[Attēls:Early Cyrillic letter Yesti.png|30px]]||5|| [jе] ||jestj (есть)
+|-
+|class="unicode"|[[Ж]]
+|[[Attēls:Early Cyrillic letter Zhiviete.png|30px]]|| || [ž] ||živete (живе́те)
+|-
+|class="unicode"|[[Ѕ]]
+|[[Attēls:Early Cyrillic letter Dzelo.png|30px]]||6|| [ẑ], [dz] ||zelo (зело́)
+|-
+|class="unicode"|[[ʐ]], [[З]]
+|[[Attēls:Early Cyrillic letter Zemlia.png|40px]]||7|| [z] ||zemļa (земля́)
+|-
+|class="unicode"|[[И]]
+|[[Attēls:Early Cyrillic letter Izhe.png|30px]]||8|| [i] ||iže (и́же)
+|-
+|class="unicode"|[[І]], [[Ї]]
+|[[Attēls:Early Cyrillic letter I.png|30px]]||10|| [ì] ||i (и)
+|-
+|class="unicode"|[[К]]
+|[[Attēls:Early Cyrillic letter Kako.png|30px]]||20|| [k] ||kako (ка́ко)
+|-
+|class="unicode"|[[Л]]
+|[[Attēls:Early Cyrillic letter Liudiye.png|30px]]||30|| [l] ||ļudi (лю́ди)
+|-
+|class="unicode"|[[М]]
+|[[Attēls:Early Cyrillic letter Myslite.png|30px]]||40|| [m] ||mislete (мысле́те)
+|-
+|class="unicode"|[[Н]]
+|[[Attēls:Early Cyrillic letter Nashi.png|30px]]||50|| [n] ||naš (наш)
+|-
+|class="unicode"|[[О]]
+|[[Attēls:Early Cyrillic letter Onu.png|30px]]||70|| [о] ||on (он)
+|-
+|class="unicode"|[[П]]
+|[[Attēls:Early Cyrillic letter Pokoi.png|30px]]||80|| [p] ||pokoi (поко́й)
+|-
+|class="unicode"|[[Р]]
+|[[Attēls:Early Cyrillic letter Ritsi.png|30px]]||100|| [r] ||rci (рцы)
+|-
+|class="unicode"|[[С]]
+|[[Attēls:Early Cyrillic letter Slovo.png|30px]]||200|| [s] ||slovo (сло́во)
+|-
+|class="unicode"|[[Т]]
+|[[Attēls:Early Cyrillic letter Tvrido.png|30px]]||300|| [t] ||tverdo (тве́рдо)
+|-
+|class="unicode"|[[ОУ]], [[У]]
+|[[Attēls:Early Cyrillic letter Uku.png|40px]]||(400)|| [u] ||uk (ук)
+|-
+|class="unicode"|[[Ф]]
+|[[Attēls:Early Cyrillic letter Fritu.png|30px]]||500|| [f] ||fert (ферт)
+|-
+|class="unicode"|[[Х]]
+|[[Attēls:Early Cyrillic letter Khieru.png|30px]]||600|| [h] ||her (хер)
+|-
+|class="unicode"|[[Ѡ]]
+|[[Attēls:Early Cyrillic letter Otu.png|40px]]||800|| [ô] || omega (оме́га)
+|-
+|class="unicode"|[[Ц]]
+|[[Attēls:Early Cyrillic letter Tsi.png|40px]]||900|| [c] ||ci (цы)
+|-
+|class="unicode"|[[Ч]]
+|[[Attēls:Early Cyrillic letter Chrivi.png|40px]]||90|| [č] ||červj (червь)
+|-
+|class="unicode"|[[Ш]]
+|[[Attēls:Early Cyrillic letter Sha.png|30px]]|| || [š] ||ša (ша)
+|-
+|class="unicode"|[[Щ]]
+|[[Attēls:Early Cyrillic letter Shta.png|30px]]|| || [ŝ], [št, šč] ||šta (ща)
+|-
+|class="unicode"|[[Ъ]]
+|[[Attēls:Early Cyrillic letter Yeru.png|30px]]|| || ["] ||jer (ер)
+|-
+|class="unicode"|[[Ы]]
+|[[Attēls:Early Cyrillic letter Yery.png|30px]]|| || [y] ||jeri (еры́)
+|-
+|class="unicode"|[[Ь]]
+|[[Attēls:Early Cyrillic letter Yeri.png|30px]]|| || ['] ||jerj (ерь)
+|-
+|class="unicode"|[[Ѣ]]
+|[[Attēls:Early Cyrillic letter Yati.png|30px]]|| || [ě] ||jatj (ять)
+|-
+|class="unicode"|[[Ю]]
+|[[Attēls:Early Cyrillic letter Yu.png|30px]]|| || [û], [ju] ||ju (ю)
+|-
+|class="unicode"|[[Я]]
+|[[Attēls:Early Cyrillic letter Ya.png|30px]]|| || [â], [ja] ||â (я)
+|-
+|class="unicode"|[[Ѥ]]
+|[[Attēls:Early Cyrillic letter Ye.png|30px]]|| || [je] ||je (Е йотированное)
+|-
+|class="unicode"|[[Ѧ]]
+|[[Attēls:Early Cyrillic letter Yusu Maliy.png|30px]]||(900)|| [ę] ||mazais jus (юс малый)
+|-
+|class="unicode"|[[Ѫ]]
+|[[Attēls:Early Cyrillic letter Yusu Bolshiy.png|30px]]|| || [ǫ] ||lielais jus (юс большой)
+|-
+|class="unicode"|[[Ѩ]]
+|[[Attēls:Early Cyrillic letter Yusu Maliy Yotirovaniy.png|30px]]|| ||[ję] ||mazais jus jotētais
+|-
+|class="unicode"|[[Ѭ]]
+|[[Attēls:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png|30px]]|| ||[jǫ] ||lielais jus jotētais
+|-
+|class="unicode"|[[Ѯ]]
+|[[Attēls:Early Cyrillic letter Ksi.png|30px]]||60||[ks] ||ksi (кси)
+|-
+|class="unicode"|[[Ѱ]]
+|[[Attēls:Early Cyrillic letter Psi.png|30px]]||700||[ps] ||psi (пси)
+|-
+|class="unicode"|[[Ѳ]]
+|[[Attēls:Early Cyrillic letter Fita.png|30px]]||9|| [th] ||fita (фита́)
+|-
+|class="unicode"|[[Ѵ]]
+|[[Attēls:Early Cyrillic letter Izhitsa.png|30px]]||400||[ü]||ižica (и́жица)
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.iis.ru/cyrillic/resource/report1997.ru.html Slāvu valodas un rakstzīmju kopa] {{Webarchive|url=https://web.archive.org/web/20191209204003/http://www.iis.ru/cyrillic/resource/report1997.ru.html |date={{dat|2019|12|09||bez}} }} {{ru ikona}}
+* [https://web.archive.org/web/20170711155150/http://gramma.ru/RUS/?id=1.2 К истории русской азбуки] {{ru ikona}}
+* [http://czyborra.com/charsets/cyrillic.html Kirilicas rakstzīmju kopa] {{Webarchive|url=https://web.archive.org/web/20161203230933/http://czyborra.com/charsets/cyrillic.html |date={{dat|2016|12|03||bez}} }} {{en ikona}}
+
+
+{{rakstība-aizmetnis}}
+
+{{Kirilica}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kirilica| ]]
+[[Kategorija:Rakstības]]

@@ -1,0 +1,80 @@
+{{Apdzīvotas vietas infokaste
+ | name                         = Seula
+ | native_name                  = 서울
+ | settlement_type              = galvaspilsēta
+ | other_name                   = 
+ | nickname                     = 
+ | motto                        = 
+ | image_skyline                =
+ | imagesize                    = 
+ | image_caption                = 
+ | image_flag                   = 
+ | image_seal                   = 
+ | image_shield                 = 
+ | image_map                    = Seoul-teukbyeolsi in South Korea.svg
+ | map_caption                  = Seulas atrašanās vieta Dienvidkorejā
+ | latd  = 37 | latm  = 34 | lats  = 08 | latNS  = N
+ | longd = 126 | longm = 58 | longs = 36 | longEW = E
+ | subdivision_type             = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name             = {{KOR}}
+ | subdivision_type1            = Reģions
+ | subdivision_name1            = [[Seulas galvaspilsētas reģions|Galvaspilsētas reģions]]
+ | area_total_km2               = 605.25
+ | area_metro_km2               = 5076
+ | population_as_of             = {{dat|2010|||SK|bez}}
+ | population_total             = 10464051
+ | population_metro             = 20550000
+ | population_rank              = 
+ | population_density_km2       = auto
+ | population_density_metro_km2 = auto
+ | website                      = {{URL|http://english.seoul.go.kr/}}
+ | footnotes                    = 
+}}
+
+'''Seula''' ({{val|ko|서울}}, izrunā: {{IPA|[[IPA|[sʌ.ul]]]}}, burtiskā tulkojumā: ‘galvaspilsēta’) ir [[Dienvidkoreja]]s [[galvaspilsēta]] un lielākā valsts pilsēta. Tā atrodas valsts ziemeļos, netālu no [[demarkācijas līnija]]s ar [[Ziemeļkoreja|Ziemeļkoreju]] pie [[Hangana]]s upes.
+
+Seula ar dažādiem nosaukumiem bija [[Koreja]]s galvaspilsēta no {{dat|1394|11|29|Ģ}} līdz [[1910]]. gadam, kad Koreja tika iekļauta [[Japānas Impērija|Japānas Impērijā]]. Pēc [[Otrais pasaules karš|Otrā pasaules kara]], kad Koreja tika sadalīta [[Ziemeļkoreja|Ziemeļkorejā]] un Dienvidkorejā, Seula ''[[de jure]]'' bija ne tikai Dienvidkorejas, bet arī Ziemeļkorejas galvaspilsēta. Tikai [[1972]]. gada decembrī Ziemeļkorejas konstitūcijā tika izmainīts, ka oficiāli Ziemeļkorejas galvaspilsēta ir [[Phenjana]].
+
+Seulā dzīvo gandrīz 10,5 miljoni iedzīvotāju, bet kopā ar piepilsētām [[Inčhona|Inčhonu]], [[Suvona|Suvonu]], [[Kojana|Kojanu]], [[Sonnama|Sonnamu]] un citām tās [[Aglomerācija|aglomerācijā]] dzīvo vairāk nekā 20 miljoni, kas ir gandrīz puse no visiem valsts iedzīvotājiem. Pēc aglomerācijas iedzīvotāju skaita Seula ir otra lielākā pilsēta pasaulē aiz [[Tokija]]s aglomerācijas.
+
+== Vēsture ==
+Seula minēta rakstos kā [[Pekče]]s (''Baekje'') (viena no [[Korejas trīs karaļvalstis|Trīs karaļvalstīm]]) galvaspilsēta '''Virjesona''' (''Wiryeseong'') 18. gadā p.m.ē.
+
+6. gadsimtā [[Gorjo]] (Goryeo) valstī Seula bija "dienvidu galvaspilsēta.
+
+[[Korejas karš|Korejas kara]] laikā (1950—1953) pilsēta vairākas reizes tika spēcīgi nopostīta. Pēc pamiera noslēgšanas simboliski par Dienvidkorejas galvaspilsētu tika izraudzīta Seula, un mūsdienās Seulas aglomerācijā dzīvo 24% no Dienvidkorejas iedzīvotājem.
+
+1988. gadā Seulā notika [[1988. gada vasaras olimpiskās spēles|vasaras olimpiskās spēles]].
+
+== Vietas ==
+* ''Dongmyo'' (Austrumu templis) (1601)
+* ''Jongno'' - pazīstamākā pilsētas iela
+* Kara muzejs (1994)
+* Li dinastijas "Piecas lielās pilis" - ''Changdeokgung, Changgyeonggung, Deoksugung, Gyeongbokgung, Gyeonghuigung'' (XIV - XVI gs)
+* ''Pungnap Toseong'' - senākais aizsardzības mūris
+* ''Samjeondo'' piemineklis (1636)
+
+== Cilvēki ==
+* [[Nams Džuns Paiks]] (''Nam June Paik''; 1932—2006) — videomākslinieks
+* [[Be Jons Džuns]] (''Bae Yong Jun''; 1972) — aktieris
+* [[Go Kuns]] (''Goh Kun''; 1938) — politiķis, Korejas premjers
+* [[Juns Seondo]] (''Yun Seondo''; 1587—1671) — dzejnieks
+* Lī Min Ho (Lee Min-Ho; 1987) — aktieris
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://english.seoul.go.kr/ Mājaslapa] {{en ikona}}
+
+{{Dienvidkoreja-aizmetnis}}
+
+{{Āzijas galvaspilsētas}}
+{{VOS norises vietas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Seula| ]]
+[[Kategorija:Olimpiskās norises vietas vieglatlētikā]]

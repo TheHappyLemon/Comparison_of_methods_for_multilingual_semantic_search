@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jaunsvirlaukas pagasts
+| karte             = Jaunsvirlaukas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = Staļģene
+| platība           = 123,4
+| iedzīvotāji       = 3261<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 3261 / 123.4 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.jaunsvirlauka.lv
+}}
+
+'''Jaunsvirlaukas pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] administratīvajām teritorijām, [[Lielupe]]s kreisajā krastā. Robežojas ar sava novada [[Vircavas pagasts|Vircavas]] un [[Platones pagasts|Platones]] pagastiem, kā arī, pa [[Lielupe|Lielupi]] ar [[Cenu pagasts|Cenu]] un [[Sidrabenes pagasts|Sidrabenes]] pagastiem, [[Bauskas novads|Bauskas novada]] [[Viesturu pagasts|Viesturu pagastu]], kā arī [[Jelgava]]s pilsētu. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Īslīce]], [[Lielupe]], [[Liepars]], [[Rēda]], [[Sesava]], [[Svitene]], [[Vircava]].
+
+== Vēsture ==
+Mūsdienu Jaunsvirlaukas pagasta teritorijā vēsturiski atradās Biles muiža (''Billenhof''), Ciemaldu muiža (''Zeemalden''), Dandāles muiža (''Dannental''), Jaunāmuiža (''Peterweide''), Jaunsvirlaukas muiža (''Neu-Bergfried'', [[Jaunsvirlauka]]), Prankas muiža (''Frank-Sessau''), Salgales muiža (''Sallgalen''), Staļģenes muiža (''Stalgen'', [[Staļģene]]), Supardantu muiža (''Superintendentenhof''), Vecsvirlaukas muiža (''Alt-Bergfried'', [[Bajāri (Jaunsvirlaukas pagasts)|Bajāri]]).
+
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Jaunsvirlaukas pagasta platība bija 93 km² un tajā dzīvoja 2139 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Jaunsvirlaukas un [[Staļģenes ciems|Staļģenes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Jaunsvirlaukas ciems''' ietilpis [[Jelgavas rajons|Jelgavas]] (1949-1962, pēc 1967. gada) un [[Bauskas rajons|Bauskas]] (1962-1967) rajonos. Jaunsvirlaukas ciemam 1954. gadā pievienoja likvidētā Staļģenes ciema un [[Sesavas ciems|Sesavas ciema]] [[kolhozs|kolhoza]] «Līgo» teritoriju, bet daļu teritorijas pievienoja [[Vircavas ciems|Vircavas ciemam]]. 1966. gadā pievienoja Vircavas ciema [[padomju saimniecība]]s «Dzirnieki» teritoriju, 1974. gadā daļu teritorijas pievienoja Vircavas ciemam, 1977. gadā pievienoja daļu [[Vecsvirlaukas ciems|Vecsvirlaukas ciema]] teritorijas, 1979. gadā — daļu likvidētā Vecsvirlaukas ciema, 1987. gadā — daļu Vircavas ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Jaunsvirlaukas pagastu kā administratīvo teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2700
+|1959|2800
+|1967|3546
+|1979|3190
+|1989|3376
+|2000|3385
+|2011|3011
+|2021|2467
+}}
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Staļģene]]''' (pagasta centrs), [[Mežciems (Jaunsvirlaukas pagasts)|Mežciems]], [[Dzirnieki]], [[Vecsvirlauka]], [[Bajāri (Jaunsvirlaukas pagasts)|Bajāri]], [[Bitēni (Jaunsvirlaukas pagasts)|Bitēni]], [[Blukas]], [[Īslīcas]], [[Jaunsvirlauka]], [[Kārniņi]], [[Pakuļi]], [[Smedēni]], [[Šalkas (Jaunsvirlaukas pagasts)|Šalkas]].
+
+=== Novadnieki ===
+* [[Antons Birkerts]] (1876—1971), literatūrzinātnieks un rakstnieks
+* [[Pēteris Birkerts]] (1881—1956), literatūrzinātnieks un folklorists
+* [[Pēteris Lūcis]] (1907-1991) , latviešu aktieris, režisors
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Jaunsvirlaukas pagasts| ]]

@@ -1,0 +1,20 @@
+{{DISPLAYTITLE:''foobar2000''}}
+
+'''''foobar2000''''' ir [[Bezmaksas programmatūra|bezmaksas]] [[audio atskaņotājs (programmatūra)|audio atskaņotājs]] ''[[Microsoft Windows]]'' platformai. Dažas no pamata iespējām ietver pilnīgu [[unikods|unikoda]] atbalstu, ''[[ReplayGain]]'' atbalstu un iebūvētu atbalstu populārākajiem audio formātiem.
+
+== Iespējas ==
+* Atbalstītie audio formāti: [[MP1]], [[MP2]], [[MP3]], [[MP4]], [[MPC]], [[AAC]], [[Ogg Vorbis]], [[FLAC]] / [[Ogg FLAC]], [[WavPack]], [[WAV]], [[AIFF]], [[AU (failu formāts)|AU]], [[SND]], [[CDDA]], [[WMA]], [[Speex]].
+* [[Cilņu grafiskā lietotāja saskarne|Cilņu]] atskaņojumu saraksti.
+* [[Bezatstarpju atskaņošana]].
+* Pielāgojamas kontekstizvēlnes.
+
+== Ārējās saites ==
+=== Oficiālās saites ===
+* [http://www.foobar2000.org/ Mājas lapa] - foobar2000.org
+* [http://forums.foobar2000.org/ Forums] - diskusijas un atbalsts
+* [http://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000 foobar2000 Zināšanu bāze]
+* [http://www.foobar2000.org/components/ Official Plugins]
+* [irc://irc.freenode.net/foobar2000 #foobar2000]{{Novecojusi saite}} [[Freenode]] tīklā - diskusijas un atbalsts
+
+[[Kategorija:Bezmaksas programmatūra]]
+[[Kategorija:Audio atskaņotāji]]

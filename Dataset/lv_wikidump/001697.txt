@@ -1,0 +1,63 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Paldiski
+| official_name           = Paldiski
+| settlement_type         = Apriņķa pilsēta
+| image_skyline           = Paldiski jaamahoone2 (2011).jpg
+| imagesize               =
+| image_caption           = Paldiski dzelzceļa stacija 2011. gadā
+| image_flag              = Flag of Paldiski.svg
+| flag_size               = 125px
+| image_seal              =
+| seal_size               =
+| image_shield            = Paldiski_coatofarms.png
+| shield_size             = 75px
+| image_blank_emblem      =
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       =
+| nickname                =
+| motto                   =
+| pushpin_map             = Estonia
+| pushpin_label_position  = left
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd=59 |latm=21 |latNS=N 
+| longd=24 |longm=03 |longEW=E
+| coordinates_display        = inline,title
+| coordinates_region        = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Flag of et-Harju maakond.svg|24px]] [[Harju apriņķis]]
+| established_title       = <!-- First mentioned -->
+| established_date        =
+| established_title1      = Pilsētas tiesības
+| established_date1       = 1783
+| government_type         =
+| leader_party            =
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          =
+| area_total_km2          = 34
+| population_footnotes    =
+| population_total        = 4372
+| population_as_of        = 2010
+| population_density_km2  = auto
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             =
+| website                 = [http://www.paldiski.ee www.paldiski.ee]
+}}
+
+'''Paldiski''' ir ostas pilsēta [[Igaunija]]s ziemeļrietumos. Līdz 18. gadsimta vidum apdzīvotās vietas nosaukums bija '''Rogevīka''' (''Rågervik'') un šeit dzīvoja [[zviedri]]. 1762. gadā šeit tika ierīkota [[Krievijas impērija|Krievijas]] jūras kara bāze un apdzīvotajai vietai tika piešķirts nosaukums ''Балтийский Порт'', kas [[igauņu valoda|igauņu valodā]] pārtapa par ''Paldiski''. Pēc [[Savstarpējās palīdzības pakts starp Igauniju un PSRS|Savstarpējās palīdzības pakta starp Igauniju un PSRS]] noslēgšanas 1939. gadā PSRS ierīkoja Paldisku kara bāzi. 
+
+Paldiski 1800. gadā ieslodzījumā miris [[baškīri|baškīru]] nacionālais varonis [[Salavats Julajevs]] (''Салауат Юлаев'', 1754 — 1800).
+
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Harju apriņķis]]
+[[Kategorija:PSRS kara flotes bāzes]]

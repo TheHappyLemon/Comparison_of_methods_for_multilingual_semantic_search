@@ -1,0 +1,96 @@
+{{Pilsētas priekšpilsētas infokaste
+|nosaukums            = Kurzemes rajons
+|karte                = [[Attēls:Riga Kurzemes rajons karte.png|250px]]
+|paraksts             = 
+|pilseta              = {{Rīga}}
+|apkaimes             = {{ubl|[[Bolderāja]]|[[Iļģuciems]]|[[Imanta (Rīga)|Imanta]]|<small>Sīkāk sadaļā [[#Apkaimes|Apkaimes]]</small>}}
+|platiba              = 79,04
+|iedzivotaju_skaits   = 125 845 (2020)<ref name="pmlp2020">{{PMLPiedz|2020-7}}</ref>
+|iedzivotaju_blivums  = {{#expr: 125845 / 79.04 round 1}}
+|udenstilpnes         = [[Rīgas līcis]]<br />[[Daugava]]<br />[[Buļļupe]]<br /><small>Sīkāk sadaļā: [[#Ūdenstilpes|Ūdenstilpes]]</small>
+|parki                = [[Piejūras dabas liegums]]<br />[[Dzegužkalns]]<br />[[Botāniskais dārzs]]<br /><small>Sīkāk sadaļā: [[#Parki|Parki]]</small>
+|latviesi             = 48 977 (38,9%)<ref name="pmlp2020nac">{{pmlp2020nac}}</ref> 
+|krievi               = 53 065 (42,1%)
+|baltkrievi           = {{spaces|3}}4942 (3,9%)
+|ukraini              = {{spaces|3}}4990 (4,0%)
+|poli                 = {{spaces|3}}2204 (1,8%)
+|parejie              = {{spaces|3}}11 667 (9,3%)
+}}
+
+'''Kurzemes rajons''' ir viena no sešām [[Rīga|Rīgas pilsētas]] administratīvi teritoriālajām vienībām, kas izveidota 1969. gadā kā Rīgas pilsētas Ļeņingradas rajons. 
+Atrodas [[Daugava]]s kreisajā krastā, pilsētas ziemeļrietumu un rietumu daļā, tā platība ir 79,04 km<sup>2</sup> (25,73% no visas [[Rīga]]s teritorijas), pēc platības tā ir Rīgas lielākā daļa. Iedzīvotāju skaits (2018) bija {{nobr|127 793}} cilvēki (18,4% no visas [[Rīga]]s iedzīvotājiem).<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/Iedzivotaju%20re%C4%A3istrs/07022017/ISPV_Pasvaldibas_iedzivotaju_skaits.pdf |title=Latvijas iedzīvotāju skaits pašvaldībās |access-date={{dat|2018|11|05||bez}} |archive-date={{dat|2017|09|29||bez}} |archive-url=https://web.archive.org/web/20170929000632/http://www.pmlp.gov.lv/lv/assets/documents/Iedzivotaju%20re%C4%A3istrs/07022017/ISPV_Pasvaldibas_iedzivotaju_skaits.pdf }}</ref> 
+Kurzemes rajonā ietilpst [[Bolderāja]], [[Daugavgrīva]], [[Iļģuciems]], [[Imanta (Rīga)|Imanta]], [[Ķīpsala]] un [[Zasulauks]] un citas apkaimes.
+
+Rajonā atrodas Rīgas augstākais punkts&nbsp;— [[Dzegužkalns]] (28 metri). [[Spilve (Rīga)|Spilves pļavās]] atrodas [[Spilves lidosta]], kas bija [[Rīga]]s galvenā lidosta līdz 1974. gadam, kad [[Skulte (Mārupes novads)|Skultē]] tika pabeigta [[Starptautiskā lidosta "Rīga"|Starptautiskās lidostas "Rīga"]] būvniecība.
+
+== Vēsture ==
+Senākā apdzīvotā šajā rajonā veidojās uz 1226. gadā Rīgas Sv. Gara konventam piešķirtās muižas (''Hiligen geest hove'') zemes iepretim [[Ķīpsala]]s ziemeļu galam, no kā vēlāk izveidojās [[Iļģuciems|Iļģuciema]] (''Hiligzeem'') nosaukums. Caur to veda divi nozīmīgi ceļi — Buļļumuižas ceļš, pa kuru no [[Rīga]]s varēja nokļūt uz [[Kurzeme|Kurzemi]], un ceļš, kas cauri Iļģuciemam veda uz [[Bolderāja|Bolderāju]], no 17. gadsimta uz [[Daugavgrīvas cietoksnis|Daugavgrīvas cietoksni]]. Vēlāk tie pārtapa par Buļļu un Daugavgrīvas ielām. Iedzīvotāji galvenokārt bija [[latvieši]], kas nodarbojās ar dārzkopību un zvejniecību, vēlāk ar preču transportēšanu, šķirošanu, svēršanu.
+
+[[1701]]. gada [[19. jūlijs|19. (9.) jūlijā]] [[Spilve (Rīga)|Spilve]]s pļavās notika [[Daugavas kauja]].
+
+1787. gadā Pārdaugavā (tagadējās Torņakalna, Āgenskalna un Iļģuciema apkaimēs) izveidoja Rīgas pilsētas trešo jeb '''[[Jelgavas priekšpilsēta|Jelgavas priekšpilsētu]]''' ({{val|de|Mitauer Vorstadt}}, {{val|ru|Митавский форштадт, Митавская часть}}). 
+Pēc Latvijas valsts nodibināšanas 1924. gadā Rīgas pilsētai tika pievienoti [[Šampēteris]], [[Zolitūdes muiža|Solitūdes muižas]], Lielā un Mazā Dammes muižas, [[Anniņmuiža]]s zemes (tagadējā [[Imanta (Rīga)|Imantas]] apkaime), [[Kleisti (Rīga)|Kleisti]], [[Bolderāja]], [[Daugavgrīva]] un  [[Rītabuļļi|Buļļumuiža]].
+
+Pēc 1940. gada [[Latvijas okupācija (1940)|Latvijas okupācijas]] izveidoja '''Pārdaugavas rajonu''', ko drīz vien sadalīja Ļeņina un '''Sarkanarmijas rajonos'''. 1956. gadā tos apvienoja, bet 1969. gada 16. maijā no '''Ļeņina rajona ziemeļu daļu''' atkal atdalīja un tur izveidoja '''Ļeņingradas rajonu'''. 
+Pēc [[Latvijas neatkarības atjaunošana]]s Ļeņingradas rajonu 1990. gadā pārdēvēja par Kurzemes rajonu.
+
+== Ģeogrāfija un klimats ==
+Kurzemes rajona reljefs pārsvarā līdzens, 1,5—10 metri virs jūras līmeņa. Kurzemes rajonā atrodas [[Rīga]]s augstākais punkts [[Dzegužkalns]], kas ir 28 metri virs jūras līmeņa. Mikroklimats rajonā ir relatīvi vēsāks nekā pilsētas centrālajā daļā. Lielu Kurzemes rajona teritoriju aizņem meži [[Buļļu sala|Daugavgrīvas salā]], [[Bolderājas—Priedaines kāpu grēda|Bolderājas—Priedaines kāpu grēdā]] un [[Nordeķu-Kleistu kāpu grēda|Nordeķu-Kleistu kāpu grēdā]], kā arī [[Kleistu mežs]] un [[Anniņmuižas parks]]. Daugavgrīvas salā ir atpūtas vietas ar 10 kilometrus garu [[Rīgas līcis|jūras]] liedagu, kas pazīstams kā Bolderājas pludmale.
+
+=== Ūdenstilpes ===
+Kurzemes rajonā atrodas vairākas [[Rīga]]s pilsētā nozīmīgas ūdenstilpes. Rajona ziemeļu robeža ir [[Rīgas līcis]], ziemeļaustrumu un austrumu robeža ir [[Daugava]]. No upēm Kurzemes rajonā atrodas [[Buļļupe]] ar [[Loču kanāls|Loču kanālu]], [[Ziemeļupe|Ziemeļupi]] un [[Ziemas osta|Ziemas ostu]] [[Daugava]]s ietekā [[Rīgas līcis|jūrā]], [[Hapaka grāvis]] ar pietekām [[Beķera grāvis]], [[Spilves grāvis]] un [[Lāčupīte]]. [[Bolderāja|Bolderājā]] atrodas [[Bolderājas karjeras ezers]]. [[Ķīpsala|Ķīpsalu]] no [[Pārdaugava]]s atdala [[Zundas kanāls]] jeb Zunds, kas nelielā posmā uz dienvidiem no Kalnciema ielas satiksmes pārvada tiek dēvēts arī par Āzeni un savienojas ar [[Āgenskalna līcis|Āgenskalna līci]]. Savukārt [[Zundas kanāls|Zundas kanāla]] ziemeļu savienojums ar [[Daugava|Daugavu]] [[Ķīpsala]]s ziemeļu galā tiek dēvēts par [[Roņu dīķis|Roņu dīķi]].
+
+=== Parki ===
+Kurzemes rajonā atrodas tādi parki kā [[Dzegužkalns|Dzegužkalna parks]] un [[Nordeķu parks]] [[Iļģuciems|Iļģuciemā]], [[Anniņmuižas parks]] [[Imanta (Rīga)|Imantas]] centrā, kā arī [[Botāniskais dārzs]] [[Dzirciems (Rīga)|Dzirciemā]]. [[Buļļu sala|Daugavgrīvas salā]] atrodas [[Piejūras dabas parks]], kurā atrodas [[Daugavgrīvas dabas liegums]] un [[Vakarbuļļu dabas liegums]] salas dienvidrietumu malā. Blakus [[Voleri]]em, starp [[Daugava|Daugavu]] un [[Beķera grāvis|Beķera grāvi]], atrodas mazpazīstamais [[Krēmeru dabas liegums]].
+
+Imantā atrodas [[Sudrabkalniņš]], kur {{dat||11|11||bez}} notiek [[Lāčplēša diena]]s atceres pasākumi par godu notikumiem 1919. gadā. [[Bolderājas—Priedaines kāpu grēda|Bolderājas—Priedaines kāpu grēdā]] atrodas 16 metrus augsts [[Bumbu kalns]] jeb Bumbiņkalns, kurā {{dat|2007|12|12||bez}} tika atklāta atjaunotā 1919. gada [[Rīga]]s atbrīvošanas kauju piemiņas vieta.<ref>[http://www.delfi.lv/news/national/politics/article.php?id=19740394&categoryID=193 Atjauno Rīgas atbrīvotāju pieminekli Bolderājā]</ref> Tajā vietā atradās [[Latvijas Bruņotie spēki|Latvijas Bruņoto spēku]] Latgales divīzijas komandpunkts, kur {{dat|1919|11|1||bez}} pulkvedis [[Krišjānis Berķis]] parakstīja pavēli par [[Pārdaugavas atbrīvošanas operācija]]s sākšanu.
+
+== Demogrāfija ==
+Iedzīvotāju skaits Kurzemes rajonā, tāpat kā visā [[Rīga|Rīgā]] un [[Latvija|Latvijā]] kopumā, kopš [[PSRS sabrukums|Padomju Savienības sabrukuma]] ir strauji samazinājies, pie kam krievu skaits samazinās straujāk, tādēļ laika gaitā procentuāli latviešu iedzīvotāju skaits attiecībā pret krievu un citu tautību iedzīvotājiem palielinās.
+
+Ja 1986. gadā rajonā dzīvoja {{nobr|179 000}} iedzīvotāju, kas bija 19,3% no visiem [[Rīga]]s pilsētas iedzīvotājiem,<ref>{{enc riga|432}}</ref> tad iedzīvotāju skaits {{dat|2012|1|1||bez}} bija {{nobr|131 016}} cilvēki.<ref name="pmlp2012">{{tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/statistika/dokuments/2012/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Latvijas iedzīvotāju skaits pašvaldībās 01.01.2012. |format=PDF |publisher=pmlp.gov.lv |access-date=18.11.2018 |archive-date=19.09.2012 |archive-url=https://www.webcitation.org/6AnFJ20vy?url=http://www.pmlp.gov.lv/lv/statistika/dokuments/2012/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }} {{Webarchive|url=https://www.webcitation.org/6AnFJ20vy?url=http://www.pmlp.gov.lv/lv/statistika/dokuments/2012/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |date=19.09.2012 }}</ref>
+, savukārt {{dat|2017|1|1||bez}} iedzīvotāju skaits bija {{nobr|129 595}}.
+
+=== Etniskais sastāvs ===
+Kurzemes rajonā pieaug latviešu īpatsvars. Ja 2012. gadā tajā dzīvoja {{nobr|47 993}} [[latvieši]] (36,6%) un {{nobr|59 384}} [[Latvijas krievi|krievi]] (45,3%),<ref name="pmlp2012nac" /> 
+tad 2020. gadā {{nobr|48 977}} latvieši (38,9%), {{nobr|53 065}} krievi (42,1%), 4990 ukraiņi, 4942 baltkrievi, 2204 poļi un citi.<ref>[https://www.pmlp.gov.lv/lv/assets/ISPN_Pasvaldibas_pec_TTB.pdf Iedzīvotāju skaits pašvaldībās pēc nacionālā sastāva] {{Webarchive|url=https://web.archive.org/web/20201031024254/https://www.pmlp.gov.lv/lv/assets/ISPN_Pasvaldibas_pec_TTB.pdf |date={{dat|2020|10|31||bez}} }} datums=01.07.2020</ref>
+
+== Apkaimes ==
+Kurzemes rajonā ietilpst 12 apkaimes.
+
+{{columns  |width=150px
+|col1=
+* [[Āgenskalns]]
+* [[Bolderāja]]
+* [[Daugavgrīva]]
+* [[Dzirciems (Rīga)|Dzirciems]]
+* [[Iļģuciems]]
+* [[Imanta (Rīga)|Imanta]]
+
+|col2=
+* [[Kleisti (Rīga)|Kleisti]]
+* [[Ķīpsala]]
+* [[Rītabuļļi]]
+* [[Spilve (Rīga)|Spilve]]
+* [[Voleri]]
+* [[Zasulauks]]
+}}
+
+== Skatīt arī ==
+* [[Rīga]]
+* [[Tipveida dzīvojamā apbūve Rīgā]]
+* [[Rīgas Kurzemes rajona ielu uzskaitījums]]
+* [[Valsts aizsargājamie kultūras pieminekļi Rīgas Kurzemes rajonā]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20091227133444/http://www.kurzemesrajons.lv/ Kurzemes rajona izpilddirekcija]
+* [https://web.archive.org/web/20040608125221/http://www.kna.lv/ "Kurzemes namu apsaimniekotājs"]
+
+{{Rīga-aizmetnis}}
+{{Rīgas pilsētas daļas}}
+
+[[Kategorija:Rīgas administratīvie rajoni]]
+[[Kategorija:Kurzemes rajons]]

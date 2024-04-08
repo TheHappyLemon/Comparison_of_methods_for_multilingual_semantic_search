@@ -1,0 +1,30 @@
+[[Attēls:Myoglobin.png|thumbnail|235px|[[Mioglobīns|Mioglobīna]] — saliktas olbaltumvielas, kas muskuļos nodrošina īslaicīgu skābekļa rezervi, — 3D struktūra]]
+'''Bioķīmija''',<ref>{{tīmekļa atsauce | url= https://termini.gov.lv/kolekcijas/13/skirklis/69848 | title= Valsts valodas centra izstrādātie medicīnas zinātņu, farmācijas un veterinārmedicīnas termini | publisher= Latvijas Nacionālais terminoloģijas portāls | accessdate= 2019. gada 7. janvārī}}</ref> arī '''bioloģiskā ķīmija''',<ref>{{tīmekļa atsauce | url= http://www.neslimo.lv/pme/?name=biologiska-kimija | title= Bioloģiskā ķīmija | publisher= neslimo.lv (Populārā medicīnas enciklopēdija) | accessdate= 2019. gada 7. janvārī}}</ref> ir [[bioloģija]]s un [[ķīmija]]s zinātņu nozare, kas pēta ķīmiskos un fizikālķīmiskos procesus dzīvajos [[organisms|organismos]]. Bioķīmiskie procesi norāda uz [[dzīvība]]s sarežģītību. Bioķīmija ir [[fizioloģija]]s pamatā,<ref name="sporta bioķīmija"/> tāpēc tiek saukta arī par '''fizioloģisko ķīmiju'''.
+
+Bioķīmijas trīs galvenie pētījumu virzieni ir [[statiskā bioķīmija]], [[dinamiskā bioķīmija]] un [[funkcionālā bioķīmija]].<ref name="sporta bioķīmija">{{Tīmekļa atsauce | author= Maija Dzintare | url=  https://enciklopedija.lv/skirklis/2307 | title= Sporta bioķīmija | publisher= Nacionālā enciklopēdija | accessdate= 2019. gada 7. janvārī}}</ref> Bioķīmija ir cieši saistīta ar [[molekulārā bioloģija|molekulāro bioloģiju]], kas pēta procesus, kuri [[gēns|gēnos]] iekodēto [[ģenētiskais kods|informāciju]] izmanto organisma funkciju nodrošināšanai — replikāciju, transkripciju un translāciju. Par bioķīmijas sākumu tiek uzskatīts 1828. gads, kad vācu ķīmiķis [[Frīdrihs Vēlers]] ķīmiski sintezēja [[karbamīds|karbamīdu]] (urīnvielu), pierādot ka organiskas vielas var tikt mākslīgi sintezētas.
+
+Bioķīmijai ir daudz dažādu pielietojumu: no [[lauksaimniecība]]s līdz [[medicīna]]i un [[ģenētika]]i.
+
+== Statiskā bioķīmija ==
+Statiskajā bioķīmijā pēta organismu [[ķīmiskais sastāvs|ķīmisko sastāvu]].<ref name="sporta bioķīmija"/> Liela uzmanība vērsta uz [[bioloģiskā makromolekula|bioloģisko makromolekulu]] struktūru, funkcijām un savstarpējām pārvērtībām dzīvā [[šūna|šūnā]], jo tie rada ķīmiskos un fizikālķīmiskos procesus, kas notiek dzīvās [[šūna|šūnās]] un starp šūnām, kas savukārt lielā mērā attiecas uz [[audi|audu]], [[orgāns|orgānu]] un organisma struktūras un funkciju izpēti un izpratni. Bioloģiskās makromolekulas ir [[olbaltumvielas]], [[nukleīnskābes]] (piemēram, [[dezoksiribonukleīnskābe|DNS]] un [[ribonukleīnskābe|RNS]]), [[ogļhidrāti]], [[lipīdi]] un to [[metabolīti]].
+
+== Dinamiskā bioķīmija ==
+Dinamiskajā bioķīmijā pēta [[vielmaiņa]]s reakcijas un to regulāciju.<ref name="sporta bioķīmija"/> Vielmaiņa nodrošina [[dzīvība]]s procesus un tās uzturēšanu.
+
+== Funkcionālā bioķīmija ==
+Funkcionālajā bioķīmijā pēta, kā vielmaiņas reakcijas pieskaņojas organisma funkcionālajam stāvoklim.<ref name="sporta bioķīmija"/> Šajā sfērā nozīmīgs pētījumu lauks ir [[sporta bioķīmija]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.neslimo.lv/pme/?name=biologiska-kimija | title= Bioloģiskā ķīmija | publisher= neslimo.lv (Populārā medicīnas enciklopēdija)}}
+
+
+{{bioķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bioķīmija| ]]

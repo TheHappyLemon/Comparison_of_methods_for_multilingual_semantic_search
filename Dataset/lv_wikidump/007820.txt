@@ -1,0 +1,102 @@
+{{Latvijas novada infokaste
+| nosaukums         = Sēlpils pagasts
+| karte             = Sēlpils pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs2           = [[Sēlija (ciems)|Sēlija]]
+| platība           = 121,7
+| iedzīvotāji       = 1026<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1026 / 121.7 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = 
+}}
+
+'''Sēlpils pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām [[Daugava]]s kreisajā krastā. Robežojas ar sava novada [[Salas pagasts (Salas novads)|Salas]] un [[Viesītes pagasts|Viesītes]] pagastiem, un pa [[Daugava|Daugavu]] ar [[Krustpils pagasts|Krustpils pagastu]], kā arī [[Aizkraukles novads|Aizkraukles novada]] [[Pļaviņas|Pļaviņu]] pilsētu un [[Sunākstes pagasts|Sunākstes]], [[Staburaga pagasts|Staburaga]] un [[Klintaines pagasts|Klintaines]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Daugava]], [[Pikstere]], [[Rudzaite]], [[Pūķupīte]], [[Akmeņupīte (Vīķu ezera pieteka)|Akmeņupīte]].
+
+==== Ūdenstilpes ====
+[[Baltiņu ezers (Sēlpils pagasts)|Baltiņu ezers]], [[Nikmaņu dīķis]], [[Vīķu ezers]].
+
+== Vēsture ==
+Mūsdienu Sēlpils pagasta teritorijā vēsturiski atradās Dānefeldes muiža (''Gut Danenfeld''), Līkumu muiža (''Gut Stabliten'', [[Līkumi]]), Renneberģu muiža (''Gut Renneberg'', [[Bitānkalns]]), Vecsēlpils muiža (''Gut Alt-Selburg'', [[Vecsēlpils]]).
+
+1945. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Sēlpils pagastā izveidoja [[Jaunsēlpils ciems|Jaunsēlpils]], Sēlpils un [[Staburaga ciems|Staburaga]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Sēlpils ciemam pievienoja [[Ezera ciems|Ezera ciemu]], 1961. gadā - daļu Jaunsēlpils ciema, 1971. gadā - daļu [[Vārnavas ciems|Vārnavas ciema]]. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā Sēlpils pagasts apvienojās ar [[Salas pagasts (Salas novads)|Salas pagastu]], izveidojot [[Salas novads|Salas novadu]]. 2021. gadā Salas novadu iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+=== Vēstures un arheoloģijas pieminekļi ===
+* [[Sēlpils pils]] un pilskalns, valsts nozīmes vēstures un arheoloģijas piemineklis
+* [[Strūves ģeodēziskais loks|Strūves ģeodēziskā loka]] punkts ''Arbidāni''
+* [[Sudrabkalns (pilskalns)]]
+* [[Babrānu pilskalns]]
+* Baltiņu svētavots
+* Ezernieku Velnakmens, kulta vieta.
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: [[Arbidāni]], [[Bisenieki (Sēlpils pagasts)|Bisenieki]], [[Bitānkalns]], [[Buivāni]], [[Ezerciems]], [[Gretes]], [[Īlenāni]], [[Ķipu kalns]], [[Kleberkalns]], [[Līkumi]], [[Naudīdzāni]], [[Pāvuli]], [[Plāteri (ciems)]], [[Plītes]], [[Priekšāni]], [[Puļpāni]], [[Riesti (Sēlpils pagasts)|Riesti]], [[Sēlija (ciems)|Sēlija]] (pagasta centrs), [[Sēlpils (Sēlpils pagasts)|Sēlpils]], [[Spietiņi]], [[Ūdrāni]], [[Vecsēlpils]], [[Zaķēni]].
+
+=== Ievērojamas personības ===
+Sēlpils pagastā dzimuši:
+* [[Pēteris Rizga]] (1883—1955) — biškopis un sabiedriskais darbinieks
+* [[Vilis Krūmiņš]] (1919—2000), politiķis, LKP CK Otrais sekretārs, vēlāk Dabas muzeja direktors (1961—1999)
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="70px" perrow="5"> 
+Attēls:selpils baznicas drupas.JPG|<center><small>[[Sēlpils baznīca]]s drupas</small></center>
+Attēls:selpils baznicas drupas2.JPG|<center><small>[[Sēlpils baznīca]]s drupas</small></center>
+Attēls:selpils drupas.JPG|<center><small>[[Sēlpils pilsdrupas]]</small></center>
+Attēls:kipu vejdzirnavu drupas.JPG|<center><small>Ķipu vējdzirnavu drupas</small></center>
+Attēls:selpils senkapi.JPG|<center><small>Sēlpils vecie kapi</small></center>
+Attēls:pormalu sudrabkalns.JPG|<center><small>Pormaļu sudrabkalns</small></center>
+Attēls:stacija daugava.JPG|<center><small>[[Daugava (stacija)|Daugavas dzelzceļa stacija]]</small></center>
+Attēls:Cels Jekabpils - Aizkraukle.JPG|<center><small>Ceļš [[Jēkabpils]] - [[Aizkraukle]]</small></center>
+Attēls:Ciemata Selija.JPG|<center><small>Ciematā Sēlija</small></center>
+Attēls:piem akmens Oskaram Valdmanim.JPG|<center><small>Piemiņas akmens Oskaram Valdmanim</small></center>
+Attēls:ciemats Selija.JPG|<center><small>Ciemats Sēlija</small></center>
+Attēls:selija ainava.JPG|<center><small>Ainava</small></center>
+Attēls:selpils 800.JPG|<center><small>Sēlpils 800</small></center>
+Attēls:selpils estrade.JPG|<center><small>Sēlpils estrāde</small></center>
+Attēls:selpils stacija.JPG|<center><small>[[Sēlpils (stacija)|Sēlpils dzelzceļa stacija]]</small></center>
+</gallery></center>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [http://www.latvijas-pilskalni.lv/babranu-pilskalns/ Babrānu pilskalns]
+* [http://www.latvijas-pilskalni.lv/pormalu-sudrabkalns/ Pormaļu Sudrabkalns]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Salas novads}}
+{{Jēkabpils rajons}}
+{{Jēkabpils apriņķis}}
+}}
+
+{{DEFAULTSORT:Selpils pagasts}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Sēlpils pagasts| ]]

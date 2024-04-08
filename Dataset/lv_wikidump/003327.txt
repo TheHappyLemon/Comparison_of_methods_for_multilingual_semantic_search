@@ -1,0 +1,372 @@
+{{Jāuzlabo}}
+{{Enciklopēdisks stils}}
+{{Nosaukums slīprakstā}}
+{{Datorspēles infokaste
+|bilde=[[Attēls:Muonine.gif]]
+|developer = ''[[Webzen]]''
+|publisher = ''[[Webzen]]''
+|release = 2003. gads
+|genre = [[MMORPG]]
+|modes = Daudzspēlētāju
+|platforms = ''[[Windows 98]]/[[Windows ME|ME]]/[[Windows 2000|2K]]/[[Windows XP|XP]]/[[Windows Vista]]/[[Windows 7]]''
+|media = Bezmaksas lejupielāde
+|requirements = [[Pentium III]] 500 MHz,<br />
+64MB RAM,<br />
+32 MB video karte,<br />
+pieeja [[internets|internetam]],<br />
+DirectX 8, skaņu karte,<br />
+250 MB  brīva vieta
+|input =  [[Datorpele|Pele]], [[Datora tastatūra|tastatūra]]
+}}
+'''''MU Online''''' (no {{val|ko|뮤 온라인}}) ir [[Koreja]]s kompānijas ''[[Webzen]]'' 2003. gadā izveidota daudzspēlētāju tiešsaistes [[datorspēles|datorspēle]] (''MMORPG''). Par ''MU Online'' spēlēšanu globālajos serveros nav jāmaksā, bet ir pieejami [[sīkmaksājums|sīkmaksājumi]], par ko var iegādāties pieredzi un ''drop'' palielinājumus. Ir pieejami arī privātie jeb neoficiālie [[serveris|serveri]], kuros ir plašākas iespējas.
+
+== Spēles vide ==
+
+=== Varoņu klases ===
+
+* Tumsas bruņinieks (''Dark Knight'') — specializējas tuvcīņā. Uzlabo savu spēku un apgūst jaunas prasmes. Spēles gaitā spēj attīstīties par Asmens bruņinieku (''Blade knight'') (izpildot 1. uzdevumu). Izpildot 3. uzdevumu var kļūt arī par Asmeņmeistaru (''Blade master''). Sākuma līmenis ir relatīvi liela veselība, tāpēc ir grūtāk nogalināms. Viņu sauc arī vienkārši par karavīru, DK un BK (pēdējie divi ir saīsinājumi). Spēli sāk vai pēc atiestatīšanas parādās Lorencijā.
+* Tumsas burvis (''Dark Wizard'') — specializējas burvestībās. Spēles gaitā spēj attīstīties par Dvēseļu meistaru (''Soul Master'') (izpildot 1. uzdevumu) un Lielmeistaru (''Grand Master'') (izpildot 3. uzdevumu). Viņa galvenā priekšrocība ir spēja vienlaikus sist ļoti daudz briesmoņu (dažas spējas ļauj vienlaikus uzbrukt visiem ekrānā redzamajiem briesmoņiem). Viņu sauc arī vienkārši par burvi, DW un SM (pēdējie divi ir saīsinājumi). Spēli sāk vai pēc atiestatīšanas pārādās Lorencijā.
+* Elfs (''Elf'') (arī ''fairy elf'') — var lietot šaujamieročus (lokus vai arbaletus). Elfi var arī apgūt aizsardzības vai uzbrukuma burvestības. Spēles gaitā no Feju elfiem (''Fairy Elf'') var attīstīties par Mūzas elfu (''Muse Elf'') (izpildot 1. uzdevumu) un Augstāko elfu (''High Elf'') (izpildot 3. uzdevumu). Viņu lielākoties sauc vienkārši par elfu, lai arī retāk lieto jēdzienu ME (tas ir saīsinājums). Spēli sāk vai pēc atiestatīšanās parādās Norijā.
+* Burvju gladiators (''Magic Gladiator'') — specializējas tuvcīņā kombinācijā ar burvestībām. Spēlē attīstās ātrāk nekā pārējie varoņi, jo par katru līmeni iegūst 7 punktus. Var pārtapt par Divkauju meistaru (''Duel Master''). Viņš var lietot gandrīz visas burvja un karavīra spējas un bruņojums, bet ne BK un SM. Viņu parasti sauc vienkārši par gladiatoru vai MG. Spēli sāk vai pēc atiestatīšanas parādās Lorencijā.
+* Tumsas pavēlnieks (''Dark Lord'') — pieejams tikai jaunākajās versijās. Lai iegūtu šo varoni, vispirms ar kādu citu varoni jāsasniedz 250. līmenis. Viņi var lietot karavīra bruņas un ieročus, kā arī tieši viņiem paredzētas bruņas un ieročus. Var attīstīties par Pavēlnieku-imperatoru (''Lord Emperor''). Viņu dažreiz sauc par DL. Dažos serveros DL var iegūt jau no 250. līmeņa, reizēm tie ir pieejami arī no 150. līmeņa. Viņi, tāpat kā gladiatori, par līmeni saņem 7 punktus. Spēli sāk vai pēc atiestatīšanas parādās Lorencijā.
+* Izsaucējs (''Summoner'') — viņi (precīzāk viņas) ir pieejami tikai jaunākajās versijās. Viņi var lietot dažas burvja spējas. Izpildot 1. uzdevumu kļūst par Asiņaino izsaucēju (''Bloody summoner''). Spēli sāk vai pēc atiestatīšanas parādās @ ''Elbeland''.
+
+=== Varoņu parametri ===
+
+Visiem varoņiem ir 4 galvenie ''stats'': spēks (''strength''), veiklība (''agility''), vitalitāte (''vitality'') un enerģija (''energy'').
+
+* Spēks ''(strenght vai STR'') — palielina tuvcīņas ieroču efektivitāti.
+* Veiklība (''agility vai AGI'') — palielina iespējamību trāpīt un izvairīties no trāpījumiem. Palielina šaujamieroču uzbrukuma efektivitāti.
+* Vitalitāte (''vitality vai VIT'') — palielina dzīvotspēju.
+* Enerģija (''energy vai ENG'') — nosaka varoņu iespējas lietot spējas. Palielina burvju enerģijas (''mana'') daudzumu un atjaunošanās ātrumu. Lielāks daudzums enerģijas palielina spēju efektivitāti.
+* Komandēšana (''command'') — šis ir īpašs parametrs, kas ļauj Tumsas pavēlniekam dresēt dabā sastopamos dzīvniekus. Palielinot komandēšanas punktus ir iespēja iemācīties jaunas burvestības, kurām ir vajadzīga enerģija. Tumsas pavēlnieks ar attīstītu komandēšanu var savā ģildē turēt maksimāli 80 biedru, kas ir vairāk kā citiem varoņiem, kas ir ģildes vaditāji.
+
+=== Spējas (burvestības un prasmes) ===
+
+Tāpat kā citās šāda veida spēlēs, varoņi šeit var lietot burvestības un spējas. Katra veida varonim ir pieejamas savas spējas, un ieročiem var nākt līdzi noteikta spēja. Spēju lietošana tērē burvju enerģiju, un dažos gadījumos arī izturību (''stamina'').
+
+==== Bruņinieka spējas ====
+
+Bruņinieku ieročiem var nākt līdzi: ''Hacking'', ''Cyclone'', ''Stabbing'', ''Uppercut'' un ''Slash'' spējas, tās visas tērē tikai burvju enerģiju. Dažiem vairogiem nāk līdzi ''defend'' spēja. Bruņinieki var iemācīties vēl vairākas spējas. No lodēm nāk spējas: ''Furry of light (orb of blow)'' , ''spirit of fire'' (''spearthrust'' (izmantojama uz speciāla zirga ''Dynorant''), ''Twisting slash (orb of twisting slash)'', ''Light of life (orb of heal)'', ''reagefull blow (orb of reagefull blow)'' un ''death stab (orb of death stab)''.
+
+==== Burvja burvestības ====
+
+Burvjiem ir pieejams vislielākais daudzums spēju. Viņi tās var iemācīties no attiecīgajiem tīstokļiem (''scrolls''). Burvja spējas ir: Enerģijas lode, Uguns lode, Spēka vilnis, Zibens, Teleports, Meteorīts, Ledus, Inde, Liesmas, Tvisters, Ļaunais gars, Elles ugunis, Ūdens lielgabals, Blieziens. Dvēseļu meistars var iemācīties vēl šādas spējas: Masu teleportu, Manas vairogu, ''Decay'', Pēkšņais ledus, un Nova.
+
+==== Elfu spējas ====
+
+Elfu lokiem un arbaletiem var nākt līdzi trīskāršā šāviena (''tripple shot'') spēja. Elfi atsevišķi var iemācīties arī ''penetration'' spēju, kad sasniedz 130. līmeni (var izšaut cauri vairākiem briesmoņiem). Mūzas elfi var apgūt Ledus bultu (''ice arrow''), tam vajag vairāk nekā 500 veiklības punktu.
+
+Elfi vēl var lietot spējas, kas var ietekmēt sevi vai citus spēlētājus: dziedēt ''heal'', palielināt aizsardzību ''greater defence'', palielināt uzbrukuma spēku ''greater damage''. Šo spēju iedarbības efektivitāte ir atkarīga no elfa enerģijas daudzuma. Elfs ar pietiekoši lielu enerģiju var zema līmeņa spēlētājus padarīt tik stiprus, ka viņi var relatīvi viegli nosist tādus briesmoņus, kas citādi viņus nosistu ar vienu sitienu.
+
+Elfi var arī izsaukt briesmoņus, lai tie cīnītos kopā ar elfu.
+Tie ir: goblins, akmens golems, slepkava, Elitārais jetijs, Tumsas bruņinieks, bali un kareivji. Elfs vienlaikus var kontrolēt tikai briesmoni un, izsaucot jaunu briesmoni, iepriekšējais pazūd.
+
+==== Gladiatora spējas ====
+
+Gladiatori var lietot visas tumšā burvja spējas, izņemot teleportu un enerģijas lodi. Gladiatori var lietot arī ''twisting slash'' un bruņinieku ieroču spējas.
+
+==== Tumsas pavēlnieka spējas ====
+
+Viņi, tāpat kā burvji, savas spējas iemācās no tīstokļiem, taču pašas spējas ir līdzīgākas karavīru spējām. Tumsas pavēlniekam ir pieejams Melnais krauklis (''Dark Raven''), kas palīdz cīnīties un kuram ir vairākas spējas, un Tumsas zirgs (''Dark Horse'') — ar to var jāt arī zem ūdens. Tumsas pavēlniekam spārnu vietā ir apmetnis — ''Cape of Lord''.
+
+=== Karte ===
+
+[[Attēls:MU kontinents.jpg|thumb|240px|MU kontinents]]
+Lorencija (''Lorencia'') — Mu centrālā pilsēta. Savas gaitas šeit sāk Tumšie bruņinieki, Tumšie burvji, Burvju gladiatori un Tumsas pavēlnieki. Šī ir pati vieglākā spēles karte, piemērota varoņiem ar zemu līmeni līmeņa paaugstināšanai, lai tie varētu apmeklēt Deviasu un Pazemes Cietumu. Lorencija ir arī galvenais tirdzniecības centrs, nereti sastapsi varoņus, kuri tirgo savas mantas. Elfiem, kuri vēlas apmeklēt Lorenciju, vispirms jāsasniedz 10. līmenis. Ieeja Norijā atrodas Lorencijas pašos austrumos, un ieeja Pazemes Cietumā atrodas ne pārāk tālu uz ziemeļiem. Ieeja Devijā atrodas ziemeļaustrumu stūrī.
+
+Norija (''Noria'') — Norija atrodas Lorencijas austrumos. Šī ir elfu pilsēta, kurā Feju elfi sāk spēli. Vienmēr gaišas saules apspīdēta, Norija tiek uzskatīta par visskaistāko zemi visā kontinentā. Norijas centrā atrodas Haosa Aparāts, kuru izmanto dažādu priekšmetu kombinēšanai, un dārgakmeņi ir nepieciešami spēcīgāku priekšmetu radīšanai. Varoņiem, izņemot elfus, nepieciešams 10. līmenis, lai iekļūtu Norijā.
+
+Deviasa (''Devias'') vai Daviasa (''Davias'') — zeme uz ziemeļiem no Lorencijas, kas vienmēr klāta ar mūžīgo sniegu. Šajā zemē ir stiprāki briesmoņi par tiem, kas ir Norijā un Lorencijā, un iekļūt šeit var tikai 15. līmeni sasniegušie varoņi. Šī pilsēta ir iemīļota vidējo un augstākā līmeņa varoņiem, tā kā šeit ir briesmoņi, kas atbilst viņu treniņu vajadzībām.
+
+Pazemes cietums (''Dungeon'') — Vēl ilgi pirms Kunduna ierašanās Pazemes cietumā tika turēti noziedznieki. Bet kad sākās feodālais karš, Pazemes cietums tika pamests, un kad Kunduns ieradās, viņš okupēja to kā savu priekšposteni, no kurienes sūtīt briesmoņus, kas uzbruktu Lorencijai. Kunduns iecēla vienu no saviem kalpiem, Gorgonu, par tā priekšnieku. Pazemes cietums ir trīsstāvīga ala, kur katrs stāvs kļūst arvien grūtāks, un pašā alas dibenā atrodas Gorgons. Viena no Pazemes cietuma raksturīgākajām īpašībām ir daudzie slazdi, kas paslēpti alas sienās un zemē. Vienmēr esi uzmanīgs, klejojot pa Pazemes cietumu.
+
+Zudušais tornis (''Lost Tower'') — Zudušais Tornis kādreiz mēdza būt dzīvei uzticīga svētnīca, bet drīz to okupēja Kunduns un nolādēja ar ļaunumu. Tagad septiņstāvīgais tornis ir tumšs, un daži visbīstamākie briesmoņi klīst pa torni. Septītajā stāvā atrodas Balrogs, milzīga radība, kas līdzīga kentauram. Tornī ir ļoti daudz lamatu, kas atbrīvo meteorītu dambi — tas trāpa katrai ekrānā redzamajai personai. Parasti šeit cīnās augstu līmeņu varoņi nelielās grupās. Septītais stāvs stiepjas tik augstu, ka izejot no tā nokļūst debesīs — Ikarā.
+
+Atlansa (''Atlans'')— Atlansa ir jūra Norijas austrumos. Kad Kunduns cēlās, viņa antīkā kalpone Hidra ieradās šajā jūrā, līdzi nesdama vienu daļu no Zīmogakmens. Šī ir viena no vislabākajām vietām, kur trenēties vidēji augsta līmeņa varoņiem, un ir vajadzīgs 60. līmenis, lai iekļūtu Atlansā. Tā kā karte atrodas zem ūdens, varoņi šeit peld, un zem ūdens nevar atrasties ar zirgu.
+
+Tarkana (''Tarkan'') — Tarkana ir tuksnesis, kas atrodas Atlansas ziemeļos. Tarkana jeb „Nāves tuksnesis”, ir apdzīvota ar vieniem no visstiprākajiem briesmoņiem, kādi vien atrodami Mu kontinentā. Visspēcīgākie Tarkanas briesmoņi ir Zaikans un Nāves stara bruņinieks. Lai tur iekļūtu, nepieciešams 130. līmenis.
+
+Ikara (''Icarus'') — augstu gaisā, virs visa Mu kontinenta esoša debesu zeme. Arī šeit ir vieni no visspēcīgākajiem briesmoņiem. Tur spēj nokļūt tikai varoņi ar spārniem vai Dinorantu. Uz visaugstākā mākoņa atrodas spēcīgais Tumsas fēnikss, ko ir ļoti grūti sakaut.
+
+Kalima (''Kalima'') — šeit atrodas vienīgi drupas, kurām cauri plūst spēcīga ūdens straume. Tā kā šī karte ir notikuma lokācija, tad tā ir sadalīta sešos dažādos grūtības līmeņos. Katras kartes beigās, kas atgādina gaiteni, atrodas briesmonis Kunduna Ilūzija (''Illusion of Kundun''), kurš ir ļoti viegli pieveicams pirmajā Kalimas līmenī, bet grūtības sagādā ceturtajā, piektajā līmenī. Sestās Kalimas beigās atrodas pats Kunduns, līdz šim pats spēcīgākais zināmais briesmonis.
+
+Lorēnas ieleja (''Valley of Loren'') — Karte, kurā notiek Pils aplenkšanas (''Castle Siege'') notikums.
+
+Pārbaudījuma Zeme (''Land of Trials'') — Zemē var nokļūt tās ģildes biedri, kuri ir uzvarējuši Pils ielenkšanu. Ģildes īpašnieks var izvēlēties vai šo zemi paturēt pieejamu tikai savai ģildei vai iekasēt no citiem spēlētājiem ieejas maksu.
+
+Arēna jeb stadions (''Arena or Stadium'') — vieta, kur ģildes var spēlēt Mu cīņas futbolu. Punktus var gūt, gan nogalinot pretējās komandas varoņus, gan gūstot vārtus. Liela daļa privāto serveru izmanto arēnu kā treniņu vietu varoņiem.
+
+Aida (''Aida'') — Mu zālainā ieleja, ir līdzīga Norijai, tikai tā ir daudz lielāka un skaistāka. Šajā plašāja zemē klīst daudz stipru briesmoņu.
+
+Kraivolfa (''Crywolf'') — Kraivolfā var nokļūt caur Lorenas Ieleju. Šī ir notikuma karte, kurā varoņiem jāaizsargā vilka statuja un jāatvaira ļoti spēcīgu briesmoņu, ieskaitot Balgasu, uzbrukumi.
+Kantura/Kantur — jauna karte, kas atrodama otrajā sezonā. Turp var nokļūt caur Tarkanu. Tāpat kā Kraivolfa, šī karte ir paredzēta pasākumiem.
+
+Balgasa kazarmas (''Balgass Barracks'') — šī jaunā karte nāk līdz ar trešo sezonu. Tajā var nokļūt caur Kraivolfu, ja parunā ar ‘’NPC’’ vārdā ‘’Werewolf Quarrel’’. Šī karte ir nepieciešama varoņu trešā līmeņa iegūšanas uzdevumā.
+
+Balgasa patvērums (''Balgass Refuge'') — iekļūt var caur Balgas kazarmām runājot ar ‘’NPC’’ Vārtusargs (‘’Gate Keeper’’). Šeit varonim jāstājas pretī augstākajam uzdevumam šajā spēlē un jāpabeidz pēdējā daļa uzdevumam, kas ļaus iegūt trešā līmeņa varoni.
+
+Ilūziju templis (''Temple of Illusion'') — jaunā masu notikumu karte. Šeit norisinās kauja starp divām komandām: Zilo un Dzelteno.
+
+== Priekšmeti ==
+
+[[Attēls:Plus13 Item 300px.jpg|thumb|300px|Burvis spēlē ar Kundun zizli +13.]]
+Lielākajai daļai bruņojuma ir iespējami līmeņi. Tas ir, lietai var būt labākas īpašības un attiecīgi lielākas prasības. Līmeņus ir iespējams palielināt līdz +13, bet dažos serveros arī vairāk.
+
+Priekšmetu bonusi.
+
+Palielinātas īpašības un prasības, nepalielinot līmeni. Tos arī ir iespējams palielināt, taču tas ir sarežģītāk:
+: 0., 1. un 2. priekšmeti nespīdēs. Viņi izskatīsies parasti, lai gan daži ļoti spēcīgi, kā Pūķa šķēps jau sāks spīdēt.
+
+*:: 3. un 4. līmeņos mantas minimāli spīdēs sarkanas. Šādas lietas nav retas.
+*:: 5. un 6. līmeņa mantas spīdēs zilas. Dažas vājas mantas jau kritīs 5. un 6.
+*:: 7. un 8. līmeņa mantas jau pamanāmi spīdēs. Tu vari iegūt tikai vienu no šīm caur uzlabošanu, tirgošanu.
+*:: 9., 10., un 11. līmeņa mantas jau stipri spīdēs. 11. līmeņa mantas parasti spīd baltā krāsā, lai atšķirtos no 9. un 10. līmeņa mantām.
+*:: 12. un 13. līmeņa mantas spīd kā +9 līdz +11, tikai ik pa laikam tās balti iemirdzas.
+
+TIKAI PRIVĀTAJOS SERVEROS:
+
+*:: 14. līmenis spīd kā +13.
+*:: 15. līmeņa mantas pārvēršas nedaudz caurspīdīgi sarkanas (lai gan citi spēlētāji to redz kā +14).
+
+Veiksmīgās lietas (''lucky items'') — tām ir vieglāk palielināt līmeni (augstākajos līmeņos ir lielākas izdošanās varbūtības), un ieroči ar šo īpašību var uzsist ''critical damage''. Šāda veida lietas var tikai atrast.
+
+Lieliskās lietas (''excellent items'') — grūtāk atrodamas lietas, ar labākām īpašībām un lielākām prasībām kā tāda paša līmeņa parastajām lietām. Tām piemīt ''bonus'' īpašības, kas nav sastopamas parastām lietām.
+
+=== Bruņas ===
+
+Bruņu komplekti sastāv no zābakiem, biksēm, bruņām, cimdiem un ķiveres. Gladiatori nevar lietot ķiveri, tāpēc viņu bruņu komplektos tās nav. Pēc varoņa bruņu komplekta un tā līmeņa parasti var spriest par tā līmeni, lai arī nabadzīgi (kas nevar atļauties ko labāku) augsta līmeņa varoņi var izskatīties kā zema līmeņa varoņi.
+
+Bruņinieki var lietot šādus bruņu komplektus: ādas (''leather''), bronzas (''bronze''), zvīņu (''scale''), misiņa (''brass''), [[plākšņu bruņas|plākšņu]] (''plate''), pūķa (''dragon'') un melnā pūķa (''black dragon'') komplektus. ''Blade knight'' var lietot arī tumšā fēniksa un dižā pūķa komplektus.
+
+Burvji var lietot šādus bruņu komplektus: auduma, kaula, sfinksa un leģendāros komplektus. Soul master var lietot arī lieliskās dvēseles, [[adamantīns|admantīna]] un tumšās dvēseles komplektus.
+
+Elfi var lietot šādus bruņu komplektus: vīnogulāja (''vine''), zīda (''silk''), vēja (''wind''), gara (''spirit'') un sarga (''guardian''). Mūzas elfs var lietot arī dievišķos (''divine'') un sārtā gara (''red spirit'' vai ''nature'') (pazīstami arī kā dabas) komplektus.
+
+Gladiatori var lietot visus karavīru un burvju bruņu komplektus, tikai viņi nevar lietot ķiveri. Viņiem ir arī speciāli komplekti, kuriem nav ķiveres: vētras vanaga, zibens vanags un hurricane (jaunākajos serveros arī mitos).
+
+Tumsas pavēlnieki var lietot šādus karavīra komplektus: ādas, bronzas, zvīņu. Arī viņiem ir savi komplekti: vieglās bruņas, adamantīna, tumsas tērauda un tumsas meistara.
+
+Daudzos serveros dažādiem komplektiem ir atšķirīgi nosaukumi (sārtā gara komplektu dažreiz sauc par dabas), un reizēm arī citādāka funkcionalitāte. Dažādos serveros var atšķirties komponentu parametri.
+
+=== Ieroči ===
+
+Dažus ieročus var lietot vairākas varoņu klases. Lielākoties katrai klasei ir noteikti ieroči.
+
+* Zobeni (''swords'') — tie var būt vienrokas (otrā rokā var ielikt vairogu vai otru līdzīgu) vai divroku ieroči. Tie ir samērā ātri ieroči.
+* Cirvji — tie ir lēnāki kā zobeni, bet ar tiem var stiprāk iesist.
+* Vāles — tās parasti ir ļoti lēnas.
+* Loki (''bow'') — viens no diviem elfu galvenajiem ieročiem. Visiem ir iespējama ''tripple shot'' spēja. To bultas atšķiras no arbaletu bultām. Lokiem parasti ir mazāks ātrums kā arbaletiem.
+* Arbaleti — otrs no diviem elfu galvenajiem ieročiem. Arī pieejami ar ''tripple shot''.
+* Šķēpi un izkaptis — nepieciešami, lai varētu lietot dažas karavīra spējas.
+* Zižļi — burvju galvenie ieroči. Tiem piemīt īpašība procentuāli palielināt burvestību efektifitāti. Tos var lietot tikai burvji un gladiatori.
+* Scepteri — Tumsas pavēlnieku galvenais ierocis, tas procentuāli palielina viņa "dzīvnieku" spēku attālumu un ātrumu.
+
+=== Spārni ===
+
+[[Attēls:250px-Muo5.jpg|thumb|250px|Gaisa cīņa ar milzīgu briesmoni]]
+Spārnus var lietot tikai varoņi, kam ir vairāk nekā 180. līmenis. Lai varētu lietot otrā līmeņa spārnus, jāiziet īpašs uzdevums un jāsasniedz vismaz 215. līmeni. Tie palielina aizsardzības un uzbrukuma efektivitāti, kā arī ļauj nokļūt Ikarā. Katrai varoņu klasei ir savu veidu spārni. Arī spārniem var būt līmeņi, un, palielinoties līmenim, palielinās to aizsardzība, uzbrukuma efektivitāte un prasības pret lietotāja līmeni. Ir šādi spārni:
+
+1.līmenis:
+
+* Sātana spārni (Karavīram un Gladiatoram)
+* Eņģeļa spārni (Burvim un Gladiatoram)
+* Fejas spārni (Elfam)
+
+2.līmenis:
+* Tumsas pavēlnieka apmetnis (''dark lord'')
+* Velna spārni (''Blade knight'')(arī ''Dragon wings'')
+* Erceņģeļa spārni (''soul master'')
+* Taureņa spārni(''muse elf'') (arī ''holy spirit wings'')
+* Tumšie spārni (gladiatoriem) (arī ''thunder wings'')
+
+3.līmenis:
+* Vētras spārni (''Blade Master'')
+* Virpuļa spārni (''Grand Master'') (arī ''wings of space time'')
+* Ilūzijas spārni (''High Elf'')
+* Nolemtības spārni (''Duel Master'')
+* Pavēlnieka apvalks (''Lord Emperor'')
+
+=== Dzīvnieki ===
+
+[[Attēls:240px-Fenrir.jpg|thumb|240px|Fenrirs]]
+Mājdzīvniekus var izmantot Tumsas pavēlnieks. Šobrīd tie ir trīs veidu. Tie ir līdzīgi ''Sarga lietām'', bet viņiem nāk pieredze, atjaunojas dzīvības un ir unikālas spējas.
+
+* Tumsas krauklis — putns, kas var patiešo uzbrukt mērķim, palīdzot Tumsas pavēlniekam cīnīties. Tam ir 4 pozīcijas — Sekot, Automātiski uzbrukt, Uzbrukt ar Personāžu un Uzbrukt mērķim. Inventārā tas atrodas uz vairoga vietas.
+* Tumsas zirgs — dzīvnieks, ar kuru var jāt Tumsas pavēlnieks. Tas dod lielu aizsardzību, bojājumu uzsūkšanu un Zemestrīces prasmi, kas dara milzīgus bojājumus un visus notriec zemē. Tumsas zirgs arī palielina pārvietošanās ātrumu, kas ir pat lielāks nekā ar spārniem. Viņi liekas turpat, kur visi Sarga priekšmeti.
+* Fenrirs — dzīvnieks, līdzīgs Tumsas pavēlnieka zirgam. Šos dzīvniekus var lietot katra klase. Fenrira Plazmas vētras uzbrukums nodara bojājumus un sabojā bruņas PVP laikā.
+
+=== Citas lietas ===
+
+* Vairogi — tos var lietot tikai kopā ar vienrokas ieroci. Ir sastopami vairogi katrai klasei. Vairogiem var nākt līdzi aizsargāšanās spēja.
+* Gredzeni un amuleti — tie var palielināt izturību pret dažiem faktoriem (uguni, aukstumu, indi) un tiem var būt lieliskās īpašības (palielina ātrumu, veselību, utt), tie var arī nodrošināt dzīvību atjaunošanos. Ir sastopami arī pārvērtību gredzeni, kas var izmainīt varoņa izskatu, lai tas izskatītos pēc kāda briesmoņa.
+* Eņģelis — palielina veselību par 50 un absorbē 20% bojājumu.
+* Sātans — palielina uzbrukuma efektivitāti par 30%, par katru veiksmīgo uzbrukumu noņem 3 no veselības.
+* Unile — palielina iespēju izvairīties no uzbrukuma un pārvietošanās ātrumu.
+* Dinorants — palielina pārvietošanās ātrumu, uzbrukuma efektivitāti un defensi, kā arī ļauj nokļūt Ikarā. Lai to varētu lietot vajag vismaz 110. līmeni.
+* veselības pudelītes
+* burvju enerģijas (manas) pudelītes
+* pretindes pudelītes
+* alkohols — uz 1 minūti palielina uzbrukuma ātrumu par 20
+* Pilsētas teleporta tīstoklis — aizteleportē uz tuvāko pilsētu
+* bultas un arbaleta bultas. Paciņā ir 255 bultas.
+
+Spēlētāji, kas sasnieguši 50. līmeni, var teleportēties starp pilsētām ar "warp" vai "move" komandām (atkarībā no servera). Tas maksā kaut kādu daudzumu naudas, atkarībā no vietas līmeņa, uz kurieni grib tikt.
+
+Dārgakmeņi:
+
+Tos lieto priekšmetu līmeņu palielināšana
+
+* Haosa dārgakmens (''jewel of chaos'') — lieto gandrīz visām haosa mašīnas kombinācijām (tai skaitā spārnus izgatavošanai un priekšmetu līmeņu palielināšanai virs +9)
+* Svētības dārgakmens (''jewel of Bless'' vai ''jewel of Blessing'') — palielina priekšmetu līmeņus līdz +6. 100% izdošanās varbūtība.
+* Dvēseles dārgakmens (''jewel os Soul'') — palielina priekšmetu līmeņus līdz +9. 50% izdošanās varbūtība (75% ar veiksmi (''luck'')).
+* Dzīvības dārgakmens (''jewel of Life'') — palielina priekšmetu bonusus.
+* Rašanās dārgakmens (''jewel of creation'') — var pārtaisīt kā ''Stat fruits'' kurus apēdot, pieaug 1 stata punkts.
+
+Dažādi:
+
+* Spalva ("Loch's feather" vai "Blue feather") — nepieciešama otrā līmeņa BK. SM. ME. MG spārnu izgatavošanai.
+* Plāksne ("crest of monarch") — nepieciešama pirmā līmeņa DL. "Cape" apmetņa Izgatavošanai.
+
+== Notikumi ==
+
+=== Asins pils (''Blood castle'') ===
+
+Šajā notikumā spēlētājiem ir jāatgūst kritušā eņģeļa ierocis. Tur ir garš, šaurs tilts, kas ir pilns ar briesmoņiem. Tiem ir jāizsitas cauri, un pēc tam, kad ir nosists pietiekošs daudzums briesmoņu (spēlētāju skaits * 20), var tikt tālāk. Lai tur iekļūtu, jāsaņem ielūgums. Dažos serveros to var nopirkt veikalā, dažos — nākas taisīt pašiem. Izejvielas ir ''blood fang'' un ''scroll of the archangel''. Asins pilī ir 6 līmeņi. Dažādu līmeņu spēlētāji var tikt uz dažādu līmeņu notikumu.
+
+=== Velna laukums (''Devil's square'') ===
+
+Šim notikumam ir četri līmeņi, un tur iekšā ir vienkārši liels bars ar stipriem briesmoņiem. Uzdevums ir izdzīvot 20 minūtes, nogalinot briesmoņus, vācot punktus un iegūstot pieredzi. Ar ielūgumiem te ir tāpat kā Asins pilī.
+
+=== Haosa pils (''Chaos castle'') ===
+
+[[Attēls:Quest00432hp 260px.jpg|thumb|260px|Bilde no Haosa pils notikuma.]]
+Šim notikumam ir vairāki līmeņi un atšķirībā no abiem iepriekšējiem, te ir mūžīgs ielūgums. Dažos serveros to var nopirkt veikalā.
+Pirms Haosa Pils sākas, nejaušam dalībniekam tiek piešķirta visu spēlētāju dalības maksa.
+Tur var vienlaikus tikt iekšā līdz 100 spēlētāju (iepriekšējos 2 tikai 15). Visi spēlētāji kas ir tikuši iekšā, izskatās vienādi, un izskatās tāpat kā briesmoņi. Šeit beigās dzīvs paliek tikai viens.
+
+=== Zelta radību iebrukums (''Golden Invasion'') ===
+
+Dažiem briesmoņiem nav stingri noteiktu parādīšanās vietu, un viņi parādās dažādās kartēs (noria, lorencia, davias, atlans un tarkan) sākoties Asins Pilij. Šie briesmoņi izskatās līdzīgi attiecīgajiem parastajiem briesmoņiem, tikai ir zelta krāsā un ir ievērojami stiprāki, un no viņiem var izsist labākas lietas (dažādu līmeņu ''box of kundun''). No dažiem zelta briesmoņiem box of kundun izsist nevar. (mazie zelta pūķīši, zelta kareivis un briesmoņi, kas atrodas ap +4 un +5 līmeņa briesmoņiem). 4. un 5. līmeņa briesmoņi ir sastopami attiecīgi tikai atlanos un tarkanā.
+
+Box of kundun — tās ir kastītes, no kurām ārā krīt ''lieliskās mantas''. Šādas kastītes var būt ar līmeņiem no +1 līdz +5. Augstāko līmeņu kastītes krīt no stiprākiem briesmoņiem, kurus ir grūtāk nosist, taču no augstāku līmeņu ''box of kundun'' krīt augstāku līmeņu lietas.
+
+=== Baltā burvja iebrukums ===
+
+Šis notikums ir, kad milzīgs burvis un viņa orku karaspēks parādās nejaušās vietās Deviasā, Norijā un Lorensijā. Nogalinot Balto burvi, tu iegūsti ''Jewel of Bless'' un tavu [[Lietotājvārds|lietotājvārdu]] parāda uz ekrāna. Orki met 100 000 zenu vai Burvja gredzenu, kas palielina uzbrukuma ātrumu un nodarītos bojājumus.
+
+=== Pils iekarošana (''Castle Siege'') ===
+
+Pils iekarošana — (viens kontinents, viena pils ar vienu valdnieku), tas ir notikums, kurā atrodas karte ar pili, bet pilij var būt viens spēles varonis, kam ir ģilde. Ģildmeistars piereģistrējas (pirmais jaunā serverī) par pils feodāli. Lai sāktos šis notikums, vajag 1 aizsargājošo un 2 uzbrūkušās ģildes. Pils valdnieks (GM) kara laikā tiek iezīmēts ar izgreznotu vairogu, bet to biedri ar vienkāršu vairogu. Protams, ka uzbrucēji tiek iezīmēti ar zobenu. Uzbrukuma laikā ir oficiālās uzbrucēju ģildes (divas) un viena aizsargātāju, bet neoficiālie uzbrucēji var būt visi. Uzbrucēju mērķis ir iznīcināt 4 kristāla statujas, lai varētu tikt pie troņa, bet pa to laiku arī ar katapultām jāizsit sienas vai vieglāk ar pašu varoni izsit vārtus.
+
+== Uzdevumi (''quests'') ==
+
+Šo spēli bieži kritizē par to, ka te nav uzdevumu. Parasti RPG tipa spēlēs ir daudz uzdevumu un spēles process sastāv no to izpildes. ''MU Online'' sākotnēji bija tikai viens uzdevums — sasniegt nākamo līmeni.
+
+=== Pāreja uz nākamo līmeni ===
+
+Šo uzdevumu var sākt izpildīt 150. līmenī. Izpildot šo uzdevumu, varonis elfs, burvis vai karavīrs, kļūst attiecīgi par ''muse elf'', ''soul master'' vai ''blade knight'' un saņem 10 papildu statistikas punktus. Burvju gladiatori un Tumsas pavēlnieki šo uzdevumu nevar izpildīt, jo viņi ir spēcīgākajā formā jau no paša sākuma. Lai uzdevumu sāktu, jebkurā gadījumā jāaiziet pie viena cilvēciņa uz devias. Abās stadijās ir vajadzīga arī nauda.
+# . Jāatrod Scroll of Emperor.
+# . Jāatrod Lauztais zobens "Broken sword" (DK), burvja dvēsele "Wizard soul" (DW) vai elfas asara "Elf tear" (Elf).
+Šīs abas lietas var izsist no piemērota līmeņa briesmoņiem. Un arī citos Mu ir pieejami veikala bet tas ir citos.
+
+=== ''Marlon the trainer'' ===
+Daudzās pilsētās var atrast sargu vārdā Marlons, parunājiet ar viņu, un no 220. līmeņa var saņemt 5+1 punktus par līmeni.
+# . Atrodiet Ring of Honor, un atdodiet to Marlonam.
+# . (tikai BK) atrodiet Dark stone, un Marlons iemācīs jums nosaukto karavīru sapni, kombo spēju (pēc katra uzbrukuma, BK izstaros tādu kā enerģiju, un atņems masīvu daudzumu dzīvības punktus apkārtējiem pretiniekiem). Šis uzdevums tika pievienots diezgan nesen.
+
+=== Atiestatīšana (''reset'') ===
+Tas gan nav uzdevums, bet tāpat rada ievērojamas izmaiņas. Daudzos privātajos serveros, pēc maksimālā līmeņa sasniegšanas ir iespējams veikt atiestatīšanu — attiecīgajam varonim tiek atiestatīts līmenis (atkal ir pirmais līmenis), bet saglabājas stati. Saglabājas arī uzvilktais bruņojums, taču novelkot komponentus, kas prasa līmeni (spārni un dažus veidu bruņas), to nevar uzvilkt atpakaļ, kamēr nav sasniegts attiecīgais līmenis. Šādi izveidojas ļoti spēcīgs pirmā līmeņa varonis, kam parasti ir ļoti spēcīgs bruņojums (pirmajam līmenim), kas tādējādi pirmos līmeņus var sasniegt ļoti ātri. Privātajos serveros, pēc tam, kad sasniegts maksimālais līmenis, atiestatīšanu veic vai nu izlogojoties ārā un pēc tam [[iežurnāle|ielogojoties]] iekšā no jauna (automātiskā atiestatīšanās), vai arī pēc izlogošanās ārā, attiecīgā servera mājaslapā dodot attiecīgu komanda.
+
+Atkārtoti uzsitot maksimālo līmeni, atiestatīšanu parasti var atkārtot, iegūstot divas atiestatīšanas reizes. Šo procedūru parasti var atkārtot daudzas reizes, galu galā iegūstot ļoti lielus status. Tā kā status apraksta ''signed'' vai ''unsigned'' tipa 16 bitu vesels skaitlis, tad maksimālā statu vērtība var būt attiecīgi vai nu ~32 000 vai ~65 000 (atkarībā no servera). Pārsniedzot šo vērtību, stati vai nu nobrūk līdz 0, vai arī rodas kādas citas problēmas.
+
+Parasti maksimālais līmenis ir robežās no 350 līdz 400. Ja maksimālais līmenis ir 400, tad statu summa pa šiem līmeņiem ir 1995 (0. līmenis neeksistē). Palielinoties veiklības statam, palielinās uzbrukuma ātrums (''attack rate''). Dažas prasmes ar lielām šī parametra vērtībām netiek galā un pie noteiktām veiklības vērtībām nedarbojas (šīs vērtības nav precīzas, jo galvenais ietekmējošais faktors ir ātrums, kuru ietekmē arī bruņojums).<ref>[http://muonline-info.blogspot.com/2007/11/agility-bugs.html MU online info — gameplay, characters, maps..: Agility Bugs]</ref> Šo problēmu sauc arī par ''agility bug''. Divas plašāk lietotās, šīs problēmas skartās, prasmes ir burvja ''evil spirits'' un elfa ''multishot''.
+* Burvja prasmes:
+** Evil spirits:
+: Nedarbojas, ja veiklība ir šajos vērtību intervālos: 9820—10700; 15700—23250; 33200—65534
+: Darbojas tikai lietojot unili vai dinorantu, šajos veiklības vērtību intervālos: 5700—6550; 8200—9820; 13250—15700; 28250—33200.
+** Inferno:
+: Nedarbojas, ja aglility ir virs 61700.
+* Elfa prasmes:
+** Multishot:
+: Nedarbojas šajos veiklības vērtību intervālos: 23200—25250 un 37750—56500.
+
+Versija — 1.01(e,a utt.) — Šajā versijā ir iekļautas kartes Crywolf, Aida un Land of trials, kā arī jauni seti, BK> Dragon knight set (Bruņinieka pūķa), SM> Venom mist set (Indes dziedzeru), ME> Spylid set, MG> Volcano set (Vulkāna sets), DL> Sun light set (Saules gaismas).
+Ir arī jauni ieroči un spējas (BK;MG;DL), maģijas (SM;ME).
+Versija — 1.02(D;E; utt.) — Nekā jauna, izņemot vilku vārdā Fenrirs.
+Ir trīs fenriri.
+Oriģinālais — sarkans.
+Aizsardzības — zils.
+Uzbrukuma — melns.
+Ilūzijas — zelta
+Versija — 1.03 — Arī nekā jauna, tikai Kantru uzdevums, (1.02 sezonā 2 arī ir Kantru)
+
+Un jauna emocija /Dance (Tas varonis sāks dejot =)......)
+
+'''Spēles emocijas.'''
+
+Tu vari varonim likt darīt visādas kustības.
+
+{| class="wikitable"
+|-
+! Komanda
+! Efekts
+|-
+| Go go, Rush
+| Uzbrukuma kustība
+|-
+| Dance
+| liks varonim dejot
+|-
+| Respect
+| paklanās uz ceļiem
+|-
+| Come
+| aicina šurp {māj ar roku}
+|-
+| come on
+| aicina šurp stilīgā veidā
+|-
+| Hurt, cold
+| saberzē rokas
+|-
+| Hi,Welcome, Hello
+| paklanās
+|-
+| Hustle
+| parāda prieku
+|-
+| Victory, win
+| paceļ roku
+|-
+| Great
+| paceļ abas rokas
+|-
+| Sleep
+| nožāvājas
+|-
+| Looking around
+| paskatās apkārt
+|-
+| ^_^, ^^, Hahaha, Hehehe, Hohoho
+| smejas
+|-
+| Cry
+| raud (elfi), saķer galvu
+|-
+| OK
+| parāda augšupvērstu īkšķi
+|-
+| There, that
+| parāda uz kaut ko
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://mu.lv/guides ''Mu Online'' (lv) jaunākās ziņas, tendences un pamācības]
+* [https://muonline.us/ ''Mu Online'' ziņas un pamācības]
+
+[[Kategorija:PC spēles]]
+[[Kategorija:2003. gada videospēles]]

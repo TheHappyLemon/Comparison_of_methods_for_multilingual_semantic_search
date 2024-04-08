@@ -1,0 +1,13 @@
+{{DISPLAYTITLE:''phpBB''}}
+[[Attēls:PhpBB2-defaultinst.png|thumb|200 px|''phpBB'' 2.0.x standarta instalācija]]
+'''''phpBB''''' ir populāra [[Brīvā programmatūra|bezmaksas]] [[Atvērtais pirmkods|atvērtā pirmkoda]] [[Interneta diskusijas|interneta diskusiju]] organizācijas sistēma, kas izmanto [[PHP]] programmēšanas valodu un atbalsta daudzas [[datubāzu pārvaldības sistēma]]s, tai skaitā ''[[MySQL]]'', ''[[PostgreSQL]]'', ''[[Microsoft SQL Server|MSSQL]]'', ''[[Microsoft Access]]'' un arī ''[[Oracle Database|Oracle]]''.
+
+== Ārējās saites ==
+* [http://www.phpbb.com/ ''phpBB'' mājaslapa]
+* [http://area51.phpbb.com/ ''phpBB'' izstrādes zona]
+* [https://notepad.lv/forums/viewforum.php?f=67/ latviešu ''phpbb'' forumu saimnieku atbalsta forums]{{Novecojusi saite}}
+
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Bezmaksas programmatūra]]

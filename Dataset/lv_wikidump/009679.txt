@@ -1,0 +1,189 @@
+{{novec|Oracle ir nopircis Sun MS un ir būtiskas izmaiņas}}
+{{Nosaukums slīprakstā}}
+'''''MySQL''''' ir [[relāciju datubāzu pārvaldības sistēma]], kas ir uzstādīta uz vairāk nekā vienpadsmit miljoniem datoru visā pasaulē.{{nepieciešama atsauce}} ''MySQL'' izstrādā [[Zviedrija]]s uzņēmums ''[[MySQL AB]]'', kuru [[2008. gads|2008]]. gadā pārņēma ''[[Sun Microsystems]]''.
+
+''MySQL'' ir risinājums mazām un vidējām lietojumprogrammām. Tas ir iekļauts ''WAMP'', ''AppServ'', [[LAMP]] serveros un pārnēsājamos serveros — ''Denver'', ''XAMPP''. Parasti ''MySQL'' tiek izmantots kā serveris, pie kura vēršas vietējie vai attālinātie klienti, tas sevī ietver iekšējā servera bibliotēku, kas ļauj ''MySQL'' iekļaut autonomās programmās.
+
+Elastība, ko nodrošina ''MySQL'' datubāze, tiek panākta ar daudzu tabulu veidu atbalstu: lietotāji var izvēlēties ''[[MyISAM]]'' tipa tabulas, kas atbalsta pilnu teksta meklēšanu, vai ''[[InnoDB]]'' tipa tabulas, kas atbalsta transakcijas atsevišķu ierakstu līmenī. Turklāt, ''MySQL'' datu bāzē ir integrētas īpaša veida ''EXAMPLE'' tabulas, kas ilustrē jaunu tabulu izveidošanas principus. Pateicoties tās atvērtajai arhitektūrai un GPL licencēm, ''MySQL'' regulāri parādās jauna veida tabulas.
+
+2008. gada 26. februārī ''[[Sun Microsystems]]'' par 1 miljardu dolāru iegādājās ''MySQL AB''.
+
+2010. gada 27. janvārī ''[[Oracle Corporation]]'' iegādājas ''Sun Microsystems'' un iekļāva ''MySQL'' savā datu bāzu vadības sistēmu produkcijā.
+
+''MySQL'' programmētāju kopiena ir radījusi dažāda veida ''MySQL'' koda atzarus, piemēram, ''Drizzle'', ''OurDelta'', ''Percona Server'', un ''MariaDB''. Visi šie atzari jau pastāvēja brīdī, kad ''Sun'' un ''MySQL AB'' pārpirka uzņēmums ''Oracle''.
+
+== Par MySQL izcelsmi ==
+MySQL radās uzņēmumam mēģinot izmantot [[mSQL]] tabulās, kurās tika izmantota ISAM — zema līmeņa programmēšana. Tā rezultātā tika izveidota jauna SQL saskarne, bet [[Lietojumprogrammas saskarne|API]] saskarne palika mantojumā no [[mSQL]]. No kurienes ir radies nosaukums "MySQL" — nav zināms. Izstrādātājiem ir divas versijas par nosaukuma rašanos: vai nu tādēļ, ka praktiski visos kompānijas radītajos produkcijas nosaukumos ir priedēkli „My”, vai arī par godu Michael Monty Widenius, viena no sistēmas izstrādātāja meitai, kuras vārds ir My.
+
+MySQL logo redzamā delfīna nosaukums ir «Sakila». Tas tika izvēlēts no plaša delfīna vārdu piedāvātā sarakstu, kuru izveidoja lietotāji. Nosaukt to «Sakila» vārdā piedāvāja Open Source izstrādātājs Ambrose Twebaze.
+
+== Programmēšanas valodu atbalsts ==
+MySQL ir šāds programmēšanas valodu atbalsts: Delphi, C, C + +, Eiffel, Java, Lisp, Perl, PHP, PureBasic, Python, Ruby, Smalltalk, Component Pascal, un Tcl bibliotēkas priekš .NET platformu valodā, kā arī [[ODBC]] atbalsts, izmantojot MyODBC dziņus.
+
+== Maksimālais tabulu izmērs ==
+MySQL 3.22 versijā: līdz 4 GB
+MySQL 3.23+ versijās: līdz pat 8 miljoniem terabaitu. (2 ^ 63)
+
+Tabulu izmērs ir ierobežots atkarībā no to tipa. Kopumā MyISAM tipa tabulas ir ierobežotas ar faila lieluma ierobežojumu, kas atkarīgs no operētājsistēmas failu sistēmas. Piemēram, NTFS, šis lielums teorētiski varētu būt līdz pat 32 eksabaitiem. InnoDB gadījumā viena tabula var glabāties vairākos failos, un lielums var sasniegt pat līdz 64 terabaitiem.
+
+== Lokalizācija ==
+Sākot ar MySQL 4.1 versiju tajā ir iekļauta jauna kodēšanas un šķirošanas sistēma. Lietojot Windows 1251 kodējumu, pirms SQL instrukciju izpildes nepieciešams iestatīt savienojuma kodējumu izmantojot operatorus:
+
+ SET character_set_client='cp1251';
+ SET character_set_results='cp1251'; 
+ SET character_set_connection='cp1251';
+
+Trīs, augstāk minētie, operatori ir līdzvērtīgi šim vienam operatoram:
+
+ SET NAMES 'cp1251'
+
+Mainīgais character_set_client iestata no klienta sūtīto datu šifrēšanu, mainīgais character_set_results iestata klientam sūtāmo datu šifrēšanu, mainīgais character_set_connection iestata šifrēšanu, lai pārveidotu informāciju, kura ir nākusi no klienta pirms vaicājuma izpildes uz servera.
+
+Lietojot unikodu UTF-8, šis operators izskatās šādi:
+
+ SET NAMES 'utf8'
+
+== Lietojums ==
+Mysql ir populāra datubāzes tīmekļa [[lietotne]]s izvēle. Mysql ir galvenā sastāvdaļa no plaši lietotās [[LAMP]] tīmekļa lietotņu gūzmas. LAMP ir akronīms — [[Linux]],[[Apache HTTP serveris|Apache]],[[Mysql]],[[PHP]] savienojumam. Mysql popularitāte ir cieši saistīta ar [[PHP]].
+
+MySQL lieto daži no visbiežāk apmeklētajām tīmekļa vietnēm internetā, tostarp Flickr, Nokia.com, YouTube un kā minēts iepriekš: Vikipēdija, Google un Facebook.
+
+== Platformas un interfesi ==
+
+Mysql ir sarakstīta izmantojot [[C]] un [[C++]] programmēšanas valodas.
+Mysql darbojas uz visdažādākajām platrormām, populārākas no tām ir [[Linux]],
+[[Mac OS X]],[[Microsoft Windows]],[[Symbian]], taču mažak zināmās ir [[QNX]], [[Sanos]] u.c
+
+== Licencešana ==
+MySQL izmanto duālās licencēšanas biznesa moduli. MySQL var tikt izplatīts saskaņā ar [[GPL]] licences noteikumiem. 
+Tas var nesakrist ar izstrādātāju plāniem, kuri nevēlas publiskot programmu izstrādes tekstus. Šādos gadījumos tiek paredzēta komerciālā licence.
+
+== Produkta vēsture ==
+{{saistīts teksts}}
+* Galvenie Mysql attīstītāji bija [[Michael Widenius]] un [[David Axmark]] sākot ar 1994 gadu.
+* Pirmā globālā relīze 1995. gada 23. Maijā
+* Windows versija tika izlaista 1998. gada 8, janvārī Windows 95 un [[NT]] operētājsistēma
+* Versija 3.23 beta tika izlaista 2000. gadā, bet gatavā versija jau bija pieejama pēc gada.
+* Versija 4.0 beta tika izlaista 2002. gada augustā.
+* Versija 4.01 beta tika izlaista 2003. gada augustā. 
+* Versija 4.1 izlaista 2004. gadā.
+* Versija 5.0 izlaista 2005. gada oktobrī.
+* Pēc ši varam secināt,ka kartu gadu iznāk pa kādam uzlabojumam. Ražotāji neguļ.
+Finansiālu grūtību dēļ uzņēmums tiek paŗdots Sun Microsystems 2008. gada 27. novembrī.
+Šajā laikā tiek izstrādātas vēl pāris versijas — 5.1—6.0
+* Ilgi gan Sun Microsystems ''nevelk'' un jau 2010. gada 27. janvārī produkts nonāk Oracle pārraudzībā.
+* Versija 5.5 tika izlaista 2010. gada decembrī.
+
+=== MySQL 4.0 ===
+Neskatoties uz to, ka 4,0 versija ir novecojusi, tā joprojām ir ļoti izplatīta. Galvenās šīs versijas iezīmes ir:
+
+* gandrīz pilnīga ANSI SQL-99 ieviešana un paplašināšana;
+* Savietojamība starp platformām;
+* Neatkarīgu tabulu tipi (MyISAM ātrai lasīšanai, InnoDB);
+* Transakcijas;
+* SSL atbalsts;
+* vaicājumu kešošana;
+* Replikācija: viens galvenais serveris uz vienu klientu, daudzi klienti uz vienu serveri;
+* Pilna teksta indeksēšana un meklēšana izmantojot MyISAM tipa tabulas;
+* Iegultā datubāzu bibliotēka;
+* Unikoda (UTF-8) atbalsts;
+* InnoDB tabulas, lai nodrošinātu atbilstību ACID prasībām;
+* Iebūvētais serveris, kas ļauj iekļaut MySQL autonomās lietojumprogrammās.
+
+=== MySQL 4.1 ===
+Ieteicamā versija uz 2005. gadu bija MySQL 4,1, kas iznāca 2004. gada 27. oktobrī. Tā ietver šādus uzlabojumus:
+
+* Iebūvētie vaicājumi un atvasinātās tabulas;
+* Jaunā kodēšanas un šķirošanas sistēma;
+* Ātrāks un elastīgāks klienta-servera protokols, ar sagatavotu vaicājumu atbalstu, nodrošinot to optimālu darbību;
+* Jauna uzstādīšanas un konfigurācijas programma priekš Microsoft Windows un Linux;
+* Aizsargāts savienojums starp klientu un serveri izmantojot OpenSSL;
+* Ļoti optimizēta bibliotēka, kura var tikt izmantota trešās puses programmās;
+* Pilnīgs Unikoda (UTF-8 un UCS2) atbalsts;
+* Standarta telpisko datu tipi GIS, priekš ģeogrāfiskās informācijas uzglabāšanas;
+* Uzlabota pilna teksta meklēšana un palīdzības sistēma.
+
+=== MySQL 5.0 ===
+MySQL 5.0 versija tika izdota2005. gada 24. oktobrī. Šajā versijā ir ievērojami paplašināta funkcionalitāte, kas ļauj MySQL likt vienā līmenī ar komerciālām datubāzu vadības sistēmām. Ja MySQL datu bāzei, pirms tam tika pārmests tas, ka tā nepietiekami atbalsta SQL standartu, tad ar piektās versijas iznākšanu tika nodrošināts pilnīgs SQL standarta atbalsts. MySQL 5.0 versijā ietverti šādi uzlabojumi:
+
+* Saglabātās procedūras un funkcijas;
+* Kļūdu pārbaudītājs;
+* Kursori;
+* Trigeri;
+* Informācijas shēma (tā sauktā sistēmas vārdnīca, kas satur metadatus).
+
+=== MySQL 5.1 ===
+MySQL 5.1 versija turpina ceļu uz SQL: 2003 standartu. MySQL 5,1 iekļauti šādi jauninājumi:
+
+* Segmentācija — iespēja sadalīt lielu tabulu vairākos segmentos, kas izvietotas dažādās failu sistēmas daļās, pamatojoties uz lietotāja noteiktām funkcijām. Zināmos apstākļos tas var sniegt ievērojamu veiktspējas uzlabošanu.
+* Izmainīta operatoru darbība, lai nodrošinātu lielāku saderību ar SQL2003 standartu.
+* Rindas replikācija, kur binārajā log failā tiek rakstīta informācija tikai par reāli izmainītām rindām tabulā, sākotnējā, lēnā teksta vaicājuma vietā. Rindas replikācija var tikt izmantota tikai noteikta veida SQL vaicājuma izteiksmē.
+* Iebūvēts periodiski izpildāmo darbu plānotājs. Pēc sintakses uzdevumu pievienošana ir līdzinās trigera pievienošanai, bet pēc ideoloģijas — [[crontab]].
+* Papildu funkciju kopa XML pārstrādei, XPath atbalsta realizācija.
+* Jauni diagnostikas rīki problēmu noteikšanai un efektivitātes analīzei. Jaunas iespējas log failu satura vadībai, log failus tagad var glabāt general_log un slow_log tabulās. Mysqlslap ļauj veikt datubāzes slodzes testēšanu ar reakcijas laika noteikšanu katram vaicājumam.
+* Lai vienkāršotu atjaunināšanu sagatavota mysql_upgrade, kas pārbauda visas esošās tabulas, vai tās ir saderīgas ar jauno versiju, un, ja vajadzīgs, veic attiecīgus pielāgojumus.
+* MySQL Cluster tagad izdots kā atsevišķs produkts, kas ir balstīta uz MySQL 5.1 un NDBCLUSTER glabātuvi.
+* Būtiskas izmaiņas MySQL Cluster darbībā, kā, piemēram, spēja saglabāt tabulas datus uz diska.
+* Atgriešanās pie iebūvētās libmysqld bibliotēkas izmantošanas, kas netika izmantota MySQL 5.0 versijā.
+* Iespēja lejupielādēt trešo pušu moduļus, kas paplašina funkcionalitāti (piemēram, pilna teksta meklēšanu) bez servera pārstartēšanas.
+* Jauns tabulu tips Maria (noturīgs pret MyISAM darbības kļūmēm).
+
+=== Maria tabulu tips ===
+''Maria'' (sākot ar 5.2.x versiju — Aria) — jauns MySQL tabulu tips datu glabāšanai. Maria ir MyISAM uzlabota versija, papildinot to ar iespēju saglabāt visus datus pēc sistēmas kraha.
+
+Galvenās Maria priekšrocības:
+
+* Sistēmas kraha gadījumā atgriež atpakaļ pašreizējās darbības rezultātus, vai atgriež datus, kuri saglabāti pirms komandas LOCK TABLES.
+* Spēja atjaunot datus no jebkuras vietas, ieskaitot CREATE / DROP / RENAME / TRUNCATE. Var izmantot, lai radītu rezerves kopijas, veicot regulāru log failu kopēšanu.
+* Atbalsta visus kolonnu MyISAM formātus, paplašināts ar jauno «rows-in-block» formātu, izmantojot lappušu glabāšanas metodi, datu glabāšanai, pateicoties kuram kolonu dati var tikt kešoti.
+* Nākotnē tiks realizēti divi režīmi: transakcija ar vai bez attēlošanas log failā, kas var tikt izmantota darbā ar nesvarīgiem datiem.
+* Datu lappušu izmērs ir 8KB (MyISAM ir tikai 1KB), kas ļauj sasniegt augstāku efektivitāti fiksēta izmēra lauku indeksiem, bet mazāku efektivitāti, ja tiek indeksētas atslēgas ar mainīgu garumu.
+
+=== MySQL 5.5 ===
+5.5 MySQL versijas pamatā ir neizlaistā 5.4 versija MySQL un satur daudzus būtiskus uzlabojumus, kas saistīti ar palielinātu mērogojamību un veiktspēju, tostarp:
+
+* Pēc noklusējuma izmanto InnoDB.
+* Atbalsta daļēji sinhrono ''(semi-synchronous)'' replikāciju mehānismu kas balstīts uz InnoDB ielāpiem no Google.
+* Uzlabotas funkcijas datu sadalīšanai. Paplašinātā sintakse lielu tabulu sadalīšanai vairākās daļās, kas atrodas dažādās failu sistēmās. Pievienotas RANGE un LIST operācijas un optimizēšanas metodes.
+* Jauns saglabāto vaicājumu un JOIN operācijas optimizēšanas mehānisms.
+* Pārstrādāta iekšējo bloķējumu sistēma.
+* Integrēti Google uzlabojumi InnoDB darbības optimizācijai izmantojot CPU ar lielu kodolu skaitu.
+
+=== MySQL 6.0 ===
+MySQL 6.0 versijas izstrāde tika apturēta alfa testēšanas stadijā. Sākotnēji tika nolemts izveidot 5.2 versiju, taču īsi pēc tam tā tika pārdēvēta par 6.0 versiju. Tomēr drīz vien pēc tā, informācija par MySQL 6.0 versiju pazuda no izstrādātāju mājaslapas, un izstrādātāji koncentrējās uz 5.5 versijas, un pēc tās sekojošās 5.6 versijas izstrādi.
+
+Kā viens no galvenajiem 6.0 versijas jauninājumiem tika plānots, ieviest jauna veida tabulu – Falcon, kas tiktu attīstīta kā InnoDB aizstājējs. Saistībā ar 2010. gada Sun Microsystems pārņemšanu (to pārņēma kompānija Oracle), Falcon liktenis kļuva nezināms.
+
+== Lielākie lietotāji ==
+* [[Apple Inc.]]
+* [[Amazon]]
+* [[Digg]] — populāra IT ziņu vietne
+* [[Draugiem.lv]]
+* [[flickr]]
+* [[Friendster]] — vairāk nekā 85 miljoni lappušu skatījumu dienā, kas izpilda aptuveni 1,5 miljardus SQL pieprasījumu
+* [[Google]] — savai [[AdWords]] reklāmas sistēmai
+* [[LiveJournal]] — tīmekļa žurnālu sistēma un sociālais tīkls ar vairāk nekā 300 000 lappušu skatījumu ik dienas
+* [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] — pārgāja no [[Oracle datu bāze|Oracle]] uz MySQL
+* [[Slashdot]] — aptuveni 150&nbsp;000 lappušu skatījumi ik dienas
+* [[Vikipēdija]] — vairāk nekā 200 miljoni datu ieguves un aptuveni 1,2 miljoni datu izmaiņu SQL pieprasījumi dienā
+* [[Yahoo!]]
+
+== Skatīt arī ==
+* [[MariaDB]]
+* [[LAMP]]
+* [[PhpMyAdmin]]
+* [[MySQL Workbench]]
+* [[SQL]]
+
+== Ārējās saites ==
+{{Commonscat}}
+* [https://web.archive.org/web/20060904222219/http://www.mysql.com/products/database/ MySQL datubāzes tīmekļa vietne] {{en ikona}}
+* [http://www.planetmysql.org/ Planet MySQL - MySQL veltītu tīmekļa žurnālu agregators] {{en ikona}}
+* [https://web.archive.org/web/20080516025256/http://dev.mysql.com/doc/mysql/en/index.html MySQL rokasgrāmata] {{en ikona}}
+* [https://web.archive.org/web/20090221165456/http://datubazes.wordpress.com/mysql/ Infromācija par MySQL] {{lv ikona}}
+* [http://dev.mysql.com/doc/ Dokumentācija] {{en ikona}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datubāzu pārvaldības sistēmas]]
+[[Kategorija:MySQL]]

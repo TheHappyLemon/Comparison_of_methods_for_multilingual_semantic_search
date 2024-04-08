@@ -1,0 +1,30 @@
+{{ezera infokaste
+|ezers=Vulastona ezers
+|attēls=
+|map = Kanāda#Saskačevana
+| plat_d=58 | plat_m=15 | plat_s= | plat_NS=N
+| gar_d=103 | gar_m=20 | gar_s= | gar_EW=W
+|vieta={{CAN}}<br />&nbsp;&nbsp;[[Attēls:Flag of Saskatchewan.svg|22px|border]] [[Saskačevana]]
+|platība=2286
+|garums=113
+|Vid_dziļums=20,6
+|Max_dziļums=71
+|tilpums=75
+|augstums_vjl=398
+|izteka=[[Fondulaka]]<br />[[Kokrana]]
+|baseins=23 310
+|valstis=[[Kanāda]]
+|salas=
+|pilsētas=
+}}
+
+'''Vulastona ezers''' ({{val|en|Wollaston Lake}}) ir liels [[ezers]] [[Kanāda|Kanādā]], [[Saskačevana]]s provinces ziemeļaustrumos. Vienīgais lielais pasaules ezers ar divām iztekām. [[Fondulaka]]s upe iztek uz ziemeļrietumiem, uz [[Atabaskas ezers|Atabaskas ezeru]]. Savukārt [[Kokrana]]s upe plūst uz ziemeļaustrumiem, uz [[Reindīra ezers|Reindīra ezeru]]. Līdz ar to ezers atrodas uz [[ūdensšķirtne]]s starp [[Ziemeļu Ledus okeāns|Ziemeļu Ledus okeānu]] un [[Atlantijas okeāns|Atlantijas okeānu]]. Ezerā daudz salu; ezera platība ar salām ir 2681 km², bez salām — 2286 km².<ref>[http://atlas.nrcan.gc.ca/site/english/learningresources/facts/lakes.html/#saskatchewan The Atlas of Canada]</ref> Krasta līnijas garums ir ap {{nobr|1475 km}}. Eiropiešiem zināms no 1770. gada; nosaukts 1807. gadā par godu angļu ķīmiķim un fiziķim [[Viljams Vulastons|Viljamam Vulastonam]] ''(George Hyde Wollaston)''.<ref>{{Tīmekļa atsauce |url=http://esask.uregina.ca/entry/wollaston_lake.html |title=The Encyclopedia of Saskatchewan |access-date={{dat|2011|10|11||bez}} |archiveurl=https://web.archive.org/web/20110906051028/http://esask.uregina.ca/entry/wollaston_lake.html |archivedate={{dat|2011|09|06||bez}} }}</ref>
+
+Ezera krastā viens neliels ciemats [[Vulastonleika]] ar 800 iedzīvotājiem. Gar ezera rietumu krastu iet ceļš.
+
+Ezera dienvidrietumu daļā ieplūst Rabitleikas [[urāns (elements)|urāna]] ieguves kompleksa attīrītie notekūdeņi.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Kanādas ezeri]]

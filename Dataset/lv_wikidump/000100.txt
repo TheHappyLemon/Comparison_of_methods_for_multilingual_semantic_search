@@ -1,0 +1,89 @@
+{{Citas nozīmes|Personālo datoru|Personālais dators (nozīmju atdalīšana)|Personālais dators}}
+
+[[Attēls:Desktop computer clipart - Yellow theme.svg|thumb|250px|Stilizēta personālā datora ilustrācija]]
+[[Attēls:Desktop personal computer.jpg|thumb|250px|Dell OptiPlex galda dators]]
+
+'''Personālais dators''' ({{val|en|personal computer}} vai ''PC'') ir jebkurš dators, kura cena, izmērs un veiktspēja ir pielāgota individuālai lietošanai un ir paredzēta speciāli gala patērētājam, kurš ar šo iekārtu var darboties patstāvīgi un neatkarīgi.
+
+Mūsdienās personālais dators var būt gan kā galda dators, portatīvais jeb [[klēpjdators]] vai [[planšetdators]]. Vispopulārākās operētājsistēmas personālajam datoram ir [[Microsoft Windows]], [[Mac OS X|Mac OS]] un [[Linux]], kamēr vispopulārākais [[mikroprocesors]] ir [[x86]] tipa. Personālā datora programmnodrošinājums pamatā sastāv no teksta redaktoriem, tabulu redaktoriem, [[Datu bāze|datubāzu programmām]] un spēlēm, kā arī no neskaitāmām cita veida programmām. Mūsdienās personālajam datoram bieži vien ir ātrgaitas [[Internets|interneta]] pieslēgums, kas ļauj lietotājam piekļūt [[Vispasaules tīmeklis|vispasaules tīmeklim]] un daudzu citu veidu resursiem.
+
+Personālais dators var būt gan kā mājas, gan kā darba dators, kas atrodas lietotāja darba vietā un ir saslēgts [[Lokālais tīkls|lokālajā tīklā]] ar citiem darba datoriem.
+
+Atšķirībā no agrīnajiem personālā datora lietotājiem, kuriem bija pašiem jāraksta [[datorprogramma]]s, lai varētu produktīvi izmantot savu datoru, mūsdienās datora lietotājiem ir plaša pieeja komerciālajām un nekomerciālajām [[Datorprogramma|datorprogrammām]], kuras ir viegli instalējamas un saprotamas.
+
+== Vēsture ==
+Personālā datora veiktspēja ir ļoti strauji augusi kopš tā pirmsākumiem. Kopš [[1970. gadi|1970.]] gadu sākuma dažādos zinātniskos institūtos zinātnieki aktīvi meklēja un atrada risinājumu jauna tipa interaktīva personālā datora izveidei, kurš būtu paredzēts nenoteikta laika individuālai lietošanai. Tomēr šī personālā datora sistēma jebkurā gadījumā būtu pārāk dārga, lai tā piederētu privātpersonām.
+
+[[1975]]. gadā [[Mikroprocesors|mikroprocesora]] un [[Integrālā shēma|integrālās shēmas]] parādīšanās deva iespēju izveidot kompaktu personālā datora versiju, kura vēl pirms pāris gadiem  būtu aizņēmusi veselu istabu. Agrīnās personālā datora versijas (sākumā saukta par [[mikrodatori]]em) tika tirgotas komplektos un ierobežotā skaitā.
+
+== Personālo datoru arhitektūras ==
+* [[Apple Computer|Apple]] [[Macintosh]] un [[Power Macintosh]]
+* [[IBM PC]] un savietojamie
+* [[Sun Microsystems|Sun]] [[SparcStation]]
+* [[SGI]] darbstacijas
+
+== Personālā datora sastāvdaļas ==
+[[Image:Personal computer, exploded 6.svg|thumb|300px|An exploded view of a modern personal computer and peripherals:
+<ol>
+<li>[[Skaneris]]
+<li>[[Centrālais procesors]] ([[Mikroprocesors]])
+<li>[[Operatīvā atmiņa]] ([[RAM]])
+<li>Papildkartes (Videokartes, u.c.)
+<li>[[Barošanas bloks (dators)|Barošanas bloks]]
+<li>[[Optiskais diskdzinis]]
+<li>[[Cietais disks]]
+<li>[[Mātesplate]]
+<li>[[Skaļruņi|Skaļrunis]]
+<li>[[Monitors]]
+<li>[[Datorprogramma]]s
+<li>Papildu programmas (Spēles, u.c.)
+<li>[[Datora tastatūra|Tastatūra]]
+<li>[[Datorpele]]
+<li>[[Ārējais cietais disks]]
+<li>[[Printeris]]
+</ol>]]
+
+Tipiska galda personālā datora komplekta sastāvdaļas:
+
+* Datora korpuss ar barošanas bloku
+* [[Centrālais procesors]]
+* [[Mātesplate]]
+* [[Operatīvā atmiņa]]
+* [[Cietais disks]]
+* [[Videokarte]]
+* [[Monitors]] ([[Šķidro kristālu displejs|LCD]], LED vai [[kineskops|CRT]])
+* Optiskais diskdzinis (parasti [[DVD-ROM]] vai [[DVD±RW]])
+* [[Datora tastatūra|Tastatūra]] un [[Datorpele]]
+
+Kā papildus personālajam galda datoram var pievienot:
+
+* [[Printeris|Printeri]]
+* [[Skeneris|Skeneri]]
+* [[Skaļrunis|Skaļruņus]]
+* Ārējo cieto disku
+* Ārējo optisko diskdzini
+* u.c.
+
+== Datora pielāgošana cilvēkiem ar īpašām vajadzībām ==
+{{pamatraksts|Datora pielāgošana cilvēkiem ar īpašām vajadzībām}}
+
+== Skatīt arī ==
+* [[Personālā datora aparatūra]]
+* [[Mikrodators]]
+* [[Minidators]]
+* [[Lieldators]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{IT-aizmetnis}}
+{{Datora pamatkomponentes}}
+{{Gada cilvēks (Time) 1976—2000}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Personālie datori| ]]

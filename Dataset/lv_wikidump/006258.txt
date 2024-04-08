@@ -1,0 +1,174 @@
+{{Automobiļa infokaste
+| name         = Audi A8
+| image        = 2018 Audi A8 50 TDi Quattro Automatic 3.0.jpg
+| manufacturer = [[Audi AG]]
+| assembly     = Vācija: [[Neckarsulm]] (Neckarsulm Audi Rūpnīca)
+| aka          = 
+| production   = '''[[#D2|D2]]:''' 1994–2002<br />'''[[#D3|D3]]:''' 2002–2010<br />'''[[#D4|D4]]:''' 2010–2017<br />'''[[#D5|D5]]:''' 2017–šodien
+| class        = [[Full-size]] [[luxury car]] ([[F-segment|F]])
+| body_style  = 4-door [[sedan (automobile)|sedan]]
+| platform    = [[List of Volkswagen Group platforms|MLB]]
+| layout      = Priekšpiedziņa (1994-2013) / Pilnpiedziņa (1994-šodien)
+| related     = [[Audi S8]], [[Bentley Flying Spur (2005)|Bentley Flying Spur]]<br />[[Volkswagen Phaeton]]
+| predecessor = [[Audi V8|Audi V8 LWB]]
+}}
+
+'''Audi A8''' — pilnvērtīgs pārstāvnieciskās klases sedans, ko kopš 1994. gada ražo un tirgo Vācu autoražotājs Audi. Audi A8 tiek uzskatīti par Audi V8 modeļa pārņēmējiem un tagad jau ceturto paaudzi Audi A8 tiek piedāvāti gan ar priekšpiedziņas, gan pilnpiedziņas versijās, gan īsās, gan garās riteņu bāzes versijās. Pirmās divas paaudzes izmantoja Volkswagen Group D platformu, un pašreizējā paaudze bija atkarīga no MLB platformas. Pēc sākotnējā 1994. gada modeļa izlaides, Audi izlaida otro paaudzi 2002. gada beigās, trešo 2009. gada beigās, bet ceturto un līdzšinējo — 2017. gadā.
+
+Atzīmēti kā pirmie masu tirgus auto ar alumīnija šasiju, visi Audi A8 modeļi ir izmantojuši šo būvniecības metodi sadarbojoties ar Alcoa, realizēti kā ''Audi Space Frame''.
+
+Mehāniski modernizēta, augstas veiktspējas versija A8 debitēja 1996. gadā kā Audi S8. S8 modeļus ražoja tikai Audi Neckarsulm rūpnīcā un tie tika aprīkoti ar Audi Quattro pilnpiedziņas sistēmu. Tie tika ražoti īsās un garās riteņu bāzes veidā.
+
+== {{anchor|D2|4D|first}} D2 (''Typ'' 4D; 1994—2002) ==
+{{Automobiļa infokaste
+| name = Pirmā paaudze (D2/4D)
+| image = A8 white.jpg
+| caption = Pre-facelift Audi A8 4.2 quattro (US)
+| production = Jūnijs 1994 – Augusts 4, 2002<ref>{{Ziņu atsauce| url=http://articles.chicagotribune.com/1993-12-29/business/9312290075_1_aluminum-space-frame-audi-ag-audi-a8 |work=[[Chicago Tribune]] | first=Jim | last=Mateja | title=Audi Puts Aluminum-car Plans In Gear | date=1993-12-29}}</ref>
+| model_years = 1995–2002 (Visā pasaulē) <br /> 1997–2002 (US)
+| assembly  = Vācija: [[Neckarsulm]]
+| platform  = [[Volkswagen Group D platform#D2|Volkswagen Group D2 ("Audi Space Frame")]]
+| engine = {{collapsible list|framestyle=border:none; padding:0;| title = [[benzīna dzinēji]]s
+|1 = 2.8&nbsp;L ''[[List of discontinued Volkswagen Group petrol engines#AAH|AAH]]'' [[SOHC]] [[V6 engine|V6]]
+|2 = 2.8&nbsp;L ''[[List of discontinued Volkswagen Group petrol engines#ALG|ALG/AMX]]'' [[Multi-valve|30v]] V6
+|3 = 3.7&nbsp;L ''[[List of discontinued Volkswagen Group petrol engines#AEW|AEW]]'' [[V8 engine|V8]]
+|4 = 4.2&nbsp;L ''[[List of discontinued Volkswagen Group petrol engines#ABZ|ABZ/AHC]]'' V8
+|5 = 6.0&nbsp;L [[Volkswagen W12 engine|W12]]
+}}
+{{collapsible list|framestyle=border:none; padding:0;| title = [[dīzeļa dzinēji]]s
+|1 = 2.5&nbsp;L ''[[List of discontinued Volkswagen Group diesel engines#Six-cylinder diesels|TDI]]'' V6
+|2 = 3.3&nbsp;L ''[[List of discontinued Volkswagen Group diesel engines#Eight-cylinder diesels|TDI]]'' V8
+}}
+| transmission = {{collapsible list|framestyle=border:none; padding:0;| title = Manuālā transmisija
+|1 = 5-speed [[manual transmission|manual]]
+|2 = 6-speed manual (S8)
+}}
+{{collapsible list|framestyle=border:none; padding:0;| title = Automātiskā transmisija
+|1 = 4-speed [[ZF 4HP24 transmission|ZF 4HP24]] [[automatic transmission|automatic]]
+|2 = 5-speed [[ZF 5HP19 transmission|ZF 5HP19]] automatic
+|3 = 5-speed [[ZF 5HP24 transmission|ZF 5HP24]] automatic
+}}
+| wheelbase = SWB: {{convert|2882|mm|1|abbr=on}}<br />LWB: {{convert|3010|mm|1|abbr=on}}
+| length = SWB: {{convert|5034|mm|1|abbr=on}}<br />LWB: {{convert|5164|mm|1|abbr=on}}
+| width = {{convert|1880|mm|1|abbr=on}}
+| height = {{convert|1438|mm|1|abbr=on}}
+| weight = '''2.5:''' {{convert|1630|kg|lb||abbr=on}} (TDI)<br />'''2.5:''' {{convert|1735|kg|lb||abbr=on}} (TDI AWD)<br />'''3.3:''' {{convert|1860|kg|lb||abbr=on}} (TDI AWD)<br />'''2.8:''' {{convert|1540|kg|lb||abbr=on}}<br />'''3.7:''' {{convert|1645|kg|lb||abbr=on}}<br />'''3.7:''' {{convert|1725|kg|lb||abbr=on}} (AWD)<br />'''4.2:''' {{convert|1750|kg|lb||abbr=on}} (AWD)<br />'''4.2:''' {{convert|1845|kg|lb||abbr=on}} (US)<br />'''4.2:''' {{convert|1790|kg|lb||abbr=on}} (AWD A8L)<br />'''4.2:''' {{convert|1885|kg|lb||abbr=on}} (US)<br />'''6.0:''' {{convert|1950|kg|lb||abbr=on}}<br />'''6.0:''' {{convert|1980|kg|lb||abbr=on}} (AWD A8L)<br />'''S8:''' {{convert|1730|kg|lb||abbr=on}}<br />'''S8:''' {{convert|1845|kg|lb||abbr=on}} (US)
+| designer = Chris Bird; Dirk van Braeckel (1990, 1991)<ref>http://i184.photobucket.com/albums/x136/GTO-Carsouce/audi.jpg {{Bare URL image|date=March 2022}}</ref>
+| sp = uk
+}}
+
+=== Attīstība ===
+[[Attēls:Audi Space Frame.JPG|thumb|left|Audi Space Frame concept car|alt=]]
+
+1982. gadā Ferdinands Piëch parakstīja līgumu ar Aluminum Company of America. Mērķis bija projektēt un attīstīt automobili, kas būtu krietni vieglāks par jebkuru citu savā klasē esošu automobili (lai kompensētu to, ka standarta pilnpiedziņa bija ap 100 kg smagāka nekā konkurentu aizmugurējā piedziņa). 1980. gadu beigās tika nolemts, ka mērķa uzņēmums būs 1988. gadā ieviestā V8 (Typ 4C) flagmaņa pēctecis. Līdz 1990. gadam Krisa Bērda un Dirka van Braeckel galīgais projekts tika izvēlēts un iesaldēts sērijas ražošanai 1991. gada vidū. 1993. gada septembrī Audi Space Frame (ASF) Concept tika atklāts 1993. gada Frankfurtes motoršovā (IAA) kā D2 Typ 4D prototips pulētā alumīnijā. Eksperimentālā ražošana sākās 1993. gada decembrī, un izstrāde beidzās 1994. gada sākumā, un tās kopējās izmaksas bija $700 miljoni.
+
+=== Ievads ===
+Audi A8 (Typ 4D) tika prezentēts 1994. gada februārī un debitēts 1994. gada Ženēvas auto izstādē martā, un pilna apjoma rūpnīcas ražošana sākās 1994. gada jūnijā, lai gan 1997. gada modeļu gadā tas kļuva pieejams Ziemeļamerikā tikai 1996. gada oktobrī. Atšķirībā no sava priekšgājēja Audi V8 modeļa, kas tika būvēts uz jau esošas tērauda platformas, A8 atkausēts uz tolaik jaunās Volkswagen grupas D2 platformas, viss alumīnija monokoks, realizēts kā “Audi Space Frame” (ASF), kas palīdzēja samazināt svaru un saglabāt strukturālo stingrību. Sedans tika piedāvāts gan A8 (standarta riteņu bāze), gan A8 Long jeb garās riteņu bāzes (LWB) versijā. Automašīnas atjauninājumi 1997. gadā ietvēra sešu iekšējo drošības spilvenu pievienošanu. A8 bija paredzēts kā konkurents vācu ražošanas līderiem Mercedes Benz S Class un BMW 7 Series, kas tolaik sacentās arī pret britu Jaguar XJ un japāņu Lexus LS.
+
+{{Vairāki attēli | align = left | direction = vertical | width = 200
+| image2 = 1996 Audi A8 (4D) 4.2 crimson quattro sedan, back.jpg
+| caption2 = Pre-facelift Audi A8 4.2 quattro
+| image3 = 1st Audi A8 L 4.2 -- 03-21-2012.JPG
+| caption3 = Facelift Audi A8 L 4.2 quattro (US)
+| image4 = A8 W12.JPG
+| caption4 = Pirmās sērijas [[list of Volkswagen Group petrol engines#6.0 WR12 48v|W12]] dzinējs
+}}
+
+1997. gadā Audi ieviesa pirmās sērijas ražošanas elektroniskās stabilitātes kontroli (ESP) pilnpiedziņas automobiļiem (Audi A8 un Audi A6) — pasaulē pirmajiem ražošanas automobiļiem ar gan priekšējo, gan aizmugurējo sānu drošības spilveniem.
+
+1997. gadā jaunais A8 bija pieejams ar priekšējo riteņu piedziņu (FWD) vai ar pastāvīgo četrriteņu piedziņu (Quattro). FWD modeļus darbina 2,8 litru V6 dzinējs, kas attīsta 142 kW (193 PS; 190 bhp), un 3,7 litru V8 dzinējs, kas attīsta 169 kW (230 PS; 227 bhp), savukārt quattro saņēma 4,2 litru V8, kas attīsta 221 kW (300 PS; 296 bhp).
+
+A8 ir pieejams ar standarta luksusa ērtībām, tostarp divvietīgu zonu klimata kontroli, koka un ādas iekšējo apdari, apsildāmiem sēdekļiem, kā arī uzlabotu Bose audiosistēmu.
+
+1999. gadā D2 saņēma sānu aizkaru drošības spilvenus, jaunas krāsas opcijas un iespēju paketes pārstrukturēšanu. Ziemeļamerikas “silto laika apstākļu komplekts” pievienojis jumta saules bateriju, kas ļauj darboties salona ventilācijai, saglabājot salonu vēsu, kamēr auto ir novietots stāvēšanai ar izslēgtu dzinēju. Visu modeļu izmaiņas ietvēra sevī lielāku pasažiera puses atpakaļskata spoguli un pirmās palīdzības komplektu, kas atrodas aizmugurējā centrālajā roku balstā.
+
+1999. gadā 2000. modeļa gadā parādījās restyle versija ar jauniem, lielākiem, skaidriem priekšējiem lukturiem un zemāku priekšējo stiprinājumu ar standarta projekcijas miglas lukturiem. Tāpat tika izlaists arī 3,7-litru V8 FWD modelis, aiz sevis atstājot 2,8 V6 modeli ar garo riteņu bāzi un īsās riteņu bāzes 4,2-litru quattro. Šiem atjaunotajiem automobiļiem bija arī pārtaisīti ārējie durvju rokturi un radioantena tika iebūvēta. 2000. gadā Ziemeļamerikas A8 tirgus tika paplašināts, iekļaujot tajā A8 L.
+
+2001. gadā Audi ieviesa savu jauno W12 dzinēju, kompakto 6,0 litru agregātu, kas izstrādāts, efektīvi sapārot divus VR6 dzinējus kopā pie kloķvārpstas. Dzinējs ātri kļuva pieejams A8, lai gan tikai Eiropas un Āzijas klientiem. No tā ieviešanas, pārtraucot darbību 2003. gadā, tika ražoti tikai 750 D2 “W12” modeļi. 2001. gads iezīmēja arī augstas veiktspējas S8 varianta debija Ziemeļamerikas tirgos.
+
+2002. gadā A8 L saņēma standarta ksenona lampas (HID) un apsildāmo stūres ratu. Tika pievienota arī riepu spiediena kontroles sistēma (TPMS), atjaunināta Symphony II stereo sistēma un pievienota plašāka krāsu izvēle. 2002. gadā visi A8 varianti saņēma bagāžnieka iekšējo atvēršanas rokturi, lai atvieglotu bēgšanu gadījumā, ja indivīds tika iesprostots.
+
+Šīs paaudzes rūpnīcas ražošana 2002. gada 4. augustā tika pārtraukta ar saražotiem 105,092 modeļiem.
+
+=== Coupé (prototips) ===
+1997. gadā IVM Automotive no Minhenes, Vācijā uzbūvēja divdurvju Audi A8 Coupé. Auto tika atklāts 1997. gada Ženēvas motoršovā. Audi nolīga IVM, lai uzbūvētu prototipu, un apsvēra iespēju ražot transportlīdzekli. Kupejai bija no jauna izgatavots alumīnija korpuss, īsāks nekā ražotajam A8 salonam. Tāpat kā “Mercedes-Benz” CL-Class nebija centrālā “B” statņa, piešķirot automobilim vienlaidu dizainu ar pakāpeniski slīpu jumtu. Automašīnā bija pielāgoti ādas sēdekļi, kuros varēja sēsties četri. Galu galā Audi nolēma nelaist A8 Coupé ražošanā, citējot mazākus pārdošanas rādītājus par līdzīgo BMW 8 Series (E31) un Mercedes-Benz S-Class Coupé. Tika uzbūvēts tikai viens A8 Coupé. Viens prototips, krāsots “Ming Blue pearl", paliek IVM Automotive īpašumā un atrodas Minhenē. Tā pēdējā publiskā parādīšanās notika 2002. gadā testa braucienu sērijā.{{Clear}}
+
+=== Audi S8 ===
+{{Vairāki attēli| align = right | direction = vertical | width = 200
+| image1 = Audi S8 D2 (Typ 4D) (3962439095).jpg
+| image2 = Audi S8 schwarz hl 1024x768.jpg
+| caption2 = Facelift Audi S8
+}}
+
+Audi ieviesa S8 4,2L quattro Eiropas tirgū 1996. gadā. S8 sekoja citu augstas veiktspējas Audi “S” modeļu nosaukšanas konvencijai, piemēram, no Audi A6 atvasinātais S6, un bija analoģisks Mercedes-Benz AMG modeļu vēnās. Dažos tirgos, piemēram, Apvienotajā Karalistē, S8 bija pieejams tikai ar automātisko transmisiju. Kosmētiski Audi nošķīra S8 no A8 ar cietajiem alumīnija sakausējuma durvju spoguļu korpusiem, hromēto lukturu apakšlīniju un priekšējā režģa apdari, kā arī pulētajām dubultajām izplūdes caurulēm un smalko “S8” emblēmu. Regulējamie un apsildāmie sporta priekšējie sēdekļi ar atmiņas funkciju tika uzstādīti tāpat kā apsildāmi aizmugurējie sēdekļi. Standarta sakausējuma riteņi bija 18 collu alumīnija sakausējums “Avus” sešu spieķu stilā. Pēc 1999. gada facelift, 20 collu pulēti deviņu spieķu RS riteņi kļuva par izvēles opciju. 2002. gadā 18 collu deviņu spieķu RS riteņi kļuva par bezmaksas opciju.
+
+Tajā pašā laikā 1999. gada beigās S8 saņēma tādus pašus kosmētikas jauninājumus. Šis atjauninājums iezīmēja S8 izlaišanu Ziemeļamerikas tirgū. D2 sērijas S8 ražošana beidzās 2002. gada septembrī.
+
+S8 D2 bija pagarināta, 250 kW (335 hp) versija 4,2-litru V8 ar četriem vārstiem uz cilindru. No 1999. gada beigām Audi to palielināja līdz pieciem vārstiem vienā cilindrā ar jaudu, kas palielināta līdz 265 kilovatiem (355 hp) un 430 ņūtonmetriem (317 lb · ft). Sākot ar 1996. gadu, Eiropas tirgus modeļi nāca klajā ar sešu ātrumu manuālo transmisiju. Pēc gada tika izlaista ar sportu pārkalibrēta ZF 5HP24 piecu ātrumu tiptronic automātiskā versija ar nosaukumu “Dynamic Shift Programme” (DSP), un tā bija vienīgā transmisija, kas pieejama lielākajā daļā citu tirgu.
+
+Retētā, 20 milimetru (0,8 collu) pazeminātā sporta balstiekārta ietvēra 30 procentu stīvāku atsperu ātrumu un par 40 procentiem lielāku kompresijas amortizāciju amortizatoriem.
+
+Bremzēm bija Bosch 5,3 pretbloķēšanas sistēma (ABS) ar elektronisko bremzētājspēka sadali (EBD), un tās darbojās ar radiāli ventilējamiem priekšējiem diskiem. No 2002. gada modernizēta Bosch 5.7 elektroniskās stabilitātes programma kļuva par standarta komplektāciju.
+
+=== Dzinēji ===
+{| class="wikitable" style="font-size:98%;"
+|-
+! colspan="3" |Dzinējs
+! rowspan="2" |Jauda pie rpm
+! rowspan="2" |0—100 km/h<br /><small>(0—62 mph)</small>
+! rowspan="2" |Maksimālais ātrums
+|-
+!Modifikācija
+!Gads
+!Tips
+|-
+| rowspan="2" |{{convert|2771|cc|L|1|abbr=on|order=flip}} || 1994—1996 || rowspan="2" | [[V6 engine|V6]] || {{convert|174|PS|kW hp|0|abbr=on}}; {{convert|250|Nm|0|abbr=on}}|| style="text-align:center;" | 9.1 sec || style="text-align:center;" | {{convert|228|km/h|0|abbr=on}}
+|-
+| 1996—2002 ||{{convert|193|PS|kW hp|0|abbr=on}}; {{convert|280|Nm|0|abbr=on}}|| style="text-align:center;" | 8.4 sec || style="text-align:center;" | {{convert|236|km/h|0|abbr=on}}
+|-
+| rowspan="2" |{{convert|3697|cc|L|1|abbr=on|order=flip}} || 1995—1998 || rowspan="6" | V8 ||{{convert|230|PS|kW hp|0|abbr=on}}; {{convert|315|Nm|lb·ft|abbr=on}}|| style="text-align:center;" | 8.7 sec || style="text-align:center;" | {{convert|247|km/h|0|abbr=on}}
+|-
+| 1998—2002 || {{convert|260|PS|kW hp|0|abbr=on}}; {{convert|350|Nm|0|abbr=on}}|| style="text-align:center;" | 7.8 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+| rowspan="2" |{{convert|4172|cc|L|1|abbr=on|order=flip}} || 1994—1998 || {{convert|300|PS|kW hp|0|abbr=on}}; {{convert|400|Nm|0|abbr=on}}|| style="text-align:center;" | 6.9 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+| 1998—2002|| {{convert|310|PS|kW hp|0|abbr=on}}; {{convert|410|Nm|0|abbr=on}}|| style="text-align:center;" | 6.5 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+| rowspan="2" |{{convert|4172|cc|L|1|abbr=on|order=flip}} (S8) || 1996—1999 || {{convert|340|PS|kW hp|0|abbr=on}}; {{convert|420|Nm|0|abbr=on}}|| style="text-align:center;" | 5.6 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+| 1999—2002 || {{convert|360|PS|kW hp|0|abbr=on}}; {{convert|430|Nm|0|abbr=on}}|| style="text-align:center;" | 5.4 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+|{{convert|5998|cc|L|1|abbr=on|order=flip}} (A8 L) || 2001—2002 || [[W12 engine|W12]] || {{convert|420|PS|kW hp|0|abbr=on}}; {{convert|550|Nm|0|abbr=on}}|| style="text-align:center;" | 5.8 sec || style="text-align:center;" | {{convert|250|km/h|0|abbr=on}}
+|-
+| rowspan="2" |{{convert|2496|cc|L|1|abbr=on|order=flip}} || 1997—2000|| rowspan="2" | V6 TDI || {{convert|150|PS|kW hp|0|abbr=on}}; {{convert|310|Nm|0|abbr=on}}|| style="text-align:center;" | 9.9 sec || style="text-align:center;" | {{convert|220|km/h|0|abbr=on}}
+|-
+| 2000—2002|| {{convert|180|PS|kW hp|0|abbr=on}}; {{convert|370|Nm|0|abbr=on}}|| style="text-align:center;" | 8.8 sec || style="text-align:center;" | {{convert|227|km/h|0|abbr=on}}
+|-
+|{{convert|3328|cc|L|1|abbr=on|order=flip}}
+|2000—2002
+|V8 TDI|| {{convert|225|PS|kW hp|0|abbr=on}}; {{convert|480|Nm|0|abbr=on}}|| style="text-align:center;" | 8.2 sec || style="text-align:center;" | {{convert|242|km/h|0|abbr=on}}
+|}
+
+== Paaudzes ==
+* D2 (Typ 4D, 1994. — 2002.)
+* D3 (Typ 4E, 2003. — 2010.)
+* D4 (2010—2017)
+* D5 (2017. -)
+
+== Dzinēji ==
+
+=== D3 paaudzes dzinēji ===
+* '''3.0 TDi Quattro''' (2967 cm³), 233 Zs, 450 Nm, dīzeļmotors
+* '''3.2 FSI, FSI Long, FSI Quattro''' (3123 cm³), 260 Zs, 330 Nm, benzīnmotors
+* '''4.2 FSI Quattro, FSI Quattro Long''' (4163 cm³), 350 Zs, 440 Nm, benzīnmotors
+* '''4.2 TDi Quattro, Quattro Long''' (4134 cm³), 326 Zs, 650 Nm, dīzeļmotors
+* '''6.0 Quattro, Quattro Long''' (5998 cm³), 450 Zs, 580 Nm, benzīnmotors
+
+== Atsauces ==
+{{atsauces}}
+
+{{auto-aizmetnis}}
+
+{{Audi}}
+
+[[Kategorija:Audi automašīnu modeļi]]

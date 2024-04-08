@@ -1,0 +1,57 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Čārlzs Rihters
+|     vārds_orig = ''Charles Richter''
+|         attēls = CharlesRichter.jpg
+|     att_izmērs = 
+|  att_nosaukums = Čārlzs Rihters 1970. gados
+|     dz_dat_alt = 
+|        dz_gads = 1900
+|     dz_mēnesis = 4
+|       dz_diena = 26
+|       dz_vieta = {{vieta|ASV|Ohaio|Overpeka|2s=Ohaio (štats)}}
+|      m_dat_alt = 
+|         m_gads = 1985
+|      m_mēnesis = 9
+|        m_diena = 30
+|        m_vieta = {{vieta|ASV|Kalifornija|Pasadīna}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = [[Amerikāņi (nācija)|Amerikānis]]
+|        dzimums = 
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|   darba_vietas = [[Kalifornijas Tehnoloģiju institūts]]
+|     alma_mater = [[Stenforda Universitāte]]<br/>[[Kalifornijas Tehnoloģiju institūts]]
+|        zinātne = [[Seismoloģija]]
+|    pasniedzēji = 
+|       studenti = 
+|     sasniegumi = [[Rihtera skala]]
+|    apbalvojumi = 
+|       piezīmes = 
+|    kategorijas = nē
+}}
+'''Čārlzs Frānsiss Rihters''' ({{val|en|Charles Francis Richter}}, dzimis {{dat|1900|4|26}} Overpekā, [[Ohaio (štats)|Ohaio]], ASV, miris {{dat|1985|9|30}} Pasadīnā, Kalifornijā, ASV) bija [[Amerikas Savienotās Valstis|ASV]] [[seismoloģija|seismologs]]. Dzimis nelielā pilsētā [[Ohaio (štats)|Ohaio]] štata dienvidaustrumos.
+
+Pazīstams kā [[Rihtera skala]]s radītājs [[zemestrīce]]s stipruma mērīšanai. Rihters savu skalu izveidoja 1935. gadā sadarbībā ar [[Beno Gūtenbergs|Beno Gūtenbergu]], strādādams [[Kalifornijas Tehnoloģiju institūts|Kalifornijas Tehnoloģiju institūtā]] [[Pasadīna|Pasadīnā]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20080404073513/http://earthquake.usgs.gov/learning/topics/people/int_richter_2.php Čārlza Rihtera intervija] {{en ikona}}
+* [http://www.brainyquote.com/quotes/quotes/c/charlesfra276641.htm Čārlza Rihtera citāti] {{en ikona}}
+
+{{Cilvēks-aizmetnis}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Rihters, Čārlzs}}
+[[Kategorija:1900. gadā dzimušie]]
+[[Kategorija:1985. gadā mirušie]]
+[[Kategorija:ASV zinātnieki]]
+[[Kategorija:Seismologi]]
+[[Kategorija:Ģeofiziķi]]
+[[Kategorija:Ohaio dzimušie]]

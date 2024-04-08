@@ -1,0 +1,62 @@
+{{Zinātnieka infokaste
+|        platums = 
+|          vārds = Leonards Eilers
+|     vārds_orig = ''Leonhard Euler''
+|         attēls = Leonhard Euler 2.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|        dz_gads = 1707
+|     dz_mēnesis = 4
+|       dz_diena = 15
+|       dz_vieta = {{vieta|Šveice|Bāzele}}
+|         m_gads = 1783
+|      m_mēnesis = 9
+|        m_diena = 18
+|        m_vieta = {{vieta|Krievijas Impērija|Sanktpēterburga}}
+|   dzīves_vieta = [[Berlīne]], [[Prūsija]]<br />[[Sanktpēterburga]], [[Krievija]]<br />[[Bāzele]], [[Šveice]]
+|      pilsonība = 
+|        tautība = [[šveicieši|šveicietis]]
+|        dzimums = 
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|   darba_vietas = 
+|     alma_mater = [[Bāzeles universitāte]]
+|        zinātne = [[matemātika]], [[fizika]]
+|    pasniedzēji = 
+|       studenti = 
+|     sasniegumi = 
+|    apbalvojumi = 
+|       piezīmes = 
+|       paraksts = Euler's signature.svg
+|    kategorijas = 
+}}
+
+'''Leonards Eilers''' ({{val-de|Leonhard Euler}}, {{izrunā|ˈɔʏlɐ}}, dzimis {{dat|1707|4|15}}, miris {{dat VS|{{dat|1783|9|18}}|{{dat||9|7}}}}) bija [[Šveice|Šveicē]] dzimis [[matemātiķis]] un [[fiziķis]], lai gan lielāko daļu no savas dzīves pavadīja [[Prūsija|Prūsijā]] un [[Krievija|Krievijā]]. Kopā ar [[Arhimēds|Arhimēdu]], [[Kārlis Frīdrihs Gauss|Kārli Frīdrihu Gausu]] un [[Īzaks Ņūtons|Īzaku Ņūtonu]] viņu uzskata par vienu no dižākajiem pasaules matemātiķiem. Leonards Eilers bija pirmais, kas ieviesa [[funkcija]]s jēdzienu, aprakstot izteikumu, kas ietver vairākus argumentus, un sāka pielietot [[integrālrēķini|integrālrēķinus]] fizikā. Tāpat ieviesis dažādus mūsdienās izmantojamos pierakstus, piemēram, [[summa]]s zīmi Σ, [[naturāllogaritms|naturāllogaritmu]] bāzi [[e (konstante)|e]].<ref name="britannica">{{Tīmekļa atsauce|url=http://www.britannica.com/EBchecked/topic/195201/Leonhard-Euler|title=Leonhard Euler|publisher=Britannica.com|accessdate={{dat|2013|6|1||bez}}}}</ref> Viņš dominēja [[18. gadsimts|18. gadsimta]] matemātikā, un ir visu laiku vispublicētākais matemātiķis — viņa [[kopotie raksti]] ir 75 [[sējums|sējumos]], kuros ir aptuveni 850 [[zinātniskais darbs|zinātniskie darbi]].
+
+== Dzīvesgājums ==
+Dzimis un mācījies [[Bāzele|Bāzelē]]. 1727. gadā [[Krievijas impērija]]s ķeizariene [[Katrīna I]] uzaicināja Eileru strādāt [[Sanktpēterburga|Sanktpēterburgā]] par korespondētājlocekli [[Sanktpēterburgas Zinātņu akadēmija|Zinātņu akadēmijā]]. 1730. gadā kļuva par fizikas [[profesors|profesoru]]. 1735. gadā viņš ar vienu [[acs|aci]] vairs neredzēja. 1741. gadā pēc Prūsijas karaļa [[Frīdrihs II Lielais|Frīdriha II Lielā]] uzaicinājuma sāka strādāt [[Berlīne]]s [[Berlīnes Zinātņu akadēmija|Zinātņu akadēmijā]], kur pavadīja 25 gadus. 1766. gadā atgriezās Sanktpēterburgā. Drīz pēc tam arī otrai acij radās [[katarakta]], un viņš zaudēja [[redze|redzi]] pilnībā. Pēdējos septiņpadsmit savas dzīves gadus Leonards Eilers bija akls, tomēr šajā laikā viņš sarakstīja apmēram pusi no saviem darbiem.
+
+Eilers piedalījās tādu teorēmu pierādīšanā kā, piemēram, [[Bāzeles problēma|Bāzeles problēmu]], [[Eilera identitāte|Eilera identitāti]] (kompleksajos skaitļos un grafu teorijā), dažādu bezgalīgo summu vērtību atrašanā un eksponentfunkcijas raksturojošās [[Teilora sērija|Teilora sērijas]] izvešanā. Viņš arī ieviesa dažādas funkciju aproksimēšanas metodes, ieskaitot [[Eielera-Maskerona konstanti]], kuru lietoja formulā, lai aproksimētu naturālo skaitļu apgriezto summu ar [[Naturālais logaritms|naturāllogaritmu]]. Loģikā viņš ieviesa Eilera diagrammas, lai raksturotu siloģismu struktūru vizuāli, kuru vēlāk ģeneralizēja uz [[Eilera-Venna diagramma|Eilera-Venna diagrammām]]. Zinātnieku pasaulē Eilers ir pazīstams ar izteicienu "Matemātikā katru teorēmu nosauc otrā matemātiķa vārdā, kurš to pierādīja, jo pirmais vienmēr būs Eilers." Teiciena pamatojumu var viegli saprast, ja tuvāk aplūko slavenā matemātiķa darbu.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.eulerarchive.org/ Arhīvs] {{en ikona}}
+
+{{cilvēks-aizmetnis}}
+{{matemātika-aizmetnis}}
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Eilers, Leonards}}
+[[Kategorija:Bāzeles pilsētas kantonā dzimušie]]
+[[Kategorija:Šveices matemātiķi]]
+[[Kategorija:Šveiciešu fiziķi]]
+[[Kategorija:Matemātiskā analīze]]
+[[Kategorija:Skaitļu teorijas matemātiķi]]
+[[Kategorija:Latīņu valodā rakstošie]]

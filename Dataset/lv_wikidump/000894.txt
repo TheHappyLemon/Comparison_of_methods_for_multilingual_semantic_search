@@ -1,0 +1,70 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Baija
+ | native_name             = ''Bahia''
+ | settlement_type         = [[Brazīlijas administratīvais iedalījums|Štats]]
+ | image_skyline           = 
+ | imagesize               = 
+ | image_caption           = 
+ | image_flag              = Bandeira da Bahia.svg
+ | image_shield            = Brasão do estado da Bahia.svg
+ | shield_size             = 
+ | capital                 = [[Salvadora (pilsēta)|Salvadora]]
+ | largest_city            = 
+ | image_map               = Bahia in Brazil.svg
+ | mapsize                 = 250px
+ | map_caption             = 
+ | latd  = 12 | latm  = 31 | lats  = 12 | latNS  = S
+ | longd = 41 | longm = 41 | longs = 24 | longEW = W
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{BRA}}
+ | subdivision_type1       = 
+ | subdivision_name1       = 
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 567295.669
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 
+ | elevation_min_m         = 
+ | population_footnotes    = <ref>{{Tīmekļa atsauce|url=http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|title=Instituto Brasileiro de Geografia e Estatística|access-date={{dat|2013|04|06||bez}}|archiveurl=https://web.archive.org/web/20170622170435/http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|archivedate={{dat|2017|06|22||bez}}}}</ref>
+ | population_total        = 14175341
+ | population_as_of        = 2012
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = 
+ | utc_offset              = -3
+ | timezone_DST            = 
+ | utc_offset_DST          = 
+ | website                 = 
+ | footnotes               = 
+}}
+'''Baija''' ({{val|pt|Bahia}}) ir [[Brazīlija]]s [[Brazīlijas politiskais iedalījums|štats]] valsts austrumos, no austrumiem to apskalo [[Atlantijas okeāns]], dienvidos tas robežojas ar [[Espiritusanta|Espiritusantu]] un [[Minasžeraisa|Minasžeraisu]], austrumos ar [[Gojasa|Gojasu]] un [[Tokantinsa|Tokantinsu]], ziemeļos ar [[Piaui]] un [[Pernambuku]], bet ziemeļaustrumos ar [[Alagoasa|Alagoasu]] un [[Seržipi]].
+
+== Vēsture ==
+[[portugāļi|Portugāļu]] jūrasbraucējs [[Pedru Alvarišs Kabrals]] bija pirmais eiropietis, kas 1500. gada 22. augustā piestāja Brazīlijas piekrastē mūsdienu Baijas štatā. 1547. gadā tika nodibināta [[Salvadora (pilsēta)|Salvadoras]] pilsēta, un līdz 1763. gadam tā bija Brazīlijas kolonijas galvaspilsēta. No 1624. gada maija līdz 1625. gada aprīlim Baija atradās [[Nīderlande]]s okupācijā. Štats bija pēdējais, kurš palika uzticīgs [[Portugāle]]i, - tikai divus gadus pēc Brazīlijas neatkarības iegūšanas štats pievienojās Brazīlijas federācijai. No 16. līdz 18. gadsimtam Baija bija liels [[cukurs|cukura]] ražošanas centrs. Parasti tieši uz Baiju no [[Āfrika]]s tika ievesti [[Vergilijs|vergi]], lai nodrošinātu [[cukurniedre|cukurniedru]] plantāciju darbu, pēc tam tos nogādājot citur Brazīlijā.
+
+== Saimniecība ==
+Mūsdienās štats ir lielākais [[kakao]] ražotājs Brazīlijā (95% ražas). Štats izceļas ar vislielāko afrikāniskās kultūras ietekmi uz vietējām tradīcijām. Iegūst [[nafta|naftu]], [[dimants|dimantus]], dažādu [[metāls|metālu]] rūdas.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Brazīlija-aizmetnis}}
+{{Brazīlijas štati}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Brazīlijas štati]]

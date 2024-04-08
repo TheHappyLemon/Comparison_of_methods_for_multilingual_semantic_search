@@ -1,0 +1,41 @@
+'''Paplašināmā iezīmēšanas valoda''' jeb '''XML''' (''eXtensible Markup Language'') ir [[W3C]] rekomendācija speciālas nozīmes [[iezīmēšanas valoda|iezīmēšanas valodu]] veidošanai. Tā ir vienkāršota [[valoda SGML|SGML]] apakškopa, spējīga aprakstīt visdažādākā veida datus. Tās galvenā nozīme ir strukturēta teksta un informācijas koplietošanas atvieglošana [[Internets|Internetā]]. Valodas, kas veidotas uz XML pamata, pašas tiek aprakstītas formālā veidā, kas ļauj programmām modificēt un pārbaudīt dokumentus nemaz nezinot pašu valodu, kurā tie rakstīti.
+
+== Stiprās un vājās puses ==
+XML īpašības, kas padara šo valodu piemērotu datu pārsūtīšanai:
+* vienlaicīgi cilvēkam un mašīnai saprotams formāts
+* [[Unicode]] atbalsts, kas ļauj izmantot visas mūsdienu un arī vēsturiskās simbolu kopas
+* spēja attēlot visas nozīmīgākās [[datorzinātne]]s [[datu struktūra]]s ([[Ieraksts (datorzinātne)|ierakstus]], [[saraksts|sarakstus]] un [[Koks (datu struktūra)|kokus]])
+* formāts ir pašdokumentējošs spējā aprakstīt sturktūru un lauku nosaukumus, kā arī noteiktas vērtības
+* striktā [[sintakse]] padara nepieciešamos [[parsēšanas algoritms|parsēšanas algoritmus]] vienkāršus, ātrus un efektīvus
+XML tiek plaši lietots arī dokumentu glabāšanai un apstrādei, gan tiešsaitē, gan nesaistē, un piedāvā vairākus ieguvumus:
+* robusts, loģiski verificējams formāts, kas balstīts uz [[starptautiskie standarti|starptautiskajiem standartiem]]
+* vairumam dokumentu tipu piemērota [[hierarhisks|hierarhiska]] struktūra
+* atklāta teksta formāts, kuru neapgrūtina licences vai citi ierobežojumi
+* no platformas neatkarīgs un relatīvi imūns pret tehnoloģiju maiņām
+* jau tiek lietots (kā SGML) vairāk nekā dekādi un ir diezgan izplatīts, līdz ar to pieejama liela pieredze un plaša programmatūras izvēle
+Noteiktās lietojumprogrammās formātam ir arī atsevišķi trūkumi:
+* Formāts satur daudz liekvārdības un pārmērīgas informācijas. Tas var traucēt cilvēka lasāmībai un lietojumprogrammu efektivitātei un noved pie augstākām glabāšanas izmaksām. Tas var arī radīt problēmas XML izmantošanā gadījumos, kad ir ierobežots [[joslas platums (datu pārraide)|joslas platums]], lai gan šo problēmu daudzos gadījumos var atrisināt [[datu saspiešana]].
+* XML sintakse satur vairākas nevajadzīgas iespējas SGML savietojamības dēļ.
+* XML vēljoprojām bieži prasa papildus parsēšanu, lai izlobītu individuālās vērtības.
+* Nav iespēju jaukti vērsties pie vai atjaunot noteiktas dokumenta daļas.
+* Pārklājošu (ne-hierarhisku) datu struktūru modelēšana prasa papildus pūles.
+* XML attēlošana relacionālās vai [[objektorientēts|objektorientētās]] [[paradigma|paradigmās]] bieži vien ir apgrūtinoša.
+
+== XML dokumentu korektums ==
+Lai XML dokuments būtu korekts, tam ir jābūt:
+* '''Normatīvam''' (pareizam). Normatīvs dokuments atbilst visām XML sintakses prasībām. Piemēram, ja elementam ar saturu ir atverošā birka, bet nav aizverošās, tas nav ''normatīvs''. Dokuments, kurš nav normatīvs, netiek uzskatīts par XML dokumentu un parserim tas nav jāapstrādā.
+* '''Valīdam'''. Valīds dokuments satur datus, kas atbilst noteiktiem lietotāja definētiem satura noteikumiem, kuri apraksta pareizās datu vērtības un atrašanās vietas. Piemēram, ja dokumenta elementam ir jāsatur teksts, kuru jāvar interpretēt kā veselu skaitli, taču tā vietā ir teksts "sveiki", tas ir tukšs vai satur citus elementus, dokuments netiek uzskatīts par ''valīdu''.
+
+== Skatīt arī ==
+* [[valoda SGML|SGML]], [[HTML]], [[XHTML]]
+* [[RSS protokols|RSS]], [[Atom (standarts)|Atom]]
+
+== Ārējās saites ==
+* [http://www.w3.org/TR/REC-xml XML 1.0 specifikācija] (angliski)
+* [http://www.firstobject.com/dn_editor.htm Firstobject Free XML editor]
+* [http://www.oxygenxml.com/ &lt;oXygen/&gt; XML Editor]
+* [https://web.archive.org/web/20190911215633/https://www.liquid-technologies.com/ Liquid XML Editor]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:XML| ]]

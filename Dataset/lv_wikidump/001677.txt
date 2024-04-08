@@ -1,0 +1,67 @@
+{{Apdzīvotas vietas infokaste
+|name          = Jegeva
+|official_name            = ''Jõgeva''
+|settlement_type        = pilsēta
+|image_flag             = Flag of et-Jogeva.svg
+|image_shield           = EST Jõgeva linn COA.png
+|shield_size            = 70px
+|flag_size              = 
+|subdivision_name1      = [[Jegevas apriņķis]]
+|leader_name            = 
+|area_total_km2         = 3.86
+|population_total       = 5577
+|population_footnotes   = 
+|population_as_of       = 2012
+|population_density_km2 = auto
+|latd=58|latm=44|latNS=N|longd=26|longm=23|longEW=E
+|image_skyline          = Joegeva-street.JPG
+|imagesize              = 250px
+|image_caption          = 
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{EST}}
+|subdivision_type1      = [[Igaunijas apriņķi|Apriņkis]]
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|website                = {{URL|http://www.jogeva.ee}}
+|established_title      = Pilsētas tiesības
+|established_date       = 1938. gads
+|pushpin_map            = Estonia
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 280
+|pushpin_map_caption    = Atrašanās vieta Igaunijā
+|other_name             = 
+|}}
+[[Attēls:DJI 0455 j6geva.webm|thumb|Jegeva, video]]
+'''Jegeva''' ({{val|et|Jõgeva}}) ir pilsēta [[Igaunija]]s austrumos, [[Jegevas apriņķis|Jegevas apriņķa]] centrs.
+
+Pirmo reizi pieminēta [[Polija]]s vēsturiskajos rakstos 1599. gadā ar nosaukumu ''Jagiva''. Pilsētas [[Vācu valoda|vāciskais]] nosaukums ir ''Laisholma'' ({{val|de|Laisholm}}).
+
+Pilsētā ir reģistrēts Igaunijas zemākās gaisa temperatūras rekords −43.5&nbsp;°C.
+
+== Galerija ==
+<gallery>
+Jõgeva endine jaamahoone.jpg
+Jõgeva bussijaam.JPG
+Jõgeva veetorn.jpg
+Betti Alveri muuseum 2012.JPG
+Jõgeva Kultuurikeskus.JPG
+Jõgeva pangahoone.JPG
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Igaunija-aizmetnis}}
+
+{{Igaunijas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Jegevas apriņķis]]

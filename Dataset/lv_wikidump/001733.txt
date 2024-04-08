@@ -1,0 +1,92 @@
+{{Apdzīvotas vietas infokaste
+| name = Jonava
+| official_name = ''Jonava''
+| settlement_type = pilsēta
+| image_skyline =Jonava.png
+| imagesize = 
+| image_caption = Jonava
+| image_flag = Flag of Jonava (Lithuania).svg
+| image_shield = Coat of arms of Jonava (Lithuania).svg
+| shield_size = 70px
+| pushpin_map = Lithuania
+| pushpin_label_position = 
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Jonavas rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1864
+| area_total_km2 = 13.7
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 27062
+| population_density_km2 = auto
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 55
+| latm = 04 
+| lats = 57 
+| latNS = N 
+| longd = 24 
+| longm = 17 
+| longs = 14
+| longEW = E
+| elevation_m = 66
+| website = {{url|http://www.jonava.lt/}}
+}}
+'''Jonava''' ({{val|lt|Jonava}}) ir pilsēta un [[Jonavas rajona pašvaldība|pašvaldības]] centrs [[Lietuva|Lietuvā]], [[Nere]]s upes krastos, 30 km uz ziemeļaustrumiem no [[Kauņa]]s. Pilsētā atrodas ''[[Achema]]'', lielākais [[minerālmēsli|minerālmēslu]] ražošanas uzņēmums [[Baltijas valstis|Baltijas valstīs]].{{nepieciešama atsauce}} Divas pasta nodaļas.
+
+Rakstos minēta no 1740. gada. 1864. gadā ieguva pilsētas tiesības. Pēc [[Otrais pasaules karš|Otrā pasaules kara]] Jonavā tika uzbūvēta minerālmēslu rūpnīca, kas darbojas arī pašlaik. 1989. gada 20. martā rūpnīcā notika tehnoloģiska katastrofa un atmosfērā ieplūda liels daudzums indīgu vielu ([[amonjaks]], [[hlors]]).
+
+== Iedzīvotāji ==
+Pēc dzimuma:
+{| class="wikitable" border=1
+! style="background:#efefef;" width="40"| <small>Kopā</small>
+! style="background:#efefef;" width="65"| <small>Vīrieši</small>
+! style="background:#efefef;" width="65"| <small>Sievietes</small>
+|-
+| align="center" | {{nobr|34 954}} || align="center" | 16 244 || align="center" | 18 710
+|-
+|}
+
+== Apskates vietas ==
+* [[Izvesto kapela]] (''Tremtinių koplyčia'')
+* [[Jonavas Jēkaba baznīca]] (''Jonavos Šv. apaštalo Jokūbo bažnyčia'')
+* [[Jonavas muzejs]] (''Jonavos krašto muziejus'')
+* [[Skaruļu baznīca]] (''Skarulių Šv. Onos bažnyčia'')
+* [[Skaruļu kapela]] (''Skarulių koplyčia'')
+
+== Attēlu galerija ==
+<gallery>
+Jonava,_Tremtinių_koplyčia.JPG|Izvesto kapela
+The_church_of_Jonava.jpg|Jonavas Jēkaba baznīca
+Jonavos_krasto_muziejus.jpg|Jonavas muzejs
+Skaruliu_Sv._Onos_baznycia.jpg|Skaruļu baznīca
+Skarulių_bažnyčia,_šventoriaus_koplyčia.JPG|Skaruļu kapela
+</gallery>
+
+== Sports ==
+* [[FK Jonava]] — [[futbols|futbola]] klubs.
+* Jonavas centrālais stadions.
+
+== Sadraudzības partneri ==
+* {{flaga|Čehija}} [[Dečīna]], [[Čehija]]
+* {{flaga|Polija}} [[Kendzežina-Kozle]], [[Polija]]
+* {{flaga|Baltkrievija}} [[Polocka]], [[Baltkrievija]]
+* {{flaga|Somija}} [[Rīhimeki]], [[Somija]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lietuvas pilsētas]]

@@ -1,0 +1,62 @@
+{{Elementa infokaste
+|                 tips = cēlgāze
+|      kārtas skaitlis = 10
+|             1. čaula = 2
+|             2. čaula = 8
+|              simbols = Ne
+|             atommasa = 20,1797
+|   valences elektroni = [He]2s<sup>2</sup>2p<sup>6</sup>
+|       tabulas attēls = [[Attēls:Ne-TableImage.svg|250px]]
+|               attēls = [[Attēls:Neon-glow.jpg|140px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:NeTube.jpg|170px]]<br />Neona spīdēšana elektriskajā laukā
+|  oksidēšanas pakāpes = -
+|  elektronegativitāte = 4,4 (?)
+|              blīvums = 0,8999
+|  kušanas temperatūra = 24,48 K (-248,67 °C)<ref name="Neon Facts"/>
+| viršanas temperatūra = 27,102 K (-246,048 °C)<ref name="Neon Facts"/>
+|   trīskāršais punkts = 24,5561 K (-249 °C), 43 kPa
+|    kritiskais punkts = 44,4 K, 2,76 MPa
+}}
+
+'''Neons''' ir [[ķīmiskais elements]] — [[cēlgāzes|cēlgāze]], kura simbols ir '''Ne''' un [[atomskaitlis]] ir 10. Neons ir ķīmiski inerts un neveido savienojumus ([[elektriskā izlāde]] var ierosināt Ne<sub>2</sub><sup>+</sup> tipa molekulāro jonu veidošanos).<ref name="Ahmetovs"/> Neonu [[1898]]. gadā atklāja skotu ķīmiķis [[Viljams Remzijs]] (''William Ramsay'') un angļu ķīmiķis [[Moriss Traverss]] (''Morris Travers'').
+
+Ķīmiskā elementa nosaukums ir radies no [[grieķu valoda|grieķu]] vārda ''νέος'' (''néos''), kas nozīmē "jauns".
+
+== Neona īpašības ==
+
+=== Neona fizikālās īpašības ===
+Neona [[viršanas temperatūra]] ir {{nobr|-246,048 °C}}, bet [[kušanas temperatūra]] ir {{nobr|-248,67 °C}}. Vēl zemākas viršanas un kušanas temperatūras ir tikai [[ūdeņradis|ūdeņradim]] un [[hēlijs|hēlijam]].
+
+=== Neona ķīmiskās īpašības ===
+[[Normāli apstākļi|Normālos apstākļos]] neons ir ķīmiski [[inerta gāze]]. Ar citiem [[ķīmiskais elements|ķīmiskajiem elementiem]] praktiski [[ķīmiskais savienojums|savienojumus]] neveido.
+
+== Atrašanās dabā ==
+Neons ir viens no visizplatītākajiem elementiem [[Visums|Visumā]]. Vairāk ir tikai [[ūdeņradis]], [[hēlijs]], [[skābeklis]], [[ogleklis]] un [[slāpeklis]]. Bet uz [[Zeme]]s neons nav tik izplatīts [[ķīmiskais elements]]. Dabā neons ir sastopams [[Zemes atmosfēra|gaisa]] sastāvā (0,0018 %)<ref name="Los Alamos"/>, un no gaisa to arī iegūst. No [[hēlijs|hēlija]] šķidru neonu atdala, [[adsorbcija|adsorbējot]] uz [[aktīvā ogle|aktīvās ogles]], ko dzesē ar šķidru [[slāpekli]]. Otra atdalīšanas metode ir neona izsaldēšana, kā dzesētāju lietojot šķidru [[ūdeņradis|ūdeņradi]]. [[Zemes garoza|Zemes garozā]] neons ir vēl retāk sastopams ({{nobr|0,000 000 5%}}).<ref name="Harry H. Binder"/>
+
+Dabiskais neons sastāv no trim stabiliem [[izotops|izotopiem]] — neona-20 (90,48% no kopējā neona daudzuma dabā), neona-21 (0,27%) un neona-22 (9,25%).<ref name="jlab"/> Ir zināmi vēl pieci nestabili neona izotopi.<ref name="Neon Facts"/>
+
+== Izmantošana ==
+Neonu lieto dažādām [[gāzizlādes spuldze|gāzizlādes spuldzēm]] (tas spīd oranžsarkanā krāsā). To lieto arī [[gāzizlādes stabilitrons|gāzizlādes stabilitronu]] un dažu citu elektronisko ierīču pildīšanai.
+
+== Atsauces ==
+{{Commons category|Neon|neons}}
+{{atsauces|refs=
+<ref name="Neon Facts">{{tīmekļa atsauce | url= http://chemistry.about.com/od/elementfacts/a/neon.htm | title= Neon Facts | publisher= chemistry.about.com | accessdate= 2011-07-30 | language= angliski | archive-date= 2011-06-07 | archive-url= https://web.archive.org/web/20110607073537/http://chemistry.about.com/od/elementfacts/a/neon.htm }}</ref>
+<ref name="Ahmetovs">{{grāmatas atsauce | title= Neorganiskā ķīmija | last= Ahmetovs | first= Nails | year= 1978 | publisher= Zvaigzne | location= Rīga | isbn= | page= 576 | pages= | url= | language= latviski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso010.html | title= Isotopes of the Element Neon | publisher= Jefferson Lab | accessdate= 2011-08-24 | language= angliski}}</ref>
+<ref name="Los Alamos">{{tīmekļa atsauce | url= http://periodic.lanl.gov/10.shtml | title= Neon | publisher= Los Alamos National Laboratory | accessdate= 2011-10-01 | language= angliski}}</ref>
+<ref name="Harry H. Binder">{{grāmatas atsauce | author= Harry H. Binder | title= Lexikon der chemischen Elemente | publisher= S. Hirzel Verlag | location= Stuttgart | year= 1999 | isbn= 3-7776-0736-3}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Cēlgāzes]]
+[[Kategorija:Aukstumnesēji]]

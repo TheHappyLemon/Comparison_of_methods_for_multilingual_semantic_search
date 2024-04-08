@@ -1,0 +1,52 @@
+{{Upes infokaste 
+| nosaukums         = Pilica
+| citvaloda         = pl
+| oriģinālnosaukums = Pilica
+| attēls            = Pilica Tomaszow Mazowiecki.JPG
+| attēla_izmērs     = 
+| paraksts          = Pilica netālu no [[Tomašova Mazovecka|Tomašovas Mazoveckas]]
+| karte             = Upe_Pilica.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = Krakovas-Čenstohovas augstiene
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Visla]]
+| baseina_valstis   = 
+| tek_caur          = {{POL}}
+| garums            = 319 
+| iztekas_augstums  = 350 
+| ietekas_augstums  = 96
+| kritums           = 
+| caurtece          = 
+| gada_notece       = 1,5
+| baseins           = 9 273
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d=51 | iet_plat_m=51 | iet_plat_s=41 | iet_plat_NS=N 
+| iet_gar_d=21 | iet_gar_m=16 | iet_gar_s=50 | iet_gar_EW=E
+}}
+
+'''Pilica''' - upe [[Polija]]s centrālajā daļā. [[Visla]]s kreisā krasta pieteka. Sākas Krakovas-Čenstohovas augstienē. Līdzenuma upe, tek pa Mazpolijas augstieni un Mazovijas zemieni. Izmanto [[Lodza]]s ūdensapgādei.
+
+== Lielākā pilsēta Pilicas krastos ==
+
+* [[Tomašova Mazovecka]] (''Tomaszów Mazowiecki'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vislas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Lodzas vojevodiste]]
+[[Kategorija:Mazovijas vojevodiste]]
+[[Kategorija:Silēzijas vojevodiste]]
+[[Kategorija:Sventokšiskas vojevodiste]]

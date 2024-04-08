@@ -1,0 +1,34 @@
+{{Programmēšanas valodas infokaste
+ |                   name = ''JavaScript''
+ |                   logo = 
+ |                caption = 
+ |                  image = [[Attēls:JavaScript code.png|250px]]
+ |               caption2 = Ekrānuzņēmums ar JavaScript pirmkodu
+ |               file_ext = .js, .cjs, .mjs
+ |               paradigm = [[Programmēšanas paradigma|Daudzparadigmu]]: [[Funkcionālā programmēšana|funkcionāla]], [[Imperatīvā programmēšana|imperatīva]], [[Procedurālā programmēšana|procedurāla]], [[Objektorientētā programmēšana|objektorientēta]]
+ |               released = 
+ |                 author = 
+ |              developer = 
+ | latest_release_version = 
+ |    latest_release_date = 
+ |    latest_test_version = 
+ |       latest_test_date = 
+ |                 typing = 
+ |        implementations = [[V8 (JavaScript dzinis)|V8]], [[JavaScriptCore]], [[SpiderMonkey (JavaScript dzinis)|SpiderMonkey]], [[Chakra (JScript dzinis)|Chakra]]
+ |               dialects = 
+ |          influenced by = [[Java (programmēšanas valoda)|Java]], [[Scheme (programmēšanas valoda)|Scheme]], [[Self (programmēšanas valoda)|Self]], [[AWK]], [[HyperTalk]]
+ |             influenced = [[ActionScript]], [[ArkTS]], [[AssemblyScript]], [[CoffeeScript]], [[Dart (programmēšanas valoda)|Dart]], [[Haxe]], [[JS++]], [[Opa (programmēšanas valoda)|Opa]], [[TypeScript]]
+ |       operating system = 
+ |                license = 
+ |          working_state = 
+ |                website = {{URL|https://ecma-international.org/publications-and-standards/standards/ecma-262/}}
+ |                   repo = 
+}}
+
+'''JavaScript''' ir [[skriptu valoda]], kas balstīta uz [[prototipu programmēšana|prototipu]] koncepta. Valoda pamatā ir pazīstama pēc to izmantošanas [[tīmekļa vietne|tīmekļa vietnēs]] izpildīšanai uz klienta datora. Tā sākotnēji tika izstrādāta firmā [[Netscape Communications]] ar nosaukumu '''Mocha''', vēlāk '''LiveScript''', līdz ieguva tagadējo nosaukumu. Lai gan valodas sintakse ir līdzīga [[Sun Microsystems]] [[valoda Java|Java]] valodai, JavaScript vairāk līdzinās tādām [[funkcionālā programmēšana|funkcionālajām valodām]] kā [[Scheme (programmēšanas valoda)|Scheme]] un [[Self (programmēšanas valoda)|Self]], tāpat arī [[Python]]. 1997.—1999. gadā valoda tika standartizēta ar nosaukumu [[ECMAScript]].
+
+
+{{IT-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:JavaScript| ]]

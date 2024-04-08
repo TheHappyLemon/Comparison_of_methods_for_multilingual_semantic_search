@@ -1,0 +1,118 @@
+{{Latvijas novada infokaste
+| nosaukums         = Palsmanes pagasts
+| karte             = Palsmanes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Smiltenes novads
+| centrs            = Palsmane
+| platība           = 99,53
+| iedzīvotāji       = 911<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|05|02||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 911 / 99.53 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.palsmane.lv
+| nos_vācu          = Palzmar
+| ref_vācu          =
+| nos_krievu        = Пальцмарская
+| ref_krievu        =
+}}
+
+'''Palsmanes pagasts''' ir viena no [[Smiltenes novads|Smiltenes novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Bilskas pagasts|Bilskas]], [[Grundzāles pagasts|Grundzāles]], [[Launkalnes pagasts|Launkalnes]], [[Variņu pagasts|Variņu]] un [[Virešu pagasts|Virešu]] pagastiem.
+
+== Daba ==
+Atrodas [[Vidzemes augstiene]]s ziemeļu malā, [[Augšgaujas pazeminājums|Augšgaujas pazeminājuma]] dienvidrietumos, kā arī [[Tālavas zemiene]]s [[Trapenes līdzenums|Trapenes līdzenumā]]. Virsas augstums no 96,3 metriem līdz 137,6 metriem.
+
+Apmēram pusi no pagasta kopplatības aizņem meži, apmēram trešdaļu — lauksaimniecībā izmantojamās zemes.
+
+=== Upes ===
+*[[Vecpalsa]]
+**[[Rauza (upe)|Rauza]]
+***[[Šepka]]
+*[[Vizla (upe)|Vizla]]
+**Jaunpalsa
+***[[Palsa]]
+****[[Kļavaisa]]
+*****[[Kumeļupe]]
+*[[Vidaga (upe)|Vidaga]]
+
+=== Īpaši aizsargājamās dabas teritorijas ===
+* Rauzas dabas liegums 
+* Šepkas dabas liegums 
+* 4 mikroliegumi
+
+=== Dabas mantojums ===
+* Palsmanes dzirnavu ezers
+* Rauzas dzirnavu ezers
+* Māleju ozols
+
+== Vēsture ==
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]] Palsmanes pagasta platība bija 169,8 km² un tajā dzīvoja 2716 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Palsmanes un [[Sebru ciems|Sebru]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Palsmanes ciems''' ietilpis [[Smiltenes rajons|Smiltenes]] (1949-1959) un [[Valkas rajons|Valkas]] (pēc 1959. gada) rajonos. Palsmanes ciemam 1954. gadā pievienoja likvidēto Sebru ciemu, 1974. gadā — daļu [[Birzuļu ciems|Birzuļu ciema]] teritorijas, 1979. gadā — daļu [[Launkalnes ciems|Launkalnes ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Palsmanes pagastu kā administratīvo teritoriju iekļāva [[Smiltenes novads|Smiltenes novadā]].
+
+=== Vēsturiskās ēkas ===
+* Palsmanes evaņģēliski-luteriskās draudzes baznīca (celta 1814 - 1817. gados)
+* Palsmanes muižas ēka (ap 1880)
+* Muižas ēkai piegulošais Palsmanes parks (ap 5 ha, aizsargā kopš 1987. gada)
+* Rauzas dzirnavas
+* Palsmanes pagastmāja (ap 1870).
+
+== Iedzīvotāji ==
+Palsmanes pagastam ir centriski radiāla apdzīvojuma struktūra. Lielākā iedzīvotāju koncentrācija ir Palsmanes ciematā (72%). Pārējos trīs pagasta mazciemos (Mālejas, Pūķi un Rauza) dzīvo 14% pagasta iedzīvotāju. Pārējie pagasta iedzīvotāji dzīvo lauku viensētās. Viensētas vairāk izplatītas pagasta centrālajā un ziemeļrietumu daļā.
+
+[[1935]]. gadā Palsmanes pagastā bija 2716 iedzīvotāji. 2000. gadā pagastā bija 1106 iedzīvotāji, savukārt 2006. gada aprīlī 1063 iedzīvotāji.
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+| align = none
+| cols = 2
+| graph-pos = bottom
+|1935|1750
+|1959|1500
+|1967|1300
+|2000|1106
+|2011|898
+|2021|826
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Palsmane]]''' (pagasta centrs), [[Rauza (ciems)|Rauza]], [[Mālejas]], [[Cepļi (Palsmanes pagasts)|Cepļi]], [[Kļavaisi]], [[Lankaskalns]]. Pagasta centrs atrodas 25 km attālumā no [[Smiltene]]s un 150 km no [[Rīga]]s.
+
+== Saimniecība ==
+Palsmanes pagasts nav bagāts ar derīgajiem izrakteņiem. Pagasta teritorijā atrodas karjers "Lankaskalns" ar {{nobr|~100 000 m³}} [[smilts]] krājumiem. Pagasta teritorijā atrodas arī neliela daļa no Dzeņu [[dolomīts|dolomīta]] atradnes. Dzeņu dolomīta atradnē produktīvo slāņkopu veido [[Pļaviņu svīta]]s augšējās daļas nogulumi.
+
+=== Transports ===
+Pa ziemeļu robežu iet Rīgas - Veclaicenes autoceļš.
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+Palsmanes pagasts ir vairākkārtējs skates "Sakoptākais pagasts" laureāts Valkas rajonā un arī Smiltenes novadā.{{fact}}
+
+Palsmanes pagastā darbojas trīs izglītības iestādes:
+[[Attēls:Palsmane 2.jpg|thumb|right|Palsmanes PII]]
+Palsmanes pagasta pirmsskolas izglītības iestāde ir Smiltenes novada pašvaldības izglītības  iestāde, dibināta 1967. gadā. Jaunā pirmsskolas izglītības iestādes ēka uzcelta un nodota ekspluatācijā 1990.  gadā. 2004. gadā  iestādei nomainīti logi un 2006. gadā siltināts un atjaunots jumta segums. Iestādē ir piemērotas telpas un mācību  materiāli tehniskā bāze, lai sekmīgi īstenotu pirmsskolas izglītības programmas. Iestādei ir sava virtuve ēdināšanas pakalpojumu sniegšanai.<ref>{{tīmekļa atsauce|url=https://www.palsmane.lv/?page_id=749|accessdate={{dat|2018|8|7||bez}}}}</ref>
+
+Palsmanes pamatskola, kura ir Smiltenes novada domes dibināta vispārējās pamatizglītības iestāde. 2016./2017. mācību gadā skolā mācījās 121 skolēni, skolā strādā 18 pedagogi un 8 tehniskie darbinieki.<ref>{{tīmekļa atsauce|url=https://www.palsmane.lv/?page_id=745|accessdate={{dat|2018|8|7||bez}}}}</ref>
+
+Palsmanes internātpamatskola, kura atrodas 1880. gadā celtajā barona fon Bēra pilī, tajā kopš 1966. gada 1. augusta mācās bērni ar speciālām vajadzībām. Par šo bērnu izglītošanu rūpējas 42 pedagogi, bibliotekārs, sociālais pedagogs, psihologs un 25 tehniskie darbinieki. Skolā ir 2 pirmsskolas grupiņas,  9  klašu komplekti no 1. līdz 9. klasei un 2 profesionālās pamatizglītības apguves kursi, kopā mācās 82 izglītojamais ar dažādu pakāpju garīgās attīstības traucējumiem.<ref>{{tīmekļa atsauce|url=https://www.palsmane.lv/?page_id=752|accessdate={{dat|2018|8|7||bez}}}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Smiltenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Valkas rajons}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Smiltenes novada pagasti]]
+[[Kategorija:Palsmanes pagasts| ]]

@@ -1,0 +1,38 @@
+{{citas nozīmes|ģeometrisku figūru|Kvadrāts (nozīmju atdalīšana)|kvadrāts}}
+[[Attēls:Square_-_black_simple.svg|right|frameless|163x163px]]
+'''Kvadrāts''' jeb regulārs [[četrstūris]] ir četrstūris, kuram visas malas ir vienāda garuma un visi leņķi ir vienādi, un ir 90 grādi. Kvadrātu var uzskatīt par [[taisnstūris|taisnstūri]], kuram visas malas ir vienādas, vai arī par [[rombs|rombu]], kuram leņķi ir 90 grādi. Kvadrātam, tāpat kā jebkuram četrstūrim, ir divas diagonāles.
+
+== Īpašības ==
+
+* kvadrāta diagonāles krustojas tā smaguma centrā un krustpunktā dalās uz pusēm;
+* kvadrāta diagonāles ir vienāda garuma, perpendikulāras un tā iekšējos leņķus dala uz pusēm;
+* kvadrātam var apvilkt un tajā var ievilkt riņķa līniju.
+
+== Formulas ==
+
+* Kvadrāta, kura malas garums ir <math>a</math>, laukums ir <math>S = a^2\,</math>. Vēl: <math>S = 2 R^2 = 4 r^2\,</math>, kur <math>R</math> — ap kvadrātu apvilktās riņķa līnijas rādiuss, <math>r</math> — kvadrātā ievilktās riņķa līnijas rādiuss.
+* Kvadrāta diagonāles garums ir <math>d=a\sqrt{2} </math>.
+* Kvadrātā ievilktās riņķa līnijas rādiuss ir <math>r= \frac{a}{2}</math>.
+* Ap kvadrātu apvilktās riņķa līnijas rādiuss ir <math>R= \frac{\sqrt 2}{2} a</math>.
+* Kvadrāta perimetrs ir <math>P = 4a\,</math>. Vēl: <math>P = 4 \sqrt 2 R</math> vai arī <math>P = 8 r\,</math>, kur R — ap kvadrātu apvilktās riņķa līnijas rādiuss, r — kvadrātā ievilktās riņķa līnijas rādiuss, a — kvadrāta malas garums.
+
+== Polimino ==
+
+Plaknes figūras, ko iegūst, ņemot kvadrātu, pie tā pieliekot klāt tādu pašu kvadrātu tā, lai tiem būtu kopīga mala, iegūtai figūrai pieliekot klāt tādu pašu kvadrātu, kam ir kopīga mala ar kādu no iepriekšējiem kvadrātiem, utt. sauc par [[polimino]].
+
+== Skatīt arī ==
+
+* [[Taisnstūris]]
+* [[Kubs]]
+* [[Polimino]]
+* [[Ciklobutāns]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ģeometriskas figūras]]

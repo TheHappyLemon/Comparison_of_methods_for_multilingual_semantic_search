@@ -1,0 +1,82 @@
+[[Attēls:Roentgen-Roehre.svg|right|300px|thumb|Rentgenlampa ar nekustīgu anodu:
+
+* K — katods,
+* A — anods jeb antikatods,
+* X — rentgenstari
+* - — elektroni
+* C — siltuma aizvadītājs
+* W<sub>in</sub> — ūdens pievads
+* W<sub>out</sub> — ūdens izvads
+* ''U<sub>h</sub>'' — katoda spriegums
+* ''U<sub>a</sub>'' — paātrinājuma spriegums
+
+]]
+'''Rentgenstari''' ir [[elektromagnētiskie viļņi]] ar viļņa garumu, kas mazāks nekā [[ultravioletais starojums|ultravioletajam starojumam]], bet lielāks nekā [[gamma stari]]em. Tomēr cieto rentgenstaru viļņa garumi var būt līdzīgi dažu gamma staru viļņa garumiem. Šādos gadījumos par gamma stariem sauc to starojumu, kas rodas [[radioaktivitāte|radioaktīvajā]] sabrukšanā, bet starojumu, kuru var iegūt no elementārdaļiņu paātrinātāja — par rentgenstariem.
+
+Rentgenstarus [[1895]]. gadā atklāja [[Vilhelms Rentgens]], kurš tiem ieteica nosaukumu '''X-stari''', ko lieto daudzās valodās, tostarp [[angļu valoda|angļu valodā]] ({{val-en|X-rays}}).
+
+== Īpašības ==
+Rentgenstaru viļņa garums ir robežās no 10 [[nm]] līdz 100 [[Starptautiskā mērvienību sistēma|pm]] (atbilstošās [[frekvence]]s ir 30 [[Starptautiskā mērvienību sistēma|P]][[Hercs (mērvienība)|Hz]] līdz 3 [[Starptautiskā mērvienību sistēma|E]]Hz). Tos sauc par mīkstajiem rentgenstariem un tos var iegūt ar [[rentgenlampa|rentgenlampām]]. Rentgenstarus ar viļņa garumu zem 100 pm sauc par cietajiem rentgenstariem, un to iegūšanai ir nepieciešams elementārdaļiņu paātrinātājs. To viļņu garumi pārklājas ar gamma staru viļņu garumiem.
+
+Rentgenstaru [[laušanas koeficients]] pat visblīvākajās vielās ir tuvs 1, tāpēc to virzienu praktiski nav iespējams izmainīt ar prizmām un [[lēca|lēcām]]. Rentgenstariem krītot mazā leņķī uz gludi pulētas virsmas, ir iespējama atstarošanās, uz to bāzējas gandrīz visa rentgenstaru optika.
+
+Mijiedarbībā ar vielu rentgenstari daļēji absorbējas un izkliedējas. Vielas rentgenstaru absorbcijas koeficients <math>\mu</math> ir atkarīgs no starojuma viļņa garuma un vielas atomu (vielu veidojošo ķīmisko elementu) [[Atomskaitlis|atomskaitļa]] (tas palielinās, palielinoties abiem minētajiem parametriem). Rentgenstarus ar viļņa garumu virs 300 pm ievērojami absorbē gaiss.
+
+Rentgenstarojums, tāpat kā jebkura veida elektromagnētiskais starojums, ir [[Kvants|kvantu]] plūsma.
+
+Rentgenstarojums ir viens no [[Jonizējošais starojums|jonizējošā starojuma]] veidiem, tas izraisa izmaiņas [[Šūna|šūnās]] <ref>{{Tīmekļa atsauce|url=http://large.stanford.edu/courses/2016/ph240/nick1/|title=The Dangers of X-Rays|website=stanford.edu|access-date=16.05.2021}}</ref> ([[Jons|jonizē]]), tāpēc cilvēkiem no tā ir jāaizsargājas, nedrīkst arī pārmērīgi izmantot [[Medicīniskā pārbaude|medicīniskajās pārbaudēs]]. Aizsardzībai pret to izmanto [[Svins|svina]] plāksnes. 
+
+== Ieguve ==
+Rentgenstari veidojas, ātrām lādētām [[elementārdaļiņas|daļiņām]] bremzējoties vielā vai [[Elektromagnētiskais lauks|elektromagnētiskajā laukā]]. Parasti šīs daļiņas ir [[elektrons|elektroni]]. Parasti elektrons zaudē savu enerģiju, saduroties ar vairākiem atomiem pēc kārtas, katrā šādā sadursmē zaudējot daļu no [[Kinētiskā enerģija|kinētiskās enerģijas]] <math>E_k</math>. Līdz ar to rodas vairāki [[Kvants|kvanti]] ar atšķirīgu [[Viļņa garums|viļņa garumu]] <math>\lambda</math> un [[Frekvence|frekvenci]] <math>\nu</math>, un līdz ar to kvanta enerģiju <math>E</math>. Šādam rentgenstarojumam ir nepārtraukts spektrs ("baltais" rentgenstarojums). Starojuma spektrālo sadalījumu un intensitāti nosaka galvenokārt elektronu ātrums un intensitāte, kas savukārt ir atkarīgi no lampas anodsprieguma un strāvas. Līdzīgā veidā neliels daudzums rentgenstaru veidojas [[kineskops|kineskopos]] (elektronu kūlim ietriecoties ekrānā), tāpēc ekrāna daļu izgatavo no bieza svina stikla (lai absorbētu rentgenstarus). Rentgenstarojums var veidoties jebkurā elektronu lampā ar pietiekoši lielu anodspriegumu un sprieguma kritumu uz lampu (iekšējo pretestību). [[Elektronu lampa]]s parasti konstruē, lai samazinātu šādu rentgenstarojuma veidošanos, taču ne vienmēr to ir iespējams pilnībā novērst (piemēram, lielas jaudas raidītāju lampām). Medicīnā un defektoskopijā parasti lieto balto starojumu.
+
+Ārējie elektroni var izsist vienu vai vairākus elektronus no anoda materiāla atomu iekšējām orbītām, jonizējot to atomus. Elektronu pārejās no jonizēta atoma augstākiem enerģijas līmeņiem uz zemākiem, veidojas raksturīgais rentgenstarojums, kas sastāv no atsevišķām līnijām, kuru viļņu garumus nosaka tikai rentgenlampas anoda materiāls. Palielinot anodspriegumu, palielinās arī raksturīgā starojuma intensitāte, taču tā palielinās ievērojami mazāk nekā baltā starojuma intensitāte. Rentgendifraktometrijā parasti lieto raksturīgo starojumu.
+
+Rentgenstari pastāv dabā, un tos rada [[Visums|Visuma]] [[Fizikāls ķermenis|ķermeņi]], piemēram, līdzās [[Redzamā gaisma|redzamajai gaismai]], [[Ultravioletais starojums|ultravioletajam]] un [[Infrasarkanais starojums|infrasarkanajam starojumam]] [[Saule]] izstaro rentgenstarus, kurus absorbē [[Zeme|Zemes]] [[atmosfēra]]. 
+
+== Detektēšana ==
+Zemas intensitātes rentgenstarojums nav redzams ar aci. Intensīvs rentgenstarojums var būt redzams, ja acs ir adaptējusies tumsai, taču rentgenstari ir kaitīgi veselībai, tāpēc mūsdienās šo parādību neviens sīkāk nav pētījis. Nav zināms, vai rentgenstari iedarbojas tieši uz redzes šūnām vai arī rada acs ābola [[Fosforescence|fosforescenci]]. 
+
+Rentgenstari izraisa fotomateriālu nomelnējumu. Vēsturiski tā ir bijusi ļoti plaši lietota detektēšanas metode. Šādiem mērķiem parasti lieto fotoplēvi, jo to var saliekt. Dažos gadījumos ir lietotas arī [[fotoplate]]s. Fotomateriālu nomelnējums ir atkarīgs no kopējā absorbētā starojuma daudzuma, tāpēc te var iztikt ar mazāk stabiliem rentgenstarojuma avotiem (zemākas prasības rentgenlampas augstsprieguma barošanas blokam).
+
+Rentgenstarus var detektēt arī ar radioaktīvā starojuma detektoriem. Sākotnēji šādiem mērķiem lietoja [[Geigera skaitītājs|Geigera skaitītāju]]. Mūsdienās vairāk lieto scintilācijas skaitītājus, jo tie ir jutīgāki. Radiācijas detektori uztver starojumu relatīvi nelielā telpas tilpumā. Lai iegūtu informāciju par starojuma sadalījumu telpā, tos nākas pārvietot.
+
+== Izmantošana ==
+[[Attēls:X-ray by Wilhelm Röntgen of Albert von Kölliker's hand - 18960123-02.jpg|thumb|right|Rentgena uzņēmums, ko uzņēmis [[Vilhelms Rentgens]] [[1896]]. gadā, izmantojot savas sievas Annas Bertas Ludvigas<ref>{{Tīmekļa atsauce |url=http://nobelprize.org/educational_games/physics/x-rays/history-4.html |title=X-rays<!-- Bota izveidots nosaukums --> |access-date={{dat|2007|11|27||bez}} |archive-date={{dat|2007|05|29||bez}} |archive-url=https://web.archive.org/web/20070529205758/http://nobelprize.org/educational_games/physics/x-rays/history-4.html }}</ref> roku]] 
+
+Rentgenstarus lieto medicīnā, izmantojot īpašību, ka dažāda [[Blīvums|blīvuma]] audi rentgenstarus absorbē atšķirīgi. Veicot vienkāršu rentgenuzņēmumu, var redzēt, piemēram, vai nav lauzti [[kauli]]. Veicot rentgenstaru [[Tomogrāfija|tomogrāfiju]], var apskatīt iekšējos [[Orgāns|orgānus]], piemēram, lai atklātu [[Vēzis (slimība)|vēža]] šūnas, — uz [[Cilvēka ķermenis|ķermeni]] dažādos [[Leņķis|leņķos]] tiek raidīti vairāki rentgenstari, to krustošanās vietu eksponē rentgenstariem jutīgas filmas vai ekrāna; pārbīdot rentgenstarus plaknē, iegūst dažādu audu slāņu attēlus. Ja šo procesu vada ar datoru, iegūtos attēlus sauc par datortomogrāfiju, un fotofilmas vietā tiek izmantots no šūnu matricas sastāvošs elektronisks rentgenstaru uztvērējs, kurš nogādā informāciju par staru absorbciju datorprogrammai, kura izveido attēlu. Vienlaikus ar to pārbīdot ķermeni, iegūst trīsdimensionālu informācijas šūnu kubu. <ref>{{Grāmatas atsauce|title=Fizika 12. klasei|last=Šilters|first=Edvīns|publisher=Lielvārds|year=2008|isbn=978-9984-11-264-0|pages=263|first2=Vilnis|last2=Reguts|first3=Austris|last3=Cābelis|first4=Ilgonis|last4=Vilks}}</ref> 
+
+Rentgenstarojuma medicīniskajai izmantošanai piemīt tāds trūkums, ka ar to var labi saskatīt [[Audi|audus]], kuriem blīvums ir lielāks nekā apkārtējai videi, taču ar to nevar uztvert [[Ūdeņradis|ūdeņradi]] saturošās vielas. (Šāds trūkums piemīt arī [[Ultraskaņas tomogrāfija|ultraskaņas tomogrāfijai]], bet tas ir atrisināts [[Magnētiskās rezonanses tomogrāfija|magnētiskās rezonanses tomogrāfijā]].)
+
+Līdzīgā veidā rentgenstarus lieto arī nesagraujošām testēšanas metodēm konstrukciju uzbūves noteikšanai ([[defektoskopija]]). Rentgenstarus lieto arī [[rentgendifraktometrija|rentgendifraktometrijā]], lai noteiktu [[Kristālrežģis|kristālisku vielu]] struktūru. Iegūstot rentgenogrammu un izmērot attālumus un leņķus starp tajā redzamajiem [[Difrakcija|difrakcijas]] maksimumiem, nosaka kristālrežģa uzbūvi. 
+
+== Formulas ==
+<math>E=h\nu</math>
+
+<math>E</math> ir rentgenkvanta [[enerģija]] ([[Džouls|J]]), <math>h</math> ir [[Planka konstante]], <math>\nu</math> ir rentgenstaru [[frekvence]] ([[Hercs|Hz]]). 
+
+<math>{\displaystyle E_{k}}=\frac{mv^2}{2}=eU</math>
+
+<math>E_k</math> ir elektrona [[kinētiskā enerģija]] ([[Džouls|J]]), <math>m</math> ir elektrona [[masa]] ([[Kilograms|kg]]), <math>v</math> ir elektrona [[ātrums]] ([[Metrs|m]]/[[Sekunde|s]]), <math>e</math> ir elektrona [[Elektriskais lādiņš|lādiņš]] ([[Kulons|C]]), <math>U</math> ir [[spriegums]] starp rentgenlampas elektrodiem ([[Volts|V]]).
+
+<math>E_{max}=E_k</math> 
+
+<math>E_{max}</math> ir rentgenlampā iegūtā rentgenkvanta maksimālā enerģija (J).
+
+<math>\lambda_{min}=\frac{hc}{E_k}</math> 
+
+<math>\lambda_{min}</math> ir rentgenlampā iegūtā rentgenkvanta minimālais viļņa garums ([[Metrs|m]]), <math>c</math> ir [[gaismas ātrums]].
+
+<ref>{{Grāmatas atsauce|title=Fizika 12. klasei|last=Šilters|first=Edvīns|publisher=Lielvārds|year=2008|isbn=978-9984-11-264-0|pages=199|first2=Vilnis|last2=Reguts|first3=Austris|last3=Cābelis|first4=Ilgonis|last4=Vilks}}</ref> 
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{EMspektrs}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektromagnētiskais spektrs]]

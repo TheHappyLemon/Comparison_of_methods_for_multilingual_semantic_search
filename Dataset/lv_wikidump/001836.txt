@@ -1,0 +1,35 @@
+{{Infobox
+| title   = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+| above = {{{Region|}}}
+| image = {{#if:{{{Logo|}}}|[[Attēls:{{{Logo}}}|{{{Badge_size|150px}}}|Association crest]]}}
+
+| label1 = Dibināšanas gads
+| data1 = {{{Founded|}}}
+| label2 = [[FIFA]] kopš
+| data2 = {{{FIFA affiliation|}}}
+| label3 = {{#if:{{{Region|}}}|{{{Region}}} kopš}}
+| data3 = {{{Region affiliation|}}}
+| label4 = Tīmekļa&nbsp;vietne
+| data4 = {{{Website|}}}
+| label5 = Prezidents
+| data5 = {{{President|}}}
+}}<noinclude>{{Dokumentācija}}
+[[Kategorija:Futbola veidnes]]
+[[Kategorija:Sporta infokastes]]
+
+<templatedata>
+{
+	"params": {
+		"name": {},
+		"Region": {},
+		"Logo": {},
+		"Badge_size": {},
+		"Founded": {},
+		"FIFA affiliation": {},
+		"Region affiliation": {},
+		"Website": {},
+		"President": {}
+	},
+	"format": "block"
+}
+</templatedata></noinclude>

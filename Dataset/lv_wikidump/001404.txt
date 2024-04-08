@@ -1,0 +1,38 @@
+{{infokaste+}}
+{| align="right" cellpadding="4" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; background-color: #CEDAF2"
+! colspan="2" style="background-color: #003399" |
+{| style="background: #003399" align="center" width="100%"
+| padding=15px|
+| style="background: #003399" align="center" width="100%" |<font color=white size="4"> '''Prosna'''
+| padding=15px|
+|}
+|-
+|align=center colspan=2 style="padding: 0 0 0 0; background: #FFFFFF"|[[Attēls:Dorzecze Odry mapa.png|250px]]
+|-
+|| Garums || align=center style="background: #f7f8ff"| 217 km
+|-
+|| Baseins || align=center style="background: #f7f8ff"| 4 925 km<sup>2</sup>
+|-
+|| Izteka || align=center style="background: #f7f8ff"| [[Silēzija|Augšsilēzija]]
+|-
+|| Ieteka || align=center style="background: #f7f8ff"| [[Varta]]
+|-
+|| Tek caur|| align=center style="background: #f7f8ff"| [[Polija]]
+|}
+'''Prosna''' ({{val|pl|Prosna}}) ir upe centrālajā [[Polija|Polijā]], [[Varta]]s kreisā krasta pieteka. Sākas [[Silēzija|Augšsilēzijā]]. Ietek [[Varta|Vartā]] netālu no [[Pizdri]]em. Līdz 1945.gadam bija robežupe starp [[Vācija|Vāciju]] un Poliju.
+
+== Liela pilsēta Prosnas krastos ==
+
+* [[Kališa]] (''Kalisz'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polija-aizmetnis}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vartas pietekas]]
+[[Kategorija:Lielpolijas vojevodiste]]
+[[Kategorija:Lodzas vojevodiste]]
+[[Kategorija:Opoles vojevodiste]]

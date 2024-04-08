@@ -1,0 +1,87 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Puertoriko Asociētā Valsts
+|    pilnais_valsts_nosaukums = ''Commonwealth of Puerto Rico''<br />''Estado Libre Asociado de Puerto Rico''
+|            valsts_nosaukums = Puerto Rico
+|               karoga_attēls = Flag of Puerto Rico.svg
+|            karoga_nosaukums = Puertoriko karogs
+|              ģerboņa_attēls =Coat_of_arms_of_Puerto_Rico.svg
+|           ģerboņa_nosaukums = Puertoriko ģerbonis
+|             ģerboņa_platums = 70px
+|                 valsts_moto = ''Joannes est nomen ejus''
+|                valsts_himna = ''[[La Borinqueña]]''
+|               kartes_attēls = Puerto Rico (orthographic projection).svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Sanhuana]]
+| latd= 18 | latm= 27 | latNS= N | longd= 66 | longm= 06 | longEW= W
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[spāņu valoda]] un [[angļu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = 
+|        valsts_galvas_tituls = [[ASV prezidents]]
+|                valsts_galva = [[Džo Baidens]]
+|       valsts_galvas_tituls2 = [[Puertoriko gubernators|Gubernators]]
+|               valsts_galva2 = ''[[Pedro Pierluisi]]''
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = 
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = 
+|          neatkarības_datums = 
+|       neatkarības_notikums2 = 
+|         neatkarības_datums2 = 
+|       neatkarības_notikums3 = 
+|         neatkarības_datums3 = 
+|                 platība_km2 = 9 104
+|               platība_rangs = 
+|              procenti_ūdens = 1,6
+|     iedzīvotāju_skaita_gads = 2015
+|          iedzīvotāju_skaits = 3 474 182
+|    iedzīvotāju_skaits_rangs = 130.
+|    apdzīvotības_blīvums_km2 = 382
+|  apdzīvotības_blīvums_rangs = 29.
+|                     IKP_PPP = [[ASV dolārs|$]] 125,861 miljardi
+|                IKP_PPP_gads = 2013
+|               IKP_PPP_rangs = 72.
+|          IKP_PPP_per_capita = [[ASV dolārs|$]] 35 029
+|    IKP_PPP_per_capita_rangs = 29.
+|                         HDI = {{palielinājās}} 0,865
+|                    HDI_gads = 2012
+|              HDI_kategorija = <font color=#009900>ļoti augsts</font>
+|                   HDI_rangs = 
+|                        Gini = 53,1
+|                   Gini_gads = 2011
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[ASV dolārs]]
+|                valūtas_kods = USD
+|                  laika_zona = AST
+|                  utc_offset = -4
+|              laika_zona_DST = nav
+|              utc_offset_DST = -4
+|                      domēns = [[.pr]]
+|              tālsarunu_kods = 1-787 un +1-939
+|                iso_kods_num = 630
+|              iso_kods_alfa2 = PR
+|              iso_kods_alfa3 = PRI
+|                    piezīmes = 
+|                    piezīme1 = 
+|                    piezīme2 = 
+}}
+
+'''Puertoriko''' (''Puerto Rico''), oficiāli '''Puertoriko Asociētā Valsts''' ({{val|en|Commonwealth of Puerto Rico}}; {{val-es|Estado Libre Asociado de Puerto Rico}}), ir [[Amerikas Savienotās Valstis|ASV]] valdījums [[Vestindija|Vestindijā]], [[Lielās Antiļu salas|Lielajās Antiļu salās]]. Aizņem Puertoriko salu (8674 km²), kā arī Vjekesu (134 km²), Monu (54 km²), Kulebru (28 km²) un citas mazākas salas. Ziemeļos Puertoriko apskalo [[Atlantijas okeāns]], dienvidos — [[Karību jūra]].
+
+Puertoriko atrodas pašos Lielo Antiļu salu austrumos. Puertoriko ir kalnains reljefs, te valda tropisks klimats, un salu klāj bagātīgs [[augājs]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{Ziemeļamerikas valstis}}
+
+[[Kategorija:Puertoriko| ]]
+[[Kategorija:Lielās Antiļu salas]]

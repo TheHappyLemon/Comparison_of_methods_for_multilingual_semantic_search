@@ -1,0 +1,113 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #80B2E6
+| nos     = ''Málaga CF''
+| logo    = [[Attēls:Malaga cf.gif|150px]]
+| pilns   = ''Málaga Club de Fútbol''
+| iesauka = ''Los Boquerones'' (anšovi)
+| pilsēta = {{Vieta|Spānija|Malaga}} 
+| dib     = 1904
+| dib_mēn = 4
+| dib_dat = 3
+| stad    = ''[[La Rosaleda]]''
+| ietilp  = 30 044
+| prez    = {{flaga|Katara}} Abdulla Al Tani
+| tren    = {{flaga|Spānija}} Serhio Peljisers
+| līga    = [[Spānijas futbola čempionāta Otrā divīzija|Spānijas Otrā divīzija]] (''LaLiga 2'')
+| sez     = 2021.—2021.
+| poz     = 18. vieta
+|pattern_la1=_malaga1920h
+|pattern_b1= _malaga1920h
+|pattern_ra1 =_malaga1920h
+|pattern_sh1= _malaga1920h
+|pattern_so1= 
+|leftarm1= ffffff
+|body1= FFFFFF
+|rightarm1 = ffffff
+|shorts1= ffffff
+|socks1= ffffff
+|pattern_la2= _malaga1920a
+|pattern_b2= _malaga1920a
+|pattern_ra2= _malaga1920a
+|pattern_sh2=
+|pattern_so2=
+|leftarm2= 000055
+|body2= 000055
+|rightarm2= 000055
+|shorts2= 000055
+|socks2= 000055
+|pattern_la3=_leyton1819t
+|pattern_b3=_leyton1819t
+|pattern_ra3=_leyton1819t
+|pattern_sh3=
+|pattern_so3=
+|leftarm3=fe2e9a
+|body3=fe2e9a
+|rightarm3=fe2e9a
+|shorts3=fe2e9a
+|socks3=fe2e9a
+}}
+
+'''''Málaga Club de Fútbol''''' ir [[Spānija]]s futbola klubs no [[Malaga]]s pilsētas [[Andalūzija|Andalūzijā]]. Pašlaik spēlē Spānijas futbola [[Spānijas futbola čempionāta Otrā divīzija|Otrajā divīzijā]] jeb ''LaLiga 2''. Mājas spēles aizvada ''[[La Rosaleda]]'' stadionā. Komandas augstākais sasniegums Spānijas čempionātā ir 2011.–2012. gada sezonā izcīnītā 4. vieta, kas ļāva kvalificēties [[UEFA Čempionu līga]]i, kur 2012.–2013. gada sezonā komanda aizkļuva līdz ceturtdaļfinālam.<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefachampionsleague/season=2013/index.html|title=UEFA Champions League 2012/13 - History|publisher=UEFA.com|accessdate={{dat|2015|10|21||bez}}}}</ref>
+<!--
+== Komandas sastāvs ==
+''Atjaunots {{dat|2016|8|22||bez}}''<ref>{{Tīmekļa atsauce|url=http://www.malagacf.com/equipo/malaga-cf|title=Málaga Club de Fútbol - Plantilla|publisher=Malaga CF|accessdate={{dat|2016|8|22||bez}}}}</ref>
+{{Fs start}}
+{{Fs player|no= 1|nat=CMR|pos=GK|name=[[Karloss Kamenī]]}}
+{{Fs player|no= 2|nat=BFA|pos=DF|name=[[Bakarī Konē]]}}
+{{Fs player|no= 3|nat=BRA|pos=DF|name=[[Velingtons (futbolists)|Velingtons]]|other=[[kapteinis (futbols)|vicekapteinis]]}}
+{{Fs player|no= 4|nat=VEN|pos=DF|name=[[Mikels Viljanueva]]}}
+{{Fs player|no= 5|nat=ESP|pos=DF|name=[[Djego Ljorente]]|other=īre no [[Madrides "Real" (futbols)|Real Madrid]]}}
+{{Fs player|no= 6|nat=ESP|pos=MF|name=[[Ignasio Kamačo]]}}
+{{Fs player|no= 7|nat=ESP|pos=DF|name=[[Huans Karloss (futbolists)|Huans Karloss]]|other=īre no [[S.C. Braga|Braga]]}}
+{{Fs player|no= 8|nat=URU|pos=FW|name=[[Maikls Santoss]]}}
+{{Fs player|no= 9|nat=BRA|pos=FW|name=[[Šarlešs Diass de Oliveira|Šarlešs]]}}
+{{Fs player|no=10|nat=VEN|pos=MF|name=[[Huanpi]]}}
+{{Fs player|no=11|nat=URU|pos=MF|name=[[Čori Kastro]]}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Resio (futbolists)|Resio]]}}
+{{Fs mid}}
+{{Fs player|no=15|nat=ARG|pos=DF|name=[[Federiko Rika]]}}
+{{Fs player|no=17|nat=POR|pos=MF|name=[[Seržiu Paulu Barbosa Valente|Duda]]|other=[[kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no=18|nat=VEN|pos=DF|name=[[Roberto Rosaless]]}}
+{{Fs player|no=19|nat=ESP|pos=FW|name=[[Sandro Ramiress]]}}
+{{Fs player|no=20|nat=ESP|pos=MF|name=[[Keko Gontans]]}}
+{{Fs player|no=21|nat=ESP|pos=MF|name=[[Joni Rodrigess|Honi]]}}
+{{Fs player|no=22|nat=SRB|pos=MF|name=[[Zdravko Kuzmanovičs]]|other=īre no [[FC Basel|Basel]]}}
+{{Fs player|no=23|nat=ESP|pos=DF|name=[[Migels Toress]]}}
+{{Fs player|no=27|nat=ESP|pos=GK|name=[[Ārons Eskandels]]}}
+{{Fs player|no=31|nat=ESP|pos=MF|name=[[Pablo Fornals]]}}
+{{Fs player|no=39|nat=ESP|pos=MF|name=[[Havi Ontiveross]]}}
+{{Fs player|no= —|nat=MAR|pos=MF|name=[[Adnans Tigaduīni]]}}
+{{Fs end}}
+-->
+== Sasniegumi ==
+* '''[[Spānijas futbola čempionāta Pirmā divīzija|Spānijas čempionāts (''La Liga'')]]'''
+** 4. vieta (1): 2011–12
+* '''[[Spānijas Karaļa kauss]]'''
+** Pusfinālisti (1): 1972–73
+* '''Spānijas Federācijas kauss'''
+** Kausa ieguvēji (1): 1947
+* '''[[Spānijas futbola čempionāta Otrā divīzija|Otrā divīzija]]'''
+** Čempioni (4): 1951–52, 1966–67, 1987–88, 1998–99
+** Vicečempioni (5): 1948–49, 1961–62, 1964–65, 1969–70, 1978–79, 2007–08
+* '''[[UEFA Čempionu līga]]'''
+** Ceturtdaļfinālisti (1): 2012–13
+* '''[[UEFA kauss]]'''
+** Ceturtdaļfinālisti (1): 2002–03
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (1): 2002
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commons category|Málaga CF}}
+* [http://www.malagacf.com/ Oficiālā kluba vietne] {{es ikona}} {{en ikona}} {{zh ikona}} {{ar ikona}}
+
+{{Futbols-aizmetnis}}
+{{La Liga}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Spānijas futbola klubi]]
+[[Kategorija:Málaga CF| ]]

@@ -1,0 +1,23 @@
+[[Attēls:Heliocentric.jpg|thumb|235px|17. gadsimta uzskats attēlots (''Andreas Cellarius'')]]
+'''Heliocentrisms''' (gr. ''helios'' — "saule") ir hipotēze, ka [[Saule]] ir [[Visums|Visuma]] centrā, un ap to rotē planētas un zvaigznes.
+
+== Idejas rašanās un attīstība ==
+
+Ideja, ka visa centrā ir [[Saule]], pirmoreiz radās sengrieķu [[Filozofija|filozofam]] un [[Astronomija|astronomam]] [[Aristarhs|Aristarham]] 270. gadā p.m.ē. Aristarhs pats mēģināja noteikt attālumus līdz [[Mēness|Mēnesim]] un [[Saule]]i, kā arī to lielumu. Viņa mērījumi pēc mūsdienu zinātnes standartiem ir visai neprecīzi, taču tie viņam ļāva pieņemt, ka loģiskāk būtu, ja Zeme un pārējās Saules sistēmas planētas grieztos ap Sauli.
+
+16. gadsimta sākumā pie šīs teorijas atgriezās [[Nikolajs Koperniks]], kurš savas sistēmas modelēšanā balstījās uz [[Platons|Platona]] pieņēmumu, ka planētu kustība ir nemainīgi vienmērīga (ko savulaik sekmīgi bija atspēkojis jau [[Klaudijs Ptolemajs]]) un uzskatīja, ka planētu orbītas ir apļveida (vēlāk [[Johanness Keplers]] pierādīja, ka šis pieņēmums ir maldīga, un patiesībā planētu orbītas ir elipsveida). Rezultātā Kopernika modelis izrādījās krietni sarežģītāks par [[Ptolemaja sistēma|Ptolemaja modeli]]: Ptolemaja shēmā bija 15 orbītu sfēras (ieskaitot epiciklus — ''epicycle'' — Ptolemeja teorijā riņķis, pa kuru pārvietojas debess ķermenis), savukārt Kopernikam bija nepieciešamas 18 sfēras. Un, kaut Kopernika heliocentriskais modelis izrādījās sarežģītāks, tas nebija pareizāks: piemēram, [[Marss (planēta)|Marsa]] orbītu pēc Ptolemaja shēmas varēja izskaitļot daudz precīzāk. Savukārt izmantot Kopernika tabulas astronomiskajos aprēķinos nozīmēja neizbēgami kļūdainus rezultātus.
+
+17. gadsimta sākumā heliocentrismu sāka proponēt itāļu astronoms un matemātiķis [[Galileo Galilejs]], kurš izraisīja publisku strīdu ar apgalvojumu („Dialogi par svarīgākajām pasaules uzbūves sistēmām“), ka visas pārējās tajā laikā zinātnes apritē paralēli esošās pasaules uzbūves sistēmas — [[Ptolemajs|Ptolemaja]], [[Johanness Keplers|Keplera]] un [[Tiho Brahe|Brahes]], — esot aplamas. Zinātnieku strīdā iejaucās [[Romas Katoļu baznīca|Baznīca]] kā izglītības sistēmas kūrētāja. Diemžēl Galilejs nevarēja sniegt [[Inkvizīcija|sv. inkvizīcijas]] komisijai nevienu pierādījumu, kas apliecinātu heliocentrisma koncepcijas patiesumu. Viņa vienīgais arguments bija, ka okeānu paisumu un bēgumu izraisa Zemes rotācija, taču komisijas pārstāvji to noraidīja (pamatojoties uz [[Johanness Keplers|Kepleru]]), jo šīs ūdens svārstības izsauc [[Mēness]] gravitācijas spēks, rotējot ap [[Zeme|Zemi]]. Pierādījumu bāzes nebija, viss balstījās uz atgriešanos pie [[Aristotelis|Aristoteļa]], savukārt zvaigžņu paralakses neesamība bija acīmredzama. Līdz ar to [[1616]]. gadā heliocentrisma koncepciju atzina par nezinātnisku hipotēzi, kuru aizliedza mācīt izglītības iestādēs, bet heliocentriķu darbus iekļāva „Nerekomendējamo grāmatu indeksā“.
+
+Zinātnes aprindas līdz pat 19. gadsimtam uz heliocentrismu raudzījās kā uz kārtējo pseidozinātnisko hipotēzi, kura var izrādīties patiesa, bet var izrādīties arī otrādi (pierādījumu nebija, bija tikai pieņēmumi). Tikai [[1838]]. gadā Besels konstatēja zvaigžņu [[Paralakse|paralaksi]], savukārt [[1851]]. gadā ar [[Fuko svārsts|Fuko svārsta]] palīdzību tika pierādīta [[Zeme]]s rotācija ap savu asi, un tikai ar šo brīdi var runāt par heliocentrismu kā vērāņemamu koncepciju. ([[Romas Katoļu baznīca|Katoļu Baznīca]] gan atzina heliocentrisma hipotēzes tiesības uz pastāvēšanu mazliet agrāk — Galileja "De revolutionibus orbium coelestium" no „Nerekomendējamo grāmatu indeksa“ izņēma jau [[1835]]. gadā.)
+
+Taču šajā laikā, pateicoties [[Īzaks Ņūtons|Ņūtona]] pētījumiem, jau bija skaidrs, ka [[Visums]] ir daudz plašāks un nekādi nevar rotēt ap [[Saule|Sauli]], tātad heliocentrisma teorija tā arī palika zinātnes vēsturē kā viena no viduslaikos pastāvējušām hipotēzēm par pasaules uzbūvi.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20080426000421/http://www.liis.lv/kultvest/kultura/17gad/www.htm Saites uz interneta lapām par viduslaiku astronomiem]
+* [https://web.archive.org/web/20160305045115/http://lv.pandapedia.com/wiki/Heliocentrisms lv.pandapedia.com enciklopēdija]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Astronomijas vēsture]]
+[[Kategorija:Novecojušas zinātniskas teorijas‎]]

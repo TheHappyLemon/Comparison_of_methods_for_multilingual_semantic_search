@@ -1,0 +1,131 @@
+{{Futbola kluba infokaste
+| text_color   = #FFFFFF
+| bg_color     = #4169E1
+| nos          = ''FC Schalke 04''
+| logo         = [[Attēls:Schalke 04.png|150px]]
+| pilns        = ''Fußballclub Gelsenkirchen-Schalke 04 e.V.''
+| iesauka      = ''Die Königsblauen'' (Ķēniņzilie)<br />''Die Knappen'' (Kalnrači)
+| pilsēta      = {{vieta|Vācija|Gelzenkirhene}}
+| dib          = 1904
+| dib_mēn      = 5
+| dib_dat      = 4
+| stad         = ''[[Veltins Arena]]''
+| ietilp       = 62 271
+| prez         = {{flaga|Vācija}} Klemenss Tennīss
+| tren         = {{flaga|Vācija}} [[Tomass Reiss]]
+| līga         = [[Vācijas futbola 2. Bundeslīga|Vācijas 2. Bundeslīga]]
+| sez          = [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022.—2023.]]
+| poz          = 17. vieta [[Vācijas futbola Bundeslīga|Bundeslīgā]] {{decrease}}
+| mediji       = {{URL|http://www.schalke04.de/}}
+| pattern_la1 = _schalke2223h
+| pattern_b1 = _schalke2223h
+| pattern_ra1 = _schalke2223h
+| pattern_sh1 = _schalke2223h
+| pattern_so1 = _3_stripes_white
+| leftarm1 = 0000CD
+| body1 = 0000CD
+| rightarm1 = 0000CD
+| shorts1 = FFFFFF
+| socks1 = 0000CD
+| pattern_la2 = _schalke2223a
+| pattern_b2 = _schalke2223a
+| pattern_ra2 = _schalke2223a
+| pattern_sh2 = _schalke2223a
+| pattern_so2 = _3_stripes_blue
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FFFFFF
+| pattern_la3 = _schalke2223t
+| pattern_b3 = _schalke2223t
+| pattern_ra3 = _schalke2223t
+| pattern_sh3 = _schalke2223t
+| pattern_so3 = _schalke2223t
+| leftarm3 = 0de4a8
+| body3 = 0de4a8
+| rightarm3 = 0de4a8
+| shorts3 = 0000CD
+| socks3 = 0de4a8
+}}
+
+'''''FC Gelsenkirchen-Schalke 04''''', biežāk zināms kā '''''FC Schalke 04''''', ir Vācijas [[futbols|futbola]] klubs, kurš radies Šalkes apkaimē [[Gelzenkirhene|Gelzenkirhenē]], [[Ziemeļreina-Vesfālene|Ziemeļreinā-Vesfālenē]]. ''Schalke'' ilgstoši ir bijusi viens no populārākajiem klubiem Vācijā, lai arī lielu sasniegumu nav bijis kopš kluba slavas gadiem 1930. un agros 1940. gados.
+
+Futbola komanda ir daļa no plašāka sporta kluba ar vairāk kā 80 000 dalībniekiem (uz 2009. g. septembri) padarot to par otru lielāko sporta klubu Vācijā. Citi kluba pārstāvētie sporta veidi ir [[basketbols]], [[handbols]] un [[vieglatlētika]]. ''Schalke 04'' ieguva savu pirmo lielāko Eiropas kausu 1997. gadā, kad [[UEFA kauss|UEFA kausa]] finālā pēcspēles 11 metru soda sitienos pārspēja ''[[Milānas "Internazionale"|Internazionale]]''. 1987. gadā par kluba goda locekli kļuva pāvests [[Jānis Pāvils II]], pēc tam, kad bija novadījis mesu kluba stadionā ''Parkstadion''. ''Schalke'' lielākie sāncenši ir ''[[Dortmundes "Borussia"|Borussia Dortmund]]'' un pastāv draudzības saites ar ''[[1. FC Nuremberg|Nuremberg]]''. Kluba talismans tiek saukts par ''Erwin'' (arī ''Ährwin''.)
+
+== Komandas sastāvs ==
+''{{dat|2022|9|11||bez}}''.<ref>{{Tīmekļa atsauce|url=https://schalke04.de/funktion/kader/|title=Der Kader des FC Schalke 04|language=de |accessdate={{dat|2020|10|13||bez}}|publisher=''FC Schalke 04''}}</ref>
+{{Fs start}}
+{{Fs player|no= 1 |nat=GER |pos=GK |name=[[Ralfs Fērmanis]]}}
+{{Fs player|no= 2 |nat=NED |pos=DF |name=[[Tomass Auvejans]]}}
+{{Fs player|no= 3 |nat=AUT |pos=DF |name=[[Leo Greimls]]}}
+{{Fs player|no= 4 |nat=JAP |pos=DF |name=[[Maja Jošida]]}}
+{{Fs player|no= 5 |nat=NED |pos=DF |name=[[Seps van den Bergs]]|other=īrē no [[Liverpool FC|Liverpool]]}}
+{{Fs player|no= 6 |nat=GER |pos=MF |name=[[Toms Krauss]]|other=īrē no [[RB Leipzig]]}}
+{{Fs player|no= 7 |nat=SWE |pos=FW |name=[[Džordans Lāšons]]}}
+{{Fs player|no= 8 |nat=GER |pos=MF |name=[[Denijs Laca]]|other=[[kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no= 9 |nat=GER |pos=FW |name=[[Simons Terode]]}}
+{{Fs player|no=10 |nat=URU |pos=MF |name=[[Rodrigo Salasars]]}}
+{{Fs player|no=11 |nat=GER |pos=FW |name=[[Mariuss Bilters]]}}
+{{Fs player|no=13 |nat=GER |pos=GK |name=[[Aleksandrs Švolovs]]|other=īrē no [[Hertha BSC]]}}
+{{Fs player|no=17 |nat=GER |pos=MF |name=[[Florians Fliks]]}}
+{{Fs player|no=19 |nat=TUR |pos=FW |name=[[Kenans Karamans]]}}
+{{Fs mid}}
+{{Fs player|no=20 |nat=FRA |pos=MF |name=[[Florēns Molē]]}}
+{{Fs player|no=22 |nat=MLI |pos=DF |name=[[Ibrahima Sisē]]}}
+{{Fs player|no=23 |nat=GER |pos=MF |name=[[Mehmets Džans Ajdins]]}} 
+{{Fs player|no=24 |nat=GER |pos=MF |name=[[Dominiks Drekslers]]}}
+{{Fs player|no=27 |nat=SUI |pos=DF |name=[[Sedriks Brunners]]}}
+{{Fs player|no=28 |nat=GER |pos=GK |name=[[Džastins Hēkerens]]}}
+{{Fs player|no=29 |nat=GER |pos=MF |name=[[Tobiass Mors]]}}
+{{Fs player|no=30 |nat=CZE |pos=MF |name=[[Alekss Krāls]]|other=īrē no [[FC Spartak Moscow|Spartak Moscow]]}}
+{{Fs player|no=34 |nat=AUT |pos=GK |name=[[Mihaels Langers]]}}
+{{Fs player|no=35 |nat=POL |pos=DF |name=[[Marcins Kaminskis]]}}
+{{Fs player|no=40 |nat=GER |pos=FW |name=[[Sebastiāns Polters]]}}
+{{Fs player|no=41 |nat=GER |pos=DF |name=[[Hennings Matrinciani]]}}
+{{Fs player|no=42 |nat=GER |pos=MF |name=[[Kerims Čalhanoglu]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Vācijas futbola Bundeslīga|Vācijas čempionāts / Bundeslīga]]'''
+** Čempioni (7): 1934, 1935, 1937, 1939, 1940, 1942, 1958
+** Vicečempioni (10): 1933, 1938, 1941, 1971–72, 1976–77, 2000–01, 2004–05, 2006–07, 2009–10, [[2017.—2018. gada Vācijas futbola Bundeslīgas sezona|2017–18]]
+* '''[[Vācijas kauss futbolā|Vācijas kauss]]'''
+** Kausa ieguvēji (5): 1937, 1971–72, 2000–01, 2001–02, 2010–11
+** Finālisti (7): 1935, 1936, 1941, 1942, 1954–55, 1968–69, 2004–05
+* '''DFB Līgas kauss'''
+** Kausa ieguvēji (1): 2005
+** Finālisti (3): 2001, 2002, 2007
+* '''Vācijas Superkauss'''
+** Kausa ieguvēji (1): 2011
+** Finālisti (1): 2010
+* '''[[Vācijas futbola 2. Bundeslīga|2. Bundeslīga]]'''
+** Čempioni (3): 1981–82, 1990–91, 2021–22
+** Vicečempioni (1): 1983–84
+* '''[[UEFA Čempionu līga]]'''
+** Pusfinālisti (1): 2010–11
+* '''[[UEFA Kausu ieguvēju kauss]]'''
+** Semi-Finals (1): 1969–70
+* '''[[UEFA kauss]]'''
+** Kausa ieguvēji (1): 1996–97
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (2): 2003, 2004
+* '''Alpu kauss'''
+** Uzvarētāji (1): 1968
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+{{Sporta ārējās saites}}
+* [http://www.schalke04.de/ Oficiālā kluba vietne] {{de ikona}} {{en ikona}} {{ru ikona}} {{jp ikona}} {{zh ikona}}
+
+{{futbols-aizmetnis}}
+{{Bundeslīga}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Schalke 04}}
+[[Kategorija:Vācijas futbola klubi]]
+[[Kategorija:Gelzenkirhenes "Schalke 04"]]

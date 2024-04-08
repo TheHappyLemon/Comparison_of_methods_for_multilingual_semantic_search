@@ -1,0 +1,37 @@
+{{BioTakso infokaste
+| attēls =Illustration_Ceratophyllum_demersum0.jpg
+| att_nosaukums={{TaksoSaite|Ceratophyllum demersum|Iegrimusī raglape}}
+| valsts =Plantae
+| valsts_lv =Augi
+| nodalījums =Magnoliophyta
+| nodalījums_lv =Segsēkļi
+| klase =Magnoliopsida
+| klase_lv =Divdīgļlapji
+| rinda =Nymphaeales
+| rinda_lv =Ūdensrožu rinda
+| dzimta =Ceratophyllaceae
+| dzimta_lv =Raglapju dzimta
+| ģints =Ceratophyllum
+| ģints_lv =Raglapes
+| iedalījums=
+| kategorijas =nē
+}}
+'''Raglapes''' (''Ceratophyllum'') — [[raglapju dzimta]]s [[Viengadīgi augi|viengadīga]] ģints, kas izplatīta visā pasaulē. Tie ir ūdenī iegrimuši peldoši [[augi]] bez saknēm. Stublājs ir tievs, zarots, 50 — 150 cm garš, bet var sasniegt arī līdz 2-3 metru garumu. [[Lapas]] sakārtotas mieturos, vienkārt līdz četrkārt dakšveidīgas, dalītas lineārās daļās. Visas augu daļas ir pārklātas ar [[kutikula]]s kārtu. Viendzimuma, vienmājas [[zieds|ziedi]] ir neuzkrītoši un izvietojas lapu žāklēs. [[Kauslapas]] sievišķajiem ziediem ap 12, bet vīrišķajiem - 9 līdz 10, apakšējā daļā saaugušas caurulītē. [[Putekšņlapas]] 10 līdz 20, [[augļlapa]] viena. [[Apputeksnēšana]] notiek zem ūdens. Putekšņlapas nogatavojoties atraujas un paceļas ūdens virspusē. Tad [[putekšnīcas]] atveras un [[putekšņi]], būdami nedaudz smagāki par ūdeni, nolaižas uz ziediem, tos apputeksnējot. [[Augļi|Auglis]] — riekstiņš. Raglapes aug dažādos dziļumos, sasniedzot līdz pat 9 metru dziļumu. Tās ir ļoti jutīgas uz [[gaisma|gaismu]], un spilgtā apgaismojumā tās iet bojā. Optimālajā dziļumā tās labi vairojas, izspiežot visus citus augus, un izveido lielas audzes, apgrūtinot laivu kustību. Augi ir diezgan pieticīgi, un tos bieži vien lieto, kā [[akvārijs|akvāriju]] augus.
+[[Latvija|Latvijā]] sastopamas 2 sugas: {{TaksoSaite|Ceratophyllum demersum|Iegrimusī raglape}} bieži aug stāvošos un lēni tekošos ūdeņos visā Latvijas teritorijā. {{TaksoSaite|Ceratophyllum submersum|Pusgrimusī raglape}} ir sastopama reti, [[Rīgas līcis|Rīgas līča]] piekrastē un tā tuvumā. Tās dabiskais [[areāls]] atrodas vairāk uz dienvidiem. Šī suga ir iekļauta [[Latvijas Sarkanā grāmata|Latvijas Sarkanajā grāmatā]] 2.kategorijā.
+Ģints sugu sastāvs pasaulē dažādiem autoriem ir atšķirīgs — no 3 līdz 30. Daudzas sugas tiek uzskatītas par pasugām, jo savā starpā tās maz atšķiras.
+
+== Klasifikācija ==
+'''Ģints''' {{TaksoSaite|Ceratophyllum|Raglapes}}
+* {{TaksoSaite|Ceratophyllum chilense}}
+* {{TaksoSaite|Ceratophyllum demersum|Iegrimusī raglape}}
+** {{TaksoSaite|Ceratophyllum demersum demersum}}
+** {{TaksoSaite|Ceratophyllum demersum platyacanthum}}
+* {{TaksoSaite|Ceratophyllum echinatum}}
+* {{TaksoSaite|Ceratophyllum muricatum}}
+** {{TaksoSaite|Ceratophyllum muricatum muricatum}}
+** {{TaksoSaite|Ceratophyllum muricatum australe}}
+** {{TaksoSaite|Ceratophyllum muricatum kossinskyi}}
+* {{TaksoSaite|Ceratophyllum submersum|Pusgrimusī raglape}}
+* {{TaksoSaite|Ceratophyllum tanaiticum}}
+
+[[Kategorija:Raglapju dzimta]]

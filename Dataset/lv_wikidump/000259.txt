@@ -1,0 +1,108 @@
+{{Valsts infokaste
+|        vietējais_nosaukums = {{lang|rw|''Repubulika y'u Rwanda''}}<br />{{lang|fr|''République du Rwanda''}}<br />{{lang|en|''Republic of Rwanda''}}
+|   pilnais_valsts_nosaukums = Ruandas Republika
+|           valsts_nosaukums = Rwanda
+|           karoga_nosaukums = Ruandas karogs
+|              karoga_attēls = Flag_of_Rwanda.svg
+|          ģerboņa_nosaukums = Ruandas ģerbonis
+|            ģerboņa_platums = 85px
+|             ģerboņa_attēls = Coat of arms of Rwanda.svg
+|                valsts_moto = ''Ubumwe, Umurimo, Gukunda Igihugu''<br />"Vienotība, darbs, patriotisms"
+|              kartes_attēls = Location_Rwanda_AU_Africa.svg
+|               valsts_himna = "{{lang|rw|''[[Rwanda nziza]]''}}"
+|             valsts_valodas = [[kiņaruanda]]<br />[[franču valoda]]<br />[[angļu valoda]]<!--http://www.gov.rw/government/tourismp.html-->
+|              galvaspilsēta = [[Kigali]]
+|latd=1 |latm=57 |latNS=S |longd=30 |longm=4 |longEW=E
+|             valsts_iekārta =  [[Unitāra valsts|Unitāra]] [[pusprezidentālisms|pusprezidentāla]] [[republika]]
+|       valsts_galvas_tituls = [[Ruandas prezidentu uzskaitījums|Prezidents]]
+|      valsts_galvas_tituls2 = [[Ruandas premjerministrs|Premjerministrs]]
+|               valsts_galva = [[Pols Kagame]]
+|              valsts_galva2 = [[Édouard Ngirente]]
+|            lielākā_pilsēta = Kigali
+|                platība_km2 = 26,338
+|              platība_rangs = 149.
+|             procenti_ūdens = 5,3
+|         iedzīvotāju_skaits = 12 352 232<ref name="worldofmeters">{{tīmekļa atsauce|url=http://www.worldometers.info/world-population/rwanda-population/|title=Rwanda Population|publisher=worldofmeters |accessdate={{dat|2017|12|28||bez}}}}</ref>
+|    iedzīvotāju_skaita_gads = 2017
+|   iedzīvotāju_skaits_rangs = 77.
+|   apdzīvotības_blīvums_km2 = 495
+| apdzīvotības_blīvums_rangs = 
+|               IKP_PPP_gads = 2017
+|                    IKP_PPP = $24 612 miljardi<ref name="imf2">{{tīmekļa atsauce|url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=37&pr.y=9&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=714&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Rwanda Overview|publisher=IMF |accessdate= {{dat|2017|12|28||bez}}}}</ref>
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $2 081<ref name=imf2/>
+|   IKP_PPP_per_capita_rangs = 
+|                   HDI_gads = 2015
+|                        HDI = {{palielinājās}} 0,498
+|                  HDI_rangs = 159.
+|             HDI_kategorija = <font color="#e0584e">zems</font>
+|                       Gini = 45,1
+|                  Gini_gads = 2003
+|            Gini_kategorija = <font color="#ffcc00">vidējs</font>
+|       neatkarības_iegūšana = [[Neatkarība]]
+|        neatkarības_piezīme = no [[Beļģija]]s
+|       neatkarības_notikums = Datums
+|         neatkarības_datums = {{Dat|1962|7|1}}
+|                     valūta = [[Ruandas franks]]
+|               valūtas_kods = RWF
+|                 laika_zona = [[Centrālāfrikas laiks|CAT]]
+|                 utc_offset = +2
+|             laika_zona_DST = ''neievēro''
+|             utc_offset_DST = +2
+|                     domēns = [[.rw]]
+|               iso_kods_num = 646
+|             iso_kods_alfa2 = RW
+|             iso_kods_alfa3 = RWA
+|             tālsarunu_kods = 250
+|                   piezīmes = <sup>1</sup> Novērtējums ņem vērā [[AIDS]] izraisīto mirstību; tas var uzrādīt mazāku iedzīvotāju skaitu kā gaidīts.
+}}
+
+'''Ruanda''' ({{val|rw|Rwanda}}, {{val|fr|Rwanda}}, {{val|en|Rwanda}}), oficiāli '''Ruandas Republika''' (''Repubulika y'u Rwanda'', ''République du Rwanda'', ''Republic of Rwanda''), ir valsts [[Austrumāfrika|Austrumāfrikā]]. Ruanda robežojas ar [[Uganda|Ugandu]], [[Burundi]], [[Kongo Demokrātiskā Republika|Kongo Demokrātisko Republiku]] un [[Tanzānija|Tanzāniju]]. Lielākā daļa no Ruandas iedzīvotājiem ir [[hutu]] cilts pārstāvji. Lielākā mazākumtautība ir [[tutsi]], bet nākamā ir [[tva]] (''Twa'') cilts pārstāvji. Ruandā ir trīs [[oficiālā valoda|oficiālās valodas]]: [[kiņaruanda]], [[franču valoda|franču]] un [[angļu valoda]]. Dominējošā reliģija ir [[kristietība]], galvenokārt [[Romas katoļu baznīca]]. Valstī dzīvo arī liels skaits [[islāms|musulmaņu]].
+
+1994. gadā valstī notika pret tutsi mazākumtautību vērsts [[Ruandas genocīds|genocīds]], kurā gāja bojā no 500 000 līdz miljonam cilvēku.
+
+== Vēsture ==
+[[Vācijas Impērija]] kolonizēja Ruandu 1884. gadā. Tās teritoriju padarīja par daļu no [[Vācu Austrumāfrika]]s. Kad Vācija zaudēja [[Pirmais pasaules karš|Pirmajā pasaules karā]], Ruandas teritorija nonāca [[Beļģija]]s pārvaldījumā un tā tas saglabājās arī pēc Otrā pasaules kara. Beļģi piešķīra dažādas privilēģijas tutsi tautai, kaut arī tā bija skaita ziņā mazāka nekā huti tauta.
+
+1959. gadā huti gāza tutsu monarhiju, vairāki desmiti tūkstošu tutsu aizbēga uz kaimiņvalstīm, tai skaitā Ugandu. Trimdā bijušie tutsi izveidoja nemiernieku grupu [[Ruandas Patriotiskā fronte|Ruandas Patriotisko fronti]] (RPF), kas velāk iebruka Ruandā. Ruanda ieguva savu neatkarību no Belģijas 1962. gada 1. jūlijā. Par pirmo prezidentu kļuva [[Greguārs Kajibanda]] no hutu cilts. Kad Ruanda ieguva neatkarību, hutu vairākums pārņēma varu un sistemātiski apspieda tutsi cilti – gan ar diskrimināciju, gan vardarbīgiem paņēmieniem. Kajibanda tika gāzts apvērsumā 1973. gadā, kuru veica [[Žuvenāls Habjarimana]]. 55 cilvēki, kuri bija saistīti ar iepriekšējo režīmu tika nogalināti. Habjarimana tika atkārtoti ievēlēts 1978.,1983. un 1988. gadā ar vairāk nekā 98% balsu.
+
+1990. gada 1. oktobrī Ruandas Patriotiskā fronte iebruka Ruandā uzsākot [[Ruandas pilsoņu karš|pilsoņu karu]]. RPF iebrukums sākumā bija veiksmīgs. Taču Ruandas bruņotie spēki saņēma palīdzību no Belģijas, [[Francija]]s un Zairas (Kongo Demokrātiskās Republikas) un mēneša laikā tos piespieda atkāpties atpakaļ uz Ugandu. [[Pols Kagame|Polam Kagamem]] tika lūgts atgriezties no miltārajām apmācībām Amerikas Savienotajās Valstīs, lai pārņemtu RPF vadību. Pēc tam RPF izmantoja partizānu uzbrukumus, iegūstot kontroli pār lielāko daļu no valsts ziemeļu daļas 1992. gadā. Galu galā sarunas starp RPF un Ruandas valdību noveda pie miera līguma parakstīšanas [[Aruša|Arušā]] 1993. gadā, kas ļāva RPF dalībniekiem un citiem bēgļiem atgriezties valstī.
+
+1994. gada 6. aprīlī tika notriekta lidmašīna, kurā bija Habjarimana un toreizējais Burundi prezidents. Abi bija no hutu cilts. Gajā bojā visi, kas tobrīd bija lidmašīnā. Hutu ekstrēmisti vainoja tutsu nemiernieku grupu un nekavējoties sāka iznīcināšanas kampaņu. Sākās [[Ruandas genocīds]]. Genocīda laikā hutu cilts pārstāvji nogalināja 500 tūkstošus līdz 1 miljonu tutsu [[mazākumtautība]]s iedzīvotājus. Genocīdu pārtrauca RPF, kas ar Ugandas armijas palīdzību sagrāba arvien lielāku teritoriju, līdz 4. jūlijā tika sasniegta galvaspilsēta Kigali. Pēc tam valsti pameta ap 2 miljoniem hutu, gan civiliedzīvotāju, gan to, kas piedalījās genocīdā. Viņi pārbēga uz Kongo Demokrātisko Republiku (tobrīd — Zaira), baidoties no atriebības.<ref name="bbc">{{Tīmekļa atsauce|url=http://www.bbc.com/news/world-africa-26875506|title=Rwanda genocide: 100 days of slaughter|date={{dat|2014|4|7||bez}}|publisher=[[BBC]]|accessdate={{dat|2017|12|28||bez}}}}</ref> [[ANO]] reakcija uz genocīdu bija ierobežota.
+
+RPF izveidoja nacionālās vienotības valdību. Par prezidentu kļuva [[Pastērs Bizimungu]], bet par premjerministru kļuva RPF līderis Pols Kagame. Bizimungu 2000. gada martā atkāpās no amata pēc strīda par jaunā kabineta sastāvu, un Kagame kļuva par prezidentu. Kopš 2000. gada Ruandas ekonomika,<ref>{{Tīmekļa atsauce|url=https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RW|title=GDP (current US$)|publisher=World Bank|accessdate={{dat|2017|12|28||bez}}}}</ref> [[tūrisms|tūristu skaits]]<ref>{{Tīmekļa atsauce|url=https://data.worldbank.org/indicator/ST.INT.ARVL?locations=RW|title=International tourism, number of arrivals|publisher=World Bank|accessdate={{dat|2017|12|28||bez}}}}</ref> un [[tautas attīstības indekss]]<ref>{{Tīmekļa atsauce|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table2.pdf|title=Human Development Index trends, 1980–2010|publisher=hdr|accessdate={{dat|2017|12|28||bez}}|archive-date={{dat|2012|04|01||bez}}|archive-url=https://web.archive.org/web/20120401190207/http://hdr.undp.org/en/media/HDR_2010_EN_Table2.pdf}}</ref> ir strauji palielinājušies. Starp 2006. un 2011. gadu nabadzīgo iedzīvotāju skaits samazinājās no 57% uz 45% un dzīves ilgums pieauga no 46,6 gadiem 2000. gadā līdz 59,7 gadiem 2015. gadā.
+
+== Ģeogrāfija==
+Ruanda ir [[iekšzemes valsts]] Austrumāfrikā. Tā ir 149. vietā pasaulē pēc platības un 4. mazākā valsts uz Āfrikas kontinenta pēc [[Džibutija]]s, [[Svatini]] un [[Gambija]]s. Valsts platība ir 26 338 [[km²]]. To robežo Kongo Demokrātiskā Republika rietumos, Uganda ziemeļos, Burundi dienvidos un Tanzānija austrumos. Ruandas galvaspilsēta ir [[Kigali]], kura atrodas gandrīz valsts centrā. Tā ir arī valsts lielākā pilsēta ar aptuveni 1 miljonu iedzīvotāju.
+
+Zemākais punks valstī ir [[Ruzizi upe]]s ieleja (950 m virs jūras līmeņa). Ruandas augstākais punkts ir [[Karisimbi vulkāns]] (4507 m), kurš atrodas pie robežas ar Kongo Demokrātiskā Republiku.
+
+Ruandā ir daudz [[ezers|ezeru]]. [[Kivu ezers]], viens no [[Āfrikas Lielie ezeri|Āfrikas Lielajiem ezeriem]], atrodas uz Kongo Demokrātiskās Republikas un Ruandas robežas Austrumāfrikas Lielās Lūzuma zonas atzarā, tektoniskajā lūzumā. Ezera apkaimē bieži notiek vulkānu izvirdumi, jo tektoniskais lūzums turpina paplašināties. Tas ir lielākais ezers valstī. Kivu ezers ir viens no 20 dziļākajeim ezeriem pasaulē.
+
+=== Klimats ===
+Valstij ir divas mitrās un sausās sezonas gadā. Garākā mitrā sezona ir no marta līdz maijam, kura ir raksturīga ar smagu lietu. Pēc tam no jūnija līdz septembra vidum ir sausā sezona. No oktobra līdz novembrim ilgst īsāka mitrā sezona un tai seko sausā sezona no decembra līdz februārim.<ref>{{tīmekļa atsauce|url=https://www.expertafrica.com/rwanda/weather-and-climate|title=RWANDA INFORMATION|publisher=expertafrica|accessdate=28 December 2017|archiveurl=https://web.archive.org/web/20171124122145/https://www.expertafrica.com/rwanda/weather-and-climate|archivedate={{dat|2017|11|24||bez}}}}</ref>
+
+== Demogrāfija ==
+2017. gadā valstī dzīvo aptuveni 12 352 232 iedzīvotāji.<ref name=worldofmeters/> Ruanda ierindojas 77. vietā pasaulē pēc iedzīvotāju skaita.<ref name=worldofmeters/> 33% iedzīvotāju dzīvo pilsētās.<ref name=worldofmeters/> Iedzīvotāju vidējais vecums ir 19,6 gadi.<ref name=worldofmeters/> Iedzīvotāju blīvums ir 495/km2, kas ir augstākais rādītājs starp visām Āfrikas valstīm.<ref name=worldofmeters/>
+
+Ruandu apdzīvo 3 etniskās grupas. Divas galvenās etniskās grupas veido [[tutsi]] un [[huti|hutu]] ciltis. Trešā etniskā grupa ir [[tva]]. Huti veido 84% no populācijas, tutsi 15%, bet tva 1%. Tva tiek uzskatīti par Ruandas pirmiedzīvotājiem.<ref>{{tīmekļa atsauce|url=http://minorityrights.org/minorities/twa-2/|title=Rwanda - Twa|publisher=http://minorityrights.org|accessdate={{dat|2017|12|28||bez}}|archiveurl=https://web.archive.org/web/20180113023250/http://minorityrights.org/minorities/twa-2/|archivedate={{dat|2018|01|13||bez}}}}</ref> 1994. gadā pret tutsi mazākumtautību tika vērsts [[Ruandas genocīds|genocīds]], kurā hutu cilts pārstāvji nogalināja 500 tūkstošus līdz 1 miljonu tutsu mazākumtautības iedzīvotājus.
+
+=== Reliģija ===
+Ap 55 % iedzīvotāju ir [[Romas katoļi]], 38 % [[protestanti]], vairāk nekā 5 % [[sunnīti]], līdztekus daudzi iedzīvotāji piekopj [[āfrikāņu reliģijas]].
+
+== Skatīt arī ==
+* [[Ruandas prezidenti]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika}}
+{{Nāciju Sadraudzība}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ruanda| ]]
+[[Kategorija:Āfrikas valstis]]

@@ -1,0 +1,52 @@
+{{ezera infokaste
+|ezers=Balhašs
+|attēls=Lake Balkhash.jpg
+|paraksts=Balhaša ainava
+|karte=LakeBalkhash-EO.jpg
+|kartes_paraksts=Balhaša satelītaina
+|map = Kazahstāna
+| plat_d=46 | plat_m=10 | plat_s= | plat_NS=N
+| gar_d=74 | gar_m=20 | gar_s= | gar_EW=E
+|vieta={{KAZ}}
+|platība=18 200
+|garums=605
+|Vid_dziļums=5,8
+|Max_dziļums=25,6
+|tilpums=106
+|augstums_vjl=341,4
+|izteka=beznoteces
+|baseins=413 000
+|valstis=[[Kazahstāna]] - 85%<br />[[Ķīna]] - 15%
+|salas=
+|pilsētas=[[Balkaša]]
+}}
+'''Balhašs''' ({{val-kk|Балқаш}}, ''Balqaş'') ir liels [[ezers]] [[Kazahstāna]]s dienvidaustrumu daļā, otrs lielākais neizžūstošais [[sālsezers]] aiz [[Kaspijas jūra]]s. Daļa no liela beznoteces baseina [[Āzija]]s centrālajā daļā, kas ietver arī Kaspijas jūru un [[Arāla jūra|Arāla jūru]].
+
+== Ģeogrāfija ==
+Seno ķīniešu rakstītajos avotos Balhašs minēts jau 103. gadā p.m.ē., ķīnieši ezeru dēvēja Pu-Ku jeb Bu-Ku. Ezers bija [[Ķīna]]s teritorija, tās ziemeļrietumu robeža līdz [[1864]]. gadam, kad ezers tika pievienots [[Krievijas impērija]]i. Ķīna uzskata šo darījumu par netaisnīgu. Pēc [[Padomju Savienība|PSRS]] sabrukuma kopš [[1991]]. gada ezers atrodas [[Kazahstāna]]s teritorijā.
+
+Mūsdienās, līdzīgi Arāla jūrai, Balhašs izžūst, jo ūdens no tajā ietekošajām upēm tiek novirzīts sauso Centrālāzijas augšņu apūdeņošanai. Ezera rietumu daļā ir [[saldūdens]] (nedaudz iesāļš), duļķaināks, savukārt austrumu daļā — [[sālsūdens]], šī daļa ir ievērojami dzidrāka, skaistā zilā krāsā. Abas daļas gandrīz pārdala Sariesikas [[pussala]]. Šaurums starp abām ezera daļām saucas [[Uzinarals]]. Galvenā ieteka ir [[Ili]] upe.<ref>{{Tīmekļa atsauce |url=http://www.ilec.or.jp/database/asi/asi-54.html |title=World Lakes Database - Lake Balkhash. International Lake Environment Committee Foundation. |access-date={{dat|2011|07|16||bez}} |archiveurl=https://web.archive.org/web/20110716085418/http://www.ilec.or.jp/database/asi/asi-54.html |archivedate={{dat|2011|07|16||bez}} }} {{Webarchive|url=https://web.archive.org/web/20110716085418/http://www.ilec.or.jp/database/asi/asi-54.html |date={{dat|2011|07|16||bez}} }}</ref>
+
+Ezera ziemeļu piekraste ir stāva, kalnaina, savukārt dienvidu krasts — zems, smilšains, ar blīvām niedru audzēm. Ezerā maz [[sala|salu]], no kurām lielākās ir Basarala un Tasarala. Klimats bieži vējains, ezerā lieli viļņi. Balhašs parasti aizsalst novembra beigās un ledus iet aprīļa vidū.
+
+Ezera [[fauna]] ir samērā bagāta. Ezerā dzīvo 36 sugu zivis, no kurām 5 sugas ir [[endēmisms|endēmas]] — dzīvo tikai Balhašā.<ref>{{Tīmekļa atsauce |url=http://www.iucn.org/themes/wani/eatlas/html/as4.html |title=Water Resources eAtlas - Watersheds of the World. AS03 Lake Balkhash |access-date={{dat|2006|12|04||bez}} |archive-date={{dat|2007|04|23||bez}} |archive-url=https://archive.today/20070423153027/http://www.iucn.org/themes/wani/eatlas/html/as4.html }} {{Webarchive|url=https://archive.today/20070423153027/http://www.iucn.org/themes/wani/eatlas/html/as4.html |date={{dat|2007|04|23||bez}} }}</ref>
+
+Gan paša Balhaša ūdens, gan arī Ili upes ūdens ir ļoti nozīmīgi Kazahstānas ekonomikā. Uz [[Ili]] uzcelta [[hidroelektrostacija]], tās ūdens tiek izmantots [[irigācija]]i un rūpniecībai. Savukārt Balhašā notiek zveja. Pieaugot iedzīvotāju skaitam Balhaša baseina Ķīnas daļā, paredzams, ka pieaugs nesaskaņas starp abām valstīm par ezerā ietekošo upju ūdens izmantošanu. Ezerā notiek kuģu satiksme.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20061018023138/http://www.grid.unep.ch/activities/sustainable/balkhash/index.php Apvienoto Nāciju Vides programma, aktivitātes saistībā ar Balhašu]
+
+== Skatīt arī ==
+* [[Pasaules lielāko ezeru saraksts]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Izzūdošie ezeri]]
+[[Kategorija:Kazahstānas ezeri]]
+[[Kategorija:Sālsezeri]]
+[[Kategorija:Beznoteces ezeri]]

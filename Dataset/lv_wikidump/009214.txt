@@ -1,0 +1,76 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Sīstānas un Beludžistānas ostāns
+| official_name = {{ara|استان سیستان و بلوچستان}}
+| image_skyline = Sab fort.jpg
+| imagesize = 
+| image_caption = 
+| settlement_type = ostāns
+| total_type = Kopā
+| image_flag = 
+| image_shield = 
+| image_map = IranSistanBaluchistan-SVG.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{IRN}}
+| area_total_km2 = 180726
+| population_total = 2775014
+| population_as_of = 2016
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = 28| latm = | lats =| latNS = N
+| longd = 61| longm = | longs =| longEW = E
+| seat_type = Centrs
+| seat = [[Zāhedāna]]
+| parts_type = Administratīvais iedalījums
+| parts = 26
+| p1 = Bampūra
+| p2 = Čāhbahāra
+| p3 = Dalgāna
+| p4 = Daštiārī
+| p5 = Fanūdža
+| p6 = Golšana
+| p7 = Hāmūna
+| p8 = Hīrmanda
+| p9 = Īrānšahra
+| p10 = Hāša
+| p11 = Konāraka
+| p12 = Lāšāra
+| p13 = Mehrestāna
+| p14 = Mīrdžāve
+| p15 = Nīkšahra
+| p16 = Nīmrūza
+| p17 = Kasrekanda
+| p18 = Rāska
+| p19 = Sarāvāna
+| p20 = Sarbāza
+| p21 = Sība un Sūrāna
+| p22 = Taftāna
+| p23 = Zābola
+| p24 = Zāhedāna
+| p25 = Zarābāda
+| p26 = Zehaka
+| official_language       = [[farsi]]
+| spoken_language         = 
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[beludži]]<br/>[[persieši]]
+| website = 
+}}
+
+'''Sīstānas un Beludžistānas ostāns''' ({{val|fa|استان سیستان و بلوچستان}}, ''Ostân-e Sistân o Balučestân''; {{val|bal|سیستان و بلۏچستان}}, ''Sistân o Balučestân'') ir [[Irānas ostāni|Irānas ostāns]], [[Irāna]]s pirmās pakāpes administratīvā iedalījuma vienība. Atrodas valsts dienvidaustrumos, [[Afganistāna]]s un [[Pakistāna]]s pierobežā. Lielākā daļa iedzīvotāju ir [[beludži]]. Pēc [[Horasāna]]s sadalīšanas ir lielākais Irānas ostāns. Galvaspilsēta — [[Zāhedāna]]. Lielākās pilsētas ir Zāhedāna (587 730), [[Zābola]] (134 950), [[Īrānšahra]] (113 750) un [[Čāhbahāra]] (106 739)
+
+== Dzīves līmenis ==
+Pašreiz Sīstāna un Beludžistāna ir vismazāk attīstītais [[Irāna]]s ostāns. Tādēļ valsts vadība adaptē vairākas reģiona attīstības programmas, tajā skaitā [[infrastruktūra]]s modernizāciju un vairāku ražošanas uzņēmumu celtniecību.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Irāna-aizmetnis}}
+
+{{Irānas ostāni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Irānas ostāni]]

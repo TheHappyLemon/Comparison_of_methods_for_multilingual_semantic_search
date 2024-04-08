@@ -1,0 +1,96 @@
+{{Administratīvā iedalījuma vienības infokaste
+|name = Kurgānas apgabals
+|official_name=''Курганская область''
+|settlement_type=[[Krievijas administratīvais iedalījums|apgabals]]
+|image_skyline = Туман после грозы в Щигровской Согре.JPG
+|image_caption = 
+|image_flag = Flag of Kurgan Oblast.svg
+|image_shield = Coat of arms of Kurgan Oblast.svg
+|shield_size = 70px
+|image_map = Kurgan in Russia.svg
+|map_caption = Novietojums Krievijā
+|image_map1 = 
+|map_caption1 = 
+|subdivision_type=Valsts
+|subdivision_name={{RUS}}
+|subdivision_type1=Federālais apgabals
+|subdivision_name1=[[Urālu federālais apgabals|Urāli]]
+|seat_type=Centrs
+|seat = [[Kurgāna]]
+| established_title        = Dibināts
+| established_date         = 1943
+|official_language = [[krievu valoda]]
+|parts_type = Administratīvais iedalījums
+|parts=32
+|p1 = '''2 apgabala pilsētas'''
+|p2 = [[Kurgāna]]
+|p3 = [[Šadrinska]]
+|p4 = '''10 rajoni'''
+|p5 = [[Aļmeņevas rajons]]
+|p6 = [[Belozerskas rajons]]
+|p7 = [[Vargašu rajons]]
+|p8 = [[Dalmatovas rajons]]
+|p9 = [[Zverinogolovskas rajons]]
+|p10 = [[Kargapoļjes rajons]]
+|p11 = [[Kataiskas rajons]]
+|p12 = [[Ketovas rajons]]
+|p13 = [[Kurtamišas rajons]]
+|p14 = [[Ļebjažjes rajons]]
+|p15 = [[Makušinas rajons]]
+|p16 = [[Miškinas rajons]]
+|p17 = [[Mokrousovas rajons]]
+|p18 = [[Petuhovas rajons]]
+|p19 = [[Polovinnojes rajons]]
+|p20 = [[Gļadjanskojes rajons]]
+|p21 = [[Safakuļevas rajons]]
+|p22 = [[Ceļinnojes rajons]]
+|p23 = [[Častoozerjes rajons]]
+|p24 = [[Šadrinskas rajons]]
+|p25 = [[Šatrovas rajons]]
+|p26 = [[Šumihas rajons]]
+|p27 = [[Ščučjes rajons]]
+|p28 = [[Jurgamišas rajons]]
+|area_total_km2 = 71488
+|total_type=Kopā
+|population_total = 761586
+|population_as_of = 2023
+|population_blank02_title = Etniskais sastāvs
+|population_blank02 = [[krievi]] (92,5 %)<br/>[[tatāri]] (1,9 %)
+| population_density_km2   = auto
+|website={{url|http://kurganobl.ru/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = RU-KGN
+|footnotes = 
+}}
+
+
+'''Kurgānas apgabals''' ir viens no [[Krievijas Federācija]]s apgabaliem vēsturiskās [[Sibīrija]]s teritorijā. Tas robežojas ar [[Čeļabinskas apgabals|Čeļabinskas apgabalu]] rietumos, [[Sverdlovskas apgabals|Sverdlovskas apgabalu]] ziemeļos, [[Tjumeņas apgabals|Tjumeņas apgabalu]] ziemeļaustrumos, kā arī ar [[Kazahstāna|Kazahstānu]] dienvidos.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Kurgānas apgabals|width=400 |float= center|caption = [[Kurgānas apgabals|Kurgānas apgabala]] pilsētu izvietojums ('''treknrakstā''' — apgabala pilsētas)
+|places =
+{{VietasKarte~|Kurgānas apgabals|lat=55.440833|long=65.34111|position = top |label='''[[Kurgāna]]'''}}
+{{VietasKarte~|Kurgānas apgabals|lat=56.266667|long=62.916667|position = right |label=[[Dalmatova]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=56.3|long=62.566667|position = top |label=[[Kataiska]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=54.9|long=64.433333|position = top |label=[[Kurtamiša]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=55.2|long=67.25|position = top |label=[[Makušina]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=55.066667|long=67.883333|position = top |label=[[Petuhova]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=56.083333|long=63.633333|position = right |label=[[Šadrinska]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=55.233333|long=63.283333|position = top |label=[[Šumiha]]}}
+{{VietasKarte~|Kurgānas apgabals|lat=55.216667|long=62.766667|position = top |label=[[Ščučje]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Urālu federālais apgabals}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Sibīrija]]
+[[Kategorija:Kurgānas apgabals| ]]

@@ -1,0 +1,11 @@
+'''Ekspertsistēma''' ir [[datorprogramma]], kas spēj aizstāt cilvēku-[[eksperts|ekspertu]] noteiktu problēmsituāciju risināšanā. Piemēram, ir tādas ekspertsistēmas, kuras spēj noteikt diagnozi [[cilvēks|cilvēku]] [[slimība|slimībām]], citas veic [[finanses|finansu]] prognozes vai arī izstrādā maršrutus piegādes [[transports|transportam]]. Ekspertsistēmas ne tikai ir paredzētas cilvēku—ekspertu aizstāšanai, ir arī tādas sistēmas, kuras ir paredzētas kā palīgs tiem. Pirmās ekspertsistēmas tika izstrādātas [[mākslīgais saprāts|mākslīgā saprāta]] [[pētījums|pētījumu]] rezultātā 1960. gados. 1980. gados tās rada komerciālu pielietojumu.
+
+Ekspertsistēmām ir unikāla struktūra, kura atšķiras no tradicionālām [[datorprogramma|datorprogrammām]]. [[Sistēma]] ir sadalīta divās daļās, viena ir [[zināšanu bāze]], otra — spriedumu [[mehānisms]]. Ekspertsistēma izmanto iepriekšējās pieredzes rezultātā uzkrāto zināšanu bāzi un spriedumu mehānismu, kurā ir aprakstīts, kā pielietot uzkrāto zināšanu bāzi katrai konkrētai situācijai. Espertsistēmās gan zināšanu bāzi, gan spriedumu mehānismu ir iespējams papildināt. Šīs sistēmas ir unikālas arī ar to, ka to likumu bāze ir rakstīta ikdienas [[valoda|valodā]]. Līdz ar to ekspertsistēmās var daudz vieglāk un ātrāk veikt izmaiņas pats eksperts, jo nav nepieciešamības pēc [[programmētājs|programmētājiem]]. Izmainot likumus, netiek veiktas izmaiņas programmatūras kodolā.
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mākslīgais intelekts]]
+[[Kategorija:Informācijas sistēmas]]
+[[Kategorija:Datorzinātne]]

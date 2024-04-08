@@ -1,0 +1,60 @@
+[[Attēls:Avia BH-21 3 vues.jpg|thumb|220px|Avia BH-21]]
+'''Avia BH-21''' ir [[Čehoslovākija|čehoslovāku]] vienvietīgais [[iznīcinātājs]].
+
+== Vēsture ==
+1919. gadā, jaunajā [[Čehoslovākija]]s republikā tika dibināts uzņēmums [[Avia]], kas tolaik bija tikai neliela aviobūves rūpnīca [[Čakovica|Čakovicē]]. Galvenajiem inženieri 1927. gadā, kad Avia pārcēlās uz [[Prāga|Prāgu]], bija Pāvels Benešs un Miroslavs Hajns. BH-21 priekštecis bija [[biplāns]] iznīcinātājs [[Avia BH-17]]. Salīdzinot ar BH-17, jaunajam iznīcinātājam bija izmainīta augšējā korpusa daļa, lai uzlabotu redzamību pilotam un starp riteņiem tika izvietots izbīdāmais [[radiators]].
+
+Čehoslovakijas Gaisa spēki iegādājās 137 šāda tipa lidmašīnas, kas bija bruņojumā līdz 30. gadu sākumam, pēc tam šo tipu nomainīja iznīcinātājs [[Avia B-33]].
+
+Sākot no 1925. gada šīs lidmašīna, pēc licences, ražoja [[Beļģija|Beļģijā]], rūpnīcās ''[[SABCA]]'' un ''SEGA'', kopumā priekš Beļģijas Gaisa spēkiem tika izgatavotas atbilstoši 44 un 39 lidmašīnas.
+
+== Tehniskie parametri ==
+{|cellpadding="2"
+|----- bgcolor="#DDDDDD"
+! Šķirklis
+! Parametri
+|-----  bgcolor="#EEEEEE"
+| Konstruēšanas gads || 1925 - ?
+|-----  bgcolor="#EEEEEE"
+| Ražotājs || Avia
+|----- bgcolor="#EEEEEE"
+| Konstruktori: || Pāvels Benešs / Miroslavs Hajns
+|-----  bgcolor="#EEEEEE"
+| Spārnu izmērs || 8,90 m
+|-----  bgcolor="#EEEEEE"
+| Lidmašīnas garums || 6,87 m
+|-----  bgcolor="#EEEEEE"
+| Lidmašīnas augstums || 2,74 m
+|-----  bgcolor="#EEEEEE"
+| Spārna laukums || 21,96 m²
+|-----  bgcolor="#EEEEEE"
+| Tukšas lidm. massa || 720 kg
+|-----  bgcolor="#EEEEEE"
+| Maksimālā lidm. massa || maximal 1.084 kg
+|-----  bgcolor="#EEEEEE"
+| Maksimālais ātrums || 245 km/h 3.000 m augstumā
+|-----  bgcolor="#EEEEEE"
+| Nolidošanas laiks 5.000 m || 13 min
+|-----  bgcolor="#EEEEEE"
+| Lidošanas maksim. augstums || 5.500 m
+|-----  bgcolor="#EEEEEE"
+| Nolidošanas attālums || 550 km
+|-----  bgcolor="#EEEEEE"
+| Ekipāža || 1 (Pilot)
+|-----  bgcolor="#EEEEEE"
+| Dzinējs || 1x [[Hispano-Suiza]] 8Fb (Ražots [[Škoda]])
+|-----  bgcolor="#EEEEEE"
+| Jauda || 231 kW / 310 zs
+|-----  bgcolor="#EEEEEE"
+| Bruņojums || divi 7,7 mm [[Vickers]] MG [[ložmetējs|ložmetēji]].
+|}
+
+== Ārējās saites ==
+* [http://www.cofe.ru/avia/A/A-109.htm Avia (Авиа) BH-21]
+* [http://www.airwar.ru/enc/fww1/bh21.html BH-21]
+* [http://www.military.cz/czech/air/Avia/BH_21/BH_21.htm BH-21] {{Webarchive|url=https://web.archive.org/web/20060907053212/http://military.cz/czech/air/Avia/BH_21/BH_21.htm |date={{dat|2006|09|07||bez}} }}
+* [http://1000aircraftphotos.com/Contributions/Braas/4135.htm Avia BH.21 Czechoslovakian Air Force]
+* [https://web.archive.org/web/20070927234917/http://www.luftfahrtmuseum.com/htmd/dtf/avb21.htm Avia BH 21]
+
+[[Kategorija:Avia]]
+[[Kategorija:Čehoslovākijas iznīcinātāji]]

@@ -1,0 +1,250 @@
+{{Citas nozīmes|Saules sistēmas planētu|Merkurs|Merkurs}}
+{{Planētas infokaste
+| bgcolour       = #D8BBA6
+| name           = Merkurs
+| symbol         = [[Attēls:mercury symbol (bold).svg|20px|alt=☿|Merkura astronomiskais simbols]]
+| image          = [[Attēls:Mercury in color - Prockter07 centered.jpg|240px|Merkurs]]
+| caption        = Merkura attēls neīstās krāsās<br />(MESSENGER attēls; 2008. gada janvāris)
+| orbit_ref      =<ref name=horizons>{{Tīmekļa atsauce | date={{dat|2008|04|07}} | first=Donald K. | last=Yeomans | url=http://ssd.jpl.nasa.gov/?horizons | title=HORIZONS System | publisher=NASA JPL | accessdate={{dat|2008|04|07}}}} {{en ikona}}</ref>
+| epoch = [[J2000]]
+| aphelion = 69 816 900 km<br />0,466697 [[astronomiskā vienība|AU]]
+| perihelion = 46 001 200 km<br />0,307499 AU
+| semimajor = 57 909 100 km<br />0,387098 AU
+| eccentricity = 0,205630<ref name="nssdcMercury" />
+| period = 87,9691 dienas<br />(0,240846 gadi)
+| synodic_period = 115,88 dienas<ref name="nssdcMercury">{{Tīmekļa atsauce|title=Mercury Fact Sheet|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html|publisher=[[Nacionālā aeronautikas un kosmosa administrācija|NASA]] Goddard Space Flight Center|date={{dat|2007|11|30}}|accessdate={{dat|2008|05|28}}|archiveurl=https://web.archive.org/web/20151106171436/http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html|archivedate={{dat|2015|11|06||bez}}}} {{en ikona}}</ref>
+| avg_speed = 47,87 km/s<ref name="nssdcMercury" />
+| inclination = 7,005°<br />3,38° attiecībā pret Saules ekvatoru
+| asc_node = 48,331°
+| arg_peri = 29,124°
+| mean_anomaly = 174,796°
+| satellites = nav pavadoņu
+| physical_characteristics = yes
+| diameter = 4880 km
+| mean_radius = 2439,7 ± 1,0 km<ref name=nasa>{{Tīmekļa atsauce | date={{dat|2008|02|25}} | first=Kirk | last=Munsell | coauthors=Smith, Harman; Harvey, Samantha | url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mercury&Display=Facts | title=Mercury: Facts & Figures | work=Solar System Exploration | publisher=NASA | accessdate={{dat|2008|04|07}} | archive-date={{dat|2014|04|08||bez}} | archive-url=https://web.archive.org/web/20140408125609/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mercury&Display=Facts }} {{en ikona}}</ref><ref name=Seidelmann2007>{{Laikraksta atsauce | last= Seidelmann| first= P. Kenneth | coauthors= Archinal, B. A.; A’hearn, M. F.; et.al. | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006 | journal= Celestial Mechanics and Dynamical Astronomy | volume=90 | pages=155—180 | year=[[2007. gads|2007]] | doi=10.1007/s10569-007-9072-y | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y | accessdate={{dat|2007|08|28}}}} {{en ikona}}</ref><br />0,3829 no Zemes rādiusa
+| flattening = < 0,0006<ref name=Seidelmann2007/>
+| surface_area = 7,48{{E|7}} km²<br />0,108 no Zemes virsmas<ref name=nasa/>
+| volume = 6,083{{E|10}} km³<br />0,054 no Zemes tilpuma<ref name=nasa/>
+| mass = 3,3022{{E|23}} kg<br />0,055 no Zemes masas<ref name=nasa/>
+| density = 5,427 g/cm³<ref name=nasa/>
+| surface_grav = 3,7 [[paātrinājums|m/s²]]<br />0,38 g<ref name=nasa/>
+| escape_velocity = 4,25 km/s<ref name=nasa/>
+| sidereal_day = 58,646 dienas<br />1407,5 [[stunda]]s<ref name=nasa/>
+| rot_velocity = 3,026 m/s
+| axial_tilt = 2,11′ ± 0.1′<ref name=Margot2007>{{Laikraksta atsauce| last=Margot | first=L.J.| coauthors=Peale, S. J.; Jurgens, R. F.; Slade, M. A.; Holin, I. V.| title=Large Longitude Libration of Mercury Reveals a Molten Core| journal=Science| year=[[2007. gads|2007]] | volume=316 | pages=710—714| doi=10.1126/science.1140514
+| url=http://adsabs.harvard.edu/abs/2007Sci...316..710M| pmid=17478713}} {{en ikona}}</ref>
+| right_asc_north_pole = 18 h 44 min 2 s<br />281,01°<ref name="nssdcMercury" />
+| declination = 61,45°<ref name="nssdcMercury" />
+| albedo = 0,119 (saites)<br />
+0,106 ([[ģeometriskais albedo|ģeom.]])<ref name="nssdcMercury" />
+| magnitude = līdz −1,9<ref name="nssdcMercury" />
+| angular_size = 4,5" — 13"<ref name="nssdcMercury" />
+| temperatures = yes
+| temp_name1 = 0°N, 0°W <!-- Vasavada et al. 1999-->
+| min_temp_1 = 100 K
+| mean_temp_1 = 340 K
+| max_temp_1 = 700 K
+| temp_name2 = 85°N, 0°W
+| min_temp_2 = 80 K
+| mean_temp_2 = 200 K
+| max_temp_2 = 380 K
+| adjectives = Mercurian, Mercurial<ref>{{Tīmekļa atsauce | url=http://www.merriam-webster.com/dictionary/mercurial | publisher=Merriam-Webster Online | title=mercurial | accessdate={{dat|2008|06|12}}}} {{en ikona}}</ref>
+| atmosphere = yes
+| surface_pressure = atmosfēras pēdas
+| atmosphere_composition = 42% molekulārais [[skābeklis]]<br />29,0% [[nātrijs]]<br />22,0% [[ūdeņradis]]<br />6,0% [[hēlijs]]<br />0,5% [[kālijs]]<br />Atrastas [[argons|argona]], [[slāpeklis|slāpekļa]], [[ogelkļa dioksīds|oglekļa dioksīda]], [[ūdens|ūdens tvaika]], [[ksenons|ksenona]], [[kriptons|kriptona]] un [[neons|neona]] pēdas<ref name="nssdcMercury" />
+}}
+
+'''Merkurs''' ir [[Saule]]i tuvākā un mazākā [[Saules sistēma]]s [[planēta]]. Merkurs apriņķo Sauli 88 dienās, tā arī ir planēta ar lielāko orbītas ekscentritāti. Merkuram nav pavadoņu. Merkurs ir arī mazāks par Saules sistēmas planētu lielākajiem pavadoņiem — [[Jupiters (planēta)|Jupitera]] pavadoni [[Ganimēds (pavadonis)|Ganimēdu]] un [[Saturns (planēta)|Saturna]] pavadoni [[Titāns (pavadonis)|Titānu]]. Merkurs pie debesīm ir samērā spožs, taču, tā kā tas atrodas netālu no Saules, to ir grūti novērot Saules spožuma dēļ — vislabāk Merkurs saskatāms agros rītos vai vēlos vakaros, pirms saullēkta vai pēc saulrieta. Salīdzinot ar citām Saules sistēmas planētām, par Merkuru ir zināms diezgan maz — to pētījuši tikai daži zinātniskie aparāti, un ar teleskopiem no Zemes iespējams novērot tikai apgaismoto Merkura daļu. Merkurs bijis zināms arī senajām kultūrām — senākās dokumentētās ziņas par Merkura novērojumiem datētas ar pirmo gadu tūkstoti pirms mūsu ēras.
+
+== Uzbūve ==
+Merkurs ir mazākā [[Zemes grupas planētas|Zemes grupas planēta]]. Merkura ekvatoriālais [[diametrs]] ir aptuveni 4 879,4 km, tas ir 0,38 [[Zeme]]s diametri. 70% Merkura sastāva ir metāliski materiāli, un atlikušie 30% — silikātieži. Merkurs ir otra blīvākā planēta Saules sistēmā — 5,43 g/cm³ (mazliet mazāk par vidējo Zemes blīvumu). Merkura lielais blīvums sniedz ziņas par tā iekšējo uzbūvi, un blīvums tiek izskaidrots ar samērā masīvu kodolu, kas varētu veidot līdz pat 42% no visa planētas tilpuma (Zemes kodols sastāda tikai 17% no visas planētas tilpuma). 30 gadus tika uzskatīts, ka Merkura kodols ir cietā formā, jo tik mazai planētai tas nevarētu būt šķidrs. [[2007. gads|2007]]. gada maijā iznākušajā žurnālā [[Science (žurnāls)|Science]] publicēts raksts, kurā ziņots, ka [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] zinātnieki, izmantojot precīzus radarus, noteikuši, ka planētai ir šķidrs kodols.<ref>[http://www.spacedaily.com/reports/Deep_Space_Radar_Cuts_Mercury_to_Core_As_Messenger_Lines_Up_For_Venus_Flyby_999.html Deep Space Radar Cuts Mercury to Core As Messenger Lines Up For Venus Flyby] {{en ikona}}</ref> Šķidrā kodola eksistenci pierādījuši arī Kornela Universitātes pētnieki.<ref>{{Ziņu atsauce
+ | first=Lauren | last=Gold
+ | title=Mercury has molten core, Cornell researcher shows
+ | date=[[May 3]], [[2007. gads|2007]] | publisher=Cornell University
+ | url=http://www.news.cornell.edu/stories/May07/margot.mercury.html
+ | work=Chronicle Online | accessdate ={{dat|2008|05|12}}}} {{en ikona}}</ref>
+Kodola izmēri sasniedz gandrīz 2000 kilometrus rādiusā, to sedz apmēram 600 kilometrus biezs mantijas slānis. Pastāv vispāratzīts uzskats, ka Merkura pirmsākumos tas bijis vismaz 2 reizes masīvāks, taču tad saskrējies ar masīvu objektu, kura masa bijusi vismaz 1/6 Merkura masas, un trieciena rezultātā zaudējis lielu daļu sava materiāla<ref>{{Laikraksta atsauce 
+ | title=Collisional stripping of Mercury’s mantle 
+ | author=Benz, W.; Slattery, W. L.; Cameron, A. G. W.  
+ | journal=Icarus 
+ | volume=74 
+ | issue=3
+ | pages=516—528 
+ | year=1988 
+ | accessdate={{dat|2008|04|16}}
+ | doi=10.1016/0019-1035(88)90118-2}} {{en ikona}}</ref> (tas varētu izskaidrot nesamērīgi lielo kodola izmēru — kādreiz planēta bijusi lielāka). [[Mantija|Mantiju]] sedz apmēram 200 kilometrus bieza garozas kārta, kas ir diezgan rievota, ar daudziem kritumiem un ģeoloģiskiem formējumiem. Tas tiek izskaidrots ar to, ka pēc tam, kad garoza jau bija sacietējusi, Merkura mantija un kodols turpināja atdzist un to izmēri samazinājās, līdz ar to "saraustot" garozu.<ref>{{Laikraksta atsauce 
+ | title = Lobate Thrust Scarps and the Thickness of Mercury’s Lithosphere 
+ | author = Schenk, P.; Melosh, H. J.;  
+ | journal = Abstracts of the 25th Lunar and Planetary Science Conference 
+ | volume = 1994
+ | pages = 1994LPI....25.1203S
+ | accessdate ={{dat|2008|06|03}}
+}} {{en ikona}}</ref>
+Merkurs satur daudz dzelzs<ref>{{Laikraksta atsauce 
+ | title=On the Internal Structures of Mercury and Venus 
+ | author=Lyttleton, R. A.  
+ | journal=Astrophysics and Space Science 
+ | volume=5 
+ | issue=1
+ | pages=18 
+ | year=1969 
+ | accessdate={{dat|2008|04|16}}
+ | doi=10.1007/BF00653933}} {{en ikona}}</ref> (relatīvi pat vairāk par visām citām Saules sistēmas planētām), tas tiek izskaidrots ar iepriekš pieminēto sadursmes iespēju, kad akmeņainā virskārta tika triecienā zaudēta.
+[[Attēls:Mercury Internal Structure.svg|thumb|left|200px|Merkura uzbūve <br />
+<br />
+1. 100—200 km bieza garoza<br />
+2. 600 km bieza mantija<br />
+3. Kodols (rādiuss 1,800 km)]] Pastāv arī otra teorija, kas lielo dzelzs daudzumu izskaidro ar to, ka Saule savos pirmsākumos izstaroja daudz lielāku enerģiju un karstums iztvaicēja nosacīti vieglāko akmens garozu, iespējams, veidojot gāzu atmosfēru, kas vēlāk izgaroja [[Saules vējš|Saules vēja]] ietekmē, atstājot tikai smagāko metālu kodolu.<ref>{{Laikraksta atsauce | title = The partial volatilization of Mercury | author =  Cameron, A. G. W. | journal = Icarus | volume = 64  | issue = 2| pages = 285—294  | year = 1985 | doi = 10.1016/0019-1035(85)90091-0}} {{en ikona}}</ref> Vēl pastāv arī trešā teorija, ka Saules sistēmas pirmsākumos Saule no apkārt esošā [[Akrēcijas disks|akrēcijas diska]] sevī absorbējusi vieglākos materiālus un no atlikušajiem smagajiem elementiem izveidojies Merkurs.<ref>{{Laikraksta atsauce 
+ | title = Iron/silicate fractionation and the origin of Mercury 
+ | author = Weidenschilling, S. J.  
+ | journal = Icarus 
+ | volume =  35 
+ | issue = 1
+ | pages = 99—111 
+ | year = 1987 
+ | accessdate = {{dat|2008|04|16}}
+ | doi = 10.1016/0019-1035(78)90064-7}} {{en ikona}}</ref> Lai noteiktu, kura teorija ir precīzāka, nepieciešami rūpīgi Merkura virsmas pētījumi, kas būs iespējami gan ar MESSENGER, gan ar plānoto BepiColombo kosmisko aparātu.
+
+== Virsma un atmosfēra ==
+Merkura virsmu klāj daudzi [[krāteris|krāteri]], un Merkura virsmas attēlus var viegli noturēt par Mēness virsmas attēliem — tie ir ļoti līdzīgi. Daudzie krāteri liecina, ka planēta jau miljardiem gadu ir ģeoloģiski neaktīva. Merkura virsmā ietriekušies neskaitāmi asteroīdi un komētas, zemākajos apvidos lava, kas izplūdusi virspusē, aizpilda krāterus, veidojot nosacītus līdzenumus — "jūras". Starp Zemes tipa planētām par Merkura ģeoloģiju zināms vismazāk, jo pētījumi balstīti uz ''Mariner 10'' pārlidojuma rezultātiem, kā arī novērojumiem no Zemes. Virsmu klāj dažādu izmēru krāteri — sākot ar sekliem un maziem krāteriem, līdz pat vairākus simtus kilometrus lielām triecienu veidotām sistēmām. Lielākie krāteri uz Merkura virsmas ir 1550 kilometrus lielais ''Caloris Basin''<ref>{{Ziņu atsauce
+ |url          = http://space.newscientist.com/article/dn13257-bizarre-spider-scar-found-on-mercurys-surface.html
+ |title        = Bizarre spider scar found on Mercury's surface
+ |date         = {{dat|2008|01|30}}
+ |publisher    = NewScientist.com news service
+ |first        = David
+ |last         = Shiga
+ |access-date  = {{dat|2009|03|31||bez}}
+ |archive-date = {{dat|2012|05|22||bez}}
+ |archive-url  = https://www.webcitation.org/67qLG2uRR?url=http://www.newscientist.com/article/dn13257
+}} {{en ikona}}</ref> un 1600 kilometrus lielais ''Skinakas Basin'', kura ārējais trieciena radītais gredzens sasniedz pat 2300 kilometrus.<ref>{{Laikraksta atsauce|author = L. V. Ksanfomality|title=Earth-based optical imaging of Mercury| journal= Advances in Space Research |volume= 38|pages= 594|year= 2006}} {{en ikona}}</ref>
+Trieciens, kas radījis ''Caloris Basin,'' ir bijis tik spēcīgs, ka triecienvilnis apskrējis visu planētu un tās pretējā pusē radījis diezgan jocīgus pacēlumus, kas tieši tā arī nosaukti par "Jocīgo virsmu". Merkura virsmas apgabalus var iedalīt divās vecuma grupās — vecākās daļas ir klātas ar daudziem krāteriem, bet jaunākās ir līdzenākas, ar lavu pārplūdušas virsmas, kurās krāteru ir ievērojami mazāk. Merkura virsmu ietekmē arī Saules radītie paisuma spēki — uz Merkura tie ir par 17% spēcīgāki par Mēness paisumiem uz Zemes. Merkura virsmas vidējā [[temperatūra]] ir 440 [[kelvins (mērvienība)|kelvini]], un tā mainās 610 grādu robežās, jo uz Merkura nav atmosfēras, līdz ar to naktīs temperatūra nokrīt līdz 90 grādiem pēc Kelvina (-183°C). Dienā virsma sakarst līdz pat 700 grādiem pēc Kelvina (+427°C).
+Lai gan Merkurs atrodas tuvu Saulei, pastāv diezgan nopietni pierādījumi tam, ka Merkura polos, krāteru dziļumā, eksistē ledus. Tā kā Merkura rotācijas ass nobīde ir tikai 0,01 grāds ([[Zeme]]s rotācijas nobīde sasniedz gandrīz 24 grādus), tad polos esošo krāteru dziļumā nekad neiespīd Saule.[[Attēls:Merc fig2sm.jpg|left|thumb|Merkura ziemeļpola radarattēls, kurā, iespējams, redzams krāteros esošais ledus]] Ledus uz planētas varētu būt radies pēc komētu triecieniem. Merkuram praktiski nav [[atmosfēra]]s, lai gan ir reģistrēti [[ūdeņradis|ūdeņraža]], [[hēlijs|hēlija]] un [[skābeklis|skābekļa]] atomi, kas varētu būt atnesti ar Saules vēju. Hēlijs varētu arī būt radies, sabrūkot Merkura garozā esošajiem radioaktīvajiem materiāliem.
+
+== Magnētiskais lauks ==
+Merkuram ir relatīvi spēcīgs, globāls magnētiskais lauks, ko rada planētas [[dzelzs]] kodols. Ņemot vērā atklājumus, ka Merkura kodols ir šķidrs, uzskata, ka magnētiskais lauks rodas, darbojoties dinamo principam.<ref>{{Tīmekļa atsauce
+ | last=Gold
+ | first=Lauren
+ | date={{dat|2007|05|03}}
+ | url=http://www.news.cornell.edu/stories/May07/margot.mercury.html
+ | title=Mercury has molten core, Cornell researcher shows
+ | publisher=Cornell University
+ | accessdate={{dat|2008|04|07}}}} {{en ikona}}</ref><ref>{{Laikraksta atsauce
+ | last=Christensen| first=Ulrich R.
+ | title=A deep dynamo generating Mercury's magnetic field
+ | journal=Nature
+ | year=[[2006. gads|2006]]
+ | volume=444
+ | issue=
+ | pages=1056—1058
+ | doi=10.1038/nature05342}} {{en ikona}}</ref> Ievērojamās [[orbītas ekscentritāte]]s dēļ Saules radīto paisuma spēku iedarbības izmaiņas uz Merkuru varētu dot enerģiju Merkura kodolam un uzturēt to šķidru.<ref>{{Laikraksta atsauce
+ | last=Spohn | first=T.
+ | coauthors=Sohl, F.; Wieczerkowski, K.; Conzelmann, V.
+ | title=The interior structure of Mercury: what we know, what we expect from BepiColombo
+ | journal=Planetary and Space Science | year=2001
+ | volume=49 | issue=14—15 | pages=1561—1570
+ | doi=10.1016/S0032-0633(01)00093-9}} {{en ikona}}</ref> Magnētiskais lauks ir nosacīti vājš (pēc ''Mariner 10'' datiem — tikai 1,1% salīdzinājumā ar Zemes magnētisko lauku). Visspēcīgākais tas ir Merkura ekvatoriālajos reģionos.<ref>{{Grāmatas atsauce
+ | title=Astronomy: The Solar System and Beyond
+ | first=Michael A. | last=Seeds | year=2004
+ | isbn=0534421113 | publisher=Brooks Cole
+ | edition=4th
+}} {{en ikona}}</ref> Merkura magnētiskais lauks ir bipolārs, un gan ''Mariner 10,'' gan ''MESENGER'' iegūtie dati apliecina, ka tas ir stabils.<ref>{{Tīmekļa atsauce
+ |author      = Staff
+ |date        = {{dat|2008|01|30}}
+ |url         = http://messenger.jhuapl.edu/gallery/sciencePhotos/image.php?page=2&gallery_id=2&image_id=152
+ |title       = Mercury’s Internal Magnetic Field
+ |publisher   = NASA
+ |accessdate  = {{dat|2008|04|07}}
+ |archiveurl  = https://web.archive.org/web/20130331042307/http://messenger.jhuapl.edu/gallery/sciencePhotos/image.php?page=2&gallery_id=2&image_id=152
+ |archivedate = {{dat|2013|03|31||bez}}
+}} {{en ikona}}</ref> Merkura magnētiskais lauks ir pietiekoši spēcīgs, lai novirzītu Saules vēju apkārt planētai, tā veidojot [[magnetosfēra|magnetosfēru]]. Daļa Saules vēja daļiņu tiek notvertas magnetosfērā un izraisa magnētiskā lauka svārstības, kuras reģistrēja ''Mariner 10''. {{dat|2008|10|6}} ''MESSENGER'' aparātam otro reizi pārlidojot Merkuru, magnētiskajā laukā tika novēroti virpuļi, apmēram 800 kilometrus plati magnētiskā lauka veidojumi, kas veidojas, savienojoties Saules vēja deformācijām ar Merkura magnētisko lauku, tā veidojot nosacītos lauka kropļojumus. Merkura magnētiskajā laukā veidojoties virpuļiem, tas tiek deformēts, un Saules starojums var tieši sasniegt Merkura virsmu.<ref name="NASA060209">{{Tīmekļa atsauce | first=Bils | last=Steigervalds | date={{dat|2009|6|2|N}} | title=Magnetic Tornadoes Could Liberate Mercury's Tenuous Atmosphere | publisher=NASA Goddard Space Flight Center | url=http://www.nasa.gov/mission_pages/messenger/multimedia/magnetic_tornadoes.html | accessdate={{dat|2009|8|1|N}} | archive-date={{dat|2012|05|18||bez}} | archive-url=https://web.archive.org/web/20120518035510/http://www.nasa.gov/mission_pages/messenger/multimedia/magnetic_tornadoes.html }} {{en ikona}}</ref>
+
+== Orbīta un rotācija ==
+Merkura orbīta ir ļoti ekscentriska (lielākā ekscentritāte Saules sistēmas planētai) — Merkura attālums līdz Saulei mainās robežās no 46 līdz pat 70 miljoniem kilometru. Merkurs Sauli apriņķo 88 dienās. Merkura orbīta attiecībā pret Zemes orbītu ir nobīdīta par 7 grādiem, un šī iemesla dēļ no Zemes ir iespējams novērot Merkura pāriešanu pāri Saules diskam, kad Merkurs ir redzams kā mazs melns punkts uz Saules diska. Parasti tas notiek reizi septiņos gados. Diezgan ilgu laiku pastāvēja uzskats, ka Merkurs ir saistīts ar Saules paisuma spēkiem un pret Sauli vienmēr ir pagriezis vienu puslodi (līdzīgi kā Mēness pret Zemi), taču 1965. gadā veiktie radarnovērojumi atklāja, ka Merkurs, divreiz apriņķojot Sauli, trīs reizes apgriežas ap savu asi — savā ziņā Merkura diena (rotācija ap savu asi) ir garāka par Merkura gadu (rotācija ap Sauli).[[Attēls:Mercury's orbital resonance.svg|150px|thumb|left|Pēc viena apriņķojuma ap Sauli Merkurs ap savu asi ir apgriezies 1,5 reizes, tādēļ ik pēc 2 pilnām orbītām Saule apspīd vienu un to pašu puslodi]] Merkura rotācijas ass slīpums ir tikai 0,01 grāds — mazākais rotācijas ass slīpums Saules sistēmā. Tas nozīmē, ka novērotājam uz Merkura ekvatora Saule pusdienas laikā vienmēr būtu tieši virs galvas, bet, novērotājam atrodoties Merkura polos, Saule nekad nepaceltos virs horizonta augstāk par 0,01 grādu. Šādos apstākļos ir iespējama ledus veidošanās krāteru dziļumā.
+
+== Novērojumi ==
+Merkura novērojumus veikt ir diezgan sarežģīti, jo tas atrodas tuvu Saulei. No [[Zeme]]s Merkurs redzams tikai īsi pirms saullēkta un īsi pēc saulrieta zemu pie [[horizonts|horizonta]] (tādēļ pilsētās novērot Merkuru ir praktiski neiespējami). Drošības iemeslu dēļ Merkura novērojumos netiek izmantots [[Habla kosmiskais teleskops]] — Saules spēcīgā gaisma var sabojāt zinātnisko aparatūru. Tāpat kā [[Mēness|Mēnesim]], arī Merkuram ir novērojamas fāžu maiņas. Orbītas īpatnību dēļ Merkuru vieglāk novērot Zemes [[dienvidu puslode|dienvidu puslodē]], nekā [[ziemeļu puslode|ziemeļu puslodē]]. Piemēram, [[Jaunzēlande|Jaunzēlandē]] Merkurs ir redzams pat vairākas stundas pirms saullēkta (un attiecīgi arī vairākas stundas pēc saulrieta), Merkuru iespējams redzēt arī gadījumos, kad notiek pilni [[Saules aptumsums|Saules aptumsumi]].
+
+=== Novērojumi senatnē ===
+Pirmās ziņas par Merkura novērojumiem datētas ap 14. gadsimtu pirms mūsu ēras, kad to novēroja [[asīrieši]], kas to dēvēja par ''Ubu-idim-gud-ud'' ("lēkājošā planēta").<ref>{{Laikraksta atsauce
+ | first=Hermann | last=Hunger |coauthors=Pingree, David
+ | title=MUL.APIN: An Astronomical Compendium in Cuneiform
+ | journal=Archiv für Orientforschung | volume=24
+ | publisher=Verlag Ferdinand Berger & Sohne Gesellschaft MBH
+ | location=Austria | year=[[1989]] | pages=146}} {{en ikona}}</ref> Babilonieši Merkuru dēvēja mitoloģiskā vēstneša Nabu vārdā.<ref>{{Tīmekļa atsauce
+ | year=[[2008. gads|2008]]
+ | author=Staff
+ | url=http://btc.montana.edu/messenger/elusive_planet/ancient_cultures_2.php
+ | title=MESSENGER: Mercury and Ancient Cultures
+ | publisher=NASA JPL
+ | accessdate={{dat|2008|04|07}}
+ | archive-date={{dat|2012|07|23||bez}}
+ | archive-url=https://web.archive.org/web/20120723001225/http://www.messenger-education.org/elusive_planet/ancient_cultures_2.php
+ }} {{en ikona}}</ref> Senie grieķu astronomi uzskatīja, ka patiesībā eksistē divas planētas — viena, kas redzama no rīta un otra, kas redzama vakarā, tādēļ Merkurs tika saukts divos vārdos — ''Stilbon'' ({{val|el|Στίλβων}}) — "zaigojošais" un ''Hermaon'' ({{val|el|Ἑρμάων}}).<ref>{{Grāmatas atsauce |author= H.G. Liddell and R. Scott |coauthors=''rev.'' H.S. Jones and R. McKenzie |title=Greek—English Lexicon, with a Revised Supplement |url= https://archive.org/details/greekenglishlexi0000lidd_u9m8 |edition=9th edition |year=[[1996]] |publisher=Clarendon Press |location=Oxford |isbn=0-19-864226-1 |pages=[https://archive.org/details/greekenglishlexi0000lidd_u9m8/page/690 690] and 1646}}</ref> Romieši planētu sauca dieva [[Merkurs (dievs)|Merkura]] (grieķu mitoloģijā — Hermejs) vārdā.<ref>{{Grāmatas atsauce 
+ | first=Eugène Michel | last=Antoniadi
+ | coauthors=Translated from French by Moore, Patrick
+ | year=1974 | title=The Planet Mercury
+ | publisher=Keith Reid Ltd | location=Shaldon, Devon
+ | pages=9—11}} {{en ikona}}</ref> Senajā Ķīnā Merkuru dēvēja par ''Ch'en-Hsing'' (Stundas zvaigzne) Ebreji Merkuru sauca par ''kokhav hamah'' ({{val|he|כוכב חמה}}) — "zvaigzne pie karstā (Saules)". [[Maiji]] apzīmēja Merkuru ar divām pūcēm (dažkārt arī ar četrām) un tās uzskatīja par pazemes (pēcnāves) vēstnešiem. Merkura astronomiskais simbols ir [[Attēls:Mercury symbol.svg|15px]]. Tas attēlo stilizētu dieva Merkura galvu ar spārnotu cepuri.
+
+=== Novērojumi no Zemes ===
+Pirmos Merkura novērojumus, izmantojot teleskopu, [[17. gadsimts|17. gadsimtā]] veica [[Galileo Galilejs]]. [[1631]]. gadā [[Pjērs Gasendi]], balstoties uz [[Johaness Keplers|Johanesa Keplera]] aprēķiniem, novēroja Merkura pāriešanu pāri Saules diskam. [[1639]]. gadā [[Džovanni Zupi]] atklāja, ka Merkuram, tāpat kā [[Venera (planēta)|Venerai]], ir novērojamas fāzes, kas mainās atkarībā no Merkura atrašanās orbītā ap Sauli. Šis atklājums norādīja uz to, ka Merkurs riņķo ap Sauli. {{dat|1737|5|28}} [[Džons Beviss]] [[Griničas observatorija|Griničas observatorijā]] novēroja ļoti reto parādību, kad Venera aizsedz Merkuru (šāds notikums atkārtojas reizi vairākos gadsimtos — nākamreiz tas notiks [[2133]]. gadā). [[19. gadsimts|19. gadsimta]] astronomi sāka novērot dažas virsmas detaļas, un [[1880]]. gadā [[Džovanni Skaparelli]] noteica Merkura apriņķošanas periodu — apmēram 88 dienas. Līdz pat [[1962]]. gadā sāktajiem Merkura radarnovērojumiem pastāvēja uzskats, ka Merkurs pret Sauli visu laiku pagriezis vienu puslodi. 1962. gadā [[Padomju Savienība|PSRS]] Zinātņu akadēmijas Radioinženierijas un elektronikas institūta darbinieki Vladimira Koteļņikova vadībā pirmo reizi noraidīja uz Merkuru radiosignālu un pēc tam uztvēra atstaroto signālu — tā sākās Merkura novērojumi ar radioteleskopiem. Trīs gadus vēlāk [[Amerikas Savienotās Valstis|ASV]] zinātnieki Gordons Petengils un R. Daiss, izmantojot Aresibo radioteleskopu, noteica ka Merkurs apriņķo ap savu asi 59 dienās.
+
+=== Novērojumi ar kosmiskajiem aparātiem ===
+Merkura tuvā atrašanās Saulei sarežģīja arī novērojumus ar kosmiskajiem aparātiem, jo ceļš līdz Merkuram un ieiešana orbītā ap planētu prasa vairāk enerģijas, nekā būtu jāpatērē, lai pamestu Saules sistēmu. Līdz šim Merkuru pētījis tikai viens kosmiskais aparāts — [[Mariner 10]].[[Attēls:Mariner10.gif|thumb|Mariner 10 — pirmā zonde, kas pētīja Saulei tuvāko planētu]] Zonde trīs reizes pārlidoja Merkuru, taču orbītas īpatnību dēļ katrā pārlidojumā tā novēroja vienu un to pašu puslodi. Aparāts kartografēja apmēram 45% Merkura virsmas.
+
+{{dat|2004|8|3}} startēja [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] zonde [[MESSENGER]], kam Merkuru sasniegt bija paredzēts 2011. gadā un, atšķirībā no ''Mariner 10'', bija paredzēts, ka tā ieies orbītā ap planētu un strādās apmēram gadu, novērojot arī līdz šim nepētītos planētas rajonus. ''MESSENGER'' izmantošanas plānos ietilpa planētas magnetosfēras un atmosfēras izpēte, kā arī detalizētāku Merkura virsmas attēlu iegūšana.
+
+[[Eiropas Kosmosa aģentūra]] sadarbībā ar [[Japāna|Japānu]] plānoja 2013. gadā palaist divas zondes [[BepiColombo]], kuras Merkuru sasniegtu 2019. gadā un pētītu planētas magnetosfēru un atmosfēru.
+
+== Izpēte ==
+
+Merkura izpēte ar kosmiskajiem aparātiem ir sarežgīta.{{nepieciešama atsauce}} Izpēti sarežģī Merkura tuvums [[Saule]]i, kā dēļ ir nepieciešams liels enerģijas daudzums, lai sasniegtu un ieietu orbītā ap Merkuru. Līdz šim Merkuru pētījuši tikai divi aparāti, no kuriem viens izpēti vēl turpina.
+
+=== Kosmiskie aparāti ===
+Tabula ar [[starpplanētu zonde|starpplanētu zondu]] startiem (arī neveiksmīgiem) uz Merkuru:
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+! width="150" | Oficiālais nosaukums
+! width="100" | Izgatavotāja nosaukums
+! width="80" | Starta datums
+! width="80" | Beigu datums
+! width="150" | Mērķis
+! width="250" | Rezultāts
+|-
+|bgcolor="#F3F3F3" |[[Attēls:Flag of the United States.svg|20px]] [[Mariner 10]]
+|
+|{{dat|1973|11|2|SK}}
+|{{dat|1975|3|24|SK}}
+|Merkura pārlidojums
+|Trīs veiksmīgi Merkura pārlidojumi — {{dat|1974|3|29|SK}}, {{dat|1974|8|21|SK}} un {{dat|1975|3|16|SK}}
+|-
+|bgcolor="#F3F3F3" |[[Attēls:Flag of the United States.svg|20px]] [[MESSENGER]]
+|
+|{{dat|2004|8|3|SK}}
+|{{dat|2015|5|30|SK}}
+|Orbīta
+|'''Veiksmīgs'''
+|-
+| bgcolor="#F3F3F3" | [[Attēls:Logo_ESA.png|20px]] [[BepiColombo]]
+|
+|{{dat|2018|10|20|SK}}
+|Ceļā
+|Orbīta
+|Plānots ieiet orbītā 2025. gadā
+|}
+
+== Kolonizācija ==
+
+Zinātnieki uzskata, ka Merkuru, tāpat kā [[Marss (planēta)|Marsu]], [[Venera (planēta)|Venēru]], [[Mēness|Mēnesi]] un [[asteroīdu josla]]s objektus nākotnē varētu kolonizēt. Pastāvīgas kolonijas būtu iespējams izveidot polārajos reģionos, jo tur ir daudz zemākas temperatūras nekā citos planētas reģionos, taču būtu iespējams veikt arī tālākas ekspedīcijas, sekojot Merkura naktij, kad planētas virsma atdziest. Merkura līdzība ar Mēnesi padarītu planētas [[kolonizācija|kolonizāciju]] nosacīti vieglāku, jo kolonizatoriem nebūtu jāpielāgojas īpaši atšķirīgiem apstākļiem. Polārajos krāteros atrodamais ledus ļautu to izmantot koloniju vajadzībām un ietaupīt kravu sūtīšanu uz [[Saules sistēma]]s iekšieni. [[Planēta]]s tuvums Saulei atvieglotu arī enerģijas ieguvi ar [[saules baterija|Saules baterijām]]. Kolonizatori varētu izmantot polāro reģionu kalnu virsotnes kā "mūžīgās Saules" apspīdētus rajonus un tur izvietot bateriju paneļus. Pastāv uzskats, ka Merkura [[iezis|ieži]] ir bagāti ar [[hēlijs-3|hēliju-3]], ko varētu izmantot kā kodoldegvielu. Lielais Merkura blīvums varētu arī liecināt arī par citiem vērtīgiem izrakteņiem, kas būtu atrodami Merkura gruntī, tādā veidā padarot Merkura kolonizāciju par ekonomiski izdevīgu pasākumu.{{nepieciešama atsauce}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Saules sistēmas planētas]]

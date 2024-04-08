@@ -1,0 +1,17 @@
+'''Alkēni''' ir [[nepiesātinātie ogļūdeņraži]], kas satur vienu dubultsaiti. Tos lieto par izejvielām [[spirti|spirtu]] ieguvei un par monomēriem. Alkēniem ir iespējama ''cis'' - ''trans'' (E - Z) [[izomēri]]ja, tāpēc, ka nav iespējama brīva rotācija ap dubultsaiti (nepieciešamais enerģijas daudzums ir tik liels, ka to vairs nevar uzskatīt par to pašu vielu).
+
+Vispārīgā formula: C<sub>n</sub>H<sub>2n</sub>
+
+Alkēnus galvenokārt iegūst no [[nafta]]s. Tos iespējams iegūt arī dehidratējot spirtus.
+
+Nozīmīgākie alkēni.
+:[[etilēns]] (etēns) - CH<sub>2</sub>CH<sub>2</sub>
+:[[propilēns]] (propēns) - CH<sub>3</sub>CHCH<sub>2</sub>
+:[[izobutēns]] (2-metilpropēns) - CH<sub>2</sub>C(CH<sub>3</sub>)<sub>2</sub>
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Organiskā ķīmija]]
+
+
+{{Org-stub}}

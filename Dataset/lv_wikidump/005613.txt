@@ -1,0 +1,140 @@
+{{atsauces+}}
+{{Lidmašīnas informācija
+  |nosaukums = I—17
+  |tips = Treniņlidmašīna
+  |ražotājs = [[VEF]]
+  |attēls = Attēls:VEF IRBITIS I-17.jpg
+  |paraksts = <!--Attēla paraksts; ja nav aprakstošs ir jāatsāj tukšs-->
+  |konstruktors = [[Kārlis Irbītis]]
+  |pirmais lidojums = 1940
+  |nodošana = 1940
+  |pēdējais lidojums = <!--Datums kad lidmašīna pabeidza militāro/civilo dienestu, tikai vienam datumam-->
+  |stāvoklis = <!--Stāvoklis, vizbiežāk ir lieks; izmantojiet taupīgi-->
+  |lietotājs = [[Gaisa_sp%C4%93ki]]
+  |pārējie lietotāji = <!--Līdz trim papildlietotājiem; Atdaliet ar <br/>-->
+  |izgatavots = 
+  |kopskaits = 6
+  |programmas izmaksa = <!--Ražošanas/Izstrādāšanas programmas izmaksas-->
+  |cena = <!--Viena eksemplāra cena-->
+  |bāzes modelis = <!--Lidmašīna uz kuras bazējas konstrukcija -->
+  |varianti = <!--Varianti ar saviem rakstiem -->
+}}
+'''VEF I—17''' bija vieglais iznīcinātājs, [[Kārlis Irbītis|Kārļa Irbīša]] konstruētā mācību treniņa lidmašīna.
+I—17 ir pēdājā [[Kārlis Irbītis|K. Irbīša]] konstruētā lidmašīna, ko uzbūvēja VEF rūpnīcā.
+Lidotāju apmācībai tika uzbūvētas sešas šī tipa lidmašīnas un papildus bija dots pasūtījums uz vēl sešām I—17A lidmašīnām, bet pasūtījuma izpildi izjauca [[Latvijas okupācija (1940)|Latvijas okupācija]].
+Dažas no lidmašīnām pētīja padomju speciālisti (lidmašīnās tika ievietots padomju M-11 dzinējs).
+Vēlāk, kad Latviju okupēja [[Vācija]], lidmašīnas tika pētītas vācu lidotāju mācibu skolā Tornē.
+Tika uzskatīts, ka I—17 lidojumā ir labāks par britu [[Miles Magister]] un padomju [[УТ-2]]. Divi [[Miles Magister]] tika ekspluatēti arī Latvijā. Monoplānu lidotāju apmācībai Latvijai bija nepieciešams iegūt īsā laikā, tā kā Lielbritānijā bija pasūtīti 39 iznīcinātāji [[Hawker Hurricane]], kurus gan [[Lielbritānija]] paturēja sev, naudu par pasūtījumu iekasējot. Tādēļ I-17 prototipa izmēģinājumi nenotika, tas tika laists sērijveida ražošanā bez izmēģinājumiem.
+
+  <TABLE cellSpacing=0 cellPadding=0 border=0 width="600px">
+         <TR>
+          <TD noWrap width=220 bgColor=#d8d8d8 height=15 
+            ><B>Tehniski— taktiskie parametri.</B></TD>
+          <TD vAlign=top width=14 bgColor=#d8d8d8
+          >&nbsp;</TD>
+          <TD align=right ></TD></TR></TABLE>
+      <TABLE borderColor=#d8d8d8 height=1 cellSpacing=0 borderColorDark=#d8d8d8 
+      borderColorLight=#d8d8d8 border=1>
+        
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Modelis</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp; I—17</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Spārna  izmērs, metros</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;9.80 </TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Garums, metros</TD>
+            <TD vAlign=top width=380 height=12 
+          > &nbsp;8.20</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Augstums, metros</TD>
+            <TD vAlign=top width=380 height=12 
+          > &nbsp;2.90</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Spārna laukums, m<sup>2</sup></TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;19.20</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Masa, kg</TD>
+          <TD vAlign=top width=380 height=12 
+          >&nbsp; </TD></TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >&nbsp;&nbsp;tukša lidaparāta</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;790</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >&nbsp;&nbsp;maksimālā pacelšanās 
+          masa</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;1140</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Dzinēja tips</TD>
+            <TD vAlign=top width=380 height=12 
+          > &nbsp;1x Menasco C4 Pirate</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Dzinēja jauda, z.s.</TD>
+            <TD vAlign=top width=380 height=12 
+          > &nbsp;125</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Maksimālais ātrums, km/h</TD>
+            <TD vAlign=top width=380 height=12 
+          > &nbsp;230</TD>
+          </TR>
+        <TR>
+            <TD vAlign=top width=210  height=12 
+          >Kreiserātrums, km/h</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;189</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Nolidošanas attālums</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;592 km</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Pacelšanās ātrums, m/min</TD>
+          <TD vAlign=top width=380 height=12 
+          >&nbsp;</TD></TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Maksimālais lidojuma augstums</TD>
+            <TD vAlign=top width=380 height=12 
+          >&nbsp;5900</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width=210  height=12 
+          >Ekipāža, cilv.</TD>
+          <TD vAlign=top width=380 height=12 
+          >&nbsp;2</TD></TR></TABLE>
+
+== Ārējās saites ==
+* [http://www.bruninieki.narod.ru/vefi17.html VEF IRBITIS I-17]
+* [http://www.airwar.ru/enc/other2/i17.html VEF IRBITIS I-17]
+
+{{Latvijas lidmašīnas}}
+
+[[Kategorija:VEF izgatavotās lidmašīnas]]

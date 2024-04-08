@@ -1,0 +1,10 @@
+<div style="float:left;border:solid #6ef7a7 1px;margin:1px;">
+{| cellspacing="0" style="width:238px;background:#c5fcdc;"
+| style="width:45px;height:45px;background:#6ef7a7;text-align:center;font-size:14pt;" | '''[[Somu valoda|fi]]'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em;" | Tämä käyttäjä puhuu '''[[:Kategorija:User fi|suomea]]''' '''[[:Kategorija:User fi-N|äidinkielenään]]'''.
+|}</div><includeonly>
+[[Kategorija:User fi|{{PAGENAME}}]]
+[[Kategorija:User fi-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Kategorija:Valodu lietotāju veidnes|fi]]
+</noinclude>

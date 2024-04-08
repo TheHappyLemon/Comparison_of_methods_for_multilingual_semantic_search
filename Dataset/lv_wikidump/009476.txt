@@ -1,0 +1,347 @@
+[[Attēls:EU-Austria.svg|thumb|[[Austrija]]s novietojums]]
+'''[[Austrija]]s administratīvo iedalījumu''' veido [[Austrijas federālās zemes|9&nbsp;federālās zemes]] (''Land'' / ''Bundesland''). Federālās zemes sīkāk tiek iedalītas 79&nbsp;distriktos (''Bezirk'') un 15&nbsp;statūtpilsētās (''Städte mit eigenem Statut'' / ''Statutarstädte''). Savukārt distrikti veido 2093&nbsp;pašvaldības (''Gemeinden''). 
+
+== Administratīvo līmeņu shēma ==
+{| class="wikitable"
+! 1. līmenis !! 2 līmenis !! 3. līmenis !! 4. līmenis 
+|-
+| 9 federālās zemes || 79 distrikti,<br />15 statūtpilsētas || 2093 pašvaldības || 7850 kadastrālās kopienas
+|}
+
+== Pirmā līmeņa administratīvais iedalījums ==
+{{pamatraksts|Austrijas federālās zemes}}
+{| width=500px align=right
+|-
+|
+{{Image label begin|image=Austria location map.svg|width=500|float=none}}
+
+{{Image label small|x=0.770|y=0.140|scale=500|text=[[Lejasaustrija]]}}
+{{Image label small|x=0.890|y=0.190|scale=500|text=[[Vīne]]}}
+{{Image label small|x=0.515|y=0.200|scale=500|text=[[Augšaustrija]]}}
+{{Image label small|x=0.700|y=0.360|scale=500|text=[[Štīrija]]}}
+{{Image label small|x=0.550|y=0.480|scale=500|text=[[Karintija]]}}
+{{Image label small|x=0.850|y=0.360|scale=500|text=[[Burgenlande]]}}
+{{Image label small|x=0.020|y=0.370|scale=500|text=[[Forarlberga]]}}
+{{Image label small|x=0.230|y=0.380|scale=500|text=[[Tirole]]}}
+{{Image label small|x=0.380|y=0.440|scale=500|text=[[Tirole]]}}
+{{Image label small|x=0.430|y=0.370|scale=500|text=[[Zalcburga (zeme)|Zalcburga]]}}
+{{Image label end}}
+|}
+Austrijas pirmā līmeņa administratīvā vienība ir federālā zeme ({{val|de|Länder}}, arī ''Bundesländer''). Austrija administratīvi dalās deviņās federālajās zemēs. Katrai federālajai zemei ir sava vēlēta [[likumdošanas vara]] ([[landtāgs]]). Katrai federālajai zemei ir arī sava [[konstitūcija]], kas nedrīkst būt pretrunā ar [[Austrijas konstitūcija|Austrijas konstitūciju]].
+
+Ir šādas federālās zemes:
+* [[Augšaustrija]]
+* [[Burgenlande]]
+* [[Forarlberga]]
+* [[Karintija]]
+* [[Lejasaustrija]]
+* [[Štīrija]]
+* [[Tirole]]
+* [[Vīne]]
+* [[Zalcburga (zeme)|Zalcburga]]
+
+== Otrā līmeņa administratīvais iedalījums ==
+=== Statūtpilsētas ===
+{{VietasKarte+|Austrija |width=600 |float=center |caption= |places=
+{{VietasKarte~|Austrija |lat=48.21 |long=16.37 |position= top |label='''[[Vīne]]'''}}
+{{VietasKarte~|Austrija |lat=47.07 |long=15.43 |position= top |label=[[Grāca]]}}
+{{VietasKarte~|Austrija |lat=48.30 |long=14.29 |position= top |label=[[Linca]]}}
+{{VietasKarte~|Austrija |lat=47.80 |long=13.03 |position=right|label=[[Zalcburga]]}}
+{{VietasKarte~|Austrija |lat=47.27 |long=11.40 |position= top |label=[[Insbruka]]}}
+{{VietasKarte~|Austrija |lat=46.64 |long=14.31 |position= top |label=[[Klāgenfurte]]}}
+{{VietasKarte~|Austrija |lat=46.64 |long=13.85 |position= left|label=[[Fillaha]]}}
+{{VietasKarte~|Austrija |lat=48.16 |long=14.03 |position= top |label=[[Velsa (Austrija)|Velsa]]}}
+{{VietasKarte~|Austrija |lat=48.20 |long=15.62 |position= bottom |label=[[Sanktpeltene]]}}
+{{VietasKarte~|Austrija |lat=48.04 |long=14.42 |position= top |label=[[Šteire]]}}
+{{VietasKarte~|Austrija |lat=47.88 |long=16.52 |position= top |label=[[Eizenštate]]}}
+{{VietasKarte~|Austrija |lat=48.41 |long=15.62 |position= top |label=[[Kremsa pie Donavas]]}}
+{{VietasKarte~|Austrija |lat=47.80 |long=16.67 |position= bottom |label=[[Rusta]]}}
+{{VietasKarte~|Austrija |lat=47.97 |long=14.77 |position= bottom |label=[[Vaidenhofene pie Ibsas]]}}
+{{VietasKarte~|Austrija |lat=47.82 |long=16.25 |position= left |label=[[Vīnes Noinštate]]}}
+}}
+{| class="sortable wikitable"
+|-
+! Ģerbonis !! Statūtpilsēta !! Nosaukums<br/>vācu valodā !! Platība (km²) !! Iedzīvotāju skaits<br/>(2015) !! Federālā zeme
+|-
+| [[File:Wappen der Stadt Eisenstadt.svg|30px]] ||'''[[Eizenštate]]''' ||''Eisenstadt'' || {{nts|42.84}} || {{nts|13674}} || [[Burgenlande]]
+|-
+| [[File:Villach CoA.svg|30px]] ||'''[[Fillaha]]''' ||''Villach'' || {{nts|134.89}} || {{nts|60480}} || [[Karintija]]
+|-
+| [[File:AUT Graz COA.svg|30px]] ||'''[[Grāca]]''' ||''Graz'' || {{nts|127.46}} || {{nts|273838}} || [[Štīrija]]
+|-
+| [[File:AT Innsbruck COA.svg|30px]] ||'''[[Insbruka]]''' ||''Innsbruck'' || {{nts|104.91}} || {{nts|126851}} || [[Tirole]]
+|-
+| [[File:AUT Klagenfurt COA.svg|30px]] ||'''[[Klāgenfurte]]''' ||''Klagenfurt'' || {{nts|120.03}} || {{nts|97827}} || [[Karintija]]
+|-
+| [[File:Krems Coa.jpg|30px]] ||'''[[Kremsa pie Donavas]]''' ||''Krems an der Donau'' || {{nts|51.61}} || {{nts|23992}} || [[Lejasaustrija]]
+|-
+| [[File:Wappen Linz.svg|30px]] ||'''[[Linca]]''' ||''Linz'' || {{nts|95.99}} || {{nts|197283}} || [[Augšaustrija]]
+|-
+| [[File:Wappen Rust (Burgenland).jpg|30px]] ||'''[[Rusta]]''' ||''Rust'' || {{nts|19.99}} || {{nts|1929}} || [[Burgenlande]]
+|-
+| [[File:AUT Sankt Poelten COA.svg|30px]] ||'''[[Sanktpeltene]]''' ||''Sankt Pölten'' || {{nts|108.48}} || {{nts|52716}} || [[Lejasaustrija]]
+|-
+| [[File:AUT Steyr COA.svg|30px]] ||'''[[Šteire]]''' ||''Steyr'' || {{nts|26.56}} || {{nts|38273}} || [[Augšaustrija]]
+|-
+|  ||'''[[Vaidenhofene pie Ibsas]]''' ||''Waidhofen an der Ybbs'' || {{nts|131.52}} || {{nts|11304}} || [[Lejasaustrija]]
+|-
+| [[File:Wels wappen.jpg|30px]] ||'''[[Velsa (Austrija)|Velsa]]''' ||''Wels'' || {{nts|45.88}} || {{nts|59853}} || [[Augšaustrija]]
+|-
+| [[Attēls:Vienna seal 1926.svg|30px]] ||'''[[Vīne]]''' ||''Wien'' || {{nts|414.65}} || {{nts|1812604}} || Vīne
+|-
+| [[File:Wappen Wiener Neustadt.svg|30px]] ||'''[[Vīnes Noinštate]]''' ||''Wiener Neustadt'' || {{nts|60.93}} || {{nts|43019}} || [[Lejasaustrija]]
+|-
+| [[File:AUT Salzburg (Stadt) COA.svg|30px]] ||'''[[Zalcburga]]''' ||''Salzburg'' || {{nts|65.64}} || {{nts|148256}} || [[Zalcburga (zeme)|Zalcburga]]
+|} 
+
+=== Distrikti ===
+{| class="sortable wikitable"
+|-
+! Karte !! Distrikts !! Nosaukums<br/>vācu valodā !! Administratīvais<br/>centrs !! Platība (km²) !! Iedzīvotāju skaits<br/>(2015) !! Pašvaldību<br/>skaits !! Federālā zeme
+|-
+| [[File:Karte A Noe AM 2017.svg|70px]] ||'''[[Amštetenes distrikts]]''' ||''Bezirk Amstetten'' || [[Amštetene]]
+| {{nts|1187.97}} || {{nts|113470}} || 25 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Noe BN 2017.svg|70px]] ||'''[[Bādenes distrikts]]''' ||''Bezirk Baden'' || [[Bādene pie Vīnes]]
+| {{nts|753.37}} || {{nts|141714}} || 30 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Vlbg BZ.svg|50px]] ||'''[[Blūdencas distrikts]]''' ||''Bezirk Bludenz'' || [[Blūdenca]]
+| {{nts|1287.52}} || {{nts|61541}} || 29 || [[Forarlberga]]
+|-
+| [[File:Karte A Ooe BR.svg|70px]] ||'''[[Braunavas distrikts]]''' ||''Bezirk Braunau'' || [[Braunava pie Innas]]
+| {{nts|1040.38}} || {{nts|99848}} || 46 || [[Augšaustrija]] 
+|-
+| [[File:Karte A Vlbg B.svg|50px]] ||'''[[Brēgencas distrikts]]''' ||''Bezirk Bregenz'' || [[Brēgenca]]
+| {{nts|863.34}} || {{nts|129575}} || 40 || [[Forarlberga]]
+|-
+| [[File:Karte Aut Stmk BM.png|70px]] ||'''[[Brukas-Murčušlāgas distrikts]]''' ||''Bezirk Bruck-Mürzzuschlag''
+| [[Bruka pie Mūras]] || {{nts|2155}} || {{nts|100780}} || 19 || [[Štīrija]]
+|-
+| [[File:Karte A Noe BL 2017.svg|70px]] ||'''[[Brukas pie Laitas distrikts]]''' ||''Bezirk Bruck an der Leitha''
+| [[Bruka pie Laitas]] || {{nts|494.95}} || {{nts|44013}} || 20 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Noe ZT 2017.svg|70px]] ||'''[[Cvetles distrikts]]''' ||''Bezirk Zwettl'' || [[Cvetle]]
+| {{nts|1399.76}} || {{nts|42938}} || 34 || [[Lejasaustrija]] 
+|-
+| [[File:Karte Aut Stmk DL.png|70px]] ||'''[[Doičlandsbergas distrikts]]''' ||''Bezirk Deutschlandsberg''
+| [[Doičlandsberga]] || {{nts|864}} || {{nts|60410}} || 15|| [[Štīrija]]
+|-
+| [[File:Karte A Vlbg DO.svg|50px]] ||'''[[Dornbirnes distrikts]]''' ||''Bezirk Dornbirn'' || [[Dornbirne]]
+| {{nts|172.37}} || {{nts|84988}} || 3 || [[Forarlberga]]
+|-
+| [[File:Karte A Ooe EF.svg|70px]] ||'''[[Eferdingas distrikts]]''' ||''Bezirk Eferding'' || [[Griskirhene]]<!--sic!-->
+| {{nts|259.46}} || {{nts|32199}} || 12 || [[Augšaustrija]] 
+|-
+| [[File:Karte A Bgld EU.svg|40px]] ||'''[[Eizenštates apkārtnes distrikts]]''' ||''Bezirk Eisenstadt-Umgebung''
+| [[Eizenštate]] || {{nts|453}} || {{nts|41645}} || 23 || [[Burgenlande]]
+|-
+| [[File:Karte A Ooe VB.svg|70px]] ||'''[[Feklabrukas distrikts]]''' ||''Bezirk Vöcklabruck'' || [[Feklabruka]]
+| {{nts|1084.26}} || {{nts|132545}} || 52 || [[Augšaustrija]]
+|-
+| [[File:Karte A Vlbg FK.svg|50px]] ||'''[[Feldkirhas distrikts]]''' ||''Bezirk Feldkirch'' || [[Feldkirha]]
+| {{nts|278.26}} || {{nts|102386}} || 24 || [[Forarlberga]]
+|-
+| [[File:Karte A Ktn FE.svg|70px]] ||'''[[Feldkirhenes distrikts]]''' ||''Bezirk Feldkirchen'' || [[Feldkirhene]]
+| {{nts|559}} || {{nts|30056}} || 10 || [[Karintija]]
+|-
+| [[File:Karte A Ooe FR.svg|70px]] ||'''[[Freištates distrikts]]''' ||''Bezirk Freistadt'' || [[Freištate]]
+| {{nts|993.86}} || {{nts|65254}} || 27 || [[Augšaustrija]] 
+|-
+| [[File:Karte A Noe GF.svg|70px]] ||'''[[Genzerndorfas distrikts]]''' ||''Bezirk Gänserndorf'' || [[Genzerndorfa]]
+| {{nts|1271.31}} || {{nts|98626}} || 44 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Noe GD 2017.svg|70px]] ||'''[[Gmindes distrikts]]''' ||''Bezirk Gmünd'' || [[Gminde (Lejasaustrija)|Gminde]]
+| {{nts|786.24}} || {{nts|37342}} || 21 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Ooe GM.svg|70px]] ||'''[[Gmundenes distrikts]]''' ||''Bezirk Gmunden'' || [[Gmundene]]
+| {{nts|1433}} || {{nts|99892}} || 20 || [[Augšaustrija]] 
+|-
+| [[File:Karte Aut Stmk GU.png|70px]] ||'''[[Grācas apkārtnes distrikts]]''' ||''Bezirk Graz-Umgebung'' || [[Grāca]]
+| {{nts|1086}} || {{nts|147081}} || 57 || [[Štīrija]]
+|-
+| [[File:Karte A Ooe GR.svg|70px]] ||'''[[Griskirhenes distrikts]]''' ||''Bezirk Grieskirchen'' || [[Griskirhene]]
+| {{nts|578.99}} || {{nts|63393}} || 34 || [[Augšaustrija]] 
+|-
+| [[File:Karte A Bgld GS.svg|40px]] ||'''[[Gūsingas distrikts]]''' ||''Bezirk Güssing'' || [[Gūsinga]]
+| {{nts|485}} || {{nts|26248}} || 28 || [[Burgenlande]]
+|-
+| [[File:Karte A Ktn VK.svg|70px]] ||'''[[Felkermarktes distrikts]]''' ||''Bezirk Völkermarkt'' || [[Felkermarkte]]
+| {{nts|907.49}} || {{nts|42070}} || 19 || [[Karintija]]
+|-
+| [[File:Karte A Ktn VL.svg|70px]] ||'''[[Fillahas lauku distrikts]]''' ||''Bezirk Villach Land''<!--sic!-->
+| [[Fillaha]] || {{nts|1009.33}} || {{nts|64292}} || 19 || [[Karintija]]
+|-
+| [[File:Karte Aut Stmk VO.png|70px]] ||'''[[Foitsbergas distrikts]]''' ||''Bezirk Voitsberg'' || [[Foitsberga]]
+| {{nts|678.20}} || {{nts|51691}} || 15 || [[Štīrija]]
+|-
+| [[File:Karte A Sbg HA.svg|70px]] ||'''[[Halleinas distrikts]]''' ||''Bezirk Hallein'' || [[Halleina]]
+| {{nts|668.31}} || {{nts|58883}} || 13 || [[Zalcburga (zeme)|Zalcburga]]
+|-
+| [[File:Karte Aut Stmk HF.png|70px]] ||'''[[Hartbergas-Firstenfeldes distrikts]]''' ||''Bezirk Hartberg-Fürstenfeld''
+|| [[Hartberga]]
+| {{nts|1228}} || {{nts|90357}} || 63 || [[Štīrija]]
+|-
+| [[File:Karte A Ktn HE.svg|70px]] ||'''[[Hermagoras distrikts]]''' ||''Bezirk Hermagor'' || [[Hermagora]]
+| {{nts|808.02}} || {{nts|18462}} || 7 || [[Karintija]]
+|-
+| [[File:Karte A Noe HL 2017.svg|70px]] ||'''[[Hollabrunnas distrikts]]''' ||''Bezirk Hollabrunn'' || [[Hollabrunna]]
+| {{nts|1010.72}} || {{nts|50218}} || 24 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Noe HO 2017.svg|70px]] ||'''[[Hornas distrikts]]''' ||''Bezirk Horn'' || [[Horna]]
+| {{nts|783.99}} || {{nts|31212}} || 20 || [[Lejasaustrija]] 
+|-
+| [[File:Karte A Tirol IM.svg|70px]] ||'''[[Imstes distrikts]]''' ||''Bezirk Imst'' || [[Imste]]
+| {{nts|1725}} || {{nts|57.623}} || 24 || [[Tirole]]
+|-
+| [[File:Karte A Tirol IL.svg|70px]] ||'''[[Insbrukas lauku distrikts]]''' ||''Bezirk Innsbruck-Land'' || [[Insbruka]]
+| {{nts|1990.09}} || {{nts|171978}} || 65 || [[Tirole]]
+|-
+| [[File:Karte A Bgld JE.svg|40px]] ||'''[[Jenersdorfas distrikts]]''' ||''Bezirk Jennersdorf'' || [[Jenersdorfa]]
+| {{nts|253}} || {{nts|17201}} || 12 || [[Burgenlande]]
+|-
+| [[File:Karte A Tirol KB.svg|40px]] ||'''[[Kicbīeles distrikts]]''' ||''Bezirk Kitzbühel'' || [[Kicbīele]]
+| {{nts|1163.28}} || {{nts|62559}} || 20 || [[Tirole]]
+|-
+| [[File:Karte A Ooe KI.svg|70px]] ||'''[[Kirhdorfas distrikts]]''' ||''Bezirk Kirchdorf'' || [[Kirhdorfa pie Kremsas]]
+| {{nts|1240}} || {{nts|55787}} || 23 || [[Augšaustrija]] 
+|-
+| [[File:Karte A Ktn KL.svg|70px]] ||'''[[Klāgenfurtes lauku distrikts]]''' ||''Bezirk Klagenfurt Land''<!--sic!-->
+| [[Klāgenfurte]] || {{nts|765.59}} || {{nts|58662}} || 19 || [[Karintija]]
+|-
+| [[File:Karte A Noe KO 2017.svg|70px]] ||'''[[Korneiburgas distrikts]]''' ||''Bezirk Korneuburg'' || [[Korneiburga]]
+| {{nts|626.50}} || {{nts|76891}} || 19 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Noe KR 2017.svg|70px]] ||'''[[Kremsas lauku distrikts]]''' ||''Bezirk Krems (Land)'' ||[[Kremsa pie Donavas]]
+| {{nts|923.95}} || {{nts|56268}} || 30 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Tirol KU.svg|70px]] ||'''[[Kufšteinas distrikts]]''' ||''Bezirk Kufstein'' || [[Kufšteina]]
+| {{nts|969.90}} || {{nts|104200}} || 30 || [[Tirole]]
+|-
+| [[File:Karte A Tirol LA.svg|70px]] ||'''[[Landekas distrikts]]''' ||''Bezirk Landeck'' || [[Landeka]]
+| {{nts|1595}} || {{nts|43886}} || 30 || [[Tirole]]
+|-
+| [[File:Karte Aut Stmk LB.png|70px]] ||'''[[Leibnicas distrikts]]''' ||''Bezirk Leibnitz'' || [[Leibnica]]
+| {{nts|726.95}} || {{nts|80434}} || 29 || [[Štīrija]]
+|-
+| [[File:Karte Aut Stmk LN.png|70px]] ||'''[[Leobenes distrikts]]''' ||''Bezirk Leoben'' || [[Leobene]]
+| {{nts|1052}} || {{nts|60941}} || 17 || [[Štīrija]]
+|-
+| [[File:Karte A Noe LF 2017.svg|70px]] ||'''[[Lilienfeldes distrikts]]''' ||''Bezirk Lilienfeld'' || [[Lilienfelde]]
+| {{nts|931.55}} || {{nts|26056}} || 14 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Ooe LL.svg|70px]] ||'''[[Lincas lauku distrikts]]''' ||''Bezirk Linz-Land'' || [[Linca]]
+| {{nts|460.25}} || {{nts|142829}} || 22 || [[Augšaustrija]]
+|-
+| [[File:Karte Aut Stmk LI.png|70px]] ||'''[[Līcenes distrikts]]''' ||''Bezirk Liezen'' || [[Līcane]]
+| {{nts|3317}} || {{nts|79535}} || 29 || [[Štīrija]]
+|-
+| [[File:Karte A Tirol LZ.svg|70px]] ||'''[[Līencas distrikts]]''' ||''Bezirk Lienz'' || [[Līenca]]
+| {{nts|2019.87}} || {{nts|48879}} || 33 || [[Tirole]]
+|-
+| [[File:Karte A Bgld MA.svg|40px]] ||'''[[Matersburgas distrikts]]''' ||''Bezirk Mattersburg'' || [[Matersburga]]
+| {{nts|238}} || {{nts|39348}} || 19 || [[Burgenlande]]
+|-
+| [[File:Karte A Noe ME 2017.svg|70px]] ||'''[[Melkas distrikts]]''' ||''Bezirk Melk'' || [[Melka]]
+| {{nts|1013.62}} || {{nts|76785}} || 40 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Noe MD 2017.svg|70px]] ||'''[[Mēdlingas distrikts]]''' ||''Bezirk Mödling'' || [[Mēdlinga]]
+| {{nts|277.02}} || {{nts|116837}} || 20 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Noe MI 2017.svg|70px]] ||'''[[Mistelbahas distrikts]]''' ||''Bezirk Mistelbach'' || [[Mistelbaha]]
+| {{nts|1291.30}} || {{nts|74434}} || 36 || [[Lejasaustrija]]
+|-
+| [[File:Karte Aut Stmk MU.png|70px]] ||'''[[Mūravas distrikts]]''' ||''Bezirk Murau'' || [[Mūrava (Austrija)|Mūrava]]
+| {{nts|1384.14}} || {{nts|28488}} || 34 || [[Štīrija]]
+|-
+| [[File:Karte Aut Stmk MT.PNG|70px]] ||'''[[Mūrtalas distrikts]]''' ||''Bezirk Murtal'' || [[Jūdenburga]]
+| {{nts|1675.38}} || {{nts|72876}} || 20 || [[Štīrija]]
+|-
+| [[File:Karte A Noe NK 2017.svg|70px]] ||'''[[Neikirhenes distrikts]]''' ||''Bezirk Neunkirchen'' || [[Neikirhene]]
+| {{nts|1146}} || {{nts|85733}} || 44 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Bgld ND.svg|40px]] ||'''[[Neizīdles distrikts]]''' ||''Bezirk Neusiedl am See'' || [[Neizīdle]]
+| {{nts|1039}} || {{nts|56985}} || 27 || [[Burgenlande]]
+|-
+| [[File:Karte A Bgld OP.svg|40px]] ||'''[[Oberpullendorfas distrikts]]''' ||''Bezirk Oberpullendorf'' ||[[Oberpullendorfa]]
+| {{nts|701}} || {{nts|37616}} || 28 || [[Burgenlande]]
+|-
+| [[File:Karte A Bgld OW.svg|40px]] ||'''[[Obervartes distrikts]]''' ||''Bezirk Oberwart'' || [[Obervarte]]
+| {{nts|733}} || {{nts|53583}} || 32 || [[Burgenlande]]
+|-
+| [[File:Karte A Ooe PE.svg|70px]] ||'''[[Pergas distrikts]]''' ||''Bezirk Perg'' || [[Perga]]
+| {{nts|613.18}} || {{nts|66663}} || 26 || [[Augšaustrija]]
+|-
+| [[File:Karte A Tirol RE.svg|70px]] ||'''[[Reites distrikts]]''' ||''Bezirk Reutte'' || [[Reite]]
+| {{nts|1236.82}} || {{nts|31691}} || 37 || [[Tirole]] 
+|-
+| [[File:Karte A Ooe RI.svg|70px]] ||'''[[Rīdes distrikts]]''' ||''Bezirk Ried im Innkreis'' || [[Rīde]]
+| {{nts|585.01}} || {{nts|59086}} || 36 || [[Augšaustrija]]
+|-
+| [[File:Karte A Ooe RO.svg|70px]] ||'''[[Rorbahas distrikts]]''' ||''Bezirk Rohrbach'' || [[Rorbaha]]
+| {{nts|827.95}} || {{nts|56413}} || 39 || [[Augšaustrija]]
+|-
+| [[File:Karte A Ktn SV.svg|70px]] ||'''[[Sanktfaitas distrikts]]''' ||''Bezirk Sankt Veit an der Glan'' || [[Sanktfaita]]
+| {{nts|1493.67}} || {{nts|55340}} || 20 || [[Karintija]]
+|-
+| [[File:Karte A Sbg JO.svg|70px]] ||'''[[Sanktjohannas distrikts]]''' ||''Bezirk St. Johann im Pongau''
+| [[Sanktjohanna]] || {{nts|1755.37}} || {{nts|78843}} || 25 || [[Zalcburga (zeme)|Zalcburga]]
+|-
+| [[File:Karte A Noe KR 2017.svg|70px]] ||'''[[Sanktpeltenes lauku distrikts]]''' ||''Sankt Pölten (Land)'' ||[[Sanktpeltene]]
+| {{nts|1121.61}} || {{nts|97870}} || 39 || [[Lejasaustrija]]
+|-
+| [[File:Karte Aut Stmk SO.png|70px]] ||'''[[Sudetu Štīrijas distrikts]]''' ||''Bezirk Südoststeiermark'' || [[Feldbaha]]
+| {{nts|1009}} || {{nts|85887}} || 26 || [[Štīrija]]
+|-
+| [[File:Karte A Noe SB 2017.svg|70px]] ||'''[[Šeibses distrikts]]''' ||''Bezirk Scheibbs'' || [[Šeibse]]
+| {{nts|1023}} || {{nts|41058}} || 18 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Ooe SD.svg|70px]] ||'''[[Šerdingas distrikts]]''' ||''Bezirk Schärding'' || [[Šerdinga]]
+| {{nts|618.49}} || {{nts|56490}} || 30 || [[Augšaustrija]]
+|-
+| [[File:Karte A Ktn SP.svg|70px]] ||'''[[Špitāles distrikts]]''' ||''Bezirk Spittal an der Drau'' || [[Špitāle]]
+| {{nts|2765.59}} || {{nts|76734}} || 33 || [[Karintija]]
+|-
+| [[File:Karte A Ooe SE.svg|70px]] ||'''[[Šteires lauku distrikts]]''' ||''Bezirk Steyr-Land'' || [[Šteire]]
+| {{nts|972}} || {{nts|58898}} || 20 || [[Augšaustrija]]
+|-
+| [[File:Karte A Tirol SZ.svg|70px]] ||'''[[Švāces distrikts]]''' ||''Bezirk Schwaz'' || [[Švāce]]
+| {{nts|1843}} || {{nts|80870}} || 39 || [[Tirole]]
+|-
+| [[File:Karte A Sbg TA.svg|70px]] ||'''[[Tamsvegas distrikts]]''' ||''Bezirk Tamsweg'' || [[Tamsvega]]
+| {{nts|1004.36}} || {{nts|20453}} || 15 || [[Zalcburga (zeme)|Zalcburga]]
+|-
+| [[File:Karte A Noe TU 2017.svg|70px]] ||'''[[Tullnes distrikts]]''' ||''Bezirk Tulln'' || [[Tullne pie Donavas]]
+| {{nts|658.03}} || {{nts|72899}} || 21 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Ooe UU.svg|70px]] ||'''[[Urfahras apkārtnes distrikts]]''' ||''Bezirk Urfahr-Umgebung''
+| [[Linca]] || {{nts|649.33}} || {{nts|82799}} || 27 || [[Augšaustrija]]
+|-
+| [[File:Karte A Noe WT 2017.svg|70px]] ||'''[[Vaidhofenas pie Taijas distrikts]]''' ||''Bezirk Waidhofen an der Thaya'' || [[Vaidhofena pie Taijas]]
+| {{nts|669.14}} || {{nts|26316}} || 15 || [[Lejasaustrija]]
+|-
+| [[File:Karte Aut Stmk WZ.png|70px]] ||'''[[Veicas distrikts]]''' ||''Bezirk Weiz'' || [[Veica]]
+| {{nts|1098}} || {{nts|88696}} || 54 || [[Štīrija]]
+|-
+| [[File:Karte A Ooe WL.svg|70px]] ||'''[[Velsas lauku distrikts]]''' ||''Bezirk Wels-Land'' || [[Velsa (Austrija)|Velsa]]
+| {{nts|457.66}} || {{nts|69286}} || 24 || [[Augšaustrija]]
+|-
+| [[File:Karte A Noe WB 2017.svg|70px]] ||'''[[Vīnes Noinštates lauku distrikts]]''' ||''Bezirk Wiener Neustadt (Land)'' || [[Vīnes Noinštate]]
+| {{nts|970}} || {{nts|75942}} || 35 || [[Lejasaustrija]]
+|-
+| [[File:Karte A Ktn WO.svg|70px]] ||'''[[Volfsbergas distrikts]]''' ||''Bezirk Wolfsberg'' || [[Volfsberga]]
+| {{nts|973.79}} || {{nts|53448}} || 9 || [[Karintija]]
+|-
+| [[File:Karte A Sbg SL.svg|70px]] ||'''[[Zalcburgas apkārtnes distrikts]]''' ||''Bezirk Salzburg-Umgebung'' ||[[Zalcburga]] 
+| {{nts|1004.36}} || {{nts|146350}} || 37 || [[Zalcburga (zeme)|Zalcburga]]
+|-
+| [[File:Karte A Sbg ZE.svg|70px]] ||'''[[Zellas distrikts]]''' ||''Bezirk Zell am See'' || [[Zella]]
+| {{nts|2640.85}} || {{nts|85473}} || 28 || [[Zalcburga (zeme)|Zalcburga]]
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Eiropas valstu administratīvie iedalījumi}}
+
+[[Kategorija:Austrijas administratīvais iedalījums| ]]
+[[Kategorija:Valstu administratīvais iedalījums]]

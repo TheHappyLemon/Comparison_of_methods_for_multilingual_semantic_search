@@ -1,0 +1,24 @@
+{{Bruņu mašīnas infokaste 
+|     nosaukums=Tips 88 (ZTZ-88)
+|        attēls=[[Attēls:Chinese Type 80-ІІ Tank.jpg|300px]]
+|    virsraksts=
+|       apkalpe=4
+|        garums=6,325 m
+|       platums=3,372 m
+|      augstums=2,296... 2,874 m
+|          masa=38,5 t
+|        bruņas=20-203 mm
+|     primārais=105 mm [[lielgabals]] "83"
+|   sekundārais=7.62 mm [[Ložmetējs|ložmetēji]] un 12.7&nbsp;mm [[zenītložmetējs]]
+|       dzinējs=12-cilindru 12150L7BW [[dīzeļdzinējs]] 
+| dzinēja_jauda=730 zs 
+|ātrums_uz ceļa=60 km/h
+| zs_koeficents=	18,96 zs/t
+|maks. attālums=440 km 
+}}
+'''Tips 88 (ZTZ-88)''' ir [[Ķīna|ķīniešu]] [[kaujas pamattanks]]. Pēc tanka [[Tips 80|Tips 80-II]] vispusīgiem izmēģinājumiem tika radīta viņa sērijveida modifikācija "Tips 88", kuru arī pieņēma Ķīnas Sauszemes spēku bruņojumā.
+
+Vispārējā tanka konstrukcija palika nemainīga, tāda pati kā [[Tips 80|Tips 80-II]]. Galvenās ārējās atšķirības: dūmu granātmetēju bloki ir novietoti citādi, kā arī restoto ekrānu neesamība uz torņa (ir atstāta tikai kaste torņa mugurdaļā). Ir informācija, ka tas ir izdarīts tādēļ, lai atstātu vietu dinamiskās aizsardzības bloku piestiprināšanai (FY tipa). Apbruņojums, lādiņi, bruņojums, dzinējs, transmisija — viss kā uz [[Tips 80|Tips 80-II]].
+
+{{Militārisms-aizmetnis}}
+[[Kategorija:Ķīnas Tautas Republikas tanki]]

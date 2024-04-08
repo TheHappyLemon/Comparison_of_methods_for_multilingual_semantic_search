@@ -1,0 +1,65 @@
+{{Citas nozīmes|upi|Mēmele (nozīmju atdalīšana)|Mēmele}}
+{{Upes infokaste 
+| nosaukums         = Mēmele
+| citvalsts         = Lietuva
+| citnosaukums      = Nemunēle
+| citvaloda         = lt
+| citvaloriģin      = Nemunėlis
+| attēls            = 4201NemunelisBauskeje.jpg
+| attēla_izmērs     = 
+| paraksts          = Mēmele pie [[Bauska]]s
+  | karte             = Latvijas upe Memele karte.png
+  | kartes_paraksts   = Mēmele, [[Lielupe]] un [[Babītes ezers]]
+  | kartes_izmērs     = 
+| izteka            = [[Lūšnas ezers]]
+| augštece          = Lūšna
+| satekupes         = 
+| ieteka            = [[Lielupe]]
+| sāk_plat_d=55 | sāk_plat_m=54 | sāk_plat_s=36 | sāk_plat_NS=N 
+| sāk_gar_d=25 | sāk_gar_m=36 | sāk_gar_s=09 | sāk_gar_EW=E 
+| iet_plat_d=56 | iet_plat_m=24 | iet_plat_s=09 | iet_plat_NS=N 
+| iet_gar_d=24 | iet_gar_m=09 | iet_gar_s=26 | iet_gar_EW=E 
+| baseina_valstis   = {{LAT}}<br />{{LTU}}
+| tek_caur          = 
+| garums            = 191
+| garums_latvijā    = 116
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 97
+| caurtece          = 95
+| gada_notece       = 0,98
+| baseins           = 4060,0
+| baseins_latvijā   = 2075,1
+| pietekas          = [[Dienvidsusēja]], [[Viesīte (upe)|Viesīte]]
+}}
+'''Mēmele''' , [[Lietuva]]s teritorijā saukta '''Nemunēle''' ({{val|lt|Nemunėlis}}), ir [[upe]] Lietuvā un [[Latvija|Latvijā]]. Tās garums ir 191 km (Latvijā 40 km), [[kritums]] 97 m (0,5 m/km). Sākas Lietuvā pie [[Rokišķi]]em, lejastecē tā 76 km tek pa Latvijas — Lietuvas robežu. Bauskā (lejpus [[Bauskas pilskalns|Bauskas pilskalna]]) satekot ar [[Mūsa|Mūsu]], veido [[Lielupe|Lielupi]] (labā krasta satekupe).
+
+== Pietekas ==
+* Apašča (Lietuvā)
+* Vīžona (Lietuvā)
+* [[Dienvidsusēja]] (114 km)
+* [[Viesīte (upe)|Viesīte]] (59 km) 
+* [[Neretiņa]] (25 km) 
+* Rīkonu strauts (18 km)
+* Žūru strauts (9 km)
+* Saules strauts (7 km)
+
+== Ārējās saites ==
+* [http://vietvardi.lgia.gov.lv/vv/to_www_obj.objekts?p_id=96646&p_back=0** LĢIA vietvārdu datubāze]
+* [https://web.archive.org/web/20070310181616/http://www.copeslapa.lv/udns/memele.htm Mēmele] (copeslapa.lv)
+* [https://web.archive.org/web/20060526092024/http://campo.laivas.lv/lv/marsruti/Zemgale/?pg=Memele Mēmele] Campo maršruti
+
+{{Latvijas ģeogrāfija-aizmetnis}}
+
+{{Lielupes pietekas}}
+{{Mēmeles pietekas|nocat=yes}}
+
+[[Kategorija:Latvijas robežupes]]
+[[Kategorija:Aizkraukles novada upes]]
+[[Kategorija:Bauskas novada upes]]
+[[Kategorija:Brunavas pagasts]]
+[[Kategorija:Ceraukstes pagasts]]
+[[Kategorija:Lietuvas upes]]
+[[Kategorija:Lielupes baseina upes]]
+[[Kategorija:Mēmele]]
+[[Kategorija:Bauska]]

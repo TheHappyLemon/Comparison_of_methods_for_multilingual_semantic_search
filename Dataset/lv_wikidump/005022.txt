@@ -1,0 +1,54 @@
+{{Futbola izlases infokaste |
+ Name        = Lihtenšteinas futbola izlase |
+ Badge      =|
+ FIFA Trigramme   = LIE |
+ FIFA Rank   = 149 |
+ Elo Rank    = 169 |
+ FIFA max = 118 |
+ FIFA max date = [[2008. gads|2008]] |
+ FIFA min = 165 |
+ FIFA min date  = [[1998]] |
+ Nickname      =  |
+ Association   = [[Lihtenšteinas Futbola asociācija]] |
+ Confederation = [[UEFA]] |
+ Coach         = {{flaga|Vācija}} [[Konrāds Finfstiks]] |
+ Captain       = [[Nikolass Haslers]] |
+ Most caps     = [[Peters Jēle]] (132) |
+ Top scorer    = [[Mario Friks]] (16) |
+ Home Stadium  =  |
+
+ pattern_la1=_whiteshoulders|pattern_b1=|pattern_ra1=_whiteshoulders|
+ leftarm1=0000CD|body1=0000CD|rightarm1=0000CD|shorts1=FF0000|socks1=0000CD|
+ pattern_la2=_whiteshoulders|pattern_b2=|pattern_ra2=_whiteshoulders|
+ leftarm2=FF0000|body2=FF0000|rightarm2=FF0000|shorts2=0000CD|socks2=FF0000|
+
+First game         = {{flaga|Lihtenšteina}} Lihtenšteina 0 - 1 [[Šveices futbola izlase|Šveice]] {{flaga|Šveice}}<br />([[Balcere]], [[Lihtenšteina]]; {{dat|1982|3|9|SK}})  |
+  Largest win        = {{flaga|Luksemburga}} [[Luksemburgas futbola izlase|Luksemburga]] 0 - 4 Lihtenšteina {{flaga|Lihtenšteina}} <br />([[Luksemburga (pilsēta)|Luksemburga]], [[Luksemburga]]; {{dat|2004|10|13|SK}})  |
+  Largest loss       = {{flaga|Lihtenšteina}} Lihtenšteina 1 - 11 [[Maķedonijas futbola izlase|Maķedonija]] {{flaga|Maķedonija}}<br />([[Ešena-Maurena]], [[Lihtenšteina]]; {{dat|1996|11|9|SK}})  |
+  no World cup apps     = none |
+  Regional name      = [[European Football Championship|European Championship]] |
+  no Regional cup apps  = none |
+
+}}
+
+'''Lihtenšteinas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Lihtenšteina|Lihtenšteinas valsti]] starptautiskās futbola sacensībās. Lihtenšteinas futbola izlasi pārvalda [[Lihtenšteinas Futbola asociācija]]. Lihtenšteinas izlase ir viena no vājākajām [[Eiropa]]s valstu izlasēm, un tā nekad nav kvalificējusies ne [[FIFA Pasaules kauss|Pasaules]], ne [[Eiropas čempionāts futbolā|Eiropas]] čempionātu finālturnīriem. Lielākais Lihtenšteinas futbola panākums ir izlases izcīnītais neizšķirts 2-2 pret spēcīgo [[Portugāles futbola izlase|Portugāles izlasi]] [[2006. gada FIFA Pasaules kauss|2006. gada Pasaules kausa]] kvalifikācijas turnīrā.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1990. gada FIFA Pasaules kauss|1990]] - ''Nepiedalījās''
+* [[1994. gada FIFA Pasaules kauss|1994]] - ''Izstājās kvalifikācijas turnīra laikā''
+* [[1998. gada FIFA Pasaules kauss|1998]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+*[[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1992. gada Eiropas čempionāts futbolā|1992]] - ''Nepiedalījās''
+* [[1996. gada Eiropas čempionāts futbolā|1996]]-[[2020. gada Eiropas čempionāts futbolā|2020]] - ''Nekvalificējās''
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Futbols Lihtenšteinā|Izlase]]

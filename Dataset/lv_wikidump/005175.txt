@@ -1,0 +1,87 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Malme
+ | official_name            = ''Malmö''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Malmö collage.PNG
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Malmö.gif
+ | image_seal               = 
+ | image_shield             = Malmö fulla vapen.svg
+ | shield_size = 70px
+ | pushpin_map              = Zviedrija
+ | pushpin_label_position   = 
+ | latd  = 55 | latm  = 35 | lats  =  | latNS  = N
+ | longd = 13 | longm = 02 | longs =  | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Zviedrija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Skone]]
+ | subdivision_type2        = Lēnis
+ | subdivision_name2        = [[Skones lēnis]]
+ | subdivision_type3        = 
+ | subdivision_name3        = 
+ | area_total_km2           = 158.39
+ | area_total_sq_mi         = 
+ | area_land_km2            = 156.87
+ | area_land_sq_mi          = 
+ | area_water_km2           = 1.52
+ | population_total         = 303873
+ | population_as_of         = {{dat|2012|3|31|SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Centrāleiropas laiks|CET]]
+ | utc_offset               = +1
+ | timezone_DST             = [[CEST]]
+ | utc_offset_DST           = +2
+ | website                  = {{URL|http://www.malmo.se/}}
+ | footnotes                = 
+}}
+'''Malme''' ({{val|sv|Malmö}}) ir pilsēta [[Zviedrija]]s galējos dienvidos — [[Skone|Skonē]], [[Ēresunds|Ēresunda]] šauruma krastā. Šauruma otrā krastā atrodas [[Dānija]]s galvaspilsēta [[Kopenhāgena]], ar kuru Malme veido kopīgu aglomerāciju. Kopš 2000. gada abas pilsētas savieno tilts. Pilsētā ir bāzēts ''[[Allsvenskan (futbols)|Allsvenskan]]'' futbola līgas klubs [[Malmes FF]].
+
+Viena no rūpnieciski visattīstītākajām pilsētām Zviedrijā (piemēram, kuģu būves uzņēmums ''Kockums''). Tomēr 20. gadsimta otrajā pusē piedzīvojusi [[saimniecība]]s [[lejupslīde (ekonomika)|lejupslīdi]] — 1995. gadā Malmē procentuāli bija vislielākais bezdarbnieku skaits Zviedrijā.{{nepieciešama atsauce}}
+
+== Vēsture ==
+Pilsētu dibināja [[Dānija|dāņi]] 13. gadsimtā. 15. gadsimtā tā kļuva par vienu no svarīgākajām Dānijas ostām. 1437. gadā Dānijas karalis [[Pomerānijas Ēriks]] piešķīra pilsētai ģerboni. No 1527. līdz 1529. gadam Malmē nostiprinājās [[luterticība]].
+
+1658. gadā, pamatojoties uz [[Roskildes līgums|Roskildes līgumu]], Skone, tātad arī Malme, tika iekļauta Zviedrijas sastāvā. 1677. gadā dāņi aplenca Malmi, cenšoties to atgūt, tomēr tas neizdevās.
+
+19. gadsimta vidū, pateicoties dzelzceļa un kuģubūves attīstībai, Malme strauji uzplauka. 1971. gadā Malme sasniedza iedzīvotāju skaita maksimumu, pēc kura, sākoties saimniecības lejupslīdei un iedzīvotājiem pārceļoties uz piepilsētas pašvaldībām, tas sāka samazināties. Pilsētas saimniecības stāvoklis sāka uzlaboties tikai 20. gadsimta beigās.
+
+== Cilvēki ==
+Malmē vai tās apkārtnē dzimuši:
+
+* [[Anita Ekberga]] (''Anita Ekberg''; 1931), aktrise;
+* [[Zlatans Ibrahimovičs]] (''Zlatan Ibrahimović''; 1981), futbolists;
+* [[Pērs Albins Hānsons]] (''Per Albin Hansson''; 1885—1946), politiķis;
+* [[Lukass Mudisons]] (''Lukas Moodysson''; 1969), kinorežisors;
+* [[Mikaels Pernforss]] (''Mikael Pernfors''; 1963), tenisists;
+* [[Baltzars fon Plātens]] (''Baltzar von Platen''; 1898—1984), izgudrotājs;
+* [[Kristians Vilhelmsons]] (''Christian Wilhelmsson''; 1979), futbolists.
+
+== Sadraudzības pilsētas ==
+Malmes sadraudzības pilsētas ir <ref>https://malmo.se/Sa-arbetar-vi-med.../Omvarld/Strategiskt-omvarldsarbete/Vanorter.html</ref>:
+
+* {{flaga|Austrālija}} [[Portadelaida Enfīlda]], Austrālija
+* {{flaga|Vācija}} [[Štrālzunde]], Vācija
+* {{flaga|Polija}} [[Ščecina]], Polija
+* {{flaga|Igaunija}} [[Tallina]], Igaunija
+* {{flaga|Ķīna}} [[Tanšaņa]], Ķīna
+* {{flaga|Somija}} [[Vāsa (pilsēta)]], Somija
+* {{flaga|Bulgārija}} [[Varna]], Bulgārija
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+
+
+[[Kategorija:Zviedrijas pilsētas]]

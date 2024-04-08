@@ -1,0 +1,94 @@
+{{Latvijas novada infokaste
+| nosaukums         = Ilzenes pagasts
+| karte             = Ilzenes_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Ilzenes pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Ilzenes pagasta ģerbonis
+| karoga_attēls     = Vlag ontbreekt 2×1.svg
+| karoga_nosaukums  = Ilzenes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Jaunzemi (Ilzenes pagasts)
+| platība           = 62,5
+| iedzīvotāji       = 389<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|24||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }} {{Webarchive|url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |date={{dat|2016|10|20||bez}} }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = 
+{{#expr: 4389 / 62.5 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Ilsen<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Ильзенская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Ilzenes pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] teritoriālajām vienībām tā dienvidrietumos. Robežojas ar sava novada [[Alsviķu pagasts|Alsviķu]] un [[Zeltiņu pagasts|Zeltiņu]] pagastiem, [[Smiltenes novads|Smiltenes novada]] [[Trapenes pagasts|Trapenes pagastu]] un [[Gulbenes novads|Gulbenes novada]] [[Lejasciema pagasts|Lejasciema pagastu]]. Pagasta centrs atrodas [[Jaunzemi (Ilzenes pagasts)|Jaunzemos]]. Vēsturiskais pagasta centrs ir [[Čonkas]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Dzirnavupīte (Baltiņupes pieteka)|Dzirnavupīte]], [[Iežupe]], [[Melnupe]], [[Pātraža]].
+
+==== Ezeri ====
+[[Lielsloku ezers]]
+
+== Vēsture ==
+[[1905. gada revolūcija Latvijā|1905. gada revolūcijas]] laikā notika kaujas pie Lielsloku mājām un pie [[Melnupe (Mustjegi pieteka)|Melnupes]] tilta. 
+Pēc [[1920. gada agrārā reforma|1920. gada agrāras reformas]] [[Ilzenes muiža|Ilzenes muižu]] (''Ilsen'') sadalīja 82 vienībās 1840,54 ha platībā, no kurām 14 bija rentes mājas, bet [[Ādama muiža|Ādama muižu]] (''Schwarzbeckshof'') sadalīja 45 vienībās 699,13 ha platībā, no kurām 4 bija rentes mājas.<ref>[[Latviešu konversācijas vārdnīca]]s VII sējuma 12583-12584 slejas. Rīgā, 1931.-1932. </ref>
+  
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]] Ilzenes pagasta platība bija 148,3 km² un tajā dzīvoja 2338 iedzīvotāji.<ref>{{Pagastu apraksti}}</ref> 1945. gadā pagastā izveidoja [[Čonkas ciems|Čonkas]] un Ilzenes [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Čonkas ciemu pievienoja Ilzenes ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciems reorganizēts par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagasts kā administratīvā teritorija iekļauts [[Alūksnes novads|Alūksnes novadā]].
+
+=== Pieminekļi ===
+* nr. 174.: Mežsloku senkapi pie Mežslokām
+* nr. 2769.-2771.: [[Ilzenes muiža]]s apbūve (18. gs. s. - 20. gs. 1.p.) - kungu māja, pumpja māja<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1050
+|1959|672
+|1970|588
+|1979|511
+|1989|469
+|2000|494
+|2011|373
+|2021|273
+}}
+
+=== Apdzīvotās vietas ===
+[[Čonkas]], [[Ilzene]], '''[[Jaunzemi (Ilzenes pagasts)|Jaunzemi]]''', [[Paiķēni]], [[Mežslokas]], [[Ezerslokas]].
+
+=== Ievērojamas personības ===
+* [[Edvīns Andersons]] (1929—1996) — latviešu mākslinieks<ref>{{Tīmekļa atsauce |url=http://albibl.lv/index.php?go=novadnieki&id=viens&subid=1483097445 |title=Alūksnes pilsētas biblioteka. Novadnieku datubāze. Andersons Edvīns. |access-date={{dat|2017|07|16||bez}} |archiveurl=https://web.archive.org/web/20180308231431/http://albibl.lv/index.php?go=novadnieki&id=viens&subid=1483097445 |archivedate={{dat|2018|03|08||bez}} }}</ref>;
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Ilzenes pagasts| ]]

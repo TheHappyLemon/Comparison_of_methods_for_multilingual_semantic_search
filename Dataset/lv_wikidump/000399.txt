@@ -1,0 +1,137 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Principat d'Andorra
+|    pilnais_valsts_nosaukums = Andoras Firstiste
+|            valsts_nosaukums = Andorra
+|               karoga_attēls = Flag of Andorra.svg
+|            karoga_nosaukums = Andoras karogs
+|              ģerboņa_attēls = Coat of arms of Andorra.svg
+|           ģerboņa_nosaukums = Andoras Firstistes ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = {{val|la|Virtus Unita Fortior}}{{spaces|2}}<small><br />''Vienots spēks ir stiprāks''</small>
+|                valsts_himna = <br />{{val|ca|[[El Gran Carlemany|El Gran Carlemany, Mon Pare]]}}{{spaces|2}}<small><br />''Mans tēvs, [[Kārlis Lielais]]''</small><br/> [[attēls:El Gran Carlemany.ogg|center]]
+|               kartes_attēls = Europe location ANR.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Andora la Velja]]
+|latd=42 |latm=30 |latNS=N |longd=1 |longm=31 |longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[katalāņu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|                     demonym = [[andorieši]]
+|              valsts_iekārta = [[Parlamentāra sistēma|Parlamentāra demokrātija]] un [[firstiste|līdzfirstiste]]
+|        valsts_galvas_tituls = [[Andoras līdzprinču uzskaitījums|Francijas līdzprincis]]
+|                valsts_galva = [[Emanuels Makrons]]
+|       valsts_galvas_tituls2 = [[Andoras līdzprinču uzskaitījums|Episkopālais līdzprincis]]
+|               valsts_galva2 = [[Huans Enriks Vivess i Sicilija]]
+|       valsts_galvas_tituls3 = [[Andoras valdības vadītāju uzskaitījums|Premjerministrs]]
+|               valsts_galva3 = [[Savjers Espots Zamora]]
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = 
+|        neatkarības_notikums = [[Paréage]] no [[Aragonas karaliste]]s
+|          neatkarības_datums = {{dat|1278}}
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 467.63
+|               platība_rangs = 191.
+|              procenti_ūdens = 0
+|     iedzīvotāju_skaita_gads = 2014
+|          iedzīvotāju_skaits = 85 082
+|    iedzīvotāju_skaits_rangs = 201.
+|    apdzīvotības_blīvums_km2 = 179,8
+|  apdzīvotības_blīvums_rangs = 71.
+|                     IKP_PPP = $4,510 miljardi
+|                IKP_PPP_gads = 2008
+|               IKP_PPP_rangs = 155.
+|          IKP_PPP_per_capita = $53 383
+|    IKP_PPP_per_capita_rangs = 9.
+|                         HDI = {{samazinājās}} 0.868
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color="#009900">ļoti augsts</font>
+|                   HDI_rangs = 36.
+|                        Gini = 27,21
+|                   Gini_gads = 2003
+|             Gini_kategorija = <font color="#ffcc00">zems</font>
+|                  Gini_rangs = 37.
+|                      valūta = [[eiro]]<sup>1</sup>
+|                valūtas_kods = EUR
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.ad]]<sup>2</sup>
+|              tālsarunu_kods = 376
+|                    piezīme1 = Pirms 1999: [[Francijas franks]] un [[Spānijas peseta]]. Pēc 1982. gada apgrozībā laida nelielu apjomu [[Andoras dinārs|Andoras dināru]] (dalās 100 centimos).
+|                    piezīme2 = Arī [[.cat]], kopā ar kataloniski runājošām teritorijām.
+|                iso_kods_num = 020
+|              iso_kods_alfa2 = AD
+|              iso_kods_alfa3 = AND
+}}
+
+'''Andora''' ({{val|ca|Andorra}}, {{val|fr|Andorre}}), oficiāli '''Andoras Firstiste''' (''Principat d'Andorra'',  ''Principauté d'Andorre'') ir [[valsts]] [[Eiropa]]s dienvidrietumos. Tā robežojas ar [[Francija|Franciju]] austrumos un ar [[Spānija|Spāniju]] rietumos, bez pieejas pie jūras. Andoras platība ir 468 km² un to ietekmē [[mērenā josla|mērenās joslas]] klimats. Atrodas [[Pireneji|Pireneju]] kalnos. Andora ar 85 082 iedzīvotājiem ir piecdesmitā lielākā valsts Eiropā.
+
+Andora ir parlamentāra demokrātija un līdzfirstiste, kas sastāv no septiņiem pagastiem. Galvaspilsēta un lielākā pilsēta ir [[Andora la Velja]]. Tā nav [[Eiropas Savienība]]s dalībvalsts, bet tās oficiālā valūta ir [[eiro]]. Kopš 1993. gada ir [[ANO]] dalībvalsts.
+
+Kādreiz Andora bija izolēta valsts, bet šodien tā ir pārtikusi valsts, kas tiek raksturota kā tūrisma un nodokļu paradīze. Galvenais iedzīvotāju ienākumu avots ir tūrisma nozare, tāpēc kalnos ir izveidotas daudzas slēpošanas un alpīnisma bāzes.
+
+== Vēsture ==
+{{pamatraksts|Andoras vēsture}}
+Tradicionāli Andoras neatkarības iegūšanu piedēvē [[Kārlis Lielais|Kārļā Lielā]] nopelniem, kurš atbrīvoja zemi no [[mauri|mauru]] valdnieka 803. gadā.<ref>[http://www.grec.net/cgibin/hecangcl2.pgm?&USUARI=&SESSIO=&NDCHEC=0003864&PGMORI=E] {{Webarchive|url=https://web.archive.org/web/20130810080809/http://www.grec.net/cgibin/hecangcl2.pgm?&USUARI=&SESSIO=&NDCHEC=0003864&PGMORI=E |date={{dat|2013|08|10||bez}} }} Andoras neatkarība {{en ikona}}</ref> Pats senākais no zināmajiem valsts dokumentiem, kas saistās ar Andoru, attiecas uz Kārļa Lielā mazdēla Kārļa II valdīšanas laiku. Šis senais dokuments ir 843. gada pavēle, kas nodod Andoru (''Valls d'Andorra'') Spānijas pilsētas „Seo de Urgel” grāfa pārvaldībā.
+
+Pirmie valsts [[konstitūcija|konstitūciju]] dokumenti attiecas uz 1278. un 1288. gadiem, kas tika izdoti, lai noregulētu konfliktu starp spāņu katolisko arhibīskapu un franču grāfu. Šis līgums palīdzēja radīt mūsdienu Andoras valsts varas pamatu — konstitūciju, kas ir viens no visvecākajiem dokumentiem, kurš vēl darbojas mūsdienās. Šis politiskais kompromiss glāba Andoru no iespējas tikt izdzēstai no politiskās kartes, ņemot vērā savus varenos kaimiņus.
+
+Pēc Franču Revolūcijas grāfa mantiniece atcēla visas feodālas privilēģijas, to skaitā arī tiesību pārvaldīt Andoras valsts lietas. Bet pēc Andoras iedzīvotāju lūguma šīs tiesības tika atjaunotas ar [[Napoleons|Napoleona]] atļauju 1806. gadā.
+
+1993. gada martā Andoras iedzīvotāji nobalsoja par to, lai padarītu valsti par neatkarīgu demokrātisku parlamentāru monarhiju ar divkāršu pārvaldi, pie tam valsts saņēma pilnu [[suverenitāte|suverenitāti]].
+
+== Ģeogrāfija ==
+Andora ir maza, kalnu ieskauta valstiņa [[Rietumeiropa|Rietumeiropā]]. Andoras teritorija aizņem 467,63 km², tā kā tā ir maza valsts Pireneju kalnu grēdas austrumos, tai nav pieejas jūrai. Tā pēc platības ir sestā mazākā valsts Eiropā un [[Valstu uzskaitījums pēc platības|191. lielākā valsts pasaulē]]. Augstākais valsts punkts ir ''Koma Pedrosa'', kura agstums sasniedz 2946 metrus virs jūras līmeņa. Šis punkts atrodas Pireneju kalnos valsts ziemeļrietumos. Andoras ainavu pārsvarā veido kalni ar vidējo augstumu 1990 metri virs jūras līmeņa. Kalnus sadala trīs dziļas ielejas, kas galā saplūst vienā, pa kuru plūst Valiras upe, kas savu ceļu turpina Spānijā.
+
+Andorā ir sastopami dažādas koku šķirnes, kā [[ozols|ozoli]], [[dižskābarži]], [[kastanis|kastaņi]], [[egles]] un [[priedes]], tāpēc šeit ir diezgan attīstīta mežrūpniecība. Pateicoties Alpu lēzenajām grēdām, Andorā audzē aitas un liellopus, zirgus ieskaitot. Zemkopība vairāk ir attīstīta Valiras ielejas dienvidu daļā, kur gan biežā sausuma dēļ ir nepieciešama apūdeņošana.
+
+=== Administratīvais iedalījums ===
+{{main|Andoras administratīvais iedalījums}}
+Andora sastāv no septiņiem apgabaliem jeb pagastiem.
+
+{| class="sortable wikitable"
+|-
+! Karte !! Ģerbonis !! Reģions !! Nosaukums<br/>katalāņu valodā !! Administratīvais<br/>centrs !! Platība (km²) !! Iedzīvotāju skaits<br/>(2014)<ref>{{Tīmekļa atsauce |url=http://www.estadistica.ad/serveiestudis/web/index.asp |title=Departament d'Estudis i Estadística |access-date={{dat|2011|02|15||bez}} |archiveurl=https://web.archive.org/web/20101210081203/http://www.estadistica.ad/serveiestudis/web/index.asp |archivedate={{dat|2010|12|10||bez}} }}</ref> !! ISO 3166-2
+|-
+| [[Attēls:Andorra la Vella in Andorra.svg|90px]] || [[Attēls:Escut Andorra la Vella.png|50px]] || '''[[Andoras la Veljas pagasts]]''' || ''Andorra la Vella'' || [[Andora la Velja]] || {{nts|12}} || {{nts|22615}} || AD-07
+|-
+| [[Attēls:Encamp in Andorra.svg|90px]] || [[Attēls:Escut d'Encamp.svg|50px]] || '''[[Enkanas pagasts]]''' || ''Encamp'' || [[Enkana]] || {{nts|74}} || {{nts|12041}} || AD-03
+|-
+| [[Attēls:Escaldes-Engordany in Andorra.svg|90px]] || [[Attēls:Escut d'Escaldes-Engordany.svg|50px]] || '''[[Eskaldesas - de Lorijas pagasts]]''' || ''Escaldes-Engordany'' || [[Eskaldesa - de Lorija]] || {{nts|47}} || {{nts|14002}} || AD-08
+|-
+| [[Attēls:Canillo in Andorra.svg|90px]] || [[Attēls:Escut de Canillo.svg|50px]] || '''[[Kaniljo pagasts]]''' || ''Canillo'' || [[Kaniljo]] || {{nts|121}} || {{nts|4270}} || AD-02
+|-
+| [[Attēls:La Massana in Andorra.svg|90px]] || [[Attēls:Coat of Arms of La Massana.svg|50px]] || '''[[Lamasanas pagasts]]''' || ''La Massana'' || [[Lamasana]] || {{nts|61}} || {{nts|10076}} || AD-04 
+|-
+| [[Attēls:Ordino in Andorra.svg|90px]] || [[Attēls:Escut d'Ordino.svg|50px]] || '''[[Ordino pagasts]]''' || ''Ordino'' || [[Ordino]] || {{nts|89}} || {{nts|4675}} || AD-05 
+|-
+| [[Attēls:Sant Julia de Loria in Andorra.svg|90px]] || [[Attēls:Escut de Sant Julià de Lòria.svg|50px]] || '''[[Santžulijas de Lorijas pagasts]]''' || ''San Julián de Loria'' || [[Santžulija de Lorija]] || {{nts|60}} || {{nts|9270}} ||  AD-06
+|}
+
+== Iedzīvotāji ==
+Andorā dzīvo 85 082 iedzīvotāji un pēc iedzīvotāju skaita tā ir [[Valstu uzskaitījums pēc iedzīvotāju skaita|201. lielākā valsts pasaulē]]. Andoras lielākā pilsēta un galvaspilsēta ir Andora la Velja, kurā dzīvo apmēram 22 000 iedzīvotāji. Andorieši ir minoritāte paši savā valstī un veido 33% no kopējā iedzīvotāju skaita. [[Spāņi]] veido 23%, [[portugāļi]] 21%, [[franči]] 17%, [[briti]] un [[itāļi]] 1%. Divas trešdaļas no iedzīvotājiem ir nepilsoņi un viņiem nav tiesību balsot. Saskaņā ar ANO datiem, Andorā ir viens no ilgākajiem mūža rādītājiem pasaulē. Pamatiedzīvotājus jeb andoriešus dēvē par kataloņiem, lai arī tas nav īsti precīzi, jo andorieši ir tauta pati ar savu izcelsmi.
+
+Oficiālā valsts valoda ir katalāņu valoda, bet līdzīgas tiesības ir arī franču un spāņu valodām. Andora ir viena no retajām valstīm, kas saprotamu iemeslu dēļ nav parakstījusi Eiropas Nacionālo minoritāšu konvenciju.
+
+Lielākā daļa iedzīvotāju jeb 90,1% ir [[katolicisms|katoļi]], 2,1%  ir [[Protestantisms|protestanti]], 1,8% pieder pie cita [[kristietība]]s novirziena, 0,7% pieder pie citas reliģijas, bet 5,3% ir neticīgi.
+
+== Valdība ==
+13. gadsimtā Andora nonāca Fuā grāfa un [[Katalonija]]s provinces Urgelas bīskapa valdījumā, mūsdienu Francijas un Spānijas teritorijā. No 13. gadsimta līdz pat 1993. gadam Andora bija Francijas un Spānijas pakļautībā. 1993. gada 14. martā tautas referendumā tika pieņemta jauna konstitūcija un Andora kļuva par neatkarīgu valsti.
+
+Vienlaikus Andora ir arī grāfiste, ko pārvalda divi grāfi: Francijas prezidents un Spānijas bīskaps. Valsts vara ir kopējā ieleju padome vai parlaments, kas sastāv no 28 pārstāvjiem, kuri tiek ievēlēti uz 4 gadiem.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Andora| ]]
+[[Kategorija:Monarhijas]]

@@ -1,0 +1,59 @@
+{{Zinātnieka infokaste
+| vārds_orig =''Ivar Giæver''
+| attēls =Ivar Giæver.jpg
+| att_izmērs =
+| dz_gads =1929
+| dz_mēnesis =4
+| dz_diena =5
+| dz_vieta =[[Bergena]], [[Norvēģija]], {{NOR}}
+| m_gads =
+| m_mēnesis=
+| m_diena=
+| m_vieta =
+| pilsonība ={{NOR}}<br>{{USA}} (no 1964. gada)
+| tautība =
+| darba_vietas = ''[[General Electric]]'',<br />[[Rensellera Politehniskais institūts]],<br />[[Oslo universitāte]]
+| alma_mater =[[Norvēģijas Tehnoloģiskais institūts]]
+| zinātne =[[fizika]]
+| pasniedzēji =
+| studenti =
+| sasniegumi =[[tuneļefekts]]
+| apbalvojumi = 1973. gada [[Nobela prēmija fizikā]]
+| paraksts =
+| piezīmes = 
+}}
+'''Īvars Jēvers''', pazīstams arī kā '''Aivers Džaijevers''' (''Ivar Giæver'', dzimis {{dat|1929|4|5}} [[Bergena|Bergenā]] ) ir [[Norvēģija|norvēģu]] izcelsmes [[Amerikas Savienotās Valstis|ASV]] fiziķis. 1973. gadā kopā ar [[Leo Esaki]] un [[Braians Džozefsons|Braianu Džozefsonu]] ieguvis [[Nobela prēmija fizikā|Nobela prēmiju fizikā]] par eksperimentāliem atklājumiem attiecībā uz [[tuneļefekts|tuneļefektu]].<ref>{{Tīmekļa atsauce |title=The Nobel Prize in Physics 1973 |publisher=Nobel Foundation |url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1973/}}</ref>
+
+Jēvers 1952. gadā beidza [[Norvēģijas Tehnoloģiskais institūts|Norvēģijas Tehnoloģisko institūtu]] [[mašīnbūve]]s specialitātē. 1954. gadā pārcēlās uz [[Kanāda|Kanādu]], kur sāka strādāt kompānijas ''[[General Electric]]'' Kanādas nodaļā. No 1958. gada strādāja ''General Electric'' Pētniecības laboratorijā [[Ņujorka|Ņujorkā]], [[Amerikas Savienotās Valstis|ASV]]. 1960. gadā veica eksperimentus, parādot tuneļefekta darbību [[supravadītājs|supravadītājos]], par ko 1973. gadā saņēma Nobela prēmiju fizikā, dalot to ar Leo Esaki un Braianu Džozefsonu, kuri arī bija devuši savu ieguldījumu tuneļefekta pētījumos. No 1969. gada Jēvers pievērsās [[biofizika]]i.
+
+Jēvers pieder pie [[Globālā sasilšana|globālās sasilšanas]] teorijas kritiķiem. Paužot savus uzskatus, 2008. gadā Jēvers teicis: "Es esmu skeptisks...Globālā sasilšana ir kļuvusi par jaunu reliģiju"<ref>{{Tīmekļa atsauce| url = http://epw.senate.gov/public/index.cfm?FuseAction=Minority.Blogs&ContentRecord_id=2674e64f-802a-23ad-490b-bd9faf4dcdb7| title = U.S. Senate Minority Report Update: More Than 700 International Scientists Dissent Over Man-Made Global Warming Claims| access-date = {{dat|2009|06|04||bez}}| archiveurl = https://www.webcitation.org/5zjpzAleA?url=http://epw.senate.gov/public/index.cfm?FuseAction=Minority.Blogs&ContentRecord_id=2674e64f-802a-23ad-490b-bd9faf4dcdb7| archivedate = {{dat|2011|06|26||bez}}}}</ref> 2011. gadā Jēvers pat izstājās no Amerikas fizikas biedrības, uzskatot, ka tā pieņēmusi šo teoriju kā neapstrīdamu patiesību.<ref>{{Ziņu atsauce |title= Nobel Prize-Winning Physist Resigns Over Global Warming |work= Fox News |date=2011-09-14 |url=http://www.foxnews.com/scitech/2011/09/14/nobel-prize-winning-physicist-resigns-from-top-physics-group-over-global/ |accessdate=2011-09-15}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://nobelprize.org/nobel_prizes/physics/laureates/1973/giaever-bio.html Īvara Jēvera biogrāfija Nobela prēmijas mājaslapā {{en}}]
+* [http://www.osti.gov/accomplishments/giaever.html Biography and Bibliographic Resources], from the Office of Scientific and Technical Information, United States Department of Energy
+
+
+{{Cilvēks-aizmetnis}}
+
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Džons Bardīns]]<br />[[Leons Kūpers]]<br />[[Džons Šrīfers]]| virsraksts = [[Nobela prēmija fizikā]] | periods = [[1973]].<br />kopā ar<br />[[Leo Esaki]]<br />un [[Braians Džozefsons|Braianu Džozefsonu]] | pēc = [[Martins Rails]]<br />[[Entonijs Hjūišs]]}}
+{{kastes beigas}}
+
+
+{{Nobela prēmijas laureāti fizikā}}
+{{Autoritatīvā vadība}}
+
+{{DEFAULTSORT:Jevers, Ivars}}
+
+[[Kategorija:1929. gadā dzimušie]]
+[[Kategorija:Nobela prēmijas laureāti fizikā]]
+[[Kategorija:Norvēģu fiziķi]]
+[[Kategorija:Amerikāņu fiziķi]]
+[[Kategorija:Vestlannē dzimušie]]

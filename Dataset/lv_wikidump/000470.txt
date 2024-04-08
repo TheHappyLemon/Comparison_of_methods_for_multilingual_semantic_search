@@ -1,0 +1,82 @@
+{{cita nozīme|patogēnu|datorprogrammu, kura spēj patstāvīgi vairoties un inficēt datoru,|datorvīruss}}
+[[Attēls:Rotavirus Reconstruction.jpg|thumbnail|235px|[[Rotavīruss|Rotavīrusa]] modelis]]
+'''Vīruss''' ({{val-la|virus}} — ‘inde’ vai ‘toksīns’) ir ļoti mazs [[patogēns]], kas vairojas tikai [[organisms|organismu]] dzīvo [[šūna|šūnu]] iekšpusē. Tas nespēj augt un vairoties ārpus saimniekorganisma. Vīrusi ir šūnu [[parazīts|parazīti]] — tie var vairoties, tikai inficējot šūnas un izmantojot to orgānus sevis pavairošanai. Vīrusi var inficēt jebkura veida organismus, sākot ar [[augi]]em un [[dzīvnieki]]em un beidzot ar [[baktērijas|baktērijām]] un [[arheji]]em. Tie izraisa dažādas [[slimība]]s, piemēram, [[saaukstēšanās|saaukstēšanos]], [[gripa|gripu]] un dzīvībai bīstamo [[AIDS]]. Terminu "vīruss" parasti lieto, lai apzīmētu tās daļiņas, kas inficē [[eikariots|eikariotus]], bet tās, kas inficē [[prokariots|prokariotus]], sauc par [[bakteriofāgi]]em.<ref name="Bioloģijas rokasgrāmata"/>
+
+Speciālistu vidū ir strīds par to, vai vīruss ir dzīvs organisms.<ref name="Rybicki"/> Vīrusu infekcijas cilvēku vai dzīvnieku organismos visbiežāk izraisa [[imūnsistēma]]s pretreakciju uz slimību. Bieži vīruss saimnieka imūnsistēmā tiek pilnībā neitralizēts. [[Antibiotika]]s uz vīrusiem neatstāj nekādu iespaidu, toties [[antivīrusu zāles]] ir izstrādātas, lai pielietotu dzīvību apdraudošos gadījumos. [[Vakcīna]]s, kas spēj nodrošināt mūža [[imunitāte|imunitāti]], spēj pasargāt cilvēkus no konkrētu vīrusu infekcijām. Biežāk sastopamie cilvēkam patoloģiskie vīrusi ir [[adenovīrusi]], [[arbovīrusi]], [[enterovīrusi]], [[herpesvīrusi]], [[ortomiksovīrusi]], [[onkovīrusi]], [[poksvīrusi]], [[reovīrusi]] un [[rinovīrusi]].<ref name="LPE1"/>
+
+Parasti vīrusi sastāv no [[nukleīnskābes]] ([[dezoksiribonukleīnskābe|DNS]] vai [[ribonukleīnskābe|RNS]]) fragmenta, kas satur vīrusa ģenētisko informāciju, un [[olbaltumvielas|olbaltumvielu]] apvalka ([[kapsīds|kapsīda]]). Kapsīds aizsargā ģenētisko materiālu no ārējās vides un saimniekorganisma faktoru iedarbības.<ref name="LPE2"/> Dažiem vīrusiem ir arī [[lipīdi|lipīdu]] membrāna.<ref name="HSW"/> To izmēri ir no 17 līdz 300 [[nanometrs|nanometriem]].<ref name="HSW"/> Tie ir aptuveni 1000 reizes mazāki nekā [[baktērijas]].<ref name="HSW"/> Vīrusus ar [[optiskais mikroskops|optiskajiem mikroskopiem]] nevar novērot, to var izdarīt ar [[elektronmikroskops|elektronmikroskopiem]]. Pēc izskata tie parasti ir sfēriski, ovāli vai nūjiņveida. Retāk tiem ir sarežģītāks ārējais izskats.
+
+Zinātne, kurā nodarbojas ar vīrusu pētīšanu, ir [[virusoloģija]]. Zinātnieki pēta vīrusu uzbūvi, [[evolūcija|evolūciju]], [[Organismu klasifikācija|klasifikāciju]] un veidu kā vīrusi izplatās, izplatot slimības. 1892. gadā krievu zinātnieks [[Dmitrijs Ivanovskis]] pirmoreiz pierādīja vīrusu eksistenci, kas arī ir virusoloģijas kā zinātnes sākums. Ivanovskis vairākus gadus pētīja [[tabaka]]s augus un nonāca pie secinājuma, ka slimības šim augam izraisa jauna veida "baktērijas".
+
+== Klasifikācija ==
+Vīrusus var iedalīt pēc to nukleīnskābes: DNS saturošajos un RNS saturošajos.  RNS saturošos vīrusus sauc par [[ribovīrusi]]em un [[retrovīrusi]]em (atgriezeniskajiem vīrusiem), kuriem ir [[enzīms]] [[revertāze]] (RNS atkarīgā [[DNS polimerāze]]), kas, pēc iekļūšanas saimnieka šūnā, vīrusa RNS pārvērš par DNS. Pie retrovīrusiem pieder, piemēram, [[HIV]] (''human immunodeficiency virus'').
+
+Klasificējot ņem vērā arī to vai nukleīnskābe ir vienpavedienu vai divpavedienu, cirkulāra vai lineāra. Klasificē arī pēc vīrusu formas, lieluma, pēc ārējā apvalka esamības vai neesamības, vai izraisītajām slimībām.
+
+Tā kā vīrusi ir saimnieka specifiski, tos var iedalīt pēc organisma, kuros tie parazitē: baktēriju vīrusos ([[bakteriofāgi|bakteriofāgos]] jeb vienkārši fāgos), [[augu vīrusi|augu vīrusos]] un dzīvnieku vīrusos. Daži cilvēka vīrusi specializējas uz noteiktiem audiem, piemēram, HIV vairojas tikai [[limfocīti|T limfocītos]], [[poliomielīts|poliomielīta]] vīruss vairojas tikai muguras smadzeņu šūnās, [[hepatīts|hepatīta]] vīrusi inficē tikai aknu šūnas. 
+
+=== ICTV klasifikācija ===
+==== 2017. gada klasifikācija ====
+Starptautiskā vīrusi taksonomijas komiteja (ICTV) 2017. gadā ieteica vīrusu klasifikācijas veidošanā pieturēties pie šādas [[taksonomija]]s:<ref>[https://talk.ictvonline.org/taxonomy/w/ictv-taxonomy ICTV Taxonomy]</ref>  
+* [[Kārta (bioloģija)|kārta]] ({{val-en|Order}}, [[izskaņa]] -virales): 9 kārtas (2019)
+** [[Dzimta (bioloģija)|dzimta]] (''Family'', -viridae): 127 dzimtas (2019)
+*** [[Dzimta (bioloģija)|apakšdzimta]] (''Sub-family'', -virinae): 44 apakšdzimtas (2019)
+**** [[Ģints (bioloģija)|ģints]] (''Genus'', -virus): 782 ģintis (2019)
+***** [[suga]] (''Species'', -virus): 4686 sugas (2019)
+
+2017. gada ICTV klasifikācija ietvēra deviņas vīrusu kārtas: ''[[Bunyavirales]], [[Caudovirales]], [[Herpesvirales]], [[Ligamenvirales]], [[Mononegavirales]], [[Nidovirales]], [[Ortervirales]], [[Picornavirales]]''  un ''[[Tymovirales]]''.<ref>[https://talk.ictvonline.org/taxonomy  ICTV taksonomijas stāvoklis 2019. gadā]</ref>
+
+==== 2018. gada klasifikācija ====
+2018. gadā ICTV krietni paplašināja vīrusu klasifikācijas taksonomiju:<ref>[https://talk.ictvonline.org/taxonomy/ ICTV Taxonomy 2018]</ref>  
+* [[Valsts (bioloģija)|valstība]] (''Realm'', -viria)
+** [[Valsts (bioloģija)|apakšvalstība]] (''Subrealm'', -vira)
+*** [[Valsts (bioloģija)|valsts]] (''Kingdom'', -virae)
+**** [[Valsts (bioloģija)|apakšvalsts]] (''Subkingdom'', -virites)
+***** [[Tips (bioloģija)|tips]] (''Phylum'', -viricota)
+****** [[Tips (bioloģija)|apakštips]] (''Subphylum'', -viricotina)
+******* [[Klase (bioloģija)|klase]] (''Class'',  -viricetes)
+******** [[Klase (bioloģija)|apakšklase]] (''Subclass'',  -viricetidae)
+********* [[Kārta (bioloģija)|kārta]] ({{val-en|Order}}, [[izskaņa]] -virales): 9 kārtas (2019)
+********** [[Kārta (bioloģija)|apakškārta]] (''Suborder'',  -virineae)
+*********** [[Dzimta (bioloģija)|dzimta]] (''Family'', -viridae): 127 dzimtas (2019)
+************ [[Dzimta (bioloģija)|apakšdzimta]] (''Sub-family'', -virinae): 44 apakšdzimtas (2019)
+************* [[Ģints (bioloģija)|ģints]] (''Genus'', -virus): 782 ģintis (2019)
+************** [[Ģints (bioloģija)|apakšģints]] (''Subgenus'', -virus)
+*************** [[Suga]] (''Species'', -virus): 4686 sugas (2019)
+
+=== Baltimora klasifikācija ===
+1974. gada [[Nobela prēmijas laureāti fizioloģijā vai medicīnā|Nobela prēmijas laureāts]] Deivids Baltimors izveidoja savu vīrusu funkcionālo un strukturālo klasifikāciju pēc [[mRNS]] veidošanās mehānisma un genoma, kas var būt vienpavediena vai divpavedienu, DNS saturošs un RNS saturošs, ar vai bez revertāzes, ar pozitīvu vai negatīvu RNS. 
+Šī klasifikācija ietver septiņas vīrusu pamatgrupas:
+
+* (I) divpavedienu DNS vīrusi ([[cilvēka papilomas vīrusi]], [[herpes]]vīrusi u.c.)
+* (II) vienpavediena DNS vīrusi ([[parvovīrusi]] u.c.)
+* (III) divpavedienu RNS vīrusi ([[rotavīrusi]] u.c.)
+* (IV) vienpavediena RNS vīrusi ar pozitīvu polaritāti ([[nidovīrusi]], [[pikornavīrusi]] u.c.)
+* (V) vienpavediena RNS vīrusi ar negatīvu vai divdabīgu polaritāti ([[ortomiksovīrusi]] u.c.)
+* (VI) vienpavediena RNS vīrusi ar pozitīvu polaritāti un revertāzi ([[HIV]] vīrusi u.c.)
+* (VII) vienpavediena/divpavedienu DNS vīrusi ar revertāzi ([[hepatīts B|B hepatīta]] vīrusi u.c.)
+
+== Augu vīrusi ==
+Ir zināms apmēram 1000 dažādu vīrusu, kas izraisa augu slimības. Tās ir grūti atšķirt no barības elementu trūkuma, ārstēšana ir gandrīz neiespējama. Domājams, ka augu vīrusus pārnēsā kukaiņi (piemēram laputis un cikādes), kas barojas ar augu audiem. Tie var tikt pārmantoti no paaudzes uz paaudzi ar inficētām sēklām vai bezdzimumvairošanās ceļā ar inficētām šūnām. Vīrusi izplatās pa visu auga organismu pa šūnas savienojošajām plazmodesmām. Vairums augu vīrusu ir RNS saturoši.
+
+Augu aizsargmehānisms pret vīrusiem balstās uz inficētās šūnas izolāciju, nonāvējot apoptozes ceļā apkārtesošās šūnas. Augi pret vīrusiem izstrādā arī salicilskābi, slāpekļa oksīdu un skābekļa radikāļus, kas darbojas kā dezinfektanti.<ref>Soosaar JL, Burch-Smith TM, Dinesh-Kumar SP. Mechanisms of plant resistance to viruses. ''Nature Reviews Microbiology. 2005;3(10):789–98. doi:10.1038/nrmicro1239. PMID 16132037.</ref>
+
+== Atsauces ==
+{{commonscat|Viruses|vīrusi}}
+{{atsauces|refs=
+<ref name="Bioloģijas rokasgrāmata">{{grāmatas atsauce | title= Bioloģijas rokasgrāmata | page= 4 | publisher= Zvaigzne ABC | location= Rīga | year= 1995 | isbn= 5-405-01469-9}}</ref>
+<ref name="Rybicki">{{cite|author = Rybicki, EP|year = 1990|title = The classification of organisms at the edge of life, or problems with virus systematics|journal = S Afr J Sci|volume = 86|pages = 182–186}}</ref>
+<ref name="LPE1">{{LPE|10<sub>1</sub>|470}}</ref>
+<ref name="LPE2">{{LPE|10<sub>1</sub>|469}}</ref>
+<ref name="HSW">{{tīmekļa atsauce | url= http://science.howstuffworks.com/environmental/life/cellular-microscopic/virus-human1.htm | title= How Viruses Work - What Is a Virus? | publisher= HowStuffWorks | accessdate= 2012-07-10 | language = angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{bioloģija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vīrusi| ]]

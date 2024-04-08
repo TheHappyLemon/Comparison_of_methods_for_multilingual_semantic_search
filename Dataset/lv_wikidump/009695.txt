@@ -1,0 +1,65 @@
+{{cita nozīme|Anglijas reģionu|grāfisti|Rietummidlendas grāfiste}}
+{{Administratīvā iedalījuma vienības infokaste
+| name = Rietummidlenda
+| official_name = ''West Midlands''
+| image_skyline = Malvern Hills AONB.jpg
+| imagesize =
+| image_caption = Melverna pakalni [[Vusteršīra|Vusteršīrā]]
+| settlement_type = reģions
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_seal             = {{#property:P158}}
+ |seal_size              = 100x80px
+| image_map = West Midlands in England.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{GBR}}
+| subdivision_type1 = Zeme
+| subdivision_name1 = {{ENG}}
+| established_title        = Dibināts
+| established_date         = 1994
+| total_type = Kopā
+| area_total_km2 = 13004
+| population_total = 5954240
+| population_as_of = 2021
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =52 | latm = 30 | lats =| latNS = N
+| longd = 2 | longm = 15 | longs =| longEW = W
+| seat_type = Padomes ofiss
+| seat = [[Birmingema]]
+| parts_type = Iedalījums
+| parts = 9 grāfistes 
+| p1 = [[Herefordšīra]]
+| p2 = [[Šropšīra]]
+| p3 = [[Stefordšīra]]
+| p4 = [[Vorikšīra]]
+| p5 = [[Rietummidlendas grāfiste|Rietummidlenda]]
+| p6 = [[Vusteršīra]]
+| timezone                 = GMT
+| utc_offset               = +0
+| timezone_DST             = 
+| utc_offset_DST           = 
+ <!-- | blank_name              = [[ISO 3166-2]]
+ | blank_info              = PH-AUR -->
+| website                  = 
+}}
+'''Rietummidlenda''' ({{val|en|West Midlands}}) ir reģions [[Anglija]]s rietumos. Sevī ietver 8 metropoles un nemetropoles grāfistes un [[Anglijas unitārās pašvaldības|unitārās pašvaldības]], kas ietilpst sešās [[Anglijas ceremoniālās grāfistes|ceremoniālajās grāfistēs]]. Reģiona padomes sēdeklis atrodas [[Birmingema|Birmingemā]]; padomi veido reģionā ietilpstošo pašvaldību pārstāvji. Reģiona lielākās pilsētas ir [[Koventri]], [[Vulverhemptona]], [[Solihala]], [[Satonkoldfīlda]], [[Dadlija]].
+
+Rietummidlenda ir ir otrs etniski daudzveidīgākais reģions aiz [[Lielā Londona|Lielās Londonas]] reģiona.<ref>{{Tīmekļa atsauce|url=https://www.ethnicity-facts-figures.service.gov.uk/british-population/national-and-regional-populations/regional-ethnic-diversity/latest|title=Regional ethnic diversity|website=www.ethnicity-facts-figures.service.gov.uk|access-date=2019-02-24|language=en|archive-date=2018-09-09|archive-url=https://web.archive.org/web/20180909035735/https://www.ethnicity-facts-figures.service.gov.uk/british-population/national-and-regional-populations/regional-ethnic-diversity/latest}}</ref>
+
+Rietummidlendā atrodas arī [[Viljams Šekspīrs|Viljama Šekspīra]] dzimtā pilsēta [[Stretforda pie Eivonas]], bet Birmingemā bērnību pavadījis [[Džons Ronalds Rūels Tolkīns]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{UK-aizmetnis}}
+
+{{Anglijas reģioni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas reģioni]]

@@ -1,0 +1,1985 @@
+'''Nacionālo futbola izlašu saraksts''' ir veidots no visām [[FIFA]] dalībvalstīm, kā arī ir iekļautas tās izlases, kas vairs nepastāv. Sarakstā ir norādīta konfederācija, pirmā spēle, iesauka
+
+== FIFA izlases ==
+{| class="sortable wikitable"
+|-
+! rowspan=2 | Izlase || rowspan=2 | FIFA<br>kods || rowspan=2 | Konfederācija || rowspan=2 | Pirmā spēle un pretinieks || colspan=2 | FIFA rangs<ref name=piezīme/> || colspan=2 | ELO rangs<ref name=piezīme/> || rowspan=2 | Iesauka
+|-
+! Augstākā<br />vieta || Zemākā<br />vieta || Augstākā<br />vieta || Zemākā<br />vieta
+|-
+|{{Fb|Afganistāna}}
+|AFG
+|[[AFC]]
+|{{Dat|1941|8|25}} {{Fb|Irāna}}
+|122
+|204
+|83
+|210
+|''ملی تیم'' (Nacionālā komanda)
+|-
+|{{Fb|Albānija}}
+|ALB
+|[[UEFA]]
+|{{Dat|1946|10|7}} {{Fb|Dienvidslāvija}}
+|22
+|124
+|32
+|118
+|''Kuq e Zinjtë'' (Sarkanie un melnie)
+|-
+|{{Fb|ALG}}
+|ALG
+|[[CAF]]
+|{{Dat|1963|1|6}} {{Fb|BUL}}
+|15
+|103
+|8
+|85
+|''Les Fennecs'' (Tuksneša lapsas)
+|-
+|{{Fb|ASV Samoa}}
+|ASA
+|[[OFC]]
+|{{Dat|1998|9|2}} {{Fb|Tonga}}
+|164
+|205
+|188
+|238
+|''The Boys from the Territory'' (Zēni no teritorijas)
+|-
+|{{Fb|Andora}}
+|AND
+|[[UEFA]]
+|{{Dat|1996|11|13}} {{Fb|Igaunija}}
+|125
+|206
+|171
+|193
+|''Tricolors'' (Trijkrāsainie)
+|-
+|{{Fb|Angilja}}
+|AIA
+|[[CONCACAF]]
+|[[1985. gads|1985.]] gada oktobrī {{Fb|Britu Virdžīnas}}
+|189
+|210
+|195
+|234
+|
+|-
+| {{fb|Anglija}} || ENG || [[UEFA]] || {{dat|1872|11|30}} {{fb|Skotija}} || 3 || 27 || 1 || 16 || ''The Three Lions'' (Trīs lauvas)
+|-
+|{{Fb|ANG}}
+|ANG
+|[[CAF]]
+|{{Dat|1976|2|8}} {{Flaga|Kongo|1970}} [[Kongo futbola izlase|Kongo]]
+|45
+|147
+|50
+|160
+|''Palancas Negras'' (Melnās antilopes)
+|-
+|{{Fb|Antigva un Barbuda}}
+|ATG
+|[[CONCACAF]]
+|{{Dat|1972|11|10}} {{Fb|Trinidāda un Tobago}}
+|70
+|170
+|131
+|179
+|''The Benna Boys''
+|-
+|{{Fb|Apvienotie Arābu Emirāti}}
+|UAE
+|[[AFC]]
+|{{Dat|1972|3|17}} {{Fb|Katara}}
+|40
+|138
+|24
+|140
+|''Al Abyad'' (Baltie)
+|-
+| {{fb|Argentīna}} || ARG || [[Dienvidamerikas Futbola konfederācija|CONMEBOL]] || {{dat|1901|5|16}} {{fb|Urugvaja}} || 1 || 24 || 1 || 18 || ''La Albiceleste'' (Baltie un debeszilie)
+|-
+|{{Fb|Armēnija}}
+|ARM
+|[[UEFA]]
+|{{dat|1992|10|14}} {{fb|Moldova}}
+|30
+|159
+|65
+|126
+|Հավաքական (Kolektīvā komanda)
+|-
+|{{Fb|Aruba}}
+|ARU
+|[[CONCACAF]]
+|{{dat|1924|4|6}} {{Flaga|NED}} [[Kirasao futbola izlase|Kirasao]]
+|112
+|202
+|50
+|201
+|
+|-
+|{{Fb|ASV}}
+|USA
+|[[CONCACAF]]
+|{{dat|1916|8|20}} {{Fb|Zviedrija}}
+|4
+|36
+|9
+|85
+|''The Stars and Stripes'' (Zvaigznes un strīpas)
+|-
+|{{Fb|ASV Virdžīnas}}
+|VIR
+|[[CONCACAF]]
+|{{dat|1998|3|21}} {{Fb|Britu Virdžīnas}}
+|149
+|207
+|208
+|222
+|''The Dashing Eagle'' (Švīkstošie ērgļi)
+|-
+|{{Fb|Austrālija}}
+|AUS
+|[[AFC]]
+|{{dat|1922|6|17}} {{fb|Jaunzēlande}}
+|14
+|102
+|9
+|75
+|''Socceroos'' (Futbola ķenguri)
+|-
+|{{Fb|Austrija}}
+|AUT
+|[[UEFA]]
+|{{dat|1902|10|12}} {{fb|Ungārija|1867}}
+|10
+|105
+|1
+|75
+|''Das Team'' (Komanda)
+|-
+|{{Fb|Austrumtimora}}
+|TLS
+|[[AFC]]
+|{{dat|2003|2|21}} {{fb|Šrilanka}}
+|146
+|206
+|214
+|230
+|''O Sol Nascente'' (Austošās saules)
+|-
+|{{Fb|Azerbaidžāna}}
+|AZE
+|[[UEFA]]
+|{{dat|1992|9|17}} {{fb|Gruzija|1990}}
+|73
+|170
+|51
+|152
+|''Milli'' (Nācija)
+|-
+|{{Fb|Bahamas}}
+|BAH
+|[[CONCACAF]]
+|{{dat|1970|3|1}} {{Fb|Puertoriko}}
+|138
+|210
+|191
+|207
+|''Bahamian Slayersz'' (Bahamu slepkavas)
+|-
+|{{Fb|Bahreina}}
+|BHR
+|[[AFC]]
+|{{dat|1966|4|2}} {{fb|Kuveita}}
+|44
+|139
+|49
+|138
+|''Al-Ahmar'' (Sarkanie)
+|-
+| {{fb|Baltkrievija}} || BLR || [[UEFA]] || {{dat|1992|10|28}} {{fb|Ukraina}} || 36 || 142 || 47 || 122 || Baltie spārni
+|-
+|{{fb|Bangladeša}}
+|BAN
+|[[AFC]]
+|{{dat|1973|7|26}} {{fb|Taizeme}}
+|110
+|197
+|147
+|210
+|''Bengal Tigers'' (Bengālijas tīģeri)
+|-
+|{{Fb|Barbadosa}}
+|BRB
+|[[CONCACAF]]
+|{{dat|1929|4|20}} {{Fb|Trinidāda un Tobago}}
+|92
+|181
+|106
+|181
+|''Bajan Tridents''
+|-
+|{{Fb|Beliza}}
+|BLZ
+|[[CONCACAF]]
+|{{dat|1928|2|19}} {{Fb|Hondurasa}}
+|114
+|201
+|166
+|189
+|''The Jaguars'' (Jaguāri)
+|-
+| {{fb|Beļģija}} || BEL || [[UEFA]] || {{dat|1904|5|1}} {{fb|Francija}} || 1 || 71 || 2 || 74 || ''De Rode Duivels'' (Sarkanie velni)
+|-
+|{{Fb|BEN}}
+|BEN
+|[[CAF]]
+|{{Dat|1959|11|8}} {{Fb|NGA}}
+|59
+|165
+|56
+|165
+|''Les Écureuils'' (Vāveres)
+|-
+|{{Fb|Bermuda}}
+|BER
+|[[CONCACAF]]
+|{{Dat|1964|8|10}} {{Fb|Islande}}
+|58
+|189
+|92
+|177
+|''Gombey Warriors'' (Gombejas kareivji)
+|-
+|{{Fb|Bolīvija}}
+|BOL
+|[[Dienvidamerikas Futbola konfederācija|CONMEBOL]]
+|{{Dat|1926|10|12}} {{Fb|Čīle}}
+|18
+|115
+|22
+|86
+|''La Verde'' (Zaļie)
+|-
+|{{Fb|BIH}}
+|BIH
+|[[UEFA]]
+|{{Dat|1993|9|12}} {{Fb|Irāna}}
+|13
+|173
+|20
+|87
+|''Zmajevi'' (Pūķi)
+|-
+|{{Fb|BOT}}
+|BOT
+|[[CAF]]
+|{{Dat|1968|7|13}} {{Fb|MWI}}
+|53
+|165
+|98
+|187
+|''Dipitse'' (Zebras)
+|-
+| {{fb|Brazīlija}} || BRA || [[Dienvidamerikas Futbola konfederācija|CONMEBOL]] || {{dat|1914|9|20}} {{fb|Argentīna}} || 1 || 22 || 1 || 18 || ''Canarinho'' (Kanārijputniņi)
+|-
+|{{Fb|Britu Virdžīnas}}
+|VGB
+|[[CONCACAF]]
+|{{dat|1991|5|10}} {{fb|Kaimanu Salas}}
+|160
+|208
+|171
+|230
+|''The Nature Boyz'' (Dabas zēni)
+|-
+|{{Fb|Bruneja}}
+|BRU
+|[[AFC]]
+|{{dat|1971|5|22}} {{Fb|Malaizija}}
+|140
+|203
+|163
+|230
+|''Tebuan'' (Sirseņi)
+|-
+|{{Fb|Bulgārija}}
+|BUL
+|[[UEFA]]
+|{{dat|1924|5|21}} {{Fb|Austrija}}
+|3
+|96
+|3
+|69
+|''Лъвовете'' (Lauvas)
+|-
+|{{Fb|BFA}}
+|BFA
+|[[CAF]]
+|{{Dat|1960|4|13}} {{Fb|GAB}}
+|35
+|127
+|52
+|133
+|''Les Étalons'' (Ērzeļi)
+|-
+|{{Fb|BDI}}
+|BDI
+|[[CAF]]
+|{{Dat|1964|10|9}} {{Fb|UGA}}
+|96
+|160
+|79
+|159
+|''Les Hirondelles'' (Bezdelīgas)
+|-
+|{{Fb|Butāna}}
+|BHU
+|[[AFC]]
+|{{Dat|1982|4|1}} {{Fb|Nepāla}}
+|159
+|209
+|184
+|234
+|''Dragon Boys'' (Pūķu zēni)
+|-
+|{{Fb|CAF}}
+|CAF
+|[[CAF]]
+|{{Dat|1960|4|13}} {{Fb|MLI}}
+|49
+|202
+|79
+|164
+|''Les Fauves'' (Meža zvēri)
+|-
+|{{Fb|CHA}}
+|CHA
+|[[CAF]]
+|{{Dat|1961|12|25}} {{Fb|NIG}}
+|97
+|190
+|115
+|153
+|''Les Sao''
+|-
+|{{Fb|Čehija}}
+|CZE
+|[[UEFA]]
+|{{dat|1903|4|5}} {{fb|Ungārija|1867}}
+|2
+|67
+|1
+|47
+|
+|-
+| {{fb|Čīle}} || CHI || [[Dienvidamerikas Futbola konfederācija|CONMEBOL]] || {{dat|1910|5|27}} {{fb|Argentīna}} || 3 || 84 || 2 || 60 || ''La Roja'' (Sarkanie)
+|-
+|{{Fb|Dānija}}
+|DEN
+|[[UEFA]]
+|{{dat|1908|10|19}} {{fb|Francija}} B
+|3
+|51
+|1
+|65
+|''De rød-hvide'' (Sarkanbaltie)
+|-
+|{{Fb|ZAF}}
+|ZAF
+|[[CAF]]
+|{{Dat|1924|11|2}} {{Fb|NED}}
+|16
+|124
+|21
+|94
+|''Bafana Bafana''
+|-
+|{{Fb|Dienvidkoreja}}
+|KOR
+|[[AFC]]
+|{{Dat|1948|7|6}} {{Fb|Hongkonga|1876}}
+|17
+|69
+|15
+|80
+|''아시아의 호랑이''  (Āzijas tīģeri)
+|-
+|{{Fb|SSD}}
+|SSD
+|[[CAF]]
+|{{Dat|2012|7|10}} {{Fb|UGA}}
+|134
+|205
+|171
+|188
+|''Bright Stars'' (Spožās zvaigznes)
+|-
+|{{Fb|Dominika}}
+|DMA
+|[[CONCACAF]]
+|[[1932. gads|1932.]] gadā {{Fb|Martinika}}
+|128
+|198
+|59
+|198
+|
+|-
+|{{Fb|Dominikāna}}
+|DOM
+|[[CONCACAF]]
+|{{Dat|1967|5|21}} {{Fb|Haiti|1964}}
+|78
+|190
+|139
+|188
+|''Los Quisqueyanos''
+|-
+|{{Fb|DJI}}
+|DJI
+|[[CAF]]
+|{{Dat|1947|12|5}} {{Fb|ETH}}
+|169
+|207
+|94
+|214
+|''Riverains de la Mer Rouge'' (Sarkanās jūras piekrastes zvejnieki)
+|-
+|{{Fb|Ekvadora}}
+|ECU
+|[[Dienvidamerikas Futbola konfederācija|CONMEBOL]]
+|{{Dat|1938|8|8}} {{Fb|Bolīvija}}
+|10
+|71
+|11
+|120
+|''La Tricolor'' (Trīskrāsainie)
+|-
+|{{Fb|EQG}}
+|EQG
+|[[CAF]]
+|{{Dat|1975|5|23}} {{Fb|Ķīna}}
+|49
+|195
+|107
+|187
+|''Nzalang Nacional'' (Nacionālais pērkons)
+|-
+|{{Fb|ERI}}
+|ERI
+|[[CAF]]
+|{{Dat|1992|6|26}} {{Fb|SUD}}
+|121
+|207
+|140
+|185
+|''Red Sea Camels'' (Sarkanās jūras puiši)
+|-
+|{{Fb|ETH}}
+|ETH
+|[[CAF]]
+|{{Dat|1947|12|5}} {{Flaga|FRA}} [[Džibutijas futbola izlase|Franču Somālija]]
+|86
+|155
+|40
+|144
+|''Walia ibex''
+|-
+|{{Fb|EGY}}
+|EGY
+|[[CAF]]
+|{{Dat|1920|8|28}} {{Fb|ITA}}
+|9
+|75
+|14
+|68
+|''El-Fara'ena'' (Faraoni)
+|-
+|{{Fb|Fēru Salas}}
+|FRO
+|[[UEFA]]
+|{{Dat|1988|8|24}} {{Fb|Islande}}
+|74
+|198
+|136
+|173
+|''Landsliðið'' (Nacionālā komanda)
+|-
+|{{Fb|Fidži}}
+|FIJ
+|[[OFC]]
+|{{Dat|1951|10|7}} {{Fb|Jaunzēlande}}
+|94
+|199
+|77
+|162
+|''Bula Boys''
+|-
+|{{Fb|Filipīnas}}
+|PHI
+|[[AFC]]
+|{{dat|1913|2|1}} {{Fb|Ķīna|1912}}
+|111
+|195
+|139
+|218
+|''Azkals'' (Ielas suņi)
+|-
+| {{fb|Francija}} || FRA || [[UEFA]] || {{dat|1904|5|1}} {{fb|Beļģija}} || 1 || 27 || 1 || 44 || ''Les Bleus'' (Zilie), ''Les Tricolores'' (Trīskrāsainie)
+|-
+|{{Fb|GAB}}
+|GAB
+|[[CAF]]
+|{{Dat|1960|4|13}} {{Flaga|Augšvolta}} [[Burkinafaso futbola izlase|Augšvolta]]
+|30
+|125
+|63
+|123
+|''Les Panthères'' (Panteras)
+|-
+|{{Fb|GAM}}
+|GAM
+|[[CAF]]
+|{{Dat|1962|12|5}} {{Fb|SEN}}
+|65
+|179
+|93
+|145
+|''The Scorpions'' (Skorpioni)
+|-
+|{{Fb|GHA}}
+|GHA
+|[[CAF]]
+|{{Dat|1950|5|28}} {{Fb|NGA}}
+|14
+|89
+|13
+|97
+|''Black Stars'' (Melnās zvaigznes)
+|-
+|{{Fb|Gibraltārs}}
+|GIB
+|[[UEFA]]
+|{{Dat|2013|11|19}} {{Fb|Slovākija}}
+|190
+|206
+|174
+|188
+|''Team 54''
+|-
+|{{Fb|Grenāda}}
+|GRN
+|[[CONCACAF]]
+|{{Dat|1934|10|13}} {{Fb|Britu Gviāna}}
+|88
+|176
+|126
+|186
+|''Spice Boys''
+|-
+|{{Fb|Grieķija}}
+|GRE
+|[[UEFA]]
+|{{Dat|1929|4|7}} {{Fb|Itālija|1861}}
+|8
+|66
+|7
+|78
+|''Ethniki'' (Nacionālie)
+|-
+|{{Fb|Gruzija}}
+|GEO
+|[[UEFA]]
+|{{Dat|1990|5|27}} {{Fb|Lietuva}}
+|42
+|156
+|49
+|108
+|''ჯვაროსნები'' (Krustneši)
+|-
+|{{Fb|Guama}}
+|GUM
+|[[AFC]]
+|{{Dat|1975|8|24}} {{Fb|Fidži}}
+|146
+|205
+|197
+|228
+|''Matao''
+|-
+|{{Fb|Gvatemala}}
+|GUA
+|[[CONCACAF]]
+|{{Dat|1921|9|14}} {{Fb|Hondurasa}}
+|50
+|163
+|40
+|105
+|''Los Chapines''
+|-
+|{{Fb|Gviāna}}
+|GUY
+|[[CONCACAF]]
+|{{Dat|1905|7|21}} {{Fb|Trinidāda un Tobago}}
+|88
+|185
+|86
+|183
+|''Golden Jaguars'' (Zelta jaguāri)
+|-
+|{{Fb|GUI}}
+|GUI
+|[[CAF]]
+|{{Dat|1960|10|2}} {{Fb|NGA}}
+|22
+|123
+|23
+|125
+|''Syli Nationale'' (Nacionālie ziloņi)
+|-
+|{{Fb|GNB}}
+|GNB
+|[[CAF]]
+|{{Dat|1952|6|2}} {{flaga|Gambija}} [[Gambijas futbola izlase|Britu Gambija]]
+|68
+|195
+|99
+|159
+|''Djurtus'' (Hiēnsuņi)
+|-
+|{{Fb|Haiti}}
+|HAI
+|[[CONCACAF]]
+|{{Dat|1925|3|22}} {{Fb|Jamaika}}
+|38
+|155
+|40
+|121
+|''Les Grenadiers'' (Grenadieri)
+|-
+|{{Fb|Hondurasa}}
+|HON
+|[[CONCACAF]]
+|{{Dat|1921|9|14}} {{Fb|Gvatemala}}
+|20
+|101
+|20
+|104
+|''Los Catrachos''
+|-
+|{{Fb|Hongkonga}}
+|HKG
+|[[AFC]]
+|{{Dat|1947|4|20}} {{Fb|South Vietnam}}
+|90
+|172
+|58
+|169
+|''The Strength'' (Stiprums)
+|-
+| {{fb|Horvātija}} || CRO || [[UEFA]] || {{dat|1940|1|2}} {{fb|Šveice}} || 3 || 125 || 5 || 26 || ''Vatreni''
+|-
+| {{fb|Igaunija}} || EST || [[UEFA]] || {{dat|1920|10|17}} {{fb|Somija}} || 47 || 137 || 51 || 175 || ''Sinisärgid''
+|-
+|{{Fb|Indija}}
+|IND
+|[[AFC]]
+|{{dat|1938|9|3}} {{Fb|Austrālija}}
+|94
+|173
+|30
+|186
+|''Blue Tigers'' (Zilie tīģeri)
+|-
+|{{Fb|Indonēzija}}
+|IDN
+|[[AFC]]
+|{{dat|1934|5|13}} {{Fb|Japāna}}
+|76
+|191
+|50
+|178
+|''Merah Putih'' (Sarkanbaltie)
+|-
+|{{Fb|Irāka}}
+|IRQ
+|[[AFC]]
+|{{dat|1957|10|19}} {{Fb|Maroka}}
+|39
+|139
+|22
+|95
+|''Usood Al-Rafidain'' (Divupes lauvas)
+|-
+|{{Fb|Irāna}}
+|IRN
+|[[AFC]]
+|{{dat|1941|8|25}} {{Fb|Afganistāna}}
+|15
+|122
+|18
+|77
+|''Tīm-e Melli-e'' (Nacionālā komanda)
+|-
+|{{Fb|Islande}}
+|ISL
+|[[UEFA]]
+|{{dat|1946|7|17}} {{Fb|Dānija}}
+|18
+|131
+|19
+|128
+|''Strákarnir okkar'' (Mūsu puiši)
+|-
+| {{fb|Itālija}} || ITA || [[UEFA]] || {{dat|1910|5|15}} {{fb|Francija}} || 1 || 17 || 1 || 21 || ''Gli Azzurri'' (Zilie)
+|-
+|{{Fb|Izraēla}}
+|ISR
+|[[UEFA]]
+|{{dat|1948|9|26}} {{fb|ASV}}
+|15
+|99
+|23
+|81
+|''הכחולים-לבנים'' (Zilie un baltie)
+|-
+|{{Fb|Īrija}}
+|IRL
+|[[UEFA]]
+|{{dat|1924|5|28}} {{fb|Bulgārija}}
+|6
+|70
+|8
+|63
+|''The Boys in Green'' (Puiši zaļā)
+|-
+|{{Fb|Jamaika}}
+|JAM
+|[[CONCACAF]]
+|{{dat|1925|3|22}} {{fb|Haiti}}
+|27
+|116
+|38
+|126
+|''Reggae Boyz''
+|-
+|{{Fb|Japāna}}
+|JPN
+|[[AFC]]
+|{{dat|1917|5|9}} {{Fb|Ķīna|1912}}
+|9
+|62
+|8
+|123
+|サムライ・ブルー (Zilie samuraji)
+|-
+|{{Fb|Jaunkaledonija}}
+|NCL
+|[[OFC]]
+|{{dat|1951|9|19}} {{Fb|Jaunzēlande}}
+|93
+|191
+|56
+|175
+|''Les Cagous'' (Kagū)
+|-
+|{{Fb|Jaunzēlande}}
+|NZL
+|[[OFC]]
+|{{dat|1922|6|17}} {{Fb|Austrālija}}
+|47
+|161
+|39
+|100
+|''All Whites'' (Baltie)
+|-
+|{{Fb|Jemena}}
+|YEM
+|[[AFC]]
+|{{dat|1965|9|5}} {{Fb|Sudāna|1956}}
+|90
+|186
+|117
+|169
+|''Al-Shayateen Al-Homr'' (Sarkanie velni)
+|-
+|{{Fb|Jordānija}}
+|JOR
+|[[AFC]]
+|{{dat|1953|7|30}} {{Fb|Sīrija|1932}}
+|37
+|152
+|37
+|143
+|
+|-
+|{{Fb|CPV}}
+|CPV
+|[[CAF]]
+|{{Dat|1979|1|7}} {{Fb|Ekvatoriālā Gvineja}}
+|27
+|182
+|69
+|146
+|''Tubarões Azuis'' (Baltās haizivis)
+|-
+|{{Fb|Kaimanu Salas}}
+|CAY
+|[[CONCACAF]]
+|{{Dat|1985|3|3}} {{Fb|Dominika}}
+|127
+|206
+|155
+|199
+|
+|-
+|{{Fb|Kambodža}}
+|CAM
+|[[AFC]]
+|{{Dat|1956|3|17}} {{Fb|Malaizija}}
+|153
+|198
+|84
+|223
+|អ្នកចម្បាំងអង្គរ (Ankoras kareivji)
+|-
+|{{Fb|Kanāda}}
+|CAN
+|[[CONCACAF]]
+|{{Dat|1885|11|28}} {{Fb|ASV}}
+|40
+|122
+|27
+|92
+|''The Canucks,'' ''''Les Rouges'''' (Sarkanie)
+|-
+|{{Fb|Katara}}
+|QAT
+|[[AFC]]
+|{{Dat|1970|3|27}} {{Fb|Bahreina}}
+|51
+|113
+|24
+|135
+|العنابي (Sarkanbrūnie)
+|-
+|{{Fb|Kazahstāna}}
+|KAZ
+|[[UEFA]]
+|{{Dat|1992|6|1}} {{Fb|Turkmenistāna}}
+|83
+|166
+|70
+|136
+|''Қаршығалар'' (Vanagi)
+|-
+|{{Fb|Kenija}}
+|KEN
+|[[CAF]]
+|{{Dat|1926|5|1}} {{Flaga|Uganda|colonial}} [[Ugandas futbola izlase|Uganda]]
+|68
+|137
+|60
+|140
+|''Harambee Stars''
+|-
+|{{Fb|Kipra}}
+|CYP
+|[[UEFA]]
+|{{Dat|1960|11|13}} {{Fb|Izraēla}}
+|43
+|142
+|69
+|141
+|
+|-
+|{{Fb|Kirasao}}
+|CUW
+|[[CONCACAF]]
+|{{Dat|2011|8|10}} {{Fb|Dominikāna}}
+|63
+|183
+|43
+|188
+|
+|-
+|{{Fb|Kirgizstāna}}
+|KGZ
+|[[AFC]]
+|{{Dat|1992|8|23}} {{Fb|Uzbekistāna}}
+|75
+|201
+|136
+|178
+|''Ак шумкарлар'' (Baltie piekūni)
+|-
+| {{fb|Kolumbija}} || COL || [[Dienvidamerikas Futbola konfederācija|CONMEBOL]] || {{dat|1938|2|10}} {{fb|Meksika}} || 3 || 54 || 3 || 93 || ''Los Cafeteros'' (Kafijas audzētāji)
+|-
+|{{Fb|Komoras}}
+|COM
+|[[CAF]]
+|{{dat|1979|8|26}} {{fb|Mauritānija}}
+|127
+|207
+|163
+|208
+|''Les Coelecantes'' (Celekanti)
+|-
+|{{Fb|Kongo}}
+|CGO
+|[[CAF]]
+|[[1960. gads|1960.]] gada [[Februāris|februārī]] {{fb|Kotdivuāra}}
+|42
+|144
+|37
+|133
+|''Diables Rouges'' (Sarkanie velni)
+|-
+|{{Fb|Kongo Demokrātiskā Republika}}
+|COD
+|[[CAF]]
+|[[1948. gads|1948.]] gadā {{Flaga|Gambija}} [[Gambija]]
+|28
+|133
+|20
+|111
+|''The Leopards'' (Leopardi)
+|-
+|{{Fb|Kosova}}
+|KVX
+|[[UEFA]]
+|{{dat|2014|3|5}} {{fb|Haiti}}
+|114
+|190
+|62
+|122
+|''Dardanët'' (Dardāni)
+|-
+|{{Fb|Kostarika}}
+|CRC
+|[[CONCACAF]]
+|{{dat|1921|9|14}} {{fb|Salvadora}}
+|12
+|93
+|13
+|81
+|''Los Ticos'' (Triko)
+|-
+|{{Fb|Kotdivuāra}}
+|CIV
+|[[CAF]]
+|{{dat|1960|4|13}} {{Flaga|Benina}} [[Dahomeja]]
+|12
+|75
+|10
+|70
+|''Les Éléphants'' (Ziloņi)
+|-
+| {{fb|Krievija}} || RUS || [[UEFA]] || {{dat|1992|8|16}} {{fb|Meksika}} || 3 || 61 || 7 || 44 || ''Медведи'' (Lāči), ''Золотые орлы'' (Zelta ērgļi)
+|-
+|{{Fb|Kuba}}
+|CUB
+|[[CONCACAF]]
+|{{dat|1930|3|16}} {{Fb|Jamaika}}
+|46
+|182
+|52
+|147
+|''Leones del Caribe'' (Karību jūras lauvas)
+|-
+|{{Fb|Kuka Salas}}
+|COK
+|[[OFC]]
+|{{dat|1971|9|2}} {{Flaga|Francija}} [[Taiti futbola izlase|Taiti]]
+|166
+|207
+|170
+|224
+|
+|-
+|{{Fb|Kuveita}}
+|KUW
+|[[AFC]]
+|{{dat|1961|9|3}} {{Fb|Lībija}}
+|24
+|189
+|28
+|136
+|''Al-Azraq'' (Zilie)
+|-
+|{{Fb|Ķīna}}
+|CHN
+|[[AFC]]
+|{{dat|1913|2|4}} {{Fb|Filipīnas|1912}}
+|37
+|109
+|23
+|92
+|''Lóng zhī duì'' (Drakonu komanda)
+|-
+|{{Fb|Laosa}}
+|LAO
+|[[AFC]]
+|{{Dat|1961|12|12}} {{Fb|South Vietnam}}
+|134
+|210
+|142
+|224
+|
+|-
+| {{fb|Latvija}} || LVA || [[UEFA]] || {{dat|1922|9|4}} {{fb|Igaunija}} || 45 || 119 || 45 || 124 || Sarkanbaltsarkanie
+|-
+|{{Fb|Lesoto}}
+|LES
+|[[CAF]]
+|{{dat|1970|8|8}} {{fb|Malāvija}}
+|105
+|185
+|122
+|179
+|''Likuena'' (Krokodili)
+|-
+|{{Fb|Libāna}}
+|LIB
+|[[AFC]]
+|{{dat|1940|4|27}} {{Flaga|Lielbritānija}} [[Palestīnas futbola izlase|Palestīnas mandātteritorijas futbola izlase]]
+|77
+|178
+|46
+|164
+|رجال الأرز (Ciedras)
+|-
+|{{Fb|Libērija}}
+|LBR
+|[[CAF]]
+|[[1954. gads|1954.]] gadā {{Flaga|Francija}} [[Kotdivuāras futbola izlase|Kotdivuāra]]
+|66
+|164
+|67
+|151
+|''Lone Star'' (Vientuļās zvaigznes)
+|-
+| {{fb|Lietuva}} || LTU || [[UEFA]] || {{dat|1923|6|24}} {{fb|Igaunija}} || 37 || 139 || 48 || 127 ||
+|-
+|{{Fb|Lihtenšteina}}
+|LIE
+|[[UEFA]]
+|{{dat|1981|6|14}} {{fb|Malta}}
+|118
+|191
+|145
+|183
+|''The Blues-Reds'' (Zilisarkanie)
+|-
+|{{Fb|Lībija}}
+|LBY
+|[[CAF]]
+|{{dat|1953|7|29}} {{Flaga|Ēģipte|1952}} [[Ēģiptes futbola izlase|Ēģipte]]
+|36
+|187
+|46
+|124
+|''The Mediterranean Knights'' (Vidusjūras bruņinieki)
+|-
+|{{Fb|Luksemburga}}
+|LUX
+|[[UEFA]]
+|{{dat|1911|10|29}} {{Fb|Francija}}
+|82
+|195
+|69
+|190
+|''d'Roud Léiwen'' (Sarkanās lauvas)
+|-
+|{{Fb|Madagaskara}}
+|MAD
+|[[CAF]]
+|[[1947. gads|1947.]] gadā {{Flaga|Maurīcija|1923}} [[Maurīcijas futbola izlase|Maurīcija]]
+|74
+|190
+|64
+|167
+|''Barea''
+|-
+|{{Fb|Makao}}
+|MAC
+|[[AFC]]
+|{{dat|1948|3|29}} {{Fb|Hongkonga|colonial}}
+|156
+|204
+|182
+|229
+|''The Greens'' (Zaļie)
+|-
+|{{Fb|Malaizija}}
+|MAS
+|[[AFC]]
+|{{dat|1963|10|12}} {{Fb|Taizeme}}
+|75
+|178
+|61
+|185
+|''Skuad Kebangsaan'' (Nacionālā komanda)
+|-
+|{{Fb|Malāvija}}
+|MWI
+|[[CAF]]
+|[[1957. gads|1957.]] gadā {{Fb|Ziemeļrodēzija}}
+|53
+|138
+|53
+|148
+|''The Flames'' (Liesmas)
+|-
+|{{Fb|Maldīvija}}
+|MDV
+|[[AFC]]
+|{{dat|1979|8|27}} {{Fb|Seišelas|1977}}
+|124
+|183
+|163
+|209
+|''Red Snapper'' (Sarkanie asari)
+|-
+|{{Fb|Mali}}
+|MLI
+|[[CAF]]
+|{{dat|1960|4|13}} {{Fb|Centrālāfrikas Republika}}
+|23
+|117
+|40
+|127
+|''Les Aigles'' (Ērgļi)
+|-
+|{{Fb|Malta}}
+|MLT
+|[[UEFA]]
+|{{dat|1957|2|24}} {{Fb|Austrija}}
+|66
+|191
+|98
+|168
+|''Knights of Malta'' (Maltas bruņinieki)
+|-
+|{{Fb|Maroka}}
+|MAR
+|[[CAF]]
+|{{dat|1957|10|19}} {{Flaga|Irāka|1924}} [[Irākas futbola izlase|Irāka]]
+|10
+|95
+|17
+|81
+|أُسُودالأطلس / ''Igrzamn n Atlasi'' (Atlasa lauvas)
+|-
+|{{Fb|Mauritānija}}
+|MTN
+|[[CAF]]
+|{{dat|1961|12|25}} {{Flaga|Madagaskara}} [[Madagaskaras futbola izlase|Malagasu Republika]]
+|81
+|206
+|116
+|182
+|''Al-Murabitun''
+|-
+|{{Fb|Maurīcija}}
+|MRI
+|[[CAF]]
+|[[1947. gads|1947.]] gadā {{Fb|Reinjona}}
+|112
+|203
+|46
+|187
+|''Les Dodos''
+|-
+| {{fb|Meksika}} || MEX || [[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]] || {{dat|1923|1|1}} {{fb|Gvatemala}} || 4 || 40 || 4 || 47 || ''El Tricolor'' (Trīskrāsainie)
+|-
+|{{Fb|Melnkalne}}
+|MNE
+|[[UEFA]]
+|{{dat|2007|3|24}} {{fb|Ungārija}}
+|16
+|199
+|37
+|78
+|''Hrabri sokoli'' (Drosmīgie piekūni)
+|-
+|{{Fb|Mjanma}}
+|MYA
+|[[AFC]]
+|{{dat|1950|2|17}} {{Fb|Hongkonga|colonial}}
+|97
+|182
+|32
+|191
+|''Asian Lions'' (Āzijas lauvas)
+|-
+|{{Fb|Moldova}}
+|MDA
+|[[UEFA]]
+|{{dat|1991|7|2}} {{fb|Gruzija|1990}}
+|37
+|175
+|86
+|148
+|
+|-
+|{{Fb|Mongolija}}
+|MNG
+|[[AFC]]
+|{{dat|1960|10|3}} {{fb|Vjetnama}}
+|160
+|205
+|205
+|225
+|''Хөх Чононууд'' (Zilie vilki)
+|-
+|{{Fb|Montserrata}}
+|MSR
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1991|5|10}} {{fb|Sentlūsija}}
+|165
+|206
+|107
+|233
+|''Emerald Boys'' (Smaragda zēni)
+|-
+|{{Fb|Mozambika}}
+|MOZ
+|[[CAF]]
+|{{dat|1975|6|25}} {{fb|Zambija}}
+|66
+|134
+|85
+|151
+|''Os Mambas''
+|-
+|{{Fb|Namībija}}
+|NAM
+|[[CAF]]
+|{{dat|1989|5|16}} {{Fb|Angola}}
+|68
+|167
+|100
+|165
+|''Brave Warriors'' (Drosmīgie kareivji)
+|-
+|{{Fb|Nepāla}}
+|NEP
+|[[AFC]]
+|{{dat|1972|10|13}} {{Fb|Ķīna}}
+|121
+|196
+|171
+|210
+|''The Gorkhalis''
+|-
+|{{Fb|Nigēra}}
+|NIG
+|[[CAF]]
+|{{dat|1961|12|25}} {{Fb|Čada}}
+|68
+|196
+|103
+|146
+|''Ménas''
+|-
+|{{Fb|Nigērija}}
+|NGA
+|[[CAF]]
+|{{dat|1949|10|8}} {{Fb|Sjerraleone}}
+|5
+|82
+|15
+|72
+|''Super Eagles'' (Superērgļi)
+|-
+|{{Fb|Nikaragva}}
+|NCA
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1929|5|1}} {{Fb|Salvadora}}
+|92
+|193
+|126
+|204
+|''La Azul y Blanco'' (Zilie un baltie)
+|-
+| {{fb|Nīderlande}} || NED || [[UEFA]] || {{dat|1905|4|30}} {{fb|Beļģija}} || 1 || 26 || 1 || 56 || ''Oranje'' (Oranžie), ''Holland''
+|-
+|{{Fb|Norvēģija}}
+|NOR
+|[[UEFA]]
+|{{dat|1908|7|12}} {{fb|Zviedrija}}
+|2
+|88
+|6
+|91
+|''Løvene'' (Lauvas)
+|-
+|{{Fb|Omāna}}
+|OMA
+|[[AFC]]
+|{{dat|1965|9|2}} {{fb|Lībija}}
+|50
+|129
+|49
+|174
+|''Al-Ahmar'' (Sarkanie)
+|-
+|{{Fb|Pakistāna}}
+|PAK
+|[[AFC]]
+|{{dat|1950|10|27}} {{fb|Irāna}}
+|142
+|205
+|96
+|208
+|''Pak Shaheen''
+|-
+|{{Fb|Palestīna}}
+|PLE
+|[[AFC]]
+|{{dat|1953|7|26}} {{fb|Ēģipte|1952}}
+|73
+|191
+|90
+|169
+|أسود كنعان (Kanaānas lauvas)
+|-
+|{{Fb|Panama}}
+|PAN
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1938|2|12}} {{fb|Venecuēla}}
+|29
+|150
+|28
+|151
+|''Los Canaleros'' (Kanāla vīri)
+|-
+|{{Fb|Papua Jaungvineja}}
+|PNG
+|[[OFC]]
+|{{dat|1963|8|29}} {{Fb|Fidži}}
+|153
+|206
+|134
+|188
+|''Kapuls''
+|-
+|{{Fb|Paragvaja}}
+|PAR
+|[[CONMEBOL]]
+|{{dat|1919|5|11}} {{fb|Argentīna}}
+|8
+|103
+|4
+|43
+|''Los Guaraníes''
+|-
+|{{Fb|Peru}}
+|PER
+|[[CONMEBOL]]
+|{{dat|1927|11|1}} {{fb|Urugvaja}}
+|10
+|91
+|10
+|76
+|''La Blanquirroja'' (Balti sarkanie)
+|-
+| {{fb|Polija}} || POL || [[UEFA]] || {{dat|1921|12|18}} {{fb|Ungārija}} || 11 || 78 || 2 || 55 || ''Biało-czerwoni'' (Baltie un sarkanie)
+|-
+| {{fb|Portugāle}} || POR || [[UEFA]] || {{dat|1921|12|18}} {{fb|Spānija}} || 3 || 43 || 2 || 45 || ''A Seleção''
+|-
+|{{Fb|Puertoriko}}
+|PUR
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1940|11|12}} {{fb|Kuba}}
+|97
+|202
+|171
+|201
+|''El Huracán Azul'' (Zilā viesuļvētra)
+|-
+|{{Fb|Ruanda}}
+|RWA
+|[[CAF]]
+|{{dat|1976|6|29}} {{fb|Burundi}}
+|64
+|178
+|95
+|150
+|''Amavubi'' (Lapsenes)
+|-
+|{{Fb|Rumānija}}
+|ROU
+|[[UEFA]]
+|{{dat|1922|6|8}} {{fb|Dienvidslāvija}}
+|3
+|57
+|5
+|49
+|''Tricolorii'' (Trijkrāsainie)
+|-
+|{{Fb|Salvadora}}
+|SLV
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1921|9|14}} {{fb|Kostarika}}
+|49
+|190
+|40
+|125
+|''La Selecta'' (Izlase)
+|-
+|{{Fb|Samoa}}
+|SAM
+|[[OFC]]
+|{{dat|1979|8|31}} {{fb|Zālamana Salas}}
+|146
+|204
+|182
+|224
+|
+|-
+|{{Fb|Sanmarīno}}
+|SMR
+|[[UEFA]]
+|{{dat|1990|11|14}} {{fb|Šveice}}
+|118
+|211
+|165
+|209
+|''La Serenissima''
+|-
+|{{Fb|Santome un Prinsipi}}
+|STP
+|[[CAF]]
+|{{dat|1976|5|2}} {{fb|Gabona}}
+|115
+|200
+|166
+|194
+|''Seleção dos Falcões e Papagaios'' (Piekūnu un papagaiļu komanda)
+|-
+|{{Fb|Saūda Arābija}}
+|KSA
+|[[AFC]]
+|{{dat|1957|1|18}} {{fb|Libāna}}
+|21
+|126
+|27
+|112
+|الأخضر (Zaļie)
+|-
+|{{Fb|Seišelas}}
+|SEY
+|[[CAF]]
+|{{dat|1974|2|13}} {{Fb|Reinjona}}
+|129
+|200
+|168
+|198
+|''The Pirates'' (Pirāti)
+|-
+|{{Fb|Senegāla}}
+|SEN
+|[[CAF]]
+|[[1959. gads|1959.]] gadā {{Flaga|Gambija}} [[Gambijas futbola izlase|Britu Gambija]]
+|20
+|99
+|21
+|105
+|''Les Lions de la Téranga'' (Terangas lauvas)
+|-
+|{{Fb|Sentkitsa un Nevisa}}
+|SKN
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1938|8|18}} {{Fb|Grenāda}}
+|73
+|176
+|109
+|175
+|''The Sugar Boyz'' (Cukura zēni)
+|-
+|{{Fb|Sentlūsija}}
+|LCA
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1989|6|18}} {{Fb|Jamaika}}
+|108
+|192
+|133
+|189
+|
+|-
+|{{Fb|Sentvinsenta un Grenadīnas}}
+|VIN
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1936|9|12}} {{Fb|Barbadosa}}
+|73
+|180
+|104
+|182
+|''Vincy Heat''
+|-
+|{{Fb|Serbija}}
+|SRB
+|[[UEFA]]
+|{{dat|1920|8|28}} {{Fb|Čehoslovākija}}
+|6
+|101
+|4
+|47
+|''Орлови'' (Ērgļi)
+|-
+|{{Fb|Singapūra}}
+|SIN
+|[[AFC]]
+|{{dat|1948|5|22}} {{Fb|Taivāna}}
+|73
+|173
+|103
+|196
+|''The Lions'' (Lauvas)
+|-
+|{{Fb|Sīrija}}
+|SYR
+|[[AFC]]
+|{{dat|1949|11|12}} {{Fb|Turcija}}
+|73
+|152
+|53
+|125
+|
+|-
+|{{Fb|Sjerraleone}}
+|SLE
+|[[CAF]]
+|{{dat|1949|8|10}} {{Fb|Nigērija|colonial}}
+|50
+|172
+|59
+|156
+|''Leone Stars'' (Leones zvaigznes)
+|-
+|{{Fb|Skotija}}
+|SCO
+|[[UEFA]]
+|{{dat|1872|11|30}} {{Fb|Anglija}}
+|13
+|88
+|1
+|64
+|
+|-
+|{{Fb|Slovākija}}
+|SVK
+|[[UEFA]]
+|{{dat|1939|8|27}} {{Fb|Nacistiskā Vācija}}
+|14
+|150
+|14
+|67
+|''Sokoli'' (Vanagi)
+|-
+|{{Fb|Slovēnija}}
+|SVN
+|[[UEFA]]
+|{{dat|1992|6|3}} {{Fb|Igaunija}}
+|15
+|134
+|28
+|87
+|
+|-
+|{{Fb|Somālija}}
+|SOM
+|[[CAF]]
+|[[1958. gads|1958.]] gadā {{Fb|Kenija|colonial}}
+|158
+|207
+|126
+|207
+|''Ocean Stars'' (Okeāna zvaigznes)
+|-
+|{{Fb|Somija}}
+|FIN
+|[[UEFA]]
+|{{dat|1911|10|22}} {{Fb|Zviedrija}}
+|33
+|110
+|30
+|125
+|''Huuhkajat'' (Ūpji)
+|-
+| {{fb|Spānija}} || ESP || [[UEFA]] || {{dat|1920|8|28}} {{fb|Dānija}} || 1 || 25 || 1 || 20 || ''La Furia Roja'' (Sarkanā fūrija)
+|-
+|{{Fb|Sudāna}}
+|SDN
+|[[CAF]]
+|{{dat|1956|5|13}} {{Fb|Etiopija|1987}}
+|74
+|164
+|31
+|155
+|''Sokoor Al Jediane'' (Tuksneša piekūni)
+|-
+|{{Fb|Surinama}}
+|SUR
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{dat|1915|8|17}} {{Fb|Britu Gviāna}}
+|84
+|191
+|54
+|172
+|
+|-
+|{{Fb|Svatini}}
+|SWZ
+|[[CAF]]
+|{{Dat|1968|5|1}} {{Fb|Malāvija}}
+|88
+|190
+|117
+|181
+|''Sihlangu Semnikati'' (Karaļa vairogs)
+|-
+|{{Fb|Šrilanka}}
+|SRI
+|[[AFC]]
+|{{Dat|1952|1|1}} {{Fb|Indija}}
+|122
+|205
+|105
+|225
+|''රන් සිංහයා'' (Zelta lauvas)
+|-
+|{{Fb|Šveice}}
+|SUI
+|[[UEFA]]
+|{{Dat|1905|2|12}} {{Fb|Francija}}
+|3
+|83
+|8
+|62
+|''A-Team'' (A komanda)
+|-
+|{{Fb|Tadžikistāna}}
+|TJK
+|[[AFC]]
+|{{Dat|1992|6|17}} {{Fb|Uzbekistāna}}
+|106
+|180
+|85
+|165
+|''Шерҳои форсй'' (Persijas lauvas)
+|-
+|{{Fb|Taiti}}
+|TAH
+|[[OFC]]
+|{{Dat|1952|9|21}} {{Fb|Jaunzēlande}}
+|111
+|196
+|45
+|167
+|''Toa Aito'' (Dzelzs kareivji)
+|-
+|{{Fb|Ķīnas Republika}}
+|TPE
+|[[AFC]]
+|{{Dat|1913|2|1}} {{Fb|Filipīnas|1912}}
+|121
+|191
+|60
+|213
+|
+|-
+|{{Fb|Taizeme}}
+|THA
+|[[AFC]]
+|{{Dat|1948|8|20}} {{Fb|Taivāna}}
+|43
+|165
+|62
+|137
+|ช้างศึก (Kara ziloņi)
+|-
+|{{Fb|Tanzānija}}
+|TAN
+|[[CAF]]
+|[[1945. gads|1945.]] gadā {{Fb|Uganda|colonial}}
+|65
+|175
+|75
+|168
+|''Taifa Stars''
+|-
+|{{Fb|Tērksas un Kaikosas}}
+|TCA
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{Dat|1999|2|24}} {{Fb|Bahamas}}
+|158
+|211
+|205
+|214
+|
+|-
+|{{Fb|Togo}}
+|TOG
+|[[CAF]]
+|{{Dat|1956|10|13}} {{Fb|Zelta Krasts}}
+|46
+|129
+|56
+|128
+|''Les Éperviers'' (Vanagi)
+|-
+|{{Fb|Tonga}}
+|TGA
+|[[OFC]]
+|{{Dat|1956|10|13}} {{Flaga|Francija}} [[Taiti futbola izlase|Taiti]]
+|163
+|207
+|180
+|235
+|
+|-
+|{{Fb|Trinidāda un Tobago}}
+|TRI
+|[[Ziemeļamerikas, Centrālamerikas un Karību reģiona futbola asociāciju konfederācija|CONCACAF]]
+|{{Dat|1905|7|21}} {{Fb|Britu Gviāna}}
+|25
+|106
+|36
+|119
+|''The Soca Warriors'' (Sokas kareivji)
+|-
+|{{Fb|Tunisija}}
+|TUN
+|[[CAF]]
+|{{Dat|1957|6|25}} {{Fb|Alžīrija}}
+|14
+|65
+|24
+|103
+|''Les Aigles de Carthage'' (Kartāgas ērgļi)
+|-
+|{{Fb|Turcija}}
+|TUR
+|[[UEFA]]
+|{{Dat|1923|10|26}} {{Fb|Rumānija}}
+|5
+|67
+|10
+|72
+|''Ay-Yıldızlılar'' (Mēness zvaigžņotie)
+|-
+|{{Fb|Turkmenistāna}}
+|TKM
+|[[AFC]]
+|{{Dat|1992|6|1}} {{Fb|Kazahstāna|PSRS}}
+|86
+|174
+|83
+|154
+|Zaļie vīri
+|-
+|{{Fb|Uganda}}
+|UGA
+|[[CAF]]
+|{{Dat|1926|5|1}} {{Fb|Kenija|colonial}}
+|62
+|121
+|40
+|129
+|''The Cranes'' (Dzērves)
+|-
+|{{Fb|Ukraina}}
+|UKR
+|[[UEFA]]
+|{{Dat|1992|4|29}} {{Fb|Ungārija}}
+|11
+|132
+|14
+|69
+|''Головна команда'' (Galvenā komanda)
+|-
+|{{Fb|Ungārija}}
+|HUN
+|[[UEFA]]
+|{{Dat|1902|10|12}} {{Fb|Austrija|empire}}
+|18
+|87
+|1
+|80
+|''Nemzeti Tizenegy'' (Nacionālais vienpadsmitnieks)
+|-
+| {{fb|Urugvaja}} || URU || [[Dienvidamerikas Futbola konfederācija|CONMEBOL]] || {{dat|1901|5|16}} {{fb|Argentīna}} || 2 || 55 || 1 || 46 || ''La Celeste'' (Debeszilie)
+|-
+|{{Fb|Uzbekistāna}}
+|UZB
+|[[AFC]]
+|{{dat|1992|6|17}} {{fb|Tadžikistāna}}
+|45
+|119
+|43
+|95
+|Baltie vilki
+|-
+|{{Fb|Vanuatu}}
+|VAN
+|[[OFC]]
+|{{dat|1951|10|4}} {{fb|Jaunzēlande}}
+|131
+|201
+|129
+|191
+|
+|-
+| {{fb|Vācija}} || GER || [[UEFA]] || {{dat|1908|4|5}} {{fb|Šveice}} || 1 || 22 || 1 || 17 || ''Nationalelf'' (Nacionālais vienpadsmitnieks)
+|-
+|{{Fb|Velsa}}
+|WAL
+|[[UEFA]]
+|{{dat|1876|3|26}} {{fb|Skotija}}
+|8
+|117
+|3
+|88
+|''The Dragons'' (Pūķi)
+|-
+|{{Fb|Venecuēla}}
+|VEN
+|[[Dienvidamerikas Futbola konfederācija|CONMEBOL]]
+|{{dat|1938|2|12}} {{fb|Panama}}
+|25
+|129
+|18
+|127
+|''La Vinotinto''
+|-
+|{{Fb|Vjetnama}}
+|VIE
+|[[AFC]]
+|{{dat|1947|4|20}} {{fb|Hongkonga|colonial}}
+|84
+|172
+|58
+|175
+|''Rồng Vàng'' (Zelta pūķi)
+|-
+|{{Fb|Zambija}}
+|ZAM
+|[[CAF]]
+|[[1946. gads|1946.]] gadā {{Fb|Dienvidrodēzija}}
+|15
+|102
+|27
+|106
+|''Chipolopolo'' (Vara bultas)
+|-
+|{{Fb|Zālamana Salas}}
+|SOL
+|[[OFC]]
+|{{dat|1963|8|30}} {{fb|Vanuatu}}
+|120
+|200
+|109
+|177
+|''Bonitos'' (Pelanīdas)
+|-
+|{{Fb|Ziemeļīrija}}
+|NIR
+|[[UEFA]]
+|{{dat|1882|2|18}} {{fb|Anglija}}
+|20
+|129
+|5
+|114
+|''Green and White Army'' (Zaļā un Baltā armija)
+|-
+|{{Fb|Ziemeļkoreja}}
+|PRK
+|[[AFC]]
+|{{dat|1956|10|7}} {{Fb|Ķīna}}
+|57
+|181
+|10
+|131
+|''Chollima''
+|-
+|{{Fb|Ziemeļmaķedonija}}
+|MKD
+|[[UEFA]]
+|{{dat|1993|10|13}} {{Fb|Slovēnija}}
+|46
+|166
+|41
+|113
+|''Црвени Рисови'' (Sarkanie lūši)
+|-
+|{{Fb|Zimbabve}}
+|ZIM
+|[[CAF]]
+|{{Dat|1929|6|26}} {{Flaga|Anglija}} [[Anglijas futbola izlase|Anglija XI]]
+|40
+|131
+|56
+|128
+|''The Warriors'' (Kareivji)
+|-
+|{{Fb|Zviedrija}}
+|SWE
+|[[UEFA]]
+|{{dat|1908|7|12}} {{Fb|Norvēģija}}
+|2
+|45
+|2
+|48
+|''Blågult'' (Zilidzeltenie)
+|}
+
+== Vairs neeksistējošas izlases ==
+{| class="sortable wikitable"
+|-
+! rowspan=2 | Izlase || rowspan=2 | FIFA<br>kods || rowspan=2 | Konfederācija || rowspan=2 | Pirmā spēle un pretinieks || colspan=2 | FIFA rangs || colspan=2 | ELO rangs || rowspan=2 | Iesauka || rowspan=2 | Pēdējā spēle un pretinieks
+|-
+! Augstākā<br />vieta || Zemākā<br />vieta || Augstākā<br />vieta || Zemākā<br />vieta
+|-
+|{{Fb|Čehoslovākija}}
+|TCH
+|[[UEFA]]
+|{{dat|1920|8|28}} {{fb|Dienvidslāvija}}
+|
+|
+|1
+|29
+|
+|{{dat|1993|11|17}} {{fb|Beļģija}}
+|-
+| {{fb|Krievijas Impērija}} || RUS || [[UEFA]] || {{dat|1912|6|30}} {{fb|Somija}} ||  ||  ||  ||  ||  || {{dat|1914|7|12}} {{fb|Norvēģija}}
+|-
+| {{fb|NVS}} || CIS || [[UEFA]] || {{dat|1992|1|25}} {{fb|ASV}} ||  ||  ||  ||  ||  || {{dat|1992|6|18}} {{fb|Skotija}}
+|-
+| {{fb|Padomju Savienība}} || URS || [[UEFA]] || {{dat|1924|11|16}} {{fb|Turcija}} ||  ||  || 1 ||  || ''Красная армия'' (Sarkanā armija) || {{dat|1991|11|13}} {{fb|Kipra}}
+|-
+| {{fb|VDR}} || GDR || [[UEFA]] || {{dat|1952|9|21}} {{fb|Polija}} ||  ||  ||  ||  ||  || {{dat|1990|9|12}} {{fb|Beļģija}}
+|-
+| [[Attēls:Flag of Saar (1947–1956).svg|left|frameless|14x14px]][[Zārlandes futbola izlase|Zārlande]] || SAA || [[UEFA]] || {{dat|1950|11|22}} {{fb|Šveice}} ||  ||  || 31 || 49 ||  || {{dat|1956|6|6}} {{fb|Nīderlande}}
+|}
+
+== Piezīmes ==
+{{atsauces|refs=
+<ref name=piezīme>Informācija ir pareiza uz 2017. gada 25. februāri</ref>
+}}
+
+{{UEFA izlases}}
+{{CONMEBOL izlases}}
+{{CONCACAF izlases}}
+{{CAF izlases}}
+{{AFC izlases}}
+{{OFC izlases}}
+{{Pasaules futbols}}
+
+[[Kategorija:Futbola izlases| ]]

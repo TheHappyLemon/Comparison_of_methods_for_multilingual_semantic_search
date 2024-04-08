@@ -1,0 +1,91 @@
+[[Attēls:EU-Estonia.svg|250px|thumbnail|[[Igaunija]]s novietojums]]
+'''[[Igaunija]]s administratīvo iedalījumu''' veido [[Igaunijas apriņķi|15 apriņķi]] ({{val|et|maakond}}). Šāds iedalījums pastāv kopš 1990. gada, kad Igaunija atguva neatkarību no [[Padomju Savienība]]s. Apriņķi sīkāk iedalās 79 pašvaldībās: 14 pilsētu ({{val|et|linn}}) pašvaldībās un [[Igaunijas pagasti|65 pagastos]] ({{val|et|vald}}).
+
+2017. gadā pabeidza Igaunijas otrā līmeņa administratīvā iedalījuma reformu, kas samazināja pašvaldību skaitu un līdz ar to palielināja iedzīvotāju skaitu tajās. Pirms tam bija 33 pilsētu un 183 pagastu pašvaldības. No tām 169 pašvaldībās bija mazāk par 5 tūkstošiem iedzīvotāju. Pēc reformas tikai 15 pašvaldībās iedzīvotāju skaits ir mazāks par 5 tūkstošiem.
+
+== Administratīvo līmeņu shēma ==
+{| class="wikitable"
+! 1. līmenis !! 2. līmenis 
+|-
+| 15 apriņķi || 14 pilsētas,<br/>65 pagasti
+|}
+
+== Pirmā līmeņa administratīvais iedalījums ==
+{{pamatraksts|Igaunijas apriņķi}}
+{| width=400px align=right
+|-
+|
+{{Image label begin|image=Estonia location map (2005-2017) no rivers.svg|width=400|float=none}}
+
+{{Image label small|x=0.320|y=0.380|scale=500|text=[[Pērnavas apriņķis|Pērnavas<br />apriņķis]]}}
+{{Image label small|x=0.090|y=0.410|scale=500|text=[[Sāremā apriņķis|Sāremā<br />apriņķis]]}}
+{{Image label small|x=0.110|y=0.310|scale=500|text=[[Hījumā apriņķis|Hījumā<br />apriņķis]]}}
+{{Image label small|x=0.240|y=0.310|scale=500|text=[[Lēnes apriņķis|Lēnes<br />apriņķis]]}}
+{{Image label small|x=0.350|y=0.300|scale=500|text=[[Raplas apriņķis|Raplas<br />apriņķis]]}}
+{{Image label small|x=0.515|y=0.200|scale=500|text=[[Rietumviru apriņķis|Rietumviru<br />apriņķis]]}}
+{{Image label small|x=0.345|y=0.225|scale=500|text=[[Harju apriņķis]]}}
+{{Image label small|x=0.640|y=0.230|scale=500|text=[[Austrumviru apriņķis|Austrumviru<br />apriņķis]]}}
+{{Image label small|x=0.460|y=0.310|scale=500|text=[[Jervas apriņķis|Jervas<br />apriņķis]]}}
+{{Image label small|x=0.550|y=0.350|scale=500|text=[[Jegevas apriņķis|Jegevas<br />apriņķis]]}}
+{{Image label small|x=0.450|y=0.430|scale=500|text=[[Viljandi apriņķis|Viljandi<br />apriņķis]]}}
+{{Image label small|x=0.580|y=0.420|scale=500|text=[[Tartu apriņķis|Tartu<br />apriņķis]]}}
+{{Image label small|x=0.510|y=0.500|scale=500|text=[[Valgas apriņķis|Valgas<br />apriņķis]]}}
+{{Image label small|x=0.630|y=0.480|scale=500|text=[[Pelvas apriņķis|Pelvas<br />apriņķis]]}}
+{{Image label small|x=0.600|y=0.540|scale=500|text=[[Veru apriņķis|Veru<br />apriņķis]]}}
+{{Image label end}}
+|}
+
+Igaunijā ir 15 apriņķi. Katra apriņķa pārvaldi (''maavalitsus'') vada [[persona]], kuras amata nosaukums igauņu valodā ir ''[[maavanem]]'' (pārvaldnieks). Šajā amatā persona tiek ievēlēta uz pieciem gadiem, kā arī tā pārstāv apriņķi [[Igaunijas valdība|Igaunijas valdībā]].
+
+Igaunijas apriņķi ir šādi:
+
+{| style="background:transparent;" cellspacing="2px"  
+|
+{| class="sortable wikitable"  style="text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:right;"
+! width="160px" | [[Igaunijas administratīvais iedalījums|Apriņķis]] || ! width="110px" | Admin. centrs || Platība (km²) || [[Iedzīvotāju skaits|Iedzīvotāji]]
+|-
+| [[Austrumviru apriņķis]] || [[Jehvi]] || 3364 || 169688
+|-
+| [[Harju apriņķis]] || [[Tallina]] || 4333 || 524938
+|-
+| [[Hījumā apriņķis]] || [[Kerdla]] || 1023 || 10097
+|-
+| [[Jegevas apriņķis]] || [[Jegeva]] || 2604 || 36780
+|-
+| [[Jervas apriņķis]] || [[Paide]] || 2623 || 36130
+|-
+| [[Lēnes apriņķis]] || [[Hāpsalu]] || 2383 || 27477
+|-
+| [[Pelvas apriņķis]] || [[Pelva]] || 2165 || 31002
+|-
+| [[Pērnavas apriņķis]] || [[Pērnava]] || 4807 || 88466
+|-
+| [[Raplas apriņķis]] || [[Rapla]] || 2980 || 36678
+|-
+| [[Rietumviru apriņķis]] || [[Rakvere]] || 3465 || 67151
+|-
+| [[Sāremā apriņķis]] || [[Kuresāre]] || 2922 || 34723
+|-
+| [[Tartu apriņķis]] || [[Tartu]] || 2993 || 149605
+|-
+| [[Valgas apriņķis]] || [[Valga]] || 2044 || 34135
+|-
+| [[Veru apriņķis]] || [[Veru]] || 2305 || 37888
+|-
+| [[Viljandi apriņķis]] || [[Viljandi]] || 3422 || 55657
+|}
+|}
+
+== Otrā līmeņa administratīvais iedalījums ==
+{{pamatraksts|Igaunijas pilsētu uzskaitījums|Igaunijas pagasti}}
+Administratīvi sīkāk apriņķi dalās pilsētās (''linnad'') un pagastos (''vallad''). Kopā ir 14 pilsētas un 65 pagasti. Patiesībā Igaunijā ir 47 pilsētas, bet vairumam no tām nav otrā līmeņa administratīvā iedalījuma statusa. Tās ietilpst vai nu kādas citas pilsētas sastāvā, piemēram, [[Jehvi]] ir [[Kohtla-Jerve|Kohtlas-Jerves]] pilsētas daļa, vai kāda no pagasta pakļautībā.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Igaunijas administratīvais iedalījums}}
+{{Eiropas valstu administratīvie iedalījumi}}
+
+[[Kategorija:Igaunijas administratīvais iedalījums| ]]
+[[Kategorija:Valstu administratīvais iedalījums]]

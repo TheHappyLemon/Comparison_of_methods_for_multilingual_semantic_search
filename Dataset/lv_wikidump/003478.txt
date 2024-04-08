@@ -1,0 +1,113 @@
+{{Tautas infokaste
+| group = Dāņi
+| image = [[Attēls:Wikidanesju8.jpg|300px]]
+| caption = {{flatlist|
+* [[Hanss Kristians Andersens]]
+* [[Nilss Bors]]
+* [[Hanss Kristians Ersteds]]
+* [[Svens I Dakšbārda]]
+* [[Peters Šmeihels]]
+* [[Sērens Kirkegors]]
+* [[Tiho Brahe]]
+* [[Karena Bliksena]]
+}}
+| population = ap '''7 000 000'''
+| region1 = {{flag|Denmark}}
+| pop1 = 4 996 980
+| ref1 = <!--This table only lists people defined as being "of Danish origin" by the Danish Institute of Statistics, not all holders of Danish citizenship. Read p. 2, table 1 in the Danmarks Statistik publication - http://www.dst.dk/nytudg/11817 - before changing this figure--><ref name="Denmark">{{Tīmekļa atsauce|url=http://www.dst.dk/HomeUK/Statistics/focus_on/focus_on_show.aspx?sci=565 |title=Find statistics - Statistics Denmark |publisher=Dst.dk |date= |accessdate=2015-03-11}}</ref>
+| region2 = {{flag2|United States}}
+| pop2 = 1 430 897
+| ref2 = <ref>[http://www.euroamericans.net/dane.htm#]  {{Webarchive|url=https://web.archive.org/web/20160304202339/http://www.euroamericans.net/dane.htm%23 |date=04.03.2016 }}</ref>
+| region3 = {{flag2|Canada}}
+| pop3 = 200 035
+| ref3 = <ref name="statcan1">{{Tīmekļa atsauce |url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnocultural Portrait of Canada - Data table |publisher=2.statcan.ca |date=2010-10-06 |accessdate=2015-03-11 |archive-date=2013-07-23 |archive-url=https://web.archive.org/web/20130723224016/http://www12.statcan.gc.ca/census-recensement/2006/index-eng.cfm }} {{Webarchive|url=https://web.archive.org/web/20130723224016/http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |date=2013-07-23 }}</ref>
+| region4 = {{flag2|Brazil}}
+| pop4 = 140 000
+| region5 = {{flag2|Norway}}
+| pop5 = 52 510
+| ref5 = <ref>{{Tīmekļa atsauce|author=Statistics Norway|title=Persons with immigrant background by immigration category, country background and sex. 1 January 2009 (Immigrants and Norwegian-norn to immigrant parents + Other immigrant background)|url=http://www.ssb.no/english/subjects/02/01/10/innvbef_en/tab-2009-04-30-05-en.html|accessdate=2009-08-27|archiveurl=https://archive.today/20111112103850/http://www.ssb.no/english/subjects/02/01/10/innvbef_en/tab-2009-04-30-05-en.html|archivedate=2011-11-12}}</ref>
+| region6 = {{flag2|Australia}}
+| pop6 = 50 413
+| ref6 = <ref>{{Tīmekļa atsauce |url=http://www.censusdata.abs.gov.au/ABSNavigation/prenav/ViewData?action=404&documentproductno=0&documenttype=Details&order=1&tabname=Details&areacode=0&issue=2006&producttype=Census%20Tables&javascript=true&textversion=false&navmapdisplayed=true&breadcrumb=TLPD&&collection=Census&period=2006&productlabel=Ancestry%20(full%20classification%20list)%20by%20Sex&producttype=Census%20Tables&method=Place%20of%20Usual%20Residence&topic=Ancestry |title=Improved access to historical census data |publisher=Censusdata.abs.gov.au |accessdate=2015-03-11 |archive-date=2019-09-13 |archive-url=https://web.archive.org/web/20190913112722/https://www.abs.gov.au/websitedbs/censushome.nsf/home/cowsredirect }}</ref>
+| region7 = {{flag2|Germany}}
+| pop7 = 50 000
+| ref7 = <ref>[http://www.tatsachen-ueber-deutschland.de/en/federal-states/content/background-1/national-minorities.html] {{Webarchive|url=https://web.archive.org/web/20080624232929/http://www.tatsachen-ueber-deutschland.de/en/federal-states/content/background-1/national-minorities.html |date=24.06.2008 }}</ref>
+| region8 = {{flag2|Sweden}}
+| pop8 = 42 602
+| ref8 = <ref>{{Tīmekļa atsauce |url=http://www.scb.se/statistik/_publikationer/BE0101_2005A01_BR_BE0106TAB.pdf |format=PDF |title=Tabeller over Sveriges befolkning 2005 |publisher=Scb.se |accessdate=2015-03-11 |archiveurl=https://web.archive.org/web/20150924141524/http://www.scb.se/statistik/_publikationer/BE0101_2005A01_BR_BE0106TAB.pdf |archivedate=2015-09-24 }}</ref>
+| region9 = {{flag2|Argentina}}
+| pop9 = 13 000
+| ref9 = <ref>[http://www.danes-in-argentina.dk/]  {{Webarchive|url=https://web.archive.org/web/20100116073332/http://www.danes-in-argentina.dk/ |date=16.01.2010 }}</ref>
+| region10 = {{flag2|United Kingdom}}
+| pop10 = 18 493 <small>(tikai Dānijā dzimušie)</small>
+| ref10 = <ref>{{Ziņu atsauce|url=http://news.bbc.co.uk/1/shared/spl/hi/uk/05/born_abroad/countries/html/denmark.stm |title=UK &#124; Born Abroad &#124; Denmark |publisher=BBC News |date= |accessdate=2015-03-11}}</ref>
+| region11 = {{flag2|Spain}}
+| pop11 = 8944
+| ref11 = <ref>{{Tīmekļa atsauce|url=http://www.ine.es/prodyser/pubweb/anuario06/anu06_02demog.pdf |format=PDF |title=Demografia |publisher=Ine.es |accessdate=2015-03-11}}</ref>
+| region13 = {{flag2|France}}
+| pop13 = 7000
+| ref13 = <ref>{{Tīmekļa atsauce |author=Gynther Adolphsen |url=http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/688507Reference |title=6000-7000 danskere bor ved den franske Riviera - Frankrig |publisher=Udvandrerne.dk |date= |accessdate=2015-03-11 |archiveurl=https://web.archive.org/web/20150402201045/http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/688507Reference |archivedate=2015-04-02 }} {{Webarchive|url=https://web.archive.org/web/20150402201045/http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/688507Reference |date=2015-04-02 }}</ref>
+| region14 = {{flag2|Greenland}}
+| pop14 = 6348
+| ref14 = <ref name=cia>{{Tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html |title=CIA - The World Factbook -- Greenland |accessdate=2013-10-13 |publisher=CIA |archiveurl=https://web.archive.org/web/20200509035824/https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html |archivedate=2020-05-09 |deadurl=no }}</ref>
+| region15 = {{flag2|Switzerland}}
+| pop15 = 4251
+| ref15 = <ref>{{Tīmekļa atsauce |url=http://www.statsborger.dk/danskere_i_udlandet.htm |title=Hvor mange dansker bor i udlandet |publisher=Statsborger.dk |date=2010-06-28 |accessdate=2015-03-11 |archiveurl=https://web.archive.org/web/20150223222545/http://www.statsborger.dk/danskere_i_udlandet.htm |archivedate=2015-02-23 }} {{Webarchive|url=https://web.archive.org/web/20150223222545/http://www.statsborger.dk/danskere_i_udlandet.htm |date=2015-02-23 }}</ref>
+| region16 = {{flag2|New Zealand}}
+| pop16 = 3507
+| ref16 = <ref>[http://www.stats.govt.nz/NR/rdonlyres/868341F6-C705-4738-9792-EDE1F79AE9B2/0/MoreCensus96CountsPeople.doc] {{Webarchive|url=https://web.archive.org/web/20090324212932/http://www.stats.govt.nz/NR/rdonlyres/868341F6-C705-4738-9792-EDE1F79AE9B2/0/MoreCensus96CountsPeople.doc |date=24.03.2009 }}</ref>
+| region17 = {{flag2|Faroe Islands}}
+| pop17 = 2956
+| region18 = {{flag2|Iceland}}
+| pop18 = 2802
+| ref18 = <ref>{{Tīmekļa atsauce
+|url=http://www.statice.is/?PageID=1174&src=/temp_en/Dialog/varval.asp?ma=MAN12100%26ti=Population+by+country+of+birth+1981%2D2006+%26path=../Database/mannfjoldi/Faedingarland/%26lang=1%26units=Fj%F6ldi
+|title=Population by country of birth 1981-2006 by country and year: Denmark, 2006
+|date=31 December 2006
+|publisher=Statistics Iceland (English version)
+|accessdate=2008-03-06}}</ref>
+| region22 = {{flag2|Ireland}}
+| pop22 = 809
+| ref22 = <ref>[http://www.cso.ie/statistics/placebirthagegroup.htm] {{Webarchive|url=https://web.archive.org/web/20110812062733/http://www.cso.ie/statistics/placebirthagegroup.htm |date=12.08.2011 }}</ref>
+| region23 = {{flag2|Austria}}
+| pop23 = 806
+| ref23 = <ref>[http://www.ambwien.um.dk/de/menu/Daenemark/Bande+zwischen+Dänemark+und+Österreich] {{Webarchive|url=https://web.archive.org/web/20111113043525/http://www.ambwien.um.dk/de/menu/Daenemark/Bande%2Bzwischen%2BD%C3%A4nemark%2Bund%2B%C3%96sterreich |date=13.11.2011 }}</ref>
+| region25 = {{flag2|Japan}}
+| pop25 = 500
+| ref25 = <ref>{{Tīmekļa atsauce |author=Kent Dahl |url=http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/2427595Reference |title=500 danskere i Tokyo - Japan |publisher=Udvandrerne.dk |date= |accessdate=2015-03-11 |archiveurl=https://web.archive.org/web/20150402122144/http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/2427595Reference |archivedate=2015-04-02 }} {{Webarchive|url=https://web.archive.org/web/20150402122144/http://www.udvandrerne.dk/JLKM/Udvandre.nsf/Uniq/2427595Reference |date=2015-04-02 }}</ref>
+| region26 = {{flag2|Lebanon}}
+| pop26 = 400
+| ref26 = <ref>[http://www.ambbeirut.um.dk/en/menu/AboutUs/Interviews+and+articles/InterviewWithAmbassadorOfDenmarkJanTopChristensen.htm] {{Webarchive|url=https://web.archive.org/web/20111123232428/http://www.ambbeirut.um.dk/en/menu/AboutUs/Interviews+and+articles/InterviewWithAmbassadorOfDenmarkJanTopChristensen.htm |date=23.11.2011 }}</ref>
+| langs = [[Dāņu valoda|dāņu]]
+| religions = [[Luterānisms]], ir arī [[ateisms|ateisti]] un [[katolicisms|katoļi]]
+}}
+'''Dāņi''' ({{Val|da|danskere}}) ir [[Dānija]]s pamatiedzīvotāji. Dzīvo arī [[Zviedrija|Zviedrijā]], [[Norvēģija|Norvēģijā]], [[Vācija|Vācijā]] ([[Šlēzviga-Holšteina|Šlēzvigā-Holšteinā]]), [[Amerikas Savienotās Valstis|ASV]], [[Kanāda|Kanādā]] un [[Austrālija|Austrālijā]].
+
+Pieder Lielās [[eiropeīdā rase|eiropeīdās rases]] Atlantijas-Baltijas apakšrases tipam. Runā dāņu valodā, kura ietilpst indoeiropiešu saimes ģermāņu apakšgrupā. Ir trīs dialektu grupas: rietumu ([[Jitlande]]s (Jitu)), salu ([[Zēlande (sala)|Zēlande]]s, [[Fīna]]s uc.) un austrumu ([[Bornholma]], [[Zviedrija|Dienvidzviedrija]]). Rakstības pamatā [[latīņu alfabēts]].
+
+Domājams, ka dāņu un tiem radniecīgo tautu — zviedru un norvēģu — kopīgie priekšteči bija uz Jitlandes pussalu un Dānijas arhipelāga teritoriju 3. gt. p.m.ē. atnākušie lopkopji un zemkopji. Skandināvu ciltis un galvenokārt dāni, kļuva par dāņu nācijas etnisko pamatu. Dāņu sastāvā iekļāvās daļa [[frīzi|frīzu]], kuri apdzīvoja Jitlandes DR un R salas un Baltijas slāvi, kuri apdzīvoja daļu Dānijas arhipelāga salu.
+
+Senākie dāņu rakstības pieminekļi ir vikingu laika [[rūnu raksts|rūnu]] raksti, kuru sākums meklējams senģermāņu rūnu rakstā. [[Vikingi|Vikingu]] laikmetā izveidojās Dānijas valsts, par reliģiju tika pieņemta [[kristietība]]. 11.—12. gadsimtā veidojas dāņu tautība un 19. gadsimtā izveidojās dāņu nācija.
+
+== Dāņu skaita izmaiņas Latvijā pēc tautas skaitīšanu datiem (1897—2011) ==
+{| class="wikitable"
+|-
+! 1897!! 1920 !! 1925 !! 1930 !! 1935 !! 1959 !! 1970 !! 1979 !! 1989 !! 2000 !! 2011
+|-
+| 420|| 236|| 409|| 364|| 236|| {{nz}} || 2|| 6|| 6|| 71|| 170
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa-aizmetnis}}
+
+{{Skandināvu tautas}}
+
+[[Kategorija:Eiropas tautas]]
+[[Kategorija:Dānijas tautas]]
+[[Kategorija:Grenlandes tautas]]

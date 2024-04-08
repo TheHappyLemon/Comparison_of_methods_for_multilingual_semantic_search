@@ -1,0 +1,87 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Braga
+ | official_name            = ''Braga''
+ | nickname                 = 
+ | motto                    = 
+ | settlement_type          = Pašvaldība
+ | image_skyline            = Braga Montage.png
+ | image_caption            = <!-- attēla paraksts -->
+ | image_flag               = Pt-brg1.png
+ | image_shield             = BRG.png
+ | shield_size              =
+ | pushpin_map              = Portugāle
+ | map_caption              = 
+ | subdivision_type         = [[Portugāles reģioni|Reģions]]
+ | subdivision_type1        = [[Portugāles apakšreģioni|Apakšreģions]]
+ | subdivision_type2        = [[Portugāles distrikti|Distrikts]]
+ | subdivision_name         = [[Ziemeļu reģions (Portugāle)|Ziemeļu reģions]]
+ | subdivision_name1        = [[Kavadu apakšeģions|Kavadu]]
+ | subdivision_name2        = [[Bragas distrikts|Braga]]
+ | established_title        = Dibināta
+ | established_date         = 20.g p.m.ē.
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 183.40
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2011
+ | population_footnotes     = 
+ | population_total         = 137,000
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = 
+ | timezone                 = [[Rietumeiropas laiks|WET]]
+ | utc_offset               = +0
+ | timezone_DST             = [[Rietumeiropas vasaras laiks|WEST]]
+ | utc_offset_DST           = +1
+ | latd = 41 | latm = 33 | lats = 4 | latNS = N
+ | longd = 8 | longm = 25 | longs = 42 | longEW = W
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 470x
+ | elevation_footnotes      = 
+ | elevation_m              = 200
+ | website                  = {{url|http://www.cm-braga.pt}}
+ | footnotes                = 
+}}
+
+'''Braga''' ({{val|pt|Braga}}) ir sena pilsēta [[Portugāle]]s ziemeļrietumos, trešā lielākā Portugāles pilsēta. Sens [[arhibīskapija]]s centrs.
+
+== Vēsture ==
+[[Attēls:Jardim santa barbara.jpg|thumb|200px|left|Bīskapa pils parks Bragā]]
+Pirms [[Senā Roma|romiešu]] iebrukuma apmetne bija [[ķeltibērī|ķeltibēru]] [[brakari|brakaru]] (''bracari'') cilts centrs. Bragas apkārtni romieši ieņēma ap 136. gadu p. m. ē., bet ap 20. gadu p. m. ē. [[Oktaviāns]] nodibināja pilsētu, kuru nosauca par [[Brakara Augusta|Brakaru Augustu]] (''Bracara Augusta''). 3. gadsimta beigās [[Diokletiāns]] to padarīja par jaundibinātās Romas provinces [[Galēkija]]s (''Gallaecia'') galvaspilsētu.
+
+410. gadā [[Ibērijas pussala|Ibērijas pussalā]] iebrukušie [[svēvi]] Bragu izraudzījās par savas valsts galvaspilsētu. Ap 485. gadu pilsēta nokļuva [[vestgoti|vestgotu]] rokās. No IV gadsimta beigām līdz mūsdienām Braga ir bīskapa rezidences pilsēta un Portugāles baznīcas centrs.
+
+8. gadsimta sākumā Bragu ieņēma [[mauri]], 1040. gadā to atkaroja [[Kastīlijas karaliste|Kastīlijas]] karalis [[Fernando I]]. No 1093. līdz 1147. gadam Bragā atradās Portugāles galms. 1070. gadā tika atjaunota arhibīskapija. Viduslaiku Braga tomēr aizņēma tikai daļu no bijušās romiešu pilsētas.
+
+Pilsēta maz attīstījās [[Lielie ģeogrāfiskie atklājumi|Lielo ģeogrāfisko atklājumu]] laikā. 18. gadsimtā pilsētā tika uzceltas daudzas [[baroks|baroka]] celtnes.
+
+== Cilvēki ==
+Bragā dzimuši:
+* [[Orozijs]] (''Orosius'', 385—420) - vēsturnieks un teologs
+
+== Sports ==
+Pilsētu [[Portugāles futbola Premjerlīga|Portugāles futbola Premjerlīgā]] pārstāv klubs ''[[S.C. Braga]]'', kurš divreiz uzvarējis [[Portugāles kauss futbolā|Portugāles kausā]] un 2008. gadā pēdējā [[UEFA Intertoto kauss|UEFA Intertoto kausa]] turnīrā.
+
+== Apskates vietas ==
+<gallery>
+Attēls:Se Catedral de Braga.jpg|Bragas katedrāle
+Attēls:Braga 1.JPG|''Praça da República''
+Attēls:Camara de braga.jpg|''Praça do Município'' 
+Attēls:Santuário do Sameiro.JPG|''Santuário do Sameiro''
+Attēls:Treppenaufgang Bom Jesus do Monte.jpg|Kāpnes uz ''Bom Jesus do Monte'' 
+Attēls:Braga 4.jpg|''Bom Jesus do Monte''
+Attēls:Arco da porta nova Braga.jpg|''Arco da porta nova''
+Attēls:Rua do souto.jpg|''Rua do souto'' 
+</gallery>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{oficiālā tīmekļa vietne}}
+
+{{Portugāle-aizmetnis}}
+
+[[Kategorija:Portugāles pilsētas]]

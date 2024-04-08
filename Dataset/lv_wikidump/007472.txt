@@ -1,0 +1,133 @@
+{{Latvijas novada infokaste
+| nosaukums         = Amatas novads
+| karte             = Amatas novada karte.JPG
+| karte2            = Amatas novads.png
+| karte2_apraksts   = Novads 2000. g. (tumšāks) un 2009. g. robežās
+| ģerboņa_attēls    = Amata novads COA.svg
+| ģerboņa_nosaukums = Amatas novada ģerbonis
+| karoga_attēls     = 
+| karoga_nosaukums  = Amatas novada karogs
+| centrs2           = «[[Amatas novada dome|Ausmas]]»
+| platība           = 741,8<ref>[http://www.raplm.gov.lv/uploads/filedir/Nozares/Pasvaldibas/Administrat%C4%ABvi%20teritori%C4%81lais%20iedal%C4%ABjum%20ar%20platibu.doc Reģionālās attīstības un pašvaldību lietu ministrija]</ref>
+| iedzīvotāji       = 6357<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 6357 / 741.8 round 1}}
+| izveidots         = 2000
+| likvidēts         = 2021
+| mērs              = 
+| mērs_partija      = 
+| mērs_gads         =
+| teritorijas       = [[Amatas pagasts]]<br />[[Drabešu pagasts]]<br />[[Nītaures pagasts]]<br />[[Skujenes pagasts]]<br />[[Zaubes pagasts]]
+| pakalpojumu_centri= 
+| mājaslapa         = www.amatasnovads.lv 
+}}
+
+'''Amatas novads''' bija [[pašvaldība]] [[Vidzeme|Vidzemē]]. Novads izveidots [[2000. gads|2000. gadā]] 19. augustā, apvienojoties [[Amatas pagasts|Amatas]] un [[Drabešu pagasts|Drabešu pagastam]]. 2009. gadā novadam pievienoja arī [[Nītaures pagasts|Nītaures]], [[Skujenes pagasts|Skujenes]] un [[Zaubes pagasts|Zaubes pagastu]]. Novada dome atradās vēsturiskajā Drabešu pagasta namā, kurš celts 1873. gadā Drabešu pagasta «Ausmās».
+
+== Daba ==
+{{Nepilnīga nodaļa}}
+Upes: [[Amata]], [[Dadžupe]], [[Džerdupe]], [[Ežupe (Mazās Juglas pieteka)|Ežupe]], [[Gaidene]], [[Gauja]], [[Grūba]], [[Kumada]], [[Kurmupe]], [[Melederupīte]], [[Nediene]], [[Pērļupe (Amatas novads)|Pērļupe]], [[Rakšupe]], [[Simtupe]], [[Skujas upe|Skujupe]].
+
+Ūdenstilpes: [[Āraišu ezers]], [[Vēķis]]. Vecajā novadā pavisam ir 11 lielākas dabīgās ūdenstilpes.
+
+== Vēsture ==
+{{Nepilnīga nodaļa}}
+
+== Teritoriālais iedalījums ==
+{{Nepilnīga nodaļa}}
+
+== Apdzīvotās vietas ==
+{{Nepilnīga nodaļa}}
+Apdzīvotās vietas: [[Agra (Drabešu pagasts)|Agra]], [[Amata (ciems)|Amata]], [[Amatas skola]], [[Aparnieki]], [[Āraiši]], [[Bille]], [[Drabeši]], [[Ģikši]], [[Ieriķi]], [[Kārļi (Drabešu pagasts)|Kārļi]], [[Līvi (ciems)|Līvi]], [[Meijermuiža]], [[Melturi]], [[Mūrnieki (Drabešu pagasts)|Mūrnieki]], [[Rāceņi (Drabešu pagasts)|Rāceņi]], [[Rencēni (Amatas pagasts)|Rencēni]], [[Vāļukalns]], [[Velmeri]], [[Zāģeri]]. Šajās vietās ir vairāk dzīvojamo māju un ar teritorijas plānojumu šis uzskaitījums nesakrīt.
+
+== Iedzīvotāji ==
+=== Etniskais sastāvs ===
+{{bar box
+|width = 400px
+|float = left
+|title = Amatas novada iedzīvotāju etniskais sastāvs 2016. gadā<ref>[http://www.pmlp.gov.lv/lv/assets/documents/Iedzivotaju%20re%C4%A3istrs/0107iedzregj/ISPN_Pasvaldibas_pec_TTB.pdf#page=8&zoom=auto,219,-212 Iedzīvotāju skaits Latvijas pašvaldībās pēc nacionālā sastāva 01.07.2016.]</ref>
+|titlebar = #ddd
+|bars =
+{{bar percent|[[Latvieši]] (5154)   |green|88.6}}
+{{bar percent|[[Krievi]] (374)     |red|6.4}}
+{{bar percent|[[Baltkrievi]] (87) |violet|1.5}}
+{{bar percent|Cita tautība (205)    |purple|3.5}}
+}}
+{{-}}
+
+== Pašvaldība ==
+{{Nepilnīga nodaļa}}
+
+{| class="wikitable"
+|+
+!Partijas
+!Balsu skaits
+!%
+!Vietas
+|-
+|[[Zaļo un Zemnieku savienība]], [[Vienotība]]
+|1367
+|64,15
+|10
+|-
+|Vidzemes partija
+|351
+|16,47
+|3
+|-
+|[[Nacionālā apvienība "Visu Latvijai!"—"Tēvzemei un Brīvībai/LNNK"]]
+|204
+|9.57
+|1
+|-
+|[[No sirds Latvijai]]
+|162
+|7.60
+|1
+|}
+
+== Tautsaimniecība ==
+{{Nepilnīga nodaļa}}
+
+== Izglītība ==
+{{Nepilnīga nodaļa}}
+
+== Sports ==
+{{Nepilnīga nodaļa}}
+
+== Kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Reliģija ==
+{{Nepilnīga nodaļa}}
+
+== Ievērojami novadnieki ==
+{{Nepilnīga nodaļa}}
+* [[Ernests Putniņš]] (1867-1962), ārsts ginekologs, [[Latvijas Universitāte|LU]] profesors
+* [[Melānija Vanaga]] (1905-1997), rakstniece
+
+== Ievērojamas vietas ==
+{{skatīt arī|Valsts aizsargājamie kultūras pieminekļi Amatas novadā}}
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<gallery>
+AraišuEzerpils.jpg|[[Āraišu ezerpils]]
+Āraišu pilsdrupas 2001-05-26.jpg|[[Āraišu ordeņa pils|Āraišu pilsdrupas]]
+Vējdzirnavas, Drabešu pagasts.JPG|[[Āraišu vējdzirnavas]]
+Skujenes baznīca 2001-06-02.jpg|[[Skujenes luterāņu baznīca]]
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā tīmekļa vietne}}
+
+{{Novads-aizmetnis}}
+
+{{Latvijas administratīvais iedalījums}}
+{{Cēsu rajons}}
+
+[[Kategorija:Amatas novads| ]]
+[[Kategorija:Latvijas bijušie novadi]]

@@ -1,0 +1,79 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Čeļabinska
+ | official_name              = ''Челябинск''
+ | settlement_type          = pilsēta
+ | image_skyline            = Площадь.Революции.сверху.Челябинск1.jpg
+ | imagesize                = 
+ | image_caption            = Revolūcijas laukums Čeļabinskas centrā
+ | image_flag               = Flag of Chelyabinsk.svg
+ | image_shield             = CoA of Chelyabinsk (2000).svg
+ | shield_size              = 70px
+ | pushpin_map              = Čeļabinskas apgabals#Krievijas Eiropas daļa#Krievija
+ | pushpin_label_position   = 
+ | pushpin_mapsize          = 
+ | latd  = 55 | latm  = 09 | lats  = 44 | latNS  = N
+ | longd = 61 | longm = 24 | longs = 11 | longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{karogs|Krievija}}
+ | subdivision_type1        = Federālais apgabals
+ | subdivision_name1        = [[Urālu federālais apgabals]]
+ | subdivision_type2        = Federācijas subjekts
+ | subdivision_name2        = [[Čeļabinskas apgabals]]
+ | subdivision_type3        = 
+ | subdivision_name3        = 
+ | established_title        = Dibināta
+ | established_date         = {{dat|1736}}
+ | established_title2       = Pilsētas statuss
+ | established_date2        = {{dat|1787}}
+ | founder                  = 
+ | named_for                = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_total_km2           = 500.91
+ | population_footnotes     = 
+ | population_total         = 1169432
+ | population_as_of         = 2014
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_urban         = 
+ | population_metro         = 
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[UTC]]
+ | utc_offset               = +5
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 454000—454999
+ | area_code                = +7 351
+ | website                  = {{url|http://www.cheladmin.ru/}}
+ | footnotes                = 
+}}
+'''Čeļabinska''' ({{val|ru|Челябинск}}) ir [[Krievijas Federācija]]s pilsēta [[Urāli|Dienvidurālu]] austrumu nogāzēs pie [[Miasa (upe)|Miasas]] upes, [[Čeļabinskas apgabals|Čeļabinskas apgabala]] centrs. Liels militārās rūpniecības cetrs. [[Autoceļš M5 (Krievija)|Federālā autoceļa M5]] galapunkts.
+
+== Vēsture ==
+Dibināta [[1736]]. gadā, kad Miasas upes krastā [[Orenburga]]s aizsardzībai pret [[baškīri]]em [[Krievijas impērija]]s armija uzcēla Čeļebi (''Челеби'') cietoksni, kura nosaukums tjurku valodā nozīmē ‘caradēls’ vai ‘izglītotais’. Jau [[1744]]. gadā cietoksni ieņēma [[Jemeļjans Pugačevs|Jemeļjana Pugačeva]] karaspēks. [[1787]]. gadā Čeļabinskai piešķīra pilsētas tiesības. 1890. gados pilsēta sāka strauji attīstīties saistībā ar [[Transsibīrijas maģistrāle]]s izbūvi. [[1918]]. gada maijā Čeļabinskā notika incidents, kurš noveda pie [[Čehoslovāku leģions|Čehoslovāku leģiona]] dumpja.
+
+Vēl vienu impulsu pilsētas attīstībai deva [[Otrais pasaules karš]], kad no [[Padomju Savienība|PSRS]] rietumu apgabaliem šeit tika pārceltas lielas militārās rūpnīcas — kara gados Čeļabinska bija [[tanks|tanku]] [[T-34]] un reaktīvo ieroču, t.s. katjušu ražošanas centrs.
+
+== Sports ==
+Čeļabinskā bāzēts [[Kontinentālā hokeja līga|Kontinentālās hokeja līgas]] klubs [[Čeļabinskas "Traktor"]], kurš savas mājas spēles aizvada [[2009. gads|2009]]. gadā atklātajā [[Čeļabinskas Sporta pils|Čeļabinskas Sporta pilī]]. "Traktor" jauniešu klubs [[Čeļabinskas "Belije Medvedi"]] spēlē [[Krievijas Jaunatnes hokeja līga|Jaunatnes hokeja līgā]].
+
+== Cilvēki ==
+Čeļabinskā dzimuši:
+* [[Ļera Averbaha]] — komponiste
+* [[Ivans Dorns]] — ukraiņu dziedātājs
+* [[Sergejs Gončars]] — hokejists
+* [[Sergejs Makarovs (hokejists)|Sergejs Makarovs]] — hokejists
+* [[Staņislavs Olijars]] — Latvijas sportists
+* [[Gaļina Starovoitova]] — politiķe
+* [[Jevgeņijs Svešņikovs]] — Latvijas šahists
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Čeļabinskas apgabala pilsētas}}
+{{Krievijas centri}}
+{{autoritatīvā vadība}}

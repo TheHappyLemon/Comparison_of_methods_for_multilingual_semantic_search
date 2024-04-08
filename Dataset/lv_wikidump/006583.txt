@@ -1,0 +1,11 @@
+[[Attēls:Intel 4004.jpg|thumbnail|220px|Viens no vēsturiski pirmajiem mikroprocesoriem [[Intel 4004]]]]
+'''Mikroprocesors''' ir augstas pakāpes [[integrālā shēma]], kas vienā modulī apvieno lielāko daļu no [[centrālais procesors|centrālā procesora]] funkcijām. Pirmos mikroprocesorus 1971. gadā izgatavoja [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] uzņēmums ''[[Texas Instruments]]''. Mikroprocesori ir atrodamas teju vai visās [[ciparierīce|ciparerīcēs]] — [[televizors|televizoros]], [[CD atskaņotājs|CD atskaņotājos]], [[pulkstenis|pulksteņos]], [[personālais dators|personālajos datoros]] un tā tālāk.
+
+Mikroprocesoru galvenie elementi ir augstas frekvences [[takts ģenerators]], [[programmas skaitītājs]] un [[datu apstrādes mezgls|datu apstrādes mezgli]]. Tie noteikti ir arī [[brīvpiekļuves atmiņa]]s (RAM) elementi.
+
+{{IT-aizmetnis}}
+{{elektronika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mikroprocesori| ]]

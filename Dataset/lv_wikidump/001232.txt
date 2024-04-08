@@ -1,0 +1,18 @@
+{{ambox
+| type  = serious
+| image = [[Attēls:Copyright-problem.svg|40px|Autortiesību pārkāpums|link=Kategorija:Lapas, kas izvirzītas dzēšanai]]
+| text  = {{center|'''Iespējams autortiesību pārkāpums''' (skatīt [[Vikipēdija:Autortiesības|autortiesību noteikumus]]).}}
+Teksts, kas iepriekš bija redzams šajā vietā, iespējams, ir autortiesību pārkāpums no {{Ifempty|{{{grāmata|}}}|[{{{1|{{{url}}}}}} šī avota]}}.<br />
+Iepriekšējais raksta saturs ir pieejams raksta <span class="plainlinks">[{{fullurl:{{FULLPAGENAME}}|action=history}} hronoloģijā]</span>.<br />
+----
+'''Ko darīt?'''
+Lūdzu mēģiniet tekstu pārrakstīt saviem vārdiem, lai tā nebūtu tieša avota kopija.
+Ja Jums ir atļauja materiāla izmantošanai ar [http://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License''] vai citu analoģisku brīvu licenci no autortiesību īpašnieka vai Jūs esat autortiesību īpašnieks, lūdzu, norādiet to raksta [[{{TALKPAGENAME}}|diskusiju lapā]]{{#ifexist:{{TALKPAGENAME}}||&nbsp;(spiediet uz sarkanās saites, lai izveidotu diskusiju lapu)}}.<br />
+----
+''Vikipēdijā nedrīkst ievietot ar autortiesībām aizsargātus materiālus bez to autortiesību īpašnieka atļaujas. Dalībniekiem, kas atkārtoti neievēro šos noteikumus, uz laiku var tikt liegta iespēja labot rakstus.''
+}}<includeonly>{{category handler
+| all = [[Kategorija:Iespējami autortiesību pārkāpumi]]
+| nocat = {{{nocat|}}}
+}}</includeonly><noinclude>
+{{Dokumentācija}}
+</noinclude>

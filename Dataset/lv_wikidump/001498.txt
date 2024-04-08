@@ -1,0 +1,137 @@
+{{Politiskās partijas infokaste
+|name               = Latvijas Pirmā partija
+|native_name        = 
+|lang1              = 
+|name_lang1         = 
+|lang2              = 
+|name_lang2         = 
+|lang3              = 
+|name_lang3         = 
+|lang4              = 
+|name_lang4         = 
+|logo               = LaPi.png
+|colorcode          = #720173
+|leader             = [[Ainārs Šlesers]]
+|chairperson        = 
+|president          = 
+|secretary_general  = 
+|spokesperson       = 
+|founder            = 
+|leader1_title      = 
+|leader1_name       = 
+|leader2_title      = 
+|leader2_name       = 
+|leader3_title      = 
+|leader3_name       = 
+|leader4_title      = 
+|leader4_name       = 
+|leader5_title      = 
+|leader5_name       = 
+|slogan             = 
+|founded            = {{dat|2002|||N|bez}}
+|dissolved          = {{dat|2007|||N|bez}}
+|merger             = [[Latvijas ceļš]]
+|split              = 
+|predecessor        = 
+|merged             = 
+|successor          = [[LPP/LC]]
+|headquarters       = 
+|newspaper          = 
+|student_wing       = 
+|youth_wing         = 
+|wing1_title        = 
+|wing1              = 
+|wing2_title        = 
+|wing2              = 
+|wing3_title        = 
+|wing3              = 
+|membership_year    = 
+|membership         = 
+|ideology           = [[labēja politika]], [[liberālisms]], [[kristīgā demokrātija]]|
+|religion           = 
+|national           = 
+|international      = 
+|european           = 
+|europarl           = 
+|affiliation1_title = 
+|affiliation1       = 
+|colors             = {{krāsa|#720173}} lillā
+|blank1_title       = 
+|blank1             = 
+|blank2_title       = 
+|blank2             = 
+|blank3_title       = 
+|blank3             = 
+|seats1_title       = 
+|seats1             = 
+|seats2_title       = 
+|seats2             = 
+|seats3_title       = 
+|seats3             = 
+|seats4_title       = 
+|seats4             = 
+|symbol             = 
+|flag               = 
+|website            = 
+|state              = 
+|country            = 
+|country_dab1       = 
+|parties_dab1       = 
+|elections_dab1     = 
+|country2           = 
+|country_dab2       = 
+|parties_dab2       = 
+|elections_dab2     = 
+|footnotes          = 
+}}
+'''"Latvijas Pirmā partija"''' bija [[Latvija]]s [[politiskā partija]], kas dibināta 2002. gadā. 2007. gadā partija apvienojās ar partiju [[Latvijas ceļš]], izveidojot partiju [[LPP/LC]].
+
+== Vēsture ==
+Partija dibināta 2002. gadā pirms 8. Saeimas vēlēšanām uz Jaunās kristīgās partijas ([[Jaunā partija|Jaunās partijas]] pēctece) pamata.
+
+* 2002—2004 — pie varas [[Einars Repše|E. Repšes]] valdībā
+* 2004 — pie varas [[Indulis Emsis|I. Emša]] valdībā
+* kopš 2004 — pie varas [[Aigars Kalvītis|A. Kalvīša]] valdībā
+* 2006 — veido vēlēšanu apvienību ar LC, uzņemot kandidātus arī no vairākām reģionālām partijām
+* 2007 — saplūst ar LC, "Mēs savam novadam" un Vidzemes apvienību, veidojot [[LPP/LC]].
+
+== Rezultāti vēlēšanās ==
+{| class="wikitable"
+! Gads
+! Vēlēšanas
+! Rezultāti (%)
+! Deputāti
+|-
+| 2002.
+| [[8. Saeimas vēlēšanas]]
+| 9,52
+| {{Infobox political party/seats|10|100|hex=#720173}}
+|-
+| 2004.
+| [[6. Eiropas Parlamenta vēlēšanas]]
+| 3,24
+| {{Infobox political party/seats|0|9|hex=#720173}}
+|-
+| 2005.
+| [[2005. gada Pašvaldību vēlēšanas|Pašvaldību vēlēšanās]]
+| [[Rīga|Rīgā]] - 5,81
+| {{Infobox political party/seats|4|60|hex=#720173}}
+|- 
+| 2006.
+| [[9. Saeimas vēlēšanas]]
+| 8,58
+| {{Infobox political party/seats|10|100|hex=#720173}}
+|-
+|}
+
+== Literatūra ==
+''Mednis I.'' Partiju laiki Latvijā (1988-2002). — R.: Drukātava, 2007. {{ISBN|978-9984-798-20-2}} — 318.—323. lpp.
+
+== Ārējās saites ==
+* Partijas mājaslapa: [http://www.lpp.lv latviski] un [http://rus.lpp.lv krieviski] {{Webarchive|url=https://web.archive.org/web/20190526025600/http://rus.lpp.lv/ |date={{dat|2019|05|26||bez}} }}
+* [http://www.youtube.com/watch?v=uz8HBLjJiNY Klips] — Pret LPP vērsts anonīms propagandas klips (LPP pārstāvji "[[Jaunā paaudze|Jaunās paaudzes]]" dievkalpojumos)
+
+{{8. Saeima|state=autocollapse}}
+{{9. Saeima|state=autocollapse}}
+
+[[Kategorija:Latvijas bijušās politiskās partijas]]

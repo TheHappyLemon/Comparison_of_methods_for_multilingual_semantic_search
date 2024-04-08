@@ -1,0 +1,47 @@
+{{Valodas infokaste
+|name=Malgašu valoda
+|nativename=''fiteny malagasy''
+|states=[[Madagaskara]], [[Komoru salas|Komoras]], [[Reinjona]], [[Majota]]
+|region=Austrumāfrika
+|speakers=17 milj.
+|familycolor=Austronēziešu
+|fam1=[[Austronēziešu valodas|Austronēziešu]]
+|fam2=[[Malajiešu-polinēziešu valodas|Malajiešu-polinēziešu]]
+|fam3=[[Borneo-Filipīnu valodas|Borneo-Filipīnu]]
+|fam4=[[Barito valodas|Barito]]
+|script=[[Latīņu alfabēts]] (malgašu ortogrāfija)
+|nation={{MDG}}
+|iso1=mg|iso2=mlg|iso3=mlg
+|map = [[Attēls:Map_of_Malagasy_language_dialects.svg|300px]]<br/><center>Malgašu valodas dialektu karte</center>
+|map_caption=
+}}
+{{InterWiki|code=mg}}
+
+'''Malgašu valoda''' jeb '''malagasu valoda'''<ref>{{Tīmekļa atsauce |url= https://www.vestnesis.lv/ta/id/140080 |title= Par pasaules valodu un valodu grupu nosaukumiem latviešu valodā |publisher= [[Latvijas Vēstnesis]] |date= 2006. gada 19. jūlijs |accessdate= 2008. gada 2. janvārī}}</ref> ir [[Madagaskara]]s valsts valoda. Tajā runā ap 17 miljonu cilvēku.
+
+Valodas lietotāji apdzīvo arī tuvējās [[Reinjona|Reinjonas]], [[Komoras|Komoru]], [[Seišelu Republika|Seišelu]] salu u. c., kā arī [[Francija|Francijā]], bijušajā koloniālajā metropolē.
+
+== Vēsture ==
+Malgašu  valoda nav radniecīga ar kaimiņos esošajām [[Āfrika|Āfrikas]] valodām. Tā ir vistālāk uz rietumiem esošā malajiešu-polinēziešu valoda, kas pieder [[Austronēziešu valodas|austroneziešu valodām]]. Šis fakts tika konstatēts 18. gadsimtā. Malgašu  valoda ir radniecīga [[Indonēzija|Indonēzijas]], [[Malaizija|Malaizijas]] un [[Filipīnas|Filipīnu]] valodām. Tai vistuvākās ir valodas, kurās runā [[Kalimantāna|Kalimantānas]] salā. Malgašu valodas vārdu krājums 90 % gadījumu ir tāds pats kā maanjanu valodai Barito upes reģionā Kalimantānas dienvidos, kas nozīmē, ka Madagaskaru apdzīvoja cilvēki no turienes. Nav precīzi zināms, kādu iemeslu dēļ šī migrācija notika. Vēlāk indonēziešu kolonisti sajaucās ar austrumāfrikāņiem un [[Arābi|arābiem]].
+
+Malgašu  valodā ir aizguvumi no [[Bantu valodas|bantu]], [[svahili]] un [[Arābu valoda|arābu]] valodas, kā arī no [[Franču valoda|franču]] un [[Angļu valoda|angļu valodas]] (18. gadsimtā to lietoja [[Pirātisms|pirāti]], kuru bāzes atradās uz salas).
+
+Kopš 15. gadsimta šai valodai ir rakstīta literatūra un bagātīga mutvārdu dzejas un leģendu tradīcija.
+
+== Rakstība ==
+Kopš 1823. gada valodas rakstībai izmanto [[Latīņu raksts|latīņu alfabētu]].
+
+Alfabēts sastāv no 21 burta: a, b, d, e, f, g, h, i, j, k, k, l, m, m, n, o, p, r, s, t, v, y, z.
+
+== Atsauces ==
+{{atsauces}}
+
+
+{{Āfrika-aizmetnis}}
+{{val|aizmetnis}}
+{{īss-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Malajiešu-polinēziešu valodas]]
+[[Kategorija:Madagaskaras valodas]]

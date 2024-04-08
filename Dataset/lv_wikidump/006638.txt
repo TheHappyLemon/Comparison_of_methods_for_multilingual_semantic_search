@@ -1,0 +1,38 @@
+{{Citas nozīmes|minerālu|Tadžikīts|Tadžikīts}}
+{{Minerāla infokaste
+|minerāls=Tadžikīts-(Y)
+|attēls=
+|klase=[[Silikātu minerāls]], inosilikāts
+|ŠtruncaID=8/F.36-25
+|ķīm_formula=Ca<sub>4</sub>(Y,Ce)<sub>2</sub>(Ti,Al,Fe+++,[ ])<sub>2</sub>[Si<sub>4</sub>B<sub>4</sub>O<sub>22</sub>](OH)<sub>2</sub>
+|singonija=[[Monoklīnā singonija|monoklīnā]]
+|krāsa=Dzeltenbrūns līdz bāli dzeltens, bāli sārts, balts, bezkrāsas
+|svītra=
+|habituss=
+|skaldnība=
+|lūzums=
+|cietība=6
+|spīdums=Stikla
+|caurspīdīgums=Puscaurspīdīgs
+|laušanas_koef=n<sub>α</sub> = 1.750 - 1.761 n<sub>γ</sub> = 1.763 - 1.772
+|pleohroisms=
+|blīvums=?
+}}
+'''Tadžikīts-(Y)''' (nosaukts valsts, kurā atrasts, vārdā) - ļoti rets [[minerāls]]. Apstiprināts 1987. gadā. Satur retus metālus - [[cērijs|cēriju]] (16,19%), [[itrijs|itriju]] (13,47%). Vāji radioaktīvs - 158 [[Bq]]/g.
+
+== Atradnes ==
+* [[Tadžikistāna]], [[Alaja grēda]], Daraipjozas ledājs
+
+== Ārējās saites ==
+* [http://www.mindat.org/min-7324.html Mindat.org (angliski)]
+* [http://www.webmineral.com/data/Tadzhikite-(Y).shtml Webmineral.org (angliski)]
+
+[[Kategorija:Minerāli]]
+[[Kategorija:Vāji radioaktīvi minerāli]]
+[[Kategorija:Alumīnija minerāli]]
+[[Kategorija:Cērija minerāli]]
+[[Kategorija:Dzelzs minerāli]]
+[[Kategorija:Itrija minerāli]]
+[[Kategorija:Kalcija minerāli]]
+[[Kategorija:Titāna minerāli]]
+[[Kategorija:Inosilikāti]]

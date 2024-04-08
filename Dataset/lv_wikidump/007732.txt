@@ -1,0 +1,94 @@
+{{Latvijas novada infokaste
+| nosaukums         = Valgundes pagasts
+| karte             = Valgundes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = Valgunde
+| platība           = 210,44
+| iedzīvotāji       = 1710
+| iedzīvotāji_gads  = 2019
+| blīvums           = {{#expr: 2117 / 210.44 round 1}}
+| izveidots         = 1867
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.valgunde.lv
+}}
+
+'''Valgundes pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] administratīvajām teritorijām tā ziemeļos, [[Lielupe]]s abos krastos. Robežojas ar sava novada [[Līvbērzes pagasts|Līvbērzes]], [[Kalnciema pagasts|Kalnciema]], [[Cenu pagasts|Cenu]], un [[Ozolnieku pagasts|Ozolnieku pagastiem]], [[Dobeles novads|Dobeles novada]] [[Jaunbērzes pagasts|Jaunbērzes pagastu]], [[Tukuma novads|Tukuma novada]] [[Džūkstes pagasts|Džūkstes]] un [[Slampes pagasts|Slampes]] pagastiem, [[Mārupes novads|Mārupes novada]] [[Salas pagasts (Mārupes novads)|Salas]] un [[Babītes pagasts|Babītes]] pagastiem, [[Olaines novads|Olaines novada]] [[Olaines pagasts|Olaines pagastu]], kā arī [[Jelgava]]s pilsētu.
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Cena (upe)|Cena]], [[Cēsna]], [[Cīruļupīte]], [[Iecava (upe)|Iecava]], [[Kauguru kanāls]], [[Lielupe]], [[Nāburdzīte]], [[Vecbērze]], [[Vecbērzes poldera kanāls]].
+
+Ūdenstilpes: [[Sahalīnes dīķis]], ezeri [[Ķemeru tīrelis|Ķemeru tīrelī]].
+
+== Vēsture ==
+[[Attēls:Lielupe pie Valgundes.jpg|thumb|left|250px|Rīgas-Jelgavas pasažieru kuģītis pie Valgundes muižas (20.gs. sākums).]]
+
+Mūsdienu Valgundes pagasta teritorijā vēsturiski atradās Ercogu jeb Hercogu muiža (''Herzogshof'', [[Vītoliņi]]), Kalnciema muiža (''Kalnzeem'', [[Tīreļi (Valgundes pagasts)|Tīreļi]]), Valgundes muiža (''Wolgund'').
+
+[[1866. gada pagastu pašvaldību reforma]]s laikā 1867. gadā [[Valgunde]]s [[muiža]]s pagasta teritorijā tika izveidots Valguntes pagasts. 
+19. gadsimta otrajā pusē pagasts kļuva par lielāko [[Ķieģeļrūpniecība Latvijā|Latvijas ķieģeļrūpniecības]] centru, 1872. gadā [[Valgunde]]s muižas Mazgrašos rūpnieks [[Georgs Armitsteds]] un Lielgrašos 1873. gadā Džons Teilers uzcēla pirmās Hofmaņa riņķa krāsnis Latvijā. Rūpniekam Jevgēņijam Ņesterovam (''Е.Ф. Нестеров'') piederošajā ķieģeļceplī 1887. gadā 300 strādnieku saražoja 4 miljonus [[ķieģelis|ķieģeļu]] 34 000 rubļu vērtībā.<ref>[http://community.oldbricks.info/viewtopic.php?f=43&t=311 1887 Указатель фабрик и заводов] {{Webarchive|url=https://web.archive.org/web/20160305064143/http://community.oldbricks.info/viewtopic.php?f=43&t=311 |date={{dat|2016|03|05||bez}} }} (krieviski)</ref>
+
+1925. gadā Valguntes pagasts tika pārdēvēts par Valgundes pagastu.<ref>[http://periodika.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp|issue:/p_001_wawe1925n169|article:DIVL5|page:1|issueType:P Latvijas pagastu saraksts] {{Webarchive|url=https://web.archive.org/web/20131231021955/http://www.periodika.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp{{!}}issue:/p_001_wawe1925n169{{!}}article:DIVL5{{!}}page:1{{!}}issueType:P |date={{dat|2013|12|31||bez}} }} Valdības Vēstnesis — 1925.gada 3. augusts</ref>
+1935. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] Valgundes pagasta platība bija 72,8 km² un tajā dzīvoja 1470 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Rūduļu ciems|Rūduļu]] un Valgundes [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Valgundes ciems''' ietilpis [[Jelgavas rajons|Jelgavas]] (1949—1962, pēc 1967. gada) un [[Dobeles rajons|Dobeles]] (1962—1967) rajonos. Valgundes ciemu 1949. gada 16. jūnijā likvidēja, tā teritoriju pievienoja [[Kalnciema lauku teritorija]]i, bet tā paša gada 31. decembrī ciemu atjaunoja. 1954. gadā Valgundes ciemam pievienoja likvidēto [[Ozolnieku ciems|Ozolnieku ciemu]] un daļu [[mazsvētes ciems|Mazsvētes ciema]]. 1979. gadā Valgundes ciemam pievienoja likvidēto [[Kalnciema ciems|Kalnciema ciemu]], bet daļu ciema teritorijas pievienoja [[Līvbērzes ciems|Līvbērzes ciemam]] un jaunizveidotajam [[Ozolnieki|Ozolnieku]] pilsētciematam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2006. gadā pagastu reorganizēja par '''Valgundes novadu'''.<ref>[http://www.likumi.lv/doc.php?mode=DOC&id=145991 MK noteikumi Nr.855 "Noteikumi par Jelgavas rajona Valgundes novada izveidošanu"]</ref> 2009. gadā Valgundes novadu kā administratīvo teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]] un pārdēvēja par Valgundes pagastu.
+
+=== Apskates objekti ===
+[[Attēls:Kalnciema vidusskola 2003-03-08.jpg|thumb|250px|Kalnciema vidusskola]]
+* Latvijas Kara muzeja filiāle "[[Ziemassvētku kaujas|Ziemassvētku kauju muzejs]]" Valgundes pagasta "Mangaļu" mājās.
+* [[Valgundes pareizticīgo klosteris]]
+* Briežu Dārzs
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita dinamika ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2625
+|1959|2250
+|1970|1574
+|1979|1549
+|1989|2003
+|2000|2087
+|2011|1954
+|2021|1674
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Vītoliņi]], '''[[Valgunde]]''' (pagasta centrs), [[Tīreļi (Valgundes pagasts)|Tīreļi]], [[Kalnciema skola]], [[Ķīši (Valgundes pagasts)|Ķīši]], [[Klīvmuiža]], [[Ķīšu klosteris]].
+
+=== Ievērojamas personības ===
+* [[Ludvigs Neiburgs]] (1871—1948), būvuzņēmējs
+* [[Aurēlijs Zēbergs]] (1879—1940), jurists un sabiedriskais darbinieks.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Valgundes pagasts| ]]

@@ -1,0 +1,53 @@
+{{Futbolista infokaste
+|name           = Ēriks Pētersons
+|image          = Petersons.jpeg
+|image_size     = 180px
+|caption        = 
+|fullname       = 
+|birth_date     = {{dat|1909|10|7}}
+|birth_place    = {{vieta|Krievijas impērija|Rīga}}
+|death_date     = {{miršanas datums un vecums|1987|6|29|1909|10|7}}
+|death_place    = {{vieta|ASV|Mičigana}}
+|height         = 
+|position       = [[Uzbrucējs (futbols)|uzbrucējs]]
+|youthyears1    = 
+|youthclubs1    = 
+|years1         = 1929-1940
+|clubs1         = {{flaga|Latvija}} [[Rīgas FK]]
+|caps1          = 
+|goals1         = 
+|totalcaps      = 
+|totalgoals     = 
+|nationalyears1 = 1929-1939
+|nationalteam1  = {{fb|Latvija}}
+|nationalcaps1  = 63
+|nationalgoals1 = 21
+|medaltemplates = 
+}}
+'''Ēriks Pētersons''' (dzimis {{dat|1909|10|7}}, miris {{dat|1987|6|29}})<ref name="patiesība">{{Grāmatas atsauce|last=Ulmanis|first=Ainis|title=Patiesībā bija tā. Futbols Latvijā 1907-2009|year=2010|publisher=Lielupes izdevniecība|isbn=978-9984-563-05-3|page=840}}</ref> bija [[Latvija]]s [[Futbols|futbolists]] un [[Hokejs|hokejists]]. Pētersons [[Latvijas futbola izlase]]s sastāvā aizvadīja 63 spēles, kurās guva 21 vārtu.
+
+No visiem pirmskara [[Latvijas futbola izlase|Latvijas izlases]] futbolistiem Pētersons ir aizvadījis visvairāk spēļu un guvis visvairāk vārtu, tādējādi viņš tiek uzskatīts par pirmskara Latvijas labāko futbolistu. Ēriks Pētersons ar 21 gūtajiem vārtiem ir otrs visu laiku rezultatīvākais izlases vārtu guvējs. Bija arī izlases kapteinis.<ref name="patiesība" /> Latvijas izlasē Pētersons spēlēja laika posmā no 1929. līdz 1939. gadam. Pētersons līdz pat [[Otrais pasaules karš|Otrajam pasaules karam]] spēlēja [[Rīgas FK]] vienībā, kuras sastāvā kļuva par pieckārtēju [[Latvijas futbola Virslīga|Latvijas čempionu]] (1930, 1931, 1934, 1935, 1940) un divas reizes ieguva [[Latvijas kauss futbolā|Latvijas kausu]] (1937, 1939).<ref name="patiesība" /> Pēc Otrā pasaules kara Pētersons emigrēja uz [[Amerikas Savienotās Valstis|ASV]], kur vēl paguva uzspēlēt [[Čikāga]]s futbola klubā "Viking". Ēriks Pētersons miris 1987. gadā.
+
+Ieguvis tehnisko zinātņu izglītību, 1930. gadu sākumā strādājis [[Nacionālais teātris|Nacionālā teātra]] administrācijā.
+
+Pētersons spēlēja arī [[Hokejs|hokeju]], un pat aizvadīja 8 spēles [[Latvijas hokeja izlase|Latvijas hokeja izlasē]], kurās guva 2 [[vārti (hokejā)|vārtus]]. Spēlējis arī [[bendijs|bendiju]].<ref name="patiesība" />
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{Latvijas futbolists-aizmetnis}}
+{{Latvijas hokejists-aizmetnis}}
+
+{{Latvijas futbola Virslīgas rezultatīvākie spēlētāji}}
+
+{{DEFAULTSORT:Petersons, Eriks}}
+[[Kategorija:1909. gadā dzimušie]]
+[[Kategorija:Rīgā dzimušie]]
+[[Kategorija:1987. gadā mirušie]]
+[[Kategorija:Latvijas futbolisti]]
+[[Kategorija:Latvijas hokejisti]]
+[[Kategorija:ASV latvieši]]
+[[Kategorija:Latvijas izlases futbolisti]]

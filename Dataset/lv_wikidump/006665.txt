@@ -1,0 +1,19 @@
+<div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#c5fcdc"><tr>
+<td style="width:45px;height:45px;background:#6ef7a7;text-align:center;font-size:14pt">'''[[ukraiņu valoda|uk]]'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">'''[[:Kategorija:User uk|Українська мова]]''' для цього користувача є '''[[:Kategorija:User uk-N|рідною]]'''.</td>
+</tr></table></div><includeonly>
+[[Kategorija:User uk|{{PAGENAME}}]]
+[[Kategorija:User uk-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User uk]]
+* [[:Kategorija:User uk-N]]
+
+[[Kategorija:Valodu lietotāju veidnes|uk]]
+
+</noinclude>

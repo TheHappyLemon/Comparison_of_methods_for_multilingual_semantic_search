@@ -1,0 +1,24 @@
+[[Attēls:AdditiveColor.svg|thumbnail|235px|Sarkanā, zaļā un zilā krāsas, kā arī to sajaukumi]]
+'''Sarkanzaļzilais krāsu modelis''' jeb '''RGB krāsu modelis''' (no {{val|en|red-green-blue}} — 'sarkans-zaļš-zils') ir [[krāsu modelis]] attēlu ģenerēšanai ekrānā. Šis krāsu modelis attēlo [[krāsa]]s kā dažāda spilgtuma sarkanu, zaļu un zilu punktu sajaukumu. Kad spilgtums tiek paaugstināts (visas 3 krāsas tiek 100% izmantotas), rodas baltā krāsa. Savukārt, kad spilgtums tiek samazināts, tiek iegūtas pelēkas nokrāsas.<ref>{{Tīmekļa atsauce |url= http://termini.lza.lv/term.php?term=RGB&list=RGB&lang=EN |title= Akadēmiskā terminu datubāze — RGB |publisher= LZA Terminoloģijas komisija |accessdate= 2018. gada 9. martā}}</ref>
+
+Sarkanzaļzilais ir aditīvais krāsu modelis, jo tas apraksta pozitīvo attēla veidošanas mehānismu. Praksē (piemēram, [[fotogrāfija|fotogrāfijā]]) tas nozīmē, ka pamatā ir melns fons. RGB krāsu modelis atbilst cilvēka [[acs]] redzes mehānismam.
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Ciānfuksīndzeltenmelnais krāsu modelis]]
+* [[Pikselis]]
+* [[Kineskops]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{IT-aizmetnis}}
+
+{{Fotogrāfija}}
+
+[[Kategorija:Fotometrija]]
+[[Kategorija:Iespiedtehnika]]
+[[Kategorija:Krāsas]]

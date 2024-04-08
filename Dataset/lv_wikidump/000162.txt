@@ -1,0 +1,62 @@
+{{BioTakso infokaste
+|        attēls = Afrikanische Elefanten (Loxodonta africana).jpg
+| att_nosaukums = {{TaksoSaite|Loxodonta africana|Āfrikas savannas zilonis}}
+|        valsts = Animalia
+|     valsts_lv = Dzīvnieki
+|          tips = Chordata
+|       tips_lv = Hordaiņi
+|         klase = Mammalia
+|      klase_lv = Zīdītāji
+|         kārta = Proboscidea
+|      kārta_lv = Snuķaiņi
+|    virsdzimta = Elephantoidea
+| virsdzimta_lv =Ziloņu virsdzimta
+|        dzimta = Elephantidae
+|     dzimta_lv = Ziloņu dzimta
+|    iedalījums =
+* {{TaksoSaite|Loxodon|Āfrikas ziloņi}}
+* {{TaksoSaite|Elephas|Āzijas ziloņi}}
+| binomial = Elephantidae <small>([[Džons Edvards Grejs|Gray]] 1821)
+|   kategorijas = nē
+}}
+'''Ziloņu dzimta''' (''Elephantidae'') ir [[snuķaiņi|snuķaiņu kārtas]] (''Proboscidea'') [[zīdītāji|zīdītāju]] dzimta, kas apvieno 2 mūsdienās dzīvojošas ģintis — [[Āfrikas ziloņi|Āfrikas ziloņus]] (''Loxodonta'') un [[Āzijas ziloņi|Āzijas ziloņus]] (''Elephas''), un vairākas izmirušas [[Ģints (bioloģija)|ģintis]]. Pazīstamākās sugas dzimtā ir [[ziloņi]] un [[mamuti]]. Kopumā ziloņu dzimtas sugas ir lieli [[sauszeme]]s dzīvnieki, kuriem ir gari snuķi un iespaidīgi [[ilknis|ilkņi]].
+
+==Evolūcija==
+Ziloņu dzimtai un izmirušajām [[gomfoteru dzimta]]i (''Gomphotheriidae'') un [[mastodonu dzimta]]i (''Mammutidae'') ir bijis kopīgs priekštecis, no kura attīstījušās visas trīs [[Dzimta (bioloģija)|dzimtas]]. Turklāt pirmās divas ir savstarpēji tuvāk radniecīgas. Ziloņu dzimta izveidojās [[miocēns|miocēna]] laikā pirms 16 miljoniem gadu. Pirmie [[mamuti]] (''Mammuthus'') parādījās [[Āfrika|Āfrikā]] apmēram pirms 3 miljoniem gadu, bet pirms 120 000 gadiem tie sāka migrēt [[ziemeļi|ziemeļu]] virzienā un piemēroties aukstākam [[klimats|klimatam]]. Toties Āfrikā palikušie mamuti lēnām attīstījās par mūsdienu ziloņiem, kas izplatījās arī [[Eiropa]]s un [[Āzija]]s virzienā.<ref>{{Tīmekļa atsauce |url=http://www.elephant.se/elephants.php |title=Elephants |access-date={{dat|2013|07|19||bez}} |archiveurl=https://web.archive.org/web/20130601192617/http://www.elephant.se/elephants.php |archivedate={{dat|2013|06|01||bez}} }}</ref>
+
+Analizējot vecākās [[fosilija]]s, ir pierādījies, ka visiem [[snuķaiņi]]em, [[Sirēnas (zīdītāji)|sirēnām]] un [[dasiji]]em ir bijis kopīgs ūdenī dzīvojošs priekštecis.<ref>Ozawa, Tomowo; Seiji Hayashi, Victor M. Mikhelson (1997-04-24), "Phylogenetic Position of Mammoth and Steller's Sea Cow Within Tethytheria Demonstrated by Mitochondrial DNA Sequences", Journal of Molecular Evolution 44 (4): 406–413, doi:10.1007/PL00006160, {{PMID|9089080}}</ref> Daļa zinātnieku ir izvirzījusi hipotēzi, ka šie dzīvnieki lielāko daļu laika pavadījuši zem ūdens, bet elpošanai izmantojuši snuķi, kuru turējuši izbāztu laukā no ūdens.<ref>West, John B. (2001), "Snorkel breathing in the elephant explains the unique anatomy of its pleura", Respiratory Physiology 126 (1): 1–8, doi:10.1016/S0034-5687(01)00203-1, {{PMID|11311306}}</ref><ref>West, John B.; Fu, Zhenxing; Gaeth, Ann P.; Short, Roger V. (2003-11-14), "Fetal lung development in the elephant reflects the adaptations required for snorkeling in adult life", Respiratory Physiology & Neurobiology 138 (2-3): 325–333, doi:10.1016/S1569-9048(03)00199-X</ref> Šāda īpašība joprojām piemīt mūsdienu [[ziloņi]]em, kas spēj nopeldēt šādā veidā apmēram 50 [[Kilometrs|km]] un atrasties zem ūdens ar izbāztu snuķi līdz 6 [[stunda|stundām]]. Kopumā snuķaiņu sistemātika ir joprojām neskaidra un ik pa laikam tiek mainīta, atspoguļojot jaunākos zinātniskos atklājumus.<ref>Shoshani, J. (2005). "Order Proboscidea". In Wilson, D. E.; Reeder, D. M. Mammal Species of the World (3rd ed.). Johns Hopkins University Press. {{ISBN|978-0-8018-8221-0}}. OCLC 62265494</ref>
+
+== Sistemātika == 
+'''Ziloņu dzimta''' (''Elephantidae'')
+* [[Āfrikas ziloņi]] (''Loxodonta'')
+** [[Āfrikas meža zilonis]] (''Loxodonta cyclotis'')
+** [[Āfrikas savannas zilonis]] (''Loxodonta africana'')
+* [[Āzijas ziloņi]] (''Elephas'')
+** [[Āzijas zilonis]] (''Elephas maximus'')
+***pasuga [[Borneo zilonis]] (''Elephas maximus borneensis'')
+***pasuga [[Indijas zilonis]] (''Elephas maximus indicus'')
+***pasuga [[Sumatras zilonis]] (''Elephas maximus sumatranus'')
+***pasuga [[Šrilankas zilonis]] (''Elephas maximus maximus'')
+* †[[Mamuti]] (''Mammuthus'')
+* †''[[Palaeoloxodon]]''
+* †''[[Primelephas]]''
+* †''[[Stegodibelodon]]''
+* †''[[Stegodon]]''
+* †''[[Stegolophodon]]''
+* †''[[Stegotetrabelodon]]''
+
+Ar simbolu † ir atzīmētas izmirušās ģintis.
+
+==Atsauces==
+{{atsauces}}
+
+==Ārējās saites==
+{{Commonscat|Elephantidae|ziloņu dzimta}}
+*[https://web.archive.org/web/20130719121857/http://www.bbc.co.uk/nature/life/Elephantidae BBC: Elephants]
+*[http://animaldiversity.ummz.umich.edu/accounts/Elephantidae/classification/ ADW: Elephantidae]
+*[https://web.archive.org/web/20130515082046/http://eebweb.arizona.edu/Courses/Ecol485_585/Readings/Lawlor/Order_Proboscidea_T.E.Lawlor.pdf Family Elephantidae]
+*[http://tolweb.org/Elephantidae/16451 Elephants and mammoths] {{Webarchive|url=https://web.archive.org/web/20130912055159/http://tolweb.org/Elephantidae/16451 |date={{dat|2013|09|12||bez}} }}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Snuķaiņi]]

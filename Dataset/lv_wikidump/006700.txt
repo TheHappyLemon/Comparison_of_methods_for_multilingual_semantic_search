@@ -1,0 +1,45 @@
+{{Personas infokaste
+|        platums = 
+|          vārds = Vituss Berings
+|     vārds_orig = ''Vitus Bering''
+|         attēls = ВитусИонассенБеринг.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1681
+|     dz_mēnesis = 8
+|       dz_diena = 5
+|       dz_vieta = {{Vieta|Dānija|Horsensa}}
+|      m_dat_alt = 
+|         m_gads = 1741
+|      m_mēnesis = 12
+|        m_diena = 19
+|        m_vieta = {{Vieta|Krievijas Impērija|Komandora salas}}
+| nodarbošanās = ceļotājs, jūrnieks, militārpersona
+|   paraksts     = Signature of Vitus Bering.jpg
+}}
+'''Vituss Jonasens Berings''' ({{val|da|Vitus Jonassen Bering}}, {{val|ru|Витус Ионассен Беринг}}; dzimis {{dat|1681|8|5}} [[Dānija|Dānijā]], miris {{dat|1741|12|19}} [[Komandora salas|Komandora salās]]) bija [[dāņi|dāņu]] izcelsmes [[Krievijas Impērija]]s jūrnieks, flotes virsnieks un ceļotājs.
+
+== Dzīvesgājums ==
+Dzimis 1681. gadā [[Horsensa]]s pilsētā Dānijā ostas muitas inspektora ģimenē. 15 gadu vecumā kļuva par kuģa puiku, ceļoja uz Indiju un tagadējo Indonēziju. Pēc [[Amsterdama]]s kuģa virsnieku skolas beigšanas viņš [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] laikā 1704. gadā iestājās Krievijas kara flotes dienestā. Dienēja [[Baltijas jūra|Baltijas]] flotē, pēc tam [[Azovas jūra|Azovas]] flotē un atkal Baltijas flotē.
+
+1725. gadā Krievijas ķeizars [[Pēteris I]] sūtīja Beringu izpētīt, vai starp [[Āzija|Āziju]] un [[Amerika|Ameriku]] ir sauszemes tilts. Trīs gadus pēc izbraukšanas no [[Sanktpēterburga]]s caur [[Ohotska]]s ostu Berings sasniedza [[jūras šaurums|jūras šaurumu]], kas vēlāk tika nosaukts viņa vārdā par [[Beringa šaurums|Beringa šaurumu]]. Nespēdams saskatīt [[Aļaska]]s krastu un secinājis, ka Āzija un Amerika savā starpā nav savienotas, viņš 1730. gadā atgriezās Sanktpēterburgā. 1733. gadā Berings vēlreiz atgriezās šajā apvidū, kur pavadīja savas dzīves pēdējos astoņus gadus, un šoreiz ekspedīcija sasniedza Aļaskas krastu, taču atpakaļceļā uz [[Sibīrija|Sibīriju]] aizkavējās un bija spiesta pārziemot neapdzīvotā salā, kur vairums ekspedīcijas dalībnieku, arī tās vadītājs, saslima un nomira. Salu [[Komandora salas|Komandora salās]], kurā Berings nomira, nosauca viņa vārdā par [[Beringa sala|Beringa salu]].
+== Literatūra ==
+* {{Atsauce|journal=Polar Record|volume=21|number=131|year=1982|pages=161–163|location=United Kingdom|title=Vitus Bering|first=Terence|last=Armstrong|doi=10.1017/s0032247400004538|s2cid=251063437 }}
+* {{Atsauce|last=Debenham|first=Frank|pages=421–426|title=Bering's last Voyage|journal=Polar Record|year=1941|volume=3|number=22|location=United Kingdom|doi=10.1017/s0032247400064342|s2cid=129168535 }}
+* {{Atsauce|editor1-first=Orcutt William|editor1-last=Frost|title=Bering: The Russian Discovery of America|location=New Haven, Connecticut|publisher=Yale University Press|year=2003|isbn=0-300-10059-0|url=https://archive.org/details/beringrussiandis0000fros}}
+* {{Atsauce|last=Lauridsen|first=Peter|title=Bering og de Russiske Opdagelsesrejser|language=da|location=Copenhagen|year=1885}}
+* {{Atsauce|last=Müller|first=Gerhard Friedrich|title=Sammlung russischer Geschichten|volume=iii|location=St Petersburg|publisher=Kayserl. Academie der Wißenschafften|year=1758|language=de}}
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Cilvēks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Berings, Vituss}}
+[[Kategorija:1681. gadā dzimušie]]
+[[Kategorija:1741. gadā mirušie]]
+[[Kategorija:Jūrasbraucēji]]
+[[Kategorija:Vidusjitlandes reģionā dzimušie]]

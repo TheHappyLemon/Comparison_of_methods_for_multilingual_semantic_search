@@ -1,0 +1,20 @@
+'''Mineraloģija''' ir [[dabas zinātne]], kas nodarbojas ar [[minerāls|minerālu]] [[ķīmija|ķīmisko]] īpašību, [[kristāla struktūra|kristālu struktūru]] un fizisko īpašību (ieskaitot [[optika|optisko]] īpašību) izpēti. Šī zinātne pēta minerālu veidošanos un destrukciju. Zinātniekus, kas nodarbojas ar mineraloģiju, sauc par mineralogiem. Pēdējā laikā mineraloģiju bieži dēvē arī par "minerālu zinātnēm" (angliski — ''mineral sciences'').
+
+Vēsturiski mineraloģija ir daudz nodarbojusies ar [[iezis|iežus]] veidojošo minerālu [[taksonomija|taksonomiju]]. Dažādu valstu mineralogu organizācijas ir apvienojušās [[Starptautiskā mineraloģijas asociācija|Starptautiskajā mineraloģijas asociācijā]]. Tās aktivitātes iekļauj jaunatklāto minerālu nodēvēšanu (ar to nodarbojas Jauno minerālu un minerālu nosaukumu komisija (angliski — ''Commission of New Minerals and Mineral Names'')), jau zināmo minerālu atradņu noteikšanu utt. 2004. gada nogalē šī organizācija bija reģistrējusi ap 4000 minerālu veidus. No šiem minerāliem tikai ap 150 var tikt uzskatīti par "izplatītiem", vēl ap 50 ir "samērā bieži sastopami" bet pārējie ir "reti" vai "ļoti reti".
+
+Nesenā pagātnē, attīstoties tādām tehnoloģijām, kā, piemēram [[neitronu difrakcija]]i un aizvien pieejamākajām datoru tehnoloģijām, no kurām pēdējās ļauj veikt ārkārtīgi precīzas atomāra mēroga kristālu uzvedības simulācijas, mineraloģijas zinātne ir paplašinājusies, risinot arī [[neorganiskā ķīmija|neorganiskās ķīmijas]] un [[cietvielu fizika]]s problēmas.
+
+Tomēr vadošais mūsdienu mineraloģijas attīstības virziens ir iežus veidojošo minerālu (piemēram, [[perovskīts|perovskīta]], [[māla minerāli|māla minerālu]] un [[tektosilikāts|tektosilikātu]]) kristāliskās struktūras izpēte. Šajā jomā ir notikuši būtiski sasniegumi, gūstot izpratni par attiecībām starp minerāla atomārā izmēra struktūrām un to funkcijām. Tas ļauj veikt, piemēram, minerālu elastisko īpašību prognozēšanu, kas ir devis jaunu ieskatu iežu [[seismoloģija|seismoloģiskajās]] īpašībās un ar dziļuma izmaiņu saistītajiem [[mantija (ģeoloģija)|Zemes mantijas]] seismogrammu pārtraukumiem. Pēdējā laika tendences liecina, ka mineraloģija iegūst aizvien lielāku kopību ar citu zinātni — [[materiālu zinātne|materiālu zinātni]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://wwwobs.univ-bpclermont.fr/ima/ Starptautiskā mineraloģijas asociācija (angliski)]
+* [http://www.mindat.org/index.php mindat.org minerālu un to atradņu datu bāze (angliski)] {{Webarchive|url=https://web.archive.org/web/20080129172536/http://www.mindat.org/index.php |date={{dat|2008|01|29||bez}} }}
+* [http://www.minsocam.org/index.php ASV Mineraloģijas apvienība (angliski)]{{Novecojusi saite}}
+* [http://geo.web.ru./druza/index.html Клуб друзей минералогии - mājaslapa par minerālu atradnēm visā pasaulē (krieviski)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ģeoloģija]]
+[[Kategorija:Dabaszinātnes]]

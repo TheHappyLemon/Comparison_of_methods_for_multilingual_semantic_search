@@ -1,0 +1,50 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Vorikšīra
+ |          official_name = ''Warwickshire''
+ |        settlement_type = grāfiste
+| image_skyline = Chesterton Windmill.jpg
+| imagesize =
+| image_caption = Vorikšīras ainava
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_shield             = {{#property:P94}}
+ |shield_size              = 100x80px
+ |                capital = [[Vorika]]
+ |           largest_city = [[Nanītana]]
+ |              image_map = Warwickshire UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Rietummidlenda]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles grāfiste
+ |         area_total_km2 = 1975
+ |       population_total = 564600
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+}}
+
+'''Vorikšīra''' ({{val|en|Warwickshire}}) ir [[Anglijas grāfistes|grāfiste]] [[Rietummidlenda]]s reģionā Anglijā. Grāfistes administratīvais centrs ir [[Vorika]], bet lielākā pilsēta ir [[Nanītana]]. [[Stretforda pie Eivonas|Stretfordā pie Eivonas]] dzimis [[Viljams Šekspīrs]].<ref>{{Ziņu atsauce|url=https://www.lonelyplanet.com/england/the-midlands/warwickshire/travel-tips-and-articles/warwickshire-the-heart-of-english-history/40625c8c-8a11-5710-a052-1479d276d8e6|title=Warwickshire: the heart of English history – Lonely Planet|last=Planet|first=Lonely|date=10 May 2016|work=Lonely Planet|accessdate=18 May 2017|archive-url=https://web.archive.org/web/20170821045549/https://www.lonelyplanet.com/england/the-midlands/warwickshire/travel-tips-and-articles/warwickshire-the-heart-of-english-history/40625c8c-8a11-5710-a052-1479d276d8e6|archive-date=21 August 2017|dead-url=no|}}</ref>
+
+Grāfiste ir sadalīta piecos rajonos: [[Ziemeļvorikšīra|Ziemeļvorikšīrā]], [[Nanītana un Bedvorta|Nanītanā un Bedvortā]], [[Regbija (rajons)|Regbijā]], [[Vorika (rajons)|Vorikā]] un [[Stredforda pie Eivonas|Stredfordā pie Eivonas]]. Pašreizējās grāfistes robežas ir nostiprinātas 1974. gadā. Savukārt grāfistes vēsturiskajās robežās bija ietverta arī [[Koventri]] un [[Solihala|Solihalu]], kā arī daļa [[Birmingema]]s.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20190102151519/https://www.warwickshire.gov.uk/home Vorikšīras grāfistes dome]
+* [http://www.warkscol.ac.uk/ Vorikšīras koledžas mājaslapa]
+
+
+{{UK-aizmetnis}}
+
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

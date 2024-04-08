@@ -1,0 +1,57 @@
+{{Mūzikas instrumenta infokaste
+| name                             = Klarnete
+| image                            = Clarinet.jpg
+| image_size                    = 100px
+| caption                          = 
+| background                   = woodwind
+| names                           = 
+| classification                  = 
+| hornbostel_sachs          = 422.211.2-71
+| hornbostel_sachs_desc = 
+| inventors                        = 
+| developed                      = 
+| timbre                             = 
+| volume                           = 
+| attack                             = 
+| decay                             = 
+| range                             = Rakstītais diapazons (lai gan ir iespējams spēlēt arī augstāk):<br />[[File:Clarinet range.svg|180px|center]]
+| pitch                               = 
+| related                            = 
+* [[Saksofons]]
+* [[Tárogató]] (modernā)
+* [[Oboja]]
+* [[Chalumeau]]
+| musicians                       = [[Klarnetists|Klarnetisti]]
+| builders                          = 
+| articles                           = 
+}}
+
+'''Klarnete''' ({{val-it|clarinetto}} — ‘mazais klarino’) ir koka [[pūšamais mūzikas instruments]]. Klarnete ir mēlīšinstrumets, kas tieks spēlēts ar vienkāršu bambusniedres mēlīti. Pateicoties cilindriskajai caurules formai, klarnetes tembrālajā [[spektrs|spektrā]] ir tikai katra otrā [[virsskaņa]]. Šis fakts arī nosaka specifisko klarnetes [[tembrs|tembru]]. Klarnetei ir trīs izteikti reģistri: zemais vidējais un augstais. Skanējuma tembrs katrā no tiem ir atšķirīgs.
+
+Klarnete mūsdienu izpratnē izveidojās [[18. gadsimts|18. gadsimtā]] un ātri vien nostiprinājās arī [[simfoniskais orķestris|simfoniskā orķestra]] sastāvā. Pateicoties savam plašajam [[diapazons|diapazonam]] un dinamiskajām iespējam, klarnete ir arī ļoti populārs [[solo]] un [[ansamblis|ansambļa]] instruments. Tiek lietota arī [[džezs|džeza]] mūzikā ([[Benijs Gudmens]]).
+
+Klarnete ir transponējošs instruments. Simfoniskajā orķestrī tiek lietotas ''in B'' un ''in A'' klarnetes. Nereti tiek izmantoti arī klarnetei radniecīgie instrumenti: [[basklarnete]], [[basethorns]], klarnete ''in Es''.
+
+Latvijā ievērojamākie klarnetisti: Egīls Šēfers, Uldis Lipskis, Mārcis Kūlis, [[Ints Dālderis]], Guntis Kuzma, Mārtiņš Circenis u.c.
+
+== Vēsture ==
+Pirmo klarneti izveidoja [[Johans Kristofs Denners]] [[18. gadsimts|18. gs.]] sākumā. Oriģināli klarnetei bija divi vārstuļi, bet mūsdienās tai ir trīspadsmit. Kopš 18. gs. vidus klarnete tika iekļauta [[Orķestris|orķestra]] standartaprīkojumā.<ref>{{Grāmatas atsauce|title=Tehnika|last=Ročāns|first=Gints|publisher=Avots|year=2008.gads|isbn=978-9984-800-45-5|location=Langervaldes iela 1a, Jelgava, LV-3001|pages=98}}</ref>
+
+== Skatīt arī ==
+* [[Mūzikas instrumenti]]
+* [[Pūšamie mūzikas instrumenti]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{mūzika-aizmetnis}}
+
+{{Klasiskais simfoniskais orķestris}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Koka pūšamie mūzikas instrumenti]]

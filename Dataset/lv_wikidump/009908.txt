@@ -1,0 +1,92 @@
+{{Latvijas novada infokaste
+| nosaukums         = Mazozolu pagasts
+| karte             = Mazozolu_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = LVA Mazozolu pagasts COA.png
+| ģerboņa_nosaukums = Mazozolu pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Ogres novads
+| centrs2           = [[Līčupe (Mazozolu pagasts)|Līčupe]]
+| mērs              = Jānis Paleps
+| platība           = 97,0
+| iedzīvotāji       = 630<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 630 / 97 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Mazozolu pagasts''' ir viena no [[Ogres novads|Ogres novada]] administratīvajām teritorijām tā austrumos [[Ogre (upe)|Ogres]] un [[Līčupe (Ogres pieteka)|Līčupes]] starpupē. Robežojas ar sava novada [[Taurupes pagasts|Taurupes]] un [[Meņģeles pagasts|Meņģeles]] pagastiem, [[Cēsu novads|Cēsu novada]] [[Zaubes pagasts|Zaubes]] un [[Kaives pagasts|Kaives]] pagastiem, un [[Madonas novads|Madonas novada]] [[Ērgļu pagasts|Ērgļu]] un [[Sausnējas pagasts|Sausnējas]] pagastiem. Pagasta centrs atrodas [[Līčupe (Mazozolu pagasts)|Līčupē]]. 
+
+== Daba ==
+Atrodas [[Vidzemes augstiene|Vidzemes augstienē]], lielākā daļa atrodas [[Augšogres pazeminājums|Augšogres pazeminājumā]] bet ziemeļrietumu daļa — [[Piebalgas pauguraine|Piebalgas paugurainē]]. Augstākā vieta — Eglīškalns (205,6 m vjl) — atrodas pagasta ziemeļu daļā.
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Ogre (upe)|Ogre]]
+** [[Līčupe (Ogres pieteka)|Līčupe]]
+*** [[Mušķupe]]
+*** [[Vedze]]
+** [[Nāruža]]
+
+==== Ezeri ====
+Vairāki nelieli ezeriņi — Lielais Vaukšu ezers, Mazais Vaukšu ezers, Plakaņu ezers.
+
+== Vēsture ==
+[[13. gs.]] šī teritorija piederēja pie [[Jersika (valsts)|Jersikas karaļvalsts]] [[Negeste]]s pilsnovada ({{val-la|castrum Negeste}}), netālu no robežas ar [[Koknese (valsts)|Kokneses valsti]]. Ogres upes labajā krastā atradās [[letgaļi|letgaļu]] pils. Pēc [[Letijas dalīšanas līgums|Letijas dalīšanas līguma]] 1210. gadā Negestes pilsnovads tika ordenim<ref>[http://www.old.historia.lv/alfabets/J/je/jersika/dokumenti/1211.00.00.latviesu.htm Lēmums par Jersikas karaļa novadu sadalīšanu starp Rīgas bīskapu un Zobenbrāļu ordeni]{{Novecojusi saite}}</ref>, bet 1213. gadā to piešķīra bīskapam un līdz [[Livonijas konfederācija]]s sabrukumam tas kā [[Bērzaune]]s pilsnovada rietumu daļa ietilpa [[Rīgas arhibīskapija]]s sastāvā.  
+Arhibīskapa vasaļi [[Tīzenhauzeni]] 14. gadsimtā uzcēla [[Ērgļu viduslaiku pils|Ērgļu pili]]. Pēc [[Livonijas karš|Livonijas kara]] šī apkaime tika pievienota [[Pārdaugavas hercogiste]]i. 
+
+[[Vidzemes guberņa]]s laikā tagadējā Mazozolu pagasta teritorija ietilpa [[Cēsu apriņķis|Cēsu apriņķa]] [[Ērgļu—Ogresmuižas draudzes novads|Ērgļu—Ogresmuižas draudzes novadā]] (''Erlaa-Ogershof''), vēlāk [[Ogres pagasts|Ogres pagastā]]. Līdz Pirmajam pasaules karam šeit atradās [[Mazozolu muiža]], ko pēc [[1920. gada zemes reforma]]s sadalīja 28 vienībās 420 ha kopplatībā.<ref>{{LKV|XV.|29646}}</ref>  
+
+1945. gadā Ogres pagasta teritorijā izveidoja [[Ogres ciems|Ogres]] un Mazozolu [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā Mazozolu ciemam pievienoja Ogres ciemu, 1963. gadā — daļu [[Ogreslīču ciems|Ogreslīču]] un [[Taurupes ciems|Taurupes]] ciema. 1977. gadā daļu Mazozolu ciema teritorijas iekļāva Ogreslīču un [[Sausnējas ciems|Sausnējas]] ciemos. 1990. gadā ciemu reorganizē par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļauj [[Ogres novads|Ogres novadā]].
+
+=== Ievērojamas vietas un objekti ===
+* Ogres pilskalns — senais latgaļu pilskalns atrodas grūti pieejamā vietā Ogres krastā. Pilskalns ir ap 60 m garš un ap 10—20 m augsts. Tam ir stāvas, ar mežu apaugušas nogāzes un kails, līdzens plankums.
+* Jāņkalniņš — sena kulta vieta, paugurs, kura virsotnē atrodas 1789.gadā celtās un 2. pasaules karā sagrautās mūra baznīcas drupas.
+* Lazdiņu akmens "Kariete" — senā braucamrīka formu atgādinošais akmens ir 5,1 m garš, 3 m plats un 1,8 m augsts. Akmens apkārtmērs ir 13,3 m.
+* Velna grāvis (klēpis) — pie Spiļviem. Ap 30 m garš laukakmēņu krāvums Nāružas upītes augšteces gravā. Ar savdabīgodabas veidojumu saistītas teikas, kas vēsta, ka senatnē velns nesis priekšautā akmeņus, līdz iedziedājies gailis, un akmeņi izbiruši tieši upītē.
+* Ozolkalna ozols — stumbra apkārtmērs 5,6 m.
+* Mārkutu akmens — 1,5 m augstajā akmenī iekalta nenoskaidrotas izcelsmes zīme "1021"
+* Vedzes dabas taka — taka iekārtota Vedzes upes krastā uz Mazozolu pagasta un Cēsu rajona Zaubes pagasta robežas. Tā iepazīstina ar upes savdabīgajiem krastiem un apkārtnes augu pasauli.
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1325
+|1959|1225
+|1967|1154
+|1979|783
+|1989|794
+|2000|777
+|2011|562
+|2021|437
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas: '''[[Līčupe (Mazozolu pagasts)|Līčupe]]''', [[Mazozoli]], [[Ogresmuiža]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Ogres novads-aizmetnis}}
+
+{{Ogres novads}}
+{{Ogres rajons}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Ogres novada pagasti]]
+[[Kategorija:Mazozolu pagasts| ]]

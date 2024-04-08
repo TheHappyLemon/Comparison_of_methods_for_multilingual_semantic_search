@@ -1,0 +1,13 @@
+<noinclude>
+{{Fs start}}
+</noinclude>
+|-
+| style="text-align: right;" |{{{no| }}}
+| style="text-align: center;" |{{flaga|{{{nat}}}}}
+| style="text-align: center;" |{{Football squad player/role/{{{pos}}}}}
+|{{{name}}} {{#if:{{{other| }}}|''({{{other}}})''}}<noinclude>
+{{Fs mid}}
+{{Fs end}}
+
+[[Kategorija:Futbola veidnes]]
+</noinclude>

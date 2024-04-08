@@ -1,0 +1,94 @@
+{{Latvijas novada infokaste
+| nosaukums         = Trapenes pagasts
+| karte             = Trapenes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Smiltenes novads
+| mērs              = [[Jānis Šepters]]
+| centrs            = Trapene
+| platība           = 137,25
+| iedzīvotāji       = 759<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 759 / 137.25 round 1}}
+| izveidots         = 1923
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.trapene.lv
+}}
+
+'''Trapenes pagasts''' ir viena no [[Smiltenes novads|Smiltenes novada]] administratīvajām teritorijām tā vidienē, [[Igaunija]]s pierobežā. Robežojas ar sava novada [[Virešu pagasts|Virešu]], [[Gaujienas pagasts|Gaujienas]] un [[Apes pagasts|Apes]] pagastiem, [[Gulbenes novads|Gulbenes novada]] [[Lejasciema pagasts|Lejasciema pagastu]], [[Alūksnes novads|Alūksnes novada]] [[Alsviķu pagasts|Alsviķu]] un [[Ilzenes pagasts|Ilzenes]] pagastiem, kā arī Igaunijas [[Veru apriņķis|Veru apriņķa]]  [[Hānjamās pagasts|Hānjamās]] pagastu (agrāk [[Menistes pagasts|Menistes pagastu]]).
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Baltiņupe]], [[Bebrupīte (Melnupes pieteka)|Bebrupīte]], [[Blīgzne|Blīgzna]], [[Cēsaka]], [[Dzērve (upe)|Dzērve]], [[Ķīšupīte]], [[Melnupe (Mustjegi pieteka)|Melnupe]].
+
+==== Ezeri ====
+[[Garais ezers (Trapene)|Garais ezers]], [[Lukstu ezers]], [[Sētas ezers (Trapenes pagasts)|Sētas ezers]].
+
+== Vēsture ==
+1902. gadā '''Bormaņu pagastu''' (''Treppenhof'') pievienoja [[Gaujienas pagasts|Gaujienas pagastam]], bet 1923. gadā agrārreformas laikā to izveidoja no jauna. 1925. gadā [[Valkas apriņķis|Valkas apriņķa]] Bormaņu pagastu pārdēvēja par '''Trapenes pagastu'''. 1935. gadā tā platība bija 111,5 km² un tajā dzīvoja 1394 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Mežu ciems|Mežu]] un Trapenes [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Trapenes ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946-1949), [[Apes rajons|Apes]] (1949-1956), [[Alūksnes rajons|Alūksnes]] (1956-1962), [[Valkas rajons|Valkas]] (1962-1967) rajonos un pēc 1967. gada atkal Alūksnes rajonos. 1954. gadā Trapenes ciemam pievienoja likvidēto Mežu ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Trapenes pagastu kā administratīvo teritoriju iekļāva [[Apes novads|Apes novadā]]. 2021. gadā Apes novadu iekļāva [[Smiltenes novads|Smiltenes novadā]].
+
+=== Pieminekļi ===
+* Naugrubu senkapi	
+* Naugrubu Tinābele (kulta vieta)	
+* Repju senkapi  
+* [[Bormaņu muiža]]s (Trapenes) apbūve (18. gs. b.-20. gs. s.) - kungu māja (18. gs. b.-19. gs. b.), stallis (19. gs. b.), parks (19. gs.)
+* Līzespasta krogs - Līzespastā (19. gs. 1.p.)
+* Līzespasta zirgu pasta stacija - Līzespastā (19. gs. 1.p.)
+* Divas dzīvojamās ēkas un „Mikužu” saiešanas nams Mikužos (19. gs. 2.p.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1394
+|1959|1306
+|1969|1241
+|1979|1073
+|1989|1056
+|2000|1014
+|2011|805
+|2021|665
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Trapene]]''' (pagasta centrs), [[Ādams (ciems)|Ādams]], [[Indriķi]], [[Krampji (ciems)|Krampji]], [[Līzespasts]], [[Rūpnieki (Trapenes pagasts)|Rūpnieki]].
+
+=== Ievērojamas personības ===
+* [[Ojārs Vācietis]] (1933–1983) – dzejnieks
+* [[Elīna Zālīte]] (1898–1955) – latviešu rakstniece, dzejniece, dramaturģe un tulkotāja
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Smiltenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Apes novads}}
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Smiltenes novada pagasti]]
+[[Kategorija:Trapenes pagasts| ]]

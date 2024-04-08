@@ -1,0 +1,63 @@
+{{Futbola kluba infokaste|
+nos=Flamengo|
+logo=[[Attēls:Flamengo_logo_football.png|120px]]|
+pilns=Clube de Regatas do Flamengo|
+dib=1895|
+stad=[[Estádio do Maracanã|Maracanã]] <small>(publiskais stadions)</small><br />[[Estádio da Gávea|Gávea]] <small>(pašu stadions)</small><br />[[Riodežaneiro]], [[Brazīlija]]|
+ietilp=82,238<ref>{{Tīmekļa atsauce |url=http://www.cbf.com.br/cnef/cnef.pdf |title=Arhivēta kopija |access-date={{dat|2013|05|10||bez}} |archiveurl=https://web.archive.org/web/20130510210022/http://www.cbf.com.br/cnef/cnef.pdf |archivedate={{dat|2013|05|10||bez}} }}</ref>|
+prez={{flaga|Brazīlija}} Patrīsija Amorima|
+tren={{flaga|Brazīlija}} [[Vanderlejs Lukšemburgu]]|
+līga=[[Brazīlijas Série A]]|
+sez=2009|
+poz=1.
+| pattern_la1 = _flamengo1819h
+| pattern_b1 = _flamengo1819h
+| pattern_ra1 = _flamengo1819h
+| pattern_sh1 = _flamengo1718h
+| pattern_so1 = _flamengo1718h
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = ff0000
+| pattern_la2 = _flamengo1819a
+| pattern_b2 = _flamengo1819a
+| pattern_ra2 = _flamengo1819a
+| pattern_sh2 = _adidasred
+| pattern_so2 = _flamengo1819a
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = 000000
+| socks2 = FFFFFF      
+| pattern_la3 =_flamengo1718t
+| pattern_b3 =_flamengo1718t
+| pattern_ra3 =_flamengo1718t
+| pattern_sh3 =_adidasblue
+| pattern_so3 =_flamengo1718t
+| leftarm3 = FFFF00
+| body3 = FFFF00
+| rightarm3 = FFFF00
+| shorts3 = FFFF00
+| socks3 = FFFF00
+}}
+
+'''Clube de Regatas do Flamengo''', biežāk zinams kā ''Flamengo'' ({{IPA|flaˈmẽɡu}}) ir [[Brazīlija]]s [[sporta klubs]] no [[Riodežaneiro]].
+
+Citi komandas fanu lietotie komandas apzīmējumi ir ''"Fla"'', ''"Mengo"'' un ''"Mengão"'' (kas nozīmē ''Lielais Mengo''), kā arī kluba krāsas aprakstošais nosaukums ''rubro-negro'' ("spilgti sarkans-melns").
+
+Flamengo futbola komanda ir populārākais klubs valstī ar aptuveni 35 miljoniem atbalstītāju. Tas ierindojās 9. vietā FIFA rīkotajā aptaujā par 20. gadsimta labākajiem klubiem.
+
+Flamengo simbols savulaik bija [[jūrnieks Papaijs]], bet 1960. un 1970. gados to pakāpeniski aizvietoja [[Melnais grifs|grifs]].<ref>[http://www.flamengo.com.br/mascote/ Club mascots] (in Portuguese). Flamengo oficiālā vietne. Atsauce uz 2010. gada 18. janvāri.</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{futbols-stub}}
+
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Riodežaneiro "Flamengo"]]

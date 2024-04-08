@@ -1,0 +1,156 @@
+{{Infobox 
+| bodyclass  = vevent plainlist
+| title      = {{{title|{{{name|<includeonly>{{PAGENAME}}</includeonly>}}}}}}
+| titleclass = summary
+| labelstyle = white-space: nowrap
+| above      = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_size|}}}|sizedefault=64px|title={{ifempty|{{{name|}}}|{{PAGENAME}}}}}}
+| image      = {{#if:{{{collapsible|}}}|{{hidden begin|title=Ekrānuzņēmums|titlestyle=text-align:center}}}}{{#invoke:InfoboxImage|InfoboxImage|image={{{screenshot|}}}|size={{{screenshot_size|}}}|sizedefault=250px|title={{ifempty|{{{name|}}}|{{PAGENAME}}}}}}
+| caption    = {{{caption|}}}{{#if:{{{collapsible|}}}|{{hidden end}}}}
+
+| label1     = [[Programmatūras projektēšana|Sākotnējais autors]]
+| data1      = {{{author<includeonly>|</includeonly>}}}
+| label2     = [[Programmatūras izstrādātājs|Izstrādātājs]]
+| data2      = {{{developer<includeonly>|</includeonly>}}}
+| label3     = Sākotnējā versija
+| data3      = {{{released<includeonly>|</includeonly>}}}
+| label4     = [[Programmatūras izlaides dzīves cikls|{{#if:{{{discontinued|}}}|Neturpināta|Stabilā versija}}]]
+| data4      = {{#if:{{{latest release version|{{{latest_release_version<includeonly>|</includeonly>}}}}}}
+ |{{{latest release version|{{{latest_release_version}}}}}} {{#if:{{{latest release date|{{{latest_release_date<includeonly>|</includeonly>}}}}}}
+   | / {{{latest release date|{{{latest_release_date}}}}}}
+  }}
+ |{{#if:{{{frequently updated|{{{frequently_updated|}}}}}}
+  |{{#ifexist:Template:Latest stable software release/{{{name|{{PAGENAME}}}}}
+   |{{Latest stable software release/{{{name|{{PAGENAME}}}}}}} <sub class="plainlinks">[[{{fullurl:Template:Latest stable software release/{{{name|{{PAGENAME}}}}}|action=edit&preload=Template:LSR/syntax}} +/−]]</sub>
+  }}
+ }}
+}}
+| label5     = [[Programmatūras izlaides dzīves cikls|Izstrādes versija]]
+| data5      = {{#if:{{{latest preview version|{{{latest_preview_version<includeonly>|</includeonly>}}}}}}
+ |{{{latest preview version|{{{latest_preview_version}}}}}} {{#if:{{{latest preview date|{{{latest_preview_date<includeonly>|</includeonly>}}}}}}
+   | / {{{latest preview date|{{{latest_preview_date}}}}}}
+  }}
+ |{{#if:{{{frequently updated|{{{frequently_updated|}}}}}}
+  |{{#ifexist:Template:Latest preview software release/{{{name|{{PAGENAME}}}}}
+   |{{Latest preview software release/{{{name|{{PAGENAME}}}}}}} <sub class="plainlinks">[[{{fullurl:Template:Latest_preview_software_release/{{{name|{{PAGENAME}}}}}|action=edit&preload=Template:LSR/syntax}} +/−]]</sub>
+  }}
+ }}
+}}
+| label6     = Izstrādes statuss
+| data6      = {{{status<includeonly>|</includeonly>}}}
+| label7     = [[Programmēšanas valoda|Progr. valoda]]
+| data7      = {{{programming language|{{{programming_language<includeonly>|</includeonly>}}}}}}
+| label8     = [[Programmatūras dzinējs|Dzinējs]]{{#if: {{{engines|}}} |s}}
+| data8      = {{#if: {{{engines|}}}
+                   |{{{engines}}}
+                   |{{#if:{{{engine|}}}{{#ifeq:{{{qid|}}}|nav|-}}
+                     |{{{engine|}}}
+                     |{{#if: {{#property:P408|from={{{qid|}}}}}
+                         |{{Plainlist|<ul>{{wikidata|properties|{{{qid|}}}|P408|best|format=<li>%p</li>}}</ul>}}{{EditAtWikidata|pid=P408}}
+                       }}
+                   }}
+               }}
+| label9     = [[Operētājsistēma]]
+| data9      = {{{operating system|{{{operating_system<includeonly>|</includeonly>}}}}}}
+| label10    = [[Platforma (datorika)|Platforma]]
+| data10     = {{{platform<includeonly>|</includeonly>}}}
+| label11    = [[Faila izmērs|Izmērs]]
+| data11     = {{{size<includeonly>|</includeonly>}}}
+| label12    = [[Valoda]]
+| data12     = {{{language<includeonly>|</includeonly>}}}
+| label13    = [[Programmatūras veidi|Veids]]
+| data13     = {{{genre<includeonly>|</includeonly>}}}
+| label14    = [[Programmatūras licence|Licence]]
+| data14     = {{{license<includeonly>|</includeonly>}}}
+| label15    = [[Programmatūras licence|Licence]]
+| data15     = {{{licence<includeonly>|</includeonly>}}}
+| label16    = [[Repozitorijs (versiju kontrole)|Repozitorijs]]
+| data16     = {{#if:{{{repo|}}}{{#ifeq:{{{qid|}}}|nav|-}}
+                  |{{{repo|}}}
+                  |{{#if: {{#property:P1324|from={{{qid|}}}}}
+                      |{{#ifeq: {{wikidata|property|{{{qid|}}}|P1324|best|format=%p}} | nav
+                          |{{wikidata|property|{{{qid|}}}|P1324|best|format=%p}}{{EditAtWikidata|pid=P1324}}
+                          |{{Plainlist|<ul><li>{{URL|{{wikidata|property|{{{qid|}}}|P1324|best|format=%p}}}}</li></ul>}}{{EditAtWikidata|pid=P1324|qid={{{qid|}}}}}
+                       }}
+                   }}
+               }}
+| label17    = [[Tīmekļa vietne]]
+| data17     = {{{website<includeonly>|</includeonly>}}}
+| label18    = [[Tehniskais standarts|Standarts]](s)
+| data18     = {{{standard<includeonly>|</includeonly>}}}
+| label19    = No
+| data19     = {{{AsOf<includeonly>|</includeonly>}}}
+}}<noinclude>
+== Pielietojums ==
+<pre>
+{{Programmatūras infokaste
+| name                   = 
+| logo                   = 
+| screenshot             = 
+| caption                = 
+| author                 = 
+| developer              = 
+| released               = 
+| latest release version = 
+| latest release date    = 
+| latest preview version = 
+| latest preview date    = 
+| programming language   = 
+| engine                 = 
+| operating system       = 
+| platform               = 
+| language               = 
+| status                 = 
+| genre                  = 
+| license                = 
+| repo                   = 
+| website                = 
+}}
+</pre>
+{{-}}
+
+{{esoteric}}
+
+[[Kategorija:Infokastes|Programmatūra]]
+
+<templatedata>
+{
+	"params": {
+		"title": {},
+		"name": {},
+		"logo": {},
+		"logo_size": {},
+		"collapsible": {},
+		"screenshot": {},
+		"screenshot_size": {},
+		"caption": {},
+		"author": {},
+		"developer": {},
+		"released": {},
+		"discontinued": {},
+		"latest release version": {},
+		"latest_release_version": {},
+		"latest release date": {},
+		"latest_release_date": {},
+		"frequently updated": {},
+		"latest preview version": {},
+		"latest_preview_version": {},
+		"latest preview date": {},
+		"latest_preview_date": {},
+		"status": {},
+		"programming language": {},
+        "engine": {},
+		"operating system": {},
+		"platform": {},
+		"size": {},
+		"language": {},
+		"genre": {},
+		"license": {},
+		"licence": {},
+		"website": {},
+		"repo": {},        
+		"standard": {},
+		"AsOf": {}
+	},
+	"format": "block"
+}
+</templatedata></noinclude>

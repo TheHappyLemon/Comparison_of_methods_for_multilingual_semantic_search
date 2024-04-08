@@ -1,0 +1,70 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Tapa
+| official_name           = ''Tapa''
+| settlement_type         = pagasta pilsēta
+| image_skyline           = Tapapikktn.JPG
+| imagesize               = 
+| image_caption           = Tapas galvenā iela
+| image_flag              = Tapa_flag.png
+| flag_size               = 125px
+| image_seal              = 
+| seal_size               = 
+| image_shield            = Tapa_coatofarms.png
+| shield_size             = 75px
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Estonia
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Atrašanās vieta Igaunijā
+| latd  = 59|latm  = 16|lats  = |latNS  = N
+| longd = 25|longm = 57|longs = |longEW = E
+| coordinates_display        = inline,title
+| coordinates_region        = EE
+| subdivision_type        = [[Pasaules valstis|Valsts]]
+| subdivision_name        = {{EST}}
+| subdivision_type1       = [[Igaunijas apriņķi|Apriņķis]]
+| subdivision_name1       = [[Attēls:Lääne-Virumaa lipp.svg|24px]] [[Rietumviru apriņķis]]
+| subdivision_type2       = [[Igaunijas pagasti|Pagasts]]
+| subdivision_name2       = [[Attēls:Tapa valla lipp.jpg|24px]] [[Tapas pagasts]]
+| established_title       = <!-- Town rights -->
+| established_date        = 
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          = 
+| area_total_km2          = 17.32
+| population_footnotes    = 
+| population_total        = 5693
+| population_as_of        = 01.01.2014
+| population_density_km2  = auto
+| timezone                = [[Austrumeiropas laiks|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST          = +3
+| postal_code             = 
+| website                 = {{url|http://www.tapa.ee}}
+}}
+[[Attēls:Tapa Jakobi kirik.jpg|thumbnail]]
+'''Tapa''' ir pilsēta [[Igaunija]]s [[Rietumviru apriņķis|Rietumviru apriņķī]] pie [[Valgejegi]] upes.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{Igaunija-aizmetnis}}
+{{īss aizmetnis}}
+
+{{Igaunijas pilsētas}}
+{{autoritatīvā vadība}}
+
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Rietumviru apriņķis]]

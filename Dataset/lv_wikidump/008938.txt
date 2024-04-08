@@ -1,0 +1,52 @@
+{{Citas nozīmes|astoņu bitu kopa|Oktets|Oktets}}
+'''Oktets''' jeb '''8 bitu baits''' ({{val|en|octet, 8-bit byte}})<ref>{{AkadTerm|term=oktets|lang=LV}}</ref> [[informātika|informātikā]] vienmēr ir astoņu (8) [[bits|bitu]] kopa. To apzīmē ar mazo '''o'''.
+
+Vārds "oktets" (ar nozīmi "astoņu grupa") ir cēlies no [[latīņu valoda|latīņu]] un [[grieķu valoda|grieķu]] [[skaitļu prefikss|skaitļu prefiksa]] "okto-" (''octo-''), kas nozīmē "[[astoņi]]".
+
+Lai gan mūsdienās oktets un [[baits]] ir sinonīmi, datoru attīstības pirmsākumos baits nebija standartizēts, un dažādās sistēmās varēja būt arī mazāks vai lielāks par 8 bitiem. Tādēļ terminu "oktets" lietoja gadījumos (piemēram, datu apmaiņai starp dažādām sistēmām), kad bija jāapzīmē tieši 8 biti. Baits parasti apzīmēja uzglabājamo datu vienības izmēru, bet oktets — pa tīkliem pārraidāmās informācijas vienību. Arī mūsdienās saglabājusies tradīcija datortīklu standartos gandrīz vienmēr izmantot oktetu. Lai novērstu neviennozīmīgumu ''byte'' lietošanai [[franču valoda|franču valodā]], [[Francija|Francijā]], [[Franču Kanāda|Franču Kanādā]] un [[Rumānija|Rumānijā]] gandrīz vienmēr baita vietā izmanto vārdu "oktets".
+
+== Normalizācija ==
+Oktetus var lietot ar [[Starptautiskā mērvienību sistēma|SI]] prefiksiem vai ar [[binārais prefikss|binārajiem prefiksiem]], kurus ir standartizējusi [[Starptautiskā elektrotehniskā komisija]] 1998. gadā.
+
+* kibi (no «'''ki'''lo '''bi'''nārais»);
+* mebi (no «'''me'''ga '''bi'''nārais»);
+* gibi (no «'''gi'''ga '''bi'''nārais»);
+* tebi (no «'''te'''ra '''bi'''nārais»);
+
+{|
+| 1 '''kibioktets''' (Kio) || = 2<sup>10</sup> okteti ||colspan="2"| = {{formatnum:1024}} okteti
+|-
+| 1 '''mebioktets''' (Mio) || = 2<sup>20</sup> okteti || = {{formatnum:1024}} Kio || = {{formatnum:1048576}} okteti
+|-
+| 1 '''gibioktets''' (Gio) || = 2<sup>30</sup> okteti || = {{formatnum:1024}} Mio || = {{formatnum:1073741824}} okteti
+|-
+| 1 '''tebioktets''' (Tio) || = 2<sup>40</sup> okteti || = {{formatnum:1024}} Gio || = {{formatnum:1099511627776}} okteti
+|-
+| 1 '''pebioktets''' (Pio) || = 2<sup>50</sup> okteti || = {{formatnum:1024}} Tio || = {{formatnum:1125899906842624}} okteti
+|-
+| 1 '''exbioktets''' (Eio) || = 2<sup>60</sup> okteti || = {{formatnum:1024}} Pio || = {{formatnum:1152921504606846976}} okteti
+|-
+| 1 '''zebioktets''' (Zio) || = 2<sup>70</sup> okteti || = {{formatnum:1024}} Eio || = {{formatnum:1180591620717411303424}} okteti
+|-
+| 1 '''jobioktets''' (Yio) || = 2<sup>80</sup> okteti || = {{formatnum:1024}} Zio || = {{formatnum:1208925819614629174706176}} okteti
+|}
+
+[[Starptautiskā mērvienību sistēma|SI]] prefiksi kilo, mega, giga, tera, u.c. ir tādi paši kā citām SI mērvienībām, kuru pamatā ir bāze 10.
+Šajā gadījumā:
+
+{|
+| 1 '''kilooktets''' (ko) || = 10<sup>3</sup> okteti ||colspan="2"| = {{formatnum:1000}} okteti
+|-
+| 1 '''megaoktets''' (Mo) || = 10<sup>6</sup> okteti || = {{formatnum:1000}} ko || = {{formatnum:1000000}} okteti
+|-
+| 1 '''gigaoktets''' (Go) || = 10<sup>9</sup> okteti || = {{formatnum:1000}} Mo || = {{formatnum:1000000000}} okteti
+|-
+| 1 '''teraoktets''' (To) || = 10<sup>12</sup> okteti || = {{formatnum:1000}} Go || = {{formatnum:1000000000000}} okteti
+|-
+| 1 '''petaoktets''' (Po) || = 10<sup>15</sup> okteti || = {{formatnum:1000}} To || = {{formatnum:1000000000000000}} okteti
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Informācijas mērvienības]]

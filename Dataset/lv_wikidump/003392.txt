@@ -1,0 +1,17 @@
+'''Anhidrīds''' ({{val-el2|anhydros}} - bezūdens) ir savienojums, kas tiek iegūts, atšķeļot kādam citam savienojumam [[ūdens|ūdeni]]. Parasti ar jēdzienu ''anhidrīds'' saprot '''skābju anhidrīdus'''. Skābes anhidrīds ir viela, kuru iegūst, atšķeļot [[skābeklis|skābekli]] saturošai [[skābe]]i ūdeni. Praktiski gan neorganisko skābju ražošanā bieži vien vispirms tiek iegūts tieši anhidrīds, no kura tālāk iegūst pašu skābi. Anhidrīdi reaģē ar ūdeni, veidojot attiecīgo vielu (piemēram, sērskābes anhidrīdam [[sēra trioksīds|SO<sub>3</sub>]] reaģējot ar ūdeni, veidojas [[sērskābe]]). Neorganisko skābju anhidrīdus sauc arī par [[oksīdi|skābajiem oksīdiem]].
+
+Par anhidrīdiem sauc arī bezūdens [[kalcija hlorīds|kalcija hlorīdu]] CaCl<sub>2</sub> un [[kalcija sulfāts|kalcija sulfātu]] (minerāls [[anhidrīts]] CaSO<sub>4</sub>). Dažreiz par anhidrīdiem sauc arī bezūdens [[sārmi|sārmus]], bet tas ir reti.
+
+== Organisko skābju anhidrīdi ==
+Tos iegūst, atšķeļot [[karbonskābes|karbonskābēm]] ūdeni:
+
+:2 [[etiķskābe|CH<sub>3</sub>COOH]] → [[acetanhidrīds|(CH<sub>3</sub>CO)<sub>2</sub>O]] + H<sub>2</sub>O 
+
+Karbonskābju anhidrīdi dažās reakcijās ir aktīvāki nekā pašas karbonskābes, taču mazāk aktīvi kā attiecīgie [[halogēnanhidrīds|halogēnanhidrīdi]].
+
+== Ķīmiskās īpašības ==
+Skābju anhidrīdi gandrīz vienmēr reaģē ar ūdeni, veidojot attiecīgās skābes. Stipru un stabilu skābju ([[sērskābe]], [[fosforskābe]]) anhidrīdi darbojas kā ūdensatņēmējas vielas, un tos var lietot, lai iegūtu vājāku skābju anhidrīdus. Vāju un nestabilu skābju anhidrīdi ar ūdeni reaģē lēni ([[oglekļa dioksīds]]), vai nereaģē nemaz ([[silīcija dioksīds]]). Skābju anhidrīdi reaģē ar sārmiem [[normāli apstākļi|normālos apstākļos]] vai paaugstinātā [[temperatūra|temperatūrā]].
+
+Bezūdens sāļi hidratējas ūdens klātienē.
+
+[[Kategorija:Ķīmiskie savienojumi]]

@@ -1,0 +1,133 @@
+[[Attēls:Animated-mass-spring.gif|thumb|[[Atsperes svārsts|Atspere ar atsvaru]] bez [[Berze|berzes]]- piemērs harmoniskām svārstībām.]]
+'''Svārstības''' jeb '''oscilācijas''' ir [[mehāniskā kustība|kustības]], kuras precīzi vai aptuveni atkārtojas pēc noteiktiem laika intervāliem. Ja kustība atkārtojas precīzi, tad tādu kustību sauc par [[Periods|periodisku]] kustību. [[Daba|Dabā]] visbiežāk svārstības ar laiku pavājinās (norimst).
+
+== Mehāniskās svārstības ==
+Mehāniskās svārstības ir kustība, kad [[fizikāls ķermenis|ķermenis]] periodiski novirzās gan uz vienu, gan uz otru pusi. Ir divu pamatveidu mehāniskās svārstības: brīvās svārstības un uzspiestās svārstības. Kā atsevišķu gadījumu izdala harmoniskās svārstības, kas var būt kā brīvas, tā arī uzspiestas. Tāpat pēc tā, vai svārstošais ķermenis atrodas [[Virzes kustība|virzes]] vai [[Griezes kustība|griezes kustībā]], var izšķirt virzes un griezes svārstības.<ref>{{Grāmatas atsauce|title=Fizika|first3=M.|last7=Čudars|first6=A.|last6=Okmanis|first5=Dz.|last5=Lūsis|first4=A.|last4=Danebergs|last3=Ogriņš|last=Valters|first2=A.|last2=Apinis|pages=380|isbn=5-405-00110-4|year=1992|publisher=Zvaigzne|first=A.|first7=J.}}</ref>
+=== Harmoniskās svārstības ===
+Harmoniskas svārstības notiek, kad rezultējošais spēks ir proporcionāls novirzei no [[Mehāniskais līdzsvars|līdzsvara]] stāvokļa- šādas sistēmas mēdz saukt par lineāru harmonisku [[Oscilators|oscilatoru]]. Ja <math>F_a\nsim x</math>, tad to sauc par anharmonisku oscilatoru. Harmonisku svārstību nosacījums izpildās, piemēram, [[Huka likums|Huka likumā]]: <math>ma = -kx</math>, kur <math>x</math> ir novirze no līdzsvara un <math>k</math> ir atsperes [[stinguma koeficients]].
+
+Harmonisko svārstību gadījumā atvirzes vienādojums no līdzsvara stāvokļa izskatīsies šādi: <math>x = X_{max } \cdot   cos(\omega_0    t + \varphi )</math><ref>{{Tīmekļa atsauce|url=https://estudijas.rtu.lv/pluginfile.php/332428/mod_resource/content/0/konspekti/4.pdf#page=2|title=RTU Mehāniskās svārstības|access-date=17.01.2024}}</ref>. Harmoniskām svārstībām periods būs vienāds ar <math>T=\frac{2\pi}{\omega_0}</math> (analoģija ceļš dalīts uz ātrumu, bet priekš [[Leņķis|leņķiem]]).
+
+==== Izvedums ====
+[[Attēls:Federpendel.svg|thumb|300x300px|Harmoniskām svārstībām novirzes funkcija pēc laika ir [[sinusoīda]] (kosinusoīda), tādēļ <math>x(t)</math> minējumā tas arī atspoguļojas. Raustītā līnija atbilst atsvara miera stāvoklim, bet sarkanās bultiņas norāda ātrumu]]Var uzrakstīt Huka likumu kā [[Diferenciālvienādojums|diferenciālvienādojumu]]:
+
+<math>m\frac{d^2x}{dt^2} = -kx</math>, jeb <math>\frac{d^2x}{dt^2} + \frac{k}{m}x = 0</math>. Tā kā otrais [[atvasinājums]] <math>\frac{d^2x(t)}{dt^2}</math> atbilst  <math>-c\cdot x(t) </math>, iespējams minēt, ka atrisinājums izskatīsies formā <math>x = X_{max } \cdot   cos(\omega_0    t + \varphi )</math>, kur <math>X_{max}</math> ir amplitūda, <math>\omega_0</math> ir [[cikliskā frekvence]] un <math>\varphi</math> ir sākuma novirze.
+
+Minējumu var pārbaudīt, to atvasinot divas reizes un ievietojot izteiksmes Huka likumā. Minējumam:
+
+<math>\frac{d^2x}{dt^2} = -\omega_0 ^2 A \cos(\omega_0 t + \varphi)</math>, tagad šo un <math>x = A \cdot   cos(\omega t + \varphi )</math> var ievietot Huka likumā:
+
+<math>-\omega ^2 A \cos(\omega_0 t + \varphi) + \frac{k}{m} cos(\omega_0 t + \varphi) = 0</math>, jeb
+
+<math>(\frac{k}{m} - \omega_0 ^2) \cdot cos(\omega_0  t + \varphi) = 0</math>, kas ir patiess, ja <math>\omega_0   = \sqrt\frac{k}{m}</math>, tātad minējums der.<ref name=":0">{{Grāmatas atsauce|title=Physics for scientists & engineers with Modern Physics Third Edition|last=Giancoli|first=Douglas C.|year=2000|pages=364.,365., 375}}</ref> Jāpiebilst, ka var izvēlēties gan <math>sin</math>, gan <math>cos</math> funkcijas priekš svārstībām, bet šī izvēle ietekmēs sākuma novirzi <math>\varphi</math>.
+
+==== Citi lielumi harmoniskām svārstībām ====
+[[Attēls:Work-on-a-spring.svg|thumb|300x300px|Atspere pirms svārstībām tiek [[Deformācija|deformēta]], tai iedota potenciālā enerģija <math>W</math>, kura harmonisku svārstību laikā pārvēršas par kinētisko enerģiju <math>E_k</math> un atpakaļ- pilnās mehāniskās enerģijas summa ir konstanta <math>E_k + W = const</math>.]]
+Momentāno ātrumu aprēķina pēc formulas: <math>v=-\omega_0X_{max}sin(\omega_0t + \varphi )</math>. (Iegūstams atvasinot novirzi <math>x = X_{max } \cdot   cos(\omega_0    t + \varphi )</math>). [[Trajektorija]]s punktus, kuros <math>v=0</math>  un <math>\left\vert x \right\vert=X_{max}</math>, sauc par pagrieziena punktiem. Vislielākais ātrums ir līdzsvara punktos.
+
+Momentāno paātrinājumu iegūst pēc formulas: <math>a=-\omega_0^2X_{max}cos \omega_0t</math>. (Iegūstams atvasinot ātrumu <math>v=-\omega_0X_{max}sin(\omega_0t + \varphi )</math>). Līdzsvara punktos <math>a=0</math>. Vislielākā vērtība paātrinājumam ir pagrieziena punktos. 
+
+Ķermenim svārstoties, tam piemīt [[Kinētiskā enerģija|kinētiskā]] <math>E_k</math> un [[potenciālā enerģija]] <math>W</math>, pie kam harmoniskas svārstības ir noslēgta sistēma, kura saņem enerģiju no ārienes tikai sākummomentā pēc tam tā enerģiju no ārienes nesaņem un neatdod to citiem ķermeņiem, tādēļ [[Mehāniskā enerģija|pilnā mehāniskā enerģija]] ir konstanta <math>E_k + W = const</math>.
+
+Zinot ķermeņa momentāno ātrumu <math>v</math>, ķermeņa kinētisko enerģiju <math>E_k=\frac{mv^2}{2}</math> var aprēķināt pēc <math>E_k=\frac{mX_{max}^2sin^2\omega_0t}{2}</math>. (Iegūstams ievietojot <math>v=-\omega_0X_{max}sin(\omega_0t + \varphi )</math> izteiksmē). Pagrieziena punktos <math>E_k=0</math>, bet līdzsvara punktā <math>E_k</math> ir vislielākā.
+
+Potenciālā enerģija ir atkarīga no atgriezējspēka. Atsperes svārstam atgriezējspēks ir <math>F_a=-kx</math>, izmantojot sakarību atgriezējspēkam un potenciālajai enerģijai <math>F_a = -  \frac{dW}{dx}   </math> un [[Integrālis|integrējot]] iegūst <math>W=\frac{kx^2}{2}</math>. Ievietojot <math>x = X_{max } \cdot   cos(\omega_0    t + \varphi )</math>iegūst <math>W=\frac{kX_{max}^2cos^2\omega_0t}{2}</math>. Līdzsvara punktā <math>W=0</math>, bet vislielākā pagrieziena punktos.
+
+=== Matemātiskais svārsts ===
+[[Attēls:Simple pendulum generalized coordinates.svg|thumb|Matemātiskais svārsts: diega sastiepuma spēks daļēji kompensē smaguma spēku <math>mg</math>, tā radītā komponente <math>mg \sin{\theta}</math> paātrina masu līdzsvara virzienā.]]
+[[Matemātiskais svārsts]] ir idealizēts svārsts, kuru veido neizstiepjamā bezmasas diegā iekārts [[materiāls punkts]]. Šāda svārsta gadījumā
+
+<math> a = -\frac{g}{l} s \ </math>, kur g — [[brīvās krišanas paātrinājums]]; l — diega garums; s — [[Loks (matemātika)|loka]] garums. Svārstību [[periods]] <math>T</math> šādam svārstam:
+
+<math>T=2\pi \sqrt{\frac{l}{g}}</math> pie maziem sākuma atvirzes leņķiem. 
+
+Ja leņķis ir liels, tad nepieciešams izmantot formulu, kura ņem vērā sākuma leņķi <math>\begin{alignat}{2}
+T & = 2\pi \sqrt{L\over g} \left( 1+ \frac{1}{16}\theta_0^2 + \frac{11}{3072}\theta_0^4 + \cdots \right)
+\end{alignat}</math>
+
+=== Fizikālais svārsts ===
+Neidealizētu svārstu sauc par fizisko svārstu, tas ir jebkurš ķermenis, kas nostiprināts iekarē un var svārstīties. Matemātiskā svārsta periods ir atkarīgs tikai no svārsta garuma, bet fiziskā svārsta periodu ietekmē ķermeņa [[Inerce|inerces moments]] attiecībā pret rotācijas asi (ķermeņa [[masa]]s izvietojums). Ja svārstību [[amplitūda]] ir neliela, šāda svārsta periods
+
+<math>T=2\pi \sqrt{\frac{J}{mgR}}</math>,
+
+kur <math>J</math> ir inerces moments, <math>m</math> ir masa, <math>R</math> ir [[Masas centrs|masas centra]] attālums līdz rotācijas asij. Matemātiskais svārsts ir speciāls gadījums fizikālajam svārstam- inerces moments materiālam punktam ir <math>J = mR^2 </math>, to ievietojot perioda formulā: <math>T=2\pi \sqrt{\frac{mR^2}{mgR}} = 2\pi \sqrt{\frac{R}{g}}</math>, kur <math>R </math> ir attālums starp rotācijas punktu un masas punktu (diega garums).[[Attēls:Damped spring.gif|left|thumb|222x222px|Brīvas rimstošas svārstības]]
+
+=== Rimstošas svārstības ===
+[[Attēls:Damped oscillation graph2.svg|thumb|Rimstošu svārstību koordinātas x atkarība no laika t]]Rimstošas svārstības ir svārstības ar berzi. Berzes (pretestības) spēka <math>F_b</math> dēļ svārstību amplitūda pakāpeniski samazinās. Parasti uzskata, ka berzes spēks ir proporcionāls ātrumam (<math>F_b\sim v</math>), tad svārstību amplitūda samazinās [[Eksponentfunkcija|eksponenciāli]] un svārstību formula ir
+
+<math>x=X_{max}e^{-\gamma t}cos(\omega t)</math>, kur <math>\gamma</math> ir rimšanas koeficients. Rimšanas koeficientam tiecoties uz nulli,  <math>\omega 
+</math> tiecas uz <math>\omega_0</math> (svārstības tiecas būt harmoniskas).
+
+==== Izvedums ====
+[[Attēls:Federpendel verschiedene Dämpfungen.gif|thumb|300x300px|Rimstošas svārstības ar dažādiem berzes koeficientiem <math>b</math>. Vidējais zīmējums atbilst kritiski slāpētām svārstībām, kad <math>b = \sqrt{4mk}
+</math>, tad svārstības visātrāk apstājas.]]Atsperei kustības vienādojumu var pierakstīt šādi: <math>ma = -kx -bv</math>, kur <math>-bv</math> ir, piemēram, [[Aerodinamiskā pretestība|gaisa pretestība]]. To var uzrakstīt kā diferenciālvienādojumu <math>\frac{d^2x}{dt^2} + \frac{b}{m}\frac{dx}{dt} + \frac{k}{m}x = 0</math>. Tā kā pie maziem rimšanas koeficientiem <math>\gamma</math> svārstības izskatās pēc eksponenciāli dilstoša kosinusoīda, iespējams minēt atrisinājumu kā <math>x=X_{max}e^{-\gamma t}cos(\omega t)</math>. Ievietojot to diferenciālvienādojumā, minējums apstiprinās, ja 
+
+<math>\gamma = \frac{b}{2m} 
+</math> un <math>\omega = \sqrt{\frac{k}{m}-\frac{b^2}{4m^2}}
+</math>. Pēc šīm formulām var novērot, ka, ja berzes koeficients ir <math>b > \sqrt{4mk}
+</math>, tad kvadrātsakne ir negatīva, parādās [[Imaginārs skaitlis|imagināri skaitļi]] izteiksmē un svārstības nenotiek, tā vietā ķermenis lēnām nonāk līdzsvara stāvoklī. Ja notiek robežgadījums <math>b = \sqrt{4mk}
+</math>, tas atbilst kritiski slāpētām svārstībām, svārstības arī nenotiek un ķemenis visātrāk nonāk līdzsvara stāvoklī.<ref name=":0" />
+
+==== Citi lielumi rimstošām svārstībām ====
+Laiku, kurā svārstību amplitūda samazinās [[E (matemātiska konstante)|e]] ([[Naturālais logaritms|naturāllogaritma]] bāze) reizes, sauc par oscilatora laika konstanti <math>\tau=\frac{1}{\gamma}</math>. No svārstību sākšanās momenta <math>t_0</math> līdz momentam <math>t=\tau</math> rimstošo svārstību sistēma izdara <math>N=\frac{\tau}{T}</math> pilnas svārstības. Skaitli <math>Q=2\pi N</math> sauc par oscilatora labumu, kurš skaitliski vienāds ar oscilatorā uzkrātās pilnās enerģijas attiecību pret enerģiju, ko tas zaudē viena svārstību perioda laikā, tādējādi <math>Q</math> raksturo svārstību sistēmas spēju saglabāt tajā uzkrāto enerģiju.
+
+Ik pēc perioda svārstību amplitūda samazinās <math>e^{\gamma T}</math> reizes, naturālo logaritmu no šī skaitļa sauc par logaritmisko dekrementu <math>d=\ln e^{\gamma T}=\gamma T</math>.<ref name=":1" />
+
+=== Divu savstarpēji perpendikulāru harmonisku svārstību saskaitīšana ===
+[[Attēls:LissajousCurvesWithGears a2 b3 p00.gif|thumb|Piemērs Lisažū figūrām- tumši pelēkais zobrats veic 3 periodus, kamēr pelēkais veic 2. Ja tumši pelēkais nosaka <math>y</math> koordināti un pelēkais nosaka <math>x</math>, tad, sekojot līdzi kādam punktam uz zobrata, veidojas Lisažū figūra.]]
+Ja ķermenis vienlaicīgi harmoniski svārstās [[Plakne|plaknē]] x un y asu virzienos un tā līdzsvara punkts ir [[koordinātu sistēma]]s sākumpunkts, ķermeņa 
+
+koordinātas mainās pēc
+
+<math>x(t)=X_{max}sin(\omega_1t+\varphi_1)</math>, <math>y(t)=Y_{max}sin(\omega_2t+\varphi_2)</math>.
+
+Saskaitot abus materiālā punkta pārvietojumus, iegūst rezultējošo ķermeņa kustību pa trajektoriju xy plaknē. Trajektorijas izskatu ietekmē abu svārstību amplitūdu un periodu (frekvenču) attiecības un kustības sākumfāžu starpība. Šīs trajektorijas sauc par [[Lisažū figūras|Lisažū figūrām]].
+
+Ja <math>\omega_1=\omega_2</math> un
+
+* <math>\varphi_1=\varphi_2</math>, tad rezultējošā kustība ir harmoniskas svārstības pa [[taisne]]s nogriezni, kurš orientēts [[Leņķis|leņķī]] <math>\alpha</math> pret x asi, <math>tg\alpha=\frac{Y_{max}}{X_{max}}</math>;
+* sākumfāzes atšķiras par <math>\frac{\pi}{2}</math>, tad trajektorija ir [[elipse]], kuras lielā pusass novietota horizontāli, ja <math>X_{max}=Y_{max}</math>, elipse kļūst par [[Riņķa līnija|riņķa līniju]];
+* sākumfāžu starpība atšķiras no 0, <math>\frac{\pi}{2}</math>, <math>\pi</math>, <math>\frac{3\pi}{2}</math>, tad trajektorija ir elipse, kuras lielā pusass ir slīpa pret x asi.
+
+Ja <math>\omega_1\neq \omega_2</math>, tad rezultējošā kustība nav periodiska un punkts atgriežas sākumstāvoklī tikai tad, ja abi periodi attiecas kā [[Vesels skaitlis|veseli skaitļi]] (1:2, 2:3 utt.), tad Lisažū figūras ir noslēgtas un komplicētas līknes.<ref name=":1" />
+
+=== Uzspiestās svārstības ===
+[[Attēls:Fugleredehuske.jpg|thumb|Piemērs uzspestām svārstībām- periodisks šūpoļu grūdiens.]]
+Uzspiestās svārstības ir svārstības, ko ķermeņi veic [[ārējie spēki|ārējo spēku]] iedarbībā (tie var būt periodiski mainīgi). Šīs svārstības nenorimst, kamēr darbojas [[ārējie spēki|ārējais spēks]], piemēram, šūpoļu iešūpināšana ar periodiskiem grūdieniem.
+
+Uzspiesto svārstību amplitūda atkarīga no tā, kā kāda ir uzspiedējspēka frekvence <math>\omega</math> salīdzinājumā ar brīva bezberzes oscilatora pašsvārstību frekvenci <math>\omega_0</math>. Svārstību amplitūdu nosaka komplicētas likumsakarības, tačū, ja oscilatora berze ir maza (<math>\gamma \ll \omega_0</math>), uzspiesto svārstību amplitūda savu vislielāko vērtību sasniedz tad, kad <math>\omega=\omega_0</math>. Tā ir amplitūdas rezonanse — stacionārs svārstību režīms, kad uzspiedējspēka darbu katrā periodā kompensē berzes izraisītie zudumi.<ref name=":1">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=248. — 258|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref>
+== Svārstību veidi ==
+Svārstības var iedalīt, izmantojot dažādas pazīmes.
+[[Attēls:Waveforms.svg|thumb|Daži svārstību veidi pēc novirzes maiņas rakstura: sinusoidālas, kvadrāta, trijstūra, zāģveida svārstības]]
+Pēc fizikālās dabas izšķir šādas svārstības:
+
+* '''mehāniskās''', kad [[fizikāls ķermenis]] periodiski novirzās. Mehānisko svārstību piemēri ir [[šūpoles]], [[stīgu instrumenti]] un [[kamertonis]], [[atsperes svārsts]], [[Vilberforsa svārsts]], [[Fuko svārsts]], [[dubultais svārsts]], [[Helmholca rezonators]], [[zemestrīce]]s, [[Zvaigzne|zvaigžņu]] svārstības ([[helioseismoloģija]], [[astroseismoloģija]], [[griezes vibrācija]], [[svārsta pulkstenis]];
+* '''elektriskās''', to izpausme ir [[maiņstrāva]], tās apraksta, izmantojot [[Svārstību kontūrs|svārstību kontūru]], elektriskās svārstības sastopamas tādās ierīcēs kā [[Ārmstronga oscilators]], [[multivibrators]], [[bloķējošais oscilators]], [[Batlera oscilators]], [[Klapa oscilators]], [[Kolpica oscilators]], [[aizkavēšanas līnijas oscilators]], [[elektroniskais oscilators]], [[paplašinātās mijiedarbības oscilators]], [[Hārtlija oscilators]], [[oscilistors]], [[fāžu nobīdes oscilators]], [[Pīrsa oscilators]], [[relaksācijas oscilators]], [[Rojera oscilators]], [[Vačkara oscilators]], [[Vina tilta oscilators]];
+* '''elektriski mehāniskās''', piemēram, [[Kvarca rezonators|kvarca rezonatorā]];
+* '''optiskās''' — [[lāzers]], [[Todas oscilators]];
+* '''bioloģiskās''', starp kurām ir [[cirkādes ritms]], [[cirkādes oscilators]], [[Lotkas—Volteras vienādojumi]], [[neirālās svārstības]], [[Svārstīgais gēns|svārstīgie gēni]], [[segmentācijas pulkstenis]];
+* atsevišķi no bioloģiskajām svārstībām var izdalīt '''cilvēciskās''' — [[Hormoni|hormonu]] svārstības, piemēram, [[insulīna svārstības]], [[pilotinducētās svārstības]], [[Artikulācijas vieta|balss]] (arī mehāniskās svārstības);
+* '''saimnieciskās''' (ekonomiskās) un '''sabiedriskās''' (sociālās), kā [[Ekonomiskais cikls|ekonomiskie cikli]], [[paaudžu atstarpe]], [[Maltusiānisms|maltusiānās]] norises sabiedrībā;
+* '''klimatiskās''' un '''ģeofiziskās''' — [[Atlantijas desmitgažu svārstības]], citu okeānu klimata svārstības, [[Čandlera svārstības]], [[Klimata pārmaiņas|klimata svārstības]];
+* '''astrofiziskās''', tostarp [[cikliskais modelis]], [[neitronu zvaigzne]]s svārstības;
+* '''kvantu mehāniskās''' — [[kvantu harmoniskais oscilators]] (var arī attiecināt pie optiskajām svārstībām), [[neitrālo daļiņu svārstības]];
+* '''ķīmiskās''', kas izpaužas kā [[Belousova—Žabotinska reakcija]], [[dzīvsudraba pukstošā sirds]], [[Brigsa—Raušera reakcija]], [[Breja—Lībhafski reakcija]];
+* '''informātiskās''' — [[oscilators (šūnu automāts)]].
+Pēc novirzes maiņas rakstura (pēc svārstību grafika formas) var tikt izšķirtas gadījuma, rimstošas, augošas, pēc amplitūdas modulētas, pēc frekvences modulētas un citas svārstības.
+
+== Skatīt arī ==
+* [[Amplitūda]]
+* [[Atsperes svārsts]]
+* [[Brīvās harmoniskās svārstības]]
+* [[Fizikālais svārsts]]
+* [[Frekvence]]
+* [[Matemātiskais svārsts]]
+* [[Periods]]
+* [[Svārstību raksturlielumi]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Svārstības| ]]

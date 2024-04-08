@@ -1,0 +1,38 @@
+{| class="wikitable" align="right"
+| '''vienkāršā'''
+| '''pamatnē centrētā'''
+| '''telpiski centrētā'''
+| '''malās centrētā'''
+|-
+|| [[Attēls:Orthorhombic.png|vienkāršā]]
+|| [[Attēls:Orthorhombic-base-centered.png|pamatnē centrētā]]
+|| [[Attēls:Orthorhombic-body-centered.png|telpiski centrētā]]
+|| [[Attēls:Orthorhombic-face-centered.png|malās centrētā]]
+|}
+
+[[kristalogrāfija|Kristalogrāfijā]] '''rombiskā singonija''' (nereti no angļu valodas pārmanto terminu - "ortorombiskā singonija") ir viena no 7 [[singonija|singonijām]].
+
+[[kristāliskā struktūra|Kristālisko struktūru]] apraksta, balstoties uz trīs bāzes [[vektors|vektoriem]]. Rombiskajā singonijā visi trīs bāzes vektori ir savstarpēji perpendikulāri, bet tiem ir atšķirīgs garums. Rombiskajā singonijā ir četri simetrijas veidi - vienkāršā, pamatnē centrētā, telpiski centrētā un malās centrētā.
+
+Rombiskā singonija piemīt [[olivīns|olivīnam]], [[topāzs|topāzam]], [[sērs (mineraloģija)|sēram]] un daudzu citu minerālu kristāliem.
+
+Zemāk esošajā tabulā doti trīs šīs singonijas kristālu klašu starptautiskie apzīmējumi un apzīmējumi pēc [[Šēnfliss|Šēnflisa]].
+{| class="wikitable" align=left
+|'''Nosaukums'''
+|'''Starptautiskais apzīmējums'''
+|'''Šēnflisa apzīmējums'''
+|-
+|planaksiālā (rombobipiramidālā)
+|<math>\frac2m \frac2m \frac2m</math>
+|''D<sub>2h</sub>''
+|-
+|planālā (rombopiramidālā)
+|<math>2 mm</math>
+| ''C<sub>2v</sub>''
+|-
+|aksiālā (rombotetraedriskā)
+|<math>222</math>
+|''D<sub>2</sub>''
+|}
+
+[[Kategorija:Kristalogrāfija]]

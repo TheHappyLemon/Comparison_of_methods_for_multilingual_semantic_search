@@ -1,0 +1,84 @@
+{{Lidmašīnas informācija
+|nosaukums = I—15
+|tips = Mācību lidmašīna
+|ražotājs = [[VEF]]
+|attēls =
+|paraksts = <!--Attēla paraksts; ja nav aprakstošs ir jāatsāj tukšs-->
+|konstruktors = [[Kārlis Irbītis]]
+|pirmais lidojums = 1939. gada aprīlī
+|nodošana = <!--Datums kad lidmašīna iestasies/iestājās militārajā/civilājā dienestā -->
+|pēdējais lidojums = <!--Datums kad lidmašīna pabeidza militāro/civilo dienestu, tikai vienam datumam-->
+|stāvoklis = <!--Stāvoklis, vizbiežāk ir lieks; izmantojiet taupīgi-->
+|lietotājs = <!--Ierakstiet tikai vienu, un nelietojiet mazos karogus-->
+|pārējie lietotāji = <!--Līdz trim papildlietotājiem; Atdaliet ar <br/>-->
+|izgatavots = <!--Ražots no - līdz-->
+|kopskaits = 1
+|programmas izmaksa = <!--Ražošanas/Izstrādāšanas programmas izmaksas-->
+|cena = <!--Viena eksemplāra cena-->
+|bāzes modelis = SV-5
+|varianti = <!--Varianti ar saviem rakstiem -->
+}}
+
+'''VEF I—15''' (I—15a un I—15b) - mācību vienvietīgais kara aviācijas [[monoplāns]]. Kara ministrija pasūtīja [[VEF]] izgatavot vairākas [[SV-5]] tipa lidmašīnas, taču [[Kārlis Irbītis]] tās uzlaboja un izveidoja I-15. Darbi pie tā konstruēšanas sākās 1938. gada vasarā un 1939. gada aprīlī notika VEF I—15a pirmais lidojums, taču darbi neturpinājās PSRS iebrukuma dēļ.
+
+== Tehniski — taktiskie parametri ==
+
+{| class="wikitable" border="1"
+|-
+| Modelis
+| I—15
+|-
+| Spārna izmērs, metros
+| 8.0
+|-
+| Garums, metros
+| 7.1
+|-
+| Augstums, metros
+| 2.1
+|-
+| Spārna laukums, m2
+| 9.3
+|-
+| Masa, kg
+|
+|-
+| tukša lidaparāta
+|
+|-
+| maksimālā pacelšanās masa
+|
+|-
+| Dzinēja tips
+|
+|-
+| Dzinēja jauda, z.s.
+| I—15a - 200; I—15b - 210
+|-
+| Maksimālais ātrums, km/h
+| I—15a - 314; I—15b - 330
+|-
+| Kreiserātrums, km/h
+|
+|-
+| Nolidošanas attālums
+|
+|-
+| Pacelšanās ātrums, m/min
+|
+|-
+| Maksimālais lidojuma augstums
+|
+|-
+| Ekipāža, cilv.
+|
+|}
+
+== Ārējās saites ==
+* [http://latvianaviation.com/VEF_I-15.html VEF IRBITIS I-15] {{Webarchive|url=https://web.archive.org/web/20051217134237/http://latvianaviation.com/VEF_I-15.html |date={{dat|2005|12|17||bez}} }} at [http://latvianaviation.com/ LatvianAviation.com] {{Webarchive|url=https://web.archive.org/web/20200218201449/http://www.latvianaviation.com/ |date={{dat|2020|02|18||bez}} }}
+* [http://www.bruninieki.narod.ru/vefi15.html VEF IRBITIS I-15] at [http://www.bruninieki.narod.ru/ Piektā okeāna bruņinieki]
+
+
+{{Latvijas lidmašīnas}}
+
+[[Kategorija:VEF izgatavotās lidmašīnas]]

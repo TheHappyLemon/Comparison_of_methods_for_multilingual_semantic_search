@@ -1,0 +1,166 @@
+{{Citas nozīmes|planētu|Venera|Venera}}
+{{Planētas infokaste
+| bgcolour         = #EDD58B
+| name             = Venera
+| symbol           = [[Attēls:Venus symbol (bold).svg|20px|alt=♀|Veneras astronomiskais simbols]]
+| image            = [[Attēls:Venus-real color.jpg|240px|Venera]]
+| caption          = Venera patiesajās krāsās
+| epoch            = [[J2000]]
+| aphelion         = 108 942 109 km<br />0,72823128 [[astronomiskā vienība|AU]]
+| perihelion       = 107 476 259 km<br />0,71843270 AU
+| semimajor        = 108 208 930 km<br />0,723332 AU
+| eccentricity     = 0,0068
+| period           = 224,70069 [[diena]]s<br />0,6151970 gadi
+| synodic_period   = 583,92 dienas<ref name=nssdc>{{Tīmekļa atsauce |url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html |title = Venus Fact Sheet |publisher = NASA |last = Williams |first = Dr. David R. |date = April 15, 2005 |accessdate = 2007-10-12 |archiveurl = https://www.webcitation.org/6ftO4K7lC?url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html |archivedate = 2016-03-10 }}</ref>
+| avg_speed        = 35,02 km/s
+| inclination      = 3,39471°<br />3,86° pret Saules ekvatoru
+| asc_node         = 76,67069°
+| arg_peri         = 54,85229°
+| satellites       = nav pavadoņu
+| physical_characteristics = yes
+| mean_radius      = 6 051,8 ± 1,0 km<ref name=Seidelmann2007>{{Laikraksta atsauce | last= Seidelmann| first= P. Kenneth  | coauthors= Archinal, B. A.; A’hearn, M. F.; et.al. | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006 | journal= Celestial Mechanics and Dynamical Astronomy | volume=90 | pages=155–180 | year=2007 | doi=10.1007/s10569-007-9072-y | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y | accessdate=2007-08-28}}</ref><br />0,9499 Zemes
+| flattening       = < 0,0002<ref name=Seidelmann2007/>
+| surface_area     = 4,60{{E|8}} km²<br />0,902 Zemes
+| volume           = 9,38{{E|11}} km³<br />0,857 Zemes
+| mass             = 4,8685{{E|24}} kg<br />0,815 Zemes
+| density          = 5,204 g/cm³
+| surface_grav     = 8,87 [[paātrinājums|m/s<sup>2</sup>]]<br />0,904 ''g''
+| escape_velocity  = 10,46 km/s
+| sidereal_day     = 243,0185 dienas
+| rot_velocity     = 6,52 km/h (1,81 m/s)
+| axial_tilt       = 177,3°<ref name=nssdc/>
+| right_asc_north_pole = 18 h 11 min 2 s<br />272.76°<ref>{{Tīmekļa atsauce | title = Report on the IAU/IAG Working Group on cartographic coordinates and rotational elements of the planets and satellites | publisher = International Astronomical Union | year = 2000 | url = http://www.hnsky.org/iau-iag.htm | accessdate = 2007-04-12 | archive-date = 2011-08-10 | archive-url = https://www.webcitation.org/60qCIcHwA?url=http://www.hnsky.org/iau-iag.htm }}</ref>
+| declination      = 67,16°
+| albedo           = 0,65<ref name=nssdc/>
+| magnitude        = līdz -4,6<ref name=nssdc/>
+| angular_size     = 9,7" — 66,0"<ref name=nssdc/>
+| temperatures     = yes
+| temp_name1       = [[kelvins]]
+| mean_temp_1      = 735 K<ref>{{Tīmekļa atsauce | title = Venus: Facts & Figures | publisher = NASA | url = http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Venus&Display=Facts&System=Metric | format = html | accessdate = 2007-04-12 | archiveurl = https://web.archive.org/web/20060929003116/http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Venus&Display=Facts&System=Metric | archivedate = 2006-09-29 }}</ref><ref>{{Tīmekļa atsauce | title = Space Topics: Compare the Planets: Mercury, Venus, Earth, The Moon, and Mars | publisher = Planetary Society | url = http://www.planetary.org/explore/topics/compare_the_planets/terrestrial.html | accessdate = 2007-04-12 | archive-date = 2011-07-28 | archive-url = https://web.archive.org/web/20110728044444/http://www.planetary.org/explore/topics/compare_the_planets/terrestrial.html }}</ref>
+| temp_name2       = [[Celsija grāds|Celsijs]]
+| mean_temp_2      = 461,85&nbsp;°C
+| mean_name3       = [[Fārenheits]]
+| mean_temp_3      = 863,33&nbsp;°F
+| adjectives       = 
+| atmosphere       = yes
+| surface_pressure = 9,3 [[paskāls|MPa]]
+| atmosphere_composition = ~96,5% [[oglekļa dioksīds]]<br />~3,5% [[slāpeklis]]<br />0,015% [[sēra dioksīds]]<br />0,007% [[argons]]<br />0,002% [[ūdens|ūdens tvaiks]]<br />0,0017% [[oglekļa monoksīds]]<br />0,0012% [[hēlijs]]<br />0,0007% [[neons]]<br />[[oglekļa sulfīds|oglekļa sulfīda]] pēdas<br />[[ūdeņraža hlorīds|ūdeņraža hlorīda]] pēdas<br />[[fluorūdeņradis|fluorūdeņraža]] pēdas 
+}}
+
+'''Venera''' jeb '''Venēra''' ({{val|la|Venus}}) ir [[Saules sistēma]]s otrā [[planēta]] no [[Saule]]s, kā arī karstākā un tuvākā planēta [[Zeme]]i.<ref name="britannica">{{tīmekļa atsauce|url=https://www.britannica.com/place/Venus-planet|title=Venus|first=Steven W.|last=Squyres|work=britannica.com|publisher=Encyclopædia Britannica|accessdate=25 October 2020}}</ref> Tā ir viena no [[Zemes grupas planētas|Zemes grupas planētām]]. Venera ir trešais spilgtākais objekts (spilgtākie ir Saule un Mēness) pie debess sfēras. Veneras orbīta atrodas Zemes orbītas iekšpusē, jo Venera atrodas tuvāk Saulei nekā Zeme. Attālums no Zemes līdz Venerai mainās no 45 līdz 259 milj. kilometru. Tā kā vidējais attālums no Saules līdz Venerai ir 108,2 milj. km, tad Venera saņem no Saules vismaz divas reizes vairāk saules enerģijas nekā Zeme, turklāt [[siltumnīcas efekts|siltumnīcas efekta]] rezultātā planētas vidējā temperatūra sasniedz 462 °C. Tādējādi Venera ir Saules sistēmas karstākā planēta.
+
+Kā viens no spožākajiem debess objektiem Venera piesaistīja cilvēku uzmanību kopš seniem laikiem. Dažādās kultūrās tā ir uzskatīta par dievišķu un kalpojusi par iedvesmu rakstniekiem un dzejniekiem kā "rīta zvaigzne" un "vakara zvaigzne". Latviešu kultūrā Venera saukta par '''Ausekli''' vai '''Rietekli'''. Venera ir pirmā planēta, kuras kustība debesīs tika novērota un aprakstīta vismaz 2 tūkstošus gadu p.m.ē.
+
+Veneras simbols ir aplis ar nelielu krustu apakšā (♀). Tiek uzskatīts, ka tas simbolizē rokā turamo romiešu dievietes [[Venera (dieviete)|Veneras]] spoguli. [[Alķīmija|Alķīmijā]] ar šo simbolu apzīmēja [[varš|varu]] (no pulēta vara senatnē izgatavoja spoguļus), bet [[bioloģija|bioloģijā]] joprojām šo simbolu lieto sievišķā dzimuma apzīmēšanai.
+
+== Orbitālie parametri ==
+Venera apriņķo Sauli 224,65 Zemes dienās, bet apgriežas ap savu asi tikai 243 dienās.
+Venerai ir lēna rotācija atpakaļ (pulksteņa rādītāja virzienā), kas nozīmē, ka tā griežas no austrumiem uz rietumiem, nevis no rietumiem uz austrumiem, kā vairums citu lielāko planētu ([[Plutons (pundurplanēta)|Plutonam]] un [[Urāns (planēta)|Urānam]] arī ir rotācija atpakaļ, jo Urāna slīpums ir 97,68 grādi un tas gandrīz guļ uz orbītas plaknes). Nav zināms, kāpēc Venera rotē pretēji, viena no versijām ir, ka senos laikos Venerā ietriecies liels [[meteorīts]].
+
+== Atmosfēra un klimats ==
+Venerai ir atmosfēra, kas satur galvenokārt [[oglekļa dioksīds|oglekļa dioksīdu]] (96,5%) un nedaudz [[slāpeklis|slāpekļa]] (3,5%). Virs šī slāņa atrodas bieza mākoņu sega, kas pārklāj visu planētu. Tā sastāv no [[sēra dioksīds|sēra dioksīda]] un [[sērskābe]]s pilieniem, kas radušies, Saules stariem iedarbojoties uz atmosfērā esošo ogļskābo gāzi, sēru un ūdens tvaikiem. Veneras atmosfēra griežas ātrāk par pašu planētu (virs Veneras ekvatora 65—70 kilometru augstumā [[vējš]] sasniedz 300 km/h lielu ātrumu planētas ass kustības virzienā). Atmosfēras spiediens 90 reizes pārsniedz Zemes atmosfēras spiedienu (tāds spiediens ir Zemes okeānā 900 m dziļumā). Turklāt uz planētas virsmas nokrišņu veidā nonāk sērskābes lietus. Veneras atmosfēras augšējos slāņos ļoti nelielos daudzumos sastopams arī [[ūdens]] tvaiks un [[skābeklis]].
+
+Vidējā temperatūra uz Veneras virsmas ir +462 °C un tā ir praktiski nemainīga dienas vai nakts laikā, kas izskaidrojams ar [[siltumnīcas efekts|siltumnīcas efektu]]— oglekļa dioksīda blīvie mākoņi labi laiž cauri Saules redzamo gaismu, bet aiztur no planētas atstaroto siltumu, kā rezultātā planētas temperatūra krasi pieaug.
+
+== Virsma ==
+Apmēram 80% Veneras virsmas veido vulkāniskie līdzenumi. Uz Veneras ir daudzreiz vairāk vulkānu nekā uz Zemes.
+Veneras augstākie kalni — Maksvela kalni paceļas 10,8 km augstumā virs planētas virsmas vidējā līmeņa. Uz Veneras ir ļoti daudz meteorītu radītu krāteru.
+
+== Iespējamā dzīvība ==
+2020. gada septembrī tika ziņots, ka zinātniekiem, izmantojot teleskopus [[Havaju salas|Havaju salās]] un [[Čīle|Čīlē]], Venēras [[atmosfēra|atmosfērā]] izdevās uziet [[fosfīns|fosfīna]] pēdas. Uz [[Zeme]]s fosfīnu kā gāzi var iegūt rūpnieciski, kā arī to ražo [[mikroorganismi]], kas mēdz dzīvot dzīvnieku zarnās vai bezskābekļa vidē (piemēram, purvos).<ref name="lsm">{{tīmekļa atsauce|url= https://www.lsm.lv/raksts/dzive--stils/tehnologijas-un-zinatne/veneras-makonos-petnieki-atrod-iespejamas-dzivibas-pazimes.a374314/|title= Venēras mākoņos pētnieki atrod iespējamas dzīvības pazīmes|first=Gints|last=Amoliņš|work=lsm.lv|publisher=Latvijas Sabiedriskie Mediji|date=15 September 2020|accessdate=24 October 2020}}</ref> Līdz ar to pastāvēja teorētiska iespēja, ka fosfīna varētu radīt mikroorganismu veidā sastopama [[ārpuszemes dzīvība]].<ref name="lsm"/>
+
+Atklājums tika novērots Venēras augšējā atmosfēras slānī (50 km augstumā), kur apkārtējie apstākļi nav tik nepanesami kā uz planētas virsmas.<ref name="lsm"/> Par spīti tam pētnieki atzīmē, ka, ja fosfīnu galvenokārt izraisa ārpuszemes dzīvība, tad tai tik un tā visticamāk būtu jāatrodas gāzes mākoņu [[ūdens]] šķidrumu pilienos, kas tādejādi to pasargātu no apkārtējās vides, kurā ir novērojama [[sērskābe]].<ref name="tvnet">{{tīmekļa atsauce|url=https://www.tvnet.lv/7063521/venera-ir-krievijas-planeta-pazino-krievijas-kosmosa-agentura|title=Venera ir Krievijas planēta, paziņo Krievijas kosmosa aģentūra|work=tvnet.lv|publisher=TVNET|date=16 September 2020|accessdate=25 October 2020}}</ref> Atsevišķi pētnieki norādīja, ka fosfīna pēdas Venēras atmosfērā varētu radīt [[vulkāns|vūlkāniskā]] aktivitāte vai arī vēl līdz šim nezināms [[Ķīmiskā reakcija|ķīmisks]] process, nevis [[Bioloģija|bioloģisks]] faktors no ārpuszemes dzīvības puses.<ref name="tvnet"/><ref>{{tīmekļa atsauce|url=https://www.nature.com/articles/d41586-020-02785-5|title=Life on Venus? Scientists hunt for the truth|first=Jonathan|last=O'Callaghan|work=nature.com|publisher=Nature|date=2 October 2020|accessdate=24 October 2020}}</ref>
+
+Zinātnieku grupa sākotnēji atklāja spektra pazīmes, kas liecināja par iespējamu fosfīna klātbūtni Veneras atmosfērā, datos no ''JCMT'' teleskopa Havajās, bet šīs pazīmes nebija pietiekami stingri pārliecinošas. Tad viņi izmantoja daudz jutīgāko teleskopu masīvu ''ALMA'' Čīlē, un tā dati jau pārliecinoši rādīja fosfīna spektru.
+
+Pēc sensacionālā paziņojuma daži citi zinātnieki kritizēja atklājumu par to, ka pētījumā tikusi izmantota metode (12. kārtas polinoms), lai nogludinātu spektra grafika daudzos iekritumus, bet reizēm tā liek troksnim izskatīties kā reālam signālam. ''ALMA'' komanda, kas sākotnēji bija sagatavojusi datus zinātnieku grupai, vēlreiz šos datus pārkalibrēja, izslēdzot iespējamos trokšņu faktorus. Šajos datos zinātnieki vairs neatklāja fosfīna pazīmes.<ref name="TVNET, 2020-10-29" /><ref name="syfy.com, 2020-10-26" />
+
+== Izpēte ar kosmiskajiem aparātiem ==
+Tabula ar [[starpplanētu zonde|starpplanētu zondu]] startiem (arī neveiksmīgiem) uz Venēru:
+
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+! width="150" | Oficiālais nosaukums
+! width="100" | Izgatavotāja nosaukums
+! width="80" | Starta datums
+! width="80" | Beigu datums
+! width="150" | Mērķis
+! width="250" | Rezultāts
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Tjažolyj sputnik]] || 1VA No.1 || {{dat|1961|02|04|SK}} || {{dat|1961|02|26|SK}} || Nolaišanās || Nesējraķetes kļūme, neatstāja Zemes orbītu
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Venera-1]] || 1VA No.2 || {{dat|1961|02|12|SK}} || {{dat|1961|02|17|SK}} || Nolaišanās || Pārtrūka sakari ar aparātu ceļā uz Venēru
+|-bgcolor="#FCDBDB"
+| {{flaga|ASV}} [[Mariner 1]] || || {{dat|1962|07|22|SK}} || {{dat|1962|07|22|SK}} || Pārlidojums || Nesējraķetes kļūme, lidojums pārtraukts drošības apsvērumu dēļ
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} || 2MV-1 No.1 || {{dat|1962|08|25|SK}} || {{dat|1962|08|28|SK}} || Nolaišanās || Nesējraķetes 4. pakāpes kļūda, aparāts palika Zemes orbītā
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 2]] || ||  {{dat|1962|08|27|SK}} || {{dat|1963|01|03|SK}} || Pārlidojums || '''Veiksmīgs''' Pārlidoja Venēru 1962. gada 14. decembrī — ieguva datus par Venēras atmosfēru
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} || 2MV-1 No.2 || {{dat|1962|09|01|SK}} || {{dat|1962|09|06|SK}} || Nolaišanās || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} || 2MV-2 No.1 || {{dat|1962|09|12|SK}} || {{dat|1962|09|14|SK}} || Pārlidojums || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} || 3MV-1 No.2 || {{dat|1962|09|19|SK}} || {{dat|1962|09|19|SK}} || Pārlidojums || Nesējraķetes avārija, nesasniedza Zemes orbītu
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-27]] || 3MV-1 No.3 || {{dat|1964|03|27|SK}} || {{dat|1964|03|28|SK}} || Pārlidojums/nosēšanās || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Zond-1]] || 3MV-1 № 4 || {{dat|1964|04|02|SK}} || {{dat|1964|05|14|SK}} || Pārlidojums/nosēšanās || Zaudēti sakari ar aparātu ceļā uz Venēru
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Venera-2]] || 3MV-4 No.4 || {{dat|1965|11|12|SK}} || 1966. gada februāris ||  Pārlidojums || Zaudēti sakari ar aparātu dzesēšanas kļūmes dēļ
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Venera-3]] || 3MV-3 № 1 || {{dat|1965|11|16|SK}} || 1966. gada februāris || Nolaišanās || Zaudēti sakari ar aparātu īsi pirms tas sasniedza Venēru
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-96]] || 3MV-4 No.6 || {{dat|1965|11|23|SK}} || {{dat|1965|11|23|SK}} || Pārlidojums || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|- bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Venera-4]] || 4V-1 No.310 || {{dat|1967|06|12|SK}} || {{dat|1967|10|18|SK}} || Nolaišanās || '''Daļēji veiksmīgs''' Aparāts atgrieza datus par Venēras atmosfēru nolaišanās laikā, taču pārtrauca darbu pirms nosēšanās
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 5]] || || {{dat|1967|06|14|SK}} || {{dat|1967|12|04|SK}} || Pārlidojums || '''Veiksmīgs''' Pārlidoja Venēru 1967. gada 19. oktobrī
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-167]] || 4V-1 No.311 || {{dat|1967|06|17|SK}} || {{dat|1967|06|25|SK}} || Nolaišanās || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|- bgcolor="#D4FCC2"
+| {{flaga|PSRS}} [[Venera-5]] || 4V-1 No.330 || {{dat|1969|01|05|SK}} || {{dat|1969|05|16|SK}} || Atmosfēra || '''Veiksmīgs''' Aparāts ar izpletņa palīdzību noturējās Venēras atmosfērā 53 minūtes un ieguva datus
+|- bgcolor="#D4FCC2"
+| {{flaga|PSRS}} [[Venera-6]] || 4V-1 No.331 || {{dat|1969|01|10|SK}} || {{dat|1969|05|17|SK}} || Atmosfēra || '''Veiksmīgs''' Aparāts ar izpletņa palīdzību noturējās Venēras atmosfērā 51 minūti un ieguva datus
+|- bgcolor="#FCFCD6"
+| {{flaga|PSRS}} [[Venera-7]] || 4V-1 No.630 || {{dat|1970|08|17|SK}} || {{dat|1970|12|15|SK}} || Nolaišanās || '''Daļēji veiksmīgs''' Aparāts atgrieza datus par Venēras atmosfēru nolaišanās laikā, taču pārtrauca darbu īsi pēc nosēšanās
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-359]] || 4V-1 No.631 || {{dat|1970|08|22|SK}} || {{dat|1971|10|06|SK}} || Nolaišanās || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|- bgcolor="#D4FCC2"
+| {{flaga|PSRS}} [[Venera-8]] || 4V-1 No.670 || {{dat|1972|03|22|SK}} || {{dat|1972|07|22|SK}} || Nolaišanās || '''Veiksmīgs''' Aparāts pārraidīja datus 50 minūtes līdz nolaidās uz virsmas, kur pēc 11 sekundēm pārtrauca darbu
+|-bgcolor="#FCDBDB"
+| {{flaga|PSRS}} [[Kosmos-482]] ||  || {{dat|1972|03|31|SK}} || {{dat|1981|05|05|SK}} || Nolaišanās || Nesējraķetes kļūme, aparāts palika Zemes orbītā
+|- bgcolor="#D4FCC2"
+| {{flaga|ASV}} [[Mariner 10]] ||  || {{dat|1973|02|03|SK}} || {{dat|1975|03|24|SK}} || Pārlidojums || '''Veiksmīgs''' Pārlidoja Venēru 1974. gada 5. februārī un turpināja ceļu uz [[Merkurs (planēta)|Merkuru]]
+|- bgcolor="#D4FCC2"
+|rowspan=2| {{flaga|PSRS}} [[Venera 9]] ||rowspan=2| 4V-1 No. 660 ||rowspan=2| {{dat|1975|6|8|SK}} || {{dat|1975|12|25|SK}} || Orbīta || '''Veiksmīgs''' Pētīja atmosfēru un mākoņu segu
+|- bgcolor="#D4FCC2"
+|  {{dat|1975|10|22|SK}} || Nolaišanās || '''Veiksmīgs''' Pirmie virsmas attēli no citas planētas
+|- bgcolor="#D4FCC2"
+|rowspan=2| {{flaga|PSRS}} [[Venera 10]] ||rowspan=2| 4V-1 No. 661 ||rowspan=2| {{dat|1975|7|14|SK}} ||  || Orbīta || '''Veiksmīgs'''
+|- bgcolor="#D4FCC2"
+|  {{dat|1975|10|25|SK}} || Nolaišanās || '''Veiksmīgs'''
+|}
+
+== Skatīt arī ==
+{{Portāls|Astronomija}}
+* [[Saules sistēma]]
+* [[Venera (dieviete)]]
+
+== Atsauces un piezīmes ==
+{{atsauces|refs=
+<ref name="TVNET, 2020-10-29">[https://www.tvnet.lv/7097562/skumji-jaunumi-veneras-atmosfera-tomer-nav-dzivibas-pazimju Skumji jaunumi: Veneras atmosfērā tomēr nav dzīvības pazīmju] TVNET, 2020-10-29</ref>
+<ref name="syfy.com, 2020-10-26">[https://www.syfy.com/syfywire/update-life-above-hell-serious-doubt-cast-on-venus-phosphine-finding UPDATE: Life above hell? Serious doubt cast on Venus phosphine finding] Phil Plalt, syfy.com, 2020-10-26</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Astronomija-aizmetnis}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Venera (planēta)| ]]
+[[Kategorija:Saules sistēmas planētas]]

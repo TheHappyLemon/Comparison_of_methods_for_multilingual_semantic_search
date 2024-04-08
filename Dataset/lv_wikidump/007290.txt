@@ -1,0 +1,231 @@
+{{Latvijas novada infokaste
+| nosaukums         = Aiviekstes pagasts
+| karte             = Aiviekstes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Kriškalni
+| platība           = 144,84
+| iedzīvotāji       = 829<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 829 / 144.84 round 1}}
+| izveidots         = 1922
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Aiviekstes pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā austrumos, [[Aiviekste]]s un [[Daugava]]s labajā krastā. Robežojas ar sava novada [[Pļaviņas|Pļaviņu]] pilsētu un [[Klintaines pagasts|Klintaines]], un [[Vietalvas pagasts|Vietalvas pagastiem]], [[Madonas novads|Madonas novada]] [[Kalsnavas pagasts|Kalsnavas pagastu]] un pa Aivieksti ar [[Jēkabpils novads|Jēkabpils novada]] [[Krustpils pagasts|Krustpils]] un [[Variešu pagasts|Variešu]] pagastiem.
+
+== Daba ==
+=== Reljefs ===
+==== Reljefa formas ====
+[[Ambaiņu kalns]], [[Apšu kalni]], [[Bunduļkalns]], [[Dāmenkalns]], [[Draudavkalns]], [[Juču kalni]], [[Kandavas kalns]], [[Kāršu kalni]], [[Kurmēnu kalni]], [[Lejaskroga kalni]], [[Mālakalns]], [[Mežriju kalni]], [[Puduļu pilskalns]], [[Suņu kalns]], [[Vādas kalns]]
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Aiviekste]], [[Akmensstrauts]], [[Jaunā Veseta]], [[Kaļķupīte (Odzes ezera pieteka)|Kaļķupīte]], [[Maiļupīte (Skanstupītes pieteka)|Maiļupīte]], [[Melnupe (Odzes ezers)|Melnupe]], [[Odze (Pelavas pieteka)|Odze]], [[Pelava]], [[Riekstiņa]], [[Skanstupīte]], [[Veseta]], [[Vesetas kanāls]], [[Vēžupīte (Odzes ezera pieteka)|Vēžupīte]].
+
+==== Ūdenstilpes ====
+[[Apaļais ezers]], [[Baltenītis]], [[Dāmenezers]], [[Krievciema dzirnavezers]], [[Līdacis (Aiviekstes pagasts)|Līdacis]], [[Līkais ezers]], [[Neļaubītis]], [[Odzes ezers]], [[Skaidrais ezers]], [[Spīganas ezers]], [[Spridzēnu ūdenskrātuve]], [[Tulmenītis]].
+
+==== Purvi ====
+[[Zvirbuļpurvs]]
+
+== Vēsture ==
+Teritorija 1206. gadā nonāca [[Rīgas arhibīskapija]]s pakļautībā. [[Krievijas impērija]]s laikā Aiviekstes pagasta teritorija bija vienīgā [[Vitebskas guberņa]]s platība, kas iesniedzās [[Aiviekste]]s labajā krastā. Pie Aiviekstes ietekas Daugavā 19. gadsimta sākumā izveidojās [[Gostiņi|Gostiņu]] (Glazmankas) miests, kur apmetās galvenokārt [[ebreji]], jo tiem bija liegtas tiesības iegūt īpašumus [[Vidzemes guberņa|Vidzemes]] un [[Kurzemes guberņa|Kurzemes]] guberņās. Aiviekstieši piedalījās [[1905. gada revolūcija Latvijā|1905. gada revolūcijā]], tāpēc soda ekspedīcija nošāvusi 4 revolucionārus un nodedzinājusi vienas mājas. [[Pirmais pasaules karš|Pirmā pasaules kara]] laikā tika nopostītas 18 zemnieku saimniecības, bet Gostiņos no 192 mājām tika nopostītas 152. 
+
+Aiviekstes pagasts izveidots 1922. gadā, atdalot to no [[Ungurmuižas pagasts|Ungurmuižas pagasta]]. 1933. gadā Gostiņi ieguva [[pilsēta]]s tiesības un tos atdalīja no pagasta. 1935. gadā pagasta platība bija 50,93 km² un tajā dzīvoja 1605 iedzīvotāji.<ref>{{EncLP}}</ref> 1941. gādā [[PSRS]] varas iestādes izsūtīja 3 cilvēkus, bet 1949. gadā - 26 iedzīvotājus. 1945. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] Aiviekstes pagastā izveidoja Aiviekstes un [[Brīvzemnieku ciems (Pļaviņu rajons)|Brīvzemnieku]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Aiviekstes ciems''' ietilpis [[Pļaviņu rajons|Pļaviņu]] (1949-1959), [[Krustpils rajons|Krustpils]] (1959-1960) un [[Aizkraukles rajons|Aizkraukles]] (pēc 1975. gada) rajonos. Aiviekstes ciemu likvidēja 1960. gadā, teritoriju pakļaujot [[Pļaviņas|Pļaviņu]] pilsētai un izveidojot '''Pļaviņu lauku teritoriju''', kurā iekļauta arī [[Klintaines ciems|Klintaines ciema]] [[padomju saimniecība]]s «Pļaviņas» teritorija. Aiviekstes ciems atjaunots 1975. gadā, par to reorganizējot Pļaviņu lauku teritoriju.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Aiviekstes pagastu kā administratīvo teritoriju iekļāva [[Pļaviņu novads|Pļaviņu novadā]]. 2021. gadā, kā viena no Pļaviņu novada administratīvajām teritorijām, iekļauta [[Aizkraukles novadā]].
+
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi:
+* nr. 104. - [[Draudavu senkapi ar krustakmeni]] pie Draudavām
+* nr. 105. - [[Puduļu pilskalns]] pie Puduļiem<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+* Nenumurēta saraksta elements
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2750
+|1959|1550
+|1967|1300
+|1979|1071
+|1989|927
+|2000|823
+|2011|712
+|2021|574
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Kriškalni]]''' (pagasta centrs), [[Ķūģi (Aiviekstes pagasts)|Ķūģi]], [[Krievciems (Aiviekstes pagasts)|Krievciems]], [[Īvāni (Aiviekstes pagasts)|Īvāni]], [[Aizpurves]], [[Āpēni]], [[Ezerkrasti]], [[Juči]], [[Maiļupsala]], [[Mālkalni (Aiviekstes pagasts)|Mālkalni]], [[Mežezers (ciems)|Mežezers]], [[Ozolsala (Aiviekstes pagasts)|Ozolsala]].
+
+=== Aiviekstes pagasta ciemu uzskatījums ===
+Aiviekstes pagastā atrodas 18 ciemi tajā skaitā 1 vidējciems, 9 mazciemi, 7 skrajciemi un 1 aprūpes ciems.
+{|class="wikitable"
+|-
+! Ciems
+! Ciema tips
+! Koordinātas (x, y)
+! Iedzīvotaju skaits (gads)
+! Māju skaits {{ref label|Māju skaits|1|}}
+|-
+| [[Āpēni]]
+| mazciems
+| 6280324; 609694
+|
+| 5 mājas
+|-
+| [[Dankeri (Aiviekstes pagasts)|Dankeri]]
+| mazciems
+| 
+|
+| 7 mājas
+|-
+| [[Draudavas (Aiviekstes pagasts)|Draudavas]]
+| mazciems
+| 6280115; 600909
+|
+| 14 mājas
+|-
+| [[Ezerkrasti]]
+| mazciems
+| 
+|
+| 3 mājas
+|-
+| [[Īvāni (Aiviekstes pagasts)|Īvāni]]
+| mazciems
+| 6280324; 609694
+| 23 (2021)
+| 17 mājas
+|-
+| [[Juči]]
+| mazciems
+| 6278323; 607003
+|
+| 5 mājas
+|-
+| '''[[Kriškalni]]'''
+| vidējciems
+| 6276986; 605322
+| 154 (2021)
+| 39 mājas
+|-
+| [[Krievciems (Aiviekstes pagasts)|Krievciems]]
+| skrajciems
+| 
+| 12 (2021)
+| 
+|-
+| [[Ķūģi (Aiviekstes pagasts)|Ķūģi]]
+| mazciems
+| 6278584; 610344
+| 67 (2021)
+| 34 mājas
+|-
+| [[Lāči (Aiviekstes pagasts)|Lāči]]
+| mazciems
+| 
+|
+| 5 mājas
+|-
+| [[Maiļupsala]]
+| mazciems
+| 6276866; 609018
+| 43 (2021)
+| 15 mājas
+|-
+| [[Mālkalni (Aiviekstes pagasts)|Mālkalni]]
+| skrajciems
+| 6279216; 612783
+|
+| 12 mājas
+|-
+| [[Mežezers (Aiviekstes pagasts)|Mežezers]]
+| aprūpes ciems
+| 
+|
+| 5 mājas
+|-
+| [[Ozolsala (Aiviekstes pagasts)|Ozolsala]]
+| skrajciems
+| 6276149; 612382
+|
+| 14 mājas
+|-
+| [[Sirmauši]]
+| skrajciems
+| 6276629; 607774
+|
+| 7 mājas
+|-
+| [[Skujaiņi]]
+| skrajciems
+| 6275602; 611256
+|
+| 18 mājas
+|-
+| [[Trakšēni]]
+| skrajciems
+| 
+|
+| 6 mājas
+|-
+| [[Vesetnieki]]
+| skrajciems
+| 
+|
+| 9 mājas
+|}
+
+=== Ievērojamas personības ===
+* [[Valdemārs Ambainis]] (1889 — 1946), skolotājs un rakstnieks
+* [[Jānis Bunduls]] (1899 — 1960), literatūrvēsturnieks
+* [[Pēteris Krumberģis]] (1823 — 1880), dzejnieks, valodnieks un publicists
+* [[Andrejs Krustiņš]] (1884 — 1941), Latvijas armijas ģenerālis
+* [[Pēteris Lapainis]] (1897 — 1990), virsnieks
+* [[Pēteris Siliņš-Bangpūtis]] (1844 — 1899), skolotājs, dzejnieks
+* [[Jānis Sproģis (etnogrāfs)|Jānis Sproģis]] (1835 — 1916), arhivārs un etnogrāfs
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Apskates vietas ==
+{{div col}}
+*[[Draudavu senkapi ar krustakmeni]]
+*[[Piemiņas akmens Aiviekstes forsēšanas vietā 2. pasaules kara laikā]]
+*[[Puduļu pilskalns]]
+*[[Vesetas dižozols]]
+*[[Vesetas palienes purvs]]
+*[[Vesetas tilts]]
+*[[Vesetas purva laipa]]
+{{div col end}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Pļaviņu novads}}
+{{Aizkraukles rajons}}
+{{Daugavpils apriņķis}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Latgale]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Aiviekstes pagasts| ]]
+[[Kategorija:Latvijas pilsētu lauku teritorijas]]

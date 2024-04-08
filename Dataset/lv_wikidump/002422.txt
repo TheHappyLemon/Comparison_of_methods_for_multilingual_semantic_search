@@ -1,0 +1,29 @@
+'''Resursu aprakstīšanas ietvars''' ({{val|en|Resource Description Framework, RDF}}) ir [[metadati|metadatu]] [[modelis|modeļa]] [[specifikācija|specifikāciju]] kopa, kas parasti izpaužas kā [[XML]] lietojums ([[RDF/XML]]), taču ir arī citi pieraksta veidi ([[N3]], [[Turtle]], [[N-Triples]]). RDF specifikāciju kopu uztur [[Globālā tīmekļa konsorcijs]].
+
+RDF metadatu modelis ir balstīts uz ideju, ka tiek izteikti [[apgalvojums|apgalvojumi]] par [[resurss|resursiem]] formā "subjekts-predikāts-objekts". Subjekts ir resurss, "lieta", kas tiek aprakstīta. Predikāts ir aprakstāmais resursa aspekts. Objekts ir konkrētajā aspektā ar subjektu saistītais resurss vai vērtība.
+
+Resursu aprakstīšanas mehānisms ir Globālā tīmekļa konsorcija [[Semantiskais tīmeklis|Semantiskā tīmekļa]] iniciatīvas pamatā. Tas ļautu automatizētai [[programmatūra]]i saglabāt, apmainīties un izmantot metadatus par Globālajā tīmeklī atrodamajiem resursiem, kas savukārt ļautu lietotājiem izmantot tos ar lielāku efektivitāti un noteiktību.
+
+== Lietojumi ==
+* RDF Site Summary — viens no [[RSS (faila formāts)|RSS]] paveidiem, kas tiek izmantots [[tīmekļa sindikācija]]i.
+* [[FOAF]] — apraksta informāciju par cilvēkiem, to interesēm un attiecībām starp tiem.
+* [[DOAC]] — apraksta [[CV]] informāciju.
+* [[DOAP]] — apraksta programmatūras projektus; iesaistīto cilvēku aprakstam izmanto FOAF.
+* [[SIOC]] — apraksta tiešsaistes komūnas un dažādas Interneta diskusiju vietnes, piemēram, [[tīmekļa žurnāls|tīmekļa žurnālus]] un [[tiešsaistes forums|tiešsaistes forumus]].
+* [[MusicBrainz]] — publicē informāciju par mūzikas albumiem.
+* [[Creative Commons]] — izmanto RDF lai iekļautu licencēšanas informāciju tīmekļa lappusēs un MP3 failos.
+* [[Mozilla]] — izmanto RDF dažādu pārlūkprogrammas uzstādījumu glabāšanai.
+
+== Skatīt arī ==
+* [[Semantiskais tīmeklis]]
+
+== Ārējās saites ==
+* [http://www.w3.org/RDF/ Globālā tīmekļa konsorcija RDF mājaslapa]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Metadati]]
+[[Kategorija:Semantiskais tīmeklis]]
+[[Kategorija:W3C standarti]]

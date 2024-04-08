@@ -1,0 +1,27 @@
+[[File:01.Опит на Тисанди.ogg|thumb|280px|Eksperiments ar divos diegos iekārtu atsvaru, kas demonstrē inerci. Ja apakšējo diegu parauj strauji, tas pārtrūkst, jo atsvars inerces dēļ nepaspēj iekustēties. Ja apakšējo diegu ar tādu pašu spēku velk lēnām, pārtrūkst augšējais diegs]]
+'''Inerce''' ir jebkura ķermeņa īpašība saglabāt relatīvu miera stāvokli, vai vienmērīgu taisnvirziena kustību, ja uz to neiedarbojas citi ķermeņi. Šis ir pirmais dinamikas jeb [[pirmais Ņūtona likums]].
+
+== Vēsture ==
+Inerces jēdziens ir svešs [[Aristotelis|Aristoteļa]] fizikā, kas bija kustības standarta modelis līdz pat XVII gadsimtam. Aristotelis uzskatīja, ka ķermeni kustībā var uzturēt tikai pastāvīgs ārējs spēks.
+Starp 1589. un 1592. gadu [[Galileo Galilejs]] atklāja inerci savos ķermeņu kustības pētījumos, bet pirmo dinamikas likumu noformulēja [[Īzaks Ņūtons|I.Ņūtons]].
+Faktiski jēdzienu "inerce" ieviesa [[Johanness Keplers]] savā "Epitome Astronomiae Copernicanae" (1618.-1621.). Taču Keplera inercei bija savādāka nozīme nekā mūsdienās, viņš to definēja kā pretestību kustībai.
+
+== Inerces mērīšana ==
+Inercei ir tāda pati [[mērvienība]] kā [[masa]]i, tas ir [[kilograms]] ('''kg''') [[Starptautiskā mērvienību sistēma|SI]] sistēmā, [[grams]] [[CGS]] sistēmā. Līdz šim veiktie [[eksperiments|eksperimenti]] parādīja, ka [[gravitācija|gravitējošā]] masa un inerces masa ir skaitliski vienādas ar lielu precizitāti. Tomēr šīs masas teorētiski ir divi dažādi lielumi, kas raksturo atšķirīgas parādības — attiecīgi gravitāciju un inerci.
+
+== Inerce ikdienā ==
+Katru dienu mums nākas sastapties ar inerci un tādēļ šai parādībai mēs nepievēršam lielu uzmanību.
+Ļaudis var izmantot terminu "inerce" pie griešanās, pie pretestības objekta, daudzuma, pie ātruma maiņas un dažbrīd tā ir inerce, atkarībā no konteksta (piemēram "šim objektam ir inerces loze"). Inerce dzīvē parādās gandrīz visur, uz katra soļa un mūsu izdarītās kustībās.
+
+== Inerce mākslā ==
+Par Inerci [[Imants Ziedonis]] ir uzrakstījis dzejoli.
+
+== Inerces moments ==
+[[Inerces moments]] raksturo ķermeņa inerci rotācijas kustībā. Materiāla punkta inerces moments ir tā masas reizinājums ar attāluma līdz rotācijas asij kvadrātu:
+:<math>I=mr^2</math>.
+Inerces momenta SI mērvienība <math>[kg*m^2]</math>
+
+{{fizika-aizmetnis}}
+
+[[Kategorija:Klasiskā mehānika]]
+[[Kategorija:Paātrinājums]]

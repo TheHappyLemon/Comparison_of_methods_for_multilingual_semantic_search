@@ -1,0 +1,63 @@
+{{Krievijas republikas infokaste
+| nosaukums = Novosibirskas apgabals 
+| karte = Russia - Novosibirsk Oblast (2008-01).svg
+| oriģ = Новосибирская область
+| karoga_attēls = Flag of Novosibirsk oblast.svg‎
+| karoga_nosaukums = Novosibirskas apgabala karogs
+| ģerboņa_attēls =Coat_of_arms_of_Novosibirsk_Oblast.png
+| ģerboņa_nosaukums = Novosibirskas apgabala ģerbonis
+| ģerboņa_platums = 70px
+| galvaspilsēta = [[Novosibirska]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (93,01%)
+| platība = 178 200
+| iedzīvotāji = 2 662 300
+| iedz blīvums = 14,9
+| pilsētas = 7
+| rajoni = 31
+| fedapgabals = [[Sibīrijas federālais apgabals|Sibīrijas]]
+| url = http://www3.adm.nso.ru/
+|ainavas_skats=Novosibirsk_Glavny_Station_07-2016_img3.jpg}}
+
+'''Novosibirskas apgabals''' ir viens no [[Krievijas Federācija]]s apgabaliem [[Sibīrijas federālais apgabals|Sibīrijas federālajā apgabalā]]. Tas robežojas ar [[Omskas apgabals|Omskas apgabalu]] rietumos, [[Tomskas apgabals|Tomskas apgabalu]] ziemeļos, [[Kemerovas apgabals|Kemerovas apgabalu]] austrumos, [[Altaja novads|Altaja novadu]] dienvidos, kā arī ar [[Kazahstāna|Kazahstānu]] dienvidrietumos.
+
+== Vēsture ==
+
+Novosibirskas apgabals kalpoja par vienu no galvenajām izsūtījuma vietām, kur [[1941. gada jūnija deportācijas|1941. gada deprotāciju]] laikā [[Padomju Savienība|padomju]] varasiestādes nometināja lielu daļu no [[represijas|represētajiem]] latviešu iedzīvotājiem.<ref>{{Grāmatas atsauce|title=Latvija 1918–2018: Valstiskuma gadsimts|first=Ivars|last=Ījabs (u.c.)|place=Rīga|publisher=Mansards|year=2018|page=111|isbn=978-9934-8771-4-8}}</ref> Izsūtītie latviešI tika nodarbināti smagos lauku darbos – [[kolhozs|kolhozos]] un [[mežsaimniecība|mežsaimniecībā]].<ref>{{Grāmatas atsauce|title=Lielā Latvijas vēstures grāmata|first=Ilgvars|last=Butulis|first2=Antonijs|last2=Zunda|place=Rīga|publisher=[[Jumava]]|page=197|isbn=978-9934-11-823-4}}</ref>
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Novosibirskas apgabals|width=400 |float=center|caption = Novosibirskas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Novosibirskas apgabals|lat=55.016667|long=82.916667|position = top |label='''[[Novosibirska]]'''}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.35|long=78.35|position = bottom |label=[[Barabinska]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=54.75|long=83.1|position = right |label=[[Berdska]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.666667|long=84.4|position = top |label=[[Bolotnoje]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=54.633333|long=83.3|position = right |label=[[Iskitima]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=53.733333|long=78.033333|position = top |label=[[Karasuka]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.2|long=80.283333|position = top |label=[[Kargata]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.450278|long=78.3075|position = top |label=[[Kuibiševa (Novosibirskas apgabals)|Kuibiševa]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=54.366667|long=77.3|position = top |label=[[Kupina]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=54.991667|long=82.7125|position = left |label=[[Oba (pilsēta)|Oba]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.216667|long=75.966667|position = top |label=[[Tatarska]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.233333|long=84.383333|position = bottom |label=[[Togučina]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=54.216667|long=83.366667|position = left |label=[[Čerepanova]]}}
+{{VietasKarte~|Novosibirskas apgabals|lat=55.1|long=80.966667|position = bottom |label=[[Čuļima]]}}
+}}
+
+[[Attēls:The Ob river.JPG|thumb|250px|Novosibirskas apgabala ainava]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas administratīvais iedalījums}}
+{{Sibīrijas federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Sibīrija]]
+[[Kategorija:Novosibirskas apgabals| ]]

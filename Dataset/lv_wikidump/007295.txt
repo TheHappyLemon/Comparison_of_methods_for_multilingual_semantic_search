@@ -1,0 +1,88 @@
+{{Latvijas novada infokaste
+| nosaukums         = Kokneses pagasts
+| karte             = Kokneses pagasts location Latvia.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = LVA Kokneses pagasts COA.png
+| ģerboņa_nosaukums = Kokneses pagasta ģerbonis
+| karoga_attēls     = Kokneses_pagasts_Flag.png
+| karoga_nosaukums  = Kokneses pagasta karogs
+| novads            = Novads 
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Koknese
+| platība           = 170,6
+| iedzīvotāji       = 4188<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 4188 / 170.6 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.koknese.lv
+}}
+'''Kokneses pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Koknese]]s pilsētu, [[Bebru pagasts|Bebru]], [[Klintaines pagasts|Klintaines]] un [[Aizkraukles pagasts|Aizkraukles]] pagastu, kā arī pa [[Daugava|Daugavu]] ar [[Seces pagasts|Seces]] pagastu un [[Ogres novads|Ogres novada]] [[Krapes pagasts|Krapes]] pagastu. Pagasta centrs atrodas, ārpus pagasta teritorijas — [[Koknese|Koknesē]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Bebrupe (Lobes ezera pieteka)|Bebrupe]], [[Daugava]], [[Galdupe]], [[Lantupīte]], [[Paskule]], [[Pelve]], [[Pērse]], [[Recija]].
+
+Ūdenstilpes: [[Lobes ezers]], [[Rīteru karjers]].
+
+Pagastā uz ziemeļaustrumiem no Rīteru karjera atrodas  aizsargājams ģeoloģisks un ģeomorfoloģisks [[dabas piemineklis]] — [[Rīteru sausgultne un karsta kritenes]].
+
+== Vēsture ==
+Dibināts pēc [[muiža|muižu]] [[pagasts|pagastu]] likvidēšanas sakarā ar [[1866. gada pagastu pašvaldību likums|1866. gada pagastu pašvaldību likuma]] pieņemšanu.
+
+Pēc [[1920. gada agrārā reforma|1920. gada agrārās reformas]] [[Kokneses muiža]] ar Reiņu, Sofijas, Meža un Līdaces pusmuižām sadalīta 308 vienībās 3775,8 ha kopplatībā, Kokneses mācītājmuiža 27 vienībās, Radalkas muiža 8 vienībās, Pastamuiža 33 vienībās, Bilstiņu muiža ar Veidumuižu 64 vienībās, Atradzes muiža ar Jesku pusmuižu 18 vienībās. Bilstiņu muižas centrā nodibināja [[Latvijas Universitāte]]s mācībspēku vasaras koloniju.<ref>{{LKV|IX.|16957-16958}}</ref> 
+
+1935. gadā Kokneses pagasta platība bija 160,7 km². 1945. gadā pagastā izveidoja [[Bilstiņu ciems|Bilstiņu]], Kokneses, [[Pērses ciems|Pērses]] un [[Ratnicēnu ciems|Ratnicēnu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā '''Kokneses ciemam''' pievienoja Bilstiņu ciemu. 1958. gadā [[Koknese]]i piešķīra [[pilsētciemats|strādnieku ciemata]] statusu un Kokneses ciemu pievienoja tai kā lauku teritoriju. 1962. gadā '''Kokneses lauku teritorijai''' pievienoja daļu Ratnicēnu ciema. 1990. gadā Koknese zaudēja pilsētciemata statusu un kopā ar lauku teritoriju tika reorganizēti par pagastu.<ref>{{EncLP}}</ref> 2009. gadā, apvienojot Kokneses pagastu ar [[Bebru pagasts|Bebru]] un [[Iršu pagasts|Iršu]] pagastiem, izveidoja [[Kokneses novads|Kokneses novadu]]. Pēc [[Latvijas administratīvais iedalījums#2021. gada administratīvi teritoriālā reforma|2021. gada administratīvi teritoriālās reformas]] Koknesei piešķira pilsētas statusu, izdalot to no pagasta teritorijas, savukārt pagastu un [[Koknese|Kokneses]] pilsētu iekļāva [[Aizkraukles novads|Aizkraukles novadā]].
+
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi
+* nr. 1.: valodnieka [[Jānis Endzelīns|J. Endzelīna]] dzīves vieta "Nākos" (1927—1961);
+* nr. 117.: Pastmuižas Velna akmens — kulta vieta bijušajā Pastmuižā.<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3101
+|1959|2450
+|1967|2700
+|1979|2016
+|1989|1701
+|2000|1479
+|2011|1060
+|2021|958
+}}
+
+=== Apdzīvotās vietas ===
+[[Atradze]], [[Auliciems]], [[Bilstiņi]], [[Birznieki (Kokneses pagasts)|Birznieki]], [[Bormaņi (Kokneses pagasts)|Bormaņi]], [[Kalnakrogs (Kokneses pagasts)|Kalnakrogs]], [[Kaplava (Kokneses pagasts)|Kaplava]], [[Lipši]], [[Ratnicēni]], [[Reiņi (Kokneses pagasts)|Reiņi]], [[Spriņģi (Kokneses pagasts)|Spriņģi]], [[Upeslīči (Kokneses pagasts)|Upeslīči]], [[Urgas]], [[Ūsiņi (ciems)|Ūsiņi]], [[Viskāļi]].
+
+=== Ievērojamas personības ===
+* [[Pēteris Stučka]] (1865—1932), viens no [[Jaunā strāva|Jaunās strāvas]] līderiem, [[LSPR]] valdības vadītājs (1919).
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Kokneses novads}}
+{{Aizkraukles rajons}}
+{{Ogres apriņķis}}
+{{Rīgas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Kokneses pagasts| ]]

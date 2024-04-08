@@ -1,0 +1,97 @@
+{{Latvijas novada infokaste
+| nosaukums         = Tirzas pagasts
+| karte             = Tirzas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Tirzas pagasts COA.png
+| ģerboņa_nosaukums = Tirzas pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Gulbenes novads
+| centrs            = Tirza
+| platība           = 130,46
+| iedzīvotāji       = 986<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 986 / 130.46 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Tirsen<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Тирзенская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Tirzas pagasts''' ir viena no [[Gulbenes novads|Gulbenes novada]] administratīvajām teritorijām tā dienvidrietumos. Robežojas ar sava novada [[Druvienas pagasts|Druvienas]], [[Lizuma pagasts|Lizuma]], [[Lejasciema pagasts|Lejasciema]], [[Galgauskas pagasts|Galgauskas]] un [[Jaungulbenes pagasts|Jaungulbenes pagastu]], kā arī [[Madonas novads|Madonas novada]] [[Dzelzavas pagasts|Dzelzavas]] un [[Cesvaines pagasts|Cesvaines]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Adulīte]], [[Alkšņupīte (Tirzas pieteka)|Alkšņupīte]], [[Azanda]], [[Gosupe]], [[Isliņa]], [[Ķivene]], [[Tirza (upe)|Tirza]], [[Virāne]].
+
+==== Ezeri ====
+[[Lielais Virānes ezers]], [[Mazais Virānes ezers]] (uz robežas), [[Adulienas ezers]].
+
+== Vēsture ==
+Zināms, ka 15. gadsimtā [[Tirzas muiža]] piederēja [[Rīgas arhibīskapija]]s vasaļiem [[fon Tīzenhauzeni]]em, 1471. gada Bartolomejs no Tīzenhauzenas ieķīlāja muižu Pēterim Tūvem. 1582. gadā Polijas karalis [[Stefans Batorijs]] restituēja Tīzenhauzenu tiesības uz Tirzu. 1589. gadā brāļi Johans un Fabians Tīzenhauzeni uzcēla Tirzas luterāņu baznīcu un Gulbenes [[draudzes novads|draudzes novadā]] izveidojās [[Tirzas draudzes novads]]. 
+[[Zviedru Vidzeme]]s laikā 1636. gadā tai pievienoja Velēnas draudzi, kas pirms tam skaitīja pie Rankas (Jaunpiebalgas) draudzes. [[Lielais Ziemeļu karš|Lielā Ziemeļu kara laikā]] 1702. gadā krievu karaspēks nodedzināja baznīcu un skolu, 1727. gadā uzcēla jaunu koka baznīcu, bet 1826. gadā mūra baznīcu pēc arhitekta Zīgela projekta.  1846.-1848. gadā ap 150 draudzes locekļu [[Latvijas pareizticīgā baznīca|pārgāja pareizticībā]], kuriem uzcēla [[Galgauska]]s pareizticīgo baznīcu.
+Pēc 1920. gada agrārās reformās Tirzas muižu 1664 ha platībā sadalīja 121 vienībā (no tām 8 rentes mājas), Troškas muižu 348 ha platībā 24 vienībās (no tām 5 rentes mājas), Tirzas mācītājmuižu 286 ha platībā 21 vienībā (no tām 6 bija rentes mājas). Bez tam pagastā atradās arī Dārtas, Indrānu, Jauntirzas un Moru pusmuižas.<ref>Latviešu konversācijas vārdnīcas XXI. sējuma 42 987-42 990 slejas. Rīga: 1940.</ref>     
+ 
+1935. gadā [[Madonas apriņķis|Madonas apriņķa]] Tirzas pagasta platība bija 79 km² un tajā dzīvoja 1578 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Tirzas un [[Upmaliešu ciems|Upmaliešu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Tirzas ciems''' ietilpis [[Gulbenes apriņķis|Gulbenes apriņķī]] (1947-1949) un [[Cesvaines rajons|Cesvaines]] (1949-1956) un [[Gulbenes rajons|Gulbenes]] (pēc 1956. gada) rajonos. Tirzas ciemam 1951. gadā pievienoja likvidēto Upmaliešu ciemu, 1954. gadā — [[Virānes ciems|Virānes ciema]] [[kolhozs|kolhoza]] «Boļševiks» teritoriju, 1977. gadā — daļu likvidētā [[Sinoles ciems|Sinoles ciema]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Tirzas pagastu kā administratīvo teritoriju iekļāva [[Gulbenes novads|Gulbenes novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2500
+|1959|1679
+|1969|1619
+|1979|1410
+|1989|1245
+|2000|1171
+|2011|916
+|2021|757
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Tirza]]''' (pagasta centrs), [[Vecaduliena]], [[Virāne]], [[Troškas (Tirzas pagasts)|Troškas]], [[Jaunaduliena]], [[Branti (Tirzas pagasts)|Branti]], [[Alsupes]], [[Dzirnavas (Tirzas pagasts)|Āža dzirnavas]], [[Dārtiņa]], [[Indrāni (Tirzas pagasts)|Indrāni]], [[Jauntirza]], [[Kalvīši]], [[Liepas (Tirzas pagasts)|Liepas]], [[Mācītājmuiža (Tirzas pagasts)|Mācītājmuiža]], [[Peļņi (Tirzas pagasts)|Peļņi]], [[Vēverstiķi]].
+
+=== Ievērojamas personības ===
+* [[Jānis Misiņš]] (1862—1945), bibliogrāfs.
+* [[Voldemārs Maldonis]] (1870—1941), luterāņu mācītājs, teologs un filozofs
+* [[Andrievs Niedra]] (1871—1942), luterāņu mācītājs, sabiedriskais darbinieks, politiķis, rakstnieks
+* [[Andrejs Priedkalns]] (1873—1923), ārsts un sabiedriskais darbinieks
+* [[Nikolajs Vētra]] (1897—1955), dzimis Nikolajs Blumbergs, ārsts
+* [[Mariss Vētra]] (1901—1965), dzimis Morics Blumbergs, dziedātājs un rakstnieks
+
+== Saimniecība ==
+Pagastā darbojas Ažu HES.
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+Tirzas ciemā atrodas Tirzas pamatskola.<ref>[https://www.tirzasskola.lv/?page_id=24 Tirzas pamatskola. Vispārīga informācija.]</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Gulbenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Gulbenes rajons}}
+{{Madonas apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Gulbenes novada pagasti]]
+[[Kategorija:Tirzas pagasts| ]]

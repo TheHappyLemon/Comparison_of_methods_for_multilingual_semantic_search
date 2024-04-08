@@ -1,0 +1,46 @@
+{{Upes infokaste 
+| nosaukums         = Zalcaha
+| citvaloda      = de
+| oriģinālnosaukums = Salzach
+| attēls            = Salzburger Stadtansicht.jpg
+| attēla_izmērs     = 
+| paraksts          = Zlacaha pie Zalcburgas
+| karte             = 
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Kicbīelas Alpi]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Inna]]
+| sāk_plat_d=47 | sāk_plat_m=18 | sāk_plat_s=00 | sāk_plat_NS=N 
+| sāk_gar_d=12 | sāk_gar_m=06 | sāk_gar_s=57 | sāk_gar_EW=E 
+| iet_plat_d=48 | iet_plat_m=12 | iet_plat_s=29 | iet_plat_NS=N 
+| iet_gar_d=12 | iet_gar_m=55 | iet_gar_s=45 | iet_gar_EW=E 
+| baseina_valstis   = 
+| tek_caur          = {{AUT}}, {{GER}}
+| garums            = 227
+| iztekas_augstums  = 
+| ietekas_augstums  = 
+| kritums           = 
+| caurtece          = 251
+| gada_notece       = 
+| baseins           = 6 829
+| pietekas          = 
+  | vietaskarte       = Austrija#Eiropa
+  | reljefs           = jā
+}}
+
+'''Zalcaha''' ({{val|de|Salzach}}) ir upe [[Austrija|Austrijā]] un [[Vācija|Vācijā]] ([[Bavārija|Bavārijā]]). [[Inna]]s labā krasta pieteka. Sākas Kicbīelas Alpos (''Kitzbüheler Alpen''). Līdz pat 19. gadsimta upe bija [[sāls]] transporta artērija no kā arī tās nosaukums (''Salz'' — 'sāls'). Aiz [[Zalcburga]]s veido robežu starp Austriju un Vāciju. Ietek [[Inna|Innā]] netālu no [[Braunava pie Innas|Braunavas pie Innas]]. Zalcahas krastos atrodas [[Zalcburga (pilsēta)|Zalcburga]], [[Freilasinga]], [[Laufene]], [[Titmoninga]], [[Burghauzene]]. Lielākā pieteka - [[Zālaha]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Austrijas upes]]
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Innas pietekas]]
+[[Kategorija:Augšaustrija]]
+[[Kategorija:Zalcburga (zeme)]]
+[[Kategorija:Zalcaha]]
+[[Kategorija:Bavārija]]

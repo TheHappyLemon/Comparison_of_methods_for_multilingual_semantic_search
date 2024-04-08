@@ -1,0 +1,131 @@
+{{Latvijas novada infokaste
+| nosaukums         = Neretas pagasts
+| karte             = Neretas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Nereta
+| platība           = 125,7
+| iedzīvotāji       = 1860<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1860 / 125.7 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Neretas pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā dienvidaustrumos, [[Lietuva]]s pierobežā. Robežojas ar sava novada [[Pilskalnes pagasts (Neretas novads)|Pilskalnes]] un [[Zalves pagasts|Zalves]] pagastiem un [[Jēkabpils novads|Jēkabpils novada]] [[Saukas pagasts|Saukas]] un [[Rites pagasts|Rites]] pagastiem.
+
+== Daba ==
+Dienvidaustrumu daļa atrodas [[Sēlijas paugurvalnis|Sēlijas paugurvalnī]], ziemeļrietumu daļa - [[Viduslatvijas zemiene]]s [[Taurkalnes līdzenums|Taurkalnes līdzenumā]]. Augstākā vieta - Andžānu kalns (120,4 m vjl.).
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Dienvidsusēja]]
+** [[Dūņupe (Dienvidsusējas pieteka)|Dūņupe]]
+** [[Salāte]]
+* [[Neretiņa]]
+
+==== Ezeri ====
+* [[Štulva ezers]] (18,1 ha), atrodas Štulva purvā
+
+==== Purvi ====
+* ziemeļrietumu stūrī atrodas daļa no [[Čeidānu purvs|Čeidānu purva]]. Purva kopējā platība 1 263 ha
+* [[Štulva purvs]] (461 ha)
+* [[Rēķa purvs]] (296 ha)
+
+== Vēsture ==
+Pēc [[1920. gada agrārā reforma|1920. gada agrārās reformas]] [[Neretas muiža]] sadalīta 185 vienībās ar kopplatību 2372 ha, Neretas mācītājmuiža sadalīta 131 vienībā ar kopplatību 692 ha.<ref>Latviešu konversācijas vārdnīcas XV. sējuma 28786-28788 slejas. Rīga: 1937.</ref> 
+1935. gadā Neretas pagasta platība bija 156,4 km² un tajā dzīvoja 3113 iedzīvotāji. 1945. gadā pagastā izveidoja [[Neretas ciems|Neretas]], [[Pilskalnes ciems|Pilskalnes]] un [[Salates ciems|Salates]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1950. gadā [[Nereta]]i piešķīra [[strādnieku ciemats|strādnieku ciemata]] statusu, bet Neretas ciemu 1954. gadā pievienoja [[Lones ciems|Lones ciemam]]. 1957. gadā Neretas strādnieku ciematam pievienoja Salates ciemu, izveidojot Neretas lauku teritoriju, kurai 1961. gadā pievienoja daļu Lones ciema. 1990. gadā Nereta zaudēja pilsētciemata statusu un kopā ar lauku teritoriju tika reorganizēta par Neretas pagastu.<ref>{{EncLP}}</ref> 2009. gadā Neretas pagastu iekļāva [[Neretas novads|Neretas novadā]]. 2021. gadā, kā viena no Neretas novada administratīvajām teritorijā iekļāva [[Aizkraukles novads|Aizkraukles novadā]].
+
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi:
+* nr. 3.: rakstnieka [[Jānis Jaunsudrabiņš|J.Jaunsudrabiņa]] dzīves vieta "Riekstiņos" (1880-1886)
+* nr. 119.: [[Muldenieku pilskalns]] (Upurkalns) pie Muldeniekiem
+* nr. 6161.: Neretas luterāņu baznīca Rīgas iela 2, Nereta (1593. - 17. gs. s.)
+* nr. 2900.: Cilnis Neretas luterāņu baznīcas fasādē (1593)
+* nr. 2901.: Neretas luterāņu baznīcas ērģeles (1893)
+* nr. 2904.: Kapa plāksne - piemineklis G. Efernam Neretas luterāņu baznīcā (1596)	
+* nr. 2908.: Neretas luterāņu baznīcas vitrāža (1900)	
+* nr. 6162.: Neretas muižas apbūve (16. gs. b. - 19. gs.)
+* nr. 6163.: Neretas muižas pils (16. gs. b. - 18. gs.)
+* nr. 6164.: Neretas muižas parks (18. gs. 2. p.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3113
+|1959|2609
+|1967|3300
+|1979|2356
+|1989|2307
+|2000|2146
+|2011|1693
+|2021|1408
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Nereta]]''' (pagasta un novada centrs), [[Neretaslauki]], [[Svajāni]].
+
+=== Ievērojamas personības ===
+Neretas pagastā dzimuši:
+* [[Mikus Skruzītis]] jeb Skruzīšu Mikus (1861—1905), latviešu etnogrāfs un folklorists
+* [[Jānis Jaunsudrabiņš]] (1877—1962), rakstnieks un gleznotājs
+* [[Jānis Veselis]] (1896—1962) — rakstnieks
+* [[Velta Toma]] (1912—1999), dzejniece
+* [[Mirdza Kļava]], (1924—2019) īstajā vārdā Mirdza Grigule, latviešu rakstniece, māksliniece un skolotāja
+
+== Saimniecība ==
+Pagastā darbojas Nertas HES.
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="70px" perrow="6">
+Attēls:audzes kalns.JPG|<center><small>Skats no Audzes kalna</small></center>
+Attēls:zalve5.JPG|<center><small>Dižkoks pie Neretas mežniecības</small></center>
+Attēls:neretas muiza1.JPG|<center><small>Neretas muižas parks</small></center>
+Attēls:neretas muiza2.JPG|<center><small>Neretas muižas drupas</small></center>
+Attēls:neretas muiza3.JPG|<center><small>Neretas muižas drupas</small></center>
+Attēls:neretas muiza4.JPG|<center><small>Muižas durvis</small></center>
+Attēls:muzejs riekstini.JPG|<center><small>Celiņš uz muzeju "Riekstiņi"</small></center>
+Attēls:muzejs riekstini2.JPG|<center><small>Jaunsudrabiņa muzejs "Riekstiņi"</small></center>
+Attēls:muzejs riekstini3.JPG|<center><small>Muzeja plans</small></center>
+Attēls:kiskukapi.JPG|<center><small>[[Ķišķu kapi|Ķišku kapi]]</small></center>
+Attēls:neretaslauki.JPG|<center><small>Robeža Neretaslaukos</small></center>
+Attēls:indulanu kapi.JPG|<center><small>Indulānu kapi</small></center>
+Attēls:smiltaines kapi nereta.JPG|<center><small>Smiltaines kapi</small></center>
+Attēls:P73 nereta.JPG |<center><small>Tilts pāri [[Dienvidsusēja]]i pie [[Nereta]]s</small></center>
+Attēls:Dsuseja pie neretas.JPG|<center><small>Dienvidsusēja pie [[Nereta]]s</small></center>
+Attēls:starp neretu un neretaslaukiem.JPG |<center><small>Autocels [[P75]] starp Neretu un Neretaslaukiem</small></center>
+Attēls:dunupe.JPG |<center><small>Dūņupe pie autoceļa [[P73]]</small></center>
+</gallery></center>
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Neretas novads}}
+{{Aizkraukles rajons}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Jaunjelgavas apriņķis]]
+[[Kategorija:Sēlija]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Neretas pagasts| ]]
+[[Kategorija:Latvijas pilsētciematu lauku teritorijas]]

@@ -1,0 +1,38 @@
+{{Vielas infokaste
+|              nosaukums = Acetona peroksīds
+|                 attēls = [[Attēls:Acetone peroxide trimer.png|170 px]] <br />Acetona peroksīda trimēra struktūrformula<br />
+[[Attēls:Acetone peroxide dimer.png|170 px]] <br />Acetona peroksīda dimēra struktūrformula<br />
+[[Attēls:Acetone-peroxide-trimer-3D-balls.png|170 px]] <br />Acetona peroksīda trimēra molekulas modelis
+|         citi nosaukumi = Triacetona peroksīds, TATP
+|             CAS numurs = 17088-37-8
+|        ķīmiskā formula = C<sub>9</sub>H<sub>18</sub>O<sub>6</sub>
+|                molmasa = 222,24
+|                blīvums = 1180
+|    kušanas temperatūra = 91 °C
+|   viršanas temperatūra = sadalās
+|          šķīdība ūdenī = nav
+| izoelektriskais punkts = 
+|                   citi = 
+}}
+'''Acetona peroksīds''' (triacetona peroksīds, TATP, C<sub>9</sub>H<sub>18</sub>O<sub>6</sub>) ir balta, kristāliska viela. Tā ir [[sprāgstviela]], kas jutīga pret berzi un karstumu. Šai vielai ir vairāki nestabili izomēri, no kuriem stabilākais ir trimērs. Mazāk skābā vidē ir iespējams arī iegūt tetramēru, bet šāda reakcija notiek lēnāk. Dimērs un it īpaši monomērs ir ļoti nestabili. Istabas temperatūrā trimērs lēnām [[sublimācija (fizikā)|sublimējas]] par dimēru. Viela ir indīga. 
+
+== Iegūšana ==
+Acetona peroksīdu var iegūt ķīmiskā reakcijā starp [[ūdeņraža peroksīds|ūdeņraža pārskābi]] un [[acetons|acetonu]] ar [[sālsskābe|sālsskābi]] kā [[katalizators|katalizatoru]]. Šādā reakcijā vienmēr veidojas dimēra un trimēra maisījums. Acetona peroksīds dažreiz veidojas kā rūpniecības blakusprodukts, oksidējot fenolus.
+
+== Īpašības ==
+Sprāgstot acetona peroksīdam, veidojas acetons un ozons. Šajā procesā izdalās maz siltuma, process lielā mērā ir saistīts ar [[entropija]]s palielināšanos, vielai pārejot no cietās fāzes gāzveida fāzē. Aizdedzinot brīvi izbērtu (nenoslēgtu), nesablīvētu acetona peroksīdu, tas parasti strauji sadeg, nevis uzsprāgst.
+
+== Izmantošana ==
+[[Attēls:Acetone peroxide.jpg|thumb|left|200px|Acetona peroksīds]]
+[[Ketoni|Ketonu]] peroksīdus, tai skaitā acetona peroksīdu, dažreiz lieto kā polimerizācijas iniciatorus [[polimērs|polimēru]] ražošanā. Acetona peroksīds ir iegūstams no relatīvi pieejamām izejvielām, taču ir ļoti nestabils, nestabilāks pat par [[nitroglicerīns|nitroglicerīnu]].
+
+Acetona peroksīdu izmantoja džihādistu pašnāvnieki [[13. novembra terora akti Parīzē|13. novembra terora aktos Parīzē]]<ref>Žurnāls ''Ir''. 2015, №50/51, 36. lpp.</ref>, tas tika lietots arī terora aktos [[Sprādzieni Briselē 2016. gada 22. martā|Briselē 2016. gada 22. martā]].<ref>Žurnāls ''Ir''. 2016, №13, 23. lpp.</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+
+{{ķīmija-aizmetnis}}
+
+[[Kategorija:Sprāgstvielas]]
+[[Kategorija:Organiskie peroksīdi]]

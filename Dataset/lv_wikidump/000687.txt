@@ -1,0 +1,80 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = British Indian Ocean Territory
+|    pilnais_valsts_nosaukums = Britu Indijas Okeāna Teritorija
+|            valsts_nosaukums =
+|               karoga_attēls = Flag of the Commissioner of the British Indian Ocean Territory.svg
+|            karoga_nosaukums = Britu Indijas Okeāna Teritorijas karogs
+|              ģerboņa_attēls =Coat_of_arms_of_the_British_Indian_Ocean_Territory.svg
+|           ģerboņa_nosaukums = Britu Indijas Okeāna Teritorijas ģerbonis
+|             ģerboņa_platums = 90px
+|                 valsts_moto = ''"In tutela nostra Limuria"''
+|                valsts_himna = ''[[God Save the King]]''
+|               kartes_attēls = British Indian Ocean Territory in United Kingdom.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Djego Garsija]]
+| latd=7 | latm=18 | latNS=S | longd=72 | longm=24 | longEW=E <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = [[Djego Garsija]]
+|              valsts_valodas = [[angļu valoda|angļu]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Apvienotā Karaliste|Apvienotās karalistes]] aizjūras teritorija
+|        valsts_galvas_tituls = [[Apvienotās Karalistes monarhs|Monarhs]]
+|                valsts_galva = [[Čārlzs III Vindzors|Čārlzs III]]
+|       valsts_galvas_tituls2 = 
+|               valsts_galva2 = 
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana =
+|         neatkarības_piezīme = 
+|                    dibināta = 1965
+|        neatkarības_notikums = 
+|          neatkarības_datums =
+|                 platība_km2 = 54400
+|               platība_rangs =
+|              procenti_ūdens = 99,89
+|     iedzīvotāju_skaita_gads =
+|          iedzīvotāju_skaits = 2 500
+|    iedzīvotāju_skaits_rangs =
+|    apdzīvotības_blīvums_km2 = 53,3
+|  apdzīvotības_blīvums_rangs =
+|                     IKP_PPP =
+|                IKP_PPP_gads =
+|               IKP_PPP_rangs =
+|          IKP_PPP_per_capita =
+|    IKP_PPP_per_capita_rangs =
+|                         HDI = 
+|                    HDI_gads = 
+|              HDI_kategorija = 
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[ASV dolārs]] (de facto)<br/>[[sterliņu mārciņa]] (de iure)
+|                valūtas_kods =
+|                  laika_zona = 
+|                  utc_offset = +6
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .io
+|              tālsarunu_kods = 246
+|                iso_kods_num = 
+|              iso_kods_alfa2 = IO
+|              iso_kods_alfa3 =
+}}
+'''Britu Indijas Okeāna Teritorija''' ({{val|en|British Indian Ocean Territory}}) ir [[Lielbritānija]]i piederoša [[Atkarīgo teritoriju uzskaitījums|atkarīga teritorija]], kas atrodas [[Indijas okeāns|Indijas okeānā]]. Britu Indijas Okeāna Teritorijā ietilpst [[Čagosu arhipelāgs|Čagosu arhipelāga]] [[atols|koraļļu atoli]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{Lielbritānijas teritorijas}}
+{{Āfrika}}
+
+[[Kategorija:Indijas Okeāna Britu Teritorija| ]]
+[[Kategorija:Dienvidāzija]]
+[[Kategorija:Indijas okeāna salas]]
+[[Kategorija:Atkarīgās teritorijas]]
+[[Kategorija:Eiropas Savienības īpašās teritorijas]]

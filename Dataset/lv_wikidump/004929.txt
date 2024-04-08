@@ -1,0 +1,77 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums = ''Mariner 7''
+| Nosaukums_orig = 
+| Attēls = Mariner_6-7.png
+| Attēla_izmērs = 300px
+| Att_virsraksts = 
+| KA_veids = [[starpplanētu zonde]]
+| Bāzes platforma = 
+| KA sērijas Nr = 
+| Operators              = ''[[Nacionālā aeronautikas un kosmosa administrācija|NASA]]'', {{USA}}
+| Lielākie_izgatavotāji  = ''[[Reaktīvās kustības laboratorija|JPL]]'', {{USA}}
+| Starts                 = {{dat|1969|3|27|SK}} 22:22:01 [[Universālais koordinētais laiks|UTC]]
+| Nesējs                 = ''[[Atlas SLV-3C Centaur-D]]''
+| Starta_gads            = 1969
+| Starta_vieta           = [[Kanaveralas zemesraga Gaisa spēku stacija|Kanaverala]]
+| Starta_laukums         = ''LC-36A''
+| Starta_valsts          = {{USA}}
+| Darbības_beigu_gads    = 1970
+| Darbības_beigu_datums  = {{dat|1960|12|28|SK}}
+| Darbības_ilgums = 
+| Beigu_datums = 
+| Lidojuma_ilgums = 
+| NSSDC_ID = 1969-014A 
+| Tīmekļa_vietne =
+| Masa = 411,8 kg 
+| Enerģija = 449 W
+| Pārlidojums = 
+| Pārlidojuma_datums = 
+| Orbītas_elementi = jā
+| Centr_ķermenis = Saule
+| Centr_ķermenis_parādīt = [[Saule]]
+| Lielā_pusass = 
+| Ekscentricitāte =
+| Inklinācija =
+| Periods = 
+| Apoapsīda = 
+| Periapsīda = 
+| Apriņķojumi = 
+| Orbītā_ieiešanas_dat = 
+| Programma              = ''[[Mariner programma|Mariner]]''
+| KA_iepr = ''[[Mariner 6]]'' 
+| KA_nāk = ''[[Mariner 8]]''
+}}
+'''Mariner 7''' bija [[Amerikas Savienotās Valstis|ASV]] [[Nacionālā aeronautikas un kosmosa administrācija|Nacionālās aeronautikas un kosmosa administrācijas]] (''NASA'') [[starpplanētu zonde]] [[Marss (planēta)|Marsa]] izpētei no pārlidošanas trajektorijas. Tā kosmosā tika palaista 1969. gada 27. martā, un Marsu sasniedza 5. augustā. Identiskas konstrukcijas [[kosmiskais aparāts]] ''[[Mariner 6]]'' startēja februārī.
+
+== Uzbūve ==
+Zondi izgatavoja [[Reaktīvās kustības laboratorija]] (''JPL''). ''Mariner 7'', tāpat kā ''Mariner 6'', korpuss bija izgatavots no [[magnijs|magnija]] sakausējuma astoņstūra formā 138,4 cm platumā un 45,7 cm augstumā. Augšpusē bija piemontēti četri [[saules baterijas|saules bateriju]] paneļi 215 × 90 cm, [[paraboliskā antena]] 116,8 cm diametrā ar augstu pastiprinājuma koeficientu, kā arī zema pastiprinājuma antena 223,5 augstā mastā. Kosmiskā aparāta masa bija 411,8 kg. Saules baterijas Zemes tuvumā deva 800 vatu elektroenerģijas, bet pie Marsa — 449 W.
+
+Kosmiskā aparāta stabilizāciju trīs asīs nodrošināja 3 [[žiroskops|žiroskopi]] un divi komplekti, katrā pa 6 saspiesta [[slāpeklis|slāpekļa]] mikrodzinējiem, kas bija uzstādīti saules bateriju paneļu galos. Zonde tika orientēta pret Sauli un [[Kanopuss|Kanopusu]].
+
+Zem astoņstūra korpuss bija skenējošā platforma, ko varēja grozīt divās asīs.
+Zinātniskie instrumenti ar masu 57,6 kg bija:
+* Attēlveidošanas sistēma
+* infrasarkanais spektrometrs
+* divu kanālu infrasarkanais radiometrs
+* ultravioletais spektrometrs
+* koniskais radiometrs
+
+== Lidojuma gaita ==
+''Mariner 7'' tika palaists {{dat|1969|3|27||bez}} 22:22:01 ''[[Universālais koordinētais laiks|UTC]]'' ar nesējraķeti ''[[Atlas SLV-3C Centaur-D]]'' (lidojums ''AC-19'') no [[Kanaveralas zemesraga Gaisa spēku stacija]]s starta_laukuma ''LC-36A''. Tāpat kā ''Mariner 6'', arī ''Mariner 7'' tika ievadīts tiešā trajektorijā uz Marsu.
+
+8. aprīlī tika veikts trajektorijas korekcijas manevrs, hidrazīnas dzinēju iedarbinot 7,6 sekundes.
+31. jūlijā nezināmu iemeslu dēļ pēkšņi pazuda telemetrijas dati no ''Mariner 7''. Zonde tika veiksmīgi pārslēgta uz zema pastiprinājuma raidītāju, vēlāk sakari tika pārslēgti atpakaļ uz galveno raidītāju. iespējams, ka šo kļūmi izraisīja no bojāta akumulatora izplūstošas gāzes.
+
+2. augustā 09:32:33 ''UTC'' pret Marsu tika notēmēta skenējošā platforma un ieslēgta visa pētnieciskā tehnika. Nākamo 57 stundu laikā, kas beidzās aptuveni 5 stundas pirms satuvošanās, ar šaurleņķa kameru tika iegūti 93 attēli. Pēc ''Mariner 6'' iegūto attēlu analīzes ''Mariner 7'' kurss tika pārprogrammēts. Tas ļāva ''Mariner 7'' Marsu pārlidot vairāk uz dienvidiem nekā sākotnēji plānots, iegūt vairāk planētas tuvplānu un iegūt vairāk Marsa apgaismotās puses zinātnisko datu. 5. augustā 05:00:49 ''UTC'' ''Mariner 7'' bija vistuvāk Marsam - 3430 kilometri. Šajā laikā tika iegūti 33 attēli. 19 minūtes vēlāk ''Mariner 7'' aizvirzījās aiz Marsa, un atkal parādījās pēc 30 minūtēm. Ieiešanas un iziešanas fāzēs tika iegūti radiofrekvences X joslas aizklāšanās dati. Dažu nākamo dienu laikā uz Zemi tika pārraidīti zinātniskie un attēlu dati. Pēc tam kosmiskais aparāts tika atgriezts brauciena režīmā, kas ietvēra inženierijas un sakaru testus, zvaigžņu fotografēšanas televīzijas testus, kā arī [[Piena Ceļš|Piena Ceļa]] un komētas ''1969-B'' apkārtnes skenējumus ultrasarkanajā diapazonā.
+
+== Rezultāti ==
+''Mariner 6'' un ''Mariner 7'' kopumā nofotografēja 20 % Marsa virsmas. Abi aparāti pētīja Marsa atmosfēru infrasarkanajā un ultravioletajā diapazonā. Iegūtie fotoattēli liecināja, ka Marss nav tik līdzīgs Mēnesim, kā sākumā likās pēc ''[[Mariner 4]]'' atsūtītajiem attēliem. Pirmo reizi tika novērota Marsa dienvidpola polārā cepure. Infrasarkano radiometru mērījumi rādīja, ka Marsa atmosfēra sastāv galvenokārt no [[oglekļa dioksīds|oglekļa dioksīda]] (CO<sub>2</sub>), kā arī spēja atklāt ūdens pēdas uz planētas virsmas.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{1969. gada orbitālie starti}}
+
+[[Kategorija:Marsa izpēte]]
+[[Kategorija:Mariner|7]]

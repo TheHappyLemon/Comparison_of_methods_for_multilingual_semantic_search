@@ -1,0 +1,37 @@
+[[Attēls:Sulfate-ion-2D-dimensions.png|thumb|200px|Sulfāta jona struktūrformula. Visas saites šajā jonā ir vienāda garuma, jo negatīvie lādiņi π elektronu veidā ir delokalizēti.]]
+
+'''Sulfāti''' ({{val|fr|sulfate}}, no {{val|la|sulphur}} — '[[sērs]]') ir [[sērskābe]]s [[sāļi]].<ref>{{Grāmatas atsauce |title= Svešvārdu vārdnīca |edition= trešais |year= 2007 |publisher= Jumava |isbn= 978-9984-38-332-3|page=761}}</ref> Lielākoties tie labi šķīst [[ūdens|ūdenī]], izņemot [[kalcijs|kalcija]], [[stroncijs|stroncija]], [[svins|svina]] un [[bārijs|bārija]] sulfātus. [[Sārmu metāli|Sārmu metālu]] un [[magnijs|magnija]] sulfāti ir sastopami jūras ūdenī. Sulfāti ir relatīvi stabilas vielas, tikai apmēram pie 900&nbsp;°C tie sadalās par metāla [[oksīdi|oksīdu]] un SO<sub>2</sub>. Sulfāti ir jonu savienojumi un satur sulfātjonu SO<sub>4</sub><sup>2−</sup>. Ja šķīdumā sērskābe ir pārākumā, var veidoties skābie sāļi — '''hidrogēnsulfāti'''. Hidrogēnsulfāti satur hidrogēnsulfāta jonu HSO<sub>4</sub><sup>−</sup>. No ūdens šķīdumiem sulfāti parasti izdalās [[kristālhidrāts|kristālhidrātu]] veidā (dažu metālu, piemēram, [[varš|vara]] un [[dzelzs]], sulfātu kristālhidrātus sauc par [[vitrioli]]em).
+
+== Iegūšana ==
+
+Sulfātus var iegūt, metāliem vai to savienojumiem reaģējot ar sērskābi, vai, atsevišķos gadījumos, ar citiem sulfātiem. Sulfāti var veidoties arī, oksidējoties [[sulfīti]]em ([[sērpaskābe]]s sāļiem).
+
+:Ca(OH)<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> → CaSO<sub>4</sub> +2H<sub>2</sub>O
+
+:BaCl<sub>2</sub> + Na<sub>2</sub>SO<sub>4</sub> → BaSO<sub>4</sub> + 2NaCl
+ 
+:2Na<sub>2</sub>SO<sub>3</sub> + O<sub>2</sub> → 2Na<sub>2</sub>SO<sub>4</sub>
+
+Bezūdens sulfātus iegūst, [[SO3|sēra trioksīdam]] reaģējot ar atbilstošajiem [[hlorīdi]]em neūdens vidēs, kā šķidrā [[SO2|SO<sub>2</sub>]] vai [[sulfurilhlorīds|sulfurilhlorīdā]]:
+
+:CuCl<sub>2</sub> + 2SO<sub>3</sub> → CuSO<sub>4</sub> + [[sulfurilhlorīds|SO<sub>2</sub>Cl<sub>2</sub>]]
+
+Sulfāti bieži vien ir ķīmiskās rūpniecības [[atkritumi]], jo tie veidojas neitralizācijas reakcijās ar sērskābi.
+
+== Nozīmīgākie sulfāti ==
+
+* [[Ģipsis]] — kalcija sulfāts, dabā sastopams dihidrāta veidā, [[ģipšakmens|ģipšakmenī]].
+* [[Nātrija sulfāts]] (glaubersāls) — sastopams dažu jūru ūdeņos, dažreiz lieto par [[stikls|stikla]] izejvielu, jo tas ir lētāks par [[nātrija karbonāts|sodu]], taču vairāk veicina kausēšanas krāsns [[korozija|koroziju]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Sulfāti]]
+[[Kategorija:Sērs]]

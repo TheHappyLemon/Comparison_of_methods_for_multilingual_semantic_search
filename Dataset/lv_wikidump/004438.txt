@@ -1,0 +1,154 @@
+{{novec}}
+{{Citas nozīmes|2003. gadā dibinātu futbola klubu no Rīgas|Daugava (nozīmju atdalīšana)|Daugava}}
+{{Futbola kluba infokaste
+| nos    = FK Daugava Rīga
+| logo   = [[Attēls:Daugava Riga.png|100px]]
+| pilns  = Futbola klubs "Daugava"
+| dib    = 2003
+| stad   = [[Daugavas stadions (Rīga)|Daugavas stadions]], [[Rīga]]
+| ietilp = 
+| prez   = 
+| tren   = {{flaga|Lietuva}} [[Virginijs Lubšis]]
+| līga   = [[Latvijas futbola Virslīga|Virslīga]]
+| sez    = [[Latvijas futbola Virslīga 2014|2014]]
+| poz    = 7. vieta
+<!------ Nosaukuma vēsture ------->
+ | name1           = FK Jūrmala
+ | dates1          = 2003-2008
+ | name2           = FK Jūrmala-VV
+ | dates2          = 2008-2012
+ | name3           = Futbola klubs "Daugava"
+ | dates3          = 2012-
+|pattern_la1 = _whiteborder
+|pattern_b1 = _whitecollar
+|pattern_ra1 = _whiteborder
+|pattern_so1 = _whitehorizontal
+|leftarm1 = 003366
+|body1 = 003366
+|rightarm1 = 003366
+|shorts1 = 003366
+|socks1 = 003366
+|pattern_la2 = _blackborder
+|pattern_b2 = _blackcollar
+|pattern_ra2 = _blackborder
+|leftarm2 = DC143C
+|body2 = DC143C
+|rightarm2 = DC143C
+|shorts2 = FFFFFF
+|socks2 = FFFFFF
+}}
+
+'''FK Daugava Rīga''' ir [[Latvija]]s [[futbols|futbola]] klubs, kas dibināts 2003. gadā kā '''FK Jūrmala''', vēlāk spēlējis ar nosaukumu '''FK Jūrmala-VV'''. Pirmajā sezonā tas uzvarēja [[Latvijas futbola 1. līga|Latvijas čempionāta 1. līgā]] un kopš 2004. gada spēlē [[Latvijas futbola Virslīga|Virslīgā]].
+
+Pēc 2008. gada sezonas beigām FK Jūrmala juridiski bankrotēja,<ref>[http://esports.lv/futbols/lmt_virsliga/04012009-vajakie_virsligas_klubi_par_nakotni_nezin Vājākie Virslīgas klubi par nākotni neziņā]{{Novecojusi saite}}</ref> bet tās vietu Virslīgā, kuba vēsturi un infrastruktūru pārņēma FK Jūrmala-VV.
+
+Neilgi pirms 2012. gada sezonas sākuma klubs mainīja nosaukumu un bāzes vietu, kļūstot par FK Daugava.<ref>[http://sportacentrs.com/futbols/lmt_virsliga/15032012-jurmala_vv_oficiali_partop_par_rigas_daug "Jūrmala-VV" oficiāli pārtop par Rīgas "Daugavu"]</ref> Tobrīd Virslīgā bija pārstāvēts arī Daugavpils klubs [[FC Daugava]].
+
+[[Attēls:FK Jurmala-VV.jpg|thumb|170px|Komandas logo kā FK Jūrmala]]
+
+== Iegūtās vietas Latvijas čempionātā ==
+<timeline>
+ImageSize = width:600 height:60
+PlotArea = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period = from:01/07/2002 till:01/07/2014
+ScaleMajor = unit:year increment:1 start:2003 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:[[Latvijas futbola 1. līga 2003|1]]
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:[[Latvijas futbola Virslīga 2004|5]]
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:[[Latvijas futbola Virslīga 2005|6]]
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:[[Latvijas futbola Virslīga 2006|6]]
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:[[Latvijas futbola Virslīga 2007|6]]
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:[[Latvijas futbola Virslīga 2008|7]]
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:[[Latvijas futbola Virslīga 2009|4]]
+  from:01/07/2009 till:01/07/2010  shift:(0,-4) text:[[Latvijas futbola Virslīga 2010|5]]
+  from:01/07/2010 till:01/07/2011  shift:(0,-4) text:[[Latvijas futbola Virslīga 2011|8]]
+  from:01/07/2011 till:01/07/2012  shift:(0,-4) text:[[Latvijas futbola Virslīga 2012|9]]
+  from:01/07/2012 till:01/07/2013  shift:(0,-4) text:[[Latvijas futbola Virslīga 2013|4]]
+  from:01/07/2013 till:01/07/2014  shift:(0,-4) text:[[Latvijas futbola Virslīga 2014|7]]
+
+
+  from:01/07/2002 till:01/07/2003  color:bl2  shift:(0,13)  text: "[[Latvijas futbola 1. līga|1. līga]]"
+  from:01/07/2003 till:01/07/2014  color:bl1  shift:(0,13)  text: "[[Latvijas futbola Virslīga|Virslīga]]"
+</timeline>
+
+== Sasniegumi Latvijas kausa izcīņā ==
+* [[Latvijas Kauss futbolā 2012—13|2012/13]] - pusfināls
+* [[Latvijas kauss futbolā 2011—12|2011/12]] - Ceturtdaļfināls
+* [[Latvijas kauss futbolā 2010—11|2010/11]] - pusfināls
+* [[Latvijas kauss futbolā 2009—10|2009/10]] - [[Latvijas kauss futbolā 2009—10#Fināls|finālists]]
+* [[Latvijas kauss futbolā 2008|2008]] - [[Latvijas kauss futbolā 2008#Pusfināli|pusfināls]]
+* [[Latvijas kauss futbolā 2007|2007]] - [[Latvijas kauss futbolā 2007#Ceturtdaļfināli|ceturtdaļfināls]]
+* [[Latvijas kauss futbolā 2006|2006]] - ceturtdaļfināls
+* [[Latvijas kauss futbolā 2005|2005]] - ceturtdaļfināls
+* [[Latvijas kauss futbolā 2004|2004]] - ceturtdaļfināls
+* [[Latvijas kauss futbolā 2003|2003]] - pusfināls
+
+== Komandas sastāvs ==
+''Atjaunots {{dat|2014|03|14||bez}} <ref>[http://www.lff.lv/lv/virsliga/klubi/fkdaugavariga/]</ref>''
+{{Fs start}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Edijs Joksts]]}}
+{{Fs player | no= | nat=LAT | pos=FW | name= [[Kristaps Blanks]]}}
+{{Fs player | no= | nat=UKR | pos=DF | name= [[Oļehs Solovičs]]}}
+{{Fs player | no= | nat=LTU | pos=DF | name= [[Valdemars Borovskis]]<!--Valdemaras Borovskis-->}}
+{{Fs player | no= | nat=LAT | pos=MF | name= [[Gļebs Kļuškins]]}}
+{{Fs player | no= | nat=LAT | pos=MF | name= [[Edgars Kārkliņš]]}}
+{{Fs player | no= | nat=LAT | pos=MF | name= [[Raivis Vītolnieks]]}}
+{{Fs player | no= | nat=LAT | pos=FW | name= [[Verners Apiņš]]}}
+{{Fs player | no= | nat=LAT | pos=GK | name= [[Roberts Ozols]]}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Kārlis Kņūts]]}}
+{{Fs player | no= | nat=LAT | pos=GK | name= [[Jānis Krūmiņš (futbolists)|Jānis Krūmiņš]]}}
+{{Fs player | no= | nat=LAT | pos=GK | name= [[Vitālijs Artjomenko]]}}
+{{fs mid}}
+{{Fs player | no= | nat=LAT | pos=FW | name= [[Vitālijs Ziļs]]}}
+{{Fs player | no= | nat=LTU | pos=DF | name= [[Ģiedrus Tomkevičs]]<!--Giedrius Tomkevičius-->}}
+{{Fs player | no= | nat=LTU | pos=MF | name= [[Mants Savens]]<!--Mantas Savenas-->}}
+{{Fs player | no= | nat=LTU | pos=FW | name= [[Vitālijs Kavaļausks]]<!--Vitalijus Kavaliauskas-->}}
+{{Fs player | no= | nat=LTU | pos=MF | name= [[Aurims Kucis]]<!--Aurimas Kucys-->}}
+{{Fs player | no= | nat=LTU | pos=GK | name= [[Tads Kauņecks]]<!--Tadas Kauneckas-->}}
+{{Fs player | no= | nat=LAT | pos=MF | name= [[Tads Markevičs]]<!--Tadas Markevicius-->}}
+{{Fs player | no= | nat=LAT | pos=MF | name= [[Artjoms Šastihs]]}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Artis Novickis]]}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Artūrs Zakreševskis]]}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Artūrs Petrivs]]}}
+{{Fs player | no= | nat=LAT | pos=DF | name= [[Deniss Kačanovs]]}}
+{{Fs end}}
+
+== Komandas galvenie treneri ==
+* {{flaga|Latvija}} [[Jurijs Popkovs]] (2003 - 2006)
+* {{flaga|Latvija}} [[Vladimirs Babičevs]] (2006)
+* {{flaga|Krievija}} [[Oļegs Stogovs]] (2007. gada janvāris - 2007. gada jūlijs)
+* {{flaga|Latvija}} [[Gatis Ērglis]] (2007. gada jūlijs - 2007. gada decembris)
+* {{flaga|Latvija}} [[Vladimirs Babičevs]] (2008 - 2011. gada septembris)
+* {{flaga|Latvija}} [[Jurijs Popkovs]] (2011. gada septembris - ?)
+* {{flaga|Lietuva}} [[Virginijs Lubšis]] (2012. gada decembris - )
+
+== Kluba logotipi ==
+<gallery>
+Attēls:FK Jurmala-VV Logo 2003-2008.svg|FK Jūrmala logotips (2003—2008)
+Attēls:FK Jurmala-VV Logo 2009.svg|FK Jūrmala-VV logotips 2009. gadā
+Attēls:FK Jūrmala-VV Logo.svg|FK Jūrmala-VV logotips (2010—2012)
+Attēls:Daugava Riga FC.png|FK Daugava Rīga logotips kopš 2012. gada
+</gallery></center>
+
+== Atsauces ==
+{{atsauces}}
+
+<!-- == Ārējās saites == -->
+
+
+{{FK Jūrmala-VV spēlētāji}}
+{{DEFAULTSORT:Daugava, FK}}
+
+[[Kategorija:Latvijas futbola klubi]]
+[[Kategorija:Sports Jūrmalā]]
+[[Kategorija:Sports Rīgā]]

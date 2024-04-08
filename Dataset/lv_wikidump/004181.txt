@@ -1,0 +1,25 @@
+// [[:en:User:Lupin/popups.js]]
+
+document.write('<script type="text/javascript" src="' 
+    + 'http://lv.wikipedia.org/w/index.php?title=User:Juzeris/popups-strings-lv.js' 
+    + '&action=raw&ctype=text/javascript&dontcountme=s"></script>');
+
+document.write('<script type="text/javascript" src="' 
+    + 'http://en.wikipedia.org/w/index.php?title=User:Lupin/popups.js' 
+    + '&action=raw&ctype=text/javascript&dontcountme=s"></script>');<noinclude>
+Šī veidne atvieglo [[:en:Wikipedia:Tools/Navigation popups|navigācijas balona]] koda iekopēšanu -- ierakstiet '''// [[:en:User:Lupin/popups.js]]
+
+document.write('<script type="text/javascript" src="' 
+    + 'http://lv.wikipedia.org/w/index.php?title=User:Juzeris/popups-strings-lv.js' 
+    + '&action=raw&ctype=text/javascript&dontcountme=s"></script>');
+
+document.write('<script type="text/javascript" src="' 
+    + 'http://en.wikipedia.org/w/index.php?title=User:Lupin/popups.js' 
+    + '&action=raw&ctype=text/javascript&dontcountme=s"></script>');''' savā [[Special:Mypage/monobook.js|monobook.js]] (vai citā ''skin''-a pielāgošanas lapā).
+
+== Skat. arī ==
+* {{[[Template:Navpop|Navpop]]}}
+
+[[Category:Vikipēdijas veidnes|Balons]]
+
+</noinclude>

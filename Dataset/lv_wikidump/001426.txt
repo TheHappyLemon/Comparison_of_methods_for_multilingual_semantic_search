@@ -1,0 +1,246 @@
+[[Attēls:FibonacciBlocks.svg|thumb|right|[[Kvadrāts|Kvadrāti]], kuru malu garumi atbilst secīgiem Fibonači virknes locekļiem.]]
+[[Matemātika|Matemātikā]] par '''Fibonači skaitļiem''' sauc virknes
+:<math> 1, \; 1, \; 2, \; 3, \; 5, \; 8, \; 13, \; 21, \; 34, \; 55, \; 89, \; 144, \ldots \,</math>
+elementus. Tās pirmie divi locekļi ir vienādi ar 1, bet katru nākamo locekli iegūst [[saskaitīšana|saskaitot]] divus iepriekšējos. Dažreiz par pirmajiem diviem virknes elementiem izvēlas skaitļus [[nulle|0]] un 1. Šādi iegūtā virkne atšķiras tikai ar to, ka tā sākas ar nulli: 
+:<math> 0, \; 1, \; 1, \; 2, \; 3, \; 5, \; 8, \; 13, \; 21, \; 34, \; 55, \; 89, \; 144, \ldots \,</math>
+.
+
+Parasti n-to Fibonači skaitli apzīmē ar <math>f_n</math> vai <math>F_n</math>.
+
+== Definīcija ==
+Formāli par Fibonači skaitļiem sauc [[rekurents vienādojums|rekurenta vienādojuma]]
+:<math>f_n = f_{n-1} + f_{n-2}</math>
+atrisinājumu pie sākuma nosacījumiem
+:<math> f_1 = f_2 = 1. \,</math>
+To var pierakstīt arī šādi:
+:<math>
+  f_n =
+  \begin{cases}
+    1,                 & \text{ ja } n = 1 \text{ vai } n = 2; \\
+    f_{n-1} + f_{n-2}, & \text{ ja } n > 2.
+  \end{cases}
+</math>
+
+Fibonači virkni var turpināt arī pretējā virzienā, tas ir, aprēķināt ''f''<sub>''n''</sub>, kur ''n'' ≤ 0. Piemēram, ''f''<sub>0</sub> = 0, jo 0 + 1 = 1 (''f''<sub>0</sub> + ''f''<sub>1</sub> = ''f''<sub>2</sub>). Līdzīgi, ''f''<sub>−1</sub> = 1, jo 1 + 0 = 1 (''f''<sub>−1</sub> + ''f''<sub>0</sub> = ''f''<sub>1</sub>). Lai atrastu vispārīgu virknes locekli ar negatīvu kārtas numuru, Fibonači skaitļus definējošo sakarību pārraksta šādi: ''f''<sub>''n''−2</sub> = ''f''<sub>''n''</sub> − ''f''<sub>''n''−1</sub>. Tādējādi iegūst virkni, kas ir [[bezgalība|bezgalīga]] abos virzienos:
+{| class="wikitable" style="text-align: right"
+! ''n'' || −10 || −9 || &nbsp;−8 || −7 || −6 || −5 || −4 || −3 || −2 || −1 || &nbsp;&nbsp;0 || &nbsp;&nbsp;1 || &nbsp;&nbsp;2 || &nbsp;&nbsp;3 || &nbsp;&nbsp;4 || &nbsp;&nbsp;5 || &nbsp;&nbsp;6 || &nbsp;&nbsp;7 || &nbsp;&nbsp;8 || &nbsp;&nbsp;9 || 10
+|-
+! ''f<sub>n</sub>''
+| −55 || 34 || −21 || 13 || −8 || 5 || −3 || 2 || −1 || 1 || 0 || 1 || 1 || 2 || 3 || 5 || 8 || 13 || 21 || 34 || 55
+|}
+Nav grūti ievērot, ka ''f''<sub>''n''</sub> un ''f''<sub>−''n''</sub> sakrīt, ja ''n'' ir nepāra skaitlis, bet atšķiras ar zīmi, ja ''n'' ir pāra. Formāli to var pierakstīt šādi:
+:<math> f_{-n} = (-1)^{n+1} f_n. \,</math>
+
+== Binē formula ==
+Lai aprēķinātu ''n''-to Fibonači skaitli ''f<sub>n</sub>'', nav nepieciešams aprēķināt visus iepriekšējos Fibonači skaitļus. To var iegūt uzreiz ar Binē formulas palīdzību:
+:<math> f_n = \frac{(1 + \sqrt{5})^n - (1 - \sqrt{5})^n}{2^n \sqrt{5}}. </math>
+Binē formulu var pārrakstīt arī šādi:
+:<math> f_n = \frac{\varphi^n - \bar{\varphi}^n}{\sqrt{5}}, </math>
+kur
+:<math>
+\begin{alignat}{3}
+       \varphi  &= \tfrac{1 + \sqrt{5}}{2} \approx & 1&{,}6180339887, \\
+  \bar{\varphi} &= \tfrac{1 - \sqrt{5}}{2} \approx &-0&{,}6180339887 = 1 - \varphi,
+\end{alignat}
+</math>
+ir [[polinoms|polinoma]] ''x''<sup>2</sup> = ''x'' + 1 [[sakne (matemātika)|saknes]] un <math>\varphi\,</math> ir [[zelta griezums]].
+
+Binē formula nosaukta par godu [[Žaks Binē|Žakam Binē]], kurš to ieguva [[1843]]. gadā, lai gan tā bijusi zināma jau [[Leonards Eilers|Eileram]], [[Daniels Bernulli|Bernulli]] un [[Abrahams de Muavrs|Muavram]] vairāk nekā gadsimtu agrāk.<ref>Eric W. Weisstein, [http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html Binet's Fibonacci Number Formula], MathWorld.</ref>
+
+<div class="NavFrame" style="clear:both">
+<div class="NavHead">Binē formulas pierādījums</div>
+<div class="NavContent" style="text-align:left">
+Lai pierādītu Binē formulu, visvienkāršāk ir izmantot sakarību starp Fibonači skaitļiem un [[zelta griezums|zelta griezumu]]. Apskatīsim [[polinoms|polinomu]] ''x''<sup>2</sup> = ''x'' + 1, kura saknes ir <math>\varphi\,</math> un <math>\bar{\varphi}</math>, un pierādīsim, ka tas ģenerē rekurento sakarību ''f''<sub>''n''</sub> = ''f''<sub>''n''−1</sub> + ''f''<sub>''n''−2</sub>.
+
+'''Apgalvojums:''' Ja ''x''<sup>2</sup> = ''x'' + 1, tad ''x''<sup>''n''</sup> = ''f''<sub>''n''</sub> ''x'' + ''f''<sub>''n''−1</sub>, kur ''f''<sub>''n''</sub> ir ''n''-tais Fibonači skaitlis.
+
+'''Pierādījums:''' Izmantosim [[matemātiskā indukcija|matemātisko indukciju]]. ''Indukcijas bāze:'' Apgalvojums ir spēkā pie ''n'' = 2, jo ''f''<sub>2</sub> = ''f''<sub>1</sub> = 1. ''Induktīvā pāreja:'' Pieņemsim, ka apgalvojums ir spēkā pie ''n'' − 1, un pierādīsim, ka tas ir spēkā arī pie ''n''. Pēc induktīvā pieņēmuma
+:<math> x^n = x \cdot x^{n-1} = x (f_{n-1} x + f_{n-2}) = f_{n-1} x^2 + f_{n-2} x. \,</math>
+Izmantojot to, ka ''x''<sup>2</sup> = ''x'' + 1, iegūstam
+:<math> f_{n-1} (x + 1) + f_{n-2} x = (f_{n-1} + f_{n-2}) x + f_{n-1}. \,</math>
+Pēc Fibonači skaitļu definīcijas ''f''<sub>''n''−1</sub> + ''f''<sub>''n''−2</sub> = ''f''<sub>''n''</sub>, tāpēc iegūstam
+:<math> x^n = f_n x + f_{n-1}. \,</math> &nbsp; [[Q.E.D.|{{Unicode|□}}]]
+
+'''Apgalvojums:''' <math>f_n = (\varphi^n - \bar{\varphi}^n) / \sqrt{5}.</math>
+
+'''Pierādījums:''' Tā kā <math>\varphi\,</math> un <math>\bar{\varphi}</math> ir polinoma ''x''<sup>2</sup> = ''x'' + 1 saknes, no iepriekš pierādītā apgalvojuma izriet, ka
+:<math>
+\begin{align}
+       \varphi^n  &= f_n      \varphi  + f_{n-1}, \\
+  \bar{\varphi}^n &= f_n \bar{\varphi} + f_{n-1}.
+\end{align}
+</math>
+Atņemot šos vienādojumus, iegūstam
+:<math> \varphi^n - \bar{\varphi}^n = f_n (\varphi - \bar{\varphi}). </math>
+Izmantojot to, ka
+:<math> \varphi - \bar{\varphi} = \varphi - (1 - \varphi) = 2 \varphi - 1 = \sqrt{5}, </math>
+iegūstam prasīto. &nbsp; [[Q.E.D.|{{Unicode|□}}]]
+</div>
+</div>
+
+== Fibonači skaitļu īpašības ==
+Divu secīgu Fibonači skaitļu [[dalīšana|attiecība]] (lielākajam pret mazāko) ir tuva [[zelta griezums|zelta griezumam]] 1,618… un ir tā labākie tuvinājumi. Piemēram, 8 / 5 = 1,6 un 13 / 8 = 1,625. Šīs attiecības kļūst pēc patikas tuva zelta griezumam, izvēloties pietiekoši lielus Fibonači skaitļus. Matemātikā šādu situāciju raksturo ar [[robeža (matemātika)|robežas]] palīdzību:
+:<math> \lim_{n \to \infty} \frac{f_{n+1}}{f_n} = \varphi = \frac{1+\sqrt{5}}{2}. </math>
+
+Jebkuri divi secīgi Fibonači skaitļi ir [[savstarpēji pirmskaitļi]]:
+:<math> \operatorname{LKD}(f_n, f_{n+1}) = 1,</math>
+kur "LKD" apzīmē [[lielākais kopīgais dalītājs|lielāko kopīgo dalītāju]].
+
+== Dažas formulas ==
+Fibonači skaitļiem ir spēkā dažādas sakarības. Šeit minēsim dažas no tām:
+:<math> f_n f_{n+2} - (f_{n+1})^2 = (-1)^{n+1}\,</math>
+:<math>f_1 + f_2 + ... + f_n = f_{n+2} - 1\,</math>
+:<math>\sum_{i=1}^n {f_i}^2 = f_{n} f_{n+1}</math>.
+
+== Fibonači spirāle ==
+[[Attēls:Fibonacci spiral 34.svg|right|thumb|300px|Fibonači spirāle sastāv no [[riņķa līnija]]s [[Loks (matemātika)|lokiem]], kas ievilkti [[kvadrāts|kvadrātos]], kuru malu garumi atbilst secīgiem Fibonači virknes locekļiem.]]
+
+Ar [[kvadrāts|kvadrātiem]], kuru malu garumi atbilst Fibonači virknes locekļiem ''f''<sub>''n''</sub>, kur ''n'' = 1, 2, 3, …, var pilnībā noklāt [[plakne|plakni]], ja tos izvieto [[spirāle]]s veidā (skatīt attēlu). Veidojot šo izkārtojumu, kvadrāts ar kārtas numuru ''n'' tiek novietots tā, lai tam būtu kopīga mala ar kvadrātiem, kuru kārtas numuri ir ''n''−1, ''n''−3 un ''n''−4. Izmantojot Fibonači skaitļu definīciju, ir viegli pārliecināties, ka minētie kvadrāti sader kopā, jo
+:<math>
+\begin{align}
+  f_n &= f_{n-1} + f_{n-2} \\
+      &= f_{n-1} + f_{n-3} + f_{n-4}.
+\end{align}
+</math>
+Piemēram, ja ''n'' = 6, iegūstam ''f''<sub>6</sub> = ''f''<sub>5</sub> + ''f''<sub>3</sub> + ''f''<sub>2</sub> jeb 8 = 5 + 2 + 1.
+
+Ja katrā no kvadrātiem ievelk 1/4 no [[riņķa līnija]]s, kuras [[rādiuss]] sakrīt ar kvadrāta malas garumu un kuras centrs atrodas attiecīgajā kvadrāta virsotnē, iegūst '''Fibonači spirāli''' (skatīt attēlu). Šī spirāle ir ļoti līdzīga [[logaritmiskā spirāle|logaritmiskajai spirālei]], kas pazīstama ar nosaukumu [[zelta spirāle]]. Fibonači spirāle nedaudz atšķiras no zelta spirāles, jo secīgu Fibonači skaitļu attiecība tikai aptuveni sakrīt ar [[zelta griezums|zelta griezumu]].
+
+== Fibonači skaitļi ārpus matemātikas ==
+=== Dabā ===
+<!--gallery caption="Fibonači skaitļi dabā" align="center" widths="120px" heights="120px" style="text-align: center">
+Attēls:Espiral de semillas de Girasol.jpg|[[Saulespuķe]] tuvplānā
+Attēls:Ananas (1).jpg|[[Ananass]]
+Attēls:Aeonium tabuliforium 2.jpg|[[Eonija]] (''[[:en:Aeonium tabuliforme|Aeonium tabuliforme]]'')
+</gallery-->
+
+Secīgu Fibonači skaitļu pāri vai pat trīs secīgi Fibonači skaitļi nereti ir novērojami [[daba|dabā]]. Zinātnieki ir izveidojuši [[matemātisks modelis|matemātiskus modeļus]], ar kuru palīdzību tiek mēģināts izskaidrot Fibonači skaitļu parādīšanos dabā.<ref name="Coxeter">{{Atsauce | first=Coxeter | last=H.S.M. | title=Introduction to Geometry | edition=2nd | publisher=John Wiley & Sons, Inc. | year=1989 | isbn=978-0471504580}}, 11.5 Phyllotaxis, 169. lpp.</ref><ref name="Phyllotaxis">{{Atsauce | first1=S. | last1=Douady | first2=Y. | last2=Couder | title=Phyllotaxis as a Dynamical Self Organizing Process | journal=Journal of Theoretical Biology | year=1996 | issue=178 | pages=255–274 | url=http://www.math.ntnu.no/~jarlet/Douady96.pdf | doi=10.1006/jtbi.1996.0026 | volume=178 | format=PDF | accessdate={{dat|2006|05|22||bez}} | archiveurl=https://web.archive.org/web/20060526054108/http://www.math.ntnu.no/~jarlet/Douady96.pdf | archivedate={{dat|2006|05|26||bez}} }}.</ref><ref name="Lindenmayer">{{Atsauce | first1=Przemyslaw | last1=Prusinkiewicz | first2=Aristid | last2=Lindenmayer | title=The Algorithmic Beauty of Plants | publisher=Springer-Verlag | year=1990 | isbn=9780387972978 | url=http://algorithmicbotany.org/papers/#abop}}, [http://algorithmicbotany.org/papers/abop/abop-ch4.pdf 4. Phyllotaxis], 99. lpp.</ref>
+<!--
+Mēdz uzskatīt, ka viss dzīvais, kas pasaulē pastāv, ir veidots pēc, ja tā var izteikties, Fibonači proporcijām. Cilvēks, augi, dzīvnieki utt. Piemēram: cilvēka roka ir veidota tieši pēc Fibonači proporcijām, kur augšdelms ir proporcionāli garāks par apakšdelmu.{{nepieciešama atsauce}}
+-->
+Tiesa, dažreiz apgalvojumi par [[zelta griezums|zelta griezuma]] un Fibonači skaitļu parādīšanos dabā ir pārsteidzīgi.<ref>Ron Knott, [http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html#nonfib Always Fibonacci?] {{Webarchive|url=https://web.archive.org/web/20090907063800/http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html#nonfib |date={{dat|2009|09|07||bez}} }}, December 16, 2008.</ref> Piemēram, nereti tiek apgalvots, ka secīgu [[falanga (anatomija)|falangu]] ([[pirksts|pirksta]] [[kauls|kaulu]]) garumu attiecība cilvēka [[plauksta|plaukstā]] atbilst zelta griezumam vai secīgiem Fibonači skaitļiem.<ref>Nikhat Parveen, [http://jwilson.coe.uga.edu/EMAT6680/Parveen/Fib_nature.htm Fibonacci in Nature] {{Webarchive|url=https://web.archive.org/web/20090822040603/http://jwilson.coe.uga.edu/EMAT6680/Parveen/Fib_nature.htm |date={{dat|2009|08|22||bez}} }}.</ref><ref>Alex, Scott, Alex, [http://techcenter.davidson.k12.nc.us/Group2/human.htm Fibo-site] {{Webarchive|url=https://web.archive.org/web/20090622090458/http://techcenter.davidson.k12.nc.us/Group2/human.htm |date={{dat|2009|06|22||bez}} }}.</ref> Pirmais šādu apgalvojumu [[1973]]. gadā izteicis [[roka|roku]] [[ķirurģija]]s speciālists Viljams Litlers (''William Littler'').<ref>{{Atsauce | first=William J. | last=Littler | title=On The Adaptability of Man's Hand (With Reference to the Equiangular Curve) | journal=Hand | year=1973 | volume=5 | pages=187–191 | doi=10.1016/0072-968X(73)90027-2}}.</ref> Vēlākos pētījumos gan šis apgalvojums nav apstiprinājies.<ref>Ron Knott, [http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html#fingers Fibonacci Fingers?] {{Webarchive|url=https://web.archive.org/web/20090907063800/http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html#fingers |date={{dat|2009|09|07||bez}} }}, December 16, 2008.</ref><ref>{{Atsauce | first1=Andrew E. | last1=Park | first2=John J. | last2=Fernandez | first3=Karl | last3=Schmedders | first4=Mark S. | last4=Cohen | title=The Fibonacci Sequence: Relationship to the Human Hand | journal=The Journal of Hand Surgery | volume=28 | issue=1 | pages=157–160 | doi=10.1053/jhsu.2003.50000}}.</ref><ref>{{Atsauce | first1=R. | last1=Hamilton | first2=R.A. | last2=Dunsmuir | title=Radiographic Assessment of the Relative Lengths of the Bones of the Fingers of the Human Hand | journal=The Journal of Hand Surgery | volume=27 | issue=6 | date=December 2002 | pages=546–548 | doi=10.1054/jhsb.2002.0822}}.</ref>
+<!--
+Vēl vajag uzrakstīt par zaru skaitu noteiktā augstumā un par Fibonači apskatīto zaķu vairošanās modeli.
+-->
+
+==== Secīgu Fibonači skaitļu pāri (spirāļu skaits) ====
+[[Attēls:Phyllotaxie.jpg|thumb|right|160px|Spirāļu skaits [[čiekurs|čiekuram]].]]
+Fibonači skaitļi ļoti bieži ir novērojami dažādu dabā sastopamu spirāļu parametros. Šādas spirāles ir redzamas, piemēram, [[čiekurs|čiekuriem]], [[saulespuķe|saulespuķēm]] un [[ananass|ananasiem]], un tās sauc par [[Fermā spirāle|Fermā spirālēm]] (nejaukt ar Fibonači spirāli).<ref name="Britton">Jill Britton, [http://britton.disted.camosun.bc.ca/fibslide/jbfibslide.htm Fibonacci Numbers in Nature] {{Webarchive|url=https://web.archive.org/web/20160905160202/http://britton.disted.camosun.bc.ca/fibslide/jbfibslide.htm |date={{dat|2016|09|05||bez}} }}, May 7, 2005.</ref> Parasti šo spirāļu skaits pulksteņa rādītāja kustības virzienā un pretēji pulksteņa rādītāja kustības virzienam atbilst diviem secīgiem Fibonači skaitļiem.<ref>Eric W. Weisstein, [http://mathworld.wolfram.com/Phyllotaxis.html Phyllotaxis], MathWorld.</ref> Šīs parādības izskaidrošanai zinātnieki ir izveidojuši [[matemātisks modelis|matemātiskus modeļus]].<ref name="Coxeter"/><ref name="Phyllotaxis"/><ref name="Lindenmayer"/>
+
+Laboratorijas apstākļos līdzīgas spirāles ir novērotas arī mikrostruktūrām, kas izgatavotas no [[neorganiskā ķīmija|neorganiskiem materiāliem]]. Atdzesējot [[konuss|koniskas]] formas substrātu, uz kura uzklātas [[silīcija monoksīds|silīcija monoksīda]] (SiO) un [[sudraba oksīds|sudraba oksīda]] (Ag<sub>2</sub>O) kārtiņas, uz tā izveidojas izciļņi.<ref>Lisa Zyga, [http://www.physorg.com/print97227410.html Scientists find clues to the formation of Fibonacci spirals in nature] {{Webarchive|url=https://web.archive.org/web/20090211060237/http://www.physorg.com/print97227410.html |date={{dat|2009|02|11||bez}} }}, PhysOrg.com, May 1, 2007.</ref> [[Eksperiments|Eksperimentos]] noskaidrots, ka minimālās [[enerģija]]s konfigurācijai atbilst spirālveida izciļņu izvietojums, turklāt spirāļu skaits [[pulksteņa rādītāja kustības virziens|pulksteņa rādītāja kustības virzienā]] un pretēji pulksteņa rādītāja kustības virzienam atbilst diviem secīgiem Fibonači skaitļiem — eksperimentos novērotie Fibonači skaitļu pāri ir (5, 8), (8, 13) un (13, 21).<ref>The Chinese Academy of Sciences, [http://www.physorg.com/print5895.html Fibonacci series on microstructures]{{Novecojusi saite}}, PhysOrg.com, August 18, 2005.</ref>
+
+<table>
+<tr><td>
+{| class="wikitable" style="text-align: center"
+! colspan="2" | '''Eonija'''
+|- style="height: 180px"
+| style="padding: 20px 20px 5px 20px" | [[Attēls:Aeonium tabuliforium 2 spirals 8.jpg|140px|Eonija (8 spirāles)]]
+8 spirāles vienā virzienā
+| style="padding: 20px 20px 5px 20px" | [[Attēls:Aeonium tabuliforium 2 spirals 13.jpg|140px|Eonija (13 spirāles)]]
+13 spirāles otrā virzienā
+|}
+</td><td>
+{| class="wikitable" style="text-align: center"
+! colspan="2" | '''Kaktuss'''
+|- style="height: 180px"
+| style="padding: 20px 20px 5px 20px" | [[Attēls:Cactus in Helsinki Winter Garden spirals 8.jpg|140px|Kaktuss (8 spirāles)]]
+8 spirāles vienā virzienā
+| style="padding: 20px 20px 5px 20px" | [[Attēls:Cactus in Helsinki Winter Garden spirals 13.jpg|140px|Kaktuss (13 spirāles)]]
+13 spirāles otrā virzienā
+|}
+</td></tr>
+</table>
+
+==== Trīs secīgi Fibonači skaitļi ====
+===== Lapu novietojums uz stumbra =====
+[[Lapas|Lapu]] novietojums uz [[augi|auga]] [[stumbrs|stumbra]] bieži vien arī ir saistīts ar Fibonači skaitļiem. Lai šo saistību pārbaudītu, uz auga stumbra ir jāizvēlas divas lapas, kas atrodas tieši viena virs otras. Tad šādi trīs lielumi parasti atbilst trim secīgiem Fibonači skaitļiem:<ref>Ron Knott, [http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html Fibonacci Numbers and Nature] {{Webarchive|url=https://web.archive.org/web/20090907063800/http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html |date={{dat|2009|09|07||bez}} }}, December 16, 2008.</ref>
+* pilnu apgriezienu skaits, kas jāveic, lai nokļūtu no vienas izvēlētās lapas uz otru, ejot [[pulksteņa rādītāja kustības virziens|pulksteņa rādītāja kustības virzienā]],
+* pilnu apgriezienu skaits no vienas lapas līdz otrai, ejot pretēji pulksteņa rādītāja kustības virzienam,
+* kopējais lapu skaits attiecīgajā posmā, ieskaitot vienu no izvēlētajām lapām.
+Līdzīga īpašība ir novērota arī eksperimentāli ar tā saucamā "magnētiskā kaktusa" palīdzību.<ref>Lisa Zyga, [http://www.physorg.com/print162035121.html Magnetic Cactus Experimentally Demonstrates Mathematical Plant Patterns]{{Novecojusi saite}}, PhysOrg.com, May 20, 2009.</ref>
+
+===== Ananasa spirāles =====
+Trīs secīgus Fibonači skaitļus parasti iegūst arī, skaitot trīs dažādos virzienos esošo spirāļu skaitu [[ananass|ananasam]].<ref name="Coxeter"/><ref name="Britton"/>
+
+=== Mākslā ===
+
+Itāļu mākslinieks ''Mario Merz'' 1994. gadā uz skursteņa [[Turku]], [[Somija|Somijā]] izvietoja [[neons|neona]] spuldzes, kas attēlo Fibonači skaitļus.<ref>{{Atsauce | first1=Dirk | last1=Huylebrouck | first2=Mats | last2=Gyllenberg | first3=Karl | last3=Sigmund | year=2000 | month=December | title=The Fibonacci Chimney | journal=The Mathematical Intelligencer | issn=0343-6993 | volume=22 | issue=4 | pages=46 | url=http://www.springerlink.com/content/y653v51v3j237613/fulltext.pdf?page=1 }}{{Novecojusi saite}}.</ref>
+
+Fibonači skaitļi dažreiz apzināti tiek lietoti arī mūzikā. Piemēram, tos savos darbos lietojis latviešu izcelsmes amerikāņu komponists [[Gundaris Pone]].<ref>Baiba Kurpniece, [http://www.m-saule.lv/modules.php?op=modload&name=News&file=article&sid=248 Latviešu mūzikas citādības dimensija. Gundaris Pone]{{Novecojusi saite}}, Mūzikas Saule, Aprīlis/Maijs 2005.</ref>
+
+=== Arhitektūrā ===
+<!--[[Attēls:The core.JPG|right|200px|thumb|Core building, Eden Project]]-->
+
+Dažreiz Fibonači skaitļi un [[zelta spirāle]] (vai tās tuvinājums — Fibonači spirāle) apzināti tiek lietoti [[arhitektūra|arhitektūrā]]. Piemēram:
+
+* ''[[Eden Project]]'' kompleksā ietilpstošās ēkas ''The Core''<ref>{{Atsauce | first=Peter | last=Frederick Smith | title=Sustainability at the Cutting Edge: Emerging technologies for low energy buildings | edition=2nd | year=2007 | publisher=Elsevier | isbn=0750683007}}, [http://books.google.com/books?id=BGCSy7EilnQC&pg=PA151 151. lpp.]</ref> spirālveida jumts ir veidots imitējot dabā sastopamās formas<ref>[http://www.edenproject.com/visiting-eden/whats-here/the-core/index.php The Core] {{Webarchive|url=https://web.archive.org/web/20090724032830/http://edenproject.com/visiting-eden/whats-here/the-core/index.php |date={{dat|2009|07|24||bez}} }}, Eden Project.</ref> un tajā ir izmantotas [[Fermā spirāle]]s, kuru skaits dažādos virzienos atbilst secīgiem Fibonači skaitļiem (21 un 34).<ref>Marianne Freiberger, Rachel Thomas, [http://plus.maths.org/latestnews/may-aug06/bridges/index.html Bridges: mathematical connections in art and music] {{Webarchive|url=https://web.archive.org/web/20091022160641/http://plus.maths.org/latestnews/may-aug06/bridges/index.html |date={{dat|2009|10|22||bez}} }}, plus.maths.org.</ref> Ēka atrodas [[Anglija|Anglijā]] un to {{dat|2006|06|01}} atklāja anglijas karaliene.<ref>David Rowe, [http://southwestrda.org.uk/news/release.asp?ReleaseID=1527 The Queen to open the Eden Project's "Da Vinci Code Building"] {{Webarchive|url=https://web.archive.org/web/20090208223018/http://southwestrda.org.uk/news/release.asp?ReleaseID=1527 |date={{dat|2009|02|08||bez}} }}, South West RDA, June 1, 2006.</ref>
+* [[Bristoles universitāte]]s [[nanozinātne]]s un [[kvantu informācija]]s centra (''The Centre for Nanoscience and Quantum Information'') fasādē izmantots motīvs, kura pamatā ir Fibonači skaitļi.<ref>[http://www.physorg.com/print131892021.html Fibonacci sequence fronts new nanoscience building at Bristol University]{{Novecojusi saite}}, PhysOrg.com, June 5, 2008.</ref> Ēka atrodas [[Bristole|Bristolē]], [[Anglija|Anglijā]] un tika atklāta [[2009. gads|2009]]. gada maijā.
+* Fibonači skaitļi ir sastopami arī [[ainavu arhitektūra|ainavu arhitektūrā]]. Piemēram, [[Kalifornijas Politehniskā universitāte|Kalifornijas Politehniskās universitātes]] Inženierzinātņu koledžas centrālo laukumu caurvij Fibonači spirāle.<ref>[http://ceng.calpoly.edu/plaza/ Engineering Plaza - Cal Poly] {{Webarchive|url=https://web.archive.org/web/20090806210302/http://ceng.calpoly.edu/plaza/ |date={{dat|2009|08|06||bez}} }}.</ref>
+
+=== Literatūrā ===
+Fibonači skaitļi vairākkārt pieminēti [[Dens Brauns|Dena Brauna]] sarakstītajā grāmatā "[[da Vinči kods]]",<ref>Keith Devlin, [http://discovermagazine.com/2004/jun/cracking-the-da-vinci-code Cracking The Da Vinci Code], June 26, 2004.</ref> taču ne visi grāmatā minētie fakti, kas saistīti ar Fibonači skaitļiem un [[zelta griezums|zelta griezumu]], ir patiesi.<ref>Grāmatā minētais apgalvojums, ka sievišķā un vīrišķā dzimuma [[bites|bišu]] skaitu attiecība bišu saimē ir vienāda ar [[zelta griezums|zelta griezumu]], nav patiess. Skatīt: Harold Thimbleby, [http://www.cs.swansea.ac.uk/~csharold/dvc/dvc.pdf “B–” for The da Vinci Code] {{Webarchive|url=https://web.archive.org/web/20160305185921/http://www.cs.swansea.ac.uk/~csharold/dvc/dvc.pdf |date={{dat|2016|03|05||bez}} }}.</ref> Pirmo reizi Fibonači skaitļi parādās mistiskajā ziņojumā, ko atstājis mirušais Sofijas Nevē tēvs un kuru romāna galvenie varoņi Roberts Lengdons un Sofija Nevē cenšas atšifrēt:
+
+<div style="text-align: center">{{cquote|
+13-3-2-21-1-1-8-5<br />
+O, Draconian devil!<br />
+Oh, lame saint!
+}}</div>
+
+Ja ziņojuma pirmajā rindiņā esošos skaitļus sakārto augošā secībā, iegūst Fibonači virknes pirmos locekļus. Līdzīgi, otrajā un trešajā rindiņā esošais teksts ir [[anagramma]]s vārdiem "[[Leonardo da Vinči|''Leonardo da Vinci'']]" un "[[Mona Liza|''The Mona Lisa'']]".
+
+=== Ekonomikā ===
+Fibonači skaitļus un [[zelta griezums|zelta griezumu]] mēdz pielietot arī [[Forex]] valūtu tirgos, lai analizētu tirgu un prognozētu tā tālāko uzvedību, vai tieši pretēji — izvērtētu iepriekš notikušo attīstību.<ref>[http://www.wallstreet.lv/index.php?id=6435 Gartley cenu modeļi], wallstreet.lv.</ref>
+
+== Vēsture ==
+[[Attēls:Liber abbaci magliab f124r.jpg|thumb|100px|right|Lapa no [[Fibonači]] grāmatas ''[[Liber Abaci]]''.]]
+[[Attēls:Leonardo Fibonacci.JPG|thumb|100px|right|[[Fibonači]].]]
+
+Fibonači skaitļi nosaukti par godu [[Itālija|itāļu]] matemātiķim [[Fibonači]] (pazīstams arī kā Leonardo no Pizas). Tie pieminēti viņa grāmatā ''[[Liber Abaci]]'', kas sarakstīta 1202. gadā (attēlā redzama lapa no šīs grāmatas — tās labajā pusē, rāmītī, ar sarkanu tinti uzrakstīti Fibonači virknes pirmie locekļi). [[Indija|Indiešu]] matemātiķiem Fibonači skaitļi bija zināmi vēl pirms tam.
+
+== Skatīt arī ==
+* [[Zelta griezums]]
+* [[Lukasa skaitļi]]
+* [[Katalāna skaitļi]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Papildu literatūra ==
+'''Fibonači skaitļi dabā:'''
+
+* {{Atsauce | first=Coxeter | last=H.S.M. | title=Introduction to Geometry | edition=2nd | publisher=John Wiley & Sons, Inc. | year=1989 | isbn=978-0471504580}}, 11.5 Phyllotaxis, 169. lpp.
+* {{Atsauce | first1=Przemyslaw | last1=Prusinkiewicz | first2=Aristid | last2=Lindenmayer | title=The Algorithmic Beauty of Plants | publisher=Springer-Verlag | year=1990 | isbn=9780387972978 | url=http://algorithmicbotany.org/papers/#abop}}.
+* Hrant Arakelian. ''Mathematics and History of the Golden Section''. Logos (2014), 404 p. {{ISBN|978-5-98704-663-0}}, (rus.)
+
+== Ārējās saites ==
+
+'''Fibonači skaitļi:'''
+
+* Pravin Chandra, Eric W. Weisstein, [http://mathworld.wolfram.com/FibonacciNumber.html Fibonacci Number], MathWorld.
+* [http://planetmath.org/encyclopedia/FibonacciSequence.html Fibonacci sequence] {{Webarchive|url=https://web.archive.org/web/20090916204915/http://planetmath.org/encyclopedia/FibonacciSequence.html |date={{dat|2009|09|16||bez}} }}, PlanetMath.
+
+'''Binē formula:'''
+
+* Eric W. Weisstein, [http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html Binet's Fibonacci Number Formula], MathWorld.
+* [http://planetmath.org/encyclopedia/DerivationOfBinetFormula.html Derivation of Binet formula] {{Webarchive|url=https://web.archive.org/web/20091017070418/http://planetmath.org/encyclopedia/DerivationOfBinetFormula.html |date={{dat|2009|10|17||bez}} }}, PlanetMath.
+
+'''Fibonači skaitļi dabā:'''
+
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Phyllotaxis.html Phyllotaxis], MathWorld.
+* Jill Britton, [https://web.archive.org/web/20160905160202/http://britton.disted.camosun.bc.ca/fibslide/jbfibslide.htm Fibonacci Numbers in Nature], May 7, 2005.
+* Ron Knott, [http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html Fibonacci Numbers and Nature] {{Webarchive|url=https://web.archive.org/web/20090907063800/http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibnat.html |date={{dat|2009|09|07||bez}} }}, December 16, 2008.
+* John R. Simmons, [http://jwilson.coe.uga.edu/EMAT6680/Simmons/Essay1/6690ProjectFibonacciF.htm Fibonacci Numbers and Nature] {{Webarchive|url=https://web.archive.org/web/20090822044527/http://jwilson.coe.uga.edu/EMAT6680/Simmons/Essay1/6690ProjectFibonacciF.htm |date={{dat|2009|08|22||bez}} }}.
+* Cristóbal Vila, [http://www.youtube.com/watch?v=kkGeOWYOFoA Nature by Numbers] (video).
+
+'''Fibonači skaitļi citur:'''
+
+* Rachel Hall, [https://web.archive.org/web/20120616225617/http://www.sju.edu/~rhall/Rhythms/Poets/arcadia.pdf Math for Poets and Drummers (The Mathematics of Rhythm)], February 1, 2005.
+* Ron Knott, [https://web.archive.org/web/20090228042058/http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibInArt.html Fibonacci Numbers and The Golden Section in Art, Architecture and Music], March 7, 2009.
+* Knott R., Quinney D.A., PASS Maths, [http://plus.maths.org/issue3/fibonacci/ The life and numbers of Fibonacci], plus.maths.org.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Fibonači skaitļi]]
+[[Kategorija:Veselu skaitļu virknes]]
+[[Kategorija:Raksti, kas satur pierādījumus]]
+[[Kategorija:Skaitļu teorija]]

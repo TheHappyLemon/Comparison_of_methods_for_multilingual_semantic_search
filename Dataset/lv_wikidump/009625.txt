@@ -1,0 +1,415 @@
+{{Citas nozīmes|datortehniku|ARM (nozīmju atdalīšana)|ARM}}
+[[Attēls:conexant_arm.jpg|right|thumb|[[Conexant]] ARM procesors, ko pamatā izmanto [[maršrutētājs|maršrutētājos]].]]
+'''ARM''' ir 32 bitu [[RISC]] [[centrālais procesors|procesoru]] arhitektūra, kas tiek plaši lietota [[iegultā sistēma|iegultajās sistēmās]]. Pateicoties savām enerģijas taupīšanas īpašībām, ARM procesori dominē mobilo iekārtu tirgū, kur zems enerģijas patēriņš ir ļoti svarīgs.
+
+Mūsdienās ARM arhitektūras procesori aizņem vairāk nekā 75 procentos no iegulto sistēmu tirgus, kas to padara par vienu no ienesīgākajām 32 bitu procesoru arhitektūrām. ARM procesorus var atrast visa veida elektroniskās iekārtās, sākot ar pārnēsājamām iekārtām (piemēram, [[Plaukstdators|plaukstdatori]], [[mobilais telefons|mobilie telefoni]], mūzikas atskaņotāji, kalkulatori) un beidzot ar datoru perifērijas iekārtām (piemēram, [[cietais disks|cietie diski]], [[maršrutētājs|maršrutētāji]]). Svarīgi ARM arhitektūras atzari ir [[Intel XScale]] un [[Texas Instruments OMAP]].
+
+== Vēsture ==
+ARM izstrāde aizsākās [[1983]]. gadā, kad [[Acorn Computers Ltd.]] izstrādes komanda, ko vadīja [[Rodžers Vilsons]] un [[Stīvs Furbers]], sāka darbu, lai radītu [[MOS Technology 6502]] mikroprocesora, kurš līdz tam bija pamats Acorn ražotajiem datoriem, aizstājēju.
+
+[[1985]]. gadā bija gatavs pirmais prototipa modelis '''''ARM1''''', bet nākamajā gadā - sērijveida modelis '''''ARM2'''''. ''ARM2'' bija 32 bitu [[datu kopne]], 26 bitu [[adrešu telpa]], kas tam ļāva adresēt līdz 64 MB atmiņas, un 16 un 32 bitu reģistri. Viens no šiem reģistriem kalpoja kā [[programmas skaitītājs]], kura augšējie seši un apakšējie divi biti saturēja procesora statusa karodziņus. ''ARM2 bija'', iespējams, visvienkāršākais lietojamais 32 bitu procesors, kas sastāvēja no 30 tūkstošiem tranzistoru (salīdzināšanai, ''[[Motorola]]'' sešus gadus vecākais ''[[Motorola 68000|68000]]'' sastāvēja no aptuveni 70 tūkstošiem tranzistoru). Vienkāršība tika iegūta, pateicoties [[mikrokods|mikrokoda]] (kas sastāda aptuveni ceturto vai pat trešo daļu no ''68000'' shēmas) neesamībai, kā arī, līdzīgi vairumam tā laika procesoru, [[kešatmiņa]]s neesamībai. Vienkāršība noveda arī pie zema enerģijas patēriņa, kas bija pat zemāks par 16 bitu ''[[Intel 80286]]''. ''ARM2'' pēctecī '''''ARM3''''' jau tika iekļauta 4 KB kešatmiņa, kas uzlaboja veiktspēju.
+
+1980. gadu beigās kopā ar Acorn darbu pie ARM attīstīšanas uzsāka arī [[Apple Computer]]. Tas bija tik nozīmīgi, ka Acorn atdalīja ARM izstrādes komandu un [[1990]]. gadā nodibināja meitasuzņēmumu [[Advanced RISC Machines Ltd.]]. Šī iemesla dēļ ARM tiek bieži vien tulkots kā '''Advanced RISC Machine''' (''Attīstītā RISC mašīna''), nevis '''Acorn RISC Machine''' (''Acorn RISC mašīna''). [[1998]]. gadā Advanced RISC Machines pārtapa par ARM Ltd., kad mātes uzņēmums [[ARM Holdings plc]] sāka akciju kotēšanu [[Londonas Fondu birža|Londonas Fondu biržā]] un [[NASDAQ]].
+
+Acorn un Apple kopīgais darbs noveda pie '''ARM6'''. Pirmie modeļi tika izlaisti [[1991]]. gadā un Apple izmantoja uz ARM6 balstīto ARM 610 savos [[Apple Newton]] [[plaukstdators|plaukstdatoros]]. [[1994]]. gadā Acron ņēma ARM6 par pamatu saviem [[Risc PC]] datoriem.
+
+Neskatoties uz dažādiem pilnveidojumiem, kodols nekļuva īpaši lielāks un sarežģītāks. Ja ARM2 sastāvēja no 30 tūkstošiem tranzistoru, tad ARM6 - no 35 tūkstošiem.
+
+== Kodoli ==
+
+{| class="wikitable" width="100%"
+! Saime
+! Arhitektūra
+! Kodols
+! Īpašības
+! Kešatmiņa (I/D)/[[MMU]]
+! Tipiskais [[Miljons instrukciju sekundē|MIPS]] @ MHz
+! Pielietojums
+|-
+!|ARM1
+|ARMv1
+|ARM1
+|
+|nav
+|
+|
+|-
+!|ARM2
+|ARMv2
+|ARM2
+|Pievienota MUL (reizināšanas) instrukcija.
+|nav
+|4 MIPS @ 8MHz
+|[[Acorn Archimedes]], [[Chessmachine]]
+|-
+|
+|ARMv2a
+|ARM250
+|Integrēts MEMC (MMU), grafika un [[Ievade/izvade|ievades/izvades]] procesors. Pievienotas SWP un SWPB instrukcijas.
+|nav, MEMC1a
+|7 MIPS @ 12MHz
+|[[Acorn Archimedes]]
+|-
+!|ARM3
+|ARMv2a
+|ARM2a
+|Pirmais ARM ar procesora kešatmiņu.
+|4K unificēta
+|12 MIPS @ 25MHz
+|[[Acorn Archimedes]]
+|-
+!|ARM6
+|ARMv3
+|ARM610
+|Pirmais ARM procesors, kas varēja adresēt 32 bitus (4 GB) atmiņas (pretstatā 26 bitiem).
+|4K unificēta
+|28 MIPS @ 33MHz
+|[[Risc PC|Acorn Risc PC 600]], [[Apple Newton]]
+|-
+![[ARM7TDMI]]
+|ARMv4T
+|ARM7TDMI(-S)
+|Trīs posmu konveijers
+|nav
+|15 MIPS @ 16.8 MHz
+|[[Game Boy Advance]], [[Nintendo DS]], [[iPod]]
+|-
+|
+|
+|ARM710T
+|
+|8KB unificēta, MMU
+|36 MIPS @ 40 MHz
+|[[Risc PC|Acorn Risc PC 700]], [[Psion 5]], [[eMate 300|Apple eMate 300]]
+|-
+|
+|
+|ARM720T
+|
+|8KB unificēta, MMU
+|60 MIPS @ 59.8 MHz
+|[[Zipit]]
+|-
+|
+|
+|ARM740T
+|
+|MPU
+|
+|
+|-
+|
+|ARMv5TEJ
+|ARM7EJ-S
+|Jazelle DBX
+|nav
+|
+|
+|-
+!ARM9TDMI
+|ARMv4T
+|ARM9TDMI
+|Piecu posmu konveijers
+|nav
+|
+|
+|-
+|
+|
+|ARM920T 
+|
+|16KB/16KB, MMU
+|200 MIPS @ 180 MHz
+|[[Armadillo CPU Boards|Armadillo]], [[GP32]],[[GP2X]] (pirmais kodols), [[Tapwave Zodiac]] ([[Motorola]] i. MX1)
+|-
+|
+|
+|ARM922T 
+|
+|8KB/8KB, MMU
+|
+|
+|-
+|
+|
+|ARM940T
+|
+|4KB/4KB, MPU
+|
+|[[GP2X]] (otrais kodols)
+|-
+![[ARM9E]]
+|ARMv5TE
+|ARM946E-S
+|
+|dažādi, MPU
+|
+|[[Nintendo DS]], [[Nokia]] [[N-Gage]] Conexant 802.11 čipi
+|-
+|
+|
+|ARM966E-S
+|
+|nav, TOM
+|
+|
+ST Micro STR91xF, iekļauts Ethernet [https://web.archive.org/web/20070210162600/http://mcu.st.com/mcu/modules.php?name=mcu&file=devicedocs&DEV=STR912FW44&FAM=101]
+|-
+|
+|
+|ARM968E-S
+|
+|nav, TCMs
+|
+|
+|-
+|
+|ARMv5TEJ
+|ARM926EJ-S 
+|Jazelle DBX
+|dažādi, TCMs, MMU
+|220 MIPS @ 200 MHz
+|Mobilie telefoni: [[Sony Ericsson]] (K, W sērijas),[[Siemens AG|Siemens]] un [[Benq]] (x65 sērijas un jaunāki)
+|-
+|
+|ARMv5TE
+|ARM996HS
+|Bezpulksteņa procesors
+|nav, TCMs, MPU
+|
+|
+|-
+!ARM10E
+|ARMv5TE
+|ARM1020E
+|(VFP), Sešu posmu konveijers
+|32KB/32KB, MMU
+|
+|
+|-
+|
+|
+|ARM1022E
+|(VFP)
+|16KB/16KB, MMU
+|
+|
+|-
+|
+|ARMv5TEJ
+|ARM1026EJ-S
+|Jazelle DBX
+|dažādi, MMU vai MPU
+|
+|
+|-
+![[XScale]]
+|ARMv5TE
+|80200/IOP310/IOP315
+|Ievades/izvades procesors
+|
+|
+|
+|-
+|
+|
+|80219
+|
+|
+|400/600MHz
+|[[Thecus]] N2100
+|-
+|
+|
+|IOP321
+|
+|
+|600 [[BogoMips]] @ 600 MHz
+|[[Iyonix]]
+|-
+|
+|
+|IOP33x
+|
+|
+|
+|
+|-
+|
+|
+|IOP34x
+|1-2 kodoli, RAID akselerācija
+|32K/32K L1, 512K L2, MMU
+|
+|
+|-
+|
+|
+|PXA210/PXA250
+|Lietotņu procesors, septiņu posmu konveijers
+|
+|
+| [[Zaurus]] SL-5600
+|-
+|
+|
+|PXA255
+|
+|32KB/32KB, MMU
+|400 [[BogoMips]] @ 400 MHz
+|[[Gumstix]], [[Palm Tungsten]] E2
+|-
+|
+|
+|PXA26x
+|
+|
+|līdz 400 MHz
+|[[Palm Tungsten T3]]
+|-
+|
+|
+|PXA27x
+|
+|
+|800 MIPS @ 624 MHz
+|[[High Tech Computer Corporation|HTC]] Universal, [[Zaurus]] SL-C1000,3000,3100,3200
+|-
+|
+|
+|PXA800(E)F
+|
+|
+|
+|
+|-
+|
+|
+|Monahans
+|
+|
+|1000 MIPS @ 1.25 GHz
+|
+|-
+|
+|
+|PXA900
+|
+|
+|
+|Blackberry 8700, Blackberry Pearl (8100)
+|-
+|
+|
+|IXC1100
+|Control Plane Processor
+|
+|
+|
+|-
+|
+|
+|IXP2400/IXP2800
+|
+|
+|
+|
+|-
+|
+|
+|IXP2850
+|
+|
+|
+|
+|-
+|
+|
+|IXP2325/IXP2350
+|
+|
+|
+|
+|-
+|
+|
+|IXP42x
+|
+|
+|
+|[[NSLU2]]
+|-
+|
+|
+|IXP460/IXP465
+|
+|
+|
+|
+|-
+!ARM11
+|ARMv6
+|ARM1136J(F)-S
+|SIMD, Jazelle DBX, (VFP), astoņu posmu konveijers
+|dažādi, MMU
+|?? @ 532-665MHz (i.MX31 SoC)
+|[[Nokia N93]], [[Zune]]
+|-
+|
+|ARMv6T2
+|ARM1156T2(F)-S
+|SIMD, Thumb-2, (VFP), deviņu posmu konveijers
+|dažādi, MPU
+|
+|
+|-
+|
+|ARMv6KZ
+|ARM1176JZ(F)-S
+|SIMD, Jazelle DBX, (VFP)
+|dažādi, MMU+TrustZone
+|
+|
+|-
+|
+|ARMv6K
+|ARM11 MPCore
+|1-4 kodolu SMP, SIMD, Jazelle DBX, (VFP)
+|dažādi, MMU
+|
+|
+|-
+!Cortex
+|ARMv7-A
+|Cortex-A8
+|Lietotņu profils, VFP, NEON, Jazelle RCT, Thumb-2, Trīspadsmit posmu konveijers
+|variable (L1+L2), MMU+TrustZone
+|līdz 2000 (2.0 DMIPS/MHz ātrumā no 600 MHz līdz lielākam par 1 GHz)
+|Texas Instruments [[OMAP|OMAP3]]
+|-
+|
+|ARMv7-R
+|Cortex-R4(F)
+|Iegultais profils, (FPU)
+|dažāda lieluma kešatmiņas, opcionāls MMU
+|600 DMIPS
+|[[Broadcom]] ir lietotājs
+|-
+|
+|ARMv7-M
+|Cortex-M3
+|Mikrokontroliera profils
+|nav, (MPU)
+|120 DMIPS @ 100MHz
+|Luminary Micro[https://web.archive.org/web/20150222085427/http://www.luminarymicro.com/] mikrokontrolieru saime
+|}
+
+== Ārējās saites ==
+* [http://www.arm.com/ ARM, Ltd.]
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:ARM arhitektūra|*]]
+[[Kategorija:Mikroprocesori]]

@@ -1,0 +1,49 @@
+{{Upes infokaste
+|        nosaukums = Lina
+  | valsts            = Polija
+  | citnosaukums      = Lina
+  | citvaloda         = pl
+  | citvaloriģin      = Łyna
+  | valsts1           = Krievija
+  | citnosaukums1     = Lava
+  | citvaloda1        = ru
+  | citvaloriģin1     = Лава
+|           attēls = Łyna_(Brzeziny).jpg
+|         paraksts = Lina pie [[Olština]]s
+|            karte = Upe_Lina.png
+|  kartes_paraksts =
+|           garums = 264
+|          baseins = 7 126
+|      gada_notece = 1,3
+|           izteka = Mazūru ezeru augstienē
+|           ieteka = [[Pregoļa]] (Prēgele)
+|         tek_caur = {{POL}}<br />{{RUS}}
+| sāk_plat_d=53 | sāk_plat_m=26 | sāk_plat_s=27 | sāk_plat_NS=N 
+| sāk_gar_d=20 | sāk_gar_m=24 | sāk_gar_s=55 | sāk_gar_EW=E 
+| iet_plat_d=54 | iet_plat_m=37 | iet_plat_s=15 | iet_plat_NS=N 
+| iet_gar_d=21 | iet_gar_m=13 | iet_gar_s=35 | iet_gar_EW=E
+}}
+{{Cita nozīme|upi|vieglatlēti|Dace Lina}}
+'''Lina''' ({{val|pl|Łyna}}, {{val|ru|Лава}}, {{val|de|Alle}}) ir upe [[Polija]]s ziemeļaustrumos un [[Krievija|Krievijā]] ([[Kaļiņingradas apgabals|Kaļiņingradas apgabalā]]). [[Pregoļa]]s kreisā krasta pieteka. Sākas Mazūru ezeru augstienē. Krievijas teritorijā tek pa zemieni. Kanāls savieno ar [[Mamri ezers|Mamrija ezeru]]. Lavas un Pregoļas sateces rajonā esot atradusies seno [[prūši|prūšu]] galvenā svētnīca — [[Romuva]].{{nepieciešama atsauce}}
+
+== Pilsētas Linas krastos, sākot no iztekas ==
+
+* [[Ņidzica]] (''Nidzica'')
+* [[Olština]] (''Olsztyn'')
+* [[Dobre Mjasto]] (''Dobre Miasto'')
+* [[Lidzbarka Varmiņska]] (''Lidzbark Warmiński'')
+* [[Bartošice]] (''Bartoszyce'')
+* [[Sempopole]] (''Sępopol'')
+* [[Pravdinska]] (''Правдинск'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polija-aizmetnis}}
+{{Krievija-aizmetnis}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Krievijas upes]]
+[[Kategorija:Kaļiņingradas apgabals]]
+[[Kategorija:Pregoļas pietekas]]

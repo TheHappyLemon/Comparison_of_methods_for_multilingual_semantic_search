@@ -1,0 +1,68 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Laspalmasa de Grankanārija
+ | official_name            = ''Las Palmas de Gran Canaria''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Collage Las Palmas de Gran Canaria.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flag of Las Palmas de Gran Canaria.svg
+ | image_shield             = Escudolaspalmasgc.png
+ | shield_size              = 70px
+ | image_map                = 
+ | pushpin_map              = Spānija ar Kanāriju Salām#Kanāriju salas
+ | map_label = Laspalmasa
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 28 | latm  = 9 | lats  =  | latNS  = N
+ | longd = 15 | longm = 25 | longs =  | longEW = W
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Spānija}}'''
+ | subdivision_type1        = Autonomais novads
+ | subdivision_name1        = [[Kanāriju Salas]]
+ | subdivision_type2        = Province
+ | subdivision_name2        = [[Laspalmasas province]]
+ | subdivision_type3        = 
+ | subdivision_name3        = 
+ | established_title        = Dibināta
+ | established_date         = {{dat|1478|6|24||bez}}
+ | area_total_km2           = 100.55
+ | elevation_m              = 8
+ | population_total         = 378998
+ | population_as_of         = 2016
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Rietumeiropas laiks|WET]]
+ | utc_offset               = +0
+ | timezone_DST             = [[Rietumeiropas vasaras laiks|WEST]]
+ | utc_offset_DST           = +1
+ | website                  = {{url|http://www.laspalmasgc.es/}}
+ | footnotes                = 
+}}
+'''Laspalmasa de Grankanārija''' ({{val|es|Las Palmas de Gran Canaria}}) ir pilsēta [[Spānija]]i piederošajās [[Kanāriju salas|Kanāriju salās]], [[Grankanārija]]s salas ziemeļaustrumos.
+
+Pilsēta ir svarīga jūras osta un populārs kūrorts. Ostas rakstura dēļ pilsētas iedzīvotāju sastāvs ir visai kosmopolītisks. [[ASV|Amerikāņu]] klimatologs Vaitmors apgalvojis, ka pilsētas karstais tuksneša klimats ir patīkamākais pasaulē.<ref>{{Tīmekļa atsauce |url=http://www.monteleon-grancanaria.com/gran-canaria-weather.asp |title=The best climate in the world |access-date={{dat|2020|04|15||bez}} |archive-date={{dat|2019|09|10||bez}} |archive-url=https://web.archive.org/web/20190910155021/http://www.monteleon-grancanaria.com/gran-canaria-weather.asp }}</ref> Pazīstams ir Laspalmasas tradicionālais [[karnevāls]].
+
+Pilsētu 1478. gada 24. jūnijā dibinājis [[Spānija|spānis]] Huans Rehons (''Juan Rejón''), pārvarot vietējo iedzīvotāju - [[guanči|guanču]] pretošanos. 1492. gadā šeit piestāja [[Kristofors Kolumbs]], dodoties savā pirmajā ceļojumā uz [[Amerika|Ameriku]].
+
+== Cilvēki ==
+Laspalmasā dzimuši:
+
+* [[Havjers Bardems]] (''Javier Bardem'', dzimis 1969. gadā) - aktieris
+* [[Alfredo Krauss]] (''Alfredo Kraus'', 1927-1999) - operdziedātājs
+* [[Huans Negrins]] (''Juan Negrín'', 1887-1956) - politiķis
+* [[Benito Peress Galdoss]] (''Benito Pérez Galdós'', 1843-1920) - rakstnieks
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Spānija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kanāriju salu pilsētas]]

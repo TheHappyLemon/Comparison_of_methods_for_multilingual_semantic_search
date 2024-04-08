@@ -1,0 +1,46 @@
+{{izolēts raksts|date=2016. gada decembris}}
+'''Austrālijas Aborigēnu valodu transkripcija'''
+
+Līdz saskarsmei ar eiropiešiem, [[Austrālijas aborigēnu valodas]] bija tikai sarunvalodas, bez rakstības sistēmas. Līdz ar to Austrālijas Aborigēnu valodu transkripcijai lietoja kolonizētāju lietoto [[latīņu alfabēts|latīņu alfabētu]], bet konkrēts skaņu atspoguļojums būtiski variēja, radot ļoti dažādus pierakstus vienam un tam pašam vārdam.
+
+== Agrā rakstība ==
+Sākotnēji Austrālijas valodas pierakstīja pēc [[angļu valoda]]s pareizrakstības likumiem, kā nu rakstītājs to saklausīja. Tas noveda pie tā, ka skaņas, ko Austrālijas valodās uzskatīja par dažādām, mēdza pierakstīt kā vienu angļu valodas skaņu, un savukārt skaņu, kas Austrālijas valodās bija ar vienu nozīmi, pierakstīja kā dažādas angļu valodas skaņas - kā nu kuro reizi izklausījās.
+
+{| class=wikitable
+|+'''Austrālijas valodu transkripcija laika gaitā'''
+! Valoda
+! Nozīme
+! Agrīnās<br />rakstības
+! Mūsdienu<br />rakstība
+! Izruna ([[Starptautiskais Fonētiskais Alfabēts|SFA]])
+! Piezīmes
+|-
+| [[Guugu Yimidhirr valoda|Guugu Yimidhirr]]
+|style="text-align: center;"| ''“mēle”''
+| unjar (1770)<ref>{{Grāmatas atsauce |last=Cook |first=James |authorlink=James Cook |year=1955 |title=The Journals of Captain James Cook |location=Cambridge |publisher=Cambridge University Press}}</ref><br />ngandar (1901)<ref>{{Grāmatas atsauce |last=Roth |first=Walter E. |authorlink=Walter E. Roth |year=1901 |title=The structure of the Koko-Yimidir language |location=Brisbane |publisher=Government Printer}}</ref>
+| nganhdhaar (1979)<ref>{{Grāmatas atsauce|last=Haviland |first=John |editor=[[R. M. W. Dixon]] and B. Blake|title=Handbook of Australian Languages Vol I |year=1979 |pages=26–180 |chapter=Guugu Yimidhirr Sketch Grammar}}</ref>
+|style="text-align: center;"|ŋan̪d̪aːɻ
+| <small>Agrīnās rakstības var izlaist vārda sākumu {{IPA|[ŋ]}}, un neizšķirt līdzskaņus.</small>
+|-
+| [[Gamilaraay valoda|Gamilaraay]]
+|style="text-align: center;"| ''“medus”''
+| wuddul (1903)<ref>{{Laikraksta atsauce|last=Mathews |first=R. H. |authorlink=R. H. Mathews |year=1903 |month=Jul.–Dec. |title=Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales |journal=The Journal of the Anthropological Institute of Great Britain and Ireland |volume=33 |pages=259–283}}</ref>
+| warrul (1993)<ref>{{Grāmatas atsauce|last=Austin|first=Peter|authorlink=Peter Austin|title=A Reference Dictionary of Gamilaraay, northern New South Wales|publisher=La Trobe University|year=1993|url=http://coombs.anu.edu.au/WWWVLPages/AborigPages/LANG/GAMDICT/GAMDICT.HTM|access-date={{dat|2006|09|15||bez}}|archive-date={{dat|2011|02|28||bez}}|archive-url=https://web.archive.org/web/20110228161819/http://coombs.anu.edu.au/WWWVLPages/AborigPages/LANG/GAMDICT/GAMDICT.HTM}}</ref>
+|style="text-align: center;"| waɾul
+| <small>Agrīnās rakstības var neizšķirt {{IPA|[ɾ]}} un {{IPA|[d]}}, kas angļu valodā nav atšķirīgas skaņas.</small>
+|}
+
+Rakstītāji ar dziļākām valodniecības zināšanām reizēm lietoja '''[[ŋ]]''' vai '''[[ġ]]''' zīmes {{IPA|/ŋ/}} attēlošanai, '''[[ñ]]''' — {{IPA|/ɲ/}} attēlošanai, kā arī [[garumzīme]]s (¯) vai [[cirkumflekss|cirkumfleksus]] (^) gariem patskaņiem un [[īsuma zīme]]s (˘) īsiem patskaņiem, bet tas tika darīts nekonsistenti.
+
+== Mūsdienu praktiskā pareizrakstība ==
+Valodnieki, kas strādā ar Austrālijas valodām, lieto viennozīmīgas fonēmiskas pieraksta sistēmas, kurās katru vārdu var pierakstīt/nolasīt tikai vienā veidā. Parasti tās lieto latīņu alfabētu, lietojot divburtu kombinācijas atsevišķām skaņām.
+
+== Patskaņi un puspatskaņi ==
+Vairums Austrālijas valodu lieto tikai trīs patskaņus, ko pieraksta kā '''i''', '''a''' and '''u'''. Garos patskaņus pieraksta ar dubultburtiem - '''ii''' {{IPA|/iː/}}, '''aa''' {{IPA|/aː/}}, '''uu''' {{IPA|/uː/}}.
+
+Puspatskaņus '''w''' un '''y''' izrunā tāpat kā angļu valodā.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Valodniecība]]

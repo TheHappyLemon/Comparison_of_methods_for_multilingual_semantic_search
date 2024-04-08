@@ -1,0 +1,54 @@
+{{cita nozīme|elementu|hokejistu|Ronalds Cinks}}
+{{Elementa infokaste
+ |                  tips = pārejas metāls
+ |       kārtas skaitlis = 30
+ |              1. čaula = 2
+ |              2. čaula = 8
+ |              3. čaula = 18
+ |              4. čaula = 2
+ |               simbols = Zn
+ |              atommasa = 65,38<ref name="jlab"/>
+ |    valences elektroni = [Ar]3d<sup>10</sup>4s<sup>2</sup>
+ |        tabulas attēls = [[Attēls:Zn-TableImage.svg|250px]]
+ |                attēls = [[Attēls:Zinc-sample.jpg|190px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Zink auto.jpg|130px]]<br />Cinka gabaliņi un no cinka izgatavots auto modelītis
+ |   oksidēšanas pakāpes = '''+2''', +1
+ |   elektronegativitāte = 1,65
+ |               blīvums = 7134<ref name="jlab"/>
+ |   kušanas temperatūra = 692,68 K (419,53&nbsp;°C)
+ |  viršanas temperatūra = 1180 K (907&nbsp;°C)
+ |    trīskāršais punkts = 
+ |     kritiskais punkts = 
+ |   īpatnējā pretestība = (20 °C) 5,90{{E|-8}}
+ |         skaņas ātrums = 3850
+ | Van der Vālsa rādiuss = 0,139
+}}
+
+'''Cinks''' ir [[ķīmiskais elements]] ar simbolu '''Zn''' un atomskaitli 30. Tas ir zilganpelēks, [[amfotēriskums|amfotērs]] [[metāls]]. Cinks ir samērā aktīvs metāls, tāpēc dabā nav sastopams brīvā veidā. Tas reaģē ar [[skābe|skābēm]], veidojot attiecīgo skābju [[sāļi|sāļus]] un [[ūdeņradis|ūdeņradi]], un ar [[sārms|sārmiem]], veidojot [[cinkāti|cinkātus]]. Cinku iegūst, [[reducēšanās|reducējot]] [[oksīdi|oksīdu]] un [[sulfīdi|sulfīdu]] rūdas. Cinkam ir relatīvi zema viršanas temperatūra, tāpēc to iegūst, kondensējot tā [[tvaiks|tvaikus]]. Cinku lieto galvenokārt pārklājumiem (cinkotais skārds), [[sakausējums|sakausējumiem]] ([[misiņš]]) un [[elektriskā baterija|baterijām]]. Savienojumos cinkam parasti ir [[vērtība (ķīmija)|vērtība]] 2; īpašos gadījumos 1. Nelielās devās cinks ir nepieciešams [[dzīvība]]s uzturēšanai; par laimi, tas ir sastopams vairumā [[pārtikas produkts|pārtikas produktu]]. Visvairāk tas ir sastopams [[gaļa|gaļā]], [[zivis|zivīs]], [[pākšaugi|pākšaugos]] un pilngraudu [[labība]]s graudos. Īpaši bagātas ar cinku ir [[ķirbis|ķirbju]] sēklas.
+
+Cinks ir 23. visbiežāk sastopamais ķīmiskais elements [[Zemes garoza|Zemes garozā]].<ref name="USGS2"/> Tas ir nedaudz mazāk par 0,02% no Zemes garozas masas.<ref name="wiki.answers"/> Dabiskais cinks sastāv no četriem stabiliem [[izotops|izotopiem]] — cinka-64 (48,63% no kopējā daudzuma dabā), cinka-65 (27,90%), cinka-67 (4,10%) un cinka-68 (18,75%).<ref name="jlab2"/> Atlikušos 0,62% no dabā sastopamā cinka veido [[radioaktivitāte|radioaktīvais]] cinks-70, kura [[pussabrukšanas periods]] ir lielāks par 5{{E|14}} gadiem.<ref name="jlab2"/>
+
+2010. gadā visvairāk cinka tika iegūts [[Ķīna|Ķīnā]] (3,5 miljoni tonnu), [[Peru]] (1,52 miljoni), [[Austrālija|Austrālijā]] (1,45 miljoni), [[Indija|Indijā]] (0,75 miljoni) un [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] (0,72 miljoni).<ref name="USGS1"/>
+
+== Atsauces ==
+{{commonscat|Zinc|cinks}}
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/ele030.html | title= Zinc | publisher= Jefferson Lab | accessdate= 2011-08-07 | language= angliski}}</ref>
+<ref name="jlab2">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso030.html | title= Isotopes of the Element Zinc | publisher= Jefferson Lab | accessdate= 2011-08-13 | language= angliski}}</ref>
+<ref name="USGS1">{{tīmekļa atsauce | last= Tolcin |first= A. C. | year= 2011i | url= http://minerals.usgs.gov/minerals/pubs/commodity/zinc/mcs-2011-zinc.pdf | publisher= United States Geological Survey | accessdate= 2011-06-06 | title= Mineral Commodity Summaries 2009: Zinc | language= anglisk}}</ref>
+<ref name="USGS2">{{tīmekļa atsauce | url= http://minerals.usgs.gov/minerals/pubs/commodity/zinc/ | title= Zinc: Stastitics and Information | publisher= United States Geological Survey | accessdate= 2011-11-03 | language= angliski}}</ref>
+<ref name="wiki.answers">{{tīmekļa atsauce | url= http://wiki.answers.com/Q/What_percentage_of_zinc_in_earths_crust | title= What percentage of zinc in earths crust? | publisher= wiki.answers.com | accessdate= 2011-11-03 | language= angliski }}{{Novecojusi saite}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]
+[[Kategorija:Cinks]]

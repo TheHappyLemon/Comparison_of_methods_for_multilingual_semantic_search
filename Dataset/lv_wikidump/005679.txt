@@ -1,0 +1,20 @@
+[[Attēls:Tux.svg|thumb|200px|right|Tukss]]
+
+'''Tukss''' ({{val|en|Tux}}) ir oficiālais ''[[Linux]]'' talismans.
+
+== Vēsture ==
+[[1996]]. gada sākumā [[Linux|''Linux'' kodola]] vēstkopā vairāki cilvēki sprieda par piemērotu ''Linux'' logo/talismanu. Tika piedāvāti dažādi varianti, sākot ar citu operētājsistēmu logo parodijām un beidzot ar haizivīm vai lāčiem. Tad vienā brīdī Linux kodola tēvs [[Līnuss Tūrvaldss]] ieminējās, ka viņam tīri labi patīkot [[pingvīns|pingvīni]].
+
+Tālākās diskusijas gaitā, pēc vairākām neveiksmīgām pingvīna versjām, Līnuss ieteica uzzīmēt vienkāršu, omulīgu un ar dzīvi apmierinātu pingvīnu. Vēlāk vienu šādu pingvīnu ar [[GIMP]] grafikas programmas palīdzību uzzīmēja [[Larijs Evings]] un deva visai pasaulei tiesības to tālāk brīvi izmantot un modificēt, vajadzības gadījumā norādot atsauci uz viņu kā sākotnējo autoru un GIMP kā izstrādes vidi.
+
+== Kāpēc tieši pingvīns? ==
+Patiesībā nav nekāda īpaša iemesla, kāpēc tieši pingvīns. Kā teica Līnuss, tad logo nav obligāti jānozīmē kaut kas konkrēts, svarīgas ir tā radītās asociācijas. Pingvīns kā logo/talismans sniedz lielāku radošo brīvību cilvēkiem, kas darbojas ar dažādām linuksīgām lietām. Var veidot dažādas pingvīnu bildes modifikācijas, bet cilvēki tāpat atpazīs to kā ''Linux''. Abstrakti logo, kas neko neizsaka, nedod šādu brīvību.
+
+Ir tāda leģenda, ka kāda zoodārza apmeklējuma laikā Līnusu esot sakodis kāds negants pingvīns. Kopš tā laika Līnuss slimojot ar “pingvinītu”. “Pingvinīts” ir tāda maz zināma slimība, kuras slimnieki pa naktīm nevar gulēt, jo viņiem visu laiku ir jādomā par pingvīniem un jāciena tie. “Pingvinīts”, bez šaubām, ir izdomāts, bet Līnusu patiešām reiz sakoda kāds aptuveni 15 cm liels pingvīniņš.
+
+''Linux'' pingvīnu angliski sauc par ''TUX'', šo vārdu kopējā diskusijā ieveda Džeimss Hagiss, paskaidrojot to kā ''(T)orvolds (U)ni(X) --> TUX'' ('''T'''orvalda '''U'''ni'''X''').
+
+== Ārējās saites ==
+* [http://sjbaker.org/tux/index.html A Complete History of Tux] By Steve Baker {{angliski}}
+
+[[Kategorija:Linux]]

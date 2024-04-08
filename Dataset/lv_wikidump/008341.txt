@@ -1,0 +1,297 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Siņdzjanas Uiguru<br/>autonomais reģions
+| official_name           = 新疆维吾尔自治区<br />{{ara|شىنجاڭ ئۇيغۇر ئاپتونوم رايونى‎}}
+| settlement_type         = Ķīnas autonomais reģions
+| image_skyline           = 
+| imagesize               = 
+| image_caption           = 
+| image_flag              = 
+| image_shield            = 
+| capital                 = [[Urumči]]
+| largest_city            = 
+| official_language       = 
+| spoken_language         = 
+| image_map               = Xinjiang in China (de-facto).svg
+| mapsize                 = 
+| map_caption             = Siņdzjanas Uiguru autonomā reģiona atrašanās vieta Ķīnā
+| subdivision_type        = Valsts
+| subdivision_name        = {{CHN}}
+| established_title       = Dibināts
+| established_date        = {{dat|1955|10|1}}
+| government_footnotes    = 
+| government_type         = 
+| governing_body          = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 1664900
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_rank               = 
+| elevation_max_m         = 
+| elevation_min_m         = 
+| population_footnotes    = 
+| population_total        = 21813334
+| population_as_of        = 2010
+| population_rank         = 
+| population_density_km2  = auto
+| timezone                = UTC
+| utc_offset              = +8
+| timezone_DST            = 
+| utc_offset_DST          = 
+| website                 = {{URL|http://www.xinjiang.gov.cn/}}
+| footnotes               = 
+}}
+'''Siņdzjana''' ({{val|zh|新疆}}, ''Xīnjiāng'') vai '''Šindžana''' ({{val|ug|شىنجاڭ}}, ''Shinjang''), pilns nosaukums — '''Siņdzjanas Uiguru autonomais reģions''' ({{val|zh|新疆维吾尔自治区 |t=新疆維吾爾自治區}}, ''Xīnjiāng Wéiwú'ěr Zìzhìqū''; {{val|ug|شىنجاڭ ئۇيغۇر ئاپتونوم رايونى}}, ''Shinjang Uyghur Aptonom Rayoni''), ir viena no [[Ķīnas Tautas Republika]]s piecām nacionālajām mazākumtautību pirmās pakāpes administratīvajām vienībām.<ref>{{PZT|638|Sindzjanas Uiguru autonomais rajons}}</ref> Tā ir plaša, reti apdzīvota teritorija, kas aizņem aptuveni sesto daļu Ķīnas valsts ziemeļrietumos. Siņdzjana robežojas ar [[Tibetas autonomais reģions|Tibetas autonomo reģionu]] dienvidos, [[Cjinhai]] un [[Gaņsu]] provincēm dienvidaustrumos, [[Mongolija|Mongoliju]] ziemeļaustrumos, [[Krievija|Krievijas Federāciju]] ziemeļos, [[Kazahstāna|Kazahstānu]], [[Kirgizstāna|Kirgizstānu]], [[Tadžikistāna|Tadžikistānu]] un [[Afganistāna|Afganistānu]] rietumos, [[Pakistāna|Pakistānu]] un [[Indija|Indiju]] dienvidrietumos. Reģiona galvaspilsēta un lielākā pilsēta ir [[Urumči]].
+
+21. gadsimta otrajā dekādē Ķīnas Tautas Republikas valdība [[Ķīnas komunistiskā partija|Ķīnas komunistiskās partijas]] vadībā ir ieviesusi stingru sabiedrības kontroli, kas kulminējusies ar [[Siņdzjanas pāraudzināšanas nometnes|lielas reģiona iedzīvotāju daļas ieslodzīšanu]] [[Siņdzjanas pāraudzināšanas nometnes|pāraudzināšanas nometnēs]]. Šo tendenci aktīvi kritizē [[cilvēktiesības|cilvēktiesību]] aizstāvji, apsūdzot Ķīnas valdību [[genocīds|genocīdā]].<ref>{{Tīmekļa atsauce |url= https://www.lsm.lv/raksts/zinas/arzemes/uiguru-kulturas-masveida-iznicinasana--kinas-sleptais-genocids.a337754/|title= Uiguru kultūras masveida iznīcināšana – Ķīnas slēptais genocīds|accessdate=2021-08-15 |work= |publisher= [[lsm.lv]]|date= 2019-11-17}}</ref>
+
+== Administratīvais iedalījums ==
+Siņdzjana administratīvi iedalīta 14 prefektūras līmeņa administratīvi teritoriālajās vienībās: divas prefektūras līmeņa pilsētas (reģiona centrs [[Urumči]] un [[Karamaja]]), septiņas prefektūras un piecas autonomās prefektūras, tajā skaitā [[Iles Kazahu autonomā prefektūra]], kurai pakļautas divas no septiņām prefektūrām. Prefektūras līmeņa vienības tālāk iedalītas 11 rajonos, 22 apriņķa līmeņa pilsētās, 62 apriņķos un sešos autonomajos apriņķos. Septiņas no apriņķa līmeņa pilsētām nepieder ne pie vienas no prefektūras līmeņa administratīvajām vienībām un tās faktiski pārvalda saimnieciski militāra organizācija [[Siņdzjanas Rūpniecības un būvniecības korpuss]].
+
+{| class="wikitable"  style="font-size:90%; margin:auto;"
+|-
+|+  style="font-size:105%; text-align:center; background:#bfd7ff;"| '''Siņdzjanas Uiguru autonomā reģiona pirmā līmeņa iedalījums'''
+|-
+| colspan="7" style="text-align:center;"| [[Attēls:Xinjiang prfc map2-lv.png|450px|Siņdzjanas Uiguru autonomā reģiona karte]]
+|-
+! Numurs<br/>kartē
+! style="width:210px;"| Nosaukums
+! Centrs
+! [[Uiguru valoda|Uiguru]]
+! [[Mandarīnu valoda|Ķīniešu]]
+! Iedzīvotāji (2010)
+|- style="background:lightblue;"
+| colspan="7" style="text-align:center;"|'''— Subprovinces nozīmes autonomā prefektūra —'''
+|-
+| 1
+| [[Iles Kazahu autonomā prefektūra]]
+| [[Kuldža]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|ئىلى قازاق ئاپتونوم ئوبلاستى}}</span><br>''Ili Qazaq Aptonom Oblasti''
+| <span style="font-size:125%;">伊犁哈萨克自治州</span><br>''Yīlí Hāsàkè Zìzhìzhōu''
+| 2 482 627 {{Ref label |Ili Figures|a|}}
+|- style="background:lightblue;"
+| colspan="7" style="text-align:center;"|'''— Prefektūras līmeņa pilsētas —'''
+|-
+| 2
+| [[Urumči]]
+| [[Tiaņšaņa (Urumči)|Tiaņšaņa]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|ئۈرۈمچى شەھرى}}</span><br>''Ürümchi Shehri''
+| <span style="font-size:125%;">乌鲁木齐市</span><br>''Wūlǔmùqí Shì''
+| 3 110 280
+|-
+| 3
+| [[Karamaja]]
+| Karamaja
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|قاراماي شەھرى}}</span><br>''Qaramay Shehri''
+| <span style="font-size:125%;">克拉玛依市</span><br>''Kèlāmǎyī Shì''
+| 391 008
+|- style="background:lightblue;"
+| colspan="7" style="text-align:center;"|'''— Prefektūras —'''
+|-
+| 4
+| [[Altaja prefektūra]]<br /><small>pakļauta [[Iles Kazahu autonomā prefektūra|Iles prefektūrai]]</small>
+| [[Altaja]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|ئالتاي ۋىلايىتى}}</span><br>''Altay Wilayiti''
+| <span style="font-size:125%;">阿勒泰地区</span><br>''Ālètài Dìqū''
+| 526 980
+|-
+| 5
+| [[Tarbagatajas prefektūra]]<br /><small>pakļauta [[Iles Kazahu autonomā prefektūra|Iles prefektūrai]]</small>
+| [[Čečeka]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|تارباغاتاي ۋىلايىتى}}</span><br>''Tarbaghatay Wilayiti''
+| <span style="font-size:125%;">塔城地区</span><br>''Tǎchéng Dìqū''
+| 1 219 212
+|-
+| 6
+| [[Turpanas prefektūra]]
+| [[Turpana]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|تۇرپان ۋىلايىتى}}</span><br>''Turpan Wilayiti''
+| <span style="font-size:125%;">吐鲁番地区</span><br>''Tǔlǔfān Dìqū''
+| 622 679
+|-
+| 7
+| [[Kumulas prefektūra]]
+| [[Kumula]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|قۇمۇل ۋىلايىتى}}</span><br>''Qumul Wilayiti''
+| <span style="font-size:125%;">哈密地区</span><br>''Hāmì Dìqū''
+| 572 400
+|-
+| 8
+| [[Kašgaras prefektūra]]
+| [[Kašgara]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|قەشقەر ۋىلايىتى}}</span><br>''Qeshqer Wilayiti''
+| <span style="font-size:125%;">喀什地区</span><br>''Kāshí Dìqū''
+| 3 979 362
+|-
+| 9
+| [[Aksu prefektūra]]
+| [[Aksu (Ķīna)|Aksu]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|ئاقسۇ ۋىلايىتى}}</span><br>''Aqsu Wilayiti''
+| <span style="font-size:125%;">阿克苏地区</span><br>''Ākèsū Dìqū''
+| 2 370 887
+|-
+| 10
+| [[Hotenas prefektūra]]
+| [[Hotena]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|خوتەن ۋىلايىتى}}</span><br>''Xoten Wilayiti''
+| <span style="font-size:125%;">和田地区</span><br>''Hétián Dìqū''
+| 2 014 365
+|- style="background:lightblue;"
+| colspan="7" style="text-align:center;"|'''— Autonomās prefektūras —'''
+|-
+| 11
+| [[Bortalas Mongoļu autonomā prefektūra]]
+| [[Bortala]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|بۆرتالا موڭغۇل ئاپتونوم ئوبلاستى}}</span><br>''Börtala Mongghul Aptonom Oblasti''
+| <span style="font-size:125%;">博尔塔拉蒙古自治州</span><br>''Bó'ěrtǎlā Měnggǔ Zìzhìzhōu''
+| 443 680
+|-
+| 12
+| [[Čandzji Hueju autonomā prefektūra]]
+| [[Čandzji]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|سانجى خۇيزۇ ئاپتونوم ئوبلاستى}}</span><br>''Sanji Xuyzu Aptonom Oblasti''
+| <span style="font-size:125%;">昌吉回族自治州</span><br>''Chāngjí Huízú Zìzhìzhōu''
+| 1 428 592
+|-
+| 13
+| [[Kizilsū Kirgīzu autonomā prefektūra]]
+| [[Artuša]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستى}}</span><br>''Qizilsu Qirghiz Aptonom Oblasti''
+| <span style="font-size:125%;">克孜勒苏柯尔克孜自治州</span><br>''Kèzīlèsū Kē'ěrkèzī Zìzhìzhōu''
+| 525 599
+|-
+| 14
+| [[Bajangolas Mongoļu autonomā prefektūra]]
+| [[Korla]]
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|بايىنغولىن موڭغۇل ئاپتونوم ئوبلاستى}}</span><br>''Bayingholin Mongghul Aptonom Oblasti''
+| <span style="font-size:125%;">巴音郭楞蒙古自治州</span><br>''Bāyīnguōlèng Měnggǔ Zìzhìzhōu''
+| 1 078 492
+|- style="background:lightblue;"
+| colspan="8" style="text-align:center;"|'''— Apriņķa līmeņa pilsētas  —'''<br><small>([[Siņdzjanas Rūpniecības un būvniecības korpuss|Siņdzjanas Rūpniecības un būvniecības korpusa]] tiešā pārvaldē)</small>
+|-
+| 15
+| [[Šihedzi]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|شىخەنزە شەھرى}}</span><br>''Shixenze Shehri''
+| <span style="font-size:125%;">石河子市</span><br>''Shíhézǐ Shì''
+| 635 582
+|-
+| 16
+| [[Udzjacjui]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|ئۇجاچۇ شەھرى}}</span><br>''Wujachu Shehri''
+| <span style="font-size:125%;">五家渠市</span><br>''Wǔjiāqú Shì''
+| 72 613
+|-
+| 17
+| [[Tumšuka]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|تۇمشۇق شەھرى}}</span><br>''Tumshuq Shehri''
+| <span style="font-size:125%;">图木舒克市</span><br>''Túmùshūkè Shì''
+| 147 465
+|-
+| 18
+| [[Arala]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height:170%;">{{script/Arabic|ئارال شەھرى}}</span><br>{{Unicode|Aral Shehri}}
+| <span style="font-size:125%;">阿拉尔市</span><br>Ālā'ěr Shì
+| 166 205
+|-
+| 19
+| [[Beituņa]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height:150%;">{{script/Arabic|بەيتۈن شەھىرى}}</span><br>''Beatün Shehiri''
+| <span style="font-size:125%;">北屯市</span><br>''Běitún Shì''
+| 76 300
+|-
+| 20
+| [[Tiemeņguaņa]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height: 150%;">{{script/Arabic|باشئەگىم شەھىرى}}</span><br>''Bashegym Shehiri''
+| <span style="font-size:125%;">铁门关市</span><br>''Tiĕménguān Shì''
+| 50 000
+|-
+| 21
+| [[Šuanhe]]
+| 
+| style="text-align: right;" | <span style="font-size:120%; line-height: 150%;">{{script/Arabic|قوشئۆگۈز شەھىرى}}</span><br>''Qoshögüz Shehiri''
+| <span style="font-size:125%;">双河市</span><br>''Shuānghé Shì''
+| 53 800
+|}
+::: {{smaller |{{sup|a}} {{note|Ili Figures}} Iedzīvotāju skaitā nav iekļautas pakļautās Altajas un Tarbagatajas prefektūras.}}
+
+{{atsauces+}}
+
+== Demogrāfija ==
+Siņdzjanas pamatiedzīvotāji ir uiguri un province tiek uzskatīta par Ķīnas tirdzniecības un energotirgus logu uz [[Vidusāzija|Vidusāziju]]. Reģionā ir arī bagātas gāzes un derīgo izrakteņu atradnes un auglīgas lauksaimniecības zemes.
+
+Gandrīz puse no Siņdzjanas reģiona 20 miljonus lielā iedzīvotāju kopskaita joprojām ir [[uiguri]], tomēr reģionā tiek iepludināts aizvien lielāks [[haņi|etnisko ķīniešu]] skaits. Ja 1949. gadā ķīniešu īpatsvars Siņdzjanā bija seši procenti, tad šobrīd tas jau pārsniedzis 40%. Lielākā daļa uiguru ir musulmaņi un rakstībā viņi izmanto arābu alfabētu. Reģiona ietvaros izveidotas vairākas otrās un trešās pakāpes nacionālās autonomijas [[kazahi]]em, [[kirgīzi]]em, [[mongoļi]]em, [[hueji]]em, [[pamirieši]]em un citām mazākumtautībām.
+
+Siņdzjanā pagājušā gadsimta trīsdesmitajos un četrdesmitajos gados neilgus laika posmus pastāvēja uiguru valsts, kas pazīstama kā [[Austrumturkestānas Republika]]. Taču 1949. gadā tā tika varmācīgi iekļauta [[Ķīnas Tautas Republika|komunistiskās Ķīnas]] sastāvā.
+
+Uiguri apsūdz Pekinu centienos iznīdēt viņu savdabīgo kultūru, un pēdējā laikā provincē arvien biežāk uzliesmo vardarbīgi incidenti, kuros Ķīnas varasiestādes vaino uiguru separātistus un islāmistus.
+
+=== Tautības ===
+[[Attēls:Languages areas of East-Turkistan.png|thumb|300px|Valodu sadalījums Siņdzjanā]]
+[[Attēls:Xinjiang nationalities by prefecture 2000.png|thumb|300px|Dominējošā tautība Siņdzjanas prefektūrās. Zila — [[uiguri]], sarkana — [[haņi]], oranža — [[kazahi]].]]
+{| class="wikitable" border="1" style="font-size:85%"
+! align="center" colspan="3" | Siņdzjanas etniskās grupas (2000)
+|-
+! Tautība !! Skaits !! Procenti
+|-
+| [[Uiguri]] || 8 345 622|| 45,21 
+|-
+| [[Ķīnieši]] (haņi) || 7 489 919 || 40,58 
+|-
+| [[Kazahi]] ||1 245 023 || 6,74
+|-
+| [[Hueji]] || 839 837|| 4,55
+|-
+| [[Kirgīzi]] ||158 775 ||0,86
+|-
+| [[Mongoļi]] || 149 857 || 0,81
+|-
+| [[Dunsjani]] || 55 841|| 0,30
+|-
+| [[Pamirieši|«Tadžiki»]] (pamirieši) || 39 493|| 0,21
+|-
+| [[Sibe]] || 34 566|| 0,19
+|-
+| [[Mandžūri]] || 19 493||0,11 
+|-
+| [[Tudzja]] || 15 787|| 0,086
+|-
+| [[Uzbeki]] || 12 096|| 0,066
+|-
+| [[Krievi]] || 8935 || 0,048
+|-
+| [[Meo]] (hmongi) || 7006|| 0,038
+|-
+| [[Tibetieši]] || 6153|| 0,033
+|-
+| [[Džuani]] || 5642|| 0,031
+|-
+| [[Dauri]] || 5541|| 0,030
+|-
+| [[Tatāri]] || 4501|| 0,024
+|-
+| [[Salari]] || 3762 || 0,020
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ķīnas provinces}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīnas autonomie reģioni]]
+[[Kategorija:Uiguri]]

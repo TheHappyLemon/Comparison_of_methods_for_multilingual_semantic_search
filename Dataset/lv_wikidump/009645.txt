@@ -1,0 +1,6 @@
+'''MIPS''' var būt:
+* Miljons [[instrukcijas sekundē]] - procesoru ātrdarbības mērvienība
+* [[MIPS arhitektūra]] - RISC mikroprocesoru arhitektūra
+* [[MIPS Technologies]] - MIPS arhitektūras izstrādātāji
+
+{{Nozīmju atdalīšana}}

@@ -1,0 +1,96 @@
+{{Latvijas novada infokaste
+| nosaukums         = Andzeļu pagasts
+| karte             = Andzeļu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Krāslavas novads
+| centrs            = Andzeļi
+| platība           = 96,0
+| iedzīvotāji       = 531<ref>{{Tīmekļa atsauce |url=https://www.pmlp.gov.lv/lv/assets/ISPV_Pasvaldibas_iedzivotaju_skaits_2020.pdf |title=Arhivēta kopija |access-date={{dat|2020|11|10||bez}} |archive-date={{dat|2020|06|04||bez}} |archive-url=https://web.archive.org/web/20200604012003/https://www.pmlp.gov.lv/lv/assets/ISPV_Pasvaldibas_iedzivotaju_skaits_2020.pdf }} {{Webarchive|url=https://web.archive.org/web/20200604012003/https://www.pmlp.gov.lv/lv/assets/ISPV_Pasvaldibas_iedzivotaju_skaits_2020.pdf |date={{dat|2020|06|04||bez}} }}</ref>
+| iedzīvotāji_gads  = 2020
+| blīvums           = {{#expr: 531/ 96 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Andzeļu pagasts''' ir viena no [[Krāslavas novads|Krāslavas novada]] administratīvajām teritorijām tā ziemeļos. Robežojas ar sava novada [[Ezernieku pagasts|Ezernieku]], [[Dagdas pagasts|Dagdas]] un [[Andrupenes pagasts|Andrupenes]] pagastiem un [[Rēzeknes novads|Rēzeknes novada]] [[Mākoņkalna pagasts|Mākoņkalna]] un [[Kaunatas pagasts|Kaunatas]] pagastiem. Pagasta centrs atrodas [[Andzeļi|Andzeļos]]. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Bednaja gora]], [[Bondara kalns]], [[Domarišku kalns]], [[Grumušku kalni]], [[Kumačovas kalns]], [[Lipušku kalni]], [[Līpkolns]], [[Majaka kalns]], [[Visunu kolns]]
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Dauguļu upīte]], [[Klismetka]], [[Narūta]], [[Paulinka]], [[Šļakotu upe]].
+
+==== Ezeri ====
+[[Arla ezers]], [[Bedinka]], [[Beitānu ezers]], [[Bevordeits]], [[Bondarišku ezers]], [[Borauga]], [[Centra ezers]], [[Duonoklis]], [[Eglica]], [[Gaudiveits]], [[Glušaceņš]], [[Glušaks]], [[Glušņa]], [[Gostiuns]], [[Grižanku ezers]], [[Isakovas ezers]], [[Kazinka]], [[Kromančuks]], [[Lapeits]], [[Lielais Ildzis]], [[Luknojs]], [[Mamonovas ezers]], [[Mazais Iļzs]], [[Mazais Meļtiņš]], [[Meļtiņš]], [[Mihaļinas ezers]], [[Mihaļinas Glušaks]], [[Obiteļa dzirnavu dīķis]], [[Oklais ezers (Andzeļu pagasts)|Oklais ezers]], [[Pauliņu Ildzis]], [[Plaudeiša ezers]], [[Praļņica]], [[Rešetnīku ezers]], [[Rokolu ezers]], [[Rudušku ezers]], [[Rūbežu ezers]], [[Stībreiša ezers]], [[Svetļiņkijs]], [[Svoitānu ezers]], [[Svoitānu Ildzis]], [[Visunu ezers]].
+
+==== Purvi ====
+[[Garalais pūrs]], [[Kandrašu pūrs]], [[Poceva]]
+
+=== Dabas aizsardzība===
+[[Rāznas nacionālais parks]]
+
+== Vēsture ==
+1945. gadā [[Andrupenes pagasts|Andrupenes pagastā]] izveidoja Andzeļu [[ciema padome|ciema padomi]]. 1954. gadā Andzeļu ciemam pievienoja [[Rudušu ciems|Rudušu ciemu]], 1960. gadā — [[Ezernieku ciems|Ezernieku ciema]] [[padomju saimniecība]]s "Dagda" teritoriju. 1965. gadā Andzeļu ciemam pievienoja likvidētā [[Kazimirovas ciems|Kazimirovas ciema]] [[kolhozs|kolhoza]] "Krasnij partizan" teritoriju, bet Andzeļu ciema padomju saimniecības "Dagda" teritoriju pievienoja Ezernieku ciemam.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Dagdas novads|Dagdas novadā]].
+
+=== Pieminekļi ===
+Pagasta teritorijā atrodas pieci valsts nozīmes un 3 vietējās nozīmes arheoloģijas pieminekļi<ref>{{Tīmekļa atsauce|url=https://is.mantojums.lv/?id=&title=&type_group=&value_group=&dating=&address=Andze%C4%BCu+pagasts&region=2|title=Andzeļu pagasta pieminekļi|last=|first=|website=is.mantojums|access-date=2020.gada 1.decembrī|date=}}</ref>.
+
+Valsts nozīmes pieminekļi:
+* Rokoļu senkapi (Kapču kalns)
+* Kulakovas senkapi un apmetne
+* [[Jukumu Grumuškas kalns I|Jukumu Grumuškas kalns — pilskalns I]]
+*[[Jukumu Grumuškas kalns II|Jukumu Grumuškas kalns — pilskalns II]]
+* [[Dauguļu Kapču kalns|Dauguļu Kapču kalns (Gorodok)]] — pilskalns
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3660
+|1959|2408
+|1965|2011
+|1979|1244
+|1989|857
+|2000|831
+|2011|591
+|2021|455
+}}
+
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: '''[[Andzeļi]]''', [[Artjomovka]], [[Bondariški (Andzeļu pagasts)|Bondariški]], [[Froli (Andzeļu pagasts)|Froli]], [[Grižanki]], [[Klismeti]], [[Krauli]], [[Ličmurāni]], [[Mamoni]], [[Mamonova (Andzeļu pagasts)|Mamonova]], [[Murāni (Andzeļu pagasts)|Murāni]], [[Platači (Andzeļu pagasts)|Platači]], [[Rešetnīki]], [[Ruduški]], [[Sloboda (Andzeļu pagasts)|Sloboda]], [[Zigmaņi (Andzeļu pagasts)|Zigmaņi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Krāslavas novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Dagdas novads}}
+{{Krāslavas rajons}}
+{{Dagdas rajons}}
+}}
+{{DEFAULTSORT:Andzelzu pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Krāslavas novada pagasti]]
+[[Kategorija:Andzeļu pagasts]]

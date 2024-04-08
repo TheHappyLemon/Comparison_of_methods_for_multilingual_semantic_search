@@ -1,0 +1,91 @@
+{{Latvijas novada infokaste
+| nosaukums         = Lizuma pagasts
+| karte             = Lizuma pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Lizuma pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Lizuma pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Gulbenes novads
+| centrs            = Lizums
+| platība           = 107,79
+| iedzīvotāji       = 1521<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1521 / 107.79 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.lizums.lv
+| nos_vācu          = Lisohn
+| ref_vācu          =
+| nos_krievu        = Лизумская
+| ref_krievu        =
+}}
+'''Lizuma pagasts''' ir viena no [[Gulbenes novads|Gulbenes novada]] administratīvajām teritorijām tā ziemeļrietumos. Robežojas ar [[Lejasciema pagasts|Lejasciema]], [[Tirzas pagasts|Tirzas]], [[Druvienas pagasts|Druvienas]] un [[Rankas pagasts|Rankas]] pagastiem.
+
+== Daba ==
+Pagasts izvietojies [[Vidzemes augstiene]]s ziemeļaustrumu nomalē. Ziemeļu daļa atrodas [[Tālavas zemiene]]s [[Trapenes līdzenums|Trapenes līdzenumā]] un ir bagāta ar mežiem un kūdrājiem, bet dienvidu daļa — Vidzemes augstienes [[Augšgaujas pazeminājums|Augšgaujas pazeminājumā]]. Vairāki pauguri pārsniedz 150 m augstumu — [[Pereškalns]] atrodas 182,1 m vjl. Pagasta austrumu daļā netālu no Smiltenes — Gulbenes lielceļa atrodas [[Augstie kalni]] (151,4 m). Augsto kalnu meža masīvs 177 ha platībā noteikts kā dabas parks.
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Azanda]], [[Gauja]], [[Gosupe]], [[Sece]], [[Uriekste]].
+
+==== Ezeri ====
+[[Lejas dīķis]].
+
+== Vēsture ==
+[[Lizuma muiža]] sākotnēji piederēja [[Tīzenhauzeni]]em, bet vēlāk to ieguva Medums. 1629. gadā kā muižas īpašnieks minēts Antoniuss Morrie, bet 1657. gadā — Meijers. No 1781. gada muiža nonāca barona Malamas īpašumā, līdz beidzot 1836. gadā par īpašnieku kļuva [[fon Volfu dzimta]].
+
+1935. gadā [[Cēsu apriņķis|Cēsu apriņķa]] Lizuma [[pagasts|pagasta]] platība bija 119 km² un tajā dzīvoja 1791 iedzīvotājs.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Lizuma un [[Velēnas ciems|Velēnas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Lizuma ciems''' ietilpis [[Gaujienas rajons|Gaujienas]] (1949-1956) un [[Gulbenes rajons|Gulbenes]] (pēc 1956. g.) rajonos. 1951. gadā Lizuma ciemam pievienoja likvidēto Velēnas ciemu, 1960. gadā — [[Sinoles ciems|Sinoles ciema]] [[kolhozs|kolhoza]] «Spars» teritoriju, 1977. gadā — daļu likvidētā Sinoles ciema.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Lizuma pagastu kā administratīvo teritoriju iekļāva [[Gulbenes novads|Gulbenes novadā]].
+
+=== Kultūrvēsturiskie pieminekļi ===
+* Lizuma muižas kungu māja, celta 19. gadsimta vidū historisma stilā ar [[neogotika]]s stila fasādes apdari un astoņstūru torni. Iekštelpās koka apdares darbus veica Aleksandrs Knoks. Viņš darināja interjera apdari Zilajā (Mednieku) zālē, kas ir viena no greznākajām telpām pilī. 1936./37. gadā pilī iekārtota skola, kas šeit atrodas arī tagad.
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1650
+|1959|2000
+|1967|1776
+|1979|1621
+|1989|1698
+|2000|1711
+|2011|1389
+|2021|1207
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Lizums]]''' (pagasta centrs), [[Grūšļi]], [[Gužīlas]], [[Kolaņģi]], [[Velēna (ciems)|Velēna]], [[Velēnmuiža]].
+
+=== Ievērojamas personības ===
+* [[Apsīšu Jēkabs]], īstajā vārdā Jānis Jaunzemis (1858-1929), rakstnieks
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Gulbenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Gulbenes rajons}}
+{{Cēsu apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Gulbenes novada pagasti]]
+[[Kategorija:Lizuma pagasts| ]]

@@ -1,0 +1,50 @@
+[[Attēls:2004-tsunami.jpg|thumb|260px|Cunami, kas skāra [[Taizeme|Taizemi]] {{dat|2004|12|26}}.]]
+'''Cunami'''<ref>{{Grāmatas atsauce |last1=Guļevska |first1=Dainuvīte |last2=Miķelsone |first2=Aina |last3=Porīte |first3=Tamara |title=Pareizrakstības un pareizrunas rokasgrāmata |year=2002 |publisher=[[Avots (izdevniecība)|Avots]] |location=Rīga |isbn=9984-700-64-X|pages=76}}</ref> ({{val|ja|津波}} — 'ostas vilnis') ir milzu seismiski [[ūdens viļņi|jūras viļņi]], kurus galvenokārt izraisa zemūdens vai piekrastes [[zemestrīce]]s, reizēm [[vulkāns|vulkānu]] izvirdumi, zemes nogruvumi un [[noslīdenis|noslīdeņi]].<ref>Anita Biseniece. Kontinentu ģeogrāfija 7. klasei. [[Zvaigzne ABC]], 2007, 210. lpp.</ref> Var gadīties, ka tos izraisa arī liela [[meteorīts|meteorīta]] kritiens [[okeāns|okeānā]], kā arī [[kodolieroči|kodolieroču]] izmēģinājumi.
+
+Visvairāk cunami viļņu tiek reģistrēts [[Japāna|Japānā]]. Japānas vēsturē tie ir bijuši vismaz 195 reizes.
+
+Atklātā okeānā cunami vilnis izplatās ar ātrumu <math>v = \sqrt{g \cdot H}</math>, kur <math>g</math> — [[brīvās krišanas paātrinājums]], bet <math>H</math> — okeāna dziļums [[metrs|metros]]. Ja okeāns ir 4000 m (4 km) dziļš, tad tajā cunami vilnis izplatīsies ar ātrumu 200 m/s, jeb 720 km/h.
+[[Attēls:2004 Indian Ocean earthquake Maldives tsunami wave.jpg|right|260px|thumb|2004. gada 26. decembra cunami Maldivu salās]]
+
+== Etimoloģija ==
+
+Vārds ''cunami'' ir cēlies no [[japāņu valoda]]s vārda ''津波'', kas nozīmē ''ostas vilnis'' (''cu'' — osta, ''nami'' — vilnis). Šis vārds izsaka [[Zvejošana|zvejnieku]] pieredzi, kuri, būdami [[jūra|jūrā]], neko neparastu nepamana, bet, atgriežoties krastā, atrod savus [[ciems|ciemus]] milzīgu [[ūdens viļņi|viļņu]] nopostītus.
+
+== Cunami raksturojums ==
+[[Attēls:Tsunami1.JPG|thumb|Jo stāvāks krasts, jo augstāks cunami vilnis]]
+[[Attēls:Tsunami2.JPG|thumb|Jo lēzenāks krasts, jo zemāks cunami vilnis]]
+
+Cunami var sasniegt desmitiem un pat simtiem [[kilometrs|kilometru]] lielu [[platums|platumu]]. Cunami [[ātrums]] ir atkarīgs no ūdens [[dziļums|dziļuma]]. Ātrums mainās no 50 līdz 1000 kilometriem stundā. [[Sauszeme]]s tuvumā cunami [[Mehāniskā kustība|kustība]] tiek strauji bremzēta. Samazinoties ātrumam, viļņa kopējā [[enerģija]] saglabājas, tādēļ strauji palielinās tā augstums. Atklātā jūrā cunami augstums var būt no viena [[centimetrs|centimetra]] līdz 5 [[metrs|metriem]]. Precīzus cunami izmērus atklātā jūrā gan neviens vēl nav noteicis, jo no [[kuģis|kuģa]] ļoti lielus viļņus nav iespējams pamanīt — [[ūdens virsma]] paceļas un iegrimst ļoti lēni. Taču [[piekraste|piekrastē]] šo viļņu augstums var sasniegt 10 metrus, bet šauros [[līcis|līčos]] un [[upes grīva|upju grīvās]] to augstums var pārsniegt pat 50 metrus. Cunami viļņa augstums ir atkarīgs no piekrastes veida. Jo stāvāks ir [[kontinentālais šelfs]], jo straujāk pieaug viļņa augstums un jo stiprāks ir [[Trieciena spēks|trieciens]] pret [[krasts|krastu]]. Savukārt, ja pāreja no [[okeāns|okeāna]] uz sauszemi ir lēzena, viļņa augstums nav tik izteikti liels.
+
+Cunami pārvietošanos ietekmē [[okeāna dibens|okeāna dibenā]] esošie paaugstinājumi un ieplakas — tie nosaka, vai vilnis izplatās vienā noteiktā [[virziens|virzienā]], sadalās vairākos atsevišķos viļņos vai maina kustības virzienu.
+
+Atkarībā no krastu formas cunami izpaužas kā spēcīgs [[Plūdmaiņas|paisums]], milzīgs [[ūdens virpulis]] vai augsta [[ūdens siena]]. Pasaulē augstākais reģistrētais cunami tika novērots 1958. gadā kādā Aļaskas līcī, kad zemestrīces rezultātā milzīgs klints gabals iekrita ūdenī, radot 520 m augstu vilni.{{fact}}
+
+== Cunami brīdinājuma sistēmas ==
+{{pamatraksts|Cunami brīdinājuma sistēma}}
+
+[[Klusais okeāns|Klusajā]] un [[Indijas okeāns|Indijas okeānā]] ANO [[Starptautiskā Okeanogrāfijas komisija]]s vadībā zinātnieki ir izveidojuši [[cunami brīdinājuma sistēma]]s, kuru galvenais uzdevums ir laikus informēt piekrastē dzīvojošos [[iedzīvotāji|iedzīvotājus]]
+
+Lai varētu sagatavot detalizētus [[brīdinājums|brīdinājumus]] apdraudēto [[teritorija|teritoriju]] iedzīvotājiem, [[Zinātnieks|pētnieki]] sākuši izstādāt cunami [[datorsimulācija]]s. Datus par [[seismiskie mērījumi|seismiskajos mērījumos]] reģistrētu [[zemestrīce|zemestrīci]] un par okeāna dibena topogrāfiju ievada [[dators|datorā]]. Pēc šīs [[informācija]]s apstrādes dators izskaitļo cunami ātrumu un kustības virzienu. Agrāk cunami simulācijai atklātā [[ūdenstilpe|ūdenstilpē]] bija vajadzīgi vairāki [[mēnesis|mēneši]], tagad tā paveicama dažu [[stunda|stundu]] laikā. Šādu [[Pētniecība|pētījumu]] mērķis ir noteikt vietas, ko varētu skart cunami, tādējādi būtu iespējams novērst [[katastrofa|katastrofu]]. Vēl grūtāk ir [[prognoze|prognozēt]] iespējamo cunami uzvedību, viļņiem sasniedzot krastu. Šajā jomā papildināt [[zināšanas]] palīdz [[2004. gada Indijas okeāna zemestrīce|Āzijas cunami]] nodarīto [[postījumi|postījumu]] novērtējums. Izanalizējot [[situācija|situāciju]], ir iespējams noteikt viļņu skaitu, augstumu un kustības ātrumu.<ref>"Zinātnieki brīdinās par zemestrīcēm un cunami" — Ilustrētā Zinātne, 2005. gada decembra numurs, 27.lpp.</ref>
+
+== Postošākie cunami ==
+* cunami, kurš izcēlās [[Unimaka|Unimakā]], [[Aļaska|Aļaskā]] un tas skāra arī [[Havaju salas]] ({{Dat|1946|4|1}}, aptuveni 2000 [[upuri|upuru]])
+* [[Aļaskas cunami]] ({{Dat|1964|3|27}}, aptuveni 100 upuru)
+* Āzijas cunami ({{Dat|2004|12|26}}, aptuveni 285 000 upuru)
+
+== Skatīt arī ==
+* [[Cunami brīdinājuma sistēma]]
+* [[Zemestrīce]]
+* [[Zemūdens zemestrīce]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.tvnet.lv/zala_zeme/daba/369520-kas_ir_cunami Kas ir cunami?], [[tvnet.lv]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Cunami| ]]

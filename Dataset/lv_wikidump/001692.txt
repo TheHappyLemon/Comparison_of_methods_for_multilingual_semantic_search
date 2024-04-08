@@ -1,0 +1,50 @@
+{{Apdzīvotas vietas infokaste
+|official_name          = Mustvē
+|native_name            = ''Mustvee''
+|image_flag             = Flag of Mustvee, Jõgeva County, Estonia.svg
+|image_shield           = Mustvee vapp.gif
+|shield_size            = 75px
+|flag_size              = 125px
+|subdivision_name1      = [[Attēls:Jõgevamaa lipp.svg|20px]] [[Jegevas apriņķis]]
+|leader_name            = 
+|area_total_km2         = 5.45
+|population_total       = 1348
+|population_footnotes   = 
+|population_as_of       = 2014
+|population_density_km2 = auto
+| latd  = 58|latm  = 50|lats  = 56|latNS  = N
+| longd = 26|longm = 56|longs = 37|longEW = E
+|image_skyline          = Kirche Mustvee.jpg
+|imagesize              = 
+|image_caption          = Svētās Trīsvienības baznīca Mustvē
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+|subdivision_name       = {{EST}}
+|subdivision_type1      = [[Igaunijas apriņķi|Apriņkis]]
+|timezone               = [[Austrumeiropas laiks|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Austrumeiropas vasaras laiks|EEST]]
+|utc_offset_DST         = +3
+|website                = [http://www.mustveelv.ee/ www.mustveelv.ee/]
+|established_title      = Pilsētas tiesības
+|established_date       = no [[1938]]. gada
+|pushpin_map            = Estonia
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 280
+|pushpin_map_caption    = Atrašanās vieta Igaunijā
+|other_name             = 
+|}}
+[[Attēls:Drone video of Lake Peipus and Mustvee town in Estonia (July 2022).webm|thumb|Mustvē video no drona, 2022]]
+'''Mustvē''' ({{val|et|Mustvee}}) ir pilsēta un pašvaldība [[Igaunija]]s austrumos, [[Jegevas apriņķis|Jegevas apriņķī]] pie [[Peipusa ezers|Peipusa ezera]]. Pilsētā ir vairāk nekā 1300 iedzīvotāju no kuriem puse ir [[igauņi]], puse — [[krievi]]. Attālums līdz [[Tallina]]i — 174 km.
+
+== Vēsture ==
+Nosaukums Mustvē rakstos pirmo reizi minēts 1343. gadā. 17. gadsimtā pilsētā apmetās daudzi [[vecticībnieki]], kuri bēga no vajāšanām dzimtajā [[Krievija|Krievijā]]. 19. gadsimta sākumā Mustvē bija vairāk nekā 1900 iedzīvotāji. Arī mūsdienās nozīmīgs Igaunijas vecticībnieku centrs.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120317132840/http://www.starover.ee/ru/kirikud/mustvee.html Mustvē vecticībnieku biedrība] {{ru ikona}}
+
+
+{{Igaunija-aizmetnis}}
+{{Igaunijas pilsētas}}
+
+[[Kategorija:Igaunijas pilsētas]]
+[[Kategorija:Jegevas apriņķis]]

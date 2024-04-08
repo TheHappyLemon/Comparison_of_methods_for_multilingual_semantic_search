@@ -1,0 +1,54 @@
+{{Raķete
+| nosaukums = Zenit-3SL
+| oriģ. nosaukums = Зенит-3SL
+| izgat. nosaukums = 
+| attēls = 
+| attēla paraksts = 
+| pielietojums = [[nesējraķete|Kosmiskā nesējraķete]]
+| raķešu saime = [[Zenit (nesējraķešu saime)|Zenit]]
+| raķešu grupa = 
+| valsts = [[Ukraina]] / [[Krievija]]
+| izgatavotājs = [[Južmaš]]
+| augstums = 59,6 m
+| diametrs = 3,9 m
+| masa = 462 200 kg
+| pakāpes = 3
+| LEO masa = 
+| GTO masa = 6 660 kg
+| statuss = ekspluatācijā
+| starta vietas = [[Odyssey (Sea Launch)|Odyssey]]
+| startu skaits = 24
+| veiksmīgie = 21
+| avārijas = 2
+| daļēji = 1
+| pirmais = 28.03.1999
+| pirmais pavadonis = 
+| pakāpju apraksts = 
+  {{Raķešpakāpe-augša
+  | pakāpes numurs = 1
+  | bloku skaits = 1
+  | pakāpes veidne = {{Zeņit 1. pakāpe}}
+  }}<br />{{Raķešpakāpe-augša
+  | pakāpes numurs = 2
+  | bloku skaits = 1
+  | pakāpes veidne = {{Zeņit 2. pakāpe}}
+  }}<br />{{Raķešpakāpe-augša
+  | pakāpes numurs = 3
+  | bloku skaits = 1
+  | pakāpes veidne = {{Blok DM-SL}}
+  }}
+}}
+'''Zenit-3SL''' ir [[Ukraina]]s [[Zenit (nesējraķešu saime)|Zenit]] saimes [[nesējraķete]]. Tā sastāv no trim pakāpēm. Raķeti izmanto uzņēmums [[Sea Launch]].
+
+Tiek palaista no peldošās platformas [[Odyssey (starta platforma)|Odyssey]] [[Klusais okeāns|Klusajā okeānā]] uz [[ekvators|ekvatora]].
+
+== Avārijas ==
+* {{dat|2000|3|12||bez}}
+* {{dat|2004|6|29||bez}} (daļēja)
+* {{dat|2007|1|30||bez}} — uzsprāga īsi pēc pacelšanās no peldošās platformas, sabojājot platformu
+* {{dat|2013|2|1||bez}} (ar [[Intelsat 27]]) — nepilnas minūtes laikā pēc starta pirmās pakāpes dzinējs [[RD-171]] negaidīti izslēdzās.
+
+
+{{Raket-aizmetnis}}
+
+[[Kategorija:Zeņit (nesējraķetes)]]

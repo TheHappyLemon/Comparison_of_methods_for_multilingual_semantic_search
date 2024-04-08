@@ -1,0 +1,45 @@
+[[Attēls:Family watching television 1958.jpg|thumbnail|235px|Amerikāņu ģimene, kas skatās televīziju 1958. gadā]]
+'''Televīzija''' (no {{val|el|τῆλε}} (''tēle'') un {{val|la|visio}} — 'tālā redzēšana'; saīsinājumā '''TV''') jeb '''tālrāde''', ir [[telesakari|telesakaru]] sistēma vai process, lai raidītu un uztvertu kustīgus [[attēls|attēlus]] un [[skaņa|skaņu]] attālumā, izmantojot elektriskos vai elektromagnētiskos signālus. Televīzijas pārraides uztver ar [[televizors|televizoru]]. Vārds "televīzija" parasti tiek attiecināts uz vairākām lietām, taču galvenokārt apzīmē raidīšanu.
+
+Pirmo publisko televīzijas pārraidi {{dat|1926|1|23}} nodemonstrēja skotu izgudrotājs [[Džons Logijs Bērds]] (''John Logie Baird'').<ref name="Pre1935"/>
+
+== Pamatprincipi ==
+[[Gaisma]]i nokļūstot [[televīzijas kamera|televīzijas kamerā]], tā tiek sadalīta sarkanās, zaļās un zilās krāsas ([[RGB]]) komponentos, kuri veido pamatkrāsu attēlus trijās atsevišķās lampās. Lampas skenē attēlu 625 horizontālu rindu sērijās, spilgtumu katras rindas garumā pārveidojot par [[elektriskais signāls|elektrisko signālu]]. [[Sinhronizācijas signāls]] nodrošina to, ka visas trīs lampas skenē reizē, tādēļ, šos trīs signālus kombinējot, iegūst krāsu un spilgtuma datus par vienu un to pašu attēla daļu vienā un tajā pašā laikā. No šiem skenējumiem vienā sekundē tiek salikti 25 [[kadrs (televīzija)|kadri]]. Videoattēla signāli pirms pārraidīšanas tiek papildināti ar sinhronizācijas un skaņas signāliem.
+
+[[Televizors|Televizoros]] galvenokārt izmanto [[katodstaru lampa|katodstaru lampu]], kurai vienā galā ir trīs [[elektronu lielgabals|elektronu lielgabali]], bet otrā galā — ar [[luminofors|luminoforu]] pārklāts ekrāns. Katrs elektronu lielgabals izstaro [[katodstari|katodstarus]], kas skenē ekrānu ar mainīgu intensitāti atbilstoši videosignāla lielumam. Kad ekrāna luminofora svītriņām vai punktiņiem trāpa elektroni, tie izstaro sarkanu, zaļu vai zilu gaismu. Elektronu stari, skenējot [[fosforescence|fosforescējošo]] ekrānu, atveido katru pārraidīto kadru rindu pa rindai. Ātri mainīgās spīdošo luminofora punktu rindas [[acs]] apvieno kustīgā, krāsainā attēlā.
+
+== Televīziju iedalījums ==
+Mūsdienās pastāv divu veidu televīzijas tehnoloģijas — [[ciparu televīzija|ciparu]] un [[analogā televīzija]]. Parasti ar jēdzienu "televīzija" saprot analogo televīziju.{{fact}}
+
+Vēl televīziju iedala:
+* zemes apraides televīzijā (vienkārši televīzija),
+* [[kabeļtelevīzija|kabeļtelevīzijā]] (signālu pārraida caur kabeļtīklu),
+* [[pavadoņtelevīzija|pavadoņtelevīzijā]] (signālu pārraida caur [[zemes mākslīgais pavadonis|pavadoni]], lietojot ievērojami augstākas nesējfrekvences),
+* [[interneta televīzija|interneta televīzijā]] (ciparu televīzijas paveids, signāls tik nodots caur [[Internets|interneta]] tīkliem).
+
+=== Analogā televīzija ===
+{{pamatraksts|analogā televīzija}}
+[[Analogā televīzija]] ir televīzija, kur attēlu un skaņu pārraida kā [[analogs signāls|analogu signālu]], tas ir, mainot tā [[amplitūda|amplitūdu]] un/vai [[frekvence|frekvenci]]. Visas televīzijas sistēmas pirms [[ciparu televīzija]]s bija analogas. Vēl agrāk (krietni pirms [[Otrais pasaules karš|Otrā pasaules kara]]) tika lietota mehāniskā televīzija, kur attēla izvēršanai lietoja mehānismus. Analogā un ciparu televīzija pretstatā tai ir elektroniskā televīzija.
+
+=== Ciparu televīzija ===
+{{pamatraksts|ciparu televīzija}}
+Ciparu televīzija ir televīzija, kur video pārraida [[MPEG2]], [[MPEG4]] vai citādi kodētas ciparu straumes (''stream'') veidā, atšķirībā no [[analogā televīzija|analogās televīzijas]]. Ciparu signālu var izplatīt kabeļtīklos (ciparu kabeļtelevīzija), no [[Zemes mākslīgais pavadonis|pavadoņa]] (ciparu pavadoņtelevīzija) vai arī ar parasto TV raidīšanas aparatūru (ciparu virszemes televīzija). Atšķirībā no analogās televīzijas, te ir iespējams mainīt kvalitāti.
+
+== Skatīt arī ==
+* [[Televīzija Latvijā]]
+* [[Televīzijas signālu standarti]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="Pre1935">{{tīmekļa atsauce | url= http://www.tvhistory.tv/pre-1935.htm | title= Television History: Pre-1935 | publisher= www.tvhistory.tv | accessdate= 2011-09-04 | language= angliski | archive-date= 2008-03-16 | archive-url= https://web.archive.org/web/20080316063554/http://www.tvhistory.tv/pre-1935.htm }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{TV-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Televīzija| ]]

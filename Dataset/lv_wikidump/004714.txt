@@ -1,0 +1,22 @@
+'''Binārā skaitīšanas sistēma''' ir [[pozicionāls skaitļu pieraksts|pozicionāla skaitļu pieraksta sistēma]] ar bāzi 2. Tajā lieto tikai divus simbolus – visbiežāk tie ir [[cipars|cipari]] 0 un 1.
+
+Tā kā ar elektriskajiem signāliem visvienkāršāk ir darboties binārajā sistēmā (ir signāls – 1, nav signāla – 0), šo sistēmu lieto [[ciparu elektronika|ciparu elektronikā]], tostarp praktiski visos mūsdienu [[dators|datoros]]. Ciparus 0 un 1 visbiežāk sauc par [[bits|bitiem]].
+
+== Konvertēšana ==
+
+=== Binārā → decimālā ===
+
+Lai kādu binārajā skaitīšanas sistēmā pierakstītu skaitli iegūtu [[decimālā skaitīšanas sistēma|decimālajā skaitīšanas sistēmā]], tā ciparus reizina ar attiecīgajām divnieka pakāpēm, piemēram, <math>110100_2</math>:
+
+<math>\begin{matrix}
+1 & 1 & 0 & 1 & 0 & 0\\
+\ ^5 & \ ^4 & \ ^3 & \ ^2 & \ ^1 & \ ^0\end{matrix}
+= 1 \cdot 2^5 + 1 \cdot 2^4 + 0 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 0 \cdot 2^0
+= 32 + 16 + 4 = 52_{10}</math>
+
+{{matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datoru aritmētika]]
+[[Kategorija:Skaitīšanas sistēmas]]

@@ -1,0 +1,46 @@
+'''Kristalogrāfija''' (no [[grieķu valoda|grieķu]] vārdiem ''kristallon'' = auksta lāse / sasalusi lāse, šādā nozīmē ticis lietots visām caurspīdīgām cietvielām, un ''graphein'' = rakstīt) ir eksperimentāla [[zinātne]], kas pēta [[atoms|atomu]] izkārtojumu [[cietviela|cietvielā]]. Agrāk kristalogrāfiju definēja kā [[kristāls|kristālu]] zinātnisko izpēti, kas ir šaurāks jēdziens.
+Kristalogrāfija pēta arī [[simetrija]]s veidus, kādus vielā var veidot atomu izkārtojumi.
+
+== Pētījumu metodes ==
+Agrāk, pirms [[rentgena stari|rentgena staru]] [[difrakcija]]s metožu attīstības kristālus pētīja tikai balstoties uz to ārējo [[ģeometrija|ģeometriju]]. Tika mērīti kristāla [[šķautne|šķautņu]] leņķi attiecībā pret teorētiskajām atskaites [[kristalogrāfiskā ass|kristalogrāfiskajām asīm]] un noteikta pētāmā kristāla [[simetrija]]. Šos pētījumus veic ar īpašu iekārtu - [[goniometrs|goniometru]]. Katras kristāla šķautnes pozīcija trīsdimensiju telpā tiek kartēta ar īpaša stereogrāfiskā tīkla, piemēram, [[Volfa tīkls|Volfa tīkla]] vai [[Lamberta tīkls|Lamberta tīkla]] palīdzību, atliekot uz šī tīkla kristāla šķautņu [[pols (kristalogrāfija)|polus]]. Katram tīklā atliktajam punktam tika piešķirts tā [[Millera indekss]]. Pabeigtā kristāla šķautņu polu kartēšana ļauj noteikt kristāla simetriju.
+
+Mūsdienās plaši tiek pielietotas difrakcijas metodes, pētot ainu, kas rodas tad, kad kristāla paraugs tiek apstarots ar noteikta veida [[stars|staru]]. Šim staram nav noteikti jābūt [[elektromagnētiskais starojums|elektromagnētiskajam starojumam]], tomēr visbiežāk tiek izmantoti rentgena stari. Atsevišķos gadījumos tiek lietoti arī [[elektrons|elektroni]] vai [[neitrons|neitroni]]. Kristalogrāfi mēdz skaidri norādīt pētījumu metodē izmantoto staru veidu, piemēram, sakot, ka pētījumiem tika izmantota '''[[rentgena staru difrakcija]]''', '''[[neitronu difrakcija]]''' un '''[[elektronu difrakcija]]'''.
+
+Trīs uzskaitītie starojuma tipi ar kristāla paraugu mijiedarbojas dažādā veidā. Rentgena stari mijiedarbojas ar valento elektronu telpisko izkliedi. Elektroni ir lādētas daļiņas un ar to palīdzību var noteikt lādiņa sadalījumu [[atoma kodols|atoma kodolā]] un apkārtējos elektronos. Savukārt neitronus ietekmē atoma [[magnētiskais lauks]].
+
+Diemžēl kristālu atomārās uzbūves pētīšanai nevar lietot [[optiskais spektrs|optiskā spektra]] gaismu - šāda starojuma viļņa garums ir pārāk liels salīdzinājumā ar atoma saišu garumu un pašiem atomiem. Tāpēc kristālu izpētei tiek lietoti starojuma veidi ar pēc iespējas īsāku viļņa garumu - piemēram, rentgena stari. Līdz ar to vairs netiek lietoti [[mikroskops|mikroskopi]] un netiek arī iegūti atomu attēli ierastajā vārda "attēls" izpratnē.
+
+Pateicoties tam, ka kristāliem raksturīga stingra un cikliska atomu kārtība, kristāli ir ideāls materiāls cietvielas struktūras izpētei. Ja viens rentgena staru [[fotons]] atstarotos no viena elektrona, to nebūtu iespējams fiksēt. Taču daudzu rentgena staru fotonu atstarošanās no daudzu precīzi izkārtotā sistēmā novietotu atomu elektronu mākoņiem rada pietiekami spēcīgu signālu, ko ir iespējams fiksēt.
+
+== Praktiskais pielietojums ==
+
+Kristalogrāfijas atziņas gūst reālu pielietojumu [[materiālu zinātne|materiālu zinātnē]] un [[ģeoloģija|ģeoloģijā]], jo sevišķi [[mineraloģija|mineraloģijā]], kā arī [[bioloģija|bioloģijā]].
+
+Kristālu ārējā forma ataino šī kristāla atomāro struktūru - šī atomārā struktūra lielā mērā nosaka materiāla fizikālās īpašības. Fizikālās īpašības lielā mērā nosaka arī raksturīgie [[kristāla defekts|kristāla defekti]] - un ir nepieciešama padziļināta izpratne par kristāla uzbūvi, lai izprastu šo defektu dabu.
+
+Lielākā daļa materiālu fizikālo īpašību ir saistītas ar kristālu uzbūvi. Piemēram, [[māls|māla]] [[frakcija]]s nogulumi mēdz veidot struktūras, kas sastāv no ļoti plāniem slānīšiem. Mālu viegli deformēt, jo šīs plātnītes viegli nobīdās attiecībā viena pret otru, tai pat laikā saglabājot stingru saikni plaknē, kas perpendikulāra šiem slānīšiem. Šādu materiāla uzvedību var pētīt tieši ar kristalogrāfiskiem tekstūras mērījumiem. Cits piemērs - [[dzelzs]] kristālu [[singonija]] siltuma ietekmē var transformēties no centrētas [[kubiskā singonija|kubiskās singonijas]] uz malās centrētu kubisko singoniju. Šīs transformācijas rezultātā dzelzs atomi satuvinās un materiāla paraugs saraujas. Kristalogrāfijas metodes izmanto arī vielas fāzu satura noteikšanā dotajā materiālā.
+
+Kristalogrāfija joprojām saglabā savu lielo nozīmi arī mineraloģijā. Kristalogrāfijas metodes tiek izmantotas minerālu noteikšanā, tai skaitā jaunu minerālu identificēšanā un agrāk reģistrētu minerālu esamības atkārtotai pārbaudei.
+
+Ar kristalogrāfijas metodēm tiek pētītas arī [[organiskās vielas|organisko vielu]] [[makromolekula]]s, piemēram, [[olbaltumviela]]s, [[nukleīnskābes]], tai skaitā [[dezoksiribonukleīnskābe|DNS]] un [[ribonukleīnskābe]]s. DNS raksturīgā dubultspirāles struktūra tika atklāta pateicoties kristalogrāfiskiem datiem.
+
+== Ievērojami kristalogrāfi ==
+* [[Dons Kreigs Vilejs]]
+* [[Renē Džusts Haijī]]
+* [[Viljams Helovs Millers]]
+* [[Viljams Henrijs Bregs]]
+* [[Viljams Lourenss Bregs]]
+* [[Roberts Hūbers]]
+* [[Dorotija Krovfūta Hodžkina]]
+* [[Makss Perucs]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20060826015700/http://www.rockhounds.com/rockshop/xtal/index.html Ievads kristalogrāfijā (angliski)]
+* [https://web.archive.org/web/20080324193801/http://cst-www.nrl.navy.mil/lattice/spcgrp/ Singonijas (angliski)]
+* [https://web.archive.org/web/20060830065044/http://www.ccp14.ac.uk/ Bezmaksas kristalogrāfijas programmatūra akadēmiskām vajadzībām (angliski)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kristalogrāfija| ]]

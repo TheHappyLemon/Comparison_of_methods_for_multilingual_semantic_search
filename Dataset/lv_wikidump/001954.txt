@@ -1,0 +1,7 @@
+{{sister
+| position = {{{position|}}}
+| project  = commons
+| text     = [[Vikikrātuve|Vikikrātuvē]] par šo tēmu ir pieejami multivides faili. Skatīt: '''''[[Commons:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''''
+}}<noinclude>
+[[Kategorija:Starpviki veidnes]]
+</noinclude>

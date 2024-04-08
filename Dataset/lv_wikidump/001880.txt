@@ -1,0 +1,72 @@
+{{Elementa infokaste
+ |                 tips = sārmzemju metāls
+ |      kārtas skaitlis = 56
+ |             6. čaula = 2
+ |             5. čaula = 8
+ |             4. čaula = 18
+ |             3. čaula = 18
+ |             2. čaula = 8
+ |             1. čaula = 2
+ |              simbols = Ba
+ |             atommasa = 137,327
+ |   valences elektroni = [Xe]6s<sup>2</sup>
+ |       tabulas attēls = [[Attēls:Ba-TableImage.svg|250px]]
+ |               attēls = [[Attēls:Barium unter Argon Schutzgas Atmosphäre.jpg|220px]]<br />Bārija paraugs [[argons|argona]] aizsargatmosfērā
+ |  oksidēšanas pakāpes = '''+2'''
+ |  elektronegativitāte = 0,89
+ |              blīvums = 3510
+ |  kušanas temperatūra = 1000 K (727,2&nbsp;°C)
+ | viršanas temperatūra = 2143 K (1870&nbsp;°C)
+ | trīskāršais punkts    = 
+ | kritiskais punkts     = 
+ | īpatnējā pretestība   = 3,32{{E|-7}}
+ | skaņas ātrums         = (20 °C) 1620
+ | Van der Vālsa rādiuss = 0,268
+}}
+
+'''Bārijs''' ir [[ķīmiskais elements]] ar simbolu '''Ba''' un [[atomskaitlis|atomskaitli]] 56. Bārijs ir [[sārmzemju metāli|sārmzemju metāls]]. Bārijs ir ķīmiski aktīvs, tāpēc dabā nav sastopams brīvā veidā, bet galvenokārt [[karbonāti|karbonātu]] un [[sulfāti|sulfātu]] veidā. [[Bārija karbonāts]] un [[bārija sulfāts|sulfāts]] ir visai mazšķīstošas vielas. Bārijs [[liesma|liesmu]] iekrāso zaļā krāsā, tāpēc tā savienojumus lieto [[pirotehnika|pirotehnikā]]. Bārija sulfāts ir blīva, balta, mazšķīstoša viela, to lieto, lai absorbētu [[rentgenstari|rentgenstarus]], kā arī par baltas krāsas pigmentu. Bārijs savienojumos var būt tikai divvērtīgs.
+
+Nosaukums "bārijs" ir cēlies no [[grieķu valoda]]s vārda {{gree|βαρύς}} (''barús''), kas nozīmē "smags". Šāds nosaukums radies, jo minerāliem, kas satur bāriju parasti, ir liels [[blīvums]].
+
+{{inde|Šķīstošie bārija savienojumi ir indīgi.}}
+
+== Izotopi ==
+Dabā ir sastopami septiņi bārija [[izotops|izotopi]]: bārijs-138 (71,698% no dabā sastopamā daudzuma), bārijs-137 (11,232%), bārijs-136 (7,854%), bārijs-135 (6,592%), bārijs-134 (2,417%), bārijs-132 (0,101%) un bārijs-130 (0,106%).<ref name="jlab"/>
+
+== Iegūšana ==
+Bārijs rūpnieciski pamatā tiek iegūts no [[bārija hlorīds|bārija hlorīda]] (BaCl<sub>2</sub>). Bārijs dabā galvenokārt ir atrodams tādos minerālos kā kā [[bārija sulfāts|barītā]] (BaSO<sub>4</sub>) un [[viterīts|viterītā]] (BaCO<sub>3</sub>).<ref name="Webelements.com"/> Nozīmīgākās bārija rūdu raktuves atrodas [[Apvienotā Karaliste|Apvienotajā Karalistē]], [[Itālija|Itālijā]], [[Čehija|Čehijā]], [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] un [[Vācija|Vācijā]].<ref name="lenntech"/>
+
+== Izmantošana ==
+[[Attēls:2006 Fireworks 1.JPG|thumbnail|200px|Uguņošanā bārija nitrāts rada zaļo gaismu]]
+[[Bārija sulfāts|Bārija sulfātu]] (BaSO<sub>4</sub>) lieto par [[rentgenkontrastviela|rentgenkontrastvielu]], parasti [[gremošanas trakts|gremošanas trakta]] diagnostikai. Tā kā bārija sulfāts ir ķīmiski stabils un nešķīstošs, tas nav toksisks, atšķirībā no citiem bārija sāļiem. Bārija sulfātu lieto arī par balto pigmentu, piemēram, [[gleznošana|gleznošanā]], un [[plastmasas|plastmasu]] pildvielu.
+
+[[Bārija oksīds|Bārija oksīdu]] (BaO) lieto par [[stikls|stikla]] izejvielu, lai iegūtu stiklus ar lielu [[gaismas laušanas koeficients|gaismas laušanas koeficientu]]. Bārija oksīdu lieto arī katodu pārklāšanai dažām [[elektronu lampa|elektronu lampām]]. Tas tiek izmantots arī [[gumija]]s ražošanas procesā.
+
+[[Bārija karbonāts]] (BaCO<sub>3</sub>) tiek izmantots [[žurku inde]]s gatavošanā.
+
+[[Bārija nitrāts]] (Ba(NO<sub>3</sub>)<sub>2</sub>) [[pirotehnika|pirotehnikā]] tiek izmantots, lai [[uguņošana]]s procesā iegūtu [[zaļā krāsa|zaļo krāsu]].
+
+No bārija un [[niķelis|niķeļa]] sakausējuma izgatavo [[aizdedzes svece|aizdedzes sveču]] kontaktus.<ref name="lenntech"/>
+
+== Vēsture ==
+1774. gadā vācu izcelsmes zviedru ķīmiķis [[Kārlis Vilhelms Šēle]] no [[kaļķi]]em ieguva [[bārija oksīds|bārija oksīdu]] (BaO).<ref name="lanl"/> Bet tīrā veidā bāriju 1808. gadā [[elektrolīze]]s procesā no bārija oksīda pirmo reizi izolēja angļu ķīmiķis [[Humphry Davy|Hamfrijs Deivijs]].
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso056.html | title= Isotopes of the Element Barium | publisher= Jefferson Lab | accessdate= 2012-12-09 | language= angliski}}</ref>
+<ref name="Webelements.com">{{tīmekļa atsauce | url= http://www.webelements.com/barium/geology.html | title= Barium: geological information | publisher= Webelements.com | accessdate= 2012-12-09 | language= angliski}}</ref>
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/56.shtml | title= Barium | publisher= Los Alamos National Laboratory | accessdate= 2012-12-09 | language= angliski}}</ref>
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/ba.htm| title= Barium (Ba) | publisher= Lenntech | accessdate= 2012-12-09 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bārijs| ]]

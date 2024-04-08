@@ -1,0 +1,124 @@
+{{Basketbolista infokaste
+ |            vārds = Sandis Valters
+ |       vārds_orig = 
+ |           attēls = Sandis Valters.jpg
+ |          att_izm = 
+ |         paraksts = Sandis Valters 2011. gadā
+<!------ Personas dati ------>
+ |      pilns vārds = 
+ |           dz_dat = {{dzimšanas datums un vecums|1978|8|31}}
+ |          dz_viet = {{Vieta|PSRS|Latvijas PSR|Rīga|td=Latvija}}
+ |          mir_dat = 
+ |         mir_viet = 
+ |          tautība = [[latvietis]]
+ |           garums = {{mērv|cm=193}}
+ |            svars = {{mērv|kg=93}}
+ |              poz = [[Uzbrūkošais aizsargs]]
+ |          kar_sāk = 1994
+ |         kar_beig = 2014 
+ |             alga = 
+ |          iesauka = Sančo
+ |       vidusskola = 
+ |          koledža = 
+ |       augstskola = 
+ |     universitāte = 
+ |       izgl iest1 = 
+ |   izgl iest1_nos = 
+ |       izgl iest2 = 
+ |   izgl iest2_nos = 
+<!------ Kluba informācija ------>
+ |              kom = 
+ |           numurs = 
+ |            amats = 
+ |             līga = 
+ |          b_klubs = 
+ |           drafts = 
+ |          dr_gads = 
+ |          dr_līga = 
+ |           dr_kom = 
+<!------ Profesionālie klubi ------>
+ |         kl_sez 1 = 1994—2001
+ |          klubs 1 = {{flaga|Latvija}} [[BK Brocēni]] ([[Latvijas Basketbola Līga|LBL]])
+ |         kl_sez 2 = 2001—2003
+ |          klubs 2 = {{flaga|Latvija}} [[Rīgas "Skonto" (basketbola klubs)|Rīgas "Skonto"]] ([[Latvijas Basketbola Līga|LBL]])
+ |         kl_sez 3 = 2003—2004
+ |          klubs 3 = {{flaga|Vācija}} ''[[TBB Trier]]'' ([[Basketbola Bundeslīga|BBL]]) 
+ |         kl_sez 4 = 2004—2005
+ |          klubs 4 = {{flaga|Vācija}} ''[[TSK Wuerzburg]]'' ([[Basketbola Bundeslīga|BBL]])
+ |         kl_sez 5 = 2004—2005
+ |          klubs 5 = {{flaga|Ukraina}} [[Mariupoles "Azovmash"]] ([[Ukrainas Basketbola Superlīga|UBS]])
+ |         kl_sez 6 = 2005—2009
+ |          klubs 6 = {{flaga|Latvija}} [[ASK Rīga]] ([[Latvijas Basketbola Līga|LBL]])
+ |         kl_sez 7 = 2009—2010
+ |          klubs 7 = {{flaga|Itālija}} [[Imolas "Aget"]] ([[Itālijas Basketbola 2. līga|2. līga]])
+ |         kl_sez 8 = 2010—2012
+ |          klubs 8 = {{flaga|Latvija}} [[VEF Rīga]] ([[Latvijas Basketbola Līga|LBL]])<ref>[http://sportacentrs.com/basketbols/lbl/20012010-s_valters_pievienojas_vef Sandis Valters pievienojas VEF] [[sportacentrs.com]]</ref>
+ |         kl_sez 9 = 2012—2014
+ |          klubs 9 = {{flaga|Latvija}} [[BK Ventspils]] ([[Latvijas Basketbola Līga|LBL]])<ref>{{Tīmekļa atsauce|url=http://www.bkventspils.lv/19092012-sandis_valters_pievienojas_bk_ventspils#|title=Sandis Valters pievienojas BK "Ventspils"|date={{dat|2012|9|19||bez}}|publisher=bkventspils.lv|accessdate={{dat|2012|9|19||bez}}|archiveurl=https://web.archive.org/web/20120922232543/http://www.bkventspils.lv/19092012-sandis_valters_pievienojas_bk_ventspils|archivedate={{dat|2012|09|22||bez}}}}</ref>
+<!------ Karjeras statistika ------>
+ |   karj stat līga = 
+ |      karj stat 1 = 
+ | karj stat 1_dati = 
+ |      karj stat 2 = 
+ | karj stat 2_dati = 
+ |      karj stat 3 = 
+ | karj stat 3_dati = 
+<!------ Nacionālā izlase ------>
+ |       taut_sez 1 = 2002—2007
+ |           taut 1 = {{Bk|Latvija}}
+<!------ Trenera karjera ------>
+ |   tr_klubs_sez 1 = 
+ |       tr_klubs 1 = 
+ |   tr_klubs_sez 2 = 
+ |       tr_klubs 2 = 
+<!------ Papildinformācija ------>
+ |       sasniegumi = 
+* 9× [[LBL|Latvijas]] čempions <small>([[1995.—1996. gada LBL sezona|1995]], [[1996.—1997. gada LBL sezona|1996]], [[1997.—1998. gada LBL sezona|1997]], [[1998.—1999. gada LBL sezona|1998]], [[1999.—2000. gada LBL sezona|1999]], [[2006.—2007. gada LBL sezona|2007]], [[2011.—2012. gada LBL sezona|2011]], [[2012.—2013. gada LBL sezona|2012]], [[2014.—2015. gada LBL sezona|2014]])</small>
+* 2× LBL finālsērijas MVP <small>(2007, 2011)</small>
+ |           aģenti = 
+ |            slavz = 
+ |          dzimums = 
+ |        atjaunots = 
+<!------ Medaļas ------>
+ |    rādīt_medaļas = 
+ |      headercolor = 
+ |   medaltemplates = 
+}}
+'''Sandis Valters''' (dzimis {{dat|1978|8|31}} [[Rīga|Rīgā]]) ir bijušais [[Latvieši|latviešu]] [[Basketbols|basketbolists]], spēlēja [[uzbrūkošais aizsargs|uzbrūkoša aizsarga]] pozīcijā, bija [[Latvijas basketbola izlase]]s dalībnieks. Deviņkārtējs [[Latvijas Basketbola līga]]s (LBL) čempions, pēc titulu skaita atpaliekot vienīgi no [[Kristaps Purnis|Kristapa Purņa]] (11 uzvaras).
+
+== Karjera ==
+Profesionāļa karjeru sācis 1994. gadā [[BK Brocēni]] sastāvā, kur spēlējot S. Valters kļuva par pieckārtēju LBL čempionu, vēlāk čempiona titulu ieguvis arī [[ASK Rīga]]s, [[Rīgas VEF]] un [[BK Ventspils]] sastāvā. Spēlējis arī ārvalstu klubos: [[Vācija|Vācijā]], [[Ukraina|Ukrainā]], [[Itālija|Itālijā]].
+
+Latvijas izlasē debitējis {{dat|1998|2|17|5=bez}}. Kopā ar [[Latvijas basketbola izlase|Latvijas izlasi]] ir izcīnījis 14. vietu [[2005. gada Eiropas čempionāts basketbolā|2005. gada Eiropas čempionātā]] un 13. vietu [[2007. gada Eiropas čempionāts basketbolā|2007. gada Eiropas čempionātā]]. Komandā un valstvienībā spēlēja ar 10. numuru.
+
+Pēdējais pārstāvētais klubs bija [[BK Ventspils]].
+
+== Privātā dzīve ==
+Sanda brālis [[Kristaps Valters (basketbolists)|Kristaps Valters]] arī ir bijušais basketbolists un Latvijas izlases dalībnieks, savukārt tēvs [[Valdis Valters]] 1980. gados bija viens no [[Eiropa]]s labākajiem basketbolistiem, pazīstams arī kā treneris, sporta organizators un komentētājs.
+
+Sandis bija precējies ar Katrīnu Valteri, laulībā dzimusi meita. Savukārt no attiecībām ar modeli Elīzu Kaurāti ir divi bērni. Pēc karjeras beigām dzīvo un strādā [[Florida|Floridā]], [[Amerikas Savienotās Valstis|ASV]].<ref>{{Tīmekļa atsauce|url=https://jauns.lv/raksts/izklaide/285268-sandis-valters-atrada-asv-dzives-aininas-atpusas-ar-berniem|title=Sandis Valters atrāda ASV dzīves ainiņas; atpūšas ar bērniem|website=Jauns.lv|access-date=2019-03-09|language=lv}}</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sporta ārējās saites}}
+* [https://web.archive.org/web/20100716205836/http://www.eurobasket2007.org/en/cid_BqypGFJPHy-Nw4lwIAq,v3.teamID_2134.compID_qMRZdYCZI6EoANOrUf9le2.season_2007.roundID_5169.playerID_21280.html EuroBasket2007 profils] {{en ikona}}
+
+
+{{LV sastāvs Eurobasket 2005}}
+{{LV sastāvs Eurobasket 2007}}
+{{Navboxes
+| title      = [[Latvijas Basketbola līga]]s čempions
+| list       = 
+{{Ventspils 2014 LBL}}
+{{VEF 2012}}
+{{VEF 2011 LBL}}
+{{ASK Riga 2007}}
+}}
+
+{{DEFAULTSORT:Valters, Sandis}}
+[[Kategorija:1978. gadā dzimušie]]
+[[Kategorija:Rīgā dzimušie]]
+[[Kategorija:Latvijas basketbolisti]]
+[[Kategorija:Uzbrūkošie aizsargi]]

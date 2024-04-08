@@ -1,0 +1,38 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Glosteršīra
+ |          official_name = ''Gloucestershire''
+ |        settlement_type = grāfiste
+ |             image_flag = Severn Cross.svg
+ |                  motto = ''Prorsum semper'' <br />("Ever forward")
+ |                capital = [[Glostera]]
+ |           largest_city = [[Glostera]]
+ |              image_map = Gloucestershire UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Dienvidrietumanglija]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles (mazāka) grāfiste
+ |         area_total_km2 = 3150
+ |       population_total = 907200
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+ |                website = {{URL|www.gloucestershire.gov.uk}}
+}}
+'''Glosteršīra''' ir [[Anglijas grāfistes|grāfiste]] [[Dienvidrietumanglija|Dienvidrietumanglijā]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{UK-aizmetnis}}
+{{Īss aizmetnis}}
+{{Anglijas grāfistes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

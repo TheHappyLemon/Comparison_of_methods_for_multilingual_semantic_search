@@ -1,0 +1,53 @@
+{{Apdzīvotas vietas infokaste
+| name = Belhatova
+| image_skyline = Belchatow-elektrownia.jpg
+| imagesize = 300px
+| image_caption = Belhatovas elektrostacija - viena no lielākajām Eiropā
+| image_flag = POL Bełchatów flag.svg
+| image_shield = POL Bełchatów COA old.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Lodzas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Belhatovas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1743-1870, 1925-
+| area_total_km2 = 34.64
+| population_as_of = 2011
+| population_total = 62032
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 51 
+| latm = 22 
+| lats = 0 
+| latNS = N 
+| longd = 19 
+| longm = 22
+| longs = 0
+| longEW = E
+| elevation_m = 
+| website = http://www.belchatow.pl/ }}
+
+'''Belhatova''' ({{val|pl|Bełchatów}}) - pilsēta [[Polija]]s centrālajā daļā, [[Lodzas vojevodiste|Lodzas vojevodistē]] uz rietumiem no [[Tomašova Mazovecka|Tomašovas Mazoveckas]]. [[Viduslaiki|Viduslaikos]] piederējusi dažādām [[šļahta|šļahtiču]] dzimtām. 19.gs vidū pilsētā attīstījās tekstilrūpniecība. Pēc [[Janvāra sacelšanās]] apspiešanas, Belhatovai pilsētas tiesības tika atņemtas, un tās atjaunoja tikai 1925. gadā. Starp pasaules kariem pilsētā bija ap 10 000 iedzīvotāju. Uzplaukumu pilsēta piedzīvoja no XX gs. sešdesmitajiem gadiem, kad apkārtnē tika atklātas [[brūnogles|brūnogļu]] atradnes, un tika uzcelta pašlaik Eiropā lielākā [[termoelektrostacija]].
+
+== Lielākie rūpniecības uzņēmumi ==
+* [https://web.archive.org/web/20160304140058/http://www.elb.pl/ Elektrownia Bełchatów S.A.] - [[Eiropa]]s lielākā termoelektrostacija.
+* [https://web.archive.org/web/20050519000333/http://www.kwb-belchatow.pl/ Kopalnia Węgla Brunatnego Bełchatów S.A.] - brūnogļu ieguve.
+
+== Sports ==
+
+Futbolkomanda "[[GKS Bełchatów]]" spēlē Polijas augstākajā līgā, bet volejbolkomanda "[[Skra Bełchatów]]" [http://www.skra.pl/] - volejbola līgā.
+
+{{commonscat|Bełchatów|Belhatova}}
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lodzas vojevodistes pilsētas]]

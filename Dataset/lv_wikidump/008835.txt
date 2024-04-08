@@ -1,0 +1,52 @@
+{{Grāmatas infokaste
+|       nosaukums = Tūkstoš un vienas nakts pasakas
+|          attels = [[Attēls:Arabian nights manuscript.jpg|235px]]
+| attela apraksts = Pasaku krājuma manuskripts no 14. gadsimta
+|          autors = nav zināms
+|  orig nosaukums = {{ara|كتاب ألف ليلة وليلة‎}},<br />''kitāb ʾalf layla wa-layla''
+|     ilustrators = 
+|     vaka autors = 
+|          valsts = 
+|          valoda = [[arābu valoda]]
+|          serija = 
+|          temats = 
+|           zanrs = [[pasaka|pasaku]] krājums, lai gan izpaužas arī citi žanri (stāsti, romāni, anekdotes)
+|        izdevejs = 
+|          izdota = laika posmā no 8. līdz 14. gadsimtam
+| izdota latviski = 
+|       tulkotajs = 
+|         formats = 
+|             lpp = 
+|     masa izmers = 
+|            isbn = 
+|           isbn2 = 
+|           isbn3 = 
+<!-- var tikt ievietoti līdz 6 ISBN numuriem -->
+|        izdevums = <!-- ja ir izdevums nevis sējums, tad ierakstīt "jā" -->
+|            oclc = 
+|             pec = 
+|           pirms = 
+}}
+
+'''“Tūkstoš un vienas nakts pasakas”''' ({{val|ar|كتاب ألف ليلة وليلة‎}}, ''kitāb ʾalf layla wa-layla'', {{val|fa|هزار و یک شب‎}}, ''hazār-o yak šab'') ir viens no zināmākajiem [[Tuvie Austrumi|Tuvo Austrumu]] pasaku krājumiem, kuru gadsimtu gaitā radījuši dažādi autori, tulkotāji un tā pētnieki. Nereti šis [[pasaka|pasaku]] krājums tiek saistīts ar [[arābi]]em, bet tajā ir atrodamas arī [[persieši|persiešu]], [[indieši|indiešu]], [[ebreji|ebreju]] un pat [[Senā Ēģipte|seno ēģiptiešu]] pasakas un to iezīmes.<ref name="tvnet"/>
+
+Šajā pasaku krājumā stāstīts par [[Šeherezāde|Šeherezādi]] (persiešu: {{ara|شهرزاد}}, ''Šahrzād''), kurai katru vakaru jāstāsta [[Sasanīdu impērija|Sasanīdu]] valdniekam [[Šahriārs|Šahriāram]] ({{ara|شهريار}}, ''Šahryār'') pasaka. Valdnieks ļoti mīlēja savu pirmo sievu, bet sieva kļuva neuzticīga. Šahriārs pavēlēja savu sievu [[nāvessods|sodīt ar nāvi]]. Valdnieka brālim bija līdzīga pieredze. Apvainojot sieviešu dzimumu netiklībā, Šahriārs turpmāk lika katru vakaru viņam piegādāt [[jaunava|jaunavu]], kurai bija jāstāsta pasaka garlaicības māktajam valdniekam. No rīta valdnieks lika šo sievieti sodīt ar nāvi. Šeherezāde ar viltu tūkstoš un vienu nakti pēc kārtas savu stāstu beidz pašā interesantākajā brīdī, liekot karalim atstāt viņu dzīvu vēl vienu dienu, lai nākamajā dienā dzirdētu tās turpinājumu.
+
+Pasakas sacerētas ilgākā laika periodā [[viduslaiki|viduslaikos]]; tām ir dažādi autori. Pasaku krājums ir ļoti atšķirīgs žanru ziņā. Tajā ir mīlas stāstu, vēsturisku notikumu atstāstījumi, traģēdijas, komiski atgadījumi, dzejoļi, musulmaņu leģendas. Krājuma pamatstāsts par Šeherezādi pievienots 14. gadsimtā. Daudzas no krājuma pasakām tiek uzskatītas par klasiskām un izdotas atsevišķi, piemēram, “[[Sindbads jūras braucējs]]”, “[[Ali Baba un četrdesmit laupītāji]]”, “[[Aladins]]”.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="tvnet">{{tīmekļa atsauce | url= http://www.tvnet.lv/izklaide/notikumi/49252-tukstos_un_viena_nakts | title= Tūkstoš un viena nakts. | publisher= tvnet.lv | accessdate= 2017. gada 8. janvārī | date= 2001. gada 22. janvāris}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{literatūra-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Arābu literatūras darbi]]
+[[Kategorija:Persiešu literatūras darbi]]
+[[Kategorija:Viduslaiku literatūras darbi]]
+[[Kategorija:Islāma kultūra]]

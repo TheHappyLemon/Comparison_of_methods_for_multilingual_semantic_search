@@ -1,0 +1,29 @@
+'''Oligarhija''' ({{val|gr|ὀλιγαρχία}} (''oligarkhía'') no ὀλίγος (olígos), "daži", un ἄρχω (arkho), "vara") ir sabiedrības pārvaldes forma, kur vara pieder nelielai iedzīvotāju grupai, kas valsti pārvalda savās, nevis sabiedrības interesēs.<ref>{{tīmekļa atsauce|url=https://www.britannica.com/topic/oligarchy|title=Oligarchy|publisher=''Britannica''|accessdate={{dat|2017|4|30||bez}}|author=|language=angliski}}</ref><ref>{{tīmekļa atsauce|url=https://www.merriam-webster.com/dictionary/oligarchy|title=oligarchy|publisher=''Marriam-Webster''|accessdate={{dat|2017|4|30||bez}}|author=|language=angliski}}</ref> Pirmie, kas jēdzienu definēja un pielietoja, bija [[Senā Grieķija|Senās Grieķijas]] filozofs [[Aristotelis]] un vēsturnieks [[Polībijs]], aprakstot [[aristokrātija]]s deģenerāciju.
+
+== Oligarhijas paveidi ==
+* [[Aristokrātija]] (no {{val-el|ἄριστος}} — "lielisks"), priviliģēto [[dzimta|dzimtu]] vara, 
+* [[Kleptokrātija]] (no ''κλέπτης'' — "zaglis"), [[korupcija|korumpēto]] vara,  
+* [[Meritokrātija]] (no {{val-la|meritum}} — "nopelns"), nopelniem bagāto vara, 
+* [[Plutokrātija]] (no ''πλοῦτος'' — "bagāts"), bagātnieku vara, 
+* [[Stratokrātija]] (no ''στρατός'' — "karaspēks"), armijas virsnieku vara jeb militārā [[hunta]], 
+* [[Tehnokrātija]] (no ''τέχνη'' — "ražots"), tehniski domājošo vara, 
+* [[Teokrātija]] (no ''θεός'' — "Dievs"), garīdznieku vara, 
+* [[Timokrātija]] (no ''τιμή'' — "gods"), īpašnieku vara.
+
+== Mūsdienu oligarhijas ==
+Par oligarhijām dēvē tādas valstis, kurās varu ar demokrātiskai sabiedrībai tipiskiem valsts pārvaldes mehānismiem uzurpē relatīvi neliela iedzīvotāju grupa. 
+Daudzas oligarhiski pārvaldītas valstis izveidojās pēc [[PSRS sabrukums|PSRS sabrukuma]] 1991. gadā, kad neliels skaits cilvēku [[privatizācija]]s laikā ieguva lielu bagātību un augstus amatus valsts pārvaldē, kontrolēja politiskās partijas un plašsaziņas līdzekļus. Tā 2004. gada maijā  žurnāla ''[[Forbes]]'' krievu izdevums identificēja 36 krievu oligarhus, kuru īpašums bija vērts vairāk kā 1 miljardu [[ASV dolārs|ASV dolāru]].<ref>[http://www.foreignaffairs.com/articles/60263/marshall-i-goldman/putin-and-the-oligarchs Putin and the Oligarchs], ''Foreign Affairs''</ref> ''[[Credit Suisse]]'' 2013. gadā paziņoja, ka [[Krievija]]i ir augstākais bagātības nevienlīdzības līmenis pasaulē, ja neskaita nelielās [[Karību jūra]]s valstis. 2013. gadā 110 miljardieriem piederēja 35% no visas [[Krievijas Federācija]]s labklājības.<ref>[https://publications.credit-suisse.com/tasks/render/file/?fileID=BCDB1364-A105-0560-1332EC9100FF5C83 Credit Suisse] {{Webarchive|url=https://web.archive.org/web/20150214155424/https://publications.credit-suisse.com/tasks/render/file/?fileID=BCDB1364-A105-0560-1332EC9100FF5C83 |date={{dat|2015|02|14||bez}} }} 53. lpp</ref>
+
+Arī Amerikas Savienoto Valstu pārvaldes sistēmu reizēm dēvē par oligarhisku.<ref name='Kroll 2010-12-02'>{{ziņu atsauce | first = Andy | last = Kroll | title = The New American Oligarchy | date = 2 December 2010 | publisher = Truthout | url = http://archive.truthout.org/andy-kroll-the-new-american-oligarchy65597 | work = TomDispatch | accessdate = 17 August 2012 | archiveurl = https://web.archive.org/web/20120122032008/http://archive.truthout.org/andy-kroll-the-new-american-oligarchy65597 | archivedate = {{dat|2012|01|22||bez}} }}</ref><ref>[http://www.tnr.com/article/magazine/books-and-arts/106430/money-politics-inequality-power-one-percent-move-on-effect ''America on the Brink of Oligarchy''] 24 August 2012 ''The New Republic''</ref>
+
+[[Latvija|Latvijā]] par oligarhiem savulaik dēvēja [[Ainārs Šlesers|Aināru Šleseru]], [[Aivars Lembergs|Aivaru Lembergu]] un [[Andris Šķēle|Andri Šķēli]].<ref>[http://www.tvnet.lv/zinas/viedokli/396144-latvija_zeme_kur_aste_luncina_suni Latvija – zeme, kur aste luncina suni] Otto Ozols, speciāli [[TVNET]]
+2011. gada 19. oktobrī {{lv ikona}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{politika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Valsts pārvaldes formas]]

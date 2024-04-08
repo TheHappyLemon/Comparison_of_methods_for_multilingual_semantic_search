@@ -1,0 +1,73 @@
+{{infokaste+|Rakstnieka infokaste}}
+{{Personas infokaste
+|             platums = 
+|               vārds = Boriss Pasternaks
+|          vārds_orig = ''Борис Леонидович Пастернак''
+|              attēls = Boris Pasternak in youth.jpg
+|          att_izmērs = 200px
+|       att_nosaukums = Pasternaks jaunībā, 1908. gadā
+|          dz_dat_alt = {{dat VS|{{dat|1890|2|10}}|29. janvārī}}
+| dz_gads = 1890
+| dz_mēnesis = 2
+| dz_diena = 10
+| dz_vieta = [[Maskava|Maskavā]], [[Krievijas Impērija|Krievijas Impērijā]]
+| m_dat_alt = 
+| m_gads = 1960
+| m_mēnesis = 5
+| m_diena = 30
+| m_vieta = Peredelkinā, Maskavas apgabalā, [[Padomju Savienība|PSRS]]
+| dzīves_vieta = 
+| pilsonība = {{USSR}}
+| tautība = ebrejs
+| nodarbošanās = dzejnieks, tulkotājs
+| dzimums = 
+| vecāki = Leonīds Pasternaks, mākslinieks,
+Roza Kaufmane, pianiste
+| bērni = Jevgenijs Pasternaks
+| alma_mater = Maskavas Universitāte, vēstures un filoloģijas fakultātes filozofijas nodaļa (1912)
+| paraksts = 
+| kategorijas = 
+| piezīmes = 
+}}
+[[Attēls:Boris Pasternak 1959 photo.jpg|thumb|Boriss Pasternaks 1959. gadā]]
+'''Boriss Pasternaks''' ({{val|ru|Борис Леонидович Пастернак}}; dzimis {{dat VS|{{dat|1890|2|10}}|29. janvārī}}, miris {{dat|1960|5|30}}) bija ebreju cilmes [[Krievija]]s rakstnieks [[proza]]iķis un [[dzeja|dzejnieks]], [[Nobela prēmija]]s literatūrā ieguvējs (1958). Viņa zināmākais darbs ir romāns "Doktors Živago" (''Доктор Живаго'', 1958/1987).
+
+== Dzīvesgājums ==
+Dzimis Maskavā gleznotāja [[Leonīds Pasternaks|Leonīda Pasternaka]] ģimenē. Viņa tēvs bija Maskavas Glezniecības skolas profesors, māte Roza Kaufmane - pazīstama pianiste. Pasternaks uzauga kosmopolītiskā atmosfērā. Pie viņa tēva viesojās [[Sergejs Rahmaņinovs]], [[Rainers Marija Rilke]], [[Ļevs Tolstojs]].
+
+Pasternaks nolēma kļūt par komponistu, tāpēc iestājās Maskavas konservatorijā, kuru 1910. gadā tomēr pameta, lai dotos uz [[Marburga]]s Universitāti. Tur viņš studēja pie tādiem [[neokantisms|neokantistiem]] kā [[Hermanis Koens]] un [[Nikolajs Hartmanis]]. 1914. gadā viņš atgriezās Maskavā.
+
+Pasternaka agrīno dzeju spēcīgi ietekmēja [[Aleksandrs Bloks|Bloka]] un [[futūrisms|futūristu]] darbi. Pirmās publikācijas viņa bija 1914. gadā.
+
+[[Pirmais pasaules karš|Pirmā pasaules kara]] laikā Pasternaks strādāja kādā ķīmiskajā rūpnīcā [[Urāli|Urālos]]. Lai gan daudzi viņa radinieki un draugi pēc kara pameta Krieviju, Pasternaks nolēma palikt.
+
+Trīsdesmitajos gados, kad sākās komunistiskās represijas, Pasternaks jutās vīlies padomju režīmā. Šajā laikā viņš vairāk nodarbojās ar tulkošanu nekā rakstīšanu. Viņš tulkoja [[Viljams Šekspīrs|Šekspīra]], [[Gēte]]s, [[Rilke]]s, [[Pols Verlēns|Verlēna]] un [[gruzīni|gruzīnu]] dzejnieku darbus.
+
+Pēc [[Otrais pasaules karš|Otrā pasaules kara]] Pasternaks sāka rakstīt daļēji autobiogrāfisku romānu "Doktors Živago". To nebija iespējams publicēt Padomju Savienībā, tāpēc tas tika izdots [[Itālija|Itālijā]]. Tas bija iegansts dažādām pret Pasternaku vērstām represijām, kuras vēl pastiprināja tas, ka 1958. gadā viņam tika piešķirta [[Nobela prēmija]].
+
+Nobela prēmiju, baidoties tikt izraidīts no [[Padomju Savienība|PSRS]], Pasternaks atteicās pieņemt.
+
+Pasternaks nomira no plaušu vēža {{dat|1960|05|30}}.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{Nobel}}
+ 
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Albērs Kamī]] | virsraksts = [[Nobela prēmija literatūrā]] | periods = [[1958]] | pēc = [[Salvatore Kvazimodo]]}}
+{{kastes beigas}}
+{{Nobela prēmijas laureāti literatūrā}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Pasternaks, Boriss}}
+[[Kategorija:Maskavā dzimušie]]
+[[Kategorija:Krievu dzejnieki]]
+[[Kategorija:Krievu rakstnieki]]
+[[Kategorija:Krievu atdzejotāji]]
+[[Kategorija:Krievu valodā rakstošie]]
+[[Kategorija:Nobela prēmijas laureāti literatūrā]]
+[[Kategorija:Krievijas Impērijas rakstnieki]]
+[[Kategorija:Krievijas ebreji]]

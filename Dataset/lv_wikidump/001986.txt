@@ -1,0 +1,61 @@
+{{enciklopēdisks stils+}}
+{{atsauces+}}
+Uz mūsu planētas Zemes ir vairāk kā 2 000 000 visdažādāko dzīvības formu, kas tiek sistematizētas un sakārtotas noteiktā kārtībā. Katrai dzīvības formai tiek dots unikāls nosaukums, kas atbilst [[Binārā nomenklatūra|binārās nomenklatūras]] principiem. Visi organismi, vadoties no radniecības pakāpes, tiek apvienoti grupās, kuras savukārt top apvienotas augstāka ranga grupās, veidojot dažādas pakāpes radniecības līmeņus jeb taksonomiskās vienības. Organismu klasifikācija ir vienota gan mūsdienās dzīvojošajiem, gan arī izmirušajiem organismiem. Tā pamatā sastāv no šādām taksonomiskajām vienībām:
+
+* [[Impērija (bioloģiskā)|Impērija]] (''imperium'');
+* [[Valsts (bioloģija)|Valsts]] (''regnum'');
+* [[Tips]], [[Nodalījums]] (''phylum, divisio'');
+* [[Klase (bioloģija)|Klase]] (''classis'');
+* [[Kārta]] (''ordo'');
+* [[Dzimta (bioloģija)|Dzimta]] (''familia'');
+* [[Ģints (bioloģija)|Ģints]] (''genus'');
+* [[Suga]] (''species''),
+
+Bet reizēm ir jāiestarpina papildu vienības. Īpaši tas ir raksturīgs kukaiņiem, jo kukaiņu klasē ir vairāk par 1 000 000 sugu t.i. vairāk nekā visi pārējie organismi kopā.
+Klasifikācijas piemērs, kurā ir atainojas dažādas papildu taksonomiskās vienības (izceltas pamatvienības):
+
+* '''Impērija:''' ''Eukaryota''
+* '''Valsts: ''' ''Metazoa''
+* Apakšvalsts: ''Eumetazoa''
+* Virstips: ''Bilateria''
+* '''Tips:''' ''Coelomata''
+* Apakštips: ''Protostomia''
+* Triba: ''Articulata''
+* Virsklase: ''Arthropoda''
+* '''Klase:''' ''Tracheata''
+* Apakšklase: ''Opistogoneata''
+* Infraklase: ''Hexapoda''
+* Virskārta ''Pterygota''
+* Sekcija: ''Holometabola''
+* '''Kārta:''' ''Coleoptera''
+* Apakškārta: ''Polyphaga''
+* Sērija: ''Staphyliniformia''
+* Virsdzimta: ''Hydrophiloidea''
+* '''Dzimta:''' ''Hydrophilidae''
+* Apakšdzimta ''Georissinae''
+* '''Ģints:''' ''Georissus''
+* Apakšģints: ''Neogeorissus''
+* '''Suga:''' ''Georissus (Neogeorissus) japonicus Satô, 1979''
+
+Dažādiem autoriem organismu klasifikācijas var būtiski atšķirties, tāpat laika gaitā, mainoties uzskatiem par organismu radniecību, mainās arī organismu klasifikācijas.
+
+Visi dzīvie organismi iedalās divās vai trijās lielās grupās jeb impērijās. Tomēr tas ir diskutējams jautājums. Daudzi speciālisti apšauba vīrusu pieskaitīšanu pie dzīviem organismiem, jo tajos nenotiek [[vielmaiņa]]s procesi. Tāpat nav vienprātības jautājumā par prokariotu sadalīšanu divās atsevišķās impērijās. Pagaidām apstāsimies pie visu dzīvo organismu sadalīšanas trīs atšķirīgās grupās:
+
+* Impērija ''Virus'' — [[Vīrusi]];
+* Impērija ''Prokaryote'' — [[Prokarioti]];
+* Impērija ''Eukaryote'' — [[Eikarioti]];
+** Valsts ''Animalia'' — [[Dzīvnieki]];
+** Valsts ''Fungi'' — [[Sēnes]];
+** Valsts ''Plantae'' — [[Augi]];
+** Valsts ''Protista'' (''Protozoa'') — [[Vienšūņi]].
+
+Tomēr vīrusi būtiski atšķiras no pārējām impērijām, kuru savstarpējās atšķirības nav tik lielas.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Taksonomija]]
+[[Kategorija:Zināšanas]]

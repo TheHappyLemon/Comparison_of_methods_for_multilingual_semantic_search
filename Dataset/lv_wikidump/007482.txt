@@ -1,0 +1,126 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #FF0000
+| bg_color   = #F2F3F4
+| nos        = ''VfB Stuttgart''
+| logo       = [[Attēls:VfB Stuttgart 1893 Logo.svg|150px]]
+| pilns      = ''Verein für Bewegungsspiele<br />Stuttgart 1893 E.V.''
+| iesauka    = ''Die Roten'' (Sarkanie)<br />''Die Schwaben'' (Švābi)
+| pilsēta    = {{vieta|Vācija|Štutgarte}}
+| dib        = 1893
+| dib_mēn    = 9
+| dib_dat    = 9
+| stad       = ''[[MHPArena]]''
+| ietilp     = 60 449
+| prez       = {{flaga|GER}} Klauss Fogts
+| tren       = {{flaga|GER}} [[Sebastiāns Hēness]]
+| līga       = [[Vācijas futbola Bundeslīga|Vācijas Bundeslīga]]
+| sez        = [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022.—2023.]]
+| poz        = 16. vieta
+| mediji     = {{URL|http://www.vfb.de/}}
+| pattern_la1 = _stuttgart2223h
+| pattern_b1 = _stuttgart2223h
+| pattern_ra1 = _stuttgart2223h
+| pattern_sh1 = _stuttgart2223h
+| pattern_so1 = _stuttgart2223h
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+
+ |pattern_la2 = _stuttgart2223a
+ |pattern_b2  = _stuttgart2223a
+ |pattern_ra2 = _stuttgart2223a
+ |pattern_sh2 = _stuttgart2223t
+ |pattern_so2 = _whitetop
+ |leftarm2    = FF0000
+ |body2       = FF0000
+ |rightarm2   = FF0000
+ |shorts2     = 000000
+ |socks2      = FF0000
+
+
+ |pattern_la3 = _stuttgart2223t
+ |pattern_b3  = _stuttgart2223t
+ |pattern_ra3 = _stuttgart2223t
+ |pattern_sh3 = _stuttgart2223t
+ |pattern_so3 = 
+ |leftarm3    = 000000
+ |body3       = 000000
+ |rightarm3   = 000000
+ |shorts3     = 000000
+ |socks3      = 000000
+}}
+'''''Verein für Bewegungsspiele Stuttgart 1893 e. V.''''', biežāk zināms kā '''''VfB Stuttgart''''', ir [[Vācija]]s [[sporta klubs]] no [[Štutgarte]]s, [[Bādene-Virtemberga|Bādenes-Virtembergas]] galvaspilsētas. Klubu visvairāk pazīst pēc tā [[futbols|futbola]] komandas, kas pašlaik spēlē [[Vācijas futbola Bundeslīga|Vācijas Bundeslīgā]]. ''VfB Stuttgart'' piecreiz kļuvusi par Vācijas čempioniem, pēdējoreiz 2006.–2007. gada sezonā, un trīsreiz ieguvusi [[Vācijas kauss futbolā|Vācijas kausu]].<ref>{{Tīmekļa atsauce|url=http://www.vfb.de/de/verein/erfolge/page/41-0-8-.html|title=Die Erfolge des VfB Stuttgart|accessdate={{dat|2015|10|2||bez}}|publisher=VfB Stuttgart 1893 e.V.|archiveurl=https://web.archive.org/web/20150920023924/http://www.vfb.de/de/verein/erfolge/page/41-0-8-.html|archivedate={{dat|2015|09|20||bez}}}}</ref> Mājas spēles aizvada ''[[MHPArena]]'' stadionā, kur ir 60&nbsp;449 skatītāju vietas.<ref>{{Tīmekļa atsauce |url=http://www.mercedes-benz-arena-stuttgart.de/de/arena/daten-&-fakten/page/61-0-12-.html |title=Mercedes-Benz Arena: Daten & Fakten |accessdate={{dat|2015|12|10||bez}} |publisher=Mercedes-Benz Arena |archiveurl=https://web.archive.org/web/20151230112634/http://www.mercedes-benz-arena-stuttgart.de/de/arena/daten-%26-fakten/page/61-0-12-.html |archivedate={{dat|2015|12|30||bez}} }}</ref>
+
+== Komandas sastāvs ==
+:''{{dat|2022|9|13||bez}}''.<ref>{{Tīmekļa atsauce|url=https://www.vfb.de/de/1893/profis/kader/saisonen/2020-2021/listenansicht/|title=VfB Stuttgart Listenansicht|language=de |accessdate={{dat|2020|10|13||bez}}|website=vfb.de}}</ref>
+{{Fs start}}
+{{Fs player|no=1  |nat=GER |pos=GK |name=[[Florians Millers]]}}
+{{Fs player|no=2  |nat=GER |pos=DF |name=[[Valdemārs Antons]]}}
+{{Fs player|no=3  |nat=JPN |pos=MF |name=[[Vataru Endo]]|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no=4  |nat=GER |pos=DF |name=[[Joša Vagnomans]]}}
+{{Fs player|no=5  |nat=GRE |pos=DF |name=[[Konstantins Mavropans]]}}
+{{Fs player|no=7  |nat=FRA |pos=MF |name=[[Tangī Kulibalī]]}}
+{{Fs player|no=8  |nat=FRA |pos=MF |name=[[Enzo Milo]]}}
+{{Fs player|no=9  |nat=GUI |pos=FW |name=[[Serhu Girasī]]|other=īrē no [[Stade Rennais F.C.|Rennes]]}}
+{{Fs player|no=10 |nat=POR |pos=FW |name=[[Tjagu Tomašs]]|other=īrē no [[Sporting CP]]}}
+{{Fs player|no=11 |nat=COL |pos=FW |name=[[Huans Hosē Perea]]}}
+{{Fs player|no=14 |nat=COD |pos=FW |name=[[Silass Katompa Mvumpa]]}}
+{{Fs player|no=15 |nat=GER |pos=DF |name=[[Paskāls Štencels]]}}
+{{Fs player|no=16 |nat=GER |pos=DF |name=[[Atakans Karazors]]}}
+{{fs mid}}
+{{Fs player|no=20 |nat=GER |pos=FW |name=[[Luka Feifers]]}}
+{{Fs player|no=21 |nat=JAP |pos=DF |name=[[Hiroki Ito]]}}
+{{Fs player|no=22 |nat=GER |pos=MF |name=[[Kriss Fīrihs]]}}
+{{Fs player|no=24 |nat=CRO |pos=DF |name=[[Borna Sosa]]}}
+{{Fs player|no=25 |nat=GER |pos=MF |name=[[Lilians Eglofs]]}}
+{{Fs player|no=27 |nat=AUS |pos=FW |name=[[Alū Kūls]]}}
+{{Fs player|no=28 |nat=DEN |pos=MF |name=[[Nikolass Nartejs]]}}
+{{Fs player|no=32 |nat=FRA |pos=MF |name=[[Nauiru Ahamada]]}}
+{{Fs player|no=33 |nat=GER |pos=GK |name=[[Fabians Bredlovs]]}}
+{{Fs player|no=36 |nat=GER |pos=MF |name=[[Laurins Ulrihs]]}}
+{{Fs player|no=37 |nat=GER |pos=DF |name=[[Antoniss Aidoniss]]}}
+{{Fs player|no=39 |nat=GRE |pos=FW |name=[[Tomass Kastanars]]}}
+{{Fs player|no=42 |nat=GER |pos=GK |name=[[Florians Šoks]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Vācijas futbola Bundeslīga|Vācijas čempionāts / Bundeslīga]]'''
+** Čempioni (5): 1950, 1952, 1983–84, 1991–92, 2006–07
+** Vicečempioni (4): 1935, 1953, 1978–79, 2002–03
+* '''[[Vācijas kauss futbolā|Vācijas kauss]]''':
+** Kausa ieguvēji (3): 1953–54, 1957–58, 1996–97
+** Finālisti (3): 1985–86, 2006–07, 2012–13
+* '''DFB Līgas kauss'''
+** Finālisti (3): 1997, 1998, 2005
+* '''Vācijas Superkauss'''
+** Kausa ieguvēji (1): 1992
+* '''[[Vācijas futbola 2. Bundeslīga|2. Bundeslīga (Dienvidu zona)]]'''
+** Čempioni (1): 1976–77
+* '''[[UEFA Kausu ieguvēju kauss]]'''
+** Finālisti (1): 1997–98
+* '''[[UEFA kauss]]'''
+** Finālisti (1): 1988–89
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (3): 2000, 2002, 2008
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+{{sporta ārējās saites}}
+* [http://www.vfb.de/ Oficiālā kluba vietne] {{de ikona}} {{en ikona}}
+
+
+{{futbols-stub}}
+{{Vācija-aizmetnis}}
+{{Bundeslīga}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Stuttgart}}
+[[Kategorija:Vācijas futbola klubi]]
+[[Kategorija:VfB Stuttgart| ]]

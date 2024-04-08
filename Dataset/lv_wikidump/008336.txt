@@ -1,0 +1,74 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Modēna
+ | official_name            = ''Modena''
+ | settlement_type          = [[Itālijas pilsētu uzskaitījums|Pilsēta]]
+ | image_skyline            = 
+ | image_caption            = 
+ | image_flag               =  Flag of Modena.svg
+ | image_seal               = 
+ | image_shield             =  Coat_of_arms_of_Modena.svg
+ | shield_link              = 
+ | flag_link                = 
+ | shield_size              = 
+ | pushpin_map              = Itālija
+ | pushpin_label_position   = 
+ | map_caption              = 
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{karogs|Itālija}}
+ | subdivision_type1        = Reģions
+ | subdivision_name1        = [[Emīlija-Romanja]]
+ | subdivision_type2        = Povince
+ | subdivision_name2        = [[Modēnas province]]
+ | established_title        = Dibināta
+ | established_date         = ap 3. gs. p.m.ē.
+ | government_type          = 
+ | leader_title             = 
+ | leader_name              = 
+ | area_magnitude           = 
+ | area_total_km2           = 183.23
+ | area_land_km2            = 
+ | area_water_km2           = 
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2015
+ | population_footnotes     = 
+ | population_total         = 184732
+ | population_urban         = 
+ | population_metro         = 
+ | population_density_km2   = auto
+ | timezone                 = 
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | latd = 44 | latm = 38 | lats = 49 | latNS = N
+ | longd = 10 | longm =55  | longs =32  | longEW =E 
+ | postal_code_type         = 
+ | postal_code              = 
+ | elevation_footnotes      = 
+ | elevation_m              = 34
+ | website                  = {{url|http://www.comune.modena.it/}}
+ | footnotes                = 
+}}
+'''Modēna''' ({{val|it|Modena}}) ir pilsēta [[Itālija]]s ziemeļos, [[Emīlija-Romanja|Emīlijas-Romanjas]] reģionā. [[Modēnas province]]s administratīvais centrs un lielākā pilsēta. Pilsēta atrodas starp Sekjas un Panaro upēm, kuras ir [[Po (upe)|Po]] upes pietekas. 10 kilometrus uz dienvidiem no pilsētas robežas atrodas [[Apenīnu kalni]].
+
+Modēna ir pazīstama kā Itālijas autorūpniecības centrs, kurā atrodas vai ir atradušās [[Ferrari]], [[Lamborghini]], [[Maserati]] un [[Pagani]] auto ražotnes.  Visu šo zīmolu, izņemot Lamborghini, galvenās mītnes vietas atrodas Modēnā vai tās pievārtē. Ferrari 360 Modena ir nosaukts par godu [[Enco Ferrāri]] dzimtajai pilsētai Modēnai. Modēna ir pazīstama arī kā balzāmetiķa rašanās vieta. 
+
+== Cilvēki ==
+Modēnā dzimuši:
+* [[Lučāno Pavaroti]] (''Luciano Pavarotti''), tenors (1935 — 2007)
+* [[Enco Ferrāri]] (''Enzo Ferrari''), ''Scuderia Ferrari'' Formula 1 komandas dibinātājs (1898 — 1988)
+* [[Stefano Modena]] (''Stefano Modena''), itāļu autosportists (1963)
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Itālija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Emīlijas-Romanjas pilsētas]]

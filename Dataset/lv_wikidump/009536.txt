@@ -1,0 +1,109 @@
+{{Krievijas republikas infokaste
+| nosaukums = Marijelas Republika 
+| karte = Russia - Mari El Republic (2008-01).svg
+| oriģ = ''Республика Марий Эл''<br>''Марий Эл Республика''
+| karoga_attēls = Flag_of_Mari El.svg
+| karoga_nosaukums = Marijelas karogs
+| ģerboņa_attēls = Coat of Arms of Mari El.svg
+| ģerboņa_nosaukums = Marijelas ģerbonis
+| ģerboņa_platums = 80px
+| galvaspilsēta = [[Joškarola]]
+| valoda = [[krievu valoda|krievu]]<br>[[mariešu valoda|mariešu]]
+| tautas = [[krievi]] (47,46%)<br>[[marieši]] (42,88%)<br>[[tatāri]] (5,96%)
+| platība = 23 200
+| iedzīvotāji = 727 979
+| iedz blīvums = 31,4
+| pilsētas = 3
+| rajoni = 14
+| fedapgabals = [[Pievolgas federālais apgabals|Pievolgas]]
+| url = http://gov.mari.ru/
+|ainavas_skats=Вид_на_озеро_Яльчик.jpg}}
+
+'''Marijelas Republika''' ir viena no [[Krievijas Federācija]]s republikām. Tā robežojas ar [[Ņižņijnovgorodas apgabals|Ņižņijnovgorodas apgabalu]] rietumos un ziemeļrietumos, [[kirovas apgabals|Kirovas apgabalu]] ziemeļos un ziemeļaustrumos, [[Tatarstāna|Tatarstānu]] dienvidaustrumos un dienvidos, [[Čuvašija|Čuvašiju]] dienvidos.
+
+== Vēsture ==
+[[Attēls:Herberstein-Moscovia-NE.png|thumb|left|200px|Mariešu jeb Čeremisu ļaužu (''Czeremissa populi'') zemes 1549. gada kartē]] 
+Pēc 1236. gada mariešu jeb čeremisu teritorija atradās [[Zelta Orda]]s, pēc 1438. gada — [[Kazaņas haniste]]s, bet pēc 1552. gada — [[Krievijas cariste]]s pakļautībā.
+
+Krievijas valdība kopš 18. gadsimta vidus veicināja mariešu pievēršanu [[pareizticība]]i un nometināja krievus un citu tautību ieceļotājus. 1920. gada 4. novembrī [[Krievijas PFSR]] sastāvā no [[Kazaņa]]s guberņas mariešu apdzīvotajiem apriņķiem izveidoja Mariešu autonomo apvidu, ko 1936. gada 5. decembrī pārveidoja par [[Mariešu APSR]].
+
+== Iedzīvotāji ==
+Saskaņā ar 2020. gada tautas skaitīšanas rezultātiem valstī dzīvoja šādu tautību iedzīvotāji:
+{| class="wikitable"
+!Tautība
+!Skaits.
+!%
+|-
+|krievi
+|322 932
+|47,69 %
+|-
+|marieši
+|246 560
+|36,41 %
+|-
+|tatāri
+|29 317
+|4,33 %
+|-
+|kalnu marieši
+|13 953
+|2,06 %
+|-
+|čuvaši
+|3656
+|0,54 %
+|-
+|ukraiņi
+|1501
+|0,22 %
+|-
+|udmurti
+|1348
+|0,20 %
+|-
+|uzbeki
+|751
+|0,11 %
+|-
+|armēņi
+|728
+|0,11 %
+|-
+|azerbaidžāņi
+|707
+|0,10 %
+|-
+|citi
+|55 644
+|8,23 %
+|-
+|Kopā
+|677 097
+|100,00 %
+|}
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Marijela|width=400 |float=center|caption = Marijelas Republijas pilsētu izvietojums; '''treknrakstā''' — republikas centrs
+|places =
+{{VietasKarte~|Marijela|lat=56.633333|long=47.866667|position = top |label='''[[Joškarola]]'''}}
+{{VietasKarte~|Marijela|lat=55.866667|long=48.35|position = top |label=[[Volžska (Marijela)|Volžska]]}}
+{{VietasKarte~|Marijela|lat=55.966667|long=48.016667|position = top |label=[[Zveņigova]]}}
+{{VietasKarte~|Marijela|lat=56.333333|long=46.566667|position = top |label=[[Kozmodemjanska]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+{{Krievijas PFSR}}
+{{Krievijas administratīvais iedalījums}}
+{{Volgas federālais apgabals}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas republikas]]
+[[Kategorija:Marijela| ]]
+[[Kategorija:Eirāzija]]

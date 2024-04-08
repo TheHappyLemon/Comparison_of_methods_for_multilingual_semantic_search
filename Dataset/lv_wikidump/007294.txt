@@ -1,0 +1,95 @@
+{{Latvijas novada infokaste
+| nosaukums         = Klintaines pagasts
+| karte             = Klintaines pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Stukmaņi
+| platība           = 94,13
+| iedzīvotāji       = 860<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 860 / 94.13 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+| nos_vācu          = Stockmannshof
+| ref_vācu          = 
+| nos_krievu        = Штокманская
+| ref_krievu        = 
+}}
+
+'''Klintaines pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā rietumos, [[Daugava]]s labajā krastā. Robežojas ar sava novada [[Pļaviņas|Pļaviņu]] pilsētu un [[Vietalvas pagasts|Vietalvas]], [[Aiviekstes pagasts|Aiviekstes]], [[Kokneses pagasts|Kokneses]], [[Bebru pagasts|Bebru]] pagastiem, kā arī pa Daugavu ar [[Staburaga pagasts|Staburaga]] un [[Seces pagasts|Seces]] pagastiem un [[Jēkabpils novads|Jēkabpils novada]] [[Sēlpils pagasts|Sēlpils pagastu]].
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Daugava]], [[Pelve]], [[Pērse]], [[Piešupīte]], [[Rīterupīte]].
+
+== Vēsture ==
+'''Stukmaņu pagastā''' 19. gadsimta beigās izauga [[Pļaviņas|Pļaviņu]] miests. 
+Pēc 1920. gada agrārās reformas [[Stukmaņu muiža|Stukmaņu muižu]] sadalīja 257 vienībās 1693 ha kopplatībā, Rīteres muižu sadalīja 39 vienībās 490 ha kopplatībā. 
+1925. gadā pagastu pārdēvēja par '''Pļaviņu pagastu'''. 1927. gadā Pļaviņām piešķīra pilsētas tiesības un atdalīja no pagasta. 1933. gadā no Pļaviņu pilsētas atdalīja [[Gostiņi|Gostiņu]] pilsētu. 1935. gadā pagasta platība bija 110 km² un tajā dzīvoja 1695 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Pļaviņu ciems|Pļaviņu]] un Klintaines [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Klintaines ciems''' ietilpis [[Pļaviņu rajons|Pļaviņu]] (1949-1959), [[Krustpils rajons|Krustpils]] (1959-1962), [[Jēkabpils rajons|Jēkabpils]] (1962-1967) un [[Stučkas rajons|Stučkas (vēlāk Aizkraukles)]] (pēc 1967. gada) rajonos. 1954. gadā Klintaines ciemam pievienoja Pļaviņu ciemu, 1960. gadā [[padomju saimniecība]]s «Pļaviņas» teritoriju pievienoja [[Pļaviņu lauku teritorija]]i. 1977. gadā daļu ciema teritorijas pievienoja Pļaviņu pilsētai.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Klintaines pagastu kā administratīvo teritoriju iekļāva [[Pļaviņu novads|Pļaviņu novadā]]. 2021. gadā, kā viena no Pļaviņu novada administratīvajām teritorijām, iekļauts [[Aizkraukles novads|Aizkraukles novadā]].
+
+=== Pieminekļi ===
+Valsts aizsargājamie kultūras pieminekļi:
+* nr. 2.: Robežakmens (14.-15.gs.), Rīgas - Daugavpils šosejas 120. km, Lejas silā
+* nr. 112.: [[Avotiņkalns (pilskalns)]] - pie bijušajiem Avotiņiem un Lūzāniem
+* nr. 113.: [[Pļaviņu pilskalns]] (Kaķu kalns) - pie Kaķkalniem
+* nr. 114.: Kalnapeļņu senkapi - pie Kalnapeļņiem
+* nr. 115.: [[Vīna kalns (pilskalns)]] un senkapi - pie Vīnakalniem
+* nr. 116.: [[Oliņkalns]] (pilskalns) - uz Daugavas salas iepretim Stukmaņiem
+* nr. 6156.: [[Stukmaņu muiža|Stukmaņu muižas]] apbūve (17. gs. II p. - 20. gs. s.)
+* nr. 6157.: Vecā Stukmaņu muižas kungu māja "Sikadele" (18. gs. 2. p.) 	
+* nr. 6158.: Stukmaņu muižas ratnīca un zirgu stallis ar torni 	(18. gs. b.)
+* nr. 6159.: Stukmaņu muižas klētis<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1695
+|1959|1758
+|1967|1708
+|1979|1153
+|1989|930
+|2000|920
+|2011|775
+|2021|593
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Stukmaņi]]''' (pagasta centrs), [[Rīteri]], [[Klintaine]], [[Mūrnieki (ciems)|Mūrnieki]], [[Sturti]], [[Dīķīši]], [[Stēģi]], [[Alkšņi (ciems)|Alkšņi]], [[Čulkstēni]], [[Salas (ciems)|Salas]], [[Zemlejas]].
+=== Ievērojamas personības ===
+*[[Andrejs Auzāns]] (1871—1953) bija latviešu topogrāfs un astronoms, latviešu strēlnieku virsnieks, Latvijas armijas ģenerālis. Triju Zvaigžņu ordeņa kavalieris.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Pļaviņu novads}}
+{{Aizkraukles rajons}}
+{{Rīgas apriņķis}}
+{{Jēkabpils apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Klintaines pagasts| ]]

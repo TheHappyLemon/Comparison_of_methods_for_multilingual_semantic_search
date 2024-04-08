@@ -1,0 +1,76 @@
+{{Hokejista infokaste v2
+ |           vārds = Gijs Leflērs
+ |      vārds_orig = ''Guy Lafleur''
+ |          attēls = Guy Lafleur 2010.jpg
+ |         att_izm = 
+ |        paraksts = G. Leflērs [[2010]]. gadā
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dat|1951|9|20}}
+ |         dz_viet = {{Vieta|Kanāda|Terso}}
+ |         mir_dat = {{miršanas datums un vecums|2022|4|22|1951|9|20}}
+ |        mir_viet = {{Vieta|Kanāda|Kvebeka|Monreāla}}
+ |          garums = 183 [[centimetrs|cm]]
+ |           svars = 84 [[kilograms|kg]]
+ |         iesauka = 
+ |             poz = [[uzbrucējs (hokejs)|Labās malas uzbrucējs]]
+ |        tvēriens = Labais
+ |         kar_sāk = 1971
+ |        kar_beig = 1991
+ |       izglītība = 
+<!------ Drafts ------>
+ |          drafts = 1., 1. kārtā
+ |         dr_gads = [[1971. gada NHL drafts|1971]]
+ |         dr_līga = NHL
+ |          dr_kom = [[Monreālas "Canadiens"]]
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 1976—1981
+ |          taut 1 = {{ih|CAN}}
+<!------ Papildinformācija ------>
+ |            balv = [[Harta balva]] — 1977, 1978<br />[[Kona Smita balva]] — 1977<br />[[Ārta Rosa balva]] — 1976, 1977, 1978<br />[[Lestera Pīrsona balva]] — 1976, 1977, 1978
+ |           slavz = [[Hokeja slavas zāle]] {{small|(1988)}}
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = {{dat|2022|4|23||bez}}
+<!------ Medaļas ------>
+ |   rādīt_medaļas = jā
+ |     headercolor = 
+ |  medaltemplates = 
+}}
+'''Gijs Demiens Leflērs''' ({{val-fr|Guy Damien Lafleur}}, dzimis {{dat|1951|9|20}}, miris {{dat|2022|4|22}}) bija kanādiešu [[hokejs|hokejists]], [[uzbrucējs (hokejs)|labās malas uzbrucējs]]<ref>https://www.cbc.ca/sports/hockey/nhl/guy-lafleur-obituary-1.5766441</ref>. Savas karjeras laikā aizvadījis 17 sezonas [[Nacionālā hokeja līga|Nacionālās hokeja līgas]] klubos [[Monreālas "Canadiens"]], [[Ņujorkas "Rangers"]] un [[Kvebekas "Nordiques"]]. Gijs bija pieckārtējs [[Stenlija kauss|Stenlija kausa]] ieguvējs, divas reizes atzīts par līgas vērtīgāko spēlētāju, trīs reizes bijis tās rezultatīvākais spēlētājs. [[1988]]. gadā Leflērs uzņemts [[Hokeja slavas zāle|Hokeja slavas zālē]].
+
+== Spēlētāja karjera ==
+1984.—85. gada sezonā pēc 20 nospēlētām spēlēm viņš paziņoja par aiziešanu no hokeja, jo sezonā tobrīd bija guvis tikai divus vārtus. 1988. gadā, pēc viņa iekļaušanas Hokeja slavas zālē, viņš atgriezās NHL, līgā aizvadot vēl trīs sezonas.
+
+Savas [[Nacionālā hokeja līga|NHL]] karjeras laikā laukumā devies 1126 spēlēs, tajās atzīmējoties ar 1353 (560+793) rezultativitātes punktiem.
+
+[[Kanādas hokeja izlase]]s rindās spēlējis [[1981. gada Pasaules čempionāts hokejā|1981. gada Pasaules čempionātā]], kā arī [[1976. gada Kanādas kausa izcīņa|1976]]. un [[1981. gada Kanādas kausa izcīņa|1981]]. gada [[Kanādas kausa izcīņa|Kanādas kausa izcīņās]].
+
+1998. gadā žurnāla ''The Hockey News'' veiktajā balsojumā viņš ierindots 11. vietā 100 visu laiku labāko hokejistu vidū.
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+== Atsauces ==
+
+{{Kanāda-aizmetnis}}
+{{hokejists-aizmetnis}}
+
+{{kastes sākums}}
+{{s-tituli}}
+{{amatu secība|virsraksts=[[Nacionālā hokeja līga|NHL]] [[Nacionālās hokeja līgas drafts|drafta]] pirmais numurs |pirms={{flaga|Kanāda}} [[Žilbērs Pero]]|pēc={{flaga|Kanāda}} [[Billijs Hariss]]|periods=[[1971. gada NHL drafts|1971]]}}
+{{kastes beigas}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Leflērs, Gijs}}
+[[Kategorija:1951. gadā dzimušie]]
+[[Kategorija:Kanādas hokejisti]]
+[[Kategorija:Monreālas "Canadiens" spēlētāji]]
+[[Kategorija:Ņujorkas "Rangers" spēlētāji]]
+[[Kategorija:Kvebekas "Nordiques" spēlētāji]]
+[[Kategorija:Stenlija kausa ieguvēji]]
+[[Kategorija:Hokeja slavas zālē uzņemtie]]
+[[Kategorija:NHL drafta pirmās kārtas izvēles]]
+[[Kategorija:Kvebekā dzimušie]]
+[[Kategorija:2022. gadā mirušie]]

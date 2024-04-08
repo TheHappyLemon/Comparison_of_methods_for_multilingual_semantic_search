@@ -1,0 +1,46 @@
+{{BioTakso infokaste
+| attēls =Branchiostoma_lanceolatum.jpg
+| att_nosaukums ={{TaksoSaite|Branchiostoma lanceolatum|Eiropas lancetnieks}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| apakštips =Cephalochordata
+| apakštips_lv =Galvhordaiņi
+| iedalījums =
+{{TaksoSaite|Leptocardii|Lancetnieki}} 
+| kategorijas =nē
+| sinonīmi =
+*''Acrania''
+}}
+'''Galvhordaiņi''' jeb '''bezgalvaskausaiņi''' (''Cephalochordata'') ir [[Hordaiņi|hordaiņu]] tipa apakštips. Tie ir sīki [[jūra|jūru]], reizēm arī [[esuārijas|esuāriju]] [[dzīvnieki]], kuri pēc formas atgādina [[zivis]]. Saglabājuši visas galvenās hordaiņu pazīmes: ir [[iekšējais skelets]] ([[muguras stiegra]]) un cauruļveida [[nervu sistēma]]; [[rīkle]] ar atverēm kalpo par elpošanas orgānu, [[gremošanas trakts|gremošanas traktam]] ir [[aknas|aknu]] izaugums.
+
+== Sistemātika ==
+Apakštips apvieno 30—35 sugas, kuras pieder vienai klasei — {{TaksoSaite|Leptocardii|Lancetnieki}}.
+
+'''Apakštips''' {{TaksoSaite|Cephalochordata|Galvhordaiņi}}
+* klase {{TaksoSaite|Leptocardii|Lancetnieki}} (Amphioxi)
+
+<!--
+'''Apakštips''' {{TaksoSaite|Cephalochordata|Galvhordaiņi}}
+* klase {{TaksoSaite|Leptocardii|Lancetnieki}} (Amphioxi)
+* klase: [[Leptocardii]] (syn. Amphioxi)
+:* kārta: Branchiostomatiformes (syn. Amphioxiformes)
+
+::* dzimta: Asymmetronidae 
+:::* ģints: Asymmetron Andrews
+:::* ģints: Epigonichthys Peters
+:::* ģints: Amphioxides Gill
+
+::* dzimta: Branchiostomidae
+:::* ģints: Branchiostoma Costa et Yarrell
+:::* ģints: Dolichorhynchus Willey
+-->
+
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Galvhordaiņi| ]]
+[[Kategorija:Hordaiņi]]

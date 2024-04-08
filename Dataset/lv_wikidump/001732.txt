@@ -1,0 +1,51 @@
+{{Apdzīvotas vietas infokaste
+| name = Garļava
+| image_skyline =Garliavos Juozo Lukšos gimnazij.JPG
+| imagesize = 300px
+| image_caption = Garļavas gimnāzija
+| image_flag = 
+| image_shield = Garliava COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Kauņas rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1958
+| area_total_km2 = 3.65
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total =  10112
+| population_density_km2 = auto
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 49 
+| lats = 45 
+| latNS = N 
+| longd = 23 
+| longm = 52 
+| longs = 37
+| longEW = E
+| elevation_m = 68
+| website = }}
+
+'''Garļava''' ({{val|lt|Garliava}}) ir pilsēta [[Lietuva|Lietuvā]], [[Kauņas apriņķis|Kauņas apriņķī]], uz dienvidiem no [[Kauņa]]s. Rakstos pirmoreiz minēta 1809. gadā, kad muižnieks Juzefs Godlevskis šeit uzcēla baznīcu. Pilsētas nosaukums cēlies, pārveidojot Godlevska uzvārdu.
+
+Garļava 2008. gadā kļuva pazīstama kā [[Drasjus Ķēdis|Drasja Ķēža]] (''Drąsius Kedys'', 1972-2010) dzīvesvieta. Ķēža apgalvojumi par [[pedofilija|pedofiliju]] Lietuvas valsts augstu amatpersonu aprindās un turpmākie notikumi (tiesneša slepkavība, Ķēža nāve neskaidros apstākļos, galvenā aizdomās turētā nāve), 2012. gadā radīja politisko partiju "[[Drosmes ceļš]]" (''Drąsos Kelias''), kas 2012. gada [[Lietuvas Republikas Seims|Seima]] vēlēšanās ieguva apmēram 8% balsu.
+
+== Sports ==
+* [[FK Garliava]] futbola klubs;
+* Adoma Mickaus skolas stadions.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+[[Kategorija:Lietuvas pilsētas]]

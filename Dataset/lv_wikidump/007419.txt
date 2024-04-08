@@ -1,0 +1,88 @@
+{{Latvijas novada infokaste
+| nosaukums         = Susāju pagasts
+| karte             = Susāju pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Viļaka
+| platība           = 198,1
+| iedzīvotāji       = 625<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 625 / 198.1 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Susāju pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Viļaka]]s pilsētu un [[Žīguru pagasts|Žīguru]], [[Medņevas pagasts|Medņevas]], [[Kupravas pagasts|Kupravas]], [[Bērzkalnes pagasts|Bērzkalnes]] un [[Vīksnas pagasts|Vīksnas]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ==== 
+[[Bušma]], [[Meirupīte]], [[Sūcene]], [[Tutinova (upe)|Tutinova]], [[Vārniene]], [[Vjada]].
+
+==== Ezeri ====
+[[Nastrovas ezers]], [[Tepenīcas ezers]], [[Viļakas ezers]].
+
+== Vēsture ==
+1945. gadā [[Abrenes apriņķis|Abrenes apriņķa]] [[Viļakas pagasts|Viļakas pagastā]] izveidoja Susāju [[ciema padome|ciema padomi]]. '''Susāju ciems''' ietilpis [[Viļakas apriņķis|Viļakas apriņķī]] (1945-1949) un [[Abrenes rajons|Abrenes]] (1949-1959) un [[Balvu rajons|Balvu]] (pēc 1959. gada) rajonos. Susāju ciemam 1951. gadā pievienoja likvidēto [[Viļakas ciems|Viļakas ciemu]], 1959. gadā — daļu likvidētā [[Kupravas ciems|Kupravas ciema]]. 1974. gadā [[Kuprava]]i tika piešķirts [[pilsētciemats|pilsētciemata]] statuss un tās teritorija tika atdalīta no Susāju ciema. 1977. gadā daļu Susāju ciema teritorijas pievienoja [[Vecumu pagasts|Vecumu ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Susāju pagastu kā administratīvo teritoriju iekļāva [[Viļakas novads|Viļakas novadā]]. 2021. gadā Viļakas novadu iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Valsts aizsargājamie kultūras pieminekļi ===
+* Nr. 294.: Tepenīcas viduslaiku kapsēta - Tepenīcā pie karjera	
+* Nr. 295.: Vedeniešu viduslaiku kapsēta - Vedeniešos, Vedas upes kreisajā krastā
+* Nr. 2864.: Pētera Šaicāna sēta - Vedeniešos (19. gs. b. - 20. gs.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|4500
+|1959|3315
+|1969|2463
+|1979|1665
+|1989|1000
+|2000|1005
+|2011|618
+|2021|467
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Brāslava (Susāju pagasts)|Brāslava]], [[Čabatrova]], [[Egļava]], [[Eržepole]], [[Garstērdele (Susāju pagasts)|Garstērdele]], [[Gailava|Gailova]], [[Gruzdova]], [[Ilziņi (Susāju pagasts)|Ilziņi]], [[Irikava]], [[Karigova]], [[Keiši (Susāju pagasts)|Keiši]], [[Klāni (Susāju pagasts)|Klāni]], [[Kravaļi (Susāju pagasts)|Kravaļi]], [[Krustacelms]], [[Kulpene]], [[Meirova]], [[Mežarija (Susāju pagasts)|Mežarija]], [[Mucukalns]], [[Sils (Susāju pagasts)|Sils]], [[Skockova]], [[Stompaki]], [[Susāji]], [[Svilpova]], [[Tutinova (Susāju pagasts)|Tutinova]],[[Tepenīca]], [[Vēdenieši]]. Pagasta pārvalde atrodas '''Viļakā'''.<ref>{{Tīmekļa atsauce |url=http://www.vilaka.lv/?p=2370&pp=11907&lang=722 |title=Viļakas novada dome. |access-date={{dat|2010|10|24||bez}} |archiveurl=https://web.archive.org/web/20160304232524/http://www.vilaka.lv/?p=2370&pp=11907&lang=722 |archivedate={{dat|2016|03|04||bez}} }}</ref>
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+<!-- == Ārējās saites ==
+* [http://www.susaji.gov.lv Susāju pagasta mājaslapa] NEDARBOJAS -->
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Viļakas novads}}
+{{Balvu rajons}}
+}}
+
+{{DEFAULTSORT:Susaju pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Susāju pagasts| ]]
+[[Kategorija:Viļakas pagasts]]

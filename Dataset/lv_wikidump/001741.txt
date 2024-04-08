@@ -1,0 +1,60 @@
+{{Apdzīvotas vietas infokaste
+| name = Kuršēni
+| official_name = ''Kuršėnai''
+| settlement_type = pilsēta
+| image_skyline =Kuršėnai 2.jpg
+| imagesize = 300px
+| image_caption = Skats uz Kuršēniem
+| image_flag = 
+| image_shield = Kursenai COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Šauļu rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1947
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 10921
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 56
+| latm = 00 
+| lats = 20 
+| latNS = N 
+| longd = 22 
+| longm = 56 
+| longs = 10
+| longEW = E
+| elevation_m = 111
+| website = {{url|http://www.kursenai.lt/}}
+}}
+'''Kuršēni''' ({{val-lt|Kuršėnai}}) ir pilsēta [[Lietuva]]s ziemeļos uz rietumiem no [[Šauļi]]em pie [[Venta]]s upes.
+
+Pirmoreiz rakstos minēta 16. gadsimtā. [[Bermontiāde]]s laikā Kuršēnos bāzējās [[Virgoļiča korpuss]]. Kuršēni ir futbolista [[Deivids Česnauskis|Deivida Česnauska]] (''Deividas Česnauskis'', 1981) un amerikāņu vēsturnieka [[Donalds Kagans|Donalda Kagana]] (''Donald Kagan'', 1932) dzimtā pilsēta.
+
+== Iedzīvotāji ==
+=== Ievērojamas personības ===
+Kuršēnos dzimuši vai dzīvojuši:
+* [[Stasis Raštiķis]] (lietuviešu: Stasys Raštikis, 1896 — 1985), lietuviešu ģenerālis, Lietuvas armijas komandieris (1935 — 1940), kā arī kara ministrs (1938 — 1940).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Lietuva-aizmetnis}}
+
+{{Lietuvas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lietuvas pilsētas]]

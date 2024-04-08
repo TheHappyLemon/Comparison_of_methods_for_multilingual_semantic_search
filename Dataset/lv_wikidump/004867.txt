@@ -1,0 +1,109 @@
+{{Futbola izlases infokaste
+| Name               = Armēnija
+| Badge              = Futbols-Armenija.gif
+| Badge_size         = 100px
+| FIFA Trigramme     = ARM
+| Association        = [[Armēnijas Futbola federācija]]
+| Confederation      = [[UEFA]]
+| Coach              = {{flaga|UKR}} [[Oleksandrs Petrakovs]]
+| Captain            = [[Varazdats Harojans]]
+| Most caps          = [[Sarkiss Hovsepjans]] (132)
+| Top scorer         = [[Henriks Mhitarjans]] (32)
+| Home Stadium       = ''[[Hrazdan Stadium]]''<br />''[[Hanrapetakan Stadium]]''
+| FIFA Rank          = 1950
+| 1st ranking date   = 
+| FIFA max = 78
+| FIFA max date = 2008
+| FIFA min = 159
+| FIFA min date = 1994
+| Elo Rank = 117
+| Elo max = 93
+| Elo max date = 2004
+| pattern_la1      = _arm22h
+| pattern_b1       = _arm22h
+| pattern_ra1      = _arm22h
+| pattern_sh1      = _arm22h
+| pattern_so1      = _arm20h
+| leftarm1         = B70000
+| body1            = B70000
+| rightarm1        = B70000
+| shorts1          = B70000
+| socks1           = B70000
+| pattern_la2      = _arm22a
+| pattern_b2       = _arm22a
+| pattern_ra2      = _arm22a
+| pattern_sh2      = _arm22a
+| pattern_so2      = _arm20t
+| leftarm2         = FEB400
+| body2            = FEB400
+| rightarm2        = FEB400
+| shorts2          = FEB400
+| socks2           = FFFFFF
+| pattern_la3      = _arm22t
+| pattern_b3       = _arm22t
+| pattern_ra3      = _arm22t
+| pattern_sh3      = _arm22t
+| pattern_so3      = _arm22t
+| leftarm3         = FFFFFF
+| body3            = FFFFFF
+| rightarm3        = FFFFFF
+| shorts3          = FFFFFF
+| socks3           = FFF000
+| First game = {{fb|ARM}} 0:0 {{fb-rt|MDA}} <br />([[Erevāna]], [[Armēnija]]; {{dat|1992|10|14|N|bez}}) 
+| Largest win ={{fb|ARM}} 7:1 {{fb-rt|GUA}} <br />([[Losandželosa]], [[Amerikas Savienotās Valstis|ASV]]; {{dat|2016|5|28|N|bez}})
+|Largest loss = {{fb|NOR}} 9:0 {{fb-rt|ARM}} <br />([[Oslo]], [[Norvēģija]]; {{dat|2022|3|29|N|bez}})
+}}
+
+'''Armēnijas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Armēnija|Armēnijas valsti]] starptautiskās futbola sacensībās. To pārvalda [[Armēnijas Futbola federācija]]. Pēc [[Padomju Savienība]]s sabrukšanas, 1992. gada oktobrī aizvadīja savu pirmo spēli pret [[Moldovas futbola izlase|Moldovu]].
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1994. gada FIFA Pasaules kauss|1994]] - ''Nepiedalījās, atradās [[Padomju Savienība|PSRS]] sastāvā''
+* [[1998. gada FIFA Pasaules kauss|1998]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+* [[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+* [[2022. gada FIFA Pasaules kauss|2022]] - [[2022. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1992. gada Eiropas čempionāts futbolā|1992]] - ''Nepiedalījās, atradās [[Padomju Savienība|PSRS]] sastāvā''
+* [[1996. gada Eiropas čempionāts futbolā|1996]]-[[2020. gada Eiropas čempionāts futbolā|2020]] - ''Nekvalificējās''
+
+== Sastāvs ==
+Šāds sastāvs tika izsaukts uz [[Draudzības spēle|Draudzības spēlēm]] pret [[Baltkrievijas futbola izlase|Baltkrieviju]] un [[Kipras futbola izlase|Kipru]], 9 un 13 novembrī 2017.{{nat fs g start|background=#CC0000|color=white}}
+{{nat fs g player|no=|pos=GK|name=[[Arsens Beglarjans]]|age={{Birth date and age|df=yes|1993|2|18}}|caps=13|goals=0|club=[[FC Alashkert|Alashkert]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=GK|name=[[Gor Manukyan]]|age={{Birth date and age|df=yes|1993|9|27}}|caps=0|goals=0|club=[[FC Pyunik|Pyunik]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=GK|name=[[Arman Meliksetyan]]|age={{Birth date and age|df=yes|1995|6|21}}|caps=0|goals=0|club=[[FC Ararat Yerevan|Ararat Yerevan]]|clubnat=ARM}}
+{{nat fs break|background=#CC0000}}
+{{nat fs g player|no=|pos=DF|name=[[Varazdat Haroyan]]|age={{Birth date and age|df=yes|1992|8|24}}|caps=27|goals=1|club=[[FC Ural Yekaterinburg|Ural Yekaterinburg]]|clubnat=RUS}}
+{{nat fs g player|no=|pos=DF|name=[[Artak Yedigaryan]]|age={{Birth date and age|df=yes|1990|3|18}}|caps=26|goals=1|club=[[FC Alashkert|Alashkert]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=DF|name=[[Hovhannes Hambardzumyan]]|age={{Birth date and age|df=yes|1990|10|4}}|caps=20|goals=2|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs g player|no=|pos=DF|name=[[Gaël Andonian]]|age={{Birth date and age|df=yes|1995|2|7}}|caps=19|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=|pos=DF|name=[[Gagik Daghbashyan]]|age={{Birth date and age|df=yes|1990|10|19}}|caps=9|goals=0|club=[[FC Alashkert|Alashkert]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=DF|name=[[Artyom Mikaelyan]]|age={{Birth date and age|df=yes|1991|07|12}}|caps=2|goals=0|club=[[FC Shirak|Shirak]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=DF|name=[[Hayk Ishkhanyan]]|age={{Birth date and age|df=yes|1989|6|24}}|caps=1|goals=0|club=[[FC Gandzasar Kapan|Gandzasar]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=DF|name=Robert Darbinyan|age={{Birth date and age|df=yes|1995|10|4}}|caps=0|goals=0|club=[[FC Shirak|Shirak]]|clubnat=ARM}}
+{{nat fs break|background=#CC0000}}
+{{nat fs g player|no=|pos=MF|name=[[Henrikh Mkhitaryan]]||other=[[Captain (association football)|Captain]]|age={{Birth date and age|df=yes|1989|1|21}}|caps=69|goals=24|club=[[Manchester United FC|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Marcos Pizzelli]]|age={{Birth date and age|df=yes|1984|10|3}}|caps=60|goals=9|club=[[Al-Shabab FC (Riyadh)|Al-Shabab]]|clubnat=KSA}}
+{{nat fs g player|no=|pos=DF|name=[[Kamo Hovhannisyan]]|age={{Birth date and age|df=yes|1992|10|5}}|caps=35|goals=0|club=[[FC Torpedo-BelAZ Zhodino|Torpedo-BelAZ]]|clubnat=BLR}}
+{{nat fs g player|no=|pos=MF|name=[[Aras Özbiliz]]|age={{Birth date and age|df=yes|1990|3|9}}|caps=33|goals=6|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=|pos=MF|name=[[Edgar Malakyan]]|age={{Birth date and age|df=yes|1990|9|22}}|caps=18|goals=0|club=[[FC Stal Kamianske|Stal Kamianske]]|clubnat=UKR}}
+{{nat fs g player|no=|pos=MF|name=[[Artak Grigoryan (Armenian footballer)|Artak Grigoryan]]|age={{Birth date and age|df=yes|1987|10|19}}|caps=10|goals=1|club=[[FC Alashkert|Alashkert]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=MF|name=[[Rumyan Hovsepyan]]|age={{Birth date and age|df=yes|1991|11|13}}|caps=9|goals=2|club=[[FC Banants|Banants]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=MF|name=[[Gegham Kadymyan]]|age={{Birth date and age|df=yes|1992|10|19}}|caps=7|goals=2|club=[[FC Vorskla Poltava|Vorskla Poltava]]|clubnat=UKR}}
+{{nat fs g player|no=|pos=MF|name=[[Artem Simonyan]]|age={{Birth date and age|df=yes|1995|2|20}}|caps=5|goals=0|club=[[FC Alashkert|Alashkert]]|clubnat=ARM}}
+{{nat fs g player|no=|pos=MF|name=[[Erik Vardanyan]]|age={{Birth date and age|df=yes|1998|6|7}}|caps=1|goals=1|club=[[FC Pyunik|Pyunik]]|clubnat=ARM}}
+{{nat fs break|background=#CC0000}}
+{{nat fs g player|no=|pos=FW|name=[[Ruslan Koryan]]|age={{Birth date and age|df=yes|1988|6|15}}|caps=13|goals=3|club=[[FC SKA-Khabarovsk|SKA-Khabarovsk]]|clubnat=RUS}}
+{{nat fs g player|no=|pos=FW|name=[[Tigran Barseghyan]]|age={{Birth date and age|df=yes|1993|9|22}}|caps=10|goals=1|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs g player|no=|pos=FW|name=[[Sargis Adamyan]]|age={{Birth date and age|df=yes|1993|5|23}}|caps=6|goals=0|club=[[SSV Jahn Regensburg]]|clubnat=GER}}
+{{nat fs end|background=#CC0000}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites}}
+* [https://web.archive.org/web/20130813072027/http://www.armenia.fifa.com/ Armēnijas Futbola federācija]
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Armēnijas futbola izlase| ]]

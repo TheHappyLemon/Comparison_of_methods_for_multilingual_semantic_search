@@ -1,0 +1,31 @@
+Par '''vienības matricu''' ar kārtu <math>n</math> sauc tādu <math>n\times n</math> kvadrātveida [[matrica|matricu]], kurai visi galvenās diagonāles elementi ir <math>1</math>, bet pārējie ir <math>0</math>. Parasti vienības matricu apzīmē ar <math>I</math> vai arī <math>E</math>.
+
+== Piemēri ==
+
+1. kārtas vienības matrica ir<br />
+<math> I = \begin{pmatrix} 1 \end{pmatrix} </math>
+
+2. kārtas vienības matrica ir<br />
+<math> I = \begin{pmatrix} 1 & 0 \\
+0 & 1
+\end{pmatrix} </math>
+
+3. kārtas vienības matrica ir<br />
+<math> I = \begin{pmatrix} 1 & 0 & 0 \\
+0 & 1 & 0 \\ 0 & 0 & 1
+\end{pmatrix} </math>
+
+utt.
+
+== Īpašība ==
+
+Vienības matricai piemīt īpašība: jebkuru ''n''×''n'' matricu ''A'' reizinot ar tādas pašas kārtas vienības matricu, iegūst to pašu matricu ''A'' neatkarīgi no reizināšanas kārtības:
+
+:<math>IA = AI = A. \,</math>
+
+== Skatīt arī ==
+
+* [[Vienības elements]]
+
+{{Lineārā algebra|expanded}}
+[[Kategorija:Matricu teorija]]

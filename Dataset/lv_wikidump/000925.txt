@@ -1,0 +1,290 @@
+{{vikisaites+}}
+{{sadalīt}}
+'''Datortīkls''' ir datu pārraides sistēma, kas savieno dažādās vietās esošus datorus. Tīklu veido [[aparatūra]] un [[programmatūra]], kas nodrošina tīkla aparatūras funkcionēšanu.
+
+Darbs datortīklā lietotājiem sniedz dažādas priekšrocības kā iespēju savstarpēji apmainīties ar informāciju, piemēram, nosūtīt dokumentu citam cilvēkam, kas atrodas tajā pašā ēkā vai pat citā valstī, izmantot kopīgas datu bāzes, kurās var būt apkopota jebkura veida informācija, izmantot koplietošanas diskus, kuros glabājas dati, pie kuriem var piekļūt, piemēram, visi vienas skolas skolēni, iespēju lietot kopīgas perifērijas ierīces, piemēram, printeri, paaugstināt darba efektivitāti, izmantojot jaunās informācijas tehnoloģijas, piemēram, rīkot videokonferences.
+
+Kā galveno trūkumu darbam datortīklā var minēt drošības samazināšanos. It sevišķi tas raksturīgs darbam datortīklā Internet, kurā lietotāja informāciju apdraud datorvīrusi, zagšanas mēģinājumi u. tml.
+
+Datortīklos parasti tiek izmantota klientservera arhitektūra, kas paredz datu apstrādes procesu sadalīt starp klientu un serveri. Serveris ir dators, kas nodrošina citiem tīkla datoriem koplietošanas pakalpojumus, piemēram, informācijas glabāšanu, printera lietošanu. Klients ir dators, kas pieprasa serverim kādu pakalpojumu, piemēram, nosūta dokumentu izdrukāšanai vai nolasa informāciju no servera diska. Serveris vienlaikus var apkalpot vairākus klientus.
+
+== Vēsture ==
+{{mašīntulkojums}}
+Pirms parādījās pirmie datortīkli, kuri balstīti uz dažādu veidu telekomunikāciju sistēmām, sakarus starp aprēķinu mašīnām un agrīnajiem datoriem nodrošināja cilvēki - dodot tiem norādījumus. Vairumu no tīklos izmantotās sociālās uzvedības, kura novērojama mūsdienu internetā, jau izmantota 19. gadsimtā vai iespējams pat vēl agrāk, lietojot vizuālos signālus.
+
+1950. gada nogalē pirmie datoru komunikāciju tīkli tika izveidoti armijas radaru sistēmu vajadzībām [[Semi-Automatic Ground Environment]] (SAGE). 1960. gadā ar diviem savienotiem lieldatoriem tika iedarbināta gaisa līniju rezervāciju sistēma [[semi-automatic business research environment]] (SABRE). 1962. gadā [[J.C.R. Licklider]] izveidoja darba grupu, kuru nosauca par "Starpgalaktisko Datoru Tīklu" "[[Intergalactic Computer Network]]", [[ARPANET]] priekšgājēju, [[Advanced Research Projects Agency]] [[ARPA]]. 1964. gadā zinātnieki (Dartmouth) izveidoja [[Dartmouth Time Sharing System]] lielas datoru sistēmas lietotājiem. Tajā pašā gadā [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtā]] zinātnieku grupa, kuru sponsorēja [[General Electric]] un [[Bell Labs]] izmantoja datoru, lai maršrutētu un vadītu telefonu savienojumus. 1960. gadā [[Leonard Kleinrock]], [[Paul Baran]] un [[Donald Davies]] neatkarīgi izveidoja tīklu sistēmu koncepciju un attīstīja to, lietojot paketes [[packet (information technology)|packets]], lai pārnestu informāciju starp datoriem caur tīklu. 1965. gadā (Thomas Marill) un [[Lawrence G. Roberts]] radīja pirmo [[Teritoriālais tīkls|WAN]]. Tas tūlīt arī bija [[ARPANET]] priekšgājējs, kurā Robertss kļuva par programmas vadītāju. 1965. gadā [[Western Electric]] radīja pirmo plaši lietoto telefonu slēdzi [[telephone switch]], kas veica īsto datoru vadību. 1969. gadā [[Kalifornijas Universitāte (Losandželosa)|Kalifornijas Universitāte Losandželosā]], [[Stanford Research Institute]], [[University of California at Santa Barbara]], un [[University of Utah]] tika savienotas tīklā, kas bija [[ARPANET]] tīkla sākums, lietojot 50 kbit/s savienojumu.<ref>{{tīmekļa atsauce |title=Internet Began 35 Years Ago at UCLA with First Message Ever Sent Between Two Computers |url=http://www.engineer.ucla.edu/stories/2004/Internet35.htm |author=Chris Sutton|publisher=''[[Kalifornijas Universitāte (Losandželosa)|UCLA]]''|archiveurl=https://web.archive.org/web/20080308120314/http://www.engineer.ucla.edu/stories/2004/Internet35.htm |archivedate=March 8, 2008}}</ref>
+
+1972. gadā tika izstrādāti sabiedriskie servisi [[X.25]], kas vēlāk tika izmantoti kā pamatakmens plašo [[TCP/IP]] tīklu infrastruktūras radīšanai. 1973. gadā [[Robert Metcalfe]] uzrakstīja formālu dienesta vēstuli uz [[Xerox PARC]], aprakstot [[Ethernet]], tīklošanās sistēmu, kas tika balstīta uz [[ALOHAnet|Aloha tīklu]], kuru attīstīja 1960. gadā [[Norman Abramson]] ar kolēģiem [[University of Hawaii]]. 1976. gadā [[Robert Metcalfe]] un [[David Boggs]] publicēja pirmo publikāciju "Ethernet: Distributed Packet Switching for Local Computer Networks" <ref>[http://www.acm.org/classics/apr96/ Ethernet: Distributed Packet Switching for Local Computer Networks] {{Webarchive|url=https://web.archive.org/web/20070807213308/http://www.acm.org/classics/apr96/ |date={{dat|2007|08|07||bez}} }}, Robert M. Metcalfe and David R. Boggs, Communications of the ACM (pp 395–404, Vol. 19, No. 5), July 1976.</ref> un līdzdarbojās vairākos projektos, kur dabūja patentus 1977. un 1978. gadā. 1979. gadā Roberts Metkalfs panāca to, ka tīkls Ethernet kļuva par atvērto standartu.<ref name="Spurgeon 2000">{{grāmatas atsauce|last=Spurgeon|first=Charles E.|title=Ethernet The Definitive Guide|url=https://archive.org/details/ethernetdefiniti0000spur|year=2000|publisher=O'Reilly & Associates|isbn=1-56592-660-9}}</ref> 1976. gadā (John Murphy) [[Datapoint Corporation]] radīja [[ARCNET]], ar atļauju pieejamam tīklam, kuru lietoja, lai dalītos ar datu uzglabātuvju iekārtām.
+
+1995. gadā Ethernet pārraides ātrums tika palielināts no 10 Mbit/s līdz 100 Mbit/s. Kopš 1998. gadā Ethernet atbalsta pārraides ātrumu līdz pat Gigabitam. Ethernet iespējas viegli mainīt tā kapacitāti (tādu kā iespējau palielināt optiskā kabeļa ātrumu, pievienojot jaunas šķiedras) padara to par elastīgu un efektīvu, kāpēc to arī lieto mūsdienās.<ref name="Spurgeon 2000" />
+
+Šodien, datortīkli ir pamats visām mūsdienu komunikācijām. Visi mūsdienās izmantotie tehnoloģiju līdzekļi publisko komutējamo telefonu tīklā [[public switched telephone network]](PSTN) ir datoru kontrolēti, un telefonija arvien vairāk darbojas izmantojot tieši interneta protokolu, un neobligāti publisko internetu. Sakaru darbības joma ir ievērojami augusi tieši pēdējās desmitgades laikā, un šis sakaru uzplaukums nebūtu bijis iespējams bez datortīklu izmantošanas. Datortīklus, kā arī tehnoloģijas, kuras nepieciešamas, lai izveidotu savienojumu un sazinātos caur un starp tiem, turpina vadīt datoru aparatūras, programmatūras un perifērijas ierīču nozares.
+
+== Datortīklu nepieciešamība ==
+Datortīklus ir ērti izmantot, ja nepieciešams darba izstrādē, vienlaicīga vairāku cilvēku iejaukšanās, piemēram, izstrādājot, datu bāzi, tabulas utt.. Organizācijas datņu apmaiņa var notikt ar diskešu, optisko disku un zibatmiņu veidā, taču tas ir neērti un laikietilpīgs process. Taču ja datori savstarpēji saslēgti tīklā, lietotāji var strādāt vienlaicīgi un tūlītējas pārmaiņas, ir arī datu bāzē redzamas pārējiem tīkla lietotājiem.
+
+Datortīklus parasti veido arī ekonomisko apsvērumu dēļ, lai katram datoram nebūtu jāpievieno savs [[printeris]], kopētājs. Tīkls ļauj koplietot dažādas [[perifērijas ierīces]].
+
+== Datortīklu problēmu diagnosticēšana un risināšana ==
+Datortīklu problēmu iedalījums:
+
+* Kļūmes vai bojājumi tīkla aparatūrā;
+* Kļūdas vai kļūmes tīkla konfigurācijā vai programmatūrā.
+
+Lai efektīvi sekotu līdzi un noteiktu, kur meklējama  iespējamā kļūme datortīklā, lokālā tīkla darbībai, nepieciešams izmantot kādu programmnodrošinājumu, kas attēlo tīkla darbību reālajā laikā, piemēram, Fpinger.
+
+Liela nozīme ir arī lokālā tīkla aparatūras izvietojumam un apzīmējumiem. Piemēram, lietojot [http://termini.lza.lv/term.php?term=komutators&list=komutators&lang=LV komutatoru], ja katrā [http://termini.lza.lv/term.php?term=ports&list=ports&lang=LV pieslēgvietā (portā)] ir pievienots dators un nav apzīmēts, kurš ports uz kuru datoru attiecas, tas var radīt
+
+problēmas, meklējot kļūmes datortīklā, it sevišķi apgrūtinoši tas varētu būt, ja komutators atrodas pavisam citā telpā.<ref name=":0">{{Grāmatas atsauce|title=Mācību metodiskie materiāli profesionālajam mācību priekšmetam Datoru tīkli|last=Ceiruls|first=Viktors|publisher=Ogres profesionālā vidusskola|year=2010|isbn=|location=Ogre|pages=97-99}}</ref>
+
+Tīklu veidojošajos fiziskajos elementos galvenās iespējamās problēmas var būt šādas:
+
+* Nav pievienots vai ir izkustējies tīkla kabelis no lokālā tīkla aktīvās ierīces;
+* Bojāta [[tīkla karte]];
+* Bojāts komutators, koncentrētājs vai [[maršrutētājs]];
+* Bojāts konektors;
+* Bojāts tīkla kabelis.<ref name=":0" />
+
+Operētājsistēmu konfigurācijas vai programmatūras galvenās iespējamās problēmas:
+
+* Nav vai ir nepareizi noskaņota tīkla karte;
+* Nav pareizi nokonfigurēta tīkla karte;
+* Nepareizi pielietojamās ugunssienas uzstādījumi;
+* Tīklā atrodas datori ar vienādu konfigurāciju;
+* Kļūmes programmnodrošinājumā.<ref name=":0" />
+
+Datortīklu pielietojamie instrumenti:
+
+* [https://www.garagetooladvisor.com/electrical/best-rj45-crimper/ Instruments konektoru montāžai];
+* Savienojumu testeris;
+* Datortīklu testēšanas iekārtas.<ref name=":0" />
+
+== Iedalījums ==
+
+=== Pēc lieluma ===
+Pēc relatīvā attāluma starp tīkla mezgliem (''nodes'') datortīklus iedala:
+* [[Lokālais tīkls]]
+* [[Bezvadu lokālais tīkls]]
+* [[Teritoriālais tīkls]]
+
+=== Pēc [[tīkla topoloģija]]s ===
+* [[Point to point tīkls]] - Point to point topoloģija ir visvienkāršākā topoloģija, kurā piedalās tikai divas darbstacijas un tās abas ir saslēgtas tīklā
+* [[Maģistrāles tīkls|Maģistrāles, jeb kopnes tīkls]] - visi tīkla mezgli ir pieslēgti koplietojamai sakaru videi (kopnei)
+* [[Zvaigznes tipa tīkls]] - visi datori tiek pieslēgti [[Centrmezgls|centrmezglam]] vai [[Tīkla komutators|tīkla komutatoram,]] šī veida topoloģija mūsdienās tiek izmantota visbiežāk
+* [[Gredzentīkls]] - datori tiek pieslēgti kabelim, kas ir saslēgts gredzenā. Signāli tiek pārraidīti pa riņķi vienā virzienā un iziet cauri katram datoram. Šo topoloģiju lieto tur, kur nepieciešama īpaši laba noturība pret bojājumiem
+* [[Koka topoloģijas tīkls]] - Koka topoloģijā ir viena saknes ierīce, kura ir savienota ar vienu no zemāka līmeņa tīklā saslēgtiem datoriem ar point-to-point topoloģiju. Katrs no tiem atkal ir savienots ar citu zemāka līmeņa saknes ierīci. Šo tīkla topoloģiju lieto lielos tīklos.
+
+=== Pēc darbības veida ===
+* [[klients-serveris]]
+* [[Vienādranga tīkls]]
+
+Tīklu veidojošie fiziskie elementi
+
+Datoru tīklā var izdalīt aktīvos un pasīvos elementus.
+
+Aktīvie elementi saņem un noraida datu paketes, kā arī aktīvi piedalās datu apmaiņas procesā. Aktīvās iekārtas ir:
+* tīkla adapteri, kas atrodas datorā un ir informācijas raidītāji un tās saņēmēji;
+* [[centrmezgls|centrmezgli]](''hub''), [[komutators|komutatori]](''switch''), [[tilts|tilti]](''bridge'') un [[maršrutētājs|maršrutētāji]](''router''), kas kalpo tam, lai no raidītāja informāciju nosūtītu adresātam.
+
+Pasīvie komponenti ir kabeļi un to savienojumi, kas nodrošina, ka signāls no vienas aktīvās iekārtas nonāk citā. Bezvadu tīkliem kabeļi nav nepieciešami.
+
+=== Datņu serveris ===
+{{pamatraksts|Datņu serveris}}
+Failu serverim lokālajā tīklā parasti ir galvenā loma. Jo serverim ir pieslēgts vairāk darba staciju, jo tā jaudai vajadzētu būt lielākai.
+Galvenais servera uzdevums ir visu pieņemto pieprasījumu izsekošana, piekļūšanas vadība resursiem, maksimāli ātra šo resursu piedāvāšana klientiem.
+
+=== Darba stacija ===
+Atsevišķu darba staciju aprīkojums ir atkarīgs no servera iespējām un jaudas. Ja serverim ir piešķirta centrālā loma, darba stacijas var būt mazāk jaudīgas.
+
+=== Tīkla karte ===
+Datoru tīklam pieslēdz, izmantojot [[tīkla karte|tīkla karti]] (adapteri). Izņēmums ir pseidotīkls. Tīkla karte var būt arī integrēta [[pamatplate|pamatplatē]].
+
+Parasti tīkla karte atbalsta vienu no lokālo tīklu arhitektūrām, piemēram, [[Ethernet]], LocalTalk, Token Ring vai Arcnet. Pašlaik populārākā tīkla arhitektūra ir [[Ethernet]].
+
+[[Ethernet]] tīkla adapteri atbilst vienai vai vairākām [[Ethernet]] specifikācijām:
+* 10Base-2 (10 Mb/s tievais koaksiālais kabelis) (novecojusi tehnoloģija);
+* 10Base-5 (10 Mb/s resnais koaksiālais kabelis) (aizvēsturiska tehnoloģija);
+* 10Base-T (10 Mb/s vītais pāris) (dažreiz lieto, jo centrmezgli ir lēti);
+* 100Base-TX (100 Mb/s vītais pāris, 2 pāri) (izplatītākā tehnoloģija);
+* 100Base-T4 (100 Mb/s vītais pāris, 4 pāri) (nekad nav bijis populārs);
+* 100Base-FX (100 Mb/s optiskais kabelis) (lietots tikai lieliem attālumiem);
+* 1000Base-T (1 Gb/s vītais pāris);
+* 1000Base-SX (1 Gb/s optiskais kabelis).
+
+Tīkla kartes izvēle ir atkarīga no izvēlētās tīkla topoloģijas un aparatūras. Tīkla datoriem parasti izmanto 10 vai 100 Mb/s tīkla kartes. Lai tīkls strādātu efektīvāk, serverim izvēlas jaudīgāku tīkla karti.
+
+Kartes ārpusē atrodas kabeļu [[pieslēgvieta]]s. Lai karti varētu izmantot dažāda tipa kabeļu tīkliem, vienai kartei var būt vairākas pieslēgvietas. Lai izmantotu atšķirīgu tipu kabeļus, nav nepieciešams veikt kādas programmu vai aparatūras uzstādījumu izmaiņas. Šādas tīkla kartes mūsdienās gan vairs nav izplatītas, tāpēc, ka tās nenodrošina 100MBit [[Ethernet]].
+
+Pēc savienojuma ar datora pamatplati(mātesplate), tīklakartes(tīkla saskarnes plate) iedala:
+* ISA - sprauž ISA ligzdā. Mūsdienās vairs nav izplatītas, jo mūsdienu datoriem (2007. gada marts) vairs nav ISA ligzdu.
+* [[PCI]] - sprauž PCI ligzdā. Pagaidām izplatītākās atsevišķās tīklakartes. PCI maģistrāles caurlaidība ir mazāka kā 1000MBit tīkla caurlaidība, tas ierobežo šādu tīklakaršu iespējas.
+** PCI-express un PCI-X tīklakartes. Šīs maģistrāļu tehnoloģijas vēl nav plaši izplatītas (PCI-X gadījumā - nekad nav bijušas plaši izplatītas), toties maģistrāles caurlaidība ir lielāka, lielāka par 1000MBit tīkla caurlaidību.
+* PCMCIA - sprauž PCMCIA slotā. Lieto portatīvajiem datoriem ar PCMCIA ligzdu. PCMCIA maģistrāles caurlaidība ir salīdzināma ar ISA (vecajai versijai) vai PCI (jaunajai versijai (cardbus)) maģistrāļu caurlaidību.
+** Express card tīklakarte. Tīklakartes portatīvajiem datoriem. Maz izplatītas.
+* [[USB]] - ārēja ierīce, kuru sprauž USB(Universal Serial Bus) portā. Šīs tīklakartes ir dārgas, tām ir mazāka caurlaidība kā PCI tīklakartēm, taču tās der jebkuram datoram, kam ir USB porti, un lai ieliktu šādu tīklakarti nav nepieciešamības taisīt vaļā datoru.
+* Iebūvētās - tīklakarte, kas iebūvēta datora pamatplatē.
+
+=== Kabeļi ===
+Kabeļus izmanto, lai savā starpā savienotu datorus un citas tīkla komponentes (centrmezglus, tīkla printerus u. c.). Kabeļa izvēli nosaka vairāki faktori: cena, tīklā savienojamo datoru attālums, savienojamo datoru skaits, datu pārraides ātrums u. c. Pārsvarā izmanto trīs tipu kabeļus:
+*[[Koaksiālais kabelis|koaksiālos]] (vēsturiska nozīme) - sastāv no centrālā vara vada un ārējā ekrāna, starp kuriem atrodas izolējošs materiāls;
+*[[Vītais pāris|vītā pāra]] (izplatītākā tehnoloģija) - sastāv no diviem savstarpēji savītiem izolētiem vara vadiem;
+* optiskos (lieto galvenokārt lieliem attālumiem) - sastāv no diviem vadiem, no kuriem katrs var pārraidīt datus tikai vienā virzienā. Gaismas stars optiskajā šķiedrā tiek raidīts ar lāzera vai gaismas diodes palīdzību.
+
+=== Tīklu saslēguma veidi ===
+Tīkla izveidošanu aparatūras līmenī noslēdz, savienojot visas tīkla komponentes ar kabeļiem atbilstoši izvēlētajai topoloģijai.
+
+Tīkla kabeļu un savienojumu kontrolei uzstādīšanas laikā vai arī tad, ja radušās kādas problēmas, izmanto speciālas pārbaudīšanas ierīces — testerus.
+
+Tehnoloģija apraksta tīkla elektriskos raksturlielumus, signālu veidus, savienotāju veidus, saskarnes darbību un visu pārējo, kas ir nepieciešams, lai notiktu datu pārraide.
+Vislielāko popularitāti ir guvušas četru veidu tehnoloģijas, kas atšķiras pēc piekļuves veida datu kanāliem:
+* [[Ethernet]];
+* [[Token Ring]];
+* [[Arcnet]] (Attached Resource Computer Network);
+* [[Fiber Distributed-Data Interface]].
+No šiem tīklu veidiem visizplatītākais ir Ethernet. Pirmo reizi Ethernet tīklu izveidoja firma Xerox 20. gadsimta 70. gados.
+
+'''Tievā kabeļa Ethernet tīkls'''
+
+Pēc vadu izvilkšanas to galos pievieno BNC savienotājus (''connector''). Ar to palīdzību kabeļus pievieno pie T tipa konektora, kura trešo kontaktu pievieno tīkla datora tīklakartei(tīkla saskarnes karte). Pēc visu savienojumu veikšanas izveidojas vienots kabeļu segments. Tā galos, atkarībā no kabeļa modeļa, jāpievieno terminatori ar 50 W vai 95 W pretestību. Viens no segmenta terminatoriem ir jāiezemē. Ja iezemēti tiks abi gali, kabeļu segments pārvērtīsies antenā un tīkls nedarbosies. Visplašāk lietotie šāda veida tīkli bija 10 MBit ethernet, 100 un 1000MBit tīkliem koaksiālos kabeļus nelieto.
+
+'''Vītā pāra Ethernet'''
+
+Vītā pāra [[Ethernet]] tīklā centrālā ierīce ir [[centrmezgls]] (''hub''). Katrs [[dators]] ar centrmezglu tiek savienots ar kabeļu segmentu. Katra segmenta garums nedrīkst pārsniegt 100 m. Kabeļa segmenta galos jāatrodas RJ-45 savienotājiem. Vienu kabeļa galu pievieno centrmezglam, bet otru — tīkla kartei. RJ-45 kontakti ir ļoti kompakti, tiem ir plastmasas korpuss ar 8 maziem kontaktlaukumiem.
+
+=== Centrmezgls (hub) ===
+Centrmezgls ir vītā pāra tīkla galvenā komponente, jo no tā ir atkarīgas tīkla darba spējas. Centrmezgli tiek ražoti dažādiem tīkla ātrumiem (10 Mb/s, 100 Mb/s vai 10/100 Mb/s) un ar dažādu portu ([[pieslēgvieta|pieslēgvietu]]) skaitu. To daudzums nosaka centrmezglam pieslēdzamo datoru skaitu.
+
+Centrmezglu novieto uz galda, piestiprina pie sienas vai ievieto speciālā statīvā.Centrmezglus var savā starpā apvienot, pieslēdzot vienu pie otra, iegūstot kaskādes struktūru.	 
+Šādus centrmezglus sauc par kaskadējamiem (''stack-able''). Veidojot ar tiem tīklu, jāuzmanās, lai neveidotos gredzena struktūra un ceļā no viena datora līdz otram neatrastos vairāk par četriem centrmezgliem.
+Daudziem centrmezgliem ir arī vietas koaksiālo kabeļu pievienošanai. Šādi kļūst iespējams apvienot vītā pāra segmentus ar koaksiālajiem segmentiem. Vienam centrmezglam var pieslēgt tikai viena veida koaksiālo kabeli. Mūsdienās centrmezglus lieto tikai specifiskām vajadzībām, jo tie nodrošina tikai 10MBit, visu [[datplūsma|datplūsmu]], kas tiem iet cauri, var noklausīties, jebkurš lietotājs un neeksistē 1000MBit centrmezgli.
+Izšķir triju veidu:
+#pasīvie – darbojas kā fizisks savienojuma punkts, tam nav vajadzīga strāva;
+#aktīvie – reģenerē signālu, vajadzīga strāva;
+#inteliģentie – aktīvie centrlmezgli ar papildu diagnostikas iespējām.
+
+=== Slēdzis(switch) ===
+Slēdzis(komutators) ir ierīce, kas spēj analizēt tīkla pakešu saturu un nosūtīt paketi tieši adresātam, nevis visām tīklā saslēgtajām stacijām, kā to dara koncentrators. Izmantojot slēdzi, ievērojami palielinās tīkla ražība. Vienkāršākos slēdžus mūsdienās lieto koncentratoru (''hub'') vietā.
+Komutatori saņem paketes no datoriem tīklā. Komutators apstrādā „kanāla slānī”. Kad komutators saņem signālus caur vienu no tā [[portiem]], tas pārraida signālus kā datu paketi un lasa adresāta atrašanas adresi no „kanāla slāņa” protokola galvenes. Pēc tam komutators pārraida paketi ārā caur vienu no pieslēgvietām, kura ir savienota ar [[datoru]], izmantojot to adresāta atrašanas vietu. Tādā veidā samazina trafiku un sadursmju daudzumu [[tīklā]].
+
+=== Tilts (bridge) ===
+[[Iekštīkla tilts|Tilts]] sadala vienoto datu pārraides vidi daļās (loģiskajos segmentos) un pārsūta informāciju no viena segmenta uz citu tikai tad, ja tas ir nepieciešams. Tādējādi tilts izolē viena segmenta datu pārraides plūsmu no cita segmenta datu pārraides plūsmas. Tādējādi paaugstinot kopējo tīkla efektivitāti. Tilti nav izmantojami lielos tīklos.
+
+=== Maršrutētājs (router) ===
+Bieži vien lokālo tīklu nākas pieslēgt globālajiem tīkliem (piemēram, internetam) vai arī apvienot vairākus attālinātus lokālos tīklus, izmantojot globālos tīklus. Šim nolūkam izmanto maršrutētājus. Maršrutētājam parasti ir viena vai vairākas pieslēgvietas(port), kas paredzēti gan lokālo, gan globālo tīklu pieslēgšanai. [[Maršrutētājs]] nodrošina pakešu komutāciju un filtrāciju, kā arī datu kodēšanu un dekodēšanu.[[Maršrutētājs]] būtībā ir specializēts dators ar diviem vai vairāk tīkla interfeisiem (tīkla kartēm). Bieži vien par maršrutētāju lieto parastu datoru ar attiecīgu programmatūru. [[TCP/IP]] maršrutēšanas [[programmatūra]] (vismaz vienkāršākajos variantos) ir iekļauta izplatītākajās operētājsistēmās.
+
+Ļoti būtiska maršrutētāja sastāvdaļa ir tā konfigurēšanas programmatūra. Ar tās palīdzību maršrutētāju konfigurē darbam, noteic tā stāvokli, noslodzi utt.
+
+=== Ethernet tīkla darbības principi ===
+Šajos tīklos lietotāja dators var piekļūt tīklam jebkurā laikā. Informācija tiek sūtīta mainīga garuma pakešu veidā. Pirms datu paketes nosūtīšanas lietotāja dators “klausās”, vai tīkls ir aizņemts. Ja tas ir aizņemts, dators gaida, ja brīvs — nosūta datus. Sadursmes tīklā rodas, kad divas ierīces konstatē, ka tīkls nav aizņemts, un vienlaikus sāk pārraidīt datus. Šādā gadījumā abas pārraides tiek bojātas un datori cenšas datus pārraidīt vēlāk. Datori var konstatēt datu sadursmi, tāpēc “zina”, pēc cik ilga laika drīkstēs atkārtot datu pārraidi. Ar šādas tehnoloģijas palīdzību (CSMA/CDS) tiek regulēta datu kustība Ethernet tīklā, novēršot haosu, kad visi cenšas pārraidīt, bet neviens neklausās.
+
+Palielinoties datu plūsmas apjomam, datu sastrēgumi (kolīzijas) tīklā pieaug. Katram tīkla lietotājam jāgaida, kamēr atbrīvosies tīkls un viņš varēs nosūtīt savus datus, tāpēc samazinās datu plūsmas ātrums tīklā.
+[[Ethernet]] lokālie tīkli ir apraides tīkli, tas ir, visiem lietotājiem pienāk visas datu paketes, neskatoties, kāds ir to galamērķis, bet lietotājs paņem tikai sev adresēto. Ja tīkls ir saslēgts ar komutatoru (nevis centrmezglu), tad lietotājam pienāk tikai lietotājam adresētās paketes un paketes, kurām komutators nespēj atrast adresātu (visādi ''broadcast'').
+
+=== Bezvadu lokālie tīkli (WLAN) ===
+{{pamatraksts|Bezvadu lokālie tīkli}}
+Bezvadu tīklus izmanto gadījumos, kad kabeļu tīkla izveides vai pārkārtošanas izmaksas ir ļoti augstas, piemēram, arhitektūras pieminekļos. Otrs bezvadu tīklu attīstības virzītājspēks ir [[mobilie datori|mobilo datoru]] lietotāji, kas izmanto [[portatīvais dators|portatīvos datorus]] un [[plaukstdators|plaukstdatorus]].
+
+WLAN tīkls – sava veida lokālais tīkls (LAN), kurš komunikācijai un datu pārraidei starp mezgliem izmanto augstfrekvences radioviļņus, nevis vadus. Tas ir elastīgs datu komunikācijai, ko izmanto kā paplašinājumu vai alternatīvu – kabeļu lokālajam tīklam, iekš vienas ēkas vai ierobežtā teritorijā. WLAN priekšrocības ir ražīguma palielimāšana. WLAN tīkls dod iespēju, pārvietojoties tīkla darbības zonā ar ierīci, kas pieslēgta tīklam, nezaudēt sakaru ar to.
+
+== Drošība ==
+Datoru tīklus drošības urķi izmanto arī, lai izvietotu datorvīrusus vai datoru tārpus ierīcēs, kas pievienotas tīklam, vai, lai novērstu šo ierīču piekļuvi tīklam, izmantojot uzbrukuma pakalpojuma liegumu.
+
+=== Datortīklu drošība ===
+Tīkla drošība sastāv no noteikumiem un politikām, ko pieņēmis tīkla administrators, lai novērstu un uzraudzītu neatļautu piekļuvi, nepareizu izmantošanu, pārveidošanu vai liegšanu datortīklam un tā tīkliem pieejamiem resursiem. Tīkla drošība ir atļauja piekļūt datiem tīklā, kuru kontrolē tīkla administrators. Lietotājiem tiek piešķirta parole un ID, kas ļauj piekļūt informācijai un programmām, kas ir viņu pilnvaru robežās. Tīkla drošība tiek izmantota dažādos gan publiskos, gan privātajos datortīklos, lai nodrošinātu ikdienas darījumus un saziņu starp uzņēmumiem, valsts aģentūrām un privātpersonām.
+
+===Datortīklu aizsardzības pasākumi pret vīrusiem===
+Izstrādājot tīkla aizsardzības sistēmu, ir nepieciešams ņemt vērā arī vīrusus. Diemžēl neviena antivīrusu programma nespēj pilnīgi novērst to iekļūšanas draudus; pamatā šīs programmas cīnās ar vīrusu “uzbrukuma” sekām:
+* novērš vīrusu aktivāciju;
+* likvidē vīrusus;
+* daļēji likvidē bojājumus;
+* aiztur vīrusus pēc to aktivācijas.
+Labākā metode cīņā ar vīrusiem ir izslēgt nesankcionētas pieejas iespēju. Administratoram ir jāsper visi piesardzības soļi, kas būtu:
+* ieviest paroles (lai samazinātu nesankcionētas pieejas iespējas);
+* noteikt atbilstošas tiesības un privilēģijas (visiem lietotājiem bez izņēmuma);
+* izveidot profilus lietotāju darba vides uzstādīšanai (ieskaitot tīkla pieslēgumus un programmas elementus, kas parādās, lietotājam ieiejot tīklā);
+* noteikt, kāda programmatūra var tikt izpildīta;
+* uzstādīt tīklā antivīrusu programmatūru.
+
+===Uzbrukumu veidi datortīkliem===
+Daļa no uzbrukumu veidiem datortīkliem:
+*Wiretapping , Portu skeneris, Dīkstāves skenēšana
+*Šifrēšana, Satiksmes analīze, Vīruss
+*Datu pārveidošana, Pakalpojuma atteikuma
+uzbrukums
+*DNS spoofing , Cilvēks vidū, ARP saindēšanās, VLAN
+lēciens
+*Smurf uzbrukums, Bufera pārpilde , Heap pārplūde
+*Formatējiet virknes uzbrukumu, SQL injekcija
+*Pikšķerēšana , Starp vietņu skriptu
+*CSRF (Cross Site Request Forgery)
+
+=== Ugunsmūris ===
+Ugunsmūris ir tīkla ierīce vai programmatūra tīkla drošības un piekļuves noteikumu kontrolei. Ugunsmūri tiek ievietoti savienojumos starp drošiem iekšējiem tīkliem un potenciāli nedrošiem ārējiem tīkliem, piemēram, internetu. Ugunsmūri parasti tiek konfigurēti, lai noraidītu piekļuves pieprasījumus no neatpazītiem avotiem, vienlaikus ļaujot darbības no atzītiem. Ugunsmūru būtiskā loma tīkla drošībā pieaug vienlaikus ar kiberuzbrukumu pastāvīgo pieaugumu.
+
+== Organizatoriskais izmērs ==
+Tīklus parasti pārvalda organizācijas kam tie pieder. Privātas organizācijas mēdz izmantot kombināciju ar iekšējiem un ārējiem tīkliem. Tie var arī piedāvāt tīkla pieeju internetam, kam nav viena konkrēta īpašnieka un kurš pieļauj virtuāli neizsmeļamu globālo savienojamību.
+
+=== Iekštīkls ===
+Iekštīkls (privātais tīkls) ir tīklu kopums vienas administratīvas institūcijas pakļautībā. Iekštīkls izmanto IP protokolus un uz IP balstītus rīkus, piemēram, tīmekļa pārlūkprogrammas un failu pārsūtīšanas programmas. Administratīvā institūcija ierobežo iekštīkla izmantošanu tikai authorizētiem lietotājiem. Visbiežāk iekštīkls ir organizācijas lokālais tīkls (LAN). Lielākiem iekštīkliem parasti ir vismaz viens tīkla serveris, kas sniedz lietotājiem organizatorisku informāciju. Par iekštīklu var uzskatīt visu, kas ir savienots aiz maršrutētāja lokālajā tīklā.
+
+=== Ārtīkls === 
+Arī ārtīkls ir  tīkls kas ir vienas administratīvas institūcijas pakļautībā, taču sniedz ierobežotu savienojumu ar specifiskiem ārējiem tīkliem. Piemēram, organizācija var piedāvāt pieeju atsevišķām tās iekštīkla funkcijām saviem biznesa partneriem un klientiem. Savienojums ar ārtīklu bieži tiek ierīkots ar plaša apgabala tīklu (WAN), taču ne vienmēr.
+
+=== Internettīkli ===
+Internettīkli ir savienojums starp vairākiem datortīkliem izmantojot maršrutēšanas tehnoloģiju.
+
+=== Internets ===
+Internets ir lielākais piemērs internettīklam. Tā ir globāla sistēma ar savstarpēji savienotiem valdību, izglītības iestāžu, korporāciju, publiskiem un privātiem tīlkliem. Tas ir balstīts uz Interneta Protokolu Komplekta (Internet Protocol Suite) tehnoloģijām. Tas būtībā ir pēctecis ARPANET kas tika izstrādāts ASV aizsardzības departamenta vajadzībām. Internets ir arī komunikāciju pamats globālajam tīmeklim (World Wide Web).
+
+Tā dalībnieki Internetā izmanto plašu spektru ar metodēm un vairākus simtus dokumentētu un arī standartizētu protokolu kas ir savietojami ar Interneta Protokolu Komplektu un adresācijas sistēmu ko administrē Interneta Numurpiešķires institūcijas (Internet Assigned Numbers Authority) un adrešu reģistri. Pakalpojumu piedāvātāji un lieli uzņēmumi apmainās ar informāciju, par to cik viegli vai grūti sasniegt viņu adreses, caur robež vaŗtejas protokolu (Border Gateway Protocol), tādējādi izveidojot globālu mezglojumu ar pārraižu ceļiem.
+
+=== Tumšais tīkls ===
+Tumšais tīkls pārklājas citiem tīkliem, visbiežāk Internetam, un ir pieejams vienīgi izmantojot specializētu programmatūru. Tumšais tīkls ir  anonimizēts tīkls kurā savienojumi tiek izveidoti tikai starp viena līmeņa lietotājiem kas abpusēji to apstiprina, un šie savienojumi tiek izveidoti izmantojot nestandarta protokolus un pieslēgvietas.
+
+Tumšais tīkls atšķiras no citiem vienādranga tīkliem  ar to, ka apmaiņa ir anonīma(IP adreses netiek publiski apmainītas), līdz ar to lietotāji var apmainīties ar infromāciju nebaidoties no valsts institūciju vai korporāciju iejaukšanās.
+
+== Protokola veidi ==
+
+Īstenojot datortīklu, var izmantot dažādus protokolu komplektus, daži no tiem:
+
+* AppleTalk
+* ARCNET
+* ATM
+* DECnet
+* Ethernet
+* HIPPI
+* IEEE-488
+* IP
+* IPX
+* Myrinet
+* TCP
+* Token Ring
+* UDP
+* SPX
+* FDDI
+* QsNet
+* USB
+* IEEE 1394 (Firewire, iLink)
+* X.25
+* Frame relay
+* Bluetooth
+* IEEE 802.11
+* Systems Network Architecture
+* RapidIO
+
+== Skatīt arī ==
+* [[Internets]]
+* [[Mākoņskaitļošana]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20050905223727/http://ifs.auce.lv/DatorzinibuPamati/sakums.htm https://web.archive.org/web/20050905223727/http://ifs.auce.lv/DatorzinibuPamati/sakums.htm]
+* [https://web.archive.org/web/20110603062640/http://www.varaviksne.lv/materiali/informatika/liisgramata/5.gramata/1050701.htm https://web.archive.org/web/20110603062640/http://www.varaviksne.lv/materiali/informatika/liisgramata/5.gramata/1050701.htm]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datortīkli| ]]

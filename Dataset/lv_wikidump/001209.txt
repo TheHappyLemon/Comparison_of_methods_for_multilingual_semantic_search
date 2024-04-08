@@ -1,0 +1,91 @@
+{{Zinātnieka infokaste
+| platums = 
+| vārds = Tims Bērnerss-Lī
+| vārds_orig = ''Tim Berners-Lee''
+| attēls = Tim Berners-Lee closeup.jpg
+| att_izmērs = 
+| att_nosaukums = 
+| dz_dat_alt = 
+| dz_gads = 1955
+| dz_mēnesis = 6
+| dz_diena = 8
+| dz_vieta = {{vieta|Apvienotā Karaliste|Anglija|Londona}}
+| m_dat_alt = 
+| m_gads = 
+| m_mēnesis = 
+| m_diena = 
+| m_vieta = 
+| dzīves_vieta = 
+| pilsonība = 
+| tautība = Brits
+| dzimums = 
+| vecāki = 
+| brāļi = 
+| māsas = 
+| dzīvesbiedrs = Nensija Karlsona (laulībā1990—2011)
+Rozmarija Leita (laulībā kopš 2014)
+| bērni = 2 bērni, 3 adoptēti bērni
+| paraksts = 
+| darba_vietas = 
+| alma_mater = ''The Queen's College, Oxford''
+| zinātne = Datorzinātne
+| pasniedzēji = 
+| studenti = 
+| sasniegumi = 
+| apbalvojumi = [[Tjūringa balva]] (2016)
+| piezīmes = 
+| kategorijas = nē
+}}
+'''Sers Timotijs Džons "Tims" Bērnerss-Lī''' ({{val|en|Timothy John "Tim" Berners-Lee}}; dzimis 1955. gada 8. jūnijā [[Londona|Londonā]]), pazīstams arī kā '''''TimBL''''', ir [[vispasaules tīmeklis|vispasaules tīmekļa]] [[izgudrotājs]] un [[Vispasaules Tīmekļa konsorcijs|Vispasaules Tīmekļa konsorcija]] pašreizējais vadītājs.
+
+== Biogrāfija ==
+Tims Bērnerss-Lī dzimis [[Londona|Londonā]]. Viņa vecāki bija datorzinātnieki, kuri strādāja pie pirmā komerciāli izveidotā datora ''Ferranti Mark 1''. 1976. gadā Tims pabeidza [[Oksfordas Universitāte]]s koledžu ''The Queen's College''. Mācoties tur, viņš izgatavoja savu pirmo datoru. Divus gadus strādāja ''Plessey Telecommunications Ltd'', kas ir viens no lielākajiem [[telesakari|telesakaru]] iekārtu ražotājiem Lielbritānijā. 1978. gadā Tims pameta ''Plessey,'' lai pievienotos ''D.G Nash Ltd''. Tur viņš izveidoja programmatūru printeriem un daudzfunkcionālu [[operētājsistēma|operētājsistēmu]]. Pusotru gadu pavadījis kā neatkarīgs konsultants, tai skaitā, programmatūras konsultants ''CERN''. Tur viņš izstrādāja programmu savām vajadzībām, kas domāta informācijas uzglabāšanai. Šī programma ''Enquire'' netika publicēta, taču vēlāk kļuva par idejisku pamatu vispasaules tīmekļa izstrādei. No 1981. līdz 1984. gadam Tims strādāja ''Image Computer Systems Ltd'' kā tehniskais dizaineris. 1984. gadā viņš pievienojās [[CERN]] Ženēvā, Šveicē, strādājot pie sistēmas zinātnisku datu ieguvei un šīs sistēmas kontroles. Vēl viņš veidoja ''FASTBUS'' sistēmas programmatūru un heterogēnu tālvadības zvanu sistēmu.
+
+1989. gadā, strādājot Eiropas elementārdaļiņu fizikas laboratorijā (CERN), Bērnerss-Lī ierosināja vispasaules hiperteksta projektu, kas vēlāk kļuva pazīstams kā [[vispasaules tīmeklis]] (WWW). Balstoties uz agrāk izstrādāto programmu ''Enquire'', WWW tika veidots, lai varētu strādāt, apkopojot zināšanas hiperteksta dokumentu tīklā. Tims  Bērnerss-Lī sastādīja pirmo vispasaules tīmekļa serveri HTTPd, kā arī pirmo [[pārlūkprogramma|pārlūkprogrammu]]/redaktoru ''WorldWideWeb'', kas strādāja ''NeXTStep'' vidē. Šo darbu viņš sāka 1990. gada oktobrī, un programma ''WorldWideWeb'' organizācijai CERN pirmoreiz bija pieejama decembrī, bet internets — 1991. gada vasarā. No 1991. līdz 1993. gadam Tims turpināja attīstīt tīmekli, apkopoja interneta lietotāju viedokļus. Izplatoties tīmekļa tehnoloģijai, viņa sākotnējās [[URL]], [[HTTP]] un [[HTML]] specifikācijas tika paplašinātas un attīstītas.
+
+1994. gadā  Bērnerss-Lī [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtā]] nodibināja  [[Vispasaules Tīmekļa konsorcijs|Vispasaules Tīmekļa konsorciju]] — tīmekļa standartu organizāciju, kas attīsta savstarpēji saistītas tehnoloģijas (specifikācijas, vadlīnijas, programmatūru, rīkus), lai vadītu tīmekli. Konsorcija galvenās mītnes atrodas MTI un Keio Universitātē Japānā, kā arī daudz kur citur.
+
+1999. gadā viņš kļuva par pirmo ''3Com'' atklājēju. Pašlaik viņš ir ''3Com'' inženierijas profesors inženierijas skolā un elektriskās inženierijas un datoru zinātnes departamentā CSAIL, kur viņš vada arī decentralizēto informācijas grupu (DIG). 2004. gada decembrī viņš kļuva par datoru zinātnes nodaļas profesoru Sauthemptonas Universitātē, Apvienotajā Karalistē. Viņš bija direktors Tīkla zinātņu pētniecībā, ko 2006. gadā nodibināja kā Tīkla zinātnes pētījuma iniciatīvu, lai palīdzētu radīt pirmo daudzdisciplināro pētījuma objektu, lai pārbaudītu globālo tīmekli un piedāvātu praktiskus risinājumus, kuri nepieciešami, lai palīdzētu vadīt tā lietošanu un dizainu. Viņš ir arī Vispasaules Tīmekļa fonda direktors, kas radīts 2008. gadā, lai finansētu un koordinētu centienus, palielinot tīmekļa potenciālu.
+
+2004. gadā karaliene [[Elizabete II Vindzora|Elizabete II]] Bērnersu-Lī iecēla [[Britu impērijas ordenis|bruņunieku kārtā]].<ref>{{Tīmekļa atsauce|url=http://news.bbc.co.uk/2/hi/technology/3357073.stm|title=Web's inventor gets a knighthood|publisher=BBC News}}</ref> 2009. gada jūnijā Lielbritānijas premjerministrs [[Gordons Brauns]] paziņoja, ka sers Tims Bērnerss-Lī strādās kopā ar britu valdību, lai palīdzētu tīmekļa datus padarīt vairāk pieejamus un atvērtus. Sers Bērnerss-Lī kļuva par Publiskā sektora caurskatāmības ministrijas locekli, viņa uzdevums bija attīstīt atklātību britu valdības darbībā.
+
+Kopā ar Marku Fišeti viņš ir autors grāmatai „Aužot tīklu”, kas vēsta par tīmekļa pagātni, tagadni un nākotni.
+
+== Interneta vēsture ==
+[[Internets|Interneta]] veidošanās sākās [[Amerikas Savienotās Valstis|ASV]], kā daļa no aizsardzības sistēmas programmas. ''RAND Corporation'' — amerikāņu plānošanas centram [[Aukstais karš|Aukstā kara]] laikā — bija uzdevums izgudrot metodi, kā pārvaldīt valsti pēc [[atomkarš|atomkara]]. [[Datu pārraides tīkls]] bija jāorganizē tā, lai arī pēc nozīmīgiem apjoma tīkla aparatūras zaudējumiem tīkls turpinātu funkcionēt. 1964. gadā ''RAND'' publicēja savu piedāvājumu: sistēma nedrīkst būt centralizēta un tai jāsastāv no atsevišķiem [[segments|segmentiem]]. Tādā veidā katrs tīkla mezgls ir neatkarīgs no pārējiem un var patstāvīgi organizēt datu saņemšanu un noraidīšanu. Par [[informācija]]s apmaiņas pamatu tika izvēlēts [[pakešu komutācija]]s princips.
+
+Jau no paša sākuma tika paredzēts, ka saņemšanai un noraidīšanai tiks izmantotas jebkuras [[sakaru kanāli|sakaru kanālu]] līnijas. 
+Sākotnēji šāds, uz pakešu komutācijas principiem organizēts tīkls apvienoja ''RAND'', [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtu]] un [[Kalifornijas Universitāte|Kalifornijas Universitāti]]. 1968. gadā tīklam pievienojās Lielbritānijas Nacionālā fizikas laboratorija, bet 1969. gadā [[Amerikas Savienotās Valstis|ASV]] Aizsardzības ministrijas Perspektīvo pētījumu aģentūra nolēma apvienot aizsardzības, zinātnes un valdības centru superdatorus vienotā tīklā, kam tika dots nosaukums [[ARPANET]]. 1969. gadā tīklā bija tikai četri datori, 1971. gadā — četrpadsmit, bet 1972. gadā — jau trīsdesmit septiņi. 
+Septiņdesmitajos gados tika intensīvi attīstītas un uzlabotas [[Internets|Interneta]] tehnoloģijas. Tika noskaidrots, ka vislielāko noslodzi tīklā rada [[elektroniskais pasts]] un ziņu lasīšana, nevis aprēķini, kā tika prognozēts iepriekš. Tāpēc tika attīstītas [[elektroniskais pasts|elektroniskā pasta]] un telekonforenču sistēmas, uzlabota datu apmaiņas tehnoloģija un pirmos ''ARPANET'' protokolus nomainīja jauni standarti — ''Transmission Control Protocol'' un ''Internet Protocol''. Pirmais nodrošina informācijas sūtījumu sadalīšanu paketēs un to pārraidi, bet otrais nodrošina adresāciju tīklā. Šie divi protokoli deva nosaukumu visai datu apmaiņas protokolu saimei, kas darbojās Internetā — TCP/IP.
+
+1977. gadā TCP/IP protokolu sāka izmantot arī citi datortīkli, lai pieslēgtos ''ARPANET'', taču līdz pat 1986. gadam internets vēl nebija tāds, kā mūsdienās. Kopš 1984. gada [[Amerikas Savienotās Valstis|ASV]] Nacionālais zinātnes fonds sāka ieguldīt nozīmīgus naudas līdzekļus zinātniskajā datortīklā ''NSFNET''. Šis tīkls apvienoja [[Amerikas Savienotās Valstis|ASV]] zinātniskos centrus un Universitātes. Kā tīkla uzbūves pamats tika izvēlēti TCP/IP saimes protokoli. Šajā laikā ''NSFNET'' pievienojās arī [[Nacionālā aeronautikas un kosmosa administrācija|NASA]], ''DOE'' un ''National Institutes of Health''. Radās pirmie seši tīkla [[domēns|domēni]]: ''gov, edu, mil, com, org un net.'' Var uzskatīt, ka 1986. gadā radās [[Amerikas Savienotās Valstis|ASV]] vispasaules datortīkls — [[internets]]. 1989. gadā tika izveidota ''RIPE'' ''(Reseaux IP Europeans)'', kas tika paredzēta, lai administrētu un veiktu [[Internets|Interneta]] tehnisko koordinēšanu [[Eiropa]]s mērogos.
+
+1993. gadā juridiskajām un fiziskajām personām tika atļauts pieslēgties [[Internets|internetam]]. Tirgū parādījās uzņēmumi, kas nodarbojās ar interneta pieslēgumu pakalpojumu sniegšanu un apkalpošanu. 1993. gadā vairāk nekā 100 valstīm bija tiešais pieslēgums internetam.<ref name="leksikons">{{Grāmatas atsauce|last1=Krauklis|first1=Jānis|last2=Ločmelis|first2=Jāzeps|title=Komunikāciju leksikons|year=2004|publisher=Jumava|isbn=9984057526|pages=168.—182}}</ref>
+
+== Vispasaules tīmekļa vēsture ==
+''WWW (Worl Wide Web)'' jeb vispasaules tīmeklis ir [[hiperteksts|hiperteksta]] sistēma, kas ļauj lietotājiem skatīt savstarpēji saistītos hiperteksta dokumentus, izmantojot jebkuru izvēlēto maršrutu, vienkārši noklikšķinot uz karstajiem punktiem ''(hotspots)'' WWW dokumentos. Globālais tīmeklis sastāv no savā starpā savienotiem [[Internets|interneta]] [[serveris|serveriem]], taču ne visi interneta serveri ir daļa no [[vispasaules tīmeklis|vispasaules tīmekļa]].
+
+1989. gada martā Tims Bērnerss-Lī [[CERN]] piedāvāja šī starptautiskā Eiropas zinātniskā institūta vadībai jaunas sadalītās informācijas sistēmas koncepciju. Šī sistēma tika nosaukta par ''World Wide Web''. Sākās interneta tehnoloģiju attīstība. Dažkārt šo tehnoloģiju maldīgi uzskata par vienīgo, kā arī uzskata ''[[HTTP]]'' protokolu par vienīgo.
+
+Pirmais paziņojums par ''WWW'' bija 1991. gada martā telekonferencēs: ''alt.hypertext, com.sys.next, comp.text.sgml'' un ''comp. mail.multi-media.''
+
+1993. gada augustā tika izlaista pārlūkprogrammas ''Mosaic'' alfa versija, kas nodrošināja ''WWW'' grafisku saskarni. 1994. gada martā Marks Andersens pameta ''Mosaic'' izstrādātājfirmu ''CERN'' un pārgāja uz komerciālo uzņēmumu ''Netscape Communications''.
+Pēc vienošanās parakstīšanas starp [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtu]] (MTI, ASV) un Nacionālo informātikas un automātikas institūtu (''INRA'', Francija) ar ''CERN'' piekrišanu tika izveidots [[W3C]] (World Wide Web Consortium) konsorcijs. Šīs organizācijas mērķis bija izstrādāt atvērtus ''WWW'' standartus, lai notiktu kopīga [[Internets|Interneta]] attīstība, nevis katra uzņēmuma atsevišķa izstrāde.<ref name="leksikons" />
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [https://web.archive.org/web/20051224001905/http://dig.csail.mit.edu/breadcrumbs/blog/4 Tima Bērnera-Lī blogs]
+* [http://www.w3.org/People/Berners-Lee/ Tima Bērnera-Lī mājas lapa]
+
+{{Cilvēks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Bernerss-Li, Tims}}
+[[Kategorija:1955. gadā dzimušie]]
+[[Kategorija:Londonā dzimušie]]
+[[Kategorija:Britu zinātnieki]]
+[[Kategorija:Tjūringa balvas laureāti]]

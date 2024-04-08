@@ -1,0 +1,47 @@
+{{nosaukums slīprakstā}}
+{{Automobiļu paaudzes infokaste
+| image          = [[Attēls:Terenure, Co. Dublin - Ireland (6017584315).jpg|250px]]
+| name           = ''Audi Quattro''
+| manufacturer   = ''[[Audi (auto)|Audi AG]]''
+| parent_company =
+| aka            = ''Ur-Quattro''
+| production     = 1980—1991 
+| assembly       = [[Vācija]], [[Ingolštate]]
+| predecessor    = ''Audi 100 Coupé S''
+| successor      = ''Audi S2''
+| class          = [[Vieglo automašīnu klasifikācija pēc izmēra#D segments (vidējā klase, ģimenes automašīnas)|vidējā klase]], [[Autorallijs|rallija]]
+| body_style     = 2-durvju [[Kupeja (virsbūve)|kupeja]]
+| layout         = pilnpiedziņa
+| platform       = ''Volkswagen B2''
+| engine         = 2.1 L SOHC I5 (1980–87)<ref name="World Cars 1985">{{Grāmatas atsauce|title=World Cars 1985|year=1985|publisher=''Herald Books''|isbn=0-910714-17-7}}</ref><br />2.2 L SOHC I5 (1987–89)<br />2.2 L DOHC 20V I5 (1989–91)
+| transmission   = piecu ātrumu [[manuālā transmisija]]
+| wheelbase      = 2522 mm
+| length         = 4404 mm
+| width          = 1722 mm
+| height         = 1346 mm
+| weight         = 1290—1350 kg
+| fuel_capacity  = 
+| electric_range =
+| related        = [[Audi 80/90/4000#B2 (1978—1986)|''Audi 80'' (B2)]]<br />''[[Audi Coupé]]''
+| designer       =
+}}
+
+'''''Audi Quattro''''' ir [[automobilis]], ko no 1980. līdz 1991. gadam ražoja ''[[Audi (auto)|Audi]]'', kas ir daļa no ''[[Volkswagen (uzņēmums)|Volkswagen]]'' grupas. Tas pirmoreiz tika atrādīts 1980. gada [[Ženēvas auto izstādē]] 3. martā.<ref name="Quattro25">{{Tīmekļa atsauce |publisher=Audi of America ''preses lapa'' |url= http://www.audiusanews.com/newsrelease.do?id=211 |title=25 Years of Audi Quattro |date=2005. gada 22. februāris |accessdate={{dat|2020|2|29}} |archive-url= https://web.archive.org/web/20121023044743/http://www.audiusanews.com/newsrelease.do?id=211 |archive-date={{dat|2012|10|23}}}}</ref> ''Audi Quattro'' ražošana turpinājās līdz 1991. gadam.
+
+''Audi Quattro'' ir pirmais ''Audi'' pilnpiedziņas auto. ''Audi'' ir pirmais auto ražotājs, kas sērijveidā veiksmīgi uzstādīja pilnpiedziņas ([[4X4]]) sistēmu vieglajos auto.
+
+Vārds ''quattro'' iegūts no [[itāļu valoda|itāļu]] vārda "četri". ''Audi'' šo apzīmējumu izmanto arī, lai atsauktos uz ''quattro'' četrriteņu piedziņas sistēmu (4x4) vai jebkura modeļa četrriteņu piedziņas versiju. Oriģinālo ''Quattro'' modeli dēvē arī par "''Ur-Quattro''", kur "''Ur-''" (vācu valodā apzīmē "sākotnējais" vai "oriģinālais") ir prefikss.
+
+''Audi Quattro'' bija pirmais [[autorallijs|rallija]] automobilis, kas izmantoja tolaik nesen grozītos noteikums, kas ļāva izmantot četrriteņu piedziņu sacensību sacīkstēs. ''Quattro'' uzvarēja sekojošās sacensības nākamajos divos gados.<ref name="Quattro25"/>
+<!--Šis auto ir uzrādījis labus rezultātus rallijā, kur ieguva vairākas pirmās vietas un burtiski satrieca pasaules domas par pilnpiedziņas auto, jo līdz šim pilnpiedziņas auto netika saistīts ar ātru un dinamisku, bet ''Audi'' apgāza šos apgalvojumus.-->
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Commons category|Audi Quattro}}
+* ''Audi Quattro'' modeļu attīstība, 1980-1991: [https://web.archive.org/web/20140104210949/http://www.audi.com/com/brand/en/company/audi_history/model_evolution/1965-1990/audi_quattro.html angļu valodā]
+
+{{auto-aizmetnis}}
+
+[[Kategorija:Audi automašīnu modeļi]]

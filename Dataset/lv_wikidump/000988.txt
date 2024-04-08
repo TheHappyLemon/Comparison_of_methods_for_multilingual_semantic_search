@@ -1,0 +1,105 @@
+'''Tīmekļa žurnāls''' jeb '''emuārs'''<ref>[http://termini.lza.lv/term.php?term=blog&list=&lang=&h= Akadēmiskā terminu datubāze ''AkadTerm'']</ref> ({{val|en|blog}}, no ''we'''b''' '''log''''') ir [[tīmekļa lietotne]], ar kuru tiek veidoti, kārtoti un parādīti regulāri ieraksti vienā [[tīmekļa vietne|tīmekļa vietnē]]. Visbiežāk ieraksti ir salikti apgrieztā hronoloģiskā secībā — jaunākie ieraksti vispirms. Šāda veida tīmekļa vietne parasti ir pieejama jebkuram lietotājam.
+
+To parasti uztur viena persona, kas tajā publicē rakstus par sev aktuālām tēmām, ikdienas piedzīvojumiem, kā arī ievieto attēlus vai video materiālus.<ref name="ReferenceA">Informācijas Vide Latvijā 21.gs, 2006.</ref>
+
+Emuāri pēc satura ir ļoti atšķirīgi — sākot no individuālām [[Dienasgrāmata|dienasgrāmatām]], līdz pat politisku kampaņu, uzņēmumu un [[kopiena|kopienu]] žurnāliem. Vairākumā tīmekļa žurnālu apmeklētāji var ierakstīt un lasīt komentārus, tādējādi konkrētajiem emuāriem izveidojas noteikts lasītāju loks. Ir tendence, ka emuārus sāk veidot arī [[plašsaziņa|plašsaziņas līdzekļi]] (piemēram, avīzes — kā īpašu un daļēji neformālu rubriku) un uzņēmumi, izmantodami algotus darbiniekus, bet šādi emuāri ir komerciālāki un domāti pašreklāmai. Visu tīmekļa žurnālu kopumu sauc par [[emuārtelpa|emuārtelpu]].
+
+Tīmekļa žurnālu raksturs ir ļoti atšķirīgs, sākot no vienkāršām dienasgrāmatām un tādu [[hipersaite|hipersaišu]] sarakstiem, kuras šķiet svarīgas pašam autoram, līdz pat sīki izstrādātiem rakstiem, pie kuriem veidojas plašas lasītāju diskusijas. Daudzos emuāros vecākie ieraksti tiek arhivēti un katram ierakstam tiek ģenerēta statiska (nemainīga) adrese. Tīmekļa žurnālu jaunāko ierakstu virsraksti ar saitēm uz tiem tiek piedāvāti [[RSS protokols|RSS]] vai [[Atom (standarts)|Atom]] [[valoda XML|XML]] formātā, tāpēc tos var redzēt arī citās vietnēs, citu tīmekļa žurnālu [[emuārrullis|emuārruļļos]] un ar īpašām "barotņu" programmām.
+
+Emuārus iedala gan pēc to satura, gan veida kā šis saturs tiek pasniegts lasītājam:
+
+Pēc satura emuārus var iedalīt:
+* '''Nišas blogi''' — autors pauž viedokli un publicē ziņas par kādu konkrētu tēmu, piemēram, politiku;
+* '''Tiešsaistes dienasgrāmatas '''— autors raksta par savu ikdienu, pārdomām un sev aktuālām tēmām;
+* '''Korporatīvie blogi''' — uzņēmumu iekšējā tīkla blogi, kas tiek veidoti ar nodomu uzlabot komunikāciju starp dažādām uzņēmuma struktūrām;
+* '''Jautājumu blogi '''— blogu veids, kas nodarbojas ar atbildēšanu uz tā lasītāju uzdotajiem jautājumiem. Jautājumi autoram tiek nosūtīt pa e-pastu vai izmantojot kontaktformas palīdzību.
+Pēc pasniegšanas veida iedala: 
+* '''Vlogi'''- blogi, kas pārsvarā satur video materiālus.
+* '''Fotoblogi'''- blogi, kas satur fotogrāfijas.
+* '''Videoblogi'''- blogi, kas satur video materiālus.<ref name="ReferenceA"/>
+Viens no bloga veidiem ir '''mikroblogs'''. Lietotājs raksta maza apjoma blogu, kurā tiek atainots pats galvenais — pašreizējās darbības, konkrēta internetvietne, ieteikumi. Spilgts piemērs mikroblogiem ir [[twitter.com]]. Twitter.com ir mikroblogu sistēma, kas sastāv no īsiem un konkrētiem ziņojumiem. Arī šeit ir iespēja pievienot komentāru konkrētajam ierakstam, atbildēt uz komentāru.<ref>Ķiņķere, Siliņa & Radziviloviča, 2008.</ref>
+
+== Blogu vēsture ==
+
+Uzskata, ka pirmais blogs bija Links.net, ko izveidoja Džastins Halls 1994. gadā, kad viņš bija students. Tajā laikā tas netika saukts par blogu, bet par personīgo dienasgrāmatu. 1997. gadā radā termins „weblogs”. Šo terminu izgudroja Džorns Bargers „logging the Web” vietā.
+ 
+1999. gada aprīlī programmētājs Pīters Merholcs saīsināja „Weblogu” uz „blogu”.
+
+1999. gada augustā radās pirmais bezmaksas blogu veidošanas serviss.
+
+2002. gada augustā Niks Dentons izvedo „[[Gizmodo]]”.
+
+2002. gada decembrī rodas iespēja pievienot savus komentārus. Kā arī rodas http://gawker.com/, kas ir pirmais tenku blogs.
+
+2003. gadā rodas pirmais politiskais blogs.
+
+2004. gadā „blogs” tiek atzīts par „gada vārdu”.
+
+2005. gadā Džeisons Kalakanis pārdod savu blogu par 25 milj.$.
+
+2006. gadā „The Huffington Post” ceturto reizi kļūst par visapmeklētāko blogu.
+
+Ja 1999. gadā blogu skaits bija 23 blogi, 2003. gadā 85 blogi, 2005. gadā jau 32 miljoni, tad 2006. gadā to bija 50 miljoni.<ref>http://nymag.com/news/media/15971/</ref>
+
+== Blogi Latvijā ==
+
+2005. gadā Latvijā blogus piedāvāja tikai atsevišķi, mazi projekti, piemēram, journal.bad.lv, bet nozīmīgu auditorijas interesi tas neradīja. Popularitāti blogi iemantoja 2008. gadā. Pēc Gemius pētījuma noskaidroti 2012. gada populārākie blogi Latvijā:
+# Krizdabz.lv
+# pods.lv
+# parasts.lv
+# androids.lv
+# rusantro.com
+# mosties.org
+# kinokults.lv
+# jy.lv
+# pirmareize.lv
+# koroneviskis.lv <ref>{{Tīmekļa atsauce |url=http://krizdabz.lv/latvijas-internets/gemius-petijums-krizdabz-lv-viens-no-lasitakajiem-blogiem-latvija/ |title=Arhivēta kopija |access-date={{dat|2012|10|15||bez}} |archiveurl=https://web.archive.org/web/20121016193035/http://krizdabz.lv/latvijas-internets/gemius-petijums-krizdabz-lv-viens-no-lasitakajiem-blogiem-latvija/# |archivedate={{dat|2012|10|16||bez}} }}</ref>
+
+== Tīmekļa žurnālu izveide un publicēšana ==
+Vienkāršākais veids, kā izveidot savu tīmekļa žurnālu, ir reģistrēties kādā bezmaksas [[emuāru vietne|emuāru vietnē]]. Otrs veids, ko parasti izvēlas tehnikā zinīgāki cilvēki, ir pašrocīga tīmekļa žurnāla programmatūras uzstādīšana kādā [[vietņu mitināšana]]s serverī. Tas ir sarežģītāk, kā arī bieži vien prasa finansiālus ieguldījumus, taču sniedz plašākas iespējas sava tīmekļa žurnāla pielāgošanā.<ref>{{Tīmekļa atsauce|url=http://nymag.com/news/media/15971/|title=The Early Years}}</ref>
+
+=== Tīmekļa žurnālu vietnes ===
+Servisi, kur jebkurš var izveidot savu tīmekļa žurnālu:
+* [[Blocins.lv]]
+* [[Blogger]]
+* [[Blogiem.lv]]
+* [[Blogs.lv]]
+* [[Eart.lv|eArtlv]] - Kultūras dienasgrāmatas māksliniekiem
+* [[Grab.lv]]
+* [[Live Journal]]
+* [[Mix.lv]]
+* [[Posterous.com]]
+* [[Six.lv]]
+* [[Space.lv]]
+* [[Sviesta Ciba]] - populārākais Latvijas tīmekļa žurnālu serviss
+* [[Windows Live Spaces]]
+* [[Wordpress.com]]
+
+=== Tīmekļa žurnālu programmatūra ===
+* [[Movable Type]]
+* [[Textpattern]]
+* [[WordPress]]
+
+2006. gada novembrī tīmekļa žurnālu meklis [[Technorati]] sekoja aktualitātēm aptuveni 60 miljonos emuāru,<ref>{{Tīmekļa atsauce|url=http://technorati.com/about/|title=Technorati: about us|3=|date=2006-11-11|accessdate=2006-11-11|archiveurl=https://web.archive.org/web/20061108170657/http://technorati.com/about/|archivedate=2006-11-08}}</ref> bet 2007. gada maijā — 71 miljonam.
+
+== Peļņas modeļi ==
+Lai arī lielākā daļa tīmekļa žurnālu ir [[vaļasprieks|nekomerciāli]], daudzi autori tomēr pelna naudu ar saviem žurnāliem.
+
+Vispopulārākais modelis ir [[interneta reklāma|reklāmu]] izvietošana līdzās rakstiem. Reklāmdevēji maksā emuāristiem par noteiktu laika periodu, kurā ir redzamas viņu reklāmas, par reklāmu parādīšanās reizēm, vai arī par klikšķiem uz reklāmas, kas apmeklētāju aizved uz reklāmdevēja [[tīmekļa vietne|tīmekļa vietni]].
+
+Citi autori piedāvā saviem lasītājiem ziedot naudu. Piemēram, jebkurš Latvijā populārā žurnāla [[jy.lv]] lasītājs varēja atbalstīt autoru, nosūtot īpašu (dārgāku) īsziņu. No jy.lv ir radies vairāku autoru tehnikas jaunumu žurnāls [[kakao.lv]], kurš jau vairāk līdzinās parastam elektroniskam plašsaziņas līdzeklim, nevis emuāriem.
+
+== Skatīt arī ==
+* [[Ziņu agregators]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [[Kaspars Foigts|Kaspara Foigta]] raksts Apollo portālā "Interneta dienasgrāmatas ''weblogs''." [http://www.apollo.lv/portal/articles/304 1.daļa]{{Novecojusi saite}}, [https://web.archive.org/web/20040818204822/http://www.apollo.lv/portal/articles/305 2. daļa], [https://web.archive.org/web/20040818205351/http://www.apollo.lv/portal/articles/306 3. daļa], [https://web.archive.org/web/20040818205822/http://www.apollo.lv/portal/articles/307 4. daļa].
+* LZA datorterminoloģijas apakškomisijas definīcija (10.10.2003.): [https://web.archive.org/web/20070928142646/http://termini.lv/index.php?term=emu%C4%81ri&lang=LV emuāri]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vispasaules tīmeklis]]
+[[Kategorija:Tīmekļa žurnāli|*]]

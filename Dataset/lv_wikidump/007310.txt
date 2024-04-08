@@ -1,0 +1,23 @@
+'''Deformācija''' (no {{val-la|deformatio}} — izkropļošana) ir [[fizikāls ķermenis|ķermeņa]] [[forma]]s vai [[izmērs|izmēru]] maiņa [[ārējie spēki|ārēju spēku]] iedarbībā. Izšķir šāda veida deformācijas: [[tilpuma deformācija]], [[Stiepes un spiedes deformācija|stiepe un spiede]], [[Lieces deformācija|liece]], [[Vērpes deformācija|vērpe]] un [[bīde]]. Piemēram, stāvot uz dēļa laipas, tā no [[svars|svara]] ieliecas. Arī liecot [[lineāls|lineālu]], stiepjot [[gumija]]s auklu un spiežot [[plastilīns|plastilīna]] gabaliņu, notiek šo [[priekšmets|priekšmetu]] deformēšanās.
+
+Deformācijas iedala divās lielās grupās — [[elastīga deformācija|elastīgās]] un [[plastiska deformācija|plastiskās deformācijās]].
+
+== Elastīga deformācija ==
+Elastīga deformācija ir deformācijas veids, kad ķermenis pēc kāda cita ķermeņa vai spēka iedarbības beigām atgūst savu sākotnējo formu. Piemēram, plastmasas lineāls, kas tiek nedaudz saliekts. Beidzot liekt, lineāls atkal iztaisnojas un iegūst savu sākotnējo izskatu. Gandrīz visi cieti ķermeņi ir elastīgi deformējami pie minimāla [[spēks|spēka]] pielietošanas.
+
+== Plastiska deformācija ==
+Plastiska jeb neatgriezeniskā deformācija notiek tad, kad ķermenis pēc iedarbības beigām neieņem sākotnējo formu. Piemēram, mīcot plastilīnu, tas neatgūst sākotnējo formu. Ievērojami izstiepjot [[atspere|atsperi]], tā vairs neatgriežas sākuma stāvoklī. <gallery caption="Deformācijas veidi">
+Attēls:Вид деформации сжатиеДеформация Сжатие.png|Spiede
+Attēls:Вид деформации растяжениеДеформация Растяжение.png|Stiepe
+Attēls:Вид деформации сдвигДеформация Сгиб.png|Bīde
+Attēls:ДВид деформации кручениеДВид деформации кручениееформация Кручение.png|Vērpe
+Attēls:Вид деформации изгибДеформация Изгиб.png|Liece
+</gallery>
+
+== Skatīt arī ==
+* [[Huka likums]]
+
+{{fizika-aizmetnis}}
+
+[[Kategorija:Viela]]
+[[Kategorija:Deformācija]]

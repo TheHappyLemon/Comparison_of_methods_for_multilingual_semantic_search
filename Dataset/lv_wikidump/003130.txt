@@ -1,0 +1,38 @@
+{{BioTakso infokaste
+|        attēls = Skujukoku mezs.JPG
+| att_nosaukums = Skujkoku mežs
+|        valsts = Plantae
+|     valsts_lv = Augi
+|    nodalījums = Pinophyta
+| nodalījums_lv = Skujkoki
+|  nodalījums_r = Skujkoku klase
+|         klase = Pinopsida
+|      klase_lv = Skujkoku klase
+|    iedalījums =
+* †{{TaksoSaite|Cordaitales|Kordaītu rinda}}
+* {{TaksoSaite|Pinales|Priežu rinda}}
+* †{{TaksoSaite|Vojnovskyales|Voinovskiju rinda}}
+* †{{TaksoSaite|Voltziales|Voltciju rinda}}
+}}
+
+'''Skujkoki''', '''skuju koki''' (''Pinopsida'') ir [[Kailsēkļi|kailsēkļu]] nodalījuma vienīgā klase.
+
+== Apraksts ==
+Vīrišķie un sievišķie [[strobili]] sastāv no saīsinātās ass, pie kuras piestiprinās [[mikrosporangiji]] jeb putekšņmaciņi un [[makrostrobili]] jeb [[sēklaizmetņi]]. Sievišķie strobili sakopoti [[čiekurs|čiekuros]]. Zināmas ~ 600 sugas, lielākā [[kailsēkļi|kailsēkļu]] grupa mūsdienās. Liela nozīme dabīgajā augu sedzē — veido [[mežs|mežus]]. Var būt [[koki]], [[krūmi]] ar monopodiālu, zarainu stumbru. Strobili ir viendzimuma, var būt [[vienmāju augi|vienmāju]] vai [[divmāju augi]] - uz 1 auga gan vīrišķie, gan sievišķie strobili. [[Putekšņi|Puteksnim]] ir ārējā un iekšējā sega — [[eksīna]] un [[intīna]]. Čiekurs sastāv no ass, pie kuras spirāliski vai pretēji sakārtotas segzvīņas. To žāklēs ir sēklzvīņas, pie pamata 2 vai vairāki sēklaizmetņi. Pēc apputeksnēšanās no sēklaizmetņiem attīstās [[embrijs]], kas pārvēršas par sēklas dīglīti un sēklaizmetnis — par [[sēkla|sēklu]]. Segzvīņu un sēklzvīņu forma, lielums, krāsa ir svarīgas pazīmes skujkoku noteikšanā. [[Skuja (auga daļa)|Skujas]] bagātas ar [[ēteriskās eļļas|ēteriskām eļļām]], [[sveķi]]em, [[terpēni]]em.
+
+== Sistemātika ==
+'''Klase''' {{TaksoSaite|Pinopsida|Skujkoki|Skujkoku klase}}
+* †{{TaksoSaite|Cordaitales|Kordaītu rinda}}
+* {{TaksoSaite|Pinales|Priežu rinda}}
+* †{{TaksoSaite|Vojnovskyales|Voinovskiju rinda}}
+* †{{TaksoSaite|Voltziales|Voltciju rinda}}
+(†) — izmirušu augu grupa.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://raksti.daba.lv/referaati/2005/ITrumpele/ Latvijas skujkoki.]
+
+{{botānika-aizmetnis}}
+
+[[Kategorija:Skujkoku klase| ]]

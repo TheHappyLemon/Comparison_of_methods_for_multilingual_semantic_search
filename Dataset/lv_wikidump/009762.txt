@@ -1,0 +1,53 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Šropšīra
+ |          official_name = ''Shropshire''
+ |        settlement_type = grāfiste
+| image_skyline = Brown Clee Hill.jpg
+| imagesize =
+| image_caption = Šropšīras ainava
+ |image_flag             = {{#property:P41}}
+ |flag_size              = 120x80px
+ |image_shield             = {{#property:P94}}
+ |shield_size              = 100x80px
+ |                  motto = "Floreat Salopia"<br />("May Shropshire flourish")
+ |                capital = [[Šrūsberi]]
+ |           largest_city = [[Telforda]]
+ |              image_map = Shropshire UK locator map 2010.svg
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Zeme
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Rietummidlenda]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles (mazāka) grāfiste
+ |         area_total_km2 = 3487
+ |       population_total = 493200
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+ |                website = {{URL|www.shropshire.gov.uk}}
+}}
+'''Šropšīra''' ({{val|en|Shropshire}}) ir [[Anglija]]s [[Anglijas grāfistes|grāfiste]] [[Rietummidlenda]]s reģionā. Šropšīra robežojas ar [[Velsa|Velsu]] rietumos, kā arī ziemeļos ar [[Češīra]]s, austrumos ar [[Stefordšīra]]s un dienvidos ar [[Vusteršīra]]s un [[Herefordšīra]]s grāfistēm.
+
+Grāfistē atrodas dzelzs tilts, kas kopā ar tā apkārtni ir [[UNESCO Pasaules mantojuma objekts]].<ref>[http://whc.unesco.org/en/list/371 Ironbridge Page on UNESCO World Heritage website]. Whc.unesco.org (6 March 2007). Retrieved on 25 August 2011.</ref> Tāpat grāfistē ir arī citas industriālas vietas ar lielu vēsturisko vērtību.<ref>{{tīmekļa atsauce|url=http://www.bbc.co.uk/shropshire/features/2002/09/iarecordings.shtml|title=BBC - Shropshire - Features - Industrial Archeology|website=Bbc.co.uk|accessdate=14 December 2018}}</ref> Dienvidos apmēram ceturto daļu no grāfistes aizņem [[Šropšīras kalni]] ar parku.<ref>[http://www.shropshirehillsaonb.co.uk/ Shropshire Hills AONB]. Shropshire Hills AONB. Retrieved on 25 August 2011.</ref> Savukārt grāfistes ziemeļrietumos uz robežas ar Velsu atrodas viens svarīgākajiem valsts dabas rezervātiem ar vislabāk saglabātajiem [[purvs|purviem]] Lielbritānijā.<ref>{{tīmekļa atsauce|url=http://myweb.tiscali.co.uk/whixallweb/moss.htm|title=Moss|website=Myweb.tiscali.co.uk|access-date={{dat|2019|02|09||bez}}|archiveurl=https://web.archive.org/web/20180723004314/http://myweb.tiscali.co.uk/whixallweb/moss.htm|archivedate={{dat|2018|07|23||bez}}}}</ref> Lielbritānijas garākā upe [[Severna]] tek cauri grāfistei.
+
+Šropšīra ar kopējo platību {{nobr|3487 km<sup>2</sup>}} ir lielākā valsts iekšzemes grāfiste.<ref>[http://www.shropshire.gov.uk/shropshirecouncil.nsf/open/8BD3AF394D3AF171802574CC00439CF8 Shropshire Council]. Shropshire.gov.uk (15 July 2011). Retrieved on 25 August 2011.</ref>
+
+Grāfistes zieda simbols ir [[apaļlapu rasene]].<ref>[http://www.plantlife.org.uk/uk/plantlife-discovering-plants-county-flowers-england-shropshire.htm website] {{webarchive|url=https://web.archive.org/web/20090106080137/http://www.plantlife.org.uk/uk/plantlife-discovering-plants-county-flowers-england-shropshire.htm |date=6 January 2009 }}. Plantlife.org.uk. Retrieved on 25 August 2011.</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.shropshire.gov.uk Šropšīras domes mājaslapa]
+
+{{UK-aizmetnis}}
+
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

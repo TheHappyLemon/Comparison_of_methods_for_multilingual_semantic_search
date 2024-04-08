@@ -1,0 +1,75 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums              = ''Zond-2''
+| Nosaukums_orig         = ''3MV-4 № 2''
+| Attēls                 = Zond 2.jpg
+| Attēla_izmērs          = 250px
+| Att_virsraksts         = 
+| KA_veids               = [[starpplanētu zonde]]
+| Bāzes platforma        = ''3MV-4''
+| KA sērijas Nr          = 2
+| Īpašnieks              = 
+| Operators              = {{URS}}
+| Lielākie_izgatavotāji  = ''[[RKK Energija|OKB-1]]'', {{URS}}
+| Starta_gads            = 1964
+| Starts                 = {{dat|1964|11|30|SK}} 13:12 [[UTC]]
+| Nesējs                 = ''[[Molnija (nesējraķete)|Molnija]]'', {{URS}}
+| Starta_vieta           = [[Baikonuras kosmodroms|Tjuratama]]
+| Starta_laukums         = ''1/5''
+| Starta_valsts          = {{URS}}
+| Palaists_kopā_ar       = 
+| Darbības_beigu_gads    = 1965
+| Darbības_beigu_datums  = {{dat|1965|5|5|SK}}
+| Darbības_ilgums        = 
+| Beigu_gads             = 
+| Beigu_datums           = 
+| Lidojuma_ilgums        = 
+| NSSDC_ID               = 1964-078C
+| NSSDC_ID 2             = 
+| Tīmekļa_vietne         = 
+| Masa                   = 960 kg
+| Sausmasa               = 
+| Pilna_masa             = 
+| Zinātnisko_instr_masa  = 
+| Enerģija               = 
+| Raidītāji              = 
+| Pārlidojums            = 
+| Pārlidojuma_datums     = 
+| Orbītas_elementi       = jā
+| Centr_ķermenis         = Saule
+| Centr_ķermenis_parādīt = [[Saule]]
+| Orbītas_piezīmes       = 
+| Orbītas_veids          = 
+| GEO_punkts             = 
+| Lielā_pusass           = 
+| Ekscentricitāte        = 
+| Inklinācija            = 
+| Periods                = 
+| Apoapsīda              = 
+| Periapsīda             = 
+| Apriņķojumi            = 
+| Orbītā_ieiešanas_dat   = 
+| Programma              = ''Zond''
+| KA_iepr                = ''[[Zond-1]]''
+| KA_nāk                 = ''[[Zond-3]]''
+}}
+'''''Zond-2''''' jeb '''''3MV-4 № 2''''' bija [[PSRS]] [[starpplanētu zonde]], kuras sākotnējais uzdevums bija [[Marss (planēta)|Marsa]] pārlidojums. Sakari ar to zaudēti 1965. gada maijā, pirms planētas sasniegšanas.
+
+Kosmiskajā aparātā bija uzstādīta fototelevīzijas kamera, ar kuru bija paredzēts iegūt Marsa attēlus. Kameras sistēmā bija iebūvēti arī divi ultravioletie spektrometri, kā arī infrasarkanais spektrometrs.
+Zondē bija iebūvēti seši [[pulsējošais plazmas dzinējs|pulsējošie plazmas dzinēji]] orientācijas kontroles sistēmai. To izmantošana kosmiskajā aparātā bija pirmoreiz. Šī sistēma tika izmēģināta 70 minūtes.
+
+''3MV-4 № 2'' tika palaista {{dat|1964|11|30||bez}} 13:12 [[UTC]] ar [[nesējraķete|nesējraķeti]] ''[[Molnija (nesējraķete)|Molnija]]'' no [[Baikonuras kosmodroms|Baikonuras kosmodroma]].
+Pēc atdalīšanās no pēdējās pakāpes kosmiskajam aparātam tika izvērstas antenas un saules baterijas. Viens panelis neatvērās pilnībā, tādēļ zonde saņēma tikai pusi no plānotās elektroenerģijas. Bija skaidrs, ka zonde nevarēs pilnībā izpildīt plānotos uzdevumus, tāpēc oficiāli netika atklāts kosmiskā aparāta lidojuma mērķis (zondei būtu dots nosaukums ''Mars-2''), bet nosaukts par '''''Zond-2'''''.
+
+Pēc vairāku dinamisku manipulāciju veikšanas, 15. decembrī izdevās atvērt saules bateriju paneli. Pilnīga zondes sistēmu darba spēja netika atjaunota, jo aparatūra ilgstoši bija darbojusies ar pazeminātu spriegumu.
+
+1965. gada aprīlī zondes sakaru sistēmai sākās pārtraukumi. {{dat|1965|5|5||bez}} sakari ar zondi pazuda pilnībā, un tos atjaunot neizdevās. Zonde, visdrīzāk, pārlidoja Marsu 1965. gada 6. augustā 1500 km attālumā no planētas virsmas.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120808012346/http://files.seds.org/pub/info/newsletters/ejasa/1991/jasa9104.txt "The Mystery of Zond 2" by Andrew Lepage, EJASA April, 1991]
+
+
+{{1964. gada orbitālie starti}}
+
+
+[[Kategorija:Starpplanētu zondes]]
+[[Kategorija:Marsa izpēte]]

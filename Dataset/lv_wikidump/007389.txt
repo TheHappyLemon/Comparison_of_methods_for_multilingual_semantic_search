@@ -1,0 +1,449 @@
+{{Latvijas novada infokaste
+| nosaukums         = Kubulu pagasts
+| karte             = Kubulu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Kubuli
+| platība           = 167,19
+| iedzīvotāji       = 1339<ref name="registrs">[http://www.pmlp.gov.lv/lv/sakums/statistika/iedzivotaju-registrs/ PMLP mājaslapa]</ref>
+| iedzīvotāji_gads  = 2017
+| blīvums           = {{#expr: 1484 / 167.19 round 1}}
+| izveidots         = 1991
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Kubulu pagasts''' ir viena no [[Balvu novads|Balvu novada]] teritoriālajām vienībām. Izvietojusies novada ziemeļrietumos, robežojas ar sava novada [[Balvi|Balvu]] pilsētu un [[Rugāju pagasts|Rugāju pagastu]], [[Vīksnas pagasts|Vīksnas]] un [[Bērzkalnes pagasts|Bērzkalnes pagastiem]], [[Alūksnes novads|Alūksnes novada]] [[Jaunannas pagasts|Jaunannas]] un [[Mālupes pagasts|Mālupes pagastiem]], kā arī [[Gulbenes novads|Gulbenes novada]] [[Litenes pagasts|Litenes pagastu]].
+
+== Ģeogrāfija ==
+[[Attēls:Sita pie Sitas stacijas 2001-04-28.jpg|thumb|250px|[[Sita]]s upe pie [[Sita (stacija)|Sitas stacijas]]]]
+Kubulu pagasts atrodas Latgales ziemeļaustrumos un robežojas ar Vidzemi. Tā platība ir 167,19 km{{sup|2}}. Tas robežojas ar Gulbenes novada Litenes pagastu, Alūksnes novada Jaunannas un Mālupes pagastiem, Rugāju novada Rugāju pagastu un Balvu novada Balvu, Bērzkalnes un Vīksnas pagastiem, kā arī ar Balvu pilsētu.
+
+Kubulu pagasta teritorija atrodas [[Austrumlatvijas zemiene|Austramlatvijas zemienē]]. Lielākā daļa pagasta teritorijas ir pieskaitāma pie [[Adzeles pacēlums|Adzeles pacēluma]], tikai pagasta dienvidu daļa iestiepjas [[Lubāna līdzenums|Lubāna līdzenumā]]. Augstākās virsotnes atrodas pagasta ziemeļu daļā.
+
+40,6% pagasta zemes klāj meži, kas ir viens no mežainākajiem Balvu novada pagastiem. 30,8% zemes tiek izmantota lauksaimniecībā. 3,4% aizņem krūmāji, bet tikai 2% pagasta zemes veido purvi. 3,5% pagasta atrodas zem ūdens, 2,2% aizņem ceļi, bet 0,8% veido pagalmi.Vēl citiem mērķiem tiek izmantota 1,5% pagasta zemes.
+
+=== Klimats ===
+Gada vidējā temperatūra 4.8{{sup|o}}C, siltākais mēnesis jūlijs + 17{{sup|o}}C, augstākais janvāris — 7{{sup|o}}C. Bezsala periods gadā ~135 dienas, augsnes sasaluma sākums no 10 decembra un pilnīga augsnes atkušana no 15 aprīļa. Nokrišņu daudzums 550-600 mm gadā, 20-25% sniega veidā. Sniega sega 110-130 dienu ar lielām novirzēm siltās un augstās ziemās.
+
+=== Ģeoloģija ===
+Kubulu pagasta teritorijā ir atrodami vairāki derīgie izrakteņi. Pagasta dienvidu daļā ir atrodama smilts, granti var atrast Silaciemā, sapropelis ir atrodams [[Pērkonu ezers|Pērkonu ezerā]], nelieli kūdras krājumi ir pieejami Sitā, māls nelielā daudzumā ir atrodams Druveniekos.
+
+=== Hidrogrāfija ===
+3,5% Kubulu pagasta teritorijas klāj ūdens.
+
+==== Upes ====
+[[Bērzupe]], [[Bolupe]], [[Dvorupe]], [[Dzirla]], [[Kurna]], [[Līpupe]], [[Palnupe]], [[Raganiņa]], [[Silacīma upīte]], [[Sita]], [[Vilkariucis]], [[Zaļčupe]].
+
+==== Ezeri ====
+[[Balvu ezers]], [[Pārkunu ezers]].
+
+== Daba ==
+Pagasta teritorijā atrodas dabas liegums «Sitas un Pededzes paliene. Tajā plānota dabas taka. Bez dabas lieguma pagastā pie [[Balvu ezers|Balvu ezera]] atrodas dabas parks «Vecais parks», kā arī pagasta teritorijā atrodami arī vairāki dižkoki. Aiz bērnudārza «Ieviņa» atrodas «Pasaku mežs».
+
+Pagasta augsnes veidojušās uz nabadzīgiem pārskalotas smilts cilmiežiem. Dominē velēnu gleja un velēnu glejotās augsnes, kas ir piemērotas tikai zālāju audzēšanai, tāpēc ievērojamas lauksaimniecības zemes platības netiek apstrādātas un pilnībā apsaimniekotas. Pagasta teritorijā samēra zema augsnes auglība, aramzemei tā ir ~19—29 balles.
+
+Lielu daļu pagasta teritorijas klāj meži. Lielāka daļa no tiem jaukti vai skujkoku meži. Kubulu pagasta teritorijā ir [[dabas liegums "Sitas un Pededzes paliene"]], kura lielākā daļa gan iestiepjas Litenes pagastā. Dabas liegums ir izveidots, lai aizsargātu nepārveidotā palieņu pļavas ar vecupēm un ozolu grupām, kā arī, lai aizsargātu teritorijā sastopamās augu un dzīvnieku sugas.<ref>{{Tīmekļa atsauce |url=http://www.ldf.lv/pub/?doc_id=28429 |title=Latvijas Dabas fonda mājaslapa, Sitas-Pededzes paliene |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20070911210347/http://www.ldf.lv/pub/?doc_id=28429 |archivedate={{dat|2007|09|11||bez}} }}</ref>
+
+Pagasta teritorijā pārsvarā ir sastopami tie paši dzīvnieki, kas visā Latvijas teritorijā. Tā kā lielu pagasta teritoriju aizņem meži, liela daļa no tiem ir meža dzīvnieki, sastopami ir lāči, vilki, lapsas, stirnas, mežacūkas, kā arī citi meža dzīvnieki. Pagasta mežu teritorijā ir vairāki mikroliegumi, kas izveidoti medņu aizsardzībai. Pagasta ezeros ir atrodas tādas zivis, kā karūsas, līdakas, asari, raudas, līņi un plauži.
+
+== Vēsture ==
+Kubulu pagasts savu nosaukumu ieguvis pateicoties Kubulu meža masīvam, kas klāja lielāko daļu agrākā pagasta teritorijas. Pēc kādas leģendas, kad mežs vēl piederējies vietējiem muižniekiem, tajā zemniekiem bija aizliegts medīt. Tomēr zemnieki šajā mežā tomēr medījuši, bet lai muižkungs neko nenojaustu nomedīto gaļu salikuši milzīgs kubulos, kad gatavoti no turpat mežā augošajiem kokiem un ierakuši zemē. Šādus zemē ieraktus gaļas kubulus muižkungs tomēr reizēm atradis, tāpēc meža masīvs nosaukts Kubulu vārdā.<ref>{{Tīmekļa atsauce |url=http://www.laukuforums.lv/kubuli.html |title=laukuforums.lv |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160305001311/http://www.laukuforums.lv/kubuli.html |archivedate={{dat|2016|03|05||bez}} }}</ref> No 1991. līdz 2010. gadam pagasts tika dēvēt par Kubuļu pagastu, bet 2010. gadā nosaukums nomainīts uz Kubulu pagastu.<ref>{{Tīmekļa atsauce |url=http://balvi.lv/index.php?option=com_content&view=article&id=1757%3A1757&catid=146%3A12082010-protokols-nr14&Itemid=159&lang=lv |title=Balvu novada mājaslapa, lēmums par Kubuļu pagasta nosakuma maiņu |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160407123355/http://www.balvi.lv/index.php?option=com_content&view=article&id=1757:1757&catid=146:12082010-protokols-nr14&Itemid=159&lang=lv |archivedate={{dat|2016|04|07||bez}} }}</ref>
+
+Nav daudz ziņu par Kubulu pagasta senāko vēsturi, tomēr arheoloģiskie atradumi liecina, ka pagasta teritorija bijusi apdzīvota jau kopš akmens laikmeta. [[Pērkonu ezers|Pērkona ezera]] krastos atrodas trīs senkapi. Vienam no tiem ir piešķirts valsts nozīmes arheoloģijas pieminekļa statuss,bet pārējie divi ir vietējas nozīmes arheoloģijas pieminekļi. Rijnieku senkapos, kas ir valsts nozīmes arheoloģijas piemineklis, 1964. gadā tika veikti arheoloģiskie izrakumi S. Laula un J. Graudoņa vadībā. Tika atklāti 19 apbedījumi akmens šķirstos un 5 vēlāki skeletapbedījumi. Akmens šķirstu izmēri no 1,5 — 2,2 m gari, no 0,4 – 1 m plati. Tie rūpīgi veidoti no liela izmēra akmeņiem, kuru starpas aizpildītas ar mazākiem akmeņtiniem. Apbedījumu veids, kā arī atsevišķās gludās un tekstilās keramikas lauskas ļāva senkapus datēt ar 1.g.t.p.m.ē. beigām. Četri vēlākie skeletkapi un savrupatradumi datējami ar 13.-14. gadsimtu, viens — ar 17. gadsimtu.<ref>{{Tīmekļa atsauce |url=http://www.balvurcb.lv/kb/?View=entry&EntryID=172 |title=Balvu reģiona kultūrvēstures datu bāze Rijnieku senkapi |access-date={{dat|2014|08|16||bez}} |archive-date={{dat|2020|09|24||bez}} |archive-url=https://web.archive.org/web/20200924150651/http://www.balvurcb.lv/kb/?View=entry&EntryID=172 }}</ref> Arī Kubulu senkapos, ko reizēm dēvē arī par kara kapiem, 1940. gadā tika vaikti arheoloģiskie izrakumi K.Oša vadībā, un tika atrasti vairāki apbedījumi.<ref>{{Tīmekļa atsauce |url=http://www.balvurcb.lv/kb/?View=entry&EntryID=163 |title=Balvu reģiona kultūrvēstures datu bāze, Kubulu senkapi |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160304233434/http://www.balvurcb.lv/kb/?View=entry&EntryID=163 |archivedate={{dat|2016|03|04||bez}} }}</ref> Bez senkapiem pie Pērkona ezera, arī [[Sita]]s upes krastos ir atrodas atsevišķi savrupatradumi, kuros atrasti akmens cirvis, bronzas ķemme un šķiltavakmens.
+
+Vēlajā dzelzs laikmetā Kubulu pagasta teritorija atradās [[Atzele]]s zemē, kuru apdzīvoja [[latgaļi]]. Atzeles centrs atradās [[Alūksne|Alūksnē]] vai [[Gaujiena|Gaujienā]] un tā bija sadalīta sešos novados — Gaujienā, Alūksnē, Purnavā, Bērzenē, Ābelenē un Abrenē. Domājams, ka visticamāk, Kubulu pagasta teritorija ietilpa Purnavas novadā, kā centrs atradies [[Viļaka|Viļakā]].
+
+=== Viduslaiki ===
+1224. gadā [[Tālava]]s un [[Adzeles zeme]]s tika sadalīts starp [[Rīgas arhibīskapija|Rīgas arhibīskapiju]] un [[Livonijas ordenis|Livonijas ordeni]]. Tagadējā Kubulu pagasta teritorija tika iekļauta [[Rīgas arhibīskapija]]s [[Latvju gals|Latvju galā]]. Iespējams pagasta teritorija bija iekļauta [[Gulbene]]s draudzes novadā, jo tur atradās tuvākā pils.
+Kad 1549. gadā Kokneses soģis Gotarts Neils tika apvainots vecās zemes grāmatas nenodošanā, nodokļu slēpšanā, zemnieku mantas atņemšanā un prettiesiskā zemes lietošanā, viņa taisnošanās pierakstā pieminēta Purnava, Bērzene un Balvi (Balbe). 1551. gada 3. martā Rīgas arhibīskaps [[Brandenburgas Vilhelms|Vilhelms]] izlēņoja zemi pie [[Balvu ezers|Balvu ezera]] bruņiniekam Hansam Meihsneram. Pieminēts arī vecais un jaunais Balvu ceļš, Balvu ezers, pie kura atrodas akmens ar iezīmētu krustu, un [[Bolupe]].<ref name="ezeru">I.Šaicāne "Balvi — pilsēta ezeru krastos — vēstures lappusēs (1549—2009)"</ref>
+
+=== Polijas-Lietuvas valsts ===
+Pēc [[Livonijas Konfederācija]]s sabrukuma Kubulu pagasta teritorija 1561. gadā tika iekļauta [[Pārdaugavas hercogiste]]s [[Cēsu vaivadija]]s Viļakas traktā. Savukārt Viļakas trakts bija sadalīts Balvu, Viļakas un [[Baltinava]]s galos.<ref name= "ezeru"/> Kubulu pagasta teritorija ietilpa Balvu galā. Traktu pārvaldīja stārasts, kura rezidence bija [[Marienhauzenas pils]] Viļakā. 1621. gadā pēc [[Poļu—zviedru karš (1600—1629)|poļu—zviedru kara]] [[Vidzeme]]s teritorija nonāca [[Zviedrija]]s sastāvā, bet atlikusī [[Latgale]]s teritorija tika pārdēvētā par [[Inflantijas vaivadija|Inflantijas vaivadiju]].
+
+==== Viļakas stārastu uzskaitījums ====
+{| class="wikitable"
+|-
+! Vārds !! Valdīšanas laiks
+|-
+| [[Nikolajs Suhodoļskis]] || ap 1598.
+|-
+| [[Jans Karols Hodkevičs]] ||
+|-
+| [[Hilzeni|Georgs Konstantīns Hilzens]] || 1712.—1721.
+|-
+| [[Hilzeni|Jans Augusts Hilzens]] || 1721.—
+|-
+| [[Hilzeni|Justiāns Hilzens]] ||  —1772.<ref>[http://www.baltinava.lv/index.php?lapa=turMenu1-1 Baltinavas novada mājaslapa]{{Novecojusi saite}}</ref>
+|}
+1738. gada [[Viļakas muiža]]s inventarizācijas datos Balvu galā minētas 14 sādžas, starp tām arī [[Pērkoni (Kubulu pagasts)|Pērkonu]] un [[Steķintava]]s sādžas.<ref name= "ezeru"/>
+
+=== Krievijas Impērija ===
+Pēc [[Polijas dalīšanas|Pirmās Polijas-Lietuvas]] dalīšanas no 1772. līdz 1776. gadam [[Balvu muiža]] ietilpa [[Pleskavas guberņa]]s [[Daugavas province|Daugavas provincē]], tad [[Polockas guberņa]]s [[Ludzas apriņķis|Ludzas apriņķī]]. No 1796. gada tā ietilpa [[Baltkrievijas guberņa]]s, no 1802. gada [[Vitebskas guberņa]]s sastāvā.
+
+==== Balvu muižas īpašnieku uzskaitījums ====
+{| class="wikitable"
+|-
+! Īpašnieks !! Pārvaldes laiks
+|-
+| [[Ivans Jelagins]] || 1772.-1794.
+|-
+| [[Nikolajs Buturļins]] || 1794.-1806.
+|-
+| [[Semjons Horožanskis]] || 1806. — pirms 1836.
+|-
+| [[Pjotrs Horožanskis]] || pirms 1836. — pirms 1870.
+|-
+| [[Aleksandrs Horožanskis]] || pirms 1870.-1878.
+|-
+| [[Oto fon Tranzē-Rozeneks]] || 1878.-1897.
+|-
+| [[Emīlija Trabotti]] || 1897.-1906.
+|-
+| [[Zemnieku zemes banka]] || 1906.-1911.
+|-
+| [[Anna Ščerbatova]] || 1911.-1920.<ref name="ezeru"/>
+|}
+19. gadsimta beigās sāka veidoties Balvu muižas pagasts. 1878. gada Ludzas apriņķa apdzīvoto vietu sarakstā atrodamas ziņas arī par Balvu pagastu. Kopā minēta 21 sēta ar 43 mājām, kurās dzīvoja 1158 vīrieši un 1063 sievietes, 721 lasītpratējs. 1880. gados Balvu pagastā bija 3703 brīvlaistie zemnieki, 137 apdzīvotas vietas, viena katoļu un pareizticīgo baznīca, viena skola un viena slimnīca, viena labības rezerves noliktava, viena ķieģeļnīca, vienas ūdensdzirnavas, 12 krogi. Balvu pagasts bija viens no pirmajiem Latgalē, kur zemnieki pārgāja dzīvot viensētās.<ref name= "ezeru"/>
+
+1902. gadā uzbūvēja dzelzceļa līniju [[Pitalova]] — Sita, ko 1916. gadā pagarināja līdz Gulbenei. Pirmie vilcieni pa līniju sāka kursēt 1904. gadā. 1904. gadā sāka būvēt Kubulu pagastskolu (mūsdienās Stacijas pamatskola). [[1905. gada revolūcija Latvijā|1905. gada revolūcijas laikā]] Sitas apkārtnē notika sadursmes starp revolucionāriem un kazakiem.<ref name= "ezeru"/> 20. gadsimta sākumā zemes banka atpirka zemi no Balvu muižas, kas tika sadalīta kvartālos, kurus savukārt sadalīja [[zemnieku saimniecība|zemnieku saimniecībās]]  pareizticīgajiem. Pirmā pasaules kara gados meža darbos Kubulu pagastā tika nodarbināti ķīnieši, taču daudzi no viņiem gāja bojā, jo nekad nebija šādu darbu strādājuši.<ref name="par">[http://balvi.lv/index.php?option=com_content&view=category&layout=blog&id=226&Itemid=217&lang=lv Balvu novada mājaslapa, ziņas par Kubulu pagastu]{{Novecojusi saite}}</ref>
+
+=== Latvijas Republika (1918—1940) ===
+Pēc [[Latvijas brīvības cīņas|Brīvības cīņu]] beigām, 1924. gadā tika izveidots [[Jaunlatgales apriņķis]],kurā ietilpa 12 pagasti (vēlāk 15), tajā skaitā arī Balvu pagasts. 1935. gadā Kubulu pagasta teritorijā darbojās trīs pirmās pakāpes pamatskolas (Sitā, Balvu Stacijā un Kubulos), divas dzirnavas (Esmeraldovā un Celmenē (Celmenes dzirnavu dibinātājs bija Voldemārs Lange, kas tās dibināja 19. gadsimta beigās)) un Sitas mežniecība. Latvijas laikā tika latviskoti daudzi apdzīvotu vietu nosaukumi:
+{| class="wikitable"
+|-
+! Agrākais nosaukums !! Šobrīdējais nosaukums
+|-
+| Podgraņičnaja || Robežnieki
+|-
+| Paulova || Paulāni
+|-
+| Ivanova || Jāņusala
+|-
+| Antonova || Līdumnieki
+|-
+| Stancionaja || Celmenieki
+|-
+| Evgenjevo || Ežusala
+|-
+| daļa Kozlovas || Stirnusala
+|-
+| daļa Lossinajas || Briedīši
+|-
+| Tropova || Tropiņi
+|-
+| Konstantinova || Tīreļi
+|}
+
+=== Otrais pasaules karš ===
+[[Latvijas okupācija (1940)|Latvijas okupācijas]] laikā 1940. gada 17. jūnijā Balvos ienāca [[Sarkanā armija]]. [[1941. gada 14. jūnija deportācija]]s laikā Balvu stacijā notika izvešanas akcija, 1941. gada 2. jūlijā Balvus okupēja [[Vērmahts]]. 1941. gada 8.-9. augustā Celmenes mežā nošāva Balvu ebrejus (no 500 līdz gandrīz 1000 cilvēku). 1944. gada 29. jūnijā Balvus okupēja Sarkanā armija. 1945. gada 21. jūlijā Romūkstu mežā notika Romūkstu kauja starp nacionālajiem partizāniem un padomju karaspēku. Partizāni tika aplenkti un desmit no viņiem krita kaujā.<ref name= "ezeru"/>
+
+=== Padomju laiks ===
+1945. gadā tiek likvidēti pagasti. Tagadējā Kubulu pagasta teritorijā tiek izveidotas trīs ciema padomes — Kubulu, Celmenes un Dekšņu. 1949. gadā tiek izveidots [[Balvu rajons]], kurā tika iekļauta arī Kubulu pagasta teritorija. Sākotnēji, veidojoties pirmajiem kolhoziem, gandrīz katrā ciemā bija pa nelielam kolhozam. 1950. gadā Sitas II kolhozs "Beregovoje", Sitas III kolhozs "Novaja žižņ", Kozlovas kolhozs "Vperjod" un Lassinajas kolhozs "Putj Ļeņina" apvienojās kolhozā [[Mihails Kaļiņins|Mihaila Kaļiņina]] vārdā nosauktajā kolhozā, bet Liepavas kolhozs "Draudzība", Briedīšu kolhozs "Briežusala", Tīreļu kolhozs "Brīvā zeme", Paulānu kolhozs "Ziemeļzvaigzne" un Robežnieku kolhozs "Robežnieki" apvienojas kolhozā "Staļina ceļs". 1951. gadā abi kolhozi apvienojās saimniecībā ar nosaukumu "Staļina ceļš". 1959. gadā tiek likvidētās Celmenes un Dekšņu ciema padomes, kas tiek pievienotas Kubulu ciema padomei. 1960. gadā tiek apvienoti mazie kolhozi un tiek izveidota padomju saimniecība "Balvi".<ref name= "par"/> 1972. gadā tiek atklāts kultūras nams, 1989. gadā tiek uzcelts bērnudārzs.
+
+=== Mūsdienas ===
+1991. gada 28. maijā Kubulu ciems tiek reorganizēts par pagastu. 1995. gadā tiek atklāts piemineklis represētajiem iedzīvotājiem. 2000. gadā tiek slēgta dzelzceļa līnija Sita—Pitalova, jo tā tiek uzskatīta par nerentablu. 2004. gadā tiek izveidots dabas liegums "Sitas—Pededzes paliene". 2006. gadā tiek izveidots pagasta karogs. 2009. gadā Kubuļu pagasts tiek pārdēvēts par Kubulu pagastu. 2009. gadā Kubulu pagasts tiek iekļauts Balvu novadā.<ref name= "par"/>
+
+Kubulu pagasts administatīvi ietilpt Balvu novadā. Tā centrs atrodas Balvu pilsētā, kur atrodas novada dome. Novada domi veido 15 pašvaldības vēlēšanās ievēlēti deputāti, bet to vada novada domes priekšsēdētājs. Šobrīd Balvu novada domes priekšsēdētājs ir Andris Kazinovskis.<ref>{{Tīmekļa atsauce |url=http://balvi.lv/index.php?option=com_content&view=article&id=75&Itemid=328&lang=lv |title=Balvu novada mājaslapa, Deputāti |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160408014601/http://www.balvi.lv/index.php?option=com_content&view=article&id=75&Itemid=328&lang=lv |archivedate={{dat|2016|04|08||bez}} }}</ref>
+
+=== 2013. gada pašvaldību vēlēšanu rezultāti Kubulu pagastā ===
+{| class="wikitable"
+|-
+! Saraksts !! Zīmes !! Procenti
+|-
+| [[Centriskā partija Latvijas zemnieku savienība]] || 109 || 21,5%
+|-
+| [[Reformu partija (Latvija)|Reformu partija]] || 22 || 4,4%
+|-
+| [[Nacionālā apvienība "Visu Latvijai!"—"Tēvzemei un Brīvībai/LNNK"]] || 15 || 3%
+|-
+| [[Vienotība]] || 43 || 8,5%
+|-
+| [[Latvijas Zaļā partija]] || 130 || 25,7%
+|-
+| [[Par prezidentālu republiku]] || 86 || 17%
+|-
+| [[Latgales partija]] ||37 || 7,3%
+|-
+| [[Saskaņas Centrs]] || 63 || 12,5%<ref>{{Tīmekļa atsauce |url=http://www.pv2013.cvk.lv/ResIecPart-599.html |title=Centrālās vēlēšanu komisijas mājaslapa, 2013. gada pašvaldību vēlēšanu rezultāti |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20130808214006/http://www.pv2013.cvk.lv/ResIecPart-599.html |archivedate={{dat|2013|08|08||bez}} }}</ref>
+|}
+Pirms novadu reformas 2009. gadā, katrā pagastā notika savas pašvaldību vēlēšanas un tika ievēlēti savi septiņi deputāti, bet pagastu vadīja pagasta priekšsēdētājs. Kopš novadu reformas vairs netiek ievēlēts pagasta priekšsēdētājs, bet pagastam ir pārvaldnieks. Kopš 2010. gada Kubulu pagasta pārvaldnieks ir [[Artūrs Luksts]].
+
+=== Kubulu pagasta vadītāju uzskatījums ===
+{| class="wikitable"
+|-
+! Vārds !! Pārvaldes laiks
+|-
+| Zinaīda Kupriša || 1959.-1987.
+|-
+| Rita Mača || 1987.-1999.
+|-
+| Tekla Supe || 1999.-2006.
+|-
+| Juris Boldāns || 2006.
+|-
+| Ivars Šmats || 2006.-2009.
+|-
+| Oskars Keišs || 2009.-2010.
+|-
+| Artūrs Luksts || kopš 2010.<ref name= "par"/>
+|}
+
+=== Pieminekļi ===
+
+* Rijnieku senkapi (Kara kapi)<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Kubulu+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+
+Pie bijušās Balvu dzelzceļa stacijas ēkas atrodas piemiņas akmens komunistiskā režīma upuriem. 2011. gadā piemiņas akmens tika restaurēts. Katru gadu 25. martā un 14. jūnijā pie tā norisinās atceres pasākumi.<ref>{{Tīmekļa atsauce |url=http://www.balvurcb.lv/kb/?View=entry&EntryID=384 |title=Balvu kultūrvēstures datu bāze, Piemiņas akmens pie Balvu dzelzceļa stacijas |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160304234419/http://www.balvurcb.lv/kb/?View=entry&EntryID=384 |archivedate={{dat|2016|03|04||bez}} }}</ref> Otrs piemineklis atrodas Celmenē, aiz Silaciema—Kurnas kapiem, un tas ir veltīts fašisma terora upuriem — 1941. gadā nošautajiem ebrejiem.
+
+[[Attēls:Памятный камень напротив здания вокзаа ст. Балви.jpg|thumb|250px|Piemiņas akmens pie Balvu stacijas]]
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|4000
+|1959|3000
+|1967|2796
+|1979|2314
+|1989|1907
+|2000|1772
+|2011|1538
+|2021|1285
+}}
+
+Kubulu pagasts iedzīvotāju skaita ziņā ir viens no lielākajiem Balvu novada pagastiem, lai gan tas ar katru gadu samazinās, kam par iemeslu ir mazā dzimstība un lielā mirstība, gan iedzīvotāju migrācija.
+
+=== Iedzīvotāju skaita izmaiņas pēdējos 15 gados ===
+{| class="wikitable"
+|-
+! Gads !! Iedzīvotāju skaits gada sākumā !! Izmaiņa
+|-
+| 2000 || 1821 ||
+|-
+| 2001 || 1785 || -36
+|-
+| 2002 || 1806 || +21
+|-
+| 2003 || 1803 || -3
+|-
+| 2004 || 1767 || -36
+|-
+| 2005 || 1761 || -6
+|-
+| 2006 || 1718 || -43
+|-
+| 2007 || 1723 || +5
+|-
+| 2008 || 1682 || -41
+|-
+| 2009 || 1642 || -40
+|-
+| 2010 || 1603 || -39
+|-
+| 2011 || 1556 || -47
+|-
+| 2012 || 1519 || -37
+|-
+| 2013 || 1514 || -5
+|-
+| 2014 || 1484 || -30<ref name="registrs"/>
+|-
+|2015
+|1444
+| -40
+|-
+|2016
+|1386
+| -58
+|-
+|2017
+|1339
+| -47
+|}
+Etniskā sastāva ziņā Kubulu pagastā ir visai līdzīga situācija kā Latvijā kopumā ņemot, taču salīdzinot ar Latgales etnisko situāciju, Kubulu pagasts ir samērā latvisks.
+
+=== Etniskais sastāvs 2009. gadā ===
+{{bar box
+|float=left
+|width=300px
+|bars=
+{{bar percent|latvieši|green|76.7}}
+{{bar percent|krievi|red|20.05}}
+{{bar percent|baltkrievi|blue|1.05}}
+{{bar percent|pārējie|black|2.2}}
+}}
+{{-}}
+
+=== Reliģija ===
+Dominējošās reliģijas ir katoļticība, luterānisms un pareizticība. Kubulu pagastā nav nevienas baznīcas, taču ir trīs [[Krucifikss|krucifiksi]] un pansionātā "Balvi" ir lūgšanu telpa. Vecākais krucifikss atrodas Kurnas ciemā, tas uzstādīts 1992. gadā, iespējams, ka krucifikss Kurnā ir bijis jau 1930. gados, bet vēlāk padomju laikā nojaukts. 2006. gadā tika uzstādīts jauns krucifikss iepretim kultūras namam. Pie šie krucifiksa parasti katru gadu maijā notiek dziedājumi. 2008. gadā vēl viens krucifikss tika uzstādīts pie pansionāta «Balvi».<ref>{{Tīmekļa atsauce |url=http://www.balvurcb.lv/kb/?CategoryID=32 |title=Balvu reģiona kultūrvēstures datu bāze, Krucifiksi |access-date={{dat|2014|08|16||bez}} |archive-date={{dat|2020|09|24||bez}} |archive-url=https://web.archive.org/web/20200924141850/http://www.balvurcb.lv/kb/?CategoryID=32 }}</ref>
+
+Pagastā ir 5 publiskās kapsētas — Silaciema-Kurnas, Pērkonu, Tutinavas un Romūkstu, kur pārsvarā apglabāti katoļticīgie, un Andrakalna kapsēta, kur pārsvarā apglabāti luterāņi. Pansionātam "Balvi" ir sava kapsēta.
+
+=== Ievērojamas personības ===
+* [[Juris Boldāns]] (1951), politiķis, īsu laiku [[9. Saeima]]s deputāts
+* [[Jānis Trupovnieks]], politiķis, bijušais Balvu pilsētas domes priekšsēdētājs,12. Saeimas deputāts
+* [[Rudīte Liepiņa]], māksliniece, Balvu mākslas skolas skolotāja
+* [[Elita Teilāne]], māksliniece, Balvu mākslas skolas direktore
+* Kārlis Ozoliņš, pedagogs, bijušais Stacijas pamatskolas direktors, novadpētnieks
+* [[Arvīds Šnepers]], rakstnieks, novadpētnieks, saņēmis Triju Zvaigžņu ordeņa sudraba goda zīmi
+
+=== Ciemi ===
+Kubulu pagastā ir 38 ciemi. Lielākā daļa no tiem ir [[skrajciems|skrajciemi]], taču daži lielākie tiek pieskaitīti pie [[vidējciems|vidējciemiem]].
+{| class="wikitable sortable"
+|-
+! Ciema nosaukums !! Iedzīvotāju skaits
+!Gads!! saimniecību skaits
+|-
+| [[Balvu stacija]] ||243
+|2015|| 127
+|-
+| [[Druvenieki (Kubulu pagasts)|Druvenieki]] ||115
+|2015|| 48
+|-
+| [[Kurna]] ||152
+|2015|| 78
+|-
+| [[Celmene (Kubulu pagasts)|Celmene]] ||139
+|2015|| 42
+|-
+| [[Ežusala]] ||28
+|2015|| 11
+|-
+| [[Esmeraldova]] ||29
+|2015|| 13
+|-
+| [[Fabrika (ciems)|Fabrika]] ||89
+|2015|| 28
+|-
+| [[Vasiļjeva]] ||11
+|2015|| 4
+|-
+| [[Robežnieki (Kubulu pagasts)|Robežnieki]] ||25
+|2015|| 13
+|-
+| [[Dvorupe]] ||7
+|2015|| 5
+|-
+| [[Jāņusala]] ||1
+|2015|| 4
+|-
+| [[Oļģina]] ||1
+|2015|| 7
+|-
+| [[Nikolajeva (Kubulu pagasts)|Nikolajeva]] ||16
+|2015|| 14
+|-
+| [[Vladimirova]] ||12
+|2015|| 8
+|-
+| [[Gobusala]] ||8
+|2015|| 6
+|-
+| [[Līdumnīki]] ||4
+|2015|| 3
+|-
+| [[Pērkoni (Kubulu pagasts)|Pērkoni]] ||44
+|2015|| 34
+|-
+| [[Tutinava (Kubulu pagasts)|Tutinava]] ||35
+|2015|| 21
+|-
+| [[Guznava]] ||36
+|2015|| 18
+|-
+| [[Dekšņi (Kubulu pagasts)|Dekšņi]] ||1
+|2015|| 1
+|-
+| [[Pelnupe]] ||3
+|2015|| 6
+|-
+| [[Steķintava]] ||45
+|2015|| 22
+|-
+| [[Zači (Kubulu pagasts)|Zači]] ||35
+|2015|| 12
+|-
+| [[Krasnagorka]] ||20
+|2015|| 7
+|-
+| [[Briedīši]] || 28
+|2015|| 11
+|-
+| [[Celmenieki]] ||31
+|2015|| 15
+|-
+| [[Kozlova (Kubulu pagasts)|Kozlova]] || 9
+|2015|| 7
+|-
+| [[Lassinaja]] ||4
+|2015|| 3
+|-
+| [[Paulāni]] ||5
+|2015||  5
+|-
+| [[Sita (ciems)|Sita]] ||27
+|2015|| 15
+|-
+| [[Stacija Sita]] || 3
+|2003|| 3
+|-
+| [[Stirnusala]] ||8
+|2015|| 5
+|-
+| [[Tīreļi (Kubulu pagasts)|Tīreļi]] ||18
+|2015|| 11
+|-
+| [[Silaciems]] || 27
+|2015|| 13
+|-
+| [[Grīvgals]] ||1
+|2015|| 2
+|-
+| [[Meirāni (Kubulu pagasts)|Meirāni]] ||24
+|2015|| 10
+|-
+| [[Pordari]] ||2
+|2015|| 6
+|-
+| [[Tropiņi (Kubulu pagasts)|Tropiņi]] ||19
+|2015|| 8
+|}
+2009. gadā Krasnagorkas iedzīvotāji bija savākuši parakstus par ciema nosaukuma maiņu uz Mālkalni, tomēr nosaukuma maiņa nenotika.<ref>{{Tīmekļa atsauce |url=http://www.kasjauns.lv/lv/zinas/12148/kubulu-pagasta-grib-atbrivoties-no-padomju-pagatnes |title=Kubulu pagastā grib atbrīvoties no padomju pagātnes |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160304193917/http://www.kasjauns.lv/lv/zinas/12148/kubulu-pagasta-grib-atbrivoties-no-padomju-pagatnes |archivedate={{dat|2016|03|04||bez}} }}</ref>
+
+== Saimniecība ==
+Lielākā daļa Kubulu pagasta iedzīvotāju nodarbojas ar lauksaimniecību, kokapstrādi un darbojas pakalpojumu un izglītības sfērā. Pagasta teritorijā nav lielu uzņēmumu, kuros tiktu nodarbināts liels skaits iedzīvotāju. Lielākā daļa uzņēmumu nodarbojas ar kokapstrādi. Lauksaimniecībā dominē piena produkcijas un lielopu gaļas pārstrāde, graudkopīpa un lopbarības sagatavošana. Pakalpojumu sfēra ir samērā maz attīstīta, jo tikai 3 km attālumā no pagasta centra atrodas Balvu pilsēta. Pagastā darbojas pamatskola, bērnudārzs un pansionāts. Tāpat pagasta centrā ir pieeami divi pārtikas veikali, bet attālākās pagasta vietas apkalpo autoveikals.
+
+== Izglītības un kultūra ==
+Kubulu pagastā darbojas Stacijas pamatskola, kas ir viena no lielākajām lauku skolām Balvu novadā. 2013./2014. gada mācību gada sākumā Stacijas pamatskolā mācījās 102 skolēni. Bez pamatskolas pagastā darbojas arī pirmskolas izglītības iestāde "Ieviņa", kuru 2013./2014.mācību gada sākumā apmeklēja 64 bērni.<ref>[http://balvi.lv/index.php?option=com_content&view=category&layout=blog&id=245&Itemid=254&lang=lv Balvu novada mājaslapa, Statistika par izglītojamo skaitu novada izglītības iestādēs]{{Novecojusi saite}}</ref>
+
+Galvenokārt visi kultūras pasākumi norisinās Kubulu pagasta kultūras namā. Pagastā darbojas vairāki pašdarbības kolektīvi, kas regulāri sniedz koncertus gan pagasta iedzīvotājiem, gan dodas uz citām pagastiem un pilsētām, lai koncertētu.
+
+Kubulu pagastā darbojas bērnu un jauniešu deju kolektīvs "Cielaviņa", kas dibināts 2000. gadā, vidējās paaudzes deju kopa, kas savu darbību uzsākusi 2013. gadā, senjoru dāmu deju kopa "Rūtas", kas darbojas kopš 2007. gada, garīgo dziesmu ansamblis "Vakarblāzma", kura pirmsākumi meklējami 2006. gadā, un vecākais pašdarbības kolektīvs, kas savu darbību uzsācis 1999. gadā, ir jauktais vokālais ansamblis.<ref>{{Tīmekļa atsauce |url=http://www.balvurcb.lv/kb/?CategoryID=53 |title=Balvu reģiona kultūrvēstures datu bāze, Kolektīvi |access-date={{dat|2014|08|16||bez}} |archiveurl=https://web.archive.org/web/20160304233439/http://www.balvurcb.lv/kb/?CategoryID=53 |archivedate={{dat|2016|03|04||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Balvu rajons}}
+}}
+
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Kubulu pagasts| ]]
+[[Kategorija:Balvu pagasts]]

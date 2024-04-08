@@ -1,0 +1,109 @@
+{{Citas nozīmes|Saules sistēmas planētu|Neptūns|Neptūns}}
+{{Planētas infokaste
+| bgcolour     = #97C3F4
+| name         = Neptūns
+| symbol       = [[Attēls:Neptune symbol (bold).svg|20px|alt=♆|Neptūna astronomiskais simbols]]
+| image        = [[Attēls:Neptune Voyager2 color calibrated.png|240px|Neptūna attēls no zondes "Voyager-2"]]
+| caption      = Neptūna attēls no zondes "Voyager-2"
+| discovery    = yes
+| discoverer   = [[Žans Irbēns Leverjē]]<br> [[Džons Kūčs Adamss]]<br> [[Johans Gotfrīds Galle]]
+| discovered   = {{dat|1846|9|23}}<ref name=Hamilton>{{Tīmekļa atsauce | first=Calvin J. | last=Hamilton | date=August 4, 2001 | url=http://www.solarviews.com/eng/neptune.htm | title=Neptune |publisher=Views of the Solar System | accessdate=2007-08-13}}</ref>
+| orbit_ref    =<ref name=horizons>{{Tīmekļa atsauce | first=Donald K. | last=Yeomans | date =July 13, 2006 | url = http://ssd.jpl.nasa.gov/?horizons | title = HORIZONS System | publisher = NASA JPL | accessdate = 2007-08-08}}</ref>
+| epoch        = [[J2000]]
+| aphelion     = 4 553 946 490 [[kilometrs|km]]<br>30,44125206 [[astronomiskā vienība|AU]]
+| perihelion   = 4 452 940 833 km<br>29,76607095 AU
+| semimajor    = 4 503 443 661 km<br>30,10366151 AU
+| eccentricity = 0.011214269
+| period       = 60 190 dienas<ref name="fact2" /><br>164,79 gadi
+| synodic_period = 367,49 dienas<ref name="fact">{{Tīmekļa atsauce | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html | title = Neptune Fact Sheet | date = September 1, 2004 | publisher = NASA | accessdate = 2007-08-14 | last = Williams |first = David R.}}</ref>
+| avg_speed    = 5,43 km/s<ref name="fact"/>
+| inclination  = 1,767975°<br>6,43° attiecībā pret Saules ekvatoru
+| asc_node     = 131,794310°
+| arg_peri     = 265,646853°
+| mean_anomaly = 267,767281°
+| satellites   = [[Neptūna pavadoņi|14]]
+| physical_characteristics = yes
+| flattening   = 0,0171 ± 0,0013
+| equatorial_radius = 24 764 ± 15 km<ref name=Seidelmann2007>{{Laikraksta atsauce | first=Seidelmann | last=P. Kenneth | coauthors=Archinal, B. A.; A’hearn, M. F. et al | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements | journal=Celestial Mechanics and Dynamical Astronomy | volume=90 | pages=155–180 | year=2007 | doi=10.1007/s10569-007-9072-y | issn =0923-2958 (Print) | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y |publisher=Springer Netherlands | accessdate=2008-03-07}}</ref><ref name=1bar>Atbilst 100 kPa lielam atmosfēras spiedienam</ref><br>3,883 Zemes rādiusi
+| polar_radius = 24 341 ± 30 km<ref name=Seidelmann2007/><ref name=1bar/><br>3,829 Zemes polārie rādiusi
+| surface_area = 7,6408{{E|9}} km²<ref name="fact2"/><ref name=1bar/><br>14,98 Zemes virsmas
+| volume       = 6,254{{E|13}} km³<ref name="fact"/><ref name=1bar/><br>57,74 Zemes tilpuma
+| mass         = 1,0243{{E|26}} kg<ref name="fact"/><br>17,147 Zemes masas
+| density      = 1,638 g/cm³<ref name="fact"/><ref name=1bar/>
+| surface_grav = 11,15 [[paātrinājums|m/s²]]<ref name="fact"/><ref name=1bar/><br>1,14 ''g''
+| escape_velocity = 23,5 km/s<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 0,6713 dienas<ref name="fact"/><br>16 h 6 min 36 s
+| rot_velocity = 2,68 km/s<br>9660 km/h
+| axial_tilt   = 28,32°<ref name="fact"/>
+| right_asc_north_pole = 19h 57m 20s<ref name=Seidelmann2007/>
+| declination  = 42,950°<ref name=Seidelmann2007/>
+| albedo       = 0,290 ([[saites albedo|saites]])<br>
+0,41 ([[ģeometriskais albedo|ģeom.]])<ref name="fact"/>
+| magnitude    = no 8,0 līdz 7,78<ref name="fact"/><ref name=ephemeris/>
+| angular_size = 2,2″–2.4″<ref name="fact"/><ref name=ephemeris>{{Tīmekļa atsauce | last=Espenak | first=Fred | date=July 20, 2005 | url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/TYPE.html | title=Twelve Year Planetary Ephemeris: 1995–2006 | publisher=NASA | accessdate=2008-03-01 | archive-date=2011-08-17 | archive-url=https://www.webcitation.org/610c2uk4K?url=http://eclipse.gsfc.nasa.gov/TYPE/TYPE.html }}</ref>
+| temperatures = yes
+| temp_name1   = 100 kPa līmenī
+| min_temp_1   = 
+| mean_temp_1  = 72 [[kelvins|K]]<ref name="fact2">{{Tīmekļa atsauce | first = K. | last = Munsell | coauthors = Smith, H.; Harvey, S. | url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Neptune&Display=Facts | title = Neptune: Facts & Figures | date = November 13, 2007 | publisher = NASA | accessdate = 2007-08-14 | archive-date = 2017-12-09 | archive-url = https://web.archive.org/web/20171209161959/https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html }}</ref>
+| max_temp_1   = 
+| temp_name2   = 10 kPa līmenī
+| min_temp_2   = 
+| mean_temp_2  = 55 K<ref name="fact"/>
+| max_temp     = 
+| adjectives   =
+| atmosphere   = yes
+| atmosphere_ref =<ref name="fact"/>
+| scale_height = 19,7 ± 0,6 km
+| atmosphere_composition = 
+<table>
+<tr><td>
+80±3.2%</td><td>[[ūdeņradis]] (H<sub>2</sub>)
+</td></tr><tr><td>
+19±3.2%</td><td>[[hēlijs]]
+</td></tr><tr><td>
+1.5±0.5%</td><td>[[metāns]]
+</td></tr><tr><td>
+~0.019%</td><td>[[ūdeņraža deiterīds]] (HD)
+</td></tr><tr><td>
+~0.00015%</td><td>[[etāns]]
+</td></tr><tr><td>
+'''Ledus''':</td><td>
+</td></tr><tr><td>
+</td><td>[[amonjaks]]
+</td></tr><tr><td>
+</td><td>[[ūdens]]
+</td></tr><tr><td>
+</td><td>[[amonija hidrogēnsulfīds]](NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>metāns (?)
+</td></tr></table>
+}}
+
+'''Neptūns''' ir viena no [[Saules sistēma]]s [[milzu planēta|milzu planētām]] un astotā [[planēta]] no [[Saule]]s. Neptūns ir nosaukts [[Senā Roma|romiešu]] jūras dieva [[Neptūns (dievs)|Neptūna]] vārdā. Neptūns tika atklāts 1846. gadā, taču jau iepriekš 1845. gadā astronomi [[Žans Irbēns Leverjē]] un [[Džons Adamss (zinātnieks)|Džons Kūčs Adamss]] bija noteikuši tā [[orbīta|orbītu]]. Lai arī Neptūns izmēra ziņā ir mazāks kā [[Urāns (planēta)|Urāns]], Neptūna [[masa]] ir lielāka par Urāna masu. Neptūnam ir 14 pavadoņi. Tam ir arī vismaz 3 [[planētu gredzeni|planetārie gredzeni]].
+
+Neptūna astronomiskais simbols ir [[Attēls:Neptune symbol.svg|15px]], tas attēlo dieva Neptūna trijzari.
+
+== Orbitālie parametri ==
+[[Attēls:Neptune, Earth size comparison true color.jpg|left|thumb|Neptūna izmēru salīdzinājums ar Zemi.]]Neptūna ekvatoriālais [[diametrs]] ir 49 528 km, tas ir 3,8 reizes lielāks nekā [[Zeme]]i. Planētas vidējais attālums no Saules ir 30,1 AU, kas nozīmē, ka Neptūns atrodas teju 30 reizes tālāk no Saules nekā Zeme.<ref>Woolfson, M. M. ''The Origin and Evolution of the Solar System''. Bristol: Institute of Physics Publishing, 2000. p. 7.</ref>
+
+Neptūns pārvietojas ap Sauli pa gandrīz riņķveida orbītu, veicot vienu apriņķojumu vidēji 165 Zemes gadu laikā. Vienu apgriezienu ap savu asi tas veic 16 stundās un 6 minūtēs.
+
+== Atmosfēra un klimats ==
+Neptūnam ir ļoti blīva [[atmosfēra]], kas sastāv galvenokārt no [[ūdeņradis|ūdeņraža]] un [[hēlijs|hēlija]]. Temperatūra Neptūna atmosfēras augšējā slānī ir 53 [[kelvins (mērvienība)|kelvini]] (−215&nbsp;°C). Uz Neptūna sastopams spēcīgākais vējš visā Saules sistēmā, sasniedzot līdz 580 m/s.<ref name="fact" /><ref>[https://www.projectshum.org/Planets/neptune.html Planets – Neptune] A children's guide to Neptune</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html NASA informācija]
+
+{{Astronomija-aizmetnis}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Saules sistēmas planētas]]
+[[Kategorija:Neptūns (planēta)| ]]

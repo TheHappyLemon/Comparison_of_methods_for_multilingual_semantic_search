@@ -1,0 +1,80 @@
+{{Latvijas novada infokaste
+| nosaukums         = Skrudalienas pagasts
+| karte             = Skrudalienas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Skrudalienas pagasta ģerbonis.png
+| ģerboņa_nosaukums = Skrudalienas pagasta ģerbonis
+| karoga_attēls     = Skrudalienas pagasta karogs.png
+| karoga_nosaukums  = Skrudalienas pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Augšdaugavas novads
+| centrs2           = [[Silene (Skrudalienas pagasts)|Silene]]
+| platība           = 99,5
+| iedzīvotāji       = 1501<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1501 / 99.5 round 1}}
+| izveidots         = 1889
+| mājaslapa         = www.skrudaliena.lv
+}}
+
+'''Skrudalienas pagasts''' ir viena no [[Augšdaugavas novads|Augšdaugavas novada]] administratīvajām teritorijām, novada [[Augšzeme]]s daļā, Baltkrievijas pierobežā. Robežojas ar sava novada [[Tabores pagasts|Tabores]], [[Vecsalienas pagasts|Vecsalienas]], [[Salienas pagasts|Salienas]], [[Demenes pagasts|Demenes]] un [[Laucesas pagasts|Laucesas]] pagastiem, kā arī [[Baltkrievija]]s [[Vitebskas apgabals|Vitebskas apgabala]] [[Braslavas rajons|Braslavas rajonu]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Čuriškas upe]], [[Kumbule]], [[Kuriļišku upīte]], [[Silica]].
+
+==== Ezeri ====
+[[Abiteļu ezers]], [[Beļanu ezers]], [[Bruņu ezers]], [[Glušonki]], [[Riču ezers]], [[Sila ezers (Skrudalienas pagasts)|Sila ezers]], [[Sitas ezers]], [[Smiļģiņa]], [[Šengeidas ezers]], [[Valņaņišku ezers]].
+
+== Vēsture ==
+1889. gadā [[Kurzemes guberņa]]s [[Ilūkstes apriņķis|Ilūkstes apriņķa]] [[Aizlauces draudzes novads|Aizlauces draudzes novadā]] izveidoja '''Skrudalinas pagastu''' (''Skrudalina''), apvienojot 7 muižu pagastus. 1935.gadā Skrudalienas pagasta platība bija 107,45 km² un tajā dzīvoja 3335 iedzīvotāji.<ref>{{EncLP}}</ref> 
+Pēc [[1920. gada zemes reforma]]s Skrudalienes pagasta [[Bruņenes muiža|Bruņas muiža]] (''Brunnen'') tika sadalīta 44 vienībās 670 ha kopplatībā, Elkšņu muiža (''Ellern'') 29 vienībās 528 ha kopplatībā, Liellašu muiža (''Groß-Lassen'') 26 vienībās 394 ha kopplatībā, Tābaras muiža (''Tabor'') 21 vienībās 360 ha kopplatībā, Māres muiža (''Marienhof'') 25 vienībās 290 ha kopplatībā, Šteinfeldes muiža 6 vienībās 149 ha kopplatībā. Grīvas pareizticīgo draudzes zemi sadalīja 6 vienībās 147 ha kopplatībā, bet Skrudalienes ciemu 61 vienībā 53 ha platībā.<ref>{{LKV|XX.|39 213}}</ref> 
+
+1945. gadā pagastā izveidoja [[Adamovas ciems|Adamovas]], Skrudalienas un [[Tabores ciems|Tabores]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Skrudalienas ciems''' ietilpis [[Grīvas rajons|Grīvas]] (1949-1955), [[Ilūkstes rajons|Ilūkstes]] (1955-1956) un [[Daugavpils rajons|Daugavpils]] (pēc 1956) rajonos. 1954. gadā Skrudalienas ciemam pievienoja likvidēto [[maltas ciems|Maltas ciemu]], 1965. gadā - daļa likvidētā [[Silenes ciems|Silenes ciema]], bet 1977. gadā daļu teritorijas pievienoja [[Laucesas ciems|Laucesas ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Skrudalienas pagastu kā administratīvo teritoriju iekļāva [[Daugavpils novads|Daugavpils novadā]]. 2021. gadā Daugavpils novadu kopā ar [[Ilūkstes novads|Ilūkstes novadu]] iekļāva jaunajā [[Augšdaugavas novads|Augšdaugavas novadā]].
+
+== Iedzīvotāji ==
+{{bar box
+|title=Latvijas iedzīvotāju skaits pašvaldībās, pagastu dalījumā 2021. gadā <ref>{{Tīmekļa atsauce |url=https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRE/RIG040/table/tableViewLayout1/attachment |title=Iedzīvotāju skaits pēc tautības reģionos, novados, pilsētās, pagastos (atbilstoši robežām 2023. gada sākumā), apkaimēs un blīvi apdzīvotās teritorijās (eksperimentālā statistika) – Visas teritorijas, Tautība, Rādītājs un Laika periods }}{{Novecojusi saite}}</ref>
+|titlebar=#ddd
+|left1=Tautība
+|right1=Procenti
+|float=
+|width=350px
+|bars=
+{{bar percent|Krievi (518)|Yellow|54}}
+{{bar percent|Poļi (166)|Red|17}}
+{{bar percent|Baltkrievi (134)|Black|14}}
+{{bar percent|Latvieši (94)|Green|10}}
+{{bar percent|Citi un ar neizvēlētu tautību (42)|Blue|5}}
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Silene (Skrudalienas pagasts)|Silene]] (pagasta centrs), [[Skrudaliena]], [[Braslas]], [[Bruņene]], [[Ezerne]], [[Ilga (ciems)|Ilga]], [[Joniški]], [[Kaptiliški]], [[Katineļi]], [[Salmanovka]], [[Sūriški]], [[Šengeida]], [[Tarasovka (Skrudalienas pagasts)|Tarasovka]], [[Valniški]], [[Vārpene]], [[Viktorija (ciems)|Viktorija]], [[Vitaniški]], [[Voitiški]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* {{commonscat-inline|Skrudaliena parish|Skrudalienas pagasts}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Augšdaugavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Daugavpils novads}}
+{{Daugavpils rajons}}
+{{Ilūkstes apriņķis}}
+}}
+[[Kategorija:Sēlija]]
+[[Kategorija:Augšdaugavas novada pagasti]]
+[[Kategorija:Skrudalienas pagasts| ]]

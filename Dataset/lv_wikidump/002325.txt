@@ -1,0 +1,96 @@
+[[Attēls:Parallelogram.svg|right|thumb|Paralelograms ABCD]]
+'''Paralelograms''' ir [[četrstūris]], kuram pretējās malas ir pa pāriem paralēlas (vārds "paralelograms" ir cēlies no [[grieķu valoda|grieķu]] "παραλληλ-όγραμμον" jeb "paralēlas taisnes").
+
+== Īpašības  ==
+Paralelogramam piemīt šādas īpašības:
+* pretējās malas ir paralēlas un vienāda garuma;
+* pretējie leņķi ir vienādi un jebkuru divu secīgu leņķu summa ir 180°;
+* paralelograma diagonāļu krustpunkts sadala katru no diagonālēm divās daļās ar vienādu garumu;
+* paralelograma [[smaguma centrs]] atrodas tā diagonāļu krustpunktā (jebkura taisne, kas iet caur paralelograma diagonāļu krustpunktu, sadala paralelogramu divās daļās ar vienādu laukumu);
+* visu četru malu garumu kvadrātu summa ir vienāda ar diagonāļu garumu kvadrātu summu ([[paralelograma likums]]).
+* attālumu summa no jebkura punkta <math> P</math> iekšā paralelogramā līdz malām ir neatkarīga no <math> P</math> atrašanās vietas ([[Viviani teorēma#Teorēmas paplašinājums|Viviani teorēmas]] paplašinājums)
+
+== Laukuma aprēķināšana ==
+<div class="NavFrame" style="clear:both">
+<div class="NavHead">Formula paralelograma laukuma aprēķināšanai</div>
+<div class="NavContent" style="text-align:left">
+[[Attēls:Parallelogram area.svg|thumb|250px|Paralelograms un divi trijstūri veido taisnstūri.]]
+Lai aprēķinātu attēlā redzamā zilā paralelograma laukumu, no taisnstūra laukuma ir jāatņem divu dzelteno trijstūru laukums.
+
+Laukums taisnstūrim, kas satur paralelogramu un abus trijstūrus, ir
+::<math>S_{\text{taisnst}\bar{\text{u}}\text{ra}} = (B+A) \cdot H. \,</math>
+Viena dzeltenā trijstūra laukums ir
+::<math>{\color{BurntOrange} S_{\text{trijst}\bar{\text{u}}\text{ra}}} = \frac{1}{2} \cdot A \cdot H, \,</math>
+tāpēc zilā paralelograma laukums ir
+::<math>
+\begin{align}
+  {\color{NavyBlue} S_{\text{paralelograma}}}
+  &= S_{\text{taisnst}\bar{\text{u}}\text{ra}}
+   - 2 \cdot {\color{BurntOrange} S_{\text{trijst}\bar{\text{u}}\text{ra}}} \\
+  &= (B + A) \cdot H - A \cdot H \\
+  &= B \cdot H.
+\end{align}
+</math>
+</div>
+</div>
+
+Paralelograma laukumu ''S'' var aprēķināt pēc šādām formulām:
+
+* Ja ''B'' ir paralelograma pamata garums un ''H'' ir paralelograma augstums, tad
+::<math> S = B \cdot H. \,</math>
+
+* Ja divas secīgas paralelograma malas veido leņķi ''θ'' un to garumi ir ''B'' un ''C'', tad
+::<math> S = B \cdot C \cdot \sin \theta, \,</math> &nbsp; kur sin ''θ'' ir leņķa ''θ'' [[sinuss]].
+
+* Ja divu secīgu paralelograma malu garumi ir ''B'' un ''C'' (''B'' ≠ ''C'') un tā diagonāles veido leņķi ''γ'', tad
+::<math> S = \frac{|\operatorname{tg} \gamma|}{2} \cdot \left| B^2 - C^2 \right|, </math> &nbsp; kur |tg ''γ''| ir leņķa ''γ'' [[tangenss|tangensa]] [[absolūtā vērtība]].
+
+=== Izmantojot virsotņu koordinātas ===
+* Ja [[vektors|vektori]] <math style="vertical-align:-4pt">\vec{a} = (a_1, a_2)</math> un <math style="vertical-align:-4pt">\vec{b} = (b_1, b_2)</math> atbilst divām secīgām paralelograma malām un
+::<math> M = \begin{pmatrix} a_1 & a_2 \\ b_1 & b_2 \end{pmatrix} </math>
+:ir 2×2 [[matrica]], kas satur vektoru <math style="vertical-align:0">\vec{a}</math> un <math style="vertical-align:0">\vec{b}</math> komponentes, tad atbilstošā paralelograma laukumu var izteikt ar šo vektoru [[pseidoskalārais reizinājums|pseidoskalāro reizinājumu]] jeb matricas ''M'' [[determinants|determinantu]]:
+::<math> S = |\vec{a} \circ \vec{b}| = |\det(M)| = |a_1 b_2 - a_2 b_1|. \,</math>
+
+* Ja vektori <math style="vertical-align:0">\vec{a} \in \R^n</math> un <math style="vertical-align:0">\vec{b} \in \R^n</math> atrodas ''n'' dimensiju telpā un
+::<math>
+  M = \begin{pmatrix}
+        a_1 & a_2 & \dots & a_n \\
+        b_1 & b_2 & \dots & b_n
+      \end{pmatrix}
+</math>
+:ir 2×''n'' matrica, kas satur vektoru <math style="vertical-align:0">\vec{a}</math> un <math style="vertical-align:0">\vec{b}</math> komponentes, tad atbilstošā paralelograma laukums ir vienāds ar
+::<math> S = \sqrt{\det(M M^\mathrm{T})}, </math>
+:kur ''M''<sup>T</sup> ir matricas ''M'' [[transponētā matrica]].
+
+* Ja <math style="vertical-align:-4pt">\vec{a} = (a_1, a_2)</math>, <math style="vertical-align:-4pt">\vec{b} = (b_1, b_2)</math> un <math style="vertical-align:-4pt">\vec{c} = (c_1, c_2)</math> ir trīs paralelograma virsotņu koordinātas, tad tā laukumu var izteikt ar determinantu no 3×3 matricas, kuras pirmās divas kolonnas satur doto vektoru ''x'' un ''y'' koordinātas, bet visi pēdējās kolonnas elementi ir vienādi ar 1:
+::<math>
+  S = \left| \det
+      \begin{pmatrix}
+        a_1 & a_2 & 1 \\
+        b_1 & b_2 & 1 \\
+        c_1 & c_2 & 1
+      \end{pmatrix}
+      \right|.
+</math>
+
+== Īpašie gadījumi ==
+* [[Rombs]] — paralelograms, kam visas malas ir vienāda garuma;
+* [[Taisnstūris]] — paralelograms, kam visi leņķi ir vienādi;
+* [[Kvadrāts]] — četrstūris, kas vienlaikus ir gan rombs, gan taisnstūris (tā visi leņķi ir vienādi un tāpat arī visas malas).
+
+== Skatīt arī ==
+* [[Deltoīds]]
+* [[Rombs]]
+* [[Trapece]]
+* [[Taisnstūris]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{MathWorld|Parallelogram}}
+* [https://web.archive.org/web/20120121023621/http://www.liis.lv/matpam/geometrija/4cetrsturis/4_3paralelograms/g4_3teorija.htm Paralelograms], LIIS.
+* [http://www.dzm.lv/mat/IT/VM_M_8/saturs/8_6/M_08_06_VM_03.swf Paralelograms]{{Novecojusi saite}} (''Flash'' prezentācija).
+* S.Čerņajeva, I.Volodko, [https://eduspace.lv/macibas/pluginfile.php/682/mod_resource/content/2/cetrsturis.pdf Četrstūri (īss teorijas izklāsts)]{{Novecojusi saite}}, RTU.
+
+[[Kategorija:Ģeometriskas figūras]]
+[[Kategorija:Raksti, kas satur pierādījumus]]

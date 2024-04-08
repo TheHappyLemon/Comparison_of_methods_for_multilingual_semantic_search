@@ -1,0 +1,41 @@
+'''Semiotika''' ir zinātne par [[zīme|zīmēm]] un [[zīmju sistēma|zīmju sistēmām]], to vispārīgajām īpašībām un funkcionēšanas likumībām. Semiotika pēta arī [[nozīme]]s rašanos un [[informācija]]s nodošanu. Viens no nozīmīgākajiem semiotikas pamatjēdzieniem ir zīme; zīme semiotikā tiek definēta kā jebkas, kas kādam kaut kādā mērā aizstāj kaut ko citu.
+
+Semiotiķis [[Čārlzs Viljams Moriss]] savā 1938. gada darbā "Zīmju teorijas pamati" (''Foundations of the Theory of Signs'') semiotiku definēja kā [[sintakse]]s, [[semantika]]s un [[pragmatika]]s apvienojumu. Sintakse pētī attiecības starp zīmi un zīmi, semantika — starp zīmi un objektu (pētī nozīmi), pragmātika — starp subjektu un zīmi.
+
+== Mūsdienu semiotikas pamattradīciju aizsācēji ==
+
+=== Ferdinands de Sosīrs ===
+
+[[Ferdinands de Sosīrs|Ferdinandu de Sosīru]] uzskata par modernās lingvistikas tēvu. Viņš ieteica zīmi uztvert kā priekšstata un akustiskā atveida apvienojumu. Saskaņā ar Sosīru zīme ir pilnībā arbitrāra, t.i., starp zīmi un tās nozīmi nav saistības. Šis uzskats iezīmē būtisku atšķirību starp Sosīru un [[Platons|Platonu]] un [[sholastika|sholastiķiem]], kuri uzskatīja, ka starp zīmi un to, ko tā apzīmē, jābūt kādai saistībai. Sosīrs apgalvoja, ka nevienam vārdam nepiemīt nozīme jau automātiski, tātad vārds ir tikai akustiskais atveids, kaut kā reprezentācija, kas prātā jāsaista ar priekšstatu, lai veidotos zīme. Sosīrs uzskatīja, ka zīmju izpēte ir nopietna zinātne, jo, pētot zīmes, iespējams uzzināt, kā cilvēki fiziskos stimulus sintezē vārdos un citos abstraktos konceptos.
+
+Sosīra viedoklis, ka zīme ir arbitrāra, būtiski ietekmēja vēlākos filozofus, īpaši tādus postmodernisma teorētiķus kā [[Žaks Deridā|Žaku Deridā]], [[Rolāns Barts|Rolānu Bartu]] un [[Žans Bodrijārs|Žanu Bodrijāru]].
+
+=== Čārlzs Senderss Pīrss ===
+
+[[Čārlzs Senderss Pīrss]] aizsāka filozofisko doktrīnu, ko pazīst kā [[pragmātisms|pragmātismu]] (pats Pīrss to dēvēja par semeiotiku). Pīrss semiozi definēja kā "darbību vai ietekmi, kas ir vai ir saistīta ar sadarbību starp trim priekšmetiem, kā zīmi, tās objektu un tās [[interpretante|interpetanti]]". Viņš norādīja, ka šī attiecība nav reducējama uz saistību tikai starp diviem priekšmetiem. Pīrss interpretanti uzskatīja par "tīro prātu", kas saista vārdu ar objektu.
+
+Pīrss izstrādāja zīmju klasifikācijas sistēmu, sadalot zīmes trijās grupās:
+* ikoniskās zīmes (zīmes, kas balstās uz fizisku līdzību, piemēram, fotogrāfijas un kartes),
+* indeksikālās zīmes (zīmes, kas balstās uz asociācijām, piemēram, ceļazīmes vai [[piktogramma]]s),
+* konvencionālās zīmes (zīmes, kuru pamatā ir konvencionalitāte, savstarpēja vienošanās).
+
+== Skatīt arī ==
+
+* [[Semantika]]
+* [[Sintakse]]
+* [[Pragmatika]]
+* [[Strukturālisms]]
+* [[Poststrukturālisms]]
+* [[Biosemiotika]]
+* [[Loģika]]
+* [[Zīme]]
+* [[Nozīme]]
+* [[Informācijas teorija]]
+
+{{Literatūras teorija un kritika XX-XXI}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Semiotika| ]]
+[[Kategorija:Humanitārās zinātnes]]
+[[Kategorija:Cilvēka ģeogrāfija]]

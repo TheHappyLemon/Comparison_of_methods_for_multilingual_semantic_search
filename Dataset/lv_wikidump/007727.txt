@@ -1,0 +1,81 @@
+{{Latvijas novada infokaste
+| nosaukums         = Līvbērzes pagasts
+| karte             = Līvbērzes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Līvbērzes pagasts COA.png
+| ģerboņa_nosaukums = Līvbērzes pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jelgavas novads
+| centrs            = Līvbērze
+| platība           = 146,44
+| iedzīvotāji       = 2392<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 2392 / 146.44 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.livberze.lv
+}}
+[[Attēls:Līvbērzes iebrauktuve ar torni 1930.jpg|thumb|200px|Līvbērzes muižas iebrauktuve ar torni (1930).]]
+[[Attēls:Līvbērzes katoļu baznīca.JPG|thumb|200px|Līvbērzes Sv. Jāzepa Romas katoļu baznīca]]
+[[Attēls:Līvbērzes stacijas ēka (2).JPG|thumb|200px|[[Līvbērze (stacija)|Līvbērzes dzelzceļa stacija]] ]]
+
+'''Līvbērzes pagasts''' ir viena no [[Jelgavas novads|Jelgavas novada]] administratīvajām teritorijām tā ziemeļrietumos, [[Lielupe]]s kreisajā krastā. Robežojas ar sava novada [[Valgundes pagasts|Valgundes]], [[Glūdas pagasts|Glūdas]] un [[Kalnciema pagasts|Kalnciema]] pagastiem, [[Dobeles novads|Dobeles novada]] [[Bērzes pagasts|Bērzes]] un [[Jaunbērzes pagasts|Jaunbērzes]] pagastiem, kā arī [[Jelgava]]s pilsētu. 
+
+== Daba ==
+=== Hidrogrāfija ===
+Upes: [[Auce (upe)|Auce]], [[Bērze (upe)|Bērze]], [[Lielupe]], [[Pienava]], [[Rūdulis]], [[Smirda]], [[Svēte (upe)|Svēte]], [[Vecbērze]], [[Vecpienava]].
+
+== Vēsture ==
+Mūsdienu Līvbērzes pagasta teritorijā vēsturiski atradās ''Kirpet'' muiža, Līvbērzes muiža (''Lieven-Bersen''), Svētes muiža (''Schwedthof''), Upes muiža (''Bächhof'', [[Līvbērze]]).
+
+Līvbērzes pagasts izveidojies uz [[Līveni]]em piederējušās [[muiža]]s zemes. 1935. gadā pagasta platība bija 81 km² un tajā dzīvoja 1237 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Līvbērzes [[ciema padome|ciema padomi]], ko gan 1947. gadā likvidēja, bet 1949. gadā, līdz ar pagasta likvidēšanu, atjaunoja. '''Līvbērzes ciems''' ietilpis [[Jelgavas rajons|Jelgavas]] (1949-1962, pēc 1967. gada) un [[Dobeles rajons|Dobeles]] (1962-1967) rajonos. 1974. gadā Līvbērzes ciemam pievienoja daļu [[Glūdas ciems|Glūdas ciema]] [[padomju saimniecība]]s Jelgava teritorijas, bet daļu ciema teritorijas pievienoja [[Kalnciema ciems|Kalnciema]] un Glūdas ciemiem. 1979. gadā ciemam pievienoja daļu [[Valgundes ciems|Valgundes]] un Glūdas ciemu teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Līvbērzes pagastu kā administratīvo teritoriju iekļāva [[Jelgavas novads|Jelgavas novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2200
+|1959|1825
+|1967|1808
+|1979|1706
+|1989|2321
+|2000|2231
+|2011|2165
+|2021|2030
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Līvbērze]]''' (pagasta centrs), [[Vārpa (Līvbērzes pagasts)|Vārpa]], [[Avotiņi (Līvbērzes pagasts)|Avotiņi]], [[Būdiņas]], [[Cimāles]], [[Dobeļi]], [[Ģipteri]], [[Jaunciems (Līvbērzes pagasts)|Jaunciems]], [[Līvbērzes stacija]], [[Rubeņi (Līvbērzes pagasts)|Rubeņi]], [[Tušķi]], [[Upmaļi (Līvbērzes pagasts)|Upmaļi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jelgavas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Jelgavas rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Livberzes pagasts}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Jelgavas novada pagasti]]
+[[Kategorija:Līvbērzes pagasts| ]]

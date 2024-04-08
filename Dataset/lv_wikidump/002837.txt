@@ -1,0 +1,55 @@
+{{Ieroča infokaste
+|attēls             = [[Attēls:MG3 Tripod.JPEG|300px]]
+|paraksts           = 
+|nosaukums          = MG-3
+|valsts             = {{FRG}}
+|tips               = [[Ložmetējs]]
+|konstruktors       = 
+|konstruktori       = [[Rheinmetall AG]]
+|ražotājs           = [[Rheinmetall AG]]
+|ražošanā           = no [[1968. gads|1968. gada]]
+|bruņojumā          = no [[1969. gads|1969. gada]]
+|patronu_tips       = [[7,62x51 mm NATO]]
+|darbības_princips  = 
+|šaušanas_ātrums    = 1200 <small>+/-</small> 300 šāviņi/min 
+|sākuma_ātrums      = 820 m/s
+|attālums           = 1200 m
+|masa              = 11,5 kg
+|garums             = 1225 mm
+|stobrs             = 565 mm
+|pārlādes_sistēma   = patronlenta
+|patronas_aptverē   = 50 vai 100 patronas
+|tēmēklis           = mehāniskais
+|versijas           = MG-1, MG-1A1, MG-1A2, MG-1A3, MG-1A4, MG-1A5, MG-2, MG-3, MG-3E, MG-3A1
+|daudzums           = 
+}}
+'''MG-3''' - [[Vācija]]s kompānijas [[Rheinmetall]] universālais [[ložmetējs]], kas ir populārs visā pasaulē. Faktiski, MG-3 ir pārveidota [[MG-42]] versija, kas pielāgota šaut ar 7,62 mm [[NATO]] lodēm, nevis 7,92 mm Mauzera lodēm. 
+
+== Izstrādes vēsture ==
+[[MG-42]] bija pasaules pirmais īsti universālais ložmetējs, kas tika izgatavots un izmantots gan kā vieglais ložmetējs uz [[divkājis|divkājiem]], gan smagais ložmetējs uz [[trijkājis|trijkāja]], gan PGA ložmetējs, gan nostiprināts uz tapskrūves. MG-3 izstrāde sākās ar modeli MG-42/59 [[1959]]. gadā, un kopš [[1968]]. gada MG-3 tiek ražots masveidā. MG-3 tiek eksportēts uz [[Čīle|Čīli]], [[Dānija|Dāniju]], [[Itālija|Itāliju]], [[Pakistāna|Pakistānu]], [[Saūda Arābija|Saūda Arābiju]], [[Irāna|Irānu]], [[Norvēģija|Norvēģiju]], [[Austrija|Austriju]], [[Portugāle|Portugāli]] un [[Turcija|Turciju]]. MG-3 kloni tika ražoti bijušajā [[Dienvidslāvija|Dienvidslāvijā]] un citās valstīs.
+
+== Tehniskais raksturojums ==
+[[Attēls:Schnittbild.MG3.jpg|thumb|right|400px|MG-3]]
+MG-3 ir no patronlentes barojams un ar gaisu dzesināms ložmetējs. Tam ir mazkustīgs stobrs ar slēdzošo aizslēgu stobra caurules izcilnī ar 2 veltņiem (jāpiezīmē, ka MG-3 lietoja slēgšanu ar veltņiem, atšķirībā no [[HK G3]] sērijas ieročiem, kur veltņi bija paredzēti aizslēga galvas palēnināšanai aizmugurējā kustībā pārlādēšanas cikla sākumposmā). MG-3 ir ātri veicama stobra caurules nomaiņa, kuru nepieciešams mainīt ik pēc 150 šāviņiem ar tā praktisko uguns tempu, kas ir 200-250 lodes minūtē. Ierocis tiek šauts no atvērta aizslēga. Tam ir viens no augstākajiem uguns tempiem tā klasē, un tas ir ļoti uzticams (kā to varēja sagaidīt no pēckara izstrādājumiem).
+
+== Versijas ==
+* '''MG-1''': Rheinmetall [[MG-42]] uzlabota versija. Pielāgota patronai [[7,62x51 mm NATO]].
+* '''MG-1A1 (MG 42/58)''': MG-1 versija ar jaunajau patronai pielāgotiem tēmēkļiem. Tēmēkļi nomainīti arī eksistējošajiem MG-1.
+* '''MG-1A2 (MG 42/59)''': MG-1A1 versija ar garāku izmetēja ligzdu un smagāku aizslēgu.
+* '''MG-1A3''': MG-1A2 versija ar visu galveno detaļu uzlabojumiem.
+* '''MG-1A4''': MG-1 versija, paredzēta uzstādīšanai bruņutehnikā.
+* '''MG-1A5''': MG-1A3 versija, MG-1A3 pārveidoti uz MG-1A4 standartu.
+* '''MG-2''': Apzīmējums visiem kara laika MG-42, kuriem tika mainīta patrona uz 7,62x51 mm NATO.
+* '''MG-3''': MG-1A3 uzlabota versija ar pievienotu aizmugures PA (Pretgaisa Aizsardzības) tēmēkli.
+* '''MG-3E''': MG-3 versija, svars samazināts aptuveni par 1,3 kg, 1970. gadu beigās iekļauts NATO vieglo ieroču testēšanā.
+* '''MG-3A1''': MG-3 versija, paredzēta tikai lietošanai uz nostiprināta balsta.
+== Ārējās saites ==
+* [http://www.bimbel.de/artikel/artikel-14.html Bimbel.de—MG3 disassembled]
+* [http://www.bimbel.de/artikel/artikel-26.html Bimbel.de—MG3 on mount]
+* [https://www.youtube.com/watch?v=TAxkvctd5Ps MG 3 video]
+*{{YouTube|TfL_jlGyKCE|Video simulation of how a MG 3 works}}
+* [https://web.archive.org/web/20131029205451/http://www.pof.gov.pk/IW_MG3.aspx Machine Gun MG3 (MG1A3)]
+* [http://www.mkek.gov.tr/english/foUrunDetaylari.aspx?iKodUrun=90&iKodUrunKategorisi=122 7.62&nbsp;mm MG3 MACHINE GUN] {{Webarchive|url=https://web.archive.org/web/20090915211807/http://www.mkek.gov.tr/english/foUrunDetaylari.aspx?iKodUrun=90&iKodUrunKategorisi=122 |date={{dat|2009|09|15||bez}} }} 
+{{commons|MG3}}
+[[Kategorija:Ložmetēji]]
+[[Kategorija:Rheinmetall]]

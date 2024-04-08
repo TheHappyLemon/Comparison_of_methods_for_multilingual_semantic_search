@@ -1,0 +1,105 @@
+{{papildu atsauces+}}
+
+{{Infobox|title = Dators
+|image = <div style="white-space:nowrap;">
+[[Attēls:Acer Aspire 8920 Gemstone.jpg|x81px]][[Attēls:Columbia Supercomputer - NASA Advanced Supercomputing Facility.jpg|x81px]][[Attēls:Intertec Superbrain.jpg|x81px]]<br />[[Attēls:2010-01-26-technikkrempel-by-RalfR-05.jpg|x79px]][[Attēls:Thinking Machines Connection Machine CM-5 Frostburg 2.jpg|x79px]][[Attēls:G5 supplying Wikipedia via Gigabit at the Lange Nacht der Wissenschaften 2006 in Dresden.JPG|x79px]]<br />[[Attēls:DM IBM S360.jpg|x77px]][[Attēls:Acorn BBC Master Series Microcomputer.jpg|x77px]][[Attēls:Dell PowerEdge Servers.jpg|x77px]] 
+|caption = Dažādu laikmetu datori}}
+'''Dators''' ({{val|en|dat(a) (process)or}} — ‘datu apstrādātājs’)<ref name="svešvārdi">{{Grāmatas atsauce|title= Svešvārdu vārdnīca|edition= trešais|year= 2007|publisher= Jumava|isbn= 978-9984-38-332-3|page=133}}</ref> ir iekārta, kas uzkrāj un apstrādā [[dati|datus]] pēc iepriekš definētas procedūras. Datori ir konstruēti no komponentēm, kas veic vienkāršas, iepriekš noteiktas darbības. Šo komponenšu savstarpējā saziņa ļauj datoram veikt [[informācija]]s apstrādes procesus. Pareizi sakonfigurēts (ieprogrammēts) dators spēj risināt noteiktas problēmas, kā arī būt lielākas sistēmas sastāvdaļa. Pareizi sakonfigurētam datoram padodot ievaddatus, [[Datorprogramma|programma]] tos apstrādā, un dators spēj atrisināt problēmu vai prognozēt kādas sistēmas uzvedību u.tml.
+
+== Hronoloģija ==
+
+* 500. gads p.m.ē. Ķīnā parādījās mūsdienīgāks [[abaks (matemātika)|abaka]] variants ar skaitāmajiem kauliņiem uz auklas.
+* [[1492]]. gadā [[Leonardo da Vinči]] kādā savā dienasgrāmatā uzzīmēja skici savai skaitāmajai mašīnai ar desmit zobu [[zobrats|zobratiem]]. Lai arī ierīce pēc šiem rasējumiem tika izveidota tikai 20. gadsimtā, tā izrādījās darboties spējīga.
+* [[1623]]. gadā [[Vilhelms Šikards]], Tjūbigenas Universitātes profesors, izveidoja ierīci uz zobratu pamata, tā tiek saukta par skaitošo pulksteni. Vai ši ierīce tika izveidota profesora dzīves laikā, nav zināms, bet 1960. gadā tā tika izveidota un izrādījās darboties spējīga.
+* [[1630]]. gadā [[Ričards Delaimens]] izveidoja apaļu [[Logaritmiskais lineāls|logaritmisko lineālu]]. 
+* [[1642]]. gadā [[Blēzs Paskāls]] izveidoja pirmo reālo un zināmo [[mehānika|mehānisko]] skaitļotāju. Ierīce saskaitīja un atņēma. Paskāls izveidoja vairāk kā desmit šādas ierīces, bet saglabājušas ir tikai 8.
+* [[1673]]. gadā vācu filozofs un matemātiķis [[Gotfrīds Vilhelms Leibnics]] izveidoja mehānisku kalkulatoru, kurš varēja izpildīt visas četras darbības.
+* [[1723]]. gadā vācu matemātiķis un astronoms [[Kristians Ludvigs Herstens]] uz Leibica darbu pamata izveidoja aritmētisko mašīnu. Mašīna spēja ievērot darbību secību un tai bija paredzēta iespēja pārbaudīt ievadītos datus. 
+* [[1786]]. gadā vācu inženieris [[Johans Millers]] izvirzīja ideju par specializētu kalkulatoru logaritmu tabulēšanai ar dažādām metodēm.
+* [[1801]]. gadā [[Žozefs Marija Žakkards]] uzbūvēja ierīci, kura darbojās ar [[perfokarte|perfokartēm]].
+* [[1820]]. gadā francūzis [[Toms de Kalmārs]] sāka pirmo [[aritmometrs|aritmometru]] rūpniecisko ražošanu. 
+* [[1822]]. gadā angļu matemātiķis [[Čārlzs Bebidžs]] izplānoja, bet neuzbūvēja specializētu aritmometru matemātisko tabulu veidošanai. 
+* [[1837]]. gadā Čārlzs Bebidžs izplānoja, bet neuzbūvēja pirmo mehānisko datoru, kuru nosauca par analītisko mašīnu. 
+* [[1855]]. gadā brāļi [[Edvards Šutcs|Edvards]] un [[Georgs Šutcs|Georgs Šutci]] (''George & Edvard Scheutz'') uzbūvēja pirmo ierīci pēc Bebidža idejas.
+* No [[1884]]. līdz [[1887]]. gadam [[Hermanis Holerīts]] izstrādāja elektrisko skaitļojošo mašīnu, kuru izmantoja ASV no 1890. līdz 1900. gadam.
+* [[1927]]. gadā [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtā]] (MIT) tika izgatavots [[analogais dators]], kas varēja atrisināt vienkāršus [[vienādojums|vienādojumus]]. 
+* [[1938]]. gadā vācu inženieris [[Konrāds Cūze]] uzbūvēja pilnīgi mehānisku programējamu mašīnu Z1. Tas bija izmēģinājuma modelis, un nekad tā arī netika izmantots praktiskā darbā. Tās atjaunotā versija glabājas Berlīnes Tehniskajā muzejā. Tajā pašā gadā Cūze sāka veidot Z2. 
+* [[1941]]. gadā Konrāds Cūze izveidoja skaitļotāju Z3, kuram piemita visas mūsdienu datora īpašības.
+* [[1942]]. gadā Aiovas štata universitātē (''Iowa State University'') [[Džons Atanasofs]] (''John Atanasoff'') un viņa aspirants [[Klifords Berijs]] (''Clifford Berry'') izveidoja (precīzāk, izstrādāja un sāka montēt) pirmo ASV elektronisko skaitļojamo mašīnu (''Atanasoff-Berry Computer — ABC''). Kaut arī šī mašīna tā arī netika pabeigta, tomēr tā atstāja lielu iespaidu uz [[Džons Moklijs|Džonu Mokliju]], kurš pēc vairākiem gadiem izveidoja ''[[ENIAC]]''. 
+* [[1943]]. gada beigās tika izstrādāta speciālā skaitļojamā mašīna ''Colloss'', kura bija paredzēta [[Trešais reihs|nacistiskās Vācijas]] ziņojumu atšifrēšanai. 
+* [[1944]]. gadā palaista pirmā ASV skaitļojamā mašīna MARK.
+* [[1945]]. gadā [[Pensilvānijas Universitāte|Pensilvānijas Universitātē]] palaists pirmais elektroniskais vispārējas nozīmes pārprogrammējams dators ''[[ENIAC]]''.
+* [[1949]]. gadā M. Vilkss Lielbritānijā, Kembridžas Universitātē uzbūvēja elektronisko datoru [[EDSAC]] (''Electronic Delay Storage Automatic Computer''), kas bija pirmais dators ar atmiņā glabājamu programmu (šis princips ir ikviena mūsdienu datora uzbūves pamatā).
+* [[1951]]. gadā S. Ļebedevs Ukrainas PSR ZA Elektrotehnikas institūtā uzbūvēja pirmo elektronisko datoru [[PSRS MESM]]. 
+* [[1951]]. — ASV firmā ''Remington Rand'' uzbūvēts dators [[UNIVAC-1]]. Tas bija pirmais sērijveida komerciālais dators pasaulē. Pavisam tika izgatavoti 40 eksemplāri. 
+* [[1951]]. gadā Lielbritānijā, Mančestrā firma ''Ferranti'' izlaida pirmo angļu komerciālo datoru [[MARK]]-1. Bija pārdoti 8 eksemplāri.
+* [[1952]]. gadā PSRS ZA Precīzās mehānikas un skaitļošanas tehnikas institūtā S. Ļebedeva vadībā tika uzbūvēts sava laika ātrākais dators Eiropā [[BESM]]-1.
+* [[1959]]. gadā [[Eižens Āriņš|E. Āriņa]] vadībā tika dibināts [[Latvijas Valsts universitāte]]s Skaitļošanas centrs.
+* [[1960]]. gadā Latvijas ZA Fizikas institūta skaitļošanas tehnikas laboratorijā tika iedarbināta J. Daubes vadībā būvētā datora LM-3 pirmā kārta.
+* [[1960]]. gadā ASV firma [[DEC]] izlaida pirmo minidatoru - uz tranzistoriem būvēto [[Programmed Data Processor|PDP]]-1.
+* [[1971]]. — ASC firmā [[Intel]] izgatavots pirmais mikroprocesors [[Intel 4004]]. 
+* [[1975]]. — ASV sāka izlaist pirmo [[mikrodators|mikrodatoru]] Altair 8800. Tā kā datoram nebija nekādas programmatūras, [[Bils Geitss]] un P. Allens uzrakstīja [[BASIC]] interpretatoru, tādējādi radot pamatus firmai ''[[Microsoft]]''. 
+* [[1976]]. — [[Stīvs Džobss]] un [[Stīvs Vozņaks]] ASV izgatavoja pirmo personālo datoru ''[[Apple Inc.|Apple]]-1.''
+* [[1981]]. gadā ASV firmā [[IBM]] izlaists pirmais šis firmas personālais dators IBM PC.
+* [[1993]]. gadā Latvijā sāka izdot pirmo žurnālu par datoriem "Datortehnika".
+
+== Datoru klasifikācija ==
+=== Pēc lietojuma ===
+* [[Klēpjdators]]
+* [[Lieldators]]
+* [[Mikrodators]]
+* [[Minidators]]
+* [[Personālais dators]] (PC jeb galddators)
+* [[Planšetdators]]
+* [[Plaukstdators]]
+* [[Multimediju dators]]
+* [[Valkājamais dators]]
+* [[Darbstacija]]
+* [[Serveris]]
+* [[Terminālis]]
+
+=== Pēc izmantotās tehnoloģijas ===
+Datoru priekšteči bija pilnībā mehāniskas ierīces, kas bija paredzētas, piemēram, dažu aritmētisku operāciju veikšanai. 1930. gados [[telekomunikāciju industrija|telekomunikāciju industrijā]] parādījās [[relejs|releji]], bet 1940. gados jau tika uzbūvēti pirmie tīri elektroniskie datori, izmantojot [[radiolampa]]s. 1950. un 1960. gados tās tika aizstātas ar [[tranzistors|tranzistoriem]], bet 1960. gadu beigās un 1970. gadu sākumā parādījās pirmās [[mikroshēma]]s.
+
+Šobrīd zinātnieki mēģina radīt [[optiskais dators|optiskos datorus]], kas elektrības vietā izmantotu gaismas signālus. Tiek pētītas iespējas izmantot datorikā bioloģiskās [[DNS]]. Radikāls solis datoru attīstībā būtu [[kvantu dators|kvantu datoru]] izveide.
+
+== Kā datori strādā ==
+Kaut arī datoros lietotās tehnoloģijas ir radikāli mainījušās kopš pirmo datoru parādīšanās 1940. gados, praktiski visi mūsdienās lietotie datori ir balstīti uz [[fon Neimana arhitektūra|fon Neimana arhitektūru]].
+
+=== Operētājsistēma ===
+Lai dators varētu veikt kādu darbību, tā atmiņā visu laiku ir jābūt ielādētai kādai programmai. Parasti (tipiskos datoros) šāda programma ir [[operētājsistēma]]. Operētājsistēma nosaka, kuras programmas darbināt, kad un kādus resursus (piemēram, atmiņu) tām piešķirt. Operētājsistēma arī nodrošina aparatūras abstrakcijas slāni, kas nodrošina iespēju vienā datorā veidotas programmas darbināt uz citiem datoriem.
+
+====== Operētājsistēmu piemēri: ======
+
+* [[Microsoft Windows]] (visbiežāk sastopamākā)
+* [[macOS]]
+* [[Linux]]
+* [[ChromeOS]]
+
+== Mūsdienu datoru komponentes ==
+
+* [[Pamatplate]]
+* [[Brīvpiekļuves atmiņa|Operatīvā atmiņa]]
+* Iekšējais disks ([[cietais disks]] vai [[pusvadītāju disks]] (SSD))
+* [[Procesors|Centrālais procesors (CPU)]]
+* Grafikas procesors (GPU)
+* [[Barošanas bloks (dators)|Barošanas bloks]] vai [[baterija]]
+* [[Dzesētājs|Dzesētāji]]
+* [[Diskdzinis|Diskdziņi]] (lielākajā daļā datoru)
+*Paplašinājuma kartes (ne visos datoros)
+
+== Atsauces ==
+{{Atsauces}}
+
+== Skatīt arī ==
+* [[Datoru attīstības hronoloģija]] (grafiskā veidā)
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20080430133304/http://www.lu.lv/muzejs/skaitlosanas.html LU Skaitļošanas tehnikas un informātikas muzejs]
+
+{{IT-aizmetnis}}
+{{Datora pamatkomponentes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datori| ]]

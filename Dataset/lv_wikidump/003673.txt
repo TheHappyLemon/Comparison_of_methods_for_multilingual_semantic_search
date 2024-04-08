@@ -1,0 +1,85 @@
+{{Latvijas rajona infokaste
+| rajons = Saldus rajons
+| karte = [[Attēls:Latvia-Saldus.png|right|220px]]
+| centrs = [[Saldus]]
+| iedz = 38 176
+| plat = 2 182 km²
+| pils = [[Brocēni]]<br />[[Saldus]]
+| robež = [[Lietuva|Lietuvu]]<br />[[dobeles rajons|Dobeles rajonu]]<br />[[tukuma rajons|Tukuma rajonu]]<br />[[kuldīgas rajons|Kuldīgas rajonu]]<br />[[liepājas rajons|Liepājas rajonu]]
+| mlapa = [http://www.saldus.lv saldus.lv] 
+}}
+
+'''Saldus rajons''' bija administratīvā iedalījuma vienība [[Latvijas PSR|LPSR]] (1949-1990) un [[Latvijas Republika]]s (1990-2009) sastāvā. Tas atradās [[Kurzeme]]s dienvidos un robežojās ar [[dobeles rajons|Dobeles rajonu]], [[tukuma rajons|Tukuma rajonu]], [[kuldīgas rajons|Kuldīgas rajonu]], [[liepājas rajons|Liepājas rajonu]] un [[lietuva|Lietuvu]].
+
+== Izveide un reorganizācija ==
+1949. gada 31. decembra administratīvi teritoriālās reformas rezultātā '''[[Kuldīgas apriņķis]]''' tika sadalīts Kuldīgas, Saldus un Skrundas [[Latvijas rajoni|rajonos]].<ref>Latvijas PSR Augstākās Padomes Prezidija dekrēts "Par lauku rajonu nodibināšanu Latvijas PSR sastāvā"</ref> 1952. - 1953. gadā Saldus rajons ietilpa [[Liepājas apgabals|Liepājas apgabalā]]. 1959. gadā Saldus rajonam tika pievienota likvidētā [[Auces rajons|Auces rajona]] rietumu daļa un [[Skrundas rajons|Skrundas rajona]] dienvidu daļa. Pēc Latvijas Republikas atjaunošanas 1990. gadā Saldus rajona [[Ciems (administratīva vienība)|ciemi]] tika pārdēvēti par pagastiem.
+
+== Teritoriālais iedalījums (1983) <ref>Latvijas padomju enciklopēdijas 5<sub>2</sub> sējums. Rīga: Galvenā enciklopēdiju redakcija, 1984. 32-33 lpp.</ref> ==
+=== Pilsēta ===
+* [[Saldus]]
+
+=== Pilsētciemats ===
+* [[Brocēni]] [[Cieceres pagasts|ar lauku teritoriju]]
+
+=== Ciemi ===
+[[Blīdenes pagasts|Blīdenes]] - [[Ezeres pagasts|Ezeres]] - [[Gaiķu pagasts|Gaiķu]] - [[Jaunauces pagasts|Jaunauces]] - [[Jaunlutriņu pagasts|Jaunlutriņu]] - [[Kursīšu pagasts|Kursīšu]] - [[Lutriņu pagasts|Lutriņu]] - [[Nīgrandes pagasts|Nīgrandes]] - [[Novadnieku pagasts|Novadnieku]] - [[Pampāļu pagasts|Pampāļu]] - [[Remtes pagasts|Remtes]] - [[Rubas pagasts|Rubas]] - [[Saldus pagasts|Saldus]] - [[Vadakstes pagasts|Vadakstes]] - [[Šķēdes pagasts|Viestura]] - [[Zaņas pagasts|Zaņas]] - [[Zirņu pagasts|Zirņu]].
+
+== Teritoriālais iedalījums (2008) ==
+=== Pilsētas ===
+* [[Saldus]]
+=== Novadi ===
+* [[Brocēnu novads]]
+** [[Brocēnu pilsēta]]
+** [[Cieceres pagasts|Brocēnu lauku teritorija]]
+** [[Blīdenes pagasts]]
+** [[Remtes pagasts]]
+
+=== Pagasti ===
+[[Ezeres pagasts]], 
+[[Gaiķu pagasts]],
+[[Jaunauces pagasts]], 
+[[Jaunlutriņu pagasts]], 
+[[Kursīšu pagasts]], 
+[[Lutriņu pagasts]], 
+[[Nīgrandes pagasts]], 
+[[Novadnieku pagasts]], 
+[[Pampāļu pagasts]], 
+[[Rubas pagasts]], 
+[[Saldus pagasts]], 
+[[Šķēdes pagasts]], 
+[[Vadakstes pagasts]], 
+[[Zaņas pagasts]], 
+[[Zirņu pagasts]], 
+[[Zvārdes pagasts]].
+==Iedzīvotāji==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|36559
+|1959|35751
+|1970|36619
+|1979|36245
+|1989|36468
+|2000|38916
+|2011|31837
+|2021|27110
+}}
+
+== Likvidācija ==
+Saskaņā ar 1998. gadā pieņemto "Administratīvi teritoriālās reformas likumu" <ref>[http://www.likumi.lv/doc.php?id=51528 Administratīvi teritoriālās reformas likums]</ref> un 2008. gada "Administratīvo teritoriju un apdzīvoto vietu likumu" <ref>{{Tīmekļa atsauce |url=http://www.likumi.lv/doc.php?id=185993&from=off |title=Administratīvo teritoriju un apdzīvoto vietu likums |access-date={{dat|2010|10|31||bez}} |archiveurl=https://web.archive.org/web/20101012071945/http://www.likumi.lv/doc.php?id=185993&from=off |archivedate={{dat|2010|10|12||bez}} }}</ref> 2009. gada 1. jūlijā Saldus rajons tika likvidēts un tā teritorijā izveidoti
+
+* '''[[Brocēnu novads]]''' un
+* '''[[Saldus novads (2009—2021)|Saldus novads]]'''.
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas rajons-aizmetnis}}
+
+{{Latvijas rajoni}}
+
+[[Kategorija:Latvijas rajoni]]
+[[Kategorija:Saldus rajons| ]]

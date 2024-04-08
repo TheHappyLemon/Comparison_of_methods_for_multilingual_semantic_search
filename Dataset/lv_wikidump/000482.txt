@@ -1,0 +1,48 @@
+[[Attēls:Crookes tube-in use-lateral view-standing cross prPNr°11.jpg|thumbnail|235px|Eksperimentos ar [[Kruksa lampa|Kruksa lampu]] pirmo reizi tika nodemonstrēta elektronu daļiņu daba]]
+'''Elektrons''' ({{val-el|ἤλεκτρον}}, ''ēlektron'' — ‘[[dzintars]]’) ir vieglākā no zināmajām stabilajām [[elementārdaļiņas|elementārdaļiņām]] (neskaitot [[neitrīno]], kam arī ir ļoti niecīga [[miera masa]]).<ref name="physics.aps"/> Elektrona miera masa ir 9,109{{E|−31}} [[kilograms|kg]]. Tam ir negatīvs [[elektriskais lādiņš]] (−1,602{{E|−19}} [[kulons|C]]), un tā simbols ir е<sup>−</sup> vai e. Elektroni ir vieni no [[elektriskā strāva|elektriskās strāvas]] lādiņa nesējiem. Tie pieder pie [[leptoni]]em un nosaka atoma [[mijiedarbība|mijiedarbību]] ar citiem atomiem. Elektronus 1897. gadā atklāja [[Džozefs Tomsons]], pētot [[katodstari|katodstarus]].<ref name="Rēvalds"/>
+
+Elektroni ietilpst visos [[atoms|atomos]] un [[molekula|molekulās]]. Var nosacīti uzskatīt, ka [[elektronu mākonis]] aptver [[atoma kodols|atoma kodolu]], elektroniem riņķojot ap kodolu ar lielu ātrumu (neierosinātā [[ūdeņradis|ūdeņraža]] atomā šis ātrums vairāk nekā 100 reizes mazāks par [[gaismas ātrums|gaismas ātrumu]])<ref name="stedjee1"/> pa neregulāru trajektoriju, ko sauc par [[orbitāle|orbitāli]] (orbitāles veido tādu kā atoma kodola apvalku). Atomam uzņemot enerģiju, elektroni var pāriet uz augstāku [[enerģijas līmenis|enerģijas līmeni]], bet, enerģiju izstarojot, — uz zemāku. Tā kā elektroni ap [[atoma kodols|atoma kodolu]] kustas līdzīgi izplūdušiem mākoņiem ar [[negatīvs lādiņš|negatīvu lādiņu]], ir neiespējami paredzēt precīzu to atrašanās vietu kādā laika momentā. Ja vielas atomi vai atomu grupas zaudē vai pievieno vienu vai vairākus elektronus, veidojas [[jons|joni]]. Elektronu izvietojumu atomā pa [[elektronu čaula|elektronu čaulām]] pēc orbitālā galvenā kvantu skaitļa un orbitālā kvantu skaitļa vērtībām sauc par [[elektronu konfigurācija|elektronu konfigurāciju]].
+
+Elektrona [[antidaļiņa]] ir [[pozitrons]], kas tiek saukts arī par antielektronu. Tā simbols ir e<sup>+</sup>. Pozitrons tika atklāts 1932. gadā.
+
+Ar elektronu teoriju tiek skaidrotas [[Elektrība|elektriskās]], [[Magnētisms|magnētiskās]] un [[Optika|optiskās]] parādības.
+
+== Raksturojums ==
+=== Klasifikācija ===
+[[Attēls:Standard Model of Elementary Particles.svg|thumbnail|Elementārdaļiņu [[standartmodelis]] (angļu valodā). Elektrons atrodas apakšā, kreisajā stūrī]]
+Elementārdaļiņu fizikas [[standartmodelis|standartmodelī]] elektroni tiek klasificēti kā [[leptoni]], kas ir daļa no fundamentālajām [[elementārdaļiņa|elementārdaļiņām]]. Elektroniem ir vismazākā masa no visiem leptoniem un pirmās "[[ģimene (elementārdaļiņu fizika)|ģimenes]]" fundamentālajām daļiņām.<ref name="physics reports"/> Otrajā un trešajā "ģimenē" atrodas lādēti leptoni — [[mions|mioni]] un [[tau daļiņa]]s —, kuriem ir tāds pats elektriskais lādiņš, [[spins]] un [[mijiedarbība]] kā elektroniem, bet tiem ir lielāka [[masa]]. Leptoni, tātad arī elektroni, kopā ar [[kvarki]]em veido [[fermioni|fermionu]] elementārdaļiņu grupu. Visiem fermioniem [[spins]] ir 1/2.
+
+=== Fundamentālās īpašības ===
+Elektrona [[miera masa]] ir 9,10938291{{E|−31}} [[kilograms|kg]] jeb 5,48579909{{E|−4}} [[atommasas vienība|u]]. Balstoties uz [[Einšteina formula|Einšteina formulu]] E=mc<sup>2</sup>, elektrona masa atbilst 0,511 [[elektronvolts|MeV]] lielai [[enerģija]]i. Elektrona masa ir tikai 1/1836 daļa no [[protons|protona]] (pozitīvā lādiņa) miera masas. Tieši tādēļ elektronu masa netiek iekļauta, aprēķinot atoma [[masas skaitlis|masas skaitli]].
+
+Elektronam ir negatīvs [[elektriskais lādiņš]], kas ir −1,602176565{{E|−19}} [[kulons|C]].
+
+== Elektronu emisija ==
+Elektronu emisija ir elektronu kustība no cietvielas vidē vai vakuumā. Lai elektrons varētu atstāt vielu, tam jāpievada [[enerģija]], kura tiek patērēta [[Izejdarbs|izejdarba]] veikšanai. Atkarībā no veida, kādā elektronam tiek pievadīta enerģija, izšķir šādus elektronu emisijas veidus:
+
+* termoelektronu emisija — izejdarba veikšanai vajadzīgo enerģiju elektroni saņem [[Siltums|siltuma]] veidā;
+* autoelektronu emisija — viela elektronus emitē paātrinošā [[Elektriskais lauks|elektriskā lauka]] iedarbībā;
+* sekundāro elektronu emisija — vielas virsma tiek bombardēta ar elektroniem vai [[Jons|joniem]] un notiek daļiņu sadursmes;
+* fotoelektronu emisija — viela tiek apstarota ar [[Elektromagnētiskais starojums|elektromagnētiskajiem viļņiem]]. <ref>{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=222|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref>
+
+== Atsauces ==
+{{commonscat|Electrons|elektrons}}
+{{atsauces|refs=
+<ref name="physics.aps">{{tīmekļa atsauce | url= http://physics.aps.org/pdf/10.1103/PhysRevLett.105.031301.pdf | title= Upper Bound of 0.28 eV on Neutrino Masses from the Largest Photometric Redshift Survey | language= angliski }}{{Novecojusi saite}}</ref>
+<ref name="Rēvalds">{{grāmatas atsauce | author= Valdis Rēvalds | title= Fizikas un tehnikas vēstures lappuses | location = Rīga | publisher= LU akadēmiskais apgāds | year= 2006 | page= 349 | isbn= 9984-802-20-5}}</ref>
+<ref name="stedjee1">{{tīmekļa atsauce | url= http://stedjee1.infinology.net/Velocity_Orbit_Electron/Velocity%20of%20Orbiting%20Electron.htm | title= Velocity of Orbiting Electron | language= angliski | access-date= {{dat|2011|06|14||bez}} | archiveurl= https://web.archive.org/web/20120213034515/http://stedjee1.infinology.net/Velocity_Orbit_Electron/Velocity%20of%20Orbiting%20Electron.htm | archivedate= {{dat|2012|02|13||bez}} }}</ref>
+<ref name="physics reports">{{laikraksta atsauce | last= Frampton | first= P.H. | year= 2000 | title= Quarks and Leptons Beyond the Third Generation | journal= Physics Reports | volume= 330 | pages= 263–348 | doi= 10.1016/S0370-1573(99)00095-2 | arxiv= hep-ph/9903387 | bibcode= 2000PhR...330..263F | last2= Hung | first2= P.Q. | last3= Sher | first3= Marc | issue= 5–6 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Elementārdaļiņas-aizmetnis}}
+
+{{Elementārdaļiņas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elementārdaļiņas]]
+[[Kategorija:Elektrība]]

@@ -1,0 +1,30 @@
+{{Mazais burts|title=pH}}
+{{Citas nozīmes|ķīmiju|PH (nozīmju atdalīšana)|PH}}
+[[Attēls:PH scale 3.jpg|thumb|Ar [[pH indikators|pH indikatoru]] iekrāsoti šķīdumi ar dažādu ūdeņraža jonu koncentrāciju (no pH = 1 līdz pH = 10)]]
+'''pH''' ir skaitlis, kas raksturo [[ūdeņradis|ūdeņraža]] [[jons|jonu]] [[koncentrācija|koncentrāciju]] [[šķīdums|šķīdumā]]. pH ir ūdeņraža jonu aktivitātes negatīvais decimāllogaritms, kas raksturo skābumu un bāziskumu.
+
+::: '''pH=−log<sub>10</sub>a<sub>H<sup>+</sup></sub>'''
+
+Mazām koncentrācijām [[aktivitāte]] maz atšķiras no koncentrācijas, tāpēc aktivitātes vietā tur mēdz lietot koncentrāciju. Iespējamās pH vērtības nosaka iespējamās ūdeņraža jonu koncentrācijas. Ūdens šķīdumos pH var mainīties no 0 līdz +14. Ļoti stipru [[Skābes|skābju]] un [[Sārmi|sārmu]] šķīdumiem (ar aktivitāti lielāku par 1), pH var būt arī negatīvs vai lielāks par 14. Neūdens vidē iespējamas arī lielākas pH vērtības, jo citiem polārajiem [[Šķīdinātājs|šķīdinātājiem]] var būt mazākas [[Disociācija (ķīmija)|disociācijas]] konstantes.
+
+Pilnīgi tīram ūdenim pH ir 7 un tas ir neitrāls. pH zem 7 nozīmē, ka vide ir skāba, virs 7 — sārmaina.
+
+== pH noteikšana ==
+Atšķaidītiem stipru [[skābe|skābju]] un [[sārms|bāzu]] šķīdumiem pH var aptuveni aprēķināt, ja zināma koncentrācija.
+
+::: '''pH=−lg([H<sup>+</sup>])''',
+
+kur [H<sup>+</sup>] ir ūdeņraža jonu koncentrācija. Stiprām skābēm (vienvērtīgajām) tā ir proporcionāla vielas koncentrācijai (jo stiprās skābes gandrīz pilnībā disociē jonos). Stiprām bāzēm, kas disociē, veidojot [[hidroksiljons|hidroksiljonus]], attiecīgo H<sup>+</sup> jonu koncentrāciju var noteikt:
+
+::: '''[H]=10^(1/(7+lg([OH<sup>−</sup>])))''', jeb vienkāršāk
+::: '''pH=14−lg([OH<sup>−</sup>])'''
+
+== pH mērīšana ==
+Šķīdumiem ar nezināmu sastāvu pH var aptuveni noteikt ar pH indikatoriem (organiskas krāsvielas, kas maina krāsu atkarībā no vides pH), vai arī precīzi izmērīt ar ūdeņraža jonu selektīvu [[elektrods|elektrodu]] (elektrods, kura [[Elektromagnētiskā lauka potenciāls|potenciāls]] ir atkarīgs no ūdeņraža jonu koncentrācijas). Visbiežāk lieto tā saucamo [[stikla elektrods|stikla elektrodu]]. Potenciālu mēra pret [[standartelektrods|standartelektrodu]] (elektrods ar nemainīgu potenciālu). Kā standartelektrodu parasti izmanto [[Sudrabs|sudraba]]—[[Sudraba hlorīds|sudraba hlorīda]] elektrodu, retāk — [[kalomela elektrods|kalomela elektrodu]]. pH iespējams izmērīt arī, lietojot [[jonjutīgais lauktranzistors|jonjutīgā lauktranzistora]] sensoru — ar to pH iespējams noteikt arī želejveida vidē.
+
+Iekārtu, kas paredzēta pH mērīšanai, sauc par [[PH-metrs|pH-metru]]. pH-metrs ir [[voltmetrs]] ar sevišķi lielu ieejas [[Elektriskā pretestība|pretestību]], kas savienots ar elektrodu sistēmu. Mūsdienās sistēmu no atsevišķiem elektrodiem izmanto reti, vairāk lieto tā saucamos kombinētos elektrodus — elektrodus, kur vienā korpusā iebūvēts gan stikla elektrods, gan standartelektrods, gan arī [[temperatūra]]s sensors (pH ir lielums, kas stipri atkarīgs no temperatūras, tādēļ precīzai mērīšanai nepieciešama termokompensācija). Lai panāktu iespējami lielu precizitāti, pH-metrs [[kalibrēšana|jākalibrē]] ar speciāliem [[buferšķīdums|buferšķīdumiem]] — šķīdumiem ar zināmu, stabilu pH.
+
+== Skatīt arī ==
+* [[pH indikatori]] — organiskas krāsvielas pH noteikšanai
+
+[[Kategorija:Ķīmija]]

@@ -1,0 +1,18 @@
+{{atsauces+}}
+'''Pieteikšanās''' ir darbība, ar ko palīdzību lietotājam tiek atļauta piekļuve kādai informācijas sistēmai. Tās gaitā lietotājam parasti ir jāievada savs [[lietotājvārds]] un [[parole]], reizēm tas notiek automātiski, lai atvieglotu darbu. Jaunāko laiku tehnika ļauj pazīt piesakošos lietotāju pēc [[pirksta nospiedums|pirksta nospieduma]], [[balss]] u.tml.
+
+Iežurnāle atšķiras no vienkāršas datora ieslēgšanas vai "ieiešanas" [[tīmekļa vietne|tīmekļa vietnē]] jeb brīvas lapu pārlūkošanas. Lai varētu iežurnalēties, ir jābūt iepriekš reģistrējušamies (jāpiesakās pie administratora, jākļūst par vietnes vai sistēmas lietotāju, jāuzzina savi pienākumi un tiesības).
+
+Pēc darba vai apmeklējuma beigām lietotājam ir pienākums izrakstīties, lai tādējādi novērstu [[informācijas sistēmu drošība|sistēmas drošības]] pārkāpumus. Lietotāju veiktās darbības seansa laikā (t.i., no pieteikšanās līdz izrakstīšanās, bet tīmekļa vietņu gadījumā — arī nepieteikušamies lietotāju darbības) bieži vien tiek [[Grāmatojums|iegrāmatotas]] jeb reģistrētas īpašā žurnāla datnē, ko vēlāk var analizēt administrators vai [[vietņvedis]].
+
+Angļu lietvārds "''login''" (sinonīms — "''logon''", [https://web.archive.org/web/20050908162742/http://encarta.msn.com/dictionary_1861739480/logon.html]) var nozīmēt divas atšķirīgas lietas: 
+* pieteikšanos (darbību);
+* lietotājvārdu, ko izmanto, lai pieteikties.
+Darbības vārdi "''to log on''" un "''to log in''" ir sinonīmi, to pašu var teikt par "''to log out''" un "''to log off''".
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datoru drošība]]
+[[Kategorija:Internets]]
+[[Kategorija:Identifikācija]]
+[[Kategorija:Lietotāja saskarnes]]

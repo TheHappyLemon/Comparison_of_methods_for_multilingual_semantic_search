@@ -1,0 +1,48 @@
+{{Apdzīvotas vietas infokaste
+| name = Simna
+| image_skyline =Simno bazn.jpg
+| imagesize = 300px
+| image_caption = Simnas baznīca
+| image_flag = 
+| image_shield = Simnas COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Alītas rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1626
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 1295
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 23 
+| lats = 00 
+| latNS = N 
+| longd = 23 
+| longm = 39 
+| longs = 05
+| longEW = E
+| elevation_m = 97
+| website = }}
+
+'''Simna''' ({{val-lt|Simnas}}) ir pilsēta [[Alītas rajons|Alītas rajonā]], 23 km uz rietumiem no [[Alīta]]s. Pilsēta atrodas pie [[Simnas ezers|Simnas]] un [[Giluitis|Giluiša]] ezeriem. Pilsētā atrodas Sv. Marijas Debesbraukšanas baznīca.
+
+Simnā ir vairāki uzņēmumi. Starp tiem - "Alytaus melioracija", uzņēmuma "Dainava" filiāle un citi. Pilsētiņā ir apkopes slimnīca, aptieka, poliklīnika, kultūras nams, tirgotavas, pasts, [[Swedbank]] filiāle. Simnas iedzīvotāji nodarbojas ar lauksaimniecību, servisu, zivjkopību, meliorāciju, celtniecību. Pilsētiņā darbojas speciālā internātskola.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+[[Kategorija:Lietuvas pilsētas]]
+[[Kategorija:Alītas apriņķis]]

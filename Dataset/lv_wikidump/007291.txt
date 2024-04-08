@@ -1,0 +1,93 @@
+{{Latvijas novada infokaste
+| nosaukums         = Bebru pagasts
+| karte             = Bebru pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Aizkraukles novads
+| centrs            = Vecbebri
+| platība           = 120,2
+| iedzīvotāji       = 1307<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1307 / 120.2 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Bebru pagasts''' ir viena no [[Aizkraukles novads|Aizkraukles novada]] administratīvajām teritorijām tā vidienē. Robežojas ar sava novada [[Iršu pagasts|Iršu]], [[Kokneses pagasts|Kokneses]], [[Vietalvas pagasts|Vietalvas]] un [[Klintaines pagasts|Klintaines]] pagastiem un [[Ogres novads|Ogres novada]] [[Krapes pagasts|Krapes]], [[Madlienas pagasts|Madlienas]] un [[Meņģeles pagasts|Meņģeles]] pagastiem. 
+
+== Daba ==
+=== Reljefa formas===
+[[Brencēnu kalns]], [[Cūkkalns]], [[Mitrukalns]], [[Plepu kalns]]
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+[[Bebrupe (Lobes ezera pieteka)|Bebrupe]], [[Elkšņupe]], [[Gaidupe (Paskules pieteka)|Gaidupe]], [[Galdupe]], [[Lobe (upe)|Lobe]], [[Lokmene]], [[Paskule]], [[Pērse]], [[Recija]]. 
+
+==== Ūdenstilpes ====
+[[Recijas dzirnavezers]], [[Rožkalnu dīķis]], robežojas ar [[Lobes ezers|Lobes ezeru]].
+
+==== Purvi====
+[[Dzērvēnu purvs]], [[Garais purvs]], [[Lielais purvs]] ([[Šķibes purvs]]), [[Rozu purvs]] 
+
+=== Dabas aizsardzība ===
+Pagasta teritorijā atrodas [[dabas liegums]] [[Šķibu purvs]].
+
+== Vēsture ==
+Dibināts pēc [[1866. gada pagastu pašvaldību likums|1866. gada pagastu pašvaldību likuma]] pieņemšanas.
+
+1935. gadā Bebru pagasta platība bija 116 km². 1945. gadā pagastā izveidoja Bebru un [[Jaunbebru ciems|Jaunbebru]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1954. gadā '''Bebru ciemam''' pievienoja [[Vērenes ciems|Vērenes ciemu]]. 1960. gadā daļu Bebru ciema iekļāva [[Plāteres ciems|Plāteres ciemam]]. 1962. gadā Bebru ciemam pievienoja daļu [[Ratnicēnu ciems|Ratnicēnu ciema]]. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Kokneses novads|Kokneses novadā]]. 2021. gadā iekļauts [[Aizkraukles novads|Aizkraukles novadā]]
+
+===Kultūras pieminekļi===
+*[[Vecbebru muiža|Vecbebru muižas apbūve ar parku]]
+*kā atsevišķi pieminekļi - Vecbebru muižas kungu māja, klēts, stallis, pagrabs
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1675
+|1959|1700
+|1967|1539
+|1979|1492
+|1989|1680
+|2000|1439
+|2011|1087
+|2021|949
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas: '''[[Vecbebri]]''' (pagasta centrs), [[Blankas (ciems)|Blankas]], [[Brencēni]], [[Gaidupes]], [[Jaunbebri]], [[Ozoli (Bebru pagasts)|Ozoli]], [[Tupiešēni]], [[Vēži (ciems)|Vēži]], [[Zutēni (Bebru pagasts)|Zutēni]].
+
+== Saimniecība ==
+=== Transports ===
+Vecbebros pārvadājumus veic AS "CATA". Ir iespējams nokļūt novada centrā [[Aizkraukle|Aizkrauklē]], [[Koknese|Koknesē]], [[Ērgļi (Ērgļu pagasts)|Ērgļos]], Tupiešēnos, Ozolos, Iršos u.c. novada vietās.
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+Bebru pagastā atrodas Kokneses novada Bebru pagasta pārvalde, Vecbebru bibliotēka, Vecbebru pasta nodaļa, Vecbebru pirmsskolas izglītības iestāde "Bitīte" un Vecberu Profesionālā vidusskola.
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Aizkraukles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Kokneses novads}}
+{{Aizkraukles rajons}}
+{{Ogres apriņķis}}
+{{Rīgas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Aizkraukles novada pagasti]]
+[[Kategorija:Bebru pagasts| ]]

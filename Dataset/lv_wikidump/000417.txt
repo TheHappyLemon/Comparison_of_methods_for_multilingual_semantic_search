@@ -1,0 +1,220 @@
+{{Citas nozīmes|impēriju|Roma (nozīmju atdalīšana)|Roma}}
+
+{{Bijušās valsts infokaste
+|vietējais_nosaukums  = Imperium Romanum
+|nosaukums_latv_val   = Romas impērija
+|sugasvārds           = Romas impērijas
+|
+|kontinents           = Afroeirāzija
+|reģions              = Vidusjūra
+|valsts               =
+|laikmets             =
+|statuss              = Impērija
+|statusa_teksts       =
+|impērija             =
+|valdības_veids       = Monarhija
+|
+|gads_sākums          = 27 p.m.ē.
+|gads_beigas          = 476
+|date_end             = [[476. gads|476. gada]] [[4. septembris]] 
+|event_start          = [[Cēzars Augusts]] proklamēts par principu
+|event_end            = [[Romulus Augustus|Romulu Augustu]] no troņa gāž [[Odoakrs]]
+|image_flag           = Vexilloid of the Roman Empire.svg
+|flag                 =
+|flag_type            = Karogs:''Senatus Populus que Romanus'' <br />(Romiešu senāts un tauta)
+|image_coat           = Better_Imperial_Aquila.png
+|symbol               = 
+|symbol_type          = Romiešu ērglis
+|image_map            = Roman Empire map.svg
+|image_map_caption    = Romas impērija laikā, kad aizņēma lielāko teritoriju ([[117]]). Ar gaišāk zaļu krāsu iezīmētas romiešu leģionu neilgi ieņemtās un atkarīgās teritorijas
+|national_motto       = 
+|national_anthem      =
+|galvaspilsēta        = [[Roma]]: 44. pmē. — 286. mē.<br />[[Konstantinopole]]: no 330
+|kopīgas_valodas      = [[latīņu valoda|latīņu]] (impērijas)<br />[[grieķu valoda|grieķu]] (administratīvā)
+|reliģija             = [[Reliģija Senajā Romā|Romiešu politeisms]], vēlāk [[kristietība]]
+|nauda                = [[solidus]], [[aureus]], [[denarius]], [[sestertius]], [[as (monēta)|as]]
+|
+|title_leader         = [[Romas imperators|Imperators]]
+|leader1              = [[Oktaviāns|Augusts]]
+|year_leader1         = 27 p.m.ē — 14
+|leader2              = [[Romuls Augusts]]
+|year_leader2         = 475—476
+|title_deputy         = [[Konsuls (Roma)|Konsuls]]
+|deputy1              = [[Oktaviāns|Augusts]]
+|year_deputy1         = 27—23 p.m.ē
+|deputy2              = Baziliskus
+|year_deputy2         = 476
+|stat_year1           = 25 p.m.ē<ref name=size>{{Laikraksta atsauce|journal=Social Science History |title=Size and Duration of Empires: Growth-Decline Curves, 600 B.C. to 600 A.D. |first=[[Rein Taagepera|Rein]] |last=[[Rein Taagepera|Taagepera]] |volume=3 |issue=3/4 |year=1979 |pages=125 |url=http://links.jstor.org/sici?sici=0145-5532%281979%293%3A3%2F4%3C115%3ASADOEG%3E2.0.CO%3B2-H |doi=10.2307/1170959}}</ref><ref>John D. Durand, ''Historical Estimates of World Population: An Evaluation'', 1977, pp. 253-296.</ref>
+|stat_platība1        = 2750000
+|stat_year2           = 50<ref name=size/>
+|stat_pop1            = 56800000
+|stat_platība2        = 4200000
+|stat_year3           = 117<ref name=size/>
+|stat_platība3        = 5000000
+|stat_pop3            = 88000000
+|stat_year5           = 390 <ref name=size/>
+|stat_platība5        = 4400000
+|flag_p1              = Blank.png
+|p1                   = Romas republika
+|s1                   = Bizantijas impērija
+|flag_s1              =
+|s2                   = Rietumu Romas impērija
+|flag_s2              = Blank.png
+}}
+'''Romas impērija''' jeb '''Romiešu impērija''' ({{val|la|Imperium Rōmānum}}, {{val|grc|Βασιλεία τῶν Ῥωμαίων}} — ''Basileia tōn Rhōmaiōn'') bija [[Senā Roma|Senās Romas]] periods, kas aizsākās līdz ar pirmā imperatora [[Oktaviāns|Oktaviāna Augusta]] valdīšanas sākumu 27. gadā [[pirms mūsu ēras]]. Ko uzskatīt par Romas [[impērija]]s beigām, domas vēsturnieku vidū dalās. Vieni uzskata, ka Romas impērija pastāvēja līdz [[Rietumroma]]s sabrukumam 476. gadā. Savukārt citi autori par beigām traktē [[Austrumroma]]s jeb [[Bizantijas impērija]]s beigas — [[1453]]. gadā, kad tās galvaspilsētu [[Konstantinopole|Konstantinopoli]] [[Konstantinopoles krišana|ieņēma]] [[Osmaņu impērija]]s karaspēks. Izplatītāks tomēr ir pirmais viedoklis, jo vairums vēsturnieku ne bez pamata uzskata, ka Bizantijas kultūra būtiski atšķīrās no Rietumromas kultūras, kura līdz ar [[Senā Grieķija|Seno Grieķiju]] bija vēlākās latīniskās Eiropas civilizācijas tiešs [[kultūra]]s, [[Tradīcija|tradīciju]], [[Dzīvesveids|dzīvesveida]], [[mentalitāte]]s un citu galveno raksturiezīmju avots un pamats.
+
+== Vēsture ==
+=== Pirmsākums ===
+[[Attēls:Roman Republic Empire map.gif|thumb|280px|Senās Romas teritorijas izmaiņas.
+{{Legend|#c46c5c|[[Romas Republika]] (no 509. gada p.m.ē.)}}
+{{Legend|#9c649c|[[Romas Impērija]] (no 27. gada p.m.ē.)}}
+{{Legend|#5ca4cc|[[Rietumromas Impērija]] (no 395. gada)}}
+{{Legend|#bcc45c|[[Austrumromas Impērija]] (no 395. līdz 1453. gadam)}}
+]]
+Pēc Augusta iecelšanas par [[Senās Romas imperatori|Romas imperatoru]], bet Romas pārtapšanu no republikas par impēriju, iesākās ilgstošs tās uzplaukuma un labklājības laiks. Agrāk iekarotās teritorijas tika nostiprinātas ar efektīvu pārvaldi un precīzi iezīmētām robežām. Austrumu teritorijas, kuras karu laikā bija jau gandrīz nošķirtas no Romas, tika atkal pievienotas. Augusta laikā Roma centās mierīgā ceļā uzlabot attiecības arī ar tās pierobežā dzīvojošām kaimiņu tautām. Lai uzlabotu zemju pārvaldi, tās tika sadalītas sīkākās administratīvās vienībās. Piemēram, [[Gallija]], kuru bija iekarojis vēl [[Jūlijs Cēzars|Cēzars]], tika sadalīta četrās [[Province|provincēs]], bet [[Spānija]] — trijās. Tika atjaunota kontrole arī pār [[Ēģipte|Ēģipti]].
+
+Pēc Augusta nāves Romas impērija, tās pastāvēšanas 1. gadsimta otrajā pusē, arvien vairāk kļuva [[Integrācija|integrēta]], [[Kosmopolītisms|kosmopolītiska]] sistēma. It īpaši tas iezīmējās ar Spānijā dzimušā [[Trajāns|Trajāna]] (valdīja 98—117) kļūšanu par Romas imperatoru. Pirmo reizi Romas vēsturē par tās valdnieku bija kļuvis provinciālis. Lai gan arī turpmāk [[Itālijas pussala]] un Roma saglabāja savu noteicošo nozīmi visās impērijas saimnieciskajās, politiskajās un kultūras sfērās, impērija tomēr nebija mehānisks pakļauto teritoriju kopums. Tām bija arī kopīgas intereses, izveidojās vienota Romas [[kultūra]], izkristalizējās līdzīgas dzīves stila pazīmes, lai gan arī saglabājās daudz acīmredzamu etnisko atšķirību un reģionālo īpatnību.
+
+=== Briedums ===
+Trajāna laikā Romas impērija sasniedza savus maksimālos teritoriālos izmērus. Trajāna [[Leģions (Roma)|leģioni]] sasniedza zīmīgu robežu — [[Persijas līcis|Persijas līci]], iekļaujot impērijas sastāvā divas jaunas provinces: [[Mezopotāmija|Mezopotāmiju]] un [[Asīrija|Asīriju]].
+
+Okupēta bija arī visa [[Ibērijas pussala]], Gallija aptvēra mūsdienu [[Francija]]s teritoriju un pletās līdz pat [[Reina]]i ([[Akvitānija]], [[Lugdensija]], [[Beļģija]]). Romas province bija arī [[Senā Grieķija|Grieķija]], kā arī [[Balkānu pussala|Balkāni]] ([[Mēzija]], [[Trāķija]] un [[Dakija]]). Impērijas sastāvdaļa bija arī faktiski visa [[Ziemeļāfrika]]s piekraste.
+
+Ne vienmēr Romas ekspansijas pamatā bija neapturamas kaimiņzemju iekarošanas ambīcijas. Tā, [[Galli|gallu]] zemju iekarošanu 2. gadsimtā p. m. ē. noteica divi galvenie faktori. Pirmkārt, Romai bija nepieciešamas drošas sauszemes [[komunikācija]]s ar tās jaunajām Spānijas provincēm. Otrkārt, pie Romas pēc palīdzības griezās senais tās sabiedrotais — grieķu [[Masālija]], kuru nepārtraukti tiranizēja gallu cilts [[salūvi]]. Iespējams, ka Romas varas elite pat neparedzēja, ka tās iejaukšanās konfliktā Gallijā radīs nepieredzētu ķēdes reakciju ar dramatiskām sekām. Jau pašā romiešu iesaistīšanās konfliktā sākumā viņi nonāca sarežģītā situācijā. Dažādas [[Ķelti|ķeltu]] ciltis Gallijā gandrīz nepārtraukti karoja viena ar otru. Romiešiem ierodoties, tās sašķēlās divos naidīgos blokos — vieni uzskatīja Romu par savu sabiedroto (''aedui''), citi par saviem niknākajiem ienaidniekiem (''arverni''). Gallu iekšējās nesaskaņas bija viens no galvenajiem faktoriem, kas ļāva romiešiem samērā īsā laikā pakļaut visu Galliju un pārvērst to par savu provinci.
+
+Pēc Gallijas pakļaušanas situācija tur 2. gadsimta p. m. ē. laikā stabilizējās, starp Gallijas zemēm sākās aktīva [[tirdzniecība]] un jaunajā Romas provincē sākās straujš saimnieciskais uzplaukums.
+Arī Trajāns iekaroja un kā provinci iekļāva impērijas sastāvā Dakiju ar mērķi nodrošināt kontroli pār [[Donava|Donavu]], kā drošāku dabīgo šķērsli pret [[Barbari|barbaru]] iebrukumiem. Savukārt, lai attīstītu tirdzniecību ar [[Indija|Indiju]] un, tālāk uz austrumiem ar [[Ķīna|Ķīnu]], viņš pakļāva [[Partija (valsts)|Partiju]] (teritorijas mūsdienu [[Irāna|Irānā]] un [[Afganistāna|Afganistānā]]), kā arī [[Armēnija|Armēniju]], Asīriju un Mezopotāmiju.
+
+=== Pāreja aizsardzībā ===
+==== Sākums ====
+
+Tomēr, proporcionāli Romas impērijas teritoriju platībai pieaugot, kritās tās spēja nodrošināt pietiekamu to aizsardzību. Tā, piemēram, [[Gallija|Gallijā]] 2. gadsimta p. m. ē. beigās iebruka [[Ģermāņi|ģermāņu]] ciltis [[kimbri]] un [[teitoņi]] — tas bija pirmais nopietnākais Eiropas ziemeļos pieaugošās varas pieteikums uz savām teritoriālajām ambīcijām.
+
+Arī agrāk iekarotās zemes, neskatoties uz relatīvi "inteliģento" Romas [[Okupācija|okupāciju]], nereti turpināja izrādīt sīvu pretestību. Piemēram, iekarotās [[Tuvie Austrumi|Tuvo Austrumu]] zemes dumpojās regulāri. Tā, 66. gadā sākās [[Ebreji|ebreju]] sacelšanās [[Palestīna|Palestīnā]], kas pārauga asiņainā, 4 gadus ilgā karā pret romiešu okupāciju. Romiešu karavadonis [[Tits]], vēlākais Romas imperatoram, 70. gadā ieņēma un izpostīja [[Jeruzaleme|Jeruzalemi]], kā arī izsūtīja lielu daļu ebreju no viņu dzimtās zemes.
+
+Līdzīgas situācijas veidojās arī citās Romas provincēs. Tādēļ drīz vien Roma bija spiesta no vairākām provincēm atteikties. Nākamais Romas imperators [[Adriāns]] (valdīja 117—138) bija daudz vairāk norūpējies par esošā saglabāšanu, nekā jaunu teritoriju iegūšanu. Pēdējās iekarotās provinces — Mezopotāmija un Asīrija — šajā shēmā vairs neiekļāvās un romieši tās atstāja tāpat kā Armēniju. Adriāns arī noteica galīgās Romas impērijas robežas [[Britānija (Romas impērijas province)|Britānijā]], 122. gadā pavēlot uzcelt 117&nbsp;km garo [[Adriāna valnis|Adriāna valni]], kuras daļas saglabājušās vēl līdz mūsdienām, bet [[Rietumeiropa|Rietumeiropā]] robežas tika noteiktas pa Reinas un Donavas upēm. No 132. līdz 135. gadam [[Jūdeja|Jūdejā]] notika plaša [[Bar Kohbas sacelšanās]].
+
+==== Provinces un robežas ====
+{{Pamatraksts|Senās Romas province}}
+[[Attēls:Roman Empire Map.png|thumb|500px|Romas impērija un tās provinces.]]
+Liela uzmanība Adriāna valdīšanas laikā tika pievērsta arī [[Senās Romas province|impērijas provinču]] nostiprināšanai. Provinces pilsētas lielā mērā par impērijas kopējiem līdzekļiem tika sakārtotas, izbūvēta [[infrastruktūra]], celtas [[skola]]s, [[Teātris|teātri]], labiekārtotas ielas. Šāda Adriāna politika balstījās uz vienkāršu loģiku — impērijas ekonomiskais pamats ir provinces. No tām nāk lielākā ieņēmumu daļa valsts kasē. Tādēļ jārūpējas, lai provinces būtu patīkama vieta tās iedzīvotājiem ar labiem ceļiem, tīrām, sakoptām pilsētām, aktīvu sabiedrisko un kultūras dzīvi tajās. Jāatzīmē, ka šī politika tiešām nesa pozitīvus rezultātus — Adriāna laikā Romas impērijā valdīja miers, stabilitāte un plaukstoša ekonomika, kā nekad pirms un pēc viņa.
+
+Adriāna impērijas nostiprināšanas politiku konsekventi turpināja arī viņa gallu izcelsmes pēctecis [[Antonijs Pijs]] (valdīja 138—161), izvietojot gar visu impērijas robežu spēcīgus [[Garnizons|garnizonus]]. Arī viņa laikā Romas impērija bija plaukstoša, stabila lielvalsts ar taisnīgiem likumiem un lielu iedzīvotāju personīgo brīvību.
+
+Neskatoties uz šo pēdējo imperatoru pūliņiem nostiprināt robežas, [[barbari]], it īpaši ģermāņi no Eiropas ziemeļiem, arvien biežāk un arvien lielākā skaitā iebruka Romas impērijas teritorijās. Vairums šo iebrukumu tika veikti laupīšanas nolūkā. Bet arvien biežāk spiedienu uz Romas robežām izdarīja dažādas klejotāju tautas, kas meklēja teritorijas lai ierīkotu pastāvīgas apmešanās vietas un uzsāktu zemes apstrādi. To veicināja virkne faktoru — gan [[tehniskais progress]], gan šo tautu kultūras attīstības process, gan kopējais iedzīvotāju skaita pieaugums visā Eiropā.
+
+Vieni no pirmajiem, kas aizsāka garo iebrukumu sēriju Romas impērijas teritorijā līdz pat tās sabrukumam, bija spēcīga ģermāņu cilts [[markomani]]. Viņi pārrāva romiešu Donavas aizsardzības līniju, izpostīja vairākas romiešu Donavas provinces un iebruka [[Apūlija|Apūlijā]] [[Ziemeļitālija|Ziemeļitālijā]]. Pēc smagām, ilgstošām kaujām romiešiem izdevās markomanus atspiest atpakaļ aiz robežām. Tomēr tas vēl bija tikai sākums barbaru iebrukumiem Romas impērijā.
+
+==== Iekšējās atšķirības ====
+[[Attēls:Theater Orange.jpg|thumb|200px|Romiešu teātris Oranžā, Gallijā (mūsdienu Francijā)]]Romas impēriju arvien vairāk tricināja ne tikai barbaru iebrukumi, bet arī pretrunīgi iekšējie procesi. Kā tas nereti notiek sabiedrības attīstībā, līdz ar integrācijas procesiem padziļinās arī [[diferenciācija]]. Arī Romas impērijā arvien jūtamāka kļuva divu atšķirīgu kultūru attīstība, kas arvien vairāk viena no otras attālinājās līdz impērija sašķēlās divās daļās — Rietumromā un Austrumromā (Bizantijā). Šīs kultūras atšķirības kļuva izšķirošas Romas austrumu provincēm, kas bija izvietotas Grieķijā, Āzijā un Āfrikā, pieņemot [[Grieķu valoda|grieķu valodu]] kā galveno valodu. Tai pat laikā rietumu provincēs Britānijā, Gallijā, Spānijā, kā arī Reinas un Donavas provincēs, nemaz nerunājot par Itāliju, nedalīti valdīja [[latīņu valoda]].
+
+Sākotnēji Romas politiskā [[elite]] Austrumromas veidošanās procesam nepievērsa īpašu uzmanību, jo kopš impērijas pirmsākuma pakļautās tautas bez īpašas uzspiešanas pašas drīz vien sāka sevi vismaz daļēji uzskatīt par romiešiem, lai gan turpināja saglabāt savu nacionālo un etnisko identitāti. Turklāt Romas imperators [[Karakalla]] (''Caracalla'', jeb īstajā vārdā ''Marcus Aurelius Antoninus''; 188—217) atcēla jebkādu politisko vai sociālo atšķirību starp brīvībā dzimušajiem romiešiem un provinciāļiem. Līdz ar to galīgi nostiprinājās romiešu sabiedrības kopējās tradīcijas un identitāte (''Romanitas'').
+
+Iekarotajās provincēs romieši izvietoja karaspēka daļas un izveidoja vietējo administrāciju, kuras augstākās amatpersonas parasti bija romieši. Šīs provinces tika iekļautas vispārējā impērijas ekonomiskajā, administratīvajā un [[izglītība]]s sistēmā. Rezultātā, provincēs veidojās romiešu militārā un civilā [[diaspora]], kas bija dominējošā provinciālās sabiedrības sastāvdaļa — paraugs un atdarināšanas objekts vietējiem provinču iedzīvotājiem. Turklāt, katrā provincē romieši uzsāka plašu celtniecības programmu organizējot ne tikai nocietinājumu, [[Cietoksnis|cietokšņu]] un [[Forts|fortu]] būvniecību, bet arī attīstot ceļu tīklu, būvējot pilsētas un tās labiekārtojot. Tādēļ, lai gan Romas galvenā saimniecības nozare bija [[lauksaimniecība]], par impērijas pamatu arvien vairāk kļuva [[pilsēta]]s. Tās auga provincēs kā sēnes pēc lietus, rezultātā radikāli mainot vēl nesen mežonīgo barbaru dzīves veidu. Pilsētu attīstība stimulēja strauju [[darba dalīšana]]s padziļināšanos, veidojās reģionālā [[specializācija]]. Pilsētās uzplauka [[amatniecība]], kas ātri apguva Romas [[Tehnoloģija|tehnoloģiju]], izgatavoja kā [[Ierocis|ieročus]], tā arī [[Darbarīks|darbarīkus]], tādējādi veicinot arī darba [[produktivitāte]]s paaugstināšanos un provinču ekonomisko attīstību.
+
+Katras iekarošanas stratēģijas pamats ir armija. Bez pietiekama militārā potenciāla nav iespējams nosargāt savu valsti, nemaz nerunājot par iekarojumiem. Tomēr romiešu armija bija daudz kas vairāk, nekā vienkāršs militārs spēks, kura uzdevums ir iznīcināt pretinieku. Romiešu militāro stratēģiju grūti atdalīt no politikas. Iekarojot kārtējo provinci, romieši tūlīt sāka iesaukt armijā vietējos iedzīvotājus. Rezultātā jau 1. gadsimta beigās Romas armijā itāļi bija mazākumā. Tikai elites militārās vienības, atsevišķi leģioni, vēl tika komplektēti no Romas pilsoņiem.
+
+Barbaru kalpošanai romiešu armijā bija visai būtisks stimuls — pēc demobilizācijas viņiem tika piešķirtas tiesības iegūt Romas [[Pavalstniecība|pavalstniecību]]. Romieši iekarotajās teritorijās, it īpaši robežu tuvumā, būvēja tipveida pilsētas, kur varēja izvietoties no armijas [[Demobilizācija|demobilizētie]] kareivji. Romieši jau no paša būvniecības sākuma centās izveidot šīs pilsētas pievilcīgas dzīvošanai, ceļot glītas sabiedriskās ēkas — teātrus, [[bazilika]]s, [[Pirts|pirtis]], [[bibliotēka]]s. Šādu pilsētu tuvumā tiecās izvietoties arī apkārtējie iedzīvotāji, veicinot straujāku to attīstību.
+
+Uzplaukstot pilsētām, padziļinoties darba dalīšanai, pārveidojās arī lauksaimniecība. Tā kļuva daudz intensīvāka. Šīs nozares attīstību veicināja gan augošo pilsētu, kā arī fortos izvietoto armijas daļu pieprasījums, tā arī efektīvāka tehnika un tehnoloģija, ko no savas puses laukiem piedāvāja pilsētas. Bez zemes apstrādes tehnikas laukos vairumā parādījās arī trauki, dažādi saimniecības priekšmeti, kas atviegloja [[Mājsaimniecība|mājsaimniecību]]. Sevišķu pārticību Romas provinces sasniedza impērijas pastāvēšanas pirmajos divos gadsimtos.
+
+Romas austrumu provincēs situācija bija pilnīgi citāda. Pirms romiešu atnākšanas šajā reģionā daudzas varenas valstis cita citu nomainot bija uzplaukušas un norietējušas. Tomēr tās bija saglabājušas to [[Civilizācija|civilizāciju]] struktūras elementus, tradīcijas un kultūras sasniegumus, kas šeit bija veidojušās daudzu gadsimtu laikā vēl pirms romiešiem. Austrumu [[sabiedrība]]s, atšķirībā no ķeltiem vai galliem, kas romiešiem atnākot dzīvoja galvenokārt ciematos, bija senu pilsētu sabiedrības. Austrumu reģionos infrastruktūra bija samērā labi attīstīta jau sen. Teritoriju un pilsētu administrēšanā, dažādu sabiedrisko darbu organizēšanā, [[Nodoklis|nodokļu]] ievākšanā u. c. šeit nereti bija pat lielāka pieredze nekā romiešiem. Tādēļ, no vienas puses, romiešiem bija samērā viegli pārvaldīt austrumu provinces.
+
+Tomēr, no otras puses var teikt, ka romieši no vēstures viedokļa šeit ieradās stipri par vēlu. Šīs sabiedrības, kuru saknes aizsākās senajās civilizācijās, bija izveidojusies un nostiprinājusies sava kultūras identitāte un dzīves veids, nevarēja romanizēt tāpat kā barbarus. Būtībā romiešiem šīm sabiedrībām pat nebija īsti ko piedāvāt, jo romiešu pārņemtie grieķu kultūras sasniegumi Tuvajos un Vidējos Austrumos bija pārņemti vēl krietni agrāk. Savukārt pašu romiešu sasniegumi lielā mērā bija patapinātās grieķu zinātnes, mākslas un tehnoloģijas pilnveidojumi, kur gan bija daudz kas derīgs, bet maz kas principiāli jauns. Citiem vārdiem, galvenais ko paveica romieši austrumu provincēs bija miera un kārtības ieviešana, ļaujot funkcionēt vairumam jau agrāk izveidotiem sabiedrības mehānismiem, kas pamatā tāpat bija pietiekami efektīvi.
+
+=== Noriets ===
+==== Kultūras un morāles krīze ====
+
+Pēc Romas uzvaras pār galvenajiem ārējiem ienaidniekiem galvenā uzmanība tika pievērsta savstarpējiem konfliktiem un kariem, cīņai par varu. Romai, sākot ar Augustu, kļūstot no republikas par impēriju, lieli iekšējie kari vairs netika pieļauti. Romas sabiedrībā arvien vairāk sāka iezīmēties kultūras un [[morāle]]s [[krīze]], kas aizsākās tikko kā Roma kļuva par noteicošo spēku Vidusjūras reģionā. Arī aiz ārēji spožā Augusta un viņa pēcteču valdīšanas laika turpinājās arvien dziļāks Romas civilizācijas pagrimuma process. Tas atspoguļojās, piemēram, slavenajās romiešu spēlēs. Sabiedrības uzmanības centrā nonāca spēles un izpriecas, kas kļuva arvien plašākas un grandiozākas, bet vienlaicīgi arī atbaidošākas. Tā, ja republikas laikā spēles bija noteiktas tikai četras nedēļas gadā, tad impērijas periodā tās pamazām kļuva gandrīz nepārtrauktas. Pirmajās reģistrētajās spēlēs 264. gadā p. m. ē. "tikai" trīs vergu pāri cīnījās uz dzīvību un nāvi. Četrus gadsimtus vēlāk, piemēram, imperatora [[Trajāns|Trajāna]] (53—117) valdīšanas laikā izpriecās tika mērķtiecīgi nonāvēts tūkstošiem cilvēku un dzīvnieku. Šādi "šovi" vairs nebija gladiatoru cīņas, bet īstas militāras kaujas. Romas sabiedrība pieprasīja arvien cietsirdīgākus, dzīvnieciskākus un neķītrākus skatus. Tā, pārtraukumos starp asiņainajām kaujām publika tika "izklaidēta" ar skatiem, kur, sagūstīti kristieši tika dzīvi sisti krustā, cepināti, dedzināti vai atdoti plēsīgiem zvēriem saplosīšanai. Lielu interesi izraisījuši skati, kad kristieši vai raganas sēdināti [[Laiva|laivās]] ar cauru dibenu un tiem vajadzējis irties pāri baseinam, kurš mudžēja no [[krokodilu dzimta|krokodiliem]].
+
+Arī politiskajā dzīvē arvien vairāk bija vērojama [[dekadence]]. Par pirkšanas pārdošanas objektu kļuva [[Aristokrātija|aristokrātiskie]] [[Tituls|tituli]], jauno pilsoņu [[Motivācija|motivācijā]] kādreizējās kara lauka slavas vietā sāka dominēt alkatība un iedomība. To veicināja augstākie Romas politiķi, masveidīgi uzpērkot dažādus salašņas, kas "veidoja" viņiem vajadzīgo sabiedrisko domu slavinot neesošas viņu labdarības.
+
+Lai gan Roma bija kļuvusi par impēriju, kur imperatoram faktiski piederēja absolūta vara, tikai daži no imperatoriem iegājuši vēsturē pateicoties savām spējām stiprināt valsti un attīstīt tās kultūru. Lielākā to daļa bieži sagrāba varu savu priekšgājēju [[slepkavība]]s vai [[Apvērsums|apvērsuma]] rezultātā. Kopumā astoņi no desmit Augusta pēcnācējiem Romas imperatora krēslā mira vardarbīgā nāvē. Gandrīz visu viņu valdīšanas laikā viņu tuvākā apkārtne bija pilna intrigu un slepkavību.
+
+==== Galvaspilsētas pagrimums ====
+Šādā gaisotnē arvien vairāk pagrimt sāka Roma kā impērijas galvaspilsēta. No kādreizējās Romas republikas laika aristokrātijas vairs nebija ne miņas. Spējīgākajiem un enerģiskākajiem romiešiem situācija galvaspilsētā kļuva arvien neizturamāka. Daudzi no viņiem nemanot sāka saistīt savu dzīvi un darbību ar provincēm, kur ieguldot darbu un kapitālu varēja nodrošināt vismaz mierīgu, pārtikušu dzīvi. Rezultātā impērijas galvaspilsētas faktiskā loma un spēja ietekmēt perifērijas arvien vairāk mazinājās. Turpretī provinces, it sevišķi impērijas rietumu daļā sāka uzplaukt. Vara, intelekts un resursi arvien vairāk novirzījās no galvaspilsētas uz provinču centriem, it īpaši [[Lugdunuma|Lugdunumu]] ([[Liona|Lionu]]) un [[Mediolānuma|Mediolānumu]] ([[Milāna|Milānu]]). Romas impērijā nemanāmi, bet nenovēršami bija sācis darboties [[centrbēdze]]s mehānisms. Impērijas sabrukums no šī brīža vairs bija tikai laika jautājums.
+
+==== Reformu neveiksmes ====
+Imperatora [[Septīmijs Severs|Septīmija Severa]] laikā (valdīja 193—211) Itālijai, kas vienmēr bija baudījusi dažādas privilēģijas, it sevišķi nodokļu jomā, tās gandrīz visas tika atņemtas. Tas bija ļoti sāpīgs solis, bet citas izejas nebija — tikai milzīgās armijas un birokrātiskā aparāta uzturēšana vien prasīja lauvas tiesu no visiem impērijas ieņēmumiem. Tiesa, Severs īstenoja enerģiskas reformas, it īpaši juridiskajā un militārajā jomās. Tā, piemēram, viņš atļāva bijušajiem virsniekiem ieņemt civilos amatus Romas vai provinču administrācijās, lai izvairītos no dumpjiem armijā viņš uzlaboja kareivju stāvokli, kā arī samazināja Romas Senāta varu un ierobežoja itāļu aristokrātijas privilēģijas. Konkrētajā situācijā tās bija progresīvas reformas. Tomēr pakāpeniski sāka izpausties šo reformu ilgtermiņa sekas, kuru pozitīvais efekts jau bija daudz mazāks. Tās bija saistītas ar to, ka impērijas iekšpolitiskajā dzīvē atkal sāka būtiski pieaugt armijas loma, jo profesionālie politiķi — senatori, aristokrātija — tika pakāpeniski nobīdīti malā. Savukārt romiešu armija un pat tās komandieri, kas arvien lielākā skaitā tika komplektēti galvenokārt no provinču iedzīvotājiem, kādreizējiem barbariem vai to pēctečiem, etniskā sastāva ziņā bija kļuvusi ļoti raiba. Armijas daļas (leģioni) bija izkaisītas pa dažādiem milzīgās impērijas nostūriem. Arī daudziem šo daļu augstākajiem komandieriem kopīga rakstura īpašība bija politiskas ambīcijas, taču to intereses bija dažādas. Lai īstenotu šīs intereses armija arvien vairāk tika izmantota kā politisks instruments.
+
+Taktika parasti bija ļoti vienkārša — kurš armijai solīja vairāk naudas un lielākas privilēģijas, tas arī tika pie valdīšanas grožiem. Līdz ar to arvien biežāki un nežēlīgāki kļuva iekšējie konflikti, kas pakāpeniski pārauga gandrīz nepārtrauktā pilsoņu karā, padarot impēriju arvien nestabilāku. Aizņemti iekšējās cīņās armijas formējumi arvien mazāk uzmanības veltīja ārējiem draudiem.{{fact}}
+
+Sekas nelika sevi ilgi gaidīt. Ģermāņu ciltis, nogaidījušas izdevīgu brīdi, 238. gadā lielā skaitā iebruka [[Melnā jūra|Melnās jūras]] reģionā. Bet [[goti]] un [[hēruli]] 253. gadā uzsāka [[Egejas jūra]]s piekrastes postīšanu, līdz 267. gadā viņi ieņēma [[Atēnas]]. Vienlaicīgi pieauga spiediens arī uz Donavas robežām tādā mērā, ka Roma bija spiesta atteikties no [[Dākija]]s. Vēl draudīgākas bija spēcīgās ģermāņu cilšu savienības — [[alemaņi|alemaņu]], aktivitātes. Alemaņi 259. gadā iebruka Gallijā, šķērsoja to un ielauzās Spānijā. Nedaudz vēlāk vairākas ģermāņu ciltis iebruka arī Ziemeļitālijā.
+
+Nopietnas problēmas romiešiem radās ne tikai ar ģermāņiem. Juzdami Romas varas atslābumu, agresīvus plānus pret to sāka īstenot arī nesenie sabiedrotie. Tā, iepriekš draudzīgās [[Palmira]]s karaspēks 270. gadā iebruka Ēģiptē un iekaroja to.
+
+Neliela atelpa no iekarotāju uzmākšanās no ārienes un dumpiniekiem iekšienē tika panākta imperatora un pieredzējušā karavadoņa [[Aurēliāns|Aurēliāna]] (''Lucius Domitius Aurelianus'') laikā (valdīja 270—275), kurš sakāva gan Palmiras armiju, gan ģermāņu ciltis. Tomēr šīs vienas no pēdējām leģendāro Romas armiju uzvarām neko daudz neatviegloja impērijas situācija — tā tik un tā palika svārstīga un nedroša.
+
+Daudzajos karos arvien vairāk panīka arī Romas saimniecība. Lauksaimniecības produkcijas apjoms 3. gadsimta laikā arvien vairāk samazinājās. Arvien plašākas zemju platības tika pamestas neapkoptas. Daudzi zemnieki neredzot jēgu zemes apstrādē pameta savas mājas un pievienojās neskaitāmajām laupītāju bandām, kas siroja pa visu impērijas teritoriju. Turklāt lauksaimniecība bija galvenais Romas nodokļu ieņēmumu avots. Līdz ar lauksaimniecības samazināšanos strauji saruka arī valsts kase. Smagu triecienu provinču saimniecības saņēma 166. gadā, kad romiešu leģioni atgriezās no karagājiena austrumos, atnesdamas līdzi [[mēris|mēri]], kas burtiski izpļāva lielu iedzīvotāju daļu daudzās Rietumromas provincēs.
+
+==== Administratīvi teritoriālā reforma ====
+Romas politiskā un militārā elite izmisīgi meklēja ceļus kā nodrošināt impērijas pastāvēšanu. Viens bija skaidrs — milzīgo teritoriju no viena centra vairs nav iespējams nedz pārvaldīt, nedz arī nosargāt. Tādēļ [[Gajs Aurēlijs Diokletiāns|Diokletiāns]] (valdīja 284—305) beidzot izšķīrās par radikālu soli — impērija teritoriāli tika sadalīta 101 provincē, kuras tika apvienotas 12 lielākās struktūrvienībās ([[Diecēze|diecēzēs]]) un 4 lielākās daļās. Faktiski impērijas teritoriālās struktūras šo reformu rezultātā tika "standartizētas", tās katra savā līmenī ieguva vienlīdzīgu statusu. Tas gan arī nozīmēja, ka Itālijas sevišķais stāvoklis, kura tā baudīja līdz šim tika likvidēts. Kopš šī brīža Itālija kļuva tāda pat province, kā jebkura cita. Arī Romas kā galvaspilsētas nozīme samazinājās — galvaspilsēta tika pārvietota uz Mediolānu (Milānu), kas tā laika situācijā šķita izdevīgāk izvietota no drošības viedokļa. Tomēr barbari drīz iebruka arī Milānā un valdība no tās tika pārvietota uz it kā vēl drošāku vietu — [[Ravenna|Ravennu]]. Līdz ar to Ravenna kļuva ne tikai par impērijas galvaspilsētu, bet pakāpeniski arī par [[kristietība]]s kultūras centru. Šo funkciju Ravenna saglabāja vairāk nekā trīs nākamos gadsimtus.
+
+Administratīvo reformu rezultātā impērijas pārvalde tika īstenota daudz stingrāk, lai apspiestu iespējamos nemierus tika izveidots milzīgs [[slepenpolicija]]s un informatoru aparāts, vara kļuva arvien represīvāka. Lai cīnītos pret arvien pieaugošo [[Inflācija|inflāciju]] un naudas vērtības samazināšanos, administratīvi ierobežojumi tika ieviesti arī saimniecībā — tika noteikti maksimālie [[Cena (ekonomika)|cenu]] un [[Alga|algu]] līmeņi (šie pasākumi gan drīz tika atcelti, jo izrādījās neefektīvi). Stingra uzraudzība tika ieviesta arī pār nodokļu ievākšanu. No dažādiem reorganizācijas pasākumiem neizvairījās arī armija.
+
+==== Impērijas sadalīšanās ====
+Nozīmīgākais Diokletiāna enerģisko reformu rezultāts tālākajam Romas impērijas liktenim izrādījās tas, ka valsts faktiski sadalījās divās galvenajās daļās — Rietumu impērijā un Austrumu impērijā. Tās gan atkal apvienoja nākamais Romas imperators [[Konstantīns I]] (valdīja 306—337), bet šim solim lielas nozīmes vairs nebija, jo viņš pats imperatora mītni 324. gadā pārcēla uz [[Konstantinopole|Konstantinopoli]] Mazāzijā, padarot to par impērijas jauno galvaspilsētu. Pēc Konstantīna nāves Romas impērija, nu jau uz visiem laikiem, atkal tika sadalīta divās politiski un administratīvi neatkarīgās daļās.
+
+Pēc galvaspilsētas maiņas impērija sāka arvien jūtamāki pārvērsties. Tas, šīs senās civilizācijas gars, ko kādreiz devēja par ''[[romanitas]]'', sāka arvien vairāk izplēnēt no sabiedrības apziņas. Parādījās arī jaunas politiskās prioritātes. Par svarīgāko impērijas reģionu vairs neuzskatīja Itāliju, bet gan Balkānus un Mazāziju. Ja svarīguma ziņā nākamās agrākajā Romas politikā pēc Itālijas bija Gallija vai Spānija, tad tagad par tādām kļuva Ēģipte, Sīrija un pat Armēnija. Ja par svarīgāko Romas impērijas ārējo robežu, kura aizsargājama par jebkuru cenu, kādreiz uzskatīja Reinu, tad tagad par tādu uzskatīja Donavas upi un [[Pontija]]s piekrasti.
+
+Tā, visa 4. gadsimta otrā puse pagāja gandrīz nepārtrauktās romiešu militārās neveiksmēs un sakāvēs, kuru rezultātā viņu leģioniem nācās nepārtraukti atkāpties. Vispirms [[pikti]] un [[skoti]] ielauzās [[Britānija (Romas impērijas province)|Britānijā]] (360). [[Huņņi|Huņņu]] un [[Goti|gotu]] iebrukumi dažādās Romas teritorijās sekoja viens otram, līdz 378. gadā austrumgoti sagrāva imperatora [[Flāvijs Jūlijs Valēns|Valēna]] (valdīja 364—378) armiju [[Trāķija|Trāķijā]] pie [[Adrianopole]]s, bet viņu pašu nogalināja. Tikai imperatoram [[Teodosijs I|Teodosijam I]] (valdīja 392—395) beidzot izdevās impēriju atkal apvienot. Viņš savāca romiešu spēkus vienkopu un barbaru uzmākšanās uz laiku tika apturēta.
+
+==== Īslaicīga atelpa ====
+Pēc Diokletiāna un Konstantīna enerģiskajām reformām un Teodosija enerģiskās rīcības situācija stabilizējās. Austrumromas provincēs atsākās saimniecisks uzplaukums un rosība. Attīstījās tirdzniecība, cilvēku dzīves līmenis pamazām sāka uzlaboties. Ap 400. gadu Romas impērija atkal izskatījās stabila un plaukstoša, bet 3. gadsimta asiņainie un postošie kari un mēris šķita kā pagātnē uz neatgriešanos izgaisis murgs. Šajā laikā īpaši strauji attīstījās Konstantinopole. Atšķirībā no Romas, kas bija pārsvarā administratīvs un kultūras centrs, tātad, galvenokārt, patēriņa punkts. Konstantinopolē zēla tirdzniecība un amatniecība. Līdz ar to pēdējā daudz lielākā mērā balstījās pati uz saviem iekšējiem attīstības faktoriem, nevis uz iekaroto un pakļauto zemju resursiem. Tas daudzējādā ziņā izskaidro Konstantinopoles izdzīvošanas spēju. Var teikt — kamēr nebija ieņemta un pakļauta Konstantinopole, Bizantija pastāvēja. Taču par Romu to tā nevarēja teikt.
+
+Vēl izteiksmīgāka par saimniecisko attīstību, bija sabiedrības morāles nostiprināšanās. Kristietība, kas agrāk bija tikai viena no daudzām reliģijām, ātri vien izspieda citus konkurējošus pasaules uzskatus. Konstantinopole kļuva par civilizētās pasaules kristīgās reliģijas centru. To netraucēja nekādas [[Pagānisms|pagānisma]] paliekas, kā tas bija Romā. Reliģijas nostiprināšanās veicināja arī strauju kultūras attīstību. Tās ietekmē cilvēki arvien vairāk nodarbojās ar savas dvēseles un gara pilnveidošanu, pievēršot lielāku uzmanību kultūras norisēm. Lai gan tā nebija gluži grieķu romiešu (latīņu), bet gan drīzāk [[Orients|orienta]] reliģija un kultūra, 4. gadsimtā šī atšķirība vēl nebija tik krasa un to vēl neviens neuzskatīja par kaut ko īpašu. Problēmas, saistītas ar senās civilizācijas kultūras diversifikāciju sāka parādīties vēlāk, arvien vairāk saasinoties līdz pat mūsdienām.
+
+Atjaunotais miers, stabilitāte un uzplaukums tomēr nebija ilgstoši. Sākās periods, ko vēsturnieki gandrīz vienprātīgi dēvē par Romas sabrukumu (šajā kontekstā runa ir par Romas rietumu daļu).
+
+=== Sabrukums un tā iemesli ===
+
+[[Attēls:Routes of the barbarian invaders, 5th century AD.gif|thumb|300px|Barbaru iebrukumu virzieni Romas impērijas teritorijā]]
+Mieru un šķietamo Romas impērijas stabilitāti gandrīz visā 4. gadsimta laikā izjauca [[rietumgoti]], meklēdami glābiņu no huņņu uzmākšanās no austrumiem (mūsdienu Ungārijas un Austrijas teritorijām), 401. gadā sāka virzīties no Balkāniem Itālijas virzienā. 
+Gandrīz desmit gadus viņu spiedienu noturēja romiešu karaspēks talantīgā [[Vandaļi|vandaļu]] izcelsmes politiķa, diplomāta un karavadoņa [[Flāvijs Stilihons|Stilihona]] (359—408) vadībā. Tomēr, lai garantētu Itālijas drošību, Stilihons bija spiests noņemt daļu karaspēka no [[Reina]]s robežas un pārvietot to uz Itālijas ziemeļiem. 
+To izmantoja vandaļi, [[alani]] un [[svēbi]], kas 406. gada ziemā šķērsoja aizsalušo Reinu pie mūsdienu [[Koblenca]]s un iebruka Gallijā. Bez Reinas robežas citu vērā ņemamu šķēršļu romiešu ienaidniekiem rietumu provincēs vairs nebija. Ģermāņi Gallijā netraucēti slepkavoja, laupīja un dedzināja, pakāpeniski virzīdamies tālāk uz dienvidiem, līdz 408. — 409. gadā viņi šķērsoja [[Pireneji|Pirenejus]] un iebruka Spānijā. Tālāk aizgājušo ģermāņu cilšu vietā Gallijā iebruka [[franki]] un [[burgundieši]]. 
+Romieši vainu par visām nelaimēm uzvēla Stilihonam, turklāt paklīda baumas, ka par Romas imperatoru Stilihons gatavojas ielikt savu dēlu. Tādēļ viņš līdz ar citiem viņam padotajiem ģenerāļiem tika apsūdzēts nodevībā un 408. gadā nogalināts. [[Austrumgoti]], redzot ka romiešiem vairs nav neviena līdzvērtīga karavadoņa un pārliecinoties par pilnīgu Rietumromas bezspēcību, uzsāka plašu iekarošanas kampaņu, 410. gadā viņi iebruka Romā un to izlaupīja. 
+410. gadā romieši evakuēja savus leģionus arī no [[Britānija]]s, pāri [[Ziemeļjūra]]i no [[Jitlande]]s Lielbritānijas salas austrumu krastā ieradās [[jiti]], bet no [[Angelna]]s [[angļi]]. 
+[[Sakši]] izcēlās Britānijas dienvidu daļā un nodibināja savu ķēniņvalsti mūsdienu [[Saseksa]]s, vēlāk mūsdienu [[Midlseksa]]s teritorijā, bet pēdējo sakšu valsti nodibināja  [[Eseksa]]s teritorijā, līdz 850. gadam Lielbritānijas salā izveidojās septiņas stabilas ģermāņu valstis (Heptarhija).
+
+Rietumroma beidza pastāvēt 476. gadā līdz ar tās pēdējā nominālā imperatora [[Romuls Augusts|Romula Augusta]] gāšanu un ģermāņu ģenerāļa [[Odoakrs|Odoakra]] pasludināšanu par Itālijas valdnieku. Tas gan nenozīmēja, ka viņš kļuva par Romas imperatoru. Formāli imperatora krēsls skaitījās tukšs un, arī Rietumromas impērija formāli vēl turpināja pastāvēt līdz 480. gadam. Tomēr faktiski visu Romas impērijas rietumu daļu savā politiskajā kontrolē bija pārņēmuši dažādi ģermāņu cilšu grupējumi — franki Galliju, austrumgoti Itālijas pussalu, rietumgoti [[Spānija]]s provinces, bet vandaļi [[Ziemeļāfrika]]s provinces. Tomēr ģermāņu ciltis, atšķirībā no Āzijas nomadiem, bija zemkopji. Tā kā ierodoties Gallijā, Spānijā un citās bijušajās Romas provincēs viņi nevarēja ilgstoši dzīvot tikai no laupīšanām, ģermāņi uzsāka zemes apsaimniekošanu. Ģermāņu cilšu augstmaņi sagrāba iepriekšējo romiešu saimnieku pamestās [[villa]]s vai dalīja tās ar vēl palikušajiem iepriekšējiem saimniekiem.
+
+535. gadā [[Austrumromas impērija]]s ģenerālim [[Flāvijs Belizārijs|Flāvijam Belizārijam]] (505—565) izdevās Itāliju uz laiku atkarot, bet to noturēt vairs nebija iespējams. Kaujas ar ostgotiem visā kampaņas gaitā izcēlās ar īpašu nežēlību, liela Itālijas daļa tika pilnīgi izpostīta.
+Lielākā daļa Romas aristokrātijas aizbēga uz Konstantinopoli un Roma arvien vairāk slīga pilnīgā pamestībā, aizmirstībā un nabadzībā. 
+[[Ravenna]], pēdējā Rietumromas galvaspilsēta, 751. gadā krita [[Langobardi|langobardu]] rokās.
+
+Parasti tiek minēts, ka Romas impērija ģeogrāfiski bija izpletusies pārāk plaši līdz kļuva neiespējami to pārvaldīt, trūka arī resursu; izstiepto robežu aizsardzībai bija nepieciešama milzīga armija, kas prasīja ļoti lielus resursus; savukārt šo resursu mobilizēšanai nācās izveidot daudzskaitlīgu birokrātisko aparātu, kuru uzturēja arvien mazāks zemes apstrādātāju skaits; politiskās sāncensības rezultātā turpinājās [[Pilsoņu karš|pilsoņu kari]], kas iztukšoja valsts kasi, iznīcināja cilvēkus un noplicināja laukus. Augsts inflācijas līmenis samazināja naudas vērtību, bet tas spieda [[Naudas emisija|emitēt]] apgrozībā arvien lielākas naudas masas lai varētu apmaksāt armijas un administrācijas uzturēšanu. Rezultātā nauda arvien vairāk zaudēja uzticību, bet ekonomikas aktivitāte pasīka. Romas sabiedrība kļuva neelastīga, arvien vairāk iesūnojās, tā nokļuva [[Depresija (ekonomika)|ekonomiskās depresijas]] un birokrātiskas [[stagnācija]]s ciklā. Visus šos faktorus saasināja nebeidzams ienaidnieku spiediens uz impērijas robežām, kas prasīja arvien lielāku armiju un lielākus nodokļus. Līdz ar to Romas impērija bija nonākusi faktoru kopuma apburtajā lokā, no kura izkļūt tai tā arī neizdevās.
+
+== Iedzīvotāji ==
+=== Demogrāfija ===
+
+Dati par kopējo iedzīvotāju sastāvu Romas impērijas teritorijā ir nepilnīgi un ierobežoti, līdz ar to lielākā daļa no tiem ir tikai aptuveni vēsturnieku minējumi.<ref name="Adkins p379">{{grāmatas atsauce|title=Handbook to Life in Ancient Rome|url=https://archive.org/details/handbooktolifean00adki_393|first=Lesley|last=Adkins|first2=Roy A.|last2=Adkins|place=New York|edition=2.|publisher=Facts On File|year=2004|page=[https://archive.org/details/handbooktolifean00adki_393/page/n393 379]|isbn=0-8160-5026-0}}</ref> Neskatoties uz to atsevišķi pētnieki pieļauj, ka [[Anno Domini|mūsu ēra]]s 1. gadsimtā Romas impērijā varēja dzīvot ne mazāk kā 50 līdz 60 miljoni iedzīvotāju, kur lielākais pieļaujamais skaits tiek lēsts ap 100 miljoniem.<ref name="Adkins p379"/>
+
+Lai gan ir sagalabājušies [[vēstures avoti]], kas pierāda, ka atsevišķos gadījumos daļa no iedzīvotājiem spēja nodzīvot līdz sirmam vecumam, vidējais dzīves ilgums bija mazāks nekā mūsdienās — vidēji tikai 30 līdz 35 gadi.<ref name="Adkins p379"/><ref>{{tīmekļa atsauce|url=https://www.bbc.com/future/article/20181002-how-long-did-ancient-people-live-life-span-versus-longevity|title=Do we really live longer than our ancestors?|first=Amanda|last=Ruggeri|work=bbc.com|publisher=BBC|date=3 October 2018|accessdate=15 August 2020}}</ref> Liela daļa no kopējās populācijas mira jaunībā līdz 40 gadu vecumam, arī bērnu mirstība un sieviešu mirstība [[Dzemdības|dzemdībās]] bija salīdzinoši augsta.<ref name="Adkins p379"/>
+
+== Sekas ==
+
+[[Lielā tautu staigāšana|Lielās tautu staigāšanas]] laikā 6. gadsimtā Balkānos ieplūda [[slāvi]], bet 7. gadsimtā [[protobulgāri]].
+7. gadsimtā visu Vidusjūras austrumu un dienvidu piekrasti ieņēma [[arābi]], līdz 720. gadam [[berberi]] iekaroja Pirineju pussalu, bet 965. gadā arābi izveidoja [[Sicīlija]]s emirātu, kas pastāvēja līdz 1072. gadam. 9. gadsimtā Eiropas rietumos un ziemeļos sākās [[vikingu laikmets|vikingu sirojumi]]. Eiropas austrumu daļā iebruka [[avāri (senie)|avāri]], [[maģāri]] un [[mongoļi]]. 11. gadsimta [[Krusta kari|Krusta karu]] laikā kristiešiem gan izdevās atkarot [[Jeruzaleme|Jeruzalemi]], taču tā kā 1204. gadā krustneši nopostīja Konstantinopoli, [[osmaņu turki]] drīz vien sagrāba visu Mazāziju un Balkānu pussalu. 
+[[Rekonkista]]s laikā līdz 15. gadsimta beigām musulmaņi atkāpās no [[Ibērijas pussala]]s.
+
+== Skatīt arī ==
+{{Portāls|Vēsture}}
+* [[Romiešu tiesības]]
+* [[Senās Romas armija]]
+* [[Senās Romas imperatori]]
+* [[Senās Romas province]]
+* [[Verdzība Romas impērijā]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Senie laiki]]
+[[Kategorija:Senā Roma]]
+[[Kategorija:Eiropas vēsture]]
+[[Kategorija:Itālijas vēsture]]

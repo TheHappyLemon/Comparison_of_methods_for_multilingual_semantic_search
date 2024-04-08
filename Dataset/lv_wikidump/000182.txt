@@ -1,0 +1,316 @@
+{{Planētas infokaste
+| name         = Mēness
+| background   = #dddddd
+| symbol       = [[Attēls:Moon decrescent symbol (bold).svg|20px|alt=☾|Mēness simbols]]
+| image        = Full Moon Luc Viatour.jpg
+| caption      = Pilnmēness skatoties no Zemes
+| periapsis    = 363 104 km  (0,0024 [[astronomiskā vienība|AU]])
+| apoapsis     = 405 696 km  (0,0027 AU)
+| semimajor    = 384 399 km  (0,00257 AU<ref name="W06">{{Laikraksta atsauce | last = Wieczorek | first = M. | coauthors = et al. | title = The constitution and structure of the lunar interior | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 221–364 | year = 2006 | doi = 10.2138/rmg.2006.60.3}}</ref>)
+| eccentricity = 0,054&nbsp;9<ref name="W06"/>
+| period       = 27,321582 dienas<br />27 d 7 [[stunda|h]] 43,1 [[minūte|min]]<ref name="W06"/>
+| synodic_period = 29,530588 dienas
+| avg_speed    = 1,022 km/s
+| inclination  = 5,145° attiecībā pret [[ekliptika|ekliptiku]]<ref name="W06"/><br />(starp 18,29° un 28,58° attiecībā pret Zemes ekvatoru)
+| asc_node     = regressing by one [[Orbital revolution|revolution]] in 18.6 years
+| arg_peri     = progressing by one revolution in 8.85 years
+| satellite_of = [[Zeme]]s pavadonis
+| physical_characteristics = yes
+| flattening   = 0,00125
+| equatorial_radius = 1738,14 km (0,273 Zemes ekvatoriālie rādiusi)<ref name=NSSDC>{{Tīmekļa atsauce |last=Williams |first=Dr. David R. |title=Moon Fact Sheet |publisher=[[Nacionālā aeronautikas un kosmosa administrācija|NASA]] (National Space Science Data Center) |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html |date=2006-02-10 |accessdate =2008-12-31}}</ref>
+| polar_radius = 1 735,97 km (0,273 Zemes polārā rādiusa)<ref name=NSSDC/>
+| mean_radius  = 1 737,10 km (0,273 Zemes vidējā rādiusa)<ref name="W06"/><ref name=NSSDC/>
+| circumference = 10 921 km (ekvatoriālais)
+| surface_area = 3,793{{E|7}} km² (0,074 Zemes virsmas)
+| volume       = 2,1958{{E|10}} km³ (0,020 Zemes tilpuma)
+| mass         = 7,3477{{E|22}} kg (0,0123 Zemes masas<ref name="W06"/>)
+| density      = 3 346,4 kg/m³<ref name="W06"/>
+| surface_grav = 1,622 [[paātrinājums|m/s²]] (0,165 4 g)
+| escape_velocity = 2,38 km/s
+| sidereal_day = 27,321582 dienas ([[sinhtonizēta rotācija|sinhronizēta]])
+| rot_velocity = 4,627 m/s
+| axial_tilt   = 1,5424° (attiecībā pret [[ekliptika|ekliptiku]])<br />6,687° (attiecībā pret [[orbitālā plakne|orbitālo plakni]])
+| albedo       = 0,12
+| magnitude    = no −2,5 līdz −12,9<br />−12,74 (pilnmēness laikā)<ref name=NSSDC/>
+| angular_size = no 29,3 līdz 34,1 [[leņķa minūte|leņķa minūtēm]]<ref name=NSSDC/>
+| temp_name1   = ekvators
+| min_temp_1   = 100 [[kelvins|K]]
+| mean_temp_1  = 220 K
+| max_temp_1   = 390 K
+| temp_name2   = 85°N<ref name="Vasavada1999">{{Laikraksta atsauce |author=A.R. Vasavada, D.A. Paige, and S.E. Wood |journal=Icarus |title= Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits |volume=141 |pages=179 |yesr=1999 |url=http://adsabs.harvard.edu/abs/1999Icar..141..179V |doi= 10.1006/icar.1999.6175 |year= 1999}}</ref>
+| min_temp_2   = 70 K
+| mean_temp_2  = 130 K
+| max_temp_2   = 230 K
+| atmosphere   = yes
+| atmosphere_ref = <ref name="L06">{{Laikraksta atsauce | last = Lucey | first = P. | coauthors = et al. |title = Understanding the lunar surface and space-Moon interactions | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 83–219 | year = 2006 |doi = 10.2138/rmg.2006.60.2}}</ref><ref name="pressure explanation">Lucey et al. (2006) give 10<sup>7</sup> particles [[Cubic centimetre|cm<sup>−3</sup>]] by day and 10<sup>5</sup> particles cm<sup>−3</sup> by night. Along with equatorial surface temperatures of 390&nbsp;[[Kelvin|K]] by day and 100&nbsp;K by night, the [[ideal gas law]] yields the pressures given in the infobox (rounded to the nearest [[order of magnitude]]; 10<sup>-7</sup>&nbsp;[[Pascal (unit)|Pa]] by day and 10<sup>-10</sup>&nbsp;Pa by night.</ref>
+| surface_pressure = 10<sup>-7</sup> [[paskāls|Pa]] (dienā)<br />10<sup>-10</sup> [[paskāls|Pa]] (naktī)
+| surface_pressure1 = 2,25{{E|-12}} [[tors|tori]] <ref>"Moon." Encyclopædia Britannica. 2008. Encyclopædia Britannica Online. 10 Sep. 2008 <http://www.britannica.com/EBchecked/topic/391266/Moon>.</ref>
+| adjectives   = 
+}}
+'''Mēness''' ir [[Zeme]]s vienīgais [[dabiskais pavadonis]]. Kā sugas vārds ''mēness'' apzīmē [[debess ķermenis|debess ķermeni]], kas riņķo ap kādu [[zvaigzne|zvaigzni]] vai [[planēta|planētu]]. Mēness attālums līdz Zemei nav konstants, vidēji tas ir 384 400&nbsp;km. Mēness kustas ap Zemi pa nedaudz eliptisku orbītu. Tas apriņķo Zemi apmēram 28 dienās (precīzāk 27 dienās, 7 stundās un 43 minūtēs). Mēness ir Zemei tuvākais debess ķermenis, tas ir tikai 4 reizes mazāks par Zemi, tāpēc sistēmu Zeme-Mēness sauc arī par dubultplanētu. Mēness astronomiskais simbols ir [[Attēls:Moon decrescent symbol (fixed width).svg|16px|☾]].
+
+Mēness ir otrs spožākais debess spīdeklis pēc Saules, bet, atšķirībā no [[Saule]]s, tas pats gaismu neizstaro. Mēness atstarotā Saules gaisma ir labi redzama naksnīgajās debesīs. Zeme Mēnesi apgaismo daudzreiz vairāk nekā Mēness Zemi. Uz Mēness nav gaismas kontrastu, atmosfēras kontrastu un ēnas kontrastu. Mēness virsma no Zemes ir labi saskatāma, bet, nokļūstot uz Mēness, Zemes virsma ir saskatāma sliktāk, jo traucē [[atmosfēra]] un [[mākoņi]]. Tiesa, no Zemes var saskatīt tikai vienu Mēness pusi ([[librācija|librāciju]] dēļ ilgstošākā laika periodā var redzēt vairāk kā 50% Mēness virsmas), otra puse ir vienmēr vērsta projām no Zemes, un to var apskatīt tikai ar kosmisko aparātu starpniecību. Dažreiz Mēness neredzamo pusi dēvē par Mēness tumšo pusi — tas ir pilnīgi nepareizi, jo Saule, Mēnesim rotējot, apspīd visu tā virsmu.
+
+[[Nīls Ārmstrongs]] un [[Bazs Oldrins]] 1969. gadā kļuva par pirmajiem cilvēkiem, kas nolaidās uz Mēness.
+
+== Fizikālie parametri ==
+
+=== Salīdzinājums ar tuvākajām planētām ===
+{| class="wikitable"
+!Ķermenis
+!Diametrs (km)
+!Masa ( x 10<sup>24</sup> kg)
+!Vidējais blīvums (kg/m<sup>3</sup>)
+!Virsmas temperatūra (°C)
+|-
+| Mēness
+| 3475
+| 0,074
+| 3340
+| -170 līdz +130
+|-
+| [[Merkurs (planēta)|Merkurs]]
+| 4879
+| 0,330
+| 5440
+| -180 līdz +430
+|-
+| [[Venera (planēta)|Venera]]
+| 12104
+| 4,869
+| 5240
+| +470
+|-
+| [[Zeme]]
+| 12756
+| 5,974
+| 5515
+| +15
+|-
+| [[Marss (planēta)|Marss]]
+| 6794
+| 0,642
+| 3940
+| -60
+|}
+
+== Mēness klimats un uzbūve ==
+
+[[Attēls:Moon-craters.jpg|thumb|left|200px|Mēness krāteri.]]
+Uz Mēness nav [[ūdens]] tvaiku, [[gaiss|gaisa]], [[vējš|vēja]], [[nokrišņi|nokrišņu]], kā arī Mēnesim nav [[atmosfēra]]s, jo tā [[gravitācija]]s [[spēks]] ir pārāk mazs, lai noturētu gāzes [[molekula]]s. Tā kā uz Mēness nav [[atmosfēra]]s, tad cilvēkiem tā ir pavisam nepiemērota vide dzīvošanai. Uz Mēness nav iedomājama dzīve bez [[skafandrs|skafandriem]], jo cilvēka [[organisms]] nav piemērots dzīvošanai bez atmosfēras [[spiediens|spiediena]] un ar lielām [[temperatūra]]s izmaiņām. Arī pārvietošanās uz Mēness ir pavisam citāda nekā uz Zemes. Mēness cilvēka ķermeni pievelk ar 6 reizes mazāku gravitācijas spēku nekā uz Zemes, tāpēc tur visi cilvēki ir vieglāki, arī kosmonauti, kaut gan viņi valkā aptuveni 115&nbsp;kg smagus skafandrus. [[Atmosfēra]]s trūkuma dēļ Mēness nav pasargāts no spēcīgās [[Saule]]s staru iedarbības un no [[kosmoss|kosmosā]] klīstošiem lieliem un maziem [[meteorīts|meteorītiem]].
+
+Mēness virsmu klāj dažus centimetrus biezs tumšu putekļu slānis. Tas nosaka gan Mēness krāsu, gan [[albedo]]. Mēness virsmas īstā krāsa ir brūnpelēka, tā atstaro tikai 7% Saules un ir ļoti tumša. Tomēr, raugoties uz Mēnesi naktīs, tas liekas spožs un sudrabains. Grunts paraugi, kas tika atvesti no Mēness uz Zemi, pierādīja, ka Mēness sastāv no tiem pašiem ķīmiskajiem elementiem, no kā sastāv Zeme. Mēness griežas diezgan lēni, jo [[diena]] uz Mēness ilgst divas nedēļas, bet nakts otras divas nedēļas. Neskatoties uz to, ka Mēness pagriež pret Sauli te vienu, te otru pusi, šajā laikā Mēness virsma pagūst gan sakarst, gan atdzist. Dienā uz Mēness ir ļoti karsts, bet naktī gluži pretēji – ļoti auksts. Temperatūra uz ekvatora svārstās vidēji no +130 °C dienā līdz -170 °C naktī. Mēness virsmai ir slikta siltumvadītspēja, tāpēc tā virsmas slānī Saules [[siltums]] neuzglabājas. Dažu centimetru dziļumā temperatūras [[svārstības]] nav tik lielas kā virspusē arī tāpēc, ka Mēness [[ieži|iežu]] ārējais slānis, ko sauc par regolītu, ir porains un tāpēc darbojas kā labs siltumizolators. Viena metra dziļumā temperatūra uz Mēness ir nemainīga, aptuveni -50 °C. Izņēmumi ir tikai daži ieži, kuru lielās īpatnējās siltumietilpības dēļ siltums saglabājas ilgāk. Viskarstākais ir Mēness ekvatoriālais rajons.
+
+== Novērojumi un ietekme uz Zemi ==
+=== Mēness kustība un fāzes ===
+
+Mēness, tāpat kā Saule, pārvietojas pa [[Zodiaka zvaigznājs|zodiaka zvaigznājiem]] no labās uz kreiso pusi (no rietumiem uz austrumiem), tikai ātrāk. [[Gravitācija]]s spēku iedarbībā tas riņķo apkārt Zemei un pilnu apriņķojumu veic 27,3 dienās (27 dienas un 8 stundas). Mēness, riņķodams ap Zemi, kopā ar to pārvietojas ap Sauli un gada laikā veic vienu pilnu apriņķojumu. Mēness [[orbīta]], tāpat kā citiem [[Saules sistēma]]s ķermeņiem, ir līdzīga nedaudz saspiestam riņķim – [[elipse]]i –, tāpēc attālums līdz Mēnesim ir mainīgs. Tas griežas ap savu asi un pilnu riņķojumu izdara 27,3 dienās, tāpēc pret Zemi pavērsta viena un tā pati Mēness puse, otra nav redzama.  Saule apgaismo tikai vienu Mēness pusi, bet otra paliek ēnā, tādēļ Mēness redzamais izskats ir atkarīgs no tā, no kuras puses spīd Saule, kad mēs uz to skatāmies. Mēness ir otrs spožākais spīdeklis pie debess pēc [[Saule]]s, tikai atšķirība ir tāda, ka tas pats gaismu neizstaro. Tas ir redzams, jo to apspīd [[Saule]]. Nakts debesīs būtu vajadzīgi apmēram 500 000 pilnmēnešu, lai to gaisma līdzinātos Saules gaismai. No Mēness nākošā [[Mēness gaisma|gaisma]] vislabāk ir saskatāma ārpus pilsētas, jo pilsētās ir pārāk spēcīgs apgaismojums.
+
+[[Attēls:Earth-Moon2.jpg|thumb|770px|left|Mēness attālums no Zemes, pilnā izmēra attēlā katrs pikselis atbilst 100 kilometriem]]
+
+Mēness fāzes ir: jaunmēness, pirmais ceturksnis, pilnmēness un pēdējais ceturksnis. Tā fāzes mainās, jo Saule apspīd tikai vienu tā pusi un, Mēnesim riņķojot ap Zemi, tā redzamā un neredzamā puse redzama dažādās proporcijās.
+
+=== Mēness fāzes ===
+{{pamatraksts|Mēness fāze}}
+<gallery>
+Attēls:Moon phase 0.png|Jauns mēness
+Attēls:Moon phase 1.png|Augošs mēness
+Attēls:Moon phase 2.png|Augošs mēness (pirmais ceturksnis)
+Attēls:Moon phase 3.png|Augošs mēness
+Attēls:Moon phase 4.png|Pilnmēness
+Attēls:Moon phase 5.png|Dilstošs mēness
+Attēls:Moon phase 6.png|Dilstošs mēness (pēdējais ceturksnis)
+Attēls:Moon phase 7.png|Dilstošs mēness 
+</gallery>
+
+Mēness fāzes un to apraksts:
+
+{| class="wikitable"
+|-
+!Fāze
+!Raksturojums
+!Mēness vecums, d
+|-
+|Jaunmēness
+|Mēness fāze, kurā Mēness atrodas starp Sauli un Zemi. Tad pret Zemi vērsta Mēness neapgaismotā puse un Saules apgaismotā Mēness daļa nav redzama.
+|7,4
+|-
+|Pirmais ceturksnis
+|Mēness fāze, kurā Saules apgaismotā Mēness daļa redzama kā pusaplis ar izliekumu uz labo pusi (uz Saules pusi). Nākamajās dienās Mēness fāze turpina augt.
+|14,8
+|-
+|Augošs Mēness
+|No jaunmēness līdz pilnmēness fāzei Mēnesi sauc par augošu.
+|
+|-
+|Pilnmēness
+|Mēness fāze, kurā Mēness atrodas aiz Zemes un Saule pilnībā apgaismo visu Mēness redzamo daļu.
+|22,2
+|-
+|Pēdējais ceturksnis
+|Mēness fāze, kurā Saules apgaismotā Mēness daļa redzama kā pusaplis ar izliekumu uz kreiso pusi. Pēc šīs fāzes atkal iestājas jaunmēness.
+|29,5
+|-
+|Dilstošs Mēness
+|No pilnmēness fāzes līdz jaunmēness fāzei Mēnesi sauc par dilstošu.
+|
+|}
+
+=== Paisums un bēgums ===
+
+Mēness gravitācijas spēks izraisa Zemes [[okeāns|okeānos]] [[bēgums|bēgumus]] un [[paisums|paisumus]]. Zemes [[ūdens]] apvalks izstiepjas Mēness virzienā. Uz līnijas, kas iet caur Zemes centru un Mēnesi, ir paisums – okeānos un [[jūra|jūrās]] ceļas ūdens līmenis. Perpendikulāri šim virzienam [[ūdens]] līmenis pazeminās, jo no turienes Mēness pievilkšanās spēks aizvelk ūdeni prom. Dažās vietās uz Zemes ūdens līmenis paceļas līdz pat 18 metriem. Tad paisuma vilnis iet atpakaļ un nāk bēgums. Paisumu un bēgumu parādības ietekmē kontinentu izraisītā berze, sarežģītā krastu līnija, okeānu dibenu profils. Iekšējās jūrās, piemēram, Baltijas jūrā, paisums ir tik niecīgs, ka to nemaz neievēro. Ir [[osta]]s, kurās kuģu ieiešana un iziešana stingri pakļaujas paisumam un bēgumam. Zeme, rotējot ap savu asi, tiecas pagriezt sev līdzi arī paisuma vilni. Zeme ap savu asi rotē ātrāk nekā Mēness ap Zemi. Rodas paisuma berze, kas bremzē Zemes diennakts [[rotācija|rotāciju]] un pagarina Zemes [[diennakts|diennakti]]. Zemes diennakts pagarināšanās notiek ļoti lēni, simts gados diennakts kļūst garāka tikai par 0,001 sekundi. Paisuma spēki izraisa arī pārmaiņas Mēness cietajos iežos. Paisuma viļņi spēj saārdīt gabalos pat [[asteroīds|asteroīdus]] un planētu pavadoņus. Tā var notikt tikai ar nelielas masas debess ķermeņiem, kam iekšējie gravitācijas spēki ir pārāk mazi.
+
+=== Aptumsums ===
+{{main|Mēness aptumsums}}
+[[Attēls:Jurvetson - Earthshine (by).jpg|150px|thumb|Mēness aptumsums]]
+Mēness [[aptumsums]] ir samērā reta, neparasta parādība, kas visos laikos piesaistījusi pastiprinātu uzmanību. Mēness aptumsums notiek tikai tad, kad visi trīs debess ķermeņi – [[Zeme]], Mēness un [[Saule]] – atrodas tieši vai gandrīz uz vienas līnijas. [[Saule]]s aptumsums notiek tad, kad Mēness atrodas starp Zemi un Sauli un aizsedz Saules disku, tas nozīmē, ka Saules aptumsums iespējams tikai jaunmēness fāzēs. Aptumsumi nenotiek katrā jaunā Mēnesī, jo Mēness orbīta attiecībā pret Zemi ir slīpa.
+
+Saules aptumsums var būt pilns, gredzenveida vai daļējs. Pilnais Saules aptumsums vienlaikus redzams tur, kur Mēness [[ēna]] skar Zemes virsmu, izveidojot lielu, ovālu plankumu. Zemei griežoties, Mēness ēnas plankums pārvietojas pa Zemes virsmu, izveidojot garu joslu. Ārpus pilnā aptumsuma joslas tur, kur uz Zemi krīt Mēness pusēna, novērojams tikai daļējs Saules aptumsums.
+
+Daļējā aptumsuma josla ir platāka par pilno joslu, bet tomēr Saules aptumsums novērojams tikai noteiktā Zemes apgabalā.
+Noteiktā pilnā Saules aptumsuma gaita ir šāda: Mēness, kas nav saskatāms, lēni virzās virsū Saulei no labās uz kreiso pusi, kamēr pieskaras Saules diskam un sākas daļējais aptumsums. Tad uz spožā Saules diska parādās tumša lokveida ēna, tas aug aizvien lielāka, tomēr Saules gaismas pavājināšanās kļūst jūtama tikai tad, kad Saule izskatās kā šaurs sirpis, tad seko pilnais Saules aptumsums, kura laikā kļūst tumšs un ir redzamas spožākās [[zvaigzne]]s un [[planēta]]s. Pamale kļūst sārta, bet ārpus Mēness ēnas joprojām spīd Saule. Saule nepazūd pilnībā. Apkārt melnajam Mēness diskam redzams rožains aplis, kas ir Saules atmosfēra. Pilnā Saules aptumsuma vidējais ilgums ir 2–3 minūtes. Pilnajai fāzei beidzoties, sāk iemirdzēties pirmie Saules stari un atkal kļūst gaišs. Mēness tad pakāpeniski noiet no Saules diska, līdz beidzot pazūd arī pēdējā lokveida ēna, tad aptumsums ir beidzies. Ja Mēness atrodas [[apogejs|apogeja]] tuvumā, tad tā leņķiskais diametrs ir nepietiekams, lai pilnībā nosegtu Saules disku, tāpēc ir novērojams gredzenveida Saules aptumsums. Šī aptumsuma gaita ir tāda pati kā pilnam Saules aptumsumam, vienīgi maksimālās fāzes laikā Saule redzama kā spožs gredzens. Reizēm mēdz gadīties, ka Mēness ēna atrodas Zemes tuvumā, bet tomēr neskar tās virsmu, tad uz Zemes vērojams daļējs Saules aptumsums, kam pilnās fāzes nav.
+
+Mēness aptumsums notiek tad, kad Zeme atrodas starp Sauli un Mēnesi un Mēness ieiet Zemes ēnā. Mēness aptumsums ir iespējams pilnmēness fāzē, taču aptumsums nenotiek katrā pilnā Mēnesī. Izšķir pusēnas, daļēju un pilnu Mēness aptumsumu atkarībā no tā, kurai Zemes ēnas daļai Mēness iet cauri. Ja Mēness ieiet tikai Zemes pusēnā, tad notiek tikai pusēnas Mēness aptumsums, kura laikā Mēness spožums gandrīz nemaz nesamazinās. Ja Mēness daļēji ieiet [[Zeme]]s ēnā, tad redzams daļējs Mēness aptumsums, bet, ja Mēness ieiet pilnībā Zemes ēnā, tad novērojams pilns Mēness aptumsums.
+
+Aptumsuma veidi:
+
+{| class="wikitable"
+|-
+!Aptumsuma tips
+!Aptumsuma veids
+!Raksturojums
+!Saules vai Mēness izskats
+|-
+|
+|Daļējs
+|Mēness daļēji aizsedz Sauli
+|Saules diskā redzama melna lokveida ēna
+|-
+|Saules
+|Gredzenveida
+|Mēness aizsedz Sauli, taču tā ēnas konuss nesniedzas līdz Zemes virsmai
+|Saule izskatās kā spožsgredzens
+|-
+|
+|Pilns
+|Mēness pilnīgi aizsedz Sauli
+|Melns aplis, ko apņem rozā vainags
+|-
+|
+|Pusēnas
+|Mēness atrodas Zemes pusēnā
+|Manāms neliels Mēness diska aptumsums
+|-
+|Mēness
+|Daļējs
+|Mēness daļēji atrodas Zemes ēnā
+|Mēness diskā redzama melna lokveida ēna
+|-
+|
+|Pilns
+|Mēness pilnīgi atrodas Zemes ēnā
+|Mēness disks sarkans un košs
+|}
+
+Aptumsumu kalendārs no 2004. gada līdz 2005. gadam.
+
+{| class="wikitable"
+|-
+!Datums
+!Aptumsumu tips
+!Redzamības apgabals
+!Redzmība Latvijā
+|-
+|19.04.2004
+|Daļējs Saules aptumsums
+|Atlantijas okeāna dienvidu daļa, Āfrikas dienvidu daļa
+|   -
+|-
+|04.05.2004
+|Pilns Mēness aptumsums
+|Eiropa, Āfrika, Austrālija, Āzija
+| +
+|-
+|14.10.2004
+|Daļējs Saules aptumsums
+|Japāna, Āzijas ziemeļaustrumu daļa, Klusā okeāna ziemeļu daļa
+| -
+|-
+|28.10.2004
+|Pilns Mēness aptumsums
+|Ziemeļamerika, Dienvidamerika, Eiropa, Āfrika
+| +
+|-
+|08.04.2005
+|Gredzenveida-pilns Saules aptumsums
+|Klusā okeāna dienvidrietumu daļa, Panama,
+Kolumbija, Venecuēla
+|   -
+|-
+|24.04.2005
+|Pusēnas Mēness aptumsums
+|Austrālija, Klusais okeāns
+| -
+|-
+|03.10.2005
+|Gredzenveida Saules aptumsums
+|Atlantijas okeāna ziemeļu daļa,
+Spānija, Āfrika, Indijas okeāns, Eiropa
+| +
+|-
+|17.10.2005
+|Daļējs Mēness aptumsums
+|Āzijas austrumu daļa, Austrālija,
+Klusais okeāns, Ziemeļamerikas rietumu daļa
+| -
+|}
+
+== Mēness rašanās teorija ==
+
+Izpētot no Mēness vestos [[grunts]] paraugus, tika secināts, ka to vecums ir tāds pats kā [[Zeme]]i, tādēļ var secināt, ka Mēness radies aptuveni tad pat, kad Zeme. Par Mēness izcelšanos pastāv vairākas teorijas.
+* Pirms 4,5 miljardiem gadu Zeme sadūrās ar kādu lielu debess ķermeni un tā rezultātā izveidojušies gabali savākušies uz orbītas ap Zemi. Pēc tam tie nepārtraukti sadūrušies, drupinājušies un izveidojusies auksta masa, kura ar laiku sablīvējusies, līdz beigās kļuvusi par Mēnesi. Tagad Mēnesim ir garoza, bet nav šķidra kodola un magnētiskā lauka, savukārt tā ģeoloģiskā attīstība beigusies pirms vairākiem miljardiem gadu.
+* Zemei garām lidojis kāda debess ķermenis, kuru piesaistījusi Zemes gravitācija.
+* Mēness ir veidojies vienlaikus ar Zemi, sablīvējoties putekļu un gāzu [[mākoņi]]em.
+* Mēness ir no [[zemeslode]]s atdalījies fragments.
+
+== Mēness izpēte ==
+
+[[Attēls:Aldrin Apollo 11.jpg|200px|thumb|[[Bazs Oldrins]] uz mēness virsmas]]
+Mēness ir pats piemērotākais apskates objekts gan lielā, gan mazā [[teleskops|teleskopā]]. Mēness dažādās detaļas var pat saskatīt caur [[binoklis|binokli]], bet tam ir vajadzīgs ilgs laiks. Pilnā Mēness fāzē tas ir spožāks, tāpēc uz to ir jāskatās caur speciālu, pelēku filtru.
+
+1957. gada 4. oktobrī [[Padomju Savienība|PSRS]] palaida kosmosā pirmo [[Zemes mākslīgais pavadonis|Zemes mākslīgo pavadoni]] – [[Sputnik-1]]. Tas uz Zemi raidīja regulārus radiosignālus – pīkstienus. Pēc mēneša pirmajam pavadonim sekoja otrais – [[Sputnik-2]]. Ar Sputņik-2 orbītā devās pirmā dzīvā būtne – suns Laika. 1958. gadā PSRS palaida [[kosmoss|kosmosā]] jau trešo pavadoni, kura masa jau sasniedza 1,3 tonnas. 1958. gada 31. janvārī amerikāņi palaida savu pirmo pavadoni kosmosā, kura nosaukums bija [[Explorer 1]], tā masa bija tikai 5 kilogrami, bet ar tā palīdzību tikai veikti nozīmīgi atklājumi. Panākumu iedvesmoti, amerikāņi 1958. gadā mēģināja palaist pirmo zondi uz Mēnesi, bet panākumus pirmā guva PSRS. 1959. gadā 2. janvārī palaida pirmo zondi - [[Luna-1]], kas Mēnesim palidoja garām 5000&nbsp;km attālumā. Tai sekoja [[Luna-2]], kas 1959. gada septembrī beidzot sasniedza Mēness virsmu, precīzāk, ietriecās tajā. Ar šīs zondes palīdzību tika noskaidrots, ka Mēnesim nav magnētiskā lauka un radiācijas joslu. Līdz pat 1959. gadam Mēness redzamo virsmu nebija iespējams aplūkot. 1959. gada oktobrī ar starpplanētu stacijas [[Luna 3|Luna]] [[Luna 3|3]] palīdzību tika veikti pirmie Mēness neredzamās puses fotoattēli. No 1959. gada sākās aktīva Mēness izpēte, un 17 gadu laikā uz Mēnesi tika palaisti apmēram 50 dažādu tipu starpplanētu staciju, kurām bija dažāda nozīme, jo dažas no tām fotografēja tā virsmu un veica dažādus mērījumus uz tā, bet dažas mēģināja kļūt par tā pavadoņiem.
+
+1966. gadā PSRS starpplanētu stacija [[Luna 9]] pirmo reizi lēni nosēdās uz Mēness, taču tajā pašā gadā ASV sāka realizēt programmu [[Apollo programma|Apollo]], kuras galvenais mērķis bija nogādāt uz Mēness cilvēku. 1968. gada oktobrī kosmosā devās pirmais pilotējamais kuģis [[Apollo 7]]. Amerikāņi šim notikumam gatavojās ļoti ilgi un uzmanīgi, iepriekš sūtot 3 kosmosa kuģus, kuri nenolaidās uz tā.
+
+1969. gada 21. jūlijā uz Mēness nolaidās [[Amerikas Savienotās Valstis|ASV]] kosmosa kuģis [[Apollo 11]]. Amerikāņu astronauts [[Nīls Ārmstrongs]] bija pirmais cilvēks, kas spēris kāju uz Mēness. Viņam pievienojās arī [[Bazs Oldrins]]. Viņi kopā uzstādīja dažādas zinātniskas iekārtas, savāca Mēness [[ieži|iežu]] paraugus, fotografēja tā apkārtni un pārraidīja [[televīzija]]s reportāžu. Viņi uz Mēness pavadīja veselu diennakti un tad devās atpakaļ uz Zemi. Viņi veica nozīmīgu darbu gan zinātnei, gan tehnikai. Viņiem ar kosmosa kuģi bija jāveic sarežģīts ceļš, jo bija jāveic dažādi sarežģīti manevri un darbam uz Mēness bija nepieciešami izturīgi skafandri. Nākamajos gados vēl tika veiktas 5 veiksmīgas ekspedīcijas uz Mēnesi. Līdz 1972. gadam uz Mēness bija pabijuši jau 12 cilvēki. Katra lidojuma laikā ekspedīcijā piedalījās trīs cilvēki, bet drošības apsvērumu dēļ uz Mēness varēja izkāpt tikai divi no tiem, bet trešajam nācās palikt kosmosa kuģī Apollo, kas riņķoja apkārt Mēnesim. Pēdējo ekspedīciju uzturēšanās laiks ilga līdz pat trim diennaktīm,kuru laikā astronauti veica nozīmīgus zinātniskus pētījumus.
+
+Vienīgā neveiksmīgā ekspedīcija uz Mēnesi bija [[Apollo 13]] avārija. Tam ceļā uz Mēnesi sprāga [[skābeklis|skābekļa]] balons, kā rezultātā sabojājās orbitālā bloka elektropiegāde. Astronautiem nācās pāriet uz ekspedīcijas bloku, un viņi ar pūlēm atgriezās uz Zemes. Pēc 1976. gada izpēte uz Mēness ar kosmiskajiem aparātiem izsīka. Neraugoties uz to, ka Mēness ir sastingusi pasaule, arī uz tā pa reizei notiek kādas izmaiņas, paretam kāds no novērotājiem ziņo, ka kādam no [[krāteris|krāteriem]] mainījusies krāsa vai spožums.
+
+Līdz 2019. gadam ASV, PSRS, Japāna, Eiropas Savienība, Ķīna un Indija nosūtīja savus kosmiskos kuģus uz Mēnesi. 2019. gadā [[Indijas Kosmosa pētījumu organizācija]] (ISRO) nosūtīja "Čandrajāna 2" (''Chandrayaan 2'') kosmisko aparātu uz Mēness dienvidpolu, kurā atrodami sasaluša ūdens krājumi.<ref>[https://www.lsm.lv/raksts/dzive--stils/tehnologijas-un-zinatne/indijas-kosmiska-zonde-sasniegusi-menesi.a331168/ Indijas kosmiskā zonde sasniegusi Mēnesi] lsm.lv 2019. gada 6. septembrī</ref> 
+Arī [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] plāno veikt Artemīdas misiju (''Artemis mission'') uz Mēness dienvidpolu 2024. gadā.<ref>[https://www.hindustantimes.com/india-news/chandrayaan-2-moon-landing-15-minutes-of-terror-await/story-q1dkjNSdyOrU8SyUhosGeI.html?utm_source=browser_notifications&utm_medium=Browser&utm_campaign=notification ‘Lot of anxiety’, says ISRO chief on Chandrayaan 2 Moon landing tonight] hindustantimes.com  September 6, 2019 {{angliski}}</ref>
+
+== Nākotne ==
+
+Šobrīd Mēness attālinās no [[Zeme]]s vidēji par 4 [[Centimetrs|cm]] gadā, kas nozīmē, ka šādā tempā tas varētu izbēgt no Zemes [[Gravitācija|pievilkšanas spēka]] un kļūt par atsevišķu [[Saules sistēma]]s [[Planēta|planētu]] pēc aptuveni 5 miljardiem gadu.<ref>{{tīmekļa atsauce|url=https://futurism.com/moon-could-escape-earths-orbit-ploonets|title=Our Moon Could Escape Earth’s Orbit and Become a “Ploonet”|work=futurism.com|publisher=|first=Kristin|last=Houser|date=10 July 2019|accessdate=18 September 2019|archiveurl=https://web.archive.org/web/20190909105204/https://futurism.com/moon-could-escape-earths-orbit-ploonets|archivedate={{dat|2019|09|09||bez}}}}</ref>
+
+== Papildliteratūra ==
+
+* Ilgonis Vilks, „Astronomija vidusskolai”, apgāds „Zvaigzne ABC”, 1996. gads.
+* www.astro.lv
+* Ilgonis Vilks, „Zvaigžņotās debess ceļvedis”, apgāds „Zvaigzne ABC”, 1995. gads.
+* https://web.archive.org/web/20120814171207/http://www.liis.lv/astro/teksts/meness/mgaisma.html
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Saules sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mēness| ]]
+[[Kategorija:Planētu pavadoņi]]
+[[Kategorija:Zeme]]

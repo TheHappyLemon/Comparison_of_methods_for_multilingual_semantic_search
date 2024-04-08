@@ -1,0 +1,24 @@
+[[Attēls:A-line1913.jpg|thumb|right|1913. gada [[Ford T]] modeļa ražošana uz konveijera lentes]]
+
+'''Rūpnieciskā inženierija ''' ir [[inženierija]]s disciplīna, kas nodarbojas ar integrētas cilvēku, zināšanu aprīkojuma, [[enerģija]]s, materiālu un procesu sistēmas [[Dizains|dizainu]], izstrādāšanu, uzlabošanu, pielāgošanu un izvērtēšanu. Rūpnieciskā inženierija izmanto zināšanas [[Matemātika|matemātikā]], [[Fizika|fizikā]] un [[sociālās zinātnes|sociālajās zinātnēs]]. Rūpnieciskie inženieri nodarbojas ar laika, naudas, materiālu, enerģijas un citu resursu izmantošanas optimizēšanu. Termins rūpnieciskā inženierija var būt maldinošs. Šis termins attiecas ne tikai uz pielietojumu ražošanā, bet arī iekļauj sevī pielietojumu servisu produktos un citās nozarēs.
+
+== Rūpniecības inženierijas apskatāmās tēmas ==
+=== Vērtības inženierija ===
+Vērtības inženierija balstās un jebkura sarežģīta produkta plānošanu. Pamatā ir fakts, ka 80% patērētāju vajag tikai 20% ierīces funkciju. Koncentrējoties un produkta attīstību, ražotājs var izstrādāt kvalitatīvāku produktu par zemāku cenu lielākajai daļai tirgus. Ja pircējam vajag vairāk funkciju, tās jāpiedāvā kā papildu iespējas. Šī pieeja ir vērtīga sarežģītos elektromehāniskos produktos, piemēram, [[Printeris|datora printeri]], kur printera dizaina izstrāde veido izgatavošanas izmaksu lielāko daļu.
+
+=== Kvalitātes kontrole ===
+Kvalitātes kontrole ir mēri, kas pieņemti, lai nodrošinātu, ka netiek ražoti produkti vai servisi ar defektiem, un ka dizains atbilst veiktspējas prasībām. Tā ir ābeces patiesība, ka “kvalitāte ir par brīvu”. Ļoti bieži tas nemaksā vairāk, kā ražot produktu, kurš vienmēr darbojas, kad tiek noņemts no konveijera. Lai arī tas prasa nopietnus pūliņus dizaina izstādes laikā, tas ievērojami samazina nelietderīgi izmantoto resursu daudzumu.
+
+=== Ražīgums ===
+Diezgan bieži ražotajiem produktiem ir nevajadzīgi sīkumi vai daļas. Vienkārša dizaina maiņa var ļaut ražotājam atteikties no šīm nevajadzīgajām daļām, samazinot izmaksas, palielinot uzticamību un peļņu. Piemēram, krievu [[šķidrā raķešdegviela|šķidrās degvielas]] [[Raķešdzinējs|raķešu dzinēji]] ir veidoti tā, lai pieļautu rupju (tomēr netekošu) metinājumu, kas padara nevajadzīgu slīpēšanu un sīkas darba pabeigšanas operācijas, kuras nekā neuzlabo dzinēja darbību.
+
+=== Darba ekonomika ===
+Rūpnieciskie inženieri arī pēta, kā darbinieki veic savu darbu, piemēram, darbinieks paņem elektrisko detaļu, lai to piestiprinātu elektriskajā sistēmā, vai kādā secībā sastāvdaļas tiek saliktas kopā elektriskajā sistēmā. Mērķis ir samazināt laiku, ko aizņem konkrētais darbs un organizēt darbu tā, lai darba veikšanai vajadzētu pēc iespējas mazāk strādnieku. Piemēram, gadsimta sākumā automašīnu ražotājs ''[[Ford]]'' ieviesa konveijera lenti, kas ļoti samazināja vienas automašīnas izgatavošanas laiku.
+
+== Atsauces ==
+{{atsauces+}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tehniskās zinātnes]]
+[[Kategorija:Apstrādes rūpniecība|Inženierija]]

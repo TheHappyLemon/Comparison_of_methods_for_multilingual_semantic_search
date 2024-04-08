@@ -1,0 +1,73 @@
+{{Organizācijas infokaste
+|name         = Eiropas Komisija
+|bgcolor      = <!-- header background color -->
+|fgcolor      = <!-- header text color -->
+|image        = Logo of the European Commission (lv).svg
+|image_border = 
+|size         = 200px
+|alt          = <!-- alt text; see [[WP:ALT]] -->
+|caption      = 
+|map          = <!-- optional -->
+|msize        = <!-- map size, optional, default 200px -->
+|malt         = <!-- map alt text -->
+|mcaption     = <!-- optional -->
+|abbreviation = EK (agrāk - EKK)
+|motto        = 
+|formation    = 1958
+|extinction   = <!-- date of extinction, optional -->
+|type         = [[Eiropas Savienība]]s institūcija
+|status       = <!-- ad hoc, treaty, foundation, etc -->
+|purpose      = ES izpildvara
+|headquarters = [[Brisele]], [[Beļģija]]
+|location     = [[Brisele]], [[Beļģija]]<br>[[Luksemburga (pilsēta)]], [[Luksemburga]]
+|coords       = <!-- Coordinates of location using a coordinates template -->
+|region_served = Eiropas Savienība
+|membership   = 
+|language     = angļu, franču, vācu (kā darba valodas)
+|leader_title = [[EK prezidents]]
+|leader_name  = [[Urzula fon der Laiena]]
+|main_organ   = 
+|parent_organization = <!-- if one -->
+|affiliations = 
+|num_staff    = ap 23 000
+|num_volunteers = 
+|budget       = 
+|website      = [http://ec.europa.eu/ Eiropas Komisija]
+|remarks      =
+|}}
+[[File:Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg|thumb|240px|Eiropas Komisija (Brisele)]]
+[[Attēls:Ordinary legislative procedure majorityrules.svg|thumb|240px|Eiropas Komisijas loma lēmumu pieņemšanas procesā]]
+'''Eiropas Komisija''' (saīsinājumā '''EK''', agrāk formāli '''Eiropas Kopienu Komisija''' ('''EKK''')) ir [[Eiropas Savienība]]s (ES) [[izpildvara]], lielākā no ES institūcijām.<ref name=ab>"[https://enciklopedija.lv/skirklis/143660-Eiropas-Komisija Eiropas Komisija]". [[Nacionālā enciklopēdija]]. (skatīts 03.10.2023)</ref> Tai ir tiesības ierosināt jaunus likumprojektus un citus normatīvos aktus. Komisija sastāv no 28 komisāriem, no kuriem viens ir [[Europas Komisijas prezidents]] (kopš 2019. gada 1. decembra [[Urzula fon der Laiena]] no [[Vācija]]s). Komisārus nominē dalībvalstis (pa vienam no katras ES dalībvalsts) uz pieciem gadiem.
+
+Komisiju apstiprina [[Eiropas Parlaments]]. Tas var atlaist Komisiju, izsakot tai neuzticību. Komisijas prezidentam ar pārējo komisāru piekrišanu ir arī tiesības pieprasīt atsevišķu komisijas locekļu atkāpšanos no amata.<ref name=europa />
+
+Terminu "Eiropas Komisija" mēdz lietot divējādi. Šaurākā izpratnē to attiecina uz 28 Komisijas locekļiem, kas darbojas kā ministru kabinets. Bet plašākā nozīmē šo nosaukumu attiecina uz komisāru pārraudzībā esošo administratīvo aparātu, kura dažādās struktūrās strādā ap 23 000 darbinieku.<ref>[http://ec.europa.eu/about/index_en.htm EC.europa.eu]</ref>
+
+== Urzulas fon der Leienas komisija ==
+{{Pamatraksts|Urzulas fon der Leienas komisija}}
+2019. gada 16. jūlijā [[Eiropas Parlaments]] ar balsu vairākumu (383 par, 327 pret) par Eiropas Komisijas prezidenti ievēlēja [[Urzula fon der Leiene|Urzulu fon der Leieni]]. 
+10. septembrī viņa iepazīstināja ar piedāvājumu nākamajam EK komisāru kolēģijas sastāvam pilnvaru termiņam no 2019. līdz 2024. gadam.<ref>[https://www.lsm.lv/raksts/zinas/arzemes/kada-bus-jauna-eiropas-komisija-portfelu-sadalijums.a331530/?utm_source=email+marketing+Mailigen&utm_campaign=Ir+Svar%C4%ABg%C4%81kais+11.09.2019.&utm_medium=email Kāda būs jaunā Eiropas Komisija? Portfeļu sadalījums] lsm.lv 2019. gada 10. septembrī</ref>
+
+== Komisijas darbs ==
+Komisāri nepārstāv savas valstis, bet visas Savienības iedzīvotāju kopīgās intereses. Komisāri nedrīkst prasīt vai saņemt jebkādas vadlīnijas no savām valdībām vai citām nacionālām institūcijām, un dalībvalstīm savukārt ir jārespektē Komisijas locekļu neatkarība. Katrs komisārs ir atbildīgs par vairākām jomām, kā arī par vienu vai vairākām no Komisijas „ministrijām”, ko sauc par ģenerāldirektorātiem. Katrs komisārs uzņemas atbildību par kādu nozari, un vada atbilstošo departamentu, kas ir daļa no administratīvas struktūras ar vairākiem tūkstošiem ierēdņu (pavisam kopā nodarbināti ap 23 000 darbinieku - ierēdņi, sekretāri un tulki).<ref>{{tīmekļa atsauce|url=http://ec.europa.eu/dgs_en.htm|title=Departments (Directorates-General) and services|author=European Commission}}</ref><ref>{{tīmekļa atsauce|url=http://ec.europa.eu/about/index_en.htm|title=About the European Commission|author=European Commission}}</ref>
+
+Komisijas uzdevums ir ierosināt jaunus likumprojektus un citus normatīvos aktus, kā arī:
+* līdzdalība un pārrunas visos normatīvo aktu pieņemšanas posmos;
+* ES [[finanses|finansu]] administrēšana;
+* strukturālo fondu uzraudzība;
+* sekot līdzi ES likumu pareizai piemērošanai un reaģēt likumu pārkāpšanas gadījumos;
+* vest sarunas ar citām valstīm vai starptautiskām organizācijām ES vārdā; u.c. uzdevumi.
+
+Komisija aizstāv Eiropas Savienības kā vienota veseluma intereses.<ref name=europa>{{Tīmekļa atsauce | url = http://europa.eu/institutions/inst/comm/index_lv.htm | title = {{lv ikona}} Eiropas Komisija | publisher = europa.eu | accessdate = 2009. gada 13. februārī | archiveurl = https://web.archive.org/web/20090223001129/http://europa.eu/institutions/inst/comm/index_lv.htm | archivedate = {{dat|2009|02|23||bez}} }}</ref> Institūcija ir atbildīga par likumdošanas piedāvājumiem, [[Eiropas Parlaments|Eiropas Parlamenta]] un [[Eiropas Padome|Padomes]] lēmumu īstenošanu, Savienības līgumu atbalstīšanu un par Savienības ikdienas darbu.<ref name="Europa Institutions">{{Tīmekļa atsauce|title={{en ikona}} Institutions of the EU: The European Commission|publisher=Europa (web portal)|url=http://europa.eu/institutions/inst/comm/index_en.htm|accessdate=2007-06-18|archiveurl=https://web.archive.org/web/20070623104055/http://europa.eu/institutions/inst/comm/index_en.htm|archivedate=2007-06-23}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://ec.europa.eu/index_lv.htm Eiropas Komisija]
+
+{{ES aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Eiropas Komisija| ]]

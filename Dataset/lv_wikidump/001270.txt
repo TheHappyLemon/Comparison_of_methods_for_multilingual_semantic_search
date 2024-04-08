@@ -1,0 +1,57 @@
+{{cita nozīme|pilsētu Polijā|par viduslaiku pilsētu Kurzemē|Pīlesmiests}}
+{{Apdzīvotas vietas infokaste
+| name = Pila
+| image_skyline = PL Piła Bulwar.JPG
+| imagesize = 300px
+| image_caption = Gvdas krastmala Pilā
+| image_flag = POL Piła flag.svg
+| image_shield = POL Piła COA 1.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Lielpolijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Pilas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = pirms 1449
+| area_total_km2 = 102.68
+| population_as_of = 2006
+| population_total    = 75044
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 53 
+| latm = 09 
+| lats = 00 
+| latNS = N 
+| longd = 16 
+| longm = 44 
+| longs = 00
+| longEW = E
+| elevation_m = 50-134
+| website = http://www.pila.pl/ }}
+
+'''Pila''' ({{val-pl|Piła}}), vēsturiskais vācu nosaukums '''Šneidemīle''' ({{val-de|Schneidemühl}} — "zāģētava") ir pilsēta [[Polija]]s ziemeļrietumu daļā, [[Lielpolijas vojevodiste|Lielpolijas vojevodistē]], [[Gvda]]s upes krastos. Dzelzceļa mezgls.
+
+Kā liecina nosaukums ([[poļu valoda|poliski]] ''piła'' nozīmē ‘zāģis’), pilsēta radusies kā [[mežizstrāde|mežizstrādātāju]] ciemats. Pēc Polijas nodibināšanās pēc [[Pirmais pasaules karš|Pirmā pasaules kara]] Pila palika Vācijas teritorijā un bija Pozenes—Rietumprūsijas robežmarkas (''Grenzmark Posen-Westpreußen'') centrs, un valsts robeža bija tikai 5&nbsp;km uz dienvidiem no pilsētas. Pilsēta cieta ļoti smagus postījumus [[Otrais pasaules karš|Otrā pasaules kara]] laikā.
+
+== Cilvēki ==
+
+Pilā (Šneidemīlē) dzimuši:
+* [[Dirks Galuba]] (''Dirk Galuba'', dzimis 1940. gadā) — vācu aktieris
+* [[Karls Frīdrihs Gerdelers]] (''Carl Friedrich Goerdeler'', 1884 — 1945) — vācu politiķis
+* [[Staņislavs Stašics]] (''Stanisław Staszic'', 1755 — 1826) — poļu teologs, valsts darbinieks
+
+== Atsauces ==
+{{atsauces+}}
+{{commonscat|Piła|Pila}}
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lielpolijas vojevodistes pilsētas]]

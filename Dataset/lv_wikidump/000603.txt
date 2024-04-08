@@ -1,0 +1,89 @@
+[[Attēls:Pythagorean.svg|thumb|''a''<sup>2</sup>+''b''<sup>2</sup>=''c''<sup>2</sup>]]
+[[Eiklīda ģeometrija|Eiklīda ģeometrijā]] '''Pitagora teorēma''' ir sakarība starp [[Taisnleņķa trijstūris|taisnleņķa trijstūra]] malu garumiem un tā [[hipotenūza]]s garumu: ja taisnleņķa trijstūra [[Katete|katešu]] garumi ir a un b, bet hipotenūzas garums ir c, tad a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup>. Pitagora teorēma skan šādi: Taisnleņķa trijstūrī hipotenūzas garuma kvadrāts vienāds ar abu katešu garumu kvadrātu summu.
+
+Teorēma ir nosaukta par godu [[Senā Grieķija|sengrieķu]] matemātiķim un filozofam [[Pitagors|Pitagoram]], kurš to pirmais ir pierādījis.
+
+Trīs praktiski pielietojamas teorēmas formas:
+
+<math> c=\sqrt{b^2+a^2},</math> &nbsp;&nbsp;&nbsp;&nbsp;<math> b=\sqrt{c^2-a^2} </math> &nbsp;&nbsp;un&nbsp;&nbsp;<math>a=\sqrt{c^2-b^2} .</math>
+
+== Pierādījumi ==
+
+Vizuāls (intuitīvs) pierādījums:
+
+[[Attēls:Pythagorean_proof2.png]]
+
+Pitagora teorēma ir visvairāk veidos pierādāmā teorēma, grāmatā ''The Pythagorean Proposition'' ir 370 dažādi pierādījumi. Populārākais Pitagora teorēmas pierādījuma veids ir [[Pitagora trijnieks|Pitagora skaitļi]]. Pitagora teorēmas vispārinājums ir [[Ptolemaja teorēma]] un [[de Guā teorēma]].
+
+=== Pierādījums, izmantojot [[Līdzība|līdzīgu]] trijstūri ===
+[[Attēls:teorema.png|border|right]]
+:<math>\frac{d}{a} = \frac{a}{c} \quad \Rightarrow \quad d = \frac{a^2}{c}\quad (1)</math>
+
+:<math>\frac{e}{b} = \frac{b}{c} \quad \Rightarrow \quad e = \frac{b^2}{c}\quad (2)</math>
+
+No attēla <math> c = d + e \,\! </math>. Un, aizstājot izteiksmes (1) un (2):
+:<math> c = \frac{a^2}{c} + \frac{b^2}{c} </math>
+
+Reizinot ar c:
+:<math> c^2 = a^2 + b^2 \,\!.</math>
+
+== Pielietošana ==
+[[Attēls:Valor de pi por polígonos.png|thumb|right|170px|Jaunākais (riņķa līnijai tuvākais) perimetrs, ko iegūst, dubultojot iepriekšējā perimetra malu, tiek izrēķināts, pamatojoties uz taisnleņķa trijstūriem, kas rodas tā konstruēšanā]]
+[[Riņķa līnija]]s mērīšanā [[Arhimēds]] izmantoja Pitagora teorēmu, lai aprēķinātu π vērtību. To viņš darīja, apvelkot ap riņķi regulāru [[sešstūris|sešstūri]] un ievelkot riņķī mazāku sešstūri (riņķa līnijas garums bija pa vidu starp šo sešstūru [[perimetrs|perimetriem]]). Pēc tam viņš pakāpeniski dubultoja regulāro daudzstūru malu skaitu (iegūstot divpadsmitstūrus, divdesmitčetrstūrus utt.), ar katru soli tuvinot to perimetrus riņķa līnijas garumam. Šos perimetrus viņš izrēķināja ar Pitagora teorēmas palīdzību.
+
+=== Kvadrāta diagonāles ===
+[[Attēls:Square with diagonal.PNG|145px|right]]
+: <math>d^2=l^2+l^2=2\,l^2.</math>
+: <math>d =\sqrt{2\,l^2}=l \sqrt{2}.</math>
+
+=== Vienādmalu trīsstūra augstums ===
+[[Attēls:Equilateral triangle.PNG|180px|right]]
+: <math>l^2=h^2+\left(\frac{l}{2}\right)^2=h^2+\frac{l^2}{4}</math>
+: <math>h^2=\frac{3\,l^2}{4}.</math>
+
+: <math>h= \sqrt{\frac{3\,l^2}{4}}= \frac{l\sqrt3}{2}.</math>
+
+=== Kuba diagonāles ===
+[[Attēls:Cube diagonals.svg|thumb|right|150px|Zilā raustītā līnija (AC') ir kuba diagonāle, bet sarkanā (AC) — vienas skaldnes diagonāle]]
+Ja ''a'' ir kuba vienas [[šķautne]]s garums, tad skaldnes [[diagonāle]]s AC garuma kvadrāts saskaņā ar Pitagora teorēmu ir:
+: <math>AC^2=a^2+a^2.</math> (I)
+Pēc tās pašas teorēmas, kuba diagonāles AC' kvadrāts ir:
+: <math>AC'^2=a^2+AC^2.</math> (II)
+
+No I un II:
+: <math>AC'^2=a^2+a^2+a^2.</math>
+Tātad:
+: <math>AC'=\sqrt {3a^2}=\sqrt {3}a.</math>
+
+<!--
+=== Pamattiesību trigonometrisko identitāte ===
+[[File:Trig Functions.PNG|thumb|right|150px]]
+: <math>\mathrm{sen}\, \theta = \frac{b}{c}, \quad \cos \theta = \frac{a}{c}.</math>
+No tā izriet, ka:
+
+: <math> {\cos}^2 \theta + {\mathrm{sen}\,}^2 \theta = \frac{a^2 + b^2}{c^2} = 1,</math>
+
+=== Iracionāli skaitļi, kā garums ===
+[[File:Euclid Corollary 5.PNG|right|thumb|160px]]
+
+vai nu uzrakstīt normāli latviski, vai dzēst!
+-->
+
+== Taisnleņķa trijstūra pazīme ==
+Ja trijstūra vienas malas garuma kvadrāts vienāds ar abu pārējo malu garumu kvadrātu summu, tad šīs malas pretleņķis ir taisns un trijstūris ir taisnleņķa.
+
+'''Piemērs:''' vai  trijstūris, kam malu garumi ir 6 cm, 7 cm un 9 cm, ir taisnleņķa?
+
+'''Risinājums:''' Izvēlas garāko malu un pārbauda, vai izpildās Pitagora teorēma: 9<sup>2</sup>=6<sup>2</sup>+7<sup>2</sup> redzam, ka 81≠36+49, tātad šis nav taisnleņķa trijstūris.
+
+== Skatīt arī ==
+
+* [[Taisnleņķa trijstūris]]
+* [[Katete]]
+* [[Hipotenūza]]
+* [[Pitagora trijnieks]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ģeometrija]]
+[[Kategorija:Matemātikas teorēmas]]

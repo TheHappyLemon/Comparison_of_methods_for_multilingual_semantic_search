@@ -1,0 +1,92 @@
+{{Navbox
+|name = Āfrika
+|title = [[Āfrika]]s [[Āfrikas valstu un atkarīgo teritoriju uzskaitījums|valstis un atkarīgās teritorijas]]
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|group1= Valstis
+|list1 = 
+* [[Alžīrija]]
+* [[Angola]]
+* [[Benina]]
+* [[Botsvāna]]
+* [[Burkinafaso]]
+* [[Burundija]]
+* [[Centrālāfrikas Republika]]
+* [[Čada]]
+* [[Dienvidāfrika]]
+* [[Dienvidsudāna]]
+* [[Džibutija]]
+* [[Ēģipte]]{{smallsup|1}}
+* [[Ekvatoriālā Gvineja]]
+* [[Eritreja]]
+* [[Etiopija]]
+* [[Gabona]]
+* [[Gambija]]
+* [[Gana]]
+* [[Gvineja]]
+* [[Gvineja-Bisava]]
+* [[Kaboverde]]
+* [[Kamerūna]]
+* [[Kenija]]
+* [[Komoras]]
+* [[Kongo Republika]]
+* [[Kongo Demokrātiskā Republika]]
+* [[Kotdivuāra]]
+* [[Lesoto]]
+* [[Libērija]]
+* [[Lībija]]
+* [[Madagaskara]]
+* [[Malāvija]]
+* [[Mali]]
+* [[Maroka]]
+* [[Maurīcija]]
+* [[Mauritānija]]
+* [[Mozambika]]
+* [[Namībija]]
+* [[Nigēra]]
+* [[Nigērija]]
+* [[Ruanda]]
+* [[Santome un Prinsipi]]
+* [[Seišelas]]
+* [[Senegāla]]
+* [[Sjerraleone]]
+* [[Somālija]]
+* [[Sudāna]]
+* [[Svatini]]
+* [[Tanzānija]]
+* [[Togo]]
+* [[Tunisija]]
+* [[Uganda]]
+* [[Zambija]]
+* [[Zimbabve]]
+
+|group2=[[Atkarīgā teritorija|Atkarīgās teritorijas]]
+|list2=
+* [[Francijas Dienvidjūru un Antarktikas Zemes]]{{smallsup|2}}&nbsp;<small>[[Francija|(Francija)]] ([[Basa da Indija]]&nbsp;• [[Eiropa (sala)|Eiropa]]&nbsp;• [[Glorjēzu salas]]&nbsp;• [[Žuana da Novas sala]]&nbsp;• [[Tromlēna]])</small>
+* [[Britu Indijas Okeāna Teritorija]]&nbsp;<small>[[Apvienotā Karaliste|(Brit.)]]</small>
+* [[Majota]]&nbsp;<small>[[Francija|(Francija)]]</small>
+* [[Reinjona]]&nbsp;<small>[[Francija|(Francija)]]</small>
+* [[Svētās Helēnas Sala]]{{smallsup|3}}&nbsp;<small>[[Apvienotā Karaliste|(Brit.)]]</small>
+
+|group3= Valstu daļas un <br />[[Starptautiski neatzītu valstu uzskaitījums|neatzītās valstis]] 
+|list3=
+* [[Kanāriju Salas]] {{small|([[Spānija|Spānija]])}}
+* [[Madeira]] {{small|([[Portugāle|Portugāle]])}}
+* [[Melilja]] {{small|([[Spānija|Spānija]])}}
+* [[Seuta]] {{small|([[Spānija|Spānija]])}}
+* [[Sokotra]] {{small|([[Jemena|Jemena]])}}
+* [[Galmuduga]]
+* [[Māhira]]
+* [[Puntlenda]]
+* [[Somālilenda]]
+* [[Sahāras Arābu Demokrātiskā Republika]]
+|below=
+* <sup>1</sup> daļēji [[Āzija|Āzijā]]
+* <sup>2</sup> daļēji [[Antarktika|Antarktikā]]
+* <sup>3</sup> iekļauj [[Debesbraukšanas sala|Debesbraukšanas salu]], [[Tristana da Kuņas salas]] un [[Gofa sala|Gofa salu]].</small>
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

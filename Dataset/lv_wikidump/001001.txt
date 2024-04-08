@@ -1,0 +1,8 @@
+'''Tīmekļa sindikācija''' ir [[sindikācija]]s forma, kas ļauj izmantot [[tīmekļa vietne]]s daļas citām tīmekļa vietnēm. Tas var nozīmēt arī vienkāršu tīmekļa vietnes satura licencēšanu, padarot to pieejamu citiem, lai gan biežāk ar šo terminu apzīmē vietnes [[tīmekļa barotne|tīmekļa barotņu]] pieejamību, kas ļauj citiem attēlot pašatjaunojošu satura sarakstu (piemēram, pēdējo foruma ierakstu sarakstu). Pirmās to sāka izmantot [[ziņas|ziņu]] vietnes un [[tīmekļa žurnāls|tīmekļa žurnāli]], taču arvien biežāk to izmanto lai sindicētu jebkāda veida informāciju.
+
+Lai gan formāts var būt gan [[HTML]], gan [[JavaScript]], biežāk tas ir [[valoda XML|XML]]. Ievērojamas diskusijas par pareizo formātu ir novedušas pie [[RSS protokols|RSS]], kam ir vairākas paralēlas versijas, bet vēlāk radīts vēl viens tīmekļa sindikācijas formāts un protokols - [[Atom standarts|Atom]].
+
+== Skatīt arī ==
+* [[Ziņu agregators]]
+
+[[Kategorija:Tīmekļa sindikācija]]

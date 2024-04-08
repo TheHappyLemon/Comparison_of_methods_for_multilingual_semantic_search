@@ -1,0 +1,41 @@
+{{ezera infokaste
+|ezers=Managvas ezers
+|attēls=Momotombo.jpg
+|paraksts=[[Momotombo]] vulkāns ezera krastā
+|map = Nikaragva
+| plat_d=12 | plat_m=20 | plat_s= | plat_NS=N
+| gar_d=86 | gar_m=25 | gar_s= | gar_EW=W
+|vieta={{NIC}}
+|platība=1035
+|garums=65
+|Vid_dziļums=9,5
+|Max_dziļums=20
+|tilpums=8
+|augstums_vjl=37
+|izteka=Tipitapa
+|baseins=6668
+|valstis=[[Nikaragva]]
+|salas=
+|pilsētas=[[Managva]]
+}}
+<mapframe text="Managvas ezers" width=290 height=290 zoom=9 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q272380"
+}
+</mapframe>
+'''Managvas ezers''' ({{val|es|Lago de Managua}}), arī '''Šolotlans''' (''Lago Xolotlán'') ir ezers [[Nikaragva|Nikaragvā]], ap 65 km garš un 25 km plats. Ezera nosaukums cēlies no [[mankemi|mankemu]] indiāņu cilts spāņu nosaukuma ''Mangue'' un ''agua'' — ‘ūdens’. Savukārt no ezera cēlies Nikaragvas galvaspilsētas [[Managva]]s nosaukums.
+
+No Managvas ezera uz [[Nikaragvas ezers|Nikaragvas ezeru]] izteka Tipitapas upe. Ezers ir spēcīgi piesārņots, to ar [[dzīvsudrabs|dzīvsudrabu]] piesārņojusi arī [[Kodak]] rūpnīca 1950. gados. Par spīti piesārņojumam ezera krastā vēl joprojām dzīvo cilvēki un ēd [[Dzīvsudrabs zivīs|ezerā dzīvojošās zivis]]. Ezera baseina teritorija ir piedzīvojusi krasu vides apstākļu izmaiņu, galvenokārt — [[deforestācija|deforestāciju]].
+
+[[1998]]. gadā vētras laikā ūdens līmenis ezerā kāpa par 3 metriem, iznīcinot daudz māju.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20071027042353/http://www.worldlakes.org/lakedetails.asp?lakeid=8929 LakeNet (angliski)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nikaragvas ezeri]]

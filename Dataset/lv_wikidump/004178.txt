@@ -1,0 +1,53 @@
+{{Vielas infokaste
+|attēls=[[Attēls:2-Phenylethyl alcohol.svg|170 px]] <br />Feniletilspirta struktūrformula
+|ķīmiskā formula=C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CH<sub>2</sub>OH
+|molmasa=122,17 
+|blīvums=1020 
+|kušanas temperatūra=-27&nbsp;°C
+|viršanas temperatūra=220&nbsp;°C
+}}
+'''Feniletilspirts''' (benzoletanols, benzilkarbinols, 2-feniletanols, ß-feniletilspirts, ß-hidroksietilbenzols, rožu eļļa, apelsīnu eļļa, C<sub>8</sub>H<sub>10</sub>O jeb C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CH<sub>2</sub>OH) ir gaistošs, viskozs šķidrums un ir viena no galvenajām [[rožu eļļa]]s sastāvdaļām.
+
+== Atrašanās dabā ==
+Atrodams daudzās dabiskās nozīmīgās esteru eļļās, piemēram, rožu, [[neļķes|neļķu]], [[hiacintes|hiacinšu]], [[apelsīni|apelsīnu]] ziedu, [[Burbona ģerānijas|Burbona ģerāniju]] u.c.
+
+== Iegūšana ==
+Feniletilspirtu iegūst, reducējot etilfenilacetātu ar [[spirts|spirtu]] un [[nātrijs|nātriju]], vai hidrogenējot [[fenilacetaldehīds|fenilacetaldehīdu]] niķeļa katalizatora klātbūtnē. Var iegūt arī [[benzols|benzola]] reakcijā ar [[etilēna oksīds|etilēna oksīdu]] AlCl<sub>3</sub> klātbūtnē; [[stirola oksīds|stirola oksīda]] [[hidrogenēšana]]; pēc [[Grinjāra reakcija]]s. Pašreizējās feniletilspirta ražošanas komerciālajās metodēs ietilpst Grinjāra sintēze, [[Frīdela-Krafta process]] un katalītiskā hidrogenēšana no stirola oksīda. 
+
+=== Iegūšanas procesa stadijas ===
+Ķīmiskajā rūpniecībā iegūstamā tehniskā ß-feniletilspirta attīrīšana notiek šādā secībā: 
+# hloru saturošo piedevu [[pārziepjošana]], neitralizēšana un skalošana;
+# [[rektificēšana]] vakuumā;
+# piemaisījumu atdestilēšana ar kodīgu tvaiku;
+# atkārtota rektificēšana vakuumā.
+
+== Izmantošana ==
+Izmanto kā konservantu oftalmiskos šķīdumos un kā farmaceitisku līdzekli (pretmikrobu), [[parfimērija|parfimērijā]] (ziepju aromātiskās piedevas) un [[pārtikas rūpniecība|pārtikas rūpniecībā]] (aromātisko pārtikas esenču izgatavošanai). Izmanto arī kā izejvielu [[ß-feniletilacetāts|ß-feniletilacetāta]] un dažu citu smaržvielu sintēzei. [[Kukaiņi|Kukaiņu]] apkarošanā feniletilspirtu uzskata par līdzekli pret [[odi]]em. Zemās cenas, ķīmiskās stabilitātes un smaržas kvalitātes dēļ feniletilspirts ir ideāli piemērots ziepju aromāts. Aptuveni 85% feniletilspirta izmanto smaržām. Feniletilspirta izmantošana parasti neizraisa veselības problēmas.
+
+== Fizikālās īpašības ==
+Feniletilspirtam, iespējams, ir visprestižākais ķīmiskais aromāts no visām aromātiskajām organiskajām vielām parfimērijas pasaulē. To nosaka tā izsmalcinātā dabisko rožu ziedlapiņu smarža. Feniletilspirts ir šķidrums. Stipri sakratot, 100 ml ūdens šķīst 2 ml vielas. 50% spirtā labi šķīst (1:1) un ierobežoti šķīst ūdenī (1:60). Kušanas temperatūra -27&nbsp;°C, viršanas temperatūra 220—222&nbsp;°C.
+Molekulmasa: 122,17. C 78,66%, H 8,25%, O 13,10%.
+
+{| class="wikitable"
+! width="284" valign="top" | !! width="142" valign="top" | Augstākā labuma !! width="142" valign="top" | I šķira
+|- 
+| width="284" valign="top" | Smarža || width="284" colspan="2" valign="top" align=center | Rožu
+|- 
+| width="284" valign="top" | Organoleptiskais vērtējums, punktos || width="142" valign="top" | 4,5 || width="142" valign="top" | 4,0
+|- 
+| width="284" valign="top" | Laušanas rādītājs  <em>n(20/d)</em> || width="142" valign="top" | 1,5310—1,5330 || width="142" valign="top" | 1,5310—1,5330
+|- 
+| width="284" valign="top" | Blīvums pie 200C, g/cm3 (<em>d(20/4)</em>) || width="142" valign="top" | 1,021—1,025 || width="142" valign="top" | 1,021—1,025
+|- 
+| width="284" valign="top" | Spirta masas daļa, %, ne mazāk kā || width="142" valign="top" | 99,97 || width="142" valign="top" | 99,0
+|- 
+| width="284" valign="top" | Glabāšanas garantijas laiks, mēneši || width="142" valign="top" | 12 || width="142" valign="top" | 12
+|}
+
+== Ķīmiskās īpašības ==
+* Feniletanols piedalās parastajās spirtu vai aromātisko savienojumu reakcijās.
+* Feniletanolu izmanto dažādu ķīmisko vielu sintēzē.
+
+{{Spirti}}
+
+[[Kategorija:Spirti]]

@@ -1,0 +1,1075 @@
+Šajā tabulā ir uzskaitītas visas [[Ķīnas Tautas Republika]]s pilsētas tipa apdzīvotās vietas, kurās pēc 2010. gada 1. novembra [[tautas skaitīšana]]s datiem bija vairāk nekā {{nobr|500 000}} iedzīvotāju, to nosaukumi, nosaukumi ķīniešu valodā, kā arī tautas skaitīšanas rezultāti 1990. gada 1. jūlijā, 2000. gada 1. novembrī un 2010. gada 1. novembrī. Tika uzskaitīti arī atsevišķi municipalitāšu atstatie urbānie rajoni, piemēram, [[Dzjandzjiņa]], kas administratīvi nav atsevišķas pilsētas, bet gan provinces vai prefektūras līmeņa municipalitātes (šajā gadījumā [[Čuncjina]]s) zemāka līmeņa administratīva vienība vai to kopums.
+
+Uzrādīta arī provinces līmeņa administratīvā vienība (province, autonomais reģions, tiešās pārvaldes municipalitātes, īpašais administratīvais rajons), kurai pieder pilsēta.
+
+Tautas skaitīšana [[Honkonga|Honkongā]] un [[Makao]] tika veikta 1991. un 2001. gadā. Rezultāti atrodami ailēs par 1990. un 2000. gadu. Iedzīvotāju skaits attiecas uz pilsētas tipa apdzīvoto vietu — municipalitātes galveno pilsētu, nevis uz municipalitāti, pilsētu vai pašvaldību tās politiskajās robežās.<ref>[https://www.citypopulation.de/de/china/cities/ CHINA: Provinzen und größere Städte]</ref>
+
+Pēdējā tautas skaitīšana Ķīnā notika 2010. gada 1. novembrī. Nākamā tautas skaitīšana paredzēta 2020. gadā.
+<!-- {{Tabulas numerācija| {{ -->
+{| class="wikitable sortable zebra" style="text-align:right"
+|- class=backgroundcolor6
+! Ranks<br /><small>(2010)</small> !! Nosaukums !! Ķīniešu<br />nosaukums !! 1990 !! 2000 !! 2010 !! Administratīvā<br />vienība
+|-
+| 1. || align=left | [[Šanhaja]] || align=left| 上海 ''Shànghǎi''  || 7.821.787 || 14.230.992 || 20.217.748 || align="left" | [[Šanhaja]]
+|-
+| 2. || align=left | [[Pekina]] || align=left| 北京 ''Běijīng''  || 5.521.949 || 10.300.723 || 16.446.857 || align="left" | [[Pekina]]
+|-
+| 3. || align="left" | [[Guandžou]] || align="left" | 广州 ''Guǎngzhōu''  || 3.509.726 || 8.090.976 || 10.641.408 || align="left" | [[Guanduna]]
+|-
+| 4. || align="left" | [[Šeņdžeņa]] || align="left" | 深圳 ''Shēnzhèn''|| 1.081.621 || 6.480.340 || 10.358.381 || align="left" | [[Guanduna]]
+|-
+| 5. || align="left" | [[Tjaņdzjiņa]] || align="left" | 天津 ''Tiānjīn''|| 4.090.643 || 6.755.403 || 9.290.263 || align="left" | [[Tjaņdzjiņa]]
+|-
+| 6. || align="left" | [[Uhaņa]] || align="left" | 武汉 ''Wǔhàn''|| 3.791.622 || 6.787.482 || 7.541.527 || align="left" | [[Hubei]]
+|-
+| 7. || align="left" | [[Dunguaņa]] || align="left" | 东莞 ''Dōngguǎn''|| 552.328 || 3.870.036 || 7.271.322 || align="left" | [[Guanduna]]
+|-
+|
+| align=left |[[Honkonga]]
+| align=left |香港 ''Xiānggǎng''
+|5.704.545
+|6.702.500
+|6.708.000
+| align=left |[[Honkonga]]
+|-
+| 8. || align="left" | [[Fošaņa]] || align="left" | 佛山 ''Fóshān''|| 901.455 || 4.006.681 || 6.771.895 || align="left" | [[Guanduna]]
+|-
+| 9. || align="left" | [[Čendu]] || align="left" | 成都 ''Chéngdu''|| 1.866.826 || 4.273.218 || 6.316.922 || align="left" | [[Sičuaņa]]
+|-
+| 10. || align="left" | [[Čuncjina]] || align="left" | 重庆 ''Chóngqìng''|| 2.518.721 || 4.912.732 || 6.263.790 || align="left" | [[Čuncjina]]
+|-
+| 11. || align="left" |[[Naņdzjina]]|| align="left" | 南京 ''Nánjīng''|| 2.322.947 || 4.042.337 || 5.827.888 || align="left" | [[Dzjansu]]
+|-
+| 12. || align="left" | [[Šeņjana]] || align="left" | 沈阳 ''Shěnyáng''  || 3.650.678 || 4.596.785 || 5.718.232 || align="left" | [[Liaonina]]
+|-
+| 13. || align="left" | [[Sjiaņa]] || align="left" | 西安 ''Xi'an''|| 2.398.634 || 3.870.504 || 5.206.253 || align="left" | [[Šaaņsji]]
+|-
+| 14. || align="left" | [[Handžou]] || align="left" | 杭州 ''Hángzhōu''  || 1.654.923 || 3.240.947 || 5.162.093 || align="left" | [[Džedzjana]]
+|-
+| 15. || align="left" | [[Harbina]] || align="left" | 哈尔滨 ''Hā'ěrbīn''|| 2.690.391 || 3.627.082 || 4.596.313 || align="left" | [[Heilundzjana]]
+|-
+| 16. || align="left" |[[Sudžou (Dzjansu)|Sudžou]]|| align="left" | 苏州 ''Sūzhōu''|| 872.673 || 2.160.907 || 4.083.923 || align="left" | [[Dzjansu]]
+|-
+| 17. || align="left" | [[Cjindao]] || align="left" | 青岛 ''Qīngdǎo''|| 1.399.184 || 2.973.189 || 3.990.942 || align="left" | [[Šaņduna]]
+|-
+| 18. || align="left" | [[Daliaņa]] || align="left" | 大连 ''Dàlián''  || 1.884.310 || 2.872.048 || 3.902.467 || align="left" | [[Liaonina]]
+|-
+| 19. || align="left" | [[Džendžou]] || align="left" | 郑州 ''Zhèngzhōu''|| 1.134.174 || 2.501.024 || 3.677.032 || align="left" | [[Henaņa]]
+|-
+| 20. || align="left" | [[Šaņtou]] || align="left" | 汕头 ''Shàntóu''|| 1.750.256 || 3.070.364 || 3.644.017 || align="left" | [[Guanduna]]
+|-
+| 21. || align="left" | [[Dzjinaņa]] || align="left" | 济南 ''Jǐ'nán''|| 1.437.596 || 2.795.070 || 3.527.566 || align="left" | [[Šaņduna]]
+|-
+| 22. || align="left" | [[Čančuņa]] || align="left" | 长春 ''Chángchūn''|| 1.780.435 || 2.750.204 || 3.411.209 || align="left" | [[Dzjiliņa]]
+|-
+| 23. || align="left" | [[Kuņmina]] || align="left" | 昆明 ''Kūnmíng''|| 1.114.413 || 2.587.824 || 3.278.777 || align="left" | [[Juņnaņa]]
+|-
+| 24. || align="left" | [[Čanša]] || align="left" | 长沙 ''Chángshā''  || 1.151.155 || 2.233.790 || 3.193.354 || align="left" | [[Hunaņa]]
+|-
+| 25. || align="left" | [[Taijuaņa]] || align="left" | 太原 ''Tàiyuán''|| 1.577.640 || 2.538.336 || 3.154.157 || align="left" | [[Šaņsji]]
+|-
+| 26. || align="left" | [[Sjameņa]] || align="left" | 厦门 ''Xiàmén''|| 423.796 || 1.454.450 || 3.119.110 || align="left" | [[Fudzjaņa]]
+|-
+| 27. || align="left" | [[Hefei]] || align="left" | 合肥 ''Héféi''  || 714.242 || 1.549.476 || 3.098.727 || align="left" | [[Aņhui]]
+|-
+| 28. || align="left" | [[Urumči]] || align="left" | 乌鲁木齐 ''Wūlǔmùqí''  || 1.172.018 || 1.829.555 || 2.853.398 || align="left" | [[Siņdzjana]]
+|-
+| 29. || align="left" | [[Fudžou]] || align="left" | 福州 ''Fúzhōu''|| 875.508 || 2.032.723 || 2.824.414 || align="left" | [[Fudzjaņa]]
+|-
+| 30. || align="left" | [[Šidzjadžuana]] || align="left" | 石家庄 ''Shíjiāzhuāng''|| 1.077.297 || 1.935.553 || 2.770.344 || align="left" | [[Hebei]]
+|-
+| 31. || align="left" | [[Usji]] || align="left" | 无锡 ''Wúxī''|| 775.702 || 1.872.915 || 2.757.736 || align="left" | [[Dzjansu]]
+|-
+| 32. || align="left" |[[Džunšaņa (pilsēta)|Džunšaņa]]|| align="left" | 中山 ''Zhōngshān''|| 393.353 || 1.434.251 || 2.740.994 || align="left" | [[Guanduna]]
+|-
+| 33. || align="left" | [[Veņdžou]] || align="left" | 温州 ''Wēnzhōu''|| 456.319 || 1.583.387 || 2.686.825 || align="left" | [[Džedzjana]]
+|-
+| 34. || align="left" | [[Naņnina]] || align="left" | 南宁 ''Nánníng''|| 817.206 || 1.667.159 || 2.660.833 || align="left" | [[Guansji]]
+|-
+| 35. || align="left" | [[Ninbo]] || align="left" | 宁波 ''Níngbō''|| 753.719 || 1.696.811 || 2.583.073 || align="left" | [[Džedzjana]]
+|-
+| 36. || align="left" | [[Guijana]] || align="left" | 贵阳 ''Guìyáng''|| 1.079.652 || 1.894.344 || 2.520.061 || align="left" | [[Guidžou]]
+|-
+| 37. || align="left" | [[Laņdžou]] || align="left" | 兰州 ''Lánzhōu''|| 1.289.756 || 1.914.163 || 2.438.595 || align="left" | [[Gaņsu]]
+|-
+| 38. || align="left" | [[Dzibo]] || align="left" | 淄博 ''Zībó''|| 776.912 || 1.929.403 || 2.261.717 || align="left" | [[Šaņduna]]
+|-
+| 39. || align="left" | [[Čandžou]] || align="left" | 常州 ''Chángzhōu''|| 525.085 || 1.513.152 || 2.257.376 || align="left" | [[Dzjansu]]
+|-
+| 40. || align="left" | [[Naņčana]] || align="left" | 南昌 ''Nánchāng''  || 911.872 || 1.680.756 || 2.223.661 || align="left" | [[Dzjansji]]
+|-
+| 41. || align="left" |[[Sjuidžou]]|| align="left" | 徐州 ''Xúzhōu''|| 809.384 || 1.623.307 || 2.214.795 || align="left" | [[Dzjansu]]
+|-
+| 42. || align="left" | [[Tanšaņa]] || align="left" | 唐山 ''Tángshān''|| 1.088.214 || 1.660.054 || 2.128.191 || align="left" | [[Hebei]]
+|-
+| 43. || align="left" | [[Baotou]] || align="left" | 包头 ''Bāotóu''|| 1.044.088 || 1.420.047 || 1.900.373 || align="left" | [[Iekšējā Mongolija]]
+|-
+| 44. || align="left" | [[Huidžou]] || align="left" | 惠州 ''Huìzhōu''|| 302.636 || 1.057.659 || 1.807.858 || align="left" | [[Guanduna]]
+|-
+| 45. || align="left" | [[Jaņtai]] || align="left" | 烟台 ''Yāntái''|| 422.282 || 1.261.476 || 1.797.861 || align="left" | [[Šaņduna]]
+|-
+| 46. || align="left" | [[Šaosjina]] || align="left" | 绍兴 ''Shàoxīng''|| 412.698 || 1.153.416 || 1.725.726 || align="left" | [[Džedzjana]]
+|-
+| 47. || align="left" | [[Naņtuna]] || align="left" | 南通 ''Nántōng''|| 457.388 || 1.032.414 || 1.612.385 || align="left" | [[Dzjansu]]
+|-
+| 48. || align="left" | [[Luojana]] || align="left" | 洛阳 ''Luòyáng''|| 725.360 || 1.233.775 || 1.584.463 || align="left" | [[Henaņa]]
+|-
+| 49. || align="left" |[[Huaiaņa]]|| align="left" | 淮安 ''Huái'ān''|| 330.379 || 842.628 || 1.523.655 || align="left" | [[Dzjansu]]
+|-
+| 50. || align="left" | [[Liņji]] || align="left" | 临沂 ''Línyí''|| 260.558 || 1.186.215 || 1.522.488 || align="left" | [[Šaņduna]]
+|-
+| 51. || align="left" | [[Haikou]] || align="left" | 海口 ''Hǎikǒu''|| 411.212 || 1.028.724 || 1.517.410 || align="left" | [[Hainaņa]]
+|-
+| 52. || align="left" | [[Aņšaņa]] || align="left" | 鞍山 ''Ānshān''|| 1.233.947 || 1.389.660 || 1.504.996 || align="left" | [[Liaonina]]
+|-
+| 53. || align="left" | [[Huhhota]] || align="left" | 呼和浩特 ''Hūhéhàotè''|| 634.514 || 1.020.152 || 1.497.110 || align="left" | [[Iekšējā Mongolija]]
+|-
+| 54. || align="left" | [[Dzjanmeņa]] || align="left" | 江门 ''Jiāngmén''|| 379.397 || 876.531 || 1.480.023 || align="left" | [[Guanduna]]
+|-
+| 55. || align="left" | [[Dzjiliņa (pilsēta)|Dzjiliņa]] || align="left" | 吉林 ''Jílín''|| 1.090.329 || 1.448.434 || 1.469.722 || align="left" | [[Dzjiliņa]]
+|-
+| 56. || align="left" | [[Dacjina]] || align="left" | 大庆 ''Dàqìng''  || 756.444 || 1.094.892 || 1.433.698 || align="left" | [[Heilundzjana]]
+|-
+| 57. || align="left" |[[Sjanjana]]|| align="left" | 襄阳 ''Xiāngyáng''|| 462.113 || 1.204.039 || 1.433.057 || align="left" |[[Hubei]]
+|-
+| 58. || align="left" | [[Liudžou]] || align="left" | 柳州 ''Liǔzhōu''|| 636.828 || 1.043.458 || 1.410.712 || align="left" | [[Guansji]]
+|-
+| 59. || align="left" | [[Džuhai]] || align="left" | 珠海 ''Zhūhǎi''  || 269.457 || 1.056.169 || 1.369.538 || align="left" | [[Guanduna]]
+|-
+| 60. || align="left" | [[Datuna]] || align="left" | 大同 ''Dàtóng''|| 917.288 || 1.053.616 || 1.362.314 || align="left" | [[Šaņsji]]
+|-
+| 61. || align="left" | [[Fušuņa]] || align="left" | 抚顺 ''Fǔshùn''|| 1.288.959 || 1.359.873 || 1.318.808 || align="left" | [[Liaonina]]
+|-
+| 62. || align="left" | [[Cicikara]] || align="left" | 齐齐哈尔 ''Qíqíhā'ěr''|| 1.115.298 || 1.338.587 || 1.314.720 || align="left" | [[Heilundzjana]]
+|-
+| 63. || align="left" | [[Veifana]] || align="left" | 潍坊 ''Wéifāng''|| 392.644 || 1.263.016 || 1.261.582 || align="left" | [[Šaņduna]]
+|-
+| 64. || align="left" | [[Čaodžou]] || align="left" | 潮州 ''Cháozhōu''|| 333.390 || 708.368 || 1.256.268 || align="left" | [[Guanduna]]
+|-
+| 65. || align="left" | [[Huainaņa]] || align="left" | 淮南 ''Huáinán''|| 724.157 || 1.062.430 || 1.238.488 || align="left" | [[Aņhui]]
+|-
+| 66. || align="left" | [[Dzjejana]] || align="left" | 揭阳 ''Jiēyáng''|| 176.421 || 936.485 || 1.226.848 || align="left" | [[Guanduna]]
+|-
+| 67. || align="left" | [[Taidžou (Džedzjana)|Taidžou]]
+| align="left" | 泰州 ''Táizhōu''|| 125.306 || 1.200.809 || 1.189.276 || align="left" | [[Džedzjana]]
+|-
+|68.
+| align="left" |[[Dzjiņdzjana]] 
+| align=left |晋江 ''Jìnjiāng''
+|97.990
+|480.433
+|1.172.827
+| align="left" |[[Fudzjaņa]]
+|-
+| 69. || align="left" | [[Iņčuaņa]] || align="left" | 银川 ''Yínchuān''|| 383.654 || 578.362 || 1.159.457 || align="left" | [[Ninsja]]
+|-
+|70.
+| align="left" |[[Cjuaņdžou]]
+| align=left |泉州 ''Quánzhōu''
+|173.571
+|764.100
+|1.154.731
+| align="left" |[[Fudzjaņa]]
+|-
+| 71. || align="left" | [[Sjinina]] || align="left" | 西宁 ''Xīníng''|| 592.115 || 854.466 || 1.153.417 || align="left" | [[Cjinhai]]
+|-
+| 72. || align="left" | [[Jaņčena]] || align="left" | 盐城 ''Yánchéng''|| 293.924 || 933.832 || 1.136.826 || align="left" | [[Dzjansu]]
+|-
+| 73. || align="left" | [[Taiaņa]] || align="left" | 泰安 ''Tài'ān''|| 366.443 || 937.761 || 1.123.541 || align="left" | [[Šaņduna]]
+|-
+|74.
+| align="left" |[[Kuņšaņa]]
+| align=left |昆山 ''Kūnshān''
+|96.625
+|434.429
+|1.118.617
+| align="left" |[[Dzjansu]]
+|-
+| 75. || align="left" | [[Henjana]] || align="left" | 衡阳 ''Héngyáng''|| 503.725 || 804.818 || 1.115.645 || align="left" | [[Hunaņa]]
+|-
+| 76. || align="left" | [[Uhu]] || align="left" | 芜湖 ''Wúhú''|| 441.999 || 641.259 || 1.108.087 || align="left" | [[Aņhui]]
+|-
+| 77. || align="left" | [[Putiaņa]] || align="left" | 莆田 ''Pútián''|| 131.972 || 627.124 || 1.107.199 || align="left" | [[Fudzjaņa]]
+|-
+| 78. || align="left" | [[Jandžou]] || align="left" | 扬州 ''Yángzhōu''|| 302.007 || 865.117 || 1.077.531 || align="left" | [[Dzjansu]]
+|-
+|79.
+| align="left" |[[Cisji (pilsēta)|Cisji]]
+| align=left |慈溪 ''Cíxī''
+|207.178
+|675.727
+|1.059.942
+| align="left" |[[Džedzjana]]
+|-
+| 80. || align="left" | [[Ičana]] || align="left" | 宜昌 ''Yíchāng''|| 412.605 || 869.092 || 1.049.363 || align="left" | [[Hubei]]
+|-
+| 81. || align="left" | [[Džaņdzjana]] || align="left" | 湛江 ''Zhànjiāng''|| 485.833 || 832.273 || 1.038.762 || align="left" | [[Guanduna]]
+|-
+| 82. || align="left" | [[Baodina]] || align="left" | 保定 ''Bǎodìng''|| 471.270 || 902.496 || 1.038.195 || align="left" | [[Hebei]]
+|-
+| 83. || align="left" | [[Maomina]] || align="left" | 茂名 ''Màomíng''|| 310.455 || 971.469 || 1.033.196 || align="left" | [[Guanduna]]
+|-
+|84.
+| align="left" |[[Dzjanjiņa]]
+| align=left |江阴 ''Jiāngyīn''
+|129.544
+|555.454
+|1.013.670
+| align="left" |[[Dzjansu]]
+|-
+| 85. || align="left" | [[Beņsji]] || align="left" | 本溪 ''Běnxī''|| 759.083 || 860.838 || 1.000.128 || align="left" | [[Liaonina]]
+|-
+| 86. || align="left" | [[Džudžou]] || align="left" | 株州 || 429.858 || 837.102 || 999.404 || align="left" | [[Hunaņa]]
+|-
+|87.
+| align="left" |[[Dzaodžuana]]
+| align=left |枣庄
+|302.641
+|883.031
+|980.893
+| align="left" |[[Šaņduna]]
+|-
+| 88. || align="left" | [[Cjiņhuandao]] || align="left" | 秦皇岛 || 358.006 || 718.229 || 967.877 || align="left" | [[Hebei]]
+|-
+| 89. || align="left" | [[Miaņjana]] || align="left" | 绵阳 || 232.035 || 782.461 || 967.007 || align="left" | [[Sičuaņa]]
+|-
+| 90. || align="left" | [[Guiliņa]] || align="left" | 桂林 || 424.373 || 814.246 || 963.629 || align="left" | [[Guansji]]
+|-
+| 91. || align="left" | [[Džeņdzjana]] || align="left" | 镇江 || 328.121 || 764.105 || 950.516 || align="left" | [[Dzjansu]]
+|-
+| 92. || align="left" | [[Dzjiņdžou]] || align="left" | 晋州 || 591.653 || 776.628 || 946.098 || align="left" | [[Liaonina]]
+|-
+| 93. || align="left" | [[Dzjinina]] || align="left" | 济宁 || 183.063 || 882.894 || 939.034 || align="left" | [[Šaņduna]]
+|-
+|94.
+| align="left" |[[Čanšu]]
+| align=left |常熟
+|146.490
+|565.178
+|929.124
+| align="left" |[[Dzjansu]]
+|-
+|95.
+| align="left" |[[Žuiaņa]]
+| align=left |瑞安
+|230.138
+|465.230
+|927.383
+| align="left" |[[Džedzjana]]
+|-
+| 96. || align="left" | [[Džandzjakou]] || align="left" | 张家口 || 558.286 || 806.518 || 924.628 || align="left" | [[Hebei]]
+|-
+| 97. || align="left" | [[Juejana]] || align="left" | 岳阳 || 304.565 || 845.109 || 924.099 || align="left" | [[Hunaņa]]
+|-
+| 98. || align="left" | [[Haņdaņa]] || align="left" | 邯郸 || 525.391 || 822.387 || 919.295 || align="left" | [[Hebei]]
+|-
+| 99. || align="left" | [[Sjiņsjana]] || align="left" | 新乡 || 450.347 || 775.941 || 918.078 || align="left" | [[Henaņa]]
+|-
+|100.
+| align="left" |[[Cjinjuaņa]]
+| align=left |清远
+|167.892
+|350.545
+|916.453
+| align="left" |[[Guanduna]]
+|-
+| 101. || align="left" | [[Aņjana]] || align="left" | 安阳 || 410.367 || 768.992 || 908.129 || align="left" | [[Henaņa]]
+|-
+|102.
+| align="left" |[[Dzjindžou]]
+| align=left |荆州
+|457.286
+|784.584
+|904.157
+| align="left" |[[Hubei]]
+|-
+| 103. || align="left" | [[Sjantaņa]] || align="left" | 湘潭 || 456.050 || 707.783 || 903.287 || align="left" | [[Hunaņa]]
+|-
+| 104. || align="left" | [[Čifena]] || align="left" | 赤峰 || 345.035 || 692.267 || 902.285 || align="left" | [[Iekšējā Mongolija]]
+|-
+| 105. || align="left" | [[Židžao]] || align="left" | 日照 || 248.388 || 631.562 || 902.272 || align="left" | [[Šaņduna]]
+|-
+| 106. || align="left" | [[Naņjana]] || align="left" | 南阳 || 228.293 || 696.638 || 899.899 || align="left" | [[Henaņa]]
+|-
+| 107. || align="left" | [[Liaņjuņgana]] || align="left" | 连云港 || 344.244 || 576.477 || 897.393 || align="left" | [[Dzjansu]]
+|-
+| 108. || align="left" | [[Naņčuna]] || align="left" | 南充 || 348.201 || 621.403 || 890.402 || align="left" | [[Sičuaņa]]
+|-
+| 109. || align="left" | [[Jinkou]] || align="left" | 营口 || 458.353 || 630.208 || 880.412 || align="left" | [[Liaonina]]
+|-
+| 110. || align="left" | [[Ivu]] || align="left" | 义乌 || 114.258 || 560.317 || 878.903 || align="left" | [[Džedzjana]]
+|-
+|111.
+| align="left" |[[Punina]]
+| align=left |普宁
+|75.593
+|646.327
+|874.954
+| align="left" |[[Guanduna]]
+|-
+| 112. || align="left" | [[Baodzji]] || align="left" | 宝鸡 || 401.237 || 645.414 || 871.940 || align="left" | [[Šaaņsji]]
+|-
+|113.
+| align=left |[[Vaņdžou]]
+| align=left |万州区
+|207.055
+|574.033
+|859.662
+| align=left |[[Čuncjina]]
+|-
+| 114. || align="left" | [[Pindinšaņa]] || align="left" | 平顶山 || 430.841 || 871.274 || 855.130 || align="left" | [[Henaņa]]
+|-
+| 115. || align="left" | [[Huaibei]] || align="left" | 淮北 || 290.390 || 632.592 || 854.696 || align="left" | [[Aņhui]]
+|-
+| 116. || align="left" | [[Dunjina]] || align="left" | 东营 || 394.996 || 638.035 || 848.958 || align="left" | [[Šaņduna]]
+|-
+| 117. || align="left" | [[Čande]] || align="left" | 常德 || 275.195 || 759.262 || 846.308 || align="left" | [[Hunaņa]]
+|-
+| 118. || align="left" | [[Sjiņjana]] || align="left" | 信阳 || 273.175 || 814.625 || 835.648 || align="left" | [[Henaņa]]
+|-
+| 119. || align="left" | [[Šuanliu]] || align="left" | 双流 || 83.529 || 155.754 || 795.123 || align="left" | [[Sičuaņa]]
+|-
+| 120. || align="left" | [[Benbu]] || align="left" | 蚌埠 || 447.084 || 696.811 || 793.866 || align="left" | [[Aņhui]]
+|-
+| 121. || align="left" | [[Mudaņdzjana]] || align="left" | 牡丹江 || 570.273 || 672.345 || 790.623 || align="left" | [[Heilundzjana]]
+|-
+|122.
+| align=left |[[Tendžou]]
+| align=left |滕州
+|175.562
+|506.623
+|783.473
+| align=left |[[Šaņduna]]
+|-
+|123.
+| align=left |[[Sucjaņa]]
+| align=left |宿迁
+|97.724
+|414.408
+|783.376
+| align=left |[[Dzjansu]]
+|-
+|124.
+| align=left |[[Fujana]]
+| align=left |阜阳
+|142.170
+|742.862
+|780.522
+| align=left |[[Aņhui]]
+|-
+| 125. || align="left" | [[Daņduna]] || align="left" | 丹东 || 543.027 || 684.190 || 775.787 || align="left" | [[Liaonina]]
+|-
+| 126. || align="left" | [[Dzjasjina]] || align="left" | 嘉兴 || 209.898 || 451.443 || 762.643 || align="left" | [[Džedzjana]]
+|-
+| 127. || align="left" | [[Džandzjagana]] || align="left" | 张家港 || 59.091 || 432.352 || 762.625 || align="left" | [[Dzjansu]]
+|-
+| 128. || align="left" | [[Fusjiņa]] || align="left" | 阜新 || 600.124 || 669.355 || 750.283 || align="left" | [[Liaonina]]
+|-
+|129.
+| align="left"|[[Veņlina]]
+| align="left"|温岭
+|192.696
+|533.810
+|749.013
+| align="left"|[[Džedzjana]]
+|-
+|130.
+| align="left"|[[Hudžou]]
+| align="left"|湖州
+|214.354
+|560.743
+|748.471
+| align="left"|[[Džedzjana]]
+|-
+| 131. || align="left" | [[Dzjisji]] || align="left" | 鸡西 || 650.288 || 829.931 || 746.889 || align="left" | [[Heilundzjana]]
+|-
+| 132. || align="left" | [[Sudžou (Aņhui)|Sudžou]] || align="left" | 宿州 || 289.798 || 462.165 || 742.685 || align="left" | [[Aņhui]]
+|-
+|133.
+| align="left"|[[Ludžou]]
+| align="left"|泸州
+|272.736
+|668.335
+|742.274
+| align="left"|[[Sičuaņa]]
+|-
+|134.
+| align="left"|[[Liaojana]]
+| align="left"|辽阳
+|493.250
+|628.771
+|735.047
+| align="left"|[[Liaonina]]
+|-
+|135.
+| align="left" |[[Šujana]]
+| align="left" |沭阳
+|40.183
+|400.027
+|730.810
+| align="left" |[[Dzjansu]]
+|-
+| 93. || align="left" |[[Sjaņjana]]|| align="left" |咸阳 ''Xiányáng''||  ||  ||730.704 || align="left" |[[Šaaņsji]]
+|-
+| 136. || align="left" | [[Šaoguaņa]] || align="left" | 韶关 || 313.801 || 693.731 || 726.267 || align="left" | [[Guanduna]]
+|-
+|137.
+| align="left"|[[Juecjina]]
+| align="left"|乐清
+|251.208
+|488.980
+|725.972
+| align="left"|[[Džedzjana]]
+|-
+| 138. || align="left" | [[Kaifena]] || align="left" | 开封 || 497.911 || 578.635 || 725.573 || align="left" | [[Henaņa]]
+|-
+| 139. || align="left" | [[Šijaņa]] || align="left" | 十堰 || 333.089 || 535.948 || 724.016 || align="left" | [[Hubei]]
+|-
+| 140. || align="left" | [[Hečuaņa]] || align="left" | 合川 Héchuān || - || - || 721.753 || align="left" | [[Čuncjina]]
+
+|-
+
+|141.
+| align="left" |[[Naņaņa (Fudzjaņa)|Naņaņa]]
+| align="left" |南安
+|79.580
+|456.702
+|718.516
+| align="left" |[[Fudzjaņa]]
+|-
+|142.
+| align="left"|[[Pinsjana]]
+| align="left"|萍乡
+|248.929
+|546.851
+|716.229
+| align="left"|[[Dzjansji]]
+|-
+| 143. || align="left" | [[Dzuņji]] || align="left" | 遵义 || 249.939 || 555.159 || 715.148 || align="left" | [[Guidžou]]
+|-
+|144.
+| align="left"|[[Dzjiņhua]]
+| align="left"|金华
+|183.304
+|442.104
+|710.597
+| align="left"|[[Džedzjana]]
+|-
+|145.
+| align="left" |[[Isjina]]
+| align="left" |宜兴
+|138.465
+|534.600
+|710.497
+| align="left" |[[Dzjansu]]
+|-
+| 146. || align="left" | [[Dzjaodzuo]] || align="left" | 焦作 || 395.315 || 641.193 || 702.527 || align="left" | [[Henaņa]]
+|-
+|147.
+| align="left"|[[Veihai]]
+| align="left"|威海
+|107.271
+|461.662
+|698.863
+| align="left"|[[Šaņduna]]
+|-
+| 148. || align="left" | [[Ijana]] || align="left" | 益阳 || 190.680 || 707.739 || 697.607 || align="left" | [[Hunaņa]]
+|-
+|149.
+| align="left" |[[Ičuņa]]
+| align="left" |伊春
+|854.659
+|814.016
+|694.019
+| align="left" |[[Heilundzjana]]
+|-
+| 150. || align="left" | [[Huanši]] || align="left" | 黄石 || 482.740 || 653.722 || 691.963 || align="left" | [[Hubei]]
+|-
+|151.
+| align="left"|[[Haičena]]
+| align="left"|海城
+|355.890
+|598.195
+|687.223
+| align="left"|[[Liaonina]]
+|-
+|152.
+| align="left" |[[Dzjandzjiņa]]
+| align="left" |江津
+|136.608
+|479.917
+|686.189
+| align="left" |[[Čuncjina]]
+|-
+|153.
+| align="left"|[[Lešaņa]]
+| align="left"|乐山
+|312.999
+|459.507
+|678.752
+| align="left"|[[Sičuaņa]]
+|-
+|154.
+| align="left" |[[Taidžou (Dzjansu)|Taidžou]]
+| align="left" |泰州
+|222.678
+|557.770
+|676.877
+| align="left" |[[Dzjansu]]
+|-
+|155.
+| align="left"|[[Jujao]]
+| align="left"|余姚
+|177.268
+|348.812
+|672.909
+| align="left"|[[Džedzjana]]
+|-
+|156.
+| align="left"|[[Sjiņtai]]
+| align="left"|新泰
+|340.059
+|471.084
+|672.207
+| align="left"|[[Šaņduna]]
+|-
+|157.
+| align="left"|[[Laivu]]
+| align="left"|莱芜
+|320.698
+|486.737
+|668.805
+| align="left"|[[Šaņduna]]
+|-
+| 158. || align="left" | [[Sjintai]] || align="left" | 邢台 || 300.398 || 536.282 || 668.765 || align="left" | [[Hebei]]
+|-
+|159.
+| align="left"|[[Dziguna]]
+| align="left"|自贡
+|376.891
+|601.010
+|666.204
+| align="left"|[[Sičuaņa]]
+|-
+|160.
+| align="left"|[[Paņdzjiņa]]
+| align="left"|盘锦
+|367.639
+|602.541
+|663.445
+| align="left"|[[Liaonina]]
+|-
+|161.
+| align="left" |[[Luaņa]]
+| align="left" |六安
+|202.447
+|355.816
+|661.217
+| align="left" |[[Aņhui]]
+|-
+|162.
+| align="left" |[[Guigana]]
+| align="left" |贵港
+|71.993
+|481.334
+|658.887
+| align="left" |[[Guansji]]
+|-
+| 163.
+| align="left" | [[Maaņšaņa]] || align="left" | 马鞍山 || 327.676 || 504.703 || 657.847 || align="left" | [[Aņhui]]
+|-
+|164.
+| align="left"|[[Čandži]]
+| align="left"|长治
+|373.226
+|499.095
+|653.125
+| align="left"|[[Šaņsji]]
+|-
+|165.
+| align="left" |[[Beiliu]]
+| align="left" |北流
+|51.664
+|258.076
+|652.853
+| align="left" |[[Guansji]]
+|-
+|166.
+| align="left"|[[Cannaņa]]
+| align="left"|苍南
+|235.032
+|522.369
+|648.219
+| align="left"|[[Džedzjana]]
+|-
+|167.
+| align="left"|[[Huludao]]
+| align="left"|葫芦岛
+|351.336
+|535.951
+|646.482
+| align="left"|Liaonina
+|-
+|168.
+| align="left"|[[Paņdžihua]]
+| align="left"|攀枝花
+|436.001
+|562.270
+|631.258
+| align="left"|[[Sičuaņa]]
+|-
+|169.
+| align="left"|[[Pidžou]]
+| align="left"|邳州
+|73.946
+|366.496
+|631.572
+| align="left"|[[Dzjansu]]
+|-
+| 170. || align="left" | [[Dzjamusi]] || align="left" | 佳木斯 || 468.631 || 624.598 || 631.357 || align="left" | [[Heilundzjana]]
+|-
+|171. || align="left"|[[Jancjuaņa]] || align="left"|阳泉 ||343.965 ||485.386 ||623.671 || align="left"|[[Šaņsji]]
+|-
+|172.
+| align="left" |[[Liupaņšui]]
+| align="left" |六盘水
+|318.924
+|488.910
+|621.488
+| align="left" |[[Guidžou]]
+|-
+|173.
+| align="left" |[[Šancju]]
+| align="left" |商丘
+|164.475
+|457.625
+|618.549
+| align="left" |[[Henaņa]]
+|-
+|174.
+| align="left"|[[Žugao]]
+| align="left"|如皋
+|94.152
+|340.836
+|614.909
+| align="left"|[[Dzjansu]]
+|-
+| 175. || align="left" | [[Džandžou]] || align="left" | 漳州 || 182.012 || 427.250 || 614.700 || align="left" | [[Fudzjaņa]]
+|-
+|176.
+| align="left" |[[Meidžou]]
+| align="left" |梅州
+|129.285
+|440.397
+|612.551
+| align="left" |[[Guanduna]]
+|-
+| 177. || align="left" | [[Tiaņmeņa]] || align="left" | 天门 || 256.338 || 425.090 || 612.515 || align="left" | [[Hubei]]
+|-
+|178.
+| align="left"|[[Dzjudzjana]]
+| align="left"|九江
+|261.520
+|480.465
+|611.321
+| align="left"|[[Dzjansji]]
+|-
+|179.
+| align="left" |[[Edžou]]
+| align="left" |鄂州
+|190.542
+|551.876
+|607.739
+| align="left" |[[Hubei]]
+|-
+|180.
+| align="left"|[[Džudzji]]
+| align="left"|诸暨
+|127.549
+|469.031
+|606.683
+| align="left"|[[Džedzjana]]
+|-
+|181.
+| align="left"|[[Liaočena]]
+| align="left"|聊城
+|220.060
+|475.546
+|606.366
+| align="left"|[[Šaņduna]]
+|-
+|182.
+| align="left"|[[Gaņdžou]]
+| align="left"|赣州
+|187.938
+|328.309
+|605.231
+| align="left"|[[Dzjansji]]
+|-
+|183.
+| align="left"|[[Hegana]]
+| align="left"|鹤岗
+|585.252
+|659.509
+|600.941
+| align="left"|[[Heilundzjana]]
+|-
+|184.
+| align="left"|[[Fulina]]
+| align="left"|涪陵
+|164.944
+|425.807
+|595.224
+| align="left"|[[Čuncjina]]
+|-
+|185.
+| align="left"|[[Pidu]]
+| align="left"|郫县
+|41.137
+|247.298
+|589.647
+| align="left"|[[Sičuaņa]]
+|-
+|186.
+| align="left"|[[Liujana]]
+| align="left"|浏阳
+|59.779
+|286.516
+|588.081
+| align="left"|[[Hunaņa]]
+|-
+|187.
+| align="left"|[[Džučena]]
+| align="left"|诸城
+|97.546
+|379.142
+|586.652
+| align="left"|[[Šaņduna]]
+|-
+|188.
+| align="left"|[[Neidzjana]]
+| align="left"|内江
+|239.654
+|696.158
+|586.445
+| align="left"|[[Sičuaņa]]
+|-
+|189.
+| align="left"|[[Sjuaņvei]]
+| align="left"|宣威
+|82.418
+|217.988
+|584.076
+| align="left"|[[Juņnaņa]]
+|-
+|190.
+| align="left"|[[Čeņdžou]]
+| align="left"|郴州
+|178.063
+|346.280
+|582.971
+| align="left"|[[Hunaņa]]
+|-
+|191.
+| align="left"|[[Junčuaņa]]
+| align="left"|永川
+|98.100
+|362.379
+|582.769
+| align="left"|[[Čuncjina]]
+|-
+|192.
+| align="left"|[[Sjaogaņa]]
+| align="left"|孝感
+|193.461
+|427.881
+|582.403
+| align="left"|[[Hubei]]
+|-
+|193.
+| align="left"|[[Lufena]]
+| align="left"|陆丰
+|274.727
+|569.299
+|579.527
+| align="left"|[[Guanduna]]
+|-
+|194.
+| align="left"|[[Luohe]]
+| align="left"|漯河
+|106.244
+|385.654
+|575.956
+| align="left"|[[Henaņa]]
+|-
+|195.
+| align="left"|[[Sjinhua]]
+| align="left"|兴化
+|130.808
+|412.891
+|575.288
+| align="left"|[[Dzjansu]]
+|-
+|196.
+| align="left"|[[Šaojana]]
+| align="left"|邵阳
+|252.277
+|459.089
+|574.527
+| align="left"|[[Hunaņa]]
+|-
+|197.
+| align="left"|[[Liņfeņa]]
+| align="left"|临汾
+|187.697
+|368.399
+|571.237
+| align="left"|[[Šaņsji]]
+|-
+|198.
+| align="left"|[[Aņcjina]]
+| align="left"|安庆
+|273.851
+|443.808
+|570.538
+| align="left"|[[Aņhui]]
+|-
+|199.
+| align="left"|[[Sjiņju]]
+| align="left"|新余
+|78.951
+|369.361
+|567.820
+| align="left"|[[Dzjansji]]
+|-
+|200.
+| align="left"|[[Dzjimo]]
+| align="left"|即墨
+|62.743
+|439.848
+|565.135
+| align="left"|[[Šaņduna]]
+|-
+|201.
+| align="left"|[[Džaocjina]]
+| align="left"|肇庆
+|247.256
+|438.157
+|559.887
+| align="left"|[[Guanduna]]
+|-
+|202.
+| align="left"|[[Hedze]]
+| align="left"|菏泽
+|254.035
+|525.234
+|559.636
+| align="left"|[[Šaņduna]]
+|-
+|203.
+| align="left"|[[Taisjina]]
+| align="left"|泰兴
+|105.973
+|404.306
+|553.079
+| align="left"|[[Dzjansu]]
+|-
+|204.
+| align="left"|[[Sjaņtao]]
+| align="left"|仙桃
+|297.446
+|518.807
+|553.029
+| align="left"|[[Hubei]]
+|-
+|205.
+| align="left"|[[Suinina]]
+| align="left"|遂宁
+|110.609
+|428.262
+|549.826
+| align="left"|[[Sičuaņa]]
+|-
+|206.
+| align="left"|[[Ibiņa]]
+| align="left"|宜宾
+|225.670
+|427.706
+|549.650
+| align="left"|[[Sičuaņa]]
+|-
+|207.
+| align="left"|[[Juliņa]] 
+| align="left"|玉林
+|139.865
+|488.183
+|547.924
+| align="left"|[[Guansji]]
+|-
+|208.
+| align="left"|[[Tiaņšui]]
+| align="left"|天水
+|238.374
+|377.370
+|544.441
+| align="left"|[[Gaņsu]]
+|-
+|209.
+| align="left"|[[Džoušaņa]]
+| align="left"|舟山
+|212.278
+|448.787
+|542.190
+| align="left"|[[Džedzjana]]
+|-
+|210.
+| align="left"|[[Jundžou]]
+| align="left"|永州
+|175.484
+|363.739
+|540.930
+| align="left"|[[Hunaņa]]
+|-
+|211.
+| align="left"|[[Tunliao]]
+| align="left"|通辽
+|242.476
+|411.625
+|540.338
+| align="left"|[[Iekšējā Mongolija]]
+|-
+|
+| align="left"|[[Makao]]
+| align="left"|政區
+|343.935
+|427.979
+|536.969
+| align="left"|[[Makao]]
+|-
+|212.
+| align="left"|[[Lanfana]]
+| align="left"|廊坊
+|160.722
+|375.860
+|530.840
+| align="left"|[[Hebei]]
+|-
+|213.
+| align="left"|[[Dejana]]
+| align="left"|德阳
+|176.414
+|365.172
+|530.122
+| align="left"|[[Sičuaņa]]
+|-
+|214.
+| align="left"|[[Dedžou]]
+| align="left"|德州
+|186.218
+|400.018
+|526.232
+| align="left"|[[Šaņduna]]
+|-
+|215.
+| align="left"|[[Cjidzjana]]
+| align="left"|綦江
+|52.437
+|362.239
+|513.935
+| align="left"|[[Čuncjina]]
+|-
+|216.
+| align="left"|[[Dzoučena]]
+| align="left"|邹城
+|224.375
+|518.486
+|513.418
+| align="left"|[[Šaņduna]]
+|-
+|217.
+| align="left"|[[Ordosa]]
+| align="left"|鄂尔多斯
+|72.597
+|217.703
+|510.242
+| align="left"|[[Iekšējā Mongolija]]
+|-
+|218.
+| align="left"|[[Sipina]]
+| align="left"|四平
+|316.698
+|434.085
+|509.107
+| align="left"|[[Dzjiliņa]]
+|-
+|219.
+| align="left"|[[Guipina]]
+| align="left"|桂平
+|66.940
+|277.012
+|508.212
+| align="left"|[[Guansji]]
+|-
+|220.
+| align="left"|[[Dzjandu]]
+| align="left"|江都
+|85.778
+|383.995
+|506.706
+| align="left"|[[Dzjansu]]
+|-
+|221.
+| align="left"|[[Jaņdzji]]
+| align="left"|延吉
+|219.846
+|362.905
+|505.516
+| align="left"|[[Dzjiliņa]]
+|-
+|222.
+| align="left"|[[Liņhai]]
+| align="left"|临海
+|178.164
+|348.192
+|503.377
+| align="left"|[[Džedzjana]]
+|-
+|223.
+| align="left"|[[Baišaņa]]
+| align="left"|白山
+|383.736
+|515.239
+|503.287
+| align="left"|[[Dzjiliņa]]
+|-
+|224.
+| align="left"|[[Cjitaihe]]
+| align="left"|七台河
+|323.857
+|436.599
+|503.678
+| align="left"|[[Heilundzjana]]
+|-
+|225.
+| align="left"|[[Uhai]]
+| align="left"|乌海
+|310.037
+|397.716
+|502.704
+| align="left"|[[Iekšējā Mongolija]]
+|-
+|226.
+| align="left"|[[Danjana]]
+| align="left"|丹阳
+|92.647
+|339.123
+|500.572
+| align="left"|[[Dzjansu]]
+|-
+|}
+<!-- }}}} -->
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Ķīnas pilsētas| ]]

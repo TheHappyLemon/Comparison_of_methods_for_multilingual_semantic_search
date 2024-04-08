@@ -1,0 +1,86 @@
+{{ezera infokaste
+|ezers=Neizīdles ezers<br />Fertē ezers
+|attēls=Neusiedler See im Winter.jpg
+|paraksts=Ezera ainava
+|karte=
+|kartes_paraksts=Neizīdles ezera satelītattēls
+|map = Austrija#Ungārija
+| plat_d=47 | plat_m=50 | plat_s= | plat_NS=N
+| gar_d=16 | gar_m=45 | gar_s= | gar_EW=E
+|vieta={{AUT}}<br />{{HUN}}
+|platība=315
+|garums=36
+|Vid_dziļums=1
+|Max_dziļums=1,8
+|tilpums=
+|augstums_vjl=115
+|izteka=Ainzeras kanāls
+|baseins=1120
+|valstis=
+|salas=
+|pilsētas=
+{{Designation list
+|                    embed = jā
+|             designation1 = WHS
+|     designation1_offname = Fertē/Neizīdles ezera kultūrainava
+|        designation1_type = Kultūra
+|    designation1_criteria = v
+|        designation1_date = 2001 <small>(25. sesija)</small>
+|           delisted1_date = 
+|      designation1_partof = 
+|      designation1_number = [http://whc.unesco.org/en/list/772 772]
+|   designation1_free1name = Valsts
+|  designation1_free1value = {{AUT}}, {{HUN}}
+|   designation1_free2name = Reģions
+|  designation1_free2value = Eiropa un Ziemeļamerika
+|   designation1_free3name = 
+|  designation1_free3value = 
+}}
+}}
+<mapframe text="Neizīdles ezers" width=290 height=350 zoom=10 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q6396"
+}
+</mapframe>
+'''Neizīdles ezers''' ({{val-de|Neusiedler See}}), arī '''Fertē ezers''' ({{val-hu|Fertő tó}}, — ‘purva ezers’), ir otrs lielākais [[stepe]]s zonas [[ezers]] [[Centrāleiropa|Centrāleiropā]]. Atrodas [[Austrija]]s ({{nobr|240 km²}}) un [[Ungārija]]s ({{nobr|75 km²}}) teritorijās.
+
+Ezers ir neparasti sekls attiecībā pret tā platību, arī ezera piekraste ir izteikts līdzenums. Tā kā ezera krasti ir lēzeni, lietusgāzes var radīt ievērojamu pārplūšanu, bet sausums — krasu ezera platības samazināšanos. Pēdējoreiz ezers pilnībā izzuda 20. gadsimta sākumā.
+
+Lielākajā daļā ezera piekrastes ir niedrājs līdz {{nobr|8 km}} platā joslā, krasti staigni. Agrāk bija mazāk niedru un tas saistāms ar to, ka pirms Ainzeras kanāla izbūves ūdens bija sāļāks. Ūdens samērā sāļs, duļķains. Pirms ezera regulēšanas 19. gadsimtā tā Ungārijas daļa bija ievērojami lielāka. [[2001. gads|2001]]. gadā [[UNESCO Pasaules Mantojums|UNESCO Pasaules Mantojuma]] sarakstā iekļauti abās valstīs esošie nacionālie parki, kas ietver ezeru: [[Neizīdles ezera—Zēvinkeles nacionālais parks]] (''Neusiedler See-Seewinkel'') un [[Fertē—Hanšāgas nacionālais parks]] (''Fertő-Hanság''). Ezera apkaimē reģistrētas vairāk kā 300 putnu sugas.
+
+Ezers piesaista lielu skaitu tūristu. Daudz atpūtnieku ierodas no tuvējās [[Vīne]]s — atpūtnieki ezerā sērfo, nodarbojas ar burāšanas sportu, makšķerē. [[2003. gads|2003]]. gadā tūrismu negatīvi ietekmēja ezera līmeņa krišanās, jo laivas daudzviet ezerā sekluma dēļ nevar izbraukt. Seklais ūdens ātri iesilst (vasarās pat līdz {{nobr|30&nbsp;°C}}) un ātri atdziest. Rudeņos un pavasaros raksturīgas vētras. Daļu ezera niedrāju regulāri pļauj un izmanto celtniecībā.
+
+== Vēsture ==
+Ezera piekraste apdzīvota jau 8000 gadus. Ap [[70]]. gadu [[Plīnijs Vecākais]] dēvēja ezeru par ''Lacus Peiso''. Romiešu laikā tika izcirsts ezera piekrastes ozolu mežs tagadējās Ungārijas teritorijā.
+
+Pēc Lielās tautu staigāšanas ezera krastos dzīvoja [[ostgoti]], viņiem sekoja [[Avāri (senie)|avāri]], [[slāvi]] un beidzot — [[ungāri]]. Ap 12. gadsimtu ezera krastos sāka dzīvot arī [[Bavārija]]s ieceļotāji. [[1242]]. gadā [[mongoļi]] iznīcināja ezera apkaimes iedzīvotājus un vēlāk ezera apkaimē ienāca vācu ieceļotāji. No viņiem cēlies arī ezera nosaukums (''Neusiedler'' — ‘ieceļotāji’).
+
+Vēlo viduslaiku karos ezers bija pastāvīga karadarbības zona un vietējie iedzīvotāji bieži bija spiesti slēpties milzīgajos niedrājos.
+
+== Galerija ==
+<gallery>
+Podersdorf nordstrand abendstimmung 1.jpg|Neizīdles ezers pievakarē
+A_Fertő_nádasa_és_a_balfi_dombok.jpg|Neizīdles ezera mitrāji
+Lange_Lacke_Brunnen.jpg
+Fertőd-Hanság_nemzeti_park_Sarród.jpg
+Neusiedler_See_--_Podersdorf.jpg
+</gallery>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.nationalpark-neusiedlersee.org/ Nationalpark Neusiedler See - Seewinkel] {{de ikona}}
+* [http://www.ebepe.com/html/ornithologie.html Putnu vērošanas iespējas pie ezera] {{de ikona}}
+* [http://www.ferto-hansag.hu Fertő-Hanság Nemzeti Park] {{de ikona}} {{hu ikona}}
+* [http://www.naturschutz.at/karten/ns_schutzkat.jpg Dabas aizsargājamo teritoriju kartes]{{Novecojusi saite}} {{de ikona}}
+
+{{Austrija UNESCO}}
+{{Ungārija UNESCO}}
+{{autoritatīvā vadība}}
+[[Kategorija:Austrijas ezeri]]
+[[Kategorija:Ungārijas ezeri]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Austrijā]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Ungārijā]]
+[[Kategorija:Burgenlande]]

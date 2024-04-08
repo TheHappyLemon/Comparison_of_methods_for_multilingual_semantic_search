@@ -1,0 +1,47 @@
+{{Infobox political party
+| country         = Estonia
+| name            = Igaunijas Reformu partija
+| native_name     = Eesti Reformierakond
+| colorcode       = #FFDC00
+| logo            = [[Attēls:Estonian Reform Party logo 2019.svg]]
+| leader          = [[Kaja Kallasa]]
+| foundation      = {{dat|1994|11|18}}
+| founder         = [[Sīms Kallass]]
+| headquarters    = {{vieta|Igaunija|Tallina}}
+| ideology        = 
+*[[liberālisms]]<ref name="Nordsieck">[http://www.parties-and-elections.eu/estonia.html Parties and Elections in Europe: The database about parliamentary elections and political parties in Europe, by Wolfram Nordsieck]</ref>
+* [[klasiskais liberālisms]]<ref>{{Tīmekļa atsauce |url=http://www.nsd.uib.no/european_election_database/country/estonia/parties.html |title=NSD, European Election Database |access-date={{dat|2013|11|12||bez}} |archive-date={{dat|2012|03|05||bez}} |archive-url=https://web.archive.org/web/20120305170144/http://www.nsd.uib.no/european_election_database/country/estonia/parties.html }}</ref>
+* [[tirgus liberālisms]]
+* [[proeiropeisms]]
+| position        = [[centriski labēja politika|Centriski labēja]]
+| international   = 
+| european        = 
+| europarl        = 
+| membership      = 11 262 {{decrease}}
+| membership_year = 2021
+| colours         = Dzeltens un zils
+| seats1_title    = [[Rīgikogu]]
+| seats1          = {{Infobox political party/seats|37|101|hex=#FFDC00}}
+| seats2_title    = [[Eiroparlaments]]
+| seats2          = {{Infobox political party/seats|2|7|hex=#FFDC00}}
+| website         = {{URL|http://www.reform.ee/}}
+| footnotes       = [[Igaunijas politisko partiju uzskaitījums|Partijas Igaunijā]]
+|flag             = [[Attēls:Flag of the Estonian Reform Party.svg|200px|border|Igaunijas Reformu partijas karogs]]
+}}
+'''Igaunijas Reformu partija''' (''Eesti Reformierakond, ER'') ir [[liberālisms|liberāla]] [[politiskā partija|politiska partija]] [[Igaunija|Igaunijā]]. Tai ir lielākā pārstāvniecība [[Rīgikogu|Igaunijas parlamentā]].
+
+Partija dibināta 1994. gadā. Tā piedalījusies vairumā mūsdienu Igaunijas valdību, tāpēc tās politiskā ietekme un pieredze ir visai liela. Partijas ideoloģija balstās uz klasisko liberālismu [[Miltons Frīdmans|Miltona Frīdmana]] un [[Frīdrihs fon Hajeks|Frīdriha fon Hajeka]] izpratnē.
+
+Reformu partijas priekšsēdētāja kopš 2018. gada ir [[Kaja Kallasa]]. 2021. gadā Kallasa kļuva par [[Igaunijas premjerministrs|premjerministri]].<ref>{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/zinas/arzemes/igaunijas-jaunajai-premjerministrei-kallasai-jaatjauno-valsts-reputacija.a390307/|title=Igaunijas jaunajai premjerministrei Kallasai jāatjauno valsts reputācija|website=www.lsm.lv|access-date=2021-01-26|language=lv}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā tīmekļa vietne}}
+
+{{Igaunija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Igaunijas politiskās partijas]]

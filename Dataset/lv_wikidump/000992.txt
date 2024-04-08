@@ -1,0 +1,68 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Karsonsitija
+|official_name            = ''Carson City''
+|settlement_type          = [[Lielpilsēta]]
+|nickname                 = Carson, CC, The Capitol
+|website                  = 
+|image_skyline            = Carson city nevada capitol.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               =
+|image_seal               = 
+|pushpin_map              = ASV#Nevada
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+|subdivision_type1        = [[ASV administratīvais iedalījums|Štats]]
+|subdivision_type2        = 
+|subdivision_name         = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+|subdivision_name1        = [[Nevada]]
+|subdivision_name2        = 
+|government_type          = 
+|leader_title             = [[Pašvaldības vadītājs|Mērs]]
+|leader_name              = Lorija Begvela
+|established_date         = 1858
+|area_footnotes           = |area_magnitude 
+|area_total_km2           = 435.1
+|area_land_km2            = 403.2
+|area_water_km2           = 31.9
+|population_as_of         = 2000
+|population_total         = 52547
+|population_metro         = 
+|population_density_km2   = auto
+|population_footnotes     = 
+|timezone                 = UTC
+|utc_offset               = -8
+|timezone_DST             = UTC
+|utc_offset_DST           = -7
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 775
+|elevation_m              = 1463
+|blank_name               = 
+|blank_info               = 
+|blank1_name              = 
+|blank1_info              = 
+|footnotes                = 
+ | latd = 39 | latm = 09 | lats = 52 | latNS = N
+ | longd = 119 | longm = 46 | longs = 01 | longEW = W
+}}
+'''Kārsonsitija''' ({{val|en|Carson City}}) ir pilsēta [[Amerikas Savienotās Valstis|ASV]], [[Nevada]]s štata galvaspilsēta. Nosaukta amerikāņu karavīra un avantūrista [[Kristofers "Kits" Kārsons|Kita Kārsona]] vārdā. Pilsēta auga pateicoties [[sudrabs|sudraba]] raktuvēm, kuras tika atklātas 1859. gadā. 1864. gada 31. oktobrī, līdz ar Nevadas štata izveidošanu, Kārsonsitija kļuva par štata galvaspilsētu. No 1870. līdz 1893. gadam Kārsonsitijā atradās ASV naudas kaltuve. 1880. gados sudraba raktuves pamazām izsīka, tāpēc pilsēta sāka nīkuļot, līdz 1930. gadā tajā bija 1800 iedzīvotāju (mazākā štata galvaspilsēta). Tomēr pēdējās desmitgadēs pilsēta atdzimst, un tagad Kārsonsitija ir tikai desmitā mazākā štata galvaspilsēta ASV.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{ASV štatu administratīvie centri}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nevadas pilsētas]]
+[[Kategorija:ASV štatu administratīvie centri]]

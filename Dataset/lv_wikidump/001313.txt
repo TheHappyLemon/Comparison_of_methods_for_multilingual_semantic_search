@@ -1,0 +1,70 @@
+{{Apdzīvotas vietas infokaste
+| name = Bitoma
+| official_name = ''Bytom''
+| settlement_type = pilsēta
+| image_skyline =Bytom Rynek.jpg
+| imagesize = 250px
+| image_caption = Tirgus laukums Bitomā
+| image_flag = POL Bytom flag.svg
+| image_shield = Bytom herb.svg
+| shield_size = 75px
+| pushpin_map = Poland
+| pushpin_label_position = 
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = Pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1254
+| area_total_km2 = 69.44
+| population_as_of = 2009
+| population_total    = 183251
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 | latm = 20 | lats = 56 | latNS = N 
+| longd = 18 | longm = 54 | longs = 56| longEW = E
+| elevation_m = 278
+| website = {{url|http://www.um.bytom.pl/}}
+}}
+
+'''Bitoma''' ({{val-pl|Bytom}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] uz ziemeļrietumiem no [[Katovice]]s. Ietilpst [[Augšsilēzijas aglomerācija|Augšsilēzijas aglomerācijā]]. Līdz 1945.gadam ietilpa [[Vācija|Vācijā]] ar nosaukumu '''Beitene''' ({{val-de|Beuthen}}).
+
+Viena no senākajām pilsētām [[Silēzija|Augšsilēzijā]]. No 1284. līdz 1459. gadam Bitoma bija kņazistes centrs. Viduslaikos [[sudrabs|sudraba]] un [[svins|svina]] ieguves centrs, bet jaunākos laikos - [[akmeņogles|akmeņogļu]], [[cinks|cinka]], [[alva]]s ieguve un smagā rūpniecība. Polijas armijas 7. divīzijas (''7. Dywizja Piechoty'') mājvieta.
+
+17. gadsimta sākumā Beitenē vietējā skolā mācījās vācu dzejnieks [[Martīns Opics]] (''Martin Opitz'', 1597 - 1639). [[Silēzijas opera]]s (''Opera Śląska'') mājvieta.
+
+== Cilvēki ==
+
+Bitomā dzimuši:
+* [[Lešeks Engelkings]] (''Leszek Engelking'', 1955) — dzejnieks un tulkotājs;
+* [[Pauls Freiers]] (''Paul Freier'', 1979) — vācu futbolists;
+* [[Mihals Probežs]] (''Michał Probierz'', 1972) — futbolists un futbola treneris;
+* [[Leo Šefčiks]] (''Leo Scheffczyk'', 1920—2005) — teologs;
+* [[Juzefs Šmits]] (''Józef Szmidt'', 1935) — trīssoļlēcējs.
+
+==Apskates objekti==
+*[[Kapsēta Mater Dolorosa]] (''Cmentarz Mater Dolorosa'')
+*[[Silēzijas opera]] (''Opera Śląska'')
+
+==Galerija==
+<gallery>
+OperaSl.jpg|Silēzijas opera
+</gallery>
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+*[https://opera-slaska.pl/ Silēzijas opera]
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Silēzijas vojevodistes apriņķi]]
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

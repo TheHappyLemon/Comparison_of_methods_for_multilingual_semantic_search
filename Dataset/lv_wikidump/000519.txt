@@ -1,0 +1,121 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Dušanbe
+ | official_name            = ''Душанбe''
+ | settlement_type          = pilsēta
+ | image_skyline            = Dushanbe panorama 07.jpg
+ | image_caption            = Skats uz pilsētu no putna lidojuma
+ | image_flag               = 
+ | image_seal               = Coat of Arms of Dushanbe.png
+ | shield_size              = 
+ | pushpin_map              = Tadžikistāna
+ | pushpin_label_position   = 
+ | map_caption              = Dušanbe atrašanās vieta Tadžikistānā
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{TJK}}
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | established_title        = Dibināta
+ | established_date         = 1925. gadā
+ | government_type          = 
+ | leader_title             = Mērs
+ | leader_name              = Rustams Emomali
+ | area_magnitude           = 
+ | area_total_km2           = 124.6
+ | area_urban_km2           = 
+ | area_metro_km2           = 
+ | population_as_of         = 2020. gadā
+ | population_footnotes     = <ref name="iedzīvotāji"/>
+ | population_total         = 863,400
+ | population_urban         = 
+ | population_metro         = 1051200
+ | population_density_km2   = auto
+ | timezone                 = [[Tadžikistānas laiks]]
+ | utc_offset               = +5
+ | latd = 38 | latm = 32 | lats = 12 | latNS = N
+ | longd = 68 | longm = 46 | longs = 48 | longEW = E
+ | coordinates_display      = inline,title
+ | coordinates_region       = TJ
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 734xxx
+ | elevation_footnotes      = 
+ | elevation_m              = 706
+ | website                  = {{URL|http://www.dushanbe.tj/}}
+ | footnotes                = 
+}}
+
+'''Dušanbe''' ({{val|tg|Душанбе}}) ir [[Tadžikistāna]]s galvaspilsēta un lielākā pilsēta. Pilsētas nosaukums no [[tadžiku valoda]]s nozīmē ‘pirmdiena’ (''du'' divi + ''šamba'' vai ''šanbe'' diena) un atsaucas uz to, ka tā bija populāra pirmdienas tirgus vieta. Līdz 1929. gadam pilsēta bija zināma kā '''Dušamba''' ({{val|ru|Дюшамбе}}), bet no 1931. līdz 1961. gadam kā '''Staļinabada''' ({{val|tg|Сталинобод}}). Pēc 2020. gada datiem iedzīvotāju skaits pilsētā bija 863 tūkstoši,<ref name="iedzīvotāji"/> bet tās [[aglomerācija|aglomerācijā]] iedzīvotāju skaits pārsniedza 1,05 miljonus.
+
+== Vēsture ==
+Pirms Dušanbe kļuva par pilsēta šajā vietā atradās trīs nelielas apdzīvotas vietas, no kurām lielāko sauca par Dušambi. Dušambe ilgu laiku bija [[Bukhāras haniste]]s sastāvā. 1920. gadā tā nonāca Padomju Savienības kontrolē. Kā pilsēta tā dibināta 1925. gadā, un tā vienlaicīgi tika izvēlēta kā [[Tadžikijas PSR]] galvaspilsēta.
+
+== Ģeogrāfija ==
+Pilsēta atrodas [[Varzoba]]s (Dušanbinkas) upes krastos [[Gisaras ieleja|Gisaras ielejā]], republikas dienvidrietumos.
+
+Pēc [[Kepena klimata klasifikācija]]s Dušanbē valda [[Vidusjūras klimats]] (Csa) ar [[kontinentālais klimats|kontinentālā klimata]] (Dsa) iezīmēm. Vidējā [[gaisa temperatūra]] svārstās no +2,1 °C janvārī līdz +27,1 °C jūlijā. Vidējais [[nokrišņu daudzums]] gadā ir 567 mm, vasaras ir sausas.
+
+== Demogrāfija ==
+Dušanbē 2011. gadā dzīvoja 83,4% [[tadžiki]], 9,1% [[uzbeki]], 5,1% [[krievi]] un 2,4% citu tautību cilvēki.
+
+{| class="wikitable"
+|+ Dušanbe iedzīvotāju skaita dinamika
+! Gads !! Iedzīvotāju skaits
+|-
+! 1926
+| 6 000
+|-
+! 1936
+| 83 000
+|-
+! 1956
+| 227 000
+|-
+! 1971
+| 388 000
+|-
+! 1991
+| 582 000
+|-
+! 2002
+| 579 000
+|-
+! 2004
+| 524 000
+|-
+! 2006
+| 661 000
+|-
+! 2020
+| 863 400
+|}
+
+== Sadraudzības pilsētas ==
+Šobrīd Dušanbei ir 10 [[sadraudzības pilsētas]].
+* {{flagicon|Afghanistan}} [[Kabula]], [[Afganistāna|Afghanistānā]]
+* {{flagicon|Iran}} [[Teherāna]], [[Irāna|Irānā]]
+* {{flagicon|Russia}} [[Maskava]], [[Krievija|Krievijā]]
+* {{flagicon|Russia}} [[Sanktpēterburga]], [[Krievija|Krievijā]]
+* {{flagicon|Turkey}} [[Akhisāra]], [[Turcija|Turcijā]] 
+* {{flagicon|USA}} [[Buldera]], [[Amerikas Savienotās Valstis|ASV]]
+* {{flagicon|Austria}} [[Klāgenfurte]], [[Austrija|Austrijā]]
+* {{flagicon|Turkey}} [[Ankara]], [[Turcija|Turcijā]]
+* {{flagicon|Pakistan}} [[Lahora]], [[Pakistāna|Pakistānā]]
+* {{flagicon|Yemen}} [[Sana]], [[Jemena|Jemenā]] 
+* {{flagicon|Zambia}} [[Lusaka]], [[Zambija|Zambijā]]
+
+== Atsauces ==
+{{Atsauces|refs=
+<ref name="iedzīvotāji">''Tadžikistānas Republikas iedzīvotāju skaits 2012. gada 1. janvārī, Valsts statistikas komiteja, Dušanbe {{ru ikona}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āzija-aizmetnis}}
+{{Āzijas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tadžikistānas administratīvais iedalījums]]
+[[Kategorija:Āzijas galvaspilsētas]]
+[[Kategorija:Dušanbe| ]]

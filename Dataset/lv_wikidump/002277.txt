@@ -1,0 +1,26 @@
+[[Attēls:Ir girl.png|thumb|250px|Divu cilvēku attēls infrasarkanajā (siltuma) starojumā]]
+'''Infrasarkanais starojums''' ir [[elektromagnētiskie viļņi]] ar [[viļņa garums|viļņa garumu]] no 750 nm līdz 1000 μm ([[frekvence]]s no 400 T[[hercs|Hz]] līdz 300 GHz).<ref>{{tīmekļa atsauce |title=Definition infrared radiation (IR) |url=https://www.techtarget.com/searchnetworking/definition/infrared-radiation |publisher=techtarget.com}}</ref> Šo viļņu garums ir lielāks nekā [[redzamā gaisma|redzamajai gaismai]], bet mazāks nekā [[mikroviļņi]]em.
+
+Termins "infrasarkanais" radies no latīņu vārda "infra", kas nozīmē "zem" [[sarkanā krāsa|sarkanās krāsas]], jo sarkanā krāsa ir redzamā gaisma ar garāko viļņa garumu, kādu spēj atšķirt cilvēka redze.
+
+Infrasarkano starojumu sauc arī par [[siltumstarojums|siltumstarojumu]], jo [[normāli apstākļi|normālos apstākļos]] ķermeņi kā siltumstarojumu izstaro galvenokārt infrasarkano starojumu. Visi ķermeņi, kuru temperatūra ir augstāka par 0 [[Kelvins|Kelvina]] grādiem, izstaro siltumstarojumu (ļoti aukstiem ķermeņiem šis starojums pārsvarā būs [[radioviļņi|radioviļņu]] diapazonā). Cilvēks ar normālu ķermeņa temperatūru izstaro galvenokārt 12 μm garus infrasarkanos viļņus.<ref name="skola">{{tīmekļa atsauce |title=Infrasarkanais starojums |url=https://www.uzdevumi.lv/p/fizika/12-klase/gaismas-vilni-9199/re-00f25f45-a3d4-44be-ba57-2668308d32b2 |publisher=uzdevumi.lv}}</ref> Palielinoties [[temperatūra]]i, palielinās kopējā intensitāte un spektrā parādās augstākas frekvences komponentes (700 °C temperatūrā ķermeņi sāk izstarot redzamo gaismu). 
+
+Infrasarkano starojumu izmanto dažādās tehnoloģijās, tai skaitā attēlu iegūšanā ar [[termogrāfija]]s ierīcēm. Pēc viļņa garuma infrasarkano starojumu iedala tuvajā (0,78—3 μm), vidējā (3—50 μm) un tālajā (50—1000 μm).<ref name="skola" /> Tuvo infrasarkano starojumu lieto komunikācijām, [[optiskā šķiedra|optiskajās šķiedrās]], jo šādiem viļņu garumiem ir vismazākā [[absorbcija]]. [[CCD]] matricas arī ir jutīgas pret šiem viļņu garumiem. Lielākā daļa siltu ķermeņu starojuma ir vidējais infrasarkanais starojums. Tālo infrasarkano starojumu izmanto terapijā, lietojot terminu "bioģenētiskais starojums". Cilvēka ķermenis šādu starojumu sajūt kā siltumu, un tas var iekļūt gandrīz 4 cm zem ādas.<ref>{{tīmekļa atsauce |title=Far infrared radiation (FIR): its biological effects and medical applications |url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3699878/ |publisher=National Library of Medicine}}</ref> Tālā infrasarkanā starojuma tālāko apgabalu dažreiz nodala atsevišķi kā tera[[hercs|hercu]] starojumu.
+
+== Skatīt arī ==
+* [[Ultravioletais starojums]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+{{EMspektrs}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Elektromagnētiskais spektrs]]

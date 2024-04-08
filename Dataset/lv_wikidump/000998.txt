@@ -1,0 +1,45 @@
+[[Attēls:Feed-icon.svg|thumb|right|''De facto'' standarta RSS ikona]]
+
+'''RSS''' ir [[valoda XML|XML]] [[tīmekļa sindikācija]]s failu formātu saime, ko plaši izmanto ziņu [[tīmekļa vietne]]s un [[tīmekļa žurnāls|tīmekļa žurnāli]]. Ar šo terminu apzīmē trīs standartus: Rich Site Summary (RSS 0.9x), Really Simple Syndication (RSS 2.0), RDF Site Summary (RSS 0.9 un 1.0)
+
+== Lietojums ==
+RSS izmanto, lai piegādātu atsevišķas tīmekļa satura vienības kopā ar īsu aprakstu un saiti uz pilno saturu. Informācija tiek piegādāta kā [[valoda XML|XML]] fails, ko sauc par '''RSS plūsmām''', '''RSS padevēm''', '''RSS barotnēm''', '''RSS straumēm''' jeb '''RSS kanāliem'''.
+
+Programmas, ko sauc par [[ziņu agregators|ziņu agregatoriem]], māk bez tiešas lietotāja iejaukšanās pārbaudīt RSS atbalstošas tīmekļa vietnes un automātiski ziņot par jaunu informāciju, kas tajās parādījusies. Tas aiztaupa lietotājam nepieciešamību periodiski aplūkot šīs tīmekļa vietnes, tikai lai pārliecinātos, ka tajās nav kāda jauna informācija, kā arī parakstīties uz tīmekļa vietnes jaunumu piesūtīšanu ar e-pasta starpniecību. Pazīstamas ārvalstu vietnes, kas piedāvā sekot jaunumiem ar RSS palīdzību ietver [[The New York Times]], [[The Wall Street Journal]] un [[BBC]]. Latvijā šādu iespēju nodrošina visi lielākie ziņu portāli - [[Apollo portāls]], [[Delfi (portāls)|DELFI.lv]] un [[TVNET]].
+
+RSS plaši izmanto [[tīmekļa žurnāls|tīmekļa žurnālu]] kopiena, lai dalītos ar jaunāko žurnālu ierakstu virsrakstiem vai pat pilniem ierakstiem.
+
+Ziņu agregatori parasti tiek veidoti kā [[tīmekļa pārlūkprogramma|tīmekļa pārlūkprogrammu]] un [[e-pasts|e-pasta]] programmu papildinājumi, vai arī kā atsevišķas programmas. Daudzām tīmekļa pārlūkprogrammām RSS atbalsts jau ir iebūvēts, kā piemērus var minēt [[Mozilla Firefox]] un [[Opera (pārlūkprogramma)|Opera]].
+
+Web-bāzēti barotņu lasītāji un agregatori, kā My Yahoo! un [https://web.archive.org/web/20070329170405/http://www.bloglines.com/ Bloglines] neprasa papildus programmatūras uzstādīšanu un padara RSS barotnes pieejamas lietotājam no jebkura datora ar Interneta pieslēgumu.
+
+Daži agregatori sindicē (kombinē) vairākas RSS barotnes jaunās RSS barotnēs, piemēram, savācot informāciju no vairākām sporta barotnēm un veidojot jaunu sporta barotni.
+
+Tīmekļa vietnēs uz RSS barotnēm bieži vien norāda saites, kas vizuāli izskatās kā oranžs taisnstūris ([[Attēls:Feed-icon.svg|16px]]), kas var saturēt arī uzrakstu baltiem burtiem ar tekstu "XML" ([[Attēls:XML icon.svg]]) vai "RSS" ([[Attēls:RSS icon.svg]]).
+
+== Vēsture ==
+Sākotnējā RSS versija bija 0.9, ko izstrādāja [[Netscape]] izmantošanai savā "My Netscape" portālā. Sākotnēji tas tika balstīts uz [[Resource Description Framework|RDF]] (''RDF Site Summary''). Taču vēlāk Netscape tirgzinības speciālisti nolēma formātu vienkāršot. Vienkāršoto versiju nosauca par ''Rich Site Summary''. Netscape vēlāk formātu papildināja, pievienojot tam jaunas iespējas no Scripting News XML formāta, ko bija izstrādājis Deivs Vīners.
+
+2000. gadā izstrādātāju grupa, kas balstījās ap rss-dev adresātu sarakstu, izstrādāja jaunu standarta versiju - RSS 1.0, kas bija balstīts uz RSS 0.9, ņemot vērā [[Globālais Tīmekļa Konsorcijs|Globālā Tīmekļa Konsorcija]] RDF un XML standartus. RSS 1.0 tika izstrādāts kā iesaldēts standarts, kas papildināms ar XML vārdu telpām (''namespaces''). Dažus mēnešus vēlāk Deivs Vīners izstrādāja RSS 0.92 standartu, kas papildināja RSS 0.91 ar jauniem elementiem.
+
+Pēdējā RSS 0.92 atzara versija ir RSS 2.0.1, kas arī tiek uzskatīts par iesaldētu un tā paplašināšana ir paredzēta moduļu veidā, izmantojot XML vārdu telpas.
+
+== Savietojamības problēmas ==
+Ar RSS apzīmē vairākus sindikācijas protokolus (un atšķirīgas to versijas) un pastāv uzskats, ka tās savā starpā nav savietojamas. Citi tam nepiekrīt, argumentējot ar to, ka RSS ir balstīts uz XML un savietojamība ir sasniedzama ar [[XSLT]], kuru RSS agregatoriem tāpat būtu jāizmanto, lai pārvērstu RSS lietotājam saprotamā formātā. Agregatoru izstrādātāji un RSS publicētāji parasti cenšas atbalstīt vairākus XML sindikācijas standartus.
+
+Cita savietojamības problēma rodas, kad publicētāji ievieto barontēs nelielus [[HTML]] koda fragmentus. Daži tos pievieno kā CDATA sekcijas, savukārt citi - kā HTML kodētu PCDATA. Dažādās RSS versijās lietotais datumu formāts arī ir atšķirīgs. Tāpat daudzi barotņu autori mēdz jaukt kopā dažādu standartu piedāvātās iespējas vai arī pievieno jaunas iespējas, ko atbalsta noteikti agregatori, tādējādi padarot barotnes neatbilstošas nevienam standartam, un dažreiz tās pat nav korekti noformēti XML dokumenti.
+
+== Skatīt arī ==
+* [[Atom standarts|Atom]]
+* [[Semantiskais tīmeklis]]
+* [[Vikipēdija:Syndication]]
+
+== Ārējās saites ==
+* [http://purl.org/rss/1.0/ RSS 1.0 specifikācija] (angliski)
+* [http://blogs.law.harvard.edu/tech/rss RSS 2.0.1 specifikācija] (angliski)
+* [https://web.archive.org/web/20051222215951/http://apollo.lv/portal/news/85/articles/311 RSS — ziņas, kas pie lasītāja nāk pašas]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Uz XML bāzēti standarti]]
+[[Kategorija:Tīmekļa sindikācija]]

@@ -1,0 +1,48 @@
+{{Upes infokaste 
+| nosaukums         = Brda
+| citvaloda         = pl
+| oriģinālnosaukums = Brda
+| attēls            = Bydgoszcz BRE spichrze.jpg
+| attēla_izmērs     = 
+| paraksts          = Brdas upe [[Bidgošča|Bidgoščā]]
+| karte             = Upe_Brda.png
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = Pomoržes ezeru augstiene
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Visla]]
+| baseina_valstis   = 
+| tek_caur          = {{POL}}
+| garums            = 238 
+| iztekas_augstums  = 181
+| ietekas_augstums  = 28,8
+| kritums           = 
+| caurtece          = 27,4
+| caurtece_vieta    = Smukala
+| gada_notece       = 
+| baseins           = 4 627
+| baseins_latvijā   = 
+| pietekas          = 
+| sāk_plat_d= | sāk_plat_m= | sāk_plat_s= | sāk_plat_NS=N 
+| sāk_gar_d= | sāk_gar_m= | sāk_gar_s= | sāk_gar_EW=E 
+| iet_plat_d=53 | iet_plat_m=7 | iet_plat_s=37 | iet_plat_NS=N 
+| iet_gar_d=18 | iet_gar_m=8 | iet_gar_s=3 | iet_gar_EW=E
+}}
+'''Brda''' ({{val|pl|Brda}}) — upe [[Polija]]s ziemeļos, [[Visla]]s kreisā krasta pieteka. Sākas Pomožes ezeru augstienē no Smolovas ezera. 20. gadsimta 50. un 60. gados uzceltas vairākas [[hidroelektrostacija|HES]]. Ietek Vislā netālu no Bidgoščas.
+
+== Lielas pilsētas Brdas krastos ==
+
+* [[Bidgošča]] (''Bydgoszcz'')
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vislas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Kujāvijas-Pomožes vojevodiste]]
+[[Kategorija:Pomožes vojevodiste]]

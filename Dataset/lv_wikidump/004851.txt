@@ -1,0 +1,20 @@
+{{navbox
+|name = Latvijas futbola Virslīga
+|title = [[2024. gada Latvijas futbola Virslīgas sezona|<font color="white">2024. gada</font>]] [[Latvijas futbola Virslīga|<font color="white">Latvijas futbola Virslīgas čempionāta</font>]] komandas
+|titlestyle = background:#8A3025; color:white;
+|listclass = hlist
+|state = uncollapsed
+|list1 =
+* [[FK Auda|Auda]]
+* [[BFC Daugavpils|Daugavpils]]
+* [[Grobiņas SC/LFS|Grobiņa]]
+* [[FS Jelgava|FS Jelgava]]
+* [[FK Liepāja|Liepāja]]
+* [[FK Metta|Metta]]
+* [[FK RFS|RFS]]
+* [[Riga FC|Riga]]
+* [[FK Tukums 2000|Tukums 2000]]
+* [[Valmiera FC|Valmiera]]
+}}<noinclude>
+[[Kategorija:Latvijas futbola Virslīgas veidnes|Komandas]]
+</noinclude>

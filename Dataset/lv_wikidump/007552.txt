@@ -1,0 +1,85 @@
+{{Latvijas novada infokaste
+| nosaukums         = Dvietes pagasts
+| karte             = Dvietes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Dvietes pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Dvietes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Augšdaugavas novads
+| centrs            = Dviete
+| platība           = 118,4
+| iedzīvotāji       = 663<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 663 / 118.4 round 1}}
+| izveidots         = 1863
+| mājaslapa         = 
+}}
+
+'''Dvietes pagasts''' ir viena no [[Augšdaugavas novads|Augšdaugavas novada]] administratīvajām teritorijām tā ziemeļaustrumos [[Daugava]]s kreisajā krastā. Robežojas ar sava novada [[Pilskalnes pagasts (Ilūkstes novads)|Pilskalnes]], [[Bebrenes pagasts|Bebrenes]], [[Nīcgales pagasts|Nīcgales]] un [[Līksnas pagasts|Līksnas]] pagastiem, kā arī [[Jēkabpils novads|Jēkabpils novada]] [[Rubenes pagasts|Rubenes]] un [[Dunavas pagasts|Dunavas]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Alkšņupīte (Viesītes pieteka)|Alkšņupīte]], [[Daugava]], [[Dviete (upe)|Dviete]], [[Ilūkste (upe)|Ilūkste]], [[Juzīne]], [[Malnupiete]], [[Puntouka]], [[Viesīte (upe)|Viesīte]].
+
+==== Ezeri ====
+[[Dvietes ezers]], [[Skuķu ezers]].
+
+== Vēsture ==
+19. gadsimtā Dvietes pagastā atradās Dvietes muiža (''Dweeten'') ar Janopoles pusmuižu (''Jannopol''), kurā atradās [[Kurzemes guberņa]]s pēdējā tūka manufaktūra. 
+1864. gada uzcēla Dvietes katoļu baznīcas mūra ēku. Pirmā pasaules kara laikā cauri pagastam vairākus gadus gāja frontes līnija.
+Pēc 1920. gada agrārās reformas Dvietes muižu ar pusmuižām 2613 ha kopplatībā sadalīja 235 vienībās (jaunsaimniecībās).   
+1935. gadā [[Ilūkstes apriņķis|Ilūkstes apriņķa]] Dvietes pagasta platība bija 106,5 km² un tajā dzīvoja 2296 iedzīvotāji.<ref>{{EncLP}}</ref> 
+
+1945. gadā pagastā izveidoja Dvietes un [[Zariņu ciems|Zariņu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Dvietes ciems''' (vēlāk pagasts) ietilpis [[Ilūkstes rajons|Ilūkstes]] (1949-1962) un [[Daugavpils rajons|Daugavpils]] (1962-2009) rajonos. 1954. gadā Dvietes ciemam pievienots likvidētais Zariņu pagasts, 1959. gadā - [[Bebrenes ciems|Bebrenes ciema]] [[kolhozs|kolhoza]] «Līga» teritorija. 1961. gadā Dvietes ciema kolhoza «Gaisma» teritorija pievienota Bebrenes ciemam, bet 1964. gadā daļa teritorijas pievienota [[Dunavas ciems|Dunavas ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Dvietes pagastu pievienoja [[Ilūkstes novads|Ilūkstes novadam]]. 2021. gada Ilūkstes novadu iekļāva [[Augšdaugavas novads|Augšdaugavas novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas: [[Dviete]] (pagasta centrs), [[Glaudāni (Dvietes pagasts)|Glaudāni]], [[Krapāniški]], [[Munči]], [[Perkuniški]], [[Zarinki]], [[Zvīdrāni]].
+
+=== Ievērojamas personības ===
+* [[Heinrihs Strods]] (1925—2012), vēsturnieks.
+* [[Pauls Sukatnieks]] (1914–1989), selekcionārs.
+* [[Jāzeps Rudzītis]] (1928–2008), folklorists un literatūrzinātnieks.
+* [[Sigizmunds Timšāns]] (1931–2007), zinātnieks.
+* [[Kazimirs Lapuška]] (1936–2013), astronoms.
+* [[Sofija Samsone]] (1913–2005), gleznotāja.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Attēlu galerija ==
+<center><gallery>
+attēls:Dvietes baznica.JPG|<center><small>Dvietes katoļu baznīca</small></center>
+attēls:Dvietes baznica2.JPG|<center><small>Dvietes katoļu baznīca</small></center>
+attēls:pieminas akmens dviete.JPG|<center><small>Piemiņas akmens</small></center>
+attēls:krucifikss un skola.JPG|<center><small>Krucifikss un skola</small></center>
+attēls:dviete marija.JPG|<center><small>Dievmātes statuja</small></center>
+</gallery></center>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://www.manadviete.lv/ Vietne "Mana Dviete"]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Augšdaugavas novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Ilūkstes novads}}
+{{Daugavpils rajons}}
+{{Ilūkstes apriņķis}}
+}}
+[[Kategorija:Sēlija]]
+[[Kategorija:Augšdaugavas novada pagasti]]
+[[Kategorija:Dvietes pagasts| ]]

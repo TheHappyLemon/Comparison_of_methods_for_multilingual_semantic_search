@@ -1,0 +1,27 @@
+{{TCPIPmodelis}}
+{{OSI protokolu steks}}
+'''SOCKS''' ir viens no interneta protokoliem, kas nodrošina iespēju [[klients (datorikā)|klienta]] programmām piekļūt [[serveris|serveriem]] aiz ugunsmūra. Aiz ugunsmūra esošie klienti, kas grib pieslēgties ārējam serverim, pieslēdzas SOCKS serverim un tas izveido [[savienojums|savienojumu]] uz ārējo serveri. SOCKS serveris var noteikt, kādām [[IP adrese|adresēm]] un portiem lietotāji drīkst piekļūt. SOCKS darbojas kā klientu programmu vadāms ''portu redirekts''. Līdzīgiem mērķiem biežāk lieto [[NAT]], jo to ir vienkāršāk nokonfigurēt, un tam ir mazāks ''overhead''.
+
+== Versijas ==
+Pirmā izplatītā protokola versija bija SOCKS4. Tā nodrošināja izejošos un ienākošos [[TCP]] savienojumus, tomēr daudzi SOCKS4 serveri nenodrošināja ienākošo savienojumu izveidošanu. Te nebija paredzētas nekāda veida [[UDP]] komunikācijas un pieprasījumos varēja norādīt tikai IP adreses, tas ir, bija nepieciešams atsevišķs iekšējais [[DNS (protokols)|DNS]] serveris. Vēlāk tika izveidota versija SOCKS4a, kur bija iespēja pieprasījumos norādīt domēna vārdu (uz IP adresi pārveidoja pats SOCKS serveris, izmantojot uz tās mašīnas pieejamos DNS serverus).
+
+Vēlāk tika izveidota 5. versija. Šeit ir iespējamas arī UDP komunikācijas un [[IPv6]]. Tā kā 4a versija nebija oficiāla, var uzskatīt, ka domēnu vārdu lietošanas iespēja pieprasījumos parādījās šeit.
+
+== Darbība ==
+Klienta programma atver savienojumu uz SOCKS serveri un nosūta identifikācijas datus. Iespējamas vairākas metodes: null - (nav identifikācijas, vai arī identificē pēc IP adreses); [[lietotājvārds]] un parole - (pašsaprotami); ir arī citas metodes. Pēc veiksmīgas identifikācijas klients nosūta pieprasījumu, kur var norādīt vienu no iespējamajām darbībām:
+# Atvērt izejošo savienojumu (DNS domēns vai IP adrese un ports) (''CONNECT'');
+# Atvērt ''soketu'' ienākošajiem TCP savienojumiem (''BIND'');
+# Asociēt UDP portu (''UDP ASSOCIATE'').
+
+Daudzi SOCKS serveri nenodrošina 2. un 3. iespēju.
+
+Tālāk:
+*1. gadījumā serveris atver savienojumu uz norādīto ārējo serveri (vai atmet atpakaļ kļūdas paziņojumu, ja tas nav iespējams), un komunikācijas notiek tāpat, kā bez SOCKS servera.
+*2. gadījumā serveris atver TCP portu uz ārējā interfeisa un atsūta atpakaļ tur lietoto ip adresi un portu, pēc tam, kad tur pienāk ienākošais savienojums, serveris atsūta datus par šo savienojumu un pēc tam var pārsūtīt datus. Šis gadījums ir iespējams tikai, ja jau eksistē kāds atvērts izejošs TCP savienojums, ienākošais savienojums ir iespējams tikai no adreses, uz kuru ir atvērts izejošs savienojums, piedevām, atvērtais ienākošais sokets aizveras pēc vienas ienākošās konnekcijas izveidošanas, kā arī, atvērtam soketam var būt īss ''timeout'', kurā vai nu jāsaņem ienākošo savienojumu, vai arī tas aizvērsies. Šī funkcionalitāte bija paredzēta [[FTP#Datu savienojuma atvēršanas metodes|aktīvajam FTP]], jo tur serveris atver datu konnekciju uz klientu. Šī funkcionalitāte tādējādi nav piemērota normāliem TCP serveriem.
+*3. gadījumā klients sākumā atver TCP konnekciju uz SOCKS serveri, kur asociē UDP portu un servera atbildē dabū vai nu kļūdu, ka neizdevās asociēt, vai arī portu un servera adresi. Pēc tam ir iespējams komunicēt caur UDP tikmēr, kamēr tur šo vadības TCP savienojumu vaļā. UDP paketēm starp klientu un SOCKS serveri pieliek papildu headeri, kas satur vajadzīgā UDP servera IP adresi un portu, UDP paketēm, kas SOCKS serverī pienāk no ārējā tīkla, pieliek tādu pašu headeri. Te tādējādi ir iespējams darbināt normālu UDP serveri.
+
+Daudzas klienta programas nenodrošina darbību caur SOCKS. Šādos gadījumos var lietot citas programmas, kas pārtver (''sockcificē'') (angliski: ''socksify'') attiecīgas programmas tīkla piekļuves pieprasījumus un izlaiž tos caur SOCKS serveri. SOCKS serveri parasti darbojas uz 1080. TCP porta. SOCKS serveri ir programmas, kas darbojas [[lietojuma slānis|lietojuma slānī]], programmas, kas ar SOCKS spēj darboties natīvi, arī atrodas tikai lietojuma slānī. S''ockcifikatori'' atrodas starp [[transporta slānis|transporta slāni]] un lietojuma slāni.
+
+SOCKS5 protokols ir standartizēts {{RFC|1928}} (1996. gada martā).
+
+[[Kategorija:Interneta protokoli]]

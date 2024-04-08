@@ -1,0 +1,96 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jaunannas pagasts
+| karte             = Jaunannas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Jaunanna
+| platība           = 93,99
+| iedzīvotāji       = 510<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|26||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }} {{Webarchive|url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |date={{dat|2016|10|20||bez}} }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 510 / 93.99 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Jaunannas pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā dienvidos. Robežojas ar sava novada [[Annas pagasts|Annas]], [[Malienas pagasts|Malienas]] un [[Mālupes pagasts|Mālupes]] pagastiem, [[Balvu novads|Balvu novada]] [[Kubulu pagasts|Kubulu pagastu]], kā arī [[Gulbenes novads|Gulbenes novada]] [[Litenes pagasts|Litenes]] un [[Stāmerienas pagasts|Stāmerienas]] pagastiem. Pagasta centrs ir [[Jaunanna]]s ciems.
+
+== Vēsture ==
+1945. gadā [[Valkas apriņķis|Valkas apriņķa]] [[Annas pagasts|Annas pagastā]] izveidoja Meiera [[ciema padome|ciema padomi]]. Ciems tika nosaukts [[partizāni|partizānu]] atbalstītāja Hugo Meiera vārdā.<ref>{{Tīmekļa atsauce |url=http://www.aluksne.lv/pilseta_par_aluksni/jaunanna.htm |title=Alūksnes novads. Jaunannas pagasta pārvalde |access-date={{dat|2010|10|30||bez}} |archiveurl=https://web.archive.org/web/20100824021554/http://www.aluksne.lv/pilseta_par_aluksni/jaunanna.htm |archivedate={{dat|2010|08|24||bez}} }}</ref> '''Meiera ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1945-1949) un [[Alūksnes rajons|Alūksnes]] (1949-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962-1967) rajonos.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 1990. gada 22. novembrī '''Meiera pagastu''' pārdēvēja par Jaunannas pagastu.<ref>{{EncLP}}</ref> 2009. gadā Jaunannas pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+Vēl 18. gadsimtā Jaunannas apkaimē pletās lieli mežu un purvu masīvi. Zviedru laikā Jaunannas teritorija bija tieši piekļauta Alūksnes pils muižai. Te atradās dažas zemnieku sētas (piemēram., Gribažas, Vēršas), kas pieminētas 1683. gada kadastrā. Jaunanna kā pusmuiža sāka veidoties  18. gadsimta otrajā pusē, kad Alūksnes, Annas un citu  muižu īpašnieks bija slepenpadomnieks Oto Hermanis fon Fītingofs. Šajā laikā pie Ievednes ietekas Pededzē tika uzbūvēts aizsprosts, šeit darbojās ūdensdzirnavas ar sudmalām un zāģētavu, kā arī vara kaltuve. Pirms Pirmā pasaules kara Pededzes upei bija liela saimnieciska nozīme  - pa upi pludināja baļķus un stutmalku Otrā pasaules kara laikā apkārtnes mežos bāzējās sarkano partizānu vienības un norisinājās ievērojamas kaujas. Varbūt tieši tāpēc vācieši atkāpjoties pagastā nodedzināja 2/3 ēku, bet Jaunannas centru nopostīja pilnīgi.<ref name="ReferenceA">Ziemeļvidzemes ainavas Noklusētie stāsti,Sandra Ikauniece, 18.lpp., {{ISBN|978-9984-96569-7}}</ref>
+
+Jaunannas pagasta teritorijā atrodas valsts nozīmes arhitektūras piemineklis - Jaunannas medību pils, kuru 20. gadsimta sākumā būvēja barons Aksels fon Delvigs. Pagasta teritorijas nomali šķērso [[dzelzceļa līnija Gulbene—Alūksne|Alūksnes—Gulbenes šaursliežu dzelzceļa līnija]] ar [[Paparde (stacija)|Papardes staciju]]. Līnija jāatzīmē kā unikāls kultūrvēsturisks objekts - tā ir vienīgā funkcionējošā šāda tipa dzelzceļa līnija Latvijā. Pagasta platība 2010. gadā bija 94&nbsp;km<sup>2</sup>, dzīvoja 553 iedzīvotāji.<ref name="ReferenceA"/>
+
+== Daba ==
+Jaunannas pag. atrodas Alūksnes augstienes Malienas paugurainē un Austrumlatvijas zemienes Adzeles pacēlumā. Virsas augstums sasniedz 130.9 m vjl. 63,8% pagasta platības aizņem meži  un purvi.
+
+=== Upes ===
+Pagastam cauri tek Aiviekstes labā pieteka [[Pededze]] ar pietekām [[Ievedne (upe)|Ievedne]] un [[Paparze]], kā ari levednes pietekas [[Panāsīte]] un [[Svarīte]].
+
+=== Dabas liegums "Jaunanna" ===
+Dabas liegums „Jaunanna” dibināts 1999. gadā ar mēŗķi aizsargāt Pededzes upi un mežus. 50, 4% no teritorijs aizņem īpaši aizsargājamie biotopi ar retām vai aizasrgājamām augu sugām, sūnu un ķērpju sugām, putnu, sikspārņu un bezmugurkaulnieku sugām.<ref>{{tīmekļa atsauce |title=Jaunanna |url=https://www.daba.gov.lv/lv/jaunanna}}</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1400
+|1959|524
+|1967|599
+|1979|609
+|1989|604
+|2000|637
+|2011|473
+|2021|389
+}}
+
+=== Apdzīvotas vetas ===
+[[Dekšņi]], [[Gribažas]], [[Ievedne]], '''[[Jaunanna]]''', [[Lēģernieki]], [[Mežtekas]], [[Silaveršas]], [[Svari]].
+
+== Kultūrvēsturiskas vietas ==
+=== Papardes stacija ===
+[[Attēls:Paprdes stacija.jpg|thumb|alt=Gulbenes - Alūksnes bānītis|Papardes stacija]]
+Papardes stacija atrodas šaursliežu dzelzceļa Gulbene – Alūksne līnijas vidusdaļā – 21.kilometrā un ir vilciena pirmā apstāšanās vieta Alūksnes novadā līdzās plašam meža masīvam, netālu no tilta pār Paparzes upi. Vēsturiski tvaika lokomotīve šeit papildināja ūdens un kurināmā rezerves.<ref name="02.02.2023.">{{tīmekļa atsauce |title=Papardes stacija |url=https://visitaluksne.lv/visit/papardes-stacija/}}</ref>
+
+=== Papardes stacijas ūdenstornis ===
+[[Attēls:Papardes stacijas ūdens tornis.jpg|thumb|Papardes stacijas ūdens tornis]]
+Ūdenstorņi stacijās tika veidoti, lai tiktu nodrošināta regulāra tvaika dzelzceļa lokomotīvju apgāde ar ūdeni. Agrāk Annasmuižas, taču šobrīd — Papardes stacija tika ierīkota jau pēc dzelzceļa nodošana ekspluatācijā, laikā līdz 1907. gadam, galvenokārt meža izvešanas atzarojuma apkalpošanas nepieciešamībām. Liela daļa iedzīvotāju uzskata, ka tur ir uzbūvēts ūdenstornis. No rūpīgi kaltiem laukakmeņiem un sarkaniem ķieģeļiem celtā ūdenstorņa uzvirzīja pamatīgu cauruli virs lokomotīves un piepildīja tvaika dzinēju pilnu ar ūdeni. Sūknis tika darbināts ar petrolejas motoru. Ūdenstilpne ir gatavota no pamatīgām dzelzs plātnēm, kas kopā sastiprinātas ar resnām, izturīgām kniedēm. Zem ūdenstilpnes atrodas liela skārda krāsns, lai ziemā neaizsalst ūdens. Netālu no ūdenstorņa bija ierīkots lokomotīves apgriešanās trijstūrveida sliežu ceļš, kas padomju laikos tika likvidēts. Ievērojamās ēkas bija nepieciešamas, lai varētu apgriezt tvaika lokomotīves, jo normālas ekspluatācijas apstākļos vilciena sastāvā lokomotīvei jābūt ar katlu braukšanas virzienā.<ref name="ReferenceB"/>
+
+=== Bānīša ceļš ===
+No 1910.–1912. gadam kokmateriālu pārvadāšanas vajadzībām no Papardes stacijas izbūvēja šaursliežu dzelzceļa atzaru [[dzelzceļa līnija Pļaviņas—Valka|Pļaviņu—Valkas līnijas]] kas veda uz [[Pededze|Pededzi]] dienvidos no Jaunannas un uz dažādiem mežiem, kas atradās Pededzes otrā krastā. Darbs tik cītīgi veidots ar rokām un kā palīgmateriāli tika izmantotas lāpstas, cirvji un zāģi. Šaursliežu dzelzceļa garums no Papardes stacijas caur Jaunannu līdz Mālupes pagasta robežai ir 14,4&nbsp;km garš. Agrāk pāri Pededzes upei tika izveidots dzelzsbetona tilts, taču 1944. gadā, vāciešiem atkāpjoties, dzelzceļa tilts tika uzspridzināts. Agrāk uz dzelzceļa uzbēruma tika izveidots autoceļš pa mežu,  tā pamatā bija koka un smilts – grants uzbērums, tādā veidā tas tika nosaukts par „Bānīša ceļu”.<ref name="ReferenceA"/>
+
+=== Robežu zīmes ===
+Ar Jaunannas pagastu robežojas vairāki citi pagasti – Alūksnes novada Annas, Malienas, Mālupes pagasts kā arī Balvu novada Kubulu pagasts, un Gulbenes novadā esošais Stāmerienas un Litenes pagasts. Vietās, kur ir robeža, atrodas savdabīgas robežu zīmes – lieli pelēkie laukakmeņi. Pavisam kopā tie ir 4.<ref name="ReferenceB">Ziemeļvidzemes ainavas Noklusētie stāsti,Sandra Ikauniece, 18.-19.lpp., {{ISBN|978-9984-96569-7}}</ref>
+
+=== Jaunannas muižas medību pils ===
+[[Attēls:Medību pils Jaunannā.jpg|thumb|Jaunannas medību pils]]
+No laukakmeņiem tēsto [[Jaunannas mežmuižas medību pils|medību pili]] 1904. gadā uzceļ barons Aksels fon Delvigs. [[Agrārā reforma Latvijā|Agrārās reformas]] laikā 1920. gadā īpašums nacionalizēts. Ap 1936. gadu ēku apsaimnieko Meža departaments, jo uz pils torņa bijis uzbūvēts ugunsnovērošanas tornis. Daļā ēkas bijuši dzīvokļi. No 1991. gada ēkas īpašnieks ir [[Valsts meža dienests]] un tajā atrodas Annas mežniecība. 1992. gadā nojaukts uguns novērošanas tornis. 2008. gadā ēkā ierīkots Valsts meža dienesta Konsultāciju pakalpojumu centrs, kas darbojās dažus gadus.
+
+== Izglītība un kultūra ==
+=== Izglītība ===
+No 2012. gada Jaunannā darbojas [[Jaunannas Mūzikas un mākslas pamatskola]], kuru izveidoja, reorganizējot 1988. gadā dibināto Jaunannas pamatskolu un 1989. gadā dibināto Jaunannas Mūzikas un mākslas skolu.<ref>{{tīmekļa atsauce |title=Jaunannas Mūzikas un mākslas pamatskola |url=https://aluksne.lv/index.php/izglitiba/visparejas-izglitibas-iestades/jaunannas-muzikas-un-makslas-pamatskola/ |access-date={{dat|2023|02|16||bez}} |archive-date={{dat|2023|02|16||bez}} |archive-url=https://web.archive.org/web/20230216095543/https://aluksne.lv/index.php/izglitiba/visparejas-izglitibas-iestades/jaunannas-muzikas-un-makslas-pamatskola/ }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Jaunannas pagasts| ]]

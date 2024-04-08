@@ -1,0 +1,56 @@
+{{Apdzīvotas vietas infokaste
+| name = Valbžiha
+| image_skyline =Wałbrzych collage.jpg
+| imagesize = 300px
+| image_caption = 
+| image_flag = POL Wałbrzych flag.svg
+| image_shield = POL Wałbrzych COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Lejassilēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = Pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = ap 1400
+| area_total_km2 = 84.70
+| population_as_of = 2011
+| population_total = 119955
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 47 
+| lats = 02 
+| latNS = N 
+| longd = 16 
+| longm = 17 
+| longs = 04
+| longEW = E
+| elevation_m = 350
+| website = http://www.um.walbrzych.pl/ }}
+
+'''Valbžiha''' ({{val|pl|Wałbrzych}}, vēsturiski arī '''Valdenburga''' ({{val|de|Waldenburg}})) ir pilsēta [[Polija]]s dienvidrietumos, [[Silēzija|Silēzijā]], [[Lejassilēzijas vojevodiste|Lejassilēzijas vojevodistē]] netālu no [[Čehija]]s robežas. Sens ogļrūpniecības centrs. Pilsēta atrodas [[Vroclavas Tehnoloģijas universitāte]]s un Augstākās Pedagoģiskās skolas filiāles.
+
+== Vēsture ==
+
+Rakstos Valbžiha pirmoreiz pieminēta 12. gadsimtā, kad teritorija bija [[Pjastu dinastija]]s pārvaldījumā. Starp 12. un 14. gadsimtu šeit tika uzcelta Pjastu pils. Pirmoreiz [[akmeņogles|akmeņogļu]] ieguve apkārtnē pieminēta 1536. gadā, kad Silēzija atradās [[Austrija]]s sastāvā. No 1742. gada Valbžiha bija [[Prūsijas Karaliste|Prūsijas]] sastāvā. Ļoti strauja bija pilsētas attīstība no 19. gadsimta sākuma, kad sākas rūpnieciska akmeņogļu ieguve. Pilsētā attīstījās arī fajansa un tekstilrūpniecība. [[Otrais pasaules karš|Otrā pasaules kara]] laikā pilsēta necieta. 1943. gada oktobrī pie pilsētas tika sākta [[Ādolfs Hitlers|Hitlera]] komandpunkta ''Anlage Riese'' celtniecība, tomēr tā netika pabeigta. Pēc kara pilsētu piešķīra Polijai, visi [[vācieši|vācu]] iedzīvotāji tika padzīti uz [[Vācija|Vāciju]]. 20. gadsimta deviņdesmitajos gados ogļu ieguves uzņēmumi tika slēgti. Pilsētas pievārtē atrodas milzīgā [[Ksjonžas pils]] (''Książ'').
+
+Valbžiha ir matemātiķa [[Abrahams Robinsons|Abrahama Robinsona]] (''Abraham Robinson'', 1918—1974) dzimtā pilsēta.
+
+== Ārējās saites ==
+* [https://www.ksiaz.walbrzych.pl/ Ksjonžas pils]
+* [http://www.walbrzych.info/ Valbžihas portāls] {{Webarchive|url=https://web.archive.org/web/20200531050959/https://nasz.walbrzych.pl/ |date={{dat|2020|05|31||bez}} }}
+
+{{Commons category|Wałbrzych|Valbžiha}}
+
+{{Polija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lejassilēzijas vojevodistes pilsētas]]
+[[Kategorija:Lejassilēzijas vojevodistes apriņķi]]

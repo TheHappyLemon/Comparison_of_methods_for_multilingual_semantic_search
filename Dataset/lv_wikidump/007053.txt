@@ -1,0 +1,35 @@
+{{ezera infokaste
+|ezers=Rukvas ezers
+|attēls=Lake Rukwa.png
+|map = Tanzānija
+|plat_d=8 | plat_m=0 | plat_s=0 | plat_NS=S
+| gar_d=32 | gar_m=25 | gar_s=0 | gar_EW=E
+|vieta={{TZA}}
+|platība=5760
+|garums=180
+|paltums=32
+|Vid_dziļums=3
+|Max_dziļums=5
+|tilpums=
+|augstums_vjl=794
+|izteka=beznoteces
+|baseins=81 000
+|valstis=[[Tanzānija]]
+|salas=
+|pilsētas=
+}}
+'''Rukvas ezers''' ({{val|sw|Rukwa}}) ir beznoteces [[ezers]] [[Āfrika|Āfrikā]], [[Tanzānija]]s dienvidrietumos, ceturtais lielākais Tanzānijā. Ezera ūdens nav saldūdens, tam ir sārmains sastāvs. Ezeram ir [[tektonika|tektoniska]] izcelsme, tas atrodas Austrumāfrikas Lielā rifta zonā. Ezers izvietojies starp diviem daudz lielākiem līdzīgas izcelsmes ezeriem — [[Tangaņikas ezers|Tangaņikas ezeru]] un [[Ņasas ezers|Ņasas ezeru]]. Laika gaitā Rukvas ezers ir strauji mainījis izmēru mainīgās pieteces dēļ. Ezera ziemeļu krastā atrodas liela paliene ap 1300 km² platībā, kas [[lietus sezona]]s laikā pārplūst.<ref name=eb>[http://www.britannica.com/EBchecked/topic/512554/Lake-Rukwa Britannica.com]</ref>
+
+Vecākas kartes rāda, ka ezeram ir divas daļas, taču kopš [[1980]]. gada ezera līmenis ir cēlies un abas daļas aizvien biežāk savienojas.
+
+Pirmās ziņas par ezeru ir no [[Džons Speke|Džona Spekes]] [[Nīla]]s iztekas meklēšanas ekspedīcijas, kas bija dzirdējis par šo ezeru kā par nepārejamu purvu. Pirmais no eiropiešiem ezeru no attāluma 1880. gadā ieraudzīja skotu ģeologs un ceļotājs Džozefs Tomsons.<ref name=eb/>
+
+== Dabas daudzveidība ==
+Ezerā dzīvo endēmas zivju sugas, tas ir nozīmīga ūdensputnu atpūtas, barošanās un ligzdošanas vieta. Ik gadus ap 80 000 sārto pelikānu (''Pelecanus onocrotalus'') izmanto ezeru kā ligzdošanas vietu. Ezera rietumu krastā dzīvo daudz [[krokodilu kārta|krokodilu]].
+
+Lielākā daļa ezera atrodas dabas aizsargājamā teritorijā — [[Katavi nacionālais parks|Katavi nacionālajā parkā]] (Uvandas medību rezervātā).
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Tanzānijas ezeri]]

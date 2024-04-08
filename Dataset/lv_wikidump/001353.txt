@@ -1,0 +1,46 @@
+{{Apdzīvotas vietas infokaste
+| name = Mislovice
+| image_skyline =Mysłowice.Ulica Bytomska.JPG
+| imagesize = 300px
+| image_caption = Bitomas iela Mislovicē
+| image_flag = POL Myslowice flag.svg
+| image_shield = POL Mysłowice COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = top
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1360
+| area_total_km2 = 65.75
+| population_as_of = 2008
+| population_total    = 74912
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 14 
+| lats = 00 
+| latNS = N 
+| longd = 19 
+| longm = 08 
+| longs = 00
+| longEW = E
+| elevation_m = 249-330
+| website = http://www.myslowice.pl/ }}
+
+'''Mislovice''' ({{val-pl|Mysłowice}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]] [[Augšsilēzijas aglomerācija|Augšsilēzijas aglomerācijā]] uz dienvidiem no [[Sosnoveca]]s. Pilsēta attīstījās kā tirdzniecības centrs līdz 18. gadsimta beigām, kad apkārtnē sākās [[akmeņogles|akmeņogļu]] ieguve. Līdz [[Pirmais pasaules karš|Pirmajam pasaules karam]] atradās vietā, kur robežojās tā laika lielākās impērijas - [[Vācija]], [[Krievija]] un [[Austroungārija]]. 1919. gadā ar ogļraču slaktiņu Mislovicē sākās [[Silēzijas Pirmā sacelšanās]].
+
+Mislovice ir kardināla [[Augusts Hlonds|Augusta Hlonda]] (''August Hlond'', 1881 - 1948) dzimtā pilsēta.
+
+{{polija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Silēzijas vojevodistes apriņķi]]
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

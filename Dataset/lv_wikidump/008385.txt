@@ -1,0 +1,107 @@
+{{TCPIPmodelis}}
+{{OSI protokolu steks}}
+'''Vienkāršais pasta pārsūtīšanas protokols''' jeb '''SMTP''' (no {{val|en|'''S'''imple '''M'''ail '''T'''ransfer '''P'''rotocol}})<ref name="AkadTerm"/> ir [[lietojumslānis|lietojumslāņa]] [[interneta protokols]], kas paredzēts [[elektroniskais pasts|elektroniskā pasta]] sūtīšanai no klienta datora uz SMTP serveri vai starp serveriem. SMTP ir definēts standartā {{RFC|821}} (STD 10). Paplašinātais protokols [[ESMTP]], kuru lieto mūsdienās, ir definēts {{RFC|2821}}.
+
+SMTP var darboties divos režīmos: tiešsaistē (vēstule tiek nogādāta uzreiz uz lietotaja termināli; šis režīms mūsdienās praktiski vairs netiek izmantots) vai, izmantojot vēstuļu kastes (''Mail box''), kurās tiek nogādātas visas lietotājiem adresētās vēstules. Vēstuļu saņemšanai no pasta kastes klientam jāizmanto cits protokols, piemēram, [[Post Office Protocol|POP3]] vai [[IMAP]].
+
+SMTP ir relatīvi vienkāršs, uz tekstu bāzēts protokols. Klienta programma, izmantojot SMTP protokolu, izveido savienojumu ar SMTP serveri. Tālāk notiek datu apmaiņa dialoga režīmā, klientam sūtot komandas, un saņemot no servera atbildes. Serveris pēc vēstulē norādītā viena vai vairāku saņēmēju [[e-pasta adrese|adresēm]] (vairumā gadījumu pārbaudot to esamību) nosūta vēstuli uz attiecīgā lietotāja pasta kasti.
+
+Vēstuļu nosūtīšanai starp datoriem tiek iesaistītas īpašas programmas uz pasta serveriem — [[Vēstuļu pārsūtīšanas aģents|vēstuļu pārsūtīšanas aģenti]] (''Mail transfer agent''). Daži SMTP serveri vēstuļu pārsūtīšanai var izmantot [[ETRN]].
+
+== Vēsture ==
+[[1970. gadi|1970. gados]], kad tika radīta e-pasta koncepcija, elektroniskās vēstules nosūtīšana bija samērā sarežģīts process. Tā, protokolam [[UUCP]] (''Unix-to-Unix Copy Protocol'') vajadzēja norādīt pilnu maršrutu no nosūtītaja līdz saņēmējam vai arī nodibināt tiešu savienojumu. (SMTP adresātu nosaka ar [[DNS (protokols)|DNS]] palīdzību).
+
+[[1980]]. gada septembrī tika publicēts [[Mail Transfer Protocol|MTP]] (''Mail Transfer Protocol'') , kas definēts {{RFC|772}}, atjaunots {{RFC|780}} ([[1981]]. g. maijā). MTP izmantoja elementus no diviem [[TCP/IP]] protokoliem: [[telnet]] un [[FTP]], taču FTP paredzēts galvenokārt [[datne|datņu]] pārsūtīšanai, kas arī radīja MTP nepilnības.
+
+[[1981]]. g. novembrī tika publicēts {{RFC|788}}, kurā definēja vienkāršotu MTP protokolu — ''Simple Mail Transfer Protocol'' (SMTP). Tas bija "neatkarīgs" protokols, kurā netika izmantots FTP. <nowiki>{{RFC|788}}</nowiki> aprakstīja vēstuļu sūtīšanu [[ARPAnet]] teksta ziņojumu standartā, kas definēts {{RFC|733}}. [[1982]]. gada augustā tika publicēti {{RFC|821}} un {{RFC|822}}, kuros tika aprakstīts uzlabotais SMTP protokols un ARPAnet teksta ziņojumu standarts. 1980. gados e-pasts kļuva populārs informācijas sūtīšanas veids, un tā sūtīšanai līdz pat mūsdienām izmanto galvenokārt SMTP.
+
+[[1993]]. gadā tika publicēts ({{RFC|1425}}) paplašinātais SMTP protokols ''SMTP Service Extensions'', kas saglabāja saderību ar iepriekšējām sistēmām. Tas biežāk pazīstams kā [[ESMTP]] (''Extended SMTP''). <nowiki>{{RFC|1425}}</nowiki> tika uzlabots [[1994]]. g. ({{RFC|1651}}) un [[1995]]. gadā ({{RFC|1869}}).
+
+[[2001. gads|2001]]. gadā tika publicēti <nowiki>{{RFC|821}}</nowiki> un <nowiki>{{RFC|821}}</nowiki> pārstrādātie dokumenti {{RFC|2821}} un {{RFC|2822}}, kuros ietvertas visas izmaiņas no 1982. līdz 2001. gadam. Pašlaik <nowiki>{{RFC|2821}}</nowiki> ir SMTP pamatstandarts.
+
+Protokols sākotnēji bija izstrādāts teksta kodējumam [[ASCII]]; tas liedza iespēju sūtīt [[binārā datne|binārās datnes]]. Lai šo ierobežojumu novērstu, tika izstrādāts standarts [[MIME]] (''Multipurpose Internet Mail Extensions''), kas pārkodē binārās datnes SMTP protokolam pieņemamā veidā. Sākotnējos [[Vēstuļu pārsūtīšanas aģents|vēstuļu pārsūtīšanas aģentos]] teksta katra [[baits|baita]] vecāko [[bits|bitu]] vajadzeja nonullēt, kas radīja ziņojuma apjoma palielināšanos, ja vajadzeja nosūtīt 8 bitu baitus. Mūsdienās tiek izmantots [[8BITMIME]] paplašinājums, kas ļauj binārās datnes nosūtīt tikpat vienkārši kā tekstu.
+
+== Tehniskais apraksts ==
+SMTP kā [[transpotra protokols|transpotra protokolu]] visbiežāk izmanto [[TCP]], bet to var veikt arī [[NCP]], [[NITS]] un [[X.25]]. SMTP parasti izmanto TCP 25. portu.
+
+=== SMTP modelis ===
+SMTP serverim jāapkalpo lokālie klienti un jānodod pasta sūtījumi citiem SMTP serveriem, ja saņēmējs nav šī datora klients. SMTP programmas var izpildīt divas lomas:
+* '''SMTP nosūtītājs''' (''Sender-SMTP'') jeb '''SMTP klients'''. Klients nodibina divpusēju sakaru seansu ar lokālo SMTP serveri. Klients šajā gadījumā var būt arī cits SMTP serveris.
+* '''SMTP saņēmējs''' (''Receiver-SMTP'') jeb '''SMTP serveris'''. Serveris saņem komandas no SMTP nosūtītāja, izpilda tās un sūta atpakaļ atbildi par darbības izpildi.
+Kad e-pasta vēstule iet caur vairakiem SMTP serveriem, tad viens un tas pats serveris ir klients, kad nosūta ziņojumu, un serveris, kad saņem ziņojumu.
+
+Pēc cita iedalījuma SMTP serveris var izpildīt šādas lomas:
+* '''Autors''' (''Originator'') — programma, kas ģenerē elektronisko vēstuli un nosūta to.
+* '''Piegādātājs''' (''Delivery'') — serveris, kas saņem vēstules un glabā tās līdz klienta pieprasījumam.
+* '''Retranslators''' (''Relay'') — serveris, kas saņem sūtījumus no viena SMTP servera un nodod tos citam; tas neizpilda vēstuļu ģenerēšanas un piegādāšanas funkcijas.
+* '''Vārteja''' (''Gateway'') — serveris, kas darbojas kā "tilts" starp SMTP protokolu un citu ziņojumu nogādāšanas sistēmu. Vārteja var modificēt SMTP ziņojuma saturu, lai pielāgotu to citai pasta sistēmai.
+
+=== Komandas ===
+SMTP komandas sintakse:<br />
+<''komanda''> <''argumenti''> <CRLF>
+
+Galvenās SMTP komandas:
+* '''ATRN''' (''Authenticated TURN'') — pēc tam, kad klientu autentificēja SMTP serveris, šī komanda instruē SMTP saņēmēju atgriezt atbildes ziņojumu ''OK''. Šajā gadījumā serverim jāuzņemas pasta sūtītāja funkcijas. Ja SMTP serveris atgriež ziņojumu par vārtejas neesamību (atbilde 502) un paliek par SMTP saņēmēju.
+* '''AUTH''' (''Authentification'') — veic [[autentificēšana|autentificēšanu]]. Klients nosūta [[Lietotāja vārds|lietotāja vārdu]] un paroli, lai serveris pārliecinātos par lietotāja identitāti pirms vēstules nosūtīšanas.
+* '''DATA''' — nodod vēstules tekstu. Teksta beigu pazīme ir punkts, pirms kura un pēc kura ir jābūt jaunas rindas simbolam: <CRLF>.<CRLF>
+* '''EHLO''' (''Extended hello'') — [[ESMTP]] gadījumā rekomendējamā komanda ''HELO'' vietā. Ja serveris atbalsta ESMTP, tas atgriež klientam kodu 250. Ja serveris neatbalsta ESMTP, tas atgriež kodu 500.
+* '''EXPN''' (''Expand'') — prasa serverim, lai tas apstiprina, ka komandas arguments ir adresātu saraksts (''mailing list''). Ja tas tā ir, tad serveris klientam atgriež adresātu sarakstu.
+* '''HELO''' (''Hello'') — komanda, kuru klients nosūta serverim, lai sāktu vēstules pārsūtīšanas seansu. Arguments ir nosūtītāja adrese.
+* '''HELP''' — prasa SMTP serverim paskaidrojošo informāciju.
+* '''MAIL''' — iniciē vēstules nosūtīšanu, kurā SMTP serverim nodotos datus tas nogādās vienā vai vairākās pasta kastēs vai parsūtīs uz citu sistēmu (SMTP serveri). Komandas arguments ir atpakaļceļš (''reverse-path''), kas ir sūtītāja adrese.
+* '''NOOP''' — komanda nozīmē "nav operācijas". Tā tikai atgriež ziņojumu ''OK''.
+* '''QUIT''' — sakaru seansa beigšana. Serveris, saņemot šo komandu, atgriež ''OK'' un aizver sakaru kanālu.
+* '''RCPT''' (''Recipient'') — identificē vēstules individuālo saņēmēju. Ja vēstulei ir vairāki saņēmēji, tad šī komanda jālieto vairākkārt. Arguments ir saņēmēja adrese aiz vārda ''TO:''.
+* '''RSET''' (''Reset'') — atceļ pašreizējo vēstules nosūtīšanu. Serveris attīra visus buferus un stāvokļa tabulas. Serverim jānosūta atpakaļ "OK".
+* '''VRFY''' (''Verify'') — pieprasa serverim apstiprinājumu, ka arguments ir pasta kastes lietotājs. Ja tas tā ir, tiek atgriezts lietotāja pilns nosaukums un adrese.
+
+Mūsdienās gandrīz nekur vairs nelietotas komandas ir '''SAML''', '''SEND''' un '''SOML''', ar kurām vēstuli var pārsūtīt tieši uz lietotāja termināli, ja tas ir tiešsaistē. {{RFC|2821}} standartā šo komandu izpilde nav obligāta.
+
+== SMTP saņēmēja atbildes kodi ==
+Uz katru komandu, ko sūta SMTP nosūtītājs, saņēmējam jāsniedz atbilde, kas sastāv no 3 cipariem. P
+
+Pirmais cipars var būt:
+* 1 — pozitīvas sagatavošanās atbilde. Komandu serveris pieņēmis, bet gaida citu komandu, lai darbību turpinātu vai pārtrauktu.
+* 2 — pozitīvas pabeigšanas atbilde. Pieprasītā darbība izpildīta, un var pieteikt jaunu pieprasījumu.
+* 3 — pozitīva starpatbilde. Komanda akceptēta, bet izpilde tiek aizturēta, gaidot papildu informāciju. SMTP klientam jādod cita komanda, lai šo informāciju nodotu.
+* 4 — pagaidu negatīvas pabeigšanas atbilde. Komanda nav akceptēta, un pieprasītā darbība netika izpildīta. Kļūdas stāvoklis ir "pagaidu", un darbības izpildi var pieprasīt vēlreiz.
+* 5 — pastāvīga negatīvas pabeigšanas atbilde. Atšķirībā no 4. atbildes, komandu nevar izpildīt, kamēr nav novērsts kļūdas iemesls. Kļūdas iemesls biežāk ir nepareizi ievadīta komanda vai argumenti.
+
+Otrais cipars var būt:
+* 0 — [[sintakse]]: saistīts ar komandas sintaksisku kļūdu vai to, ka serveris neatbalsta šādu komandu.
+* 1 — informācija: atbilde informācijas pieprasījumam, pirmēram, stāvokļa vai palīdzības informācija.
+* 2 — sakaru savienojums: saistīts ar pārraides kanālu.
+* 5 — pasta sistēma: saistīts ar servera pasta sistēmu.
+
+Trešais cipars precizē 1. un 2. cipara kombināciju variantu.
+
+Biežākie atbildes kodi:<br />
+211 — sistēmas stāvoklis vai palīginformācija;<br />
+214 — paskaidrojošā informācija;<br />
+250 — atbilde ''OK'' uz darbību, pabeigta;<br />
+251 — lietotājs nav lokālais, tiek pāradresēts tālāk;<br />
+252 — lietotājam nevar izpildīt ''VRFY'', bet vēstule tiks akceptēta un mēģināts nogādāt;<br />
+354 — sākt vēstules teksta ievadi;<br />
+450 — darbība nav izpildīta, jo pastkastīte nav pieejama (pasta kaste aizņemta);<br />
+451 — darbība pārtraukta, kļūda apstrādē;<br />
+452 — darbība nav izpildīta nepietiekamas glabāšanas vietas dēļ;<br />
+500 — sintaksiskā kļūda vai nepazīstama komanda;<br />
+501 — sintaksiskā kļūda parametros vai argumentos;<br />
+502 — komanda nav realizēta;<br />
+503 — nepareiza komandu secība;<br />
+504 — komandas parametrs nav realizēts;<br />
+550 — darbība nav izpildīta, jo pastkastīte nav pieejama (pasta kaste nav atrasta, nav pieejas vai komanda atraidīta saskaņā ar drošības politiku);<br />
+551 — lietotājs nav lokāls, mēģiniet ar pāradresēšānu;<br />
+552 — darbība pārtraukta sakarā ar glabāšanas vietas izbeigšanos;<br />
+553 — darbība nav izpildīta sakarā ar sintaksisko kļūdu pasta kastes nosaukumā;<br />
+554 — transakcijas kļūme
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="AkadTerm">{{AkadTerm|term=vienkāršais pasta pārsūtīšanas protokols|lang=LV}}</ref>
+}}
+
+{{E-pasts navig}}
+
+[[Kategorija:E-pasts]]
+[[Kategorija:Interneta protokoli]]

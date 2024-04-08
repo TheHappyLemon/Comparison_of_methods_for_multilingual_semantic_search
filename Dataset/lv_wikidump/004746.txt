@@ -1,0 +1,90 @@
+{{saistīts teksts}}
+'''Trigeris''' [[datu bāzu pārvaldības sistēma|datu bāzu pārvaldības sistēmā]] ir [[glabāta procedūra]], kas automātiski tiek izpildīta, mainot datus [[datu bāze|datu bāzē]]. Trigeri var tikt izpildīti pirms vai pēc pieprasītā [[vaicājums|vaicājuma]] (t.i. ierakstu atlases, iespraušanas, maiņas, dzēšanas) vai arī pieprasītā vaicājuma vietā.
+
+Notikumi pamatā ir divu veidu — datu manipulācijas valodas teikums ([[Insert (SQL)|Insert]], [[Update (SQL)|Update]], [[Delete (SQL)|Delete]]), kas veic izmaiņas noteiktā tabulā vai Datu definēšanas valodas teikums. Dažādās [[datu bāze|datu bāzēs]] iespējamie trigeru veidi ir dažādi.
+Trigera piemērs — katrai rindiņai, kas tiek pievienota tabulai, automātiski atsevišķā kolonā tiek saglabāts lietotāja vārds, kas to izdarījis.
+
+Trigeri [[datu bāze|datu bāzē]] tiek glabāti atsevišķi no tiem piesaistītajām [[Tabula|tabulām]] un tos ir iespējams definēt tikai [[Tabula|tabulās]]. Trigerus izmanto lai papildinātu [[Datu bāzu pārvaldības sistēma]]s funkcionalitāti, piemēram
+:* Automātiski ģenerēt atvasināto [[Kolonna (datubāze)|kolonnu]] vērtības
+:* Novērst nepareizas [[Transakcija (informātika)|transakcijas]]
+:* Realizēt drošu sistēmas autorizāciju
+:* Realizēt attiecinošu integritāti caur visiem mezgliem sadalītā [[Datubāze|datubāzē]]
+:* Realizēt kompleksus biznesa noteikumus
+:* Nodrošināt neredzamu notikumu pieraksti
+:* Nodrošināt sarežģītas revīzijas procedūras
+:* Uzturēt sinhronas [[Tabula|tabulu]] kopijas
+:* Ievākt [[tabula]]s piekļuves statistiku
+
+Kad tiek palaists kāds konkrēts trigeris, tas potenciāli var sev līdzi palaist vēl papildus trigerus, šo notikumu sauc par trigeru '''kaskādi'''. Pārmērīga trigeru lietošana lielās sistēmās novedīs pie kompleksām trigeru savstarpējām atkarībām, ko lielā [[Programma|programmā]] būs grūti uzturēt.
+
+== Trigeru tipi ==
+
+# Lietojot trigeri ar norādi FOR EACH ROW, trigera darbības tiek atkārtotas katrai maināmajai tabulas rindai.
+# Rindu trigeros (FOR EACH ROW) var tikt izmantoti pseidoraksti :OLD un :NEW. Tajos tiek fiksētas raksta vecās un jaunās vērtības. Šos rakstus nevar izmantot kā vienotu veselu objektu piešķires operatoros. Var izmantot tikai šo rakstu atsevišķus laukus (tāpēc arī nosaukumā pseidoraksti): mainīgais_1 := :OLD.lauks_2
+# Lietojot BEFORE tipa trigeri, var koriģēt jaunās ievadāmās vērtības (:NEW.kolonas_apzīmējums), pirms tās tiek ierakstītas datu bāzē.
+# Lietojot AFTER tipa trigeri (izmaiņas tabulā jau ir veiktas), no trigera procedūras var veikt SQL vaicājumu tai pašai tabulai.
+
+== Trigeri aktivizējošie noteikumi ==
+Trigeri glabājas datu bāzē un tiek aktivizētas (fired) izpildoties kādam no šiem notikumiem:
+:* datu manipulācijas valodas komandām [[Insert (SQL)|INSERT]], [[Update (SQL)|UPDATE]], [[Delete (SQL)|DELETE]] kādai datu bāzes tabulai;
+:* datu manipulācijas valodas komandām [[Insert (SQL)|INSERT]], [[Update (SQL)|UPDATE]], [[Delete (SQL)|DELETE]] kādam datu bāzes skatam (INSTEAD OF tipa trigeri);
+:* datu definēšanas valodas komandām CREATE, ALTER, DROP;
+:* datu bāzes darbībām LOGON, LOGOFF, STARTUP, SHUTDOWN, SERVERERROR;
+:* katram notikumam, kas attiecas uz visiem lietotājiem (sistēmas trigeri notikumam ON DATABASE);
+:* noteikta lietotāja katram notikumam (sistēmas trigeri notikumam ON SCHEMA).
+
+== Trigeru izpildes secība ==
+
+# Vispirms izpildās operatora tipa BEFORE trigeri.
+# Nākamie izpildās rindu tipa BEFORE trigeri.
+# Turpinājumā izpildās rindu tipa AFTER trigeri.
+# Pēdējie izpildās operatora tipa AFTER trigeri.
+# Trigeru darbība uz laiku var tikt aizliegta (DISABLE) un atkal atļauta (ENABLE):
+
+== Trigeris MySQL ==
+
+[[MySQL]] 5.0.2 versijā ieviesa trigera atbalstu. Daži no MySQL atbalstītajiem trigeru tipiem ir
+
+# Ievietot trigeri
+# Atjaunot trigeri
+# Dzēst trigeri
+
+Piezīme: MySQL atļauj vienu, viena veida trigeri katrā tabulā (t.i. vienu pirms ievietošanas, vienu pēc ievietošanas, vienu pirms atjaunojuma, vienu pēc atjaunojuma, vienu pirms dzēšanas un vienu pēc dzēšanas).
+
+[[SQL:2003]] ststandarts nosaka, ka trigeris dod programmētājam tiesības ierakstīt mainīgos ar sintakses līdzekļiem kā <code>REFERENCING NEW AS n</code>.
+Piemēram, ja trigeris vēro izmaiņas algas kolonā, tad to varētu uzrakstīt kā attēlā:
+
+<syntaxhighlight lang="sql">
+CREATE TRIGGER salary_trigger
+    BEFORE UPDATE ON employee_table
+    REFERENCING NEW ROW AS n, OLD ROW AS o
+    FOR EACH ROW
+    IF n.salary <> o.salary THEN
+
+    END IF;
+;
+</syntaxhighlight>
+
+== Trigeris DML ==
+DML ([[Data]] Manipulation Language) trigeri ir pats senākais un biežāk izmantotais trigeru veids [[SQL]] Server.
+DML Trigeris ir speciāls saglabātās procedūras veids, kura tiek izpildīta kā reakcija uz kādu notikumu. DML trigeri tiek izsaukti datu modificēšanas notikumu rezultātā (Insert, Update, Delete). DML trigerus var izveidot uz datu bāzes tabulām un skatiem (ar izņēmumiem. Piemēram, ja skats veidots ar "With Check Option").
+DML trigeri tiek izmantoti lai nodrošinātu datu integritāti un specifiskas biznesa prasības SQL Server datu bāzē.
+DML trigeris izpildās kā rekcija uz datu modificēšas notikumiem- [[Insert]], Update, Delete. DML trigeri var definēt kā reakciju gan uz vienu konkrētu, gan arī uz vairākām/visām datu modificēšanas darbībām.
+Tātad, piemēram:
+* var izveidot trigeri, kas tiek izsaukts tikai ievietojot jaunu rindu datu bāzes [[tabulā]];
+* var izveidot trigeri, kas tiek izsaukts gan rindas ievietošanas gan rindas dzēšanas gadījumos.
+Vēl var definēt DML trigera izsaukšanas brīdi. Ir divi varianti:
+* "Pēc" (After trigeris), kas tiek izsaukts pēc tam, kad konkrētā DML darbība ir veikta (piemēram, pēc rindas dzēšanas no datu bāzes tabulas).
+* "Tā vietā" (Instead of trigeris), kas tiek izsaukts konkrētās DML darbības vietā (piemēram, tā vietā, lai rindu dzēstu no datu bāzes, tiek izpildīts trigeris).
+Trigeris ir saglabātās procedūras speciālgadījums. Trigeri var uzskatīt par procedūru, kurai nav ieejas parametru un kura neatgriež vērtību. Trigerim nevar definēt lietotāja tiesības (ja lietotājam ir tiesības veikt konkrēto DML darbību tabulai vai skatam — tad veicot konkrēto darbību arī tiks izsaukts trigeris).
+Atšķirībā no procedūrām, trigera iekšienē ir izmantojamas speciālas tabulas — Inserted un Deleted. Tāpat arī ir pieejamas dažas iebūvētās funkcijas, kas izmantojamas vienīgi trigera iekšienē.
+'''Inserted''' un '''Deleted''' tabulas pēc idejas ir vienkāršas, tomēr mulsinošas.
+Abas šīs tabulas ir ar tādu pašu struktūru, kā tabula vai skats, uz kuru tiek veikta DML darbība. Abas tabulas eksistē trigera iekšienē un to saturs nav maināms.
+
+== Ārējās saites ==
+* [http://www.intuit.ru/department/database/sql/14/1.html Trigeri: izveidošana un pielietojums]
+
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Datubāzes]]

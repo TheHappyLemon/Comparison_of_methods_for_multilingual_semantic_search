@@ -1,0 +1,93 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Kijivas apgabals
+| official_name = ''Київська область''
+| image_skyline =Пшеничне_поле._Неподалік_с._Дибинці_Богуславського_району.jpg
+| imagesize = 300px
+| image_caption = 
+| settlement_type = [[Ukrainas administratīvais iedalījums|apgabals]]
+| total_type = Kopā
+| image_flag = Flag of Kyiv Oblast.svg
+| image_shield = Coat of Arms of Kyiv Oblast.png
+| image_map = Kiev (oblast) in Ukraine (claims hatched).svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{UKR}}
+| area_total_km2 = 28131
+| population_total = 1725500
+| population_as_of = 2014
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd = | latm = | lats =| latNS = 
+| longd = | longm = | longs =| longEW = 
+| seat_type = Centrs
+| seat = [[Kijiva]]
+| parts_type = Administratīvais iedalījums
+| parts = 7 rajoni
+| p1 = [[Bila Cerkvas rajons]]
+| p2 = [[Borispiļas rajons]]
+| p3 = [[Brovaru rajons]]
+| p4 = [[Bučas rajons]]
+| p5 = [[Višhorodas rajons]]
+| p6 = [[Obuhivas rajons]]
+| p7 = [[Fastivas rajons]]
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = {{nobr|[[ukraiņi]] (92,52%)}}<br />[[krievi]] (6,00%)
+| website = {{url|http://kor.gov.ua/}}
+}}
+'''Kijivas apgabals''' ({{val|uk|Київська область}}) ir viens no [[Ukraina]]s apgabaliem tās ziemeļos [[Dņepra]]s krastos. Apgabala centrs ir [[Kijiva]], kas neietilpst tā sastāvā. Robežojas ar [[Čerņihivas apgabals|Čerņihivas apgabalu]] austrumos, [[Čerkasu apgabals|Čerkasu apgabalu]] dienvidaustrumos, [[Vinnicas apgabals|Vinnicas]] un [[Žitomiras apgabals|Žitomiras]] apgabaliem rietumos, kā arī [[Baltkrievija]]s [[Gomeļas apgabals|Gomeļas apgabalu]] ziemeļos.
+
+== Vēsture ==
+Tagadējā Kijivas apgabala teritorija līdz 1238. gadam bija [[Kijivas Krievzeme]]s sastāvā, pēc tam tā nokļuva [[Zelta Orda]]s pakļautībā. 1362. gadā to ieguva [[Lietuvas dižkunigaitija]], no 1569. gada tā bija [[Polijas-Lietuvas kopvalsts]] [[Kijivas vaivadija]]s sastāvā.  
+[[1667]]. gadā [[Dņepra]]s kreisā krasta daļa iekļauta [[Krievijas cariste|Krievijas caristē]]. 1708. gadā cars [[Pēteris I]] lika dibināt [[Kijivas guberņa|Kijivas guberņu]], kuru 1719. gadā sadalīja Kijivas, Belgorodas, Orlas un Sevas provincēs, pēdējās trīs 1728. gadā apvienoja Belgorodas guberņā.  
+1796. gadā daļu no Dņepras kreisā krasta zemēm iekļāva jaundibinātajā Mazkrievijas guberņā.
+
+No 1918. gada apgabala teritorija atradās [[Ukrainas Tautas Republika]]s, no 1920. gada [[Ukrainas PSR]] sastāvā. 1932. gada 27. februārī izveidoja Kijivas apgabalu, tā paša gada 15. oktobrī no tā tika atdalīts [[Čerņihivas apgabals]]. 1937. gada 22. septembrī tika atdalīts arī [[Žitomiras apgabals]], bet 1954. gada 7. janvārī [[Čerkasu apgabals]].
+
+No 1991. gada Ukrainas sastāvā.
+
+== Administratīvais iedalījums ==
+
+Kopš 2020. gada 17. jūlija apgabalā iepriekšējo 25 rajonu un 12 apgabala pakļautības pilsētu vietā ir izveidoti septiņi rajoni: [[Bila Cerkvas rajons]], [[Borispiļas rajons]], [[Brovaru rajons]], [[Bučas rajons]], [[Fastivas rajons]], [[Obuhivas rajons]] un [[Višhorodas rajons]]; bijušās apgabala nozīmes pilsētas iekļautas rajonu sastāvā.
+
+=== Pilsētas ===
+{{VietasKarte+|Kijivas apgabals|width=400 |float=center|caption = Kijivas apgabala pilsētu izvietojums ('''treknrakstā''' — rajonu centri)
+|places =
+{{VietasKarte~|Kijivas apgabals|lat=50.3075|long=31.485|position = right |label=[[Berezaņa]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.795556|long=30.116667|position = left |label='''[[Bila Cerkva]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=49.546667|long=30.872778|position = right |label=[[Bohuslava]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.329167|long=30.288611|position = left |label=[[Bojarka]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.351111|long=30.950833|position = right |label='''[[Borispiļa]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=50.511389|long=30.790278|position = right |label='''[[Brovari]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=50.546389|long=30.235|position = top|label='''[[Buča (pilsēta)|Buča]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=51.266667|long=30.216667|position = left |label=[[Čornobiļa]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.074722|long=29.918056|position = right |label='''[[Fastiva]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=50.519444|long=30.244722|position = left |label=[[Irpiņa]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.256944|long=31.781667|position = right |label=[[Jahotina]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.85|long=30.8|position = right |label=[[Kaharlika]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.65|long=30.983333|position = right |label=[[Miroņivka]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.13|long=30.656667|position = bottom |label='''[[Obuhiva]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=50.066111|long=31.442222|position = left |label=[[Perejaslava]]}}
+{{VietasKarte~|Kijivas apgabals|lat=51.405556|long=30.056944|position = left |label=[[Pripjata]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.961111|long=31.043611|position = right |label=[[Ržiščiva]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.716667|long=29.666667|position = bottom |label=[[Skvira]]}}
+{{VietasKarte~|Kijivas apgabals|lat=51.52201|long=30.74698|position = right |label=[[Slavutiča]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.55|long=30.5|position = left |label=[[Tarašča]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.370833|long=29.69|position = right |label=[[Tetijiva]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.153086|long=30.743492|position = right |label=[[Ukrajinka]]}}
+{{VietasKarte~|Kijivas apgabals|lat=49.824167|long=30.4425|position = right |label=[[Uzina]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.186389|long=30.330556|position = left |label=[[Vasiļkiva]]}}
+{{VietasKarte~|Kijivas apgabals|lat=50.583333|long=30.5|position = right |label='''[[Višhoroda]]'''}}
+{{VietasKarte~|Kijivas apgabals|lat=50.386944|long=30.358056|position = left |label=[[Višneve]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ukraina-aizmetnis}}
+{{Ukrainas administratīvais iedalījums}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ukrainas apgabali]]
+[[Kategorija:Kijivas apgabals| ]]

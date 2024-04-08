@@ -1,0 +1,52 @@
+{{cita nozīme|matemātiķi|orbitālo observatoriju|Euclid}}
+{{Zinātnieka infokaste
+|          vārds = Eiklīds
+|     vārds_orig = ''Ευκλείδης'', ''Eukleidēs''
+|         attēls = Euclid statue, Oxford University Museum of Natural History, UK - 20080315.jpg
+|     att_izmērs = 170px
+|  att_nosaukums = 
+|     dz_dat_alt = ap 330. gadu p.m.ē.
+|       dz_vieta = [[Atēnas]]
+|      m_dat_alt = ap 260. gadu p.m.ē.
+|        m_vieta = 
+|   dzīves_vieta = [[Aleksandrija]]
+|        tautība = [[grieķi]]s
+|         vecāki = 
+|          brāļi = 
+|          māsas = 
+|   dzīvesbiedrs = 
+|          bērni = 
+|       paraksts = 
+|   darba_vietas = 
+|     alma_mater = 
+|        zinātne = [[matemātika]]
+|    pasniedzēji = [[Platons]]
+|       studenti = 
+|     sasniegumi = [[Eiklīda ģeometrija]]<br />"Elementi"
+|    apbalvojumi = 
+|       piezīmes = 
+|    kategorijas = nē
+}}
+
+'''Eiklīds''' ({{val|el|Εὐκλείδης}}, ''Eukleidēs''), pazīstams arī kā '''Aleksandrijas Eiklīds''', bija [[Senā Grieķija|sengrieķu]] matemātiķis. Viņu bieži sauc par [[ģeometrija]]s tēvu. Ir pretrunīgi [[dzimšanas dati]]. Pēc dažādiem avotiem Eiklīds ir dzīvojis 365-300 p.m.ē., 325-265 p.m.ē vai 315-255 p.m.ē. Eiklīds dzimis [[Atēnas|Atēnās]] un bijis [[Platons|Platona]] skolnieks. Darbojies [[Aleksandrija|Aleksandrijā]], kur izveidojis [[matemātika]]s skolu.
+
+== ''Elementi'' ==
+[[Attēls:Oxyrhynchus papyrus with Euclid's Elements.jpg|left|thumb|Fragments no Eiklīda darba "Elementi", kuru atrada [[Oksirinkhusa|Oksirinkhusā]].]]
+Nozīmīgākais Eiklīda darbs ir "Elementi" (13 grāmatas), kur aplūkota [[planimetrija]], [[stereometrija]] un [[skaitļu teorija]]. Tas ir pirmais mēģinājums konstruēt ģeometrijas loģisko uzbūvi, izmantojot [[aksiomātika|aksiomātiku]]. Šis darbs ietekmēja matemātikas attīstību līdz pat mūsdienām. Eiklīdam ir arī darbi [[astronomija|astronomijā]], [[optika|optikā]] un [[mūzika|mūzikā]].
+
+"Elementos" aprakstītā ģeometrijas sistēma ilgu laiku bija pazīstama vienkārši kā "ģeometrija" un tika uzskatīta par vienīgo iespējamo [[ģeometrija|ģeometriju]]. Mūsdienās to dēvē par [[Eiklīda ģeometrija|Eiklīda ģeometriju]], lai atšķirtu no neeiklīda ģeometrijām, kuras tika atklātas 19. gadsimtā.
+
+== Skatīt arī ==
+{{commonscat|Euclid|Eiklīds}}
+* [[Eiklīda algoritms]]
+
+
+{{Cilvēks-aizmetnis}}
+{{Matemātika-aizmetnis}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:4. gadsimtā p.m.ē. dzimušie]]
+[[Kategorija:Sengrieķu matemātiķi]]
+[[Kategorija:Ģeometrija]]

@@ -1,0 +1,56 @@
+{{Krievijas republikas infokaste
+| nosaukums = Mordvijas Republika 
+| karte = Russia - Republic of Mordovia (2008-01).svg
+| oriģ = ''Республика Мордовия<br />Мордовия Республикась<br />Мордовия Республиксь''
+| karoga_attēls = Flag_of_Mordovia.svg
+| karoga_nosaukums = Mordvijas karogs
+| ģerboņa_attēls = Coat of Arms of Mordovia.svg
+| ģerboņa_nosaukums = Mordvijas ģerbonis
+| ģerboņa_platums = 80px
+| galvaspilsēta = [[Saranska]]
+| valoda = [[krievu valoda|krievu]]<br />[[mokšu valoda|mokšu]]<br />[[erzju valoda|erzju]]
+| tautas = [[krievi]] (60,84%)<br />[[mordvieši]] (31,94%)<br />[[tatāri]] (5,21%)
+| platība = 26 200
+| iedzīvotāji = 888 766
+| iedz blīvums = 33,9
+| pilsētas = 3
+| rajoni = 22
+| fedapgabals = [[Pievolgas federālais apgabals|Pievolgas]]
+| url = http://www.e-mordovia.ru/
+| ainavas_skats = Saransk_from_Ferris_wheel.JPG}}
+
+'''Mordvija''' ({{val|ru|Мордовия}}, {{val|mdf|Мордовиясь}}; {{val|myv|Мордовиясь}}) oficiāli '''Mordvijas Republika''' ({{val|ru|Республика Мордовия}}, {{val|mdf|Мордовия Республикась}}; {{val|myv|Мордовия Республиксь}}) ir viena no [[Krievijas Federācija]]s republikām. Tā robežojas ar [[Ņižņijnovgorodas apgabals|Ņižņijnovgorodas apgabalu]] ziemeļos, [[Čuvašija|Čuvašiju]] ziemeļaustrumos un austrumos, [[Uļjanovskas apgabals|Uļjanovskas apgabalu]] austrumos un dienvidaustrumos, [[Penzas apgabals|Penzas apgabalu]] dienvidos un [[Rjazaņas apgabals|Rjazaņas apgabalu]] rietumos.
+
+== Vēsture ==
+[[Attēls:Московия макс.вел.княжество 1593 Антверпен авторы Антоний Дженкинсон и Герард де Йоде.jpg|thumb|left|200px|[[Ivans IV|Ivana IV]] iekarotā Mordvija (MORDVA) 1593. gada [[Maskavija]]s kartē]]
+Pēc 1241. gada Mordvijas teritorija atradās [[Zelta Orda]]s, pēc 1438. gada [[Kazaņas haniste]]s, pēc 1552. gada [[Krievijas cariste]]s sastāvā.
+
+Krievijas valdība kopš 18. gadsimta vidus veicināja mordviešu pievēršanu [[pareizticība]]i un nometināja tur krievus un citu tautību ieceļotājus. 1928. gada 16. jūlijā [[Krievijas PFSR]] sastāvā no agrāko [[Ņižņijnovgoroda]]s, [[Penza]]s un [[Simbirska]]s guberņu mordviešu apdzīvotajiem apriņķiem izveidoja Mordviešu autonomo apvidu, ko 1930. gada 10. janvārī pārveidoja par Mordviešu Autonomo apgabalu, bet 1934. gada 20. decembrī — par [[Mordvijas APSR]]. Tajā atradās [[GULAG]]a nometnes, kurā bija ieslodzīti arī latviešu [[disidenti]].
+
+== Pilsētas ==
+
+=== Karte ===
+{{VietasKarte+|Mordvija|width=400 |float=center|caption = Mordvijas Republikas pilsētu izvietojums; '''treknrakstā''' — republikas centrs
+|places =
+{{VietasKarte~|Mordvija|lat=54.183333|long=45.183333|position = top |label='''[[Saranska]]'''}}
+{{VietasKarte~|Mordvija|lat=54.85|long=46.233333|position = top |label=[[Ardatova]]}}
+{{VietasKarte~|Mordvija|lat=53.866667|long=44.366667|position = top |label=[[Insara]]}}
+{{VietasKarte~|Mordvija|lat=54.033333|long=43.916667|position = top |label=[[Kovilkina]]}}
+{{VietasKarte~|Mordvija|lat=54.433333|long=43.783333|position = top |label=[[Krasnoslobodska (Mordvija)|Krasnoslobodska]]}}
+{{VietasKarte~|Mordvija|lat=54.066667|long=44.95|position = right |label=[[Ruzajevka]]}}
+{{VietasKarte~|Mordvija|lat=54.633333|long=43.216667|position = top |label=[[Temņikova]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Volgas federālais apgabals}}
+{{Krievijas PFSR}}
+
+[[Kategorija:Mordvija| ]]
+[[Kategorija:Eirāzija]]

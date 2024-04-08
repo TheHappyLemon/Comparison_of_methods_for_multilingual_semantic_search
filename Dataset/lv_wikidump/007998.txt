@@ -1,0 +1,74 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Mandalaja
+  | native_name              = မန္တလေးမ္ရုိ့
+  | settlement_type          = 
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = File:Mandalay street.jpg
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_seal               = 
+  | pushpin_map              = Mjanma
+  | pushpin_label_position   = 
+  | latd  =  21 | latm  = 58  | lats  =  30 | latNS  = N
+  | longd = 96  | longm = 5  | longs = 0  | longEW = E
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Mjanma}}'''
+  | subdivision_type1        = Apgabals
+  | subdivision_name1        = [[Mandalajas apgabals]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 163.84
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 22
+  | population_footnotes     = 
+  | population_total         = 1726889
+  | population_as_of         = {{dat|2014|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = 
+  | utc_offset               = 
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = 
+  | footnotes                = 
+}}
+'''Mandalaja''' ({{val|my|မန္တလေးမ္ရုိ့}}, {{val|en|Mandalay}}) ir pilsēta [[Mjanma]]s centrālajā daļā pie [[Iravadi]] upes. Otrā lielākā Mjanmas pilsēta, [[Mandalajas apgabals|Mandalajas apgabala]] centrs un pēdējā pirmskoloniālā laika Mjanmas galvaspilsēta. Mandalajas cietoksnis izpostīts [[Otrais pasaules karš|Otrā pasaules kara]] laikā, tomēr pēc kara atjaunots.
+
+== Kutodavas pagoda ==
+[[Attēls:Mandalay-Kuthodaw-76-Pagode-gje.jpg|thumb|left|Kutodavas pagoda ar baltām stupām, kurās ievietotas atsevišķas budisma Pāli kanona plāksnes]]
+Mandalaja ir Mjanmas [[budisms|budisma]] centrs. Tajā atrodas vairāk nekā 700 [[pagoda|pagodu]]. Kutodavas pagodā (''Kuthodaw Pagoda'') atrodas t.s. "budistu bībele" — 729 akmens plāksnes, kurās iegravēts viss budisma [[Pāli kanons]]. Katra plāksne ievietota atsevišķā [[stupa|stupā]].
+
+== Vēsture ==
+Pilsētu 1859. gada 23. maijā dibināja Birmas karalis [[Mindons]] un līdz 1885. gadam tā bija Birmas galvaspilsēta. [[Trešais Birmas karš|Trešā Birmas kara]] laikā to ieņēma [[Lielbritānija|britu]] karaspēks, un tā kļuva par [[Augšbirma]]s adminstratīvo centru.
+
+[[Otrais pasaules karš|Otrā pasaules kara]] laikā cauri pilsētai gāja stratēģiski svarīgs ceļš, pa kuru [[Lielbritānija|briti]] apgādāja [[Ķīna]]s valdības karaspēku. Lai pārtrauktu preču piegādi, 1942. gada 2. maijā Mandalaju ieņēma [[Japāna|japāņu]] atbalstītā [[Birmas Neatkarības armija]]. Briti bombardēja pilsētu, nopostot Mandalejas cietoksni, tomēr ieņēma to tikai 1945. gada martā.
+
+== Bilžu galerija ==
+<gallery class=center caption="Mandalaja - Mandalay - မန္တလေးမြို့">
+Mandalay Fort Wall.jpg|Mandalajas cietokšņa mūris
+Mandalay-Kuthodaw-58-Stupas-gje.jpg|Kutodavas pagoda
+Mandalay-Shwe Inn Bin-10-gje.jpg
+Mandalay-Shwe Inn Bin-66-Brunnen-gje.jpg
+Mandalay-Waisenhaus-10-Kinder-gje.jpg
+Mandalay-Sein Myint Tapestry-16-Wandteppich-gje.jpg
+Mandalay-Goldschlaeger-04-gje.jpg
+Mandalay-Markt-42-Gasflaschen-gje.jpg
+Mandalay-Transport-66-gje.jpg
+Mandalay-Tankstelle-04-gje.jpg
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Āzija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mjanmas pilsētas]]

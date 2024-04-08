@@ -1,0 +1,363 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Kuldīga
+ | native_name              = 
+ | settlement_type          = Novada pilsēta
+ | motto                    = 
+ | image_skyline            = Kuldiga bridge.jpg
+ | imagesize                = 
+ | image_caption            = Ķieģeļu tilts pār Ventu
+ | image_flag               = Flag of Kuldīga.svg
+ | flag_link                = Kuldīgas karogs
+ | image_shield             = Kuldiga_COA.svg
+ | shield_link              = Kuldīgas ģerbonis
+ | shield_size              = 70px
+ | pushpin_map              = Latvija
+ | pushpin_label_position   = 
+| latd =56  | latm =58  | lats =07  | latNS =N
+| longd =21  | longm =58  | longs =18  | longEW =E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Latvija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Kuldīgas novads]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pilsētas tiesības
+ | established_date         = kopš 1378. gada
+ | established_title2       = 
+ | established_date2        = 
+ | seat_type                = Vēsturiskie<br />nosaukumi
+ | seat                     = {{val|de|Goldingen}}
+ | area_total_km2           = 13
+ | population_footnotes     = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+ | population_total         = {{iedzsk|dati|Kuldīga}}
+ | population_as_of         = {{iedzsk|dat}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = LV-3301<br />LV-3302
+ | area_code                = 
+ | website                  = {{URL|www.kuldiga.lv}}
+ | footnotes                = 
+}}
+
+'''Kuldīga''' ({{val|liv|Kuldīg}})<ref>{{Tīmekļa atsauce|url=http://www.keeleveeb.ee/dict/translate/lietlv/dict.cgi?word=Kuld%C4%ABga&lang=lv|title=Līvõkīel-ēstikīel-lețkīel sõnārōntõz|website=www.keeleveeb.ee|access-date=2023-07-30}}</ref> ir [[Latvija]]s pilsēta [[Kurzeme|Kurzemē]] pie [[Venta]]s rumbas, [[Kuldīgas novads|Kuldīgas novada]] administratīvais centrs, 155 km no [[Rīga]]s. [[16. gadsimts|16.]]—[[17. gadsimts|17. gadsimtā]] tā bijusi [[Kurzemes un Zemgales hercogi|Kurzemes un Zemgales hercoga]] rezidences pilsēta, kurā uzturējies viņa galms. Tā ir bijusi arī [[Hanzas savienība]]s pilsēta. Kuldīgu reizēm vēl tagad dēvē par "Kurzemes galvaspilsētu" vai "Kurzemes sirdi". 2016. gadā Kuldīgā dzīvoja 11,8 tūkstoši iedzīvotāju. Tilts pār Ventu ir garākais ķieģeļu tilts Latvijā. Kuldīgas vecpilsēta ir iekļauta [[UNESCO Pasaules mantojuma objekts|UNESCO Pasaules mantojuma]] sarakstā.<ref>{{ziņu atsauce |title=Kuldīgu iekļauj UNESCO Pasaules mantojuma sarakstā |work=[[Dienas Bizness]] |url=https://db.lv/zinas/kuldigu-ieklauj-unesco-pasaules-mantojuma-saraksta-513237 |access-date=2023-09-18}}</ref>
+
+== Nosaukuma izcelsme ==
+<!-- [[Attēls:Sarkanie jumti.jpg|thumb|250px|Kuldīgas sarkanie jumti no Svētās Katrīnas baznīcas torņa 2006.g.]] -->
+Pilsētas vārda izcelsme ir neskaidra, bet uzskata, ka senais [[kurši|kuršu]] pils nosaukums ir bijis ''Kuldinga''.
+
+[[Kuršu valoda|Kuršu valodā]]
+galotne ''-(i)nga'' ir parasta, piemēram, nosaukumā [[Kretinga]]. Kuldīgas oficiālais nosaukums līdz pat [[Pirmais pasaules karš|Pirmā pasaules kara]] beigām bija ''Goldingen''. Kuršu valodas vārds ''Kuld-'' pārtapis par ''Gold-'' [[vācu valoda]]s dēļ, jo vāciski ''Gold'' nozīmē "[[zelts]]".
+
+== Ģerbonis ==
+Kuldīgas 1681. gada zīmogā bija attēlota [[Svētā Katrīna]] ar ratu vienā un zobenu otrā rokā. No 1925. līdz 1938. gadam ģerbonis piedzīvojis pamatīgas izmaiņas. To divās daļās sadala viļņota līnija, simbolizējot Ventas upi, kuras abās pusēs ir zivis.
+Pašreizējais ģerbonis ir līdzīgs 1681. gada versijai.
+
+<gallery>
+Attēls:Coat of arms of Kuldīga, 1681.png|1681. gada zīmogs
+Attēls:Kuldigas g 1846.PNG|1846. gada ģerbonis
+Attēls:Kuldigas g 1925 1938.PNG|1925. - 1938. gada ģerbonis
+</gallery>
+
+== Pilsētas simboli ==
+
+[[Attēls:20010305 15sant Latvia Postage Stamp.jpg|thumb|180px|Pastmarka ar pilsētas ģerboni]]
+Pilsētas oficiālie simboli ir [[Kuldīgas ģerbonis|ģerbonis]] ar tajā attēloto pilsētas aizgādni [[Svētā Katrīna|Svēto Katrīnu]] (pieņemts 1938. gadā) un sarkanmelnais [[Kuldīgas karogs|karogs]] ar ratu centrā (pieņemts 1992. gadā).<ref>{{Tīmekļa atsauce |url=http://www.kuldiga.lv/index.php?cat=241 |title=Kuldīga. Pilsētas simboli. |access-date={{dat|2010|09|15||bez}} |archiveurl=https://web.archive.org/web/20110517015120/http://www.kuldiga.lv/index.php?cat=241 |archivedate={{dat|2011|05|17||bez}} }}</ref>
+
+Par neoficiālajiem pilsētas simboliem dažkārt tiek uzskatīti [[Kuldīgas ķieģeļu tilts|ķieģeļu tilts]] un [[Ventas rumba]].
+
+== Ģeogrāfija ==
+[[Attēls:Kuldyga. Tiltas per venta, 2006-09-22.jpg|thumb|250px|Tilts pār Ventu ir garākais ķieģeļu tilts Latvijā]]
+
+Kuldīga atrodas [[Venta]]s abos krastos 155 km no [[Rīga]]s. Pilsētas lielākā un senākā daļa atrodas upes kreisajā krastā, labajā krastā — [[Pārventa (Kuldīga)|Pārventa]]. Ventas krasti pilsētas robežās lielākoties stāvi, lejpus [[Virka]]s atrodas 15 m augstais atsegums [[Melnā Kolka]]. Lejpus [[Ventas rumba]]s upē ir vairākas [[sala]]s un [[sēre]]s. Pilsētas robežās tek arī Ventas kreisā krasta pietekas [[Krāčupīte (Ventas pieteka)|Krāčupīte]] un [[Alekšupīte]] ar pieteku [[Kurmāles upīte|Kurmāles upīti]]. Alekšupītes kreisajā krastā pie Dzirnavu ielas uzpludināts 4,3 ha lielais [[Māras dīķis (Kuldīga)|Māras dīķis]].
+
+[[Venta]]s [[senleja]] no Kuldīgas līdz [[Abava]]s ietekai ir īpaši aizsargājamā dabas teritorija [[Ventas ielejas dabas liegums]].
+
+Kuldīgas 20. gadsimta ģenerālplāna autors ir pilsētbūvniecības arhitekts [[Gunārs Lūsis-Grīnbergs]].
+
+=== Transports ===
+Pilsēta atrodas svarīgu [[Kurzeme]]s autoceļu krustpunktā starp [[Ventspils|Ventspili]], [[Liepāja|Liepāju]], [[Talsi]]em un [[Saldus|Saldu]]. Pilsētai cauri iet autoceļš [[P108]] (Ventspils—Saldus), kā arī krustojas autoceļi [[P112]] (uz [[Aizpute|Aizputi]]), [[P116]] (uz [[Skrunda|Skrundu]] un [[Embūte|Embūti]]), [[P118]] (Kuldīgas apvedceļš), [[P119]] (uz [[Jūrkalne|Jūrkalni]]), [[P120]] (uz [[Talsi]]em) un [[P121]] (uz [[Tukums|Tukumu]]).
+
+== Vēsture ==
+{{Pamatraksts|Kuldīgas vēsture}}
+[[Attēls:Kuldīga Štafenhāgens.jpg|thumb|250px|Kuldīgas skats 19. gadsimta vidū ([[Štafenhāgens]])]]
+Rakstiskajos avotos Kuldīga pirmo reizi minēta 1242. gadā, kas tiek uzskatīts par pilsētas dibināšanas gadu. 1242.—1244. gadā pēc [[Karagājiens uz Kursu un Kuldīgas nodibināšana (1242)|karagājiena uz Kursu]] [[Livonijas ordenis]] uzcēla ordeņa [[Kuldīgas komturi|Kuldīgas komtura]] mūra pili pie [[Ventas rumba]]s, kas sākumā tika saukta par ''Jesusburg'', bet vēlāk par ''Goldingen''. 1355. gadā Kuldīga pirmo reizi nodēvēta par pilsētu, viens tās iecirknis tika saukts par "kuršu pilsētu", bet 1368. gadā Kuldīga minēta [[Hanza|Hanzas savienības]] dokumentos. 1378. gadā Kuldīgai tika piešķirtas [[Rīgas pilsētas tiesības]] (''ius Rigense'').
+
+1561. gadā pēc [[Livonijas Konfederācija]]s sabrukuma [[Kuldīgas pils]] kļuva par vienu no Kurzemes hercoga rezidencēm. Kad 1587.—1617. gadā [[Kurzemes un Zemgales hercogiste]] bija sadalīta, Kuldīga bija hercoga [[Vilhelms Ketlers|Vilhelma Ketlera]] pārvaldītās Kurzemes hercogistes galvaspilsēta.
+1642.—1682. gadā [[hercogs Jēkabs|hercoga Jēkaba]] valdīšanas laikā Kuldīga piedzīvoja saimniecisko uzplaukumu, tika uzcelta kuģu būvētava, salpetra fabrika, ķieģeļu cepļi. Kuldīgai bija tirdzniecības sakari ar daudzām valstīm.
+
+[[Attēls:Kuldigas ratsnams.jpg|thumb|250px|Kuldīgas jaunais rātsnams (1860)]]
+1795. gadā Kuldīga līdz ar pārējo [[Kurzeme|Kurzemi]] pievienota [[Krievijas Impērija]]i. 1860.-1885. gadā pilsētā notika strauja ekonomiskā attīstība, tika dibināta adatu fabrika "Meteors" (1860), ādu fabrika (1875), sērkociņu fabrika ”[[Vulkāns (fabrika)|Vulkāns]]” (1878), vilnas kāršanas fabrika (1885).
+1874. gadā pāri [[Venta]]s upei uzbūvēja vienu no garākajiem ķieģeļu tiltiem [[Eiropa|Eiropā]] (arhitekts [[Oto Dīce]]).
+1886. gadā no [[Rīga]]s uz Kuldīgu pārcēla [[Baltijas Skolotāju seminārs|Baltijas Skolotāju semināru]] (dibināts 1870. gadā [[Rīga|Rīgā]]).
+1915.—1918. gadā pilsētu okupēja ķeizariskās [[Vācija]]s karaspēks. Pirms tam liela daļa iedzīvotāju bija spiesti doties bēgļu gaitās. Formāli tika atjaunota Kurzemes hercogiste [[Prūsija]]s pakļautībā, kuru plānoja kolonizēt ar ieceļotājiem no [[Vācija]]s.
+
+1935. gadā tika atklāta šaursliežu [[Dzelzceļa līnija Liepāja—Ventspils|dzelzceļa līnija Kuldīga—Alsunga]]. [[Otrais pasaules karš|Otrā pasaules kara]] laikā 1941.—1945. gadā pilsētu okupēja nacistiskās [[Vācija]]s karaspēks. 1944.—1945. gadā netālu no Kuldīgas [[Pelču muiža]]s kungu mājā atradās [[Kurzemes cietoksnis|Kurzemes cietoksnī]] esošās vācu armijas grupējuma ''Kurland'' štābs.
+1945.—1991. gadā Kuldīga bija rajona centrs, kurā kopš 1960. gadiem tika attīstīta vietējā rūpniecība (kokapstrādes kombināts, dzelzsbetona rūpnīca, trikotāžas fabrika).
+
+== Iedzīvotāji ==
+{{Bar box
+|title   = Kuldīgas iedzīvotāju skaits 1798–2021
+|titlebar= #DDD
+|width   = 700px
+|barwidth= 600px
+|left1   = Gads
+|right1  = Iedzīvotāji
+|bars    = 
+{{bar pixel|1798|#0099FF|51||1352}}
+{{bar pixel|1840|#0099FF|155||4100}}
+{{bar pixel|1856|#0099FF|193||4818}}
+{{bar pixel|1881|#0099FF|327||8055}}
+{{bar pixel|1897|#0099FF|395||9720}}
+{{bar pixel|1913|#0099FF|468||11 700}}
+{{bar pixel|1920|#0099FF|197||4924}}
+{{bar pixel|1925|#0099FF|277||6912}}
+{{bar pixel|1935|#0099FF|288||7180}}
+{{bar pixel|1939|#0099FF|244||6100}}
+{{bar pixel|1943|#0099FF|243||6082}}
+{{bar pixel|1959|#0099FF|419||10 480}}
+{{bar pixel|1970|#0099FF|493||12 320}}
+{{bar pixel|1979|#0099FF|552||13 980}}
+{{bar pixel|1989|#0099FF|570||14 232}}
+{{bar pixel|2000|#0099FF|547||13 678}}
+{{bar pixel|2011|#0099FF|470||11 761}}
+{{bar pixel|2021|#0099FF|404||10 109}}
+|caption = Avoti: Kuldiga.lv, pop-stat.mashke.org<ref>[https://kuldiga.lv/en/town/history Kuldiga.lv. History]</ref><ref>[http://pop-stat.mashke.org/latvia-cities.htm pop-stat.mashke.org. Latvia]</ref>
+}}
+
+== Ievērojamas vietas ==
+{{pamatraksts|Kuldīgas vecpilsēta}}
+=== Ordeņpils drupas un skulptūru dārzs ===
+Pils dzirnavas, pilssarga namiņš un vecais pilsētas parks Pils ielas labajā pusē atrodas bijušās ordeņa komtura pils vietā jeb Rumbas kalnā.
+
+Līdz mūsu dienām no pils ir saglabājušies krusta ailes fragmenti, kas ir vecākās mūra celtņu paliekas Kurzemē.
+Tagad šeit tēlniece [[Līvija Rezevska]], Kuldīgas goda pilsone, izveidojusi skulptūru parku, kurā apskatāmi 15 viņas darinātie akmens un bronzas mākslas darbi.
+
+=== Pilssarga namiņš ===
+[[Attēls:Bendes namins.jpg|thumb|200px|Pilssarga namiņš, 2007]]
+Kamēr pastāvēja [[Livonijas ordenis|Livonijas ordeņa]] pils [[Venta]]s krastā, tajā dzīvoja arī pils sargi. Viņu uzdevums bija rūpēties par pils un tās iemītnieku drošību. Laikā, kad pāri [[Venta]]i bija uzbūvēts tilts (14.—17. gadsimts) un satiksme pār to notika caur priekšpils pagalmu, pils sargi iekasēja nodevu par tilta lietošanu, kā arī muitas naudu par pārvedamajām precēm. Pēc hercoga galma pārcelšanās uz [[Jelgava|Jelgavu]] vecā pils, kas karos tika stipri sapostīta un izlaupīta, nonāca aizmirstībā. Pēdējais pils sargs Bofemēls sūdzējās hercogam par savu pussabrukušo dzīvokli pilī un lūdza atļauju izmantot mūru akmeņus, lai pils sētā uzceltu sev māju. Tas arī tika atļauts, un 1735. gadā namiņš bija gatavs. Pils sabrukšana netika aizkavēta, nekoptie dārzi aizauga. Pagalmi un laukumi, vaļņi un bastioni aizauga ar zāli, krūmiem un kokiem. Pilsētas iedzīvotāji izmantoja pilsdrupu akmeņus kā lētu būvmateriālu savu dzīvojamo namu celtniecībai. Kā jau tipiskai 18. gadsimta ēkai namiņa centrā atrodas apvalkdūmenis — kādreizējā pavarda vieta. Četrdesmit gadu pilssarga namiņš bija [[Kuldīgas Novada muzejs|Kuldīgas Novada muzeja]] lietošanā — sākumā pirmajā stāvā bija izvietota ekspozīcija, taču ar laiku namiņš kļuva par muzeja krātuvi, kur glabājās fotogrāfiju, dokumentu, fotonegatīvu, priekšmetu kolekcijas. Pēc īpašnieku maiņas 2004. gadā muzeja krājums tika pārvietots uz citām telpām un namiņš palika tukšs. Kopš 1998. gada ēka ir valsts nozīmes arhitektūras piemineklis.<ref>{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=21017&Itemid=20 |title=Kuldīgas rajona laikraksts Kurzemnieks — Kuldīgas dārgumi<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archiveurl=https://web.archive.org/web/20160304133516/http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=21017&Itemid=20 |archivedate={{dat|2016|03|04||bez}} }}</ref>
+
+=== Rātslaukums ===
+Rātslaukums atrodas pilsētas centrā un ir sena ļaužu pulcēšanās vieta, kas pirmo reizi minēta jau 17. gadsimta dokumentos. Līdz 1937. gadam te bija tirgus laukums. Rātslaukuma savdabīgums un namu īpatnējā arhitektūra rosināja vairākus kino režisorus. Te uzņemta liela daļa no mākslas filmām "Krasts" un "Emīla nedarbi".
+
+Rātslaukuma dienvidu stūrī paceļas itāļu [[renesanse]]s stilā veidota celtne — Jaunais rātsnams, kas būvēts 1860. gadā. [[1905. gada revolūcija Latvijā|1905. gadā]] te darbojās Kuldīgas revolucionārā rīcības komiteja. 1980. gadā atkal iedarbināja rātsnama veco pulksteni. Kuldīgas Jaunajā rātsnamā atrodas Kuldīgas novada dome.
+
+=== Pilsētas laukums ===
+[[Kuldīgas pilsētas laukums]] atklāts 1936. gada 26. septembrī kā Kuldīgas jaunais tirgus laukums.
+
+=== Baznīcas ielas senie nami ===
+[[Attēls:Baznicas iela.JPG|thumb|200px|Viens no Baznīcas ielas namiem, 2006]]
+Vecais rātsnams atrodas Baznīcas ielā 5. No [[17. gadsimts|17. gadsimta]] saglabājušās pagraba velvētās telpas, kur bija pilsētas cietums. Pilsētas rāte izveidota jau [[14. gadsimts|14. gadsimta]] sākumā. 1368. gadā Rātei piešķirtas tiesības ņemt no pilsoņiem nodokļus. Rāte sastāvēja no [[birģermeistars|birģermeistara]], [[fogts|fogta]], 5 rātsvīriem un darbveža. Pēc restaurācijas ēka nodota kultūras nama rīcībā. Pretī vecajam rātsnamam laukuma malā atradās Kauna stabs, pie kura sodīti nepaklausīgie iedzīvotāji.
+
+Baznīcas ielā 7 atrodas vecākā ēka Kuldīgā. Tā celta 1670. gadā, pārbūvēta [[18. gadsimts|18. gadsimtā]], tā piederējusi kādam rātskungam. Šī nama grezni kalto vēja rādītāju ar mītiska [[vienradzis|vienradža]] tēlu un gadu skaitļiem "1670" un "1742" var aplūkot [[Kuldīgas Sv. Katrīnas evaņģēliski luteriskā baznīca|Kuldīgas Sv. Katrīnas evaņģēliski luteriskā baznīcā]]. Kopš 1998. gada nams ir valsts nozīmes arhitektūras piemineklis.<ref>{{Tīmekļa atsauce |url=http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6349&prod_sect=9 |title=Dzīvojamā ēka — VKPAI<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|27||bez}} |archiveurl=https://web.archive.org/web/20160305211936/http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6349&prod_sect=9 |archivedate={{dat|2016|03|05||bez}} }}</ref><br />
+Bijusī hercoga Jēkaba galma aptiekas ēka Baznīcas ielā 10 ir taisnstūrveida divstāvu celtne, kas celta koka pildrežģu tehnikā, ar pagrabu, [[manteļskurstenis|manteļskursteni]] un [[mansards|mansarda]] jumtu. Ēka 1986. gadā tika atjaunota. [[17. gadsimts|17. gadsimtā]] te atradās hercoga galma aptieka. Kopš 1998. gada nams ir valsts nozīmes arhitektūras piemineklis.<ref>{{Tīmekļa atsauce |url=http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6350&prod_sect=9 |title=Hercoga aptieka, tagad dzīvojamā ēka — VKPAI<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|27||bez}} |archiveurl=https://web.archive.org/web/20160305212015/http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6350&prod_sect=9 |archivedate={{dat|2016|03|05||bez}} }}</ref>
+
+Baznīcas ielā 36 atrodas Kuldīgas pilsdzirnavas. Kopš 1998. gada nams ir valsts nozīmes arhitektūras piemineklis.<ref>[http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6352&prod_sect=9 Pilsdzirnavas ar iekārtu — VKPAI<!-- Bota izveidots nosaukums -->]{{Novecojusi saite}}</ref>
+
+=== Liepājas iela ===
+[[Attēls:Liepajas iela.jpg|thumb|200px|Liepājas iela, 2007]]
+Liepājas iela ir Kuldīgas centrālā iela, kas organizēta kā gājēju iela. Tās malās atrodas dažādi tirdzniecības uzņēmumi, bankas, institūcijas un izklaides vietas. Ik gadu [[Kuldīgas pilsētas svētki|Kuldīgas pilsētas svētku]] laikā, valsts gadadienas laikā, [[Ziemas saulgrieži|Ziemas saulgriežos]], [[Vasaras saulgrieži|Vasaras saulgriežos]] un citās svinamās dienās Liepājas iela tiek tematiski izdekorēta, radot pilsētniekiem un pilsētas viesiem svētku noskaņu.<br />
+Līdz 1941. gadam Liepājas iela bijusi braucama, bet pa to dienā izbraukuši labi ja pāris pajūgi. 1948. gadā Liepājas ielu paredzēja pārveidot par galveno pilsētas transporta maģistrāli. Lai to paplašinātu, bija iecerēts nojaukt vairākas ēkas, jo ''tās nolietojušās un traucē pilsētas attīstību''. Izdevās nojaukt tikai trīs vēsturiskas celtnes. Pārējā plāna īstenošanai pietrūcis naudas. Līdz 1991. gadam Liepājas iela transportam izmantota tikpat intensīvi, cik paralēli esošā Mucenieku iela.<ref name="autogenerated2" /> Pēc tam daļu ielas atvēra tikai gājējiem un riteņbraucējiem.
+
+=== Sinagoga ===
+Viena no lielākajām ēkām Kuldīgā (1905. gada ielā 6) ir [[sinagoga]]. Tā pazīstama sava interjera dēļ, kurā dominēja marmors un zeltītas detaļas. Dokuments, kas senebreju valodā apraksta ēkas būvniecību 1875. gadā, atrodas Kuldīgas novada muzejā. Tā tika celta Krievijas ķeizara [[Aleksandrs II Romanovs|Aleksandra II]] valdīšanas laikā, un te atradās aktīvs ebreju kopienas centrs. Sinagoga ir daļa no plašāka kopienas ēku kompleksa, kas saglabājies līdz mūsdienām un kurā ietilpst arī lūgšanu nams, ēka, kurā tika novietoti mirušie kopienas locekļi un ebreju skola. Ebreju kopiena bija aktīva kopš apmešanās Kurzemes hercogistē 16. gadsimtā. Lielākā daļa pirmo ebreju ieceļotāju ieradās no Vācijas rietumu teritorijām, bet [[17. gadsimts|17. gadsimtā]] nemieri [[Polija|Polijā]] izraisīja ebreju pieplūdumu reģionā. [[18. gadsimts|18. gadsimtā]] [[Kurzeme]]s ebrejiem bija nozīmīga loma novada ekonomiskajā dzīvē. Kuldīgas sinagoga kļuva par ebreju cietumu 1941. gada vasarā, kad okupanti ēkā ieslodzīja visus pilsētā dzīvojošos ebrejus un turēja tajā vairākas dienas, pirms, sadalot mazākās grupās, nošāva tos apkārtnes mežos. Vācu karaspēks īsi pēc ebreju iznīcināšanas ierīkoja sinagogā pārtikas glabātuvi. Pirmajos padomju varas gados sinagogā ierīkota graudu noliktava, taču pēc kāda laika tā tika pārcelta un ēka vairākus gadus netika izmantota. 1958. gadā sinagogā tika atklāts kinoteātris "Kurzeme". Tajā atradās 450 skatītāju vietas, kā arī lasītava. Kinoteātris sinagogā atradās līdz 2003. gadam. Te tika ierīkota arī kafejnīca un nakts klubs. Pēc rekonstrukcijas bijušajās sinagogas telpās atrodas Kuldīgas Galvenā bibliotēka, bet bijušajā lūgšanu namā iekārtots Kuldīgas Mākslas nams, kura izstāžu zālē regulāri var aplūkot profesionālās mākslas izstādes.
+
+=== Kultūras nams ===
+Krustojumā ar Mucenieku ielu labajā pusē izveidots skvērs, kas piekļaujas rajona kultūras namam. Ēka celta 1909. gadā un kalpojusi par Kuldīgas Sadraudzīgās biedrības namu. [[20. gadsimts|20. gadsimta]] [[1920. gadi|20. gados]] te tika organizētas strādnieku sapulces. Te uzstājušies rakstnieki — [[Leons Paegle]] un [[Linards Laicens]] — Saeimas deputāti no strādnieku un zemnieku frakcijas.
+
+Rajona kultūras namā darbojas Tautas teātris (1974), Tautas koris "Vārtava" (1977), Tautas deju ansamblis "Venta" (1970), divas Tautas lietišķās mākslas studijas — "Varavīksne" (1974) un "Ķocis" (1982) un Tautas Fotostudija "Kuldīga" (1983).
+
+=== Viesnīca "Metropole" ===
+Metropole celta 1910. gadā. Kopš tā laika ēka degusi vismaz trīs reizes. Pēdējais ugunsgrēks to gandrīz visu nopostīja 1997. gada novembrī. Piecus gadus neviens investors sevišķu interesi par ēku neizrādīja un arī iepriekšējie privatizācijas mēģinājumi bija neveiksmīgi. 2002. gadā uzņēmējam [[Valentīns Kokalis|Valentīnam Kokalim]] piederošā zemnieku saimniecība ''Ezernieki'' vēsturisko viesnīcu privatizēja.<ref name="autogenerated2">{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/ |title=Kuldīgas rajona laikraksts Kurzemnieks — Sākums<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archiveurl=https://web.archive.org/web/20090208012838/http://kurzemnieks.lv/ |archivedate={{dat|2009|02|08||bez}} }}</ref> Pilnībā izdegušo namu par simbolisku cenu — vienu latu — [[Valentīns Kokalis]] no Kuldīgas pilsētas pašvaldības iegādājies 2002. gadā, par zemi zem tās samaksājot 2000 [[lats|latu]]. Viesnīcas būvniecībā ieguldīti 1 500 000 [[lats|latu]], no kuriem 700 000 esot kredīts, bet pārējā summa — paša [[Valentīns Kokalis|Valentīna Kokaļa]] investīcijas.<ref>{{Tīmekļa atsauce |url=http://www.leta.lv/ |title=LETA<!-- Bota izveidots nosaukums --> |access-date={{dat|2020|06|03||bez}} |archiveurl=https://web.archive.org/web/20200419153622/https://www.leta.lv/ |archivedate={{dat|2020|04|19||bez}} }}</ref> 2006. gadā tika pabeigta Metropoles restaurācija un tā tika atvērta kā atpūtas vieta kuldīdzniekiem un kā viesnīca Kuldīgas viesiem.
+
+=== Ventas rumba ===
+[[Attēls:Kuldyga. ventos krioklys, 2006-09-22.jpg|thumb|250px|Ventas rumba]]
+[[Ventas rumba]] ir platākais ūdenskritums [[Latvija|Latvijā]] un viens no platākajiem [[Eiropa|Eiropā]]. Tā platums atkarīgs no ūdens daudzuma, vidēji tas ir 100–110 m, palu laikā sasniedz pat 270 m. Rumbas augstums ir 1,6—2,2 m. Pārgāzi veido visai interesanta līkloču līnija. Ventas rumba ir dabas piemineklis un ietilpst [[Ventas ielejas dabas liegums|Ventas ielejas dabas liegumā]].<ref>{{Tīmekļa atsauce |url=http://www.dabasretumi.lv/pieminekli/Ukr/Ventas.htm |title=dabasretumi.lv |access-date={{dat|2009|12|30||bez}} |archiveurl=https://web.archive.org/web/20090812114753/http://www.dabasretumi.lv/pieminekli/Ukr/Ventas.htm |archivedate={{dat|2009|08|12||bez}} }}</ref>
+
+=== Alekšupīte ===
+[[Attēls:Aleksupites udenskritums.jpg|thumb|250px|Alekšupītes ūdenskritums pirms ietekas Ventā]]
+
+[[Alekšupīte]] ir [[Venta]]s kreisā krasta pieteka. Apmēram 70 m no ķieģeļu tilta pār Ventu Kuldīgā Alekšupīte ietek Ventā, pirms tam vijoties cauri Kuldīgas vecpilsētai. Alekšupītes krasti izsenis ir apbūvēti. Vairākās vietās ir izveidojušies dabīgi vai radīti mākslīgi ūdenskritumi. Pie ietekas Ventā atrodas Alekšupītes pēdējais ūdenskritums, kas ir 4,15 m augsts un 8 m plats.
+
+=== Virkas muiža ===
+Virkas muižas kungu māja celta kā vasaras muiža un vēlāk iekļāvusies Kuldīgas pilsētas apbūvē. Pie kungu mājas atrodas neliels 19. gadsimtā izveidots parks. 18. gadsimta beigās Virkas muižā darbojusies pirmā luterāņu skola Kuldīgas apriņķī, bet Otrā pasaules kara sākumā tajā izvietots krievu karavīru hospitālis. Arhitektūras stils — historisms. Šodien Virkas muižu apsaimnieko uzņēmums SIA “Virkas muiža”, kas sniedz viesnīcas un izklaides pakalpojumus. Virkas muiža šodien atrodas Virkas ielā 27.<ref>{{Tīmekļa atsauce |url=http://www.pilis.lv/a_pnm/view.php?id=2151&prop_id=176 |title=Veckuldīgas pilskalns :: PILIS UN MUIŽAS<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|24||bez}} |archiveurl=https://web.archive.org/web/20160305033603/http://www.pilis.lv/a_pnm/view.php?id=2151&prop_id=176 |archivedate={{dat|2016|03|05||bez}} }}</ref>
+
+== Parki ==
+Kuldīgā ir izveidojušās lielākas un mazākas zaļās atpūtas zonas jeb skvēri, tai skaitā četri parki pilsētas centrā — Pils parks līdzās Ventas upei un senajam ķieģeļu tiltam pār to, 1905. gada parks līdzās Sinagogai, Pilsētas estrādes parks un Kuldīgas pareizticīgo baznīcas parks līdzās Baltijas skolotāju semināra ēkai (tagadējam [[Kuldīgas Tehnoloģiju un tūrisma tehnikums|Kuldīgas Tehnoloģiju un tūrisma tehnikumam]]).
+
+=== 1905. gada parks ===
+Parka pirmsākumi meklējami Otrā pasaules kara laikā. 1945. gada 8. maijā pēc Padomju Armijas nomestajām bumbām daļa koka ēku tagadējā parka vietā nodega. Nodegušā kvartāla vietā pēc kara tika izveidots parks. Tolaik māju drupas bija novāktas, bet vecie dārzi saglabājušies. Regulāri parka celiņi tika ierīkoti pēc tam, kad parkā tika novietots tēlnieces [[Līvija Rezevska|Līvijas Rezevskas]] veidotais piemineklis 1905. gada cīnītājiem. Ap to pašu laiku iekārtoja arī L. Rezevskas veidoto strūklaku — meiteni ar krūzi jeb Anniņu.<ref>{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=22971&Itemid=20 |title=Kuldīgas rajona laikraksts Kurzemnieks — Kuldīgas dārgumi<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archive-date={{dat|2021|03|05||bez}} |archive-url=https://web.archive.org/web/20210305012516/https://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=22971&Itemid=20 }}</ref>
+
+== Kapi ==
+Kuldīgas pilsētas robežās ir izveidoti trīs lieli kapi — Vecie kapi Liepājas ielas galā, Annas kapi netālu no Pils parka un Jāņkalna kapi pie pilsētas dienvidrietumu robežas.
+
+Kuldīgas Veco kapu parks aizņem 37 066 m<sup>2</sup> platību Liepājas ielas galā pie Ēdoles ielas sākuma. Šos kapus sāka veidot 18. gadsimtā. Katrai pilsētas draudzei šajā teritorijā, uz rietumiem no pilsētas, bija ierādīta sava platība un vieta. Tagadējās Liepājas ielas malā vistuvāk Kuldīgai — krievu kapi, tālāk vācu apbedījumi, bet otrpus celiņam, kas tagad savieno Parka un Ēdoles ielu, atradās latviešu kapi, bet uz rietumiem no tiem — ebreju mūžīgās atdusas vietas. Var pieņemt, ka šīs teritorijas ne vienmēr tika strikti ievērotas jaukto laulību gadījumos, bet katrā ziņā šeit visas tautības satika draudzīgi.<ref name="autogenerated1">{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=37822&Itemid=20 |title=Kuldīgas rajona laikraksts Kurzemnieks — Kuldīgas veco kapu parks<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archiveurl=https://web.archive.org/web/20160305080153/http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=37822&Itemid=20 |archivedate={{dat|2016|03|05||bez}} }}</ref>
+
+Šodien Vecie kapi vairāk līdzinās parkam, nevis kapiem. Gadu gaitā kapu kopiņas ir izzudušas un lielākā daļa pieminekļu pazuduši. Kapsētas krievu un vācu daļā saglabājušies vairāki valsts aizsargājamo objektu sarakstā iekļautie mākslas pieminekļi. Turpat līdzās vēl redzamas dažas sabojātas (arī mākslinieciski augstvērtīga jūgendstila) dzelzs kaluma un čuguna lējuma sētiņas ap apbedījuma vietām. Liepājas ielas malā uzstādīts piemiņas akmens ārstam, dzejniekam un latviešu valodas pētniekam [[Juris Bārs|Jurim Bāram]] (1808—1879), kura īstā apbedījuma vieta vācu kapos tika nopostīta.<ref name="autogenerated1" />
+
+== Medicīna ==
+Kopš 1827. gada Kuldīgā darbojas slimnīca. 2003. gadā [[Kuldīgas slimnīca]] tika pārcelta no vecajām telpām pilsētas centrā uz jaunuzceltām ēkām un jaunām telpām pilsētas nomalē. Šobrīd Kuldīgas slimnīcā ir terapijas, ķirurģijas, bērnu, ginekoloģijas un dzemdību nodaļas, reanimācijas un anestezioloģijas nodaļa un 4 operāciju zāles.<br />
+Kuldīgā darbojas arī [[SIA "Kuldīgas doktorāts"]], kurā medicīnas pakalpojumus iedzīvotājiem sniedz ģimenes ārsti un ginekologi. <br />
+Kuldīgā darbojas septiņas zobārstniecības privātprakses.
+
+== Izglītība ==
+
+=== Bērnudārzi ===
+Kuldīgā ir četri bērnudārzi jeb pirmsskolas izglītības iestādes (PII):
+* [[PII "Ābelīte"]]
+* [[PII "Cīrulītis"]]
+* [[PII "Taurenītis"]]
+* [[speciālā PII "Bitīte"]]
+
+=== Vispārizglītojošās skolas ===
+Kuldīgā ir sešas vispārizglītojošās skolas:<ref>{{Tīmekļa atsauce |url=http://www.kuldiga.lv/index.php?cat=75 |title=Kuldīgas novada izglītības iestādes |access-date={{dat|2010|09|16||bez}} |archiveurl=https://web.archive.org/web/20101006112836/http://kuldiga.lv/index.php?cat=75 |archivedate={{dat|2010|10|06||bez}} }}</ref>
+* [[Viļa Plūdoņa Kuldīgas ģimnāzija]]
+* [[Kuldīgas 2. vidusskola]]<!-- — pašā pirmsākumā 1877. gadā šajās ēkās darbu uzsāka Kuldīgas — Griķu pamatskola. 1928. gadā Kuldīgu un Griķu pagastu apvienoja un skolu pārdēvēja par Kuldīgas pagasta tautskolu. Pēc 1945. gada šeit bija septiņgadīgā skola, bet no 1967. gada — [[Kuldīgas 2. vidusskola]]. Visu šo gadu laikā skolas ēkas ir paplašinātas un pārveidotas.<ref>[http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=25437&Itemid=20]</ref> -->
+* [[Kuldīgas Centra vidusskola]]
+* [[Kuldīgas Mākslas un humanitāro zinību vidusskola]]
+* [[Kuldīgas pamatskola]]
+* [[Kuldīgas Alternatīvā sākumskola]]
+
+=== Profesionālās ievirzes izglītības iestādes ===
+
+* [[Kuldīgas Tehnoloģiju un tūrisma profesionālā vidusskola]],
+* [[Kuldīgas Mākslas un humanitāro zinību vidusskola]]s Mākslas skola,
+* [[Kuldīgas novada sporta skola]],<!-- Kuldīgā darbojas [[Kuldīgas rajona sporta skola]], kurā piedāvā apgūt un pilnveidot sevi vieglatlētikas, riteņbraukšanas, galda tenisa, šaha, volejbola, basketbola, dambretes, futbola sporta veidos. -->
+* [[Ernesta Vīgnera Kuldīgas mūzikas skola]]. <!-- Darbojas kopš 1944. gada. Skolā ir iespēja apgūt dažādu klasisko mūzikas instrumentu spēli, kā arī dziedāšanu. Kopš 1968. gada Ernesta Vīgnera Kuldīgas mūzikas skolā aktīvi darbojas [[koris Cantus]], kas ir kļuvis pazīstams ne tikai Latvijā, bet arī Eiropā un pasaulē. -->
+
+==== Kuldīgas vakara vidusskola un RPIVA ====
+Līdz 2002. gadam Kuldīgā bija arī [[Kuldīgas vakara vidusskola]]. Taču 2002. gadā to pievienoja [[Kuldīgas 2. vidusskola]]i.
+
+Kuldīgā ir iespēja iegūt arī augstāko izglītību [[Latvijas Universitāte]]s (LU) (līdz 2017. gada septembrim — [[Rīgas Pedagoģijas un izglītības vadības augstskola]]s (RPIVA)) Kuldīgas filiālē.<br /> [[Kuldīgas vakara vidusskola]] līdz 2002. gadam kopā ar RPIVA Kuldīgas filiāli atradās vienā ēkā Kalna ielā 19, Kuldīgā. Ēkas vēsture stiepjas līdz 1866. gadam, kad Kuldīgā tika nodibināta valsts vācu ģimnāzija un tās vajadzībām tika uzcelta ēku Kalna ielā 19. Skolā mācījās zēni no visas [[Kurzeme]]s. 1892. gadā ģimnāziju slēdza, jo cariskā valdība vairs nevēlējās piešķirt līdzekļus skolai ar vācu mācību valodu. Ēkā darbu turpināja Dr.Bitnera privātģimnāzija, to nomainīja Erlemaņa, pēc tam R.Holmaņa vadītā skola. 1906. gadā tika atļauts mācības atkal noturēt vācu valodā, un no jauna sāka darbu klasiskā ģimnāzija. 1920. gadā skolas ēka tika nacionalizēta un nodota latviešu ģimnāzijai. No 1945. līdz 1952. gadam te pastāvēja Kuldīgas daiļamatniecības vidusskola. 1952. gadā skolu pārcēla uz Liepāju un ēkā tika ierīkota Kuldīgas 2. septiņgadīgā skola. Pēc tam ēkā darbojās 3. astoņgadīgā skola, no 1977. gada — Kuldīgas vakarskola, no 2002. gada — RPIVA (vēlāk LU) Kuldīgas nodaļa.<ref>{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=20132&Itemid=20 |title=Kuldīgas rajona laikraksts Kurzemnieks — Kuldīgas dārgumi<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archive-date={{dat|2021|03|05||bez}} |archive-url=https://web.archive.org/web/20210305014846/https://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=20132&Itemid=20 }}</ref>
+
+=== Kuldīgas rajona Bērnu un jauniešu centrs ===
+Kopš 1999. gada Kuldīgā darbojas Kuldīgas novada Bērnu un jauniešu centrs. Ievērojamo divstāvu mūra ēku 1905. gada ielā 10, Kuldīgā, kur šodien atrodas Kuldīgas novada Bērnu un jauniešu centrs, cēlis būvuzņēmējs Jakobsons 19. gadsimta otrajā pusē. Gandrīz visu laiku tā bijusi skolas ēka. 1879. gadā pilsētas valde nolēma atpirkt šo namu par 12 500 rubļiem, lai ierīkotu sešklasīgo meiteņu skolu. Piepirka klāt arī blakus esošo zemes gabalu Smilšu un Skārņu ielas stūrī. Skolu vadīja inspektors, mācības notika vācu valodā. Uz laiku meiteņu skolai tomēr bija jāatstāj šī ēka, lai te no Pasta ielas varētu pārcelt pasta kantori. Pasts namā atradās līdz 1910. gada 29. septembrim, tad to pārcēla uz pilsētai piederošu ēku Liepājas ielā. 1911. gadā pēc remonta ēkā atgriezās meiteņu skola. 1920.—1930. gadā namā atradās Kuldīgas II pamatskola. Arī padomju laikā namā bijušas mācību iestādes. 20. gadsimta 70. gadu sākumā ēkā atradās pamatskola. Savukārt 90. gados — [[Kuldīgas 78. arodvidusskola]]s klases un kopmītnes. Toreiz māja bija gandrīz vai avārijas stāvoklī ar sausajām tualetēm. Līdz 1999. gadam trīs gadus ēka bija neapdzīvota, izņemot trīs dzīvokļus trešajā stāvā. Jau tā nolaistās telpas bija kļuvušas vēl nožēlojamākas. No 1999. gada novembra līdz 2000. gada janvārim ēkā notika triecienremonts. Tagad centrā nodarbības notiek no astoņiem rītā līdz deviņiem desmitiem vakarā. Rītos te divās telpās pulcējas pirmsskolas vecuma bērni uz obligātajām mācībām, kas sagatavo skolai. Pārējās telpas tiek izīrētas dažādiem kursiem un semināriem. Centrs piedāvā 21 pulciņu. Teātra studijai nodarbības ir arī svētdienās, kad uz centru iet studējošie jaunieši. Bieži notiek Kuldīgas novada Pieaugušo izglītības centra nodarbības.<ref>{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=21793&Itemid=20 |title=Kuldīgas rajona laikraksts Kurzemnieks — Kuldīgas dārgumi<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|17||bez}} |archive-date={{dat|2021|03|05||bez}} |archive-url=https://web.archive.org/web/20210305004051/https://www.kurzemnieks.lv/index.php?option=com_content&task=view&id=21793&Itemid=20 }}</ref> Kopš 1999. gada centru vada tā direktore [[Ruta Orlova]].
+
+== Baznīcas ==
+[[Attēls:Kuldīga, baptistický kostel.jpg|thumb|250px|Kuldīgas baptistu dievnams]]
+Kuldīgā ir vairāku kristiešu konfesiju dievnami, vecākais no kuriem ir 1252. gadā celtā [[Kuldīgas Svētās Katrīnas evaņģēliski luteriskā baznīca|Katrīnas baznīca]]:
+* [[Kuldīgas Svētās Katrīnas evaņģēliski luteriskā baznīca]], celta 1252. gadā,
+* [[Kuldīgas Svētās Annas evaņģēliski luteriskā baznīca]], celta 1904. gadā,
+* [[Kuldīgas Svētās Trīsvienības Romas - katoļu baznīca]], celta 1640. gadā, valsts nozīmes arhitektūras piemineklis,<ref>{{Tīmekļa atsauce |url=http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6358&prod_sect=9 |title=Sv. Trīsvienības katoļu baznīca — VKPAI<!-- Bota izveidots nosaukums --> |access-date={{dat|2009|02|27||bez}} |archiveurl=https://web.archive.org/web/20160305220016/http://www.mantojums.lv/?cat=742&lang=lv&KS=OK&PROD=6358&prod_sect=9 |archivedate={{dat|2016|03|05||bez}} }}</ref>
+* [[Vissvētās Dievmātes Patvēruma baznīca]], celta 1871. gadā, pareizticīgo baznīca,
+* [[Kuldīgas Baptistu draudze]], draudze dibināta 1837. gadā.
+
+== Kultūra ==
+
+=== Bibliotēka ===
+[[Attēls:Kuldīga sinagogue, now a library.jpg|thumb|250px|Kuldīgas bibliotēka (bijusī sinagoga)]]
+Kuldīgā [[bibliotēka]] darbojas jau kopš 20. gadsimta sākuma. Sākotnējā tās atrašanās vieta bija Baznīcas ielā 1, kur šodien atrodas Kuldīgas pilsētas dome. 1934. gadā Kuldīgas pilsētas bibliotēku pārvietoja uz Liepājas ielu 35. 1940. gadā Kuldīgas pilsētas bibliotēku pārdēvēja par [[Kuldīgas apriņķis|Kuldīgas apriņķa]] masu bibliotēku un to pārvietoja uz citām telpām Baznīcas ielā 3/5. 1945. gadā to pārcēla uz kultūras nama telpām Raiņa ielā 23. Tur bibliotēka atradās līdz 1964. gadam. Tālāk bibliotēku pārvietoja atkal uz Baznīcas ielu 2/4. No 1978. gada Kuldīgas bibliotēka darbojās Baznīcas ielā 1. 1992. gadā šajā namā tika iekārtota Kuldīgas pilsētas dome, bet pilsētas bibliotēku pārcēla uz telpām Vakara ielā 6,<ref>{{Tīmekļa atsauce |url=http://www.km.gov.lv/ |title=Arhivēta kopija |access-date={{dat|2020|06|03||bez}} |archiveurl=https://web.archive.org/web/20080907064644/http://www.km.gov.lv/ |archivedate={{dat|2008|09|07||bez}} }}</ref> kur līdz tam atradās bērnudārzs "Sprīdītis".
+
+Kopš 2011. gada 16. novembra Kuldīgas Galvenā bibliotēka atrodas 1905. gada ielā 6 (rekonstruētajā bijušās Sinagogas ēkā).
+
+=== Muzejs ===
+[[Attēls:Muzejs.JPG|thumb|200px|Kuldīgas Novada muzejs 2006]]
+Kopš 1935. gada Kuldīgā darbojas muzejs. 1940. gadā [[Kuldīgas Novada muzejs]] tika iekārtots tajās telpās, kurās tas atrodas šodien — Pils ielā 5 Kuldīgā. Pirmais muzeja eksponāts bija 1851. gadā gleznotā [[Frīdrihs Špērs|Frīdriha Špēra]] glezna „Skats uz Rumbu“. Muzejā glabājas vairāk nekā 85 000 eksponātu. Rakstisko materiālu krājumā ir dokumenti jau no 17. gadsimta Fotoattēlu un fotonegatīvu arhīvs sniedz bagātīgu ieskatu Kuldīgas novada dzīvē no 19. gadsimta beigām līdz mūsu dienām. Kuldīgas muzejā ir viena no plašākajām [[Vērpjamā vārpsta|vārpstiņu]] kolekcijām [[Latvija|Latvijā]]. Apkopoti materiāli par novada kultūras darbinieku dzīvi un darbu. Kuldīgas Novada muzejam ir filiāle "Kāršu istaba", kas ir vienīgais tāda veida muzejs Baltijas valstīs. Tajā var apskatīt 172 kāršu kavas no 32 valstīm, uzzināt kāršu vēsturi un tikties ar to kolekcionāru Jāni Mētru.<ref name="kuldiga.lv">{{Tīmekļa atsauce |url=http://www.kuldiga.lv/ |title=Arhivēta kopija |access-date={{dat|2010|09|15||bez}} |archiveurl=https://web.archive.org/web/20100909181547/http://www.kuldiga.lv/ |archivedate={{dat|2010|09|09||bez}} }}</ref><br />
+Muzeja ēkā 20. gadsimta sākumā tika atvesta no [[Liepāja]]s, kur to 19. gadsimta beigās projektējis [[Liepāja]]s pilsētas arhitekts [[Pauls Makss Berči]]. Kaut gan tiešu pierādījumu trūkst, joprojām dzīva ir leģenda par to, ka ēka ir bijusi [[Krievija]]s paviljons izstādē [[Parīze|Parīzē]] 1900. gadā.
+
+=== Kinoteātris ===
+Līdz 2003. gadam Kuldīgā darbojās [[kinoteātris "Kurzeme"]]. 1958. gadā kinoteātri izveidoja [[Kuldīgas Lielā sinagoga|Kuldīgas Lielās sinagogas]] telpās. Sinagoga celta 1875. gadā cara [[Aleksandrs II Romanovs|Aleksandra II]] valdīšanas laikā.<ref name="kuldiga.lv"/> Šobrīd sinagogas ēku komplekss pieder Kuldīgas pilsētas pašvaldībai. 2008. gada 20. oktobrī [[Kuldīgas pilsētas Dome]] nolēma izsludināta būvniecības ieceres publisko apspriešanu — sinagogas ēku kompleksa pārbūve par Kuldīgas galveno bibliotēku.
+
+=== Kinofilmas ===
+Kuldīga un tās vecpilsēta ir kļuvusi par pievilcīgu vietu vairāku vietējo un ārzemju kinofilmu uzņemšanai. Pavisam šeit uzņemtas 29 kinofilmas un vairākas reklāmas.<br />
+<ref>[http://www.travelnews.lv/index.php?m_id=18064&i_id=2&pub_id=48798 "Latvijas Holivudā" sākas filmēšana | Ziņas Latvijā, Kurzeme | BalticTravelnews<!-- Bota izveidots nosaukums -->]{{Novecojusi saite}}</ref><br />
+1985. gadā daļēji Kuldīgā tika uzņemta filma [[Emīla nedarbi|"Emīla nedarbi"]]. Tās režisors — [[Varis Brasla]].
+2000. gadā Kuldīgā tika uzņemta filma [[Neuzvaramais (filma)|"Neuzvaramais"]] (režisors — [[Verners Hercogs]]), 2003. gadā — filma [[Ūdensbumba resnajam runcim|"Ūdensbumba resnajam runcim"]] (režisors — [[Varis Brasla]]), 2007. gadā — [[Vācija]]s filma [[Tilts (filma)|"Tilts"]] (vācu val. — Die Brücke),
+
+=== Estrādes ===
+Kuldīgā pašlaik ir vismaz trīs estrādes — Pilsētas estrāde pilsētas estrādes parkā, Pārventas estrāde Pārventā un ilgu laiku pavisam neliela estrāde atradās uz [[Mārtiņsala (Kuldīga)|Mārtiņsalas]]. Pēc Otrā pasaules kara (līdz 70. gadu sākumam) galvenie kultūras pasākumi vasarās notika pils parka estrādē, kura atradās aiz Muzeja teritorijas žoga. Tur bija nojume ar skatuvi, tualetēm un deju grīdu, kur pēc estrādes koncertiem rīkoja dejas. [[Kuldīgas pilsētas svētki|Kuldīgas pilsētas svētku]] laikā lielākas un mazākas estrādes tiek celtas visā pilsētā.
+
+== Sports ==
+Sporta tradīcijas Kuldīgā un Kuldīgas novadā ir [[volejbols|volejbolam]], [[riteņbraukšana]]i, [[vieglatlētika]]i un [[futbols|futbolam]], [[orientēšanās|orientēšanās sportam]], kā arī galda spēlēm — [[šahs|šaham]], [[dambrete]]i. No 1954 līdz 1968 gadam Kuldīgā bija hokeja komanda "Kuldīgas Vulkāns" , ko atbalstīja kokapstrādes kombināta "Vulkāns" administrācija un BSB "Vārpa". "Vulkāns" hokeja komanda bija vairākkārtēja sporta biedrības "Vārpa" zonālo čempionātu uzvarētāja, bet pēdējo  zonālo sacensību 1967/68 gada sezonā izcīnīja bronzas godalgas.
+
+Pēdējā laikā Kuldīgā strauji attīstās tādi sporta veidi kā [[jauktā cīņas māksla]], [[kikbokss]] un [[svarcelšana]].
+
+Kuldīgā kopš 2006. gada notiek [[Kuldīgas pusmaratons]], kura aizsācējs ir kuldīdznieks Ivars Eglītis. Tajā vairākkārt startējusi arī [[Jeļena Prokopčuka]].
+
+Kuldīgā ir savs futbola klubs [[FK Kuldīga]], kurš startē [[Latvijas futbola 2. līga|2. līgā]].
+
+Divdesmita gadsimta piecdesmitajos un sešdesmitajos gados [[Kuldīgas "Vulkāns"]] bija viens no vadošajiem klubiem Latvijas futbolā. Tas izveidojās 1930. gadu sākumā kā [[Vulkāns (rūpnīca)|Vulkāna]] rūpnīcas komanda. Pēc dažiem gadiem tas tika likvidēts, bet 1947. gadā komanda tika atjaunota un 1949. gada iekļuva augstākajā līgā. 1964. gadā klubs ieguva [[Latvijas kauss futbolā|Latvijas kausu]]. Tomēr pēc tam panākumi izpalika un 1968. gada klubs izkrita no augstakās līgas, lai atgrieztos tikai 1981. gada sezonā, pēc kuras tas vēlreiz izkrita uz zemāku līgu.
+
+[[Latvijas futbola Virslīga 2005|2005]]. gada Virslīgas sezonā Kuldīgu pārstāvēja skandalozais klubs [[FK Venta]]. Pirms sezonas tas spēja piesaistīt bijušo [[Arsenal FC|Londonas "Arsenal"]] spēlētāju [[Oļegs Lužnijs|Oļegu Lužniju]], kā arī vairākus [[Baltkrievijas futbola izlase|Baltkrievijas]], [[Polijas futbola izlase|Polijas]] un [[Latvijas futbola izlase]]s spēlētājus. Klubs bankrotēja jau sezonas gaitā un sezonu pabeidza ar jauniešu sastāvu.
+
+Latvijas volejbola čempionātā vairākas sezonas spēlēja klubs [[SK Elvi/Kuldīga]], taču 2009. gadā tas bankrotēja.
+
+== Izklaide ==
+Kopš 2008. gada gandrīz visu gadu [[uzņēmums "Zvaigžņu rati"]] piedāvā izbraucienus ratos vai karietē ar zirgiem cauri [[Kuldīgas vecpilsēta]]i.
+
+No 2000. līdz 2005. gadam ik vasaru [[Veckuldīgas pilskalns|Veckuldīgas pilskalnā]] (Kuldīgas nomalē) tika rīkots nekomerciāls brīvdabas kultūras vairāku dienu pasākums "Tabūns". To īstenoja nevalstiskā organizācija [[Nekomerciālās Kultūras Attīstības Centrs]] ([[NEKAC]]). Pasākumā apvienoja gan izklaidējošas, gan informatīvas un izglītojošas norises — mūziķu uzstāšanos, video un foto mākslinieku priekšnesumus, konferenci un diskusijas, izstādes, kā arī sporta un vizuālās mākslas akcijas. Pasākuma forma — dzīvošana telšu pilsētiņā Veckuldīgas pilskalnā, kur māksliniekiem ir tieša saikne ar savu auditoriju — īstenoja projekta būtību — brīvā gaisotnē, dialogā parādīt savas idejas un talantus.<ref>{{Tīmekļa atsauce |url=http://www.nekac.lv/ |title=Arhivēta kopija |access-date={{dat|2020|06|03||bez}} |archiveurl=https://web.archive.org/web/20191118210741/http://www.nekac.lv/ |archivedate={{dat|2019|11|18||bez}} }}</ref>
+
+Kopš 1992. gada Kuldīgā ik vasaru tiek svinēti [[Kuldīgas pilsētas svētki]]. Katru gadu šie svētki kļūst arvien krāšņāki, arvien populārāki un arvien skaistāki. Ik gadu mainās svētku nosaukums un moto. Par tradīciju šajos svētkos ir kļuvis svētku gājiens cauri pilsētai. Gājienā piedalās uzņēmumu un iestāžu pārstāvji no Kuldīgas pilsētas, Kuldīgas rajona un citām vietām. Vēl viena tradīcija Kuldīgas pilsētas svētkos ir [["Alekšupītes skrējiens"]].
+
+== Uzņēmējdarbība ==
+Kopš 1992. gada Kuldīgā darbojas [[Zviedrija]]s — [[Latvija]]s kopuzņēmums [[SIA "Kuldīgas tekstils"]]. 1992. gada februārī [[Zviedrija]]s uzņēmums ''Jersey Vavnader AB'' [[Latvija|Latvijā]] izveidoja meitas uzņēmumu ''Top—print''. Pirms dažiem gadiem ''Top—print'' nosaukumu vadība [[Zviedrija|Zviedrijā]] ieteica nomainīt pret latvisko ''Kuldīgas tekstilu''. Sākumā uzņēmums nodarbināja 25 strādnieces, bet šobrīd jau ap 200, lielākoties sievietes. Uzņēmums nodarbojas ar apģērbu ražošanu, diendienā šujot kreklus, bikses, veļu, cepures, bērnu apģērbu u.c. tekstilizstrādājumus. Lielākā produkcijas daļa tiek nosūtīta mātes uzņēmumam [[Zviedrija|Zviedrijā]], kurš tālāk to izplata [[Dānija|Dānijā]], [[Norvēģija|Norvēģijā]] un citās valstīs. No 25 sievietēm, kas sāka strādāt, kad izveidoja uzņēmumu, šodien darbu turpina vien 17.<ref name="autogenerated2" />
+
+1878. gadā Kuldīgā tika dibināta sērkociņu fabrika "Vulkāns". [[Latvijas Republikas Uzņēmumu reģistrs|Latvijas Republikas Uzņēmumu reģistrā]] [[A/s "Vulkāns"]] reģistrēta 1994. gada 4. maijā, un šīs sabiedrības galvenais nodarbošanās veids bija kokapstrāde.<ref>{{Tīmekļa atsauce |url=http://www.vestnesis.lv/ |title=Latvijas Vēstnesis<!-- Bota izveidots nosaukums --> |access-date={{dat|2020|06|03||bez}} |archiveurl=https://web.archive.org/web/20200530014242/https://www.vestnesis.lv/ |archivedate={{dat|2020|05|30||bez}} }}</ref> A/S "Vulkāns" bankrotēja 2002. gadā.
+
+Pašlaik Kuldīgā darbojas finiera rūpnīca STIGA RM,<ref>{{Tīmekļa atsauce|url=https://www.stigarm.lv/produkti/|title=Stiga RM|website=www.stigarm.lv|access-date=2020-09-25}}</ref> vairāki kokapstrādes uzņēmumi, tai skaitā SIA Mars<ref>{{Tīmekļa atsauce|url=https://www.mars-kokapstrade.lv/|title=Kokmateriāli SIA Mars Kuldīga Latvija|website=SIA MARS|access-date=2020-09-25|language=lv}}</ref> un SIA Vēvers.<ref>[http://vevers.eu/mes/ SIA Vēvers mājaslapa]</ref>
+
+== Plašsaziņas līdzekļi ==
+[[Kurzemnieks (laikraksts)|Laikraksts "Kurzemnieks"]] ir vienīgais laikraksts, kas tiek izdots Kuldīgas un Viduskurzemes iedzīvotājiem. Laikraksts ar šādu nosaukumu pirmo reizi tika izdots 1910. gadā. No tā laika Kuldīgā ir izdoti arī citi laikraksti. Mūsdienu laikraksts "Kurzemnieks" bez pārtraukuma iznāk kopš 1989. gada.<ref>{{Tīmekļa atsauce |url=http://www.kurzemnieks.lv/ |title=Arhivēta kopija |access-date={{dat|2009|02|17||bez}} |archiveurl=https://web.archive.org/web/20090208012838/http://kurzemnieks.lv/ |archivedate={{dat|2009|02|08||bez}} }}</ref>
+
+Līdz 2005. gadam Kuldīgā un tās rajonā tika raidīta vietējā Kuldīgas TV, ko vadīja SIA "Kuldīgas televīzijas sabiedrība". 2005. gadā finanšu trūkuma dēļ tā pārtrauca raidīt.<ref>{{Tīmekļa atsauce |url= http://www.apollo.lv/portal/life/47/articles/48889 |title= Kuldīgas TV aptur darbu |accessdate= 2010-09-16 |publisher= [[Apollo (portāls)|Apollo]] |date= 2005-06-01 }}{{Novecojusi saite}}</ref> Uzņēmums mainīja statusu uz BO "Kuldīgas televīzijas sabiedrība".
+
+== Ievērojami cilvēki, kas dzimuši Kuldīgā ==
+
+* [[hercogs Jēkabs]] (1610—1682),
+* [[Kārlis Frīdrihs Jēkabs Hūgenbergers]] (1784—1860), dzejnieks un tulkotājs 
+* [[Vilhelms Zigfrīds Štafenhāgens]] (1814—1881), mākslinieks
+* [[Kārlis Davidovs]] (1838—1889), čellists 
+* [[Zēligs Kalmanovičs]] (1885—1944), filologs 
+* [[Sergejs Tretjakovs]] (1892—1937), dzejnieks 
+* [[Maksis Veinreihs]] (1893—1969), lingvists 
+* [[Valdis Kalnroze]] (1894—1993), gleznotājs 
+* [[Gvido Augusts]] (1932), gleznotājs 
+* [[Guntis Veits]] (1954), mūziķis 
+* [[Māris Grīnblats]] (1955—2021), politiķis 
+* [[Edgars Zalāns]] (1967), politiķis 
+* [[Andra Manfelde]] (1973), rakstniece 
+* [[Artis Dvarionas]] (1974), mūziķis 
+* [[Jānis Miņins]] (1980), bobslejists 
+* [[Dana Reizniece-Ozola]] (1981), politiķe
+* [[Jānis Sproģis]] (1944—2022), latviešu dziedātājs (liriskais tenors) un vokālais pedagogs.
+
+== Attēlu galerija ==
+<center><gallery widths="100px" heights="70px" perrow="6">
+Attēls:Aleksupite.JPG|Alekšupīte Kuldīgas vecpilsētā
+Attēls:Aleksupites udenskritums ziema.JPG|Alekšupītes ūdenskritums ziemā
+Attēls:Kuldiga ziema.JPG|Kuldīga ziemā 2006
+Attēls:Metropoles setas puse.jpg|Metropole pēc restaurācijas 2008 gadā
+Attēls:Pagrabins.jpg|Restorāns "Pagrabiņš" 2008
+Attēls:baznicas ielas nams.JPG|Baznīcas ielas viens no namiem 2006
+Attēls:Sienas zimejums.JPG|Sienas zīmējums Baznīcas ielā 2006
+Attēls:Kurland020.jpg|Ventas rumba
+Attēls:Dikis pie Kuldigas tiesas.jpg|Dīķis pie Kuldīgas tiesas nama 2006
+Attēls:Pa celam uz tiltu.jpg|Pa ceļam uz tiltu 2006
+Attēls:Kuldigas venecija.jpg|Kuldīgas venēcija 2008
+Attēls:Skatu tornis.jpg|Pārventas skatu tornis 2006
+Attēls:Kafejnica stenders.jpg|Kafejnīca "Stenders" 2006
+Attēls:Blakus stenderam.jpg|Blakus kafejnīcai "Stenders" 2006
+Attēls:Kuldigas setas.jpg|Sētas starp Kuldīgas senajiem namiem 2006
+</gallery></center>
+
+== Atsauces ==
+{{atsauces|colwidth=30em}}
+
+{{Kuldīgas novads}}
+{{Latvijas pilsētas}}
+{{Latvijas novadu centri}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Kuldīgas rajons}}
+{{Kuldīgas apriņķis}}
+{{Kurzemes un Zemgales hercogiste}}
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kurzeme]]
+[[Kategorija:Kuldīga| ]]

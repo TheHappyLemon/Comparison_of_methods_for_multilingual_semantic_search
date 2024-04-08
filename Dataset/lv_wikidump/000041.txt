@@ -1,0 +1,8 @@
+'''Manna-Vitneja U kritērijs''' ir analogs [[T tests|t_kritērijam]] [[Neparametriskā statistika|neparametriskajā]] [[statistika|statistikā]]. 
+
+Tas tiek uzskatīts par drošāko neparametrisko kritēriju. U aprēķinos tiek izmantoti pazīmes vērtību rangi, un ar tā palīdzību iespējams noteikt, vai divām neatkarīgi veidotām izlasēm ir vienādi sadalījumi.
+
+
+{{Matemātika-aizmetnis}}
+
+[[Kategorija:Statistika]]

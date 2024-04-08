@@ -1,0 +1,64 @@
+{{ezera infokaste
+|           ezers = Uvsnūrs
+|          attēls = Uvs-noor.jpg
+|        paraksts = Uvsnūra ainava
+|           karte = Uvs-Nuur Hollow, Mongolia, Russia, Landsat-7.jpg
+| kartes_paraksts = Uvsnūra satelītattēls
+|             map = Mongolija#Krievija#Tiva
+| plat_d=50 | plat_m=20 | plat_s= | plat_NS=N
+| gar_d=92 | gar_m=40 | gar_s= | gar_EW=E
+|           vieta = {{RUS}}<br />{{MNG}}
+|         platība = 3350
+|          garums = 85
+|         platums = 80
+|     Vid_dziļums = 6
+|     Max_dziļums = 10
+|         tilpums =
+|    augstums_vjl = 753
+|          izteka = beznoteces
+|         baseins =
+|         valstis = [[Krievija]]<br />[[Mongolija]]
+|           salas =
+|        pilsētas =
+{{Designation list
+|                    embed = jā
+|             designation1 = WHS
+|     designation1_offname = Uvsnūra baseins
+|        designation1_type = Daba
+|    designation1_criteria = ix, x
+|        designation1_date = 2003 <small>(27. sesija)</small>
+|           delisted1_date = 
+|      designation1_partof = 
+|      designation1_number = [http://whc.unesco.org/en/list/369rev 369rev]
+|   designation1_free1name = Valsts
+|  designation1_free1value = {{RUS}}, {{MNG}}
+|   designation1_free2name = Reģions
+|  designation1_free2value = Āzija un Okeānija
+|   designation1_free3name = 
+|  designation1_free3value = 
+}}
+}}
+
+'''Uvsnūrs''' (agrāk arī '''Ubsunurs'''; {{val|mn|Увс нуур}}, {{val|ru|Убсу-Нур}}, {{val-tyv|Успа-Холь}}) ir beznoteces [[sālsezers]] uz [[Mongolija]]s un [[Krievija]]s ([[Tiva|Tivas Republika]]s) robežas, lielākais [[ezers]] Mongolijā. Sekls un ļoti sāļs ezers, neliela daļa no agrākā [[ledus laikmets|pēcleduslaikmeta]] ezera, kas pirms vairākiem tūkstošiem gadu klāja daudz lielāku teritoriju. Aptuveni piecdesmitais pasaules lielākais ezers. Ūdens apmaiņas laiks ir 1 gads.
+
+Ubsunūrs atrodas vienā no planētas labāk saglabātajām [[stepe]]s ainavām. Ap ezeru atrodas stepe, [[pustuksnesis]] un kalni. Plašs [[kāpa|kāpu]] masīvs austrumos — Altanelsas kāpu masīvs. Ezers ir ļoti nozīmīgs kā gājputnu atpūtas vieta. Šeit reģistrētas vairāk nekā 220 putnu sugas un 41 zīdītāju sugas, tai skaitā [[sniega leopards]]. Gaisa temperatūra ezera apkaimē svārstās no {{nobr|-58&nbsp;°C}} ziemā līdz {{nobr|47&nbsp;°C}} vasarā.
+
+[[2001. gads|2001]]. gadā ezers tika iekļauts [[UNESCO Pasaules mantojuma saraksts|UNESCO Pasaules mantojuma sarakstā]] — viens no lielākajiem šajā sarakstā iekļautajiem pieminekļiem.<ref>[http://whc.unesco.org/en/list/769 Uvs Nuur Basin]</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija UNESCO}}
+{{Mongolija UNESCO}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Krievijas ezeri]]
+[[Kategorija:Mongolijas ezeri]]
+[[Kategorija:Sālsezeri]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Krievijā]]
+[[Kategorija:UNESCO Pasaules mantojuma vietas Mongolijā]]
+[[Kategorija:Tiva]]

@@ -1,0 +1,53 @@
+'''Beisiks'''<ref name="akadterm"/> jeb '''''BASIC''''' (saīsinājums no {{val-en|'''B'''eginner's '''A'''ll-purpose '''S'''ymbolic '''I'''nstruction '''C'''ode}} - "Iesācēja universālais simboliskais programmu kods"<ref name="akadterm">{{AkadTerm |term=beisiks |lang=lv}}</ref>) ir augsta līmeņa [[Programmēšanas valoda|programmēšanas valodu]] saime. Sākotnēji radīta kā viegli lietojama programmēšanas valoda, tā 20.gs. 70. un 80. gados kļuva plaši izplatīta mājas lietotāju vidū un šo popularitāti saglabājusi līdz pat šai dienai.
+
+== Vēsture ==
+Beisiku [[1963]]. gadā izstrādāja [[Dārtmutas universitāte]]s profesori [[Džons Kemenijs]] (1926—1993) un [[Tomass Kurcs]] (1928—). Astoņi principi, kas tika ņemti vērā beisika veidošanā, bija:
+
+# Lai valoda būtu vienkārša, iesācējam viegli lietojama
+# Vispārīgiem uzdevumiem lietojama valoda
+# Pietiekami sarežģītu iespēju nodrošināšana lietpratējiem, tai pašā laikā vienkārša iesācējiem
+# Interaktivitāte
+# Skaidri saprotami kļūdu paziņojumi
+# Spēja ātri darbināt mazas programmas
+# Nepieprasīt no lietotāja obligāti pārzināt datortehniku
+# Nelikt lietotājam iedziļināties OS
+
+== Piemēri ==
+
+[[Sveika, pasaule]]:
+<syntaxhighlight lang="gwBasic">
+ 10 PRINT "Hello, world!"
+ 20 END
+</syntaxhighlight>
+
+Vienkārša programma, kas prot nolasīt un izmantot lietotāja ievadīto informāciju:
+<syntaxhighlight lang="gwBasic">
+  10 INPUT "Tavs vārds: "; U$
+  20 PRINT "Sveiki, "; U$
+  25 REM
+  30 INPUT "Cik zvaigznītes tu vēlies redzēt? "; N
+  35 S$ = ""
+  40 FOR I = 1 TO N
+  50 S$ = S$ + "*"
+  55 NEXT I
+  60 PRINT S$
+  65 REM
+  70 INPUT "Vai vēlies vēl? "; A$
+  80 IF LEN(A$) = 0 THEN GOTO 70
+  90 A$ = LEFT$(A$, 1)
+ 100 IF (A$ = "Y") OR (A$ = "y") THEN GOTO 30
+ 110 PRINT "Uz redzēšanos, ";
+ 120 FOR I = 1 TO 200
+ 130 PRINT U$; " ";
+ 140 NEXT I
+ 150 PRINT
+</syntaxhighlight>
+
+== Atsauces ==
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Programmēšanas valodas]]

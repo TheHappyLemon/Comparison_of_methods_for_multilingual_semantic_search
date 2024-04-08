@@ -1,0 +1,272 @@
+{{BioTakso infokaste
+| attēls =Apis mellifera - Prunus padus - Keila.jpg
+| att_nosaukums = [[Eiropas medus bite]] (''Apis mellifera'')
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| tips =Arthropoda
+| tips_lv =Posmkāji
+| apakštips = Hexapoda
+| apakštips_lv = Seškāji
+| klase =Insecta
+| klase_lv =Kukaiņi
+| iedalījums=
+* {{TaksoSaite|Apterygota|Bezspārņu apakšklase}}
+* {{TaksoSaite|Pterygota|Spārneņu apakšklase}}
+| sinonīmi =
+*''Ectognatha''
+*''Entomida''
+| kategorijas = nē
+| binomial=Insecta <small>([[Kārlis Linnejs|Linnaeus]], 1758)</small>
+}}
+
+'''Kukaiņi''' (''Insecta'') ir [[Posmkāji|posmkāju tipa]] (''Arthropoda'') [[klase (bioloģija)|klase]] ar pasaulē vislielāko sugu daudzveidību. Tiek uzskatīts, ka pasaulē ir no 6 līdz 10 miljoniem kukaiņu sugu.<ref>{{publikācijas atsauce |author1=Novotny, Vojtech |author2=Basset, Yves |author3=Miller, Scott E. |author4=Weiblen, George D. |author5=Bremer, Birgitta |author6=Cizek, Lukas |author7=Drozd, Pavel |year=2002 |title=Low host specificity of herbivorous insects in a tropical forest |journal=[[Nature (journal)|Nature]] |pmid=11976681 |volume=416 |issue=6883 |pages=841–844 |doi=10.1038/416841a|bibcode = 2002Natur.416..841N }} {{en ikona}}</ref><ref name="number">{{grāmatas atsauce|author=Erwin, Terry L. |year=1997 |title=Biodiversity at its utmost: Tropical Forest Beetles |pages=27–40}} In: {{grāmatas atsauce |editor1=Reaka-Kudla, M. L. |editor2=Wilson, D. E. |editor3=Wilson, E. O. |title=Biodiversity II |publisher=Joseph Henry Press, Washington, D.C.}} {{en ikona}}</ref> Pazīstamākie ir [[tauriņi]], [[vaboles]], [[mušas]], [[skudru dzimta|skudras]] un [[bites]]. Kukaiņi izplatīti visā pasaulē un ir sastopami visdažādākajos [[biotops|biotopos]]. Zinātni, kas pēta kukaiņus, sauc par [[entomoloģija|entomoloģiju]]. Tie radušies laika periodā starp [[devons|devonu]] un [[karbons|karbonu]], pirms vairāk nekā 350 miljoniem gadu.<ref>[https://www.aliens.lv/k-zinatne/5951-kukainu-klase Zinātne: Kukaiņu klase]</ref>
+
+Tie galvenokārt ir [[sauszeme]]s dzīvnieki, kas elpo ar [[Traheja|trahejām]] vai salīdzinoši neliela daļa caur ķermeņa virsmu. Vairākas kukaiņu grupas pielāgojušās dzīvei [[ūdens|ūdenī]], tomēr tikai dažu grupu [[kāpuri]] spēj uzņemt ūdenī izšķīdušo [[skābeklis|skābekli]]. Kukaiņi ir vienīgie [[bezmugurkaulnieki]], kuru vairākums spēj lidot.<ref name=gul/> Dažām augstāko kukaiņu grupām, piemēram, [[Blusas|blusām]] un [[Dzīvniekutis|utīm]], parazitārā dzīves veida dēļ [[kukaiņu spārni|spārni]] ir izzuduši.
+
+Kukaiņiem ir ļoti liela nozīme dabā. Tie ietilpst daudzu dzīvnieku barošanās ķēžu sastāvā. Gandrīz katrā [[mugurkaulnieki|mugurkaulnieku]] dzīvnieku klasē var atrast specializētus entomofāgus, t. i. dzīvniekus, kuri pārtiek no kukaiņiem, piemēram, daudzas [[putni|putnu]] sugas. Kukaiņi, galvenokārt plēvspārņi, divspārņi un tauriņi, apputeksnē augus ([[Eiropa|Eiropā]] apmēram 30 % [[ziedaugi|ziedaugu]] apputeksnē tieši kukaiņi). Tie piedalās arī [[augsne]]s veidošanas procesos. Piemēram, [[termīti]] un [[skudru dzimta|skudras]], tāpat kā daudzu citu kukaiņu kāpuri, kas dzīvo zemē, ar savām ejām uzirdina augsni, veicina tās labāku ventilāciju, apgādi ar ūdeni, kā arī bagātina to ar trūdvielām. Kukaiņi, piemēram, [[līķvaboles]], veic sanitāra funkcijas dabā. No cilvēka interešu viedokļa kukaiņu darbībai var būt arī negatīvas sekas. Daudzas sugas ir bīstami [[lauksaimniecība]]s un [[mežsaimniecība]]s kaitēkļi, bet daļa arī [[cilvēks|cilvēka]] un [[dzīvnieki|dzīvnieku]] [[parazīti]] un [[slimība|slimību]] ierosinātāju pārnēsātāji.<ref name=":1"/>
+
+== Sistemātikas izmaiņas ==
+[[Attēls:Calopteryx virgo male.jpg|thumb|200px|left|[[Strauta zilspāre]] (''Calopteryx virgo'') ir viena no divām Latvijā sastopamajām [[zilspāres|zilspārēm]]]]
+Visi kukaiņi pieder [[seškāji|seškāju apakštipam]] (''Hexapoda'') un tiem ir trīs pāri kāju. Alternatīvās (novecojušās) sistemātikās kukaiņu klase pieder [[traheāti|traheātu apakštipam]] (''Tracheata'').<ref name=":1"/> Saskaņā ar jaunāko sistemātiku kukaiņu klases sinonīms ir '''kailžokleņi''' (''Ectognatha''), kas kādreiz tika uzskatīta par kukaiņu apakšklasi. Otra kādreizējā apakšklase — [[segžokleņi]] (''Entognatha'') mūsdienās tiek sistematizēti kā kukaiņu māsas taksons — segžokleņu klase.<ref name=gul/><ref>David A. Grimaldi & Michael S. Engel (2005). "Arthropods and the origin of insects". Evolution of the Insects. Cambridge University Press. pp. 93—118. {{ISBN|978-0-521-82149-0}}.</ref>
+
+== Latvijā ==
+Latvijā konstatētas apmēram 10 000—15 000 kukaiņu sugas, bet, iespējams, to ir daudz vairāk.<ref name=":1"/> Latvijā sastopamas 23 dažādu kārtu kukaiņi — [[zvīņenes]], [[viendienītes]], [[spāres]], [[strautenes]], [[spīļastes]], [[prusaki]], [[taisnspārņi]], [[ķērpjutis]], [[dzīvniekutis]], [[tripši]], [[blaktis]], [[cikādes]], [[augutis]], [[vaboles]], [[tīklspārņi]], [[kamielīši]], [[dūneņes]], [[knābjgalvji]], [[makstenes]], [[tauriņi]], [[divspārņi]], [[blusas]] un [[plēvspārņi]].<ref name=":1"/> Latvijas teritorijā aizsargājamas ir apmēram 150 kukaiņu sugas.
+
+== Morfoloģija un fizioloģija ==
+[[Attēls:Insect anatomy diagram.svg|right|320px|thumb|
+'''A'''- Galva '''B'''- Krūtis '''C'''- Vēders <br />
+<div style="{{column-count|2}}">
+1. [[Kukaiņu taustekļi|taustekļi]]<br />
+2. [[omatīdija|vienkāršās acis]] (apakšējās)<br />
+3. vienkāršās acis (augšējās)<br />
+4. [[fasetacis|saliktās acis]]<br />
+5. smadzenes (smadzeņu [[ganglijs]])<br />
+6. [[kukaiņa krūtis|protorakss]]<br />
+7. muguras asinsvads (aorta)<br />
+8. [[kukaiņu traheja|trahejas]] kanāls<br />
+9. [[kukaiņu krūtis|mezotorakss]]<br />
+10. [[kukaiņu krūtis|metatorakss]]<br />
+11. [[kukaiņu spārni|priekšspārni]]<br />
+12. [[kukaiņu spārni|pakaļspārni]]<br />
+13. gremošanas trakta vidējā daļa (vēders)<br />
+14. muguras asinsvads (sirds)<br />
+15. olnīcas<br />
+16. gremošanas trakta beigu daļa (zarna, taisnā zarna)<br />
+17. anālā atvere<br />
+18. olvads<br />
+19. nervu horda (vēdera gangliji)<br />
+20. [[malpīgi vadi]]<br />
+21. pēdas mezgls<br />
+22. nagi<br />
+23. [[kukaiņu kāja|pēda]]<br />
+24. [[kukaiņu kāja|stilbs]]<br />
+25. [[kukaiņu kāja|ciska]]<br />
+26. [[kukaiņu kāja|ciskas grozītājs]]<br />
+27. gremošanas trakta priekšējā daļa (muskuļkuņģis)<br />
+28. krūšu gangliji<br />
+29. [[kukaiņu kāja|gūžas un ciskas savienojums]]<br />
+30. siekalu dziedzeris<br />
+31. [[zemrīkles ganglijs]]<br />
+32. [[kukaiņu mute|mute]]</div>]]
+
+Kukaiņiem ir segmentēts ķermenis, kas sastāv no trīs daļām: [[galva]]s, [[kukaiņu krūtis|krūtīm]] un [[vēders|vēdera]].<ref>[http://www.uzdevumi.lv/p/biologija/10-klase/organismu-daudzveidiba-11055/re-f5449a5b-60ff-4e7a-8997-45c9e8ec4db5 Posmkāji]</ref> To balsta [[eksoskelets]], kas ir ciets ārējs apvalks un kas sastāv galvenokārt no [[hitīns|hitīna]]. Trīs [[kukaiņu kāja|kāju]] pāri atrodas krūšu nodalījumā. Pie otrā un trešā krūšu segmenta parasti ir pa pārim spārnu, bet kukaiņiem var būt arī tikai viens pāris spārnu vai neviens. Kukaiņi ir vienīgie aktīvi lidojošie bezmugurkaulnieki. [[Elpošana]] notiek caur trahejām vai arī ar visa ķermeņa virsmu. Tiem kukaiņiem, kas elpo ar visu ķermeņa virsmu, ir gāzu caurlaidīga virsma, un to izplatība ir ierobežota ar mitra [[klimats|klimata]] apstākļiem. Tie pārsvarā sastopami [[augsne|augsnē]] vai pūstošu organismu atliekās. Caur trahejām elpojošajiem kukaiņiem to virsma ir gāzu necaurlaidīga, un tie var dzīvot arī sausos apstākļos. Šīs grupas kukaiņi ir izplatījušies pa visu [[zeme]]slodi, piemērojoties visdažādākajiem apstākļiem.
+
+=== Segmentācija ===
+
+==== Galva ====
+Galva atrodas ķermeņa priekšgalā. Tā izveidojusies, priekšējiem ķermeņa posmiem saaugot un saplūstot cietā galvas kapsulā. Tā satur lielāko daļu [[maņu orgāni|maņu orgānu]] (taustekļus, vienkāršās acis, saliktās acis un muti).
+
+Galvas iekšienē ir smadzenes (smadzeņu [[ganglijs]]). Galvas sānos ir divas lielas saliktās acis jeb [[fasetacis]]. Starp saliktajām acīm galvas kapsulas virspusē var būt 1—3 sīkas [[omatīdija|vienkāršās acis]] jeb actiņas. Lielākoties kukaiņiem acis ir labi attīstītas, taču ir arī īpatņi ar vāji attīstītām acīm un pat bez tām. Starp saliktajām acīm atrodas viens pāris [[kukaiņu taustekļi|taustekļu]]. Pēc formas izšķir sarveida, zāģveida, spalvveida, elkoņveida, ķemmveida un diegveida taustekļus. Uz tiem atrodas receptori, kas uztver kairinājumus.
+
+Galvas apakšpusē vai priekšpusē ir [[kukaiņu mute|mute]]. Mutes orgāni atkarībā no kukaiņa dzīves veida ir specializēti un dažādi veidoti. Izšķir četrus galvenos mutes tipus: [[kukaiņu mute|grauzējtipa]], [[kukaiņu mute|sūcējtipa]], [[kukaiņu mute|dūrējsūcējtipa]] un [[kukaiņu mute|laizītājtipa]]. Grauzējtipa orgāni piemēroti cietas barības sasmalcināšanai. Šāda mute ir [[vaboles|vabolēm]], [[spāres|spārēm]] un [[prusaki]]em. Sūcējtipa orgāni izveidojušies kukaiņiem, kas pielāgojušies šķidras barības sūkšanai. Tie barību iesūc mutē ar snuķi, piemēram, [[tauriņi]]. Līdzīgi mutes orgāni ir arī dūrējsūcējtipa kukaiņiem, kas sūc dzīvnieku [[asinis]] vai augu [[sula|sulu]]. Tikai atšķirībā no sūcējtipa kukaiņiem tie spēj pārdurt dzīvnieku ādu vai augu virsējo kārtu. Šāda mute ir [[odi]]em, [[blaktis|blaktīm]], [[laputis|laputīm]] un [[cikādes|cikādēm]]. Ceturtais mutes orgānu tips ir laizītājtipa. Kā jau nosaukums norāda, šie kukaiņi barības vielas uzlaiza. Raksturīgs [[mušas|mušām]].<ref name=":2">{{Tīmekļa atsauce |url=http://www.gudrinieks.lv/referati/referats/kukai-u-klase.html |title=Referāti: Kukaiņu klase |access-date={{dat|2014|12|01||bez}} |archiveurl=https://web.archive.org/web/20140815195716/http://www.gudrinieks.lv/referati/referats/kukai-u-klase.html |archivedate={{dat|2014|08|15||bez}} }}</ref><ref>[http://www.uzdevumi.lv/p/biologija/8-klase/posmkaji-12103/posmkaju-ipasibas-12149/re-4b0e3798-7703-4606-b028-918b4bb25892 Kukaiņu mutes orgāni]</ref>
+
+==== Krūtis ====
+[[Attēls:ARS Blattella asahinai.jpg|thumb|200px|left|Prusaks var noskriet 30 cm vienā sekundē, attēlā [[Āzijas prusaks]] (''Blattella asahinai'')]]
+[[Attēls:Chrysomela populi 01.jpg|thumb|200px|left|Lapgraužiem kājas ir īsas ar platiem, īsiem pēdu posmiem, attēlā [[lielais apšu lapgrauzis]] (''Chrysomela populi'')]]
+Krūtis (torakss) sastāv no 3 posmiem — priekškrūtīm (protoraksa), viduskrūtīm (mezotoraksa) un pakaļkrūtīm (metatoraksa, vislielākais no visiem posmiem). Katrā krūšu posmā izšķir muguras, vēdera un divas sānu daļas. Katrs posms iezīmēts ar starpposmu šuvi. Pie katra krūšu posma ir viens pāris [[kukaiņu kāja|kāju]], un vairākumam kukaiņu pie viduskrūtīm un pakaļkrūtīm pa vienam pārim [[kukaiņu spārni|spārnu]] (priekšspārni un pakaļspārni). Krūtīs atrodas arī cauruļveida asinsvads, kurā plūst bezkrāsaina vai zaļgandzeltena [[hemolimfa]].
+
+Kāja sastāv no [[kukaiņu kāja|gūžas]], viena vai diviem skriemeļiem, [[kukaiņu kāja|ciskas]], [[kukaiņu kāja|stilba]] un [[kukaiņu kāja|pēdas]]. Pēdai var būt līdz 5 posmiem. Pēdas pēdējā posmā parasti ir divi nagi, retāk viens vai neviens. Kāju posmi, tāpat kā mutes orgāni, atkarībā no to īpašajām funkcijām ir stipri modificēti. Izšķir vairākus kāju veidus: ejkājas, skrejkājas, lēcējkājas, racējkājas un airkājas. Ejkājas — paīsas, ar īsiem un platiem pēdas posmiem. Tādas, piemēram, ir [[lapgrauži]]em. Skrejkājas — slaidas, ar garām pēdām, piemēram, [[skrejvaboles|skrejvabolēm]], prusakiem. Lēcējkājas — labi attīstītas ar resnām ciskām un gariem stilbiem, piemēram, [[sienāži]]em. Racējkājas — īsas, platas ciskas un stilbi ar zobainu malu, piemēram, [[racējcirceņi]]em. Airkājas jeb peldkājas — stilbi un pēdas posmi paplatināti, pēdas ar bieziem, gariem sariem. Tādas kājas ir [[airvaboles|airvabolēm]]. Reizēm kukaiņu kājas ir pielāgotas īpaša uzdevuma veikšanai, piemēram, [[bites|bitēm]] pakaļkājas piemērotas ziedputekšņu ievākšanai un nešanai.
+
+Katrs kukaiņa spārns sastāv no divām membrānām. Starp augšējo un apakšējo membrānu ir dobums. Spārnu dobums savienots ar ķermeņa dobumu, tajā atrodas [[nervi]] un trahejas. Spārnam izšķir četras daļas: pamatni (daļa, kas pievienota krūtīm), priekšmalu (mala, kas lidojumā vērsta uz priekšu), pakaļmalu un galotni. Spārnu vēzienu skaits vienā sekundē dažādiem kukaiņiem var būt ļoti dažāds: no 5 vēzieniem tauriņiem līdz 600 vēzieniem odiem.<ref name=":2" />
+
+==== Vēders ====
+Vēders ir lielākā no visām ķermeņa daļām un parasti sastāv no 6 līdz 11 posmiem, kurus vienu no otra nodala membrāna. Dažiem kukaiņiem posmi ir saauguši kopā vai tie ir samazināti, piemēram, [[plēvspārņi]]em un [[divspārņi]]em ir tikai 4 vai 5 posmi. Pie vēdera daļas ekstremitāšu nav. Toties pie vēdera pēdējiem posmiem var būt dažādi piedēkļi, piemēram, dzelonis.<ref name=":2" /> Vēderā atrodas lielākā daļa no kukaiņa elpošanas sistēmas un gremošanas sistēmas, kā arī [[vairošanās orgāni]].<ref name=gul>Gullan, P.J.; Cranston, P.S. (2005). The Insects: An Outline of Entomology (3 ed.). Oxford: Blackwell Publishing. {{ISBN|1-4051-1113-5}}.</ref>
+
+=== Eksoskelets ===
+[[Attēls:CDC-Gathany-Aedes-albopictus-1.jpg|thumb|220px|Kukaiņa ķermeni aptver eksoskelets jeb divslāņaina kutikula, attēlā [[Āzijas tīģerods]] (''Aedes albopictus'')]]
+Kukaiņu ķermeni aptver eksoskelets jeb divslāņaina kutikula (epikutikula un prokutikula). Epikutikula ir plāns, vaskains, ūdensdrošs kukaiņa virsmas ārējais slānis, kurš nesatur hitīnu. Prokutikula ir eksoskeleta apakšējais slānis, kas galvenokārt sastāv no [[hitīns|hitīna]] un ir daudz biezāks par epikutikulu. Arī prokutikulai izšķir divus slāņus: ārējo slāni — eksokutikulu un iekšējo slāni — endokutikulu. Izturīgā un elastīgā endokutikula veidota no vairākām šķiedrveida hitīna kārtām un [[olbaltumvielas|olbaltumvielām]], kas savstarpēji vairākkārtīgi pārklājas, līdzīgi sviestmaizei. Toties eksokutikula ir neplastiska un cieta.<ref name=gul/> Daudziem kukaiņiem ar mīkstu ķermeni eksokutikulas slānis ir ļoti plāns, īpaši to [[kāpuri|kāpura]] stadijā. [[Kukaiņu spārni|Spārni]], ja tādi ir, piestiprināti ar muskuļiem pie eksoskeleta. Tie spēj daudzkārtīgi sarauties, atsaucoties tikai uz vienu [[nervi|nervu]] impulsu. Tādējādi spārnu vēzienu skaits [[sekunde|sekundē]] daudzkārtīgi pieaug.<ref name=gul/>
+
+Uz kutikulas virsmas var būt sīki matiņi, sariņi, zvīņas, u. c. veidojumi, kuriem var būt ļoti dažādas funkcijas. Kutikulā atrodas [[pigments|pigmenti]], kas parasti nosaka kukaiņa [[krāsa|krāsu]].<ref name=":2" />
+
+=== Kukaiņu iekšējā morfoloģija ===
+[[Attēls:Common housefly 01.jpg|thumb|220px|[[Istabas muša]]i (''Musca domestica'') visi gangliji savienoti vienā lielā krūšu ganglijā]]
+[[Attēls:Romalea microptera.jpg|thumb|220px|Sienāžiem stridulācijas orgāni atrodas uz priekšspārniem, attēlā [[neveiklais sienāzis]] (''Romalea microptera'')]]
+
+==== Nervu sistēma ====
+Kukaiņu [[nervu sistēma]] ir labi attīstīta. Tā var izpildīt daudzas funkcijas neatkarīgi no smadzenēm, piemēram, prusaks bez galvas var nodzīvot veselu nedēļu, līdz tas nomirst badā. Centrālā nervu sistēma sastāv no [[ganglijs|smadzeņu ganglija]], [[ganglijs|zemrīkles ganglija]], [[ganglijs|krūšu ganglijiem]] un [[ganglijs|vēdera ganglijiem]]. Galvas kapsulu veido seši cieši savienoti segmenti. Katrs segments savienots vai nu ar gangliju pāri vai nervu šūnu kopu, kas atrodas ārpus smadzenēm. Pirmie trīs gangliju pāri ir savienoti un veido galvas smadzenes, bet otrie trīs pāri savienoti struktūrā, kas atrodas zem kukaiņa rīkles un kuru sauc par zemrīkles gangliju.<ref name=gul/> Katram krūšu posmam katrā sānā ir viens ganglijs, veidojot trīs pārus (katram posmam viens pāris). Šādi gangliju pāri ir arī vēdera daļā, bet tie ir tikai pirmajiem 8 vēdera posmiem. Daudzām kukaiņu sugām ir samazināts krūšu un vēdera gangliju skaits.<ref>Schneiderman, Howard A. (1960). "Discontinuous respiration in insects: role of the spiracles". The Biological Bulletin. 119 (3): 494—528. JSTOR 1539265. doi:10.2307/1539265</ref> Piemēram, [[Eiropas sirsenis|Eiropas sirsenim]] (''Vespa crabro'') ir divi krūšu gangliju pāri un trīs vēdera gangliju pāri. Toties [[istabas muša]]i (''Musca domestica'') visi gangliji savienoti vienā lielā krūšu ganglijā.
+
+==== Maņu orgāni ====
+[[Maņu orgāni]] kukaiņiem ir ļoti daudzveidīgi un sarežģīti. [[Oža]]s un [[tauste]]s orgāni galvenokārt atrodas uz [[taustekļi]]em, [[garša]]s orgāni — mutes tuvumā un uz mutes orgāniem. [[Dzirde]]s orgāni atrodas uz spārniem vai priekškāju stilbiem. Dažiem kukaiņiem ir īpaši skaņrades (stridulācijas) orgāni. [[Sienāži]]em un [[racējcirceņi]]em šie orgāni atrodas uz priekšspārniem, siseņiem uz pakaļkāju ciskām un priekšspārniem.
+
+Īpaši komplicēti ir [[redze]]s orgāni, galvenokārt saliktās acis jeb [[fasetacis]]. Tās sastāv no daudzām vienkāršām acīm — [[omatīdija|omatīdijām]]. Fasetacs sniedz tiešu attēlu, kas attēlojas kā mozaīka. Acis var būt dažāda lieluma. Lielākā daļa kukaiņu, izņemot dažas [[siltumnīcu sienāžu dzimta]]s (''Rhaphidophoridae'') sugas, spēj atšķirt gaismu no tumsas. Daudzas sugas spēj noteikt pat visniecīgākās kustības.<ref>Lloyd, James E.; Erin C. Gentry (2003). ''The Encyclopedia of Insects''. Academic Press. pp. 115—120</ref> Daļa kukaiņu spēj atšķirt krāsas. Tie uztver galvenokārt [[zaļā krāsa|zaļgandzeltenos]] un [[zilā krāsa|zilos]] toņus. Atšķirībā no cilvēka, tie redz arī [[gaisma]]s spektra [[Ultravioletais starojums|ultravioleto]] un [[infrasarkanais starojums|infrasarkano]] daļu.
+
+Omatīdijas virsma ir sešstūraina lēca, zem kuras ir otra koniska lēca. Gaismai ieejot omatīdijā, tā ar lēcām tiek sakoncentrēta centrālajā struktūrā, kur apgrieztais attēls attīstās gaismu jutīgās [[šūna|šūnās]]. Pigmentu šūnas neļauj iekļūt gaismai no citām omatīdijām. Redzes nerva šķiedras nodod katras omatīdijas informāciju smadzenēm, kur tā tiek pārveidota vienā kopējā attēlā, kas atspoguļo ārpasauli.<ref name=":2" />
+
+==== Gremošana ====
+[[Gremošana]]s orgānu funkcijas veic trīsdaļīgs gremošanas trakts, kas stiepjas cauri visam ķermenim līdz anālajai atverei. Katrai trakta daļai (priekšējai, vidus un beigu daļai) ir atšķirīga funkcija.<ref name=gul/> Priekšējā daļa sastāv no mutes orgāna, barības vada un muskuļkuņģa. Vidusdaļa ir paplašināts zarnas posms, kurā notiek galvenā barības sagremošana, bet beigu daļa ir taisnā zarna un anālā atvere.<ref name=gul/> Kukaiņiem ir arī [[siekalas|siekalu]] dziedzeri, kas parasti atrodas krūtīs. Siekalu kanāls savieno dziedzeri ar siekalu kanāla atvērumu aiz rīkles apakšējās daļas (''hypopharynx''). Kustinot muti, kukainis samaisa siekalas ar barību. Šāda ar siekalām sajaukta barība nonāk mutē, kur uzsākas barības šķelšana.<ref>{{Tīmekļa atsauce |url=https://projects.ncsu.edu/cals/course/ent425/library/tutorials/internal_anatomy/digestive.html |title=Digestive and Excretory Systems |access-date={{dat|2017|11|04||bez}} |archive-date={{dat|2016|04|12||bez}} |archive-url=https://web.archive.org/web/20160412043343/https://www.cals.ncsu.edu/course/ent425/library/tutorials/internal_anatomy/digestive.html }}</ref> Dažiem kukaiņiem, piemēram, [[mušas|mušām]] ir papildu gremošanas process — mušas izspļauj siekalas uz barības, lai tā sāktu sadalīties, pirms tā nonāk mutē.<ref>Nation, James L. (2001). "Digestion". Insect Physiology and Biochemistry (1st ed.). CRC Press. {{ISBN|0-8493-1181-0}}.</ref>
+
+Kukaiņu gremošanas sistēma, tāpat kā mutes orgāni, ir atkarīga no tā, ar ko kukainis barojas. Kukaiņiem, kas barojas ar cietu barību, norītā barība vispirms nonāk barības vadā, pēc tam muskuļkuņģī. Kuņģī atrodas hitīna zobiņi, kas kalpo barības saberšanai. Sasmalcinātā barība nonāk barības trakta vidējā daļā, kur tā tiek pilnīgi sagremota. Nesagremotās barības atliekas nonāk taisnajā zarnā un tiek izvadītas ārā.
+
+Daudzi kukaiņi ir augēdāji ([[fitofāgi]]) vai dzīvnieku izcelsmes barības ēdāji ([[zoofāgi]]). Taču ir arī kukaiņi [[visēdāji]], kas izmanto gan [[augi|augu]], gan [[dzīvnieki|dzīvnieku]] izcelsmes barību. Zoofāgus var iedalīt plēsīgajos kukaiņos, asinssūcējos, un parazītos. Pie pirmajiem pieder, piemēram, [[spāres]] un [[skrejvaboles]], pie otrajiem [[dūrējutis]] un [[dunduri]], savukārt pie trešajiem [[kāpurmušas]] un [[jātnieciņi]].<ref name=":2" />
+
+==== Elpošana un asinsrite ====
+[[Attēls:Culex sp larvae.png|thumb|220px|Lai arī [[odi|odu]] kāpuri dzīvo ūdenī, tie elpo atmosfēras skābekli]]
+[[Attēls:Wetapunga.jpg|thumb|220px|[[Litlbarjeras ueta]] (''Deinacrida heteracantha'') ir lielākais kukainis pasaulē<ref>[http://www.dailymail.co.uk/sciencetech/article-2068547/Weta-insect-Heaviest-world-weighs-3-times-mouse.html Meet the world's heaviest insect, which weighs three times more than a mouse... and eats carrots]</ref>]]
+Kukaiņiem, lai arī tie elpo gaisu, nav [[plaušas|plaušu]], un [[elpošana]]s orgānu funkcijas veic iekšēja kanālu (traheju) un dobumu sistēma, caur kuru [[skābeklis]] vienkārši izplatās un uzsūcas ķermenī vai arī skābeklis tiek aktīvi pa trahejām sūknēts tieši uz orgāniem, izmantojot muguras asinsvada pulsāciju.
+
+Tā kā skābeklis tiek novadīts uz orgāniem tiešā veidā, asinsrites sistēma netiek izmantota kā skābekļa nesējs un ir ievērojami samazināta. Asinsrites sistēmai nav [[artērijas|artēriju]] un [[vēnas|vēnu]], un tā sastāv tikai no viena caurumota muguras kanāla (asinsvada), kas peristaltistiski pulsē. Kanāls vēdera daļā atbilstoši posmiem sadalās kambaros, kuru sienās atrodas vārstuļi — ostijas. Šī kanāla daļa izpilda [[kukaiņa sirds]] funkcijas. Otrs kanāla gals atgādina [[aorta|aortu]] (galvas virzienā). Caur ostijām [[hemolimfa]] no ķermeņa dobuma ieplūst sirdī un tās pulsācijas dēļ plūst galvas virzienā. Hemolimfa transportē tikai barības vielas.<ref name=":3" /><ref>[http://www.uzdevumi.lv/p/biologija/12-klase/asinsrite-7792/re-8980a9b5-53b5-4a29-ad89-d7b51cf0966c Asinsrites sistēmas evolūcija]</ref>
+
+Gaiss tiek uzņemts caur ķermeņa sānos esošajām elpatverēm (līdz 10 pāriem: 2 pāri krūtīs, 8 vēderā), kas savienotas ar trahejām. Dažiem ūdenī dzīvojošiem kukaiņu kāpuriem ir žaunām līdzīgi orgāni, kas spēj uzņemt ūdenī esošo skābekli, bet citiem ūdens kukaiņiem jāpaceļas līdz ūdens virsmai, lai ieelpotu.<ref name=":3">{{Tīmekļa atsauce |url=http://www.gudrinieks.lv/referati/referats/kukai-u-klase-puslapis2.html |title=Referāti: Kukaiņu klase 2 |access-date={{dat|2014|12|01||bez}} |archiveurl=https://web.archive.org/web/20140305100008/http://www.gudrinieks.lv/referati/referats/kukai-u-klase-puslapis2.html |archivedate={{dat|2014|03|05||bez}} }}</ref><ref>Richard W. Merritt; Kenneth W. Cummins; Martin B. Berg (editors) (2007). An Introduction to the Aquatic Insects of North America (4th ed.). Kendall Hunt Publishers. {{ISBN|978-0-7575-5049-2}}.</ref> Atkarībā no kukaiņu veida pastāv vairāki veidi, kā notiek gāzu (skābeklis — ogļskābā gāze) apmaiņa ķermenī.<ref name=gul/> Tā var būt nepārtraukta — skābeklis tiek uzņemts un [[ogļskābā gāze]] izvadīta nepārtrauktā ciklā. Tā var būt arī pārtraukta — kukainis uzņem skābekli, kad ir aktīvs un izdala ogļskābo gāzi, kad ir miera stāvoklī.<ref>Chown, S.L.; S.W. Nicholson (2004). Insect Physiological Ecology. New York: Oxford University Press. {{ISBN|0-19-851549-9}}.</ref> Difūzā gāzu apmaiņa ir vienkāršāks nepārtraukts gāzu apmaiņas veids, kas notiek, gāzēm vienkārši uzsūcoties ķermenī, nevis skābeklim ieplūstot ar iesūkšanas paņēmienu.
+
+Elpošanas sistēma ir galvenais faktors, kas nosaka kukaiņa lielumu. Jo kukainis ir lielāks, jo šāda vienkārša elpošanas sistēma kļūst arvien mazāk efektīva. Tieši tādēļ pat vissmagākie kukaiņi sver mazāk par 100 g. Jo gaisā ir lielāks skābekļa daudzums, jo kukaiņi var izaugt lielāki.<ref>"What Keeps Bugs from Being Bigger?". Argonne National Laboratory. 8 August 2007. Retrieved 15 July 2013.</ref>
+
+==== Vairošanās orgāni ====
+Kukaiņa [[mātīte]]s vairošanās orgāni sastāv no [[olnīcas|olnīcu]] pāra, papildinošiem olnīcu dziedzeriem, viena vai vairākiem sēklas uztvērējiem un olvadiem, kas savieno visus šos orgānus. Olnīcas sastāv no daudziem oliņu kanāliem, kas atkarībā no kukaiņa sugas variē izmēros un skaitā. Šo kanāliņu skaits un forma nosaka izdēto olu daudzumu. Mātītes ķermenis spēj ražot olas, uzņemt un uzglabāt [[sperma|spermu]] no vairākiem [[tēviņš|tēviņiem]] un dēt olas. Olnīcu dziedzeri ražo vielas, ar kuru palīdzību sperma tiek saglabāta, transportēta un izmantota apaugļošanas procesam, kā arī, lai ar tām aizsargātu olas. Piemēram, mātīte spēj saražot līmveidīgu vielu, kas ieskauj olas, vai arī veidot stingru olapvalku lielākam olu daudzumam. Sēklu uztvērēji ir kanāli vai kabatas, kuros var uzglabāt spermu laikā no sapārošanās līdz olu apaugļošanai.<ref name=resh>Resh, Vincent H.; Ring T. Carde (2009). Encyclopedia of Insects (2 ed.). U. S. A.: Academic Press. {{ISBN|0-12-374144-0}}.</ref>
+
+Tēviņu vairošanās orgāni ir [[Sēklinieks|sēklinieki]], spermas vadi, spermas pūslītis un kopulācijas aparāts. Lielākajai daļai tēviņu ir pāris sēklinieku, kas atrodas ķermeņa dobumā starp trahejām un ķermeņa taukiem.<ref name=resh/>
+
+== Vairošanās ==
+[[Attēls:MatingGrasshopper.jpg|thumb|200px|Kukaiņi galvenokārt vairojas dzimumiski, attēlā sienāžu pārošanās]]
+[[Attēls:Hoverflies_mating_midair.jpg|thumb|200px|[[Simosyrphus grandicornis|Ziedmušu]] (''Simosyrphus grandicornis'') pārošanās gaisā, lidojuma laikā]]
+[[Attēls:Orgyia_recens.jpg|thumb|200px|Daudziem kukaiņiem raksturīgs [[dzimumu dimorfisms]], attēlā [[Orgyia recens|mūķeņu]] (''Orgyia recens'') pāris, apakšā mātīte, augšā tēviņš]]
+Kukaiņi galvenokārt vairojas dzimumiski, dējot apaugļotas [[ola]]s. Daudziem raksturīga arī [[partenoģenēze]] (vairošanās ar neapaugļotām olām), bet daži ir dzīvdzemdētāji. Turklāt vieni un tie paši kukaiņi spēj vairoties gan dzimumiski, gan ar partenoģenēzi. Kukaiņi attīstās ar [[pārvēršanās|pārvēršanos]]. Mēdz būt attīstība ar pilnīgu pārvēršanos (attīstībā ir 4 stadijas — [[ola]], [[kāpurs]], [[kūniņa]] un [[imago]]) un attīstība ar nepilnīgu pārvēršanos (no oliņas izšķiļas [[kukaiņu nimfa|nimfa]], kas ārēji ir līdzīga pieaugušajam īpatnim, tikai ir par to daudz mazāka, arī spārni attīstās, nimfai lēnām pieaugot par [[imago]]). Nepilnīga pārvēršanās raksturīga zemāk organizētiem kukaiņiem, piemēram, [[taisnspārņi]]em, [[spāres|spārēm]], [[blaktis|blaktīm]].<ref name=":1">[http://latvijas.daba.lv/dzivnieki/posmkaaji/kukainhi/ Latvijas Daba: Kukaiņi (Insecta)]</ref>
+
+Kukaiņiem var būt dažādas īpašības: [[Polimorfisms (bioloģija)|polimorfisms]], [[dzimumu dimorfisms]], [[haploīdija]], [[paedomorfoze]], [[peramorfoze]], kā arī ļoti retos gadījumos [[Hermafrodīts|hermafrodītisms]].<ref name=gul/> Piemēram, haploīdija raksturīga [[bites|bitēm]] un [[lapsenes|lapsenēm]]. Šiem kukaiņiem pēcnācēju dzimumu nosaka hromosomu skaits šūnā.<ref>Hughes, William O. H.; Oldroyd, Benjamin P.; Beekman, Madeleine; Ratnieks, Francis L. W. (2008). "Ancestral Monogamy Shows Kin Selection Is Key to the Evolution of Eusociality". Science. American Association for the Advancement of Science. 320 (5880): 1213—1216. Bibcode:2008Sci...320.1213H. PMID 18511689. doi:10.1126/science.1156108</ref> Polimorfisms izpaužas kukaiņiem, kuriem var būt dažādas morfas vai formas, piemēram, [[garspārnu sienāzis|garspārnu sienāzim]] (''Amblycorypha oblongifolia'') ir četras dažādas morfas — zaļa, rozā un dzeltena vai rudi brūna. Dažas kukaiņu sugas [[Fenotips|fenotipu]], kas parasti ir novērojams tikai jauniem, nenobriedušiem kukaiņiem, saglabā arī pieaugot. To sauc par paedomorfozi. Peramorfozē notiek pretējais process, pieaugot kukaiņi iegūst jaunas, atšķirīgas īpašības. Daudziem kukaiņiem raksturīgs dzimumu dimorfisms — mātītei un tēviņam ir atšķirīgas ārējās pazīmes.
+
+Kopumā kukaiņi ir pielāgojušies dzīvei visdažādākos apstākļos, arī aukstumā un sausumā. Daži [[mērenā josla|mērenās joslas]] kukaiņi spēj saglabāt aktivitāti arī ziemā, bet citi migrē uz vietām ar labvēlīgāku klimatu vai pārziemo, guļot [[ziemas miegs|ziemas miegu]].<ref>Debbie Hadley. "Where do insects go in winter?" About.com. Retrieved 19 April 2012.</ref> Arī to olas, kūniņas un kāpuri spēj izdzīvot šādos apstākļos.<ref>[http://www.units.miamioh.edu/cryolab/publications/documents/Lee89_BioSci.pdf Insect Cold-Hardiness: To Freeze or Not to Freeze]</ref> Kukaiņiem gada laikā var būt viena, divas vai arī vairākas jaunās paaudzes.
+
+=== Olas stadija ===
+Vairums kukaiņu izšķiļas no olām, kurās notiek apaugļošanās un embrija attīstība. To ieskauj apvalks, kas veidots no mātes audiem.<ref name=insec>"Insect physiology" McGraw-Hill Encyclopedia of Science and Technology, Ch. 9, p. 233, 2007</ref> Lielākajai daļai kukaiņu olas ir sausuma izturīgas, jo zem ārējā apvalka no embrija audiem attīstās divas papildu membrānas (amnija membrāna un serozā membrāna). Serozā membrāna rada kutikulu, kas bagāta ar hitīnu, tādējādi pasargājot [[embrijs|embriju]] no olas izžūšanas.<ref name=jacob/>
+
+Tomēr [[Mušu infrakārta|mušu]] sekcijas ''[[Schizophora]]'' kukaiņiem serozā daļa neattīstās. Tādēļ tie olas dēj mitrās vietas, piemēram, trūdošos audos.<ref name=jacob>Jacobs, C.G.; Rezende, G.L.; Lamers, G.E.; van der Zee, M. (2013). "The extraembryonic serosa protects the insect egg against desiccation". Proceedings of the Royal Society — Biological series. 280 (1764): 20131082. PMID 23782888. doi:10.1098/rspb.2013.1082</ref> Dažām kukaiņu sugām, piemēram, [[Argentīnas prusaks|Argentīnas prusakam]] (''Blaptica dubia'') embrija attīstība olā noris mātes organismā. Līdzko olas ir izdētas, kāpuri ir gatavi izšķilties.<ref name=insec/> Toties [[vaboļprusaki]] (''Diploptera'') ir dzīvdzemdētāji, un embrija attīstība olā, kā arī kāpura izšķilšanās no tās noris mātes organismā.<ref name=gul/> Ir arī kukaiņu sugas, piemēram, [[parazītlapsenes]], kurām piemīt poliembrionalitāti — viena apaugļota ola attīstās daudzos atsevišķos embrijos.<ref name=gul/>
+
+=== Pārvēršanās ===
+Visiem kukaiņiem bioloģiskā attīstība noris ar [[pārvēršanās|pārvēršanos]]. Tai ir divi veidi: pilnā pārvēršanās un nepilnā pārvēršanās.
+
+==== Pilnā pārvēršanās ====
+[[Pilnā pārvēršanās]] ir kukaiņa attīstība ar četrām stadijām — [[ola]]s, [[kāpurs|kāpura]], [[kūniņa]]s un [[imago]] stadija. Mātīte izdēj olas, pēc tam no olām izšķiļas kāpuri, kas ārēji atgādina tārpus. Kāpurs barojas un aug, līdz kļūst par [[kūniņa|kūniņu]]. Šo stadiju raksturo ierobežots kustīgums vai arī kūniņa kļūst par noslēgtu, nekustīgu kokonu. Kopumā kūniņai var būt trīs tipi: atklāta kūniņa, segta kūniņa un slēpta kūniņa.
+
+Kūniņas stadijas laikā ar kāpuru notiek ievērojamas izmaiņas. Iznākot no kūniņas, tas ir kļuvis par pieaugušu īpatni. Vieni no pazīstamākajiem [[pilnas pārvērtības kukaiņi]]em ir [[tauriņi]], lai gan šāds attīstības veids ir raksturīgs daudziem kukaiņiem.<ref name=gul/>
+
+==== Nepilnā pārvēršanās ====
+[[Nepilnā pārvēršanās]] ir kukaiņa attīstības veids ar trīs stadijām — olas, kāpura un pieauguša īpatņa stadija. Šajā attīstības veidā nav kūniņas stadijas. Atšķirībā no pilnas pārvērtības kukaiņa tārpveidīgā kāpura [[nepilnas pārvērtības kukaiņi|nepilnas pārvērtības kukaiņa]] kāpurs ārēji līdzinās pieaugušam īpatnim. Tikai tas ir ļoti maziņš, kā arī tam nav spārnu. To sauc par [[kukaiņu nimfa|nimfu]] ([[spāres|spāru]] kāpuru par [[najāda|najādu]]).
+
+Nimfai augot, pārmaiņas notiek pakāpeniski. Līdzīgi kā pieaugušajam īpatnim, nimfai ir eksoskelets. Tā kā eksoskelets neaug un nestiepjas nimfai līdzi, tā to nomet, kad tas kļuvis par šauru un mazu.<ref>Ruppert, E. E., Fox, R. S., and Barnes, R. D. (2004). ''Invertebrate Zoology'' (7 ed.). Brooks / Cole. pp. 523—524.</ref> Nomešanas process sākas, kad kukaiņa [[epiderma]] izdala jaunu epikutikulu vecā eksoskeleta iekšpusē. Kad jaunā epikutikula ir izveidojusies, epiderma izdala enzīmu maisījumu, kas noārda endokutikulu, tādējādi veco kutikulu atdalot no ķermeņa. Pēc tam nimfa uzbriest, uzņemot lielu daudzumu ūdens vai gaisa, un vecā kutikula pārplīst vietā, kur tā ir visplānākā.<ref name=gul/> Pēc katras eksoskeleta nomaiņas nimfa kļūst arvien lielāka un līdzīgāka pieaugušam īpatnim.
+{{wide image|Aeshna cyanea freshly slipped L2.jpg | 2000px|[[Zilzaļā dižspāre|Zilzaļās dižspāres]] (''Aeshna cyanea'') najādas pēdējā eksoskeleta nomešana, kļūstot par pieaugušu īpatni}}
+
+== Maņas un komunikācija ==
+Daudziem kukaiņiem ir ļoti jutīgi un īpaši specializēti maņu orgāni. Daži kukaiņi, piemēram, bites, var redzēt [[Ultravioletais starojums|ultravioleto starojumu]], bet [[kodes|kožu]] tēviņš ar taustekļiem spēj uztvert mātīšu izdalītos [[feromoni|feromonus]] pat vairāku kilometru attālumā.<ref>[http://crazydaz.com/insects.pdf Insects], Alien Life Forms. p. 4. Retrieved 17 May 2009.</ref>
+
+Pastāv samērā izteikta redzes — kairinājumu uztveršanas jutīguma (gan ķīmiskā, gan mehāniskā) savstarpējās attiecības tendence: lielākajai daļai kukaiņu ar labi attīstītu redzi ir samazināti taustekļi, ar kuriem uztver kairinājumus, un otrādi. Skaņas uztveršanas mehānisms dažādiem kukaiņiem var būt atšķirīgs, bet kopumā kukaiņi, kuri spēj radīt skaņu, to spēj arī uztvert. Turklāt kukaiņi dzird skaņu tikai noteiktā [[frekvence|frekvencē]], kurā paši spēj to radīt. Dažas plēsīgās un parazītkukaiņu sugas atpazīst arī savu upuru vai pārnēsātājorganismu radītās skaņas.<ref name=gul/> Savukārt kukaiņiem, kas sūc [[asinis]], ir īpaši maņu orgāni, kas uztver [[infrasarkanais starojums|infrasarkano starojumu]].
+
+=== Bioluminiscentā spīdēšana ===
+Dažas kukaiņu sugas, piemēram, [[Ūdenslēcastu dzimta|ūdenslēcastes]], [[Balto kolembolu dzimta|baltās kolembolas]], [[sēņodiņu dzimta|sēņodiņi]], [[spīdvaboļu dzimta|spīdvaboles]] un [[Sprakšķu dzimta|sprakšķi]] ir bioluminiscenti. Vispazīstamākie no šīs grupas ir [[jāņtārpiņi]] no spīdvaboļu dzimtas. Dažas sugas spēj kontrolēt savu spīdēšanu, radot zibšņus. Bioluminiscentās spīdēšanas iemesli dažādām sugām ir atšķirīgi. Dažas to izmanto, lai pievilinātu pretējo dzimumu, citas, lai pievilinātu upuri.
+
+=== Skaņas un dzirde ===
+{{Listen | filename=Grasshoppers.ogg |title=Sienāža sisināšana|format=[[Ogg]]|right}}
+Komunikācijas nolūkos daļa kukaiņu spēj radīt skaņas un tās dzirdēt. Daži kukaiņi, piemēram, [[tomātu pūcīte]]s (''Helicoverpa zea'') un [[Sfingu dzimta|sfingi]] (''Sphingidae'') spēj dzirdēt [[ultraskaņa|ultraskaņu]] un aktīvi rīkoties, kad tie sajūt, ka ir pievērsuši [[sikspārņi|sikspārņu]] uzmanību.<ref>Kay, Robert E. (1969). "Acoustic signalling and its possible relationship to assembling and navigation in the moth, Heliothis zea". Journal of Insect Physiology. 15 (6): 989—1001. doi:10.1016/0022-1910(69)90139-5</ref> Dažas kožu sugas rada ultraskaņas klikšķus, ar kuriem tās brīdina sikspārņus par to, ka tās viņiem ir negaršīgas. Līdzīgi tiek izmantota krāsa, lai brīdinātu dienas plēsējus, kuru galvenā maņa ir redze, par īpatņa negaršīgumu. Ir arī dažas "garšīgās kožu" sugas, kas iemācījušās atdarināt "negaršīgo" kožu" radītās skaņas, tādējādi cenšoties sevi pasargāt no sikspārņu uzbrukuma.<ref>Barber, J. R.; W. E. Conner (2007). "Acoustic mimicry in a predator—prey interaction". ''Proc. Nat. Acad. Sci.'' '''104'''</ref>
+
+Dažas kukaiņu sugas, piemēram, [[vaboles]], [[Plēvspārņu kārta|plēvspārņi]], [[dievlūdzēji]] un [[Tīklspārņu kārta|tīklspārņi]], izmantojot ķermeņa kustības, spēj radīt ļoti zemas skaņas. Ar ļoti smalku struktūru palīdzību, kas atrodas uz īpatņa [[muskuļi]]em un locītavām, normāla skaļuma skaņa, kukainim kustoties, tiek daudzkārtīgi pastiprināta. Šīs skaņas tiek izmantotas, lai kontaktētos vai brīdinātu. Lielākajai daļai dzirdēt spējīgo kukaiņu ir [[timpānveida orgāns|timpānveida orgāni]], ar kuriem tie uztver skaņas, kas izplatās pa gaisu. Dažas sugas no [[blakšu kārta]]s, piemēram, [[Airētājblakšu dzimta|airētājblaktis]], izmantojot skaņu, spēj sazināties zem ūdens.<ref>Theiss, Joachim (1982). "Generation and radiation of sound by stridulating water insects as exemplified by the corixids". Behavioral Ecology and Sociobiology. 10 (3): 225—235. doi:10.1007/BF00299689</ref>
+
+Lielākā daļa kukaiņu sajūt virsmas [[vibrācija|vibrāciju]], un tieši virsmas vibrāciju signāli tiek visbiežāk izmantoti savstarpējai komunikācijai.<ref>Bennet-Clark, H. C. (1998). "Size and scale effects as constraints in insect sound communication". ''Phil. Trans. R. Soc. Lond. B'' '''353''' (1367): 407—419.</ref> Kukaiņi parasti nespēj efektīvi radīt zemas frekvences skaņas, toties augsto frekvenču skaņas izzūd blīvi skanošā apkārtējā vidē. Tādēļ šādās vidēs dzīvojoši kukaiņi saziņai izmanto virsmu vibrāciju. Arī šie signāli tiek radīti visdažādākajos veidos.
+
+== Kukaiņu sociālā uzvedība ==
+[[Attēls:Termite_Cathedral_DSC03570.jpg|thumb|200px|[[termīti|Termītu]] pūznis]]
+[[Attēls:Queencell 0017.JPG|thumb|200px|Tikai augsti organizēti sabiedriskie kukaiņi būvē ligzdas, apsargā olas un ar barību nodrošina pēcnācējus visā to attīstības periodā, attēlā [[medusbite]]s šūnas ar bitēm]]
+[[Attēls:Pedetontus_unimaculatus_01_female.jpg|thumb|200px|[[Pedetontus unimaculatus|Lielzvīnenis]] (''Pedetontus unimaculatus'') pārstāv [[Bezspārņu apakšklase|bezspārņu apakšklasi]]]]
+[[Attēls:IKAl 20100801 Psophus stridulus.jpg|thumb|200px|[[Parkšķis]] (''Psophus stridulus'') ir iekļauts Latvijas Sarkanajā grāmatā]]
+[[Attēls:Praying_mantis_india.jpg|thumb|200px|[[Dievlūdzēju kārta|Dievlūdzējs]] tipiskā lūgšanas pozā]]
+[[Attēls:GluehwuermchenImWald.jpg|thumb|200px|[[Spīdvaboles]] lidojumā naktī]]
+
+Vispazīstamākie sabiedriskie kukaiņi ir [[termīti]], [[Skudru dzimta|skudras]], [[bites]] un [[lapsenes]]. Tie dzīvo lielās, labi organizētās kolonijās. Dažu sugu īpatņa loma kolonijā var būt ļoti kompleksa (šauri noteikta un vienlaicīgi cieši saistīta ar kopējo uzdevumu), turklāt īpatņi var būt [[ģenētika|ģenētiski]] līdzīgi, tādēļ šādas kolonijas mēdz uzskatīt par [[superorganisms|superorganismiem]]. Pastāv viedoklis, ka dažādās[[medus bites|medus bišu]] sugas ir vienīgie [[bezmugurkaulnieki]], kas attīstījuši abstraktu simbolu komunikācijas sistēmu. Noteikta uzvedība un kustības tiek izmantotas, lai nodotu specifisku informāciju par notiekošo apkārtējā vidē. Šajā komunikācijas sistēmā (sauktā arī par dejas valodu) bites dejas leņķis norāda relatīvo virzienu pret sauli, bet dejas garums lidojuma ilgumu.<ref name=gul/>
+
+Tikai kolonijās dzīvojošiem kukaiņiem piemīt patiesas spējas orientēties telpā un atgriezties mājās. Pēc vairāku kilometru lidojuma veikšanas tie spēj atgriezties uz nelielu (vien pāris mm platu) caurumu, blakus tūkstošiem citu identisku caurumu. Šis fenomens — [[filopatrija]] — kukaiņiem, kas pārziemo, dod spēju atcerēties kādu konkrētu vietu arī pēc gada.<ref name=salt>Salt, R. W. (1961). "Principles of Insect Cold-Hardiness". Annual Review of Entomology. Lethbirdge, Alberta, Canada. 6: 55—74. doi:10.1146/annurev.en.06.010161.000415</ref> Dažas kukaiņu sugas, lai pārziemotu, sezonāli veic garas distances no vienas ģeogrāfiskās vietas uz otru, piemēram, [[Ziemeļamerikas monarhs]] (''Danaus plexippus'').<ref name=gul/>
+
+=== Rūpes par mazuļiem ===
+Vairumam kukaiņu imago stadijā dzīves ilgums ir salīdzinoši īss. Tādējādi kukaiņi nenonāk ciešā saskarsmē viens ar otru, izņemot tos, kas pārojas vai sacenšas par sapārošanās iespējām. Tikai neliela daļa kukaiņu kaut kādā veidā rūpējas par saviem pēcnācējiem, cenšoties pasargāt olas, dažkārt turpinot sargāt pēcnācējus, līdz tie ir pieauguši. Daļa kukaiņu rūpējas par pēcnācējiem, būvējot ligzdu vai alu un tajā noglabājot barību, pēc tam virs tās izdējot olas. Šajos gadījumos pieaugušie īpatņi nekontaktējas ar augošajiem pēcnācējiem. Šādas rūpes par pēcnācējiem ir raksturīgas lielākajai daļai bišu un lapseņu sugu. Tikai augsti organizēti sabiedriskie kukaiņi būvē ligzdas (pūžņus), apsargā olas un ar barību nodrošina pēcnācējus visā to attīstības periodā.<ref name=salt/>
+
+== Sistemātika ==
+'''Kukaiņu klase''' (''Insecta'')
+* {{TaksoSaite|Apterygota|Bezspārņu apakšklase}}
+** {{TaksoSaite|Archaeognatha|Senžokļaiņu kārta}}
+** {{TaksoSaite|Thysanura|Zvīneņu kārta}}
+* {{TaksoSaite|Pterygota|Spārneņu apakšklase}}
+** {{TaksoSaite|Paleoptera|Senspārņu infraklase}}
+*** {{TaksoSaite|Odonata|Spāru kārta}}
+*** {{TaksoSaite|Ephemeroptera|Viendienīšu kārta}}
+** {{TaksoSaite|Neoptera|Jaunspārņu infraklase}}
+*** {{TaksoSaite|Exopterygota|Nepilnas pārvērtības kukaiņu virskārta}}
+**** {{TaksoSaite|Embioptera|Embiju kārta}}
+**** {{TaksoSaite|Notoptera|Grilloblatīdu kārta}}
+**** {{TaksoSaite|Dermaptera|Spīļastu kārta}}
+**** {{TaksoSaite|Plecoptera|Strauteņu kārta}}
+**** {{TaksoSaite|Orthoptera|Taisnspārņu kārta}}
+**** {{TaksoSaite|Phasmatoptera|Zarkukaiņu kārta}}
+**** {{TaksoSaite|Zoraptera|Zorapteru kārta}}
+**** {{TaksoSaite|Paraneoptera|Blakšveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** {{TaksoSaite|Hemiptera|Blakšu kārta}}
+***** {{TaksoSaite|Phthiraptera|Dzīvniekutu kārta}}
+***** {{TaksoSaite|Psocoptera|Ķērpjutu kārta}}
+***** {{TaksoSaite|Thysanoptera|Tripšu kārta}}
+**** {{TaksoSaite|Dictyoptera|Prusakveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** {{TaksoSaite|Mantodea|Dievlūdzēju kārta}}
+***** {{TaksoSaite|Blattodea|Prusaku kārta}}
+*** {{TaksoSaite|Endopterygota|Pilnas pārvērtības kukaiņu virskārta}}
+**** {{TaksoSaite|Hymenoptera|Plēvspārņu kārta}}
+**** {{TaksoSaite|Antliophora|Knābjgalvjveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** [[Blusu kārta]] (''Siphonaptera'')
+***** {{TaksoSaite|Diptera|Divspārņu kārta}}
+***** {{TaksoSaite|Mecoptera|Knābjgalvju kārta}}
+**** {{TaksoSaite|Amphiesmenoptera|Maksteņveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** {{TaksoSaite|Trichoptera|Maksteņu kārta}}
+***** {{TaksoSaite|Lepidoptera|Zvīņspārņu kārta}}
+**** {{TaksoSaite|Neuropterida|Tīklspārņveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** {{TaksoSaite|Megaloptera|Dūņeņu kārta}}
+***** {{TaksoSaite|Raphidioptera|Kamielīšu kārta}}
+***** {{TaksoSaite|Neuroptera|Tīklspārņu kārta}}
+**** {{TaksoSaite|Coleopterida|Vaboļveidīgo virskārta}} <small>(ieteikta virskārta)</small>
+***** {{TaksoSaite|Strepsiptera|Strepsipteru kārta}}
+***** {{TaksoSaite|Coleoptera|Vaboļu kārta}}
+
+== Attiecības ar cilvēkiem ==
+
+=== Kā kaitēkļi ===
+Par kaitēkļiem tiek uzskatīti tie kukaiņi, kas parazitē uz cilvēkiem un dzīvniekiem ([[Dzīvniekutis|utis]], [[blusas]]), pārnesā [[slimība]]s ([[odi]], [[mušas]]), bojā būvniecības konstrukcijas ([[termīti]]), iznīcina [[labība|labību]] ([[siseņi]]). [[Entomoloģija|Entomologi]] bieži ir iesaistīti dažādu veidu kaitēkļu kontrolē, vācot datus pētniecības uzņēmumiem, kas izstrādā jaunus insekticīdus. Mūsdienās pieaug tendence attīstīties bioloģiskajām kaitēkļu apkarošanas vai biokontroles metodēm. Biokontrole izmanto vienu organismu, lai samazinātu populācijas blīvumu citiem organismiem (kaitēkļiem).<ref>[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2610108/ Biological control and sustainable food production]</ref><ref>Davidson, E. (2006). Big Fleas Have Little Fleas: How Discoveries of Invertebrate Diseases Are Advancing Modern Science. Tucson, Ariz.: University of Arizona Press. {{ISBN|0-8165-2544-7}}.</ref>
+
+Neskatoties uz milzīgajām pūlēm un finansēm, kas tiek patērētas insekticīdu ražošanai, nākotnē tas var atspēlēties negatīvā veidā. Ja [[inde]]s lieto pavirši, tās var iznīcināt jebkuru organismu, kukaiņu dabiskos ienaidniekus ieskaitot, piemēram, [[putni|putnus]], [[peles]] un citus [[kukaiņēdāji|kukaiņēdājus]].<ref>[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1519860/ Developmental effects of endocrine-disrupting chemicals in wildlife and humans]</ref><ref>Nakamaru, M; Iwasab, Y; Nakanishic, J (October 2003). "Extinction risk to bird populations caused by DDT exposure". Chemosphere. 53 (4): 377—387. PMID 12946395. doi:10.1016/S0045-6535(03)00010-9</ref>
+
+=== Labvēlīga ietekme ===
+[[Attēls:Scarab_Cartouche_of_Thutmosis_III_from_Karnak.JPG|thumb|180px|Skarabeja attēls [[Tutmoss III|Tutmosa III]] templī (Karnakas tempļu komplekss)]]
+Ļoti daudzi kukaiņi ir derīgi un nepieciešami gan videi, gan cilvēkiem. Piemēram, [[lapsenes]], [[bites]], [[tauriņi]], [[skudru dzimta|skudras]] un daudzi citi kaukaiņi apputeksnē [[zieds|ziedus]]. Turklāt kukaiņi būtiski palielina augu spēju apputeksnēties krusteniski (pārnēsājot ziedputekšņus no viena zieda uz otru), nodrošinot veselīgu kultūraugu attīstību. Skudras ne tikai apputeksnē ziedus, tās arī izplata augu [[sēkla]]s, tādējādi vairojot vides daudzveidību. Kukaiņi cilvēku arī apgādā ar vērtīgiem produktiem, piemēram, [[medus|medu]], [[Bišu vasks|vasku]], [[zīds|zīdu]].
+
+=== Uzturā ===
+Trešdaļa pasaules cilvēku uzturā lieto kukaiņus.<ref name=UN/> Dažās kultūrās atsevišķi kukaiņi tiek uzskatīti par īpašām delikatesēm, piemēram, ceptas [[cikādes]] [[Taizeme|Taizemē]]. Tomēr lielākajā daļā pasaules kukaiņus neēd. Neskatoties uz to, daudzos pārtikas produktos, jo īpaši graudos, kukaiņu klātbūtne ir nejauša, jo nav iespējams pilnībā novērst kaitēkļu esamību produktos.
+
+Tā kā kukaiņu ir ļoti daudz un pasaulē kopumā ir pārtikas trūkums, [[Apvienoto Nāciju Organizācija]]s pārtikas un lauksaimniecības speciālisti uzskata, ka nākotnē kukaiņu ēšana visā pasaulē varētu kļūt par normālu ikdienas sastāvdaļu. Kukaiņiem ir augsts [[olbaltumvielas|olbaltumvielu]], [[minerālvielas|minerālvielu]] un [[tauki|tauku]] saturs.<ref name=UN>{{Tīmekļa atsauce |url=http://investvine.com/un-bugs-are-food-of-the-future-video/ |title=UN: Insects Are ‘Food Of The Future’ |access-date={{dat|2017|11|06||bez}} |archive-date={{dat|2013|09|10||bez}} |archive-url=https://web.archive.org/web/20130910061538/http://investvine.com/un-bugs-are-food-of-the-future-video/ }}</ref>
+
+=== Kultūrā ===
+Viens no nozīmīgākajiem reliģiskajiem un kultūras simboliem [[Senā Ēģipte|Senajā Ēģiptē]], [[Senā Grieķija|Senajā Grieķijā]] un citās pasaules kultūrās ir [[Skarabeju dzimta|skarabejs]]. Senie [[ķīnieši]] cikādes uzskatīja par atdzimšanas un nemirstības simbolu. [[Austrālijas aborigēni]]em par klana ([[Arenti]] valodu grupa) totēmu kalpo [[Austrālijas medus skudras|medus skudras]] (''Melophorus'') un lielie, baltie [[Endoxyla leucomochla|akāciju urbēju]] (''Endoxyla leucomochla'') kāpuri. Toties [[Kalahari]] tuksneša [[bušmeņi]]em [[dievlūdzēji]] simbolizē radīšanu un pacietību.<ref name=gul/>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://latvijas.daba.lv/dzivnieki/posmkaaji/kukainhi/ Kukaiņi Latvijā]
+* [https://web.archive.org/web/20120402164614/http://www.liis.lv/kukaini/klasif.htm Kā kukaiņus atšķirt]
+* [http://www.delfi.lv/tehnika/dabas_brinumi/biedejosi-bet-skaisti-30-kukainu-kermeni-tuvplana.d?id=43860490 Biedējoši, bet skaisti: 30 kukaiņu ķermeņi tuvplānā]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kukaiņi| ]]

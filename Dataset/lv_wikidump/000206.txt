@@ -1,0 +1,174 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Republic of Zimbabwe''
+|    pilnais_valsts_nosaukums = Zimbabves Republika
+|            valsts_nosaukums = Zimbabwe
+|               karoga_attēls = Flag of Zimbabwe.svg
+|            karoga_nosaukums = Zimbabves karogs
+|              ģerboņa_attēls =Coat_of_arms_of_Zimbabwe.svg
+|           ģerboņa_nosaukums = Zimbabves ģerbonis
+|             ģerboņa_platums = 100px
+|                 valsts_moto = "Vienotība, brīvība, darbs"<ref name="BEAVERCT">{{publikācijas atsauce |url=https://news.google.com/newspapers?id=AFwtAAAAIBAJ&sjid=ydkFAAAAIBAJ&pg=3340,2548451&dq=zimbabwe+unity-freedom-work&hl=en |title=Zimbabwe |work=The Beaver County Times |date=13 September 1981 |accessdate=2 November 2011}}</ref>
+|                valsts_himna = ''[[Simudzai Mureza wedu WeZimbabwe]]''<ref name="CIA-WF">{{Tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html |title=The World Factbook – Zimbabwe |publisher=Central Intelligence Agency |access-date={{dat|2010|12|15||bez}} |archive-date={{dat|2020|04|16||bez}} |archive-url=https://web.archive.org/web/20200416053740/https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html }}</ref>
+|               kartes_attēls = Location Zimbabwe AU Africa.svg
+|             kartes_paraksts = Zimbabves atrašanās vieta Dienvidāfrikā
+|               galvaspilsēta = [[Harare]]
+| latd= 17 | latm= 50 | latNS= S | longd= 31 | longm= 03 | longEW= E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = 16<ref name="constitution">The following languages, namely Chewa, Chibarwe, English, Kalanga, Koisan, Nambya, Ndau, Ndebele, Shangani, Shona, sign language, Sotho, Tonga, Tswana, Venda and Xhosa, are the officially recognised languages of Zimbabwe.  ([http://www.kubatana.net/docs/legisl/constitution_zim_draft_copac_130125.pdf CONSTITUTION OF ZIMBABWE (final draft)] {{Webarchive|url=https://web.archive.org/web/20131002110534/http://www.kubatana.net/docs/legisl/constitution_zim_draft_copac_130125.pdf |date={{dat|2013|10|02||bez}} }}).</ref> ([[Angļu valoda|angļu]], [[Šonu valoda|šonu]] un [[ziemeļndebelu valoda]])
+|             etniskās_grupas =  {{unbulleted list
+  | 82% šoni
+  | 14% ndebeli
+  | 2% citi āfrikāņi
+  | {{nowrap|1% baltādainie}}
+  | 1% krāsainie un indieši
+ }}
+|        etniskās_grupas_gads = 2003
+|              valsts_iekārta = [[Pusprezidentālisms|Pusprezidentāla]], [[parlamentāra republika|parlamentāra]] [[republika]]
+|        valsts_galvas_tituls = [[Zimbabves prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Emersons Mnangagva]]
+|      valsts_galvas_tituls2 = [[Zimbabves viceprezidents|Viceprezidents]]
+|               valsts_galva2 = [[Constantino Chiwenga]]
+|        neatkarības_iegūšana = [[Zimbabves vēsture|Neatkarība]]
+|         neatkarības_piezīme = no [[Apvienotā Karaliste|Apvienotās Karalistes]]
+|                    dibināta = 
+|        neatkarības_notikums = Dibināta
+|          neatkarības_datums = [[1901]]. gadā
+|       neatkarības_notikums2 = Proklamēta
+|         neatkarības_datums2 = {{dat|1965|11|11}}
+|       neatkarības_notikums3 = Atzīta
+|         neatkarības_datums3 = {{dat|1980|4|18}}
+|                 platība_km2 = 390,757
+|               platība_rangs = 60.
+|              procenti_ūdens = 1,0
+|     iedzīvotāju_skaita_gads = 2017
+|          iedzīvotāju_skaits = 16 711 612<ref>{{Tīmekļa atsauce |title=Population of Zimbabwe |url=http://www.worldometers.info/world-population/zimbabwe-population/ |publisher=Worldometers |accessdate=23 December 2017}}</ref>
+|    iedzīvotāju_skaits_rangs = 70.
+|    apdzīvotības_blīvums_km2 = 43
+|  apdzīvotības_blīvums_rangs = 
+| GDP_nominal = $17.491 miljardi<ref name=imf2>{{Tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=43&pr.y=6&sy=2017&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C946%2C914%2C137%2C612%2C546%2C614%2C962%2C311%2C674%2C213%2C676%2C911%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C734%2C336%2C144%2C263%2C146%2C268%2C463%2C532%2C528%2C944%2C923%2C176%2C738%2C534%2C578%2C536%2C537%2C429%2C742%2C433%2C866%2C178%2C369%2C436%2C744%2C136%2C186%2C343%2C925%2C158%2C869%2C439%2C746%2C916%2C926%2C664%2C466%2C826%2C112%2C542%2C111%2C967%2C298%2C443%2C927%2C917%2C846%2C544%2C299%2C941%2C582%2C446%2C474%2C666%2C754%2C668%2C698%2C672&s=NGDPD%2CPPPGDP%2CNGDPRPPPPC%2CNGDPDPC&grp=0&a= |title=World Economic Outlook Database: Zimbabwe |publisher=[[Starptautiskais Valūtas fonds|International Monetary Fund]] |date=April 2018 |accessdate=11 June 2018}}</ref>
+| GDP_nominal_rank = 
+| GDP_nominal_year = 2017
+| GDP_nominal_per_capita = $1,176<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 
+|                     IKP_PPP = $33.959 miljardi<ref name=imf2/>
+|                IKP_PPP_gads = 2017
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $2,079<ref name="imf2" />
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 0.516<ref name="HDI">{{Tīmekļa atsauce|url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf|title=2016 Human Development Report|year=2016|accessdate=21 March 2017|publisher=United Nations Development Programme}}</ref>
+|                    HDI_gads = 2015
+|              HDI_kategorija = {{palielinājās}}
+|                   HDI_rangs = 154
+|                        Gini = 50.1<ref>{{Tīmekļa atsauce|title=GINI Index|url=http://data.worldbank.org/indicator/SI.POV.GINI?page=3|publisher=World Bank|accessdate=21 July 2013}}</ref>
+|                   Gini_gads = 1995
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[ASV dolārs]]
+|                valūtas_kods = USD
+|                  laika_zona = [[CAT]]
+|                  utc_offset = +2
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = [[.zw]]
+|              tālsarunu_kods = 263
+|                iso_kods_num = 716
+|              iso_kods_alfa2 = ZW
+|              iso_kods_alfa3 = ZWE
+|                    piezīmes = 
+|                    piezīme1 = 
+|                    piezīme2 = 
+}}
+
+'''Zimbabves Republika''' ({{val|en|Republic of Zimbabwe}}) ir [[valsts]] [[Dienvidāfrika (reģions)|Dienvidāfrikā]]. Līdz 1980. gadam Zimbabves nosaukums bija [[Rodēzija|Rodēzijas Republika]]. Rietumos tā robežojas ar [[Botsvāna|Botsvānu]], ziemeļos ar [[Zambija|Zambiju]], austrumos ar [[Mozambika|Mozambiku]], bet dienvidos ar [[Dienvidāfrika|Dienvidāfriku]]. Valsts politiskā un [[saimniecība]]s galvaspilsēta, [[Harare]], atrodas valsts ziemeļaustrumos. Valsts [[valūta]] bija [[Zimbabves dolārs]], līdz to, pēc valūtas krīzes 2009. gada aprīlī, aizstāja ar [[ASV dolārs|ASV dolāru]]. Valsts ir [[Āfrikas Savienība]]s locekle. Zimbabve ir etniski daudzveidīga valsts ar aptuveni 16 miljoniem iedzīvotāju. Zimbabvei ir 16 oficiālās valodas,<ref name="constitution" /> taču visbiežāk izmanto [[Angļu valoda|angļu]], [[Šonu valoda|šonu]] un [[ziemeļndebelu valoda]]s.
+
+No 1980. gada līdz 2017. gadam vispirms kā premjerministrs un tad (no 1987. gada) kā prezidents valsti vadīja [[Autoritārisms|autoritārais]] prezidents [[Roberts Mugabe]].<ref>{{Tīmekļa atsauce|url= http://www.infoplease.com/country/profiles/ |title= Country Profiles |publisher=Infoplease.com |accessdate= 20 August 2014}}</ref><ref name="c">{{Tīmekļa atsauce|author= Hartnack, Michael |year= 2005|url= http://www.theherald.co.za/herald/2005/10/25/cols/hcols.htm|archiveurl= https://web.archive.org/web/20060320101625/http://www.theherald.co.za/herald/2005/10/25/cols/hcols.htm|archivedate= 20 March 2006|title= 40 years in wilderness after UDI declaration|work= The Herald|accessdate= 14 May 2013}}</ref> Mugabe tika vainots par cilvēktiesību pārkāpumiem Zimbabvē un saimniecības lejupslīdi.<ref name="Dowden">{{grāmatas atsauce | author = Dowden, Richard | title = Africa: Altered States, Ordinary Miracles|year= 2010|pages= 144–157 | publisher = Portobello Books| isbn= 978-1-58648-753-9}}
+</ref><ref name="Time04">{{grāmatas atsauce | editor = Brunner, Borgna | title = TIME Almanac 2004|edition= 2004|pages= 904–905 
+| publisher = Pearson Education, Inc.| isbn= 1-931933-78-2}}</ref> Viņš atkāpās [[2017. gada Zimbabves apvērsums|2017. gada Zimbabves apvērsuma]] laikā un par prezidentu kļuva toreizējais viceprezidents [[Emersons Mnangagva]].
+
+Pēc [[Starptautiskais Valūtas fonds|Starptautiskā Valūtas fonda]] datiem Zimbabves [[iekšzemes kopprodukts]] 2017. gadā bija 17,105 miljardi [[ASV dolārs|ASV dolāru]].<ref name="imf2" /> Valsts saimniecība 2000. gados piedzīvoja smagu lejupslīdi, īpaši pēc [[Otrais Kongo karš|Otrā Kongo kara]], kurā piedalījās arī Zimbabve, kas prasīja lielus izdevumus un novājināja valsti. 2015. gadā Zimbabve ierindojās 154. vietā valstu uzskaitījumā pēc [[Tautas attīstības indekss|tautas attīstības indeksa]].
+
+== Vēsture ==
+Mūsdienu Zimbabves vietā vēsturiski ir pastāvējušas daudzas varenas [[karaliste]]s un [[impērija]]s, kā arī tas bija nozīmīgs [[cilvēku migrācija|migrācijas]] un [[tirdzniecība]]s ceļš. [[Sesils Rodss|Sesila Roda]] "[[Britu Dienvidāfrikas kompānija]]" pirmo reizi parādījās pašreizējā teritorijā 19. gadsimta 90. gados. 1923. gadā teritorija kļuva par britu [[Kolonija|koloniju]] ar savu pārvaldi — [[Dienvidrodēzija|Dienvidrodēziju]]. 1965. gadā baltādaino mazākuma valdība vienpusēji pasludināja [[Rodēzija]]s neatkarību. Citas pasaules valstis neatzina jauno valsti un tā piedzīvoja starptautisku izolāciju, un gadiem ilgu [[Partizāni|partizānu]] karu ar melnādaino nacionālistu spēkiem (ZANU un ZAPU). Karš beidzās ar miera līgumu, kas noteica Zimbabves suverenitāti [[1980]]. gada aprīlī.
+
+1980. gadā notika vēlēšanas, kurās uzvarēja [[Roberts Mugabe]] no [[Zimbabves Afrikāņu nacionālā savienība|ZANU]] partijas. Pēc ZANU uzvaras šajās vēlēšanās, Mugabe kļuva par Zimbabves pirmo premjerministru. Par pirmo Zimbabves prezidentu kļuva [[Kanaāns Banana]], kura amats bija diezgan ceremoniāls.<ref name="ceremonial">{{Tīmekļa atsauce|url=https://www.economist.com/node/2246091|title=Canaan Banana|accessdate= 14 March 2018}}</ref> Sākās zemas intensitātes konflikts starp ZANU un [[Zimbabves Afrikāņu tautas savienība|ZAPU]]. ZANU un ZAPU bija divas Zimbabves etnisko grupu kustības — [[Šoni|šonu]] un [[Ndebeli|ndebelu]], kuras cīnījās pret baltādaino minoritātes varu Zimbabvē.. Pirms 1962. gada abas bija vienotas kustības zem nosaukuma ZAPU. Tās kļuva par [[Politiskā partija|politiskajām partijām]], kad Zimbabve kļuva neatkarīga. Pēc neatkarības iegūšanas ZAPU līderis [[Džošua Nkomo]] tika iekļauts Mugabes kabinetā, taču 1982. gadā tika padzīts. No 1983. līdz 1987. gadam tika veikti slaktiņi pret ndebelu civiliedzīvotājiem. Tajos gāja bojā vairāk nekā 20 000 iedzīvotāju.<ref>{{Tīmekļa atsauce|url=https://www.theguardian.com/world/2015/may/19/mugabe-zimbabwe-gukurahundi-massacre-matabeleland|title=New documents claim to prove Mugabe ordered Gukurahundi killings|accessdate= 14 March 2018}}</ref> Nkomo aizbēga no valsts 1983. gadā un devās uz Londonu. 1987. gadā, lai atrisinātu etnisko grupu nesaskaņas abas partijas apvienojas zem viena nosaukuma — [[ZANU-PF]], padarot Zimbabvi par vienas partijas valsti. Tajā pašā gadā tika mainīta [[konstitūcija]], kas apvienoja prezidenta funkcijas ar valdības vadītāja un armijas virspavēlnieka funkcijām.<ref name="apvērsums">{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/zinas/zinu-analize/apversums-zimbabve-vesturisks-pagrieziens.a259567/|title=Apvērsums Zimbabvē – vēsturisks pagrieziens?|accessdate= 14 March 2018}}</ref> Mugabe kļuva par prezidentu 1987, gada 31. decembrī. Līdz 2000. gadam valsts piedzīvoja attīstību un saimniecības izaugsmi, jo tika veikti [[kapitālieguldījums|kapitālieguldījumi]] izglītībā un veselības aprūpē.<ref name="apvērsums"/>
+
+2000. gadā tika veikta zemes reforma, kuŗā baltādainajiem iedzīvotājiem tika atņemta zeme un tā tika izsniegta melnādainajiem. Tas izpostīja [[Lauksaimniecība|lauksaimniecību]] valstī. [[Zemnieku saimniecība|Zemnieku saimniecību]] produkcija samazinājās, jo tiem, kuri ieguva zemi bija mazas zināšanas par to, kā to apsaimniekot. [[Tabaka]]s eksportēšana, kas ir galvenā valsts lauksaimniecības eksporta prece, saruka.<ref name="saimniecības sabrukums">{{Tīmekļa atsauce|url=https://www.bloomberg.com/news/articles/2017-11-16/the-mugabe-economy-in-charts-highlights-challenges-for-zimbabwe|title=The Mugabe Economy in Charts Highlights Challenges for Zimbabwe|accessdate= 14 March 2018}}</ref> Tabakas eksports arī šobrīd nav pilnībā atguvies; 2000. gadā Zimbabve bija piektā lielākā tabakas ražotāja, bet 2016. gadā tā bija tikai 15. vietā.<ref name="saimniecības sabrukums"/> Saskaņā ar valdības teikto, Zimbabves saimniecība ir samazinājusies uz pusi kopš 2000. gada. [[Pasaules Banka]]s dati liecina, ka valsts daļa no reģionālā iekšzemes kopprodukta ir samazinājusies līdz mazāk nekā 1 procentu no 1,5 procentiem pirms 37 gadiem, kad Mugabe nāca pie varas.<ref name="saimniecības sabrukums"/> Mugabes kritiķi apgalvo, ka zeme tika izsniegta viņa politiskajiem sabiedrotajiem, un daudziem saņēmējiem netika piešķirtas vajadzīgās iekārtas vai apmācība produktīvai saimniecībai, kas noveda pie lauksaimniecības efektivitātes sabrukuma.<ref>{{Tīmekļa atsauce|url=http://www.bbc.com/news/world-africa-31663267|title=Robert Mugabe admits Zimbabwe's land reform flaws|accessdate= 14 March 2018}}</ref>
+
+== Ģeogrāfija ==
+[[Attēls:Zi-map.png|thumb|250px|left|Zimbabves karte]]
+Zimbabve ir valsts Āfrikas dienvidos, bez pieejas jūrai. Tā robežojas ar [[Zambija|Zambiju]] ziemeļrietumos (797 km gara robeža),[[Dienvidāfrika|Dienvidāfriku]] dienvidos (225 km), [[Botsvāna|Botsvānu]] dienvidrietumos (813 km) un [[Mozambika|Mozambiku]] austrumos (1231 km). Daļa no Botsvānas atdala Zimbabvi no [[Namībija]]s, tāpēc tās nerobežojas.
+
+Valsts kopējā platība ir 390 757 [[kvadrātkilometrs|km²]]. Tā ierindojas 60. vietā pasaules valstu sarakstā pēc platības un 26. vietā [[Āfrika|Āfrikā]]. Lielākā daļa valsts teritorijas atrodas uz augstas plakankalnes. Tās augstākais punkts ir [[Niangani]], kas atrodas kalnainajos austrumu apgabalos un sasniedz 2592 m augstumu, bet zemākais punkts ir 162 m virs jūras līmeņa. Lielākā daļa no valsts teritorijas atrodas uz centrālās plakankalnes, kas stiepjas no dienvidrietumiem uz ziemeļrietumiem, kur augstums svārstās starp 1200 un 1600 m. Apmēram 20% no valsts teritorijas sasniedz 900 metru augstumu.
+
+[[Kariba]]s un [[Zambezi]] upes veido robežu ar Zambiju valsts ziemeļrietumos. [[Viktorijas ūdenskritums]], netālu no [[Zambija]]s pilsētas [[Livingstona (pilsēta)|Livingstona]]s, tiek uzskatīts par vienu no lielākajiem un visiespaidīgākajiem ūdenskritumiem pasaulē ar 1700 m platumu un līdz 108 m augstumu. 1989. gadā tas tika iekļauts [[UNESCO Pasaules mantojuma objekts|UNESCO pasaules mantojuma objektu]] sarakstā.
+
+Zimbabves dabas resursi ir [[zelts]], [[platīns]], [[dimants]], [[dzelzs]] un [[hroms]].
+
+=== Klimats ===
+[[Attēls:Giraffe in Matopos National Park.jpg|thumb|250px|left|[[Žirafe]]s un [[zebra]]s Matoposas Nacionālajā parkā.]]
+Zimbabvē ir tropu klimats, ar [[Lietus sezona|lietus sezonām]] vasarā, kas parasti ilgst no oktobra beigām līdz martam. Vidējā gaisa temperatūra vasarā ir 21—27 ˚С, bet ziemā (no aprīļa līdz augustam) 13—17 ˚С. Dabas ainavas ir sausas [[savanna]]s ar mitrajiem tropu mūžzaļajiem mežiem un kalnu reģioniem austrumos. Tā kā Zimbabve atrodas uz augstienes, tās gada vidējā temperatūra 25 °C, ir zemāka salīdzinājumā ar tās kaimiņvalstīm Āfrikas dienvidos. Vasaras mēnešos temperatūra reti pārsniedz 30 °C.
+
+=== Daba ===
+Zimbabvē ir bagāta bioloģiskā daudzveidība, lai gan tajā ir sastopami liels skaits parasto Āfrikas savvaļas [[augi|augu]] un dzīvnieku sugu. Zimbabvē aug [[tīkkoks|tīkkoki]], [[sarkankoks|sarkankoki]] un [[baobabi]]. Valstī ir sastopamas gandrīz 200 [[zīdītāji|zīdītāju]] sugas, ieskaitot [[nīlzirgs|nīlzirgus]], [[degunradzis|degunradžus]], [[paviāni|paviānus]], [[žirafe]]s, [[zebra]]s, [[dzeloņcūku infrakārta|dzeloņcūkas]], [[āpši|āpšus]], [[ūdri|ūdrus]], [[zaķi|zaķus]], kā arī [[plēsējs|plēsējus]] — [[lauva]]s, [[leopards|leopardus]], [[plankumainā hiēna]]s, [[melnmuguras šakālis|melnmuguras šakāļus]], [[servals|servalus]] un daudzas citas. [[Melnais degunradzis]] ir apdraudēts [[malumedniecība]]s dēļ. Upēs sastopamas lielas [[ķirzakas]], piemēram [[varāni]], kā arī dažas [[krokodilu dzimta|krokodilu]] sugas. Zimbabvē ir sastopamas vairāk nekā 600 putnu sugas, piemēram, [[mežastrazdi]], [[bišu dzeņi]], [[pērļvista]]s un [[fazāni]]. Ūdeņos ir sastopamas 131 [[Zivis|zivju]] sugas.
+
+Liela daļa Zimbabves reiz bija klāta ar [[meži]]em. Nabadzība, iedzīvotāju skaita pieaugums un [[degviela]]s trūkums ir izraisījuši plašu mežu izciršanu un malumedniecību, kas ir ievērojami samazinājis augu un dzīvnieku sugu skaitu. [[Mežu izciršana]] ir veicinājusi arī augsnes [[erozija|eroziju]] un regulāru sausuma rašanos, tādējādi samazinot [[augsne]]s auglību.
+
+=== Administratīvais iedalījums ===
+[[Attēls:Administrative Divisions of Zimbabwe.svg|300px|thumb|right|Zimbabves adminstratīvais iedalījums]]
+Zimbabvē ir centralizēta valdība, un tā ir sadalīta astoņās provincēs un divās pilsētās. Katrā provincē ir provinces galvaspilsēta, kurā tiek veikti valsts darījumi.<ref name="CIA-WF"/>
+
+==== Pilsētas ====
+{| class="sortable wikitable"
+! Karte !! Karogs !! Ģerbonis !! Pilsēta !! Nosaukums<br>angļu valodā !! Platība (km²) !! Iedz.sk. (2012) !! Distriktu<br>skaits !! ISO 3166-2
+|-
+| [[Attēls:Bulawayo in Zimbabwe.svg|90px]] || [[Attēls:Flag of Bulawayo.svg|70px]] || [[Attēls:Bulawayo Zimbabwe COA.svg|40px]] || '''[[Bulavajo]]''' || ''Bulawayo'' || {{nts|1706.8}} || {{nts|653337}} || 1 || ZW-BU
+|-
+| [[Attēls:Harare in Zimbabwe.svg|90px]] || [[Attēls:Flag of Harare.svg|70px]] || [[Attēls:Coat of arms of Harare.svg|40px]] || '''[[Harare]]''' || ''Harare'' || {{nts|960.6}} || {{nts|1485231}} || 1 || ZW-HA
+|}
+
+==== Provinces ====
+{| class="sortable wikitable"
+! Karte !! Province !! Nosaukums<br>angļu valodā !! Administratīvais<br>centrs !! Platība (km²) !! Iedz.sk. (2011) !! Distriktu<br>skaits !! ISO 3166-2
+|-
+| [[Attēls:Zimbabwe - Mashonaland East.svg|80px]] || '''[[Austrummašonalendas province]]''' || ''Mashonaland East Province'' || [[Marondera]] || {{nts|32230}} || {{nts|1344955}} || 9 || ZW-ME
+|-
+| [[Attēls:Zimbabwe - Mashonaland Central.svg|80px]] || '''[[Centrālās Mašonalendas province]]''' || ''Mashonaland Central Province'' || [[Bindura]] || {{nts|28347}} || {{nts|1152520}} || 7 || ZW-MC
+|-
+| [[Attēls:Zimbabwe - Matabeleland South.svg|80px]] || '''[[Dienvidmatabelelendas province]]''' || ''Matabeleland South Province'' || [[Gvanda]] || {{nts|54172}} || {{nts|683893}} || 6 || ZW-MS
+|-
+| [[Attēls:Zimbabwe - Manicaland.svg|80px]] || '''[[Manikalendas province]]''' || ''Manicaland Province'' || [[Mutare]] || {{nts|36459}} || {{nts|1752698}} || 7 || ZW-MA
+|-
+| [[Attēls:Zimbabwe - Masvingo.svg|80px]] || '''[[Masvingo province]]''' || ''Masvingo Province'' || [[Masvingo]] || {{nts|56566}} || {{nts|1485090}} || 7 || ZW-MV
+|-
+| [[Attēls:Zimbabwe - Midlands.svg|80px]] || '''[[Midlendsas province]]''' || ''Midlands Province'' || [[Gveru]] || {{nts|49166}} || {{nts|1614941}} || 7 || ZW-MI
+|-
+| [[Attēls:Zimbabwe - Mashonaland West.svg|80px]] || '''[[Rietummašonalendas province]]''' || ''Mashonaland West Province'' || [[Činhoji]] || {{nts|57441}} || {{nts|1501656}} || 6 || ZW-MW
+|-
+| [[Attēls:Matabeleland North in Zimbabwe.svg|80px]] || '''[[Ziemeļmatabelelendas province]]''' || ''Matabeleland North Province'' || [[Lupane]] || {{nts|75025}} || {{nts|749017}} || 7 || ZW-MN
+|}
+
+== Politika ==
+Kopš neatkarības iegūšanas valstij ir bijuši tikai 3 prezidenti. Pirmais valsts prezidents bija [[Kanaāns Banana]]. Saskaņā ar pirmo konstitūciju Zimbabves prezidenta amats bija ceremoniska loma bez valdības pilnvarām.<ref name="ceremonial"/> [[Roberts Mugabe]] bija toreizējais premjerministrs. 1987. gadā Zimbabves parlaments laboja konstitūciju, kura rezultātā tika apvienotas prezidenta funkcijas ar valdības vadītāja un armijas virspavēlnieka funkcijām.<ref name="apvērsums"/> 1987. gada 31. decembrī Mugabe kļuva par prezidentu. Viņš palika prezidenta amatā līdz 2017. gada 14. novembra apvērsumam. Tā laikā viņam tika uzlikts mājas arests. 19. novembrī viņš tika atcelts no ZANU-PF vadītāja amata un 21. novembrī, sākoties impīčmenta procedūrai, atkāpās no prezidenta amata. Par prezidentu kļuva viņa bijušais viceprezidents [[Emersons Mnangagva]].
+
+ZANU-PF ir valdošā partija valstī.
+
+== Saimniecība ==
+Zimbabve ir bagāta ar [[zelts|zeltu]], [[platīns|platīnu]], [[dimants|dimantiem]], [[dzelzs|dzelzi]], [[hroms|hromu]] un citiem derīgajiem izrakteņiem. Valsts ir trešā lielākā platīna ražotāja.<ref>{{Tīmekļa atsauce|url=https://www.worldatlas.com/articles/the-top-platinum-producing-countries-in-the-world.html|title=The Top Platinum Producing Countries In The World|accessdate= 14 March 2018}}</ref> Zimbabve ir arī piektā lielākā [[Litijs|litija]] ražotāja. Valsts galvenās [[eksports|eksporta]] preces ir [[tabaka]] (veido 23% no eksporta) un [[niķelis]] (20%).<ref name="exports">{{Tīmekļa atsauce|url=https://tradingeconomics.com/zimbabwe/exports|title=Zimbabwe Exports|publisher=tradingeconomics.com |accessdate= 23 December 2017}}</ref> Tā arī eksportē dimantus, platīnu un zeltu.<ref name="exports" /> Valsts galvenie eksporta partneri ir [[Dienvidāfrika]], [[Ķīna]], [[Botsvāna]] un [[Kongo Republika]].<ref name="exports" />
+
+Valsts iesaistīšanās karā ar [[Kongo Demokrātiskā Republika|Kongo Demokrātisko Republiku]] deva smagu triecienu Zimbabves saimniecībai. Kopš 2000. gada Zimbabves saimniecība ir pasliktinājusies — no 2000. līdz 2008. gadam saimniecības izaugsme bija negatīva.<ref>{{Tīmekļa atsauce|url= https://countryeconomy.com/gdp/zimbabwe|title= Zimbabwe GDP - Gross Domestic Product |publisher=countryeconomy.com |accessdate= 23 December 2017}}</ref> 2000. gadā veiktā zemes reforma izpostīja lauksaimniecības nozari, jo baltādainie tika padzīti no savām zemēm un tie, kuri tās saņēma, nebija kārtīgi aprīkoti un apmācīti, lai turpinātu viņu iesākto. Valsts saimniecība tomēr lēnām sāk atgūties. Laika posmā no 2010. līdz 2013. gadam saumniecības izaugsme bija vairāk nekā 10% gadā, bet 2014. gadā tā samazinājās līdz apmēram 3%.<ref>{{Tīmekļa atsauce|url=http://zimbabwe.opendataforafrica.org/mhrzolg/gdp-by-country-statistics-from-the-world-bank-1960-2016?country=Zimbabwe|title=Statistics from the World Bank, 1960-2016|publisher=opendataforafrica|accessdate=23 December 2017}}{{Novecojusi saite}}</ref>
+
+[[Hiperinflācija]] Zimbabvē bija liela problēma no 2003. gada līdz 2009. gada aprīlim. No 2008. līdz 2009. gadam tā sasniedza savu augstāko pakāpi. 2009. gada janvārī, pārāk lielas [[inflācija]]s rezultātā, [[Zimbabves dolārs]] tika aizstāts ar [[ASV dolārs|ASV dolāru]], kas kļuva par oficiālo valūtu valstī.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html The World Factbook profils] {{Webarchive|url=https://web.archive.org/web/20200416053740/https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html |date={{dat|2020|04|16||bez}} }} {{en ikona}}
+
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zimbabve| ]]

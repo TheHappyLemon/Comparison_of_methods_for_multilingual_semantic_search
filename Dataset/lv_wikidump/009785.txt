@@ -1,0 +1,40 @@
+{{Administratīvā iedalījuma vienības infokaste
+ |                   name = Hempšīra
+ |          official_name = ''Hampshire''
+ |        settlement_type = grāfiste
+| image_skyline = Noar Hill 01.jpg
+| imagesize =
+| image_caption = Hempšīras ainava
+ |                capital = [[Vinčestera]]
+ |           largest_city = [[Sauthemptona]]
+ |              image_map = Hampshire UK locator map 2010.svg
+ |             image_flag = County Flag of Hampshire.svg|125px
+ |           image_shield = Coat of arms of Hampshire County Council, England.svg|100px
+ |       subdivision_type = Valsts
+ |       subdivision_name = {{GBR}}
+ |      subdivision_type1 = Valsts daļa
+ |      subdivision_name1 = {{ENG}}
+ |      subdivision_type2 = Reģions
+ |      subdivision_name2 = [[Dienvidaustrumanglija]]
+ |     information_title1 = Statuss
+ |      information_name1 = vēsturiskā, ceremoniālā un nemetropoles (mazāka) grāfiste
+ |         area_total_km2 = 3769
+ |       population_total = 1837800
+ |       population_as_of = 2017
+ | population_density_km2 = auto
+ |                website = {{URL|www.hants.gov.uk|Hampshire}}<br />{{URL|www.southampton.gov.uk|Southampton}}<br />{{URL|www.portsmouth.gov.uk|Portsmouth}}
+}}
+'''Hempšīra ''' ({{val|en|Hampshire}}) ir ceremoniālā grāfiste [[Anglija]]s dienvidos. Atrodas [[Dienvidaustrumanglija]]s reģionā. Grāfistes administratīvais centrs ir [[Vinčestera]], lielāka pilsēta [[Sauthemptona]]. 
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{UK-aizmetnis}}
+
+{{Anglijas grāfistes}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Anglijas nemetropoles grāfistes]]
+[[Kategorija:Anglijas ceremoniālās grāfistes]]
+[[Kategorija:Anglijas vēsturiskās grāfistes]]

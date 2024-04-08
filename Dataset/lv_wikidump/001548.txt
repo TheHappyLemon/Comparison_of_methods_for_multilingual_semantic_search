@@ -1,0 +1,164 @@
+{{Citas nozīmes|ķīmisko elementu|S (nozīmju atdalīšana)|S}}
+{{Elementa infokaste
+|tips=nemetāls
+|kārtas skaitlis=16
+|7. čaula=
+|6. čaula=
+|5. čaula=
+|4. čaula=
+|3. čaula=6
+|2. čaula=8
+|1. čaula=2
+|simbols=S
+|atommasa=32,065
+|valences elektroni=[Ne]3s<sup>2</sup>3p<sup>4</sup>
+|tabulas attēls=[[Attēls:S-TableImage.svg|250px]]
+|attēls=[[Attēls:Cyclooctasulfur-above-3D-balls.png|150px]] [[Attēls:Sulfur.jpg|150px]]<br />S<sub>8</sub> molekulas uzbūve un sēra kristāli
+|oksidēšanas pakāpes=6, 4, 2, -2
+|elektronegativitāte=2,58
+|blīvums=2070
+|kušanas temperatūra=388,36 K (115,21&nbsp;°C)
+|viršanas temperatūra=717,87 K (444,6&nbsp;°C)
+}}
+'''Sērs''' ir [[ķīmiskais elements]] ar simbolu '''S''' un [[atomskaitlis|atomskaitli]] 16. Sērs ir [[nemetāli|nemetāls]], kurš pieskaitāms pie [[halkogēni]]em, lai arī bieži vien šo grupu īpaši neizdala. Sērs deg (bet diezgan slikti), ar zilu [[liesma|liesmu]], veidojot [[sēra dioksīds|sēra dioksīdu]]. Rūpnieciski nozīmīgākais sēra savienojums ir [[sērskābe]].
+
+== Vēsture ==
+
+Sērs pieder pie elementiem, kas pazīstami no aizvēsturiskiem laikiem. Iespējams, tā nosaukums cēlies no [[sanskrits|sanskrita]] vārda ''sira'' — gaišdzeltens.
+
+== Atrašanās dabā ==
+
+[[Attēls:Soufresicile2.jpg|right|thumb|200px|Dabiskais sēra minerāls]]
+Sērs ir sastopams dabā [[tīrradnis|tīrradņu]] veidā un [[ķīmiskais savienojums|savienojumos]] — [[sulfīdi|sulfīdos]] (sulfīdu [[rūda|rūdās]]), [[sulfāti|sulfātos]] (lielos daudzumos [[jūras ūdens|jūras ūdenī]]), kā arī dažu paveidu [[nafta|naftā]] un [[akmeņogles|akmeņoglēs]]. Sērs pēc izplatības [[Zeme]]s garozā ir piecpadsmitajā vietā (0,05% pēc masas, 0,03% pēc atomu skaita).<ref>N.Ahmetovs. Neorganiskā ķīmija, Rīga, "Zvaigzne", 1978</ref>
+
+Svarīgākie dabā atrodamie sēra savienojumi:
+* FeS<sub>2</sub> — [[pirīts]], dzelzs kolčedāns
+* ZnS — [[cinkmānis]]
+* PbS — [[svina spīde]] jeb galenīts
+* HgS — [[cinobrs]]
+* CaSO<sub>4</sub>·2H<sub>2</sub>O — [[ģipsis]]
+* Na<sub>2</sub>SO<sub>4</sub>·10H<sub>2</sub>O — [[glaubersāls]]
+* MgSO<sub>4</sub>·7H<sub>2</sub>O — [[rūgtais sāls]]
+
+Dabas ūdeņos sērs sastopamības ziņā ir sestais elements. Sulfāta joni rada saldūdens pastāvīgo (nepārejošo) cietību.
+
+=== Izotopi ===
+Uz Zemes sērs sastopams četru stabilu [[izotops|izotopu]] veidā. Izplatītākais izotops ir <sup>32</sup>S (95,084%), kā arī <sup>34</sup>S (4,16%). Izotopi <sup>33</sup>S un <sup>36</sup>S sastopami niecīgā daudzumā. Mākslīgi iegūti [[bēta sabrukšana|β radioaktīvie]] <sup>31</sup>S un <sup>37</sup>S.
+
+=== Bioloģiskā nozīme ===
+Sērs pieder pie [[biogēnie elementi|biogēnajiem elementiem]], jo ietilpst dažu [[aminoskābes|aminoskābju]] ([[cisteīns|cisteīna]], [[metionīns|metionīna]]) sastāvā, kā arī citās bioloģiski aktīvās vielās. Sērs ir svarīgs elements cilvēka organismam.
+
+== Iegūšana ==
+
+Sēru galvenokārt iegūst, kausējot dabiskās sēra iegulas tieši to atrašanās vietā — pazemē. Iegūst arī, rūpnieciski izkausējot no sēru saturošām rūdām. Sēru var iegūt arī no sēru saturošām gāzēm, kas rodas metalurģiskajā rūpniecībā (tādējādi turklāt tiek samazināts gaisa piesārņojums).
+
+== Fizikālās īpašības ==
+Tīrā veidā sērs ir dzeltena kristāliska viela, kas sastāv no gredzenveida S<sub>8</sub> molekulām. Stabilākā sēra modifikācija ir rombiskais sērs jeb α-sērs, daļēji stabils ir monoklīnais sērs jeb β-sērs, kura blīvums ir drusku mazāks un krāsa — gaišāka. Abu modifikāciju kristāli atšķiras ar gredzenveida molekulu savstarpējo novietojumu. Strauji atdzesējot sēra tvaikus uz aukstas virsmas, iegūst ļoti smalku pulveri, ko sauc par sēra ziediem. Lejot aukstā ūdenī verdošu sēra kausējumu, var iegūt plastisko sēru — tumšbrūnu, staipīgu gumijveida masu, kas sastāv no garām sēra atomu ķēdītēm (līdz vairākiem tūkstošiem atomu). Parastā temperatūrā plastiskais sērs ātri kļūst trausls un sabirst rombiskā sēra kristālos. Ir pazīstamas arī citas nestabilas sēra modifikācijas — veidotas no S<sub>2</sub> molekulām (purpursarkanā krāsā) vai S<sub>6</sub> molekulām (oranždzeltenā krāsā).
+
+Karsējot sērs izkūst, veidojot laistīgu dzeltenu šķidrumu. Tālāk karsējot, apmēram 160 °C temperatūrā šķidrums sāk palikt tumšāks un sabiezē, bet pie 200 °C tas kļūst darvai līdzīgs — tumši brūns un viskozs. Tas izskaidrojams ar sēra ciklisko molekulu sairšanu un garu lineāru sēra atomu virkņu veidošanos. Turpinot karsēšanu, garās ķēdes sāk sairt un [[viskozitāte]] atkal samazinās, līdz kamēr sērs sāk vārīties. Sēra tvaikos, atkarībā no temperatūras, ir S<sub>8</sub>, S<sub>6</sub>, S<sub>4</sub> vai S<sub>2</sub> molekulas, ar ko izskaidrojama sēra tvaiku krāsas maiņa no oranždzeltenas līdz gaišdzeltenai. Interesanti, ka S<sub>2</sub> molekulas ir paramagnētiskas — tās pievelk [[magnēts]]. 1500 °C temperatūrā sērs disociē atsevišķos atomos.
+
+Sērs ūdenī praktiski nešķīst, bet dažas tā modifikācijas šķīst [[sērogleklis|sērogleklī]] vai organiskos šķīdinātājos ([[toluols|toluolā]]). Sērs ir blīvāks par ūdeni, tādēļ tā gabaliņi ūdenī grimst. Tomēr sēra smalks pulveris peld ūdenī, jo ūdens sēru neslapina.
+
+Sērs, tāpat kā citi nemetāli, slikti vada siltumu un nevada [[elektriskā strāva|elektrisko strāvu]].
+
+== Ķīmiskās īpašības ==
+
+Atšķirībā no [[skābeklis|skābekļa]], sēra veidotās atomu ķēdes ir pilnīgi stabilas. Tas veido zigzagveida atomu virknes, no kurām visstabilākās ir cikliskas vainaga veida molekulas no astoņiem atomiem.
+
+Sēra [[elektronegativitāte]] ir samērā liela (tomēr daudz mazāka nekā skābeklim) un tas ir diezgan aktīvs — veido savienojumus ar gandrīz visiem elementiem. Sērs parasti ir oksidētājs. Kā reducētājs sērs reaģē ar skābekli un [[halogēni]]em, kas ir elektronegatīvāki. Sērs mēdz būt divvērtīgs, četrvērtīgs vai sešvērtīgs. Savienojumos sēram var būt [[oksidēšanas pakāpe]] -2 (sulfīdos), +4 (SO<sub>2</sub> un [[sulfīti|sulfītos]]) vai +6 ([[sērskābe|sērskābē]] un [[sulfāti|sulfātos]]). Retāk sastopama oksidēšanas pakāpe +2, piemēram, sēra halogenīdos.
+
+[[Attēls:Burning-sulfur.png|thumb|250px|Sēra kušana degot (augšā). Apakšā — sēra gaišzilā liesma, novērojama aptumšotā telpā.]]
+Istabas temperatūrā sērs reaģē kā reducētājs ar [[fluors|fluoru]], [[hlors|hloru]] un koncentrētām [[oksidējošā skābe|oksidējošām skābēm]] (HNO<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub>):
+
+S + 3F<sub>2</sub> → SF<sub>6</sub>
+
+S + Cl<sub>2</sub> → SCl<sub>2</sub>
+
+S + 6HNO<sub>3</sub> → H<sub>2</sub>SO<sub>4</sub> + 6NO<sub>2</sub> ↑ + 2H<sub>2</sub>O
+
+S + 2H<sub>2</sub>SO<sub>4</sub> → 3SO<sub>2</sub> ↑ + 2H<sub>2</sub>O
+
+Gaisā sērs deg, veidojot gāzi ar asu smaku — sēra dioksīdu:
+
+S + O<sub>2</sub> → SO<sub>2</sub>
+
+Iedarbojoties ar [[metāli]]em, veido [[sulfīdi|sulfīdus]].
+
+Karsējot reaģē ar [[ogleklis|oglekli]], [[silīcijs|silīciju]], [[fosfors|fosforu]], [[ūdeņradis|ūdeņradi]]:
+
+C + 2S → CS<sub>2</sub> (sērogleklis)
+
+Sērs reaģē ar karstiem [[sārmi]]em, iesaistoties [[disproporcionēšanās]] reakcijā:
+
+3S + 6KOH → K<sub>2</sub>SO<sub>3</sub> + 2K<sub>2</sub>S + 3H<sub>2</sub>O
+
+== Sēra savienojumi ==
+
+=== Sēru saturošās skābes ===
+{| class="prettytable"
+|-style="background-color:#ffdead;" |
+! colspan="5" | H<sub>2</sub>SO<sub>n</sub> veida skābekli saturošās skābes
+|- style="background-color:#DCDCDC;"
+! Sēra vidējā<br /> oksidēšanas pakāpe !! Uzbūve !! Skābes !! Sāļi !! Piemēri un piezīmes
+|-
+| +2 || [[Attēls:Sulfoxylsäure.svg|78px|center|]] || [[Sulfoksilskābe]] <br /> H<sub>2</sub>SO<sub>2</sub> || [[Sulfoksilāti]] ||
+|-
+| +4 || [[Attēls:Schweflige Säure.svg|78px|center|]] || [[Sērpaskābe]] <br /> H<sub>2</sub>SO<sub>3</sub> || [[Sulfīti]] ||
+* [[Nātrija sulfīts]]
+|-
+| +6 || [[Attēls:Schwefelsäure.svg|78px|center|]] || [[Sērskābe]] <br /> H<sub>2</sub>SO<sub>4</sub> || [[Sulfāti]] ||
+* [[Nātrija sulfāts]],
+* [[Amonija sulfāts]],
+* [[Kalcija sulfāts]] ([[ģipsis]])
+|-
+| +6 || [[Attēls:Peroxomonoschwefelsäure.svg|102px|center|]] || [[Peroksisērskābe]] (Karo skābe)<br /> H<sub>2</sub>SO<sub>5</sub> || [[Peroksisulfāti]] ||
+* spēcīgi oksidētāji
+|}
+
+{| class="prettytable"
+|- style="background-color:#ffdead;" |
+! colspan="5" | H<sub>2</sub>S<sub>2</sub>O<sub>n</sub> veida skābekli saturošās skābes
+|- style="background-color:#DCDCDC;"
+! Sēra vidējā<br /> oksidēšanas pakāpe !! Uzbūve !! Skābes !! Sāļi !! Piemēri un piezīmes
+|-
+| +1 || [[Attēls:Thioschweflige Säure.svg|78px|center|]] || [[Tiosērpaskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>2</sub> || Tiosulfīti <br /> (nav pazīstami) ||
+|-
+| -2 un +6 || [[Attēls:Thioschwefelsäure.svg|78px|center|]] || [[Tiosērskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>3</sub> || [[Tiosulfāti]] ||
+* [[Nātrija tiosulfāts]]<br /> (hiposulfīts, fotogrāfiskās [[fiksāža]]s pamatviela)
+|-
+| +3 || [[Attēls:Dithionige Säure.svg|105px|center|]] || [[Ditiosērpaskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>4</sub> || [[Ditionīti]] ||
+* [[Nātrija ditionīts]], <br /> reducētājs, balināšanas līdzeklis
+|-
+| +4|| [[Attēls:Dischweflige Säure.svg|105px|center|]] || [[Disērpaskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>5</sub> || [[Disulfīti]] ||
+* [[Nātrija disulfīts]] un [[kālija disulfīts]] <br /> (konservēšanas līdzekļi)
+|-
+| +5 || [[Attēls:Dithionsäure.svg|105px|center|]] || [[Ditionskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>6</sub> || [[Ditionāti]] ||
+* reducētāji
+|-
+| +6 || [[Attēls:Dischwefelsäure.svg|127px|center|]] || [[Disērskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> || [[Disulfāti]] ||
+|-
+| +6 || [[Attēls:Peroxodischwefelsäure.svg|150px|center|]] || [[Peroksidisērskābe]] <br /> H<sub>2</sub>S<sub>2</sub>O<sub>8</sub> || [[Peroksidisulfāti]] ||
+* [[Kālija persulfāts]], <br /> (spēcīgs oksidētājs, balinošs līdzeklis)
+|}
+
+=== Citi sēra savienojumi ===
+* [[Sērogleklis]] CS<sub>2</sub>, normālos apstākļos ir šķidrums, dažreiz lieto par šķīdinātāju.
+* [[Sēra heksafluorīds]] (elegāze) SF<sub>6</sub>, normālos apstākļos ir gāze, lieto par elektroizolācijas materiālu augstsprieguma slēdžos.
+
+== Izmantošana ==
+[[Attēls:Seers Slokaa.JPG|thumb|250px|Sērs bijušās [[Sloka (Jūrmala)|Slokas]] papīrfabrikas teritorijā]]
+Sēru lieto sērskābes ražošanai, [[kaučuks|kaučuka]] [[Vulkanizācija|vulkanizācijai]], sērkociņu ražošanai, kā [[fungicīdi|fungicīdu]] lauksaimniecībā. Koloīdo sēru izmanto medicīnā (dažādās ziedēs).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Sērs]]

@@ -1,0 +1,229 @@
+[[Attēls:Standard time zones of the world.png|thumb|400px|Laika joslu karte (angļu valodā)]]
+'''Laika josla'''<ref name="AkadTerm"/> jeb '''laika zona''' ir [[Zeme]]s apgabals, kurā tiek lietots vienots standartizēts [[laiks]]. Sākumā cilvēce lietoja lokālo [[Saules laiks|Saules laiku]], kas katrai pilsētai bija atšķirīgs. Attīstoties [[telesakari]]em un [[dzelzceļš|dzelzceļam]], tas kļuva neērti. Problēma tika atrisināta ar laika joslām, noteiktiem reģioniem lietojot vienotu Saules laiku. Laika joslas galvenokārt tiek balstītas uz [[meridiāns|meridiāniem]], kuru garums ir reizinājums ar 15° (±7,5° no šīs meridiānas), tādējādi veidojot vienas stundas starpību starp blakus laika joslām. Tomēr, vienas stundas atdalījums nav universāls, un parasti laika joslu robežas ir novilktas pa valstu, pavalstu un citu administratīvo vienību robežām. Pavisam ir 24 laika joslas, bet kopējais [[UTC nobīde|laika nobīžu]] skaits ir 51, no kurām mūsdienās izmanto tikai 42. Pārējās 9 laika nobīdes mūsdienās vairs netiek izmantotas.
+
+1878. gadā sers [[Sendfords Flemings]] (''Sandford Fleming'') attīstīja laika joslu sistēmu visai pasaulei, kas tiek izmantota vēl arī mūsdienās.<ref name="FactMonster"/> Fleminga izveidoto sistēmu Amerikas Savienoto Valstu dzelzceļa kompānijas sāka izmantot tikai {{dat|1883|11|18||bez}}.<ref name="FactMonster"/>
+
+== Laika joslas ==
+Laika joslu tabulā uzskaitītas attiecīgo laika joslu valstis un teritorijas.
+{| class="wikitable"
+|-
+! width=80 | Laika josla
+! width=300 | Standarta laiks (visu gadu)
+! width=300 | Standarta laiks (pa ziemu)
+! width=300 | [[Vasaras laiks]]
+|-
+| [[UTC-12]]
+| valign=top | neapdzīvota jūras laika zona
+| valign=top | 
+| valign=top | 
+|-
+| [[UTC-11]]
+| valign=top | {{ASM}}<br />{{NIU}}
+| valign=top | 
+| valign=top | 
+|-
+| [[UTC-10]]
+| valign=top | {{USA}}: [[Havajas]]<br />{{COK}}<br />{{PYF}} (lielākā daļa)
+| valign=top | {{USA}}: [[Aleutu salas]]
+| valign=top | 
+|-
+| [[UTC-9:30]]
+| valign=top | {{PYF}}: [[Marķīza salas]]
+| valign=top | 
+| valign=top | 
+|-
+| [[UTC-9]]
+| valign=top | {{PYF}}: [[Gambjē salas]]
+| valign=top | {{USA}}: [[Aļaska]] (izņemot [[Aleutu salas]])
+| valign=top | {{USA}}: [[Aleutu salas]]
+|-
+| [[UTC-8]]
+| valign=top | {{CAN}}: neliela daļa no [[Ziemeļrietumu Teritorijas|Ziemeļrietumu Teritorijām]]<br />{{PCN}}
+| valign=top | {{CAN}}: [[Jukona (teritorija)|Jukona]], lielākā daļa no [[Britu Kolumbija]]s<br />{{MEX}}: [[Lejaskalifornija]]<br />{{USA}}: [[Kalifornija]], [[Vašingtona (štats)|Vašingtona]], daļa no [[Aidaho]], [[Nevada]]s un [[Oregona]]s
+| valign=top | {{USA}}: [[Aļaska]] (izņemot [[Aleutu salas]])
+|-
+| [[UTC-7]]
+| valign=top | {{CAN}}: neliela daļa no [[Britu Kolumbija]]s<br />{{USA}}: lielākā daļa no [[Arizona]]s<br />{{MEX}}: [[Sonora]]
+| valign=top | {{CAN}}: [[Alberta]], [[Britu Kolumbija]] (dienvidaustrumu reģions), [[Nunavuta]] (rietumi)<br />{{USA}}: [[Kolorādo]], [[Montāna]], [[Ņūmeksika]], [[Jūta]], [[Vaiominga]], daļa no [[Aidaho]], [[Kanzasa]]s, [[Nebraska]]s, [[Dienviddakota]]s, [[Teksasa]]s, [[Ziemeļdakota]]s, [[Oregona]]s un [[Nevada]]s<br />{{MEX}}: [[Dienvidu Lejaskalifornija]], [[Čivava]], [[Najarita]] (lielākā daļa), [[Sinaloa]]
+| valign=top | {{CAN}}: [[Jukona (teritorija)|Jukona]], lielākā daļa no [[Britu Kolumbija]]s<br />{{MEX}}: [[Lejaskalifornija]]<br />{{USA}}: [[Kalifornija]], [[Vašingtona (štats)|Vašingtona]], daļa no [[Aidaho]], [[Nevada]]s un [[Oregona]]s
+|-
+| [[UTC-6]]
+| valign=top | {{CAN}}: lielākā daļa no [[Saskačevana]]s<br />{{BLZ}}<br />{{GTM}}<br />{{HND}}<br />{{CRI}}<br />{{NIC}}<br />{{SLV}}<br />{{ECU}}: [[Galapagu salas]]
+| valign=top | {{CAN}}: [[Manitoba]], [[Ontārio]] (rietumi), [[Nunavuta]] (centrālā daļa)<br />{{USA}}: [[Alabama]], [[Ārkanzasa]], [[Ilinoisa]], [[Aiova]], [[Luiziāna]], [[Minesota]], [[Misisipi (štats)|Misisipi]], [[Misūri (štats)|Misūri]], [[Viskonsina]], [[Oklahoma]], daļa no [[Kanzasa]]s, [[Nebraska]]s, [[Ziemeļdakota]]s, [[Dienviddakota]]s, [[Florida]]s, [[Indiāna]]s, [[Kentuki]] un [[Mičigana]]s<br />{{MEX}}: visi štati, izņemot [[Lejaskalifornija|Lejaskaliforniju]], [[Dienvidu Lejaskalifornija|Dienvidu Lejaskaliforniju]], [[Čivava|Čivavu]], [[Najarita|Najaritu]], [[Sinaloa]] un [[Sonora|Sonoru]]<br />{{CHL}}: [[Lieldienu sala]]
+| valign=top | {{CAN}}: [[Alberta]], [[Britu Kolumbija]] (dienvidaustrumu reģions), [[Nunavuta]] (rietumi)<br />{{USA}}: [[Kolorādo]], [[Montāna]], [[Ņūmeksika]], [[Jūta]], [[Vaiominga]], daļa no [[Aidaho]], [[Kanzasa]]s, [[Nebraska]]s, [[Dienviddakota]]s, [[Teksasa]]s, [[Ziemeļdakota]]s, [[Oregona]]s un [[Nevada]]s<br />{{MEX}}: [[Dienvidu Lejaskalifornija]], [[Čivava]], [[Najarita]] (lielākā daļa), [[Sinaloa]]
+|-
+| [[UTC-5]]
+| valign=top | {{CYM}}<br />{{HTI}}<br />{{JAM}}<br />{{ECU}}: izņemot [[Galapagu salas]]<br />{{COL}}<br />{{PAN}}<br />{{PER}}
+| valign=top | {{CAN}}: [[Ontārio]] (lielākā daļa), [[Kvebeka]] (lielākā daļa), [[Nunavuta]] (austrumi)<br />{{USA}}: [[Konektikuta]], [[Delavēra]], [[Džordžija]], [[Mena]], [[Mērilenda]], [[Masačūsetsa]], [[Ņūhempšīra]], [[Ņūdžersija]], [[Ņujorka (štats)|Ņujorka]], [[Ziemeļkarolīna]], [[Ohaio (štats)|Ohaio]], [[Pensilvānija]], [[Rodailenda]], [[Dienvidkarolīna]], [[Vērmonta]], [[Virdžīnija]], [[Rietumvirdžīnija]], daļa no [[Florida]]s, [[Indiāna]]s, [[Mičigana]]s, [[Kentuki]] un [[Tenesī]]<br />{{BHS}}<br />{{CUB}}<br />{{TCA}}
+| valign=top | {{CAN}}: [[Manitoba]], [[Ontārio]] (rietumi), [[Nunavuta]] (centrālā daļa)<br />{{USA}}: [[Alabama]], [[Ārkanzasa]], [[Ilinoisa]], [[Aiova]], [[Luiziāna]], [[Minesota]], [[Misisipi (štats)|Misisipi]], [[Misūri (štats)|Misūri]], [[Viskonsina]], [[Oklahoma]], daļa no [[Kanzasa]]s, [[Nebraska]]s, [[Ziemeļdakota]]s, [[Dienviddakota]]s, [[Florida]]s, [[Indiāna]]s, [[Kentuki]] un [[Mičigana]]s<br />{{MEX}}: visi štati, izņemot [[Lejaskalifornija|Lejaskaliforniju]], [[Dienvidu Lejaskalifornija|Dienvidu Lejaskaliforniju]], [[Čivava|Čivavu]], [[Najarita|Najaritu]], [[Sinaloa]] un [[Sonora|Sonoru]]<br />{{CHL}}: [[Lieldienu sala]]
+|-
+| [[UTC-4:30]]
+| valign=top | {{VEN}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC-4]]
+| valign=top | {{AIA}}<br />{{ATG}}<br />{{BRB}}<br />{{DMA}}<br />{{GRD}}<br />{{MSR}}<br />{{KNA}}<br />{{LCA}}<br />{{VCT}}<br />{{TTO}}<br />{{VGB}}<br />{{PRI}}<br />{{VIR}}<br />{{ABW}}<br />{{CUW}}<br />{{DOM}}<br />{{GLP}}<br />{{MTQ}}<br />{{MAF}}<br />{{BOL}}<br />{{GUY}}<br />{{BRA}} (rietumi)<br />{{CAN}}: [[Kvebeka]] (austrumi)
+| valign=top | {{MBU}}<br />{{CAN}}: [[Ņūfaundlenda un Labradora]] (galvenokārt [[Labradoras pussala|Labradora]])<br />{{GRL}} (neliela daļa rietumos)<br />{{ARG}}<br />{{BRA}} (centrālā daļa)<br />{{CHL}} (izņemot [[Lieldienu Sala|Lieldienu Salu]])<br />{{FLK}}<br />{{PRY}}
+| valign=top | {{CAN}}: [[Ontārio]] (lielākā daļa), [[Kvebeka]] (lielākā daļa), [[Nunavuta]] (austrumi)<br />{{USA}}: [[Konektikuta]], [[Delavēra]], [[Džordžija]], [[Mena]], [[Mērilenda]], [[Masačūsetsa]], [[Ņūhempšīra]], [[Ņūdžersija]], [[Ņujorka (štats)|Ņujorka]], [[Ziemeļkarolīna]], [[Ohaio (štats)|Ohaio]], [[Pensilvānija]], [[Rodailenda]], [[Dienvidkarolīna]], [[Vērmonta]], [[Virdžīnija]], [[Rietumvirdžīnija]], daļa no [[Florida]]s, [[Indiāna]]s, [[Mičigana]]s, [[Kentuki]] un [[Tenesī]]<br />{{BHS}}<br />{{CUB}}<br />{{TCA}}
+|-
+| [[UTC-3:30]]
+| valign=top | 
+| valign=top | {{CAN}}: [[Ņūfaundlenda un Labradora]] ([[Ņūfaundlenda]] un neliela daļa no [[Labradoras pussala|Labradoras]])
+| valign=top |
+|-
+| [[UTC-3]]
+| valign=top | {{SUR}}<br />{{GUF}}<br />{{BRA}} (ziemeļaustrumu štati)
+| valign=top | {{BRA}} (dienvidu štati)<br />{{URY}}<br />{{GRL}} (lielākā daļa)<br />{{SPM}}
+| valign=top | {{MBU}}<br />{{CAN}}: [[Ņūfaundlenda un Labradora]] (galvenokārt [[Labradoras pussala|Labradora]])<br />{{GRL}} (neliela daļa rietumos)<br />{{ARG}}<br />{{BRA}} (centrālā daļa)<br />{{CHL}} (izņemot [[Lieldienu Sala|Lieldienu Salu]])<br />{{FLK}}<br />{{PRY}}
+|-
+| [[UTC-2:30]]
+| valign=top |
+| valign=top |
+| valign=top | {{CAN}}: [[Ņūfaundlenda un Labradora]] ([[Ņūfaundlenda]] un neliela daļa no [[Labradoras pussala|Labradoras]]s)
+|-
+| [[UTC-2]]
+| valign=top | {{SGS}}
+| valign=top |
+| valign=top | {{BRA}} (dienvidu štati)<br />{{URY}}<br />{{GRL}} (lielākā daļa)<br />{{SPM}}
+|-
+| [[UTC-1]]
+| valign=top | {{CPV}}
+| valign=top | {{GRL}} (neliela daļa austrumos)<br />{{PRT}}: [[Azoru salas]]
+| valign=top |
+|-
+| [[UTC±0]]
+| valign=top | {{ISL}}<br />{{BFA}}<br />{{CIV}}<br />{{GMB}}<br />{{GHA}}<br />{{GIN}}<br />{{GNB}}<br />{{LBR}}<br />{{MLI}}<br />{{MRT}}<br />{{STP}}<br />{{SEN}}<br />{{SLE}}<br />{{TGO}}<br />{{ESH}}<br />{{SHN}}
+| valign=top | {{FRO}}<br />{{GGY}}<br />{{IRL}}<br />{{IMN}}<br />{{JEY}}<br />{{PRT}} (izņemot [[Azoru salas]])<br />{{ESP}}: [[Kanāriju salas]]<br />{{GBR}}<br />{{MAR}}
+| valign=top | {{GRL}} (neliela daļa austrumos)<br />{{PRT}}: [[Azoru salas]]
+|-
+| [[UTC+1]]
+| valign=top | {{DZA}}<br />{{AGO}}<br />{{BEN}}<br />{{CMR}}<br />{{CAF}}<br />{{TCD}}<br />{{COG}}<br />{{COD}} (rietumi)<br />{{GNQ}}<br />{{GAB}}<br />{{NER}}<br />{{NGA}}<br />{{TUN}}
+| valign=top | {{ALB}}<br />{{AND}}<br />{{AUT}}<br />{{BEL}}<br />{{BIH}}<br />{{CZE}}<br />{{DNK}}<br />{{FRA}}<br />{{GIB}}<br />{{HRV}}<br />{{ITA}}<br />{{LIE}}<br />{{LUX}}<br />{{MKD}}<br />{{MLT}}<br />{{MNE}}<br />{{MCO}}<br />{{NLD}}<br />{{NOR}}<br />{{POL}}<br />{{SMR}}<br />{{SRB}}<br />{{SVK}}<br />{{SVN}}<br />{{ESP}} (izņemot [[Kanāriju salas]])<br />{{CHE}}<br />{{HUN}}<br />{{DEU}}<br />{{VAT}}<br />{{SWE}}<br />{{NAM}}<br />{{BVT}}
+| valign=top | {{FRO}}<br />{{GGY}}<br />{{IRL}}<br />{{IMN}}<br />{{JEY}}<br />{{PRT}} (izņemot [[Azoru salas]])<br />{{ESP}}: [[Kanāriju salas]]<br />{{GBR}}<br />{{MAR}}
+|-
+| [[UTC+2]]
+| valign=top | {{BWA}}<br />{{BDI}}<br />{{COD}} (austrumi)<br />{{EGY}}<br />{{LSO}}<br />{{LBY}}<br />{{RWA}}<br />{{MWI}}<br />{{MOZ}}<br />{{ZAF}}<br />{{SWZ}}<br />{{ZMB}}<br />{{ZWE}}
+| valign=top | {{BGR}}<br />{{CYP}}<br />{{EST}}<br />{{FIN}}<br />{{GRC}}<br />{{LVA}}<br />{{LTU}}<br />{{MDA}}<br />{{ROU}}<br />{{TUR}}<br />{{UKR}}<br />{{JOR}}<br />{{SYR}}<br />{{LBN}}<br />{{ISR}}
+| valign=top | {{ALB}}<br />{{AND}}<br />{{AUT}}<br />{{BEL}}<br />{{BIH}}<br />{{CZE}}<br />{{DNK}}<br />{{FRA}}<br />{{GIB}}<br />{{HRV}}<br />{{ITA}}<br />{{LIE}}<br />{{LUX}}<br />{{MKD}}<br />{{MLT}}<br />{{MNE}}<br />{{MCO}}<br />{{NLD}}<br />{{NOR}}<br />{{POL}}<br />{{SMR}}<br />{{SRB}}<br />{{SVK}}<br />{{SVN}}<br />{{ESP}} (izņemot [[Kanāriju salas]])<br />{{CHE}}<br />{{HUN}}<br />{{DEU}}<br />{{VAT}}<br />{{SWE}}<br />{{NAM}}<br />{{BVT}}
+|-
+| [[UTC+3]]
+| valign=top | {{BLR}}<br />{{RUS}}: [[Kaļiņingradas apgabals]]<br />{{COM}}<br />{{DJI}}<br />{{ERI}}<br />{{ETH}}<br />{{KEN}}<br />{{MDG}}<br />{{MYT}}<br />{{SOM}}<br />{{SSD}}<br />{{SDN}}<br />{{TZA}}<br />{{UGA}}<br />{{BHR}}<br />{{IRQ}}<br />{{KWT}}<br />{{SAU}}<br />{{YEM}}<br />{{QAT}}
+| valign=top |
+| valign=top | {{BGR}}<br />{{CYP}}<br />{{EST}}<br />{{FIN}}<br />{{GRC}}<br />{{LVA}}<br />{{LTU}}<br />{{MDA}}<br />{{ROU}}<br />{{TUR}}<br />{{UKR}}<br />{{JOR}}<br />{{SYR}}<br />{{LBN}}<br />{{ISR}}
+|-
+| [[UTC+3:30]]
+| valign=top | 
+| valign=top | {{IRN}}
+| valign=top |
+|-
+| [[UTC+4]]
+| valign=top | {{ARM}}<br />{{RUS}}: [[Maskavas laiks]]<br />{{GEO}}<br />{{MUS}}<br />{{OMN}}<br />{{REU}}<br />{{SYC}}<br />{{ARE}}
+| valign=top | {{AZE}}
+| valign=top |
+|-
+| [[UTC+4:30]]
+| valign=top | {{AFG}}
+| valign=top |
+| valign=top | {{IRN}}
+|-
+| [[UTC+5]]
+| valign=top | {{KAZ}} (rietumi)<br />{{PAK}}<br />{{TJK}}<br />{{UZB}}<br />{{TKM}}<br />{{HMD}}<br />{{ATF}}<br />{{MDV}}
+| valign=top | 
+| valign=top | {{AZE}}
+|-
+| [[UTC+5:30]]
+| valign=top | {{IND}}<br />{{LKA}}
+| valign=top |
+| valign=top | 
+|-
+| [[UTC+5:45]]
+| valign=top | {{NPL}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+6]]
+| valign=top | {{RUS}}: [[Jekaterinburgas laiks]]<br />{{BGD}}<br />{{BTN}}<br />{{IOT}}<br />{{KAZ}} (lielākā daļa)<br />{{KGZ}}
+| valign=top |
+| valign=top | 
+|-
+| [[UTC+6:30]]
+| valign=top | {{CCK}}<br />{{MMR}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+7]]
+| valign=top | {{RUS}}: [[Omskas laiks]]<br />{{KHM}}<br />{{IDN}} (rietumi)<br />{{LAO}}<br />{{MNG}} (galējie rietumi)<br />{{THA}}<br />{{VNM}}<br />{{CXR}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+8]]
+| valign=top | {{RUS}}: [[Krasnojarskas laiks]]<br />{{CHN}}<br />{{TWN}}<br />{{IDN}} (centrālā daļa)<br />{{SGP}}<br />{{MYS}}<br />{{BRN}}<br />{{PHL}}<br />{{MNG}} (lielākā daļa)<br />{{AUS}}: [[Rietumaustrālija]]
+| valign=top |
+| valign=top |
+|-
+| [[UTC+8:30]]
+| valign=top | {{PRK}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+9]]
+| valign=top | {{RUS}}: [[Irkutskas laiks]]<br />{{TLS}}<br />{{IDN}} (austrumi)<br />{{JPN}}<br />{{KOR}}<br />{{PLW}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+9:30]]
+| valign=top | {{AUS}}: [[Ziemeļu teritorija]]
+| valign=top | {{AUS}}: [[Dienvidaustrālija]]
+| valign=top |
+|-
+| [[UTC+10]]
+| valign=top | {{RUS}}: [[Jakutskas laiks]]<br />{{AUS}}: [[Kvīnslenda]]<br />{{FSM}} (daļa no valsts)<br />{{PNG}}<br />{{GUM}}<br />{{MNP}}
+| valign=top | {{AUS}}: [[Jaundienvidvelsa]], [[Tasmanija]], [[Viktorija (štats)|Viktorija]]
+| valign=top |
+|-
+| [[UTC+10:30]]
+| valign=top |
+| valign=top |
+| valign=top | {{AUS}}: [[Dienvidaustrālija]]
+|-
+| [[UTC+11]]
+| valign=top | {{RUS}}: [[Vladivostokas laiks]]<br />{{FSM}} (daļa no valsts)<br />{{NCL}}<br />{{SLB}}<br />{{VUT}}
+| valign=top |
+| valign=top | {{AUS}}: [[Jaundienvidvelsa]], [[Tasmanija]], [[Viktorija (štats)|Viktorija]]
+|-
+| [[UTC+11:30]]
+| valign=top | {{NFK}}
+| valign=top |
+| valign=top |
+|-
+| [[UTC+12]]
+| valign=top | {{RUS}}: [[Magadanas laiks]]<br />{{KIR}}<br />{{MHL}}<br />{{NRU}}<br />{{TUV}}<br />{{WLF}}
+| valign=top | {{NZL}}<br />{{FJI}}
+| valign=top |
+|-
+| [[UTC+13]]
+| valign=top | {{KIR}} (daļa no valsts)<br />{{TON}}<br />{{TKL}}
+| valign=top | {{WSM}}
+| valign=top | {{NZL}}<br />{{FJI}}
+|-
+| [[UTC+14]]
+| valign=top | {{KIR}} (daļa no valsts)
+| valign=top |
+| valign=top | {{WSM}}
+|}
+
+== Atsauces ==
+{{commonscat|Time zones|Laika joslas}}
+{{atsauces|
+<ref name="AkadTerm">{{tīmekļa atsauce | url= http://termini.lza.lv/term.php?term=time%20zone&list=&lang=EN | title= Laika josla | publisher= Akadēmiskā terminu datubāze | accessdate= 2011-07-16 | language= latviski}}</ref>
+<ref name="FactMonster">{{tīmekļa atsauce | url= http://www.factmonster.com/spot/timezones.html | title= Time Zone Origins | publisher= www.factmonster.com | accessdate= 2011-08-09 | language= angliski}}</ref>
+}}
+
+{{Ģeogrāfija-aizmetnis}}
+
+{{Laika zonas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Laika joslas| ‎]]

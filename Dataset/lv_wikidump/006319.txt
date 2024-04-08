@@ -1,0 +1,65 @@
+{{infokaste+}}
+<table border=1 cellpadding=2 cellspacing=0 align=right width=275px>
+<caption><font size=+1>'''Saab'''</font><br />
+</caption>
+<tr><td style=background:#white; align=center colspan=2>
+<table border=0 cellpadding=2 cellspacing=0>
+
+<tr><td align=center>
+[[Attēls:Saab_logo.jpg|250px]]
+</table>
+<tr><td>'''Nodibināts:'''<td>1937.g
+<tr><td>'''Sāka ražot:'''<td>1945.g
+<tr><td>'''Pārstāja ražot:'''<td>2012.g
+<tr><td>'''Valsts:'''<td>[[Zviedrija]]
+<tr><td>'''Mājaslapa:'''<td>[http://www.saab.lv www.saab.lv]
+</table>
+
+'''Saab''' ir [[Zviedrija|zviedru]] autobūves kompānija, kas dibināta 1937. gadā. Automobiļus tā sāka ražot 1945. gadā. Pirmais izlaistais modelis bija ''Saab 92''. Automobiļus pārstāja ražot [[2012]]. gada vasarā, jo Saab pārņēma bankrots.
+<br />
+{| class="wikitable"
+|-
+! Modelis
+! Izlaiduma gadi
+|-
+| [[Saab 9-5]]
+| 1997-2012
+|-
+| [[Saab 9-3]]
+| 1998- 2012<br />
+|-
+| Saab 9-7X
+| 2005-2009<br />
+|-
+| Saab 9-4X
+| 2011-2011
+|-
+| Saab 9-3X
+| 2009-2011
+|-
+| Saab 9-2X
+| 2005-2006
+|-
+| Saab 900
+| 1978-1998
+|-
+| Saab 9000
+| 1984-1998
+|-
+| Saab 99
+| 1968-1984
+|-
+| Saab 96
+| 1960-1980
+|-
+| Saab 90
+| 1984-1987
+|}
+
+{{īss aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Autoražotāji]]
+[[Kategorija:Zviedrijas uzņēmumi]]
+[[Kategorija:Saab]]

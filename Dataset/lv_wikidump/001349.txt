@@ -1,0 +1,95 @@
+{{atsauces+}}
+{{Vēlēšanu infokaste
+| election_name      = 8. Saeimas vēlēšanas
+| country            = Latvija
+| flag_year          = 
+| type               = parliamentary
+| previous_election  = 7. Saeimas vēlēšanas
+| previous_year      = 1998
+| next_election      = 9. Saeimas vēlēšanas 
+| next_year          = 2006
+| election_date      = {{dat|2002|10|05}}
+| seats_for_election =
+| turnout            = 997 754
+| party_name         = no
+
+<!-- JL -->
+| image1             = [[Attēls:Einars Repse saeima.jpg|150x150px]] 
+| colour1            = 0E2464
+| leader1            = [[Einars Repše]]
+| party1             = [[Jaunais laiks]] 
+| last_election1     = ''jauna partija''
+| seats_before1      = ''jauna partija''
+| seats_after1       = 26
+| seat_change1       = {{palielinājās}} 26
+| popular_vote1      = 237 452
+| percentage1        = 23,9
+| swing1             = ''jauna partija''
+
+<!-- PCTVL -->
+| image2             = [[Attēls:Vladimir Putin 21 September 2002-Jānis Jurkāns cropped.jpg|150x150px]]
+| colour2            = CB1C1C
+| leader2            = [[Jānis Jurkāns (politiķis)|Jānis Jurkāns]]
+| party2             = [[Par Cilvēka Tiesībām Vienotā Latvijā]]
+| last_election2     = 16 vietas, 14,1%
+| seats_before2      = 16
+| seats_after2       = 25
+| seat_change2       = {{palielinājās}} 9
+| popular_vote2      = 189 088
+| percentage2        = 19,0
+| swing2             = {{palielinājās}} 39,3%
+
+<!-- TP -->
+| image3             = [[Attēls:Andris Šķēle, 10. Saeimas portrets.jpg|150x150px]] 
+| colour3            = FF6600
+| leader3            = [[Andris Šķēle]]
+| party3             = [[Tautas partija]]
+| last_election3     = 24 vietas, 21,2%
+| seats_before3      = 24
+| seats_after3       = 20
+| seat_change3       = {{samazinājās}} 4
+| popular_vote3      = 165 246
+| percentage3        = 16,6
+| swing3             = {{samazinājās}} 18,8%
+
+<!-- Pārējais -->
+| map_image          = Vēlētāju Karte (2002).svg
+| map_size           =
+| map_alt            =
+| map_caption        =
+
+| before_election    = [[Andris Bērziņš (politiķis, 1951)|Andris Bērziņš]]
+| before_party       = [[Latvijas Ceļš]]
+| title              = [[Latvijas Ministru prezidenti|Ministru prezidents]]
+
+| after_election     = [[Einars Repše]]
+| after_party        = [[Jaunais laiks]]
+| posttitle          = Ministru prezidents
+}}
+
+'''[[8. Saeima|8. Saeimas]] vēlēšanas''' notika {{dat|2002|10|05}}. Vēlēšanām tika pieteikti 20 deputātu kandidātu saraksti ar kopā 1019 kandidātiem. Vēlēšanās piedalījās 997 754 vēlētāji, kas sastādīja 71,51% no 1 395 287 balsstiesīgajiem. [[8. Saeima|8. Saeimā]] netika [[Latvijas Ministru prezidenti|Ministru prezidenta]] [[Andris Bērziņš (politiķis, 1951)|Andra Bērziņa]] pārstāvētā partija "[[Latvijas Ceļš]]". Visvairāk balsu ieguvušās partijas "[[Jaunais laiks]]" vadītājs [[Einars Repše]] pēc vēlēšanām kļuva par [[Repšes Ministru kabinets|jaunās valdības vadītāju]].
+
+== Balsošanas sistēma ==
+[[Latvijas Republikas Satversme]] nosaka, ka Saeimu ievēl vienlīdzīgās, tiešās, aizklātās, brīvās un [[proporcionālas vēlēšanas|proporcionālās vēlēšanās]], piešķirot vietas [[politiska partija|partijām]], kuras iegūst vismaz 5% balsu pēc [[Vebstera/Senlagē metode]]s. Vēlēšanas parasti notiek reizi četros gados, [[oktobris|oktobra]] pirmajā sestdienā, bet [[Latvijas Valsts prezidents|Latvijas Valsts prezidentam]] ir tiesības rīkot ārkārtas vēlēšanas. Tiesības vēlēt ir pilntiesīgiem Latvijas pilsoņiem, kuri vēlēšanu dienā ir sasnieguši astoņpadsmit gadu vecumu. Saeimā var ievēlēt jebkuru pilntiesīgu Latvijas pilsoni, kurš vēlēšanu pirmajā dienā ir vecāks par divdesmit vienu gadu.
+
+== Rezultāti ==
+No 20 partijām 6 pārvarēja [[5% barjera|5% barjeru]] un iekļuva [[Saeima|Saeimā]].
+{{8. Saeimas vēlēšanu rezultāti}}
+
+No iepriekšējā Saeimā pārstāvētajām partijām, kas neiekļuva 8. Saeimā, jāmin [[Latvijas Ceļš]] un [[Latvijas Sociāldemokrātiskā Strādnieku Partija]], kuras ieguva 4,9% un 4,0% vēlētāju balsu.
+
+Šo vēlēšanu rezultāti bija pārsteigums. Balstoties uz pirmsvēlēšanu aptaujām Latvijas Ceļam tika prognozētātas 15 vietas Saeimā, savukārt Latvijas Pirmajai Partijai prognozes bija pretējas — pastāvēja iespēja nepārvarēt 5% slieksni. Rezultāti izvērtās gaužām citādi: LC neiekļuva Saeimā, savukārt LPP ieguva vairāk nekā desmit vietas tajā.
+
+== Skatīt arī ==
+* [[Latvijas politika]]
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120417105810/http://www.cvk.lv/cgi-bin/wdbcgiw/base/sae8dev.vel8meg.sa3 Oficiālie 8. Saeimas vēlēšanu rezultāti]
+
+
+{{Saeimas vēlēšanas}}
+{{Vēlēšanas un referendumi Latvijā}}
+
+[[Kategorija:8. Saeima|Veleszanas]]
+[[Kategorija:2002. gads Latvijā|Saeimas veleszanas]]
+[[Kategorija:Saeimas vēlēšanas|08]]

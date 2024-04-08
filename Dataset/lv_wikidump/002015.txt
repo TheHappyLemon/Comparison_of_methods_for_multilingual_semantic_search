@@ -1,0 +1,50 @@
+{{Elementa infokaste
+|                 tips = amfotērais metāls
+|      kārtas skaitlis = 83
+|             7. čaula =
+|             6. čaula = 5
+|             5. čaula = 18
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Bi
+|             atommasa = 208,98040
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>6p<sup>3</sup>
+|       tabulas attēls = [[Attēls:Bi-TableImage.svg|250px]]
+|               attēls = [[Attēls:Bi-crystal-reva.jpg|140px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Bismuth-rare08-34c.jpg|170px]]<br />Mākslīgi iegūts bismuta kristāls un dabiskā bismuta paraugs
+|  oksidēšanas pakāpes = '''+5''', '''+3'''
+|  elektronegativitāte = 2,02
+|              blīvums = 9780
+|  kušanas temperatūra = 544,7 K (271,5&nbsp;°C)
+| viršanas temperatūra = 1837 K (1564&nbsp;°C)
+}}
+
+'''Bismuts''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Bi''' un [[atomskaitlis|atomskaitli]] 83. Bismuts dabā brīvā veidā sastopams ļoti reti, to iegūst no [[sulfīdi|sulfīdu]] un [[oksīdi|oksīdu]] rūdām. Bismuts ir smags [[metāls]], un tas ir mazāk toksisks kā [[svins]]. Bismutu lieto [[sakausējumi]]em, tai skaitā viegli kūstošiem sakausējumiem. Bismuta savienojumus lieto [[stikls|stikla]] glazūrām, jo [[bismuta oksīds]] labi saistās ar stiklu. Savienojumos bismutam var būt oksidēšanas pakāpes +3 un +5.
+
+== Vēsture ==
+Nosaukums ''bismuts'' ir radies aptuveni 1660. gados. Šī vārda izcelsme ir neskaidra. Tiek pieļauts, ka nosaukums ir radies no [[vācu valoda|vācu vārdiem]] ''Weisse Masse'', kas nozīmē ‘baltā masa’. Tas bija viens no pirmajiem 10 metāliem, kas cilvēcei bija zināmi. Līdz tam bismuts nereti tika saukts par [[svins|svinu]] vai [[alva|alvu]]. [[Alķīmija|Alķīmiķi]] uzskatīja, ka no šī metāla var izgatavot [[sudrabs|sudrabu]]. 1753. gadā franču ķīmiķis [[Klods Fransuā Žeofruā]] (''Claude François Geoffroy'') pierādīja, ka bismuts ir atsevišķs ķīmiskais elements, un ka tas nav ne svins, ne alva.
+
+== Atrašanās dabā ==
+[[Zemes garoza|Zemes garozā]] bismuta koncentrācija aptuveni 50 daļiņas no miljarda. Parasti bismuts ir atrodams tādu minerālu sastāvā, kā [[bismutīns]] (Bi<sub>2</sub>S<sub>3</sub>) un [[bismīts]] (Bi<sub>2</sub>O<sub>3</sub>). Tīrā veidā bismuts ir atrodams [[Austrālija|Austrālijā]], [[Bolīvija|Bolīvijā]] un [[Ķīna|Ķīnā]]. Rūpnieciski to visvairāk iegūst [[Ķīna|Ķīnā]], [[Peru]], [[Meksika|Meksikā]], [[Japāna|Japānā]] un [[Kanāda|Kanādā]].
+
+=== Izotopi ===
+Dabiskais bismuts sastāv no viena [[izotops|izotopa]] — bismuta-209, kas tika uzskatīts par vissmagāko no dabā esošajiem stabilajiem izotopiem. 2003. gadā tika atklāts, ka šis izotops ir [[alfa sabrukšana|alfa radioaktīvs]].<ref name="nature"/> Tomēr dabiskā bismuta radioaktivitāte ir ārkārtīgi vāja (daudz vājāka par dabisko radioaktivitātes fonu), jo tā [[pussabrukšanas periods]] ir 1,9{{E|19}} gadu, kas ir miljards reižu vairāk par [[Visums|Visuma]] vecumu.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="nature">{{Laikraksta atsauce | last= Marcillac | first= Pierre de | coauthors= Noël Coron, Gérard Dambier, Jacques Leblanc, and Jean-Pierre Moalic | year= 2003 | month= April | title= Experimental detection of α-particles from the radioactive decay of natural bismuth | journal= Nature | volume= 422 | pages= 876–878 | pmid= 12712201 | doi= 10.1038/nature01541 | issue= 6934}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Metāli]]

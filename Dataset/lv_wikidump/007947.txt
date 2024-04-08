@@ -1,0 +1,56 @@
+{{Futbola kluba infokaste|
+nos=Santos|
+logo=[[Attēls:LogoSantosFC.png|120px]]|
+pilns=Santos Futebol Clube|
+dib=1912|
+stad=Vila Belmiro, [[Santusa]], [[Brazīlija]]|
+ietilp=20 120|
+prez={{flaga|Brazīlija}} Marselo Teikseira|
+tren={{flaga|Brazīlija}} [[Vanderlejs Lukšemburgu]]|
+līga=[[Brazīlijas futbola čempionāta A sērija]]|
+sez=2009|
+poz=12.
+| pattern_la1 = _santos21h
+| pattern_b1 = _santos21h
+| pattern_ra1 = _santos21h
+| pattern_sh1 = _santos21h
+| pattern_so1 = _santos21h
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _santos21a
+| pattern_b2 = _santos21a
+| pattern_ra2 = _santos21a
+| pattern_sh2 = _santos21a
+| pattern_so2 = _santos21a
+| leftarm2 = FFFFFF
+| body2 = 000000
+| rightarm2 = FFFFFF
+| shorts2 = 000000
+| socks2 = 000000
+| pattern_la3 = _santos20t
+| pattern_b3 = _santos20t
+| pattern_ra3 = _santos20t
+| pattern_sh3 = _whitesides
+| pattern_so3 = 
+| leftarm3 = 8dccff
+| body3 = 8dccff
+| rightarm3 = 8dccff
+| shorts3 = 8dccff
+| socks3 = 8dccff
+}}
+
+'''Santos Futebol Clube''' zināms arī kā '''Santos''', ir [[Brazīlija]]s futbola klubs no [[Santusa]]s pilsētas [[Sanpaulu (štats)|Sanpaulu]]. Tā iesauka jau gadu desmitiem ir ''Peixe'' (burtiski "zivs"), bet talismans ir [[Vaļi|valis]]. Iesauka norāda uz to, ka Santuša ir ostas pilsēta, kamēr citi Sanpaulu štata lielie klubi ir no ikšzemes pilsētām. Santos FC fans tiek saukts par ''Santista''.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [http://www.santosfc.com.br Oficiālā mājaslapa] {{es ikona}}, {{en ikona}}, {{fr ikona}}, {{pt ikona}}, {{zh ikona}}, {{ja icon}}
+
+{{autoritatīvā vadība}}
+
+{{Futbols-aizmetnis}}
+
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Santos Futebol Clube]]

@@ -1,0 +1,40 @@
+{| class="infobox vcard" style="width:275px; font-size:90%; line-height:1.40em; text-align:left; background-color:#F9F9F9; border: 1px solid #D9D9D9;"
+|-
+| [[Attēls:1e7m comparison Uranus Neptune Sirius B Earth Venus.png|275px]]
+|-
+| Planētu salīdzinājums pēc mēroga. Attēlā lielās planētas ir [[Urāns (planēta)|Urāns]] un [[Neptūns (planēta)|Neptūns]], vidējās planētas ir [[Zeme]] (pa kreisi) un [[Venera (planēta)|Venera]] ( pa labi) (centrā redzams [[baltais punduris]] [[Sīriuss|Sīriuss Beta]]), bet mazās planētas skatīt nākamajā attēlā.
+|-
+| [[Attēls:1e6m comparison Mars Mercury Moon Pluto Haumea - no transparency.png|275px]]
+|-
+| Attēlā lielie debess ķermeņi ir [[Marss (planēta)|Marss]] un [[Merkurs (planēta)|Merkurs]], bet mazie no kreisās puses ir Zemes pavadonis [[Mēness]] un pundurplanētas [[Plutons (pundurplanēta)|Plutons]] un [[Haumeja]].
+|}
+
+'''Planēta''' ({{val|el|πλάνητες ἀστέρες}}, ''planētes asteres'' — "klejojošā zvaigzne", arī ''πλανῆται'', "klejotāji") pēc [[Starptautiskā Astronomijas savienība|Starptautiskās Astronomijas savienības]] (IAU) definīcijas ir [[debess ķermenis]], kurš atrodas [[orbīta|orbītā]] ap [[zvaigzne|zvaigzni]] vai [[zvaigžņu miglājs|zvaigžņu miglāju]], tajā nenotiek [[kodolreakcija]]s, kā arī planētas masas izraisītās [[gravitācija]]s dēļ tā ir ieguvusi lodveida (gandrīz apaļu) hidrostatiski līdzsvarotu formu un tās orbītas tuvumā nav citu planētām līdzīgu debess ķermeņu.<ref name=IAU>{{en ikona}} {{Tīmekļa atsauce|title=IAU 2006 General Assembly: Result of the IAU Resolution votes|url=http://www.iau2006.org/mirror/www.iau.org/iau0603/index.html|archiveurl=https://web.archive.org/web/20071025051134/http://www.iau2006.org/mirror/www.iau.org/iau0603/index.html|archivedate=2007-10-25|publisher=International Astronomical Union|year=2006|accessdate=2008-08-23}}</ref><ref name=WSGESP>{{en ikona}} {{Tīmekļa atsauce|year=2001|title=Working Group on Extrasolar Planets (WGESP) of the International Astronomical Union|work=IAU|url=http://www.dtm.ciw.edu/boss/definition.html|accessdate=2008-08-23|archiveurl=https://www.webcitation.org/68uUrFa98?url=http://www.dtm.ciw.edu/boss/definition.html|archivedate=2012-07-04}}</ref>
+
+Termins ''planēta'' jau izsenis ir bijis saistīts ar [[vēsture|vēsturi]], [[zinātne|zinātni]], [[mīts|mītiem]] un [[reliģija|reliģiju]]. Sākotnēji planētas daudzās agrīnajās kultūras tika uzskatītas par [[dievība|dievībām]] vai vismaz par dievību iemiesojumiem. Pat mūsdienās daudzi cilvēki tic [[astroloģija]]i, kurā tiek stāstīts par planētu ietekmi uz cilvēku dzīvi, lai gan zinātnieku aprindās tiek noraidīta šāda saistība. Attīstoties zinātnei, cilvēku uztvere par planētām laika gaitā mainījās, ieskaitot vairākas būtiski atšķirīgas lietas. Pat vēl mūsdienās bieži vien tiek diskutēts, kāda tad īsti ir planētas definīcija. [[2006. gads|2006]]. gadā IAU oficiāli pieņēma [[rezolūcija|rezolūciju]], kura noteica planētas definīciju [[Saules sistēma|Saules sistēmā]]. Šī definīcija ir gan slavēta, gan kritizēta, un joprojām daļa zinātnieku diskutē par to.
+
+Saules sistēmā ir astoņas planētas: [[Merkurs (planēta)|Merkurs]], [[Venera (planēta)|Venera]], [[Zeme]], [[Marss (planēta)|Marss]], [[Jupiters (planēta)|Jupiters]], [[Saturns (planēta)|Saturns]], [[Urāns (planēta)|Urāns]] un [[Neptūns (planēta)|Neptūns]]. Saules sistēmas planētas pēc fizikālajām īpašībām iedala [[Zemes grupas planēta|Zemes grupas planētās]] un [[milzu planēta|milzu planētās]].
+
+Kopš [[1992]]. gada ir atklātas arī vairākas [[citplanēta]]s. Līdz [[2010. gads|2010]]. gada augustam "[[Citplanētu enciklopēdija|Citplanētu enciklopēdijā]]" (''Extrasolar Planets Encyclopaedia'') bija uzskaitītas 473 citplanētas.<ref name="Encyclopedia">{{en ikona}} {{Tīmekļa atsauce |title=Interactive Extra-solar Planets Catalog |work=The Extrasolar Planets Encyclopedia |url=http://exoplanet.eu/catalog.php |last=Schneider |first=Jean | accessdate= 2010-08-09}}</ref>
+
+== Skatīt arī ==
+* [[Saules sistēmas planētas]]
+* [[Planētu apdzīvojamība]]
+* [[Pundurplanēta]]
+* [[Citplanēta]]
+* [[Ūdens planēta]]
+
+== Atsauces un piezīmes ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{refbegin}}
+* {{en ikona}} [http://science.nationalgeographic.com/science/space/planets Planets] National Geographic — Science and Space
+{{refend}}
+
+{{Astronomija-aizmetnis}}
+{{Visuma struktūru veidi}}
+{{Saules sistēma|expanded}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Planētas| ]]

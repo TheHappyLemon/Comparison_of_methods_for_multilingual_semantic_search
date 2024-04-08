@@ -1,0 +1,33 @@
+{{Futbola kluba infokaste|
+nos=Ponte Preta|
+logo=[[Attēls:Escudo Oficial Ponte Preta.png|120px]]|
+pilns=Associação Atlética Ponte Preta|
+dib=1900|
+stad=Estádio Moisés Lucarelli, [[Kampinasa]], [[Brazīlija]]|
+ietilp=19 722|
+prez={{flaga|Brazīlija}} Serdžio Karnelli|
+tren={{flaga|Brazīlija}} Horhe Luiss da Silva|
+līga=[[Brazīlijas Série B]]|
+sez=2009|
+poz=11.|
+ pattern_la1=_thinblackborder|pattern_b1=_aapp09h|pattern_ra1=_thinblackborder|pattern_sh1=_blackstripesonwhite|
+ leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=FFFFFF|socks1=FFFFFF|
+ pattern_la2=_thinwhiteborder|pattern_b2=_aapp09a|pattern_ra2=_thinwhiteborder|pattern_sh2=_white stripes|
+ leftarm2=000000|body2=000000|rightarm2=000000|shorts2=000000|socks2=000000|
+ pattern_la3=_aapp0910t|pattern_b3=_aapp09t|pattern_ra3=_aapp0910t|pattern_sh3=_juve0910a|
+leftarm3=FFFFFF|body3=FFFFFF|rightarm3=FFFFFF|shorts3=FFFFFF|socks=000000
+}}
+
+'''Ponte Preta''' ir [[Brazīlija]]s [[futbols|futbola]] klubs no [[Kampinasa]]s, [[Sanpaulu (štats)|Sanpaulu]]. Ponte Preta ir zināmi arī kā ''Macaca''. Ponte Pretas lielākie sāncenši ir no tās pašas pilsētas - [[Guarani Futebol Clube|Guarani]].
+
+== Ārējās saites ==
+{{commons category|Associação Atlética Ponte Preta}}
+* [http://www.pontepreta.com.br Oficiālā mājaslapa]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Brazīlijas futbola klubi]]
+[[Kategorija:Kampinasas "Ponte Preta"]]
+
+
+{{futbols-stub}}

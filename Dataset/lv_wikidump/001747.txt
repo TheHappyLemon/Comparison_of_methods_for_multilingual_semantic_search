@@ -1,0 +1,61 @@
+{{Apdzīvotas vietas infokaste
+| name = Naujoji Akmene
+| image_skyline =Nakmenesm.jpg
+| imagesize = 300px
+| image_caption = Naujoji Akmenes centrs
+| image_flag = Flag of Naujoji Akmene.gif
+| image_shield = Naujoji Akmenė COA.svg
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Akmenes rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1965
+| area_total_km2 = 
+| population_as_of = 2010
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 11093
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 56
+| latm = 19 
+| lats = 30 
+| latNS = N 
+| longd = 22 
+| longm = 53 
+| longs = 00
+| longEW = E
+| elevation_m = 79
+| website = http://www.akmene.lt}}
+
+'''Naujoji Akmene''' ({{val-lt|Naujoji Akmenė}}) ir pilsēta un [[Akmenes rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s ziemeļos, 61 kilometrus uz ziemeļrietumiem no [[Šauļi]]em un 46 kilometrus uz austrumiem no [[Mažeiķi]]em, pie robežas ar [[Latvija|Latviju]]. Pilsēta izveidojusies pēc [[Otrais pasaules karš|Otrā pasaules kara]] kopā ar [[cements|cementa]] ražošanas uzņēmumu ''Akmenės cementas''.
+
+Pilsētai ir seņūnijas statuss, kā arī tā ir lauku seņūnijas centrs. Šeit atrodas Sv. Gara baznīca (iesvētīta 1999. gadā), kultūras nams, Akmenes rajona centrālā slimnīca, pansionāts, pasta nodaļa (LT-85001). Pilsētas austrumu nomalē atrodas botāniskais dārzs ''Puošmena''.
+
+== Sports ==
+* [[FK Akmenės Cementas]] — [[futbols|futbola]] klubs.
+* Centrālais stadions.
+
+== Sadraudzības pilsētas ==
+* {{flaga|Polija}} [[Koņina]], [[Polija]]
+* {{flaga|Krievija}} [[Brjanska]], [[Krievija]]
+* {{flaga|Vācija}} [[Boholta]], [[Vācija]]
+* {{flaga|Latvija}} [[Dobele]], [[Latvija]]
+* {{flaga|Ukraina}} [[Černivci]], [[Ukraina]]
+
+== Ārējās saites ==
+
+*{{commonscat-inline|Naujoji Akmenė|Naujoji Akmene}}
+*[http://www.cementas.lt/ Rūpnīca ''Akmenės cementas'']
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+{{DEFAULTSORT:Naujoji Akmene}}
+
+[[Kategorija:Lietuvas pilsētas]]

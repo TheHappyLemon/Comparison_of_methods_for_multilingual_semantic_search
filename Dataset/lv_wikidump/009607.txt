@@ -1,0 +1,56 @@
+{{Krievijas republikas infokaste
+| nosaukums = Tjumeņas apgabals 
+| karte = Russia - Tyumen Oblast (2008-01).svg
+| oriģ = Тюменская область
+| karoga_attēls = Flag_of_Tyumen_Oblast.svg
+| karoga_nosaukums = Tjumeņas apgabala karogs
+| ģerboņa_attēls = Coat of Arms of Tyumen Oblast (pre-2008).svg
+| ģerboņa_nosaukums = Tjumeņas apgabala ģerbonis
+| ģerboņa_platums = 75px
+| galvaspilsēta = [[Tjumeņa]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (71,57%)<br />[[tatāri]] (7,42%)<br />[[ukraiņi]] (6,47%)
+| platība = 1 464 173
+| iedzīvotāji = 3 851 234
+| iedz blīvums = 2,63
+| pilsētas = 26
+| rajoni = 38
+| fedapgabals = [[Urālu federālais apgabals|Urālu]]
+| url = http://admtyumen.ru/
+|ainavas_skats=Р254_10.JPG|iedz_gads=2023}}
+'''Tjumeņas apgabals''' ir viens no [[Krievijas Federācija]]s apgabaliem. Tur atrodas divi autonomie apvidi: [[Hantu-mansu autonomais apvidus]] (visdusdaļā) un [[Jamalas Ņencu autonomais apvidus]] (ziemeļos). Tjumeņas apgabals robežojas ar [[Arhangeļskas apgabals|Arhangeļskas apgabalu]] (Ņencu autonomo apgabalu) ziemeļrietumos, [[Komi (republika)|Komi Republiku]] un [[Sverdlovskas apgabals|Sverdlovskas apgabalu]] rietumos, [[Kurgānas apgabals|Kurgānas apgabalu]] dienvidrietumos, [[Kazahstāna|Kazahstānu]] dienvidos, [[Omskas apgabals|Omskas]] un [[Tomskas apgabals|Tomskas]] apgabaliem dienvidaustrumos, [[Krasnojarskas novads|Krasnojarskas novadu]] austrumos un [[Ziemeļu Ledus okeāns|Ziemeļu Ledus okeānu]] ziemeļos.
+Apgabalu šķērso [[dzelzceļa līnija Tjumeņa—Surguta—Urengoja]].
+
+== Vēsture ==
+1582. gadā [[Krievijas cariste]]s nolīgtie kazaki uzbruka [[Sibīrijas haniste]]i. 1621. gadā bijušās hanistes teritorijā izveidoja [[Krievijas pareizticīgo baznīca]]s Sibīrijas bīskapiju, bet 1708. gadā [[Sibīrijas guberņa|Sibīrijas guberņu]], ko drīz pārdēvēja par [[Toboļska]]s provinci, 1782. gadā par Toboļskas vietniecību, bet 1796. gadā par Toboļskas guberņu.
+
+Pēc [[Februāra revolūcija]]s apcietināto Krievijas imperatoru [[Nikolajs II Romanovs|Nikolaju II]] ar ģimeni izsūtīja uz Toboļsku, kur viņi dzīvoja no 1917. gada 13. augusta līdz 1918. gada 13. aprīlim. 
+1919. gadā Toboļskas guberņa atradās [[Kolčaks|Kolčaka]] armijas, pēc tam Sarkanās armijas kontrolē.
+
+1920. gada martā [[Padomju Krievija]]s valdība to pārdēvēja par Tjumeņas guberņu, 1923. gada novembrī to likvidēja, iekļaujot Urālu apgabalā, bet 1934. gadā [[Omska]]s apgabalā.
+1944. gadā atjaunoja Tjumeņas apgabalu.
+
+== Pilsētas ==
+=== Karte (bez autonomajiem apvidiem) ===
+{{VietasKarte+|Tjumeņas apgabals|width=400 |float=center|caption = Tjumeņas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs.<br>
+Nav parādīti divi autonomie apvidi: [[Hantu-mansu autonomais apvidus]] un [[Jamalas Ņencu autonomais apvidus]]. 
+|places =
+{{VietasKarte~|Tjumeņas apgabals|lat=  57.15|long= 65.533333|position = top |label='''[[Tjumeņa]]''' }}
+{{VietasKarte~|Tjumeņas apgabals|lat=  56.501|long= 66.55|position = bottom |label=[[Zavodoukovska]] }}
+{{VietasKarte~|Tjumeņas apgabals|lat=  56.116667|long= 69.501|position = top |label=[[Išima (pilsēta)|Išima]] }}
+{{VietasKarte~|Tjumeņas apgabals|lat=  58.195278|long= 68.258056|position = top |label=[[Toboļska]] }}
+{{VietasKarte~|Tjumeņas apgabals|lat=  56.65|long= 66.301|position = top |label=[[Jalutorovska]] }}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Urālu federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Sibīrija]]
+[[Kategorija:Tjumeņas apgabals| ]]

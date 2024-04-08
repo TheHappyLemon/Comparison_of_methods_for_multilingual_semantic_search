@@ -1,0 +1,45 @@
+{{Citas nozīmes|Marsa zondi|MRO|MRO}}
+{{Pašreizējais kosmolidojums}}
+{{Kosmiskā aparāta infokaste
+| Nosaukums = Mars Reconnaissance Orbiter
+| Attēls = Mars_Reconnaissance_Orbiter.jpg
+| Attēla_izmērs = 300px
+| Att_virsraksts = MRO makslinieka skatījumā
+| Īpašnieks = [[Nacionālā aeronautikas un kosmosa administrācija|NASA]]
+| Lielākie_izgatavotāji = [[Lockheed Martin Space Systems]]
+| KA_veids = [[Marss (planēta)|Marsa]] [[starpplanētu zonde|orbitālais aparāts]]
+| Pārlidojums = 
+| Starts = {{dat|2005|12|12|SK}}
+| Starta_vieta = [[Kanaveralas zemesraga Gaisa spēku stacija|Kanaverala]]
+| Starta_valsts = {{USA}}
+| Nesējs = [[Atlas V/401]]
+| Beigu_datums = darbojas
+| Lidojuma_ilgums = 
+| NSSDC_ID = 2005-029A
+| Tīmekļa_vietne = [http://marsprogram.jpl.nasa.gov/mro/ MRO NASA]
+| Masa = 2180 kg
+| Enerģija = [[saules baterija]]s 2000 [[vats|W]]
+| Orbītas_elementi = jā
+| Centr_ķermenis = Marss 
+| Centr_ķermenis_parādīt = [[Marss (planēta)|Marss]]
+| Lielā_pusass = 
+| Ekscentricitāte = 
+| Inklinācija = 
+| Periods = 
+| Apoapsīda = ~315 km
+| Periapsīda = ~250 km
+| Apriņķojumi = 
+| Orbītā_ieiešanas_dat = {{dat|2006|3|10|SK}}
+}}
+'''Mars Reconnaissance Orbiter''' jeb '''MRO''' ({{val|en| }} "Marsa izlūkošanas orbitālais aparāts") ir [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] [[starpplanētu zonde]] [[Marss (planēta)|Marsa]] izpētei. Palaista {{dat|2005|8|12}} ar [[nesējraķete|nesējraķeti]] [[Atlas V/401|Atlas-5]]. Marsu sasniedza {{dat|2006|3|10}} un sāka [[aerobremzēšana]]s manevrus, lai ieņemtu optimālo [[orbīta|orbītu]], no kuras 2006. gada novembrī tā uzsāka zinātnisko darbību.
+
+''MRO'' ir apgādāts ar visaugstākās izšķirtspējas attēlu uzņemšanas kameru, kāda jebkad bijusi pie Marsa. Ar tā sakaru sistēmām iespējams vienlaicīgi noraidīt uz [[Zeme|Zemi]] vairāk datu nekā ar visām iepriekšējām Marsa zondēm kopā, tāpēc tas kalpo kā [[retranslators]] citu Marsa orbitālo aparātu un nolaižamo aparātu datu pārraidīšanai.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{kosmonautika-aizmetnis}}
+
+[[Kategorija:Starpplanētu zondes]]
+[[Kategorija:Marsa izpēte]]

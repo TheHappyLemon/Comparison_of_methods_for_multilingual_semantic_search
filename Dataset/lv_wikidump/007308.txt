@@ -1,0 +1,45 @@
+[[Attēls:Insulincrystals.jpg|thumb|250px|[[Insulīns|Insulīna]] kristāli]]
+'''Cietviela''' ir [[viela]], kura ir cietā [[agregātstāvoklis|agregātstāvoklī]]. Jau kopš [[civilizācija]]s aizsākumiem no cietvielām izgatavo visus sadzīvē lietotos priekšmetus un [[darbarīks|darbarīkus]]. Šodien daudzas cietvielas ar vajadzīgajām īpašībām veido arī mākslīgi. Cietvielu pētniecība ir izveidojusies par plašu un patstāvīgu zinātni — [[cietvielu fizika|cietvielu fiziku]].
+
+== Raksturojums ==
+Cietvielām ir noteikta forma un tās telpā aizņem vietu jeb tilpumu. Tajās starp atomiem darbojas stipri spēki (stiprāki kā šķidrumos un gāzēs), kuri notur daļiņas tuvu citu citai. Cietvielām ir noteikta robežvirsma, kas tās atdala no apkārtnes un veido vielas formu. Cietu ķermeni var raksturot ar formu, izmēriem, tilpumu, masu u.c. raksturlielumiem.
+
+== Cietvielu iedalījums ==
+[[Attēls:Fcc_lattice_4.jpg|thumb|Kristāliskas vielas cieši sablīvētu atomu modelis]]
+Cietvielas iedala:
+* [[kristāliskās vielas]]
+* [[amorfās vielas]]
+
+=== Kristāliskās vielas ===
+Kristāliskajām vielām [[atoms|atomi]] vai [[molekula]]s ir sakārtotas regulārā struktūrā — [[Kristālrežģis|kristālrežģī]]. No šīm vielām veidotiem [[fizikāls ķermenis|ķermeņiem]] parasti ir daudzskaldņa forma ar labi saskatāmām [[skaldne|skaldnēm]]. Kristāliskas vielas ir visi [[metāli]], [[sāls|vārāmais sāls]], [[cukurs]], kā arī daudzi [[minerāls|minerāli]], kuri ietilpst [[ieži|iežos]]. Piemēram, [[granīts|granīta]] laukakmeņos var saskatīt dažāda lieluma [[kvarcs|kvarca]] kristālus.
+
+=== Amorfas vielas ===
+Amorfām vielām nav noteiktas struktūras — to molekulas ir izvietotas haotiski — ''kā pagadās''. Amorfas vielas ir [[stikls]], [[parafīns]], [[vaski|vasks]], [[bitumens|piķis]], [[sveķi]], [[dzintars]], dažādas [[plastmasas]]. Amorfām vielām daudzas īpašības ir tādas pašas kā [[šķidrums|šķidrumam]]. Piemēram, siltā vietā nolikts piķa gabals lēnām saplacinās un izplūst.
+
+== Cietība ==
+Cietība ir [[viela]]s spēja pretoties kāda cita ķermeņa iedarbībai. Vielas [[cietība|cietību]] noskaidro, iespiežot tajā vai ieskrāpējot to ar kādu citu vielu.
+
+Par piemēru ņemsim [[ābols|ābolu]], [[koks|koka]] skaidu, [[svins|svina]] gabaliņu, [[skārds|skārda]] loksnīti, [[stikls|stikla]] lausku un mēģināsim tos sagriezt ar kabatas naža [[tērauds|tērauda]] asmeni. Ābolu un koku griezt ir viegli, svinu — jau grūtāk, dzelzi izdodas tikai ieskrambāt, bet stiklu saskrāpēt ir tikpat kā neiespējami. Vielas, no kurām sastāv šie dažādie priekšmeti, atšķiras pēc [[cietība]]s.
+
+Ja divas cietas [[viela]]s salīdzina pēc [[cietība]]s, tad par cietāku uzskata to, ar kuru var saskrāpēt otru vielu.
+
+== Izturība ==
+Izturība ir cietas vielas spēja pretoties sagrūšanai.
+
+Cietvielas ar lielu [[izturība|izturību]] izmanto [[mašīnbūve|mašīnbūvē]], [[celtniecība|celtniecībā]] un citur, veidojot konstrukcijas, kurām jāiztur noteikta slodze.
+
+Katram materiālam ir sava izturības robeža, kuru pārsniedzot materiāls sabrūk — satrūkst, saplīst. Turklāt svarīgs ir arī slogošanas veids. Vieni materiāli ir izturīgi, ja tos stiepj, bet nepieļauj, ka tos pārāk daudz liec.
+
+Ja materiāls sabrūk jau ļoti niecīgas deformācijas dēļ, tad tas ir trausls. Tāds, piemēram, ir [[stikls]]. Katram zināms, ka stikla rūti gandrīz nemaz nedrīkst liekt. Šādas deformācijas parastais logu stikls neiztur. Trausla ir [[keramika]] — apdedzināti [[māls|māla]] trauki, kā arī daudzas [[kristāliskas vielas]].
+
+== Skatīt arī ==
+* [[Deformācija]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{agregātstāvokļi}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Viela]]

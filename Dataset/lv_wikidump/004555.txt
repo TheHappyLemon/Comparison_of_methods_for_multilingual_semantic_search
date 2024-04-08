@@ -1,0 +1,61 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Tiraspole
+ | native_name              = ''Тирасполь''
+ | settlement_type          = 
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Central street of Tiraspol.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = Flagge der Tiraspol.png
+ | image_shield             = Coat of Arms of Tiraspol 1847.svg
+ | pushpin_map              = Moldova
+ | pushpin_label_position   = left
+ | latd  = 46 | latm  = 51 | lats  =  | latNS  = N
+ | longd = 29 | longm = 38 | longs =  | longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Moldova}}'''
+ | subdivision_type1        = 
+ | subdivision_name1        = 
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | area_total_km2           = 50
+ | elevation_m              = 
+ | population_total         = 148917
+ | population_as_of         = {{dat|2010|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = 
+ | utc_offset               = +3
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | area_code                = + 373 533
+ | website                  = 
+ | footnotes                = 
+}}
+
+'''Tiraspole''' ({{val|mo|Tiraspol}}, {{val|ru|Тирасполь}}, {{val|uk|Тирасполь}}) ir pilsēta [[Moldova]]s austrumos [[Dņestra]]s upes kreisajā krastā. Moldovas otrā lielākā pilsēta. Starptautiski neatzītās [[Piedņestras Moldāvu Republika]]s galvaspilsēta.
+
+== Vēsture ==
+Pilsēta dibināta 1792. gadā kā robežcietoksnis, kad Dņestras kreisais krasts no [[Osmaņu impērija]]s nokļuva [[Krievijas Impērija]]s sastāvā.
+
+1924. gadā tika nodibināta [[Moldāvijas Autonomā Padomju Sociālistiskā Republika|Moldāvijas APSR]] [[Ukrainas PSR]] sastāvā, bet 1929. gadā Tiraspole kļuva par šīs autonomās republikas galvaspilsētu.  1938. gadā gar to gāja t. s. [[Staļina līnija]]s nocietinājumi. Kad 1940. gadā, pamatojoties uz [[Molotova-Ribentropa pakts|Molotova-Ribentropa paktu]], [[Padomju Savienība|PSRS]] ieguva [[Moldāvija]]s austrumdaļu, 1940. gada 2. augustā tika nodibināta [[Moldāvijas PSR]]. No 1941. līdz 1944. gadam Tiraspoli pārvaldīja [[Rumānija]], bet pēc kara tā atkal bija Moldāvijas PSR sastāvā.
+
+PSRS laikā Tiraspolē uzcēla daudz rūpniecības uzņēmumu. Kad XX gadsimta 80. gadu beigās pastiprinājās [[Moldova]]s neatkarības kustība, Tiraspole kļuva par Moldāvijas PSR krievu minoritātes galveno centru. 1990. gada 27. janvārī referendumā Tiraspoli pasludināja par "neatkarīgu teritoriju", bet 1990. gada 2. septembrī deklarēja [[Piedņestras Moldāvu Republika|Piedņestras Moldāvu Republiku]] ar Tiraspoli kā tās galvaspilsētu.
+
+== Cilvēki ==
+Tiraspolē vai tās apkārtnē dzimuši:
+* [[Mihails Larionovs]] (''Михаил Фёдорович Ларионов'') (1881-1964) - gleznotājs
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Moldova-aizmetnis}}
+{{Eiropas galvaspilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Moldovas pilsētas]]
+[[Kategorija:Eiropas galvaspilsētas]]

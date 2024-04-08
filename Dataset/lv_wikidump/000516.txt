@@ -1,0 +1,41 @@
+{{Valodas infokaste
+|name=Tadžiku valoda
+|nativename={{Unicode|тоҷикӣ}}, {{rtl-lang|tg-Arab|تاجیکی}}, {{lang|tg-Latn|''tojikī''}}
+|states=[[Tadžikistāna]], [[Afganistāna]], [[Uzbekistāna]], [[Kazahstāna]], [[Turkmenistāna]], [[Kirgizstāna]], [[Krievija]] <!-- Please DO NOT add China to this list. See the comment about Pamir languages below -->
+|speakers=6 miljoni
+|familycolor=Indoeiropiešu
+|fam2=[[Indoirāņu valodas|Indoirāņu]]
+|fam3=[[Irāņu valodas|Irāņu]]
+|fam4=[[Rietumirāņu valodas|Rietumirāņu]]
+|fam5=[[Dienvidrietumirāņu valodas|Dienvidrietumirāņu]]
+|fam6=[[Persiešu valoda|Persiešu]]
+|script=[[Kirilica]] (tadžiku ortogrāfija), [[Tadžikistāna|Tadžikistānā]]<br />
+[[Persiešu alfabēts]] ([[Afganistāna|Afganistānā]])
+|nation={{TJK}}
+----
+'''Reģionāla valoda:'''<br />
+{{AFG}}
+|iso1=tg|iso2=tgk|iso3=tgk
+|map=[[Attēls:Idioma tayiko.png|275px]]
+}}
+
+'''Tadžiku valoda''' ({{Unicode|тоҷикӣ}}, {{rtl-lang|tg-Arab|تاجیکی}}, {{lang|tg-Latn|''tojikí''}} {{IPA|[tɔːdʒɪˈkiː]}}) ir [[Vidusāzija|Vidusāzijā]] lietots [[persiešu valoda]]s variants. Tā ir [[Indoeiropiešu valodas|indoeiropiešu]] saimes valoda, valsts valoda [[Tadžikistāna|Tadžikistānā]], oficiāla reģionāla valoda [[Afganistāna|Afganistānā]], plaši sadzīvē lietota [[Uzbekistāna|Uzbekistānā]].
+
+Politisko un dabisko robežu rezultātā no persiešu valodas, kādu to runā [[Irāna|Irānā]] un Afganistānā ([[dari]]), tadžiku valoda ir attīstījusies par atsevišķu valodu. Standartizētā valodas forma ir bāzēta uz ziemeļrietumu [[tadžiki|tadžiku]] [[Samarkanda]]s [[dialekts|dialektu]], ko papildus ietekmējušas kaimiņu [[tjurku valodas|tjurku]] un [[krievu valoda|krievu]] valodas. Tadžiku valoda, sakarā ar tās dabisko nošķirtību Vidusāzijas kalnos, ir arī saglabājusi virkni arhaisku elementu vārdu krājumā, kādus vairs nelieto citur persiešu valodā un citos tās dialektos.
+
+Tadžikistānas tadžiki lieto modificētu [[kirilica]]s alfabētu, tadžiki Afganistānā raksta [[persiešu alfabēts|persiešu alfabētā]]. Pēc neatkarības iegūšanas Tadžikistānā vairākkārt ir izraisījušās diskusijas (un turpinās) par pāreju vai nu uz persiešu vai latīņu alfabētu, bet pagaidām saglabājas ''status quo''.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{InterWiki|code=tg}}
+
+{{valoda-aizmetnis}}
+
+{{Indoirāņu valodas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Irāņu valodas]]
+[[Kategorija:Tadžikistānas valodas]]
+[[Kategorija:Afganistānas valodas]]

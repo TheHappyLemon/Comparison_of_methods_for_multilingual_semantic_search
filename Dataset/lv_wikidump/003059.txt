@@ -1,0 +1,11 @@
+'''Svina cirkonāta-titanāts''' ([[Svins|Pb]]([[Cirkonijs|Zr]]<sub>x</sub>, [[Titāns|Ti]]<sub>1-x</sub>)O<sub>3</sub> x=0,53 arī '''PZT''') ir [[pjezoelektriskais efekts|pjezoelektrisks]] keramisks materiāls. Šo materiālu lieto ultraskaņas pārveidotāju (''transducers'') un keramisko [[kondensators|kondensatoru]] izgatavošanai. PZT ir gaiši dzeltenbrūngana cieta viela, krāsa ir atkarīga no piemaisījumiem un apstrādes apstākļiem.
+
+Pjezoelektriskās īpašības ir novērojamas arī sastāviem ar lielāku un mazāku Zr/Ti attiecību, taču nav tik izteiktas. Ja Ti saturs ir lielāks par 0,47, tad pārsvarā veidojas [[tetragonālā singonija|tetragonālā]] struktūra, ja mazāks - [[kubiskā singonija|kubiskā]]. Pie Ti satura 0,47 veidojas morfotropās fāzu pārejas sastāvs, kur ietilpst gan tetragonālā, gan kubiskā struktūra. Svina titanāts un svina cirkonāts veido cieto šķīdumu. PZT ar morfotropās fāzu pārejas sastāvu piemīt ļoti liela dielektriskā konstante (iespējms izgatavot relatīvi lielas ietilpības keramiskos kondensatorus ar maziem izmēriem).
+
+PZT iegūst apdedzinot attiecīgo metālu [[oksīds|oksīdu]] vai [[karbonāts|karbonātu]] pulveru maisījumu pie ~ 1100 līdz 1200&nbsp;°C. Šādā veidā iegūst PZT pulveri, no kura presē monolītas detaļas. PZT var iegūt arī plānu pārklājumu veida, izmantojot sola gēla metodi. Šeit par izejvielām parasti lieto titāna un cirkonija alkoksīdus un svina acetātu.
+
+PZT parasti komerciāli nelieto tīrā veidā, tam pievieno piejaukumus, kas kristālrežģī rada vai nu anjonu vai katjonu pārākumu (attiecīgi akceptoru vai donoru piejaukumi).
+* Akceptorpiejaukumi rada cietu PZT, tam ir mazāki dielektriskie zudumi, taču arī mazāka pjezoelektriskā konstante. Akceptorpiejaukumi kristāliskajā režģī aizvieto titāna un cirkonija jonus.
+* Donorpiejaukumi rada mīkstu PZT, tam ir lielāka pjezoelektriskā konstante, taču arī lielāki dielektriskie zudumi.
+
+[[Kategorija:Neorganiskā ķīmija]]

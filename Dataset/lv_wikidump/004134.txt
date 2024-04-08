@@ -1,0 +1,38 @@
+[[Attēls:Sorting quicksort anim.gif|thumbnail|235px|[[Ātrās kārtošanas algoritms|Ātrās kārtošanas algoritma]] animācija]]
+'''Algoritms''' [[matemātika|matemātikā]] un [[datorzinātne|datorzinātnē]] ir veicamo darbību priekšraksts kāda noteikta rezultāta sasniegšanai vai uzdevuma risināšanai. Algoritmu veido pēc stingriem noteikumiem veicamu darbību virkne, kuras izpildot iegūst vajadzīgo rezultātu. Kā pazīstamus algoritmus var minēt [[Eiklīda algoritms|Eiklīda algoritmu]] un dažādus [[kārtošanas algoritms|kārtošanas algoritmus]]. Algoritmu vizualizēšanai bieži izmanto [[blokshēma]]s. Tos var pierakstīt arī [[pseidokods|pseidokodā]], [[programmēšanas valoda|programmēšanas valodā]] un ar citām metodēm.
+
+Termins ‘algoritms’ ir radies no persiešu matemātiķa [[Al-Horezmī]] vārda [[latīņu valoda|latīniskās]] formas ''Algorithmi''. Ikdienas dzīvē kā algoritma piemēri var būt [[recepte]], dažādu objektu [[lietošanas instrukcija]] un spēļu [[noteikums|noteikumi]]. Pēc algoritmiem vadās arī [[dators|datori]], [[robots|roboti]] un citas [[mašīna]]s. Ikvienu [[datorprogramma|datorprogrammu]] veido algoritmi, savukārt algoritmu rakstīšanu šim nolūkam sauc par [[programmēšana|programmēšanu]]. Zinātni, kas pēta algoritmus, sauc par [[algoritmika|algoritmiku]].
+
+== Algoritma pieraksta metodes ==
+Algoritmus pieraksta dažādi. Bieži izmanto [[blokshēma]]s. Algoritmus var pierakstīt arī [[pseidokods|pseidokodā]], [[aktivitāšu diagramma|aktivitāšu diagrammā]], [[Nassi–Šneidermana diagramma|Nassi–Šneidermana diagrammā]], kā [[programmēšanas valoda|programmēšanas valodu]] un ar citām metodēm.
+
+=== Algoritma grafiskais pieraksts (blokshēma) ===
+[[Attēls:Euclid flowchart.svg|thumbnail|160px|[[Eiklīda algoritms|Eiklīda algoritma]] piemērs, izmantojot blokshēmu (angļu valodā)]]
+Algoritmu vizualizēšanai bieži izmanto [[blokshēma]]s. Katrā blokshēmas elementā tiek izpildīta viena, parasti vienkārša darbība — komanda. Komandai jābūt precīzai un nepārprotamai. Nākamā algoritma komanda bieži vien ir atkarīga no iepriekšējā solī iegūtā rezultāta. Blokshēmā katra algoritma komanda vai darbība ir apzīmēta ar ģeometrisku figūru (bloku). Algoritma sākumu un beigas parasti apzīmē ar [[elipse|elipsi]] vai [[taisnstūris|taisnstūri]] ar noapaļotiem stūriem. [[Ievade/izvade|Ievadi un izvadi]] apzīmē ar [[paralelograms|paralelogramu]] vai [[taisnstūris|taisnstūri]]. Lēmuma pieņemšanu (nosacījumu) apzīmē ar [[rombs|rombu]], savukārt [[sešstūris]] apzīmē cikla sākumu. Tajā dažreiz ieraksta skaitu, cik reizes darbība jāatkārto. Jebkuru citu darbību apzīmē ar taisnstūri.
+
+=== Nassi–Šneidermana diagramma ===
+[[Nassi–Šneidermana diagramma]]s (''Nassi–Shneiderman diagram'') pluss ir tas, ka algoritmu var viegli nolasīt, bet, tiklīdz nepieciešams algoritmu izmainīt, lielu daļu no diagrammas ir nepieciešams pārzīmēt.
+
+=== Pseidokods ===
+[[Pseidokods]] nav formāls algoritma pieraksta veids. Vizuāli tas atgādina pierakstu kādā no [[programmēšanas valoda|programmēšanas valodām]]. Pseidokoda [[sintakse]] balstās uz tādām programmēšanas valodām kā ''[[Pascal]]'' vai [[Beisiks|Beisikā]].
+
+== Algoritmu struktūras ==
+Izšķir vairākas algoritmu struktūras pēc komandu izpildes secības. Viena no tām ir lineārā algoritmu struktūra, kur komandas tiek izpildītas tādā secībā, kā uzrakstītas. Šādu algoritmu blokshēmās neparādās sazarošanās elementi. Otra ir sazarotā struktūra, kur komandu izpildes secība ir atkarīga no noteiktu nosacījumu izpildes vai neizpildes. Vēl izdala cikliskās struktūras, kur algoritmā ir elements, kas algoritma izpildes laikā tiek izpildīts atkārtoti vairākas reizes. Cikliskos algoritmus sīkāk iedala vēl algoritmos, kur darbību atkārtoto reižu veikšanas skaits ir zināms, un algoritmos, kur darbības atkārtoti tiek veiktas līdz tiek iegūts vēlamais rezultāts.
+
+== Skatīt arī ==
+* [[Ģenētiskais algoritms]]
+
+== Atsauces ==
+{{atsauces+}}
+
+== Ārējās saites ==
+* {{tīmekļa atsauce | url= http://www.algorithmist.com/ | title= algorithmist.com vietne ar dažādiem populāriem algoritmiem | language= angliski | access-date= {{dat|2015|01|20||bez}} | archiveurl= https://web.archive.org/web/20140116030907/http://www.algorithmist.com/ | archivedate= {{dat|2014|01|16||bez}} }}
+* {{tīmekļa atsauce | url= https://xlinux.nist.gov/dads// | title= Dictionary of Algorithms and Data Structures (Datu struktūru un algoritmu vārdnīca) | publisher= National Institute of Standards and Technology | language= angliski | access-date= {{dat|2019|01|13||bez}} | archiveurl= https://web.archive.org/web/20181222115741/https://xlinux.nist.gov/dads/ | archivedate= {{dat|2018|12|22||bez}} }}
+
+
+{{datorzinātne-aizmetnis}}
+{{matemātika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Algoritmi| ]]

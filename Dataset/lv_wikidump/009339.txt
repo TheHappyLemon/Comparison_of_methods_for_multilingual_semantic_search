@@ -1,0 +1,93 @@
+{{citas nozīmes|pilsētu Salvadorā|Sanmigela|Sanmigela}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Sanmigela
+|settlement_type        = Pilsēta <!--For Town or Village (Leave blank for the default City)-->
+|other_name             =
+|native_name            = ''San Miguel (de La Frontera)''
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = San Miguel ES Photomontage.jpg
+|imagesize              = 275px
+|image_caption          = 
+|image_flag             = Flag of San Miguel Department.png
+|flag_size              = 150px
+|image_seal             = Escudo de la ciudad de San miguel.gif
+|seal_size              = 100px
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Salvadora
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    = Atrašanās vieta Salvadorā
+<!-- Location ------------------>
+|subdivision_type       = [[Pasaules valstis|Valsts]]
+| subdivision_name      = {{SLV}}
+|subdivision_type1      = [[Salavdoras departamenti|Departaments]]
+|subdivision_name1      = [[Sanmigelas departamanets (Salvadora)|Sanmigelas departamanets]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mērs
+|leader_name            = Migels Pereira
+|established_title      = Dibināta
+|established_date       = 1530
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = 593.98
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+<!-- Population   ----------------------->
+|population_as_of               =2017
+|population_footnotes           =
+|population_note                =
+|population_total              = 581410
+|population_density_km2         =auto
+|population_metro               =
+|population_density_metro_km2   =
+|<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         =  
+| latd = 13
+| latm = 28
+| lats = 53
+| latNS = N
+| longd = 88
+| longm = 10
+| longs = 39
+| longEW = W
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =129
+<!-- Area/postal codes & others -------->
+| postal_code_type      = Pasta indekss
+| postal_code           = CP 3301
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = {{URL|http://www.sanmiguel.gob.sv}}
+|footnotes              = 
+}}
+
+'''Sanmigela''' ({{val|es|San Miguel}}) ir trešā lielākā pilsēta [[Salvadora|Salvadorā]].
+
+{{Ģeogrāfija-aizmetnis}}
+{{Īss aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Salvadoras pilsētas]]

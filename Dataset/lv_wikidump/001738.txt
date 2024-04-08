@@ -1,0 +1,66 @@
+{{Apdzīvotas vietas infokaste
+| name = Ķelme
+| official_name = ''Kelmė''
+| settlement_type = pilsēta
+| image_skyline =Kelme manor.jpg
+| imagesize = 
+| image_caption = Ķelmes muižas pils
+| image_flag = Flag of Kelme.gif
+| image_shield = Kelmes-herbas.svg
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Ķelmes rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1947
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 1006
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 55
+| latm = 37 
+| lats = 40 
+| latNS = N 
+| longd = 22 
+| longm = 56 
+| longs = 00
+| longEW = E
+| elevation_m = 74
+| website = {{url|http://www.kelme.lt/}}
+}}
+'''Ķelme''' ({{val-lt|Kelmė}}) ir pilsēta un [[Ķelmes rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s rietumos, 45 kilometrus uz dienvidrietumiem no [[Šauļi]]em. Pilsētai ir seņūnijas statuss. Austrumos un dienvidos no pilsētas līkumo [[Kražante]]s, bet otrā pilsētas pusē tek [[Vilbēna]]s upe. Ķelmē atrodas 1908. gadā celtā Sv. Jaunavas Marijas debesbraukšanas baznīca, Ķelmes evaņģēliski luteriskā baznīca, Ķelmes reformātu baznīca, kultūras nams, pasta nodaļa (LT-86001), Ķelmes muižas pils (arhitektūras un vēstures piemineklis) un novada muzejs, rajona slimnīca. Ziemeļos atrodas Ķelmes sils, austrumos — ģimenes dārziņi, pilsētas rietumu nomalē ir [[Šauļi|Šauļu]] — [[Sovetska (Kaļiņingradas apgabals)|Sovetskas]] šoseja.
+
+Rakstos pirmoreiz minēta 1484. gadā. [[Otrais pasaules karš|Otrā pasaules kara]] laikā 1944. gada 15 augustā pie Ķelmes sākās Vācijas armijas pretuzbrukums (''Unternehmen Doppelkopf'') PSRS spēkiem, kura rezultātā [[Sarkanā armija]] tika atspiesta no [[Rīgas līcis|Rīgas līča]] piekrastes pie [[Tukums|Tukuma]].
+
+== Sadraudzības pilsētas ==
+
+* {{flaga|Polija}} [[Bilgoraja]], [[Polija]]
+* {{flaga|Vācija}} [[Līnene]], [[Vācija]]
+
+== Sports ==
+* [[KK Kelmė]] — [[basketbols|basketbola]] klubs.
+* [[FK Kražantė Kelmė|KFK Kražantė]] — bijušis [[basketbols|basketbola]] un [[futbols|futbola]] klubs (1994–2006).
+* [[Kelmės FK]] — pilsētas [[futbols|futbola]] klubs.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Lietuva-aizmetnis}}
+
+{{Lietuvas pilsētas}}
+{{autoritatīvā vadība}}
+
+
+[[Kategorija:Lietuvas pilsētas]]

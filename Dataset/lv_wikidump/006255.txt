@@ -1,0 +1,71 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Krajova
+  | official_name            = ''Craiova''
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = 
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_seal               = 
+  | pushpin_map              = Rumānija
+  | pushpin_label_position   = 
+  | latd  =  44 | latm  = 20  | lats  =   | latNS  = N
+  | longd = 23  | longm =  49 | longs =   | longEW = E
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Rumānija}}'''
+  | subdivision_type1        = Žudecs
+  | subdivision_name1        = [[Dolžas žudecs]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 81.41
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 100
+  | population_footnotes     = <ref name="INSSER">{{cite web |url=http://www.recensamantromania.ro/wp-content/uploads/2013/07/sR_TAB_3.xlsx |title=Population at 20 October 2011 |date=5 July 2013 |accessdate=5 July 2013 |publisher=[[National Institute of Statistics (Romania)|INSSE]] |language=Romanian |archive-date={{dat|2018|12|26||bez}} |archive-url=https://web.archive.org/web/20181226001748/http://www.recensamantromania.ro/wp-content/uploads/2013/07/sR_TAB_3.xlsx }}</ref>
+  | population_total         = 269506
+  | population_as_of         = {{dat|2011|||SK|bez}}
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = 
+  | utc_offset               = 
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = {{url|https://www.primariacraiova.ro/en}}
+  | footnotes                = 
+}}
+
+'''Krajova''' ({{val|ro|Craiova}}) ir pilsēta [[Rumānija]]s dienvidos [[Oltēnija]]s apgabalā pie [[Žiu]] upes apmēram pusceļā starp [[Karpati|Dienvidkarpatiem]] un [[Donava|Donavu]]. [[Dolžas žudecs|Dolžas žudeca]] centrs. Vēsturiskā Oltēnijas gavaspilsēta.
+
+== Vēsture ==
+
+Pirms Krajovas šajā vietā atradās [[daki|daku]] un [[Senā Roma|romiešu]] pilsēta Pelendava (''Pelendava'').
+
+Viduslaikos Krajova bija [[Oltēnija]]s galvaspilsēta un vietējo [[bans|banu]] rezidence. 1395. gadā šeit, iespējams, notika [[Rovines kauja]] starp rumāņu un [[Osmaņu impērija|osmaņu]] karaspeku.
+
+Pēc 1718. gadā, kad Oltēniju ieņēma [[Hābsburgu impērija]], Krajovas nozīme mazinājās. 1761. gadā, [[Konstatīns Mavrokordāts|Konstantīna Mavrokordāta]] valdīšanas laikā, bana rezidence tika pārcelta uz [[Bukareste|Bukaresti]]. 1800. gadā pilsētu izpostīja [[Osmans Pazvantoglu]].
+
+[[1821. gada Valahijas sacelšanās]] laikā Krajova un tās apkārtne bija viena no galvenajiem sacelšanās centriem.
+
+== Cilvēki ==
+
+Krajovā dzimuši:
+
+* [[Mihajs Drosmīgais]] (''Mihai Viteazul'', 1558—1601) — Valahijas princis
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Rumānijas pilsētas]]

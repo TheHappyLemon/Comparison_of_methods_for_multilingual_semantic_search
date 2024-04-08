@@ -1,0 +1,238 @@
+[[Attēls:Mobile phone evolution.jpg|thumb|upright|Mobilo tālruņu attīstība līdz agrīnajiem [[viedtālrunis|viedtālruņiem]]]]
+
+'''Mobilais telefons''' jeb '''mobilais tālrunis''' ir [[bezvadu]] ierīce [[balss]] un [[dati|datu]] pārraidei lielos attālumos. Tas ir viens no bezvadu [[telefons|telefonu]] veidiem. Tas balstās uz sakariem starp telefonu un bāzes staciju, kas savstarpēji atrodas samērā tuvu (GSM ne tālāk par 35 km). Lai nodrošinātu sakarus plašākā teritorijā, lieto vairākas bāzes stacijas, kas nodrošina pārklājumu savā apkārtnē.
+
+== Vēsture ==
+[[Attēls:DynaTAC8000X.jpg|thumb|150px|''[[Motorola]] DynaTAC 8000X'' (''[[Advanced Mobile Phone System|AMPS]]'' sistēmai) — pirmais mobilais telefons, kuru apstiprināja [[Amerikas Savienotās Valstis|ASV]] Federālā sakaru komisija.]]
+
+Pasaulē mobilie telefonsakari ir pazīstami kopš 20. gs. 80. gadu vidus.
+
+[[Latvija|Latvijā]] mobilo sakaru ēra sākās 1992. gadā, kad Latvijas teritorijā sāka darboties pirmais šāda veida pakalpojumu sniedzējs [[LMT|Latvijas mobilais telefons]]. Tajā laikā bija pieejami sakari 1G [[NMT]] standartā, kas darbojās 450 MHz frekvencē. Šis tīkls tika atslēgts 2002. gada beigās. 1995. gadā LMT ieviesa GSM. 1997. gadā sāka darboties otrs mobilo sakaru operators — Baltkom GSM, kas jau no sākuma darbojās GSM standartā.
+
+2008. gada februārī Latvijā ir 4 mobilo sakaru operatori, no kuriem 3 (LMT, Tele2 un Bite) darbojas GSM (900 MHz un 1800 MHz) un UMTS (2100 MHz) standartā un 1 (Triatel) darbojas CDMA-2000 (450 MHz) standartā.
+
+== Darbības princips ==
+Mobilais telefons darbojas pēc bāzes stacija-klients principa. Mobilo sakaru operators noteiktā teritorijā uzstāda vairākas bāzes stacijas, pie kurām pieslēdzas klientu mobilie telefoni. Klientam pārvietojoties, mobilais telefons automātiski pārslēdzas starp bāzes stacijām. Komunikācijas starp bāzes staciju (torni) un telefonu var būt analogas vai digitālas. Visi mūsdienu mobilo telefonu standarti lieto ciparu sakarus.
+
+Populārākais mobilo telefonu standarts pasaulē (un Latvijā) ir [[GSM]], tas ir bāzēts uz [[TDMA]] tehnoloģiju. Vēl eksistē arī [[CDMA]] bāzēti standarti (to ir daudz), tos bieži vien sauc par CDMA. Analogajām mobilo telefonu sistēmām lietoja [[FDMA]] tehnoloģiju, jo TDMA tur izveidot ir problemātiski, bet CDMA — neiespējami. Analogās mobilo telefonu sistēmas klasificē kā 1. paaudzes sistēmas (1G), digitālās TDMA, lielākoties kā 2. paaudzes (2G), digitālās CDMA bāzētās sistēmas ir gan 2G, gan arī 3. paaudzes (3G), lai arī ne visas CDMA sistēmas ir 3G.
+
+Mobilo telefonu ''radiolinku'' (starp telefonu un bāzes staciju) datu caurlaidība (''bandwidth'') ir ievērojami mazāka kā fiksētajiem telefoniem, tāpēc te lieto skaņas signāla kompresiju. Tam vajag ievērojamus (relatīvi, salīdzinot ar fiksētajiem telefoniem) procesora resursus un tas samazina skaņas kvalitāti. Parasti šeit lietotie [[kodeks|kodeki]] atmet daļu no pārsūtāmās informācijas (''lossy codec''). Otrā galā šo signālu var atkompresēt vai nu bāzes stacijā, vai arī centrālē. Atkārtota pārkompresēšana samazina kvalitāti. Lai padarītu grūtāku telefonsarunu nesankcionētu noklausīšanos, caur radiolinku pārsūtītos datus (sakompresēto skaņu un citus datus), šifrē. Tas ietekmē tikai radiolinku starp telefonu un bāzes staciju, jo tālāk visu sūta nešifrētu, tāpēc tas neietekmē sankcionētu noklausīšanos, pieslēdzoties centrālei.
+
+Vienkāršotā variantā mobilo telefonu cipartīkls sastāv no:
+* Centrāles
+* Bāzes stacijām
+* Vadu vai bezvadu savienojumiem starp bāzes stacijām un centrāli
+* Mobilajiem telefoniem
+Šie pamatkomponenti ir visos mobilo telefonu cipartīklos (GSM, [[UMTS]], CDMA (CDMA-2000, IS-95)). Dažādi standarti dažus no komponentiem iedala sīkāk.
+
+=== Centrāle ===
+[[Attēls:BTS naklo slaskie 04052007 01.jpg|right|250px|thumb|Bāzes stacija. Raidītāji un uztvērēji ir baltajā būdā pa kreisi no torņa, antenas ir torņa galā. Savienojumam ar centrāli lieto radiolinkus (baltās, šķīvjveida antenas).]]
+Tas būtībā ir liels dators ([[maršrutētājs]]), kas ir savienots ar visām bāzes stacijām. Tam ir pieejama informācija par visu bāzes staciju atrašanās vietu. Daudzos standartos visas komunikācijas starp diviem telefoniem iet caur centrāli. Centrāle arī autentificē lietotājus un ģenerē rēķinus (pēc zvanu ilguma). Centrālei ir arī savienojumi ar citiem telesakaru tīkliem, kurus lieto, lai attiecīgā operatora klienti varētu piezvanīt uz (un saņemt zvanus no) citiem mobilo telefonu un fiksēto telefonu tīkliem. Te ir arī savienojums ar internetu, kuru lieto, lai nodrošinātu mobilo internetu.
+
+=== Bāzes stacijas ===
+Tās ir vairāk vai mazāk vienmērīgi izkliedētas tīkla pārklājuma teritorijā. Tās sastāv no raidītājiem, uztvērējiem, antenām un relatīvi neliela datora. Antenas parasti novieto augstu virs zemes. Lauku teritorijās tām būvē speciālus torņus (ja nav pieejami jau agrāk uzbūvēti torņi), pilsētās antenas novieto uz augstu māju jumtiem. Bāzes stacijas ir savienotas ar centrāli. Daudzos standartos caur centrāli iet pat sarunas vienas šūnas robežās. Bāzes stacijām parasti ir 3 antenas, kas šūnu sadala trijos 120° sektoros. Šādā veidā izveidojas trīs šūnas, kas ļauj palielināt tīkla ietilpību.
+
+=== Savienojumi starp bāzes stacijām un centrāli ===
+Sākotnējā variantā tie bija tādi paši, kādus lietoja, lai savienotu savā starpā parasto telefonu centrāles (T1 vai E1, atkarībā no kontinenta). Šie savienojumi ir vai nu ar vadiem, vai arī ''point-to-point'' radiolinki. Radiolinki ir diezgan populāri, tāpēc, ka nav nepieciešams vilkt vadus pašiem, vai īrēt vadus no fiksēto telesakaru operatora.
+Tomēr palielinoties nepieciešamībai pēc lieliem datu pārraides ātrumiem, un līdz ar to apjomiem, mobilie operatori cenšas bāzes stacijas savienot ar optisko kabeļu līnijām, tādējādi palielinot to caurlaides spēju.
+
+=== Mobilie telefoni ===
+Mobilie telefoni ir pārnēsājamas ierīces, kuras lieto, lai piekļūtu tīklam. Tā ir vienīgā mobilo telefonu tīkla daļa, ar kuru saskaras lietotāji. Mobilais telefons sastāv no šādām komponentēm:
+* Radio (raidītājs, uztvērējs un antena)
+* Signālu procesors (''multiple access'' funkcija (TDMA, CDMA), lai vienā frekvencē varētu darboties vairāki lietotāji, ''forward error correction'' (papildu dati, lai otrā galā varētu izlabot notiekta lieluma pārsūtīšanas kļūdas), šifrēšana, skaņas kompresija.)
+* Kodeks (analogciparu un ciparanalogu pārveidotāji skaņai), skaņas pastiprinātāji, mikrofons un skaļrunis
+* Baterija
+* Ekrāns un pogas
+* Centrālais procesors (lietotāja saskarne ekrānam un pogām, signālu procesora vadība, arī telefona savienojums ar datoru)
+Centrālo procesoru dažreiz apvieno ar signālu procesoru, lai samazinātu telefona aparāta izgatavošanas izmaksas.
+
+== Iespējas ==
+Ar pirmajiem mobilajiem telefoniem varēja tikai piezvanīt un saņemt zvanus. Ar laiku parādījās iespēja nosūtīt un saņemt īsus teksta paziņojumus (līdzīgi kā peidžeru sistēmā). GSM tīklos tos sauc par [[īsziņa|īsziņām]] (SMS). Bez tam, ir parādījusies iespēja rādīt ienākošā zvana zvanītāja numuru. Šīs funkcijas pieejamība ir atkarīga no operatora (parasti ir pieejama).
+
+Daudzus mobilos telefonus var savienot ar datoru. Tam var lietot:
+* [[virknes pieslēgvieta]]s kabeli (dators telefonu uztver kā specifisku modemu)
+* [[USB]] kabeli, te ir iespējami vairāki varianti:
+** USB — virknes pieslēgvietas pāreja — no telefona skatupunkta neatšķiras no virknes kabeļa savienojuma, vienīgā atšķirība ir tā, ka datorā kabeli sprauž USB portā. Datora operētājsistēma šo ierīci atpazīst kā vēl vienu virknes portu
+** USB mass storage — ļauj piekļūt telefona atmiņai kā [[USB zibatmiņa|USB flash diskam]]. Šī metode ļauj ļoti ērti pārkopēt failus uz/no telefonu, bet te nav nekādu citu iespēju. Laikā, kad ir pievienots USB mass storage, telefons tiem datiem klāt netiek.
+** USB MTP (media transfer protocol) — attāli līdzīga funkcionalitāte kā USB mass storage, var piekļūt failiem, bet nenodrošina tiešu piekļuvi failsistēmas struktūrām. Šis aizvietoja USB mass storage Android telefoniem sākot ar kādu 4 versiju.
+** USB RNDIS (remote NDIS) — izveido datortīklu starp datoru un telefonu, pamatā paredzēts lai datoru caurs telefonu pieslēgtu internetam, bet var lietot arī lai piekļūtu telefonā esošajiem datiem. Šo lieto Android, kopš tur parādījās ''USB tethering''.
+** Kāds cits USB (''USB native''). Nepieciešami specifiski ierīces draiveri. Parasti daļa no tiem nodrošina virknes saskarnes emulāciju.
+* [[Infrasarkanā pieslēgvieta|Infrasarkano pieslēgvietu]] (IR). Te arī ir divas iespējas
+** Virknes pieslēgvietas emulācija (IrDA IrCOMM) — tādas pašas iespējas, kā ar virknes pieslēgvietas kabeli, tikai nav vajadzīgi vadi (bet vajag tiešu redzamību)
+** IrDA — plašāks protokolu atbalsts, no kuriem nozīmīgākais ir IrOBEX ([[OBEX]] caur infrasarkano savienojumu)(objektu (failu un ziņojumu) pārsūtīšanai)
+* ''[[Bluetooth]]'' — šeit parasti ir pieejami vairāki protokoli, no kuriem izplatītākie ir virknes pieslēgvietas emulācija un OBEX. Jaunākajiem aparātiem mēndz nebūt virknes pieslēgvietas emulācijas bet ir BT-PAN (personal area network). BT-PAN izveido datortīklu starp datoru un telefonu, paredzēts lai datoru pieslēgtu pie interneta caur telefonu, bet var lietot arī lai piekļūtu telefonā esošajiem datiem. Iespējami arī citi protokoli.
+
+Šo savienojumu var lietot vai nu lai pārkopētu informāciju uz/no telefonu ([[īsziņa]]s, telefonu kataloga ierakstus, failus), vai arī lai lietotu telefonu kā modemu datu pārraidei. [[īsziņa|Īsziņām]] un telefonu grāmatai (un vēl dažiem datiem) daudzos telefonos var piekļūt, izmantojot modificētas AT komandas. GSM standartam šī komandu kopa ir standartizēta, taču daudzos telefonos tā ir ieviesta nepilnīgi ''(Nokia)''. AT komandas lieto arī modema vadībai, datu pārraidei. Failu pārsūtīšanai parasti lieto vai nu OBEX protokolu, vai arī kādu ražotāja specifisku protokolu, kas parasti ir līdzīgs OBEX.
+
+Infrasarkano savienojumu un Bluetooth var lietot arī lai pārsūtītu nelielu daudzumu datu starp diviem vienu tehnoloģiju atbalstošiem telefoniem. To bija paredzēts lietot telefonu numuru pārsūtīšanai (lai, iedodot kādam telefona numuru, tas nebūtu jāpārraksta ar roku), bet to var lietot arī failu pārsūtīšanai. Šī iespēja gandrīz vienmēr bāzējas uz OBEX protokolu.
+
+=== Datu pārraide ===
+* Analogajiem, 1G ([[NMT]]) telefoniem varēja pieslēgt ārēju [[modems|modemu]]. Ātrumi bija mazāki nekā parastajai telefona līnijai. Digitālajiem 2G telefoniem modems jau ir iebūvēts. Atkarībā no konstrukcijas, dažādiem telefoniem modemam var pieslēgties no ārienes un telefonu izmantot kā modemu. Ja no ārpuses elektriski pieslēgties nevar, tad var lietot akustisko modemu, bet šādā veidā var sasniegt tikai ļoti mazus ātrumus, jo ir zudumi akustiskās pārveidošanas procesā un balss kodeks nav piemērots analogā modema signālu pārraidei.
+* 2G ([[GSM]]) mobilo telefonu tīklos sākumā vienīgā datu pārraides metode bija līdzīga balss savienojumam, ar ātrumu 9600 biti/sek. Vēlāk tika ieviesta metode, kas bija analoga vairākiem vienlaicīgiem balss savienojumiem [[HSCSD]] (High-Speed Circuit-Switched Data). HSCSD ir lielāka datu caurlaidība, bet lielāka tīkla un radio resursu noslodze. Gan GSM gan HSCSD ir vienāda datu caurlaidība abos virzienos [[augšupsaitē]] un [[lejupsaitē]], kā arī katrs lietotājs aizņem tīkla un radio resursus, neatkarīgi no tā vai pārsūta datus, vai nē. Vēl vēlāk tika ieviesta pakešu datu pārraide. No [[TDMA]] standartiem, pirmajā to ieviesa GSM un nosauca par [[GPRS]]. Pēc tam to piemēroja citiem TDMA standartiem. Parasti datu pārraides ātrums lejupsaitē ir lielāks nekā augšupsaitē, jo parasti lejupsaitē ir lielāka datu plūsma (lejupielāde, interneta pārlūkošana).
+GPRS ar [[Enhanced Data Rates for GSM Evolution|EDGE]] modulāciju labos radio apstākļos var sasniegt 280kb/sek.
+* 3G [[UMTS]] tīklam standarta lejupsaites ātrums ir 380 kb/sek., bet izmantojot [[HSDPA]] sasniedz 12Mb/sek.
+* 4G [[LTE]] tīklā mobilā stacija lejupsaitē var sasniegt 100 Mb/sek lejupielādes ātrumu un 50 Mb/sek augšupsaitē.
+Datu pārraidi lieto vai nu telefonu pieslēdzot pie datora, vai arī pašā telefonā. Telefonā datus izmanto [[MMS]] ''(multimedia messaging service)'' un daudzas no [[viedtālrunis|viedtālruņu]] iespējām.
+Ir arī īpaši, tikai datiem paredzēti mobilie telefoni, izveidoti kā datora [[USB]] iespraužami moduļi.
+
+== Visvairāk pārdoto mobilo telefonu saraksts ==
+{{novec}}
+{{Col-begin|width=70%}}
+{{Col-2}}
+
+=== Pēc mobilā telefona modeļiem ===
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+|-
+|'''#'''
+|'''Ražotājs'''
+|'''Modelis'''
+|'''Gads'''
+|'''Skaits'''
+|-
+|1.
+|[[Nokia]]
+|1100
+|[[2003. gads|2003]]
+|250 miljoni
+|-
+|2.
+|[[Nokia]]
+|1200
+|[[2007. gads|2007]]
+|150 miljoni
+|-
+|3.
+|[[Nokia]]
+|1110
+|[[2005. gads|2005]]
+|150 miljoni
+|-
+|4.
+|[[Nokia]]
+|3200
+|[[1999]]
+|150 miljoni
+|-
+|5.
+|[[Nokia]]
+|2600/2610/2626/2630
+|[[2004. gads|2004]]
+|135 miljoni
+|-
+|6.
+|[[Nokia]]
+|1600/1650/1661
+|[[2006. gads|2006]]
+|130 miljoni
+|-
+|7.
+|[[Motorola]]
+|RAZR V3
+|[[2004. gads|2004]]
+|130 miljoni
+|-
+|8.
+|[[Nokia]]
+|[[Nokia 3310|3310]]
+|[[2000. gads|2000]]
+|126 miljoni
+|-
+|9.
+|[[Nokia]]
+|1208/1209
+|[[2007. gads|2007]]
+|100 miljoni
+|-
+|10.
+|[[Nokia]]
+|6010/6020/6030
+|[[2004. gads|2004]]
+|75 miljoni
+|}
+''Avots: Live Mag''
+
+{{Col-2}}
+
+=== Pēc mobilā telefona ražotājiem ===
+{| class="wikitable" style="margin: 1em 1em 1em 0; font-size: 95%;"
+|-
+|'''Ražotājs'''
+|'''Modelis'''
+|'''Gads'''
+|'''Skaits'''
+|-
+|''[[Nokia]]''
+|1100
+|[[2003. gads|2003]]
+|250 miljoni
+|-
+|''[[Motorola]]''
+|RAZR V3
+|[[2004. gads|2004]]
+|130 miljoni
+|-
+|''[[Samsung Electronics|Samsung]]''
+|''S8300 Tocco Ultra''
+|[[2009. gads|2009]]
+|12 miljoni
+|-
+|''[[Sony Ericsson]]''
+|K310<br />W810
+|[[2006. gads|2006]]
+|15 miljoni
+|-
+|''[[LG Electronics|LG]]''
+|''Chocolate''
+|[[2009. gads|2009]]
+|15 miljoni
+|-
+|''[[Apple Inc.|Apple]]''
+|''iPhone 3GS''
+|[[2009. gads|2009]]
+|35 miljoni
+|-
+|''[[Siemens]]''
+|M30/M35i<br />A50
+|[[2000. gads|2000]]<br />[[2002]]
+|15 miljoni
+|-
+|''[[BenQ-Siemens]]''
+|S68
+|[[2006. gads|2006]]
+|15 miljoni
+|-
+|''[[Research in Motion|RIM]]''
+|''BlackBerry Pearl 8100''
+|[[2006. gads|2006]]
+|15 miljoni
+|-
+|''[[Alcatel]]''
+|''One Touch Mini 708''
+|[[2009. gads|2009]]
+|5 miljoni
+|-
+|''[[Palm]]''
+|''Centro''
+|[[2007. gads|2007]]
+|2 miljoni
+|-
+|''[[HTC]]''
+|''Touch''
+|[[2007. gads|2007]]
+|2 miljoni
+|}
+''Avots: Live Mag''
+{{Col-end}}
+
+== Skatīt arī ==
+* [[Viedtālrunis]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mobilie sakari]]
+[[Kategorija:Tehnika]]
+[[Kategorija:Mobilie telefoni]]

@@ -1,0 +1,98 @@
+{{Latvijas novada infokaste
+| nosaukums         = Drustu pagasts
+| karte             = Drustu_pagasts_LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Drustu pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Drustu pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Smiltenes novads
+| centrs            = Drusti
+| platība           = 156,7
+| iedzīvotāji       = 854<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf Latvijas iedzīvotāju skaits pašvaldībās 01.01.2016</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 854 / 156.7 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.rauna.lv
+}}
+'''Drustu pagasts''' ir [[Smiltenes novads|Smiltenes novada]] teritoriāla vienība. Pagasta centrs atrodas [[Drusti|Drustos]]. Robežojas ar sava novada [[Launkalnes pagasts|Launkalnes]] un [[Variņu pagasts|Variņu]] pagastiem, [[Gulbenes novads|Gulbenes novada]] [[Rankas pagasts|Rankas pagastu]], [[Cēsu novads|Cēsu novada]] [[Jaunpiebalgas pagasts|Jaunpiebalgas]], [[Zosēnu pagasts|Zosēnu]] un [[Dzērbenes pagasts|Dzērbenes]] pagastiem.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Dzestrene]], [[Gauja]], [[Naucupīte]], [[Palsa]], [[Pērļupe (Raunas novads)|Pērļupe]], [[Stādiņupīte]], [[Ubeja (upe)|Ubeja]].
+
+==== Ezeri ====
+Pagasta teritorijā ir 22 ezeri un 25 ūdenskrātuves ar platību lielāku par 1 ha.
+
+[[Aldaru ezers]], [[Auļukalna ezers]], [[Brengūzis (Drustu pagasts)|Brengūzis]], [[Draudzesskolas ezers]], [[Duniju ezers]], [[Dūķis (ezers)|Dūķis]], [[Jaundrustu ezers]], [[Jēcu ezers]], [[Kreiļu ezers]], [[Krogus ezers]], [[Līnaizis]], [[Naucu ezers]], [[Nesaules ezers]], [[Papalsis]], [[Raudu ezers]], [[Seisums]], [[Slepkavu ezers]], [[Stādiņu ezers]], [[Tabiņu ezers]], [[Valdieris]] un [[Vieslavēnu ezers]].
+
+==== Ūdenstilpes ====
+[[Bumberģa dīķis]], [[Glāznieku dīķi]], [[Lībiešu dīķis]], [[Tulču dīķis]].
+
+== Vēsture ==
+[[Attēls:Dzērbenes—Drustu draudzes novads 1798.jpg|thumb|250px|Dzērbenes—Drustu draudzes novads (1798).]]
+Drusti pirmoreiz minēti 13. gadsimtā. 1262. gadā tie kļūst par [[Alberts II (Rīga)|bīskapa Alberta]] īpašumu. [[Dzērbenes—Drustu draudzes novads]] bija viens no 16 [[Vidzemes guberņa]]s [[Cēsu apriņķis|Cēsu apriņķa]] [[draudzes novadi]]em.
+1935. gadā pagasta platība bija 120 km² un tajā bija 1521 iedzīvotājs.<ref>V.Salnais, A. Maldups. Pagastu apraksti (Pēc 1935. gada tautas skaitīšanas materiāliem). Valsts statistikas pārvalde. Rīga: 1935.</ref>
+1945. gadā pagastā izveidoja Drustu un [[Pērļupes ciems|Pērļupes]] [[ciema padome]]s. 1951. gadā Drustu ciemam pievienoja daļu Pērļupes ciema, 1956. gadā [[Launkalnes ciems (1949-1956)|Launkalnes ciemu]], 1975. gadā [[Gatartas ciems|Gatartas ciemu]]. 1990. gadā Drustu ciems pārdēvēts par pagastu.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 2009. gadā Drustu pagasts apvienots ar Raunas pagastu izveidojot [[Raunas novads|Raunas novadu]]. 2021. gadā Raunas novadu iekļāva [[Smiltenes novads|Smiltenes novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2250
+|1959|1786
+|1965|1620
+|1979|1372
+|1989|1247
+|2000|1221
+|2011|941
+|2021|752
+}}
+
+=== Apdzīvotās vietas ===
+
+Apdzīvotās vietas: [[Auļukalns]], [[Baižas]], [[Briņģi (Drustu pagasts)|Briņģi]], '''[[Drusti]]''', [[Dūķi]], [[Gatarta]], [[Jaundrusti]], [[Mīlakšas]], [[Skripsti]], [[Tulči]], [[Vāgāni]].
+
+=== Ievērojamas personības ===
+* [[Augusts Briedis]] (1877—1937), latviešu žurnālists un politiķis.
+* [[Jānis Barons]] (1898—1944), latviešu karavīrs, nacionālais partizāns.
+* [[Jānis Burdajs]] (1909—1941), latviešu dzejnieks.
+* [[Kārlis Barons (daiļdārznieks)|Kārlis Barons]] (1912—1996), latviešu daiļdārznieks un ainavu arhitekts.
+* [[Heinrihs Hāgemeisters]] (1784—1845), vācbaltiešu jurists un politiķis. Iestājās par latviešu tautskolu un [[Vidzemes skolotāju seminārs|Vidzemes skolotāju semināra]] dibināšanu.
+* [[Ludvigs fon Hāgemeisters]] (1780—1833), vācbaltiešu jūrnieks, Aļaskas gubernators
+* [[Pēteris Bērziņš]] (1882—1954), latviešu publicists un vēsturnieks.
+
+<gallery>
+Bm05057am.jpg|Hāgemeistera izveidotais [[Žans Žaks Ruso|Ruso]] (1712—1778) piemineklis uz ezera saliņas ([[Broce]], 1791)
+</gallery>
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Smiltenes novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Raunas novads}}
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Smiltenes novada pagasti]]
+[[Kategorija:Drustu pagasts| ]]

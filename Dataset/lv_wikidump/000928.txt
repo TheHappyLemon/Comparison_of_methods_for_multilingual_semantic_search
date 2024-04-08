@@ -1,0 +1,119 @@
+{{cita nozīme|štatu|upi|Kolorādo (upe)}}
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Kolorādo
+| official_name           = ''Colorado''
+| other_name              = 
+| settlement_type         = ASV štats
+| image_skyline           = Mesa verde cliff palace close.jpg
+| imagesize               = 235px
+| image_caption           = Indiāņu senpilsēta [[Mesavērdas nacionālais parks|Mesavērdas nacionālajā parkā]]
+| image_flag              = Flag of Colorado.svg
+| flag_size               = 130px
+| image_seal              = Seal of Colorado.svg
+| seal_size               = 90px
+| nickname                = ''The Centennial State''
+| motto                   = ''Nil sine numine''
+| anthem                  = 
+| capital                 = [[Denvera]]
+| largest_city            = 
+| official_language       = [[angļu valoda]]
+| spoken_language         = 
+| image_map               = Colorado in United States.svg
+| mapsize                 = 235px
+| map_caption             = Kolorādo atrašanās vieta ASV
+| subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+| leader_party            = 
+| leader_title            = Gubernators
+| leader_name             = [[Džareds Polis]] (''Jared Polis'')
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 269837
+| area_land_km2           = 268866
+| area_water_km2          = 971
+| area_water_percent      = 0,36
+| area_rank               = 
+| elevation_min_m         = 
+| population_footnotes    = 
+| population_total        = 5773714
+| population_as_of        = 2020. gadā
+| population_rank         = 
+| population_density_km2  = auto
+| population_blank1_title = Rasu sastāvs
+| population_blank1       = baltie - 91,91%<br />melnie - 4,74%
+| population_blank2_title = Reliģijas
+| population_blank2       = [[protestanti]] - 31%<br />[[katoļi]] - 23%<br />nereliģiozi - 21%
+| elevation_max_m         = [[Elberta kalns]], 4401
+| timezone                = MST
+| utc_offset              = -7
+| timezone_DST            = MDT
+| utc_offset_DST          = -6
+| website                 = [http://www.colorado.gov/ www.colorado.gov]
+| footnotes               = 
+}}
+
+'''Kolorādo''' ({{val|en|Colorado}}, izrunā: {{IPA|[[IPA|[kɒləˈrædoʊ]]]}} vai {{IPA|[kɒləˈrɑːdoʊ]}}) ir viens no [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] 50 [[ASV štats|štatiem]], atrodas rietumu reģionā. Kolorādo administratīvais centrs ir [[Denvera]]. Kopš {{dat|2019|1|8|Ģ|bez}} štata gubernators ir [[Džareds Polis]] (''Jared Polis'').
+
+Kolorādo robežojas ar [[Jūta]]s, [[Kanzasa]]s, [[Nebraska]]s, [[Ņūmeksika]]s, [[Oklahoma]]s un [[Vaiominga]]s štatu.
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=https://www.biggestuscities.com/co|title=Biggest Cities in Colorado {{!}} 2020 Population Data|website=www.biggestuscities.com|access-date=2022-03-16}}</ref>
+|-
+|1
+|[[Denvera]]
+|715 522
+|-
+|2
+|[[Kolorādospringsa]]
+|478 961
+|-
+|3
+|[[Aurora (Kolorādo)|Aurora]]
+|386 261
+|-
+|4
+|[[Fortkolinsa]]
+|169 810
+|-
+|5
+|[[Leikvuda]]
+|155 984
+|-
+|6
+|[[Torntona (Kolorādo)|Torntona]]
+|141 867
+|-
+|7
+|[[Arvada]]
+|124 402
+|-
+|8
+|[[Vestminstera (Kolorādo)|Vestminstera]]
+|116 317
+|-
+|9
+|[[Pueblo]]
+|111 876
+|-
+|10
+|[[Grīleja]]
+|108 418
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kolorādo| ]]

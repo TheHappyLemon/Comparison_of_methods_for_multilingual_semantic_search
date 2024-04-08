@@ -1,0 +1,45 @@
+{{Karaliskas personas infokaste 
+| vārds               =Oto
+| vārds_orģ           = ''Όθων''
+| attēls              =Bayern-otto.jpg
+| amats               =[[Grieķijas karalis]]
+| term_sākums         =	{{dat|1832|5|27|N}}
+| term_beigas         = {{dat|1862|10|23|N}}
+| priekštecis         =
+| pēctecis            =[[Georgs I (Grieķija)|Georgs I]]
+| dzim_dati           = {{dat|1815|6|1}}
+| dzim_vieta          =[[Zalcburga]], [[Austrijas impērija]]<br>({{AUT}})
+| dzīves_vieta        =
+| mir_dati            ={{miršanas datums un vecums|1867|7|26|1815|6|1}}
+| mir_vieta           =[[Bamberga]], [[Bavārijas karaliste]]<br>([[Bavārija]], {{GER}})
+| tēvs                =[[Ludvigs I]]
+| māte                =[[Saksijas-Hildburghauzenes Terēze]]
+| dinastija           =[[Vitelsbahu dinastija]]
+| dzīvesb             =[[Oldenburgas Amālija]]
+| bērni               =
+| reliģija            =[[katoļticība]]
+| apglabāts           =Teatīnu baznīca (''Theatinerkirche St. Kajetan''), [[Minhene]], {{GER}}
+| paraksts            =
+| piezīmes            =
+}}
+
+'''Oto''' ({{val|el|Όθων}}, dzimis {{dat|1815|6|1}}, miris {{dat|1867|7|26}}) bija pirmais neatkarīgās [[Grieķijas Karaliste]]s karalis (1832—1862).
+
+== Dzīvesgājums ==
+Dzimis 1815. gadā Zalcburgā, [[Bavārija]]s karaļa [[Ludvigs I|Ludviga I]] no [[Vitelsbahi|Vitelsbahu]] dinastijas dēls.
+
+Valdīja ar savu Bavārijas padomnieku palīdzību, ietekmējoties no lielvarām ([[Lielbritānija]]s, [[Francija]]s, [[Krievija]]s), tāpēc tautā nebija populārs. 1843. gada 3. septembrī tika piespiests izdot konstitūciju. 1862. gadā puča rezultātā gāzts, miris [[Vācija|Vācijā]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{biogrāfija-aizmetnis}}
+{{Grieķija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:1815. gadā dzimušie]]
+[[Kategorija:1867. gadā mirušie]]
+[[Kategorija:Grieķijas karaļi]]
+[[Kategorija:Vitelsbahu dinastija]]
+[[Kategorija:Zalcburgas zemē dzimušie]]

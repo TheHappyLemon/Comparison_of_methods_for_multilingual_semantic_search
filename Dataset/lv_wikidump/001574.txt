@@ -1,0 +1,223 @@
+{{Cita nozīme|pilsētu|dzelzceļa staciju|Cēsis (stacija)}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Cēsis
+ | native_name              = 
+ | settlement_type          = Novada pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Cesis Burg.jpg
+ | imagesize                = 
+ | image_caption            = Cēsu pilsdrupas
+ | image_flag               = Cesis flag.svg
+ | flag_link                = Cēsu karogs
+ | image_shield             = Cesis COA.svg
+ | shield_link              = Cēsu ģerbonis
+ | pushpin_map              = Latvija
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 57 | latm  = 18 | lats  = 45| latNS  = N
+ | longd = 25 | longm = 16 | longs = 31| longEW = E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Latvija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Cēsu novads]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Pilsētas tiesības
+ | established_date         = kopš 1323. gada<ref>Pilsētas tiesības iespējams piešķirtas 1224. gadā; 1226. gadā dokumentos minēts Cēsu rātskungs, taču tikai 1323. gadā Cēsis minētas kā pilsēta, skat.: Cēsu hronika. Kultūras biedrība Harmonija. Cēsis. 2006. {{ISBN|9984984028}}. 20.lpp. un 25.lpp.</ref>
+ | established_title2       = 
+ | established_date2        = 
+ | seat_type                = Citi<br />nosaukumi
+ | seat                     = {{val|et|Võnnu}}<br />{{val|liv|Venden}}<br />{{val|pl|Kieś}}<br />{{val|de|Wenden}}
+ | area_total_km2           = 19.3
+ | population_footnotes     = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+ | population_total         = {{iedzsk|dati|Cēsis}}
+ | population_as_of         = {{iedzsk|dat}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_demonym       = cēsnieks<ref name="cēsnieki">{{Grāmatas atsauce|last=Vallija Dambe|first=|title=Latvijas apdzīvoto vietu un to iedzīvotāju nosaukumi|year=1990|publisher=Zinātne|isbn=5796602640|page=32}}</ref>
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = LV-41(01-03)
+ | area_code                = <small>(+371)</small> 641
+ | website                  = {{URL|www.cesis.lv}}
+ | footnotes                = 
+}}
+'''Cēsis''' ir [[pilsēta]] [[Latvija|Latvijā]], [[Vidzemes augstiene]]s ziemeļu daļā, [[Cēsu novads|Cēsu novada]] administratīvais centrs. Cēsis atrodas 90&nbsp;km no [[Rīga]]s. Gar pilsētu plūst [[Gauja|Gaujas upe]]. Cēsis ir viena no vecākajām pilsētām Latvijā, [[Hanzas savienība]]s pilsēta un viena no [[Livonijas ordenis|Livonijas ordeņa]] mestru rezidencēm (1237—1561). Cēsis ir [[Latvijas karogs|Latvijas karoga]] dzimtene.
+
+== Etimoloģija ==
+Nosaukums Cēsis, kā 1931. gadā rakstā ‘’Par Cēsu un Cesvaines vārdu’’ norādījis latviešu valodnieks [[Jānis Endzelīns]], ir sens baltu tautu vārds. Cēsu apkārtnē, Raunā, Turaidā un citās vietās Vidzemē ir sastopami līdzīgi vietvārdi.<ref name=":0">{{Grāmatas atsauce|title=Cēsis. Tūrisma ceļvedis pa Cēsīm un to apkārtni|last=Anspaks|first=A.|publisher=Latvijas Valsts izdevniecība|year=1960|location=Rīga|pages=10-11}}</ref>
+
+== Vēsture ==
+{{Pamatraksts|Cēsu vēsture}}
+
+Cēsu apkārtne bijusi apdzīvota jau kopš 8. gadu tūkstoša pirms mūsu ēras. Te dzīvojuši [[Somugri|somugru]] cilšu senči. Latviešu ciltis šeit ieradušās, domājams, 2. gadu tūkstotī pirms mūsu ēras.<ref name=":0" />
+
+Cēsis izveidojās Gaujas ielejas malā starp [[latgaļi|latgaļu]] valsts [[Tālava]]s un [[Idumeja]]s zemēm. 11. gadsimtā Cēsīs ieradās [[vendi (Livonija)|vendi]], kuri apmetās [[Riekstu kalns|Riekstu kalnā]].
+Pēc tam, kad 1206. gadā Cēsu vendi pārgāja kristīgajā ticībā, [[Zobenbrāļu ordenis]] vendu pilī izveidoja savu cietoksni karagājieniem uz igauņu zemēm.
+1237. gadā pēc zobenbrāļu sagrāves [[Saules kauja|Saules kaujā]] [[Cēsu viduslaiku pils|Cēsu pils]] kļuva par jaunizveidotā [[Livonijas ordenis|Livonijas ordeņa]] mestra rezidenci un šeit sākās plaši pils pārbūves darbi.
+
+1271. gadā dokumentā minēts, ka Cēsīm ir zīmogs ar Svētās Katrīnas attēlu. 1280. gadā [[Atskaņu hronika|Atskaņu hronikā]] minēts, ka Cēsu zemessargi Rīgas aizstāvēšanā pret [[zemgaļi]]em devušies ar [[Latvijas karogs|sarkanbaltsarkanu karogu]]. 1284. gadā tika iesvētīta [[Cēsu Svētā Jāņa evaņģēliski luteriskā baznīca|Cēsu baznīca]] kā Livonijas ordeņa Doma baznīca. 1383. gadā Cēsis jau minētas kā pilsēta, kuru aptvēra mūri ar trīs torņiem un četriem vārtiem. Arī ceļotājs [[Žilbērs de Lanuā]] 1413. gadā Cēsis aprakstīja kā lielu nocietinātu pilsētu: "No turienes [Siguldas] uz priekšu es vienmēr devos pa minēto Livonijas zemi no vienas pilsētas uz otru, pa starpām arī pa pilīm, nocietinātām vietām un komandantūrām, kas piederēja minētā ordeņa mestram, un es nonācu kādā lielā nocietinātā pilsētā, vārdā Cēsis (''une grosse ville fermée nommée Winde''), kas ir komandantūra un pils."<ref>{{Tīmekļa atsauce |url=http://www.historia.lv/alfabets/L/la/lanua/teksts/spekke.htm |title=Izvilkumi no franču bruņinieka Žilbēra de Lanuā ceļojuma apraksta par Livoniju (15. gadsimta pirmā puse). |access-date={{dat|2014|05|03||bez}} |archiveurl=https://web.archive.org/web/20131109042845/http://www.historia.lv/alfabets/L/la/lanua/teksts/spekke.htm |archivedate={{dat|2013|11|09||bez}} }}</ref>
+[[Livonijas—Maskavijas kari|Livonijas—Maskavijas karu]] laikā 1481. gadā uz Cēsu pili no Rīgas ordeņa pils tika pārvests Livonijas arhīvs, zelta, sudraba, dārglietu un citu bagātību krājumi un Cēsis atkal kļuva par pastāvīgo Livonijas ordeņa galvaspilsētu. Cēsu labklājība un uzplaukums turpinājās visu Livonijas ordeņa mestra [[Valters fon Pletenbergs|Valtera fon Pletenberga]] valdīšanas laiku — vairāk kā 40 gadus.
+
+[[Livonijas karš|Livonijas kara]] laikā 1559.—1560. gadā Krievijas cara [[Ivans IV|Ivana IV]] karaspēks nopostīja Cēsu pilsētu, bet pili neieņēma. 1577. gadā Cēsu pilī apmetās Livonijas karalis [[Magnuss (Livonijas karalis)|Magnuss]]. Lai gan Magnuss Cēsis jau bija apsolījis atdot krievu karaspēkam, pilsētas aizstāvji padoties atteicās. Nevēloties nonākt krievu rokās, Cēsu pili tās aizstāvji, skaitā ap 300, tostarp arī sievietes un bērni, paši uzspridzināja, paliekot aprakti zem tās drupām. 1578. gadā pili atkal aplenca ap 18 000 krievu un tatāru karavīru, bet šoreiz uzvaru guva pils aizstāvji. 1598. gadā Cēsis kļuva par [[Polijas—Lietuvas kopvalsts]] pārvaldītās [[Pārdaugavas Livonijas hercogiste]]s [[Cēsu vaivadija]]s galveno pilsētu.
+
+[[Poļu-zviedru karš (1600-1629)|Poļu-zviedru kara]] laikā Cēsis 1621. gadā ieņēma [[Zviedrija]]s karalis [[Gustavs II Ādolfs]].<ref>Cēsu hronika. Kultūras biedrība Harmonija. Cēsis. 2006. {{ISBN|9984984028}}. 46.lpp.</ref> [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] laikā 1703. gadā pilsētu un pili iekaroja [[Krievijas cariste|Krievijas]] karaspēks. 1748. gadā lielā ugunsgrēka laikā gāja bojā pilsētas rātsnams un lielākā daļa pilsētas. 1777. gadā [[Cēsu pilsmuiža|Cēsu pilsmuižu]] iegādājās [[Kārlis Eberhards fon Zīverss]]. 1785. gadā Cēsis kļuva par apriņķa pilsētu.
+
+[[Pirmais pasaules karš|Pirmā pasaules kara]] laikā pēc [[Brestļitovskas miera līgums|Brestļitovskas miera līguma]] noslēgšanas 1918. gada 20. februārī Cēsis ieņēma ķeizariskās Vācijas armija. 1918. gada 18. novembrī pēc Latvijas Republikas nodibināšanas pilsētā tika nodibināta [[Cēsu rota]], kas 8. decembrī kļuva par vienu no pirmajām nacionālā karaspēka vienībām. 1919. gada 6.-23. jūnijā pie Cēsīm latviešu un igauņu karaspēks sakāva uzbrūkošo vācbaltiešu landesvēru ([[Cēsu kaujas]]). 1938. gadā uzcelta [[Cēsu Valsts ģimnāzija|Cēsu Valsts Draudzīgā aicinājuma ģimnāzija]]s jaunā ēka. [[Latvijas vācu okupācijas hronoloģija 1941. gadā|1941. gada 4. jūlijā pilsētu okupēja]] [[Vērmahts]], bet [[Latvijas okupācijas hronoloģija (1944—1945)|1944. gada 26. septembrī Sarkanā armija]].
+[[Trešā atmoda|Trešās atmodas]] laikā Cēsis kļuva par vienu no neatkarības atjaunošanas kustības centriem. 1988. gadā Cēsīs tika nodibināta pirmā [[Latvijas Tautas fronte]]s nodaļa ārpus Rīgas.<ref>[http://www.diena.lv/sabiedriba/arpus-rigas-pirmo-latvijas-tautas-frontes-nodalu-nodibinaja-cesu-rajona-630680 Ārpus Rīgas pirmo Latvijas Tautas frontes nodaļu nodibināja Cēsu rajonā]</ref>
+<gallery>
+Attēls:Cesu karogs.jpg|A. Krūkas 1936. gada glezna "Cēsis —  [[Latvijas karogs|Latvijas karoga]] šūpulis 1279. gadā" 
+Attēls:Cesu_pilsdrupas_ 1793.jpg|Cēsu pilsdrupas 1793. gadā (no Broces kolekcijas)
+Attēls:Zehsis.jpg|Cēsu pilsētas panorāma pirms Pirmā pasaules kara
+Dubinska muiža Cēsīs pēc 1905.jpg|[[Dubinska muiža]] pie Rīgas ielas Cēsīs (pēc 1905)
+</gallery>
+
+== Ģeogrāfija ==
+[[Attēls:Cēsu pils parks 01.jpg|thumb|Cēsu pils parks]]
+Cēsis atrodas [[Vidzemes augstiene|Vidzemes augstienes]] ziemeļrietumu stūrī un piegulošajā [[Gaujas senieleja|Gaujas senlejas]] posmā. Pilsēta kopā ar Priekuļiem atrodas uz izvirzītas platformas, kuru Vaives un [[Āraiši|Āraišu]] pusē norobežo dziļas ielejas, Gaujas ielejas nogāzi saposmo sāngravas, un dziļas gravas iesniedzas arī pašā pilsētā.<ref name=":1" /> Pateicoties šeit izplatītajiem smilšakmeņiem, pilsēta ir bagāta ar smilšakmens atsegumiem.<ref>{{Grāmatas atsauce|title=Iepazīsti Cēsu novadu!|last=Rukšāne|first=Guna|publisher=Cēsu rajona padome|year=2001|pages=55}}</ref> Cēsis atrodas galvenokārt uz austrumiem no Gaujas ielejas, tās labajā krastā ir tikai šaura Cēsu teritorijas josla no Lenčupes ietekas līdz Raiskuma tiltam (šī daļa robežojas ar [[Raiskuma pagasts|Raiskuma pagastu]]). Cēsis ziemeļos un austrumos robežojas ar [[Priekuļu pagasts|Priekuļu pagastu]], dienvidaustrumos ar [[Vaives pagasts|Vaives]], dienvidos ar [[Drabešu pagasts|Drabešu pagastu]]. Pēc 2021. gada teritoriālās reformas atrodas [[Cēsu novads|Cēsu novadā]]. Pilsētas teritorija veido robainu četrstūri: tā garums no apvedceļa austrumos līdz Raiskumkrogam rietumos ir 6,3 km, platums (dienvidu-ziemeļu virzienā) starp Meijermuižu un Brenčiem teritorijas rietumu daļā ir 4,5 km, bet austrumu daļā — 4 km. No Cēsu centra līdz Gaujai ir apmēram 3 km.
+
+Gaujas līmenis pie Cēsīm ir 22 m vjl., bet Rožu laukums ir gandrīz 100 m vjl., apbūves dienvidu rajonā Zirņu un Zvirbuļu kalni vēl augstāki, pie dienvidu un austrumu robežām virsma sasniedz 120–125 m vjl. Cēsīs ielas ap vecpilsētu vietām ir ar slīpumu, īpaši nolaidenas ir tās, kas vērstas pret Gauju vai šķērso gravas.
+
+Cēsīm raksturīgs liels lauksaimniecisko zemju (357 ha — 8%) un mežu īpatsvars (147,5 ha — 7,7%), 42 ha zemes aizņem parki (Pils parks, Maija parks). 105 ha ir īpaši aizsargājami. Cēsis apņem lauksaimnieciski sen apgūtas zemes - Gaujas nacionālā parka neitrālā zona, pilsētas rietumu daļā ir intensīvās atpūtas zona, ziemeļos - ekstensīvās atpūtas zona un Gaujas ielejā — atpūtas ainavu liegums. Gaujas ūdeņi Cēsu robežās aizņem 26,7 ha, 5 km garu upes posmu. lelejas un sāngravu nogāzes apaugušas ar [[Egles|eglēm]], piejaukumā [[bērzi]], [[alkšņi]], [[apses]], [[lazdas]] u.c.<ref name=":1" />
+
+== Kultūrvēsturiskie pieminekļi ==
+{{Enciklopēdisks stils|Vikipēdija nav ceļvedis tūristiem}}
+* '''[[Cēsu viduslaiku pils|Ordeņa pils]]''' bija viens no stiprākajiem Zobenbrāļu, vēlāk Livonijas ordeņa cietokšņiem Baltijā un [[Livonijas ordeņa mestri|Livonijas ordeņa mestru]] rezidence, kuras celtniecība sākta 1207. gadā. Pils stipri cieta 16. un [[17. gadsimts|17. gadsimta]] karos, un pēc postījumiem [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] laikā tā vairs netika atjaunota. Pils gidi tērpušies [[16. gadsimts|16. gadsimta]] vidus pils kalpotājiem atbilstošā apģērbā.
+* '''[[Cēsu pilsmuiža|Jaunā pils]]''' uzcelta vecās ordeņpils vārtu nocietinājuma vietā [[18. gadsimts|18. gadsimta]] beigās. Sākumā tā kalpojusi kā grāfu Zīversu dzimtas dzīvojamā māja, vēlāk tajā darbojusies ūdens dziedinātava, virsnieku klubs un pēc Otrā pasaules kara te tika ierīkoti apmēram 40 dzīvokļi. Kopš 1949. gada pilī atrodas [[Cēsu Vēstures un mākslas muzejs]].
+* '''[[Cēsu Sv. Jāņa baznīca|Sv. Jāņa baznīca]]''' ir viena no vecākajām gotiskajām mūra baznīcām Latvijā. 1284. gadā iesvētīta kā Livonijas ordeņa Doma baznīca. [[Kontrreformācija]]s laikā no 1582. līdz 1621. gadam tā kļuva par katoļu bīskapa rezidenci, bet 1629. gadā tika atdota luterāņiem. Baznīca degusi 1568., 1607., 1640., 1665., 1671., 1686. 1694., 1746. un 1748. gados. 1853. gadā neogotiskā stilā tika pārbūvēts baznīcas tornis. 1907. gadā tika uzstādītas jaunas ērģeles.
+* '''Rīgas ielas apbūve''' ir 18. un [[19. gadsimts|19. gadsimta]] ielu apbūves paraugs. No viduslaikiem ir saglabājušās pilsētas vārtu paliekas (Raunas vārti) un tirgus laukuma vieta (Līvu laukums). Vērtīgākie nami ir Vecais rātsnams (Rīgas iela 7), Tirgotāja nams (Rīgas iela 16) un Harmonijas nams (Rīgas iela 24).
+[[Attēls:Skats no Vidzemes koncertzāle Cēsis jumta - panoramio (2).jpg|thumb|Skats no Vidzemes koncertzāles jumta]]
+
+== Kultūra ==
+Cēsis bija viena no Latvijas pilsētām, kas piedalījās konkursā par [[Eiropas kultūras galvaspilsēta]]s statusu, taču {{Dat|2009|9|15||bez}} [[Eiropas Komisija]]s žūrija ieteica šo statusu Latvijā piešķirt Rīgai.<ref>{{Tīmekļa atsauce|url=http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/1324&format=HTML&aged=0&language=LV&guiLanguage=en|title=Rīga 2014. gadā būs Eiropas kultūras galvaspilsēta Latvijā, IP/09/1324, EUROPA — Press releases|publisher=Europa.eu}}</ref> Cēsis ir mājvieta vairākiem populāriem festivāliem — Cēsu mākslas festivālam,<ref>{{Ziņu atsauce|url=http://www.cesufestivals.lv/|title=Cēsu Mākslas Festivāls – Cēsu Mākslas Festivāls|work=Cēsu Mākslas Festivāls|access-date=2018-10-28|date=2015-05-20|language=en-US|archiveurl=https://web.archive.org/web/20181008062308/http://www.cesufestivals.lv/|archivedate=2018-10-08}}</ref> sarunu festivālam "Lampa"<ref>{{Tīmekļa atsauce|url=https://festivalslampa.lv/lv|title=Sākums|website=Sarunu festivāls LAMPA|access-date=2018-10-28|language=lv|archiveurl=https://web.archive.org/web/20181125181750/https://www.festivalslampa.lv/lv|archivedate=2018-11-25}}</ref> un čella festivālam "Čello".<ref>{{Tīmekļa atsauce|url=http://cesukoncertzale.lv/lv/celo-cesis/|title=Vidzemes koncertzale Cēsis|website=cesukoncertzale.lv|access-date=2018-10-28|archiveurl=https://web.archive.org/web/20181121065535/http://cesukoncertzale.lv/lv/celo-cesis/|archivedate=2018-11-21}}</ref>
+
+== Iedzīvotāji ==
+Pēc [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] un [[Lielais mēris Latvijā|Lielā mēra]] epidēmijas 1744. gadā Cēsīs bija ap 600 iedzīvotāju. 19. gadsimtā iedzīvotāju skaits pieauga un 1897. gadā latvieši Cēsīs ieguva pārsvaru, un 1925. gadā 90% iedzīvotāju bija latvieši, 3% — vācieši, 3% — ebreji, 2% — krievi. 1935. gadā Cēsis bija septītā lielākā pilsēta Latvijā pēc iedzīvotāju skaita, 1990. gados — 11. vietā.<ref name=":1">{{Grāmatas atsauce|title=Enciclopēdija Latvijas Pilsētas|publisher=Apgāds "Preses Nams"|date=1999|location=Rīga|isbn=978-9984-00-357-3}}</ref>  Pašlaik Cēsis ir 14. [[Latvijas pilsētu uzskaitījums|lielākā pilsēta Latvijā]].
+
+Par vienu no pašvaldības galvenajiem mērķiem pēc [[Latvijas neatkarības atgūšana]]s kļuva jaunu cilvēku piesaiste, kas sekmēja ne tikai iedzīvotāju atgriešanos dzimtajā pilsētā, bet piesaistīja cilvēkus arī no citām pilsētām.<ref>{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/kultura/dizains-un-arhitektura/ka-cesis-kluva-par-intelektualo-milenialu-magnetu.a376000/|title=Kā Cēsis kļuva par intelektuālo mileniāļu magnētu?|website=www.lsm.lv|access-date=2023-07-21|language=lv}}</ref> 
+
+2000. gadā no 18 137 Cēsu iedzīvotājiem 15 130 bija [[latvieši]], 2 113 — [[krievi]], 225 — [[baltkrievi]], 194 — [[poļi]], bet pārējie 475 — citas tautības.<ref name="iedz skaits">{{iedzsk|ats}}</ref>
+{{iedzīvotāju skaita izmaiņas
+|title       =
+|type        = 
+|align       = left
+|width       = 
+|state       = 
+|shading     = 
+|percentages = on
+|break       = jā
+|footnote    = Avots:<ref>Enciklopēdija "Latvijas pilsētas". Rīga 1999.</ref>
+| cols = 3
+| graph-pos = bottom
+|1800|1100
+|1840|1700
+|1863|2400
+|1881|4300
+|1897|6356
+|1914|8000
+|1920|6452
+|1925|8047
+|1930|7700
+|1935|8748
+|1939|8500
+|1943|7900
+|1959|13839
+|1970|17696
+|1979|20958
+|1989|22013
+|2000|18732
+|2011|16764
+|2021|14815
+}}
+=== Ievērojami cilvēki Cēsīs ===
+* [[Aleksandrs Kīters]] (1813—1879), ķirurgs un ginekologs
+* [[Johans Rūdolfs Adolfi]] (1862—1944), ārsts un šahists
+* [[Pauls Valdens]] (1863—1957), ķīmiķis
+* [[Eduards Veidenbaums]] (1867—1892), dzejnieks
+* [[Jānis Puriņš (kara ārsts)|Jānis Puriņš]] (1893—1982), kara ārsts.
+* [[Jānis Poruks]] (1871—1911), rakstnieks
+* [[Alfrēds Kalniņš (komponists)|Alfrēds Kalniņš]] (1879—1951), komponists
+* [[Jānis Doreds]] (1881—1954), kinooperators, fotogrāfs
+* [[Johaness Lecmanis]] (1885—1971), meteorologs
+* [[Alfrēds Zommers]] (1888—1954), aktieris, režisors
+* [[Aleksandrs Drēviņš]] (1889—1938), gleznotājs
+* [[Eduards Erdmanis]] (1896—1958), komponists
+* [[Leokādija fon Freitāga-Loringhofena]] (1842-1912), pedagoģe
+* [[Kārlis Jansons (tēlnieks)|Kārlis Jansons]] (1896—1969), tēlnieks
+* [[Nikolajs Skuja]] (1913—2012), gastroenterologs, endoskopijas aizsācējs Latvijā
+* [[Vladimirs Kaijaks]] (1930—2013), rakstnieks
+* [[Gunārs Balodis]] (1934), gleznotājs un filmu mākslinieks
+* [[Rihards Kūlis]] (1945), filozofs un tulkotājs
+* [[Andris Riekstiņš]] (1951), komponists, vijolnieks, diriģents
+* [[Kaspars Stupelis]] ( 1982), bijušais latviešu motokrosa sportists blakusvāģu klasē, kantētājs. Četrkārtējs pasaules čempions.
+* [[Haralds Sīmanis]] (1951—2022), komponists, mūziķis
+* [[Anita Stukāne]] (1954), tāllēcēja
+* [[Laima Vaikule]] (1954), dziedātāja
+* [[Aīda Ozoliņa]] (1957), aktrise
+* [[Andrejs Žagars]] (1958—2019), aktieris, režisors un uzņēmējs
+* [[Raimonds Macats]] (1961), komponists, mūziķis
+* [[Juris Žagars]] (1961), aktieris
+* [[Ritums Ivanovs]] (1968), gleznotājs
+* [[Linda Leen|Linda Feldberga]] (1979), dziedātāja
+* [[Jānis Bērziņš (biatlonists)|Jānis Bērziņš]] (1982), biatlonists
+* [[Jānis Karlivāns]] (1982), desmitcīņnieks
+* [[Mārtiņš Cipulis]] (1980), hokejists
+
+== Izglītība ==
+Cēsīs pamatizglītību iespējams iegūt kādā no septiņām sākumskolām/pamatskolām: Cēsu 1. pamatskolā, kur iespējams padziļināti apgūt mūziku,<ref>{{Tīmekļa atsauce|url=http://cesu1pamatskola.anazana.com/|title=Par skolu|website=cesu1pamatskola.anazana.com|access-date=2018-10-28|archiveurl=https://web.archive.org/web/20181005002943/http://cesu1pamatskola.anazana.com/|archivedate=2018-10-05}}</ref> Cēsu 2. pamatskolā,<ref>{{Tīmekļa atsauce|url=http://www.cesu2pamatskola.lv/|title=Cēsu 2. Pamatskola|website=www.cesu2pamatskola.lv|access-date=2018-10-28|archiveurl=https://web.archive.org/web/20181014002812/http://www.cesu2pamatskola.lv/|archivedate=2018-10-14}}</ref> ekoskolu kustībā iesaistītajā Cēsu pilsētas Pastariņa sākumskolā,<ref>{{Tīmekļa atsauce|url=http://pastarinaskola.lv/|title=Cēsu pilsētas Pastariņa sākumskola|last=Siliņa|first=Velta|website=pastarinaskola.lv|access-date=2018-10-28|language=en|archiveurl=https://web.archive.org/web/20181014075735/http://www.pastarinaskola.lv/|archivedate=2018-10-14}}</ref> privātajā Cēsu Jaunajā pamatskolā,<ref>{{Tīmekļa atsauce|url=http://www.jaunaskola.lv|title=Jaunā skola|website=www.jaunaskola.lv|access-date=2018-10-28|language=lv|archiveurl=https://web.archive.org/web/20181029030345/http://www.jaunaskola.lv/|archivedate=2018-10-29}}</ref> un Cēsu internātpamatskolā — attīstības centrā.<ref>{{Tīmekļa atsauce|url=http://www.csip.lv|title=Cēsu Internātpamatskola - Rehabilitācijas Centrs|last=www.c4.lv|first=SIA C4|website=www.csip.lv|access-date=2018-10-28|archive-date=2020-04-12|archive-url=https://web.archive.org/web/20200412190702/https://www.csip.lv/}}</ref>
+
+Vidējo izglītību iespējams iegūt Cēsu pilsētas vidusskolā,<ref>{{Tīmekļa atsauce|url=http://www.cesuvsk.lv|title=Sākums - Cēsu Pilsētas vidusskola|website=Cēsu Pilsētas vidusskola|access-date=2018-10-28|language=lv-LV|archiveurl=https://web.archive.org/web/20180825033116/http://www.cesuvsk.lv/|archivedate=2018-08-25}}</ref> Draudzīgā Aicinājumā Cēsu Valsts Ģimnāzijā<ref>{{Tīmekļa atsauce|url=http://www.dacvg.lv|title=Draudzīgā aicinājuma Cēsu Valsts ģimnāzija|access-date=10.28.2018.|date=|archiveurl=https://web.archive.org/web/20190126150850/http://www.dacvg.lv/|archivedate={{dat|2019|01|26||bez}}}}</ref> un [[Cēsu Valsts ģimnāzija|Cēsu Valsts ģimnāzijā]].<ref>{{Tīmekļa atsauce|url=http://www.cvg.edu.lv|title=Aktualitātes|website=www.cvg.edu.lv|access-date=2018-10-28|language=lv-lv|archiveurl=https://web.archive.org/web/20181001142817/http://www.cvg.edu.lv/|archivedate=2018-10-01}}</ref>
+
+== Ekonomika ==
+1990. gadu sākumā lielākie Cēsu uzņēmumi bija spiesti samazināt ražošanu, jo strauji samazinājās pieprasījums pēc to pakalpojumiem. Valsts uzņēmumu privatizācija Cēsis skāra samērā vēlu. Pašlaik vietējā ekonomikā dominē mazie uzņēmēji un privātā uzņēmējdarbība<ref name=":1" />, bet lielākais rūpniecības uzņēmums Cēsīs ir [[Cēsu alus]].
+
+Viena no nozīmīgākajām ekonomikas nozarēm Cēsīs ir tūrisms. Vasarās tūristus piesaista daba un mākslas pasākumi, bet ziemā — slēpošanas komplekss. Visa gada griezumā Cēsis apmeklētājus piesaista kā reģionāli nozīmīgs mākslas un kultūras centrs.<ref>{{Tīmekļa atsauce|url=http://www.cesis.lv/lv/cesu-novads/cesis|title=Cesis.lv - Novads » Cēsis » Cēsis|website=www.cesis.lv|access-date=2018-10-28|archiveurl=https://web.archive.org/web/20181023104646/http://cesis.lv/lv/cesu-novads/cesis|archivedate=2018-10-23}}</ref> 2009. gadā Cēsis apmeklēja 405 tūkstoši tūristu.<ref>{{Tīmekļa atsauce |url=http://cesis.lv/index.php?p=12 |title=Cēsu novads faktos |access-date={{dat|2010|09|08||bez}} |archiveurl=https://web.archive.org/web/20050219201151/http://cesis.lv/index.php?p=12 |archivedate={{dat|2005|02|19||bez}} }}</ref>
+
+== Sadraudzības pilsētas ==
+Cēsīm ir [[sadraudzības pilsēta|sadraudzības]] attiecības ar šādām pilsētām:<ref>[https://www.cesis.lv/lv/novads/cesu-novads/starptautiska-sadarbiba-73241/ Cēsu novada sadraudzības pilsētas]</ref>
+
+* {{vieta|Vācija|Ahima}}
+* {{vieta|Igaunija|Rakvere}}
+* {{vieta|Lietuva|Rokišķi}}
+* {{vieta|Zviedrija|Tiresē}}
+
+== Attēlu galerija ==
+<gallery perrow="5">
+Cēsise Jaani kirik 02.JPG|[[Cēsu Svētā Jāņa luterāņu baznīca]]
+Christ Transfiguration Orthodox Church at Cesis.jpg|Cēsu Kristus Apskaidrošanas pareizticīgo baznīca
+Cesis Burgruine1.jpg|[[Cēsu pils]]
+Cesis Lettland Latvia.jpg|[[Cēsu pilsmuiža|Cēsu pilsmuiža (Jaunā pils)]]
+Cēsis.Dzirnavas,ūdenstornis,baznīca un pils tornis - Guntars Mednis - Panoramio.jpg|Cēsu vējdzirnavu drupas un ūdenstornis
+
+</gallery>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Commons category|Cēsis}}
+* [http://www.cesis.lv/ Cēsu oficiālā mājaslapa]
+* [http://www.cesis2014.lv/ Cēsis — Eiropas Kultūras galvaspilsētas 2014 kandidāte] {{Webarchive|url=https://archive.today/20110722161904/http://www.cesis2014.lv/ |date={{dat|2011|07|22||bez}} }}
+* [http://www.tourism.cesis.lv/ Tūrisms Cēsīs]
+* [http://www.vvtc.cesis.lv/ Cēsu pils komplekss] {{Webarchive|url=https://web.archive.org/web/20071022030435/http://www.vvtc.cesis.lv/ |date={{dat|2007|10|22||bez}} }}
+* [http://www.vietas.lv/index.php?p=11&id=8051 Vietas.lv — Cēsis]
+* [https://web.archive.org/web/20080321195358/http://www.historia.lv/alfabets/T/ta/talava/raksti/shvabe003.htm A.Švābe, Tālava, 1936]
+
+{{Cēsu novads}}
+{{Latvijas pilsētas}}
+{{Latvijas novadu centri}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Cēsu rajons}}
+{{Cēsu apriņķis}}
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hanzas pilsētas]]
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsis| ]]

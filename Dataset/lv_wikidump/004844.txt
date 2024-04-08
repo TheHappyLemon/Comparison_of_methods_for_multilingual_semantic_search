@@ -1,0 +1,85 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums              = Mars-1
+| Nosaukums_orig         = ''Марс-1''
+| Attēls                 = 
+| Attēla_izmērs          = 
+| Att_virsraksts         = 
+| Programma              = [[Mars programma]]
+| KA_veids               = Marsa pārlidojums
+| Bāzes platforma        = [[2MV-4]]
+| KA sērijas Nr          = 4
+| Īpašnieks              = 
+| Operators              = {{URS}}
+| Lielākie_izgatavotāji  = [[OKB-1]], {{URS}}
+| Starta_gads            = 1962
+| Starts                 = {{dat|1962|11|1|SK}} 16:14:16 [[UTC]]
+| Nesējs                 = [[Molnija (nesējraķete)|Molnija]], {{URS}}
+| Starta_vieta           = [[Baikonuras kosmodroms]]
+| Starta_laukums         = Nr.1
+| Starta_valsts          = {{URS}}
+| Darbības_beigu_gads    = 1963
+| Darbības_beigu_datums  = {{dat|1963|3|21|SK}} 
+| Darbības_ilgums        = 
+| Beigu_gads             = 
+| Beigu_datums           = 
+| Lidojuma_ilgums        = 
+| NSSDC_ID               = 1962-061A
+| Tīmekļa_vietne         = 
+| Masa                   = 893,5 kg
+| Sausmasa               = 
+| Pilna_masa             = 
+| Zinātnisko_instr_masa  = 
+| Enerģija               = 
+| Raidītāji              = 
+| Pārlidojums            = 
+| Pārlidojuma_datums     = 
+| Orbītas_elementi       = jā
+| Centr_ķermenis         = Saule
+| Centr_ķermenis_parādīt = [[Saule]]
+| Orbītas_veids          = 
+| GEO_punkts             = 
+| Lielā_pusass           = 
+| Ekscentricitāte        = 0,269
+| Inklinācija            = 2,68°
+| Periods                = 519 dienas
+| Apoapsīda              = 1,604 [[astronomiskā vienība|AU]]
+| Periapsīda             = 0,924 AU
+| Apriņķojumi            = 
+| Orbītā_ieiešanas_dat   = 
+| KA_iepr                = [[2MV-4 №3]]
+| KA_nāk                 = [[2MV-3 №1]]
+}}
+[[Attēls:The Soviet Union 1964 CPA 3013 stamp (Space Exploration. Mars 1 spacecraft).jpg|thumb|right|220px|''Mars-1'' 1964. gadā izdotajā pastmarkā]]
+'''Mars-1''' jeb '''2MV-4 №4'''<ref name="NK 1996-20" /><ref name="chertok 003db51e" /> bija [[Padomju Savienība|PSRS]] pirmā [[starpplanētu zonde]], kura palaista 1962. gada 1. novembrī [[Marss (planēta)|Marsa]] virzienā. Sakari ar zondi tika zaudēti ceļā uz planētu.
+
+''2MV-4 №4'' bija viena no divām Marsa pārlidojuma zondēm unificēto Marsa un Veneras kosmisko aparātu sērijā [[2MV]], kas bija paredzēta Marsa pārlidošanai. Zondes mērķis bija fotografēt Marsa virsmu, pētīt kosmisko radiāciju, Marsa magnētisko lauku un atmosfēras uzbūvi.
+
+Zondes masa bija 89,5 kilogrami. Kosmiskais aparāts bija cilindrisks objekts 3,3 m augstumā un 1,0 m diametrā. Tas sastāvēja no diviem nodalījumiem. Augšējais bija orbitālais modulis 2,7 m garumā ar dzinējsistēmu un vadības sistēmu. Pie tā bija piestiprināta 1,7 m diametra paraboliska šaura virziena antenu, kā arī visvirzienu antena un plata virziena antena. Elektroenerģiju nodrošināja divi [[saules baterijas|saules bateriju]] paneļi ar 42 ampēru kadmija — niķeļa akumulatoru. Orbitālā moduļa apakšā bija 0,6 m augsts eksperimentu modulis
+
+{{dat|1962|10|24||bez}} [[2MV-4 №3]] tika zaudēts, kad nesējraķetes pēdējā pakāpe ''Blok L'' uzsprāga.
+
+''2MV-4 №4'' tika palaists {{dat|1962|11|1||bez}} 16:14:16 [[UTC]] ar nesējraķeti [[Molnija (nesējraķete)|Molnija]] (''8K78''<!--, sērijas numurs ''T103-15''-->) ar ''2MV-4 №3''. Šoreiz raķešbloks ''Blok L'' darbojās normāli, un zonde tika ievadīta trajektorijā uz Marsu. Drīz sāka kristies spiediens orientācijas sistēmas slāpekļa balonos. Līdz pilnīgai gāzes izplūšanai kosmisko aparātu izdevās iegriezt ap asi, kas vērsta ar saules baterijām uz [[Saule|Sauli]]. Tas nodrošināja pastāvīgu energoapgādi, bet sakarus ar Zemi varēja nodrošināt tikai ar metra diapazona plata virziena antenu, bet ne ar šaura virziena centimetru diapazona antenu.<ref name="NK 1996-20" /> 2. novembrī zondes palaišana tika paziņota oficiāli, dodot tai nosaukumu ''Mars-1''. 15. decembrī laikraksts [[Pravda (laikraksts)|Pravda]] publicēja ''Mars-1'' aprakstu, lai skaitā lidojuma trajektoriju, zondes fotogrāfiju un zinātnisko pētījumu programmu.<ref name="chertok 003db51e" />
+
+Tika noskaidrots, ka slāpekļa izplūšanu izraisīja vārsta nepilnīga aizvēršanās. Vārsts neaizvērās izgatavošanas procesā veiktās [[lodēšana]]s laikā kušņiem iekļūstot vārstā.<ref name="NK 1996-20" />
+
+Sakari ar ''Mars-1'' tika uzturēti 4 mēnešus. Tika izpildīta 61 radiopārraide un šo sakaru seansu laikā tika saņemti dati par starpplanētu telpu. Kontakts ar zondi tika zaudēts {{dat|1963|3|21||bez}}, kad tā atradās 106 miljoni kilometru no Zemes. Pēc aprēķiniem kosmiskais aparāts Marsam palidoja garām {{dat|1963|6|19 ||bez}} {{sk|197000|km}} attālumā no planētas.<ref name="NK 1996-20" /> Pēc tam ''Mars-1'' iegāja [[heliocentriska orbīta|heliocentriskā orbītā]].
+
+Zonde fiksēja mikrometeorīdu ietriekšanos ar periodu divas minūtes. Šie triecieni notika laikā, kad zonde atradās 6000 līdz 24 000 kilometru no Zemes; līdzīgi novērojumi tika iegūti attālumos no 20 000 000 līdz 40 000 000. Šādu meteorīdu aktivitāti izskaidroja ar [[Taurīdas|Taurīdu]] plūsmu.
+''Mars-1'' novēroja arī radiācijas joslas ap Zemi un noteica to stiprumu.
+
+Sākotnēji šo kosmisko aparātu ASV nosauca par ''Sputnik 30'', vēlāk — ''Sputnik 23''.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="NK 1996-20">[http://www.novosti-kosmonavtiki.ru/content/numbers/135/16.shtml Россия. На Mapc!] К.Лантратов, Новости космонавтики, 1996-20 {{ru ikona}}</ref>
+<ref name="chertok 003db51e">[http://www.famhist.ru/famhist/chertok/003db51e.htm Второй пуск 2МВ-4 N4 ("Марс-1"): отказ системы ориентации] Черток Б.Е., Ракеты и люди {{ru ikona}}</ref>
+}}
+
+== Ārējās saites ==
+* [http://space.skyrocket.de/doc_sdat/mars-2mv-4.htm Mars 1 (2MV-4 #1, 2)] Gunter Dirk Krebs {{en ikona}}
+
+
+{{1962. gada orbitālie starti}}
+
+
+[[Kategorija:Mars programma]]

@@ -1,0 +1,9 @@
+<div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#C5FCDC"
+| style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt" | '''[[Japāņu valoda|ja]]'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | この利用者は'''[[:Kategorija:User ja|日本語]]'''を'''[[:Kategorija:User ja-N|母語]]'''としています。 
+|}</div><includeonly>
+[[Kategorija:User ja|{{PAGENAME}}]] [[Kategorija:User ja-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Kategorija:Valodu lietotāju veidnes|ja]]
+</noinclude>

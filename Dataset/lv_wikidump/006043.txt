@@ -1,0 +1,32 @@
+'''Tenzorreizinājums''' ir bināra operācija, ko lieto [[lineārā algebra|lineārajā algebrā]]. Visbiežāk to attiecina uz [[lineāra telpa|lineārām telpām]].
+
+== Definīcija ==
+
+Ja ''V'' un ''W'' ir [[lineāra telpa|lineāras telpas]] pār [[lauks (matemātika)|lauku]] ''F'', tad to '''tenzorreizinājums''' ir [[kortežs|pāris]] (''V'' {{Unicode|⊗}} ''W'', ''Ψ''), kur
+* ''V'' {{Unicode|⊗}} ''W'' ir lineāra telpa pār ''F'',
+* ''Ψ'': ''V'' × ''W'' → ''V'' {{Unicode|⊗}} ''W'',
+un jebkurai lineārai telpai ''U'' pār ''F'' un jebkurai bilineārai funkcijai ''Φ'': ''V'' × ''W'' → ''U'' eksistē tieši viena [[lineāra funkcija]] ''T'': ''V'' {{Unicode|⊗}} ''W'' → ''U'' ar īpašību ''T'' ∘ ''Ψ'' = ''Φ''.
+
+Šeit ''V'' × ''W'' apzīmē telpu ''V'' un ''W'' [[Dekarta reizinājums|Dekarta reizinājumu]], bet ''T'' ∘ ''Ψ'' — funkciju ''Ψ'' un ''T'' [[kompozīcija|kompozīciju]] jeb secīgu izpildi.
+
+== Atsauces ==
+
+* {{Atsauce | first1=Garrett | last1=Birkhoff | first2=Saunders | last2=Mac Lane | title=A Survey of Modern Algebra | edition=4 | publisher=MacMillan Publishing Co. | year=1977 | isbn=0-02-310070-2}}, 8.10 Bilinear Functions and Tensor Products, 251. lpp.
+* {{Atsauce | first1=Saunders | last1=Mac Lane | first2=Garrett | last2=Birkhoff | title=Algebra | edition=3 | publisher=American Mathematical Society | year=1999 | isbn=9780821816462}}, 8. Tensor Products, 319. lpp.
+* {{Atsauce | first=Roman | last=Steven | title=Advanced Linear Algebra | edition=3 | publisher=Springer | year=2008 | isbn=978-0-387-72828-5}}, 14. Tensor Products, 355. lpp.
+* {{Atsauce | first=Joseph J. | last=Rotman | title=Advanced Modern Algebra | publisher=Prentice Hall | year=2002 | isbn=9780130878687}}, 8.4 Tensor Products, 574. lpp.
+* John Watrous, [https://web.archive.org/web/20091229044434/http://www.cs.uwaterloo.ca/~watrous/quant-info/lecture-notes/02.pdf Lecture 2], 2.2.2 Abstract notion of tensor products, 15. lpp.
+
+== Skatīt arī ==
+
+* [[Kronekera reizinājums]]
+
+== Ārējās saites ==
+
+* {{MathWorld|VectorSpaceTensorProduct|Vector Space Tensor Product}}
+* [http://planetmath.org/encyclopedia/TensorProductClassical.html Tensor product (vector spaces)] {{Webarchive|url=https://web.archive.org/web/20080906195212/http://planetmath.org/encyclopedia/TensorProductClassical.html |date={{dat|2008|09|06||bez}} }}, PlanetMath.
+* [https://web.archive.org/web/20081204161836/http://www.quantiki.org/wiki/index.php/Tensor_product Tensor product], Quantiki.
+
+[[Kategorija:Abstraktā algebra]]
+[[Kategorija:Multilineārā algebra]]
+[[Kategorija:Binārās operācijas]]

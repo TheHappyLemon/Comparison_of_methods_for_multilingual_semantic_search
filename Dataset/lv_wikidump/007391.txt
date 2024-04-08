@@ -1,0 +1,26 @@
+{{ezera infokaste
+|ezers=Tourisvahdns
+|attēls=Hofsjökull 1 Iceland.JPG
+|paraksts=Tourisvahdns uz [[Hofsjegidls|Hofsjegidla]] ledāja fona
+|vieta={{ISL}}
+| map = Islande
+| plat_d=64 | plat_m=16 | plat_s= | plat_NS=N 
+| gar_d=18 | gar_m=53 | gar_s= | gar_EW=W
+|platība=66—88
+|garums=
+|Vid_dziļums=
+|Max_dziļums=113<ref>[http://wayback.vefsafn.is/wayback/20070502104647/www.lmi.is/english/iceland-in-statistics/ Iceland in statistics]</ref>
+|tilpums=1,18
+|augstums_vjl=577
+|izteka=
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+'''Tourisvahdns''' (arī '''Tourisvatns''';<ref>{{Planēta}}</ref> {{val|is|Þórisvatn}}) ir lielākais [[ezers]] [[Īslande|Īslandē]], daļēji uzpludināts. Atrodas Īslandes dienvidu daļā. Ezers uzpludināts, lai izmantotu no [[Vahdnajegidls|Vahdnajegidla]] ledāja plūstošās [[Kaldakvisla]]s upes ūdeņus enerģijas ieguvei. Koši zaļš ūdens.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Islandes ezeri]]

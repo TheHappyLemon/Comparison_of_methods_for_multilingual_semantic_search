@@ -1,0 +1,76 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Luhanska
+ | official_name              = ''Луганськ''
+ | settlement_type          = apgabala pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Dal str Luhansk.jpg
+ | imagesize                = 
+ | image_caption            = Piemineklis Vladimiram Dālam Luhanskā
+ | image_flag               = Flag of Luhansk.svg
+ | image_shield             = Coat of arms of Luhansk.svg
+ | shield_size              = 75px
+ | image_map                = 
+ | map_caption              = 
+ | pushpin_map              = Ukraina
+ | pushpin_label_position   = left
+ | pushpin_map_caption      = Luhanska Ukrainas kartē
+ | pushpin_image            = Luhansk Oblast in Ukraine (de jure).svg
+ | pushpin_map1              = Luhanskas apgabals
+ | pushpin_label_position1   = top
+ | pushpin_map_caption1      = Luhanska Luhanskas apgabala kartē
+ | latd  = 48 | latm  = 34| lats  = 18| latNS  = N
+ | longd = 39| longm = 18| longs = 29| longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{UKR}}
+ | subdivision_type1        = Apgabals
+ | subdivision_name1        = [[Luhanskas apgabals]]
+ | subdivision_type2        = 
+ | subdivision_name2        = 
+ | established_title        = Dibināta
+ | established_date         = [[1795]]. gadā
+ | established_title1       = Pilsēta no
+ | established_date1        = [[1882]]. gada
+ | seat_type                = 
+ | seat                     = 
+ | area_total_km2           = 255
+ | elevation_m              = 78
+ | population_footnotes     = 
+ | population_total         = 425848
+ | population_as_of         = {{dat|2013|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | population_urban         = 
+ | population_metro         = 
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indekss
+ | postal_code              = 91000—91479
+ | area_code                = +380 642
+ | website                  = {{url|http://gorod.lugansk.ua/}}
+ | footnotes                = 
+}}
+'''Luhanska''' ({{val|uk|Луганськ}}) ir rūpniecības pilsēta [[Ukraina]]s austrumos, [[Donbass|Donbasā]], [[Luhanskas apgabals|Luhanskas apgabala]] centrs. Izvietojusies apgabala vidusdaļā [[Siverskijdoņeca]]s pieteku [[Luhaņa]]s un [[Viļhivka]]s krastos. Luhanskas aglomerācijas kodols (kopējā platība ap 4352 km², {{nobr|501 200}} iedzīvotāju). Administratīvi pilsēta iedalās četros rajonos, pilsētas padomei pakļautas [[Oleksandrivska]]s un [[Ščastja]]s pilsētas un [[Juvilejne]]s pilsētciemats (kopā 286 km², {{nobr|464 881}} iedzīvotājs <small>(2012)</small>).
+
+Pilsēta radusies 1795. gadā, kad [[Skotija|skotu]] rūpnieks Čārlzs Gaskoins (''Charles Gascoigne'') šeit nodibināja [[čuguns|čuguna]] rūpnīcu. Ap 1797. gadu pie rūpnīcas izveidojās ciemats '''Luhanskijzavoda''' ''(Луганський Завод)'', kura nosaukums cēlies no netālās Luhaņas upītes. 1800. gadā tika uzcelta pirmā [[domna]] Ukrainā. 1882. gadā, apvienojot vairākus rūpnīcu ciematus, tika izveidota '''Luhanskes''' ''(Луганське)'' pilsēta. 1935. gadā pilsēta tika pārdēvēta par godu padomju revolucionāram un karavadonim [[Kliments Vorošilovs|Klimentam Vorošilovam]] par '''Vorošilovgradu''' ''(Ворошиловград)''. 1958. gadā, sakarā ar to, ka tika pieņemts likums, ka pilsētas nevar dēvēt dzīvu cilvēku vārdos, pilsētu pārdēvēja atpakaļ par '''Luhansku''' ''(Луганськ)'', bet mainītā ortogrāfijā. 1970. gadā, nākamajā gadā pēc Klimenta Vorošilova nāves, pilsētu atkal pārdēvēja par '''Vorošilovgradu''', bet 1990. gadā tai atjaunots '''Luhanskas''' vārds.<ref>{{Tīmekļa atsauce |url=http://gorod.lugansk.ua/index.php?do=static&page=oldlugansk |title=История Луганска |access-date={{dat|2014|05|03||bez}} |archive-date={{dat|2015|09|09||bez}} |archive-url=https://web.archive.org/web/20150909200629/http://gorod.lugansk.ua/index.php?do=static&page=oldlugansk }}</ref>
+
+Mūsdienās ievērojams [[mašīnbūve]]s ([[lokomotīve]]s, tramvaji, [[kalnrūpniecība]]s iekārtas), [[metalurģija]]s, [[pārtikas rūpniecība]]s centrs.
+
+== Cilvēki ==
+Luhanskā vai tās apkārtnē dzimuši:
+* [[Sergejs Bubka]] (''Сергій Назарович Бубка'', 1963) — kārtslēcējs;
+* [[Vladimirs Dāls]] (''Владимир Иванович Даль'', 1801—1872) — valodnieks.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{Luhanskas apgabala pilsētas}}
+{{autoritatīvā vadība}}

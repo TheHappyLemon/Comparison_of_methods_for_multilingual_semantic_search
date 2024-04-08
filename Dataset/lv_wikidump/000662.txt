@@ -1,0 +1,197 @@
+{{Valodas infokaste
+ |          name = Vjetnamiešu valoda
+ |    nativename = ''tiếng Việt''
+ | pronunciation = tiɜŋ˧ˀ˦ viɜʔt̚˧ˀ˨ʔ
+ |   familycolor = Austro-Asiatic
+ |        states = [[Vjetnama|Vjetnamā]]
+ |        region = [[Dienvidaustrumāzija]]
+ |      speakers = 75 miljoni<ref name="ne2007"/>
+ |          fam1 = [[austroaziātu valodas|Austroaziātu]]
+ |          fam2 = [[vjetu valodas|Vjetu]]
+ |          fam3 = [[vjetu-mjonu valodas|Vjetu-mjonu]]
+ |          fam4 = 
+ |        script = [[Latīņu alfabēts]] ([[vjetnamiešu alfabēts|vjetnamiešu ortogrāfija]])
+ |        nation = {{VNM}}
+----
+Minoritātes valoda:<br />{{CZE}}
+ |        agency = 
+ |          iso1 = vi
+ |          iso2 = vie
+ |          iso3 = vie
+}}
+
+'''Vjetnamiešu valoda''' (''tiếng Việt'', {{izrunā|tiɜŋ˧ˀ˦ viɜʔt̚˧ˀ˨ʔ}}) ir [[Austroaziātu valodas|austroaziātu saimes]] valoda. Tā ir [[Vjetnama]]s [[valsts valoda]]. Tā ir [[dzimtā valoda]] daudziem [[vjetnamieši]]em, kā arī dzimtā vai [[otrā valoda]] daudzām Vjetnamā dzīvojošajām minoritātēm. Vjetnamiešu emigrācijas rezultātā to lieto arī citās pasaules daļās dzīvojošie vjetnamieši.
+
+== Ģeogrāfiskā izplatība ==
+Vjetnamiešu valodā galvenokārt izplatīta [[Vjetnama|Vjetnamā]], kur to galvenokārt lieto tur dzīvojošie [[vjetnamieši]]. Tā ir arī  [[dzimtā valoda|dzimtā]] vai [[otrā valoda]] daudzām Vjetnamā dzīvojošajām minoritātēm. Tā plaši izplatīta ir arī [[Guansji Džuanu autonomais reģions|Guansji Džuanu autonomajā reģionā]] ([[Ķīna|Ķīnā]]). Nozīmīgs vjetnamiešu valodas pratēju skaits dzīvo arī [[Kambodža|Kambodžā]] un [[Laosa|Laosā]].
+
+Vjetnamiešu emigrācijas rezultātā to lieto arī citās pasaules daļās dzīvojošie vjetnamieši. [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]] tā sestā lielākā valoda pēc runātāju skaita. Tiek lēsts, ka šajā valstī dzīvo ap 1,5 miljoniem vjetnamiešu valodas pratēju. [[Austrālija|Austrālijā]] vjetnamiešu valoda ir septītā lielākā valoda, bet [[Francija|Francijā]] — astotā lielākā valoda pēc runātāju skaita. [[Čehija|Čehijā]] vjetnamiešu valoda oficiāli atzīta kā viena no 14 minoritātes valodām.
+
+== Valodnieciskā klasifikācija ==
+Aptuveni pirms 150 gadiem vjetnamiešu valoda tika identificēta kā [[austroaziātu valodas|austroaziātu valodu]] saimes [[monu-khmeru valodas|monu-khmeru atzara]] valoda. Vēlāk tika konstatēts, ka tā radnieciski ir daudz tuvāka [[mjonu valoda]]i (''thiểng Mường'') nekā citām monu-khmeru valodām, tāpēc tika izveidots vjetu-mjonu atzars, kurā iekļāva vēl dažas valodas, kas bija tuvākās šīm valodām.<ref name="Ferlus"/> Termins ‘vjetu valodas’ (''vietic'') parādījās 1992. gadā, kad to ieviesa valodnieks Heiss (''La Vaughn H. Hayes'').<ref name = "Hayes"/>
+
+== Fonoloģija ==
+=== Patskaņi ===
+Līdzīgi kā citās Dienvidaustrumāzijas valodām arī vjetnamiešu valodā daudz izmanto [[patskanis|patskaņus]].
+
+:{| class="wikitable" style="text-align: center;"
+|-
+! &nbsp;
+! [[Priekšējās rindas patskanis|Priekš.]]
+! [[Vidējās rindas patskanis|Vid.]]
+! [[Pakaļējās rindas patskanis|Pakaļ.]]
+|-
+! [[Augsta mēles pacēluma patskanis|Augsts]]
+| ''i'' {{IPA|[i]}}
+| ''ư'' {{IPA|[ɨ]}}
+| ''u'' {{IPA|[u]}}
+|-
+! [[Augsti vidēja mēles pacēluma patskanis|Augsti vidējs]]
+| ''ê'' {{IPA|[e]}}
+| ''ơ'' {{IPA|[əː]}}
+| ''ô'' {{IPA|[o]}}
+|-
+! [[Zemi vidēja mēles pacēluma patskanis|Zemi vidējs]]
+| ''e'' {{IPA|[ɛ]}}
+| ''â'' {{IPA|[ə]}} 
+| ''o'' {{IPA|[ɔ]}}
+|-
+! [[Zema mēles pacēluma patskanis|Zems]]
+| colspan="3" | ''ă'' {{IPA|[a]}} / ''a'' {{IPA|[aː]}}
+|}
+
+Priekšējās un vidējās rindas patskaņi, kā arī zemi vidēja mēles pacēluma patskaņi (''i, ê, e, ư, â, ơ, ă, a'') ir [[labializācija|nenoapaļoti]], bet pakaļējās rindas patskaņi (''u, ô, o'') ir noapaļoti. Patskaņus â [ə] un ă [a] izrunā ļoti īsi, daudz īsāk nekā pārējos patskaņus.
+
+=== Divskaņi ===
+Vjetnamiešu valodā plaši izmanto arī [[divskanis|divskaņus]] un [[trijskanis|trijskaņus]]. Divskaņus veido viens pamata patskanis un viens [[puspatskanis]].
+
+:{| class="wikitable" style="text-align: center;"
+|-
+! Pamata patskanis
+! Divskanis ar puspatskani priekšā
+! Divskanis ar puspatskani beigās
+! Divskanis ar puspatskani vidū
+! Trijskanis ar puspatskani priekšā
+! Trijskanis ar puspatskani beigās
+|-
+! i
+| – || ''iu'' {{IPA|[iʊ̯]}} || ''ia~iê~yê'' {{IPA|[iə̯]}} || – || ''iêu'' {{IPA|[iə̯ʊ̯]}}
+|-
+! ê
+| – || ''êu'' {{IPA|[eʊ̯]}} || – || – || –
+|-
+! e
+| – || ''eo'' {{IPA|[ɛʊ̯]}} || – || – || –
+|-
+! ư
+| ''ưi'' {{IPA|[ɨɪ̯]}} || ''ưu'' {{IPA|[ɨʊ̯]}} || ''ưa~ươ'' {{IPA|[ɨə̯]}} || ''ươi'' {{IPA|[ɨə̯ɪ̯]}} || ''ươu'' {{IPA|[ɨə̯ʊ̯]}}
+|-
+! â
+| ''ây'' {{IPA|[əɪ̯]}} || ''âu'' {{IPA|[əʊ̯]}} || – || – || –
+|-
+! ơ
+| ''ơi'' {{IPA|[əːɪ̯]}} || – || – || – || –
+|-
+! ă
+| ''ay'' {{IPA|[aɪ̯]}} || ''au'' {{IPA|[aʊ̯]}} || – || – || –
+|-
+! a
+| ''ai'' {{IPA|[aːɪ̯]}} || ''ao'' {{IPA|[aːʊ̯]}} || – || – || –
+|-
+! u
+| ''ui'' {{IPA|[uɪ̯]}} || – || ''ua~uô'' {{IPA|[uə̯]}} || ''uôi'' {{IPA|[uə̯ɪ̯]}} || –
+|-
+! ô
+| ''ôi'' {{IPA|[oɪ̯]}} || – || – || – || –
+|-
+! o
+| ''oi'' {{IPA|[ɔɪ̯]}} || – || – || – || –
+|}
+
+=== Līdzskaņi ===
+
+:{| class=wikitable style=text-align:center
+|-
+! colspan=2|
+! [[Labiāls līdzskanis|Labiāls]]
+! [[Alveolārs līdzskanis|Alveolārs]]
+! [[Retroflekss līdzskanis|Retroflekss]]
+! [[Palatāls līdzskanis|Palatāls]]
+! [[Velārs līdzskanis|Velārs]]
+! [[Glotāls līdzskanis|Glotāls]]
+|-
+! colspan=2| [[Nazāls līdzskanis|Nazāls]]
+| ''m'' {{IPA|[m]}}
+| ''n'' {{IPA|[n]}}
+|
+| ''nh'' {{IPA|[ɲ]}}
+| ''ng/ngh'' {{IPA|[ŋ]}}
+|
+|-
+! rowspan=3| [[Slēdzenis]]
+! <small>[[nebalsīgs līdzskanis|nebalsīgs]]</small>
+| ''p'' {{IPA|[p]}}
+| ''t'' {{IPA|[t]}}
+| ''tr'' {{IPA|[ʈʂ~ʈ]}}
+| ''ch'' {{IPA|[c~tɕ]}}
+| ''c/k/q'' {{IPA|[k~q]}}
+|
+|-
+! <small>[[balsīgs līdzskanis|balsīgs]]</small>
+| ''b'' {{IPA|[ɓ]}}
+| ''đ'' {{IPA|[ɗ]}}
+|
+|
+|
+|
+|-
+! <small>[[aspirēts līdzskanis|aspirēts]]</small>
+|
+| ''th'' {{IPA|[tʰ]}}
+|
+|
+| rowspan=2| ''kh'' {{IPA|[x~kʰ]}}
+|
+|-
+! rowspan=2| [[Berzenis]]
+! <small>[[nebalsīgs līdzskanis|nebalsīgs]]</small>
+| ''ph'' {{IPA|[f]}}
+| ''x'' {{IPA|[s]}}
+| ''s'' {{IPA|[ʂ]}}
+|
+| ''h'' {{IPA|[h]}}
+|-
+! <small>[[balsīgs līdzskanis|balsīgs]]</small>
+| ''v'' {{IPA|[v]}}
+| ''d'' {{IPA|[z~j]}}
+| rowspan=2| ''r'' {{IPA|[ʐ~ɹ]}}
+| ''gi'' {{IPA|[z~j]}}
+| ''g/gh'' {{IPA|[ɣ]}}
+|
+|-
+! colspan=2| [[Aproksimants]]
+| ''u/o'' {{IPA|[w]}}
+| ''l'' {{IPA|[l]}}
+| ''y/i'' {{IPA|[j]}}
+|
+|
+|}
+
+== Atsauces ==
+{{InterWiki|code=vi}}
+{{commonscat|Vietnamese language|vjetnamiešu valoda}}
+{{atsauces|refs=
+<ref name="ne2007">Mikael Parkvall, "Världens 100 största språk 2007" (Pasaules 100 lielākās valodas 2007. gadā), Nationalencyklopedin</ref>
+
+<ref name="Ferlus">Ferlus, Michel. 1996. Langues et peuples viet-muong. Mon-Khmer Studies 26. 7–28.</ref>
+
+<ref name = "Hayes">Hayes, La Vaughn H. 1992. Vietic and Việt-Mường: a new subgrouping in Mon-Khmer. Mon-Khmer Studies 21. 211–228.</ref>
+}}
+
+
+{{valoda-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Monu-khmeru valodas]]
+[[Kategorija:Vjetnamas valodas]]

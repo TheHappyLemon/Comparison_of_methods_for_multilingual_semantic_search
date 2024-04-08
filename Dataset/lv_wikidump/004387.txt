@@ -1,0 +1,58 @@
+{{Elementa infokaste
+ |                 tips = lantanīds
+ |      kārtas skaitlis = 70
+ |             6. čaula = 2
+ |             5. čaula = 8
+ |             4. čaula = 32
+ |             3. čaula = 18
+ |             2. čaula = 8
+ |             1. čaula = 2
+ |              simbols = Yb
+ |             atommasa = 173,04
+ |   valences elektroni = [Xe]4f<sup>14</sup>6s<sup>2</sup>
+ |       tabulas attēls = [[Attēls:Yb-TableImage.png|250px]]
+ |               attēls = [[Attēls:Ytterbium-3.jpg|160px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Ytterbium 1-croprotated.jpg|160px]]<br />Iterbija paraugi
+ |  oksidēšanas pakāpes = '''+3''', +2
+ |  elektronegativitāte = 1,1
+ |              blīvums = 6965,4
+ |  kušanas temperatūra = 1097 K (824&nbsp;°C)
+ | viršanas temperatūra = 1496 K (1169&nbsp;°C)
+ |   trīskāršais punkts = 
+ |    kritiskais punkts = 
+ |  īpatnējā pretestība = 
+ |        skaņas ātrums = 
+ | Van der Vālsa rādiuss = 
+}}
+
+'''Iterbijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Yb''' un [[atomskaitlis|atomskaitli]] 70. Tas ir mīksts, sudrabbalts [[metāls]]. Tāpat kā pārējos [[lantanīdi|lantanīdus]], to iegūst no [[polimetāliskās rūdas|polimetālu rūdām]]. Iterbiju lieto [[sakausējums|sakausējumiem]], arī kā [[tērauds|tērauda]] piedevu. Savienojumos iterbijam parasti ir oksidēšanas pakāpe +3.
+
+== Izotopi ==
+Dabā iterbijs ir sastopams septiņos [[izotops|izotopos]]. Visizplatītākais ir iterbijs–174 (32,026% no kopējā daudzuma).<ref name="jlab"/> Vēl lielā koncentrācijā atrodami iterbijs–172 (21,68%), iterbijs–173 (16,103%), iterbijs–171 (14,09%) un iterbijs–176 (12,996%).<ref name="jlab"/> Stipri mazāk ir iterbijs–170 (2,982%) un iterbijs–168 (0,123%).<ref name="jlab"/> Visi dabā atrodamie iterbija izotopi ir stabili.
+
+Ir zināmi vēl mākslīgi iegūti iterbija izotopi, kuru [[masas skaitlis]] ir no 148 līdz 181. Visstabilākais no tiem ir iterbijs–169, kura [[pussabrukšanas periods]] ir 32,018 dienas.<ref name="jlab"/>
+
+== Ieguve ==
+Ik gadu iegūst aptuveni 50 tonnas iterbiju.<ref name="lenntech"/> To visvairāk iegūst [[Ķīna|Ķīnā]], [[Amerikas Savienotās Valstis|Amerikas Savienotajās Valstīs]], [[Brazīlija|Brazīlijā]], [[Indija|Indijā]], [[Šrilanka|Šrilankā]] un [[Austrālija|Austrālijā]]. Tiek lēsts, ka iterbija daudzuma ir aptuveni miljons tonnas.<ref name="lenntech"/> 
+
+== Vēsture ==
+Iterbiju 1878. gadā atklāja šveiciešu ķīmiķis [[Žans Šarls Galisārs de Mariņjaks]] (''Jean Charles Galissard de Marignac''). Ķīmiskā elementa nosaukums ir radies no [[Zviedrija]]s ciema [[Iterbī]] nosaukuma. Netālu no šīs pilsētas ieguva [[iterbīts|iterbīta]] minerālu, no kura pirmo reizi tika iegūts iterbijs. Tīrā veidā iterbijs pirmo reizi tika iegūts 1937. gadā.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso070.html | title= Isotopes of the Element Ytterbium | publisher= Jefferson Lab | accessdate= 2016. gada 20. decembrī | language= angļu valodā}}</ref>
+
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/yb.htm | title= Ytterbium | publisher= Lenntech | accessdate= 2016. gada 20. decembrī | language= angļu valodā}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]

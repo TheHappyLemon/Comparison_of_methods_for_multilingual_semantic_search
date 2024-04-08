@@ -1,0 +1,7 @@
+'''Versiju pārvaldības sistēma''' (VPS) ir programmatūras rīks, kas palīdz organizēt kādas mainīgas informācijas vienības evolucionāru attīstību. Kā informācijas vienība var būt programmatūras [[pirmkods]], elektroniski dokumenti, grāmatas. VPS tiek uzglabātas dažādas dokumentu versijas. Ja ir nepieciešamība, var atgriezties pie agrākām versijām. 
+
+VPS visbiežāk pielieto darbam komandā, kad vairāki izstrādātāji var rediģēt vienu un to pašu dokumentu.
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Programmatūra]]

@@ -1,0 +1,7 @@
+<span class="metadata"><span class="unicode audiolink">[[:Media:{{{1}}}|{{{2}}}]]</span> <small>([[:en:Wikipedia:Media help|palīdzība]]·[[:File:{{{1}}}|info]])</small></span><noinclude>
+
+----
+Ar '''Template:Audio''' var izveidot saiti uz audio failu (arī tad, ja tas atrodas ''[[:Commons:|Commons]]''), lai viegli varētu to noklausīties. To izmanto, iekļaujot tekstā, piemēram, lai ilustrētu izrunu. Skat. veidnes [[:en:Template talk:Audio|diskusiju lapu angļu valodā]] vai arī [[:commons:Commons:List of audio templates for the Wikipedias|informāciju ''Commons'']].
+
+[[Kategorija:Vikipēdijas veidnes]]
+</noinclude>

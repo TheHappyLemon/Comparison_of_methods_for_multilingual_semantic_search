@@ -1,0 +1,74 @@
+{{Atjaunot|to, ka mūsdienās lipīdus definē savādāk}}
+[[Attēls:Lipīdu_iedalījums.JPG|thumbnail|235px|Lipīdu iedalījums]]
+'''Lipīdi''' (no {{val|el|λίπος}} (''lipos'') — 'tauki') ir visai daudzveidīga bioorganisko vielu grupa. Lipīdi ir [[ūdens|ūdenī]] nešķīstoši vai slikti šķīstoši savienojumi, kuri labi šķīst nepolāros organiskajos šķīdinātājos. Pie lipīdiem pieder: [[taukskābe]]s, [[tauki]], [[eļļa]]s, [[vaski]], [[terpēni]], [[fosfolipīdi]], [[steroīdi]]. Vispazīstamākie lipīdi ir tauki un dažkārt šos vārdus lieto kā sinonīmus.
+
+Lipīdi ietilpst ikvienas [[šūnas membrāna]]s struktūras sastāvā. Tauki uzkrājas organismā kā [[enerģija]]s rezerve (piemēram, zemādas tauki), taču arī augu taukiem noārdoties, rodas daudz enerģijas. Tauki izpilda arī aizsargfunkciju. Biezā slānī tie pasargā iekšējos orgānus no siltuma zuduma un triecieniem.
+
+No taukiem un eļļām reakcijās ar sārmiem rodas ziepes. Ziepes ir taukskābju nātrija vai kālija sāļi. Tauki dzīvnieku un cilvēku organismā noārdās līdz [[oglekļa dioksīds|oglekļa dioksīdam]] un [[ūdens|ūdenim]], un dod enerģiju galvenokārt sirds un skeleta muskuļiem. Gremošanas traktā lielākā daļa tauku [[Fermenti|fermenta]] [[Lipāze|lipāzes]], ko izdala aizkuņģa dziedzeris un zarnu gļotāda, ietekmē tiek sašķelti līdz glicerīnam un taukskābēm. Zarnu sieniņās veidojas organismam raksturīgie tauki, kas nonāk limfā vai asinīs. Uzsūktie tauki un taukskābes iesaistās tālākajā vielmaiņā vai arī nogulsnējas kā rezerves vielas zemādas saistaudos.
+
+== Lipīdu metabolisms ==
+Lipīdi pieder pie dažādas struktūras savienojumu grupām, tādēļ arī to bioloģiskās funkcijas, biosintēze, noārdīšanās ir ļoti atšķirīgas. No uzturzinātnes viedokļa lielākā nozīme ir taukiem, fosfolipīdiem un holesterīnam, jo dietas tradīcijas, izmaiņas lipīdu metabolismā var būtiski ietekmēt organisma homeostāzi kopumā un veicināt noteiktu patoloģiju attīstību — aptaukošanos, aterosklerozi un citas. Ar lipīdiem vajadzētu nosegt ne vairāk kā 15% enerģētiskā patēriņa sevišķu vērību piegriežot optimālam lipīdu sastāvam — pietiekošam augsti nepiesātināto taukskābju saturam, mazākam īsās virknes vai t.s.trans-taukskābju daudzumam.
+
+=== Lipīdu transporta formas ===
+Tauki ir glicerīna un taukskābju esteri. Uzņemti ar uzturu, taukus kuņģa zarnu traktā žultsskābes emulģē, lipāžu ietekmē tie hidrolizējas un zarnās uzsūcas. Uzsūkšanās laikā notiek daļēja tauku resintēze ar limfu asins straumē nonāk liela lipīdu dažādība, kura veido asinīs tā saucamās lipīdu transporta formas.<ref>Smith, Sareen S. Gropper, Jack L.; Smith, Jack S (2013). ''Advanced nutrition and human metabolism'' (6th ed.). Belmont, CA: Wadsworth/Cengage Learning. [[International Standard Book Number|ISBN]] [[Special%3ABookSources/1133104053|1133104053]].</ref>
+{| class="wikitable"
+| rowspan="2" |'''Lipīdu pārstāvis'''
+| colspan="4" |'''Lipīdu sastāvs %'''
+|-
+|'''Blīvums'''
+|'''Proteīni'''
+|'''Fosfolipīdi'''
+|'''Holesterīns'''
+
+'''+esteri'''
+|-
+|Hilomikroni
+|0,95
+|1—2%
+|8
+|4
+|-
+|Sevišķi zema blīvuma lipoproteīni (pre-bēta lipoproteīni)
+|~1,0
+|8
+|20
+|25
+|-
+|Vidēja blīvuma lipoproteīni
+|~1,01
+|11
+|26
+|45
+|-
+|Zema blīvuma lipoproteīni (bēta lipoproteīni)
+|~1,04
+|21
+|28
+|55
+|-
+|Augsta blīvuma lipoproteīni (alfa lipoproteīni)
+|~1,15
+|40
+|45
+|<40
+|-
+|Albumīni+ taukskābes
+|~1,25
+|99 
+|
+|
+|}
+
+Šo transporta formu nozīme ir tā, ka, pirmkārt, proteīnu slānis apņem tauku mikropilieniņu un nodrošina tā dispersijas pakāpi. Ja tā nebūtu, tad izveidotos liels tauku piliens, kurš izsauktu tauku emboliju un smagus asinsrites traucējumus. Otrkārt, proteīni un fosfolipīdi aktīvi piedalās holesterīna transportā un metabolismā. Lipoproteīnu sastāvā esošās olbaltumvielas sauc par apoliproteīniem.
+
+No asins straumes tauki nonāk perifērajos audos, šūnās un tiek pakļauti intracelulāram katabolismam. Notiek tauku hidrolīze ar intracelulārajām lipāzēm un izveidojas glicerīns un taukskābes.
+
+== Atsauces ==
+
+{{atsauces}}
+{{bioķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bioķīmija]]
+[[Kategorija:Organiskās vielas]]

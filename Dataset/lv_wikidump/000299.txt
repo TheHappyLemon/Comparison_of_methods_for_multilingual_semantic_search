@@ -1,0 +1,127 @@
+{{cita nozīme|Eiropas valsti|pilsētu Saksijā|Lihtenšteina (Saksija)}}
+
+{{Valsts infokaste
+|         vietējais_nosaukums = ''{{val|de|Fürstentum Liechtenstein}}''
+|    pilnais_valsts_nosaukums = Lihtenšteinas Firstiste
+|            valsts_nosaukums = Lihtenšteina
+|               karoga_attēls = Flag of Liechtenstein.svg
+|            karoga_nosaukums = Lihtenšteinas karogs
+|              ģerboņa_attēls = Staatswappen-Liechtensteins.svg
+|           ģerboņa_nosaukums = Lihtenšteinas ģerbonis
+|             ģerboņa_platums = 85px
+|                valsts_himna = <br/>''[[Oben am jungen Rhein]]''<small><br />''Augsti uz jaunā [[Reina]]''</small><br/>[[attēls:Oben am jungen Rhein, by the U.S. Navy Band.ogg|center]]
+|               kartes_attēls = Location Liechtenstein Europe.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Vaduca]]
+|latd=47|latm=08.5|latNS=N|longd=9|longm=31.4|longEW=E
+|             lielākā_pilsēta = [[Šāna]]
+|              valsts_valodas = [[vācu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Konstitucionālā monarhija]]
+|        valsts_galvas_tituls = [[Lihtenšteinas firstu uzskaitījums|Princis]]
+|                valsts_galva = [[Hanss Ādams II]]
+|       valsts_galvas_tituls2 = [[Lihtenšteinas premjerministrs|Premjerministrs]]
+|               valsts_galva2 = [[Daniel Risch]]
+|        neatkarības_iegūšana = Neatkarība kā firstistei
+|         neatkarības_piezīme = 
+|        neatkarības_notikums = [[Presburgas miera līgums]]
+|          neatkarības_datums = [[1806]]. gadā
+|       neatkarības_notikums2 = Neatkarība no [[Vācu Savienība]]s
+|         neatkarības_datums2 = [[1866]]. gadā
+|       neatkarības_notikums3 = 
+|         neatkarības_datums3 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 160
+|               platība_rangs = 211.
+|              procenti_ūdens = nenozīmīgs
+|          iedzīvotāju_skaits = 35,789 <ref>[http://www.llv.li/amtsstellen/llv-as-bevoelkerung/llv-as-bevoelkerung-bevoelkerungsstatistik_per_30_juni.htm Bevölkerungsstatistik 30. Juni 2009] {{Webarchive|url=https://web.archive.org/web/20131114083836/http://www.llv.li/amtsstellen/llv-as-bevoelkerung/llv-as-bevoelkerung-bevoelkerungsstatistik_per_30_juni.htm |date={{dat|2013|11|14||bez}} }}, Landesverwaltung Liechtenstein.</ref>
+|     iedzīvotāju_skaita_gads = [[2009. gads|2009]]
+|    iedzīvotāju_skaits_rangs = 206
+|    apdzīvotības_blīvums_km2 = 221
+|  apdzīvotības_blīvums_rangs = 52.
+|                     IKP_PPP = $3,250 miljardi <ref name="Liechfigures">[http://www.llv.li/amtsstellen/llv-as-wichtige_zahlen_engl.htm Key Figures for Liechtenstein] {{Webarchive|url=https://web.archive.org/web/20090917040625/http://www.llv.li/amtsstellen/llv-as-wichtige_zahlen_engl.htm |date={{dat|2009|09|17||bez}} }}, Landesverwaltung Liechtenstein.</ref><ref name="wdi">[http://data.worldbank.org/data-catalog World Development Indicators], [[Pasaules Banka]]. Piezīme: aprēķinos izmantots Šveices [[pirktspējas paritāte]]s indikators un oficiālais valūtas kurss.</ref>
+|                IKP_PPP_gads = 2008
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $91 697
+|    IKP_PPP_per_capita_rangs = 1.
+|                         HDI = {{palielinājās}} 0,821 <ref name="HDI">{{Tīmekļa atsauce|url=http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=4 November 2010}}</ref>
+|                    HDI_gads = 2010
+|              HDI_kategorija = <font color="#009900">augsts</font>
+|                   HDI_rangs = 6.
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Šveices franks]]
+|                valūtas_kods = CHF
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.li]]
+|              tālsarunu_kods = 423
+|                iso_kods_num = 438
+|              iso_kods_alfa2 = LIE
+|              iso_kods_alfa3 = LI
+}}
+
+'''Lihtenšteinas Firstiste''' ({{val|de|Fürstentum Liechtenstein}}) ir pundurvalsts [[Centrāleiropa|Centrāleiropā]]. Lihtenšteinas teritorija ir ap 160 km<sup>2</sup> un tās iedzīvotāju skaits ap 35 000. Valsts nosaukums cēlies no valdošās Lihtenšteinu dinastijas vārda. Galvaspilsēta ir [[Vaduca]]; lielākā pilsēta — [[Šāna]]. Lihtenšteina robežojas ar [[Austrija|Austriju]] austrumos un [[Šveice|Šveici]] rietumos un šīs divas valstis pilnībā ieskauj tās teritoriju. Valsts iekārta ir [[konstitucionālā monarhija]]. Saskaņā ar CIP Pasaules faktu grāmatu Lihtenšteinā ir augstākais pasaulē [[iekšzemes kopprodukts]] uz vienu iedzīvotāju.<ref>{{Tīmekļa atsauce |url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html |title=CIA - The World Factbook - Country Comparison :: GDP - per capita (PPP)<!-- Bota izveidots nosaukums --> |access-date={{dat|2010|11|28||bez}} |archive-date={{dat|2013|04|24||bez}} |archive-url=https://web.archive.org/web/20130424075526/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html }}</ref>
+
+Lihtenšteina ir mazākā, bet bagātākā vācvalodīgā valsts pasaulē un vienīgā Alpu valsts, kuras teritorija pilnībā atrodas [[Alpi|Alpos]]. Tā ir vienīgā vācvalodīgā valsts, kam nav kopīgas robežas ar [[Vācija|Vāciju]]. Administratīvi Lihtenšteina ir sadalīta 11 pašvaldībās. Lielāko daļu Lihtenšteinas teritorijas aizņem kalni. Ainavai raksturīgi lauksamnieciski apstrādāti lauki un nelielas [[zemnieku saimniecība]]s gan valsts ziemeļos (''Unterland'' — 'zemā zeme'), gan dienvidos (''Oberland'' — 'augstā zeme'). Valstī ir daudz banku, kas atrodas galvaspilsētā Vaducā, zemo nodokļu likmju dēļ Lihtenšteinu uzskata par "nodokļu paradīzi". Lihtenšteina ir [[Eiropas Brīvās tirdzniecības asociācija]]s locekle un ietilpst Eiropas Ekonomiskajā zonā, taču nav [[Eiropas Savienība|Eiropas Savienībā]].
+
+== Vēsture ==
+{{pamatraksts|Lihtenšteinas vēsture}}
+[[Reina]]s līdzenums vienmēr ir bijis apdzīvoto vietu centrs. Gadsimtiem ilgi ieleju aizņēma divas neatkarīgas [[Svētā Romas impērija|Svētās Romas impērija]]s valstis [[Vaduca]] un [[Šellenberga]].<ref>{{Tīmekļa atsauce|url=https://www.britannica.com/place/Liechtenstein/History|title=Liechtenstein - History {{!}} Britannica|website=www.britannica.com|access-date=2022-09-02|language=en}}</ref>
+
+1719. gada 15. augustā izveidojās Lihtenšteinas firsta valsts, kas [[Napoleona kari|Napoleona karu]] laikā pievienojās vācu [[Reinas Savienība]]i (1808—1815), pēc tam [[Vācu Savienība]]i (1815—1866).
+
+1866. gada 14. februārī Lihtenšteina kļuva par neatkarīgu valsti. 1924. gadā tā izveidoja kopēju monetāro un muitas ūniju ar Šveices Konfederāciju, arī mūsdienās Lihtenšteinas intereses ārzemēs pārstāv Šveice.
+
+== Ģeogrāfija ==
+[[Attēls:Rhein Liechtenstein.png|thumb|left|Reinas ieleja uz robežas starp Lihtenšteinu un Šveici.]]
+Lihtenšteina atrodas Alpos, [[Reina]]s augšteces apkaimē. Austrumos tā robežojas ar [[Austrija|Austriju]], bet rietumos ar [[Šveice|Šveici]]. Valsts teritorija ir nedaudz izstiepusies ziemeļu-dienvidu virzienā un tās garums ir 24 km. Valsts pašos dienvidos atrodas Lihtenšteinas augstākā virsotne — Graušpice (2 599 m). Zemākā vieta atrodas 429 m augstumā Reinas krastā valsts ziemeļos. Lielākās valsts upes ir Reina, kas kalpo kā robeža starp Lihtenšteinu un Šveici, kā arī Zamina.
+
+Klimats mērens, nokrišņu daudzums 700—1200 mm gadā. Neskatoties uz to, ka Lihtenšteina atrodas Alpos, biežo dienvidu vēju klimats šeit ir samērā maigs.
+
+Meži klāj 25% no teritorijas, kalnu ganības un pļavas 43%, aramzeme 25%. Mežos dzīvo brieži, lapsas, bebri, caunas. Audzē kartupeļus, dārzeņus, kviešus, miežus. Valsts klimats ir maigs, vidējā janvāra temperatūra ir -10[[Celsija grāds|°C]], jūlija +21 °C.
+
+== Demogrāfija ==
+Lihtenšteinā dzīvo 35,8 tūkstoši iedzīvotāju un apdzīvojuma blīvums ir visai liels — ap 220 cilv./km<sup>2</sup>. Vidējais [[dzīves ilgums]] ir 79,68 gadi (76,1 vīriešiem un 83,28 sievietēm).
+
+Apmēram divas trešdaļas iedzīvotāju ir dzimuši Lihtenšteinā (65,8%), piektā daļa (20,1%) nāk no citām vācvalodīgajām valstīm (10,8% no [[Šveice]]s, 5,9% no [[Austrija]]s un 3,4% no [[Vācija]]s). Pārējie iedzīvotāji nāk no [[Itālija]]s un bijušās [[Dienvidslāvija]]s (3,3%), no [[Turcija]]s (2,6%) un citām valstīm (4,8%).
+
+Lai arī oficiālā valoda ir vācu valoda, vairums iedzīvotāju runā alemāņu dialektā, kas būtiski atšķiras no standarta vācu valodas, bet ir radniecīgs dialektiem, ko runā kaimiņu reģionos.
+
+Saskaņā ar 2000. gada tautas skaitīšanu, 87,9% iedzīvotāju ir kristieši, no kuriem 78,4% pieder pie Romas katoļu ticības un ap 8% ir protestanti.
+
+== Valsts pārvalde ==
+Valsts galva ir princis Hans Ādams II, valdību vada premjerministrs, likumdevēja varu realizē princis un [[landtāgs]] (25 deputāti).
+
+== Administratīvais iedalijums ==
+{{Pamatraksts|Lihtenšteinas administratīvais iedalījums}}
+Lihtenšteinu veido divas vēsturiski izveidojušās administratīvās daļas: [[Augšlihtenšteina|Oberlande]] (Augšlihtenšteina) ar centru [[Vaduca]]s pilsētā un [[Lejaslihtenšteina|Unterlenda]] (Lejaslihtenšteina) ar centru [[Šellenberga]]s pilsētā.
+
+Lihtenšteinas Firstiste ir sadalīta 11 pašvaldībās (komūnās). Rajoni sastāv no diviem vai viena [[Ciems|ciemata]]. Valstī nav īstu [[Pilsēta|pilsētu]]. Piecas komūnas atrodas [[Lejaslihtenšteinas vēlēšanu apgabals|Lejaslihtenšteinas vēlēšanu apgabalā]], pārējās sešas pieder [[Augštenšteinas vēlēšanu apgabals|Augštenšteinai]].
+
+== Saimniecība ==
+Galvenie tirdzniecības partneri ir [[Šveice]] un [[Francija]]. Saimniecībā kopš [[1960. gadi]]em ir attīstīta rūpniecība. Ražo mākslīgos zobus, vīnu, suvenīrus. Svarīgs ienākumu avots ir pastmarkas. Izplatīts tūrisms un kultūrsaimniecības.
+
+== Diplomātiskās attiecības ar Latviju ==
+Latvijas intereses Lihtenšteinā pārstāv [[Latvija]]s vēstniecība Austrijā. Lihtenšteinas intereses Latvijā pārstāv Šveices vēstniecība Rīgā, jo kopš 1991. gada 24. oktobra Šveice ir uzņēmusies pārstāvēt Lihtenšteinas intereses tajās valstīs, kurās tai nav savas pārstāvniecības.
+
+== Skatīt arī ==
+* [[Lihtenšteinas firsti]]
+
+== Piezīmes un atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lihtenšteina]]

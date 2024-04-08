@@ -1,0 +1,39 @@
+[[Attēls:Classes and Methods.png|thumbnail|235px|''[[Hello World]]'' piemērs, kas uzrakstīts programmēšanas valodā ''[[Java (programmēšanas valoda)|Java]]'']]
+'''Programmēšanas valoda''' ir [[formāla valoda]], kas kalpo [[datorprogramma|datorprogrammu]] aprakstam. Ir izstrādāts plašs [[programmēšanas valodu uzskaitījums|programmēšanas valodu klāsts]], sākot ar [[mašīnorientēta valoda|mašīnorientētām valodām]] līdz [[augsta līmeņa programmēšanas valoda|augsta līmeņa valodām]].
+
+== Programmēšanas valodu vēsture ==
+Programmēšanas valodu attīstība ir cieši saistīta ar šodienas datoros izmantoto fizisko un elektronisko procesu attīstību.
+
+Par pirmās datoriem līdzīgās mašīnas autoru tiek uzskatīts [[Čārlzs Bebidžs]], kuram [[Ada Lavleisa]] sarakstīja vairākas programmas šīs mašīnas [[asamblervaloda]]s analogā.
+
+1940. gados tika radīti pirmie mūsdienīgie, elektriskie datori. Sākotnēji datoru izstrādi virzīja nepieciešamība veikt sarežģītus aprēķinus, tādus, kā šifrēšana, atšifrēšana un trajektoriju aprēķināšana militārām vajadzībām. Tajā laikā datori bija ļoti lieli, lēni un dārgi. Pēckara sasniegumi [[elektronika|elektronikā]] ļāva radīt daudz praktiskākus elektroniskos datorus. Tajā laikā tikai [[Konrāds Cūze]] iedomājās, ka tādas programmēšanas valodas, kādas tiek izmantotas mūsdienās, varētu atrisināt daudzas problēmas.
+
+Sekojošie izrāvieni elektronikā ([[tranzistors|tranzistori]], [[integrālā shēma|integrālās shēmas]]) noveda pie arvien labāku un lietojamāku datoru izstrādes. Pirmā plaši lietotā programmēšanas valoda bija ''[[Fortran]]'', kuru izstrādāja [[IBM]] no 1954. līdz 1957. gadam. Fortrans tiek plaši izmantots vēl joprojām,{{fact}} 2004. gadā tika pieņemts tā starptautiskais standarts.
+
+No 1969. līdz 1973. gadam<ref name="chistory"/> amerikāņu datorzinātnieks [[Deniss Ričijs]] un kanādiešu datorzinātnieks [[Braiens Kērnigans]] (''Brian Kernighan'') [[DEC]] [[PDP-10]] datoram izstrādāja programmēšanas valodu [[C (programmēšanas valoda)|C]]. 1985. gadā tika izstrādāta valoda [[C++]], kas bija ar programmēšanas valodu C savietojama [[objektorientēta programmēšanas valoda|objektorientēta valoda]]. 1995. gadā ''[[Sun Microsystems]]'' izstrādāja valodu ''[[Java (programmēšanas valoda)|Java]]''. 2001. gadā ''[[Microsoft]]'' radīja programmēšanas valodai ''Java'' līdzīgu valodu [[C sharp|C#]].
+
+2014. gada maijā visplašāk izmantotās programmēšanas valodas bija [[C (programmēšanas valoda)|C]] un ''[[Java (programmēšanas valoda)|Java]]''.<ref name="tiobe"/> Nākamās populārākās programmēšanas valodas bija ''[[Objective-C]]'', [[C++]] un ''[[Visual Basic]]''.<ref name="tiobe"/> Plaši tiek lietotas arī daudzas citas valodas, piemēram, [[C sharp|C#]], [[PHP]], ''[[Python]]'', ''[[JavaScript]]'' un ''[[Perl]]''.<ref name="tiobe"/>
+
+== Skatīt arī ==
+* [[Programmēšanas valodu uzskaitījums]]
+* [[Kompilators]]
+* [[Vizuālā programmēšana]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="chistory">{{tīmekļa atsauce | url= http://cm.bell-labs.com/who/dmr/chist.html | title= The History of the C Programming Language | author= Dennis M. Ritchie | accessdate= 2014. gada 3. jūnijā | archiveurl= https://archive.today/20150110214721/http://cm.bell-labs.com/who/dmr/chist.html | archivedate= {{dat|2015|01|10||bez}} }}</ref>
+
+<ref name="tiobe">{{tīmekļa atsauce | url= http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html | title= TIOBE Index for May 2014 | publisher= tiobe.com | date=  | accessdate= 2014. gada 4. jūnijā | language= angliski | archive-date= {{dat|2013|07|02||bez}} | archive-url= https://web.archive.org/web/20130702204820/http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20101119070152/http://progopedia.ru/ Programmēšanas valodu enciklopēdija] {{ru ikona}}
+* [http://www.dmoz.org/Computers/Programming/Languages Computer Programming Languages] [[DMOZ]] {{en ikona}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Programmēšanas valodas| ]]

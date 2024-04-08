@@ -1,0 +1,88 @@
+{{Valūtas infokaste
+|         valūtas nosaukums = Japānas jena
+| valūtas nosaukums cit val = 日本円
+|                  attēls 1 = JPY coins 2.png
+|         attēla paraksts 1 = Standarta vienas jenas monētas (1955— pašlaik)
+|          attēla platums 1 = 230px
+|                  attēls 2 = 
+|         attēla paraksts 2 = 
+|          attēla platums 2 = 
+|                iso kods = JPY
+|          oficiāli lieto = {{flag|Japāna}}
+|        neoficiāli lieto =
+|      inflācijas līmenis = 0,5% (2017. gadā)
+| inflācijas avota datums = {{tīmekļa atsauce | url= https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ja.html | title= Japan | publisher= The World Factbook | access-date= {{dat|2019|02|26||bez}} | archive-date= {{dat|2020|12|21||bez}} | archive-url= https://web.archive.org/web/20201221122452/https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ja.html }}
+|       inflācijas metode = 
+|   subvienības attiecība = 1/100 <br />1/1000
+|   subvienības nosaukums = seni (錢)<br />rini (厘)
+|         valūtas simbols = ¥ (starptautisks)<br />円 (Japānā)
+|        nav daudzskaitļa = jā
+|                 monētas = ¥1, ¥5, ¥10, ¥50, ¥100, ¥500
+|           monētu raksts = 
+|      bieži liet monētas =
+|       reti liet monētas =
+|               banknotes = 
+|         banknošu raksts =
+|    bieži liet banknotes = ¥1000, ¥5000, {{nobr|¥10 000}}
+|     reti liet banknotes = ¥2000
+|        izdevēja iestāde = [[Japānas banka]]
+|izdevēja iestādes mājas lapa = http://www.npb.go.jp/
+|   izņemta no apgrozības = 
+|     infokastes paraksts = 
+}}
+
+'''Japānas jena''' ({{val|ja|円}}, simbols: ¥, [[ISO 4217]] kods: '''JPY''', tiek lietota arī abreviatūra '''JP¥''') ir [[Japāna]]s [[valūta]]. Jena ir trešā vistirgotākā valūta pasaules [[valūtas tirgus|valūtas tirgū]] aiz [[ASV dolārs|ASV dolāra]] un [[eiro]]. Starptautiskais jenas apzīmējums ir ¥. Tā ir Japānas valūta kopš 1872. gada. Vienā jenā ir 100 senu jeb 1000 rinu. 1954. gadā seni tika izņemti no apgrozības.
+
+2019. gada 1. martā pēc [[Starptautiskais Valūtas fonds|Starptautiskā Valūtas fonda]] kursa 1 jena bija 0,0078994 [[eiro]] jeb 1 eiro bija 126,5919 jenas.
+
+== Banknotes ==
+Apgrozībā ir 1000, 5000 un 10 000 jenu banknotes. Reti tiek lietota arī 2000 jenu banknote.
+
+{|class="wikitable"
+|-
+!colspan="2"| Attēls !!rowspan="2"| Nomināls !!rowspan="2"| Izmēri !!rowspan="2"| Primārā krāsa !!colspan="2"| Apraksts !!rowspan="2"| Izlaišanas datums
+|-
+! Averss !! Reverss !! Averss !! Reverss
+|-
+!colspan="8"| E sērija (2004)
+|-
+|style="text-align:center; | [[Attēls:1000 yen banknote 2004.jpg|105px]]
+|style="text-align:center; | [[Attēls:1000 Yen from Back.jpg|105px]]
+| ¥1000 || 150 × 76 mm || gaišzils || [[Hidejo Hoguči]] || [[Fudzi]] kalns, [[Motosu]] ezers un [[sakūra]]s ziedēšana || rowspan="3" | {{dat|2004|11|1|N|bez}}
+|-
+|style="text-align:center; | [[Attēls:5000 Yenes (2004) (Anverso).jpg|110px]]
+|style="text-align:center; | [[Attēls:5000 Yenes (2004) (Reverso).jpg|110px]]
+| ¥5000 || 156 × 76 mm || violets || [[Ičijo Higuči]] || “[[Kakicubata cu]]” ([[Ogata Korins|Ogatas Korina]] glezna, kurā attēloti īrisi)
+|-
+|style="text-align:center; | [[Attēls:10000 Yenes (Anverso).jpg|112px]]
+|style="text-align:center; | [[Attēls:10000 Yenes (Reverso).jpg|112px]]
+| ¥10000 || 160 × 76 mm || brūns || [[Fukudzava Jukiči]] || [[fēnikss|fēniksa]] statuja no [[Bjodoina]]s tempļa
+|-
+!colspan="8"| D sērija (2000)
+|-
+|style="text-align:center; | [[Attēls:P103-2000Yen-(2000) front.jpg|105px]]
+|style="text-align:center; | [[Attēls:2000 Yen Murasaki Shikibu.jpg|105px]]
+| ¥2000 || 154 × 76 mm || zaļš || [[Naha]]s pilsētas vārti || romāna “[[Leģenda par Gendži]]” ilustrācija || {{dat|2000|7|19|N|bez}}
+|}
+
+== Vēsture ==
+[[Attēls:1872 Japanese silver yen obverse.png|thumb|left|120px|1872. gada vienas jenas sudraba monēta]]
+19. gadsimtā [[Meidzi periods|Meidzi perioda]] valdība uzsāka [[Japānas saimniecība]]s modernizāciju, kur viens no uzdevumiem bija vienotas valūtas izveide valstī. Tika ieviesta jena pēc Eiropā esošās decimāldaļu valūtas sistēmas parauga. Pirms [[Meidzi restaurācija]]s Japānas feodāļi izdeva pašu savu naudu, [[hansacu]], kas nebija savstarpēji saistīta visā Japānas teritorijā. 1871. gadā jena tika definēta kā 1,5 g (0,048 [[trojas unce|trojas unces]]) [[zelts]] vai 24,26 g (0,780 trojas unces) [[sudrabs]]. Sākotnēji jenas joprojām kala feodāļi, bet 1882. gadā tika izveidota [[Japānas banka]], kurai turpmāk bija monopols naudas kalšanā.
+
+== Atsauces ==
+{{atsauces}}
+{{atsauces+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{tīmekļa atsauce | url= https://lv.coinmill.com/JPY_calculator.html | title= Kalkulators Japānas jena (JPY) Valūtas kurss | language= lv}}
+* {{tīmekļa atsauce | url= http://www.boj.or.jp/en/type/list/yuko/data/money01.pdf | title= JPY - Japānas jenu attēli | archiveurl= https://web.archive.org/web/20070926223117/http://www.boj.or.jp/en/type/list/yuko/data/money01.pdf |archivedate= 2007. gada 26. septebris | language= en}}
+
+
+{{Japāna-aizmetnis}}
+{{ekonomika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Nacionālās valūtas]]
+[[Kategorija:Japānas saimniecība]]

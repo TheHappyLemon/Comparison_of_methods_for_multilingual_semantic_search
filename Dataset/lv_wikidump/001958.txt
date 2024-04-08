@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Dzēst|main}}</includeonly><noinclude>
+{{Dokumentācija}}
+</noinclude>

@@ -1,0 +1,120 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name                    = Vērmonta
+| native_name             = ''Vermont''
+| other_name              = 
+| settlement_type         = ASV štats
+| image_skyline           = BurlingtonVT ChurchStreet.jpg
+| imagesize               = 235px
+| image_caption           = Baznīcas iela Bērlingtonā, Vērmontas lielākajā pilsētā
+| image_flag              = Flag of Vermont.svg
+| flag_size               = 130px
+| image_seal              = Vermont state seal.svg
+| seal_size               = 80px
+| nickname                = ''The Green Mountain State''
+| motto                   = ''Freedom and Unity''
+| anthem                  = 
+| capital                 = [[Montpīljera]]
+| largest_city            = [[Bērlingtona (Vērmonta)|Bērlingtona]]
+| official_language       = [[angļu valoda]]
+| spoken_language         = 
+| image_map               = Vermont in United States (zoom).svg
+| mapsize                 = 235px
+| map_caption             = Vērmontas atrašanās vieta ASV
+| subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+| leader_party            =R 
+| leader_title            = Gubernators
+| leader_name             =Fils Skots 
+| area_footnotes          = 
+| area_magnitude          = 
+| area_total_km2          = 24923
+| area_land_km2           = 23976
+| area_water_km2          = 947
+| area_water_percent      = 3.8
+| area_rank               = 
+| elevation_max_m         = [[Mensfīlda kalns]], 1340
+| elevation_min_m         = 
+| population_footnotes    = 
+| population_total        = 625741
+| population_as_of        = 2010. gadā
+| population_rank         = 
+| population_density_km2  = auto
+| population_blank1_title = Rasu sastāvs
+| population_blank1       = baltie - 97,95%<br />melnie - 0,89%
+| population_blank2_title = Reliģijas
+| population_blank2       = [[protestanti]] - 29%<br />[[katoļi]] - 38%<br />nereliģiozi - 22%
+| timezone                = UTC
+| utc_offset              = -5
+| timezone_DST            = UTC
+| utc_offset_DST          = -4
+| website                 = {{url|http://www.vermont.gov/}}
+| footnotes               = 
+}}
+
+'''Vērmonta''' ({{val|en|Vermont}}, {{izrunā|vɜrˈmɒnt}}) ir viens no [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] 50 [[ASV štats|štatiem]], atrodas [[Jaunanglija]]s reģionā. Pēc platības tas ir sestais mazākais ASV štats, bet pēc iedzīvotāju skaita — otrs mazākais. Vērmontas administratīvais centrs ir [[Montpīljera]], bet lielākā pilsēta ir [[Bērlingtona (Vērmonta)|Bērlingtona]].
+
+Vērmonta ziemeļos robežojas ar [[Kanāda]]s provinci [[Kvebeka|Kvebeku]], austrumos ar [[Ņūhempšīra|Ņūhempšīru]], dienvidos ar [[Ņujorka (štats)|Ņujorku]], bet rietumos ar [[Masačūsetsa|Masačūsetsu]].
+
+== Administratīvais iedalījums ==
+Vērmonta administratīvi sīkāk dalās 14 apgabalos: [[Adisonas apgabals|Adisonas]], [[Beningtonas apgabals|Beningtonas]], [[Čitendenas apgabals|Čitendenas]], [[Eseksas apgabals|Eseksas]], [[Franklinas apgabals|Franklinas]], [[Grandailas apgabals|Grandailas]], [[Kaledonijas apgabals|Kaledonijas]], [[Lamoilas apgabals|Lamoilas]],[[Orindžas apgabals|Orindžas]], [[Orliansas apgabals|Orliansas]], [[Ratlendas apgabals|Ratlendas]], [[Vašingtonas apgabals|Vašingtonas]], [[Vindemas apgabals|Vindemas]] un [[Vindzoras apgabals|Vindzoras apgabalos]].
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-cities-and-towns-total.html|title=United States Census|access-date=17.03.2022}}</ref>
+|-
+|1
+|[[Bērlingtona (Vērmonta)|Bērlingtona]]
+|44 743
+|-
+|2
+|[[Sautbērlingtona]]
+|20 292
+|-
+|3
+|[[Ratlenda (Vērmonta)|Ratlenda]]
+|15  807
+|-
+|4
+|[[Bēri (Vērmonta)|Bēri]]
+|8 491
+|-
+|5
+|[[Montpīljera]]
+|8 074
+|-
+|6
+|[[Vinoski]]
+|7 997
+|-
+|7
+|[[Sentolbansa]]
+|6 887
+|-
+|8
+|[[Ņūporta (Vērmonta)|Ņūporta]]
+|4 455
+|-
+|9
+|[[Vergenesa]]
+|2 553
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.vermont.gov/ | title= The Official Website of the State of Vermont | publisher= vermont.gov | language= angliski}}
+* {{tīmekļa atsauce | url= http://www.vermont.com/ | title= Your Vermont Guide | publisher= vermont.com | language= angliski}}
+
+
+{{ASV-aizmetnis}}
+
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vērmonta| ]]

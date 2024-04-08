@@ -1,0 +1,71 @@
+{{Elementa infokaste
+|                 tips = halogēns
+|      kārtas skaitlis = 53
+|             5. čaula = 7
+|             4. čaula = 18
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = I
+|             atommasa = 126,90447
+|   valences elektroni = [Kr]4d<sup>10</sup>5s<sup>2</sup>5p<sup>5</sup>
+|       tabulas attēls = [[Attēls:I-TableImage.svg|250px]]
+|               attēls = [[Attēls:Iodinecrystals.JPG|190px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:IodoAtomico.JPG|120px]]<br />Kristālisks jods un violeti joda tvaiki [[kolba|kolbā]]
+|  oksidēšanas pakāpes = '''+7''', +5, +3, +1, '''-1'''
+|  elektronegativitāte = 2,66
+|              blīvums = 4940
+|  kušanas temperatūra = 386,85 K (113,7&nbsp;°C)
+| viršanas temperatūra = 457,4 K (184,3&nbsp;°C)
+}}
+'''Jods''' ir [[ķīmiskais elements]] ar simbolu '''I''' (līdz 20. gadsimta 50. gadiem - '''J''') un atomnumuru 53. Jods ir smagākais neradioaktīvais [[halogēni|halogēns]]. Jods dabā ir sastopams [[jodīdi|jodīdu]] veidā. Jodu pirmo reizi brīvā veidā ieguva [[1811]]. gadā, jūras zāļu [[pelni]]em pieliekot pārāk daudz [[sērskābe]]s. Izveidojās joda tvaiki, kurus izdevās [[kondensācija|kondensēt]]. Mūsdienās visvairāk jodu ražo [[Čīle|Čīlē]], jo tur atrodas jodu saturoša minerāla atradnes.
+
+Sadzīvē par jodu dažkārt dēvē medicīnisko [[joda tinktūra|joda tinktūru]] - joda un [[kālija jodīds|kālija jodīda]] šķīdumu [[etanols|etanolā]].
+
+== Bioloģiskā nozīme ==
+* Organismā jods koncentrējas [[vairogdziedzeris|vairogdziedzerī]], kur piedalās divu [[vielmaiņa]]s regulācijas [[hormons|hormonu]] - [[trijodtironīns|trijodtironīna]] (T3) un [[tiroksīns|tiroksīna]] (T4) - veidošanā.<ref>[http://books.nap.edu/openbook.php?record_id=10026&page=258 Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc<!-- Bota izveidots nosaukums -->]</ref>
+
+* Jods organismā ir ļoti vajadzīgs, jo piedalās normālā vielmaiņā, darbojas arī kā vairogdziedzera saslimšanu, [[struma]]s un [[kretīnisms|kretīnisma]] profilakses līdzeklis, taču atrodams tikai dažos pārtikas produktos ([[olas|olās]], jūras produktos). Tāpēc vairākās valstīs likums nosaka ražotājiem to pievienot vārāmajai sālij.<ref>[http://www.ploome.com/lat/pareizs-uzturs/jods.html J - jods<!-- Bota izveidots nosaukums -->]</ref>
+
+== Ķīmiskās īpašības ==
+Savienojumos jodam var būt oksidēšanas pakāpes no -1 līdz +7 (tāpat kā lielākajai daļai halogēnu). Jods reaģē ar daudziem [[metāli]]em, veidojot [[jodūdeņražskābe]]s sāļus - jodīdus.
+[[Attēls:Mēģene ar jodu.JPG|thumb|left|200px|[[Mēģene]] ar jodu]]
+
+== Fizikālās īpašības ==
+Brīvā veidā jods ir tumšpelēka cieta kristāliska viela ar violetu metālisku spīdumu, kas šķīst organiskajos šķīdinātājos, bet slikti šķīst ūdenī. Jods labāk šķīst ūdenī, kas satur izšķīdušus jodīdus, jo tad veidojas trijodīda jons (I<sup>3−</sup>), kas šķīst ievērojami labāk. Joda šķīdumi ūdenī un [[etanols|etanolā]] ir brūni, šķīdumi [[tetrahlorogleklis|tetrahlorogleklī]] un [[hloroforms|hloroformā]] ir violeti.
+{| class="wikitable"
+|-
+| Šķīdība ūdenī || 0,078 g/100ml pie 25&nbsp;°C
+|-
+| Šķīdība etanolā || 21,43 g/100ml pie 25&nbsp;°C
+|-
+| Šķīdība [[sērogleklis|sērogleklī]] || 16,47 g/100ml pie 25&nbsp;°C
+|}
+[[Attēls:Iodine-evaporating.jpg|thumb|200px|Tīra joda iztvaikošana]]
+Karsējot jodu, tas [[sublimācija (fizikā)|sublimējas]]. Joda tvaiki ir violeti un lielā koncentrācijā ir necaurspīdīgi. Karsējot jodu, tas kūst, bet atmosfēras spiedienā virs joda kušanas temperatūras tuvumā ir ļoti liels tvaiku parciālspiediens, tādēļ joda kušanu caur tvaikiem nevar novērot.
+
+== Izmantošana ==
+Joda savienojumus lieto:
+* Joda tinktūru (10% šķīdums etanolā) dažreiz lieto par antiseptisku līdzekli. Pastāv arī līdzīgi sastāvi, kas nesatur etanolu. Tie satur joda un jodīdu šķīdumu ūdenī.
+* [[sudraba jodīds|Sudraba jodīdu]] dažreiz lieto mazjutīgiem fotomateriāliem ([[sudraba bromīds]] ir populārāks lielākas gaismjutības dēļ).
+* Inertus [[jodorganiskie savienojumi|jodorganiskos savienojumus]] (jodaizvietotus [[benzols|benzola]] atvasinājumus) lieto par injicējamām [[rentgenkontrastviela|rentgenkontrastvielām]].
+* [[volframa jodīds|Volframa jodīdu]] lieto [[halogēna lampa|halogēnspuldzēs]], lai novērstu pārāk ātru [[kvēldiegs|kvēldiega]] pārdegšanu.
+* Jodam reaģējot ar [[amonjaks|amonjaku]], veidojas [[slāpekļa trijodīds]], kas ir viena no nestabilākajām pazīstamajām [[sprāgstviela|sprāgstvielām]].
+
+== Skatīt arī ==
+* [[Radioaktīvais jods]]
+* [[Sprāgstošais jods]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://www.spkc.gov.lv/lv/media/15981/download Jods tavai veselībai!]
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Halogēni]]

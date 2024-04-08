@@ -1,0 +1,38 @@
+{{Vielas infokaste
+| attēls = [[Attēls:Benzoic-acid.svg|170px]]<br />Benzoskābes struktūrformula<br />[[Attēls:Benzoic-acid-3D-vdW.png|170px]]<br />Benzoskābes molekulas modelis
+| ķīmiskā formula = C<sub>6</sub>H<sub>5</sub>COOH
+| CAS numurs = 65-85-0
+| molmasa = 122,12
+| blīvums = 1320
+| kušanas temperatūra = 395 K (122&nbsp;°C)
+| viršanas temperatūra = 522 K (249&nbsp;°C)
+| šķīdība ūdenī = 0,344 g/100 ml (25&nbsp;°C) 
+}}
+'''Benzoskābe''' (benzolkarbonskābe, C<sub>6</sub>H<sub>5</sub>COOH) pieder pie aromātiskajām [[karbonskābes|karbonskābēm]]. Tīrā veidā benzoskābe ir balta, kristāliska viela, kas slikti šķīst ūdenī, bet labi — [[etanols|etanolā]]. Viens no nozīmīgākajiem benzoskābes atvasinājumiem ir [[salicilskābe]] (2-hidroksilbenzoskābe).
+
+== Vēsture ==
+Pirmo reizi benzoskābe iegūta XVI gadsimtā, sublimējot [[benzosveķi|benzosveķus]] — kvēpināmos sveķus, ko iegūst no Dienvidaustrumāzijas koka ''Styrax benzoin'' (no tā cēlies vielas nosaukums). Šo procesu aprakstījis jau [[Nostradams]].
+
+== Atrašanās dabā ==
+Dabā benzoskābe ir sastopama dažos augos (piemēram, [[brūklenes|brūklenēs]] un [[dzērvenes|dzērvenēs]]), kā arī benzosveķos estera veidā.
+
+== Iegūšana ==
+Benzoskābi sintētiski var iegūt, oksidējot [[benzaldehīds|benzaldehīdu]], vai uzmanīgi dekarboksilējot [[ftalskābe|ftalskābi]].
+
+Rūpnieciski benzoskābi iegūst, oksidējot [[toluols|toluolu]] ar [[skābeklis|skābekli]] kobalta vai mangāna naftenātu klātienē.
+
+[[Attēls:Benzoic acid-chemical-synthesis-1.png|200px]]
+
+== Izmantošana ==
+Benzoskābi plaši lieto par [[konservanti|konservantu]] (tīrā veidā '''E210''', kā benzoskābes [[sāļi|sāļus]] — E211, E212 un E213). Izmanto arī medicīnā kā antiseptisku līdzekli ādas slimību gadījumos. Benzoskābes esterus patīkamās smaržas dēļ lieto parfimērijā. Benzoskābi un tās atvasinājumus plaši pielieto organiskajā sintēzē krāsvielu un medicīnas preparātu iegūšanai.
+
+== Skatīt arī ==
+* [[Karbonskābes]]
+* [[Aromātiskie ogļūdeņraži]]
+
+{{Aromātiskās karbonskābes}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Karbonskābes]]
+[[Kategorija:Konservanti]]

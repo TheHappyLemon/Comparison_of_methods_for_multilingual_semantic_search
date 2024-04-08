@@ -1,0 +1,41 @@
+{{ezera infokaste
+|ezers=Froma ezers
+|attēls=LakeFrome.jpg
+|paraksts=Izžuvuša Froma ezera rietumu krasts
+|map = Austrālija#Dienvidaustrālija
+| plat_d=30 | plat_m=37 | plat_s= | plat_NS=S
+| gar_d=139 | gar_m=52 | gar_s= | gar_EW=E
+|vieta={{AUS}}
+|platība=2596
+|garums=100
+|platums=40
+|Vid_dziļums=
+|Max_dziļums=
+|tilpums=
+|augstums_vjl=-2
+|izteka=beznoteces
+|baseins=
+|valstis=
+|salas=
+|pilsētas=
+}}
+'''Froma ezers''' ({{val|en|Lake Frome}}) ir liels beznoteces [[sālsezers]] [[Austrālija]]s dienvidos, [[Dienvidaustrālija]]s štatā, austrumos no [[Flindersa grēda]]s.<ref>{{PZT|217}}</ref>
+
+Ezera krasti atrodas zem jūras līmeņa. Uz ziemeļiem turpinās mazāku ezeru virkne. Daļa no agrākā, daudz lielākā [[Eira ezers|Eira ezera]]. Sauso ezera gultnes virsmu klāj koši balta sāls.
+
+[[2000. gads|2000]]. gada beigās ezera koši balto virsmu izmantoja, lai [[kalibrēšana|kalibrētu]] [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] pavadoni [[EO-1]], kas tika izmantots, lai kartētu Zemes virsmas atstarošanas spēju 220 dažādās krāsās. Ezers lieliski derēja šim mērķim, jo {{nobr|30x20 km}} liela platība tajā ir ļoti koši baltā un vienmērīgā krāsā.
+
+Ezeru [[1840]]. gadā atklāja [[Edvards Eirs]]. Nosaukts par godu Dienvidaustrālijas galvenajam mērniekam ģenerālim Edvardam Fromama ''(Edward Charles Frome)''.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20070929104623/http://www.spacedaily.com/news/eo-sats-01a.html Raksts par ezera virsmas izmantošanu EO-1 pavadoņa kalibrēšanai (angliski)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Austrālijas ezeri]]
+[[Kategorija:Sālsezeri]]

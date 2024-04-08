@@ -1,0 +1,30 @@
+{{ezera infokaste
+|ezers=Žū ezers
+|attēls=Vallee de joux.jpg
+|paraksts=Žū ieleja, Žū ezers pa kreisi
+| plat_d=46 | plat_m=38 | plat_s=22 | plat_NS=N
+| gar_d=6 | gar_m=17 | gar_s=9 | gar_EW=E
+|vieta={{SUI}}
+|map = Šveice
+|platība=9,5
+|garums=
+|Vid_dziļums=
+|Max_dziļums=32
+|tilpums=
+|augstums_vjl=1004
+|izteka=[[Orba]]
+|baseins=
+|valstis=[[Francija]], [[Šveice]]
+|salas=
+|pilsētas=
+}}
+'''Žū ezers''' ({{val|fr|Lac de Joux}}) ir [[ezers]] [[Šveice]]s dienvidrietumu daļā [[Vo]] kantonā netālu no [[Francija]]s robežas, Žū ielejā. Atrodas ainaviskā vietā.
+
+== Ārējās saites ==
+* [http://www.valleedejoux.ch/ Žū ielejas mājaslapa] {{fr ikona}}
+
+{{Šveice-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Šveices ezeri]]

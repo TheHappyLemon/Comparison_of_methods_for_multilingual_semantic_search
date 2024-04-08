@@ -1,0 +1,32 @@
+'''Nozīmju atdalīšana''' [[Vikipēdija|Vikipēdijā]] ir process, kā risināt jēdzienu [[daudznozīmība]]s problēmas, t.i. situācijas, kad viens vārds vai termins apzīmē vairākus būtiski dažādus tematus, ko skaidrības labad nebūtu vēlams apvienot vienā šķirklī.
+
+Šādā gadījumā ar šo daudznozīmīgo virsrakstu izveido nozīmju atdalīšanas lapu, kurā saliek saites uz konkrētajiem rakstiem, īsi paskaidrojot, kura nozīme kuram rakstam piemīt.
+
+Izmantojot veidni {{tl|nozīmju atdalīšana}}, nozīmju atdalīšanas raksti tiek uzskaitīti [[:Kategorija:Nozīmju atdalīšana|attiecīgajā kategorijā]].
+
+Ja vārdam nav izteiktas galvenās nozīmes, tad nozīmju atdalīšanas lapai virsrakstā liek šo vārdu, bet atsevišķajiem nozīmju rakstiem — aiz pamatvārda iekavās pielietošanas nozari (parasti nominatīvā). Ja ir izteikta galvenā nozīme, tad nozīmju atdalīšanas lapas virsrakstā iekavās liek ''(nozīmju atdalīšana)'', galvenās nozīmes rakstam virsrakstā iekavas neliek, bet blakusnozīmju rakstiem — aiz pamatvārda iekavās pielietošanas nozari.
+
+== Noformējums ==
+
+Uzskaitījumus nozīmju atdalīšanas lapām jāveido pēc iespējas īsākus un precīzākus. Katrā uzskaitītajā vienībā ir jānorāda viena galvenā iekšējā saite, kas vislabāk raksturo šī vārda nozīmi. Citu, lieku iekšējo saišu likšana nav ieteicama.
+
+Noformējumam jāatbilst latviešu valodas gramatikai. Ir iespējami vairāki varianti.
+
+:1. ''Jēdziens var būt:''
+::* ''<nowiki>[[jēdziens (fizika)|jēdziens]]</nowiki> — kaut kas saistīts ar fiziku;''
+::* ''<nowiki>[[jēdziens (astronomija)|jēdziens]]</nowiki> — kaut kas saistīts ar astronomiju.''
+<small>Semikola vietā var likt komatu, tas ir vēlams, ja ir īsāka konstrukcija (piemēram, ja nav paskaidrojuma aiz domuzīmes). Garākiem uzskaitījumiem var likt semikolu. Komatu un semikolu likšana, protams, attiecas uz gadījumu, ja ievaddaļa ir beigusies ar kolu. Šajā gadījumā arī paskaidrojumi jaunā rindā jāsāk ar mazo burtu.</small>''
+:2. ''Vārdam "jēdziens" var būt vairākas nozīmes.
+::* ''<nowiki>[[Jēdziens (fizika)|Jēdziens]]</nowiki> — kaut kas saistīts ar fiziku.''
+::* ''<nowiki>[[Jēdziens (astronomija)|Jēdziens]]</nowiki> — kaut kas saistīts ar astronomiju.''
+<small>Šeit aiz ievaddaļas tiek likts punkts. Paskaidrojumi tiek sākti ar lielo burtu un rakstīti kā atsevišķi teikumi.</small>
+
+== Uzlabošana ==
+Rakstos vajadzētu būt precīzām saitēm uz rakstiem, nevis uz nozīmju atdalīšanas lapām. Ir pieejamas divas uzlabošanas lapas:
+* [[Vikipēdija:Nozīmju atdalīšana/Lapas ar saitēm|Vikipēdijas raksti ar saitēm uz nozīmju atdalīšanas lapām]]
+* [[Vikipēdija:Nozīmju atdalīšana/Uzlabošana|Vikipēdijas nozīmju atdalīšanas lapas, uz kurām ir saites no rakstiem]]
+
+[[Kategorija:Nozīmju atdalīšana| ]]
+[[Kategorija:Vikipēdija]]
+
+[[da:Wikipedia:Stilmanual#Flertydige artikler]]

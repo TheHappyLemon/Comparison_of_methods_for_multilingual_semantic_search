@@ -1,0 +1,78 @@
+{{Apdzīvotas vietas infokaste
+| name = Radvilišķi
+| image_skyline =Radviliškio bažnyčios ansamblis.JPG
+| imagesize = 300px
+| image_caption = Baznīca Radvilišķos
+| image_flag = Flag of Radviliškis.png
+| image_shield = Radviliškis Coat of Arms.svg
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Radvilišķu rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1923
+| area_total_km2 = 
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 15287
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 55
+| latm = 48 
+| lats = 20 
+| latNS = N 
+| longd = 23 
+| longm = 33 
+| longs = 20
+| longEW = E
+| elevation_m = 122
+| website = http://www.radviliskis.lt/}}
+
+'''Radvilišķi''' ({{val-lt|Radviliškis}}) ir pilsēta un [[Radvilišķu rajona pašvaldība|pašvaldības]] centrs [[Lietuva]]s ziemeļos, 21 kilometrus uz dienvidaustrumiem no [[Šauļi]]em. Nozīmīgs dzelzceļa mezgls.
+
+Pilsētas rietumos iet dzelzceļš [[Viļņa]] - [[Šauļi]]. Sv. Marijas Piedzimšanas baznīca, pareizticīgo baznīca, kultūras nams, pasta nodaļa, rajona centrālā slimnīca, vecā katoļu kapsēta, pareizticīgo kapsēta, pilsētas ziemeļos - karavīru kapi.
+
+Pilsētā bāzējas Lietuvas armijas pretgaisa aizsardzības bataljons.
+
+== Vēsture ==
+
+Radvilišķi minēti no [[16. gadsimts|16. gadsimta]] sākuma. 1567. gads uzskatīts par Radvilišķu dibināšanas gadu, kaut arī daži avoti norāda 1529. vai 1539. gadu. [[16. gadsimts|16. gadsimta]] vidū apvidus piederēja [[Šauļi|Šauļu]] ekonomijai, kuru vadīja [[Radvili]]. No 1577. gada saukti par miestu. No 1667. gada Radvilišķu muiža piederēja [[Viļņas vaivadija|Viļņas vaivadam]] Janam Radvilam. 1687. gadā apdzīvotā vieta ieguva tirgus privilēģiju, 1710. gadā — pilsētas tiesības, kaut arī 1708. — 1710. gada mērī nomira gandrīz visi iedzīvotāji.
+
+[[18. gadsimts|18. gadsimtā]] Radvilišķi pamazām atdzima, bet īpaši strauji sāka augt pēc 1870. gada, kad tika uzbūvēts [[Dzelzceļa līnija Liepāja—Romni|dzelzceļa līnijas Liepāja—Romni]] atzarojums Radvilišķi - [[Daugavpils]] un šeit uzcelta dzelzceļa stacija. 1919. gada 22. novembrī Lietuvas armija pie Radvilišķiem sakāva [[Rietumkrievijas Brīvprātīgo armija|bermontiešu]] spēkus, kas bija atkāpušies no [[Latvija]]s. Šim notikumam par godu pilsētā uzcelts piemineklis. 1924. — 1926. gadā Radvilišķiem atkal piešķirtas pilsētas tiesības. No 1950. gada — [[Radvilišķu rajons|rajona]] centrs. 1992. gada 17. jūnijā tika apstiprināts pilsētas ģerbonis.
+
+== Sports ==
+* [[FSK Radviliškis]] — [[futbols|futbola]] klubs.
+* Centrālais stadions.
+
+== Sadraudzības pilsētas ==
+
+{|
+|valign=top|
+* {{flaga|Baltkrievija}} [[Nesvīža]], [[Baltkrievija]]
+* {{flaga|Polija}} [[Gņezno]], [[Polija]]
+* {{flaga|Igaunija}} [[Valga]], [[Igaunija]]
+* {{flaga|Polija}} [[Grodziska Mazovecka]], [[Polija]]
+* {{flaga|Norvēģija}} [[Stathele]], [[Norvēģija]]
+|valign=top|
+* {{flaga|Norvēģija}} [[Lilehamera]], [[Norvēģija]]
+* {{flaga|Latvija}} [[Valka]], [[Latvija]]
+* {{flaga|Latvija}} [[Bauska]], [[Latvija]]
+* {{flaga|Vācija}} [[Špajera]], [[Vācija]]
+* {{flaga|Zviedrija}} [[Skara]], [[Zviedrija]]
+|}
+
+== Ārējās saites ==
+* {{commonscat-inline|Radviliškis|Radvilišķi}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Lietuvas pilsētas]]

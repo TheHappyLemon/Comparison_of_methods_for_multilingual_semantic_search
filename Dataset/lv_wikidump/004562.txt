@@ -1,0 +1,23 @@
+<div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#C5FCDC"
+| style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt" | '''[[lietuviešu valoda|lt]]'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | Šio naudotojo '''[[:Kategorija:User lt-N|gimtoji kalba]]''' yra '''[[:Kategorija:User lt|lietuvių]]'''.
+|}</div><includeonly>
+[[Kategorija:User lt|{{PAGENAME}}]]
+[[Kategorija:User lt-N|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User lt]]
+* [[:Kategorija:User lt-N]]
+
+== Skaties arī ==
+
+* [[Template:User lt-4|Iepriekšējais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|lt]]
+
+</noinclude>

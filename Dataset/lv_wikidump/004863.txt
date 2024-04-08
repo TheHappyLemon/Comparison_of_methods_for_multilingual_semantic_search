@@ -1,0 +1,87 @@
+{{Futbola izlases infokaste
+| Name        = Andoras futbola izlase
+| Badge       = Andoras Futbola federacija logo.svg
+| FIFA Trigramme = AND
+| Nickname    = Tricolors(Trīskrāsainie)
+| Association = [[Andoras Futbola federācija]]
+| Confederation = [[UEFA]]
+| Coach       = {{flagicon|Andora}} [[Koldo Alvaress]]
+| Captain     = Ildefonss Lima
+| Most caps   = [[Ildefonss Lima]] (137)
+| Top scorer  = [[Ildefonss Lima]] (11)
+| FIFA Rank   = 153 (2022)
+| 1st ranking date = 
+| FIFA max = 125
+| FIFA max date = 2005
+| FIFA min = 206
+| FIFA min date = 2009
+| Elo Rank    = 181
+| Home Stadium = ''[[Estadi Nacional]]''
+| pattern_la1=_and22h
+|pattern_b1=_and22h
+|pattern_ra1=_and22h
+|pattern_sh1=_and22h
+|pattern_so1=_and22h
+| leftarm1=FF0000
+|body1=FF0000
+|rightarm1=FF0000
+|shorts1=FF0000
+|socks1=FF0000
+|pattern_la2=_and22a
+|pattern_b2=_and22a
+|pattern_ra2=_and22a
+|pattern_sh2=_and22a
+|pattern_so2=_and22a
+| leftarm2=0000FF
+|body2=0000FF
+|rightarm2=0000FF
+|shorts2=0000FF
+|socks2=0000FF
+| pattern_la3=
+|pattern_b3=
+|pattern_ra3=
+|pattern_sh3=
+|pattern_so3=
+| leftarm3=
+|body3=
+|rightarm3=
+|shorts3=
+|socks3=
+| First game = {{fb|AND}} 1 - 6 {{fb|EST}} <br />([[Andora la Vella]], [[Andora]]; {{dat|1996|11|13|SK}}) 
+| Largest win  = {{fb|AND}} 2 - 0 {{fb|BLR}} <br />([[Andora la Vella]], [[Andora]]; {{dat|2000|4|26|SK}})<br />{{fb|AND}} 2 - 0 {{fb|ALB}} <br />([[Andora la Vella]], [[Andora]]; {{dat|2002|4|17|SK}}) 
+| Largest loss = {{fb|CZE}} 8 - 1 {{fb|AND}} <br />([[Libereca]], [[Čehija]]; {{dat|2005|6|4|SK}}) <br /> {{fb|CRO}} 7 - 0 {{fb|AND}} <br /> ([[Zagreba]], [[Horvātija]]; {{dat|2006|10|7|SK}}) <br /> {{fb|POR}} 7 - 0 {{fb|AND}} <br /> ([[Lisabona]], [[Portugāle]]; {{dat|2020|11|11|SK}})
+| World cup apps   = 
+| World cup first  = 
+| World cup best     = 
+| Regional name      = 
+| Regional cup apps  = 
+| Regional cup first = 
+| Regional cup best  = 
+}}
+
+'''Andoras futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Andora|Andoras valsti]] starptautiskās futbola sacensībās. To pārvalda [[Andoras Futbola Federācija]]. Starptautiskajā futbolā [[Andora]] ir ļoti jauna valsts, nacionālā izlase pastāv tikai nedaudz vairāk kā 10 gadus. Andoras izlase savā pastāvēšanas vēsturē līdz šim ir izcīnījusi tikai 4 uzvaras: pret [[Baltkrievijas futbola izlase|Baltkrieviju]], [[Albānijas futbola izlase|Albāniju]] un [[Maķedonijas futbola izlase|Maķedoniju]], Ungārijas izlasi. Andoras izlase ir pazīstama kā viena no visrupjāk spēlējošajām izlasēm [[Eiropa|Eiropā]], [[2006. gada FIFA Pasaules kauss|2006. gada Pasaules čempionāta]] kvalifikācijas turnīrā nopelnot visvairāk dzelteno un sarkano kartīti.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1998. gada FIFA Pasaules kauss|1998]] - ''Nepiedalījās''
+* [[2002. gada FIFA Pasaules kauss|2002]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+* [[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+* [[2022. gada FIFA Pasaules kauss|2022]] - [[2022. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]]-[[1996. gada Eiropas čempionāts futbolā|1996]] - ''Nepiedalījās''
+* [[2000. gada Eiropas čempionāts futbolā|2000]]-[[2008. gada Eiropas čempionāts futbolā|2008]] - ''Nekvalificējās''
+* [[2012. gada Eiropas čempionāts futbolā|2012]] - [[Eiropas čempionāta 2012 kvalifikācija - B grupa|''Nekvalificējās'']]
+*[[2016. gada Eiropas čempionāts futbolā|2016]] - [[2016. gada Eiropas čempionāta futbolā kvalifikācija|''Nekvalificējās'']]
+*[[2020. gada Eiropas čempionāts futbolā|2020]] - [[2020. gada Eiropas čempionāta futbolā kvalifikācija|''Nekvalificējās'']]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Sporta ārējās saites}}
+* [http://www.fedandfut.com/ Andoras Futbola Federācijas]
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Futbols Andorā|Izlase]]
+[[Kategorija:Andoras futbola izlase]]

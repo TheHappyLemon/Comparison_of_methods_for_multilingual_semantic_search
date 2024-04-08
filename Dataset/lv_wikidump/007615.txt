@@ -1,0 +1,46 @@
+{{Ezera infokaste
+|ezers=Lohneja ezers
+|attēls= Lough Neagh - geograph.org.uk - 488526.jpg
+|paraksts=
+|karte = Wfm lough neagh.jpg
+|kartes_paraksts = Lohneja ezers no kosmosa
+|map = Apvienotā Karaliste#Ziemeļīrija
+| plat_d=54 | plat_m=35 | plat_s= | plat_NS=N 
+| gar_d=6 | gar_m=24 | gar_s= | gar_EW=W
+|platība=388
+|garums=30
+|Vid_dziļums=8,9
+|Max_dziļums=34
+|tilpums=3,45
+|augstums_vjl=15
+|izteka=
+|baseins= 4453
+|valstis={{GBR}}
+|salas=
+|pilsētas=
+}}
+<mapframe text="Lomonda ezers" width=290 height=420 zoom=10 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q206942"
+}
+</mapframe>
+
+'''Lohneja ezers''' ('''Neja ezers''', {{val-en|Lough Neagh}}, {{val-ga|Loch nEathach}}) ir lielākais [[ezers]] [[Britu salas|Britu salās]], atrodas [[Ziemeļīrija|Ziemeļīrijā]], ap 30 km rietumos no [[Belfāsta]]s. Trešais lielākais ezers [[Rietumeiropa|Rietumeiropā]] pēc [[Ženēvas ezers|Ženēvas ezera]] un [[Bodenezers|Bodenezera]].
+
+Ezerā vairākas salas, no kurām lielākās: Koniailenda, ''Coney Island Flat'', ''Croaghan Flat'', ''Derrywarragh Island'', ''Padian'', ''Phil Roe's Flat'' un ''The Shallow Flat''. Ūdens apmaiņas periods - 1,24 gadi. Ziemā nemēdz aizsalt.
+
+Atpūtnieku iemīļots ezers, taču tam ir raksturīgas spēcīgas [[vētra]]s un lieli [[viļņi]]. Brīvprātīgais glābšanas dienests 24 stundas diennaktī. Izmanto [[Dzeramais ūdens|dzeramā ūdens]] ieguvei. Ezerā notiek komerciāla [[zutis|zušu]] ķeršana - Lohneja zuši skaitās delikatese, ko sūta visas pasaules restorāniem. Ilgstoši uzskatīja, ka ezers ir publisks, taču [[2005. gads|2005]]. gadā atklājās, ka Šaftesbērijas grāfa dzimtai ir tiesības uz šo ezeru.
+
+[[Īri|Īru]] [[leģenda]] vēsta, ka ezers radies no tā, ka slavenais Īrijas [[Milzis (mitoloģija)|milzis]] [[Finns Makkūls]] (''Fionn mac Cumhaill'') izgrābis zemes kaudzi un metis ar to [[Skotija]]s milzim. Viņš neesot trāpījis, zemes kalns iekritis jūrā un radusies [[Menas sala]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20110717192235/http://www.loughneaghrescue.com/ Lohneja glābšanas dienests]
+* [https://web.archive.org/web/20200425000755/http://www.oxfordisland.com/ Oksfordas salas dabas rezervāts]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ziemeļīrijas ezeri]]

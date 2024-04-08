@@ -1,0 +1,281 @@
+{{atsauces+}}
+{{enciklopēdiskais stils}}
+{{noformējums}}
+{{jāuzlabo|latviskā terminoloģija}}
+{{atveidošana+}}
+'''Datubāze''' ir [[informācija]]s kopums ar noteiktu struktūru. Par datubāzi var saukt jebkuru strukturētas informācijas kopumu.
+
+Kompleksas datubāzes projektēšana, būvniecība, un uzturēšana prasa speciālista prasmes: darbinieki, kas veic šīs funkcijas
+ir datubāzu lietojumprogrammatūras programmētāji un datubāzu administratori. To uzdevumi ir veicami ar dažādiem rīkiem, kas iekļauti
+kā daļa no datubāzes pārvaldības sistēmas (no angļu val. ''Database management system -DBMS'') vai arī kā atsevišķas programmatūras produkti. Šie rīki sevī iekļauj specializētas datubāzes valodas, kā,
+piemēram, datu definēšanas valodas (no angļu val. ''data definition languages — DDL''), datu manipulācijas valodas (no angļu val. ''data manipulation languages — DML''), un vaicājumvalodas (no angļu val. ''query language''). Šīs var uzskatīt par īpaša nolūka programmēšanas valodām, īpaši izstrādātām, lai manipulētu ar datubāzēm; dažkārt tās ir kā paplašinājumi jau esošajām programmēšanas
+valodām, ar pievienotām datubāzu komandām. Datubāzu valodas parasti ir attiecināmas uz vienu datu modeli, vai daudzos
+gadījumos tās var arī attiekties uz vienu datubāzu pārvaldes sistēmas (no angļu val. ''database management system — DBMS'')
+tipu. Visplašāk atbalstītā datubāzu valoda ir strukturēta vaicājumvaloda (no angļu val. ''structured query language — SQL''), kas ir izstrādāta datu relāciju modelim un apvieno sevī funkcijas gan
+no datu definēšanas valodas (no angļu val. ''data definition language — DDL''), gan datu manipulēšanas valodas (no angļu val. ''data manipulation language — DML''), gan vaicājumu valodas(no angļu val. ''query language''). Veids, kā klasificē datubāzes ir pēc to tipa un satura, piemēram: bibliogrāfisko, dokumentu, statistikas vai multivides objektu. Vēl viens veids kā datubāzes tiek iedalītas, ir pēc to pielietošanas jomas, piemēram, grāmatvedības, mūzikas, filmu, banku, ražošanas vai apdrošināšanas.
+
+Termins '''datubāze''' tika radīts, lai apzīmētu [[dators|datora]] [[Dati|datus]] un lietots tiek praktiski tikai [[Datorika|datorikā]]. Dažkārt to lieto, lai apzīmētu vēl nedatorizētus datus, plānojot to datorizēšanu.Datorizēta datubāze ir objektu konteiners. Vienā datubāzē var būt vairāk nekā viena tabula. Piemēram, krājumu izsekošanas sistēma, kas izmanto trīs tabulas, nav trīs datubāzes, bet viena datubāze, kurā ir trīs tabulas. Ja vien nav īpaši izveidots tā, lai tiktu izmantoti dati vai kods no cita avota, Access datubāze glabā savas tabulas vienā failā kopā ar citiem objektiem, piemēram, formām, atskaitēm, makro un moduļiem. Datubāzēm, kas izveidotas Access 2007 formātā, ir .accdb faila paplašinājums, un datubāzēm, kas izveidotas iepriekšējos Access formātos, ir .mdb faila paplašinājums. Var izmantot Access 2007, lai izveidotu failus iepriekšējos failu formātos (piemēram, Access 2000 un Access 2002-2003).
+
+=== Tabulas ===
+Datubāzes tabula izskata ziņā ir līdzīga izklājlapai, kurā dati tiek glabāti rindās un kolonnās. Rezultātā ir diezgan viegli importēt izklājlapu datubāzes tabulā. Galvenā atšķirība starp datu glabāšanu izklājlapā un datu glabāšanu datubāzē ir veids, kā dati tiek organizēti.
+
+Lai datubāze būtu pēc iespējas elastīgāka, datiem jābūt organizētiem tabulās tā, lai nerastos datu redundance. Piemēram, ja glabājat informāciju par darbiniekiem, katrs darbinieks jāievada tikai vienu reizi tabulā, kas iestatīta datu glabāšanai par darbiniekiem. Dati par produktiem tiks glabāti citā tabulā, un dati par filiālēm — vēl citā. Šāds process tiek saukts par ''normalizēšanu''.
+
+Katra rinda tabulā tiek uzskatīta par ierakstu. Ierakstos tiek glabātas individuālās informācijas daļas. Katrs ieraksts sastāv no viena vai vairākiem laukiem. Lauki atbilst tabulas kolonnām. Piemēram, iespējams, jums ir tabula ar nosaukumu "Employees", kuras katrā ierakstā (rindā) ir informācija par atsevišķu darbinieku un katrā laukā (kolonnā) ir cita veida informācija, piemēram, vārds, uzvārds, adrese utt. Laukos jābūt norādītam konkrētam datu tipam, vai tas ir teksts, datums vai laiks, skaitlis vai kāds cits tips.
+
+Cits ierakstu un lauku aprakstīšanas veids ir bibliotēkas vecā stila kartīšu kataloga vizualizācija. Katra kartīte plauktā atbilst ''ierakstam'' datubāzē. Katra informācijas daļa individuālā kartītē (autors, nosaukums utt.) atbilst ''laukam'' datubāzē.
+
+=== Formas ===
+Formas dažkārt tiek sauktas par "datu ievades ekrāniem". Tās ir interfeisi, kurus izmanto, lai strādātu ar datiem, un tajās bieži ir komandpogas, kas izpilda dažādas komandas. Datubāzi var izveidot, neizmantojot formas vienkāršai datu rediģēšanai tabulas datu lapās. Tomēr lielākā daļa datubāzu lietotāju dod priekšroku formu lietošanai, lai skatītu, ievadītu un rediģētu datus tabulās.
+
+Formas nodrošina viegli izmantojamu formātu, lai strādātu ar datiem, un tām var arī pievienot funkcionālus elementus, piemēram, komandpogas. Var programmēt pogas, lai noteiktu, kādi dati tiek rādīti formā, atvērtu citas formas vai atskaites vai veiktu virkni citu uzdevumu. Piemēram, jums var būt forma ar nosaukumu "Klienta forma", kurā strādājat ar klientu datiem. Klientu formai var būt poga, kas atver pasūtījuma formu, kurā varat ievadīt šī klienta jauno pasūtījumu.
+
+Formas ļauj arī kontrolēt, kā lietotāji mijiedarbojas ar datubāzes datiem. Piemēram, var izveidot formu, kas rāda tikai noteiktus laukus un ļauj veikt tikai noteiktas darbības. Tas palīdz aizsargāt datus un nodrošināt, ka dati tiek pareizi ievadīti.
+
+=== Atskaites ===
+Atskaites tiek izmantotas datu apkopošanai un rādīšanai tabulās. Atskaite parasti atbild uz konkrētu jautājumu, piemēram, "Cik daudz naudas šogad esam saņēmuši no katra klienta?" vai "Kādās pilsētās atrodas mūsu klienti?". Katra atskaite var būt formatēta tā, lai rādītu informāciju pēc iespējas salasāmākā veidā.
+
+Atskaiti var palaist jebkurā laikā, un tā vienmēr atspoguļos pašreizējos datubāzes datus. Atskaites parasti tiek formatētas, lai tās izdrukātu, bet tās var arī skatīt ekrānā, eksportēt uz citām programmām vai nosūtīt e-pasta ziņojumā.
+
+=== Vaicājumi ===
+Vaicājumi ir viena no galvenajām datubāzes daļām, kas var veikt daudz dažādu funkciju. Visbiežāk izmantotā funkcija ir noteiktu datu izgūšana no tabulām. Nepieciešamie dati parasti ir izkaisīti vairākās tabulās, bet vaicājumi ļauj tos skatīt vienā datu lapā. Tā kā parasti nav nepieciešams skatīt visus ierakstus vienlaikus, vaicājumi arī ļauj pievienot kritērijus, kas no ierakstiem "izfiltrē" tikai jums vajadzīgos datus. Vaicājumi bieži noder kā formu un atskaišu ierakstu avots.
+
+Noteikti vaicājumi ir "atjaunināmi", kas nozīmē, ka datus pamatā esošajās tabulās var rediģēt ar vaicājuma datu lapas palīdzību. Ja strādājat atjaunināmā vaicājumā, atcerieties, ka izmaiņas patiesībā tiek veiktas tabulās, nevis tikai vaicājuma datu lapā.
+
+Vaicājumiem ir divi paveidi: atlases vaicājumi un darbības vaicājumi. Atlases vaicājums vienkārši izgūst datus un padara tos pieejamus lietošanai. Vaicājuma rezultātus var skatīt ekrānā, izdrukāt vai ielīmēt starpliktuvē. Vai arī vaicājuma izvadi var izmantot kā formas vai atskaites ierakstu avotu.
+
+Darbības vaicājums, kā jau to norāda nosaukums, izpilda uzdevumu ar datiem. Darbības vaicājumus var izmantot, lai izveidotu jaunas tabulas, pievienotu datus esošajām tabulām, atjauninātu vai dzēstu datus.
+
+=== Makro ===
+Makro programmā Access var tikt uzskatīti par vienkāršotu programmēšanas valodu, kuru var izmantot, lai datubāzei pievienotu funkcionalitāti. Piemēram, komandpogai formā makro var pievienot, lai tas tiktu palaists, kad tiek nospiesta poga. Makro satur darbības, kas veic uzdevumus, piemēram, atver atskaiti, palaiž vaicājumu vai aizver datubāzi. Lielākā daļa datubāzes darbības, kuras tiek veiktas manuāli, var tikt automatizētas, izmantojot makro, tāpēc tie var lieliski ietaupīt laiku.
+
+=== Moduļi ===
+Moduļi, tāpat kā makro, ir objekti, kurus var izmantot, lai datubāzēm pievienotu funkcionalitāti. Ja izveidojat makro programmā Access, izvēloties no makro darbību saraksta, moduļi tiek rakstīti programmēšanas valodā Visual Basic for Applications (VBA). Modulis ir deklarāciju, priekšrakstu un procedūru kolekcija, kas tiek glabāti kopā kā vienums. Modulis var būt vai nu klases modulis, vai standarta modulis. Klases moduļi tiek pievienoti formām vai atskaitēm, un tajos parasti ir procedūras, kas raksturīgas formai vai atskaitei, kam tās pievienotas. Standarta moduļos ir galvenās procedūras, kas nav saistītas ne ar vienu citu objektu. Standarta moduļi ir uzskaitīti navigācijas rūtī sadaļā Moduļi, turpretī klases moduļi netiek uzskaitīti.
+
+== Arhitektūra ==
+Datubāzes arhitektūra sastāv no trīs līmeņiem — ārējais, konceptuālais un iekšējais. Skaidra šo trīs līmeņu nodalīšana bija viena no galvenajām iezīmēm [[Relāciju datubāzes|relāciju datubāzu]] modelī.
+
+* Ārējais līmenis nosaka, kā lietotāji saprot datu organizāciju. Vienai datubāzei var būt neierobežots skatu skaits ārējā līmenī.
+* Iekšējais līmenis nosaka, kā dati fiziski tiek glabāti un apstrādāti. Iekšējā arhitektūra koncentrējas uz izmaksām, veiktspēju, mērogajamību (Sistēmas programmatūras vai aparatūras spēja normāli funkcionēt gadījumā, ja tās funkcionēšanas apjoms vai konfigurācija tiek mainīta, piemēram, lietotāju skaita palielināšana nesamazina sniegto pakalpojumu apjomu, pāreja uz citu operētājsistēmu netraucē normālu sistēmas funkcionēšanu.) un citām, ar datubāzes veiktspēju saistītām lietām.
+* Konceptuālais līmenis ir starpslānis starp iekšējo un ārējo. Tas nodrošina darbību ar datiem konceptuālā līmenī, neliekot lietotājam zināt, kā dati tiek glabāti iekšējajā līmenī, atvieglojot lietotāju darbu.
+
+== Vēsture ==
+'''Datubāzes jēdziens'''
+
+Datubāzes koncepcija ir attīstījusies jau kopš 1960. gada, lai atvieglotu pieaugošās grūtībās, projektēšanas, būvniecības un uzturēšanas kompleksu informācijas sistēmās (parasti ar daudziem vienlaicīgi gala lietotājiem, un ar lielu datu apjomu.) Tā ir attīstījusies līdz ar attīstību Datubāzes pārvaldības sistēmu ([[Datubāzu pārvaldības sistēma|DBPS]]), kas ļauj efektīvi regulēt datubāzēs. Lai gan termini datubāze un [[Datubāzu pārvaldības sistēma|DBPS]] definē dažādas organizācijas, tās ir nedalāmas: Datubāzes rekvizītus nosaka [[Datubāzu pārvaldības sistēma|DBPS]] un otrādi. [[Oksforda]] angļu vārdnīca citē 1962. gada tehnisko ziņojumu, kā pirmie izmantojot terminu "datubāze". Ar progresu tehnoloģijas jomās piemēram, procesoros, datora atmiņā, datu uzglabāšanas vietās. un datortīklos, ar to izmēriem, iespējām un datubāzu un to [[Datubāzu pārvaldības sistēma|DBPS]] sniegumi ir pieauguši ar lēcienu. Jau gadu desmitiem tas ir maz ticams, ka sarežģītu informācijas sistēmu var būvēt efektīvi bez pienācīga datubāzu atbalsta [[Datubāzu pārvaldības sistēma|DBPS]].
+
+Nav plaši atzīta, precīza definīcija priekš DBPS. Tomēr sistēmai, nepieciešams nodrošināt ievērojamu funkcionalitāti, lai to varētu kvalificēt kā [[Datubāzu pārvaldības sistēma|DBPS]]. Tādējādi tā atbalsta datu vākšanai ir ievērotas lietojamības prasības, lai varētu kvalificēt tās kā datubāzes.
+
+Jēdziens "datubāze" nonāca apritē vienlaikus ar tiešās piekļuves datu nesējiem 1960. gadu vidū. Jēdziens apzīmēja atšķirības no iepriekš lietotājiem risinājumiem, atļaujot datu interaktīvu koplietošanu ikdienas pakešapstrādes (secīgas datu apstrādes) vietā.
+
+Pirmajās datubāzu sistēmās produktivitāte bija pirmajā vietā, tomēr jau tolaik bija skaidrs, ka ir arī citi apsvērumi, kuriem jāpievērš uzmanība. Viens no galvenajiem uzdevumiem bija panākt datu neatkarību no lietotņu darbības, lai ar tiem pašiem datiem varētu strādāt arī citas lietotnes.
+Pirmā datubāzu sistēmu paaudze bija navigācijas lietotnes, kuras piekļuva datiem sekojot norādēm no viena ieraksta uz nākamo. Divi izplatītākie datu modeļi tolaik bija hierarhiskais modelis, kuru optimizēja ''IBM IMS'' sistēma, un ''Codasyl'' modelis, kuru integrēja dažādos produktos, piemēram ''IDMS''.
+
+Relāciju modeli pirmo reizi ierosināja Edgars F. Codds 1970. gadā. Jaunais uzstādījums bija, ka lietotnēm datus vajadzētu meklēt pēc satura, nevis norādēm. Tas tika uzskatīts par nepieciešamu, lai varētu papildināt datubāzes saturu, katru reizi nepārrakstot lietotnes kodu. Relāciju sistēmas uzstādīja augstas prasības skaitļošanas jaudām, tāpēc tikai 1980. gadu vidū, kad datoraparatūra bija pietiekami attīstījusies, tās varēja sākt plaši pielietot. Neskatoties uz to, jau 1990. gadu sākumā, visur, kur bija nepieciešamība pēc lielapjoma datu apstrādes, tika izmantota tieši relāciju sistēma. Savu dominanci tā ir saglabājusi līdz šodienai (2011) ar specifiskiem izņēmumiem, kur šāda sistēma nav lietderīga. Vadošā relāciju datubāzu programmēšanas valoda ir SQL, kas kalpo par piemēru arī cietiem datubāzu modeļiem.
+
+Tā kā relāciju modelis liek uzsvaru uz ierakstu meklēšanu nevis navigāciju starp tiem, tas nepadara relācijas starp dažādām entītijām skaidrā norāžu formā, bet tā vietā izmanto primārās un ārējās [[datubāzes atslēga|atslēgas]]. Tas ir labs pamats vaicājumvalodai, tomēr tas nav īpaši piemērots modelēšanas valodai. Šī iemesla dēļ entītiju relāciju modelis, kas radās 1976, gadā, ieguva popularitāti datubāzu dizainos.
+Kopš 1970. gada datubāzu tehnoloģijas attīstās kopā ar datoru tehnoloģijām, kas piedāvā arvien lielākas skaitļošanas jaudas un atmiņas apjomus par zemāku cenu. Tas ir ļāvis izveidot arvien lielāka apjoma datubāzes, vienlaikus palielināt to noslodzi.
+
+== Datubāzu pārvaldības sistēma ==
+[[Programmatūra|Programmatūru]], kas radīta, lai pārvaldītu vispārējas nozīmes datubāzes, sauc par [[datubāzu pārvaldības sistēma|datubāzu pārvaldības sistēmām]] jeb DBPS ([[Angļu valoda|angļu:]] ''"Database management system (DBMS)"''). Iespējamas ir dažādas programmatūras arhitektūras: mazām datubāzēm visa funkcionalitāte ir ietverta vienā [[Datorprogramma|programmā]], savukārt lielākās datubāzēs gandrīz vienmēr izmanto [[klients-serveris|klienta-servera]] arhitektūru. Datubāzu pārvaldības sistēmas sastāv no [[programmatūra]]s, kas operē ar datubāzēm, nodrošinot atmiņas, drošības, piekļuves, dublēšanas un citas iespējas. [[Datubāzu pārvaldības sistēma]] var tik klasificēta balstoties uz datubāzes modeli, kuru tā atbalsta, piemēram, [[Relāciju datubāzes|relāciju modeli]] vai [[XML]], datoru tipa, kuru tā atbalsta, piemēram, [[serveris|servera]] klastera vai [[mobilais telefons|mobilā telefona]], vaicājumvalodas piekļuves, piemēram, [[SQL]] vai [[XQuery]], [[Veiktspēja (datorika)|veiktspēju]], piemēram maksimuma skalas vai maksimālā ātruma vai citiem rādītājiem. Dažas [[datubāzu pārvaldības sistēma]]s ietver sevī vairāk nekā vienu no šiem klasifikācijas punktiem, piemēram, vairākas vaicājumvalodas. Gandrīz visās datubāzu [[Programmatūra|programmatūrās]] ir iebūvēts Open Database Connectivity (ODBC) [[draiveris]], kas ļauj datubāzē [[Integrēšana|integrēt]] citas datubāzes.
+DBPS [[priekšgala sistēma]] (klients) atbild par datu ievadīšanu, pieprasīšanu un pārskatīšanu. [[Aizmugures sistēma]] ([[serveris]]) ir programmu kopums, kas kontrolē datu glabāšanu un atbild uz priekšgala sistēmas pieprasījumiem. Meklēšanu un kārtošanu parasti veic serveris. Eksistē ļoti dažādi datubāzu īstenojumu, sākot no vienkāršākajiem ar vienkāršām tabulām, kas katra tiek glabāta savā [[Datne|datnē]], līdz pat ļoti lielām datubāzēm ar miljoniem ierakstu, kuri tiek glabāti daudzos datu nesējos. Starp DBPS ir lielas atšķirības — tās var ietvert vai neietvert datu pareizuma pārbaudes, datu integritātes un konsistences nodrošināšanu, tās var spēt vienlaicīgi strādāt ar tikai vienu procesu, bet ir arī sistēmas, kas ļauj lielam lietotāju reizē mainīt datus, novēršot konfliktsituācijas.
+
+'''Komponenti DBVS'''<br />
+Lielākā daļa [[DBVS]], sākot ar 2009. gadu ir īstenotas relāciju modelī. Citas [[DBVS]] sistēmas, piemēram, objektu [[DBVS]], piedāvā īpašās iezīmes ar lielākām specializācijas prasībām. To sastāvdaļas, ir līdzīgas, bet ne identiskas.
+
+'''RDBMS sastāvdaļas'''<br />
+Sublanguages​​-Relācija [[DBVS]] (RDBMS) ietver datu definīcijas valodas (DDL), lai noteiktu datubāzes struktūru, datu kontroles valodu (DCL), lai noteiktu drošības, piekļuves kontroles un datu manipulācijas valodu (DML) attiecībā uz pieprasījumiem un datu atjaunošanu.
+Interfeiss ir draiveru kodu bibliotēkas, kas nodrošina metodes, lai sagatavotu pārskatus, izpildītu pārskatus, izsauktu rezultātus utt. Kā piemērus var minēt ODBC, JDBC, [[MySQL]] / [[PHP]], FireBird / [[Python]].
+
+'''SQL motors''' — Šis komponents interpretē un izpilda DDL, DCL un BDL pārskati. Tas ietver trīs galvenās sastāvdaļas ([[kompilators]], pilnveidotājs un izpildītājs).
+
+'''Relāciju motors''' — Relāciju objektu, piemēram, tabulu, indekss, un atsauces integritātes ierobežojumi tiek ieviesti ar šo komponentu.
+
+'''Uzglabāšanas motors''' — Šis komponents saglabā un nolasa datus no sekundārās glabātuves, kā arī pārvalda darījumu saistības un atcelšanas, dublējumus un atjaunošanas.
+
+== Biežāk izmantotās datubāzu pārvaldības sistēmas ==
+* [[MySQL]]
+* [[PostgreSQL]]
+* [[Microsoft Access]]
+* [[SQL Server]]
+* [[FileMaker]]
+* [[Oracle]]
+* [[RDBMS]]
+* [[dBASE]]
+* [[Clipper]]
+* [[FoxPro]]
+* [[Microsoft SQL Server]]
+
+== Veidi ==
+
+=== Darbības datubāze ===
+Šīs datubāzes glabā detalizētu informāciju par organizācijas vai [[Uzņēmums|uzņēmuma]] darbību. Parasti tās tiek sakārtotas pēc priekšmeta, apstrādā relatīvi daudz izmaiņu un darbību. Pamatā visas lielās pasaules organizācijas izmanto šāda veida datubāzi. Kā piemēru var minēt klientu datubāzes, kas reģistrē kontaktinformāciju, kredīt informāciju un demogrāfisko informāciju par uzņēmuma klientiem. Darbinieku datubāzes glabā informāciju par algām, slodzēm, izglītību un citu informāciju par darbiniekiem. Uzņēmuma resursu datubāzes, kas glabā informāciju par produktiem, to pieejamību un sastāvdaļām vai arī finanšu datubāzes, kas seko līdzi uzņēmuma naudas plūsmai.
+
+=== Datu noliktavas ===
+Datu noliktavas glabā mūsdienu datus no darbību datubāzēm un bieži arī no ārējiem avotiem, ka piemēram tirgus izpētes uzņēmumiem. Bieži ienākošie dati no darbību datubāzēm tiek pārveidoti — apkopoti, pārklasificēti un padarīti anonīmi. Šie dati tad ir pieejami menedžeriem un citiem galalietotājiem kuriem parasti nav pieejas darbības datiem. Pamata datu noliktavas sastāvdaļas ir datu saņemšana un analizēšana, pārveidošana, ielāde un pārvaldīšana lai tā varētu tikt izmantota tālāk.
+
+=== Analītiskā datubāze ===
+Analītiķi var strādāt ar datu noliktavām, vai arī izveidot atsevišķu analītisko datubāzi priekš tiešsaistes analītiskās apstrādes. Piemēram, uzņēmums var izvilkt pārdošanas datus no datu noliktavas lai analizētu reklāmas efektivitāti un cita veida pārdošanas paaugstināšanu apkopojošā līmenī.
+
+=== Dalītās datubāzes ===
+Šīs ir datubāzes priekš vietējām darba grupām vai departamentiem reģionālajos birojos, filiālēs, ražotņu vai citās darba vietās. Tās var saturēt daļu no parastās darbību datubāzes un lietotāju datubāzes kā arī datus, kuri tiek lietoti tikai vietēji.
+
+=== Gala lietotāju datubāze ===
+Šīs datubāzes sastāv no galalietotāja paša izveidotiem datiem. Par piemēru var minēt datubāzi dažādu dokumentu glabāšanai izklājlapu formā, lejuplādēto failu glabāšanu vai arī personīgo datubāzi pastmarku kolekcijas uzturēšanai.
+
+=== Ārējās datubāzes ===
+Šīs datubāzes izmanto lai glabātu datus no vairākām organizācijām vai nu brīvi vai arī kā abonentiem. Kā piemēru var minēt [[Internet Movie Database|interneta filmu datubāzi]].
+
+=== Hipermēdiju datubāze ===
+Globālo tīmekli var uztvert kā datubāzi, tādu kas izkaisīta pa miljoniem datoru. [[Tīmekļa pārlūkprogramma]]s apstrādā šos datu pa vienai lappusei kamēr tīmekļa rāpuļi un cita līdzīga programmatūra veido datubāzei ekvivalentus indeksus, lai atbalstītu meklējumus un citas aktivitātes.
+
+== Modeļi ==
+
+=== Pēc-relāciju datubāzes modeļi ===
+
+Produkti, kas tiek piedāvāti kā vispārīgāki datu modeļi nekā relāciju modeļi, reizēm tiek klasificēti par pēc-relāciju modeļiem. Alternatīvi termini sevī ietver "hibrīdu datubāze", "objekt-uzlabotas RDBMS" u. c. Datu modelis šādos produktos ietver relācijas, bet nevadās pēc E. F.Codd's Informācijas Principa, kas paredz, ka visa informācija datubāzē jānovirza relāciju vērtībās un ne kā savādāk.
+
+Daži no šiem relāciju modeļa paplašinājumiem integrē no tehnoloģijām, kas datē relāciju modeli. Piemēram, tie pieļauj orientēta grafa attēlošanu ar kokiem mezglos.
+
+Daži pēc-relāciju produkti paplašina relāciju sistēmas ar ne-relāciju pazīmēm. Daži tai pat vietā pievieno relāciju pazīmes pēc-relāciju sistēmām. Paradoksāli, ka tas ļauj produktiem, kas ir vēsturiski relācijai nepiemēroti, kā PICK un MUMPS, veidot ticamu prasību būt relācijai piemēroti.
+
+=== Objektu datubāzes modeļi ===
+Pēdējos gados, [[Objektorientētā programmēšana|objektorientētā paradigma]] ir piemērota tādās jomās kā inženierzinātnes un telpisko datubāzes, telekomunikācijas un dažādās zinātnes jomās. Gada [[objektorientētā programmēšana]] un datubāzu tehnoloģija, sarecējums rezultātā šo jauno datubāzi. Šīm datubāzēm mēģinājums, lai datubāzi pasaulē un lietojumprogrammu programmēšanas pasaulē ciešāk kopā, jo īpaši nodrošinot, ka datubāze izmanto tāda paša veida sistēmas [[Lietojumprogrammatūra|lietojumprogrammu]]. Šis mērķis ir novērst gaisa (dažreiz saukta pretestība nesakritība), konvertējot informācijas apmaiņu starp savu pārstāvību datubāzē (piemēram, kā rindas tabulu), un tās pārstāvniecību lietojumprogrammu (parasti kā objekti.) Tajā pašā laikā, objektu datubāzes mēģinot ieviest galvenās idejas no objekta plānošanu, piemēram, [[Iekapsulēšana|iekapsulēšanu]] un [[Polimorfisms (programmēšana)|polimorfisms]], pasaulē datubāzes.
+
+No šiem veidiem daudzi ir izmēģināti lai glabātu objektus datubāzē. Daži produkti pieiet problēmai no [[Lietojumprogrammatūra|lietotņu]] programmēšanas puses, padarot, objektus, kurus manipulē [[Datorprogramma|programma]], patstāvīgus. Tādēļ arī parasti nepieciešams papildus izmantot speciālu pieprasījumu valodu, jo parastās [[programmēšanas valoda]]s nepiedāvā valodas līmeņa funkcijas, lai atrastu informāciju datubāzēs pēc tās satura. Citi pieiet problēmai no datubāzes puses, nosakot [[Objektorientētā programmēšana|objektorientētu]] datu modeli priekš datubāzes un izveidojot datubāzes programmēšanas valodu, kas ļauto datubāzi gan programmēt, gan apstrādāt tradicionālos pieprasījumu veidus.
+
+Gala lietotāja datubāze
+
+Analītiķi var strādāt ar datu noliktavām, vai arī izveidot atsevišķu analītisko datubāzi priekš tiešsaistes analītiskās apstrādes. Piemēram, uzņēmums var izvilkt pārdošanas datus no datu noliktavas lai analizētu reklāmas efektivitāti un cita veida pārdošanas paaugstināšanu apkopojošā līmenī.
+
+== Normālformas ==
+
+Normālās formas (NF) relāciju datubāzu teorijā nodrošina kritērijus, kas ļauj noteikt cik lielā mērā tabula ir noturīga pret loģiskām nekonsekvencēm un anomālijām. Jo lielāka normālforma attiecināma uz tabulu, jo tabula labāk pasargāta. Katrai tabulai ir "augstākā normālforma": pēc definīcijas tabula vienmēr atbilst tās augstākās normālformas prasībām un par augstāko normālformu zemāku normālformu prasībām. Līdzīgā veidā tabula neatbilst par tās augstāko normālformu augstāku normālformu prasībām.
+Normālformas attiecināmas uz atsevišķām tabulām. Ja apgalvo, ka visa datubāze ir normālformā n, tas nozīmē, ka visas tās tabulas ir normālformā n.
+Iesācēji datubāzu veidošanā reizēm uzskata, ka normalizācija notiek iteratīvi, proti, šablons 1NF sākumā tiek normalizēts līdz 2NF, tad līdz 3NF un tā tālāk. Taču tas neatbilst patiesībai. Saprātīgi veidota tabula visticamāk būs 3NF jau pirmajā mēģinājumā, turklāt, ja tā ir 3NF, ļoti ticams, ka tās augstākā NF būs 5NF. "Visaugstāko" normālformu sasniegšanai (virs 3NF) parasti nav nepieciešami papildu izdevumi vai pūles no izstrādātāja puses, jo 3NF tabulas parasti nav jāmodificē, lai tās atbilstu šo augstāko normālformu prasībām.
+
+{| class="wikitable"
+|-
+! Nr !! Normālforma !! Definēja !! Gads !! Īsa definīcija
+|-
+| 1NF || Pirmā normālforma || Divas versijas: E. Kods (1970), K. Deits (2003) || 1970 un 2003 || Relācija ir pirmajā normālformā, ja katra atribūta domēns satur tikai atomāras vērtības un katra atribūta vērtība satur tikai vienu vērtību no tā domēna.
+|-
+| 2NF|| Otrā normālforma
+
+|| E. Kods
+
+|| 1971
+
+|| Atribūti, kas neietilpst kādā no kandidātatslēgām, ir pilnīgi funkcionāli atkarīgi (tieši vai pastarpināti) no visas kandidātatslēgas, nevis tikai kādas tā sastāvdaļas.
+|-
+| 3NF|| Trešā normālforma
+
+|| Divas versijas: E. Kods (1971), K. Zaniolo (1982)|| 1971 un 1982
+
+|| Trešajā normālformā neeksistē transitīvās (pārejošas) atkarības.
+|-
+| EKNF|| Elementary Key normālforma
+
+|| K. Zaniolo|| 1982
+
+|| Katra netriviālā funkcionālā atkarība tabulā ir vai nu atkarība no elementārās atslēgas atribūta vai atkarība no superatslēgas.
+|-
+| BCNF|| Boyce—Codd normālforma
+
+|| Reimonds F. Boiss and E. Kods
+
+|| 1974
+
+|| Katra lauka vērtību var mainīt tikai vienā vietā — 'nokancelētas' arī transitīvās atkarības. Determinanti ir tikai kandidātatslēgas
+|-
+| 4NF|| Ceturtā normālforma|| Ronalds Fegans
+
+ || 1977
+
+|| Katra netriviālā daudzvērtību atkarība tabulā ir atkarība no superatslēgas.
+|-
+| 5NF|| Piektā normālforma|| Ronalds Fegans
+
+ || 1979
+
+|| Katru netriviālo savienošanas atkarību tabulā nosaka tabulas superatslēgas.
+|-
+| DKNF|| Domēna/atslēgas normālforma|| Ronalds Fegans
+
+|| 1981
+
+|| Katrs ierobežojums tabulā ir loģiskas tabulas domēnu ierobežojumu un atslēgas ierobežojumu sekas.
+|-
+| 6NF|| Sestā normālforma
+
+ || K. Deits, Hjū Darvens un Nikos Lorencos || 2002
+
+|| Tabulā nav netriviālu savienošanas atkarību (ar atsauci uz ieviestu savienošanas operatoru).
+|}
+
+== Glabāšanas struktūras ==
+
+Datubāzes var glabāt attiecīgās tabulas un indeksus atmiņā vai cietā diska dažādos veidos:
+* Sakārtotas vai nesakārtotas izplātās datnes
+* ISAM
+* Kaudzes
+* heša kausi
+* loģiskas bloku datnes
+* B+ koki
+
+Visizplatītākie ir B+ koki un ISAM
+
+Objektu datubāzes izmanto plašu glabāšanas mehānismu klāstu. Dažas izmanto virtuālus atmiņas kartētas datnes, lai padarītu izmantotās valodas (Java, C++, utt.) objektus pastāvīgus. Lai gan ļoti efektīvs, tas var padarīt citu valodu izmantošanu grūtāku. Citas izjauc objektus noteikta un atšķirīga garuma komponentēs, kas pēc tam tiek saliktas kopā uz diska ka noteikta garuma bloki un tiek salikti atpakaļ vai nu uz servera vai klienta. Vēl viena populāra metode sevī ietver objektu glabāšanu tuplēs (tuple — sakārtots elementu saraksts no Angļu val.) , tāpat kā relāciju datubāzēs, kuras pēc tam kā objektus sakārto datubāzes serveris.
+
+Citas metodes ietver klasifikāciju pēc kategorijas (piemēram, datu sagrupēšana pēc mēneša vai atrašanās vietas, iepriekš apstrādātu vaicājumu rezultātu glabāšana, kā arī sadalīšana pēc apgabala vai heša).
+
+Atmiņas pārvaldīšanas un glabāšanas un topoloģija var būt svarīgi izstrādes lēmumi datubāzu izstrādātājiem. Kā piemēram normalizācija tiek lietota lai samazinātu atmiņas nepieciešamību un uzlabotu datubāzes dizainu, pretēji de-normalizācija tiek izmantota lai samazinātu apvienošanas sarežģītību un samazinātu pieprasījumu izpildes laikus.
+
+== Indeksēšana ==
+Indeksācija ir veids, lai uzlabotu datubāzes veiktspēju. Daudzu veidu indeksa kopīga īpašuma, kas tās novērš vajadzību pārbaudīt katru ierakstu, veicot vaicājumu. Lielās datubāzēs, tas var mazināt pieprasījumu, laiks, izmaksas, ko kārtām. Visvienkāršākais veids indekss ir sakārtots vērtību sarakstu, kurus var meklēt, izmantojot bināro meklēšanu ar blakus atsaucoties uz vietu, kad, līdzīgi indeksu aizmugurē grāmatu. Paši dati var būt vairāki indeksi (darbinieku datubāzi varētu indeksēt pēc uzvārda un īre datumu.)
+
+Indeksi ietekmēt veiktspēju, bet ne rezultātu. Datubāzes dizaineri var pievienot vai noņemt indeksi bez izmaiņām piemērojot loģikas, samazinot uzturēšanas izmaksas, jo datubāze aug un datubāzes izmantošanas attīstību.
+
+Ņemot vērā īpaši vaicājumu, DBVS "vaicājumu optimizētāju ir atbildīga par izstrādāt visefektīvāko stratēģiju, lai atrastu atbilstošu datu. Pilnveidotājs izlemj, kura indeksu vai indeksu, lai izmantotu, kā apvienot datus no dažādām datubāzes, kā sniegt datus secībā pieprasīta, u. c.
+
+Indeksu var paātrināt piekļuvi datiem, bet tie patērē vietu datubāzē, un ir jāatjaunina katru reizi, kad dati ir mainīti. Indeksu tāpēc var paātrināt piekļuvi datiem, bet lēns datu uzturēšanu. Šie divi īpašības nosaka, vai konkrētā indeksa ir vērts izmaksas.
+
+== Drošība ==
+
+Datubāzes drošība apzīmē sistēmu, procesus un un procedūras, kas aizsargā datubāzi no nesankcionētas piekļuves, kā arī pasargā datubāzu saturu, datubāzu īpašniekus un lietotājus. Datubāzu drošība nodrošina aizsardzību gan pret tīšu, neatļautu datubāzu lietošanu, gan pret netīšām darbībām datubāzē
+Datu drošība ir kontroles process, kurā dati tiek aizsargāti no neautorizētas piekļuves, datubojājumiem un neadekvātas rīcības, kas ir pretrunā ar organizācijas drošības politiku. Līdz ar to, īpaši mūsdienās, kad organizācijām strauji palielinās informācijas apmaiņas kanāli (sociālie mediji, p2p komunikācija), datu drošība iedalās trijos kontroles veidos — datu kontrole un aizsardzība ar tiem strādājot, tos pārvietojot vai uzglabājot.
+
+Datubāzes pārvaldības sistēma parasti ievieš drošību, izmantojot piekļuves kontroli, auditu un šifrēšanu:
+
+* Datubāzes piekļuves kontrole pārvalda to, kam (personai vai noteiktai datorprogrammai) ir atļauts piekļūt datubāzei un cik plaša informācija datubāzē ir pieejama. Šī kontrole tiek vadīta ar autorizācijas palīdzību (autorizāciju koordinē datubāzu īpašnieks).
+* Auditēšana ieraksta informāciju par datubāzes aktivitātēm. Datubāzu audits, galvenokārt, pārbauda, vai nav notikuši drošības pārkāpumi. Ja tādi tiek konstatēti, tiek veikti visi iespējamie labojumi, lai turpmāk to novērstu.
+* Drošības apsvērumu dēļ dažu veidu dati (piem., kredītkartes informācija) var tikt glabāta šifrētā veidā, lai novērstu iespēju, ka informācija kļūst pieejama neatļautiem lietotājiem. Šifrēšana aizsargā datus zemākajā līmenī. Datubāzu pārvaldības sistēma šifrē datus, kad tie tiek pievienoti datubāzei un tad, kad tiek atgriezti rezultāti. Šifrēšanas processā informācija tiek pārveidota izmantojot speciālu algortimu, tādā veidā padarīta nevienam nesaprotama, izņemot tos, kam ir pieejama speciālā informācija (atslēga) par šifrēšanas procesu. Šis process var notikt uz tīklu savienojuma klienta pusē, lai novērstu nesankcionētu piekļuvi izmantošanas brīdī.
+
+Datu šifrēšana jeb kriptēšana mūsdienās ir IT speciālistu pasaulē atzītākais un visefektīvākais veids kā nodrošināties pret datu noplūdi, bojājumiem vai zudumiem, neatkarīgi no tā vai kāds ar datiem strādā, vai dati tiek pārvietoti vai glabāti.
+
+== Konfidencialitāte ==
+
+Likumi un noteikumi regulē informācijas publiskošanu no dažām datubāzēm,piemēram, aizsargājot medicīnisko vēsturi, vadītāju uzskaites, tālruņa žurnālus utt. Latvijā [http://www.likumi.lv/doc.php?id=4042 Fizisko personu datu aizsardzības likums] nosaka, kāda informācija nav pieļaujama publiskošanai un izplatīšanai.
+
+== Datubāzes transakcijas ==
+
+Transakcija sastāv no loģisko darbību kopuma, kas tiek izpildītas datubāzes vadības sistēmā. Tā darbojas kā viens vesels operāciju kopums, neatkarīgi no citām transakcijām. Datubāzu transakciju pielietošanai ir divi galvenie mērķi:
+# Izveidotu uzticamu darbību kopumu, kas ļauj atjaunot datus pēc sistēmas kļūmes, kad operāciju izpilde apstājas (pilnīgi vai daļēji) un daudzas operācijas ir nepabeigtas un ar neskaidru statusu.
+# Nodrošinātu izolāciju starp programmām, kas vienlaicīgi strādā ar datubāzi. Ja netiek nodrošināta šī izolācija, tad datubāzē var rasties kļūda.
+
+Lai izveidotu transakciju ir nepieciešams ievērot ACID(ACID — no angļu valodas pazīmju pirmajiem burtiem) principu:
+
+* Atomitāte (no angļu val. ''Atomicity''): Vai nu tiek izpildītas visas operācijas, kas ietilpst transakcijā, vai arī netiek izpildīta neviena,piemēram, naudas pārskaitīšana no viena konta otrā nozīmē naudas izņemšanu no pirmā konta un naudas pieskaitīšanu otrajam kontam, ja tiks
+izpildīta tikai viena no šīm darbībām, tad iegūtais rezultāts būs nekorekts.
+* Pastāvīgums (no angļu val. ''Consistency''): Pēc transakcijas izpildes rezultātā datubāze no viena nepretrunīga stāvokļa pāriet uz citu nepretrunīgu stāvokli,piemēram, ja konta stāvoklim vienmēr jābūt lielākam par "0", tad naudas pārskaitījums, kas konta stāvokli pazeminās zem nulles, netiks pieļauts.
+* Atdalīšana (no angļu val. ''Isolation''): Transakcijas izpildē un rezultātu korektumā nevar iejaukties cita transakcija, kas izpildās paralēli,piemēram, naudas pārskaitīšanas laikā citi lietotāji nekad neredzēs stāvokli,kad nauda ir abos kontos, vai tieši otrādi tā nav nevienā kontā.
+* Izturība (no angļu val. ''Durability'') :Izmaiņas ko datubāzē veikusi apstiprināta transakcija nedrīkst pazaudēt(jeb garantija, ka tiklīdz, kā transakcija ir pabeigta, tās izmaiņas netiks zaudētas pat datubāzes avārijas rezultātā.).
+
+Transakcijas darbojas pēc principa — visu vai neko. Ir jāizpildās pilnīgi visam darbību kopumam. Tikai tad, kad transakcija ir izpildījusies veiksmīgi, tās rezultāti tiek ierakstīti datubāzē.
+
+== Datubāzes rezerves kopiju izveide un atjaunošana ==
+Dažreiz ir nepieciešams atgriezt datubāzi iepriekšējā stāvoklī. Iemesli šim var būt dažādi, piemēram, gadījumos, kad datubāzē atrodas bojāti dati sakarā ar programmatūras kļūdu, vai arī tā ir papildināta ar kļūdainiem datiem. Šādas kļūdas var ieviesties, ja rezerves kopiju izveide ir veikta neregulāri vai nepārtraukti, kur katrs nepieciešamais datubāzes stāvoklis tiek glabāts izdalītā rezerves kopijas failā. Kad šāds datu stāvoklis ir radies un ir nepieciešams atjaunot iepriekšējā datus stāvoklī to ir iespējams izdarīt izvēloties atskaites punktu laikā un atjaunojot datubāzi vai kādu no tās daļām.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datubāzes]]

@@ -1,0 +1,35 @@
+{{Citas nozīmes|kuģa iekārtu|Stūre (nozīmju atdalīšana)|Stūre}}
+'''Stūre''' notur [[kuģis|kuģi]] kursā vai arī to izmaina, t.i. nodrošina kuģa vadāmību. Kuģa pagriešanos vēlamā virzienā panāk, pieliekot tam [[spēka moments|spēka momentu]], kas to pagriezīs ap vertikālo [[Rotācijas ass|asi]]. Pārliekot stūri par dažiem [[Grāds (leņķis)|grādiem]] uz viena vai otra [[borts|borta]] pusi, uz to sāk darboties ūdens [[spediens|spiediena]] spēks. Šis ūdens spiediena spēks rada [[griezes moments|griezes momentu]], kas pagriež kuģi stūres pārlikšanas virzienā. Stūres pārlikšanai arī nepieciešams spēka moments, kura lielums, t.i. stūres mašīnas jauda, atkarīga no ūdens spiediena spēka uz [[stūres lāpsta|stūres lāpstu]]. Stūre skaitās pasīvais vadāmības līdzeklis, jo lietderīgais spēka moments rodas, tikai kuģim esot kustībā. Aktīvie vadāmības līdzekļi nodrošina kuģa vadāmību, tam atrodoties miera stāvoklī, jo paši rada nepieciešamo griezes momentu. Pie aktīvajiem vadāmības līdzekļiem pieder: [[aktīvā stūre|aktīvās stūres]], [[spārniņu mehānisma skrūves]], [[sānskrūves]], [[pagriežamās skrūves kolonnas]]. Jūras kuģa stūres ierīce sastāv no šādām sastāvdaļām: stūres lāpstas, [[ballers|ballera]], [[pinne]]s, stūres pievada, stūres mašīnas, stūres pārvada un vadības pults.
+
+Atkarībā no griešanās ass izvietojuma stūres dalās parastajās un balansētajās. Parastajām stūrēm to griešanās ass iet gar tās malējo malu, bet balansētajām - lāpstas iekšienē. Pašreiz uz kuģiem pielieto [[plūdlīnija]]s formas stūres lāpstas, kas sastāv no rāmja, apšūta no abām pusēm ar metāla loksnēm. Rāmi veido horizontālās ribas un vertikālās diafragmas. Tukšo stūres lāpstas telpu aizpilda ar piķi vai putu poliuretānu.
+Plakanās stūres lāpstas pielieto tikai uz [[nepašgājēju kuģi]]em. Atkarībā no stūres stiprinājuma pie kuģa korpusa tās iedala: iekarinātās (parastās) stūres, piekarstūres, puspiekarstūres, balansētas stūres, pusbalansētās stūres, stūres ar noņemamu stūres vadni (Simplex stūre).
+
+'''Parastās stūres''' iekarina stūres vadņa virās ar stūres tapu palīdzību. 
+
+'''Piekarstūrēm''' nav balstu un tās piestiprinātas vienīgi pie stūres ballera, kas balstās uz gultņiem korpusa iekšienē. 
+
+'''Puspiekarstūrēm''' ir balsts tās apakšējā daļā (viras ar tapu), un augšējā daļa stiprinās pie ballera. 
+
+'''Simplex tipa stūres''' lāpstai ir vertikāla caurule, caur kuru iet noņemamais stūres vadnis (ruderposts). Apakšējo stūres vadņa galu stiprina ķīļa pēdā, bet augšējo ar atloka palīdzību pie pakaļvadņa (ahterštēviņa).
+
+Stūres lāpsta stiprinās pie kuģa pakaļgala konstrukcijām un savienojas ar balleri, kas tālāk iet korpusa iekšienē caur stūres ailas cauruli (helmporta caurule), virs kuras uzstāda [[blīvslēgs|blīvslēgu]]. Uz ballera galvas stiprina stūres pinni (rumpeli), savienotu ar stūres pievadu, kas savukārt savienots ar stūres mašīnu. Saņemot komandu no stūres vadības pults, caur pārvadu ieslēdzas stūres mašīna, kas iedarbina stūres pievadu un tas nodod griezes momentu uz pinni. Pinne pagriež stūres lāpstu par vajadzīgo tās pārlikšanas leņķi. Stūres lāpstas laukumu izsaka kā daļu no reizinājuma - <math>L*T</math>, kur L - kuģa garums, m; T - kuģa iegrime, m.
+
+[[Attēls:Pintle and gudgeon rudder system scheme.svg|Kuģa stūres shēma|thumb|200px]]
+
+Parasti tas sastāda:
+* S=(0,016 - 0,019)<math>L*T</math> - [[vienskrūves kuģis|vienskrūvju kuģi]];
+* S=(0,013 - 0,019)<math>L*T</math> - [[tankeris|tankeri]];
+* S=(0,012 - 0,017)<math>L*T</math> - [[pasažieru kuģi|lieltonnāžas pasažieru kuģi]];
+* S=(0,025 - 0,055)<math>L*T</math> - [[zvejas kuģis|zvejas kuģi]];
+* S=(0,010 - 0,025)<math>L*T</math> - [[pieņemšanas transporta kuģis|pieņemšanas transporta kuģi]].
+
+Uz daudziem kuģiem (it sevišķi zvejas kuģiem) stūres lāpstas vietā novieto plūdlīnijas formas grozāmu [[vadaptvere|vadaptveri]], kuras ass iet caur dzenskrūves diska centru.
+
+Hidrodinamisko īpašību uzlabošanai, lai samazinātu hidrodinamisko momentu uz balleri kuģa priekšgaitā, dažreiz grozāmo vadaptveri aprīko ar stabilizatoru.
+
+Bekera tipa stūre ir parastās stūres uzlabojums, kam pakaļgalā ir neliela ap vertikālu asi grozāma daļa. Bekera stūres efektivitāte ir līdz 90% lielāka nekā tāda paša laukuma parastai stūrei.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jūrniecība]]
+[[Kategorija:Kuģi]]

@@ -1,0 +1,30 @@
+{{ezera infokaste
+|ezers=Bolmens
+|attēls=Bolmen in Piksborg.JPG
+|vieta={{SWE}}
+| map = Zviedrija
+| map_size = 200px
+| plat_d=56 | plat_m=55 | plat_s= | plat_NS=N 
+| gar_d=13 | gar_m=40 | gar_s= | gar_EW=E
+|platība=184
+|garums=35
+|platums=12
+|Vid_dziļums=5,4
+|Max_dziļums=37
+|tilpums=1,1
+|augstums_vjl=142,2
+|izteka=[[Bolmona]]
+|baseins=1642
+|valstis=[[Zviedrija]]
+|salas=
+|pilsētas=
+}}
+'''Bolmens''' ({{val|sv|Bolmen}}) ir liels [[ezers]] [[Zviedrija]]s dienvidu daļā, [[Smolande|Smolandē]]. Pēc platības desmitais lielākais ezers Zviedrijā. Ezers apgādā ar dzeramo ūdeni pilsētas dienvidos pa {{nobr|82 km}} garu tuneli, kas tika izbūvēts 1970.—1980. gados.
+
+24 sugu [[zivs|zivis]]. Ezerā atrodas liela sala — [[Bolmse]] — vēsturiska vietējo iedzīvotāju sanāksmju vieta. Dienvidu piekrastē [[Piksborga]]s pils.
+
+{{Zviedrija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zviedrijas ezeri]]

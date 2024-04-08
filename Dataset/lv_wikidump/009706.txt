@@ -1,0 +1,55 @@
+{{cita nozīme|katedrāli Londonā|katedrāli Maltā|Mdinas Svētā Pāvila katedrāle}}
+{{Reliģiskas ēkas infokaste
+| building_name         = Svētā Pāvila katedrāle
+| infobox_width         = 
+| image                 = Cathédrale St-Paul - entrée principale.jpg
+| image_size            = 
+| caption               = Sv. Pāvila katedrāles fasāde
+| map_type              = Londonas centrs#Londona#Anglija#Eiropa
+| map_size              = 
+| map_label = Svētā Pāvila katedrāle
+| position = left
+| latd  = 51.513611 | latNS  = N
+| longd = 0.098333 | longEW = W
+| location              = {{vieta|Lielbritānija|Anglija|Londona|Sitija}}
+| religious_affiliation = [[Anglijas Baznīca]]
+| consecration_year     =
+| status                =
+| functional_status     = [[Baznīca (celtne)|baznīca]]
+| leadership            = 
+| website               = 
+| architecture_style    = angļu [[baroks]]
+| architect = [[Kristofers Rens]]
+| facade_direction      = 
+| groundbreaking        = 1675
+| year_completed        = 1710
+| length                = 
+| width                 = 
+| width_nave            = 
+| height_max            = 
+| capacity = 
+| materials             =
+}}
+<mapframe text="Svētā Pāvila katedrāle" width=260 height=260 zoom=17 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q173882"
+}
+</mapframe>
+'''Svētā Pāvila katedrāle''' ({{val|en|St Paul's Cathedral}}) ir [[baroks|baroka]] stila [[anglikāņi|anglikāņu]] [[katedrāle]] [[Londona|Londonā]], celta no 1672. gada līdz 1710. gadam, arhitekts — [[Kristofers Rens]] (''Sir Christopher Wren''). [[klasicisms|Klasicisma]] stila paraugs.
+1981. gadā šeit laulājas [[Čārlzs III Vindzors|Čārlzs III]] un [[princese Diāna]]. Dievnamā apglabāti admirālis [[Horācijs Nelsons]] (''Horatio Nelson'') un [[Arturs Velslijs]] (''Arthur Wellesley, 1st Duke of Wellington''), pirmais Velingtonas hercogs un [[Apvienotās Karalistes premjerministrs]].
+
+== Ārējās saites ==
+*{{oficiālā tīmekļa vietne}}
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Reliģija-aizmetnis}}
+
+{{Anglijas baznīcas}}
+{{autoritatīvā vadība}}
+[[Kategorija:Celtnes un būves Londonā]]
+[[Kategorija:Anglikāņu baznīcas Apvienotajā Karalistē]]
+[[Kategorija:Katedrāles]]
+[[Kategorija:Baroka arhitektūra]]

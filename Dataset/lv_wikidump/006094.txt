@@ -1,0 +1,150 @@
+{{Valodas infokaste
+ | name        = Afrikandu valoda
+ | nativename  = ''Afrikaans''
+ | familycolor = Indoeiropiešu
+ | states      = {{ZAF}}<br />{{NAM}}
+ | region      = [[Dienvidāfrika (reģions)|Dienvidāfrika]]
+ | speakers    = apm. 6,44 miljoni (sadzīves valoda)<br />6,75 miljoni (otrā vai trešā valoda)<br />12—16 miljoni (valodas pamatzināšanas).
+ | fam1        = [[Indoeiropiešu valodas|Indoeiropiešu]]
+ | fam2        = [[Ģermāņu valodas|Ģermāņu]]
+ | fam3        = [[Rietumģermāņu valodas|Rietumģermāņu]]
+ | fam4        = [[Lejasfranku valodas|Lejasfranku]]
+ | script      = [[Latīņu alfabēts]] (afrikandu ortogrāfija)
+ | nation      = {{ZAF}}
+ | agency      = [[Die Taalkommissie]]<br /><small>(Dienvidāfrikas Zinātņu un mākslas akadēmijas Valodu komisija)</small>
+ | iso1        = af
+ | iso2        = afr
+ | iso3        = afr
+|image=[[Attēls:Idioma_afrikáans.png|214px]]|caption=Tumši zils: vairākuma valoda / gaiši zils: runā mazākums}}
+'''Afrikandu valoda'''<ref>{{Tīmekļa atsauce |url= https://www.vestnesis.lv/ta/id/140080 |title= Par pasaules valodu un valodu grupu nosaukumiem latviešu valodā |publisher= [[Latvijas Vēstnesis]] |author= [[Valsts valodas centrs]] |date= 2006. gada 10. jūlijs |access-date= 2006. gada 11. septembrī}}</ref> (''afrikaans''), saukta arī par '''afrikaneru valodu''', '''afrikānsu''', '''būru valodu''' (no {{val|nl|boer}} — 'zemnieks'), '''Kāpas holandiešu valodu''', ir rietumģermāņu valoda, viena no [[Dienvidāfrikas Republika]]s valsts valodām. Afrikandu valodā runā vairāk nekā {{nobr|6 000 000}} cilvēku Dienvidāfrikā, [[Namībija|Namībijā]], [[Amerikas Savienotās Valstis|ASV]], [[Lielbritānija|Lielbritānijā]], [[Austrālija|Austrālijā]], [[Zimbabve|Zimbabvē]], [[Botsvāna|Botsvānā]], [[Vācija|Vācijā]], [[Lesoto]], [[Svatini]] un citās valstīs. Tā ir dzimtā valoda 76% Dienvidāfrikas «[[krāsainie|krāsaino]]» un 61% baltādaino iedzīvotāju (galvenokārt [[afrikaneri]]em).
+
+Afrikandu valoda cēlusies pamatā no holandiešu (nīderlandiešu) valodas sintēzē ar franču, angļu, vācu, arī malajiešu un āfrikāņu valodām. Afrikandu valodai ir vienkāršota gramatiskā uzbūve. Afrikandu valodā lietvārdiem nav dzimšu, nav locījumu. Darbības vārdiem nav konjugāciju. Darbības izteiksmei tiek lietoti tikai trīs laiki: viens tagadnē, viens pagātnē un viens nākotnē.
+
+Afrikandu valoda sāka veidoties 17. gadsimtā, kad [[Nīderlandes Austrumindijas kompānija]] sāka kolonizēt teritoriju Āfrikas galējos dienvidos pie [[Labās Cerības rags|Labās Cerības raga]] (holandiešu ''Kaap van Goede Hoop''), kuru nosauca par Kāpas koloniju (''Kaapkolonie''). Kāpas kolonijā ieradās kolonisti ne vien no Holandes, bet arī no tās kaimiņzemēm, tādēļ radās jauns holandiešu valodas dialekts. Pirmie laikraksti afrikandu valodā tika izdoti Lielās būru pārceļošanas laikā 19. gadsimta pirmajā pusē. No 1925. gada afrikandu valoda kļuva par Dienvidāfrikas Savienības un bijušās Vācu Dienvidrietumu Āfrikas (tagadējās Namībijas) valsts valodu (nomainot nīderlandiešu valodu) līdzās angļu valodai.
+
+== Afrikandu valodas grafēmas ==
+{| class="wikitable"
+! [[Grafēma]] !! [[Starptautiskais fonētiskais alfabēts|IPA]] !! Piemēri
+|-
+| a || {{IPA|/ɐ/}} || ''appel'' ('ābols')
+|-
+| aa || {{IPA|/ɑː/}} || ''aap'' ('pērtiķis')
+|-
+| aai || {{IPA|/ɑːi/}} || ''draai'' ('pagrieziens')
+|-
+| ai || {{IPA|/aj/}} || ''baie'' ('daudz')
+|-
+| b || {{IPA|/b/}} || ''boom'' ('koks')
+|-
+| c || {{IPA|/s/}}, {{IPA|/k/}} || (atrodams galvenokārt aizguvumos; agrāk izrunāja pirms 'e', 'i' vai 'y'; parādās daudzksaitļa formā -ici, kā daudzskaitļa forma ''medikus'' (mediķis), ''medici'')
+|-
+| ch || {{IPA|/ʃ/}}, {{IPA|/x/}}, {{IPA|/k/}} || ''chirurg'' ('ķirurgs'; {{IPA|/ʃ/}}, parasti 'sj' tiek lietots), ''chemie'' ('ķīmija'; {{IPA|/x/}}), ''chitien'' ('hitīns'; {{IPA|/k/}}). Atrodams tikai aizguvumos un īpašvārdos
+|-
+| d || {{IPA|/d/}}|| ''dae'' ('dienas'), ''dag'' ('diena')
+|-
+| dj || {{IPA|/d͡ʒ/}} || ''djati'' ('tīkkoks') (izmanto pierakstot aizguvumus)
+|-
+| e || {{IPA|/ɛ/}}, {{IPA|/eə/}}, {{IPA|/ə/}} || ''bed'' ({{IPA|/ɛ/}}), ''ete'' ({{IPA|/eə/}}), ''se'' ({{IPA|/ə/}})
+|-
+| ê || {{IPA|/eː/}} || ''sê'' ('sacīt')
+|-
+| ê || {{IPA|/ɛː/}} || ''nê?'' ('jā?' vai 'labi?')
+|-
+| ë || {{IPA|/ə/}} || ''oë'' ('acis')
+|-
+| ee || {{IPA|/eə/}} || ''weet'' ('zināt'), ''eet'' ('ēst'), ''een'' ('viens')
+|-
+| eeu || {{IPA|/iu/}} || ''sneeu'' ('sniegs'), ''eeu'', ('gadsimts')
+|-
+| ei || {{IPA|/ɛi/}} || ''Mei'' ('maijs")
+|-
+| eu || {{IPA|/eø/}} || ''seun'' ('dēls')
+|-
+| f || {{IPA|/f/}} || ''fiets'' ('divritenis')
+|-
+| g || {{IPA|/x/}}|| ''goed'' ('labs'), ''geel'' ('dzeltens')
+|-
+| gh || {{IPA|/ɡ/}} || ''gholf'' ('golfs'), atrodams tikai aizguvumos
+|-
+| h || {{IPA|/ɦ/}} || ''hael'' ('svēts'), ''hond'' ('suns')
+|-
+| i || {{IPA|/i/}} || ''kind'' ('bērns') ''ink'' ('tinte')
+|-
+| ie || {{IPA|/i/}} || ''iets'' ('kaut kas')
+|-
+| j || {{IPA|/j/}} || ''jonk'' ('jaunietis')
+|-
+| k || {{IPA|/k/}} || ''kat'' ('kaķis'), ''kan'' ('varēt')
+|-
+| l || {{IPA|/l/}} || ''lag'' ('smiekli')
+|-
+| m || {{IPA|/m/}} || ''man'' ('cilvēks')
+|-
+| n || {{IPA|/n/}} || ''nael'' ('nagla')
+|-
+| ng || {{IPA|/ŋ/}} || ''sing'' ('dziedāt')
+|-
+| o || {{IPA|/ɔ/}} || ''op'' ('uz' vai 'augšā')
+|-
+| ô || {{IPA|/ɔː/}} || ''môre'' ('rītdiena')
+|-
+| oe || {{IPA|/u/}} || ''boek'' ('grāmata'), ''koel'' ('vēss')
+|-
+| oei || {{IPA|/ui/}} || ''koei'' ('govs')
+|-
+| oi || {{IPA|/oj/}} || ''mooi'' ('skaists') dažreiz raksta 'oy' aizguvumos un uzvārdos
+|-
+| oo || {{IPA|/oə/}} || ''oor'' ('auss')
+|-
+| ooi || {{IPA|/ɔːi/}} || ''nooi'' ('maza meitene')
+|-
+| ou || {{IPA|/ɵu/}} || ''oupa'' ('vectēvs')
+|-
+| p || {{IPA|/p/}} || ''pers'' ('violets')
+|-
+| q || {{IPA|/k/}} || (atrodams tikai aizguvumos)
+|-
+| r || {{IPA|/r/}} || ''rooi'' ('sarkans')
+|-
+| s || {{IPA|/s/}} || ''ses'' ('seši')
+|-
+| sj || {{IPA|/ʃ/}} || ''sjaal'' ('lakats')
+|-
+| t || {{IPA|/t/}} || ''tafel'' ('galds')
+|-
+| tj || {{IPA|/tʃ/}}, {{IPA|/k/}} ||
+|-
+| u || {{IPA|/œ/}} || ''kus'' ('krasts')
+|-
+| û || {{IPA|/œː/}} || ''brûe'' ('bridges')
+|-
+| ui || {{IPA|/œj/}} || ''uit'' ('ārā')
+|-
+| uu || {{IPA|/y/}} || ''uur'' ('stunda')
+|-
+| v || {{IPA|/f/}} || ''vis'' ('zivs'), ''vir'' ('priekš')
+|-
+| w || {{IPA|/v/}} || ''water'' ('ūdens')
+|-
+| x || {{IPA|/ks/}} || ''xifoïed'' ('zobenveidīgs')
+|-
+| y || {{IPA|/ɛi/}} || ''byt'' ('dzēliens')
+|-
+| z || {{IPA|/z/}} || ''Zoeloe'' ('zulu'). atrodams tikai onomatopejās un aizguvumos
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+{{InterWiki|code=af}}
+
+{{valoda-aizmetnis}}
+
+{{ģermāņu valodas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Rietumģermāņu valodas]]
+[[Kategorija:Dienvidāfrikas valodas]]
+[[Kategorija:Namībijas valodas]]
+[[Kategorija:Valodas]]

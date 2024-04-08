@@ -1,0 +1,12 @@
+[[Attēls:Harmonische Schwingung 2.png|250px|right]]
+'''Amplitūda''' ({{val-la|amplitudo}} — ‘plašums’) ir maksimālā absolūtā vērtība y<sub>0</sub>, ko [[harmoniskās svārstības|harmoniskajās svārstībās]] sasniedz kāds fizikāls lielums "s" (ķermeņa novirze no līdzsvara stāvokļa, [[ātrums]], [[paātrinājums]], [[strāva]]), mainoties laikā "t". Viena [[svārstību periods|svārstību perioda]] laikā attiecīgais fizikālais lielums šo maksimālo vērtību sasniedz divas reizes. Ideālas svārstību sistēmas gadījumā svārstību amplitūda ir konstanta.
+
+== Skatīt arī ==
+
+* [[Amplitūda (statistika)]]
+{{Fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Klasiskā mehānika]]
+[[Kategorija:Viļņu fizika]]

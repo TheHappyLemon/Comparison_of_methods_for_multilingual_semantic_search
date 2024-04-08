@@ -1,0 +1,127 @@
+{{citas nozīmes|pilsētu|Salaspils (nozīmju atdalīšana)|Salaspils}}
+{{Apdzīvotas vietas infokaste
+| name = Salaspils
+| settlement_type = Novada pilsēta
+| image_skyline = {{Photomontage
+|photo1a = Salaspils_1._vidusskolas_4._korpuss.jpg{{!}}
+|photo2a = Salaspils_Dievmātes_-_Rožukroņa_Karalienes_Romas_katoļu_baznīca.jpg{{!}}
+|photo2b = Daudzdzīvokļu_mājas_Salaspilī_-_ogre11_-_Panoramio.jpg{{!}}
+|photo3a = Kircholm_pomnik.jpg{{!}}
+|photo3b = Salaspils_stacija.jpg
+|color = white
+|color_border = white
+|position = center
+|spacing = 2
+|size = 266
+|foot_montage =
+}}
+| imagesize = 
+| image_caption = 
+| image_shield = Salaspils COA.svg
+| shield_link = Salaspils ģerbonis
+| shield_size = 70px
+| pushpin_map = Latvija
+| pushpin_label_position = <!-- left/right -->
+| latd = 56
+| latm = 51
+| lats = 31
+| latNS = N
+| longd = 24
+| longm = 20
+| longs = 59
+| longEW = E
+| subdivision_type = [[Suverēno valstu uzskaitījums|Valsts]]
+| subdivision_name = '''{{karogs|Latvija}}'''
+| subdivision_type1 = Novads
+| subdivision_name1 = {{flagicon image|Flag_of_Salaspils_Municipality.jpg}} [[Salaspils novads]]
+| subdivision_type2 = 
+| subdivision_name2 = 
+| subdivision_type3 = 
+| subdivision_name3 = 
+| established_title = Pilsētas tiesības
+| established_date = kopš 1993. gada
+| established_title2 = 
+| established_date2 = 
+| seat_type = Vēsturiskie<br />nosaukumi
+| seat = {{val|de|Kirchholm}}
+| area_total_km2 = 12
+| population_footnotes = 
+| population_total = 17 794
+| population_as_of = 2023
+| population_rank = 
+| population_density_km2 = auto
+| timezone = [[Austrumeiropas laiks|EET]]
+| utc_offset = +2
+| timezone_DST = [[Austrumeiropas laiks|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = Pasta indeksi
+| postal_code = LV-2121, LV-2169
+| area_code = 
+| website = {{URL|www.salaspils.lv}}
+| footnotes = 
+| image_flag =
+| flag_link = Salaspils karogs
+| population = 
+}}
+[[Attēls:Salaspils Dome.jpg|thumb|Salaspils dome]]
+'''Salaspils''' ir [[pilsēta]] [[Latvija|Latvijā]], [[Salaspils novads|Salaspils novada]] administratīvais centrs. Tā ir [[Rīga]]s [[piepilsēta]], atrodas tikai 18 km attālumā no galvaspilsētas centra un 16 km attālumā no [[Ogre]]s. Pilsēta tās mūsdienu veidolā veidojusies saistībā ar līdzās esošā [[Rīgas HES]] un vairāku rūpniecības uzņēmumu celtniecību, savukārt [[Salaspils vēsture|vēsturiskā Salaspils]] šobrīd ir appludināta zem [[Rīgas ūdenskrātuve|Rīgas HES ūdenskrātuves]]. Pilsētas tiesības kopš 1993. gada. Salaspils ir viena no jaunākajām Latvijas pilsētām un 11. lielākā pilsēta pēc iedzīvotāju skaita.<ref>{{Tīmekļa atsauce|url=https://stat.gov.lv/lv/statistikas-temas/iedzivotaji/iedzivotaju-skaits/247-iedzivotaju-skaits-un-ta-izmainas|title=Iedzīvotāju skaits un tā izmaiņas {{!}} Oficiālās statistikas portāls|website=stat.gov.lv|access-date=2021-06-27}}</ref>
+
+Pilsētas platība ir 12 km<sup>2</sup>, to aptver [[Salaspils pagasts]]. 2022. gadā Salaspilī bija 17 794 iedzīvotāji.<ref>{{Tīmekļa atsauce|url=https://stat.gov.lv/lv/statistikas-temas/iedzivotaji/iedzivotaju-skaits/247-iedzivotaju-skaits-un-ta-izmainas|title=Iedzīvotāju skaits un tā izmaiņas {{!}} Oficiālās statistikas portāls|website=stat.gov.lv|access-date=2023-01-19}}</ref>
+
+Salaspils teritoriju šķērso [[dzelzceļa līnija Rīga—Daugavpils]] (stacijas [[Salaspils (stacija)|Salaspils]] un [[Dole (stacija)|Dole]]), autoceļš {{A ceļš|6}}, līdzās pilsētai iet Rīgas apvedceļš {{A ceļš|4}} un {{A ceļš|5}}. Brauciens no Salaspils līdz Rīgai neatkarīgi no izvēlētā transporta veida (autoceļš vai dzelzceļš) ilgst aptuveni 25 minūtes. Nelielā attāluma un ērtās satiksmes dēļ raksturīga diennakts migrācija — liela daļa Salaspils iedzīvotāju katru dienu brauc strādāt vai mācīties uz Rīgu.
+
+== Daba ==
+Salaspils atrodas [[Daugava]]s ([[Rīgas ūdenskrātuve|Rīgas HES ūdenskrātuves]]) labajā krastā, [[Viduslatvijas zemiene]]s [[Ropažu līdzenums|Ropažu līdzenumā]].
+==Iedzīvotāji==
+=== Iedzīvotāju skaita izmaiņas ===
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 65%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1969|3430
+|1970|5234
+|1979|14149
+|1989|18149
+|2000|18121
+|2011|17099
+|2021|17905
+|2022|17808|2023|17794}}2023. gada 1. janvārī, pēc Latvijas Centrālās statistikas pārvaldes datiem, pilsētā dzīvoja 17 808 iedzīvotāji, no kuriem 49,2 % bija [[latvieši]], 34,04 % [[krievi]] un 16,76 % piederēja pie citām etniskajām grupām.<ref>{{Tīmekļa atsauce|url=https://stat.gov.lv/lv/statistikas-temas/iedzivotaji/iedzivotaju-skaits-5|title=Etniskais sastāvs {{!}} Oficiālās statistikas portāls|website=stat.gov.lv|access-date=2023-04-24}}</ref>
+
+== Vēsture ==
+{{Pamatraksts|Salaspils vēsture}}
+Salaspils ({{val|de|Holmburg}}) apkārtne bija apdzīvota jau 9. gadu tūkstotī pirms mūsu ēras. 12. gadsimta beigās Daugavas sala Holma (vēlākā [[Mārtiņsala]]) bija ievērojams Daugavas [[lībieši|lībiešu]] centrs. 1186. gadā bīskaps [[Meinards]] salā uzcēla mūra pili un baznīcu, kur norisinājās vietējo lībiešu kristīšana un vēlāk sala tika nodēvēta par Baznīcas salu ({{val|de|Kirchholm}}).<ref>Caune, Andris; Ose, Ieva. Latvijas viduslaiku mūra baznīcas. 12. gs. beigas — 16. gs. sākums. Rīga: Latvijas vēstures institūta apgāds, 2010. {{ISBN|9789984824178}} 378. lpp.</ref> 1255. gadā pils nonāca [[Rīgas arhibīskapi (1255—1562)|Rīgas arhibīskapa]] īpašumā, bet 1298. gadā tā stipri cieta arhibīskapa un [[Livonijas ordenis|Livonijas ordeņa]] [[Livonijas pilsoņu karš|savstarpējās cīņās]].<ref>Caune, Andris; Ose, Ieva. Latvijas viduslaiku pilis IV. Rīga: Latvijas vēstures institūta apgāds, 2004. {{ISBN|9984601072}} 444. lpp.</ref> 14. gadsimta otrajā pusē Daugavas krastā iepretī Baznīcas salai tika uzcelta jauna [[Salaspils viduslaiku pils|Livonijas ordeņa pils]].
+
+No 1721. gada Salaspils atradās Krievijas Impērijas sastāvā. 1753. gadā Salaspilī uzcēla draudzes skolu. 1786. gadā atklāta Salaspils zirgu pasta stacija uz Daugavas lielceļa. 1861. gadā sāka darboties [[dzelzceļa līnija Rīga—Orla]]. 1866. gadā iesvētīta Salaspils pagasta skola. 1898. gadā Salaspils dzelzceļa stacijas rajonā izveidota K.Šoha dārzniecība (Nacionālā Botāniskā dārza priekštece). 1915.—1917. gadā [[Pirmais pasaules karš|Pirmā pasaules kara]] laikā divus gadus Salaspils atradās piefrontes joslā, tika nopostītas daudzas celtnes, arī abas baznīcas. 1941.—1944. gadā [[Otrais pasaules karš|Otrā pasaules kara]] laikā agrāko karaspēka vasaras nometņu vietā nacisti ierīkoja karagūstekņu nometni un [[Salaspils koncentrācijas nometne|Salaspils koncentrācijas nometni]] civiliedzīvotājiem, kurā tagad atrodas [[Salaspils memoriāls]] (1967).
+
+1950. gadu beigās un 1960. gadu sākumā dažādi, savstarpēji nesaistīti padomju resori uzsāka nozīmīgu rūpniecības uzņēmumu, iestāžu un dzīvojamo rajonu strauju celtniecību Salaspilī. Salaspils dažu desmitu gadu laikā no klusas lauku apdzīvotas vietas izauga par pilsētu ar vairākiem atdalītiem mikrorajoniem (HES ciemats, Agrofirmas ciemats, Budeskalni, Zinātņu Akadēmijas ciemats, Silava) un izveidojās par ievērojamu [[enerģētika]]s, zinātnes un lauksaimniecības centru. Lielākā būve nākamajā desmitgadē bija [[Rīgas HES]], zem kuras ūdenskrātuves 1974.—1975. gadā tika appludināta Salaspils vēsturiskā daļa. 20. gadsimta otrajā pusē Salaspilī darbojās pētnieciskais [[Salaspils kodolreaktors]].
+
+2004. gada novembrī [[Latvijas administratīvais iedalījums|administratīvi teritoriālās reformas]] gaitā no Salaspils pilsētas ar lauku teritoriju tika izveidots [[Salaspils novads]], Salaspils pilsēta kļuva par [[novads|novada]] centru.
+
+== Sadraudzības pilsētas ==
+* {{flaga|Zviedrija}} [[Finsponga]]
+* {{flaga|Vācija}} [[Finstervalde]]
+* {{flaga|Polija}} [[Veliševa]]
+== Atsauces ==
+{{atsauces}}
+
+== Literatūra ==
+* Lilita Vanaga [http://www.lvi.lv/lv/LVIZ_2011_files/3numurs/M_Mintaurs_Recenzija_LVIZ_2011_3.pdf „Salaspils novads”] {{Webarchive|url=https://web.archive.org/web/20160304142757/http://www.lvi.lv/lv/LVIZ_2011_files/3numurs/M_Mintaurs_Recenzija_LVIZ_2011_3.pdf |date={{dat|2016|03|04||bez}} }}. — Salaspils novada dome, Salaspils 2011. (Gadsimtu hronoloģija 9.g.t.pr.Kr. — 21.gs.) {{ISBN|9984492761}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* {{oficiālā tīmekļa vietne}}
+
+{{Salaspils novads}}
+{{Latvijas pilsētas}}
+{{Latvijas novadu centri}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Rīgas rajons}}
+}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Vidzeme]]
+[[Kategorija:Salaspils| ]]

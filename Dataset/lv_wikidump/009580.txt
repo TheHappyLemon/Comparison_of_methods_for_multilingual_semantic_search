@@ -1,0 +1,75 @@
+<!-- Iekļaujami tikai aktuāli, populāri protokoli -->{{sidebar
+| name         = TCPIPmodelis
+| title        = [[TCP/IP modelis|Piecu slāņu TCP/IP modelis]]
+| bodyclass    = hlist
+| titlestyle   = background-color: #adb;
+| headingstyle = background-color: #cfc;
+
+| heading1     = [[Lietojumslānis]]
+| content1     =
+* [[DHCP]]
+* [[DNS (protokols)|DNS]]
+* [[FTP]]
+* [[HTTP]]
+* [[IMAP|IMAP4]]
+* [[IRC]]
+* [[POP3]]
+* [[Session Initiation Protocol|SIP]]
+* [[SMTP]]
+* [[Simple Network Management Protocol|SNMP]]
+* [[Secure Shell|SSH]]
+* [[TELNET]]
+* [[Remote procedure call |RPC]]
+* [[Real-time Transport Protocol|RTP]]
+* [[Real-time Transport Control Protocol|RTCP]]
+* [[Transport Layer Security|TLS/SSL]]
+* [[Maršrutēšanas informācijas protokols|SDP]]
+* [[SOAP]]
+* [[L2TP|L2TP]]
+* [[PPTP|PPTP]]
+
+| heading2     = [[Transporta slānis]]
+| content2     =
+* [[TCP]]
+* [[UDP]]
+* [[Datagram Congestion Control Protocol|DCCP]]
+* [[Stream Control Transmission Protocol|SCTP]]
+* [[Generic Routing Encapsulation|GRE]]
+* [[GPRS Tunnelling Protocol|GTP]]
+
+| heading3     = [[Tīkla slānis]]
+| content3     =
+* [[IP]]
+** [[IPv4]]
+** [[IPv6]]
+* [[ARP]]
+* [[Reversais adrešu atrises protokols|RARP]]
+* [[ICMP]]
+* [[Internet Group Management Protocol|IGMP]]
+* [[Border Gateway Protocol|BGP]]
+* [[Resource Reservation Protocol|RSVP]]
+* [[IPsec]]
+* [[Routing Information Protocol|RIP]]
+
+| heading4     = [[Datu posma slānis]]
+| content4     =
+* [[Ethernet]]
+* [[Fiber distributed data interface|FDDI]]
+* [[Frame relay]]
+* [[GPRS]]
+* [[PPP]]
+
+| heading5     = [[Fizikālais slānis]]
+| content5     =
+* [[Ethernet fizikālais slānis]]
+* [[ISDN]]
+* [[Modems|Modemi]]
+* [[Power line communication|PLC]]
+* [[RS232]]
+* [[Synchronous optical networking|SONET/SDH]] 
+* [[G.709]] 
+* [[IEEE 802.11|Wi-Fi]] 
+* [[WiMAX]]
+}}<noinclude>
+[[Kategorija:Datorikas navigācijas veidnes]]
+</noinclude>

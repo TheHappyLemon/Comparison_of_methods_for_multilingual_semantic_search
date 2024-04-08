@@ -1,0 +1,4 @@
+<span class="citation wikicite" id="endnote_{{{1}}}"><b>[[#ref_{{{1}}}|^{{{2|}}}]]</b>{{#if:{{{3|}}}|&nbsp;{{{3|}}}}}</span> <noinclude>
+[[Kategorija:Vikipēdijas veidnes]]
+
+</noinclude>

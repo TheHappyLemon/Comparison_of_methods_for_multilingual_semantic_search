@@ -1,0 +1,81 @@
+{{Citas nozīmes|pilsētu Argentīnā|Kordova|Kordova}}
+{{Infobox settlement
+ | name                     = Kordova 
+ | official_name            = ''Córdoba''
+ | settlement_type          = pilsēta
+ | image_skyline            = Montaje CBA 9.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               =
+ | image_shield             = Escudo ciudad de cordoba argentina.svg
+ | pushpin_map              = Argentina
+ | map_caption              = Atrašanās vieta Argentīnā
+ | coordinates_display      = 
+ | coordinates_region       =
+ | subdivision_type         = [[Pasaules valstis|Valsts]]
+ | subdivision_type1        = [[Argentīnas provinces|Province]]
+ | subdivision_name         = {{flag|Argentīna}}
+ | subdivision_name1        = [[Kordovas province]]
+ | established_title        = Dibināta
+ | established_date         = 1573
+ | area_magnitude           =
+ | area_total_km2           = 576
+ | area_land_km2            = 
+ | area_water_km2           =
+ | area_water_percent       =
+ | area_urban_km2           =
+ | area_metro_km2           =
+ | population_as_of         = 2008
+ | population_note          =<ref>
+[http://www.indec.mecon.ar/nuevaweb/cuadros/2/estimaciones-serie34.pdf INDEC: estimaciones de población] {{Webarchive|url=https://web.archive.org/web/20140409210017/http://www.indec.mecon.ar/nuevaweb/cuadros/2/estimaciones-serie34.pdf |date={{dat|2014|04|09||bez}} }}
+</ref>
+ | population_total         = 1309536
+ | postal_code              = 5000
+ | population_metro         = 1528000
+ | population_urban         =
+ | population_density_km2   = auto
+| timezone1               = [[Argentīnas laiks|ART]]
+| utc_offset1             = −3
+| timezone1_DST           = <!--NO-->
+| utc_offset1_DST         = <!--NO-->
+ | latd = 31 | latm = 25 | lats = | latNS = S
+ | longd = 64 | longm = 11 | longs = | longEW = W
+ | elevation_m              = 352-544
+ | postal_code_type         =
+ | blank_name               =
+ | blank_info               =
+}}
+
+'''Kordova''' ({{val-es|Córdoba}}) ir pilsēta [[Argentīna]]s centrālajā daļā, [[Kordovas province]]s administratīvais centrs. Argentīnas otrā lielākā pilsēta. Pilsētā saglabājušies daudzi koloniālā laika arhitektūras pieminekļi.
+
+Liels Argentīnas augsto tehnoloģiju rūpniecības centrs — [[kosmosa rūpniecība]] (''Centro Espacial Teófilo Tabanera''), [[aviorūpniecība]] (''Fábrica Militar de Aviones''), [[autorūpniecība]] ([[Renault]], [[Volkswagen]], [[Fiat]]), starptautiskas informācijas tehnoloģiju kompānijas.
+
+Kordovas tradicionālais mūzikas žanrs — ''[[cuarteto]]''.
+
+== Vēsture ==
+Pilsēta dibināta 1573. gadā un tā nosaukta par godu [[Kordova (Spānija)|Kordovai]] [[Spānija|Spānijā]]. 1613. gadā [[jezuīti]] nodibināja Kordovas universitāti — vecāko universitāti [[Dienvidamerika|Dienvidamerikā]].
+
+Pēc [[Otrais pasaules karš|Otrais pasaules kara]] Kordova kļuva par Argentīnas aviorūpniecības centru. Lielu ieguldījumu aviorūpniecības attīstībā deva pēc sakāves karā no [[Vācija]]s atbraukušie kompānijas ''[[Focke-Wulf]]'' speciālisti.
+
+== Cilvēki ==
+Kordovā dzimuši:
+
+* [[Osvaldo Ardiless]] (''Osvaldo Ardiles'') (1952-) — futbolists
+* [[Santjago Derkvi]] (''Santiago Derqui'') (1809-1867) — [[Argentīna]]s prezidents
+* [[Mario Kempess]] (''Mario Kempes'') (1954-) — futbolists
+* [[Fabricio Koločīni]] (''Fabricio Coloccini'') (1982-) — futbolists
+* [[Dāvids Nalvandjans]] (''David Nalbandian'') (1982-) — tenisists
+* [[Fernando de la Rūa]] (''Fernando de la Rúa'') (1937-) — [[Argentīna]]s prezidents
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Argentīna-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Argentīnas pilsētas]]

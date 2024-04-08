@@ -1,0 +1,46 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Hydrogen-peroxide-2D.png|120px]]
+|ķīmiskā formula=H<sub>2</sub>O<sub>2</sub>
+|molmasa=34
+|blīvums=1400
+|kušanas temperatūra=262,15 K (-11&nbsp;°C)
+|viršanas temperatūra=423,35 K (150,2&nbsp;°C)
+}}
+
+'''Ūdeņraža peroksīds''' (ūdeņraža pārskābe, H<sub>2</sub>O<sub>2</sub>) ir bezkrāsains viskozs [[šķidrums]], kas labi šķīst [[ūdens|ūdenī]]. Koncentrēts ūdeņraža peroksīds ir nestabils un to lieto par [[ķīmiskā raķešdegviela|raķešdegvielu]] (oksidētāju), to lieto arī [[balināšana]]i. Apmēram 50% saražotā ūdeņraža peroksīda izlieto [[celuloze]]s balināšanai un [[papīrs|papīra]] ražošanai. Sadaloties ūdeņraža peroksīdam, veidojas atomārais [[skābeklis]]. Plaši lieto 30% un 3% šķīdumus.
+
+== Vēsture ==
+Ūdeņraža peroksīds pirmo reizi tika iegūts [[1818]]. gadā, [[bārija peroksīds|bārija peroksīdam]] reaģējot ar [[slāpekļskābe|slāpekļskābi]]. Nedaudz vēlāk metodi uzlaboja, par skābi lietojot [[sālsskābe|sālsskābi]] un [[sērskābe|sērskābi]] (lai nogulsnētu [[bārija sulfāts|bārija sulfātu]]). Šo metodi lietoja līdz 20. gs. vidum. Ilgu laiku uzskatīja, ka tīrs ūdeņraža peroksīds ir nestabils, jo visos gadījumos, palielinoties koncentrācijai, tas sāka sadalīties. Mūsdienās uzskata, ka tas bija [[smagais metāls (ķīmija)|smago metālu]] jonu piemaisījumu dēļ. Pirmo reizi 100% ūdeņraža peroksīdu ieguva [[1894]]. gadā, lietojot vakuumdestilēšanu.
+
+== Iegūšana ==
+Agrāk ūdeņraža peroksīdu rūpnieciski ieguva ar amonija peroksidisulfāta [[hidrolīze|hidrolīzi]]:
+: (NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub> + 2 H<sub>2</sub>O → H<sub>2</sub>O<sub>2</sub> + 2 NH<sub>4</sub>HSO<sub>4</sub>
+Nepieciešamais amonija peroksidisulfāts tika iegūts amonija hidrogēnsulfāta (NH<sub>4</sub>HSO<sub>4</sub>) [[Elektrolīze|elektrolīzē]] [[Sērskābe|sērskābē]].
+
+Mūsdienās ūdeņraža peroksīdu iegūst oksidējot 2-etil-9,10-dihidroksilantracēnu (C<sub>16</sub>H<sub>14</sub>O<sub>2</sub>) par 2-etilantrahinonu (C<sub>16</sub>H<sub>12</sub>O<sub>2</sub>), izmantojot gaisa skābekli ([[Rīdla—Pfleiderera process]]). Šajā procesā [[hidroksilgrupa]]s pie [[antracēns|antracēna]] vidējā gredzena tiek oksidētas par ketogrupām ([[karbonilgrupa|karbonilgrupām]]) un ūdeņraža atomi no šīm hidroksilgrupām oksidējas par ūdeņraža peroksīdu. Šo [[antrahinons|antrahinona]] atvasinājumu pēc tam [[ekstrakcija|ekstrahē]] no reakcijas maisījuma un reducē atpakaļ par dihidroksisavienojumu ar ūdeņradi un metāla [[katalizators|katalizatoru]].
+[[Attēls:Riedl-Pfleiderer process.svg|centre]]
+
+Šī procesa reakcijas vienādojums ir vienkāršs:
+
+H<sub>2</sub> + O<sub>2</sub> → H<sub>2</sub>O<sub>2</sub>,
+
+taču kopējās izmaksas ir atkarīgas no [[hinoni|hinona]] ekstrakcijas un reducēšanas efektivitātes (kas nosaka zudumus).
+
+=== Koncentrēšana ===
+Lielākoties plaši pieejamais ūdeņraža peroksīds ir ar koncentrāciju 3 vai 30%. Raķešdegvielai parasti lieto koncentrācijas virs 70%. Sadaloties jebkādas koncentrācijas ūdeņraža peroksīdam, veidosies kaut kāds daudzums karstas gāzes (skābeklis + ūdens tvaiks) un šķidrums (palikušais ūdens), bet koncentrācijās virs ~67% viss ūdeņraža peroksīds spēj pārvērsties gāzē. Tālāk palielinot koncentrāciju, tikai paaugstināsies gāzes temperatūra (un palielināsies skābekļa īpatsvars). Tā kā koncentrācijas, kas lielākas par 30%, ir grūti pieejamas, var rasties nepieciešamība šo vielu koncentrēt. Vienkārša destilēšana atmosfēras spiedienā ir bīstama, jo pietiekoši koncentrēti ūdeņraža peroksīda tvaiki var detonēt (~70&nbsp;°C, atmosfēras spiedienā). Šo problēmu var daļēji samazināt, lietojot vakuumdestilēšanu. Vēl ūdeņraža peroksīdu var koncentrēt ar frakcionēto kristalizēšanu (daļēji sasalušam šķīdumam cietajai un šķidrajai fāzei var būt atšķirīgs sastāvs).
+
+== Īpašības ==
+Ūdeņraža peroksīds sadalās par ūdeni un skābekli. Lai uzglabāšanas laikā palēninātu šo procesu, liek klāt inhibitorus ([[alva]]s sāļi, [[fosfāti]], [[nitrāti]]). Lai no ūdeņraža peroksīda iegūtu skābekli, lieto katalizatorus ([[mangāna dioksīds]]). Ūdeņraža peroksīds reaģē ar [[ketoni]]em, veidojot ketonu peroksīdus. Tos lieto par polimerizācijas iniciatoriem polimēru ražošanā (MEK peroksīds) un par nestabilām (bet viegli iegūstamām) sprāgstvielām ([[acetona peroksīds]]). Ūdeņraža peroksīds ir arī citu organisko peroksisavienojumu izejviela.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20080609110304/http://www.h2o2.com/intro/properties/physical.html Ūdeņraža peroksīda fizikālās īpašības] {{en ikona}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Udenraza peroksids}}
+[[Kategorija:Ūdeņradis]]
+[[Kategorija:Peroksīdi]]
+[[Kategorija:Raķešdegviela]]
+[[Kategorija:Sadzīves ķīmija]]

@@ -1,0 +1,102 @@
+{{Latvijas novada infokaste
+| nosaukums         = Jaunalūksnes pagasts
+| karte             = Jaunalūksnes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs            = Kolberģis
+| platība           = 184,66
+| iedzīvotāji       = 1190<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1190 / 184.66 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Goldbeck<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Гольдбекская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Jaunalūksnes pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā centrālajā daļā, [[Alūksnes ezers|Alūksnes ezera]] un [[Pededze]]s krastos. Robežojas ar sava novada [[Alūksne]]s pilsētu un [[Ziemeru pagasts|Ziemeru]], [[Mārkalnes pagasts|Mārkalnes]], [[Pededzes pagasts|Pededzes]], [[Liepnas pagasts|Liepnas]], [[Mālupes pagasts|Mālupes]], [[Malienas pagasts|Malienas]], [[Annas pagasts|Annas]] un [[Alsviķu pagasts|Alsviķu]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Akaviņa]], [[Alūksne (upe)|Alūksne]], [[Ievedne (upe)|Ievedne]], [[Jērupīte]], [[Jurenska]], [[Lielā Sarkanīte]], [[Pededze]], [[Sarkanīte]], [[Skolas upīte (Alūksnes pieteka)|Skolas upīte]], [[Šķiņķupīte]], [[Vidupīte]].
+
+==== Ezeri ====
+[[Alūksnes ezers]], [[Dūņenieks]], [[Siseņu ezers]].
+
+== Vēsture ==
+Pēc 1920. gada agrārās reformas [[Bejas muiža|Bejas muižu]] 2714 ha platībā sadalīja 138 vienībās. [[Kolberģa muiža|Kolberģa muižu]] 1166 ha platībā sadalīja 32 vienībās. Vīsikuma muižu 1129 ha platībā sadalīja 63 vienībās.<ref>Latviešu konversācijas vārdnīcas I sējuma 2036 sleja. Rīga: 1927.-1928.</ref>
+Pagasta iedzīvotāji piederēja Alūksnes evaņģēliski luteriskajai draudzei.
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]] '''Bejas pagasta''' (līdz 1925. gadam '''Kolberģa pagasts''') platība bija 139,2 km² un tajā dzīvoja 2344 iedzīvotāji.<ref>{{EncLP}}</ref> 
+
+1945. gadā pagastā izveidoja Bejas un [[Vētraines ciems|Vētraines]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Bejas ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946-1949) un [[Alūksnes rajons|Alūksnes]] (1949-1962; pēc 1967. gada) un [[Gulbenes rajons|Gulbenes]] (1962-1967) rajonos. Bejas ciemam 1954. gadā pievienoja likvidēto Vētraines ciemu, 1958. gadā [[padomju saimniecība]]s «Alūksne» teritoriju pievienoja [[Mārkalnes ciems|Mārkalnes ciemam]]. 1971. gadā Bejas ciemu pārdēvēja par '''Jaunalūksnes ciemu''' un tam pievienoja [[Alūksnes lauku teritorija]]s un Mārkalnes ciema padomju saimniecības «Alūksne» teritoriju. 1977. gadā daļu ciema teritorijas pievienoja [[Alūksne]]s pilsētai.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Jaunalūksnes pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+=== Pieminekļi ===
+* Nr. 175.: Garjuru senkapi (Kapu kalns) Garjuros
+* Nr. 2773.-2775.: [[Kolberģa muiža]]s apbūve (18./19. gs.) - šķūnis, klēts
+* Nr. 2777.: [[Lāzberģa muiža]]s kungu māja (1821., 1860.)				
+* Nr. 176.: Nametkalns (pilskalns) pie bijušās Lāsberģa muižas un Pļavmalām					
+* Nr. 177.: Raudziņkalns (senkapi) starp Jaunsproģiem, Zemgaļiem un Smilgām						
+* Nr. 178.: Siseņu (Garasīmu) pilskalns, starp Siseņiem un Garasīmiem					
+* Nr. 179.: Smiķu senkapi starp Smiķiem un Lenkavu
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSB datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ CSB]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3000
+|1959|2086
+|1967|1850
+|1979|1749
+|1989|1515
+|2000|1442
+|2011|1108
+|2021|920
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Kolberģis]]''' (pagasta centrs), [[Beja]], [[Garasimi]], [[Garjuri]], [[Lāčudārzs]], [[Ploskums]], [[Tereški]], [[Visikums]].
+
+=== Ievērojamas personības ===
+* [[Jūlijs Kupčs]] (1882—1962), latviešu luterāņu mācītājs un politiķis;
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20100822154638/http://www.aluksne.lv/pilseta_par_aluksni/jaunaluksne.htm Alūksnes novads. Jaunalūksnes pagasta pārvalde]
+
+{{Latvijas pagasts-aizmetnis}}
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+{{DEFAULTSORT:Jaunaluksnes pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Jaunalūksnes pagasts| ]]

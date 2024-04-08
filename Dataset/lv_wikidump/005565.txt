@@ -1,0 +1,90 @@
+{{Latvijas novada infokaste
+| nosaukums         = Vecsaules pagasts
+| karte             = Vecsaules pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Vecsaules pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Vecsaules pagasta ģerbonis 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Bauskas novads
+| centrs            = Vecsaule
+| platība           = 163,86
+| iedzīvotāji       = 2247<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 2247 / 163.86 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.vecsaule.lv
+}}
+
+'''Vecsaules pagasts''' ir viena no [[Bauskas novads|Bauskas novada]] administratīvajām teritorijām, [[Mēmele]]s kreisajā krastā. Robežojas ar sava novada [[Dāviņu pagasts|Dāviņu]], [[Codes pagasts|Codes]], [[Ceraukstes pagasts|Ceraukstes]], [[Brunavas pagasts|Brunavas]], [[Stelpes pagasts|Stelpes]], [[Bārbeles pagasts|Bārbeles]] un [[Skaistkalnes pagasts|Skaistkalnes]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+Caur pagastu tek [[Lambārte]]s, [[Iecava (upe)|Iecavas]] un [[Mēmele]]s upe.
+
+== Vēsture ==
+Pēc viena uzskata Vecsaules pagastā pie Saules strauta ietekas [[Mēmele|Mēmelē]] 1236. gadā notikusi [[Saules kauja]].<ref>[https://www.historia.lv/raksts/juskevics-j-kauja-pie-saules-22sept-1236gada-aizsargs-1926-5-140-143lpp Kauja pie Saules 22. septembrī 1236. gadā.] {{Webarchive|url=https://web.archive.org/web/20190921104252/https://www.historia.lv/raksts/juskevics-j-kauja-pie-saules-22sept-1236gada-aizsargs-1926-5-140-143lpp |date=2019-09-21 }} [[Jānis Juškēvičs]]. Aizsargs. 1926. 140.-143. lpp.</ref><ref>[https://web.archive.org/web/20150518013838/http://www.old.historia.lv/alfabets/S/sa/saules_kauja/raksti/dedumietis.htm Saules kauja 1236.gada septembrī. Lokalizācijas mēģinājums.] Dedumietis, D. Latvijas Vēsture. Jaunie un Jaunākie Laiki. 2001. 2(42), 16.-25.lpp.</ref><ref>{{LKV|XIX.|37 793}}</ref>
+
+Mūsdienu Vecsaules pagasta teritorijā vēsturiski atradās Kūlu muiža (''Gut Kuhlmannshof''), Mazmēmeles muiža (''Gut Klein-Memelhof''), Pētermuiža (''Gut Peterhof'', [[Pētermuiža (Vecsaules pagasts)|Pētermuiža]]), Vecmuiža (''Gut Althof'', [[Jaunsaule]]), Vecsaules muiža (''Gut Alt-Rahden'', [[Vecsaule]]). 
+1935. gadā [[Bauskas apriņķis|Bauskas apriņķa]] Vecsaules pagasta platība bija 113,6 km² un tajā dzīvoja 1888 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Mazsaules ciems|Mazsaules]] un Vecsaules [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. [[Bauskas rajons|Bauskas rajona]] '''Vecsaules ciemam''' 1954. gadā pievienoja likvidēto Mazsaules ciemu, 1961. gadā [[padomju saimniecība]]s «Dāviņi» teritoriju pievienoja [[Bruknas ciems|Bruknas ciemam]], 1963. gadā pievienoja daļu likvidētā Bruknas ciema, 1977. gadā pievienoja daļu [[Skaistkalnes ciems|Skaistkalnes ciema]] teritorijas, 1979. gadā — daļu [[Bārbeles ciems|Bārbeles ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Vecsaules pagastu kā administratīvo teritoriju iekļāva [[bauskas novads|Bauskas novadā]].
+
+=== Pieminekļi ===
+==== Valsts nozīmes ====
+* Vecsaules viduslaiku kapsēta (Baznīckalns)<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Vecsaules+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Kapa piemineklis K.A. Braunam
+* Siliņu, Grigaļu un Čapānu senkapi
+
+==== Vietējas nozīmes ====
+* [[Ozolaines baznīca|Ozolaines katoļu baznīca]]
+* Jaunsaules luterāņu baznīca
+* Stanišķēnu viduslaiku kapsēta
+* Kandratēnu mēra kalns - viduslaiku kapsēta
+* Likvertenes apmetne
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3500
+|1959|2850
+|1969|2300
+|1979|2304
+|1989|2390
+|2000|2406
+|2011|2007
+|2021|1798
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Vecsaule]]''' (pagasta centrs), [[Jaunsaule]], [[Kaģeni]], [[Kūdra (Vecsaules pagasts)|Kūdra]], [[Likverteni (Vecsaules pagasts)|Likverteni]], [[Līči (Vecsaules pagasts)|Līči]], [[Mazbrukna]], [[Melderi (Vecsaules pagasts)|Melderi]], [[Ozolaine (Vecsaules pagasts)|Ozolaine]], [[Pētermuiža (Vecsaules pagasts)|Pētermuiža]], [[Rīkani]], [[Strautiņi (Vecsaules pagasts)|Strautiņi]], [[Zvaigzne (Vecsaules pagasts)|Zvaigzne]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+1853. gadā uzsāka būvēt Vecsaules pamatskolu, un 1854. gadā tā tika iesvētīta. Skola nepārtraukuca savu darbību arī sarežģītos politiskos apstākļos. Piemēram, Pirmā pasaules kara laikā skolas bērnus mācīja vācu kareivji. Vecsaules pamatskolai ir divas ēkas – Lielā skola un Mazā skola.<ref>[https://vecsaulespsk.lv/index.php?option=com_content&view=article&id=46&Itemid=203 Vecsaules pamatskolas vēsture]</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Bauskas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Bauskas rajons}}
+{{Bauskas apriņķis}}
+}}
+[[Kategorija:Zemgale]]
+[[Kategorija:Bauskas novada pagasti]]
+[[Kategorija:Vecsaules pagasts| ]]

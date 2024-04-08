@@ -1,0 +1,10 @@
+{{mazais burts}}
+'''hCard''' ir [[mikroformāti|mikroformāts]], kas ļauj semantiski pierakstīt informāciju par cilvēkiem, uzņēmumiem un organizācijām, un iekļaut to [[HTML]] ([[XHTML]]), [[Atom]] un [[RSS (faila formāts)|RSS]], kā arī citos [[XML]] dokumentos. hCard ir 1:1 [[vCard]] standarta reprezentācija.
+
+== Skatīt arī ==
+* [[FOAF]]
+
+== Ārējās saites ==
+* [http://microformats.org/wiki/hcard hCard standarta apraksts] {{en ikona}}
+
+[[Kategorija:Mikroformāti]]

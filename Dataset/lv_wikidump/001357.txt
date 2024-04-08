@@ -1,0 +1,47 @@
+{{Apdzīvotas vietas infokaste
+| name = Pekari Slonski
+| image_skyline =PiekarySlaskie HerodPalace Kalwaria.jpg
+| imagesize = 300px
+| image_caption = Kapella Pekaru Slonsku kalvārijā
+| image_flag = POL Piekary Śląskie flag.svg
+| image_shield = POL Piekary Śląskie COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Silēzijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = pilsēta ar apriņķa tiesībām
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1939
+| area_total_km2 = 39.98
+| population_as_of = 2008
+| population_total    = 59061
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 50 
+| latm = 23 
+| lats = 00 
+| latNS = N 
+| longd = 18 
+| longm = 57 
+| longs = 00
+| longEW = E
+| elevation_m = 283
+| website = http://www.piekary.pl/ }}
+
+'''Pekari Slonski''' ({{val-pl|Piekary Śląskie}}) ir pilsēta [[Polija]]s dienvidos, [[Silēzijas vojevodiste|Silēzijas vojevodistē]]. Atrodas [[Augšsilēzijas aglomerācija]]s ziemeļu daļā. Senatnē [[cinks|cinka]] un [[alva]]s ieguve, tagad [[Akmeņogles|akmeņogļu]] ieguve. Augšsilēzijas reliģiskais centrs ar baziliku un Pekaru Dievmātas (''Matki Boskiej Piekarskiej'') svētbildi.
+
+== Ārējās saites ==
+* [http://www.piekary.zobacz.slask.pl/ Pekari Slonski (poliski)] {{Webarchive|url=https://web.archive.org/web/20190320045145/http://piekary.zobacz.slask.pl/ |date={{dat|2019|03|20||bez}} }}
+
+{{Polija-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Polijas pilsētas]]
+[[Kategorija:Silēzijas vojevodistes apriņķi]]
+[[Kategorija:Silēzijas vojevodistes pilsētas]]

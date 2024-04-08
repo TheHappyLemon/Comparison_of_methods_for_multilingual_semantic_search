@@ -1,0 +1,158 @@
+{{citas nozīmes|ķīmiskajām skābēm|Skābe (nozīmju atdalīšana)|skābe}}
+'''Skābes''' ir [[elektrolīts|elektrolīti]], kas [[šķīdums|šķīdumā]] spēj atšķelt [[protons|protonus]], veidojot [[ūdeņradis|ūdeņraža]] [[jons|jonus]], vai arī spēj piesaistīt nedalītos elektronu pārus ([[Lūisa skābe]]s). Skābju vispārīgā formula ir '''HA''' vai '''H<sub>n</sub>A''' (daudzvērtīgām skābēm), kur n ir skābes vērtība.
+
+== Iedalījums ==
+
+Skābes var iedalīt:
+* Skābekli nesaturošas skābes ([[sālsskābe]], [[ciānūdeņražskābe]])
+* Skābekli saturošas skābes 
+** Neorganiskās skābes ([[fosforskābe]], [[slāpekļpaskābe]])
+*** [[Oksidējošā skābe|Oksidējošās skābes]] ([[sērskābe]], [[slāpekļskābe]])
+** [[Karbonskābes|Organiskās skābes]] (visas organiskās skābes satur skābekli)
+* Vienvērtīgās skābes (var atšķelt vienu protonu) ([[sālsskābe]], [[etiķskābe]])
+* Vairākvērtīgās skābes (var atšķelt vairāk nekā vienu protonu) ([[fosforskābe]], [[ftalskābe]]).
+Tāpat skābes var iedalīt molekulārajās (piemēram, HCl) un katjonskābēs (piemēram, [Al(H<sub>2</sub>O)<sub>n</sub>]<sup>3+</sup>).
+
+Savienojumus, kas atkarībā no apstākļiem var būt gan skābe, gan [[Bāze (ķīmija)|bāze]], sauc par amfolītiem jeb amfiprotiskiem savienojumiem. Tie var būt
+
+* daudzprotonu skābju protonus saturošie anjoni: HSO<sub>4</sub><sup>-</sup>, H<sub>2</sub>PO<sub>4</sub><sup>-</sup>, HPO<sub>4</sub><sup>2-</sup>, HS<sup>-</sup>, HCO<sup>3-</sup> un citi;
+* molekulārie amfolīti: H<sub>2</sub>O, Al(OH)<sub>3</sub> ⋅ 3H<sub>2</sub>O u.c.<ref name=":0">{{Grāmatas atsauce|title=Vispārīgā ķīmija|last=Kokars|first=Valdis|publisher=Rīgas Tehniskā universitāte|year=2009|isbn=978-9984-32-700-6|pages=171}}</ref>
+
+== Ķīmiskās īpašības ==
+
+[[Attēls:Hydrochloric acid ammonia.jpg|200px|thumb|[[Hlorūdeņražskābe]]s ([[vārglāze|vārglāzē]]) neitralizācijas reakcija ar [[amonjaks|amonjaka]] tvaikiem, rodoties [[amonija hlorīds|amonija hlorīdam]] (baltie garaiņi).]]
+Skābes var reaģēt ar [[metāls|metāliem]], metālu [[oksīds|oksīdiem]], [[hidroksīds|hidroksīdiem]] un vājāku skābju [[sāļi]]em, veidojot sāļus. No skābekli saturošām skābēm atšķeļot [[ūdens|ūdeni]], var iegūt [[skābju anhidrīdi|skābju anhidrīdus]].
+
+Ūdens šķīdumā skābes disociē jonos, veidojot skābes anjonu (A<sup>-</sup>) un ūdeņraža jonu (H<sup>+</sup>) (vai vairākus ūdeņraža jonus vairākvērtīgām skābēm). Tas ir līdzsvara process.
+:<math>\mbox{HA} +\mbox{H}_2\mbox{O} \leftrightarrow \mbox{H}_3\mbox{O}^+ + \mbox{A}^-</math>
+Šo līdzsvara procesu raksturo skābuma konstante K<sub>a</sub>.
+:<math>K_a = {[\mbox{H}_3\mbox{O}^+]\cdot[A^-] \over [HA]}</math>
+Stiprām skābēm K<sub>a</sub> vērtības ir lielākas (šķīdumā skābe gandrīz pilnībā sastāv no skābes anjoniem un ūdeņraža joniem), bet vājām skābēm K<sub>a</sub> vērtības ir mazākas un bieži vien nedisociējušo molekulu ir vairāk.
+Stipras skābes ir: [[halogēnūdeņražskābes]] (lai arī [[fluorūdeņražskābe]] ir relatīvi vāja skābe), skābekli saturošās neorganiskās skābes, kur centrālais atoms ir ar lielu [[oksidēšanas pakāpe|oksidēšanas pakāpi]] ([[perhlorskābe]], [[sērskābe]], [[slāpekļskābe]]). Lielākā daļa organisko skābju ir vājas skābes.
+:* Ūdeņraža jons (protons, H<sup>+</sup>). Tas ir ūdeņraža atoms, kuram ir atņemts tā vienīgais elektrons. Atšķirībā no visiem pārējiem joniem, tam nav elektronu apvalka, tāpēc tas ir ļoti mazs un ūdens šķīdumā piesaista vismaz vienu ūdens molekulu, tādēļ korektāk to būtu rakstīt kā H<sub>3</sub>O<sup>+</sup> nevis vienkārši H<sup>+</sup>. Ķīmiskajos vienādojumos bieži lieto vienkārši H<sup>+</sup>, jo tā ir īsāk.
+:* Skābju stiprumu mēra pēc tās K<sub>a</sub> vērtības (bieži lieto arī pK<sub>a</sub>=−[[logaritms|log]](K<sub>a</sub>)). [[pH]] mēra ūdeņraža jonu koncentrāciju, kas ir atkarīga no skābes stipruma '''un''' koncentrācijas.
+
+== Dažas organiskās un neorganiskās skābes ==
+{|class="wikitable sortable" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;"
+|-bgcolor="#efefef"
+!width="150"|Skābes  nosaukums
+!width="100"|Ķīmiskā formula
+!width="20"|[[skābes disociācijas konstante|p''K<sub>a</sub>'']]
+!width="100"|Skābei atbilstošie [[sāļi]]
+!width="150"|Skābei atbilstošais [[joni|jons]] ūdens šķīdumā
+|-
+|[[Sālsskābe]] (hlorūdeņražskābe)||HCl||−6,3||[[Hlorīdi]]||Hlorīdjons
+|-
+|[[Fluorūdeņražskābe]]||HF||3,17||[[Fluorīdi]]||Fluorīdjons
+|-
+|[[Bromūdeņražskābe]]||HBr||−8,7||[[Bromīdi]]||Bromīdjons
+|-
+|[[Jodūdeņražskābe]]||HI||−9,3||[[Jodīdi]]||Jodīdjons
+|-
+|[[Sērskābe]]||H<sub>2</sub>SO<sub>4</sub>||−3||[[Sulfāti]] un hidrogēnsulfāti||Sulfātjons, hidrogēnsulfātjons
+|-
+|[[Sērpaskābe]]||H<sub>2</sub>SO<sub>3</sub>||1,857||[[Sulfīti]] un hidrogēnsulfīti||Sulfītjons, hidrogēnsulfītjons
+|-
+|[[Sērūdeņražskābe]]||H<sub>2</sub>S||7,0||[[Sulfīdi]]||Sulfīdjons
+|-
+|[[Tiosērskābe]]||H<sub>2</sub>S<sub>2</sub>O<sub>3</sub>||0,6||[[Tiosulfāti]]||Tiosulfātjons
+|-
+|[[Slāpekļskābe]]||HNO<sub>3</sub>||−1,4||[[Nitrāti]]||Nitrātjons
+|-
+|[[Slāpekļpaskābe]]||HNO<sub>2</sub>||3,398||[[Nitrīti]]||Nitrītjons
+|-
+|[[Slāpekļūdeņražskābe]]||HN<sub>3</sub>||4,6||[[Azīdi]]||Azīdjons
+|-
+|[[Ortofosforskābe]]||H<sub>3</sub>PO<sub>4</sub>||2,148||[[Ortofosfāti]] vai fosfāti; hidrogēnfosfāti, dihidrogēnfosfāti||Ortofosfātjons vai vienkārši fosfātjons
+|-
+|[[Ogļskābe]]||H<sub>2</sub>CO<sub>3</sub>||6,367||[[Karbonāti]] un hidrogēnkarbonāti||Karbonātjons, hidrogēnkarbonātjons
+|-
+|[[Silīcijskābe]] (kramskābe)||H<sub>4</sub>SiO<sub>4</sub> u.c.||9,84||[[Silikāti]] (ortosilikāti u.c.)||Silikātjons
+|-
+|[[Borskābe]]||H<sub>3</sub>BO<sub>3</sub>||9,24||[[Borāti]] (ortoborāti u.c.)||Borātjons
+|-
+|[[Hlorapskābe]]||HClO||7,53||[[Hipohlorīti]]||Hipohlorītjons
+|-
+|[[Hlorpaskābe]]||HClO<sub>2</sub>||1,96||[[Hlorīti (sāļi)|Hlorīti]]||Hlorītjons
+|-
+|[[Hlorskābe]]||HClO<sub>3</sub>||−4||[[Hlorāti]]||Hlorātjons
+|-
+|[[Perhlorskābe]]||HClO<sub>4</sub>||−8||[[Perhlorāti]]||Perhlorātjons
+|-
+|[[Ciānūdeņražskābe]] (zilskābe)||HCN||9,21||[[Cianīdi]]||Cianīdjons
+|-
+|[[Hromskābe]]||H<sub>2</sub>CrO<sub>4</sub>||1||[[Hromāti]], dihromāti u.c.||Hromātjons, dihromātjons
+|-
+|[[Sprāgstošā skābe]]||H−C{{unicode|≡}}N→O||—||[[Fulmināti]]||—
+|-
+|[[Ciānskābe]]||HOCN||3,47||[[Cianāti]]||Cianātjons + izocianātjons
+|-
+|[[Rodānūdeņražskābe]] (tiociānskābe)||HSCN||0,926||[[Rodanīdi]] (tiocianāti)||Rodanīdjons (tiocianātjons)
+|-
+|[[Skudrskābe]]||HCOOH||3,77||[[Formiāti]]||Formiātjons
+|-
+|[[Etiķskābe]]||CH<sub>3</sub>COOH||4,76||[[Acetāti]]||Acetātjons
+|-
+|[[Propionskābe]]||CH<sub>3</sub>CH<sub>2</sub>COOH||4,87||[[Propionāti]]||Propionātjons
+|-
+|[[Sviestskābe]]||С<sub>3</sub>Н<sub>7</sub>СООН||4,82||[[Butirāti]]||Butirātjons
+|-
+|[[Baldriānskābe]]||С<sub>4</sub>Н<sub>9</sub>СООН||4,82||[[Valerāti]]||Valerātjons
+|-
+|[[Oleīnskābe]]||C<sub>17</sub>H<sub>33</sub>СООН||—||[[Oleāti]]||—
+|-
+|[[Palmitīnskābe]]||С<sub>15</sub>Н<sub>31</sub>СООН||4,78||[[Palmitāti]]||—
+|-
+|[[Stearīnskābe]]||С<sub>17</sub>Н<sub>35</sub>СООН||—||[[Stearāti]]||—
+|-
+|[[Benzoskābe]]||C<sub>6</sub>H<sub>5</sub>COOH||4,202||[[Benzoāti]]||Benzoātjons
+|-
+|[[Dzintarskābe]]||HOOC–CH<sub>2</sub>–CH<sub>2</sub>–COOH||4,2||[[Sukcināti]]||Sukcinātjons
+|-
+|[[Kanēļskābe]]||C<sub>6</sub>H<sub>5</sub>−CH=CH−COOH||4,44||[[Cinnamāti]]||Cinnamātjons
+|-
+|[[Korķskābe]]||HOOC–(CH<sub>2</sub>)<sub>6</sub>–COOH||4,526||[[Suberāti]]||Suberātjons
+|-
+|[[Skābeņskābe]]||HOOC–COOH||1,25||[[Oksalāti]]||Oksalātjons
+|-
+|[[Kvadrātskābe]]||C<sub>4</sub>H<sub>2</sub>O<sub>4</sub>||2,2||[[Skvarāti]]||Skvarātjons
+|-
+|[[Citronskābe]]||C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>||3,14||[[Citrāti]]||Citrātjons
+|-
+|[[Pienskābe]]||CH<sub>3</sub>CHOHCOOH||3,86||[[Laktāti]]||Laktātjons
+|-
+|[[Vīnskābe]]||НООС–СНОН–СНОН–СООН||2,95||[[Tartrāti]]||Tartrātjons
+|-
+|[[Ābolskābe]]||НООС–СН(ОН)–СН<sub>2</sub>–СООН||3,4||[[Malāti]]||Malātjons
+|-
+|[[Pirovīnogskābe]]||CH<sub>3</sub>CO−СООН||2,5||[[Piruvāti]]||Piruvātjons
+|}
+Vairākvērtīgajām skābēm dota pirmā disociācijas konstante.
+
+== Neorganisko skābju un to sāļu nosaukumi ==
+* Skābekli nesaturošās skābes sauc par ''-ūdeņražskābēm'', piemēram, sērūdeņražskābe (H<sub>2</sub>S), [[hlorūdeņražskābe]] (HCl). Šo skābju sāļu nosaukumiem ir izskaņa ''-īds'' ([[hlorīdi]], [[rodanīdi]]), tie parasti pieder pie [[binārie savienojumi|binārajiem savienojumiem]].
+* Ja attiecīgajam elementam ir iespējama tikai viena skābekli saturošā skābe, tad to sauc vienkārši par ''skābi''. Tā sauc arī skābi, kurā elements ir galvenajā oksidēšanas pakāpē (šie nosaukumi mēdz būt izveidojušies vēsturiski). Tādu skābju sāļu nosaukumiem ir izskaņa ''-āts'' ([[sulfāti]], [[cianāti]]). 
+** Ja elementam ir iespējamas vairākas vērtības, tad skābi, kur elements ir ar mazāku oksidēšanas pakāpi, sauc par ''paskābi'' ([[sērpaskābe]]), bet to sāļiem ir izskaņa ''-īts'' ([[nitrīti]], [[sulfīti]]).
+** Gadījumos, kad elementam ir vairāk nekā divas oksidēšanas pakāpes, skābi ar vismazāko oksidēšanas pakāpi dēvē par ''apskābi'' ([[hlorapskābe]]) un tās sāļu nosaukumiem ir priedēklis ''hipo-'' un izskaņa ''-īts'' ([[hipohlorīti]], [[hipofosfīti]]).
+** Skābi ar vislielāko oksidēšanas pakāpi sauc par ''per...skābi'' ([[permangānskābe]], [[perhlorskābe]]). Agrāk šādas skābes sauca par "pārskābēm". To sāļu nosaukumiem liek priedēkli ''per-'' un izskaņu ''-āts'' ([[permanganāti]], [[perhlorāti]]).
+* Sarežģītākos gadījumos skābju un to sāļu nosaukumiem var būt arī citi priedēkļi. Piemēram, ''peroksi-'' skābēm , kas satur peroksigrupējumu −O−O− ([[peroksisērskābe]]), ''piro-'' skābēm, kas veidojas, sildot citu skābi ([[pirofosforskābe]]); ''orto-'' skābēm, kuru molekulas pie tās pašas centrālā elementa oksidēšanas pakāpes var atšķelt vairāk protonu ([[ortofosforskābe]]); ''meta-'' tām, kas atšķeļ mazāk protonu ([[metafosforskābe]]); ''di-'' skābēm ar skābekļa tiltiņu molekulā ([[disērskābe]]), ''poli-'' skābēm ar vairākiem skābekļa tiltiņiem utt.
+
+== Skatīt arī ==
+[[Lūisa skābes un bāzes]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20150919100322/http://www2.onu.edu/~b-myers/organic/2511_Files/pKa%20table.pdf Skābju stipruma tabula] {{angliski}}
+
+
+{{ķīmija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskas vielas]]
+[[Kategorija:Ķīmija]]
+[[Kategorija:Sadzīves ķīmija]]

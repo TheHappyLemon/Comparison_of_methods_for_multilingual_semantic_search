@@ -1,0 +1,43 @@
+[[Attēls:Ecologia.jpg|thumbnail|200px|Ekoloģija ir zinātne par organismu un vides mijiedarbību]]
+'''Ekoloģija''' ({{val-el|οἶκος}} — ‘māja’; {{gree|λογία}} — ‘jēdziens’) ir [[zinātne]], [[bioloģija]]s apakšnozare, par [[organisms|organismu]] un [[dabiskā vide|vides]] mijiedarbību, kā arī par attiecībām starp pašiem organismiem. Terminu "ekoloģija" pirmo reizi 1866. gadā izmantoja vācu zoologs [[Ernsts Hekels]]. Speciālistus, kas strādā šajā sfērā, sauc par ekologiem. Daži ekologi ir specializējušies konkrētu [[suga|sugu]] vai pat indivīdu izpētē.
+
+Viena no nozīmīgākajām ekoloģijas problēmām ir [[dabas resursi|dabas resursu]]<ref name="HSW"/> un [[izmirstošas sugas|izmirstošo sugu]] saglabāšana, kā arī izstrādāt vismaz teorētisko bāzi pasākumiem, kas būtu jāveic, lai būtu līdzsvars starp cilvēku pieaugošajām prasībām un dabas iespējām tās apmierināt.<ref name="LPE"/> Ekoloģija ir cieši saistīta ar tādām zinātnēm, kā [[fizioloģija|fizioloģiju]], [[ģenētika|ģenētiku]], [[sistemātika|sistemātiku]], [[evolūcijas teorija|evolūcijas teoriju]], [[ģeogrāfija|ģeogrāfiju]], [[meteoroloģija|meteoroloģiju]], [[matemātika|matemātiku]], [[fizika|fiziku]], [[ķīmija|ķīmiju]] un citām zinātnēm.
+
+== Ekoloģijas nozares ==
+Izšķir divas nozīmīgas ekoloģijas nozares: [[autekoloģija|autekoloģiju]] (pēta konkrētas sugas mijiedarbību ar citām sugām un apkārtējo vidi) un [[sinekoloģija|sinekoloģiju]] (pēta atsevišķas ekosistēmas).<ref name="Answers"/> Nereti atsevišķi tiek izdalīta [[populāciju ekoloģija]] jeb demekoloģija. Īpaši tiek izdalīta arī [[cilvēka ekoloģija]].
+
+Iespējams labākais veids, kā norobežot moderno ekoloģiju, ir aplūkot organizācijas līmeņa jēdzienu, kuru var attēlot ekoloģiskajā spektrā.<ref name="Odum"/> Visaugstākā šajā spektrā ir [[ekosfēra]], kam seko [[bioms]], [[ainava]], [[ekosistēma]], [[kopiena]], [[populācija]], [[organisms]], [[orgānu sistēma]], [[orgāns]], [[audi]] un visbeidzot [[šūna]].<ref name="Odum"/>
+
+== Ekoloģijas vēsture ==
+Vispārīgi runājot, ekoloģija ir salīdzinoši jauna zinātnes nozare. Par atsevišķu zinātni tā kļuva 1960. gados, kad sākās plašas cilvēku aktivitātes, rūpējoties par [[dabiskā vide|dabisko vidi]]. Tomēr ekoloģijas idejas zināmā mērā ir bijušas zināmas jau sen, un mūsdienās ekoloģijā izstrādātie principi ir bijuši cieši saistīti ar citām [[bioloģija]]s nozarēm. Var uzskatīt, ka viens no pirmajiem ekologiem bija sengrieķu filozofs [[Aristotelis]] vai arī viņa skolnieks [[Teofrasts]], kuri izrādīja lielu interesi par dzīvās dabas daudzveidību. Teofrasts savos darbos ir aprakstījis dzīvnieku un augu pasaules mijiedarbību. Arī seno indiešu eposos [[Mahābhārata]] un [[Rāmājana]] ir aprakstītas dažādu dzīvnieku sugu, biotopu, barošanās, vairošanās un uzvedības izmaiņas, mainoties apkārtējais videi.
+
+Terminu "ekoloģija" pirmo reizi 1866. gadā izmantoja vācu zoologs [[Ernsts Hekels]] savā darbā "Organismu vispārējā morfoloģija" (''Generelle Morphologie der Organismen'').
+
+== Ekosistēmas ==
+{{pamatraksts|ekosistēma}}
+Tā kā visu pasaules dzīvību vienlaicīgi ir grūti pētīt, tad ekologi pārsvarā ir specializējušies noteiktu ekosistēmu izpētē. Ekosistēmu veido [[biocenoze]], dzīvo organismu kopums dotajā ekosistēmā, un [[biotops]], tās fiziskā vide. Sauszemes ekosistēmas ietver [[mežs|mežus]], [[savanna]]s, [[pļava]]s, [[krūmājs|krūmājus]], [[tundra]]s, [[tuksnesis|tuksnešus]] un tā tālāk. Jūras un saldūdens ekosistēmas veido [[okeāns|okeāni]], [[ezers|ezeri]], [[upe]]s, [[purvs|purvi]] un tā tālāk. Visas pasaules ekosistēmas veido [[biosfēra|biosfēru]].
+
+Ekosistēmas tiek izdalītas arī pēc citiem faktoriem, piemēram, pēc [[klimats|klimata]], [[augsne]]s, [[minerāls|minerāliem]], [[saules gaisma]]s daudzuma, [[ūdens]] pieejamības.
+
+== Skatīt arī ==
+* [[Ekoloģiskā niša]]
+* [[Agroekoloģija]]
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="HSW">{{tīmekļa atsauce | url= http://science.howstuffworks.com/environmental/conservation/issues/ecology-info.htm | title= Ecology | publisher= HowStuffWorks | accessdate= 2011-07-19 | language= angliski}}</ref>
+<ref name="Answers">{{tīmekļa atsauce | url= http://wiki.answers.com/Q/What_are_the_sub-branches_of_ecology | title= What are the sub-branches of ecology? | publisher= wiki.answers.com | accessdate= 2011-07-30 | language= angliski | archive-date= 2012-08-15 | archive-url= https://web.archive.org/web/20120815024256/http://wiki.answers.com/Q/What_are_the_sub-branches_of_ecology }}</ref>
+<ref name="Odum">{{grāmatas atsauce | title= Fundamentals of Ecology | author= Eugene P. Odum | url= http://www.hawaii.edu/publichealth/ecohealth/si/course-ecohealth/readings/Odum_Barrett-Ch1-Sections1-4.pdf | publisher= University of Georgia of Ecology | language= angliski | accessdate= {{dat|2011|09|02||bez}} | archiveurl= https://web.archive.org/web/20110815041601/http://www.hawaii.edu/publichealth/ecohealth/si/course-ecohealth/readings/Odum_Barrett-Ch1-Sections1-4.pdf | archivedate= {{dat|2011|08|15||bez}} }}</ref>
+<ref name="LPE">{{LPE|3|65}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= http://www.ecology.com/ | title= Ecology | publisher= ecology.com | language= angliski | access-date= {{dat|2011|07|30||bez}} | archiveurl= https://web.archive.org/web/20170430040118/http://www.ecology.com/ | archivedate= {{dat|2017|04|30||bez}} }}
+
+{{bioloģija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ekoloģija| ]]

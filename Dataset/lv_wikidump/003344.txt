@@ -1,0 +1,76 @@
+{{Rakstnieka infokaste
+|        platums = 
+|          vārds = Ivo Andričs
+|     vārds_orig = ''Иво Андрић''
+|         attēls =S. Kragujevic, Ivo Andric, 1961.jpg
+|     att_izmērs = 250px
+|  att_nosaukums = 
+|     dz_dat_alt = 
+|        dz_gads = 1892
+|     dz_mēnesis = 10
+|       dz_diena = 09
+|       dz_vieta = [[Travnika]], [[Austroungārija]]<br />(tagad {{BIH}})
+|      m_dat_alt =
+|         m_gads = 1975
+|      m_mēnesis = 03
+|        m_diena = 13
+|        m_vieta = [[Belgrada]],  [[Dienvidslāvija]]<br />(tagad {{SRB}})
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|        dzimums = 
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = 
+|     pseidonīms =
+|   nodarbošanās = diplomāts, rakstnieks
+|rakstīšanas valoda = [[horvātu valoda]], [[serbu valoda]]
+|        periods =
+|          žanri =
+|         temati =
+|   lit virzieni = 
+|slavenākie darbi = "[[Tilts pār Drinu]]" (''На Дрини Ћуприја'', 1945)
+|    ietekmējies = 
+|     ietekmējis = 
+|     alma_mater = [[Zagrebas Universitāte]], [[Vīnes Universitāte]], [[Krakovas Universitāte]], [[Grācas Universitāte]]
+|    apbalvojumi = 1961. gada [[Nobela prēmija literatūrā]]
+|       piezīmes = 
+|    kategorijas =    
+}}
+
+'''Ivo Andričs''' ({{val|sr|Иво Андрић}}, dzimis {{dat|1892|10|09}}, miris {{dat|1975|03|13}}) bija [[Bosnija]]s [[horvāti|horvātu]] ģimenē dzimis [[Dienvidslāvija|dienvidslāvu]] rakstnieks. 1961. gada [[Nobela prēmija literatūrā|Nobela prēmijas literatūrā]] ieguvējs. Rakstīja [[serbu valoda|serbu valodā]], lai gan daļa agrīno darbu rakstīti arī [[horvātu valoda|horvātiski]]. Viņa pazīstamākais darbs ir romāns "Tilts pār Drinu" (izdots arī latviski).
+
+Ivo Andričs bijis arī Dienvidslāvijas diplomāts pirms [[Otrais pasaules karš|Otrā pasaules kara]] (1939. gadā kļuva par Dienvidslavijas sūtni [[Vācija|Vācijā]]). Lielu daļu no saviem pazīstamākajiem darbiem sarakstījis [[Belgrada|Belgradā]], kara laikā. Pēc Otrā pasaules kara ieņēma dažādus, galvenokārt ceremoniālus, amatus komunistiskās Dienvidslāvijas valdībā (kopš 1954. gada - Dienvidslāvijas Komunistiskās partijas biedrs).
+
+== Latviski izdotie Andriča darbi ==
+
+* "Tilts pār Drinu. Višehradas hronika" (1958)
+* "Jaunkundze : Nolādētais pagalms" (1981)
+* "Grāmata un citi stāsti : tulkotāja Vinifreda Krauča atcerei" (2009)
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.nobelprize.org/nobel_prizes/literature/laureates/1961/ Andričs Nobela prēmijas mājaslapā] {{en ikona}}
+
+{{kastes sākums}}
+{{s-balvas}}
+{{Amatu secība | pirms = [[Senžons Pērss]] | virsraksts = [[Nobela prēmija literatūrā]] | periods = [[1961]] | pēc = [[Džons Steinbeks]]}}
+{{kastes beigas}}
+
+{{rakstnieks-aizmetnis}}
+{{Nobela prēmijas laureāti literatūrā}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Andriczs, Ivo}}
+[[Kategorija:1892. gadā dzimušie]]
+[[Kategorija:1975. gadā mirušie]]
+[[Kategorija:Nobela prēmijas laureāti literatūrā]]
+[[Kategorija:Serbu rakstnieki]]
+[[Kategorija:Serbu valodā rakstošie]]
+[[Kategorija:Horvātu valodā rakstošie]]
+[[Kategorija:Dienvidslāvijas diplomāti]]

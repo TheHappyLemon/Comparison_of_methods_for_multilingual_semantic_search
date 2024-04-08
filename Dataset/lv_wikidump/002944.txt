@@ -1,0 +1,41 @@
+{{jāuzlabo}}
+'''Ritms''' ir cits citam kādam sekojoša elementa (piemēram, [[skaņa|skaņu]], [[zilbe|zilbju]], kustību) periodiska vai vienmērīga atkārtošanās noteiktā secībā un kas viegli uztverama mūzikā un literatūrā, kur ritmu veido [[pantmērs]].<ref>Daina Štokmane, Iveta Vīduša. Literatūra 7. klasei. 1. daļa. [[Zvaigzne ABC]], 2014. 112. lpp.</ref> Ritms mūzikā ir sastopams [[Notis|notīs]], bet literatūrā ir sastopams [[Tautasdziesmas|tautasdziesmās]] un [[Dzeja|dzejā]]. Vēl ritms ir sastopams [[Dziesma|dziesmā]]s, [[deja|dejā]]s un [[strādāšana|darbā]]. Ritmam ir vienmērīgums jeb skaņu ilgumu attiecības.
+
+== Ritms mūzikā ==
+Ritms ir dažāda ilguma nošu secība.
+
+[[Attēls:notis.png]]
+
+Ritms var būt:
+* vienmērīgs,
+* nevienmērīgs,
+* punktēts.
+
+Vienmērīgam ritmam raksturīgi vienādi [[nots|nošu]] ilgumi, piemēram [[Attēls:vienmērīgs_ritms.png]].
+
+Vienmērīgi ritmi rada mierīgus, gaišus, nosvērtus [[tēls|tēlus]]. Tomēr, ja skaņdarbs ilgstoši skan tādā ritmā, tas sāk garlaikot. Vienmērīgs ritms saprotams [[tautasdziesmas|tautasdziesmās]], piemēram t. dz. "Velc, pelīte, saldu miegu".
+
+Nevienmērīgam ritmam raksturīga dažādu nošu ilgumu maiņa, piemēram [[Attēls:nošu_ilgumum.png]].
+
+Īpaša nozīme ritmam ir deju [[mūzika|mūzikā]]. Katrai [[deja]]i ir savs īpatnējs ritms, kas atklājas [[pavadījums|pavadījumā]] vai [[melodija|melodijā]].
+
+* [[Polka]] - 2/4 taktsmērā;
+* [[Valsis]] - 3/4 taktsmērā;
+* [[Mazurka]] - 3/4 taktsmērā;
+* [[Polonēze]] - 3/4 taktsmērā.
+
+Interesantus mūzikas tēlus rada punktētie ritmi. Tie bieži sastopami [[maršs|maršos]] un dejās. Izraisa klausītājos spraigu, enerģisku, aktīvu noskaņojumu.
+
+Dažkārt skaņu ilgumi sadalās nevis 2, bet 3 vienādās [[daļa|daļās]]. Tad rodas [[triole]] [[Attēls:triole.png]].
+
+Ja smagā taktsdaļa pārvietojas uz vieglo, tad rodas [[sinkope]] [[Attēls:sinkope.png]] .
+
+== Atsauces ==
+{{atsauces}}
+
+
+{{Mūzika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mūzikas teorija]]

@@ -1,0 +1,44 @@
+[[Attēls:Loch Ness Rocks.jpg|left|200px|thumb|Lohnesa piekraste]]
+{{ezera infokaste
+|ezers=Lohness
+|attēls=LochNessUrquhart.jpg
+|paraksts=Lohness ar Urkuhārtas pils drupām priekšplānā
+|map = Apvienotā Karaliste#Skotija
+| plat_d=57 | plat_m=18 | plat_s= | plat_NS=N
+| gar_d=4 | gar_m=27 | gar_s= | gar_EW=W
+|vieta={{GBR}}<br />{{spaces|2}}{{SCO}}
+|platība=56
+|garums=37
+|Vid_dziļums=132
+|Max_dziļums=230
+|tilpums=7,45
+|augstums_vjl=15,8
+|izteka=[[Nesa]], [[Kaledonijas kanāls]]
+|baseins=1775
+|valstis=
+|salas=Čeriailenda
+|pilsētas=
+}}
+<mapframe text="Lohness" width=290 height=290 zoom=9 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q49650"
+}
+</mapframe>
+
+'''Lohness''' (arī '''Nesas ezers'''; {{val|en|Loch Ness}}, {{val-gd|Loch Nis}}) ir [[ezers]] [[Apvienotā Karaliste|Apvienotajā Karalistē]], [[Skotija|Skotijā]]. Atrodas dienvidrietumos no [[Invernesa]]s. Pēc platības otrs lielākais ezers Lielbritānijā aiz [[Lomonda ezers|Lomonda ezera]], taču lielākais pēc tilpuma.
+
+Atrodas ģeoloģiskā lūzuma ([[Lielais Glens]]) zonā. Ezera ūdens ir duļķains, jo tā gultne satur daudz kūdras. Otrs dziļākais ezers Skotijā, ezerā ir vairāk ūdens, nekā visos [[Anglija]]s un [[Velsa]]s ezeros kopā. Ezerā viena sala — [[Čeriailenda]]. Tā ir mākslīga sala, kas radīta aizvēsturiskos laikos kā [[kranogs]] (nocietinājums). 92,6% ezera baseina ir dabiska, maz pārveidota teritorija.
+
+Starptautiski pazīstams ar ezerā it kā bieži redzēto, leģendāro Lohnesa briesmoni ([[Nesija]]). Ļoti populārs tūrisma objekts, ainavisks. Ezerā kursē kuģi, attīstīta tūrisma industrija, kas fokusējas uz Nesiju. Drumnadročītas ciematā Lohnesa briesmoņa izstāžu centrs.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.lochnessproject.org/ Lohnesas projekts (angliski)]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Skotijas ezeri]]
+[[Kategorija:Ezeri ar teiksmām par noslēpumainiem dzīvniekiem]]

@@ -1,0 +1,98 @@
+[[File:US Navy 070326-N-4716P-040 Mexican navy gunners prepare to fire their weapon as amphibious assault ship USS Tarawa (LHA 1) pulls ahead to a safe position prior to a joint gunnery exercise.jpg|thumb|300px|HK 21 apmācības [[Meksika]]s flotē]]
+'''HK 21''' ir [[Vācija]]s kompānijas ''[[Heckler & Koch]] (HK)'' izstrādātais galveno uzdevumu [[ložmetējs]]. Tā ir no patronlentes barojama [[HK 11]] versija, kas bāzēta uz [[G3 (Heckler & Koch)|G3]]. Tā pēcteči ir [[HK 21A1]] un [[HK 21e]]. Šis ierocis izceļas ar to, ka tas savulaik lietots daudzās specvienībās, jo ierocis ir diezgan precīzs. ''Heckler und Koch'' HK 21 vairs neražo.
+
+== Parametri ==
+
+* Tips: Vieglais [[ložmetējs]]
+* Ražotājvalsts: [[Vācija]]
+* Gads: [[1961]]
+* Kalibrs: 7,62 mm
+* Masa ([[NATO]] munīcijas ierocis): 7,92 kg
+* Masa (7.62 mm x 39 mm padomju munīcijas ierocis): 7,04 kg
+* Munīcija (NATO): [[7,62 x 51 mm]] NATO
+* Padeve (NATO): 20, 30 ložu [[magazīna]]s, 50 ložu diskveida magazīna, 100, 200 ložu patronlente
+* Padeve (7,62 mm x 39 mm padomju): 30, 40 ložu magazīnas, 75 ložu diskveida magazīna, 100 ložu patronlente
+* Uguns temps: 850 šāviņi/min
+* Efektīvais attālums: 800 m
+
+
+{| class="wikitable"
+!width="200"|Ierocis
+!width="90"|Uguns temps
+!width="80"|Nodarījums
+!width="50"|''PEN''
+!width="50"|Izmērs
+!width="50"|''SS''
+!width="120"|Šaušanas režīms
+|-
+|HK 21 (7,62 x 51 mm [[NATO]])
+|10
+|4
+|''2-3-Nil''
+|6
+|3
+|13
+|-
+|HK 21 (7,62 x 51 mm NATO, uz [[divkājis|divkāja]])
+|10
+|4
+|''2-3-Nil''
+|6
+|1
+|7
+|-
+|HK 21 (7,62 x 51 mm NATO, uz [[trijkājis|trijkāja]])
+|10
+|4
+|''2-3-Nil''
+|6
+|1
+|4
+|-
+|HK 21 ([[7,62 mm x 39 mm]] padomju)
+|10
+|4
+|''2-Nil''
+|6
+|3
+|14
+|-
+|HK 21 (7,62 mm x 39 mm padomju, uz divkāja)
+|10
+|4
+|''2-Nil''
+|6
+|1
+|7
+|-
+|HK 21 (7,62 mm x 39 mm padomju, uz trijkāja)
+|10
+|4
+|''2-Nil''
+|6
+|1
+|4
+|}
+
+== Vēsture ==
+Tā izstrāde saistīta ar 1961. gadu.
+Tikai 90. gadu beigās HK 21 tika pārtraukts ražot, tā vietu ieņēma uzlabotie [[HK 21A1]] un [[HK 21e]]. 35 gadu laikā tika izgatavoti daudzi tā varianti, un vēl šobrīd tos dažviet ražo [[Portugāle|Portugālē]], [[Grieķija|Grieķijā]], [[Meksika|Meksikā]] (ražošana pēc licences), un dažās [[Āfrika]]s un DA [[Āzija]]s valstīs. Savulaik tika izveidotas versijas, kas šauj ar [[5,56 mm x 45 mm]] [[NATO]] un [[7,62 mm x 39 mm]] padomju munīciju. 5,56 mm [[NATO]] modeļi ir ārkārtīgi reti sastopami, un 7,62 mm x 39 mm padomju munīcijas modeļi gandrīz vispār nav, bet var lietot [[M16]], [[HK 33]] vai AK [[magazīna]]s. HK 21 ieroci izmantoja ''US Navy SEALs'', [[Izraēla]]s bruņotie spēki un ''US Marines'', darbojoties Tuvajos Austrumos (''SEALs'' bieži izmantoja tieši 7,62 mm x 39 mm modeli). Pašā tā pastāvešanas sākumā to izmantoja Vācijas ''E.B.S.I.S.'' spēki. Šis ierocis savulaik atrada vietu daudzās armijās. Pat ASV elites ''Delta Force'' lietoja HK 21, lai glābtu amerikāņu ķīlniekus [[Irāna|Irānā]] [[1980]]. gada operācijā ''Eagle Claw''.
+
+== Tehniskais raksturojums ==
+<!-- šo rindkopa jāpārstrādā - nespecialists nevar saprast. 2. teikums -->
+HK 21 darbības princips ir līdzīgs kā G3 šautenē, izmantojot divdaļīgus stobra resgaļa bloķēšanas un aizturēšanas veltņus. Aizslēga galvas aizmugurējās kustības palēnināšana pārlādēšanas cikla sākumposmā, ar piemērotu kameru patronas brīvai kustībai, darbojas no aizslēgta aizslēga pozīcijas ar patronu kamerā, kad ierocis ir gatavs šaut. HK 21 munīcija parasti tiek glabāta sadalītu posmu patronlentē, un ierocis darbojas vai nu ar [[Vācija]]s DM 60 patronlenti, vai [[Amerikas Savienotās Valstis|ASV]] M13 patronlenti, vai [[Francija]]s patronlenti. Tomēr, ja vajadzīgs, tas var strādāt arī ar vienlaidu posmu patronlenti DM 1. Turklāt, nomainot stobra cauruli, patronlentes barošanas plātni un aizslēgu, ierocis tiek pārveidots šaušanai ar 5,56 x 45 mm vai 7,62 x 39 mm patronām. Ieroča lietderīgums tiek vēl palielināts, barošanas mehānismā ievietojot [[magazīna|magazīnu]] adapteri. Tas pieņem jebkuras ''Heckler und Koch'' 7,62 mm magazīnas, atšķirībā no G3 ieroča vai [[HK 11]] vieglā ložmetēja. Ja nepieciešams, patronlentes barošanas vienība var tikt izņemta un aizstāta ar magazīnu vienību, kas der [[stobra kārba|stobra kārbā]] un tiek turēta ar divām tapām. Šī vienība atļauj izmanot 20 ložu magazīnas vai 80 ložu plastmasas dubultdiskveida magazīnas. Ierocis var šaut [[Lode (munīcija)|lodes]] pa vienai lodei vai pilnīgi automātiski. Izvēles svira ir virs [[pistoles spals|pistoles spala]] un mēlītes mehānisma, atdalītājs un automātiskā sprūdsvira ir tās pašas kā G3 ierocī.
+
+== Komplektējums ==
+
+HK 21 nāk komplektā ar divām stobra caurulēm un [[divkājis|divkāji]]. HK 21 var tikt izmantots no integrētiem divkājiem (kā vieglais ložmetējs) vai no [[trijkājis|trijkāja]] balsta. Divkājis var tikt piestiprināts gan stobra priekšpusē, gan aizmugurē. Tas ļauj izvēlēties dažādas šaušanas iespējas. Trijkājis ir sastopams reti, pastāv arī īpašs variants, kas mazina triecienu. Tā kā HK 21 ir atvasināts no G3, priekšrocība ir tas, ka tas var izmantot tās pašas detaļas, kas ir šai triecienšautenei.
+
+== Priekšrocības un trūkumi ==
+
+Ir viedoklis, ka šis ierocis ar tā uguns tempu 850 lodes/min un šaušanas tālumu 800 m neder biežām apšaudēm, tikai īsām apšaudēm. Galvenā problēma ir tā, ka tā ložu ievades vieta ir ieroča apakšā. Tas padara pielādēšanu kaujas laukā neveiklu, īpaši skrienot. Lielākā priekšrocība ir tā precizitāte. Ilgu laiku tas tika lietots kā snaiperu atbalsta ierocis. Tas varēja trāpīt mērķim 300 m tālumā bez grūtībām gan pusautomātiskajā, gan ar 3 ložu šāviņiem. Pilnīgi automātiskais režīms ir neprātīgs, tad to ir ļoti grūti noturēt mērķa atrašanās vietā tā atsitiena dēļ. Tas tiešām ir domāts šaušanai pa lodei. Tā kā tas tiek ielādēts no apakšas, lodes tiek uzsviestas diezgan augstu, un lietojot ieroci telpās var gadīties pašam tikt apbērtam ar izšauto ložu čaulām. Labākā HK 21 loma ir sagatavotā pozīcijā no attāluma un šaujot pa lodei.
+
+
+{{commons|HK21}}
+
+[[Kategorija:7,62 mm šaujamieroči]]
+[[Kategorija:Vācijas ložmetēji]]
+[[Kategorija:Heckler & Koch]]

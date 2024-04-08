@@ -1,0 +1,153 @@
+[[Attēls:Flashingsecond.gif|235px|thumbnail|Punkts iedegas vienu reizi sekundē]]
+'''Sekunde''' (simbols: '''s''', dažreiz '''sek.''') ir [[Starptautiskā mērvienību sistēma|Starptautiskās mērvienību sistēmas]] (SI) [[laiks|laika]] [[SI pamatvienības|pamatmērvienība]]. Sākotnēji tā tika definēta kā 1/86 400 no vidējā Saules diennakts garuma. 1967. gadā Starptautiskā Mēru un svaru komiteja pieņēma, ka sekunde ir vienāda ar 1/31 556 925, 9747 no tropiskā 1900. gada ilguma, kas atbilst [[cēzijs|cēzija]] [[izotops|izotopa]] <sup>133</sup>Cs izstarotā [[mikroviļņi|mikroviļņa]] 9 192 631 770 [[svārstības|svārstību]] [[periods|periodu]] kopējam ilgumam, notiekot pārejai starp diviem [[atoms|atoma]] pamatstāvokļa [[hipersīkstruktūra]]s līmeņiem. Sekunžu skaitu nosaka pēc [[pulkstenis|pulksteņiem]].
+
+Sekundes vēsturiskā definīcija ir saistīta ar [[diennakts]] garumu. Diennaktī ir 24 [[stunda]]s, stundā — 60 [[minūte]]s, bet minūtē — 60 sekundes. Viena sekunde ir {{frac|1|86 400}} daļa no dienas. Pašreizējā sekundes definīcija, kas saistīta ar cēzija izotopu <sup>133</sup>Cs, ir spēkā kopš 1967. gada. <ref>{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=15|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref>
+
+== SI daudzkārtņi ==
+Visbiežāk izmantotie sekundes [[daudzkārtnis|daudzkārtņi]] ir milisekunde ([[mili|ms]]), mikrosekunde ([[mikro|μs]]) un nanosekunde ([[nano|ns]]). Izmanto arī citus daudzkārtņus, piemēram, kilosekunde ([[kilo|ks]]), bet tas notiek ļoti reti. Tā vietā izmanto [[minūte]]s, [[stunda]]s, [[diena]]s un [[gads|gadus]].
+
+{| class="wikitable"
+|-
+! width="200" | Biežāk izmantotie daudzkārtņi
+|-
+| valign="top" |
+* milisekunde — 10<sup>-3</sup> s (ms)
+* mikrosekunde — 10<sup>-6</sup> s (μs)
+* nanosekunde — 10<sup>-9</sup> s (ns)
+|}
+
+== Sakarības ar citām laika mērvienībām ==
+{| class="wikitable"
+|+ Laika mērvienības
+! || width="100" | Sekunde (s) || width="100" | [[Minūte]] (min) || width="100" | [[Stunda]] (h) || width="100" | [[Diennakts]]
+|-
+! 1 s
+| = 1
+| ~= 0,016667
+| ~= 2,7778{{E|-4}}
+| ~= 1,1574{{E|-5}}
+|-
+! 1 min
+| = 60
+| = 1
+| ~= 0,016667
+| ~= 6,9444{{E|-4}}
+|-
+! 1 h
+| = 3600
+| = 60
+| = 1
+| ~= 0,041667
+|-
+! 1 diena
+| = 86400
+| = 1440
+| = 24
+| = 1
+|}
+
+== Atvasinātās mērvienības ==
+Sekunde ir daudzumu [[fizikāls lielums|fizikālu lielumu]] mērvienību pamatā, piemēram, [[ātrums|ātruma]] pamatmērvienība ir [[metrs sekundē]] (m/s), [[spēks|spēku]] mēra [[ņūtons|ņūtonos]] (N), kas ir [[kilograms]]×[[metrs]]/sekundē ik sekundi (kg×m/s²), [[jauda|jaudu]] mēra [[vats|vatos]] (W), kas ir [[džouls]] sekundē (J/s), un tā tālāk.
+
+{| class="wikitable"
+|-
+! colspan="3" | Atvasinātās mērvienības, kurās daļa no tās ir sekunde
+|-
+! width="200" | Mērvienība
+! width="200" | Izteikta SI pamatvienībās
+! width="200" | Fizikālais lielums
+|-
+| [[metrs sekundē]]
+| [[metrs|m]]/s
+| [[ātrums]]
+|-
+| [[metrs sekundē ik sekundi]]
+| [[metrs|m]]/s<sup>2</sup>
+| [[paātrinājums]]
+|-
+| [[hercs]]
+| 1/s jeb s<sup>−1</sup>
+| [[frekvence]]
+|-
+| [[radiāns sekundē]]
+| [[radiāns|rad]]/s
+| [[leņķiskais ātrums]]
+|-
+| [[radiāns sekundē ik sekundi]]
+| [[radiāns|rad]]/s<sup>2</sup>
+| [[leņķiskais paātrinājums]]
+|-
+| [[kilogrammetrs sekundē]]
+| [[kilograms|kg]]×[[metrs|m]]/s
+| [[impulss]] (kustības daudzums)
+|-
+| [[ņūtons]]
+| [[kilograms|kg]]×[[metrs|m]]/s<sup>2</sup>
+| [[spēks]]
+|-
+| [[ņūtons uz kubikmetru]]
+| [[kilograms|kg]]/([[metrs|m]]<sup>2</sup>×s)
+| [[īpatnējais svars]]
+|-
+| [[paskāls]]
+| [[kilograms|kg]]/([[metrs|m]]×s)
+| [[spiediens]]
+|-
+| [[džouls]]
+| [[kilograms|kg]]×[[metrs|m]]<sup>2</sup>/s<sup>2</sup>
+| [[enerģija]], [[darbs (fizika)|darbs]]
+|-
+| [[vats]]
+| [[kilograms|kg]]×[[metrs|m]]<sup>2</sup>/s<sup>3</sup>
+| [[jauda]]
+|-
+| [[ņūtons uz metru]]
+| [[kilograms|kg]]/s<sup>2</sup>
+| [[virsmas spraigums]]
+|-
+| [[paskālsekunde]]
+| [[kilograms|kg]]/([[metrs|m]]×s)
+| [[dinamiskā viskozitāte]]
+|-
+| [[kvadrātmetrs sekundē]]
+| [[metrs|m]]<sup>2</sup>/s
+| [[kinemātiskā viskozitāte]]
+|-
+| [[kulons]]
+| [[ampērs|A]]×s
+| [[elektriskais lādiņš]]
+|-
+| [[volts]]
+| [[kilograms|kg]]×[[metrs|m]]<sup>2</sup>/([[ampērs|A]]×s<sup>3</sup>)
+| [[elektriskais spriegums]], [[elektriskais potenciāls]], [[elektrodzinējspēks]]
+|-
+| [[farads]]
+| [[ampērs|A]]<sup>2</sup>×s<sup>4</sup>/([[kilograms|kg]]×[[metrs|m]]<sup>2</sup>)
+| [[elektriskā kapacitāte]]
+|-
+| [[Vēbers (mērvienība)|vēbers]]
+| [[kilograms|kg]]×[[metrs|m]]<sup>2</sup>/([[ampērs|A]]×s<sup>2</sup>)
+| [[magnētiskā plūsma]]
+|-
+| [[tesla]]
+| [[kilograms|kg]]/([[ampērs|A]]×s<sup>2</sup>)
+| [[magnētiskā indukcija]]
+|-
+| [[henrijs]]
+| [[kilograms|kg]]×[[metrs|m]]<sup>2</sup>/([[ampērs|A]]<sup>2</sup>×s<sup>2</sup>)
+| [[induktivitāte]]
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+{{SI}}
+
+[[Kategorija:SI pamatvienības]]
+[[Kategorija:Laika mērvienības]]

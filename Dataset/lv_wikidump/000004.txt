@@ -1,0 +1,12 @@
+{{atsauces+}}
+[[Attēls:SkewedDistribution.png|thumb|Pozitīvi asimetriska [[histogramma]]]]
+[[Attēls:Example histogram.png|thumb|Negatīvi asimetriska [[histogramma]]]]
+'''Asimetrijas koeficients''' ({{val|en|skewness}}) ir statistisks rādītājs, ar kura palīdzību var noteikt to, cik lielā mērā [[Normālsadalījums|normālsadalījuma]] zvanveida grafiks ir simetrisks attiecībā pret centrālo asi. Ja "zvana" labais zars ir izstiepts, bet kreisais aprauts (vairāk rezultātu ir ar zemākām vērtībām), tad saka, ka ''sadalījumam ir pozitīva asimetrija'', bet, ja "zvana" kreisais zars ir izstiepts, bet labais aprauts, tad — ''sadalījumam ir negatīva asimetrija''. Ja asimetrijas koeficients tuvojas [[nulle]]i (aptuveni robežās ±1 — atkarībā no izlases apjoma), tad var runāt par atbilstību normālsadalījumam.
+
+== Skatīt arī ==
+* [[Ekscesa koeficients]]
+
+== Ārējās saites ==
+* [http://mathworld.wolfram.com/Skewness.html ''MathWorld''] {{en ikona}}
+
+[[Kategorija:Statistika]]

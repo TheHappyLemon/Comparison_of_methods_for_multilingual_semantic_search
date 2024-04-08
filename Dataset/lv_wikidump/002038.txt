@@ -1,0 +1,47 @@
+{{Elementa infokaste
+|                 tips = amfotērais metāls
+|      kārtas skaitlis = 82
+|             7. čaula =
+|             6. čaula = 4
+|             5. čaula = 18
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Pb
+|             atommasa = 207,2
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>6p<sup>2</sup>
+|       tabulas attēls = [[Attēls:Pb-TableImage.svg|250px]]
+|               attēls = [[Attēls:Metal cube lead.jpg|160px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Svina konteineri.JPG|200px]]<br />Svina kubs un svina konteineri radioaktīvu vielu glabāšanai
+|  oksidēšanas pakāpes = +4, '''+2'''
+|  elektronegativitāte = 1,8
+|              blīvums = 11340
+|  kušanas temperatūra = 600,61 K (327,46&nbsp;°C)
+| viršanas temperatūra = 2022 K (1749&nbsp;°C)
+}}
+'''Svins''' ir [[ķīmiskais elements]] ar simbolu '''Pb''' un atomskaitli 82. Svins ir toksisks smagais [[metāls]] ar relatīvi labu [[korozija]]s izturību. Brīvā veidā svins dabā ir sastopams ļoti reti. Svins veidojas arī daudzu smago [[radioaktivitāte|radioaktīvo]] [[izotops|izotopu]] sabrukšanas procesā. Lielu daļu svina iegūst no sulfīdu rūdas, ir sastopamas arī karbonātu un sulfātu rūdas (svina [[sulfāti|sulfāts]] ir mazšķīstošs). Lielu daļu svina iegūst arī, pārstrādājot nolietotus svina izstrādājumus. Viens no nozīmīgākajiem svina pielietojumiem ir [[akumulators|akumulatoros]]. Svinam savienojumos var būt oksidēšanas pakāpes +2 un +4.
+
+== Bioloģiskā nozīme ==
+Svins ir toksisks. Tas var iedarboties uz gandrīz visiem cilvēka orgāniem. Visvārīgākā ir [[nervu sistēma]], sevišķi bērniem: zūd reakcijas ātrums, rodas nespēks ekstremitātēs ([[pirksts|pirkstos]], [[plaukstas locītava|plaukstas locītavās]], [[potīte|potītēs]]), notiek izmaiņas [[asinis|asins]] sastāvā ([[anēmija]]), cieš arī [[nieres]] un [[reproduktīvā sistēma]]. Kā to rāda virkne pētījumu, svins intensīvi uzkrājas augos, stādījumos un kokos, kas aug tiešā autoceļu tuvumā.
+
+== Īpašības ==
+Svins ir samērā mīksts, bet smags metāls ar zilgani pelēku spīdumu, kas gaisā oksidējas un pārklājas ar blīvu svina oksīda aizsargkārtiņu. Dabā svins atrodas tādu rūdu veidā, no kurām to relatīvi vienkārši var iegūt, rūdu apdedzinot un tad apstrādājot ar ogli. Taču svina saturs iežos ir neliels, līdz ar to svinu var pieskaitīt pie mazizplatītiem elementiem.
+
+== Izmantošana ==
+Svinu plaši izmanto akumulatoru, munīcijas, arī cauruļvadu un blīvju izgatavošanā, kā arī dažādās ierīcēs aizsardzībai pret radioaktīvo starojumu. Svina izmantošanas iespējas tehnikā ir novedušas pie tā, ka lieli svina daudzumi nokļūst apkārtējā vidē. Atmosfērā atrodas ap 180 000 t svina. Taču autotransports ir uzskatāms par vienu no būtiskākajiem avotiem piesārņojumam ar svinu. Ņemot vērā, ka gaisa masas pārvietojas lielos attālumos, nav pārsteidzoši, ka pēdējā laikā pat no industriālajiem reģioniem vistālākajos apgabalos ir konstatētas pieaugošas svina koncentrācijas (Grenlandes ledū līdz 2 mg/kg, Barguzinas biosfēras rezervātā 1,2 mg/kg, Abramova ledājā 0,2 mg/kg).
+
+Svina savienojumus (galvenokārt [[tetraetilsvins|tetraetilsvinu]]) arī izmantoja, lai [[degviela]]i palielinātu [[oktānskaitlis|oktānskaitli]], kā arī, lai tā tik ātri neizgarotu, taču svins piesārņo dabu, nosēžas uz augiem, kurus vēlāk uzņemam barībā, kā arī piesārņo pēcsadegšanas [[katalizators|katalizatoru]]. Lai palielinātu oktānskaitli, mūsdienās lieto citas degvielas piedevas, piemēram, metil-''terc''-butilēteri ([[MTBE]]). Tetraetilsvinu vēl joprojām mēdz lietot par piedevu aviācijas benzīnam.
+
+Svina oksīdu ([[PbO]]) lieto arī svina [[stikls|stikla]] (kristālstikla paveids) ražošanai. Šie stikli labi lauž gaismu un absorbē [[rentgenstari|rentgenstarus]], tāpēc tos lieto optiskajās ierīcēs un [[kineskops|kineskopu]] priekšējiem stikliem. Svina oksīds ir viens no [[Svina cirkonāta titanāts|PZT]] pjezoelektriskās keramikas komponentiem. Agrāk svina oksīdu lietoja arī [[keramika]]s glazūrām, taču tām ir slikta ķīmiskā izturība un svins šķīst ārā, nonākot apkārtējā vidē.
+{{inde|Šķīstošie svina savienojumi ir indīgi!}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Metāli]]

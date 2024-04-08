@@ -1,0 +1,66 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Honiara
+ | official_name            = ''Honiara''
+ | settlement_type          = galvaspilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Honiara View.jpg
+ | imagesize                = 
+ | image_caption            = Honiara 2017. gadā
+ | image_flag               = Flag of Honiara.svg
+ | pushpin_map              = Zālamana Salas#Okeānija
+ | latd  = 9 | latm  = 25 | lats  = 55 | latNS  = S
+ | longd = 159 | longm = 57 | longs = 20 | longEW = E
+ | subdivision_type         = Valsts
+ | subdivision_name         = {{SLB}}
+ | subdivision_type1        = Province
+ | subdivision_name1        = {{flagicon image|Flag of Guadalcanal.png}} [[Gvadalkanālas province]]
+ | area_total_km2           = 22
+ | elevation_m              = 29
+ | population_total         = 92344
+ | population_as_of         = {{dat|2021|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[UTC+11]]
+ | utc_offset               = 
+ | timezone_DST             = 
+ | utc_offset_DST           = 
+ | footnotes                = 
+ | blank_name               = [[ISO 3166-2]]
+ | blank_info               = SB-CT
+}}
+'''Honiara''' ({{val|en|Honiara}}, {{izrunā|ˌhoʊniˈɑːrə}}) ir [[Zālamana Salas|Zālamana Salu]] galvaspilsēta. Atrodas [[Gvadalkanāla]]s salas ziemeļrietumu krastā, [[Matanikau]] upes krastos. 2021. gadā Honiarā dzīvoja 92,3 tūkstoši iedzīvotāju. Pirms [[Otrais pasaules karš|Otrā pasaules kara]] Honiara nepastāvēja. To izveidoja amerikāņu bruņotie spēki kā militāro bāzi Zālamanu Salās. 1952. gadā tā kļuva par Zālamanu Salu galvaspilsētu, nomainot iepriekšējo galvaspilsētu [[Tulagi]].
+
+== Ģeogrāfija ==
+Honiara<ref>[https://www.solomonencyclopaedia.net/biogs/E000133b.htm Solomon Islands Historical Encyclopaedia 1893-1978. Honiara]</ref> atrodas [[Gvadalkanala]]s salas ziemeļrietumos, [[Matanikau]] upes krastos. Pilsētas platība ir 22 km². Pilsētā valda [[subekvatoriālā klimata josla|subekvatoriālais klimats]], pēc [[Kepena klimata klasifikācija]]s tur ir ekvatoriālo mežu klimats (Aw) — karsts un mitrs klimats. [[Gaisa temperatūra]] gada laikā praktiski ir nemainīga un turas ap +26 °C. No janvāra līdz aprīlim ir [[musonu sezona]], šajā laikā valda ziemeļrietumu [[musons|musoni]]. [[Nokrišņu daudzums]] gadā ir 2180 mm.
+
+Honiara atrodas [[Gvadalkanalas province|Gvadalkanalas provincē]]. To no visām pusēm ieskauj [[Tandai apgabals]].
+
+== Demogrāfija ==
+2021. gadā Honiarā dzīvoja 92 344 cilvēki, no kuriem lielākā daļa ir [[melanēzieši]]. Lai arī Zālamana salās oficiālā valoda ir [[angļu valoda]], daudzi iedzīvotāji runā [[kreoliskās valodas|kreoliskajās valodās]]. Dominējošā reliģija ir [[kristietība]].
+
+== Transports ==
+Aviopārvadājumus no un uz Honiaru, kā arī uz Zālamana Salām nodrošina [[Honiaras starptautiskā lidosta]]. Honiara ir arī nozīmīgākā Zālamana Salu ostas pilsēta.
+
+== Administratīvais dalījums ==
+Administratīvi Honiara sīkāk dalās 12 apkaimēs, kas savukārt ir apvienotas trīs vēlēšanu apgabalos — Rietumu Honiarā, Centrālajā Honiarā un Austrumu Honiarā. [[Matanikau]] upe, kas plūst caur Honiaru, sadala pilsētu tā, ka sešas apkaimes ir upes kreisajā krastā, bet atlikušās sešas apkaimes ir upes labajā krastā. Krusas apkaimē atrodas valdības ēkas un institūcijas.
+
+[[Attēls:Honiara wards - crop of Map Administrative Divisions of Guadalcanal (Solomon Islands).png|thumbnail|left|400px|Honiaras administratīvais dalījums (nosaukumi nav atveidoti latviešu valodā)]]
+{{clear}}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* {{tīmekļa atsauce | url= https://www.britannica.com/place/Honiara | title= Honiara <nowiki>|</nowiki> Description, History, & Facts | publisher= Encyclopedia Britannica | language= en}}
+
+
+
+{{Okeānijas galvaspilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zālamana Salu pilsētas]]
+[[Kategorija:Okeānijas galvaspilsētas]]

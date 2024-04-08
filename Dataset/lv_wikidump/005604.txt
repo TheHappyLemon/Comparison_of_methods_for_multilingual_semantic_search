@@ -1,0 +1,79 @@
+{{Latvijas novada infokaste
+| nosaukums         = Gailīšu pagasts
+| karte             = Gailīšu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = Gailīšu pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Gailīšu pagasta ģerbonis
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Bauskas novads
+| centrs2           = [[Uzvara (Gailīšu pagasts)|Uzvara]]
+| platība           = 80,2
+| iedzīvotāji       = 2594<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 2594 / 80.2 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.gailisi.lv
+}}
+
+'''Gailīšu pagasts''' ir viena no [[Bauskas novads|Bauskas novada]] teritoriālajām vienībām tā dienvidu daļā [[Mūsa]]s kreisajā krastā. Robežojas ar [[īslīces pagasts|Īslīces]], [[ceraukstes pagasts|Ceraukstes]], [[brunavas pagasts|Brunavas]] pagastiem un [[Lietuva|Lietuvu]]. Pagasta centrs atrodas [[Uzvara (Gailīšu pagasts)|Uzvarā]]. Attālums no Uzvaras līdz Bauskai 12,5 km.
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+Caur pagastu tek [[Kaucīte]]s, [[Īslīce]]s un [[Mūsa]]s upes.
+
+== Vēsture ==
+Mūsdienu Gailīšu pagasta teritorijā vēsturiski atradās Pāces muiža (''Gut Pahzen'', [[Pāce (Gailīšu pagasts)|Pāce]]), Pamūšas muiža (''Gut Pommusch'', [[Pamūša]]), Pograničas muiža (''Gut Pogranicza'', [[Pograniča]]).
+
+Gailīšu [[ciema padome]] izveidota 1945. gadā [[Ceraukstes pagasts|Ceraukstes pagasta]] teritorijā vietā, kur bija "Gailīšu" mājas. 1954. gadā Gailīšu ciemam pievienoja [[Pāces ciems|Pāces ciemu]] un 1966. gadā daļu [[Lībiešu ciems|Lībiešu ciema]]. 1990. gadā pārdēvēts par Gailīšu pagastu.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 2009. gadā iekļauts [[Bauskas novads|Bauskas novadā]].
+
+=== Pieminekļi ===
+* Podiņu senkapi<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Gail%C4%AB%C5%A1u+pagasts&region=0&group=0&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Kapenieku senkapi
+* [[Kamardes pilskalns]]
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1800
+|1959|1600
+|1965|1643
+|1979|2388
+|1989|3333
+|2000|2990
+|2011|2281
+|2021|1971
+}}
+
+=== Apdzīvotās vietas ===
+[[Birzgaļi]], [[Brunavišķi]], [[Bukubirzs]], [[Krievgaļi]], [[Mūsa (Gailīšu pagasts)|Mūsa]], [[Pāce (Gailīšu pagasts)|Pāce]], [[Pamūša]], [[Pīrāgi (ciems)|Pīrāgi]], [[Pograņiča]], [[Taumaņi]], '''[[Uzvara (Gailīšu pagasts)|Uzvara]]''', [[Virši]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+Pagastā atrodas [[Uzvaras vidusskola]] un [[Pamūšas internātskola]].
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Bauskas novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība|list1=
+{{Bauskas rajons}}
+}}
+{{DEFAULTSORT:Gailiszu pagasts}}
+[[Kategorija:Bauskas rajons]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Bauskas novada pagasti]]
+[[Kategorija:Gailīšu pagasts]]

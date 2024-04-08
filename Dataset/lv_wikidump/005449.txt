@@ -1,0 +1,62 @@
+{{Futbola izlases infokaste
+| Name               = Ķīna
+| Badge              = 
+| FIFA Trigramme     = CHN
+| Nickname           = (龙之队) Pūķu komanda
+| Association        = Ķīnas Futbola asociācija 
+| Confederation      = [[Āzijas Futbola konfederācija|AFC]] (Āzija)
+| Coach              = {{flaga|CRO}} [[Branko Ivankovičs]]
+| Captain            = Džens Dži
+| Most caps          = 	Li Veifens (112)
+| Top scorer         = Hao Haiduns (41)
+| Home Stadium       = 
+ <!-- Tērpu krāsu veidnes -->
+|pattern_la1 = _chn18h |pattern_b1  = _chn18h |pattern_ra1 = _chn18h |pattern_sh1 = _usa18h |pattern_so1 = _chn18H |leftarm1    = FF0000
+|body1       = FF0000 |rightarm1   = FF0000 |shorts1     = FFFFFF |socks1      = FF0000  
+|pattern_la2 = |pattern_b2  = _chn19a |pattern_ra2 = |pattern_sh2 = |pattern_so2 = _pol18H |leftarm2    = FFFFFF
+|body2       = FFFFFF |rightarm2   = FFFFFF |shorts2     = FFFFFF |socks2      = FFFFFF 
+| First game         = {{fb|PHL|1912}} 2:1 {{fb-rt|CHN|1912}} <br />([[Manila]], [[Filipīnas]]; {{dat|1913|2|4|N|bez}})
+| Largest win        = {{fb|CHN}} 19:0 {{fb-rt|GUM}} <br />([[Hošimina]], [[Vjetnama]]; {{dat|2000|1|26|N|bez}})
+| Largest loss       = {{fb|BRA}} 8:0 {{fb-rt|CHN}} <br />([[Resifi]], [[Brazīlija]]; {{dat|2012|9|10|N|bez}})
+| World cup apps     = 1
+| World cup first    = 2002
+| World cup best     = Grupu turnīrs: [[2002. gada FIFA Pasaules kauss|2002]]
+| Regional name      = [[Āzijas kauss futbolā|Āzijas kauss]]
+| Regional cup apps  = 12
+| Regional cup first = 1976
+| Regional cup best  = 2. vieta: 1984, 2004
+| current            = 
+}}
+
+'''Ķīnas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Ķīna|Ķīnas valsti]] starptautiskās futbola sacensībās. Ķīnas futbola izlasi pārvalda Ķīnas Futbola Asociācija. Savu pirmo spēli izlase aizvadīja 1913. gadā cīnoties pret [[Filipīnu futbola izlase|Filipīnu izlasi]]. Pirmo un pagaidām vienīgo reizi [[FIFA Pasaules kauss|Pasaules kausa finālturnīrā]] ķīnieši spēlēja [[2002. gada FIFA Pasaules kauss|2002. gadā]], kur gan zaudēja visās 3 spēlēs. [[Āzijas Kauss futbolā|Āzijas kausa izcīņā]] Ķīna ir piedalījusies 9 reizes, 2 reizes tā ir izcīnījusi 2. vietu.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1954. gada FIFA Pasaules kauss|1954]] - ''Nepiedalījās''
+* [[1958. gada FIFA Pasaules kauss|1958]] - ''Nekvalificējās''
+* [[1962. gada FIFA Pasaules kauss|1962]]-[[1978. gada FIFA Pasaules kauss|1978]] - ''Nepiedalījās''
+* [[1982. gada FIFA Pasaules kauss|1982]]-[[1998. gada FIFA Pasaules kauss|1998]] - ''Nekvalificējās''
+* [[2002. gada FIFA Pasaules kauss|2002]] - Grupu turnīrs
+* [[2006. gada FIFA Pasaules kauss|2006]] - ''Nekvalificējās''
+* [[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — AFC zona|Nekvalificējās]]''
+* [[2018. gada FIFA Pasaules kauss|2018]] - [[2022. gada FIFA Pasaules kauss|2022]] – ''Nekvalificējās''
+
+== Āzijas kausā ==
+* 1956—1972 — ''Nepiedalījās''
+* 1976 — 3. vieta
+* 1980 — Grupu turnīrs
+* 1984 — 2. vieta
+* 1988 — 4. vieta
+* 1992 — 3. vieta
+* 1996 — Ceturtdaļfināls
+* 2000 — 4. vieta
+* 2004 — 2. vieta
+* 2007 — Grupu turnīrs
+* 2011 — Ceturtdaļfināls
+* 2015 — Ceturtdaļfināls
+
+{{AFC izlases}}
+{{Pasaules futbols}}
+
+[[Kategorija:Āzijas futbola izlases]]
+[[Kategorija:Ķīnas futbola izlase| ]]

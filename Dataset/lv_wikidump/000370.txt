@@ -1,0 +1,112 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Česká republika''
+|    pilnais_valsts_nosaukums = Čehijas Republika
+|            valsts_nosaukums = Čehija
+|               karoga_attēls = Flag of the Czech Republic.svg
+|            karoga_nosaukums = Čehijas karogs
+|              ģerboņa_attēls = Coat of arms of the Czech Republic.svg
+|           ģerboņa_nosaukums = Čehijas ģerbonis
+|             ģerboņa_platums = 
+|                 valsts_moto = ''Pravda vítězí''
+|                valsts_himna = [[Čehijas himna|Kde domov můj?]]       
+|               kartes_attēls = EU-Czechia.svg
+|             kartes_paraksts = {{kartes_paraksts |location_color=dark green |region=Europe |region_color=dark grey |subregion=the European Union |subregion_color=green |legend=EU-Czechia.svg}}
+|               galvaspilsēta = [[Prāga]]
+|latd=50 |latm=05 |latNS=N |longd=14 |longm=28 |longEW=E
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[čehu valoda]]<ref>{{tīmekļa atsauce |url=http://www.czech.cz/en/67019-czech-language |title=Czech language |work=Czech Republic – Official website |publisher=[[Ministry of Foreign Affairs (Czech Republic)|Ministry of Foreign Affairs of the Czech Republic]] |accessdate=14 November 2011 |archiveurl=https://web.archive.org/web/20111106000422/http://www.czech.cz/en/67019-czech-language |archivedate={{dat|2011|11|06||bez}} }}</ref>
+|             etniskās_grupas = 64% [[čehi]]<br />5% morāvieši<br />1,4% [[slovāki]]<br />0,4% [[poļi]]<br />26% citi<ref>Liela daļa aptaujāto čehu boikotē jautājumu par etnisko piederību</ref>
+|        etniskās_grupas_gads = 2014<ref>{{tīmekļa atsauce|title=Czech Republic Population 2014|url=http://worldpopulationreview.com/countries/czech-republic-population/|publisher=World Population Review|accessdate=14 April 2014}}</ref>
+|              valsts_iekārta = [[Parlamentāra republika]]
+|        valsts_galvas_tituls = [[Čehijas prezidents|Prezidents]]
+|                valsts_galva = [[Petrs Pavels]]
+|       valsts_galvas_tituls2 = [[Čehijas premjerministrs|Premjerministrs]]
+|               valsts_galva2 =[[Petrs Fiala]] 
+|        neatkarības_iegūšana = Valsts izveidošana
+|        neatkarības_notikums = [[Bohēmijas lielhercogiste]]
+|          neatkarības_datums = 870
+|       neatkarības_notikums2 = [[Bohēmijas karaliste]]
+|         neatkarības_datums2 = 1198
+|       neatkarības_notikums3 = [[Čehoslovākija]]
+|         neatkarības_datums3 = {{dat|1918|10|28}}
+|       neatkarības_notikums4 = Neatkarīga valsts
+|         neatkarības_datums4 = {{dat|1993|1|1}}  
+|          iestāšanāsESdatums = {{dat|2004|5|1}} 
+|                 platība_km2 = 78 871
+|               platība_rangs = 116.
+|              procenti_ūdens = 2,12
+|     iedzīvotāju_skaita_gads = 2021
+|          iedzīvotāju_skaits =10,701,777<ref>{{tīmekļa atsauce |title=Population of Municipalities – 1 January 2021|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2021|publisher=[[Czech Statistical Office]]|date=30 April 2021}}</ref> 
+|    iedzīvotāju_skaits_rangs = 86.
+|    apdzīvotības_blīvums_km2 = 134
+|  apdzīvotības_blīvums_rangs = 84.
+|                     IKP_PPP = {{US$|432.346 miljardi}}<ref name="IMFWEOCZ">{{tīmekļa atsauce |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=36&pr.y=17&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=935&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[Starptautiskais Valūtas fonds|International Monetary Fund]] |website=IMF.org |access-date=2 November 2019}}</ref>
+|                IKP_PPP_gads = 2020
+|               IKP_PPP_rangs = 36.
+|          IKP_PPP_per_capita = {{US$|40 585}}
+|    IKP_PPP_per_capita_rangs = 34
+|                         HDI = {{samazinājās}} 0,889<ref name="UNHDR">{{tīmekļa atsauce|url=http://hdr.undp.org/en/content/latest-human-development-index-ranking|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+|                    HDI_gads = 2021
+|              HDI_kategorija = <span style="color:#090;">ļoti augsts</span>
+|                   HDI_rangs = 32.
+|                        Gini = 24,0<ref name=eurogini>{{tīmekļa atsauce |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income - EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=3 July 2020 |archive-url=https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |archive-date=20 March 2019 |dead-url=no  }}</ref>
+|                   Gini_gads = 2019
+|             Gini_kategorija = <span style="color:#090;">zems</span>
+|                  Gini_rangs = 
+|                      valūta = [[Čehijas krona]]
+|                valūtas_kods = CZK
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.cz]]<sup>1</sup>
+|              tālsarunu_kods = 420
+|                    piezīmes = 
+|                    piezīme1 = Arī [[.eu]], kopā ar citām [[Eiropas Savienība]]s dalībvalstīm.
+|                    piezīme2 = 
+|                    piezīme3 = 
+|                    piezīme4 = 
+|                    piezīme5 = 
+|                    piezīme6 = 
+|                    piezīme7 = 
+|                iso_kods_num = 203 
+|              iso_kods_alfa2 = CZ
+|              iso_kods_alfa3 = CZE
+}}
+
+'''Čehija''' ({{val|cs|Česko}}), oficiāli '''Čehijas Republika''' (''Česká republika'', izrunā: {{IPA|[[IPA|[ˈtʃɛskaː ˈrɛpuˌblɪka]]]}}), ir valsts [[Centrāleiropa|Centrāleiropā]] bez pieejas pie jūras. Tā robežojas ar [[Polija|Poliju]] ziemeļos, ar [[Slovākija|Slovākiju]] austrumos, ar [[Austrija|Austriju]] dienvidos, bet ar [[Vācija|Vāciju]] rietumos. Čehijas platība ir 78 866 km² un to ietekmē [[mērenā josla|mērenās joslas]] klimats. Čehija ar 10,51 miljoniem iedzīvotāju ir divpadsmitā lielākā [[Eiropas savienība]]s dalībvalsts.
+
+Čehija ir [[parlamentāra republika]] un augsti attīstīta valsts. Tā ir sīkāk sadalīta 13 reģionos un galvaspilsētā Prāgā. Galvaspilsēta un lielākā pilsēta ar 1,3 miljoniem iedzīvotāju ir [[Prāga]]. Čehija ir [[Apvienoto Nāciju Organizācija|ANO]], [[NATO]] un [[ESAO]] dalībvalsts. [[1999]]. gadā Čehija kļuva par NATO dalībvalsti, bet [[2004. gads|2004]]. gadā par Eiropas Savienības dalībvalsti.
+
+Čehija ir plašāk pazīstama ar automašīnu zīmolu [[Škoda]], [[alus|alu]] un [[hokejs|hokeju]]. Čehijā ir [[Valstu uzskaitījums pēc alus patēriņa uz vienu iedzīvotāju|lielākais alus patēriņš pasaulē uz vienu cilvēku]], kas ir 148,6 litri uz vienu iedzīvotāju. Neatkarību tā ieguva 1993. gadā, sadaloties [[Čehoslovākija]]i.
+
+== Vēsture ==
+{{pamatraksts|Čehijas vēsture}}
+[[Viduslaiki|Viduslaikos]] izveidotās [[Bohēmijas karaliste]]s seims 1526. gadā par karali ievēlēja [[Ferdinands I Hābsburgs (Svētās Romas imperators)|Ferdinandu I Hābsburgu]], un tā kļuva par vienu no [[Hābsburgi|Hābsburgu dinastijas]] dzimtīpašumu zemēm. Pēc [[Pirmais pasaules karš|Pirmā pasaules kara]] [[Austroungārija]] beidza pastāvēt un 1918. gada oktobrī čehu un slovāku politiķi nodibināja [[Čehoslovākija|Čehoslovākijas Republiku]]. Pirms [[Otrais pasaules karš|Otrā pasaules kara]] sākuma [[Minhenes vienošanās]] rezultātā [[Trešais reihs|Vācija]] okupēja Čehoslovākiju un [[Sudetu aneksija|anektēja]] [[Sudetu apgabals|Sudetu apgabalu]].
+
+1945. gadā Čehoslovākiju ieņēma [[Sarkanā armija]]. Pēc [[1948]]. gada apvērsuma [[Čehoslovākijas Sociālistiskā Republika|Čehoslovākija]] kļuva par vienpartijas valsti, kuru kontrolēja PSRS. [[1968]]. gadā, palielinoties neapmierinātībai ar padomju režīmu, sākās periods, kas pazīstams kā [[Prāgas pavasaris]], kas beidzās ar Padomju Savienības iebrukumu valstī. Padomju Savienības okupācija turpinājās līdz 1989. gadam, kad visā [[Austrumu bloks|Austrumu blokā]] sabruka komunistu režīmi un tika izveidota daudzpartiju parlamentāra republika. 1993. gada 1. janvārī [[Čehijas un Slovākijas Federatīvā Republika|Čehoslovākija]] sadalījās un izveidojās Čehijas Republika un [[Slovākija]]. Čehijas Republika pievienojās [[NATO]] 1999. gada 12. martā un [[Eiropas Savienība]]i 2004. gada 1. maijā. 2007. gada 21. decembrī tā pievienojās [[Šengenas līgums|Šengenas zonai]].
+
+== Ģeogrāfija ==
+Čehijas Republika atrodas [[Centrāleiropa|Centrāleiropā]], robežojas ar [[Vācija|Vāciju]] rietumos (810 km), ar [[Polija|Poliju]] ziemeļos (762 km), ar [[Slovākija|Slovākiju]] austrumos (252 km), un ar [[Austrija|Austriju]] dienvidos (466 km).<ref>{{en}} [https://www.cia.gov/library/publications/the-world-factbook/fields/2096.html Field Listing - Land boundaries] {{Webarchive|url=https://web.archive.org/web/20181001204523/https://www.cia.gov/library/publications/the-world-factbook/fields/2096.html |date={{dat|2018|10|01||bez}} }}, ''CIA World Factbook'', 6 maart 2008</ref> Vēsturiski valsts sastāv no trim apakšreģioniem; [[Bohēmija]]s, [[Morāvija]]s un [[Čehijas Silēzija]]s. Lielāko daļu robežu veido kalnu grēdas. Gar dienvidrietumu robežu plešas Bohēmijas meži. Ziemeļrietumos atrodas Rūdu kalni, ziemeļos [[Sudeti|Sudetu]] kalnu grēda. Morāvijas austrumu robeža ar Slovākiju sastāv no Beskidu un Balto Karpatu kalnu grēdām. Dienvidu robeža ar [[Lejasaustrija|Lejasaustriju]] sastāv galvenokārt no upes [[Taja]]s. Uz Bohēmijas robežas ar Morāviju atrodas Bohēmijas-Morāvijas augstiene.
+
+=== Klimats ===
+Čehijā valda mērens pārejas klimats no okeāniskā uz kontinentālo. [[Ziema]] ir aukstāka un vasara siltāka nekā citās [[Eiropa]]s valstīs tādos pašos platuma grādos, bet tuvāk jūras piekrastei. Austrumdaļā ziemā nereti ieplūst kontinentālās gaisa masas, kas pazemina gaisa temperatūru zem 0 grādiem pēc Celsija, bieži snieg. Apmēram trešo daļu valsts teritorijas klāj [[meži]], kuros izplatītākie koki ir [[egles]], [[priedes]] un [[bērzi]].
+
+== Skatīt arī ==
+* [[Čehijas pilsētu uzskaitījums]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa}}
+{{ES valstis}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Čehija| ]]
+[[Kategorija:Eiropas valstis]]

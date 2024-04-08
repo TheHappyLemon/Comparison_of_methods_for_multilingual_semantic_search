@@ -1,0 +1,53 @@
+{{Upes infokaste 
+| nosaukums         = Emsa
+| citvaloda      = de
+| oriģinālnosaukums = Ems
+| citvaloda2      = nl
+| oriģinālnosaukums2 = Eems
+| attēls            = 2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2298.JPG
+| attēla_izmērs     = 
+| paraksts          = Emsa pie Pāpenburgas
+| karte             = 
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Teitoburgas Mežs]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Dollarta līcis]]/[[Ziemeļjūra]]
+| sāk_plat_d=51 | sāk_plat_m=51 | sāk_plat_s=28 | sāk_plat_NS=N 
+| sāk_gar_d=08 | sāk_gar_m=41 | sāk_gar_s=59 | sāk_gar_EW=E 
+| iet_plat_d=53 | iet_plat_m=19 | iet_plat_s=32 | iet_plat_NS=N 
+| iet_gar_d=07 | iet_gar_m=14 | iet_gar_s=41 | iet_gar_EW=E 
+| baseina_valstis   = 
+| tek_caur          = {{GER}}, {{NED}}
+| garums            = 371
+| iztekas_augstums  = 135
+| ietekas_augstums  = 0
+| kritums           = 
+| caurtece          = 125
+| gada_notece       = 
+| baseins           = 12 510
+| pietekas          = 
+  | vietaskarte       = Vācija
+  | reljefs           = jā
+}}
+
+'''Emsa''' ({{val-de|Ems}}, {{val-nl|Eems}}) ir 371 kilometru gara upe [[Vācija]]s ziemeļrietumos.<ref>{{PZT|200}}</ref> 
+
+Sākas netālu no [[Pāderborna]]s, [[Teitoburgas Mežs|Teitoburgas Meža]] masīvā. Tek ziemeļu - ziemeļrietumu virzienā. Ietek [[Ziemeļjūra|Ziemeļjūrā]], veidojot [[estuārs|estuāru]], pa kuru iet Vācijas — [[Nīderlande]]s robeža. Lielākā pieteka - [[Hāze (upe)|Hāze]]. Ar kanāliem savienota ar [[Reina|Reinu]], [[Vēzere|Vēzeri]] un citu upju baseiniem. Emsas krastos atrodas [[Šlosholte-Štukenbroka]] (''Schloß Holte-Stukenbrock''), [[Rītberga]] (''Rietberg''), [[Reda-Wīdenbrika]] (''Rheda-Wiedenbrück''), [[Harzevinkela]] (''Harsewinkel''), [[Vārendorfa]] (''Warendorf''), [[Telgte]] (''Telgte''), [[Grēvene]] (''Greven''), [[Emsdetene]] (''Emsdetten''), [[Reine]] (''Rheine''), [[Lingene]] (''Lingen''), [[Mepene]] (''Meppen''), [[Hārene]] (''Haren''), [[Pāpenburga]] (''Papenburg''), [[Vēnere]] (''Weener''), [[Lēra]] (''Leer''), [[Emdene]] (''Emden''), [[Delfzeila]] (''Delfzijl'')
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Vācija-aizmetnis}}
+{{autoritatīvā vadība}}
+[[Kategorija:Vācijas upes]]
+[[Kategorija:Nīderlandes upes]]
+[[Kategorija:Ziemeļjūra]]
+[[Kategorija:Groningena (province)]]
+[[Kategorija:Lejassaksija]]
+[[Kategorija:Ziemeļreina-Vestfālene]]

@@ -1,0 +1,392 @@
+{{citas nozīmes|pilsētu|Valmiera (nozīmju atdalīšana)|Valmiera}}
+{{Apdzīvotas vietas infokaste
+ | name                     = Valmiera
+ | native_name              = 
+ | settlement_type          = Valstspilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = Valmiera kesklinn.JPG
+ | imagesize                = 
+ | image_caption            = Valmieras centrs ar [[Valmieras Svētā Sīmaņa baznīca|Svētā Sīmaņa baznīcu]]
+ | image_flag               = Valmiera flag.svg
+ | flag_link                = Valmieras karogs
+ | image_shield             = COA LV Valmiera.svg
+ | shield_link              = Valmieras ģerbonis
+ | pushpin_map              = Latvia (novadi)
+ | pushpin_label_position   = left
+| latd = 57| latm = 32| lats = 19| latNS =N 
+| longd = 25| longm = 25| longs = 32| longEW =E
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|Latvija}}'''
+ | subdivision_type1        = Novads
+ | subdivision_name1        = [[Valmieras novads]]
+ | established_title        = Pilsētas tiesības
+ | established_date         = kopš [[1323]]. gada
+ | seat_type                = Citi<br />nosaukumi
+ | seat                     = {{val|ru|Вольмар}}<br />{{val|et|Volmari}}<br />{{val|de|Wolmar}}
+ | leader_title             = [[Valmieras novads|Valmieras novada]] domes priekšsēdētājs
+ | leader_name              = [[Jānis Baiks]]<br /><small>([[Valmierai un Vidzemei]])</small>
+ | area_total_km2           = 19.35
+ | area_total_sq_mi         = 
+ | area_land_sq_mi          = 
+ | area_water_sq_mi         = 
+ | area_water_percent       = 
+ | area_rank                = 
+ | elevation_max_m          = 
+ | elevation_max_ft         = 
+ | elevation_min_m          = 
+ | elevation_min_ft         = 
+ | population_footnotes     = <ref name="iedz skaits">{{iedzsk|ats}}</ref>
+ | population_total         = {{iedzsk|dati|Valmiera}}
+ | population_as_of         = {{iedzsk|dat}}
+ | population_rank          = 8
+ | population_density_km2   = auto
+ | population_density_sq_mi = 
+ | population_urban         = 
+ | population_metro         = 
+ | population_density       = 
+ | population_density_rank  = 
+ | timezone                 = [[Austrumeiropas laiks|EET]]
+ | utc_offset               = +2
+ | timezone_DST             = [[Austrumeiropas laiks|EEST]]
+ | utc_offset_DST           = +3
+ | postal_code_type         = Pasta indeksi
+ | postal_code              = LV-4201<br />LV-4202<br />LV-4204
+ | website                  = [http://www.valmiera.lv/ www.valmiera.lv]
+ | footnotes                = 
+}}
+'''Valmiera''' ir [[pilsēta]] [[Vidzeme]]s centrālajā daļā, [[Valmieras novads|Valmieras novada]] administratīvais centrs, viena no desmit [[Latvija]]s [[valstspilsēta|valstspilsētām]]. Ar 24 865 iedzīvotājiem Valmiera ir lielākā pilsēta [[Vidzemes plānošanas reģions|Vidzemes plānošanas reģionā]] un 8. lielākā Latvijā. Valmierā no citām pašvaldībām katru dienu ierodas aptuveni 7000 cilvēku, kuri šeit strādā, mācās vai izmanto pakalpojumus, bet ir deklarēti citur.<ref>{{Tīmekļa atsauce |url=https://www.valmiera.lv/images/userfiles/cits/Gada_parskats_2018_26062019_DOMEI.pdf |title=Gada pārskats 2018 |access-date={{dat|2020|04|23||bez}} |archive-date={{dat|2020|09|29||bez}} |archive-url=https://web.archive.org/web/20200929120615/https://www.valmiera.lv/images/userfiles/cits/Gada_parskats_2018_26062019_DOMEI.pdf }}</ref> Valmiera ir viena no senākajām pilsētām Latvijā, bijusi [[Hanzas savienība]]s locekle.
+
+== Etimoloģija ==
+Dažādos laikos pilsētai ir bijuši dažādi vārdi — ''Waldemer, Wolmaria, Wolmahr, Vladimirec, Wolmar, Valmiera'' —, kas visi atvasināti no [[Vikingi|vikingu]]—rūsu personvārda "Valdemārs" jeb "Vladimirs".{{nepieciešama atsauce}} Populārākā versija ir par Pleskavas kņazu [[Vladimirs Mstislavičs|Vladimiru Mstislaviču]], kas šeit ievāca meslus un sprieda tiesu pēc padzīšanas no Pleskavas 1214. gadā. Otra versija pieņem, ka pils ir nosaukta Dānijas karaļa [[Valdemārs II|Valdemāra II]] vārdā, kas 1221. gadā uz īsu laiku kļuva ne tikai par ziemeļu [[Igaunija]]s, bet arī [[Livonija]]s feodālo senjoru. Šai versijai par labu runā fakts, ka [[Zobenbrāļu ordenis]], kam piederēja Valmieras apkārtne, tajā laikā kļuva par Dānijas karaļa sabiedroto. Maz ticams, ka savu jauno pili ordenis būtu nosaucis sava ienaidnieka vārdā, bet pilnīgi iespējams, ka abu feodālo senjoru vārdi ar laiku vienkārši saplūda vienā valdnieka Valdemāra personvārdā.
+
+== Vēsture ==
+{{Pamatraksts|Valmieras vēsture}}
+[[Attēls:Volmari ordulinnus.gif|thumb|220x220px|Valmieras pilsētas ģerbonis (''S' Civitatis de Woldemer '') Livonijas ordeņa laikos (1524.)|left]]
+Apmetne tagadējās Valmieras vietā pastāvējusi jau 11. gadsimtā un ietilpa seno [[Latgaļi|latgaļu]] apdzīvotās [[Tālava]]s teritorijā. Pilsēta atradās pie lielā tirdzniecības ceļa, kas latīņu tekstos saukts par ''via Ruthenorum'' un gāja gar Gauju uz [[rūsi|rūsu]] pārvaldīto [[Pleskava|Pleskavu]] un [[Novgoroda|Novgorodu]]. Aiz Valmieras tas sadalījās divos virzienos — uz [[Pleskava|Pleskavu]] un [[Tartu|Tērbatu]].
+
+1224. gadā Tālavas dalīšanas līguma rezultātā Gaujas tirdzniecības ceļš (t.s. "[[Gaujas koridors]]") nonāca [[Zobenbrāļu ordenis|Zobenbrāļu ordeņa]] kontrolē, kas šeit lika pamatus ordeņa pilij. [[1283]]. gadā [[Livonijas ordeņa mestrs]] [[Villekens fon Endorps]] vadīja [[Valmieras pils]] (''Wolmar'') un [[Valmieras Sv. Sīmaņa baznīca|Sv. Sīmaņa baznīcas]] celtniecību [[Gauja]]s krastos. [[1323]]. gadā Valmiera pirmo reizi pieminēta kā "Valdemāra pilsēta", drīz vien tā kļuva par [[Hanzas savienība]]s locekli. 1413. gadā [[Žilbērs de Lanuā]] Valmieru aprakstīja kā nocietinātu pilsētu. Līdz 16. gadsimtam te sanāca vairākas [[Livonijas landtāgs|landtāgu]] un pilsētu pārstāvju sapulces. 1622. gadā pēc [[Poļu—zviedru karš (1600—1629)|Poļu-zviedru kara]] Valmiera nonāca [[Zviedrija]]s valsts kanclera [[Aksels Ūksenšerna|Aksela Ūksenšernas]] pārvaldījumā, viņa dzimtas [[ģerbonis|ģerboņa]] vērša piere joprojām rotā pilsētas ģerboni.[[Attēls:Skats uz Valmieru.jpg|thumb|220x220px|Skats uz Valmieras pils sienu un Sv.Sīmaņa baznīcu pirms Pirmā pasaules kara|left]]1738. gadā [[Magdalēna Elizabete fon Hallarte]] Valmierā atvēra [[brāļu draudzes|brāļu draudžu]] skolotāju semināru, kas kļuva par jaunās atmodas kustības viduspunktu. [[1785]]. gadā Valmiera ieguva apriņķa pilsētas tiesības. 19. gadsimtā Valmierā izveidojās pirmās rūpnīcas, abos Gaujas krastos attīstījās jaunas pilsētas daļas, darbojās [[Vidzemes skolotāju seminārs|Valkas-Valmieras skolotāju seminārs]], sieviešu ģimnāzija (tagadējā [[Valmieras pamatskola]]) un tirdzniecības skola, kas Valmieru padarīja par Vidzemes izglītības centru.
+
+1906. gadā notikušajās pilsētas domes vēlēšanās pārsvaru guva [[latvieši]] (no 24 domniekiem 18 bija latvieši, 5 vācieši un viens krievs), kas par Valmieras pilsētas galvu ievēlēja Valmieras pilsētas ārstu [[Georgs Apinis|Georgu Apini]].
+
+Pirms [[Otrais pasaules karš|Otrā pasaules kara]] lielākais uzņēmums pilsētā bija "Bekona eksporta" fabrika. Otrā pasaules kara [[Latvijas okupācijas hronoloģija (1944—1945)|1944. gada septembra Sarkanās armijas uzbrukuma]] ("Rīgas operācijas") laikā trešdaļa pilsētas tika pilnībā nopostīta, pilsētas centrs izdega un pēckara gados to uzbūvēja no jauna. Līdz 1949. gada administratīvi teritoriālajai reformai Valmiera bija [[Valmieras apriņķis|Valmieras apriņķa]] centrs, bet līdz 2009. gada administratīvi teritoriālajai reformai [[Valmieras rajons|Valmieras rajona]] centrs, tagad republikas nozīmes pilsēta.
+
+=== Kultūras un vēstures pieminekļi ===
+{{skatīt arī|Valsts aizsargājamie kultūras pieminekļi Valmierā}}
+* Valmieras senpilsēta un [[Livonijas ordenis|Livonijas ordeņa]] [[Valmieras viduslaiku pils|Valmieras pils drupas]]. Pils celta militāros nolūkos stratēģiski izdevīgā vietā uz paugura, ko veido Gaujas krasts un Rātsupītes grava. Pils sagrauta [[Lielais Ziemeļu karš|Lielā Ziemeļu kara]] laikā 1702. gadā, kad krievu karaspēks uzbruka pilsētai un aizdedzināja pili.<ref>{{Tīmekļa atsauce|url=http://muzejs.valmiera.lv/index.php/par-muzeju/teritorija/|title=Valmieras muzejs|access-date={{dat|2013|11|27||bez}}|archiveurl=https://web.archive.org/web/20131014105053/http://muzejs.valmiera.lv/index.php/par-muzeju/teritorija/|archivedate={{dat|2013|10|14||bez}}}}</ref>
+* [[Valmieras Svētā Sīmaņa baznīca]]. Draudze baznīcā atgriezās 1990. gadā, 1996. gadā dievnamu juridiski atdeva draudzei.<ref>{{Tīmekļa atsauce|url=http://www.arhivi.lv/index.php?&1877|title=Latvijas Valsts arhīvi|access-date={{dat|2013|11|27||bez}}|archive-date={{dat|2014|08|30||bez}}|archive-url=https://web.archive.org/web/20140830092701/http://www.arhivi.lv/index.php?&1877}}</ref>
+* [[Elku saliņa]], senā kulta vieta. Atrodas tieši blakus viduslaiku pils kompleksam un [[Lucas pilskalns|Lucas pilskalnam]]. Viduslaikos tā bijusi apņemta ar ūdeni no visām pusēm un apaugusi ar ozoliem, saliņas vidū reiz zaļojis svētozols ar dievu tēliem.<ref>[http://www.kulturaskarte.lv/lv/kulturvesturiska-vieta/elku-salina- Kultūras karte]</ref>
+* [[Valmieras skolotāju seminārs|Valmieras skolotāju semināra]] ēka (arhitekts [[Aleksejs Kīzelbašs]]).<ref>{{Tīmekļa atsauce|url=http://vvg.edu.lv/index.php/par-skolu/skolas-vesture/254-valmieras-skolotaju-seminara-vesture|title=VVĢ vēsture|access-date={{dat|2013|11|27||bez}}|archiveurl=https://web.archive.org/web/20121105201745/http://vvg.edu.lv/index.php/par-skolu/skolas-vesture/254-valmieras-skolotaju-seminara-vesture|archivedate={{dat|2012|11|05||bez}}}}</ref>
+
+'''Seni pilsētas skati no [[J. K. Broce]]s zīmējumu krājuma'''<gallery>
+Attēls:BM06028Am.jpg|Gaujas pārceltuve pie Valmieras 1795. gadā 
+Attēls:View of Valmiera by Johans Kristofs Broce in 1791.jpg|Apriņķa pilsētas Valmieras panorāma 1791. gadā 
+Attēls:BM08159Am.jpg|Valmiera no ziemeļu puses 1799. gadā 
+Attēls:View of Valmiera by Johans Kristofs Broce in 1799 (2).jpg|Valmiera no ziemeļu puses 1799. gadā 
+Attēls:View of Valmiera by Johans Kristofs Broce in 1797.jpg|Valmiera no Gaujas puses 1797. gadā 
+</gallery>
+== Ģeogrāfija ==
+
+=== Fiziskā ģeogrāfija ===
+[[Attēls:Gauja near Valmiera 1.jpg|thumb|Gauja pie Valmieras]]
+Valmiera ģeogrāfiski atrodas Vidzemes ziemeļu daļā dabas ainavu un reljefa apvidu pārejas krustpunktā. No Valmieras sākas [[Gaujas senieleja|Gaujas senleja]], aiz pilsētas robežām, no [[Jumara]]s ietekas - arī [[Gaujas nacionālais parks]]. Gar Gauju no ziemeļaustrumiem iesniedzas Sedas līdzenuma atzars, kas šķir divas citas [[Tālavas zemiene]]s daļas: uz ziemeļiem no Valmieras ir Burtnieka līdzenums, uz austrumiem - Trikātas pacēlums. Gaujas līmenis ir zemāks par 30 m vjl., augstākās vietās pilsētā ir 56–59 m virs jūras līmeņa.<ref name=":0">{{Grāmatas atsauce|title=Enciclopēdija Latvijas Pilsētas|publisher=Apgāds "Preses Nams"|date=1999|location=Rīga|isbn=978-9984-00-357-3}}</ref>
+
+Valmieras pilsētas hidrogrāfisko tīklu veido gan dabiskas izcelsmes ūdensteces un ūdenstilpes, gan mākslīgi veidoti dīķi un grāvji. Kopumā zeme zem ūdeņiem pilsētā aizņem 5% no Valmieras pilsētas teritorijas. Valmieras pilsētas teritoriju uz pusēm sadala [[Gauja]]s upe. Tās kopgarums pilsētas teritorijas robežās sasniedz 8 km. Pilsētas robežās Gaujai ir trīs pietekas: [[Ģīmes upe|Ģīmes upīte]], [[Rātsupīte|Rātes upīte]], Kaugurmuižas strauts un [[Gaides upīte]].<ref name=":1">{{Tīmekļa atsauce|url=https://www.valmierasnovads.lv/content/uploads/2022/08/Vides_parskats.pdf|title=VALMIERAS PILSĒTAS TERITORIJAS PLĀNOJUMS. VIDES PĀRSKATS|date=2016}}</ref> Pārgaujā ir atteku ezeriņi, mežu nogabali (Kauguru vēris, Pauku priedes). Pie Dīvalina meža labajā krastā Gauja veido līkumu un Kazu krāces.<ref name=":0" />
+
+=== Politiskā ģeogrāfija ===
+[[Attēls:Valmiera City Council - 1.jpg|thumb|Valmieras pašvaldība]]
+Valmiera atrodas [[Vidzemes plānošanas reģions|Vidzemes plānošanas reģionā]]. Tā ir Vidzemes lielākā pilsēta pēc iedzīvotāju skaita un astotā lielākā pilsēta Latvijā pēc platības. Tā atrodas 107 km attālumā no Rīgas un 50 km attālumā no Igaunijas robežas.<ref name=":1" /> Valmiera ziemeļos un ziemeļaustrumos robežojas ar [[Valmieras pagasts|Valmieras pagastu]], rietumos ar [[Kocēnu pagasts|Kocēnu pagastu]] un dienvidos un austrumos ar [[Kauguru pagasts|Kauguru pagastu]]. Valmieras vēsturiskais centrs un teritorijas viena daļa atrodas Gaujas vidusteces labajā krastā, gandrīz tikpat liela, vēlāk un mazāk apbūvēta teritorija ir kreisajā krastā. Pilsētas platība mainījusies galvenokārt Pārgaujā, aiz dzelzceļa, paplašināta rūpniecības un zaļā zona, individuālās apbūves rajoni. Pilsētu no trim pusēm apņem apvedceļš, autoceļi sazaroti 12 virzienos.<ref name=":0" />  2020. gadā Valmieras pašvaldība noteica pilsētas teritoriālo dalījumu un ir otrā Latvijas pašvaldība aiz Rīgas, kas ir publicējusi apkaimju jeb iekšpilsētas teritoriju robežas.<ref>{{Tīmekļa atsauce|url=https://www.valmieraszinas.lv/valmiera-sadarbiba-ar-csp-publicejusi-pilsetas-apkaimju-robezas/|title=Valmiera sadarbībā ar CSP publicējusi pilsētas apkaimju robežas|last=Redaktors|website=Valmieras Ziņas|access-date=2023-08-02|date=2020-08-07|language=lv-LV}}</ref>
+
+=== Klimats ===
+Klimats Gaujas ietekmē ir samērā vēss un mitrs. Veģetācijas periods ilgst 130 dienas. Vidējais sniega periods ir 105 dienas. Sniega segas vidējais ir biezums 25 cm. Maksimālais sniega segas biezums ir 43 cm. Vidējais grunts sasalums ir līdz 70 cm, maksimālais – 120 cm. Migla novērojama līdz 36 dienām gadā. Vidēji 22 dienas gadā puteņo, pērkons novērots vidēji 20 dienas gadā. Valdošie vēji - dienvidu, dienvidrietumu vēji.<ref name=":1" />
+
+{{Weather box|location=Valmieras|width=100%|single line=Yes|metric first=Yes|Jan high C=-2.6|Feb high C=-2.2|Mar high C=2.6|Apr high C=10.5|May high C=16.2|Jun high C=19.5|Jul high C=22.2|Aug high C=20.8|Sep high C=16.1|Oct high C=9.1|Nov high C=4|Dec high C=0.3|Jan mean C=-4.6|Feb mean C=-4.7|Mar mean C=-0.9|Apr mean C=6.1|May mean C=11.8|Jun mean C=15.6|Jul mean C=18.5|Aug mean C=17.2|Sep mean C=12.6|Oct mean C=6.5|Nov mean C=2.3|Dec mean C=.1.4|Jan low C=-7.1|Feb low C=-7.6|Mar low C=-4.7|Apr low C=1.1|May low C=6.4|Jun low C=10.7|Jul low C=14|Aug low C=13.1|Sep low C=9.2|Oct low C=3.9|Nov low C=0.4|Dec low C=-3.4|precipitation colour=green|Jan precipitation mm=56|Feb precipitation mm=45|Mar precipitation mm=45|Apr precipitation mm=45|May precipitation mm=58|Jun precipitation mm=79|Jul precipitation mm=74|Aug precipitation mm=78|Sep precipitation mm=58|Oct precipitation mm=67|Nov precipitation mm=60|Dec precipitation mm=52|Jan precipitation days=9|Feb precipitation days=8|Mar precipitation days=8|Apr precipitation days=7|May precipitation days=8|Jun precipitation days=9|Jul precipitation days=10|Aug precipitation days=10|Sep precipitation days=8|Oct precipitation days=9|Nov precipitation days=9|Dec precipitation days=9|Jan humidity=86|Feb humidity=85|Mar humidity=80|Apr humidity=70|May humidity=67|Jun humidity=70|Jul humidity=74|Aug humidity=75|Sep humidity=79|Oct humidity=83|Nov humidity=87|Dec humidity=86|source 1=climate-data.org<ref name = HKO>{{tīmekļa atsauce
+| url = https://en.climate-data.org/europe/latvia/vidzeme/valmiera-383/table
+| title = VALMIERA CLIMATE
+| access-date = 2 August 2023
+}}{{Novecojusi saite}}</ref>}}
+
+== Demogrāfija ==
+{{iedzīvotāju skaita izmaiņas
+| title= Iedzīvotāju skaita izmaiņas
+| width = 60%
+|state       = 
+|shading     = 
+|percentages = on
+|break       = jā
+|footnote    = Avots:<ref>Enciklopēdija "Latvijas pilsētas". Rīga 1999.</ref><ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+| cols = 3
+|1800|600
+|1840|900
+|1863|1100
+|1881|2500
+|1897|5050
+|1914|5200
+|1920|6946
+|1925|8141
+|1930|7700
+|1935|8482
+|1939|8300
+|1943|9225
+|1959|11589
+|1970|20331
+|1979|25584
+|1989|29457
+|2000|27752
+|2011|25130
+|2021|22971
+}}
+{| class="wikitable collapsible" style="font-size:95%; border:0; line-height:175%;"
+|- style="background:#ccc;"
+| colspan="19" style="text-align:center; "| '''Iedzīvotāju etniskais sastāvs Valmierā 2020. gadā.<ref>[https://data.csb.gov.lv/pxweb/lv/iedz/iedz__iedzrakst/IRG080.px/table/tableViewLayout1/ Iedzīvotāju skaits pašvaldībās pēc nacionālā sastāva. Centrālās statistikas pārvaldes datubāzes dati 2020. gada 30. novembrī.]</ref>'''
+| rowspan="9" |{{#invoke:chart|pie chart
+|radius= 100
+|units suffix = 
+| slice 1 = 19582 : Latvieši : green
+| slice 2 = 2340 : Krievi : red
+| slice 3 = 364 : Baltkrievi : yellow
+| slice 4 = 195 : Ukraiņi : aqua
+| slice 5 = 186 : Poļi : orange
+| slice 6 = 383 : Cita un neizvēlēta : black
+|hide group legends=yes
+| percent = true
+}}
+kopā 23 050
+{{legend|green|Latvieši}}
+{{legend|red|Krievi}}
+{{legend|yellow|Baltkrievi}}
+{{legend|aqua|Ukraiņi}}
+{{legend|orange|Poļi}}
+{{legend|black|Cita un neizvēlēta}}
+|-
+!  style="background:#efefef; width:130px;"| Tautība
+!  style="background:#efefef; width:80px;"| Procenti
+!  style="background:#efefef; width:80px;"| Iedz. skaits
+|-
+| [[Latvieši]]
+| style="text-align:center;"| 85,0%
+| style="text-align:center;" | 19 582
+|-
+| [[Latvijas krievi|Krievi]]
+| style="text-align:center;"| 10,2%
+| style="text-align:center;" | 2 340
+|-
+| [[Latvijas baltkrievi|Baltkrievi]]
+| style="text-align:center;"| 1,6%
+| style="text-align:center;" | 364
+|-
+| [[Ukraiņi]]
+| style="text-align:center;"| 0,8%
+| style="text-align:center;" | 195
+|-
+| [[Latvijas poļi|Poļi]]
+| style="text-align:center;"| 0,8%
+| style="text-align:center;" | 186
+|-
+| Cita vai neizvēlēta
+| style="text-align:center;"| 1,6%
+| style="text-align:center;" | 383
+|}
+
+== Izglītība ==
+[[Attēls:Valmieras Valsts gimnazija kreisa puse 2014-12-27.jpg|250px|thumbnail|right|Valmieras Valsts ģimnāzija]]
+Jau 1738. gadā [[Valmiermuiža|Valmiermuižā]] atvēra [[brāļu draudzes|brāļu draudžu]] skolotāju semināru, bet Valmierā palīgmācītāju diakonātu. 1839. gadā Valmierā nodibināja [[Vidzemes draudžu skolotāju seminārs|Vidzemes draudžu skolotāju semināru]], kas 1902. gadā tika pārveidots par Valmieras skolotāju semināru.
+1996. gadā Valmierā izveidoja [[Vidzemes Augstskola|Vidzemes Augstskolu]], kur iespējams iegūt bakalaura, maģistra un doktora grādu piecās fakultātēs: Tūrisma vadības un viesmīlības, Politoloģijas, Biznesa vadības un ekonomikas, Inženierzinātņu un Sociālo zinātņu fakultātē. Vidzemes Augstskolai ir īpaša loma reģionālās attīstības veicināšanā — augstskola attīstās kā inovatīvs reģionāls akadēmiskās un profesionālās augstākās izglītības un pētniecības centrs. Vidzemes Augstskolā darbojas Valodu studiju un eksaminācijas centrs, Vidzemes Mūžizglītības centrs un Sociotehnisku sistēmu inženierijas institūts.
+
+Valmierā ir 7 vispārējās izglītības skolas, kas ir Valmieras pilsētas pašvaldības dibinātas ([[Valmieras sākumskola]], [[Valmieras Pārgaujas sākumskola]], [[Valmieras Valsts ģimnāzija]], [[Valmieras Pārgaujas Valsts ģimnāzija]], [[Valmieras 5. vidusskola]], [[Valmieras 2. vidusskola]], [[Valmieras Viestura vidusskola]]).
+
+Valmierā ir viena speciālās izglītības skola ([[Valmieras Gaujas krasta vidusskola – attīstības centrs|Valmieras Gaujas krasta vidusskola — attīstības centrs]]).
+
+Valmierā darbojas arī divas privātās skolas (Zaļā skola un pamatskola "Universum").<ref>[http://www.zalaskola.lv/ Zaļā skola]</ref><ref>{{Tīmekļa atsauce |url=https://www.universum.school/ |title=pamatskola "Universum" |access-date={{dat|2020|03|24||bez}} |archive-date={{dat|2020|03|24||bez}} |archive-url=https://web.archive.org/web/20200324075720/https://www.universum.school/ }}</ref>
+
+Ir vairākas interešu un profesionālās ievirzes izglītības iestādes:
+
+* [[Valmieras Mūzikas skola]] — dibināta jau [[1920]]. gada novembrī. Pirmā direktore un skolas dibinātāja bija [[Anna Ķirpīte]], kura strādāja skolā no [[1920]]. līdz [[1922]]. gada janvārim. Skolas ēka toreiz atrodas Ziloņu ielā, bet Otrā pasaules kara beigās skola pilnībā nodega. Pēc tam mācības notika dažādās vietās, arī pedagogu mājās. No [[1947]]. gada mūzikas skola ieguva telpas K.Baumaņa ielā. Pieaugot audzēkņu skaitam, skola tika paplašināta un ieguva telpas mācībām vēl divās ēkās: Beātes ielā 10 un Beātes ielā 12. 2013. gada 14. decembrī svinīgi tika atklāta Valmieras Mūzikas skolas jaunā ēka Pilskalna ielā 3.<ref>[https://www.delfi.lv/novados/valmiera/zinas/svinigi-atklata-valmieras-muzikas-skolas-jauna-eka.d?id=43901052 Delfi: Svinīgi atklāta Valmieras Mūzikas skolas jaunā ēka]</ref> Skolas uzdevumi ir nodrošināt iespēju iegūt profesionālās ievirzes izglītības pamatzināšanas un prasmes mūzikā, kā arī sagatavot izglītojamos mūzikas profesionālās vidējās izglītības programmu apguvei. Skola īsteno šādas licencētas profesionālās ievirzes izglītības programmas: vokālā mūzika, taustiņinstrumentu spēle, sitaminstrumentu spēle un stīgu instrumentu spēle.<ref>[https://vms.valmiera.lv/category/izglitibas-programmas/ VMS izglītības programmas]</ref>
+* [[Valmieras Dizaina un mākslas vidusskola]] — skolā tiek īstenotas gan profesionālās ievirzes, gan profesionālās izglītības, gan interešu izglītības programmas. Skola piedāvā apgūt šādas profesionālās vidējās izglītības četru gadu programmas: interjera dizains, reklāmas dizains, multimediju dizains un apģērbu dizains (uzņem izglītojamos ar iegūtu pamatizglītību), savukārt divu gadu programmās: interjera dizains, apģērbu dizains, foto dizains un metāla izstrādājumu dizains (uzņem izglītojamos ar iegūtu vidējo izglītību).<ref>[https://www.vdmv.lv/vidusskola VDM Vidusskola]</ref>
+* [[Valmieras Jaunatnes centrs "Vinda"]] — centra pirmsākumi meklējami jau padomju laikā, kad Valmierā Vecpuišu parkā tika dibināts Pionieru nams. [[1996]]. gadā iestāde tika reorganizēta par Valmieras Skolēnu namu, bet jau [[1998]]. gadā tā iegūst jaunu nosaukumu — Valmieras Bērnu un Jauniešu interešu centrs. Pēc gada — [[1999]]. gada 1. oktobrī iestāde tiek nodēvēta par Valmieras Jaunatnes centru “Vinda". Centra pastāvēšanas gados tam bijuši 10 direktori. Kopš 2015. gada Valmieras Jaunatnes centru "Vinda" vada Sanita Loze.<ref>{{Tīmekļa atsauce |url=https://www.valmiera.lv/lv/jaunumi/izglitibas_zinas/12108_par_valmieras_jaunatnes_centra_vinda_direktori_iecelta_sanita_loze |title=Par Valmieras Jaunatnes centra “Vinda” direktori iecelta Sanita Loze |access-date={{dat|2020|03|24||bez}} |archive-date={{dat|2020|03|24||bez}} |archive-url=https://web.archive.org/web/20200324161824/https://www.valmiera.lv/lv/jaunumi/izglitibas_zinas/12108_par_valmieras_jaunatnes_centra_vinda_direktori_iecelta_sanita_loze }}</ref> Centrs dod iespēju bērniem un jauniešiem izkopt intereses mākslinieciskajā pašdarbībā un netradicionālajos sporta veidos, veicina profesijas izvēli, brīvā laika saturīgu un lietderīgu pavadīšanu.<ref>{{Tīmekļa atsauce|url=https://vinda.valmiera.lv/|title=Valmieras Jaunatnes centrs "Vinda"|last=|first=|access-date={{dat|2009|02|19||bez}}|date=|archiveurl=https://web.archive.org/web/20090313070957/http://www.vjcvinda.lv/public/par_mums/|archivedate={{dat|2009|03|13||bez}}}}</ref>
+* [[Valmieras Bērnu sporta skola]] — īsteno šādas profesionālās ievirzes sporta izglītības programmas: peldēšanu, vieglatlētiku, hokeju, basketbolu, orientēšanās sportu un futbolu.
+* [[Valmieras tehnikums]] — izglītības iestāde, kas sadarbojas ar darba devējiem un nozaru profesionāļiem. Izglītības iestāde pēc darba devēju pieprasījuma izstrādā papildu izglītības programmas un kursus. Studiju virzieni: telemehānika un loģistika, mehānika un metālapstrāde, informācijas tehnoloģijas, pārtikas produktu ražošana, viesnīcu, restorānu un ēdināšanas pakalpojumi, grāmatvedība, klientu apkalpošana.<ref>{{Tīmekļa atsauce|url=https://www.valmierastehnikums.lv/lv/par-mums/mes-agrak-un-tagad.html|title=Valmieras tehnikums|last=|first=|access-date=|date=|archive-date={{dat|2020|03|25||bez}}|archive-url=https://web.archive.org/web/20200325070643/https://www.valmierastehnikums.lv/lv/par-mums/mes-agrak-un-tagad.html}}</ref>
+
+=== Statistika 2019./2020. gadā ===
+* Bērnu skaits pirmskolas izglītības iestādēs — 1625
+* Skolēnu skaits vispārējās izglītības iestādēs — 4084
+* Studējošo skaits [[Vidzemes Augstskola|Vidzemes Augstskolā]] — 715
+
+== Kultūra ==
+[[Attēls:Valmieras teātris.jpg|thumb|Valmieras teātris]]
+[[Valmieras Kultūras centrs]] dibināts 1966. gadā kā Valmieras rajona kultūras nams, no 1989. gada — Valmieras pilsētas kultūras nams, bet no 2004. gada — Valmieras Kultūras centrs. Pirmā tā direktore bija [[Inta Rasa]]. Sekojošie tā vadītāji bija Balfurs Ferbers, Visvaldis Tilibs, Antonija Šmite, Valts Bermaks, Ieva Gaide, Dzidra Grase, Pēteris Dundurs un [[Vaira Dundure]].<ref>[http://www.valmiera.lv/index.php?option=com_content&task=view&id=1860&Itemid=421 www.valmiera.lv]</ref> Pašlaik Valmieras Kultūras centru vada [[Toms Upners]].
+
+Citas pilsētā nozīmīgas kultūras iestādes ir [[Valmieras Drāmas teātris]], [[Valmieras integrētā bibliotēka]], [[Valmieras muzejs]], [[Laipa (mākslas galerija)|mākslas "Galerija Laipa"]] un [[Gaisma (kinoteātris)|kinoteātris "Gaisma"]]. Klasiskās mūzikas koncerti norisinās arī Sv. Sīmaņa baznīcā un Valmieras 5. vidusskolas zālē. Lieli pasākumi tiek organizēti arī [[Valmieras Olimpiskais centrs|Valmieras Olimpiskajā centrā]], vasarā — brīvdabas pasākumi pilsētas vēsturiskajā centrā un citur pilsētā.
+
+Kultūras pasākumiem un atpūtai iecienīta vieta ir [[Vecpuišu parks]]. Tas atrodas Valmieras pilsētas centrā blakus kinoteātrim "Gaisma". Vecpuišu parks tika ierīkots 20. gadsimta sākumā pēc dr. med. [[Georgs Apinis|Georga Apiņa]] ierosinājuma. Parka ierīkošanai Georgs Apinis nodibināja "Septiņu vecpuišu biedrību’’. 1913. gadā Georgs Apinis un pārējie septiņi līdzīpašnieki nopirka Valmieras pilsētas vidū esošo "Lilijas dārzu", kur arī tapa Vecpuišu parks. Paviljona ēka Vecpuišu parkā tika uzcelta [[1914]]. gadā, pašlaik tajā darbojas koncertzāle "Valmiera". Vecpuišu parku Valmieras pilsētai pilnībā savā īpašumā izdevās iegūt tikai trīsdesmito gadu beigās. [[Pirmais pasaules karš|Pirmā pasaules kara]] laikā paviljona zālē bija izveidota [[lazarete]]. Dažādos laikos Vecpuišu parku dēvēja par ''Kultūras parku'', ''Komjauniešu'' un ''Vidus parku''.
+
+Valmierā darbojas 7 kori, 8 deju kolektīvi, 2 instrumentālie kolektīvi, Vidzemes pūtēju orķestris un vairākas mākslas studijas.
+
+=== Populārākie un pazīstamākie pasākumi, kas regulāri notiek Valmierā ===
+
+* Starptautiskais Ziemas mūzikas festivāls
+* Koru un deju kolektīvu konkursi
+* Valmieras vasaras teātra festivāls
+* Pilsētas svētki
+* Mākslas dienas
+* Simjūda gadatirgus
+* Velo un kino festivāls "Kino Pedālis"
+
+== Sports ==
+[[Attēls:Dalina stadions.jpg|thumb|200x200px|[[Jāņa Daliņa stadions]]]]
+[[Attēls:EČ BMX 2019 .jpg|thumb|200x200px|2019. gada Eiropas [[BMX]] čempionāts [[Māra Štromberga BMX trase|Māra Štromberga BMX trasē]] Valmierā]]
+Kopumā pilsētā ir vairāk nekā 40 sporta organizācijas vairāk kā 30 sporta veidos. Bērnu sporta skolā darbojas vairāk kā 1200 audzēkņu.{{nepieciešama atsauce}}
+
+Liela nozīmē sporta attīstībai Valmierā un apkārtnē ir [[Vidzemes Olimpiskais centrs|Vidzemes Olimpiskajam centram]], kas savu darbību sāka 2005. gadā, ļaujot attīstīt tādus sporta veidus kā [[basketbols]] ([[Valmiera Glass VIA (basketbols)|Valmiera Glass VIA]]), [[volejbols]], [[florbols]] (florbola klubs "Valmiera"),<ref>{{Tīmekļa atsauce |url=http://fbkvalmiera.lv/index.php/lv/ |title=florbola klubs "Valmiera" |access-date={{dat|2020|03|24||bez}} |archive-date={{dat|2020|03|24||bez}} |archive-url=https://web.archive.org/web/20200324065810/http://fbkvalmiera.lv/index.php/lv/ }}</ref> [[hokejs]] un [[futbols]] ([[Valmiera FC]] — [[Latvijas futbola Virslīga|Latvijas Virslīgas]] [[2022. gada Latvijas futbola Virslīgas sezona|2022. gada čempions]]). Iecienīts ir arī [[orientēšanās sports]]. Bez jau pieminētajiem sporta klubiem darbojas vēl daudzi citi sporta klubi, no kuriem nozīmīgākie ir Valmieras [[regbijs|regbija]] klubs "Fēnikss", [[airēšana]]s klubs "Straume", Valmieras Vieglatlētikas klubs, Valmieras pauerliftinga klubs "Spēka Pasaule" (Valmiera ir četras reizes ir izcīnījusi ikgadējā tautas sporta pasākuma "Latvijas Spēcīgākā pilsēta" čempiones titulu), Valmieras [[BMX]] sporta klubs "Tālava". Valmieras BMX sportisti regulāri piedalās starptautiskās sacensībās, šādas sacensības tiek rīkotas arī Valmierā [[Māris Štrombergs|Māra Štromberga]] BMX trasē.<ref>[https://bmxvalmiera.lv/ BMX Valmiera]</ref>
+
+Vieglatlētikai un dažādām sacensībām nozīmīgs ir 1938. gada 31. jūlijā atklātais [[Jāņa Daliņa stadions]], kas 1988. gadā pārsaukts par godu valmierietim un soļotājam [[Jānis Daliņš|Jānim Daliņam]],<ref>{{Tīmekļa atsauce |author=Viesturs Sprūde |title= 1938. gada 31. jūlijā. Valmierai savs stadions |date= 2018. gada 31. jūlijs |newspaper= [[Latvijas Avīze]] |url= https://www.la.lv/1938-gada-31-julija-valmierai-savs-stadions |accessdate= 2020. gada 24. martā}}</ref> kurš [[1932. gada vasaras olimpiskās spēles|1932. gada vasaras olimpiskajās spēlēs]] Losandželosā ieguva pirmo olimpisko medaļu Latvijai. Pilsētā ir arī skriešanas un nūjošanas trases. Airēšanas treniņi un sacensības notiek airēšanas trasē "Kazu krāces"<ref>{{Tīmekļa atsauce |url=http://airesanasslaloms.lv/trases.php |title=Informācija par airēšanas trasēm Latvijā |access-date={{dat|2014|10|31||bez}} |archiveurl=https://web.archive.org/web/20140809084848/http://airesanasslaloms.lv/trases.php |archivedate={{dat|2014|08|09||bez}} }}</ref> jeb "Krācītes".<ref>{{Tīmekļa atsauce |url=http://www.vieglicelot.lv/lv/object/airesanas-trasekracites.htm |title=Informācija par trasi ''Krācītes''. |access-date={{dat|2014|10|31||bez}} |archive-date={{dat|2019|08|14||bez}} |archive-url=https://web.archive.org/web/20190814102809/http://www.vieglicelot.lv/lv/object/airesanas-trasekracites.htm }}</ref>
+
+2018. gada 2. oktobrī darbu uzsāka jaunais Valmieras peldbaseins.<ref>[https://www.valmieraspeldbaseins.lv/ Valmieras peldbaseins]</ref>
+
+=== Olimpisko spēļu dalībnieki no Valmieras ===
+* [[Jolanta Dukure]]
+* [[Oskars Ķibermanis]]
+* [[Ivo Lakučs]]
+* [[Oskars Melbārdis]] — olimpiskais čempions
+* [[Arnis Rumbenieks]]
+* [[Māris Štrombergs]] — divkārtējais olimpiskais čempions
+* [[Edžus Treimanis]]
+* [[Rihards Veide]]
+
+=== Regulāri sporta pasākumi Valmierā ===
+* Vidzemes Olimpiskā skrējēju diena
+* Valmieras maratons
+* [[Latvijas valsts mežu Kalnu Divriteņu maratons]]
+* Skrējiensoļojums "Rīga-Valmiera"<ref>[https://ultrataka.lv/ Skrējiensoļojums "Rīga-Valmiera"]</ref>
+* Valsts Prezidenta balvas izcīņa [[vieglatlētika|vieglatlētikā]]
+* Latvijas un starptautisko čempionātu basketbola spēles
+* Florbola turnīrs "Latvian Open"
+* Eiropas čempionāta kvalifikācijas spēles handbolā vīriešiem
+* Starptautiskā BMX čempionāta posms
+
+=== Lieli vienreizēji sporta notikumi Valmierā ===
+* 2011. gada [[FIBA]] Pasaules čempionāta basketbolā apakšgrupu spēles U-19 juniorēm
+* 2014. gada [[Deivisa kauss|Deivisa kausa]] izcīņas spēles tenisā
+* 2018. gada IFF Pasaules čempionāta kvalifikācijas turnīrs florbolā vīriešiem
+* 2019. gada UEC Eiropas čempionāts BMX riteņbraukšanā<ref>*[https://www.eurobmx2019.eu/lv/ 2019. gada UEC Eiropas čempionāts BMX riteņbraukšanā] {{Webarchive|url=https://web.archive.org/web/20190629154644/https://www.eurobmx2019.eu/lv/ |date={{dat|2019|06|29||bez}} }}</ref>
+
+== Ekonomika ==
+
+2020. gadā Valmiera bija 2. vietā aiz [[Rīga]]s ekonomiski aktīvo uzņēmumu skaita uz 1000 iedzīvotājiem ziņā. Valmiera ir izteikta rūpniecības pilsēta, to pierāda arī dati, ka rūpniecībā nodarbināti 27,9% no visiem pilsētā reģistrētajos uzņēmumos nodarbinātajiem. Attīstīta ir arī tirdzniecība, kas veido 20,2% no visiem pilsētā esošajiem uzņēmumiem, šajā nozarē strādājošo skaits ir 16%. Nemainīgi augsts ir pakalpojumu nozarē esošais uzņēmumu skaits, kurā reģistrēti 26% uzņēmumu un nodarbināti 14,5% strādājošo. Par sabalansētu attīstību savukārt liecina kultūras, izglītības, veselības un sporta nozares uzņēmumu īpatsvars, kas sastāda 9,8% no reģistrēto uzņēmumu skaita un 13,3% no nodarbināto skaita.{{nepieciešama atsauce}}
+
+Valmierā ir vairāki lieli ražošanas un rūpniecības uzņēmumi, kas ražo mēbeles, piena produktus, ugunsdzēšamos aparātus un un citus metālizstrādājumus, stikla šķiedru un saistītas lietas, rūpniecisko un medicīnisko gāzi, veic kokapstrādi.
+
+Ar tirdzniecību pārsvarā nodarbojas vietējie uzņēmumi, bet dažos pēdējos gados ienākušas arī Latvijas un ārvalstu tirdzniecības ķēdes.
+
+Valmierā darbojas 44 ārvalstu tiešo investīciju uzņēmumi, kas kopā veido 10% no pilsētas kopējā darbaspēka, 26% no kopējā pilsētas uzņēmumu apgrozījuma un pilsētai ir piesaistījuši ārvalstu investīcijas no Vācijas, ASV, Itālijas, Polijas, Krievijas, Zviedrijas, Igaunijas, Somijas, Lielbritānijas, Lietuvas, Dānijas, Kipras, Beļģijas un Indijas.
+
+Bezdarba līmenis 2019. gada beigās pilsētā bija 3,2%. Lielākie darba devēji: Valmieras pašvaldība (ieskaitot arī izglītības iestādes), AS "Valmieras stikla šķiedra", SIA "VALPRO", SIA "Woltec", SIA "Vidzemes slimnīca".{{nepieciešama atsauce}}
+
+Valmieras pilsētai ir 10 oficiālas sadraudzības pilsētas un reģioni:
+{| class="wikitable"
+|- valign="top"
+|
+* {{flagicon|GER}} [[Halle]] (1994)
+* {{flagicon|DEN}} [[Hojes-Тоstrupas komūna]] (''Høje-Taastrup'') (1995)
+* {{flagicon|Zviedrija}} [[Solna|Solnas komūna]] (1991)
+* {{flagicon|GER}} [[Giterslo apriņķis]] (1994)
+* {{flagicon|EST}} [[Viljandi]] (1992)
+||
+* {{flagicon|Polija}} [[Zduņska Voļa]] (''Zduńska Wola'') (2002)
+* {{flagicon|RUS}} [[Pleskava]] (2001)
+* {{flagicon|BLR}} [[Barisava]] (2010)
+* {{flagicon|AZE}} [[Sijezena]] (2014)
+* {{flagicon|ITA}} [[Vallefoļjī komūna]] (2016)
+|}
+
+== Tūrisms ==
+Valmierā un tuvākajā apkaimē atrodas gan dabas, gan vēsturiski, kultūras un arhitektūras pieminekļi, tiek organizēti daudzveidīgi pasākumi. Pilsētā nav viena izteikta tūristu piesaistes veida, taču tas netraucē pilsētā attīstīties darījumu, gardēžu, kultūras pasākumu un sporta tūrismam. Populārākie tūrisma objekti Valmierā ir
+
+* '''Valmieras vecpilsēta''';
+* [[Valmieras Svētā Sīmaņa baznīca]] — pilsētas centrā esošā vērienīgā izmēra būve ir Valmieras vēsturiskais simbols, kas celta 1283. vai 1284. gadā;
+* [[Valmieras Livonijas ordeņa pils|Livonijas ordeņa pilsdrupas]] un [[Valmieras muzejs]] — liecība par Valmieras kā viduslaiku pilsētas nozīmību. Valmieras pilsdrupu teritorijas vidū atrodas Valmieras muzeja ēkas, kurās apskatāmas pastāvīgās ekspozīcijas par Valmieru un tās novada vēsturi, kā arī mainīgas tematiskās izstādes;
+* [[Valmieras Drāmas teātris]] un mākslas "Galerija Laipa";
+* [[Gaujas stāvie krasti|Gaujas Stāvo krastu]] Sajūtu parks — gada siltākajos mēnešos iespējams doties pa 2 kilometrus garo Baskāju taku, kas veidota no dažādiem dabas un veiklības elementiem, vai pa kokos izveidotu taku un laisties pāri Gaujai trošu pārbraucienos;
+* '''Gaujas tramvajs''' — vasarā kursē noteiktos laikos, gida pavadībā ļaujot iepazīt ievērojamākos Valmieras apskates objektus skatā no upes. Viena brauciena ilgums ir 45 minūtes;
+* '''Ģīmes dabas taka''' — vides izglītības objekts Valmierā.<ref>[https://www.valmieraszinas.lv/valmiera-atklata-gimes-dabas-taka/ Valmierā atklāta Ģīmes dabas taka]</ref> Ģīmes upes un dzirnavu dīķa krastos ir izvietoti informācijas stendi ar interaktīviem elementiem un uzskates materiāliem par takas trīs pamatelementiem — ūdeni, zemi un gaisu;<ref>{{Tīmekļa atsauce |url=http://www.visit.valmiera.lv/lv/ko_redzet_un_darit/5965_gimes__dabas_taka/ |title=Ģīmes dabas taka |access-date={{dat|2020|03|24||bez}} |archive-date={{dat|2020|03|24||bez}} |archive-url=https://web.archive.org/web/20200324161826/http://www.visit.valmiera.lv/lv/ko_redzet_un_darit/5965_gimes__dabas_taka/ }}</ref>
+* '''Dzelzs tilts''' — šaursliežu dzelzceļa līnijas [[Dzelzceļa līnija Ainaži—Valmiera—Smiltene|Ainaži—Valmiera—Smiltene]] tilts, kas būvēts 1912. gadā. Brauciens no Valmieras līdz Ainažiem ar "bānīti" ilga 4 stundas. Pasažieru līnija tika slēgta agrāk, bet kravas pārvadājumus izbeidza 1979. gadā. Dzelzs tiltu mūsdienās izmanto kājāmgājēji un velosipēdisti;
+* ziemā — '''slēpošanas centrs "Baiļi"''' [[Beverīnas novads|Beverīnas novada]] teritorijā;
+* [[Vidzemes Olimpiskais centrs]].
+
+Galvenās valstis, no kurām ārvalstu tūristi ieceļo Valmierā, ir [[Igaunija]], [[Vācija]], [[Somija]] un [[Krievija]]. Liela daļa apmeklētāju pilsētā ierodas arī biznesa darīšanās.
+
+Valmiera tiek saukta par [[Gaujas Nacionālais parks|Gaujas Nacionālā parka]] ziemeļu vārtiem, un izveidoti dažādi maršruti aktīvās atpūtas cienītājiem pa Valmieru un apkārtni, kurus iespējams veikt gan ar velosipēdu, gan kājām. Ziemā tiek atklāti slēpošanas maršruti. Pa Gauju notiek laivošana, kurai Valmiera bieži ir sākumpunkts. Gaujas Kazu krācēs Valmierā ir labiekārtotākā airēšanas slaloma trase Baltijā.<ref>{{Tīmekļa atsauce |url=http://edruva.lv/parvarot-gaujas-kraces-un-sevi/ |title=Pārvarot Gaujas krāces un sevi |access-date={{dat|2019|05|21||bez}} |archive-date={{dat|2018|08|15||bez}} |archive-url=https://web.archive.org/web/20180815034017/http://edruva.lv/parvarot-gaujas-kraces-un-sevi/ }}</ref>
+
+Vasaras tūrisma sezonā pilsēta un apkārtējie novadi organizē kopīgu velo-kino festivālu "Kino pedālis", kurš pulcē velobraukšanas entuziastus, kuri festivāla laikā veic velo maršrutus un brīvdabā skatās ar velosipēdiem saistītas dokumentālās filmas.
+
+== Attēlu galerija ==
+<gallery>
+Attēls:Bridge over Gauja river.JPG|Tilts pār Gauju
+Attēls:Rigas Iela, summer 2013.JPG|Rīgas iela
+Attēls:Valmiera muuseum.JPG|Valmieras muzejs
+Attēls:Valmiera Old Pharmacy in Castle ruins.JPG|Valmieras pilsdrupas
+Attēls:Valmiera railway station 2.JPG|Valmieras dzelzceļa stacija
+Attēls:Valmiera Sv Simana baznica.jpg|Sv. Sīmaņa baznīca
+</gallery>
+
+== Reliģija ==
+Valmierā ir trīs tradicionālo konfesiju dievnami:
+* [[Valmieras Svētā Sīmaņa baznīca]] (luterāņu draudze)
+* [[Valmieras Romas Katoļu Jaunavas Marijas Debesīs Uzņemšanas draudzes baznīca]]
+* [[Valmieras Sv. Radoņežas Sergija pareizticīgo baznīca]]
+
+== Interesanti fakti ==
+Valmiera ir pirmā pilsēta Latvijā, kas īstenoja ugunsdrošības plānus.{{fact}} Pirmie pieminējumi datēti ar 1673. gadu, zviedru grāfa Karla Ūksenšernas valdības laikā tika izstrādāti ugunsgrēku dzēšanas noteikumi.<ref>{{Tīmekļa atsauce|url=https://www.muzejs.vugd.gov.lv/lv/media/69/download|title=Valsts ugunsdzēsības un glābšanas dienesta Vidzemes reģiona brigādes Valmieras daļas VĒSTURES FORMULĀRS}}</ref>
+
+== Ievērojamas personības ==
+
+Valmierā dzimuši:
+
+* [[Johans Heinrihs Rozenplenters]] (''Johann Heinrich Rosenplänter'', 1798—1846), [[Vācbaltieši|vācbaltiešu]]/[[Igaunija|igauņu]] literāts;
+* [[Johans Eduards Erdmanis]] (''Johann Eduard Erdmann'', 1805—1892), filozofs;
+* [[Jūlijs fon Ekards]] (''Julius Albert Wilhelm von Eckardt'', 1836—1908), žurnālists un diplomāts;
+* [[Georgs fon Petersens]] (''Georg von Petersenn'', 1849—1930), mūzikas teorētiķis;
+* [[Jāzeps Vītols]] (1863—1948), komponists;
+* [[Jānis Daliņš]] (1904—1978), soļotājs;
+* [[Aleksis Dreimanis]] (1914-2011), Kanādas latviešu ģeologs;
+* [[Andrejs Kampe]] (1905—1942), diplomāts;
+* [[Ruta Birgere]] (1924—2019), aktrise;
+* [[Visvaldis Lācis]] (1924—2020), politiķis un publicists;
+* [[Mihails Gruzdovs]] (1953), režisors;
+* [[Velta Rūķe-Draviņa]] (1917—2003), valodniece un folkloriste;
+* [[Andris Piebalgs]] (1957), politiķis;
+* [[Kristaps Streičs]] (1972—1994), ķīniešu cīņas mākslu speciālists;
+* [[Ģirts Ķesteris]] (1964), aktieris;
+* [[Liene Šomase]] (1986), dziedātāja un mūziķe;
+* [[Māris Štrombergs]] (1987), BMX riteņbraucējs;
+* [[Oskars Melbārdis]] (1988), bobslejists;
+* [[Oskars Ķibermanis]] (1993), bobslejists.
+* [[Francis Balodis]] (1882—1947), arheologs un eģiptologs; arheoloģijas zinātnes pamatlicējs Latvijā;
+
+== Atsauces ==
+{{atsauces|2}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.valmiera.lv Pilsētas oficiālā mājaslapa]
+* [http://visit.valmiera.lv Valmieras un Valmieras apkārtnes oficiālā tūrisma mājaslapa]
+* [http://www.valmiera24.lv Pilsētas interneta portāls]
+* [http://www.vietas.lv/index.php?p=11&id=8107 Valmiera Latvijas ceļvedī]
+
+{{Valmieras novads}}
+{{Latvijas administratīvais iedalījums}}
+{{Latvijas pilsētas}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Valmieras rajons}}
+{{Valmieras apriņķis}}
+}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Hanzas pilsētas]]
+[[Kategorija:Vidzeme]]
+[[Kategorija:Valmiera| ]]

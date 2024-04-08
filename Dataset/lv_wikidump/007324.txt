@@ -1,0 +1,122 @@
+{{Latvijas novada infokaste
+| nosaukums         = Annas pagasts
+| karte             = Annas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Alūksnes novads
+| centrs2           = [[Anna (ciems)|Anna]]
+| platība           = 52,61
+| iedzīvotāji       = 463<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2017|06|25||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 463 / 52.61 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Annenhof<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Анненская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Annas pagasts''' ir viena no [[Alūksnes novads|Alūksnes novada]] administratīvajām teritorijām tā dienvidos. Robežojas ar sava novada [[Alsviķu pagasts|Alsviķu]], [[Jaunalūksnes pagasts|Jaunalūksnes]], [[Malienas pagasts|Malienas]], [[Jaunannas pagasts|Jaunannas]] un [[Kalncempju pagasts|Kalncempju]] pagastiem, kā arī [[Gulbenes novads|Gulbenes novada]] [[Stāmerienas pagasts|Stāmerienas pagastu]]. 
+
+== Daba ==
+=== Reljefa formas ===
+[[Annasmuižas kalns]], [[Ābelskalns]], [[Āmaņu kalns]], [[Biedres kalns]], [[Brūža kalns]], [[Cepļa kalns]], [[Cīruļkalns]], [[Dzirnavkalns]], [[Ezerkalns (Annas pagasts)|Ezerkalns]], [[Greiliņu kalns]], [[Gribažu kalniņi]], [[Grēveļu kalns]], [[Jāņkalniņš]], [[Kauļu kalns]], [[Kazradzu kalns]], [[Kaķenes kalns]], [[Koruļu kalns]], [[Krievu kalns (Annas pagasts)|Krievu kalns]], [[Kuncu kalns]], [[Ķeizaru kalns]], [[Ķirku kalns]], [[Ķiršu kalns]], [[Lapsu kalns]], [[Lielais kalns]], [[Līberkalns]], [[Maitu kalns]], [[Medņu kalns]], [[Meleces kalns]], [[Mālu kalns]], [[Māziku grava]], [[Ņaudzenes kalns]], [[Palsu kalns]], [[Piekalnkalns]], [[Sila kalns]], [[Sudraba Bļoda]], [[Sīļu kalns]], [[Teiku kalns]], [[Torņa kalns]], [[Vezuma kalns]].
+
+=== Hidrogrāfija ===
+==== Upes ==== 
+[[Dzelzsupīte]], [[Kapupīte (Umaras pieteka)|Kapupīte]], [[Kļavupīte]], [[Paneizīte]], [[Paparze]], [[Polsu grāvis]], [[Rūdupe (upe)|Rūdupe]], [[Umāra]], [[Veršupīte]], [[Vilkupīte (Ievednes pieteka)|Vilkupīte]].
+
+==== Ūdenstilpes ====
+[[Ezeriņu ezers (Annas pagasts)|Ezeriņu ezers]], [[Raganu purviņš]], [[Umarīte]].
+
+==== Purvi ====
+[[Ezeriņu purviņš]], [[Jēra purvs]].
+
+== Vēsture ==
+[[Attēls:Annas muiza.jpg|thumb|265px|Vecannas muižas kungu māja [[20. gadsimts|20. gs.]] sākumā.]]
+Pēc [[1920. gada agrārā reforma|1920. gada agrārās reformas]] Vecannas muižu 713 ha platībā sadalīja 43 vienībās, Jaunannas muižu 629 ha platībā sadalīja 40 vienībās,  bet Otes muižu 433 ha platībā sadalīja 48 vienībās.<ref>Latviešu konversācijas vārdnīcas I sējuma 571-572 slejas. Rīgā, 1927.-1928. </ref>
+
+1935. gadā [[Valkas apriņķis|Valkas apriņķa]] Annas pagasta platība bija 148,3 km² un tajā dzīvoja 2338 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Annas un [[Meijera ciems|Meijera]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Annas ciems''' ietilpis [[Alūksnes apriņķis|Alūksnes apriņķī]] (1946-1949) un [[Alūksnes rajons|Alūksnes]] (1949-1962), [[Gulbenes rajons|Gulbenes]] (1962-1967) un pēc 1967. gada atkal Alūksnes rajonā. 1977. gadā tika veikta teritoriju apmaiņa ar [[Stāmerienes ciems|Stāmerienes ciemu]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu<ref>[https://gramatas.lndb.lv/periodika2-viewer/#panel:pp|issue:641643|article:DIVL7987|page:66 Latvijas pagasti enciklopēdija 2002]</ref>. 2009. gadā Annas pagastu kā administratīvo teritoriju iekļāva [[Alūksnes novads|Alūksnes novadā]].
+
+== Kultūrvēsturiskas vietas == 
+=== [[Vecannas muiža]] ===
+Muižas kungu māja celta 19.gadsimta otrā pusē. Padomju laikā ēku izmanto kolhoza saimniecības vajadzībām un atjaunošanas nolūkos daļēji nojaukta. Mūsdienās saglabājies kungu mājas kreisais spārns, kuru izmanto kā dzīvojamo māju. 
+=== [[Umernieki]] ===
+[[Dzelzceļa līnija Gulbene—Alūksne|Dzelzceļa līnijas Gulbene – Alūksne]] pieturas punkts. Stacijas ēka uzcelta 1937.gadā un mūsdienās tiek izmantota kā dzīvojamā ēka. Pieturas punktā četras reizes dienā pienāk vilciens.
+=== Ezeriņu kapsēta ===
+Kapos apbedījumi veikti no 1925. gadā, par pirmo apbedījumu tiek uzskatīta Āboliņa Minnas kapa vieta. Kapsētā apglabāti arī trīs [[Lāčplēša Kara ordenis|Lāčplēša Kara ordeņa]] kavalieri - Oskars Zemnieks, Eduards Meijers un Aleksandrs Elmārs Ķesteris. 1933.gadā kapos atklāj pieminekli  [[Pirmais pasaules karš|Pirmā pasaules karā]] un [[Latvijas brīvības cīņas|Latvijas atbrīvošanas karā]] kritušajiem pagasta iedzīvotājiem. 2004. gadā kapos atklāta piemiņas vieta [[1941. gada jūnija deportācijas Latvijā|1941.]] un [[1949. gada marta deportācijas|1949.]] gada politiski represētajiem, bet 2006. gadā atklāta piemiņas plāksne nacionālajiem partizāniem. Kapusvētki Ezeriņu kapos notiek katru gadu jūlija pēdējā sestdienā.
+==== Piemineklis Pirmā pasaules karā un Latvijas atbrīvošanas cīņās kritušajiem ====
+Gandrīz 3 metrus garais E.Kuraua akmeņkaltuvē Rīgā kaltais granīta piemineklis, celts par Annas pagasta [[Aizsargi (organizācija)|Aizsargu]] nodaļas savāktajiem līdzekļiem. 1932.gada 22.jūnijā [[Alūksnes luterāņu baznīca|Alūksnes evaņģēliski luteriskās]] draudzes mācītājs G.Knezs-Knezinskis un pareizticīgo draudzes virspriesteris Jansons iesvēta pieminekļa pamatni. Pieminekli atklāj 1933.gada 3.jūlijā piedaloties Saeimas deputātam A.Bērziņam<ref>{{tīmekļa atsauce |title=Pieminekļi un piemiņas vietas |url=http://albibl.lv/biblioteka-piedava/novadpetnieciba/kulturvesture/pieminekli-un-pieminas-vietas/}}</ref>. 1940. gada 18. novembrī piemineklis sašauts, ložu atstātās pēdas aizvien redzamas.
+=== [[Gulbju krustakmens]] ===
+Mākslīgi apskaldītais akmens ar tā priekšpusē iekaltu krustu ir kulta vieta. Krusta pamatnē izveidota iedobe saukta par “tabakdozi”<ref>{{tīmekļa atsauce |title=Gulbju krustakmens jeb Tabakdoze |url=https://visitaluksne.lv/visit/gulbju-krustakmens-jeb-tabakdoze/}}</ref>.    
+=== Pieminekļi ===
+* nr. 163..: Lupatu senkapi (Kapu kalns, Zviedru kalns)  Lupatās
+* nr. 164.: [[Gulbju krustakmens]] (Tabakdoze) - kulta vieta pie Gulbjiem
+* nr. 165.: Mūrnieku senkapi pie Mūrniekiem
+* nr. 166.: Salnu (Trīsenieku) senkapi (Zviedru kapi) pie Salnām (Saļņiem, Trīseniekiem)
+* nr. 167.: Bundzēnu senkapi starp Bundzeniekiem (Bundzēniem, Bundzeņiem), Latām un Gaigaļiem
+* nr. 168.: Gaigaļu senkapi (Krāsmatas,	Zviedru kapi) starp Bundzeniekiem un Gaigaļiem
+* nr. 2726.-2731.: Vecannas muižas apbūve Vecannā (19. gs. 1.p.) - kungu mājas drupas, klēts, kūts, stallis, vēlāk krogs (1844).<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] - [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|925
+|1959|859
+|1965|734
+|1979|566
+|1989|601
+|2000|597
+|2011|429
+|2021|365
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Anna (ciems)|Anna]]''' (pagasta centrs), [[Grēveles]], [[Kadilas]], [[Vecanna]].
+
+=== Ievērojamas personības ===
+* Elza Alsberga (1912—1996), gleznotāja, keramiķe
+* [[Aivars Berķis]] (1936—2020), latviešu mežsaimnieks, žurnālists un politiķis
+* [[Skaidrīte Kaldupe]] (1922—2013), rakstniece
+* [[Kārlis Krēsliņš (virsnieks)|Kārlis Krēsliņš]] (1945), militārpersona, politiķis
+* Pēteris Ķikuts (1907—1943), rakstnieks
+* Jānis Simsons (1887—1939), aktieris, režisors
+* Vita Vīksna (1935), dzejniece, žurnāliste
+* Alfrēds Ziediņš (1885—1944), rakstnieks
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Alūksnes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Alūksnes rajons}}
+{{Alūksnes apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Alūksnes novada pagasti]]
+[[Kategorija:Annas pagasts| ]]

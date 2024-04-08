@@ -1,0 +1,12 @@
+[[Attēls:Web 2.0 Map.svg|thumb|230px|Ar [[Tīmeklis 2.0|Tīmekli 2.0]] (''Web 2.0'') saistīto atzīmju mākonis]]
+'''Atzīmju mākonis'''<ref>[http://termini.lza.lv/term.php?term=tag%20cloud&lang=EN Akadēmiskā terminu datubāze — tag cloud]</ref> ({{val|en|Tag cloud}}) ir vizuāls [[tīmekļa vietne|tīmekļa vietnē]] lietoto [[atzīme|atzīmju]] attēlojums. Visbiežāk tas ietver sarakstu ar lietotajām atzīmēm, kas sakārtotas alfabētiskā secībā, taču biežāk lietotās atzīmes tiek izceltas, parasti izmantojot lielāku [[fonts|fontu]]. Tas ļauj ērti atrast vajadzīgo atzīmi gan pēc alfabēta, gan popularitātes. Uzklikšķinot uz kādas no atzīmēm, lietotājs parasti nonāk lapā ar rakstiem, attēliem vai cita veida saturu, kam piesaistīta šī atzīme.
+
+Pirmā populārākā tīmekļa vietne pasaulē, kur tika izmantots atzīmju mākonis, bija fotogrāfiju apmaiņas vietne ''[[Flickr]]''.{{nepieciešama atsauce}} Latvijā atzīmju mākonis pirmoreiz parādījās fotogrāfiju apmaiņas vietnē [[Poga.lv]].{{nepieciešama atsauce}} Atzīmju mākoņus izmanto arī populārais sociālais tīkls [[Draugiem.lv]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Folksonomija]]
+
+[[Kategorija:Tīmeklis 2.0]]

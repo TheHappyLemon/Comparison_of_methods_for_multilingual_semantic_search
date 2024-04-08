@@ -1,0 +1,23 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#F0F8FF"><tr>
+<td style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt">'''[[serbu valoda|sr]]-1'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Овај корисник поседује [[:Kategorija:User_sr-1|основно знање]] [[:Kategorija:User sr|српског језика]] 
+</td></tr></table></div><includeonly>
+[[Kategorija:User sr|{{PAGENAME}}]]
+[[Kategorija:User sr-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User sr]]
+* [[:Kategorija:User sr-1]]
+
+== Skaties arī ==
+
+* [[Veidne:User sr-2|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|sr-1]]
+
+</noinclude>

@@ -1,0 +1,127 @@
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #005CA9
+| nos        = ''Hertha BSC''
+| logo       = [[Attēls:Hertha bsc berlin.gif|150px]]
+| pilns      = ''Hertha Berliner Sport-Club von 1892 e.V.''
+| iesauka    = ''Die Alte Dame'' (Vecā dāma)<br>''Die Blau-Weißen'' (Zili-baltie)
+| pilsēta    = {{vieta|Vācija|Berlīne}}
+| dib        = 1892
+| dib_mēn    = 7
+| dib_dat    = 25
+| stad       = [[Berlīnes Olimpiskais stadions]]
+| ietilp     = 74 475
+| prez       = {{flaga|Vācija}} Verners Gegenbauers
+| tren       = {{flaga|Ungārija}} [[Pāls Dārdai]]
+| līga       = [[Vācijas futbola 2. Bundeslīga|Vācijas 2. Bundeslīga]]
+| sez        = [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022.—2023.]]
+| poz        = 18. vieta [[Vācijas futbola Bundeslīga|Bundeslīgā]] {{decrease}}
+| pattern_la1 = _hertha2223h
+| pattern_b1 = _hertha2223h
+| pattern_ra1 = _hertha2223h
+| pattern_sh1 = _hertha2223h
+| pattern_so1 = 
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = 0000FF
+| socks1 = FFFFFF
+| pattern_la2 = _hertha2223a
+| pattern_b2 = _hertha2223a
+| pattern_ra2 = _hertha2223a
+| pattern_sh2 = _hertha2223a
+| pattern_so2 = 
+| leftarm2 = 000040
+| body2 = 000040
+| rightarm2 = 000040
+| shorts2 = 000040
+| socks2 = 000040
+| pattern_la3 = _hertha2223t
+| pattern_b3 = _hertha2223t
+| pattern_ra3 = _hertha2223t
+| pattern_sh3 = 
+| pattern_so3 = 
+| leftarm3 = FF0000
+| body3 = FF0000
+| rightarm3 = FF0000
+| shorts3 = FF0000
+| socks3 = FF0000
+}}
+
+'''''Hertha Berliner Sport-Club von 1892''''', biežāk zināms kā '''''Hertha BSC''''' vai '''''Hertha Berlin''''', ir [[Vācija]]s [[futbols|futbola]] klubs no [[Berlīne]]s. Tas ir viens no klubiem, kas 1900. gadā [[Leipciga|Leipcigā]] piedalījās [[Vācijas Futbola asociācija]]s dibināšanā. Klubs vēsturiski ir bijis Berlīnes populārākais futbola klubs. Komanda ir divas reizes (1930. un 1931. gadā) kļuvusi par Vācijas čempioniem. Mājas spēles klubs aizvada [[Berlīnes Olimpiskais stadions|Berlīnes Olimpiskajā stadionā]], kur ir 74 475 skatītāju vietas.<ref>{{Tīmekļa atsauce|url=http://www.olympiastadion-berlin.de/en/stadium-visitor-centre/facts-and-figures.html|title=Facts and Figures - Olympiastadion Berlin.|accessdate=2015-10-01|publisher=olympiastadion-berlin.de|archiveurl=https://web.archive.org/web/20150427214813/http://www.olympiastadion-berlin.de/en/stadium-visitor-centre/facts-and-figures.html|archivedate=2015-04-27}}</ref>
+
+== Sastāvs ==
+''{{Dat|2022|9|11||bez}}.''
+{{Fs start}}
+{{Fs player|name=[[Olivers Kristensens]]|nat=DEN|pos=GK|no=1}}
+{{Fs player|name=[[Peters Pekarīks]]|nat=SVK|pos=DF|no=2}}
+{{Fs player|name=[[Augustins Rohels]]|nat=URU|pos=DF|no=3}}
+{{Fs player|name=[[Filips Uremovičs]]|nat=CRO|pos=DF|no=5}}
+{{Fs player|name=[[Vladimīrs Darida]]|nat=CZE|pos=MF|no=6}}
+{{Fs player|name=[[Devijs Zelke]]|nat=GER|pos=FW|no=7}}
+{{Fs player|name=[[Suats Serdars]]|nat=GER|pos=MF|no=8}}
+{{Fs player|name=[[Žans Pols Boetjiss]]|nat=NED|pos=FW|no=10}}
+{{Fs player|name=[[Mizians Maolida]]|nat=FRA|pos=FW|no=11}}
+{{Fs player|name=[[Tjarks Ernsts]]|nat=DEU|pos=GK|no=12}}
+{{Fs player|name=[[Dodi Lukebakio]]|nat=BEL|pos=FW|no=14}}
+{{Fs player|name=[[Džondžo Kenijs]]|nat=ENG|pos=DF|no=16}}
+{{Fs player|name=[[Maksimiliāns Mitelšteds]]|pos=DF|no=17|nat=DEU}}
+{{Fs player|name=[[Vilfrīds Kanga]]|pos=FW|no=18|nat=FRA}}
+{{Fs player|name=[[Stevans Jovetičs]]|pos=FW|no=19|nat=MNE}}
+{{Fs player|name=[[Marks Olivers Kemfs]]|nat=GER|pos=DF|no=20}}
+{{Fs mid}}
+{{Fs player|name=[[Marvins Platenhārts]]|nat=DEU|pos=DF|no=21|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player|name=[[Rūne Jaršteins]]|nat=NOR|pos=GK|no=22}}
+{{Fs player|name=[[Marko Rihters]]|pos=FW|no=23|nat=DEU}}
+{{Fs player|name=[[Kevins Prinss Boatengs]]|nat=GHA|pos=MF|no=27}}
+{{Fs player|name=[[Kelians Nsona]]|nat=FRA|pos=FW|no=27}}
+{{Fs player|name=[[Likā Tuzārs]]|pos=MF|no=29|nat=FRA}}
+{{Fs player|name=[[Dongdzjuņs Lī]]|pos=FW|no=30|nat=KOR}}
+{{Fs player|name=[[Mārtons Dārdai]]|pos=DF|no=31|nat=DEU}}
+{{Fs player|name=[[Ivans Šunjičs]]|pos=DF|no=34|nat=CRO|other=īrē no [[Birmingham City F.C.|Birmingham City]]}}
+{{Fs player|name=[[Dejovaisio Zēfuiks]]|pos=DF|no=36|nat=NED}}
+{{Fs player|name=[[Derijs Šērhants]]|pos=FW|no=39|nat=GER}}
+{{Fs player|name=[[Čidera Ejuke]]|pos=FW|no=40|nat=NGA|other=īrē no [[PFC CSKA Moscow|CSKA Moscow]]}}
+{{Fs player|name=[[Jūliāns Eičbergers]]|pos=DF|no=42|nat=GER}}
+{{Fs player|name=[[Līnuss Gehters]]|pos=DF|no=44|nat=GER}}
+{{Fs player|name=[[Jesiks Ngankams]]|pos=FW|no=—|nat=GER}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Vācijas futbola Bundeslīga|Vācijas čempionāts / Bundeslīga]]'''
+** Čempioni (2): 1930, 1931
+** Vicečempioni (5): 1926, 1927, 1928, 1929, 1974–75
+* '''[[Vācijas kauss futbolā|Vācijas kauss]]'''
+** Finālisti (3): 1976–77, 1978–79, 1992–93<sup>[[#1|1]]</sup>
+* '''DFB Līgas kauss'''
+** Kausa ieguvēji (2): 2001, 2002
+** Finālisti (1): 2000
+* '''[[Vācijas futbola 2. Bundeslīga|2. Bundeslīga]]'''
+** Čempioni (3): 1989–90, 2010–11, 2011–13
+** Vicečempioni (1): 1981–82 
+* '''[[UEFA kauss]]'''
+** Pusfinālisti (1): 1978–79
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (1): 2006
+** Grupas uzvarētāji: 1971, 1973, 1976, 1978
+
+:<div id="1"><sup>1</sup>1992.–93. gadā ar dublieru komandu
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+* [http://www.hertha.de/ Oficiālā kluba vietne] {{Webarchive|url=https://web.archive.org/web/20110719040240/http://www.hertha.de/ |date={{dat|2011|07|19||bez}} }}
+* [http://www.abseits-soccer.com/clubs/hertha.html Abseits Guide to German Soccer]
+* [http://www.resultsfromfootball.com/bundesliga-team/herthabscberlin.html Hertha Berlin statistika] {{Webarchive|url=https://web.archive.org/web/20070514224040/http://www.resultsfromfootball.com/bundesliga-team/herthabscberlin.html |date={{dat|2007|05|14||bez}} }}
+* [http://www.football-lineups.com/games/?campaign=15.81 Hertha Berlin spēlētāju izkārtojumi] {{Webarchive|url=https://archive.today/20130102203204/http://www.football-lineups.com/games/?campaign=15.81 |date={{dat|2013|01|02||bez}} }}
+
+{{futbols-aizmetnis}}
+{{Bundeslīga}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Hertha BSC Berlin}}
+[[Kategorija:Vācijas futbola klubi]]
+[[Kategorija:Berlīnes "Hertha"]]

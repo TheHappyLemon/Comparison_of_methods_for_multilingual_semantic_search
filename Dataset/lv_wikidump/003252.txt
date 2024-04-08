@@ -1,0 +1,87 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 57
+|             6. čaula = 2
+|             5. čaula = 9
+|             4. čaula = 18
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = La
+|             atommasa = 138,90547
+|   valences elektroni = [Xe]5d<sup>1</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:La-TableImage.svg|250px]]
+|               attēls = [[Attēls:Lanthan 1-cropflipped.jpg|190px]]<br />Lantāna paraugs [[argons|argona]] aizsargatmosfērā
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,10
+|              blīvums = 6162
+|  kušanas temperatūra = 1193 K (920&nbsp;°C)
+| viršanas temperatūra = 3737 K (3464&nbsp;°C)
+}}
+
+'''Lantāns''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''La''' un [[atomskaitlis|atomskaitli]] 57. Tas ir sudrabbalts, mīksts [[metāls]], kas elementu tabulā ir 3. grupā. Elementi ar atomskaitļiem no 58 līdz 71 ir ļoti līdzīgi lantānam, tādēļ tos sauc par [[lantanīdi]]em. Dabā sastopams [[polimetāliskās rūdas|polimetāliskajās rūdās]] kopā ar lantanīdiem. Lantāns reaģē ar lielāko daļu [[nemetāli|nemetālu]], kā arī ar [[ūdens|ūdeni]]. Savienojumos tas ir trīsvērtīgs.
+
+== Vēsture ==
+Lantānu 1839. gadā piesārņotā [[cērija nitrāts|cērija nitrātā]] atklāja zviedru ķīmiķis [[Karls Gustavs Mosanders]] (''Carl Gustaf Mosander''). Relatīvi tīrā veidā pirmo reizi tas tika iegūts 1923. gadā. Elementa nosaukums ir veidots no [[grieķu valoda|grieķu vārda]] {{gree|λανθάνειν}} (''lanthánein''), kas nozīmē ‘palikt nemanītam’.<ref name="svešvārdu vārdnīca"/>
+
+== Atrašanās dabā ==
+Lantāns dabā tīrā veidā nekad nav atrasts. Lai gan lantāns ir [[retzemju metāls]], tā koncentrācija [[Zemes garoza|Zemes garozā]] ir salīdzinoši liela — aptuveni 32 daļiņas no miljona. Tas vienmēr ir sastopams kopā ar citiem retzemju metāliem, īpaši ar [[cērijs|cēriju]] un citiem [[lantanīdi]]em. No minerāliem, kas satur lantānu, visbiežāk sastopami ir [[monacīts]] (([[cērijs|Ce]],La)[[fosfors|P]][[skābeklis|O]]<sub>4</sub>) un [[bastnezīts]] ((Ce,La,[[itrijs|Y]])[[ogleklis|C]]O<sub>3</sub>[[fluors|F]]).
+
+=== Izotopi ===
+Dabā ir sastopami divi lantāna [[izotops|izotopi]]: lantāns-139 (99,9119 % no kopējā lantāna daudzuma) un lantāns-138 (0,08881 %).<ref name="jlab"/> Mākslīgi ir iegūti vēl 37 [[radioizotops|radioizotopi]], kuru [[masas skaitlis]] ir no 117 līdz 155.
+
+== Iegūšana ==
+Lantanīdu galvenokārt iegūst no [[monacīts|monacīta]] smiltīm.
+
+== Lantāna savienojumi ==
+Lantāna [[ķīmiskais savienojums|savienojumu]] visbiežākā [[ķīmiskā formula|formula]] ir LaX<sub>3</sub>. Tiem ir raksturīga bezkrāsainība un [[diamagnētiķi|diamagnētisms]].
+
+{| class="wikitable"
+|-
+! Savienojums
+! Ķīmiskā<br />formula
+! [[Blīvums]],<br />kg/m³
+! [[Kušanas temperatūra|Kušanas<br />t°]], °C
+! [[Vārīšanās temperatūra|Vārīšanās<br />t°]], °C
+! Rašanās reakcija
+! Raksturojums
+|-
+| [[Lantāna(III) hlorīds]]
+| La[[hlors|Cl]]<sub>3</sub>
+| 3842
+| 860
+| 1750
+| {{nobr|La<sub>2</sub>O<sub>3</sub>  +  6 NH<sub>4</sub>Cl   →   2 LaCl<sub>3</sub>  +  6 NH<sub>3</sub>  +  2 H<sub>2</sub>O}}<br />(augstā temperatūrā)
+| Bezkrāsaini, šķīstoši un [[higroskopija|higroskopiski]] kristāli.<br />LaCl<sub>3</sub> sliecas veidot [[kompleksie savienojumi|kompleksus savienojumus]].<br />Ar hlora [[joni]]em veido kompleksu [[anjons|anjonu]] [LaCl<sub>6</sub>]<sup>-3</sup>.<br />LaCl<sub>3</sub> kristalizējās no ūdens kā triklīns [[heptahidrāts]] LaCl<sub>3</sub>·7H<sub>2</sub>O.
+|-
+| [[Lantāna(III) fluorīds]]
+| La[[fluors|F]]<sub>3</sub>
+| —
+| 1493
+| 2330
+| {{nobr|La<sub>2</sub>O<sub>3</sub>  +  6 HF   →   2 LaF<sub>3</sub>  +  3 H<sub>2</sub>O}}
+| Reaģē ar [[sārmu metāli|sārmu metālu]] fluorīdiem, veidojot fluora kompleksos<br />savienojumus M[LaF<sub>4</sub>] un M<sub>3</sub>[LaF<sub>6</sub>].
+|}
+
+Lantāna [[sāļi|sāļu]] šķīdumi savienojumā ar sārmu metālu [[hidroksīdi]]em, [[karbonāti]]em un [[oksalāti]]em veido ūdenī nešķīstošus savienojumus — [[lantāna(III) hidroksīds|lantāna(III) hidroksīdu]] (La(OH)<sub>3</sub>), [[lantāna(III) karbonāts|lantāna(III) karbonātu]] (La<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>·8H<sub>2</sub>O), [[lantāna(III) oksalāts|lantāna(III) oksalātu]] (La<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>·9H<sub>2</sub>O). Ja šos savienojumus karsē, no tiem veidojas [[lantāna(III) oksīds]] (La<sub>2</sub>O<sub>3</sub>). Oksīda reakcija ar [[slāpekļskābe|slāpekļskābi]] (HNO<sub>3</sub>) dod [[lantāna nitrāts|lantāna nitrātu]] (La(NO<sub>3</sub>)<sub>3</sub>·6H<sub>2</sub>O). Aptuveni 1000 °C var iegūt arī [[lantāna karbīds|lantāna karbīdu]] (LaC<sub>2</sub>), [[lantāna borīds|lantāna borīdu]] (LaB<sub>6</sub>) un [[lantāna sulfīds|lantāna sulfīdu]] (La<sub>2</sub>S<sub>3</sub>).
+
+== Izmantošana ==
+Lantānu izmanto kā mikrokomponentu [[sakausējums|sakausējumos]]. Lantāna—[[kobalts|kobalta]] sakausējums LaCo<sub>5</sub> tiek izmantots kā [[feromagnētiķis]]. Ļoti tīru [[lantāna(III) oksīds|lantāna(III) oksīdu]] izmanto, lai gatavotu īpašu optisko stiklu, piemēram, augstas kvalitātes fotoaparātu [[lēca]]s.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="svešvārdu vārdnīca">{{grāmatas atsauce | title= Svešvārdu vārdnīca | author= J. Baldunčiks, K. Pokrotniece | publisher= Apgāds "Jumava" | year= 2005 | isbn= 9984058794}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso057.html | title= Isotopes of the Element Lanthanum | publisher= Jefferson Lab | accessdate= 2014. gada 16. maijā | language = angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]

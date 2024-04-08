@@ -1,0 +1,675 @@
+{{Citas nozīmes|valsti Britu salās|Īrija (nozīmju atdalīšana)|Īrija}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''Éire'' / ''Ireland''
+|    pilnais_valsts_nosaukums = Īrija
+|            valsts_nosaukums =
+|               karoga_attēls = Flag of Ireland.svg
+|            karoga_nosaukums = Īrijas karogs
+|              ģerboņa_attēls = Coat_of_arms_of_Ireland.svg
+|           ģerboņa_nosaukums = Īrijas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = 
+|                valsts_himna = ''[[Amhrán na bhFiann]]''<br /><small>Kareivju dziesma</small>
+|               kartes_attēls = Location Ireland EU Europe.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Dublina]]
+| latd=53 | latm=20 | latNS=N | longd=6 | longm=16 | longEW=W
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[īru valoda|īru (gēlu) valoda]]<br>[[Angļu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Parlamentāra republika]]
+|        valsts_galvas_tituls = [[Īrijas prezidentu uzskaitījums|Prezidents]]
+|                valsts_galva = [[Maikls Higinss]]
+|       valsts_galvas_tituls2 = [[Īrijas premjerministru uzskaitījums|Premjerministrs]]
+|               valsts_galva2 = [[Leo Varadkars]]
+|       valsts_galvas_tituls3 = <!--[[Īrijas valdības vadītāja vietnieku uzskaitījums|Valdības vadītāja vietnieks]]-->
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = [[Īrijas vēsture|Neatkarība]]
+|         neatkarības_piezīme = no [[Apvienotā Karaliste|Apvienotās Karalistes]]
+|        neatkarības_notikums = Deklarēta
+|          neatkarības_datums = {{dat|1916|4|24}}
+|       neatkarības_notikums2 = Ratificēta
+|         neatkarības_datums2 = {{dat|1921|1|21}}
+|       neatkarības_notikums3 = Atzīta
+|         neatkarības_datums3 = {{dat|1922|12|6}}
+|       neatkarības_notikums4 = Pašreizējā konstitūcija
+|         neatkarības_datums4 = {{dat|1937|12|29}}
+|          iestāšanāsESdatums = {{dat|1973|1|1}}
+|                 platība_km2 = 70 273
+|               platība_rangs = 120.
+|              procenti_ūdens = 2,0
+|          iedzīvotāju_skaits = 4,857,000
+|     iedzīvotāju_skaita_gads = 2018
+|    iedzīvotāju_skaits_rangs = 123.
+|    apdzīvotības_blīvums_km2 = 63,4
+|  apdzīvotības_blīvums_rangs = 139.
+|                     IKP_PPP = $175,055 miljardi
+|                IKP_PPP_gads = 2009
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $39 468
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = {{palielinājās}} 0,955
+|                    HDI_gads = 2019
+|              HDI_kategorija = <font color="#009900">ļoti augsts</font>
+|                   HDI_rangs = 2.
+|                      valūta = [[Eiro]] (€)
+|                valūtas_kods = EUR
+|                  laika_zona = [[Rietumeiropas laiks|WET]]
+|                  utc_offset = +0
+|              laika_zona_DST = [[IST]] ([[Rietumeiropas vasaras laiks|WEST]])
+|              utc_offset_DST = +1
+|                      domēns = [[.ie]]
+|              tālsarunu_kods = 353
+|                iso_kods_num = 372
+|              iso_kods_alfa2 = IE
+|              iso_kods_alfa3 = IRL
+}}
+
+'''Īrija''' ({{val|ga|Éire}}, {{val|en|Ireland}}), dažkārt aprakstoši dēvēta arī kā '''Īrijas Republika''' ({{val|ga|Poblacht na hÉireann}}, {{val|en|Republic of Ireland}}), ir valsts [[Eiropa]]s ziemeļrietumos. Tā ir salu valsts, kuras arhipelāgā iekļaujas piecas sestdaļas no [[Īrija (sala)|Īrijas]] salas, kā arī daudzas citas nelielas salas. Tās vienīgā sauszemes robeža ir ar [[Ziemeļīrija|Ziemeļīriju]] jeb [[Apvienotā Karaliste|Apvienotās Karaliste]]s daļu ziemeļos. To rietumos apskalo [[Atlantijas okeāns]], bet austrumos to apskalo [[Īrijas jūra]] un [[Sentdžordža šaurums]]. Īrijas kopējā platība ir 70 273 [[km²]] un to ietekmē mērenās joslas klimats. Rietumos piekraste ir klinšaina un bagāta ar pauguriem un nelieliem kalniem. Valsts centrālā daļa ir samērā līdzena un to šķērso vairākas lielas upes, kā arī centrālajā daļā plešas plaši purvi.
+
+Īrijas salas dalīšana notika [[1921]]. gadā, kad tika nodibināta mūsdienu Īrijas valsts. Gadsimtu gaitā īri pamazām zaudēja savu valodu (mūsdienās oficiālo valsts valodu — [[īru valoda|īru valodu]] — brīvi pārvalda tikai apmēram 10% iedzīvotāju), bet ir saliedējušies ar [[katolisms|katoļu]] baznīcu, kas kļuvusi par īru nacionālās mentalitātes sastāvdaļu. 20. gadsimta otrajā pusē pēc dažādu nozaru reformām Īrijas tautsaimniecība piedzīvoja strauju uzplaukumu apsteidzot Apvienoto Karalisti.
+
+Īrija ir [[parlamentāra republika]], kas sastāv no četrām provincēm un divdesmit sešām grāfistēm. Galvaspilsēta un lielākā pilsēta ir [[Dublina]]. Īrija 1973. gadā pievienojās [[Eiropas Savienība]]i un kopš 1999. gada [[eiro]] ir Īrijas oficiālā valūta. Īrija ir [[ANO]] dalībvalsts, kā arī [[ESAO]] un [[Pasaules Tirdzniecības organizācija|PTO]] dibinātājvalsts. Īrija ievēro neitralitāti militārajā jomā, tāpēc tā nav [[NATO]] dalībvalsts.
+
+20. gadsimta otrajā pusē pēc izglītības un nodokļu politikas reformas Īrijas tautsaimniecība piedzīvoja strauju uzplaukumu. Mūsdienās Īrija ir viena no turīgākajām valstīm pasaulē pēc [[Iekšzemes kopprodukts pēc pirktspējas līmeņa|IKP uz vienu iedzīvotāju]]. No 2011. līdz 2013. gadam Īrija bija septītā attīstītākā valsts pasaulē pēc [[Tautas attīstības indekss|tautas attīstības indeksa]].<ref>http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf</ref> Īrija atrodas 16. vietā pasaulē pēc preses brīvības indeksa un 11. vietā pēc ekonomiskās brīvības indeksa.
+
+== Etimoloģija ==
+Valsts nosaukums mūsdienu [[Īru valoda|īru valodā]] (''Éire'') cēlies no [[Senīru valoda|senīru]] ''Eriu "[[valsts]]",'' vai [[Eriu]] — dievietes vārda [[Īru mitoloģija|īru mitoloģijā]].<ref>{{Tīmekļa atsauce|url=http://www.irishcentral.com/roots/history/where-does-the-name-ireland-come-from|title=Where does the name Ireland come from?|website=IrishCentral.com|access-date=2022-09-06|date=2022-03-25|language=en}}</ref>
+
+[[Īrijas konstitūcija]]s ceturtajā pantā (pieņemta 1937. gadā) teikts: "Valsts nosaukums ir ''Éire'' jeb, [[Angļu valoda|angļu valodā]], ''Ireland''".<ref>{{Publikācijas atsauce|title=Ireland's Constitution of 1937. with Amendments through 2012.|url=https://www.constituteproject.org/constitution/Ireland_2012.pdf|journal=}}</ref> 1947. gadā tika pieņemts nosaukums ''Republic of Ireland'' kā valsts apraksts (''Description of the State''). Taču Īrijas nosaukums joprojām ir vienkārši ''Ireland''. Tas ir saistīts ar konstitūcijā noteiktajām pretenzijām uz visu salu: “Tautai piederošo teritoriju veido visa [[Īrija (sala)|Īrijas sala]], tai [[Īrijas salas|piegulošās salas]] un teritoriālā jūra” (2. pants, [[Belfāstas nolīgums|Belfāstas nolīguma]] rezultātā kopš 1998. punkta teksts ir aizstāts ar neitrālāku tekstu). Neskatoties uz to, dažādās sfērās — gan oficiālajā, gan neoficiālajā — lai valsts atšķirtu no britu [[Ziemeļīrija]]s un pašas Īrijas salas, tiek plaši izmantots nosaukums ''Republic of Ireland''.
+
+== Vēsture ==
+{{pamatraksts|Īrijas vēsture}}
+
+=== Aizvēsturiskā Īrija ===
+Īrijas vēsture sākās ar pirmo zināmo cilvēku apmešanos Īrijā aptuveni 8000 gadus pirms mūsu ēras, kad [[mednieki un vācēji]] ieradās, iespējams pa [[Zemes tilts|zemes tiltu]], no [[Lielbritānija (sala)|Lielbritānijas]] un kontinentālās [[Eiropa]]s.<ref>{{Grāmatas atsauce|last=Moody|first=T.W. & Martin, F.X., eds.|title=The Course of Irish History|publisher=Roberts Rinehart|date=1995|pages=31-32|id={{ISBN|1-56833-175-4}}}}</ref> Dažas arheoloģiskās pēdas ir saglabājušās no šīs grupas, bet pēcteči [[Neolīts|neolīta]] laikmetā ieradās, galvenokārt no [[Ibērijas pussala]]s. Tie apmetās galvenajās neolīta apmešanās vietās kā, piemēram, [[Ņūgreindža|Ņūgreindžā]].<ref>[http://www.breakingnews.ie/2004/09/09/story165780.html Geneticists find Celtic links to Spain and Portugal] www.breakingnews.ie, [[2004-09-09]]. Atjaunināts {{dat|2007|04|01}}.</ref><ref>[http://www.prospect-magazine.co.uk/article_details.php?id=7817 Myths of British ancestry] {{Webarchive|url=https://web.archive.org/web/20060926181227/http://www.prospect-magazine.co.uk/article_details.php?id=7817|date={{dat|2006|09|26||bez}}}} Stephen Oppenheimer. October 2006, Special report. Atjaunināts {{dat|2007|04|01}}.</ref>
+
+=== Kristietības izplatība Īrijā ===
+Pēc [[Svētais Patriks|Svētā Patrika]] un citu kristiešu [[Misionārs|misionāru]] ierašanās [[5. gadsimts|5. gadsimta]] vidū, līdz [[600]]. gadam [[kristietība]] bija pārmākusi vietējo pagānu [[reliģija]]s.
+
+=== Viduslaiki ===
+Agrajos [[Viduslaiki|viduslaikos]] būdama viena no Eiropas kristīgās kultūras centriem, tālākos gadsimtos Īrija nonāca spēcīgākā kaimiņa [[Anglija]]s aizvien ciešākā pakļautībā, līdz [[1801]]. gadā tika tieši iekļauta kopējā [[Lielbritānijas un Īrijas apvienotā karaliste|Lielbritānijas un Īrijas Apvienotajā karalistē]].
+
+Atšķirībā no [[Skotija]]s, Īrijai Apvienotajā Karalistē nebija noteikts brīvas tirdzniecības statuss. [[protestantisms|Protestantu]] ([[vīgi|vīgu]]) kontrolētā parlamenta apstākļos Īrijā tika diskriminēta [[katoļu baznīca]]. Katoļiem bija liegta iespēja turēt nekustamo īpašumu, ieņemt valsts amatus, pat izglītība. Tāpēc īri mēģināja sacelties vai ik pa desmitgadei.
+
+Īrija 1707. gadā tika izslēgta no Apvienotās Karalistes sastāva. Tā saglabāja savu parlamentu, taču saskaņā ar Poininga likumu (''Poynings'Law'', 1494.) Īrijas parlamentu turpināja kontrolēt Anglijas parlaments un Anglijas karaļa ministri. Īrijas iedzīvotāju skaits turpināja pieaugt, taču Anglijas uzspiestās kontroles dēļ reformas kavējās un ekonomika stagnēja, tāpēc 18. gadsimta laikā Īrijā cits pēc cita sekoja bada laiki. Pilsētās un provincēs plosījās laupītāju bandas, valsts grima arvien dziļākā postā, līdz Apvienotajai Karalistei nekas cits neatlika kā 1801. gadā likvidēt Īrijas autonomiju (parlamentu un pašpārvaldi). Īrija tika pilnībā iekļauta Lielbritānijas sastāvā, un Īrijas pārstāvji (tāpat kā pārējo zemju pārstāvji) piedalījās Lielbritānijas parlamenta darbā kā deputāti. Īru deputātu grupu vadīja OíKonels.
+
+=== Savienība ar Lielbritāniju ===
+No [[1845]]. līdz [[1849]]. gadam Īrijā plosījās [[Kartupeļu bads]], kad no bada mira, pēc minimāliem aprēķiniem, 0,5 miljoni iedzīvotāju, bet apmēram 2 miljoni iedzīvotāju devās bēgļu gaitās. [[1841]]. gadā Īrijā dzīvoja vairāk nekā 6,5 miljoni iedzīvotāju (par 25% vairāk nekā mūsdienās). Kaut arī dzimstības līmenis Īrijā bija augsts, līdz pat 20. gadsimta vidum iedzīvotāju skaits turpināja samazināties lielās emigrācijas dēļ.
+
+1869. gadā Īrijā baznīca tika šķirta no valsts. 1870. gadā mēģināja īstenot agrāro reformu, bet nekas no tās neiznāca.
+
+1872. gadā īru deputāti atkal izvirzīja Īrijas autonomijas ideju, bet, kad to noraidīja, tie Parnela vadībā (izmantojot parlamenta kārtības ruļļa nepilnības, piemēram, ka nebija reglamentēts deputāta uzstāšanās ilgums) sāka traucēt parlamenta darbu. Pašā Īrijā aktīvi izvērsās [[Terorisms|teroristisku]] atbrīvošanās organizāciju darbība, kuras vietējā līmenī bija ietekmīgākas nekā valsts institūcijas. Klasisks piemērs — vienā apgabalā visi pārstāja pirkt rūpnieka Boikota preces, tā iedzenot viņu bankrotā.
+
+1886. gadā Gladstons ierosināja piešķirt Īrijai autonomiju un parlamentu. To noraidīja.
+
+1912. gadā Askrits atkal iesniedza šo likumprojektu. Pēc trešā piegājiena 1914. gadā to apstiprināja, bet [[Pirmais pasaules karš|Pirmā pasaules kara]] dēļ neīstenoja pilnībā. Olstera, kurā dominēja kolonisti no Skotijas, pieprasīja atdalīšanos no Īrijas.[[Attēls:Easter Proclamation of 1916.png|thumb|Lieldienu aicinājums, ko izdevuši Lieldienu sacelšanās vadītāji|left]]
+
+=== Neatkarības karš ===
+1916. gadā notika [[Lieldienu sacelšanās]], lielākā īru sacelšanās no [[Īru 1798. gada sacelšanās]], kas beidzās ar sakāvi, tomēr pieauga tautas atbalsts republikāņiem un 1918. gada decembra Apvienotās Karalistes parlamenta velēšanās īru republikāņu partija ''[[Sinn Féin]]'' ieguva 73 no 105 Īrijai atvēlētajām vietām.
+
+1919. gada janvārī ''Sinn Féin'' atteicās piedalīties Apvienotās Karalistes parlamenta darbā, bet tā vietā izveidoja Īrijas parlamentu un pasludināja Īrijas Republikas neatkarību, kas izraisīja [[Īrijas Neatkarības karš|Īrijas Neatkarības karu]].
+
+1921. gada 9. jūlijā tika noslēgts pamiers un pēc ilgām sarunām 5. decembrī Īrija noslēdza domīnijas līgumu ar Lielbritāniju izveidojot [[Īrijas Brīvvalsts|Īrijas Brīvvalsti]] (ziemeļu grāfistes ar Olsteru priekšgalā palika Lielbritānijas sastāvā). Sākās [[Īrijas pilsoņu karš|pilsoņu karš]] starp jauno brīvvalsti un republikāņiem-domīnijas līguma pretiniekiem, kurā pēdējie tika sakauti.
+
+1937. gadā Īrija pieņēma jaunu konstitūciju un pasludināja pilnīgu neatkarību.
+
+=== Īrija 20. un 21. gadsimtā ===
+20. gadsimta otrajā pusē pēc [[reforma|izglītības reformas]] (Nacionālās bibliotēkas uzcelšana, bibliotēku tīkla izveidošana, izglītības programmu reorganizācija) un nodokļu politikas reformas Īrijas tautsaimniecība piedzīvoja strauju uzplaukumu.
+
+1973. gadā Īrija pievienojās [[Eiropas Ekonomikas kopiena]]i.
+
+Pēc [[ANO tautas attīstības indekss|ANO tautas attīstības indeksa]], tā bija 4. vietā pasaulē ([[2006. gads|2006]]. gadā) aiz [[Norvēģija]]s, [[Islande]]s un [[Austrālija]]s, arī pēc [[IKP]] ([[PPP]]) uz iedzīvotāju — 4. vietā pasaulē ([[2005. gads|2005]]. gadā) aiz [[Luksemburga]]s, [[Norvēģija]]s un [[Amerikas Savienotās Valstis|ASV]], aiz sevis atstājot bijušo metropoli — Lielbritāniju, kura tolaik bija attiecīgi 17. un 18. vietā. Līdz 2008. gada [[2007.—2010. gada globālā finanšu krīze|Globālajai finanšu krīze]]i Īrijas iedzīvotāju skaits pieauga par vidēji 2% gadā. Labākas dzīves meklējumos tajā ieradās ārvalstu darbaspēks. Pēc [[Latvija]]s pievienošanās [[Eiropas Savienība|ES]] uz Īriju pārcēlās arī tūkstošiem Latvijas iedzīvotāju.
+[[Attēls:Ireland (MODIS).jpg|thumbnail|Īrijas satelītaatēls]]
+
+== Ģeogrāfija ==
+Īrija ir Eiropas valsts, kas atrodas Eiropas ziemeļrietumos un aizņem 5/6 no [[Īrija (sala)|Īrijas salas]]. Īrijas sala kopā ar Lielbritānijas salu ir plašāk pazīstama kā [[Britu salas]]. Vienīgā Īrijas sauszemes robeža ir [[Ziemeļīrija|Ziemeļīriju]] ziemeļos, kas ir viena no Lielbritānijas daļām. Īriju no Lielbritānijas salas atdala Īrijas jūra, bet no Eiropas kontinentālās daļas to atdala [[Ķeltu jūra]].
+
+Īrijas teritorija aizņem 70 273 [[km²]] un tā pēc platības ir 16. lielākā Eiropas Savienības dalībvalsts un 120. lielākā valsts pasaulē pēc platības. Augstākais punkts ir [[Karantūils]], kura augstums ir 1 038 metrus virs jūras līmeņa un atrodas Īrijas dienvidrietumos.
+
+Īrijas rietumu piekraste ir klinšaina un bagāta ar daudziem maziem pauguriem un nelieliem kalniem. Valsts centrālā daļa ir lielākoties līdzena un to šķērso vairākas lielas upes. Valsts centrs ietilpst Šanonas upes baseinā, tāpēc tam raksturīgi plaši purvi, kuros ir iespējams iegūt ļoti daudz [[kūdra]]s.
+
+Īrijas lielākais ezers ir [[Koriba ezers]], kas atrodas valsts rietumu daļā un ir 176 [[km²]] liels. Nākamie lielākie ezeri ir [[Derga ezers]] un [[Māska ezers]]. Īrijas lielākā upe ir [[Šanonas upe]], kuras kopējais garums ir 360,5 kilometri. Nākamās lielākās upes ir [[Barovas upe]] un [[Šīras upe]].
+
+=== Administratīvais iedalījums ===
+{{pamatraksts|Īrijas administratīvais iedalījums}}
+Īrija ir vēsturiski sadalīta četrās provincēs, bet administratīvi tā ir sīkāk sadalīta [[Īrijas administratīvais iedalījums|divdesmit deviņās grāfistēs]].
+
+=== Klimats ===
+Vietējo klimatu nosaka Ziemeļatlantijas straume, tāpēc to var raksturot kā mērenu. Vasarā temperatūra virs 30 grādiem pēc Celsija uzkāpj reizi desmit gados, tāpat ļoti reti tā noslīd līdz -6 grādiem. Nokrišņu daudzums Īrijā ir ļoti liels, jo dažās valsts daļās līst pat līdz 275 dienām gadā.
+
+== Demogrāfija ==
+=== Iedzīvotāju skaita izmaiņas ===
+Pēc tautas skaitīšanu datiem no 2006. līdz 2011. gadam Īrijas iedzīvotāju skaits palielinājās par vairāk kā 348 tūkstošiem un 2011. gadā sasniedza 4,59 miljonus, pie kam kopējais iebraucēju skaits pieauga no 420 līdz 544 tūkstošiem. 
+Ārzemēs dzimušo Īrijas iedzīvotāju skaits palielinājās par 25% un sasniedza 767 tūkstošus, veidojot 17% no kopējā iedzīvotāju skaita. Visstraujāk augošās grupas bija [[rumāņi]] (+110%), [[indieši]] (+91%), [[poļi]] (+83%), [[latvieši]] (+43%) un [[lietuvieši]] (+40%).
+514 tūkstoši Īrijas iedzīvotāju mājās runāja svešvalodā un visizplatītākā valoda bija [[Poļu valoda|poļu]], kam sekoja [[Franču valoda|franču]], [[Lietuviešu valoda|lietuviešu]] un [[Vācu valoda|vācu]].
+
+{{iedzīvotāju skaita izmaiņas
+|title       = Iedzīvotāju skaita izmaiņas
+|type        = 
+|align       = left
+|width       = 
+|state       = 
+|shading     = 
+|percentages = on
+|break       = jā
+|footnote    = <center>Avoti:<ref>[https://www.cso.ie/en/releasesandpublications/er/pme/populationandmigrationestimatesapril2017/ "Population and migration estimates april 2017".]</ref><ref>{{tīmekļa atsauce |url= https://cso.ie/en/releasesandpublications/er/pme/populationandmigrationestimatesapril2019/ |title=Populationand migration estimates April 2019|date=27 August 2019}}</ref></center>
+| cols = 4
+| graph-pos = bottom
+|1841|6528799
+|1851|5111557
+|1861|4402111
+|1871|4053187
+|1881|3870020
+|1891|3468694
+|1901|3221823
+|1911|3139688
+|1926|2971992
+|1936|2968420
+|1946|2955107
+|1951|2960593
+|1961|2818341
+|1971|2978248
+|1981|3443405
+|1991|3525719
+|2002|3917203
+|2011|4588252
+|2022|5123536
+}}
+
+=== Lielākās pilsētas ===
+{{Īrijas lielākās pilsētas}}
+
+=== Etniskais sastāvs ===
+Imigranti pēc izcelsmes valsts:<ref>[https://ec.europa.eu/eurostat/data/database Eurostat datubāze]</ref>
+{| class="wikitable"
+|+
+!scope=col| 
+!scope=col| 2017
+!scope=col| 2018
+!scope=col| 2019
+!scope=col| 2020
+!scope=col| 2021
+!scope=col| 2022
+|-
+|Kopējais iedzīvotāju skaits
+| align="right" |{{formatnum:4784383}}
+| align="right" |{{formatnum:4830392}}
+| align="right" |{{formatnum:4904240}}
+| align="right" |{{formatnum:4964440}}
+| align="right" |{{formatnum:5006324}}
+| align="right" |{{formatnum:5060004}}
+|-
+|Dzimšanas valsts: {{Īrija}}
+| align="right" |{{formatnum:4219499}}
+| align="right" |{{formatnum:4251610}}
+| align="right" |{{formatnum:4292229}}
+| align="right" |{{formatnum:4321034}}
+| align="right" |{{formatnum:4356578}}
+| align="right" |{{formatnum:4388737}}
+|-
+|Ārvalstīs dzimušo skaits:
+| align="right" |{{formatnum:564884}}
+| align="right" |{{formatnum:578782}}
+| align="right" |{{formatnum:612011}}
+| align="right" |{{formatnum:643406}}
+| align="right" |{{formatnum:649746}}
+| align="right" |{{formatnum:671267}}
+|-
+|{{Polija}}
+| align="right" |{{formatnum:127045}}
+| align="right" |{{formatnum:129117}}
+| align="right" |{{formatnum:130654}}
+| align="right" |{{formatnum:132638}}
+| align="right" |{{formatnum:135195}}
+| align="right" |{{formatnum:135903}}
+|-
+|{{Apvienotā Karaliste}}
+| align="right" |{{formatnum:107330}}
+| align="right" |{{formatnum:109303}}
+| align="right" |{{formatnum:112414}}
+| align="right" |{{formatnum:117426}}
+| align="right" |{{formatnum:117820}}
+| align="right" |{{formatnum:118083}}
+|-
+|{{Lietuva}}
+| align="right" |{{formatnum:38279}}
+| align="right" |{{formatnum:39276}}
+| align="right" |{{formatnum:40205}}
+| align="right" |{{formatnum:41247}}
+| align="right" |{{formatnum:42396}}
+| align="right" |{{formatnum:42973}}
+|-
+|{{Rumānija}}
+| align="right" |{{formatnum:29293}}
+| align="right" |{{formatnum:28628}}
+| align="right" |{{formatnum:27902}}
+| align="right" |{{formatnum:27294}}
+| align="right" |{{formatnum:27068}}
+| align="right" |{{formatnum:26576}}
+|-
+|{{Latvija}}
+| align="right" |'''{{formatnum:20671}}'''
+| align="right" |'''{{formatnum:21070}}'''
+| align="right" |'''{{formatnum:21394}}'''
+| align="right" |'''{{formatnum:21787}}'''
+| align="right" |'''{{formatnum:22303}}'''
+| align="right" |'''{{formatnum:22474}}'''
+|-
+|{{Vācija}}
+| align="right" |{{formatnum:13200}}
+| align="right" |{{formatnum:14673}}
+| align="right" |{{formatnum:17157}}
+| align="right" |{{formatnum:18811}}
+| align="right" |{{formatnum:18989}}
+| align="right" |{{formatnum:20423}}
+|-
+|{{Nigērija}}
+| align="right" |{{formatnum:8579}}
+| align="right" |{{formatnum:9843}}
+| align="right" |{{formatnum:12608}}
+| align="right" |{{formatnum:15231}}
+| align="right" |{{formatnum:16103}}
+| align="right" |{{formatnum:18430}}
+|-
+|{{ASV}}
+| align="right" |{{formatnum:12480}}
+| align="right" |{{formatnum:12933}}
+| align="right" |{{formatnum:14487}}
+| align="right" |{{formatnum:15945}}
+| align="right" |{{formatnum:16136}}
+| align="right" |{{formatnum:17377}}
+|-
+|{{Francija}}
+| align="right" |{{formatnum:12659}}
+| align="right" |{{formatnum:13368}}
+| align="right" |{{formatnum:15046}}
+| align="right" |{{formatnum:16185}}
+| align="right" |{{formatnum:16207}}
+| align="right" |{{formatnum:17181}}
+|-
+|{{Indija}}
+| align="right" |{{formatnum:13064}}
+| align="right" |{{formatnum:13141}}
+| align="right" |{{formatnum:14420}}
+| align="right" |{{formatnum:15622}}
+| align="right" |{{formatnum:15621}}
+| align="right" |{{formatnum:16906}}
+|-
+|{{Brazīlija}}
+| align="right" |{{formatnum:15148}}
+| align="right" |{{formatnum:14962}}
+| align="right" |{{formatnum:15669}}
+| align="right" |{{formatnum:16347}}
+| align="right" |{{formatnum:15903}}
+| align="right" |{{formatnum:16470}}
+|-
+|{{Spānija}}
+| align="right" |{{formatnum:12860}}
+| align="right" |{{formatnum:13228}}
+| align="right" |{{formatnum:14629}}
+| align="right" |{{formatnum:15522}}
+| align="right" |{{formatnum:15336}}
+| align="right" |{{formatnum:16057}}
+|-
+|{{ĶTR}}
+| align="right" |{{formatnum:11429}}
+| align="right" |{{formatnum:11906}}
+| align="right" |{{formatnum:13355}}
+| align="right" |{{formatnum:14573}}
+| align="right" |{{formatnum:14625}}
+| align="right" |{{formatnum:15647}}
+|-
+|{{Itālija}}
+| align="right" |{{formatnum:12341}}
+| align="right" |{{formatnum:12486}}
+| align="right" |{{formatnum:13520}}
+| align="right" |{{formatnum:14214}}
+| align="right" |{{formatnum:13989}}
+| align="right" |{{formatnum:14565}}
+|-
+|{{Filipīnas}}
+| align="right" |{{formatnum:5975}}
+| align="right" |{{formatnum:6980}}
+| align="right" |{{formatnum:9441}}
+| align="right" |{{formatnum:11425}}
+| align="right" |{{formatnum:12060}}
+| align="right" |{{formatnum:13932}}
+|-
+|{{Slovākija}}
+| align="right" |{{formatnum:10130}}
+| align="right" |{{formatnum:10416}}
+| align="right" |{{formatnum:10612}}
+| align="right" |{{formatnum:10988}}
+| align="right" |{{formatnum:11294}}
+| align="right" |{{formatnum:11416}}
+|-
+|{{Ungārija}}
+| align="right" |{{formatnum:9431}}
+| align="right" |{{formatnum:9379}}
+| align="right" |{{formatnum:9364}}
+| align="right" |{{formatnum:9354}}
+| align="right" |{{formatnum:9377}}
+| align="right" |{{formatnum:9336}}
+|-
+|{{Pakistāna}}
+| align="right" |{{formatnum:7851}}
+| align="right" |{{formatnum:7531}}
+| align="right" |{{formatnum:7557}}
+| align="right" |{{formatnum:7576}}
+| align="right" |{{formatnum:7216}}
+| align="right" |{{formatnum:7382}}
+|-
+|{{Nīderlande}}
+| align="right" |{{formatnum:5149}}
+| align="right" |{{formatnum:5402}}
+| align="right" |{{formatnum:6094}}
+| align="right" |{{formatnum:6608}}
+| align="right" |{{formatnum:6625}}
+| align="right" |{{formatnum:6998}}
+|-
+|{{Dienvidāfrika}}
+| align="right" |{{formatnum:3709}}
+| align="right" |{{formatnum:3974}}
+| align="right" |{{formatnum:4675}}
+| align="right" |{{formatnum:5360}}
+| align="right" |{{formatnum:5424}}
+| align="right" |{{formatnum:6009}}
+|-
+|{{Čehija}}
+| align="right" |{{formatnum:5142}}
+| align="right" |{{formatnum:5245}}
+| align="right" |{{formatnum:5302}}
+| align="right" |{{formatnum:5456}}
+| align="right" |{{formatnum:5572}}
+| align="right" |{{formatnum:5614}}
+|-
+|{{Krievijas Federācija}}
+| align="right" |{{formatnum:3421}}
+| align="right" |{{formatnum:3656}}
+| align="right" |{{formatnum:4271}}
+| align="right" |{{formatnum:4887}}
+| align="right" |{{formatnum:5041}}
+| align="right" |{{formatnum:5492}}
+|-
+|{{Portugāle}}
+| align="right" |{{formatnum:4845}}
+| align="right" |{{formatnum:4799}}
+| align="right" |{{formatnum:5113}}
+| align="right" |{{formatnum:5277}}
+| align="right" |{{formatnum:5116}}
+| align="right" |{{formatnum:5256}}
+|-
+|{{Horvātija}}
+| align="right" |{{formatnum:5276}}
+| align="right" |{{formatnum:5130}}
+| align="right" |{{formatnum:4977}}
+| align="right" |{{formatnum:4841}}
+| align="right" |{{formatnum:4785}}
+| align="right" |{{formatnum:4697}}
+|-
+|{{Malaizija}}
+| align="right" |{{formatnum:3436}}
+| align="right" |{{formatnum:3489}}
+| align="right" |{{formatnum:3865}}
+| align="right" |{{formatnum:4262}}
+| align="right" |{{formatnum:4246}}
+| align="right" |{{formatnum:4562}}
+|-
+|{{Austrālija}}
+| align="right" |{{formatnum:2924}}
+| align="right" |{{formatnum:3118}}
+| align="right" |{{formatnum:3536}}
+| align="right" |{{formatnum:3944}}
+| align="right" |{{formatnum:3967}}
+| align="right" |{{formatnum:4260}}
+|-
+|{{Kanāda}}
+| align="right" |{{formatnum:2938}}
+| align="right" |{{formatnum:3072}}
+| align="right" |{{formatnum:3467}}
+| align="right" |{{formatnum:3835}}
+| align="right" |{{formatnum:3897}}
+| align="right" |{{formatnum:4176}}
+|-
+|{{Ukraina}}
+| align="right" |{{formatnum:2331}}
+| align="right" |{{formatnum:2469}}
+| align="right" |{{formatnum:2981}}
+| align="right" |{{formatnum:3373}}
+| align="right" |{{formatnum:3492}}
+| align="right" |{{formatnum:3910}}
+|-
+|{{Moldova}}
+| align="right" |{{formatnum:2409}}
+| align="right" |{{formatnum:2551}}
+| align="right" |{{formatnum:2972}}
+| align="right" |{{formatnum:3325}}
+| align="right" |{{formatnum:3407}}
+| align="right" |{{formatnum:3723}}
+|-
+|{{Maurīcija}}
+| align="right" |{{formatnum:2344}}
+| align="right" |{{formatnum:2481}}
+| align="right" |{{formatnum:2776}}
+| align="right" |{{formatnum:3085}}
+| align="right" |{{formatnum:3132}}
+| align="right" |{{formatnum:3350}}
+|-
+|{{Zviedrija}}
+| align="right" |{{formatnum:1862}}
+| align="right" |{{formatnum:2120}}
+| align="right" |{{formatnum:2520}}
+| align="right" |{{formatnum:2773}}
+| align="right" |{{formatnum:2810}}
+| align="right" |{{formatnum:3049}}
+|-
+|{{Igaunija}}
+| align="right" |{{formatnum:2294}}
+| align="right" |{{formatnum:2373}}
+| align="right" |{{formatnum:2464}}
+| align="right" |{{formatnum:2543}}
+| align="right" |{{formatnum:2633}}
+| align="right" |{{formatnum:2672}}
+|-
+|{{Bulgārija}}
+| align="right" |{{formatnum:2655}}
+| align="right" |{{formatnum:2627}}
+| align="right" |{{formatnum:2592}}
+| align="right" |{{formatnum:2568}}
+| align="right" |{{formatnum:2559}}
+| align="right" |{{formatnum:2508}}
+|-
+|{{Taizeme}}
+| align="right" |{{formatnum:1342}}
+| align="right" |{{formatnum:1389}}
+| align="right" |{{formatnum:1637}}
+| align="right" |{{formatnum:1859}}
+| align="right" |{{formatnum:1899}}
+| align="right" |{{formatnum:2120}}
+|-
+|{{Bangladeša}}
+| align="right" |{{formatnum:1578}}
+| align="right" |{{formatnum:1575}}
+| align="right" |{{formatnum:1769}}
+| align="right" |{{formatnum:1946}}
+| align="right" |{{formatnum:1916}}
+| align="right" |{{formatnum:2024}}
+|-
+|{{Beļģija}}
+| align="right" |{{formatnum:1378}}
+| align="right" |{{formatnum:1488}}
+| align="right" |{{formatnum:1674}}
+| align="right" |{{formatnum:1818}}
+| align="right" |{{formatnum:1835}}
+| align="right" |{{formatnum:1960}}
+|-
+|{{Japāna}}
+| align="right" |{{formatnum:1225}}
+| align="right" |{{formatnum:1317}}
+| align="right" |{{formatnum:1526}}
+| align="right" |{{formatnum:1698}}
+| align="right" |{{formatnum:1770}}
+| align="right" |{{formatnum:1909}}
+|-
+|{{Zimbabve}}
+| align="right" |{{formatnum:1229}}
+| align="right" |{{formatnum:1284}}
+| align="right" |{{formatnum:1516}}
+| align="right" |{{formatnum:1684}}
+| align="right" |{{formatnum:1712}}
+| align="right" |{{formatnum:1875}}
+|-
+|{{Saūda Arābija}}
+| align="right" |{{formatnum:1876}}
+| align="right" |{{formatnum:1836}}
+| align="right" |{{formatnum:1855}}
+| align="right" |{{formatnum:1882}}
+| align="right" |{{formatnum:1819}}
+| align="right" |{{formatnum:1853}}
+|-
+|{{Jaunzēlande}}
+| align="right" |{{formatnum:1283}}
+| align="right" |{{formatnum:1352}}
+| align="right" |{{formatnum:1488}}
+| align="right" |{{formatnum:1644}}
+| align="right" |{{formatnum:1662}}
+| align="right" |{{formatnum:1786}}
+|-
+|{{Somija}}
+| align="right" |{{formatnum:1078}}
+| align="right" |{{formatnum:1212}}
+| align="right" |{{formatnum:1443}}
+| align="right" |{{formatnum:1580}}
+| align="right" |{{formatnum:1635}}
+| align="right" |{{formatnum:1726}}
+|-
+|{{Korejas Republika}}
+| align="right" |{{formatnum:1181}}
+| align="right" |{{formatnum:1201}}
+| align="right" |{{formatnum:1384}}
+| align="right" |{{formatnum:1527}}
+| align="right" |{{formatnum:1532}}
+| align="right" |{{formatnum:1652}}
+|-
+|{{Kongo Republika}}
+| align="right" |229
+| align="right" |483
+| align="right" |851
+| align="right" |{{formatnum:1117}}
+| align="right" |{{formatnum:1213}}
+| align="right" |{{formatnum:1459}}
+|-
+|{{Austrija}}
+| align="right" |971
+| align="right" |{{formatnum:1028}}
+| align="right" |{{formatnum:1176}}
+| align="right" |{{formatnum:1294}}
+| align="right" |{{formatnum:1294}}
+| align="right" |{{formatnum:1379}}
+|-
+|{{Dānija}}
+| align="right" |925
+| align="right" |{{formatnum:1016}}
+| align="right" |{{formatnum:1145}}
+| align="right" |{{formatnum:1241}}
+| align="right" |{{formatnum:1260}}
+| align="right" |{{formatnum:1301}}
+|-
+|{{Baltkrievija}}
+| align="right" |575
+| align="right" |676
+| align="right" |879
+| align="right" |{{formatnum:1052}}
+| align="right" |{{formatnum:1098}}
+| align="right" |{{formatnum:1263}}
+|-
+|{{Šveice}}
+| align="right" |855
+| align="right" |929
+| align="right" |{{formatnum:1036}}
+| align="right" |{{formatnum:1169}}
+| align="right" |{{formatnum:1179}}
+| align="right" |{{formatnum:1262}}
+|-
+|{{Meksika}}
+| align="right" |{{formatnum:1202}}
+| align="right" |{{formatnum:1168}}
+| align="right" |{{formatnum:1221}}
+| align="right" |{{formatnum:1228}}
+| align="right" |{{formatnum:1191}}
+| align="right" |{{formatnum:1228}}
+|-
+|{{Somālija}}
+| align="right" |929
+| align="right" |947
+| align="right" |{{formatnum:1055}}
+| align="right" |{{formatnum:1117}}
+| align="right" |{{formatnum:1107}}
+| align="right" |{{formatnum:1205}}
+|-
+|{{Gana}}
+| align="right" |653
+| align="right" |710
+| align="right" |830
+| align="right" |{{formatnum:1003}}
+| align="right" |{{formatnum:1057}}
+| align="right" |{{formatnum:1190}}
+|-
+|{{Sudāna}}
+| align="right" |957
+| align="right" |940
+| align="right" |{{formatnum:1016}}
+| align="right" |{{formatnum:1104}}
+| align="right" |{{formatnum:1079}}
+| align="right" |{{formatnum:1153}}
+|-
+|{{Venecuēla}}
+| align="right" |{{formatnum:1173}}
+| align="right" |{{formatnum:1138}}
+| align="right" |{{formatnum:1124}}
+| align="right" |{{formatnum:1133}}
+| align="right" |{{formatnum:1076}}
+| align="right" |{{formatnum:1067}}
+|-
+|{{Irāka}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:1044}}
+|-
+|{{Grieķija}}
+| align="right" |{{formatnum:1013}}
+| align="right" |979
+| align="right" |{{formatnum:1037}}
+| align="right" |{{formatnum:1067}}
+| align="right" |{{formatnum:1027}}
+| align="right" |{{formatnum:1038}}
+|-
+|}
+
+==== Latvijas valstspiederīgie ====
+{{pamatraksts|Īrijas latvieši}}
+Ja 2006. gada Īrijas tautas skaitīšanā 13 319 aptaujāto cilvēku norādīja tautību latvietis, tad 2011. gadā šis skaits bija pieaudzis līdz 20 593 (19 989 no viņiem apliecināja, ka ir dzimuši Latvijā). Pēc tautas skaitīšanas datiem 2011. gada aprīlī Latvijas valstspiederīgie veidoja 0,5% no kopējā Īrijas iedzīvotāju skaita. 50% no Latvijas valstspiederīgajiem bija [[sieviete]]s un 11% [[Bērns|bērni]]. 5842 (42%) Īrijā dzīvojošo Latvijas valstspiederīgo norādīja, ka mājās sarunājas [[Krievu valoda|krievu valodā]], bet 29% Latvijas valstspiederīgo norādīja, ka [[Angļu valoda|angļu valodā]] runā slikti vai nerunā nemaz.<ref>[http://baltic-ireland.ie/2012/03/21328/ Pirmie tautas skaitīšanas rezultāti – Īrijā dzīvo 20593 latvieši] Inguna Mieze ''baltic-ireland.ie'', 30.03.2012.</ref>
+
+== Atsauces ==
+{{Atsauces}}
+
+== Skatīt arī ==
+* [[Īrijas pilsētu uzskaitījums]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Īrija-aizmetnis}}
+
+{{Eiropa}}
+{{ES valstis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Īrija| ]]

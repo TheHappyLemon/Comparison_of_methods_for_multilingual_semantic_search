@@ -1,0 +1,26 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Methanol-2D.png|90 px]] [[Attēls:Methanol.pdb.png|90 px]] <br />Metanola struktūrformula un molekulas modelis
+|ķīmiskā formula=CH<sub>3</sub>OH
+|molmasa=32,04 
+|blīvums=791,8
+|kušanas temperatūra=76 K (-97&nbsp;°C)
+|viršanas temperatūra=337,8 K (64,7&nbsp;°C)
+}}
+'''Metanols''' (metilspirts, CH<sub>3</sub>OH), ir vienkāršākais [[spirti|spirts]]. Tas ir indīgs, degtspējīgs šķidrums, ko agrāk ieguva koksnes sausās [[pārtvaice]]s procesā, tāpēc to dažreiz sauc arī par '''koka spirtu'''.
+
+{{inde|Metanols ir indīga viela, jo organismā metabolizējas par ļoti bīstamo [[formaldehīds|formaldehīdu]]. 30 ml metanola ir nāvējoša deva, bet mazāki daudzumi var izraisīt [[aklums|aklumu]].}}
+
+== Iegūšana ==
+Mūsdienās metanolu lielākoties ražo no [[sintēzes gāze]]s (to iegūst no [[akmeņogles|akmeņoglēm]], [[nafta]]s, [[dabasgāze]]s, oglekli saturošiem atkritumiem, utt.). Sintēzes gāze satur [[Tvana gāze|CO]] un [[Ūdeņradis|H<sub>2</sub>]]. Katalizatora ([[varš|vara]], [[cinka oksīds|cinka oksīda]] un [[alumīnijs|alumīnija]]) klātienē lielā spiedienā un temperatūrā šīs gāzes reaģē savā starpā, rodoties metanolam:
+
+:[[tvana gāze|CO]] + 2 [[ūdeņradis|H<sub>2</sub>]] → CH<sub>3</sub>OH
+
+== Izmantošana ==
+Metanols ir nozīmīga izejviela [[formaldehīds|formaldehīda]], [[MTB|metil-''terc''-butilētera]] un citu vielu ražošanai. Metanols ir arī viena no divām [[biodīzeļdegviela]]s izejvielām.
+
+{{Spirti}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Spirti]]
+[[Kategorija:Šķīdinātāji]]

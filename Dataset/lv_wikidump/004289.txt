@@ -1,0 +1,50 @@
+{{Apdzīvotas vietas infokaste
+ | name                     = Itaka
+ | official_name              = ''Ithaca''
+ | settlement_type          = pilsēta
+ | other_name               = 
+ | nickname                 = 
+ | motto                    = 
+ | image_skyline            = View Of East HillI thaca NY.jpg
+ | imagesize                = 
+ | image_caption            = 
+ | image_flag               = 
+ | image_seal               = 
+ | image_shield             = 
+ | pushpin_map              = ASV#Ņujorkas štats
+ | pushpin_label_position   = <!-- left/right -->
+ | latd  = 42 | latm  = 26 | lats  = 36 | latNS  = N
+ | longd = 76 | longm = 30 | longs = 0 | longEW = W
+ | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name         = '''{{karogs|ASV}}'''
+ | subdivision_type1        = Štats
+ | subdivision_name1        = {{flag|Ņujorka}}
+ | subdivision_type2        = Apgabals
+ | subdivision_name2        = [[Tompkinsa apgabals|Tompkinsa]]
+ | area_total_km2           = 15.7
+ | elevation_m              = 136
+ | population_total         = 30014
+ | population_as_of         = {{dat|2010|||SK|bez}}
+ | population_rank          = 
+ | population_density_km2   = auto
+ | timezone                 = [[Eastern Standard Time|EST]]
+ | utc_offset               = -5
+ | timezone_DST             = [[Eastern Daylight Time|EDT]]
+ | utc_offset_DST           = -4
+ | website                  = {{URL|http://www.cityofithaca.org/}}
+ | footnotes                = 
+}}
+'''Itaka''' ({{val|en|Ithaca}}) ir pilsēta [[Ņujorka (štats)|Ņujorkas štata]] vidienē, [[Amerikas Savienotās Valstis|ASV]]. Atrodas [[Kajugas ezers|Kajugas ezera]] (''Cayuga'') krastā. Itaka galvenokārt pazīstama kā [[studentu pilsēta]]; tā ir mājvieta [[Kornela Universitāte]]i (''Cornell University'') un [[Itakas koledža]]i (''Ithaca College''). Pilsētas iedzīvotāju skaits svārstās ap 30 000, no kuriem lielākā daļa ir [[students|studenti]]. Itaka ir [[Tompkinsa apgabals|Tompkinsa apgabala]] administratīvais centrs (''Tompkins County'').
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ņujorkas pilsētas]]

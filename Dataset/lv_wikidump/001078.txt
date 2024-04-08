@@ -1,0 +1,263 @@
+{{Latvijas politika}}
+Šis ir saraksts ar [[Latvija|Latvijā]] reģistrētajām [[politiska partija|politiskām partijām]].
+
+2022. gada jūlijā Latvijā darbojās 8 politisko partiju apvienības un 53 aktīvas partijas.<ref>{{Tīmekļa atsauce|url=https://www.ur.gov.lv/lv/registre/organizaciju/politiska-partija/politisko-partiju-un-to-apvienibu-saraksts/?filter=pp&search=|title=Politisko partiju un to apvienību saraksts|website=Uzņēmumu reģistra tīmekļvietne|access-date=2022-07-24|language=lv}}</ref> 2022. gadā kādā partijā iestājies bija ap 26 tūkstošiem Latvijas iedzīvotāju.<ref>{{Tīmekļa atsauce|url=https://www.delfi.lv/bizness/budzets_un_nodokli/politisko-partiju-biedru-skaits-sasniedz-gandriz-26-tukstosus.d?id=54565596|title=Politisko partiju biedru skaits sasniedz gandrīz 26 tūkstošus|website=www.delfi.lv|access-date=2022-07-24|language=lv}}</ref>
+
+== Aktīvās partijas ==
+
+=== [[14. Saeima|14. Saeimā]] un [[Eiropas Parlaments|EP]] pārstāvētās partijas un apvienības ===
+
+{| class="wikitable sortable"
+! colspan=2 | Partijas nosaukums
+! Abr.
+! Līderi
+! Biedru skaits
+! Ideoloģija
+! [[Saeima]]
+! [[Eiropas Parlaments|EP]]
+! Piezīmes
+|-
+! style="background-color:#64C049 |
+| [[Jaunā Vienotība]]
+| JV
+| [[Arturs Krišjānis Kariņš]]
+| 3158 (2024)
+| [[Liberālais konservatīvisms]]<br>[[Pro-Eiropisms|Proeiropeisms]]
+| {{Composition bar|26|100|hex=#64C049}}
+| {{Composition bar|2|8|hex=#64C049}}
+| <small>Politiskā apvienība sastāv no šādām partijām: [[Vienotība]], [[Kuldīgas novadam]], [[Tukuma pilsētai un novadam]], [[Valmierai un Vidzemei]] un [[Jēkabpils reģionālā partija]].</small>
+|-
+! style="background-color:#258B4C |
+| [[Zaļo un Zemnieku savienība]]
+| ZZS
+| [[Armands Krauze]]
+| 2310 (2023)
+| [[Agrārisms]]<br>[[Zaļais konservatīvisms]]
+| {{Composition bar|16|100|hex=#258B4C}}
+| {{Composition bar|0|8|hex=#258B4C}}
+| <small>Politiskā apvienība sastāv no šādām partijām: [[Daugavpils novada partija]], [[Latvijas Sociāldemokrātiskā strādnieku partija]], [[Latvijas Zemnieku savienība]] un "[[Latvijai un Ventspilij]]".</small>
+|-
+! style="background-color:#ffa800 |
+| [[Apvienotais saraksts]]
+| AS
+| [[Edgars Tavars]]<br>[[Edvards Smiltēns]]
+| 1977 (2023)
+| [[Reģionālisms]]<br>[[Zaļais konservatīvisms]]
+| {{Composition bar|14|100|hex=#ffa800}}
+| {{Composition bar|0|8|hex=#ffa800}}
+| <small>Politiskā apvienība sastāv no šādām partijām: [[Latvijas Zaļā partija]], [[Latvijas Reģionu apvienība]] un [[Liepājas partija]].</small>
+|-
+! style="background-color:#5A0505 |
+| [[Nacionālā apvienība "Visu Latvijai!"—"Tēvzemei un Brīvībai/LNNK"]]
+| NA
+| [[Raivis Dzintars]]
+| 1061 (2024)
+| [[Nacionālisms]]<br>Konservatīvisms
+| {{Composition bar|12|100|hex=#5A0505}}
+| {{Composition bar|2|8|hex=#5A0505}}
+|
+|-
+! style="background-color:#f57d00 |
+| [[Stabilitātei!]]
+| S! vai ST!
+| [[Aleksejs Rosļikovs]]
+| 703 (2024)
+| [[Centrisms]]<br>[[Populisms]]<br>[[Eiroskepticisms]]<br>[[Latvijas krievi|Latvijas krievu intereses]]
+| {{Composition bar|8|100|hex=#f57d00}}
+| {{Composition bar|0|8|hex=#f57d00}}
+|
+|-
+! style="background-color:#E64632 |
+| [[Progresīvie]]
+| P vai PRO
+| [[Antoņina Ņenaševa]]<br>[[Atis Švinka]]
+| 838 (2023)
+| [[Sociāldemokrātija]]<br>[[Zaļā politika]]<br>[[Progresīvisms]]
+| {{Composition bar|10|100|hex=#E64632}}
+| {{Composition bar|0|8|hex=#E64632}}
+|
+|-
+! style="background-color:#9E3039 |
+| [[Latvija pirmajā vietā]]
+| LPV
+| [[Ainārs Šlesers]]
+| 1285 (2024)
+| [[Sociālais konservatīvisms]]<br />[[Kristīgā demokrātija]]<br>[[Populisms]]
+| {{Composition bar|8|100|hex=#9E3039}}
+| {{Composition bar|0|8|hex=#9E3039}}
+|
+|-
+! style="background-color:#004898 |
+| [[Gods kalpot Rīgai!]]
+| GKR
+| [[Oļegs Burovs]]
+| 522 (2024)
+| [[Reģionālisms]]
+| {{Composition bar|1|100|hex=#004898}}
+| {{Composition bar|1|8|hex=#004898}}
+| <small>Nav frakcijas Saeimā. Pārstāv no [[Latvija pirmajā vietā]] ievēlētais deputāts [[Oļegs Burovs]].</small>
+|-
+! style="background-color:#FF2400 |
+| [[Saskaņa]]
+| S vai SDPS
+| [[Nils Ušakovs]]<br />[[Regīna Ločmele]]<br />[[Andris Morozovs]]
+| 1347 (2023)
+| [[Sociāldemokrātija]]
+| {{Composition bar|0|100|hex=#FF2400}}
+| {{Composition bar|1|8|hex=#FF2400}}
+|
+|-
+! style="background-color:#FFEC00 |
+| [[PLI]]
+| PLI
+| [[Daniels Pavļuts]]<br />[[Ivars Ijabs]]
+| 1428 (2023)
+| [[Sociālliberālisms]]
+| {{Composition bar|0|100|hex=#FFEC00}}
+| {{Composition bar|1|8|hex=#FFEC00}}
+| <small>Politiskā apvienība sastāv no šādām partijām: [[Latvijas attīstībai]], [[Kustība Par!]], [[Izaugsme (partija)|Izaugsme]] un [[Latgales partija]]</small>
+|-
+! style="background-color:#2268C1 |
+| [[Latvijas Krievu savienība]]
+| LKS
+| [[Tatjana Ždanoka]]<br />[[Miroslavs Mitrofanovs]]
+| 636 (2024)
+| [[Latvijas krievi|Latvijas krievu]] intereses<br />[[Sociālais konservatīvisms]]
+| {{Composition bar|0|100|hex=#2268C1}}
+| {{Composition bar|1|8|hex=#2268C1}}
+|
+|}
+
+=== Pārējās partijas un apvienības ===
+* [[Apvienība Jaunlatvieši]]
+* [[Atmoda (partija)|Atmoda]]<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/atmoda/50008276341|title=Atmoda , 50008276341 - par uzņēmumu|last=LURSOFT|website=Lursoft|access-date=2020-12-27|date=2020-12-27|language=lv}}</ref>
+* [[Brīvam cilvēkam]] (iepriekš [[Partija "Brīvība. Brīvs no bailēm, naida un dusmām"]])
+* [[Konservatīvie]]
+* [[Kopā Latvijai]]<ref>{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/zinas/latvija/02.04.2023-bartasevics-ar-domubiedriem-aiz-slegtam-durvim-nodibinajis-jaunu-partiju-kopa-latvijai.a503363/|title=Bartaševičs ar domubiedriem aiz slēgtām durvīm nodibinājis jaunu partiju «Kopā Latvijai»|website=www.lsm.lv|access-date=2023-04-02|language=lv}}</ref>
+* [[Kristīgi demokrātiskā savienība]]
+* [[Kristīgi Progresīvā partija]] (iepriekš [[Vienota Rēzekne]])
+* [[Latvijas Atdzimšanas partija]]
+* [[Latvijas Pirātu Partija]]
+* [[Latvijas Sociālistiskā partija]]
+* [[Nacionālā Savienība "Taisnīgums"]] (iepriekš [[Nacionālā Spēka Savienība]])
+* [[Pamats-LV]]<ref>{{Tīmekļa atsauce|url=https://www.ur.gov.lv/lv/legal-entity/?id=40008324917|title=PAMATS-LV, 40008324917 - par uzņēmumu|website=ur.gov.lv|language=lv|date=2023-04-28|access-date=2023-05-02}}</ref><ref>{{Tīmekļa atsauce|url=https://www.lsm.lv/raksts/zinas/latvija/02.05.2023-zdanokas-un-mitrofanova-vadita-krievu-savieniba-izveido-apvienibu-ar-centra-partiju.a507077/|title=Ždanokas un Mitrofanova vadītā Krievu savienība izveido apvienību ar "Centra partiju"|website=lsm.lv|language=lv|date=2023-05-02|access-date=2023-05-02}}</ref>
+** [[Centra partija]]
+** [[Latvijas Krievu savienība]]
+* [[Pašcieņa (partija)|Pašcieņa]] (iepriekš "Ropažu komanda")
+* [[Platforma 21]] (iepriekš Katram un katrai, Likums un kārtība)
+* [[Republika (partija)|Republika]]
+* [[Rīcības partija]] (iepriekš Eiroskeptiķi, Esi Cilvēks)
+* [["Sadarbība"]]
+* [[Suverēnā vara]] (iepriekš Likums.Atbildība.Kārtība, Savienība Latgales sirds)<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/likums-atbildiba-kartiba/40008087873|title=Suverēnā vara, 40008087873 - par uzņēmumu|last=|website=Lursoft|access-date=2023-04-10|date=2021-04-15|language=lv}}</ref>
+* [[Tautas kalpi Latvijai]] (iepriekš Jaunā Saskaņa)
+* [[Tautas varas spēks]] (iepriekš Alternative, Spēks vienotībā)<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/alternative/40008113748|title=Tautas varas spēks, 40008113748 - par uzņēmumu|last=|website=Lursoft|access-date=2023-04-10|date=2021-04-15|language=lv}}</ref>
+* [[Tauta. Zeme. Valsts.]] (iepriekš Apvienība Latvijai)
+** [[Par Cilvēcīgu Latviju]]
+** [[Tēvzemes mantojums]] (iepriekš "Tēvzemes nacionālo spēku savienība", "Tēvzemes savienība", "Daugava — Latvijai")
+** [[Brīvai stiprai Latvijai]]
+* [[Vienoti Latvijai (partija)|Vienoti Latvijai]]
+
+=== Reģionālās partijas ===
+* [[Apvienība Iedzīvotāji]]
+* [[Daugavpils — mana pilsēta]]
+* [[Daugavpils novada partija]] (sadarbojas ar [[Zaļo un Zemnieku savienība|ZZS]])
+* [[Jēkabpils reģionālā partija]]
+* [[Jūrmala — mūsu mājas]]
+* [[Latgales partija]] (ietilpst [[Attīstībai/Par!|A/Par!]])
+* [[Latvijai un Ventspilij]] (sadarbojas ar [[Zaļo un Zemnieku savienība|ZZS]])
+* [[Liepājas kvadrātā]]
+* [[Liepājas partija]] (ietilpst [[Apvienotais saraksts|AS]])
+* [[Kuldīgas novadam]] (ietilpst [[Jaunā Vienotība|JV]])
+* [[Mēs – Talsiem un novadam]]
+* [[Mūsu partija]]
+* [[Siguldas novada partija]] (iepriekš "Krimuldas novada partija")
+* [[Talsu novada attīstībai]]
+* [[Tev, Jūrmalai]]
+* [[Tukuma pilsētai un novadam]] (ietilpst [[Jaunā Vienotība|JV]])
+* [[Valmierai un Vidzemei]]
+* [[Vidzemes partija]] (sadarbojas ar [[Platforma 21|P21]])
+
+== Bijušās partijas ==
+Partijas, kuras nav izpildījušas Politisko partiju likuma prasību pārreģistrēties ik pēc noteikta laika brīža un līdz ar to uzsākts to likvidācijas process, vai arī citādā veidā izbeigušas darbību.
+
+=== Saeimā pārstāvētās partijas un apvienības ===
+* [[Brīvā izvēle tautu Eiropā|Brīva izvēle tautu Eiropā]] (apvienojās, izveidojot partiju "Par cilvēku tiesībām vienotā Latvijā")
+* [[Darba partija]]
+* [[Demokrāti.lv]] (iepriekš "Jaunie Demokrāti")
+* [[Demokrātiskā partija "Saimnieks"|Latvijas Demokrātiskā partija]]
+* [[Jaunā partija]]
+* [[Jaunais centrs]] (apvienojās, izveidojot partiju "Saskaņa")
+* [[Latvijas Ceļš]] (apvienojās, izveidojot partiju "LPP/LC")
+* [[Latvijas Nacionālās neatkarības kustība]] (apvienojās, izveidojot partiju "Tēvzemei un Brīvībai/LNNK")
+* [[Latvijas Pirmā Partija]] (apvienojās, izveidojot partiju "LPP/LC")
+* [[Līdztiesība]] (apvienojās, izveidojot partiju "Par cilvēku tiesībām vienotā Latvijā")
+* [[LPP/LC]]
+* [[Reformu partija (Latvija)|Reformu partija]]
+* [[Sociāldemokrātiskā partija-SDP]] (apvienojās, izveidojot partiju "Saskaņa")
+* [[Tautas kustība "Latvijai"]]
+* [[Tautas partija]]
+* [[Tautas Saskaņas partija]] (apvienojās, izveidojot partiju "Saskaņa")
+* [[Tautsaimnieku politiskā apvienība]]
+* [[Tēvzemei un Brīvībai]] (apvienojās, izveidojot partiju "Tēvzemei un Brīvībai/LNNK")
+
+=== Reģionālās partijas ===
+: ''Saraksts var būt nepilnīgs.''
+
+* [[Bauskas rajona Nacionālā apvienība]]
+* [[Latgales Gaisma]]
+* [[Latgales tauta]]<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/latgales-tauta/40008116424|title=Latgales tauta , 40008116424 - par uzņēmumu|last=|website=Lursoft|access-date=2021-04-15|date=2021-04-15|language=lv}}</ref>
+* Apvienība "[[Liepājas attīstībai]]"<ref>{{Tīmekļa atsauce|url=https://irliepaja.lv/liepajnieki/oficiali-likvideta-apvieniba-liepajas-attistibai/|title=Oficiāli likvidēta apvienība &quot;Liepājas attīstībai&quot;|website=irliepaja.lv|access-date=2021-04-15|date=2014-05-19|language=lv}}</ref>
+* [[Mēs savam novadam]] (apvienojās, izveidojot partiju "LPP/LC")
+* [[Mēs Olainei]]
+* [[Ogres Novadam]] (2020. gadā apvienojās, izveidojot partiju "Latvijas Reģionu apvienība")<ref name="LRA">{{Tīmekļa atsauce|title=Latvijas Reģionu apvienība pārtapusi partijā |url=https://www.diena.lv/raksts/latvija/politika/_latvijas-regionu-apvieniba_-partapusi-partija-14246857 |access-date=2023-10-03 |website=www.diena.lv}}</ref>
+* [[Reģionu alianse]] (iepriekš "Rīgas apriņķa novadu apvienība"; 2020. gadā apvienojās, izveidojot partiju "Latvijas Reģionu apvienība")<ref name="LRA" />
+* [[Rēzeknes Jaunsaimnieks]]<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/rezeknes-jaunsaimnieks/40008092041|title=Rēzeknes Jaunsaimnieks, Politiskā partija, 40008092041 - par uzņēmumu|last=|website=Lursoft|access-date=2021-04-15|date=2021-04-15|language=lv}}</ref>
+* [[Vidzemes apvienība]] (apvienojās, izveidojot partiju "LPP/LC")
+* [[Zemgales partija]]
+
+=== Citas partijas un apvienības ===
+: ''Saraksts var būt nepilnīgs.''
+
+* [[Gods kalpot mūsu Latvijai]]
+* [[Apvienība SKG]]
+* [[Apvienotā sociāldemokrātiskā labklājības partija]]
+* [[Atbildība (partiju apvienība)|Atbildība — sociāldemokrātisko partiju apvienība]]
+* [[Demokrātu partija]]
+* [[Dzimtene (partija)|Dzimtene]]
+* [[Konservatīvā partija (Latvija)|Konservatīvā partija]]
+* [[Jaunlatvija]]
+* [["LAIKS PĀRMAIŅĀM"]]
+* [[Latviešu Latvija]]
+* [[Latviešu Nacionālisti]]
+* [[Latviešu partija]]
+* [[Latviešu Zemnieku savienība (1993)]]
+* [[Latvijas Apvienotā Republikāņu partija]]
+* [[Latvijas Kalve]]
+* [[Latvijas Nacionāli Demokrātiskā partija]]
+* [[Māras zeme (partija)|Māras Zeme]]
+* [[Mūsu izvēle]] (iepriekš "Latvijas Jaunatnes partija" un "Uz priekšu, Latvija!')
+* [[Mūsu Zeme]]
+* [[Nacionālā Spēka Savienība]]
+* [[Ražotāja Latvija]]<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/razotaja-latvija/40008157865|title=Ražotāja Latvija , 40008157865 - par uzņēmumu|last=|website=Lursoft|access-date=2021-04-15|date=2021-04-15|language=lv}}</ref>
+* [[Reformu savienība]]
+* [[Latvijas Republikāņu partija|Republikāņu partija]]
+* [[Republikas Atbalstīšanas Apvienība]]
+* [[Sociāldemokrātiskā sieviešu organizācija]]
+* [[Sporta un veselības partija]]
+* [[Sporta partija]]
+* [[Tautas kontrole]] (iepriekš "Mūsu Latvijai")<ref>{{Tīmekļa atsauce|url=https://company.lursoft.lv/tautas-kontrole/40008087591|title=Tautas kontrole , 40008087591 - par uzņēmumu|last=|website=Lursoft|access-date=2021-04-15|date=2021-04-15|language=lv}}</ref>
+* [[Tautas kopa "Brīvība"]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20180701165040/https://www.ur.gov.lv/lv/registre/organizaciju/politiska-partija/politisko-partiju-un-to-apvienibu-saraksts/ LR Uzņēmumu Reģistra Politisko partiju reģistrs]
+* [https://web.archive.org/web/20180320105515/http://partijas.info/ Informācija par Latvijas politiskajām partijām]
+
+{{Latvijas politiskās partijas}}
+
+[[Kategorija:Latvijas politiskās partijas|*]]
+[[Kategorija:Politisko partiju uzskaitījumi]]
+
+[[he:פוליטיקה של לטביה#הסאימה]]

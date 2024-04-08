@@ -1,0 +1,131 @@
+'''Mēnesis''' ir [[laiks|laika]] vienība, kuru lieto [[kalendārs|kalendāros]], un vēsturiski ir veidojies, kā laika posms, kurā nomainās visas četras [[mēness fāze]]s (29,53 dienas). Pasaulē plaši izmanto [[Gregora kalendārs|Gregora kalendāru]]. Tajā [[gads]] tiek dalīts 12 mēnešos, un dienu skaits vienā mēnesī ir 30 vai 31 (februārī ir 28 vai 29 dienas [[garais gads|garajā gadā]]). Citos kalendāros mēnešu skaits gadā var būt arī citādāks un arī dienu skaits vienā mēnesī var atšķirties.
+
+== Mēneša jēdziens ==
+Vēsturiski mēnesis ir radies kā laika vienība, kad nomainās visas [[mēness fāze]]s. Tas notiek 29,53 dienās. Tā kā vienā gadā ir 365 dienas ([[garais gads|garajā gadā]] ir 366 dienas) un šis skaitlis nedalās ar 12 bez atlikuma, tad vienā mēnesī esošo dienu skaits variē no 30 uz 31 (februārī ir 28 dienas, 29 dienas garajā gadā). [[Gregora kalendārs|Gregora kalendārā]] vidējais mēneša ilgums ir 30,436875 dienas. Atsevišķās zemēs, īpaši [[musulmaņi|musulmaņu]] valstīs, izmanto [[lunārais kalendārs|lunāro kalendāru]], kurā viena mēneša garums ir 29 vai 30 dienas. Mēness sākas ar [[jauns mēness|jauna mēness]] fāzes iestāšanos. Pēc šī kalendāra gada 12 mēnešos ir 354 vai 355 dienas. Līdz ar to gada garums, salīdzinot ar Gregora kalendāru, ir īsāks par 10 līdz pat 12 dienām. Lai to kompensētu, tad gadam  pēc noteiktas sistēmas laiku pa laikam tiek pievienots vēl viens — trīspadsmitais mēnesis. Piemēram, [[ebreju kalendārs|ebreju kalendārā]] 19 gadu ciklā septiņos gados 12 mēnešu vietā ir 13 mēneši.
+
+== Mēnešu uzskaitījumi ==
+=== Jūlija un Gregora kalendārs ===
+Mēnešu nosaukumi latviešu valodā un dažās citās valodās
+
+{| class="wikitable"
+|-
+! Latviešu valodā
+! Senie latviešu nosaukumi
+! Lietuviešu valodā
+! Poļu valodā
+! Baltkrievu valodā
+! Dienu skaits
+|-
+| [[janvāris]]
+| [[ziema]]s mēnesis
+| sausis
+| styczeń
+| студзень
+| 31 diena
+|-
+| [[februāris]]
+| [[svece|sveču]] mēnesis
+| vasaris
+| luty
+| люты
+| 28 dienas ([[garais gads|garajā gadā]] 29 dienas)
+|-
+| [[marts]]
+| [[sērsna|sērsnu]] jeb [[baloži|baložu]] mēnesis
+| kovas
+| marzec
+| сакавік
+| 31 diena
+|-
+| [[aprīlis]]
+| [[sula|sulu]] mēnesis
+| balandis
+| kwiecień
+| красавік
+| 30 dienas
+|-
+| [[maijs]]
+| [[lapas|lapu]] jeb [[sēja]]s mēnesis
+| gegužė
+| maj
+| травень
+| 31 diena
+|-
+| [[jūnijs]]
+| [[zieds|ziedu]] mēnesis
+| birželis
+| czerwiec
+| чэрвень
+| 30 dienas
+|-
+| [[jūlijs]]
+| [[liepas|liepu]] mēnesis
+| liepa
+| lipiec
+| ліпень
+| 31 diena
+|-
+| [[augusts]]
+| [[suns|suņu]] mēnesis
+| rugpjūtis
+| sierpień
+| жнівень
+| 31 diena
+|-
+| [[septembris]]
+| [[sils|silu]] jeb veselo mēnesis
+| rugsėjis
+| wrzesień
+| верасень
+| 30 dienas
+|-
+| [[oktobris]]
+| [[veļi|veļu]] jeb [[zemlikas|zemliku]] mēnesis
+| spalis
+| październik
+| кастрычнік
+| 31 dienas
+|-
+| [[novembris]]
+| [[salna]]s mēnesis
+| lapkritis
+| listopad
+| лістапад
+| 30 dienas
+|-
+| [[decembris]]
+| [[pelēkais vilks|vilku]] mēnesis
+| gruodis
+| grudzień
+| сьнежань
+| 31 diena
+|}
+
+Pirmais zināmais rakstu avots, kurā minēti senie latviešu mēnešu nosaukumi (skatīt tabulā), ir 1649. gadā izdotais [[Kurzeme]]s [[vācbaltieši|vācbaltiešu]] [[luterāņi|luterāņu]] mācītāja [[Pauls Einhorns|Paula Einhorna]] ''[[Historia Lettica]]''. Teologs [[Ludvigs Adamovičs]] gan apšauba, vai visi tajā minētie mēnešu nosaukumi ir pirmatnīgi un ņemti no latviešiem, par tādu atzīstot piemēram, veļu mēneša nosaukumu oktobrim, bet apšaubot, piemēram, sveču mēneša nosaukumu februārim un suņu mēneša nosaukumu oktobrim. Viņš atsaucas uz [[Vācija]]s gadījumu, kur, sākot lietot latīniskos mēnešu nosaukumus, [[Kārlis Lielais]] tos sākotnēji nesekmīgi vāciskoja, lai padarītu tuvākus un saprotamākus tautai.<ref>{{Grāmatas atsauce |title=Mitoloģijas enciklopēdija 2 |year=1994 |publisher=[[Galvenā enciklopēdiju redakcija|Latvijas enciklopēdija]] |location=Rīga |isbn=5-89960-044-6 |page=200}}</ref>
+
+=== Islāma kalendārs ===
+[[Islāma kalendārs|Islāma kalendāra]] gadā ir 12 lunārie mēneši un tajā ir aptuveni 354 dienas. Lunārais gads ir par 11 dienām īsāks nekā saules gads, kuru lieto par pamatu [[Gregora kalendārs|Gregora kalendāram]].
+
+# [[muharrems]] محرّم (pilnais nosaukums: muharrems ul harams) 
+# [[safars]] صفر (pilnais nosaukums: safars ul muzaffars) 
+# [[1. rabī]] ربيع الأول
+# [[2. rabī]] ربيع الآخر أو ربيع الثاني
+# [[1. džumādā]] جمادى الأول
+# [[2. džumādā]] جمادى الآخر أو جمادى الثاني
+# [[redžebs]] رجب (pilnais nosaukums: radžabs al-muradžabs) 
+# [[šaabāns]] شعبان (pilnais nosaukums: šaabāns ul-moazams) 
+# [[ramadāns]] رمضان (arī ramazāns, pilnais nosaukums: ramadāns ul-mubaraks) 
+# [[šauvāls]] شوّال (pilnais nosaukums: šauvals ul-mukarams) 
+# [[du el kidā]] ذو القعدة
+# [[du el hidžā]] ذو الحجة
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mēneši| ]]

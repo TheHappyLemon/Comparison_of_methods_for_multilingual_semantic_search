@@ -1,0 +1,27 @@
+{{Jaunā Palīdzības lapa}}
+
+{{Pamācība}}Esi sveicināts '''Vikipēdijas pamācībā'''! [[Vikipēdija]] ir kopīgi rediģējama Interneta enciklopēdija, kurā tieši '''Tu''' vari sniegt savu ieguldījumu. Šajā lapā aprakstītas pamatiemaņas un zināšanas, kas vajadzīgas, lai varētu palīdzētu mums veidot šo projektu.
+
+Katrā lapā ir atrodami dažādi noderīgi norādījumi par to, kā izmainīt Vikipēdijas saturu, informācija par Vikipēdijas kopienu, kā arī Vikipēdijas politikas un tradīciju apraksts.
+
+Ņem vērā, ka šī ir ''pamācība'', nevis regulējoša politikas lapa vai visaptveroša rokasgrāmata. Ja meklē plašāku informāciju, visos pamācības rakstos ir atrodamas vikisaites uz citām Vikipēdijas lapām. Tajās ir vairāk informācijas par šiem tematiem. Viss nav obligāti jāizlasa tūlīt, bet — ja vēlies, vari to darīt. Lai nepazaudētu atvērto pamācības lapu, vari šīs lapas atvērt jaunā cilnē.
+
+Pamācības lapās ir arī norādes uz lapām (t.s. "smilšu kastēm"), kurās varēsi eksperimentēt ar apgūstamajām iemaņām. "Smilšu kastē" drīksti rīkoties pēc sirds patikas — ja kļūdīsies, no tā varēsi mācīties, nesabojājot jau esošo Vikipēdijas materiālu, tāpēc noteikti pamēģini!
+
+Piezīme: Pamācībā pieminēto norāžu atrašanās vieta ir norādīta, pieņemot, ka izmanto lapas standarta izkārtojumu. Ja esi iegājis Vikipēdijā kā reģistrēts dalībnieks un esi mainījis lapas izkārtojumu, norādes var atrasties kaut kur citur.
+
+== Kā šeit kaut ko atrast ==
+Vikipēdijā latviešu valodā pagaidām nav rakstu par visām tēmām, un daudzi raksti ir īsi, tomēr šis tas te ir. Meklēšana darbojas līdzīgi arī angļu un citās Vikipēdijās. Ekrānam labajā augšējā stūrī ir lodziņš "Meklēt Vikipēdijā", kurā ieraksta meklējamo jēdzienu un, ja ir raksts ar tieši tādu nosaukumu (vai arī [[Vikipēdija:Pāradresācija|pāradresācija]]), tas tiks atvērts. Ja raksts ar tādu nosaukumu nav, tiks parādīts saraksts ar rakstiem, kuros meklētais vārds parādās. Meklēšanas funkcijai var piekļūt arī [[Special:search|meklēšanas lapā]].
+
+Ja ir aptuveni zināms meklētā raksta nosaukums un negribas lietot meklēšanu, var aplūkot visu rakstu [[Special:allpages|alfabētisko sarakstu]].
+
+Tad, kad ir izdevies (ja ir izdevies) atrast meklējamo rakstu un nākas secināt, ka tas ir pārāk īss, lai iegūtu priekšstatu par tēmu, var apskatīt rakstu par šo pašu tēmu citu valodu Vikipēdijās. Rakstiem kreisajā pusē ir saites ("citās valodās" zem "rīki") uz rakstiem citu valodu Vikipēdijās, kas var būt garāki un pilnīgāki. Tiesa, lai no tā būtu kāda jēga, ir vajadzīgas attiecīgo svešvalodu zināšanas.
+
+{{-}}
+<div style="float:right; margin-top: 0.0em; margin-bottom:3px; background-color: #cee0f2; padding: .2em .6em; font-size: 130%; border: 1px solid #a3b1bf;">'''[[Vikipēdija:Pamācība (Rediģēšana)|Sāc šeit!]]''' <span style="font-size: larger; font-weight: bold;">→</span></div>
+</div>
+<div style="clear:both"></div>
+
+[[Kategorija:Vikipēdijas pamācība|*]]
+
+[[fr:Aide:Article]]

@@ -1,0 +1,55 @@
+[[Attēls:Semiconductor-1.jpg|thumb|237x237px|Dažas pusvadītāju tehnoloģijas- [[Operacionālais pastiprinātājs|operācijpastiprinātājs]], [[gaismas diode]] un [[tranzistors]].]]
+'''Pusvadītājs''' ir materiāls, kas [[elektrība]]s vadīšanas spējas ziņā ierindojams starp [[metāls|metāliem]] (strāvas vadītājiem) un [[dielektriķis|dielektriķiem]], un kura elektrovadītspēja ir atkarīga no [[elektrons|elektronu]] kustības rakstura. Pie pusvadītājiem pieder daudzi [[Ķīmisko elementu periodiskā tabula|ķīmisko elementu periodiskās tabulas]] IV, V un VI grupas elementi, tādi kā [[germānijs]], [[silīcijs]], [[fosfors]], [[selēns]], daži [[minerāli]] un citi. Pusvadītāji ir ārkārtīgi jutīgi pret ārējo iedarbību ([[temperatūra]]s, apgaismojuma pakāpes maiņu, [[radioaktivitāte|radioaktīvo]] starojumu). Šīs pusvadītāju īpašības plaši izmanto dažādai [[enerģija]]s pārveidošanai, it īpaši, lai iegūtu aukstumu, [[Siltums|siltumu]], elektrisko enerģiju no siltuma ([[termoelektroģenerators]]), no staru enerģijas ([[fotoelements]], [[saules baterija]]), no [[Jonizējošais starojums|radioaktīvā izstarojuma]] enerģijas ([[atombaterija]]) utt. Ar pusvadītāju aparātu palīdzību ģenerē, pastiprina un transformē [[maiņstrāva|maiņstrāvu]]. Gandrīz jebkuras mūsdienu [[Elektronika|elektroniskās]] ierīces darbība balstās uz pusvadītāju fizikālajām īpašībām.
+
+== Pamatpusvadītāji ==
+[[Attēls:Silicon.jpg|thumb|Silīcija kristāli ir visbiežāk sastopamie pusvadītāja materiāli, kurus izmanto mikroelektronikā un saules baterijās.]]
+Pusvadītājus raksturo:
+
+1) izteikta [[elektrovadītspēja]]s atkarība no dažādiem ārējiem faktoriem, piemēram, [[temperatūra]]s, [[Apgaismojums|apgaismojuma]];<br />
+2) negatīvs pretestības termiskais koeficients — pretestības atkarība no temperatūras ir pretēja nekā [[metāli]]em;<br />
+3) elektrovadītspējas lielā jutība pret piejaukumvielām.
+
+Visbiežāk lietotie pamatpusvadītāji ir [[Dmitrijs Mendeļejevs|Mendeļejeva]] ķīmisko elementu periodiskās sistēmas ceturtās [[Periodiskās tabulas grupa|grupas]] elementi [[silīcijs]] Si un [[germānijs]] Ge. Pamatpusvadītāji ir ļoti tīras [[Kristāliskā struktūra|kristāliskas vielas]]. Piemēram, starp 10<sup>11</sup> silīcija [[Atoms|atomiem]] nedrīkst būt vairāk par vienu piejaukumvielas atomu.<br />
+Silīcija un germānija atomu ārējā [[Elektronu čaula|elektronu čaulā]] ir četri [[Vērtības elektrons|valences elektroni]]. Starp diviem šo elementu kristālrežģa blakus atomiem pastāv [[kovalentā saite]], ko veido divi valences elektroni, kuri vienlaikus pieder abiem atomiem. Līdz ar to katra atoma ārējā elektronu čaulā četru vietā ir it kā astoņi valences elektroni, un tā ir aizpildīta. <br />
+Ja pusvadītāja temperatūra ir tuva [[Absolūtā nulle|absolūtajai nullei]], tad visi tā [[Elektrons|elektroni]] ir saistīti šādās kovalentajās saitēs, brīvu [[Elektriskais lādiņš|lādiņ]]<nowiki/>nesēju elektronu tikpat kā nav un pusvadītājs līdzīgi [[Dielektriķis|dielektriķim]] [[Elektriskā strāva|elektrisko strāvu]] nevada. Augstākā temperatūrā kristālrežģa atomi intensīvāk [[Svārstības|svārstās]] un kāda no kovalentajām saitēm sabrūk. Tad rodas brīvs elektrons, bet atbrīvotajā kovalentajā saitē paliek vakanta vieta — [[Caurums (pusvadītāju fizika)|caurums]], kas izturas kā pozitīvs lādiņnesējs. Tādejādi izveidojas lādiņnesēju pāris. Kristālrežģa svārstību dēļ caurumu var aizpildīt elektrons no blakusatoma kovalentās saites, atstājot caurumu tajā. Šādam procesam turpinoties, caurums pārvietojas. Ja caurumā nonāk brīvais elektrons, tad notiek brīvo lādiņnesēju elektrona un cauruma [[Rekombinācija (pusvadītāju fizika)|rekombinācija]]. Nemainīgā temperatūrā elektrona—cauruma rekombināciju skaits ir vienāds ar radušos brīvo lādiņnesēju pāru elektrons—caurums skaitu un pusvadītājs kopumā ir elektroneitrāls. Paaugstinot pusvadītāja temperatūru, pieaug kristālrežģa svārstību [[amplitūda]]s un palielinās arī brīvo elektronu un caurumu skaits, kas savukārt palielina pusvadītāja elektrovadītspēju. Šāda elektrovadītspējas palielināšanās, paaugstinoties temperatūrai, ir pusvadītājiem raksturīga īpašība, ar kuru tie atšķiras no metāliem (temperatūrai paaugstinoties, metālu elektrovadītspēja samazinās).
+Pieslēdzot pamatpusvadītāju baterijai, pusvadītājā rodas [[elektriskais lauks]], kurā brīvie elektroni un caurumi pārvietojas pretējos virzienos. Tātad caur pusvadītāju plūstošo strāvu rada gan brīvie elektroni, gan caurumi, un pilnā strāva ir brīvo elektronu un caurumu radīto strāvu summa.<ref name=":0">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=234.—243|last2=Kolangs|first2=I.|last3=Puķītis|first3=P.|last4=Šilters|first4=E.}}</ref>
+
+== Piejaukumu pusvadītāji ==
+[[Attēls:Schema - p-dotiertes Silicium.svg|thumb|P-tipa piejaukuma pusvadītājs - galvenie lādiņnesēji būs pozitīvie caurumi, jo alumīnijam ir tikai 3 valences elektroni, tas atņems silīcijam kovalentas saites elektronu un caurums tiks padots tālāk]]
+Pusvadītāju elektrovadītspēju ievērojami palielina citu [[Ķīmiskais elements|ķīmisko elementu]] piejaukumi. Šādas vielas ir piejaukumu pusvadītāji.
+
+Pamatpusvadītājiem nedaudz piejaucot piektās grupas elementus, kuru atomiem ir pieci valences elektroni, piemēram, [[Arsēns|arsēnu]] As, [[antimons|antimonu]] Sb vai [[Bismuts|bismutu]] Bi, piejaukumvielas atomu četri valences elektroni izveido kovalentās saites ar pamatpusvadītāja atomiem, bet piektais valences elektrons atbrīvojas un kļūst par brīvu lādiņnesēju, kas palielina pusvadītāja elektrovadītspēju. Piektās grupas elementu piejaukumus, kuru atomi viegli atbrīvo vienu no valences elektroniem, sauc par donorpiejaukumiem. Piejaukuma pusvadītāju, kurā ir liela brīvo elektronu koncentrācija, sauc par elektronu jeb n tipa pusvadītāju.
+
+Pamatpusvadītājam nelielā daudzumā piejaucot trešās grupas elementus, kuru atomiem ir trīs valences elektroni, piemēram, [[Alumīnijs|alumīniju]] Al, [[Bors|boru]] B vai [[Indijs|indiju]] In, piejaukumatoma trīs valences elektroni veido kovalentās saites ar pamatpusvadītāja atomiem, bet ceturtajai kovalentajai saitei nepieciešamo elektronu piejaukumatomus atņem pamatpusvadītājam. Tad pamatpusvadītāja atomā ir atbrīvojusies viena kovalentā saite — radies caurums, kas var brīvi pārvietoties. Trešās grupas elementus, kas saista pamatpusvadītāja elektronus, sauc par akceptorpiejaukumiem, bet piejaukumu pusvadītāju, kurā ir liela caurumu koncentrācija, — par caurumu jeb p tipa pusvadītāju.
+
+Jebkurā piejaukuma pusvadītājā ievērojamā vairākumā ir pamatpusvadītāja atomu. To kovalentās saites sabrūk jau istabas temperatūrā, tādējādi radot brīvos elektronus un caurumus. Tāpēc n tipa pusvadītājā bez majoritātes (vairākuma) lādiņnesējiem elektroniem, ir arī minoritātes (mazākuma) ladiņnesēji caurumi, bet p tipa pusvadītājā bez majoritātes lādiņnesējiem caurumiem, ir arī minoritātes lādiņnesēji elektroni. Piemēram, p tipa silīcijam sasilstot, no silīcija atoma atbrīvojās elektrons, kas kļūst par minoritātes lādiņnesēju, bet atbrīvotajā vietā rodas caurums, kas papildina majoritātes lādiņnesēju skaitu.<ref name=":0" />
+
+== Pusvadītāju rezistori ==
+{{Pamatraksts|Rezistors}}
+[[Attēls:Photoresistor with orange background-7536.jpg|thumb|Fotorezistors- gaismas [[Kvants|kvantiem]] apstarojot virsmu, pamazinās rezistora pretestība [[Fotoelektriskais efekts|fotoelektriskā efekta]] dēļ.]]
+Pusvadītāju rezistoru darbība pamatojas uz pusvadītāju īpašību mainīt [[Elektriskā pretestība|pretestību]] ārēju faktoru ietekmē. Praksē visbiežāk izmanto [[Termistors|termistorus]]. Termistors ir pusvadītāja rezistors ar lielu [[Pretestības termiskais koeficients|pretestības termisko koeficientu]], un tā pretestība, temperatūrai paaugstinoties, strauji samazinās. Termistora voltampēru raksturlīkne ir lineāra tikai sākumposmā. Patiešām, ja strāva ir maza, arī rezistorā izdalītais siltuma daudzums ir neliels. Termistors tikpat kā nesasilst, tā pretesība būtiski nemainās, un saskaņā ar [[Oma likums|Oma likumu]] <math>U = IR</math>, kur <math>R\approx const</math>. Palielinoties strāvai, rezistora temperatūra pakāpeniski pieaug. Noteiktā temperatūrā tā pretestība sāk strauji samazināties. Tas arī izraisa sprieguma krituma samazināšanos.
+
+[[Fotorezistors|Fotorezistoru]] darbības pamatā ir pusvadītāja īpašība samazināt pretestību [[gaisma]]s ietekmē. Neapgaismotā fotorezistorā ir maz brīvo lādiņnesēju pāru. Apgaismojot fotorezistoru, gaismas [[enerģija]]s ietekmē sabrūk kovalentās saites, rodas brīvi lādiņnesēji un samazinās rezistora pretestība.
+
+[[Varistors|Varistoros]] izmanto pusvadītāja ([[Silīcija karbīds|silīcija karbīda]]) īpašību samazināt pretestību, pieaugot [[Spriegums|spriegumam]].<ref name=":0" />
+
+== p-n pāreja ==
+{{Pamatraksts|P-n pāreja}}
+
+P-n pāreja ir robežslanis starp n tipa un p tipa apgabaliem.
+
+== Pusvadītāju diode ==
+{{Pamatraksts|Diode}}
+
+Pusvadītāju diode ir no pusvadītāja izveidots p-n pāreja, kura ievietota hermētiskā [[Metāli|metāla]], [[Stikls|stikla]] vai [[plastmasas]] korpusā.
+
+== Tranzistors ==
+{{Pamatraksts|Tranzistors}}
+
+Tranzistors sastāv no divām [[Virknes un paralēlais slēgums|virknē slēgtām]] p-n pārejām.
+
+== Atsauces ==
+{{atsauces}}
+
+{{autoritatīvā vadība}}
+[[Kategorija:Pusvadītāji| ]]

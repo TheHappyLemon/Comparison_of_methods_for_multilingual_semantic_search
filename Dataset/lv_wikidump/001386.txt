@@ -1,0 +1,71 @@
+{{Upes infokaste 
+| nosaukums         = Nareva
+| valsts            = Baltkrievija
+| citnosaukums      = Narava
+| citvaloda         = be
+| citvaloriģin      = Нараў
+| valsts1           = Polija
+| citnosaukums1     = Nareva
+| citvaloda1        = pl
+| citvaloriģin1     = Narew
+| attēls            = Modlin spichlerz.jpg
+| attēla_izmērs     = 
+| paraksts          = Narevas ieteka Vislā pie [[Modlina]]s
+| karte             = 
+| kartes_paraksts   = 
+| kartes_izmērs     = 
+| izteka            = [[Belovežas gārša]]
+| augštece          = 
+| satekupes         = 
+| ieteka            = [[Visla]]
+| baseina_valstis   = {{BLR}}<br />{{UKR}}<br />{{POL}}
+| tek_caur          = {{BLR}}<br />{{POL}}
+| garums            = 484 
+| garums_latvijā    = 
+| iztekas_augstums  = 159
+| ietekas_augstums  = 67
+| kritums           = 
+| caurtece          = 328
+| caurtece_vieta    = grīva
+| gada_notece       = 4,1
+| baseins           = 75 175
+| baseins_latvijā   = 
+| pietekas          = [[Buga]], [[Vkra]]
+| sāk_plat_d=52 | sāk_plat_m=43 | sāk_plat_s=56 | sāk_plat_NS=N 
+| sāk_gar_d=24 | sāk_gar_m=20 | sāk_gar_s=27 | sāk_gar_EW=E 
+| iet_plat_d=52 | iet_plat_m=26 | iet_plat_s=1 | iet_plat_NS=N 
+| iet_gar_d=20 | iet_gar_m=40 | iet_gar_s=38 | iet_gar_EW=E
+  | vietaskarte       = Polija#Eiropa
+  | reljefs           = jā
+}}
+
+'''Nareva''' ({{val|pl|Narew}}, {{val|be|На́раў}}, {{val|lt|Naura}}, [[Prūši|prūšu]]: ''Naura'') — upe [[Baltkrievija|Baltkrievijā]] un [[Polija|Polijā]]. [[Visla]]s labā krasta pieteka. Sākas Baltkrievijā, [[Grodņas apgabals|Grodņas apgabalā]]. Tipiska līdzenuma upe, tek pa Mazovijas-Podļases zemieni. Vidustecē — [[Narevas nacionālais parks]].
+
+== Lielākās pietekas ==
+
+* [[Buga]] (''Bug''; 772 km) — kreisais krasts
+* [[Vkra]] (''Wkra''; 249 km) — labais krasts
+
+== Pilsētas Narevas krastos ==
+
+[[Suraža (Polija)|Suraža]] — [[Horošča]] — [[Tikocina]] — [[Lomža]] — [[Novogroda]] — [[Ostrolenka]] — [[Pultuska]] — [[Serocka]]
+
+== Kanāli ==
+
+* Augustovas kanāls savieno Narevu ar [[Nemuna]]s baseinu
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Polijas ģeogrāfija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Baltkrievijas upes]]
+[[Kategorija:Polijas upes]]
+[[Kategorija:Vislas pietekas]]
+[[Kategorija:Vislas baseina upes]]
+[[Kategorija:Nareva]]
+[[Kategorija:Mazovijas vojevodiste]]
+[[Kategorija:Podlases vojevodiste]]

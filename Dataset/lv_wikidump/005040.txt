@@ -1,0 +1,32 @@
+[[Attēls:Phase-diag-lv.svg|right|thumb|350px|Vienkāršas vielas fāžu stāvokļa diagramma]]'''Fāžu stāvokļa diagramma''' ir diagramma, kur attēloti līdzsvara stāvokļi starp atšķirīgām termodinamiskajām fāzēm.
+
+== Fāžu stāvokļa diagramma tīrām vielām ==
+Vienkāršākās fāžu stāvokļa diagrammas ir tīrām vielām. Tur parasti attēlo vielas agregātstāvokli atkarībā no [[temperatūra]]s (parasti uz X ass) un [[spiediens|spiediena]] (parasti uz Y ass). Šajās diagrammās var parādīt visas vielai iespējamās fāzes. Diagrammā parasti tiek aprakstīts nemainīgs daudzums (masa) vielas, tur netiek parādītas tilpuma izmaiņas, jo tilpums tāpat ir atkarīgs no spiediena un temperatūras (ja masa nemainās). Dažreiz lieto stāvokļa diagrammas, kur norādīts arī tilpums. Tādas diagrammas ir trīsdimensionālas.
+
+'''Trīskāršajā punktā''' [[gāze|gāzveida]], [[šķidrums|šķidrā]] un [[cietviela|cietā]] fāze ir līdzsvarā. Šī punkta spiediens un temperatūra ir vielai raksturīgas konstantas. '''Kritiskajā punktā''' izzūd atšķirības starp šķidro un gāzveida fāzi. Tas nozīmē, ka dažos procesos ir iespējams pāriet no šķidrās fāzes uz gāzveida fāzi, apejot vārīšanās procesu. Pāreja uz cieto fāzi šādā veidā nav iespējama.
+
+Sarkanā līkne raksturo [[sublimācija (fizikā)|sublimācijas]] temperatūru atkarību no spiediena. Zilā līkne raksturo [[viršanas temperatūra|viršanas temperatūru]] atkarību no spiediena. Zaļā līkne raksturo [[kušanas temperatūra|kušanas temperatūru]] atkarību no spiediena. Zaļā, pārtrauktā līkne raksturo pārdzesēta šķīduma kristalizācijas temperatūru atkarību no spiediena. Lielākajai daļai vielu paaugstinot spiedienu, kušanas temperatūra paaugstinās (līkne ir slīpa uz labo pusi), tas tā ir vielām, kam cietā fāze ir blīvāka par šķidro fāzi. Dažām vielām ([[ledus]], [[bismuts]]), šķidrā fāze ir blīvāka par cieto fāzi, tāpēc, palielinot spiedienu, kušanas temperatūra pazeminās. Kušanas temperatūras atkarība no spiediena parasti ir niecīga, salīdzinot ar viršanas un sublimācijas temperatūru atkarību no spiediena.
+
+Daudzām vielām ir iespējamas vairākas cietās fāzes, un ir iespējami vairāki trīskāršie punkti, starp divām kristāliskajām fāzēm un šķidrumu, divām kristāliskajām fāzēm un gāzi, vai trim kristāliskajām fāzēm.
+
+Ūdenim, sasalstot spiedienos līdz ≈200 MPa, veidojas ledus "parastā", tā saucamā I<sub>h</sub> modifikācija. Ledus I<sub>h</sub> ir mazāk blīvs par ūdeni sasalšanas temperatūrā. Spiedienos, kas lielāki par ≈200 MPa, veidojas citas ledus modifikācijas, kas ir blīvākas par ūdeni sasalšanas temperatūrā un tajos apstākļos palielinot spiedienu kušanas temperatūras palielinās.
+
+== Maisījumiem ==
+
+Maisījumiem fāžu stāvokļa diagrammās parasti attēlo vielas fāzes atkarībā no temperatūras un sastāva. Trīskomponentu maisījumiem, lai norādītu atkarību no temperatūras, ir nepieciešama 3D diagramma, tās vietā parasti lieto vairākas 2D diagrammas (fāzes atkarībā no sastāva), pie dažādām temperatūrām.
+
+== Skatīt arī ==
+
+* [[Fāžu likums]]
+* [[Kušana]]
+* [[Viršana]]
+* [[Sublimācija (fizikā)|Sublimācija]]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Termodinamika]]
+[[Kategorija:Fizikālā ķīmija]]
+[[Kategorija:Gāzes]]
+[[Kategorija:Materiālzinātne]]
+[[Kategorija:Metalurģija]]
+[[Kategorija:Fāžu pārejas]]

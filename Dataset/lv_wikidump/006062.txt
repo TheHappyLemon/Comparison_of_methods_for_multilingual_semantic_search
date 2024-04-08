@@ -1,0 +1,471 @@
+{{Starptautiska sporta turnīra infokaste
+ |             sports = futbols
+ |          nosaukums =  FIFA Pasaules kauss 1930
+ |     citi_nosaukumi = 1930 FIFA World Cup
+ |             attēls = FIFAPasauleskauss1930.jpg
+ |            att_izm = 150px
+ |             valsts = {{URU}}
+ |            pilsēta = [[Montevideo]]
+ |              laiks = 13. jūlijs — 30. jūlijs
+ |     komandu_skaits = 13
+ |           stadioni = 3
+ |           pilsētas = 1
+ |           čempioni = {{fb|URU}}
+ |             tituls = 1
+ |              otrie = {{fb|ARG}}
+ |             trešie = {{fb|USA}}
+ |           ceturtie = {{fb|YUG|karaliste}}
+ |             spēles = 18
+ |              vārti = 70
+ |          skatītāji = 434500
+ |    rezultatīvākais = {{flaga|Argentīna}} [[Giljermo Stabile]] (8)
+ |            nak_sez = [[1934. gada FIFA Pasaules kauss|1934]]
+}}
+
+'''1930. gada [[FIFA]] Pasaules kauss''' notika [[Urugvaja|Urugvajā]] no 13. līdz 30. jūlijam. Tas bija pirmais [[FIFA Pasaules kauss|Pasaules kausa finālturnīrs]]. Par pirmajiem Pasaules čempioniem kļuva laukuma saimnieki [[Urugvajas futbola izlase|Urugvajas izlase]], kas finālā ar 4—2 pārspēja savus kaimiņus [[Argentīnas futbola izlase|argentīniešus]].
+
+== Stadioni ==
+* ''Estadio Centenario'', [[Montevideo]] — 95&nbsp;000
+* ''Estadio Parque Central'', [[Montevideo]] — 20&nbsp;000
+* ''Estadio Pocitos'', [[Montevideo]] — 1000
+
+== Komandas ==
+1930. gada FIFA Pasaules kausa izcīņā piedalījās 13 izlases. Pirms šī turnīra nenotika kvalifikācijas sacensības. Visas izlases, kas piedalījās finālturnīrā, tika uz to ielūgtas. Lielo ceļošanas izmaksu dēļ vairākas Eiropas izlases atteicās piedalīties turnīrā. [[Siāmas futbola izlase|Siāma]] (tagadējā [[Taizemes futbola izlase|Taizeme]]) un [[Japānas futbola izlase|Japāna]] pēdējā brīdī atteicās piedalīties, bet [[Ēģiptes futbola izlase|Ēģipte]] vētras dēļ nokavēja kuģi uz Urugvaju.
+
+{{columns |width=350px
+|col1=
+
+* '''Dienvidamerika'''
+** {{Fb|ARG}}
+** {{Fb|BOL}}
+** {{Fb|BRA}}
+** {{Fb|CHI}}
+** {{Fb|PAR}}
+** {{Fb|PER}}
+** {{Fb|URU}}
+
+|col2=
+* '''Ziemeļamerika, Centrālamerika & Karību reģions'''
+** {{Fb|USA}}
+** {{Fb|MEX}}
+
+* '''Eiropa'''
+** {{Fb|BEL}}
+** {{Fb|Dienvidslāvija|karaliste}}
+** {{Fb|FRA}}
+** {{Fb|ROM}}
+}}
+
+== Turnīra gaita ==
+Turnīrā piedalījās 13 komandas, kas tika sadalītas 4 grupās. 1 grupā bija 4 komandas, bet atlikušajās 3 grupās — pa 3 komandām. Katras grupas spēcīgākā komanda iekļuva pusfinālā. Šajā čempionātā piedalījās tikai 4 [[Eiropa]]s komandas, kas izskaidrojams ar grūto un tālo ceļu līdz [[Urugvaja]]i, savukārt [[Dienvidamerika|Dienvidameriku]] pārstāvēja veselas 7 komandas.
+
+1. grupā pārliecinoši uzvarēja [[Argentīnas futbola izlase|Argentīna]], kas uzvarēja visās 3 apakšgrupas spēlēs, 2. grupā [[Brazīlijas futbola izlase|Brazīliju]] un [[Bolīvijas futbola izlase|Bolīviju]] pieveica [[Dienvidslāvijas futbola izlase|Dienvidslāvijas izlase]], kas kā vienīgā no Eiropas komandām iekļuva pusfinālā. 3. grupā visus uzvarēja turnīra rīkotājvalsts [[Urugvajas futbola izlase|Urugvajas pārstāvji]], savukārt 4. grupā pretiniekiem nekādas cerības neatstāja [[ASV futbola izlase|ASV izlase]].
+
+Pusfinālos neradās nekādas šaubas par [[Dienvidamerika]]s komandu pārākumu: abas spēles noslēdzās ar rezultātu 6-1, [[Argentīnas futbola izlase|Argentīnai]] sagraujot [[ASV futbola izlase|ASV izlasi]], bet [[Urugvajas futbola izlase|Urugvajai]] - [[Dienvidslāvijas futbola izlase|dienvidslāvus]]. Šis bija vienīgais Pasaules kausa finālturnīrs, kurā nenotika spēle par 3. vietu.
+
+Finālā tikās divu kaimiņvalstu [[Argentīnas futbola izlase|Argentīnas]] un [[Urugvajas futbola izlase|Urugvajas]] izlases. Pēc pirmā puslaika argentīnieši bija vadībā ar 2-1, taču Urugvaja spēja gūt 3 bezatbildes vārtus, spēlē uzvarot ar 4-2. [[Urugvajas futbola izlase|Urugvajas izlase]] kļuva par pirmajiem Pasaules čempioniem futbolā un saņēma [[Žils Rimē|Žila Rimē]] kausu.
+
+== Grupu turnīrs ==
+=== 1. grupa ===
+{{#invoke:Sports table|main|style=WDL
+|source=[https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team1=ARG |team2=CHI |team3=FRA |team4=MEX
+
+<!--Update team results below (including date)-->
+|update=
+|win_ARG=3 |draw_ARG=0 |loss_ARG=0 |gf_ARG=10 |ga_ARG=4 |status_ARG=
+|win_CHI=2 |draw_CHI=0 |loss_CHI=1 |gf_CHI=5 |ga_CHI=3 |status_ECU=
+|win_FRA=1 |draw_FRA=0 |loss_FRA=2 |gf_FRA=4 |ga_FRA=3 |status_FRA=
+|win_MEX=0 |draw_MEX=0 |loss_MEX=3 |gf_MEX=4 |ga_MEX=13 |status_MEX=
+
+<!--Team definitions-->
+|name_ARG={{fb|ARG}}
+|name_CHI={{fb|CHI}}
+|name_FRA={{fb|FRA}}
+|name_MEX={{fb|MEX|1916}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=KO |result2=
+|col_KO=green1 |text_KO=Kvalificējas izslēgšanas spēlēm
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|13|N}}
+  | laiks     = 21:30
+  | komanda1  = {{fb-rt|FRA}}
+  | rezultāts = 4:1
+  | pārskats  = [https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center/1096 Informācija]
+  | komanda2  = {{fb|MEX|1916}}
+  | vārti1    = [[Lusjēns Lorāns|L.Lorāns]] {{goal|19}}<br/>[[Marsels Langijē|Langijē]] {{goal|40}}<br/>[[Andrē Mašino|Mašino]] {{goal|43}}, {{goal|87}}
+  | vārti2    = [[Huans Karenjo|Karenjo]] {{goal|70}}
+  | stadions  = ''Estadio Pocitos'', [[Montevideo]]
+  | skatītāji = 4 444
+  | tiesnesis = {{flaga|Urugvaja}} Domingo Lombardi
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|15|N}}
+  | laiks     = 22:30
+  | komanda1  = {{fb-rt|ARG}}
+  | rezultāts = 1:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1085 Informācija]
+  | komanda2  = {{fb|FRA}}
+  | vārti1    = [[Luišs Monti|Monti]] {{goal|81}}
+  | vārti2    = 
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 23 409
+  | tiesnesis = {{flaga|Brazīlija}} Almeida Rēgo
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|16|N}}
+  | laiks     = 21:15
+  | komanda1  = {{fb-rt|CHI}}
+  | rezultāts = 3:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1095 Informācija]
+  | komanda2  = {{fb|MEX|1916}}
+  | vārti1    = [[Karloss Vidals|Vidals]] {{goal|3}}, {{goal|65}}<br/>[[Manuels Rosass|M. Rosass]] {{goal|52|s.v.}}
+  | vārti2    = 
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 9 249
+  | tiesnesis = {{flaga|Beļģija}} Anrī Kristofs
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|19|N}}
+  | laiks     = 19:20
+  | komanda1  = {{fb-rt|CHI}}
+  | rezultāts = 1:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1094 Informācija]
+  | komanda2  = {{fb|FRA}}
+  | vārti1    = [[Giljermo Suiviavre|Suiviavre]] {{goal|67}}
+  | vārti2    = 
+  | stadions  = '' Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 2 000
+  | tiesnesis = {{flaga|Urugvaja}} Anibals Teheda
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|19|N}}
+  | laiks     = 21:30
+  | komanda1  = {{fb-rt|ARG}}
+  | rezultāts = 6:3
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1086 Informācija]
+  | komanda2  = {{fb|MEX|1916}}
+  | vārti1    = [[Giljermo Stavile|Stavile]] {{goal|8}}, {{goal|17}}, {{goal|80}}<br/>[[Adolfo Zumelzū|Zumelzū]] {{goal|12}}, {{goal|55}}<br/>[[Fransisko Varaljo|Varaljo]] {{goal|53}}
+  | vārti2    = [[Manuels Rosass|M. Rosass]] {{goal|42|11m}}, {{goal|65}}<br/>[[Roberto Gajons|Gajons]] {{goal|75}}
+  | stadions  = '' Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 42 100
+  | tiesnesis = {{flaga|Bolīvija}} Uliss Sausedo
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|22|N}}
+  | laiks     = 21:45
+  | komanda1  = {{fb-rt|ARG}}
+  | rezultāts = 3:1
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1084 Informācija]
+  | komanda2  = {{fb|CHI}}
+  | vārti1    = [[Giljermo Stavile|Stavile]] {{goal|12}}, {{goal|13}},{{goal|80}}<br/>[[Mario Evaristo|Evaristo]] {{goal|51}}
+  | vārti2    = [[Giljermo Suiviavre|Suiviavre]] {{goal|15}}
+  | stadions  = '' Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 41 459
+  | tiesnesis = {{flaga|Beļģija}} Džons Langenuss
+}}
+
+=== 2. grupa ===
+{{#invoke:Sports table|main|style=WDL
+|source=[https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team1=YUG |team2=BRA |team3=BOL
+
+<!--Update team results below (including date)-->
+|update=
+|win_YUG=2 |draw_YUG=0 |loss_YUG=0 |gf_YUG=6 |ga_YUG=1 |status_YUG=
+|win_BRA=1 |draw_BRA=0 |loss_BRA=1 |gf_BRA=5 |ga_BRA=2 |status_BRA=
+|win_BOL=0 |draw_BOL=0 |loss_BOL=2 |gf_BOL=0 |ga_BOL=8 |status_BOL=
+
+<!--Team definitions-->
+|name_YUG={{fb|YUG|karaliste}}
+|name_BRA={{fb|BRA|1889}}
+|name_BOL={{fb|BOL}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=KO |result2=
+|col_KO=green1 |text_KO=Kvalificējas izslēgšanas spēlēm
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|14|N}}
+  | laiks     = 19:15
+  | komanda1  = {{fb-rt|YUG|karaliste}}
+  | rezultāts = 2:1
+  | pārskats  = [https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center/1093 Informācija]
+  | komanda2  = {{fb|BRA}}
+  | vārti1    = [[Aleksadars Tirnaničs |Tirnaničs]] {{goal|21}}<br/>[[Ivica Beks|Beks]] {{goal|30}}
+  | vārti2    = [[Prežunjo]] {{goal|62}}
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 24 059
+  | tiesnesis = {{flaga|Urugvaja}} Anibals Teheda
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|17|N}}
+  | laiks     = 19:15
+  | komanda1  = {{fb-rt|YUG|karaliste}}
+  | rezultāts = 4:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1092 Informācija]
+  | komanda2  = {{fb|BOL}}
+  | vārti1    = [[Ivica Beks|Beks]] {{goal|60}}, {{goal|67}}<br/>[[Blagoje Marjanovičs|Marjanovičs]] {{goal|65}}<br/>[[Djordje Vujadinovičs|Vujadinovičs]] {{goal|85}}
+  | vārti2    = 
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 18 306
+  | tiesnesis = {{flaga|Urugvaja}} Fransisko Mateuči
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|20|N}}
+  | laiks     = 19:30
+  | komanda1  = {{fb-rt|BRA}}
+  | rezultāts = 4:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1091 Informācija]
+  | komanda2  = {{fb|BOL}}
+  | vārti1    = [[Moderato]] {{goal|37}}, {{goal|73}}<br/>[[Prežunjo]] {{goal|67}}, {{goal|83}}
+  | vārti2    = 
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 25 466
+  | tiesnesis = {{flaga|Francija}} Tomā Balvī
+}}
+
+=== 3. grupa ===
+{{#invoke:Sports table|main|style=WDL
+|source=[https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team1=URU |team2=ROU |team3=PER
+
+<!--Update team results below (including date)-->
+|update=
+|win_URU=2 |draw_URU=0 |loss_URU=0 |gf_URU=5 |ga_URU=0 |status_URU=
+|win_ROU=1 |draw_ROU=0 |loss_ROU=1 |gf_ROU=3 |ga_ROU=5 |status_ROU=
+|win_PER=0 |draw_PER=0 |loss_PER=2 |gf_PER=1 |ga_PER=4 |status_PER=
+
+<!--Team definitions-->
+|name_URU={{fb|URU}}
+|name_ROU={{fb|ROU}}
+|name_PER={{fb|PER|1825}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=KO |result2=
+|col_KO=green1 |text_KO=Kvalificējas izslēgšanas spēlēm
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|14|N}}
+  | laiks     = 21:20
+  | komanda1  = {{fb-rt|ROM}}
+  | rezultāts = 3:1
+  | pārskats  = [https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center/1098 Informācija]
+  | komanda2  = {{fb|PER}}
+  | vārti1    = [[Adalberts Dešu|Dešu]] {{goal|1}}<br/>[[Konstantīns Stančiu|Stančiu]] {{goal|79}}<br/>[[Nikolae Kovāčs|Kovāčs]] {{goal|89}}
+  | vārti2    = [[Luiss Souza|Souza]] {{goal|75}}
+  | stadions  = ''Estadio Pocitos'', [[Montevideo]]
+  | skatītāji = 2 549
+  | tiesnesis = {{flaga|Čīle}} Alberto Varnkens
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|18|N}}
+  | laiks     = 21:00
+  | komanda1  = {{fb-rt|URU}}
+  | rezultāts = 1:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1099 Informācija]
+  | komanda2  = {{fb|PER}}
+  | vārti1    = [[Hektors Kastro|Kastro]] {{goal|60}}
+  | vārti2    = 
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 57 735
+  | tiesnesis = {{flaga|Beļģija}} Džons Langenuss
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|21|N}}
+  | laiks     = 21:20
+  | komanda1  = {{fb-rt|URU}}
+  | rezultāts = 4:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1100 Informācija]
+  | komanda2  = {{fb|ROM}}
+  | vārti1    = [[Pablo Dorado|Dorado]] {{goal|7}}<br/>[[Hektors Skarone|Skarone]] {{goal|24}}<br/>[[Huans Anselmo|Anselmo]] {{goal|30}}<br/>[[Pedro Sea|Sea]] {{goal|35}}
+  | vārti2    = 
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 70 022
+  | tiesnesis = {{flaga|Brazīlija}} Almeida Rēgo
+}}
+
+=== 4. grupa ===
+{{#invoke:Sports table|main|style=WDL
+|source=[https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center FIFA]
+
+<!--Update team positions below (check tiebreakers)-->
+|team1=USA |team2=PAR |team3=BEL
+
+<!--Update team results below (including date)-->
+|update=
+|win_USA=2 |draw_USA=0 |loss_USA=0 |gf_USA=6 |ga_USA=0 |status_USA=
+|win_PAR=1 |draw_PAR=0 |loss_PAR=1 |gf_PAR=1 |ga_PAR=3 |status_PAR=
+|win_BEL=0 |draw_BEL=0 |loss_BEL=2 |gf_BEL=0 |ga_BEL=4 |status_BEL=
+
+<!--Team definitions-->
+|name_USA={{fb|USA|1912}}
+|name_PAR={{fb|PAR|1842}}
+|name_BEL={{fb|BEL}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=KO |result2=
+|col_KO=green1 |text_KO=Kvalificējas izslēgšanas spēlēm
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|13|N}}
+  | laiks     = 21:30
+  | komanda1  = {{fb-rt|USA}}
+  | rezultāts = 3:0
+  | pārskats  = [https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center/1090 Informācija]
+  | komanda2  = {{fb|BEL}}
+  | vārti1    = [[Bārts Makdžī|Makdžī]] {{goal|23}}<br/>[[Toms Florī|Florī]] {{goal|45}}<br/>[[Berts Patenods|Patenods]] {{goal|69}}
+  | vārti2    = 
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 18 346
+  | tiesnesis = {{flaga|Argentīna}} Hosē Masiass
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|17|N}}
+  | laiks     = 21:15
+  | komanda1  = {{fb-rt|USA}}
+  | rezultāts = 3:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1097 Informācija]
+  | komanda2  = {{fb|PAR}}
+  | vārti1    = [[Berts Patenods|Patenods]] {{goal|10}}, {{goal|15}}, {{goal|50}}
+  | vārti2    = 
+  | stadions  = ''Estadio Gran Parque Central'', [[Montevideo]]
+  | skatītāji = 18 306
+  | tiesnesis = {{flaga|Argentīna}} Hosē Masiass
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|20|N}}
+  | laiks     = 21:30
+  | komanda1  = {{fb-rt|PAR}}
+  | rezultāts = 1:0
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1089 Informācija]
+  | komanda2  = {{fb|BEL}}
+  | vārti1    = [[Luiss Vargass Penja|Vargass Penja]] {{goal|40}}
+  | vārti2    = 
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 12 000
+  | tiesnesis = {{flaga|Urugvaja}} Rikardo Valarīno
+}}
+
+== Izslēgšanas turnīrs ==
+{{Round4
+<!--Date-Place|Team 1|Score 1|Team 2|Score 2 -->
+<!-- second round -->
+<!-- quarter-finals -->
+<!-- semi-finals -->
+|26. jūlijs — Montevideo|'''{{Fb|ARG|alt}}'''|6|{{Fb|USA|1912}}|1
+|26. jūlijs — Montevideo|'''{{Fb|URU}}'''|6|{{Fb|YUG|karaliste}}|1
+<!-- final -->
+|30. jūlijs — Montevideo|{{Fb|ARG|alt}}|2|'''{{fb|URU}}'''|4}}
+
+
+
+=== Pusfināli ===
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|26|N}}
+  | laiks     = 21:15
+  | komanda1  = {{fb-rt|ARG}}
+  | rezultāts = 6:1
+  | pārskats  = [https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/match-center/1088 Informācija]
+  | komanda2  = {{fb|USA}}
+  | vārti1    = [[Luišs Monti|Monti]] {{goal|20}}<br/>[[Alehandro Skopelli|Skopelli]] {{goal|56}}<br/>[[Giljermo Stavile|Stavile]] {{goal|69}}, {{goal|87}}<br/>[[Karloss Poiselle|Poiselle]] {{goal|80}}, {{goal|85}}
+  | vārti2    = [[Džims Brauns (futbolists)|Brauns]] {{goal|89}}
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 72 886
+  | tiesnesis = {{flaga|Beļģija}} Džons Langenuss
+}}
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|27|N}}
+  | laiks     = 21:15
+  | komanda1  = {{fb-rt|URU}}
+  | rezultāts = 6:1
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1101 Informācija]
+  | komanda2  = {{fb|YUG|karaliste}}
+  | vārti1    = [[Pedro Sea|Sea]] {{goal|18}}, {{goal|67}}, {{goal|72}}<br/>[[Huans Anselmo|Anselmo]] {{goal|20}}, {{goal|31}}<br/>[[Viktoriano Iriarte|Iriarte]] {{goal|61}}
+  | vārti2    = [[Djordje Vujadinovičs|Vujadinovičs]] {{goal|4}}
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 79 867
+  | tiesnesis = {{flaga|Brazīlija}} Almeida Rēgo
+}}
+
+=== Fināls===
+
+{{futbola spēle
+  | datums    = {{dat|1930|07|30|N}}
+  | laiks     = 20:45
+  | komanda1  = {{fb-rt|URU}}
+  | rezultāts = 4:2
+  | pārskats  = [https://www.fifa.com/worldcup/archive/uruguay1930/matches/match/1087 Informācija]
+  | komanda2  = {{fb|ARG}}
+  | vārti1    = [[Pablo Dorado|Dorado]] {{goal|12}}<br/>[[Pedro Sea|Sea]] {{goal|57}}<br/>[[Viktoriano Iriarte|Iriarte]] {{goal|68}}<br/>[[Hektors Kastro|Kastro]] {{goal|89}}
+  | vārti2    = [[Karloss Poiselle|Poiselle]] {{goal|20}}<br/>[[Giljermo Stavile|Stavile]] {{goal|37}}
+  | stadions  = ''Estadio Centenario'', [[Montevideo]]
+  | skatītāji = 68 346
+  | tiesnesis = {{flaga|Beļģija}} Džons Langenuss
+}}
+
+
+{{uzvarētāji|fb|1930. gada Pasaules čempioni|Urugvaja|Pirmais}}
+
+== Labākie vārtu guvēji ==
+
+;8 vārti
+* {{flaga|ARG|alt}} <!-- [[Guillermo Stábile]] -->[[Giljermo Stavile]]
+
+;5 vārti
+* {{flaga|URU}} <!-- [[Pedro Cea]] -->[[Pedro Sea]]
+
+;4 vārti
+
+* {{flaga|USA|1912}} <!-- [[Bert Patenaude]] -->[[Berts Patenods]]
+
+;3 vārti
+* {{flaga|ARG|alt}} <!-- [[Carlos Peucelle]] -->[[Karloss Poiselle]]
+* {{flaga|BRA|1889}} <!-- [[Preguinho]] -->[[Prežunjo]]
+* {{flaga|URU}} <!-- [[Peregrino Anselmo]] -->[[Huans Anselmo]]
+* {{flaga|YUG|karaliste}} <!-- [[Ivan Bek]] -->[[Ivica Beks]]
+== Literatūra ==
+*Crouch, Terry (2002). The World Cup: The Complete History. London: Aurum. ISBN 1-85410-843-3. OCLC 48930580.
+*Freddi, Cris (2006). Complete Book of the World Cup 2006. London: HarperCollins. ISBN 0-00-722916-X.
+*Glanville, Brian (2005). The Story of the World Cup. London: Faber and Faber. ISBN 0-571-22944-1.
+*Goldblatt, David (2008). The Ball Is Round: A Global History of Soccer. Penguin. ISBN 978-1-59448-296-0. Retrieved 30 August 2010.
+*Seddon, Peter (2005). The World Cup's Strangest Moments. London: Robson. ISBN 1-86105-869-1.
+FIFA World Football Museum (2017). The Official History of the FIFA World Cup. London: Carlton Books. ISBN 9781787390188.
+== Ārējās saites ==
+* [http://www.fifa.com/worldcup/archive/edition=1/index.html FIFA Pasaules kauss 1930 FIFA mājaslapā] {{Webarchive|url=https://web.archive.org/web/20181226015657/https://www.fifa.com/worldcup/archive/edition=1/index.html%20 |date={{dat|2018|12|26||bez}} }}
+
+{{FIFA Pasaules kauss}}
+{{Pasaules futbols}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:1930. gada FIFA Pasaules kauss| ]]

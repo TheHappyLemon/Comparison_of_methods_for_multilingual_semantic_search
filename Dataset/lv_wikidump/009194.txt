@@ -1,0 +1,54 @@
+{{Administratīvā iedalījuma vienības infokaste
+| name = Kumas ostāns
+| official_name = {{ara|استان قم}}
+| image_skyline = SENJEGAN121.JPG
+| imagesize = 
+| image_caption = 
+| settlement_type = ostāns
+| total_type = Kopā
+| image_flag = 
+| image_shield = 
+| image_map = IranQom.svg
+| map_caption = 
+| subdivision_type = Valsts
+| subdivision_name = {{IRN}}
+| area_total_km2 = 11526
+| population_total = 1292283
+| population_as_of = 2016
+| population_density_km2 = auto
+| coor_pinpoint = 
+| latd =34 | latm = 40| lats =| latNS = N
+| longd =51 | longm = 00| longs =| longEW = E
+| seat_type = Centrs
+| seat = [[Kuma]]
+| parts_type = Šāhrestāni
+| parts = 3
+| p1 = Džafarabāda
+| p2 = Kahaka
+| p3 = Kuma
+| p4 = 
+| p5 = 
+| p6 = 
+| p7 = 
+| p8 = 
+| p9 = 
+| p10 = 
+| population_blank02_title = Etniskais sastāvs
+| population_blank02 = [[persieši]]
+| website = 
+}}
+'''Kumas ostāns''' ({{val-fa|استان قم}}) ir viens no [[Irānas ostāni]]em valsts vidusdaļā. Robežojas ar [[Teherānas ostāns|Teherānu]] ziemeļos, ar [[Semnānas ostāns|Semnānu]] austrumos, ar [[Isfahānas ostāns|Isfahānu]] dienvidos un ar [[Markazī]] rietumos. Administratīvais centrs un lielākā pilsēta ir [[Kuma (pilsēta)|Kuma]]. 
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Irāna-aizmetnis}}
+
+{{Irānas ostāni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Irānas ostāni]]

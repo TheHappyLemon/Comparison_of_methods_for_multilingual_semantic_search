@@ -1,0 +1,18 @@
+[[Attēls:Firefox 95 light theme screenshot.png|thumbnail|300px|right|''[[Mozilla Firefox]]'', ceturtā visplašāk izmantotā darbvirsmas tīmekļa pārlūkprogramma]]
+
+'''Tīmekļa pārlūkprogramma''' jeb vienkārši '''tīmekļa pārlūks''' ir [[programmatūra]], kas ļauj lietotājam aplūkot uz [[tīmekļa serveris|tīmekļa serveriem]] esošus dokumentus. Populārākās pārlūkprogrammas ir ''[[Google Chrome]]'', ''[[Microsoft Edge]]'', ''[[Safari (pārlūkprogramma)|Safari]], [[Mozilla]]'' ''[[Mozilla Firefox|Firefox]]'' un ''[[Opera (pārlūkprogramma)|Opera]]''. Pārlūkprogramma ir izplatītākais [[lietotāja aģents|lietotāja aģentu]] veids. Pasaulē lielākais saistīto dokumentu kopums ir [[vispasaules tīmeklis]].
+
+== Protokoli un standarti ==
+Pamatā tīmekļa pārlūkprogrammas sazinās ar tīmekļa serveriem caur [[HTTP]] protokolu un tā drošo režīmu [[HTTPS]], kas ļauj tiem saņemt [[tīmekļa lappuse]]s pēc to [[URL]] (''https:''). HTTP protokols ļauj ne tikai tīmekļa pārlūkprogrammām saņemt tīmekļa lappuses no servera, bet arī nosūtīt informāciju uz serveri. Šobrīd visplašāk lietotā HTTP protokola versija ir HTTP/1.1, ko apraksta [[RFC]] 2616. HTTP/1.1 protokolu pilnībā atbalsta visas mūsdienīgās tīmekļa pārlūkprogrammas, izņemot ''Internet Explorer''. Tīmekļa lappušu [[datnes formāts]] ir [[HTML]], ko HTTP protokolā identificē [[Interneta medija tips|MIME satura tips]] (''Content type''). Lielākā daļa tīmekļa pārlūkprogrammu bez HTML atbalsta arī citus formātus, tādus, kā [[JPEG]], [[GIF]] un [[PNG]], un tām var pievienot jaunu formātu atbalstu izmantojot [[spraudnis|spraudņus]]. Daudzas tīmekļa pārlūkprogrammas atbalsta arī citus URL tipus un tiem atbilstošos protokolus, piemēram, ''ftp:'' ([[protokols FTP|FTP]]), ''gopher:'' ([[Gopher]]), ''https:'' ([[HTTPS]]) (ar [[standarts SSL|SSL standarta]] palīdzību šifrēta HTTP versija). HTTP saturu tipu un URL tipu kombinācija ļauj tīmekļa lappušu veidotājiem iekļaut tajās attēlos, animācijas, video, skaņu un [[straumējošā vide|straumējošo vidi]].
+
+Agrīnās tīmekļa pārlūkprogrammu versijas atbalstīja ļoti vienkāršu HTML versiju. Straujā pārlūkprogrammu attīstība (skat. [[Pārlūkprogrammu kari]]) noveda pie nestandarta HTML dialektu rašanās, kas radīja savietojamības problēmas. Mūsdienīgās tīmekļa pārlūkprogrammas (''[[Mozilla]]'', ''[[Opera (pārlūkprogramma)|Opera]]'' un ''[[Safari (pārlūkprogramma)|Safari]]'') atbalsta uz standartiem balstītas HTML un [[XHTML]] versijas, kam vajadzētu tikt attēlotām vienādi uz dažādām pārlūkprogrammām. Internet Explorer šobrīd pilnībā neatbalsta XHTML. Pašreiz liela daļa mājaslapu ir izstrādātas izmantojot [[metode WYSIWYG|WYSIWYG]] HTML ģenerēšanas programmas, tādas, kā ''[[Macromedia Dreamweaver]]'' un ''[[Microsoft FrontPage]]'', kas pamatā ģenerē standartiem neatbilstošu HTML kodu, tādējādi traucējot [[Vispasaules Tīmekļa konsorcijs|Vispasaules Tīmekļa konsorcija]] standartu izstrādes darbu.
+
+Daudzas no populārākajam tīmekļa pārlūkprogrammām satur papildkomponentes ''[[Usenet]]'' ziņu grupu, [[IRC]] un [[elektroniskais pasts|e-pasta]] atbalstam.
+
+{{IT-aizmetnis}}
+
+{{Tīmekļa pārlūki}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tīmekļa pārlūkprogrammas| ]]

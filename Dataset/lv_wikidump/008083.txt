@@ -1,0 +1,34 @@
+{{ezera infokaste
+|ezers=Kallavesi
+|attēls=Koski-laiva.JPG
+|paraksts=Izbraucienu kuģītis Kallavesi ezerā
+| map = Somija
+| plat_d=62 | plat_m=50 | plat_s= | plat_NS=N
+| gar_d=27 | gar_m=45 | gar_s= | gar_EW=E
+|vieta={{FIN}}
+|platība=473
+|garums=50
+|Vid_dziļums=8,9
+|Max_dziļums=102
+|tilpums=
+|augstums_vjl=82
+|izteka=[[Unnuka]]
+|baseins=16 270
+|valstis=
+|salas=
+|pilsētas=[[Kuopio]]
+}}
+'''Kallavesi''' ({{val|fi|Kallavesi}}) ir liels [[ezers]] [[Somija]]s centrālajā daļā, [[Ziemeļsavo]] reģionā. Dziļākais ezers Somijā.
+
+Ezers ir [[kriptodepresija]], tā gultne ir 20 metrus dziļāka par jūras līmeni. Ezera krastā atrodas [[Kuopio]] pilsēta, daļa no pilsētas atrodas uz ezera salām.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Somija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Somijas ezeri]]
+[[Kategorija:Ziemeļsavo]]

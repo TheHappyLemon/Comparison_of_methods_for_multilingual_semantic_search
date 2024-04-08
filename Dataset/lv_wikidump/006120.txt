@@ -1,0 +1,86 @@
+{{Atjaunot}}
+{{Nosaukums slīprakstā}}
+{{Datorspēles infokaste
+|bilde=[[Attēls:Runescape 3 Logo.png|220 px]]
+|apraksts=''RuneScape'' logo
+|developer=''[[Jagex|Jagex Ltd.]]''
+|publisher=''[[Jagex|Jagex Ltd.]]''
+|release=''[[RuneScape Classic]]'': 2001. gada 4. janvārī<br />
+''[[Runescape|RuneScape 2]]'': 2004. gada 29. martā
+|genre=fantāzijas [[MMORPG]]
+|mode=daudzspēlētāju
+|platforms=''[[Java (valoda)|Java]]'' (''[[Microsoft Windows]]'', ''[[Linux]]'', ''[[Mac OS X]]'')
+|media=Tīkla saskarne
+|requirements=Zemās grafikas: <br />
+256 MB RAM, <br />
+800 MHz CPU<br />
+Augstās grafikas: <br />
+512 MB RAM, <br />
+1.2 MHz CPU
+|input=Klaviatūra, pele
+}}
+'''''RuneScape''''' ir 2001. gada janvārī izdota ''[[Jagex]]'' izstrādāta [[daudzspēlētāju tiešsaistes lomu spēle]]. Sākotnēji tā bija ''[[Java (valoda)|Java]]'' programmēšanas valodā sarakstīta [[tīmekļa pārlūkprogramma|tīmekļa pārlūkprogrammas]] spēle, bet kopš 2016. gada tā ir patstāvīga ''[[C++]]'' programmēšanas valodā sarakstīta [[datorspēle]].
+
+''RuneScape'' darbība notiek fantāzijas pasaulē — Gīlinorā, kas sīkāk sadalīta dažādās karaļvalstīs, apgabalos un pilsētās. Spēlētāji var ceļot ar kājām, [[Teleportācija|teleportēties]] vai izmantot pasažieru kuģus. Katrā apgabalā ir pieejami dažādi briesmoņi, resursi un uzdevumi.
+
+Spēlētājs, sākot spēlēt, var izvēlēties sava [[Avatars|avatara]] izskatu. Spēlētāji var cīnīties pret citiem spēlētājiem vai briesmoņiem, izpildīt dažādus uzdevumus vai trenēt prasmes. Spēlētāji var savstarpēji tirgoties, sarunāties un spēlēt komandas spēles.
+
+== Vēsture un izveide ==
+[[Attēls:256px-Deviousmud123.PNG|thumb|left|256px|Trīs attēli no ''DeviousMUD'', ''RuneScape'' pirmā un tā arī nekad oficiāli nepublicētā dziņa]]
+''RuneScape'' priekšteci ''DeviousMUD'' 1998. gadā izveidoja Endrū Govers. Šī spēles versija nedēļu bija pieejama kā beta versija, bet tika atcelta un oficiālā versija tā arī netika publicēta. Govers ar sava brāļa Pola palīdzību sāka strādāt pie pilnīgas spēles pārprogramēšanas. Izometriskais skatījums tika izveidots no divu un [[3D|trīs dimensiju]] attēliem. Sākumā spēles serveris atradās brāļu vecāku mājās [[Notinghema|Notingemā]], bet 2001. gada decembrī abi brāļi un Konstants Teders nodibināja uzņēmumu ''[[Jagex]]''. 2001. gada 4. janvārī spēle tola pārsaukta par ''RuneScape'', un tika publicēta tās pirmā versija.
+[[Attēls:RuneScape classic.JPG|thumb|256px|Attēls no ''Runescape Classic''.]]
+Spēle kļuva populāra un ''Jagex'' sāka plānot lielākas izmaņas spēlē. Lai gan sākotnēji bija ieplānots tikai uzlabot spēles grafiku, tika izveidota pavisam jauna trīsdimensiju grafika un spēle tika papildināta ar citām iespējām. 2003. gada 1. decembrī tika izveidota ''Runescape 2'' dziņa beta versija, kas bija pieejama tikai maksājošajiem spēlētājiem. Tā tika pabeigta 2004. gada 29. martā. Pēc publicēšanas ''Runescape 2'' tika pārsaukts par ''Runescape'', bet iepriekšējā versija tika pārsaukta par ''RpēlētājuClassic.'' Spēlētāju konti tika pārcelti uz jauno versiju, taču spēlētāji, kas to vēlējās, varēja lūgt kontu pārcelšanu atpakaļ. Tomēr pēc kāda laika ''RuneScape'' Classic tika padarīta pieejama tikai maksājošajiem spēlētājiem, turklāt tika noteikts ierobežojums, ka, ja spēlētājs nav spēlējis sešus mēnešus, konts tiek dzēsts.
+
+2006. gada 16. maijā Jagex uzlaboja ''Runescape'' spēles dzini, neuzlabojot spēles grafiku.<ref>{{Tīmekļa atsauce |url=http://news.runescape.com/newsitem.ws?id=584 |title=RuneScape - News - Game engine upgraded!<!-- Bota izveidots nosaukums --> |access-date={{dat|2007|07|12||bez}} |archiveurl=https://web.archive.org/web/20071018154348/http://news.runescape.com/newsitem.ws?id=584 |archivedate={{dat|2007|10|18||bez}} }}</ref> Uzlabotais dzinis samazināja ''Runescape'' spēlēšanai nepieciešamo datora atmiņas daudzumu ļaujot veidotājiem paplašināt spēli, nepalēninot spēles ielādes ātrumu. 2007. gada 26. jūnijā dzinis tika vēlreiz uzlabots.<ref>{{Tīmekļa atsauce |url=http://news.runescape.com/newsitem.ws?id=850 |title=RuneScape - News - Game Engine Update<!-- Bota izveidots nosaukums --> |access-date={{dat|2007|07|12||bez}} |archiveurl=https://web.archive.org/web/20070701134912/http://news.runescape.com/newsitem.ws?id=850 |archivedate={{dat|2007|07|01||bez}} }}</ref>
+
+=== Serveri ===
+[[Attēls:RuneScape server locations.svg|thumb|315px|Valstis, kurās atrodas ''RuneScape'' serveri.]]
+Ir pavisam 159 ''RuneScape'' [[Serveris|serveri]], kas izvietoti [[Anglija|Anglijā]], [[Amerikas Savienotās Valstis|ASV]], [[Kanāda|Kanādā]], [[Nīderlande|Nīderlandē]], [[Austrālija|Austrālijā]], [[Zviedrija|Zviedrijā]] un [[Somija|Somijā]]. Šie serveri izmanto ''Unix'', ''Debian GNU/Linux'', un ''Cisco IOS'' programmatūru. Uz katra no serveriem vienlaicīgi var spēlēt 2000 spēlētāju, tādējādi maksimālais vienlaikus spēlējošo spēlētāju skaits ir 280 000. Serveri ir sadalīti bezmaksas un maksas versijas serveros. ''RuneScape'' atļauj brīvi mainīt serverus, tomēr maksas serveri ir pieejami tikai maksājošajiem spēlētājiem, savukārt uz bezmaksas serveriem nav iespējams piekļūt daļai spēles satura. Turklāt ir divi ''Runescape Classic'' serveri, kas atrodas Anglijā un ir pieejami tikai maksājošajiem spēlētājiem. Katrs no tiem var uzturēt 1250 spēlētājus, tātad kopā vienlaikus ļaujot spēlēt 2500 spēlētājiem.
+
+=== Reklāma ===
+
+Lai uzturētu ''RuneScape'' bezmaksas daļu, bezmaksas serveriem virs spēles tiek rādītas reklāmas. 2006. gada 13. jūlijā ''Jagex'' noslēdza ekskluzīvu līgumu ar ''WildTagent Games'', kas ''WildTagent'' deva tiesības ievietot reklāmu ''RuneScape'' un reklamēt spēli ASV. Līgums arī atļāva izplatīt ''RuneScape'' caur ''WildTagent'' spēļu tīklu, kas sasniedza ap 20 miljoniem lietotāju datoru. ''WildTagent'' ir parūpējušies, lai šis līgums nekā nemainītu ''RuneScape'' un plāno savas reklāmas tādas, lai tās netraucētu ''Runescape''. ''Jagex'' moderatori ir paziņojuši, ka spēlē nekādu reklāmu nebūs. Tā kā spēlētājiem var būt reklāmu bloķētāji, Jagex ieviesa jaunu noteikumu, kas bezmaksas spēlētājiem aizliedz bloķēt reklāmas.<ref>[http://www.runescape.com/kbase/viewarticle.ws?article_id=2396]{{Novecojusi saite}}</ref>
+
+=== Citas valodas ===
+
+2007. gada 14. februārī tika izlaista spēles beta versija [[Vācu valoda|vācu valodā]], kas piedāvā pilnīgu spēles tulkojumu. Tai no vācu spēlētājiem tika izraudzīti testētāji, kuriem tika dota pieeja serveriem — viens bezmaksas, otrs maksājošo.
+
+== Maksas versija ==
+
+[[Attēls:Skillsp2p.PNG|thumb|left|300px|Prasmju saskarne, ar zilu apvilktās prasmes var izmantot tikai maksājošie spēlētāji.]]
+''RuneScape'' maksas versija dod pieeju papildu iespējām, kas nav pieejamas bezmaksas versijā — 3/4 spēles pasaules un lielākā daļa uzdevumu ir pieejami tikai maksas versijā. Šajā versijā pieejamas minispēles, papildu objekti, prasmes un ar tām saistītās iespējas. Maksājošie spēlētāji iegūst lielāku spēles bankas ietilpību, pieeju spēles oficiālajam forumam un plašākus servisa pakalpojumus. Spēles uzlabojumi parasti domāti maksas versijai.
+
+Mēneša maksājumi šobrīd ir 3,20 eiro, 5,00 ASV dolāru, 7,20 CDN, 4,60 €, 8,20 AUD vai 8.90 SGD, savukārt apmaksājamo summu citās valūtās nosaka dolāra kursa svārstības. Tāpat maksājums var mainīties atkarībā no izvēlētā apmaksas veida. Atkarībā no valsts ir pieejamas dažādas apmaksas iespējas — maksāt ar kredītkarti vai debetkarti, ar ''[[PayPal]]'' starpniecību vai izmantojot ''[[Pay by Cash]]'' piedāvātās iespējas (piemēram, čeks, naudas sūtījums vai priekšapmaksas karte), tāpat apmaksu var veikt, piezvanot pa telefonu vai nosūtot [[īsziņa|īsziņu]].
+
+Maksājošajiem spēlētājiem tiek dota pieeja maksas versijas serveriem, kuros nav reklāmu. Lai gan maksājošie spēlētāji var spēlēt bezmaksas serveros, tajos pieejams tikai bezmaksas versijas saturs. Tomēr nav iespējams ieiet bezmaksas versijas serverī, ja spēlētāja avatars atrodas tikai maksas versijā pieejamā spēles pasaules daļā.
+
+Maksājošajiem spēlētājiem ir vairāk atjauninājumu nekā nemaksājošiem spēlētājiem.
+
+Spēles maksas versija vācu valodā no [[angļu valoda]]s versijas atšķiras tikai ar valodu.
+
+== Spēlēšana ==
+
+Jaunie spēlētāji spēli sāk Mācību salā (''Tutorial Island''). Salā spēlētājs tiek virzīts pa noteiktu ceļu, kurā viņš iemācās vairumu bezmaksas spēlētāju prasmju, kas noderēs RuneScape pasaulē. Pēc tam kad apmācība ir izieta, spēlētājs nokļūst īstajā pasaulē un uz salas vairs nevar atgriezties, taču pilsētās var sastapt gidus — [[ne-spēlētāja tēls|ne-spēlētāja tēlus]], kas var paskaidrot nesaprotamo un iedot konkrētās prasmes izmantošanai nepieciešamo.
+Diemžēl ''Tutorial Island'' vairs nav pieejams, bet tomēr atrodas kartē. To ir aizstājusi pamācība, kurā bruņiniekam jāpalīdz pieveikt pūķi.
+
+=== Skaņa ===
+
+''RuneScape'' ir mūzika, skaņas efekti un fona skaņas. Mūzika palīdz radīt noteiktu noskaņu un palīdz spēlētājam saprast dažādu Gīlinoras vietu kultūru. Skaņu efekti ir dzirdami, kad spēlētājs izmanto kādu lietu, piemēram, iemetot ūdenī omāru slazdu, dzirdams šļakstiens. Fona skaņas ir dažādi pasaules trokšņi, piemēram, putnu čivināšana mežā. Spēlētājs var atskaņot dažādu vietu, kurās viņš ir bijis, mūziku, kad vien vēlas, taču, lai padarītu pieejamu kādas vietas mūziku, spēlētājam ir jābūt apmeklējušam šo vietu. Spēlētājiem ir iespēja regulēt mūzikas, skaņas efektu un fona skaņu skaļumu 4 dažādos skaļumos.
+
+=== Grafika ===
+
+Sākot spēlēt ''RuneScape,'' var izvēlēties augstās un zemās kvalitātes grafikas versiju; augstā grafika uzlabo tekstūru un dizainu, kamēr zemā piedāvā tīrāku izskatu un samazina lagus lēniem datoriem. 2005. gada februārī Jagex sāka uzlabot grafiskos attēlus monstriem un pilsētām, plānojot to izdarīt visai bezmaksas spēles daļai, lai vairs neradītu lagus cilvēkiem ar [[dial-up]] interneta savienojumiem.
+
+''RuneScape'' spēlētājiem dod iespēju izmainīt savu personāžu. Atšķirībā no daudzām citām žanra spēlēm, spēlētāji var būt tikai cilvēki, tomēr spēlētāji var izvēlēties dzimumu, ķermeņa apveidus, dažādas frizūras, pamatdrēbes un to krāsas. Vēlāk izskatu var mainīt, uzvelkot dažādas mantas, lai radītu sev unikālāku izskatu. Visiem viena tipa ieročiem, piemēram, zobeniem ir vienādas animācijas, tomēr dažiem īpašiem ieročiem ir pašiem sava animācija, kas atšķiras no parasto ieroču animācijas.
+
+Spēlētāji var pārvērsties, lietojot īpašu aprīkojumu, vai noteiktos spēles notikumos. Pārvēršanās par vardi, sēni, olu, zaķi vai citām lietām īpašos gadījumos. Šīs pārvērtības ir īslaicīgas, un kādreiz ļauj spēlētājiem izvairīties no negatīvām spēles daļām, vai tikt savādāk neaizsniedzamās vietās; tomēr, viņiem ir aizliegtas daudzas lietas, ko var darīt kā cilvēks.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* {{oficiālā tīmekļa vietne}} {{angliski}}
+
+[[Kategorija:Tīmekļa pārlūka spēles]]
+[[Kategorija:MMORPG]]
+[[Kategorija:2001. gada videospēles]]

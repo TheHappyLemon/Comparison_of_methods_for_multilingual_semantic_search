@@ -1,0 +1,123 @@
+{{Citas nozīmes|futbola klubu|Roma (nozīmju atdalīšana)|Roma}}
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+|text_color    = #F89728
+|bg_color      = #B30838
+|nos           = ''AS Roma''
+|logo          = [[Attēls:AS Roma Logo 2017.svg.png|150px]]
+|pilns         = ''Associazione Sportiva Roma SpA''
+|iesauka       = ''Giallorossi (dzeltensarkanie)<br/>Lupi (vilki)<br/> Romanista (romieši)''
+|pilsēta       = {{vieta|Itālija|Roma}}
+|dib           = 1927
+|dib_mēn       = 7
+|dib_dat       = 22
+|stad          = ''[[Stadio Olimpico]]''
+|ietilp        = 70 634
+|prez          = {{flaga|ASV}} Dens Frīdkins
+|tren          = {{flaga|Itālija}} [[Daniele De Rosi]]
+| kapteinis    = {{flaga|ITA}} [[Lorenco Pellegrīni]]
+|līga          = [[Itālijas futbola čempionāta A sērija|Itālijas A sērija]]
+|sez           = [[2022.—2023. gada Itālijas futbola čempionāta A sērijas sezona|2022.—2023.]]
+|poz           = 6. vieta
+|mediji        = {{URL|http://www.asroma.com}}
+| pattern_la1      = _roma2021h
+| pattern_b1       = _roma2021h
+| pattern_ra1      = _roma2021h
+| pattern_sh1      = _roma2021h
+| pattern_so1      = _roma2021h
+| leftarm1         = 8E1111
+| body1            = 8E1111
+| rightarm1        = 8E1111
+| shorts1          = 8E1111
+| socks1           = 8E1111
+| pattern_la2      = _roma2021a
+| pattern_b2       = _roma2021a
+| pattern_ra2      = _roma2021a
+| pattern_sh2      = _roma2021a
+| pattern_so2      = _roma2021a
+| leftarm2         = E9E6D3
+| body2            = E9E6D3
+| rightarm2        = E9E6D3
+| shorts2          = E9E6D3
+| socks2           = E9E6D3
+| pattern_la3      = _roma2021t
+| pattern_b3       = _roma2021t
+| pattern_ra3      = _roma2021t
+| pattern_sh3      = 
+| pattern_so3      = 
+| leftarm3         = 000000
+| body3            = 000000
+| rightarm3        = 000000
+| shorts3          = 000000
+| socks3           = 000000
+}}
+
+'''''Associazione Sportiva Roma''''' ir [[Itālija]]s [[futbols|futbola]] klubs no [[Roma]]s. Klubs ir dibināts [[1927]]. gadā, pašlaik spēlē [[Itālijas futbola čempionāta A sērija|A sērijā]] un mājas spēles aizvada [[Stadio Olimpico|Romas Olimpiskajā stadionā (''Stadio Olimpico'')]], kur ir 70 634 skatītāju vietas. Komanda ir izcīnījusi trīs Itālijas A sērijas čempionu titulus, kā arī deviņas reizes ieguvusi [[Itālijas kauss futbolā|Itālijas kausu]].
+
+== Komandas sastāvs ==
+''{{dat|2022|3|25||bez}}''.<ref>{{Tīmekļa atsauce|url=https://www.asroma.com/en/team/players-and-staff|title=All Players and Staff|accessdate={{dat|2020|10|15||bez}}|website=asroma.com|archive-date={{dat|2021|03|26||bez}}|archive-url=https://web.archive.org/web/20210326023614/https://www.asroma.com/en/team/players-and-staff}}</ref>
+{{fs start}}
+{{Fs player|no= 1|nat=POR|pos=GK|name=[[Rui Patrisiu]]}}
+{{Fs player|no= 2|nat=NED|pos=DF|name=[[Riks Karsdorps]]}}
+{{Fs player|no= 3|nat=BRA|pos=DF|name=[[Rožers Ibanjess]]}}
+{{fs player|no= 4|nat=ITA|pos=MF|name=[[Brians Kristante]]|other=[[kapteinis (futbols)|trešais kapteinis]]}}
+{{Fs player|no= 5|nat=URU|pos=DF|name=[[Matias Vinja]]}}
+{{Fs player|no= 6|nat=ENG|pos=DF|name=[[Kriss Smolings]]}}
+{{fs player|no= 7|nat=ITA|pos=MF|name=[[Lorenco Pellegrīni]]|other=[[kapteinis (futbols)|kapteinis]]}}
+{{fs player|no= 9|nat=ENG|pos=FW|name=[[Tamijs Eibrahams]]}}
+{{Fs player|no=11|nat=ESP|pos=FW|name=[[Karles Perezs]]}}
+{{Fs player|no=14|nat=UZB|pos=FW|name=[[Eldors Šomurodovs]]}}
+{{Fs player|no=15|nat=ENG|pos=DF|name=[[Einslijs Meitlends-Nailzs]]|other=īrē no [[Arsenal FC|Arsenal]]}}
+{{Fs player|no=22|nat=ITA|pos=MF|name=[[Nikolo Dzaniolo]]}}
+{{Fs mid}}
+{{Fs player|no=23|nat=ITA|pos=DF|name=[[Džanluka Mančīni]]|other=[[kapteinis (futbols)|vicekapteinis]]}}
+{{Fs player|no=24|nat=ALB|pos=DF|name=[[Marašs Kumbulla]]|other=īre no [[Hellas Verona F.C.|Hellas Verona]]}}
+{{Fs player|no=25|nat=NED|pos=MF|name=[[Džordžīno Veinaldums]]|other=īre no [[Parīzes "Saint-Germain"|Parīzes Saint-Germain]]}}
+{{Fs player|no=27|nat=POR|pos=MF|name=[[Seržiu Oliveira]]|other=īre no [[FC Porto|Porto]]}}
+{{Fs player|no=37|nat=ITA|pos=DF|name=[[Leonardo Spinacola]]}}
+{{Fs player|no=42|nat=GUI|pos=MF|name=[[Amadū Diavara]]}}
+{{Fs player|no=52|nat=ITA|pos=MF|name=[[Edoardo Bovē]]}}
+{{Fs player|no=55|nat=GAM|pos=MF|name=[[Ebrima Darboe]]}}
+{{Fs player|no=59|nat=POL|pos=FW|name=[[Nikola Zalevskis]]}}
+{{Fs player|no=63|nat=ITA|pos=GK|name=[[Pjetro Boers]]}}
+{{Fs player|no=64|nat=GHA|pos=FW|name=[[Felikss Afena Gjans]]}}
+{{Fs player|no=87|nat=BRA|pos=GK|name=[[Daniels Fucato]]}}
+{{Fs player|no=92|nat=ITA|pos=FW|name=[[Stefans el Šaarāvī]]}}
+{{fs end}}
+
+== Sasniegumi ==
+* '''[[Itālijas futbola čempionāta A sērija|A sērija]]'''
+** Čempioni (3): 1941–42, 1982–83, 2000–01
+** Vicečempioni (14): 1930–31, 1935–36, 1980–81, 1983–84, 1985–86, 2001–02, 2003–04, 2005–06, 2006–07, 2007–08, 2009–10, 2013–14, 2014–15, [[2016.—2017. gada Itālijas futbola čempionāta A sērijas sezona|2016–17]]
+* '''[[Itālijas kauss futbolā|Itālijas kauss]]'''
+** Kausa ieguvēji (9): 1963–64, 1968–69, 1979–80, 1980–81, 1983–84, 1985–86, 1990–91, 2006–07, 2007–08
+** Finālisti (8): 1936–37, 1940–41, 1992–93, 2002–03, 2004–05, 2005–06, 2009–10, 2012–13
+* '''Itālijas superkauss'''
+** Kausa ieguvēji (2): 2001, 2007
+** Finālisti (4): 1991, 2006, 2008, 2010
+* '''[[Itālijas futbola čempionāta B sērija|B sērija]]'''
+** Čempioni (1): 1951–52
+* '''[[UEFA Čempionu līga|Eiropas Čempionvienību kauss]]'''
+** Finālisti (1): 1983–84
+* [[UEFA Eiropas līga|'''UEFA Eiropas līga''' (agrāk — '''UEFA kauss''')]]
+** Finālisti (2): 1990–91, [[2022.—2023. gada UEFA Eiropas līgas sezona|2022–23]]
+* '''[[UEFA Eiropas konferenču līga]]'''
+** Čempioni (1): 2021—22<ref>https://www.uefa.com/uefaeuropaconferenceleague/match/2033451--roma-vs-feyenoord/</ref>
+* '''Starppilsētu izstāžu kauss'''
+** Kausa ieguvēji (1): 1960–61
+* '''Angļu-itāļu kauss'''
+** Kausa ieguvēji (1): 1971–72
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commons category|AS Roma}}
+* [http://www.asroma.it/ Oficiālā kluba vietne]
+
+{{Futbols-aizmetnis}}
+{{Itālijas Serie A}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Itālijas futbola klubi|Roma, AS]]
+[[Kategorija:AS Roma|*]]

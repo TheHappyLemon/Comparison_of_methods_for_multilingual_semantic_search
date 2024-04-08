@@ -1,0 +1,23 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#F0F8FF"><tr>
+<td style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt">'''[[rumāņu valoda|ro]]-1'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Acest utilizator poate contribui cu un nivel '''[[:Kategorija:User ro-1|de bază]]''' de '''[[:Kategorija:User ro|română]]'''.</td>
+</tr></table></div><includeonly>
+[[Kategorija:User ro|{{PAGENAME}}]]
+[[Kategorija:User ro-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User ro]]
+* [[:Kategorija:User ro-1]]
+
+== Skaties arī ==
+
+* [[Template:User ro-2|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|ro-1]]
+
+</noinclude>

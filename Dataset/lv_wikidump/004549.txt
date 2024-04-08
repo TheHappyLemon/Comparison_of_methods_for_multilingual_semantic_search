@@ -1,0 +1,17 @@
+[[Attēls:Square diffraction.jpg|thumbnail|235px|Gaismas intensitātes sadalījums uz ekrāna, kas radies difrakcijas rezultātā, gaismai izejot caur kvadrātisku spraugu]]
+[[Attēls:Two-Slit_Diffraction.png|thumbnail|235px|Difrakcija]]
+'''Difrakcija''' ir viļņu [[Elektromagnētisko viļņu skala|(elektromagnētisko]], [[Mehāniskie viļņi|mehānisko]] u.c.) apliekšanās ap dažādām nehomogenitātēm vidē, kas atrodas to izplatīšanās ceļā. Difrakcijas efekti ir novērojami, ja [[viļņa garums]] ir salīdzināms ar vai mazāks par šķēršļa izmēru. Lai to izskaidrotu, jāzina Heigensa-Frenela princips. Heigensa principa būtība: katrs [[Punkts (ģeometrija)|punkts]] uz viļņa frontes jāuzskata par jaunu sekundāru viļņu avotu. Frenela princips: fiktīvie sekundārie viļņu avoti ir koherenti un [[Svārstības|svārstās]] vienādās fāzēs. Šie sekundārie viļņi pārklājoties interferē.
+
+== Skatīt arī ==
+* [[Gaisma]]
+* [[Interference]]
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jēdzieni fizikā]]
+[[Kategorija:Viļņu fizika]]
+[[Kategorija:Optika]]
+[[Kategorija:Kristalogrāfija]]
+[[Kategorija:Spektroskopija]]

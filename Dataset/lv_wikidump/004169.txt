@@ -1,0 +1,250 @@
+{{Futbola kluba infokaste
+| text_color = #FF0000
+| bg_color = #0000A0
+| nos = Skonto FC
+| logo_links = Skonto Riga Logo.svg
+| logo_izm = 180px
+| pilns = Skonto futbola klubs
+| iesauka = 
+| pilsēta = {{vieta|Latvija|Rīga}}
+| līga = [[Latvijas futbola 1. līga|1. līga]]
+| sez = [[2016. gada Latvijas futbola 1. līgas sezona|2016.]]
+| poz = 8. vieta
+| dib = 1991
+| dib_mēn = 11
+| dib_dat = 21
+| dib_com = <br />{{nobr|(''pastāvēja kopš [[1988. gads|1988. gada]]'')}}
+| beidza_pastāvēt = 2016. gads
+| darbojās = 
+| stad = [[Skonto stadions]]
+| ietilp = 9500<ref>[http://www.lff.lv/lv/aizlase/skontostadions/ LFF: Skonto stadions]</ref>
+| krāsas = 
+| īpašn = 
+| menedžeris = 
+| kapteinis = 
+| mediji = 
+| sadarbojas = 
+| current = <!------ Nosaukuma vēsture ------->
+| name1 = Studentu izlase
+| dates1 = 1988. gadā
+| name2 = Pārdaugava
+| dates2 = 1989. gadā
+| name3 = Daugava/LVFKI
+| dates3 = 1990. gadā
+| name4 = Forums
+| dates4 = 1991. gadā
+| name5 = Forums-Skonto
+| dates5 = 1991. gadā
+| name6 = RTU FC/Skonto Academy
+| dates6 = 2017. gadā
+<!------ Čempiontituli ------->| līga1 = [[Latvijas PSR futbola Augstākā līga|LPSR čempionāta]]
+| uzvaras1 = 1
+| līga2 = [[Latvijas futbola Virslīga|Latvijas čempionāta]]
+| uzvaras2 = 14
+| līga3 = [[Latvijas Kauss futbolā|Latvijas]]
+| uzvaras3 = 8
+| līga4 = [[Baltijas Līga futbolā|Baltijas]]
+| uzvaras4 = 1
+<!------ Tērpu krāsas ------->| pattern_la1 = _den10h
+| pattern_b1 = _shoulder_stripes_white_stripes
+| pattern_ra1 = _den10h
+| pattern_sh1 = _adidaswhite
+| pattern_so1 = _3_stripes_white
+| leftarm1 = DD0000
+| body1 = DD0000
+| rightarm1 = DD0000
+| shorts1 = DD0000
+| socks1 = DD0000
+<!-- Second Kit -->| pattern_la2 = _bayer0910t
+| pattern_b2 = _bayer0910t
+| pattern_ra2 = _bayer0910t
+| pattern_sh2 = _adidaswhite
+| pattern_so2 = _3_stripes_white
+| leftarm2 = 0000FF
+| body2 = 0000CD
+| rightarm2 = 0000FF
+| shorts2 = 0000FF
+| socks2 = 0000FF
+}}
+'''Skonto FC''' bija [[Latvija]]s [[futbols|futbola]] klubs, piecpadsmitkārtējs Latvijas čempions, kā arī astoņkārtējs [[Latvijas kauss futbolā|Latvijas kausa]] ieguvējs. Klubs tika dibināts 1991. gadā un šajā gadā uzvarēja arī [[Latvijas PSR futbola Augstākā līga|LPSR čempionāta]] pēdējās sezonas turnīrā. 2016. gada decembrī klubs tika pasludināts par maksātnespējīgu.<ref>[http://sportacentrs.com/futbols/1_liga/05122016skonto_pasludina_par_maksatnespejigu "Skonto" pasludina par maksātnespējīgu] sportacentrs.com</ref>
+
+== Vēsture ==
+Skonto FC tika dibināts 1991. gadā ar nosaukumu '''Forums-Skonto''', un jau pirmajā sezonā uzvarēja Latvijas PSR čempionātā. 1992. gadā klubs tika pārdēvēts par Skonto FC un laika posmā līdz 2004. gadam komanda ieguva 14 [[Latvijas futbola Virslīga|Latvijas čempionu]] titulus. 2005. gadā par čempioniem kļuva [[FHK Liepājas Metalurgs]], un Skonto pirmo reizi palika otrie. 2007. gadā Skonto pirmoreiz palika ārpus pirmo trīs vietu ieguvēju saraksta, izcīnot tikai 4. vietu.
+
+No 1993. līdz 2004. gadam komandas galvenais treneris bija [[Aleksandrs Starkovs]], kurš vairākus gadus bija arī [[Latvijas futbola izlase]]s galvenais treneris. Pēc tam komandu vadīja [[Jurijs Andrejevs]] un anglis [[Pols Ešvorts]], līdz 2009. gadā klubā atgriezās Starkovs. Skonto kluba prezidents ir bijušais futbolists [[Vladimirs Koļesņičenko]]. Laika posmā no kluba dibināšanas līdz 2012. gada februārim šo amatu ieņēma uzņēmējs [[Guntis Indriksons]], kurš tādas pašas funkcijas ilgstoši pildīja arī [[Latvijas Futbola federācija|Latvijas Futbola federācijā]], līdz tika pieņemti jauni statūti, kuri šādu situāciju nepieļāva. Kluba īpašnieks ir [[Kipra]]s kompānija ''Tremova Ltd.'', kura 2011. gada 31. martā iegādājās 98,74% akciju no Bislana Abdulmuslimova.<ref>[http://www.tvnet.lv/sports/futbols/371885-abdulmuslimovs_pardevis_futbola_kluba_skonto_dalas_kipras_investoram Abdulmuslimovs pārdevis futbola kluba "Skonto" daļas Kipras investoram]</ref> Iepriekš klubs kopš dibināšanas piederēja Guntim Indriksonam. ''Tremova Ltd.'' īpašnieks ir Latvijas uzņēmējs Igors Zaicevs.<ref>[http://sportacentrs.com/futbols/lmt_virsliga/17092012-skonto_prezidents_par_speletajiem_neizmak "Skonto" īpašnieks par spēlētājiem neizmaksātām algām, kluba tagadni un nākotni]</ref>
+                                          
+Skonto veiksmīgi spēlējuši Eiropas klubu turnīros. Komanda [[UEFA čempionu līga]]s kvalifikācijas turnīrā spēlējusi ar tādiem klubiem kā [[FC Barcelona]], [[Milānas "Internazionale"|Milānas Inter]] un [[Chelsea]].
+
+2016. gada sākumā nenokārtotu parādsaistību dēļ Latvijas futbola federācija nolēma nepiešķirt licenci "Skonto" dalībai Virslīgā, taču vēlāk klubam tika piešķirta licence dalībai [[Latvijas futbola 1. līga|1. līgā]].
+"Skonto" sezonas noslēgumā ieņēma astoto vietu 1. līgā, taču 2017. gada pavasarī nesaņēma licenci dalībai 1. līgai un 2016. gada decembrī klubs tika pasludināts par maksātnespējīgu.
+
+2017. gadā komanda pārtapa par jauniešu akadēmiju un sadarbībā ar [[RTU FC|Rīgas Tehniskās universitātes Futbola centru]] sāka dalību [[Latvijas futbola 1. līga|1. līgā]] kā '''RTU FC/Skonto Academy'''. Šī komanda tika likvidēta pēc 2018. gada sezonas.
+
+== Iegūtie tituli ==
+* '''[[Latvijas PSR futbola Augstākā līga|LPSR čempioni]] (1)'''
+** 1991
+* '''[[Latvijas futbola Virslīga|Latvijas čempioni]] (14)''' (rekords)
+** 1992—2004, 2010
+* '''[[Latvijas Kauss futbolā|Latvijas Kausa ieguvēji]] (8)''' (rekords)
+** 1992, 1995, 1997—1998, 2000—2002, 2012
+* '''[[Livonijas Kauss futbolā|Livonijas Kausa ieguvēji]] (3)'''
+** 2003, 2004, 2005
+* '''[[Baltijas Kauss futbolā|Baltijas Kausa ieguvēji]] (1)'''
+** 2011
+
+== Iegūtās vietas Latvijas čempionātā ==
+{{Vairāki attēli
+| footer    = Iepriekšējie Skonto FC logo
+| width     = 120
+
+| image1    = (lva)Skonto FC.gif‎
+| image2    = FK Skonto Logo.svg
+}}
+<timeline>
+ImageSize = width:800 height:60
+PlotArea = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period = from:01/07/1991 till:01/07/2016
+ScaleMajor = unit:year increment:1 start:1992 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:16 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:[[Latvijas futbola Virslīga 1992|1]]
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:[[Latvijas futbola Virslīga 1993|1]]
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:[[Latvijas futbola Virslīga 1994|1]]
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:[[Latvijas futbola Virslīga 1995|1]]
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:[[Latvijas futbola Virslīga 1996|1]]
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:[[Latvijas futbola Virslīga 1997|1]]
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:[[Latvijas futbola Virslīga 1998|1]]
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:[[Latvijas futbola Virslīga 1999|1]]
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:[[Latvijas futbola Virslīga 2000|1]]
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:[[Latvijas futbola Virslīga 2001|1]]
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:[[Latvijas futbola Virslīga 2002|1]]
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:[[Latvijas futbola Virslīga 2003|1]]
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:[[Latvijas futbola Virslīga 2004|1]]
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:[[Latvijas futbola Virslīga 2005|2]]
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:[[Latvijas futbola Virslīga 2006|3]]
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:[[Latvijas futbola Virslīga 2007|4]]
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:[[Latvijas futbola Virslīga 2008|3]]
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:[[Latvijas futbola Virslīga 2009|3]]
+  from:01/07/2009 till:01/07/2010  shift:(0,-4) text:[[Latvijas futbola Virslīga 2010|1]]
+  from:01/07/2010 till:01/07/2011  shift:(0,-4) text:[[Latvijas futbola Virslīga 2011|4]]
+  from:01/07/2011 till:01/07/2012  shift:(0,-4) text:[[Latvijas futbola Virslīga 2012|2]]
+  from:01/07/2012 till:01/07/2013  shift:(0,-4) text:[[Latvijas futbola Virslīga 2013|2]]
+  from:01/07/2013 till:01/07/2014  shift:(0,-4) text:[[Latvijas futbola Virslīga 2014|2]]
+  from:01/07/2014 till:01/07/2015  shift:(0,-4) text:[[Latvijas futbola Virslīga 2015|2]]
+  from:01/07/2015 till:01/07/2016  shift:(0,-4) text:[[2016. gada Latvijas futbola 1. līgas sezona|8]]
+
+  from:01/07/1991 till:01/07/2015  color:bl1  shift:(0,13)  text: "[[Latvijas futbola Virslīga|Virslīga]]"
+  from:01/07/2015 till:01/07/2016  color:bl2  shift:(0,13)  text: "[[Latvijas futbola 1. līga|1. līga]]"
+</timeline>
+
+== Pēdējais komandas sastāvs 2015. gadā ==
+: ''Atjaunots {{dat|2015|3|21||bez}}.''<ref>{{Tīmekļa atsauce |url=http://lff.lv/lv/turniri/viriesu-turniri/smscredit-lv-virsliga/sastavi/skonto-fc/ |title=Skonto FC |accessdate=2015-03-19 |work= |publisher=[[Latvijas Futbola federācija]] |date= }}</ref>
+{{Fs start}}
+{{Fs player | no=   | nat=LAT | pos=GK | name= [[Germans Māliņš]]}}
+{{Fs player | no=   | nat=LAT | pos=GK | name= [[Andrejs Pavlovs]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Edgars Jermolajevs]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Vitālijs Smirnovs]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Renārs Rode]]}}
+{{Fs player | no=   | nat=RUS | pos=DF | name= [[Artjoms Osipovs]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Oļegs Timofejevs]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Vjačeslavs Isajevs]]}}
+{{Fs player | no=   | nat=RUS | pos=DF | name= [[Maksims Usanovs]]}}
+{{Fs player | no=   | nat=GHA | pos=DF | name= [[Ofosu Apija]]}}
+{{Fs player | no=   | nat=UKR | pos=DF | name= [[Levans Mahradze]]}}
+{{Fs player | no=   | nat=LAT | pos=MF | name= [[Igors Kozlovs]]}}
+{{Fs player | no=   | nat=LAT | pos=MF | name= [[Artūrs Pallo]]}}
+{{Fs mid}}
+{{Fs player | no=   | nat=LAT | pos=MF | name= [[Aleksejs Višņakovs]]}}
+{{Fs player | no=   | nat=LAT | pos=MF | name= [[Viktors Morozs]]}}
+{{Fs player | no=   | nat=LTU | pos=MF | name= [[Mindaugs Kalons]]}}
+{{Fs player | no=   | nat=COL | pos=MF | name= [[Ivans Darjo Mena Murilo|Ivans Murilo]]}}
+{{Fs player | no=   | nat=COL | pos=MF | name= [[Santjago Vasko Himeness]]}}
+{{Fs player | no=   | nat=LAT | pos=MF | name= [[Alekss Regža]]}}
+{{Fs player | no=   | nat=LAT | pos=FW | name= [[Mārtiņš Milašēvičs]]}}
+{{Fs player | no=   | nat=LAT | pos=FW | name= [[Vladislavs Gutkovskis]]}}
+{{Fs player | no=   | nat=COL | pos=FW | name= [[Jarleisons Andress Palasioss Moskveira|Jarleisons Moskveira]]}}
+{{Fs player | no=   | nat=NGA | pos=FW | name= [[Ajodele Džošua Dare]]}}
+{{Fs player | no=   | nat=LAT | pos=DF | name= [[Ņikita Bērenfelds]]}}
+{{Fs player | no=   | nat=LAT | pos=FW | name= [[Ņikita Ivanovs]]}}
+{{Fs end}}
+
+== Komandas vadība pēdējā kluba sezonā ==
+{| class="wikitable"
+! Vārds, uzvārds
+! Amats 
+<!--|-
+| {{flaga|Latvija}} [[Guntis Indriksons]]
+| Kluba prezidents -->
+|-
+| {{flaga|Latvija}} Askolds Uldriķis
+| Direktors
+|- 
+| {{flaga|Latvija}} Genādijs Karavajevs
+| Tehniskais direktors
+|- 
+| {{flaga|Gruzija}} [[Tamazs Pertija]]
+| Galvenais treneris
+|-
+| {{flaga|Latvija}} Mihails Miholaps
+| Treneris
+|-
+| {{flaga|Latvija}} Andrejs Kaļiņins
+| Treneris
+|-
+| {{flaga|Latvija}} Dags Čuda
+| Kluba galvenais ārsts
+|-
+| {{flaga|Latvija}} Deniss Bočkovs
+| Fizioterapeits
+|}
+
+== Komandas galvenie treneri ==
+[[Attēls:Aleksandrs Starkovs.jpg|thumb|Komanda lielākos panākumus guva ar [[Aleksandrs Starkovs|Aleksandru Starkovu]] kā galveno treneri]]
+* {{flaga|Latvija}} [[Marks Zahodins]] ([[1991]]—[[1992]])
+* {{flaga|Latvija}} [[Aleksandrs Starkovs]] ([[1993]]—[[2004. gads|2004]])
+* {{flaga|Latvija}} [[Jurijs Andrejevs]] (2004—[[2005. gads|2005]])
+* {{flaga|Anglija}} [[Pols Ešvorts]] (2005—[[2009. gads|2009]])
+* {{flaga|Latvija}} [[Aleksandrs Starkovs]] (2009—[[2011. gads|2011]])
+* {{flaga|Latvija}} [[Marians Pahars]] (2011—2012)
+* {{flaga|Gruzija}} [[Tamazs Pertija]] (2013—2016)
+
+== Pazīstami spēlētāji ==
+* [[Marians Pahars]]
+* [[Juris Laizāns]]
+* [[Māris Verpakovskis]]
+* [[Aleksandrs Koliņko]]
+* [[Igors Stepanovs]]
+* [[Vitālijs Astafjevs]]
+* [[Andrejs Rubins]]
+* [[Mihails Zemļinskis]]
+* [[Andrejs Štolcers]]
+* [[Viktors Morozs]]
+* [[Edgars Jankausks]]
+* [[Vladimirs Dvališvili]]
+* [[Ivans Lukjanovs]]
+* [[Aleksandrs Cauņa]]
+* [[Vladimirs Koļesņičenko]]
+* [[Valērijs Šabala]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [http://www.skontofc.com Kluba oficiālā mājaslapa] {{Webarchive|url=https://web.archive.org/web/20130222034813/http://www.skontofc.com/ |date={{dat|2013|02|22||bez}} }}
+
+{{Latvijas futbola 1. līga}}
+{{Latvijas čempioni futbolā}}
+{{Skonto FC spēlētāji}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Skonto FC]]

@@ -1,0 +1,56 @@
+{{Krievijas republikas infokaste
+| nosaukums = Penzas apgabals 
+| karte = Russia - Penza Oblast (2008-01).svg
+| oriģ = Пензенская область
+| karoga_attēls = Flag of Penza Oblast.svg‎
+| karoga_nosaukums = Penza apgabala karogs
+| ģerboņa_attēls = Gerb of Penza region.jpg
+| ģerboņa_nosaukums = Penza apgabala ģerbonis
+| ģerboņa_platums = 70px
+| galvaspilsēta = [[Penza]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (86,35%)<br />[[tatāri]] (5,97%)
+| platība = 43 200
+| iedzīvotāji = 1 452 941
+| iedz blīvums = 33,6
+| pilsētas = 5
+| rajoni = 28
+| fedapgabals = [[Pievolgas federālais apgabals|Pievolgas]]
+| url = http://www.penza.ru/
+|ainavas_skats=Troice-scanov_monastery_DSC08705.jpg}}
+'''Penzas apgabals''' ({{val|ru|Пе́нзенская о́бласть}}) ir viens no [[Krievija]]s apgabaliem. Tas robežojas ar [[Saratovas apgabals|Saratovas apgabalu]] dienvidos, [[Tambovas apgabals|Tambovas apgabalu]] rietumos, [[Rjazaņas apgabals|Rjazaņas apgabalu]] ziemeļrietumos, [[Mordovija|Mordoviju]] ziemeļos un [[Uļjanovskas apgabals|Uļjanovskas apgabalu]] austrumos.
+
+== Vēsture ==
+Kopš 11. gadsimta ietilpa [[Volgas Bulgārija]]s, kopš 1237. gada [[Zelta Orda]]s sastāvā. 1313. gadā Mohšas pilsēta (tagad Narovčatas ciems) kļuva par [[Uzbeghans|Uzbeghana]] rezidenci. Kad 1395. gadā [[Samarkanda]]s emīrs [[Tamerlans]] izpostīja šo reģionu, tas kļuva par daļu no neapdzīvotas stepju teritorijas, ko dēvēja par "[[Mežonīgais Lauks|Mežonīgo Lauku]]".
+17. gadsimtā to iekaroja [[Krievijas cariste]] un 1719. gadā Pēteris I šeit izveidoja Penzas provinci [[Kazaņas guberņa]]s sastāvā.
+
+Ķeizarienes Katrīnas II laikā no 1780. līdz 1797. gadam pastāvēja patstāvīga Penzas vietniecība, 1801. gadā izveidoja Penzas guberņu. 1928. gadā izveidoja Vidusvolgas novada Penzas apriņķi, 1939. gadā Penzas apgabalu.
+
+== Pilsētas ==
+=== Karte ===
+{{VietasKarte+|Penzas apgabals|width=400 |float=center|caption = Penzas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Penzas apgabals|lat=53.2|long=45|position = top |label='''[[Penza]]'''}}
+{{VietasKarte~|Penzas apgabals|lat=52.966667|long=43.416667|position = top |label=[[Beļinskija]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.266667|long=45.7|position = top |label=[[Gorodišče (pilsēta)|Gorodišče]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.2|long=45.166667|position = bottom |label=[[Zarečnija (Penzas apgabals)|Zarečnija]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.183333|long=44.05|position = top |label=[[Kamenka (Krievija)|Kamenka]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.116667|long=46.6|position = top |label=[[Kuzņecka]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.53333|long=43.683333|position = top |label=[[Ņižņijlomova]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.716667|long=46.083333|position = bottom |label=[[Nikoļska (Penzas apgabals)|Nikoļska]]}}
+{{VietasKarte~|Penzas apgabals|lat=52.466667|long=44.216667|position = top |label=[[Serdobska]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.933333|long=43.183333|position = right |label=[[Spasska]]}}
+{{VietasKarte~|Penzas apgabals|lat=53.083333|long=45.7|position = bottom |label=[[Surska]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Volgas federālais apgabals}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Penzas apgabals| ]]

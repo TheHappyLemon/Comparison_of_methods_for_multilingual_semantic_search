@@ -1,0 +1,29 @@
+{{Vielas infokaste
+|attēls=[[Attēls:Chloroform displayed.svg|110 px]] [[Attēls:Chloroform 3D.svg|110 px]] <br />Hloroforma struktūrformula un molekulas modelis
+|ķīmiskā formula=CHCl<sub>3</sub>
+|molmasa=119,4
+|blīvums=1480
+|kušanas temperatūra=-64&nbsp;°C
+|viršanas temperatūra=62&nbsp;°C
+}}
+[[File:The Discovery of chloroform (1913).webm|thumb|thumbtime=7|''The Discovery of Chloroform''. [[Žestu valoda]], 1913.]]
+'''Hloroforms''' (trihlormetāns, CHCl<sub>3</sub>) ir slikti degošs [[šķīdinātājs]]. Tas ir smags, bezkrāsains, caurspīdīgs [[šķidrums]] ar raksturīgu smaržu.
+
+== Iegūšana ==
+Hloroformu var iegūt, pārdestilējot [[metāns|metāna]] [[hlorēšana]]s produktus (sk. [[metilēnhlorīds|metilēnhlorīda]] iegūšana).
+
+== Īpašības ==
+Gaisā, gaismas iedarbībā, hloroforms oksidējas par [[fosgēns|fosgēnu]]. 
+: CHCl<sub>3</sub> + O → [CCl<sub>3</sub>OH] → COCl<sub>2</sub> + HCl
+
+Lai atbrīvotu hloroformu no fosgēna, hloroformam liek klāt [[etanols|etanolu]], kurš reaģē ar fosgēnu, veidojot nekaitīgu [[ogļskābe]]s esteri.
+
+== Izmantošana ==
+Hloroforms agrāk ir ticis lietots kā vispārējās [[anestēzija]]s līdzeklis, taču mūsdienās to vairs neizmanto toksiskuma dēļ (toksiskumu lielā mērā nosaka fosgēna zīmes hloroformā). Hloroformu, kur ūdeņradis ir aizvietots ar [[deitērijs|deitēriju]] (ūdeņraža smago izotopu), kā arī citas deiterētas vielas lieto [[KMR|kodolu magnētiskās rezonanses spektrometrijā]] kā šķīdinātāju.
+
+{{Hal-ogļūdeņraži}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ogļūdeņražu halogēnatvasinājumi]]
+[[Kategorija:Šķīdinātāji]]

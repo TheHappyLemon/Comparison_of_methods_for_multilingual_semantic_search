@@ -1,0 +1,103 @@
+{{Latvijas novada infokaste
+| nosaukums         = Līgatnes pagasts
+| karte             = Līgatnes pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Cēsu novads
+| centrs            = Augšlīgatne
+| platība           = 160,6
+| iedzīvotāji       = 2517<ref>{{Tīmekļa atsauce |url=http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |title=Arhivēta kopija |access-date={{dat|2019|02|23||bez}} |archive-date={{dat|2016|10|20||bez}} |archive-url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf }} {{Webarchive|url=https://web.archive.org/web/20161020093133/http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf |date={{dat|2016|10|20||bez}} }}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 2517 / 160.6 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.ligatne.lv
+| nos_vācu          = Paltemal
+| ref_vācu          =
+| nos_krievu        = Пальтемальская
+| ref_krievu        =
+}}
+
+'''Līgatnes pagasts''' ir viena no [[Cēsu novads|Cēsu novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Līgatne]]s pilsētu, [[Amatas pagasts|Amatas]], [[Drabešu pagasts|Drabešu]], [[Nītaures pagasts|Nītaures]] un [[Straupes pagasts|Straupes]] pagastiem, kā arī [[Siguldas novads|Siguldas novada]] [[Mores pagasts|Mores]], [[Siguldas pagasts|Siguldas]] un [[Krimuldas pagasts|Krimuldas]] pagastiem.  
+
+== Daba ==
+=== Hidrogrāfija ===
+'''Upes:''' [[Amata]], [[Ratnieku upe|Egļupīte]], [[Gauja]], [[Kazupīte]], [[Kumada]], [[Liepene (upe)|Liepene]], [[Līgatne (upe)|Līgatne]], [[Skaļupe]], [[Suda]], [[Vildoga (upe)|Vildoga]], [[Zviedrupīte]].
+
+'''Ūdenstilpes:''' [[Asaru ezers (Līgatnes pagasts)|Asaru ezers]], [[Ratnieku ezers]], [[Zviedru ezers]]
+
+== Vēsture ==
+[[1815. gads|1815. gadā]] [[Rīga|Rīgas]] tirgoņi Konrāds Strohs un Kārlis Kībers savā īpašumā ieguva plašas teritorijas [[Līgatne (upe)|Līgatnes upes]] lejteces ielejā, ko nosauca par '''Konrādsrūi''' (''Conradsruhe''). Viņi arī ieguva Paltmales muižas [[dzirnavas]], tika pārbūvējot to uz papīra manufaktūru, kas no lupatām saražoja pirmos '''1050''' pudus jeb '''17 tonnas''' Līgatnes papīra. Tika ražoti tādi papīra izstrādājumi kā rakstāmpapīrs, dažāda veida ietinamais papīrs un vēstuļu papīrs. Tādi bija [[Papīrfabrika "Līgatne"|Līgatnes papīrfabrikas]] aizsākumi. 
+
+1890. gadā vietēja dzirnavnieka dēls [[Henrijs Visendorfs]]  nopirka saviem vecākiem Paltmales dzirnavas, paplašināja tās, pārvēršot par modernu uzņēmumu ar cementa ražotni un kokvilnas pārstrādes iecirkni, kur ražoja no Ēģiptes kokvilnas labāko vati Krievijas impērijā, iekārtoja ūdensturbīnu ar elektroģeneratoru laikā, kad pat Rīgā elektrību vēl nepazina. Visendorfs arī piedalījies Paltmales Saviesīgās biedrības nama pamatakmeņa likšanā, ziedojis tam lielāku summu<ref>{{Tīmekļa atsauce|url=http://www.ligatne.lv/cilveki|title=Cilvēki: H.Visendorfs|last=|first=|publisher=Līgatnes novada dome|website=www.ligatne.lv|access-date=2019-11-27|date=}}</ref>. 
+
+1913. gadā no Paltmales pagasta atdalīja  [[Ķempju pagasts|Ķempju pagastu]]. 
+Līgatnes pagasts (līdz 1925. gadam '''Paltmales pagasts''') veidojies bijušās Paltmales muižas īpašumos. 
+1933. gadā Līgatnes pagastam atkal pievienoja [[Ķempju pagasts|Ķempju pagastu]]. 
+1935. gadā Līgatnes pagasta platība bija 72,4 km². 
+
+1945. gadā pagastā izveidoja Līgatnes un [[Ķempju ciems|Ķempju]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 
+1949. gadā [[Līgatne|Līgatnes papīrfabrikas]] ciemam tika piešķirts [[pilsētciemats|strādnieku ciemata]] statuss un izdalīts atsevišķā teritorijā. 
+1951. gadā Līgatnes ciemam pievienoja daļu [[Lakšu ciems|Lakšu ciema]], 1954. gadā - Ķempji ciemu, 1958. gadā - daļu [[Siguldas ciems|Siguldas ciema]]. 
+1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 
+
+2009. gadā Līgatnes pagastu apvienoja ar Līgatnes pilsētu, izveidojot [[Līgatnes novads|Līgatnes novadu]]. 
+2021. gadā Līgatnes novadu iekļāva [[Cēsu novads|Cēsu novadā]].
+
+== Tūrisma objekti ==
+[[Vienkoču parks]], [[Līgatnes dabas takas]], bijušais slepenais pazemes vadības komplekss.
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP un OSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010/ OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|4800
+|1959|2650
+|1967|3140
+|1979|2692
+|1989|3041
+|2000|3043
+|2011|2542
+|2021|2229
+}}
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Augšlīgatne]] (pagasta centrs), [[Ķempji]], [[Skaļupes]], [[Ķopas]], [[Vildoga]], [[Vēveri (Līgatnes pagasts)|Vēveri]], [[Ratnieki (Līgatnes pagasts)|Ratnieki]], [[Lūsari]], [[Ramas]], [[Sinepes (ciems)|Sinepes]].
+
+=== Personības ===
+* [[Henrijs Visendorfs]] (1861-1916), latviešu uzņēmējs, izdevis "[[Latvju dainas]]"
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Cēsu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Līgatnes novads}}
+{{Cēsu rajons}}
+{{Rīgas apriņķis}}
+}}
+
+{{DEFAULTSORT:Ligatnes pagasts}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Cēsu novada pagasti]]
+[[Kategorija:Līgatnes pagasts| ]]

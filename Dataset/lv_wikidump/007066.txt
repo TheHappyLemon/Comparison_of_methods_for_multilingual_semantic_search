@@ -1,0 +1,22 @@
+{{Ezera infokaste
+|ezers=Kvanjas ezers
+|attēls=
+|map = Uganda
+| vieta        = {{UGA}}
+| plat_d=1 | plat_m=43 | plat_s= | plat_NS=N 
+| gar_d=32 | gar_m=42 | gar_s= | gar_EW=E
+|platība=540
+|garums=66
+|Vid_dziļums=
+|Max_dziļums=
+|tilpums=
+|augstums_vjl=1033
+|izteka=
+|baseins=
+|salas=
+|pilsētas=
+}}
+
+'''Kvanjas ezers''' ({{val-en|Lake Kwania}}) ir [[ezers]] [[Āfrika|Āfrikā]], [[Uganda|Ugandā]]. Bagāts ar zivīm. Tā kā ezers ir salīdzinoši dziļāks un tajā ir augstāki viļņi, nekā netālajā [[Kjogas ezers|Kjogas ezerā]], zvejnieki Kvanjas ezerā lieto dziļākas dēļu laivas pretstatā Kjogas ezerā lietotajām vienkocēm. Kopš nesenās līmeņa celšanās savienots ar Kjogas ezeru.
+
+[[Kategorija:Ugandas ezeri]]

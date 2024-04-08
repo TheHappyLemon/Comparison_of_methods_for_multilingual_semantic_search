@@ -1,0 +1,80 @@
+{{Apdzīvotas vietas infokaste
+  | name                     = Medana
+  | official_name            = ''Kota Medan''
+  | settlement_type          = pilsēta
+  | other_name               = 
+  | nickname                 = 
+  | motto                    = 
+  | image_skyline            = {{Photomontage
+| photo1a                   = Medan city 2019.jpg{{!}}Central business district
+| photo2a                   = Great Mosque Medan Indonesia.JPG{{!}}Great Mosque of Medan
+| photo2b                   = Sun Plaza Medan (Medium).jpg{{!}}Sun Plaza
+| photo3a                   = Maimun Palace Medan Indonesia.jpg{{!}}Maimun Palace
+| photo3b                   = Graha Maria Annai Velangkanni Medan.jpg{{!}}Graha Maria Annai Velangkanni
+| photo4a                   = Kantor Gubernur Sumatera Utara 01.jpg{{!}}North Sumatra's governor office
+| photo4b                   = Medan City Railway Station.jpg{{!}}Medan railway station
+| spacing                   = 1
+| color_border              = black
+| color                     = black
+| size                      = 270
+}}
+  | imagesize                = 
+  | image_caption            = 
+  | image_flag               = 
+  | image_seal               = Logo Kota Medan (Seal of Medan).svg
+  | pushpin_map              = Indonēzija#Sumatra
+  | pushpin_label_position   = 
+  | latd  =  3 | latm  =  35 | lats  =   | latNS  = N
+  | longd = 98  | longm = 40  | longs =   | longEW = E
+  | subdivision_type         = [[Suverēno valstu uzskaitījums|Valsts]]
+  | subdivision_name         = '''{{karogs|Indonēzija}}'''
+  | subdivision_type1        = Province
+  | subdivision_name1        = [[Ziemeļsumatra]]
+  | subdivision_type2        = 
+  | subdivision_name2        = 
+  | subdivision_type3        = 
+  | subdivision_name3        = 
+  | area_total_km2           = 265.10
+  | area_land_km2            = 
+  | area_water_km2           = 
+  | elevation_m              = 5
+  | population_footnotes     = 
+  | population_total         = 2435252
+  | population_metro         = 4744323
+  | population_as_of         = 2020
+  | population_rank          = 
+  | population_density_km2   = auto
+  | timezone                 = 
+  | utc_offset               = 
+  | timezone_DST             = 
+  | utc_offset_DST           = 
+  | area_code                = 
+  | website                  = {{url|https://pemkomedan.go.id/}}
+  | footnotes                = 
+}}
+'''Medana''' ({{val|id|Kota Medan}}) ir pilsēta [[Indonēzija]]s rietumos, [[Ziemeļsumatra]]s provinces galvaspilsēta. Atrodas [[Sumatra]]s salas ziemeļrietumos. Tā ir Sumatras lielākā pilsēta un trešā lielākā Indonēzijas pilsēta (aiz [[Džakarta]]s un [[Surabaja]]s).
+
+Pilsētā ir jaukts iedzīvotāju etniskais satāvs. Medanas pamatiedzīvotāji ir [[bataki]], pastāv ievērojama [[javieši|javiešu]] kopiena, kā arī diezgan liela [[tamili|tamilu]] kopiena. Uzņēmējdarbība pārsvarā ir [[ķīnieši|ķīniešu]] rokās.
+
+Medanas centrā saglabājusies koloniālā laika [[Nīderlande|nīderlandiešu]] arhitektūra. Pilsētas ielās ir ievērojams skaits moto un velo [[rikša|rikšu]].
+
+== Vēsture ==
+Līdz pat deviņpadsmitā gadsimta vidum Medana attīstījās lēni. XIX gadsimta 60. gados [[Nīderlande|nīderlandiešu]] kolonisti, kas Medanas apkārtni pārvaldīja jau kopš 1658. gada, ierīkoja [[tabaka]]s plantācijas. Medanas attīstība paātrinājās, un tā īsā laikā kļuva par Ziemeļsumatras galveno centru, kas sāka valdīt pār attīstību Indonēzijas rietumdaļā.
+
+Pilsētas tiesības Medana ieguva 1918. gadā.
+
+== Ģeogrāfija ==
+Medanas pilsētas platība ir 26 510 hektāri (265,10 km²) jeb 3,6% no kopējās [[Ziemeļsumatra]]s teritorijas. Tādējādi, salīdzinot ar citām pilsētām / reģioniem, Medanā ir salīdzinoši maza teritorija ar samērā lielu iedzīvotāju skaitu. Ģeogrāfiski Medanas pilsēta atrodas 3° 30' - 3° 43' ziemeļu platuma un 98° 35' - 98° 44' austrumu garuma. Šī iemesla dēļ Medanas pilsētas topogrāfijai ir tendence slīpties uz ziemeļiem un tā atrodas 2,5 - 37,5 metru augstumā virs jūras līmeņa.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Indonēzijas pilsētas]]
+[[Kategorija:Ziemeļsumatra]]

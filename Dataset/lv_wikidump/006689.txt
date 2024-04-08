@@ -1,0 +1,61 @@
+{{Rakstnieka infokaste
+|        platums = 
+|          vārds = Valters Skots
+|     vārds_orig = ''Walter Scott''
+|         attēls = Sir Henry Raeburn - Portrait of Sir Walter Scott.jpg
+|     att_izmērs = 
+|  att_nosaukums = 
+|     dz_dat_alt =
+|        dz_gads = 1771
+|     dz_mēnesis = 8
+|       dz_diena = 15
+|       dz_vieta = [[Edinburga]], [[Skotija]], {{GBR}}
+|      m_dat_alt =
+|         m_gads = 1832
+|      m_mēnesis = 7
+|        m_diena = 15
+|        m_vieta = [[Ebotsforda]], [[Skotija]], {{GBR}}
+|   dzīves_vieta = 
+|      pilsonība = 
+|        tautība = 
+|        dzimums = V
+|         vecāki = 
+|          brāļi =
+|          māsas =
+|   dzīvesbiedrs = 
+|          bērni =
+|       paraksts = Sir Walter Scott Signature.svg
+|     pseidonīms =
+|   nodarbošanās = rakstnieks, dzejnieks, advokāts
+|rakstīšanas valoda = [[angļu valoda]]
+|        periods =1796 - 1832
+|          žanri = 
+|         temati =
+|   lit virzieni = [[romantisms]]
+|slavenākie darbi = romāns "Aivenho" (''Ivanhoe'', 1820)
+|    ietekmējies = 
+|     ietekmējis = 
+|     alma_mater = [[Edinburgas Universitāte]]
+|    apbalvojumi =
+|       piezīmes = 
+|    kategorijas =    
+}}
+
+'''Valters Skots''' ({{val-en|Walter Scott}}, dzimis {{dat|1771|8|15}}, miris {{dat|1832|9|21}}) bija nozīmīgs [[skoti|skotu]] [[romantisms|romantisma]] rakstnieks. Valters Skots ir viens no vēsturiskā romāna aizsācējiem. Viņa pazīstamākie darbi ir romāni "Aivenho", "Robs Rojs", "Kventins Dorvards", poēma "Ezera jaunava" u.c. Viņš ir bijis advokāts un, braukādams pa senām [[Skotija]]s vietām, vācis senus nostāstus un leģendas.
+
+Dzīves laikā un arī pēc nāves 19.gs. Skots bijis ļoti populārs rakstnieks, jo īpaši [[Lielbritānija|Lielbritānijā]] un citur [[Eiropa|Eiropā]], kā arī [[Ziemeļamerika|Ziemeļamerikā]] un [[Austrālija|Austrālijā]], bet 20.gs. viņa popularitāte pasaulē stipri mazinājās. Tomēr daudzi viņa darbi [[angļu valoda|angļu valodā]] rakstītajā literatūrā joprojām tiek atzīti par klasiskiem.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{rakstnieks-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Skots, Valters}}
+[[Kategorija:Skotu rakstnieki]]
+[[Kategorija:Angļu valodā rakstošie]]
+[[Kategorija:1771. gadā dzimušie]]
+[[Kategorija:1832. gadā mirušie]]
+[[Kategorija:Edinburgā dzimušie]]

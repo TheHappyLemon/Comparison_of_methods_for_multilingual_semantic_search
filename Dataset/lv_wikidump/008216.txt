@@ -1,0 +1,35 @@
+{{ezera infokaste
+|ezers=Natrona ezers
+|attēls=NatronSouthSide.jpg
+|paraksts=Natrona ezera dienviddaļa
+| map = Tanzānija
+| plat_d=2 | plat_m=25 | plat_s=0 | plat_NS=S
+| gar_d=36 | gar_m=0 | gar_s=0 | gar_EW=E
+|vieta={{TZA}}
+|platība=600—1040
+|garums=64
+|Vid_dziļums=
+|Max_dziļums=3
+|tilpums=0,35
+|augstums_vjl=600
+|izteka=beznoteces
+|baseins=932
+|valstis=[[Kenija]], [[Tanzānija]]
+|salas=
+|pilsētas=
+}}
+'''Natrona ezers''' ({{val|sw|Ziwa Natron}}, {{val|en|Lake Natron}}) ir [[sālsezers]] [[Tanzānija]]s ziemeļos pie robežas ar [[Kenija|Keniju]], Āfrikas [[Lielā Rifta ieleja|Lielajā Rifta ielejā]].
+
+Ezera ūdenim raksturīga sarkanbrūna krāsa — sausajā periodā, izsīkstot ūdenim, palielinās sāls saturs un ūdenī savairojas mikroorganismi, kam šādi apstākļi patīk. Ezerā vietām peld sārmainu sāļu gabali, kuri arī iekrāsoti sarkanbrūnā krāsā. Gultnē un krastos [[karstais avots|karstie avoti]]. Krastos viens aktīvs vulkāns — [[Oldoiņo Legai]]. Ezera dubļu temperatūra karstajā saulē sasniedz {{nobr|50&nbsp;°C}}, sārmainums sasniedz 9—10,5 pH — tikpat sārmains, kā koncentrēts [[amonjaks]]. Šāds ūdens taustot šķiet viskozs.
+
+Ezers ir barošanās vieta aptuveni 2,5 miljoniem [[flamings|flamingo]]. Flamingo ligzdas ezerā ir drošībā, jo sārmainā ūdens dēļ plēsēji tām nevar piekļūt. Sārmainajā ūdenī, pie karsto avotu izplūdes vietām {{nobr|36—40&nbsp;°C}} karstā ūdenī dzīvo īpaša zivju suga ''Oreochromis alcalica''.
+
+Unikālo ezera ekosistēmu apdraud plāni izmainīt tā hidroloģisko balansu, izcērtot mežus tā baseinā un ierīkojot [[hidroelektrostacija|hidroelektrostaciju]] uz ezera pietekas.
+
+== Ārējās saites ==
+{{commonscat-inline|Lake Natron|Natrona ezers}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Tanzānijas ezeri]]
+[[Kategorija:Sālsezeri]]

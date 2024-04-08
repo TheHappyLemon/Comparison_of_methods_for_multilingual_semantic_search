@@ -1,0 +1,49 @@
+{{Infokaste futbolists
+| playername     = Germans Māliņš
+| image          = [[Attēls:Germans Malins.jpg|250px]]
+| dateofbirth    = {{dzimšanas datums un vecums|1987|10|12}}
+| countryofbirth = {{vieta|PSRS|Latvijas PSR|Rīga|td=Latvija}}
+| height         = 187
+| position       = [[Vārtsargs (futbols)|Vārtsargs]]
+| currentclub    = {{flaga|Latvija}} [[Riga FC]]
+| clubnumber     = 1
+| youthyears1    = 
+| youthclubs1    = {{flaga|Latvija}} [[Skonto FC]]
+| years1         = 2007–2012 | clubs1 = {{flaga|Latvija}} [[Skonto FC]]           | caps1 = 83 | goals1 = 1
+| years2         = 2007      | clubs2 = {{flaga|Latvija}} {{īre}} [[JFK Olimps]]  | caps2 = 27 | goals2 = 0
+| years3         = 2013–2014 | clubs3 = {{flaga|Baltkrievija}} [[Barisavas BATE]] | caps3 = 4  | goals3 = 0
+| years4         = 2015      | clubs4 = {{flaga|Latvija}} [[Skonto FC]]           | caps4 = 7  | goals4 = 0
+| years5         = 2016–2017     | clubs5 = {{flaga|Latvija}} [[FK RFS|RFS]]          | caps5 = 39 | goals5 = 0
+| years6         = 2018–     |clubs6 = {{flaga|Latvija}} [[Riga FC]]                    |caps6 = 4          |goals6 = 0
+| nationalyears1 =  | nationalteam1  =  | nationalcaps1  =  | nationalgoals1 = 
+| ntupdate       = 
+| pcupdate       = {{dat|2018|05|18|SK|bez}}
+}}
+'''Germans Māliņš''' (dzimis {{dat|1987|10|12}}  [[Rīga|Rīgā]]) ir [[Latvija]]s [[futbolists]], spēlē [[Vārtsargs (futbols)|vārtsarga]] pozīcijā. Pašlaik (2018) pārstāv [[Latvijas futbola Virslīga|Latvijas Virslīgas]] klubu  [[Riga FC]].
+
+Savu karjeru viņš uzsāka [[JFK Olimps]] vienībā, kur 2007. gada sezonā bija pamatvārtsargs. 2008. gada sezonā viņš atgriezās [[Skonto FC]] sastāvā un aizvadīja 10 spēles Virslīgā. 2009. gada sezonu viņš sāka kā komandas pamatvārtsargs, līdz klubā ieradās [[Aleksandrs Vlasovs]] no [[SK Blāzma]]. Arī 2010. gada Virslīgas sezonā viņam tika atvēlēta rezerves vārtsarga vieta aiz [[Kaspars Ikstens|Kaspara Ikstena]].
+
+{{dat|2011|8|13||bez}} Māliņš guva vārtus 94. minūtē pēc [[stūra sitiens|stūra sitiena]] un panāca neizšķirtu.<ref>{{Tīmekļa atsauce |url= http://www.lff.lv/lv/news/2011/augusts/50/|title= Virslīga: Māliņš izrauj punktu, FC Daugava līderpozīcijas|accessdate=2013-06-07 |work= |publisher= [[Latvijas Futbola federācija]]|date= {{dat|2011|8|13|L|bez}}}}</ref>
+
+[[2013]]. gada martā Māliņš pievienojās [[Barisavas BATE|Barisavas "BATE"]].<ref>{{Tīmekļa atsauce |url= http://www.lff.lv/lv/news/2013/marts/28/|title= G. Māliņš karjeru turpinās Baltkrievijas klubā „BATE”|accessdate=2013-06-07 |work= |publisher= [[Latvijas Futbola federācija]]|date= }}</ref>
+
+== Sasniegumi ==
+* [[Latvijas futbola Virslīga|Latvijas čempions]] — 1 ([[Latvijas futbola Virslīga 2010|2010]])
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{Latvijas futbolists-aizmetnis}}
+
+{{DEFAULTSORT:Māliņš, Germans}}
+[[Kategorija:1987. gadā dzimušie]]
+[[Kategorija:Latvijas futbola vārtsargi]]
+[[Kategorija:Skonto FC spēlētāji]]
+[[Kategorija:FK RFS spēlētāji]]
+[[Kategorija:Riga FC spēlētāji]]
+[[Kategorija:FK Jelgava spēlētāji]]
+[[Kategorija:Rīgā dzimušie]]
+[[Kategorija:Barisavas BATE spēlētāji]]

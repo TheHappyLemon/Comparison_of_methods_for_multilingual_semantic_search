@@ -1,0 +1,40 @@
+{{Ezera infokaste
+| ezers        = Burgasas ezers
+| attēls       = Neftochim-vaya-dinev.jpg
+| paraksts     = Burgasas ezers un ''Neftochim'' naftas pārstrādes uzņēmums
+| vieta        = {{BUL}}
+| vieta2       = [[Burgasas apgabals]]
+| map = Bulgārija
+| plat_d=42 | plat_m=30 | plat_s= | plat_NS=N 
+| gar_d=27 | gar_m=24 | gar_s= | gar_EW=E
+| platība      = 27,6
+| garums       = 9,6
+| platums        <!-- tikai skatli; km -->
+| Vid_dziļums  = <!-- tikai skatli -->
+| Max_dziļums  = 1,3
+| tilpums      = <!-- tikai skatli; kubikkilometros -->
+| tilpums_m3   = <!-- tikai skatli; kubikmetros -->
+| augstums_vjl = <!-- tikai skatli -->
+| izteka       = <!-- iztekošās upes nosaukums: [[Engure (upe)|Engure]] -->
+| baseins      = <!-- platība km²; tikai skatli -->
+| lielbaseins  = <!-- lielbaseina upes nosaukumu ģenitīvā: [[Daugava]]s -->
+| valstis      = <!-- ja vairākas, caur "<br />" -->
+| salas        = <!-- ja vairākas, caur "<br />" -->
+| pilsētas     = [[Burgasa]]
+}}
+'''Burgasas ezers''' ({{val-bg|Бургаско езеро}} vai ''езеро Вая'') ir lielākais [[ezers]] [[Bulgārija|Bulgārijā]]. Atrodas netālu no [[Melnā jūra|Melnās jūras]] krasta pie [[Burgasa]]s pilsētas.
+
+No jūras atdala smilšu [[bārs (ģeoloģija)|bārs]]. Uzskatāms par [[sālsezers|sālsezeru]], taču sāls saturs nav īpaši augsts - 4 - 11‰. Ezerā ap 23 zivju sugas, apkaimē novērotas 254 putnu sugas. Ap ezeru niedru josla. Rietumu daļā dabas aizsargājamā teritorija.
+
+Agrāk ezers bija zvejai produktīvākais ezers Bulgārijā, taču kopš ''Neftochim'' naftas pārstrādes uzņēmuma uzcelšanas pilsētas tuvumā tika piesārņots. Pēdējos gados vides situācija uzlabojas un ezerā atkal pieaug bioloģiskās daudzveidības līmenis.{{jaunarinda}}
+
+== Atsauces ==
+* Michev Nikolay, Tsvetko Mihaylov, Ivan Vaptsarov, Svetlin Kiradzhiev, 1980. Geographical dictionary of Bulgaria, Nauka i izkustvo, Sofia
+
+==Ārējās saites==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+[[Kategorija:Bulgārijas ezeri]]
+[[Kategorija:Sālsezeri]]
+[[Kategorija:Burgasas apgabals]]

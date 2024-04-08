@@ -1,0 +1,84 @@
+'''Kvants''' (no {{val|la|quantum}} — ‘daudzums’) ir mazākā [[enerģija]], ko var atdot vai pieņemt [[fizikāla sistēma]]. Kvanta jēdziens raksturo atziņu, ka [[matērija]] ir [[diskrēta]] un eksistē kāds mazākais iespējamais [[enerģija]]s daudzums, kā mijiedarbojas fizikālas sistēmas. [[elektromagnētiskie viļņi|Elektromagnētisko viļņu]] kvants ir [[fotons]]. Kvanta jēdzienu pirmais izvirzīja [[vācieši|vācu]] fiziķis [[Makss Planks]] 1900. gadā.
+
+== Saistīti jēdzieni ==
+1. [[Atomi]] un [[molekula]]s gaismas viļņa enerģiju izstaro pa porcijām — '''kvantiem'''. [[Kvanta enerģija]] ir proporcionāla starojuma [[frekvence]]i.
+
+2. '''[[Ārējais fotoefekts]]''' ir elektronu emisija no metāla vai tā savienojumu virsmas, ko izraisa gaismas kvanti.
+
+3. Katram materiālam eksistē maksimālais viļņa garums <math>\lambda_{max}\!</math>, kad vēl notiek fotoefekts. Šo maksimālo viļņa garumu (vai
+tam atbilstošo frekvenci) sauc par '''[[fotoefekta sarkanā robeža|fotoefekta sarkano robežu]]'''.
+{{clear}}
+{| style="float:right;margin:1em;" class="wikitable"
+|+ Dažu metālu izejdarba lielums<ref>[http://fizika.50webs.com/Fizika%2012%20klasei%20-%20Lielvards/Fizika%2012%20klasei%206%20nodala%20-%20Lielvards/target8.html Fizika 12. klasei, Lielvārds, 6. Nodaļa, Gaismas kvanti, 163. lpp] {{Webarchive|url=https://web.archive.org/web/20091231023324/http://fizika.50webs.com/Fizika%2012%20klasei%20-%20Lielvards/Fizika%2012%20klasei%206%20nodala%20-%20Lielvards/target8.html |date=2009-12-31 }}</ref>
+|-  class="evenRow"
+!  align="left" | Metāls
+!  align="right" | Izejdarbs, [[eV]]
+|-  class="oddRow"
+|  align="left" | [[Cēzijs]] (Cs)
+|  align="center" | 1,40
+|-  class="evenRow"
+|  align="left" | [[Kālijs]] (K)
+|  align="center" | 2,20
+|-  class="oddRow"
+|  align="left" | [[Nātrijs]] (Na)
+|  align="center" | 2,28
+|-  class="evenRow"
+|  align="left" | [[Alumīnijs]] (Al)
+|  align="center" | 4,08
+|-  class="oddRow"
+|  align="left" | [[Cinks]] (Zn)
+|  align="center" | 4,31
+|-  class="evenRow"
+|  align="left" | [[Dzelzs]] (Fe)
+|  align="center" | 4,50
+|-  class="oddRow"
+|  align="left" | [[Sudrabs]] (Ag)
+|  align="center" | 4,73
+|-  class="evenRow"
+|  align="left" | [[Platīns]] (Pt)
+|  align="center" | 6,35
+|}
+4. '''Einšteina vienādojums fotoefektam''' <math>h\nu = A + \frac{mv^2} {2}</math>, kur <math>h\nu\!</math> — kvanta enerģija, <math>A\!</math> — [[izejdarbs]], <math>\frac {mv^2} {2}\!</math> — elektrona kinētiskā enerģija. [[Izejdarbs|Izejas darbs]] ir katram elementam nemainīgs, lielums, tā ir nepieciešamā enerģija, lai elektroni spētu pārvarēt kodolu pozitīvo lādiņu un tikt ārā no kristālrežģa, [[Litijs|Litijam]], piemēram, tas ir A = 2,3 eV.
+
+5. Gaismas kvantiem piemīt [[impulss]], kas izraisa [[gaismas spiediens|starojuma spiedienu]] uz virsmu, uz kuru krīt gaisma.
+
+6. Procesus, kuros atoma elektrons saņem vai atdod enerģijas porciju, sauc par '''kvantu pārejām'''.
+
+7. Elektronam atomā piemīt tikai diskrētas enerģijas vērtības. Kvantu pārejas atomā notiek starp atoma elektrona '''enerģijas
+līmeņiem'''.
+
+8. '''Spontāna starojuma''' kvanti rodas nejaušās kvantu pārejās, ko nosaka ierosināto enerģijas līmeņu ierobežotais dzīves laiks.
+
+9. '''Inducētā starojuma''' kvantu izstarošanu stimulē uz atomu krītošās tādas pat frekvences un polarizācijas gaismas kvanti.
+
+10. Atoma elektronu atbrīvojot no elektronu apvalka, notiek '''atoma jonizācija'''. Nepieciešamo enerģiju, kas vajadzīga, lai to izdarītu, sauc par '''jonizācijas enerģiju'''.
+
+11. Inducētā starojuma ģeneratorus sauc par '''[[lāzeri]]em'''.
+
+12. Sakarsēta ķermeņu starojumu, kas notiek uz ķermeņa iekšējās enerģijas rēķina, sauc par '''siltumstarojumu'''. Siltumstarojuma jaudas blīvums ir atkarīgs no ķermeņa virsmas temperatūras ceturtās pakāpes.
+
+13. Siltumstarojuma spektrs ir nepārtraukts un tajā ir visu enerģiju starojuma kvanti, kuru sadalījumu pa viļņa garumiem vai frekvencēm nosaka spektrālā sadalījuma (Planka) līknes.
+
+14. Starojumu, ko izraisa citi, ar ķermeņa temperatūru nesaistīti apstākļi (piemēram, spīdēšana pēc apgaismošanas), sauc par '''luminiscenci'''.
+
+15. Nepārtrauktā spektra [[rentgenstarojums]] rodas ātriem elektroniem bremzējoties vielā (rentgenlampas antikatoda lampā).<ref>[http://fizika.50webs.com/Fizika%2012%20klasei%20-%20Lielvards/Fizika%2012%20klasei%206%20nodala%20-%20Lielvards/target26.html Fizika 12. klasei, Lielvārds, 6. nodaļa, kopsavilkums] {{Webarchive|url=https://web.archive.org/web/20091231023319/http://fizika.50webs.com/Fizika%2012%20klasei%20-%20Lielvards/Fizika%2012%20klasei%206%20nodala%20-%20Lielvards/target26.html |date=2009-12-31 }}</ref>
+
+== Kvanta enerģija ==
+Enerģijas kvanta vērtība (kvanta enerģija) ir proporcionāla starojuma frekvencei <math>\nu\!</math> (apgriezti proporcionāla viļņa garumam <math>\lambda\!</math>):
+
+<math>E = h\nu =h \frac{c}{\lambda}</math>,
+
+kur <math>c</math> ir [[gaismas ātrums]] vakuumā, <math>h=6,62606876(52) \times 10^{-34}\ \mbox{J}\cdot\mbox{s}</math> ir [[Planka konstante]] un <math>E</math> ir kvanta enerģija. Pēc formulas var izskaitļot enerģijas kvanta vērtību jebkura viļņa garuma starojumam.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{fizika-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kvantu mehānika]]

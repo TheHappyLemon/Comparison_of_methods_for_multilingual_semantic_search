@@ -1,0 +1,89 @@
+{{Latvijas novada infokaste
+| nosaukums         = Bēnes pagasts
+| karte             = Bēnes pagasts LocMap.png
+| karte2            = Bēnes pagasts.png
+| ģerboņa_attēls    = Bēnes pagasta ģerbonis.svg
+| ģerboņa_nosaukums = Bēnes pagasta ģerbonis
+| ģerboņa_platums   = 75px
+| karoga_attēls     = Bēnes pagasta karogs.svg
+| karoga_nosaukums  = Bēnes pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Bēne
+| platība           = 88,9
+| iedzīvotāji       = 2000<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 2000 / 88.9 round 1}}
+| izveidots         = 
+| mājaslapa         =
+| nos_vācu          = Behnen
+| ref_vācu          =
+| nos_krievu        = Бененская
+| ref_krievu        =
+}}
+
+'''Bēnes pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām. Robežojas ar [[Vecauces pagasts|Vecauces]], [[Bukaišu pagasts|Bukaišu]], [[Naudītes pagasts|Naudītes]], [[Penkules pagasts|Penkules]], [[Ukru pagasts|Ukru]] un [[Vītiņu pagasts|Vītiņu]] pagastu. Pagasta centrs atrodas [[Bēne|Bēnē]].
+
+== Daba ==
+=== Reljefa formas ===
+[[Garais kalns]], [[Kukuru kalns]], [[Mazaru kalns]]
+
+=== Hidrogrāfija ===
+==== Ūdensteces ====
+[[Auce (upe)|Auce]], [[Govainis]], [[Rīgava]], [[Skujaine (upe)|Skujaine]], [[Svētaine]].
+
+==== Ūdenstilpes ====
+[[Bēnes dzirnavezers]], [[Krūtaiņu ezers]]
+
+==== Purvi ====
+[[Zape]]
+
+=== Dabas aizsardzība ===
+Pagasta teritorijā atrodas [[dabas liegums]] [[Garākalna smilšu krupja atradne]]. Valsts aizsardzībā atrodas [[Bēnes aleja]].
+
+== Vēsture ==
+Vēsturiski mūsdienu Bēnes pagasta teritorijā atradās Bēnes muiža (''Behnen'', [[Bēne]]), Krūškalna muiža (''Kruschkaln'', [[Krūškalne]]).
+
+1935. gadā Bēnes pagasta platība bija 62 km² un tajā dzīvoja 1681 iedzīvotājs.<ref>{{Enciklopēdija Latvijas pagasti}}</ref> 1945. gadā pagastā izveidoja Bēnes un [[Krūškalnes ciems|Krūškalnes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1951. gadā '''Bēnes ciemam''' pievienoja Krūškalnes ciemu, bet 1954. gadā [[Sniķeres ciems|Sniķeres ciemu]]. 1958. gadā [[Bēne]]i piešķīra [[strādnieku ciemats|strādnieku ciemata]] statusu un Bēnes ciemu pakļāva tam, pārveidojot par '''Bēnes lauku teritoriju'''. Tajā pat 1958. gadā Bēnes lauku teritorijas kolhoza «Zelmenis» teritoriju pievienoja [[Ukru ciems|Ukru ciemam]]. 1965. gadā Bēnes lauku teritorijai pievienoja [[Auces lauku teritorija]]s [[padomju saimniecība]]s «Mežmaļi» teritoriju, 1977. gadā — daļu Ukru ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā Bēne zaudēja pilsētciemata statusu un tika atjaunots '''Bēnes pagasts'''. 2009. gadā pagastu kā administratīvo teritoriju pievienoja [[Auces novads|Auces novadam]]. 2021. gada administratīvi teritoriālās reformas rezultātā [[Auces novads]] tika pievienots [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+* [[Bēnes dzirnavas]]
+* [[Bēnes muiža]]s apbūve
+* Baukaišu senkapi
+* Ceriņu senkapi
+* Kaijukroga senkapi
+* Liekņu senkapi
+* Ritumu apmetne<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=Auces+novads%2C+B%C4%93nes+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Apdzīvotās vietas: [[Bēne]], [[Krūškalne]], [[Vecmiķeļi]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20150119024421/http://www.bene.lv/index.php?id=2524 Auces novada mājaslapa. Bēnes pagasts]
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Auces novads}}
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Benes pagasts}}
+[[Kategorija:Tukuma apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Bēnes pagasts| ]]
+[[Kategorija:Latvijas pilsētciematu lauku teritorijas]]

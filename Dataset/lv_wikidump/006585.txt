@@ -1,0 +1,98 @@
+{{Latvijas novada infokaste
+| nosaukums         = Bukaišu pagasts
+| karte             = Bukaišu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Bukaiši
+| platība           = 66,7
+| iedzīvotāji       = 713<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 713 / 66.7 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Bukaišu pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām [[Lietuva]]s pierobežā. Robežojas ar sava novada [[Tērvetes pagasts|Tērvetes]], [[Augstkalnes pagasts|Augstkalnes]], [[Penkules pagasts|Penkules pagastu]], [[Bēnes pagasts|Bēnes]] un [[Ukru pagasts|Ukru]] pagastiem.
+
+== Daba ==
+===Reljefa formas===
+[[Velēnu kalns]], [[Zeltiņu dīķis]].
+
+===Hidrogāfija===
+====Ūdensteces====
+[[Cērpaine]], [[Krievaine]], [[Reņģe (upe)|Reņģe]], [[Skujaine (upe)|Skujaine]], [[Svēpaine]], [[Svētaine]], [[Tērvete (upe)|Tērvete]].
+
+====Ūdenstilpes====
+[[Velēnu dīķis]].
+
+===Dabas aizsardzība===
+Pagasta teritorijā atrodas daļa no [[dabas liegums|dabas liegumiem]] [[Skujaines un Svētaines ieleja]] un [[Ukru gārša]]. Valsts aizsardzībā atrodas [[Bukaišu aleja]].
+
+== Vēsture ==
+[[Attēls:Bukaišu muižas kungu māja pirms 1905.jpg|thumb|250px|left|Bukaišu muižas kungu māja pirms nodedzināšanas 1905. gadā.]]
+
+Mūsdienu Bukaišu pagasta teritorijā vēsturiski atradās Bukaišu muiža (''Fockenhof'', [[Bukaiši]]), Medes muiža (''Medden'', [[Medne]]).
+
+Pirmo reizi [[vēstures avoti|vēstures avotos]] [[Bukaiši]] minēti 1605. gadā. Pēc [[Kurzemes un Zemgales hercogiste]]s inkorporācijas [[Krievijas impērija]]s sastāvā 1795. gadā ķeizariene [[Katrīna II]] [[Bukaišu muiža|Bukaišu]] un [[Augstkalne (Augstkalnes pagasts)|Mežmuižas]] [[muiža]]s ar pieguļošajām zemēm atdāvināja [[Oto Hermanis fon der Hovens|Oto fon der Hovenam]]. 19. gs. sākumā Bukaiši nonāca [[firsts|firstu]] [[Līveni|Līvenu]] īpašumā, kuri izbūvēja plašu muižas centru ar dīķiem un apstādījumiem. Tika uzcelta lepna muižas pils, kuru [[1905. gada revolūcija Latvijā|1905. gada nemieru]] laikā nodedzināja. Ķieģeļus no firsta pils drupām apkārtējie zemnieki vēlāk izmantoja savu māju celtniecībai. Reizē ar pils celtniecību tika iežogota teritorija meža zvēru audzēšanai, to nosauca par Iršu dārzu. Blakus tam tika celta medību pils - "Mežvidi", kura saglabājusies līdz mūsdienām. Firsta izveidotās trīs pusmuižas ar laiku pārauga par ciemiem — [[Kārklumuiža (Bukaišu pagasts)|Kārklumuižu]], [[Rociņas|Rociņām]] un [[Medne|Medni]].
+
+Pēc [[1920. gada zemes reforma]]s Buikaišu muižu (''Fockenhof'') sadalīja 147 vienībās 2516 ha kopplatībā (11 no tām bija rentes mājas), Mednes muižu (''Medden'') 29 vienībās 512 ha kopplatībā.<ref>{{LKV|II.|3223}}</ref>
+
+1935. gadā pagasta platība bija 98,2&nbsp;km². 1945. gadā pagastā izveidoja Bukaišu un [[Skuju ciems|Skuju]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. 1949. gada pavasarī Bukaišu un Skuju ciemos izveidoja 6 [[kolhozs|kolhozus]], kas laika gaitā saplūda vienā kopsaimniecībā, kuru nosauca [[Suvorovs|Suvorova]] vārdā (1961. gada 5.martā). 1954. gadā Bukaišu ciemam pievienoja Skuju ciemu. 1958. gadā daļu Bukaišu ciema pievienoja [[Ukru ciems|Ukru]] ciemam, bet 1977. gadā daļu Ukru ciema pievienoja Bukaišu ciemam. 1990. gadā ciemu reorganizēja par pagastu.<ref>{{EncLP}}</ref> 2002. gadā Bukaišu, Augstkalnes un Tērvetes pagasti apvienojās [[Tērvetes novads|Tērvetes novadā]].<ref>{{Tīmekļa atsauce |url=http://www.tervetesnov.lv/pagasti.htm |title=Tērvetes novada vēsture |access-date={{dat|2009|11|29||bez}} |archiveurl=https://web.archive.org/web/20081023110538/http://www.tervetesnov.lv./pagasti.htm |archivedate={{dat|2008|10|23||bez}} }}</ref>
+2021. gadā Tērvetes novadu iekļāva [[Dobeles novads|Dobeles novadā]].
+
+===Kultūras pieminekļi===
+*Atvašu senkapi
+*Bukaišu senkapi
+*Kvietu senkapi
+*Lielogļu senkapi
+*Strīkaišu senkapi
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas: [[Bukaiši]] (pagasta centrs), [[Bukaišu skola]], [[Rociņas]], [[Kārklumuiža (Bukaišu pagasts)|Kārklumuiža]], [[Medne]].
+
+=== Ievērojamas personības === 
+* [[Oto Hermanis fon der Hovens]] (1740—1806), [[Kurzemes un Zemgales hercogiste]]s politiķis, bruņniecības sekretārs.
+* [[Frīdrihs Friče]], ārsts un publicists, 1736. gadā nodibināja Bukaišu [[doktorāts|doktorātu]].
+* [[Kārlis Bursi]] (1791—1870), ārsts, komponists un dzejnieks, vācu komponista [[Bēthovens|Ludviga van Bēthovena]] draugs.
+* [[Kristaps Morbergs]] (1844—1928), [[arhitekts]], [[būvinženieris]] un [[mecenāts]]. Dzimis Bukaišu pagasta "Lielstrikaišu" mājās.
+* [[Jānis Roberts Vāgners]] (1861—1890), bakteriologs, dzimis pagasta "Druķos" muižas [[vagars|vagara]] ģimenē.
+* [[Roberts Sēlis]] (1884—1973), rakstnieks, dzimis "Mašmelēs".
+* [[Alfrēds Ieviņš]] (1897—1975), ķīmiķis, [[Latvijas Universitāte|LU]] profesors, [[Latvijas PSR|LPSR]] [[Zinātņu Akadēmija|ZA]] Neorganiskās ķīmijas institūta direktors. Dzimis "Ievulaišu" mājās. Viens no 1944. gada 17. marta [[Latvijas Centrālās padomes memorands|Latvijas Centrālās padomes memoranda]] parakstītājiem.
+* [[Pauls Dermanis]] (1898—19??), agronoms un pedagogs, [[Latvijas Universitāte]]s [[profesors]]. Dzimis "Ķīšu" mājās.
+* [[Herberts Cukurs]] (1900—1965), lidotājs, konstruktors un žurnālists. Pēc lidojuma uz [[Gambija|Gambiju]] (1933.gadā) 1935. gadā saņēma kā balvu Bukaišu pagasta "Lidoņus".
+* [[Ernests Rirdāns]] (1901—1954), latviešu karikatūrists. Dzimis Bukaišu pagastā.
+* [[Žanis Butkus]] (1906—1999), kapteinis, militārs darbinieks, [[Latviešu leģions|Latviešu leģiona]] virsnieks, apbalvots ar [[Dzelzs krusta Bruņinieka krusts|Dzelzs krusta Bruņinieka krustu]]. Dzimis [[Augstkalne (Augstkalnes pagasts)|Mežmuižā]].
+* [[Vilis Dermanis]] (1875—1938), latviešu skolotājs, žurnālists, literatūrkritiķis un politiķis. Bijis Latvijas Satversmes sapulces deputāts, Latvijas Sociāldemokrātiskās strādnieku partijas pārstāvis.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{navboxes|title=Vēsturiskā administratīvā piederība|list1=
+{{Tērvetes novads}}
+{{Dobeles rajons}}
+{{Jelgavas apriņķis}}
+}}
+
+{{DEFAULTSORT:Bukaiszu pagasts}}
+[[Kategorija:Dobeles apriņķis]]
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Bukaišu pagasts]]

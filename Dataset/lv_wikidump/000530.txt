@@ -1,0 +1,45 @@
+{{Navbox with columns
+| name = PSRS
+| titlestyle = background: #CC0000; border: 1px solid #FFFFFF; color:#FFD700;
+| title = {{flaga|PSRS}} [[PSR|{{font|PSRS savienotās republikas|color=#FFD700}}]]
+<!-- | listclass = plainlist -->
+| colheaderstyle = color:#FFD700; background: #CC0000;
+| colwidth = 20%;
+
+| col1header = [[Padomju Savienība|{{font|Padomju Savienība|color=#FFD700}}]]
+| col1 =
+[[Attēls:State Emblem of the Soviet Union.svg|90px|center]]
+
+| col2header = [[Austrumeiropa|{{font|Austrumeiropa|color=#FFD700}}]] un [[Sibīrija|{{font|Sibīrija|color=#FFD700}}]]
+| col2 =
+* [[Attēls:Flag of Russian SFSR.svg|22px]] '''[[Krievijas PFSR]]''' (no 1922)
+* [[Attēls:Flag of Byelorussian SSR.svg|22px]] '''[[Baltkrievijas PSR]]''' (no 1922)
+* [[Attēls:Flag of Ukrainian SSR.svg|22px]] '''[[Ukrainas PSR]]''' (no 1922)
+* [[Attēls:Flag of Moldavian SSR.svg|22px]] '''[[Moldāvijas PSR]]''' (no 1940)
+
+| col3header = [[Vidusāzija|{{font|Vidusāzija|color=#FFD700}}]]
+| col3 =
+* [[Attēls:Flag of Khiva (1923-1924).svg|22px]] '''[[Horezmas SPR]]''' (1923-1925)
+* [[Attēls:Flag of the Bukharan SSR.svg|22px]] '''[[Buhāras SPR]]''' (1924)
+* [[Attēls:Flag of the Uzbek SSR.svg|22px]] '''[[Uzbekijas PSR]]''' (no 1924)
+* [[Attēls:Flag of Turkmen SSR.svg|22px]] '''[[Turkmēnijas PSR]]''' (no 1924)
+* [[Attēls:Flag of Tajik SSR.svg|22px]] '''[[Tadžikijas PSR]]''' (no 1929)
+* [[Attēls:Flag of Kazakh SSR.svg|22px]] '''[[Kazahijas PSR]]''' (no 1936)
+* [[Attēls:Flag of Kyrgyz SSR.svg|22px]] '''[[Kirgīzijas PSR]]''' (no 1936)
+
+| col4header = [[Kaukāzs|{{font|Kaukāzs|color=#FFD700}}]]
+| col4 =
+* [[Attēls:Flag of Transcaucasian SFSR.svg|22px]] '''[[Aizkaukāza SFPR]]''' (1922-1936)
+* [[Attēls:Flag of Armenian SSR.svg|22px]] '''[[Armēnijas PSR]]''' (no 1936)
+* [[Attēls:Flag of Azerbaijan SSR.svg|22px]] '''[[Azerbaidžānas PSR]]''' (no 1936)
+* [[Attēls:Flag of Georgian SSR.svg|22px]] '''[[Gruzijas PSR]]''' (no 1936)
+** [[Attēls:Flag of Abkhazian SSR.svg|22px]] '''[[SPR Abhāzija]]''' (1921-1931)
+
+| col5header = [[Ziemeļeiropa|{{font|Ziemeļeiropa|color=#FFD700}}]]
+| col5 =
+* [[Attēls:Flag of the Karelo-Finnish SSR.svg|22px]] '''[[Karēļu-somu PSR]]''' (1940-1956)
+* [[Attēls:Flag of the Estonian Soviet Socialist Republic (1953–1990).svg|22px]] '''[[Igaunijas PSR]]''' (1940-1990)
+* [[Attēls:Flag of Latvian SSR.svg|22px]] '''[[Latvijas PSR]]''' (1940-1990)
+* [[Attēls:Flag of Lithuanian SSR.svg|22px]] '''[[Lietuvas PSR]]''' (1940-1990)
+}}<noinclude>
+[[Kategorija:Navigācijas veidnes]]</noinclude>

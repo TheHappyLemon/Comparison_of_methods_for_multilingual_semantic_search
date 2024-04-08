@@ -1,0 +1,150 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Republika e Shqipërisë
+|    pilnais_valsts_nosaukums = Albānijas Republika
+|            valsts_nosaukums = Albania
+|               karoga_attēls = Flag of Albania.svg
+|            karoga_nosaukums = Albānijas karogs
+|              ģerboņa_attēls = Coat of arms of Albania.svg
+|           ģerboņa_nosaukums = Albānijas ģerbonis
+|             ģerboņa_platums = 65px
+|                 valsts_moto = Ti Shqipëri më jep nder, më jep emrin shqipëtar<br />(<small>Tu, Albānija, dod man godu, tu man dod vārdu ''albānis''.</small>)
+|                valsts_himna = ''[[Hymni i Flamurit]]''
+|               kartes_attēls = Europe-Albania.svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Tirāna]]
+|latd=41 |latm=20 |latNS=N |longd=19 |longm=48 |longEW=E
+|             lielākā_pilsēta = [[Tirāna]]
+|              valsts_valodas = [[albāņu valoda]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Parlamentāra republika]]
+|        valsts_galvas_tituls = [[Albānijas prezidenti|Prezidents]]
+|                valsts_galva = [[Bajrams Begajs]]
+|       valsts_galvas_tituls2 = [[Albānijas premjerministru uzskaitījums|Premjerministrs]]
+|               valsts_galva2 = [[Edi Rama]]
+|        neatkarības_iegūšana = [[Neatkarība]]
+|         neatkarības_piezīme = no [[Osmaņu impērija]]s
+|        neatkarības_notikums = Datums
+|          neatkarības_datums = {{dat|1912|11|28}}
+|                 platība_km2 = 28 748
+|               platība_rangs = 143.
+|              procenti_ūdens = 4,7
+|     iedzīvotāju_skaita_gads = 2014
+|          iedzīvotāju_skaits = 3 020 209
+|    iedzīvotāju_skaits_rangs = 130.
+|    apdzīvotības_blīvums_km2 = 98
+|  apdzīvotības_blīvums_rangs = 63.
+|                     IKP_PPP = $32,259 miljardi<ref>[http://www.imf.org/external/pubs/ft/weo/2007/02/weodata/weorept.aspx?sy=2004&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&c=914&s=PPPGDP%2CPPPPC&grp=0&a=&pr1.x=55&pr1.y=10 Starptautiskais Valūtas Fonds - Albānija (NKP)] {{en ikona}}</ref>
+|                IKP_PPP_gads = 2015.
+|               IKP_PPP_rangs = 112.
+|          IKP_PPP_per_capita = $11 700
+|    IKP_PPP_per_capita_rangs = 100.
+|                         HDI = {{palielinājās}} 0.716
+|                    HDI_gads = 2013
+|              HDI_kategorija = <font color="#009900">augsts</font>
+|                   HDI_rangs = 95.
+|                        Gini = 26.7
+|                   Gini_gads = 2008
+|             Gini_kategorija = <font color="#009900">zems</font>
+|                  Gini_rangs = 
+|                      valūta = [[Albānijas leks]]
+|                valūtas_kods = ALL
+|                  laika_zona = [[Centrāleiropas laiks|CET]]
+|                  utc_offset = +1
+|              laika_zona_DST = [[Centrāleiropas vasaras laiks|CEST]]
+|              utc_offset_DST = +2
+|                      domēns = [[.al]]
+|              tālsarunu_kods = 355
+|                    piezīmes = 
+|                iso_kods_num = 008
+|              iso_kods_alfa2 = AL
+|              iso_kods_alfa3 = ALB
+}}
+
+'''Albānija''' ({{val|sq|Shqipëria}}, tulkojumā: ''Ērgļu zeme''), oficiāli '''Albānijas Republika''' (''Republika e Shqipërisë'') ir [[valstis|valsts]] dienvidaustrumu [[Eiropa|Eiropā]]. To rietumos apskalo [[Adrijas jūra]], bet dienvidrietumos [[Jonijas jūra]], kā arī robežojas ar [[Melnkalne|Melnkalni]] ziemeļos, ar [[Kosova|Kosovu]] ziemeļrietumos, ar [[Ziemeļmaķedonijas Republika|Ziemeļmaķedonijas Republiku]] austrumos un ar [[Grieķija|Grieķiju]] dienvidos. Albānijas platība ir 28 748 [[km²]] un to ietekmē kontinentālais klimats. Lielākā daļa no Albānijas teritorijas jeb 70% sedz kalnaini apvidi, kuri ir nelīdzeni un grūti sasniedzami. Albānija ar 3,02 miljoniem iedzīvotāju ir 139. lielākā valsts pasaulē. Albānija ir [[parlamentāra republika]], kurā ietilpst divpadsmit apgabali. Galvaspilsēta un lielākā pilsēta ir [[Tirāna]].
+
+Kopš 2009. gada Albānija ir [[NATO]] dalībvalsts un no 2014. gada [[Eiropas Savienība]]s kandidātvalsts.<ref>[http://www.delfi.lv/news/world/other/es-pieskir-albanijai-kandidatvalsts-statusu.d?id=44647952 ES piešķir Albānijai kandidātvalsts statusu] [[Delfi (portāls)|DELFI]] 2014. gada 24. jūnijā</ref>
+
+== Etimoloģija ==
+Daļa vēsturnieku domā, ka albānieši savu nosaukumu ieguvuši no [[ilīrieši|ilīriešu]] cilts, kā arī ir tās pēcteči. Citi vēsturnieki uzskata, ka vienīgais, kas mūsdienu albāņus saista ar seno ilīriešu ciltīm, ir apdzīvotā vieta, jo ilīrieši romanizējās [[Romas impērija]]s un [[Bizantijas impērija]]s periodā (jau Bizantijas laikā avotos nav nekādu ziņu par ilīriešu esamību), pēc tam šīm zemēs pāri nāca barbaru tautu viļņi t.s. [[Lielā tautu staigāšana|Lielās tautu staigāšanas]] laikā.
+
+== Vēsture ==
+{{pamatraksts|Albānijas vēsture}}
+Albānijas teritorija tika apdzīvota jau paleolītā laikmetā pirms vairāk kā tūkstoš gadiem. Pirmās apmetnes ir atrastas Gajtanas alā, Konispolē, Dajti kalnā un Ksarā. Albānija līdz 1912. gadam bija daļa no Osmaņu impērijas un pēc Otrā Balkānu kara osmaņi atstāja Albāniju. Sākot no 1925. gada valsti pārvaldīja prezidents Ahmeds Zogu, kurš 1928. gadā pasludināja sevi par karali Zogu I, pirmo Albānijas monarhu. 
+Viņa valdīšanas laiks beidzās 1939. gada 7. aprīlī, kad [[Itālijas iebrukums Albānijā|Albānijā iebruka Itālija]], Zogu ar ģimeni sākotnēji aizbēga uz Grieķiju, tad caur [[Latvija|Latviju]] uz Zviedriju.
+
+Pēc Otrā pasaules kara varu Albānijā sagrāba komunisti, bet pēc [[Komunisma krišana Albānijā|komunistu valdības sagrāves]] Ahmeta Zogu dēls Leka un karaliskā ģimene atgriezās Albānijā 2002. gada 28. jūnijā.
+
+== Administratīvais iedalījums ==
+{{main|Albānijas administratīvais iedalījums}}
+Albānija sastāv no 12 apgabaliem (rētem).
+[[Attēls:Albania Counties Named Colored.svg|right]]
+
+=== Apgabali ===
+{| class="sortable wikitable"
+|-
+! Karte !! Ģerbonis !! Apgabals !! Nosaukums<br />albāņu valodā !! Administratīvais<br />centrs !! Platība (km²) !! Iedzīvotāju skaits<br />(2011) !! Rajonu<br />skaits !! ISO 3166-2
+|-
+| [[Attēls:Berat County in Albania.svg|70px]] || [[Attēls:ALB Qarku i Beratit COA.png|50px]] || '''[[Berati apgabals]]''' || ''Qarku i Beratit'' || [[Berati]] || {{nts|1798}} || {{nts|141944}} || 5 || AL-01
+|-
+| [[Attēls:Diber County in Albania.svg|70px]] || [[Attēls:ALB Qarku i Dibrës COA.png|50px]] || '''[[Dibras apgabals]]''' || ''Qarku i Dibrës'' || [[Peškopi]]|| {{nts|2507}} || {{nts|140002}} || 4 || AL-09
+|-
+| [[Attēls:Durres County in Albania.svg|70px]] || [[Attēls:Stema e Qarkut Durrës.svg|50px]] || '''[[Duresi apgabals]]''' || ''Qarku i Durrësit'' || [[Duresi]] || {{nts|827}} || {{nts|310499}} || 3 || AL-02
+|-
+| [[Attēls:Elbasan County in Albania.svg|70px]] || [[Attēls:Stema e Qarkut Elbasan.svg|50px]] || '''[[Eļbasani apgabals]]''' || ''Qarku i Elbasanit'' || [[Eļbasani]] || {{nts|3199}} || {{nts|295827}} || 7 || AL-03
+|-
+| [[Attēls:Fier County in Albania.svg|70px]] || [[Attēls:ALB Qarku i Fierit COA.png|50px]] || '''[[Fieri apgabals]]''' || ''Qarku i Fierit'' || [[Fieri]] || {{nts|1890}} || {{nts|310331}} || 6 || AL-04
+|-
+| [[Attēls:Gjirokaster County in Albania.svg|70px]] || || '''[[Ģirokastras apgabals]]''' || ''Qarku i Gjirokastrës'' || [[Ģirokastra]] || {{nts|2883}} || {{nts|72176}} || 3 || AL-05
+|-
+| [[Attēls:Korce County in Albania.svg|70px]] || || '''[[Korčas apgabals]]''' || ''Qarku i Korçës'' || [[Korča]] || {{nts|3711}} || {{nts|220357}} || 4 || AL-06
+|-
+| [[Attēls:Kukes County in Albania.svg|70px]] || || '''[[Kukesi apgabals]]''' || ''Qarku i Kukësit'' || [[Kukesi]]|| {{nts|2373}} || {{nts|79303}} || 3 || AL-07
+|-
+| [[Attēls:Lezhe County in Albania.svg|70px]] || || '''[[Ļežas apgabals]]''' || ''Qarku i Lezhës'' || [[Ļeža]]|| {{nts|1620}} || {{nts|134027}} || 3 || AL-08
+|-
+| [[Attēls:Shkoder County in Albania.svg|70px]] || || '''[[Škodras apgabals]]''' || ''Qarku i Shkodrës'' || [[Škodra]] || {{nts|3562}} || {{nts|215347}} || 3 || AL-10
+|-
+| [[Attēls:Tirana County in Albania.svg|70px]] || [[Attēls:Stema e Qarkut Tiranë.svg|50px]] || '''[[Tirānas apgabals]]''' || ''Qarku i Tiranës'' || [[Tirāna]] || {{nts|1652}} || {{nts|749365}} || 2 || AL-11
+|-
+| [[Attēls:Vlore County in Albania.svg|70px]] || || '''[[Vļoras apgabals]]''' || ''Qarku i Vlorës'' || [[Vļora]] || {{nts|2706}} || {{nts|175640}} || 3 || AL-12
+|}
+
+== Ģeogrāfija ==
+Albānijas teritorija ir 28 750 kvadrātkilometrus plaša. Tās krasta līnija ir 362 kilometrus gara un stiepjas gar Adrijas jūru un Jonijas jūru. Rietumu zemienes ir vērstas pret Adrijas jūru. 70% kalnainās teritorijas ir nelīdzena un bieži nesasniedzama. Augstākais kalns [[Korabs]], kas sasniedz 2753 metru augstumu, atrodas Dibras apgabalā.
+
+Valsts klimats ir kontinentāls, tās augstieņu reģionos sastopamas aukstas ziemas un karstas vasaras. Bez galvaspilsētas [[Tirāna]]s, kurā ir 800 000 iedzīvotāju, citas nozīmīgas pilsētas ir [[Durresi]], [[Eļbasana]], Škodra, [[Ģirokastra]], [[Vļora]], [[Korča]] un [[Kukesa]].
+
+[[Albāņu valoda]]s gramatikā vārdam var būt noteiktā un nenoteiktā forma, un tas attiecas arī uz pilsētu nosaukumiem: izmantoti tiek gan Tiranë un Tirana, Shkodër un Shkodra.
+
+== Demogrāfija ==
+95% iedzīvotāju ir albāņi. Atlikušie 5% minoritāšu ietver [[grieķi|grieķus]], [[maķedonieši|maķedoniešus]], [[serbi|serbus]] (melnkalniešus), [[čigāni|romus]] (čigānus), Balkānu ēģiptiešus, [[vlahi|vlahus]] (tikai aromūnus) un [[itāļi|itāļus]]. Pamata saziņas valoda ir albāņu ar diviem dialektiem — gegu un tosku. Daudzi albāņi tekoši runā arī [[angļu valoda|angļu]], [[grieķu valoda|grieķu]], [[itāļu valoda|itāļu]], [[krievu valoda|krievu]] vai [[franču valoda|franču valodā]].
+
+Osmaņu impērijas sastāvā Albānija kļuva par lielākoties [[musulmaņi|musulmaņu]] apdzīvotu teritoriju. Komunistiskā režīma laikā [[reliģija]] tika pilnībā aizliegta, un Albāniju pasludināja par pirmo un vienīgo [[ateisms|ateistisko]] valsti pasaulē. Mūsdienās, kad pastāv ticības brīvība, Albānijā ir dažādas reliģijas un konfesijas, tomēr visvairāk ir musulmaņu, proti, 75% kopējā iedzīvotāju skaita. Citas pasaulē izplatītās reliģijas Albānijā nav sevišķi populāras. Jauktu reliģiju laulības ir ierastas, un ļoti spēcīga albāņu identitātes sajūta ir tā, kas saliedē kopā visu pārstāvēto reliģiju albāņus.
+
+== Ekonomika ==
+Kopš komunistiskā režīma krišanas 1990. gadā Albānija ir uzsākusi ekonomiskās programmas ceļā uz brīvā tirgus ekonomiku. Demokrātiski ievēlētā valdība, kas savu darbību sāka 1992. gada aprīlī, izstrādāja ambiciozu ekonomisko [[Reforma|reformu]] programmu ekonomisko problēmu apturēšanai un valsts tirgus ekonomikas veicināšanai. Tās galvenokārt ietvēra cenu un maiņas sistēmas liberalizēšanu, finanšu nostiprināšanu, valūtas ierobežošanu un stingru ienākumu politiku. To papildināja plaša pakete ar strukturālām reformām, ieskaitot privatizāciju, uzņēmumu un finanšu sektoru reformas un legālas tirgus ekonomikas un privātā sektora darbošanās struktūras izveidi. Lielākā daļa cenu tika liberalizētas un pašlaik tuvojas tipiskajiem reģiona rādītājiem. Lielākā daļa lauksaimniecības, valsts māju un mazās industrijas tika privatizētas līdz ar transportu, pakalpojumiem un maziem un vidējiem uzņēmumiem. Pēc vairākām [[Ekonomiskā krīze|ekonomiskām krīzēm]], kas notika pēc 1989. gada, ekonomikas stāvoklis lēnām uzlabojās, līdz 90. gadu beigās pārsniedza 1989. gada IKP līmeni. Cenu augšanas dēļ lielai daļai tautas vienalga jāsaskaras ar ekonomiskām grūtībām. 1995. gadā Albānijā sākās lielo uzņēmumu privatizācija. Kopš 2000. gada Albānija ir piedzīvojusi strauju [[Ekonomikas izaugsme|ekonomisko izaugsmi]].
+
+Pēc Stabilizācijas un Saistību Vienošanās 2006. gada jūnijā/jūlijā ES sūtņi ir mudinājuši Albāniju turpināt iesākto reformu ceļu, pievēršoties [[preses brīvība]]i, īpašumu tiesībām, organizāciju veidošanai, cieņai pret etniskajām minoritātēm un pašvaldību vēlēšanu starptautisko standartu ievērošanai.
+
+Albānijas krasta līnija gar Jonijas jūru, īpaši tuvumā Grieķijas tūristu salai [[Korfu]], aizvien vairāk piesaista tūristu interesi tās salīdzinoši nepiesārņotās dabas un pludmaļu dēļ. Tūrisma nozare strauji paplašinās.
+
+== Skatīt arī ==
+* [[Albānijas karaliste]]
+* [[Albānijas komiksi]]
+* [[Albānijas pilsētu uzskaitījums]]
+* [[UNESCO Pasaules mantojuma vietas Albānijā]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa}}
+{{NATO}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Albānija]]

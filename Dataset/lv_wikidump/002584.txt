@@ -1,0 +1,16 @@
+{{Citas nozīmes|kuģa radiomāju|radiomāja (nozīmju atdalīšana)|radiomāja}}
+
+'''Radiomāja''' ir viena no [[kuģis|kuģa]] dienesta telpām. Tā nodrošina no [[sardzes stūrmanis|sardzes stūrmaņa]] saņemto ziņojumu ātru pārraidīšanu. Radiomāju izvieto uz pārgājiena tiltiņa klāja, tā ir viena no kuģa vadības telpām. Radiomājā tiek nodrošināta radio sardze.
+
+Par radiosakariem uz kuģa atbildīga ir radio komanda (taču līdz ar [[ultraīsviļņi|ultraīsviļņu]] (UĪV) aparatūras ieviešanu aizvien lielāku darbu dara klāja virsnieki, un uz dažiem kuģiem radio virsnieku vairs vispār nav). Radio virsnieks ir atbildīgs [[kuģa kapteinis|kuģa kapteinim]] par kuģa sakaru aprīkojuma lietošanu un uzturēšanu kārtībā. Daudzos gadījumos viņš nav kuģa īpašnieka, bet gan jūras radio kompānijas algots darbinieks. Šī kompānija izlemj, uz kura kuģa viņš strādās, nodrošina viņa transportu no un uz kuģi un nodrošina paaugstināšanas iespējas. Radio virsnieku skaits uz kuģa ir atkarīgs no radio dienesta likumiem, kas katrai kuģu klasei ir īpaši. Kravas kuģiem ar [[bruto]] [[tonnāža|tonnāžu]] no 1600 bruto reģistra tonnām un lielāku, ja tie ir aprīkoti ar [[radiotelegrāfs|radiotelegrāfa]] automātiskās trauksmes aparatūru, nepieciešams tikai viens radio virsnieks.
+
+Ja uz kuģa ir tikai viens radio virsnieks, viņš nodrošina radio sardzi astoņas stundas dienā četros divu stundu periodos. Ja ir divi radio virsnieki, viņi nodrošina sardzi sešpadsmit stundas dienā, divdesmit četru stundu periodā iekļaujot četrus divu stundu pārtraukumus. Ar trim vai vairāk radio virsniekiem radio sardze tiek nodrošināta nepārtraukti divdesmit četras stundas, katram radio virsniekam veicot divas četru stundu sardzes pienākumus ar diviem astoņu stundu pārtraukumiem.
+
+Liela daļa no radio virsnieka sardzes pienākumiem ir saistīta ar kuģa darījumu, [[navigācija]]s un laikapstākļu ziņojumu, kuģa [[hronometrs|hronometra]] pārbaudes signālu, [[telegramma|telegrammu]] un preses ziņojumu pārraidi un uztveršanu. Daudzi no šiem ziņojumiem tiek pārraidīti ar radiotelegrāfu [[Morzes kods|Morzes kodā]], bet lielākoties tiek lietota [[radiotelefonija|radiotelefoniju]].
+
+Sardzes periodos tiek nodrošināta nepārtraukta sardze starptautiskajā nelaimes frekvencē nelaimes un palīdzības ziņojumu uztveršanai. Klausīšanās tiek intensificēta divos trīs minūšu periodos katru stundu, kad tiek pārtraukti visi sakari, izņemot nelaimes signālus un steidzamus sakarus. Kad radio virsnieks aiziet no sardzes, starptautiskā nelaimes frekvence tiek uzmanīta ar automātisko trauksmes ierīci, kas veidota, lai reaģētu uz starptautiski atpazīstamiem signāliem un iedarbinātu trauksmes zvanus.
+
+Uz daudziem kuģiem radio virsnieks strādā kā radio un elektronikas virsnieks un ir atbildīgs par lielu daudzumu elektroniskā aprīkojuma gan uz [[tiltiņš (kuģa)|tiltiņa]], gan [[mašīntelpa|mašīntelpā]] papildus radiomājas aprīkojumam.
+
+[[Kategorija:Jūrniecība]]
+[[Kategorija:Radio]]

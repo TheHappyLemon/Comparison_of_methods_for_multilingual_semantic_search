@@ -1,0 +1,110 @@
+{{Latvijas novada infokaste
+| nosaukums         = Šķilbēnu pagasts
+| karte             = Šķilbēnu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Rekova
+| platība           = 96,55
+| iedzīvotāji       = 1128<ref>{{PMLPiedz|2016-1}}</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1128 / 96.55 round 1}}
+| izveidots         = 1930
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.skilbeni.gov.lv
+}}
+
+'''Šķilbēnu pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām, [[Krievija]]s pierobežā. Robežojas ar sava novada [[Medņevas pagasts|Medņevas]], [[Vecumu pagasts|Vecumu]], [[Briežuciema pagasts|Briežuciema]], [[Lazdulejas pagasts|Lazdulejas]] un [[Baltinavas pagasts|Baltinavas]] pagastiem, kā arī Krievijas [[Pleskavas apgabals|Pleskavas apgabala]] [[Pitalovas rajons|Pitalovas rajonu]].
+
+== Daba ==
+Pagasta teritorija izvietojusies [[Adzeles pacēlums|Adzeles pacēluma]] rietumdaļā un [[Mudavas zemiene]]s [[Abrenes nolaidenums|Abrenes nolaidenumā]]. Vidējā [[temperatūra]] aukstākajā ziemas mēnesī janvārī {{nobr|-9&nbsp;°C}}, karstākajā vasaras mēnesī jūlijā {{nobr|+18&nbsp;°C}}. Bezsala periods ilgst 135 dienas, bet sniega sega zemi klāj vidēji 153 dienas gadā, nokrišņu daudzums ~550 mm gadā.
+
+=== Hidrogrāfija ===
+Pagasta teritorijas lielākā daļa ietilpst [[Veļikaja]]s upes sateces baseinā. Pagasta robežu ar Krieviju iet pa [[Kūkova]]s upi, kurā ieplūst vairākas pietekas, lielākā no kurām ir [[Rika]], kas šķērso pagastu no rietumiem uz austrumiem. Ir apzināti arī 3 avoti.<ref>{{Tīmekļa atsauce |url=http://www.skilbeni.gov.lv/apraksts_pag.htm |title=Šķilbēnu pagasts. Vispārīgs apraksts |access-date={{dat|2010|10|24||bez}} |archiveurl=https://web.archive.org/web/20071214144444/http://www.skilbeni.gov.lv/apraksts_pag.htm |archivedate={{dat|2007|12|14||bez}} }}</ref>
+
+==== Upes ====
+* [[Kūkova]]
+* [[Lodumka]]
+* [[Moseika]]
+* [[Rika]]
+** [[Zaļčupe]]
+** [[Supretka]]
+** [[Stiglova (upe)|Stiglova]]
+*** [[Dzjorgova]]
+* [[Krakupe]]
+
+==== Ezeri ====
+[[Ančipovas ezers]]
+
+== Vēsture ==
+[[Attēls:Skilbenu muiza.jpg|thumb|280px|Šķilbēnu muižas kungu māja 2007. gadā]]
+Pēc 1920. gada [[Agrārā reforma Latvijā|agrāras reformas]] Orlavas muižu (mūsdienās [[Orlova (Lazdulejas pagasts)|Orlova]] [[Lazdulejas pagasts|Lazdulejas pagastā]]) sadalīja 86 vienībās 1140 ha platībā, [[Šķilbēnu muiža|Šķilbēnu muižu]] 76 vienībās 711 ha kopplatībā.<ref>{{LKV|XXI.|41 700}}</ref>
+Šķilbēnu pagasts tika izveidots 1930. gadā, atdalot teritorijas no [[Baltinavas pagasts|Baltinavas]] un [[Viļakas pagasts|Viļakas]] pagastiem. 1935. gadā tā platība bija 216 km² un tajā dzīvoja 6423 iedzīvotāji.<ref>{{EncLP}}</ref>
+
+1945. gadā pagastā izveidoja [[Egļevas ciems|Egļevas]], Loginas, [[Stabļevas ciems|Stabļevas]], Šķilbēnu un [[Zaļčupes ciems|Zaļčupes]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Loginas ciems''' ietilpis [[Viļakas apriņķis|Viļakas apriņķī]] (1945—1949) un [[Abrenes rajons|Abrenes]] (1949—1959) un [[Balvu rajons|Balvu]] (pēc 1959. gada) rajonos. Loginas ciemam 1954. gadā pievienoja likvidēto Zaļčupes ciemu, 1962. gadā — [[Medņevas ciems|Medņevas]] un [[Lazdulejas ciems|Šķilbēnu]] ciemu [[padomju saimniecība]]s «Šķilbēni» teritoriju. 1968. gadā Loginas ciemu pārdēvēja par '''Šķilbēnu ciemu'''.<ref>[https://sites.google.com/view/skilbeni/m%C4%81jas Šķilbēnu pagasts]</ref> 1971. gadā tam pievienoja daļu [[Lazdulejas ciems|Lazdulejas ciema]] padomju saimniecības «Šķilbēni» teritorijas, bet padomju saimniecības «Medņeva» teritoriju pievienoja Medņevas ciemam. 1977. gadā Šķilbēnu ciemam pievienoja daļu likvidētā [[Upītes ciems|Upītes ciema]] teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>[https://gramatas.lndb.lv/periodika2-viewer/#panel:pp|issue:640434|article:DIVL7876 Latvijas pagasti enciklopēdija 2002]</ref> 2009. gadā Šķilbēnu pagastu kā administratīvo teritoriju iekļāva [[Viļakas novads|Viļakas novadā]]. 2021. gadā Viļakas novadu iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Valsts aizsargājamie kultūras pieminekļi ===
+[[Attēls:Šķilbēnu vecā katoļu baznīca.jpg|thumb|280px|Šķilbēnu vecā katoļu baznīca]]
+* Nr. 256.: Daņilovkas senkapi I, II — Daņilovkas silā pie Daņilovkas fermas 
+* Nr. 257.: Dzilnaskalns — senkapi (Kara kapi) pie Plešovas kapsētas 
+* Nr. 258.: [[Mistra kalns]] — Porskovā
+* Nr. 259.: Sauciema senkapi — Sauciemā pie Dravām, Rikas upes labajā krastā 
+* Nr. 2954.-2955.: Kauss (1733) un monstrance Šķilbēnu katoļu baznīcā (1780, 19.gs.) 
+* Nr. 2844.-2846.: Šķilbēnu pagasta nams (1938—1939), Rekavas (Polfandera) dzirnavas (1932), Rekavas ambulance (1930. gadi) — Rekavā
+* Nr. 2847.: [[Šķilbēnu vecā Sāpju Dievmātes Romas katoļu baznīca|Šķilbēnu (Rekavas) katoļu baznīca]] — Šķilbēnos (1922)
+* Nr. 2848.: [[Šķilbēnu pareizticīgo baznīca]] — Šķilbēnos (1926)
+* Nr. 2849.-2850.: [[Šķilbēnu muiža]]s apbūve, Šķilbēnu muižas kungu māja — Šķilbēnos (19. gs. b.)<ref>[http://www.likumi.lv/doc.php?id=33373 LR Kultūras ministrijas rīkojums Nr.128. Par valsts aizsargājamo kultūras pieminekļu sarakstu] {{Webarchive|url=https://web.archive.org/web/20131110005734/http://likumi.lv/doc.php?id=33373 |date={{dat|2013|11|10||bez}} }} ([[Aizkraukles rajons]] — [[Liepājas rajons]])</ref>
+
+== Iedzīvotāji ==
+
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3500
+|1959|3000
+|1969|2500
+|1979|1965
+|1989|1577
+|2000|1487
+|2011|1171
+|2021|928
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Šķilbani]], '''[[Rekova]]''' (pagasta centrs), [[Upīte (ciems)|Upīte]].
+
+[[Ančipova]], [[Bākarova]], [[Buki (Šķilbēnu pagasts)|Buki]], [[Čalkova]], [[Čilipīne (Šķilbēnu pagasts)|Čilipīne]], [[Dagunova (Šķilbēnu pagasts)|Dagunova]], [[Dubļova]], [[Fabriki (Šķilbēnu pagasts)|Fabriki]], [[Ivanovka (Šķilbēnu pagasts)|Ivanovka]], [[Lemešova (Šķilbēnu pagasts)|Lemešova]], [[Logini (Šķilbēnu pagasts)|Logini]], [[Lotuši]], [[Nikolajevka (ciems)|Nikolajevka]], [[Peksīne]], [[Plešova (Šķilbēnu pagasts)|Plešova]], [[Porskova]], [[Prisjolova]], [[Rekova]], [[Sišova]], [[Stiglova (ciems)|Stiglova]], [[Šķilbani]], [[Tribunova]], [[Upīte (ciems)|Upīte]], [[Vilkova]], [[Zaļčupe]], [[Zatišje (Šķilbēnu pagasts)|Zatišje]].
+
+== Saimniecība ==
+
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Viļakas novads}}
+{{Balvu rajons}}
+{{Abrenes apriņķis}}
+}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Šķilbēnu pagasts| ]]

@@ -1,0 +1,161 @@
+{{Bijušās valsts infokaste
+|vietējais_nosaukums  = ''Savezna Republika Jugoslavija'' (1992–2003)<br />''Državna zajednica Srbija i Crna Gora''<br />(2003–2006)
+|nosaukums_latv_val   = <small>Dienvidslāvijas Federatīvā Republika<br />(1992–2003)<br />Serbijas un Melnkalnes Savienība<br />(2003–2006)</small>
+|sugasvārds          = Serbijas un Melnkalnes Savienība
+|
+|kontinents          = Eiropa
+|reģions             = Dienvideiropa
+|valsts              = 
+|laikmets            = Dienvidslāvijas kari
+|statuss             = 
+|statusa_teksts      =
+|impērija            = <!- Impērija vai valsts, no kuras bija šī bijusī 
+                           valsts atkarīga ->
+|valdības_veids      = 	Federatīva parlamentāra republika (1992–2003)<br />
+Konfederatīva republika (2003–2006)
+|<!- Valsts izveidošana, krišana, notikumi, gadi un datumi ->
+|<!- Tikai pietiekams daudzums sākuma/beigu notikumu ievadīšana nodrošinās 
+     parādīšanos raksta. Nelietot tikai "likvidēšana" vai "deklarēšana" ->
+|
+|gads_sākums         = 1992
+|gads_beigas         = 2006
+|
+|year_exile_start    = 
+|year_exile_end      = 
+|
+|event_start         = Izveidota
+|date_start          = {{dat|1992|4|27||bez}}
+|event_end           = Serbijas neatkarība
+|date_end            = {{dat|2006|6|5||bez}}
+|
+|event1              = Miloševiča gāšana
+|date_event1         = {{dat|2000|10|5||bez}}
+|event2              = Savienības valsts
+|date_event2         = {{dat|2003|2|4||bez}}
+|event3              = Melnkalnes neatkarība
+|date_event3         = {{dat|2006|6|3||bez}}
+|event4              = 
+|date_event4         = 
+|
+|event_pre           = 
+|date_pre            = 
+|event_post          = 
+|date_post           = 
+|
+|<!--- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to 
+       s5 --->
+|p1                  = Dienvidslāvijas SFR
+|flag_p1             = Flag_of_Yugoslavia_(1946-1992).svg
+|p2                  = Serbijas Sociālistiskā Republika
+|flag_p2             = Flag_of_Serbia_(1947–1992);_Flag_of_Montenegro_(1946–1993).svg
+|p3                  = Melnkalnes Sociālistiskā Republika
+|flag_p3             = Flag_of_Serbia_(1947–1992);_Flag_of_Montenegro_(1946–1993).svg
+|s1                  = Serbija
+|flag_s1             = Flag_of_Serbia.svg
+|s2                  = Melnkalne
+|flag_s2             = Flag_of_Montenegro.svg
+|s3                  = 
+|flag_s3             = 
+|s4                  = 
+|flag_s4             = 
+|s5                  = 
+|flag_s5             = 
+|
+|image_flag          = Flag_of_Serbia_and_Montenegro_(1992–2006).svg
+|flag                = Serbijas un Melnkalnes karogs
+|flag_type           = Karogs
+|
+|image_coat          = Coat_of_arms_of_Serbia_and_Montenegro.svg
+|symbol              = Serbijas un Melnkalnes ģerbonis
+|symbol_type         = Ģerbonis
+|
+|image_map           = Serbia_and_Montenegro.svg
+|image_map_caption   = Dienvidslāvijas FR 2003. gadā, gaiši zaļā — Kosova
+|
+|galvaspilsēta       = Belgrada
+|galvaspilsēta_exile = <!-- If status="Exile" -->
+|latd= |latm= |latNS= |longd= |longm= |longEW= 
+|
+|national_motto      = 
+|national_anthem     = ''Hej, Sloveni''
+|kopīgas_valodas     = [[serbu valoda|serbu]]
+|reliģija            = 
+|nauda               = '''Serbija''':<br />Dienvidslāvijas dinārs<br />(1992–2003)<br />[[Serbijas dinārs]]<br />(2003–2006)<br />'''Melnkalne''':<br />Dienvidslāvijas dinārs<br />(1992–1999)<br />[[Vācijas marka]]<br />(1999–2002)<br />[[Eiro]]<br />(2002–2006)<br />
+|
+|<!--- Titles and names of the first and last leaders an their deputies --->
+|leader1             = [[Dobrica Čosičs]] <small>(pirmais)</small>
+|leader2             = [[Svetozars Marovičs]] <small>(pēdējais)</small>
+|leader3             = 
+|leader4             = 
+|year_leader1        = 1992–1993
+|year_leader2        = 2003–2006
+|year_leader3        = 
+|year_leader4        = 
+|title_leader        = Prezidents
+|representative1     = [[Milans Paničs]] <small>(pirmais)</small>
+|representative2     = [[Svetozars Marovičs]] <small>(pēdējais)</small>
+|representative3     = 
+|representative4     = 
+|year_representative1 = 1992–1993
+|year_representative2 = 2003–2006
+|year_representative3 = 
+|year_representative4 = 
+|title_representative = Premjerministrs
+|deputy1             = 
+|deputy2             = 
+|deputy3             = 
+|deputy4             = 
+|year_deputy1        = 
+|year_deputy2        = 
+|year_deputy3        = 
+|year_deputy4        = 
+|title_deputy        = 
+|
+|<!--- Legislature --->
+|legislature         = Federālā asambleja (Parlaments)
+|house1              = Republiku palāta
+|type_house1         = augšpalāta
+|house2              = Pilsoņu palāta
+|type_house2         = apakšpalāta
+|
+|<!- Platība un iedzīvotāju skaits dotajos gados ->
+|stat_year1          = 2002
+|stat_platība1       = 102350
+|stat_pop1           = 10662087
+|stat_year2          = 
+|stat_platība2       = 
+|stat_pop2           = 
+|stat_year3          = 
+|stat_platība3       = 
+|stat_pop3           = 
+|stat_year4          = 
+|stat_platība4       = 
+|stat_pop4           = 
+|stat_year5          = 
+|stat_platība5       = 
+|stat_pop5           = 
+|footnotes           = <!--- Accepts wikilinks --->
+}}
+'''Serbijas un Melnkalnes Savienība''' ({{val|sr|Државна заједница Србија и Црна Гора / Državna zajednica Srbija i Crna Gora}}, saīsinājumā СЦГ / ''SCG'') bija [[Serbija]]s un [[Melnkalne]]s politiska apvienība, kas pastāvēja no 2003. līdz 2006. gadam. Šīs divas bijušās [[Dienvidslāvija]]s republikas 1992. gadā izveidoja '''[[Dienvidslāvijas Federatīvā Republika|Dienvidslāvijas Federatīvo Republiku]]''' (DFR) ({{val|sr|Савезна Република Југославија / Savezna Republika Jugoslavija}}). 2003. gadā, DFR tika pārveidota par Serbijas un Melnkalnes Savienību.
+
+2006. gada 21. maijā notika referendums par [[Melnkalne]]s neatkarību, t.i., izstāšanos no  Serbijas un Melnkalnes savienības. 31. maijā tika nosaukti rezultāti — 55,5% iedzīvotāju bija nobalsojuši "par" un 3. jūnijā Melnkalne, bet 5. jūnijā Serbija tika pasludinātas par neatkarīgām valstīm. Līdz ar Melnkalnes neatkarības referendumu visas bijušās [[Dienvidslāvija]]s republikas bija kļuvušas par neatkarīgām valstīm.
+
+Serbijas un Melnkalnes konfederācija bija savienība tikai dažās politiskās jomās (piemēram, aizsardzība un ārlietas). Valstīm bija atsevišķas ekonomiskās politikas un valūtas. Savienībai nebija vienotas galvaspilsētas un kopīgās institūcijas bija sadalītas starp [[Belgrada|Belgradu]] Serbijā un [[Podgorica|Podgoricu]] Melnkalnē. 
+<gallery>
+Image:Scg01.png
+Image:Scg02.png
+</gallery>
+
+== Skatīt arī ==
+* [[Dienvidslāvija]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Eiropa-aizmetnis}}
+{{Vēsture-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Serbija un Melnkalne| ]]

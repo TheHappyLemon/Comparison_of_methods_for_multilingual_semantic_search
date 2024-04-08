@@ -1,0 +1,75 @@
+{{Latvijas novada infokaste
+| nosaukums         = Mežāres pagasts
+| karte             = Mežāres pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Jēkabpils novads
+| centrs            = Mežāre
+| platība           = 142,83
+| iedzīvotāji       = 918<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 918 / 142.83 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+'''Mežāres pagasts''' ir viena no [[Jēkabpils novads|Jēkabpils novada]] administratīvajām teritorijām. Robežojas ar sava novada [[Atašienes pagasts|Atašienes]], [[Vīpes pagasts|Vīpes]], [[Kūku pagasts|Kūku]] un [[Variešu pagasts|Variešu]] pagastiem, [[Madonas novads|Madonas novada]] [[Ļaudonas pagasts|Ļaudonas]] un [[Mētrienas pagasts|Mētrienas]] pagastiem un [[Līvānu novads|Līvānu novada]] [[Turku pagasts|Turku pagastu]]. 
+
+== Daba ==
+Atrodas [[Austrumlatvijas zemiene]]s [[Jersikas līdzenums|Jersikas līdzenumā]]. Augstākā vieta - Katlēru kalns (138,1 m vjl.) pagasta ziemeļu daļā.
+
+=== Hidrogrāfija ===
+'''Upes:'''
+* [[Nereta (upe)|Nereta]]
+** [[Ataša]]
+*** [[Mārsna]]
+** [[Ūdze (upe)|Ūdze (Odze)]]
+*** [[Apozole]]
+
+'''Ezeri:'''
+* [[Buntiku ezers]] (6,3 ha)
+* [[Spiļvu ezers]]
+
+'''Purvi:'''
+Lielākie purvi - Siena purvs un Garais purvs.
+
+== Vēsture ==
+1945. gadā [[Jēkabpils apriņķis|Jēkabpils apriņķa]] [[Vīpes pagasts|Vīpes pagastā]] izveidoja Mežāres [[ciema padome|ciema padomi]]. '''Mežāres ciems''' ietilpis [[Krustpils rajons|Krustpils]] (1949-1962) un [[Jēkabpils rajons|Jēkabpils]] (pēc 1962. gada) rajonos. Mežāres ciemam 1954. gadā pievienoja likvidēto [[Buntiku ciems|Buntiku ciemu]] un [[Gromaltu ciems|Gromaltu ciema]] [[kolhozs|kolhoza]] «Molodaja gvardija» teritoriju, 1964. gadā — [[Mētrienas ciems|Mētrienas ciema]] [[padomju saimniecība]]s «Mežāre» teritoriju, 1973. gadā — daļu [[Kūku ciems|Kūku ciema]] teritorijas. 1977. gadā Mežāres ciemam pievienoja daļu Kūku un [[Vīpes ciems|Vīpes]] ciemu teritorijas, bet daļu Mežāres ciema teritorijas pievienoja [[Atašienas ciems|Atašienas ciemam]].<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Mežāres pagastu kā administratīvo teritoriju iekļāva [[Krustpils novads|Krustpils novadā]]. 2021. gadā Krustpils novadu iekļāva [[Jēkabpils novads|Jēkabpils novadā]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Mežāre]] (pagasta centrs), [[Ratītes]], [[Endžeļi (ciems)|Endžeļi]].
+
+=== Ievērojamas personības ===
+* [[Ivans Klementjevs]] (1960) — kanoe airētājs, politiķis
+* [[Jefimijs Klementjevs]] (1963) — kanoe airētājs, politiķis
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Jēkabpils novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Krustpils novads}}
+{{Jēkabpils rajons}}
+}}
+
+{{DEFAULTSORT:Mezzares pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Jēkabpils novada pagasti]]
+[[Kategorija:Mežāres pagasts| ]]
+[[Kategorija:Vīpes pagasts]]

@@ -1,0 +1,23 @@
+<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#F0F8FF"
+| style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt" | '''[[baltkrievu valoda|be]]-1'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | Гэты ўдзельнік/гэтая ўдзельніца ведае '''[[:Kategorija:User be|беларускую]]''' мову на '''[[:Kategorija:User be-1|пачатковым]]''' узроўні.
+|}</div><includeonly>
+[[Kategorija:User be|{{PAGENAME}}]]
+[[Kategorija:User be-1|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User be]]
+* [[:Kategorija:User be-1]]
+
+== Skaties arī ==
+
+* [[Veidne:User be-2|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|be-1]]
+
+</noinclude>

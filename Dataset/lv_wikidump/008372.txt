@@ -1,0 +1,1471 @@
+{{atsauces+}}
+
+{{F1 sezona |
+  Iepr   = 2003 |
+  Tagad  = 2004 |
+  Nākam  = 2005
+}}
+'''2004. gada F1 sezona''' bija 55. [[Formula 1|F1]] sezona. Tā sākās {{Dat|2004|3|7}} un beidzās {{Dat||10|24}}.
+
+[[Scuderia Ferrari|Ferrari]] šajā sezonā dominēja, savukārt [[WilliamsF1|Williams]] un [[McLaren]] nebija tik konkurētspējīgi kā iepriekš. [[Renault F1|Renault]] un [[British American Racing|BAR]] kopvērtējumā bija augstāk nekā iepriekš. Tajā vairs nepiedalījās veterāni [[Heincs Haralds Frencens]] un [[Joss Verstapens]]. Komandas palika tādas pašas kā [[2003. gada F1 sezona|2003. gadā]]. Šajā sezonā bija arī divas jaunas trases: [[Bahreinas Starptautiskā trase|Sahira]] un [[Šanhajas trase|Šanhaja]].
+
+== Komandas un piloti ==
+{| class="wikitable" border="1" style="font-size: 85%;"
+|-
+!Komanda
+!Konstruktors
+!Šasija
+!Dzinējs
+!Riepas
+!N.
+!Piloti
+!N.
+!Trešie piloti
+!Testpiloti
+|-
+| rowspan=2 | {{flaga|Itālija}} [[Scuderia Ferrari]] [[Marlboro]]
+! rowspan=2 | [[Scuderia Ferrari|Ferrari]]
+| rowspan=2 | [[Ferrari F2004|F2004]]
+| rowspan=2 | [[Scuderia Ferrari|Ferrari]] 053 3.0 V10 90º
+| rowspan=2 align="center" | {{Bridgestone}}
+| align="right" | 1
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| rowspan="2"|
+| rowspan="2" align="left" | nav
+| rowspan="2" align="left" | {{flaga|Itālija}} [[Luka Badoers]]<br />{{flaga|Brazīlija}} [[Lučāno Burti]]
+|-
+| align="right" | 2
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+|-
+| rowspan=4 | {{flaga|Lielbritānija}} [[BMW]].[[WilliamsF1|WilliamsF1 Team]]
+! rowspan=4 | [[WilliamsF1|Williams]]
+| rowspan=4 | [[Williams FW26|FW26]]
+| rowspan=4 | [[BMW]] P84 3.0 V10 90º
+| rowspan=4 align="center" | {{Michelin}}
+| align="right" | 3
+| {{flaga|Kolumbija}} [[Huans Pablo Montoija]]
+| rowspan="4"|
+| rowspan="4" align="left" | nav
+| rowspan="4" align="left" | {{flaga|Brazīlija}} [[Antoniu Piconija]]<br />{{flaga|Spānija}} [[Marks Ženē]]
+|-
+| rowspan="3" align="right" | 4
+| {{flaga|Vācija}} [[Ralfs Šūmahers]]
+|-
+| {{flaga|Spānija}} [[Marks Ženē]]
+|-
+| {{flaga|Brazīlija}} [[Antoniu Piconija]]
+|-
+| rowspan=2 | {{flaga|Lielbritānija}} [[West]] [[McLaren]] [[Mercedes-Benz|Mercedes]]
+! rowspan=2 | [[McLaren]]
+| rowspan=2 | [[McLaren MP4-19|MP4-19]]<br />[[McLaren MP4-19|MP4-19B]]
+| rowspan=2 | [[Mercedes-Benz|Mercedes]] FO 110Q 3.0 V10 90º
+| rowspan=2 align="center" | {{Michelin}}
+| align="right" | 5
+| {{flaga|Lielbritānija}} [[Deivids Kulthārds]]
+| rowspan="2"|
+| rowspan="2" align="left" | nav
+| rowspan="2" align="left" | {{flaga|Austrija}} [[Aleksandrs Vurcs]]<br />{{flaga|Spānija}} [[Pedro de la Rosa]]
+|-
+| align="right" | 6
+| {{flaga|Somija}} [[Kimi Reikenens]]
+|-
+| rowspan=3 | {{flaga|Francija}} [[Mild Seven]] [[Renault F1|Renault F1 Team]]
+! rowspan=3 | [[Renault F1|Renault]]
+| rowspan=3 | [[Renault R24|R24]]
+| rowspan=3 | [[Renault F1|Renault]] RS24 3.0 V10 72º
+| rowspan=3 align="center" | {{Michelin}}
+| rowspan="2" align="right" | 7
+| {{flaga|Itālija}} [[Jarno Trulli]]
+| rowspan="3"|
+| rowspan="3" align="left" | nav
+| rowspan="3" align="left" | {{flaga|Francija}} [[Franks Montaņī]]
+|-
+| {{flaga|Kanāda}} [[Žaks Vilnēvs]]
+|-
+| align="right" | 8
+| {{flaga|Spānija}} [[Fernando Alonso]]
+|-
+| rowspan=2 | {{flaga|Lielbritānija}} [[Lucky Strike]] [[British American Racing|BAR]] [[Honda F1|Honda]]
+! rowspan=2 | [[British American Racing|BAR]]
+| rowspan=2 | [[BAR 006|006]]
+| rowspan=2 | [[Honda F1|Honda]] RA004E 3.0 V10 90º
+| rowspan=2 align="center" | {{Michelin}}
+| align="right" | 9
+| {{flaga|Lielbritānija}} [[Džensons Batons]]
+| rowspan="2" | 35
+| rowspan="2" align="left" | {{flaga|Lielbritānija}} [[Entonijs Deividsons]]
+| rowspan="2" align="left" | {{flaga|Lielbritānija}} [[Entonijs Deividsons]]
+|-
+| align="right" | 10
+| {{flaga|Japāna}} [[Takuma Sato]]
+|-
+| rowspan=2 | {{flaga|Šveice}} [[Sauber]] [[Petronas]]
+! rowspan=2 | [[Sauber]] 
+| rowspan=2 | [[Sauber C23|C23]]
+| rowspan=2 | [[Petronas]] 04A 3.0 V10 90º
+| rowspan=2 align="center" | {{Bridgestone}}
+| align="right" | 11
+| {{flaga|Itālija}} [[Džankarlo Fizikella]]
+| rowspan="2" |
+| rowspan="2" align="left" | nav
+| rowspan="2" align="left" | {{flaga|Šveice}} [[Nīls Jani]]
+|-
+| align="right"| 12
+| {{flaga|Brazīlija}} [[Felipe Masa]]
+|-
+| rowspan=2 | {{flaga|Lielbritānija}} [[Jaguar Racing]]
+! rowspan=2 | [[Jaguar Racing|Jaguar]]
+| rowspan=2 | [[Jaguar R5|R5]]
+| rowspan=2 | [[Cosworth]] CR-6 3.0 V10 90º
+| rowspan=2 align="center" | {{Michelin}}
+| align="right" | 14
+| {{flaga|Austrālija}} [[Marks Vebers]]
+| rowspan="2" | 37
+| rowspan="2" align="left" | {{flaga|Zviedrija}} [[Bjerns Virdheims]]
+| rowspan="2" align="left" | {{flaga|Zviedrija}} [[Bjerns Virdheims]]
+|-
+| align="right" | 15
+| {{flaga|Austrija}} [[Kristians Klīns]]
+|-
+| rowspan=4 | {{flaga|Japāna}} [[Panasonic]] [[Toyota F1|Toyota Racing]]
+! rowspan=4 | [[Toyota F1|Toyota]]
+| rowspan=4 | [[Toyota TF104|TF104]]<br />[[Toyota TF104|TF104B]]
+| rowspan=4 | [[Toyota F1|Toyota]] RVX-04 3.0 V10 90º
+| rowspan=4 align="center" | {{Michelin}}
+| rowspan="2" align="right" | 16
+| {{flaga|Brazīlija}} [[Krištianu da Mata]]
+| rowspan="4"| 38
+| rowspan="4" align="left" | {{flaga|Brazīlija}} [[Rikardu Zonta]]<br />{{flaga|Francija}} [[Raiens Brisko]]
+| rowspan="4" align="left" | {{flaga|Austrālija}} [[Raiens Brisko]]
+|-
+| {{flaga|Itālija}} [[Jarno Trulli]]
+|-
+| align="right" | 16/17
+| {{flaga|Brazīlija}} [[Rikardu Zonta]]
+|-
+| align="right" | 17
+| {{flaga|Francija}} [[Olivjē Panī]]
+|-
+| rowspan=3 | {{flaga|Īrija}} [[Jordan Grand Prix|Jordan]] [[Ford Motor Company|Ford]]
+! rowspan=3 | [[Jordan Grand Prix|Jordan]]
+| rowspan=3 | [[Jordan EJ14|EJ14]] 
+| rowspan=3 | [[Ford Motor Company|Ford]] RS2 3.0 V10
+| rowspan=3 align="center" | {{Bridgestone}}
+| align="right" | 18
+| {{flaga|Vācija}} [[Niks Heidfelds]]
+| rowspan="3" | 39
+| rowspan="3" align="left" | {{flaga|Vācija}} [[Timo Gloks]]<br />{{flaga|Nīderlande}} [[Roberts Dornboss]]
+| rowspan="3" align="left" | {{flaga|Nīderlande}} [[Roberts Dornboss]]
+|-
+| rowspan="2" align="right" | 19
+| {{flaga|Itālija}} [[Džordžo Pantano]]
+|-
+| {{flaga|Vācija}} [[Timo Gloks]]
+|-
+| rowspan=2 | {{flaga|Itālija}} [[Minardi]] [[Cosworth]]
+! rowspan=2 | [[Minardi]]
+| rowspan=2 | [[Minardi PS04|PS04B]]
+| rowspan=2 | [[Cosworth]] CR-3 L 3.0 V10 72º
+| rowspan=2 align="center" | {{Bridgestone}}
+| align="right" | 20
+| {{flaga|Itālija}} [[Džanmarija Bruni]]
+| rowspan="2" | 40
+| rowspan="2" align="left" | {{flaga|Beļģija}} [[Bass Leinderss]]
+| rowspan="2" align="left" | {{flaga|Beļģija}} [[Bass Leinderss]]<br />{{flaga|Portugāle}} [[Tiagu Monteiru]]
+|-
+| align="right" | 21
+| {{flaga|Ungārija}} [[Žolts Baumgartners]]
+|}
+
+== Kopvērtējumi un rezultāti ==
+=== Sacīkstes ===
+{| class="wikitable" style="font-size: 90%;"
+|-
+!N.
+!Sacīkste
+!Vieta
+!Datums
+!colspan="2"| Uzvarētājs
+!Pirmā starta vieta
+!Ātrākais aplis
+!Vairāk
+|-
+! 1
+| {{flaga|Austrālija}} {{f1gp|Austrālijas}}
+| [[Albertparks]]
+| [[7. marts]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Austrālijas}}
+|-
+! 2
+| {{flaga|Malaizija}} {{f1gp|Malaizijas}}
+| [[Sepanga]]
+| [[21. marts]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Kolumbija}} [[Huans Pablo Montoija]]
+| {{f1gp2|2004|Malaizijas}}
+|-
+! 3
+| {{flaga|Bahreina}} {{f1gp|Bahreinas}}
+| [[Bahreinas Starptautiskā trase]]
+| [[4. aprīlis]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Bahreinas}}
+|-
+! 4
+| {{flaga|Sanmarīno}} {{f1gp|Sanmarīno}}
+| [[Enco un Dino Ferrāri autodroms]]
+| [[25. aprīlis]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Lielbritānija}} [[Džensons Batons]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Sanmarīno}}
+|-
+! 5
+| {{flaga|Spānija}} {{f1gp|Spānijas}}
+| [[Kataluņja Montmelo]]
+| [[9. maijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Spānijas}}
+|-
+! 6
+| {{flaga|Monako}} {{f1gp|Monako}}
+| [[Monako trase]]
+| [[23. maijs]]
+| {{flaga|Itālija}} [[Jarno Trulli]]
+| {{flaga|Francija}} [[Renault F1|Renault]]
+| {{flaga|Itālija}} [[Jarno Trulli]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Monako}}
+|-
+! 7
+| {{flaga|Eiropa}} {{f1gp|Eiropas}}
+| [[Nirburgringa]]
+| [[30. maijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Eiropas}}
+|-
+! 8
+| {{flaga|Kanāda}} {{f1gp|Kanādas}}
+| [[Žila Vilnēva autodroms]]
+| [[13. jūnijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Ralfs Šūmahers]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{f1gp2|2004|Kanādas}}
+|-
+! 9
+| {{flaga|ASV}} {{f1gp|ASV}}
+| [[Indianapolisas trase]]
+| [[20. jūnijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{f1gp2|2004|ASV}}
+|-
+! 10
+| {{flaga|Francija}} {{f1gp|Francijas}}
+| [[Maņikūra]]
+| [[4. jūlijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Spānija}} [[Fernando Alonso]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Francijas}}
+|-
+! 11
+| {{flaga|Lielbritānija}} {{f1gp|Lielbritānijas}}
+| [[Silverstonas trase]]
+| [[11. jūlijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Somija}} [[Kimi Reikenens]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Lielbritānijas}}
+|-
+! 12
+| {{flaga|Vācija}} {{f1gp|Vācijas}}
+| [[Hokenheima]]
+| [[25. jūlijs]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Somija}} [[Kimi Reikenens]]
+| {{f1gp2|2004|Vācijas}}
+|-
+! 13
+| {{flaga|Ungārija}} {{f1gp|Ungārijas}}
+| [[Hungaroringa]]
+| [[15. augusts]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Ungārijas}}
+|-
+! 14
+| {{flaga|Beļģija}} {{f1gp|Beļģijas}}
+| [[Spā-Frankošampa]]
+| [[29. augusts]]
+| {{flaga|Somija}} [[Kimi Reikenens]]
+| {{flaga|Lielbritānija}} [[McLaren|McLaren Mercedes]]
+| {{flaga|Itālija}} [[Jarno Trulli]]
+| {{flaga|Somija}} [[Kimi Reikenens]]
+| {{f1gp2|2004|Beļģijas}}
+|-
+! 15
+| {{flaga|Itālija}} {{f1gp|Itālijas}}
+| [[Moncas autodroms]]
+| [[12. septembris]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{f1gp2|2004|Itālijas}}
+|-
+! 16
+| {{flaga|Ķīna}} {{f1gp|Ķīnas}}
+| [[Šanhajas trase]]
+| [[26. septembris]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{f1gp2|2004|Ķīnas}}
+|-
+! 17
+| {{flaga|Japāna}} {{f1gp|Japānas}}
+| [[Sudzuka]]
+| [[10. oktobris]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{f1gp2|2004|Japānas}}
+|-
+! 18
+| {{flaga|Brazīlija}} {{f1gp|Brazīlijas}}
+| [[Interlaguša]]
+| [[24. oktobris]]
+| {{flaga|Kolumbija}} [[Huans Pablo Montoija]]
+| {{flaga|Lielbritānija}} [[WilliamsF1|Williams BMW]]
+| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+| {{flaga|Kolumbija}} [[Huans Pablo Montoija]]
+| {{f1gp2|2004|Brazīlijas}}
+|}
+
+=== Pilotu kopvērtējums ===
+{|
+|
+{| class="wikitable" style="font-size: 85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Vieta
+!valign="middle"| Pilots
+! [[2004. gada Austrālijas Grand Prix|AUS]]<br />{{flaga|Austrālija}}
+! [[2004. gada Malaizijas Grand Prix|MAL]]<br />{{flaga|Malaizija}}
+! [[2004. gada Bahreinas Grand Prix|BHR]]<br />{{flaga|Bahreina}}
+! [[2004. gada Sanmarīno Grand Prix|SMR]]<br />{{flaga|Sanmarīno}}
+! [[2004. gada Spānijas Grand Prix|ESP]]<br />{{flaga|Spānija}}
+! [[2004. gada Monako Grand Prix|MON]]<br />{{flaga|Monako}}
+! [[2004. gada Eiropas Grand Prix|EUR]]<br />{{flaga|Vācija}}
+! [[2004. gada Kanādas Grand Prix|CAN]]<br />{{flaga|Kanāda}}
+! [[2004. gada ASV Grand Prix|USA]]<br />{{flaga|ASV}}
+! [[2004. gada Francijas Grand Prix|FRA]]<br />{{flaga|Francija}}
+! [[2004. gada Lielbritānijas Grand Prix|GBR]]<br />{{flaga|Lielbritānija}}
+! [[2004. gada Vācijas Grand Prix|GER]]<br />{{flaga|Vācija}}
+! [[2004. gada Ungārijas Grand Prix|HUN]]<br />{{flaga|Ungārija}}
+! [[2004. gada Beļģijas Grand Prix|BEL]]<br />{{flaga|Beļģija}}
+! [[2004. gada Itālijas Grand Prix|ITA]]<br />{{flaga|Itālija}}
+! [[2004. gada Ķīnas Grand Prix|CHN]]<br />{{flaga|Ķīna}}
+! [[2004. gada Japānas Grand Prix|JPN]]<br />{{flaga|Japāna}}
+! [[2004. gada Brazīlijas Grand Prix|BRA]]<br />{{flaga|Brazīlija}}
+!valign="middle"| [[F1 punktu skaitīšanas sistēmu saraksts|Punkti]]
+|-
+! 1
+|align="left"| {{flaga|Vācija}} [[Mihaels Šūmahers]]
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#FFFFBF"| ''1''
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#EFCFFF"|''Izst''
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#FFFFBF"| 1
+|bgcolor="#FFFFBF"| 1
+|bgcolor="#FFFFBF"| ''1''
+|bgcolor="#FFFFBF"| ''1''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#CFCFFF"| ''12''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| 7
+|align="right"| '''148'''
+|-
+! 2
+|align="left"| {{flaga|Brazīlija}} [[Rubenšs Barikello]]
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFDFDF"| ''2''
+|bgcolor="#DFDFDF"| '''''2'''''
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFFFBF"| '''''1'''''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#EFCFFF"|''Izst''
+|bgcolor="#FFDF9F"| '''3'''
+|align="right"| '''114'''
+|-
+! 3
+|align="left"| {{flaga|Lielbritānija}} [[Džensons Batons]]
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#EFCFFF"|Izst
+|align="right"| '''85'''
+|-
+! 4
+|align="left"| {{flaga|Spānija}} [[Fernando Alonso]]
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 4
+|align="right"| '''59'''
+|-
+! 5
+|align="left"| {{flaga|Kolumbija}} [[Huans Pablo Montoija]]
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFDFDF"| ''2''
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#FFFFBF"| ''1''
+|align="right"| '''58'''
+|-
+! 6
+|align="left"| {{flaga|Itālija}} [[Jarno Trulli]]
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| '''9'''
+|bgcolor="#CFCFFF"| 10
+|
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 12
+|align="right"| '''46'''
+|-
+! 7
+|align="left"| {{flaga|Somija}} [[Kimi Reikenens]]
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#EFCFFF"|''Izst''
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#FFFFBF"| ''1''
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFDFDF"| 2
+|align="right"| '''45'''
+|-
+! 8
+|align="left"| {{flaga|Japāna}} [[Takuma Sato]]
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 15<sup>†</sup>
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#CFCFFF"| 16<sup>†</sup>
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 6
+|align="right"| '''34'''
+|-
+! 9
+|align="left"| {{flaga|Vācija}} [[Ralfs Šūmahers]]
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#CFCFFF"| 10<sup>†</sup>
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#000000" style="color: white"| '''DK'''
+|bgcolor="#EFCFFF"|Izst
+|
+|
+|
+|
+|
+|
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFDFDF"| 2
+|bgcolor="#DFFFDF"| 5
+|align="right"| '''24'''
+|-
+! 10
+|align="left"| {{flaga|Lielbritānija}} [[Deivids Kulthārds]]
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 11
+|align="right"| '''24'''
+|-
+! 11
+|align="left"| {{flaga|Itālija}} [[Džankarlo Fizikella]]
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#CFCFFF"| 9<sup>†</sup>
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 9
+|align="right"| '''22'''
+|-
+! 12
+|align="left"| {{flaga|Brazīlija}} [[Felipe Masa]]
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 8
+|align="right"| '''12'''
+|-
+! 13
+|align="left"| {{flaga|Austrālija}} [[Marks Vebers]]
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|align="right"| '''7'''
+|-
+! 14
+|align="left"| {{flaga|Francija}} [[Olivjē Panī]]
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 14
+|
+|align="right"| '''6'''
+|-
+! 15
+|align="left"| {{flaga|Brazīlija}} [[Antoniu Piconija]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 7
+|
+|
+|
+|align="right"| '''6'''
+|-
+! 16
+|align="left"| {{flaga|Austrija}} [[Kristians Klīns]]
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 14
+|align="right"| '''3'''
+|-
+! 17
+|align="left"| {{flaga|Brazīlija}} [[Krištianu da Mata]]
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#EFCFFF"|Izst
+|
+|
+|
+|
+|
+|
+|align="right"| '''3'''
+|-
+! 18
+|align="left"| {{flaga|Vācija}} [[Niks Heidfelds]]
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#DFFFDF"| 7
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 12
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#EFCFFF"|Izst
+|align="right"| '''3'''
+|-
+! 19
+|align="left"| {{flaga|Vācija}} [[Timo Gloks]]
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#DFFFDF"| 7
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#CFCFFF"| 15
+|align="right"| '''2'''
+|-
+! 20
+|align="left"| {{flaga|Ungārija}} [[Žolts Baumgartners]]
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 9
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#DFFFDF"| 8
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 16
+|align="right"| '''1'''
+|-
+! 21
+|align="left"| {{flaga|Kanāda}} [[Žaks Vilnēvs]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 10
+|align="right"| '''0'''
+|-
+! 22
+|align="left"| {{flaga|Brazīlija}} [[Rikardu Zonta]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 10<sup>†</sup>
+|bgcolor="#CFCFFF"| 11
+|bgcolor="#EFCFFF"|Izst
+|
+|bgcolor="#CFCFFF"| 13
+|align="right"| '''0'''
+|-
+! 23
+|align="left"| {{flaga|Spānija}} [[Marks Ženē]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#CFCFFF"| 12
+|
+|
+|
+|
+|
+|
+|
+|align="right"| '''0'''
+|-
+! 24
+|align="left"| {{flaga|Itālija}} [[Džordžo Pantano]]
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 13
+|
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 17
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|
+|
+|
+|align="right"| '''0'''
+|-
+! 25
+|align="left"| {{flaga|Itālija}} [[Džanmarija Bruni]]
+|bgcolor="#cfcfff"| NC
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#CFCFFF"| 17
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 18<sup>†</sup>
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#CFCFFF"| 17
+|bgcolor="#CFCFFF"| 14
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#EFCFFF"|Izst
+|bgcolor="#CFCFFF"| 16
+|bgcolor="#CFCFFF"| 17
+|align="right"| '''0'''
+|- valign="top"
+!valign="middle"| Vieta
+!valign="middle"| Pilots
+! [[2004. gada Austrālijas Grand Prix|AUS]]<br />{{flaga|Austrālija}}
+! [[2004. gada Malaizijas Grand Prix|MAL]]<br />{{flaga|Malaizija}}
+! [[2004. gada Bahreinas Grand Prix|BHR]]<br />{{flaga|Bahreina}}
+! [[2004. gada Sanmarīno Grand Prix|SMR]]<br />{{flaga|Sanmarīno}}
+! [[2004. gada Spānijas Grand Prix|ESP]]<br />{{flaga|Spānija}}
+! [[2004. gada Monako Grand Prix|MON]]<br />{{flaga|Monako}}
+! [[2004. gada Eiropas Grand Prix|EUR]]<br />{{flaga|Vācija}}
+! [[2004. gada Kanādas Grand Prix|CAN]]<br />{{flaga|Kanāda}}
+! [[2004. gada ASV Grand Prix|USA]]<br />{{flaga|ASV}}
+! [[2004. gada Francijas Grand Prix|FRA]]<br />{{flaga|Francija}}
+! [[2004. gada Lielbritānijas Grand Prix|GBR]]<br />{{flaga|Lielbritānija}}
+! [[2004. gada Vācijas Grand Prix|GER]]<br />{{flaga|Vācija}}
+! [[2004. gada Ungārijas Grand Prix|HUN]]<br />{{flaga|Ungārija}}
+! [[2004. gada Beļģijas Grand Prix|BEL]]<br />{{flaga|Beļģija}}
+! [[2004. gada Itālijas Grand Prix|ITA]]<br />{{flaga|Itālija}}
+! [[2004. gada Ķīnas Grand Prix|CHN]]<br />{{flaga|Ķīna}}
+! [[2004. gada Japānas Grand Prix|JPN]]<br />{{flaga|Japāna}}
+! [[2004. gada Brazīlijas Grand Prix|BRA]]<br />{{flaga|Brazīlija}}
+!valign="middle"| [[F1 punktu skaitīšanas sistēmu saraksts|Punkti]]
+|}
+|valign="top"|
+{{F1 rezultati tabula}}
+<span style="font-size:85%">'''Treknināti'''&nbsp;– ''Pole position''<br />
+''Slīprakstā''&nbsp;– Ātrākais aplis</span>
+|}
+<sup>†</sup> Braucējs nefinišēja, bet tiek klasificēts jo paveica vismaz 90% distances.
+
+=== Komandu kopvērtējums ===
+{|
+|- valign="top"
+|
+{| class="wikitable" style="font-size:85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Vieta
+!valign="middle"| Komanda
+!valign="middle"| Nr.
+! [[2004. gada Austrālijas Grand Prix|AUS]]<br />{{flaga|Austrālija}}
+! [[2004. gada Malaizijas Grand Prix|MAL]]<br />{{flaga|Malaizija}}
+! [[2004. gada Bahreinas Grand Prix|BHR]]<br />{{flaga|Bahreina}}
+! [[2004. gada Sanmarīno Grand Prix|SMR]]<br />{{flaga|Sanmarīno}}
+! [[2004. gada Spānijas Grand Prix|ESP]]<br />{{flaga|Spānija}}
+! [[2004. gada Monako Grand Prix|MON]]<br />{{flaga|Monako}}
+! [[2004. gada Eiropas Grand Prix|EUR]]<br />{{flaga|Vācija}}
+! [[2004. gada Kanādas Grand Prix|CAN]]<br />{{flaga|Kanāda}}
+! [[2004. gada ASV Grand Prix|USA]]<br />{{flaga|ASV}}
+! [[2004. gada Francijas Grand Prix|FRA]]<br />{{flaga|Francija}}
+! [[2004. gada Lielbritānijas Grand Prix|GBR]]<br />{{flaga|Lielbritānija}}
+! [[2004. gada Vācijas Grand Prix|GER]]<br />{{flaga|Vācija}}
+! [[2004. gada Ungārijas Grand Prix|HUN]]<br />{{flaga|Ungārija}}
+! [[2004. gada Beļģijas Grand Prix|BEL]]<br />{{flaga|Beļģija}}
+! [[2004. gada Itālijas Grand Prix|ITA]]<br />{{flaga|Itālija}}
+! [[2004. gada Ķīnas Grand Prix|CHN]]<br />{{flaga|Ķīna}}
+! [[2004. gada Japānas Grand Prix|JPN]]<br />{{flaga|Japāna}}
+! [[2004. gada Brazīlijas Grand Prix|BRA]]<br />{{flaga|Brazīlija}}
+!valign="middle"| [[F1 punktu skaitīšanas sistēmu saraksts|Punkti]]
+|-
+!rowspan="2"| 1
+|rowspan=2 align="left" | {{flaga|Itālija}} [[Scuderia Ferrari|Ferrari]]
+|valign="middle"| 1
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#efcfff"|''Izst''
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| 1
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#cfcfff"| ''12''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 7
+|align="right" rowspan="2"| '''262'''
+|-
+|valign="middle"| 2
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfdfdf"| ''2''
+|bgcolor="#dfdfdf"| '''''2'''''
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffffbf"| '''''1'''''
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#efcfff"|''Izst''
+|bgcolor="#ffdf9f"| '''3'''
+|-
+!rowspan="2" | 2
+|rowspan=2 align="left" | {{flaga|Lielbritānija}} [[British American Racing|BAR Honda]]
+|valign="middle"| 9
+|bgcolor="#dfffdf"| 6
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| '''2'''
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"|Izst
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"|Ret
+|align="right" rowspan="2"| '''119'''
+|-
+|valign="middle"| 10
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#dfffdf"| 5
+|bgcolor="#cfcfff"| 16
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 6
+|-
+!rowspan="2" | 3
+|rowspan=2 align="left" | {{flaga|Francija}} [[Renault F1|Renault]]
+|valign="middle"| 7
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 5
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffffbf"| '''1'''
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| '''9'''
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 10
+|align="right" rowspan="2"| '''105'''
+|-
+|valign="middle"| 8
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 5
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfdfdf"| '''2'''
+|bgcolor="#cfcfff"| 10
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|-
+!rowspan="2" | 4
+|rowspan=2 align="left"| {{flaga|Lielbritānija}} [[WilliamsF1|Williams BMW]]
+|valign="middle"| 3
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfdfdf"| ''2''
+|bgcolor="#cfcfff"| 13
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 8
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 7
+|bgcolor="#ffffbf"| ''1''
+|align="right" rowspan="2"| '''88'''
+|-
+|valign="middle"| 4
+|bgcolor="#dfffdf"| 4
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 10
+|bgcolor="#efcfff"|Izst
+|bgcolor="#000000" style="color: white"| '''DK'''
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfdfdf"| 2
+|bgcolor="#dfffdf"| 5
+|-
+!rowspan="2" | 5
+|rowspan=2 align="left"| {{flaga|Lielbritānija}} [[McLaren|McLaren Mercedes]]
+|valign="middle"| 5
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 10
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 9
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 11
+|align="right" rowspan="2"| '''69'''
+|-
+|valign="middle"| 6
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfdfdf"| '''2'''
+|bgcolor="#efcfff"|''Izst''
+|bgcolor="#efcfff"|Izst
+|bgcolor="#ffffbf"| ''1''
+|bgcolor="#efcfff"|Izst
+|bgcolor="#ffdf9f"| 3
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfdfdf"| 2
+|-
+!rowspan="2" | 6
+|rowspan=2 align="left" | {{flaga|Šveice}} [[Sauber|Sauber Petronas]]
+|valign="middle"| 11
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 9
+|align="right" rowspan="2"| '''34'''
+|-
+|valign="middle"| 12
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 5
+|bgcolor="#cfcfff"| 9
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 4
+|bgcolor="#cfcfff"| 12
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 8
+|-
+!rowspan="2" | 7
+|rowspan=2 align="left" | {{flaga|Lielbritānija}} [[Jaguar Racing|Jaguar Cosworth]]
+|valign="middle"| 14
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 12
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 10
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 10
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|align="right" rowspan="2"| '''10'''
+|-
+|valign="middle"| 15
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 9
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 6
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 14
+|-
+!rowspan="2" | 8
+|rowspan=2 align="left"| {{flaga|Japāna}} [[Toyota F1|Toyota]]
+|valign="middle"| 16
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 10
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 6
+|bgcolor="#efcfff"|Izst
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 10
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 12
+|align="right" rowspan="2"| '''9'''
+|-
+|valign="middle"| 17
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 11
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 8
+|bgcolor="#cfcfff"| 11
+|bgcolor="#000000" style="color: white"| DK
+|bgcolor="#dfffdf"| 5
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 11
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 13
+|-
+!rowspan="2" | 9
+|rowspan=2 align="left"| {{flaga|Īrija}} [[Jordan Grand Prix|Jordan Ford]]
+|valign="middle"| 18
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#dfffdf"| 7
+|bgcolor="#cfcfff"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 12
+|bgcolor="#cfcfff"| 11
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 13
+|bgcolor="#efcfff"|Izst
+|align="right" rowspan="2"| '''5'''
+|-
+|valign="middle"| 19
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 13
+|bgcolor="#cfcfff"| 16
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 13
+|bgcolor="#dfffdf"| 7
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 17
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 15
+|-
+!rowspan="2" | 10
+|rowspan=2 align="left"| {{flaga|Itālija}} [[Minardi|Minardi Cosworth]]
+|valign="middle"| 20
+|bgcolor="#cfcfff"| NC
+|bgcolor="#cfcfff"| 14
+|bgcolor="#cfcfff"| 17
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 18
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|bgcolor="#cfcfff"| 14
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 17
+|align="right" rowspan="2"| '''1'''
+|-
+|valign="middle"| 21
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 16
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 9
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#efcfff"|Izst
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 16
+|bgcolor="#cfcfff"| 15
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 15
+|bgcolor="#cfcfff"| 16
+|bgcolor="#efcfff"|Izst
+|bgcolor="#cfcfff"| 16
+|- valign="top"
+!valign="middle"| Vieta
+!valign="middle"| Komanda
+!valign="middle"| Nr.
+! [[2004. gada Austrālijas Grand Prix|AUS]]<br />{{flaga|Austrālija}}
+! [[2004. gada Malaizijas Grand Prix|MAL]]<br />{{flaga|Malaizija}}
+! [[2004. gada Bahreinas Grand Prix|BHR]]<br />{{flaga|Bahreina}}
+! [[2004. gada Sanmarīno Grand Prix|SMR]]<br />{{flaga|Sanmarīno}}
+! [[2004. gada Spānijas Grand Prix|ESP]]<br />{{flaga|Spānija}}
+! [[2004. gada Monako Grand Prix|MON]]<br />{{flaga|Monako}}
+! [[2004. gada Eiropas Grand Prix|EUR]]<br />{{flaga|Vācija}}
+! [[2004. gada Kanādas Grand Prix|CAN]]<br />{{flaga|Kanāda}}
+! [[2004. gada ASV Grand Prix|USA]]<br />{{flaga|ASV}}
+! [[2004. gada Francijas Grand Prix|FRA]]<br />{{flaga|Francija}}
+! [[2004. gada Lielbritānijas Grand Prix|GBR]]<br />{{flaga|Lielbritānija}}
+! [[2004. gada Vācijas Grand Prix|GER]]<br />{{flaga|Vācija}}
+! [[2004. gada Ungārijas Grand Prix|HUN]]<br />{{flaga|Ungārija}}
+! [[2004. gada Beļģijas Grand Prix|BEL]]<br />{{flaga|Beļģija}}
+! [[2004. gada Itālijas Grand Prix|ITA]]<br />{{flaga|Itālija}}
+! [[2004. gada Ķīnas Grand Prix|CHN]]<br />{{flaga|Ķīna}}
+! [[2004. gada Japānas Grand Prix|JPN]]<br />{{flaga|Japāna}}
+! [[2004. gada Brazīlijas Grand Prix|BRA]]<br />{{flaga|Brazīlija}}
+!valign="middle"| [[F1 punktu skaitīšanas sistēmu saraksts|Punkti]]
+|}
+|valign="top"|
+{{F1 rezultati tabula}}
+|}
+
+{{F1 sezonas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:2004. gads sportā]]
+[[Kategorija:Formula 1 sezonas]]

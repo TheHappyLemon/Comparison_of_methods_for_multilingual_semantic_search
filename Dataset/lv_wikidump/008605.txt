@@ -1,0 +1,52 @@
+{{Jūras infokaste
+|jūra=Moluku jūra
+|attēls=MolukuJura.JPG
+|attēls_izm    = 300
+ |vietaskarte  = Indonēzija
+ |latd = 0 |latm = 30 |lats =  |latNS = S
+ |longd = 125 |longm = 30 |longs =  |longEW = E
+ |paraksta_izvietojums = top
+ |alt_karte    = Indonesia relief location map.jpg
+| okeāns       = Klusais okeāns
+|platība       = 291 000
+|garums=
+|platums=
+|Max_dziļums   = 4180
+|temperatūra   = 27—28
+|sāļums        = 34
+|valstis={{IDN}}
+|pilsētas=[[Gorontalo]]
+}}
+'''Moluku jūra''' ({{val|id|Laut Maluku}}) ir [[Klusais okeāns|Klusajam okeānam]] piederīga [[iekšējā jūra]] starp [[Indonēzija]]s salām.<ref>{{PZT|487}}</ref>
+
+== Ģeoloģija ==
+Moluku jūras platība laika gaitā samazinās — šeit atrodas divas viena otrai pretī novietotas [[subdukcijas zona]]s, kuras daļēji jau saduras. Pati Moluku jūra atrodas uz [[Moluku plātne]]s, rietumos atrodas [[Singihes plātne]] bet austrumos — [[Halmaheras plātne]].<ref>[http://adsabs.harvard.edu/abs/2003EAEJA....10849W Lithospheric structure and geodynamic evolution of the northern Molucca Sea area constrained by 3-D gravity field inversion of a combined sea-surface and satellite gravity dataset] Widiwijayanti, C.; Tiberi, C.; Diament, M.; Deplus, C.; Mikhailov, V.; Louat, R.; Tikhotsky, S.; Gvishiani, A. 2003</ref><ref>[http://volcano.und.edu/vwdocs/volc_images/southeast_asia/indonesia/tectonics.html Tectonics of Indonesia]</ref>
+Moluku jūra atrodas [[seismoloģija|seismiski]] aktīvā zonā un šeit bieži notiek [[zemestrīce]]s. Nesenas zemestrīces Moluku jūrā:
+* [[2005. gads|2005]]. gada [[21. decembris|21. decembrī]] - 6,3 balles pēc [[Rihtera skala]]s;
+* [[2006. gads|2006]]. gada [[16. maijs]] - 5,4 balles
+* 2006. gada [[19. maijs]] - 6,1 balles
+* 2006. gada [[14. jūnijs]] - 5,5 balles
+
+== Robežas ==
+Dienvidos robežojas ar [[Bandas jūra|Bandas jūru]], ziemeļos — ar [[Sulavesi jūra|Sulavesi jūru]], dienvidaustrumos — ar [[Seramas jūra|Seramas jūru]], bet ziemeļaustrumos ap {{nobr|240 km}} platais [[Moluku šaurums]] savieno ar [[Klusais okeāns|Kluso okeānu]].
+
+Moluku jūra robežojas ar šādām [[sala|salām]]:
+* [[Bangaja aripelāgs]]
+* [[Moluku salas]]
+** [[Halmahera]]
+** [[Obi]]
+* [[Sulas salas]]
+* [[Sulavesi]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Klusā okeāna jūras}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Jūras]]
+[[Kategorija:Indonēzijas jūras]]

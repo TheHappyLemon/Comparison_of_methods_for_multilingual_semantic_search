@@ -1,0 +1,16 @@
+'''Džouls''' (simbols '''J''', arī saukts par '''ņūtonmetru''' vai '''vatsekundi''') ir [[darbs (fizika)|darba]], [[enerģija]]s un [[siltums|siltuma daudzuma]] mērvienība [[Starptautiskā mērvienību sistēma|SI]]. Tā ir šādi nosaukta par godu angļu fiziķim [[Džeimss Preskots Džouls|Džeimsam Preskotam Džoulam]].
+
+1 džouls ir darbs, ko 1 [[ņūtons|ņūtonu]] liels spēks veic 1 [[metrs|metru]] garā ceļa posmā.
+
+<math>1J=1N \cdot 1m</math>
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{SI}}
+
+[[Kategorija:Enerģijas mērvienības]]
+
+
+{{kfstub}}

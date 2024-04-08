@@ -1,0 +1,21 @@
+{{nosaukums slīprakstā}}
+'''''BitTorrent''''' ir [[vienādranga tīkls|vienādranga]] failu izplatīšanas [[protokols (datorikā)|protokols]], kā arī [[brīvprogramma]], kas realizē šo protokolu. Protokolu sākotnēji izstrādāja programmētājs [[Brems Kohens]], bet nu to uztur ''[[BitTorrent Inc.]]'' ''BitTorrent'' tika izstrādāts lai lielam cilvēku lokam varētu izplatīt lielus datu apjomos, neskatoties uz servera jaudas un Interneta pieslēguma joslas platuma ierobežojumiem. Pēc atsevišķu pētījumu datiem, ''BitTorrent'' šobrīd sastāda aptuveni 35 procentus no visas datu plūsmas Internetā.
+
+== Protokola darbības princips ==
+[[Attēls:Torrentcomp small.gif|thumb|334px|right|Krāsainie punkti attēlo pārsūtāmā faila gabalus]]
+Pirms lejupielādes uzsākšanas klients pieslēdzas ''BitTorrent'' trakerim (lietojot [[HTTP]] protokolu) un no tā iegūst visu citu klientu, kuriem ir vajadzīgais fails vai tā daļas, IP adreses. Pēc tam jau klienti slēdzas viens pie otra (izmantojot [[TCP]] vai [[UDP]] protokolus) un apmainās ar trūkstošajām faila daļām bez trakera līdzdalības. Efektīvai ''BitTorrent'' tīkla darbībai ir nepieciešams, lai pēc iespējas lielākam skaitam klientu būtu atļauti ienākošie savienojumi (kurus bieži vien bloķē [[ugunsmūris (datorikā)|ugunsmūris]]).
+
+Sākumā tiek izveidots pārsūtāmā faila (vai failu) apraksta (metadatu) fails. Pārsūtāmos datus sadala fiksēta izmēra (32KiB līdz 4MiB) gabalos, kur katram no šiem gabaliem aprēķina [[kontrolsumma|kontrolsummu]] (izmantojot [[jaucējfunkcija|jaucējfunkciju]]). Lielus gabala izmēru lieto, ja ir jāpārsūta ļoti lieli faili, jo tad var samazināt metadatu faila izmērus, vai arī ja lieto ļoti ātru datortīklu, kur samazināta procesora noslodze ir svarīgāka par atsevišķu bojātu gabalu pārsūtīšanu. Metadatu (jeb .torrent fails, pēc izplatītākā faila paplašinājuma) fails satur visu pārsūtāmā faila gabalu kontrolsummas (un gabala sākuma attālumu no faila sākuma). Ja ir jāpārsūta vairākus failus, tad izveidojot .torrent failu tos apstrādā kā vienu lielu failu (šādā veidā vairāki mazi faili var būt daļa no viena gabala). Metadatu fails satur arī pārsūtāmā faila vārdu un trakera adresi. Visiem lietotājiem, kas lejuplādē vai augšuplādē kādā metadatu failā aprakstītos datus ir jābūt pieejamam attiecīgajam metadatu (.torrent) failam. Šos failus parasti izplata attiecīgo trakeru mājaslapās, lai arī ir iespējamas citas metodes.
+
+== Skatīt arī ==
+* [[QBittorrent]]
+* [[μTorrent]]
+
+== Ārējās saites ==
+* [http://www.bittorrent.com/ BitTorrent Inc. mājaslapa]
+* [https://web.archive.org/web/20061004225232/http://www.bittorrent.org/protocol.html BitTorrent specifikācija]
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Failu apmaiņas programmatūra]]
+[[Kategorija:Interneta protokoli]]

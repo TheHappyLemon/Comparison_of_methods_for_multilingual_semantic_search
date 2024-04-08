@@ -1,0 +1,60 @@
+{{Krievijas republikas infokaste
+| nosaukums = Saratovas apgabals 
+| karte = Russia - Saratov Oblast (2008-01).svg
+| oriģ = Саратовская область
+| karoga_attēls = Flag of Saratov Oblast.svg
+| karoga_nosaukums = Saratovas apgabala karogs
+| ģerboņa_attēls = Coat of Arms of Saratov oblast.svg
+| ģerboņa_nosaukums = Saratovas apgabala ģerbonis
+| ģerboņa_platums = 50px
+| galvaspilsēta = [[Saratova]]
+| valoda = [[krievu valoda|krievu]]
+| tautas = [[krievi]] (85,94%)
+| platība = 100 200
+| iedzīvotāji = 2 608 300
+| iedz blīvums = 26,0
+| pilsētas = 13
+| rajoni = 38
+| fedapgabals = [[Pievolgas federālais apgabals|Pievolgas]]
+| url = http://www.saratov.gov.ru/
+|ainavas_skats=-_panoramio_-_Road_Sign_Series_(8).jpg}}
+
+'''Saratovas apgabals''' ir viens no [[Krievijas Federācija]]s apgabaliem. Tas robežojas ar [[Volgogradas apgabals|Volgogradas apgabalu]] dienvidrietumos, [[Voroņežas apgabals|Voroņežas apgabalu]] rietumos, [[Tambovas apgabals|Tambovas apgabalu]] ziemeļrietumos, [[Penzas apgabals|Penzas]], [[Uļjanovskas apgabals|Uļjanovskas]] un [[Samāras apgabals|Samāras]] apgabaliem ziemeļaustrumos, [[Orenburgas apgabals|Orenburgas apgabalu]] austrumos, kā arī ar [[Kazahstāna|Kazahstānu]] dienvidos.
+
+== Pilsētas ==
+=== Uzskaitījums ===
+{{VietasKarte+|Saratovas apgabals|width=400 |float=center|caption = Saratovas apgabala pilsētu izvietojums; '''treknrakstā''' — apgabala centrs
+|places =
+{{VietasKarte~|Saratovas apgabals|lat=51.533333|long=46|position = top |label='''[[Saratova]]'''}}
+{{VietasKarte~|Saratovas apgabals|lat=51.933333|long=43.5|position = right |label=[[Arkadaka]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.866667|long=45|position = top |label=[[Atkarska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52|long=47.8|position = bottom |label=[[Balakova]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.55|long=43.166667|position = top |label=[[Balašova (pilsēta)]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.05|long=47.383333|position = top |label=[[Boļska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.35|long=48.283333|position = top |label=[[Jeršova (pilsēta)|Jeršova]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.5|long=44.45|position = top |label=[[Kaļiņinska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.016667|long=45.7|position = bottom |label=[[Krasnoarmeiska (Saratovas apgabals)|Krasnoarmeiska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=50.95|long=46.966667|position = top |label=[[Krasnikuta]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.7|long=46.75|position = top |label=[[Marksa]]}}
+{{VietasKarte~|Saratovas apgabals|lat=50.45|long=48.15|position = top |label=[[Novouzenska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.316667|long=45.383333|position = top |label=[[Petrovska (Krievija)|Petrovska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.016667|long=48.8|position = top |label=[[Pugačova (pilsēta)|Pugačova]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.25|long=43.783333|position = top |label=[[Rtiščevo]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.483333|long=48.1|position = top |label=[[Hvaļinska]]}}
+{{VietasKarte~|Saratovas apgabals|lat=52.116667|long=47.2|position = left |label=[[Šihaņi]]}}
+{{VietasKarte~|Saratovas apgabals|lat=51.466667|long=46.116667|position = right |label=[[Engelsa]]}}
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{Krievija-aizmetnis}}
+
+{{Krievijas administratīvais iedalījums}}
+{{Volgas federālais apgabals}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Krievijas Federācijas apgabali]]
+[[Kategorija:Saratovas apgabals| ]]

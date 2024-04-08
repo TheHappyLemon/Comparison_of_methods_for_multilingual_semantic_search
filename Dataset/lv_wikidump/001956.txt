@@ -1,0 +1,136 @@
+{{jāuzlabo}}
+'''Ļaunuma problēma''' [[teoloģija|teoloģijā]] un [[reliģijas filozofija|reliģijas filozofijā]] ir problēma, kuras pamatā ir grūtības savienot ļaunuma vai ciešanu esamību pasaulē ar viszinoša, visspēcīga un absolūti laba [[dievs|Dieva]] esamību.
+
+Ļaunuma problēmas pamatā ir pieņēmums, ka pilnībā labs Dievs nebūtu radījis pasauli, kurā ir ļaunums, vai arī nepieļautu ļaunuma netraucētu pastāvēšanu un ka viszinošam un visspēcīgam Dievam būtu jāspēj pārveidot pasaule atbilstoši saviem nodomiem. Tā kā ļaunums acīmredzami pastāv, var pieņemt, ka Dievs ir paredzējis tā pastāvēšanu, tāpēc vai nu nav pilnībā labs, vai arī nav pilnībā viszinošs, vai arī — visspēcīgs. Lai šo problēmu risinātu, ir precīzi jānodefinē, kas teoloģijā ir ļaunums un kāda tajā ir ļaunuma jēga, kā arī jānodefinē Dieva visspēcības, viszinības un labuma jēdzieni.
+
+Šo problēmu mēdz dēvēt arī par [[Epikūrs|Epikūra]] paradoksu vai Epikūra mīklu (lai arī tā īsti nav [[paradokss]] vai [[mīkla (uzdevums)|mīkla]], bet [[premisa|premisu]] loģiska novešana līdz absurdam iznākumam, tā pierādot sākotnējās premisas nepatiesumu), jo uzskata, ka Epikūrs bija pirmais, kurš ar to nodarbojās. Epikūrs secināja, ka ļaunuma esamība nav savienojama ar dievu esamību.
+
+== Ateologu formulējums ==
+
+XX gs. ateologi<ref>Ateoloģija: a) pretestība vai nepatika pret teoloģiju [https://www.collinsdictionary.com/dictionary/english/atheology Collins English Dictionary. ''Atheology.'']; b) domāšanas veids, kurā Dievs uzskatāms par “lietu”. [https://dspace.lu.lv/dspace/bitstream/handle/7/31048/Cels-63.pdf?sequence=1&isAllowed=y Jansone I. ''Mirušais Dievs kā zombijs: brīva interpretācija par metaforu'' // Ceļš. Nr.63.]</ref>, piemēram, J. L. Makijs un H. Dž. Maklouskijs (''J. L. Mackie, H. J. McCloskey'') formulēja ļaunuma loģisko problēmu, izdarot hipotēzi, ka nevar būt vienlaikus patiesi visi četri apgalvojumi:
+
+1. Dievs ir visvarens.
+
+2. Dievs ir viszinošs.
+
+3. Dievs ir pilnīgi labs.
+
+4. Ļaunums pastāv.<ref name="iep.utm.edu">{{Tīmekļa atsauce|url=https://www.iep.utm.edu/evil-log/|title=Logical Problem of Evil|last=BEEBE J. R.|first=|access-date=|date=}}</ref>
+
+Līdz ar to tiek izdarīts secinājums, ka ļaunuma pastāvēšanas gadījumā, ko ir neiespējami noliegt, kāda no Dieva būtiskajām īpašībām Dievam nepiemīt, jo, ja Dievs ir visvarens Viņam jāspēj novērst ciešanas, ja viszinošs — jāzina par tām un arī par iespēju, kā tās novērst, savukārt, ja pilnīgi labs — Viņam būtu jāvēlas novērst visas pasaules ciešanas un ļaunums. Ja Dievs zina par visu ļaunumu un ciešanām, zina, kā to novērst, var to novērst, bet to nedara, Viņš nav pilnīgi labs. Ja zina, kā un vēlas novērst, bet nenovērš — nav visvarens, bet, ja ir pietiekami spēcīgs, lai novērstu visas ciešanas un ļaunumu un to vēlas, bet to nedara — nav viszinošs. Tā kā apgalvojumu kopums ir loģiski konsekvents tad un tikai tad, ja ir iespējams, ka visi tie varētu būt patiesi vienlaikus, ateologi konstatē loģisku pretrunu. Teistu ticība tādējādi tiek atzīta par iracionālu, ateologiem apgalvojot, ka teisti kā pamatpatiesības atzīst iekšēji nekonsekventu uzskatu kopumu, jo nav loģiski iespējama Dieva un ļaunuma līdzāspastāvēšana.<ref name="iep.utm.edu"/>
+
+Tomēr ateologu secinājums, ka uzskaitītie apgalvojumi ir loģiski nekonsekventi, ir pārāk stingrs, jo loģiskā konsekvence vien pieprasa, lai apgalvojumi varētu vienlaikus būt patiesi, pat ja šāda iespēja netiktu aktualizēta, līdz ar to aizstāvībai būtu “pietiekami” runāt par to, kas “varētu būt patiesība”.<ref name="iep.utm.edu"/>
+
+Atbildot uz izvirzīto tēzi, teisti ierosina, ka Dievam ir iemesls pieļaut ciešanas un ļaunumu. Arī cilvēku savstarpējās attiecībās varam attaisnot un piedot viņu izturēšanos, kaut tā izraisa ciešanas, ja tam ir morāli pietiekami pamatoti iemesli. Spriežot par iespējamiem morāli attaisnojamiem ļaunuma pieļaušanas iemesliem, kā piemēru var minēt vecāku-bērnu attiecības. Kaut arī ''a apriori'' vecākiem nevajadzētu radīt sāpes saviem bērniem, vecākiem ir jāļauj veikt sāpīgas medicīniskas procedūras, jo tās, kaut arī nepatīkamas, nāk viņiem par labu.<ref name="iep.utm.edu"/>
+
+== Ļaunuma loģiskās problēmas izvedums == 
+
+1. Dievs ir visvarens.
+
+2. Dievs ir viszinošs.
+
+3. Dievs ir pilnīgi labs.
+
+4. Ļaunums eksistē.
+
+5. Apgalvojumu kopums ir loģiski nekonsekvents tikai tad, ja:
+
+a) tajā ir tieša pretruna formā ”p & ne-p”; vai
+
+b) no šī kopuma var secināt tiešu pretrunu.
+
+6. Ja Dievs ir visvarens, Viņam jāspēj novērst ļaunums un ciešanas.
+
+7. Ja Dievs ir viszinošs, viņam jāzina par ciešanām un kā tās mazināt vai novērst.
+
+8. Ja Dievs ir pilnīgi labs, tam būtu jāvēlas novērst visas pasaules ciešanas un ļaunumu.
+
+9. Ja Dievs zina par visu ļaunumu un ciešanām, zina, kā to novērst, var to novērst, bet to nedara, Viņš nav pilnīgi labs.
+
+10. Ja Dievs zina par visu ļaunumu un ciešanām un zina, kā to novērst un vēlas novērst, bet nenovērš, Viņš nav visvarens.
+
+11. Ja Dievs ir pietiekami spēcīgs, lai novērstu visas ciešanas un ļaunumu un to vēlas, bet to nedara, Viņš nav viszinošs.
+
+12. Ja ļaunums un ciešanas pastāv Dievs, vai nu nav visvarens, viszinošs vai pilnīgi labs.
+
+13. Tā kā ļaunums un ciešanas acīmredzami pastāv, Dievs nav vai nu visvarens, viszinošs vai pilnīgi labs.
+
+14. Klasiskais teisms apgalvo, ka Dievs ir visvarens, viszinošs un pilnīgi labs.
+
+15. Apgalvojumu kopums ir loģiski konsekvents tad un tikai tad, ja ir iespējams, ka visi tie varētu būt patiesi vienlaikus.
+
+16. Nav iespējama Dieva un ļaunuma līdzāspastāvēšana.
+
+Teisti turpina izvērst premisas, lai saprastu, vai obligāti konstatējama loģiska pretruna:
+
+17. Ir iespējams, ka Dievam ir morāli pietiekami (''sufficient'') iemesli, lai pieļautu ļaunumu.
+
+Ja Dievam ir morāli pamatots/pietiekams iemesls, lai pieļautu ļaunumu, tad ir iespējama visvarena, viszinoša un pilnīgi laba Dieva un ļaunuma līdzāspastāvēšana.
+
+Lai 17. apgalvojums būtu patiess, jāpārveido 9.—12. apgalvojums, tiem nobeigumā pievienojot: ja vien Viņam nav morāli pamatots iemesls, lai pieļautu ļaunumu. Līdz ar to no 9.—12. apgalvojuma nevar izsecināt, ka Dievs nepastāv un nevar izdarīt arī 13. apgalvojumu. Līdz ar to daži teisti uzskata, ka īstais ļaunuma loģiskās problēmas jautājums ir, vai 17. apgalvojums ir patiess.
+
+18. Tas ir morāli attaisnojams, ka Dievs pieļauj ļaunumu un ciešanas, ja vien viņam ir morāli pietiekami iemesli tā darīt.
+
+Daudzi filozofi piekrīt, ka šāds apgalvojums ir patiess, jo
+
+19. Tas, ka Dievs pieļauj ciešanas bez pietiekama pamata to darīt, nav morāli attaisnojams.
+
+un
+
+20. Ja Dievs dara kaut ko morāli neatbilstošu vai vainojamu, tad Dievs nav pilnīgi labs.
+
+Spriežot par iespējamiem morāli attaisnojamiem ļaunuma pieļaušanas iemesliem, kā piemēru var minēt virszemes vecāku-bērnu attiecības.
+
+21. Vecākiem nevajadzētu radīt nevēlamas sāpes saviem bērniem.
+
+Tomēr vecākam ir jāļauj izdarīt sāpīgu vakcīnu savam bērnam viņa ilgtermiņa veselības nodrošināšanas labad (lai tas iegūtu imunitāti pret konkrētu dzīvībai bīstamu saslimšanu).<ref name="iep.utm.edu"/>
+
+== Alvina Plantingas brīvās gribas aizstāvība ==
+
+Uz jautājumu, ja Dievs ir visvarens, kādēļ viņš neradīja cilvēkus ar brīvo gribu, vienlaicīgi arī nepieļaujot ļaunumu pasaulē, jo tas taču būtu vēlamāk nekā cilvēki ar brīvo gribu un ar iespēju darīt ļaunu, Plantinga atbild, ka Dievs nevar darboties neloģiski. Lai paskaidrotu savu ideju, viņš sniedz piemērus dažādiem iespējamiem pasauļu modeļiem, kurās modelētas dažādas situācijas attiecībā uz brīvo gribu un iespēju izvēlēties arī ļaunumu, tādējādi ilustrējot, ka daži no iespējamiem modeļiem (kombinācijām)<ref>Saskaņā ar Baznīcas mācību Dievs, brīvi izvēlēdamies vienu no daudzām iespējamām pasaulēm, savai visspēcībai devis vienu noteiktu virzienu — visu Viņa darbību izvēlētās pasaules robežās veic Viņa šai pasaulei piemērotā vara — ''potentia ordinata'', aiz kuras stāv absolūtā vara — ''potentia absoluta''. Sk.: Cirsis P. ''Dogmu Dievs''. I Grāmata. Melburna: Latviešu Katoļu biedrības Austrālijā grāmatu fonds, 1965, I Grāmata, 57.lpp.</ref> ir neloģiski. Tā, piemēram, loģikai neatbilst pasaules modelis (W3), kurā cilvēkam ir brīva griba, tomēr viņš nevar izvēlēties nepareizo un ļauno. Tātad, Dievs var piespiedu kārtā novērst ļaunumu un ciešanas tikai uz brīvas gribas atcelšanas rēķina. Tādā gadījumā gan cilvēks darbotos kā ieprogrammēts robots un viņa rīcībai nebūtu nekādu morālisku nopelnu<ref>Šeit svarīgi nošķirt — brīvība plašākā nozīmē (kā spēja ''izdarīt izvēles'') neprasa brīvību šaurākā nozīmē — spēju ''veikt morālas izvēles''. Tomēr Dievs vēlās ''labuma pārpilnību'', nevis tikai ''labu pasauli''. Un tādai pasaulei vajadzīgs kas vairāk nekā tikai vispārēja brīvība, tā prasa morālu brīvību, un tas obligāti nozīmē arī ļaunuma iespējamību. Sk.: Cirsis P. ''op. cit.''</ref>, bet, izslēdzot morālā labuma iespēju, tiktu liegts kāds lielāks labums.<ref name="iep.utm.edu"/>
+
+Daži autori uzskata, ka Plantinga ar apgalvojumu par to, ka Dievu ierobežo loģikas likumi, t.i., ka Viņš “nevar” darīt absurdas lietas, ierobežo Dieva visvarenību. Tomēr tas arī saskaņā ortodoksālo teismu nerada pretrunu ar Dieva visvarenību. Jo, kaut Dievs ir bezgalīgs katra veida pilnībā<ref>Cirsis P. ''op. cit.'', 43.lpp</ref>, jau svētais Anzelms apgalvoja — tas, ka Dievs nevar melot, mānīt, zagt, būt negodīgs un skaudīgs, kļūdīties, neeksistēt u.tml. neatklāj Dieva vājumu, bet gan viņa pārākumu un unikalitāti, jo šīs “nespējas” apvienojumā ar viszinību, apredzību un visgudrību norāda uz Viņa visvarenību. Plantinga šīs klasiskās teoloģijas Dieva “nespējas” papildina ar vēl divām:
+
+1) Dievs nespēj nonākt pretrunā pats ar sevi,
+
+2) Dievs nespēj radīt ievērojami brīvas radības un cēloņsakarīgi noteikt, ka tās vienmēr izvēlēsies to, kas ir pareizi, un izvairīsies no tā, kas ir nepareizs.<ref>Beebe J.R., ''op. cit.''</ref>
+
+== Brīvā griba un fiziskais ļaunums ==
+
+Plantingas teorijai varētu iebilst, ka ar šo teoriju netiek skaidrots, kādēļ Dievs pieļauj ļaunumu, kas pasaulē nerodas tiešas cilvēku brīvās gribas izmantošanas rezultātā, piemēram, slimības, bads, dabas katastrofas u.tml.
+
+Piemēram, C. S. Luiss (''Clive Staples Lewis'') norāda, ka brīvās gribas nepareiza izmantošana rada lielāko daļu ļaunuma. Pēc Luisa domām ~4/5 no ļaunuma rodas cilvēka darbības dēļ. Dž. Hiks (''John Hick'') aicina cilvēka brīvās gribas izvēļu sekas skatīt plašāk, piemēram, kādas sekas tas atstāj uz klimata pārmaiņām un apkārtējo vidi, kas, savukārt, tieši vai netieši ietekmē ļoti plašu sabiedrību<ref>Whitney B. L. ''What Are They Saying About God and Evil?'' New York: Paulist, 1989, 134 lpp.</ref>.
+
+Tātad, praktiski visu ļaunumu rada nepareizas morālās izvēles, bet atlikusī rodas dabas likumu dēļ, kas nodrošina cilvēka dzīvošanai atbilstošus apstākļus.<ref>''Turpat'', 70 lpp.</ref> Tādējādi atkal nonākam pie Augustīna atziņas, ka viss ļaunums ir morālais, jo fiziskais ir Dieva taisnīgais sods.<ref>''Turpat'', 4.—5. lpp.</ref> Interpretējot šos vārdus ar “sodu” nebūtu jāsaprot vien indivīdam nepatīkamu reakciju apkārtējā vidē (kā to saprot biheiviorisma psiholoģijas izpratnē) — kā negatīva stimula parādīšanās vai kā pozitīva stimula zudums savstarpējās attiecībās “audzināšanas” nolūkā, bet plašāk — sods kā ļaušana piedzīvot savas rīcības sekas.
+
+Pats Plantinga atbildot uz jautājumu par fizisko ļaunumu skaidro, ka visa veida ļaunums pasaulē radies no morālā ļaunuma, jo arī par dabisko ļaunumu un ciešanām Radīšanas grāmata māca, ka tās ir pirmgrēka sekas. Nāve, slimības, sāpes un pat nogurdinošs darbs, nāca pasaulē Ādama un Ievas grēka tiešā rezultātā. Kaut arī šis arguments var tikt saprasts un pieņemts tikai jūdaisma vai kristietības kontekstā, tomēr, kā Plantinga pats to uzsvēra, viņa uzdevums nav pārliecināt, ka viņa izvirzītā versija ir pareiza, bet gan pierādīt, ka formāli nav loģiskas pretrunas, attiecībā uz apgalvojumu, ka Dievs un ļaunums var līdzpastāvēt.<ref name="iep.utm.edu"/>
+
+Kopumā Plantingas teorija veiksmīgi atbildēja uz XX gadsimta vidus ateologu formulēto ļaunuma loģisko problēmu, bet daudzu vilšanās par formāli korekto atbildi faktiski parādīja, ka, iespējams, pati ļaunuma loģiskā problēma nebija pietiekami pamatota.<ref name="iep.utm.edu"/>
+
+== Ļaunuma problēmas teoloģisks un terminoloģisks risinājums ==
+Ļaunuma problēma filozofijā radusies tādēļ, ka pastāv dažādas izpratnes par šīs problēmas definīcijā izmantotajiem jēdzieniem, tādēļ šo problēmu iespējams risināt terminoloģiski. Tāpēc vispirms ir jāprecizē šie pamattermini.
+
+=== Ļaunums un ļaunuma jēga teoloģijā ===
+Ar vārdu "ļauns" parasti tiek apzīmētas divu kategoriju pazīmes: dabiskais ļaunums un [[Morāle|morālais]] ļaunums. Dabiski ļauns notikums ir tāds, kas rada sāpes, ciešanas, kaitējumu, arī nelaimes un bēdas, bet nav tieši saistīts ar kāda cilvēka lēmumu vai rīcību, savukārt morālais ļaunums ir naidīga, nežēlīga, nekrietna, arī noziedzīga izturēšanās. Uz morālu ļaunumu ir spējīgs tikai cilvēks, turklāt tikai tāds cilvēks, kas pazīst morālo labumu, t.i. zina, kā rīkoties labi. Morālo ļaunumu kristīgajā teoloģijā sauc par grēku.
+
+Dabiskais ļaunums var būt saistīts ar dabas norisēm, stihijām, un to vērtējums var būt negatīvs tikai subjektīvi, jo objektīvi šādas norises var vienlaikus būt vēlamas un pat nepieciešamas. Savukārt morālais ļaunums ir negatīvs tikai morāles likumu nolieguma, ignorēšanas dēļ. Judeokristīgajā teoloģijā morālais ļaunums jeb [[grēks]] ir Dieva [[Desmit baušļi|baušļu]] pārkāpums. Tātad ļaunums kā tāds ir cilvēka subjektīvajā uztverē un morāles likumos pamatots fenomens. Lai noteiktu, vai konkrēta parādība vai rīcība ir vai nav ļauna, ir nepieciešams cilvēka intelekts. 
+
+[[Teoloģija|Teoloģiski]] ļaunums ir labā trūkums. Dievs pieļauj ļaunumu, bet to nedz rada, nedz izdara. Viss, ko Dievs rada, ir labs, bet Dievs pieļauj ļaunuma esamību tik lielā mērā, cik to ir iespējams vērst par labu. Ļaunums būtībā ļauj pazīt labumu un palīdz virzīties uz labumu, jo negatīvais vērtējums, ko izraisa ļaunuma radītās ciešanas, sāpes, parasti liek no ļaunā novērsties.
+
+=== Dieva labums ===
+Judeokristīgajā tradīcijā Dievs tiek uzskatīts par pasaules radītāju, un ir bezgalīgs, bez jebkādām nepilnībām, tātad absolūti labs. 
+
+Atšķirībā no tā, kā notikumus vērtē cilvēks, Dievam var būt citi apsvērumi, kas pamatojas uz labāku informētību (viszinību) un plašāku skatījumu uz pasaules norisēm. Tātad tas, ko cilvēks vērtē kā dabisku ļaunumu, Dievs var vērtēt kā labumu. Morālā vērtējuma gadījumā (saskaņā ar teoloģijas principiem) noteicējs par to, kas ir un kas nav ļauns, ir morāles devējs – Dievs. Tātad no teoloģijas viedokļa Dieva labums ir absolūts, bet cilvēks ne vienmēr spēj to atpazīt.
+
+=== Dieva visspēcība ===
+Dievu kā pasaules radītāju raksturo spēja radīt jebko no nekā, bet Dieva labuma princips neļauj radīt ļaunumu, kā arī rīkoties pretēji citiem labuma principiem. Piemēram, saskaņā ar kristīgo teoloģiju cilvēka brīvā griba ir Dieva radīta, lai cilvēks varētu Dievu mīlēt, un tā ir cilvēka eksistences jēga. Ja cilvēkam nebūtu brīvas gribas, nebūtu iespējama mīlestība. Tāpēc Dievs neierobežo cilvēka brīvo gribu, bet nepieciešamības gadījumā rada apstākļus, kas apgrūtina brīvās gribas īstenošanu. Piemēram, paņem atpakaļ cilvēka dzīvību, ko Dievs pats ir devis un tādēļ vienīgais var to taisnīgi izdarīt. Turklāt nāve gan var radīt ciešanas tuviniekiem, bet arī tās morālais novērtējums ir subjektīvs.
+
+Šis princips cita starpā arī ir ilustrēts ar kalambūru – vai Dievs spēj radīt akmeni, ko pats nespēj pacelt. Viens no šādiem "akmeņiem" ir cilvēka brīvā griba, ko Dievs ir radījis, bet nevar ietekmēt augstākā labuma dēļ.
+
+=== Secinājums ===
+Dabiskais ļaunums ir subjektīvs, bet morālais ļaunums ir morālā likuma pārkāpums; ciešanas, ko ļaunums rada, ved uz augstāku labumu un ir nepieciešamas, lai cilvēks vēlētos virzīties uz morālo labumu. Tādējādi tieši dievišķais labums, gudrība un visspēcība ir tā, kas pieļauj ļaunumu un ciešanas.
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Reliģijas filozofija]]

@@ -1,0 +1,114 @@
+{{Himna
+|title         = Zvaigžņotais karogs
+|image         = The Star-Spangled Banner.JPG
+|caption       = Senākās zināmais saglabājies himnas vārdu un nošu iespiedums (1814. gads)
+|country       = {{ASV}}
+|composer      = [[Džons Stefords Smits]]
+|music_date    = ap 1773. gadu
+|author        = [[Frānsiss Skots Kijs]]
+|lyrics_date   = 1814. gads
+|adopted       = 1931. gada 3. martā
+|until         = 
+|sound         = Star Spangled Banner instrumental.ogg
+|sound_title   = „Zvaigžņotā karoga” instrumentālā versija vienam pantam
+}}
+
+'''„Zvaigžņotais karogs”''' ({{val|en|The Star-Spangled Banner}}) ir [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] [[valsts himna]]. Tās vārdu autors ir [[Frānsiss Skots Kijs]] (''Francis Scott Key''), bet mūzikas autors — [[Džons Stefords Smits]] (''John Stafford Smith'').
+
+== Vēsture ==
+
+Dziesmas vārdus 1814. gadā sarakstīja amerikānis Frānsiss Skots Kijs, kuru iedvesmoja [[Makhenrija forts|Makhenrija fortā]] pēc britu kuģu veiktās bombardēšanas nākamajā rīta mastā plīvot palikušais [[Amerikas Savienoto Valstu karogs|ASV karogs]].<ref>{{Laikraksta atsauce |date=1950. gada 22. februāris |title=Kā radās Amerikas Savienoto Valstu himna |journal=[[Laiks (laikraksts)|Laiks]] |issue=Nr. 6 |page=3. lpp |url=http://periodika.lv/periodika2-viewer/view/index-dev.html?#panel:pp%7cissue:/p_001_xlak1950n08%7carticle:DIVL354%7cpage:6%7cblock:P6_TB00015 |access-date=2020. gada 15. Aprīlis |archive-date=2020. gada 28. Aprīlis |archive-url=https://web.archive.org/web/20200428154535/http://www.periodika.lv/periodika2-viewer/view/index-dev.html#panel:pp%7cissue:/p_001_xlak1950n08%7carticle:DIVL354%7cpage:6%7cblock:P6_TB00015 }}</ref>
+
+Drīz vien „Zvaigžņotais karogs” ieguva lielu popularitāti [[Amerikas Savienotās Valstis|ASV]] kā patriotiska dziesma, bet [[Anglija|Anglijā]] dziesmu tolaik dziedāja kā parastu „dzērājdziesmu” — ''[[To Anacreon in Heaven]]''.
+
+1889. gadā „Zvaigžņoto karogu” oficiālai lietošanai pieņēma [[ASV Jūras kara flote|Jūras kara flote]], bet 1916. gadā — arī [[Baltais nams]]. 1931. gada 3. martā [[ASV Kongress|ASV Kongresa]] rezolūcijā dziesmu pasludināja par ASV valsts himnu. Pavisam himnai ir četri panti, bet mūsdienās parasti izpilda tikai pirmo pantu.
+
+== Vārdi ==
+{|class="wikitable" cellpadding="15" rules="cols"
+!Angliski
+!Krišjāņa Nātras atdzejojums latviski<ref>{{Laikraksta atsauce |author=Osvalds Akmentiņš |date=1955. gada 23. jūlijs |title=Žvaigžņotais karogs latviski |journal=[[Laiks (laikraksts)|Laiks]] |issue=Nr. 59 |page=3. lpp |url=http://www.periodika.lv/periodika2-viewer/?#panel:pa%7cissue:291320%7carticle:DIVL255 |access-date={{dat|2020|04|15||bez}}}}</ref>
+
+|- style="vertical-align:top; white-space:nowrap;"
+|<poem>
+'''I'''
+O say can you see, by the dawn's early light,
+What so proudly we hailed at the twilight's last gleaming,
+Whose broad stripes and bright stars through the perilous fight,
+O'er the ramparts we watched, were so gallantly streaming?
+And the rocket's red glare, the bombs bursting in air,
+Gave proof through the night that our flag was still there;
+O say does that star-spangled banner yet wave
+O'er the land of the free and the home of the brave?
+
+'''II'''
+On the shore dimly seen through the mists of the deep,
+Where the foe's haughty host in dread silence reposes,
+What is that which the breeze, o'er the towering steep,
+As it fitfully blows, half conceals, half discloses?
+Now it catches the gleam of the morning's first beam,
+In full glory reflected now shines in the stream:
+'Tis the star-spangled banner, O long may it wave
+O'er the land of the free and the home of the brave
+
+'''III'''
+And where is that band who so vauntingly swore
+That the havoc of war and the battle's confusion,
+A home and a country, should leave us no more?
+Their blood has washed out their foul footsteps' pollution.
+No refuge could save the hireling and slave
+From the terror of flight, or the gloom of the grave:
+And the star-spangled banner in triumph doth wave,
+O'er the land of the free and the home of the brave.
+
+'''IV'''
+O thus be it ever, when freemen shall stand
+Between their loved homes and the war's desolation.
+Blest with vict'ry and peace, may the Heav'n rescued land
+Praise the Power that hath made and preserved us a nation!
+Then conquer we must, when our cause it is just,
+And this be our motto: 'In God is our trust.'
+And the star-spangled banner in triumph shall wave
+O'er the land of the free and the home of the brave!</poem>
+|<poem>
+'''I'''
+Teic, vai redzi tu ar, rīta blāzmā kas mirdz.
+Ko pie vakara krēslas it lepni mēs sveicam;
+Kas vēl virgoja cēls tur uz cietokšņa sprausts,
+Kamēr cīniņš bij sīvs, kur mēs naidnieku veicām:
+Un kad naktī viss gaiss bij no ugunim dzīvs,
+Tā bij zīme, ka mūsējo karogs vēl brīvs.
+Teic vai zvaigžņotais karogs vēl plivinās cēls,
+Kur par tēvzemi stāv brašais brīvības dēls.
+
+'''II'''
+Tur no krastiem, kad sāk miglas plīvuri klīst,
+Kur uz jūras vēl klusums, kas naidnieku patver,
+Kas tas ir, ko vējš jautri pūsdams un spirgts,
+Gan to tīstīdams slēpj, gan to klāstīdams atver?
+Te tas pamirdz, te zūd, pirmie stari kad līst,
+Te tas apstarots pilnīgā godībā rīst.
+Tas ir zvaigžņotais karogs, kas virgo tik cēls,
+Kur par tēvzemi stāv brašais brīvības dēls.
+
+'''IV'''
+Lai tas vienmēr ir tā, kad pret ienaidnieku iet
+Brašie brīvības dēli par taisnību savu.
+Visu varenais Dievs, kas Tu mieru mums dod,
+Kas par tautu mūs darījis, mēs nesam Tev slavu.
+Mūsu taisnības dēļ vien mums uzvarēt būs,
+Kamēr Dievam ticam, kas uzturējis mūs.
+Un tas zvaigžņotais karogs mirdz uzvarā cēls,
+Kur par tēvzemi stāv brašais brīvības dēls.</poem>
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:ASV]]
+[[Kategorija:Valstu himnas]]

@@ -1,0 +1,20 @@
+{{infokaste+}}
+<table border="1" cellpadding="2" cellspacing="0" align="right" width="300">
+<tr><td colspan="3" bgcolor="chocolate"><center><font size="+1">'''Malgaši'''<br />'''Malagasy'''</font></center></td></tr>
+<tr><td bgcolor="orange">Kopējais skaits:</td>
+<td bgcolor="#ffde80">22 milj.
+</tr><tr><td bgcolor="orange">Dzīvo:</td>
+<td bgcolor="#ffde80">
+[[Madagaskara]]<br>[[Majota]]<br>[[Reinjona]]<br>[[Maurīcija]]<br />
+</td></tr>
+<tr><td bgcolor="orange">Runā</td><td bgcolor="#ffde80">[[malgašu valoda]]</td></tr>
+<tr><td bgcolor="orange">Reliģija</td><td bgcolor="#ffde80">[[tradicionālās reliģijas]] — 50%<br />[[kristietība]] — 40%<br />[[islāms]] — 10%</td></tr>
+</table>
+
+'''Malgaši''' ({{val|mg|Foko malagasy}}) ir tauta, kas galvenokārt apdzīvo [[Madagaskara]]s teritoriju.
+
+{{Īss aizmetnis}}
+{{Āfrika-aizmetnis}}
+
+[[Kategorija:Āfrikas tautas]]
+[[Kategorija:Madagaskara]]

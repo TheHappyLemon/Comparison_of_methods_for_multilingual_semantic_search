@@ -1,0 +1,61 @@
+{{Elementa infokaste
+ |                  tips = pārejas metāls
+ |       kārtas skaitlis = 28
+ |              1. čaula = 2
+ |              2. čaula = 8
+ |              3. čaula = 16
+ |              4. čaula = 2
+ |               simbols = Ni
+ |              atommasa = 58,6934
+ |    valences elektroni = [Ar]3d<sup>8</sup>4s<sup>2</sup>
+ |        tabulas attēls = [[Attēls:Ni-TableImage.svg|250px]]
+ |                attēls = [[Attēls:Nickel chunk.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:VNickel.jpeg|210px]]<br />Niķeļa paraugs un monētas no niķeļa un [[varš|vara]] [[sakausējums|sakausējuma]]
+ |   oksidēšanas pakāpes = +4, +3, '''+2''', 0, −1
+ |   elektronegativitāte = 1,91
+ |               blīvums = 8908
+ |   kušanas temperatūra = 1728 K (1455&nbsp;°C)
+ |  viršanas temperatūra = 3186 K (2913&nbsp;°C)
+ |    trīskāršais punkts = 
+ |     kritiskais punkts = 
+ |   īpatnējā pretestība = (20 °C) 6,93{{E|-8}}
+ |         skaņas ātrums = 4900
+ | Van der Vālsa rādiuss = 0,163
+}}
+
+'''Niķelis''' ir [[ķīmiskais elements]] ar simbolu '''Ni''' un [[atomskaitlis|atomskaitli]] 28. Tas ir sudrabbalts mirdzošs [[metāls]] ar nelielu zeltainu nokrāsu. Niķelis pieder pie [[pārejas metāli]]em, tas ir [[cietība|ciets]] un [[elastīgums|elastīgi]]. Dabā niķelis galvenokārt ir sastopams kā piemaisījums [[dzelzsrūdas|dzelzsrūdām]]. Niķelis ir [[korozija]]s izturīgs metāls, kuru lieto pārklājumiem (lai aizsargātu pret koroziju) un dzelzs sakausējumos ([[nerūsošais tērauds]]). Niķeļa savienojumi parasti ir gaiši zaļi. Savienojumos niķelim parasti [[oksidēšanas pakāpe]] ir +2.
+
+Niķelis ir atrodams daudzos [[meteorīts|meteorītos]]. Dzelzs meteorītos niķeļa koncentrācija sasniedz no 5 līdz 20%.<ref name="Webelements.com"/>
+
+== Izotopi ==
+Ir zināmi pieci stabili niķeļa [[izotops|izotopi]], kā arī deviņi nestabili izotopi.<ref name="lanl"/> Niķelis-58 veido 68,077% no visa kopējā dabā sastopamā niķeļa daudzuma.<ref name="jlab"/> Atlikušo izotopu sadalījums ir šāds: niķelis-60 (26,223%), niķelis-61 (1,140%), niķelis-62 (3,634%) un niķelis-64 (0,926%).<ref name="jlab"/>
+
+== Izmantošana ==
+Niķelis galvenokārt tiek izmantots dažādu [[sakausējums|sakausējumu]] izgatavošanā. Niķeļa sakausējumiem ir raksturīga [[izturība]], [[elastīgums]], kā arī pretestība pret [[korozija|koroziju]] un [[karstums|karstumu]]. Aptuveni 65% no kopējā niķeļa daudzuma [[Rietumu pasaule|Rietumu pasaulē]] tiek patērēta [[nerūsošais tērauds|nerūsošā tērauda]] izgatavošanā,<ref name="lenntech"/> kura pamatelements ir [[dzelzs]] ar aptuveni 18% [[hroms|hroma]] un 8% niķeļa piekausējuma. Ap 12% tiek patērēti [[karstumizturīgs sakausējums|karstumizturīgiem sakausējumiem]].<ref name="lenntech"/> Atlikušie 23% no niķeļa tiek izmantoti [[tērauds|tērauda]] sakausējumos, uzlādējamās [[baterija|baterijās]], [[katalizators|katalizatoros]] un citās [[ķīmiskā viela|ķīmiskās vielās]], kā arī [[monētu kalšana|monētu kalšanā]], [[metālliešana]]s produktos un [[apšuvums|apšuvumos]].
+
+== Iegūšana ==
+Aptuveni 30% no visas pasaules niķeļa tiek iegūts [[Ontārio]] provincē, [[Kanāda|Kanādā]], galvenokārt no [[pentlandīts|pentlandīta]] (([[dzelzs|Fe]],Ni)<sub>9</sub>[[sērs|S]]<sub>8</sub>).<ref name="lanl"/> Lielā daudzuma niķelis tiek iegūts arī [[Jaunkaledonija|Jaunkaledonijā]], [[Austrālija|Austrālijā]], [[Kuba|Kubā]], [[Indonēzija|Indonēzijā]] un citur.
+
+== Vēsture ==
+Niķeli kā [[ķīmiskais elements|ķīmisko elementu]] 1751. gadā [[Stokholma|Stokholmā]], pētot [[nikelīns|nikelīna]] (Ni[[arsēns|As]]) rūdu, atklāja zviedru mineralogs un ķīmiķis [[Axel Fredrik Cronstedt|Aksels Fredriks Kronštedts]]. Vārda izcelsme ir meklējama [[vācu valoda]]s vārdā ''kupfernickel'', kas nozīmē "velna [[varš]]" vai "[[Svētais Nikolajs|Svētā Nikolaja]] (''Nick'') varš".<ref name="Webelements.com"/>
+
+== Atsauces ==
+{{commonscat|Nickel|niķelis}}
+{{atsauces|refs=
+<ref name="Webelements.com">{{tīmekļa atsauce | url= http://www.webelements.com/nickel/ | title= Nickel | publisher= Webelements.com | accessdate= 2012-10-22 | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso028.html | title= Isotopes of the Element Nickel | publisher= Jefferson Lab | accessdate= 2012-10-22 | language= angliski}}</ref>
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/ni.htm | title= Nickel (Ni) | publisher= Lenntech | accessdate= 2012-10-22 | language= angliski | archiveurl= https://web.archive.org/web/20121013053735/http://www.lenntech.com/periodic/elements/ni.htm | archivedate= 2012-10-13 }}</ref>
+<ref name="lanl">{{tīmekļa atsauce | url= http://periodic.lanl.gov/28.shtml | title= Nickel | publisher= Los Alamos National Laboratory | accessdate= 2012-10-22 | language= angliski | archiveurl= https://web.archive.org/web/20120925043443/http://periodic.lanl.gov/28.shtml | archivedate= 2012-09-25 }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

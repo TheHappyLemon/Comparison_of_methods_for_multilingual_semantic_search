@@ -1,0 +1,34 @@
+{{Elementa infokaste
+|                 tips = lantanīds
+|      kārtas skaitlis = 68
+|             6. čaula = 2
+|             5. čaula = 8
+|             4. čaula = 30
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Er
+|             atommasa = 167,259
+|   valences elektroni = [Xe]4f<sup>12</sup>6s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Er-TableImage.png|250px]]
+|               attēls = [[Attēls:Erbium-2.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Erbium-crop.jpg|160px]]<br />Erbija paraugi
+|  oksidēšanas pakāpes = '''+3'''
+|  elektronegativitāte = 1,24
+|              blīvums = 9066
+|  kušanas temperatūra = 1802 K (1529&nbsp;°C)
+| viršanas temperatūra = 3141 K (2868&nbsp;°C)
+}}
+'''Erbijs''' ir [[ķīmiskais elements]] ar simbolu '''Er''' un atomskaitli 68. Tas ir mīksts, plastisks [[metāls]]. Tāpat kā pārējos [[lantanīdi|lantanīdus]], to iegūst no [[polimetāliskās rūdas|polimetālu rūdām]]. [[Erbija oksīds|Erbija oksīdu]] lieto par rozā krāsu [[stikls|stikla]] un [[keramika]]s glazūru krāsošanai. Erbiju lieto arī [[sakausējums|sakausējumiem]] ar [[vanādijs|vanādiju]] un erbija savienojumus lieto [[optiskais pastiprinātājs|optiskajiem pastiprinātājiem]]. Savienojumos erbijam parasti ir oksidēšanas pakāpe +3.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Lantanīdi]]

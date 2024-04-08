@@ -1,0 +1,47 @@
+{{Apdzīvotas vietas infokaste
+| name = Ploņska
+| image_skyline = PL Płońsk Old hut.jpg
+| imagesize = 300px
+| image_caption = Ploņskas vecā apbūve
+| image_flag = 
+| image_shield = POL Płońsk COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Valsts
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Polijas administratīvais iedalījums|Vojevodiste]]
+| subdivision_name1 = [[Mazovijas vojevodiste]]
+| subdivision_type2 = Apriņķis
+| subdivision_name2 = [[Ploņskas apriņķis]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1400
+| area_total_km2 = 11.6
+| population_as_of = 2022<ref name=populacja2022>[https://www.polskawliczbach.pl/Plonsk Płońsk w liczbach] - 31.12.2022 | www.polskawliczbach.pl </ref>
+| population_total = 21591
+| population_density_km2 = auto
+| timezone = [[Centrāleiropas laiks|CET]]
+| utc_offset = +1
+| timezone_DST = [[Centrāleiropas vasaras laiks|CEST]]
+| utc_offset_DST = +2
+| latd = 52
+| latm = 38
+| lats = 00
+| latNS = N
+| longd = 20
+| longm = 23
+| longs = 00
+| longEW = E
+| elevation_m = 
+| website = http://www.plonsk.pl/
+}}
+
+{{Commons category|Płońsk|Ploņska}}
+
+'''Ploņska''' ({{val|pl|Płońsk}}) — pilsēta [[Polija|Polijā]], [[Mazovijas vojevodiste|Mazovijas vojevodistē]]. Pilsētā notiek gadskārtējie brīvdabas teātra festivāli. Ploņskā dzimis pirmais [[Izraēla]]s premjerministrs [[Dāvids Ben Gurions]] (''David Ben-Gurion'', 1886—1973). Dzīvojot Ploņskā, [[Henriks Senkevičs]] (''Henryk Sienkiewicz'', 1846—1916) publicēja savu pirmo darbu. Pirms 1417. gada šeit tika nodibināts [[karmelīti|karmelītu]] klosteris un baznīca.
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20101212215420/http://portalplonsk.pl/ Pilsētas karte]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Mazovijas vojevodistes pilsētas|Plonzska]]

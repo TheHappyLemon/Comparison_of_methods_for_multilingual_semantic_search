@@ -1,0 +1,89 @@
+{{Elektrodinamika}}
+
+'''Gausa teorēma''' [[elektriskais lauks|elektriskajam laukam]]: ja lādiņu sistēmu (kopu) aptver iedomāta, patvaļīga, slēgta, viensakarīga virsma <math>S \ </math>, tad elektriskā lauka intensitātes plūsma <math>N \ </math> caur šo virsmu ir proporcionāla pilnajam elektriskajam lādiņam <math>q \ </math> virsmas ierobežotajā tilpumā.
+
+== Nosaukums ==
+Teorēmas nosaukums nenozīmē, ka tā ir kādas ''žiperīgas'' teorēmas pretstats. Tā nodēvēta [[Kārlis Frīdrihs Gauss|Kārļa Gausa]] vārdā, kurš to atklāja<ref>{{grāmatas atsauce|author-link=Carl Friedrich Gauss|last=Gauss|first=Carl Friedrich|url=https://books.google.com/books?id=0TxeAAAAcAAJ&pg=PA3|title=Theoria attractionis corporum sphaeroidicorum ellipticorum homogeneorum methodo nova tractata|language=Latin}} (Gauss, ''Werke'', vol. V, p. 1).</ref> 40 gadus pēc tam, kad to 1773. gadā atklāja [[Žozefs Lagranžs|Lagranžs]],<ref>{{publikācijas atsauce|author-link=Joseph-Louis Lagrange|first=Joseph-Louis|last=Lagrange|url=https://books.google.com/books?id=4XkAAAAAMAAJ&pg=PA619|title=Sur l'attraction des sphéroïdes elliptiques|language=French|journal=Mémoires de l'Académie de Berlin|page=125|date=1773}}</ref> kurš tiek uzskatīts par pirmo teorēmas atklājēju.<ref>{{grāmatas atsauce|author-link=Pierre Duhem|first=Pierre|last=Duhem|url=https://archive.org/stream/leonssurllec01duheuoft#page/22/mode/2up|title=Leçons sur l'électricité et le magnétisme|at=vol. 1, ch. 4, p. 22–23|language=French}} shows that Lagrange has priority over Gauss. Others after Gauss discovered "Gauss' Law", too.</ref>
+
+== Skalārā forma ==
+[[Attēls:Intensitates plusma.JPG|350px|thumb|left]]
+
+: <math>N = \frac{q}{\epsilon_0} \ </math>
+::: kur
+:::: <math>N \ </math> - elektriskā lauka intensitātes plūsma ([[Kulons|C]]×[[Metrs|m]]/[[Farads|F]] vai [[Volts|V]]*[[Metrs|m]])
+:::: <math>q \ </math> - lādiņš, kurš rada elektrisko lauku ([[Kulons|C]])
+:::: <math>\epsilon_0 \approx</math> 8,85×10<sup>-12</sup> [[Farads|F]]/[[Metrs|m]] - elektriskā konstante
+
+Gausa teorēmu viegli pārbaudīt punktveida lādiņa laukam, ja lādiņu aptver ar sfēriski simetrisku virsmu. [[Elektriskais lauks|Elektriskā lauka intensitāte]] <math>\vec{E} \ </math> visos sfēras virsmas punktos ir konstanta un vektors vērsts perpendikulāri virsmai. Tādēļ intensitātes plūsma caur sfēras virsmu ir šāda:
+
+: <math>\vec{N} = \vec{E} S \ </math>
+::: kur
+:::: <math>S \ </math> - sfēras virsmas laukums [[kvadrātmetrs|m<sup>2</sup>]]
+
+Tā kā
+
+: <math>k = \frac{1}{4 \pi \epsilon_0} \ </math>
+: <math>\vec{E} = k \frac {q}{r^2} \ </math>
+un
+: <math>S = 4 \pi r^2 \ </math>
+tad
+: <math>\vec{N} = \vec{E} S = \frac{1}{4 \pi \epsilon_0} \frac {q}{r^2} 4 \pi r^2 = \frac{q}{\epsilon_0}\ </math>
+
+== Vektoriālā forma ==
+
+: <math>N = \oint_S \vec{E} \cdot \mathrm{d}\vec{S} = \frac{q}{\epsilon_0} \ </math>
+::: kur
+:::: <math>N \ </math> - elektriskā lauka intensitātes plūsma ([[Kulons|C]]×[[Metrs|m]]/[[Farads|F]] vai [[Volts|V]]*[[Metrs|m]])
+:::: <math>\vec{E} \ </math> - elektriskā lauka intensitāte ([[Ņūtons|N]]/[[Kulons|C]])
+:::: <math>\vec{S} \ </math> - virsmas vektors ([[Kvadrātmetrs|m<sup>2</sup>]])
+:::: <math>q \ </math> - lādiņš, kurš rada elektrisko lauku ([[Kulons|C]])
+:::: <math>\epsilon_0 \approx</math> 8,85×10<sup>-12</sup> [[Farads|F]]/[[Metrs|m]] - [[elektriskā konstante]]
+
+== Gausa teorēmas pierādījums ==
+[[Attēls:Gausa teorema.JPG|380px|thumb|right]]
+
+* Gausa teorēmu var pamatot, lietojot elektrisko lauku [[elektriskais lauks|superpozīcijas principu]].
+* Punktveida lādiņam <math>q \ </math> pierādījums izriet no [[Kulona likums|Kulona likuma]]. [[Elektriskais lauks|Elektriskā lauka intensitāte]] uz virsmas ir
+: <math>\vec{E} = k \frac {q}{r^3} \vec{r}\ </math>
+Savukārt
+: <math>\mathrm{d}\vec{S} = \vec{n} \mathrm{d}S \ </math>
+:::: kur <math>\vec{n} \ </math> - virsmas normāle.
+
+Tādēļ lauka elementārplūsma caur virsmas elementu <math>\mathrm{d}\vec{S}</math> ir 
+: <math>\mathrm{d}N = (\vec{E} \vec{n}) \mathrm{d}S \ </math>
+
+* <math>\mathrm{d} S_r = \mathrm{d}S \cos \alpha \ </math>
+:::: <math>\mathrm{d} S_r \ </math> - virsmas elementa projekcija uz sfēras virsmu, kuras rādiuss ir <math>r \ </math>
+:::: <math>\alpha \ </math> - leņķis starp intensitātes vektoru <math>\vec{E} \ </math> un normāles vektoru <math>\vec{n} \ </math>
+
+Līdz ar to formula
+
+: <math>\mathrm{d}N = (\vec{E}\vec{n}) \mathrm{d}S \ </math>
+
+pārvēršas šādi:
+
+: <math>\mathrm{d}N = \vec{E} \mathrm{d} S_r \ </math>
+
+<math>\mathrm{d} S_r \ </math> var izteikt vēl ar telpas leņķa elementu, tas ir:
+
+: <math>\mathrm{d} S_r = r^2 \mathrm{d}\Omega \ </math>
+:::: <math>\mathrm{d}\Omega \ </math> - telpas leņķa elements
+
+Līdz ar to var iegūt, ka
+
+: <math>\mathrm{d} N = k \frac {q}{r^2} r^2 \mathrm{d}\Omega = k q \mathrm{d}\Omega \ </math>
+
+Lai iegūtu punktveida lādiņa elektriskā lauka intensitātes plūsmu, šī izteiksme ir jāintegrē caur virsmu <math>S \ </math>, tas ir:
+
+: <math>N = \int_S \mathrm{d} N = \int_S k q \mathrm{d}\Omega = k q \Omega \ </math>
+: <math>\Omega = 4 \pi \ </math> [[Steradiāns|sr]]
+: <math>N = k q 4 \pi = \frac{1}{4 \pi \epsilon_0} q 4 \pi = \frac{q}{\epsilon_0}\ </math>
+
+== Gausa teorēmas secinājumi ==
+* Plūsma nav atkarīga no virsmas izvēles.<ref>{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=162|first2=I.|last2=Kolangs|first3=P.|last3=Puķītis|first4=E.|last4=Šilters|first5=E.|last5=Vainovskis}}</ref>
+* Ja virsmas ierobežotajā tilpumā atrodas patvaļīga lādiņu <math>\Delta q \ </math> kopa, tad, piemērojot Gausa teorēmu katram lādiņam <math>\Delta q \ </math>, pēc superpozīcijas principa iegūstam integrālo teorēmu <math>\vec{E}(\vec{r}) = \frac {\vec{F}(\vec{r})}{q} \ </math>, kurā <math>q = \Sigma \Delta q \ </math>
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Elektriskais lauks]]

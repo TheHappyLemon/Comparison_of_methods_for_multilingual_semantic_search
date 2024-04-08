@@ -1,0 +1,39 @@
+'''Grupu teorija''' ir [[abstraktā algebra|abstraktās algebras]] apakšnozare, kurā tiek pētīta [[algebriska struktūra]] ar nosaukumu '''[[grupa (matemātika)|grupa]]'''. Tā ir viena no visvienkāršākajām algebriskajām struktūrām, taču vienlaicīgi arī viena no vissvarīgākajām, jo tā apraksta [[simetrija|simetriju]] dabā.
+
+== Grupu veidi ==
+
+Grupas var izpausties dažādos veidos, piemēram, kā
+* permutāciju grupas,
+* matricu grupas,
+* transformāciju grupas,
+* abstraktas grupas,
+* topoloģiskas un algebriskas grupas.
+
+== Saistītas algebriskas struktūras ==
+
+Papildinot grupas [[aksioma]]s var iegūt citas bieži izmantotas algebriskas struktūras, tajā skaitā:
+* [[gredzens (matemātika)|gredzens]],
+* [[lauks (matemātika)|lauks]],
+* [[modulis (algebriska struktūra)|modulis]],
+* [[lineāra telpa]],
+* [[algebra pār lauku|algebra (pār lauku)]].
+
+== Sasniegumi ==
+
+Viens no visnozīmīgākajiem sasniegumiem matemātikā 20. gs. ir [[galīgs|galīgo]] [[vienkārša grupa|vienkāršo grupu]] klasifikācija. Šis apjomīgais darbs ir izkaisīts pa neskaitāmiem rakstiem, kas kopā aizņem vairāk nekā 10&nbsp;000 lappušu un kuru tapšanā ir piedalījušies ap 100 matemātiķu.<ref>{{Atsauce | first=Ron | last=Solomon | url=http://www.ams.org/notices/199502/solomon.pdf | title=On Finite Simple Groups and Their Classification | journal=Notices | publisher=AMS | month=February | year=1995 | volume=42 | issue=2 | pages=231-239}}.</ref><ref>{{Atsauce | first=Michael | last=Aschbacher | url=http://www.ams.org/notices/200407/fea-aschbacher.pdf | title=The Status of the Classification of the Finite Simple Groups | journal=Notices | publisher=AMS | month=August | year=2004 | volume=51 | issue=7 | pages=736-740}}.</ref><ref>{{Atsauce | first1=Odifreddi | last1=Piergiorgio | first2=Arturo | last2=Sangalli | first3=Freeman J. | last3=Dyson | title=The mathematical century: the 30 greatest problems of the last 100 years | edition=3rd | publisher=Princeton University Press | isbn=9780691128054 | year=2006}}, nodaļa 2.12. "Algebra: Gorenstein's Classification of Finite Groups (1972)", [http://books.google.com/books?id=zAIar8Ee80QC&pg=PA71 71. lpp.]</ref>
+
+== Pielietojumi ==
+
+Grupu teorija tiek plaši pielietota [[fizika|fizikā]], [[ķīmija|ķīmijā]] un [[materiālu zinātne|materiālu zinātnē]]. Fizikā ar grupu palīdzību tiek aprakstītas simetrijas, kas piemīt fizikas likumiem. Ķīmijā, kā arī molekulārajā un cietvielu fizikā grupu un to [[reprezentāciju teorija|reprezentāciju]] teoriju lieto [[molekula|molekulu]] un [[Kristāls|kristālu]] simetrijas aprakstīšanai.
+
+== Atsauces ==
+
+{{atsauces}}
+
+{{Matemātika-aizmetnis}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Matemātika]]
+[[Kategorija:Grupu teorija]]

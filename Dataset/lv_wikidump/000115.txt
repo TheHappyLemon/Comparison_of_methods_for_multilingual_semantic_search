@@ -1,0 +1,13 @@
+[[Attēls:Wikipedia bureaucrat.svg|right|150px]]
+
+'''Birokrāti''' ir dalībnieku grupa, kas pieder pie [[Vikipēdija]]s administrācijas. Viņiem ir tiesības dalībniekus padarīt par [[Vikipēdija:Administratori|administratoriem]] (saīsināti — ''adminiem''), ja tā [[Vikipēdija:Administratoru kandidāti|nobalsojusi]] Vikipēdijas kopiena. Birokrāti parasti ir arī administratori. Birokrāti var piešķirt un noņemt [[Vikipēdija:Boti|botu]] statusu, lai botu veiktās izmaiņas neparādītos [[Special:Recentchanges|pēdējo izmaiņu]] lapā. ''[[MediaWiki]]'' instalācijas visu birokrātu sarakstu (dalībnieki ar birokrāta tiesībām) var atrast [[Special:ListUsers/bureaucrat|šeit]].
+
+[[Vikipēdija latviešu valodā|Vikipēdijā latviešu valodā]] pašlaik ir 3 birokrāti:
+* {{#invoke:UserLinks|main|user=Edgars2007|small=yes|msg|t|c}};
+* {{#invoke:UserLinks|main|user=Feens|small=yes|msg|t|c}};
+* {{#invoke:UserLinks|main|user=ScAvenger|small=yes|msg|t|c}}.
+
+== Skatīt arī ==
+* [[Vikipēdija:Vikispeciālisti|Vikispeciālisti]]
+
+[[Kategorija:Vikipēdija]]

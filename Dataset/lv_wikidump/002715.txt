@@ -1,0 +1,300 @@
+{{TCPIPmodelis}}
+{{OSI protokolu steks}}
+:''Par citām jēdziena DNS nozīmēm skatīt [[DNS (nozīmju atdalīšana)]]''
+'''DNS''' jeb '''Domēnu nosaukumu sistēma''' ({{val|en|'''D'''omain '''N'''ame '''S'''ystem}})<ref>{{AkadTerm|term=Domēnu nosaukumu sistēma|language=LV}}</ref> ir protokols, kas pārveido nosaukumus (piem., ns.nic.lv) par skaitliskajām IP adresēm (piem. 159.148.60.20 vai 195.244.128.71), kā arī nodrošina pasta serveru sarakstu domēnam.
+Brīdī, kad lietotājs vēlas atvērt kādu tīmekļa lapu pēc tās [[domēns|domēna vārda]], pārlūkprogramma vispirms noskaidro, kāda IP adrese ir šim serverim un to dara ar DNS pieprasījumu datorā noteiktajam [[lokālais tīkls|lokālā tīkla]] vai internet pakalpojumu sniedzēja DNS serverim. Tālāk DNS serveris iegūst atbildi no savas datubāzes daļas vai no cita DNS servera un tad nodod rezultātu lietotājam. Pēc tam lietotāja dators var sākt sūtīt pieprasījumu serverim uz tā IP adresi.
+DNS sistēmā ir reģistrēti piemēram, šādi domēni: .com, .net, .org, .gov u.c.
+
+DNS ir klientservera bāzēts protokols. Klienti caur UDP vai TCP (retāk) nosūta pieprasījumus serverim un saņem atbildes.
+
+== Sistēma ==
+DNS uztur domēnu vārdu hierarhiju. Augšējo līmeņu domēnu DNS serveri satur informāciju, kā atrast zemāku līmeņu domēnu (savu apakšdomēnu) DNS serverus. Pašam augstākajam līmenim nav nosaukuma. Tam atbilst ''root'' DNS serveri. Zem tā līmeņa ir [[augšējā līmeņa domēns|augšējā līmeņa domēni]] (TLD). Tos var iedalīt 3 grupās: gTLD (''generic TLD''), tādi kā com, org, info; ccTLD (''coutry code TLD''), kas atbilst pasaules valstīm, tādi kā lv, de, fr; infrastruktūras TLD, te ir tikai viens domēns .arpa, to pamatā lieto reversajam DNS (lai no IP adrese noteikt tai atbilstošo domēna vārdu).
+
+Pilnam domēna vārdam beigās ir punkts (.), lielākā daļa programmu gan to nerāda. DNS serveri satur informāciju par savu domēnu, dažreiz tie var saturēt informāciju arī par apakšdomēniem. Piemērs: ''test1.test2.example.org.'' Šeit pēdējais . ir visaugstākā līmeņa domēns (ja to tā var nosaukt), org ir augšējā līmeņa domēns, example ir org apakšdomēns (org DNS serveros ir jābūt informācijai par to kā atrast example DNS serveri), test2 ir example.org apakšdomēns un test1 ir test2.example.org apakšdomēns. example.org DNS serverim ir jāatrod test2, bet tas var arī atrast test1.test2 (augstāku līmeņu DNS serveri var saturēt informāciju par to domēnu apakšdomēniem , ne tikai domēniem.)
+
+Domēna vārds sastāv no vienas vai vairākām daļām (uzrakstiem (''labels'')), kuras atdala ar punktiem (.). Pašā labajā pusē esošais uzraksts ir augšējā līmeņa domēns. Zemākie līmeņi ir pa kreisi. No iepriekšējā piemēra, example ir org apakšdomēns, test2 ir example apakšdomēns, test1 ir test2 apakšdomēns. Maksimālais iespējamais apakšdomēnu dziļums ir 127. (piemērā bija 4 līmeņi).
+
+Katrs uzraksts (''label'') var saturēt līdz 63 simboliem, pilnais domēna vārds nevar būt garāks par 253 simboliem. Uzrakstos lietojamie simboli var būt lielie un mazie latīņu alfabēta burti, cipari un defise (-), kuru nevar lietot uzraksta sākumā un beigās.
+
+DNS klients mēģinot noteikt nezināma domēna vārda IP adresi, sākumā nosaka ''root nameserver'' adresi, tad no turienes dabū informāciju par TLD DNS servera adresi, no TLD servera atrod attiecīgā domēna DNS servera adresi un no turienes dabū meklēto IP adresi. Dažreiz nākas iet līdz apakšdomēnu DNS serveriem. Dažreiz TLD DNS serveris satur informāciju par dažiem domēniem atbilstošu vārdu IP adresēm. Šis process gan parasti nenotiek klienta datorā, bet gan zema līmeņa DNS serveros. Šādi iegūtos datus tie uzglabā savā [[kešatmiņa|kešatmiņā]], lai šo procesu nebūtu jāatkārto. Klientu datori savāc gatavos rezultātus no zema līmeņa DNS servera.
+
+'''DNS ieraksti:'''
+
+Katram domēna vārdam var būt piesaistīti vairāki DNS ieraksti<ref>{{Tīmekļa atsauce|url=https://gthost.com/blog/all-about-resource-dns-records/|title=All About Resource DNS Records — What is a Record DNS|website=GTHost|access-date=2020-12-20|date=2020-07-20|archive-date=2021-01-28|archive-url=https://web.archive.org/web/20210128153149/https://gthost.com/blog/all-about-resource-dns-records/}}</ref> (''records''):
+
+'''A tipa ieraksts:'''
+
+Šis DNS ieraksts ir resursdatora adrese, ko izmanto, lai domēna vārdu norādītu uz konkŗēto IPv4 adresi. Tas ir visizplatītākais DNS ierakstu veids, un tas ļauj lietotājiem ierakstīt domēna vārdu, kas lasāms cilvēkiem, kamēr dators to ciparu veidā pārveido par IP adresēm.
+
+'''AAAA tipa ieraksts:'''
+
+Tas ir IPv6 resursdatora adreses ieraksts. Tas ir līdzīgs A ierakstiem, taču A ieraksts paredzēts domēna vārdu kartēšanai tikai uz IPv4 adresi, turpretī AAAA ieraksts paredzēts kartēšanai uz IPv6. AAAA ieraksts pagaidām vairāk kalpo kā nākotnes ieraksts.
+
+'''CNAME tipa DNS ieraksts:'''
+
+Cname ir kanoniskais nosaukums. Tas ir DNS ieraksta tips domēna vārdu pseidonīmiem un tādējādi ļauj izmantot dažādus nosaukumus (aizstājvārdus) vienam servera datoram. Tas ir svarīgi, jo viena servera datora resursdators var uzņemties dažādas lomas un var darboties kā tīmekļa serveris, tērzēšanas serveris utt.
+
+'''MX tipa DNS ieraksti:'''
+
+Šie DNS ieraksti ir paredzēti e-pastiem. Tas kartē domēna vārdu e-pasta serverim un tiek izmantots DNS domēna pasta servera atrašanai.
+
+'''NS ieraksti:'''
+
+Šie DNS ieraksti attiecas uz vārdu serveri un tiek izmantoti, lai noteiktu, kurš autoritatīvais DNS serveris ir konkrētai zonai. Tas arī deleģē domēna vārda daļas dažādiem DNS serveriem.
+
+'''SRV ieraksts:'''
+
+To izmanto pakalpojuma atrašanās vietas noteikšanai. Tie ir pielāgoti DNS ieraksti.
+
+'''TXT ieraksti:'''
+
+Šie DNS ieraksti ir aprakstoši teksta ieraksti. Tos izmanto aprakstošā teksta glabāšanai, kurā ir informācija par resursdatoriem, tālruņu numuri, kontaktu adreses vai citi svarīgi fakti par domēna vārdu. Ierakstu izmanto informācijas piegādāšanai dažādiem avotiem ārpusē. To var arī izmantot, lai pārbaudītu domēna vārda īpašumtiesības.
+
+== Problēmas ar drošību ==
+Sākotnēji drošības apsvērumi nebija galvenie DNS programmatūras vai jebkuras programmatūras izstrādes apsvērumi agrīnā interneta izvietošanai, jo tīkls nebija atvērts plašai sabiedrībai. Tomēr interneta izplešanās komerciālajā sektorā 90. gados mainīja prasības drošības pasākumiem, lai aizsargātu datu integritāti un lietotāju autentifikāciju.
+
+Ļaunprātīgi lietotāji atklāja un izmantoja vairākas ievainojamības. Viena no šādām problēmām ir DNS kešatmiņas saindēšanā, kurā dati tiek izplatīti kešatmiņas atrisinātājiem, aizbildinoties, ka tas ir autoritatīvs izcelsmes serveris, tādējādi piesārņojot datu krātuvi ar potenciāli nepatiesu informāciju un ar ilgu derīguma laiku. Pēc tam likumīgi lietojumprogrammu pieprasījumi var tikt novirzīti uz tīkla resursdatoriem, kas darbojas ar ļaunprātīgu nolūku.
+
+DNS atbildēm tradicionāli nav kriptogrāfiskā paraksta, kas rada daudzas uzbrukuma iespējas; domēna nosaukumu sistēmas drošības paplašinājumi (DNSSEC) modificē DNS, lai pievienotu atbalstu kriptogrāfiski parakstītām atbildēm. DNSCurve ir piedāvāta kā alternatīva DNSSEC. Citi paplašinājumi, piemēram, TSIG, pievieno atbalstu kriptogrāfiskai autentifikācijai starp uzticamiem lietotājiem, un tos parasti izmanto, lai autorizētu zonas pārsūtīšanu vai dinamiskās atjaunināšanas darbības.
+
+Dažus domēna vārdus var izmantot, lai panāktu viltošanas efektu. Piemēram, paypal.com un paypa1.com ir dažādi nosaukumi, taču lietotāji var nespēt tos atšķirt grafiskajā lietotāja interfeisā atkarībā no lietotāja izvēlētā burtveidola. Daudzos fontos burts l un cipars 1 izskatās ļoti līdzīgi vai pat identiski. Šī problēma ir aktuāla sistēmās, kas atbalsta internacionalizētus domēna nosaukumus, jo daudzi ISO 10646 rakstzīmju kodi parastajos datoru ekrānos var izskatīties identiski. Šo ievainojamību laiku pa laikam izmanto pikšķerēšanā.
+
+Lai apstiprinātu DNS rezultātus, var izmantot arī tādas metodes kā uz priekšu apstiprināts reversais DNS.
+
+DNS var "noplūst" arī no citādi drošiem vai privātiem savienojumiem, ja netiek pievērsta uzmanība to konfigurācijai, un dažreiz DNS ir izmantojis ļaunprātīgas personas, lai apietu ugunsmūrus un izfiltrētu datus, jo tas bieži tiek uzskatīts par nekaitīgu.
+
+== Interesanti fakti par DNS ==
+80-tajos gados tika radīti pirmie 6 augstākā līmeņa domēni (TLD): .com, .org, .biz, .mil, .net un .edu.
+
+Pasaulē pirmais reģistrētais domēna vārds bija Symbolics.com
+
+Līdz 1995. gadam domēnu vārdu reģistrācija bija bezmaksas! Neticami, bet tiešām bez maksas!. Vēlāk 1995. gadā, Network Solutions ieguva tiesības pieprasīt maksu par domēnu vārdu izmantošanu. Cenas sākotnēji bija $100 par 2 reģistrācijas gadiem, bet vēlāk samazinājās līdz $70 1997gadā.
+
+Uz 2020. gada sākumu bija reģistrēti 1578 augstākā līmeņa domēni.
+
+Tiek lēsts, ka jebkad visdārgāk pārdotais domēns ir cars.com. To esot iegādājies par 872 miljoniem USD uzņēmums Gannet Co., Inc. Diemžēl šis fakts nav oficiāli apstiprināts.
+
+Saraksts ar visdārgāk iegādātiem domēna vārdiem<ref>{{Publikācijas atsauce|date=2020-11-11|title=List of most expensive domain names|url=https://en.wikipedia.org/w/index.php?title=List_of_most_expensive_domain_names&oldid=988240142|journal=Wikipedia|language=en}}</ref>: 
+{| class="wikitable sortable"
+!Domain
+!Price
+!Sale date
+!Ref
+|-
+|Voice.com
+|$30 million
+|2019
+|
+|-
+|360.com
+|$17 million
+|2015
+|
+|-
+|Sex.com
+|$13 million
+|2010
+|
+|-
+|Fund.com
+|$12 million
+|2008
+|
+|-
+|Hotels.com
+|$11 million
+|2001
+|
+|-
+|Tesla.com
+|$11 million
+|2014
+|
+|-
+|Porn.com
+|$9.5 million
+|2007
+|
+|-
+|Porno.com
+|$8.8 million
+|2015
+|
+|-
+|Fb.com
+|$8.5 million
+|2010
+|
+|-
+|We.com
+|$8 million
+|2015
+|
+|-
+|Diamond.com
+|$7.5 million
+|2006
+|
+|-
+|Beer.com
+|$7 million
+|2004
+|
+|-
+|Z.com
+|$6.8 million
+|2014
+|
+|-
+|iCloud.com
+|$6 million
+|2011
+|
+|-
+|Casino.com
+|$5.5 million
+|2003
+|
+|-
+|Slots.com
+|$5.5 million
+|2010
+|
+|-
+|AsSeenOnTv.com
+|$5.1 million
+|2000
+|
+|-
+|Toys.com
+|$5.1 million
+|2009
+|
+|-
+|Clothes.com
+|$4.9 million
+|2008
+|
+|-
+|Medicare.com
+|$4.8 million
+|2014
+|
+|-
+|IG.com
+|$4.6 million
+|2013
+|
+|-
+|GiftCard.com
+|$4 million
+|2012
+|
+|-
+|Yp.com
+|$3.8 million
+|2008
+|
+|-
+|HG.com
+|$3.77 million
+|2016
+|
+|-
+|Mi.com
+|$3.6 million
+|2014
+|
+|-
+|Ice.com
+|$3.5 million
+|2018
+|
+|-
+|AltaVista.com
+|$3.3 million
+|1998
+|
+|-
+|Whisky.com
+|$3.1 million
+|2014
+|
+|-
+|Loans.com
+|$3.0 million
+|2000
+|
+|-
+|Vodka.com
+|$3.0 million
+|2006
+|
+|-
+|Candy.com
+|$3.0 million
+|2009
+|
+|-
+|California.com
+|$3.0 million
+|2019
+|
+|}
+Ilon Mask bija nepieciešami aptuveni 10 gadi, līdz tas beidzot iegādājās tesla.com domēnu no kāda silīcija ielejas inženiera vārdā Stuart Grossman.
+
+Līdz tam Tesla izmantoja teslamotors.com domēnu.
+
+== Izmantošana ==
+Bieži vien izmantota analoģija, lai izskaidrotu DNS ir tā ka DNS darbojas kā [[tālruņu grāmata]] priekš interneta, lai translētu cilvēkiem saprotamos resursdatora vārdus par IP adresēm. Piemēram, domēna vārds www.example.com, translējas par adresi ''93.184.216.34'' ([[IPv4]]) un ''2606:2800:220:1:248:1893:25c8:1946'' ([[IPv6]]). DNS priekšrocība ir, tā ātrā izmantošana, ierakstu atjaunināšana ir nemanāma, ļaujot servisiem mainīt lokāciju tīklā neietekmējot gala lietotājus, kas turpina izmantot resursdatora vārdu. Visplašāk tas ir izplatīts, kad tiek lietoti vienoto resursu vietrāži ([[Vienotais resursu vietrādis|URL]]) un [[Elektroniskā pasta adrese|e-pasta adreses]], galalietotājiem nav nepieciešams zināt tīkla servisa adrese.
+
+Kad lietotājs izmanto intereneta resursus izmantojot URL, domēna vārds tiek translēts par aptuveni tuvākā resursdatora IP adresi (vairāku resursdatoru gadījumā). Galvenā DNS funkcionalitāte ir tāda, ka vairāki lietotāji var vienlaicīgi pieslēgties taču saņemt dažādus viena un tā paša domēna vārda IP translējumus. Piešķirot aptuveni tuvāko resursdatora IP adresi ļauj izmantot ātrākus un noturīgākus savienojumus. Šī metode ir plaši implementēta lielākajos interneta servisos.<ref>{{Tīmekļa atsauce|url=http://www.akamai.com/dl/technical_publications/network_overview_osr.pdf|title=|last=|first=|access-date=|date=}}</ref>
+
+DNS nodrošina arī interneta administratīvās drošibas struktūru.<ref>{{Tīmekļa atsauce|url=https://tools.ietf.org/html/rfc1035.html|title=Domain names - implementation and specification|last=Mockapetris|first=P. V.|website=tools.ietf.org|access-date=2020-05-12|language=en}}</ref> Katrs apakšdomēns ir administratīvās autonomijas zonā, kas nozīmēts kādam no pārvaldniekiem. Zonas, kuras tiek pārvaldītas ar [[reģistriem]], papildus satur reģistra [[RDAP]] un [[WHOIS]] servisu informāciju. Pateicoties šai informācijai ir iespējams iegūt ziņas par noteikta domēna darbībām un atbildību internetā.
+
+== Drošības jautājumi ==
+Sākotnēji DNS drošības pasākumi netika noteikti pietiekoši augsti, balstoties uz to, ka Internets tā pirmsākumos nebija pieejams plašākai publikai. Taču Internetam ienākot komerciālajā sfērā 1990. gadā, drošības jautājumiem tika pievērsta pastiprināta uzmanība.
+ 
+Daži domēna vārdi var tikt izmantoti, lai maldinātu lietotājus, izmantojot līdzīgus domēna vārdus visiem labi zināmajiem. Piemēram, paypal.com un paypa1.com ir dažādi nosaukumi, taču lietotāji var nespēt atšķirt tos grafiskajā lietotāja interfeisā, atkarībā no lietotāja izvēlētā šrifta. Daudzos interfeisos fonti - burts l, un skaitlis 1 izskatās ļoti līdzīgi vai pat identiski. Šī problēma ir ļoti aktuāla sistēmās, kuras atbalsta internacionalizētos domēna vārdus, jo daudzi rakstzīmju kodējumi ISO 10646 standartā, var parādīties identiski uz tipiskiem datora ekrāniem. Šo ievainojamību bieži izmanto [[pikšķerēšana]]i.
+
+DNS ugunsmūris - rīks individuālu lietotāju un organizāciju pasargāšanai no kiberapdraudējumiem, tādiem kā viltus banku lapas, krāpnieciskas tirdzniecības platformas, vīrusus izplatošas vietnes u.c.
+
+Pasaulē regulāri notiek kampaņveidīgas krāpnieciskās aktivitātes – gan viltus vietnes [[Bankas konts|bankas kontu]], e-pasta vai sociālo tīklu piekļuves datu izkrāpšanai, gan vīrusu izplatīšanai kibertelpā. drošības organizācijas novēro šādas kampaņas un operatīvi ievieto šo kampaņu indikatorus ugunsmūrī, lai tā lietotājus pasargātu no identificētajiem apdraudējumiem.
+
+Šāda sistēma nodrošina aktīvu aizsardzību, kā piemēram, ļaunatūras lejupielādes bloķēšana, tādējādi novēršot lietotāju piekļūšanu bīstamajiem resursiem un pārvirzot tos uz brīdinājuma vietni (landingpage). Arī gadījumos, kad ļaunatūra jau ir inficējusi kādu iekārtu, DNS ugunsmūris sniedz iespēju ātrāk identificēt šādas iekārtas, kas sistēmu administratoriem dod iespēju operatīvi veikt seku novēršanu.
+
+Lietošana.
+
+Piemēram Latvijā CERT.LV sadarbībā ar NIC sniedz DNS ugunsmūra pakalpojumu BEZ MAKSAS. To var izmantot ikviens Latvijas interneta lietotājs (gan mājās, gan darbā). Lai nodrošinātu sev vai saviem klientiem šo papildu aizsardzību, jāizmanto NIC rekursīvie DNS serveri.
+
+== Konfidencialitātes un izsekošanas jautājumi ==
+Sākotnēji izveidots kā publiska, hierarhiska, izplatīta datu bāze, DNS protokolam nav konfidencialitātes kontroles. Lietotāju vaicājumi un servera atbildes tiek sūtītas nešifrētas.
+
+Galvenās pieejas, kas tiek izmantotas, lai novērstu privātuma problēmas:
+
+* [[Virtuālais privātais tīkls|VPT]] - kas pārvieto parasto DNS translāciju (angļu- [https://kb.webtrends.com/articles/Question/What-is-DNS-Resolution-1365448116431 resolution]) uz VPT operatoru un paslēpj lietotāja darbības no vietējā interneta pakalpojumu sniedzēja,
+* [[Tor (anonimitātes tīkls)|Tor]] - kas apmaina parasto DNS translāciju pret anonīmiem .onion domēniem, paslēpjot gan domēna vārdu, gan lietotāja darbības,
+* [[Starpniekserveris]] (Proxy) un publiskie DNS serveri - kas faktisko DNS translāciju pārvieto uz trešās puses pakalpojumu sniedzēju.
+
+== DNS protokols ==
+DNS galvenokārt izmanto [[Lietotāja datogrammu protokols|lietotāja datagrammas protokolu]] (UDP) portā 53, lai saņemtu pieprasījumus. DNS vaicājumi sastāv no viena klienta UDP pieprasījuma, kam seko viena servera UDP atbilde. Ja atbildes garums pārsniedz 512 baitus un gan klients, gan serveris atbalsta DNS paplašināšanas mehānismi ([[:en:Extension Mechanisms for DNS|EDNS]]), tiek izmantotas lielākas UDP paketes. Pretējā gadījumā vaicājums tiek nosūtīts vēlreiz, izmantojot [[TCP|pārraides vadības protokolu]] (TCP).<ref>{{Publikācijas atsauce|date=2021-04-07|title=Domain Name System|url=https://en.wikipedia.org/w/index.php?title=Domain_Name_System&oldid=1016463086|journal=Wikipedia|language=en}}</ref>
+
+== Protokola paplašinājumi (Extensions) ==
+Oriģinālais DNS protokols bija limitēts funkcionalitātē paplašinājumu pievienošanā. 1999. gadā Pols Viksijs publicēja RFC 2671 (aizstāts ar RFC 6891), paplašinājumu mehānismu ar nosaukumu "Paplašinājumu mehānismi priekš DNS" ({{val|en|Extension Mechanisms for DNS}}) (EDNS) kas sniedza iespēju izmantot opcionālus protokola elementus būtiski nepaaugstinot resursu patēriņu. Tas tika panākts ar OPT pseido-resursu ieraksta palīdzību, kas pastāvēja tikai protokola vadu pārraidē, bet ne pašos zonas failos. Pirmajos paplašinājumos tika izmēģināts arī EDNS0.
+
+== Dinamisko zonu atjaunināšana ==
+Dinamiskā DNS atjaunināšanā izmanto UPDATE DNS opkodu, lai dinamiski pievienotu vai noņemtu ierakstus no zonas datubāzes, kuru uztur autoratīvs DNS serveris. Šī funkcionalitāte ir aprakstīta RFC 2136 katalogā. Dinamiskā zonu atjaunināšanu izmanto, lai tīklā reģistrētu klientus, kas ir ieslēgušies (boot) vai jebkādā citā veidā ir kļuvuši pieejami tīklā. Tā kā klientam kas ieslēdzas var tikt piešķirta atšķirīga IP adrese katru reizi (pateicoties DHCP serverim) nav iespējams izmantot dinamisko zonu atjaunināšanu.
+
+== Skatīt arī ==
+* [[Saimniekdatora nosaukums]]
+
+== Atsauces ==
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Domēnu nosaukumu sistēma| ]]
+[[Kategorija:Interneta protokoli]]
+[[Kategorija:Internets]]

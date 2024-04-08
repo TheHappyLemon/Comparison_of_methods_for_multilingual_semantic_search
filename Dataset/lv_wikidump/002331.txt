@@ -1,0 +1,24 @@
+<div style="float:left;border:solid #77E0E8 1px;margin:1px">
+{| cellspacing="0" style="width:238px;background:#D0F8FF"
+| style="width:45px;height:45px;background:#77E0E8;text-align:center;font-size:14pt" | '''[[Angļu valoda|en]]-2'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em" | This user is able to contribute with an '''[[:Kategorija:User en-2|intermediate]]''' level of '''[[:Kategorija:User en|English]]'''.
+|}</div><includeonly>
+[[Kategorija:User en|{{PAGENAME}}]]
+[[Kategorija:User en-2|{{PAGENAME}}]]
+</includeonly><noinclude>
+<br /><br /><br />
+== Lietojums ==
+
+Šī veidne tavu lapu automātiski pievienos kategorijām:
+* [[:Kategorija:User en]]
+* [[:Kategorija:User en-2]]
+
+== Skaties arī ==
+
+* [[Template:User en-1|Iepriekšējais līmenis]]
+* [[Template:User en-3|Nākamais līmenis]]
+
+
+[[Kategorija:Valodu lietotāju veidnes|en-2]]
+
+</noinclude>

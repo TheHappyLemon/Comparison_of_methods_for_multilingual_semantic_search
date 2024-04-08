@@ -1,0 +1,37 @@
+'''Rentgendifraktometrija''' jeb '''rentgenstruktūranalīze''' ir [[kristalogrāfija]]s metode, kurā iegūst un analizē [[rentgenstari|rentgenstaru]] [[difrakcija]]s ainu [[kristāls|kristālos]], lai noteiktu [[Kristālrežģis|kristālrežģa]] īpašības. Kristālrežģa starpplākšņu attālumus nosaka pēc Brega likuma. Rentgenstarus izkliedē (difraģē) ap [[atoms|atomiem]] esošie [[elektrons|elektroni]], nevis paši [[Atoma kodols|atomu kodoli]].
+
+Eksistē vairākas rentgendifraktometrijas metodes. Lai noteiktu nezināmas vielas struktūru, parasti cenšas lietot [[monokristāls|monokristālu]] metodes, jo to datu atšifrēšana ir vienkāršāka, taču ne visām vielām var iegūt pietiekoši lielus monokristālus un tad nākas lietot pulveru metodes. Lai noteiktu vielas (maisījuma) fāzu sastāvu, parasti vienmēr lieto pulvera metodi. Visas rentgendifraktometrijas metodes, pēc pielietojuma, var iedalīt 3 grupās:
+* monokristālu difraktometrija - lieto monokristālus, 2D detektorus; izmanto nezināmu vielu struktūras noteikšanai;
+* rentgentopogrāfija - lieto defektu noteikšanai monokristālos (galvenokārt pusvadītāju rūpniecībā);
+* polikristālu rentgendifraktometrija - lieto polikristālisku maisījumu fāzu sastāva noteikšanai, kā arī ierobežotai vielas struktūras noteikšanai (visplašāk lietotā metode).
+
+Rentgendifraktometrijā paraugu apstaro ar rentgenstariem un mēra caurgājušā vai atstarotā starojuma intensitāti atkarībā no atstarošanas leņķa. Rentgenstarojumu parasti iegūst ar [[Rentgenlampa|rentgenlampām]]. Leņķus starp rentgenstarojuma avotu, paraugu un starojuma detektoru mēra ar [[goniometrs|goniometru]]. Par starojuma detektoru agrāk lietoja fotofilmu, un šādu metodi sauc par [[rentgenogrāfija|rentgenogrāfiju]]. Filma ir divdimensionāla, taču relatīvi mazjutīga. Vēlāk sāka lietot [[kvants|kvantu]] skaitītājus (gāzizlādes skaitītājus) un scintilācijas skaitītājus. Tie ir ievērojami jutīgāki. [[Scintilāciju detektori|Scintilācijas detektors]] sastāv no scintilatora kristāla, kas spīd (izstaro [[Redzamā gaisma|redzamo gaismu]]), ja to apstaro ar rentgenstariem. Viens rentgenstarojuma kvants var radīt vairākus redzamās gaismas kvantus, atkarībā no enerģijas.
+
+=== Brega likums ===
+Brega likums (precīzāk - Bregu likums) ir sakarība, kuru 1912. gadā atklāja [[Viljams Henrijs Bregs|V. H. Bregs]] un [[Viljams Lorenss Bregs|V. L. Bregs]]. Šis likums pirmo reizi apstiprināja reālu, atomāra izmēra daļiņu eksistenci. Rentgenstaru [[fotons]], ietriecoties vielas atomā, izraisa [[Sekundārā emisija|sekundāro emisiju]] ar tādu pašu [[frekvence|frekvenci]] (elastīgā izkliede (dispersija)). Sekundāri izstarotie viļņi interferē cits ar citu, veidojot difrakcijas ainu. Rentgenstaru [[Viļņa garums|viļņu garumi]] ir salīdzināmi ar starpatomu attālumiem kristālos (~150pm). [[Interference]]s iedarbībā izkliedētā starojuma intensitāte pastiprinās, ja [[fāžu nobīde]] ir proporcionāla 2π. Šo nosacījumu apraksta Brega likums:
+<center><math>n\lambda=2d\sin(\theta) \,</math></center>
+kur:
+* ''n'' - vesels skaitlis;
+* λ - rentgenstaru viļņa garums;
+* ''d'' - kristāla starpplākšņu attālums (tādās pašās mērvienībās, ka λ);
+* θ - leņķis starp ienākošo starojumu un [[Kristālrežģis|kristālrežģa]] plakni.
+
+[[Attēls:Loi de bragg.png|400px]]<br /><small>
+Atkarībā no 2θ leņķa, fāžu nobīde izraisa intensitātes palielināšanos (pa kreisi), vai samazināšanos (pa labi).</small>
+
+=== Monokristālu metodes ===
+Laues metode. Lieto nekustīgu monokristālu un balto rentgenstarojumu. Nepieciešams 2D detektors.
+
+Rotējošā kristāla metode. Lieto rotējošu vai svārstošu monokristālu un monohromatisku rentgenstarojumu. Nepieciešams 2D detektors.
+
+== Debaja metode (pulvera metode) ==
+Šeit lieto polikristālu vai pulverī saberztu monokristālu un [[monohromatisks|monohromatisku]] rentgenstarojumu.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Optika]]
+[[Kategorija:Tehnika]]
+[[Kategorija:Kristalogrāfija]]
+
+
+{{kfstub}}

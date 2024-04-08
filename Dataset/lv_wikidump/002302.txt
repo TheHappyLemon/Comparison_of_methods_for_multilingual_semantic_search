@@ -1,0 +1,58 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 41
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 18
+|             4. čaula = 12
+|             5. čaula = 1
+|              simbols = Nb
+|             atommasa = 92,90637(2)
+|   valences elektroni = [Kr]4d<sup>4</sup>5s<sup>1</sup>
+|       tabulas attēls = [[Attēls:Nb-TableImage.svg|250px]]
+|               attēls = [[Attēls:Niobium crystals and 1cm3 cube.jpg|200px]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Columbit.jpg|150px]]<br />Ļoti tīra niobija kristāli un anodēta niobija kubiņš; niobija rūdas — kolumbīta — paraugs
+|  oksidēšanas pakāpes = '''+5''', +3, +2
+|  elektronegativitāte = 1,6
+|              blīvums = 8570 
+|  kušanas temperatūra = 2750 K (2477&nbsp;°C)
+| viršanas temperatūra = 5017 K (4744&nbsp;°C)
+}}
+
+'''Niobijs''', agrāk '''kolumbijs''', ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Nb''' (agrāk '''Cb''') un [[atomskaitlis|atomskaitli]] 41. Tas ir mīksts, pelēks un elastīgs [[pārejas metāli|pārejas metāls]]. Niobijs dabā nav sastopams brīvā veidā, jo ļoti viegli oksidējas. Niobiju iegūst no [[kolumbīts|kolumbīta]] minerāla. Niobijs parasti atrodams kopā ar [[tantals|tantalu]]. Niobiju lieto dažādiem [[sakausējums|sakausējumiem]]. Savienojumos tam var būt oksidēšanas pakāpe +2, +3 un +5; galvenokārt niobijs tomēr ir piecvērtīgs.
+
+== Vēsture ==
+1801. gadā angļu ķīmiķis [[Čārlzs Hetčets]] (''Charles Hatchett'') atklāja jaunu ķīmisko elementu. Viņš elementu atklāja, pētot [[kolumbīts|kolumbīta]] minerālu, un nosauca jaunatklāto elementu par kolumbiju. 1846. gadā, kad bija noskaidrots, ka patiesībā kolumbijs ir divu ķīmisko elementu sajaukums, kolumbiju pārsauca par niobiju, bet otru elementu, kas līdz tam tika uzskatīts par kolumbija [[alotropija|alotropisko]] formu, nosauca par [[tantals|tantalu]].<ref name="webelements"/> [[Nioba]] sengrieķu mitoloģijā ir [[Tantals (mitoloģija)|Tantala]] meita.
+
+1864. gadā zviedru ķīmiķis [[Kristians Vilhelms Blumstrands]] (''Christian Wilhelm Blomstrand'') pirmo reizi ieguva niobiju tīrā veidā.<ref name="webelements"/>
+
+== Atrašanās dabā ==
+Niobijs dabā nav sastopams brīvā veidā, jo ļoti viegli oksidējas. Niobijs [[minerāls|minerālos]] parasti atrodams kopā ar [[tantals|tantalu]]. Viens no izplatītākajiem minerāliem, kas satur niobiju, ir [[kolumbīts]] jeb niobīts {{nobr|((Fe,Mn)(Nb,Ta)<sub>2</sub>O<sub>6</sub>)}}. [[Zemes garoza|Zemes garozā]] niobija koncentrācija ir aptuveni 20 daļiņas no miljona.
+
+=== Izotopi ===
+Dabā ir sastopams tikai viens stabils niobija izotops — <sup>93</sup>Nb.<ref name="jlab"/> Laboratorijas apstākļos ir iegūti vēl vairāki izotopi. Kopējais izotopu skaits sasniedz 32, kuru [[masas skaitlis]] ir no 81 līdz 113.
+
+== Izmantošana ==
+Niobijs tiek izmantots [[sakausējums|sakausējumu]] ražošanā, kuri spēj izturēt augstas temperatūras, un īpašu nerūsējošu tēraudu ražošanā.<ref name="lenntech"/> Neliels niobija daudzums palielina citu metālu stiprību.
+
+== Skatīt arī ==
+* [[Tantals]]
+
+== Atsauces ==
+{{commonscat|Niobium|niobijs}}
+{{atsauces|refs=
+<ref name="webelements">{{tīmekļa atsauce | url= http://www.webelements.com/niobium/history.html | title= Niobium - historical information | publisher= Webelements.com | accessdate= 2014. gada 18. februārī | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso041.html | title= Isotopes of the Element Niobium | publisher= Jefferson Lab | accessdate= 2014. gada 18. februārī | language= angliski | archiveurl= https://web.archive.org/web/20140212191918/http://education.jlab.org/itselemental/iso041.html | archivedate= 2014. gada 12. Februāris }}</ref>
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/nb.htm | title= Niobium (Nb) | publisher= Lenntech | accessdate= 2014. gada 18. februārī | language= angliski | archiveurl= https://web.archive.org/web/20140122022308/http://www.lenntech.com/periodic/elements/nb.htm | archivedate= 2014. gada 22. Janvāris }}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

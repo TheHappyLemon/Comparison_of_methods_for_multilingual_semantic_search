@@ -1,0 +1,70 @@
+{{Elementa infokaste
+|                 tips = pārejas metāls
+|      kārtas skaitlis = 78
+|             6. čaula = 1
+|             5. čaula = 17
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Pt
+|             atommasa = 195,084
+|   valences elektroni = [Xe]4f<sup>14</sup>5d<sup>9</sup>6s<sup>1</sup>
+|       tabulas attēls = [[Attēls:Pt-TableImage.svg|250px]]
+|               attēls = [[Attēls:Platinum crystals.jpg|180px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Platinum-41654.jpg|120px]]<br />Platīna kristāli un platīna tīrradnis
+|  oksidēšanas pakāpes = +6, +5, '''+4''', +3, '''+2''', +1, 0
+|  elektronegativitāte = 2,28
+|              blīvums = 21450
+|  kušanas temperatūra = 2041,4 K (1768,3&nbsp;°C)
+| viršanas temperatūra = 4098 K (3825&nbsp;°C)
+}}
+
+'''Platīns''' ir [[ķīmiskais elements]] ar simbolu '''Pt''' un [[atomskaitlis|atomskaitli]] 78. Platīns ir [[blīvums|blīvs]], [[kaļamība|kaļams]], [[elastīgums|elastīgs]] un [[korozija]]s izturīgs pelēkbalts [[pārejas metāli|pārejas metāls]]. Platīns dabā galvenokārt ir sastopams brīvā veidā, lai gan [[Zemes garoza|Zemes garozā]] tas ir reti sastopams metāls. Platīns ir [[dārgmetāls|dārgs metāls]], aptuveni 2 līdz 3 reizes dārgāks par [[zelts|zeltu]]. Ļoti daudziem ķīmiskiem procesiem platīnu lieto par [[katalizators|katalizatoru]].
+
+Elementa nosaukums ir radies no [[spāņu valoda|spāņu vārda]] ''platina'',<ref name="britannica"/> kas nozīmē "mazais [[sudrabs]]" jeb "sudrabiņš".
+
+[[Mūzikas albums|Mūzikas albumam]], kad tam pārdots viens miljons eksemplāru, tiek piešķirts "platīna" statuss. Augstāks ir tikai "multiplatīna" un "dimanta albuma" statuss.
+
+== Raksturojums ==
+=== Īpašības ===
+Platīns tīrā veidā ir pelēkbalts, mirdzošs, elastīgs un kaļams metāls. Platīns ir elastīgāks nekā [[zelts]], [[sudrabs]] un [[varš]], tomēr mazāk pakļaujas kalšanai nekā zelts. Tas neoksidējas, kā arī ir [[korozija]]s izturīgs, ja uz to iedarbojas [[halogēni]], [[cianīdi]], [[sērs]] un kodīgie [[sārmi]]. Platīns ir nešķīstošs [[sālsskābe|sālsskābē]] un [[slāpekļskābe|slāpekļskābē]], bet šķīst karstā [[karaļūdens|karaļūdenī]], veidojot [[heksahlorplatīnskābe|heksahlorplatīnskābi]] (H<sub>2</sub>PtCl<sub>6</sub>).
+:Pt + 4 HNO<sub>3</sub> + 6 HCl → H<sub>2</sub>PtCl<sub>6</sub> + 4 NO<sub>2</sub> + 4 H<sub>2</sub>O
+
+Temperatūrā, kas ir lielāka par 400 °C, platīns tomēr reaģē ar [[halogēni]]em, [[fosfors|fosforu]], [[sērs|sēru]], [[ogleklis|oglekli]], [[silīcijs|silīciju]] un [[selēns|selēnu]].
+
+Platīns ļoti lēni nodilst un apsūbē, tāpēc to mēdz izmantot [[juvelierizstrādājumi|juvelierizstrādājumu]] veidošanā.
+
+Savienojumos platīna [[oksidēšanas pakāpe]]s galvenokārt ir +2 un +4, retāk +1, +3, +5 un +6.
+
+=== Izotopi ===
+Platīnam ir seši dabā atrodami [[izotops|izotopi]]. Visizplatītākie ir platīns-195 (33,78% no visa platīna daudzuma), platīns-194 (32,86%) un platīns-196 (25,21%).<ref name="jlab"/> Atlikušie trīs izotopi ir platīns-198 (7,36%), platīns-192 (0,782%) un platīns-190 (0,012%).<ref name="jlab"/> Platīns-190 ir vienīgais, kas ir [[radioaktivitāte|radioaktīvs]]. Tā [[pussabrukšanas periods]] ir 6,5{{E|11}} gadi.<ref name="jlab"/>
+
+=== Sastopamība ===
+Platīna daudzums [[Zemes garoza|Zemes garozā]] ir vidēji 5 μg/kg. Tādēļ tas ir viens no reti sastopamajiem elementiem. Tas bieži atrodas [[niķelis|niķeļa]] un [[varš|vara]] rūdās, lai gan ir atrodams arī tīrā veidā, galvenokārt, [[Dienvidāfrika|Dienvidāfrikā]], kur iegūst aptuveni 77% no visas pasaules platīna. Otrajā vietā pēc iegūtā platīna daudzuma ir [[Krievija]] (13%). 2010. gadā ieguva 192 tonnas platīna.
+
+== Atklāšana ==
+[[Vecā pasaule|Vecajā pasaulē]] platīns nebija zināms metāls līdz pat 16. gadsimtam, lai gan [[Andi|Andu]] civilizācijas ([[inki]] un [[čibči]]) to pazina kopš neatminamiem laikiem. Pirmie eiropieši, kas saskārās ar platīnu, bija [[spāņi|spāņu]] [[konkistadors|konkistadori]].
+
+1735. gadā [[Spānija]]s karalis izdeva dekrētu, kurā aizliedza platīnu vest uz Eiropu, jo viltotāji to lietoja [[naudas viltošana|naudas viltošanā]]. 1748. gadā spāņu matemātiķis un jūrasbraucējs [[Antonio de Ulloa]] kļuva par pirmo cilvēku, kas sāka pētīt šo metālu. 1803. gadā platīns pirmo reizi tika iegūts tīrā veidā no [[rūda]]s. 1835. gadā tika pierādīts, ka platīns ir jauns [[ķīmiskais elements]].
+
+2007. gadā [[Gerhards Ertls]] saņēma [[Nobela prēmija ķīmijā|Nobela prēmiju ķīmijā]] par cieto virsmu ķīmisko procesu pētījumiem. Šajos pētījumos viņš pētīja arī platīnu.
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="britannica">{{tīmekļa atsauce | url= http://www.britannica.com/EBchecked/topic/464081/platinum-Pt | title= Platinum (Pt) | publisher= britannica.com | accessdate= 2013-02-02 | language= angliski}}</ref>
+
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso078.html | title= Isotopes of the Element Platinum | publisher= Jefferson Lab | accessdate= 2013-02-02 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pārejas metāli]]

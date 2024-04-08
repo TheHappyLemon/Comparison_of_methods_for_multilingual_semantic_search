@@ -1,0 +1,77 @@
+Par '''bāzi''' [[Pozicionāls skaitļu pieraksts|pozicionālajās skaitīšanas sistēmās]] sauc [[cipars|ciparu]] skaitu, kāds tiek izmantots [[skaitlis|skaitļu]] atveidošanai. Bāze parasti ir par <math>1</math> lielāka nekā lielākā cipara vērtība. Piemēram, pašlaik populārākajā lietotajā skaitīšanas sistēmā ar bāzi <math>10</math> — [[decimālā skaitīšanas sistēma|decimālajā sistēmā]] — ir 10 cipari, kur lielākais ir <math>9</math>.
+
+== Apzīmējumi ==
+
+Visbiežāk uzrakstītā skaitļa bāzi, ja tā nav noprotama no konteksta, pieraksta kā apakšējo indeksu aiz skaitļa. Pašu bāzi parasti raksta decimālajā sistēmā.
+
+Bāzēm, kas ir lielākas par 10, kā papildu nepieciešamos ciparus parasti paņem alfabēta pirmos burtus (parasti izmanto lielos). Piemēram, sešpadsmitnieku skaitīšanas sistēmas cipari ir <math>0 .. 9, A, B, C, D, E, F</math>.
+
+=== Piemērs ===
+
+<math>1111000001_2 = 1701_8 = 961_{10} = 3C1_{16} \ </math>
+
+== Vērtība ==
+
+Kaut kādā bāzē uzrakstīta skaitļa vērtību (ar "vērtību" šeit saprot skaitļa pierakstu decimālajā sistēmā) aprēķina, tā ciparus reizinot ar to pozīciju vērtībām, kurās tie atrodas, un visus reizinājumus saskaitot kopā. Cipara pozīcijas vērtību savukārt atrod, bāzi kāpinot pakāpē, kas ir šī cipara pozīcijas kārtas skaitlis (vai, varētu teikt, pati pozīcija, t.i., kurš cipars pēc kārtas (no beigām) tas ir).
+
+Ja ir dots skaitlis ar cipariem <math>a_0, a_1 .. a_n</math> bāzē <math>b</math>, tad tā vērtību aprēķina:
+
+<math>a_na_{n-1} \ldots a_2a_1a_0\ _b = a_n \cdot b^n + a_{n-1} \cdot b^{n-1} + \ldots + a_2 \cdot b^2 + a_1 \cdot b + a_0</math>
+
+vai (vieglāk aprēķināt, jo mazāk reizināšanu)
+
+<math>a_na_{n-1} \ldots a_2a_1a_0\ _b = (\ldots((a_n \cdot b + a_{n-1}) \cdot b + a_{n-2}) \cdot \ldots \cdot b + a_1) \cdot b + a_0</math>
+
+=== Piemērs ===
+
+<math>101121_3 = ((((1 \cdot 3 + 0) \cdot 3 + 1) \cdot 3 + 1) \cdot 3 + 2) \cdot 3 + 1 = 286 \ (286_{10})</math>
+
+== Pārveidošana no decimālās sistēmas ==
+
+Kaut kādā ziņā par pretējo darbību skaitļa pieraksta bāzē, kas nav <math>10</math>, vērtības atrašanai var uzskatīt skaitļa pieraksta pārveidošanu no decimālās sistēmas uz kādu citu. To dara, skaitli (veselo dalījumu) atkārtoti dalot ar vajadzīgo bāzi <math>b</math>, kā skaitļa jauno pierakstu bāzē <math>b</math> ņemot iegūto atlikumu virkni (no otra gala).
+
+=== Piemērs ===
+
+Kā pārveidot <math>140</math> uz četrinieku skaitīšanas sistēmu. Rezultātā iegūstam: <math>140_{10} = 2030_4</math>
+
+{|class="wikitable"
+|-
+|Dalāmais||Atlikums
+|-
+|style="color: red"|140||style="color: blue"|0
+|-
+|style="color: red"|35||style="color: blue"|3
+|-
+|style="color: red"|8||style="color: blue"|0
+|-
+|style="color: red"|2||style="color: blue"|2
+|-
+|0||
+|}
+
+Kāpēc šis paņēmiens darbojas, var vieglāk redzēt, ja uzraksta šādi (un ievēro pirmīt norādīto vērtības aprēķināšanas otro variantu):
+
+{|
+|-
+|<math>{\color {red} 140} = \ </math>
+|
+|
+|
+|-
+|
+|
+|align=right|<math>{\color {red} 35} \ </math>
+|align=right|<math>\left . \cdot 4 + 0 \right .</math>
+|-
+|
+|align=right|<math>\left ({\color {red} 8} \right .</math>
+|align=right|<math>\left . \cdot 4 + 3 \right )</math>
+|align=right|<math>\left . \cdot 4 + 0 \right .</math>
+|-
+|align=right|<math>\left ( \left ({\color {blue} 2} \right . \right .</math>
+|align=right|<math>\left . \cdot \mathbf {4} + {\color {blue} 0} \right )</math>
+|align=right|<math>\left . \cdot \mathbf {4} + {\color {blue} 3} \right )</math>
+|align=right|<math>\left . \cdot \mathbf {4} + {\color {blue} 0} \right .</math>
+|}
+
+[[Kategorija:Skaitīšanas sistēmas]]

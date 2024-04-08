@@ -1,0 +1,116 @@
+[[Attēls:Commutative Addition.svg|right|thumb|300px|Piemērs, kas ilustrē [[saskaitīšana]]s komutativitāti (3 + 2 = 2 + 3)]]
+[[Matemātika|Matemātikā]] '''komutativitāte''' ir īpašība, kas var piemist vairākargumentu [[funkcija]]i un [[bināra operācija|binārai operācijai]]. Intuitīvi komutativitāte nozīmē to, ka funkcijas vai bināras operācijas vērtība nav atkarīga no tās argumentu secības. Ja argumentus drīkst mainīt vietām, tad saka, ka tie ''komutē''. To, cik lielā mērā argumenti komutē, raksturo to ''[[komutators]]''.
+
+Operācijas, kas nav komutatīvas, sauc par ''nekomutatīvām''. Nekomutatīvu operāciju argumenti ''nekomutē'' (to, cik lielā mērā tie nekomutē, raksturo ''[[antikomutators]]''). Viens no nekomutatīvu operāciju veidiem ir ''[[antikomutativitāte|antikomutatīvas]]'' operācijas jeb operācijas, kas ir "maksimāli nekomutatīvas" (argumentus mainot vietām parādās mīnusa zīme).
+
+Komutativitātei līdzīga īpašība ir [[asociativitāte]]. Asociativitāte nozīmē to, ka operāciju ''izpildes'' secībai nav nozīmes (nevis operācijas ''argumentu'' secībai).
+
+Ja [[grupa (matemātika)|grupas]] operācija ir komutatīva, tad šādu grupu sauc par komutatīvu jeb [[Ābela grupa|Ābela grupu]].
+
+== Definīcija ==
+
+[[Attēls:Commutative Word Origin.PNG|right|thumb|250px|Vārds "komutativitāte" ir cēlies no [[franču valoda]]s un pirmo reizi parādījās publikācijā 1814. gadā]]
+
+[[Bināra operācija|Bināru operāciju]] "{{unicode|∗}}" [[kopa|kopā]] ''S'' sauc par ''komutatīvu'', ja jebkuriem diviem kopas ''S'' elementiem ''x'' un ''y'' izpildās īpašība ''x''&nbsp;{{unicode|∗}}&nbsp;''y''&nbsp;=&nbsp;''y''&nbsp;{{unicode|∗}}&nbsp;''x''. Formāli to pieraksta šādi:
+:<math> \forall x, y \in S: x \ast y = y \ast x, </math>
+kur "∀" ir [[universālkvantors]] (lasa kā "visiem") un "∈" apzīmē piederību kopai (lasa kā "pieder"). Līdzīgi definē komutatīvu divargumentu [[funkcija|funkciju]]:
+:<math> \forall x, y \in S: f(x, y) = f(y, x). </math>
+Šo definīciju var viegli vispārināt ''n'' argumentu funkcijai:
+:<math>
+  \forall x_1, \dots, x_n \in S, \,
+  \forall \sigma \in S_n:
+  f(x_1, \dots, x_n) = f(x_{\sigma(1)}, \dots, x_{\sigma(n)}),
+</math>
+kur ''S''<sub>''n''</sub> ir skaitļu no 1 līdz ''n'' visu [[permutācija|permutāciju]] kopa.
+
+== Piemēri ikdienā ==
+
+=== Komutatīvas darbības ikdienā ===
+
+* Kurpju uzvilkšana ir komutatīva, jo rezultāts nav atkarīgs no tā, vai vispirms uzvelk labo kurpi un tad kreiso, vai otrādi.
+* Monētu iemešana kafijas automātā ir komutatīva, jo nav svarīgi kādā secībā tās tiek iemestas, svarīga ir tikai kopējā summa.
+
+=== Nekomutatīvas darbības ikdienā ===
+
+* Kurpju un zeķu uzvilkšana nav komutatīvas darbības, jo, vispirms uzvelkot kurpes un tad zeķes, iegūst būtiski atšķirīgu rezultātu, nekā vispirms uzvelkot zeķes un tad kurpes.
+* Veļas mazgāšana un žāvēšana nav komutatīvas darbības.
+
+== Piemēri matemātikā ==
+
+=== Komutatīvas operācijas ===
+
+{| class="wikitable"
+! Operācija
+! Operācijas īpašība
+! Piemērs
+|-
+! [[Saskaitīšana]]
+| align="center" | ''a'' + ''b'' = ''b'' + ''a''
+|| 2 + 3 = 5, <br /> 3 + 2 = 5.
+|-
+! [[Reizināšana]]
+| align="center" | ''a'' · ''b'' = ''b'' · ''a''
+|| 3 · 5 = 15, <br /> 5 · 3 = 15.
+|}
+
+=== Nekomutatīvas operācijas ===
+
+{| class="wikitable"
+! Operācija
+! Operācijas īpašība
+! Piemērs
+|-
+! [[Atņemšana]]
+| align="center" | ''a'' − ''b'' ≠ ''b'' − ''a''
+|| 2 − 1 = 1, <br /> 1 − 2 = −1.
+|-
+! [[Dalīšana]]
+| align="center" | ''a / b'' ≠ ''b / a''
+|| 3 ''/'' 1 = 3, <br /> 1 ''/'' 3 = 1 ''/'' 3.
+|-
+! [[Kāpināšana]]
+| align="center" | ''a''<sup>''b''</sup> ≠ ''b''<sup>''a''</sup>
+|| 2<sup>3</sup> = 8, <br /> 3<sup>2</sup> = 9.
+|-
+! [[Matricu reizināšana|Matricu<br />reizināšana]]
+| align="center" | ''A'' · ''B'' ≠ ''B'' · ''A''
+||<math>
+  A = \bigl( \begin{smallmatrix} 0 & 1 \\ 0 & 0 \end{smallmatrix} \bigr), \,
+  B = \bigl( \begin{smallmatrix} 0 & 0 \\ 0 & 1 \end{smallmatrix} \bigr),
+</math>
+<math>
+\begin{align}
+  A \cdot B &= \bigl( \begin{smallmatrix} 0 & 1 \\ 0 & 0 \end{smallmatrix} \bigr) \cdot
+               \bigl( \begin{smallmatrix} 0 & 0 \\ 0 & 1 \end{smallmatrix} \bigr)
+             = \bigl( \begin{smallmatrix} 0 & 1 \\ 0 & 0 \end{smallmatrix} \bigr), \\
+  B \cdot A &= \bigl( \begin{smallmatrix} 0 & 0 \\ 0 & 1 \end{smallmatrix} \bigr) \cdot
+               \bigl( \begin{smallmatrix} 0 & 1 \\ 0 & 0 \end{smallmatrix} \bigr)
+             = \bigl( \begin{smallmatrix} 0 & 0 \\ 0 & 0 \end{smallmatrix} \bigr).
+\end{align}
+</math>
+|-
+! [[Funkciju kompozīcija]]
+| align="center" | ''f'' ∘ ''g'' ≠ ''g'' ∘ ''f''
+|| ''f''(''x'') = 2''x'', ''g''(''x'') = ''x'' + 1, <br /> (''f'' ∘ ''g'')(''x'') = ''f''(''g''(''x'')) = ''f''(''x'' + 1) = 2(''x'' + 1) = 2''x'' + 2, <br /> (''g'' ∘ ''f'')(''x'') = ''g''(''f''(''x'')) = ''g''(2''x'') = 2''x'' + 1.
+|-
+! [[Kvaternions|Kvaternionu]] reizināšana
+| align="center" | ''a'' · ''b'' ≠ ''b'' · ''a''
+|| ''i'' · ''j'' = ''k'', <br /> ''j'' · ''i'' = −''k''.
+|}
+
+== Skatīt arī ==
+
+* [[Komutators]]
+* [[Antikomutativitāte]]
+* [[Asociativitāte]]
+* [[Distributivitāte]]
+* [[Heizenberga nenoteiktības princips]]
+
+== Ārējās saites ==
+
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Commutative.html Commutative] un [http://mathworld.wolfram.com/Commute.html Commute], MathWorld.
+* [http://planetmath.org/encyclopedia/Commutative.html Commutative] {{Webarchive|url=https://web.archive.org/web/20090226110552/http://planetmath.org/encyclopedia/Commutative.html |date={{dat|2009|02|26||bez}} }} un [http://planetmath.org/encyclopedia/ExampleOfCommutative.html Examples of non-commutative operations] {{Webarchive|url=https://web.archive.org/web/20090928031912/http://planetmath.org/encyclopedia/ExampleOfCommutative.html |date={{dat|2009|09|28||bez}} }}, PlanetMath.
+
+[[Kategorija:Abstraktā algebra]]
+[[Kategorija:Grupu teorija]]
+[[Kategorija:Binārās operācijas]]

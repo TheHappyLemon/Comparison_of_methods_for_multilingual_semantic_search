@@ -1,0 +1,41 @@
+{{ezera infokaste
+|ezers=Jelmarens
+|attēls=Örebro Hemfjärden.jpg
+|paraksts=Jelmarens pie [[Erebrū]]
+| map = Zviedrija
+| map_size = 200px
+| plat_d=59 | plat_m=15 | plat_s= | plat_NS=N
+| gar_d=15 | gar_m=45 | gar_s= | gar_EW=E
+|vieta={{SWE}}
+|platība=483
+|garums=58
+|platums=18
+|Vid_dziļums=6,1
+|Max_dziļums=20
+|tilpums=2,9
+|augstums_vjl=22
+|izteka= [[Eskilstunaona]]
+|baseins=3575
+|valstis=[[Zviedrija]]
+|salas=
+|pilsētas=[[Erebrū]]
+}}
+'''Jelmarens''' ({{val|sv|Hjälmaren}}) ir pēc platības ceturtais lielākais [[ezers]] [[Zviedrija|Zviedrijā]]. Atrodas dienvidrietumos no [[Mēlarens|Mēlarena]]. Izteka [[Eskilstunaona]] savieno ar Mēlarenu. Ar [[Stokholma|Stokholmu]] savieno [[Jelmares kanāls]].<ref>{{PZT|306}}</ref> Ūdens apmaiņas periods — 3,3 gadi.
+
+1880. gados ezera līmenis tika pazemināts par 1,9 m, samazinot tā platību par 190 km².
+
+Jelmarens ir sekls, ar barības vielām bagāts ezers. Maksimālais dziļums ir 22 m un vidējais dziļums ir 6.1 m. Ezers tek no [[Eskilstunaona|Eskilstunaona]] upes  līdz [[Mēlarens|Mēlarena]] ezeram. Jelmarena lielākā sala ir [[Vinūna]]. Lielākās pietekas ir [[Svartana]] un [[Kvismares kanāls]]. Lielākā pilsēta ezera rietumu krastā ir [[Erebrū]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{Zviedrija aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zviedrijas ezeri]]

@@ -1,0 +1,7 @@
+'''T tests''' ir visbiežāk statistikā lietotā metode, lai noteiktu, vai starp divu izlašu aritmētiskajiem vidējiem pastāv statistiski nozīmīgas atšķirības. Šim testam ir vairākas modifikācijas, kas ļauj to izmantot gan atkārtotiem mērījumiem vienā izlasē, gan diviem mērījumiem neatkarīgās izlasēs, kā arī ievērot faktu, vai izlašu [[Dispersija (statistika)|dispersijas]] ir saskaņotas vai nesaskaņotas.
+
+T tests ir parametriskajai statistikai raksturīga metode, kas nozīmē, ka izlasēm, kurās tiek veikti aprēķini, jāatbilst [[normālsadalījums|normālsadalījumam]]. Līdzvērtīga metode [[neparametriskā statistika|neparametriskajā statistikā]] ir [[Manna-Vitneja U kritērijs]].
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Statistika]]

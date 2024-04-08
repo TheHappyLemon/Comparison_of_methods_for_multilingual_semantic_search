@@ -1,0 +1,125 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Masačūsetsa
+ | native_name             = ''Massachusetts''
+ | other_name              = 
+ | settlement_type         = ASV štats
+ | image_flag              = Flag of Massachusetts.svg
+ | flag_size               = 120px
+ | image_seal              = Seal of Massachusetts.svg
+ | seal_size               = 80px
+ | nickname                = Līča štats (''The Bay State''); Svētceļnieku štats (''The Pilgrim State''); Puritāņu štats (''The Puritan State'')
+ | motto                   = ''Ense petit placidam sub libertate quietem''
+ | anthem                  = 
+ | capital                 = [[Bostona]]
+ | largest_city            = 
+ | official_language       = [[angļu valoda]]
+ | spoken_language         = 
+ | image_map               = Massachusetts in United States (zoom).svg
+ | mapsize                 = 
+ | map_caption             = Masačūsetsas atrašanās vieta ASV
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{flaga|ASV}} [[Amerikas Savienotās Valstis|ASV]]
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | established_title       = Iestāšanās ASV
+ | established_date        = {{dat|1788|2|6||bez}}
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 27337
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | population_footnotes    = 
+ | population_total        = 6859819
+ | population_as_of        = 2017. gadā
+ | population_rank         = 
+ | population_density_km2  = auto
+ | population_blank1_title = Rasu sastāvs
+ | population_blank1       = baltie - 83,2%<br />melnie - 8,1%
+ | population_blank2_title = Reliģijas
+ | population_blank2       = [[katoļi]] - 34%<br />[[protestanti]] - 21%<br />nereliģiozi - 17%
+ | timezone                = [[Austrumu laika zona]]
+ | utc_offset              = -5
+ | timezone_DST            = [[Austrumu vasaras laika zona]]
+ | utc_offset_DST          = -4
+ | elevation_m             = 20
+ | elevation_max_m         = [[Greiloka kalns]] 1063.4
+ | elevation_min_m         = 0
+ | website                 = {{URL|http://www.mass.gov/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = US-MA
+ | footnotes               = 
+}}
+
+'''Masačūsetsa''' ({{val|en|Massachusetts}}, {{izrunā|ˌmæsəˈtʃuːsɪts}}), oficiāli '''Masačūsetsas Sadraudzība''' (''Commonwealth of Massachusetts''), ir viens no [[Amerikas Savienotās Valstis|Amerikas Savienoto Valstu]] 50 [[ASV štati|štatiem]], kas atrodas ASV ziemeļaustrumos, [[Jaunanglija]]s reģionā. Masačūsetsa robežojas ar [[Konektikuta]]s, [[Ņūhempšīra]]s, [[Ņujorka (štats)|Ņujorkas]], [[Rodailenda]]s un [[Vērmonta]]s štatiem, kā arī ar [[Atlantijas okeāns|Atlantijas okeānu]]. Štats nosaukts [[masačūsetsi|masačūsetsu]] cilts, teritorijas pirmiedzīvotāju, vārdā. Štata administratīvais centrs ir [[Bostona]]. Vairāk nekā 80% štata iedzīvotāju dzīvo Bostonas aglomerācijā. 2017. gadā Masačūsetsā dzīvoja 6,86 miljoni cilvēku.
+
+[[Attēls:ISH WC Boston1.jpg|left|thumbnail|Bostona]]
+
+== Iedzīvotāji ==
+Pēc tautas skaitīšanas datiem 2010. gadā štatā bija {{nobr|6 547 629}} iedzīvotāju. Lielākā reliģiskā konfesija ir [[Romas katoļu baznīca|katoļi]] (34%). Dažādas [[protestanti|protestantu]] konfesijas sastāda 21%.
+
+== Lielākās pilsētas ==
+{| class="wikitable sortable" style="text-align:center"
+!Vieta
+!Pilsēta
+!Iedzīvotāju skaits<ref>{{Tīmekļa atsauce|url=https://www.citypopulation.de/en/usa/cities/massachusetts/|title=Massachusetts (USA): State, Major Cities, Towns & Places - Population Statistics, Maps, Charts, Weather and Web Information|website=www.citypopulation.de|access-date=2022-03-16}}</ref>
+|-
+|1
+|[[Bostona]]
+|692 600
+|-
+|2
+|[[Vustera (Masačūsetsa)|Vustera]]
+|185 428
+|-
+|3
+|[[Springfīlda (Masačūsetsa)|Springfīlda]]
+|155 929
+|-
+|4
+|[[Kembridža]]
+|118 927
+|-
+|5
+|[[Louela]]
+|110 997
+|-
+|6
+|[[Broktona (Masačūsetsa)|Broktona]]
+|95 708
+|-
+|7
+|[[Ņūbedforda]]
+|95 363
+|-
+|8
+|[[Kvinzi]]
+|94 470
+|-
+|9
+|[[Linna]]
+|94 299
+|-
+|10
+|[[Folrivera]]
+|89 541
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ASV-aizmetnis}}
+{{ASV štati}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Masačūsetsa| ]]

@@ -1,0 +1,75 @@
+{{Infobox
+| child      = {{yesno|{{{child|}}}}}
+| bodyclass    = vevent plainlist
+| labelstyle   = background:#e6ecff; text-align:right;
+| abovestyle   = font-size:130%; background:#e6ecff;
+| above        = {{ifempty|{{{nosaukums|}}}|{{{nosaukums latviski|}}}|{{PAGENAME}}}}
+| image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{attēls|}}}|size={{{att_izm|}}}|sizedefault=200px}}
+| caption      = {{{paraksts|}}}
+
+| label1     = Oriģinālais<br />nosaukums
+| data1      = {{ifempty|{{{oriģinālnos|}}}|{{{nosaukums oriģinālvalodā|}}}}}
+
+| label2     = Žanrs
+| data2      = {{{žanrs|}}}
+
+| label3     = Režisors
+| data3      = {{{režisors|}}}
+
+| label4     = Producents
+| data4      = {{{producents|}}}
+
+| label5     = Scenārija autors
+| data5      = {{ifempty|{{{scenārijs|}}}|{{{scenārija autors|}}}}}
+
+| label6     = Galvenajās<br />lomās
+| data6      = {{ifempty|{{{aktieri|}}}|{{{galvenajās lomās|}}}}}
+
+| label7     = Mūzika
+| data7      = {{{mūzika|}}}
+
+| label8     = Operators
+| data8      = {{{operators|}}}
+
+| label9     = Mākslinieks
+| data9      = {{{mākslinieks|}}}
+
+| label10    = Montāža
+| data10     = {{{montāža|}}}
+
+| label11    = Studija
+| data11     = {{{studija|}}}
+
+| label12    = Izplatītājs
+| data12     = {{{izplatītājs|}}}
+
+| label13    = Izdošana
+| data13     = {{ifempty|{{{izdošana|}}}|{{{izdošanas laiks|}}}}}
+
+| label14    = Ilgums
+| data14     = {{{ilgums|}}}
+
+| label15    = Valsts
+| data15     = {{{valsts|}}}
+
+| label16    = Valoda
+| data16     = {{{valoda|}}}
+
+| label17    = Budžets
+| data17     = {{{budžets|}}}
+
+| label18    = Kopējie ienākumi
+| data18     = {{{ienākumi|}}}
+
+| label19    = Iepriekšējā filma
+| data19     = {{{iepriekšējā|}}}
+
+| label20    = Nākamā filma
+| data20     = {{ifempty|{{{nākamā|}}}|{{{nākošā|}}}}}
+
+| data21     = {{#if:{{{imdb|}}}{{vikidati|property|P345}}|'''[[IMDbTitle:{{#invoke:String|replace|source= {{vikidati|property|P345|{{{imdb|}}}|plain=1}} |pattern= tt|replace=}}|IMDb profils]]'''}}
+
+| data22     = {{{embedded|}}}
+}}<includeonly>{{#invoke:Check for unknown parameters|check|unknown=<span style="display:none">Nezināma vērtība "_VALUE_"</span>[[Kategorija:Filmu raksti ar nezināmiem parametriem infokastē|_VALUE_{{PAGENAME}}]]|ignoreblank=y
+| child | nosaukums | nosaukums latviski | attēls | att_izm | paraksts| oriģinālnos | nosaukums oriģinālvalodā | žanrs | režisors | producents | scenārijs | scenārija autors | aktieri | galvenajās lomās | mūzika | operators | montāža | mākslinieks | studija | izplatītājs | izdošana | izdošanas laiks | ilgums | valsts | valoda | budžets | ienākumi | iepriekšējā | nākamā | nākošā | imdb | embedded}}</includeonly><noinclude>{{dokumentācija}}
+</noinclude>

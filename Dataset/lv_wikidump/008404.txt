@@ -1,0 +1,32 @@
+{{Navbox
+| name       = Padomju Savienības republiku ģerboņi
+| title      = [[Padomju Savienības republiku ģerboņi]]
+| bodyclass  = hlist
+| state = {{{state|autocollapse}}}
+| group1     = PSRS republikas
+| list1      = 
+* [[Armēnijas PSR ģerbonis|Armēnijas PSR]]
+* [[Azerbaidžānas PSR ģerbonis|Azerbaidžānas PSR]]
+* [[Baltkrievijas PSR ģerbonis|Baltkrievijas PSR]]
+* [[Igaunijas PSR ģerbonis|Igaunijas PSR]]
+* [[Gruzijas PSR ģerbonis|Gruzijas PSR]]
+* [[Kazahijas  PSR ģerbonis|Kazahijas PSR]]
+* [[Kirgīzijas PSR ģerbonis|Kirgīzijas PSR]]
+* [[Latvijas PSR ģerbonis|Latvijas PSR]]
+* [[Lietuvas PSR ģerbonis|Lietuvas PSR]]
+* [[Moldāvijas PSR ģerbonis|Moldāvijas PSR]]
+* [[Krievijas PFSR ģerbonis|Krievijas PFSR]]
+* [[Tadžikijas PSR ģerbonis|Tadžikijas PSR]]
+* [[Turkmēnijas PSR ģerbonis|Turkmēnijas PSR]]
+* [[Ukrainas PSR ģerbonis|Ukrainas PSR]]
+* [[Uzbekijas PSR ģerbonis|Uzbekijas PSR]]
+| group2     = Neilgi pastāvējušās<br>PSRS republikas
+| list2      = 
+* [[Aizkaukāza FPSR ģerbonis|Aizkaukāza FPSR]] (1922—1936)
+* [[Horezmas SPR]] (1923—1925)
+* [[Buhāras SPR]] (1924)
+* [[Somu Karēlijas PSR ģerbonis|Somu Karēlijas PSR]] (1940—1956)
+}}<noinclude>
+{{collapsible option}}
+
+[[Kategorija:Navigācijas veidnes]]</noinclude>

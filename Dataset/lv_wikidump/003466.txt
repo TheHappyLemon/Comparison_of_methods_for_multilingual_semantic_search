@@ -1,0 +1,43 @@
+{{Kalna infokaste
+| Nosaukums        = Vezuvs
+| Nosaukums2       = {{ubl|''Vesuvio''|''Vesuvius''}}
+| Photo            = Vesuvius from plane.jpg
+| Paraksts         = Skats uz Vezuva krāteri no lidmašīnas
+| Augstums         = 1281
+| Relatīvais_augstums = 1232
+| karte            = Itālija#Kampānija#Eiropa
+| reljefa_karte    = jā
+| latd= 40 |latm= 49 |lats= |latNS= N
+| longd= 14 |longm= 26 |longs= |longEW= E
+| Atrašanās vieta  = {{vieta|Itālija}}
+| Kalnu grēda      = [[Apenīni]]
+| Type             = [[stratovulkāns]]
+| Last eruption    = [[1944. gads|1944]]. gadā no 17. līdz 23. martam
+}}
+
+'''Vezuvs''' ({{val|it|Vesuvio}}, {{izrunā|veˈzuːvjo}}, {{val|la|Vesuvius}}) ir [[stratovulkāns]] Itālijā, kas atrodas [[Neapoles līcis|Neapoles līča]] krastā, aptuveni 9 km uz austrumiem no [[Neapole]]s. Tas ir vienīgais aktīvais vulkāns kontinentālajā [[Eiropa|Eiropā]],<ref>{{tīmekļa atsauce | url= https://bigenc.ru/geography/text/1903674 | title= Везувий | publisher= Большая российская энциклопедия | language= ru | accessdate= 2020. gada 11. jūnijā | archive-date= {{dat|2020|09|20||bez}} | archive-url= https://web.archive.org/web/20200920183558/https://bigenc.ru/geography/text/1903674 }}</ref> pēdējais izvirdums bija 1944. gadā. Galvenās Vezuva virsotnes augstums ir 1281 m (kopš 1944. gada), krātera diametrs ir 750 metri, bet vulkāna pamatnes diametrs ir 3 km. Vulkānu patlaban uzskata par vienu no bīstamākajiem pasaulē, jo tā tuvumā dzīvo aptuveni 3 miljoni cilvēku.<ref name=mcguire2003>{{cite news | first= Bill | last= McGuire | title= In the shadow of the volcano | date= 2003. gada 16. oktobris | work= [[The Guardian]] | url= https://www.theguardian.com/education/2003/oct/16/research.highereducation2 | accessdate= 2020. gada 11. jūnijā}}</ref> Vulkāns ir daļa no [[Vezuva nacionālais parks|Vezuva nacionālā parka]].
+
+== Ģeoloģija ==
+Vezuvs ir daļa no [[Kampānijas vulkāniskais loks|Kampānijas vulkāniskā loka]]. Vezuvs ir senākā [[Somma (kalns)|Sommas]] vulkāna mantinieks, kas mūsdienās ieskauj Vezuvu ziemeļu un austrumu pusē. Vezuva augstums ir 1281 metrsp virs jūras līmeņa, relatīvais augstums ir 1232 metri. Ik pēc kārtējā izvirduma Vezuva forma un augstums mainās. Ārējās [[somma (ģeoloģija)|sommas]] augstākais punkts ir 1149 m virs jūras līmeņa, un to no Vezuva galvenā konusa šķir [[Atrio di Kavallo ieleja]], kas ir apmēram 5 km gara. Krātera dibenā ir vēl viena somma, bet tā regulāri tiek iznīcināta spēcīga izvirduma laikā. Ģeoloģiskie pētījumi liecina, ka zem Vezuva atrodas vairākas [[magma]]s kameras, tuvākā no tām ir 3 km dziļumā.<ref>{{tīmekļa atsauce | url= http://www.vokrugsveta.ru/encyclopedia/index.php?title=%D0%92%D0%B5%D0%B7%D1%83%D0%B2%D0%B8%D0%B9 | title= Везувий | publisher= Энциклопедия «Вокруг света» | language= ru | accessdate= 2020. gada 11. jūnijā}}</ref> Vezuva pamatnes diametrs ir 3 km, bet krātera diametrs ir 750 metri.
+
+Vezuva pakājē vulkānisko izmešu dēļ ir auglīga [[augsne]]. Tur iekopti dārzi un [[vīnkoki|vīnogulāji]]. Augstāk, sākot ar 800 m virs jūras līmeņa, aug [[priedes|priežu]] meži.
+
+== Izvirdums 79. gadā ==
+[[Attēls:Mt Vesuvius 79 AD eruption.svg|thumbnail|left|79. gada izvirduma ietekmes areāls]]
+[[Vezuva izvirdums 79. gadā|Vulkāna izvirduma laikā 79. gada]] 24. augustā tika iznīcinātas romiešu pilsētas [[Pompeji]], [[Herkulāna]], [[Oplonta]] un [[Stabija]]. Pēc izvirduma 79. gadā Herkulānu klāja 15 metru bieza [[pelni|pelnu]] un [[lava]]s kārta, Pompeju klāja 7 metrus bieza pelnu un lavas kārta. Kādā mājas pagrabā atrasts tēvs ar savu mazo meitiņu, kuri noslāpa no vulkāna indīgajām gāzēm. Tie cilvēki, kurus apraka pelni un lava, sastinga tādās pozās, kādās bija savā nāves brīdī. Pēc arheoloģiskajiem izrakumiem atrasta [[ceptuve|maizes ceptuve]], kurā uz letes vēl stāvēja pēdējā nauda.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+
+{{Itālija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Aktīvi vulkāni]]
+[[Kategorija:Stratovulkāni]]
+[[Kategorija:Itālijas vulkāni]]

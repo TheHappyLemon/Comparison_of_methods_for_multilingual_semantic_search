@@ -1,0 +1,70 @@
+{{Latvijas novada infokaste
+| nosaukums         = Vītiņu pagasts
+| karte             = Vītiņu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Vītiņu pagasta ģerbonis
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Vītiņu pagasta karogs
+| novads            = Novads
+| novada_nosaukums  = Dobeles novads
+| centrs            = Vītiņi
+| platība           = 133,66
+| iedzīvotāji       = 1176<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 1176 / 133.66 round 1}}
+| izveidots         = 1945
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Vītiņu pagasts''' ir viena no [[Dobeles novads|Dobeles novada]] administratīvajām teritorijām tā dienvidrietumos, [[Lietuva]]s pierobežā. Robežojas ar sava novada [[Auce|Auces pilsētu]] un [[Lielauces pagasts|Lielauces]], [[Bēnes pagasts|Bēnes]], [[Ukru pagasts|Ukru]] un [[Vecauces pagasts|Vecauces]] pagastiem, [[Saldus novads|Saldus novada]] [[Vadakstes pagasts|Vadakstes]], [[Jaunauces pagasts|Jaunauces]] un [[Zvārdes pagasts|Zvārdes]] pagastiem, kā arī Lietuvas [[Šauļu apriņķis|Šauļu apriņķa]] [[Akmenes rajons|Akmenes rajona]] [[Naujoji Akmenes lauku seņūnija|Naujoji Akmenes lauku seņūniju]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Avīkne]], [[Līgotne]], [[Melnupe]], [[Jugliņa]], [[Skujaine (upe)|Skujaine]].
+
+==== Ezeri ====
+[[Ildzis]]
+
+== Vēsture ==
+Mūsdienu Vītiņu pagasta teritorijā atradās Kokmuiža (''Gut Dobelsberg'', [[Kokmuiža (Vītiņu pagasts)|Kokmuiža]]), Ķeveles muiža (''Keweln'', [[Ķevele]]), Sirmeles muiža (''Sirmeln''), Vītiņu muiža (''Weitenfeld'', [[Vītiņi]]).
+
+1945. gadā [[Jelgavas apriņķis|Jelgavas apriņķa]] [[Vecauces pagasts|Vecauces pagastā]] izveidoja Vītiņu [[ciema padome|ciema padomi]]. '''Vītiņu ciems''' ietilpis [[Auces rajons|Auces]] (1949-1959) un [[Dobeles rajons|Dobeles]] (pēc 1959. gada) rajonos. Vītiņu ciemam 1958. gadā pievienoja [[Auces lauku teritorija]]s [[kolhozs|kolhoza]] «Rītausma» teritoriju. 1961. gadā pievienoja [[Ukru ciems|Ukru ciema]] kolhoza «Rītausma» teritoriju, bet kolhoza «Priedula »teritoriju pievienoja [[Vadakstes ciems|Vadakstes ciemam]]. 1965. gadā [[padomju saimniecība]]s «Sniķere» teritoriju pievienoja Ukru ciemam, bet 1975. gadā Vītiņu ciemam pievienoja daļu Auces lauku teritorijas un Lielauces ciema teritorijas.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Vītiņu pagastu kā administratīvo teritoriju iekļāva [[Auces novads|Auces novadā]]. 2021. gadā Auces novadu iekļāva [[Dobeles novads|Dobeles novadā]].
+
+=== Pieminekļi ===
+==== Valsts nozīmes ====
+* Meža kalns - pilskalns<ref>[http://mantojums.lv/lv/piemineklu-saraksts/?t=V%C4%ABti%C5%86u+pagasts&region=0&group=1&type=0 Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+* Grīnertu senkapi
+* [[Incēnu pilskalns|Incēnu (Dobes) pilskalns]] pie Kokmuižas, kur 1259./1260. gada ziemā notika [[Kauja pie Dobes (1260)]].
+
+== Iedzīvotāji ==
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Vītiņi]] (pagasta centrs), [[Bungas (Vītiņu pagasts)|Bungas]], [[Galāti]], [[Kokmuiža (Vītiņu pagasts)|Kokmuiža]], [[Ķevele]], [[Putras (Vītiņu pagasts)|Putras]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Dobeles novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Auces novads}}
+{{Dobeles rajons}}
+}}
+
+{{DEFAULTSORT:Vitinzu pagasts}}
+[[Kategorija:Zemgale]]
+[[Kategorija:Dobeles novada pagasti]]
+[[Kategorija:Vītiņu pagasts| ]]
+[[Kategorija:Vecauces pagasts]]

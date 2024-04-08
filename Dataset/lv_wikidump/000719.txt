@@ -1,0 +1,80 @@
+{{Administratīvā iedalījuma vienības infokaste
+ | name                    = Kampānija
+ | official_name           = ''Campania''
+ | settlement_type         = [[Itālijas reģioni|Itālijas reģions]]
+ | image_skyline           = 
+ | imagesize               = 
+ | image_caption           = 
+ | image_flag              = Flag of Campania.svg
+ | image_shield            = Regione-Campania-Stemma.svg
+ | shield_size             = 70px
+ | capital                 = [[Neapole]]
+ | largest_city            = [[Neapole]]
+ | official_language       = 
+ | spoken_language         = 
+ | image_map               = Campania in Italy.svg
+ | mapsize                 = 
+ | map_caption             = Kampānijas atrašanās vieta Itālijā
+ | subdivision_type        = [[Suverēno valstu uzskaitījums|Valsts]]
+ | subdivision_name        = {{ITA}}
+ | established_title       = 
+ | established_date        = 
+ | government_footnotes    = 
+ | government_type         = 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = prezidents
+ | leader_name             = Vinčenco De Luka
+ | area_footnotes          = 
+ | area_magnitude          = 
+ | area_total_km2          = 13590
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_rank               = 
+ | elevation_max_m         = 
+ | elevation_min_m         = 
+ | population_footnotes    = 
+ | population_total        = 5869029
+ | population_as_of        = 2014
+ | population_rank         = 
+ | population_density_km2  = auto
+ | timezone                = [[Centrāleiropas laiks|CET]]
+ | utc_offset              = +1
+ | timezone_DST            = [[Centrāleiropas vasaras laiks|CEST]]
+ | utc_offset_DST          = +2
+ | website                 = {{URL|http://www.regione.campania.it/}}
+ | blank_name              = [[ISO 3166-2]]
+ | blank_info              = IT-72
+ | footnotes               = 
+}}
+'''Kampānija''' ([[itāļu valoda|itāļu]] un [[neapoliešu valoda|neapoliešu]]: ''Campania'') ir reģions [[Itālija]]s dienvidu daļā. Reģionā ir aptuveni 5,8 miljoni iedzīvotāju, tas ir otrais visvairāk apdzīvotais reģions Itālijā. Reģiona centrs ir [[Neapole]].<ref>{{PZT|325}}</ref>
+
+== Ģeogrāfija ==
+Atrodas Itālijas dienvidu daļā, rietumos to apskalo [[Tirēnu jūra]], Kampānija robežojas ar četriem Itālijas reģioniem: ar [[Lacio]] ziemeļrietumos, ar [[Molize|Molizi]] ziemeļos, ar [[Apūlija|Apūliju]] ziemeļaustrumos un [[Bazilikata|Bazilikatu]] austrumos. Kampānijas reljefs ir kalnains; reģionā atrodas vairāki [[vulkāns|vulkāni]], vienīgais aktīvais no tiem ir 1281m augstais [[Vezuvs]].
+
+Kampānijā administratīvi ietilpst arī [[Flegreju salas|Flegreju]] un [[Kapri sala|Kapri]] salas.
+
+== Vēsture ==
+
+Gandrīz visā cilvēces vēstures posmā Kampānija ir bijusi viens no nozīmīgajiem Rietumu civilizācijas centriem. Šajā vietā jau no 8. gs. p.m.ē. atradās [[Senā Grieķija|seno grieķu]] kolonijas (''[[Magna Graecia]]''). Grieķu kolonisti nodibināja Neapoli, [[Kapuja|Kapuju]] u.c. pilsētas.
+
+4. gadsimtā p.m.ē. reģionā sāka dominēt [[Romas Republika]]. [[Senā Roma|Senās Romas]] laikā tā bija ļoti ievērojama kā vieta, kur imperatori sevišķi novērtēja kultūru, kā arī tās grieķu-romiešu vidi. Viduslaikos reģionā bija daudzas grāfistes, kas atradās [[Austrumromas impērija|Bizantijas]] un [[Lombardija|lombardiešu]] pārvaldībā.
+
+Pateicoties [[normāņi]]em, nelielās un neatkarīgās valstiņas tika apvienotas, izveidojot [[Sicīlijas karaliste|Sicīlijas karalisti]], bet 1285. gadā atdaloties — par [[Neapoles karaliste|Neapoles karalisti]]. Šajā laikā Kampānijā ienāca spāņu, franču un [[Aragona|aragoniešu]] kultūra, veidojot daudzkulturālu vidi.
+
+1860. gadā, apvienojoties Itālijai, Kampānija tika iekļauta Itālijas karalistē.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Itālija-aizmetnis}}
+
+{{Itālijas reģioni}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kampānija| ]]

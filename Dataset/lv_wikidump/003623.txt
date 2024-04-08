@@ -1,0 +1,19 @@
+[[Attēls:CMYK_color_swatches.svg|thumb|right|250px|Ciāna(C), fuksīna(M), dzeltena(Y) un melna(K).]]
+[[Attēls:SubtractiveColor.svg|thumb|right|250px|Sajaucot visas CMYK krāsas (CMY) teorētiski sanāk melns (K). ]]
+'''Ciānfuksīndzeltenmelnais''' jeb '''CMYK krāsu modelis'''<ref>{{Tīmekļa atsauce |url= http://termini.lza.lv/term.php?term=CMYK |title= Akadēmiskā terminu datubāze — CMYK |publisher= LZA Terminoloģijas komisija |accessdate= 2008. gada 13. februārī}}</ref> (no {{val|en|cyan-magenta-yellow-black}}) ir [[krāsu modelis]], kurā visas krāsas ir aprakstītas kā četru krāsu — ciāna, fuksīna (madžentas), [[dzeltena krāsa|dzeltenas]] un [[melna krāsa|melnas]] sajaukums. CMYK krāsu modeli izmanto krāsainu dokumentu drukāšanai ofseta iespiedtehnikā.
+
+Ciānfuksīndzeltenmelnais ir subtraktīvais krāsu modelis, jo tas rezultējošo attēlu apraksta kā atšķirību no baltās krāsas (pilna spektra), tas ir, faktiski kā krāsu negatīvu (ar nosacījumu pie balta pamata) — līdz ar to tas atbilst reālajam procesam, veidojot attēlu ar krāsām uz balta papīra. No CMYK krāsu modelī aprakstīta attēla var ērti noteikt nepieciešamo krāsu daudzumu ofseta drukā u.c. iespiedtehnoloģijās, kas izmanto šādu krāsu dalījumu.
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Sarkanzaļzilais krāsu modelis]]
+
+
+{{IT-aizmetnis}}
+
+{{Fotogrāfija}}
+
+[[Kategorija:Iespiedtehnika]]
+[[Kategorija:Krāsas]]

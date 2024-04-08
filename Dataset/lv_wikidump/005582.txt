@@ -1,0 +1,104 @@
+{{Vieglatlēta infokaste
+ |           vārds = Kima Gevārta
+ |      vārds_orig = ''Kim Gevaert''
+ |          attēls = Kim Gevaert.jpg
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |  dzimtais_vārds = 
+ |     pilns_vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1978|8|5}}
+ |         dz_viet = {{vieta|Beļģija|Lēvena}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |            taut = {{BEL}}
+ |     dzīvesvieta = 
+ |          garums = 170 [[centimetrs|cm]]
+ |           svars = 60 [[kilograms|kg]]
+ |         iesauka = 
+ |       izglītība = 
+<!------ Profesionālā informācija ------>
+ |            disc = Sprints
+ |         kar_sāk = 
+ |        kar_beig = 2008
+ |           klubs = 
+ |        treneris = 
+ |           trenē = 
+<!------ Dalība sacensībās ------>
+ |           olimp = 
+ |            pc-a = 
+ |            pc-t = 
+ |            rc-a = 
+ |            rc-t = 
+ |            reg1 = 
+ |            reg2 = 
+<!------ Personiskie rekordi ------>
+ |             PR1 = 
+ |           PR1_d = 
+ |             PR2 = 
+ |           PR2_d = 
+ |             PR3 = 
+ |           PR3_d = 
+ |             PR4 = 
+ |           PR4_d = 
+ |             PR5 = 
+ |           PR5_d = 
+<!------ Apbalvojumi u.c. ------>
+ |            balv = 
+ |         dzimums = S
+ |       atjaunots = 
+ |           slavz = 
+<!------ Medaļas ------>
+ |   rādīt_medaļas = 
+ |     headercolor = 
+ |  medaltemplates = 
+{{Medal|VOS}}
+{{MedalGold|[[2008. gada Vasaras Olimpiskās spēles|Pekina 2008]]|[[Vieglatlētika 2008. gada vasaras olimpiskajās spēlēs|4x100 m]]}}
+{{Medal|Competition|[[Pasaules čempionāts vieglatlētikā|Pasaules čempionāts]]}}
+{{Medal|Bronze|[[2007. gada Pasaules čempionāts vieglatlētikā|Osaka 2007]]|4x100 m}}
+{{Medal|Competition|[[Eiropas čempionāts vieglatlētikā|Eiropas čempionāts]]}}
+{{Medal|Gold|[[2006. gada Eiropas čempionāts vieglatlētikā|Gēteborga 2006]]|100 m}}
+{{Medal|Gold|[[2006. gada Eiropas čempionāts vieglatlētikā|Gēteborga 2006]]|200 m}}
+{{Medal|Silver|[[2002. gada Eiropas čempionāts vieglatlētikā|Minhene 2002]]|100 m}}
+{{Medal|Silver|[[2002. gada Eiropas čempionāts vieglatlētikā|Minhene 2002]]|200 m}}
+{{Medal|Competition|[[Eiropas čempionāts vieglatlētikā telpās|Eiropas čempionāts telpās]]}}
+{{Medal|Gold|[[2002. gada Eiropas čempionāts vieglatlētikā telpās|Vīne 2002]]|60 m}}
+{{Medal|Gold|[[2005. gada Eiropas čempionāts vieglatlētikā telpās|Madride 2005]]|60 m}}
+{{Medal|Gold|[[2007. gada Eiropas čempionāts vieglatlētikā telpās|Birmingema 2007]]|60 m}}
+}}
+'''Kima Gevārta''' (dzimusi {{dat|1978|8|5}} [[Lēvena|Lēvenā]]) ir bijusī [[Beļģija|beļģu]] sprintere. Startēja 60, 100 un 200 metru distancēs. Izcīnījusi zelta medaļu [[Vieglatlētika 2008. gada vasaras olimpiskajās spēlēs|2008. gada Vasaras Olimpiskajās spēlēs]] 4x100 m stafetē. 
+
+K. Gevārta karjeru noslēdza 2008. gada 5. septembrī. 
+
+== Personīgie rekordi ==
+{| class="wikitable" style="font-size: 95%;" cellpadding="2"
+! Disciplīna !! Rezultāts !! Datums !! Vieta !! Piezīmes
+|-
+| [[60 m]] ||align="center"| 7,10 s || {{dat|2007|3|3|N|bez}} || {{vieta|Vācija|Birmingema}} || Beļģijas rekords
+|-
+| [[100 m]] ||align="center"| 11,04 s || {{dat|2006|7|9|N|bez}} || {{vieta|Beļģija|Brisele}} || Beļģijas rekords
+|-
+| [[200 m]] ||align="center"| 22,20 s || {{dat|2006|7|9|N|bez}} || {{vieta|Beļģija|Brisele}} || Beļģijas rekords
+|-
+| [[400 m]] ||align="center"| 51,45 s || {{dat|2005|5|8|N|bez}} || {{vieta|Beļģija|Gente}} ||
+|}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+* [http://rapidas.webcindario.com/kimgevaert.htm Kimas Gevārtas bildes]
+
+{{Olimpisko spēļu medaļnieks-aizmetnis}}
+{{Vieglatlēts-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Gevarta, Kima}}
+
+[[Kategorija:Beļģijas vieglatlēti]]
+[[Kategorija:1978. gadā dzimušie]]
+[[Kategorija:2004. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:2008. gada vasaras olimpisko spēļu dalībnieki]]
+[[Kategorija:Olimpiskās zelta medaļas ieguvēji]]
+[[Kategorija:Flāmu Brabantē dzimušie]]
+[[Kategorija:Sprinteri]]
+[[Kategorija:Olimpiskie zelta medaļnieki vieglatlētikā]]

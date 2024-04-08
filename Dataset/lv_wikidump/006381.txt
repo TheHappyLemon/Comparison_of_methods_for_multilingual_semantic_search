@@ -1,0 +1,67 @@
+{{Ēkas infokaste
+| name                = Baikonuras kosmodroms
+| native_name         = ''Космодром «Байконур»''<br/>''Байқоңыр ғарыш айлағы''
+| former_names        = 
+| alternate_names     = 
+| status              = 
+| image               = Soyuz expedition 19 launch pad.jpg
+| image_alt           = 
+| image_size          = 
+| caption             = ''Sojuz-19'' starta laukums
+| altitude            = 
+| building_type       = kosmodroms
+| architectural_style = 
+| structural_system   = 
+| cost                = 
+| ren_cost            = 
+| client              = 
+| owner               = [[Roskosmos]]
+| current_tenants     = 
+| location            = {{KAZ}}<br/>[[Kizilordas apgabals]], 
+| address             = 
+| location_town       = [[Baikonura]]
+| location_country    = 
+| pushpin_map         = Kazahstāna#Kizilordas apgabals
+| latd  = 45| latm  = 57| lats  = 58| latNS  = N
+| longd = 63| longm = 18| longs = 28| longEW = E
+| map_caption         = 
+| map_alt             = 
+| pushpin_image       = 
+| pushpin_relief      = 
+| map_size            = 
+| map_label           = 
+| label_position      = 
+| mark                = 
+| mark_width          = 
+| groundbreaking_date = 
+| start_date          = 1955
+| completion_date     = 1957
+| opened_date         = 
+| inauguration_date   = 
+| demolition_date     = 
+| destruction_date    = 
+| main_contractor     = 
+| awards              = 
+| designations        = 
+| rooms               = 
+| parking             = 
+| url                 = {{URL|http://baikonurtour.com/}}
+| embedded            = 
+| references          = 
+}}
+'''Baikonuras kosmodroms''' ({{val|ru|Космодро́м Байкону́р}}; {{val|kk|Байқоңыр ғарыш айлағы}}) ir [[kosmodroms]] [[Kazahstāna]]s teritorijā, kuru izmanto [[Krievija]] [[nesējraķete|nesējraķešu]] palaišanai. Dibināts 1955. gadā, ir pasaulē vecākais un lielākais kosmodroms, tas kļuva par galveno [[Padomju Savienība|PSRS]] [[raķete|raķešu]] palaišanas vietu. Pēc [[PSRS sabrukums|PSRS sabrukuma]] 1990. gadu sākumā, kosmodroms palika Kazahstānas īpašumā. Krievijai ar Kazahstānu ir noslēgts īres līgums līdz 2050. gadam.
+
+== Vēsture ==
+{{dat|1955|2|12}} [[PSRS Ministru Padome]] pieņēma lēmumu "Par jaunu poligonu PSRS Aizsardzības ministrijai".
+Par kosmodroma dibināšanu tiek uzskatīts {{dat|1955|6|2|N}}, kad Ģenerālā štāba priekšnieks apstiprināja poligona projektus un tā organizatorisko struktūru. Kosmodroma sākotnējais nosaukums bija "5. zinātniski pētnieciskais izmēģinājumu poligons" (''Научно-исследовательский испытательный полигон № 5 — 5-й НИИП МО''). Raķešu poligona atrašanās vieta tika izvēlēta [[tuksnesis|tuksnešainā]] rajonā [[Kazahijas PSR]]. Celtniecība notika lielā slepenībā.
+
+Jau [[1957]]. gadā no jaunā poligona tika palaista pasaulē pirmā [[starpkontinentālā ballistiskā raķete]] [[R-7 raķete|R-7]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{kosmonautika-aizmetnis}}
+
+[[Kategorija:Kazahstānas kosmonautika]]
+[[Kategorija:Kosmodromi]]

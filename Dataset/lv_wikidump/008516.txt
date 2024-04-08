@@ -1,0 +1,518 @@
+{{Hokejista infokaste v2
+ |           vārds = Maksims Afinogenovs
+ |      vārds_orig = ''Максим Афиногенов''
+ |          attēls = Maxim Afinogenov 2009.JPG
+ |         att_izm = 
+ |        paraksts = 
+<!------ Personas dati ------>
+ |     pilns vārds = 
+ |          dz_dat = {{dzimšanas datums un vecums|1979|9|4}}
+ |         dz_viet = {{Vieta|Krievijas PFSR|Maskava}}
+ |         mir_dat = 
+ |        mir_viet = 
+ |          garums = 183 [[centimetrs|cm]]
+ |           svars = 86 [[kilograms|kg]]
+ |         iesauka = 
+ |             poz = [[Uzbrucējs (hokejs)|Labās malas uzbrucējs]]
+ |        tvēriens = Kreisais
+ |         kar_sāk = 1995
+ |        kar_beig = 
+ |       izglītība = 
+<!------ Kluba informācija ------>
+ |             kom = {{flaga|Krievija}} [[Podoļskas "Vitjaz"]]
+ |          numurs = 61
+ |           amats = [[Kapteinis (hokejs)|Kapteinis]]
+ |            līga = [[Kontinentālā hokeja līga|KHL]]
+<!------ Drafts ------>
+ |          drafts = 69., 3. kārtā
+ |         dr_gads = [[1997. gada NHL drafts|1997]]
+ |         dr_līga = NHL
+ |          dr_kom = [[Bufalo "Sabres"]]
+<!------ Nacionālā izlase ------>
+ |      taut_sez 1 = 1999—''pašlaik''
+ |          taut 1 = {{ih|RUS}}
+<!------ Papildinformācija ------>
+ |            balv = 
+ |           slavz = 
+ |          aģenti = 
+ |         dzimums = 
+ |       atjaunots = {{dat|2016|4|29||bez}}
+<!------ Medaļas ------>
+ |   rādīt_medaļas = jā
+ |     headercolor = 
+ |  medaltemplates = 
+{{MedalCountry|{{karogs|Krievija}}}}
+{{MedalCompetition|[[Hokejs olimpiskajās spēlēs|Olimpiskās spēles]]}}
+{{MedalBronze2|[[Hokejs 2002. gada ziemas olimpiskajās spēlēs|ASV 2002]]}}
+{{MedalCompetition|[[Pasaules čempionāts hokejā|Pasaules čempionāts]]}}
+{{MedalSilver2|[[2002. gada Pasaules čempionāts hokejā|Zviedrija 2002]]}}
+{{MedalBronze2|[[2005. gada Pasaules čempionāts hokejā|Austrija 2005]]}}
+{{MedalGold2|[[2008. gada Pasaules čempionāts hokejā|Kanāda 2008]]}}
+{{MedalSilver2|[[2010. gada Pasaules čempionāts hokejā|Vācija 2010]]}}
+}}
+'''Maksims Afinogenovs''' ({{val|ru|Максим Сергеевич Афиногенов}}; dzimis [[1979]]. gada [[4. septembris|4. septembrī]] [[Maskava|Maskavā]]) ir krievu [[hokejs|hokejists]], kurš spēlē [[uzbrucējs (hokejā)|labās malas uzbrucēja]] pozīcijā, [[Krievijas hokeja izlase]]s spēlētājs. Pašlaik (2016) Afinogenovs spēlē [[Kontinentālā hokeja līga|Kontinentālās hokeja līgas]] klubā [[Podoļskas "Vitjaz"]], pildot arī tās [[kapteinis (hokejs)|kapteiņa]] funkcijas.
+
+== Spēlētāja karjera ==
+[[Krievijas hokeja izlase]]s sastāvā kļuvis par [[2008. gada Pasaules čempionāts hokejā|2008]]. gada Pasaules čempionu, izcīnījis bronzas medaļu 2002. gada [[ziemas olimpiskās spēles|Olimpiskajās spēlēs]] un sudraba medaļu [[2010. gada Pasaules čempionāts hokejā|2010]]. gada [[Pasaules čempionāts hokejā|Pasaules čempionātā]]. 1998. gada [[Pasaules čempionāts hokejā junioriem|Pasaules čempionātā junioriem]] Maksims izcīnīja sudraba medaļu. Spēlējis arī 2006. un [[Hokejs 2010. gada ziemas olimpiskajās spēlēs|2010]]. gada [[Hokejs olimpiskajās spēlēs|olimpiskajās spēlēs]].
+
+== Karjeras statistika ==
+=== Klubu statistika ===
+{| border="0" cellpadding="3" cellspacing="0" style="text-align:center"
+|- bgcolor="#e0e0e0"
+! colspan="3" bgcolor="#ffffff" | &nbsp;
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Regulārā sezona
+! rowspan="99" bgcolor="#ffffff" | &nbsp;
+! colspan="5" | Izslēgšanas spēles
+|- bgcolor="#e0e0e0"
+! Sezona !! Klubs !! Līga !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}} !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}}
+|- ALIGN="center" 
+| 1995—96
+| [[Maskavas "Dinamo" (hokejs)|Maskavas "Dinamo"]]
+| [[Krievijas Superlīga (hokejs)|Krievija]]
+| 1
+| 0
+| 0
+| 0
+| 0
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1996—97
+| Maskavas "Dinamo"
+| Krievija
+| 29
+| 6
+| 5
+| 11
+| 10
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| 1997—98
+| Maskavas "Dinamo"
+| Krievija
+| 35
+| 10
+| 5
+| 15
+| 53
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1998—99
+| Maskavas "Dinamo"
+| Krievija
+| 38
+| 8
+| 13
+| 21
+| 24
+| 16
+| 10
+| 6
+| 16
+| 14
+|- ALIGN="center" 
+| 1999—00
+| [[Ročesteras "Americans"]]
+| [[Amerikas hokeja līga|AHL]]
+| 15
+| 6
+| 12
+| 18
+| 8
+| 8
+| 3
+| 1
+| 4
+| 4
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 1999—00
+| [[Bufalo "Sabres"]]
+| [[Nacionālā hokeja līga|NHL]]
+| 65
+| 16
+| 18
+| 34
+| 41
+| 5
+| 0
+| 1
+| 1
+| 2
+|- ALIGN="center" 
+| 2000—01
+| Bufalo "Sabres"
+| NHL
+| 78
+| 14
+| 22
+| 36
+| 40
+| 11
+| 2
+| 3
+| 5
+| 4
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2001—02
+| Bufalo "Sabres"
+| NHL
+| 81
+| 21
+| 19
+| 40
+| 69
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| 2002—03
+| Bufalo "Sabres"
+| NHL
+| 35
+| 5
+| 6
+| 11
+| 21
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2003—04
+| Bufalo "Sabres"
+| NHL
+| 73
+| 17
+| 14
+| 31
+| 57
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| 2004—05
+| Maskavas "Dinamo"
+| Krievija
+| 36
+| 13
+| 12
+| 25
+| 96
+| 10
+| 4
+| 4
+| 8
+| 10
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2005—06
+| Bufalo "Sabres"
+| NHL
+| 77
+| 22
+| 51
+| 73
+| 84
+| 18
+| 3
+| 5
+| 8
+| 10
+|- ALIGN="center" 
+| 2006—07
+| Bufalo "Sabres"
+| NHL
+| 56
+| 23
+| 38
+| 61
+| 66
+| 15
+| 5
+| 4
+| 9
+| 6
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2007—08
+| Bufalo "Sabres"
+| NHL
+| 56
+| 10
+| 18
+| 28
+| 42
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center"
+| 2008—09
+| Bufalo "Sabres"
+| NHL
+| 48
+| 6
+| 14
+| 20
+| 20
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2009.—2010. gada NHL sezona|2009—10]]
+| [[Atlantas "Thrashers"]]
+| NHL
+| 82
+| 24
+| 37
+| 61
+| 46
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[2010-11 KHL sezona|2010—11]]
+| [[Sanktpēterburgas SKA]]
+| [[KHL]]
+| 51
+| 13
+| 20
+| 33
+| 50
+| 11
+| 4
+| 1
+| 5
+| 10
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2011-12 KHL sezona|2011—12]]
+| Sanktpēterburgas SKA
+| KHL
+| 23
+| 4
+| 8
+| 12
+| 36
+| 12
+| 3
+| 1
+| 4
+| 4
+|- ALIGN="center" 
+| [[2012-13 KHL sezona|2012—13]]
+| Sanktpēterburgas SKA
+| KHL
+| 26
+| 4
+| 4
+| 8
+| 4
+| 13
+| 1
+| 3
+| 4
+| 6
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[2013-14 KHL sezona|2013—14]]
+| [[Podoļskas "Vitjaz"]]
+| KHL
+| 53
+| 12
+| 14
+| 26
+| 69
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" 
+| [[2014-15 KHL sezona|2014—15]]
+| Podoļskas "Vitjaz"
+| KHL
+| 54
+| 17
+| 10
+| 27
+| 124
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2015—16
+| Podoļskas "Vitjaz"
+| KHL
+| 56
+| 15
+| 13
+| 28
+| 34
+| —
+| —
+| —
+| —
+| —
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="3" | NHL kopā
+! 651
+! 158
+! 237
+! 395
+! 486
+! 49
+! 10
+! 13
+! 23
+! 22
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan="3" | KHL kopā
+! 263
+! 65
+! 69
+! 134
+! 317
+! 36
+! 8
+! 5
+! 13
+! 20
+|}
+
+=== Izlases statistika ===
+{| border="0" cellpadding="3" cellspacing="0" style="text-align:center"
+|- bgcolor="#e0e0e0"
+! Gads !! Izlase !! Turnīrs !! {{Piezīme|Sp|Spēles}} !! {{Piezīme|V|Vārti}} !! {{Piezīme|RP|Rezultatīvas piespēles}} !! {{Piezīme|P-ti|Punkti}} !! {{Piezīme|SM|Soda minūtes}}
+|- ALIGN="center"
+| 1999
+| [[Krievijas hokeja izlase|Krievija]]
+| [[Pasaules čempionāts hokejā|PČ]]
+| 6 
+| 2
+| 1
+| 3
+| 2
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2000
+| Krievija
+| PČ
+| 6
+| 1
+| 0
+| 1
+| 4
+|- ALIGN="center"
+| 2002
+| Krievija
+| [[Hokejs olimpiskajās spēlēs|OS]]
+| 6
+| 2
+| 2
+| 4
+| 4
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2004
+| Krievija
+| [[Pasaules kauss hokejā|PK]]
+| 4
+| 0
+| 1
+| 1
+| 2
+|- ALIGN="center"
+| [[2005. gada Pasaules čempionāts hokejā|2005]]
+| Krievija
+| PČ
+| 9
+| 3
+| 2
+| 5
+| 6
+|- ALIGN="center" bgcolor="#f0f0f0"
+| 2006
+| Krievija
+| OS
+| 8
+| 1
+| 0 
+| 1
+| 10
+|- ALIGN="center"
+| [[2008. gada Pasaules čempionāts hokejā|2008]]
+| Krievija
+| PČ
+| 8
+| 5
+| 1
+| 6
+| 2
+|- ALIGN="center" bgcolor="#f0f0f0"
+| [[Hokejs 2010. gada ziemas olimpiskajās spēlēs|2010]]
+| Krievija
+| OS
+| 4
+| 1
+| 1 
+| 2
+| 0
+|- ALIGN="center"
+| [[2010. gada Pasaules čempionāts hokejā|2010]]
+| Krievija
+| PČ
+| 9
+| 3
+| 4
+| 7
+| 18
+|- ALIGN="center" bgcolor="#e0e0e0"
+! colspan=3 | Izlasē kopā
+! 60
+! 18
+! 12
+! 30
+! 48
+|}
+
+== Ārējās saites ==
+{{Sporta ārējās saites}}
+
+{{Krievijas hokejists-aizmetnis}}
+{{Olimpisko spēļu laureāts-aizmetnis}}
+
+{{DEFAULTSORT:Afinogenovs, Maksims}}
+[[Kategorija:1979. gadā dzimušie]]
+[[Kategorija:Krievijas hokejisti]]
+[[Kategorija:Maskavas "Dinamo" spēlētāji]]
+[[Kategorija:Bufalo "Sabres" spēlētāji]]
+[[Kategorija:Atlantas "Thrashers" spēlētāji]]
+[[Kategorija:Sanktpēterburgas SKA spēlētāji]]
+[[Kategorija:Podoļskas "Vitjaz" spēlētāji]]
+[[Kategorija:Hokejisti 2002. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokejisti 2006. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Hokejisti 2010. gada ziemas olimpiskajās spēlēs]]
+[[Kategorija:Olimpiskās bronzas medaļas ieguvēji]]
+[[Kategorija:Kontinentālās hokeja līgas Zvaigžņu spēles dalībnieki]]
+[[Kategorija:Krievijas Nopelniem bagātie sporta meistari]]
+[[Kategorija:2002. gada ziemas olimpisko spēļu medaļnieki]]
+[[Kategorija:Olimpiskie bronzas medaļnieki hokejā]]

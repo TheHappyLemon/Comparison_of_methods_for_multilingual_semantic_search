@@ -1,0 +1,197 @@
+Visas [[Vācija]]s upes, kuras garākas par 200 km.
+
+{| class="wikitable"
+|- 
+! Upe
+! Ietek
+! Kopējais garums (km)
+! Kopējais baseins (km<sup>2</sup>)
+|-
+| [[Allere]] (''Aller'')
+| [[Vēzere]]
+| 263
+| 15 593  
+|-
+| [[Altmīle]] (''Altmühl'')
+| [[Donava]]
+| 220
+| ?  
+|-
+| '''[[Donava]]''' (''Donau'')
+| [[Melnā jūra]]
+| 2888
+| 817 000  
+|-
+| [[Ohrže|Egera]] (''Eger'')
+| [[Elba]]
+| 291
+| 5 614  
+|-
+| '''[[Elba]]''' (''Elbe'')
+| [[Ziemeļjūra]]
+| 1165
+| 148 268  
+|-
+| [[Elde]] (''Elde'')
+| [[Elba]]
+| 220
+| ?  
+|-
+| [[Emsa]] (''Ems'')
+| [[Ziemeļjūra]]
+| 371
+| 12 648  
+|-
+| [[Fulda (upe)|Fulda]] (''Fulda'')
+| kopā ar [[Vera (upe)|Veru]] veido [[Vēzere|Vēzeri]]
+| 218
+| 6 932  
+|-
+| [[Hāfele]] (''Havel'')
+| [[Elba]]
+| 325
+| 24 096  
+|-
+| '''[[Inna]]''' (''Inn'')
+| [[Donava]]
+| 517
+| 25 700  
+|-
+| [[Izāra]] (''Isar'')
+| [[Donava]]
+| 286
+| 8 971  
+|-
+| [[Lāna (upe)|Lāna]] (''Lahn'')
+| [[Reina]]
+| 242
+| 5 909  
+|-
+| [[Leha (upe)|Leha]] (''Lech'')
+| [[Donava]]
+| 264
+| 4 125  
+|-
+| [[Leine]] (''Leine'')
+| [[Allere]]
+| 271
+| 6 500 
+|-
+| [[Lipe]] (''Lippe'')
+| [[Reina]]
+| 255
+| 4 891  
+|-
+| '''[[Maina]]''' (''Main'')
+| [[Reina]]
+| 524
+| 27 292  
+|-
+| '''[[Mozele]]''' (''Mosel'')
+| [[Reina]]
+| 544
+| 35 000 
+|-
+| [[Neise]] (''Lausitzer Neiße'')
+| [[Odera]]
+| 252
+| 4 297 
+|-
+| [[Nekāra]] (''Neckar'')
+| [[Reina]]
+| 367
+| 14 000 
+|-
+| '''[[Odera]]''' (''Oder'')
+| [[Baltijas jūra]]
+| 903
+| 118 861 
+|-
+| '''[[Reina]]''' (''Rhein'')
+| [[Ziemeļjūra]]
+| 1320
+| 252 000 
+|-
+| [[Rūra (upe)|Rūra]] (''Ruhr'')
+| [[Reina]]
+| 217
+| 4 485
+|-
+| [[Šprē]] (''Spree'')
+| [[Hāfele]]
+| 400
+| 10 105 
+|-
+| [[Veise Elstera]] (''Weiße Elster'')
+| [[Zāle (upe)|Zāle]]
+| 257
+| 5 100
+|-
+| [[Vera (upe)|Vera]] (''Werra'')
+| kopā ar [[Fulda (upe)|Fuldu]] veido [[Vēzere|Vēzeri]]
+| 292
+| 5 496
+|-
+| [[Vēzere]] (''Weser'')
+| [[Ziemeļjūra]]
+| 452 (744)
+| 46 000 
+|-
+| [[Zalcaha]] (''Salzach'')
+| [[Inna]]
+| 225
+| 6 700
+|-
+| [[Zāle (upe)|Zāle]] (''Saale'')
+| [[Elba]]
+| 413
+| 23 700 
+|-
+| [[Zāra (upe)|Zāra]] (''Saar'')
+| [[Mozele]]
+| 246
+| 7 431 
+|-
+|}
+
+
+Upju sistēma:
+
+[[Baltijas jūra]]
+:* [[Odera]] (''Oder'')<sup>robežupe</sup>
+::* [[Neise]] (''Lausitzer Neiße'') (kr.)<sup>robežupe</sup>
+
+[[Ziemeļjūra]]
+:* [[Elba]] (''Elbe'')
+::* [[Elde]] (''Elde'') (lb.)
+::* [[Hāfele]] (''Havel'') (lb.)
+:::* [[Šprē]] (''Spree'') (kr.)
+::* [[Zāle (upe)|Zāle]] (''Saale'') (kr.)
+:::* [[Veise Elstera]] (''Weiße Elster'') (lb.)
+::* [[Ohrže]] (''Eger'') (kr.)
+:* [[Vēzere]] (''Weser'')
+::* [[Allere]] (''Aller'') (lb.)
+:::* [[Leine]] (''Leine'') (kr.)
+::* [[Fulda (upe)|Fulda]] (''Fulda'') (satekupe)
+::* [[Vera (upe)|Vera]] (Werra) (satekupe)
+:* [[Emsa]] (''Ems'')
+:* [[Reina]] (''Rhein'')
+::* [[Lipe]] (''Lippe'') (lb.)
+::* [[Rūra (upe)|Rūra]] (''Ruhr'') (lb.)
+::* [[Mozele]] (''Mosel'') (kr.)
+:::* [[Zāra (upe)|Zāra]] (''Saar'') (lb.)
+::* [[Lāna (upe)|Lāna]] (''Lahn'') (lb.)
+::* [[Maina]] (''Main'') (lb.)
+::* [[Nekāra]] (''Neckar'') (lb.)
+
+
+[[Melnā jūra]]
+:* [[Donava]] (''Donau'')
+::* [[Inna]] (''Inn'') (lb.)
+:::* [[Zalcaha]] (''Salzach'') (lb.)
+::* [[Izāra]] (''Isar'') (lb.)
+::* [[Altmīle]] (''Altmühl'') (kr.)
+::* [[Leha (upe)|Leha]] (''Lech'') (lb.)
+
+[[Kategorija:Vācijas upes| ]]
+[[Kategorija:Upju uzskaitījumi]]

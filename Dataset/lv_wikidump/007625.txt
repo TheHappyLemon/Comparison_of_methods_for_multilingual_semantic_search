@@ -1,0 +1,90 @@
+{{Latvijas novada infokaste
+| nosaukums         = Druvienas pagasts
+| karte             = Druvienas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Gulbenes novads
+| centrs            = Druviena
+| platība           = 67,57
+| iedzīvotāji       = 513<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 513 / 67.57 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+<!-- Vēsturiskie nosaukumi līdz 1918. gadam -->
+| nos_vācu          = Druween<!-- vācu -->
+| ref_vācu          = <!-- atsauce ar <ref></ref> tagiem -->
+| nos_krievu        = Друвенская<!-- krievu -->
+| ref_krievu        = <!-- atsauce ar <ref></ref> tagiem -->
+}}
+
+'''Druvienas pagasts''' ir viena no [[Gulbenes novads|Gulbenes novada]] administratīvajām teritorijām tā dienvidrietumos. Robežojas ar sava novada [[Rankas pagasts|Rankas]], [[Lizuma pagasts|Lizuma]] un [[Tirzas pagasts|Tirzas]] pagastiem, [[Madonas novads|Madonas novada]] [[Cesvaines pagasts|Cesvaines]] un [[Liezēres pagasts|Liezēres]] pagastiem un [[Cēsu novads|Cēsu novada]] [[Jaunpiebalgas pagasts|Jaunpiebalgas pagastu]]. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Azanda]], [[Labā Vilaune]], [[Robežupe (Vilaunes pieteka)|Robežupe]], [[Tirza (upe)|Tirza]], [[Tocupīte]], [[Vilaune]].
+
+==== Ezeri ====
+[[Pērļa dzirnavezers]], [[Lazdu ūdenskrātuve]], [[Kalniņdīķis]], [[Caunes dīķis]], [[Gaiļa dīķis]], [[Velniņš (ezers)|Velniņš]], [[Giganta ūdenskrātuve]].
+
+== Vēsture ==
+1935. gadā [[Cēsu apriņķis|Cēsu apriņķa]] Druvienas pagasta platība bija 84 km² un tajā bija 1130 iedzīvotāji.<ref>{{Pagastu apraksti}}</ref> 1945. gadā pagastā izveidoja Druvienas [[ciema padome|ciema padomi]], ko gan 1947. gadā likvidēja, bet atjaunoja 1949. gadā, līdz ar pagasta likvidēšanu. '''Druvienas ciems''' ietilpis [[Gaujienas rajons|Gaujienas]] (1949-1956) un [[Gulbenes rajons|Gulbenes]] (pēc 1956. g.) rajonos.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Druvienas pagastu kā administratīvo teritoriju iekļāva [[Gulbenes novads|Gulbenes novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|1000
+|1959|750
+|1965|713
+|1979|596
+|1989|594
+|2000|636
+|2011|492
+|2021|436
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Druviena]]''' (pagasta centrs), [[Mežkleivas]], [[Murāni (Druvienas pagasts)|Murāni]], [[Silmači]], [[Ziemeļi (ciems)|Ziemeļi]], [[Saltupes]], [[Tīrumkleivas]], [[Tirzieši (Druvienas pagasts)|Tirzieši]].
+
+=== Ievērojamas personības ===
+* [[Rūdolfs Egle]] (1889-1947), latviešu literatūrzinātnieks, tulkotājs.
+* [[Kārlis Egle]] ( 1887-1974), latviešu literatūrzinātnieks,bibliogrāfs,tulkotājs.
+* [[Jūlijs Straume]] ( 1874-1970), latviešu tekstilmākslinieks, pedagogs.
+* [[Jānis Poruks]] (1871—1911), latviešu rakstnieks un dzejnieks.
+* [[Jānis Straume (komponists)]] (1861-1929), latviešu komponists, rakstnieks un kritiķis.
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Gulbenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Gulbenes rajons}}
+{{Cēsu apriņķis}}
+{{Valkas apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Gulbenes novada pagasti]]
+[[Kategorija:Druvienas pagasts| ]]

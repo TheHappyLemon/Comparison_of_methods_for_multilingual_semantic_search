@@ -1,0 +1,17 @@
+'''Taksonomija''' ({{val|grc|ταξινομία}}, no ''τάξις'' (''taxis'') — 'izvietojums noteiktā kārtībā' un ''-νομία'' (''nomia'') — 'likums') nodarbojas ar dzīvo [[organismu klasifikācija]]s metodoloģiju.<ref>{{Grāmatas atsauce|title=Bioloģija vidusskolai 1.daļa|last=Sausiņa|first=Līga|isbn=978-9984-40-685-5|pages=50}}</ref> Tās uzdevums ir sadalīt dzīvos organismus grupās — [[taksons|taksonos]] un izvietot tās tādā kārtībā, kas atspoguļo to [[hierarhija|hierarhiju]] (no vienkāršākajiem līdz sarežģītākajiem) un radniecības pakāpi ([[Suga|sugu]], [[Ģints (bioloģija)|ģinšu]], [[Dzimta (bioloģija)|dzimtu]] utt. līmenī), pamatojoties uz savstarpējās līdzības pakāpi. Ir vairākas metodes, kas nosaka organismu grupas relatīvo stāvokli kopējā sistēmā. Filoģenētiskā metode nosaka radniecīgās saites ar [[salīdzinošā anatomija|salīdzinošās anatomijas]] un [[paleontoloģija]]s palīdzību. Ģenētiskā metode nosaka radniecības pakāpi, salīdzinot organismu [[DNS]] ģenētiskā līmenī. Vēl ir kladistiskā u.c. metodes.
+
+== Vēsture ==
+Terminu „taksonomija” [[1813]]. gadā ieviesa šveiciešu botāniķis [[Augustīns Dekandols]]. Ilgu laiku to lietoja kā sinonīmu terminam „[[sistemātika]]”. 20. gadsimta 60.—70. gados taksonomiju sāka uzskatīt par sistemātikas nozari, kas aplūko sistematizēšanas un klasificēšanas teorētiskos jautājumus. Tagad taksonomijas atziņas izmanto kā [[bioloģija|bioloģijā]], tā arī citās zinātnes nozarēs, kas nodarbojas ar hierarhiski organizētiem, diskrētiem objektiem (piemēram, [[numerālā taksonomija]], [[matemātiskā lingvistika]], [[mineraloģija]] u.c.).
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Bioloģija-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Taksonomija| ]]

@@ -1,0 +1,52 @@
+[[Attēls:Kulona likums.JPG|300px|thumb|Vienādzīmju lādiņi atgrūžas, pretēju zīmju lādiņi pievelkas]]
+
+'''Kulona likums''' ir likums, kas apraksta, kā savstarpēji mijiedarbojas divi punktveida lādiņi. Šo likumu var formulēt šādi: divu [[Elektriskais lādiņš|punktveida lādiņu]] <math>q_1 \ </math> un <math>q_2 \ </math> mijiedarbības spēks ir centrāls, tieši proporcionāls lādiņu lielumiem un apgriezti proporcionāls to savstarpējā attāluma <math>r \ </math> kvadrātam.{{Elektrodinamika}}
+
+Kulona likumu, kas ir analoģisks [[Ņūtona vispasaules gravitācijas likums|Ņūtona vispasaules gravitācijas likumam]], precīzos eksperimentos konstatēja [[Šarls Ogistēns Kulons]] ([[Francija]]) 1785. gadā, lai gan dažus gadus iepriekš to bija pierādījis [[Henrijs Kevendišs]] ([[Anglija]]). Taču H. Kevendiša darbs nebija plaši pazīstams. <ref name=":0">{{Grāmatas atsauce|title=Fizikas rokasgrāmata|last=Fļorovs|first=V.|publisher=Zvaigzne|year=1985|pages=157.--158|last2=Kolangs|first2=I.|last3=Puķītis|first3=P.|last4=Šilters|first4=E.}}</ref>
+
+== Kulona likums skalārā formā ==
+
+<math> F = k \frac{|q_1| |q_2|}{r^2}, </math>
+
+kur:
+* <math> F \ </math> ir Kulona spēks, 
+* <math>q_1 \ </math> ir pirmā lādiņa lielums,
+* <math>q_2 \ </math> ir otrā lādiņa lielums,
+* <math>r \ </math> ir attālums starp lādiņiem,
+* <math>k = \frac{1}{4 \pi \varepsilon_r \varepsilon_0} </math>, [[Vakuums|vakuumā]] <math>k \approx 8,988 \cdot 10^9 </math> [[Ņūtons|N]]·[[Metrs|m]]<sup>2</sup>·[[Kulons|C]]<sup>-2</sup>,
+*<math>\pi</math> ir [[pī]],
+* <math> \varepsilon_r </math> ir vides relatīvā [[dielektriskā caurlaidība]], vakuumā <math> \varepsilon_r = 1 </math>,
+*<math>\varepsilon_0</math> ir [[elektriskā konstante]] (8,85⋅10<sup>−12</sup> [[Farads|F]]/[[Metrs|m]]).
+
+== Kulona likums vektoriālā formā ==
+
+[[Attēls:Kulona likums2.JPG|300px|thumb|right|Lādiņu rādiusvektoru shēma]]
+
+<math>\vec{F}_{12} = k \frac{q_1 q_2}{r_{12}^3} \vec{r}_{12},</math>
+
+kur 
+* <math>\vec{F}</math> ir Kulona spēka vektors,
+* <math>q_1 \ </math> ir pirmā lādiņa lielums, uz kuru iedarbojas spēks,
+* <math>q_2 \ </math> ir otrā lādiņa lielums,
+* <math>\vec{r}_{12}=\vec{r}_1-\vec{r}_2</math> ir [[rādiusvektors]] no <math>q_2</math> līdz <math>q_1</math>,
+* <math>\vec{r}_1 \ </math> ir <math>q_1</math> rādiusvektors,
+* <math>\vec{r}_2 \ </math> ir <math>q_2</math> rādiusvektors, un
+* <math>r_{12} \ </math> ir <math>\vec{r}_{12}</math> modulis,
+* <math>k = \frac{1}{4 \pi \varepsilon_r \varepsilon_0} </math>, vakuumā <math>k \approx 8,988 \cdot 10^9 </math> [[Ņūtons|N]]·[[Metrs|m]]<sup>2</sup>·[[Kulons|C]]<sup>-2</sup>,
+*<math>\pi</math> ir [[pī]],
+* <math> \varepsilon_r </math> ir vides relatīvā [[dielektriskā caurlaidība]], vakuumā <math> \varepsilon = 1 </math>,
+*<math>\varepsilon_0</math> ir [[elektriskā konstante]] (8,85⋅10<sup>−12</sup> [[Farads|F]]/[[Metrs|m]]).
+
+Kulona spēkam ir pareizs [[Ņūtona trešais likums]], jo <math>\vec{F}_{21} = -\vec{F}_{12}</math>. Ja savietojam atskaites sistēmas sākumpunktu <math>O_1</math> ar vienu no lādiņiem (<math>q_2 \ </math>) un otra lādiņa (<math>q_1 \ </math>) rādiusvektors ir <math>\vec{r} = \vec{r}_{12}</math>, tad Kulona likums ir rakstāms formā
+
+:<math>\vec{F} = \vec{F}_{12} = k \frac{q_1 q_2}{r^3} \vec{r}</math>.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+[[Kategorija:Fizikas likumi]]
+[[Kategorija:Elektriskais lauks]]

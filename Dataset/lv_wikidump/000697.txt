@@ -1,0 +1,88 @@
+{{Valsts infokaste
+|         vietējais_nosaukums = Polynésie française<br />Pōrīnetia Farāni
+|    pilnais_valsts_nosaukums = Franču Polinēzija
+|            valsts_nosaukums = French Polynesia
+|               karoga_attēls = Flag_of_French_Polynesia.svg
+|            karoga_nosaukums = Franču Polinēzijas karogs
+|              ģerboņa_attēls = Coat_of_arms_of_French_Polynesia.svg
+|           ģerboņa_nosaukums = Franču Polinēzijas ģerbonis
+|             ģerboņa_platums = 90px
+|                 valsts_moto = ''"Tahiti Nui Mare'are'a"''<br />''"Liberté, Égalité, Fraternité"''
+|                valsts_himna = ''[[Marseljēza|La Marseillaise]]''
+|               kartes_attēls =Location_French_Polynesia.png
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Papeete]]
+| latd=17 | latm=34 | latNS=S | longd=149 | longm=36 | longEW=W <!-- kordinātas galvaspilsētai -->
+|             lielākā_pilsēta = [[Faaa]]
+|              valsts_valodas = [[franču valoda|franču]], [[taitiešu valoda|taitiešu]]
+|             etniskās_grupas = 
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = Atkarīga teritorija
+|        valsts_galvas_tituls = [[Francijas prezidents]]
+|                valsts_galva = [[Emanuels Makrons]]
+|       valsts_galvas_tituls2 = [[Franču Polinēzijas prezidents]]
+|               valsts_galva2 = [[Édouard Fritch]]
+|       valsts_galvas_tituls3 = Augstais komisārs
+|               valsts_galva3 = [[Lionel Beffre]]
+|        neatkarības_iegūšana = Francijas aizjūras zeme
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = protektorāts
+|          neatkarības_datums = [[1842]].g.
+|       neatkarības_notikums2 = aizjūras teritorija
+|         neatkarības_datums2 = [[1946]].g.
+|       neatkarības_notikums3 = aizjūras zeme
+|         neatkarības_datums3 = [[2004. gads|2004]].g.
+|       neatkarības_notikums4 = 
+|         neatkarības_datums4 = 
+|          iestāšanāsESdatums = 
+|                 platība_km2 = 4167
+|               platība_rangs = 173
+|              procenti_ūdens = 12
+|     iedzīvotāju_skaita_gads = 2022
+|          iedzīvotāju_skaits = 299356
+|    iedzīvotāju_skaits_rangs = 175
+|    apdzīvotības_blīvums_km2 = 79
+|  apdzīvotības_blīvums_rangs = 130
+|                     IKP_PPP = $4,58 mld.
+|                IKP_PPP_gads = 2003
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $17 500
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 
+|                    HDI_gads = 
+|              HDI_kategorija = 
+|                   HDI_rangs = 
+|                        Gini = 
+|                   Gini_gads = 
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[CFP franks]]
+|                valūtas_kods = XPF
+|                  laika_zona = 
+|                  utc_offset = -10
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = .pf
+|              tālsarunu_kods = 689
+|                iso_kods_num = 258 	
+|              iso_kods_alfa2 = PF
+|              iso_kods_alfa3 = PYF 	
+}}
+'''Franču Polinēzija''' ({{val|fr|Polynésie française}}; [[Taitiešu valoda|taitiešu]]: ''Pōrīnetia Farāni'') ir [[Francija]]s aizjūras teritorija ar speciālu statusu. Aizņem vairākas salu grupas [[Klusais okeāns|Klusajā okeānā]]: [[Biedrības salas]], [[Tuamotu salas]], [[Marķīza salas]], [[Tubuai salas]], kā arī vairākas nelielas salu grupas un atsevišķas salas un atolus. Valsts galvaspilsēta [[Papeete]] atrodas uz lielākās no salām [[Taiti]].
+== Iedzīvotāji ==
+=== Ievērojamas personības ===
+* [[Pols Gogēns]] (1848–1903), franču gleznotājs.
+* [[Žaks Brels]] (franču: Jacques Brel; 1929—1978), beļģu dziedātājs un dziesmu autors
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ģeogrāfija-aizmetnis}}
+{{Francijas aizjūras departamenti un teritorijas}}
+{{Okeānijas valstis un teritorijas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Franču Polinēzija| ]]

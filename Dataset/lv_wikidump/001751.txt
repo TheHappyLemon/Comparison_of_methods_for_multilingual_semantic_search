@@ -1,0 +1,52 @@
+{{Apdzīvotas vietas infokaste
+| name = Prieni
+| image_skyline =PrienaiA7903.JPG
+| imagesize = 300px
+| image_caption = Bijušā Prienu papīra manufaktūra, tagad tūrisma informācijas centrs
+| image_flag = 
+| image_shield = Prienai COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Prienu rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1609
+| area_total_km2 = 8.34
+| population_as_of = 2018
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 8623
+| population_density_km2 = auto
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 38 
+| lats = 19 
+| latNS = N 
+| longd = 23 
+| longm = 57 
+| longs = 02
+| longEW = E
+| elevation_m = 59
+| website = http://www.prienai.lt/}}
+
+'''Prieni''' ({{val|lt|Prienai}}) ir pilsēta [[Lietuva]]s dienviddaļā, abos [[Nemuna]]s krastos, [[Prienu rajona pašvaldība|pašvaldības]] un pilsētas seņūnijas centrs. Pilsēta atrodas 39 kilometru uz dienvidiem no [[Kauņa]]s, 100 kilometru uz rietumiem no [[Viļņa]]s, 30 kilomnetru uz ziemeļiem no [[Alīta]]s un 40 kilometru uz austrumiem no [[Marijampole]]s.
+
+Lielāka Prienu daļa atrodas [[Nemuna]]s kreisajā krastā. Labajā krastā - Paprienes mikrorajons, kurā atrodas centrālā slimnīca un pansionāts. Pār Nemunu Prienos uzbūvēts tilts (Prienu tilts). Pilsētas centrā atrodas Brīvības laukums, koka Kristus Atklāsmes baznīca (uzcelta 1750. gadā), novada muzejs, kultūras centrs, pasts (LT-59001), piemineklis [[Ķēstutis|Ķēstutim]], Prienu pils vieta (Butlera pils) un Revonas parks (pilsētas parks), ziemeļos — pilsētas kapsēta. Saglabājušās vienas no lielākajām Lietuvā bijušās papīra manufaktūras (18.—19. gadsimts) ēkas. Prienu ziemeļrietumos atrodas ģimenes dārziņi, dienvidrietumos plešas Prienu sils. Pilsētas nomales pie Nemunas krasta atrodas Nemunas loku reģionālajā parkā. [[Birštona]]s kūrorta virzienā ved asfaltēta kājāmgājēju un riteņbraucēju taka.
+
+Pilsēta rakstos pirmoreiz minēta 1502. gadā. Pilsētas tiesības no 1609. gada. No pilsētas rūpniecības uzņēmumiem var atzīmēt kompāniju ''JSC Sportine Aviacija ir Ko'', kas kopš 1969. gada izgatavo [[planieris|planierus]]. Pilsētas [[basketbols|basketbola]] komanda "[[BC Prienai]]" ir 2010-11 un 2011-12 gada sezonas trešās vietas ieguvēji [[Lietuvas Basketbola līga|Lietuvas Basketbola līgā]].
+
+Pilsētas pievārtē ir dzimis lietuviešu dzejnieks [[Justīns Marcinkevičs]] (''Justinas Marcinkevičius'', 1930-2011).
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+* [http://www.lak.lt/ JSC Sportine Aviacija ir Ko - planieru izgatavošanas kompānija] {{en ikona}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+[[Kategorija:Lietuvas pilsētas]]

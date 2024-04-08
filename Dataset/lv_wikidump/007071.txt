@@ -1,0 +1,22 @@
+'''Autentificēšana''' (no {{val|el|αὐθεντικός}} (''authentikos'') — 'īsts, patiess') ir [[subjekts|subjekta]] (lietotāja) identitātes pārbaude [[datorsistēma|datorsistēmā]]. Tas ir nākamais solis pēc [[Identifikācija (informācija)|identificēšanas]], kurā noskaidro lietotāja identifikatoru, bet autentificēšanā nosaka, vai lietotājs atbilst uzrādītajam identifikatoram.
+
+Autentificēšana notiek uz kāda slepena elementa (autentifikatora) pamata, kuru zina gan lietotājs, gan sistēma. Parasti sistēmai nav zināms pats slepenais elements, bet gan kāda [[informācija]], pēc kuras nosaka lietotāja autentiskumu.
+
+Autentificēšanas veidus var iedalīt vairākās kategorijās:
+* Lietotājs kaut ko '''zina''' <br /> (piemēram, [[parole|paroli]]<!--, pass phrase--> vai [[personas identifikācijas numurs|personas identifikācijas numuru]] (PIN));
+* Lietotājam kaut kas '''pieder''' <br /> (piemēram, [[magnētiskā karte]], [[viedkarte]] vai [[marķierierīce]]);
+* Lietotājs kaut kas '''ir''' <br /> pamatojas uz lietotāja [[biometrija|biometriskajām]] īpašībām (piemēram, balss, [[pirkstu nospiedumi|pirkstu nospiedumiem]] vai paraksta atpazīšanas)
+
+Pēc autentificēšanas parasti notiek [[autorizācija]] — lietotāja piekļuves (sistēmas resursiem, informācijai) tiesību piešķiršana.
+
+== Statiskā autentificēšana ==
+Statiskā autentificēšana ir, ja autentificēšanai izmanto nemainīgu informāciju. Šāda veida autentificēšana ir visnedrošākā, jo paroli var viegli "noklausīties", un vēlāk to izmantot. Šajā gadījumā vienīgais aizsardzības veids ir datu apmaiņas kanāla maksimāla aizsargāšana.
+
+== Dinamiskā autentificēšana ==
+Šajā gadījumā pusēm A un B ir zināma funkcija F. Lai puse A pārliecinātos, ka puse "B" ir B, tā nodod pusei B nejauši ģenerētus datus. Puse B apstrādā datus ar funkciju F un nosūta rezultātu atpakaļ pusei A. Puse A ar to pašu funkciju pārbauda saņemto rezultātu un tiek skaidrībā, vai "B" ir B. Dinamiskajai autentificēšanai ir svarīgi izvēlēt korektu funkciju un nodrošināt, lai tā nav pieejama nevienam citam.
+Dinamisko autentificēšanu plaši izmanto [[viedkarte|viedkartēs]] un kodu kalkulatoros.
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Datu drošība]]
+[[Kategorija:Piekļuves kontrole]]

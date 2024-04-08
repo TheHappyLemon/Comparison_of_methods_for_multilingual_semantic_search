@@ -1,0 +1,39 @@
+{{Minerāla infokaste
+|minerāls=Ālfeldīts
+|attēls=
+|klase=Oksīdi un hidriksīdi
+|ŠtruncaID=4/K.07-30
+|ķīm_formula=(Ni,Co)[SeO<sub>3</sub>]·2H<sub>2</sub>O
+|singonija=[[Monoklīnā singonija|monoklīnā]]
+|krāsa=Ābolzaļš, brūns, sārts
+|svītra=Bāli zaļa, balta
+|habituss=
+|skaldnība=Labi izteikta
+|lūzums=
+|cietība=2 - 2,5
+|spīdums=Stikla
+|caurspīdīgums=Caurspīdīgs
+|laušanas_koef=n<sub>α</sub> = 1.709 n<sub>β</sub> = 1.752 n<sub>γ</sub> = 1.787
+|pleohroisms=
+|blīvums=3,37
+}}
+__NOTOC__
+
+'''Ālfeldīts''' (nosaukts vācu ģeologa un inženiera [[Frīdrihs Ālfelds|Frīdriha Ālfelda]] vārdā) ir rets [[minerāls]]. Aprakstīts 1935. gadā. 
+
+== Atradnes ==
+* [[Bolīvija]], [[Potosi departaments]]
+** Šajantas province, Pakajake kanjons, Virhen de Surumi raktuves - šeit minerāls tika atklāts
+** Kviharo province, Eldragonas raktuves
+
+== Ārējās saites ==
+* [http://www.mindat.org/min-61.html Mindat.org] {{angliski}}
+* [http://www.webmineral.com/data/Ahlfeldite.shtml Webmineral.org] {{angliski}}
+
+
+{{ģeoloģija-aizmetnis}}
+
+[[Kategorija:Minerāli|Azlfeldīts]]
+[[Kategorija:Kobalta minerāli]]
+[[Kategorija:Niķeļa minerāli]]
+[[Kategorija:Selenītu minerāli]]

@@ -1,0 +1,125 @@
+{{Valsts infokaste
+|        vietējais_nosaukums = <big> دولة الامارات العربية المتحدة</big>
+|   pilnais_valsts_nosaukums = Apvienoti Arābu Emirāti
+|           valsts_nosaukums = Apvienoti Arābu Emirāti
+|            etniskās_grupas = 
+|           karoga_nosaukums = Apvienoto Arābu Emirātu karogs
+|              karoga_attēls = Flag of the United Arab Emirates.svg
+|          ģerboņa_nosaukums = 
+|            ģerboņa_platums = 85px
+|             ģerboņa_attēls = Coat of arms of the United Arab Emirates.svg
+|              kartes_attēls = United Arab Emirates (orthographic projection).svg
+|                valsts_moto = ''Allah, al-Waṭan, al-Ra'īs''<small> (arābu)<br />"Dievs, Nācija, Prezidents"</small>
+|               valsts_himna = ''[[Ishy Bilady]]''
+|official_language           = [[Arābu valoda|Arābu]]
+|              galvaspilsēta = [[Abū Dabī]]
+|latd= 24 | latm= 28 | latNS = N 
+|longd= 54 |longm= 22 |longEW = E
+|coordinates_type = region:AE_type:country
+|coordinates_display = inline, title
+|            lielākā_pilsēta = [[Dubaija]]
+|second_lielākā_pilsēta         = [[Abū Dabī]]
+|             valsts_valodas = [[Arābu valoda|arābu]]
+|             valsts_iekārta = [[Federācija (valsts)|Federāla]] [[absolūtā monarhija]]
+|       valsts_galvas_tituls = [[Prezidents]]
+|      valsts_galvas_tituls2 = [[Premjerministrs]]
+|               valsts_galva = [[Mohameds bin Zajeds al Nahajans]]
+|              valsts_galva2 = [[Maktūms bin Rašīds al Maktūms]]
+|              platība_rangs = 116
+|                platība_km2 = 83 600
+|             procenti_ūdens = 
+|         iedzīvotāju_skaits = 9 581 000<ref name=unpop>{{cite paper | url=http://uaeinteract.com/docs/Expat_numbers_rise_rapidly_as_UAE_population_touches_6m/37883.htm | title=Expat numbers rise rapidly as UAE population touches 6m | version=2009 revision | format=PDF | publisher=uaeinteract.com | author=Department of Economic and Social Affairs
+Population Division | year=2009 | accessdate=2009-03-12 | archiveurl=https://web.archive.org/web/20091009033650/http://www.uaeinteract.com/docs/Expat_numbers_rise_rapidly_as_UAE_population_touches_6m/37883.htm | archivedate=2009-10-09 }}</ref>
+|    iedzīvotāju_skaita_gads = 2015
+|   iedzīvotāju_skaits_rangs = 93
+|   apdzīvotības_blīvums_km2 = 99
+| apdzīvotības_blīvums_rangs = 110
+|language = Angļu, arābu, hindu, urdu
+| GDP_nominal = $377,435 miljardi<ref name=imf2>{{tīmekļa atsauce |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=43&pr.y=6&sy=2017&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C946%2C914%2C137%2C612%2C546%2C614%2C962%2C311%2C674%2C213%2C676%2C911%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C734%2C336%2C144%2C263%2C146%2C268%2C463%2C532%2C528%2C944%2C923%2C176%2C738%2C534%2C578%2C536%2C537%2C429%2C742%2C433%2C866%2C178%2C369%2C436%2C744%2C136%2C186%2C343%2C925%2C158%2C869%2C439%2C746%2C916%2C926%2C664%2C466%2C826%2C112%2C542%2C111%2C967%2C298%2C443%2C927%2C917%2C846%2C544%2C299%2C941%2C582%2C446%2C474%2C666%2C754%2C668%2C698%2C672&s=NGDPD%2CPPPGDP%2CNGDPRPPPPC%2CNGDPDPC&grp=0&a= |title=World Economic Outlook Database: UAE |publisher=[[Starptautiskais Valūtas fonds|International Monetary Fund]] |date=April 2018 |accessdate=6 June 2018}}</ref>
+| GDP_nominal_rank = 
+| GDP_nominal_year = 2017
+| GDP_nominal_per_capita = $37,225<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 
+|               IKP_PPP_gads = 2017
+|                    IKP_PPP = $686,831 miljardi<ref name="imf2" />
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $61,702<ref name=imf2/>
+|   IKP_PPP_per_capita_rangs = 
+|       neatkarības_iegūšana = Neatkarība
+|        neatkarības_piezīme = no [[Lielbritānija]]s
+|       neatkarības_notikums = Konstitūcijas spēkā stāšanās
+|         neatkarības_datums = [[1971]]. gada [[2. decembris]] 
+|                   HDI_gads = 2019
+|                        HDI = {{palielinājās}} 0.890<ref name="HDI">{{Tīmekļa atsauce|url=http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_ARE.html|title=Human Development Report 2009: Apvienoti Arābu Emirāti|publisher=The United Nations|accessdate=2009-10-18|archiveurl=https://web.archive.org/web/20091011012449/http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_ARE.html|archivedate=2009-10-11}}</ref>
+|                  HDI_rangs = 31.
+|             HDI_kategorija = <span style="color:#090;">ļoti augsts</span>
+|                       Gini = 36
+|                  Gini_gads = 2008
+|            Gini_kategorija = <font color="#ffcc00">vidējs</font>
+|                     valūta = [[AAE dirhems]]
+|               valūtas_kods = AED
+|country_code = AE
+|                 laika_zona = GMT+4
+|                 utc_offset = +4
+|                     domēns = [[.ae]], [[امارات.]]
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|Communication Companies = Etisalat<ref>http://www.etisalat.ae</ref>
+|             tālsarunu_kods = 971 — Abū Dabī: 02, Dubaija: 04, Sārdža & Adžmāna: 06, Alaina: 03, Fudžeira: 09, Ummelkaivaina & Rāselhaima: 07
+}}
+'''Apvienotie Arābu Emirāti''' ({{val|ar|دولة الإمارات العربية المتحدة‎}}, ''{{Unicode|Dawlat al-Imārāt al-‘Arabīyah al-Muttaḥidah}}''), saukti arī par '''AAE''' vai '''Emirātiem''', ir valsts [[Tuvie Austrumi|Tuvajos Austrumos]], kas atrodas [[Arābijas pussala]]s dienvidaustrumos. Emirāti robežojas ar [[Saūda Arābija|Saūda Arābiju]] dienvidos un ar [[Omāna|Omānu]] austrumos, kā arī tai ir jūras robeža ar [[Katara|Kataru]] un ar [[Irāna|Irānu]]. To ziemeļos apskalo [[Persijas līcis]], bet austrumos [[Omānas līcis]]. Apvienoto Arābu Emirātu kopējā platība ir 83 600 [[km²]] un to ietekmē [[Subtropu klimatiskā josla|subtropu klimats]]. Lielāko daļu no AAE teritorijas aizņem [[Tuksnesis|tuksneši]], bet valsts ziemeļaustrumos atrodas auglīga zeme. 
+
+Tā ir viena no turīgākajām valstīm pasaulē pēc [[Iekšzemes kopprodukts pēc pirktspējas līmeņa|IKP uz vienu iedzīvotāju]].
+AAE [[nafta]]s rezerves ir septītās lielākās pasaulē, bet dabasgāzes rezerves ir septiņpadsmitās lielākās pasaulē. Lielāko daļu no naftas ienākumiem valsts izmanto veselības, izglītības un infrastruktūras attīstībai.<ref>{{Tīmekļa atsauce|url=https://www.bbc.com/news/world-middle-east-14703998|title=United Arab Emirates country profile|date=2020. gada 31. aug.|via=www.bbc.co.uk}}</ref>
+AAE ir [[Arābu līga]]s, [[Līča arābu valstu sadarbības padome]]s, [[Islāma sadarbības organizācija]]s, [[Nepievienošanās kustība]]s, [[BRICS]] un [[OPEC]] dalībvalsts.
+
+== Iedzīvotāji ==
+Pēc 2014. gada datiem Apvienotajos Arābu Emirātos dzīvoja vairāk nekā 9,5 miljoni iedzīvotāju, no kuriem apmēram 1,2 miljoni bija pilsoņi, bet vairāk kā 8,3 miljoni bija iebraucēji.<ref>{{Tīmekļa atsauce|url=https://www.migrationpolicy.org/article/labor-migration-united-arab-emirates-challenges-and-responses|title=Labor Migration in the United Arab Emirates: Challenges and Responses|first=Froilan T. Malit Jr and Ali Al|last=Youha|date=2013. gada 18. sept.|website=migrationpolicy.org}}</ref>
+
+[[Nepilsoņi]] var pretendēt uz AAE pilsonības iegūšanu pēc divdesmit valstī nodzīvotiem gadiem, ja viņiem nav kriminālu pārkāpumu un viņi prot teicami runāt arābiski.<ref>Camille Paldi (13 July 2010) [http://ilovetheuae.com/2010/07/13/federal-law-no-17-concerning-nationality-and-passports UAE Islamic Finance] {{Webarchive|url=https://web.archive.org/web/20130226044910/http://ilovetheuae.com/2010/07/13/federal-law-no-17-concerning-nationality-and-passports |date={{dat|2013|02|26||bez}} }}. ''I Love The UAE''. Atjaunots 2014. gada 18. janvārī.</ref> 2009. gadā 58,4% AAE iedzīvotāju bija imigranti no [[Indija]]s, [[Pakistāna]]s un [[Bangladeša]]s, 16,7% bija no citām Āzijas valstīm, bet 8,4% jeb apmēram 500 000 iedzīvotāju bija no [[Rietumu valstis|Rietumvalstīm]]. Lielākā etniskā grupa ir [[indieši]] (25%), tad seko [[pakistāņi]] (12%), [[arābi]] (9%), [[bengāļi]] (7%) un [[filipīnieši]] (5%).
+
+Oficiālā valsts valoda ir [[arābu valoda]], bet biznesā un izglītībā tiek izmantota arī [[angļu valoda]]. Lielākā reliģija pēc sekotāju skaita ir [[islāms]] (85% [[sunnīti]], 15% [[šiīti]]).
+
+== Struktūra ==
+{{main|Apvienoto Arābu Emirātu administratīvais iedalījums}}
+Apvienotie Arābu Emirāti sastāv no septiņiem emirātiem: [[Abū Dabī emirāts|Abū Dabī]], [[Dubaijas emirāts|Dubaijas]], [[Adžmānas emirāts|Adžmānas]], [[Šārdžas emirāts|Šārdžas]], [[Ummelkaivainas emirāts|Ummelkaivainas]], [[Rāselhaimas emirāts|Rāselhaimas]] un [[Fudžeiras emirāts|Fudžeiras]]. Visi emirāti ir [[Absolūtā monarhija|absolūtās monarhijas]], bet federālā līmenī pastāv [[prezidentālims|prezidentāla]] sistēma. Tradicionāli prezidenta amatu ieņem Abū Dabī emīrs, bet premjerministra — Dubaijas emīrs, tādējādi šie amati faktiski ir mantojami.
+
+Apvienoto Arābu Emirātu galvaspilsēta ir [[Abū Dabī]], bet lielākā pilsēta ir [[Dubaija]].
+
+{| class="sortable wikitable"
+|-
+! Karte !! Karogs !! Ģerbonis !! Emirāts !! Nosaukums<br />arābu valodā !! Administratīvais<br />centrs !! Platība (km²)<ref name="tedad">{{tīmekļa atsauce|url=http://www.tedad.ae/english/kids/emirates.html|title=Census 2005|publisher=Ministry of Economy and Planning, Government of the United Arab Emirates|year=2005|accessdate=2009-11-13|archiveurl=https://web.archive.org/web/20091106052413/http://tedad.ae/english/kids/emirates.html|archivedate=2009-11-06}}</ref> !! Iedzīvotāju skaits!! ISO 3166-2
+|-
+| [[Attēls:Abu Dhabi in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Abu Dhabi.svg|70px]] || [[Attēls:Emblem of Abu Dhabi.svg|40px]] || '''[[Abū Dabī emirāts|Abū Dabī]]''' || أبوظبي || [[Abū Dabī]] || {{nts|67340}} || {{nts|2210700}} || AE-AZ
+|-
+| [[Attēls:Ajman in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Ajman.svg|70px]] || [[Attēls:Eau ajman-escut.png|40px]] || '''[[Adžmānas emirāts|Adžmāna]]''' || إمارة عجمانّ || [[Adžmāna]] || {{nts|259}} || {{nts|372923}} || AE-AJ
+|-
+| [[Attēls:Dubai in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Dubai.svg|70px]] || || '''[[Dubaijas emirāts|Dubaija]]''' || دبي || [[Dubaija]] || {{nts|4114}} || {{nts|2106177}} || AE-DU
+|-
+| [[Attēls:Fujairah in United Arab Emirates.svg|100px]] || [[Attēls:Fujairah Flag.gif|70px]] || || '''[[Fudžeiras emirāts|Fudžeira]]''' || الفجيرة || [[Fudžeira]] || {{nts|1166}} || {{nts|152000}} || AE-FU
+|-
+| [[Attēls:Ras al-Khaimah in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Sharjah and Ras Al Khaimah.svg|70px]] || || '''[[Rāselhaimas emirāts|Rāselhaima]]''' || إمارة رأس الخيمة || [[Rāselhaima]] || {{nts|1684}} || {{nts|263217}} || AE-RK
+|-
+| [[Attēls:Sharjah in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Sharjah and Ras Al Khaimah.svg|70px]] || [[Attēls:Ae sharjah-escudo.png|40px]] || '''[[Šārdžas emirāts|Šārdža]]''' || إمارة الشارقةّ || [[Šārdža]] || {{nts|2590}} || {{nts|890669}} || AE-SH
+|-
+| [[Attēls:Umm al-Quwain in United Arab Emirates.svg|100px]] || [[Attēls:Flag of Umm al-Qaiwain.svg|70px]] || || '''[[Ummelkaivainas emirāts|Ummelkaivaina]]''' || إمارة أمّ القيوين || [[Ummelkaivaina]] || {{nts|755}} || {{nts|72000}} || AE-UQ
+|}
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āzija-aizmetnis}}
+
+{{Līča kooperācijas padome}}
+{{Āzija}}
+{{Arābu līga}}
+{{OPEC}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Āzijas valstis]]
+[[Kategorija:Apvienotie Arābu Emirāti| ]]

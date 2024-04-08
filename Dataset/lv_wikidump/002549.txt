@@ -1,0 +1,13 @@
+'''Unikods''' ir universāls rakstzīmju kodējums, kas dod iespēju pierakstīt datorizētai apstrādei piemērotā veidā tekstu visdažādākajās literārajās un zīmju valodās. Tai skaitā Unikods pieļauj vairāku valodu paralēlu izmantošanu tai pašā dokumentā, izmantojot vienotu kodēšanas metodi.
+
+Uz unikodu balstītas konkrētās teksta kodēšanas metodes (piemēram, kodējumi [[UTF-8]] un [[UTF-16]]) radīja alternatīvu tradicionālajiem simbolu kodējumiem (piemēram, agrāk Latvijā plaši izplatītajam ''Baltic Windows'' jeb [[Windows-1257]]), kuri bija ierobežoti savās iespējās un nebija savietojami ar daudzvalodības prasībām. Unikods ir kļuvis par pilnīgāko simbolu kodēšanas veidu, kurš palīdz programmatūras internacionalizācijā un lokalizācijā. Unikodu atbalsta daudzas mūsdienīgas tehnoloģijas, piemēram, XML, Java un Microsoft .NET platforma, kā arī vairākums [[Operētājsistēma|operētājsistēmu]].
+
+== Ārējās saites ==
+* [http://www.unicode.org Unikoda konsorcijs]
+
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Rakstzīmju kodējums]]

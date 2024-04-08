@@ -1,0 +1,51 @@
+[[Attēls:Halogens.jpg|thumb|320px|right|No kreisās uz labo: [[hlors]], [[broms]] un [[Jods (elements)|jods]] istabas temperatūrā. Hlors ir gāzveida [[agregātstāvoklis|agregātstāvoklī]], broms ir šķidrs un jods ir cieta viela. [[Fluors]] tā lielās [[reaģētspēja]]s dēļ attēlā nav iekļauts.]]
+
+'''Halogēni''' (no {{val|el|ἁλός}} ''(alos)'' — 'sāls' un ''γένος'' ''(genos)'' — 'radīt'), agrāk arī '''sāļraži'''<ref>{{Tīmekļa atsauce |url= http://www.tezaurs.lv/#/sv/sāļraži |title= Sāļraži |publisher= Tēzaurs |accessdate= 2012. gada 11 februārī}}</ref>, ir [[Ķīmisko elementu periodiskā tabula|periodiskās tabulas]] VIIA grupas elementi. Tie visi ir aktīvi [[nemetāli]]. Halogēni ir: [[fluors]], [[hlors]], [[broms]] un [[Jods (elements)|jods]]. Dažreiz pie halogēniem pieskaita arī [[astats|astatu]]. Halogēni brīvā veidā veido divatomu [[molekula]]s. Brīvā veidā normālos apstākļos fluors un hlors ir gāzes, broms ir šķidrums un jods (un astats) ir cietas vielas. Palielinoties atommasai, to ķīmiskā aktivitāte samazinās (samazinās [[halīds|halīdu]] stabilitāte). Reaģējot ar [[ūdeņradis|ūdeņradi]], halogēni var veidot '''halogēnūdeņražskābes''' ([[fluorūdeņražskābe]], [[hlorūdeņražskābe]], [[bromūdeņražskābe]] un [[jodūdeņražskābe]]). Palielinoties halogēnu atommasai, samazinās šo [[skābes|skābju]] stabilitāte. Halogēni var veidot arī skābekli saturošas skābes (izņemot fluoru). Halogēniem ir iespējamas daudzas oksidācijas pakāpes (salīdzinot ar citu grupu elementiem), tāpēc var veidoties daudz skābju. Šīs skābes vispārīgā gadījumā ir mazāk stabilas par attiecīgajām halogēnūdeņražskābēm un to stabilitāte, palielinoties halogēnu atommasai, lielākoties palielinās.
+
+== Divatomu halogēnu molekulas ==
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto"
+|-
+! Halogēns || Molekula || Uzbūve || Modelis || Starpatomu attālums molekulā, [[pikometrs|pm]]<br />(gāzveida stāvoklī) ||  Starpatomu attālums molekulā, [[pikometrs|pm]]<br />(cietvielas stāvoklī) || [[Elektronegativitāte]] (pēc [[Polings|Polinga]]) || Iespējamās [[oksidēšanas pakāpe]]s
+|-
+| [[Fluors]] || F<sub>2</sub> || [[Attēls:Difluorine-2D-dimensions.png|45px]] || [[Attēls:Fluorine-3D-vdW.png|45px]] || 143 || 149 || 4,0 || –1
+|-
+| [[Hlors]] || Cl<sub>2</sub> || [[Attēls:Dichlorine-2D-dimensions.png|70px]] || [[Attēls:Chlorine-3D-vdW.png|63px]] || 199 || 198 || 3,0 || –1; +1; +3; +5; +7
+|-
+| [[Broms]] || Br<sub>2</sub> || [[Attēls:Dibromine-2D-dimensions.png|80px]] || [[Attēls:Bromine-3D-vdW.png|72px]] || 228 || 227 || 2,8 || –1; +1; +3; +5; +7
+|-
+| [[Jods (elements)|Jods]] || I<sub>2</sub> || [[Attēls:Diiodine-2D-dimensions.png|70px]] || [[Attēls:Iodine-3D-vdW.png|84px]] || 266 || 272 || 2,5 || –1; +1; +3; +5; +7
+|-
+| [[Astats]] || At<sub>2</sub> || || || || || 2,2 || –1; +1; +3; +5; +7
+|}
+Palielinoties elementa atomskaitlim, samazinās tā reaģētspēja un pieaug tā viršanas temperatūra.
+
+== Reakcijas ar ūdeni ==
+
+Fluors aktīvi reaģē ar ūdeni, veidojot [[skābeklis|skābekli]] (O<sub>2</sub>) un [[ūdeņraža fluorīds|ūdeņraža fluorīdu]] (HF):<ref>[http://www.chemguide.co.uk/inorganic/group7/halogensasoas.html VIIA apakšgrupas elementu oksidētspēja] {{en ikona}}. Chemguide.co.uk. Iegūts 2011-12-29.</ref>
+
+:2 F<sub>2</sub>(g) + 2 H<sub>2</sub>O(l) → O<sub>2</sub>(g) + 4 HF(šķ)
+
+Hlora aptuvenā šķīdība kilogramā ūdens istabas temperatūrā (21&nbsp;°C) ir 7.1 g.<ref>[http://www.resistoflex.com/chlorine_graphs.htm#9 Hlora šķīdība ūdenī] {{Webarchive|url=https://web.archive.org/web/20120423014139/http://www.resistoflex.com/chlorine_graphs.htm#9 |date={{dat|2012|04|23||bez}} }} {{en ikona}}. Resistoflex.com. Iegūts 2011-12-29.</ref> Izšķīdināts hlors reaģē ar ūdeni, veidojot [[hlorūdeņražskābe|hlorūdeņražskābi]] (HCl) un [[hipohlorskābe|hipohlorskābi]], ko izmanto kā dezinfekcijas līdzekli vai [[balinātājs|balinātāju]]:
+
+:Cl<sub>2</sub>(g) + H<sub>2</sub>O(l) → HCl(šķ) + HClO(šķ)
+
+Broma šķīdība 100 gramos ūdens ir 3,41 grams<ref>[https://web.archive.org/web/20071208113138/http://www.bromaid.org/hand_chap1.htm Broma ķīmiskās īpašības] {{en ikona}}. bromaid.org</ref>, taču reaģē samērā lēni, veidojot [[bromūdeņražskābe|bromūdeņražskābi]] (HBr) un [[hipobromskābe|hipobromskābi]] (HBrO):
+
+:Br<sub>2</sub>(g) + H<sub>2</sub>O(l) → HBr(šķ) + HBrO(šķ)
+
+Joda šķīdība ūdenī ir ļoti maza (0,03 g/100 gramos ūdens 20 °C temperatūrā) un tas ar to tieši nereaģē.<ref>[http://hazard.com/msds/mf/baker/baker/files/i2680.htm Iodine MSDS] {{Webarchive|url=https://web.archive.org/web/20120501110843/http://hazard.com/msds/mf/baker/baker/files/i2680.htm |date={{dat|2012|05|01||bez}} }} {{en ikona}}. Hazard.com (1998-04-21). Iegūts 2011-12-29.</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+<br /><br />
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Halogēni| ]]

@@ -1,0 +1,229 @@
+{{labs raksts}}
+{{citas nozīmes|valsti|Panama (nozīmju atdalīšana)|Panama}}
+{{Valsts infokaste
+|         vietējais_nosaukums = ''República de Panamá''{{spaces|2}}<small>{{es ikona}}</small>
+|    pilnais_valsts_nosaukums = Panamas Republika
+|            valsts_nosaukums = Panama
+|               karoga_attēls = Flag_of_Panama.svg
+|            karoga_nosaukums = Panamas Republikas karogs
+|              ģerboņa_attēls = Coat of arms of Panama.svg
+|           ģerboņa_nosaukums = Panamas Republikas ģerbonis
+|             ģerboņa_platums = 85px
+|                 valsts_moto = ''"Pro Mundi Beneficio"''{{spaces|2}}<small>{{la ikona}}<br />"Pasaules labumam"</small>
+|                valsts_himna = ''[[Himno Istmeño]]''{{spaces|2}}<small>{{es ikona}}</small>
+|               kartes_attēls = Panama (orthographic projection).svg
+|             kartes_paraksts = 
+|               galvaspilsēta = [[Panama (pilsēta)|Panama]]
+|latd=8 |latm=58 |latNS=N |longd=79 |longm=32 |longEW=W
+|             lielākā_pilsēta = galvaspilsēta
+|              valsts_valodas = [[spāņu valoda]]
+<!--|             etniskās_grupas = 70% [[Mestizo]]<br />14% [[Caribbean|Afro-West Indian]]<br />10% [[White people|white]]<br />6% [[Amerindian]]-->
+|        etniskās_grupas_gads = 
+|              valsts_iekārta = [[Prezidentālā republika]]
+|        valsts_galvas_tituls = [[Panamas prezidenti|Prezidents]]
+|                valsts_galva = [[Laurentino Kortiso]]
+|       valsts_galvas_tituls2 = [[Panamas viceprezidenti|Viceprezidents]]
+|               valsts_galva2 = [[Gabriels Karizo]]
+|       valsts_galvas_tituls3 = 
+|               valsts_galva3 = 
+|        neatkarības_iegūšana = [[Panamas vēsture|Neatkarība]]
+|         neatkarības_piezīme = 
+|                    dibināta = 
+|        neatkarības_notikums = no [[Spānija]]s
+|          neatkarības_datums = {{dat|1821|11|28}}
+|       neatkarības_notikums2 = no [[Kolumbija]]s
+|         neatkarības_datums2 = {{dat|1903|11|3}}
+|                 platība_km2 = 75 517
+|               platība_rangs = 118.
+|              procenti_ūdens = 2,9
+|     iedzīvotāju_skaita_gads = 2015
+|          iedzīvotāju_skaits = 3 929 141<ref name="cia.gov">{{Tīmekļa atsauce|url=https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html|title=The World Factbook|publisher=|accessdate=2014. gada 25. oktobrī|archive-date={{dat|2018|12|25||bez}}|archive-url=https://web.archive.org/web/20181225154224/https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html%20}}</ref>
+|    iedzīvotāju_skaits_rangs = 
+|    apdzīvotības_blīvums_km2 = 45,9
+|  apdzīvotības_blīvums_rangs = 156.
+|                     IKP_PPP = $82,179 miljardi
+|                IKP_PPP_gads = 2015
+|               IKP_PPP_rangs = 
+|          IKP_PPP_per_capita = $20 512
+|    IKP_PPP_per_capita_rangs = 
+|                         HDI = 0,780{{palielinājās}}
+|                    HDI_gads = 2014
+|              HDI_kategorija = <span style="color:#009900;">augsts</span>
+|                   HDI_rangs = 65.
+|                        Gini = 51,9
+|                   Gini_gads = 2012
+|             Gini_kategorija = 
+|                  Gini_rangs = 
+|                      valūta = [[Panamas balboa]], [[ASV dolārs]]
+|                valūtas_kods = PAB
+|                  laika_zona = 
+|                  utc_offset = -5
+|              laika_zona_DST = 
+|              utc_offset_DST = 
+|                      domēns = [[.pa]]
+|              tālsarunu_kods = 507
+|                iso_kods_num = 591
+|              iso_kods_alfa2 = PA
+|              iso_kods_alfa3 = PAN
+}}
+'''Panama''', oficiāli '''Panamas Republika''' ({{val|es|República de Panamá}}, {{izrunā|reˈpuβlika ðe panaˈma}}), ir [[Centrālamerika]]s galējā dienvidu valsts. Tā izvietojusies [[Panamas zemesšaurums|Panamas zemesšaurumā]] uz robežas starp [[Ziemeļamerika|Ziemeļameriku]] un [[Dienvidamerika|Dienvidameriku]] un tās austrumu apgabals [[Darjena]] ģeogrāfiski tiek pieskaitīta Dienvidamerikai. Panama ziemeļrietumos robežojas ar [[Kostarika|Kostariku]], austrumos — ar [[Kolumbija|Kolumbiju]], ziemeļos to apskalo [[Karību jūra]], dienvidos — [[Klusais okeāns]]. Panama ir starptautisks darījumu centrs un tranzītvalsts. Lai arī Panama ir trešā lielākā ekonomika Centrālamerikā (pēc [[Gvatemala]]s un [[Kostarika]]s), tā ir lielākā resursu patērētāja šajā reģionā. Valsts teritorijā izvietojies viens no pasaulē svarīgākajiem ūdensceļiem — [[Panamas kanāls]].
+
+== Vēsture ==
+{{pamatraksts|Panamas vēsture}}
+
+=== Senatne un koloniālais periods ===
+
+Pirmās eiropiešu rakstītās liecības par tagadējās Panamas teritoriju vēsta, ka to ir apdzīvojušas vairāk kā 60 indiāņu [[cilts|ciltis]].<ref name="lpe">{{LPE|7|495 — 497}}</ref> Lielākās ciltis bija [[kuni]] un [[gvaimi]], kas pieder [[čibči|čibču]] cilšu saimei, kā arī [[čoko]], kas pieder [[karībi]]em.<ref>{{PZT|552}}</ref> Pēc nodarbošanās viņi bija zemkopji, mednieki un zvejnieki. Līdz Panamas teritorijas [[kolonizācija]]i šeit dzīvojošās ciltis lielākoties bija saglabājušas [[pirmatnējā kopiena|pirmatnējās kopienas]] attiecības.<ref name="lpe" />
+
+Panamas pirmatklājējs ir spānis [[Rodrigo de Bastidass]], kurš 1501. gadā pirmais piestāja [[Panamas zemesšaurums|Panamas zemesšauruma]] krastā.<ref name="lpe" /> 1510. gadā [[Vasko Nunjess de Balboa]] šeit izveidoja pirmo [[kolonija|kolonistu]] pastāvīgo apmetni, 1513. gadā viņš šķērsoja Panamas zemesšaurumu, sasniedzot [[Klusais okeāns|Klusā okeāna]] ūdeņus.<ref name="pva">H.Kinders, V.Hilgemenis. Pasaules vēstures atlants (I daļa), Rīga: Zvaigzne ABC, 2004. gads, 222. — 225. lpp.</ref> Vēlākā valsts galvaspilsēta — [[Panama (pilsēta)|Panama]] tika nodibināta 1519. gadā.<ref name="lpe" /> Panama kā province ietilpa [[Spānijas impērija|Spānijas impērijā]] vairāk kā 300 gadus. Kolonizatoru atnestās slimības un vardarbīgās akcijas iznīcināja lielāko daļu vietējo iedzīvotāju.<ref name="lpe" /> Lai arī Panama nekļuva par nozīmīgu kolonizācijas punktu, tomēr tās ģeogrāfiskais novietojums to padarīja par būtisku spāņu tirdzniecības un loģistikas centru.<ref name="ek">[http://dic.academic.ru/dic.nsf/enc_colier/195/%D0%9F%D0%90%D0%9D%D0%90%D0%9C%D0%90 dic.academic.ru] — ''Энциклопедия Кольера. — Открытое общество. 2000.'' {{ru ikona}}</ref>
+
+=== Pēckoloniālais periods ===
+[[Attēls:Roosevelt and the Canal.JPG|thumbnail|195px|[[Teodors Rūzvelts|Rūzvelts]] Panamas kanāla celtniecības darbu apmeklējuma laikā]]
+[[Neatkarības karš spāņu kolonijās Amerikā|Neatkarības kara spāņu kolonijās]] rezultātā 1821. gadā Panama ieguva neatkarību, iekļaujoties [[Lielā Kolumbija|Lielajā Kolumbijā]].<ref group="P">Tā šī perioda valsti sāka saukt tikai pēc 1886. gada, kad tika izveidota Kolumbija</ref> 1830. gadā Panama kļuva par [[Federācija (valsts)|federatīvās]] Jaunās Granadas (no 1886. gada [[Kolumbija]]) departamentu. Šis periods panamiešiem bija nemierīgs — [[separātisms|separātisku]] mērķu vadīti, viņi vairākkārt sacēlās pret kolumbiešiem.<ref name="lpe" /><ref name="arh">[https://web.archive.org/web/20111121084956/http://mesoamerica.narod.ru/Latin/panama_history.html Panamas vēsture] {{ru ikona}}</ref> Panama bija galvenais [[tranzīts|tranzīta]] punkts [[zelta drudzis|zelta drudža]] laikā, kā rezultātā 1855. gadā tika uzbūvēts dzelzceļš, kas šķērsoja Panamas zemesšaurumu un savienoja Amerikas kontinenta abas daļas, dodot pienesumu reģiona [[ekonomika]]i.<ref name="ek" />
+
+1898. gadā ASV izpirka bankrotējušo franču [[akciju sabiedrība|akciju sabiedrību]] [[Panamas kanāls|Panamas kanāla]] būvniecībai, tomēr pret šī projekta realizāciju iebilda Kolumbija.<ref name="ek" /><ref>Musicant, I, The Banana Wars, 1990, New York: MacMillan Publishing Co., {{ISBN|0025882104}} {{en ikona}}</ref> ASV atbalstīja panamiešu separātistus, kuriem pēc veiksmīgas sacelšanās izdevās atdalīties no Kolumbijas, 1903. gada 3. novembrī pasludinot neatkarību.<ref name="ek" /> 1903. gada 18. novembrī jaunā valsts parakstīja līgumu ar ASV, saskaņā ar kuru amerikāņi "uz mūžīgiem laikiem" ieguva Panamas kanāla celtniecības un ekspluatācijas tiesības, kā arī neierobežotu kontroli pār [[Panamas kanāla zona|kanāla zonu]]. Ar šo un citiem līgumiem starp ASV un Panamu uz vairākām desmitgadēm tika ierobežota pēdējās [[suverenitāte]].<ref name="ek" /> Panamas kanāla būvniecība norisinājās no 1904. līdz 1914. gadam, oficiāli atklāts — 1920. gada 12. jūnijā.<ref name="lpe" /><ref>Гальский Дезигер. Великие авантюры.— Москва: Прогресс, 1986.— С.287-288. {{ru ikona}}</ref>
+
+Pirmajās Panamas patstāvības desmitgadēs ASV tieši iejaucās tās iekšējā un ārējā politikā. Vairākas prezidenta vēlēšanas notikās amerikāņu uzraudzībā. Tāpat ASV īslaicīgi okupēja Panamas reģionus kārtības uzturēšanai, kā arī ar tās atbalstu tika izbeigti teritoriālie konflikti ar Panamas kaimiņvalstīm.<ref name="arh" /><ref name="sov">Панама // Большая Советская Энциклопедия. / под ред. А. М. Прохорова. 3-е изд. том 19. М., «Советская энциклопедия», 1975. стр.135-138</ref><ref name="sov" /><ref name="spr" /> 1940. gadā par valsts prezidentu tika ievēlēts antiamerikāniski noskaņotais nacionālists [[Arnulfo Arjass]], kurš neslēpa savas simpātijas pret [[Ass valstis|Ass valstīm]]. 1941. gadā viņš zaudēja amatu [[Panamas Nacionālā gvarde|Nacionālās gvardes]] organizētā [[apvērsums|apvērsumā]].<ref name="ek" /> Sekojot ASV piemēram, Panama 1942. gadā formāli pieteica karu Ass valstīm.<ref name="lpe" /> Tajā pašā gadā Panamu iznomāja ASV 15 tūkstošus [[hektārs|hektārus]] zemes 134 armijas bāžu un militāro objektu izbūvei.<ref name="spr">Панама // Латинская Америка. Энциклопедический справочник (в 2-х тт.) / редколл, гл.ред. В. В. Вольский. Том II. М., «Советская энциклопедия», 1982. стр.290-298 {{ru ikona}}</ref><ref>Панама // Советская историческая энциклопедия / редколл., гл. ред. Е. М. Жуков. том 10. М., Государственное научное издательство «Советская энциклопедия», 1967. ст.668-776</ref>
+
+=== Militārā hunta ===
+
+Pēc kara par noteicošo spēku Panamā kļuva militāristi no Nacionālās gvardes, kas aizvien aktīvāk iejaucās valsts politiskajā dzīvē — vairāki Panamas [[prezidents|prezidenti]], neskatoties uz strīdīgiem vēlēšanu rezultātiem, ar tās atbalstu ieguva amatu. Tāpat vairākkārt gvarde veica apvērsumus, gāžot tautas ievēlētos prezidentus.<ref name="ek" />
+[[Attēls:PanamaM-113JustCauseUS-Invasion.jpg|thumbnail|ASV karaspēks Panamā 1989. gada invāzijas laikā]]
+1968. gadā pēc apvērsuma par ''de facto'' valsts līderi kļuva Nacionālās gvardes komandieris [[Omārs Torihoss]]. Lai arī ASV spiediena rezultātā 1978. gadā režīms tika liberalizēts, tomēr kā gvardes komandieris Torihoss saglabāja savu ietekmi valstī līdz 1981. gadam.<ref name="ek" /> 1958., 1959. un 1964. gadā notika ievērojamas panamiešu sadursmes ar amerikāņu kontingentu Panamas kanāla zonā.<ref name="lpe" /> Minētais 1960. gados noveda pie jaunām sarunām par kanāla statusu. 1977. gadā starp ASV un Panamu tika parakstīti [[Torihosa—Kārtera līgumi]] par Panamas kanālu, atbilstoši kuram 1979. gada 1. oktobrī tika likvidēta Panamas kanāla zona, ASV vienlaikus atzina panamiešu suverēnās tiesības uz Panamas kanāla zonu.<ref name="ek" />
+
+Pēc Torihosa nāves par Nacionālās gvardes vadītāju 1983. gadā kļuva [[Manuels Norjega]], kurš ''de facto'' vadīja Panamu līdz pat 1989. gadam.<ref name="ek" /> Norjega atteicās no priekšteču realizētās proamerikāniskās politikas. Viņš aktīvi atbalstīja [[sociālisms|prosociālistisko]] [[Nikaragva|Nikaragvu]], kā arī izveidoja diplomātiskas attiecības ar Sociālistiskā bloka valstīm.<ref>Stephen Kinzer. [http://www.nytimes.com/1989/01/12/world/anti-sandinistas-say-us-should-end-embargo.html Anti-Sandinistas say U. S. should end Embargo] // "The New York Times" 1989. gada 12. janvāris</ref><ref name=autogenerated2>Панама // Ежегодник Большой Советской Энциклопедии, 1988 (вып. 32). М., "Советская энциклопедия", 1988. стр.324-325</ref> ASV, atbildot uz minēto, no 1987. gada pakāpeniski sāka vērst pret Panamu ekonomisko spiedienu.<ref>Julie Johnson. Reagan halts all payments to Panamanian government // «The New York Times» от 9 апреля 1988</ref> Panamas iekšpolitiskās situācijas eskalācija 1989. gadā noveda pie militāristu mēģinājuma gāzt Norjegu, kam sekoja represijas pret apvērsuma dalībniekiem.<ref name="ek" /><ref>Р. Эрнест Дюпюи, Тревор Н. Дюпюи. Всемирная история войн (в 4-х тт.). книга 4 (1925 — 1997). СПб., М., «Полигон — АСТ», 1998. стр.857-858</ref> 1989. gada 20. decembrī ASV karaspēks iebruka Panamas teritorijā, gāžot Norjegas režīmu.<ref name="ek" /> Norjega padevās amerikāņiem 1990. gada 3. janvārī, savukārt pati militārā operācija beidzās 12. janvārī.<ref>[http://www.army.mil/article/14302/operation-just-cause-the-invasion-of-panama-december-1989 army.mil] — ''Operation Just Cause: the Invasion of Panama, December 1989'' {{en ikona}}</ref>
+
+=== Modernā vēsture ===
+[[Attēls:Panama Skyline.jpg|thumbnail|Panamas galvaspilsētas panorāma mūsdienās]]
+Pēc ASV iebrukuma Panamas prezidenta amatā stājās [[Giljermo Endara]], kurš bija uzvarējis 1989. gada vēlēšanās. Ekonomikā tika realizētas reformas, tomēr sākotnēji tām bija neliela atdeve iepriekšējā režīma realizētās politikas dēļ. 1994. gadā valstī notika pirmās brīvās vēlēšanas, kurās tika ievēlēts [[Ernesto Peress]]. 1999. gadā par prezidenti tika ievēlēta [[Mireja Moskoso]], kļūstot par pirmo sievieti šajā amatā. Saskaņā ar Torihosa—Kārtera līgumos noteikto 1999. gada 31. decembrī ASV militārais kontingents pameta Panamas kanāla zonu, nākamajā dienā kanāla zona pilnībā pārgāja panamiešu kontrolē. Izvirzot par savu mērķi cīņu pret [[korupcija|korupciju]], 2004. gada prezidenta vēlēšanās par valsts galvu tika izvēlēts Martins Torrihoss. Viņu amatā 2009. gadā nomainīja uzņēmējs [[Rikardo Martinelli]].<ref name="enc">[http://www.encyclopedia.com/topic/Panama.aspx Panama — Worldmark Encyclopedia of Nations, 2007] {{en ikona}}</ref>
+
+Pēdējās desmitgadēs Panamai ir bijuši stabili [[Ekonomikas izaugsme|ekonomiskās izaugsmes]] rādītāji. Vienlaikus, neskatoties uz vienu no augstākajiem [[iekšzemes kopprodukts|iekšzemes kopprodukta]] ienākumu uz dvēseli [[Latīņamerika|Latīņamerikā]], ap 40% panamiešu dzīvo zem [[nabadzība]]s robežšķirtnes.<ref name="enc" />
+
+== Ģeogrāfija ==
+Panama izvietojusies [[Centrālamerika]]s dienvidaustrumos starp [[Karību jūra|Karību jūru]] ziemeļos un [[Klusais okeāns|Kluso okeānu]] dienvidos. Robežojas ar [[Kostarika|Kostariku]] rietumos un [[Kolumbija|Kolumbiju]] austrumos.
+
+[[Attēls:Bocas2.jpg|thumb|left|200px|[[Bokasas del Toro arhipelāgs]] [[Karību jūra]]s piekrastē]]
+Reljefs kalnains, valsts rietumu daļā dominē [[Ziemeļamerikas Kordiljeri|Ziemeļamerikas Kordiljeru]] turpinājums Centrālamerikā [[Talamankas Kordiljera]] un Kostarikas robežas un [[Tavasaras kalni]] vai Centrālā Kordiljera, kas stiepjas paralēli ziemeļu krastam. Augstākais punkts ir [[Baru]] [[vulkāns]] (3474 m). Valsts austrumos uz robežas ar Kolumbiju un tās pierobežā [[Darjena|Darjenā]] paceļas [[Baudo]] grēda, kas pieder pie [[Andi|Andu]] kalnu sistēmas. Valsts centrālo daļu aizņem zemiene ar [[Panamas zemesšaurums|Panamas zemesšaurumu]], kura šaurākajā daļā (48 km) izbūvēts [[Panamas kanāls]].
+
+Gan ziemeļu, gan dienvidu krasta līnija stipri izrobota, daudz līču. Karību jūras piekrastē lielākie ir [[Miskito līcis]], [[Almirantes līcis]] un [[Čiriki lagūna]] rietumos, kā arī [[Darjenas līcis]] austrumos. Piekrastē daudz nelielu saliņu: [[Bokasas del Toro arhipelāgs]] rietumu daļā un [[Sanblasas salas]] ziemeļaustrumu daļā. Klusā okeāna piekrastē valsts dienvidaustrumos plešas [[Panamas līcis]], rietumos — [[Čiriki līcis]]. Lielākās salas ir [[Koiva]] un [[Sevako]], kā arī [[Pērļu arhipelāgs]] Panamas līcī. Piekrastes vidusdaļā okeānā iestiepjas līdz 100 km garā un 70—100 km platā [[Asuero pussala]], kuras dienvidu gals [[Marjato rags]] tiek uzskatīts par kontinentālās [[Ziemeļamerika]]s galējo dienvidu punktu.
+{{clear|left}}
+
+== Valsts vara ==
+[[Attēls:Asamblea Nacional de Panamá.JPG|thumb|[[Panamas Nacionālā asambleja|Nacionālās asamblejas]] ēka]]
+Panama ir demokrātiska, prezidentāla un [[unitāra valsts|unitāra]] [[republika]]. Valsts prezidents ir reizē gan [[valsts galva]], gan arī [[izpildvara]]s — [[Panamas valdība]]s vadītājs. Prezidents ieceļ valdības [[ministrs|ministrus]] un [[tiesnesis|tiesnešus]]. Otra augstākā valsts amatpersona Panamā ir viceprezidents. [[Likumdošanas vara]] pieder parlamentam — [[Panamas Nacionālā asambleja|Nacionālajai asamblejai]], kā arī valdībai limitētā apjomā. [[Tiesu vara]] ir neatkarīga no pārējām divām valsts varām.<ref name="cia.gov" />
+
+Izpildvara un likumdevējvara tiek ievēlēta [[vispārējās vēlēšanas|vispārējās vēlēšanās]] ik pēc pieciem gadiem, vēlēšanās var piedalīties personas, kuras ir sasniegušas 18 gadu vecumu. Nacionālā asambleja ir vienpalātas parlaments ar 71 deputātu. Tās deputāti no pilsētām tiek ievēlēti pēc [[proporcionālas vēlēšanas|proporcionālās sistēmas]], savukārt deputāti no lauku provincēm saskaņā ar [[mažoritārā sistēma|mažoritāro sistēmu]]. Prezidentu ievēl uz vienu termiņu, atkārtota ievēlēšana ir iespējama tikai pēc diviem nākamajiem termiņiem, proti, 10 gadiem.<ref name="cia.gov" />
+
+== Administratīvais iedalījums ==
+{{Main|Panamas administratīvais iedalījums|Panamas pilsētu uzskaitījums}}
+{{Image label begin|image=División Política de Panamá.svg|width=500|float=right}}
+{{Image label small|x=0.1|y=0.05|scale=500|text=[[Bokasa del Toro (province)|Bokasa<br/>del Toro]]}}
+{{Image label small|x=0.03|y=0.06|scale=500|text=[[Naso Tirdi|Naso<br/>Tirdi]]}}
+{{Image label small|x=0.43|y=0.19|scale=500|text=[[Kokle (province)|Kokle]]}}
+{{Image label small|x=0.54|y=0.07|scale=500|text=[[Kolona (province)|Kolona]]}}
+{{Image label small|x=0.07|y=0.19|scale=500|text=[[Čiriki]]}}
+{{Image label small|x=0.81|y=0.23|scale=500|text=[[Darjena]]}}
+{{Image label small|x=0.38|y=0.31|scale=500|text=[[Errera]]}}
+{{Image label small|x=0.42|y=0.36|scale=500|text=[[Lossantosa]]}}
+{{Image label small|x=0.52|y=0.14|scale=500|text=[[Rietumpanama]]}}
+{{Image label small|x=0.62|y=0.09|scale=500|text=[[Panama (province)|Panama]]}}
+{{Image label small|x=0.28|y=0.28|scale=500|text=[[Veragvasa]]}}
+{{Image label small|x=0.78|y=0.05|scale=500|text=[[Gunajala]]}}
+{{Image label small|x=0.90|y=0.21|scale=500|text=[[Embera-Vounaana|Embera-Vounaana 1]]}}
+{{Image label small|x=0.77|y=0.32|scale=500|text=[[Embera-Vounaana|Embera-Vounaana 2]]}}
+{{Image label small|x=0.19|y=0.18|scale=500|text=[[Ngobe-Bugle]]}}
+{{Image label small|x=0.74|y=0.10|scale=500|text=[[Madugandi]]}}
+{{Image label small|x=0.82|y=0.13|scale=500|text=[[Vargandí]]}}
+{{Image label end}}
+
+Atbilstoši [[Panamas konstitūcija]]i valsts teritorija administratīvi ir sadalīta 14 teritoriālajās vienībās — desmit [[province|provincēs]] un četrās [[komarka|komarkās]],<ref>Administrative Divisions of Countries ("Statoids") — [http://www.statoids.com/upa.html ''Provinces of Panama''] {{en ikona}}</ref> kas ir autonomas provinces ar vēlētu indiāņu cilšu pašpārvaldi. Provinces un komarkas tiek sīkāk iedalītas 75 apgabalos. Savukārt apgbali ir sadalīti vēl sīkāk 657 subadministratīvajās vienībās (''corregimientos''), no kurām divām — [[Madugandi]] un [[Vargandí]] ir noteikts komarkas — autonoms statuss konkrēto provinču ietvaros.
+
+Provinces:
+* [[Bokasa del Toro (province)|Bokasa del Toro]]
+* [[Čiriki]]
+* [[Kokle (province)|Kokle]]
+* [[Kolona (province)|Kolona]]
+* [[Darjena]]
+* [[Errera]]
+* [[Lossantosa]]
+* [[Panama (province)|Panama]]
+* [[Veragvasa]]
+* [[Rietumpanama]]
+
+Komarkas:
+* [[Embera-Vounaana]]
+* [[Kunajala]]
+* [[Naso Tirdi]]
+* [[Ngobe-Bugle]]
+
+== Tautsaimniecība ==
+[[Attēls:Exclusa Miraflores Canal de Panama Panorama.jpg|thumb|''[[Panamax]]'' kuģis, šķērsojot Mirafloresas slūžas [[Panamas kanāls|Panamas kanālā]]]]
+
+Saskaņā ar ''[[CIA World Factbook]]'' datiem 2012. gadā Panamas bezdarba līmenis bija 2,7%.<ref name="cia.gov"/> 2008. gada augustā tika reģistrēts pārtikas pārpalikums. Pēc [[Tautas attīstības indekss|Tautas attīstības indeksa]] Panama ierindojās 65. vietā (2013. gads).
+
+Pēdējos gados Panamas ekonomika ir piedzīvojusi strauju izaugsmi, laika posmā no 2006. līdz 2008. gadam [[IKP]] pieaugot par 10,4%. ''Latin Business Chronicle'' paredzēja, ka periodā no 2010. līdz 2014. gadam Panamas ekonomika būs straujāk augošā Latīņamerikā, sasniedzot Brazīlijas 10% rādītāju.<ref>{{Tīmekļa atsauce |url=http://www.latinbusinesschronicle.com/app/article.aspx?id=3702 |title=Latin Business Chronicle |publisher=Latin Business Chronicle |date=2009. gada 7. oktobris |accessdate=2015. gada 5. janvārī |archiveurl=https://web.archive.org/web/20100717100429/http://www.latinbusinesschronicle.com/app/article.aspx?id=3702 |archivedate=2010. gada 17. Jūlijs }}</ref>
+
+Turpmāku ekonomisko izaugsmi nodrošina noslēgtais brīvās tirdzniecības līgums ar [[Amerikas Savienotās Valstis|ASV]] un plānotā Panamas kanāla paplašināšana.
+
+Lai arī Panamas IKP rādītājs to ierindo valstu ar augstu ienākumu līmeni skaitā, tajā joprojām sastopami lieli kontrasti. Tos izraisa lielas atšķirības izglītības līmenī. 2013. gadā 25% Panamas iedzīvotāju tika uzskatīti par nabadzīgiem, un saskaņā ar [[Pasaules Banka]]s datiem 3% no iedzīvotājiem ir galēji nabadzīgi.<ref>{{Tīmekļa atsauce |url=http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/LACEXT/PANAMAEXTN/0,,contentMDK:21045664~pagePK:141137~piPK:141127~theSitePK:343561,00.html |title=Panama |publisher=World Bank |date=2010. gada 15. aprīlis |accessdate=2014. gada 5. janvāris |archive-date=2012. gada 11. Oktobris |archive-url=https://web.archive.org/web/20121011012306/http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/LACEXT/PANAMAEXTN/0,,contentMDK:21045664~pagePK:141137~piPK:141127~theSitePK:343561,00.html }}</ref><ref>{{Tīmekļa atsauce|url=http://data.worldbank.org/indicator/SI.POV.DDAY|title=Poverty headcount ratio at $1.25 a day (PPP) (% of population)|publisher=World Bank|accessdate=2015. gada 5. janvārī}}</ref>
+
+=== Ekonomiskie sektori ===
+Panamas ekonomika tās atrašanās vietas dēļ ir pamatā balstīta uz labi attīstītu pakalpojumu sektoru, galvenokārt banku darbību, komerciju, tūrismu un tirdzniecību. No ASV pārņemtais Panamas kanāls un militārie objekti ļāvuši attīstīt lielus būvniecības projektus.
+
+2006. gada 22. oktobrī ar pārliecinošu pārsvaru (tiesa, ar zemu aktivitāti) referendumā tika apstiprināta Panamas kanāla papildināšana ar trešo slūžu grupu. Oficiālie aprēķini šo pārbūvi novērtēja ar 5,25 miljardiem ASV dolāru. Kanālam ir liela ekonomiskā nozīme, jo tas ekonomikā nodrošina miljoniem dolāru no tā izmantošanas maksas un nodrošina lielu skaitu ar darbavietām. 85 gadus kanāla monopoltiesības piederēja ASV, bet 1977. gadā parakstītais Torrihosa—Kārtera līgums uzsāka kanāla nodošanas proces Panamas valdībai līdz 1999. gadam.
+
+Ārvalstu investori veic vara un zelta atradņu attīstību, pret ko iestājas vairākas dabas aizsardzības grupas, jo visi projekti atrodas aizsargātās zonās.<ref>Oancea, Dan (January 2009). [https://web.archive.org/web/20110516031334/http://magazine.mining.com/Issues/0901/MiningCentralAmerica.pdf Mining in Central America]. Magazine.mining.com, pp. 10—12.</ref>
+
+== Iedzīvotāji ==
+Lielākā daļa (70%) Panamas iedzīvotāju ir jauktas indiāņu un eiropiešu izcelsmes ([[metisi]]). 14% ir melnādaino un [[mulati|mulatu]], 10% balto un 6% [[Amerikas pamatiedzīvotāji|indiāņu]]. Panamas indiāņi pārstāv septiņas etniskās grupas: [[gvaimi]], bokoti, kuni (guni), emberi, vounaani, nazo (teribe) un bribri.
+93% iedzīvotāju dzimtā valoda ir spāņu. Lielākā no indiāņu valodām ir gvaimu valoda, kura ir dzimtā 170 000 cilvēku. Kunu valodā runā 60 000 cilvēku.
+Vairāk nekā puse valsts iedzīvotāju dzīvo [[Panama (pilsēta)|Panamas]] aglomerācijā.
+
+=== Reliģija ===
+[[Attēls:Catedral santiago veraguas.jpg|thumb|Romas katoļu katedrāle [[Santjago de Veragvasa|Santjago de Veragvasā]]]]
+Panamas valdība neapkopo statistiku par iedzīvotāju reliģisko pārliecību, bet dažādi avoti vērtē, ka 75 līdz 85% no iedzīvotājiem sevi identificē kā Romas katoļus un 15—25% kā [[evaņģēliskie kristieši|evaņģēliskus kristiešus]].<ref name="cia.gov"/><ref name="report">[http://www.state.gov/g/drl/rls/irf/2007/90262.htm International Religious Freedom Report 2007: Panama] {{Webarchive|url=https://web.archive.org/web/20120119233857/http://www.state.gov/g/drl/rls/irf/2007/90262.htm |date={{dat|2012|01|19||bez}} }}. ASV Demokrātijas, cilvēktiesību un darba birojs (14. septembris, 2007).</ref> 2% (aptuveni 60 000 iedzīvotāju) sevi pieskaita [[bahāisms|bahāistiem]],<ref name="WCoC">{{Tīmekļa atsauce| title = Panama| work = WCC > Member churches > Regions > Latin America > Panama| publisher = World Council of Churches| date = 2006. gada 1. janvāris| url = http://www.oikoumene.org/en/member-churches/regions/latin-america/panama.html| accessdate = 2015. gada 5. janvārī| archiveurl = https://web.archive.org/web/20080708235914/http://www.oikoumene.org/en/member-churches/regions/latin-america/panama.html| archivedate = 2008. gada 8. Jūlijs}}</ref> ieskaitot ap 10% no [[gvaimi]]em.<ref name="guay">{{publikācijas atsauce | last = International Community | first = Bahá'í | author-link = Bahá'í International Community | title = In Panama, some Guaymis blaze a new path | journal = One Country | volume = 1994 | issue = October–December | date = October–December 1994 | url = http://info.bahai.org/article-1-8-1-18.html | accessdate = {{dat|2014|12|03||bez}} | archiveurl = https://web.archive.org/web/20140802031749/http://info.bahai.org/article-1-8-1-18.html | archivedate = {{dat|2014|08|02||bez}} }}</ref> Bahāisti Panamā uztur vienu no pasaulē esošajiem septiņiem bahāistu lūgšanu namiem.<ref name="report"/> [[Pēdējo dienu svēto Jēzus Kristus baznīca]] apgalvo, ka Panamā tai ir vairāk kā 40 000 biedru.<ref>[https://web.archive.org/web/20080221084745/http://newsroom.lds.org/ldsnewsroom/eng/contact-us/panama Panama]. LDS Newsroom.2008. gada 13. decembris</ref> No mazākām reliģiskām grupām ir pārstāvēti [[Septītās dienas adventisti]], [[Jehovas liecinieki]], [[anglikānisms|episkopālisti]] ar 7000 līdz 10 000 biedriem un citi kristieši. [[ebreji|Ebreju]] un [[musulmaņi|musulmaņu]] kopienās ir ap 10 000 biedru katrā. Ir nelielas [[hinduisms|hinduistu]] un [[budisms|budistu]] kopienas.<ref name=report/> Pamatiedzīvotāju vidū izplatītas tradicionālās reliģijas ''ibeorgun'' (starp [[kuni (tauta)|kuniem]]) un ''mamatata'' (starp [[gvaimi]]em).<ref name=report/> Pastāv arī neliela [[rastafari]] kopiena.<ref name=report/>
+
+=== Izglītība ===
+
+Vispārējā izglītība, kuras iegūšana Panamā ir obligāta bērniem 6 — 18 gados, sastāv no [[pamatizglītība]]s — septiņām klasēm pamatskolā un [[vidējā izglītība|vidējās izglītības]] — trīs klasēm vidusskolā. Valstī kopumā ir 88 augstākās izglītības iestādes, no kurām lielākās ir [[Panamas Universitāte]] un [[Panamas Tehniskā universitāte]].<ref>[[Kongresa bibliotēka]] —[http://lcweb2.loc.gov/frd/cs/patoc.html] {{en ikona}}</ref> Lasītprasmes līmenis — vairāk kā 90%.<ref name="cia.gov" />
+
+== Kultūra ==
+Panamas kultūra ir atvasināta no [[Eiropas mūzika]]s, [[Eiropas māksla|mākslas]] un tradīcijām, kuras ieviesa [[spāņi|spāņu]] ieceļotāji. Tā ir saplūdusi ar [[Āfrikas kultūra|afrikāņu]] un [[Amerikas pamatiedzīvotāji|Amerikas pamatiedzīvotāju]] kultūru, veidojot dažādas hibrīdformas. Piemēram, ''[[tamborito]]'' ir spāņu deja, kura ir sajaukusies ar Āfrikas ritmiem, tematiku un deju kustībām.<ref>{{Tīmekļa atsauce|url=http://panama-culture.com/ |title=The online almanac of Panama culture with travel links |publisher=Panama Culture |accessdate=2015. gada 5. janvārī}}</ref> Deja ir Panamas kultūru dažādības simbols. Vietējo folkloru var sajust dažādos svētkos, dejās un tradīcijās, kuras nodotas no paaudzes paaudzē. Pilsētās bieži notiek ''[[reggae en español]]'', ''[[reggaeton]]'', ''haitiano ([[compas]])'', [[džezs|džeza]], [[blūzs|blūza]], [[salsas mūzika|salsas]], [[regejs|regeja]] un [[rokmūzika|rokmūziķu]] uzstāšanās.
+
+=== Tradicionālā virtuve ===
+Tradicionāla panamiešu Ziemasvētku maltīte parasti satur vistas [[tamale (ēdiens)|tamale]], ''[[arroz con pollo]]'' (vista ar rīsiem), ''puerca asada'', ''[[cūkgaļa|pernil]]'', ''pavo'' ([[tītars]]) un ''[[relleno]]'' (pildīti paipari). Blakus citiem ēdieniem tiek novietoti augļi un augļu kūkas. Kopā ar šiem ēdieniem un desertu tiek pasniegts tradicionāls dzēriens ''Ron Ponche'' (olu kokteilis), kurš sastāv no divām bundžām [[Iebiezinātais piens|kondensēta piena]], trīs bundžām [[tvaicēts piens|tvaicēta piena]], sešām olām un puspudeles [[rums|ruma]] un [[muskatrieksti]]em papildus garšai.
+
+=== Sports ===
+Sportā izpaužas ASV ietekme. Nacionālais sporta veids ir [[beisbols]]. Profesionālā līmenī beisbolu ASV ir spēlējuši vismaz 140 Panamas pārstāvji, kas ir labākais kādas Centrālamerikas valsts rādītājs.<ref>{{Tīmekļa atsauce |url=http://www.thebaseballcube.com/cities/PN.shtml |title=Baseball in Panama |publisher=The Baseball Cube |accessdate=2015. gada 5. janvārī |archive-date=2010. gada 20. Jūlijs |archive-url=https://web.archive.org/web/20100720044412/http://www.thebaseballcube.com/cities/PN.shtml }}</ref> Pazīstamākie spēlētāji ir [[Brūss Čens]], [[Rods Kerjū]], [[Mariano Rivera]], [[Karloss Lī]], [[Menijs Sangvillens]] un [[Karloss Ruiss (beisbolists)|Karloss Ruiss]].
+
+No Panamas nāk arī daudzi atzīti [[bokss|bokseri]], četri Panamas pārstāvji ir iekļauti Starptautiskajā boksa Slavas zālē: [[Roberto Durans]], [[Eusebio Pedrosa]], [[Ismaels Laguna]] un [[Panama Al Brauns]].
+
+Panamā populārs ir arī [[basketbols]], kur ir sava līga ar reģionālām komandām un nacionālā izlase. Populārākie basketbola pārstāvji ir [[Rolando Blekmens]] (četrkārtējs [[Nacionālās basketbola asociācijas Visu zvaigžņu spēle|NBA Visu zvaigžņu spēles]] dalībnieks) un [[Hārlemas "Globetrotters"]] zvaigzne [[Kevins Deilijs]].
+
+2008. gadā pirmo Panamas olimpisko zelta medaļu izcīnīja vieglatlēts [[Irvings Saladino]] [[tāllēkšana|tāllēkšanā]].
+
+[[Panamas futbola izlase]] kvalificējās [[2018. gada FIFA Pasaules kauss|2018. gada FIFA Pasaules kausa]] finālturnīram Krievijā, kur trijās spēlēs piedzīvoja trīs zaudējumus. Izlase regulāri spēlējusi CONCACAF čempionātā un [[CONCACAF Zelta kauss|Zelta kausā]], kur 2005. un 2013. gadā iegūta otrā vieta.
+
+Tāpat Panamā populārs ir [[volejbols]], [[tekvondo]], [[golfs]] un [[teniss]]. Šobrīd tiek iekārtota tūrisma taka ''Transpanama'' visā valsts garumā no Kolumbijas uz Kostariku.
+
+== Piezīmes un atsauces ==
+
+=== Piezīmes ===
+{{Atsauces|group=P}}
+
+=== Atsauces ===
+{{Atsauces|colwidth=30em}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://news.bbc.co.uk/2/hi/world/americas/country_profiles/1229332.stm BBC valsts profils] {{en ikona}}
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html ''The World Factbook'' informācija] {{Webarchive|url=https://web.archive.org/web/20181225154224/https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html%20 |date={{dat|2018|12|25||bez}} }} {{en ikona}}
+
+{{Ziemeļamerikas valstis}}
+{{Dienvidamerika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Panama| ]]
+[[Kategorija:Ziemeļamerikas valstis]]

@@ -1,0 +1,83 @@
+{{Latvijas novada infokaste
+| nosaukums         = Vectilžas pagasts
+| karte             = Vectilžas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Balvu novads
+| centrs            = Vectilža
+| platība           = 90,86
+| iedzīvotāji       = 490<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 490 / 90.86 round 1}}
+| izveidots         = 1945
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Vectilžas pagasts''' ir viena no [[Balvu novads|Balvu novada]] administratīvajām teritorijām tā vidienē. Robežojas ar sava novada [[Lazdulejas pagasts|Lazdulejas]], [[Tilžas pagasts|Tilžas]], [[Bērzkalnes pagasts|Bērzkalnes]], [[Rugāju pagasts|Rugāju]] un [[Lazdukalna pagasts|Lazdukalna]] pagastiem. 
+
+== Daba ==
+=== Hidrogrāfija ===
+==== Upes ====
+[[Sudarbe]], [[Tilža (upe)|Tilža]].
+
+==== Ezeri ====
+[[Vectilžas ezers]]
+
+== Vēsture ==
+1945. gadā [[Abrenes apriņķis|Abrenes apriņķa]] [[Tilžas pagasts|Tilžas pagastā]] izveidoja Vectilžas [[ciema padome|ciema padomi]]. '''Vectilžas ciems''' ietilpies [[Viļakas apriņķis|Viļakas apriņķī]] (1945-1949) un [[Balvu rajons|Balvu rajonā]] (pēc 1949. g.). Vectilžas ciemam 1958. gadā pievienoja [[Tilžas ciems|Tilžas ciema]] [[kolhozs|kolhoza]] «Sarkanais oktobris» teritoriju bet [[padomju saimniecība]]s «Sarkanais partizāns» teritoriju pievienoja Tilžas ciemam. 1965. gadā Vectilžas ciema kolhoza «Varonis» teritoriju pievienoja [[Liepāru ciems|Liepāru ciemam]], padomju saimniecības «Tilža» teritoriju - Tilžas ciemam. Vectilžas ciemu likvidēja 1975. gadā , teritoriju pievienoja Tilžas ciemam. Ciemu no jauna izveidoja 1989. gadā, teritoriju izdalot no Tilžas ciema.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu.<ref>{{Tīmekļa atsauce|url=https://gramatas.lndb.lv/periodika2-viewer/#panel:pp%7Cissue:640434%7Carticle:DIVL10012%7Cpage:590|title=Vectilžas pagasts|website=gramatas.lndb.lv|access-date=2022-08-05}}</ref> 2009. gadā pagastu kā administratīvo teritoriju iekļāva [[Balvu novads|Balvu novadā]].
+
+=== Pieminekļi ===
+* Ezersalas senkapi<ref>[http://mantojums.lv/lv/piemineklu-saraksts/299/ Valsts kultūras pieminekļu aizsardzības inspekcija. Valsts aizsargājamo nekustamo kultūras pieminekļu saraksts]{{Novecojusi saite}}</ref>
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2250
+|1959|1750
+|1969|1000
+|1979|750
+|1989|600
+|2000|573
+|2011|430
+|2021|380
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Vectilža]]''' (pagasta centrs), [[Dambīši (Vectilžas pagasts)|Dambīši]], [[Doburūcis]], [[Grūznis]], [[Krutova (Vectilžas pagasts)|Krutova]], [[Lutenāni]], [[Ranguči]], [[Sāvāni]], [[Sudarbe]], [[Upenieki (Vectilžas pagasts)|Upenieki]], [[Vuškusala]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Balvu novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Balvu rajons}}
+}}
+
+{{DEFAULTSORT:Vectilzzas pagasts}}
+[[Kategorija:Latgale]]
+[[Kategorija:Balvu novada pagasti]]
+[[Kategorija:Vectilžas pagasts| ]]
+[[Kategorija:Tilžas pagasts]]

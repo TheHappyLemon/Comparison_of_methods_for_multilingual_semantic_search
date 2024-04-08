@@ -1,0 +1,35 @@
+{{ezera infokaste
+|ezers=Buirnūrs
+|attēls=
+|karte=Buir_Nuur_in_Eastern_Mongolia_and_in_China_(Inner_Mongolia),_LandSat-7_2005-08-9.png
+|kartes_paraksts=Buirnūra ''Landsat'' satelītaina (2005)
+| map = Ķīna#Mongolija
+| plat_d=47 | plat_m=48 | plat_s= | plat_NS=N
+| gar_d=117 | gar_m=45 | gar_s= | gar_EW=E
+|vieta={{CHN}}<br />{{MNG}}
+|platība=610
+|garums=
+|Vid_dziļums=6,5
+|Max_dziļums=11
+|tilpums=3,8
+|augstums_vjl=583
+|izteka=[[Oršūna]]
+|baseins=
+|valstis=[[Mongolija]]<br />[[Ķīna]]
+|salas=
+|pilsētas=
+}}
+'''Buirnūrs''' ({{val|mn|Буир нуур}}; {{val|zh|貝爾湖}}, ''Bèiěr Hú'') ir liels saldūdens [[ezers]] [[Mongolija]]s austrumos, [[Austrumu aimaks|Austrumu aimakā]]. Neliela ezera daļa atrodas [[Ķīna]]s teritorijā [[Iekšējā Mongolija|Iekšējās Mongolijas autonomajā reģionā]].<ref>{{PZT|129|Buirnurs}}</ref>
+
+Atrodas līdzenumā, krasti lēzeni, gultne smilšaina vai dūņaina, vietām akmeņaina. Aizsalst novembrī, atkūst maijā. Bagāts ar zivīm. Ietek viena no [[Halhingola]]s attekām. No ezera uz [[Dalainors|Hulaņu]] (Dalainūru) iztek [[Oršūna]].
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20071011070913/http://philipp-bittner.com/Bse/A-GOGO/0407.htm Lielā padomju enciklopēdija] — krieviski (''Буир-Нур'')
+
+[[Kategorija:Ķīnas ezeri]]
+[[Kategorija:Mongolijas ezeri]]

@@ -1,0 +1,50 @@
+{{Apdzīvotas vietas infokaste
+| name = Lentvare
+| image_skyline =Lithuania Landwarów Palace.jpg
+| imagesize = 250px
+| image_caption = Tiškeviču pils Lentverē
+| image_flag =
+| image_shield = Lentvaris COA.gif
+| pushpin_map = Lithuania
+| pushpin_label_position = right
+| subdivision_type = Valsts
+| subdivision_name = {{LTU}}
+| subdivision_type1 = Pašvaldība
+| subdivision_name1 = [[Traķu rajona pašvaldība]]
+| established_title3 = Pilsētas tiesības
+| established_date3 = 1946
+| area_total_km2 = 
+| population_as_of = 2010
+| population_blank1_title = 
+| population_blank1 = 
+| population_total = 11417
+| population_density_km2 = 
+| timezone=[[Austrumeiropas laiks|EET]]
+| utc_offset=+2
+| timezone_DST=[[Austrumeiropas vasaras laiks|EEST]]
+| utc_offset_DST=+3
+| latd = 54
+| latm = 38 
+| lats = 33 
+| latNS = N 
+| longd = 25 
+| longm = 02
+| longs = 43
+| longEW = E
+| elevation_m = 168
+| website = http://www.lentvarioseniunija.lt/}}
+
+'''Lentvare''' ({{val-lt|Lentvaris}}) ir pilsēta [[Lietuva]]s austrumu daļā, starp [[Viļņa|Viļņu]] un [[Traķi]]em. Dzelzceļa mezgls.
+
+Rastos pirmoreiz minēta 17. gadsimtā. Pēc [[Polijas dalīšana|Polijas dalīšanām]] nokļuva [[Krievija]]s sastāvā. Iesākumā apdzīvotā vieta piederēja [[Sapehi|Sapehu]], vēlāk [[Tiškeviči|Tiškeviču]] dzimtai. 1885. gadā Tiškeviči pilsētas pievārtē uzcēla pili. Parku ap dārzu projektēja franču daiļdārznieks [[Eduards Andrē]] (''Édouard André''). Starp pasaules kariem Lentvare ietilpa Polijas teritorijā. Otrā pasaules kara gados pilsētas apkārtnē darbojās ebreju partizānu vienība dzejnieka [[Aba Kovners|Abas Kovnera]] vadībā.
+
+== Ārējās saites ==
+* {{commonscat-inline|Lentvaris|Lentvare}}
+
+{{Lietuva-aizmetnis}}
+{{Lietuvas pilsētas}}
+
+{{autoritatīvā vadība}}
+
+
+[[Kategorija:Lietuvas pilsētas]]

@@ -1,0 +1,73 @@
+{{nosaukums slīprakstā|string=Tour de France}}
+'''1994. gada Tour de France''' bija 81. Tour de France daudzdienu velobrauciens, kurš notika no 1994. gada 2. līdz 24. jūlijam. Dalībniekiem bijā jāveic 3978 km un to viņi paveica ar vidējo ātrumu - 38,383 km/h. Šogad velobraucienā 4. reizi pēc kārtas uzvarēja spānis [[Migels Indureins]]. Tūre veiksmīgi startēja arī latvietis [[Pēteris Ugrumovs]], kurš izcīnot uzvaras 18. un 19. posmā, kopvērtējumā izcīnija augsto 2. vietu.
+
+== Rezultāti ==
+[[Attēls:Miguel Indurain.jpg|right|thumb|350px|Velobrauciena uzvarētājs [[Migels Indureins]].]]
+=== Kopvērtējums ===
+{| class="wikitable"
+!Vieta!!Vārds!!Valsts!!Laiks
+|- bgcolor="yellow"
+|1 
+|'''[[Migels Indurains]]''' || '''[[Attēls:Flag of Spain.svg|20px|]] [[Spānija]]''' ||align=right|'''103st 38' 38"'''
+|-
+|2 || [[Pēteris Ugrumovs]] || [[Attēls:Flag of Latvia.svg|20px|]] [[Latvija]]  ||align=right| 5' 39"
+|- bgcolor="lightblue"
+|3 || [[Marko Pantāni]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]]  ||align=right| 7' 19"
+|-
+|4 || [[Luks Leblāns]] || [[Attēls:Flag of France.svg|20px|]] [[Francija]]  ||align=right| 10' 03"
+|- bgcolor="pink"
+|5 || [[Rišārs Viranks]]  || [[Attēls:Flag of France.svg|20px|]] [[Francija]]  ||align=right| 10' 10"
+|-
+|6 || [[Roberto Konti]]  || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]]  ||align=right| 12' 29"
+|- 
+|7 || [[Alberto Elli]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]]  ||align=right| 20' 17"
+|-
+|8 || [[Alekss Culle]] || [[Attēls:Flag of Switzerland.svg|20px|]] [[Šveice]]  ||align=right| 20' 35"
+|-
+|9 || [[Udo Bolts]]  || [[Attēls:Flag of Germany.svg|20px|]] [[Vācija]] ||align=right| 25' 19"
+|-
+|10 || [[Vladimirs Pulņikovs]] || [[Attēls:Flag of Ukraine.svg|20px|]] [[Ukraina]] ||align=right| 25' 28"
+|}
+
+=== Punkti ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Punkti
+|- bgcolor="limegreen"
+|'''1'''||'''[[Džamolidins Abdužaparovs]]'''||'''[[Attēls:Flag of Uzbekistan.svg|20px|]] [[Uzbekistāna]]'''||align="right"| '''322'''
+|-
+|2||[[Silvio Martinello]]||[[Attēls:Flag of Italy.svg|20px|]] [[Itālija]]||align="right"| 273
+|-
+|3||[[Jans Svorada]]||[[Attēls:Flag of the Czech Republic (bordered).svg|20px|]] [[Čehija]]||align="right"| 230
+|}
+
+=== Kalnu karaļa tituls ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Punkti
+|- bgcolor="pink"
+|'''1'''||'''[[Rišārs Viranks]]'''||'''[[Attēls:Flag of France.svg|20px|]] [[Francija]]'''||align="right"| '''392'''
+|- bgcolor="lightblue"
+|2||[[Marko Pantāni]] || [[Attēls:Flag of Italy.svg|20px|]] [[Itālija]] ||align=right| 243
+|- 
+|3||[[Pēteris Ugrumovs]]|| [[Attēls:Flag of Latvia.svg|20px|]] [[Latvija]]||align=right| 219
+|}
+
+=== Labākais jaunais braucējs ===
+{| class="wikitable"
+|-
+!Vieta!!Vārds!!Valsts!!Laiks
+|- bgcolor="lightblue"
+|'''1'''||'''[[Marko Pantāni]]'''||'''[[Attēls:Flag of Italy.svg|20px|]] [[Itālija]]'''||align=right| '''103st 45' 47"'''
+|- bgcolor="pink"
+|2||[[Rišārs Viranks]]||[[Attēls:Flag of France.svg|20px|]] [[Francija]]||align=right| 2' 51"
+|-
+|3||[[Bo Hamburgers]]||[[Attēls:Flag of Denmark.svg|20px|]] [[Dānija]]||align=right| 36' 25"
+|}
+
+{{Tour de France}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:1994. gads sportā]]
+[[Kategorija:Tour de France|1994]]

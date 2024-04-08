@@ -1,0 +1,103 @@
+[[Image:P2P-network.svg|thumb|200px|Vienādranga tīkls, kurā saistītie mezgli savstarpēji dalās ar resursiem, neizmantojot centralizētu sistēmu]]
+[[Image:Server-based-network.svg|thumb|200px|[[Klients-serveris|Klienta-servera]] tīkla arhitektūra, kurā klients izmanto servisus un resursus no centralizēta servera]]
+
+'''Vienādranga tīkls''' ({{val|en|Peer-to-peer network}} "'''P2P'''") ir [[datortīkls|datortīkla]] arhitektūras veids, kurā visiem tīkla dalībniekiem ir vienādas tiesības. Katrs dalībnieks ([[dators]]) var darboties gan kā klients, gan kā [[serveris]] vai arī veikt abas šīs funkcijas vienlaikus. Datori šāda veida tīklā spēj sazināties savā starpā tieši, neizmantojot centrālo serveri, kamdēļ šādu arhitektūru mēdz pretstatīt [[Klients-serveris|klienta-servera tīkla arhitektūrai]].
+
+Katrs šāda datortīkla tips pieprasa, lai visi datori izmantotu vienādu vai saderīgu [[Datorprogramma|programmu]], kas savā starpā varētu izveidot savienojumu, kā arī nodrošinātu failapmaiņu un citu resursu izmantošanu savā starpā.
+
+== Vienādranga tīklu vēsture ==
+
+Par vienranga tīklu arhitektūras vienu no priekštečim uzskata 1979. gadā izstrādāto [[USENET]] tīklu (ziņojumdēļa sistēmu, ar kuras palīdzību dažādas intereškopas apmainās ar informāciju). Sistēma ieviesa decentralizētu kontroles modeli. Ziņu serveri savstarpēji izplatīja Usenet ziņas.
+
+Pirmsākumi vienranga tīkliem ir 1986. gads, kad [[IBM]] izstrādāja tīkla arhitektūru dinamiskai maršrutēšanai, izmantojot datortīklus ar patvaļīgu topoloģiju [[APPN]] (Advanced Peer-to-Peer Networking).
+
+Pirmā  pasaulē popularitāti guvusī (vairāk kā 50 miljoni lietotāju) vienādranga lietotne bija failu koplietošanas sistēma [[Napster]], kas izdota 1999. gadā.<ref>{{grāmatas atsauce |last1=Tanenbaum |first1=Andrew S. |last2=Wetherall |first2=David J. |title=Computer Networks |edition=5th |publisher=Pearson |date=2010 |isbn=978-0-13-212695-3 |page=748 |display-authors=etal}}</ref> Napster radīja 19 gadu vecais ASV students [[Šons Fenings]]. Lietotnē bija iespējams bez maksas apmainīties ar mūzikas ierakstiem. Lietotne darbojās izmantojot centralizētu indeksa serveri, kura lietotāji varēja meklēt pēc dziesmas nosaukuma vai izpildītāja vārda. Ja indekss atrada dziesmu uz jebkura tīklā esoša datora, lietotājs varēja to lejuplādēt, vienlaikus daloties ar dziesmām savā tīklā. Taču lielās ierakstu kompānijas - "[[WarnerMedia|AOL Time Warner]]", [[EMI]], "[[Sony]]", "[[Universal Pictures|Universal]]", "[[Bertelsmann]]" iebilda, ka Napster krāpjot tās un atņemot māksliniekiem honorārus. 1999. gadā tās iesūdzēja Napster tiesā, prasot atlīdzināt zaudējumus. 2001. gadā "Napster" slēdza failu apmaiņas dienestu.<ref>{{cite encyclopedia |url=https://www.britannica.com/technology/P2P |title=P2P |work=Encyclopædia Britannica |date=2019-04-11 |accessdate=2019-05-14 }}</ref><ref>{{ziņu atsauce |url=https://www.tvnet.lv/6265302/programmaturu-kompanija-roxio-iegadajas-napster-nosaukumu-un-patentus |title=Programmatūru kompānija "Roxio" iegādājas "Napster" nosaukumu un patentus |work=TVNET |date=2002-11-28 |accessdate=2019-05-13 }}</ref>
+
+==Arhitektūra==
+
+Vienādranga tīkls ir veidots ap vienādības mezglu jēdzienu, kas vienlaikus darbojas gan kā “klienti”, gan kā “serveri” ar citiem tīkla mezgliem. Šis tīkla izkārtojuma modelis atšķiras no [https://lv.wikipedia.org/wiki/Klients-serveris klienta-servera] modeļa, kurā parasti notiek saziņa ar centrālo serveri un no tā. Tipisks faila pārsūtīšanas piemērs, kas izmanto klienta-servera modeli, ir [https://en.wikipedia.org/wiki/File_Transfer_Protocol File Transfer Protocol]  (FTP) pakalpojums, kurā klients un servera programmas ir atšķirīgas: klienti uzsāk pārsūtīšanu, un serveri apmierina šos pieprasījumus.
+
+===Maršrutēšana un resursu noteikšana===
+
+Vienādranga tīkli parasti ievieš daļu virtuālā [https://en.wikipedia.org/wiki/Overlay_network pārklājuma tīkla] virs fiziskā tīkla topoloģijas, kur mezgli pārklājumā veido mezglu apakškopu fiziskajā tīklā. Dati joprojām tiek apmainīti tieši pār pamatā esošo [https://en.wikipedia.org/wiki/Internet_protocol_suite TCP/IP] tīklu, bet lietojumprogrammu līmenī līdzinieki var sazināties viens ar otru tieši, izmantojot loģiskās pārklājuma saites (katra no tām atbilst ceļam caur pamatā esošo fizisko tīklu). Pārklājumi tiek izmantoti indeksēšanai un vienādranga noteikšanai un padara P2P sistēmu neatkarīgu no fiziskā tīkla topoloģijas. Pamatojoties uz to, kā mezgli ir savstarpēji saistīti pārklājuma tīklā un kā resursi tiek indeksēti un izvietoti, mēs varam klasificēt tīklus kā nestrukturētus vai strukturētus (vai kā hibrīdus starp tiem).<ref>Ahson, Syed A.; Ilyas, Mohammad, eds. (2008). SIP Handbook: Services, Technologies, and Security of Session Initiation Protocol. Taylor & Francis. p. 204. {{ISBN|9781420066043}}.</ref><ref>Zhu, Ce; et al., eds. (2010). Streaming Media Architectures: Techniques and Applications: Recent Advances. IGI Global. p. 265. {{ISBN|9781616928339}}.</ref><ref>Kamel, Mina; et al. (2007). "Optimal Topology Design for Overlay Networks". In Akyildiz, Ian F. (ed.). Networking 2007: Ad Hoc and Sensor Networks, Wireless Networks, Next Generation Internet: 6th International IFIP-TC6 Networking Conference, Atlanta, GA, USA, May 14-18, 2007 Proceedings. Springer. p. 714. {{ISBN|9783540726050}}.</ref>
+
+===Nestrukturēti tīkli===
+
+Nestrukturēti vienādranga tīkli neuzliek īpašu struktūru pārklājuma tīklam, bet veido mezglus, kas nejauši veido savienojumus cits ar citu.<ref>Filali, Imen; et al. (2011). "A Survey of Structured P2P Systems for RDF Data Storage and Retrieval". In Hameurlain, Abdelkader; et al. (eds.). Transactions on Large-Scale Data- and Knowledge-Centered Systems III: Special Issue on Data and Knowledge Management in Grid and PSP Systems. Springer. p. 21. {{ISBN|9783642230738}}.</ref>([https://en.wikipedia.org/wiki/Gnutella Gnutella], [https://en.wikipedia.org/wiki/Gossip_protocol Gossip], [https://en.wikipedia.org/wiki/Kazaa un Kazaa] ir nestrukturētu P2P protokolu piemēri).<ref>Zulhasnine, Mohammed; et al. (2013). "P2P Streaming Over Cellular Networks: Issues, Challenges, and Opportunities". In Pathan; et al. (eds.). Building Next-Generation Converged Networks: Theory and Practice. CRC Press. p. 99. {{ISBN|9781466507616}}.</ref>
+
+Tā kā tiem nav globāli uzspiestas struktūras, nestrukturēti tīkli ir viegli veidojami un ļauj lokalizēt optimizāciju dažādos pārklājuma reģionos.<ref>Chervenak, Ann; Bharathi, Shishir (2008). "Peer-to-peer Approaches to Grid Resource Discovery". In Danelutto, Marco; et al. (eds.). Making Grids Work: Proceedings of the CoreGRID Workshop on Programming Models Grid and P2P System Architecture Grid Systems, Tools and Environments 12-13 June 2007, Heraklion, Crete, Greece. Springer. p. 67. {{ISBN|9780387784489}}.</ref> Tāpat arī tāpēc, ka visu līdzinieku loma tīklā ir vienāda, nestrukturēti tīkli ir ļoti spēcīgi, saskaroties ar augsto “Churn” līmeni, t.i., kad liels skaits lietotāju bieži pievienojas tīklam un pamet to<ref>Jin, Xing; Chan, S.-H. Gary (2010). "Unstructured Peer-to-Peer Network Architectures". In Shen; et al. (eds.). Handbook of Peer-to-Peer Networking. Springer. p. 119. {{ISBN|978-0-387-09750-3}}.</ref><ref name="Qin 2002 p. 94">Lv, Qin; et al. (2002). "Can Heterogeneity Make Gnutella Stable?". In Druschel, Peter; et al. (eds.). Peer-to-Peer Systems: First International Workshop, IPTPS 2002, Cambridge, MA, USA, March 7-8, 2002, Revised Papers. Springer. p. 94. {{ISBN|9783540441793}}.</ref>
+
+Tomēr nestrukturētu tīklu galvenie ierobežojumi ir saistīti arī ar šo struktūras trūkumu. Jo īpaši, ja vienranga lietotājs vēlas atrast vajadzīgo datu daļu tīklā, ir jāuzsāk tā meklēšana tīklā, lai atrastu pēc iespējas vairāk līdzinieku, kas koplieto datus. Informācijas pieprasījums izraisa ļoti lielu signālu trafiku tīklā, izmanto vairāk centrālā procesora/atmiņas (pieprasot katram vienranga dalībniekam apstrādāt visus meklēšanas vaicājumus) un nenodrošina, ka meklēšanas vaicājumi vienmēr tiks atrisināti. Turklāt, tā kā nepastāv korelācija starp vienranga un tā pārvaldīto saturu, nav garantijas, ka pieprasījums atradīs lietotāju, kam ir vajadzīgie dati. Populārs saturs, visticamāk, būs pieejams vairākos lietotājos, un jebkurš vienranga meklētājs, visticamāk, atradīs to pašu. Bet, ja vienranga lietotājs meklē retus datus, ar kuriem dalās tikai daži citi lietotāji, tad ir maz ticams, ka meklēšana būs veiksmīga.<ref>Shen, Xuemin; Yu, Heather; Buford, John; Akon, Mursalin (2009). Handbook of Peer-to-Peer Networking (1st ed.). New York: Springer. p. 118. {{ISBN|978-0-387-09750-3}}.</ref>
+
+===Strukturēti tīkli===
+
+Strukturētajos vienādranga tīklos pārklājums ir sakārtots noteiktā topoloģijā, un protokols nodrošina, ka jebkurš mezgls var efektīvi<ref>Typically approximating O(log N), where N is the number of nodes in the P2P system</ref> meklēt tīklā failu/resursu pat tad, ja resurss ir ārkārtīgi rets.
+
+Visizplatītākais strukturēto P2P tīklu veids ievieš [https://en.wikipedia.org/wiki/Distributed_hash_table dalītu jaucējtabulu] (DHT),<ref>Other design choices include overlay rings and d-Torus. See for example Bandara, H. M. N. D.; Jayasumana, A. P. (2012). "Collaborative Applications over Peer-to-Peer Systems – Challenges and Solutions". Peer-to-Peer Networking and Applications. 6 (3): 257. arXiv:1207.0790. doi:10.1007/s12083-012-0157-3.</ref><ref>R. Ranjan, A. Harwood, and R. Buyya, "Peer-to-peer based resource discovery in global grids: a tutorial," IEEE Commun. Surv., vol. 10, no. 2. and P. Trunfio, "Peer-to-Peer resource discovery in Grids: Models and systems," Future Generation Computer Systems archive, vol. 23, no. 7, Aug. 2007.</ref> kurā tiek izmantots nepārtrauktas jaukšanas variants, lai katram failam piešķirtu īpašumtiesības uz konkrētu līdzinieku<ref>Kelaskar, M.; Matossian, V.; Mehra, P.; Paul, D.; Parashar, M. (2002). "A Study of Discovery Mechanisms for Peer-to-Peer Application"{{inconsistent citations}}</ref><ref>Dabek, Frank; Zhao, Ben; Druschel, Peter; Kubiatowicz, John; Stoica, Ion (2003). Towards a Common API for Structured Peer-to-Peer Overlays. Peer-to-Peer Systems II. Lecture Notes in Computer Science. 2735. pp. 33–44. CiteSeerX 10.1.1.12.5548. doi:10.1007/978-3-540-45172-3_3. {{ISBN|978-3-540-40724-9}}.</ref> Tas ļauj līdziniekiem meklēt resursus tīklā, izmantojot 
+[https://en.wikipedia.org/wiki/Hash_table jaucējtabulu ]: tas ir, (atslēgas, vērtības) pāri tiek glabāti DHT, un jebkurš iesaistītais mezgls var efektīvi izgūt vērtību, kas saistīta ar norādīto atslēgu.<ref>Moni Naor and Udi Wieder. Novel Architectures for P2P Applications: the Continuous-Discrete Approach. Proc. SPAA, 2003.</ref><ref>Gurmeet Singh Manku. Dipsea: A Modular Distributed Hash Table Archived 2004-09-10 at the Wayback Machine. Ph. D. Thesis (Stanford University), August 2004.</ref>
+
+Tomēr, lai efektīvi maršrutētu satiksmi caur tīklu, strukturētā pārklājuma mezgliem ir jāuztur to kaimiņu saraksti, kuri atbilst konkrētiem kritērijiem. Tas padara tos mazāk noturīgus tīklos ar augstu Churn līmeni (t.i., ar lielu mezglu skaitu, kas bieži pievienojas tīklam un izstājas no tā).<ref name="Qin 2002 p. 94"/><ref>Li, Deng; et al. (2009). Vasilakos, A.V.; et al. (eds.). An Efficient, Scalable, and Robust P2P Overlay for Autonomic Communication. Springer. p. 329. {{ISBN|978-0-387-09752-7}}.</ref> Jaunākajā P2P resursu noteikšanas risinājumu novērtējumā, izmantojot reālas darba slodzes, ir uzsvērti vairāki jautājumi, piemēram, augstas reklāmas izmaksas/resursu atrašana un statiska un dinamiska slodzes nelīdzsvarotība.<ref>Bandara, H. M. N. Dilum; Jayasumana, Anura P. (January 2012). "Evaluation of P2P Resource Discovery Architectures Using Real-Life Multi-Attribute Resource and Query Characteristics". IEEE Consumer Communications and Networking Conf. (CCNC '12).</ref>
+
+Ievērojami izplatītie tīkli, kas izmanto DHTs, ir [https://en.wikipedia.org/wiki/Tixati Tixati] Tixati, kas ir alternatīva [https://lv.wikipedia.org/wiki/BitTorrent BitTorrent], [https://en.wikipedia.org/wiki/Kad_network KAD tīklam], [https://en.wikipedia.org/wiki/Storm_botnet Storm botnet],[https://en.wikipedia.org/wiki/YaCy YaCy] un [https://en.wikipedia.org/wiki/Coral_Content_Distribution_Network Coral Content Distribution Network] {{Webarchive|url=https://web.archive.org/web/20190807060000/https://en.wikipedia.org/wiki/Coral_Content_Distribution_Network |date={{dat|2019|08|07||bez}} }}. Daži ievērojami pētniecības projekti ietver [https://en.wikipedia.org/wiki/Chord_(peer-to-peer) Chord] projektu, [https://en.wikipedia.org/wiki/Kademlia Kademlia], [https://en.wikipedia.org/wiki/PAST_storage_utility Past storage utility], [https://en.wikipedia.org/wiki/P-Grid P-Grid], pašorganizētu un topošu pārklājuma tīklu un [https://en.wikipedia.org/wiki/CoopNet_content_distribution_system CoopNet satura izplatīšanas sistēmu].<ref>Korzun, Dmitry; Gurtov, Andrei (November 2012). Structured P2P Systems: Fundamentals of Hierarchical Organization, Routing, Scaling, and Security. Springer. {{ISBN|978-1-4614-5482-3}}.</ref> DHT tīkli ir arī plaši izmantoti, lai panāktu efektīvu resursu atklāšanu<ref>Ranjan, Rajiv; Harwood, Aaron; Buyya, Rajkumar (1 December 2006). "A Study on Peer-to-Peer Based Discovery of Grid Resource Information" (PDF){{inconsistent citations}}</ref><ref>Ranjan, Rajiv; Chan, Lipo; Harwood, Aaron; Karunasekera, Shanika; Buyya, Rajkumar. "Decentralised Resource Discovery Service for Large Scale Federated Grids" (PDF). Archived from the original (PDF) on 2008-09-10.</ref> attiecībā uz [https://en.wikipedia.org/wiki/Grid_computing režģveida skaitļošanas] sistēmām, jo tie palīdz resursu pārvaldībā un lietojumprogrammu plānošanā.
+
+=== Hibrīdmodeļi===
+
+Hibrīdmodeļi ir vienādranga un klienta-servera modeļu kombinācija.<ref>Darlagiannis, Vasilios (2005). "Hybrid Peer-to-Peer Systems". In Steinmetz, Ralf; Wehrle, Klaus (eds.). Peer-to-Peer Systems and Applications. Springer. {{ISBN|9783540291923}}.</ref>  Parastais hibrīdmodelis ir centrālais serveris, kas palīdz lietotājiem atrast viens otru. [https://en.wikipedia.org/wiki/Spotify "Spotify"] bija hibrīda modeļa piemērs [līdz 2014. gadam]. Ir dažādi hibrīdmodeļi, kas visi veido kompromisu starp centralizētu funkcionalitāti, ko nodrošina strukturēts servera/klienta tīkls, un mezgla vienlīdzību, ko nodrošina tīri vienādranga nestrukturēti tīkli. Pašlaik hibrīdmodeļiem ir labāka veiktspēja nekā tīriem nestrukturētiem tīkliem vai tīri strukturētiem tīkliem, jo noteiktām funkcijām, piemēram, meklēšanai, ir nepieciešama centralizēta funkcionalitāte, bet tie gūst labumu no decentralizētu mezglu apkopošanas, ko nodrošina nestrukturēti tīkli.<ref>Yang, Beverly; Garcia-Molina, Hector (2001). "Comparing Hybrid Peer-to-Peer Systems" (PDF). Very Large Data Bases. Retrieved 8 October 2013.</ref>
+
+== Vienādranga tīklu darbība ==
+
+=== Vienādranga tīklu uzdevumi===
+* Jānodrošina satura meklēšanas iespējas (pēc vārda vai šablona);
+* Jābūt kartei, kurā norādīts, kur šis resurss atrodas;
+* Jābūt iespējai lejuplādēt saturu.<ref>{{Tīmekļa atsauce|url=https://odo.lv/Training/Networks1Lectures2#H8.lekcija|title=Datortīkli II: lekcijas: 2. daļa|website=odo.lv|access-date=2019-05-18}}{{Novecojusi saite}}</ref>
+
+=== Vienādranga tīklu tipi ===
+* Tīrais vienādranga tīkls:
+** Mezgls (dators) darbojas gan kā klients, gan kā serveris
+** Nav centrālā servera
+** Nav [[maršrutētājs|maršrutētāja]]
+* Hibrīda vienādranga tīkls:
+** Ir centrālais serveris, kas glabā informaciju par katru mezglu un atbild uz pieprasījumiem par šo informāciju.
+* Jauktais vienādranga tīkls:
+** satur gan tīrā, gan hibrīda vienādranga tīkla iezīmes.
+
+=== Priekšrocības ===
+Svarīgākā vienādranga tīkla priekšrocība ir, ka visi klienti piedāvā resursus, ieskaitot datu pārraidi, vietu glabāšanai un datu apstrādi. Tie, kā posmi pievienojas un sistēmas prasības palielinās, kopējā sistēmas kapacitāte arī palielinās. Taču [[klients-serveris]] tīklu arhitektūrai tā nav. Šādām tīkla arhitektūrām fiksētais serveru skaits neļauj pievienot vairāk klientu, jo tas varētu nozīmēt lēnāku datu pārraides ātrumu visiem lietotājiem.
+
+Tāpat vienādranga tīklus uzskata par lētāku risinājumu salīdzinājumā ar [[klients-serveris]] tīklu arhitektūru, jo tas var izmantot par serveriem darba stacijas (nav jāpērk speciāls serveris), ir vieglāk uzstādīt, nav nepieciešams administrators.<ref name="teach-ict.com">{{Tīmekļa atsauce|url=https://www.teach-ict.com/gcse_new/networks/peer_peer/miniweb/pg5.htm|title=Teach ICT - GCSE ICT - network topologies, network hardware, hubs, switches, routers, repeaters, bridges, modems, WAP, network cards|website=www.teach-ict.com|access-date=2019-05-18|archiveurl=https://web.archive.org/web/20190913232339/http://www.teach-ict.com/gcse_new/networks/peer_peer/miniweb/pg5.htm|archivedate=2019-09-13}}</ref>
+
+Pastāv resursu devēju aizvietojamība. Viena mezgla kļūda vai atteikums neietekmē daļas vai visa tīkla darbību (kā tas būtu raksturīgi [[klients-serveris|klienta-servera]] tīkla arhitektūrai).<ref name="teach-ict.com"/>
+
+=== Trūkumi ===
+Pamatā trūkumi izriet no centralizācijas neesamības. Šādās sistēmās ir grūtāk nodrošināt drošību (piekļuves tiesību ierobežošanu) un kontroli. Klients-serveris tipa sistēmā pietiek ierīkot drošibas sistēmu (piem. [[FTP]] pieteikšanās) serverī vai ierobežotā skaitā serveru. Ar vienādranga tīkliem, kur katra sistēma ir serveris, tas ir ļoti sarežģīti. Parastajiem vienādranga tīklu lietojumiem tas gan nav svarīgi.
+
+Tāpat katra lietotāja resursa darbība var tikt ietekmēta, pastāvot lielam tā resursu vienlaicīgam lietotāju skaitam.
+
+Nepastāv centralizētas datu dublēšanas iespējas.<ref>{{Tīmekļa atsauce|url=https://www.teach-ict.com/gcse_new/networks/peer_peer/miniweb/pg5.htm|title=Teach ICT - GCSE ICT - network topologies, network hardware, hubs, switches, routers, repeaters, bridges, modems, WAP, network cards|website=www.teach-ict.com|access-date=2019-05-19|archiveurl=https://web.archive.org/web/20190913232339/http://www.teach-ict.com/gcse_new/networks/peer_peer/miniweb/pg5.htm|archivedate=2019-09-13}}</ref>
+
+== Vienādranga tīklu protokoli un programmatūra ==
+* [[BitTorrent]]: [[Azureus]], [[BitComet]], [[BitTorrent]], [[Opera (pārlūkprogramma)|Opera]]
+
+Šobrīd viens no populārākajiem vienādranga tīklu protokoliem pasaulē. 2001. gadā to izstrādāja Brems Koens. Pastāv daudz aplikāciju, kas šo protokolu izmanto.
+Katrs satura sniedzējs izveido satura aprakstu, ko sauc par torentu. To lieto, lai pārbaudītu datu integritāti. Līdzinieks ({{val|en|peer}}) to var atrast tīmekļā vietnēs. Torents satur informāciju par serveri-trekeru ({{val|en|tracker}}) un faila gabaliem (parasti 64 -512 KB).
+Serveris -trekers uzskaita visus līdziniekus, kas lejup/augšuplādē saturu jeb baru ({{val|en|swarm}}). Attiecīgi veicot lejupielādi lietotājs sazinās ar trekeru. Arī bara locekļi regulāri sazinās ar trekeru.
+Līdzinieki, kam ir faila gabali ir devēji ({{val|en|seeders}}). Tālāk līdzinieki viens ar otru tieši apmainās ar failu gabaliem. Īpaši tiek meklēti retāk pieejamie.
+Esot barā līdzinieki vienlaikus var lejuplādēt trūkstošos failu gabalus un dalīties ar esošajiem. Kad faila gabals lejuplādēts, tiek pārbaudīta torrent failā norādītā kontrolsumma. Atbilstības gadījumā tiek informēti klienti par attiecīgā fragmenta pieejamību.<ref>{{grāmatas atsauce |last1=Tanenbaum |first1=Andrew S. |last2=Wetherall |first2=David J. |title=Computer Networks |edition=5th |publisher=Pearson |date=2010 |isbn=978-0-13-212695-3 |page=750-752 |display-authors=etal}}</ref>
+
+* [[Direct Connect]]: [[DC++]], [[NeoModus Direct Connect]], [[RevConnect]]
+* [[DNS (protokols)|DNS]]
+* [[eDonkey 2000]]: [[eDonkey2000]], [[eMule]]
+* [[Gnutella]]: [[LimeWire]]
+* [[Napster]]
+* [[Usenet]]
+
+== Atsauces ==
+{{Reflist|30em}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Datortīkli]]
+[[Kategorija:Internets]]

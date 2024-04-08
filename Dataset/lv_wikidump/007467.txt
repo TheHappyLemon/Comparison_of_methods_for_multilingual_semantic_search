@@ -1,0 +1,135 @@
+{{Futbola kluba infokaste
+| text_color = #FFFFFF
+| bg_color   = #ED1248
+| nos     = ''Bayern München''
+| logo    = [[Attēls:Bayern Munchen.png|175px]]
+| pilns   = ''Fußball-Club Bayern München e.V.''
+| iesauka = ''Der FCB'' <br>''Die Bayern'' (Bavārieši) <br>''Stern des Südens'' (Dienvidu zvaigzne)<br>''Die Roten'' (Sarkanie) <br /> ''FC Hollywood''
+| pilsēta = {{vieta|Vācija|Minhene}}
+| dib     = 1900
+| dib_mēn = 2
+| dib_dat = 27
+| stad    = ''[[Allianz Arena]]''
+| ietilp  = 75 000
+| prez    = {{flaga|Vācija}} Herberts Hainers
+| tren    = {{flaga|Vācija}} [[Tomass Tuhels]]
+| līga    = [[Vācijas futbola Bundeslīga|Vācijas Bundeslīga]]
+| sez     = [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022.—2023.]]
+| poz     = 1. vieta
+| pattern_la1 = _bayern2223h
+| pattern_b1 = _bayern2223h
+| pattern_ra1 = _bayern2223h
+| pattern_sh1 = _bayern2223h
+| pattern_so1 = _bayern2223hl
+| leftarm1 = FF0000
+| body1 = FF0000
+| rightarm1 = FF0000
+| shorts1 = FF0000
+| socks1 = FF0000
+| pattern_la2 = _bayern2223a
+| pattern_b2 = _bayern2223a
+| pattern_ra2 = _bayern2223a
+| pattern_sh2 = _bayern2223a
+| pattern_so2 = _bayern2223al
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = FFFFFF
+| pattern_la3 = _bayern2223t
+| pattern_b3 = _bayern2223t
+| pattern_ra3 = _bayern2223t
+| pattern_sh3 = _bayern2223t
+| pattern_so3 = _3_stripes_red
+| leftarm3 = 32343C
+| body3 = 32343C
+| rightarm3 = 32343C
+| shorts3 = 32343C
+| socks3 = 32343C
+| website = https://fcbayern.com/en
+}}
+
+'''Minhenes "Bayern"''' ({{val|de|FC Bayern München}}) ir [[Vācija]]s [[futbola komanda|futbola klubs]], kas atrodas [[Minhene|Minhenē]], [[Bavārija|Bavārijā]]. To vislabāk pazīst pēc tā futbola komandas, kura ir titulēkākā komanda Vācijas futbolā, 33 reizes uzvarot Vācijas čempionātā un 20 reizes [[Vācijas kauss futbolā|Vācijas kausā]].
+
+Klubs dibināts 1900. gadā. Sākotnēji kluba nosaukums bija ''Bayern Reds''. 1907. gadā klubs pārcelās uz Minheni. 1910.gadā komanda kļuva par Austrumu reģiona čempioniem. 1926.gadā komanda kļuva par Dienvidu reģiona čempioniem. 1932. gadā tā ieguva pirmo nacionālo titulu, ar rezultātu 2-0 uzvarot [[Frankfurtes "Eintracht"]]. 1957. gadā pirmoreiz tika izcīnīts [[Vācijas kauss futbolā|Vācijas kauss]].
+Kopš 2005.—2006. gada sezonas Bayern savas mājas spēles aizvada ''[[Allianz Arena]]''. Agrāk komanda 33 gadus spēlēja [[Minhenes Olimpiskais stadions|Minhenes Olimpiskajā stadionā]].
+
+== Komandas sastāvs ==
+:''{{dat|2023|8|18||bez}}''.<ref>{{Tīmekļa atsauce |url=https://fcbayern.com/de/teams/profis |title=FC Bayern München – Profis |language=de |accessdate={{dat|2023|8|18||bez}} |publisher=''FC Bayern München''}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=GER|name=[[Manuels Neiers]]|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no=2|pos=DF|nat=FRA|name=[[Dajo Upamekano]]}}
+{{Fs player|no=3|pos=DF|nat=KOR|name=[[Kims Mindže]]}}
+{{Fs player|no=4|pos=DF|nat=NED|name=[[Matiss de Lihts]]}}
+{{Fs player|no=5|pos=DF|nat=FRA|name=[[Benžamēns Pavārs]]}}
+{{Fs player|no=6|pos=MF|nat=GER|name=[[Jozua Kimmihs]]}}
+{{Fs player|no=7|pos=FW|nat=GER|name=[[Seržs Gnabrī]]}}
+{{Fs player|no=8|pos=MF|nat=GER|name=[[Leons Gorecka]]}}
+{{Fs player|no=9|pos=FW|nat=ENG|name=[[Harijs Keins]]}}
+{{Fs player|no=10|pos=FW|nat=GER|name=[[Lerojs Sanē]]}}
+{{Fs player|no=11|pos=FW|nat=FRA|name=[[Kingslijs Komans]]}}
+{{Fs player|no=13|pos=FW|nat=CMR|name=[[Eriks Maksims Šupo-Motings]]}}
+{{Fs player|no=14|pos=MF|nat=GER|name=[[Pauls Vanners]]}}
+{{Fs player|no=19|pos=DF|nat=CAN|name=[[Alfonso Deiviss]]}}
+{{Fs mid}}
+{{Fs player|no=20|pos=DF|nat=SEN|name=[[Buna Sars]]}}
+{{Fs player|no=22|pos=DF|nat=POR|name=[[Rafaels Gerreiru]]}} 
+{{Fs player|no=25|pos=FW|nat=GER|name=[[Tomass Millers]]}}
+{{Fs player|no=26|pos=GK|nat=GER|name=[[Svens Ulreihs]]}}
+{{Fs player|no=27|nat=AUT|pos=MF|name=[[Konrāds Laimers]]}}
+{{Fs player|no=28|nat=GER|pos=DF|name=[[Tareks Buhmanis]]}}
+{{Fs player|no=32|nat=CRO|pos=FW|name=[[Gabriels Vidovičs]]}}
+{{Fs player|no=38|pos=MF|nat=NED|name=[[Raiens Gravenberhs]]}}
+{{Fs player|no=39|pos=FW|nat=FRA|name=[[Matiss Tels]]}}
+{{Fs player|no=40|pos=DF|nat=MAR|name=[[Nusairs Mezrāvi]]}}
+{{Fs player|no=42|nat=GER|pos=MF|name=[[Džamals Musiala]]}}
+{{Fs player|no=44|nat=CRO|pos=DF|name=[[Josips Stanišičs]]}}
+{{Fs player|no=46|nat=GER|pos=MF|name=[[Arijons Ibrahimovičs]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Vācijas futbola Bundeslīga|Vācijas čempionāts / Bundeslīga]]'''
+** Čempioni (33): 1932, 1968–69, 1971–72, 1972–73, 1973–74, 1979–80, 1980–81, 1984–85, 1985–86, 1986–87, 1988–89, 1989–90, 1993–94, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2004–05, 2005–06, 2007–08, 2009–10, 2012–13, 2013–14 , 2014–15, [[2015.—2016. gada Vācijas futbola Bundeslīgas sezona|2015–16]], [[2016.—2017. gada Vācijas futbola Bundeslīgas sezona|2016–17]], [[2017.—2018. gada Vācijas futbola Bundeslīgas sezona|2017–18]], [[2018.—2019. gada Vācijas futbola Bundeslīgas sezona|2018–19]], [[2019.—2020. gada Vācijas futbola Bundeslīgas sezona|2019–20]], [[2020.—2021. gada Vācijas futbola Bundeslīgas sezona|2020–21]], [[2021.—2022. gada Vācijas futbola Bundeslīgas sezona|2021–22]], [[2022.—2023. gada Vācijas futbola Bundeslīgas sezona|2022–23]]
+** Vicečempioni (10): 1969–70, 1970–71, 1987–88, 1990–91, 1992–93, 1995–96, 1997–98, 2003–04, 2008–09, 2011–12
+* '''[[Vācijas kauss futbolā|Vācijas kauss]]'''
+** Kausa ieguvēji (20): 1956–57, 1965–66, 1966–67, 1968–69, 1970–71, 1981–82, 1983–84, 1985–86, 1997–98, 1999–2000, 2002–03, 2004–05, 2005–06, 2007–08, 2009–10, 2012–13, 2013–14, 2015–16, 2018–19, 2019–20
+** Finālisti (4): 1984–85, 1998–99, 2011–12, 2017–18
+* '''DFB Līgas kauss'''
+** Kausa ieguvēji (6): 1997, 1998, 1999, 2000, 2004, 2007
+** Finālisti (2): 2006, 2010
+* '''Vācijas Superkauss'''
+** Kausa ieguvēji (7): 1987, 1990, 2010, 2012, 2016, 2017, 2018
+** Finālisti (5): 1989, 1994, 2013, 2014, 2015
+** Neoficiālie uzvarētāji: 1982
+* '''[[UEFA Čempionu līga|Eiropas Čempionvienību kauss / UEFA Čempionu līga]]'''
+** Kausa ieguvēji (6): 1973–74, 1974–75, 1975–76, 2000–01, 2012–13, [[2019.—2020. gada UEFA Čempionu līgas sezona|2019–20]]
+** Finālisti (5): 1981–82, 1986–87, 1998–99, 2009–10, 2011–12
+* '''[[UEFA Kausu ieguvēju kauss]]'''
+** Kausa ieguvēji (1): 1966–67
+* '''[[UEFA kauss]]'''
+** Kausa ieguvēji : 1995–96
+* '''[[UEFA Superkauss]]'''
+** Kausa ieguvēji (1): 2013
+** Finālisti (3): 1975, 1976, 2001
+* '''[[FIFA Klubu Pasaules kauss]]'''
+** Kausa ieguvēji (1): 2013
+* '''[[Starpkontinentālais kauss]]'''
+** Kausa ieguvēji (2): 1976, 2001 <ref>{{Tīmekļa atsauce|url=http://fcb-erlebniswelt.de/de/historie/erfolge/index.php|title=Erfolge|accessdate=2015-10-01|publisher=Offizielle Website des FC Bayern München|archive-date=2015-05-11|archive-url=https://web.archive.org/web/20150511054525/http://fcb-erlebniswelt.de/de/historie/erfolge/index.php}} {{Webarchive|url=https://web.archive.org/web/20150511054525/http://fcb-erlebniswelt.de/de/historie/erfolge/index.php |date=2015-05-11 }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+{{Sporta ārējās saites}}
+* [http://www.fcbayern.de/en/ Oficiālā kluba vietne]
+
+
+{{futbols-stub}}
+{{Bundeslīga}}
+{{autoritatīvā vadība}}
+
+{{DEFAULTSORT:Bayern}}
+[[Kategorija:Minhenes "Bayern"]]
+[[Kategorija:Vācijas futbola klubi]]

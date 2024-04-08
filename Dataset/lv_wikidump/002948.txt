@@ -1,0 +1,95 @@
+'''Atomfizika''' ir [[fizika]]s nozare, kas pēta [[atoms|atomu]] kā izolētu sistēmu, kas sastāv no [[atoma kodols|atoma kodola]] un [[elektrons|elektroniem]]. Sākotnēji tika pētīts elektronu izvietojums atomos un to izmaiņas. Atomfizikas nozarē iekļaujas gan neitrālu atomu, gan [[jons|jonu]] pētījumi.
+
+== Atoma uzbūves pētījumi ==
+=== Radioaktivitātes atklāšana ===
+
+Vārds [[atoms]] ir cēlies no sengrieķu valodas (''atomos'') un tulkojumā nozīmē ''nedalāms''. Sengrieķu zinātnieki uzskatīja, ka visām [[viela|vielām]], kas eksistē, ir dalāmības robeža - šī uzskata dēļ viņi vissīkāko daļiņu nosauca par atomu. Šo uzskatu fizikā lietoja līdz 19. gadsimta beigām, kad tika secināts - [[atoms|atomam]] ir ļoti sarežģīta uzbūve.
+
+Tika novērots, ka [[atoms]] spēj absorbēt un izstarot gaismu. No [[elektrodinamika]]s zināms, ka šādu parādību var izraisīt tikai elektriski lādētu daļiņu sistēmas. Arī elektriskās [[strāva]]s un [[elektrolīze]]s pētījumi parādīja, ka [[atoms|atomos]] atrodas lādētas daļiņas. 1895. gadā angļu fiziķis [[Dž. Dž. Tomsons]] atklāja un pierādīja, ka [[atoms]] sastāvā ir [[elektrons|elektroni]], kuri ir negatīvā lādiņa nesēji.
+
+1896. gadā franču zinātnieks [[Anrī Bekerels]] atklāja [[radioaktivitāte|radioaktivitāti]], eksperimentējot ar [[Urāns (elements)|Urāna]] savienojumiem. Tika novērots, ka elektriskajā laukā šīs radioaktīvais starojums sadalās trijās sastāvdaļās. Šīs sastāvdaļas nosauca par [[alfa daļiņa|alfa]] (α) starojumu, [[beta daļiņa|beta]] (β) starojumu un [[gamma stari|gamma]] (γ) starojumu.
+
+Eksperimentu laikā [[elektriskais lauks|elektriskajā laukā]] [[alfa daļiņa|alfa]] starojums novirzījās uz negatīvā pola pusi, [[beta daliņa|beta]] starojums novirzījās un pozitīvo pusi, bet [[gamma stari|gamma]] starojums nemainīja savu plūšanas virzienu. Pārbaudot šos starojumus magnētiskajā laukā, bija novērots, ka gamma starojums nemainīja savu plūšanas virzienu, bet alfa un beta starojums novirzījās perpendikulāri [[magnētiskais lauks|magnētiskā lauka]] virzienam.
+
+Šo eksperimentu rezultātā pierādījās, ka [[alfa daļiņa|alfa]] starojums ir pozitīvi lādētu daļiņu plūsma. Vēlāk noskaidrojās, ka alfa daļiņas ir [[hēlijs|hēlija]] [[atoms|atoma]] kodoli un, ka tās ir saliktas daļiņas, bet [[beta daliņa|beta]] starojums ir negatīvi lādētu daļiņu plūsma, un šis daļiņas nosauca par beta daļiņām. Tālākie eksperimenti liecināja, ka beta daļiņas ir [[elektrons|elektroni]]. [[Gamma stari|gamma]] starojumu definēja kā [[elektromagnētiskie viļņi|elektromagnētisko viļņu]] [[kvants|kvantu]] jeb [[fotons|fotonu]] plūsmu. Alfa un beta lādēto daļiņu plūsmas faktiski ir [[elektriskā strāva]].
+
+Novērojumi pierādīja, ka neeksistē tādas [[radioaktīvas vielas]], kuras [[atoms|atomi]] vienlaikus izstarotu visus trīs starojuma veidus. Šajos eksperimentos šie starojumi parādījās tādēļ, ka svina trauciņā, ko ievietoja [[elektriskais lauks|elektriskajā laukā]] vai [[magnētiskais lauks|magnētiskajā laukā]], bija [[radioaktīvas vielas|radioaktīvu vielu]] maisījums, tātad tajos atradās dažādi [[atoms|atomi]]. Bez [[Urāns (elements)|urāna]] tur atradās arī citu vielu radioaktīvie [[atoms|atomi]], kuri radās urānam [[atoms|atomiem]] sabrūkot.
+
+=== Rezerforda alfa daļiņu izkliedes eksperimenti ===
+ 
+1911.g. tika veikts eksperiments, lai uzzinātu daļiņu novietojumu [[atoms|atomā]] un to veica angļu fiziķis [[Ernests Rezerfords]]. 
+No konteinera, kurā atradās [[radioaktīvas vielas|radioaktīvā viela]], kas izstaroja alfa daļiņas, šo daļiņu kūlis krita uz plānu [[zelts|zelta]] plāksnīti. Šī plāksnīte bija tik plāna, lai alfa daļiņas teorētiski nesadurtos vairāk kā ar vienu vielas [[atoms|atomu]]. Pēc šīs sadursmes ar plāksnīti alfa daļiņas tika izkliedētas. Lai noskaidrotu daļiņu izkliedes virzienu, tika izmantots [[mikroskops]]. Mikroskopu novietoja izstaroto daļiņu ceļā, lai novērošanas virziens ar daļiņu sākotnējo kustības virzienu veidotu dažādus leņķus. Mikroskopa priekšā tika novietots ekrāns, uz kura varēja redzēt visu norisi. Šis ekrāns tika pārklāts ar vielu, kas satiekoties ar alfa daļiņām, luminiscējās uz ekrāna. Daļiņu satikšanās triecienu rezultātā tika novēroti luminiscences uzliesmojumi, kurus varēja novērot dažādos virzienos apkārt punktam, kurā alfa daļiņu kūlis triecās pret ekrānu.
+	
+E. Rezerfords novēroja, ka lielākā daļa alfa daļiņu plūsmas daļiņas izgāja cauri zelta plāksnītei nenovirzoties no sava kursa, bet dažas novirzījās un veidoja, salīdzinot ar sākotnējo virziena, samērā lielus leņķus. No izdarītajiem pētījumiem viņš secināja, ka [[atoms|atoma]] aizņemtās telpas lielākā daļa alfa daļiņas nekādu pretestību nebija satikušas. Šajā telpā varēja atrasties tikai [[elektrons|elektroni]], kuri savas mazās masas dēļ nebija spējīgi mainīt alfa daļiņu virzienu. Tas nozīmē, ka visa atoma masa, kas novirzīja alfa daļiņu plūsmu, bija koncentrējušās nelielā telpas daļā, kuru Rezerfords nosauca par [[atoma kodols|atoma kodolu]].
+	
+Pieņēma, ka [[atoms]] un tā kodols ir sfērisks veidojums. Tā rādiusu varēja noteikt, zinot vielas [[atoms|atoma]] masu un blīvumu. Šos lielumus varēja izmērīt eksperimentāli. Aprēķinātie rādiusi [[atoms|atomam]] bija robežās no 0.53 * 10<sup>-10</sup>m ([[ūdeņradis|ūdeņraža]] atomam) un 1.5 * 10<sup>-10</sup>m ([[urāns (elements)|urāna]] atomam). Rezultātā tika pieņemts, ka normālā stāvoklī visu atomu rādiusi ir aptuveni 10<sup>-10</sup>m. 
+	
+Tika aprēķināti arī [[atoma kodols|atoma kodolu]] rādiusi. Rādiusa garums bija aptuveni 10<sup>-15</sup>m. Tas nozīmē, ka atoma kodola rādiuss ir 10<sup>5</sup> reizes mazāks par paša [[atoms|atoma]] rādiusu. Lai varētu uzskatāmi salīdzināt kodola un atoma izmērus, var iedomāties - ja atoms ir lode ar rādiusu 1 km jeb 10<sup>5</sup>cm, tad kodola rādiuss šajā mērogā būs aptuveni 1 cm.
+
+== Atoma uzbūves modeļi ==
+
+[[Attēls:ScientificLinux-Logo.gif‎|400px|left|thumb|Atomā esošo elektronu kustība pa orbītām]]
+
+1903.g. angļu fiziķis [[Dž. Dž. Tomsons]] bija izveidojis pirmo [[atoms|atoma]] modeli. Pēc Tomsona modeļa teorijas atoma pozitīvais lādiņš ir izvietots vienmērīgi pa visu tā tilpumu. Bet šajā [[atoms|atomā]] atrodas arī negatīvie [[elektrons|elektroni]], kuri iedarbojoties uz pozitīvajiem lādiņiem, neitralizējot tos. Šajā [[atoms|atoma]] modelī nebija kodola, tādējādi [[Ernests Rezerfords|Ernesta Rezerforda]] eksperiments bija pretrunā ar šo modeli.
+	
+1911.g. [[Ernests Rezerfords]], pamatojoties uz savu eksperimentu, izveidoja [[atoms|atoma]] modeli, kuru mēs pazīstam kā Rezerforda jeb [[planetārais atoma modelis|planetāro atoma modeli]]. Salīdzinājumā ar [[Tomsons|Tomsona]] izveidoto modeli, šis modelis bija absolūtāks.
+	
+Šo modeli sauc par planetāro modeli, tādēļ, ka tajā esošie pozitīvie lādiņi atrodas [[atoma kodols|atoma kodolā]], bet tā [[elektrons|elektroni]] riņķo ap kodolu, tāpat kā [[kosmoss|kosmosā]] [[planētas]] riņķo ap [[Saule|Sauli]]. [[elektrons|Elektroniem]] ap kodolu liek kustēties pa orbītu [[centrtieces spēks]], bet starp pozitīvo kodolu un negatīvajiem [[elektrons|elektroniem]] iedarbojas [[elektriskais Kulona pievilkšanas spēks]]. Tiek pieņemts, ka [[atoms]] normālos stāvokļos ir elektroneitrāla sistēma, tādēļ, zinot kodolā esošo pozitīvo lādiņu, var aprēķināt ap to riņķojošo [[elektrons|elektronu]] negatīvo lādiņu.
+	
+Lai noteiktu [[atoms|atoma]] kodola lādiņu ir izveidotas dažādas metodes, bet visas metodes ir devušas vienādus slēdzienus, ka [[atoms|atoma]] kodola lādiņš ir vienāds ar Z * e,
+
+kur Z — attiecīgā ķīmiskā elementa [[atomskaitlis]] pēc [[Dmitrijs Mendeļejevs|Dmitrija Mendeļejeva]] izveidotās [[Ķīmisko elementu periodiskā tabula|Ķīmisko elementu periodiskās tabulas]] un
+
+e — ir pozitīvais lādiņš, kurš ir vienāds ar elektrona negatīvo lādiņu.
+
+Tādējādi atomos, kas sastāda elementus ar kārtas numuru Z, ap kodolu riņķo Z elektroni : [[ūdeņradis|ūdeņraža]] [[atoms|atoma]] ir viens Z; [[hēlijs|hēlija]] [[atoms|atomā]] ir 2 Z; [[litijs|litija]] [[atoms|atomā]] ir 3 Z utt..
+
+== Bora postulāti ==
+Lietojot Rezerforda [[atoms|atoma]] modeli, tika konstatētas vairākas nepilnības, kurus nebija iespējams izskaidrot ar klasiskās fizikas likumsakarībām. Tādēļ 1913.gada dāņu zinātnieks [[Nilss Bors]] [[planetārais modelis|planetāro modeli]] papildināja ar saviem pieņēmumiem jeb [[postulāti]]em,  Šos [[postulāti|postulātus]], kurus nosauca par Bora postulātiem, vēlāk pamatoja ar [[kvantu mehānika|kvantu mehānikas]] palīdzību.
+
+Bora postulātus var formulēt šādi:
+
+# Apkārtesošie [[elektrons|elektroni]] ap atoma kodola var pārvietoties tikai pa noteiktu trajektoriju jeb [[orbītas|orbītām]]. Ja sanumurētu ūdeņraža atomā [[stacionārās orbītas]], sākot no atoma kodola tuvākajām orbītām, tad izveidotos orbīta rādiusu attiecība kā orbītu kārtas skaitļa kvadrāti : r<sub>1</sub>:r<sub>2</sub>:r<sub>3</sub>....= 1:4:9:....
+# Elektroni kustoties stacionārajā orbītā [[elektromagnētiskie viļņi|elektromagnētiskos viļņus]] neabsorbē un neizstaro. Tas nozīmē, ka elektronam atrodoties stacionārajā orbītā, tam ir noteikta enerģija. [[elektrons|Elektronu]] enerģija palielinās no kodola tuvākās orbītas līdz tālākajai orbītai esošajiem elektroniem.
+# [[elektrons|Elektronam]] absorbējot enerģiju, tas pāriet uz tālāko orbītu, bet izstarojot, tas pārvietojas uz tuvāko orbītu kodolam. Ir pieņemts, ka orbītu enerģijas vērtības ir stingri noteiktas, tādēļ pārejām starp tām ir stingri noteiktas enerģijas vērtības. Katrā pārejā tiek izstarots vai absorbēts viens [[elektromagnētiskie viļņi|elektromagnētisko viļņu]] [[kvants]], tādējādi kvanta enerģija ir vienāda ar elektrona enerģijas izmaiņu pārejā.
+
+E = E<sub>n</sub> — E<sub>m</sub>
+
+E - kvanta (fotona) enerģija; E<sub>n</sub> un E<sub>m</sub> — elektrona enerģijas attiecība uz orbītām n un m.
+
+Pēc [[Makss Planks|Maksa Planka]] izveidotās teorijas, kvanta enerģija ir proporcionāla elektromagnētiskā viļņa frekvencei:
+
+E = hν
+
+kur h — [[Planka konstante]] un ν — frekvence.
+
+Atoms var absorbēt un izstarot tikai noteiktas frekvences jeb viļņa garuma elektromagnētiskos viļņus. Šo frekvenci var aprēķināt, lietojot augšējās divas formulas :
+
+ν = (E<sub>n</sub> — E<sub>m</sub>) / h
+
+Atoma [[absorbcijas spektrs]], kas veidojas starojuma absorbcijas procesā, un [[emisijas spektrs]], kas veidojas emisijas procesā, ir [[līniju spektrs|līniju spektri]]. Tādējādi ar Bora postulātiem tika novērsta planetārā atoma modeļa pretrunas.
+
+== Enerģijas absorbcija un emisija atomos ==
+[[Attēls:A_hidrogen_szinkepei.jpg|400px|thumb|Absorbcijas un emisijas pārejas atomā]]
+
+Visvienkāršākais no [[atoms|atomiem]] ir [[ūdeņradis|ūdeņraža]] atoms, tādēļ arī enerģijas [[absorbcija]]s un [[emisija]]s likumsakarības tajā var redzēt visspilgtāk. Ūdeņraža elektrisko čaulu veido tikai viens [[elektrons]]. Šis vienīgais [[elektrons]] cenšas pieņemt stāvokli, kurā tam būtu vismazākā enerģija. Šis stāvoklis atbilst [[atoma kodols|atoma kodola]] vistuvākās orbītas stāvoklim, tādēļ to arī sauc par normālo stāvokli.
+	
+Lai [[elektrons]] spētu pāriet no tuvākās orbītas uz tālāko orbītu, tam ir jāpievada tāds daudzums enerģijas, lai nodrošinātu [[elektrons|elektrona]] pāreju. Absorbējot šo enerģiju [[atoms]] iegūst jaunu stāvokli, kuru sauc par ierosinātu stāvokli. Ja [[atoms|atomam]] atņem [[elektrons|elektronu]], tad [[atoms]] pārveidojas par pozitīvi lādētu [[jons|jonu]].
+	
+[[Atoms]], kurš ir ierosinātā stāvoklī, nekad nepastāv ilgāk par 10<sup>-8</sup> s. Pēc šā perioda [[elektrons]] pāriet uz kādu atomam tuvāku orbītu, tādējādi emitējot lielu daudzumu enerģijas, kas bieži tiek izstarots [[elektromagnētiskie viļņi|elektromagnētisko viļņu]] veidā. Ir pierādīts, ka katrai pārejai atbilst savs enerģijas [[kvants]] un, tādēļ spektrā vienādie enerģijas kvanti izveido vienu spektra līniju, bet pārejas, kas beidzas uz 1. orbītas, veido spektra līnijas sērijas. Beidzoties uz 1. orbītas, veidojas spektra līniju sērija, kuru sauc par Laimana sēriju. Tā atrodas [[Ultravioletais starojums|ultravioletā starojuma]] [[spektrs|spektra]] apgabalā un vizuāli ir grūti novērojama.
+	
+[[elektrons|Elektroni]], kas beidzas uz 2. orbītas veido spektra līnijas sērijas. , kuru sauc par Balmeru sēriju. Šīs spektra līnijas ir vienīgās kuras atrodas redzamajā apgabalā, bet pārējās, kuras beidzas uz 3., 4., 5. utt. orbītas, atrodas [[infrasarkanais spektrs|infrasarkano spektra]] daļā un vizuāli nav novērojami. 
+	
+Turpinoties pētījumiem, izrādījās, ka Bora [[atoms|atoma]] modelis arī ir nepilnīgs. Pēc šī modeļa varēja tikai daļēji izskaidrot ūdeņraža uzbūvi, bet šis modelis nespēja izskaidrot sarežģītāku atomu uzbūvi. Tāpat arī Bora [[postulāts|postulāti]] nebija pamatojami  ar [[Klasiskā mehānika|klasiskās mehānikas]] metodēm. 
+	
+[[atoms|Atoma]] uzbūves izskaidrojumu sniedza [[kvantu mehānika]], kurus radīja vācu fiziķis [[Verners Heizenbergs]], formulējot [[Heizenberga nenoteiktības princips|Heizenberga nenoteiktības principu]] (1927.gadā), un austriešu fiziķis [[Ervīns Šrēdingers]] izstrādājot [[Šrēdingera vienādojums|Šrēdingera vienādojumu]] (1926.gadā). [[Kvantu mehānika]] mūsdienu fiziķiem un ķīmiķiem sniedz apmierinošu pamatojumu par [[atoms|atoma]] modeļa struktūras veidošanos. Tā izpratnei ir nepieciešamas plašas zināšanas matemātikā.
+
+== Skatīt arī ==
+* [[Atoms]]
+* [[Jonizējošais starojums]]
+* [[Kodolfizika]]
+
+{{fizika-aizmetnis}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Atomfizika]]

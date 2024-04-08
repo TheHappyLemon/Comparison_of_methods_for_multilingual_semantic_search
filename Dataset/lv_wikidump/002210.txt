@@ -1,0 +1,58 @@
+{{citas nozīmes|ķīmisko elementu|Titāns (nozīmju atdalīšana)|titāns}}
+{{Elementa infokaste
+ |                  tips = pārejas metāls
+ |       kārtas skaitlis = 22
+ |              4. čaula = 2
+ |              3. čaula = 10
+ |              2. čaula = 8
+ |              1. čaula = 2
+ |               simbols = Ti
+ |              atommasa = 47,867
+ |    valences elektroni = [Ar]3d<sup>2</sup>4s<sup>2</sup>
+ |        tabulas attēls = [[Attēls:Ti-TableImage.svg|250px]]
+ |                attēls = [[Attēls:Ti,22.jpg|105px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Ti covered watches.jpg|140px]] <br />Titāna gabaliņš un ar titānu pārklāts rokaspulksteņa korpuss
+ |   oksidēšanas pakāpes = +1, +2, +3, '''+4'''
+ |   elektronegativitāte = 1,54
+ |               blīvums = 4506
+ |   kušanas temperatūra = 1941 K (1668&nbsp;°C)
+ |  viršanas temperatūra = 3560 K (3287&nbsp;°C)
+ |    trīskāršais punkts = 
+ |     kritiskais punkts = 
+ |   īpatnējā pretestība = (20 °C) 4,2{{E|-7}}
+ |         skaņas ātrums = 5090
+ | Van der Vālsa rādiuss = 0,147
+}}
+
+'''Titāns''' ir [[ķīmiskais elements]] ar simbolu '''Ti''' un [[atomskaitlis|atomskaitli]] 22. Titāns ir viegls, stiprs, spožs un [[korozija]]s izturīgs [[pārejas metāls]] sudraba [[krāsa|krāsā]]. To nespēj "saēst" pat [[jūras ūdens]] un [[hlors]].
+
+== Iegūšana ==
+Lai gan [[daba|dabā]] titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements [[Zemes garoza|Zemes garozā]].<ref name="lenntech"/> Titāns galvenokārt ir sastopams [[rūdas|rūdās]] un kā piemaisījums citu metālu rūdām. Nozīmīgākie titānu saturošie minerāli ir [[rutils]] un [[ilmenīts]], tie abi satur [[titāna dioksīds|titāna dioksīdu]]. Titānu nevar iegūt ar [[pirometalurģija|pirometalurģiskām]] metodēm (reducējot ar [[ogleklis|oglekli]] paaugstinātā temperatūrā), tāpēc, ka tas tad reaģē ar gaisu. Titānu iegūst no [[titāna tetrahlorīds|tetrahlorīda]], kuru pēc tam attīra un reducē inertu gāzu atmosfērā ar [[magnijs|magniju]]. Šī ir dārga metode.
+
+[[Titāna tetrahlorīds]] istabas temperatūrā ir šķidrums. Savienojumos titāns parasti ir četrvērtīgs, ar oksidēšanas pakāpi +4. Pazīstami arī trīsvērtīgā un divvērtīgā titāna savienojumi (tie ir [[reducētāji]]).
+
+== Izmantošana ==
+Titāns tiek plaši izmantots dažādās nozarēs. Tas bieži tiek sakausēts ar [[dzelzs|dzelzi]], [[alumīnijs|alumīniju]], [[vanādijs|vanādiju]], [[molibdēns|molibdēnu]] un citiem elementiem, lai izveidotu izturīgus un vieglus [[sakausējums|sakausējumus]], kurus lieto [[kosmoss|kosmosa]], [[militārisms|militārajās]] un [[rūpniecība]]s nozarēs. Titāna sakausējumi tiek izmantoti arī [[mašīnbūve|mašīnbūvē]], [[lauksaimniecība|lauksaimniecībā]], [[medicīna|medicīnā]]. [[Titāna dioksīds]] tiek izmantots kā [[baltā krāsa|baltais]] pigments [[krāsa|krāsās]].
+
+Medicīnā titānu izmanto [[gūžas|gūžu]] un [[ceļa locītava|ceļa locītavu]] protēžu, [[kauli|kaulu]] plākšņu un skrūvju izgatavošanā un citur.
+
+== Izotopi ==
+Dabā ir sastopami pieci stabili titāna [[izotops|izotopi]]. Visizplatītākais ir titāns-48 (73,72% no kopējā titāna daudzuma dabā).<ref name="jlab"/> Titāns-46 ir 8,25%, titāns-47 ir 7,44%, titāns-49 ir 5,41%, bet titāns-50 ir 5,18% no kopējā daudzuma.<ref name="jlab"/>
+
+== Atsauces ==
+{{commonscat|Titanium|titāns}}
+{{atsauces|refs=
+<ref name="lenntech">{{tīmekļa atsauce | url= http://www.lenntech.com/periodic/elements/ti.htm | title= Titanium - Ti | publisher= Lenntech | accessdate= 2012-02-26 | language= angliski}}</ref>
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso022.html | title= Isotopes of the Element Titanium | publisher= Jefferson Lab | accessdate= 2012-02-26 | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Titāns| ]]

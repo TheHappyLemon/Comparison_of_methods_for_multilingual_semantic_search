@@ -1,0 +1,46 @@
+{{BioTakso infokaste
+| attēls =Olenoides superbus, Late Middle Cambrian, Upper Marjum Formation, House Range, Millard County, Utah, USA - Houston Museum of Natural Science - DSC01415.JPG
+| att_nosaukums ={{TaksoSaite|Olenoides superbus|Trilobīts}}
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| tips =Arthropoda
+| tips_lv =Posmkāji
+| klase =Trilobita 
+| klase_lv =Trilobīti
+| kategorijas =nē
+}}
+
+'''Trilobīti''' (''Trilobita'') ir izmiruša [[posmkāji|posmkāju]] apakštipa '''Trilobītveidīgie''' (''Trilobitomorpha'') vienīgā klase, kas pazīstami no [[paleozoja ēra]]s [[nogulumi]]em. Tie uzplaukumu sasniedza [[silūrs|silūra periodā]], bet sastopami jau no [[kembrijs|kembrija perioda]].
+
+== Morfoloģija ==
+[[Attēls:SamGonIII cepthopyg.png|thumb|left|150px]]
+Kā redzams no nosaukuma «trilobīti» (tas nozīmē «trīsdaivu»), ķermeņa dorsalā puse (mugurpuse) tiem gareniski iedalās vidējā — izliektajā daļā (''rhachis'') un plakanākās sānu daļas pleirās. Šķērsām ķermenis iedalās trīs secīgos nodalījumos (skatīt attēlu). Tas sastāv no pusmēnesveida galvas vairoga (''cephalon''), [[krūškurvis|krūškurvja]], un [[posmkāju vēders|vēdera]],
+kam ir dažāds skaits cits ar citu saaugušu segmentu. Vēdera segmenti ir savstarpēji kustīgi, un tādēļ trilobīts spēj saritināties kamolā.
+Visiem krūšu un vēdera posmiem ir divzarainas pāra [[ekstremitātes]]. Horizontāli saplacinātā ķermeņa apakšējā siena sastāv no mīksta [[hitīns|hitīna]], augšējā — no cieta. Galvas nodalījums sastāv no [[akrons|akrona]], t. i., no priekšējā, posmaino tārpu [[prostomijs|prostomijam]] atbilstoša nodalījuma, uz kura atrodas [[acis]] un pirmais taustekļu pāris, un no četriem pāriem ekstremitāšu, kas atrodas aiz taustekļiem un mutes segmentiem. Galvas katrā pusē ir pa saliktai acij, varēja būt arī vienkāršas acis.
+
+== Attīstība ==
+Trilobīti attīstījās ar [[pārvēršanās|pārvēršanos]], t. i., [[postembrionālā attīstība]] ar [[kāpurs|kāpuru]] fāzēm. Pirmajai kāpuru stadijai — protaspis, bija pilnīgs [[galvas vairogs]], tieši no pakaļpuses tam piekļāvās anālais segments — pirmais [[pigīdijs|pigīdija]] aizmetnis. Tālākajā kāpura attīstībā parādās segmenti starp galvas vairogu un pigīdija aizmetni, segmentu skaits pakāpeniski pieaug; šādu attīstību, kurā palielinās segmentu skaits, sauc par [[anamorfoze|anamorfozi]].
+
+== Klasifikācija ==
+[[Attēls:Dicranurus hamatus elegantus, Early Devonian, Haragan Formation, Coal County, Oklahoma, USA - Houston Museum of Natural Science - DSC01680.JPG|thumb|''Dicranurus hamatus elegantus'']]
+Trilobīti dzīvoja no [[kembrijs|kembrija]] līdz [[perms|perma]] periodam. Trilobītveidīgo apakšklasē (''Trilobitomorpha'') ir tikai viena klase — trilobīti (''Trilobita'') ar vairāk nekā 150 dzimtām un virs 15 000 sugām. Kārtu skaits dažādiem autoriem ir atšķirīgs (8—10 kārtas). [[Latvija|Latvijā]] trilobīti ir sastopami [[kembrijs|kembrija]], [[ordoviks|ordovika]] un [[silūrs|silūra]] nogulumos. Trilobītiem ir ļoti liela nozīme posmkāju [[filoģenētika|filoģenēzes]] izpratnē.
+
+'''Apakštips''' †{{TaksoSaite|Trilobitomorpha|Trilobītveidīgie}}
+* klase †{{TaksoSaite|Trilobita|Trilobīti}}
+** kārta †{{TaksoSaite|Agnostida}}
+** kārta †{{TaksoSaite|Redlichiida}}
+** kārta †{{TaksoSaite|Corynexochida}}
+** kārta †{{TaksoSaite|Lichida}}
+** kārta †{{TaksoSaite|Phacopida}}
+** kārta †{{TaksoSaite|Proetida}}
+** kārta †{{TaksoSaite|Asaphida}}
+** kārta †{{TaksoSaite|Harpetida}}
+** kārta †{{TaksoSaite|Ptychopariida}}
+** kārta †{{TaksoSaite|Nektaspida}}
+(†) — izmirušu organismu grupa.
+
+{{Commons|Trilobita|Trilobīti}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Posmkāji]]

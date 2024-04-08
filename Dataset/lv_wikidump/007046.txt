@@ -1,0 +1,68 @@
+{{ezera infokaste
+|ezers=Tangaņikas ezers
+|attēls=Fisherman on Lake Tanganyika.jpg
+|paraksts=Zvejnieki Tangaņikas ezerā
+|map = Kongo Demokrātiskā Republika#Tanzānija#Āfrika
+| plat_d=6 | plat_m=30 | plat_s= | plat_NS=S
+| gar_d=29 | gar_m=50 | gar_s= | gar_EW=E
+|vieta={{BDI}}<br />{{COD}}<br />{{TZA}}<br />{{ZMB}}
+|platība=32 893
+|garums=673
+|Vid_dziļums=570
+|Max_dziļums=1470
+|tilpums=19 000
+|augstums_vjl=773
+|izteka=[[Lukuga]]
+|baseins=231 000
+|valstis=
+|salas=
+|pilsētas=[[Bužumbura]], [[Kigoma]], [[Kalemī]], [[Uvira]]
+}}
+<mapframe text="Tangaņikas ezers" width=300 height=300 zoom=6 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q5511"
+}
+</mapframe>
+'''Tangaņikas ezers''' (''Tanganyica'') ir otrs lielākais [[ezers]] [[Āfrika|Āfrikā]], tiek uzskatīts, ka tas ir otrs lielākais pasaulē pēc tilpuma un otrs dziļākais pasaulē pēc [[Baikāls|Baikāla]]. Ezers sadalīts starp četrām valstīm — [[Burundi]], [[Tanzānija|Tanzāniju]], [[Kongo Demokrātiskā Republika|Kongo Demokrātisko Republiku]] (KDR) un [[Zambija|Zambiju]]. KDR pieder 45% ezera, Tanzānijai — 41%.<ref>{{Tīmekļa atsauce |url=http://www.ilec.or.jp/database/afr/afr-06.html |title=International Lake Environment Committee |access-date={{dat|2008|03|14||bez}} |archiveurl=https://web.archive.org/web/20080328152837/http://www.ilec.or.jp/database/afr/afr-06.html |archivedate={{dat|2008|03|28||bez}} }}</ref>
+
+Ezerā darbojas divi prāmji — ''MV Liemba'' (kursē starp Kigomu un Mpulungmu) un ''MW Mwongozo'' (kursē starp Kigomu un Bužumburu).
+
+Pirmie eiropieši ezeru sasniedza [[1858]]. gadā — tie bija ceļotāji [[Ričards Bērtons (ceļotājs)|Ričards Bērtons]] un [[Džons Speke]]. Ceļojuma mērķis bija atrast [[Nīla]]s izteku, ko Speke arī paveica, atrodot [[Viktorijas ezers|Viktorijas ezeru]].
+
+== Ģeogrāfija ==
+[[Attēls:lake tanganyika.jpg|thumb|left|200px|Tanganjikas ezers no kosmosa, 1985. gada jūnijs]]
+Ezers atrodas Āfrikas Lielā Rifta zonā un tā krastus daudzviet veido stāvas, augstas kraujas. Lielākais tektoniskā lūzuma zonā izvietotais ezers Āfrikā. Dziļākais un pēc tilpuma lielākais ezers Āfrikā. Caurmērā 50 km plats. Krasta līnijas garums ir 1828 km. Vidējā ūdens temperatūra augšējos slāņos ir {{nobr|25&nbsp;°C}}.
+
+Ezera lielais dziļums un atrašanās tropu joslā noslāņo ezera ūdeni dziļuma joslās, kas savā starpā nesajaucas. Lielākā dziļumā atrodas ūdens bez skābekļa.
+
+Lielākās ezerā ietekošās upes ir [[Ruzizi]], [[Malagarasi]], [[Kalambo]]. Malagarasi upe ir vecāka nekā Tanganjikas ezers un agrāk tecēja uz Kongo upes baseinu. Ezera izteka [[Lukuga]] tek uz [[Kongo (upe)|Kongo]] baseinu.
+
+== Sugu daudzveidība un zvejniecība ==
+[[Attēls:Neolamprologus cylindricus.jpg|thumb|200px|left|''Neolamprologus cylindricus'' - viena no Tangaņikas ezera zivju sugām.]]
+Ezerā dzīvo ap 400 sugu zivis. Lielākā daļa šo zivju sugu dzīvo tikai Tangaņikas ezerā un citur pasaulē nav sastopamas. Lielākā sugu daudzveidība ir piekrastē, savukārt lielākā zivju biomasa - ezera centrālajā rajonā ([[pelaģiāle]]). [[endēms|Endēmiskas]] ir arī daudzu citu Tangaņikas ezerā dzīvojošu organismu sugas — moluski (kuri šeit bieži ir radniecīgi jūras moluskiem), vēžveidīgie, medūzas, dēles u.c.
+
+Daļa no Tangaņikas ezera zivju sugām ir populāras akvārija zivtiņas pateicoties to košajām krāsām, neparastajām ķermeņa formām un relatīvi labi attīstītajam intelektam.
+
+Pašlaik ap 45 000 ap Tangaņikas ezeru dzīvojošo cilvēku iesaistīti zvejniecībā, ezera krastos atrodas ap 800 zvejas ostas. Aptuveni 1 miljons cilvēku ir atkarīgi no nozvejas. [[1995]]. gadā Tangaņikas ezerā tika noķertas {{nobr|180 000}} tonnas zivju un iezīmējas izteikta pārzvejošana, kas var novest pie straujas zivju resursu izsīkšanas.
+
+== Atsauces ==
+{{atsauces}}
+
+== Skatīt arī ==
+* [[Pasaules lielāko ezeru saraksts]]
+* [[Pasaules lielākie ezeri pēc tilpuma]]
+* [[Pasaulē dziļākie ezeri]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Burundijas ezeri]]
+[[Kategorija:Kongo Demokrātiskās Republikas ezeri]]
+[[Kategorija:Tanzānijas ezeri]]
+[[Kategorija:Zambijas ezeri]]
+[[Kategorija:Āfrikas Lielie ezeri]]

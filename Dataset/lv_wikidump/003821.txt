@@ -1,0 +1,93 @@
+{{BioTakso infokaste
+| attēls =Primates - some families.jpg
+| att_nosaukums= Dažas primātu dzimtas (no augšas uz leju): <br />[[slaidpirkstaiņu dzimta|slaidpirkstaiņi]] (''Daubentoniidae''), [[tarsiji]] (''Tarsiidae''), [[lemuru dzimta|lemuri]] (''Lemuridae''), [[loru dzimta|lori]] (''Lorisidae''), [[kapucīnu dzimta|kapucīni]] (''Cebidae''), [[kalitriksu dzimta|kalitriksi]] (''Callitrichidae''), [[zirnekļpērtiķu dzimta|zirnekļpērtiķi]] (''Atelidae''), [[mērkaķu dzimta|mērkaķi]] (''Cercopithecidae''), [[gibonu dzimta|giboni]] (''Hylobatidae''), [[cilvēkpērtiķi]] (''Hominidae'').
+| valsts =Animalia
+| valsts_lv =Dzīvnieki
+| valsts_r =Dzīvnieki
+| tips =Chordata
+| tips_lv =Hordaiņi
+| klase =Mammalia
+| klase_lv =Zīdītāji
+| apakšklase=Theria
+| apakšklase_lv=Dzemdētājzīdītāji
+| infraklase =Eutheria
+| infraklase_lv =Placentāļi
+| virskārta = Euarchontoglires
+| virskārta_lv = Pirmprimātu placentāļi
+| lielkārta = Euarchonta
+| lielkārta_lv = Euarhonti
+| kārta =Primates
+| kārta_lv =Primāti
+| binomial=Primates <small>([[Kārlis Linnejs|Linnaeus]], 1758)</small>
+| iedalījums =
+2 apakškārtas:
+*[[Sausdeguna pērtiķi]] (''Haplorrhini'')
+*[[Slapjdeguna pērtiķi]] (''Strepsirrhini'')
+}}
+'''Primāti''' (''Primates'') ir viena no [[zīdītāji|zīdītāju klases]] (''Mammalia'') kārtām. Pie primātiem pieder visas [[puspērtiķis|puspērtiķu]], [[pērtiķis|pērtiķu]], [[cilvēkpērtiķi un cilvēks|cilvēkveidīgo pērtiķu]] (t.sk. [[cilvēks|cilvēku]]) sugas. Primātu sugu priekšteči mājoja [[tropi]]sko [[mežs|mežu]] kokos un joprojām lielākā daļa sugu mājo kokos vai daļēji kokos. Ja neskaita cilvēku apdzīvotās teritorijas, primāti visbiežāk ir sastopami tropu un subtropu reģionos [[Centrālamerika|Centrālajā Amerikā]], [[Dienvidamerika|Dienvidamerikā]], [[Āfrika|Āfrikā]] un [[Dienvidāzija|Dienvidāzijā]].<ref>[http://www.britannica.com/EBchecked/topic/476264/primate Britannica: Primates]</ref> Dažas primātu sugas ir sastopamas pat tik tālu ziemeļos kā [[Meksika]]s dienvidu daļā un [[Japāna]]s ziemeļu daļā.
+
+Primāti ir daudzveidīga kārta, kuru pārstāv apmēram 293 sugas.<ref>{{Tīmekļa atsauce |url=http://www.dabasmuzejs.gov.lv/node/86 |title=Primātu kārtas sugu nosaukumi latviešu valodā |access-date={{dat|2013|08|26||bez}} |archive-date={{dat|2014|03|30||bez}} |archive-url=https://web.archive.org/web/20140330100024/http://www.dabasmuzejs.gov.lv/node/86 }}</ref> Mazākie primāti ir peles lielumā, savukārt lielākie (gorillas) cilvēka augumā (180 cm).<ref>{{Tīmekļa atsauce |url=http://rigazoo.lv/public/29270.html |title=Rīgas Zoo: Primāti |access-date={{dat|2013|08|26||bez}} |archiveurl=https://web.archive.org/web/20120707062701/http://rigazoo.lv/public/29270.html |archivedate={{dat|2012|07|07||bez}} }}</ref> Ik pa laikam zinātnieki atklāj jaunas primātu sugas.<ref>[http://www.bigfootresearch.com/index.php?name=News&file=article&sid=224 The role of circumstantial evidence in the discovery of new species of primate]</ref><ref>[http://news.mongabay.com/profiles/new_species.html Finding new species]</ref> Laikā no 2000. gada līdz 2010. gadam tika aprakstītas 25 jaunas sugas, bet kopš 2010. gada 11 jaunas sugas.
+
+Latviešu valodas vārds "primāts" ir cēlies no [[Latīņu valoda|latīņu valodas]] vārda ''primas'' (pirmais, izcilais, dižciltīgais) daudzskaitļa formas ''primates.''
+
+== Sistemātikas izmaiņas ==
+[[Attēls:Katta Lemur catta.jpg|thumb|180px|left|[[Lemuri]] sasniedza Madagaskaru jau tad, kad sala bija atdalījusies no Āfrikas, attēlā [[kaķu lemurs]] (''Lemur catta'')]]
+[[Attēls:Tarsier Hugs Mossy Branch.jpg|thumb|180px|left|[[Tarsiji]] pēdējos 48 miljonus gadu tikpat kā nav mainījušies]]
+Primātu grupa mūsdienu sistemātikā veido monofilētisku grupu, kas tiek iedalīta 2 apakškārtās: [[sausdeguna pērtiķi|sausdeguna pērtiķos]] un [[slapjdeguna pērtiķi|slapjdeguna pērtiķos]]. Toties kopā ar [[ādlidoņi]]em (''Dermoptera'') un [[tupajas|tupajām]] (''Scandentia'') primāti veido [[evarhonti|evarhontu kladu]] (''Euarchonta''), kas savukārt ietilpst [[pirmprimātu placentāļi|pirmprimātu placentāļu virskārtā]] (''Euarchontoglires''). Lai arī tupajas kādu laiku pagātnē ir tikušas sistematizētas kā primāti, [[ģenētika|ģenētiskajos]] pētījumos atklājies, ka ādlidoņi ir tuvāk radniecīgi primātiem nekā tupajas.<ref>Janečka, J. E.; Miller, W., Pringle, T. H., Wiens, F., Zitzmann, A., Helgen, K. M., Springer, M. S. & Murphy, W. J. (2007). "Molecular and Genomic Data Identify the Closest Living Relative of Primates". Science 318 (5851): 792–794. Bibcode:2007Sci...318..792J</ref>
+
+== Evolūcija ==
+Primātu grupa sāka attīstīties vismaz pirms 65 miljoniem gadu<ref name=paleo>[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841917/ New perspectives on anthropoid origins]</ref>, lai arī vecākās zināmās primātu [[fosilija]]s ir apmēram 55 miljonus gadu vecas [[paleocēns|paleocēna]] beigu vai [[eocēns|eocēna]] sākuma fosilijas.<ref name=paleo/><ref>[http://www.lsa.umich.edu/paleontology/ Deep Time and the Search for Anthropoid Origins]</ref> Toties, balstoties uz molekulārajiem pētījumiem, ir izvirzīta hipotēze, ka senākie primāti dzīvojuši jau pirms 85 miljoniem gadu.<ref>Lee, M. (September 1999). "Molecular Clock Calibrations and Metazoan Divergence Dates". Journal of Molecular Evolution 49 (3): 385–391. doi:10.1007/PL00006562</ref><ref>[http://www.sciencedaily.com/releases/2002/04/020418073440.htm Scientists Push Back Primate Origins From 65 Million To 85 Million Years Ago]</ref>
+
+=== Slapjdeguna pērtiķi ===
+[[Slapjdeguna pērtiķi]] no kopējā primātu priekšteča atdalījās pirms apmēram 63 miljoniem gadu<ref>[http://mbe.oxfordjournals.org/content/18/3/393.full Molecular Remodeling of Members of the Relaxin Family During Primate Evolution]</ref>, lai gan daži zinātnieki uzskata, ka tas varēja notikt arī agrāk.<ref name=genome>[http://genome.cshlp.org/content/18/3/489.full.pdf+html Development and Application of a Phylogenomic Toolkit: Resolving the Evolutionary History of Madagascar's Lemurs]</ref> Eocēna laikā lielākajā daļā ziemeļu kontinentu dominēja divas seno primātu grupas: ''[[Adapiformes]]'' un [[omomīdi]] (''Omomyidae'').<ref>Hartwig, W. (2007). "Primate Evolution". In Campbell, C., Fuentes, A., MacKinnon, K., Panger, M. & Bearder, S. Primates in Perspective. Oxford University Press. pp. 13–17. {{ISBN|978-0-19-517133-4}}.</ref> ''Adapiformes'' infrakārtai piederošais ''[[Darwinius masillae]]'' pieder pie [[slapjdeguna pērtiķi]]em.<ref>{{Tīmekļa atsauce |url=http://strainlab.uchicago.edu/publications/Williams%20et%20al%202010.pdf |title=Darwinius masillae is a strepsirrhineda reply to Franzen et al. (2009) |access-date={{dat|2015|09|04||bez}} |archiveurl=https://web.archive.org/web/20130517155919/http://strainlab.uchicago.edu/publications/Williams%20et%20al%202010.pdf |archivedate={{dat|2013|05|17||bez}} }}</ref> Toties omomīdu dzimtas sugas pieder pie [[tarsiji|tarsiju infrakārtas]], kas savukārt pieder pie [[sausdeguna pērtiķi]]em. Omomīdi izmira pirms 30 miljoniem gadu, bet ''Adapiformes'' sugas izmira pirms 10 miljoniem gadu.<ref>Ciochon, R. & Fleagle, J. (1987). Primate Evolution and Human Origins. Menlo Park, California: Benjamin/Cummings. p. 72. {{ISBN|978-0-202-01175-2}}.</ref>
+
+Slapjdeguna pērtiķi iedalās divās lielās grupās: Madagaskarā dzīvojošos lemuros un Āfrikā un Āzijā dzīvojošos [[loru virsdzimta|loros]]. Saskaņā ar ģenētiskajiem pētījumiem Madagaskarā dzīvojošie [[lemuri]] no loriem atdalījās pirms 75 miljoniem gadu<ref name=genome/>, lai gan [[Madagaskara]] no [[Āfrika]]s atdalījās pirms 160 miljoniem gadu, bet no [[Indija]]s pirms 90 miljoniem.<ref name=mite>Mittermeier, R.A.; et al. (2006). Lemurs of Madagascar (2nd ed.). Conservation International. pp. 23–26. {{ISBN|1-881173-88-7}}.</ref> Ņemot vērā šo faktu, iespējams, ka Madagaskaru uz dreifējoša  dabiska plosta savulaik ir sasniegusi kāda neliela lemuru populācija, kas kļuva par visu Madagaskaras lemuru priekštečiem. Tas varēja notikt pirms 50 - 80 miljoniem gadu.<ref name=genome/><ref name=mite/> Šādu hipotēzi stiprina fakts, ka visi lemuri savstarpēji ir daudz radniecīgāki, nekā ar citiem slapjdeguna pērtiķiem. Ir arī otra hipotēze par lemuru nokļūšanu Madagaskarā, lemuriem salu gan no Āfrikas, gan Indijas sasniedzot vairākas reizes, tomēr šādu ieceļošanu neatbalsta ģenētisko pētījumu analīzes.<ref>Sellers, Bill (2000-10-20). "Primate Evolution" (PDF). University of Edinburgh. pp. 13–17. Retrieved 2008-10-23.</ref>
+
+=== Sausdeguna pērtiķi ===
+[[Attēls:Tamarin portrait 2 edit3.jpg|thumb|180px|Visticamākais, ka [[Jaunās pasaules pērtiķi]] Ameriku sasniedza, dreifējot pāri Atlantijas okeānam uz kādas zemes atlūzas, attēlā [[imperatora tamarīns]] (''Saguinus imperator'')]]
+[[Sausdeguna pērtiķi]] iedalās divās infrakārtās: [[tarsiji|tarsijos]] un [[augstākie primāti|augstākajos primātos]]. Tarsiji laika gaitā tikpat kā nav mainījušies, no pārējiem primātiem tie atdalījās apmēram pirms 58 miljoniem gadu.<ref>{{Tīmekļa atsauce |url=http://rmbr.nus.edu.sg/bejc/ |title=Evolutionary Biology of Tarsiers |access-date={{dat|2013|08|29||bez}} |archive-date={{dat|2008|09|07||bez}} |archive-url=https://web.archive.org/web/20080907073204/http://rmbr.nus.edu.sg/bejc/ }}</ref> Vecākā zināmā sausdegunu pērtiķu fosilija ir apmēram 55 miljonus gadu veca un tā pieder tarsiju grupai. Tā tika atrasta [[Ķīna|Ķīnā]]<ref>{{Tīmekļa atsauce |url=http://news.sciencemag.org/2013/06/early-primate-weighed-less-ounce |title=Early Primate Weighed Less Than an Ounce |access-date={{dat|2013|08|29||bez}} |archive-date={{dat|2013|08|21||bez}} |archive-url=https://web.archive.org/web/20130821065700/http://news.sciencemag.org/2013/06/early-primate-weighed-less-ounce }}</ref> un apliecina jau agrāk izvirzītu hipotēzi, ka tarsiju grupa attīstījās un izveidojās Āzijā.<ref>Kay, R. F. (2012-06-26). "Evidence for an Asian origin of stem anthropoids". Proceedings of the National Academy of Sciences 109 (26): 10132–10133. doi:10.1073/pnas.1207933109. ISSN 0027-8424</ref> Augstākie primāti kā grupa izveidojās pirms apmēram 40 miljoniem gadu, iespējams, ka to izcelsmes vieta arī ir Āzija. Ja tie izveidojās Āzijā, tad drīz pēc tam tie sasniedza jau Āfriku. Augstākie primāti iedalās [[Vecās pasaules pērtiķi|Vecās pasaules pērtiķos]] un [[Jaunās pasaules pērtiķi|Jaunās pasaules pērtiķos]]. Evolūcijas gaitā bija vēl trešā grupa - [[eosimīdi]] (''Eosimiidae''), kas dzīvoja Āzijā un izmira pirms apmēram miljona gadu.<ref>[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150860/ Anthropoid primates from the Oligocene of Pakistan (Bugti Hills): Data on early anthropoid evolution and biogeography]</ref> Līdzīgi kā ar lemuriem, kuru ierašanos Madagaskarā zinātnieki līdz šim nav spējuši neapgāžami pierādīt, arī Jaunās pasaules pērtiķu nokļūšanu līdz [[Amerika]]i zinātnieki nespēj pierādīt. Kopumā par pērtiķu ceļošanu no [[Vecā pasaule|Vecās pasaules]] uz [[Jaunā pasaule|Jauno pasauli]] pastāv vairākas hipotēzes. Balstoties uz molekulārajiem pētījumiem, Jaunās pasaules pērtiķu grupa atdalījās no pārējiem pērtiķiem apmēram pirms 33 - 70 miljoniem gadu, bet, balstoties uz [[DNS]] pētījumiem, tas notika pirms 35 - 43 miljoniem gadu.<ref>[http://mbe.oxfordjournals.org/content/20/10/1620.full.pdf Timing the Origin of New World Monkeys]</ref> Pagātnē okeāns starp Ameriku un Āfriku nebija tik plats un to varēja pārvarēt apmēram 13 dienās, dreifējot uz kādām zemes atlūzām. Zinātnieki uzskata, ka primāts, kas pārvarēja okeānu, varēja būt neliela auguma un nesvēra vairāk par 1 kg. Ceļojuma aprēķini veikti, ņemot vērā okeāna iespējamās straumes un vēju.<ref>Houle, A. (1999). "The origin of platyrrhines: An evaluation of the Antarctic scenario and the floating island model". American Journal of Physical Anthropology 109 (4): 541–559. doi:10.1002/(SICI)1096-8644(199908)109:4<541::AID-AJPA9>3.0.CO;2-N. {{PMID|10423268}}</ref>
+
+== Klasifikācija ==
+* '''Primātu kārta''' (''Primates'')
+** apakškārta [[Sausdeguna pērtiķi]] (''Haplorrhini'')
+*** infrakārta [[Augstākie primāti]] (''Simiiformes'')
+**** sīkkārta [[Jaunās pasaules pērtiķi]] (''Platyrrhini'')
+***** dzimta [[Bezausu pērtiķi]] (''Aotidae'')
+***** dzimta [[Kapucīnu dzimta|Kapucīni]] (''Cebidae'')
+***** dzimta [[Saki dzimta|Saki]] (''Pitheciidae'')
+***** dzimta [[Zirnekļpērtiķu dzimta|Zirnekļpērtiķi]] (''Atelidae'')
+**** sīkkārta [[Vecās pasaules pērtiķi un cilvēks]] (''Catarrhini'')
+***** virsdzimta [[Augstākie šaurdeguna pērtiķi un cilvēks]] (''Hominoidea'')
+****** dzimta [[Cilvēkpērtiķi un cilvēks]] (''Hominidae'')
+****** dzimta [[Gibonu dzimta|Giboni]] (''Hylobatidae'')
+***** virsdzimta [[Zemākie šaurdeguna pērtiķi]] (''Cercopithecoidea'')
+****** dzimta [[Mērkaķu dzimta|Mērkaķi]] (''Cercopithecidae'')
+*** infrakārta [[Tarsiji]] (''Tarsiiformes'')
+**** dzimta [[Tarsiji]] (''Tarsiidae'')
+** apakškārta [[Slapjdeguna pērtiķi]] (''Strepsirrhini'')
+*** infrakārta [[Lemurveidīgie]] (''Lemuriformes'')
+**** virsdzimta [[Lemuri]] (''Lemuroidea'')
+***** dzimta [[Indri dzimta|Indri]] (''Indriidae'')
+***** dzimta [[Lemuru dzimta|Lemuri]] (''Lemuridae'')
+***** dzimta [[Peļlemuru dzimta|Peļlemuri]] (''Cheirogaleidae'')
+***** dzimta [[Slaidlemuru dzimta|Slaidlemuri]] (''Lepilemuridae'')
+***** dzimta [[Slaidpirkstaiņu dzimta|Slaidpirkstaiņi]] (''Daubentoniidae'')
+**** virsdzimta [[Loru virsdzimta|Lori]] (''Lorisoidea'')
+***** dzimta [[Galago dzimta|Galago]] (''Galagidae'')
+***** dzimta [[Loru dzimta|Lori]] (''Lorisidae'')
+
+Tomēr starp sistemātiķiem nav vienprātības par lemurveidigo infrakārtas sistemātiku. Ir [[zinātnieki]], kas lemurveidīgo infrakārtā sistematizē tikai [[lemuri|lemurus]], bet [[loru virsdzimta|lorus]] izdala atsevišķā [[lorveidīgie|lorveidīgo infrakārtā]] (''Lorisiformes'').<ref>{{Tīmekļa atsauce |url=http://uts.cc.utexas.edu/~bramblet/ant301/eight.html |title=Primates as an Adaptive Array |access-date={{dat|2013|08|23||bez}} |archiveurl=https://web.archive.org/web/20130516012415/http://uts.cc.utexas.edu/~bramblet/ant301/eight.html#anchor1077246 |archivedate={{dat|2013|05|16||bez}} }}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20160312071157/http://www.l2d.lv/l.php?doc_id=203722 LZA Terminoloģijas komisijas lēmums Nr.83 Par primātu latvisko nosaukumu apstiprināšanu]
+* [http://www.diena.lv/tehnologijas/jaunumi/tomer-nav-senakais-sencis-669587 Tomēr nav senākais sencis?]
+* [https://web.archive.org/web/20140915195507/http://lv.worldimages.pro/search/text:Prim%C4%81ti Primātu foto]
+* [https://web.archive.org/web/20140915133952/http://www.atklajumi.lv/component/tortags/tag/prim%C4%81ti?Itemid=577 Atklājumi: Primāti]
+* [http://www.diena.lv/arhivs/primati-radas-dinozauru-vieta-13057916 Primāti radās dinozauru vietā]
+* [http://www.uzdevumi.lv/ExerciseRun/RunExercise?exerciseId=d2a80af3-7f70-4422-8477-761bf4072311&parentType=VirtualSchool&parentId=767 Cilvēces pirmsākumi aizvēstures laikmeti]
+{{autoritatīvā vadība}}

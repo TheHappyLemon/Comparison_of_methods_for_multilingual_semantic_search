@@ -1,0 +1,119 @@
+{{nosaukums slīprakstā}}
+{{Futbola kluba infokaste
+| text_color = #02406C
+| bg_color   = #ffff00
+| nos        = ''Villarreal''
+| logo       = [[Attēls:500px-Villarreal_CF_logo.svg.png|175px]]
+| pilns      = ''Villarreal Club de Fútbol, S.A.D.''
+| iesauka    = ''El Submarino Amarillo''<br>(Dzeltenā zemūdene)
+| pilsēta    = {{Vieta|Spānija|Vilareala}}
+| dib        = 1923
+| dib_mēn    = 3
+| dib_dat    = 10
+| stad       = [[Keramikas stadions]]
+| ietilp     = 24 890
+| prez       = {{flaga|Spānija}} Fernando Roigs
+| tren       = {{flaga|Spānija}} [[Marselino Garsija Torals|Marselino]]
+| līga       = [[Spānijas futbola čempionāta Pirmā divīzija|Spānijas Pirmā divīzija]]
+| sez        = [[2022.—2023. gada Spānijas futbola čempionāta Pirmās divīzijas sezona|2022.—2023.]]
+| poz        = 5. vieta
+| pattern_la1   = _villarreal2021h
+| pattern_b1    = _villarreal2021h
+| pattern_ra1   = _villarreal2021h
+| pattern_so1   = 
+| pattern_sh1   = _villarreal2021h
+| leftarm1      = FFFF00
+| body1         = FFFF00
+| rightarm1     = FFFF00
+| shorts1       = FFFF00
+| socks1        = FFFF00
+| pattern_la2   = _villarreal2021a
+| pattern_b2    = _villarreal2021a
+| pattern_ra2   = _villarreal2021a
+| pattern_so2   = 
+| pattern_sh2   = _villarreal2021a
+| leftarm2      = 000040
+| body2         = 000040
+| rightarm2     = 000040
+| shorts2       = 000040
+| socks2        = 000040
+| pattern_la3   = _villarreal2021t
+| pattern_b3    = _villarreal2021t
+| pattern_ra3   = _villarreal2021t
+| pattern_so3   = 
+| pattern_sh3   = 
+| leftarm3      = 30D5C8
+| body3         = EB143C
+| rightarm3     = 30D5C8
+| shorts3       = 30D5C8
+| socks3        = 30D5C8
+}}
+
+'''''Villarreal Club de Fútbol, S.A.D.''''', biežāk zināms kā '''''Villarreal CF''''' vai vienkārši '''''Villarreal''''', ir [[Spānija]]s [[futbols|futbola]] klubs no [[Vilareala]]s, nelielas pilsētas [[Kasteljonas province|Kasteljonas provincē]]. Klubs dibināts 1923. gadā, pašlaik spēlē Spānijas futbola čempionāta augstākajā līgā - [[Spānijas futbola čempionāta Pirmā divīzija|Pirmajā divīzijā]] jeb ''La Liga''. Komanda mājas spēles aizvada [[Keramikas stadions|Keramikas stadionā]] (agrāk — ''El Madrigal'') ar ietilpību 24 890 vietas.
+
+Komanda pirmoreiz Pirmajā divīzijā spēlēja 1998.–1999. gada sezonā. Augstākie sasniegumi ir 2007.–2008. gada sezonā iegūtā 2. un 2004.–2005. gada sezonā iegūtā trešā vieta.<ref>{{Tīmekļa atsauce|url=http://www.laliga.es/estadisticas-historicas/clasificacion/Primera/2007-08/|title=Clasificación. Liga BBVA. Temporada: 2007-08.|accessdate={{dat|2015|10|28||bez}}|publisher=Liga de Fútbol Profesional|archiveurl=https://web.archive.org/web/20170709164349/http://www.laliga.es/estadisticas-historicas/clasificacion/primera/2007-08/|archivedate={{dat|2017|07|09||bez}}}}</ref><ref>{{Tīmekļa atsauce|url=http://www.laliga.es/estadisticas-historicas/clasificacion/Primera/2004-05/|title=Clasificación. Liga BBVA. Temporada: 2004-05.|accessdate={{dat|2015|10|28||bez}}|publisher=Liga de Fútbol Profesional|archiveurl=https://web.archive.org/web/20160318110739/http://www.laliga.es/estadisticas-historicas/clasificacion/primera/2004-05|archivedate={{dat|2016|03|18||bez}}}}</ref> Klubs divas reizes (2003., 2004.) uzvarējis [[UEFA Intertoto kauss|Intertoto kausa]] turnīrā (šajos gados turnīram bija trīs uzvarētājkomandas, kuras visas kvalificējās [[UEFA Eiropas līga|UEFA kausa]] turnīram). Lielākais panākums [[UEFA Čempionu līga|UEFA Čempionu līgā]] ir 2005.–2006. gada sezonā sasniegtais pusfināls, kad komanda divu spēļu summā ar 0–1 piekapās [[Arsenal FC|Londonas "Arsenal"]].<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefachampionsleague/season=2005/index.html|title=UEFA Champions League 2005/06 - History|accessdate={{dat|2015|10|28||bez}}|publisher=UEFA.com}}</ref>
+
+== Komandas sastāvs ==
+''Atjaunots {{Dat|2022|3|23||bez}}''.
+{{Fs start}}
+{{Fs player|name=[[Serhio Asenho]]|pos=GK|no=1|nat=ESP}}
+{{Fs player|name=[[Mario Gaspars]]|nat=ESP|pos=DF|no=2|other=[[Kapteinis (futbols)|kapteinis]]}}
+{{Fs player|no= 3|nat=ESP|pos=DF|name=[[Rauls Alviols]]}}
+{{Fs player|no= 4|nat=ESP|pos=DF|name=[[Pau Torress]]}}
+{{Fs player|no= 5|nat=ESP|pos=MF|name=[[Dani Pareho]]}}
+{{Fs player|no= 6|nat=FRA|pos=MF|name=[[Etjēns Kapū]]}}
+{{Fs player|no= 7|nat=ESP|pos=FW|name=[[Žerārs Moreno]]}}
+{{Fs player|no= 8|nat=ARG|pos=DF|name=[[Huans Foits]]}} 
+{{Fs player|no= 9|nat=ESP|pos=FW|name=[[Pako Alkasers]]}}
+{{Fs player|no=10|nat=ESP|pos=MF|name=[[Visente Iborra]]|other=[[Kapteinis (futbols)|vicekapteinis]]}}
+{{Fs player|no=11|nat=NGA|pos=FW|name=[[Semjuels Čukvueze]]}}
+{{Fs player|no=12|nat=ECU|pos=DF|name=[[Perviss Estupinjans]]}}
+{{Fs player|no=13|nat=ARG|pos=GK|name=[[Heronimo Rulji]]}}
+{{Fs mid}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Manu Trigeross]]}}
+{{Fs player|no=15|nat=NED|pos=FW|name=[[Arnauts Danjuma]]}}
+{{Fs player|no=16|nat=SEN|pos=FW|name=[[Bulaje Dia]]}}
+{{Fs player|no=17|nat=ARG|pos=MF|name=[[Džovani Lo Selso]]|other=īrē no [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{Fs player|no=18|nat=ESP|pos=DF|name=[[Alverto Moreno]]}}
+{{Fs player|no=19|nat=FRA|pos=MF|name=[[Fransiss Koklēns]]}}
+{{Fs player|no=20|nat=ESP|pos=DF|name=[[Rubens Penja]]}}
+{{Fs player|no=21|nat=ESP|pos=MF|name=[[Eremijs Pino]]}}
+{{Fs player|no=22|nat=ALG|pos=DF|name=[[Aīsa Māndī]]}}
+{{Fs player|no=23|nat=ESP|pos=MF|name=[[Moi Gomess]]}}
+{{Fs player|no=24|nat=ESP|pos=MF|name=[[Alfonso Pedrasa]]}}
+{{Fs player|no=25|nat=CIV|pos=DF|name=[[Seržs Orjē]]}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Spānijas futbola čempionāta Pirmā divīzija|Spānijas čempionāta Pirmā divīzija (''La Liga'')]]'''
+** Vicečempioni (1): 2007–08
+* '''[[Spānijas futbola čempionāta Otrā divīzija|Otrā divīzija]]'''
+** Vicečempioni (1): 2012–13
+* '''Otrā B divīzija'''
+** Vicečempioni (2): 1987–88, 1991–92
+* '''Trešā divīzija'''
+** Uzvarētāji  (1): 1970
+* '''[[UEFA Čempionu līga]]'''
+** Pusfinālisti (1): 2005–06
+* '''[[UEFA Eiropas līga|UEFA kauss / UEFA Eiropas līga]]'''
+** Kausa ieguvēji (1): 2020–21 
+** Pusfinālisti (3): 2003–04, 2010–11, 2015–16
+* '''[[UEFA Superkauss]]'''
+** Finālisti (1): 2021
+* '''[[UEFA Intertoto kauss]]'''
+** Uzvarētāji (2): 2003, 2004
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [http://www.villarrealcf.es Oficiālā kluba vietne] {{es ikona}} {{ca ikona}} {{en ikona}}
+
+{{futbols-aizmetnis}}
+{{La Liga}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Spānijas futbola klubi]]
+[[Kategorija:Villarreal CF]]

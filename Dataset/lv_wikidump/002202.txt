@@ -1,0 +1,679 @@
+'''Starptautisko tālsarunu kodu saraksts''' ietver starptautisko [[tālsarunu kodi|tālsarunu kodu]] (STK) uzskaitījumu.
+
+== Vēsture ==
+Pirmo starptautisko tālsarunu kodu sarakstu (''CCITT Red Book'') 1960. gadā ieviesa [[ANO]] ietilpstošā Starptautiskā Telekomunikāciju savienība. Sākotnējā sarakstā apmēram 50 valstīm piešķīra divciparu kodus. STK no 70 līdz 79 paredzēja piešķirt [[Padomju Savienība|PSRS]] Eiropas daļas "suverēnajām" republikām ([[Krievijas PFSR]], [[Baltkrievijas PSR]], [[Ukrainas PSR]], [[Moldāvijas PSR]], [[Igaunijas PSR]], [[Latvijas PSR]], [[Lietuvas PSR]], [[Armēnijas PSR]], [[Azerbaidžānas PSR]], [[Gruzijas PSR]]).
+
+Dekolonizācijas periodā 1964. gadā ieviesa jaunu dalījumu (''CCITT Blue Book''), kurā pasaules valstis sadalīja deviņās zonās, kodu skaitu palielināja, pie kam dažas valstis izmantoja viencipara kodu (piemēram, [[Amerikas Savienotās Valstis|ASV]] un [[Kanāda]] — 1, [[Padomju Savienība|PSRS]] — 7), vairumam Eiropas valstu piešķīra divciparu kodus, kas sākās ar 3 vai 4 (Grieķija 30, Nīderlande 31, Belģija 32, Francija 33, Spānija 34, Turcija 36, [[Dienvidslāvija]] 38, Itālija 39, Šveice 41, [[Čehoslovākija]] 42, Austrija 43, Apvienotā Karaliste 44, Dānija 45, Zviedrija 46, Norvēģija 47, Polija 48, [[Rietumvācija|VFR]] 49).
+STK 35 un 40 nepiešķīra, bet gan sadalīja šādām Eiropas valstīm: [[Gibraltārs]] 350, [[Portugāle]] 351, [[Luksemburga]] 352, [[Īrija]] 353, [[Islande]] 354, [[Malta]] 356, [[Kipra]] 357, [[Somija]] 401, [[Ungārija]] 402, [[Bulgārija]] 403, [[Rumānija]] 404, [[Albānija]] 405.
+
+1968. gadā tālsarunu kodu sarakstu atkal izmainīja (''CCITT White Book''), Turciju pieskaitīja Āzijas valstīm, piešķirot kodu 90. Eiropā jaunus kodus piešķīra Ungārijai 36, [[Vācijas Demokrātiskā Republika|VDR]] 37, bet Rumānijai 40, tādēļ STK izmainīja Albānijai 355, Somijai 358 un Bulgārijai 359.
+
+Pēc jaunu valstu izveides tālsarunu kodu sarakstu mainīja 1972. gadā (''Green Book''), 1976. gadā (''Orange Book'') un 1980. gadā (''Yellow Book'').
+
+Pēc [[Vācijas Demokrātiskā Republika|VDR]] pievienošanas [[Rietumvācija|VFR]] atbrīvojās kods 37, tādēļ 1993. gada janvārī jaunus trīsciparu STK piešķīra [[Lietuva]]i 370, [[Latvija]]i 371, [[Igaunija]]i 372 un [[Moldova]]i 373, vēlāk [[Armēnija]]i 374, [[Baltkrievija]]i 375, [[Andora]]i 376, [[Monako]] 377, [[Sanmarīno]] 378 un Vatikānam 379.
+
+Savukārt pēc [[Dienvidslāvija]]s sabrukuma atbrīvojās kods 38, tādēļ 1993. gada okobrī jaunus trīsciparu STK piešķīra [[Serbija]]i un [[Melnkalne]]i 381, [[Horvātija]]i 385, [[Slovēnija]]i 386, [[Bosnija]]i 387 un [[Ziemeļmaķedonija|Maķedonija]]i 389. 1995. gada aprīlī STK 380 piešķīra [[Ukraina]]i.
+
+Jaunus STK pēc 1994. gada piešķīra arī [[Tadžikistāna]]i 992, [[Turkmenistāna]]i 993, [[Azerbaidžāna]]i 994, [[Gruzija]]i 995, [[Kirgizstāna]]i 996, [[Uzbekistāna]]i 998.<ref>{{Tīmekļa atsauce |url=http://www.wtng.info/wtng-hst.html |title=History of Country Codes |access-date={{dat|2020|05|16||bez}} |archiveurl=https://web.archive.org/web/20200301192035/http://www.wtng.info/wtng-hst.html |archivedate={{dat|2020|03|01||bez}} }}</ref>
+
+==Tabulas formā==
+{| class="prettytable"
+|-
+| width="100%" align="center" colspan="10" |'''+0:''' Netiek lietots
+|-
+| width="100%" align="center" colspan="10" |'''+1:''' [[Amerikas Savienotās Valstis|ASV]], [[Kanāda|CA]], [[Angilja|AI]], [[Antigva un Barbuda|AG]], [[ASV Samoa|AS]], [[Barbadosa|BB]], [[Bahamu Salas|BS]], [[Britu Virdžīnijas salas|VG]], [[ASV Virdžīnas|VI]], [[Kaimanu Salas|KY]], [[Bermudu salas|BM]], [[Grenāda|GD]], [[Tērksa un Kaikosa|TC]], [[Monserata|MS]], [[Ziemeļu Marianas Salas|MP]], [[Guama|GU]], [[Sentlūsija|LC]], [[Dominika|DM]], [[Sentvinsenta un Grenadīnas|VC]], [[Puertoriko|PR]], [[Dominikana|DO]], [[Trinidāda un Tobāgo|TT]], [[Sentkitsa un Nevisa|KN]], [[Jamaika|JM]]
+|-
+| width="10%" align="center" |'''+20:''' [[Ēģipte|EG]]
+| width="10%" align="center" |
+'''+210:''' --<br>
+'''+211:''' [[Dienvidsudāna|SS]]<br>
+'''+212:''' [[Maroka|MA]], ''[[Rietumsahāra|EH]]''<br>
+'''+213:''' [[Alžīrija|DZ]]<br>
+'''+214:''' --<br>
+'''+215:''' --<br>
+'''+216:''' [[Tunisija|TN]]<br>
+'''+217:''' --<br>
+'''+218:''' [[Lībija|LY]]<br>
+'''+219:''' --
+| width="10%" align="center" |
+'''+220:''' [[Gambija|GM]]<br>
+'''+221:''' [[Senegāla|SN]]<br>
+'''+222:''' [[Mauritānija|MR]]<br>
+'''+223:''' [[Mali|ML]]<br>
+'''+224:''' [[Gvineja|GN]]<br>
+'''+225:''' [[Kotdivuāra|CI]]<br>
+'''+226:''' [[Burkinafaso|BF]]<br>
+'''+227:''' [[Nigēra|NE]]<br>
+'''+228:''' [[Togo|TG]]<br>
+'''+229:''' [[Benina|BJ]]
+| width="10%" align="center" |
+'''+230:''' [[Maurīcija|MU]]<br>
+'''+231:''' [[Libērija|LR]]<br>
+'''+232:''' [[Sjerraleone|SL]]<br>
+'''+233:''' [[Gana|GH]]<br>
+'''+234:''' [[Nigērija|NG]]<br>
+'''+235:''' [[Čada|TD]]<br>
+'''+236:''' [[Centrālāfrikas Republika|CF]]<br>
+'''+237:''' [[Kamerūna|CM]]<br>
+'''+238:''' [[Kaboverde|CV]]<br>
+'''+239:''' [[Santome un Prinsipi|ST]]
+| width="10%" align="center" |
+'''+240:''' [[Ekvatoriālā Gvineja|GQ]]<br>
+'''+241:''' [[Gabona|GA]]<br>
+'''+242:''' [[Kongo (valsts)|CG]]<br>
+'''+243:''' [[Kongo DR|CD]]<br>
+'''+244:''' [[Angola|AO]]<br>
+'''+245:''' [[Gvineja-Bisava|GW]]<br>
+'''+246:''' [[Britu Indijas okeāna teritorija|IO]]<br>
+'''+247:''' [[Debesbraukšanas sala|AC]]<br>
+'''+248:''' [[Seišelas|SC]]<br>
+'''+249:''' [[Sudāna|SD]]
+| width="10%" align="center" |
+'''+250:''' [[Ruanda|RW]]<br>
+'''+251:''' [[Etiopija|ET]]<br>
+'''+252:''' [[Somālija|SO]]<br>
+'''+253:''' [[Džibuti|DJ]]<br>
+'''+254:''' [[Kenija|KE]]<br>
+'''+255:''' [[Tanzānija|TZ]]<br>
+'''+256:''' [[Uganda|UG]]<br>
+'''+257:''' [[Burundi|BI]]<br>
+'''+258:''' [[Mozambika|MZ]]<br>
+'''+259:''' --
+| width="10%" align="center" |
+'''+260:''' [[Zambija|ZM]]<br>
+'''+261:''' [[Madagaskara|MG]]<br>
+'''+262:''' [[Reinjona|RE]]<br>
+'''+263:''' [[Zimbabve|ZW]]<br>
+'''+264:''' [[Namībija|NA]]<br>
+'''+265:''' [[Malāvija|MW]]<br>
+'''+266:''' [[Lesoto|LS]]<br>
+'''+267:''' [[Botsvāna|BW]]<br>
+'''+268:''' [[Svatini|SZ]]<br>
+'''+269:''' [[Komoras|KM]]
+| width="10%" align="center" |'''+27:''' [[Dienvidāfrika|ZA]]
+| width="10%" align="center" |'''+28:''' --
+| width="10%" align="center" |
+'''+290:''' [[Svētās Helēnas Sala|SH]]<br>
+'''+291:''' [[Eritreja|ER]]<br>
+'''+292:''' --<br>
+'''+293:''' --<br>
+'''+294:''' --<br>
+'''+295:''' --<br>
+'''+296:''' --<br>
+'''+297:''' [[Aruba|AW]]<br>
+'''+298:''' [[Fēru Salas|FO]]<br>
+'''+299:''' [[Grenlande|GL]]
+|-
+| width="10%" align="center" |'''+30:''' [[Grieķija|GR]]
+| width="10%" align="center" |'''+31:''' [[Nīderlande|NL]]
+| width="10%" align="center" |'''+32:''' [[Belģija|BE]]
+| width="10%" align="center" |'''+33:''' [[Francija|FR]]
+| width="10%" align="center" |'''+34:''' [[Spānija|ES]]
+| width="10%" align="center" |
+'''+350:''' [[Gibraltārs|GI]]<br>
+'''+351:''' [[Portugāle|PT]]<br>
+'''+352:''' [[Luksemburga (valsts)|LU]]<br>
+'''+353:''' [[Īrija|IE]]<br>
+'''+354:''' [[Islande|IS]]<br>
+'''+355:''' [[Albānija|AL]]<br>
+'''+356:''' [[Malta|MT]]<br>
+'''+357:''' [[Kipra|CY]]<br>
+'''+358:''' [[Somija|FI]]<br>
+'''+359:''' [[Bulgārija|BG]]
+| width="10%" align="center" |'''+36:''' [[Ungārija|HU]]
+| width="10%" align="center" |
+'''+370:''' [[Lietuva|LT]]<br>
+'''+371:''' [[Latvija|LV]]<br>
+'''+372:''' [[Igaunija|EE]]<br>
+'''+373:''' [[Moldova|MD]]<br>
+'''+374:''' [[Armēnija|AM]]<br>
+'''+375:''' [[Baltkrievija|BY]]<br>
+'''+376:''' [[Andora|AD]]<br>
+'''+377:''' [[Monāko|MC]]<br>
+'''+378:''' [[Sanmarino|SM]]<br>
+'''+379:''' [[Vatikāns|VA]]
+| width="10%" align="center" |
+'''+380:''' [[Ukraina|UA]]<br>
+'''+381:''' [[Serbija un Melnkalne|CS]]<br>
+'''+382:''' --<br>
+'''+383:''' --<br>
+'''+384:''' --<br>
+'''+385:''' [[Horvātija|HR]]<br>
+'''+386:''' [[Slovēnija|SI]]<br>
+'''+387:''' [[Bosnija un Hercegovina|BA]]<br>
+'''+388:''' [[Eiropas telefonijas numuru kopums|EU]]<br>
+'''+389:''' [[Ziemeļmaķedonijas Republika|MK]]
+| width="10%" align="center" |'''+39:''' [[Itālija|IT]]
+|-
+| width="10%" align="center" |'''+40:''' [[Rumānija|RO]]
+| width="10%" align="center" |'''+41:''' [[Šveice|CH]]
+| width="10%" align="center" |
+'''+420:''' [[Čehija|CZ]]<br>
+'''+421:''' [[Slovākija|SK]]<br>
+'''+422:''' --<br>
+'''+423:''' [[Lihtenšteina|LI]]<br>
+'''+424:''' --<br>
+'''+425:''' --<br>
+'''+426:''' --<br>
+'''+427:''' --<br>
+'''+428:''' --<br>
+'''+429:''' --
+| width="10%" align="center" |'''+43:''' [[Austrija|AT]]
+| width="10%" align="center" |'''+44:''' [[Apvienotā Karaliste|UK]]
+| width="10%" align="center" |'''+45:''' [[Dānija|DK]]
+| width="10%" align="center" |'''+46:''' [[Zviedrija|SE]]
+| width="10%" align="center" |'''+47:''' [[Norvēģija|NO]]
+| width="10%" align="center" |'''+48:''' [[Polija|PL]]
+| width="10%" align="center" |'''+49:''' [[Vācija|DE]]
+|-
+| width="10%" align="center" |
+'''+500:''' [[Folklendu salas|FK]]<br>
+'''+501:''' [[Beliza|BZ]]<br>
+'''+502:''' [[Gvatemala|GT]]<br>
+'''+503:''' [[Salvadora (valsts)|SV]]<br>
+'''+504:''' [[Hondurasa|HN]]<br>
+'''+505:''' [[Nikaragva|NI]]<br>
+'''+506:''' [[Kostarika|CR]]<br>
+'''+507:''' [[Panama|PA]]<br>
+'''+508:''' [[Senpjēra and Mikelona|PM]]<br>
+'''+509:''' [[Haiti|HT]]
+| width="10%" align="center" |'''+51:''' [[Peru|PE]]
+| width="10%" align="center" |'''+52:''' [[Meksika|MX]]
+| width="10%" align="center" |'''+53:''' [[Kuba|CU]]
+| width="10%" align="center" |'''+54:''' [[Argentīna|AR]]
+| width="10%" align="center" |'''+55:''' [[Brazīlija|BR]]
+| width="10%" align="center" |'''+56:''' [[Čīle|CL]]
+| width="10%" align="center" |'''+57:''' [[Kolumbija|CO]]
+| width="10%" align="center" |'''+58:''' [[Venecuela|VE]]
+| width="10%" align="center" |
+'''+590:''' [[Gvadelupe|GP]]<br>
+'''+591:''' [[Bolīvija|BO]]<br>
+'''+592:''' [[Gvajāna|GY]]<br>
+'''+593:''' [[Ekvadora|EC]]<br>
+'''+594:''' [[Franču Gvijāna|GF]]<br>
+'''+595:''' [[Paragvaja|PY]]<br>
+'''+596:''' [[Martinika|MQ]]<br>
+'''+597:''' [[Suriname|SR]]<br>
+'''+598:''' [[Urugvaja|UY]]<br>
+'''+599:''' [[Nīderlandes Antiļas|AN]]
+|-
+| width="10%" align="center" |'''+60:''' [[Malaizija|MY]]
+| width="10%" align="center" |'''+61:''' [[Austrālija|AU]]
+| width="10%" align="center" |'''+62:''' [[Indonēzija|ID]]
+| width="10%" align="center" |'''+63:''' [[Filipīnas|PH]]
+| width="10%" align="center" |'''+64:''' [[Jaunzēlande|NZ]]
+| width="10%" align="center" |'''+65:''' [[Singapūra|SG]]
+| width="10%" align="center" |'''+66:''' [[Taizeme|TH]]
+| width="10%" align="center" |
+'''+670:''' [[Austrumtimora|TL]]<br>
+'''+671:''' --<br>
+'''+672:''' [[Antarktīda|AQ]]<br>
+'''+673:''' [[Bruneja|BN]]<br>
+'''+674:''' [[Nauru|NR]]<br>
+'''+675:''' [[Jaungvineja|PG]]<br>
+'''+676:''' [[Tonga|TO]]<br>
+'''+677:''' [[Zālamana salas|SB]]<br>
+'''+678:''' [[Vanuatu|VU]]<br>
+'''+679:''' [[Fidži|FJ]]
+| width="10%" align="center" |
+'''+680:''' [[Palau|PW]]<br>
+'''+681:''' [[Volisa un Futūna|WF]]<br>
+'''+682:''' [[Kuka Salas|CK]]<br>
+'''+683:''' [[Niue|NU]]<br>
+'''+684:''' [[ASV Samoa|AS]]<br>
+'''+685:''' [[Samoa|WS]]<br>
+'''+686:''' [[Kiribati|KI]]<br>
+'''+687:''' [[Jaunkaledonija|NC]]<br>
+'''+688:''' [[Tuvalu|TV]]<br>
+'''+689:''' [[Franču Polinēzija|PF]]
+| width="10%" align="center" |
+'''+690:''' [[Tokelau|TK]]<br>
+'''+691:''' [[Mikronēzija (valsts)|FM]]<br>
+'''+692:''' [[Māršala salas|MH]]<br>
+'''+693:''' --<br>
+'''+694:''' --<br>
+'''+695:''' --<br>
+'''+696:''' --<br>
+'''+697:''' --<br>
+'''+698:''' --<br>
+'''+699:''' --
+|-
+| width="100%" align="center" colspan="10" |'''+7:''' [[Krievija|RU]], [[Kazahstāna|KZ]]
+|-
+| width="10%" align="center" |
+'''+800:''' [[Universālais starptautiskais bezmaksas telefona numurs|XT]]<br>
+'''+801:''' --<br>
+'''+802:''' --<br>
+'''+803:''' --<br>
+'''+804:''' --<br>
+'''+805:''' --<br>
+'''+806:''' --<br>
+'''+807:''' --<br>
+'''+808:''' [[Dalītās maksas pakalpojums|XS]]<br>
+'''+809:''' --
+| width="10%" align="center" |'''+81:''' [[Japāna|JP]]
+| width="10%" align="center" |'''+82:''' [[Dienvidkoreja|KR]]
+| width="10%" align="center" |'''+83:''' --
+| width="10%" align="center" |'''+84:''' [[Vjetnama|VN]]
+| width="10%" align="center" |
+'''+850:''' [[Ziemeļkoreja|KP]]<br>
+'''+851:''' --<br>
+'''+852:''' [[Honkonga|HK]]<br>
+'''+853:''' [[Makao|MO]]<br>
+'''+854:''' --<br>
+'''+855:''' [[Kambodža|KH]]<br>
+'''+856:''' [[Laosa|LA]]<br>
+'''+857:''' --<br>
+'''+858:''' --<br>
+'''+859:''' --
+| width="10%" align="center" |'''+86:''' [[Ķīnas tautas republika|CN]]
+| width="10%" align="center" |
+'''+870:''' [[Inmarsat|XN]]<br>
+'''+875:''' --<br>
+'''+876:''' --<br>
+'''+877:''' --<br>
+'''+878:''' [[Universālās privātas komunikācijas|XP]]<br>
+'''+879:''' --
+| width="10%" align="center" |
+'''+880:''' [[Bangladeša|BD]]<br>
+'''+881:''' [[Globālā Mobilā Satelītu Sistēma|XG]]<br>
+'''+882:''' [[Internacionālie tīkli (valsts kods)|XV]]<br>
+'''+883:''' --<br>
+'''+884:''' --<br>
+'''+885:''' --<br>
+'''+886:''' [[Ķīnas Republika|TW]]<br>
+'''+887:''' --<br>
+'''+888:''' --<br>
+'''+889:''' --
+| width="10%" align="center" |'''+89:''' --
+|-
+| width="10%" align="center" |'''+90:''' [[Turcija|TR]] <br> ('''+90 392:''' [[Ziemeļkipras Turku Republika|TRNC]])
+| width="10%" align="center" |'''+91:''' [[Indija|IN]]
+| width="10%" align="center" |'''+92:''' [[Pakistāna|PK]]
+| width="10%" align="center" |'''+93:''' [[Afganistāna|AF]]
+| width="10%" align="center" |'''+94:''' [[Šrilanka|LK]]
+| width="10%" align="center" |'''+95:''' [[Mjanma|MM]]
+| width="10%" align="center" |
+'''+960:''' [[Maldivas|MV]]<br>
+'''+961:''' [[Libāna|LB]]<br>
+'''+962:''' [[Jordānija|JO]]<br>
+'''+963:''' [[Sīrija|SY]]<br>
+'''+964:''' [[Irāka|IQ]]<br>
+'''+965:''' [[Kuveita|KW]]<br>
+'''+966:''' [[Saūda Arābija|SA]]<br>
+'''+967:''' [[Jemena|YE]]<br>
+'''+968:''' [[Omāna|OM]]<br>
+'''+969:''' --
+| width="10%" align="center" |
+'''+970:''' [[Palestīna|PS]]<br>
+'''+971:''' [[apvienotie Arābu Emirāti|AE]]<br>
+'''+972:''' [[Izraela|IL]]<br>
+'''+973:''' [[Bahreina|BH]]<br>
+'''+974:''' [[Katara|QA]]<br>
+'''+975:''' [[Butāna|BT]]<br>
+'''+976:''' [[Mongolija|MN]]<br>
+'''+977:''' [[Nepāla|NP]]<br>
+'''+978:''' --<br>
+'''+979:''' [[International premium rate service|XR]]
+| width="10%" align="center" |'''+98:''' [[Irāna|IR]]
+| width="10%" align="center" |
+'''+990:''' --<br>
+'''+991:''' [[ITPCS|XC]]<br>
+'''+992:''' [[Tadžikistāna|TJ]]<br>
+'''+993:''' [[Turkmenistāna|TM]]<br>
+'''+994:''' [[Azerbaidžāna|AZ]]<br>
+'''+995:''' [[Gruzija|GE]]<br>
+'''+996:''' [[Kirgizstāna|KG]]<br>
+'''+997:''' --<br>
+'''+998:''' [[Uzbekistāna|UZ]]<br>
+'''+999:''' [[Telecommunications for Disaster Relief|X?]]
+|}
+
+== Izvērstā formā ==
+[[Attēls:Country calling codes map.svg|thumb|500px|Starptautiskie tālsarunu kodi sakārtoti pēc to pirmā skaitļa]]
+=== 1. zona — Ziemeļamerikas numerācijas plāns ===
+[[Ziemeļamerikas numerācijas plāns|NANP teritorijām]] ir piešķirti tālsarunu kodi tā, ja tās būtu Amerikas Savienotajās Valstīs.<ref name="nanp">[http://www.nanpa.com/ nanpa.com], North American Numbering Plan Area, angļu valodā.</ref>
+Zemāk minētie kodi 1-XXX formātā norāda teritorijas kodu +1 NANPA formātā, nevis kā atsevišķu valsts kodu. Piemēram, valsts kods Guamai ir +1 ar sekojošu teritorijas kodu 671, nevis +671.
+
+* 1 — [[Amerikas Savienotās Valstis|ASV]]
+** iekļaujot ASV teritorijas
+*** 1-671 — [[Guama]] 
+*** 1-670 — [[Ziemeļu Marianas Salas]] 
+*** 1-684 — [[ASV Samoa]] 
+* 1 — [[Kanāda]]
+* 1-441 — [[Bermudas]] 
+* Daudzas, bet ne visas, [[Karību baseins|Karību baseina]] nācijas, ar kodiem: 
+** 1-264 — [[Angilja]] 
+** 1-268 — [[Antigva un Barbuda]] 
+** 1-242 — [[Bahamu Salas]] 
+** 1-246 — [[Barbadosa]] 
+** 1-284 — [[Britu Virdžīnijas salas]] 
+** 1-345 — [[Kaimanu Salas]] 
+** 1-767 — [[Dominika]] 
+** 1-809 un 1-829 — [[Dominikānas Republika]] 
+** 1-473 — [[Grenāda]] 
+** 1-876 — [[Jamaika]] 
+** 1-664 — [[Montserrata]] 
+** 1-787 un 1-939 — [[Puertoriko]] 
+** 1-869 — [[Sentkitsa un Nevisa]] 
+** 1-758 — [[Sentlūsija]] 
+** 1-784 — [[Sentvinsenta un Grenadīnas]] 
+** 1-868 — [[Trinidāda un Tobāgo]] 
+** 1-649 — [[Tērksa un Kaikosa]] 
+** 1-340 — [[ASV Virdžīnas]]
+
+=== 2. zona — Pārsvarā [[Āfrika]] ===
+* 20 — [[Ēģipte]]
+* 210 — nepiešķirts
+* 211 — [[Dienvidsudāna]]
+* 212 — [[Maroka]]
+* 213 — [[Alžīrija]]
+* 214 — nepiešķirts
+* 215 — nepiešķirts
+* 216 — [[Tunisija]]
+* 217 — nepiešķirts
+* 218 — [[Lībija]]
+* 219 — nepiešķirts
+* 220 — [[Gambija]]
+* 221 — [[Senegāla]]
+* 222 — [[Mauritānija]]
+* 223 — [[Mali]]
+* 224 — [[Gvineja]]
+* 225 — [[Kotdivuāra]]
+* 226 — [[Burkinafaso]]
+* 227 — [[Nigēra]]
+* 228 — [[Togo]]
+* 229 — [[Benina]]
+* 230 — [[Maurīcija]]
+* 231 — [[Libērija]]
+* 232 — [[Sjerraleone]]
+* 233 — [[Gana]]
+* 234 — [[Nigērija]]
+* 235 — [[Čada]]
+* 236 — [[Centrālāfrikas Republika]]
+* 237 — [[Kamerūna]]
+* 238 — [[Kaboverde]]
+* 239 — [[Santome un Prinsipi]]
+* 240 — [[Ekvatoriālā Gvineja]]
+* 241 — [[Gabona]]
+* 242 — [[Kongo (valsts)|Kongo Republika]] (Brazavila)
+* 243 — [[Kongo Demokrātiskā Republika]] (Kinšasa, senāk pazīstama kā [[Zaira]])
+* 244 — [[Angola]]
+* 245 — [[Gvineja-Bisava]]
+* 246 — [[Britu Indijas okeāna teritorija]]
+* 247 — [[Debesbraukšanas sala]]
+* 248 — [[Seišelas]]
+* 249 — [[Sudāna]]
+* 250 — [[Ruanda]]
+* 251 — [[Etiopija]]
+* 252 — [[Somālija]] (tiek lietots arī [[Somalilenda|Somalilendā]])
+* 253 — [[Džibuti]]
+* 254 — [[Kenija]]
+* 255 — [[Tanzānija]]
+* 256 — [[Uganda]]
+* 257 — [[Burundi]]
+* 258 — [[Mozambika]]
+* 259 — [[Zanzibāra]] - (nekad nav ticis ieviests, skatīt +255 Tanzānija)
+* 260 — [[Zambija]]
+* 261 — [[Madagaskara]]
+* 262 — [[Reinjona]]
+* 263 — [[Zimbabve]]
+* 264 — [[Namībija]]
+* 265 — [[Malāvija]]
+* 266 — [[Lesoto]]
+* 267 — [[Botsvāna]]
+* 268 — [[Svatini]]
+* 269 — [[Komoras]] and [[Majota]]
+* 27 — [[Dienvidāfrika]]
+* 28 — nepiešķirts
+* 290 — [[Sv. Helēnas sala]]
+* 291 — [[Eritreja]]
+* 292 — nepiešķirts
+* 293 — nepiešķirts
+* 294 — nepiešķirts
+* 295 — vairs netiek lietots (bija piešķirts [[Sanmarino]], skatīt +378)
+* 296 — nepiešķirts
+* 297 — [[Aruba]]
+* 298 — [[Fēru salas]]
+* 299 — [[Grenlande]]
+
+=== 3. zona — [[Eiropa]] ===
+* 30 — [[Grieķija]]
+* 31 — [[Nīderlande]]
+* 32 — [[Beļģija]]
+* 33 — [[Francija]]
+* 34 — [[Spānija]]
+* 350 — [[Gibraltārs]]
+* 351 — [[Portugāle]]
+* 352 — [[Luksemburga (valsts)|Luksemburga]]
+* 353 — [[Īrijas Republika]] 
+* 354 — [[Islande]]
+* 355 — [[Albānija]] 
+* 356 — [[Malta]]
+* 357 — [[Kipra]] (Turcijas okupētā teritorija ir pieejama ar [[Ziemeļkipra]]s valsts kodu 90392)
+* 358 — [[Somija]]
+* 359 — [[Bulgārija]]
+* 36 — [[Ungārija]] 
+* 37 — vairs netiek lietots (bija piešķirts [[Austrumvācija]]i, šajā teritorijā tagad izmanto [[Vācija]]s valsts kodu 49) 
+* 370 — [[Lietuva]] 
+* 371 — [[Latvija]] 
+* 372 — [[Igaunija]]
+* 373 — [[Moldova]]
+* 374 — [[Armēnija]]
+* 375 — [[Baltkrievija]] 
+* 376 — [[Andora]]
+* 377 — [[Monāko]]
+* 378 — [[Sanmarīno]]
+* 379 — [[Vatikāns]]
+* 38 — vairs netiek lietots (bija piešķirts [[Dienvidslāvija|Dienvislāvijai]] pirms tās sadalīšanās)
+* 380 — [[Ukraina]] 
+* 381 — [[Serbija]] 
+* 382 — Melnkalne 
+* 384 — nepiešķirts
+* 385 — [[Horvātija]]
+* 386 — [[Slovēnija]]
+* 387 — [[Bosnija un Hercegovina]] 
+* 388 — [[Eiropas telefonijas numuru kopums]] - Europe-wide services 
+* 389 — [[Ziemeļmaķedonijas Republika|Ziemeļmaķedonija]]
+* 39 — [[Itālija]]
+
+=== 4. zona — [[Eiropa]] ===
+* 40 — [[Rumānija]]
+* 41 — [[Šveice]]
+* 42 — vairs netiek lietots (bija piešķirts [[Čehoslovākija]]i )
+* 420 — [[Čehija]]
+* 421 — [[Slovākija]]
+* 422 — nepiešķirts 
+* 423 — [[Lihtenšteina]]
+* 424 — nepiešķirts 
+* 425 — nepiešķirts
+* 426 — nepiešķirts
+* 427 — nepiešķirts 
+* 428 — nepiešķirts 
+* 429 — nepiešķirts 
+* 43 — [[Austrija]]
+* 44 — [[Apvienotā Karaliste]]
+* 45 — [[Dānija]] 
+* 46 — [[Zviedrija]] 
+* 47 — [[Norvēģija]]
+* 48 — [[Polija]]
+* 49 — [[Vācija]]
+
+=== 5. zona — [[Meksika]], [[Centrālamerika]], [[Dienvidamerika]] un [[Karību baseins]] ===
+* 500 — [[Folklendu salas]]
+* 501 — [[Beliza]]
+* 502 — [[Gvatemala]]
+* 503 — [[Salvadora (valsts)|Salvadora]]
+* 504 — [[Hondurasa]]
+* 505 — [[Nikaragva]]
+* 506 — [[Kostarika]]
+* 507 — [[Panama]]
+* 508 — [[Senpjēra un Mikelona]]
+* 509 — [[Haiti]] 
+* 51 — [[Peru]]
+* 52 — [[Meksika]]
+* 53 — [[Kuba]]
+* 54 — [[Argentīna]]
+* 55 — [[Brazīlija]]
+* 56 — [[Čīle]]
+* 57 — [[Kolumbija]]
+* 58 — [[Venecuēla]]
+* 590 — [[Gvadelupa]]
+* 591 — [[Bolīvija]]
+* 592 — [[Gajāna]]
+* 593 — [[Ekvadora]]
+* 594 — [[Gviāna]]
+* 595 — [[Paragvaja]]
+* 596 — [[Martinika]]
+* 597 — [[Surinama]]
+* 598 — [[Urugvaja]] 
+* 599 — [[Nīderlandes Antiļas]]
+
+=== 6. zona — Dienvidu Klusais okeāns un [[Okeānija]] ===
+* 60 — [[Malaizija]] 
+* 61 — [[Austrālija]] , ieskaitot sekojošās ārējās teritorijas: [[Ziemsvētku Sala]] and [[Kokosu (Kīlinga) Salas]]
+* 62 — [[Indonēzija]]
+* 63 — [[Filipīnas]]
+* 64 — [[Jaunzēlande]]
+* 65 — [[Singapūra]]
+* 66 — [[Taizeme]]
+* 670 — [[Austrumtimora]] - senāk šis kods bija piešķirts Ziemeļu Marianas salām, kuri tagad iekļauti [[Ziemeļamerikas numerācijas plāns|NANPA]] ar kodu +1-670
+* 671 — nepiešķirts - senāk šis kods bija piešķirts Guamai, kura tagad iekļauta [[Ziemeļamerikas numerācijas plāns|NANPA]] ar kodu +1-671
+* 672 — Austrālijas ārējās teritorijas, izņemot Ziemassvētku un Kokosa salas (piemēram, [[Austrālijas Antarktiskā teritorija]], [[Norfolka (sala)|Norfolka]])
+* 673 — [[Bruneja]]
+* 674 — [[Nauru]]
+* 675 — [[Papua-Jaungvineja]]
+* 676 — [[Tonga]]
+* 677 — [[Zālamana Salas]]
+* 678 — [[Vanuatu]]
+* 679 — [[Fidži]]
+* 680 — [[Palau]]
+* 681 — [[Volisa un Futuna]]
+* 682 — [[Kuka Salas]]
+* 683 — [[Niue]]
+* 684 — nepiešķirts - senāk šis kods bija piešķirts Amerikāņu Samoa, kura tagad iekļauta [[Ziemeļamerikas numerācijas plāns|NANPA]] ar kodu +1-684
+* 685 — [[Samoa|Rietumsamoa]]
+* 686 — [[Kiribati]] 
+* 687 — [[Jaunkaledonija]]
+* 688 — [[Tuvalu]]
+* 689 — [[Franču Polinēzija]] 
+* 690 — [[Tokelau]]
+* 691 — [[Mikronēzija (valsts)|Mikronēzija]]
+* 692 — [[Māršala Salas]]
+* 693 — nepiešķirts
+* 694 — nepiešķirts
+* 695 — nepiešķirts
+* 696 — nepiešķirts
+* 697 — nepiešķirts 
+* 698 — nepiešķirts 
+* 699 — nepiešķirts
+
+=== 7. zona — [[Krievijas Federācija]] un [[Kazahstāna]] ===
+* 7 —  [[Krievijas Federācija]], agrāk [[Padomju Savienība]]
+** 76 un 77 — [[Kazahstāna]]
+
+=== 8. zona — [[Austrumāzija]] un speciālie servisa kodi ===
+{{See also|Pavadoņtelefonu kodu saraksts}}
+* 800 — Universālie starptautiskie bezmaksas telefona numuri ([[UIFN]])
+* 801 — nepiešķirts 
+* 802 — nepiešķirts 
+* 803 — nepiešķirts 
+* 804 — nepiešķirts 
+* 805 — nepiešķirts 
+* 806 — nepiešķirts 
+* 807 — nepiešķirts 
+* 808 — Dalītās maksas pakalpojumi
+* 809 — nepiešķirts
+* 81 — [[Japāna]]
+* 82 — [[Dienvidkoreja]] 
+* 83 — nepiešķirts
+* 84 — [[Vjetnama]]
+* 850 — [[Ziemeļkoreja]]
+* 851 — nepiešķirts 
+* 852 — [[Honkonga]]
+* 853 — [[Makao]]
+* 854 — nepiešķirts 
+* 855 — [[Kambodža]]
+* 856 — [[Laosa]] 
+* 857 — nepiešķirts 
+* 858 — nepiešķirts 
+* 859 — nepiešķirts 
+* 86 — [[Ķīnas Tautas Republika]] 
+* 870 — [[Inmarsat]] ''SNAC (Single Network Access Code)'' - ja nav zināms reģions;
+* 871 — Inmarsat [[Atlantijas okeāns|Atlantijas okeāna]] reģions, rietumdaļa - ''Atlantic Ocean Region – East (AOR-E)'';
+* 872 — Inmarsat [[Klusais okeāns|Klusā okeāna]] reģions - ''Pacific Ocean Region (POR)'';
+* 873 — Inmarsat [[Indijas okeāns|Indijas okeāna]] reģions - ''Indian Ocean Region (IOR)'';
+* 874 — Inmarsat Atlantijas okeāna reģions, austrumdaļa - ''Atlantic Ocean Region – West (AOR-W)''.
+* 875 — rezervēts Jūras Mobilajam Servisam
+* 876 — rezervēts Jūras Mobilajam Servisam
+* 877 — rezervēts Jūras Mobilajam Servisam
+* 878 — [[Universālās privātas komunikācijas]] pakalpojums
+* 879 — rezervēts mobilajai/jūras lietošanai
+* 880 — [[Bangladeša]]
+* 881 — [[Pavadoņtelefons|Pavadoņtelefonu]] piekļūves kodi
+** 8810, 8811 — [[ICO (pavadoņsistēma)|ICO]] pavadoņsistēma
+** 8816, 8817 — [[Iridium (pavadoņsistēma)|Iridium]] pavadoņsistēma
+** 8818, 8819 — [[Globalstar]] pavadoņsistēma
+* 882 — [[Thuraya]] pavadoņsistēma
+* 883 — nepiešķirts 
+* 884 — nepiešķirts 
+* 885 — nepiešķirts
+* 886 — [[Ķīnas Republika]] (Taivāna) ''Kods nav oficiāli piešķirts, ITU sarakstā skaitās kā 'rezervēts'.'' 
+* 887 — nepiešķirts
+* 888 — nepiešķirts 
+* 889 — nepiešķirts 
+* 89 — nepiešķirts
+
+=== 9. zona — [[Rietumāzija]] un [[Dienvidāzija]], [[Tuvie Austrumi]] ===
+* 90 — [[Turcija]] 
+** 90 392 — [[Ziemeļkipras Turku Republika]]
+* 91 — [[Indija]] 
+* 92 — [[Pakistāna]]
+* 93 — [[Afganistāna]]
+* 94 — [[Šrilanka]] 
+* 95 — [[Mjanma]]
+* 960 — [[Maldīvija]]
+* 961 — [[Libāna]]
+* 962 — [[Jordānija]]
+* 963 — [[Sīrija]]
+* 964 — [[Irāka]]
+* 965 — [[Kuveita]]
+* 966 — [[Saūda Arābija]]
+* 967 — [[Jemena]]
+* 968 — [[Omāna]]
+* 969 — bija piešķirts Jemenas Tautas Demokrātiskajai Republikai - tagad apvienots zem 967 [[Jemena]]
+* 970 — rezervēts [[Palestīna]]i
+* 971 — [[Apvienotie Arābu Emirāti]]
+* 972 — [[Izraēla]]
+* 973 — [[Bahreina]]
+* 974 — [[Katara]]
+* 975 — [[Butāna]]
+* 976 — [[Mongolija]]
+* 977 — [[Nepāla]]
+* 978 — nepiešķirts - sākotnēji piešķirts Dubaijai, tagad tai piešķirts 971
+* 979 — starptautiskie papildus maksas pakalpojumi - sākotnēji piešķirts Abu Dabi, tagad tai piešķirts 971
+* 98 — [[Irāna]] 
+* 990 — nepiešķirts 
+* 991 — ''International Telecommunications Public Correspondence Service trial'' (ITPCS) 
+* 992 — [[Tadžikistāna]]
+* 993 — [[Turkmenistāna]] 
+* 994 — [[Azerbaidžāna]]
+* 995 — [[Gruzija]] 
+* 996 — [[Kirgizstāna]]
+* 997 — nepiešķirts 
+* 998 — [[Uzbekistāna]]
+* 999 — nepiešķirts
+
+=== 0. zona ===
+Nulle (0) nav piešķirta nevienam.
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20140404094300/http://www.starptautiskais-talsarunu-kods.info/talru%C5%86a-numuru-kalkulators.php Tālruņa numuru kalkulators starptautiskajiem tālruņa zvaniem]
+* [http://www.telefonukodi.lv/ Telefonu kodu saraksts]
+* [http://www.e-biblioteka.lv/valstu-kodi/ Valstu telefonu kodi]
+
+[[Kategorija:Starptautiskie kodi]]
+[[Kategorija:Valstu kodi]]

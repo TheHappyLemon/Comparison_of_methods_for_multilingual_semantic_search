@@ -1,0 +1,119 @@
+{{Citas nozīmes|Maskavas futbola klubu|Maskavas CSKA|CSKA}}
+{{Futbola kluba infokaste
+| text_color = #000080
+| bg_color   = #F02A18
+| nos        = PFK CSKA
+| logo       = [[Attēls:PFK CSKA logo.svg|150px]]
+| pilns      = ''Профессиональный<br />футбольный клуб ЦСКА''
+| iesauka    = ''Красно-синие'' (sarkani-zilie)<br />''Кони'' (zirgi)<br />''Армейцы'' (armijnieki)
+| pilsēta    = {{Vieta|Krievija|Maskava}}
+| dib        = 1911
+| dib_mēn    = 8
+| dib_dat    = 27
+| stad       = ''[[VEB Arena]]''
+| ietilp     = 30 000
+| prez       = {{flaga|Krievija}} Jevgeņijs Giners
+| tren       = {{flaga|Krievija}} [[Aleksejs Berezuckis]]
+| līga       = [[Krievijas futbola Premjerlīga|Krievijas Premjerlīga]]
+| sez        = 2020.—2021.
+| poz        = 6. vieta
+| mediji     = {{URL|pfc-cska.com/}}
+ |pattern_la1=_cska1718h
+ |pattern_b1=_cska1718h
+ |pattern_ra1=_cska1718h
+ |pattern_sh1=_cska1718h
+ |pattern_so1=_band_stripes_blue
+ |leftarm1=0000FF
+ |body1=0000FF
+ |rightarm1=0000FF
+ |shorts1=FF0000
+ |socks1=FF0000
+ |pattern_la2=_cska1718a
+ |pattern_b2=_cska1718a
+ |pattern_ra2=_cska1718a
+ |pattern_sh2=_cska1718a
+ |pattern_so2=_cska1718a
+ |leftarm2=FF4F00
+ |body2=FF4F00
+ |rightarm2=FF4F00
+ |shorts2=FF4F00
+ |socks2=FF4F00
+}}
+[[Attēls:Logo fc cska moscow.gif|thumb|150px|PFK CSKA logotips no [[2003. gads|2003]]. līdz [[2007. gads|2007]]. gadam]]
+'''Profesionālais futbola klubs CSKA''' ({{val|ru|Профессиональный футбольный клуб ЦСКА}}) ir [[Krievija]]s [[futbols|futbola]] klubs no [[Maskava]]s. CSKA ir viens no vecākajiem un titulētākajiem Krievijas futbola klubiem, dibināts [[1911. gads|1911]]. gadā. Spēlē Krievijas futbola augstākajā līmenī — [[Krievijas futbola Premjerlīga|Premjerlīgā]]. Kluba futbolisti ir seškārtēji Krievijas čempioni, septiņkārtēji [[Krievijas kauss futbolā|Krievijas kausa]] ieguvēji un septiņkārtēji Krievijas superkausa ieguvēji. [[Padomju Savienība|PSRS]] laikā kļuvuši par septiņkārtējiem čempioniem un piecas reizes izcīnījuši PSRS kausu. CSKA ir arī pirmais Krievijas klubs, kurš ir ieguvis kādu no Eiropas klubu kausiem — [[2005. gads|2005]]. gadā tika izcīnīts [[UEFA Eiropas līga|UEFA kauss]]. Mājas spēles pašlaik aizvada 2016. gadā atklātajā ''[[VEB Arena]]'' stadionā, kura ietilpība ir 30&nbsp;000 skatītāju vietu.<ref>{{Tīmekļa atsauce|url=http://pfc-cska.com/stadium/about/|language=ru |title=Стадион |accessdate={{dat|2017|11|2||bez}} |publisher=pfc-cska.com }}</ref>
+
+No 2011. līdz 2017. gadam klubu pārstāvēja [[Latvijas futbola izlase|Latvijas izlases]] spēlētājs [[Aleksandrs Cauņa]]. No 2001. līdz 2005. gadam klubā spēlēja [[Juris Laizāns]].
+
+== Sastāvs ==
+''Sastāvs uz {{Dat|2019|6|18|A|bez}}.''
+{{Fs start}}
+{{Fs player|name=[[Iļja Pomazuns]]|pos=GK|no=1|nat=RUS}}
+{{Fs player|name=[[Mariu Fernandess]]|pos=DF|no=2|nat=RUS}}
+{{Fs player|name=[[Ņikita Černovs]]|pos=DF|no=3|nat=RUS}}
+{{Fs player|name=[[Viktors Vasins]]|pos=DF|no=5|nat=RUS}}
+{{Fs player|name=[[Nikola Vlašičs]]|pos=MF|no=8|nat=CRO|other=īrē no [[Everton F.C.]]}}
+{{Fs player|name=[[Fjodors Čalovs]]|pos=FW|no=9|nat=RUS}}
+{{Fs player|name=[[Alans Dzagojevs]]|pos=MF|no=10|nat=RUS}}
+{{Fs player|name=[[Kirils Nababkins]]|pos=DF|no=14|nat=RUS}}
+{{Fs player|name=[[Dmitrijs Jefremovs]]|pos=MF|no=15|nat=RUS}}
+{{Fs player|name=[[Arnors Sigurdsons]]|pos=MF|no=17|nat=ISL}}
+{{Fs player|name=[[Lasana N'Diajs]]|pos=FW|no=18|nat=MLI}}
+{{Fs player|name=[[Takuma Nišimura]]|pos=FW|no=19|nat=JAP}}
+{{Fs player|name=[[Konstantīns Kučajevs]]|pos=MF|no=20|nat=RUS}}
+{{Fs player|name=[[Georgijs Kirnats]]|pos=GK|no=22|nat=RUS}}
+{{Fs player|name=[[Herdurs Magnusons]]|pos=DF|no=23|nat=ISL}}
+{{Fs mid}}
+{{Fs player|name=[[Kristians Bistrovičs]]|pos=MF|no=25|nat=CRO}}
+{{Fs player|name=[[Jaka Bijols]]|pos=MF|no=29|nat=SLO}}
+{{Fs player|name=[[Igors Akinfejevs]]|pos=GK|no=35|nat=RUS|other=[[Kapteinis (futbols)|Kapteinis]]}}
+{{Fs player|name=[[Georgijs Šenņikovs]]|pos=DF|no=45|nat=RUS}}
+{{Fs player|name=[[Rodrigo Beako]]|pos=DF|no=50|nat=BRA|other=īrē no [[Esporte Clube Bahia|Bahia]]}}
+{{Fs player|name=[[Ilzats Ahmetovs]]|pos=MF|no=77|nat=RUS}}
+{{Fs player|name=[[Igors Divejevs]]|pos=DF|no=78|nat=RUS}}
+{{Fs player|name=[[Ivans Obļakovs]]|pos=MF|no=98|nat=RUS}}
+{{Fs player|name=[[Maksims Jedapins]]|pos=GK|no=|nat=RUS}}
+{{Fs player|name=[[Astemirs Gordjušenko]]|pos=MF|no=|nat=RUS}}
+{{Fs player|name=[[Hetags Hosonovs]]|pos=MF|no=|nat=RUS}}
+{{Fs player|name=[[Aleksandrs Makarovs]]|pos=MF|no=|nat=RUS}}
+{{Fs player|name=[[Ivans Oļeņikovs]]|pos=MF|no=|nat=RUS}}
+{{Fs player|name=[[Sergejs Tkačovs]]|pos=MF|no=|nat=RUS}}
+{{Fs end}}
+
+== Sasniegumi ==
+* '''[[Krievijas futbola Premjerlīga|Augstākā līga / Krievijas Premjerlīga]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesr/ruschamp.html |title=Russia - List of Champions |accessdate={{dat|2016|2|20||bez}} |publisher=[[RSSSF]] }}</ref>
+** Čempioni (6): 2003, 2005, 2006, 2012–13, 2013–14, 2015–16
+** Vicečempioni (7): 1998, 2002, 2004, 2008, 2010, 2014–15, 2017–18
+* '''[[Krievijas kauss futbolā|Krievijas kauss]]'''<ref name="kauss">{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesr/ruscuphist.html |title=Russia - Cup Finals |accessdate={{dat|2017|11|2||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (7): 2001–02, 2004–05, 2005–06, 2007–08, 2008–09, 2010–11, 2012–13
+** Finālisti (4): 1992–93, 1993–94, 1999–00, 2015–16
+* '''Krievijas superkauss'''<ref name="kauss" />
+** Kausa ieguvēji (7):  2004, 2006, 2007, 2009, 2013, 2014, 2018
+** Finālisti (4):  2003, 2010, 2011, 2016
+* '''[[PSRS čempionāts futbolā|PSRS čempionāts]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesu/ussrchamp.html |title=USSR (Soviet Union) - List of Champions |accessdate={{dat|2016|2|20||bez}} |publisher=[[RSSSF]] }}</ref>
+** Čempioni (7): 1946, 1947, 1948, 1950, 1951, 1970, 1991
+** Vicečempioni (4): 1938, 1945, 1949, 1990
+* '''[[PSRS kauss futbolā|PSRS kauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.rsssf.com/tablesu/ussrcuphist.html |title=USSR (Soviet Union) - List of Cup Finals |accessdate={{dat|2016|2|20||bez}} |publisher=[[RSSSF]] }}</ref>
+** Kausa ieguvēji (5): 1945, 1948, 1951, 1955, 1990–91
+** Finālisti (3): 1944, 1966–67, 1991–92
+* '''PSRS 1. līga'''
+** Čempioni (2): 1986, 1989
+* '''[[UEFA Eiropas līga|UEFA kauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefaeuropaleague/history/index.html |title=UEFA Europa League - Previous winners |language=en |accessdate={{dat|2016|2|20||bez}} |publisher=UEFA.com }}</ref>
+** Kausa ieguvēji (1):  2005
+* '''[[UEFA Superkauss]]'''<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/uefasupercup/history/season=2005/index.html |title=UEFA Super Cup - 2005 |accessdate={{dat|2016|2|20||bez}} |publisher=UEFA.com }}</ref>
+** Finālisti (1): 2005
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{commonscat|PFC CSKA Moscow|PFK CSKA Maskava}}
+* [http://www.pfc-cska.com/ Oficiālā vietne] {{en ikona}} {{ru ikona}}
+* [http://www.cskaultras.ru/ CSKA ULTRAS] {{ru ikona}}
+* [http://www.fc-cska.ru/ PFK CSKA Maskava | Nomen est omen] {{ru ikona}}
+* [https://web.archive.org/web/20090919025623/http://cska-videohits.com/ Video par CSKA] {{ru ikona}}
+
+{{futbols-aizmetnis}}
+
+[[Kategorija:Krievijas futbola klubi|CSKA]]
+[[Kategorija:Maskavas CSKA]]
+[[Kategorija:PFC CSKA Moscow]]

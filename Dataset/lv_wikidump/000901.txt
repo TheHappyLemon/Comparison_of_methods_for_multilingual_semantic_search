@@ -1,0 +1,147 @@
+[[Attēls:Brazil (orthographic projection).svg|250px|thumbnail|[[Brazīlija]]s novietojums]]
+'''[[Brazīlija]]s administratīvo iedalījumu''' veido 26 '''štati''' un viens '''federālais apgabals (distrikts)'''. Štatus sīkāk iedala 137 '''mezoreģionos'''. Mezoreģioni iedalās 558 '''mikroreģionos''', kas vēl sīkāk iedalās 5570 '''municipalitātēs'''. Visi štati veido 5 '''lielreģionus''', kuriem nav pašiem savas pārvaldes. No štatiem pēc platības lielākais ir [[Amazonasa]] (1 570 745 km²), bet mazākais [[Seržipi]] (21 910 km²). Savukārt pēc iedzīvotāju skaita visvairāk apdzīvotais štats ir [[Sanpaulu (štats)|Sanpaulu]] (44 035 304 iedzīvotāji), bet vismazāk iedzīvotāju ir [[Roraima]]s štatā (496 936 iedzīvotāji). 
+
+== Administratīvo līmeņu shēma ==
+{| class="wikitable"
+! 1. līmenis !! 2. līmenis 
+|-
+| 26 štati || 5565 municipalitātes
+|-
+| 1 [[federālais distrikts]] || 31 administratīvais reģions
+|-
+| colspan="2"| 5 reģioni
+|}
+
+== Reģioni ==
+{| class="sortable wikitable"
+! Karte !! Reģions !! Nosaukums<br />portugāļu valodā!! Lielākā pilsēta !! Platība (km²) !! Iedz.sk. (2012) !! Iekļaujošie štati
+|- 
+| [[Attēls:Central-West Region in Brazil.svg|90px]] || '''[[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]''' || ''Região Centro-Oeste'' || [[Brazilja]] || {{nts|1606403}} || {{nts|15219608}} || [[Gojasa]]<br />[[Matugrosu]]<br />[[Matugrosu du Sula]]<br />[[Federālais distrikts]]
+|-
+| [[Attēls:Southeast Region in Brazil.svg|90px]] || '''[[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]''' || ''Região Sudeste'' || [[Sanpaulu]] || {{nts|924620}} || {{nts|85115623}} || [[Espiritu Santu]]<br />[[Minasžeraisa]]<br />[[Riodežaneiro (štats)|Riodežaneiro]]<br />[[Sanpaulu (štats)|Sanpaulu]]
+|-
+| [[Attēls:South Region in Brazil.svg|90px]] || '''[[Dienvidu reģions (Brazīlija)|Dienvidu reģions]]''' || ''Região Sul'' || [[Kuritiba]] || {{nts|576774}} || {{nts|29016114}} || [[Parana]]<br />[[Riugrandi du Sula]]<br />[[Santakatarina]]
+|-
+| [[Attēls:Northeast Region in Brazil.svg|90px]] || '''[[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]''' || ''Região Nordeste'' || [[Salvadora (pilsēta)|Salvadora]] || {{nts|1554291}} || {{nts|56186190}} || [[Alagoasa]]<br />[[Baija]]<br />[[Seara]]<br />[[Maraņauna]]<br />[[Paraiba]]<br />[[Pernambuku]]<br />[[Pjaui]]<br />[[Riugrandi du Norti]]<br />[[Seržipi]]
+|-
+| [[Attēls:North Region in Brazil.svg|90px]] || '''[[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]]''' || ''Região Norte do Brasil'' || [[Manausa]] || {{nts|3853327}} || {{nts|17231027}} || [[Akri]]<br />[[Amapa]]<br />[[Amazonasa]]<br />[[Para (Brazīlijas štats)|Para]]<br />[[Rondonija]]<br />[[Roraima]]<br />[[Tokantinsa]]
+|}
+
+== Pirmā līmeņa administratīvais iedalījums ==
+{| width=500px align=center
+|-
+|
+{{Image label begin|image=Brazil Labelled Map.svg|width=500|float=none}}
+
+{{Image label small|x=0.385|y=0.080|scale=625|text=[[Amapa]]}}
+{{Image label small|x=0.380|y=0.180|scale=625|text=[[Para (Brazīlijas štats)|Para]]}}
+{{Image label small|x=0.210|y=0.060|scale=625|text=[[Roraima]]}}
+{{Image label small|x=0.130|y=0.200|scale=625|text=[[Amazonasa]]}}
+{{Image label small|x=0.080|y=0.265|scale=625|text=[[Akri]]}}
+{{Image label small|x=0.190|y=0.310|scale=625|text=[[Rondonija]]}}
+{{Image label small|x=0.430|y=0.290|scale=625|text=[[Tokantinsa]]}}
+{{Image label small|x=0.300|y=0.350|scale=625|text=[[Matugrosu]]}}
+{{Image label small|x=0.410|y=0.400|scale=625|text=[[Gojasa]]}}
+{{Image label small|x=0.480|y=0.385|scale=625|text=[[Federālais distrikts|1]]}}
+{{Image label small|x=0.550|y=0.020|scale=625|text=1 [[Federālais distrikts]]}}
+{{Image label small|x=0.320|y=0.460|scale=625|text=[[Matugrosu du Sula|Matugrosu<br />du Sula]]}}
+{{Image label small|x=0.340|y=0.620|scale=625|text=[[Riugrandi du Sula|Riugrandi<br />du Sula]]}}
+{{Image label small|x=0.370|y=0.580|scale=625|text=[[Santakatarina]]}}
+{{Image label small|x=0.380|y=0.540|scale=625|text=[[Parana]]}}
+{{Image label small|x=0.410|y=0.490|scale=625|text=[[Sanpaulu (štats)|Sanpaulu]]}}
+{{Image label small|x=0.540|y=0.500|scale=625|text=[[Riodežaneiro (štats)|Riodežaneiro]]}}
+{{Image label small|x=0.600|y=0.450|scale=625|text=[[Espiritu Santu|Espiritu<br />Santu]]}}
+{{Image label small|x=0.490|y=0.420|scale=625|text=[[Minasžeraisa]]}}
+{{Image label small|x=0.540|y=0.330|scale=625|text=[[Baija]]}}
+{{Image label small|x=0.475|y=0.190|scale=625|text=[[Maraņauna]]}}
+{{Image label small|x=0.530|y=0.250|scale=625|text=[[Pjaui]]}}
+{{Image label small|x=0.600|y=0.190|scale=625|text=[[Seara]]}}
+{{Image label small|x=0.670|y=0.210|scale=625|text=[[Riugrandi du Norti|2]]}}
+{{Image label small|x=0.550|y=0.042|scale=625|text=2 [[Riugrandi du Norti]]}}
+{{Image label small|x=0.680|y=0.230|scale=625|text=[[Paraiba|3]]}}
+{{Image label small|x=0.550|y=0.064|scale=625|text=3 [[Paraiba]]}}
+{{Image label small|x=0.607|y=0.252|scale=625|text=[[Pernambuku]]}}
+{{Image label small|x=0.675|y=0.280|scale=625|text=[[Alagoasa|4]]}}
+{{Image label small|x=0.550|y=0.086|scale=625|text=4 [[Alagoasa]]}}
+{{Image label small|x=0.655|y=0.295|scale=625|text=[[Seržipi|5]]}}
+{{Image label small|x=0.550|y=0.108|scale=625|text=5 [[Seržipi]]}}
+{{Image label small|x=0.595|y=0.560|scale=625|text=[[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]]}}
+{{Image label small|x=0.595|y=0.589|scale=625|text=[[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]}}
+{{Image label small|x=0.595|y=0.618|scale=625|text=[[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]}}
+{{Image label small|x=0.595|y=0.647|scale=625|text=[[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]}}
+{{Image label small|x=0.595|y=0.676|scale=625|text=[[Dienvidu reģions (Brazīlija)|Dienvidu reģions]]}}
+{{Image label end}}
+|}
+
+=== Federālais distrikts ===
+{| class="sortable wikitable"
+! Karte !! Karogs !! Ģerbonis !! Teritorija !! Teritorijas nosaukums<br />portugāļu valodā!! Administratīvais<br />centrs !! Platība (km²) !! Iedz.sk. (2014)<ref>{{Tīmekļa atsauce |url=http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm |title=Arhivēta kopija |access-date={{dat|2015|07|12||bez}} |archiveurl=https://web.archive.org/web/20170622170435/http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm |archivedate={{dat|2017|06|22||bez}} }}</ref>!! ISO 3166-2 !! Reģions
+|-
+| [[Attēls:Distrito Federal in Brazil.svg|90px]] || [[Attēls:Bandeira do Distrito Federal (Brasil).svg|80px]] || [[Attēls:Brasão do Distrito Federal (Brasil).svg|50px]] || '''[[Federālais distrikts]]''' || ''Distrito Federal'' || [[Brazilja]] || {{nts|5802}} || {{nts|2852372}} || BR-DF || [[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]
+|}
+
+=== Štati ===
+{| class="sortable wikitable"
+! Karte !! Karogs !! Ģerbonis !! Štats !! Štata<br />nosaukums<br />portugāļu<br />valodā!! Adminis-<br />tratīvais<br />centrs !! Platība (km²) !! Iedz.sk. (2014)<ref>{{Tīmekļa atsauce|url=http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|title=Instituto Brasileiro de Geografia e Estatística|access-date={{dat|2015|07|12||bez}}|archiveurl=https://web.archive.org/web/20170622170435/http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm|archivedate={{dat|2017|06|22||bez}}}}</ref>!! Mezo-<br />reģionu<br />skaits !! Mikro-<br />reģionu<br />skaits!! Municipali-<br />tāšu skaits!! ISO 3166-2 !! Reģions 
+|-
+| [[Attēls:Acre in Brazil.svg|90px]] || [[Attēls:Bandeira do Acre.svg|80px]] || [[Attēls:Brasão do Acre.svg|60px]] || '''[[Akri]]''' || ''Acre'' || [[Riubranku]] || {{nts|164123}} || {{nts|790101}} || 2 || 5 || 22 || BR-AC || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Alagoas in Brazil.svg|90px]] || [[Attēls:Bandeira de Alagoas.svg|80px]] || [[Attēls:Brasão do Estado de Alagoas.svg|60px]] || '''[[Alagoasa]]''' || ''Alagoas'' || [[Maseio]] || {{nts|27767}} || {{nts|3321730}} || 3 || 13 || 102 || BR-AL || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Amapa in Brazil.svg|90px]] || [[Attēls:Bandeira do Amapá.svg|80px]] || [[Attēls:Brasao amapa.jpg|60px]] || '''[[Amapa]]''' || ''Amapá'' || [[Makapa]] || {{nts|142814}} || {{nts|750912}} || 2 || 4 || 16 || BR-AP || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Amazonas in Brazil.svg|90px]] || [[Attēls:Bandeira do Amazonas.svg|80px]] || [[Attēls:Brasão do Amazonas.svg|60px]] || '''[[Amazonasa]]''' || ''Amazonas'' || [[Manausa]] || {{nts|1570745}} || {{nts|3873743}} || 4 || 13 || 62 || BR-AM || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Bahia in Brazil.svg|90px]] || [[Attēls:Bandeira da Bahia.svg|80px]] || [[Attēls:Brasão do estado da Bahia.svg|60px]] || '''[[Baija]]''' || ''Bahia'' || [[Salvadora (pilsēta)|Salvadora]] || {{nts|567295}} || {{nts|15126371}} || 7 || 32 || 417 || BR-BA || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Espirito Santo in Brazil.svg|90px]] || [[Attēls:Bandeira do Espírito Santo.svg|80px]] || [[Attēls:Brasão do Espírito Santo.svg|60px]] || '''[[Espiritu Santu]]''' || ''Espírito Santo'' || [[Vitorija (Brazīlija)|Vitorija]] || {{nts|46095}} || {{nts|3885049}} || 4 || 13 || 78 || BR-ES || [[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]
+|-
+| [[Attēls:Goias in Brazil.svg|90px]] || [[Attēls:Flag of Goiás.svg|80px]] || [[Attēls:Brasão de Goiás.svg|60px]] || '''[[Gojasa]]''' || ''Goiás'' || [[Gojanija]] || {{nts|340111}} || {{nts|6523222}} || 5 || 18 || 246 || BR-GO || [[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]
+|-
+| [[Attēls:Maranhao in Brazil.svg|90px]] || [[Attēls:Bandeira do Maranhão.svg|80px]] || [[Attēls:Brasao ma.jpg|60px]] || '''[[Maraņauna]]''' || ''Maranhão'' || [[Sanluisa]]|| {{nts|331937}} || {{nts|6850884}} || 5 || 21 || 217 || BR-MA || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Mato Grosso in Brazil.svg|90px]] || [[Attēls:Bandeira de Mato Grosso.svg|80px]] || [[Attēls:Brasão de Mato Grosso.png|60px]] || '''[[Matugrosu]]''' || ''Mato Grosso'' || [[Kujaba]] || {{nts|903366}} || {{nts|3224357}} || 5 || 22 || 141 || BR-MT || [[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]
+|-
+| [[Attēls:Mato Grosso do Sul in Brazil.svg|90px]] || [[Attēls:Bandeira de Mato Grosso do Sul.svg|80px]] || [[Attēls:Brasão de Mato Grosso do Sul.svg|60px]] || '''[[Matugrosu du Sula]]''' || ''Mato Grosso do Sul'' || [[Kampugrandi]] || {{nts|357145}} || {{nts| 	2619657}} || 4 || 11 || 79 || BR-MS || [[Centrālrietumu reģions (Brazīlija)|Centrālrietumu reģions]]
+|-
+| [[Attēls:Minas Gerais in Brazil.svg|90px]] || [[Attēls:Bandeira de Minas Gerais.svg|80px]] || [[Attēls:Brasão de Minas Gerais.svg|60px]] || '''[[Minasžeraisa]]''' || ''Minas Gerais'' || [[Belu Orizonti]] || {{nts|586522}} || {{nts|20734097}} || 12 || 66 || 853 || BR-MG || [[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]
+|-
+| [[Attēls:Para in Brazil.svg|90px]] || [[Attēls:Bandeira do Pará.svg|80px]] || [[Attēls:Brasão do Pará.svg|60px]] || '''[[Para (Brazīlijas štats)|Para]]''' || ''Pará'' || [[Belema]] || {{nts|1247954}} || {{nts|8073924}} || 6 || 22 || 144 || BR-PA || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Paraiba in Brazil.svg|90px]] || [[Attēls:Bandeira da Paraíba.svg|80px]] || [[Attēls:Brasão da Paraíba.svg|60px]] || '''[[Paraiba]]''' || ''Paraíba'' || [[Žoaunpesoa|Žuaunpesoa]]|| {{nts|56469}} || {{nts|3943885}} || 4 || 23 || 223 || BR-PB || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Parana in Brazil.svg|90px]] || [[Attēls:Bandeira do Paraná.svg|80px]] || [[Attēls:Brasão do Paraná.svg|60px]] || '''[[Parana]]''' || ''Paraná'' || [[Kuritiba]] || {{nts|199307}} || {{nts|11081692}} || 10 || 39 || 399 || BR-PR || [[Dienvidu reģions (Brazīlija)|Dienvidu reģions]]
+|-
+| [[Attēls:Pernambuco in Brazil.svg|90px]] || [[Attēls:Bandeira de Pernambuco.svg|80px]] || [[Attēls:Brasão do estado de Pernambuco.svg|60px]] || '''[[Pernambuku]]''' || ''Pernambuco'' || [[Resifi]] || {{nts|98311}} || {{nts|9277727}} || 5 || 19 || 185 || BR-PE || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Piaui in Brazil.svg|90px]] || [[Attēls:Bandeira do Piauí.svg|80px]] || [[Attēls:Brasaopi.gif|60px]] || '''[[Pjaui]]''' || ''Piauí'' || [[Terezina]] || {{nts|251577}} || {{nts|3194718}} || 4 || 14 || 224 || BR-PI || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Rio de Janeiro in Brazil.svg|90px]] || [[Attēls:Bandeira do estado do Rio de Janeiro.svg|80px]] || [[Attēls:Brasão do estado do Rio de Janeiro.svg|60px]] || '''[[Riodežaneiro (štats)|Riodežaneiro]]''' || ''Rio de Janeiro'' || [[Riodežaneiro]] || {{nts|43780}} || {{nts|16471173}} || 6 || 18 || 92 || BR-RJ || [[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]
+|-
+| [[Attēls:Rio Grande do Norte in Brazil.svg|90px]] || [[Attēls:Bandeira do Rio Grande do Norte.svg|80px]] || [[Attēls:Brasão do Rio Grande do Norte.svg|60px]] || '''[[Riugrandi du Norti]]''' || ''Rio Grande do Norte'' || [[Natala]] || {{nts|52811}} || {{nts|3408510}} || 4 || 19 || 167 || BR-RN || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Rio Grande do Sul in Brazil.svg|90px]] || [[Attēls:Bandeira do Rio Grande do Sul.svg|80px]] || [[Attēls:Brasão do Rio Grande do Sul.svg|60px]] || '''[[Riugrandi du Sula]]''' || ''Rio Grande do Sul'' || [[Portualegri]] || {{nts|281730}} || {{nts|11207274}} || 7 || 35 || 497 || BR-RN || [[Dienvidu reģions (Brazīlija)|Dienvidu reģions]]
+|-
+| [[Attēls:Rondonia in Brazil.svg|90px]] || [[Attēls:Bandeira de Rondônia.svg|80px]] || [[Attēls:BrasaoRondonia.jpg|60px]] || '''[[Rondonija]]''' || ''Rondônia'' || [[Portuvelju]] || {{nts|237576}} || {{nts|1748531}} || 2 || 8 || 52 || BR-RO || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Roraima in Brazil.svg|90px]] || [[Attēls:Bandeira de Roraima.svg|80px]] || [[Attēls:Brasão de Roraima.jpg|60px]] || '''[[Roraima]]''' || ''Roraima'' || [[Boavista (pilsēta)|Boavista]] || {{nts|224300}} || {{nts|496936}} || 2 || 4 || 15 || BR-RR || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|-
+| [[Attēls:Sao Paulo in Brazil.svg|90px]] || [[Attēls:Bandeira do estado de São Paulo.svg|80px]] || [[Attēls:Brasão do estado de São Paulo.svg|60px]] || '''[[Sanpaulu (štats)|Sanpaulu]]''' || ''São Paulo'' || [[Sanpaulu]] || {{nts|248222}} || {{nts|44035304}} || 15 || 63 || 645 || BR-SP || [[Dienvidaustrumu reģions (Brazīlija)|Dienvidaustrumu reģions]]
+|-
+| [[Attēls:Santa Catarina in Brazil.svg|90px]] || [[Attēls:Bandeira de Santa Catarina.svg|80px]] || [[Attēls:Brasão de Santa Catarina.svg|60px]] || '''[[Santakatarina]]''' || ''Santa Catarina'' || [[Florianopolisa]] || {{nts|95736}} || {{nts|6727148}} || 6 || 20 || 295 || BR-SC || [[Dienvidu reģions (Brazīlija)|Dienvidu reģions]]
+|-
+| [[Attēls:Ceara in Brazil.svg|90px]] || [[Attēls:Bandeira do Ceará.svg|80px]] || [[Attēls:Brasão do Ceará.svg|60px]] || '''[[Seara]]''' || ''Ceará'' || [[Fortaleza]] || {{nts|148920}}} || {{nts|8842791}} || 7 || 33 || 184 || BR-CE || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Sergipe in Brazil.svg|90px]] || [[Attēls:Bandeira de Sergipe.svg|80px]] || [[Attēls:Brasão de Sergipe.svg|60px]] || '''[[Seržipi]]''' || ''Sergipe'' || [[Arakažu]] || {{nts|21915}} || {{nts|2219574}} || 3 || 13 || 75 || BR-SE || [[Ziemeļaustrumu reģions (Brazīlija)|Ziemeļaustrumu reģions]]
+|-
+| [[Attēls:Tocantins in Brazil.svg|90px]] || [[Attēls:Bandeira do Tocantins.svg|80px]] || [[Attēls:Brasão do Tocantins.svg|60px]] || '''[[Tokantinsa]]''' || ''Tocantins''|| [[Palmasa]] || {{nts|277620}} || {{nts|1496880}} || 2 || 8 || 139 || BR-TO || [[Ziemeļu reģions (Brazīlija)|Ziemeļu reģions]] 
+|}
+
+== Atsauces ==
+{{atsauces}}
+
+{{Brazīlijas štati}}
+{{Dienvidamerikas valstu administratīvie iedalījumi}}
+
+[[Kategorija:Brazīlijas administratīvais iedalījums| ]]
+[[Kategorija:Valstu administratīvais iedalījums]]

@@ -1,0 +1,74 @@
+{{Kosmiskā aparāta infokaste
+| Nosaukums              = 2MV-3 №1
+| Nosaukums_orig         = ''2МВ-3 №1''
+| Attēls                 = 
+| Attēla_izmērs          = 
+| Att_virsraksts         = 
+| Programma              = [[Mars programma]]
+| KA_veids               = [[Marss (planēta)|Marsa]] [[nolaižamais aparāts]]
+| Bāzes platforma        = [[2MV-3]]
+| KA sērijas Nr          = 1
+| Īpašnieks              = 
+| Operators              = {{URS}}
+| Lielākie_izgatavotāji  = [[OKB-1]], {{URS}}
+| Starta_gads            = 1962
+| Starts                 = {{dat|1962|11|4|SK}} 15:35:15 [[UTC]]
+| Nesējs                 = [[Molnija (nesējraķete)|Molnija]], {{URS}}
+| Starta_vieta           = [[Baikonuras kosmodroms]]
+| Starta_laukums         = Nr.1
+| Starta_valsts          = {{URS}}
+| Darbības_beigu_gads    = 1962
+| Darbības_beigu_datums  = {{dat|1962|11|4|SK}} 
+| Darbības_ilgums        = 
+| Beigu_gads             = 1962
+| Beigu_datums           = {{dat|1962|11|5|SK}}
+| Lidojuma_ilgums        = 
+| NSSDC_ID               = 1962-062A
+| Tīmekļa_vietne         = 
+| Masa                   = 890 kg
+| Sausmasa               = 
+| Pilna_masa             = 
+| Zinātnisko_instr_masa  = 
+| Enerģija               = 
+| Raidītāji              = 
+| Pārlidojums            = 
+| Pārlidojuma_datums     = 
+| Orbītas_elementi       = jā
+| Centr_ķermenis         = Zeme
+| Centr_ķermenis_parādīt = [[Zeme]]
+| Orbītas_veids          = 
+| GEO_punkts             = 
+| Lielā_pusass           = 
+| Ekscentricitāte        = 
+| Inklinācija            = 64,7°
+| Periods                = 88,7 min
+| Apoapsīda              = 226 km
+| Periapsīda             = 200 km
+| Apriņķojumi            = 
+| Orbītā_ieiešanas_dat   = 
+| KA_iepr                = [[Mars-1]]
+| KA_nāk                 = 
+}}
+'''2MV-3 №1'''<ref name="NK 1996-20" /> bija [[Padomju Savienība|PSRS]] [[starpplanētu zonde]], kura kļūmīgi tika palaista 1962. gada 4. novembrī, bet neatstāja Zemes orbītu. Tai bija plānota nolaišanās uz [[Marss (planēta)|Marsa]] virsmas.
+
+''2MV-3 №1'' bija vienīgais Marsa nolaižamā aparāta eksemplārs unificēto Marsa un Veneras kosmisko aparātu sērijā [[2MV]].
+<!--Zondes masa bija 89,5 kilogrami.-->
+
+{{dat|1962|11|4||bez}} 15:35:15 [[UTC]] startēja nesējraķete [[Molnija (nesējraķete)|Molnija]] (''8K78'') ar ''2MV-3 №1''. Raķetes otrās pakāpes dzinēja darbībā tika novērotas anomālijas, bet tās neizraisīja avāriju, un derīgā krava (pēdējā pakāpe ''Blok L'' un zonde) tika ievadīta Zemes orbītā. Raķešbloka ''Blok L'' darbības 33. sekundē priekšlaicīgi izsledzās dzinējs. Vēlāk tika noskaidrots, ka tas noticis vadības sistēmas programmas atmiņas blokam izkrītot no statīva, jo statīvs nebija pietiekami noturīgs otrās pakāpes izraisītajās stiprajās vibrācijās.<ref name="NK 1996-20" />
+
+Zonde palika Zemes orbītā. 5. novembrī ''2MV-3 №1'' iegāja atmosfēras blīvajos slāņos un sadega.<ref name="NK 1996-20" /> Dažas nesējraķetes daļas orbītā noturējās līdz 27. decembrim, un ''Blok L'' dzinējs orbītā riņķoja līdz pat 1963. gada 19. janvārim.<ref name="Jonathan satcat" />
+
+== Atsauces ==
+{{atsauces|refs=
+<ref name="NK 1996-20">[http://www.novosti-kosmonavtiki.ru/content/numbers/135/16.shtml Россия. На Mapc!] {{Webarchive|url=https://web.archive.org/web/20120304025349/http://www.novosti-kosmonavtiki.ru/content/numbers/135/16.shtml |date={{dat|2012|03|04||bez}} }} К.Лантратов, Новости космонавтики, 1996-20 {{ru ikona}}</ref>
+<ref name="Jonathan satcat">{{Tīmekļa atsauce|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|last=McDowell|first=Jonathan|publisher=Jonathan's Space Page|accessdate=2010-07-29}}</ref>
+}}
+
+== Ārējās saites ==
+* [http://space.skyrocket.de/doc_sdat/mars-2mv-3.htm Mars (2a) (2MV-3 #1)] Gunter Dirk Krebs {{en ikona}}
+
+
+{{1962. gada orbitālie starti}}
+
+
+[[Kategorija:Mars programma]]

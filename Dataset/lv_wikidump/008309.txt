@@ -1,0 +1,3 @@
+{{langWithName|la|latīņu|''{{{1}}}''{{#if:{{{2|}}}|&nbsp;vai ''{{{2}}}''}}}}<noinclude>
+[[Kategorija:Valodu veidnes|la]]
+</noinclude>

@@ -1,0 +1,95 @@
+{{Apdzīvotas vietas infokaste
+| name                    = Kumanova
+| official_name             = ''Куманово''
+| native_name_lang        = 
+| settlement_type         = pilsēta
+| image_skyline           = „Спомен костурница“ 06.jpg
+| image_caption           = <small>Memoriāls Kumanovā</small>
+| image_flag              = Flag of Kumanovo Municipality.svg
+| image_seal              = 
+| image_shield            = Coat of arms of Kumanovo Municipality.svg
+| shield_size             = 65px
+| etymology               = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Macedonia
+| pushpin_label_position  = 
+| pushpin_map_caption     = Kumanovas atrašanās vieta Maķedonijā
+| latd  = 42 | latm  =  8 | lats  = 9 | latNS  = N
+| longd = 21 | longm = 43 | longs = 5 | longEW = E
+| subdivision_type        = Valsts
+| subdivision_name        = {{MKD}}
+| subdivision_type1       = Reģions
+| subdivision_name1       = Ziemeļaustrumu reģions
+| subdivision_type2       = Pašvaldība
+| subdivision_name2       = [[Kumanovas pašvaldība|Kumanova]]
+| established_title       = Dibināta
+| established_date        = 1096
+| established_title2      = Rakstos
+| established_date2       = 1519
+| founder                 = 
+| named_for               = [[kumāni]]
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| leader_title1           = 
+| leader_name1            =
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </ref> -->
+| area_rural_footnotes    = <!-- <ref> </ref> -->
+| area_metro_footnotes    = <!-- <ref> </ref> -->
+| area_magnitude          = <!-- <ref> </ref> -->
+| area_note               = 
+| area_water_percent      = 
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = 
+<!-- square kilometers -->
+| area_total_km2          = 509.48
+| area_land_km2           = 
+| area_water_km2          = 
+| area_urban_km2          = 
+| area_rural_km2          = 
+| area_metro_km2          = 
+| area_blank1_km2         = 
+| area_blank2_km2         = 
+| elevation_m             = 340
+| population_as_of        = 2002
+| population_footnotes    = 
+| population_total        = 70.842
+| population_metro        = 105 484
+| population_density_km2  = 207.04
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = Pasta indeksi
+| postal_code             = 1300
+| area_code_type          = 
+| area_code               = +389 (0) 31
+| iso_code                = 
+| website               = {{URL|kumanovo.gov.mk}}
+| footnotes             = 
+}}
+
+'''Kumanova''' ({{val|mk|Куманово}}) ir pilsēta [[Ziemeļmaķedonija]]s ziemeļos, uz ziemeļaustrumiem no [[Skopje]]s. Maķedonijas otrā lielākā pilsēta. Pilsētai raksturīgs īpatnējs dialekts, kuru ar grūtībām saprot citi maķedonieši.
+
+Pilsētas nosaukums varētu būt cēlies no kumānu ([[polovcieši|polovciešu]]) vārda, kuri XII gadsimtā apmetās pilsētas apkaimē. Pilsēta [[turki|turku]] rakstos pirmoreiz pieminēta 1519. gadā. XVI gadsimtā turku ceļotājs aprakstīja Kumanovu kā pilsētu ar [[mošeja|mošeju]], [[medrese|medresi]] un [[karavansarajs|karavansaraju]]. 1689. gadā Kumanova bija maķedoniešu Karpoša sacelšanās centrs pret turkiem. Strauji Kumanova sāka attīstīties tikai pēc [[Otrais pasaules karš|Otrā pasaules kara]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Ziemeļmaķedonija-aizmetnis}}
+
+{{Ziemeļmaķedonijas pilsētas}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ziemeļmaķedonijas pilsētas]]

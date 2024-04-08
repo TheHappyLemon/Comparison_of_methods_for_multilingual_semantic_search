@@ -1,0 +1,48 @@
+{{Elektrodinamika}}
+
+'''Magnētiskās indukcijas plūsmu''' [[fizika|fizikā]] apzīmē ar <math>\Phi \ </math>.
+
+Magnētiskās indukcijas plūsma <math>\Phi \ </math> caur jebkuru patvaļīgu, slēgtu, viensakarīgu [[virsma|virsmu]] <math>S \ </math> vienmēr ir vienāda ar [[nulle|nulli]].
+
+: <math>\Phi = \oint_S \vec{B} \mathrm{d}\vec{S} = 0 \ </math>
+
+Šis integrālais [[vienādojums]] ir [[Gausa teorēma]]i analoģiska izteiksme [[magnētiskais lauks|magnētiskajam laukam]]. Tas nozīmē, ka [[magnētiskā lauka indukcija|magnētiskās indukcijas]] līnijas, būdamas noslēgtas, virsmas <math>S \ </math> ierobežotajā [[tilpums|tilpumā]] nesākas un nebeidzas; tās tikai šķērso to.
+
+== Plūsmas būtības paskaidrojums ==
+[[Attēls:Magnetiska lauka plusma.JPG|300px|thumb|left]]
+Atšķirībā no stacionāra [[elektriskais lauks|elektriskā lauka]] intensitātes <math>\vec{E} \ </math> līnijām, kurām ir avoti - [[elektriskais lādiņš|elektriskie lādiņi]], [[Magnētiskā lauka indukcija|magnētiskās indukcijas]] <math>\vec{B} \ </math> līnijas vienmēr ir noslēgtas. Tas tā ir tāpēc, ka [[daba|dabā]] nepastāv atdalīti vienas "zīmes" (polaritātes) magnētiskie lādiņi - indukcijas līniju avoti. Piemēram, patstāvīga [[magnēts|magnēta]] [[magnēta ziemeļpols|ziemeļpolu]] nevar atdalīt no [[magnēta dienvidpols|dienvidpola]] tā, lai katrs no tiem radītu savu [[magnētiskais lauks|magnētisko lauku]]. [[Magnētiskā lauka indukcija|Indukcijas]] līnijas (ārpus magnēta) vienmēr izplūst no ziemeļpola un ieplūst dienvidpolā, noslēdzoties magnētā (no dienvidpola uz ziemeļpolu).
+
+== Ja indukcijas līnijas izplatas tikai vienā virzienā ==
+[[Attēls:Magnetiska lauka plusma2.JPG|300px|thumb|right]]
+
+Ja [[Magnētiskā lauka indukcija|indukcijas]] līnijas izplatas tikai vienā virzienā un tās caur konkrēto [[laukums|laukumu]] <math>S \ </math> neatgriežas, tad plūsmu <math>\Phi \ </math> var aprēķināt pēc formulas:
+
+: <math>\Phi = \vec{B} \mathrm{d}\vec{S} \ </math>
+: <math>\vec{B} \mathrm{d}\vec{S} = B \mathrm{d}S \cos\alpha \ </math>
+::: kur
+:::: <math>\alpha \ </math> - leņķis starp plūsmas virzienu un laukuma [[perpendikuls|perpendikulu]] ([[radiāns|rad]])
+
+Tādēļ sanāk, ka
+
+: <math>\Phi = B \mathrm{d}S \cos\alpha \ </math>
+
+== Magnētiskās indukcijas plūsmas mērvienība ==
+
+Magnētiskās indukcijas plūsmas mērvienība ir [[vēbers]] (Wb).
+
+1 Wb = 1 [[tesla|T]] × 1 [[kvadrātmetrs|m<sup>2</sup>]], ja [[virsma]] ir novietota perpendikulāri [[Magnētiskā lauka indukcija|indukcijas]] līnijām.
+
+== Elektromagnētiskās indukcijas likums ==
+
+Elektromagnētiskās indukcijas likums ir
+
+: <math>\epsilon_i = \frac{\Delta \Phi}{\Delta t} \ </math>
+::: kur
+:::: <math>\epsilon_i \ </math> ir [[Magnētiskā lauka indukcija|indukcijas]] [[elektrodzinējspēks]], kuru rada mainīga magnētiskā plūsma ([[volts|V]])
+:::: <math>\Delta \Phi \ </math> ir magnētiskās plūsmas izmaiņa ([[vēbers|Wb]])
+:::: <math>\Delta t \ </math> ir [[laiks]], kurā notiek magnētiskās plūsmas izmaiņa ([[sekunde|s]])
+
+''Vairāk par elektromagnētiskās indukcijas likumu skatīt [[Elektromagnētiskās indukcijas likums|šeit]]''
+
+[[Kategorija:Magnētiskais lauks]]
+[[Kategorija:Magnētisms]]

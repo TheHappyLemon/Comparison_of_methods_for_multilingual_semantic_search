@@ -1,0 +1,96 @@
+{{Datora aparatūras infokaste
+| name        = Sistēmplate 
+| image       = Mainboard EPox 8KTA3.jpg
+| caption     = ''Epox 8KTA3'' sistēmplate ar VIA KT133A čipsetu.
+| invent-date = 
+| invent-name = 
+| conn1       = Mikroprocesoru
+| via1_1      = [[Centrālā procesora ligzda|CPU ligzdām]]
+| via1_2      = Slotiem (vecākām sistēmplatēm)
+| via1_3      = Tiešu [[Lodēšana|lodēšanu]] (uz īpašām sistēmplatēm)
+| conn2       = Primāro atmiņu
+| via2_1      = Slotiem
+| via2_2      = Kontaktligzdām "ārējām" mikroshēmām (vecākām sistēmplatēm)
+| via2_3      = Tiešu lodēšanu individuālām mikroshēmām  (īpašu nolūku sistēmplatēm)
+| conn3       = Perifērijām
+| via3_1      = Ārējām pieslēgvietām
+| via3_2      = Iekšējiem kabeļiem
+| conn4       = [[Izvērses plate|Izvērses platēm]]
+| via4_1      = [[PCI Express]]
+| via4_2      = [[PCI]]
+| via4_3      = [[AGP]]
+| via4_4      = ISA (vecākām sistēmplatēm)
+| class-name  = Formas standarts
+| class1      = ATX
+| class2      = microATX
+| class3      = AT (vecākām sistēmplatēm)
+| class4      = Baby AT (vecākām sistēmplatēm)
+| manuf1      = ASUS
+| manuf2      = Gigabyte Technology
+| manuf3      = [[Intel Corporation]]
+| manuf4      = MSi
+| manuf5      = Foxconn
+}}
+
+'''Sistēmplate''' ({{val-en|motherboard}}), saukta arī par '''pamatplati''' vai '''mātesplati''', ir centrālā jeb galvenā [[montāžas plate]] sarežģītās elektroniskās sistēmās, piemēram, [[dators|datoros]].
+
+Tipisku datoru veido [[mikroprocesors]], pamata [[datoru atmiņa|atmiņa]] un citas sistēmplates pamatkomponentes. Citas datora komponentes, piemēram, ārējie datu nesēji, [[audio]] un [[video]] kontroles ierīces, [[perifērija]]s ierīces parasti tiek savienotas ar sistēmplati, izmantojot dažāda veida savienotājus un kabeļus.
+
+==  Datora sistēmplates sastāvdaļas ==
+
+=== Universālās ===
+Jebkuram datoram parasti ir šīs divas komponentes:
+* [[Centrālā procesora ligzda]], kurā ievieto [[Centrālais procesors|centrālo procesoru]],
+* [[RAM]] sloti
+
+=== Paplašināšanas sloti ===
+Paplašināšanas slotu skaits un tipi ir atkarīgi no sistēmplates ražotāja un izmantotā mikroshēmu komplekta ierobežojumiem. Pazīstamākie slotu tipi ir:
+* [[ISA]]
+* [[PCI]]
+* [[AGP]]
+* [[PCI-Express]]
+
+Vecākās sistēmās ir sastopami arī šādi sloti:
+* [[S-100]]
+* [[NuBus]]
+* [[SBus]]
+* [[MCA]] (mikrokanāla arhitektūra)
+* [[VESA Local Bus]]
+* [[EISA]]
+
+=== Perifērijas interfeisi ===
+[[Attēls:386DX40 MB Jaguar V.jpg|thumb|200px|[[1993]]. gada Octek Jaguar V sistēmplate.<ref>[http://redhill.net.au/b/b-93.html Red Hill motherboards<!-- Bota izveidots nosaukums -->]</ref>]]
+
+Sistēmplates var saturēt arī dažādus perifērijas iekārtu pieslēgšanai paredzētus interfeisus, piemēram:
+
+* [[IDE]] kontrolierus
+* [[Serial ATA]] kontrolierus
+* [[USB]] portus
+* [[FireWire]] portus
+* [[Bluetooth]]
+* [[Ethernet]] interfeisu
+* [[SCSI]]
+* [[Paralēlā pieslēgvieta|Paralēlo pieslēgvietu]]
+* [[Virknes pieslēgvieta|Virknes pieslēgvietu]]
+
+== Skatīt arī ==
+* [[BIOS]]
+* [[Mikroshēmojums]]
+* [[Personālā datora aparatūra]]
+* ''[[plug and play]]''
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://web.archive.org/web/20120403042103/http://www.liis.lv/mspamati/ECDL/1modulis/e101030101.htm Sistēmplates pamatraksturojums]
+* [http://www.wimsbios.com/biosupdates.jsp Sistēmplašu ražotāju saraksts un saites uz BIOS atjauninājumiem] {{en ikona}}
+* [https://web.archive.org/web/20090211040920/http://hardcoreware.net/reviews.htm Sistēmplašu pārskati] {{en ikona}}
+
+{{commonscat|Computer motherboards|Sistēmplate}}
+
+{{IT-aizmetnis}}
+
+{{Datora pamatkomponentes}}
+
+[[Kategorija:Mātesplate]]

@@ -1,0 +1,43 @@
+{{navbox
+|name=Brazīlijas štati
+|title=[[Brazīlija]]s [[Brazīlijas administratīvais iedalījums|administratīvais iedalījums]] {{flaga|Brazīlija}}
+|image=[[Attēls:Coat_of_arms_of_Brazil.svg|50px]]
+
+| bodyclass  = hlist
+| state      = {{{state|autocollapse}}}
+
+|above=
+* [[Federālais distrikts|Galvaspilsētas federālais distrikts]]
+
+|list1=
+* [[Akri]]
+* [[Alagoasa]]
+* [[Amapa]]
+* [[Amazonasa]]
+* [[Baija]]
+* [[Espiritu Santu]]
+* [[Gojasa]]
+* [[Maraņauna]]
+* [[Matugrosu]]
+* [[Matugrosu du Sula]]
+* [[Minasžeraisa]]
+* [[Para (Brazīlijas štats)|Para]]
+* [[Paraiba]]
+* [[Parana]]
+* [[Pernambuku]]
+* [[Pjaui]]
+* [[Riodežaneiro (štats)|Riodežaneiro]]
+* [[Riugrandi du Norti]]
+* [[Riugrandi du Sula]]
+* [[Rondonija]]
+* [[Roraima]]
+* [[Sanpaulu (štats)|Sanpaulu]]
+* [[Santakatarina]]
+* [[Seara]]
+* [[Seržipi]]
+* [[Tokantinsa]]
+}}<noinclude>
+{{Collapsible option}}
+
+[[Kategorija:Ģeogrāfijas navigācijas veidnes]]
+</noinclude>

@@ -1,0 +1,32 @@
+[[Attēls:Circ1.svg|thumb|right|180px|Rādiuss ''r'', kas savieno riņķa līnijas centru ''O'' ar punktu ''P''.]]
+Par [[riņķa līnija]]s '''rādiusu''' sauc jebkuru [[nogrieznis|nogriezni]], kas savieno riņķa līnijas centru ar kādu no tās [[punkts (ģeometrija)|punktiem]].<ref>Inese Lude, Jolanta Lapiņa. Matemātika 7. klasei. [[Pētergailis]], 2013. 41. lpp.</ref> Par rādiusu mēdz saukt arī šī nogriežņa [[garums|garumu]]. Riņķa līnijas un sfēras rādiuss ir vienāds ar pusi no tās [[diametrs|diametra]].
+
+Vispārīgākā gadījumā [[ģeometrija|ģeometrijā]], [[grafu teorija|grafu teorijā]], inženierzinātnē un citās nozarēs rādiuss kādam objektam (piemēram, [[sfēra]]i, [[cilindrs|cilindram]], [[daudzstūris|daudzstūrim]], [[grafs|grafam]]) ir [[attālums]] no tā centra vai [[simetrijas ass]] līdz tā tālākajiem punktiem. Šādā gadījumā rādiuss var būt lielāks par pusi no diametra.
+
+== Lietojums ==
+[[Attēls:radiuss.png|thumb|right|Divi pretēji vērsti rādiusi veido [[diametrs|diametru]].]]
+
+Visiem vienas riņķa līnijas rādiusiem ir vienāds garums, tāpēc riņķa līniju var viennozīmīgi uzdot, norādot tās rādiusu un centra koordinātas. Piemēram, ja riņķa līnijas rādiuss ir ''r'' un tās centrs ir punktā (''x''<sub>0</sub>,&nbsp;''y''<sub>0</sub>), tad šo riņķa līniju apraksta [[vienādojums]]
+:<math> (x - x_0)^2 + (y - y_0)^2 = r^2. \,</math>
+
+Divi viena riņķa rādiusi ''OA'' un ''OB'', kas novietoti uz vienas taisnes (viens pret otru 180 grādu [[leņķis|leņķī]]), veido šī riņķa [[diametrs|diametru]] ''AB''. Tātad, ja riņķa līnijas rādiuss ir ''r'', tad tās diametrs ir
+:<math> d = 2 r. \,</math>
+
+Rādiusu izmanto arī riņķa līnijas garuma un riņķa [[laukums|laukuma]] aprēķināšanai. Ja riņķa līnijas rādiuss ir ''r'', tad tās garums ir
+:<math> C = 2 \pi r, \,</math>
+bet tai atbilstošā riņķa laukums ir
+:<math> S = \pi r^2. \,</math>
+
+== Skatīt arī ==
+* [[Rādiusvektors]]
+* [[Diametrs]]
+
+==Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* Eric W. Weisstein, [http://mathworld.wolfram.com/Radius.html Radius], MathWorld.
+
+[[Kategorija:Ģeometrija]]

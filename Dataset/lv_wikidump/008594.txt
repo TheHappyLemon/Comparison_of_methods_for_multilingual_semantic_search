@@ -1,0 +1,43 @@
+[[Attēls:Meissner effect p1390048.jpg|thumb|235px|[[Meisnera efekts]] — [[magnēts]] [[levitācija|levitē]] virs zemas [[temperatūra]]s [[supravadītspēja|supravadītāja]]]]
+'''Zinātne''' ir [[cilvēks|cilvēka]] darbības nozare, kuras mērķis ir iegūt [[zināšanas]]. Savukārt šīs zināšanas tiek iegūtas mērķtiecīgi, [[zinātnieks|zinātniekiem]] apkopojot un analizējot datus, ko tie iegūst, veicot [[novērojums|novērojumus]], [[pētījums|pētījumus]] un [[eksperiments|eksperimentus]]. Pēc tam iegūtās zināšanas ļauj [[teorija|teorētiski]] izskaidrot, kā notiek dažādas norises un [[parādība]]s gan [[daba|dabā]], gan [[sabiedrība|sabiedrībā]]. Par zinātni sauc arī zināšanu sistemātisku kopumu kādā noteiktā jomā.
+
+[[Hipotēze]]s, kuras tiek izvirzītas, lai izskaidrotu kādu parādību, ir daļa no zinātnes. Hipotēžu pareizību reizēm var pārbaudīt ar eksperimentu palīdzību. Lai hipotēzi pierādītu, nepietiek veikt tikai vienu eksperimentu. Tie ir jāveic atkārtoti, lai izslēgtu kļūdas iespējamību, jo eksperimenta rezultāts var būt atkarīgs no tā veikšanas apstākļiem. Ne visas hipotēzes var pārbaudīt ar tiešiem eksperimentiem. Piemēram, hipotēzes par [[Saules sistēma]]s izcelšanos nevar pārbaudīt tieši, tomēr to var darīt, veicot apjomīgu datormodelēšanu,<ref>[https://www.astronomynow.com/080807ComputersimulationputsSolarSysteminitsplace.html Computer simulations put Solar System in its place] {{Webarchive|url=https://web.archive.org/web/20211117185216/https://astronomynow.com/080807ComputersimulationputsSolarSysteminitsplace.html |date={{dat|2021|11|17||bez}} }} {{angliski}}</ref> kā arī novērojot citu zvaigžņu sistēmu evolūciju.
+
+Teorija ir apgalvojumu kopums. Teorijas patiesums var būt pierādīts, piemēram, [[relativitātes teorija]], taču tas var arī nebūt līdz galam pierādīts, piemēram, [[superstīgu teorija]]. Nepareizas teorijas tiek atmestas, piemēram, [[flogistona teorija]].
+
+Zinātnes attīstība ir ļoti cieši saistīta ar [[tehnoloģija|tehnoloģijām]], jo zinātnes sniegtās zināšanas tiek izmantotas dažādu tehnoloģisku procesu izveidošanā un uzlabošanā. Zinātnes [[antonīms|pretmets]] ir [[pseidozinātne]].
+
+== Zinātņu klasifikācija ==
+Pastāv dažādi zinātņu klasifikācijas veidi. Viens no plašāk izmantotajiem veidiem ir šāds:
+* [[dabas zinātnes|dabas zinātnēs]] ([[fizika]], [[matemātika]], [[astronomija]], [[ķīmija]], [[bioloģija]] u.c.);
+* [[sociālās zinātnes|sociālajās zinātnēs]] ([[ekonomika]], [[psiholoģija]], [[socioloģija]] un citas);
+* [[humanitārās zinātnes|humanitārajās zinātnēs]] ([[vēsture]], [[filozofija]], [[valodniecība]], [[literatūrzinātne]] u.c.)
+* [[inženierzinātnes]]: ([[pārtikas tehnoloģija]], [[ķīmijas tehnoloģija]] u.c.);
+* starpdisciplinārās zinātnēs ([[konfliktoloģija]] u.c.)
+
+Protams, šāds modelis ir visai nosacīts. Piemēram, [[psiholoģija]] savās apakšnozarēs nereti robežojas ar [[bioloģija|bioloģiju]] vai [[medicīna|medicīnu]], savukārt vairāki [[valodniecība]]s un [[literatūrzinātne]]s virzieni — ar [[socioloģija|socioloģiju]] u.tml.
+
+== Zinātnes vēsture ==
+{{pamatraksts|zinātnes vēsture}}
+Zinātnes pirmsākumi ir meklējami turpat, kur radās pirmās [[civilizācija]]s — [[Senā Divupe|Senajā Divupē]], [[Senā Indija|Senajā Indijā]], [[Senā Ēģipte|Senajā Ēģiptē]], [[Senā Persija|Persijā]], [[Senā Ķīna|Senajā Ķīnā]] un [[Maiju valsts|Maiju valstī]]. Vieni no pirmajiem, kuri strauji attīstīja zinātni, bija [[šumeri]] mūsdienu [[Irāka]]s teritorijā. Aptuveni 3500 gadus pirms mūsu ēras šumeri nonāca ciešā kontaktā ar [[Indas ielejas civilizācija|Indas ielejas civilizāciju]]. Savstarpējā mijiedarbībā tika izgudroti daudzi [[izgudrojums|izgudrojumi]].
+
+Zinātne mūsdienu izpratnē uzplauka [[Klasiskais periods|klasiskā perioda]] laikā [[Senā Grieķija|Senajā Grieķijā]]. [[Viduslaiki|Viduslaikos]] Eiropā bija novērojams zinātnes pagrimums. Tikai [[renesanse]]s periodā zinātne atkal uzplauka, ko dēvē arī par [[Zinātniskā revolūcija|zinātnisko revolūciju]].
+
+== Skatīt arī ==
+{{portāls2|Zinātne}}
+* [[Pseidozinātne]]
+
+== Atsauces ==
+{{atsauces+}}
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20110925020029/http://www.lzp.gov.lv/index.php?option=com_content&task=view&id=144&Itemid=51 Latvijas Zinātņu nozaru un apakšnozaru anotācijas]
+
+{{Zinātne-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Zinātne| ]]

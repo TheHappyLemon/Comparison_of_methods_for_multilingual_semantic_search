@@ -1,0 +1,63 @@
+{{Elementa infokaste
+|                 tips = pusmetāls
+|      kārtas skaitlis = 32
+|             1. čaula = 2
+|             2. čaula = 8
+|             3. čaula = 18
+|             4. čaula = 4
+|              simbols = Ge
+|             atommasa = 72,63(1)
+|   valences elektroni = [Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>2</sup>
+|       tabulas attēls = [[Attēls:Ge-TableImage.svg|250px]]
+|               attēls = [[Attēls:Germanium.jpg|190px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Germanium'.jpg|130px]]<br />Germānija paraugs un germānija pulveris ampulā
+|  oksidēšanas pakāpes = '''+4''', +2, -4
+|  elektronegativitāte = 2,01
+|              blīvums = 5323
+|  kušanas temperatūra = 1211,4 K (938,25&nbsp;°C)
+| viršanas temperatūra = 3106 K (2833&nbsp;°C)
+}}
+
+'''Germānijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Ge''' un [[atomskaitlis|atomskaitli]] 32. Germānijs ir spožs, ciets un pelēkbalts [[pusmetāli|pusmetāls]]. Tas ir viens no [[14. grupas elementi]]em, tādēļ tam ir līdzīgas ķīmiskās īpašības kā citiem šīs grupas elementiem, piemēram, [[silīcijs|silīcijam]] un [[alva]]i. Tā ir kristāliska viela, un tīrā veidā germānijs ir [[pusvadītājs]], tāpat kā silīcijs.
+
+Sākumā (1950.—1970. gados) germāniju pusvadītāju ierīcēs izmantoja vairāk nekā silīciju, jo silīciju ir vairāk jāattīra (pieļaujama mazāka piemaisījumu koncentrācija), taču, ja ir pieejams pietiekoši tīrs silīcijs, tam ir labākas elektriskās īpašības. Dabā germānijs nav sastopams brīvā veidā, bet ir sastopams [[sulfīdi|sulfīdu]] rūdās un kā piemaisījums citu metālu rūdām. Savienojumos germānijs ir četrvērtīgs, retāk divvērtīgs.
+
+== Vēsture ==
+Germānijs ir elements, kura pastāvēšanu paredzēja [[Dmitrijs Mendeļejevs]], 1871. gadā veidojot [[ķīmisko elementu periodiskā tabula|periodisko tabulu]]. Viņš tabulā atstāja vietu šim elementam un nosauca to par ekasilīciju (simbols: Es). Elementu 1886. gadā, pētot pie [[Freiberga (pilsēta)|Freibergas]] iegūtā minerāla [[argirodīts|argirodīta]] (Ag<sub>8</sub>GeS<sub>6</sub>) sastāvu, atklāja vācu ķīmiķis [[Klemenss Vinklers]]. Viņš to nosauca par godu [[Vācija]]i, kuras latīniskais nosaukums ir ''Germania''.
+
+== Atrašanās dabā ==
+Dabā germānijs nav sastopams brīvā veidā, bet ir sastopams [[sulfīdi|sulfīdu]] rūdās un kā piemaisījums citu metālu rūdām. Izplatītākie [[minerāls|minerāli]], kas satur germāniju, ir [[germanīts]] (Cu<sub>2</sub>(Cu, Fe, Ge, Zn)<sub>2</sub> (S, As)<sub>4</sub>), [[argirodīts]] (Ag<sub>8</sub>GeS<sub>6</sub>) un [[konfildīts]] (Ag<sub>8</sub>(Sn, Ge) S<sub>6</sub>).
+
+[[Zemes garoza|Zemes garozā]] germānija daudzums ir 1,5{{E|-4}} % no tā masas, kas ir vairāk nekā [[sudrabs]], [[antimons]] vai [[bismuts]].
+
+=== Izotopi ===
+Dabā ir sastopami pieci stabili germānija [[izotops|izotopi]]. Visizplatītākais ir germānijs-74, kura daudzums ir 36,50% no kopējā daudzuma.<ref name="jlab"/> Pārējie izotopi ir germānijs-72 (27,45%), germānijs-70 (20,57%), germānijs-73 (7,75%) un germānijs-76 (7,73%).<ref name="jlab"/>
+
+=== Bioloģiskā nozīme ===
+Germānijam nav bioloģiskās nozīmes, lai gan uzskata, ka tas varētu stimulēt [[vielmaiņa|vielmaiņu]].<ref name="webelements"/>
+
+== Izmantošana ==
+Germāniju izmantoja, piemēram, germānija [[tranzistors|tranzistoros]].
+
+== Skatīt arī ==
+* [[Silīcijs]]
+* [[Tranzistors]]
+
+== Atsauces ==
+{{Commons category|Germanium|germānijs}}
+{{atsauces|refs=
+<ref name="jlab">{{tīmekļa atsauce | url= http://education.jlab.org/itselemental/iso032.html | title= Isotopes of the Element Germanium | publisher= Jefferson Lab | accessdate= 2013. gada 17. jūlijā | language= angliski}}</ref>
+<ref name="webelements">{{tīmekļa atsauce | url= http://www.webelements.com/germanium/biology.html | title= Germanium: biological information | website= Webelements.com | accessdate= 2013. gada 17. jūlijā | language= angliski}}</ref>
+}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Pusvadītāji]]

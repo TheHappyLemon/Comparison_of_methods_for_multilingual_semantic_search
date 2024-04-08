@@ -1,0 +1,104 @@
+{{Latvijas novada infokaste
+| nosaukums         = Rankas pagasts
+| karte             = Rankas pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = COA of Rankas pagasts.png
+| ģerboņa_nosaukums = Rankas pagasta ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder --> 
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Gulbenes novads
+| centrs            = Ranka
+| platība           = 183,87
+| iedzīvotāji       = 1408<ref>http://www.pmlp.gov.lv/lv/assets/documents/statistika/IRD2016/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf</ref>
+| iedzīvotāji_gads  = 2016
+| blīvums           = {{#expr: 1408 / 183.87 round 1}}
+| izveidots         = <!-- tikai gadaskaitlis -->
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = www.ranka.lv
+}}
+'''Rankas pagasts''' ir viena no [[Gulbenes novads|Gulbenes novada]] administratīvajām teritorijām tā rietumos, [[Gauja]]s abos krastos. Robežojas ar sava novada [[Lejasciema pagasts|Lejasciema]], [[Lizuma pagasts|Lizuma]] un [[Druvienas pagasts|Druvienas]] pagastiem, [[Smiltenes novads|Smiltenes novada]] [[Variņu pagasts|Variņu]] un [[Drustu pagasts|Drustu]] pagastiem, kā arī [[Cēsu novads|Cēsu novada]] [[Jaunpiebalgas pagasts|Jaunpiebalgas pagastu]]. 
+
+== Daba ==
+Ziemeļu daļa atrodas [[Vidzemes augstiene]]s [[Augšgaujas pazeminājums|Augšgaujas pazeminājumā]]. Vidusdaļa un dienvidu daļa atrodas [[Piebalgas pauguraine|Piebalgas paugurainē]]. Augstākā vieta pagastā ({{nobr|234,6 m}} vjl.) pagasta dienvidu daļā. 46,3% pagasta teritorijas aizņem [[mežs|meži]]. Lauksaimniecībā izmantojamā zeme {{nobr|6401,7 ha}}, tās aramzeme – {{nobr|4397,5 ha}}.
+
+=== Hidrogrāfija ===
+==== Upes ====
+[[Attēls:Palsa pie Ūdrupes.jpg|thumb|250px|[[Palsa]] pie [[Ūdrupe (ciems)|Ūdrupes]].]]
+* [[Gauja]]
+** [[Azanda]]
+*** [[Sece (Azanda)|Sece]]
+** [[Degļupīte (Gaujas pieteka)|Degļupīte]]
+** [[Lazdupīte]]
+** [[Palsa]]
+*** [[Ušmaņu strauts]]
+** [[Saliņupīte]]
+** [[Uriekste]]
+** [[Vizla (upe)|Vizla]]
+
+==== Ezeri ====
+* [[Kalmodu ezers]] (23 ha)
+* [[Cepļu ezers]] (12 ha)
+* [[Teļezers]]
+
+Pagastā vairākas mākslīgi veidotas ūdenskrātuves:
+* [[Cerētu dīķis]]
+* [[Uriekstes dambis]]
+
+=== Purvi ===
+* [[Lielais purvs (Ranka)|Lielais purvs]] (234 ha, ziemeļu daļa Variņu pagastā)
+* [[Apšupes purvs]] (125 ha)
+* [[Kaudzīšu purvs]] (117 ha)
+* [[Ruciņu purvs]]
+* [[Skalu purvs]]
+
+== Vēsture ==
+Vēstures avotos Rankas vārds pirmo reizi minēts 1528. gadā. 1935. gadā [[Cēsu apriņķis|Cēsu apriņķa]] Rankas pagasta platība bija 188,82 km² un tajā dzīvoja 3213 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja [[Azandas ciems|Azandas]], Rankas un [[Rēveļu ciems|Rēveļu]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Rankas ciems''' ietilpis [[Gaujienas rajons|Gaujienas]] (1949-1956), [[Smiltenes rajons|Smiltenes]] (1956-1959) un [[Gulbenes rajons|Gulbenes]] (pēc 1959. gada) rajonos. Rankas ciemam 1954. gadā pievienoja likvidētos Rēveļu un Azandas ciemus.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Rankas pagastu kā administratīvo teritoriju iekļāva [[Gulbenes novads|Gulbenes novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+Esošajās robežās, pēc CSP datiem.<ref>[https://data.stat.gov.lv/pxweb/lv/OSP_PUB/START__POP__IR__IRD/RIG010 OSP]</ref>
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| width = 80%
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|3213
+|1959|2500
+|1969|2253
+|1979|2050
+|1989|1965
+|2000|1766
+|2011|1421
+|2021|1128
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir '''[[Ranka]]''' (pagasta centrs), [[Gaujasrēveļi]], [[Rēveļi]].
+
+=== Ievērojamas personības ===
+* [[Uldis Pūcītis]] (1937—2000), aktieris
+
+== Saimniecība ==
+Pagastā atrodas Gaujas HES, Variņu HES, Dūzelis HES, Lāčīšu HES.
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Gulbenes novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Gulbenes rajons}}
+{{Cēsu apriņķis}}
+}}
+[[Kategorija:Vidzeme]]
+[[Kategorija:Gulbenes novada pagasti]]
+[[Kategorija:Rankas pagasts| ]]

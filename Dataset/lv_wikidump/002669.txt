@@ -1,0 +1,34 @@
+{{jāuzlabo}}
+'''Klienta-servera''' tīkla arhitektūra ir savā ziņā pretstats [[Vienādranga tīkls|vienādranga tīkla arhitektūrai]] jeb [[Vienādranga tīkls|P2P]]. Šādai arhitektūrai raksturīgs viens vai vairāki serveri, kuriem katram pieslēdzas salīdzinoši liels daudzums klientu. Šis ir tradicionāli lietotais variants daudzlietotāju sistēmās, un uz šo principu balstās vairums klasisko [[Internets|interneta]] protokolu, piemēram, [[FTP]], [[HTTP]], [[IRC]], [[SMTP]] un citi. Tajā ir salīdzinoši viegli iespējams nodrošināt lietotāju autentifikāciju. Savukārt, ja klientu skaits palielinās ļoti strauji, palielinās slodze uz serveriem un tīkls zaudē efektivitāti, P2P šī problēma tik ļoti neskar.
+
+'''Resursu koplietošana'''
+
+Serveri veido tādā veidā, lai dotu pieejas iespējas failiem un printeriem, nodrošinot augstu veiktspēju un aizsardzību. Datu pieejas vadība un administrēšana tiek veikta centralizēti. Resursi arī tiek izvietoti centralizēti, lai atvieglotu to meklēšanu un apkalpošanu.<ref name=":0">{{Tīmekļa atsauce|url=http://www.ovt.lv/metodiskas-izstradnes-2?download=76:datoru-tikli|title=Mācību metodiskie materiāli profesionālajam mācību priekšmetam "Datoru Tīkli"|last=Ceiruls, Susējs, Plakans|first=|access-date=|date=2010|archive-date={{dat|2019|11|05||bez}}|archive-url=https://web.archive.org/web/20191105193542/http://www.ovt.lv/metodiskas-izstradnes-2?download=76:datoru-tikli}} {{Webarchive|url=https://web.archive.org/web/20191105193542/http://www.ovt.lv/metodiskas-izstradnes-2?download=76:datoru-tikli |date={{dat|2019|11|05||bez}} }}</ref>
+
+'''Aizsardzība'''
+
+Galvenais arguments, kas nosaka šāda tīkla izvēli, parasti ir datu drošība. Windows NT tīklos ar drošības problēmām var nodarboties viens administrators - veido vienotu drošības politiku un to pielieto attiecībā uz katru tīkla lietotāju.
+
+Tā kā svarīga informācija ir izvietota centralizēti (koncentrēta vienā vai vairākos serveros), viegli var veikt datu rezerves kopēšanu (backup). Pateicoties šādai sistēmai, dati jebkurā serverī var tikt dublēti reālā laika režīmā. Ja tiek sabojāta informācijas galvenā krātuve, tad informācija nebūs pazaudēta, jo vienmēr varēs izmantot rezerves kopiju.<ref name=":0" />
+
+'''Priekšrocības:'''
+
+* Vairumā gadījumu, ļauj sadalīt skaitļošanas funkcijas starp vairākiem neatkarīgiem tīkla datoriem. Tas ļauj vienkāršot skaitļošanas sistēmas uzturēšanu, tai skaitā servera nomaiņu, labošanu, uzlabošanu vai servera pārvietošanu neietekmējot klientus.
+* Visi dati tiek glabāti serverī, kas parasti ir daudz labāk aizsargāts nekā lielākā daļa klientu datori, turklāt uz servera ir vieglāk nodrošināt piekļuves tiesību kontroli dažādiem, uz servera esošiem, datiem, ļaujot piekļuvi tikai tiem, kuriem ir atbilstošas pieejas tiesības.
+* Ļauj apvienot dažādus klientu datorus un izmantot viena servera resursus klientiem ar dažādām aparatūras platformām, operētājsistēmām utt.
+
+'''Trūkumi:'''
+* Ja pārstāj darboties serveris, tad var tikt paralizēts viss tīkls un iestājas dīkstāve.
+* Šādas sistēmas darbības nodrošināšanai ir nepieciešams atsevišķs speciālists – sistēmas administrators.
+* Augstas aparatūras izmaksas.
+
+'''Vairāklīmeņu klients-serveris arhitektūra'''
+
+''Vairāklīmeņu klients-serveris arhitektūra'' – ir arhitektūras klients-serveris paveids, kurā informācijas un datu apstrādes funkcijas veic viens, vai vairāki atsevišķi serveri. Šāda arhitektūra ļauj sadalīt uzglabāšanas, apstrādes un datu paziņošanas funkcijas labākai un efektīvākai serveru un klientu iespēju un resursu izmantošanai. Biežāk izmantotā vairāklīmeņu arhitektūra ir trīs līmeņu arhitektūra.
+
+== Atsauces ==
+{{atsauces}}
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Datortīkli]]

@@ -1,0 +1,18 @@
+[[Attēls:CubeLitre.svg|thumb|200px|[[kubs|Kuba]] ar 10 cm garu malu tilpums ir 1 litrs]]
+'''Litrs''' ir [[tilpums|tilpuma]] mērvienība, ko apzīmē ar "L" vai "l".<ref>[http://likumi.lv/doc.php?id=49578 Noteikumi par fizikālo lielumu mērvienībām, to latviskajiem nosaukumiem un rakstību]</ref> Litrs nav [[Starptautiskā mērvienību sistēma|SI]] vienība (SI tilpuma mērvienība ir [[kubikmetrs]]), bet tas ir precīzi vienāds ar 1 kubikdecimetru. Litrs [[ūdens]] 4&nbsp;°C temperatūrā sver apmēram 1 [[kilograms|kilogramu]].
+
+Termina nosaukums cēlies no senas franču tilpuma mērvienības litrona ({{val|fr|litron}}), kas bija apmēram 0,83 tagadējie litri. Saskaņā ar SI principiem, mērvienībai, kas nav nosaukta par godu kādam zinātniekam, saīsinātajam apzīmējumam jābūt ar mazo burtu, tomēr litra gadījumā mazo "[[l]]" var viegli sajaukt ar ciparu "[[1 (skaitlis)|1]]". Tādēļ [[1979]]. gadā  XVI Vispārējā svaru un mēru konferencē tika nolemts litram izņēmuma kārtā atļaut oficiāli lietot arī otru apzīmējumu — lielo "L". Dažās jomās, piemēram, [[farmācija|farmācijā]], mūsdienās atļauts lietot tikai lielo "L".
+
+[[1978]]. gadā [[Vaterlo universitāte]]s ([[Kanāda]]) fizikas katedras līdzstrādnieks Kenets Vulners universitātes avīzē "''Chem13 News''" publicēja  rakstu ar sīku franču zinātnieka Kloda Emīla Žana Batista Litra biogrāfiju. Klods Litrs esot ražojis [[stikls|stikla]] vīna pudeles un bijis pirmais, kas sācis izgatavot laboratorijas traukus, bet 1763. gadā ieteicis mērīt tilpumu, nosakot šķidruma masu. Pēc viņa nāves šis priekšlikums esot bijis apstiprināts, bet tilpuma mērvienība nosaukta Litra vārdā. Kaut arī raksts ar izdomāto biogrāfiju tika publicēts [[Joku diena|Joku dienā]], to kļūdas dēļ pārpublicēja [[IUPAC]] žurnāls ''Chemistry International''. Lai gan jau nākamajā numurā IUPAC to atsauca<ref>[http://books.google.com/books?id=f7DYvphaRhwC&pg=PA80&dq=baptiste+litre&hl=en&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDUQ6AEwAg#v=onepage&q=baptiste%20litre&f=false «Ariadne»]{{Novecojusi saite}} ''New Scientist'', 8 October 1984</ref>, ziņas par Litru kā patiesas tikušas pārpublicētas daudzos izdevumos, tai skaitā arī latviešu valodā.<ref>[http://periodika.lv/periodika2-viewer/?lang=fr#panel:pa|issue:430566|article:DIVL183|page:4 "Komunisma ceļš", LKP Bauskas rajona laikraksts, 13.04.1985, Nr. 44 (6152), 4. lpp.]</ref>
+
+== Attiecība pret citām tilpuma mērvienībām ==
+1 decilitrs = 100 mililitri <br />
+1 kubikmetrs = 1000 kubikdecimetri = 1 000 000 kubikcentimetri = 1000 litri = 10 000 decilitri = 10 hektolitri <br />
+1 kubikdecimetrs = 1000 kubikcentimetri = 1 litrs = 10 decilitri <br />
+1 hektolitrs = 10 dekalitri = 100 litri = 1000 decilitri <br />
+1 litrs = 10 decilitri = 1000 mililitri
+
+== Atsauces ==
+{{atsauces}}
+
+[[Kategorija:Tilpuma mērvienības]]

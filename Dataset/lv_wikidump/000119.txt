@@ -1,0 +1,26 @@
+[[Attēls:Lasers.jpeg|thumb|235px|Piemēram, fotonus emitē koherenti [[lāzers|lāzera]] stari.]]
+
+'''Fotons''' ({{val|grc|φῶς, phōs}} — ‘gaisma’) ir [[elementārdaļiņa]], [[elektromagnētiskais lauks|elektromagnētiskā lauka]] [[kvants]], kā arī [[gaisma]]s un visu citu [[elektromagnētiskais starojums|elektromagnētiskā starojumu]] veidu pamatvienība. Tas ir arī [[elektromagnētiskais spēks|elektromagnētiskā spēka]] nesējs. Šis spēks ir viegli novērojams [[makroskopisks|makroskopiskās]] parādībās, sākot no saules gaismas līdz pat radiotelefoniem, bet tai pašā laikā fotonam nav miera [[masa]]s un tas var veikt ļoti lielus attālumus. Tāpat kā visas citas elementārdaļiņas, fotons tiek apskatīts [[kvantu mehānika|kvantu mehānikā]], un tā ir [[daļiņu fizika]]s [[standartmodelis|standartmodeļa]] vecākā daļa. Fotoni izrāda viļņu—daļiņu dualitāti, tas ir, fotoniem piemīt gan [[viļņi|viļņu]], gan daļiņas īpašības. Piemēram, viens fotons var veikt [[gaismas laušana|gaismas laušanu]] [[lēca|lēcās]], bet tikpat labi tas var parādīt viļņu [[interference|interferenci]], kā arī tā parāda savu daļiņas dabu, kas dod noteiktu rezultātu, kad nosaka tās atrašanās vietu.
+
+Mūsdienu fotona jēdzienu pakāpeniski attīstīja (1905—1917) [[Alberts Einšteins]], izskaidrojot [[eksperiments|eksperimentālus]] novērojumus, kuri neatbilda gaismas klasiskajam [[viļņi|viļņu]] modelim. Konkrētāk, fotona modelis noteica saistību ar gaismas enerģiju un izskaidroja [[viela]]s un [[starojums|starojuma]] iespējamību, atrodoties [[siltuma līdzsvars|siltuma līdzsvarā]]. Citi [[fizika|fiziķi]] tiecās izskaidrot šos anomālos novērojumus ar ''pusklasiskajiem'' modeļiem, kuros gaisma joprojām tika aprakstīta ar [[Maksvela vienādojumi]]em, bet materiālie priekšmeti, kuri [[emiotācija|emitēja]] un [[absorbcija|absorbēja]] gaismu, ir kvantēti. Kaut arī šie ''pusklasiskie'' modeļi sekmēja [[kvantu fizika]]s attīstību, tālāki eksperimenti pierādīja Einšteina hipotēzi, ka gaisma pati ir [[kvantēšana|kvantēta]]; gaismas kvants ir fotons.
+
+Fotoni veido [[elektromagnētiskais lauks|elektromagnētisko lauku]], t.i., fotons ir "gaismas daļiņa". Parasti fotonus saista ar [[gaisma|redzamo gaismu]], kas gan ir tikai ļoti neliela daļa no [[elektromagnētiskais spektrs|elektromagnētiskā spektra]]. Lai gan fotoniem nepiemīt miera masa, tiem ir [[enerģija]]. Tā kā tiem ir enerģija, tad [[vispārīgā relativitātes teorija]] apgalvo, ka tos ietekmē [[gravitācija]]. Tas ir eksperimentāli pierādīts. Fotoniem nav arī [[elektriskais lādiņš|elektriskā lādiņa]]. Fotons tiek izstarots brīdī, kad [[elektrons]] ap [[atoms|atoma]] [[atoma kodols|kodolu]] pāriet no augstāka [[enerģija]]s līmeņa uz zemāku.
+
+Fotona [[spins]] ir 1, tātad tas ir [[bozons]]. Fotonam nepiemīt [[paātrinājums]], jo tie jau sākotnēji izplatās ar [[gaismas ātrums|gaismas ātrumu]], t.i., {{nobr|299 792 458 [[metrs|m]]/[[sekunde|s]]}}.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Elementārdaļiņas-aizmetnis}}
+
+{{Elementārdaļiņas}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kvantu mehānika]]
+[[Kategorija:Optika]]
+[[Kategorija:Elementārdaļiņas]]
+[[Kategorija:Aizguvumi no grieķu valodas]]
+[[Kategorija:Elektromagnētisms]]
+[[Kategorija:Kvantu elektrodinamika]]

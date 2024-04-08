@@ -1,0 +1,89 @@
+{{Ēkas infokaste
+| name                = Kenedija Kosmosa centrs
+| native_name         = ''Kennedy Space Center''
+| former_names        = 
+| alternate_names     = 
+| status              = 
+| image               = {{Photomontage|position=center
+  |photo1a = VAB and SLS.jpg
+  |photo2a = Artemis I - First Joint Launch Countdown Simulation (cropped).jpg
+  |photo2b = Lunar planetary landscape and runway at KSC built to test Morpheus lander.jpg
+  |photo3a = <!-- KSC new HQ building.jpg -->
+  |photo3b = NASA’s SLS and SpaceX’s Falcon 9 at Launch Complex 39A & 39B (KSC-20220406-PH-JBP01-0001).jpg
+  |photo4a = Aerial view of most of the KSC visitor complex.jpg
+  | size = 250
+  | spacing = 2
+  | color = #FFFFFFu
+  | border = 0
+  | foot_montage = 
+    }}
+| image_alt           = 
+| image_size          = 
+| caption             = 
+| altitude            = 
+| building_type       = kosmodroms
+| architectural_style = 
+| structural_system   = 
+| cost                = 
+| ren_cost            = 
+| client              = 
+| owner               = [[Nacionālā aeronautikas un kosmosa administrācija|NASA]]
+| current_tenants     = 
+| location            = {{USA}}, [[Florida]]
+| address             = 
+| location_town       = 
+| location_country    = 
+| pushpin_map         = ASV#Florida
+| latd  = 28| latm  = 31| lats  = 27| latNS  = N
+| longd = 80| longm = 39| longs = 04| longEW = W
+| map_caption         = 
+| map_alt             = 
+| pushpin_image       = 
+| pushpin_relief      = 
+| map_size            = 
+| map_label           = 
+| label_position      = 
+| mark                = 
+| mark_width          = 
+| groundbreaking_date = 
+| start_date          = 1962
+| completion_date     = 
+| opened_date         = 
+| inauguration_date   = 
+| demolition_date     = 
+| destruction_date    = 
+| main_contractor     = 
+| awards              = 
+| designations        = 
+| rooms               = 
+| parking             = 
+| url                 = {{url|http://www.nasa.gov/}}
+| embedded            = 
+| references          = 
+}}
+'''Džona Kenedija Kosmosa centrs''' ({{val|en|John F. Kennedy Space Center}}, '''KSC''') ir [[Amerikas Savienotās Valstis|ASV]] [[kosmodroms]] uz [[Merita]]s salā pie [[Kanaverala rags|Kanaverala zemesraga]] [[Florida|Floridā]]. Kosmodroms atrodas [[Nacionālā aeronautikas un kosmosa administrācija|NASA]] pārziņā pilotējamo programmu realizēšanai.
+
+Kenedija kosmiskajā centrā visi pilotējamie [[kosmosa kuģis|kosmosa kuģu]] starti notiek no [[Kenedija kosmiskā centra Starta komplekss 39|Starta kompleksa 39]]. Citi [[kosmiskais aparāts|kosmisko aparātu]] starti notiek no blakus atrodošās [[Kanaverala raga Kosmosa spēku stacija]]s, kas ir ASV [[ASV Gaisa Spēki|Gaisa Spēku]] pārziņā.
+
+== Vēsture ==
+Sakarā ar [[ASV Mēness programma]]s izsludināšanu bija nepieciešams būvēt jaunas starta būves. [[1962]]. gadā blakus Kanavarala zemesragam šiem nolūkiem tika izvēlēta Meritas sala. Sākotnēji tas tika nosaukts par Starta operāciju centru (''Launch Operations Center''). 1963. gadā pēc ASV prezidenta [[Džons Kenedijs|Džona Kenedija]] slepkavības centrs tika pārdēvēts viņa vārdā.
+[[Attēls:Merritt Island.jpg|thumb|left|250px|Meritas sala un Kenedija kosmiskais centrs (baltā krāsā)]]
+
+Kenedija kosmiskajā centrā tika realizētas pilotējamo kosmosa kuģu palaišanas:
+* [[Mercury (kosmiskais projekts)|Mercury]],
+* [[Gemini (kosmiskais projekts)|Gemini]],
+* [[Apollo programma|Apollo]],
+* [[Space Shuttle]].
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20091217092930/http://www.ksc.nasa.gov/ Kenedija kosmiskā centra mājas lapa]
+* [http://maps.google.com/maps?ll=28.608298,-80.603878&spn=0.013458,0.020262&t=k&hl=en Starta komplekss 39A] (Google Maps)
+* [http://maps.google.com/maps?ll=28.586067,-80.651064&spn=0.006730,0.009693&t=k&hl=en Nesēju montāžas korpuss] (Google Maps)
+
+{{Apollo programma}}
+{{autoritatīvā vadība}}
+
+[[Kategorija:Kosmodromi]]
+[[Kategorija:Florida]]

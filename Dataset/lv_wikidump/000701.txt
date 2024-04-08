@@ -1,0 +1,16 @@
+'''Vikivietne''' jeb '''viki vietne'''<ref>{{tīmekļa atsauce|title=Akadēmiskā terminu datubāze AkadTerm|url=http://termini.lza.lv/term.php?term=wiki&list=&lang=&h=|website=termini.lza.lv|publisher=[[Latvijas Zinātņu akadēmija]]|accessdate={{dat|2016|4|26||bez}}}}</ref> ir [[tīmekļa vietne]] (vai citāda [[hiperteksts|hiperteksta]] dokumentu kolekcija), kas ļauj lietotājiem pievienot saturu, tāpat kā [[Interneta forums|Interneta forumos]], kā arī labot to. Apzīmējumu "viki" izmanto arī programmatūras apzīmēšanai, kas ļauj izveidot šāda veida tīmekļa vietnes.
+
+Vārds ''wiki'' [[havajiešu valoda|havajiešu valodā]] ir darbības vārds, kas nozīmē ‘steidzināt’ vai ‘paātrināt’.
+
+Tiešsaistes enciklopēdija [[Vikipēdija]] darbojas, izmantojot vikivietnes programmatūru ''[[MediaWiki]]''.
+
+== Atsauces ==
+{{atsauces}}
+
+{{commonscat|Wiki}}
+
+{{IT-aizmetnis}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Wiki| ]]

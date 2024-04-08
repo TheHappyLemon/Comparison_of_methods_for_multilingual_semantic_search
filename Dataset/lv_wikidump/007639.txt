@@ -1,0 +1,43 @@
+[[Attēls:Loch Lomond Auchenhaglish House.jpg|200px|thumb|left|Auhenhaglišas pils ezera krastā]]
+{{Ezera infokaste
+|ezers=Lomonda ezers
+|attēls=Loch Lomond view.jpg
+|map = Apvienotā Karaliste#Skotija
+| plat_d=56 | plat_m=5 | plat_s= | plat_NS=N 
+| gar_d=4 | gar_m=36 | gar_s= | gar_EW=W
+|platība=71
+|garums=48
+|Vid_dziļums=37
+|Max_dziļums=190
+|tilpums=2,6
+|augstums_vjl=7,9
+|izteka=
+|baseins=696
+|valstis={{SCO}}
+|salas=Daudz
+|pilsētas=
+}}
+<mapframe text="Lomonda ezers" width=290 height=420 zoom=10 >
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q208926"
+}
+</mapframe>
+
+'''Lomonda ezers''' ('''Lohlomonda ezers''', '''Lohlomonds''', {{val|en|Loch Lomond}}, {{val|gd|Loch Laomainn}}) ir pēc virsmas platības lielākais ezers [[Lielbritānija|Lielbritānijā]]. Atrodas [[Skotija|Skotijā]], ap 23 km ziemeļos no [[Glāzgova]]s. Pēc ūdens tilpuma otrs lielākais ezers Lielbritānijā aiz [[Lohness|Lohnesa]].
+
+Ūdens apmaiņas periods ir 1,9 gadi. Iekļauts nacionālajā parkā (''Loch Lomond and the Trossachs National Park''). [[Ramsāres vieta]]. Austrumu krastā atrodas [[Benlomonda kalns]] (974 m augsts). Daudz salu, tai skaitā lielākā ezera sala Britu salās - ''Inchmurrin''. Vairākas salas ir [[kranogs|kranogi]] - aizvēsturiski nocietinājumi.
+
+Skaistais ezers minēts daudzās dziesmās un dzejā.
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+* [https://web.archive.org/web/20071211115721/http://www.incallander.co.uk/loch_lomond.htm Tūristu ceļvedis (angliski)]
+* [http://www.loch-lomond.net Loch-lomond.net - plaša informācja par ezeru, angliski]
+* [https://web.archive.org/web/20050426080125/http://www.lochlomond-trossachs.org/html/home.htm Nacionālais parks]
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Skotijas ezeri]]

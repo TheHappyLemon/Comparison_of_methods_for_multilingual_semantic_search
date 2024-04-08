@@ -1,0 +1,88 @@
+{{Valsts infokaste
+|   pilnais_valsts_nosaukums = Santomes un Prinsipi<br />Demokrātiskā Republika
+|        vietējais_nosaukums = ''República Democrática de<br />São Tomé e Príncipe''
+|           valsts_nosaukums = Santome un Prinsipi
+|           karoga_nosaukums = Santomes un Prinsipi karogs
+|              karoga_attēls = Flag of São Tomé and Príncipe.svg
+|          ģerboņa_nosaukums = Santomes un Prinsipi ģerbonis
+|            ģerboņa_platums = 
+|             ģerboņa_attēls = Coat of arms of São Tomé and Príncipe.svg
+|              kartes_attēls = Location São Tomé and Príncipe AU Africa.svg
+|            kartes_paraksts = 
+|                valsts_moto = 
+|               valsts_himna = ''[[Independência total]]''
+|             valsts_valodas = [[Portugāļu valoda|Portugāļu]]
+|              galvaspilsēta = [[Santome]]
+|latd=0 |latm=20 |latNS=N |longd=6 |longm=44 |longEW=E
+|            lielākā_pilsēta = galvaspilsēta
+|             valsts_iekārta = {{nowrap|Demokrātiska pusprezidentāla<br />[[republika]]}}
+|       valsts_galvas_tituls = [[Santomes un Prinsipi valsts vadītāji|Prezidents]]
+|               valsts_galva = [[:pt:Carlos Vila Nova|Carlos Vila Nova]]
+|      valsts_galvas_tituls2 = Premjerministrs
+|              valsts_galva2 = 
+[[:pt:Jorge Bom Jesus|Jorge Bom Jesus]]
+|       neatkarības_iegūšana = [[Neatkarība]]
+|       neatkarības_notikums = no [[Portugāle]]s
+|         neatkarības_datums = 1975. gada 12. jūlijs
+|                platība_km2 = 1001
+|              platība_rangs = 183.
+|area_magnitude = 
+|             procenti_ūdens = 0
+|         iedzīvotāju_skaits = 183 176<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/tp.html |title=Santome un Prinsipi |work=[[The World Factbook]] |accessdate=July 31, 2012 |archive-date={{dat|2015|09|18||bez}} |archive-url=https://web.archive.org/web/20150918223913/https://www.cia.gov/library/publications//the-world-factbook/geos/tp.html }}</ref><!--<ref name=unpop>{{cite journal |url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf |title=World Population Prospects, Table A.1 |version=2008 revision |format=PDF |publisher=United Nations |author=Department of Economic and Social Affairs Population Division |year=2009 |accessdate=2009-03-12}}</ref>-->
+|    iedzīvotāju_skaita_gads = 2011
+|   iedzīvotāju_skaits_rangs = 188.
+|population_census = |population_census_year = 
+|   apdzīvotības_blīvums_km2 = 169,1
+|population_density_sq_mi = 438,2 <!--Do not remove per [[WP:MOSNUM]]-->
+| apdzīvotības_blīvums_rangs = 69.
+|               IKP_PPP_gads = 2011
+|                    IKP_PPP = $379&nbsp;miljoni<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=85&pr.y=4&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=716&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=São Tomé and Príncipe |publisher=International Monetary Fund |accessdate=2012-04-20}}</ref>
+|              IKP_PPP_rangs = 
+|         IKP_PPP_per_capita = $2251<ref name="imf2"/>
+|   IKP_PPP_per_capita_rangs = 
+|GDP_nominal = $248 miljoni<ref name="imf2"/>
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $1473<ref name="imf2"/>
+|                  Gini_gads = |Gini_change =  <!--increase/decrease/steady--> |                       Gini = <!--number only--> |Gini_ref = |                 Gini_rangs = 
+|                   HDI_gads = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|                        HDI = 0,509 <!--number only-->
+|HDI_ref = 
+|                  HDI_rangs = 144.
+|                     valūta = [[Santomes un Prinsipi dobra|Dobra]]
+|               valūtas_kods = STD
+|                 laika_zona = [[Coordinated Universal Time|UTC]]
+|                 utc_offset = +0
+|             laika_zona_DST = |             utc_offset_DST = 
+|drives_on = right
+|               iso_kods_num = 
+|             iso_kods_alfa2 = 
+|             iso_kods_alfa3 = 
+|             tālsarunu_kods = 239
+|iso3166code = ST
+|                     domēns = [[.st]]
+}}
+'''Santome un Prinsipi''' ({{val-pt|São Tomé and Príncipe}}) ir [[salu valsts]] [[Gvinejas līcis|Gvinejas līcī]] pie Āfrikas krastiem. Valsts sastāv no divām lielākām vulkāniskas izcelsmes [[sala|salām]], kā arī sešām mazākām salām. Attālums starp divām lielākajām salām ir apmēram 140 kilometri. Santome un Prinsipi ir augstākais dabiskais populācijas pieaugums pasaulē. Ar apmēram 1001 km² valsts ir otra mazākā valsts Āfrikas kontinentā aiz [[Seišelu Salas|Seišelu Salām]].
+
+1992. gada 28. janvārī Santome un Prinsipi atzina Latvijas neatkarību, un kopš 1994. gada 26. jūlija starp abām valstīm pastāv diplomātiskās attiecības.<ref>{{Tīmekļa atsauce|url=https://www.mfa.gov.lv/arpolitika/divpusejas-attiecibas/diplomatiskas-attiecibas|title=Diplomātisko attiecību nodibināšana un atjaunošana -  Latvijas Republikas Ārlietu ministrija|website=www.mfa.gov.lv|access-date=2021-03-28|archive-date=2021-01-17|archive-url=https://web.archive.org/web/20210117001157/https://www.mfa.gov.lv/arpolitika/divpusejas-attiecibas/diplomatiskas-attiecibas}}</ref>
+
+== Skatīt arī ==
+* [[Santomes un Prinsipi karogs]]
+* [[Santomes un Prinsipi valsts vadītāji]]
+
+== Atsauces ==
+{{Atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{Āfrika-aizmetnis}}
+{{Āfrika}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Santome un Prinsipi| ]]
+[[Kategorija:Āfrikas valstis]]
+[[Kategorija:Āfrikas salas]]
+[[Kategorija:Salu valstis]]

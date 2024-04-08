@@ -1,0 +1,286 @@
+{{Sporta līgas infokaste
+| nosaukums = UEFA Čempionu līga
+| aktuāla_sezona = 2023.—2024. gada UEFA Čempionu līgas sezona
+| logo = Logo UEFA Champions League.png
+| pikseļi = 180px
+| apraksts = 
+| sports = [[futbols]]
+| dibin = 1955. (pašreizējais nosaukums no 1992. gada)
+| moto = 
+| komandas = 32
+| valsts = {{flaga|Eiropa}} [[Eiropa]] ([[UEFA]])
+| čempions = {{flaga|Anglija}} [[Manchester City F.C.|Manchester City]]<br />([[2022.—2023. gada UEFA Čempionu līgas sezona|2022—23]]; 1. tituls)
+| čempions_visv = {{flaga|Spānija}} [[Madrides "Real" (futbols)|Real Madrid]] (14 tituli)
+| mlapa = 
+}}
+
+'''UEFA Čempionu līga''' ir nozīmīgākais [[Eiropa]]s vīriešu [[futbols|futbola]] klubu turnīrs, ko organizē [[UEFA]]. Šīs sacensības dibinātas 1955. gadā un līdz 1992. gadam bija pazīstamas kā '''Eiropas čempionvienību kauss''' jeb '''Eiropas kauss'''. Visvairāk reižu (14) Čempionu līgā ir uzvarējis Spānijas klubs [[Madrides "Real" (futbols)|Madrides "Real"]].
+
+== Rekordi un statistika ==
+=== Uzvarētāji un finālisti ===
+{| class="wikitable sortable"
+|-
+!Klubs
+!Uzvaras
+!Finālisti
+!class="unsortable"|Uzvaras gadi
+!class="unsortable"|Fināla gadi
+|-
+|{{flaga|ESP}} [[Madrides "Real" (futbols)|Real Madrid]]|| style="text-align:center"|14 || style="text-align:center"|3 ||1956, 1957, 1958, 1959, 1960, 1966, 1998, 2000, 2002, 2014, 2016, 2017, 2018, 2022 || 1962, 1964, 1981
+|-
+|{{flaga|ITA}} [[AC Milan|Milan]]|| style="text-align:center"|7 || style="text-align:center"|4 ||1963, 1969, 1989, 1990, 1994, 2003, 2007 || 1958, 1993, 1995, 2005
+|-
+|{{flaga|GER}} [[Minhenes "Bayern"|Bayern]]|| style="text-align:center"|6 || style="text-align:center"|5 ||1974, 1975, 1976, 2001, 2013, 2020 || 1982, 1987, 1999, 2010, 2012
+|-
+|{{flaga|ENG}} [[Liverpool FC|Liverpool]]|| style="text-align:center"|6 || style="text-align:center"|4 ||1977, 1978, 1981, 1984, 2005, 2019 || 1985, 2007, 2018, 2022
+|-
+|{{flaga|ESP}} [[FC Barcelona|Barcelona]]|| style="text-align:center"|5 || style="text-align:center"|3 ||1992, 2006, 2009, 2011, 2015 || 1961, 1986, 1994
+|-
+|{{flaga|NED}} [[Amsterdamas "Ajax"|Ajax]]|| style="text-align:center"|4 || style="text-align:center"|2 ||1971, 1972, 1973, 1995 || 1969, 1996
+|-
+|{{flaga|ITA}} [[Milānas "Internazionale"|Internazionale]]|| style="text-align:center"|3 || style="text-align:center"|3 || 1964, 1965, 2010 || 1967, 1972, 2023
+|-
+|{{flaga|ENG}} [[Manchester United FC|Manchester United]]|| style="text-align:center"|3 || style="text-align:center"|2 || 1968, 1999, 2008 || 2009, 2011
+|-
+|{{flaga|ITA}} [[Turīnas "Juventus"|Juventus]]|| style="text-align:center"|2 || style="text-align:center"|7 || 1985, 1996 || 1973, 1983, 1997, 1998, 2003, 2015, 2017
+|-
+|{{flaga|POR}} [[Lisabonas "Benfica"|Benfica]]|| style="text-align:center"|2 || style="text-align:center"|5 ||1961, 1962 || 1963, 1965, 1968, 1988, 1990
+|-
+|{{flaga|ENG}} [[Chelsea F.C.|Chelsea]]|| style="text-align:center"|2 || style="text-align:center"|1|| 2012, 2021 || 2008
+|-
+|{{flaga|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]]|| style="text-align:center"|2 || style="text-align:center"|0 ||1979, 1980 ||
+|-
+|{{flaga|POR}} [[FC Porto|Porto]]|| style="text-align:center"|2 || style="text-align:center"|0 ||1987, 2004 ||
+|-
+|{{flaga|SCO}} [[Glāzgovas "Celtic"|Celtic]]|| style="text-align:center"|1 || style="text-align:center"|1 ||1967 || 1970
+|-
+|{{flaga|GER}} [[Hamburger SV|Hamburg]]|| style="text-align:center"|1 || style="text-align:center"|1 ||1983 || 1980
+|-
+|{{flaga|ROM}} [[FC Steaua|Steaua]]|| style="text-align:center"|1 || style="text-align:center"|1 ||1986 || 1989
+|-
+|{{flaga|FRA}} [[Marseļas "Olympique"|Marseille]]|| style="text-align:center"|1 || style="text-align:center"|1 ||1993 || 1991
+|-
+|{{flaga|GER}} [[Dortmundes "Borussia"|Borussia Dortmund]]|| style="text-align:center"|1 || style="text-align:center"|1 ||1997 ||2013
+|-
+|{{flaga|ENG}} [[Manchester City F.C.|Manchester City]]|| style="text-align:center;" |1|| style="text-align:center;" |1||[[2022.—2023. gada UEFA Čempionu līgas sezona|2023]]||2021
+|-
+|{{flaga|NED}} [[Roterdamas "Feyenoord"|Feyenoord]]|| style="text-align:center"|1 || style="text-align:center"|0 ||1970 ||
+|-
+|{{flaga|ENG}} [[Aston Villa F.C.|Aston Villa]]|| style="text-align:center"|1 || style="text-align:center"|0 ||1982 ||
+|-
+|{{flaga|NED}} [[PSV Eindhoven]]|| style="text-align:center"|1 || style="text-align:center"|0 ||1988 ||
+|-
+|{{flaga|YUG}} [[Belgradas "Crvena Zvezda"|Crvena Zvezda]]|| style="text-align:center"|1 || style="text-align:center"|0 ||1991 ||
+|-
+|{{flaga|ESP}} [[Madrides "Atletico"|Atlético Madrid]]|| style="text-align:center;" |0 || style="text-align:center;" |3||||1974, 2014, 2016
+|-
+|{{flaga|FRA}} [[Stade de Reims]]|| style="text-align:center;" |0|| style="text-align:center;" |2||||1956, 1959
+|-
+|{{flaga|ESP}} [[Valencia CF|Valencia]]|| style="text-align:center;" |0|| style="text-align:center;" |2||||2000, 2001
+|-
+|{{flaga|ITA}} [[ACF Fiorentina|Fiorentina]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1957
+|-
+|{{flaga|GER}} [[Frankfurtes "Eintracht"|Eintracht Frankfurt]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1960
+|-
+|{{flaga|YUG}} [[FK Partizan|Partizan]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1966
+|-
+|{{flaga|GRE|1970}} [[Atēnu "Panathinaikos" (futbola klubs)|Panathinaikos]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1971
+|-
+|{{flaga|ENG}} [[Leeds United A.F.C.|Leeds United]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1975
+|-
+|{{flaga|FRA}} [[AS Saint-Étienne|Saint-Étienne]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1976
+|-
+|{{flaga|GER}} [[Menhengladbahas "Borussia"|Borussia Mönchengladbach]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1977
+|-
+|{{flaga|BEL}} [[Club Brugge KV|Club Brugge]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1978
+|-
+|{{flaga|SWE}} [[Malmes FF|Malmö FF]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1979
+|-
+|{{flaga|ITA}} [[AS Roma|Roma]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1984
+|-
+|{{flaga|ITA}} [[Dženovas "Sampdoria"|Sampdoria]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||1992
+|-
+|{{flaga|GER}} [[Leverkūzenes "Bayer"|Bayer Leverkusen]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||2002
+|-
+|{{flaga|FRA}} [[AS Monaco FC|Monaco]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||2004
+|-
+|{{flaga|ENG}} [[Arsenal FC|Arsenal]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||2006
+|-
+|{{flaga|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||2019
+|-
+|{{flaga|FRA}} [[Parīzes "Saint-Germain"|Paris Saint-Germain]]|| style="text-align:center;" |0|| style="text-align:center;" |1||||2020
+|}
+
+=== Labākie vārtu guvēji ===
+Tabulā nav iekļautas kvalifikācijas spēles.</small><ref>{{Tīmekļa atsauce|url=http://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/88/2285688_DOWNLOAD.pdf |title=Facts & Figures|language=en|publisher=[[UEFA]]|accessdate={{dat|2020|9|18||bez}}}}</ref> Statistika ietver arī Eiropas čempionvienību kausa spēles no 1955. līdz 1992. gadam.<ref>{{Tīmekļa atsauce|url=http://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/90/2285690_DOWNLOAD.pdf |title=All-time records 1955–2020|language=en|publisher=[[UEFA]]|accessdate={{dat|2020|9|18||bez}}}}</ref>
+{| class="wikitable sortable"
+!width="3px"|Vieta
+!width="155px"|Spēlētājs
+!width="35px"|Vārti
+!width="35px"|Spēles
+!width="35px"|Vidēji spēlē
+!Klubi
+|-
+|align=center|1
+|{{flaga|POR}} '''[[Krištianu Ronaldu]]'''
+|align=center|'''140'''
+|align=center|183
+|align=center|0,77
+|[[Manchester United FC|Manchester United]] (21), [[Madrides "Real" (futbols)|Real Madrid]] (105), [[Juventus F.C.|Juventus]] (14)
+|-
+|align=center|2
+|{{flaga|ARG}} '''[[Lionels Mesi]]'''
+|align=center|'''125'''
+|align=center|156
+|align=center|0,80
+|[[FC Barcelona|Barcelona]] (120), [[Parīzes "Saint-Germain"|Paris Saint-Germain]] (5)
+|-
+|align=center rowspan="2"|3
+|{{flaga|POL}} '''[[Roberts Levandovskis]]'''
+|align=center|'''86'''
+|align=center|106
+|align=center|0,81
+|[[Dortmundes "Borussia"|Borussia Dortmund]] (17), [[Minhenes "Bayern"|Bayern München]] (69)
+|-
+|{{flaga|FRA}} '''[[Karīms Benzemā]]'''
+|align=center|'''86'''
+|align=center|142
+|align=center|0,61
+|[[Lionas "Olympique"|Lyon]] (12), [[Madrides "Real" (futbols)|Real Madrid]] (74)
+|-
+|align=center|5
+|{{flaga|ESP}} [[Rauls Gonsaless]]
+|align=center|'''71'''
+|align=center|142
+|align=center|0,50
+|[[Madrides "Real" (futbols)|Real Madrid]] (66), [[Gelzenkirhenes "Schalke 04"|Schalke 04]] (5)
+|-
+|align=center|6
+|{{flaga|NED}} [[Rūds van Nistelrojs]]
+|align=center|'''56'''
+|align=center|73
+|align=center|0,77
+|[[PSV Eindhoven]] (8), [[Manchester United FC|Manchester United]] (35), [[Madrides "Real" (futbols)|Real Madrid]] (13)
+|-
+|align=center|7
+|{{flaga|GER}} '''[[Tomass Millers]]'''
+|align=center|'''52'''
+|align=center|134
+|align=center|0,39
+|[[Minhenes "Bayern"|Bayern München]] (52)
+|-
+|align=center|8
+|{{flaga|FRA}} [[Tjerī Anrī]]
+|align=center|'''50'''
+|align=center|112
+|align=center|0,45
+|[[AS Monaco FC|AS Monaco]] (7), [[Arsenal FC|Arsenal]] (35), [[FC Barcelona|Barcelona]] (8)
+|-
+|align=center|9
+|{{flaga|ESP}} [[Alfredo di Stefano]]
+|align=center|'''49'''
+|align=center|58
+|align=center|0,84
+|[[Madrides "Real" (futbols)|Real Madrid]] (49)
+|-
+|align=center rowspan="2"|10
+|{{flaga|UKR}} [[Andrijs Ševčenko]]
+|align=center|'''48'''
+|align=center|100
+|align=center|0,48
+|[[Kijevas "Dinamo"|Dynamo Kyiv]] (15), [[AC Milan|Milan]] (29), [[Chelsea F.C.|Chelsea]] (4)
+|-
+|{{flaga|SWE}} '''[[Zlatans Ibrahimovičs]]'''
+|align=center|'''48'''
+|align=center|124
+|align=center|0,39
+|[[Amsterdamas "Ajax"|Ajax]] (6), [[Turīnas "Juventus"|Juventus]] (3), [[Milānas "Internazionale"|Internazionale]] (6), [[FC Barcelona|Barcelona]] (4), [[AC Milan|Milan]] (9), [[Parīzes "Saint-Germain"|Paris Saint-Germain]] (20)
+|}
+''Spēlētāji '''treknrakstā''' vēl joprojām spēlē ČL klubos.<br />Statistika atjaunota pēc [[2021.—2022. gada UEFA Čempionu līgas sezona|2021.—2022. gada sezonas]] beigām.''
+
+=== Visvairāk spēļu ===
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Vieta
+!width="155px"|Spēlētājs
+!Spēles
+!Gadi
+!Klubi
+|-
+|1
+|align=left|{{flaga|Portugāle}} '''[[Krištianu Ronaldu]]'''
+|183
+|2003—
+|align=left|[[Manchester United FC|Manchester United]] (59), [[Madrides "Real" (futbols)|Real Madrid]] (101), [[Juventus F.C.|Juventus]] (23)
+|-
+|2
+|align=left|{{flaga|Spain}} [[Ikers Kasiljass]]
+|177
+|1999—2019
+|align=left|[[Madrides "Real" (futbols)|Real Madrid]] (150), [[FC Porto|Porto]] (27)
+|-
+|3
+|align=left|{{flaga|Argentīna}} '''[[Lionels Mesi]]'''
+|156
+|2005—
+|align=left|[[FC Barcelona|Barcelona]] (149), [[Parīzes "Saint-Germain"|Paris Saint-Germain]] (7)
+|-
+|4
+|align=left|{{flaga|Spain}} [[Šavi]]
+|151
+|1998—2015
+|align=left|[[FC Barcelona|Barcelona]] 
+|-
+|rowspan=2|5
+|align=left|{{flaga|Spain}} [[Rauls Gonsaless]]
+|142
+|1995—2011
+|align=left|[[Madrides "Real" (futbols)|Real Madrid]] (130), [[Gelzenkirhenes "Schalke 04"|Schalke 04]] (12)
+|-
+|align=left|{{flaga|Francija}} '''[[Karīms Benzemā]]'''
+|142
+|2005—
+|align=left|[[Lionas "Olympique"|Lyon]] (19), [[Madrides "Real" (futbols)|Real Madrid]] (123)
+|-
+|7
+|align=left|{{flaga|Wales}} [[Raiens Gigss]]
+|141
+|1993—2014
+|align=left|[[Manchester United FC|Manchester United]]
+|-
+|8
+|align=left|{{flaga|Vācija}} '''[[Tomass Millers]]'''
+|134
+|2009—
+|align=left|[[Minhenes "Bayern"|Bayern München]]
+|-
+|9
+|align=left|{{flaga|Spānija}} [[Andress Injesta]]
+|130
+|2002—2018
+|align=left|[[FC Barcelona|Barcelona]]
+|-
+|10
+|align=left|{{flaga|Spānija}} '''[[Serhio Ramoss]]'''
+|129
+|2005—
+|align=left|[[Madrides "Real" (futbols)|Real Madrid]]
+|}
+<small>Neskaitot kvalifikāciju spēles un Eiropas kausu līdz Čempionu līgas izveidei.</small>
+<br />''Spēlētāji '''treknrakstā''' vēl joprojām spēlē ČL klubos.<br />Atjaunots pēc [[2021.—2022. gada UEFA Čempionu līgas sezona|2021.—2022. gada sezonas]] beigām.''
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{enciklopēdiju ārējās saites}}
+* [http://www.uefa.com/uefachampionsleague/index.html Oficiālā mājaslapa] {{en ikona}}
+
+{{UEFA Čempionu līgas sezonas}}
+{{UEFA sacensības}}
+{{autoritatīvā vadība}}
+
+{{Futbols-aizmetnis}}
+
+[[Kategorija:UEFA Čempionu līga| ]]

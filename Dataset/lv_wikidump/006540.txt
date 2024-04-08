@@ -1,0 +1,163 @@
+{{Bijušās valsts infokaste
+|vietējais_nosaukums = Kaiserthum Österreich
+|nosaukums_latv_val  = Austrijas Impērija
+|sugasvārds          = Austrijas Impērija
+|
+|kontinents          = Eiropa
+|reģions             = Centrāleiropa
+|valsts              = Austrija
+|laikmets            = Jaunākie laiki
+|statuss             = [[Svētā Romas impērija|Svētās Romas impērijas]] valsts (1804–1806)<br />[[Vācu Savienība]]s valsts (1815–1866)
+|statusa_teksts      =
+|impērija            = <!- Impērija vai valsts, no kuras bija šī bijusī 
+                           valsts atkarīga ->
+|valdības_veids      = 	[[Absolūtā monarhija]] <small>(1804–1860)</small><br />[[Konstitucionālā monarhija]] <small>(1860–1867)</small>
+|<!- Valsts izveidošana, krišana, notikumi, gadi un datumi ->
+|<!- Tikai pietiekams daudzums sākuma/beigu notikumu ievadīšana nodrošinās 
+     parādīšanos raksta. Nelietot tikai "likvidēšana" vai "deklarēšana" ->
+|
+|gads_sākums         = 1804
+|gads_beigas         = 1867
+|
+|year_exile_start    = 
+|year_exile_end      = 
+|
+|event_start         = [[Svētā Romas impērija|Svētās Romas impērijas]] sabrukums
+|date_start          = {{dat|1806|8|6||bez}}
+|event_end           = Parakstīts Austroungārijas kompromiss
+|date_end            = {{dat|1867|3|30||bez}}
+|
+|event1              = 
+|date_event1         = 
+|event2              = 
+|date_event2         = 
+|event3              = 
+|date_event3         = 
+|event4              = 
+|date_event4         = 
+|
+|event_pre           = Pasludināta
+|date_pre            = {{dat|1804|8|11||bez}}
+|event_post          = 
+|date_post           = 
+|
+|<!--- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to 
+       s5 --->
+|p1                     = Svētā Romas impērija
+|flag_p1                = Banner of the Holy Roman Emperor with haloes (1430-1806).svg
+|p2                     = Austrijas erchercogiste
+|flag_p2                = Flag_of_Austria.svg
+|p3                     = Hābsburgu monarhija
+|flag_p3                = Flag_of_the_Habsburg_Monarchy.svg
+|s1                   = Austroungārija
+|flag_s1              = Ensign_of_Austro-Hungarian_civil_fleet_(1869-1918).svg
+|s2                   = 
+|flag_s2              = 
+|s3                  = 
+|flag_s3             = 
+|s4                  = 
+|flag_s4             = 
+|s5                  = 
+|flag_s5             = 
+|
+|image_flag          = Flag_of_the_Habsburg_Monarchy.svg
+|flag                = Austrijas karogs
+|flag_type           = Karogs
+|
+|image_coat          = Imperial_Coat_of_Arms_of_the_Empire_of_Austria_(1815).svg
+|symbol              = Austrijas ģerbonis
+|symbol_type         = Ģerbonis
+|
+|image_map           = Austrian_Empire_(1815).svg
+|image_map_caption   = Austrijas Impērija 1815. gadā ar [[Vācu Savienība]]s robežām punktētajās līnijās
+|
+|galvaspilsēta       = [[Vīne]]
+|galvaspilsēta_exile = <!-- If status="Exile" -->
+|latd= |latm= |latNS= |longd= |longm= |longEW= 
+|
+|national_motto      = 
+|national_anthem     = ''Gott erhalte Franz den Kaiser''
+|kopīgas_valodas     = [[Vācu valoda|vācu]]
+|reliģija            = [[katolicisms]]
+|nauda               = [[Guldenis]]<br />[[Dālderis]] <small>(1804–1867)</small>
+|
+|<!--- Titles and names of the first and last leaders an their deputies --->
+|leader1             = [[Francis II Hābsburgs|Francis II & I]]
+|leader2             = [[Ferdinands I Hābsburgs (Austrijas imperators)|Ferdinands I]]
+|leader3             = [[Francis Jozefs I Hābsburgs|Francis Jozefs I]]
+|leader4             = 
+|year_leader1        = 1804-1835
+|year_leader2        = 1835-1848
+|year_leader3        = 1848-1867
+|year_leader4        = 
+|title_leader        = Ķeizars
+|representative1     = Klēmenss fon Meternihs
+|representative2     = Frīdrihs fon Beists
+|representative3     = 
+|representative4     = 
+|year_representative1 = 1821-1848
+|year_representative2 = 1867
+|year_representative3 = 
+|year_representative4 = 
+|title_representative = Kanclers
+|deputy1             = 
+|deputy2             = 
+|deputy3             = 
+|deputy4             = 
+|year_deputy1        = 
+|year_deputy2        = 
+|year_deputy3        = 
+|year_deputy4        = 
+|title_deputy        = 
+|
+|<!--- Legislature --->
+|legislature         = Impērijas padome
+|house1              = Kungu palāta
+|type_house1         = augšpalāta
+|house2              = Deputātu palāta
+|type_house2         = apakšpalāta
+|
+|<!- Platība un iedzīvotāju skaits dotajos gados ->
+|stat_year1          = 
+|stat_platība1       =  698700 
+|stat_pop1           = 
+|stat_year2          = 
+|stat_platība2       = 
+|stat_pop2           = 
+|stat_year3          = 
+|stat_platība3       = 
+|stat_pop3           = 
+|stat_year4          = 
+|stat_platība4       = 
+|stat_pop4           = 
+|stat_year5          = 
+|stat_platība5       = 
+|stat_pop5           = 
+|footnotes           = <!--- Accepts wikilinks --->
+}}
+'''Austrijas Impērija''' ({{val|de|Kaiserthum Österreich}}) bija [[Hābsburgi|Hābsburgu]] dinastijas pārvaldītās [[impērija]]s nosaukums no 1804. gada līdz [[Austroungārija]]s dibināšanai 1867. gadā.
+
+Tā apvienoja Hābsburgu mantojuma īpašumus — [[Bohēmija|Bohēmiju]], [[Ungārija|Ungāriju]] ar [[Slovākija|Slovākiju]], [[Karpatu Krievzeme|Aizkarpatiju]] un [[Banata|Banatu]], [[Horvātija|Horvātiju]], [[Transilvānija|Transilvāniju]], [[Galīcija|Galīciju]], [[Bukovina|Bukovinu]] un ievērojamu daļu [[Ziemeļitālija|Ziemeļitālijas]] ([[Lombardo-Venēcijas Karaliste]]), ko apdzīvoja dažādas izcelsmes un reliģijas tautas.
+
+== Vēsture ==
+No 1440. līdz 1806. gada Hābsburgu dinastijas monarhi bija [[Svētā Romas impērija|Svētās Romas Impērijas]] [[ķeizari]]. Svētās Romas impērijas ķeizars [[Francis II Hābsburgs|Francis II]] 1804. gada 11. augustā pasludināja sevi par Austrijas imperatoru, tādējādi kļūdams par dubultimperatoru, atbildot uz [[Napoleons Bonaparts|Napoleona Bonaparta]] iecelšanu par Francijas imperatoru. Francis II veica šo soli kā pretsvaru [[Francijas impērija]]i. Pēc tam kad Napoleons faktiski izbeidza Svētās Romas impērijas pastāvēšanu, [[Svētās Romas impērijas imperatoru uzskaitījums|Svētās Romas Impērijas ķeizars]] [[Francis II Hābsburgs|Francis I]] 1806. gada 6. augustā atteicās no Svētās Romas impērijas troņa.
+
+1848. gada martā, ekonomiskās lejupslīdes laikā, [[Vīne|Vīnē]] sākās nemieri, kas noveda pie kanclera [[Klēmenss fon Meternihs|Meterniha]] atkāpšanās. Jaunā konstitūcija izrādījās nepietiekami demokrātiska radikālajiem līderiem, kas 1848. gada 15. maijā sarīkoja masu sacelšanos. Nespējīgais imperators [[Ferdinands I Hābsburgs (Austrijas imperators)|Ferdinands I]], kurš nomainīja 1835. gadā mirušo Franci I, aizbēga uz [[Insbruka|Insbruku]] un vēlāk atteicās no troņa. Revolūcija, saukta arī par "[[1848. gada revolūcijas|Tautu pavasari]]", sākās dažādās Austrijas Impērijas daļās, jo nevācu zemēs (īpaši [[Ungārijas Karaliste|Ungārijā]]) tai, cita starpā, bija arī nacionālās atbrīvošanās raksturs.
+
+1848. gada decembrī troni ieņēma 18 gadus vecais Ferdinanda I brāļadēls [[Francis Jozefs I Hābsburgs|Francis Jozefs I]].
+
+1849. gadā Ungārijas revolūcija tika apspiesta, tostarp ar [[Krievijas Impērija|Krievijas Impērijas]] karaspēka palīdzību, kas tolaik bija Austrijas Impērijas sabiedrotā. Valsts saglabāja zināmu stabilitāti, līdz Austrijas sakāve [[Austrijas–Sardīnijas karš|Austrijas–Sardīnijas karā]] pret [[Francijas Otrā impērija|Franciju]] un [[Sardīnijas Karaliste|Sardīnijas Karalisti]] izbeidza Austrijas kundzību Itālijā. Tajā pašā laikā valstī izveidojusies reakcija atcēla visas revolūciju laikā veiktās reformas, atgriežot impērijā [[Absolūtā monarhija|absolūto monarhiju]], kas balstījās uz spēcīgu [[Birokrātija|birokrātisko]] aparātu. Situāciju pasliktināja valsts [[Ārpolitika|ārpolitiskā]] izolācija un tendences tās perifērijā. Valstī aktīvi darbojās organizācijas, kas pieprasīja gan valsts [[Federācija (valsts)|federalizāciju]], gan atsevišķu tās daļu atdalīšanos no [[Hābsburgu monarhija|Hābsburgu monarhijas]]. Līdz ar to, Ungāriju oficiāli impērijas sastāvā iekļāva 1849. gadā pēc tās sakāves neatkarības karā.
+
+Pēc Austrijas sakāves [[Austrijas—Prūsijas karš|Austrijas—Prūsijas karā]] 1867.—1868. gadā Austrijas Impērija tika pārveidota par [[Austroungārija|Austroungāriju]], kurā Ungārijai un Austrijai bija vienlīdzīgas tiesības.
+
+== Skatīt arī ==
+* [[Svētā Romas impērija]]
+* [[Hābsburgu monarhija]]
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Bijušās valstis]]

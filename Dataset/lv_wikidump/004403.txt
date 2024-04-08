@@ -1,0 +1,59 @@
+{{Elementa infokaste
+|                 tips = aktinīds
+|      kārtas skaitlis = 94
+|             7. čaula = 2
+|             6. čaula = 8
+|             5. čaula = 24
+|             4. čaula = 32
+|             3. čaula = 18
+|             2. čaula = 8
+|             1. čaula = 2
+|              simbols = Pu
+|             atommasa = [244]
+|   valences elektroni = [Rn]5f<sup>6</sup>7s<sup>2</sup>
+|       tabulas attēls = [[Attēls:Pu-TableImage.svg|250px]]
+|               attēls = [[Attēls:Plutonium3.jpg|150px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Attēls:Plutonium pellet.jpg|180px]] <br />Plutonija paraugi un kvēlojoša plutonija-238 kapsula radioizotopu termoģeneratorā
+|  oksidēšanas pakāpes = +3, '''+4''', +5, +6, +7
+|  elektronegativitāte = 1,36
+|              blīvums = 19 816
+|  kušanas temperatūra = 912,5 K (639,4&nbsp;°C)
+| viršanas temperatūra = 3501 K (3228&nbsp;°C)
+}}
+
+'''Plutonijs''' ir [[ķīmiskais elements]] ar [[ķīmiskais simbols|simbolu]] '''Pu''' un [[atomskaitlis|atomskaitli]] 94. Tīrs plutonijs ir sudrabbalts, [[radioaktivitāte|radioaktīvs]] [[metāls]]. Plutonijs ir mākslīgi iegūts elements (izņemot vienu izotopu <sup>244</sup>Pu, kurš dabā nelielos daudzumos ir atrasts [[urāns (elements)|urāna]] rūdā). Rūpnieciski plutoniju [[atomreaktors|atomreaktoros]] ražo no urāna. Savienojumos plutonija [[oksidēšanas pakāpe]]s ir +3, +4, +5, +6, +7, bet visbiežāk plutonijs ir četrvērtīgs.
+
+{{inde|Visi plutonija savienojumi ir indīgi!}}
+
+== Vēsture ==
+1934. gadā [[Enriko Fermi]] un zinātnieku komanda no [[Romas Universitāte]]s ziņoja, ka ir atklājuši jaunu ķīmisko elementu, kura kārtas numurs ir 94. Fermi to nosauca par hesperiju ({{val-la|hesperium}}). Patiesībā tas bija [[bārijs|bārija]], [[kriptons|kriptona]] un dažu citu elementu maisījums.
+
+1940. gada 14. decembrī [[Kalifornijas Universitāte (Bērkli)|Kalifornijas Universitātes]] zinātnieki [[Glens T. Sīborgs]] (''Glenn T. Seaborg''), [[Edvīns Makmillans]] (''Edwin McMillan''), [[Džozefs V. Kenedijs]] (''Joseph W. Kennedy'') un [[Arturs Vals]] (''Arthur Wahl'') [[ciklotrons|ciklotronā]] ar [[deitērijs|deitēriju]] bombardēja [[urāns (elements)|urānu]]–238. Viņi izolēja jaunu ķīmisko elementu. 1941. gada 23. februārī tas tika identificēts.
+
+Plutonijs ir nosaukts par godu Saules sistēmas planētai [[Plutons (pundurplanēta)|Plutonam]] (tajā laikā Plutonu uzskatīja par pilnvērtīgu planētu). Jaunatklātais elements ir nākamais elements periodiskajā tabulā aiz [[neptūnijs|neptūnija]]. Arī Saules sistēmā Plutons bija nākamā planēta aiz [[Neptūns (planēta)|Neptūna]].
+
+== Izotopi ==
+[[Attēls:Plutonium ring.jpg|thumbnail|200px|Attīrīta ieroču plutonija gredzens. Tas ir 11 cm diametrā un sver 5,3 kg. Šāda forma novērš patvaļīgas [[kodolu dalīšanās]] sākšanos]]
+
+Visi plutonija izotopi ir [[Radioaktivitāte|radioaktīvi]]. Svarīgākie trīs plutonija [[izotops|izotopi]]: <sup>238</sup>Pu, <sup>239</sup>Pu un <sup>244</sup>Pu. No tiem stabilākais ir <sup>244</sup>Pu, kura [[pussabrukšanas periods]] ir 80,8 miljoni gadu. Tieši tāpēc šis izotops vēl ir atrodams dabā, jo kopš [[Zeme]]s izveidošanās vēl nav paspējis sabrukt viss šī izotopa daudzums.<ref>{{publikācijas atsauce|doi = 10.1038/234132a0|url=http://www.nature.com/nature/journal/v234/n5325/abs/234132a0.html|title= Detection of Plutonium-244 in Nature|journal = Nature|pages = 132–134|year = 1971|last1 = Hoffman|first1 = D. C.|last2 = Lawrence|first2 = F. O.|last3 = Mewherter|first3 = J. L.|last4 = Rourke|first4 = F. M.|volume = 234}}</ref> Dabā plutonijs izotopa <sup>244</sup>Pu formā nelielos daudzumos ir sastopams [[urāns (elements)|urāna]] rūdā, kur tā koncentrācija ir dažas daļiņas no [[triljons|triljona]].
+
+Visi pārējie izotopi ir mākslīgi radīti. Ir zināmi vēl 17 mākslīgi plutonija izotopi, kuru [[masas skaitlis]] ir no 228 līdz 247.
+
+== Izmantošana ==
+Plutonijam ir dažādi pielietojumi. Plutoniju-238 lieto [[radioizotopiskais termoelektroģenerators|radioizotopu termoelektroģeneratoros]] elektrības ieguvei nepieejamās vietās.
+
+Plutonijs-239 ir viens no trijiem [[skaldmateriāli]]em, ko var lietot [[kodolieroči|kodolieročos]] (pārējie divi ir urāns-235 un urāns-233). Šo plutonija izotopu iegūst brīderu reaktoros, kur tas veidojas, [[urāns-238|urānu-238]] bombardējot ar ātrajiem [[neitrons|neitroniem]].<ref>{{Tīmekļa atsauce|url=http://hyperphysics.phy-astr.gsu.edu/hbase/nucene/bomb.html#c4|title=Plutonium Bomb}}</ref>
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+
+{{ķīmija-aizmetnis}}
+
+{{Periodiskā sistēma}}
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmiskie elementi]]
+[[Kategorija:Aktinīdi]]

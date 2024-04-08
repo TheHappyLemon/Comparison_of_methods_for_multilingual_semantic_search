@@ -1,0 +1,68 @@
+{{Futbola izlases infokaste
+| Name               = Malta
+| Badge              = Malta Football Association logo.svg
+| FIFA Trigramme     = MLT
+| Nickname           = ''The Knights of St John''<br />(Sv. Jāņa bruņinieki)<br />''Ħomor'' (Sarkanie)
+| Association        = [[Maltas Futbola asociācija]]
+| Confederation      = [[UEFA]] (Eiropa)
+| Coach              = {{flaga|Itālija}} Mikele Markolīni
+| Captain            = Stīvs Borgs
+| Most caps          = Maikls Mifsuds (143)
+| Top scorer         = Maikls Mifsuds (42)
+| Home Stadium       = [[Takali Nacionālais stadions]]
+ <!-- Tērpu krāsu veidnes -->
+| pattern_la1    = _mlt22h
+| pattern_b1     = _mlt22h
+| pattern_ra1    = _mlt22h
+| pattern_sh1    = _mlt22h
+| pattern_so1    = _mlt22h
+| leftarm1       = FF0000
+| body1          = FF0000
+| rightarm1      = FF0000
+| shorts1        = FF0000
+| socks1         = FF0000
+| pattern_la2    = _mlt22a
+| pattern_b2     = _mlt22a
+| pattern_ra2    = _mlt22a
+| pattern_sh2    = _mlt22a
+| pattern_so2    = _mlt22a
+| leftarm2       = FFFFFF 
+| body2          = FFFFFF 
+| rightarm2      = FFFFFF 
+| shorts2        = FFFFFF 
+| socks2         = FFFFFF 
+| First game         = {{fb|Malta}} 2:3 {{fb-rt|Austrija}}<br />([[Gzira]], [[Malta]]; {{dat|1957|2|24|N|bez}})
+| Largest win        = {{fb|Malta}} 7:1 {{fb-rt|Lihtenšteina}}<br />([[Takali]], [[Malta]]; {{dat|2008|3|26|N|bez}})
+| Largest loss       = {{fb|Spānija}} 12:1 {{fb-rt|Malta}}<br />([[Sevilja]], [[Spānija]]; {{dat|1983|12|21|N|bez}})
+| World cup apps     = 
+| World cup first    = 
+| World cup best     = 
+| Regional name      = [[Eiropas čempionāts futbolā|Eiropas čempionāts]]
+| Regional cup apps  = 
+| Regional cup first = 
+| Regional cup best  = 
+}}
+
+'''Maltas futbola izlase''' ir nacionālā [[Futbols|futbola]] komanda, kas pārstāv [[Malta|Maltas valsti]] starptautiskās futbola sacensībās. Maltas futbola izlasi pārvalda [[Maltas Futbola Asociācija]]. Savu pirmo spēli izlase aizvadīja 1957. gadā pret [[Austrijas futbola izlase|Austriju]]. Malta nekad nav iekļuvusi ne [[Eiropas čempionāts futbolā|Eiropas]], ne [[FIFA Pasaules kauss|Pasaules]] čempionātu finālturnīros.
+
+== Pasaules čempionātos ==
+* [[1930. gada FIFA Pasaules kauss|1930]]-[[1970. gada FIFA Pasaules kauss|1970]] - ''Nepiedalījās''
+* [[1974. gada FIFA Pasaules kauss|1974]]-[[2010. gada FIFA Pasaules kauss|2010]] - ''Nekvalificējās''
+* [[2014. gada FIFA Pasaules kauss|2014]] - ''[[2014. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|Nekvalificējās]]''
+*[[2018. gada FIFA Pasaules kauss|2018]] - [[2018. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+*[[2022. gada FIFA Pasaules kauss|2022]] - [[2022. gada FIFA Pasaules kausa kvalifikācija — UEFA zona|''Nekvalificējās'']]
+
+== Eiropas čempionātos ==
+* [[1960. gada Eiropas čempionāts futbolā|1960]] - ''Nepiedalījās''
+* [[1964. gada Eiropas čempionāts futbolā|1964]] - ''Nekvalificējās''
+* [[1968. gada Eiropas čempionāts futbolā|1968]] - ''Nepiedalījās''
+* [[1972. gada Eiropas čempionāts futbolā|1972]]-[[2020. gada Eiropas čempionāts futbolā|2020]] - ''Nekvalificējās''
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{sporta ārējās saites}}
+
+{{UEFA izlases}}
+
+[[Kategorija:Eiropas futbola izlases]]
+[[Kategorija:Maltas futbola izlase| ]]

@@ -1,0 +1,90 @@
+{{Latvijas novada infokaste
+| nosaukums         = Pampāļu pagasts
+| karte             = Pampāļu pagasts LocMap.png
+| karte2            = <!-- karte ar kaimiņpagastiem -->
+| ģerboņa_attēls    = <!-- tikai faila nosaukums -->
+| ģerboņa_nosaukums = Xxx ģerbonis <!-- pirms ģerboņa norādīt pagastu, kuram tas pieder -->
+| ģerboņa_platums   = <!-- tikai gadījumos, kad nepieciešams nestandarta izmērs (YYpx)-->
+| karoga_attēls     = <!-- tikai faila nosaukums -->
+| karoga_nosaukums  = Xxx karogs <!-- pirms karoga norādīt pagastu, kuram tas pieder -->
+| novads            = Novads
+| novada_nosaukums  = Saldus novads
+| centrs            = Pampāļi
+| platība           = 122,24
+| iedzīvotāji       = 813<ref>{{pmlp2010}}</ref>
+| iedzīvotāji_gads  = 2010
+| blīvums           = {{#expr: 813/ 122.24 round 1}}
+| izveidots         = 1922
+| likvidēts         = <!-- tikai ja likvidēts sadalot vai iekļaujot citā pagastā -->
+| mājaslapa         = <!-- bez "http://" daļas -->
+}}
+
+'''Pampāļu pagasts''' ir viena no [[Saldus novads|Saldus novada]] administratīvajām teritorijām, [[Venta]]s labajā krastā. Robežojas ar sava novada [[Zirņu pagasts|Zirņu]], [[Novadnieku pagasts|Novadnieku]], [[Kursīšu pagasts|Kursīšu]], [[Zaņas pagasts|Zaņas]] un [[Nīgrandes pagasts|Nīgrandes]] pagastiem un [[Kuldīgas novads|Kuldīgas novada]] [[Nīkrāces pagasts|Nīkrāces]] un [[Skrundas pagasts|Skrundas]] pagastiem. 
+
+== Daba ==
+Pagasts atrodas [[Austrumkursas augstiene]]s [[Vārmes nolaidenums|Vārmes nolaidenuma]] dienvidrietumu malā. Pagasta dienvidaustrumu malā sākas [[Austrumkursas augstiene]]s [[Vadakstes līdzenums]]. Ziemeļrietumu malā atrodas [[Kursas zemiene]]s [[Pieventas līdzenums]]. Pagasta lielāko daļu aizņem [[Pampāļu paugurvalnis|Pampāļu paugurvaļņa]] rietumu daļa. Augstākā vieta pagastā - 99,5 m vjl (pie [[Auniņi (Pampāļu pagasts)|Auniņi]]em).
+
+=== Hidrogrāfija ===
+==== Upes ====
+* [[Venta]]
+** [[Grozila]]
+** [[Klūga (upe)|Klūga]]
+** [[Zaņa (upe)|Zaņa]]
+*** [[Abrupīte]]
+*** [[Plocīte]]
+
+==== Ezeri un ūdenskrātuves ====
+Pagastā nav lielu ezeru. Lielākā ūdenskrātuve - [[Pampāļu dzirnavezers]] (14,4 ha)
+
+==== Purvi ====
+[[Lāču purvs (Pampāļi)|Lāču purvs]] (107 ha), [[Dadzu purvs]] (65 ha), [[Pumpuru purvs]] (56 ha).
+
+== Vēsture ==
+Mūsdienu Pampāļu pagasta teritorijā vēsturiski atradās Grāveļu muiža (''Gut Gravern''), Pampāļu muiža (''Gut Pampeln'', [[Pampāļi]]).
+
+Pampāļu pagasts izveidots 1921. gadā, sadalot [[Lielezeres pagasts|Lielezeres pagastu]].<ref>Valdības Vēstnesis - 1921.gada 22.oktobris</ref> 1935. gadā [[Kuldīgas apriņķis|Kuldīgas apriņķa]] Pampāļu pagasta platība bija 131,8 km² un tajā dzīvoja 2484 iedzīvotāji.<ref>{{EncLP}}</ref> 1945. gadā pagastā izveidoja Pampāļu, [[Ventas ciems|Ventas]] un [[Zaņas ciems|Zaņas]] [[ciema padome]]s, bet pagastu 1949. gadā likvidēja. '''Pampāļu ciems''' ietilpis [[Skrundas rajons|Skrundas]] (1949-1959) un [[Saldus rajons|Saldus]] (pēc 1959. g.) rajonos. Pampāļu ciemam 1954. gadā pievienoja likvidēto Ventas ciemu.<ref>{{Latvijas PSR iedalījums}}</ref> 1990. gadā ciemu reorganizēja par pagastu. 2009. gadā Pampāļu pagastu kā administratīvo teritoriju iekļāva [[Saldus novads|Saldus novadā]].
+
+== Iedzīvotāji ==
+=== Iedzīvotāju skaita izmaiņas ===
+{{Historical populations
+| title= Iedzīvotāju skaita izmaiņas
+| align = none
+| cols = 3
+| graph-pos = bottom
+|1935|2484
+|1959|909
+|1967|994
+|1979|829
+|1989|1019
+|2000|1002
+|2011|717
+|2021|521
+}}
+
+=== Apdzīvotās vietas ===
+Lielākās apdzīvotās vietas ir [[Pampāļi]] (pagasta centrs), [[Auniņi (Pampāļu pagasts)|Auniņi]], [[Veldres (Pampāļu pagasts)|Veldres]], [[Pūteļkalns]], [[Pakalni (Pampāļu pagasts)|Pakalni]], [[Lukas]].
+
+== Saimniecība ==
+=== Transports ===
+{{Nepilnīga nodaļa}}
+
+== Izglītība un kultūra ==
+{{Nepilnīga nodaļa}}
+
+== Atsauces ==
+{{Atsauces}}
+
+{{Latvijas pagasts-aizmetnis}}
+
+{{Saldus novads}}
+{{Navboxes
+|title=Vēsturiskā administratīvā piederība
+|list1=
+{{Saldus rajons}}
+{{Kuldīgas apriņķis}}
+}}
+
+{{DEFAULTSORT:Pampalzu pagasts}}
+[[Kategorija:Kurzeme]]
+[[Kategorija:Saldus novada pagasti]]
+[[Kategorija:Pampāļu pagasts| ]]

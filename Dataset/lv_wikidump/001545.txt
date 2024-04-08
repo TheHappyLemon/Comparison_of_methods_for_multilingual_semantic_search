@@ -1,0 +1,31 @@
+'''Avogadro skaitlis''' ir [[atoms|atomu]] vai [[molekula|molekulu]] skaits vienā [[mols|molā]] [[vielas daudzums|vielas]]. Tā tas nosaukts par godu [[Itālija|itāliešu]] zinātniekam [[Amedeo Avogadro]], kurš dzīvoja 19. gadsimtā. Saskaņā ar mola definīciju Avogadro skaitlis ir vienāds visām [[viela|vielām]]. Kopš 2019. gada molu definē kā vielas daudzumu, kas satur precīzi 6.02214076×10<sup>23</sup> elementārdaļiņu (piem. atomu).<ref>{{Publikācijas atsauce|last=BIPM|date=2001-02|title=Publications of the Bureau International des Poids et Mesures|url=http://dx.doi.org/10.1088/0026-1394/38/1/12|journal=Metrologia|volume=38|issue=1|pages=95–96|doi=10.1088/0026-1394/38/1/12|issn=0026-1394}}</ref> Aptuveni atbilst un pirms tam definēts kā atomu skaits 12 [[Grams|gramos]] oglekļa-12 ([[Ogleklis|oglekļa]] [[izotops]] ar [[molekulu masa|atommasu]] 12).<ref>{{Publikācijas atsauce|last=Terrien|first=J|date=1971-01|title=News from the Bureau International des Poids et Mesures|url=http://dx.doi.org/10.1088/0026-1394/7/1/008|journal=Metrologia|volume=7|issue=1|pages=43–44|doi=10.1088/0026-1394/7/1/008|issn=0026-1394}}</ref>
+
+== Avogadro skaitļa apzīmējums un tā vērtība ==
+
+Avogadro skaitli apzīmē ar <math> N_A \ </math> un tā ir noteikta konstante, kuru lieto [[ķīmija|ķīmijā]] un [[fizika|fizikā]].
+
+<math> N_A = 6.02214076 \cdot 10^{23} mol^{-1} \approx 6,02 \cdot 10^{23} mol^{-1} \ </math>
+
+== Avogadro skaitļa nozīme ==
+
+Avogadro skaitlis ir pārejas koeficients no mikroskopiskiem masu lielumiem (atommasas, molekulmasas) uz makroskopiskiem masu lielumiem (kilogrami, tonnas).
+
+== Skatīt arī ==
+* [[Molekulu masa]]
+* [[Relatīvā molekulmasa]]
+* [[Vielas daudzums]]
+* [[Molmasa]]
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+{{sisterlinks-inline}}
+{{Enciklopēdiju ārējās saites}}
+
+
+{{autoritatīvā vadība}}
+
+[[Kategorija:Ķīmija]]
+[[Kategorija:Molekulārfizika]]
+[[Kategorija:Fundamentālās fizikas konstantes]]
