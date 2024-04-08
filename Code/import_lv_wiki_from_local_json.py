@@ -82,6 +82,6 @@ def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = 10, lo
         log_file.write(f"Time elapsed: '{end - start}'\n")
 
 file_path = path + 'lvwiki-20240401-cirrussearch-content.json'
-log_path  = path_res + 'cirrussearch-content_import_DELETETHISTMPLOG.log'
+log_path  = path_res + 'cirrussearch-content_import_lv.log'
 max_pages = 5
 process_wikipedia_dump(file_path, chunk_size, max_pages, log_path)
