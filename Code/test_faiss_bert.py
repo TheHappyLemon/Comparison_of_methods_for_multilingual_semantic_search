@@ -8,15 +8,17 @@ model = AutoModel.from_pretrained("google-bert/bert-base-uncased")
 texts = ["The apple is tasty", "The weather is bad", "I took my dog for a play"]  # Added another text for demonstration
 
 if __name__ == '__main__':
-    embeddings = get_embeddings(texts, tokenizer)
+    embeddings = get_embeddings(texts, tokenizer, model)
     print(embeddings.size())
     embeddings = embeddings.numpy()
     dimension = embeddings.shape[1]
 
-    index = faiss.IndexFlatL2(dimension)
+    # index = faiss.IndexFlatL2(dimension)
+    index = faiss.IndexHNSWFlat(dimension, 32)
     index.add(embeddings.astype(np.float32))
+    print(index.is_trained)
 
-    query_embedding = get_embeddings(["I took my cat for a walk"]).numpy()
+    query_embedding = get_embeddings(["I took my cat for a walk"], tokenizer, model).numpy()
 
     k = 1
     D, I = index.search(query_embedding[0:1], k)

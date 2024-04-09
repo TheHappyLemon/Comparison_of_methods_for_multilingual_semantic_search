@@ -66,6 +66,7 @@ def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, lo
                 processed_documents.clear()
         
         flush_data(processed_documents)
+        log_file.write(f"flushed '{len(processed_documents)}' documents.'{len(origins)} left'\n")
         end = datetime.now()
         log_file.write(f"finished importing at '{end}'\n")
         log_file.write(f"Time elapsed: '{end - start}'\n")

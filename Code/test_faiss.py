@@ -9,17 +9,16 @@ csv_name = 'neighbors.csv'
 
 vector_dimensions = 2
 vector_amount = 1000
-# make reproducible
+# make reproducable
 np.random.seed(1234)
 db_vectors = np.random.random((vector_amount, vector_dimensions)).astype('float32')
 
 index = faiss.IndexFlatL2(vector_dimensions)   
 index.add(db_vectors)            
 
-query_vectors_amount = 1
-# make reproducible
+# make reproducable
 np.random.seed(5678)
-query_vectors = np.random.random((query_vectors_amount, vector_dimensions)).astype('float32')
+query_vectors = np.random.random((1, vector_dimensions)).astype('float32')
 k = 4
 distances, indices = index.search(query_vectors, k)
 
@@ -32,7 +31,7 @@ for i in range(len(distances)):
         csv_rows.append([indices[i][j], distances[i][j], f"{neighbor_vector[0]}, {neighbor_vector[1]}"])
         plt.scatter(neighbor_vector[0], neighbor_vector[1], color='green')
 
-with open(csv_name, 'w+') as csvfile:
+with open(csv_name, 'w+', newline='') as csvfile:
     # creating a csv dict writer object
     writer = csv.writer(csvfile)
     writer.writerow(csv_header)

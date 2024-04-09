@@ -1,5 +1,6 @@
 constants.py
 ~$*
+neighbors.csv
 # because dumps are in xml and json format
 *.xml
 *.json
