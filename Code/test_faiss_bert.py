@@ -5,18 +5,15 @@ import numpy as np
 
 tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-uncased")
 model = AutoModel.from_pretrained("google-bert/bert-base-uncased")
-texts = ["The apple is tasty", "The weather is bad", "I took my dog for a play"]  # Added another text for demonstration
-
+texts = ["The apple is tasty", "The weather is bad", "I took my dog for a play"]
 if __name__ == '__main__':
     embeddings = get_embeddings(texts, tokenizer, model)
-    print(embeddings.size())
     embeddings = embeddings.numpy()
-    dimension = embeddings.shape[1]
+    dimensions = embeddings.shape[1]
 
-    # index = faiss.IndexFlatL2(dimension)
-    index = faiss.IndexHNSWFlat(dimension, 32)
+    # index = faiss.IndexFlatL2(dimensions)
+    index = faiss.IndexHNSWFlat(dimensions, 64)
     index.add(embeddings.astype(np.float32))
-    print(index.is_trained)
 
     query_embedding = get_embeddings(["I took my cat for a walk"], tokenizer, model).numpy()
 
