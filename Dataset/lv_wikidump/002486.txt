@@ -1,8 +1,0 @@
-{{cita nozīme|internetu|Šveices kantonu|Ūrī}}
-'''Vienotais resursu identifikators''' jeb '''URI''' ({{val|en|Uniform Resource Identificator}}) ir [[Internets|Interneta]] protokolu elements, ko veido īsa simbolu virkne, kas atbilst noteiktai [[sintakse]]i. Šī simbolu virkne sastāda adresi, pēc kuras pieejams [[resurss]]. URI ir viens no [[vispasaules tīmeklis|vispasaules tīmekļa]] pamatelementiem.
-
-{{IT-aizmetnis}}
-
-{{autoritatīvā vadība}}
-
-[[Kategorija:Internets]]

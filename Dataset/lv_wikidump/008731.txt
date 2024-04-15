@@ -1,9 +1,0 @@
-{{Asbox
-|     image = Transistor stub.svg
-|       pix = 48
-|   subject = [[elektronika|elektroniku]]
-|  category = Nepabeigti raksti par elektroniku
-|      name = Veidne:Elektronika-aizmetnis
-}}<noinclude>
-[[Kategorija:Aizmetņu veidnes]]
-</noinclude>

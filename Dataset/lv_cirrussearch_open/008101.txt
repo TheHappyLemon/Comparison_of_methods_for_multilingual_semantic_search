@@ -1,0 +1,1 @@
+Ventilators ir ierīce gāzu pārvietošanai. Tos lieto, ja gāzes pārvietošanai nepieciešamais spiediens ir mazāks par ~150 kPa. Iekārtas, kas nodrošina lielākus spiedienus, sauc par kompresoriem.

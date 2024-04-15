@@ -1,5 +1,0 @@
-<indicator name="featured-article">[[Attēls:LinkFA-star (ja).png|14px|link=Vikipēdija:Vērtīgi raksti|Šis ir vērtīgs raksts. Uzklikšķiniet šeit, lai iegūtu vairāk informācijas.|alt=Vērtīgs raksts]]</indicator><includeonly>[[Kategorija:Vērtīgi raksti]]</includeonly><noinclude>
-{{Dokumentācija}}
-
-[[Kategorija:Rakstu kvalitāšu veidnes]]
-</noinclude>

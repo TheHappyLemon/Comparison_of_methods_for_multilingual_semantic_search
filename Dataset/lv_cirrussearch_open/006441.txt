@@ -1,0 +1,1 @@
+Piwigo ir GPL licencēta tīmekļa foto galeriju izveides lietotne. Tā ir rakstīta PHP valodā un tās darbībai nepieciešams (MySQL, PostgreSQL vai SQLite) datu bāzu nodrošinājums. Agrāk Piwigo bija zināma kā PhpWebGallery. Piwigo izveidotājs Pjērs Legāls (Pierrick Le Gall) 2008. gada 24. septembrī savā personīgajā blogā paziņoja par nosaukuma maiņu.

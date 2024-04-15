@@ -1,0 +1,1 @@
+DUAL tabula ir speciāla vienas rindas tabula, kas pieejama pēc noklusējuma visās Oracle datubāzēs. Tā ir noderīga tādu pseidokolonnu datu atlasīšanai kā piemēram - SYSDATE vai USER. Tabulai ir viena kolonna ar datu tipu VARCHAR2(1), nosaukumu DUMMY, kuras vērtība ir X.

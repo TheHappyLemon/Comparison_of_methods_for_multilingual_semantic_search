@@ -1,0 +1,1 @@
+Mītiskais cilvēkmēnesis: programminženierijas esejas (angļu: The Mythical Man-Month: Essays on Software Engineering) ir Freda Bruksa grāmata par programminženieriju un projektu pārvaldību. Darba galvenā tēma ir, ka "ja programmēšanas projekta beigu posmā piesaista papildu cilvēkus, tas aizkavējas". Tāpat tiek apskatīts otrās sistēmas efekts un aizstāvēta prototipēšana.

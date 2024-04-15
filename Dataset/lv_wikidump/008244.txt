@@ -1,9 +1,0 @@
-<div style="float:left;border:solid #99B3FF 1px;margin:1px">
-{| cellspacing="0" style="width:238px;background:#E0E8FF"
-| style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt" | '''[[zviedru valoda|sv]]-3'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" | Denna användare behärskar '''[[:Kategorija:User sv|svenska]]''' '''[[:Kategorija:User sv-3|flytande]]'''. 
-|}</div><includeonly>
-[[Kategorija:User sv|{{PAGENAME}}]] [[Kategorija:User sv-3|{{PAGENAME}}]]
-</includeonly><noinclude>
-[[Kategorija:Valodu lietotāju veidnes|sv-3]]
-</noinclude>

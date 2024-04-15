@@ -1,0 +1,1 @@
+Serveris ir datorsistēma klienta servera arhitektūrā, kas nodrošina klientu pieprasījumu apstrādi un nosūta tiem atbildes. Terminu "serveris" attiecina gan uz datoru, gan uz programmatūru, kas veic šādas funkcijas.

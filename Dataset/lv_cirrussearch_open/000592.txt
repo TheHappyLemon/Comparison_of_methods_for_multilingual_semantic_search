@@ -1,0 +1,1 @@
+Sudoku (no japāņu: 数独 sūdoku) ir mīkla, kurā jāizvieto ciparus (vai citus simbolus) tā, lai katrā mīklas rindā, kolonnā un blokā tie neatkārtotos. Klasiskā sudoku izmērs is 9x9 rūtiņas, kas sadalītas blokos pa deviņiem kvadrātiskiem lauciņiem. Taču bieži vien sastopami sudoku varianti ar atšķirīgu rūtiņu skaitu, mīklas laukumu vai bloku formu, vai papildus noteikumiem.

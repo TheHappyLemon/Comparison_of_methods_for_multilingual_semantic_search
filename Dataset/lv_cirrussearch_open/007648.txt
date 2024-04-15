@@ -1,0 +1,1 @@
+Canvas (angļu: canvas — ‘audekls’) ir HTML 5 elements, kas paredzēts skriptu valodas vizualizācijai, izmantojot 2d un bitmap attēlus.

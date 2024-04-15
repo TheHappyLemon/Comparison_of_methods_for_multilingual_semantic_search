@@ -1,3 +1,0 @@
-|- style="text-align: center;"
-|width="30%" align="center" rowspan="{{{rows|1}}}"|Priekštecis:<br/><span style="font-weight: bold">{{{before}}}{{#if:{{{before2|}}}|<br/>{{{before2}}}|}}{{#if:{{{before3|}}}|<br/>{{{before3}}}|}}{{#if:{{{before4|}}}|<br/>{{{before4}}}|}}{{#if:{{{before5|}}}|<br/>{{{before5}}}|}}</span>{{#if:{{{as|}}}|<br><small>'''''kā {{{as}}}'''''</small>}}</includeonly><noinclude>
-[[Kategorija:Amatu secības veidnes]]</noinclude>

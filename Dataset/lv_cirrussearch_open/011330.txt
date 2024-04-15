@@ -1,0 +1,1 @@
+Datu tips (data type) ir datu paveids, piemēram, ir skaitliskie dati, burtciparu (rakstzīmju) dati, loģiskie (patiess/aplams) dati un datumi. Programmēšanas valodas parasti nodrošina dažādu datu tipu veidošanu. Datu bāzu pārvaldības sistēmās šo terminu izmanto, lai klasificētu datu laukus, kuri nosaka, kādus datus var ievadīt datubāzē.

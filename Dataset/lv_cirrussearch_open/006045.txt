@@ -1,0 +1,1 @@
+Eratostena siets ir vienkāršs algoritms visu to pirmskaitļu atrašanai, kas nepārsniedz kādu dotu naturālu skaitli. Algoritmu izdomāja sengrieķu matemātiķis Eratostens.

@@ -1,0 +1,1 @@
+Kvadrātiskas, nesingulāras matricas A {\displaystyle A} apgrieztā matrica jeb inversā matrica ir tāda matrica, kuru reizinot ar matricu A {\displaystyle A} , iegūst vienības matricu: A − 1 ⋅ A = A ⋅ A − 1 = E {\displaystyle A^{-1}\cdot A=A\cdot A^{-1}=E}

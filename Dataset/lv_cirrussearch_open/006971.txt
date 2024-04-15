@@ -1,0 +1,1 @@
+Lineārs vienādojums ir vienādojums, kura abas puses var būt izteiktas ar pirmās pakāpes polinomiem (no nezināmajiem). Vienādojuma vispārīgais veids ir ax+b=0{\displaystyle ax+b=0}, kur a un b ir koeficienti un x ir nezināmais.

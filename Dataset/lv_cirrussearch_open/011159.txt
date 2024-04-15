@@ -1,0 +1,1 @@
+DB2 ir relāciju datu bāzu pārvaldības sistēmas saime, kura tiek veidota kompānijā IBM. Visbiežāk, atsaucoties uz DB2, tiek domāta relāciju datu bāzes pārvaldības sistēma DB2 Universal Database (DB2 UDB).

@@ -1,0 +1,1 @@
+hCard ir mikroformāts, kas ļauj semantiski pierakstīt informāciju par cilvēkiem, uzņēmumiem un organizācijām, un iekļaut to HTML (XHTML), Atom un RSS, kā arī citos XML dokumentos. hCard ir 1:1 vCard standarta reprezentācija. FOAF hCard standarta apraksts (angliski)

@@ -1,0 +1,1 @@
+Parabola ir visu to plaknes punktu kopa, kas atrodas vienādā attālumā no kāda fiksēta plaknes punkta un kādas fiksētas plaknes taisnes (kas neiet caur fiksēto punktu). Šo punktu sauc par parabolas fokusu, bet taisni - par parabolas direktrisi. Parabola ir viena no otrās kārtas līknēm. Parabolu var iegūt arī šķeļot konusu ar plakni, kas paralēla kādai no tā veidulēm.

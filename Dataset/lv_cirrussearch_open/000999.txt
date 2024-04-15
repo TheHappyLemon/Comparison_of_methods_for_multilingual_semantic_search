@@ -1,0 +1,1 @@
+Perl ir augsta līmeņa, dinamiska programmēšanas valoda, kuru 1987. gadā radīja Larijs Valls. Tās izstrādes rīki vienmēr ir bijuši brīvi pieejami, tas nozīmē, ka ikviens par brīvu var lejupielādēt Perl interpretatoru - programmu, kas nepieciešama, lai varētu darbināt Perl'ā rakstītas programmas.

@@ -1,0 +1,1 @@
+Haskell (izrunā: ˈhæskəl) ir standartizēta dažāda pielietojuma pilnīgi funkcionāla programmēšanas valoda ar ne-striktu semantiku un stipru, statisku tipu sistēmu. Tā nosaukta par godu loģiķim Haskelam Kurijam (Haskell Curry).

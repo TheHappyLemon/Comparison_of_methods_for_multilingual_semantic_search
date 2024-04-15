@@ -1,0 +1,1 @@
+SQL valodā komanda DELETE izdzēš vienu vai vairākus ierakstus no tabulas. Var tikt izmantots nosacījums, lai dzēstu noteiktus ierakstus. Ja netiek lietots nosacījums tad tiek dzēsti visi ieraksti.

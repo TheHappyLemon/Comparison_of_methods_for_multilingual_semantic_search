@@ -1,7 +1,0 @@
-'''Vidējā Zemes orbīta''' jeb '''MEO''' (no {{val-en|'''M'''edium '''E'''arth '''O'''rbit}}, reizēm saukta arī kā ''ICO'' - ''Intermediate Circular Orbit'') ir [[orbīta]], kas atrodas virs [[zemā Zemes orbīta|zemās Zemes orbītas]] (2000 km), bet zem [[Ģeostacionārā orbīta|ģeostacionārās orbītas]](35 786 km). [[Orbitālais periods]] pavadoņiem ir no divām līdz 12 stundām.
-
-Šīs orbītas visbiežāk izmanto globālās [[Pavadoņu navigācijas sistēma|pavadoņu navigācijas sistēmas]] ([[GPS]], [[GLONASS]]).
-
-{{ZMP-aizmetnis}}
-
-[[Kategorija:Zemes orbītas]]

@@ -1,0 +1,1 @@
+SQL valodā komanda UPDATE izmaina datus vienā vai vairākos ierakstos. Datus var izmainīt vai nu visās rindās vai arī izvēlētajās rindās, izmantojot nosacījumu.

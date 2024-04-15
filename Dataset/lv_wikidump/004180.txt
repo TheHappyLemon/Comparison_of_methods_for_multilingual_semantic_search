@@ -1,6 +1,0 @@
-[[Attēls:popup-preview.png|thumb|400px]]
-'''Navigācijas baloni''' jeb '''navigācijas izlecošie logi''' ([[angļu valoda|en]]: ''navigation popups'') ļauj viegli piekļūt vairākām Vikipēdijas iespējām nelielā balonā, kas parādās, kad dalībnieks apstādina peles kursoru virs wiki saites.
-
-'''Instalēšanas īsais kurss''': pievienojiet '''<nowiki>{{subst:navpop}}</nowiki>''' (vai arī '''<nowiki>{{subst:balons}}</nowiki>''') savā [[Special:Mypage/monobook.js|monobook.js]]. Lai iegūtu vairāk informācijas par instalēšanu un modificēšanu, skat. angļu Vikipēdijā - [[:en:Wikipedia:Tools/Navigation popups]].
-
-[[Kategorija:Vikipēdija|Navigācija]]

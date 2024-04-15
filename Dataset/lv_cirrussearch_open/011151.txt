@@ -1,0 +1,1 @@
+SQLite ir maza izmēra iegultā relāciju datubāzu pārvaldības sistēma. Datubāzes bibliotēkas pirmkods ir publiskots. 2005.gadā projekts saņēma Google-O'Reilly Open Source Awards balvu.

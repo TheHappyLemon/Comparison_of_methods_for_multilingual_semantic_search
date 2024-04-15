@@ -1,9 +1,0 @@
-'''Teritoriālais tīkls''' ({{val|en|wide area network, WAN}}) ir [[datortīkls]], kas nosedz plašu ģeogrāfisku platību, iesaistot lielu datoru daudzumu. Tas atšķiras no [[lokālais tīkls|lokāliem tīkliem]], kas parasti ir ierobežoti līdz vienai telpai vai ēkai. Labākais teritoriālā tīkla piemērs ir [[Internets]].
-
-Teritoriālos tīklus izmanto lai savā starpā savienotu vairākus lokālos tīklus, ļaujot viena lokālā tīkla datoriem sazināties ar citu lokālo tīklu datoriem. Daudzi teritoriālie tīkli ir veidoti kādas organizācijas vajadzībām un ir privāti, savukārt citi, ko veido [[Interneta Pakalpojumu Sniedzējs|Interneta Pakalpojumu Sniedzēji]] nodrošina organizāciju lokālajiem tīkliem pieeju Internetam. Teritoriālos tīklus parasti veido izmantojot [[nomātā līnija|nomātās līnijas]]. Katras nomātās līnijas galā, [[maršrutētājs]] savieno vienas puses lokālo tīklu ar teritoriālā tīkla centrmezglu. Pamata transporta mehānisms var balstīties uz dažādiem protokoliem, piemēram, [[TCP/IP]]. Kā citus plaši lietotus protokolus var minēt [[X.25]], [[ATM]] un [[kadru retranslēšana|kadru retranslēšanu]].
-
-Mūsdienās, kad Internets nodrošina lielas ātrdarbības teritoriālo tīklu, ir samazinājusies vajadzība pēc privātiem tīkliem, kas ir veidoti izmantojot organizācijai piederošas nomātās līnijas. Tā vietā bieži lieto [[virtuāls privāts tīkls|virtuālos privātos tīklus]]. Tie izmanto datu [[šifrēšana|šifrēšanu]] un citas tehnoloģijas, lai veidotu organizācijas privāto tīklu izmantojot koplietošanas teritoriālā tīkla infrastruktūru.
-
-{{autoritatīvā vadība}}
-
-[[Kategorija:Datortīkli]]

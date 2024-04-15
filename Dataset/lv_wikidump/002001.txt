@@ -1,9 +1,0 @@
-{{Commons
-| position = {{{position|}}}
-  <!-- {{#if:x|}} strips whitespace from parameter 1, 
-       in case it is fed like this: {{Commons category| Some cat }}. -->
-|Category:{{#if:x| {{{1| {{PAGENAME}} }}} }}<!--
--->|{{{2|{{{1|{{PAGENAME}}}}}}}}<!--
--->}}<includeonly>{{#invoke:WikidataCheck|wikidatacheck|property=P373|value={{#invoke:StringReplace|encode wiki page name|{{ucfirst:{{ifempty|{{{1|}}}|{{PAGENAME}}}}}}}}|category=373|namespaces=0}}</includeonly><noinclude>
-[[Kategorija:Starpviki veidnes]]
-</noinclude>

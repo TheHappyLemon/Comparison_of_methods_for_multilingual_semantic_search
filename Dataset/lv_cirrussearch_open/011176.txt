@@ -1,0 +1,1 @@
+Lietojumprogrammas saskarne (angļu: application programming interface, API) ir iepriekš definētu klašu, procedūru, funkciju, struktūru un konstanšu kopums, kas tiek pasniegts kā pielikums (bibliotēkas, servisi), kuru iespējams izmantot ārējiem programmatūras produktiem. Izmanto programmētāji, lai rakstītu dažādus programmu pielikumus.

@@ -18,8 +18,12 @@ def load_info_from_csv(file_path):
 def flush_data(data : list):
     # Writes every page text into separate file
     for page in data:
-        with open(path_res + f"en_cirrussearch\\{page['file_name']}", 'w', encoding="utf-8") as txtfile: 
-            txtfile.write(page['text'])
+        with open(path_res + f"en_cirrussearch_source\\{page['file_name']}", 'w', encoding="utf-8") as txtsrc: 
+            txtsrc.write(page['text'])
+        with open(path_res + f"en_cirrussearch_open\\{page['file_name']}", 'w', encoding="utf-8") as txtopn: 
+            txtopn.write(page['open_text'])
+        with open(path_res + f"en_cirrussearch_title\\{page['file_name']}", 'w', encoding="utf-8") as txtttl: 
+            txtttl.write(page['en_title'])
 
 def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, log_path : str = None):
 
@@ -41,19 +45,21 @@ def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, lo
             line2 = file.readline().strip()
             
             content  = json.loads(line2)
-            page_text  = content.get('text' , '')
-            page_title = content.get('title', '')
+            page_text      = content.get('text' , '')
+            page_title     = content.get('title', '')
+            page_open_text = content.get('opening_text', '')
             
             if not page_title in origins:
                 continue
-            if page_text == "":
-                log_file.write(f"Page with title {page_title} has empty text. Skipping it")
+            if page_text == "" or (page_open_text == "" or page_open_text is None):
+                log_file.write(f"Page with title {page_title} has problems with text or opening text. Skipping it")
                 del origins[page_title]
                 continue
 
             processed_document = {
                 'text'     : page_text,
-                'lv_title' : page_title,
+                'en_title' : page_title,
+                'open_text': page_open_text,
                 'file_name': origins[page_title]
             }
             

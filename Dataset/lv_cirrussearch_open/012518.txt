@@ -1,0 +1,1 @@
+Dovecot ir atvērtā koda POP un IMAP serveris Linux/UNIX veida operētājsistēmām, kura kods ir rakstīts, fokusējoties uz drošību. Izstrādātājs: Timo Sirainens (Timo Sirainen). Dovecot pirmā relīze tika publiskota 2002. gada jūlijā.

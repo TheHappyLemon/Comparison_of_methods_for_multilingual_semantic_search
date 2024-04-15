@@ -1,0 +1,1 @@
+Šis raksts ir par matemātikas un datorzinātnes jēdzienu. Par citām jēdziena grafs nozīmēm skatīt nozīmju atdalīšanas lapu. Grafs matemātikā ir punktu (kurus sauc par virsotnēm) kopa kopā ar šķautnēm, kas tos savieno. Datorzinātnē grafs ir nelineāra datu struktūra. Tādējādi grafs ir svarīgs diskrētās matemātikas un datorzinātnes jēdziens. Grafus un to īpašības pēta grafu teorija.

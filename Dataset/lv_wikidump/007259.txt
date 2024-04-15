@@ -1,6 +1,0 @@
-'''IPTV''' (Interneta protokola televīzija) ir [[ciparu televīzija]]s sistēma, kas, izmantojot [[interneta protokols|interneta protokolu]] (IP) un platjoslas tīkla infrastruktūru, nodrošina ciparu televīzijas piegādi tās saņēmējam.
-
-Lai gan IPTV izmanto interneta protokolu, tas neaprobežojas tikai ar televīziju, kas tiek [[Straumēšana|straumēta]] no interneta ([[interneta televīzija]]). IPTV tiek plaši izmantota uz abonentiem balstītos telekomunikāciju tīklos ar ātrdarbīgiem piekļuves kanāliem galalietotāju telpās, izmantojot televizoru vai citu klientu aprīkojumu. 
-
-IPTV pakalpojumus var iedalīt tiešraides televīzijā un tiešraidē ar interaktivitāti vai bez tās; multivides laika nobīdi, piemēram, atkārto TV vai citu pārraidi, kas tika pārraidīta pirms kāda laika; Notiekošā TV pārraide var tikt atskaņota no tās sākuma; un video pēc pieprasījuma, kas ietver mediju kataloga vienumu pārlūkošanu.{{IT-aizmetnis}}
-[[Kategorija:Televīzija]]

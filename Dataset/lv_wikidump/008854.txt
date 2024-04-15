@@ -1,9 +1,0 @@
-{{Asbox
-|     image = GClef.svg
-|       pix = 15
-|   subject = [[mūzika|mūziku]]
-|  category = Nepabeigti raksti par mūziku
-|      name = Veidne:Mūzika-aizmetnis
-}}<noinclude>
-[[Kategorija:Mūzikas aizmetņu veidnes]]
-</noinclude>

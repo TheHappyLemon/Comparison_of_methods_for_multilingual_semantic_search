@@ -1,0 +1,1 @@
+hCalendar ir mikroformāts, kas ļauj semantiski pierakstīt tīmekļa lappusēs iCalendar formāta notikumu aprakstus.

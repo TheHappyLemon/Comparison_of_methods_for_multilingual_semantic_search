@@ -1,0 +1,1 @@
+Formālajā loģikā de Morgana likumi saista loģiskos operatorus UN un VAI tādā veidā, ka, izmantojot negāciju, no viena var pāriet uz otru, proti: NE (P VAI Q) = (NE P) UN (NE Q) NE (P UN Q) = (NE P) VAI (NE Q)

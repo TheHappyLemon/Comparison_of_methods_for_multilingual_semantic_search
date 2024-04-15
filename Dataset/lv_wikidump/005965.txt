@@ -1,3 +1,0 @@
-<span>{{DISPLAYTITLE:{{#if:{{NAMESPACE}}|{{NAMESPACE}}:|}}{{lcfirst:{{PAGENAME}}}}}}</span><noinclude>
-[[Kategorija:Vikipēdijas uzturēšanas veidnes]]
-</noinclude>

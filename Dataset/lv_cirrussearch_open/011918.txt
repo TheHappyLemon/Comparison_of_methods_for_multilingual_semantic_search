@@ -1,0 +1,1 @@
+Suprēms ir vismazākais no tādiem skaitļiem, kuri ir lielāki vai vienādi par jebkuru kādas skaitļu kopas elementiem. Piemēram, skaitļu kopas {3, 5, 6} suprēms ir skaitlis 6, intervāla [2; 4] suprēms ir 4 utt.

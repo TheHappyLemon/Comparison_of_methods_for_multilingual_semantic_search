@@ -1,9 +1,0 @@
-{{Citas nozīmes|skaņu|tonis (nozīmju atdalīšana)|tonis}}
-
-'''Tonis''' jeb '''lielā sekunda''' ir viens no trim izplatītākajiem [[mūzika]]s intervāliem, kas atdala divas [[diatoniskais diapazons|diatoniskā diapazona]] iedaļas (pārējie ir [[mazā sekunda]] un [[palielinātā sekunda]]). Tas sastāv no diviem [[pustonis|pustoņiem]]
-
-Divu toņu [[frekvence|frekvenču]] attiecība ir <math>1:\sqrt[6]{2}</math>.
-
-{{Mūzika-aizmetnis}}
-
-[[Kategorija:Mūzikas teorija]]

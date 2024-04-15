@@ -1,0 +1,1 @@
+Hopfīlda tīkls ir viens no neironu tīklu veidiem, nosaukts tā radītāja Džona Hopfīlda vārdā. Hopfīlda tīkls modelē asociatīvo atmiņu — ar adresāciju pēc satura, nevis adreses/indeksa. Konkrēti — tas spēj noteikt, vai kaut kāds atšķirīgs (bojāts) attēls ir pietiekami līdzīgi kaut kādas grupas attēliem vai nē.

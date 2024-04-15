@@ -1,0 +1,1 @@
+Šķautne ir nogrieznis, kas kopīgs kāda daudzskaldņa divām skaldnēm. Šis nogrieznis savieno attiecīgo skaldņu virsotnes (stūrus), tāpēc tas savieno paša daudzskaldņa virsotnes. Tādējādi no jebkura daudzskaldņa jebkuras virsotnes iziet vairākas šķautnes.

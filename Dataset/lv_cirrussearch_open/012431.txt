@@ -1,0 +1,1 @@
+Enhanced Data Rates for GSM Evolution (EDGE) ir GSM modulāciju un kodēšanas shēmu sistēma. EDGE mēdz dēvēt arī par EGPRS, jo to izmanto GSM pakešu servisam - GPRS ar nolūku salāgot radio kanāla kvalitāti un datu plūsmas ātrumu. Tā kā EDGE ir GPRS uzlabojums, visi EDGE mobilie telefoni atbalsta arī GPRS. EDGE ir 3GPP standartizēta kā GSM tehnoloģija.

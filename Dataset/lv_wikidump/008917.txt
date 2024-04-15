@@ -1,2 +1,0 @@
-<span style="font-family: {{{font-family|'Arial Unicode MS', 'Lucida Sans Unicode', Gentium, GentiumAlt, tahoma, Code2000, 'Doulos SIL', Gentium, 'TITUS Cyberbit Basic', 'Lucida Grande', 'DejaVu Sans', 'Bitstream Vera Sans', 'Bitstream Cyberbit', Arial, sans-serif}}};" dir="{{{dir|ltr}}}" >{{{1}}}</span><noinclude>
-</noinclude>

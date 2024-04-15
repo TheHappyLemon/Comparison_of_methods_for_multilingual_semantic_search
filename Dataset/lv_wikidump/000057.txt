@@ -1,5 +1,0 @@
-'''Spīrmena rangu korelācijas koeficients''' [[Statistika|statistikā]] ir populārākā neparametriskās statistikas [[korelācija|korelāciju analīzes]] metode.
-
-Šo koeficientu izmanto gadījumos, kad vismaz viena no mērījumu skalām ir veikta ''rangu'' jeb ''kārtas'' skalā (tas nozīmē, ka nav zināma skaitliskā attiecība starp diviem skaitļiem rindā, bet ir tikai zināms, ka viens ir ''augstāks'', bet otrs — ''zemāks''). Šāda metode ir nepieciešama, piemēram, ja tiek mērīta rezultātu saistīta intelekta testā ar skolēnu vietām mācību olimpiādē, un nav zināms, kāda ir šo vietu savstarpējā attiecība punktos. Ja abas mērījumu skalas ir izteiktas intervālu skalā, tad ieteicamāk izmantot [[Pīrsona korelācijas koeficients|Pīrsona korelācijas koeficientu]].
-
-[[Kategorija:Statistika]]

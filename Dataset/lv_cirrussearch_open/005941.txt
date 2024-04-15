@@ -1,0 +1,1 @@
+Datoru zinātnē B-koks ir kokveida datu struktūra, kas uztur datus sakārtotus un atļauj meklēšanu, kārtas piekļuvi, ievietošanu un dzēšanu veikt logaritmiski amortizētā laikā. B-koks ir vispārināts binārās meklēšanas koka variants. B-koks ir optimizēts priekš sistēmām, kas lasa un raksta lielus datu blokus. Tas pamatā tiek izmantots datu bāzēs un failu sistēmās.

@@ -1,0 +1,1 @@
+µTorrent (pazīstams arī kā uTorrent vai microTorrent) ir C++ programmēšanas valodā sarakstīts bezmaksas BitTorrent klients Microsoft Windows un Mac OS X operētājsistēmām. Tas atšķiras ar ļoti mazo izmēru, ko tas aizņem cietajā diskā, ātru darbību un lielu funkcionalitāti. 2008. gada decembrī aktīvo klientu skaits sasniedza 28 miljonus.

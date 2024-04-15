@@ -1,8 +1,0 @@
-'''MIDI''' ir [[abreviatūra]] no '''Musical Instrument Digital Interface''' - industriāls [[standarts]], kas radīts, lai viens sintezators citam varētu nodot informāciju par atskaņojamās [[nots]] augstumu, skaļumu, ilgumu un citiem parametriem.
-
-
-{{mūzika-aizmetnis}}
-{{tehnoloģija-aizmetnis}}
-{{īss aizmetnis}}
-
-[[Kategorija:Inženierija]]

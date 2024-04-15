@@ -1,0 +1,1 @@
+Vispārējā konvencija par nacionālo minoritāšu aizsardzību

@@ -1,0 +1,1 @@
+Lineārajā algebrā determinants ir lielums, ko var piekārtot jebkurai kvadrātveida matricai. Matricas A determinantu parasti apzīmē ar det(A) vai |A| un to var izteikt kā polinomu no matricas A elementiem.

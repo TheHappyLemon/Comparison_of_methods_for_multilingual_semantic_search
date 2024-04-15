@@ -1,0 +1,1 @@
+Loģiskais elements ir loģiskās shēmas pamatvienība, kas realizē kādu no elementārajām Būla funkcijām (UN, NE, VAI, UN-NE utt.).

@@ -1,0 +1,1 @@
+SliTaz ir neliela izmēra Linux distributīvs, tas aizņem tikai 29 MB, uzinstalētā veidā aizņem mazāk par 200 MB. Tas ir viens no mazākajiem Linux distributīviem, labi piemērots vecākai datortehnikai (datoram vajag vismaz 256 MB operatīvo atmiņu) vai arī kā dzīvais distributīvs, ko palaist no zibatmiņas vai diska.

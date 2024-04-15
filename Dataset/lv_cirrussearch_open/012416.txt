@@ -1,0 +1,1 @@
+Dalāmības pazīmes ir metodes, ar kurām var noteikt, vai dotais veselais skaitlis dalās ar kādu konkrētu citu veselu skaitli, vieglāk nekā izdalot. Negatīva skaitļa gadījumā mīnusa zīmi var ignorēt.

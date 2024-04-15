@@ -1,5 +1,0 @@
-<includeonly>{{#invoke:Babel|main}}</includeonly><noinclude>
-{{lua|Modulis:Babel}}
-
-[[Kategorija:Vikipēdijas veidnes]]
-</noinclude>

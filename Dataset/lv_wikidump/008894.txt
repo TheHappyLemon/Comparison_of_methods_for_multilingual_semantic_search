@@ -1,3 +1,0 @@
-<includeonly>{{#invoke:Navbar|navbar}}</includeonly><noinclude>
-{{dokumentācija}}
-</noinclude>

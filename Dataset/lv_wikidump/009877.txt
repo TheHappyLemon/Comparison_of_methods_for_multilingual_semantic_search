@@ -1,6 +1,0 @@
-<small>—Šo komentāru pievienoja [[Dalībnieks:{{{1}}}|{{{1}}}]] ([[Dalībnieka diskusija:{{{1}}}|diskusija]] • [[Special:Contributions/{{{1}}}|devums]]){{#if:{{{2|}}}|&#32;{{{2}}}}}.</small><noinclude>
-== Lietojums ==
-<nowiki>{{neparakstījies|dalībnieks|datums un laiks}}</nowiki>
-
-[[Kategorija:Diskusijās lietojamās veidnes]]
-</noinclude>

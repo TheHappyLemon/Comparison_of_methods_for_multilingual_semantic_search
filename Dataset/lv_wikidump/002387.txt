@@ -1,9 +1,0 @@
-<div style="float:left;border:solid #77E0E8 1px;margin:1px">
-{| cellspacing="0" style="width:238px;background:#D0F8FF"
-| style="width:45px;height:45px;background:#77E0E8;text-align:center;font-size:14pt" | '''[[Spāņu valoda|es]]-2'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" | Este usuario puede contribuir con un nivel '''[[:Kategorija:User es-2|intermedio]]''' de '''[[:Kategorija:User es|español]]'''. 
-|}</div><includeonly>
-[[Kategorija:User es|{{PAGENAME}}]] [[Kategorija:User es-2|{{PAGENAME}}]]
-</includeonly><noinclude>
-[[Kategorija:Valodu lietotāju veidnes|es-2]]
-</noinclude>

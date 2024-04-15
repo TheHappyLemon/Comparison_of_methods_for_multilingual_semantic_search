@@ -1,9 +1,0 @@
-[[Attēls:Bohr atom model.svg|thumb|235px|[[Ūdeņradis|Ūdeņraža]] atoma modelis]]
-'''Bora atoma uzbūves modelis''' piedāvā vienkāršotu atoma uzbūves novērtējumu. Šo modeli 1915. gadā ieviesa ievērojamais dāņu fiziķis [[Nilss Bors]]. Bora modelis ir pazīstams kā "planetārais modelis". Tajā [[neitrons|neitroni]] un [[protons|protoni]] aizņem nelielu platību [[atoms|atoma]] centrā, ko dēvē par [[atoma kodols|kodolu]], bet [[elektrons|elektroni]] riņķo orbītās ap kodolu aptuveni tāpat, kā planētas riņķo ap Sauli.
-
-Bors izmantoja zināšanas par [[radiācija|radiāciju]], ko izstaro atomi, lai izveidotu no [[Rezerforda atoma uzbūves modelis|Rezerforda modeļa]] būtiski atšķirīgu atoma modeli. Bija zināms, ka atomi izstaro tikai noteiktu [[viļņu garums|viļņu garumu]] gaismu, tāpēc Bors nonāca pie pārsteidzoša secinājuma, ka elektroniem jāriņķo noteiktās [[orbīta|orbītās]] un ka gaisma var tikt izstarota tikai tad, kad elektrons "pārlec" no vienas orbītas uz citu. Abi šie secinājumi bija pretrunā ar [[klasiskā fizika|klasisko fiziku]], kas nebija piešķīrusi orbītām kādus noteiktus lielumus. Boram nācās pieņemt īpašus likumus, kas nesakrita ar klasiskās fizikas apgalvojumiem. Viņš konstatēja, ka šādā sīkā — atomu — mērogā īpaši stabili ir atsevišķi kustību stāvokļi. Šajos stāvokļos riņķojošais elektrons (pretēji [[elektromagnētisms|elektromagnētisma]] likumiem) neizstaro [[enerģija|enerģiju]].
-
-{{fizika-aizmetnis}}
-
-[[Kategorija:Atomfizika]]
-[[Kategorija:Kvantu mehānika]]

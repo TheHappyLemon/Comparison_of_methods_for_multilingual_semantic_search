@@ -1,3 +1,0 @@
-'''[[Mikroformāti]]''' ir iezīmes, kas ļauj pierakstīt [[semantika|semantiku]] [[HTML]] (vai [[XHTML]]) [[tīmekļa lappuse|tīmekļa lappusēs]]. Tas ļauj programmām "saprast" tīmekļa lappusēs esošo saturu, kas noformēts izmantojot mikroformātus.
-
-[[Kategorija:HTML]]

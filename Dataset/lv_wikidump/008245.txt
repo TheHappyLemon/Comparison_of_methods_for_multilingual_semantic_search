@@ -1,9 +1,0 @@
-<div style="float:left;border:solid #99B3FF 1px;margin:1px">
-{| cellspacing="0" style="width:238px;background:#E0E8FF"
-| style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt" | '''[[dāņu valoda|da]]-3'''
-| style="font-size:8pt;padding:4pt;line-height:1.25em" | Denne bruger kan bidrage på '''[[:Kategorija:User da-3|flydende]]''' '''[[:Kategorija:User da|dansk]]'''. 
-|}</div><includeonly>
-[[Kategorija:User da|{{PAGENAME}}]] [[Kategorija:User da-3|{{PAGENAME}}]]
-</includeonly><noinclude>
-[[Kategorija:Valodu lietotāju veidnes|da-3]]
-</noinclude>

@@ -1,0 +1,1 @@
+FOAF (no angļu Friend of a Friend = Drauga draugs) ir RDF ontoloģija, kas apraksta cilvēkus un attiecības starp tiem. Mūsdienās daudzi tiešsaites sociālie tīkli piedāvā informācijas eksportu FOAF formātā. Kā piemērus var minēt tīmekļa žurnālu servisus Blogiem.lv un Sviesta Ciba.

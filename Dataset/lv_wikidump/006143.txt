@@ -1,7 +1,0 @@
-<div style="float:left;border:solid #C0C8FF 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#F0F8FF"><tr>
-<td style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt">'''[[Katalāņu valoda|ca]]-1'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:1.25em">Aquest usuari pot contribuir amb un nivell  '''[[:Category:User ca-1|bàsic]]''' de '''[[:Category:User ca|català]]'''.[[Category:User ca|{{PAGENAME}}]][[Category:User ca-1|{{PAGENAME}}]]</td>
-</tr></table></div>
-<noinclude>
-</noinclude>

@@ -1,5 +1,0 @@
-'''Datne''' jeb '''fails''' ({{val|en|file}}) ir datu kopa, kas glabājas datu nesējā un ko datu glabāšanā, pārsūtīšanā vai apstrādē uzskata par vienotu veselumu. Datnē var ietilpt jebkāda veida [[cipardati]]. Parasti datu nesēju (disku) noformatē kādā [[failsistēma|failsistēmā]], lai arī tas nav obligāti. (Teorētiski būtu iespējams failu datiem piekļūt sākot nolasīt vai ierakstīt noteiktu datu nesēja vietu) Lielākajā daļā failsistēmu datnes satur datus (failā esošie dati) un metadatus (faila vārds, izveidošanas un izmainīšanas datumi, piekļuves tiesības, utt).
-
-{{IT-aizmetnis}}
-
-[[Kategorija:Datnes| ]]

@@ -1,0 +1,1 @@
+Buta algoritms ir reizināšanas algoritms, kas sareizina divus zīmes (+/-) binārus skaitļus, izmantojot binārā skaitļa papildkodu. To 1951. gadā izgudroja Endrū Donalds Buts.

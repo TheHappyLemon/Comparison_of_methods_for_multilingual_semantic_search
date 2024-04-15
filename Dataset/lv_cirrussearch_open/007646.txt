@@ -1,0 +1,1 @@
+Attāls procedūras izsaukums, attālās procedūras izsaukums jeb RPC (angļu: Remote procedure call) ir starpprocesu komunikācija, kas ļauj datorprogrammai izsaukt subrutīnu vai procedūru, lai to izpildītu citā adrešu telpā (parasti uz cita datora ar koplietojamu tīklu) bez programmētāja skaidras detaļu kodēšanas šai attālajai saskarnei.

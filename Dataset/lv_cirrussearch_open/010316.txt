@@ -1,0 +1,1 @@
+Grafu teorijā meklēšana plašumā (angļu: breadth-first search, BFS) ir grafu meklēšanas algoritms, kas, sākot no saknes virsotnes, apstaigā visas kaimiņu virsotnes. Pēc tam katrai no šīm tuvākajām virsotnēm tas apstaigā tās neapmeklētās kaimiņu virsotnes līdz sasniedz mērķi.

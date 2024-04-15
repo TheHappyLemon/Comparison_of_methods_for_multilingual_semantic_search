@@ -1,0 +1,1 @@
+PostgreSQL, bieži saukta arī vienkārši par Postgres, ir bezmaksas atvērtā pirmkoda objektu relāciju datubāzes pārvaldības sistēma (DBVS). Ir implementācijas šādām platformām: Linux, Solaris / OpenSolaris, Win32, Win x86-64, Mac OS X, FreeBSD, QNX 4,25, QNX 6.

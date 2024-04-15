@@ -1,9 +1,0 @@
-{{TCPIPmodelis}}
-'''Interneta protokolu kopums''' ir [[sakaru protokols|sakaru protokolu]] kopums, kas realizē [[protokolu steks|protokolu steku]] uz kā darbojas [[internets]]. To mēdz saukt arī par '''TCP/IP''', pēc diviem svarīgākajiem tā protokoliem — [[Pārraides vadības protokols|Pārraides vadības protokola]] (TCP)(transporta slānī) un [[Intertīkla Protokols|Intertīkla Protokola]] (IP)(tīkla slānī), kas bija vieni no pirmajiem definētajiem tīklu protokoliem.
-
-
-{{IT-aizmetnis}}
-
-[[Kategorija:Interneta protokoli]]
-[[Kategorija:Internets]]
-[[Kategorija:Tīkla protokoli]]

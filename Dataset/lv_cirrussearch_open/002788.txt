@@ -1,0 +1,1 @@
+1579. gads (MDLXXIX) ir parastais gads, kas pēc Gregora kalendāra sākās pirmdienā (pēc Jūlija kalendāra sākās desmit dienas vēlāk, ceturtdienā).

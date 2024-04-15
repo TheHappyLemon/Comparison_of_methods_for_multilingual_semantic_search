@@ -1,0 +1,1 @@
+Matricu Kronekera reizinājums jeb tenzorreizinājums ir bināra operācija, kuru izmanto lineārajā algebrā un kvantu mehānikā. Ar tā palīdzību no divām mazākām matricām A un B iegūst lielu bloku matricu, kuru apzīmē ar A ⊗ B. Kronekera reizinājums ir nosaukts par godu vācu matemātiķim Leopoldam Kronekeram.

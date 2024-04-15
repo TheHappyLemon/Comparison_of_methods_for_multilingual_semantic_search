@@ -1,9 +1,0 @@
-{{cita nozīme|laika intervālu|horizontālajām rindām periodiskajā tabulā|periodiskās tabulas periods}}
-'''Periods''' ir mazākais [[laiks|laika]] intervāls, pēc kura ķermeņa kustība pilnībā atkārtojas. [[fizika|Fizikā]] periodu parasti apzīmē ar latīņu burtu T un mērvienība tam ir [[sekunde]].
-
-Perioda apgriezto lielumu sauc par [[frekvence|frekvenci]].
-To izsaka formula T=t/n, kur n ir svārstību skaits. 
-
-{{Īss aizmetnis}}
-
-[[Kategorija:Fizikāli lielumi]]

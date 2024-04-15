@@ -1,8 +1,0 @@
-'''Spraudnis''' ({{val|en|Plug-in}})<ref>{{AkadTerm|term=plug-in|lang=EN}}</ref> ir [[datorprogramma]], kas sadarbojas ar citu programmu un papildina tās funkcionalitāti. Kā piemērus var minēt spraudņus, kuri ļauj attēlot noteiktus grafiskos formātus (piemēram, [[Mērogojama vektoru grafika|SVG]], ja [[tīmekļa pārlūkprogramma|pārlūkprogramma]] pati neatbalsta šo formātu), atskaņot [[multivide]]s failus, šifrēt un atšifrēt nosūtītos un saņemtos [[e-pasts|e-pastus]] (piemēram, [[Šifrēšanas tehnika PGP|PGP]]), filtrēt attēlus grafiskajās programmās. Galvenā programma (piemēram, tīmekļa pārlūkprogramma vai e-pasta klients) nodrošina veidu, ka spraudņi var reģistrēt sevi programmā un nosaka datu apmaiņas protokolu starp spraudņiem un pamatprogrammu.
-
-== Atsauces ==
-{{atsauces}}
-
-{{IT-aizmetnis}}
-
-[[Kategorija:Programmēšana]]

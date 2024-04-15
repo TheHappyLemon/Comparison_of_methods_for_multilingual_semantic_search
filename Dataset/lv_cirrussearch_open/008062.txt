@@ -1,0 +1,1 @@
+Openbravo ir komerciāla atvērtā koda programmatūras kompānija. Tā ir daudzlietotāju sistēma, kuru lieto, izmantojot tīmekļa pārlūkprogrammu. Uzņēmums atbild par Openbravo ERP un Openbravo POS produktu attīstību. Openbravo arhitektūra ir izveidota balstoties uz Java valodu. Programmatūra darbojas uz Microsoft Windows, Linux, Solaris, FreeBSD platformas.

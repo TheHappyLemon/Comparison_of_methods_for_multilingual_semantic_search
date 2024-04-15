@@ -1,0 +1,1 @@
+Beisbols ir komandu sporta spēle ar bumbu un vāli, kurā spēlētājiem ar atsevišķiem pārskrējieniem jāvirzās no bāzes uz bāzi, kamēr aizsardzībā esošā komanda ar vāli atsisto bumbu nav nogādājusi atpakaļ attiecīgajā bāzē. Uzvar komanda, kas pēc deviņām maiņām veikusi vairāk pilnu pārskrējienu. Beisbols ir ASV nacionālā sporta spēle.

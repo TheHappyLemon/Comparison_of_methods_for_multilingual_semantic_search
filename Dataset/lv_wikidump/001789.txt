@@ -1,8 +1,0 @@
-{{DISPLAYTITLE:''localhost''}}
-[[Datorika|Datorikā]] ar '''''localhost''''' apzīmē šobrīd lietoto sistēmu. Tā ir atgriezeniskā ierīce, kurai piešķir [[IP adrese|IP adresi]] '''127.0.0.1''' [[IPv4]] adresācijā vai '''::1''' [[IPv6]] adresācijā, un kuru var lietot [[TCP/IP]] lietojumprogrammas, lai sazinātos pašas ar sevi, vai citām uz tā paša datora palaistām lietojumprogrammām. Ja uz datora ir uzstādīta [[tīmekļa serveris|tīmekļa servera]] programmatūra, ievadot [[tīmekļa pārlūkprogramma|pārlūkprogrammas]] adreses laukā ''<nowiki>http://localhost</nowiki>'' atvērsies lapa.
-
-Iespēja sazināties ar lokālo mašīnu tādā pašā veidā, kā ar attālinātu resursdatoru, ir ērta testēšanai, kā arī ļauj sazināties ar dažādiem servisiem uz lokālās mašīnas (piemēram, spēļu serveriem), kuri ir paredzēti kā attālināti.
-
-{{IT-aizmetnis}}
-
-[[Kategorija:Internets]]

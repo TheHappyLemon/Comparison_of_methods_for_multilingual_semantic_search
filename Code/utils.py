@@ -5,13 +5,14 @@ def cls_pooling(model_output):
     # take embedding of first token of every sequence (CLS) token, which is a special classification token 
     return model_output.last_hidden_state[:, 0]
 
-def get_embeddings(text_list : list, tokenizer, model, truncation : bool = False, max_length : int = 512):
+def get_embeddings(text_list : list, tokenizer, model):
     # calls tokenizer associated with provided model
     # which procceses input, so model is ready to work with it
     # padding = extend the sequences to the length of the longest sequence or max_length if provided
     # truncation = truncate longest sentences to max_length
     # max_length = maximum sequence length
-    encoded_input = tokenizer(text_list, padding=True, return_tensors="pt", truncation=truncation, max_length=max_length)
+    # https://huggingface.co/docs/transformers/pad_truncation padding to max model input length
+    encoded_input = tokenizer(text_list, padding='max_length', truncation=True, return_tensors="pt")
     # torch.no_grad - we are NOT training. It does not store gradients during forward pass
     with torch.no_grad():
         model_output = model(**encoded_input)

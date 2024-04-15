@@ -1,5 +1,0 @@
-'''Cenas griesti''' ir valdības ieviesti noteikumi par to kāda var būt augstākā cena, ko drīkst noteikt kādai [[prece]]i. Ja cenas griesti ir zemāki par [[tirgus līdzsvars|tirgus līdzsvara]] cenu, tirgū radīsies šīs preces [[deficīts]].
-
-{{Ekonomika-aizmetnis}}
-
-[[Kategorija:Ekonomika]]

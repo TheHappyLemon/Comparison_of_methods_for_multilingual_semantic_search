@@ -1,0 +1,1 @@
+PHP paātrinātājs ir spraudnis, kas paredzēts PHP programmēšanas valodā rakstītu skriptu ātrdarbības uzlabošanai.
