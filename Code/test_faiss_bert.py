@@ -16,7 +16,6 @@ if __name__ == '__main__':
     index.add(embeddings.astype(np.float32))
 
     query_embedding = get_embeddings(["I took my cat for a walk"], tokenizer, model).numpy()
-
     k = 1
     D, I = index.search(query_embedding[0:1], k)
     print("Distances:", D)
