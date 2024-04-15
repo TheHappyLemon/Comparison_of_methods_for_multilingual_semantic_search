@@ -1,0 +1,1 @@
+Multi-booting is the act of installing multiple operating systems on a single computer, and being able to choose which one to boot. The term dual-booting refers to the common configuration of specifically two operating systems. Multi-booting may require a custom boot loader.

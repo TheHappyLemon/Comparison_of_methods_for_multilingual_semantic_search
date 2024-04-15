@@ -48,11 +48,14 @@ def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, lo
             page_text      = content.get('text' , '')
             page_title     = content.get('title', '')
             page_open_text = content.get('opening_text', '')
-            
+
             if not page_title in origins:
                 continue
             if page_text == "" or (page_open_text == "" or page_open_text is None):
-                log_file.write(f"Page with title {page_title} has problems with text or opening text. Skipping it")
+                if page_text == "":
+                    log_file.write(f"Page with title {page_title} has empty text. Skipping it\n")
+                elif page_open_text == "" or page_open_text is None:
+                    log_file.write(f"Page with title {page_title} has empty opening text. Skipping it\n")
                 del origins[page_title]
                 continue
 
@@ -79,6 +82,6 @@ def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, lo
 
 
 file_path = path_en_wiki + 'enwiki-20240401-cirrussearch-content.json'
-log_path  = path_res + 'cirrussearch-content_import_en.log'
-origins = load_info_from_csv(path_res + 'results_cirrussearch.csv')
+log_path  = path_res + 'cirrussearch-content_import_en_15k.log'
+origins = load_info_from_csv(path_res + 'results_cirrussearch_15k.csv')
 process_wikipedia_dump(file_path, origins, chunk_size, log_path)

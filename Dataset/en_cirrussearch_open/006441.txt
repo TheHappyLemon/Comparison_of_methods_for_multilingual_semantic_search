@@ -1,0 +1,1 @@
+Piwigo is a free and open-source web-based photo gallery, originally written by Pierrick Le Gall. It is written in PHP and requires a MySQL database.

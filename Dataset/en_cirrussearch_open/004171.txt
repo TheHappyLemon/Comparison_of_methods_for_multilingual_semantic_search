@@ -1,0 +1,1 @@
+UTC+06:30 is an identifier for a time offset from UTC of +06:30. In ISO 8601 the associated time would be written as 2024-03-30T15:15:20+06:30. It is 6.5 hours ahead of UTC, meaning that when the time in UTC areas is midnight (00:00), the time in UTC+6:30 areas would be 6:30 in the morning.

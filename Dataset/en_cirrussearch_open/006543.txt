@@ -1,0 +1,1 @@
+.sv is the Internet country code top-level domain (ccTLD) for El Salvador. Microsoft's Internet Explorer 6 has a bug in its Swedish version where .sv is used instead of .se when typing ctrl+return for appending the suffix.[citation needed]

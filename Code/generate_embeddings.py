@@ -10,7 +10,7 @@ model = BertModel.from_pretrained('bert-base-multilingual-cased')
 
 if __name__ == '__main__':
     
-    topics = ["Medicina", "Astronomija", "zvaigzne"]
+    topics = ["Medicina", "Astronomy", "zvaigzne"]
     embeddings = get_embeddings(topics, tokenizer, model).numpy()
     dimensions = embeddings.shape[1]
 
@@ -18,9 +18,9 @@ if __name__ == '__main__':
     index.add(embeddings.astype(np.float32))
 
 
-    with open(path_res + "lv_cirrussearch\\000000.txt", 'r', encoding='utf-8') as input_text:
+    with open(path_res + "lv_cirrussearch_title\\000000.txt", 'r', encoding='utf-8') as input_text:
         texts = input_text.readlines()
-    embeddings = get_embeddings(texts, tokenizer, model, True, 512)
+    embeddings = get_embeddings(texts, tokenizer, model)
     embeddings = embeddings.numpy()
 
     k = 3

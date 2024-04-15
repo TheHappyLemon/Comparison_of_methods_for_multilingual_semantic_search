@@ -1,0 +1,1 @@
+A PHP accelerator is a PHP extension designed to improve the performance of software applications written in the PHP programming language.

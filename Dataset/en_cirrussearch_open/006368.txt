@@ -1,0 +1,1 @@
+In mathematics, the Euler function is given by ϕ(q)=∏k=1∞(1−qk),|q|<1.{\displaystyle \phi (q)=\prod _{k=1}^{\infty }(1-q^{k}),\quad |q|<1.} Named after Leonhard Euler, it is a model example of a q-series and provides the prototypical example of a relation between combinatorics and complex analysis.
