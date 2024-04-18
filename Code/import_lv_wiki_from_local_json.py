@@ -6,7 +6,7 @@ from datetime import datetime
 def flush_data(data : list, has_flushed : bool):
     # writes pages meta data to csv file
     # and then writes every page text into separate file
-    with open(path_res + 'results_cirrussearch_15k.csv', 'a', encoding="utf-8") as csvfile:
+    with open(path_res + 'results_cirrussearch_ALL.csv', 'a', encoding="utf-8") as csvfile:
         if not has_flushed:
             csvfile.write('id;file_name;lv_title;en_title;lv_link;en_link\n')
         for page in data:
@@ -26,7 +26,7 @@ def flush_data(data : list, has_flushed : bool):
         csvfile.flush()
         csvfile.close()
 
-def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = 10, log_path : str = None):
+def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = -1, log_path : str = None):
 
     processed_total = 0
     has_flushed = False
@@ -39,7 +39,7 @@ def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = 10, lo
         while True:
 
             # debugging
-            if processed_total >= max_pages:
+            if max_pages != -1 and processed_total >= max_pages:
                 break
 
             line1 = file.readline().strip()
@@ -93,6 +93,6 @@ def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = 10, lo
         log_file.write(f"Time elapsed: '{end - start}'\n")
 
 file_path = path + 'lvwiki-20240401-cirrussearch-content.json'
-log_path  = path_res + 'cirrussearch-content_import_lv_15k.log'
-max_pages = 15000
+log_path  = path_res + 'cirrussearch-content_import_lv_ALL.log'
+max_pages = -1 # ALL
 process_wikipedia_dump(file_path, chunk_size, max_pages, log_path)
