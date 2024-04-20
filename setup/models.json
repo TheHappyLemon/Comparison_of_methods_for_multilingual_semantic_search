@@ -1,0 +1,4 @@
+{
+	"Bert" : "bert-base-multilingual-cased",
+	"XLM-RoBERTa" : "xlm-roberta-base"
+}

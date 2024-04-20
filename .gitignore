@@ -2,8 +2,8 @@ constants.py
 ~$*
 neighbors.csv
 # because dumps are in xml and json format
-*.xml
-*.json
+wiki_dumps/*.xml
+wiki_dumps/*.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
