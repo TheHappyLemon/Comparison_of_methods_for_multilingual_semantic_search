@@ -1,0 +1,1 @@
+In fluid dynamics, Stokes' law is an empirical law for the frictional force – also called drag force – exerted on spherical objects with very small Reynolds numbers in a viscous fluid. It was derived by George Gabriel Stokes in 1851 by solving the Stokes flow limit for small Reynolds numbers of the Navier–Stokes equations.

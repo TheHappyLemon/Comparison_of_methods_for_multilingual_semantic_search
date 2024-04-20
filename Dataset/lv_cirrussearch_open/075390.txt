@@ -1,0 +1,1 @@
+Šis raksts ir par šaha figūru. Par monarhu skatīt rakstu Karalis. Karalis ir galvenā (bet ne spēcīgākā) figūra šaha spēlē. Sākot partiju, katram spēlētājam ir viens karalis, kurš atrodas aiz bandiniekiem uz lauciņa e1 (baltajiem) vai e8 (melnajiem). Šaha partijas mērķis ir pieteikt pretinieka karalim matu.

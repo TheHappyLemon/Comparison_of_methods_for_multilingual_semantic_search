@@ -1,0 +1,1 @@
+KNX ir standartizēts ēkas vadības sistēmas tīkla protokols. Tas ir balstīts uz OSI modeļa, un datu pārraidei var izmantot gan vadu savienojumus, gan bezvadu risinājumus. KNX standartu uztur KNX asociācija.

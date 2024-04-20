@@ -1,0 +1,1 @@
+GIGO (akronīms no angļu: Garbage in, garbage out - Atkritumi iekšā – atkritumi ārā) informātikā apzīmē datu apstrādes īpatnību, kad datorsistēmas, pēc noteikta algoritma apstrādājot kļūdainus ievaddatus, ģenerē bezjēdzīgus izvaddatus.

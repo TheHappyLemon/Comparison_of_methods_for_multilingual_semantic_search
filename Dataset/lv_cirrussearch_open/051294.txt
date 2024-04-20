@@ -1,0 +1,1 @@
+Reģistrs ir no vairākiem trigeriem sastāvoša ciparu elektroniskā shēma. Izšķir bīdes reģistru un paralēlo reģistru, kā arī ir kombinētie reģistri.

@@ -1,0 +1,1 @@
+Heartbleed ir programmatūras kļūda atvērtā pirmkoda kriptogrāfijas bibliotēkā OpenSSL, kas ļauj tās ļaunprātīgam izmantotājam nolasīt saimniekdatora atmiņu un iegūt iespējami sensitīvus datus. Pamatojoties uz audita ierakstu izpēti, tiek ziņots, ka daži uzbrucēji šo kļūdu izmantojuši vismaz piecus mēnešus pirms tās atklāšanas un izziņošanas.

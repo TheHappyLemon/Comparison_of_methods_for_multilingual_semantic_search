@@ -1,0 +1,1 @@
+Matemātikā par kompleksa skaitļa z = x + iy, kur x un y ir reāli skaitļi, kompleksi saistīto skaitli sauc x − iy un to parasti apzīmē ar z vai z*. Piemēram, 3 + 2i = 3 − 2i, 4 − i = 4 + i, i = − i un 5 = 5.

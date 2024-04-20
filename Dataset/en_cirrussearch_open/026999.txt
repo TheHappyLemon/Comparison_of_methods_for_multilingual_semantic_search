@@ -1,0 +1,1 @@
+In computer networking, specifically Internet Relay Chat (IRC), netsplit is a disconnection between two servers. A split between any two servers splits the entire network into two pieces.

@@ -1,0 +1,1 @@
+Lokālais tīkls (local area network, LAN) ir datortīkls, kas nosedz lokālu platību, piemēram, māju, biroju vai nelielu ēku grupu, teiksim, koledžu. Tīkla fizisko struktūru nosaka tā topoloģija. Ir pieņemts, ka maksimālais lokālā tīkla apjoms ir 1000 m2. Lokālie tīkli parasti ir ātrāki par teritoriālajiem tīkliem.

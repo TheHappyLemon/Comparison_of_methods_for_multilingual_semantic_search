@@ -1,0 +1,1 @@
+Vektoru analīzē funkcijas ƒ gradients ir vektors, kas orientēts pa līmeņa virsmas vai līnijas normāli un kura modulis ir vienāds ar funkcijas ƒ telpiskās maiņas ātrumu (t.i., izmaiņu uz garuma vienību) šajā virzienā. To apzīmē ar grad ƒ.

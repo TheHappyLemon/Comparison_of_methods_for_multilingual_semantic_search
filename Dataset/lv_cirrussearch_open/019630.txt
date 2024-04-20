@@ -1,0 +1,1 @@
+Telesakaros RTT (angļu: round-trip time — "turp un atpakaļ ceļa laiks") vai RTD (angļu: round-trip delay time — "turp un atpakaļ aizkaves laiks") ir laiks, kas ir nepieciešams, lai nosūtītu signālu no avota līdz mērķim, plus laiks, kas nepieciešams, lai saņemtu apstiprinājumu. Tātad kopējā laika aizkave sastāv no signāla pārsūtīšanas laikiem starp diviem mezgliem.

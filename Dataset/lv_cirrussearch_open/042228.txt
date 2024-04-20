@@ -1,0 +1,1 @@
+Matemātikā par divu vai vairāk veselu skaitļu mazāko kopīgo dalāmo sauc mazāko naturālo skaitli, kas dalās ar katru no dotajiem skaitļiem bez atlikuma. Piemēram, skaitļu 6 un 15 mazākais kopīgais dalāmais ir MKD(6, 15) = 30, jo 30 dalās gan ar 6, gan 15, bet nav neviena mazāka naturāla skaitļa, kas ar tiem abiem dalītos.

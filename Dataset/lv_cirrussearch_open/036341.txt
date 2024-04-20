@@ -1,0 +1,1 @@
+Sudoku mīklas ir daļēji aizpildīts rindu-kolonnu režģis, kas sadalīts n x n  šūnās. Tas jāaizpilda, izmantojot noteiktu kopumu N atšķirīgu simbolu (parasti skaitļi {1, ..., N}), lai katrā rindā, kolonnā un reģionā ir tieši viens simbols no elementu kopas. Mīklu bieži risina, izmantojot matemātiku.

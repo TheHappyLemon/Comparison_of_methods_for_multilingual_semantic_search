@@ -1,1 +1,1 @@
-Vārīne (vācu: Warin) ir pilsēta Vācijā, Mēklenburgā-Priekšpomerānijā uz dienvidaustrumiem no Vismāras, ezeru ielokā.
+Web Map Service jeb WMS (no angļu valodas "Tīkla karšu serviss") ir standarta protokols ģeotelpisko datu (karšu) apmaiņai internetā, ko veido izmantojot ģeogrāfiskās informācijas sistēmas (ĢIS). WMS risinājumus izmanto karšu servēšanai interneta pārlūkprogrammās, kā arī ĢIS programmās, kuras uztur WMS pieprasījumu veikšanu. Šo standartu izstrādāja un pirmo reizi nopublicēja OGC (Open Geospatial Consortium) 1999. gadā.

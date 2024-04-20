@@ -1,0 +1,1 @@
+4DOS is a command-line interpreter by JP Software, designed to replace the default command interpreter COMMAND.COM in Microsoft DOS and Windows. It was written by Rex C. Conn and Tom Rawson and first released in 1989. Compared to the default, it has a large number of enhancements. 4OS2 and 4NT are similar products that replace cmd.exe in OS/2 and Windows NT respectively.

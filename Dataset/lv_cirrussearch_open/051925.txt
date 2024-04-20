@@ -1,0 +1,1 @@
+Generative Modelling Language (GML) (Ģeneratīvā modelēšanas valoda) ir augsta līmeņa programmēšanas valoda, ar kuru var izveidot koncentrētu aprakstu sarežģītu 3D modeļu izveidošanai. Tā seko "Generative Modelling" piemēram, kur sarežģītu datu kopumu pasniedz kā darbību sarakstu, nevis kā objektu kopumu.

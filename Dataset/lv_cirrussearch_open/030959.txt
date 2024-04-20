@@ -1,0 +1,1 @@
+Spraits (angļu: sprite — 'feja; elfs') ir grafiskais objekts datorgrafikā. Visbiežāk tas ir rastra attēls, brīvi pārvietojams ekrānā. Spraita novērošana neatbilstošā leņķī ilūziju iznīcina. Citiem vārdiem sakot, vienkāršāk uztvert spraitu par kāda kustējušo objektā projekciju telpā, lai atšķirība būtu nepamanāma.

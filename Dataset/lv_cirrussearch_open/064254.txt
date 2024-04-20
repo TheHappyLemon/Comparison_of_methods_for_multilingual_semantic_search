@@ -1,0 +1,1 @@
+Semantiskā integrācija ir process, kurā tiek salīdzināti divi vai vairāki modeļi, un tajos esošie semantiski saistītie jēdzieni tiek saskaņoti, tos savstarpēji kartējot. Tā funkcija ir savienot neviendabīgus datu avotus un organizēt tajos esošo informāciju, vienlaikus novēršot konfliktus, kas var rasties dažādu struktūru, kā arī semantiskā konteksta vai nozīmes pretrunu dēļ.

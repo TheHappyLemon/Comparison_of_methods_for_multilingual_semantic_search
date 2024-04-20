@@ -1,0 +1,1 @@
+Saimniekdatora nosaukums jeb resursdatora nosaukums (angļu: Host name) ir unikāls vārdisks nosaukums, pēc kā var viennozīmīgi identificēt konkrētu datoru vai citu iekārtu (piemēram, printeri vai modemu) tīklā. Internetā resursdatoru nosaukumus lieto kopā ar domēnu nosaukumu sistēmu, kur ar to saprot pilnā domēna vārda kreiso daļu līdz pirmajam punktam.

@@ -1,1 +1,1 @@
-DUAL tabula ir speciāla vienas rindas tabula, kas pieejama pēc noklusējuma visās Oracle datubāzēs. Tā ir noderīga tādu pseidokolonnu datu atlasīšanai kā piemēram - SYSDATE vai USER. Tabulai ir viena kolonna ar datu tipu VARCHAR2(1), nosaukumu DUMMY, kuras vērtība ir X.
+Pāvila vēstules ir trīspadsmit vēstules, kas atrodamas Jaunajā Derībā un par to autoru uzskata Svēto Pāvilu. Zemāk norādītajā uzskaitījumā viņa vēstules ir uzskatītas pēc to secības Jaunajā Derībā.

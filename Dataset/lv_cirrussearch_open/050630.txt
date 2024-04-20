@@ -1,0 +1,1 @@
+Reaktīvā pretestība ir pretestība, kuru maiņstrāvai rada elektriskā kapacitāte vai induktivitāte. Atšķirībā no aktīvās (rezistīvās) pretestības, tā nepatērē enerģiju. Reaktīvā pretestība uzkrāj enerģiju, kuru vēlāk atdod atpakaļ ķēdē, tāpēc elektrisko ķēžu aprēķinos reaktīvo pretestību atspoguļo kā kompleksās pretestības imagināro (šķietamo) daļu.

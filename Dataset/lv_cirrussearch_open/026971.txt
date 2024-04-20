@@ -1,0 +1,1 @@
+Tiltmaršrutētājs (angļu: Bridge router, B-router) ir funkcionāls bloks, kas apvieno tilta un maršrutētāja funkcijas. Tiltmaršrutētājs darbojas kā maršrutētājs apstrādājot zināmu protokolu paketes, bet visas pārējās vienkārši pārsūta tālāk, kā to darītu tilti.

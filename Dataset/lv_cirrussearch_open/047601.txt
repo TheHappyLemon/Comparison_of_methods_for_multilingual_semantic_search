@@ -1,0 +1,1 @@
+Monoms ir skaitļu, mainīgo un/vai mainīgo pakāpju reizinājums. Monomu var definēt arī kā polinomu, kas sastāv tikai no viena saskaitāmā. Piemēram funkcija   f ( x ) = 2 x 3 {\displaystyle \ f(x)=2x^{3}} ir vienargumenta monoms, bet   f ( x , y ) = 3 x 2 y 3 {\displaystyle \ f(x,y)=3x^{2}y^{3}} - divargumentu monoms.

@@ -1,0 +1,1 @@
+AWK ir programmēšanas valoda, kas nosaukta tās autoru iniciāļu vārdos. Tās autori ir Alfreds Aho, Pīters Veinbergers un Braiens Kernigens. Šī programmēšanas valoda ir paredzēta teksta apstrādei. Awk špikeris

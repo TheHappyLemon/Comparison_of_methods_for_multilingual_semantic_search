@@ -1,0 +1,1 @@
+qBittorrent ir vairākplatformu BitTorrent klients, kas ir licencēts ar GNU GPL 2. versiju. qBittorrent izmantotā programmēšanas valoda ir C++, ar Boost, Qt ietvariem, bet tajā iekļautajam pārlūkam programmēšanas valoda ir Python.

@@ -1,1 +1,1 @@
-Adaptive Server Enterprise ir datu bāzu pārvaldības sistēma uzņēmumiem un organizācijām.
+SQL Anywhere ir uzņēmuma SAP relāciju datubāzes pārvaldības sistēma. Šo produktu izstrādāja uzņēmums Sybase, ko 2010. gadā nopirka SAP .

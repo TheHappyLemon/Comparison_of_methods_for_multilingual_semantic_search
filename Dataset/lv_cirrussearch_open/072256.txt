@@ -1,0 +1,1 @@
+Decimālā skaitīšanas sistēma - pozicionāla skaitļu pieraksta sistēma ar bāzi 10. Tajā lieto desmit simbolus; tie ir cipari 0, 1, 2, 3, 4, 5, 6, 7, 8 un 9.

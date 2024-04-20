@@ -1,0 +1,1 @@
+Objektu nosaukumu serviss (ONS) ir mehānisms, kas izmanto Domēnu nosaukumu sistēmu (DNS), lai no Elektroniskā produkta koda (EPC) atrastu informāciju par produktu un ar to saistītiem pakalpojumiem. Tā ir EPC globālā tīkla sastāvdaļa .

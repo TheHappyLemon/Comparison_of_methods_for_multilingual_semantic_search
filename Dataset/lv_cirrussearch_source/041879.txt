@@ -1,0 +1,1 @@
+Failu sistēmas hierarhijas standarts (angļu: Filesystem Hierarchy Standard (FHS)) definē direktoriju struktūru un to saturu dažādos Linux distributīvos. Unix failu sistēma «FilesystemHierarchyStandard - Debian Wiki». wiki.debian.org (angļu). Skatīts: 2016-07-06.

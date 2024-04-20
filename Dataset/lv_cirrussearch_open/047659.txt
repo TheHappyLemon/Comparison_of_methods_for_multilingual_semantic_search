@@ -1,0 +1,1 @@
+Trigonometriska funkcija ir jebkura no funkcijām sin x, cos x, tg x, ctg x, sec x un cosec x, kur arguments x ir leņķis. Raksturīga šo funkciju īpašība ir to periodiskums. Ne katra periodiska funkcija, kuras arguments ir leņķis, ir trigonometriska funkcija. Piemēram, funkcija esin⁡x+cos⁡x{\displaystyle e^{\sin x}+\cos x} nav trigonometriska funkcija.

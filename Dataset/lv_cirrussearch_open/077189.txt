@@ -1,0 +1,1 @@
+Matemātikā skalārais reizinājums ir bināra operācija, kas diviem vektoriem piekārto skalāru lielumu jeb skaitli, kas raksturo doto vektoru garumu un leņķi starp tiem, un nav atkarīgs no koordinātu sistēmas, kurā vektori uzdoti.

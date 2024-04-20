@@ -1,0 +1,1 @@
+ARCNET ir pievienotais resursu datoru tīkls, kas ir komunikāciju protokols lokālajiem tīkliem. ARCNET bija pirmā plaši pieejamā tīkla sistēma mikrodatoriem. Tas kļuva populārs 1980. gados biroja automatizācijas uzdevumu veikšanai. Vēlāk ARCNET tika piemērots iegultām sistēmām, kur noteiktas protokola funkcijas ir īpaši noderīgas.

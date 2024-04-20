@@ -1,0 +1,1 @@
+Matemātikā par naturāla skaitļa n ≥ 1 faktoriālu sauc visu naturālo skaitļu no 1 līdz n reizinājumu. To apzīmē ar n!. Piemēram, 3! = 1 · 2 · 3 = 6, 4! = 1 · 2 · 3 · 4 = 24 utt. Apzīmējumu n! ieviesis franču matemātiķis K. Kramps 1808. gadā.

@@ -1,0 +1,1 @@
+Generic Routing Encasulation (GRE) ir tunelēšanas protokols, kuru izstrādāja Cisco Systems. Tā galvenais mērķis ir OSI modeļa tīkla slāņa protokolu iekapsulēšana Interneta protokola (IP) paketē. GRE ir savs IP numurs - 47. Iekapsulēšanas procesā piedalās trīs protokoli: Iekapsulējamais protokols Iekapsulēšanas protokols (GRE) Transporta protokols IP

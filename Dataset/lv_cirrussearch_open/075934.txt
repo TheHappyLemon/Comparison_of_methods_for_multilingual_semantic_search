@@ -1,0 +1,1 @@
+phpBB ir populāra bezmaksas atvērtā pirmkoda interneta diskusiju organizācijas sistēma, kas izmanto PHP programmēšanas valodu un atbalsta daudzas datubāzu pārvaldības sistēmas, tai skaitā MySQL, PostgreSQL, MSSQL, Microsoft Access un arī Oracle.

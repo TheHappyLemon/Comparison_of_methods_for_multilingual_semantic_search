@@ -1,0 +1,1 @@
+Krustiņi un nullītes (sarunvalodā desas) ir vienkārša spēle, kuru spēlē 2 cilvēki. Spēlētāju mērķis: būt pirmajam, kurš uzzīmē trīs krustiņus (X) vai nullītes (O) vienā rindā vai kolonā vai diagonālā līnijā no viena stūra līdz otram stūrim.

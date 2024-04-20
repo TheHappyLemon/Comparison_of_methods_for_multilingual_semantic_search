@@ -1,0 +1,1 @@
+NURBS ir matemātisks modelis, kas lielākoties tiek lietots datorgrafikā, lai radītu un attēlotu līknes vai izliektas virsmas.

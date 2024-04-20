@@ -1,0 +1,1 @@
+Minimālais pāris fonētikā ir vārdu pāris, kurā atšķiras tikai viens segments vienā un tajā pašā pozīcijā, pārējiem segmentiem paliekot nemainīgiem.

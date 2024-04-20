@@ -1,0 +1,1 @@
+Multisample anti-aliasing (MSAA) is a type of spatial anti-aliasing, a technique used in computer graphics to remove jaggies.

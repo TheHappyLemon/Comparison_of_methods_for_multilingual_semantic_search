@@ -1,0 +1,1 @@
+Akcija (S) ir skalārs fizikāls lielums, kas raksturo fizikālas sistēmas stāvokļa maiņu. S = E ⋅ t S ir akcija (J ⋅ s), E ir procesa enerģija (J), t ir laiks (s)

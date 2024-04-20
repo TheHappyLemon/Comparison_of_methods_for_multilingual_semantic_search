@@ -1,0 +1,1 @@
+Juris Hartmanis (July 5, 1928 – July 29, 2022) was a Latvian-born American computer scientist and computational theorist who, with Richard E. Stearns, received the 1993 ACM Turing Award "in recognition of their seminal paper which established the foundations for the field of computational complexity theory".

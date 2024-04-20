@@ -1,0 +1,1 @@
+Deviņstūris - daudzstūris ar deviņām malām. Deviņstūra leņķu summa ir 1260°. Tam ir 27 diagonāles. Katrs regulāra deviņstūra leņķis ir 140° liels. Laukums S = 9 4 a 2 cot ⁡ π 9 {\displaystyle S={\frac {9}{4}}a^{2}\cot {\frac {\pi }{9}}} ≈ 6.18182 a 2 {\displaystyle \approx 6.18182a^{2}} , kur a - regulāra deviņstūra malas garums Perimetrs P = 9 a {\displaystyle P=9a}

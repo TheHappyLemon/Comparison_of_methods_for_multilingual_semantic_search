@@ -1,0 +1,1 @@
+Mer was a free and open-source software distribution, targeted at hardware vendors to serve as a middleware for Linux kernel-based mobile-oriented operating systems. It is a fork of MeeGo.

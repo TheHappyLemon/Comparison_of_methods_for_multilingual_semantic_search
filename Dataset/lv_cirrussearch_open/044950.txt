@@ -1,0 +1,1 @@
+Belmana—Forda algoritms ir algoritms īsākā ceļa meklēšanai starp doto un pārējām virsotnēm svērtos grafos. Atšķirībā no Deikstras algoritma Belmana—Forda algoritms pieļauj negatīvus šķautņu svarus, bet ir lēnāks, tāpēc parasti tiek izmantots, ja grafā ir šķautnes ar negatīviem svariem.

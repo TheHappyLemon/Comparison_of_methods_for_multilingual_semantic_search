@@ -1,0 +1,1 @@
+Maršrutēšanas protokols ir protokols, kas nosaka kā maršrutētāji savstarpēji apmainās ar informāciju par tīkliem, kas ļauj tiem izvēlēties maršrutu starp jebkuriem diviem mezgliem tīklā. Maršrutēšanas protokoli darbojas OSI modeļa trešajā — tīkla slānī.

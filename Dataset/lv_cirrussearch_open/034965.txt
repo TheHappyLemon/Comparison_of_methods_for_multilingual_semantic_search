@@ -1,0 +1,1 @@
+IEEE 802.11 ir bezvadu datortīklu standartu kopa. Šie standarti definē fizisko un kanāla slāni. Šos standartus parasti atšķir pēc fiziskā slāņa definīcijas. Wi-Fi ir Wi-Fi aliansei piederošs zīmols, kuru lieto lai sertificētu dažādu ražotāju ierīču savstarpējo savietojamību. Wi-Fi standarti pilnībā nepārklājas ar 802.11 standartiem (bet lielākoties ir bāzētu uz tiem).

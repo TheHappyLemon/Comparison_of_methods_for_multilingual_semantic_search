@@ -1,0 +1,1 @@
+Septamino jeb 7-mino ir polimino, kurš sastāv no septiņiem vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv 108 unikāli septamino. Saskaitot visas iespējamās pozīcijas iegūst 760 septamino pozīcijas.

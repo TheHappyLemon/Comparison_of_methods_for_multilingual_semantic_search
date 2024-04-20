@@ -1,0 +1,1 @@
+Cloth modeling is the term used for simulating cloth within a computer program, usually in the context of 3D computer graphics. The main approaches used for this may be classified into three basic types: geometric, physical, and particle/energy.

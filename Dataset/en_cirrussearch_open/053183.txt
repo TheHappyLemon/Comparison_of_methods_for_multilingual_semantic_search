@@ -1,0 +1,1 @@
+Attached Resource Computer NETwork (ARCNET or ARCnet) is a communications protocol for local area networks. ARCNET was the first widely available networking system for microcomputers; it became popular in the 1980s for office automation tasks. It was later applied to embedded systems where certain features of the protocol are especially useful.

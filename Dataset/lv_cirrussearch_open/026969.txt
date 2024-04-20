@@ -1,0 +1,1 @@
+Reversā DNS uzmeklēšana (angļu: Reverse DNS lookup) jeb rDNS ir domēnu nosaukumu sistēmas pieprasījums, ar kura palīdzību noskaidro noteiktai IP adresei vai jebkādai citai tīkla adresei atbilstošo saimniekdatora nosaukumu.

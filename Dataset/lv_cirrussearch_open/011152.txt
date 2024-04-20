@@ -1,1 +1,1 @@
-1298. gads (MCCXCVIII) bija parastais gads, kas pēc Jūlija kalendāra sākās trešdienā.
+SQLite ir maza izmēra iegultā relāciju datubāzu pārvaldības sistēma. Datubāzes bibliotēkas pirmkods ir publiskots. 2005.gadā projekts saņēma Google-O'Reilly Open Source Awards balvu.

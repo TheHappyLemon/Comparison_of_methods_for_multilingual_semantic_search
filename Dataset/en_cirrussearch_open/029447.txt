@@ -1,0 +1,1 @@
+Out of Phase Stereo (OOPS) is an audio technique which manipulates the phase of a stereo audio track, to isolate or remove certain components of the stereo mix. It works on the principle of phase cancellation, in which two identical but inverted waveforms summed together will "cancel the other out".

@@ -1,0 +1,1 @@
+RSS ir XML tīmekļa sindikācijas failu formātu saime, ko plaši izmanto ziņu tīmekļa vietnes un tīmekļa žurnāli. Ar šo terminu apzīmē trīs standartus: Rich Site Summary (RSS 0.9x), Really Simple Syndication (RSS 2.0), RDF Site Summary (RSS 0.9 un 1.0)

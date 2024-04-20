@@ -1,0 +1,1 @@
+In magnetostatics, the force of attraction or repulsion between two current-carrying wires (see first figure below) is often called Ampère's force law. The physical origin of this force is that each wire generates a magnetic field, following the Biot–Savart law, and the other wire experiences a magnetic force as a consequence, following the Lorentz force law.

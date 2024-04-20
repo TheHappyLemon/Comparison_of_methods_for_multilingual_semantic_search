@@ -1,0 +1,1 @@
+Konvencija par personu ar invaliditāti tiesībām

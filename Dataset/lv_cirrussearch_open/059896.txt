@@ -1,0 +1,1 @@
+Dekamino jeb 10-mino ir polimino, kurš sastāv no desmit vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv 4655 unikāli dekamino. Ar rotācijām un spoguļattēliem, kopā pastāv 36446 dekamino pozīcijas.

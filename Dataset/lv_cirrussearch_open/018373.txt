@@ -1,0 +1,1 @@
+Sailfish (no angļu — 'buruzivs') ir uz Linux bāzēta operētājsistēma, kas paredzēta mobilajām ierīcēm. To izstrādā Somijas uzņēmums Jolla. Sailfish OS tika veidota uz Mer pamata, kas attīstījies no Linux bāzēta programmatūras distributīva MeeGo. Sailfish izmanto Qt programmatūras ietvaru. Android lietojumprogrammas var darboties uz Sailfish ierīcēm.

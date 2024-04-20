@@ -1,0 +1,1 @@
+Noklusējuma vārteja (angļu: Default gateway) ir maršrutētājs, uz kuru pārsūta visu to datplūsmu, kas nav adresēta nevienai lokālā tīkla iekārtai. Tādējādi, tā tiek izmantota, lai no viena datortīkla piekļūtu citam datortīklam, piemēram, no lokālā tīkla lietotu Internetu.

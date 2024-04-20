@@ -1,0 +1,1 @@
+Pats ir šaha partijas beigu pozīcija, kurā spēlētājs, kam ir gājiena tiesības, nespēj tās izmantot, jo visas viņa figūras nevar izdarīt šaha noteikumiem atbilstošu gājienu un karalim nav pieteikts šahs. Pata gadījumā partija tiek atzīta par beigušos neizšķirti.

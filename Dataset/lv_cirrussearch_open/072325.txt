@@ -1,0 +1,1 @@
+SQL Insert teikums nodrošina iespēju datu bāzes tabulām pievienot ierakstus. Tam ir divi pamatveidi - pievienot tieši vienu ierakstu un pievienot (kopēt) ierakstus izmantojot apakšvaicājumu. Pēdējā variantā tiek pievienoti tieši tik ieraksti, cik atgriež apakšvaicājums, iespējams nulle (0), viens (1) vai daudzi.

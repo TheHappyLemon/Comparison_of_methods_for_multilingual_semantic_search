@@ -1,0 +1,1 @@
+In finance, volatility (usually denoted by "σ") is the degree of variation of a trading price series over time, usually measured by the standard deviation of logarithmic returns. Historic volatility measures a time series of past market prices. Implied volatility looks forward in time, being derived from the market price of a market-traded derivative (in particular, an option).

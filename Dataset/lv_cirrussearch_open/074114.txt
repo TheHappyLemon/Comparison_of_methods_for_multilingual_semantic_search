@@ -1,0 +1,1 @@
+Trajektorija ir līnija plaknē vai telpā, pa kuru pārvietojas fizikāls ķermenis, precīzāk, materiāls punkts. Trajektorija ir visu punktu apvienojums, kur kādā laika momentā ir pabijis ķermenis. Attēlojot secīgi šos punktus uz papīra lapas var iegūt līniju, kura parāda to, kāda izskatās konkrētā trajektorija.

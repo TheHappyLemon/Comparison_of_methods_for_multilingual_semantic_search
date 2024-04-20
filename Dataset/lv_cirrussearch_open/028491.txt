@@ -1,0 +1,1 @@
+Datorikā kursors ir indikators, ko izmanto, lai norādītu uz pozīciju monitorā vai citā displejā, kas atbilst ievadei no tastatūras vai rādītājierīces. Par kursoru tiek saukti dažādi atšķirīgi grafiskie elementi; tas var būt mirgojošs teksta kursors vai arī peles rādītājs, kam parasti ir bultiņas forma.

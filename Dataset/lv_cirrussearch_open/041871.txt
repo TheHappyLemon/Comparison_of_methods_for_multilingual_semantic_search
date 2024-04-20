@@ -1,0 +1,1 @@
+OpenTimestamps ir decentralizēta laikzīmogošanas infrastruktūra, kas paļaujas uz Bitcoin blokķēdi. Tā ļauj pierādīt jebkādu dokumentu vai citu cipardatu eksistenci pirms noteikta datuma un laika. Parasti tas notiek, izmantojot kalendāra serverus, kas ļauj grupēt neierobežotu skaitu pierādījumu vienā ierakstā (Bitcoin transakcijā), izmantojot Merkles koku.

@@ -1,0 +1,1 @@
+Mezgls telesakaru tīklos posms ir vai nu pārdales punkts, vai sakaru galapunkts. Mezgla definīcija ir atkarīga no tīkla un protokola slāņa. Fizisks tīkla mezgls ir aktīva elektroniska ierīce, kas ir pievienota tīklam un spēj izveidot, uztvert vai pārraidīt informāciju pa sakaru kanālu.

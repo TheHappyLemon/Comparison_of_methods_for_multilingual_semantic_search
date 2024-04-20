@@ -1,0 +1,1 @@
+Lineāra funkcija ir funkcija, kuras veids ir y = a x + b {\displaystyle y=ax+b\,} . Šeit x ir funkcijas arguments, y ir funkcijas vērtība, bet a un b ir reāli skaitļi. Dekarta koordinātu sistēmā lineāras funkcijas grafiks ir taisne. Lineāra interpolācija Lineārs vienādojums

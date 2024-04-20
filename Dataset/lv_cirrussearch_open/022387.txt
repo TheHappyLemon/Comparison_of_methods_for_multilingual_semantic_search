@@ -1,0 +1,1 @@
+Buferis (no angļu: buffer) informātikā un telesakaros ir atmiņas apgabals datu glabāšanai. Atkarībā no risināmā uzdevuma, buferim var būt atšķirīga struktūra. Visbiežāk buferis datus glabā brīvpiekļuves atmiņā.

@@ -1,0 +1,1 @@
+Tornis ir figūra šaha spēlē. Uzsākot partiju katram spēlētājam ir pa diviem torņiem, kas atrodas aiz bandiniekiem šaha galdiņa stūros. Torni un dāmu sauc par smagajām figūrām.

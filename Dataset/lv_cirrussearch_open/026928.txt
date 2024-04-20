@@ -1,0 +1,1 @@
+RISC (no angļu: Reduced Instruction Set Computer - "samazinātas instrukciju kopas dators" jeb Reduced Instruction Set Computing) ir centrālā procesora izveides filozofija, kuras pamatā ir samazināts instrukciju skaits, un šo instrukciju izpildes laiks ir īss. 1980. gadā kompānija IBM izstrādāja pirmo RISC arhitektūras minidatoru IBM801.

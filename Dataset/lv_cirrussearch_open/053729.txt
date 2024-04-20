@@ -1,0 +1,1 @@
+Kvadrātvienādojums ir otrās pakāpes vienādojums, kura vispārīgais veids ir a x 2 + b x + c = 0 , {\displaystyle ax^{2}+bx+c=0,\,} kur x {\displaystyle x} ir nezināmais un a {\displaystyle a} ≠ 0. Izteiksmi a x 2 + b x + c {\displaystyle ax^{2}+bx+c} sauc par kvadrāttrinomu. No algebras pamatteorēmas seko, ka kvadrātvienādojumam ir tieši divas saknes (šīs saknes var būt vienādas).

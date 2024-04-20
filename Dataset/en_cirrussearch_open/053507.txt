@@ -1,0 +1,1 @@
+David Albert Huffman (August 9, 1925 – October 7, 1999) was an American pioneer in computer science, known for his Huffman coding. He was also one of the pioneers in the field of mathematical origami.

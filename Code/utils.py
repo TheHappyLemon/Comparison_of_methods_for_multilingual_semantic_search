@@ -15,7 +15,14 @@ def flush_embeddings(embeddings_list : list, group_name : str, cur_batch : int, 
         for i in range(len(embeddings_list)):
             embeddings_vector = embeddings_list[i]
             file[group_name][cur_batch + i + batch_offset] = embeddings_vector
-            
+
+def get_embedding(text, tokenizer, model):
+    encoded_input = tokenizer(text, padding='max_length', truncation=True, return_tensors="pt")
+    with torch.no_grad():
+        model_output = model(**encoded_input)
+    embedding = cls_pooling(model_output).numpy()
+    return embedding
+
 def generate_embeddings(text_list, tokenizer, model, file_name : str, batch_size=10, log_file = None, batch_offset : int = 0):
     
     # calls tokenizer associated with provided model
@@ -34,7 +41,7 @@ def generate_embeddings(text_list, tokenizer, model, file_name : str, batch_size
         with torch.no_grad():
             model_output = model(**encoded_input)
         embeddings = cls_pooling(model_output).numpy()
-
+    
         flush_embeddings(embeddings, file_name, i, len(text_list), embeddings.shape[1], batch_offset)
         if log_file != None:
             log_file.write(f"Flushed '{len(batch_texts)}' texts embeddings\n")

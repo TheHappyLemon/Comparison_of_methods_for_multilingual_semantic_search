@@ -1,0 +1,1 @@
+Symbian OS bija aizvērtā pirmkoda viedtālruņu operētājsistēma uz ARM procesora arhitektūras bāzētām mobilajām ierīcēm. To sākotneji izstrādāja Symbian LTD. C++ programmēšanas valodā. Operētājsistēmas izstrāde tika pārtraukta 2013. gada 24. janvārī.

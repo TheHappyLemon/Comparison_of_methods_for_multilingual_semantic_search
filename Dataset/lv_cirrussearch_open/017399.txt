@@ -1,0 +1,1 @@
+Euler ir programmēšanas valoda, kuru radīja Niklauss Virts un Helmuts Vēbers, veidojot to kā ALGOL 60 paplašinājumu un vispārinājumu. Izstrādātāju mērķis bija radīt valodu, kura būtu: vienkāršāka, bet elastīgaka kā ALGOL 60; noderīga programmēšanas valoda ar saprātīgu efektivitāti; definējama ar formālu precizitāti.

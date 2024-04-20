@@ -1,0 +1,1 @@
+SPARQL (rekursīvs saīsinājums no SPARQL Protocol and RDF Query Language, tulkojumā no angļu valodas: SPARQL protokola un RDF vaicājumu valoda) ir RDF vaicājumu valoda.

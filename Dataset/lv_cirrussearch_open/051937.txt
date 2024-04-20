@@ -1,0 +1,1 @@
+GDL (angļu: Geometric Description Language — 'ģeometriskā apraksta valoda') ir programmēšanas valoda ArchiCAD bibliotēkas objektiem. GSM ir šo objektu formāts.

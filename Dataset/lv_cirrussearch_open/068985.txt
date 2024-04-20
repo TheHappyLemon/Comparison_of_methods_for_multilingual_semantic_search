@@ -1,0 +1,1 @@
+Gadījuma lielums ir skaitliska vērtība, kuru piešķir katram gadījuma notikumam. Varbūtību teorijas uzdevums ir noteikt gadījuma lieluma iespējamās vērtības un to varbūtības vēl nenotikušiem izmēģinājumiem, izmantojot jau notikušu mēģinājumu rezultātus. Gadījuma lielumu apzīmē ar tā vērtību vai vispārīgāk ar X.

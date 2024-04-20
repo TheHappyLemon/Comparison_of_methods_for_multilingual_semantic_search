@@ -1,0 +1,1 @@
+Automātu teorijā galīgs determinēts automāts jeb akceptors ir galīgs automāts, kura katram stāvoklim ir tieši viena pāreja katram ieejas simbolam. Galīga determinēta automāta atpazīto valodu kopa precīzi sakrīt ar visu regulāro valodu kopu.

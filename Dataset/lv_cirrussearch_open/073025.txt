@@ -1,0 +1,1 @@
+Dinistors ir tiristora veids, kam nav vadības elektroda. Dinistorus dēvē arī par diodtiristoriem. Tāpat kā tiristors, dinistors var atrasties atvērtā (strāvu vadošā) un aizvērtā (nevadošā) stāvoklī, taču pārslēgšanās starp stāvokļiem notiek, palielinot (samazinot) pielikto spriegumu starp anodu un katodu.

@@ -1,0 +1,1 @@
+Euler is a programming language created by Niklaus Wirth and Helmut Weber, conceived as an extension and generalization of ALGOL 60. The designers' goals were to create a language that is: Simpler, yet more flexible, than ALGOL 60 Useful and processed with reasonable efficiency Definable with rigorous formality Available sources indicate that Euler was operational by 1965.

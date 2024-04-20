@@ -1,0 +1,1 @@
+Sekstamino jeb 6-mino ir polimino, kurš sastāv no sešiem vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv 35 unikāli sekstamino. Ar rotācijām un spoguļattēliem, kopā pastāv 216 sekstamino pozīcijas.

@@ -1,1 +1,1 @@
-.gi is the country code top-level domain (ccTLD) for Gibraltar, a British Overseas Territory.
+.fk is the country code top-level domain (ccTLD) for the Falkland Islands. Registrants must be Falkland Islands residents. Only registrations at third levels are possible under these second-level sub-domains: .co.fk – for commercial organizations .org.fk – for non-commercial organizations .gov.fk – for government organizations .ac.fk – for academic organizations .nom.fk – for private individuals .net.fk – for ISP and similar network organizations

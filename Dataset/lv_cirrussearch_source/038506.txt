@@ -1,0 +1,1 @@
+Kilobaits ir informācijas daudzuma mērvienība, kas, atkarībā no konteksta, atbilst 1000 vai 1024 baitiem. To saīsināti apzīmē ar kB. Kibibaits

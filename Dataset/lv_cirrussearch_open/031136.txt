@@ -1,0 +1,1 @@
+Tīmekļa serveris ir serveris, kuru var attiecināt uz divām lietām: dators, kurš ir atbildīgs par tīmekļa lappušu, pamatā HTML dokumentu, pasniegšanu klientiem, pamatā tīmekļa pārlūkprogrammām, caur HTTP protokolu; datorprogramma, kura darbojas, kā dēmons tīmekļa dokumentu pasniegšanai. Ikkatrs tīmekļa serveris (pirmajā nozīmē) darbina tīmekļa servera programmatūru (otrā nozīme).

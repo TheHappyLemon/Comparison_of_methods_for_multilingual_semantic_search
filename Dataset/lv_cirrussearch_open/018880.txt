@@ -1,0 +1,1 @@
+COBOL (saīsinājums no COmmon Business Oriented Language) ir programmēšanas valoda ar attīstītu failu un ierakstu apstrādi, kas paredzēta ekonomiska rakstura problēmu risināšanai. Tā ir viena no vecākajām programmēšanas valodām, galvenā izstrādātāja bija Greisa Hopere. Jaunākais valodas standarts COBOL 2002 ietver objektorientētas programmēšanas un citas modernu valodu iespējas.

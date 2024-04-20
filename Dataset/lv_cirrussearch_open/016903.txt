@@ -1,0 +1,1 @@
+Materiāla elastības robeža raksturo deformācijas līknes punktu, kurā beidzas materiāla elastīgā deformācija un sākas plastiskā deformācija. Tātad, ja materiālu slogo ar spēku, kuru skaitliskā vērtība ir mazāka par elastības robežu, tad materiāls pēc slodzes izbeigšanas pilnībā atgūst savu sākotnējo formu.

@@ -1,0 +1,1 @@
+qBittorrent is a cross-platform free and open-source BitTorrent client written in native C++. It relies on Boost, OpenSSL, zlib, Qt 6 toolkit and the libtorrent-rasterbar library (for the torrent back-end), with an optional search engine written in Python.

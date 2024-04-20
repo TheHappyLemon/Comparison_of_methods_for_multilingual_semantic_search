@@ -1,0 +1,1 @@
+Generative Modelling Language (GML) in computer graphics and generative computer programming is a very simple programming language for the concise description of complex 3D shapes. It follows the "Generative Modelling" paradigm, where complex datasets are represented by "lists of operations" rather than by lists of objects, which is for instance the case in a relational database.

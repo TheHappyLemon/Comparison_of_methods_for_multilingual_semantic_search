@@ -1,0 +1,1 @@
+Bikvadrātvienādojums ir 4. pakāpes vienādojums, kura vispārīgais veids ir a x 4 + b x 2 + c = 0 {\displaystyle ax^{4}+bx^{2}+c=0} , kur a {\displaystyle a} ≠ 0. Vispārīgā gadījumā tam ir četras saknes. Vienādojumu risina veicot substitūciju y = x 2 {\displaystyle y=x^{2}} tādējādi iegūstot kvadrātvienādojumu a y 2 + b y + c = 0 {\displaystyle ay^{2}+by+c=0} .

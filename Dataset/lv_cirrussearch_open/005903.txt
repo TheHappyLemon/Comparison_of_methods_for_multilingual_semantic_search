@@ -1,1 +1,1 @@
-Par atslēgu sauc speciāli iezīmētu datu lauku tabulā. Atslēgas vērtība ir lauka dati. Datu bāzēs atslēgas tiek izmantotas lai tabulās būtu iespējams identificēt atsevišķus ierakstus, veikt datu filtrēšanu, veidot savstarpējas saiknes starp tabulām un nodrošinātu normālu datubāzu darbību. Pastāv divu veidu atslēgas - primārās atslēgas un ārējās atslēgas.
+1421. gads (MCDXXI) bija parastais gads, kas pēc Jūlija kalendāra sākās trešdienā.

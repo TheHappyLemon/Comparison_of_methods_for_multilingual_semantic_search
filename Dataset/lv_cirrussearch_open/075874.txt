@@ -1,0 +1,1 @@
+Sfēras vispārinājumu n > 3 dimensijās sauc par hipersfēru, taču bieži vien to sauc arī vienkārši par sfēru. Tāpat kā trīs dimensijās, arī n dimensijās (jebkuram n ≥ 1) sfēra ir visu to punktu kopa, kas atrodas vienā un tajā pašā attālumā no sfēras centra. Šo attālumu sauc par sfēras rādiusu un parasti apzīmē ar r.

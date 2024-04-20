@@ -1,0 +1,1 @@
+Iekavas ir divpusēja pieturzīme vai matemātiska zīme. Iekavām ir 5 veidi: kvadrātiekavas [] , apaļās iekavas () , figūriekavas {} , pusiekavas) , slīpās iekavas // . Starp iekavām, kvadrātiekavām un tajās ietverto tekstu nav atstarpes. Starp pusiekavu un iepriekšējo burtu vai ciparu nav atstarpes.

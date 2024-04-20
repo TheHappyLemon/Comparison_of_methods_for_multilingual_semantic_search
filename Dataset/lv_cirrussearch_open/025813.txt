@@ -1,0 +1,1 @@
+ICMP (angļu: Internet Control Message Protocol - "interneta vadības ziņojumu protokols") - tīkla slāņa protokols, kas ietilpst TCP/IP stekā. Šo protokolu izmanto, lai informētu par kļūdām un citiem gadījumiem, kas radušies datu pārraides laikā. Tāpat ICMP izmanto, lai sūtītu testu paketes un citus informatīvos ziņojumus.

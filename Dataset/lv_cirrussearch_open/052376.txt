@@ -1,0 +1,1 @@
+Elektronu mākonis ir modelis, kurš apraksta elektronu kustību apkārt atoma kodolam. Elektronu mākoņa modelis atšķirībā no slavenā dāņu fiziķa Nilsa Bora sākotnēji piedāvātā atoma modeļa atšķiras ar to, ka Bora variantā elektroni riņķo apkārt atoma kodolam pa noteiktām trajektorijām. Savukārt elektronu mākoņa modelī nav zināma elektronu atrašanās vieta un to kustības trajektorija.

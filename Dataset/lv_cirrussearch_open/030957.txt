@@ -1,0 +1,1 @@
+Figūru modelēšana ir tehnika 3D modelēšanā, kur primitīva figūra (četrstūris, cilindrs, lode, u.c.) tiek izmantota, lai izveidotu pamata formu gala modelim. Pamata forma tiek izgrebta, lai veidotu gala modeli. Šis process izmanto vairākus atkārtojošus soļus, lai sasniegtu gala produktu, kas var novest pie efektīvākas un vairāk kontrolējama modelēšanas procesa.

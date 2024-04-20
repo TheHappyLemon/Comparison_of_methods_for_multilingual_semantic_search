@@ -1,0 +1,1 @@
+SQL kontekstā, datu definēšanas jeb datu aprakstīšanas valoda (DDL) ir sintakse datu bāzes objektu, piemēram, tabulu, indeksu un lietotāju izveidei un modificēšanai. DDL vaicājumi ir līdzīgi datorprogrammēšanas valodai, kas definē datu struktūru, īpaši datubāzu shēmu. Visbiežāk lietotie DDL vaicājumu piemēri ir CREATE, ALTER un DROP.

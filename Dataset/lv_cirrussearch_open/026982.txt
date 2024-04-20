@@ -1,0 +1,1 @@
+Kriptogrāfijā atslēgu izplatīšanas centrs (angļu: Key distribution center) jeb pakalpojums KDC ir kriptogrāfiskas sistēmas daļa, kuras mērķis ir mazināt atslēgu un koplietojamo noslēpumu apmaiņas riskus.

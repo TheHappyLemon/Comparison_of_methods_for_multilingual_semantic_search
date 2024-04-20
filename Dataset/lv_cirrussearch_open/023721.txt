@@ -1,0 +1,1 @@
+Elektromagnētiskās indukcijas likums ir ϵi=−ΔΦΔt {\displaystyle \epsilon _{i}=-{\frac {\Delta \Phi }{\Delta t}}\ } kur ϵi {\displaystyle \epsilon _{i}\ } ir indukcijas elektrodzinējspēks, kuru rada mainīga magnētiskā plūsma (V) ΔΦ {\displaystyle \Delta \Phi \ } ir magnētiskās plūsmas izmaiņa (Wb) Δt {\displaystyle \Delta t\ } ir laiks, kurā notiek magnētiskās plūsmas izmaiņa (s)

@@ -1,0 +1,1 @@
+Nogrieznis ir taisnes daļa starp diviem punktiem. Šos punktus sauc par nogriežņa galapunktiem. Divus nogriežņus sauc par vienādiem, ja tos var novietot vienu uz otra tā, ka sakrīt to galapunkti. Nogriežņa garums rāda, cik vienību satur atliktais nogrieznis.

@@ -1,0 +1,1 @@
+Leņķis ir plaknes daļa, ko ierobežo divi stari, kam ir kopīgs sākumpunkts. Šos starus sauc par leņķa malām, bet staru kopējo sākumpunktu — par leņķa virsotni. Leņķi var definēt arī kā figūru, ko veido sākumpunktā fiksēts stars, kuru griež ap šo punktu līdz uzdotajam stāvoklim — tādā gadījumā leņķis ir stara pagrieziena mērs.

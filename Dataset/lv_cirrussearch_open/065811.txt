@@ -1,0 +1,1 @@
+PrestaShop ir bezmaksas un atvērtā koda tīmekļa žurnālu programmatūra, kas rakstīta PHP, bet datus glabā MySQL datubāzē. PrestaShop ir balstīts uz b2/cafelog programmatūras.

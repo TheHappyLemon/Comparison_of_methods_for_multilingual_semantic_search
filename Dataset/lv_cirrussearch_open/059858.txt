@@ -1,0 +1,1 @@
+Domino ir polimino, kurš sastāv no diviem vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv viens unikāls domino. Ar rotācijām, pastāv divas domino pozīcijas.

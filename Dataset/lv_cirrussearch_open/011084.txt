@@ -1,1 +1,1 @@
-1218. gads (MCCXVIII) bija parastais gads, kas pēc Jūlija kalendārā sākās pirmdienā.
+Telegrāfs (grieķu: tele (τηλε) — 'tālu' un γραφειν — 'rakstīt') ir sistēma ziņojumu (telegrammu) pārraidei attālumā. Pārraidāmie ziņojumi tiek kodēti, izmantojot kādu no kodējumiem. Kodējumam jābūt zināmam abām pusēm — gan sūtītājam, gan saņēmējam. Saņēmējs saņemto telegrammu dekodē sākumziņojumā. Telegrammu pārraidei ir tikuši izmantoti dažādi paņēmieni - dūmi, gaisma, elektrība, radioviļņi.

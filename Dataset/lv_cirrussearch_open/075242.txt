@@ -1,0 +1,1 @@
+Dāma ir spēcīgākā figūra šaha spēlē. Katram spēlētājam ir pa vienai dāmai, kas uzsākot spēli atrodas aiz bandiniekiem uz lauciņiem d1 (baltajiem) un d8 (melnajiem). Tātad, uz savas krāsas lauciņiem — baltā dāma uz baltā, bet melnā dāma uz melnā lauciņa. Dāmu un torni sauc par smagajām figūrām.

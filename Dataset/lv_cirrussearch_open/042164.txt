@@ -1,0 +1,1 @@
+Termorelejs ir releja veids, kuram kā vadības signāls kalpo noteiktas temperatūras sasniegšana.

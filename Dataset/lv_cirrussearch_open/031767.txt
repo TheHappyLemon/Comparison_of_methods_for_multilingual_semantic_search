@@ -1,0 +1,1 @@
+Demilitarizētā zona (DMZ) datoru drošībā ir fizisks vai loģisks apakštīkls, kas satur organizācijas uz āru vērstos servisus. Tās uzdevums ir kalpot kā organizācijas lokālā tīkla (LAN) papildus aizsargslānim; ārējam tīkla mezglam ir tieša piekļuve tikai pie DMZ aparatūras.

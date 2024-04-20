@@ -1,0 +1,1 @@
+LLRP ir zema līmeņa nolasītāju protokola, ko EPCGlobal ratificēja 2007. gada aprīlī, akronīms. LLRP ir RFID protokols, kas paredzēts RFID nolasītāju tīkla saskarnes standartizācijai. Tas ir izstrādāts kā standarts izstrādātājiem vienotai programmatūras saskarnei ar dažādu ražotāju RFID lasītājiem.

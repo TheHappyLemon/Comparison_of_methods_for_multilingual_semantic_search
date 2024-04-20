@@ -1,0 +1,1 @@
+An SQL INSERT statement adds one or more records to any single table in a relational database.

@@ -1,0 +1,1 @@
+Lokālais tīkls 100VG-AnyLan ir IEEE 802.12 standarts, kas nosaka, kā, izmantojot komutatorus, savā starpā savienot lokālos tīklus un darba stacijas. Standarts ļauj savienot vai nu tikai Ethernet tipa tīklus un stacijas vai marķiergredzena tīklus un stacijas.

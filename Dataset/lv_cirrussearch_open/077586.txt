@@ -1,0 +1,1 @@
+Funkcija ir viena mainīgā atkarība no otra mainīgā, ja katrai neatkarīgā mainīgā vērtībai atbilst ne vairāk kā viena atkarīgā mainīgā vērtība.

@@ -1,0 +1,1 @@
+RenderMan ir 3D fotoreālistiskās vizualizācijas programmatūra. To izveidoja Pixar Animation Studios animācijas studija 1989. gadā, un kopš tā brīža RenderMan programmatūru sāka plaši izmantot vairākas filmu kompānijas. Vizualizēšanai RenderMan pārsvarā izmanto Rejesa algoritmu, tomēr tas ir arī pielāgots staru izsekošanas un globāla apgaismojuma renderēšanas metodēm.

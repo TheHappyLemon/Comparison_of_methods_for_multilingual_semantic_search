@@ -1,0 +1,1 @@
+Tjūringa mašīna ir 1936 g. angļu matemātiķa Alana Tjūringa piedāvāts matemātisks datora modelis. Tas ir visnozīmīgākais no teorētiskajā datorzinātnē izmantotajiem skaitļošanas modeļiem, jo precīzi raksturo to, ko iespējams aprēķināt ar mūsdienās izmantotajiem datoriem. Tjūringa mašīna ir abstrakts modelis - tā nav paredzēta izgatavošanai un praktiskai lietošanai.

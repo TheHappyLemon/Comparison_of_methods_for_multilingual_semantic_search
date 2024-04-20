@@ -1,1 +1,1 @@
-SQLite ir maza izmēra iegultā relāciju datubāzu pārvaldības sistēma. Datubāzes bibliotēkas pirmkods ir publiskots. 2005.gadā projekts saņēma Google-O'Reilly Open Source Awards balvu.
+PostgreSQL, bieži saukta arī vienkārši par Postgres, ir bezmaksas atvērtā pirmkoda objektu relāciju datubāzes pārvaldības sistēma (DBVS). Ir implementācijas šādām platformām: Linux, Solaris / OpenSolaris, Win32, Win x86-64, Mac OS X, FreeBSD, QNX 4,25, QNX 6.

@@ -1,0 +1,1 @@
+ipconfig (apzīmē kā " Interneta protokola konfigurācija") ir dažu datoru operētājsistēmu konsoles lietojumprogramma, kas parāda visas pašreizējās TCP / IP tīkla konfigurācijas vērtības un atsvaidzina dinamiskā resursdatora konfigurācijas protokola (DHCP) un domēna vārdu sistēmas (DNS) iestatījumus.

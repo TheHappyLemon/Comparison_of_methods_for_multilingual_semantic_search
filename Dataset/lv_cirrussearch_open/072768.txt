@@ -1,0 +1,1 @@
+Intermediate system to intermediate system (IS-IS) ir maršrutēšanas protokols, paredzēts lietošanai autonomajās sistēmās iekšienē. IS-IS ir īpaši populārs lielu Interneta pakalpojumu sniedzēju (IPS) tīklos. IS-IS pieder pie OSI modeļa protokoliem. Tā analogs TCP/IP protokolu saimē ir OSPF.

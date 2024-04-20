@@ -1,0 +1,1 @@
+FreeBSD ir UNIX veida operētājsistēma, atzars no BSD (UNIX versijas, kas tika radīta Bērkli Universitātē, Kalifornijā). FreeBSD ir savs kodols, atšķirībā no Linux sistēmām, kurām kodols tiek izstrādāts atsevišķi no pašiem distributīviem. FreeBSD ir stabila un droša operētājsistēma, bieži tiek izmantota kā serveru operētājsistēma.

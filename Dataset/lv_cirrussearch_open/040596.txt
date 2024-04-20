@@ -1,0 +1,1 @@
+Diferenciālvienādojums var būt homogēns kādā no diviem gadījumiem: 1) diferenciālā formā dota pirmās pakāpes diferenciālvienādojuma saskaitāmo koeficienti ir homogēnas mainīgo funkcijas; 2) jebkuras kārtas lineāra diferenciālvienādojuma gadījumā nav konstanta saskaitāmā.

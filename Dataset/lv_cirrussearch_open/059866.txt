@@ -1,0 +1,1 @@
+Tetramino ir polimino, kurš sastāv no četriem vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv pieci unikāli tetramino. Ar rotācijām un spoguļattēliem, kopā pastāv 19 tetramino pozīcijas. Tetramino guva slavu no videospēles "Tetris", kurā tetramino sauc par tetrimino. Tetramino, kuri novērojami spēlē, ir bez spoguļsimetrijas.

@@ -1,0 +1,1 @@
+Instrukcijas sekundē (angļu: instructions per second) datoru procesoru ātrdarbības mērvienības. Praksē biežāk lieto terminus tūkstots instrukcijas sekundē (angļu: thousand instructions per second (kIPS)), miljons instrukcijas sekundē (angļu: million instructions per second (MIPS)) un miljards instrukcijas sekundē (angļu: billion instructions per second (GIPS)).

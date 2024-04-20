@@ -1,0 +1,1 @@
+The Gell-Mann matrices, developed by Murray Gell-Mann, are a set of eight linearly independent 3×3 traceless Hermitian matrices used in the study of the strong interaction in particle physics. They span the Lie algebra of the SU(3) group in the defining representation.

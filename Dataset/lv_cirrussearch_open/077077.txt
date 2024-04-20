@@ -1,0 +1,1 @@
+Matemātikā vektoriālais reizinājums ir bināra operācija, kas diviem trīsdimensiju Eiklīda telpā esošiem vektoriem piekārto vektoru, kas perpendikulārs dotajiem vektoriem un kura garums vienāds ar sākotnējo vektoru veidotā paralelograma laukumu. Vektoriālo reizinājumu no diviem vektoriem ir iespējams definēt tikai trīs un septiņās dimensijās.

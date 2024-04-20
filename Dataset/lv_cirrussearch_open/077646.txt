@@ -1,0 +1,1 @@
+Austrumi Linux jeb Austrumlatvijas Linukss ir kompakta izmēra (piemēram, versija 3.7.7 aizņem 329 MB) Linux distributīvs. Tas ir izveidots uz Slackware bāzes un to uztur programmētāju grupa no Latgales. Austrumlatvijas Linukss var strādāt, izmantojot tikai brīvpiekļuves atmiņu, tādējādi tas ir ļoti ātrs.

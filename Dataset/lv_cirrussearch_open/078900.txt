@@ -1,0 +1,1 @@
+Gentoo Linux ir Linux distributīvs. Gentoo Linux programmas tiek kompilētas uz lietotāja datora (nevis tiek uzinstalētas jau sakompilētas programas kā citās OS), tādējādi dodot lietotājam maksimālu kontroli pār programmu instalāciju. Gentoo izstrādātāji savu veikumu dēvē par metadistributīvu tā plašo iespēju dēļ.

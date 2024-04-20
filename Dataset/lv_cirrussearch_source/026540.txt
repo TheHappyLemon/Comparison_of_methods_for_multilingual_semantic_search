@@ -1,0 +1,1 @@
+Textpattern ir atvērtā pirmkoda satura vadības sistēma, ko bieži vien izmanto kā tīmekļa žurnāla vadības programmatūru. Textpattern ir rakstīts PHP skriptu valodā un datu glabāšanai izmanto MySQL. Textpattern tiek izplatīts saskaņā ar GNU GPL licenci. Oficiālā Textpattern tīmekļa vietne

@@ -1,0 +1,1 @@
+Jauda — fizikāls lielums, kas raksturo veikto darbu noteiktā laika periodā. Ar jaudu saprot arī sistēmas enerģijas izmaiņas (iegūšanas vai patērēšanas) ātrumu. Parasti jaudu apzīmē ar burtu P{\displaystyle P} vai N{\displaystyle N}. Jaudas definīcijas formula P=ΔAΔt{\displaystyle P={\frac {\Delta A}{\Delta t}}\,\!}

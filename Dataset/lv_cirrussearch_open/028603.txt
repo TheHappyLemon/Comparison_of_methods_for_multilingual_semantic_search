@@ -1,0 +1,1 @@
+Bipolārais tranzistors ir pusvadītāju ierīces - tranzistora veids ar trim dažādu vadītspējas tipu slāņiem un trim izvadiem. Bipolārajā tranzistorā tiek izmantoti divu dažādu veidu pusvadītāji - ar elektronu vadītspēju (n jeb negatīvais tips) un ar caurumu vadītspēju (p jeb pozitīvais tips).

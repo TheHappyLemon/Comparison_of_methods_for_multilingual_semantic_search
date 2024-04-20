@@ -1,0 +1,1 @@
+The Open Graphics Project mērķis ir izveidot atvērtā pirmkoda aparatūru, atvērto arhitektūru un standartus videokartei, kas pamatā domāta brīvās un atvērtā pirmkoda programmatūras sistēmām. Projektu veido divi posmi: pārprogrammējamas shēmas plates prototipa radīšana, pilnvērtīgas un konkurētspējīgas videokartes piedāvāšana gala lietotājiem.

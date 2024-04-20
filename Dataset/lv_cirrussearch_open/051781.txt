@@ -1,0 +1,1 @@
+Vienreizējais kods (angļu: nonce — «number that can only be used once») kriptogrāfijā ir gadījumskaitlis, ko izmanto tikai vienreiz šifrētas saziņas ietvaros. Tas ļauj novērst pārspēles uzbrukumus autotentifikācijas protokolos. Tāpat tie var būt noderīgi kā inicializācijas vektori, kā arī kriptogrāfiskās jaucējfunkcijās.

@@ -1,0 +1,1 @@
+Orbītas ekscentricitāte ir orbītas formu raksturojošs parametrs. Tā parāda, cik ļoti orbīta atšķiras no riņķa, orbītas izstiepumu. Apzīmē ar e. Riņķveida orbīta e=0{\displaystyle e=0\,\!} Eliptiska orbīta 0<e<1{\displaystyle 0<e<1\,\!} Paraboliska orbīta e=1{\displaystyle e=1\,\!} Hiperboliska orbīta e>1{\displaystyle e>1\,\!}

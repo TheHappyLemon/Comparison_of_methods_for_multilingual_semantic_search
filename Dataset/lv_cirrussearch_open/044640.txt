@@ -1,0 +1,1 @@
+Vektors — orientēts taisnes nogrieznis, t.i., tāds taisnes nogrieznis, kurš savieno divus punktus A {\displaystyle A\,} un B {\displaystyle B\,} un ir norādīts, kuru no šiem punktiem uzskatīt par nogriežņa sākumu un kuru par gala punktu.

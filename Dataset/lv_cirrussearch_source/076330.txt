@@ -1,0 +1,1 @@
+Metadati (no grieķu meta + latīņu data) jeb "dati par datiem" ir informācija, kas apraksta kādu citu datu kopu. Populārs piemērs ir bibliotēkas kataloga kartīte, kas satur informāciju par noteiktas grāmatas saturu un atrašanās vietu. Šajā gadījumā šī kartīte satur datus par grāmatā atrodamajiem datiem. RDF Semantiskais tīmeklis

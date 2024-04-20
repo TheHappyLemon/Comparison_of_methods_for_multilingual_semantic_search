@@ -1,0 +1,1 @@
+Veiktspēja datorikā sevī iekļauj tādu darbību kopumu, kas ļauj dažādos aspektos mērīt datora efektivitāti patērētā laika un resursu griezumā. Atkarībā no specifikas, par veiktspējas rādītājiem uzskata: Īsu atbildes laiku uzdotā uzdevuma apstrādē Augstu procesora caurlaidspēju Zemu datora resursnoslodzi Augstu datora vai programmatūras izmantojamības pakāpi.

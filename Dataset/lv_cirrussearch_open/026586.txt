@@ -1,0 +1,1 @@
+Vagrant ir brīvā un atvērtā pirmkoda programmatūra virtuālu izstrādes vižu veidošanai un konfigurēšanai. To var izmantot kā ietvaru tādai virtualizācijas programmatūrai kā VirtualBox, KVM, VMware un konfigurācijas pārvaldības programmatūrai kā Chef, Salt vai Puppet.

@@ -1,0 +1,1 @@
+Textpattern is a free and open-source content management system (CMS) for PHP and MySQL. It was originally developed by Dean Allen and now developed by Team Textpattern. While it is typically listed among weblogging tools, its aim is to be a general-purpose content management system. The current stable version is Textpattern 4.8.8.

@@ -1,0 +1,1 @@
+Pusbaits (angļu: nibble, half-byte) ir četri biti, puse no okteta (8 bitu baita). Pilns oktets sastāv no diviem cipariem heksadecimālajā skaitīšanas sistēmā, līdz ar to viens cipars heksadecimālajā skaitīšanas sistēmā atbilst vienam pusbaitam.

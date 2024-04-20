@@ -1,0 +1,1 @@
+Ģeogrāfiskais garums λ ir leņķis starp Griničas meridiānu un to meridiānu, kas iet caur kādu konkrētu punktu. Garums var būt no 0° (Griničas meridiāns) līdz 180° (datumu maiņas līnija). Ģeogrāfisko garumu, kas atrodas uz rietumiem no Griničas meridiāna, sauc par rietumu garumu, bet to, kas atrodas uz austrumiem — par austrumu garumu.

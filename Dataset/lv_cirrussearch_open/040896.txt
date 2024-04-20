@@ -1,0 +1,1 @@
+Ēkas enerģijas simulācijas, ko sauc arī par ēku enerģijas modelēšanu (BEM) (vai enerģijas modelēšanu kontekstā), ir dizaina rīks, kurš raksturo enerģijas plūsmas, kas saistītas ar ēku un prognozē to ietekmi uz komforta parametriem un energoefektivitātes prasībām, izmantojot matemātiskos modeļus.

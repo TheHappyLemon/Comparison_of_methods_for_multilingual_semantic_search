@@ -1,0 +1,1 @@
+Taisne ir viens no ģeometrijas pamatelementiem. Taisnes definīcija ir atkarīga no konkrētās ģeometrijas aksiomām. Ja ģeometrijas uzbūves pamatā ir attālums starp diviem telpas punktiem, tad taisne ir līnija, kuras garums ir vienāds ar attālumu starp šiem punktiem.

@@ -1,0 +1,1 @@
+Skaties arī jēdzienu ar līdzīgu nosaukumu: Koks (datu struktūra). Koka tīkls jeb zvaigžņu-kopnes tīkls ir hibrīda tīkla topoloģija, kurā zvaigžņu tipa tīkli tiek savstarpēji savienoti ar kopnes tīkliem. Koka tīkli ir hierarhiski un katram mezglam var būt patvaļīgs skaits bērnu mezglu (jeb apakš-mezglu).

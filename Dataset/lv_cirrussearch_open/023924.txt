@@ -1,0 +1,1 @@
+Apache jeb Apache HTTP Server ir bezmaksas, atvērtā pirmkoda tīmekļa serveris, kuru var darbināt uz Unix veida, ka arī Windows u.c. operētājsistēmām. Apache ir pats populārākais HTTP serveris globālajā tīmeklī. Apache izstrādā programmētāji Apache Software Foundation vadībā.

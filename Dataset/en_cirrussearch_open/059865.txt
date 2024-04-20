@@ -1,0 +1,1 @@
+A tromino or triomino is a polyomino of size 3, that is, a polygon in the plane made of three equal-sized squares connected edge-to-edge.

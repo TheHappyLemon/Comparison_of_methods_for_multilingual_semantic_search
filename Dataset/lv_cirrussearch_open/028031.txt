@@ -1,0 +1,1 @@
+Knockout.js ir JavaScript bibliotēka, kas realizē Model-View-ViewModel arhitektūru. Knockout izstrādāja Microsoft darbinieks Stīvs Sandersons (Steve Sanderson). Tas tika izstrādāts un tiek uzturēts kā atvērtā pirmkoda projekts.

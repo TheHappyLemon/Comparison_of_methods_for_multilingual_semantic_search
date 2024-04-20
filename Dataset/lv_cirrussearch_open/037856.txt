@@ -1,0 +1,1 @@
+Informācijas tehnoloģijās pakete ir īpašā veidā izveidots datu fragments, kas pārvietojas datortīklā. Sakaru līnijas, kas neatbalsta paketes, piemēram, tradicionālie "point-to-point" telekomunikāciju savienojumi vienkārši pārraida datus kā atsevišķu baitu vai bitu virkni. Ja datus saformē paketēs, tīkls var pārraidīt garākus paziņojumus efektīvāk un drošāk.

@@ -1,0 +1,1 @@
+Skaitļa dalītājs ir jebkurš tāds skaitlis, kas ar doto skaitli dalās bez atlikuma. Piemēram, 3 ir skaitļa 12 dalītājs, 7 ir skaitļa 35 dalītājs, 1 ir skaitļa 5 dalītājs, utt. Viegli saprast, ka skaitlis 1 ir jebkura naturāla skaitļa dalītājs.

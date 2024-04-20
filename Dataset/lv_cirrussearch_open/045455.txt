@@ -1,0 +1,1 @@
+TCP un UDP ir TCP/IP modeļa transporta slāņa protokoli. Viena no protokola kontroles informācijas vienībām, ko lieto šie protokoli, ir ports. Porta numurs ļauj darbināt uz vienas IP iekārtas vienas adreses dažādus servisus. Tāpat kā IP adreses, portu numurus piešķir un uzrauga IANA.

@@ -1,0 +1,1 @@
+Trimino ir polimino, kurš sastāv no trīs vienības kvadrātiem, kuri ir savienoti gar malām. Bez rotācijām un spoguļattēla simetrijām, pastāv divi unikāli trimino. Ar rotācijām, pastāv sešas trimino pozīcijas, pagriežot trimino par 90, 180 un 270 grādiem. Trimino ar visiem trīs kvadrātiem vienā līnijā sauc par "I" trimino. Izliektu trimino sauc par "L" trimino, vai "V" trimino.

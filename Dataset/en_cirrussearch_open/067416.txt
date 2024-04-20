@@ -1,0 +1,1 @@
+The Open Graphics Project (OGP) was founded with the goal to design an open-source hardware / open architecture and standard for graphics cards, primarily targeting free software / open-source operating systems. The project created a reprogrammable development and prototyping board and had aimed to eventually produce a full-featured and competitive end-user graphics card.

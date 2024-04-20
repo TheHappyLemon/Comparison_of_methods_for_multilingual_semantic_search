@@ -1,0 +1,1 @@
+Floating point operations per second (FLOPS, flops or flop/s) is a measure of computer performance in computing, useful in fields of scientific computations that require floating-point calculations. For such cases, it is a more accurate measure than measuring instructions per second.[citation needed]

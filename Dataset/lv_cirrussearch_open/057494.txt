@@ -1,0 +1,1 @@
+Universal Plug and Play (UPnP) ir tīkla protokolu kopums. UPnP mērķis ir universāli un automātiski konfigurēt tīkla ierīces gan mājās, gan korporatīvajā vidē. Tas sastāv no saistītu protokolu kopuma, kas veidoti uz atvērtiem interneta standartiem.

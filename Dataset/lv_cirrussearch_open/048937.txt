@@ -1,0 +1,1 @@
+3D datorgrafikā dziļuma karte ir attēls vai attēlu kanāls, kas satur informāciju par objektu virsmu attālumā no skatpunkta. Šis termins ir saistīts ar šiem terminiem: dziļuma buffers, Z-buffers, Z- buferizācija un Z-dziļums. Šajos pēdējos terminos "Z" attiecas uz konvenciju, ka kameras centrālā skata ass atrodas kameras Z ass virzienā, nevis ar ainas absolūtu Z asi.

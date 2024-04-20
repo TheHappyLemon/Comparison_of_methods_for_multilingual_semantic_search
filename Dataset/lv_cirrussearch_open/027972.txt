@@ -1,0 +1,1 @@
+Kontrolsumma (angļu: checksum) ir skaitlis, ko iegūst no lielāka izmēra cipardatu bloka, pēc kura var pārbaudīt to pret kļūdām, kas var būt radušās datu pārraides vai saglabāšanas laikā.

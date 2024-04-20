@@ -1,0 +1,1 @@
+ifconfig (saīsinājums no angļu valodas - interface configuration) ir sistēmas administrēšanas utilītprogramma Unix operētājsistēmās, lai konfigurētu, kontrolētu un pieprasītu TCP/IP tīkla interfeisu parametrus no komandrindas saskarnes (CLI), vai arī sistēmas konfigurācijas skriptos. Ifconfig sākotnēji parādījās 4.2BSD kā daļa no BSD TCP / IP suite.

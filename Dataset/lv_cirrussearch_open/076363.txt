@@ -1,0 +1,1 @@
+Regulārs daudzstūris ir tāds izliekts daudzstūris, kura visi leņķi ir vienādi un visas malas ir vienādas. Regulāru daudzstūri sauc par ievilktu riņķa līnijā, ja visas tā virsotnes atrodas uz riņķa līnijas. Regulāru daudzstūri sauc par apvilktu ap riņķa līniju, ja visas tā malas pieskaras riņķa līnijai. Regulārā daudzstūrī ievilkta riņķa līnija pieskaras tā malām to viduspunktos.

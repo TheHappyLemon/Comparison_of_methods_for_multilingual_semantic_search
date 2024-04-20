@@ -1,1 +1,1 @@
-XFN (no angļu XHTML Friends Network = XHTML draugu tīkls) ir vienkāršs veids kā semantiski pierakstīt attiecības starp cilvēkiem XHTML dokumentos. <a href="http://lv.wikipedia.org/wiki/Lietotājs:Piemērs" rel="friend met">Mans draugs ar ko esmu ticies</a> FOAF Mikroformāti XFN mājaslapa XFN 1.1 profils
+hCard ir mikroformāts, kas ļauj semantiski pierakstīt informāciju par cilvēkiem, uzņēmumiem un organizācijām, un iekļaut to HTML (XHTML), Atom un RSS, kā arī citos XML dokumentos. hCard ir 1:1 vCard standarta reprezentācija. FOAF hCard standarta apraksts (angliski)

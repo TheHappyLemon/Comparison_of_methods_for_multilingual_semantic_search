@@ -1,0 +1,1 @@
+Elektroniskajā parakstā laika zīmogs jeb laikspiedogs (angļu: Timestamp) fiksē dokumenta saturu laikā, lai viegli varētu atklāt jebkuru pēc tam izdarītu dokumenta izmaiņu.

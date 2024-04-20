@@ -1,0 +1,1 @@
+A relational database management system uses SQL MERGE (also called upsert) statements to INSERT new records or UPDATE existing records depending on whether condition matches. It was officially introduced in the SQL:2003 standard, and expanded[citation needed] in the SQL:2008 standard.

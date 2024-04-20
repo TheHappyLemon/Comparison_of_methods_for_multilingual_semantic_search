@@ -1,0 +1,1 @@
+Smarty ir PHP tīmekļa šablonu sistēma, kas ļauj atdalīt PHP kā biznesa loģiku no HTML kā prezentācijas loģikas un uzģenerē tīmekļa lappuses kodu, aizvietojot Smarty atzīmes ar saturu.

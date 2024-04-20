@@ -1,0 +1,1 @@
+3D projekcija ir metodes veids ar kādu trīs dimensionālie punkti tiek pārnesti uz divu dimensiju plakni. Tā kā lielākā daļa metožu ir balstīta uz pikseļu informāciju, kas tiek atainota bitu plaknēs, tā iegūstot divdimensionālu attēlu, tad šo projekcijas veidu plaši izmanto datorgrafikā, inženierijā un rasēšanā.

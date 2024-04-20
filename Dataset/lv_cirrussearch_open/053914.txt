@@ -1,0 +1,1 @@
+Bluetooth ir maza darbības rādiusa bezvadu datortīklu standarts. Šī tehnoloģija piedāvā iespēju apmainīties ar informāciju, savienojoties ar dažādām ierīcēm: mobilajiem tālruņiem, datoriem u.c. Bluetooth ļauj šīm ierīcēm savienoties vienai ar otru, kad tās atrodas rādiusā līdz 10—100 metriem viena no otras (attālums ir atkarīgs no šķēršļiem un traucējumiem), pat dažādās telpās.

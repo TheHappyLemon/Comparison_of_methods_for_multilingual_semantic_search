@@ -1,0 +1,1 @@
+FIFO (akronīms no first in, first out — 'pirmais iekšā, pirmais ārā') datorikā un rindu teorijā apzīmē datu organizācijas un manipulācijas metodi, kurā pirmais ievietotais ieraksts tiek apstrādāts kā pirmais. Metodes galvenais lietojums ir rindas datu struktūrā. FIFO pretēja pieeja ir LIFO, kur pēdējais pievienotais elements tiek apstrādāts kā pirmais.

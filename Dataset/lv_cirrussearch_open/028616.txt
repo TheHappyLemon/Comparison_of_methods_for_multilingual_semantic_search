@@ -1,0 +1,1 @@
+Feedly ir ziņu agregators, kas darbojas kā lietotne dažādiem tīmekļa pārlūkiem un mobilajām iekārtām ar iOS un Android operētājsistēmām, bet ir pieejams arī kā tīmekļa vietne. Tas apkopo ziņu plūsmas no dažādiem tiešsaistes avotiem un padara tās pielāgojamas lietotājam, un ļauj dalīties tajās ar citiem. Tā autori DevHD publiskoja Feedly 2008. gadā.

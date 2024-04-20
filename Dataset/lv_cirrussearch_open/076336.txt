@@ -1,0 +1,1 @@
+GNU, kas ir rekursīvs saīsinājums no GNU's Not UNIX (GNU nav UNIX), ir brīva operētājsistēma, kas ir veidota pēc UNIX sistēmas līdzības, taču nesatur UNIX kodu. GNU sistēma, savienojumā ar Linux kodolu, ir viena no pasaulē populārākajām operētājsistēmām (skat. GNU/Linux). Par GNU sistēmas projektu 1983. gadā paziņoja Ričards Stalmans, 1984. gadā sākās sistēmas izstrāde.

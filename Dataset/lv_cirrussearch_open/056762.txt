@@ -1,0 +1,1 @@
+Xcas ir atvērtā koda datoru algebras sistēma (CAS), kas paredzēta Microsoft Windows, Apple macOS un Linux. 2000. gadā Bernards Pariss palaida Xcas. Xcas ir rakstīts C++ programmēšanas valodā.

@@ -1,0 +1,1 @@
+Šis raksts ir par programmēšanas valodu. Par citām jēdziena Java nozīmēm skatīt nozīmju atdalīšanas lapu. Java ir firmas Sun Microsystems izstrādāta objektorientēta programmēšanas valoda. Valoda, kuras sākotnējais nosaukums bija Oak, tika veidota kā C++ aizstājēja, lai gan tās funkcionalitāte ir tuvāka Objective C.

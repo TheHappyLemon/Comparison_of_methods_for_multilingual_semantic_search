@@ -1,0 +1,1 @@
+A selfmate is a chess problem in which White, moving first, must force the unwilling Black to deliver checkmate within a specified number of moves. Selfmates were once known as sui-mates. This article uses algebraic notation to describe chess moves.

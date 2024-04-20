@@ -1,0 +1,1 @@
+Saišu apvienošana datoru tīklā ir vairāku tīkla savienojumu apvienošana paralēli ar kādu no vairākām metodēm, lai palielinātu caurlaidi, pārsniedzot to, ko varētu uzturēt viens savienojums, lai nodrošinātu savienojuma dublēšanos gadījumā, ja kāda no saitēm pēkšņi nedarbojas. Saišu apvienošanas grupa (LAG) ir apvienota fizisko portu grupa.

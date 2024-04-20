@@ -1,0 +1,1 @@
+Ciparparaksta standarts jeb DSS (angļu: Digital Signature Standard) ir ASV Federālais informācijas apstrādes standarts (FIPS) PUB 186-4. Tas izmanto Ciparparaksta algoritmu (DSA), RSA vai Eliptiskās līknes ciparparaksta algoritmu (ECDSA) kā paraksta algoritmus, kā arī Drošo jaukšanas algoritmu (SHA) kā ziņojumu jaucējvērtību aprēķināšanas algortmu.

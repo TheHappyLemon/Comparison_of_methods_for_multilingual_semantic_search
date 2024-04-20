@@ -1,0 +1,1 @@
+Check Point IPSO is the operating system for the 'Check Point firewall' appliance and other security devices, based on FreeBSD, with numerous hardening features applied. The IP in IPSO refers to Ipsilon Networks, a company specialising in IP switching acquired by Nokia in 1997. In 2009, Check Point acquired the Nokia security appliance business, including IPSO, from Nokia.

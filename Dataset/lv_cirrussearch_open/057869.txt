@@ -1,0 +1,1 @@
+Impulsu saspiešana ir signālu apstrādes paņēmiens, kuru izmanto radaros, hidrolokatoros un ultraskaņas izmeklējumos, lai uzlabotu izšķirtspēju distancē, kā arī uzlabotu signāla un trokšņa attiecību. To veic modulējot pārraidāmo impulsu un pēc tam salīdzinot uztverto signālu ar pārraidīto impulsu.

@@ -1,0 +1,1 @@
+Tilpums ir kāda ģeometriska ķermeņa lielums, cik daudz trīsdimensiju telpas tas aizņem jeb telpas daļa, kas norobežota ar vismaz vienu noslēgtu virsmu. Viendimensiju telpas figūru (tādu kā līnijas) un plaknes figūru (piemēram, četrstūri) tilpums ir nulle. Tilpumu skaitliski izsaka tilpuma mērvienībās, piemēram, kubikmetros, litros utt.

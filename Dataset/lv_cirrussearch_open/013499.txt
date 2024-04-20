@@ -1,1 +1,1 @@
-Šis raksts ir par 15. gadu. Par citām jēdziena 15 nozīmēm skatīt nozīmju atdalīšanas lapu. 15. gads bija parastais gads, kas pēc Gregora kalendāra sākās ceturtdienā.
+Automātu teorijā galīgs automāts ir diskrētas sistēmas abstrakts matemātisks modelis, kas apraksta sistēmas izmaiņas diskrētos laika momentos atkarībā no ieejas datiem un tās iepriekšējā stāvokļa. Šādu automātu sauc par galīgu tādēļ, ka tā ieejas, izejas un stāvokļu kopas ir galīgas. Galīgs automāts ir viens no abstrakta automāta veidiem, kā arī viena no Tjūringa mašīnas sastāvdaļām.

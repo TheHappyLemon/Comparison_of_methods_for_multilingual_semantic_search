@@ -1,0 +1,1 @@
+Secure Reliable Transport (SRT) is an open source video transport protocol that utilises the UDP transport protocol. The SRT Protocol specification is available as an Internet Draft from the IETF.

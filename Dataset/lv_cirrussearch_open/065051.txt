@@ -1,0 +1,1 @@
+Open Proj bija bezmaksas datorprogramma, kas ir paredzēta projektu plānošanai uz Ganta un tīklu diagrammu būves bāzes. Programma ir līdzīga Microsoft Project, un tā ļauj arī saglabāt failus Microsoft Project formātā. Tā nav atjaunināta kopš 2008. gada un netiek atbalstīta. Izstrādātāji rekomndējuši lietotājiem tās vietā izmantot ProjectLibre.

@@ -1,0 +1,1 @@
+In computer networking, split-horizon route advertisement is a method of preventing routing loops in distance-vector routing protocols by prohibiting a router from advertising a route back onto the interface from which it was learned. The concept was suggested in 1974 by Torsten Cegrell, and originally implemented in the ARPANET-inspired Swedish network TIDAS.

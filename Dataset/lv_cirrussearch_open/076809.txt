@@ -1,0 +1,1 @@
+Līnija ir sakarīga punktu kopa, ko plaknes gadījumā var uzdot ar vienādojumiem x = x(t), y = y(t), kur t pieder kādam intervālam, bet x(t) un y(t) ir nepārtrauktas funkcijas. Līdzīgi līnijas var uzdot arī telpā. Taisne ir līnija, kas ir viens no ģeometrijas pamatjēdzieniem. Līnijas var būt dažādas — taisnas, liektas vai lauztas.

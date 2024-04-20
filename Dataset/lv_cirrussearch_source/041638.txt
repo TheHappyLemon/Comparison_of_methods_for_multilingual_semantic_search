@@ -1,0 +1,1 @@
+UUENCODE jeb Unix-Unix kodēšana (angļu: Unix-to-Unix encode) ir algoritmu kopa datņu pārveidošanai koda ASCII 7 bitu rakstzīmju virknēs, lai tās varētu pārsūtīt pa internetu. Base64 MIME kodēšana/LV «Latvijas Nacionālais terminoloģijas portāls - Unix-Unix kodēšana». termini.gov.lv.

@@ -1,0 +1,1 @@
+Paplašināmā hiperteksta iezīmju valoda jeb XHTML (saīsinājums no Extensible Hypertext Markup Language) ir iezīmju valoda, kas nodrošina tās pašas iespējas, ko HTML, taču nosaka daudz striktāku valodas sintaksi. Ja HTML ir SGML lietojums, tad XHTML ir XML lietojums. XHTML 1.0 kļuva par Globālā Tīmekļa Konsorcija rekomendāciju 2000. gada 26. janvārī.
