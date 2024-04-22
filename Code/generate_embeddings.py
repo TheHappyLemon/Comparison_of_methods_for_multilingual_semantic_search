@@ -133,7 +133,7 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
                             for j in range(len(embeddings)):
                                 dataset[i + j + batch_offset] = embeddings[j]
                             if i != 0 and i % 1000 == 0 :
-                                log.write(f"Processed a thousand records! units\n")
+                                log.write(f"Processed a thousand records!\n")
                             file.flush()
                             log.flush()
 

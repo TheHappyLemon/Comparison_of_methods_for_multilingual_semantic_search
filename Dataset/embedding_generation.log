@@ -1,0 +1,40 @@
+Start working on filling dataset in hdf5 file
+Created dataset '/Bert/title/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/Bert/title/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/Bert/open/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/Bert/open/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/Bert/source/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/Bert/source/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/title/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/title/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/open/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/open/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/source/en_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/XLM-RoBERTa/source/lv_cirrussearch' with shape = '(77736, 768)'
+Created dataset '/mapping' to map dataset indexes with filenames
+Calculating embeddings for /Bert/title/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /Bert/title/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /Bert/open/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /Bert/open/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /Bert/source/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /Bert/source/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/title/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/title/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/open/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/open/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/source/en_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Calculating embeddings for /XLM-RoBERTa/source/lv_cirrussearch. Starting from index 0
+Processed a thousand records! units
+Finished!
+Time of execution = 2:51:55.098923
