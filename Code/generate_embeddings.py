@@ -21,7 +21,7 @@ def get_pages_text_count(dataset_path : str, limit : int = -1):
             processed = processed + 1
     return processed
 
-def get_pages_texts(dataset_path : str, start_at : int = 0, stop_at : int = -1, max_limit : int = -1):
+def get_pages_data(dataset_path : str, start_at : int = 0, stop_at : int = -1, max_limit : int = -1, type='texts'):
     texts = []
     processed = 0
     
@@ -37,32 +37,14 @@ def get_pages_texts(dataset_path : str, start_at : int = 0, stop_at : int = -1, 
             if processed < start_at or processed > stop_at:
                 continue
             with open(full_path, 'r', encoding='utf-8') as file:
-                text = file.read()
-                texts.append(text)
+                if type == 'texts':
+                    text = file.read()
+                    texts.append(text)
+                else:
+                    texts.append(filename)
                 if max_limit != -1 and len(texts) >= max_limit:
                     break
     return texts
-
-def get_np_array_zero_rows(np_array):
-    return np.where(~np.any(np_array, axis=1))[0]
-
-def build_index_from_hdf(file_path : str, dataset : str):
-    with h5py.File(file_path, 'r') as file:
-        if not dataset in file:
-            raise ValueError(f"Dataset {dataset} not in file")
-        # np.any - non zero rows, ~ - invert, np.where - return array of indexes with True values
-        zero_rows_indexes = get_np_array_zero_rows(file[dataset])
-        if len(zero_rows_indexes) != 0:
-            raise EmbeddingsError(f"Some embeddings in dataset '{dataset}' are not calculated", zero_rows_indexes[0])
-        index = faiss.IndexHNSWFlat(file[dataset].shape[1], 64)
-        index.add(file[dataset])
-        return index
-
-def get_embedding_from_hdf(file_path : str, dataset : str, index : int):
-    with h5py.File(file_path, 'r') as file:
-        if not dataset in file:
-            raise ValueError(f"Dataset {dataset} not in file")
-        return file[dataset][index]
         
 def get_dict_from_json(file : str):
     try:
@@ -89,26 +71,28 @@ def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : lis
     #    ...                   #
     ############################
 
-    cache = {}
+    pages_count = -1
+    filenames = []
 
     with h5py.File(file_name, 'a') as file:
         for model_name in names:
             tokenizer = AutoTokenizer.from_pretrained(names[model_name])
             model = AutoModel.from_pretrained(names[model_name])
-
             if not model_name in file:
                 test_case = get_embedding("Test", tokenizer, model)
                 model_group = file.create_group(model_name)
                 for wiki_type in wiki_types:
                     type_group = model_group.create_group(wiki_type)
                     for lang in embedding_langs:
-                        
-                        path_to_data = path_res + lang + '_' + wiki_type
-                        if not path_to_data in cache:
-                            cache[path_to_data] = get_pages_text_count(path_res + lang + '_' + wiki_type)
-                        
+                        if pages_count == -1:
+                            pages_count = get_pages_text_count(path_res + lang + '_' + wiki_type)
+                        if filenames == []:
+                            filenames = get_pages_data(path_res + lang + '_' + wiki_type, type='names')
                         #type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), compression='gzip', chunks=(5, 768))
-                        type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), chunks=(25, 768))
+                        type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, 768))
+        
+        if not 'mapping' in file:
+            file.create_dataset('mapping', shape=(pages_count, 1), chunks=(25, 1), data=filenames)
 
 def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, embedding_langs : list):
 
@@ -130,7 +114,7 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
                     # Start recalculating from first zero row. Rows are calculated one by one, so rows after also must be zeros
                     if len(zero_rows_index) != 0:
                         batch_offset = zero_rows_index[0]
-                        texts = get_pages_texts(path_res + lang + '_' + wiki_type, start_at=batch_offset, max_limit=52)
+                        texts = get_pages_data(path_res + lang + '_' + wiki_type, start_at=batch_offset, max_limit=25, type='texts')
 
                         for i in range(0, len(texts), batch_size):
                             batch_texts = texts[i:i + batch_size]
@@ -162,47 +146,6 @@ if __name__ == '__main__':
     wiki_types = [key for key, value in wiki_types.items() if value is True]
     embedding_langs = [key for key, value in embedding_langs.items() if value is True]
     
+    # Create file with precalculated embeddings
     create_datasets_if_not_exist(hdf5_file, models, wiki_types, embedding_langs)
     fill_datasets_if_empty(hdf5_file, models, wiki_types, embedding_langs)
-    
-    exit()
-    index = None
-    tokenizer = AutoTokenizer.from_pretrained('bert-base-multilingual-cased')
-    model = AutoModel.from_pretrained('bert-base-multilingual-cased')
-    en_embeddings_name = "en_embeddings"
-    lv_embeddings_name = "lv_embeddings"
-    
-    try:
-        index = build_index_from_hdf(hdf5_file, en_embeddings_name)
-    except FileNotFoundError as e1:
-        # Generate file with english embeddings from scratch. Will take a lot of time...
-        en_texts = get_pages_texts(dataset_path=path_res + "en_cirrussearch_title", max_limit=30)
-        generate_embeddings(en_texts,  tokenizer, model, en_embeddings_name)
-        #index = build_index_from_hdf(hdf5_file, en_embeddings_name)
-    except EmbeddingsError as e2:
-        # Some part of embeddings has already been calculated, but some not -> continue
-        en_texts = get_pages_texts(dataset_path=path_res + "en_cirrussearch_title", start_at=e2.indexes, max_limit=6)
-        generate_embeddings(en_texts, tokenizer, model, en_embeddings_name, batch_offset=e2.indexes)
-        #index = build_index_from_hdf(hdf5_file, en_embeddings_name)
-    except Exception as e3:
-        print("Error:", repr(e3))
-        exit()
-
-    with h5py.File(hdf5_file, 'r') as file:
-        lv_embeddings_exist = lv_embeddings_name in file
-        if lv_embeddings_exist:
-            zero_rows_index = get_np_array_zero_rows(file[lv_embeddings_name])[0]
-    
-    if not lv_embeddings_exist:
-        # calculate latvian embeddings if there are none
-        lv_texts = get_pages_texts(dataset_path=path_res + "lv_cirrussearch_title", max_limit=5)
-        generate_embeddings(lv_texts,  tokenizer, model, lv_embeddings_name)
-    else:
-        # Some part of embeddings has already been calculated, but some not -> continue
-        lv_texts = get_pages_texts(dataset_path=path_res + "lv_cirrussearch_title", start_at=zero_rows_index, max_limit=6)
-        generate_embeddings(lv_texts,  tokenizer, model, lv_embeddings_name, batch_offset=zero_rows_index)
-
-    text_count = get_pages_text_count(path_res + "lv_cirrussearch_title", 5)
-    for i in range(text_count):
-        e = get_embedding_from_hdf(hdf5_file, lv_embeddings_name, i)
-        print(type(e))

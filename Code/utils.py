@@ -8,45 +8,15 @@ def cls_pooling(model_output):
     # take embedding of first token of every sequence (CLS) token, which is a special classification token
     return model_output.last_hidden_state[:, 0]
 
-def flush_embeddings(embeddings_list : list, group_name : str, cur_batch : int, total_vectors : int, emb_dimensions : int, batch_offset : int) -> None:
-    with h5py.File(path_res + f'\\embeddings.hdf5', 'a') as file:
-        if not group_name in file:
-            file.create_dataset(group_name, shape=(total_vectors, emb_dimensions))
-        for i in range(len(embeddings_list)):
-            embeddings_vector = embeddings_list[i]
-            file[group_name][cur_batch + i + batch_offset] = embeddings_vector
-
 def get_embedding(text, tokenizer, model):
-    encoded_input = tokenizer(text, padding='max_length', truncation=True, return_tensors="pt")
+    encoded_input = tokenizer(text, padding='max_length', truncation=True, return_tensors="pt", max_length=model.config.max_position_embeddings)
     with torch.no_grad():
         model_output = model(**encoded_input)
     embedding = cls_pooling(model_output).numpy()
     return embedding
 
-def generate_embeddings(text_list, tokenizer, model, file_name : str, batch_size=10, log_file = None, batch_offset : int = 0):
-    
-    # calls tokenizer associated with provided model
-    # which procceses input, so model is ready to work with it
-    # padding = extend the sequences to the length of the longest sequence or max_length if provided
-    # truncation = truncate longest sentences to max_length
-    # max_length = maximum sequence length
-    # https://huggingface.co/docs/transformers/pad_truncation padding to max model input length
-
-    # Process texts in batches and flush each batch to the disk
-    for i in range(0, len(text_list), batch_size):
-        batch_texts = text_list[i:i + batch_size]
-        encoded_input = tokenizer(batch_texts, padding='max_length', truncation=True, return_tensors="pt")
-        
-        # torch.no_grad - we are NOT training. It does not store gradients during forward pass
-        with torch.no_grad():
-            model_output = model(**encoded_input)
-        embeddings = cls_pooling(model_output).numpy()
-    
-        flush_embeddings(embeddings, file_name, i, len(text_list), embeddings.shape[1], batch_offset)
-        if log_file != None:
-            log_file.write(f"Flushed '{len(batch_texts)}' texts embeddings\n")
-        else:
-            print(f"Flushed '{len(batch_texts)}' units")
+def get_np_array_zero_rows(np_array):
+    return np.where(~np.any(np_array, axis=1))[0]
 
 def get_wiki_data(title : str, log_file = None):
 

@@ -1,5 +1,5 @@
 from transformers import AutoTokenizer, AutoModel
-from utils import *
+from utils import get_embedding
 import faiss
 import numpy as np
 
@@ -15,14 +15,13 @@ texts = ["Es staigāju mežā", "dzīvnieks ir liels", "Es domāju"]
 
 
 if __name__ == '__main__':
-    embeddings = get_embeddings(texts, tokenizer, model)
-    embeddings = embeddings.numpy()
+    embeddings = get_embedding(texts, tokenizer, model)
     dimension = embeddings.shape[1]
 
-    index = faiss.IndexFlatL2(dimension)
+    index = faiss.IndexHNSWFlat(dimension, 64)
     index.add(embeddings.astype(np.float32))
 
-    query_embedding = get_embeddings(["Es atpušos mežā"], tokenizer, model).numpy()
+    query_embedding = get_embedding(["Es atpušos mežā"], tokenizer, model)
     k = 3
     D, I = index.search(query_embedding[0:1], k)
     print("Distances:", D)
