@@ -7,6 +7,7 @@ import os
 from exceptions import EmbeddingsError
 import json
 from datetime import datetime
+from io import TextIOWrapper
 
 k = 5
 
@@ -55,7 +56,7 @@ def get_dict_from_json(file : str):
         print(file)
         return None
 
-def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : list, embedding_langs : list):
+def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
 
     ###### FILE STRUCTURE ######
     #    Model_name            #
@@ -89,15 +90,17 @@ def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : lis
                         if filenames == []:
                             filenames = get_pages_data(path_res + lang + '_' + wiki_type, type='names')
                         #type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), compression='gzip', chunks=(5, 768))
-                        type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, 768))
-        
+                        r = type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, 768))
+                        log.write(f"Created dataset '{r.name}' with shape = '{(pages_count, test_case.shape[1])}'\n")
+                
         if not 'mapping' in file:
-            file.create_dataset('mapping', shape=(pages_count, 1), chunks=(25, 1), data=filenames)
+            r = file.create_dataset('mapping', shape=(pages_count, 1), chunks=(25, 1), data=filenames)
+            log.write(f"Created dataset '{r.name}' to map dataset indexes with filenames\n")
 
-def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, embedding_langs : list):
+def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
 
-    batch_size = 10
-    start = datetime.now()
+    batch_size = 25
+    max_limit = 2000
 
     with h5py.File(file_name, 'a') as file:
         for model_name in names:
@@ -114,7 +117,9 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
                     # Start recalculating from first zero row. Rows are calculated one by one, so rows after also must be zeros
                     if len(zero_rows_index) != 0:
                         batch_offset = zero_rows_index[0]
-                        texts = get_pages_data(path_res + lang + '_' + wiki_type, start_at=batch_offset, max_limit=25, type='texts')
+                        texts = get_pages_data(path_res + lang + '_' + wiki_type, start_at=batch_offset, max_limit=max_limit, type='texts')
+
+                        log.write(f"Calculating embeddings for {dataset.name}. Starting from index {batch_offset}\n")
 
                         for i in range(0, len(texts), batch_size):
                             batch_texts = texts[i:i + batch_size]
@@ -127,14 +132,15 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
 
                             for j in range(len(embeddings)):
                                 dataset[i + j + batch_offset] = embeddings[j]
-                            print(f"Flushed {len(batch_texts)} units")
+                            if i != 0 and i % 1000 == 0 :
+                                log.write(f"Processed a thousand records! units\n")
                             file.flush()
-    end = datetime.now()
-    print(f'Been working {end - start}')
+                            log.flush()
 
 if __name__ == '__main__':
     # definitions
     hdf5_file = path_res + f'\\embeddings.hdf5'
+    log_path = path_res + "embedding_generation.log"
 
     # Read setup files and extract which models we want, what kind of wikipedia pages and what language embeddings to generate
     models = get_dict_from_json(path_setup + "models.json")
@@ -146,6 +152,11 @@ if __name__ == '__main__':
     wiki_types = [key for key, value in wiki_types.items() if value is True]
     embedding_langs = [key for key, value in embedding_langs.items() if value is True]
     
+    with open(log_path, 'a', encoding='utf-8') as log:
     # Create file with precalculated embeddings
-    create_datasets_if_not_exist(hdf5_file, models, wiki_types, embedding_langs)
-    fill_datasets_if_empty(hdf5_file, models, wiki_types, embedding_langs)
+        start = datetime.now()
+        log.write("Start working on filling dataset in hdf5 file\n")
+        create_datasets_if_not_exist(hdf5_file, models, wiki_types, embedding_langs, log)
+        fill_datasets_if_empty(hdf5_file, models, wiki_types, embedding_langs, log)
+        log.write("Finished!\n")
+        log.write(f"Time of execution = {datetime.now() - start}\n")
