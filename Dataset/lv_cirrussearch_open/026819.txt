@@ -1,1 +1,0 @@
-DVB-IPI ir atvērts DVB standarts, kas ļauj nodrošināt audio un video signāla pārsūtīšanu līdz mājām caur Intertīkla protokolu. Tas ir digitālās televīzijas variants, kur signālu pārsūta caur internetu.

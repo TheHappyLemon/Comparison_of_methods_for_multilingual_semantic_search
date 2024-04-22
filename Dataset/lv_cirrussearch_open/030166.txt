@@ -1,1 +1,0 @@
-Gēringa gambīts ir šaha atklātne, kas sākas ar gājieniem: 1. e2-e4 e7-e5 2. Zg1-f3 Zb8-c6 3. d2-d4 e5xd4 4. c2-c3. Tas ir Skotu atklātnes variants un tāpat kā skotu atklātne pieder pie atklātām atklātnēm. Tā Šaha atklātņu enciklopēdijas kods ir C45.

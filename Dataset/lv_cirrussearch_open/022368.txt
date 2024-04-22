@@ -1,1 +1,0 @@
-LIFO (abreviatūra no last in, first out (pēdējais iekšā, pirmais ārā)) datorikā un rindu teorijā apzīmē saglabāto elementu apstrādes veidu. Pēc definīcijas LIFO datu struktūra ir lineāra liste, kurai elementi tiek pievienoti un dzēsti pa vienam un vienā pusē. LIFO struktūra var tikt ilustrēta kā kaudze ar paplātēm. Pēdējā uz kaudzes novietotā paplāte tiek noņemta kā pirmā.

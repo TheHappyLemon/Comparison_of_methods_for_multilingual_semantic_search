@@ -33,8 +33,10 @@ def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = -1, lo
     processed_total = 0
     has_flushed = False
 
+    # if process is launched from some specific record in the dump
     to_skip = (start_from > "")
     processed_total = max(start_numb, processed_total)
+    has_flushed = (start_numb > 0)
 
     i = 0
     with open(file_path, 'r') as file, open(log_path, log_mode, encoding='utf-8') as log_file:

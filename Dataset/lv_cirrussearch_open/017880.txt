@@ -1,1 +1,0 @@
-Infims ir vislielākais no tādiem skaitļiem, kuri ir mazāki vai vienādi par jebkuru kādas skaitļu kopas elementiem. Piemēram, skaitļu kopas {3, 5, 6} infims ir skaitlis 3, intervāla [2; 4] infims ir 2 utt.

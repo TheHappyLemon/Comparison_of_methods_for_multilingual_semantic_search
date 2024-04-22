@@ -1,1 +1,0 @@
-Kvadrātfunkcija ir funkcija, kuru apraksta vienādojums y=ax2+bx+c{\displaystyle y={ax^{2}+bx+c}}, kur a,b,c ∈ R un a≠0. Funkcijas grafiks ir parabola. Šīs funkcijas definīcijas un vērtību apgabals ir visi reālie skaitļi.
