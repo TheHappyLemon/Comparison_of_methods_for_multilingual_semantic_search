@@ -1,15 +1,11 @@
 
 from transformers import AutoTokenizer, AutoModel
 from utils import *
-import faiss
 from constants import path_res, path_setup
 import os
-from exceptions import EmbeddingsError
 import json
 from datetime import datetime
 from io import TextIOWrapper
-
-k = 5
 
 def get_pages_text_count(dataset_path : str, limit : int = -1):
     processed = 0
@@ -89,8 +85,8 @@ def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : lis
                             pages_count = get_pages_text_count(path_res + lang + '_' + wiki_type)
                         if filenames == []:
                             filenames = get_pages_data(path_res + lang + '_' + wiki_type, type='names')
-                        #type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), compression='gzip', chunks=(5, 768))
-                        r = type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, 768))
+                        #type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), compression='gzip', chunks=(5, test_case.shape[1]))
+                        r = type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, test_case.shape[1]))
                         log.write(f"Created dataset '{r.name}' with shape = '{(pages_count, test_case.shape[1])}'\n")
                 
         if not 'mapping' in file:
@@ -100,7 +96,7 @@ def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : lis
 def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
 
     batch_size = 25
-    max_limit = 2000
+    max_limit = 6000
 
     with h5py.File(file_name, 'a') as file:
         for model_name in names:
