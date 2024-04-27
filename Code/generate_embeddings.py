@@ -2,71 +2,25 @@
 from transformers import AutoTokenizer, AutoModel
 from utils import *
 from constants import path_res, path_setup
-import os
-import json
+import h5py
 from datetime import datetime
 from io import TextIOWrapper
 
-def get_pages_text_count(dataset_path : str, limit : int = -1):
-    processed = 0
-    if limit != -1:
-        return limit
-
-    for filename in os.listdir(dataset_path):
-        full_path = os.path.join(dataset_path, filename)
-        if os.path.isfile(full_path):
-            processed = processed + 1
-    return processed
-
-def get_pages_data(dataset_path : str, start_at : int = 0, stop_at : int = -1, max_limit : int = -1, type='texts'):
-    texts = []
-    processed = 0
-    
-    # So order is always the same!
-    filenames = sorted(os.listdir(dataset_path))
-    if stop_at == -1:
-        stop_at = len(filenames)
-
-    for filename in filenames:
-        full_path = os.path.join(dataset_path, filename)
-        if os.path.isfile(full_path):
-            processed = processed + 1
-            if processed < start_at or processed > stop_at:
-                continue
-            with open(full_path, 'r', encoding='utf-8') as file:
-                if type == 'texts':
-                    text = file.read()
-                    texts.append(text)
-                else:
-                    texts.append(filename)
-                if max_limit != -1 and len(texts) >= max_limit:
-                    break
-    return texts
-        
-def get_dict_from_json(file : str):
-    try:
-        with open(file, 'r') as f:
-            res = json.load(f)
-            return res
-    except FileNotFoundError:
-        print(file)
-        return None
+###### FILE STRUCTURE ######
+#    Model_name            #
+#    ├── title             #
+#    │   ├── en            #
+#    │   └── lv            #
+#    ├── open              #
+#    │   ├── en            #
+#    │   └── lv            #
+#    └── source            #
+#    │   ├── en            #
+#    │   └── lv            #
+#    ...                   #
+############################
 
 def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
-
-    ###### FILE STRUCTURE ######
-    #    Model_name            #
-    #    ├── title             #
-    #    │   ├── en            #
-    #    │   └── lv            #
-    #    ├── open              #
-    #    │   ├── en            #
-    #    │   └── lv            #
-    #    └── source            #
-    #    │   ├── en            #
-    #    │   └── lv            #
-    #    ...                   #
-    ############################
 
     pages_count = -1
     filenames = []
@@ -83,7 +37,7 @@ def create_datasets_if_not_exist(file_name : str, names : dict, wiki_types : lis
                     for lang in embedding_langs:
                         if pages_count == -1:
                             pages_count = get_pages_text_count(path_res + lang + '_' + wiki_type)
-                        if filenames == []:
+                        if (filenames == []) and (not 'mapping' in file):
                             filenames = get_pages_data(path_res + lang + '_' + wiki_type, type='names')
                         #type_group.create_dataset(lang, shape=(cache[path_to_data], test_case.shape[1]), compression='gzip', chunks=(5, test_case.shape[1]))
                         r = type_group.create_dataset(lang, shape=(pages_count, test_case.shape[1]), chunks=(25, test_case.shape[1]))
@@ -139,7 +93,7 @@ if __name__ == '__main__':
     log_path = path_res + "embedding_generation.log"
 
     # Read setup files and extract which models we want, what kind of wikipedia pages and what language embeddings to generate
-    models = get_dict_from_json(path_setup + "models.json")
+    models = get_dict_from_json(path_setup + "transformer_models.json")
     wiki_types = get_dict_from_json(path_setup + "wiki_types.json")
     embedding_langs = get_dict_from_json(path_setup + "embedding_types.json")
     if (models is None) or (wiki_types is None) or (embedding_langs is None):

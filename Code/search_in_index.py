@@ -28,33 +28,30 @@ def get_embedding_from_hdf(file_path : str, dataset : str, index : int):
     pass
 
 if __name__ == '__main__':
-    hdf5_file = path_res + "embeddings.hdf5"
+    hdf5_file = path_res + "embeddings_test.hdf5"
     ignore_zeroes = True
 
-    en_1 = "/XLM-RoBERTa/title/en_cirrussearch"
-    lv_1 = "/XLM-RoBERTa/title/lv_cirrussearch"
-    k = 5
+    source_dataset = "/LASER/open/en_cirrussearch"
+    query_dataset  = "/LASER/open/lv_cirrussearch"
+    kNN = [1, 5, 10]
 
-    #try:
-    index_en_open = build_index_from_hdf(hdf5_file, en_1, ignore_zeroes)
+    index = build_index_from_hdf(hdf5_file, source_dataset, ignore_zeroes)
     with h5py.File(hdf5_file, 'r') as file:
-        if not lv_1 in file:
-            raise ValueError(f"Dataset {lv_1} not in file")
-        zero_rows_indexes = get_np_array_zero_rows(file[lv_1])
+        if not query_dataset in file:
+            raise ValueError(f"Dataset '{query_dataset}' not in file")
+        zero_rows_indexes = get_np_array_zero_rows(file[query_dataset])
         if len(zero_rows_indexes) != 0 and not ignore_zeroes:
-            raise ValueError(f"Embedding in dataset '{lv_1}' on index '{zero_rows_indexes[0]}' is not calculated!!!")
-        for i in range(len(file[lv_1])):
-            if i == zero_rows_indexes[0]:
+            raise ValueError(f"Embedding in dataset '{query_dataset}' on index '{zero_rows_indexes[0]}' is not calculated!!!")
+        
+        for i in range(len(file[query_dataset])):
+            if ignore_zeroes and i == zero_rows_indexes[0]:
                 break
             # https://github.com/facebookresearch/faiss/issues/493
-            D, I = index_en_open.search(np.array([file[lv_1][i]]), k=k)
-            D = D[0]
-            I = I[0]
-            print(D, I)
-            for j in range(len(I)):
-                print(f"Was looking for LV text '{file['mapping'][i]}'. Found EN text'{file['mapping'][I[j]]}' with index {I[j]} and distance: {D[j]}")
-                
-    #except ValueError as e:
-       # print(e)
-    #except IndexError as e:
-        #print(e)
+            for k in kNN:
+                Distances, Indexes = index.search(np.array([file[query_dataset][i]]), k=k)
+                Distances = Distances[0]
+                Indexes = Indexes[0]
+                for j in range(len(sorted(Distances))):
+                    query_file  = file['mapping'][i][0].decode()
+                    source_file = file['mapping'][Indexes[j]][0].decode()
+                    print(f"Was looking for LV text '{query_file}'. Found EN text '{source_file}' with index {Indexes[j]} and distance: {Distances[j]}")

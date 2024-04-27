@@ -22,3 +22,7 @@ laser_encoders depends on fairseq, which is not compatible with python 3.11.8 !!
 https://github.com/facebookresearch/fairseq/issues/5191
 https://github.com/facebookresearch/LASER/issues/280
 Also had to fix download script - https://github.com/facebookresearch/LASER/pull/282
+
+Notes:
+    Laser3 is basically laser2, but with support for more languages. Latvian language is supported by LASER2, so LASER2 is used
+    with my experiments. lib\site-packages\laser_encoders\models.py

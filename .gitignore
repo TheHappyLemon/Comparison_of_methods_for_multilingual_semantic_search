@@ -1,7 +1,7 @@
 constants.py
 ~$*
 neighbors.csv
-Dataset/embeddings.hdf5
+Dataset/*.hdf5
 # because dumps are in xml and json format
 wiki_dumps/*.xml
 wiki_dumps/*.json
