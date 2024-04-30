@@ -25,11 +25,9 @@ def build_index_from_hdf(file_path : str, dataset : str, ignore_zeroes = False) 
         index.add(file[dataset][:limit])
         return index
 
-def get_embedding_from_hdf(file_path : str, dataset : str, index : int):
-    pass
-
 if __name__ == '__main__':
     hdf5_file = path_res + "embeddings_test.hdf5"
+    log_file = path_res + "search.log"
     result_file = path_res + "search_result.csv"
     csv_header = ['model', 'source_data', 'query_data', 'query_file', 'NN', 'found', 'search_result', 'search_distances']
     ignore_zeroes = True
@@ -47,16 +45,14 @@ if __name__ == '__main__':
                 query_dataset  = f"/{model}/{type}/lv_cirrussearch"
                 datasets[source_dataset] = query_dataset
 
-    with open(result_file, 'w', newline='\n', encoding='utf-8') as result_csv:
+    with open(result_file, 'w', newline='\n', encoding='utf-8') as result_csv, open(log_file, 'w', encoding='utf-8') as log:
         csv_writer = csv.DictWriter(result_csv, delimiter=';', fieldnames=csv_header)
         csv_writer.writeheader()
         csv_rows = []
         csv_row = {}
+
         for dataset in datasets:
             index = build_index_from_hdf(hdf5_file, dataset, ignore_zeroes)
-
-
-
             with h5py.File(hdf5_file, 'r') as file:
                 query_dataset = datasets[dataset]
                 if not query_dataset in file:

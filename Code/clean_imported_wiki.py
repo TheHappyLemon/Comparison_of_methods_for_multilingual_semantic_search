@@ -1,6 +1,6 @@
 import os
 import csv
-from constants import path_res
+from constants import path_res, path_log
 from datetime import datetime
 from io import TextIOWrapper
 
@@ -57,7 +57,7 @@ def delete_uncommon_pages_from(path : str, uncommon : set, log : TextIOWrapper) 
             except Exception as e:
                 log.write(f"Failed to delete file '{full_path}', error: {e}\n")
 
-with open(path_res + 'dataset_cleaning.log', 'w', encoding='utf-8') as log:
+with open(path_log + 'clean_imported_wiki.log', 'w', encoding='utf-8') as log:
     start = datetime.now()
     log.write("Gathering filenames for lv and en pages...\n")
     lv_files = get_filenames(path_res + "lv_cirrussearch_title", log)

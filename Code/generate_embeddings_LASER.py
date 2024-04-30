@@ -1,6 +1,6 @@
 from laser_encoders import LaserEncoderPipeline
 from datetime import datetime
-from constants import path_res, path_setup
+from constants import path_res, path_setup, path_log
 from utils import get_dict_from_json, get_pages_data, get_pages_text_count, get_np_array_zero_rows
 from io import TextIOWrapper
 import h5py
@@ -69,7 +69,7 @@ def fill_datasets_if_empty(model_name : str, file_name : str, wiki_types : list,
                         log.flush()
 
 if __name__ == '__main__':
-    log_path = path_res + "embedding_generation_LASER.log"
+    log_path = path_log + "generate_embeddings_LASER.log"
     hdf5_file = path_res + f'embeddings.hdf5'
     wiki_types = get_dict_from_json(path_setup + "wiki_types.json")
     embedding_langs = get_dict_from_json(path_setup + "embedding_types.json")

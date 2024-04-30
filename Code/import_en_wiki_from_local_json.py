@@ -1,4 +1,4 @@
-from constants import path, path_res, path_en_wiki, chunk_size
+from constants import path, path_res, path_en_wiki, path_log, chunk_size
 import csv
 from datetime import datetime
 import json
@@ -82,6 +82,6 @@ def process_wikipedia_dump(file_path, origins : dict, chunk_size : int = 500, lo
 
 
 file_path = path_en_wiki + 'enwiki-20240401-cirrussearch-content.json'
-log_path  = path_res + 'cirrussearch-content_import_en_ALL.log'
+log_path  = path_log + 'cirrussearch-content_import_en_ALL.log'
 origins = load_info_from_csv(path_res + 'results_cirrussearch_ALL.csv')
 process_wikipedia_dump(file_path, origins, chunk_size, log_path)

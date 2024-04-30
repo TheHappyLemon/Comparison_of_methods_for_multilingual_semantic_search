@@ -1,5 +1,5 @@
 import json
-from constants import path, path_res, chunk_size
+from constants import path, path_res, path_log, chunk_size
 from utils import get_wiki_data
 from datetime import datetime
 
@@ -110,7 +110,7 @@ def process_wikipedia_dump(file_path, chunk_size : int = 500, max_pages = -1, lo
         log_file.write(f"Time elapsed: '{end - start}'\n")
 
 file_path = path + 'lvwiki-20240401-cirrussearch-content.json'
-log_path  = path_res + 'cirrussearch-content_import_lv_ALL.log'
+log_path  = path_log + 'cirrussearch-content_import_lv_ALL.log'
 log_mode  = 'a'
 # This was needed, because a few times my pc went to sleep and script stopped, so I wanted
 # to start from specific wikipedia page in a dump

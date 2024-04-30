@@ -1,7 +1,7 @@
 
 from transformers import AutoTokenizer, AutoModel
 from utils import *
-from constants import path_res, path_setup
+from constants import path_res, path_setup, path_log
 import h5py
 from datetime import datetime
 from io import TextIOWrapper
@@ -90,7 +90,7 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
 if __name__ == '__main__':
     # definitions
     hdf5_file = path_res + f'\\embeddings.hdf5'
-    log_path = path_res + "embedding_generation.log"
+    log_path = path_log + "generate_embeddings_transformers.log"
 
     # Read setup files and extract which models we want, what kind of wikipedia pages and what language embeddings to generate
     models = get_dict_from_json(path_setup + "transformer_models.json")
