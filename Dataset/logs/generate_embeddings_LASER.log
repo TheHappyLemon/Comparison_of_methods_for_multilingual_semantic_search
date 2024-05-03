@@ -82,3 +82,138 @@ Processed a thousand records!
 Processed a thousand records!
 Finished!
 Time of execution = 18:16:18.531610
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 12000
+Processed a thousand records!
+Finished!
+Time of execution = 4:47:45.333304
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 14000
+Processed a thousand records!
+Finished!
+Time of execution = 4:19:20.870927
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 16000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Finished!
+Time of execution = 8:42:15.566911
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 20000
+Processed a thousand records!
+Processed a thousand records!
+Processed a thousand records!
+Finished!
+Time of execution = 8:17:56.761166
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 24000
+Processed a thousand records!
+Finished!
+Time of execution = 4:30:07.303599
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 26000
+Processed a thousand records!
+Processed a thousand records!
+Finished!
+Time of execution = 6:32:43.114677
+Start working on filling LASER dataset in hdf5 file
+Calculating embeddings for /LASER/title/en_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Calculating embeddings for /LASER/title/lv_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/en_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Calculating embeddings for /LASER/open/lv_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/en_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Calculating embeddings for /LASER/source/lv_cirrussearch. Starting from index 29000
+Processed a thousand records!
+Finished!
+Time of execution = 3:54:08.249032

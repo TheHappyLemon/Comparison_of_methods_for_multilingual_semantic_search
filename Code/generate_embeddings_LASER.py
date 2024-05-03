@@ -36,7 +36,7 @@ def create_datasets_if_not_exist(model_name : str, file_name : str, wiki_types :
 def fill_datasets_if_empty(model_name : str, file_name : str, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
 
     batch_size = 25
-    max_limit = 6000
+    max_limit = 2000
 
     with h5py.File(file_name, 'a') as file:
         group_name = file[model_name]

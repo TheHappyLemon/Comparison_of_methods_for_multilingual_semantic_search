@@ -89,7 +89,7 @@ def fill_datasets_if_empty(file_name : str, names : dict, wiki_types : list, emb
 
 if __name__ == '__main__':
     # definitions
-    hdf5_file = path_res + f'\\embeddings.hdf5'
+    hdf5_file = path_res + f'embeddings.hdf5'
     log_path = path_log + "generate_embeddings_transformers.log"
 
     # Read setup files and extract which models we want, what kind of wikipedia pages and what language embeddings to generate
