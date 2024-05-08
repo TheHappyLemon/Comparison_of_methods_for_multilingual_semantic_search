@@ -1,0 +1,1 @@
+In this folder are stored only bash scripts, that were used with 'qsub' command to launch job in RTU HPC center. These scripts were calling slightly modified versions of python programs - with adjusted paths and embedding parameters. Multiple jobs were launched in parallel to calculcate embeddings faster.

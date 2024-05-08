@@ -1,10 +1,14 @@
-constants.py
+constants*.py
 ~$*
 neighbors.csv
 Dataset/*.hdf5
 # because dumps are in xml and json format
 wiki_dumps/*.xml
 wiki_dumps/*.json
+
+# hpc job output files
+*.o*
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
