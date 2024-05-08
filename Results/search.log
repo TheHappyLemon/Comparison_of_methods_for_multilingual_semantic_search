@@ -58,3 +58,63 @@ Done. Execution time = '0:00:00'
 Searching consequently for each element of '/XLM-RoBERTa/title/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\title\10NN.csv'. Start time = '2024-05-03 16:23:02.244654'
 Flushed '2' search results to csv file
 Done. Execution time = '0:00:00.015626'
+Succefully created index for dataset '/Bert/open/en_cirrussearch'
+Searching consequently for each element of '/Bert/open/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\open\1NN.csv'. Start time = '2024-05-03 19:31:25.147787'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/Bert/open/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\open\5NN.csv'. Start time = '2024-05-03 19:31:25.147787'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/Bert/open/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\open\10NN.csv'. Start time = '2024-05-03 19:31:25.147787'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Succefully created index for dataset '/Bert/source/en_cirrussearch'
+Searching consequently for each element of '/Bert/source/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\source\1NN.csv'. Start time = '2024-05-03 19:31:26.884481'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/Bert/source/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\source\5NN.csv'. Start time = '2024-05-03 19:31:26.884481'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.012004'
+Searching consequently for each element of '/Bert/source/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\source\10NN.csv'. Start time = '2024-05-03 19:31:26.896485'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Succefully created index for dataset '/Bert/title/en_cirrussearch'
+Searching consequently for each element of '/Bert/title/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\title\1NN.csv'. Start time = '2024-05-03 19:31:28.652637'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/Bert/title/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\title\5NN.csv'. Start time = '2024-05-03 19:31:28.652637'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/Bert/title/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\Bert\title\10NN.csv'. Start time = '2024-05-03 19:31:28.652637'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.015614'
+Succefully created index for dataset '/XLM-RoBERTa/open/en_cirrussearch'
+Searching consequently for each element of '/XLM-RoBERTa/open/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\open\1NN.csv'. Start time = '2024-05-03 19:31:30.501324'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/XLM-RoBERTa/open/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\open\5NN.csv'. Start time = '2024-05-03 19:31:30.501324'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.016502'
+Searching consequently for each element of '/XLM-RoBERTa/open/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\open\10NN.csv'. Start time = '2024-05-03 19:31:30.517826'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.006564'
+Succefully created index for dataset '/XLM-RoBERTa/source/en_cirrussearch'
+Searching consequently for each element of '/XLM-RoBERTa/source/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\source\1NN.csv'. Start time = '2024-05-03 19:31:32.158909'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/XLM-RoBERTa/source/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\source\5NN.csv'. Start time = '2024-05-03 19:31:32.158909'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/XLM-RoBERTa/source/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\source\10NN.csv'. Start time = '2024-05-03 19:31:32.158909'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.015624'
+Succefully created index for dataset '/XLM-RoBERTa/title/en_cirrussearch'
+Searching consequently for each element of '/XLM-RoBERTa/title/lv_cirrussearch'. k = '1'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\title\1NN.csv'. Start time = '2024-05-03 19:31:34.535836'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/XLM-RoBERTa/title/lv_cirrussearch'. k = '5'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\title\5NN.csv'. Start time = '2024-05-03 19:31:34.535836'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00'
+Searching consequently for each element of '/XLM-RoBERTa/title/lv_cirrussearch'. k = '10'. Output to 'C:\Univer\3_kurs\Comparison_of_methods_for_multilingual_semantic_search\Results\XLM-RoBERTa\title\10NN.csv'. Start time = '2024-05-03 19:31:34.535836'
+Flushed '2' search results to csv file
+Done. Execution time = '0:00:00.015626'

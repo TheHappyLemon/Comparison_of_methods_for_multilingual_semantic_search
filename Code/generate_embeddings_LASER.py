@@ -36,7 +36,7 @@ def create_datasets_if_not_exist(model_name : str, file_name : str, wiki_types :
 def fill_datasets_if_empty(model_name : str, file_name : str, wiki_types : list, embedding_langs : list, log : TextIOWrapper):
 
     batch_size = 25
-    max_limit = 2000
+    max_limit = 100000
 
     with h5py.File(file_name, 'a') as file:
         group_name = file[model_name]
@@ -70,7 +70,7 @@ def fill_datasets_if_empty(model_name : str, file_name : str, wiki_types : list,
 
 if __name__ == '__main__':
     log_path = path_log + "generate_embeddings_LASER.log"
-    hdf5_file = path_res + f'embeddings.hdf5'
+    hdf5_file = path_res + "embeddings.hdf5"
     wiki_types = get_dict_from_json(path_setup + "wiki_types.json")
     embedding_langs = get_dict_from_json(path_setup + "embedding_types.json")
     if (wiki_types is None) or (embedding_langs is None):

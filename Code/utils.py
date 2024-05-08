@@ -2,7 +2,6 @@ import torch
 import requests
 import numpy as np
 import json
-from constants import path_res
 import os
 
 def get_pages_text_count(dataset_path : str, limit : int = -1):
@@ -29,7 +28,7 @@ def get_pages_data(dataset_path : str, start_at : int = 0, stop_at : int = -1, m
         full_path = os.path.join(dataset_path, filename)
         if os.path.isfile(full_path):
             processed = processed + 1
-            if processed < start_at or processed > stop_at:
+            if processed <= start_at or processed > stop_at:
                 continue
             with open(full_path, 'r', encoding='utf-8') as file:
                 if type == 'texts':
