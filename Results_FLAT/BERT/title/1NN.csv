@@ -39585,7 +39585,7 @@ query_file;found;search_result;search_distances
 040225.txt;False;065519.txt;24.463585
 040226.txt;True;040226.txt;0.0
 040227.txt;False;046662.txt;17.7136
-040228.txt;True;040228.txt;7.802724e-11
+040228.txt;True;040228.txt;0.0
 040229.txt;False;066418.txt;9.8115015
 040230.txt;False;009637.txt;11.873364
 040231.txt;False;063053.txt;22.470926

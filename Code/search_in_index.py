@@ -83,7 +83,8 @@ def search_in_dataset(path_to_csv : str, index : faiss.IndexHNSWFlat, query_data
 
 if __name__ == '__main__':
     hdf5_file = path_res + "embeddings.hdf5"
-    log_file = path_search_FLAT + "search.log"
+    log_file = path_search_FLAT + "search.log" 
+    #log_file = path_search + "search.log"
     kNN = [1, 5, 10]
 
     datasets = get_dataset_names(hdf5_file)
@@ -102,7 +103,8 @@ if __name__ == '__main__':
                     raise ValueError(f"Embedding in dataset '{query_dataset}' on index '{zero_rows_indexes[0]}' is not calculated!!!")
 
                 for k in kNN:
-                    path_to_csv = os.path.join(path_search_FLAT, dataset.split('/')[1], dataset.split('/')[2], f"{k}NN.csv")
+                    path_to_csv = os.path.join(path_search, dataset.split('/')[1], dataset.split('/')[2], f"{k}NN.csv")
+                    #path_to_csv = os.path.join(path_search_FLAT, dataset.split('/')[1], dataset.split('/')[2], f"{k}NN.csv")
                     start = datetime.now()
                     log_file.write(f"Searching consequently for each element of '{query_dataset}'. k = '{k}'. Output to '{path_to_csv}'. Start time = '{start}'\n")
                     search_in_dataset(path_to_csv, index, query_dataset, k, file, log_file) 

@@ -10,7 +10,7 @@ vector_amount = 1000
 np.random.seed(1234)
 db_vectors = np.random.random((vector_amount, dimensions)).astype('float32')
 
-index = faiss.IndexHNSWFlat(dimensions, 64)   
+index = faiss.IndexHNSWFlat(dimensions, 128)   
 index.add(db_vectors)            
 
 np.random.seed(5678)
