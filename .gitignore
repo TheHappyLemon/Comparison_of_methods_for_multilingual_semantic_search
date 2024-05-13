@@ -7,7 +7,7 @@ wiki_dumps/*.xml
 wiki_dumps/*.json
 
 # hpc job output files
-*.o*
+
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python

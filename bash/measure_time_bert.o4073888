@@ -1,0 +1,78 @@
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 17:27:09,514 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'title', lang = 'en', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/en_cirrussearch_title
+Gathered "10000" texts for testing
+Time of execution = '0:35:31.777842'
+
+************************************************ END *************************************************************
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 18:05:04,491 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'title', lang = 'lv', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/lv_cirrussearch_title
+Gathered "10000" texts for testing
+Time of execution = '0:37:19.048791'
+
+************************************************ END *************************************************************
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 18:44:41,526 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'open', lang = 'en', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/en_cirrussearch_open
+Gathered "10000" texts for testing
+Time of execution = '0:38:49.998818'
+
+************************************************ END *************************************************************
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 19:24:46,285 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'open', lang = 'lv', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/lv_cirrussearch_open
+Gathered "10000" texts for testing
+Time of execution = '0:38:14.337019'
+
+************************************************ END *************************************************************
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 20:05:45,836 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'source', lang = 'en', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/en_cirrussearch_source
+Gathered "10000" texts for testing
+Time of execution = '0:37:44.275432'
+
+************************************************ END *************************************************************
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home_beegfs/artjom01/.conda/envs/my_conda_env/lib/python3.9/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11040). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+2024-05-12 20:44:55,061 | INFO | fairseq.tasks.text_to_speech | Please install tensorboardX: pip install tensorboardX
+
+************************************************ START *************************************************************
+Measuring time with parameters: model = 'bert', type = 'source', lang = 'lv', texts_amount = '10000'
+path for texts = /scratch/artjom01/Dataset/lv_cirrussearch_source
+Gathered "10000" texts for testing
+Time of execution = '0:40:16.699517'
+
+************************************************ END *************************************************************
