@@ -1,24 +1,25 @@
 from datetime import timedelta
+size = 10000
 
+# time_str = input("Give me time string in format 'hh:mm:ss.ms' = ")
+# hours, minutes, seconds = map(float, time_str.split(':'))
+# time_delta = timedelta(hours=hours, minutes=minutes, seconds=seconds)
+# seconds = time_delta.total_seconds()
+# microsecs = time_delta.microseconds
+# minutes = seconds / 60
+# hours   = minutes / 60
 
+# print(microsecs)
 
-from datetime import timedelta
+# print('timedelta = ', time_delta)
+# print('microsecs per record =', microsecs / size)
+# print('seconds per record   =', seconds / size)
+# print('minutes per record   =', minutes / size)
+# print('hous per record      =', hours / size)
 
-# Example timedelta string
-time_str = "1 day, 5:57:39.559462"
-
-# Parse days, hours, minutes, seconds
-parts = time_str.split(', ')
-days = int(parts[0].split(' ')[0])
-time_parts = parts[1].split(':')
-hours = int(time_parts[0])
-minutes = int(time_parts[1])
-seconds = float(time_parts[2])
-
-# Create timedelta object
-time_delta = timedelta(days=days, hours=hours, minutes=minutes, seconds=seconds)
-
-# Calculate total minutes
-total_minutes = time_delta.total_seconds() / 60
-
-print(total_minutes)
+# just for laser source en
+time_delta_given = timedelta(days=1, hours=5, minutes=57, seconds=39, microseconds=559462)
+minutes = time_delta_given.total_seconds() / 60
+seconds = time_delta_given.total_seconds()
+print('seconds per record = ', seconds / size)
+print('minutes per record = ', minutes / size)

@@ -9,8 +9,8 @@ def count_true_in_file(filepath):
             count += line.count('True')
     return count
 
-type = 'HNSW'
-#type = 'FLAT'
+#type = 'HNSW'
+type = 'FLAT'
 
 if type == 'HNSW':
     path = path_search
@@ -27,7 +27,7 @@ total = 77736
 
 with open(output_file, 'w', newline='') as file:
     writer = csv.writer(file, delimiter=';')
-    writer.writerow(["file_name", "successful_finds", "recall", "recall_percentage", "recall_percentage_rounded"])
+    writer.writerow(["model", "type", "kNN", "successful_finds", "recall", "recall_percentage", "recall_percentage_rounded"])
     
     for root, dirs, files in os.walk(path):
         # only csv, not output file, then sort by name length, if length same, then alhpabetically.
@@ -37,9 +37,12 @@ with open(output_file, 'w', newline='') as file:
             count = count_true_in_file(filepath)
             
             relative_path = filepath.split(os.path.sep)[-3::]
-            relative_path = os.path.sep.join(relative_path)
+            model = relative_path[0]
+            type  = relative_path[1]
+            kNN   = relative_path[2].split('.')[0]
 
             recall = count / total
             recall_percentage = recall * 100
             recall_percentage_rounded = round(recall_percentage, 2)
-            writer.writerow([relative_path, count, recall, recall_percentage, recall_percentage_rounded])
+
+            writer.writerow([model, type, kNN, count, recall, recall_percentage, recall_percentage_rounded])
