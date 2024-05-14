@@ -1,13 +1,24 @@
 from datetime import timedelta
 
-size = 10000
 
-time_str = input("Give me time string in format 'hh:mm:ss.ms' = ")
-hours, minutes, seconds = map(float, time_str.split(':'))
-time_delta = timedelta(hours=hours, minutes=minutes, seconds=seconds)
-minutes = time_delta.total_seconds() / 60
-seconds = time_delta.total_seconds()
 
-print('timedelta = ', time_delta)
-print('minutes per record =', minutes / size)
-print('seconds per record =', seconds / size)
+from datetime import timedelta
+
+# Example timedelta string
+time_str = "1 day, 5:57:39.559462"
+
+# Parse days, hours, minutes, seconds
+parts = time_str.split(', ')
+days = int(parts[0].split(' ')[0])
+time_parts = parts[1].split(':')
+hours = int(time_parts[0])
+minutes = int(time_parts[1])
+seconds = float(time_parts[2])
+
+# Create timedelta object
+time_delta = timedelta(days=days, hours=hours, minutes=minutes, seconds=seconds)
+
+# Calculate total minutes
+total_minutes = time_delta.total_seconds() / 60
+
+print(total_minutes)
