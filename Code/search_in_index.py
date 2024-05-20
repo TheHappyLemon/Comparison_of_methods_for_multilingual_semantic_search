@@ -1,6 +1,6 @@
 import h5py
-from constants import path_res, path_search, path_log, chunk_size, path_search_FLAT
-from utils import get_np_array_zero_rows, get_dict_from_json
+from constants import path_res, path_search, chunk_size, path_search_FLAT
+from utils import get_np_array_zero_rows
 import faiss
 import numpy as np
 import csv
@@ -90,7 +90,6 @@ if __name__ == '__main__':
     datasets = get_dataset_names(hdf5_file)
 
     with open(log_file, 'a', encoding='utf-8') as log_file:
-        #try:
         for dataset in datasets:
             index = build_index_from_hdf(hdf5_file, dataset)
             log_file.write(f"Succefully created index for dataset '{dataset}'\n")
@@ -109,7 +108,3 @@ if __name__ == '__main__':
                     log_file.write(f"Searching consequently for each element of '{query_dataset}'. k = '{k}'. Output to '{path_to_csv}'. Start time = '{start}'\n")
                     search_in_dataset(path_to_csv, index, query_dataset, k, file, log_file) 
                     log_file.write(f"Done. Execution time = '{datetime.now() - start}'\n")
-        #except Exception as e:
-            #log_file.write(f"Exception occured during searching: '{str(e)}'\n")
-
-
